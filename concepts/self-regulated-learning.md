@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 audience: [learners]
@@ -19,6 +19,8 @@ confidence: high
 - Research found a 'miscalibration gap': students can *perceive* more learning with GenAI while retaining less — preferring AI over note-taking despite weaker retention. If you feel productive while using a tool, how would you ever discover that you're not actually learning more?
 - Whether GenAI functions as a scaffold, shortcut, or partner depends more on the learner's regulatory capacity than on the tool itself. But the page also shows self-regulation buffers — yet does not cancel — the harm of deep cognitive offloading. What does that 'buffers but doesn't cancel' caveat mean for designing better AI tools?
 - Set a goal before reading: pick one task you regularly use AI for, and decide in advance which of the three SRL phases (forethought, performance, reflection) you'll deliberately protect from being automated. What result will tell you it worked?
+
+## Introduction
 
 SRL is the process whereby learners actively manage their own learning through three interrelated phases:
 

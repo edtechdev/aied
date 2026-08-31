@@ -1,7 +1,7 @@
 ---
 title: Critical Pedagogy
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [critical-pedagogy, equity-in-ai-education, critical-thinking, ai-literacy, agency, ethics, reducing-ai-misuse]
 confidence: high
@@ -17,6 +17,8 @@ confidence: high
 - Critical AI literacy can include 'resisting AI' — refusing the inevitability of tech as a solution. In what situations might strategic refusal or non-use be a more responsible choice than adoption?
 - Who gets to decide what counts as authoritative knowledge? If AI systems are positioned as authoritative, what happens to learners' own lived and community epistemologies?
 - Under critical pedagogy, a teacher is not a neutral transmitter of AI skills but a facilitator who helps learners interrogate the politics of AI. How comfortable are you with that role, and what would it ask of you?
+
+## Introduction
 
 Critical pedagogy is distinct from [[critical-thinking]]. Critical thinking is a cognitive skill — evaluating arguments, questioning assumptions, and reasoning carefully — that can be practiced within almost any framework. Critical pedagogy, by contrast, is a *political and ethical stance* that connects those skills to questions of power, justice, [[equity-in-ai-education|equity]], and social transformation. The knowledge base treats them as related but distinct concepts: critical thinking asks "is this reasoning sound?", while critical pedagogy asks "who does this education serve, and whose knowledge counts?".
 

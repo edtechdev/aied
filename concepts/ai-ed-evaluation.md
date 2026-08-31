@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop-ai, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 research_method: [benchmark, educational measurement]
@@ -22,6 +22,8 @@ confidence: high
 - The 'ground truth' systems are judged against is often contested — what counts as a correct answer or grade varies across experts and disciplines. How does that uncertainty complicate trusting any evaluation?
 - Research shows text-based LLM evaluators privilege explicitly verbalized behaviors and under-weight implicit context — an 'explicit-cue bias.' What kinds of good teaching might a machine systematically miss because it only looks for the obvious?
 - Modern evaluation also weighs environmental and infrastructural cost — energy, hardware — not just output quality. Should sustainability factor into how you judge an AI tool's value?
+
+## Introduction
 
 AI-ed evaluation spans several distinct objects of assessment. It can evaluate the **output** (is the AI's answer, grade, or feedback correct and reliable?), the **process** (does the tool support valid, defensible assessment and learning?), and the **agent** (does an AI tutor or agent teach effectively and behave appropriately?). Each requires different methods and raises different validity questions.
 

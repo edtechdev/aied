@@ -1,7 +1,7 @@
 ---
 title: History of AI in Education
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [history-of-aied, ai-education, intelligent-tutoring, constructivist, agency, learning-theories, generative-ai]
 confidence: high
@@ -17,6 +17,8 @@ confidence: high
 - Personalization, the page argues, has two meanings: varying the path to the same outcome, or enabling diverse, learner-directed outcomes. Which kind of personalization does your institution actually pursue, and which do you think it should?
 - If today's GenAI debates 'mirror' these historical tensions, what past mistakes might we be repeating — and what might we avoid by remembering them?
 - The page claims technical design choices embed value judgments about learning's purpose. Can you identify a design decision in an AI education tool you've used that quietly favored standardization over learner agency — or vice versa?
+
+## Introduction
 
 The field's history is not a linear progression but a series of contingent decisions whose effects still echo. Understanding this history guards against "chronocentrism" (the bias of treating current developments as uniquely revolutionary), helps avoid repeating past mistakes, and reveals how choices about framing and terminology — not just technology — steer the trajectory of AI in education.
 

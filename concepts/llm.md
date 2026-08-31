@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy]
 
@@ -17,6 +17,8 @@ confidence: high
 - The page reports that three different LLMs produced sharply divergent support plans for the same learning-analytics input, each with different demographic assumptions. If models aren't interchangeable as advisors, what does that mean for an institution that adopts one?
 - Because LLM output is sensitive to prompts and settings, two people can get very different results from the same model. How should this influence how you — as a learner or designer — phrase requests, and how much you trust a single output?
 - A key limitation is hallucination — plausible-sounding but ungrounded content. In a tutoring or grading context, what would it take for you to feel confident the model wasn't inventing something, and what safeguards would you demand before letting it assess a real student?
+
+## Introduction
 
 ### LLMs as the engine of AIED
 

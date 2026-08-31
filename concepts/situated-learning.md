@@ -1,7 +1,7 @@
 ---
 title: Situated Learning
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [situated-learning, experiential-learning, constructivist, learning-theories, sociocultural-learning, learning-design, ai-education]
 category: [instructional design]
@@ -17,6 +17,8 @@ confidence: high
 - If knowledge is 'situated' in authentic contexts, what does that imply for the traditional classroom, which deliberately separates learning from real-world situations — and for AI tools designed to deliver decontextualized content?
 - The page treats situated learning as a design lens for AI. How might an adaptive system or simulation ground learning in authentic practice rather than pulling it out of context?
 - What obstacles does the research say stand in the way of situating AI-driven learning in real contexts, and which of those have you seen in your own institution?
+
+## Introduction
 
 Situated learning is one of the activity-and-context theories within the knowledge base's [[learning-theories]] strand. It takes up Vygotskian themes of social construction but adds a strong emphasis on the intimate integration of "doing" and "learning" and on the importance of communities of practice. As an educational stance it confronts traditional, standardized schooling by foregrounding the learner's [[sociocultural-learning|sociocultural]] context as a key element for acquiring skills and appropriating knowledge relevant to their reality.
 

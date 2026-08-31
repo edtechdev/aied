@@ -1,7 +1,7 @@
 ---
 title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [ai-literacy, affective-computing, well-being, teacher-ai-competency, student-experience, ethics, self-regulated-learning, higher-ed]
 audience: [learners]
@@ -18,6 +18,8 @@ confidence: high
 - If technical AI literacy alone is 'insufficient' for navigating AI-mediated learning, what do you think is missing — and what does that imply for how you prepare students (or yourself)?
 - How might heavy reliance on AI reshape a student's sociability, empathy, or sense of trust — and are those changes something education should actively design for?
 - The research suggests SEL supports the relational dimensions of learning that AI must 'complement rather than replace.' Where have you seen technology strengthen a human relationship, and where has it quietly substituted for one?
+
+## Introduction
 
 Social-emotional learning is closely related to, but distinct from, emotional intelligence (EI): SEL/SEC (social-emotional competencies) encompasses the ability to synchronize thoughts, emotions, and actions for positive interactions, while EI is an individual's capacity to process emotional information (conceptualized through ability models — reasoning and problem-solving — or trait models — emotional dispositions and behaviours). In the AI era, SEL matters because AI can reshape learning in ways that affect students' relational and emotional development, and because educators need both technological skill and emotional intelligence to support learners effectively.
 

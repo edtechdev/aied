@@ -1,7 +1,7 @@
 ---
 title: RCT
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, research-methods-aied]
 research_method: [research methods, experiment]
@@ -18,6 +18,8 @@ confidence: high
 - The page calls the RCT the gold standard but lists real costs: artificial settings, fast-changing AI that dates trials, underpowered small samples, and ethical constraints on withholding helpful tools. Which of these trade-offs do you think is most often ignored in education research headlines?
 - An RCT with 1,174 participants found GenAI closed about three-quarters of an education-based productivity gap. But a well-run RCT can still be conducted on a narrow task in a contrived setting. What should you check about the *outcome measure* before trusting the causal claim?
 - Consider the ethics problem directly: if you had genuine reason to believe an AI tutor helps students learn, is it defensible to randomly deny it to half a classroom for a semester? How would you design an ethically sound study that still isolates the cause?
+
+## Introduction
 
 Randomization is what distinguishes an RCT from other designs: by randomly assigning learners to conditions, an RCT balances known and unknown confounders across groups, so any observed difference in outcomes can be attributed to the intervention with high internal validity.
 

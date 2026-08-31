@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Safety
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor]
 type: concept
 tags: [hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading]
@@ -19,6 +19,8 @@ confidence: high
 - Harm rates rose from ~18% on single-turn evaluations to ~78% on multi-turn ones. What does that tell you about testing AI tutors with one-shot questions versus real extended conversations?
 - The 'Paternalistic Filter' audit found refusals and softened answers patterned by student identity. How might over-cautious safety policies reproduce epistemic injustice even while 'protecting'?
 - If simulated students are themselves sycophantic—abandoning their assigned misconceptions at any correction—what might that hide about how real learners actually respond to a tutor?
+
+## Introduction
 
 Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and content refusal — is necessary but not sufficient for education. The [[ai-tutor-safety-harms|harm taxonomies]] emerging from the knowledge base's own articles show that the most damaging tutoring failures are quiet: a tutor that answers correctly yet erodes learning, or refuses evenly yet entrenches inequality. The evidence below groups these findings into four interlocking safety concerns.
 

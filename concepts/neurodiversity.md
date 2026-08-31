@@ -1,7 +1,7 @@
 ---
 title: Neurodiversity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [special-education, inclusive-learning, student-experience, equity-in-ai-education, neurodiversity]
 audience: [learners]
@@ -18,6 +18,8 @@ confidence: high
 - AI that reduces cognitive load can support learners who struggle with executive function or social expectations, yet AI that encourages dependency may undermine them. Where do you draw the line between support and over-reliance for a specific learner?
 - The page warns that AI tools which assume a dominant communication style can recapitulate equity gaps. Can you recall a time a 'one-size-fits-all' tool or classroom assumed everyone learned the same way, and what it overlooked?
 - How might a learner's neurotype change how their behavior signals are interpreted in learning analytics? What risk arises when AI reads engagement or struggle without knowing how a particular brain works?
+
+## Introduction
 
 The neurodiversity paradigm shifts the goal of [[special-education]] and accessibility work from "fix the learner" to "adapt the environment." It overlaps with [[universal-design-for-learning]] and [[inclusive-learning]] but emphasizes affirming identity and strength-based design over accommodation-as-compensation.
 

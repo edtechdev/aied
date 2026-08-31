@@ -1,7 +1,7 @@
 ---
 title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [mixed-methods-research, research-methods-aied, qualitative-research, quantitative-research]
 research_method: [mixed methods, research methods, qualitative, survey]
@@ -17,6 +17,8 @@ confidence: high
 - One design pattern (sequential explanatory) collects quantitative data first, then uses interviews to explain surprising results. Can you think of an educational outcome that was puzzling numerically until qualitative accounts revealed the mechanism?
 - Triangulation is the core value: when independent strands converge, confidence rises, and when they diverge, the discrepancy itself is informative. Have you ever had two sources of evidence about the same thing contradict each other — and what did you learn from the conflict?
 - Mixed methods can simultaneously capture effects (how much learning gain) and meaning (trust, identity, agency) — things no single survey or interview captures alone. If you were studying whether an AI tool helps students, what quantitative and qualitative questions would you pair, and in what order?
+
+## Introduction
 
 Mixed-methods designs integrate the breadth, precision, and causal power of quantitative methods with the depth, context, and meaning of qualitative methods. The value proposition is **triangulation**: when independent strands converge on the same conclusion, confidence increases; when they diverge, the discrepancy itself is informative.
 

@@ -1,7 +1,7 @@
 ---
 title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [inclusive-learning, equity-in-ai-education, special-education, learning-design, student-experience]
 audience: [learners]
@@ -20,6 +20,8 @@ confidence: high
 - A common misconception is that UDL means lowering standards or giving everyone different outcomes. Consider an assignment that lets students submit an essay, a video, a diagram, or code for the same learning outcome. Is that a watering-down, or a fairer way to assess the same ability? Defend your view.
 - UDL turns 'fix the learner' into 'fix the design.' Pick a frustrating learning experience you've had or designed. If the barrier were a design problem rather than a student problem, what would you change about the design to remove it for everyone?
 - The page warns against AI that assumes one communication style or penalizes neurodivergent expression. If you use or design AI-assisted tools, where might 'default' styles quietly exclude learners — and what would it take to audit for that?
+
+## Introduction
 
 UDL rests on the insight that learner variability is the norm, not the exception. Rather than designing a single path and adding support for those who struggle, UDL designs multiple pathways from the start so that barriers are removed for everyone. It is a core lens for [[inclusive-learning]], [[equity-in-ai-education]], and [[special-education]].
 

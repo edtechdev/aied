@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, adaptive-learning, student-modeling, personalized-learning, student-experience, llm]
 audience: [learners]
@@ -18,6 +18,8 @@ confidence: medium
 - Knowledge tracing comes in many forms — Bayesian, neural, hypergraph, dialogue-based, LLM-enhanced. What trade-offs would you expect between a transparent model you can explain and a powerful but opaque one?
 - The page connects knowledge tracing to simulated students — generating the knowledge states tracing normally infers from real data. How might simulating learners help test a tutor before it meets real students?
 - Since knowledge decays over time, what should an adaptive system do with a student's past 'mastery' once they've forgotten? How would you design for forgetting rather than assuming knowledge persists?
+
+## Introduction
 
 Knowledge tracing transforms raw exercise responses into estimates of what a student has mastered and what they still need to learn. Unlike simple correctness tracking, knowledge tracing models the temporal dynamics of learning — when knowledge is gained, when it decays, and how concepts relate to each other.
 

@@ -1,7 +1,7 @@
 ---
 title: Reinforcement Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [llm, pedagogical-safety, intelligent-tutoring, special-education, personalized-learning, k-12, scaffolding, active-learning, adaptive-learning, higher-ed]
 level: [special education, k 12, higher ed]
@@ -17,6 +17,8 @@ confidence: medium
 - RL trains agents to make long-horizon sequences of decisions (what hint, when to advance difficulty, how to pace) rather than single answers. How is that different from the moment-to-moment correctness you might naively reward — and why does the difference matter for learning?
 - Safety constraints can be integrated into RL so that reward optimization doesn't come at the cost of learner well-being. Think of a 'helpful' behavior a reward-optimizing tutor might exhibit that would actually be pedagogically harmful (e.g., giving away answers to inflate completion). Where would your safety line go?
 - Reward optimization can preserve or destroy productive struggle, depending on design. From your experience, is 'student completes task' the same as 'student learns'? Where have you seen an AI optimized for the former while undermining the latter?
+
+## Introduction
 
 ### How reinforcement learning works in AIED
 

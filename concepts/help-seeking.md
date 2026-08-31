@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [help-seeking, intelligent-tutoring, student-experience, metacognition, higher-ed, llm, generative-ai, ai-literacy, k-12, scaffolding, self-regulated-learning]
 audience: [learners]
@@ -19,6 +19,8 @@ confidence: high
 - One study found that simply warning students an AI could make mistakes actually increased their help-seeking. How might healthy skepticism change how students engage with a tutor versus blind trust?
 - Struggling students are often the least likely to seek help unprompted. If the students who most need support don't reach out, how should AI tools and instructors respond?
 - The page proposes delaying hints and moving the design question from 'whether' to 'how' to provide help. What would a well-designed help experience look like for your learners — and what would make them actually take it up?
+
+## Introduction
 
 Help-seeking is a well-established construct in learning research, closely tied to [[self-regulated-learning]] and [[metacognition]]: it requires learners to monitor their own understanding, recognize a gap, decide help is needed, and formulate an effective request. With the rise of generative AI tutors, help-seeking has taken on new importance — and new failure modes. Learners often *intend* to use AI for learning but default to asking for direct answers, a gap that research in this knowledge base documents across domains and age groups.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
 

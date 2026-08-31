@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [desirable-difficulties, cognitive-psychology, self-regulated-learning, cognitive-offloading, learning-theories, scaffolding, metacognition]
 
@@ -18,6 +18,8 @@ confidence: high
 - This page distinguishes desirable difficulties (memory optimization from cognitive psychology) from productive/cognitive friction (engagement guardrails from UX design). Can you see why the same educational goal needs both — and where they'd diverge?
 - Some AI tutors are found to 'over-scaffold' — removing the very effortful processing desirable difficulties require. If you were evaluating an AI tutor, what concrete behavior would tell you it's preserving productive struggle rather than collapsing to answer-giving?
 - Confusion is framed here as a resource, not a bug — when resolved productively it drives deep processing, but unaddressed it decays into frustration. Where's the line between productive struggle worth preserving and frustration that's just harmful?
+
+## Introduction
 
 ## The Effort–Learning Trade-Off
 

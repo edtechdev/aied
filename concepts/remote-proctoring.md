@@ -1,7 +1,7 @@
 ---
 title: Remote Proctoring
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [remote-proctoring, academic-integrity, summative-assessment, online-teaching-and-learning, privacy, equity-in-ai-education, higher-ed]
 level: [higher ed]
@@ -18,6 +18,8 @@ confidence: high
 - Automated proctoring captures students' living space, face, and voice, often with little genuine choice but to consent. Where is the line between reasonable exam supervision and surveillance that presumes students guilty until proven honest — and who should draw it?
 - Research shows proctoring can flag benign behavior as suspicious, producing false accusations, and that model accuracy varies across demographics and environments. If you're an administrator, how do you weigh the integrity it recovers against the equity and trust it can erode?
 - The page frames proctoring as one tool, not a solution — alternatives like oral and process-based assessment exist. Before reading, which approach would you defend for high-stakes assessment in a remote context, and what evidence would change your mind?
+
+## Introduction
 
 Remote proctoring exists on a spectrum. **Online proctoring** typically involves a human proctor monitoring a student through a webcam or from a control center. **Automated/AI-based proctoring (AIPS)** replaces or augments the human with machine-learning and deep-learning systems (CNNs, RNNs, LSTMs) that analyze visual cues — eye movements, head posture, facial expressions, and body language — to detect suspicious behavior in real time. Common platforms include ProctorU and Kryterion. AIPS typically combine four functions: (1) identity authentication (e.g., camera face verification), (2) browsing restrictions, (3) remote authorization/control of the exam, and (4) report generation from recorded sessions.
 

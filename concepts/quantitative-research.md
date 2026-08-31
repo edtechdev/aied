@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [quantitative-research, research-methods-aied, educational-measurement]
 research_method: [survey, research methods, educational measurement, experiment]
@@ -18,6 +18,8 @@ confidence: high
 - An RCT randomly assigns learners to conditions to estimate a causal effect. What makes random assignment powerful, and what practical and ethical problems arise when the 'treatment' is a possibly-helpful AI tool that some students are being denied?
 - Longitudinal designs track the same learners over time — essential for distinguishing AI-inflated performance from durable learning. Why would a single snapshot of high scores fail to reveal whether learning actually happened?
 - Quantitative work provides breadth and causal power; qualitative work provides depth and meaning. Before reading the pairing, where do you think numbers alone have most likely misled you about a learning claim, and what method would you add to check it?
+
+## Introduction
 
 Quantitative research spans descriptive designs (measuring prevalence and patterns), correlational/observational designs (testing relationships among variables), and experimental and quasi-experimental designs (estimating causal effects). What unifies them is the systematic reduction of observations to numbers, analyzed with statistics, and the priority placed on **reliability, validity, and generalizability** — the core concerns of [[educational-measurement]].
 

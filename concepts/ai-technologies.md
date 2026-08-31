@@ -1,7 +1,7 @@
 ---
 title: Technologies
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [ai-technologies, generative-ai, llm, rag, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, prompt-engineering, agentic-ai]
 confidence: high
@@ -16,6 +16,8 @@ confidence: high
 - The page claims that technical choices embody pedagogical assumptions: a tutor built on Socratic prompting reasons with learners, while an answer-generating model may just hand over solutions. Can you recall an AI tool you've used that seemed to 'assume' a particular teaching philosophy — and did that align with how you actually wanted to teach or learn?
 - Beyond raw accuracy, this page suggests AI systems should be evaluated on reliability, pedagogy, and equity. What headline metric do you suspect most people (including many educators) default to when judging whether an AI tool 'works', and why might that metric hide more than it reveals?
 - Agentic AI is described as shifting AI 'from a prompt-responding tool into a proactive collaborator.' How might a system that initiates and orchestrates multi-step workflows on its own change what you, as an instructor or learner, are responsible for — and who holds it accountable?
+
+## Introduction
 
 [[ai-education|AI in education]] runs on a specific technical stack, and understanding it matters for [[teacher-role|educators]] and researchers even when they do not build systems themselves — because technical choices shape what AI can and cannot do in the classroom, the risks it carries, and how to evaluate it. This page organizes the knowledge base's technical-concept coverage: the AI systems, the techniques that adapt and control them, and how the technical layer connects to pedagogy, assessment, and evaluation.
 

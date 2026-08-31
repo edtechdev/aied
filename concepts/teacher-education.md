@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
 audience: [instructors]
@@ -18,6 +18,8 @@ confidence: high
 - Frameworks like AI-TPACK extend the classic TPACK model by adding an AI and ethics dimension. What do you think an 'AI dimension' of technological-pedagogical-content knowledge should actually contain beyond how to operate a chatbot?
 - A scoping review of 55 studies cited on the page finds AI enhances pre-service teachers' instructional design, reflection, and critical thinking. But if AI can do some of this for them, when does its use in teacher training build skill versus substitute for the very judgment they'll need?
 - If you were redesigning a teacher-education program for the AI era, what would you require every future teacher to experience — and what would you deliberately keep them from outsourcing to AI?
+
+## Introduction
 
 Teacher education sits at the intersection of several knowledge base strands: it is a discipline/domain (like [[medical-education]] and [[humanities-education]]), but it also draws on the general concepts of [[teacher-role]], [[tpack]], [[teacher-ai-competency]], and [[ai-literacy]]. In the AI era, teacher education must prepare teachers not only to use AI tools but to understand, evaluate, and ethically integrate them — a shift that redefines what it means to be a teacher.
 

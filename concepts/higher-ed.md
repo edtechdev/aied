@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, educational-development, student-experience, academic-integrity]
 audience: [learners, instructors, faculty development, administrator]
@@ -20,6 +20,8 @@ confidence: high
 - As AI makes personalized one-on-one support nearly free and universal, how does that shift the value and role of the university itself? What becomes scarcer and therefore more valuable?
 - One finding notes a decline in study time among college students using AI. If students spend less time studying but report satisfaction, what does that suggest about what institutions should be measuring and guarding?
 - Given the gap between faculty self-assessed and actual AI readiness, what would meaningful faculty development look like in your context — and who should be responsible for it?
+
+## Introduction
 
 AI in higher education research spans every function of the university: from [[intelligent-tutoring|AI tutoring]] and [[automated-assessment|automated grading]] to faculty development, academic integrity, [[governance|institutional governance]], and student support. The knowledge base's higher education articles cluster around several key themes — institutional transformation, student experience at scale, faculty and teaching, assessment and integrity, and the rapid shift in policy and practice.
 

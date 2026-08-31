@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [game-based-learning, student-engagement, educational-robotics, motivation, active-learning]
 category: [engagement]
@@ -16,6 +16,8 @@ confidence: high
 - A comparative review found game-based learning more prevalent in informal settings while gamification dominated formal classrooms and favored project-based learning. Why do you think each approach found a different home — and what does that tell us about where each works best?
 - Gamification is grounded in self-determination theory — autonomy, competence, relatedness. If motivation is about satisfying those needs, why might a points-and-badges system succeed or fail depending on how it shapes perceived effort and attention?
 - Research suggests the motivational benefit of game-like and AI-supported designs depends on how they shape perceived workload and attention, not on gamification alone. When have you seen a game or badges boost engagement without actually improving learning — or vice versa?
+
+## Introduction
 
 GBL is grounded in [[motivation]], [[student-engagement]], and [[active-learning]] theories: games provide intrinsic motivation, immediate feedback, and authentic problem contexts. It overlaps with [[simulation]], [[project-based-learning]], and [[educational-robotics]]. GBL is particularly relevant to [[educational-robotics]], [[computational-thinking]], and [[cs-education]], where games can make abstract technical concepts concrete and fun.
 

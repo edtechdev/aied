@@ -1,7 +1,7 @@
 ---
 title: Cognitive Diagnosis
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [student-modeling, educational-measurement, knowledge-tracing, assessment, intelligent-tutoring, learning-analytics, psychometrically-aware-ai]
 research_method: [educational measurement]
@@ -18,6 +18,8 @@ confidence: high
 - The page distinguishes cognitive diagnosis (a static, fine-grained snapshot of what a learner currently holds) from knowledge tracing (the temporal dynamics of mastery over time). Why would an intelligent tutor need both — to know what's wrong and to know what to teach next?
 - A design principle here is to separate diagnosis from feedback: LLM tutors confirm correct steps but over-reject valid reasoning and over-validate errors, and accurate diagnosis does not reliably yield actionable feedback. Why might knowing what's wrong still fail to produce a helpful next step?
 - LLM-era diagnosis extends from multiple-choice to open-ended, handwritten, and conversational work. What might go wrong if an AI diagnoses a misconception from work it can't fully understand — and how would you verify that the diagnosis itself is trustworthy?
+
+## Introduction
 
 Whereas knowledge tracing typically estimates a scalar mastery over time, cognitive diagnosis produces a more granular profile: which knowledge components are mastered, which are fragile, and which misconceptions are present. This profile is the substrate for [[personalized-learning]], [[intelligent-tutoring]], and [[adaptive-learning]].
 

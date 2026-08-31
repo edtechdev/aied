@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [problem-solving, critical-thinking, generative-ai, cognitive-psychology]
 confidence: medium
@@ -17,6 +17,8 @@ confidence: medium
 - One experiment found reflective and hybrid feedback outperformed direct AI feedback on delayed, AI-free transfer. Why might feedback that makes you do more work lead to learning that lasts longer?
 - How does teaching students to *pose* their own problems (rather than only solve given ones) support transfer and self-study? When has generating a question taught you more than answering one?
 - If AI errors are treated as provocations to question and verify, a limitation becomes a learning opportunity. Have you ever learned more from an AI's mistake than from its right answer?
+
+## Introduction
 
 Generative AI offers clear support for problem solving. [[generative-ai|LLM]] tools help students explore alternative solutions, incorporate interdisciplinary perspectives, and simulate authentic real-world scenarios — such as [[medical-education|clinical]] and [[ethics|ethical]] dilemmas or prototype testing in [[stem-education|STEM]] — while delivering scalable, timely feedback and shifting assessment toward scenario-based, competency-based evaluation. In [[ai-assisted-collaborative-learning-model-dbr|design-based research]], AI positioned as an "intelligent [[pedagogical-agent|learning partner]]" within structured collaborative tasks produced substantial [[learning-gains|gains]] in problem-solving performance, with students increasingly using AI to generate multiple perspectives rather than seek single answers.
 

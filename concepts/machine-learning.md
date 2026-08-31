@@ -4,7 +4,7 @@ type: concept
 tags: [machine-learning, student-modeling, learning-analytics, ai-technologies, generative-ai]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 ---
 
 > **Machine learning** — the technical foundation of AI in education: algorithms that infer patterns, predictions, and policies from educational data rather than from hand-coded rules. It spans supervised learning (classifying at-risk students, predicting grades), unsupervised learning (discovering learner clusters), reinforcement learning (inducing tutoring and scaffolding policies), and deep learning (neural models for sequences, courses, and visual behavior). [[generative-ai|Generative AI]] is the latest and most visible subset, but it sits atop a much older stack of predictive and adaptive machinery.
@@ -17,6 +17,8 @@ updated: "2026-08-31T06:22:29-04:00"
 - Predictive models trained on historical grades can encode systemic bias, and automated proctoring raises false-positive risks that wrongly flag normal behavior. When data carries the biases of the past, how much should we trust an AI that uses it to make high-stakes educational decisions?
 - Some AI systems outperform human-interpretable methods but remain opaque — you can see they work but not why. In education, when is interpretability a 'nice to have' and when is it non-negotiable?
 - Generative AI is often treated as entirely new, but the page frames it as the latest subset of machine learning. How does seeing ChatGPT as part of the same predictive and adaptive machinery change what risks and limits you'd expect it to inherit?
+
+## Introduction
 
 Machine learning is what turns educational traces into actionable intelligence. It powers the [[student-modeling|student models]] behind [[adaptive-learning|adaptive systems]], the [[learning-analytics|learning-analytics]] dashboards that flag at-risk learners, the [[intelligent-tutoring|intelligent tutors]] that choose the next problem or scaffold, and the automated proctoring systems that monitor remote exams. Across the articles synthesized here, the pattern is consistent: collect data on learners, learn a predictive or decision model from it, and act on that model — whether the action is early-warning, course recommendation, [[scaffolding|adaptive scaffolding]], or exam surveillance.
 

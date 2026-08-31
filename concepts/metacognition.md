@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 audience: [learners]
@@ -18,6 +18,8 @@ confidence: high
 - The page frames metacognition as both a target (can AI build it?) and a risk (can AI suppress it?). Could the same AI tool either strengthen or weaken a learner's metacognition depending on how it's designed or used? What determines which way it goes?
 - Structured prompts that ask students to self-explain, evaluate strategies, or identify gaps preserve metacognitive demand, while AI that simply completes tasks displaces it. If you were designing an AI study tool, what would you build so that it invites reflection instead of replacing it?
 - The page finds that whether AI use is metacognitively rich depends on the learner's motivation and stance as much as on the technology. Have you ever used a tool in a shallow way and then realized you learned nothing — and what was different about times you used it deeply?
+
+## Introduction
 
 Metacognition in education refers to learners' awareness, monitoring, and [[regulation]] of their own cognitive processes:
 

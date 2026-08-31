@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [formative-assessment, assessment, automated-assessment, feedback, ai-feedback-quality, learning-analytics, personalized-learning, adaptive-learning, generative-ai, llm, human-in-the-loop-ai, scaffolding, ai-education]
 category: [assessment]
@@ -17,6 +17,8 @@ confidence: high
 - AI can generate multiple-choice questions with impressive accuracy on verifiable dimensions, but is weakest on instructional-judgment dimensions. If a machine is good at correct answers but weaker at pedagogical judgment, what should it be trusted to do — and what should humans keep doing?
 - AI-generated feedback only helps when students actually enact it — the 'enacted feedback' condition, where students select, evaluate, and apply suggestions, outperformed simply being given feedback. If enactment matters more than the feedback itself, what does that mean for how formative feedback should be designed?
 - Feedback is described not as information transfer but as an ethical, relational practice. What gets lost when formative assessment is mass-produced as 'AI slop' — and what can human comment banks and relational care preserve?
+
+## Introduction
 
 Formative assessment is central to AI in education because it sits at the junction of [[assessment]] and [[feedback|learning feedback]]. Its purpose is to close the loop: surface what students know and don't know, and provide feedback they can act on to improve. AI makes this feasible at scale — generating items, scoring responses, and delivering individualized feedback — but the knowledge base's research shows that quality varies dramatically across item types, and that feedback only helps when students actually enact it.
 

@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [ai-education, educational-measurement, rct, benchmark, ai-ed-evaluation, higher-ed]
 research_method: [educational measurement, experiment, randomized controlled trial, benchmark, research methods]
@@ -21,6 +21,8 @@ connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity
 - Design-based research iterates on a real intervention but can't attribute gains to a specific mechanism, while an RCT isolates causes but runs in artificial conditions. Given the fast pace of AI change, how long do you think a rigorous RCT remains relevant before the tool it tested is obsolete?
 - Delphi expert consensus establishes agreement among experts, not empirical effect. When is it legitimate to build a competency framework from what experts believe, versus from data about what works — and how would you tell the difference in practice?
 - The page advocates triangulation — combining benchmark evaluation, experiments, measurement, and qualitative work to judge both whether a tool works and how. Before you read, where in a claim like 'this AI improves learning' would each method be needed to make you confident?
+
+## Introduction
 
 The central tension in AIED research is that the strongest designs for causal inference — randomized experiments — are often the hardest to run with authentic AI tools in real classrooms, while the most authentic settings (field deployments, case studies, log-data analyses) offer weaker causal control. No single method resolves this; the field advances by triangulating across methods, and by being explicit about what kind of claim each design can support. Every method also carries cross-cutting limitations — generalizability, measurement validity, the fast pace of AI change, reproducibility, and weak theory use — that readers must weigh; see [[limitations-in-aied-research]].
 

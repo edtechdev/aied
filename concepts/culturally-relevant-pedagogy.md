@@ -1,7 +1,7 @@
 ---
 title: Culturally Relevant Pedagogy
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [equity-in-ai-education, curriculum-design, inclusive-learning, k-12, ai-literacy, higher-ed, generative-ai, llm, student-experience, intelligent-tutoring]
 audience: [learners]
@@ -20,6 +20,8 @@ Culturally Relevant Pedagogy (CRP), introduced by Gloria Ladson-Billings (1995),
 - Community-based AI learning proposes that learners' own lived epistemologies should be the standard for evaluating AI output, with refusal and non-use treated as valid responses. How would you center community knowledge as the judge of an AI's relevance and harm?
 - Culturally grounded data can dramatically improve an AI's relevance — one Indian-knowledge dataset moved a small model from near zero to rivaling a far larger general-purpose one. If better data is the fix, who should build and own it?
 - A cross-cultural study found that identical AI-use behaviors were judged ethical in one country and unethical in another, regardless of written policy. What does that tell you about trying to govern AI use with uniform rules?
+
+## Introduction
 
 ### AI's Double-Edged Role in CRP
 

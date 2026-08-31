@@ -1,7 +1,7 @@
 ---
 title: Lifelong Learning
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [lifelong-learning, personalized-learning, professional-training, llm, intelligent-tutoring, higher-ed, generative-ai, adaptive-learning, scaffolding, k-12]
 level: [higher ed, k 12]
@@ -17,6 +17,8 @@ confidence: medium
 - Formal education treats time as fixed and curricula as sequential. The page proposes 'Learnity graphs' — interconnected units of knowledge learners navigate flexibly across a lifetime. What do you gain, and what do you risk losing, by freeing learning from a fixed sequence?
 - AI can both support adult learners and change which skills adults must continuously update. If AI keeps reshaping your field, what capabilities would you invest in that no tool can simply give you?
 - Lifelong learning is often framed as an individual's responsibility. But access across the lifespan is also an equity question. Who gets the time, resources, and support to keep learning as an adult — and how might AI widen or narrow that gap?
+
+## Introduction
 
 Lifelong learning refers to continuous education throughout life — upskilling, reskilling, [[professional-training|professional development]], and informal learning beyond formal degrees. AI is increasingly central to this, both as a tool that supports adult learners and as a force that changes the skills adults must continually update.
 

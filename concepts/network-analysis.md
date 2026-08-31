@@ -1,7 +1,7 @@
 ---
 title: Network Analysis
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [network-analysis, research-methods-aied, learning-analytics, knowledge-graph]
 research_method: [learning analytics, research methods]
@@ -17,6 +17,8 @@ confidence: high
 - The page distinguishes Epistemic, Social, and Transition network analysis. Without knowing the details, can you guess which variant you'd use to study (a) how people collaborate, (b) which ideas co-occur in student reasoning, and (c) how learners move between states over time?
 - A researcher finds that high- and low-literacy learners use the same AI tool but produce very different network structures of reasoning. What does that tell you about evaluating AI tools with a single average score?
 - Network metrics like 'density' and 'centrality' describe whether interaction is random or organized around hubs. When would an organized network centered on one learner be a sign of good collaboration—and when a sign of a problem?
+
+## Introduction
 
 Network analysis methods share a core premise: that the structure of connections — not just their presence or frequency — carries meaning. Rather than asking "how much of X occurred," they ask "how are elements connected, and what does that connectivity reveal about [[metacognition|cognition]], [[collaborative-learning|collaboration]], or learning processes?" This makes them especially valuable in AI-in-education, where researchers increasingly want to understand the *process* of learner–AI interaction (how learners navigate [[feedback]], dialogue, and revision) rather than only the product (final scores, error rates).
 

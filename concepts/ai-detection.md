@@ -1,7 +1,7 @@
 ---
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, cognitive-offloading, assessment, educational-policy-ai, llm, assessment-validity, equity-in-ai-education]
 audience: [learners]
@@ -21,6 +21,8 @@ confidence: high
 - Detection can undermine integrity rather than safeguard it, fostering a climate of suspicion that erodes trust. How does being watched change how you, or a student, behave in an assessment?
 - Research suggests detection should be a limited, situational tool rather than a strategy of first resort, and that assessment design should recognize AI's role. What alternatives to detection might better verify what a student actually learned?
 - AI detectors can't be independently verified in real submissions — there's no ground truth for whether a flagged text was actually AI-generated. How comfortable are you acting on an unverifiable probability in an integrity investigation?
+
+## Introduction
 
 AI detection sits at the intersection of [[academic-integrity]], [[generative-ai]], [[llm|large language models]], and [[assessment]]. It arose as institutions confronted students using LLMs to draft essays, code, and short answers. The field has two intertwined strands: **technical detection** (how reliably can AI-generated content be identified?) and **institutional response** (what should detection lead to, given its limits and fairness concerns?).
 
