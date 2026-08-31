@@ -25,14 +25,14 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Essentials', items: ['ai-education', 'misconceptions', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'teacher-role', 'learning-design', 'educational-development'] },
       { label: 'The field', items: ['history-of-aied', 'limitations-in-aied-research', 'philosophy-of-ai-in-education', 'theory-development-aied'] },
-      { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'sustainability', 'computational-thinking'] },
+      { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'critical-thinking', 'sustainability', 'computational-thinking'] },
     ],
   },
   {
     heading: 'Learning and instruction',
     blurb: 'How AI supports teaching and learning — the pedagogies, learning theories, and learner-facing processes AI operates within.',
     groups: [
-      { label: 'Core pedagogies', items: ['pedagogy', 'active-learning', 'collaborative-learning', 'project-based-learning', 'problem-based-learning', 'productive-failure', 'inquiry-based-learning', 'experiential-learning', 'game-based-learning', 'learning-by-teaching', 'scaffolding', 'socratic-method', 'storytelling-in-education', 'online-teaching-and-learning'] },
+      { label: 'Core pedagogies', items: ['pedagogy', 'active-learning', 'collaborative-learning', 'project-based-learning', 'problem-based-learning', 'productive-failure', 'inquiry-based-learning', 'experiential-learning', 'game-based-learning', 'learning-by-teaching', 'scaffolding', 'socratic-method', 'critical-pedagogy', 'storytelling-in-education', 'online-teaching-and-learning'] },
       { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'refutation-text', 'activity-theory-aied'] },
       { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'well-being', 'creativity', 'student-ai-interaction', 'problem-solving', 'mastery-learning'] },
     ],
@@ -76,7 +76,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'Fairness, access, and responsibility are central to AI in education.',
     groups: [
       { label: 'Equity and access', items: ['equity-in-ai-education', 'digital-divide', 'bias-mitigation', 'culturally-relevant-pedagogy', 'multilingual-learning', 'inclusive-learning', 'accessibility', 'assistive-technology', 'neurodiversity', 'universal-design-for-learning', 'global-south'] },
-      { label: 'Ethics and responsibility', items: ['ethics', 'ai-misuse-learning-harm', 'ai-use-disclosure', 'guardrails', 'privacy', 'hallucination-risk', 'ai-sycophancy', 'trust', 'trust-calibration', 'critical-thinking', 'critical-pedagogy'] },
+      { label: 'Ethics and responsibility', items: ['ethics', 'ai-misuse-learning-harm', 'ai-use-disclosure', 'guardrails', 'privacy', 'hallucination-risk', 'ai-sycophancy', 'trust', 'trust-calibration'] },
     ],
   },
 ];
