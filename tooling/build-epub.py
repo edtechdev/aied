@@ -194,6 +194,10 @@ def astro_body_markdown(astro_path, chapter_h1):
     n_concepts = len(concept_slugs)
     body = body.replace('{articles.length}', str(n_articles))
     body = body.replace('{concepts.length}', str(n_concepts))
+    body = body.replace('{siteConfig.name}', NAME)
+    # Guard against other Astro template expressions leaking into the export.
+    body = body.replace('{siteConfig.shortName}', SITE.get('shortName', NAME))
+    body = body.replace('{siteConfig.', '{')  # safest catch-all for any remaining siteConfig access
 
     # Drop a leading H1 that duplicates the chapter heading or the site title
     # (e.g. index.astro opens with the page-title H1).
