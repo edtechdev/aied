@@ -11,9 +11,10 @@ import FaqSidebarList from '../components/FaqSidebarList.astro';
 import PrevNextNav from '../components/PrevNextNav.astro';
 import InstallPrompt from '../components/InstallPrompt.astro';
 import { buildNavItems } from '../lib/nav';
+import siteConfig from '../config/siteConfig';
 import 'katex/dist/katex.min.css';
 
-const { title = 'AI in Education Knowledge Base', description = 'AI in Education Knowledge Base', hideHeaderSearch = false, toc = [] } = Astro.props;
+const { title = siteConfig.name, description = siteConfig.name, hideHeaderSearch = false, toc = [] } = Astro.props;
 
 const concepts = await getCollection('concepts');
 const articles = await getCollection('articles');
@@ -90,7 +91,7 @@ const recentConceptItems = recentConcepts.map(c => ({
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{title} — AI in Education Knowledge Base</title>
+  <title>{title} — {siteConfig.name}</title>
   <!-- Critical dark background so navigation never flashes white before the
        external stylesheet loads (the site is always dark-themed). -->
   <style is:inline>
@@ -117,14 +118,14 @@ const recentConceptItems = recentConcepts.map(c => ({
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-  <meta name="apple-mobile-web-app-title" content="AIEd KB" />
+  <meta name="apple-mobile-web-app-title" content={siteConfig.shortName} />
   <!-- Open Graph (link previews) -->
-  <meta property="og:site_name" content="AI in Education Knowledge Base" />
+  <meta property="og:site_name" content={siteConfig.name} />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content={"https://edtechdev.github.io/aied/"} />
-  <meta property="og:image" content="https://edtechdev.github.io/aied/og-concept-map.png" />
+  <meta property="og:url" content={`${siteConfig.url}/`} />
+  <meta property="og:image" content={`${siteConfig.url}/og-concept-map.png`} />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="1013" />
   <meta property="og:image:alt" content="Concept map of AI in Education" />
@@ -132,8 +133,8 @@ const recentConceptItems = recentConcepts.map(c => ({
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
-  <meta name="twitter:image" content="https://edtechdev.github.io/aied/og-concept-map.png" />
-  <link rel="alternate" type="application/rss+xml" title="AI in Education Knowledge Base RSS" href="/aied/rss.xml" />
+  <meta name="twitter:image" content={`${siteConfig.url}/og-concept-map.png`} />
+  <link rel="alternate" type="application/rss+xml" title={`${siteConfig.name} RSS`} href={`${siteConfig.basePath}/rss.xml`} />
   <link rel="stylesheet" href="/aied/vendor/pico.min.css" />
   <link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
   <style>
@@ -785,10 +786,10 @@ const recentConceptItems = recentConcepts.map(c => ({
             <line x1="3" y1="18" x2="21" y2="18" />
           </svg>
         </button>
-        <a href="/aied/" class="brand-link">
-          <img src="/aied/logo.svg" alt="AIEd Knowledge Base logo" width="28" height="28" style="display:inline-block;vertical-align:middle;margin-right:0.5rem;" />
-          <span class="brand-full">AIEd Knowledge Base</span>
-          <span class="brand-short">AIEd KB</span>
+        <a href={`${siteConfig.basePath}/`} class="brand-link">
+          <img src={`${siteConfig.basePath}/logo.svg`} alt={`${siteConfig.brandName} logo`} width="28" height="28" style="display:inline-block;vertical-align:middle;margin-right:0.5rem;" />
+          <span class="brand-full">{siteConfig.brandName}</span>
+          <span class="brand-short">{siteConfig.shortName}</span>
         </a>
       </div>
       {!hideHeaderSearch && (
@@ -927,12 +928,12 @@ const recentConceptItems = recentConcepts.map(c => ({
   <footer>
     <div class="container">
       <div class="footer-nav">
-        <a href="/aied/">Home</a> ·
-        <a href="/aied/search">Search</a> ·
-        <a href="/aied/journal">Journal</a> ·
-        <a href="/aied/ai">Use with AI</a> ·
-        <a href="https://github.com/edtechdev/aied">GitHub</a> ·
-        <a href="/aied/rss.xml">RSS</a>
+        <a href={`${siteConfig.basePath}/`}>Home</a> ·
+        <a href={`${siteConfig.basePath}/search`}>Search</a> ·
+        <a href={`${siteConfig.basePath}/journal`}>Journal</a> ·
+        <a href={`${siteConfig.basePath}/ai`}>Use with AI</a> ·
+        <a href={siteConfig.repoUrl}>GitHub</a> ·
+        <a href={`${siteConfig.basePath}/rss.xml`}>RSS</a>
       </div>
     </div>
     <div class="container">
@@ -957,7 +958,7 @@ const recentConceptItems = recentConcepts.map(c => ({
         <!-- Call to Action / Contact -->
         <p class="footer-contact">
           Found an issue with the content?<br>
-          Please <a href="https://github.com/edtechdev/aied/issues" class="footer-link" target="_blank" rel="noopener noreferrer">report it on GitHub</a>, or contact the site developer, <a href="https://mastodon.social/@dougholton" class="footer-link" target="_blank" rel="noopener noreferrer">Doug Holton</a>.
+          Please <a href={siteConfig.issuesUrl} class="footer-link" target="_blank" rel="noopener noreferrer">report it on GitHub</a>, or contact the site developer, <a href={siteConfig.editor.contactUrl} class="footer-link" target="_blank" rel="noopener noreferrer">{siteConfig.editor.name}</a>.
         </p>
       </footer>
     </div>

@@ -15,6 +15,19 @@ End-to-end management of a structured markdown research wiki that follows a `SCH
 
 ---
 
+## Site-wide metadata: `site.config.json`
+
+`site.config.json` at the repo root is the **single source of truth** for site-wide metadata — the site name, short name, brand name (header label), description, language, site URL, base path, GitHub repo/issues URLs, the editor name + contact URL, the license, and the PWA theme colors.
+
+**Do not hardcode these values in code, skills, or docs.** Read them from the config instead:
+
+- **Astro/TS:** `import siteConfig from '../config/siteConfig'` (`src/config/siteConfig.ts` wraps the JSON with types). Used by `BaseLayout`, `JsonLd`, `jsonld.ts`, `nav.ts`, `rss.xml.ts`, `index.astro`, `ai.astro`, `InstallPrompt`, and `astro.config.mjs` (PWA manifest).
+- **Python tooling:** each script opens `site.config.json` with `json.load` and reads `name` / `shortName` / `url` / `basePath` / `repoUrl` / `issuesUrl` / `editor.*` / `license` / `theme.*`. See `build-epub.py`, `generate-llms-files.py`, `fetch-rss-feeds.py`.
+
+To rename the site or change any of this metadata, edit only `site.config.json`, then rebuild the site and regenerate the EPUB/PDF/llms files.
+
+---
+
 ## Phase 1: Research Wiki Ingestion
 
 Use this phase when the user asks to ingest research papers (arXiv or non-arXiv) into an existing structured markdown wiki.

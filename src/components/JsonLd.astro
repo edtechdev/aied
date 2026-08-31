@@ -10,6 +10,7 @@
 //   sources: string[] (article frontmatter sources)
 //   connectedConceptSlugs?: string[] (concept slugs for about/mentions)
 import { SITE, ORG_ID, WEBSITE_ID, doiFromSources, urlFromText, firstParagraph, conceptId, faqId } from '../lib/jsonld';
+import siteConfig from '../config/siteConfig';
 
 const { type, slug, title, created = '', updated = '', tags = [], body = '', sources = [], connectedConceptSlugs = [], connectedFaqSlugs = [] } = Astro.props as {
   type: 'article' | 'concept' | 'faq';
@@ -167,12 +168,12 @@ const siteEntities = [
     "@type": "WebSite",
     "@id": WEBSITE_ID,
     "url": `${SITE}/`,
-    "name": "AI in Education Knowledge Base"
+    "name": siteConfig.name
   },
   {
     "@type": "Organization",
     "@id": ORG_ID,
-    "name": "AI in Education Knowledge Base",
+    "name": siteConfig.name,
     "url": `${SITE}/`
   }
 ];

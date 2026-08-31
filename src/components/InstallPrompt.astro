@@ -12,13 +12,14 @@
  * nagging on later pages. iOS Safari has no `beforeinstallprompt`, so the
  * banner simply never appears there.
  */
+import siteConfig from '../config/siteConfig';
 ---
 
 <div class="install-prompt" data-install-prompt hidden>
   <div class="ip-inner">
     <span class="ip-icon" aria-hidden="true">📲</span>
     <div class="ip-text">
-      <span class="ip-title">Install the AIEd KB app</span>
+      <span class="ip-title">Install the {siteConfig.shortName} app</span>
       <span class="ip-sub">Add to your home screen for offline access.</span>
     </div>
     <button class="ip-install" type="button" data-ip-install>Install</button>

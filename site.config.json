@@ -1,0 +1,20 @@
+{
+  "name": "AI in Education Knowledge Base",
+  "shortName": "AIEd KB",
+  "brandName": "AIEd Knowledge Base",
+  "description": "A knowledge base on artificial intelligence in education.",
+  "lang": "en",
+  "url": "https://edtechdev.github.io/aied",
+  "basePath": "/aied",
+  "repoUrl": "https://github.com/edtechdev/aied",
+  "issuesUrl": "https://github.com/edtechdev/aied/issues",
+  "editor": {
+    "name": "Doug Holton",
+    "contactUrl": "https://mastodon.social/@dougholton"
+  },
+  "license": "CC0 1.0 Universal Public Domain Dedication",
+  "theme": {
+    "background": "#0d1418",
+    "primary": "#15212b"
+  }
+}

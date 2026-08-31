@@ -1,8 +1,9 @@
 // Shared helpers for generating schema.org JSON-LD for the wiki.
 // Extracts structured metadata from frontmatter + body so JSON-LD is a
 // serialization of the content model, not hand-maintained SEO.
+import siteConfig from '../config/siteConfig';
 
-export const SITE = 'https://edtechdev.github.io/aied';
+export const SITE = siteConfig.url;
 export const WEBSITE_ID = `${SITE}/#website`;
 export const ORG_ID = `${SITE}/#organization`;
 
