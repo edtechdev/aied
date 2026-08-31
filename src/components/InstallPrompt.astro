@@ -1,0 +1,129 @@
+---
+/**
+ * InstallPrompt.astro — a subtle, dismissible "Install app" banner pinned to
+ * the bottom of the page on supported browsers.
+ *
+ * Chrome's native install mini-infobar is browser-rendered and cannot be
+ * suppressed or repositioned once the manifest is installable. Instead we
+ * intercept the `beforeinstallprompt` event (preventDefault stops the native
+ * auto-prompt), hold onto the deferred prompt, and surface a quiet banner at
+ * the bottom. Tapping "Install" fires the deferred prompt at a moment of the
+ * user's choosing. Dismissing the banner remembers the choice so it stops
+ * nagging on later pages. iOS Safari has no `beforeinstallprompt`, so the
+ * banner simply never appears there.
+ */
+---
+
+<div class="install-prompt" data-install-prompt hidden>
+  <div class="ip-inner">
+    <span class="ip-icon" aria-hidden="true">📲</span>
+    <div class="ip-text">
+      <span class="ip-title">Install the AIEd KB app</span>
+      <span class="ip-sub">Add to your home screen for offline access.</span>
+    </div>
+    <button class="ip-install" type="button" data-ip-install>Install</button>
+    <button class="ip-close" type="button" data-ip-close aria-label="Dismiss install prompt">×</button>
+  </div>
+</div>
+
+<style>
+  .install-prompt {
+    position: fixed;
+    left: 50%;
+    bottom: 1rem;
+    transform: translateX(-50%);
+    z-index: 60;
+    width: min(92vw, 30rem);
+    background: var(--card-background-color, #1c2933);
+    border: 1px solid var(--card-border-color, #2c3a45);
+    border-radius: 12px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.35);
+    padding: 0.85rem 1rem;
+    /* Pico gives button a default width; keep the internal buttons tidy. */
+  }
+  .ip-inner {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  .ip-icon { font-size: 1.4rem; line-height: 1; }
+  .ip-text { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+  .ip-title { font-weight: 600; font-size: 0.95rem; color: var(--color, #e8eef2); }
+  .ip-sub { font-size: 0.8rem; color: var(--muted-color, #8b98a2); }
+  .ip-install {
+    flex-shrink: 0;
+    width: auto;
+    padding: 0.45rem 0.9rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #0b1220;
+    background: var(--primary, #7dd3fc);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  .ip-install:hover { background: var(--primary-hover, #bae6fd); }
+  .ip-close {
+    flex-shrink: 0;
+    width: 1.8rem;
+    height: 1.8rem;
+    padding: 0;
+    font-size: 1.3rem;
+    line-height: 1;
+    color: var(--muted-color, #8b98a2);
+    background: transparent;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  .ip-close:hover { color: var(--color, #e8eef2); background: rgba(128,128,128,0.15); }
+</style>
+
+<script>
+  (() => {
+    const banner = document.querySelector<HTMLElement>('[data-install-prompt]');
+    if (!banner) return;
+    const installBtn = banner.querySelector<HTMLButtonElement>('[data-ip-install]');
+    const closeBtn = banner.querySelector<HTMLButtonElement>('[data-ip-close]');
+    if (!installBtn || !closeBtn) return;
+
+    const KEY = 'aied:install-dismissed';
+    let dismissed = false;
+    try { dismissed = localStorage.getItem(KEY) === '1'; } catch (e) {}
+    if (dismissed) return;
+
+    let deferred: { prompt: () => Promise<void>; userChoice?: Promise<{ outcome: string }> } | null = null;
+
+    const show = () => { banner.hidden = false; };
+
+    window.addEventListener('beforeinstallprompt', (e) => {
+      // Suppress the native auto-infobar.
+      e.preventDefault();
+      deferred = e as unknown as typeof deferred;
+      // Don't advertise install if the browser said it's already installed.
+      show();
+    });
+
+    window.addEventListener('appinstalled', () => {
+      // Already installed — hide the banner for good.
+      banner.hidden = true;
+      try { localStorage.setItem(KEY, '1'); } catch (e) {}
+    });
+
+    installBtn.addEventListener('click', async () => {
+      if (!deferred) return;
+      deferred.prompt();
+      if (deferred.userChoice) {
+        await deferred.userChoice.catch(() => {});
+      }
+      banner.hidden = true;
+      // Once dismissed (or declined), don't show again this session.
+      try { localStorage.setItem(KEY, '1'); } catch (e) {}
+    });
+
+    closeBtn.addEventListener('click', () => {
+      banner.hidden = true;
+      try { localStorage.setItem(KEY, '1'); } catch (e) {}
+    });
+  })();
+</script>

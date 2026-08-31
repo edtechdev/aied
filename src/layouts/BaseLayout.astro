@@ -9,6 +9,7 @@ import RecentActivity from '../components/RecentActivity.astro';
 import StarredPages from '../components/StarredPages.astro';
 import FaqSidebarList from '../components/FaqSidebarList.astro';
 import PrevNextNav from '../components/PrevNextNav.astro';
+import InstallPrompt from '../components/InstallPrompt.astro';
 import { buildNavItems } from '../lib/nav';
 import 'katex/dist/katex.min.css';
 
@@ -1130,5 +1131,6 @@ const recentConceptItems = recentConcepts.map(c => ({
       btn.title = current === 'dark' ? 'Switch to light mode' : 'Switch to dark mode';
     })();
   </script>
+  <InstallPrompt />
 </body>
 </html>
