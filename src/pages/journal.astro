@@ -27,7 +27,7 @@ const dates = Object.keys(byDate).sort().reverse();
 
 <BaseLayout title="Journal">
   <h1>📋 Journal</h1>
-  <p>Reverse-chronological index of all {articles.length} articles, {concepts.length} concepts, and {faqs.length} FAQs in the knowledge base.</p>
+  <p>Reverse-chronological index of all {articles.length} articles, {concepts.length} concepts, and {faqs.length} FAQs in the knowledge base. <a href="/aied/rss.xml" style="color:var(--primary);font-weight:500;text-decoration:none;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.2rem;"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg>Subscribe to the RSS feed</a> for latest additions.</p>
 
   {dates.map(date => (
     <details class="journal-day" open={date === dates[0]} style="margin-bottom:0.75rem;border:1px solid var(--card-border-color);border-radius:8px;padding:0.75rem 1rem;">
