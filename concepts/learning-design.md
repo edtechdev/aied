@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:50:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [learning-design, curriculum-design, educational-development, scaffolding, generative-ai, ai-literacy, higher-ed, teacher-role]
 audience: [instructors, faculty development]
@@ -12,6 +12,14 @@ confidence: high
 ---
 
 > **Learning Design** (also known as *instructional design*) — the systematic process of creating effective learning experiences through the analysis of learning needs and the design, development, implementation, and evaluation of instructional materials and activities. AI is transforming learning design by automating content creation, enabling [[adaptive-learning|adaptive learning]] paths, supporting data-driven iteration, and augmenting — rather than replacing — the instructional designer's role.
+
+## Questions to Consider
+
+- Think of a course or lesson you have experienced or designed. Where did 'what to teach' (curriculum) end and 'how to teach it' (learning design) begin — and how did the two interact?
+- A common assumption is that better AI fluency automatically produces better educational content. The page counters this with evidence that explicit pedagogical structure — not just AI fluency — is what determines learning effectiveness. Where have you seen impressive output that failed to teach?
+- If an AI tool can generate a full course from a prompt, what human decisions become more important rather than less? The page argues AI augments rather than replaces the instructional designer's role — what would that augmented role look like?
+- Some instructional-design models like ADDIE are used as rigid, linear steps. But the page treats them as iterative, flexible planning heuristics. When might following a process too literally undermine good design?
+- The page shows that pedagogically grounded prompting — for example, a five-step framework based on learning theory — significantly improved higher-order outcomes. If you were building an AI tutor, what would you encode in an explicit design layer so its teaching strategy stays traceable and reproducible?
 
 Learning design bridges AI capabilities and effective pedagogy. Where [[curriculum-design]] addresses *what* to teach at the program level, learning design addresses *how* to teach it at the course and lesson level. The articles in this knowledge base explore both AI as a tool for learning designers and learning-design principles for building effective [[intelligent-tutoring|AI tutoring]] systems.
 
@@ -118,3 +126,4 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+

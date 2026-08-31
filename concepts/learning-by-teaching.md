@@ -1,7 +1,7 @@
 ---
 title: Learning by Teaching
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [learning-by-teaching, intelligent-tutoring, generative-ai, active-learning, feedback, scaffolding, self-regulated-learning, cs-education]
 discipline: [cs education]
@@ -9,6 +9,14 @@ confidence: high
 ---
 
 > **Learning by teaching (LbT)** — the instructional framework, grounded in the protégé effect, in which students deepen their understanding by explaining material to a peer, tutee, or agent. Decades of work in LbT and peer tutoring show that explaining concepts, anticipating misunderstandings, and responding to questions consolidate understanding and support transfer. In the AI era, **teachable agents** — and increasingly **LLMs configured as novice tutees** — operationalize LbT at scale, positioning students as instructors who must explain, correct, and fill gaps.
+
+## Questions to Consider
+
+- Recall a time you truly understood something only after explaining it to someone else. What was happening mentally — and why do you think teaching produces deeper understanding than just studying alone?
+- A common view is that teaching is for experts, and novices have nothing to offer. Yet 'learning by teaching' rests on the opposite premise: preparing to teach forces you to organize knowledge and find your own gaps. How does that reframe who benefits from teaching?
+- The page describes 'teachable agents' — software that students teach as part of learning. With an LLM, you can configure a chatbot as a fallible novice tutee that asks questions and makes mistakes. What would you need to design into such a tutee for it to actually improve learning rather than just chat?
+- One challenge is 'engineering fallibility': AI models are trained to give expert, fluent answers, which is the opposite of the struggling novice the learning-by-teaching paradigm wants. Why might an error-prone tutee be more effective for learning than a correct one?
+- A ChatGPT-based teachable agent improved learning but its tendency to generate correct code limited error-correction practice. How might a tool that always gives the right answer actually shortchange the learner who needs to practice spotting and fixing mistakes?
 
 ## The Protégé Effect
 
@@ -74,3 +82,4 @@ Learning by teaching is the constructive, [[active-learning]] counterpoint to th
 - [[teaching-ai-vocabulary-lbt-llms-2026]] — Vocabulary learning by teaching AI
 - [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation in a conversational review system
 - [[simulating-students-java-programming-errors-llms]] — Simulating student errors with LLMs
+

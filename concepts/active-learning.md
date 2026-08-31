@@ -1,7 +1,7 @@
 ---
 title: Active Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 tags: [active-learning, learning-design, student-experience, scaffolding, higher-ed, k-12, ai-education]
@@ -12,6 +12,15 @@ confidence: high
 ---
 
 > **Active Learning** — instructional approaches that engage students in doing things and thinking about what they are doing, rather than passively receiving information. In AI in education, active learning research examines both how AI tools can support active learning pedagogies and how active engagement with AI tools — rather than passive consumption — affects learning outcomes.
+
+## Questions to Consider
+
+- You've likely heard 'active learning' praised. But is a student who clicks through a dashboard or accepts a generated answer really learning actively? What would make that activity 'active' in a meaningful sense?
+- The ICAP framework distinguishes active, constructive, and interactive engagement — only the deeper levels build lasting knowledge. When you last used an AI tool to learn something, which level of engagement did it actually push you toward?
+- AI can enable active learning at scale, but poorly designed AI can also do the cognitive work for the student. Where have you seen AI make a learner more passive rather than more engaged?
+- An EEG study found interactive student–AI collaboration produced the highest cognitive engagement, while full automation reduced it. Why might 'doing' with AI beat 'watching' AI do the work?
+- Teach-back — having a learner explain what they understand — surfaces gaps more effectively than passive re-reading. When might prompting a learner to explain to an AI be a better learning move than letting the AI answer for them?
+- Active learning depends on calibrated scaffolding that fades as competence grows. How hard is it for an AI tutor to know when to step back — and what's the risk if it never does?
 
 Active learning is a foundational principle in education research, grounded in [[constructivist]] theories that position learners as active constructors of knowledge. In the context of AI in education, the concept takes on dual significance: AI tools can enable active learning at scale (through [[intelligent-tutoring|interactive tutoring]], [[simulation|simulations]], and [[adaptive-learning|adaptive feedback]]), but poorly designed AI tools can also undermine it by [[cognitive-offloading|doing the cognitive work]] for students. The tension between AI assistance and active cognitive engagement — explored in articles like [[lak2026-hint-button-unproductive-use]] on premature hint use and [[efficiency-gain-illusion-ai-overreliance]] on [[cognitive-offloading|Over-Reliance]] — is a central concern.
 
@@ -99,3 +108,4 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+

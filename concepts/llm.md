@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-30T16:50:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy]
 
@@ -9,6 +9,14 @@ confidence: high
 ---
 
 > **Large Language Models (LLMs)** — neural network models trained on vast text corpora that generate human-like text, powering most modern AI in education applications. LLMs are the computational backbone of generative AI tutoring, assessment, and content generation in education.
+
+## Questions to Consider
+
+- What do you believe an AI chatbot 'knows' when it answers you? The page frames LLMs as generating probable text rather than retrieving verified facts — how does that distinction change how much you would trust a model's explanations?
+- LLMs are described as the engine behind most modern AI education tools — tutoring, grading, content generation, and even diagnosing what students know. Of these uses, which do you think is most and least appropriate for a probabilistic text generator, and why?
+- The page reports that three different LLMs produced sharply divergent support plans for the same learning-analytics input, each with different demographic assumptions. If models aren't interchangeable as advisors, what does that mean for an institution that adopts one?
+- Because LLM output is sensitive to prompts and settings, two people can get very different results from the same model. How should this influence how you — as a learner or designer — phrase requests, and how much you trust a single output?
+- A key limitation is hallucination — plausible-sounding but ungrounded content. In a tutoring or grading context, what would it take for you to feel confident the model wasn't inventing something, and what safeguards would you demand before letting it assess a real student?
 
 ### LLMs as the engine of AIED
 
@@ -101,3 +109,4 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
+

@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [tpack, ai-literacy, teacher-ai-competency, educational-development, generative-ai, teacher-role, learning-design, curriculum-design]
 audience: [faculty development, instructors]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Technological Pedagogical Content Knowledge (TPACK)** — the framework (Mishra & Koehler, 2006) describing the integrated knowledge teachers need to use technology effectively in teaching: the interplay of Technological Knowledge (TK), Pedagogical Knowledge (PK), and Content Knowledge (CK), and their intersections. In the AI era, TPACK has been extended to **AI-TPACK** / **GenAI-TPACK**, modeling how teachers integrate generative AI into content-area instruction. It is the dominant theoretical lens for understanding how [[teacher-ai-competency|teacher AI competency]] is structured and built through [[educational-development|professional development]].
+
+## Questions to Consider
+
+- TPACK claims effective teaching with technology isn't the sum of separate skills (knowing your subject + knowing teaching + knowing the tool) but the product of their interplay. Think of a lesson that genuinely worked with a technology. Which combinations of content, pedagogy, and tech knowledge — not any single one — seemed to be doing the work?
+- A common assumption is that a teacher who is 'tech-savvy' is therefore ready to teach with AI. Where might that assumption fail — for instance, when a technically fluent teacher still uses AI in a pedagogically shallow or content-inaccurate way? What would 'competence' look like that a simple tech-skills test misses?
+- The AI era reframes the technology in TPACK from a passive tool to an active agent that can plan, generate, and tutor. If a teacher's job shifts from operating a tool to orchestrating an AI that acts on its own, what new knowledge does that demand — and can any static checklist capture it?
+- The page suggests that professional development should train the intersections, not just the tools. Think about the last technology training you attended or designed. Was it mostly 'how to use the software,' or did it build content and pedagogy together with the technology? Which approach would you expect to change classroom practice more, and why?
+- Research found different 'teacher archetypes' — optimizers, creators, passive observers — benefit from different kinds of support. Which archetype do you most resemble when using AI in teaching, and what kind of scaffolding do you think would help you most? Would your learners describe you the same way you do?
+- Some researchers argue effective AI integration emerges from a teacher's beliefs and sense of efficacy, not just their knowledge. What do you believe about AI's role in learning, and how might that belief — more than your technical skill — shape whether and how you actually integrate it?
 
 - **[[crompton-faculty-technology-integration-standards-2026|Crompton et al.]]** DBR operationalizes faculty technology-integration standards that extend the TPACK framework into institutional practice.
 
@@ -78,3 +87,4 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 - [[genai-runaway-object-math-higher-ed]] — GenAI and mathematics in higher education
 - [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
 - [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
+

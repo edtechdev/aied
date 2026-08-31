@@ -1,7 +1,7 @@
 ---
 title: "AIEd in the Disciplines"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-08-25T14:00:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [ai-education, discipline-specific-aied, stem-education, math-education, physics-education, cs-education, language-learning, writing-education, medical-education, humanities-education, business-education]
 discipline: [discipline specific, stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education]
@@ -9,6 +9,14 @@ confidence: high
 ---
 
 > **AIEd in the Disciplines** — the application of artificial intelligence to teaching and learning within specific academic subjects, where each discipline's signature pedagogies, methods, theories, and concerns shape how AI is designed, used, and evaluated. Rather than treating AI in education as a single generic phenomenon, this overview organizes the knowledge base's discipline-specific coverage and surfaces the cross-cutting themes that run through subject-area AIEd research.
+
+## Questions to Consider
+
+- A math tutor that excels at right/wrong feedback may fail in the humanities, where interpretation and authorship matter more than correctness. How does your own discipline define what counts as 'good feedback'?
+- Research across 560 students found that disciplinary affiliation predicts how often and openly students use generative AI. Why might a discipline act as a whole 'activity system' shaping AI use — rather than AI being a neutral tool everywhere?
+- The 'cognitive act' being offloaded to AI is discipline-specific: computation in math, code in CS, composition in writing. If over-reliance looks different in each field, how would you detect it in yours?
+- What does AI mean for a discipline whose signature pedagogy is hands-on laboratory work, or interpretive meaning-making, rather than problem-solving? Is there any subject where AI should play little role?
+- Several disciplines — law, history, the arts — remain thin in AI-education research. Which discipline's AI use most deserves attention, and what would good AI in that field have to honor that generic tools don't?
 
 AI in education manifests differently across disciplines because each field has its own signature pedagogy — the distinctive ways knowledge is constructed, practiced, and taught. AI tutors that shine in [[math-education|mathematics]] may fail in [[humanities-education|the humanities]], where interpretation and authorship matter more than right answers. This page is the umbrella map for those discipline-specific strands.
 
@@ -115,3 +123,4 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
 
 - [[jiang-genai-activity-theory-disciplines-2026]] — Activity theory: disciplinary differences in GenAI use and disclosure (560 students)
+

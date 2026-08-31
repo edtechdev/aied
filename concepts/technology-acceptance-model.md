@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied]
 research_method: [research methods]
@@ -11,6 +11,15 @@ confidence: high
 ---
 
 **Technology adoption models** are the theoretical frameworks used to explain and predict why individuals and institutions accept, adopt, and continue using new technologies — and, in AI-in-education research, why learners, teachers, and organizations adopt [[generative-ai|generative AI]] tools. Rather than a single model, this is a family of theories that share roots in information-systems and social-psychology research, of which the **Technology Acceptance Model (TAM)** is the most widely applied. The knowledge base treats these models together because GenAI-adoption studies routinely combine them (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) and because their core constructs — perceived usefulness, perceived ease of use, and social influence — recur across nearly every study of AI acceptance in education.
+
+## Questions to Consider
+
+- Think of a time you adopted a new app, tool, or AI service — and a time you abandoned one. What actually drove each decision: how useful it seemed, how easy it was, or what people around you were doing? Which factor do you suspect matters most, and can a survey really capture that?
+- A common belief is that 'if a tool is clearly useful, people will use it.' Have you seen situations where a genuinely useful technology still failed to catch on, or a clearly limited one spread anyway? What might explain the gap between objective usefulness and actual adoption?
+- Adoption frameworks like TAM were designed in the 1980s for fairly simple systems. If you've used generative AI, in what ways does it differ from a word processor or a learning management system — and why might a model built around 'ease of use' and 'usefulness' struggle to capture how people relate to something that talks back?
+- Researchers often say perceived risk and trust matter less for AI adoption than expected. Before reading further, what do you predict: do students adopt AI because they trust it, despite risks, or are those concerns actually minor next to convenience and social pressure?
+- The page argues that adoption frameworks treat using a tool as a one-time decision, but effective use may be an ongoing judgment. Where in your own or your students' practice does the line between 'choosing to use AI' and 'continually deciding how to use it well' seem to blur — and what would change if we measured that instead of mere uptake?
+- Some researchers cluster learners into different 'adoption personas' instead of assuming one model fits everyone. What differences do you see among your own learners, colleagues, or students that a single average model of adoption might hide — and how could those differences shape how you support them?
 
 **Meta-analytic evidence on AI adoption.** A [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analysis of tertiary students' AI adoption]] (233 correlations, 32 studies, N = 16,977) finds moderate positive correlations for individual (r = 0.57), contextual (r = 0.53), and technological (r = 0.50) factors, with usage intentions the strongest predictor (r = 0.64) and perceived risks/trust weaker than expected. Its central critique is that the field **over-relies on traditional TAM/UTAUT** frameworks that predate modern intelligent systems and neglect AI-specific factors such as anthropomorphism and ethics — arguing these gaps matter for advancing theory and evidence-based policy.
 
@@ -81,3 +90,4 @@ While adoption models are effective for predicting uptake, they are less well su
 
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
 - [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT
+

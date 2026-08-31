@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-30T16:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [feedback, ai-feedback-quality, feedback-literacy, formative-assessment, peer-review, automated-assessment, assessment]
 connected_faqs: [developing-ai-tutor]
@@ -11,6 +11,14 @@ confidence: high
 ---
 
 > **Feedback** — information provided to a learner about their performance or understanding that is intended to close the gap between current and desired performance. In AI in education, feedback has become a central and rapidly transforming theme: AI systems now generate, deliver, and even teach students how to use feedback, reshaping every stage of the feedback process.
+
+## Questions to Consider
+
+- Feedback is often imagined as information handed to a learner, but research argues it only 'counts' as feedback when the learner makes sense of and acts on it. If feedback is a relationship rather than a message, what changes about how we should deliver it?
+- Students' perception of whether feedback came from an AI or a human can change how much they learn from it. Why do you think the *source* matters so much — and what does that imply for AI-generated feedback in your context?
+- Immediate feedback can be a trap: the 'correct-answer trap' shows that students who simply copy corrections learn less. When does instant feedback help, and when does it short-circuit the very learning it's meant to support?
+- Research even found that a well-designed sequence of feedback — encouragement, then hints, then the answer — designed to build autonomy actually *harmed* learning despite boosting engagement. If students feel good about feedback that makes them learn less, what should we optimize?
+- Feedback is described as a system with parts: the feedback loop, quality of provision, the learner's uptake capacity, and the assessment context. If you were trying to improve feedback in your own course, which part would you fix first, and why?
 
 This is the umbrella concept for the knowledge base's feedback-related ideas. Feedback sits at the intersection of assessment and learning: without feedback, assessment measures performance but does not improve it; with effective feedback, assessment becomes a learning event. The knowledge base treats feedback as a **system** with multiple facets — the quality of the feedback itself ([[ai-feedback-quality]]), the loop through which it closes the learning gap, the learner's capacity to use it ([[feedback-literacy]]), and the assessment contexts in which it operates ([[formative-assessment]], [[peer-review]], [[automated-assessment]]).
 
@@ -122,3 +130,4 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching feedback
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+

@@ -4,10 +4,19 @@ type: concept
 tags: [machine-learning, student-modeling, learning-analytics, ai-technologies, generative-ai]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-08-29T12:55:12-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 ---
 
 > **Machine learning** — the technical foundation of AI in education: algorithms that infer patterns, predictions, and policies from educational data rather than from hand-coded rules. It spans supervised learning (classifying at-risk students, predicting grades), unsupervised learning (discovering learner clusters), reinforcement learning (inducing tutoring and scaffolding policies), and deep learning (neural models for sequences, courses, and visual behavior). [[generative-ai|Generative AI]] is the latest and most visible subset, but it sits atop a much older stack of predictive and adaptive machinery.
+
+## Questions to Consider
+
+- You've likely encountered recommendation systems or risk scores that 'learned' from data. How comfortable are you with a model deciding something about you (like an at-risk flag or a recommended path) based purely on patterns in historical data?
+- The page draws a sharp line between predicting a risk and actually intervening — a risk score tells you a student might fail, but not what to do about it. Where have you seen a prediction offered as if it were already a solution?
+- Machine learning can 'hack' its own reward: an AI tutor that optimizes for engagement can keep students entertained while teaching them little. If a system looks measurably successful but is pedagogically harmful, what measures should we watch besides the number it optimizes?
+- Predictive models trained on historical grades can encode systemic bias, and automated proctoring raises false-positive risks that wrongly flag normal behavior. When data carries the biases of the past, how much should we trust an AI that uses it to make high-stakes educational decisions?
+- Some AI systems outperform human-interpretable methods but remain opaque — you can see they work but not why. In education, when is interpretability a 'nice to have' and when is it non-negotiable?
+- Generative AI is often treated as entirely new, but the page frames it as the latest subset of machine learning. How does seeing ChatGPT as part of the same predictive and adaptive machinery change what risks and limits you'd expect it to inherit?
 
 Machine learning is what turns educational traces into actionable intelligence. It powers the [[student-modeling|student models]] behind [[adaptive-learning|adaptive systems]], the [[learning-analytics|learning-analytics]] dashboards that flag at-risk learners, the [[intelligent-tutoring|intelligent tutors]] that choose the next problem or scaffold, and the automated proctoring systems that monitor remote exams. Across the articles synthesized here, the pattern is consistent: collect data on learners, learn a predictive or decision model from it, and act on that model — whether the action is early-warning, course recommendation, [[scaffolding|adaptive scaffolding]], or exam surveillance.
 
@@ -56,3 +65,4 @@ Machine learning also appears in education as a *subject*. In [[microbit-robotic
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive scaffolding of cognitive engagement in an ITS (BKT vs DRL)
 - [[pedagogical-safety-rl]] — Formal framework for pedagogical safety in educational reinforcement learning
 - [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long review of deep-learning automated proctoring
+

@@ -1,13 +1,22 @@
 ---
 title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-08-27T10:55:43.284361-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [learning-theories, cognitive-psychology, metacognition, cognitive-load, knowledge-tracing, intelligent-tutoring, generative-ai]
 confidence: high
 ---
 
 > **Cognitive psychology / cognitivism** — the family of theories that explain learning through internal mental processes — attention, perception, memory, reasoning, and metacognition — rather than through observable behavior alone. In [[ai-education|AI in education]], cognitivist assumptions underpin the field's most distinctive contributions: [[intelligent-tutoring]] systems that model learner knowledge, [[knowledge-tracing]] and [[cognitive-diagnosis]] that track what a learner knows, [[feedback]] designs grounded in error diagnosis, and the whole [[student-modeling|learner modeling and adaptive instruction]] family. Cognitivism is the middle ground between [[behaviorism]] (learning as behavioral change) and [[constructivist|constructivism]] (learning as active meaning-making), and it is the theoretical lens most closely tied to the computer metaphor of the mind that animated early AIED.
+
+## Questions to Consider
+
+- When you think about 'learning,' do you picture a change in what someone does, or a change in what they know and can retrieve? How might that distinction change how you judge whether an AI tutoring tool actually works?
+- AI tutoring is built on a 'computer metaphor' — treating the mind as an information-processing system with memory limits. Where does that metaphor feel powerful, and where might it miss something important about how humans learn?
+- An AI tool makes a task feel effortless: it explains the next step, reduces friction, and the learner performs beautifully while using it. Does that count as successful teaching? How would you know whether the learner can now do it without the tool?
+- Cognitive Load Theory distinguishes intrinsic, extraneous, and germane load. If you were designing an AI assistant, which type of load would you deliberately try to reduce, and which would you be careful NOT to remove?
+- If a learner knows they can offload memory and reasoning to an AI, when is that a smart strategy and when is it a shortcut that quietly prevents learning? What determines the difference?
+- Cognitivism assumes knowledge can be broken into components and tracked over time. What might get lost when we reduce a learner's understanding to a set of traceable knowledge components?
 
 ## Core ideas
 
@@ -71,3 +80,4 @@ Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in 
 - [[llm-student-modeling-memory]] — LLM student modeling and memory
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
+

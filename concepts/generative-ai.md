@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-30T16:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk]
 
@@ -9,6 +9,13 @@ confidence: high
 ---
 
 > **Generative AI** — AI systems capable of producing text, code, images, and other content, most prominently large language models like GPT-4 and Claude. Generative AI is the technology driving the current wave of [[ai-education|AI in education]] research.
+
+## Questions to Consider
+
+- Generative AI produces fluent, confident-sounding content on demand. Does fluency equal correctness, and where have you seen a confident-sounding but wrong output — what made it hard to catch?
+- Unlike earlier rule-based or retrieval-based systems, generative models create new content rather than retrieving stored answers. How does that shift change the risks — hallucination, over-reliance, academic integrity — compared to a search engine?
+- With 80+ articles, generative AI is the largest thread in this knowledge base, spanning tutoring, assessment, content generation, and safety. Which application do you think is the most promising for learning, and which the most dangerous — and why?
+- The same technology that can generate a Socratic tutorial can also produce a 'correct-answer trap' that encourages copying. What design choices might separate generative AI that scaffolds learning from generative AI that short-circuits it?
 
 ### What makes generative AI different for education
 
@@ -100,3 +107,4 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — GenAI-supported AI literacy tools
 - [[liu-emerging-tech-tefl-review-2026]] — AI-powered EFL tools
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
+

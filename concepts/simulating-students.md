@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-08-27T04:58:28.248706-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [simulation, student-modeling, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, generative-ai, llm, teacher-role]
 audience: [instructors]
@@ -9,6 +9,14 @@ confidence: high
 ---
 
 > **Simulating students** — using LLM-based agents to model learner behavior, cognition, and social dynamics for educational research, design, and training. Simulated students let researchers evaluate pedagogical approaches, model diverse learner profiles, test educational AI before deployment, and train teachers — tasks that are difficult, slow, or ethically constrained to do systematically with real learners.
+
+## Questions to Consider
+
+- If you had to build an AI 'student' to practice your teaching on, what would make it convincing to you — and why might a system that always gives the right answer actually be a poor stand-in for a real learner?
+- The page calls the mismatch between a capable AI's perfect answers and a real student's imperfect ones the 'competence paradox.' Where have you seen this tension in your own experience with AI, and what do you think it takes to make a simulated learner genuinely realistic?
+- What are the ethical and practical reasons you might prefer testing a tutoring system or curriculum on simulated students rather than real ones — and what validity risks do you suspect that trade introduces?
+- A simulated student can be 'epistemically faithful' without looking superficially human. Before you read on, what distinction do you imagine between a believable surface and a truthful model of what a learner actually knows?
+- How would you decide whether a finding produced by simulated students should be trusted enough to change how you teach real people?
 
 Simulated students are a methodological tool: agents that stand in for real learners so that tutoring systems, curricula, and instructional strategies can be evaluated and iterated without recruiting cohorts of human students. [[llm|Large language models]] have made this paradigm far more scalable and linguistically realistic than the rule-based simulated learners that preceded them, while also introducing new validity challenges.
 
@@ -79,3 +87,4 @@ Beyond evaluating pedagogy, simulated students serve as a **test harness for aud
 - [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section for teacher practice
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
+

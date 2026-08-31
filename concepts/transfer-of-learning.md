@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-08-30T16:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [transfer-of-learning, metacognition, desirable-difficulties, k-12, intelligent-tutoring, scaffolding, cognitive-offloading]
 level: [k 12]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Transfer of Learning** — the extent to which knowledge or skills acquired in one context (e.g., practice with an AI tool) persist and apply in a different context (e.g., independent performance without the tool). In AI in education, transfer is the central open question: whether performance gains students show *with* AI tools translate into durable learning they can demonstrate *without* them.
+
+## Questions to Consider
+
+- Here's a striking pattern the page documents: students often show immediate gains on AI-assisted tasks, yet those gains can vanish — or even reverse — when the AI is removed. Before reading the explanations, why do you think a tool that clearly helps in the moment could end up leaving students worse off without it?
+- Recall something you learned to do with a tutor, calculator, or assistant and then had to do alone. Did the skill carry over, or did you feel dependent on the aid? What was different about the experiences that transferred well versus those that didn't?
+- A common intuition is that 'practice is practice' — that doing a task with help builds the same skill as doing it alone. Where might that intuition mislead, especially when the help is an AI that completes the reasoning for you rather than guiding you through it?
+- The page draws a distinction between 'effects with' a technology and 'effects of' it — performing better while using the tool versus becoming more capable without it. If you're an instructor, designer, or student, which of these is your real goal, and how would you know you'd achieved it?
+- The evidence suggests that how much cognitive work you delegate matters: offloading surface tasks like grammar hurt transfer less than offloading deep reasoning and structure. Think about the last time you used AI on an assignment. Which 'layer' did you delegate, and what does your choice predict about what you'd retain?
+- The page proposes conditions that might support positive transfer — pedagogical guardrails, fading support, calibration to the learner's readiness. If you were designing (or were the user of) an AI learning tool, what would you insist on so that gains while using it become durable ability without it?
 
 Transfer of learning is a foundational concern in education research, and AI tools have made it urgent. The defining empirical pattern documented across AI in education studies is a **transfer paradox**: students using AI typically show immediate, measurable gains on tasks where AI is available, but those gains often fail to persist — or even reverse — when AI is removed and students must demonstrate understanding independently. This pattern implicates [[cognitive-offloading|Over-Reliance]], Cognitive Load Theory, and [[metacognition]] as the mechanisms at work, and connects directly to debates about [[intelligent-tutoring|AI Tutoring]] design.
 
@@ -94,4 +103,5 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[productive-failure]] — Productive Failure
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
+
 

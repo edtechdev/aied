@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T08:00:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
@@ -13,6 +13,14 @@ confidence: high
 ---
 
 > **Teaching** — how AI reshapes the work, identity, and agency of educators. With 50+ articles examining this dimension, the knowledge base documents a fundamental transformation: from sole knowledge authority to orchestrator of human-AI learning environments. This page goes beyond describing that shift — it details what teachers actually *do* differently, how they can adapt their practice, and how they connect to [[learning-design|learning design]], [[ai-literacy]], and [[academic-integrity|academic integrity]].
+
+## Questions to Consider
+
+- The page describes the teacher's shift 'from sole knowledge authority to orchestrator of human-AI learning environments.' What do you gain and what do you lose as an educator when you stop being the main source of content?
+- It argues AI reallocates a teacher's scarcest resource — attention — from producing materials to interpreting learners. Does that reframing ring true, and what would you actually do with the reclaimed time?
+- Research cited on the page shows teachers as active AI designers — writing the prompts and scaffolds that shape how AI behaves for their students — rather than passive consumers. What would it take for you (or teachers you know) to feel like a designer of AI rather than a user of it?
+- At the far end of the 'teacher-AI teaming' spectrum, the teacher orchestrates a team of human learners, AI tutors, and curriculum resources. Where does human judgment remain irreplaceable in that team, and what might quietly erode if the orchestration is left mostly to AI?
+- If the teacher's attention is reallocated from producing materials to interpreting learners, what new competencies and risks does that introduce — and who supports the teacher in developing them?
 
 ## How AI transforms teaching
 
@@ -179,3 +187,4 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
 - [[finkelstein-principled-ai-education-2025]] — Principled AI education
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing teacher digital competence for GenAI curriculum design
+

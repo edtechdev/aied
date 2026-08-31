@@ -1,7 +1,7 @@
 ---
 title: AI Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-08-27T07:59:32.712217-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [well-being, remote-proctoring, social-emotional-learning, affective-computing, academic-integrity, student-experience, adult-learning]
 audience: [learners]
@@ -10,6 +10,15 @@ connected_faqs: [how-ai-impacts-students]
 ---
 
 > **AI anxiety and stress** — the negative emotional states that AI integration can induce in learners and educators (fear of being falsely accused, surveillance stress, worries about competence or [[academic-integrity|integrity]]), alongside the positive uses of AI to detect, monitor, and alleviate stress and anxiety. This concept sits within the broader [[well-being]] family and overlaps with [[social-emotional-learning]] and [[affective-computing]], but names the specific emotion-construct — and its productive as well as harmful sides — that AI-in-education research now studies directly.
+
+## Questions to Consider
+
+- AI anxiety isn't one thing — it spans proctoring stress, learner-emotion anxiety, career fears, and AI used to relieve stress. Which of these have you felt or witnessed, and did it affect your learning or teaching?
+- A common assumption is that anxiety is always bad. But research finds AI anxiety can be productive — anxious learners verify and revise more carefully. Can you recall a time your own anxiety made you work more carefully?
+- Continuous surveillance and the fear of being falsely flagged raise test anxiety and can impair performance — and the stress falls hardest on tool-novice and already-vulnerable students. Is that an equity problem, or just a comfort issue?
+- Career anxiety — the fear that AI will displace or devalue your professional future — is forward-looking and identity-level. To what extent is that fear driving how you, or students you know, engage with AI?
+- Studies link higher career adaptability to lower AI anxiety and find that self-efficacy offers only limited buffering. If generic confidence isn't enough, what kind of support would actually reduce career-related AI anxiety?
+- Faculty anxiety about GenAI may mirror earlier moral panics over calculators and search engines. When is worry about a new technology a legitimate concern, and when is it a recurring pattern of resistance to change?
 
 AI anxiety is not a single thing. It spans at least four distinct directions, each with its own evidence base: (1) **stress induced by AI proctoring and integrity surveillance**, (2) **AI anxiety as a learner emotion** that can be either a barrier or a productive signal, (3) **career-related AI anxiety** — the fear that AI will displace or devalue one's professional future, and (4) **AI as a tool for detecting and relieving stress and anxiety**. Recognizing all of these — including the productive-anxiety finding that challenges the purely negative framing — is what distinguishes this concept from the broad [[well-being]] umbrella.
 
@@ -96,3 +105,4 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability
 - [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety
 - [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences
+

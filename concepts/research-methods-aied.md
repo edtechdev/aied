@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [ai-education, educational-measurement, rct, benchmark, ai-ed-evaluation, higher-ed]
 research_method: [educational measurement, experiment, randomized controlled trial, benchmark, research methods]
@@ -12,6 +12,15 @@ connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity
 ---
 
 > **Research methods in AIED** — the set of empirical designs, data-collection strategies, and analytic techniques researchers use to study AI in education: whether and how AI tools support (or harm) learning, and under what conditions. The knowledge base's corpus spans experimental, survey, qualitative, design-based, computational-benchmark, and review methods. Each has distinct strengths and limitations, and choosing among them involves trade-offs among internal validity (confidence in causal claims), external validity (generalizability), ecological validity (real-world authenticity), and the feasibility of studying fast-moving AI tools.
+
+## Questions to Consider
+
+- The page's central tension: the strongest designs for causal inference (randomized experiments) are the hardest to run in real classrooms, while the most authentic settings offer weaker causal control. If you had to decide whether an AI tutor helps learning, which of these two failures would you rather live with — and why?
+- Before you read, can you name the difference between internal, external, and ecological validity? The page argues every design trades these off. How might a study that's rigorously causal still tell you almost nothing useful about a real classroom?
+- A benchmark shows an AI scores high on accuracy, but the page insists high benchmark accuracy does not entail educational effectiveness. Why might a system that 'passes the test' still fail to help students learn — and what kind of evidence is missing?
+- Design-based research iterates on a real intervention but can't attribute gains to a specific mechanism, while an RCT isolates causes but runs in artificial conditions. Given the fast pace of AI change, how long do you think a rigorous RCT remains relevant before the tool it tested is obsolete?
+- Delphi expert consensus establishes agreement among experts, not empirical effect. When is it legitimate to build a competency framework from what experts believe, versus from data about what works — and how would you tell the difference in practice?
+- The page advocates triangulation — combining benchmark evaluation, experiments, measurement, and qualitative work to judge both whether a tool works and how. Before you read, where in a claim like 'this AI improves learning' would each method be needed to make you confident?
 
 The central tension in AIED research is that the strongest designs for causal inference — randomized experiments — are often the hardest to run with authentic AI tools in real classrooms, while the most authentic settings (field deployments, case studies, log-data analyses) offer weaker causal control. No single method resolves this; the field advances by triangulating across methods, and by being explicit about what kind of claim each design can support. Every method also carries cross-cutting limitations — generalizability, measurement validity, the fast pace of AI change, reproducibility, and weak theory use — that readers must weigh; see [[limitations-in-aied-research]].
 
@@ -175,3 +184,4 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 - [[ai-in-the-wild-college]] — AI in the Wild: Large Scale Analysis of Authentic Interactions
 - [[same-ai-different-pathways]] — Same AI, Different Pathways: Unpacking Mechanisms
 - [[t2i-competence-paradox-2026]] — The Competence Paradox: Text-to-Image GenAI in Art and Design
+

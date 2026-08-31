@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-24T19:45:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [ai-literacy, cognitive-offloading, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
 audience: [learners]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Trust calibration** — the metacognitive capacity to align one's confidence in an AI system with its actual reliability in a given context, knowing when to trust and when to question its output. Trust calibration is the direct antidote to [[cognitive-offloading|Over-Reliance]]: it is the skill of matching trust to evidence rather than to an AI's confident fluency.
+
+## Questions to Consider
+
+- Have you ever accepted an AI answer that sounded confident and plausible — and later found it was wrong? What was it about the presentation, rather than the content, that earned your trust? That moment is what this page is about.
+- Most people assume the risk is over-trusting AI. But the page argues under-trusting — avoiding a capable tool entirely — is equally a failure of calibration. Do you lean toward accepting or avoiding AI output, and what might you be missing because of that default?
+- A fluent, confident AI answer 'reads as trustworthy whether or not it is.' Before reading further, what criteria could you use to decide when a confident-sounding output actually deserves your trust — and would those criteria hold up for an obscure, high-stakes topic you know nothing about?
+- The page suggests calibration depends on context: verifying more where errors are costly, less where they're benign. Where in your own work or study is the cost of a wrong answer highest, and how would you adjust your verification effort accordingly?
+- Research models trust as shaped not just by individual judgment but by your social environment — what peers and networks do. Think of a time a classmate, colleague, or online community persuaded you an AI was (or wasn't) reliable. Did you calibrate based on evidence or on that social signal?
+- One finding: telling students an AI tutor may make mistakes actually increased how much they used it. Why might being warned about fallibility make people *more* willing to engage — and what does that suggest about how honesty about AI's limits should shape your own use of these tools?
 
 A language model's fluent, confident prose reads as trustworthy whether or not it is. Trust calibration is the counterweight to that illusion — the practice of evaluating AI output against its verifiability and the stakes of the task, rather than accepting it on the strength of its presentation.
 
@@ -54,3 +63,4 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[ai-partner-science-epistemic-vigilance]] — Epistemic Vigilance as the Key to Productive Augmentation
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+

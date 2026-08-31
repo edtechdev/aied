@@ -1,7 +1,7 @@
 ---
 title: Culturally Relevant Pedagogy
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-18T13:55:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [equity-in-ai-education, curriculum-design, inclusive-learning, k-12, ai-literacy, higher-ed, generative-ai, llm, student-experience, intelligent-tutoring]
 audience: [learners]
@@ -11,6 +11,15 @@ confidence: high
 ---
 
 Culturally Relevant Pedagogy (CRP), introduced by Gloria Ladson-Billings (1995), centers marginalized students' cultural references in [[curriculum-design|curriculum design]]. It rests on three pillars: **academic success** (rigorous standards that honor cultural identity), **cultural competence** (critical consciousness about culture and power), and **[[critical-pedagogy|sociopolitical consciousness]]** (empowering students to challenge inequitable systems). As AI tools enter classrooms, CRP has become a central lens for evaluating whether [[generative-ai|AI]] amplifies or erases non-dominant cultural knowledge.
+
+## Questions to Consider
+
+- Culturally relevant pedagogy rests on academic success, cultural competence, and sociopolitical consciousness. Which of these pillars is hardest to achieve with AI tools — and why?
+- One study found 94% of AI-generated lesson plans contained no discernible multicultural content, and almost none reached the level of transformation or social action. If AI defaults to monocultural output, whose responsibility is it to inject the missing perspectives?
+- AI training data is predominantly Western and Anglophone. What does it mean for a system to 'actively marginalize' ways of knowing — and how does that differ from simply lacking access?
+- Community-based AI learning proposes that learners' own lived epistemologies should be the standard for evaluating AI output, with refusal and non-use treated as valid responses. How would you center community knowledge as the judge of an AI's relevance and harm?
+- Culturally grounded data can dramatically improve an AI's relevance — one Indian-knowledge dataset moved a small model from near zero to rivaling a far larger general-purpose one. If better data is the fix, who should build and own it?
+- A cross-cultural study found that identical AI-use behaviors were judged ethical in one country and unethical in another, regardless of written policy. What does that tell you about trying to govern AI use with uniform rules?
 
 ### AI's Double-Edged Role in CRP
 
@@ -74,3 +83,4 @@ Grounded in the knowledge base's own articles, educators and designers can apply
 - [[culturally-aware-aied-community-learning]] — Culturally-Aware AI for Community Learning
 - [[taklif-ai-interest-based-personalized-assignments]] — Taklif: Interest-Based Personalized Assignments
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+

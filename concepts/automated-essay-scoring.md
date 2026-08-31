@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T11:29:54.887137-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [assessment, automated-assessment, writing-education, generative-ai, llm, prompt-engineering, ai-literacy, higher-ed, k-12]
 discipline: [writing education]
@@ -12,6 +12,14 @@ confidence: high
 ---
 
 > **Automated Essay Scoring (AES)** — the use of AI to evaluate and score written essays, spanning traditional statistical approaches, fine-tuned language models, and increasingly accessible [[llm|LLM]]-based prompting strategies. AES research in this knowledge base covers scoring accuracy, fairness and bias, psychometric validity, and practical accessibility for educators.
+
+## Questions to Consider
+
+- Automated Essay Scoring has moved from traditional statistical models to LLM-based prompting. A key tension on this page is between accuracy and accessibility — fine-tuned models score well but are impractical for most educators. Which would you prioritize in your own context, and why?
+- A major finding is that simply including exemplar essays in the prompt brings LLM-human agreement close to human-human reliability — and a cheaper model can match a more expensive one. What does this suggest about how much of AES quality is the model versus how it's prompted?
+- The page warns that AI scoring can systematically underestimate students from linguistically diverse backgrounds. Before reading, if you saw an AI give a lower score to a non-native speaker's essay, would you have assumed it was a 'bias problem' or just 'the score'? What would change how you respond?
+- A self-referential approach assesses L2 writers by comparing their writing to their own prior work rather than to native-speaker norms. How does the choice of comparison baseline change what a score means — and which students might it treat more fairly?
+- AES intersects with formative assessment when used for feedback rather than grading. When would a machine's feedback on an essay be genuinely useful to a developing writer, and when might it flatten the kinds of qualitative feedback a human editor would give?
 
 Automated Essay Scoring has a long history in educational technology, from early statistical models to modern LLM-based approaches that can evaluate essays holistically without large pre-scored datasets. The key tension in AES research is between accuracy and accessibility — while fine-tuned models achieve strong results, they are resource-intensive and impractical for most educators.
 

@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [desirable-difficulties, cognitive-psychology, self-regulated-learning, cognitive-offloading, learning-theories, scaffolding, metacognition]
 
@@ -9,6 +9,15 @@ confidence: high
 ---
 
 > **Desirable difficulties** — the finding (Bjork) that harder, effortful retrieval conditions — spacing, retrieval practice, interleaving, and generation — improve long-term learning more than easier, massed conditions — is the theoretical counterweight to AI that smooths away [[cognitive-offloading|cognitive work]]. In the AI era the principle warns that tools which eliminate productive struggle may raise immediate performance while undercutting durable learning. **Desirable difficulties, cognitive friction, and productive friction are used as overlapping synonyms** for this intentional effort: the knowledge base treats them as the same core idea viewed from different fields, with the nuances between the labels spelled out in the section below. Closely allied concepts — **confusion**, and **productive struggle** — mark the zone where this effortful processing is expected (and desirable) to occur.
+
+## Questions to Consider
+
+- Have you ever felt you understood something because it felt easy and fluent in the moment — only to fail when you had to recall it later? That's the illusion of competence. What created it for you?
+- Desirable difficulties say that effortful conditions — spacing, retrieval practice, interleaving — build durable learning better than easy, massed ones. Where in your own learning have you resisted a 'harder' strategy that probably would have worked better?
+- Generative AI is, by default, a friction-removing machine: it answers instantly and produces polished output on demand. If removing struggle raises immediate performance but undercuts durable learning, how would you know whether an AI is helping or harming a student?
+- This page distinguishes desirable difficulties (memory optimization from cognitive psychology) from productive/cognitive friction (engagement guardrails from UX design). Can you see why the same educational goal needs both — and where they'd diverge?
+- Some AI tutors are found to 'over-scaffold' — removing the very effortful processing desirable difficulties require. If you were evaluating an AI tutor, what concrete behavior would tell you it's preserving productive struggle rather than collapsing to answer-giving?
+- Confusion is framed here as a resource, not a bug — when resolved productively it drives deep processing, but unaddressed it decays into frustration. Where's the line between productive struggle worth preserving and frustration that's just harmful?
 
 ## The Effort–Learning Trade-Off
 
@@ -102,4 +111,5 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
+
 

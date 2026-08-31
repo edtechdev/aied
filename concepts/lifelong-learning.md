@@ -1,7 +1,7 @@
 ---
 title: Lifelong Learning
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-08-27T08:26:57.833590-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [lifelong-learning, personalized-learning, professional-training, llm, intelligent-tutoring, higher-ed, generative-ai, adaptive-learning, scaffolding, k-12]
 level: [higher ed, k 12]
@@ -9,6 +9,14 @@ confidence: medium
 ---
 
 > **Lifelong learning and AI** — how AI supports continuous education and skill development beyond formal schooling, and how it reshapes adult and workplace learning. AI can personalize, scaffold, and make learning-on-demand more accessible for adults, while also raising questions about autonomy, self-direction, and who controls the learning process in AI-mediated environments.
+
+## Questions to Consider
+
+- Think about the last new skill you learned outside formal schooling — on the job, online, or self-taught. Who decided what to learn, how to learn it, and when you were 'done'? How would AI change that picture?
+- A central question in the page is autonomy: as AI participates in identifying your learning needs, setting your goals, and even producing content, what remains genuinely self-directed in your own learning?
+- Formal education treats time as fixed and curricula as sequential. The page proposes 'Learnity graphs' — interconnected units of knowledge learners navigate flexibly across a lifetime. What do you gain, and what do you risk losing, by freeing learning from a fixed sequence?
+- AI can both support adult learners and change which skills adults must continuously update. If AI keeps reshaping your field, what capabilities would you invest in that no tool can simply give you?
+- Lifelong learning is often framed as an individual's responsibility. But access across the lifespan is also an equity question. Who gets the time, resources, and support to keep learning as an adult — and how might AI widen or narrow that gap?
 
 Lifelong learning refers to continuous education throughout life — upskilling, reskilling, [[professional-training|professional development]], and informal learning beyond formal degrees. AI is increasingly central to this, both as a tool that supports adult learners and as a force that changes the skills adults must continually update.
 
@@ -51,4 +59,5 @@ Lifelong learning connects to [[adult-learning]] and [[professional-training]] (
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
+
 

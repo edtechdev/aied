@@ -1,7 +1,7 @@
 ---
 title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-08-24T17:20:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [prior-knowledge, learning-theories, cognitive-load, constructivist, personalized-learning, scaffolding, student-modeling, learning-design, metacognition]
 category: [instructional design]
@@ -9,6 +9,15 @@ confidence: high
 ---
 
 > **Prior knowledge** — the existing knowledge, skills, beliefs, and mental models a learner brings to a new learning task. It is the single most powerful predictor of subsequent learning: new information is interpreted through — and integrated with — what the learner already knows, so instruction that activates and builds on prior knowledge produces stronger, more durable learning than instruction that treats every learner as a blank slate. In AI in education, prior knowledge is central to [[student-modeling]] (adapting [[personalized-learning|instruction]] to the learner's current state), to the [[constructivist]] principle that knowledge is actively constructed atop existing mental models, and to the risk that AI tools which pre-fetch and surface content bypass the retrieval practice that activates prior knowledge.
+
+## Questions to Consider
+
+- What's something you learned deeply and something you struggled to learn? How much of the difference came down to what you already knew when you started?
+- Having prior knowledge isn't enough—it must be actively retrieved and connected. When has recalling what you already knew (or failing to) changed how well you learned something new?
+- The page says prior knowledge can *interfere* when it's wrong (a misconception). Can you think of a belief you held that made new, correct information harder to learn?
+- Generative AI that pre-fetches answers can bypass the retrieval practice that activates prior knowledge. How might a tool designed to help you learn actually prevent you from recalling what you know?
+- If an AI must estimate your prior-knowledge state to personalize, what happens when that estimate is wrong? How confident are you that a system could accurately know what you already know?
+- How is 'activating prior knowledge' different from simply asking students a question before teaching? What would make that activation genuinely deepen the learning that follows?
 
 Prior knowledge activation is one of the most robust findings in the learning sciences: learners do not absorb new material in a vacuum but map it onto existing schemas, and the quality of that mapping determines retention and [[transfer-of-learning|transfer]]. The concept underpins Ausubel's advance organizers, activation of prior knowledge before new instruction, retrieval practice as a form of activating and strengthening what is known, and diagnostic [[assessment]] of what learners already know. In the AI era, prior knowledge has taken on new urgency because [[generative-ai|generative AI]] can either *support* activation (prompting learners to recall and connect what they know) or *bypass* it entirely (instantly supplying an answer or pre-fetched content that the learner never had to retrieve or integrate).
 
@@ -63,4 +72,5 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - [[chudziak-ai-math-tutoring-platform]] — AI math tutoring platform
 - [[productive-failure]] — Productive Failure
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
+
 

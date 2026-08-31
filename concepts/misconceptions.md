@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-08-30T13:41:04-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, metacognition, cognitive-offloading, academic-integrity, generative-ai, student-experience, teacher-role]
 audience: [learners, instructors]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Misconceptions about AI** — the inaccurate beliefs people hold about what AI systems are, what they do, and what using them means for learning and work. Misconceptions are not a single falsehood but a family of calibration errors that cluster around two core mistakes: misjudging what the model is (authority vs. tool, neutral vs. biased, understanding vs. generating) and misjudging what learning requires (output vs. process). They are held not only by students but also by teachers, administrators, policymakers, and the broader public — and correcting them is a core aim of [[ai-literacy]] and [[trust-calibration]] education.
+
+## Questions to Consider
+
+- Many people believe an AI chatbot's answer is a verified fact because it sounds confident and fluent. The page calls this the 'authority fallacy.' When you read an AI-generated explanation, how do you decide whether to accept it — and how often do you actually verify it?
+- The 'learning-equals-output' misconception is the belief that producing work with AI is the same as having learned it. Have you ever felt you 'learned' something by letting a tool do the drafting? What was actually missing afterward?
+- People often assume AI is objective and unbiased. The page calls this the 'neutrality illusion' — models encode biases from training data, which in writing contexts can homogenize ideas across an entire class. Where might bias hide in a tool that feels neutral?
+- Misconceptions about academic integrity cluster at two extremes: some students treat AI output as 'not copying a person' and so permissible, while others think any use is cheating. Where do you think the line should fall, and who should decide it?
+- A common belief is that one query is enough and that AI output is deterministic — the same question always yields the same answer. The page describes this as the determinism error. How might that misconception lead someone to over-trust a single output?
+- Misconceptions are described as stable, plausible, and resistant to correction — much like misconceptions in any domain. If simply telling people the truth rarely changes their minds, how should AI literacy actually be taught?
 
 Misconceptions about AI matter because they are the cognitive precursor to the harmful behaviors the knowledge base documents under [[cognitive-offloading|Over-Reliance]] and [[academic-integrity]] concerns. People rarely set out to [[ai-misuse-learning-harm|misuse]] AI; they do so because inaccurate mental models lead them to misplace trust, skip verification, and treat output as understanding. In education these errors shape everything from how students study to how teachers and institutions design curricula, assessment, and policy.
 
@@ -110,3 +119,4 @@ These refutations are deliberately written in the [[refutation-text|refutation-t
 - [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
 - [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
+

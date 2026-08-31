@@ -1,7 +1,7 @@
 ---
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T08:55:36.300729-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [inclusive-learning, equity-in-ai-education, special-education, learning-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
 level: [special education, higher ed]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Inclusive Learning** — the design and delivery of educational experiences that accommodate diverse learner needs, spanning physical, cognitive, sensory, and situational differences. In AI in education, inclusive learning research examines both how AI tools can remove barriers for disabled and neurodivergent learners and how AI systems themselves must be designed to avoid creating new accessibility gaps.
+
+## Questions to Consider
+
+- An accessible tool does not guarantee inclusive instruction, and assistive tech does not guarantee meaningful agency. What is the difference between removing a barrier to a format and designing education so everyone can meaningfully participate?
+- The page distinguishes inclusive learning, accessibility, assistive technology, special education, and universal design. Where does AI in your own context sit — and which question are you actually trying to answer?
+- One study found AI-segmented videos with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners. How might designing for one group's needs improve learning for everyone?
+- AI systems are described as risking new accessibility gaps even as they remove old ones. What kind of learner might a text-based, visual, always-online AI tool silently exclude?
+- Inclusive assessment research exposes a tension between anti-cheating measures and accommodating learners with visual-processing needs. When security and accessibility conflict, how should the trade-off be decided — and by whom?
+- Several tools invert the assumption that edtech must be visual — e.g., voice-first companions for visually impaired learners. What assumptions about the 'default' learner might your own tools or materials be making?
 
 ## How the related concepts fit together
 
@@ -101,3 +110,4 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 - [[bilingual-llm-lecture-companion-srl-2026]]
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
+

@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, learning-analytics, generative-ai, ai-education, intelligent-tutoring, curriculum-design, llm]
 category: [curriculum design]
@@ -9,6 +9,15 @@ confidence: high
 ---
 
 > **Knowledge graph** — a structured representation of concepts and their relationships used to model domain knowledge, student understanding, and learning dependencies in AI in education systems. Knowledge graphs enable AI systems to reason about what students know, what they need to learn next, and how concepts relate to each other.
+
+## Questions to Consider
+
+- A knowledge graph captures not just concepts but their relationships — prerequisites, similarity, hierarchy. Why might knowing how concepts relate be more useful to an adaptive system than a flat list of skills?
+- How are prerequisite relationships in a domain like yours? Can you think of a topic where students routinely struggle because they're missing a foundational concept the graph would reveal?
+- The page describes using knowledge graphs to detect knowledge gaps — where learners are missing foundational concepts. How might surfacing that gap change what an AI tutor decides to teach next?
+- Knowledge graphs can be built manually or automatically by LLMs from educational text. What are the risks of letting an AI construct the concept structure that a tutor will then reason over?
+- If knowledge graphs provide the domain structure that AI agents reason over, what happens to trust and accuracy when the graph itself contains an error or a biased relationship?
+- A knowledge graph is described as the structural backbone enabling fine-grained diagnosis and personalized paths. In your own teaching or design, what would you need a knowledge graph of your subject to capture — and what would it leave out?
 
 Knowledge graphs provide the structural backbone for many intelligent education systems. Unlike flat lists of skills or concepts, knowledge graphs capture prerequisite relationships, similarity, and hierarchical organization — essential for [[adaptive-learning]], [[knowledge-tracing]], and [[student-modeling]].
 
@@ -68,4 +77,5 @@ Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curr
 - [[concept-catalyst-engineering-scaffolds]] — Concept Catalyst engineering scaffolds
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-driven cognitive diagnosis
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+
 

@@ -1,7 +1,7 @@
 ---
 title: Inquiry-Based Learning
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-08-27T08:26:57.833590-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [inquiry-based-learning, problem-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, generative-ai, stem-education, scaffolding]
 discipline: [stem education]
@@ -9,6 +9,15 @@ confidence: high
 ---
 
 > **Inquiry-based learning (IBL)** — a learner-centered pedagogy in which students develop understanding by posing questions, exploring independently, and constructing knowledge through a cycle of inquiry, reflection, and revision, with the instructor scaffolding rather than lecturing. In the AI era, IBL's question-driven, exploration-centred structure has become a focal point: [[generative-ai|generative AI]] and [[llm|LLM]] tools can serve as interactive "co-inquirers" that support questioning and investigation — but only when designed to preserve rather than bypass the cognitive work of inquiry.
+
+## Questions to Consider
+
+- Inquiry-based learning centers on student-driven questions and the inquiry process itself. How is learning driven by your own question different from learning driven by someone else's?
+- The page asks whether AI serves as a 'co-inquirer' supporting your investigation or as a substitute that bypasses the cognitive work. When you use AI to explore a question, who is doing the inquiring?
+- Evidence on AI-supported inquiry is mixed: it improved creative performance and attitudes but not critical problem-solving in one study, and deepened conceptual understanding without boosting AI literacy in another. What does that suggest about what AI alone can and cannot develop?
+- If treating AI output as authoritative risks over-reliance and superficial conclusions, how would you teach students to evaluate AI-generated answers as part of the inquiry cycle?
+- The page connects inquiry to productive failure — learners exploring before instruction, so struggle itself prepares learning. How might AI that withholds answers and elicits multiple attempts support that struggle rather than remove it?
+- What is the facilitator's role when AI lowers the friction of asking questions? If students can get answers instantly, what does the instructor now need to scaffold that they didn't before?
 
 Inquiry-based learning centers on student-driven questions and the inquiry process itself, typically moving through phases (orientation → conceptualization → investigation → discussion → conclusion). It is the broader family under which [[problem-based-learning|problem-based learning]] and [[project-based-learning|project-based learning]] are often nested: IBL emphasizes the *questioning and discovery process*, PBL the ill-structured *problem*, and project-based learning the tangible *artefact*.
 
@@ -62,4 +71,5 @@ IBL's question-driven, process-focused structure is the natural home for product
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in photosynthesis & respiration (science teacher education)
+
 

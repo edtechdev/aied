@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [automated-assessment, assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 audience: [instructors]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Automated assessment** — the use of AI to evaluate student work, from [[formative-assessment|formative quizzes]] to high-stakes exams. Automated assessment spans multiple modalities — multiple-choice, short answer, essay, code, and performance-based evaluation — and ranges from direct automated grading to confidence-aware systems that report calibrated uncertainty alongside their scores.
+
+## Questions to Consider
+
+- Automated assessment ranges from multiple-choice scoring to essays, code, and performance-based evaluation. What's the biggest difference you'd expect between how reliably AI can grade a multiple-choice quiz versus a free-form essay — and why?
+- A core design idea here is 'confidence awareness': AI graders that report how certain they are, flagging low-confidence cases for human review rather than issuing a single unqualified score. How would a grade that said 'I'm 70% sure about this' change how you'd use or trust an automated score?
+- Research shows automated scoring can systematically disadvantage non-native speakers — the AI scores the language rather than the understanding. Why might an automated grader be especially prone to this kind of unfairness, even when it achieves high agreement with human raters overall?
+- One study found that how validation is done can inflate reported performance: a naive cross-validation method reported near-perfect results that dropped dramatically under more rigorous trial-independent validation. What does this cautionary lesson suggest about how you should read any claim that an AI assessment system 'works'?
+- The page argues calibrated confidence enables human-in-the-loop workflows, supports trust calibration, and strengthens measurement validity. If an automated system routed its most uncertain cases to a human reviewer, what would you want to know about how those cases are chosen before you trusted the split?
+- Automated grading is described as one of the most mature AIED applications, yet grading without useful feedback has limited educational value. How might a focus purely on producing scores — rather than usable feedback — change what students actually get out of an AI-graded assessment?
 
 ### Assessment modalities
 
@@ -131,3 +140,4 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 
 - [[multimodal-exam-obe-rubrics-2026]] — Multimodal exam dataset with OBE rubrics
+

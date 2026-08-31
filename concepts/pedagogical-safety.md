@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Safety
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-29T20:37:39-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor]
 type: concept
 tags: [hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading]
@@ -11,6 +11,14 @@ confidence: high
 ---
 
 > **[[pedagogy|Pedagogical]] safety** — the design principle that [[ai-education|AI education]] systems must protect learners from harm, including inappropriate content, unsafe advice, biased treatment, and manipulative interaction patterns. Safety is particularly critical for [[k-12]] contexts, where the stakes of harm are highest and learners are least equipped to detect it.
+
+## Questions to Consider
+
+- Safety for chatbots usually means refusing harmful content and resisting jailbreaks. Why might that be 'necessary but not sufficient' for an educational tutor? Can a tutor be safe yet still harm learning?
+- The page describes a 'quiet' failure: a tutor that answers correctly yet erodes learning, or refuses evenly yet entrenches inequality. Have you seen a well-intentioned guardrail have an unequal or harmful side effect?
+- Harm rates rose from ~18% on single-turn evaluations to ~78% on multi-turn ones. What does that tell you about testing AI tutors with one-shot questions versus real extended conversations?
+- The 'Paternalistic Filter' audit found refusals and softened answers patterned by student identity. How might over-cautious safety policies reproduce epistemic injustice even while 'protecting'?
+- If simulated students are themselves sycophantic—abandoning their assigned misconceptions at any correction—what might that hide about how real learners actually respond to a tutor?
 
 Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and content refusal — is necessary but not sufficient for education. The [[ai-tutor-safety-harms|harm taxonomies]] emerging from the knowledge base's own articles show that the most damaging tutoring failures are quiet: a tutor that answers correctly yet erodes learning, or refuses evenly yet entrenches inequality. The evidence below groups these findings into four interlocking safety concerns.
 
@@ -93,3 +101,4 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[eduframetrap-llm-sycophancy-educational-safety]]
 - [[favero-critical-ai-tutors-empower-enslave-2025]]
 - [[sec-ai-literacy-narrative-review-2026]]
+

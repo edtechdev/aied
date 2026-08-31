@@ -1,7 +1,7 @@
 ---
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-08-27T04:35:06.336963-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [bias-mitigation, equity-in-ai-education, ethics, ai-literacy, higher-ed, generative-ai, k-12, student-experience, teacher-role, llm]
 audience: [learners, instructors]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Bias mitigation in AI education** — the identification, measurement, and reduction of unfair, identity-patterned behavior in AI tutors, scorers, recommenders, and educational systems. Bias can enter at any stage of the AI pipeline — training data, model behavior, prompts, scoring, and deployment — and manifest as differential treatment of learners based on language, gender, race, culture, or other identity characteristics. Mitigation spans data curation, debiasing algorithms, prompt design, fair-scoring methods, explainability, and evaluation. It is the technical counterpart to [[equity-in-ai-education]] and a core concern of [[ethics]] in AI education.
+
+## Questions to Consider
+
+- Bias can enter at any stage of the AI pipeline — training data, model behavior, prompts, scoring, and deployment. Before reading, where in that chain did you expect bias to live? This page suggests it can appear almost anywhere. Where is one place you hadn't considered?
+- Research shows AI physics scoring systematically underestimates students whose text-based explanations are of lower linguistic quality — the AI scores the language, not the understanding. Why might a system that agrees well with human raters overall still consistently penalize non-native or less fluent writers?
+- One study found that a gender-biased prompt induces students' essays to display a larger 'agentic gap' and more gender-stereotypic content — bias transferred from the tool into the learner's own work. What does this say about bias as not just an unfair score but a force that can reshape what students produce and who they see themselves as?
+- Another study showed LLMs shift feedback in stereotype-aligned ways when personalized with student attributes — overusing praise and withholding critique for 'marked' students even on identical essays. How might 'nicely' biased feedback be more harmful than an obviously wrong score, because it's harder to detect?
+- Mitigation spans data curation, debiasing algorithms, neutral prompt design, fair-scoring methods, explainability, and human oversight. Which single mitigation lever do you think would make the biggest difference in an AI system you rely on, and what would you need to audit to know it worked?
+- A neutral prompt largely avoids inducing gender-differentiated language — suggesting prompt design is a practical mitigation. But if bias can be reintroduced through data, scoring, or deployment, why might fixing the prompt alone be an incomplete answer?
 
 Bias mitigation matters because AI in education is not neutral: systems trained on dominant language and cultural data can systematically disadvantage marginalized learners, from AI-based scoring that penalizes non-native writers to [[llm|LLM]] tutors that answer differently for different groups. Bias is a cross-cutting concern that appears in [[automated-assessment|Automated Grading]], [[automated-essay-scoring]], [[knowledge-tracing]], recommendation systems, and conversational AI tutors.
 
@@ -99,3 +108,4 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education: systematic review
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned biases in automated writing feedback
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
+

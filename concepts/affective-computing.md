@@ -1,7 +1,7 @@
 ---
 title: Affective Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-25T09:40:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [student-experience, higher-ed, llm, generative-ai, learning-analytics, k-12, cognitive-offloading, adaptive-learning, personalized-learning, intelligent-tutoring]
 audience: [learners]
@@ -11,6 +11,15 @@ confidence: medium
 ---
 
 > **Affective computing** in education uses physiological and behavioral signals to sense learner emotion and adapt instruction — see [[affective-text-wearable-student-health]], [[multimodal-affective-its-presentation]], and [[kar-mathbuddy-affective-math-tutoring-2025]]. The knowledge base also documents emotional risks of AI interaction, including [[sycophantic-ai-social-interaction-2026]] and [[shame-guilt-ai-regulation-computing-education]].
+
+## Questions to Consider
+
+- If a computer could sense that you're frustrated, confused, or bored and adapt its teaching to your mood, how might that improve your learning — and what might it get wrong about you?
+- Emotion-aware tutoring can boost engagement, but empathetic-seeming automation carries risks: over-reliance, parasocial dependency, and privacy concerns from continuous monitoring. Where is the line between being understood and being surveilled?
+- An AI that affirms and 'understands' you can feel good — but research shows such AI can displace real relationships and erode critical judgment. How does feeling supported differ from being genuinely supported in a learning setting?
+- Facial expression and text can both signal emotion. Should a tutor adapt its teaching based on your emotional state — and what kinds of emotional inference would you want it to act on versus never act on?
+- If AI relieves your frustration by reducing difficulty too readily, you might stop struggling productively — and struggle is often where deep learning happens. How should a tutor decide when to comfort and when to challenge?
+- Continuous affective monitoring raises real privacy questions. Under what conditions would you be comfortable with an AI reading your emotions in order to adapt your learning?
 
 ### Sensing emotion to adapt instruction
 
@@ -56,4 +65,5 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[social-emotional-learning]] — Social-Emotional Learning
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
+
 

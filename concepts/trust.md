@@ -1,13 +1,22 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-29T14:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [trust, ai-literacy, educational-robotics, human-ai-collaboration, critical-thinking, intelligent-tutoring]
 confidence: high
 ---
 
 > **Trust** — the willingness of learners, educators, and institutions to rely on a person or an AI system for learning, judgment, and decision-making. In [[ai-education|AI in education]], trust spans two related but distinct domains: **trust in AI** (confidence in the competence, transparency, reliability, and benevolence of an AI system or agent) and **interpersonal trust** (the relational trust between students and instructors, between learners and peers, and across the institution). Both are double-edged: appropriate trust enables productive [[student-engagement|engagement]], while over-trust invites [[cognitive-offloading|over-reliance]] and under-trust blocks beneficial use. The central challenge is **calibration** — aligning trust to actual reliability, whether that reliability belongs to a model or to a person.
+
+## Questions to Consider
+
+- When you say you 'trust' an AI tool versus trusting a teacher or a colleague, are you describing the same thing? What is similar, and what is fundamentally different, about placing trust in a system versus in a person?
+- There's a documented 'trust-utility gap': a tool's apparent competence often exceeds its actual reliability. Recall a tool that looked impressive but let you down, or one that seemed limited but proved dependable. What shaped the gap between how it looked and what it could really do?
+- Consider an AI that always agrees with you and never challenges your ideas. It might feel comfortable and trustworthy — but is agreement the same as reliability? What might you be giving up if the tool you rely on never pushes back?
+- The page argues that an instructor's trust in AI shapes how students trust that AI — the two domains interact. In a course you know well, how would a teacher's enthusiasm or skepticism about AI influence whether students accepted or questioned the tool?
+- Students often decide whether to disclose their AI use based on comfort with their instructor more than on policy. If you were (or are) a student, what would make you willing to be honest about using AI — and what would make you hide it? What does that say about how trust is actually built in a classroom?
+- One finding: an AI tutor that warns 'I may make mistakes' prompted students to seek more help, not less. What does this suggest about whether acknowledging limits undermines or strengthens the trust that supports real learning?
 
 Trust in AI is shaped by perceived competence, transparency, consistency, and whether the system appears aligned with the learner's goals; it is closely tied to [[ai-literacy]] (knowing what to trust), [[critical-thinking]] (evaluating output), and the design of responsible AI. Interpersonal trust, by contrast, is built through relationships, disclosure, feedback, and [[pedagogy|pedagogical]] care — the qualities students rely on when they decide whether an instructor or an AI is a trustworthy source of guidance. The two domains increasingly interact: AI is woven into teacher-student relationships, so how students trust their instructor shapes how they trust (or question) the AI tools that instructor endorses.
 
@@ -60,3 +69,4 @@ The unifying challenge is **calibration**: matching trust to actual reliability,
 - [[best-response-student-ai-dialog-2026]] — Trust in student-AI dialogue
 - [[ai-adaptation-gap-higher-education-2026]] — Perceived usefulness as the strongest predictor of AI trust in higher ed
 - [[bassett-ai-detectors-education-2026]] — Trust and distrust of AI detection systems
+

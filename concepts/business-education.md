@@ -1,7 +1,7 @@
 ---
 title: Business Education
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-08-27T08:26:57.833590-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [ai-education, business-education, curriculum-design, generative-ai, higher-ed, discipline-specific-aied]
 discipline: [business education]
@@ -11,6 +11,14 @@ confidence: high
 ---
 
 > **AI in business education** — the application of artificial intelligence to the teaching and learning of business, economics, and management, and the preparation of students for a GenAI-integrated workplace. Business schools face a double imperative: integrating AI *into* the curriculum as a subject and pedagogical tool, while also preparing students to *use* generative AI responsibly and effectively in professional practice.
+
+## Questions to Consider
+
+- Business schools face a double imperative: integrating AI into the curriculum as subject and tool, while preparing students to use AI responsibly in professional practice. Before reading, which of those two do you think most business programs currently get right, and which gets shortchanged?
+- A student-informed framework found students were highly engaged and recognized they needed GenAI skills for careers — but also wanted to use AI without unintentionally committing academic misconduct. Why might a student want to use AI and simultaneously worry about breaking rules around it?
+- Research on constructive alignment found that whether GenAI benefits or risks dominated was shaped by the degree of curriculum integration — integrate, don't append. What does 'integration' look like in a business program as opposed to just adding AI tools on top?
+- A decade of research flags persistent gaps in curriculum coherence, educator readiness, and assessment validity. If you were redesigning a business course for an AI-integrated workplace, which of these three gaps would you tackle first and why?
+- Business is one of the fastest fields for generative AI adoption, so graduates face acute pressure to be AI-ready. How might the AI skills that employers in finance, marketing, or management actually value differ from what students are currently taught in the classroom?
 
 AI in business education is a growing [[discipline-specific-aied|discipline-specific]] strand of [[ai-education|AI in education]]. Business schools must prepare students for a future workforce where generative AI is pervasive, requiring both AI literacy and domain-specific application (finance, marketing, management, economics, entrepreneurship). The research highlights a tension between integrating AI as a pedagogical and professional tool and managing [[academic-integrity|academic integrity]], [[ethics|ethical]] use, and [[assessment]] redesign.
 
@@ -59,3 +67,4 @@ Business is one of the fields where generative AI adoption is fastest, so busine
 - [[zhou-constructive-alignment-genai-business-2026]] — Constructive alignment of GenAI in business higher education (Zhou et al. 2026)
 - [[rook-plumb-genai-curricula-student-insights-2026]] — Student insights on integrating GenAI into curricula (Rook & Plumb 2026)
 - [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organisational drivers of AI adoption in higher education (Al-Rahmi 2026)
+

@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-30T13:41:04-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 tags: [intelligent-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
@@ -11,6 +11,15 @@ confidence: high
 ---
 
 > **AI tutoring / intelligent tutoring** — the use of AI to provide personalized, adaptive, scalable instructional support: from classical Intelligent Tutoring Systems (ITS) that model student knowledge, adapt instruction, and scaffold problem-solving, to conversational and agent-based tutors built on [[llm|LLMs]]. Effectiveness hinges on [[pedagogy|pedagogical]] design ([[scaffolding]], feedback quality, autonomy balance) rather than the model alone — see [[measuring-llm-tutors-teach-vs-solve]] and [[socratic-method]].
+
+## Questions to Consider
+
+- An AI tutor's effectiveness is said to hinge on pedagogical design — scaffolding, feedback quality, the balance of autonomy and guidance — rather than on the underlying model. If you had to pick, which design choice most determines whether a student actually learns?
+- Classical ITS are praised for precision and transparency but criticized for inflexibility, while LLM tutors are flexible but can hallucinate or bypass learning. Where do you think the right balance lies, and why?
+- Large-scale field evidence found students tried an AI tutor but rarely used it productively — engaging it in only a fraction of their mistake sessions, often with bare answers. Why might students get access to a powerful tutor yet not use it in ways that help them learn?
+- The page contrasts traditional ITS that model a learner and adapt instruction with open-ended conversational tutors. What is gained and lost when a tutor can hold a natural conversation but doesn't know exactly why it made a decision?
+- One study found AI created a 'productive slowdown' — more time per question — but only improved learning when embedded in a mastery workflow that made mistakes consequential. What does that suggest about structuring effort so it pays off?
+- If hint design can inadvertently enable students to bypass learning, what would a well-designed hint system look like that supports struggle without giving away the answer?
 
 AI tutoring encompasses the use of artificial intelligence — particularly [[llm|large language models]] and structured Intelligent Tutoring Systems — to provide personalized, adaptive, and scalable instructional support to learners. AI tutors take many forms: conversational tutors that engage in Socratic dialogue, scaffolded feedback systems that guide problem-solving, [[adaptive-learning|adaptive learning platforms]] that personalize content sequencing, and agent-based tutors that maintain long-term [[student-modeling|learner models]]. The effectiveness of AI tutoring depends critically on pedagogical design choices — scaffolding, [[ai-feedback-quality|feedback quality]], and the balance between [[agency|autonomy]] and guidance — rather than on the underlying model alone.
 
@@ -150,3 +159,4 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evidence on AI tutoring (~0.12 sd)
 - [[liu-emerging-tech-tefl-review-2026]] — ITS among EFL emerging technologies
+

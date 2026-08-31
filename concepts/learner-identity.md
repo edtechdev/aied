@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-08-27T07:59:32.712217-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [learner-identity, adult-learning, student-experience, agency, stem-education]
 discipline: [stem education]
@@ -11,6 +11,14 @@ connected_faqs: [how-ai-impacts-students]
 ---
 
 > **Learner identity** — the evolving sense of who one is (and who one is becoming) as a learner, encompassing disciplinary, professional, creative, and academic identities. In [[ai-education|AI in education]], [[generative-ai|generative AI]] presses on learner identity in two directions at once: it can *support* identity formation ([[scaffolding]] disciplinary belonging and confidence) while also *threatening* it (undermining perceived authorship, competence, and authentic learning). Understanding learner identity is central to designing AI that affirms rather than erodes learners' sense of self.
+
+## Questions to Consider
+
+- Think of a time you felt a skill or piece of work was truly 'yours' versus merely done through you. What made the difference — authorship, recognition, competence? How might a tool that produces the work for you reshape that feeling?
+- A common assumption is that identity is a fixed trait a learner either has or lacks. What would change in how you design learning if you treated learner identity instead as something continuously built through participation, recognition, and authorship?
+- The page describes a 'competence paradox' among art and design students: AI tools feel easy and useful, yet their use threatens the creative identity students derive from manual craft. Have you ever felt your own competence or identity challenged by an easy tool? What was the tension?
+- Students sometimes hide or feel shame about their AI use, which fragments their academic identity and honest engagement. When does the pressure to appear a certain kind of learner push people to conceal how they actually learn, and what would make disclosure feel safe?
+- AI can scaffold identity formation as well as threaten it. If you were designing an AI learning companion, what specific features would protect a learner's sense of authorship and ownership while still offering support?
 
 ## Why identity matters for AI in education
 
@@ -73,3 +81,4 @@ Learner identity connects to [[agency]] (identity is enacted through agentic aut
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis for faculty (teacher identity)
 - [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
 - [[li-ai-science-situated-learning-teachers-2025]] — Science teachers' roles and learner identity in situated learning
+

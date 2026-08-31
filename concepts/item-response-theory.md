@@ -1,7 +1,7 @@
 ---
 title: Item Response Theory
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai]
 research_method: [educational measurement]
@@ -9,6 +9,15 @@ confidence: medium
 ---
 
 > **Item response theory (IRT)** — a family of psychometric models that estimate latent ability from item responses by modeling the relationship between a learner's ability and the probability of answering each item correctly. IRT models item difficulty and discrimination, enabling measurement precision and adaptive testing. In the AI era, IRT meets [[llm|LLMs]] in [[llm-item-difficulty-prediction]] and [[llm-psychometric-calibration-cdp]]: AI predicts and calibrates item difficulty, potentially improving measurement precision and feeding [[adaptive-learning]].
+
+## Questions to Consider
+
+- Item response theory treats ability and item difficulty as jointly estimated from response patterns, rather than treating a raw test score as the measure. How might two students with the same number correct actually differ in ability?
+- IRT lets you compare learners on a common scale and estimate precision per person. Why might knowing an item's difficulty and discrimination matter more than just knowing whether a student got it right?
+- One study used IRT person-fit statistics to distinguish human from AI-generated responses on multiple-choice tests — flagging AI responses as 'aberrant.' How could the same measurement machinery that assesses learning also police academic integrity?
+- Researchers use IRT to validate that AI-generated exam questions match expert-written ones in difficulty and discrimination. If an AI writes an item that 'looks' good, why is empirical calibration against fitted IRT parameters still necessary?
+- As AI predicts and calibrates item difficulty, what could go wrong if a model's estimate of difficulty isn't validated against real student response data?
+- IRT connects to adaptive testing and knowledge tracing — using your responses to choose what to ask next. How does estimating your ability from each answer enable a test to become shorter and more precise rather than just longer?
 
 IRT treats ability (θ) and item parameters (difficulty, discrimination, sometimes guessing) as jointly estimated from response patterns, rather than treating a raw score as the measure. This makes it possible to compare learners on a common scale, to select items adaptively, and to estimate precision per person rather than globally.
 
@@ -51,3 +60,4 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
 - [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+

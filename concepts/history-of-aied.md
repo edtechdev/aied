@@ -1,13 +1,22 @@
 ---
 title: History of AI in Education
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-08-23T13:00:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [history-of-aied, ai-education, intelligent-tutoring, constructivist, agency, learning-theories, generative-ai]
 confidence: high
 ---
 
 > **History of AI in Education** — the study of how artificial intelligence and education have co-evolved since the mid-20th century, and how past conceptual, terminological, and design choices continue to shape today's debates about AI in learning. Rather than treating generative AI as a sudden, unprecedented force, a historical lens reveals recurring tensions — control vs. agency, standardization vs. creativity, automation vs. augmentation — that have structured AI in education since its origins.
+
+## Questions to Consider
+
+- Today's generative AI is often described as an unprecedented revolution. How might that framing ('chronocentrism') prevent us from seeing the recurring patterns beneath it?
+- The field was almost named 'cybernetics' instead of 'artificial intelligence.' How might that single naming choice have shaped whether we see machines as independent intelligences or as part of interconnected feedback systems?
+- The page frames AIED history as a tension between control (Anderson's cognitive tutors optimizing instruction) and agency (Papert's constructionism empowering learners). Where do your own AI-in-education choices fall on that spectrum — and why?
+- Personalization, the page argues, has two meanings: varying the path to the same outcome, or enabling diverse, learner-directed outcomes. Which kind of personalization does your institution actually pursue, and which do you think it should?
+- If today's GenAI debates 'mirror' these historical tensions, what past mistakes might we be repeating — and what might we avoid by remembering them?
+- The page claims technical design choices embed value judgments about learning's purpose. Can you identify a design decision in an AI education tool you've used that quietly favored standardization over learner agency — or vice versa?
 
 The field's history is not a linear progression but a series of contingent decisions whose effects still echo. Understanding this history guards against "chronocentrism" (the bias of treating current developments as uniquely revolutionary), helps avoid repeating past mistakes, and reveals how choices about framing and terminology — not just technology — steer the trajectory of AI in education.
 
@@ -67,3 +76,4 @@ The arrival of [[generative-ai|generative AI]] — a broad family that includes 
 - [[programming-its]] — Programming Intelligent Tutoring Systems
 - [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
 - [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs (Papert's constructionism lineage)
+

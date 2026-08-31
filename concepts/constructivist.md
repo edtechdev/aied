@@ -1,7 +1,7 @@
 ---
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-27T10:55:43.284361-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [learning-theories, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, learning-design]
 category: [instructional design]
@@ -9,6 +9,15 @@ confidence: high
 ---
 
 > **Constructivism** — the [[learning-theories|learning theory]] that knowledge is actively built by the learner through experience, reflection, and interaction, rather than passively received from an instructor or system. In [[ai-education|AI in education]], constructivism underlies the design commitment that AI tools should support learners' own knowledge construction — [[prompt-engineering|prompting]], questioning, and [[scaffolding]] — rather than perform the [[cognitive-offloading|cognitive work]] for them.([[ai-vocational-education-training-review]])([[genai-mindtool-generative-learning]])
+
+## Questions to Consider
+
+- Have you ever 'learned' something in class only to realize you couldn't actually explain or use it later? What was missing — and what does that tell you about how real understanding forms?
+- Constructivism claims knowledge is built, not transmitted. If that's true, what happens when an AI tutor simply supplies the correct answer?
+- The phrase 'constructivism in name, behaviorism in practice' describes AI tools that claim to support active learning but actually run drill-and-practice. Have you seen this gap? How would you detect it in a tool you're evaluating?
+- Papert's constructionism says we learn most powerfully by building shareable artifacts. In the AI era, one framework puts it as: 'the AI writes the code, but the student writes the model.' What is a student actually constructing when AI handles the mechanics?
+- Some AI tools practice 'generative refusal' — withholding answers and posing questions instead. When would deliberately withholding help be more pedagogically valuable than providing it?
+- If knowledge is constructed, then AI literacy isn't learned by hearing lectures about AI — it's learned by using, critiquing, and building with AI. What does that imply about how AI literacy should be taught to you or your students?
 
 Constructivism is a family of theories rather than a single doctrine, but its core claim is shared: learners do not absorb meaning; they construct it. Understanding in this view is not the accumulation of transmitted facts but the active organization of experience into mental models. This has direct implications for how AI in education should be designed, evaluated, and taught — and it helps explain both the promise and the risk of [[generative-ai|generative AI]] in the classroom.
 
@@ -125,3 +134,4 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+
