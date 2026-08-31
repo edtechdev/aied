@@ -13,8 +13,6 @@ confidence: high
 
 > **Learning Design** (also known as *instructional design*) — the systematic process of creating effective learning experiences through the analysis of learning needs and the design, development, implementation, and evaluation of instructional materials and activities. AI is transforming learning design by automating content creation, enabling [[adaptive-learning|adaptive learning]] paths, supporting data-driven iteration, and augmenting — rather than replacing — the instructional designer's role.
 
-*Note: this concept is also commonly referred to as **instructional design**; "learning design" is the more up-to-date, broader synonym now used as the page's title.*
-
 Learning design bridges AI capabilities and effective pedagogy. Where [[curriculum-design]] addresses *what* to teach at the program level, learning design addresses *how* to teach it at the course and lesson level. The articles in this knowledge base explore both AI as a tool for learning designers and learning-design principles for building effective [[intelligent-tutoring|AI tutoring]] systems.
 
 ### Key research themes

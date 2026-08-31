@@ -13,8 +13,6 @@ confidence: high
 
 > **Educational Development** (also known as *faculty development*) — the processes, programs, and institutional supports that help educators develop the skills, confidence, and professional identity to teach effectively with AI. Educational development spans individual training, curriculum redesign, institutional policy change, and the cultural work of making sense of what GenAI means for the academic profession.
 
-*Note: this concept is also commonly referred to as **faculty development**; "educational development" is the more up-to-date, broader synonym now used as the page's title.*
-
 ## Educational development in the AI era
 
 - **Readiness frameworks:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] identifies four readiness domains: epistemic, pedagogical, institutional, and quality-and-compliance. Faculty readiness is a sociotechnical alignment problem, not just an individual skills gap.
