@@ -1,0 +1,45 @@
+---
+/**
+ * FaqSidebarList.astro — a compact list of all FAQ pages for the sidebar's
+ * "FAQs" tab, ordered by creation date (earliest first), matching the FAQ
+ * index page. Receives the FAQ collection already sorted by `created`.
+ */
+interface Props {
+  /** FAQ entries sorted ascending by `created`. */
+  faqs: { slug: string; title: string }[];
+}
+const { faqs } = Astro.props;
+---
+<div class="faq-sidebar-list">
+  {faqs.length === 0 && <p class="faq-sidebar-empty">No FAQs yet.</p>}
+  {faqs.map(f => (
+    <a href={`/aied/faqs/${f.slug}/`} class="faq-sidebar-link">{f.title}</a>
+  ))}
+</div>
+
+<style>
+  .faq-sidebar-list {
+    padding: 0.25rem 0 0.5rem 0;
+    display: flex;
+    flex-direction: column;
+  }
+  .faq-sidebar-link {
+    display: block;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    padding: 0.22rem 0.6rem;
+    color: var(--muted-color);
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  .faq-sidebar-link:hover {
+    color: var(--primary);
+    background: color-mix(in srgb, var(--primary) 8%, transparent);
+  }
+  .faq-sidebar-empty {
+    padding: 0.25rem 0.6rem;
+    font-size: 0.82rem;
+    color: var(--muted-color);
+    font-style: italic;
+  }
+</style>
