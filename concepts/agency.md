@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-31T09:58:42-04:00"
+updated: "2026-08-31T12:32:59-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 audience: [learners]
@@ -91,7 +91,7 @@ The framework's boundary condition requires **contestability** (the ability to q
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[reclaiming-epistemic-agency-co-agency-2026]]
-- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
+- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
 - [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use

@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-08-31T12:32:59-04:00"
 type: concept
 tags: [desirable-difficulties, cognitive-psychology, self-regulated-learning, cognitive-offloading, learning-theories, scaffolding, metacognition]
 
@@ -86,7 +86,7 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[learning-theories]]
 
 ## Connected Articles
-- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
+- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[brcic-effortless-trap-productive-struggle-2026]] — Six-move model of learning and AI placement (Brcic & Frljic 2026)
 

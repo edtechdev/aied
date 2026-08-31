@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-08-31T12:32:59-04:00"
 type: concept
 tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
 audience: [instructors]
@@ -74,7 +74,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
-- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
+- [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
 
 - [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
 - [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based professional development framework
