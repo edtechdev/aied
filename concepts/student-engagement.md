@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-08-31T09:58:42-04:00"
+updated: "2026-08-31T12:32:59-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, student-engagement]
 audience: [learners]
@@ -85,7 +85,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 
 ## Connected Articles
 - [[tutortrace-learner-behavioral-states-2026]]
-- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
+- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[ying-genai-journalism-assessment-2026]]
 - [[rook-plumb-genai-curricula-student-insights-2026]]
 - [[sutama-chatgpt-eportfolio-speaking-2026]]

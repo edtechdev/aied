@@ -1,7 +1,7 @@
 ---
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-08-31T12:32:59-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, cs-education]
 discipline: [stem education]
@@ -113,7 +113,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 
 ## Connected Articles
 - [[tutortrace-learner-behavioral-states-2026]]
-- mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
+- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
 - [[zhan-chapman-genai-cs-education-2026]] — GenAI in CS education
 - [[code-review-genai-cs1]] — CS1 code review of AI-generated code
 - [[dura-llm-cs2]] — DURA: LLM assistants for CS2

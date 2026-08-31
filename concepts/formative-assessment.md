@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-08-31T12:32:59-04:00"
 type: concept
 tags: [formative-assessment, assessment, automated-assessment, feedback, ai-feedback-quality, learning-analytics, personalized-learning, adaptive-learning, generative-ai, llm, human-in-the-loop-ai, scaffolding, ai-education]
 category: [assessment]
@@ -97,7 +97,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
-- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
+- [[causal-modelling-competency-assessment-2026]] — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide approaches to redesigning assessment in the GenAI era
 - [[ni-lam-multiliteracies-ai-portfolio-2026]] — Students' perceptions of multiliteracies development with AI-assisted portfolio assessment
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment
