@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-31 | **Total entries:** 1125
+**Last updated:** 2026-08-31 | **Total entries:** 1133
 
 ## "2026-08-31
 
@@ -21,6 +21,31 @@
 
 - ◐ [[biology-grade-vulnerability-genai-2026]] — ''raw/papers/biology-grade-vulnerability-genai-2026.md''
   Can Students Cheat Their Way to a Biology Degree? Vulnerability of Biology Course Grades to Academic Dishonesty in the Era of Generative AI
+
+
+- ● [[anastasia-shared-agency-partnership-framework-2026]] — ''raw/papers/anastasia-shared-agency-partnership-framework-2026.md''
+  Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration
+
+- ● [[chang-co-designing-ai-youth-relational-privacy-2025]] — ''raw/papers/chang-co-designing-ai-youth-relational-privacy-2025.md''
+  Co-designing AI with youth partners: Enabling ideal classroom relationships through a novel AI relational privacy ethical framework
+
+- ● [[fawns-entangled-pedagogy-genai-students-2026]] — ''raw/papers/fawns-entangled-pedagogy-genai-students-2026.md''
+  Illuminating complex student realities of artificial intelligence through an entangled pedagogy framework
+
+- ● [[lo-co-creating-custom-gpts-sap-2026]] — ''raw/papers/lo-co-creating-custom-gpts-sap-2026.md''
+  Co-creating custom GPTs: an autoethnographic study of undergraduate students as partners in generative AI innovation
+
+- ● [[matthews-five-guiding-principles-ai-sap-trust-2025]] — ''raw/papers/matthews-five-guiding-principles-ai-sap-trust-2025.md''
+  Five guiding principles for navigating artificial intelligence in students as partners practice to preserve pedagogical trust
+
+- ● [[maybee-disruptive-partnerships-sap-2025]] — ''raw/papers/maybee-disruptive-partnerships-sap-2025.md''
+  Disruptive Partnerships: Collaborating with Students to Create Empowering Learning Experiences in Information Studies
+
+- ● [[pedagogical-partnerships]]
+  Pedagogical Partnerships (Students as Partners)
+
+- ● [[williams-ingle-assessment-co-creation-ai-2025]] — ''raw/papers/williams-ingle-assessment-co-creation-ai-2025.md''
+  Assessment design through co-creation: Student-staff partnership in evaluating the impact of artificial intelligence
 
 
 ## "2026-08-30

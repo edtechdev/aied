@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-08-31T09:58:42-04:00"
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, well-being]
 level: [higher ed, k 12]
@@ -75,6 +75,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders|Stakeholders]] umbrella, and the home for summarizing all the ways AI impacts students.
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 - [[agency]]
 - [[well-being]]

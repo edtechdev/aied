@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-08-31T09:58:42-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 tags: [pedagogy, learning-design, ai-education, higher-ed, k-12]
@@ -69,6 +69,7 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 - **Teach with and about AI:** pedagogies should both use AI to teach and teach learners how to use AI responsibly.
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[learning-theories]]

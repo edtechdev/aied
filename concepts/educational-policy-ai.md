@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T09:36:03-04:00"
+updated: "2026-08-31T09:58:42-04:00"
 type: concept
 tags: [regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics]
 audience: [administrator, instructors, faculty development]
@@ -51,6 +51,7 @@ The practical test that separates them: a policy can be read on paper, but gover
 Educational AI policy connects to [[regulation]] (legal framework), [[governance]] (institutional implementation), [[educational-development]] (policy implementation through training), [[equity-in-ai-education]] (policy impacts on access), and [[higher-ed]] / [[k-12]] (context-specific policy).
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 
 - [[regulation]]
 - [[governance]]

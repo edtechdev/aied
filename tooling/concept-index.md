@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 182
+**Total concepts:** 183
 
 - slug: early-childhood-elementary-ai-education
   title: Early Childhood Education
@@ -425,6 +425,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`open-source`** — Open Source
 - **`pedagogical-agent`** — Pedagogical Agent
 - **`pedagogical-llm-training`** — Training Pedagogical LLMs for Tutoring
+- **`pedagogical-partnerships`** — Pedagogical Partnerships (Students as Partners) — phrases: students as partners; pedagogical partnership; student partnership; co-creation; co-design; student co-design; students co-create; student voice in design
 - **`pedagogical-safety`** — Pedagogical Safety
 - **`pedagogy`** — Pedagogies and Teaching Strategies
 - **`peer-review`** — Peer Review

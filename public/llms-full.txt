@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 182 concepts, 956 articles, and 16 FAQs.
+> Complete text of 183 concepts, 963 articles, and 16 FAQs.
 
 # Concepts
 
@@ -57,7 +57,7 @@ The field's cross-cutting and foundational concepts anchor the knowledge base's 
 
 How AI supports teaching and learning is the heart of the field. Key concepts include:
 
-- **Core pedagogies:** [[pedagogy|pedagogies and teaching strategies]] — the umbrella for the knowledge base's teaching-methods coverage — along with [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[problem-based-learning|problem-based learning]], [[productive-failure|productive failure]], [[inquiry-based-learning|inquiry-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[learning-by-teaching|learning by teaching]], [[scaffolding]], [[socratic-method|the Socratic method]], [[critical-pedagogy|critical pedagogy]], [[storytelling-in-education|storytelling]], [[learning-design|learning design]], and [[online-teaching-and-learning|online teaching and learning]].
+- **Core pedagogies:** [[pedagogy|pedagogies and teaching strategies]] — the umbrella for the knowledge base's teaching-methods coverage — along with [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[problem-based-learning|problem-based learning]], [[productive-failure|productive failure]], [[inquiry-based-learning|inquiry-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[learning-by-teaching|learning by teaching]], [[scaffolding]], [[socratic-method|the Socratic method]], [[critical-pedagogy|critical pedagogy]], [[pedagogical-partnerships|pedagogical partnerships]], [[storytelling-in-education|storytelling]], [[learning-design|learning design]], and [[online-teaching-and-learning|online teaching and learning]].
 - **Learning theories and processes:** the [[learning-theories|learning theories]] umbrella ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], [[embodied-learning|embodied learning]], [[community-of-inquiry|community of inquiry]]) sits alongside learner-facing processes like [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[motivation]], [[self-efficacy]], [[self-directed-learning|self-directed learning]], [[metacognition]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[prior-knowledge|prior knowledge]], [[icap-framework|ICAP cognitive engagement]], [[refutation-text|refutation text]], and [[activity-theory-aied|activity theory]].
 - **Learner engagement and experience:** [[student-engagement|student engagement]], [[help-seeking]], [[social-emotional-learning|social-emotional learning]], [[well-being]], [[creativity]], and [[student-ai-interaction|student–AI interaction]] shape how learners actually encounter and are affected by AI.
 
@@ -115,6 +115,7 @@ The knowledge base reflects a field in rapid evolution — from early intelligen
 AI in education connects to every concept in the knowledge base — it is the field that all other concept pages collectively define. Use this page as a starting point to navigate the full knowledge base.
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI education (young children)
 - [[ai-anxiety-and-stress]] — AI anxiety and stress in education
 - [[career-development-and-readiness]] — Career development and readiness
@@ -1271,6 +1272,7 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - **Both are professional-development and [[pedagogy|pedagogical]] concerns.** Supporting teacher identity belongs to [[educational-development]] and [[teacher-ai-competency]]; supporting learner identity belongs to [[student-experience]], [[authentic-assessment]], and [[agency]]. A well-designed AI-integrated system attends to both — because the teacher's identity is the condition under which learners' identities form.
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[business-education]]
@@ -1410,6 +1412,7 @@ For instructional designers, course developers, and engineers building AI-assist
 
 - **AI is reshaping instructional design practice.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]] [[meta-analysis-systematic-review|systematically review]] 28 studies (2020-2025) and find AI assists designers with content generation, templates, and personalization, and is conceptualized as a co-worker/collaborator/partner rather than just a tool — though pedagogical alignment and practitioner readiness remain challenges.
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[curriculum-design]]
@@ -1936,6 +1939,7 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agentic-ai]] (autonomy), [[teacher-role]] (teachers' changing work), [[scaffolding]] and [[metacognition]] (how collaboration supports learning), and [[cognitive-offloading|Over-Reliance]] (the failure mode when collaboration becomes substitution). It is a core theme across [[ai-literacy]], [[self-regulated-learning]], and [[student-experience]].
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 - [[community-of-inquiry]] — Community of Inquiry (presences as human-GenAI sociotechnical accomplishments)
 
 - [[student-ai-interaction]]
@@ -2064,6 +2068,7 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 The framework's boundary condition requires **contestability** (the ability to question and cross-check AI output), **provenance** (knowing where training data and output come from), and **non-delegation of moral and intellectual credit** (high-stakes judgments about student welfare, academic standing, and grades must not be determined solely by AI). This gives educators and policymakers a more precise vocabulary than the vague "balance" between human and artificial contributions, connecting agency to [[ethics]], [[assessment]], [[equity-in-ai-education]], and [[governance]].
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[self-directed-learning]]
@@ -2319,6 +2324,7 @@ Curriculum design addresses the *what* of education at the program level, comple
 Curriculum design connects directly to [[learning-design]] — curriculum defines what, instruction defines how. It connects to [[ai-literacy]] because embedding AI competencies is a primary curriculum challenge, to [[teacher-role]] and [[educational-development]] because curriculum change requires educator preparation, and to [[scaffolding]] because well-designed curricula scaffold skill development across courses and years. The [[higher-ed]] and [[k-12]] connections reflect curriculum design's relevance across educational levels.
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 
 - [[business-education]]
 - [[learning-design]]
@@ -2692,6 +2698,7 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 - **Teach with and about AI:** pedagogies should both use AI to teach and teach learners how to use AI responsibly.
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[learning-theories]]
@@ -2893,6 +2900,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - **Accommodate neurodivergent learners.** Structured assignments, small consistent teams, and explicit role definitions are requirements AI collaboration tools must support.
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 
 - [[problem-based-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
@@ -3732,6 +3740,115 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model for interpretive cognition in the humanities
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
+
+---
+
+## [Pedagogical Partnerships (Students as Partners)](https://edtechdev.github.io/aied/concepts/pedagogical-partnerships/)
+
+> **[[pedagogy|Pedagogical]] partnerships** (also known as **students as partners** or **SaP**) — a relationship-centered approach to teaching and learning in which students and educators work together as collaborators to co-create curriculum, teaching activities, [[assessment]], open educational resources, and educational policies, rather than treating students as passive recipients of faculty-designed instruction. Rooted in values of **respect, reciprocity, and responsibility** (Cook-Sather et al., 2014), pedagogical partnership repositions students as co-creators of knowledge and educational innovation and challenges traditional top-down power dynamics in education. In the AI era, partnership has become a key counter-narrative to deficit views of students as AI cheaters or victims — positioning students as partners in co-designing AI policy, tools, and practice.
+
+## Questions to Consider
+
+- When you design a course, assignment, or policy, who typically makes the decisions — and whose perspective is left out? What would change if the people most affected by those decisions were genuine collaborators rather than recipients?
+- A common assumption is that students lack the expertise to contribute to teaching design. Yet partnership [[research-methods-aied|research]] argues students are experts in their own experience as learners. Where is the line between a student's legitimate experiential expertise and the faculty member's disciplinary expertise?
+- The word "partnership" can paper over real power differences — a student asked to "co-design" a course still depends on the instructor for grades and references. What conditions make a partnership genuine rather than performative?
+- In the age of generative AI, students are often framed as either cheaters or victims. How might reframing them as partners in designing AI use and policy change both the tools built and the conversations educators have with students?
+- Partnership can extend to whole classes, small groups, or individuals. Which form is most equitable, and what practical and resource constraints limit broader participation?
+- What does trust have to do with pedagogical partnership — and how might surveillance- or deficit-oriented responses to AI fracture the relationships partnership depends on?
+
+## Introduction
+
+Pedagogical partnerships, also called **students as partners (SaP)**, describe a spectrum of practices in which students collaborate with academic staff to shape teaching, learning, assessment, curriculum, and the broader [[student-experience|student experience]]. The approach draws on the foundational guide by Cook-Sather, Bovill, and Felten (2014) and the higher-education framework of Healey, Flint, and Harrington (2014), which describe partnership as grounded in three core values: **respect, reciprocity, and responsibility**. Partnership is not about making students pedagogical experts, nor about faculty relinquishing disciplinary authority; rather, it recognizes the complementary roles each partner brings — faculty as disciplinary experts and intellectual guides, students as experts in their own experience as learners with diverse talents and interests.
+
+Pedagogical partnership challenges the entrenched assumption that students cannot be trusted to collaborate on teaching and learning, and it actively disrupts traditional faculty-centered hierarchies. It overlaps conceptually with [[collaborative-learning]], [[agency|learner agency]], and [[student-engagement]], but is distinct in centering students in the *design* of education itself — curriculum, assessment, teaching activities, open educational resources, and policy — rather than merely as active participants within a pre-designed course.
+
+In the [[generative-ai|generative AI]] era, pedagogical partnership has taken on new urgency. As AI amplifies deficit narratives that frame students as either cheaters or victims (see [[ai-misuse-learning-harm]] and [[framing-ai-use-for-students]]), partnership offers a counter-narrative: rather than policing students or assuming misuse, educators and institutions can engage students as co-designers of AI policy, tools, and practice. This is reflected across the knowledge base's research — from students co-designing course AI policies to co-creating custom AI tools and co-constructing assessment criteria.
+
+## Forms and scope of partnership
+
+Partnership can take many forms and operate at multiple scales, each with distinct affordances and constraints:
+
+- **Whole-class partnership (co-creation in the classroom):** All students in a course collaborate with faculty on course structure, content, goals, and policies. Whole-class approaches may be the most equitable form of partnership because they allow broad participation and benefit, though they require substantial "high-touch" personnel resources to support increased student decision-making (Bovill, 2020).
+- **Individual or small-group partnership:** A small number of student partners work with staff on a specific project — for example, co-designing [[assessment]] criteria, evaluating AI tools, or developing curriculum. These are well-suited to dialogic, in-depth collaboration.
+- **Project- or program-based partnership:** Students partner on a bounded initiative, such as co-designing a course AI policy, building a custom AI tool, or developing an algorithmic-literacy program.
+- **Partnership in [[curriculum-design]] and [[learning-design]]:** Students contribute to shaping what and how learning happens, from individual activities to entire programs.
+
+Across these forms, partnership is a *process and a relationship*, not just an activity. The outcomes are often co-created and not fully defined in advance, which requires staff to let go of control and accept the risks of the unknown — values that run counter to the hidden rules of much of [[higher-ed|higher education]].
+
+## Pedagogical partnership and AI in education
+
+The intersection of pedagogical partnership and AI is one of the fastest-growing strands of the knowledge base. Key themes:
+
+- **Students as co-designers of AI policy.** Rather than institutions imposing AI rules on students, partnership positions students as co-creators of course- and institution-level AI policy. For example, a guided-inquiry activity in which students co-designed a [[generative-ai]] course policy surfaced student priorities around training, standardized disclosure, institutional support, and involvement in decision-making ([[guided-inquiry-genai-course-policy-2026]]).
+- **Students as co-creators of AI tools.** In students-as-partners frameworks, students have co-designed and refined custom AI [[conversational-ai|chatbots]] aligned with pedagogical goals — an approach that extends the SaP paradigm to include AI tools themselves and positions student voice as central to responsible AI innovation ([[lo-co-creating-custom-gpts-sap-2026]]).
+- **Co-creation in assessment and AI.** Student-staff partnerships have co-evaluated AI-generated output in coursework assessments and co-designed evaluation criteria, improving understanding of AI's benefits and limits and supporting [[self-regulated-learning]] ([[williams-ingle-assessment-co-creation-ai-2025]]).
+- **Partnership to preserve pedagogical trust.** In the face of AI-driven uncertainty and "AI shame," partnership practices that nurture *pedagogical trust* — a confident, reciprocal learning relationship open to uncertainty and co-navigated through dialogue — offer a way to sustain the relational core of education ([[matthews-five-guiding-principles-ai-sap-trust-2025]]).
+- **Youth as co-designers of AI systems.** Participatory design approaches engage historically minoritized students as partners in designing the AI systems that will affect their classrooms, surfacing students' values and [[ethics|ethical]] commitments ([[chang-co-designing-ai-youth-relational-privacy-2025]]).
+- **Students' lived realities as a design input.** Frameworks like entangled pedagogy illuminate the complex, "messy" realities students navigate with AI, arguing that policy and guidance should be co-designed with students in light of their lived experiences rather than imposed from above ([[fawns-entangled-pedagogy-genai-students-2026]]).
+
+These strands share a core claim: that the people who will live with [[ai-education|AI in education]] — students — must be meaningfully engaged in shaping it, or the resulting tools, policies, and practices risk being untrustworthy, inequitable, or ineffective.
+
+## Relationships to related concepts
+
+Pedagogical partnership is related to but distinct from several neighboring concepts:
+
+- **[[agency|Learner agency]] and [[self-directed-learning]]:** Partnership supports learner agency by giving students a voice in what and how they learn, and it overlaps with self-directed learning. However, partnership is fundamentally *relational* — agency and direction emerge through the instructor–student relationship rather than in isolation. Some frameworks conceptualize this as "shared agency" that exists in the relationship between student and instructor, not within either party alone.
+- **[[collaborative-learning]]:** Both involve working together, but collaborative learning typically refers to students learning *with each other* within a designed activity, whereas pedagogical partnership centers students and staff collaborating on the *design* of education itself.
+- **[[student-engagement]]:** Partnership is a deep form of engagement, but engagement describes a student's involvement in learning while partnership describes a changed power relationship in which students share responsibility for shaping that learning.
+- **[[teacher-role]]:** Partnership redefines the teacher's role from sole authority and gatekeeper of knowledge to co-designer and intellectual guide, without diminishing faculty expertise.
+- **[[assessment]] and [[authentic-assessment]]:** Co-designing assessment — from evaluation criteria to rubrics to whole assessment formats — is a central arena of partnership, and AI has amplified both the need for and the difficulty of genuine co-design in assessment.
+- **[[educational-policy-ai]] and [[governance]]:** Partnership extends into policy and governance, positioning students as co-creators of AI policy rather than passive subjects of it.
+- **[[equity-in-ai-education]] and [[inclusive-learning]]:** Partnership is argued to be a more equitable form of educational participation, centering voices — especially those of historically minoritized or marginalized students — that are often excluded from educational decision-making.
+
+## Key research themes
+
+- Whether and how partnership improves [[learning-gains|learning outcomes]], [[student-engagement]], [[motivation]], and a sense of belonging.
+- The relational conditions — trust, psychological safety, dialogue, shared responsibility — required to bring partnerships about and sustain them.
+- How AI both enables and complicates partnership: as students co-design AI tools and policies, and as deficit narratives around AI threaten the trust partnership depends on.
+- Equity in partnership: which students get to participate, whose voices are centered, and how whole-class vs. selective forms distribute benefit.
+- The resource and institutional constraints on partnership, including the time-intensive nature of genuine co-design.
+- How partnership relates to decolonizing, critical, and [[critical-pedagogy|critical pedagogies]] that challenge traditional hierarchies and center multiple ways of knowing.
+
+## Practical implications
+
+For educators and institutions seeking to adopt pedagogical partnership, the knowledge base's research suggests:
+
+1. **Start small and iterate.** Begin with a bounded project — a pilot with a limited number of participants — and honor participant effort with recognition (employment, credit, certificates, publication).
+2. **Build on existing infrastructure.** [[educational-development|Faculty development]] programs, student employment relationships, and cross-campus partnerships provide foundations for adapting partnership practice.
+3. **Lead with relationship and trust.** Partnership works when trust, psychological safety, dialogue, and shared responsibility are deliberately cultivated — not assumed.
+4. **In the AI era, invite students in rather than policing them.** Co-designing AI policy, tools, and assessment with students is both more equitable and more effective than deficit-based responses.
+5. **Consider equity of participation.** Whole-class partnership offers the broadest participation; selective programs must attend to which students are invited and included.
+
+## Connected Concepts
+- [[pedagogy]] — Pedagogies and teaching strategies
+- [[collaborative-learning]]
+- [[agency]] — Learner agency
+- [[self-directed-learning]]
+- [[curriculum-design]]
+- [[learning-design]]
+- [[assessment]]
+- [[authentic-assessment]]
+- [[teacher-role]]
+- [[student-engagement]]
+- [[student-experience]]
+- [[educational-policy-ai]]
+- [[governance]]
+- [[equity-in-ai-education]]
+- [[inclusive-learning]]
+- [[human-ai-collaboration]]
+- [[student-ai-interaction]]
+- [[generative-ai]]
+
+## Connected Articles
+- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
+- [[lo-co-creating-custom-gpts-sap-2026]] — Co-creating custom GPTs: an autoethnographic study of undergraduate students as partners in generative AI innovation
+- [[williams-ingle-assessment-co-creation-ai-2025]] — Assessment design through co-creation: Student-staff partnership in evaluating AI
+- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Five guiding principles for navigating AI in students as partners practice to preserve pedagogical trust
+- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing AI with youth partners: a relational privacy ethical framework
+- [[fawns-entangled-pedagogy-genai-students-2026]] — Illuminating complex student realities of AI through an entangled pedagogy framework
+- [[anastasia-shared-agency-partnership-framework-2026]] — Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration
+- [[maybee-disruptive-partnerships-sap-2025]] — Disruptive Partnerships: Collaborating with Students in Information Studies
+- [[student-centered-genai-responsible-framework-2026]] — Student-centered framework for responsible generative AI use
 
 ---
 
@@ -5769,6 +5886,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - **Learner characteristics moderate TTS dialogue-based lessons (2026):** In LLM+TTS-generated teacher–student, student–student, and teacher–teacher dialogue lessons, experiential-learning style and critical-thinking disposition significantly interacted with dialogue format for ARCS-based motivation, indicating that AI-generated dialogue content is differentially motivating depending on learner profile ([[tts-dialogue-lessons-learner-characteristics-2026]]).
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 - [[community-of-inquiry]] — Community of Inquiry (agentic engagement as a CoI dimension)
 
 - [[eportfolio]]
@@ -10736,6 +10854,7 @@ The constructive question in the knowledge base's assessment literature is not "
 
 - **AI-mediated assessment is diversifying.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] shows an LLM-augmented conversational agent reduced student anxiety during performance-based assessments; [[asynchronous-oral-assessment-2026|Pentland (2026)]] finds asynchronous oral assessments offered higher engagement and were perceived as professionally relevant; [[graph-its-adaptive-algorithms-2026|graph-based ITS]] uses adaptive knowledge-state tracking to inform assessment.
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 - [[formative-assessment]] — Formative assessment: AI-generated, validated, adaptive items at scale
 - [[automated-assessment]] — Automated grading and scoring across assessment modalities
 - [[authentic-assessment]] — Process-based, AI-robust authentic tasks
@@ -13569,6 +13688,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders|Stakeholders]] umbrella, and the home for summarizing all the ways AI impacts students.
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 - [[agency]]
 - [[well-being]]
@@ -14172,6 +14292,7 @@ The practical test that separates them: a policy can be read on paper, but gover
 Educational AI policy connects to [[regulation]] (legal framework), [[governance]] (institutional implementation), [[educational-development]] (policy implementation through training), [[equity-in-ai-education]] (policy impacts on access), and [[higher-ed]] / [[k-12]] (context-specific policy).
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 
 - [[regulation]]
 - [[governance]]
@@ -14286,6 +14407,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify **ethics & data governance** as one of seven enablers of trustworthy LA-based educational interventions — policies for the ethical use of LA and AI, data privacy, security, and accountability — and position [[trust|trustworthiness]] (including leadership and governance that support implementation) as the prerequisite for meaningful data-informed interventions.
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 - [[ai-use-disclosure]] — AI use and disclosure statements
 
 - [[remote-proctoring]]
@@ -24837,6 +24959,73 @@ Amponsah, K. D., Adu-Boahen, J., Commey-Mintah, P., Kumassah, E. K., Ayittey, R.
 
 ---
 
+## [Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration](https://edtechdev.github.io/aied/articles/anastasia-shared-agency-partnership-framework-2026/)
+
+> **Synthesis:** This conceptual paper introduces [[agency]] as *shared agency* — a relational construct that emerges not from the student or the faculty alone but from a relationship built through intentional partnership. It presents the Agency Partnership Framework, which operationalizes shared agency through eight relational, psychological, and instructional conditions: Instructor Presence, Trust, Psychological Safety, Dialogue, Voice and Choice, Meaningful Feedback, Reflection, and Shared Responsibility. The framework is grounded in the [[pedagogical-partnerships]] (Students as Partners) movement, relational agency (Edwards), co-agency (OECD), [[self-determination-theory]], [[self-efficacy]] (Bandura), [[adult-learning]] (Knowles), and Transformative Learning (Mezirow). A central argument is that offering choice alone does not create autonomy; the conditions enabling meaningful agency must be co-created with students, distinguishing supported autonomy from isolation.
+
+## Shared Agency as a Relational Construct
+
+Anastasia argues that existing scholarship on collaboration has focused on what partners *do* — shared decision-making, co-creation of the learning experience, and [[curriculum-design|curriculum design]] — without interrogating the relational conditions that allow those partnerships to form and endure. Drawing on [[pedagogical-partnerships]] (Students as Partners, Cook-Sather) and relational accounts of agency such as Edwards' relational agency and the OECD's co-agency, the paper coins the term *shared agency* to describe a special, relational type of agency formed through the deliberate joint construction of psychological, relational, and instructional conditions for transformative learning.
+
+The key conceptual move is that agency is not transferred from the individual to the relationship; it *emerges* from the relationship. Rather than treating [[agency]] as an individual attribute possessed by either instructor or student, shared agency treats the capacity to act as distributed across a reflexively developed relationship in which both parties intentionally co-construct the conditions under which agency can develop.
+
+## The Agency Partnership Framework
+
+The framework operationalizes shared agency through eight components, each framed as a mode of working rather than a feature of effective teaching:
+
+- **Instructor Presence** — a purposeful display of [[accessibility]], authenticity, and [[student-engagement|engagement]] that signals to students they are seen, cared for, and valued (Garrison, Anderson, & Archer).
+- **Trust** — mutual assurance granted through honesty, reliability, respect, and integrity, building the relational stability that lets students take risks and act as working partners.
+- **Psychological Safety** — safety to ask questions, try new things, and make mistakes without embarrassment or punishment, enabling agency through openness.
+- **Dialogue** — an interactive, two-way, respectful exchange that co-constructs understanding between instructor and student (Freire).
+- **Voice and Choice** — empowering students to contribute ideas and exercise autonomy, giving them ownership over what and how they learn (Deci & Ryan).
+- **Meaningful Feedback** — encouraging, timely, [[formative-assessment|formative]], reciprocal, and forward-looking feedback that functions as an ongoing conversational cycle (Hattie & Timperley).
+- **Reflection** — mutual examination of experience that questions assumptions and informs future action (Mezirow, Schön).
+- **Shared Responsibility** — a reciprocal commitment to learning activities and outcomes that does not shift all liability onto one side.
+
+## Theoretical Foundations
+
+No single theory fully explains shared agency; the paper synthesizes several. **[[self-determination-theory]]** (Deci & Ryan) grounds the framework in the three needs of autonomy, competence, and relatedness — voice and choice support autonomy, meaningful feedback supports competence, and instructor presence, trust, psychological safety, and dialogue support relatedness. **[[self-efficacy]]** (Bandura) explains why autonomy alone is insufficient: students given choice may not exercise it if they lack confidence to act, and the framework's conditions (psychological safety, feedback, dialogue, reflection) build that confidence. **[[adult-learning]]** (Knowles' andragogy) positions adult learners as bringing experience, self-direction, and motivation into the learning relationship rather than receiving instructor-directed knowledge. **Transformative Learning** (Mezirow) provides the outcome: reflection, dialogue, and psychological safety enable learners to critically examine assumptions and change frames of reference.
+
+The paper extends andragogy by shifting attention from the learner's attributes to the relational conditions under which adult-learner agency might emerge. It notes that identifying learner characteristics does not explain the relational conditions through which they are expressed within an instructor–student partnership.
+
+## Supported Autonomy
+
+A central argument distinguishes self-direction from isolation. Anastasia proposes *supported autonomy* as the junction between self-determination theory, shared agency, and andragogy. Self-direction does not mean the learner is cut off from knowledge, discussions, challenges, feedback, or support; the instructor's presence and the exercise of self-direction are reinforcing rather than adversarial. Choice alone does not create meaningful autonomy — learners may be offered choices while lacking the information, confidence, psychological safety, or relational support to exercise them well. Recognizing experience does not ensure experience becomes learning, and assigning responsibility does not automatically create agency. Each requires the relational conditions of the framework to become genuine.
+
+## Implications for AI in Education
+
+The paper is framed explicitly against the rise of increasingly autonomous [[ai-education|artificial intelligence in education]]. Anastasia argues that a high-quality relationship between faculty and students is required to ensure engagement, a sense of belonging, critical understanding, and [[lifelong-learning|lifelong learning]] — especially as generative tools reshape the [[student-ai-interaction]]. By conceptualizing agency as arising from intentionally enhanced relationships, the framework offers academic staff a [[research-methods-aied|research]]-driven tool to improve collaboration and elevate transformative learning, positioning the [[teacher-role]] and the relationship-centered conditions of partnership as central to responsible integration of AI in [[higher-ed]].
+
+## Connected Concepts
+
+- [[pedagogical-partnerships]]
+- [[agency]]
+- [[self-determination-theory]]
+- [[self-efficacy]]
+- [[adult-learning]]
+- [[motivation]]
+- [[teacher-role]]
+- [[trust]]
+- [[higher-ed]]
+- [[student-engagement]]
+- [[feedback]]
+- [[collaborative-learning]]
+
+## Connected Articles
+
+- [[kim-ai-andragogy-2026]]
+- [[student-centered-genai-responsible-framework-2026]]
+- [[guided-inquiry-genai-course-policy-2026]]
+- [[kim-ai-productive-failure-adult-2026]]
+- [[activity-theory-teacher-pd-ai-agent-design-2026]]
+- [[reflective-triangle-model-teacher-ai-2026]]
+
+## Citation
+
+Anastasia, C. (2026). [Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration](https://ssrn.com/abstract=7334378). SSRN Working Paper.
+
+---
+
 ## [What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning](https://edtechdev.github.io/aied/articles/andragogy-cognitive-delegation-genai-2026/)
 
 > **Synthesis:** Hyoung (2026) revisits Knowles's six andragogical assumptions under AI-mediated cognitive delegation. Because generative AI can participate in identifying needs, setting goals, interpreting information, solving problems, producing outputs, and evaluating performance, the paper argues that behavioral independence is insufficient evidence of meaningful self-direction. Five analytical dimensions are derived — need and goal ownership, delegation control, epistemic calibration, cognitive recoverability and transfer, and motivational autonomy — to assess whether learners remain genuinely self-directed. The work bridges [[adult-learning]] with [[cognitive-offloading]], [[self-regulated-learning]], and appropriate-reliance research for [[adult-learning]] in the [[generative-ai]] era.
@@ -27533,6 +27722,65 @@ Ma, Y., Li, S., & Shi, S. (2026). [*Benchmarking Multimodal Large Language Model
 ## Citation
 
 Chan, C. K. Y. (2026). [*Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students' ethical reasoning*](https://doi.org/10.1016/j.compedu.2026.105698). *Computers & Education*, 253, 105698.
+
+---
+
+## [Co-designing AI with youth partners: Enabling ideal classroom relationships through a novel AI relational privacy ethical framework](https://edtechdev.github.io/aied/articles/chang-co-designing-ai-youth-relational-privacy-2025/)
+
+> **Synthesis:** Chang et al. (2025) argue that designers carry an [[ethics|ethical]] responsibility to engage youth — especially historically minoritized [[k-12]] students — as [[pedagogical-partnerships|design partners]] in AI tools from conception, and demonstrate this through the Learning Futures Workshop, a participatory [[qualitative-research|study]] that brought 30 historically minoritized youth into conversation with education and technology experts. The workshop surfaced students' hopes for expansive, [[collaborative-learning|collaborative]] possibilities with [[generative-ai|AI]] in classrooms, alongside a central tension around the data collected when [[agentic-ai|AI agents]] mediate collaboration. Analyzing workshop findings through [[privacy|Nissenbaum's]] contextual integrity framework, the authors identify three ethical commitments and derive a novel AI Relational Privacy ethical framework to guide the equitable design of AI-supported [[human-ai-collaboration|collaboration]] tools. The framework is operationalized in Community Builder (CoBi), a tool supporting students in building customized, ideal collaborative relationships. The paper argues that tools designed without students as partners risk being untrustworthy and [[equity-in-ai-education|inequitable]].
+
+## Co-Designing AI With Youth as Partners
+
+Much of the design of AI-based educational tools has been driven by [[research-methods-aied|researchers]] projecting their own expertise and perspectives, leaving [[agency|youth agency]] limited. This paper contends that designers have a significant ethical responsibility to bring students' dreams and concerns into the design of AI tools starting at conception — a need made urgent as applications like AI-supported collaboration introduce new surveillance vectors into [[k-12]] classroom spaces. Rather than designing *at* students, the authors position youth as co-designers who imagine ideal classroom relationships that AI could support.
+
+The work draws on [[pedagogical-partnerships|youth participatory design]] (Druin), [[human-in-the-loop-ai|human-centered design]], and relational approaches from the learning sciences. Key to their framing is *re-mediation* rather than remediation: shifting youth from a "delegitimized stakeholder" position to a meaningful design partner, and re-imagining the relationships that exist in the institutions being designed for. The workshop, run by the Institute for Student-AI Teaming (iSAT), explicitly communicated the tension between youth's expansive hopes and existing technical expertise.
+
+## The Learning Futures Workshop
+
+The Learning Futures Workshop was held remotely over five days during summer 2021 with 30 high-school youth (grades 9–12) from California, Colorado, and Oklahoma, including students identifying as Asian-American/Pacific Islander, Latinx, African American, Native American, and white. Over the first two days youth learned about the affordances and limitations of supervised [[reinforcement-learning|machine learning]] and applied a sociopolitical lens to AI. The final three days were spaces for dreaming, designing, and enacting AI possibilities.
+
+- **Day 3 (Dreaming):** Youth imagined ideal collaboration and how AI might realize it. They surfaced hopes for friendship finders, collaboration matchers based on shared interests, AI that keeps disruptive peers accountable, and an emphasis on "equity not equality" in collaboration.
+- **Day 4 (Data):** Using a custom privacy worksheet, youth considered the embodiment, actions, inferences, and raw data required by their proposed agents — and explicitly what they hoped the AI would *not* do. Discussions revealed discomfort with AI collecting personal data beyond school boundaries and preferences that varied by context and over time.
+- **Day 5 (Enacting):** A modified Theatro activity grounded AI in familiar collaborative scenarios. Youth discovered that some AI possibilities require sharing data with authoritative others (teachers, administrators, parents) to work effectively, even when that violates their privacy preferences.
+
+## Contextual Integrity and Relational Privacy
+
+The authors analyze workshop findings through [[privacy|Nissenbaum's]] framework of contextual integrity, which holds that information flows within social contexts parameterized by sender, recipient, information types, and transmission principles. They model AI-supported collaboration with these tuples and draw on Gutiérrez's notions of first, second, and third spaces in classrooms to illuminate how [[collaborative-learning|collaborative contexts]] carry different privacy expectations.
+
+Three key ethical commitments emerged from the findings: designing for ideal classroom relationships; recognizing that youth privacy preferences may conflict with their ideal designed relationships; and acknowledging that some AI tools require support from classroom authority figures to function effectively — support that can compromise relational privacy.
+
+From these, the authors derive a five-question **AI Relational Privacy ethical framework** to guide design: What ideal relationships does the AI support? What do designers/secondary recipients consider key information types and transmission principles? What do youth (senders) consider preferred information types and transmission principles? Does the design require data sharing beyond the immediate context, and does that violate initial transmission principles? How are norms contested and re-negotiated, and how does that expand or narrow the design?
+
+## Community Builder (CoBi)
+
+The framework is instantiated in the Community Builder (CoBi), an AI tool developed at iSAT that supports students in building customized, ideal collaborative relationships. CoBi uses computational models to give feedback on how well students hold to collaborative agreements such as Committed to Community, Moving Thinking Forward, and Being Respectful — agreements rooted in the relational hopes expressed by youth in the workshop. Applying the Relational Privacy framework surfaced key tensions: for example, an AI that reports off-task remarks to teachers supports "Moving Thinking Forward" but compromises "Being Respectful." CoBi has addressed this tension by aggregating predictions at the class level to protect individual and group identities, illustrating the need for compromise rather than consensus.
+
+## Implications
+
+The paper argues that students who will live with these tools must be engaged as design partners, or tools risk being untrustworthy, inequitable, disposable, and ineffective. Future work focuses on changing the organizational conditions through research-practice partnerships, [[educational-development|professional development]] that embraces the classroom's "third space," and [[curriculum-design|curriculum]] that helps youth understand how tools like CoBi collect, process, and secure data. This stands as the first study to explore the privacy implications of AI-supported collaboration in K-12 contexts in close design partnership with historically minoritized youth.
+
+## Connected Concepts
+- [[pedagogical-partnerships]]
+- [[collaborative-learning]]
+- [[privacy]]
+- [[ethics]]
+- [[equity-in-ai-education]]
+- [[agency]]
+- [[k-12]]
+- [[generative-ai]]
+- [[human-ai-collaboration]]
+- [[trust]]
+- [[student-experience]]
+- [[qualitative-research]]
+
+## Connected Articles
+- [[lo-co-creating-custom-gpts-sap-2026]] — Co-Creating Custom GPTs: Students as Partners
+- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Five Guiding Principles for AI, Student Partnerships, and Trust
+- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
+- [[student-centered-genai-responsible-framework-2026]] — Student-Centered Generative AI Responsible Use Framework
+
+## Citation
+Chang, M. A., Tissenbaum, M., Philip, T. M., & D'Mello, S. K. (2025). [*Co-designing AI with youth partners: Enabling ideal classroom relationships through a novel AI relational privacy ethical framework*](https://doi.org/10.1016/j.caeai.2025.100364). *Computers and Education: Artificial Intelligence, 8*, 100364.
 
 ---
 
@@ -35698,6 +35946,48 @@ For educators and policymakers, this paper provides intellectual ammunition for 
 ## Citation
 
 Favero, L., Pérez-Ortiz, J.-A., Käser, T., & Oliver, N. (2025). [Critical AI Tutors: Empower or Enslave?](https://arxiv.org/abs/2507.06878).
+
+---
+
+## [Illuminating complex student realities of artificial intelligence through an entangled pedagogy framework](https://edtechdev.github.io/aied/articles/fawns-entangled-pedagogy-genai-students-2026/)
+
+> **Synthesis:** Fawns, Bearman, Corbin, Henderson, Walton, Liang, McLean, Oberg & Matthews (2026) offer a theoretically informed [[qualitative-research|qualitative]] analysis of how three university students (John, Vivian, Howard) negotiate [[generative-ai|generative AI]] within the "messy" realities of everyday study and life. Using Fawns' (2022) [[pedagogy|entangled pedagogy]] framework — grounded in Barad's sociomaterial/relational ontology — the study shows that GenAI [[student-engagement|engagement]] is inseparable from students' overlapping identities (learner, future professional, employee, parent), beliefs about learning, [[student-ai-interaction|emotional responses]], pragmatic constraints, trust relations, and moral judgements about responsibility, authenticity, and [[bias-mitigation|fairness]]. Student positions on GenAI are multiple, ambiguous, provisional, contextual, and sometimes internally conflicting. Contrasting with a sector fixated on [[educational-development|staff development]], [[assessment]] redesign, and student compliance (e.g., [[ai-detection|AI detection]]), the authors argue policy and guidance should be co-designed with students and attend to lived realities rather than treating GenAI as a problem for universities. Students' positionings, they contend, are often more thoughtful and ethically attuned than public discourse suggests.
+
+## Key Findings
+
+- **Entangled pedagogy as an analytic lens.** The study applies Fawns' (2022) framework, which treats [[ai-technologies|technologies]] as integral to, rather than separable from, educational activity. Drawing on sociomaterial scholarship (Barad, Fenwick, Orlikowski), the authors treat GenAI engagement as emerging from shifting configurations of social, material, institutional, and personal relations — resisting instrumental or solutionist framings that abstract AI from context.
+- **Students hold multiple, overlapping identities.** John is simultaneously a postgraduate student, a father, and a [[math-education|mathematics]] educator; Vivian is a [[neurodiversity|neurodivergent]] (ADHD) art history student; Howard is an arts/psychology major working at a hardware store. Each negotiates GenAI across the intersections of these roles rather than as a discrete "student" decision.
+- **Positions are provisional, ambiguous, and sometimes conflicting.** John criticises peers "getting away with using AI" yet also criticises universities for prohibiting it; Vivian rejects GenAI as inauthentic yet admits "AI sits across a whole lot of platforms... you can't avoid it entirely"; Howard trusts GenAI "to be untrustworthy" and uses it in ways that "technically do" breach rules while believing he upholds his personal standard of [[academic-integrity|academic integrity]].
+- **Emotion, trust, and morality are entangled with pragmatics.** GenAI use is negotiated amid guilt, fear, frustration, and pragmatic pressure (e.g., Howard submitting assignments "with 2 min to spare," his fear of detection and "harsh consequences"). Decisions blend personal integrity, institutional expectations, trust relations with institutions/peers/technologies, and concerns about future employability and the "human element" of learning.
+- **Sector approaches mis-frame the issue.** Dominant responses — staff development, assessment redesign, compliance regimes, AI detection — rely on students complying with policy despite evidence their views diverge from educator expectations. Policy does not translate cleanly into practice, because GenAI is entangled with ethics, identities, relationships, aspirations, and external pressures.
+
+## Implications for AI in Education
+
+The paper argues meaningful institutional response requires creating collaborative [[pedagogical-partnerships|dialogic spaces]] where students' voices are heard and educational tensions are made visible "by design" (a seamful approach), rather than resolving complexity through top-down rules or surveillance. It positions students as co-interpreters and co-designers — not passive recipients of policy or potential rule-breakers — and draws on the students-as-partners literature (Matthews et al.) to argue for cultures of openness, honesty, and vulnerability over adversarial behavioural control. The authors caution that challenges of equity, diversity, and inclusivity make it harder to ensure a "level playing field" when students must make their own contextual judgements. They call for moving beyond binary framings of AI as harmful or beneficial, and beyond "[[ai-literacy|AI literacy]]" conceived purely as technical competency, toward fostering reflective, [[ethics|ethical]], context-sensitive judgement. Notably, they frame entangled pedagogy as a flexible, reflexive starting point for analysis — with the authors using Barad's notion of agential cuts as a "viewfinder" to bound what is foregrounded — rather than an expandable model that encompasses everything. This connects to themes of [[governance|institutional governance]], [[trust|trust relations]], [[well-being|student wellbeing]], and [[equity-in-ai-education|equity]] in the knowledge base.
+
+## Connected Concepts
+- [[pedagogical-partnerships]]
+- [[generative-ai]]
+- [[student-experience]]
+- [[learner-identity]]
+- [[student-ai-interaction]]
+- [[higher-ed]]
+- [[well-being]]
+- [[qualitative-research]]
+- [[pedagogy]]
+- [[trust]]
+- [[governance]]
+- [[ethics]]
+
+## Connected Articles
+- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships for navigating generative AI
+- [[colbran-student-perspectives-genai-chatbots-2026]] — Student perspectives on generative AI chatbots
+- [[rewriting-curriculum-genai-pedagogy-2026]] — Curriculum and pedagogy in a generative AI era
+- [[crompton-governing-genai-higher-ed-delphi-2026]] — Governance of generative AI in higher education
+- [[hingle-collaborative-ai-literacy-2025]] — Collaborative approaches to building AI literacy
+
+## Citation
+Fawns, T., Bearman, M., Corbin, T., Henderson, M., Walton, J., Liang, Y., McLean, J., Oberg, G., & Matthews, K. E. (2026). [*Illuminating complex student realities of artificial intelligence through an entangled pedagogy framework*](https://doi.org/10.1007/s10734-026-01730-1). Higher Education.
 
 ---
 
@@ -47083,6 +47373,54 @@ Lnenicka, M., & Coufal, P. (2026). [*Navigating AI in STEM: what secondary stude
 
 ---
 
+## [Co-creating custom GPTs: an autoethnographic study of undergraduate students as partners in generative AI innovation](https://edtechdev.github.io/aied/articles/lo-co-creating-custom-gpts-sap-2026/)
+
+> **Synthesis:** Lo et al. (2026) report an autoethnographic study at Monash University in which undergraduate science students co-created and evaluated custom GPT [[conversational-ai|chatbots]] (cGPTs) within a [[pedagogical-partnerships|students-as-partners (SaP)]] framework. Across five subjects (physiology, physical [[chemistry-education|chemistry]], organic chemistry, scientific inquiry, polymer science), student teams in a Summer Scholarship program and a placement unit partnered with academics to design, test, and refine unit-specific chatbots aligned with [[learning-design|pedagogical goals]]. Inductive analysis of summer scholarship autoethnographic logs revealed the iterative, unpredictable, and creative nature of working with [[generative-ai]]. Abductive analysis of placement reflections, guided by SaP principles, surfaced themes of [[agency]], reciprocity, reflexivity, identity shift, authenticity, adaptability, and a technology-pedagogy nexus. The authors argue that co-creation with GenAI can extend the SaP paradigm to include GenAI tools, advocating [[student-experience|student voice]] as central to responsible AI innovation and offering a model for inclusive, critical, and transformative [[student-engagement|engagement]] with emerging technology in [[higher-ed]].
+
+## Partnership as a Lens on GenAI
+
+Much early discourse around [[generative-ai]] in [[higher-ed]] positioned students either as potential cheaters or as passive victims of the technology, often omitting student [[agency]] entirely. In parallel, students-as-partners (SaP) pedagogy has repositioned students as co-creators of knowledge, [[curriculum-design|curriculum]], and educational innovation. This study sits at the intersection of these trends, asking what happens when undergraduates and academics partner not merely to use AI but to build it. The authors adopt a dual theoretical lens — SaP for the collaborative process and [[qualitative-research|autoethnography]] for capturing the lived experience and meaning-making of the students involved — to examine both the mechanics of partnership and its impact on participants.
+
+## Co-Creating Unit-Specific Chatbots
+
+Students partnered with academics to build custom GPT chatbots specialised for the content and [[learning-gains|learning outcomes]] of specific units, working through an iterative cycle of design, tailoring, testing, and optimisation. This arrangement extends SaP beyond curriculum co-creation into the co-development of [[human-ai-collaboration|AI tools]], a domain where student co-creation without formal [[cs-education|computer science]] training remains nascent. The authors draw on [[pedagogical-partnerships|participatory design]] traditions and on legitimate peripheral participation to frame how students' learner expertise was combined with academics' disciplinary and pedagogical knowledge to produce trustworthy, context-sensitive tools.
+
+## Themes From Student Reflections
+
+- **[[agency]] and ownership** — students reported genuine influence over the design and pedagogical direction of the tools, consistent with core SaP values of respect, reciprocity, and shared responsibility.
+- **Reciprocity and reflexivity** — autoethnographic reflection surfaced [[metacognition|metacognitive]] awareness, a hallmark benefit of partnership approaches.
+- **Identity shift** — participants moved from consumers of educational technology to co-producers and shapers of it, an experience that demystified AI and built [[ai-literacy|critical understanding of AI]].
+- **Authenticity and adaptability** — students balanced the creative, unpredictable nature of working with GenAI against the need for reliable, unit-appropriate outputs.
+- **Technology-pedagogy nexus** — co-creation foregrounded how tool design decisions are inseparable from [[pedagogy|pedagogical]] intent, echoing the broader turn toward using GenAI as a catalyst for innovation rather than a threat to be managed.
+
+## Extending Students-as-Partners Into the AI Era
+
+The central argument is that co-creation with GenAI can extend the SaP paradigm to include GenAI tools themselves, moving students from passive use toward genuine partnership in shaping educational technology. The authors reflect on the [[ethics|ethical]] and pedagogical implications of GenAI and advocate for student voice as central to responsible innovation. By embedding partnership pedagogy into GenAI co-creation, the study offers a model for more inclusive, critical, and transformative engagement with emerging technology — one that positions [[student-ai-interaction|student co-design]] as both a learning activity and a [[governance]] mechanism in the responsible integration of AI across university settings.
+
+## Connected Concepts
+- [[pedagogical-partnerships]]
+- [[generative-ai]]
+- [[student-ai-interaction]]
+- [[human-ai-collaboration]]
+- [[collaborative-learning]]
+- [[agency]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[qualitative-research]]
+- [[ethics]]
+- [[student-experience]]
+
+## Connected Articles
+- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
+- [[student-centered-genai-responsible-framework-2026]] — A Student-Centered Framework for Responsible Use of Generative AI in Higher Education
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — "Should I Tell My Teacher?" Student AI Disclosure Practices
+- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
+
+## Citation
+Lo, S., Lea, T., Mavromoustakos, A., Joseph, B., Yii, M., Exintaris, B., Karunaratne, N., Pearson, D. L., Ritchie, T., Yuriev, E., & Pyun, J. (2026). [*Co-creating custom GPTs: An autoethnographic study of undergraduate students as partners in generative AI innovation*](https://doi.org/10.3389/feduc.2026.1818781). *Frontiers in Education, 11*, 1818781.
+
+---
+
 ## [Assuring Quality Learning in a Gen AI-Integrated Future: The Role of Adaptive Capabilities](https://edtechdev.github.io/aied/articles/lodge-adaptive-capabilities-genai-future-2026/)
 
 > **Synthesis:** Lodge et al. (2026), a TEQSA-commissioned report, proposes that assuring quality learning in a gen-AI-integrated future depends on cultivating four **adaptive capabilities** in graduates: [[ai-literacy|digital literacy]], [[distributed-cognition|distributed cognition]], [[metacognition|hybrid metacognition]], and [[lifelong-learning|life-long learning]] — all supported by agency and regulation at the centre. The report argues these durable, human-centred capabilities (built on deep disciplinary knowledge) let graduates maintain agency and use gen AI as a partner rather than becoming dependent on it. It offers five propositions of practice: make adaptive capabilities core graduate attributes, build institutional infrastructure for **learning process evidence**, design environments that promote them, shift toward process-focused [[assessment-validity|assessment]], and foster cross-institutional [[collaborative-learning|collaboration]]. This is a significant [[educational-policy-ai|quality-assurance and policy]] framework for [[ai-education|AI-mediated]] [[higher-ed|Australian higher education]].
@@ -47700,6 +48038,118 @@ Tan, M., Phalen, L., & Demszky, D. (2026). *[Marked pedagogies: Examining lingui
 ## Citation
 
 Weinhandl, R., Andic, B., Wijaya, T. T., Bleckenwegner, V., Riegler, V., Baldinger, S., Mayrhofer, J., & Helm, C. (2026). [*Talking mathematics with AI: Understanding teachers' motivation for utilizing chatbots*](https://doi.org/10.1016/j.caeo.2026.100359). *Computers and Education Open*, 100359. https://doi.org/10.1016/j.caeo.2026.100359
+
+---
+
+## [Five Guiding Principles for Navigating Artificial Intelligence in Students as Partners Practice to Preserve Pedagogical Trust](https://edtechdev.github.io/aied/articles/matthews-five-guiding-principles-ai-sap-trust-2025/)
+
+> **Synthesis:** Matthews (2025), in an editorial for the *International Journal for Students as Partners*, argues that [[trust]] is fundamental to [[pedagogy|pedagogical]] relationships and therefore to [[pedagogical-partnerships|students-as-partners]] practice in the age of [[generative-ai|AI]]. She warns that AI advances have amplified deficit views of students as cheaters or victims, a framing that risks fracturing learner–teacher relationships — especially when 83% of students in a large multi-[[governance|institutional]] study (8,000+ respondents) reported using AI. Against the rise of "AI shame" and surveillance, she advocates **pedagogical trust** — a confident, reciprocal learning relationship open to uncertainty and co-navigated through dialogic decision-making and shared sense-making. To guide practice, she offers five principles for navigating GenAI together with students: (1) cultivate open and curious conversations; (2) acknowledge the emotional and vulnerable lived experiences of AI use; (3) make the role of AI visible and negotiable in learning activities; (4) create consistent opportunities for shared learning and reflection; and (5) ground ethical norms in shared values and a collective moral compass. Each principle pairs with questions for educators and students to explore together, positioning [[agency|partnership]] as a counter to AI shame and surveillance.
+
+## Pedagogical Trust in the Age of AI
+
+Trust has always underpinned pedagogical relationships, enabling or limiting the possibilities for partnership, participation, and learning. Matthews draws on the conception of trust as "a confident relationship with the unknown" (Botsman, 2017) to argue that higher education now confronts the deep unknown of [[generative-ai]]. In response, she advocates **pedagogical trust** — a confident, reciprocal learning relationship between students and teachers that is open to uncertainty and co-navigated through dialogic decision-making. This framing casts learning as a fundamentally social, relational process of meaning-making, growth, and connection, echoing arguments that AI advances should reaffirm — rather than displace — the centrality of human relationships in [[higher-ed]].
+
+Students-as-partners practice emerged precisely as a challenge to the entrenched assumption that students cannot be trusted to collaborate alongside staff in shaping [[teacher-role|teaching]], learning, and assessment (Cook-Sather et al., 2021). Matthews warns that advances in AI have amplified deficit views of students as either cheaters or victims of inadequate education, threatening to fracture learner–teacher relationships and limit collective capacity to respond to AI. The worry is amplified by a large multi-institutional study in which 83% of over 8,000 students reported using AI (Chung et al., 2025), and by evidence that roughly half used AI for [[feedback]] even while recognising it may be less reliable than human teacher feedback (Henderson et al., 2025).
+
+## Partnership as Counter to AI Shame and Surveillance
+
+Matthews observes a worrying trend, exemplified at her own university, of "AI shame" shutting down conversations about AI use — many people feel afraid to admit they use AI or to discuss its environmental and social harms, fearing judgment or trouble. When conversations close off, the trust sustaining learning partnerships risks being fractured. She positions [[pedagogical-partnerships|student–staff partnership]] as the counter-narrative: an open, non-judgmental invitation that honours the relational foundations of education. Emerging partnership-based practices include students and staff co-creating how-to guides on AI (University of Sydney), co-designing an [[educational-policy-ai|AI policy]] in first-year writing courses (Georgetown University), and co-creating and co-reflecting on AI in assessment within medical programs (University College London). These collaborative explorations foster — instead of fracture — pedagogical relationships through shared sense-making.
+
+Matthews draws on Bearman and Ajjawi's (2023) metaphor of "black box pedagogy," [[framing-ai-use-for-students|framing AI]] relationally as more than a mere tool, with meaning arising through the interactions of people and what they produce with AI. This relational view requires preparing students to learn amid uncertainty in an AI-mediated world, demanding heightened [[ethics|ethical]] and [[critical-thinking|critical]] attention. Student–staff partnership is especially well-suited to supporting navigation of such complexity and uncertainty, keeping the relational core of [[higher-ed]] intact even as knowledge itself is enacted as dynamic, provisional, and co-constructed.
+
+## Five Guiding Principles for Navigating AI Together
+
+Matthews expands on her earlier five propositions for genuine partnership practice (Matthews, 2017) to offer five principles that honour and imbue pedagogical trust:
+
+1. **Cultivate open and curious conversations together.** Trust flourishes in spaces honouring curiosity and vulnerability, where AI is treated not as a problem to be solved but a mystery to explore collectively — rooted in care, deep listening, and the willingness to sit with uncertainty.
+2. **Acknowledge and work with the emotional and vulnerable lived experiences of AI use.** AI awakens a spectrum of feelings — hope, fear, frustration, wonder — felt by students and educators alike; recognising this shared vulnerability is an act of care that invites empathy and makes it safe to seek support.
+3. **Make the role of AI visible and negotiable in learning activities.** Transparency is more than disclosure; it is a collective act of witnessing and negotiating the shifting boundaries of [[agency]], authorship, and [[creativity]], making the invisible visible and inviting ongoing dialogue about AI's place in co-created learning.
+4. **Create consistent opportunities for shared learning and reflection on AI.** Learning with AI is a journey, not a moment; partnership commits to sustained, collective spaces where students and educators reflect, question, and imagine anew — including ensuring those whose knowledge has traditionally been devalued are included.
+5. **Ground ethical norms in shared values and a collective moral compass.** Ethics is not a checklist but a living commitment to justice, care, and respect that emerges from shared values, demanding ongoing reflection, humility, and a fierce commitment to [[equity-in-ai-education|equity]] and [[inclusive-learning|inclusion]].
+
+Each principle is accompanied by questions for students and educators to explore together, translating partnership into a living practice rooted in care, vulnerability, and communal wisdom. Together they refuse easy answers, offering instead a pathway where pedagogical trust is nurtured through relationship, dialogue, and shared commitment.
+
+## Implications for AI in Education
+
+The editorial's central implication is that responses to [[ai-education|AI in education]] should be trust-centred rather than surveillance-driven. Deficit framings of students as cheaters or victims undermine the relational foundations of learning; partnership — grounded in respect, reciprocity, and shared responsibility — offers a more productive path. For instructors, the five principles provide a practical, dialogic framework for navigating [[ai-use-disclosure|AI use]] openly with students, developing [[ai-literacy]] through co-inquiry rather than policing. For institutions, Matthews' call to model reciprocal, respectful, equitable relationships speaks to the wider responsibility of [[higher-ed]] to sustain public trust at a political moment when it is increasingly fragile. The editorial also issues a [[research-methods-aied|research]] invitation: more critical discussion, reflection, and theorisation are needed on AI's role in pedagogical partnerships.
+
+## Connected Concepts
+- [[pedagogical-partnerships]]
+- [[trust]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[agency]]
+- [[ethics]]
+- [[teacher-role]]
+- [[higher-ed]]
+- [[pedagogy]]
+- [[student-engagement]]
+- [[ai-use-disclosure]]
+
+## Connected Articles
+- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
+- [[williams-ingle-assessment-co-creation-ai-2025]] — Assessment Design Through Co-Creation in the Age of AI
+- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-Designing AI with Youth
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — "Should I Tell My Teacher?" Student AI Disclosure Practices
+- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — GenAI in Peer Feedback and Collaborative Argumentation
+
+## Citation
+Matthews, K. E. (2025). [*Five guiding principles for navigating artificial intelligence in students as partners practice to preserve pedagogical trust*](https://doi.org/10.15173/ijsap.v9i2.6871). *International Journal for Students as Partners, 9*(2), 1–8.
+
+---
+
+## [Disruptive Partnerships: Collaborating with Students to Create Empowering Learning Experiences in Information Studies](https://edtechdev.github.io/aied/articles/maybee-disruptive-partnerships-sap-2025/)
+
+> **Synthesis:** Faculty at Purdue University's School of Information Studies employ a [[pedagogical-partnerships]] (Students as Partners) approach to co-design learning experiences with students, disrupting traditional top-down power dynamics in [[higher-ed]]. The paper documents three programs — SPIRaL, PAL (Partners for Algorithmic Literacy), and ISRA — each repositioning students as collaborators rather than consumers of expert knowledge. PAL is a direct alternative to deficit-based narratives about student misuse of generative AI, co-producing AI course policies, AI-integrated group projects, and specialized [[conversational-ai|chatbots]]. Grounded in Cook-Sather's values of respect, reciprocity, and responsibility, the work links [[pedagogical-partnerships]] to decolonizing and [[critical-thinking]]-oriented [[critical-pedagogy|critical pedagogy]] and critical information literacy.
+
+## Background and Framework
+
+Fostering learner [[motivation]] and [[agency]] is a central educator goal, yet academic systems often preserve traditional faculty-centered hierarchies. Purdue's School of Information Studies — an arm of Purdue Libraries serving all disciplines rather than training future information professionals — adopted a Students as Partners (SaP) pedagogy to give students a voice in constructing their own [[student-experience]]. SaP centers on developing authentic, caring, and complex relationships between faculty and students, built on the core values of respect, reciprocity, and responsibility (Cook-Sather et al., 2014). Partnership does not demand students become pedagogy experts nor faculty surrender all control; instead it emphasizes complementary roles — faculty as disciplinary experts and guides, students as experts in their own learning.
+
+The approach shares roots in critical, Indigenous, and decolonial [[pedagogy|pedagogies]] that aim to dismantle colonial structures in education by rejecting one-sided decision-making and honoring multiple ways of knowing. This aligns with critical information literacy (CIL), building on the praxis of Paulo Freire and bell hooks. By redefining the [[teacher-role]] and rebalancing power, SaP provides an entry point for LIS educators to begin decolonizing classroom hierarchies.
+
+## SPIRaL: Undergraduate Research Partnership
+
+SPIRaL (Students Partners for Information [[research-methods-aied|Research]] and Literacy) is a two-semester undergraduate research program where students investigate societal information challenges. Co-designed in 2022-23 by faculty, a graduate student, and an undergraduate, the program treats students as full research partners who make decisions shaping project outcomes — selecting study participants, coding transcripts, analyzing data, and presenting findings at Purdue's undergraduate research conference. Cohorts have examined topics such as social media algorithms and democratic participation, information challenges facing student journalists, and information use in climate change conversations. Analysis of student reflections shows learners initially equated [[ai-literacy]]-adjacent information literacy with source evaluation, then moved toward viewing it as a layered scholarly phenomenon essential for [[agency]] and responsible information use.
+
+## PAL: Partners for Algorithmic Literacy
+
+The disruptive wake of ChatGPT left many faculty speculating about how to prevent unethical student use — conversations that rarely included students. Partners for Algorithmic Literacy (PAL) was created as a direct alternative to deficit-based narratives about student misuse of [[generative-ai]]. It is a six-week student-faculty learning community, facilitated by academic librarians, where undergraduates and faculty co-design teaching strategies to integrate or interrogate AI, making students active decision-makers about AI in courses. Deliverables include co-designed AI course policies, AI-integrated group projects, and specialized chatbots to support disciplinary [[critical-thinking]]. Thematic analysis of deliverables reveals that, beyond innovative curricular outcomes, participants report a deepened sense of connection and shared decision-making about learning with AI. PAL exemplifies [[equity-in-ai-education]] by treating students as partners in [[learning-design]] rather than risks to be policed.
+
+## ISRA: Whole-Class Co-design
+
+ISRA (Information Studies Research Accelerator) is a redesigned first-year living-learning community introducing students to information studies research. Faculty applied SaP principles to restructure the yearlong program around whole-class co-design, which Bovill (2020) suggests may be the most equitable form of partnership because it allows broad participation. During the first week, students and faculty co-design course goals and policies, revisiting them throughout the term. Evaluation relies on individual reflective self-assessment rather than final products, with students grading themselves and their groups using personal goals, team goals, and a shared rubric. This structure combines faculty expertise with students' expertise in their own learning, supporting [[self-regulated-learning]] and [[motivation]].
+
+## Implications for Practice
+
+The authors acknowledge that disrupting power structures is difficult, requiring [[trust]]-building and time, and that valuable outcomes often cannot be planned. They offer practical guidance: start with a small-scope pilot project; lean into existing [[governance|institutional]] infrastructure such as [[educational-development|faculty development]] programs or student employees; leverage cross-campus partnerships (especially given libraries' interdisciplinary work); and recognize that shared understanding across disciplines can foster clarity and [[creativity]] in [[curriculum-design]]. Partnership offers benefits to both students and faculty, cultivating increasingly [[self-directed-learning|self-directed learning]] and mutual understanding.
+
+## Connected Concepts
+
+- [[pedagogical-partnerships]]
+- [[ai-literacy]]
+- [[agency]]
+- [[teacher-role]]
+- [[higher-ed]]
+- [[learning-design]]
+- [[curriculum-design]]
+- [[equity-in-ai-education]]
+- [[student-engagement]]
+- [[generative-ai]]
+- [[critical-thinking]]
+- [[self-regulated-learning]]
+
+## Connected Articles
+
+- [[guided-inquiry-genai-course-policy-2026]] — GenAI Course Policy Through Guided Inquiry
+- [[student-centered-genai-responsible-framework-2026]] — Student-Centered GenAI Responsible Framework
+- [[institutional-change-framework-ai]] — Institutional Change Framework for AI
+- [[panciroli-ai-literacy-episodes-situated-learning]] — AI Literacy Episodes in Situated Learning
+- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — GenAI Authentic Assessment and Integrity
+
+## Citation
+
+Maybee, C., LeGrand, S., & Fundator, R. (2025). [*Disruptive Partnerships: Collaborating with Students to Create Empowering Learning Experiences in Information Studies*](https://doi.org/10.21900/j.alise.2025.2017). *ALISE 2025 Juried Paper*.
 
 ---
 
@@ -63761,6 +64211,69 @@ This study reinforces the knowledge base's [[ai-literacy]] and [[technology-acce
 ## Citation
 
 Yang, P., & Huang, W. (2026). [*Will, skill, not tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings*](https://doi.org/10.1111/bjet.70075). *British Journal of Educational Technology*, 57.
+
+---
+
+## [Assessment Design Through Co-Creation: Student-Staff Partnership in Evaluating the Impact of Artificial Intelligence](https://edtechdev.github.io/aied/articles/williams-ingle-assessment-co-creation-ai-2025/)
+
+> **Synthesis:** Williams and Ingle (2025) report a case study of the AI Co-Creators project at University College London (UCL), a co-creation initiative in which a student partner who had completed her second year of an undergraduate medical sciences programme and a staff member collaboratively evaluated [[generative-ai|ChatGPT]]-generated output in response to diverse coursework assessments. The pair co-designed seven evaluation criteria grounded in UNESCO and JISC guidance, then examined the challenges surfaced through iterative dialogue, a structured interview, and [[qualitative-research|thematic analysis]]. The partnership found that no coursework assessment was completely immune to ChatGPT interference and explored the value of the collaboration from student, staff, and [[governance|institutional]] perspectives, connecting [[pedagogical-partnerships|co-creation and students-as-partners]] practice to [[self-regulated-learning]], enhanced understanding, and [[student-engagement|student empowerment]] in assessment design.
+
+## AI Co-Creators: A Students-as-Partners Assessment Project
+
+The AI Co-Creators project was part of UCL's broader ChangeMakers initiative, established in 2014 to support dialogue between students and staff on education challenges, including [[curriculum-design|curriculum]] change and learning enhancement. This case study focused on a single partnership between a staff member and a student partner who had personal experience of the assessments under evaluation — a deliberate choice given the dialogic nature of the work and the aim of drawing on the insight of an experienced student. From the outset the project sought a non-hierarchical, inclusive working environment that positioned staff and student as equal partners, echoing the [[pedagogical-partnerships|students-as-partners]] emphasis on students as co-[[research-methods-aied|researchers]] and co-creators rather than passive subjects of education (Healey, 2014).
+
+The project employed an iterative working strategy of in-person and online meetings with clearly established partner responsibilities. The student partner collated assessment information and evaluated ChatGPT-generated output, while the staff partner provided academic support, mentorship, and feedback; both partners co-created the assessment evaluation criteria and parameters. Throughout, the student's input was given space and priority, and the student primarily drove the project forward — an intentional structure aimed at empowering the student as an active participant.
+
+## Co-Designing Evaluation Criteria
+
+Due to the novelty of [[generative-ai]] and the recent release of ChatGPT, the partners co-created their own evaluation criteria rather than relying on established frameworks. Drawing on UNESCO guidelines (Holmes & Miao, 2023; Sabzalieva & Valentini, 2023), [[pedagogy|pedagogical]] applications, and JISC guidance for [[generative-ai]] in assessments (Gamage et al., 2023), they designed seven criteria around three themes: the application of ChatGPT to higher education [[teacher-role|teaching]] and learning, challenges and [[ethics|ethical]] implications, and adapting to ChatGPT in higher education. ChatGPT 3.5 was used to generate responses to coursework instructions, and the outputs were co-evaluated through iterative dialogue against the criteria.
+
+The criteria addressed the potential impact of ChatGPT on [[academic-integrity|academic integrity]], key challenges facing coursework assessments, applicability to [[formative-assessment|formative]] and [[summative-assessment|summative assessment]], challenges for students and staff, impact on the [[student-experience|student experience]], how ChatGPT might be incorporated into existing assessment designs, and an analysis of example ChatGPT-generated output for each coursework instruction. Both partners agreed the main impact would likely fall on academic integrity and the potential use of AI for plagiarism, with the student partner raising particular concerns about [[equity-in-ai-education|equity]] and [[bias-mitigation|fairness]] in grading.
+
+## Key Findings
+
+1. **No assessment was immune.** The main finding, agreed by both partners, was that no form of coursework assessment was completely immune to ChatGPT interference — with important implications for how assessments are regulated and designed.
+2. **Co-creation surfaces student-centric applications.** The student partner highlighted ways ChatGPT could serve as a more inclusive form of [[formative-assessment|formative assessment]], a learning assistant, an auxiliary tool to provide [[feedback]], and a proofing aid — uses more student-centric than staff-centric.
+3. **Training is needed.** Both partners recommended training for staff and students on the capabilities, limitations, and ethical use of [[generative-ai]].
+4. **Co-design supports assessment literacy.** Co-creation can help align differing assessment expectations and deepen both student and staff assessment literacy (Smith et al., 2013; Boud et al., 2018).
+
+## Student Perspective
+
+A structured interview with the student partner, subject to [[qualitative-research|thematic analysis]] following Braun and Clarke (2006), surfaced three main themes: transforming university assessment through generative AI, empowering education through co-creation, and navigating institutional and ethical landscapes. The student echoed broader concerns about academic integrity and equitable access, while also identifying opportunities to integrate [[generative-ai]] into assessments to enhance learning through continued and constructive feedback.
+
+The student partner described the process as highly rewarding, felt she had contributed valuable feedback for designing assessments and teaching plans, and noted the collaboration allowed her to discuss ideas she may not have considered independently. Taking responsibility for elements of the project was a powerful device for empowerment, and the project made her more reflective in her own learning. Positioning the student as an equal partner helped build [[trust]] and fostered a proactive, self-regulated approach to the work — illustrating the link between [[pedagogical-partnerships|co-creation]] and [[self-regulated-learning]].
+
+## Staff and Institutional Perspectives
+
+From a staff perspective, the partnership gained important insights that would not have emerged independently, particularly the student's personal experience of the assessments and her effectiveness at identifying areas where ChatGPT could impact coursework. Co-creation and student-staff collaborations are argued to be ideally positioned to scrutinise [[generative-ai]] use by capitalising on differing perspectives and expertise (Bovill, 2020). At the institutional level, projects such as AI Co-Creators contribute to [[educational-policy-ai|policy]] on the use of generative AI in assessments and the classroom, benefiting existing and future student cohorts and supporting the shift from traditional hierarchical structures toward more democratic, student-voice-oriented higher education (Cook-Sather, 2006; Mercer-Mapstone & Bovill, 2020).
+
+## Implications
+
+The study positions co-creation and [[pedagogical-partnerships|student-staff partnership]] as central to developing solutions to the AI challenge in [[higher-ed]], particularly in assessment. Its findings support involving students in the design of assessment to improve [[self-regulated-learning]] and enhance understanding, consistent with an [[formative-assessment|assessment-for-learning]] approach (Carless, 2005; Deeley & Bovill, 2017). The authors recommend extending such work to more assessment formats and student cohorts, collaborating with more diverse students to improve inclusivity and equity, and using the [[creativity]] of students when designing teaching and learning materials for an AI-influenced world.
+
+## Connected Concepts
+- [[pedagogical-partnerships]]
+- [[generative-ai]]
+- [[assessment]]
+- [[formative-assessment]]
+- [[summative-assessment]]
+- [[medical-education]]
+- [[higher-ed]]
+- [[self-regulated-learning]]
+- [[student-engagement]]
+- [[student-experience]]
+- [[feedback]]
+- [[ethics]]
+- [[qualitative-research]]
+- [[trust]]
+
+## Connected Articles
+- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
+- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Five guiding principles for AI and students-as-partners
+- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing AI with youth: relational and privacy considerations
+
+## Citation
+Williams, A., & Ingle, E. (2025). [*Assessment design through co-creation: Student-staff partnership in evaluating the impact of artificial intelligence*](https://doi.org/10.15173/ijsap.v9i1.5802). *International Journal for Students as Partners*, 9(1), 214–226.
 
 ---
 

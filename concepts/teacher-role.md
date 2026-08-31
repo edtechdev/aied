@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-08-31T09:58:42-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
@@ -108,6 +108,7 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - **Both are professional-development and [[pedagogy|pedagogical]] concerns.** Supporting teacher identity belongs to [[educational-development]] and [[teacher-ai-competency]]; supporting learner identity belongs to [[student-experience]], [[authentic-assessment]], and [[agency]]. A well-designed AI-integrated system attends to both — because the teacher's identity is the condition under which learners' identities form.
 
 ## Connected Concepts
+- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[business-education]]
