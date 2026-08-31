@@ -1,0 +1,101 @@
+---
+/**
+ * PrevNextNav.astro — previous/next pagination shown at the foot of pages that
+ * participate in the linear reading order (home, use-with-AI, concepts, FAQs).
+ * The current page is located in the `items` sequence by URL; if it's not
+ * present (e.g. an article page), nothing renders. Modeled on Blume's
+ * pagination: two bordered boxes with an arrow, caption, and adjacent page
+ * title.
+ */
+import { normalizePath } from '../lib/nav';
+import type { NavItem } from '../lib/nav';
+
+interface Props {
+  items: NavItem[];
+  /** The current page's path (e.g. Astro.url.pathname). */
+  currentUrl: string;
+}
+
+const { items, currentUrl } = Astro.props;
+const cur = normalizePath(currentUrl);
+const idx = items.findIndex((i) => normalizePath(i.url) === cur);
+
+const prev = idx > 0 ? items[idx - 1] : null;
+const next = idx >= 0 && idx < items.length - 1 ? items[idx + 1] : null;
+---
+
+{
+  prev !== null || next !== null ? (
+    <nav class="prevnext" aria-label="Page navigation">
+      {prev !== null ? (
+        <a class="pn-cell pn-prev" href={prev.url} rel="prev">
+          <span class="pn-caption" aria-hidden="true">←&nbsp;Previous</span>
+          <span class="pn-title">{prev.label}</span>
+        </a>
+      ) : (
+        <span class="pn-cell pn-empty"></span>
+      )}
+      {next !== null ? (
+        <a class="pn-cell pn-next" href={next.url} rel="next">
+          <span class="pn-caption" aria-hidden="true">Next&nbsp;→</span>
+          <span class="pn-title">{next.label}</span>
+        </a>
+      ) : (
+        <span class="pn-cell pn-empty"></span>
+      )}
+    </nav>
+  ) : (
+    ''
+  )
+}
+
+<style>
+  .prevnext {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--card-border-color);
+  }
+  .pn-cell {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    padding: 0.9rem 1.1rem;
+    border: 1px solid var(--card-border-color);
+    border-radius: 8px;
+    background: var(--card-background-color);
+    text-decoration: none;
+    transition: border-color 0.15s, background 0.15s, color 0.15s;
+    min-width: 0;
+  }
+  .pn-cell:hover {
+    border-color: var(--primary);
+    background: color-mix(in srgb, var(--primary) 7%, transparent);
+  }
+  .pn-prev { align-items: flex-start; text-align: left; }
+  .pn-next { align-items: flex-end; text-align: right; }
+  .pn-caption {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--muted-color);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .pn-cell:hover .pn-caption { color: var(--primary); }
+  .pn-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--color);
+    line-height: 1.35;
+  }
+  .pn-cell:hover .pn-title { color: var(--primary); }
+  .pn-empty {
+    border: 1px dashed var(--card-border-color);
+    background: transparent;
+  }
+  @media (max-width: 640px) {
+    .prevnext { grid-template-columns: 1fr; }
+  }
+</style>
