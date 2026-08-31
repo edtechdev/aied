@@ -32,7 +32,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[higher-ed]]
 - [[problem-based-learning]]
 - [[intelligent-tutoring]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[teacher-role]]
 - [[student-experience]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation

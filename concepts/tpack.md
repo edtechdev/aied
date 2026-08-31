@@ -3,13 +3,13 @@ title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
 updated: "2026-08-28T09:10:00-04:00"
 type: concept
-tags: [tpack, ai-literacy, teacher-ai-competency, faculty-development, generative-ai, teacher-role, instructional-design, curriculum-design]
+tags: [tpack, ai-literacy, teacher-ai-competency, educational-development, generative-ai, teacher-role, learning-design, curriculum-design]
 audience: [faculty development, instructors]
 category: [instructional design]
 confidence: high
 ---
 
-> **Technological Pedagogical Content Knowledge (TPACK)** — the framework (Mishra & Koehler, 2006) describing the integrated knowledge teachers need to use technology effectively in teaching: the interplay of Technological Knowledge (TK), Pedagogical Knowledge (PK), and Content Knowledge (CK), and their intersections. In the AI era, TPACK has been extended to **AI-TPACK** / **GenAI-TPACK**, modeling how teachers integrate generative AI into content-area instruction. It is the dominant theoretical lens for understanding how [[teacher-ai-competency|teacher AI competency]] is structured and built through [[faculty-development|professional development]].
+> **Technological Pedagogical Content Knowledge (TPACK)** — the framework (Mishra & Koehler, 2006) describing the integrated knowledge teachers need to use technology effectively in teaching: the interplay of Technological Knowledge (TK), Pedagogical Knowledge (PK), and Content Knowledge (CK), and their intersections. In the AI era, TPACK has been extended to **AI-TPACK** / **GenAI-TPACK**, modeling how teachers integrate generative AI into content-area instruction. It is the dominant theoretical lens for understanding how [[teacher-ai-competency|teacher AI competency]] is structured and built through [[educational-development|professional development]].
 
 - **[[crompton-faculty-technology-integration-standards-2026|Crompton et al.]]** DBR operationalizes faculty technology-integration standards that extend the TPACK framework into institutional practice.
 
@@ -35,7 +35,7 @@ The AI era has pushed the framework toward a technology-with-intelligence readin
 
 ## Why It Matters in AI Education
 
-TPACK is the organizing framework for the teacher-side of the knowledge base's evidence base. It explains why teacher AI competency is more than tool fluency: teachers must integrate technological, pedagogical, and content knowledge together to turn AI into learning gains. The knowledge base's [[teacher-ai-competency]] page covers the competency dimensions; TPACK is the *knowledge structure* that underlies them. Research on [[teacher-ai-adoption-confidence|teacher confidence]], [[faculty-development|professional development]], and [[teacher-role|the transforming teacher role]] all operate within (or against) this framework.
+TPACK is the organizing framework for the teacher-side of the knowledge base's evidence base. It explains why teacher AI competency is more than tool fluency: teachers must integrate technological, pedagogical, and content knowledge together to turn AI into learning gains. The knowledge base's [[teacher-ai-competency]] page covers the competency dimensions; TPACK is the *knowledge structure* that underlies them. Research on [[teacher-ai-adoption-confidence|teacher confidence]], [[educational-development|professional development]], and [[teacher-role|the transforming teacher role]] all operate within (or against) this framework.
 
 ## Design Implications
 
@@ -47,10 +47,10 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 ## Connected Concepts
 
 - [[teacher-ai-competency]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[teacher-role]]
 - [[generative-ai]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[ai-literacy]]
 - [[scaffolding]]
 - [[metacognition]]

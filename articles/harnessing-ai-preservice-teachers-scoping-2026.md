@@ -11,7 +11,7 @@ sources: ['raw/papers/harnessing-ai-preservice-teachers-scoping-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Ziying, Yongchun, and Qiaoping (2026) conduct a PRISMA-ScR scoping review of 55 empirical studies (2020–2025) examining how artificial intelligence is applied in the [[teacher-education]] of preservice teachers. Following Arksey and O'Malley's five-stage framework and reflexive thematic analysis, they searched Web of Science, ScienceDirect, and EBSCOhost, screening 1,688 records down to 55 studies involving 3,098 preservice teachers across 18 countries. They map a diverse landscape of AI applications, technologies, and subject distributions, finding that AI acts as both a *cognitive partner* and a *practice simulator* across six application scenarios. AI enhances [[instructional-design]], subject-specific instruction, practical teaching skills, evaluation efficiency, reflective practice, [[critical-thinking]], technology integration ([[tpack]]), and pedagogical innovation. However, the integration is a "dual-edged force": alongside the benefits sit four categories of challenges — technical limitations, the risk of [[cognitive-offloading|Over-Reliance]], ethical and social concerns, and implementation barriers — underscoring the need for ethical and pedagogical grounding in teacher preparation.
+> **Synthesis:** Ziying, Yongchun, and Qiaoping (2026) conduct a PRISMA-ScR scoping review of 55 empirical studies (2020–2025) examining how artificial intelligence is applied in the [[teacher-education]] of preservice teachers. Following Arksey and O'Malley's five-stage framework and reflexive thematic analysis, they searched Web of Science, ScienceDirect, and EBSCOhost, screening 1,688 records down to 55 studies involving 3,098 preservice teachers across 18 countries. They map a diverse landscape of AI applications, technologies, and subject distributions, finding that AI acts as both a *cognitive partner* and a *practice simulator* across six application scenarios. AI enhances [[learning-design]], subject-specific instruction, practical teaching skills, evaluation efficiency, reflective practice, [[critical-thinking]], technology integration ([[tpack]]), and pedagogical innovation. However, the integration is a "dual-edged force": alongside the benefits sit four categories of challenges — technical limitations, the risk of [[cognitive-offloading|Over-Reliance]], ethical and social concerns, and implementation barriers — underscoring the need for ethical and pedagogical grounding in teacher preparation.
 
 ## Key Findings
 
@@ -36,7 +36,7 @@ confidence: high
 ## Connected Concepts
 
 - [[teacher-education]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[ai-literacy]]
 - [[teacher-role]]
 - [[teacher-ai-competency]]

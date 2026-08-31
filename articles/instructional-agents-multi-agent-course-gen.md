@@ -3,7 +3,7 @@ title: "Instructional Agents: Reducing Teaching Faculty Workload through Multi-A
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-26T15:35:00-04:00"
 type: article
-tags: [agentic-ai, llm, instructional-design, edtech-platform, higher-ed, teacher-role, automated-assessment, faculty-development]
+tags: [agentic-ai, llm, learning-design, edtech-platform, higher-ed, teacher-role, automated-assessment, educational-development]
 research_method: [system development]
 audience: [instructors, faculty development, software developers]
 level: [higher ed]
@@ -12,7 +12,7 @@ sources: ['raw/papers/instructional-agents-multi-agent-course-gen.md']
 confidence: high
 ---
 
-> **Synthesis:** Instructional Agents is a multi-agent [[llm|LLM]] framework that automates end-to-end course material generation by simulating role-based collaboration among Teaching Faculty, Instructional Designer, Teaching Assistant, Course Coordinator, and Program Chair agents, all structured around the ADDIE [[instructional-design|instructional design]] framework. Evaluated across 5 university courses, the system supports four modes (Autonomous, Catalog-Guided, Feedback-Guided, Full Co-Pilot) balancing automation and [[human-in-the-loop-ai|human oversight]].
+> **Synthesis:** Instructional Agents is a multi-agent [[llm|LLM]] framework that automates end-to-end course material generation by simulating role-based collaboration among Teaching Faculty, Instructional Designer, Teaching Assistant, Course Coordinator, and Program Chair agents, all structured around the ADDIE [[learning-design|instructional design]] framework. Evaluated across 5 university courses, the system supports four modes (Autonomous, Catalog-Guided, Feedback-Guided, Full Co-Pilot) balancing automation and [[human-in-the-loop-ai|human oversight]].
 
 ## System Design
 
@@ -69,10 +69,10 @@ Evaluated across 5 university-level courses (Data Mining, Foundations of Machine
 
 - [[higher-ed]]
 - [[llm]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[agentic-ai]]
 - [[curriculum-design]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[generative-ai]]
 - [[ai-ed-evaluation]]
 - [[scaffolding]]

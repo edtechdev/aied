@@ -108,7 +108,7 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 | Dual-Track Cyber-Social Model | [[pedagogical-llm-training]] — Reward "guiding" over "answering"; [[human-in-the-loop-ai]] — Human verification of AI outputs |
 | Multimodal assessment redesign | [[authentic-assessment]] — Six-dimensional framework; [[formative-assessment]] — AI-generated feedback with human validation |
 | Scaffolding and metacognition | [[self-regulated-learning]] — UDL's emphasis on student agency; [[metacognition]] — Cyber-social metacognitive awareness |
-| Faculty development across four scales | [[faculty-development]] — CTL pragmatic transition model; this guide adds module-level and programme-level strategies |
+| Faculty development across four scales | [[educational-development]] — CTL pragmatic transition model; this guide adds module-level and programme-level strategies |
 
 ## Case Study Themes from the Guide
 
@@ -132,7 +132,7 @@ The guide includes 15+ educator case studies spanning:
 
 - [[adaptive-learning]]
 - [[ai-literacy]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 - [[metacognition]]
@@ -145,7 +145,7 @@ The guide includes 15+ educator case studies spanning:
 - [[authentic-assessment]]
 - [[multimodal]]
 - [[universal-design-for-learning]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[human-ai-collaboration]]
 ## Connected Articles
 

@@ -3,7 +3,7 @@ title: "The Reflective Triangle Model: AI as a Cognitive Mediator in Teachers' P
 created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
-tags: [teacher-role, teacher-education, professional-training, faculty-development, teacher-ai-competency, ai-education]
+tags: [teacher-role, teacher-education, professional-training, educational-development, teacher-ai-competency, ai-education]
 research_method: [case study]
 audience: [instructors, faculty development]
 sources: ['raw/papers/reflective-triangle-model-teacher-ai-2026.md']
@@ -34,14 +34,14 @@ The study's contribution lies not in a new technical AI capability but in an arc
 
 ## Implications for Teacher Professional Learning
 
-The Reflective Triangle offers a systematic approach to continuous professional development in which AI mediates the relationship between individual reflection, collaborative dialogue, and the collective construction of professional knowledge. For [[faculty-development|faculty development]] and [[professional-training|professional training]], it suggests that the value of AI in teaching should be judged not only by task efficiency but by how well it supports teachers' own capacity and autonomy. Because AI-generated analysis depends on input data, prompting, model, and user interpretation, the model requires organizational conditions that protect teacher agency and professional responsibility while guiding how reflection cycles, data selection, and peer verification of AI-assisted claims are organized. It connects directly to building [[teacher-ai-competency|teacher AI competency]] and to fostering [[community-of-inquiry|communities of inquiry]] in which teachers jointly interrogate practice on an evidence basis, positioning AI as a [[scaffolding|scaffold]] for [[cognitive-offloading|offloading]] routine analysis while keeping professional judgment human-led.
+The Reflective Triangle offers a systematic approach to continuous professional development in which AI mediates the relationship between individual reflection, collaborative dialogue, and the collective construction of professional knowledge. For [[educational-development|faculty development]] and [[professional-training|professional training]], it suggests that the value of AI in teaching should be judged not only by task efficiency but by how well it supports teachers' own capacity and autonomy. Because AI-generated analysis depends on input data, prompting, model, and user interpretation, the model requires organizational conditions that protect teacher agency and professional responsibility while guiding how reflection cycles, data selection, and peer verification of AI-assisted claims are organized. It connects directly to building [[teacher-ai-competency|teacher AI competency]] and to fostering [[community-of-inquiry|communities of inquiry]] in which teachers jointly interrogate practice on an evidence basis, positioning AI as a [[scaffolding|scaffold]] for [[cognitive-offloading|offloading]] routine analysis while keeping professional judgment human-led.
 
 ## Connected Concepts
 
 - [[teacher-role]]
 - [[teacher-education]]
 - [[professional-training]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[metacognition|reflection]]
 - [[cognitive-offloading]]
 - [[teacher-ai-competency]]

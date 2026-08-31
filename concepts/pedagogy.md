@@ -4,7 +4,7 @@ created: "2026-08-19T17:45:00-04:00"
 updated: "2026-08-25T11:30:00-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
-tags: [pedagogy, instructional-design, ai-education, higher-ed, k-12]
+tags: [pedagogy, learning-design, ai-education, higher-ed, k-12]
 level: [higher ed, k 12]
 category: [instructional design]
 confidence: high
@@ -20,7 +20,7 @@ The knowledge base documents a rich set of individual teaching strategies and pe
 - **Student-centered and active approaches.** [[active-learning]] (students engaged in doing and thinking rather than passively receiving), [[project-based-learning]] (learning through extended projects), [[experiential-learning]] (learning through direct experience), and [[learning-by-teaching]] (learning by explaining to others).
 - **Collaborative and social approaches.** [[collaborative-learning]] (learning through group work), [[sociocultural-learning]] (learning through social participation and mediation), and [[socratic-method|Socratic questioning]] (learning through guided dialogue and questioning).
 - **Experience-based approaches.** [[experiential-learning]] (learning through direct experience and reflection), [[situated-learning]] (learning in authentic contexts), and [[embodied-learning]] (learning through physical/embodied interaction).
-- **Structured and guided approaches.** [[scaffolding]] (temporary, fading support), [[instructional-design]] (systematic design of instruction), [[self-regulated-learning]] (learners directing their own learning), and [[sociocultural-learning]] (including structured, teacher-guided sociocultural support).
+- **Structured and guided approaches.** [[scaffolding]] (temporary, fading support), [[learning-design]] (systematic design of instruction), [[self-regulated-learning]] (learners directing their own learning), and [[sociocultural-learning]] (including structured, teacher-guided sociocultural support).
 - **Online and distance pedagogies.** [[online-teaching-and-learning|Online teaching and learning]] is itself a pedagogical context, not just a delivery channel: the medium shapes which strategies are viable ([[active-learning]] rethought for asynchronous forums, [[collaborative-learning]] via digital discussion, [[intelligent-tutoring|tutoring agents]] replacing face-to-face interaction). In this medium, AI raises both new opportunities (scalable personalization, always-on support) and new risks ([[academic-integrity|academic integrity]], [[cognitive-offloading|cognitive offloading]]), making pedagogical intent decisive.
 - **Motivation and engagement approaches.** [[game-based-learning]] (learning through games), [[self-determination-theory]] (supporting autonomy, competence, relatedness), and [[motivation]]-oriented strategies.
 - **[[equity-in-ai-education|equity]]-conscious pedagogies.** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]], [[universal-design-for-learning|Universal Design for Learning]], [[critical-pedagogy]], and [[inclusive-learning]] ensure strategies serve diverse learners.
@@ -36,14 +36,14 @@ The knowledge base's research examines pedagogy at the intersection of AI and te
 
 ## Relationship to learning theories
 
-Pedagogies and learning theories are closely linked: each pedagogy operationalizes one or more theories. For example, [[project-based-learning]] operationalizes [[constructivist]] and [[experiential-learning|experiential]] theories; [[socratic-method]] draws on [[sociocultural-learning]] and [[metacognition]]; [[scaffolding]] stems from the [[sociocultural-learning|Zone of Proximal Development]]. The knowledge base treats [[learning-theories]] as the conceptual foundation and this page as the instructional-practice umbrella — see also [[instructional-design]], which concerns the systematic process of selecting and sequencing strategies.
+Pedagogies and learning theories are closely linked: each pedagogy operationalizes one or more theories. For example, [[project-based-learning]] operationalizes [[constructivist]] and [[experiential-learning|experiential]] theories; [[socratic-method]] draws on [[sociocultural-learning]] and [[metacognition]]; [[scaffolding]] stems from the [[sociocultural-learning|Zone of Proximal Development]]. The knowledge base treats [[learning-theories]] as the conceptual foundation and this page as the instructional-practice umbrella — see also [[learning-design]], which concerns the systematic process of selecting and sequencing strategies.
 
 ## Learning gains across pedagogical strategies
 
 Different pedagogical strategies produce different kinds and sizes of [[learning-gains|learning gains]], and the knowledge base's evidence lets us compare them:
 
 - **Active and experiential strategies** generally produce stronger durable learning than passive reception, though they feel more effortful — [[active-learning]], [[experiential-learning]], [[project-based-learning]], and [[learning-by-teaching]] build understanding through doing. [[generative-ai-reduced-study-time-math|Research]] shows that strategies preserving effortful practice (rather than AI shortcutting it) protect [[learning-gains]].
-- **Structured, guided strategies** ([[scaffolding]], [[self-regulated-learning]], [[instructional-design]]) produce reliable but more modest gains — the guardrail evidence ([[generative-ai-guardrails-harm-learning|PNAS 2025]]) shows hint-not-answer scaffolding preserves learning that unguarded answer-giving destroys.
+- **Structured, guided strategies** ([[scaffolding]], [[self-regulated-learning]], [[learning-design]]) produce reliable but more modest gains — the guardrail evidence ([[generative-ai-guardrails-harm-learning|PNAS 2025]]) shows hint-not-answer scaffolding preserves learning that unguarded answer-giving destroys.
 - **[[game-based-learning|Game-based learning]]** produces engagement and skill gains that are real but often modest and context-dependent — [[genai-educational-outcomes-meta-analysis|meta-analytic evidence]] finds game-assisted GenAI shows no significant added benefit over other formats, so games are best used for motivation and practice, not as a shortcut to gains.
 - **Collaborative and sociocultural strategies** ([[collaborative-learning]], [[sociocultural-learning]]) show gains mediated by interaction quality, increasingly studied with AI as a partner or peer.
 - **Socratic and dialogue-based strategies** ([[socratic-method]]) target higher-order thinking and reasoning — gains that are harder to measure than skill gains but central to [[critical-thinking]].
@@ -62,7 +62,7 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[learning-theories]]
 - [[learning-gains]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[project-based-learning]]

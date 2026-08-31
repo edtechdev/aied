@@ -19,7 +19,7 @@ Castillo Ventura et al. (2026) address the gap between instructional design of d
 - [[teacher-role]]
 - [[stem-education]]
 - [[ai-literacy]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[math-education]]
 - [[k-12]]
 - [[scaffolding]]

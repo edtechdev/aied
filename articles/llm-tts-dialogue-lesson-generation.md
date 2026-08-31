@@ -26,7 +26,7 @@ confidence: medium
 - [[pedagogical-llm-training]]
 - [[llm]]
 - [[human-in-the-loop-ai]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[language-learning]]
 - [[storytelling-in-education]]
 ## Connected Articles

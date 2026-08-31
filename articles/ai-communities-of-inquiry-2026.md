@@ -34,7 +34,7 @@ confidence: medium
 - [[metacognition]]
 - [[ai-literacy]]
 - [[pedagogy]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[agency]]
 - [[self-regulated-learning]]
 - [[human-in-the-loop-ai]]

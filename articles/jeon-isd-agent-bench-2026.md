@@ -11,17 +11,17 @@ sources: ['raw/papers/jeon-isd-agent-bench-2026.md']
 confidence: medium
 ---
 
-> **ISD-Agent-Bench** is a comprehensive [[benchmark]] for evaluating LLM-based instructional design agents, comprising **25,795 scenarios** generated via a Context Matrix framework that combines 51 contextual variables with 33 ISD sub-steps from the ADDIE model. It employs a multi-judge evaluation protocol to mitigate [[ai-ed-evaluation|LLM-as-judge bias]]. It is a direct contribution to the study of [[instructional-design|instructional design]] as it applies to AI — providing the first standardized, theory-grounded way to evaluate whether AI agents can perform the systematic work of analyzing needs, designing, developing, implementing, and evaluating instruction.
+> **ISD-Agent-Bench** is a comprehensive [[benchmark]] for evaluating LLM-based instructional design agents, comprising **25,795 scenarios** generated via a Context Matrix framework that combines 51 contextual variables with 33 ISD sub-steps from the ADDIE model. It employs a multi-judge evaluation protocol to mitigate [[ai-ed-evaluation|LLM-as-judge bias]]. It is a direct contribution to the study of [[learning-design|instructional design]] as it applies to AI — providing the first standardized, theory-grounded way to evaluate whether AI agents can perform the systematic work of analyzing needs, designing, developing, implementing, and evaluating instruction.
 
 ## Connection to instructional design
 
-ISD-Agent-Bench operationalizes [[instructional-design|instructional design theory]] as a testable capability for AI. Its central finding — that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents — is an empirical demonstration that instructional design is not a generic [[prompt-engineering|prompting]] task but a structured discipline that benefits from explicit theoretical grounding. The benchmark's Context Matrix formalizes what makes instructional-design contexts vary (learner characteristics, content domain, delivery mode, constraints, outcomes), connecting to [[curriculum-design]] at the program level while focusing on course- and lesson-level design decisions.
+ISD-Agent-Bench operationalizes [[learning-design|instructional design theory]] as a testable capability for AI. Its central finding — that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents — is an empirical demonstration that instructional design is not a generic [[prompt-engineering|prompting]] task but a structured discipline that benefits from explicit theoretical grounding. The benchmark's Context Matrix formalizes what makes instructional-design contexts vary (learner characteristics, content domain, delivery mode, constraints, outcomes), connecting to [[curriculum-design]] at the program level while focusing on course- and lesson-level design decisions.
 
 ## Key Findings
 
 1. **Hybrid agents outperform both pure theory and pure technique.** The best-performing approach integrates classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) with modern ReAct-style reasoning. The performance hierarchy is: Hybrid (theory + technique) > pure theory-based > technique-only. This demonstrates that grounding [[llm|LLM]] agents in established educational design theory provides a structural advantage that raw prompting cannot replicate.
 2. **The Context Matrix framework enables systematic scenario generation.** Rather than ad-hoc benchmark construction, ISD-Agent-Bench uses a Context Matrix that combinatorially varies **51 contextual variables** across 5 categories with **33 ISD sub-steps** derived from ADDIE, producing 25,795 total scenarios. Systematic coverage ensures agents are tested across diverse instructional design situations rather than narrow task types.
-3. **Theoretical quality strongly correlates with benchmark performance.** Agents grounded in classical ISD theories showed significant advantages in [[problem-based-learning|problem-centered design]] and objective-assessment alignment — two areas where theory-free agents consistently struggled. This provides empirical validation for the role of [[instructional-design]] theory in guiding AI behavior.
+3. **Theoretical quality strongly correlates with benchmark performance.** Agents grounded in classical ISD theories showed significant advantages in [[problem-based-learning|problem-centered design]] and objective-assessment alignment — two areas where theory-free agents consistently struggled. This provides empirical validation for the role of [[learning-design]] theory in guiding AI behavior.
 4. **Multi-judge protocol addresses a [[critical-thinking|critical evaluation]] challenge.** Recognizing that single-LLM evaluation introduces systematic bias, the benchmark employs diverse [[llm|LLMs]] from different providers as judges, achieving high inter-judge reliability across 1,017 test scenarios. This protocol-level innovation is as important as the benchmark itself for the validity of [[agentic-ai]] evaluation.
 
 ## Implications
@@ -38,7 +38,7 @@ For the [[ai-ed-evaluation]] community, the multi-judge protocol represents a [[
 
 - [[agentic-ai]]
 - [[ai-ed-evaluation]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[curriculum-design]]
 - [[benchmark]]
 - [[ai-education]]

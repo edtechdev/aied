@@ -18,7 +18,7 @@ Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education
 - **[[anvil-ai-educational-animations|ANVIL]]** benchmarks AI-generated educational animations against human-created alternatives.
 - **[[teaching-feedback-classification-benchmark|Teaching feedback benchmarks]]** assess cross-language transfer of feedback quality classification.
 - **[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark (CDPK + SEND)]]** tests pedagogical knowledge — teaching strategies, [[assessment|assessment methods]], and [[special-education|special-education pedagogy]] — rather than content knowledge, and reports a cost-vs-accuracy "value frontier" across 97 models (most general benchmarks test content knowledge; pedagogy is a distinct, education-critical dimension).
-- **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** benchmarks LLM-based [[instructional-design|instructional-design]] agents across 25,795 instructional-design scenarios, showing that hybrid agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping) outperform pure theory or pure technique — a benchmark result with direct implications for [[agentic-ai|agentic AI]] design in education.
+- **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** benchmarks LLM-based [[learning-design|instructional-design]] agents across 25,795 instructional-design scenarios, showing that hybrid agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping) outperform pure theory or pure technique — a benchmark result with direct implications for [[agentic-ai|agentic AI]] design in education.
 
 ### Why benchmarks matter in AIED
 

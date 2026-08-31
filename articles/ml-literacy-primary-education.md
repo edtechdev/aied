@@ -3,7 +3,7 @@ title: "Fostering machine learning literacy in senior primary education: Evaluat
 created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, k-12, computational-thinking, instructional-design, machine-learning]
+tags: [ai-literacy, k-12, computational-thinking, learning-design, machine-learning]
 audience: [instructors, learners]
 research_method: [system development]
 level: [k 12]
@@ -28,7 +28,7 @@ The course design responds to a gap in K-12 AI literacy education, which the aut
 
 ## Implications for AI in Education
 
-The results demonstrate the **feasibility and promise of teaching fundamental ML concepts to senior primary students at scale** through a structured course design. For educators, the study provides actionable guidance on how to allocate time and resources: a relatively short course can produce meaningful conceptual gains when hands-on training tasks are paired with structured scaffolding. The emergence of student reflections on AI-versus-human learning suggests early ML education can seed [[computational-thinking]] and critical dispositions toward AI, supporting [[ai-literacy]] goals in [[k-12]] education. The authors further suggest that an eight-to-ten-hour intervention might be optimal for deeper exploration, and that future iterations should adopt spiral-curriculum designs — combining concepts such as KNN and ANN in cross-concept challenges (e.g., choosing and defending the best algorithm for a new racing track) rather than teaching them as isolated lessons — an [[instructional-design]] refinement grounded in the observed "cognitive boundaries" between discrete knowledge and systematic integration.
+The results demonstrate the **feasibility and promise of teaching fundamental ML concepts to senior primary students at scale** through a structured course design. For educators, the study provides actionable guidance on how to allocate time and resources: a relatively short course can produce meaningful conceptual gains when hands-on training tasks are paired with structured scaffolding. The emergence of student reflections on AI-versus-human learning suggests early ML education can seed [[computational-thinking]] and critical dispositions toward AI, supporting [[ai-literacy]] goals in [[k-12]] education. The authors further suggest that an eight-to-ten-hour intervention might be optimal for deeper exploration, and that future iterations should adopt spiral-curriculum designs — combining concepts such as KNN and ANN in cross-concept challenges (e.g., choosing and defending the best algorithm for a new racing track) rather than teaching them as isolated lessons — an [[learning-design]] refinement grounded in the observed "cognitive boundaries" between discrete knowledge and systematic integration.
 
 ## Limitations
 
@@ -38,7 +38,7 @@ The authors identify several design constraints: the one-group pre-/post-test de
 
 - [[ai-literacy]]
 - [[computational-thinking]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[k-12]]
 - [[teacher-role]]
 - [[curriculum-design]]

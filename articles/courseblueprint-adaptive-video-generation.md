@@ -17,7 +17,7 @@ Islam et al. (2026) address a core limitation of generative text-to-video for ed
 
 - [[adaptive-learning]]
 - [[generative-ai]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[knowledge-graph]]
 - [[multimodal]]
 - [[personalized-learning]]

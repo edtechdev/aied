@@ -3,7 +3,7 @@ title: "ChatGPT Critical and Creative Thinking: Systematic Review"
 created: "2026-05-16T04:33:04-04:00"
 updated: "2026-08-26T15:34:14-04:00"
 type: article
-tags: [ai-literacy, generative-ai, cognitive-offloading, critical-thinking, higher-ed, instructional-design, metacognition, scaffolding]
+tags: [ai-literacy, generative-ai, cognitive-offloading, critical-thinking, higher-ed, learning-design, metacognition, scaffolding]
 audience: [instructors, researchers]
 research_method: [systematic review]
 level: [higher ed]
@@ -132,7 +132,7 @@ This review is a **keystone synthesis** connecting multiple threads in the AI ed
 - **[[human-in-the-loop-ai]]** provides implementation architectures for the scaffolding strategies recommended
 - **[[ai-learning-companions-framework]]** offers design paradigms aligned with "dialogic partner" and "boundary object" concepts
 - **[[feedback|Feedback Loop]]** operationalizes the multi-source feedback recommendation
-- **[[faculty-development]]** is essential — educators need training to implement these scaffolds
+- **[[educational-development]]** is essential — educators need training to implement these scaffolds
 - **[[student-experience]]** captures the learner perspective on usage patterns
 - **[[higher-ed]]** and [[universities-ai-era-rethinking]] provide the institutional context
 - **[[institutional-change-framework-ai]]** frames how activity systems must adapt
@@ -141,7 +141,7 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 
 ## Connected Concepts
 
-- [[faculty-development]]
+- [[educational-development]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
 - [[metacognition]]

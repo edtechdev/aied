@@ -20,7 +20,7 @@ Design thinking sits at the intersection of creativity, craft, and critique — 
 
 - **Design thinking as a student skill being developed.** [[genai-usage-design-students-survey|GenAI usage by design students]] at Politecnico di Milano reported very frequent use concentrated in early, ideation-heavy stages — yet high adoption did not reduce perceived project ownership or creativity, directly informing [[ai-literacy]] and [[academic-integrity]] debates about authorship and process transparency.
 
-- **AI in design pedagogy and educator frameworks.** Design thinking also structures how educators build AI-supported learning. [[gaide-vibe-coding-k12-teachers|GAIDE]] offers a Design-Thinking-based framework for K-12 teachers creating AI-powered tools through vibe coding, raising teachers' AI literacy and supporting learning-by-creating as [[faculty-development]] and [[professional-training]]. [[dot-framework-survey-2026|The DOT Framework survey]] (n=72) grounds design thinking in open-systems theory and found practitioners frequently use iterative prompting and content generation but underuse needs assessment and feedback loops — a practice-versus-theory gap that operationalizes AI as a fallible co-intelligent collaborator under [[human-in-the-loop-ai]] oversight. Even [[social-robot-study-companions|co-creating open social robots]] with students applied the Double Diamond (a design-thinking variant), redesigning the build around accessibility so that repairability and [[open-source]] principles become sites of continued learning.
+- **AI in design pedagogy and educator frameworks.** Design thinking also structures how educators build AI-supported learning. [[gaide-vibe-coding-k12-teachers|GAIDE]] offers a Design-Thinking-based framework for K-12 teachers creating AI-powered tools through vibe coding, raising teachers' AI literacy and supporting learning-by-creating as [[educational-development]] and [[professional-training]]. [[dot-framework-survey-2026|The DOT Framework survey]] (n=72) grounds design thinking in open-systems theory and found practitioners frequently use iterative prompting and content generation but underuse needs assessment and feedback loops — a practice-versus-theory gap that operationalizes AI as a fallible co-intelligent collaborator under [[human-in-the-loop-ai]] oversight. Even [[social-robot-study-companions|co-creating open social robots]] with students applied the Double Diamond (a design-thinking variant), redesigning the build around accessibility so that repairability and [[open-source]] principles become sites of continued learning.
 
 ## Practical guidance
 
@@ -46,7 +46,7 @@ Design thinking in AI education is deeply entangled with [[human-ai-collaboratio
 - [[teacher-role]]
 - [[ai-literacy]]
 - [[equity-in-ai-education]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[human-in-the-loop-ai]]
 - [[ai-ed-evaluation]]
 - [[k-12]]

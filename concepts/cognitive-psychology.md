@@ -25,7 +25,7 @@ Cognitivism is arguably the theory most responsible for AI in education existing
 
 ### Cognitive load and the design of instruction
 
-Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in [[instructional-design|instructional design]]: it distinguishes intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing; poorly integrated AI reduces all three, leaving completed tasks with empty learning. CLT's working-memory framing is also central to debates about [[cognitive-offloading]] — whether AI reduces harmful extraneous load or short-circuits the germane processing that produces learning.
+Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in [[learning-design|instructional design]]: it distinguishes intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing; poorly integrated AI reduces all three, leaving completed tasks with empty learning. CLT's working-memory framing is also central to debates about [[cognitive-offloading]] — whether AI reduces harmful extraneous load or short-circuits the germane processing that produces learning.
 
 ### Cognitivism vs. behaviorism and constructivism
 

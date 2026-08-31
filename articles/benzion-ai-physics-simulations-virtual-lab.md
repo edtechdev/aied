@@ -37,7 +37,7 @@ Ben-Zion, Einhorn Zarzecki, Glazer, and Finkelstein (2025) present a practical a
 - [[llm]]
 - [[simulation]]
 - [[stem-education]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[teacher-ai-competency]]
 - [[prompt-engineering]]
 - [[hallucination-risk]]

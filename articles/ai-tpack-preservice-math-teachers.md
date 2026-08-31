@@ -3,7 +3,7 @@ title: "AI literacy-related domains and AI-TPACK readiness among preservice math
 created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, higher-ed, stem-education, faculty-development, math-education]
+tags: [ai-literacy, higher-ed, stem-education, educational-development, math-education]
 research_method: [survey]
 discipline: [stem education, math education]
 audience: [faculty development]
@@ -32,7 +32,7 @@ The study is described as factor-informed: AI-literacy-related domains were trea
 
 ## Implications for AI in Education
 
-For [[math-education]] teacher preparation, the findings suggest that hands-on experience with AI and the capacity for critical-ethical appraisal of AI tools are the most robust correlates of pedagogical readiness, while institutional support and enabling conditions matter but are harder to measure cleanly — the support/enablers scale bundled personal interest, institutional opportunities, mentor encouragement, and active information seeking, so it cannot isolate the contribution of the teacher education setting itself. The study supports [[teacher-ai-competency]] frameworks that combine direct AI experience with critical evaluation, and it provides psychometric evidence that readiness can be measured with a short, essentially unidimensional instrument — useful for [[faculty-development]] programs seeking efficient diagnostics. The mixed discriminant-validity results, however, caution against over-interpreting separate AI-literacy sub-domains, and the provisional year-level findings warn against assuming that readiness simply increases with seniority; the non-significant contextual-barriers path should not be read as evidence that infrastructure and resources are irrelevant in South African teacher education, only that they added no independent variance within this model.
+For [[math-education]] teacher preparation, the findings suggest that hands-on experience with AI and the capacity for critical-ethical appraisal of AI tools are the most robust correlates of pedagogical readiness, while institutional support and enabling conditions matter but are harder to measure cleanly — the support/enablers scale bundled personal interest, institutional opportunities, mentor encouragement, and active information seeking, so it cannot isolate the contribution of the teacher education setting itself. The study supports [[teacher-ai-competency]] frameworks that combine direct AI experience with critical evaluation, and it provides psychometric evidence that readiness can be measured with a short, essentially unidimensional instrument — useful for [[educational-development]] programs seeking efficient diagnostics. The mixed discriminant-validity results, however, caution against over-interpreting separate AI-literacy sub-domains, and the provisional year-level findings warn against assuming that readiness simply increases with seniority; the non-significant contextual-barriers path should not be read as evidence that infrastructure and resources are irrelevant in South African teacher education, only that they added no independent variance within this model.
 
 ## Limitations
 
@@ -44,7 +44,7 @@ The study is cross-sectional and based entirely on self-report, so structural pa
 - [[ai-literacy]]
 - [[higher-ed]]
 - [[stem-education]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[teacher-role]]
 - [[tpack]]
 - [[teacher-ai-competency]]

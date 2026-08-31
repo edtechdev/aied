@@ -3,7 +3,7 @@ title: "GenAI as a runaway object in higher education: A socio-cultural view on 
 created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, higher-ed, stem-education, faculty-development, learning-theories, math-education]
+tags: [generative-ai, higher-ed, stem-education, educational-development, learning-theories, math-education]
 research_method: [qualitative]
 discipline: [stem education, math education]
 audience: [faculty development]
@@ -30,7 +30,7 @@ The study draws on qualitative data from ten academics in a mathematics departme
 
 ## Implications for AI in Education
 
-For [[higher-ed]] institutions and [[math-education]] departments, the findings suggest that formal policy is lagging behind practice: because adoption is driven by students and peer networks, institutions may be designing governance for a technology that is already reshaping academic work from below — and participants themselves called for shared institutional frameworks so that "every teacher" is not forced to invent their own approach. The five themes give [[faculty-development]] and institutional strategy a vocabulary for responding — acknowledging epistemic concerns and reconfigured roles rather than treating GenAI as a neutral tool — and for deciding where [[educational-policy-ai]] should intervene. The observed shifts in [[teacher-role]] — from content expert to mediator of critical engagement, with students sometimes more fluent in the tools than their instructors — point to concrete faculty-development needs around assessing meaningful engagement and maintaining pedagogical control in AI-supported classrooms.
+For [[higher-ed]] institutions and [[math-education]] departments, the findings suggest that formal policy is lagging behind practice: because adoption is driven by students and peer networks, institutions may be designing governance for a technology that is already reshaping academic work from below — and participants themselves called for shared institutional frameworks so that "every teacher" is not forced to invent their own approach. The five themes give [[educational-development]] and institutional strategy a vocabulary for responding — acknowledging epistemic concerns and reconfigured roles rather than treating GenAI as a neutral tool — and for deciding where [[educational-policy-ai]] should intervene. The observed shifts in [[teacher-role]] — from content expert to mediator of critical engagement, with students sometimes more fluent in the tools than their instructors — point to concrete faculty-development needs around assessing meaningful engagement and maintaining pedagogical control in AI-supported classrooms.
 
 ## Limitations
 
@@ -42,7 +42,7 @@ The study is a qualitative, activity-theoretical case study at a single institut
 - [[generative-ai]]
 - [[higher-ed]]
 - [[stem-education]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[tpack]]
 - [[teacher-role]]
 - [[educational-policy-ai]]

@@ -27,7 +27,7 @@ Anchors in [[active-learning]] and [[active-learning]] practice for [[k-12]] and
 - [[teacher-role]]
 - [[project-based-learning]]
 - [[curriculum-design]]
-- [[instructional-design]]
+- [[learning-design]]
 ## Connected Articles
 
 - [[visual-query-tracer-declarative-logic-learning]] — Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming

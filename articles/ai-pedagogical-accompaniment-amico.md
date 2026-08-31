@@ -59,7 +59,7 @@ The findings carry implications for design, evaluation, and policy. For design, 
 - [[cognitive-offloading]]
 - [[privacy]]
 - [[equity-in-ai-education]]
-- [[faculty-development]]
+- [[educational-development]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]]

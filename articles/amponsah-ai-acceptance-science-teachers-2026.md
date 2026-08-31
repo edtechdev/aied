@@ -3,7 +3,7 @@ title: "Perceptions And Acceptance of Artificial Intelligence in Science Educati
 created: "2026-08-09T08:35:52-04:00"
 updated: "2026-08-09"
 type: article
-tags: [ai-literacy, teacher-education, k-12, stem-education, higher-ed, generative-ai, faculty-development, ai-education, change-management]
+tags: [ai-literacy, teacher-education, k-12, stem-education, higher-ed, generative-ai, educational-development, ai-education, change-management]
 research_method: [survey]
 discipline: [stem education]
 audience: [faculty development]
@@ -25,7 +25,7 @@ confidence: high
 
 ## Implications
 
-This study provides a Global South perspective on [[ai-literacy]] and teacher AI adoption, complementing research primarily from Western contexts. The intention-practice gap mirrors findings in [[teacher-ai-adoption-confidence]], where institutional support was found to build teacher confidence. For [[faculty-development]] and [[professional-training]], the study underscores that AI tool access alone is insufficient — targeted professional development and digital infrastructure investment are prerequisites for meaningful classroom integration.
+This study provides a Global South perspective on [[ai-literacy]] and teacher AI adoption, complementing research primarily from Western contexts. The intention-practice gap mirrors findings in [[teacher-ai-adoption-confidence]], where institutional support was found to build teacher confidence. For [[educational-development]] and [[professional-training]], the study underscores that AI tool access alone is insufficient — targeted professional development and digital infrastructure investment are prerequisites for meaningful classroom integration.
 
 The finding that ChatGPT dominates pre-service teacher AI use echoes broader trends identified in [[genai-usage-design-students-survey]] and suggests that [[ai-literacy]] curricula should address responsible and critical use of general-purpose AI tools rather than focusing on education-specific platforms.
 
@@ -33,7 +33,7 @@ The finding that ChatGPT dominates pre-service teacher AI use echoes broader tre
 
 - [[ai-literacy]]
 - [[professional-training]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[stem-education]]
 - [[k-12]]
 - [[ai-education]]

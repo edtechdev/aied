@@ -3,7 +3,7 @@ title: Generative AI (GenAI) as a mindtool that supports generative learning (GL
 created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [learning-theories, generative-ai, higher-ed, instructional-design, scaffolding]
+tags: [learning-theories, generative-ai, higher-ed, learning-design, scaffolding]
 research_method: [theoretical analysis]
 level: [higher ed]
 category: [instructional design]
@@ -43,11 +43,11 @@ The alternating driver of each phase (teacher → learner → learner → teache
 
 ## Implications for AI in Education
 
-The framework gives [[instructional-design]] practitioners a vocabulary for using GenAI to enhance rather than replace learning: each role is tied to a specific generative learning function, and the resulting pedagogical model is intended to guide the design of GLAs. This connects to [[constructivist]] and [[self-regulated-learning]] traditions, where the learner's active knowledge construction — supported, not performed, by the tool — is the point of the activity, and it offers a counterweight to answer-generating uses of GenAI in the classroom. The authors frame the underlying goal in terms of learning with, not from, the technology: using GenAI as a mindtool can sharpen inference-making and critical thinking while avoiding the accumulation of inert (unusable) knowledge, and the challenge is to protect learners' creativity and reasoning rather than outsource them. The A2-GLD phases give faculty a concrete route to "design for AI" — preparing customized GenAI tools for specific generative learning activities, with the instructor explicitly present in the Human Scaffolding phase.
+The framework gives [[learning-design]] practitioners a vocabulary for using GenAI to enhance rather than replace learning: each role is tied to a specific generative learning function, and the resulting pedagogical model is intended to guide the design of GLAs. This connects to [[constructivist]] and [[self-regulated-learning]] traditions, where the learner's active knowledge construction — supported, not performed, by the tool — is the point of the activity, and it offers a counterweight to answer-generating uses of GenAI in the classroom. The authors frame the underlying goal in terms of learning with, not from, the technology: using GenAI as a mindtool can sharpen inference-making and critical thinking while avoiding the accumulation of inert (unusable) knowledge, and the challenge is to protect learners' creativity and reasoning rather than outsource them. The A2-GLD phases give faculty a concrete route to "design for AI" — preparing customized GenAI tools for specific generative learning activities, with the instructor explicitly present in the Human Scaffolding phase.
 
 ## Connected Concepts
 
-- [[instructional-design]]
+- [[learning-design]]
 - [[self-regulated-learning]]
 - [[curriculum-design]]
 - [[constructivist]]

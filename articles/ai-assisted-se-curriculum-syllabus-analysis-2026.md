@@ -3,7 +3,7 @@ title: Mapping the Emerging Curriculum for AI-Assisted Software Engineering via 
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [ai-education, curriculum-design, ai-technologies, instructional-design, higher-ed, generative-ai, ethics]
+tags: [ai-education, curriculum-design, ai-technologies, learning-design, higher-ed, generative-ai, ethics]
 research_method: [interviews]
 level: [higher ed]
 category: [curriculum design, instructional design]
@@ -19,7 +19,7 @@ ng knowledge.
 ## Connected Concepts
 
 - [[curriculum-design]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
 - [[formative-assessment]]

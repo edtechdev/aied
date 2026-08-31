@@ -3,7 +3,7 @@ title: "Development and evaluation of artificial intelligence literacy training 
 created: "2026-08-10T17:33:14-04:00"
 updated: "2026-08-24T17:25:00-04:00"
 type: article
-tags: [ai-literacy, teacher-ai-competency, faculty-development, pedagogical-llm-training, higher-ed, k-12]
+tags: [ai-literacy, teacher-ai-competency, educational-development, pedagogical-llm-training, higher-ed, k-12]
 research_method: [design-based research]
 audience: [faculty development]
 level: [higher ed, k 12]
@@ -25,7 +25,7 @@ confidence: high
 
 - [[ai-literacy]]
 - [[teacher-ai-competency]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[pedagogical-llm-training]]
 - [[teacher-role]]
 - [[higher-ed]]

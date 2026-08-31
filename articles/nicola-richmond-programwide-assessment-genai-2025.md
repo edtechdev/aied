@@ -3,7 +3,7 @@ title: "It Takes a Village... Program-Wide Approaches to Redesigning Assessment 
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-08-20T08:10:00-04:00"
 type: article
-tags: [assessment, generative-ai, higher-ed, teacher-role, curriculum-design, faculty-development]
+tags: [assessment, generative-ai, higher-ed, teacher-role, curriculum-design, educational-development]
 research_method: [qualitative, interviews]
 audience: [instructors, faculty development]
 level: [higher ed]
@@ -25,7 +25,7 @@ confidence: medium
 This is an **empirical qualitative study** using a **qualitative interpretivist** approach. Data were collected via online semi-structured individual interviews with **17 students** and **12 academics** across the university's four faculties (Health; Science, Engineering and Built Environment; Business and Law; Arts and Education). Interviews explored participants' understanding and use of GenAI tools, the impact on assessment practices, the role of the university, how (if at all) assessment needed to change, and the future of university assessment. Data were analyzed using Braun and Clarke's six-phase **thematic analysis** with inductive coding, inter- and intra-rater reliability checks, and refinement through team discussion and consensus. Ethical approval was granted by the Deakin University Human Ethics Committee (HAE-23-057). The paper focuses primarily on academic data, using student data as a supplement. Limitations include a single-institution sample, minimal demographic data (to protect anonymity), and a single point-in-time data collection amid rapid GenAI change.
 
 ## Implications for AI in Education
-The study provides empirical grounding for assessment reform in the GenAI era. It empirically supports Lodge et al.'s (2023) dual principles — assessment should both **prepare students for a world where GenAI is ubiquitous** and **assure learning** — while revealing the real-world friction of enacting them: systemic inertia, workload, and the need for new expertise. For [[teacher-role|educators]] and institutions, it shifts the framing of assessment redesign from an individual task to a **collaborative, program-wide endeavor** in [[higher-ed|higher education]], connecting to [[authentic-assessment]] (assessing application and critical judgement over memorization), [[formative-assessment]], [[curriculum-design]], and [[faculty-development]] (dedicated time, training, and support to engage with GenAI). The "village" model offers a practical response to the resource and expertise gaps that make structural assessment change so difficult, echoing broader calls to treat GenAI as an opportunity to fix long-standing weaknesses in [[assessment]] design.
+The study provides empirical grounding for assessment reform in the GenAI era. It empirically supports Lodge et al.'s (2023) dual principles — assessment should both **prepare students for a world where GenAI is ubiquitous** and **assure learning** — while revealing the real-world friction of enacting them: systemic inertia, workload, and the need for new expertise. For [[teacher-role|educators]] and institutions, it shifts the framing of assessment redesign from an individual task to a **collaborative, program-wide endeavor** in [[higher-ed|higher education]], connecting to [[authentic-assessment]] (assessing application and critical judgement over memorization), [[formative-assessment]], [[curriculum-design]], and [[educational-development]] (dedicated time, training, and support to engage with GenAI). The "village" model offers a practical response to the resource and expertise gaps that make structural assessment change so difficult, echoing broader calls to treat GenAI as an opportunity to fix long-standing weaknesses in [[assessment]] design.
 
 ## Connected Concepts
 
@@ -36,7 +36,7 @@ The study provides empirical grounding for assessment reform in the GenAI era. I
 - [[teacher-role]]
 - [[curriculum-design]]
 - [[higher-ed]]
-- [[faculty-development]]
+- [[educational-development]]
 
 ## Connected Articles
 

@@ -23,4 +23,6 @@ export const CONCEPT_REDIRECTS: Record<string, string> = {
   'plagiarism-detection': 'ai-detection',
   'student-misconceptions-ai': 'misconceptions',
   'accessible-learning': 'inclusive-learning',
+  'instructional-design': 'learning-design',
+  'faculty-development': 'educational-development',
 };

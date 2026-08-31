@@ -3,7 +3,7 @@ title: "When AI Wears Many Hats: The Role of Generative Artificial Intelligence 
 created: "2026-08-05T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [generative-ai, higher-ed, pedagogy, instructional-design, teacher-role, professional-training, ethics]
+tags: [generative-ai, higher-ed, pedagogy, learning-design, teacher-role, professional-training, ethics]
 research_method: [mixed methods]
 audience: [instructors]
 level: [higher ed]
@@ -24,7 +24,7 @@ Uses multipronged analysis (syllabi review, educator survey, qualitative intervi
 
 - [[generative-ai]]
 - [[higher-ed]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[teacher-role]]
 - [[professional-training]]
 - [[ethics]]

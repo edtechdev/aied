@@ -45,7 +45,7 @@ The ethical and equity dimensions are the least adequately addressed. Schiff (20
 
 ## Implications
 
-The critique of the AIED research landscape connects to broader [[governance]] concerns and the institutional readiness challenges identified in the EPIQ-AI framework. The call for teacher preparation aligns with [[teacher-ai-competency]] and [[faculty-development]] research: without ongoing professional development, the introduction of these technologies produces friction rather than benefit. The demand for [[human-in-the-loop-ai|human-centred design]] and learner participation reframes students and teachers as agents rather than subjects of technological change. The finding that policy lags deployment implies that [[educational-policy-ai|national and institutional AI strategies]] must explicitly address the educational, ethical, and equity implications of AI — not treat education as a mere supply line for an AI-ready workforce. For researchers, the review urges more [[meta-analysis-systematic-review|longitudinal, large-scale, and geographically diverse studies]] and attention to [[social-emotional-learning|social-emotional]], physical, and civic outcomes beyond the narrow performance metrics that currently dominate. The equity critique echoes findings in [[ai-scoring-language-bias-physics]].
+The critique of the AIED research landscape connects to broader [[governance]] concerns and the institutional readiness challenges identified in the EPIQ-AI framework. The call for teacher preparation aligns with [[teacher-ai-competency]] and [[educational-development]] research: without ongoing professional development, the introduction of these technologies produces friction rather than benefit. The demand for [[human-in-the-loop-ai|human-centred design]] and learner participation reframes students and teachers as agents rather than subjects of technological change. The finding that policy lags deployment implies that [[educational-policy-ai|national and institutional AI strategies]] must explicitly address the educational, ethical, and equity implications of AI — not treat education as a mere supply line for an AI-ready workforce. For researchers, the review urges more [[meta-analysis-systematic-review|longitudinal, large-scale, and geographically diverse studies]] and attention to [[social-emotional-learning|social-emotional]], physical, and civic outcomes beyond the narrow performance metrics that currently dominate. The equity critique echoes findings in [[ai-scoring-language-bias-physics]].
 
 ## Connected Concepts
 - [[educational-robotics]]
@@ -56,7 +56,7 @@ The critique of the AIED research landscape connects to broader [[governance]] c
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
 - [[governance]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[learning-analytics]]
 
 ## Connected Articles

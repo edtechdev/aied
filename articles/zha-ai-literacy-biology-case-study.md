@@ -3,7 +3,7 @@ title: "A Case Study of Integrating AI Literacy Education in a Biology Class"
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-15"
 type: article
-tags: [biology-education, ai-literacy, k-12, stem-education, curriculum-design, instructional-design, transfer-of-learning, ai-ed-evaluation, active-learning, machine-learning]
+tags: [biology-education, ai-literacy, k-12, stem-education, curriculum-design, learning-design, transfer-of-learning, ai-ed-evaluation, active-learning, machine-learning]
 audience: [learners, instructors]
 research_method: [case study, mixed methods]
 discipline: [biology education, stem education]
@@ -21,7 +21,7 @@ This study addresses a persistent gap in K-12 AI education: whereas most US AI l
 
 **Design.** The researchers used a concurrent triangulation (mixed-method) design. Quantitatively, they measured conceptual understanding via pre/post-tests and fill-in-blank worksheet questions; qualitatively, they analyzed students' interdisciplinary reasoning in open-ended worksheet answers using an adapted version of Shen et al.'s (2015) interdisciplinary reasoning and communication framework, with strong inter-rater agreement (κ=0.88).
 
-**Four biology-embedded AI lessons.** Students learned machine learning, artificial neural networks, and convolutional neural networks across lessons on cell classification with Teachable Machine, comparing human neurons with ANN structure, CNN in plant science, and AI in colorectal cancer detection. The [[instructional-design]] deliberately selected biologically inspired AI topics so students could see the connection between the two domains.
+**Four biology-embedded AI lessons.** Students learned machine learning, artificial neural networks, and convolutional neural networks across lessons on cell classification with Teachable Machine, comparing human neurons with ANN structure, CNN in plant science, and AI in colorectal cancer detection. The [[learning-design]] deliberately selected biologically inspired AI topics so students could see the connection between the two domains.
 
 **Outcomes.** Paired t-tests showed significant growth in overall AI knowledge (M 2.81 → 4.12, p<0.001), while overall biology knowledge increased only slightly and non-significantly (p=0.21). A regression (R²=0.64, p<0.01) found that both biology knowledge and prior AI knowledge significantly predicted post-test AI scores.
 
@@ -42,7 +42,7 @@ The authors also offer practical guidance for educators: activate prior subject 
 - [[biology-education]]
 - [[stem-education]]
 - [[curriculum-design]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[transfer-of-learning]]
 - [[active-learning]]
 - [[ai-ed-evaluation]]

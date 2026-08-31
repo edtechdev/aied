@@ -2,7 +2,7 @@
 title: "What Are Best Practices and Tips for Designing Effective Educational AI Software?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-08-25T11:30:00-04:00"
-tags: [pedagogical-safety, accessibility, equity-in-ai-education, instructional-design, edtech-platform]
+tags: [pedagogical-safety, accessibility, equity-in-ai-education, learning-design, edtech-platform]
 category: [instructional design]
 ---
 

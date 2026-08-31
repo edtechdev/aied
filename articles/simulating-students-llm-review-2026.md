@@ -3,7 +3,7 @@ title: "Simulating Students with Large Language Models: A Review of Architecture
 created: "2026-08-12T22:10:30-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [simulating-students, generative-ai, llm, student-modeling, agentic-ai, instructional-design, teacher-role, adaptive-learning]
+tags: [simulating-students, generative-ai, llm, student-modeling, agentic-ai, learning-design, teacher-role, adaptive-learning]
 research_method: [literature review, interviews]
 audience: [instructors]
 category: [instructional design]

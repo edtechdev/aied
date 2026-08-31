@@ -30,13 +30,13 @@ Change management in AI education carries both positive and negative implication
 
 ## Connections to other concepts
 
-Change management is the institutional complement to classroom-level integration. It operationalizes the systemic conditions — governance, faculty development, stakeholder [[student-engagement|engagement]], and equity safeguards — that allow pedagogical innovation to take hold, connecting [[educational-policy-ai]] policy design to [[governance]], [[faculty-development]], and [[equity-in-ai-education]] outcomes.
+Change management is the institutional complement to classroom-level integration. It operationalizes the systemic conditions — governance, faculty development, stakeholder [[student-engagement|engagement]], and equity safeguards — that allow pedagogical innovation to take hold, connecting [[educational-policy-ai]] policy design to [[governance]], [[educational-development]], and [[equity-in-ai-education]] outcomes.
 
 ## Connected Concepts
 
 - [[governance]] — the policy and oversight structures change management operationalizes
 - [[educational-policy-ai]] — national and institutional AI policy intent that change management must translate into practice
-- [[faculty-development]] — building faculty capacity and pedagogical orientation for AI integration
+- [[educational-development]] — building faculty capacity and pedagogical orientation for AI integration
 - [[administrator]] — leadership and anticipatory governance as change agents
 - [[ai-literacy]] — cross-cutting capability underpinning responsible institutional adoption
 - [[equity-in-ai-education]] — ensuring change benefits accrue evenly across institutions and learners

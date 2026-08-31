@@ -3,7 +3,7 @@ title: "Persistent AI Agents in Academic Research: A Single-Investigator Impleme
 created: "2026-05-27T07:38:00-04:00"
 updated: "2026-08-24T17:45:00-04:00"
 type: article
-tags: [llm, generative-ai, higher-ed, agentic-ai, faculty-development, learning-analytics, student-experience, intelligent-tutoring, ai-literacy, scaffolding]
+tags: [llm, generative-ai, higher-ed, agentic-ai, educational-development, learning-analytics, student-experience, intelligent-tutoring, ai-literacy, scaffolding]
 research_method: [case study]
 audience: [researchers]
 level: [higher ed]
@@ -22,7 +22,7 @@ The study also recorded 889 failure, verification, correction, or protocol-proxy
 
 ## Implications for AI in Education Research
 
-This study is directly relevant to [[agentic-workflows-education]] research. The PARE-M framework provides vocabulary for measuring and comparing persistent agent deployments in educational contexts — whether for faculty research, [[faculty-development]], or student-facing [[intelligent-tutoring]] systems. The cache-dominance finding challenges current pricing models and suggests that institutional AI deployments should optimize for artifact throughput rather than token costs.
+This study is directly relevant to [[agentic-workflows-education]] research. The PARE-M framework provides vocabulary for measuring and comparing persistent agent deployments in educational contexts — whether for faculty research, [[educational-development]], or student-facing [[intelligent-tutoring]] systems. The cache-dominance finding challenges current pricing models and suggests that institutional AI deployments should optimize for artifact throughput rather than token costs.
 
 The 17-agent configuration demonstrates how [[ai-changing-teaching-workflows]] might scale within academic institutions. If a single investigator can productively orchestrate 17 specialized agents, the same could apply to a course with multiple AI teaching assistants, each with distinct roles (grader, discussion moderator, content curator, etc.).
 
@@ -33,7 +33,7 @@ PARE-M provides six measurement dimensions that could be adapted for [[learning-
 ## Connected Concepts
 
 - [[agentic-ai]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[intelligent-tutoring]]
 - [[learning-analytics]]
 - [[generative-ai]]

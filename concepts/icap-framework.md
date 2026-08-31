@@ -3,7 +3,7 @@ title: ICAP Framework
 created: "2026-08-14T04:33:38-04:00"
 updated: "2026-08-26T05:46:39-04:00"
 type: concept
-tags: [cognitive-psychology, learning-theories, collaborative-learning, active-learning, learning-analytics, instructional-design, educational-nlp]
+tags: [cognitive-psychology, learning-theories, collaborative-learning, active-learning, learning-analytics, learning-design, educational-nlp]
 category: [instructional design]
 confidence: high
 ---
@@ -69,7 +69,7 @@ ICAP's emphasis on generative, process-level engagement has been adopted by asse
 - [[student-engagement]]
 - [[learning-analytics]]
 - [[constructivist]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[metacognition]]
 - [[ai-literacy]]
 - [[human-in-the-loop-ai]]

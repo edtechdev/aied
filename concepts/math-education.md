@@ -23,7 +23,7 @@ Mathematics education has become a primary domain for AI in education research b
 
 **Student engagement and AI literacy** examines how students interact with AI math tools. **[[epistemic-proactivity-math|Abdelghani et al.]]** traced temporal trajectories of student-AI interaction in math learning, identifying a developmental path from superficial prompting to "epistemic proactivity" — active, self-directed pursuit of conceptual understanding. This connects to [[ai-literacy]], [[metacognition]], and [[self-regulated-learning]]. **[[ai-powered-personalized-learning-elementary-fractions-2026|Holman]]** found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties, connecting to [[personalized-learning]] and [[adaptive-learning]].
 
-**Teacher support** explores AI tools for math educators. **[[teacher-control-ai-generation-math-visuals|Li et al.]]** investigated when teachers should control AI generation of math visuals, proposing a framework balancing AI efficiency with pedagogical correctness — connecting to [[teacher-role]] and [[curriculum-design]]. **[[ai-tpack-preservice-math-teachers|Egara et al.]]** examined AI-TPACK readiness among preservice math teachers, connecting to [[faculty-development]].
+**Teacher support** explores AI tools for math educators. **[[teacher-control-ai-generation-math-visuals|Li et al.]]** investigated when teachers should control AI generation of math visuals, proposing a framework balancing AI efficiency with pedagogical correctness — connecting to [[teacher-role]] and [[curriculum-design]]. **[[ai-tpack-preservice-math-teachers|Egara et al.]]** examined AI-TPACK readiness among preservice math teachers, connecting to [[educational-development]].
 
 **Higher education math** explores AI's impact on advanced math practice. **[[genai-runaway-object-math-higher-ed|Bui et al.]]** applied socio-cultural theory to GenAI in university mathematics, analyzing AI as a "runaway object" that transforms academic practice in ways that outpace institutional and pedagogical norms.
 
@@ -63,7 +63,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[hallucination-risk]]
 - [[cognitive-offloading]]
 - [[teacher-role]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[generative-ai]]
 - [[open-source]]
 - [[discipline-specific-aied]]

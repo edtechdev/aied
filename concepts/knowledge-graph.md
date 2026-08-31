@@ -34,7 +34,7 @@ Recent research explores using [[llm|LLMs]] to automatically construct knowledge
 
 ## Relationship to other concepts
 
-Knowledge graphs connect to [[instructional-design]] (defining what to teach), [[curriculum-design]] (how to sequence it), and [[learning-analytics]] (extracting insights from student interaction data). They are foundational to [[intelligent-tutoring]] systems that need structured representations of educational domains. As AI agents become more common in education, knowledge graphs provide the domain structure that [[agentic-ai|agentic systems]] reason over — a pattern seen in [[quantum-education-its|ITAS]] and knowledge-gap-detection teaching assistants.
+Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curriculum-design]] (how to sequence it), and [[learning-analytics]] (extracting insights from student interaction data). They are foundational to [[intelligent-tutoring]] systems that need structured representations of educational domains. As AI agents become more common in education, knowledge graphs provide the domain structure that [[agentic-ai|agentic systems]] reason over — a pattern seen in [[quantum-education-its|ITAS]] and knowledge-gap-detection teaching assistants.
 
 ## Connected Concepts
 
@@ -45,7 +45,7 @@ Knowledge graphs connect to [[instructional-design]] (defining what to teach), [
 - [[student-modeling]]
 - [[learning-analytics]]
 - [[curriculum-design]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[generative-ai]]
 - [[llm]]
 - [[rag]]

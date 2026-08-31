@@ -29,7 +29,7 @@ The findings have implications for [[teacher-role|faculty development]] and [[ed
 - [[educational-policy-ai]]
 - [[ai-literacy]]
 - [[authentic-assessment]]
-- [[faculty-development]]
+- [[educational-development]]
 ## Connected Articles
 
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world

@@ -3,7 +3,7 @@ title: "ANVIL: Analogies and Videos for Lecturers"
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-08-24T04:41:11-04:00"
 type: article
-tags: [generative-ai, llm, instructional-design, higher-ed, cs-education, teacher-role, multimodal, visualization]
+tags: [generative-ai, llm, learning-design, higher-ed, cs-education, teacher-role, multimodal, visualization]
 research_method: [system development]
 discipline: [cs education]
 audience: [instructors]
@@ -13,11 +13,11 @@ sources: ['raw/papers/2605.16295.md']
 confidence: high
 ---
 
-Noviello, Birillo, and Migut (2026) present ANVIL, an end-to-end multimodal generation pipeline for educational content — one of the first systems to automate the full journey from concept definition to rendered instructional animation. The four-stage pipeline (analogy generation, screenplay compilation, animation code generation with automated repair) represents a significant advance in AI-generated [[instructional-design]] materials.
+Noviello, Birillo, and Migut (2026) present ANVIL, an end-to-end multimodal generation pipeline for educational content — one of the first systems to automate the full journey from concept definition to rendered instructional animation. The four-stage pipeline (analogy generation, screenplay compilation, animation code generation with automated repair) represents a significant advance in AI-generated [[learning-design]] materials.
 
 ANVIL's evaluation approach is methodologically notable: rather than relying solely on automated metrics, the authors ground quality assessment in teacher evaluations and then use those findings to guide scalable automated screening. The LLM-based evaluator for analogy quality and fidelity-to-screenplay proxy for video assessment offer a replicable framework for evaluating [[generative-ai]] educational outputs at scale — addressing a key challenge identified in benchmark and efficacy-study literature.
 
-The positive educator response to perceived value and usability suggests that AI-generated instructional content may be crossing a threshold of practical classroom utility. This connects to the [[teacher-role]] discussion: ANVIL positions AI as a content-generation assistant that amplifies rather than replaces instructor expertise. The focus on CS education also complements the [[cs-education]] literature on AI tools, though ANVIL's architecture is domain-agnostic and could generalize to [[stem-education]] broadly. For [[faculty-development]], tools like ANVIL lower the production barrier for high-quality instructional media, potentially democratizing access to professional-grade educational animations.
+The positive educator response to perceived value and usability suggests that AI-generated instructional content may be crossing a threshold of practical classroom utility. This connects to the [[teacher-role]] discussion: ANVIL positions AI as a content-generation assistant that amplifies rather than replaces instructor expertise. The focus on CS education also complements the [[cs-education]] literature on AI tools, though ANVIL's architecture is domain-agnostic and could generalize to [[stem-education]] broadly. For [[educational-development]], tools like ANVIL lower the production barrier for high-quality instructional media, potentially democratizing access to professional-grade educational animations.
 
 ## Synthesis
 
@@ -59,16 +59,16 @@ The expert study covered a limited set of generated materials, and agreement was
 
 ## Implications
 
-ANVIL demonstrates a viable blueprint for scalable, human-grounded evaluation of AI-generated instructional media, pairing expert judgment with modality-specific automation — an LLM judge for screening analogies and a VLM fidelity proxy for auditing videos. This two-tier evaluation strategy offers a replicable framework for the [[ai-ed-evaluation]] literature, addressing the scalability problem that constrains expert-only quality assessment. Pedagogically, ANVIL reinforces the argument that [[generative-ai]] is best deployed as an assistive, human-in-the-loop collaborator: its value peaks when instructors can review and edit the analogy and animation before classroom use, echoing [[scaffolding]] and [[human-in-the-loop-ai]] principles. The focus-group findings on instructor control, editability, and pedagogical mismatch carry direct implications for [[teacher-role]], [[faculty-development]], and [[pedagogical-safety]] — educators will trust and adopt such tools only when they can audit and correct AI output. For [[cs-education]] and [[stem-education]] more broadly, automated analogy-to-video pipelines could substantially lower the production barrier for high-quality instructional animations, potentially improving [[student-engagement]] and [[motivation]] by making abstract concepts more concrete, while remaining attentive to the risk that flawed visualizations propagate misconceptions.
+ANVIL demonstrates a viable blueprint for scalable, human-grounded evaluation of AI-generated instructional media, pairing expert judgment with modality-specific automation — an LLM judge for screening analogies and a VLM fidelity proxy for auditing videos. This two-tier evaluation strategy offers a replicable framework for the [[ai-ed-evaluation]] literature, addressing the scalability problem that constrains expert-only quality assessment. Pedagogically, ANVIL reinforces the argument that [[generative-ai]] is best deployed as an assistive, human-in-the-loop collaborator: its value peaks when instructors can review and edit the analogy and animation before classroom use, echoing [[scaffolding]] and [[human-in-the-loop-ai]] principles. The focus-group findings on instructor control, editability, and pedagogical mismatch carry direct implications for [[teacher-role]], [[educational-development]], and [[pedagogical-safety]] — educators will trust and adopt such tools only when they can audit and correct AI output. For [[cs-education]] and [[stem-education]] more broadly, automated analogy-to-video pipelines could substantially lower the production barrier for high-quality instructional animations, potentially improving [[student-engagement]] and [[motivation]] by making abstract concepts more concrete, while remaining attentive to the risk that flawed visualizations propagate misconceptions.
 
 ## Connected Concepts
 
-- [[instructional-design]]
+- [[learning-design]]
 - [[generative-ai]]
 - [[teacher-role]]
 - [[cs-education]]
 - [[stem-education]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[multimodal]]
 - [[llm]]
 ## Connected Articles

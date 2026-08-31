@@ -3,7 +3,7 @@ title: "Don't believe the hype. AI myths and the need for a critical approach in
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, higher-ed, ai-literacy, critical-thinking, academic-integrity, digital-divide, ai-misuse-learning-harm, governance, faculty-development, regulation]
+tags: [generative-ai, higher-ed, ai-literacy, critical-thinking, academic-integrity, digital-divide, ai-misuse-learning-harm, governance, educational-development, regulation]
 research_method: [theoretical analysis]
 audience: [faculty development]
 level: [higher ed]
@@ -25,7 +25,7 @@ confidence: medium
 
 **Higher education: erosion, not revolution.** The claim that AI revolutionises higher education overlooks its detrimental effects on [[academic-integrity]] and the erosion of evidence-based pedagogical practices, compounded by an existing crisis of higher education. Likewise, AI-detection is unreliable: models increasingly produce outputs indistinguishable from human work, undermining the belief that teachers can catch AI use with or without AI tools.
 
-**The corrective: critical AI literacy.** The authors call on intellectuals in higher education to lead a transformative agenda — embedding [[ai-literacy]] as a graduate attribute, supported by [[faculty-development]], innovative assessment, and metacognitive initiatives. This is intended to equip learners to critically evaluate digital content, challenge techno-optimistic narratives, and ensure AI serves human insight and social justice rather than perpetuating [[critical-thinking]]-eroding technological illusions.
+**The corrective: critical AI literacy.** The authors call on intellectuals in higher education to lead a transformative agenda — embedding [[ai-literacy]] as a graduate attribute, supported by [[educational-development]], innovative assessment, and metacognitive initiatives. This is intended to equip learners to critically evaluate digital content, challenge techno-optimistic narratives, and ensure AI serves human insight and social justice rather than perpetuating [[critical-thinking]]-eroding technological illusions.
 
 ## Implications
 
@@ -41,7 +41,7 @@ The editorial positions [[critical-thinking]] and [[ai-literacy]] as essential g
 - [[digital-divide]]
 - [[ai-misuse-learning-harm]]
 - [[governance]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[regulation]]
 - [[misconceptions]]
 

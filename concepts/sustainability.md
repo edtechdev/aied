@@ -24,7 +24,7 @@ The knowledge base's coverage, anchored by [[daniel-ai-sustainability-scoping-re
 A growing body of work treats AI as a tool *for* sustainability education and outcomes:
 
 - **AI-integrated curricula that build sustainability consciousness.** [[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]] propose the AI-SEE framework (intelligence-driven, green-empowered, responsibility-leading, practice-integrated), which integrates AI across the [[curriculum-design|curriculum]] as a cognitive [[scaffolding|scaffold]] and resource for system-level sustainability analysis. In a 144-student engineering case, it enhanced sustainability consciousness and produced behavioral [[student-engagement|engagement]] across personal, academic, professional, and social levels, with social diffusion beyond the classroom.
-- **AI in green and sustainable education.** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] found AI-assisted [[instructional-design|instructional design]] under Sustainable Development Pedagogy constraints improved teacher workflows and [[pedagogy|pedagogical]] design. [[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]] found that teachers' practical use of AI in science/green energy and their involvement in developing ESD-aligned materials — more than abstract AI knowledge or attitudes — predicted their capacity to integrate AI into [[k-12|green energy education]].
+- **AI in green and sustainable education.** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] found AI-assisted [[learning-design|instructional design]] under Sustainable Development Pedagogy constraints improved teacher workflows and [[pedagogy|pedagogical]] design. [[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]] found that teachers' practical use of AI in science/green energy and their involvement in developing ESD-aligned materials — more than abstract AI knowledge or attitudes — predicted their capacity to integrate AI into [[k-12|green energy education]].
 - **Sustainability as a value-based project.** [[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah (2026)]] argue AI's contribution to sustainable education is conditional and governance-mediated: it supports sustainability only when adoption is subordinated to explicit educational values and human-centered purposes, rather than to technologization and commodification. This ties sustainability to [[ethics]] and [[critical-pedagogy]].
 
 ## Making AI itself sustainable
@@ -41,7 +41,7 @@ A related strand frames sustainability not only as an environmental or instituti
 
 ## Connections to other concepts
 
-Sustainability and AI in education sits at the intersection of [[ethics]], [[governance]], [[ai-education]], and the environmental/energy sciences. It draws on [[teacher-education]] and [[teacher-role]] for capacity-building, on [[instructional-design]] for pedagogy, and connects to the knowledge base's treatment of [[cognitive-offloading]] and [[critical-thinking]] through the "sustainable learning" lens. Because both pathways are cross-cutting, sustainability is a foundational theme that appears across [[higher-ed|higher education]], K-12, and professional contexts.
+Sustainability and AI in education sits at the intersection of [[ethics]], [[governance]], [[ai-education]], and the environmental/energy sciences. It draws on [[teacher-education]] and [[teacher-role]] for capacity-building, on [[learning-design]] for pedagogy, and connects to the knowledge base's treatment of [[cognitive-offloading]] and [[critical-thinking]] through the "sustainable learning" lens. Because both pathways are cross-cutting, sustainability is a foundational theme that appears across [[higher-ed|higher education]], K-12, and professional contexts.
 
 ## Connected Concepts
 - [[ethics]]
@@ -51,7 +51,7 @@ Sustainability and AI in education sits at the intersection of [[ethics]], [[gov
 - [[k-12]]
 - [[teacher-education]]
 - [[teacher-role]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[engineering-education]]
 - [[critical-thinking]]
 - [[cognitive-offloading]]

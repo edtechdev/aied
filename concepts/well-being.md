@@ -20,7 +20,7 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 
 - **AI anxiety and student experience:** Studies on students' engagement with AI (e.g., [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT-based research]]) find AI use is intertwined with anxiety, trust, and confidence, with students' well-being affected by concerns about academic integrity, [[creativity]], and [[cognitive-offloading|Over-Reliance]].
 
-- **Teacher well-being and role:** AI's impact on [[teacher-role|teachers]] — including workload, anxiety about teaching with disruptive technology, and the capacity to provide emotional support — is a recurring concern, connecting to [[teacher-ai-competency]] and [[faculty-development|professional development]].
+- **Teacher well-being and role:** AI's impact on [[teacher-role|teachers]] — including workload, anxiety about teaching with disruptive technology, and the capacity to provide emotional support — is a recurring concern, connecting to [[teacher-ai-competency]] and [[educational-development|professional development]].
 
 - **Ethics and responsible AI:** Well-being is a core ethical consideration in [[ai-education]], linking to [[ethics]] and the imperative to design AI that supports rather than harms learners' mental health and belonging.
 

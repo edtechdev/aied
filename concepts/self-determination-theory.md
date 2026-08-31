@@ -20,11 +20,11 @@ SDT is increasingly used in AI in education research as a theoretical lens for b
 
 - **ChatGPT and SDT needs in language learning:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] used an SDT lens with 25 Malaysian university students, finding that ChatGPT supports autonomy, relatedness, and competence in [[language-learning|English language learning]] — enhancing grammar, writing, and conversational tasks while letting [[teacher-role|educators]] focus on higher-order training.
 
-**SDT applied to instructors' own AI-mediated practice.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used SDT as the interpretive lens on how instructors integrate [[learning-analytics|learning analytics]] and generative AI into [[instructional-design|learning design]] — finding that supporting instructors' basic needs (autonomy, competence, relatedness) fosters the creative problem-solving their design work requires. In their ENA analysis, GenAI use was associated with designing for student self-determination (e.g., co-creating assessment rubrics with students), extending SDT from learners to the educators who build need-supportive AI-mediated environments.
+**SDT applied to instructors' own AI-mediated practice.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used SDT as the interpretive lens on how instructors integrate [[learning-analytics|learning analytics]] and generative AI into [[learning-design|learning design]] — finding that supporting instructors' basic needs (autonomy, competence, relatedness) fosters the creative problem-solving their design work requires. In their ENA analysis, GenAI use was associated with designing for student self-determination (e.g., co-creating assessment rubrics with students), extending SDT from learners to the educators who build need-supportive AI-mediated environments.
 
 ## Connections to related concepts
 
-SDT connects directly to [[motivation]] as its parent construct, to [[affective-computing]] and [[affective-tutoring]] for emotion-aware AI design, and to [[student-experience]] for how learners experience AI-mediated environments. The theory's emphasis on autonomy connects to [[self-regulated-learning]], while its competence dimension connects to [[self-efficacy-tutoring-learning]] and [[teacher-ai-competency]]. SDT is particularly relevant to [[professional-training]] and [[faculty-development]] because need-supportive design is a transferable principle for preparing educators to use AI.
+SDT connects directly to [[motivation]] as its parent construct, to [[affective-computing]] and [[affective-tutoring]] for emotion-aware AI design, and to [[student-experience]] for how learners experience AI-mediated environments. The theory's emphasis on autonomy connects to [[self-regulated-learning]], while its competence dimension connects to [[self-efficacy-tutoring-learning]] and [[teacher-ai-competency]]. SDT is particularly relevant to [[professional-training]] and [[educational-development]] because need-supportive design is a transferable principle for preparing educators to use AI.
 
 ## Connected Concepts
 
@@ -34,7 +34,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[affective-tutoring]]
 - [[self-regulated-learning]]
 - [[teacher-ai-competency]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[professional-training]]
 - [[cognitive-offloading]]
 - [[student-engagement]]

@@ -3,7 +3,7 @@ title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-29T15:22:36-04:00"
 type: concept
-tags: [lifelong-learning, adult-learning, faculty-development, ai-literacy, simulation, higher-ed, generative-ai, llm]
+tags: [lifelong-learning, adult-learning, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm]
 audience: [instructors, administrator, learners]
 level: [adult learning, higher ed]
 confidence: high
@@ -28,13 +28,13 @@ Professional training differs from academic education in its focus on applied sk
 
 ### Connections
 
-Professional training connects to [[lifelong-learning]], [[adult-learning]], [[faculty-development]] (the academic parallel), [[simulation]], and [[ai-literacy]] (workplace AI competency).
+Professional training connects to [[lifelong-learning]], [[adult-learning]], [[educational-development]] (the academic parallel), [[simulation]], and [[ai-literacy]] (workplace AI competency).
 
 ## Connected Concepts
 
 - [[lifelong-learning]]
 - [[adult-learning]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[ai-literacy]]
 - [[simulation]]
 - [[higher-ed]]

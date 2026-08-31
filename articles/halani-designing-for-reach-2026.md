@@ -11,7 +11,7 @@ sources: ['raw/papers/halani-designing-for-reach-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Halani (2026) proposes a [[instructional-design|course-design]] framework of **seven levers** through which a teacher shapes the environment in which students decide what to do with a machine that answers. The key innovation is **Reach**: which lever settings remain in force in the unsupervised moment — the student alone at night and stuck, with AI one tab away — where nearly all free choice about AI is exercised. None of the levers are new or AI-specific; what the framework adds is asking each lever how far it reaches when the teacher is absent. Three classroom configurations (think-first, direct-instruction, Harkness) illustrate coherent lever settings, and a mapping to Schoenfeld's Teaching for Robust Understanding dimensions shows the levers describe environments for thinking with or without the machine.
+> **Synthesis:** Halani (2026) proposes a [[learning-design|course-design]] framework of **seven levers** through which a teacher shapes the environment in which students decide what to do with a machine that answers. The key innovation is **Reach**: which lever settings remain in force in the unsupervised moment — the student alone at night and stuck, with AI one tab away — where nearly all free choice about AI is exercised. None of the levers are new or AI-specific; what the framework adds is asking each lever how far it reaches when the teacher is absent. Three classroom configurations (think-first, direct-instruction, Harkness) illustrate coherent lever settings, and a mapping to Schoenfeld's Teaching for Robust Understanding dimensions shows the levers describe environments for thinking with or without the machine.
 
 [[generative-ai|Generative AI]] can supply the distilled product of reasoning without the thinking. The framework addresses a design question at the heart of [[ai-education|AI in education]]: what, in the course environment, still makes the thinking worth doing when the student is alone? It sits inside Schoenfeld's (2022) "learning environment" circle, asking what a [[teacher-role|teacher]] can actually adjust given a machine available to every student at every hour.
 
@@ -50,13 +50,13 @@ Reach sorts the three more sharply than exposure: all are exposed in different p
 
 ## Relationship to existing research
 
-The framework sits in a lineage of enumerating classrooms' adjustable dimensions — Ames's (1992) six [[motivation]] structures, van den Akker's (2003) curriculum components — distributing those among the levers. What it adds is *scale* (levers are set and read at the scale of a course) and the *Reach question*. Its nearest neighbor is the assessment-redesign literature: Corbin, Dawson & Liu (2025) argue discursive changes cannot secure [[assessment]] in an age of [[generative-ai]] and that structural changes are needed; Reach asks that question of full [[instructional-design|course design]] rather than assessment alone.
+The framework sits in a lineage of enumerating classrooms' adjustable dimensions — Ames's (1992) six [[motivation]] structures, van den Akker's (2003) curriculum components — distributing those among the levers. What it adds is *scale* (levers are set and read at the scale of a course) and the *Reach question*. Its nearest neighbor is the assessment-redesign literature: Corbin, Dawson & Liu (2025) argue discursive changes cannot secure [[assessment]] in an age of [[generative-ai]] and that structural changes are needed; Reach asks that question of full [[learning-design|course design]] rather than assessment alone.
 
 The levers are domain-general and not AI-specific: mapping them to Schoenfeld's Teaching for Robust Understanding dimensions (rich content, cognitive demand, equitable access, [[agency|agency/ownership]], [[formative-assessment|formative assessment]]) shows the same levers describe environments for thinking with or without the machine.
 
 ## Implications for AI in education
 
-- **Design the unsupervised moment, not just the supervised one:** [[instructional-design|course design]] should ask how far each lever reaches when the student is alone — that is where free choice about AI is exercised.
+- **Design the unsupervised moment, not just the supervised one:** [[learning-design|course design]] should ask how far each lever reaches when the student is alone — that is where free choice about AI is exercised.
 - **Structural changes beat discursive ones:** telling students process matters (Frame) is weakly reaching; changing what pays (Structure) or what cannot be done without thinking (Material) reaches further.
 - **Norms propagate to AI:** a student who has internalized "take ideas you can reconstruct, not answers you can copy" applies it to both a classmate's notebook and a chatbot — the norm is about what help is for, not the source.
 - **The machine changes the calculus of "reaching" aims:** a direct-instruction design that once built fluency can now be short-circuited by the very tool, because its reach protects an aim the machine can reach too.
@@ -64,7 +64,7 @@ The levers are domain-general and not AI-specific: mapping them to Schoenfeld's 
 
 ## Connected Concepts
 
-- [[instructional-design]]
+- [[learning-design]]
 - [[assessment]]
 - [[formative-assessment]]
 - [[cognitive-offloading]]

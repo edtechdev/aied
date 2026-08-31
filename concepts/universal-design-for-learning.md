@@ -3,7 +3,7 @@ title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
 updated: "2026-08-27T08:55:36.300729-04:00"
 type: concept
-tags: [inclusive-learning, equity-in-ai-education, special-education, instructional-design, student-experience]
+tags: [inclusive-learning, equity-in-ai-education, special-education, learning-design, student-experience]
 audience: [learners]
 level: [special education]
 category: [instructional design]
@@ -26,7 +26,7 @@ UDL rests on the insight that learner variability is the norm, not the exception
 
 ### Connections
 
-UDL connects to [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[instructional-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational fairness and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles. Because UDL is the framework most commonly invoked in higher-education disability contexts (where "special education" is a K-12 term), it is often the right page to link for college and university disabled-learner research.
+UDL connects to [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[learning-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational fairness and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles. Because UDL is the framework most commonly invoked in higher-education disability contexts (where "special education" is a K-12 term), it is often the right page to link for college and university disabled-learner research.
 
 ## Implications and examples for instructors and instructional designers
 
@@ -61,7 +61,7 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 - [[equity-in-ai-education]]
 - [[special-education]]
 - [[neurodiversity]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[personalized-learning]]
 - [[culturally-relevant-pedagogy]]
 - [[authentic-assessment]]

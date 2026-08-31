@@ -3,7 +3,7 @@ title: "Efficacy of an Intensive Generative AI Professional Development Program 
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-24T09:30:00-04:00"
 type: article
-tags: [adult-learning, teacher-ai-competency, generative-ai, professional-training, teacher-education, faculty-development]
+tags: [adult-learning, teacher-ai-competency, generative-ai, professional-training, teacher-education, educational-development]
 research_method: [experiment, system development]
 audience: [faculty development]
 level: [teacher training]
@@ -55,12 +55,12 @@ This study provides strong evidence that intensive, focused professional develop
 
 The differential gain favoring pre-service candidates suggests that embedding AI-PCK into core [[teacher-education]] curricula — especially rubric design and scenario-based task design — may yield the highest returns, while experienced teachers need long-term, specialized, and mentor-based [[professional-training]] rather than one-off intensive sessions. School administrators should integrate AI tools that reduce administrative workload to motivate adoption among experienced staff.
 
-For institutional [[educational-policy-ai]] and [[faculty-development]], the findings argue for systematic rather than ad-hoc AI teacher preparation, and for attention to differentiated learning needs across the teacher-career spectrum. The authors note the study's limitations — quasi-experimental design without full randomization, no long-term follow-up, and no discipline-specific breakdown — and call for controlled experimental and sustainability-focused research.
+For institutional [[educational-policy-ai]] and [[educational-development]], the findings argue for systematic rather than ad-hoc AI teacher preparation, and for attention to differentiated learning needs across the teacher-career spectrum. The authors note the study's limitations — quasi-experimental design without full randomization, no long-term follow-up, and no discipline-specific breakdown — and call for controlled experimental and sustainability-focused research.
 
 ## Connected Concepts
 
 - [[research-methods-aied]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[generative-ai]]
 - [[professional-training]]
 - [[teacher-ai-competency]]

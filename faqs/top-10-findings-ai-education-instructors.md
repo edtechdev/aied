@@ -30,7 +30,7 @@ Across the knowledge base's synthesis of current research, the most important me
 
 **Teaching implication:** Have students evaluate AI feedback against your rubric, decide what to accept/reject, and explain their revisions.
 
-**5. Well-designed [[instructional-design|scaffolding]] appears more important than simply giving students a powerful model.** A particularly revealing study compared a theory-informed chatbot that scaffolded student explanations with ordinary ChatGPT and teaching as usual. Immediate differences were not significant, but four weeks later the scaffolded-chatbot group retained more conceptual knowledge. This is one study, not a universal effect, but it illustrates why **instructional design can matter more than model capability**.
+**5. Well-designed [[learning-design|scaffolding]] appears more important than simply giving students a powerful model.** A particularly revealing study compared a theory-informed chatbot that scaffolded student explanations with ordinary ChatGPT and teaching as usual. Immediate differences were not significant, but four weeks later the scaffolded-chatbot group retained more conceptual knowledge. This is one study, not a universal effect, but it illustrates why **instructional design can matter more than model capability**.
 
 **Teaching implication:** Design AI activities around self-explanation, retrieval, comparison, argumentation, teaching, or critique—not merely content generation.
 

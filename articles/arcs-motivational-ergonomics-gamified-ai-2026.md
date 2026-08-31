@@ -3,7 +3,7 @@ title: "Motivational Ergonomics in Gamified and Artificial Intelligence-Supporte
 created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-25T09:52:34-04:00"
 type: article
-tags: [game-based-learning, motivation, higher-ed, instructional-design, self-determination-theory, student-experience, adult-learning]
+tags: [game-based-learning, motivation, higher-ed, learning-design, self-determination-theory, student-experience, adult-learning]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]
@@ -22,13 +22,13 @@ confidence: high
 5. The paper proposes ARCS as a cognitive-ergonomic lens for assessing motivational sustainability, [[usability-research|usability]], and transferability to workplace training design.
 
 ## Discussion
-The paper contributes a [[research-methods-aied|methodological]] framing — treating learner motivation as a form of "cognitive ergonomics" to be measured and designed for, rather than assumed — and delivers a null result that challenges the automatic-association between AI-supported gamification and enhanced [[motivation|motivation]]. Its differentiated item-level findings are the actionable core: AI-supported progression excels at instrumental support (feedback, adaptive repetition) while conventional gamification better sustains [[affective-computing|affective]] [[student-engagement|engagement]] (interest, emotional involvement). For the knowledge base, it connects [[game-based-learning|gamified learning]], [[self-determination-theory|motivation theory]], and [[instructional-design|instructional design]], and pairs naturally with the author's companion NASA-TLX workload study, together illustrating standardized instrument-based [[ai-ed-evaluation|evaluation of AI]]-supported [[student-experience|learning environments]].
+The paper contributes a [[research-methods-aied|methodological]] framing — treating learner motivation as a form of "cognitive ergonomics" to be measured and designed for, rather than assumed — and delivers a null result that challenges the automatic-association between AI-supported gamification and enhanced [[motivation|motivation]]. Its differentiated item-level findings are the actionable core: AI-supported progression excels at instrumental support (feedback, adaptive repetition) while conventional gamification better sustains [[affective-computing|affective]] [[student-engagement|engagement]] (interest, emotional involvement). For the knowledge base, it connects [[game-based-learning|gamified learning]], [[self-determination-theory|motivation theory]], and [[learning-design|instructional design]], and pairs naturally with the author's companion NASA-TLX workload study, together illustrating standardized instrument-based [[ai-ed-evaluation|evaluation of AI]]-supported [[student-experience|learning environments]].
 
 ## Connected Concepts
 - [[game-based-learning]]
 - [[motivation]]
 - [[higher-ed]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[self-determination-theory]]
 - [[student-experience]]
 - [[student-engagement]]

@@ -3,7 +3,7 @@ title: "Ethical Use of Artificial Intelligence in Engineering Education: A Syste
 created: "2026-08-17T10:30:00-04:00"
 updated: "2026-08-17T11:15:00-04:00"
 type: article
-tags: [engineering-education, ethics, academic-integrity, bias-mitigation, equity-in-ai-education, faculty-development, higher-ed, generative-ai]
+tags: [engineering-education, ethics, academic-integrity, bias-mitigation, equity-in-ai-education, educational-development, higher-ed, generative-ai]
 research_method: [systematic review]
 discipline: [engineering education]
 audience: [faculty development]
@@ -38,7 +38,7 @@ Across the 99 studies, **accountability** (n = 47) and **transparency** (n = 34)
 
 ## A student-facing, compliance-oriented imbalance
 
-The central finding is that ethical AI guidance in engineering education is **predominantly student-facing and compliance-oriented** — often centered on [[academic-integrity|academic integrity]] and disclosure requirements — while **reciprocal accountability for faculty AI use and institutional responsibility remains underdeveloped**. The authors interpret this as a limitation: because engineering decisions directly affect public safety, infrastructure reliability, environmental sustainability, and societal wellbeing, ethical AI use in engineering classrooms is a matter of professional formation and societal responsibility, not merely academic policy. They document the need to make ethical guidance more balanced across students, faculty, and institutions, and to support [[faculty-development]] so educators can guide responsible AI integration.
+The central finding is that ethical AI guidance in engineering education is **predominantly student-facing and compliance-oriented** — often centered on [[academic-integrity|academic integrity]] and disclosure requirements — while **reciprocal accountability for faculty AI use and institutional responsibility remains underdeveloped**. The authors interpret this as a limitation: because engineering decisions directly affect public safety, infrastructure reliability, environmental sustainability, and societal wellbeing, ethical AI use in engineering classrooms is a matter of professional formation and societal responsibility, not merely academic policy. They document the need to make ethical guidance more balanced across students, faculty, and institutions, and to support [[educational-development]] so educators can guide responsible AI integration.
 
 ## Implications
 
@@ -55,7 +55,7 @@ The central finding is that ethical AI guidance in engineering education is **pr
 - [[bias-mitigation]]
 - [[equity-in-ai-education]]
 - [[privacy]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[higher-ed]]
 - [[generative-ai]]
 - [[ai-education]]

@@ -61,7 +61,7 @@ This is a development article that demonstrates a complete, implemented pipeline
 - [[personalized-learning]]
 - [[assessment]]
 - [[feedback]]
-- [[instructional-design]]
+- [[learning-design]]
 
 ## Connected Articles
 

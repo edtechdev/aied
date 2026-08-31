@@ -17,7 +17,7 @@ The review addresses a gap: most AI-in-education research examines generic effec
 
 - **Screening:** 255 records identified, 149 screened, 25 assessed for eligibility, **18 studies included**.
 - **Distribution:** 3 (2021), 1 (2022), 3 (2023), 11 (2024) — reflecting the post-ChatGPT surge.
-- **Methods used:** experimental/quasi-experimental with control groups, case studies, laboratory studies, mixed methods, and self-study; several integrated [[instructional-design|instructional design]] models (ADDIE, rapid prototyping).
+- **Methods used:** experimental/quasi-experimental with control groups, case studies, laboratory studies, mixed methods, and self-study; several integrated [[learning-design|instructional design]] models (ADDIE, rapid prototyping).
 - **Samples:** mostly teacher candidates, middle/high-school students, and [[teacher-role|teachers]].
 
 ## AI tools and applications

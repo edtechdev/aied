@@ -27,14 +27,14 @@ confidence: high
 
 **Limitations.** Self-selection bias (AI-interested teachers may have over-responded), a small sample that may mask correlations, no AI definition provided to participants, and difficulty comparing literacy scores across different test versions limit generalizability.
 
-**Implication.** Post-qualification for in-service science educators should build both general [[ai-literacy]] and practical, pedagogically grounded AI use, connecting to [[tpack]], [[teacher-education]], and [[faculty-development]] within [[stem-education]].
+**Implication.** Post-qualification for in-service science educators should build both general [[ai-literacy]] and practical, pedagogically grounded AI use, connecting to [[tpack]], [[teacher-education]], and [[educational-development]] within [[stem-education]].
 
 ## Connected Concepts
 
 - [[stem-education]]
 - [[ai-literacy]]
 - [[teacher-education]]
-- [[faculty-development]]
+- [[educational-development]]
 
 ## Connected Articles
 

@@ -3,7 +3,7 @@ title: "Systematic Review of Collaborative Learning Activities for Promoting AI 
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-26T05:46:39-04:00"
 type: article
-tags: [ai-literacy, collaborative-learning, instructional-design, k-12, llm, higher-ed]
+tags: [ai-literacy, collaborative-learning, learning-design, k-12, llm, higher-ed]
 audience: [instructors, researchers]
 research_method: [systematic review]
 level: [k 12, higher ed]
@@ -55,7 +55,7 @@ The nine studies were implemented in heterogeneous learning contexts, making cro
 - [[collaborative-learning]]
 - [[icap-framework]]
 - [[active-learning]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[generative-ai]]
 - [[human-ai-collaboration]]
 
