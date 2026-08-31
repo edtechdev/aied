@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T08:09:22-04:00"
+updated: "2026-08-31T08:30:38-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity-in-ai-education]
 audience: [instructors, learners, faculty development, administrator]
@@ -58,7 +58,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 ## Foundations of AI in education
 
-The field's cross-cutting and foundational concepts anchor the knowledge base's coverage and appear first in the sidebar. They open with an **Essentials** group — the concepts every reader should start with: the [[ai-education|umbrella itself]], [[misconceptions|misconceptions about AI]], [[ai-literacy|AI literacy]], [[agentic-ai|agentic AI]], [[cognitive-offloading|cognitive offloading]], [[framing-ai-use-for-students|how AI use is framed for students]], [[reducing-ai-misuse|reducing AI misuse]], [[academic-integrity|academic integrity]], [[teacher-role|teaching]], [[learning-design|learning design]], and [[educational-development|educational development]]. The **field** strand then covers [[history-of-aied|the field's history]], the [[limitations-in-aied-research|cross-cutting limitations of the evidence base]], [[philosophy-of-ai-in-education|its philosophy]], and [[theory-development-aied|theory development]]. The cross-cutting themes — [[human-ai-collaboration|human–AI collaboration]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], the [[technology-acceptance-model|technology adoption]] research that models how users take up AI, [[sustainability|sustainability]], and [[computational-thinking|computational thinking]] — cut across every strand, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]].
+The field's cross-cutting and foundational concepts anchor the knowledge base's coverage and appear first in the sidebar. They open with an **Essentials** group — the concepts every reader should start with: the [[ai-education|umbrella itself]], [[misconceptions|misconceptions about AI]], [[ai-literacy|AI literacy]], [[agentic-ai|agentic AI]], [[cognitive-offloading|cognitive offloading]], [[framing-ai-use-for-students|how AI use is framed for students]], [[reducing-ai-misuse|reducing AI misuse]], [[academic-integrity|academic integrity]], [[teacher-role|teaching]], [[learning-design|learning design]], and [[educational-development|educational development]]. The **field** strand then covers [[history-of-aied|the field's history]], the [[limitations-in-aied-research|cross-cutting limitations of the evidence base]], [[philosophy-of-ai-in-education|its philosophy]], and [[theory-development-aied|theory development]]. The cross-cutting themes — [[human-ai-collaboration|human–AI collaboration]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[sustainability|sustainability]], and [[computational-thinking|computational thinking]] — cut across every strand, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]].
 
 ## Learning and instruction
 
@@ -95,15 +95,15 @@ AI transforms both how we assess learners and how we evaluate AI systems themsel
 AI in education changes the roles of every stakeholder. The knowledge base's [[stakeholders|Stakeholders in AI education]] page is the umbrella covering all of them:
 
 - **Learners:** [[student-experience|student experience]], [[career-development-and-readiness|career development and readiness]], and [[ai-anxiety-and-stress|AI anxiety and stress]] shape how students encounter AI.
-- **Teachers:** [[teacher-ai-competency|teacher AI competency]], [[tpack|technological pedagogical content knowledge (TPACK)]], [[educational-development|educational development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
-- **Institutions:** [[administrator|Administratorss]], [[educational-policy-ai|educational AI policy]], [[governance|AI governance]], [[guardrails]], [[regulation|AI regulation]], [[privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], [[lifelong-learning|professional and lifelong learning]], and [[professional-training|professional training]] cover the institutional and societal layer.
+- **Instructors:** [[teacher-ai-competency|teacher AI competency]], [[tpack|technological pedagogical content knowledge (TPACK)]], [[educational-development|educational development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
+- **Institutions:** [[administrator|Administratorss]], [[educational-policy-ai|educational AI policy]], [[governance|AI governance]], [[technology-acceptance-model|technology adoption]], [[regulation|AI regulation]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[lifelong-learning|professional and lifelong learning]], and [[professional-training|professional training]] cover the institutional and societal layer.
 
 ## Equity, ethics, and responsible use
 
 Fairness, access, and responsibility are central to AI in education:
 
 - **Equity and access:** [[equity-in-ai-education|Equity]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[multilingual-learning|multilingual learning]], [[inclusive-learning|inclusive learning]], [[accessibility]], [[assistive-technology|assistive technology]], [[neurodiversity]], [[universal-design-for-learning|universal design for learning]], and [[global-south|Global South]] studies.
-- **Ethics and responsibility:** [[ethics|AI ethics]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ai-sycophancy|AI sycophancy]], [[trust|Trust]], [[trust-calibration|trust calibration]], [[reducing-ai-misuse|reducing AI misuse]], [[framing-ai-use-for-students|how AI use is framed for students]], [[cognitive-offloading|cognitive offloading]], [[critical-thinking|critical thinking]], and [[critical-pedagogy|critical pedagogy]].
+- **Ethics and responsibility:** [[ethics|AI ethics]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[ai-use-disclosure|AI use disclosure]], [[guardrails]], [[privacy]], [[hallucination-risk|hallucination risk]], [[ai-sycophancy|AI sycophancy]], [[trust|Trust]], [[trust-calibration|trust calibration]], [[reducing-ai-misuse|reducing AI misuse]], [[framing-ai-use-for-students|how AI use is framed for students]], [[cognitive-offloading|cognitive offloading]], [[critical-thinking|critical thinking]], and [[critical-pedagogy|critical pedagogy]].
 
 ## Emergent and cross-cutting themes
 
