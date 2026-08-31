@@ -1,5 +1,5 @@
 // Generate a book-cover image for the EPUB: title, concept map (white
-// background), "Edited by Doug Holton", CC0 badge, and generation date.
+// background), and CC0 badge.
 // Output: public/epub-cover.png (portrait, 1200x1800).
 import sharp from 'sharp';
 import { fileURLToPath } from 'node:url';
@@ -8,7 +8,6 @@ import { readFileSync } from 'node:fs';
 
 const root = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const OUT = path.join(root, 'public', 'epub-cover.png');
-const TODAY = 'August 30, 2026';
 
 function b64(p){ return readFileSync(p).toString('base64'); }
 const cc0B64 = b64(path.join(root, 'public', 'cc0.png'));
@@ -57,11 +56,7 @@ const svg=`<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.or
 
 <image x="${(COVER_W-cmapW)/2}" y="330" width="${cmapW}" height="${cmapH}" xlink:href="data:image/png;base64,${cmapB64}"/>
 
-<text x="600" y="1180" text-anchor="middle" fill="#0b1220" font-size="40" font-weight="600" font-family="Georgia,serif">Edited by Doug Holton</text>
-
 <image x="${(COVER_W-140)/2}" y="1260" width="140" height="49" xlink:href="data:image/png;base64,${cc0B64}"/>
-
-<text x="600" y="1400" text-anchor="middle" fill="#374956" font-size="30" font-family="Georgia,serif">${TODAY}</text>
 </svg>`;
 
 await sharp(Buffer.from(svg)).png().toFile(OUT);

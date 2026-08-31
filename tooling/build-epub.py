@@ -291,7 +291,6 @@ def build_epub():
     cmd = [
         'pandoc', md_path, '-o', OUT,
         '--metadata', 'title=AI in Education Knowledge Base',
-        '--metadata', 'author=Edited by Doug Holton',
         '--metadata', 'rights=CC0 1.0 Universal Public Domain Dedication',
         '--metadata', 'lang=en',
         '--metadata', f'date={date_str}',
@@ -479,7 +478,6 @@ def build_pdf():
         'pandoc', md_path, '-o', PDF_OUT,
         '--pdf-engine=weasyprint',
         '--metadata', 'title=AI in Education Knowledge Base',
-        '--metadata', 'author=Edited by Doug Holton',
         '--metadata', 'lang=en',
         '--metadata', f'date={date_str}',
         '--toc', '--toc-depth=3',
