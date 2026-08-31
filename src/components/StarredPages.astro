@@ -22,10 +22,11 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
   return { key, kind: parts[0], slug: parts[1], title: titles[parts[1]] || parts[1] };
 });
 ---
-<details class="starred-pages" open data-state-key="starred">
-  <summary class="starred-summary">
-    <span>★ Starred</span>
-  </summary>
+<div class="starred-pages">
+  <div class="sidebar-heading starred-heading">
+    <span class="starred-title">★ Starred</span>
+    <span class="starred-count" data-starred-count>0 starred</span>
+  </div>
 
   <div class="starred-groups" data-starred-groups data-titles={JSON.stringify(titles)}>
     <details class="starred-group" open data-starred-group="concept" data-state-key="starred-group:concept">
@@ -47,28 +48,30 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
       <ul class="starred-list" data-starred-list="article"></ul>
     </details>
   </div>
-</details>
+</div>
 
 <style>
   .starred-pages {
     margin: 0 0 1rem 0;
-    border: 1px solid var(--card-border-color);
-    border-radius: 8px;
-    background: var(--card-background-color);
   }
-  .starred-summary {
-    display: flex;
-    align-items: center;
-    padding: 0.5rem 0.75rem;
-    cursor: pointer;
-    font-weight: 600;
-    font-size: 0.85rem;
+  .starred-heading {
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 1px solid var(--card-border-color);
+  }
+  .starred-title {
+    font-size: 1.05rem;
+    font-weight: 700;
     color: var(--color);
-    list-style: none;
   }
-  .starred-summary::-webkit-details-marker { display: none; }
+  .starred-count {
+    display: block;
+    font-size: 0.78rem;
+    color: var(--muted-color);
+    margin-top: 0.2rem;
+  }
 
-  .starred-groups { border-top: 1px solid var(--card-border-color); padding: 0.25rem 0 0.5rem 0; }
+  .starred-groups { padding: 0.25rem 0 0.5rem 0; }
   .starred-group { margin: 0; }
   .starred-group > summary {
     cursor: pointer;
@@ -106,6 +109,7 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
 
   const groups = document.querySelector<HTMLElement>('[data-starred-groups]');
   if (!groups) throw new Error('starred groups missing');
+  const countEl = document.querySelector<HTMLElement>('[data-starred-count]');
 
   let titles: Record<string, string> = {};
   try {
@@ -122,6 +126,7 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
 
   const render = () => {
     const keys = starredStore.get();
+    if (countEl) countEl.textContent = `${keys.length} starred`;
     const byKind: Record<string, string[]> = { concept: [], faq: [], article: [] };
     for (const key of keys) {
       const kind = key.split('/')[0];
