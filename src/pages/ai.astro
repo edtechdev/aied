@@ -1,8 +1,9 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import siteConfig from '../config/siteConfig';
 ---
 
-<BaseLayout title="Use This Knowledge Base with Your Own AI Assistant" description="Copy-paste prompt for using the AI in Education Knowledge Base with your own chatbot or agent.">
+<BaseLayout title="Use This Knowledge Base with Your Own AI Assistant" description={`Copy-paste prompt for using the ${siteConfig.name} with your own chatbot or agent.`}>
   <h1>Use This Knowledge Base with Your Own AI Assistant</h1>
 
   <p style="line-height:1.7">

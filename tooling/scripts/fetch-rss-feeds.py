@@ -7,9 +7,15 @@ import re
 import sys
 import html
 import time
+import os
 from datetime import datetime, timedelta
 from urllib.request import urlopen, Request
 from xml.etree import ElementTree as ET
+
+# Single source of truth for site-wide metadata (site URL, name, base path).
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'site.config.json'), encoding='utf-8') as _cfg:
+    SITE = json.load(_cfg)
+SITE_URL = SITE['url']
 
 FEEDS = {
     "caeai": {
@@ -339,7 +345,7 @@ def main():
     for key, feed in FEEDS.items():
         try:
             req = Request(feed['url'], headers={
-                'User-Agent': 'Mozilla/5.0 (AIEdWiki/1.0; +https://edtechdev.github.io/aied)',
+                'User-Agent': f'Mozilla/5.0 (AIEdWiki/1.0; +{SITE_URL})',
                 'Accept': 'application/rss+xml, application/xml'
             })
             with urlopen(req, timeout=30) as resp:

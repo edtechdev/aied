@@ -1,5 +1,6 @@
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
+import siteConfig from '../config/siteConfig';
 
 // The @astrojs/rss library always reformats a passed `pubDate` to UTC/GMT
 // (it calls `.toUTCString()`), which shifts an Eastern-evening timestamp to
@@ -27,12 +28,12 @@ export async function GET() {
     .slice(0, 40);
 
   return rss({
-    title: 'AI in Education Knowledge Base',
-    description: 'AI in Education Research — research article summaries and concept syntheses',
-    site: 'https://edtechdev.github.io',
+    title: siteConfig.name,
+    description: `${siteConfig.name} — research article summaries and concept syntheses`,
+    site: siteConfig.url.replace(/\/aied$/, ''),
     items: pages.map(a => ({
       title: a.data.title,
-      link: `/aied/articles/${a.id.replace('.md', '')}`,
+      link: `${siteConfig.basePath}/articles/${a.id.replace('.md', '')}`,
       pubDate: new Date(a.data.created),
       customData: `<pubDate>${toRfc822Local(a.data.created)}</pubDate>`,
       description: (a.body || '').split('\n').filter(l => l.startsWith('>')).join(' ').slice(0, 500)

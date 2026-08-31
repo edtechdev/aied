@@ -12,6 +12,7 @@
  * /aied/articles/* produce no previous/next navigation.
  */
 import { conceptIndex } from '../data/conceptIndex';
+import siteConfig from '../config/siteConfig';
 
 export interface NavItem {
   label: string;
@@ -29,23 +30,23 @@ export function buildNavItems(
   faqs: { slug: string; title: string }[],
 ): NavItem[] {
   const items: NavItem[] = [
-    { label: 'AI in Education Knowledge Base', url: '/aied/' },
-    { label: 'Use This Knowledge Base with Your Own AI Assistant', url: '/aied/ai' },
+    { label: siteConfig.name, url: `${siteConfig.basePath}/` },
+    { label: 'Use This Knowledge Base with Your Own AI Assistant', url: `${siteConfig.basePath}/ai` },
   ];
 
   for (const section of conceptIndex) {
     for (const group of section.groups) {
       for (const slug of group.items) {
         const title = conceptTitles[slug];
-        if (title) items.push({ label: title, url: `/aied/concepts/${slug}/` });
+        if (title) items.push({ label: title, url: `${siteConfig.basePath}/concepts/${slug}/` });
       }
     }
   }
 
-  items.push({ label: 'Frequently Asked Questions', url: '/aied/faq' });
+  items.push({ label: 'Frequently Asked Questions', url: `${siteConfig.basePath}/faq` });
 
   for (const f of faqs) {
-    items.push({ label: f.title, url: `/aied/faqs/${f.slug}/` });
+    items.push({ label: f.title, url: `${siteConfig.basePath}/faqs/${f.slug}/` });
   }
 
   return items;
