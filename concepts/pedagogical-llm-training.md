@@ -1,7 +1,7 @@
 ---
 title: Training Pedagogical LLMs for Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [llm, intelligent-tutoring, adaptive-learning, benchmark, ai-education, higher-ed, generative-ai, student-experience, scaffolding, k-12]
 research_method: [benchmark]
@@ -19,6 +19,8 @@ confidence: high
 - EduQwen's training explicitly rewards 'guiding' over 'answering.' Before reading the methods, can you think of how you'd tell an AI to prefer guiding—and how you'd measure whether it actually did?
 - The page shows classical design theory (ADDIE) combined with flexible reasoning beat both pure theory and pure technique. Why might 'structure plus flexibility' outperform either alone when an AI designs instruction?
 - Training pedagogy into a model costs time, data, and compute. For your context, what would convince you the investment is worth it versus just prompting a general-purpose model with 'act like a tutor'?
+
+## Introduction
 
 General-purpose LLMs are optimized for helpfulness: users want quick, correct answers. Tutoring requires the opposite: the goal is **not to provide the answer, but to help the student get to the answer themselves**. This creates a fundamental incentive mismatch.
 

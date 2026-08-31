@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor]
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
@@ -19,6 +19,8 @@ confidence: high
 - Scaffolding that never fades creates dependency. The page notes automated scaffolds risk staying static instead of being withdrawn as competence grows. Why is 'fading' essential, and why might an AI system fail to do it if it isn't deliberately designed to?
 - The design principle is 'scaffold, do not substitute.' Students themselves asked for AI that 'does not provide any solutions for you — you still learn as you have to find the correct answer yourself.' Does that match how you've experienced effective help, or have you preferred the shortcut even while knowing it cost you?
 - Set a goal before reading: pick a task you teach, and sketch what a hint looks like that preserves the learner's effort versus an answer that removes it. How will you know your hints are in the productive-struggle zone?
+
+## Introduction
 
 ### How scaffolding appears in AIED
 

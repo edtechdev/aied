@@ -1,7 +1,7 @@
 ---
 title: Refutation Text
 created: "2026-08-26T10:20:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [misconceptions, cognitive-psychology, scaffolding, science-education, metacognition, generative-ai, learning-theories]
 discipline: [science education]
@@ -18,6 +18,8 @@ confidence: high
 - AI can now generate effective refutation texts that match expert-written quality, and even generate misconceptions to seed structured peer discussion. Does the idea of deliberately teaching from AI-generated wrong ideas feel risky or productive to you — and under what conditions would you try it?
 - Refutation effects appear concentrated among high-achieving students and moderated by epistemology and metacognition. If the technique helps the strong most, what obligations does that create for an instructor using it with a mixed classroom?
 - Before you read further, name one misconception you currently hold about a subject you teach, and imagine writing the explicit 'wrong' claim and its refutation yourself. What did that exercise reveal about how hard good refutation is to write?
+
+## Introduction
 
 ### The concept
 

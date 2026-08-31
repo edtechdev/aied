@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk]
 
@@ -16,6 +16,8 @@ confidence: high
 - Unlike earlier rule-based or retrieval-based systems, generative models create new content rather than retrieving stored answers. How does that shift change the risks — hallucination, over-reliance, academic integrity — compared to a search engine?
 - With 80+ articles, generative AI is the largest thread in this knowledge base, spanning tutoring, assessment, content generation, and safety. Which application do you think is the most promising for learning, and which the most dangerous — and why?
 - The same technology that can generate a Socratic tutorial can also produce a 'correct-answer trap' that encourages copying. What design choices might separate generative AI that scaffolds learning from generative AI that short-circuits it?
+
+## Introduction
 
 ### What makes generative AI different for education
 

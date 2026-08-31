@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [self-determination-theory, motivation, student-experience, affective-computing, teacher-ai-competency, ai-education]
 audience: [learners]
@@ -18,6 +18,8 @@ confidence: high
 - Need-supportive professional development for teachers enhanced their AI literacy and sustained engagement. Does this suggest that how we *train* educators about AI matters as much as what the AI itself does? What would 'autonomy-supportive' AI training for you personally look like?
 - A study found ChatGPT could support autonomy, relatedness, and competence in language learning. But could the same tool undermine those needs for a different learner? What would need to be true about *how* it's used for the theory to hold?
 - Before reading further, name one way you've felt your own competence, autonomy, or sense of connection affected by using an AI tool — and reflect on whether you'd have noticed that change without being prompted to look for it.
+
+## Introduction
 
 SDT is increasingly used in AI in education research as a theoretical lens for both learner-facing and teacher-facing AI systems. The theory's central claim — that motivation is not simply a quantity learners have but a quality shaped by the social and technological environment — makes it directly relevant to questions about how AI tools affect [[student-engagement|engagement]], persistence, and [[learning-gains|learning outcomes]]. The articles in this knowledge base apply SDT across three main contexts: teacher professional development, AI-mediated learning engagement, and affective computing.
 

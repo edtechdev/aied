@@ -1,7 +1,7 @@
 ---
 title: "Community of Inquiry"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [online-teaching-and-learning, higher-ed, generative-ai, pedagogy, critical-thinking]
 level: [higher ed]
@@ -17,6 +17,8 @@ confidence: high
 - If an AI chatbot writes fluent, empathetic-sounding replies in a discussion forum, is 'social presence' happening? Or is presence something only humans can genuinely create?
 - Generative AI can produce explanations so coherent they feel obviously right — but coherence isn't the same as correctness. Where have you seen 'fluency mistaken for warrant,' and how would you guard against it in an inquiry course?
 - This framework suggests presences are 'sociotechnical accomplishments' of human-and-AI working together rather than purely human activity. Does that reframe who you hold accountable when an online discussion goes shallow or goes well?
+
+## Introduction
 
 ## The three presences
 

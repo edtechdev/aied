@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, metacognition, cognitive-offloading, academic-integrity, generative-ai, student-experience, teacher-role]
 audience: [learners, instructors]
@@ -19,6 +19,8 @@ confidence: high
 - Misconceptions about academic integrity cluster at two extremes: some students treat AI output as 'not copying a person' and so permissible, while others think any use is cheating. Where do you think the line should fall, and who should decide it?
 - A common belief is that one query is enough and that AI output is deterministic — the same question always yields the same answer. The page describes this as the determinism error. How might that misconception lead someone to over-trust a single output?
 - Misconceptions are described as stable, plausible, and resistant to correction — much like misconceptions in any domain. If simply telling people the truth rarely changes their minds, how should AI literacy actually be taught?
+
+## Introduction
 
 Misconceptions about AI matter because they are the cognitive precursor to the harmful behaviors the knowledge base documents under [[cognitive-offloading|Over-Reliance]] and [[academic-integrity]] concerns. People rarely set out to [[ai-misuse-learning-harm|misuse]] AI; they do so because inaccurate mental models lead them to misplace trust, skip verification, and treat output as understanding. In education these errors shape everything from how students study to how teachers and institutions design curricula, assessment, and policy.
 

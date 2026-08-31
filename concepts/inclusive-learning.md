@@ -1,7 +1,7 @@
 ---
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [inclusive-learning, equity-in-ai-education, special-education, learning-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
 level: [special education, higher ed]
@@ -19,6 +19,8 @@ confidence: high
 - AI systems are described as risking new accessibility gaps even as they remove old ones. What kind of learner might a text-based, visual, always-online AI tool silently exclude?
 - Inclusive assessment research exposes a tension between anti-cheating measures and accommodating learners with visual-processing needs. When security and accessibility conflict, how should the trade-off be decided — and by whom?
 - Several tools invert the assumption that edtech must be visual — e.g., voice-first companions for visually impaired learners. What assumptions about the 'default' learner might your own tools or materials be making?
+
+## Introduction
 
 ## How the related concepts fit together
 

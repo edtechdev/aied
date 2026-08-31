@@ -1,7 +1,7 @@
 ---
 title: Affective Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [student-experience, higher-ed, llm, generative-ai, learning-analytics, k-12, cognitive-offloading, adaptive-learning, personalized-learning, intelligent-tutoring]
 audience: [learners]
@@ -20,6 +20,8 @@ confidence: medium
 - Facial expression and text can both signal emotion. Should a tutor adapt its teaching based on your emotional state — and what kinds of emotional inference would you want it to act on versus never act on?
 - If AI relieves your frustration by reducing difficulty too readily, you might stop struggling productively — and struggle is often where deep learning happens. How should a tutor decide when to comfort and when to challenge?
 - Continuous affective monitoring raises real privacy questions. Under what conditions would you be comfortable with an AI reading your emotions in order to adapt your learning?
+
+## Introduction
 
 ### Sensing emotion to adapt instruction
 

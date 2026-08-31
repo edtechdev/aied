@@ -1,7 +1,7 @@
 ---
 title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed]
 level: [higher ed]
@@ -18,6 +18,8 @@ confidence: high
 - Ethics frameworks increasingly harden into binding rules, and safety requirements act as de facto regulation. Do you see ethical principles becoming enforceable rules as progress, or as a way to appear accountable without real teeth — and how would you tell the difference?
 - The knowledge base documents a persistent 'governance gap' between deployment speed and regulatory maturity, uneven across jurisdictions and educational levels. As a teacher or developer, how does an inconsistent regulatory environment affect your day-to-day decisions about what AI to use?
 - Student regulatory awareness research asks whether learners actually know and follow the rules. Before you read, how well do you think most students understand the AI rules they're bound by — and whose responsibility is it when they don't?
+
+## Introduction
 
 Regulation is the legal and policy layer of AI [[governance]]: it sets the binding rules, standards, and enforcement mechanisms that institutional governance translates into practice. Where governance is the broad framework of norms and structures, regulation provides the authoritative rules — from national AI laws and [[privacy|data-protection]] statutes to institutional acceptable-use policies and professional guidelines. A recurring theme in the knowledge base's research is that regulation lags behind AI deployment, leaving institutions to improvise governance in the gap.
 

@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [ai-save-instructor-time]
 type: concept
 tags: [ai-feedback-quality, formative-assessment, automated-assessment, feedback, generative-ai, ai-literacy]
@@ -19,6 +19,8 @@ confidence: high
 - Feedback quality and revision depth are linked: scaffolding how students engage with AI feedback shifts them toward argument-level improvement rather than surface edits. How does the way you receive feedback change what you do with it?
 - Sycophantic feedback conflates support with agreement — an AI that validates your answer rather than challenging it undermines feedback's corrective function. When does feedback need to challenge you rather than comfort you?
 - Confidence calibration matters: a system that knows when it's uncertain gives better feedback than one that's confidently wrong. How should a tool signal its uncertainty to you, and how would you use that signal?
+
+## Introduction
 
 AI feedback quality is not simply about correctness. Effective feedback must be timely, specific, actionable, and calibrated to the learner's current understanding. Research in this knowledge base examines AI feedback quality across multiple dimensions: accuracy (is the feedback correct?), usefulness (does it help the student improve?), and pedagogical alignment (does it promote learning rather than just task completion?).
 

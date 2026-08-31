@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [educational-policy-ai, ethics, higher-ed, change-management, privacy, regulation, ai-education]
 level: [higher ed]
@@ -18,6 +18,8 @@ confidence: high
 - Governance is described as operating at national, institutional, and classroom levels. Think of one AI rule in your context: who set it, how is it communicated and enforced, and how well do those levels align?
 - One framework reframes AI governance as a collective-action problem of sustaining shared expertise — the 'cognitive commons.' How does protecting a profession's collective knowledge pool change how you think about AI governance versus just regulating a tool?
 - The page warns that mandatory AI-use declarations fail when they feel punitive or ambiguous. When have you seen a compliance rule backfire because people didn't understand or trust it — and what did that teach you about governance?
+
+## Introduction
 
 AI governance in education is increasingly urgent because [[generative-ai|generative AI]] introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, [[agency|learner agency]], [[assessment]] validity, and the [[teacher-role|role of educators]] as epistemic authorities. Governance addresses questions of [[academic-integrity|academic integrity]] (what counts as acceptable AI use), [[privacy|data privacy]] and security, [[bias-mitigation|algorithmic bias]] and fairness, transparency and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the knowledge base's research is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
 

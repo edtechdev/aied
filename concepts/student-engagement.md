@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, student-engagement]
 audience: [learners]
@@ -19,6 +19,8 @@ confidence: high
 - Engagement is broken into behavioral, cognitive, and affective dimensions that can diverge. Why do you think researchers insist on treating these separately rather than as one thing, and what would you measure to tell them apart?
 - The research suggests deep cognitive engagement with AI predicts learning, while shallow engagement predicts over-reliance. If a tool is 'engaging' but shallow, who is at fault — the design, the task, or the learner?
 - How might an AI tool satisfy autonomy, competence, and relatedness (the needs behind engagement) without those features turning into shallow entertainment that displaces real learning?
+
+## Introduction
 
 Engagement is a multidimensional construct rooted in educational psychology. **Behavioral engagement** refers to participation, effort, persistence, and on-task activity. **Cognitive engagement** refers to the depth of mental processing — elaboration, critical analysis, self-regulation, and the investment of mental effort. **Affective engagement** refers to emotional reactions such as interest, enjoyment, anxiety, and identification with learning. These dimensions can diverge: a student may be behaviorally active (clicking, spending time) while cognitively shallow (passively accepting output), or affectively interested while behaviorally distracted. This multidimensionality is why engagement must not be equated with any single observable behavior.
 

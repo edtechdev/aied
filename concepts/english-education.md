@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [english-education, language-learning, writing-education, higher-ed, k-12, generative-ai, ai-feedback-quality, automated-assessment, equity-in-ai-education, academic-integrity]
 discipline: [english education, language learning, writing education]
@@ -17,6 +17,8 @@ confidence: high
 - English for Academic Purposes (EAP) centers on genre-based academic writing, corrective feedback, and academic register — distinct from general language learning or general writing instruction. Why might the specific register of academic English change what AI tools need to do versus generic writing support?
 - If the AI that revises your English is itself strongest in the very 'standard academic English' you're trying to master, when does that help and when does it flatten your own voice or dialect? How would you tell the difference?
 - Automated feedback and AI tutors are increasingly common in English writing and speaking instruction. What might AI feedback miss about communicative competence, register, and audience that a human instructor or peer would catch?
+
+## Introduction
 
 English is one of the most AI-affected discipline strands because [[llm|LLMs]] are English-dominant: they are strongest at generating, revising, and evaluating English text, which is exactly what EAP and EFL/ESL instruction centers on. That English-advantage creates a distinctive double edge — powerful [[scaffolding]] for academic English on one hand, and an entrenched bias toward standard academic English that can marginalize multilingual learners on the other.
 

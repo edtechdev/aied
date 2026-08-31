@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity-in-ai-education]
 audience: [instructors, learners, faculty development, administrator]
@@ -22,6 +22,8 @@ confidence: high
 - This knowledge base organizes the field into strands: pedagogy, learning theories, technologies, disciplines, assessment, feedback, stakeholders, and governance. If you were mapping your own use of AI, which strand would you find yourself in?
 - AIED includes teaching students to use AI critically as a goal in itself. In your context, is AI treated more as a subject to be taught or a tool to be used — and does that balance reflect what learners actually need?
 - Students may learn AI literacy by using AI critically, not just by learning about AI. How might hands-on, critical use build understanding that passive instruction cannot?
+
+## Introduction
 
 AI in education is the umbrella that all other concept pages collectively define. The knowledge base organizes the field into the major strands below, each linking to the relevant concept pages.
 

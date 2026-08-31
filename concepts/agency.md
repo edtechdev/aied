@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 audience: [learners]
@@ -19,6 +19,8 @@ confidence: high
 - One study found students' prior self-initiated AI learning predicted how much they gained from instruction — high-agency learners benefited most. If agency is partly a skill you bring in, how could your own context build it rather than assume it?
 - Agency is not just a trait — it emerges moment-to-moment in group work, where AI can redistribute who shapes a collaboration without learners noticing. When did you last notice a tool silently steering a group's direction?
 - Contrarian AI personas could push groups into productive challenge but also reduced teamwork satisfaction and psychological safety. Can productive friction exist without psychological safety — and what does that imply for designing AI teammates?
+
+## Introduction
 
 Agency matters because learning is most effective when learners are active, intentional participants rather than passive recipients. AI systems — whether tutoring agents, [[educational-robotics|robots]], or [[llm|chatbots]] — shape how much control learners retain over their learning process. Preserving agency is therefore a key design principle in responsible AI in education, alongside supporting [[self-efficacy]], building [[trust]], and avoiding [[cognitive-offloading|Over-Reliance]].
 

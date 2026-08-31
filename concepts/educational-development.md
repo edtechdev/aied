@@ -1,7 +1,7 @@
 ---
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design]
@@ -20,6 +20,8 @@ confidence: high
 - Readiness frameworks like EPIQ-AI split faculty readiness into epistemic, pedagogical, institutional, and quality-and-compliance domains. If readiness is a sociotechnical alignment problem rather than an individual skills gap, what does that say about where a lone 'AI workshop' is likely to fall short?
 - When have you felt your own assumptions about a new technology surfaced and shifted — through discussion, metaphor, or shared language rather than instruction? What role do you think shared language and metaphor-analysis play in helping educators make sense of AI?
 - Consider a low-tech 'metaphor workshop' where faculty, staff, and students articulate whether AI feels like a Swiss army knife, a helper, a black box, or a competitor. Could surfacing fears (including the fear that AI will replace teaching roles) do more for adoption than more technical training?
+
+## Introduction
 
 ## Educational development in the AI era
 

@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education]
@@ -20,6 +20,8 @@ confidence: high
 - The page argues that even when an LLM scores well, transferring human score interpretations requires similarity in the latent structure of responses — and LLMs diverge from humans here. What does this suggest about trusting an AI that 'passes' an exam designed for humans?
 - Rather than trying to detect AI use, the knowledge base argues for redesigning assessments so they stay valid for AI-capable students. Why might redesigning the task be a more validity-preserving strategy than policing whether AI was used?
 - AI now serves as test-taker, test-maker, rater, and analyst — making the interpretive chain opaque. When every role in an assessment is filled by AI, what does it even mean to say an assessment is 'valid' for the human learner in the middle of it?
+
+## Introduction
 
 ### Validity challenges
 

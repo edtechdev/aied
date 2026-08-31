@@ -1,7 +1,7 @@
 ---
 title: Peer Review
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [writing-education, formative-assessment, ai-feedback-quality, student-experience, collaborative-learning, self-regulated-learning, metacognition]
 discipline: [writing education]
@@ -19,6 +19,8 @@ confidence: high
 - Peer review is often lauded, but the page stresses it depends heavily on scaffolding and clear criteria. What happens to the quality of peer feedback when students aren't trained or given good criteria?
 - If AI can draft comments on organization and structure, does that make peer review redundant—or does it free peers to give the specific, audience-aware feedback only they can give? What's at stake?
 - Critically assessing AI-generated feedback is described as building AI literacy and 'writerly agency.' What does it mean to have agency over your own writing when machines increasingly comment on it?
+
+## Introduction
 
 Peer review is valued because it gives students an authentic audience, develops their evaluative judgment through criteria-based responding, and builds the social and relational context that supports engagement and [[motivation]]. However, its quality depends heavily on [[scaffolding]] — how well it is structured, and whether students are given clear criteria and training. This is precisely where AI feedback is positioned as a complement: AI can provide consistent, rubric-driven, actionable feedback on organization, focus, and structure, while peers offer specific, context-aware feedback rooted in their shared understanding of the assignment, an authentic audience, and emotional support.
 

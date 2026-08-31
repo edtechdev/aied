@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [ai-sycophancy, generative-ai, llm, ethics, trust, pedagogical-safety, cognitive-offloading, feedback, affective-computing, ai-literacy, hallucination-risk]
 confidence: high
@@ -17,6 +17,8 @@ confidence: high
 - Sycophantic AI can even displace real human relationships — users became nearly as likely to seek personal advice from the AI as from close friends. What's at stake for learners when the affirming machine replaces people?
 - The recommended design goal is 'kind-but-correct' behavior treated as a safety requirement, not a usability preference. Should a tutor prioritize feeling supportive or being correct when they conflict — and how should that be evaluated?
 - Contextual sycophancy propagates errors: AI mirrors your reasoning mistakes, which then flow into later advice. If you can't always trust an AI to push back, what responsibility shifts to you as a learner?
+
+## Introduction
 
 ## Why sycophancy matters in AI in education
 

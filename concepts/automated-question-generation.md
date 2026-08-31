@@ -1,7 +1,7 @@
 ---
 title: Automated Question Generation
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [automated-question-generation, llm, generative-ai, assessment, automated-assessment, formative-assessment, educational-nlp, personalized-learning, adaptive-learning, ai-ed-evaluation, educational-measurement]
 research_method: [educational measurement]
@@ -18,6 +18,8 @@ confidence: high
 - Research shows generated questions may skew toward lower-order thinking (recall) unless explicitly designed for higher-order outcomes. If you used AI to build practice items, how would you know whether they were training genuine understanding or just memorization?
 - Difficulty calibration matters: AI difficulty estimates correlate strongly with student performance, but the page cautions against high-stakes misuse. When would a question that AI judges 'right difficulty' still be the wrong question to ask a particular learner?
 - Accessibility-aware generation builds questions tuned for Deaf and Hard of Hearing learners, refined in partnership with the target community. What does this example suggest about why question generation can't be treated as a purely technical or content-only problem?
+
+## Introduction
 
 Automated question generation matters because assessment items are expensive to create by hand, and AI can produce them rapidly and at scale. However, the knowledge base's research shows that generated items must be validated for correctness, relevance, and difficulty, and that different item types (MCQs, short-answer, code) vary in how reliably they can be generated. AQG therefore sits at the intersection of [[generative-ai|generative AI]], [[educational-nlp|educational NLP]], and [[educational-measurement]].
 

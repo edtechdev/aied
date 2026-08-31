@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [faculty-ai-competencies]
 type: concept
 tags: [ai-literacy, educational-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy]
@@ -19,6 +19,8 @@ confidence: high
 - The research documents a gap between teachers' self-perceived and actual AI skill. Why do you think people overestimate their readiness, and what would it take to close that gap honestly?
 - An intensive professional-development program produced large gains in AI pedagogical skill in the research cited, suggesting technical-pedagogical skill is trainable. If that's true, why do so many teachers still seem unprepared — what's standing in the way?
 - If a teacher can 'use AI well,' what does 'well' mean to you — and how would you know a teacher has achieved it rather than just adopted the tool?
+
+## Introduction
 
 Teacher AI competency matters because the teacher is the decisive factor in whether AI improves learning. Research consistently shows that AI tools only translate into better outcomes when teachers can plan for them, scaffold student use, evaluate outputs, and integrate them into coherent instruction. The knowledge base's literature examines the *dimensions* of this competency, the *gaps* between self-perception and actual skill, and the *professional development* that builds it.
 

@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [student-modeling, knowledge-tracing, cognitive-diagnosis, simulating-students, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring, llm]
 confidence: high
@@ -16,6 +16,8 @@ confidence: high
 - Every adaptive AI depends on some model of the learner. If a model is only as good as the evidence feeding it, what evidence do you think AI systems actually have about a student, and what important things about them remain invisible?
 - A model might capture what a student gets right and wrong but not why, or not how they feel. How could a learner model mislead an adaptive system in ways that harm rather than help the student?
 - If you were designing an adaptive tutor, what would you want its model of you to include — and what would you want it explicitly forbidden from assuming?
+
+## Introduction
 
 Learner modeling is the computational representation of learners; adaptive instruction is what systems do with that representation. Every adaptive AI in education depends on some model of the learner — even a lightweight one — and every learner model exists to inform some instructional decision. This page is the umbrella for that pipeline: the modeling methods, the systems that act on models, and how they relate.
 

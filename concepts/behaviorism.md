@@ -1,7 +1,7 @@
 ---
 title: Behaviorism
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [behaviorism, learning-theories, learning-design, adaptive-learning, intelligent-tutoring, generative-ai, higher-ed]
 level: [higher ed]
@@ -18,6 +18,8 @@ confidence: medium
 - The page warns of an educational 'Turing Trap' — using AI to replicate rather than augment human instruction. If an AI system optimizes for correct responses and efficiency, what might it quietly optimize away in a learner's active knowledge construction?
 - Behaviorist designs are described as powerful for foundational fluency — vocabulary, arithmetic, code syntax — but inadequate for higher-order, conceptual, or agentic learning on their own. Where in your own learning would a drill-and-practice AI help, and where would it actively hurt?
 - The design question posed is not whether behaviorism is 'right' but whether a given system's mechanics serve the learning goal. How would you tell whether an AI tutor's immediate-feedback, adaptive-pacing design is building genuine transferable understanding or just making observable performance look good?
+
+## Introduction
 
 Behaviorism holds that learning is the strengthening or weakening of stimulus–response connections through reinforcement, and that unobservable mental constructs are poor explanations of learning. Its applied legacy in education is **programmed instruction and drill-and-practice**: presenting content in small steps, eliciting a response, and immediately reinforcing correct answers. These principles map cleanly onto the mechanics of [[adaptive-learning]] and [[intelligent-tutoring]] systems, which adapt pacing and difficulty to student responses and provide immediate feedback.
 

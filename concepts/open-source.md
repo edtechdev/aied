@@ -1,7 +1,7 @@
 ---
 title: Open Source
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [llm, stem-education, intelligent-tutoring, learning-theories, generative-ai, ai-education, curriculum-design, professional-training, automated-assessment, writing-education]
 discipline: [stem education, writing education]
@@ -19,6 +19,8 @@ confidence: medium
 - The page notes a mid-sized open model (Qwen3-32B) trained for pedagogy can outperform far larger proprietary systems. What does that suggest about the assumption that 'bigger model = better teaching tool'?
 - Open-source makes research reproducible and enables fine-tuning for specific pedagogies, but quality and safety aren't guaranteed out of the box. Who should bear responsibility for verifying an open educational model's safety before students use it?
 - If a school adopted an open, locally hosted AI tutor, what would change about procurement, maintenance, and accountability compared to buying a commercial tool? Which burden would you most worry about?
+
+## Introduction
 
 ### Why open-source AI matters in education
 

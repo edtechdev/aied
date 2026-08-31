@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 audience: [learners]
@@ -20,6 +20,8 @@ confidence: high
 - Research shows unguided reliance on AI predicts worse learning gains, while structured use predicts better ones — the same tool, opposite outcomes. What distinguishes 'structured' from 'unguided' use in a real classroom?
 - Hint buttons correlate with reduced learning: more hints, less learning. Have you ever been tempted to reach for a hint or an answer the moment you were stuck? What does that suggest about how much struggle is actually necessary for learning?
 - A large meta-analysis pooled many studies and found AI-enabled EdTech raised learning by a modest amount, with no advantage for generative AI over earlier adaptive tools. How should this cautious, pooled estimate change how you read exciting claims about a single AI product's effectiveness?
+
+## Introduction
 
 Learning gains are the ultimate test of any educational technology. In the knowledge base's research, they appear as dependent variables in [[rct|randomized controlled trials]], pre-post comparisons in quasi-experimental studies, and correlational analyses linking AI tool usage to academic outcomes.
 

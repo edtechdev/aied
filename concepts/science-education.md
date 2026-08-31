@@ -5,7 +5,7 @@ tags: [science-education, stem-education, inquiry-based-learning, generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 ---
 
 > **[[stem-education|Science education]]** — the study and practice of how students learn science and how to teach it, now being reshaped by generative AI (LLMs, simulations, virtual labs, and AI grading) across [[physics-education|physics]], chemistry, and [[biology-education|biology]]. The science-education articles in this knowledge base reveal a field negotiating a core tension: AI demonstrably supports inquiry, misconception correction, and assessment at scale, yet its value depends on instructional design, and it carries real risks of [[cognitive-offloading|over-reliance]], hallucination, and dehumanized, profit-driven learning.
@@ -18,6 +18,8 @@ updated: "2026-08-31T06:22:29-04:00"
 - AI graded 10,364 handwritten physics assessments with high agreement with human graders, yet multimodal models still show gaps on complex reasoning and diagram generation. What is it about 'authentic, representation-heavy' science work that might resist automated assessment?
 - Physics students show a striking trust–utility gap — high use, low trust — and split into pragmatic users and skeptical nonusers. If students themselves are domain-calibrated skeptics, what does that imply for one-size-fits-all policies about AI in science classrooms?
 - A critical voice warns of 'AI colonization' of science education — extraction without consent, algorithmic monoculture, dehumanized reform. Before you read, where do you think the benefits of AI in science education are being oversold, and what would a human-centered, justice-oriented alternative look like?
+
+## Introduction
 
 Science education is where AI's promise and its limits collide most visibly, because the disciplines demand rigorous [[multimodal]] reasoning — visual-spatial thinking in physics, laboratory skills in chemistry, and organism-level systems in biology — alongside well-structured, verifiable content that LLMs handle well. The eighteen articles synthesized here span all three disciplines and levels, from [[k-12]] secondary classrooms to [[higher-ed]] university courses and [[teacher-education|pre-service teacher]] programs. Across them, a consistent picture emerges: AI functions best not as an answer generator but as an embedded partner — a co-inquirer, a content generator, a virtual lab assistant — whose contribution is decided by [[learning-design|instructional design]] and the surrounding pedagogical structure.
 

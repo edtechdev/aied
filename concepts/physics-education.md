@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [physics-education, stem-education, intelligent-tutoring, generative-ai, higher-ed, student-experience, ai-literacy, socratic-method]
 discipline: [physics education, stem education]
@@ -21,6 +21,8 @@ confidence: high
 - One study found a Socratic AI chatbot dramatically improved question specificity in a live physics course, but students also frequently 'ceded strategic control' to the tutor. When does handing over strategic control help learning, and when does it harm it?
 - Why might physics be a 'proving ground' for AI in education—what makes its problems ideal for studying how AI affects reasoning and assessment?
 - Would you trust an AI to grade your physics problem set or reason through a force diagram with you? What would need to be true about the AI—and about your course—for you to say yes?
+
+## Introduction
 
 Physics education research has become a proving ground for AI in education because physics problems are well-structured yet cognitively demanding, making them ideal for studying how AI tools affect learning, reasoning, and assessment. The seven articles in this knowledge base collectively paint a picture of a field grappling with both the promise and the limits of AI — from Socratic chatbots that improve student question quality to systematic scoring biases that penalize linguistically diverse learners.
 

@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
@@ -17,6 +17,8 @@ confidence: high
 - Personalizing AI feedback with student attributes can itself become a vector for bias. How might a well-intentioned attempt to tailor feedback to an individual learner end up treating them less fairly — and how would you detect it?
 - Who holds the power in the relationship between institutions, AI systems, and learners — and how does that power imbalance shape consent, privacy, and student surveillance as analytics grow more granular?
 - Some researchers argue that protecting learners' cognitive and epistemic development — their ability to think and act independently — is itself an ethical obligation, especially as over-reliance on AI grows. Do you agree that 'preserving thinking' is an ethical duty of AI systems?
+
+## Introduction
 
 Ethics is the normative backbone of AI in education: every AI tool, policy, and [[pedagogy|pedagogical]] decision encodes assumptions about what is fair, transparent, accountable, and safe. The knowledge base treats ethics as both a set of principles (fairness, privacy, transparency, autonomy, accountability) and a set of *practices* — how stakeholders actually reason about AI, how institutions govern it, and how learners are prepared to use it responsibly. Recent [[research-methods-aied|research]] documents a double movement: on one hand, a deepening concern that principle-based "checklist" ethics is insufficient; on the other, a growing emphasis on [[situated-learning|situated]] and ecological accounts of ethical judgment, and on the structural and institutional conditions that make responsible use possible.
 

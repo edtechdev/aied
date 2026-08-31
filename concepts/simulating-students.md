@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [simulation, student-modeling, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, generative-ai, llm, teacher-role]
 audience: [instructors]
@@ -17,6 +17,8 @@ confidence: high
 - What are the ethical and practical reasons you might prefer testing a tutoring system or curriculum on simulated students rather than real ones — and what validity risks do you suspect that trade introduces?
 - A simulated student can be 'epistemically faithful' without looking superficially human. Before you read on, what distinction do you imagine between a believable surface and a truthful model of what a learner actually knows?
 - How would you decide whether a finding produced by simulated students should be trusted enough to change how you teach real people?
+
+## Introduction
 
 Simulated students are a methodological tool: agents that stand in for real learners so that tutoring systems, curricula, and instructional strategies can be evaluated and iterated without recruiting cohorts of human students. [[llm|Large language models]] have made this paradigm far more scalable and linguistically realistic than the rule-based simulated learners that preceded them, while also introducing new validity challenges.
 

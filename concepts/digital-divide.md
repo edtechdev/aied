@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity-in-ai-education, ai-literacy, accessibility, ai-education]
@@ -17,6 +17,8 @@ confidence: high
 - AI adds new layers to inequality: algorithmic bias can disproportionately harm marginalized learners, and AI literacy itself determines whether the technology widens or narrows gaps. How is this different from the divides of earlier technologies?
 - The divide also extends to WHICH communities, languages, and perspectives are represented in and served by AI systems. How is representation itself a form of access — or exclusion?
 - If closing the divide is 'a question of justice and participation,' who bears the responsibility: platforms, schools, governments, or all of them — and what would a fair distribution of AI's benefits actually look like?
+
+## Introduction
 
 The digital divide is commonly understood as operating across **three levels** (van Deursen & van Dijk, 2014): the *first-level* divide concerns access to technologies and infrastructure (connectivity, devices, supportive environments); the *second-level* divide concerns skills and competencies (the uneven capacity to use tools effectively and meaningfully); and the *third-level* divide concerns outcomes and benefits (who actually benefits from technology use, with AI potentially exacerbating social, cultural, and economic disparities). Framing AI literacy through this lens makes clear that equity requires more than closing the device-and-infrastructure gap — it requires building the skills to use AI effectively and critically so that its benefits are distributed fairly rather than reinforcing existing inequalities.
 

@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [learner-identity, adult-learning, student-experience, agency, stem-education]
 discipline: [stem education]
@@ -19,6 +19,8 @@ connected_faqs: [how-ai-impacts-students]
 - The page describes a 'competence paradox' among art and design students: AI tools feel easy and useful, yet their use threatens the creative identity students derive from manual craft. Have you ever felt your own competence or identity challenged by an easy tool? What was the tension?
 - Students sometimes hide or feel shame about their AI use, which fragments their academic identity and honest engagement. When does the pressure to appear a certain kind of learner push people to conceal how they actually learn, and what would make disclosure feel safe?
 - AI can scaffold identity formation as well as threaten it. If you were designing an AI learning companion, what specific features would protect a learner's sense of authorship and ownership while still offering support?
+
+## Introduction
 
 ## Why identity matters for AI in education
 

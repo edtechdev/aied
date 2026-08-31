@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, pedagogical-llm-training, pedagogical-safety]
 
@@ -17,6 +17,8 @@ confidence: high
 - The page contrasts RAG with fine-tuning: retrieval grounds responses in up-to-date sources without retraining, while fine-tuning embeds behaviors. If you were building a curriculum-aligned tutor, which approach would you trust for accuracy, and which for teaching style?
 - RAG is presented as the main answer to hallucination in education. But consider: if the retrieval source itself contains errors, or is outdated, can RAG still hallucinate? Where might the guarantee of 'grounded in verified content' break down in practice?
 - For a developer or instructor: what does a tutor need to 'know' beyond the textbook content — pedagogy, when to withhold answers, how to probe understanding? Where would RAG alone fail to provide that, and what would you combine it with?
+
+## Introduction
 
 ### How RAG is used in education
 

@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [assessment, automated-assessment, writing-education, generative-ai, llm, prompt-engineering, ai-literacy, higher-ed, k-12]
 discipline: [writing education]
@@ -20,6 +20,8 @@ confidence: high
 - The page warns that AI scoring can systematically underestimate students from linguistically diverse backgrounds. Before reading, if you saw an AI give a lower score to a non-native speaker's essay, would you have assumed it was a 'bias problem' or just 'the score'? What would change how you respond?
 - A self-referential approach assesses L2 writers by comparing their writing to their own prior work rather than to native-speaker norms. How does the choice of comparison baseline change what a score means — and which students might it treat more fairly?
 - AES intersects with formative assessment when used for feedback rather than grading. When would a machine's feedback on an essay be genuinely useful to a developing writer, and when might it flatten the kinds of qualitative feedback a human editor would give?
+
+## Introduction
 
 Automated Essay Scoring has a long history in educational technology, from early statistical models to modern LLM-based approaches that can evaluate essays holistically without large pre-scored datasets. The key tension in AES research is between accuracy and accessibility — while fine-tuned models achieve strong results, they are resource-intensive and impractical for most educators.
 

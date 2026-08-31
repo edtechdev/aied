@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [collaborative-learning, ai-education, student-experience, scaffolding, equity-in-ai-education, k-12, higher-ed]
 audience: [learners]
@@ -19,6 +19,8 @@ confidence: high
 - One study found AI mediators are trusted only while they stay neutral; when the AI shifts to advising or challenging, that trust erodes. How neutral should a group's AI mediator really be?
 - When learners use AI to produce a polished artifact, they may skip the epistemic effort that builds understanding. How would you design an AI partner that surfaces disagreement and conflict instead of smoothing it over?
 - Neurodivergent students report needing structured assignments, small consistent teams, and explicit roles. If AI collaboration tools are built for the 'average' learner, who might they leave out — and how would you design differently?
+
+## Introduction
 
 Collaborative learning is grounded in [[sociocultural-learning|sociocultural theories]] of learning that position knowledge construction as fundamentally social. AI introduces new dynamics: AI can serve as a peer, a facilitator, or a participant in collaborative processes. The articles in this knowledge base explore how AI-mediated collaboration affects learning outcomes, epistemic engagement, and [[equity-in-ai-education|equity]] — and how collaborative structures must be designed to accommodate diverse learners.
 

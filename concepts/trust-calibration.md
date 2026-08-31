@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [ai-literacy, cognitive-offloading, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
 audience: [learners]
@@ -19,6 +19,8 @@ confidence: high
 - The page suggests calibration depends on context: verifying more where errors are costly, less where they're benign. Where in your own work or study is the cost of a wrong answer highest, and how would you adjust your verification effort accordingly?
 - Research models trust as shaped not just by individual judgment but by your social environment — what peers and networks do. Think of a time a classmate, colleague, or online community persuaded you an AI was (or wasn't) reliable. Did you calibrate based on evidence or on that social signal?
 - One finding: telling students an AI tutor may make mistakes actually increased how much they used it. Why might being warned about fallibility make people *more* willing to engage — and what does that suggest about how honesty about AI's limits should shape your own use of these tools?
+
+## Introduction
 
 A language model's fluent, confident prose reads as trustworthy whether or not it is. Trust calibration is the counterweight to that illusion — the practice of evaluating AI output against its verifiability and the stakes of the task, rather than accepting it on the strength of its presentation.
 

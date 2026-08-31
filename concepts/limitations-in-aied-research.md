@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [research-methods-aied, ai-education, assessment-validity, educational-measurement, ai-ed-evaluation, learning-theories, benchmark]
 research_method: [research methods, benchmark, educational measurement, literature review]
@@ -20,6 +20,8 @@ connected_faqs: [research-gaps-aied]
 - The page notes that familiar frameworks like Bloom's taxonomy are often misread as strict ladders, and that even widely used theories like cognitive load theory have been challenged. When have you seen a theory invoked as settled truth in a context where its own evidence was actually contested?
 - Most AI research depends on proprietary, opaque models whose data and updates you cannot inspect. If you cannot verify exactly what model produced a result, how much can you trust claims built on it — and what would make findings more reproducible?
 - If you are an instructor or designer without time to read primary research, how do you decide which AI claims are trustworthy enough to change your practice — given that the literature is fragmented, provisional, and written for researchers?
+
+## Introduction
 
 AI in education is a fast-moving, heterogeneous field, and its evidence base carries a distinctive set of limitations that researchers, practitioners, and policy-makers should weigh when using any finding. Some of these are shared with the broader learning-sciences and psychology literature; others are amplified or made unique by the nature of AI itself. This page organizes them into four cross-cutting areas.
 

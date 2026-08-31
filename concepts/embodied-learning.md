@@ -1,7 +1,7 @@
 ---
 title: Embodied Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [embodied-learning, educational-robotics, computational-thinking, active-learning, situated-learning]
 confidence: high
@@ -15,6 +15,8 @@ confidence: high
 - Embodied approaches claim a physical, manipulable agent helps learners connect abstract ideas to concrete outcomes — seeing a program make a robot move, for instance. When have you noticed that doing something physical made an abstract concept finally 'click'?
 - Some researchers treat gesture as evidence of understanding — tracking students' hand movements alongside their speech to assess conceptual grasp. If a student's hands 'know' the concept before their words do, what might that imply about how we should assess learning?
 - An emerging critique challenges 'disembodied' AI that operates on abstract symbols, arguing AI should be designed around embodied intelligence to sustain learners' thinking rather than outsourcing it. Do you think an AI that has never had a body can fully support embodied learning?
+
+## Introduction
 
 Embodied learning is closely related to [[active-learning]], [[experiential-learning]], and situated/[[constructivist]] theories. The key claim is that a physical, manipulable agent helps learners connect abstract ideas to concrete outcomes — a program that makes a robot move, or a role-play with a physical robot — in ways that pure screen-based interaction may not. Robotics is the clearest embodiment of AI in education, giving learners something to see, touch, and observe.
 

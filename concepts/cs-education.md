@@ -1,7 +1,7 @@
 ---
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, cs-education]
 discipline: [stem education]
@@ -20,6 +20,8 @@ confidence: high
 - A learning-by-teaching agent that was too competent undermined students' debugging practice. Would you deliberately make an AI tutor fallible — and if so, how?
 - As AI automates implementation, curricula are shifting from writing code to verifying and directing AI-generated artifacts. What new competencies does that demand, and what might get lost in the shift?
 - Students are building the very tools they use. How does being both builder and user of AI change what they should learn about its limits — and its ethics?
+
+## Introduction
 
 ### AI in CS education
 

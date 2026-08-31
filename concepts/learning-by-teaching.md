@@ -1,7 +1,7 @@
 ---
 title: Learning by Teaching
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [learning-by-teaching, intelligent-tutoring, generative-ai, active-learning, feedback, scaffolding, self-regulated-learning, cs-education]
 discipline: [cs education]
@@ -17,6 +17,8 @@ confidence: high
 - The page describes 'teachable agents' — software that students teach as part of learning. With an LLM, you can configure a chatbot as a fallible novice tutee that asks questions and makes mistakes. What would you need to design into such a tutee for it to actually improve learning rather than just chat?
 - One challenge is 'engineering fallibility': AI models are trained to give expert, fluent answers, which is the opposite of the struggling novice the learning-by-teaching paradigm wants. Why might an error-prone tutee be more effective for learning than a correct one?
 - A ChatGPT-based teachable agent improved learning but its tendency to generate correct code limited error-correction practice. How might a tool that always gives the right answer actually shortchange the learner who needs to practice spotting and fixing mistakes?
+
+## Introduction
 
 ## The Protégé Effect
 

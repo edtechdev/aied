@@ -1,7 +1,7 @@
 ---
 title: Affective Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [affective-computing, intelligent-tutoring, adaptive-learning, scaffolding, k-12, higher-ed, llm, generative-ai, student-experience, ai-literacy]
 audience: [learners]
@@ -19,6 +19,8 @@ confidence: medium
 - Facial monitoring signals attentiveness but raises real privacy concerns. What would you want to know before a tutor tracked your facial expressions while you learned?
 - Design principles suggest affective data should inform, not replace, learner autonomy — you should control what you disclose and know when your emotions are being inferred. How would you feel if a tutor quietly changed its strategy based on your detected mood?
 - Students may attribute an AI tutor's emotional support to genuine relationship, reinforcing reliance on it. What's the difference between a tutor that genuinely cares and one that is designed to appear like it cares?
+
+## Introduction
 
 MathBuddy dynamically models student affect using two modalities:
 

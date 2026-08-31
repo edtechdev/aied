@@ -1,7 +1,7 @@
 ---
 title: Qualitative Research
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [qualitative-research, research-methods-aied]
 research_method: [qualitative, research methods, interviews, case study]
@@ -18,6 +18,8 @@ confidence: high
 - If AI can now assist qualitative coding at scale, does that threaten the interpretive depth that makes qualitative research valuable, or merely automate its drudgery? How would you decide which is happening in a given study?
 - Qualitative work centers under-represented voices — ethnic-minority students, skeptical nonusers — that large surveys often miss. Think of an AI-in-education claim you've heard. Whose experience of it is probably *not* captured by the headline number?
 - Choose one contested construct you care about — trust, agency, or harm. Before reading, sketch how you'd study it with words and observations rather than numbers, and note what you'd lose by doing so.
+
+## Introduction
 
 Qualitative research is not a single method but a family organized by *what* they study and *how* evidence is gathered and analyzed. What unites them is an emphasis on meaning-making, context, and depth over breadth and causal control. Qualitative findings are typically **not** generalizable in the statistical sense, but they are often *conceptually generalizable* — revealing mechanisms, categories, and dynamics that transfer to other settings. In the knowledge base's corpus, qualitative work is prominent for studying AI acceptance, trust, harm, teaching practice, and learning processes.
 

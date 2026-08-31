@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, learning-analytics, generative-ai, ai-education, intelligent-tutoring, curriculum-design, llm]
 category: [curriculum design]
@@ -18,6 +18,8 @@ confidence: high
 - Knowledge graphs can be built manually or automatically by LLMs from educational text. What are the risks of letting an AI construct the concept structure that a tutor will then reason over?
 - If knowledge graphs provide the domain structure that AI agents reason over, what happens to trust and accuracy when the graph itself contains an error or a biased relationship?
 - A knowledge graph is described as the structural backbone enabling fine-grained diagnosis and personalized paths. In your own teaching or design, what would you need a knowledge graph of your subject to capture — and what would it leave out?
+
+## Introduction
 
 Knowledge graphs provide the structural backbone for many intelligent education systems. Unlike flat lists of skills or concepts, knowledge graphs capture prerequisite relationships, similarity, and hierarchical organization — essential for [[adaptive-learning]], [[knowledge-tracing]], and [[student-modeling]].
 

@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 tags: [pedagogy, learning-design, ai-education, higher-ed, k-12]
@@ -19,6 +19,8 @@ confidence: high
 - Evidence suggests *how* AI is used matters as much as *whether* it's used. Have you observed the same AI helping one class and harming another? What differed?
 - If you were advising a school on buying an AI tool, which questions would you ask to uncover the pedagogy embedded in it—rather than just its feature list?
 - Think of a learner-centered strategy you've tried (active, collaborative, project-based). What made it work or fall flat, and how might an AI tool have changed that outcome?
+
+## Introduction
 
 Pedagogy and teaching strategy concern *how* educators teach — the activities, structures, and methods that organize learning — while [[learning-theories]] explains the underlying mechanisms of *how learning happens*. The two are complementary: a pedagogy operationalizes one or more theories, and the knowledge base treats pedagogy as the bridge from theory to classroom practice. Every AI tool embeds pedagogical assumptions about the desired instructional interaction, whether the designer states them or not.
 

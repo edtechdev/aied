@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
 level: [higher ed]
@@ -17,6 +17,8 @@ confidence: medium
 - One study found that having students interrogate AI-generated mistakes produced large gains in higher-order thinking. How might deliberately exposing errors — rather than hiding them — be a more powerful teaching move than you assumed?
 - Easy access to AI answers can displace critical engagement before students realize it. What design feature, rather than a policy or a ban, could keep the cognitive effort alive?
 - AI advice has been shown to suppress the willingness to say 'I don't know' — even when the advice is wrong. How does that change what it means to create a classroom culture where questioning is safe?
+
+## Introduction
 
 Critical thinking is central to [[ai-literacy]] — students who cannot critically evaluate AI outputs are vulnerable to [[cognitive-offloading|Over-Reliance]], [[hallucination-risk|hallucinated information]], and biased recommendations. Research on [[cognitive-offloading]] shows that easy access to AI answers can displace critical engagement, while [[socratic-method|Socratic approaches]] that withhold direct answers preserve the cognitive effort necessary for deeper thinking.
 

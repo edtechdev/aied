@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [human-in-the-loop-ai, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
@@ -21,6 +21,8 @@ confidence: medium
 - The page suggests humans and algorithms catch different kinds of problems — automate what is precisely verifiable, preserve judgment where nuance is irreplaceable. Where in your own practice is the boundary between the two?
 - Keeping a human in the loop is framed as protecting learner agency and safety, not just quality. How might full automation subtly change students' sense of who is responsible for their learning?
 - If AI becomes more autonomous, HITL oversight is described as a core safety guardrail. At what level of AI autonomy would you feel uncomfortable — and what does that discomfort tell you about where oversight belongs?
+
+## Introduction
 
 HITL is a response to the limits and risks of fully autonomous AI in education: automated systems can generate at scale but lack the contextual, ethical, and pedagogical judgment that instructors and experts bring. Two recent implementations illustrate distinct architectures:
 

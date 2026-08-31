@@ -1,7 +1,7 @@
 ---
 title: Psychometrically Aware AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, llm]
 research_method: [educational measurement]
@@ -19,6 +19,8 @@ confidence: medium
 - Item-difficulty prediction uses LLMs to estimate how hard a question is. Before reading, consider: is 'how hard is this question?' a fact about the question, or about the people (or models) answering it — and what does that ambiguity imply for using AI to calibrate exams?
 - Calibration, reliability, and validity are measurement concepts with precise meanings. Which of these have you actually thought through in your own assessment practice, and where might you be relying on an AI's output that has never been checked against them?
 - For an administrator or developer: if an AI assessment tool you're considering reports only raw accuracy, what specific questions would you now ask its vendor before deploying it with real students?
+
+## Introduction
 
 As AI systems increasingly score responses, predict difficulty, and provide [[feedback]], a key risk is that they report confident-sounding outputs that have not been validated against measurement principles. Psychometrically aware AI addresses this by grounding AI [[assessment]] in established psychometrics — calibrating outputs, quantifying uncertainty, and preserving [[assessment-validity]] and [[educational-measurement]] standards rather than relying on raw accuracy or self-reported confidence.
 

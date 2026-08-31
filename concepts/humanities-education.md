@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [humanities-education, history-of-aied, philosophy-of-ai-in-education, critical-thinking, ai-literacy, higher-ed]
 level: [higher ed]
@@ -19,6 +19,8 @@ confidence: high
 - In history education, research shows AI can shape reasoning and source interpretation, including through filters that 'protect' students. How would you teach students to interrogate an AI's mediation of historical claims?
 - If original authorship and interpretive autonomy are the core values of the humanities, what does it mean when AI can produce a plausible interpretation instantly? What human capability becomes more, not less, valuable?
 - The page warns against treating AI as a content tutor in fields centered on meaning-making. What would it look like to use AI deliberately to deepen, rather than flatten, students' critical analysis?
+
+## Introduction
 
 SSH education is a distinct subject area in the knowledge base, complementary to [[stem-education]] and [[language-learning]]. Because the humanities prize interpretive depth, authorship, and contextual judgment, they pose different AI-integration challenges than STEM — and connect to [[higher-ed]] and [[ai-literacy]] in domain-specific ways.
 

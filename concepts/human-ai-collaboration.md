@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: []
 confidence: medium
@@ -17,6 +17,8 @@ confidence: medium
 - Trust is described as something that must be calibrated, not assumed — relying on AI where appropriate and verifying where not. How do you currently decide when to trust and when to verify AI output?
 - Research identifies collaboration modes that trade off efficiency against the depth of your self-regulatory engagement. When is it worth accepting less efficiency to keep more learning in your own hands?
 - If collaboration is a pedagogical choice as much as a technical one, what design moves (prompts, workflows, structures) would you set up to ensure AI augments rather than replaces thinking for your learners?
+
+## Introduction
 
 Human-AI collaboration describes how learners, teachers, and AI systems divide [[cognitive-offloading|cognitive work]] — who does what, who decides, and how [[trust]] and [[agency]] are maintained. Rather than framing AI as either a replacement or a passive tool, collaboration research treats AI as a partner with complementary strengths whose value depends on how responsibility is shared and monitored. At the level of observable behavior, [[student-ai-interaction]] captures how learners enact this relationship in practice — the questions, prompts, and verification moves they make with AI moment to moment.
 
