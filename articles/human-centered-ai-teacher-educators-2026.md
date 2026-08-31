@@ -34,7 +34,7 @@ confidence: high
 
 - [[teacher-education]]
 - [[ai-literacy]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[ethics]]
 - [[teacher-role]]
 

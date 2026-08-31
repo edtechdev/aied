@@ -1930,7 +1930,7 @@
 - ◐ [[edtech-platform]] — ''
   Edtech Platform
 
-- ◐ [[faculty-development]] — ''
+- ◐ [[educational-development]] — ''
   Faculty Development
 
 - ◐ [[hallucination-risk]] — ''
@@ -1939,7 +1939,7 @@
 - ◐ [[inclusive-learning]] — ''
   Inclusive Learning
 
-- ◐ [[instructional-design]] — ''
+- ◐ [[learning-design]] — ''
   Instructional Design
 
 - ◐ [[intelligent-tutoring]] — ''

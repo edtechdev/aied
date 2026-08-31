@@ -3,7 +3,7 @@ title: "AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, a
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [teacher-role, faculty-development, k-12, ai-literacy, teacher-ai-competency, higher-ed, change-management]
+tags: [teacher-role, educational-development, k-12, ai-literacy, teacher-ai-competency, higher-ed, change-management]
 research_method: [survey]
 audience: [instructors, faculty development]
 level: [k 12, higher ed]
@@ -19,12 +19,12 @@ A study of 260 Filipino teachers examined how institutional support, teacher con
 
 ## Practical Implications
 
-This paper provides empirical clarity for [[teacher-role]] policy: institutional support matters, but it only helps if it builds teacher confidence. Simply providing tools or mandates without confidence-building will not shift attitudes. The finding that concerns did not moderate the relationships suggests that addressing concerns directly may be less effective than building confidence through support, aligning with [[faculty-development]] on the importance of hands-on experience.
+This paper provides empirical clarity for [[teacher-role]] policy: institutional support matters, but it only helps if it builds teacher confidence. Simply providing tools or mandates without confidence-building will not shift attitudes. The finding that concerns did not moderate the relationships suggests that addressing concerns directly may be less effective than building confidence through support, aligning with [[educational-development]] on the importance of hands-on experience.
 
 ## Connected Concepts
 
 - [[teacher-role]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[tpack]]
 - [[self-efficacy]]
 - [[teacher-ai-competency]]

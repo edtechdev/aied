@@ -3,7 +3,7 @@ title: "Designing faculty standards for technology integration in higher educati
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
-tags: [faculty-development, teacher-role, instructional-design, curriculum-design, higher-ed, administrator, pedagogy, ai-literacy]
+tags: [educational-development, teacher-role, learning-design, curriculum-design, higher-ed, administrator, pedagogy, ai-literacy]
 research_method: [design-based research]
 audience: [faculty development, instructors, administrator]
 level: [higher ed]
@@ -16,7 +16,7 @@ confidence: high
 
 ## Core Finding
 
-**Higher education faculty lack a comprehensive set of technology standards that cover all three of their core responsibilities — teaching, research, and service — and this design-based research study produces one, consisting of six standards (Instructor, Coordinator, Leader, Researcher, Learner, Contributor) with practical indicators.** Existing frameworks and standards are inadequate: theoretical frameworks provide overarching guidance but no granular [[benchmark]]s, while extant educator standards (ISTE, UNESCO, DigCompEdu, HeDiCom, Quality Matters) target K-12 teachers or address only the teaching dimension. The new framework fills this gap and is usable by faculty, administrators, and academic support staff (Deans, Provosts, accreditation leads, instructional designers, researchers, curriculum developers) to guide [[faculty-development]], institutional planning, and accreditation alignment.
+**Higher education faculty lack a comprehensive set of technology standards that cover all three of their core responsibilities — teaching, research, and service — and this design-based research study produces one, consisting of six standards (Instructor, Coordinator, Leader, Researcher, Learner, Contributor) with practical indicators.** Existing frameworks and standards are inadequate: theoretical frameworks provide overarching guidance but no granular [[benchmark]]s, while extant educator standards (ISTE, UNESCO, DigCompEdu, HeDiCom, Quality Matters) target K-12 teachers or address only the teaching dimension. The new framework fills this gap and is usable by faculty, administrators, and academic support staff (Deans, Provosts, accreditation leads, instructional designers, researchers, curriculum developers) to guide [[educational-development]], institutional planning, and accreditation alignment.
 
 ## The Six Faculty Standards
 
@@ -41,13 +41,13 @@ The study responds to calls from scholars, organizations, and institutions to ad
 
 ## Relevance to the Knowledge Base
 
-This article is central to the knowledge base's [[faculty-development]] and [[teacher-role]] clusters. It provides a concrete, evidence-based framework for how institutions can benchmark and support faculty technology integration across teaching, research, and service, and it connects to [[instructional-design]], [[curriculum-design]], and institutional [[governance]]/accreditation. It also complements [[ai-literacy]] by framing technology competence as a structured, standards-based institutional concern rather than an individual add-on.
+This article is central to the knowledge base's [[educational-development]] and [[teacher-role]] clusters. It provides a concrete, evidence-based framework for how institutions can benchmark and support faculty technology integration across teaching, research, and service, and it connects to [[learning-design]], [[curriculum-design]], and institutional [[governance]]/accreditation. It also complements [[ai-literacy]] by framing technology competence as a structured, standards-based institutional concern rather than an individual add-on.
 
 ## Connected Concepts
 
-- [[faculty-development]]
+- [[educational-development]]
 - [[teacher-role]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[curriculum-design]]
 - [[higher-ed]]
 - [[administrator]]

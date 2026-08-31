@@ -2,7 +2,7 @@
 title: "How should I incorporate AI literacy into my course?"
 created: "2026-08-24T09:50:00-04:00"
 updated: "2026-08-26T12:14:43-04:00"
-tags: [ai-literacy, instructional-design, higher-ed, cognitive-offloading, assessment]
+tags: [ai-literacy, learning-design, higher-ed, cognitive-offloading, assessment]
 level: [higher ed]
 category: [instructional design, assessment]
 ---

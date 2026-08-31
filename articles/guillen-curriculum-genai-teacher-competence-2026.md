@@ -3,7 +3,7 @@ title: "Transforming Curriculum Design with Generative AI: A Model for Assessing
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-24T18:50:00-04:00"
 type: article
-tags: [teacher-ai-competency, instructional-design, generative-ai, self-efficacy, adult-learning]
+tags: [teacher-ai-competency, learning-design, generative-ai, self-efficacy, adult-learning]
 research_method: [survey, educational measurement]
 category: [instructional design]
 sources: ['raw/papers/guillen-curriculum-genai-teacher-competence-2026.md']
@@ -31,7 +31,7 @@ The model explained moderate-high variance in the perceptual factors (PU R² = 0
 
 ## Self-Efficacy as the Root Driver
 
-Self-efficacy is the sole exogenous variable and the most powerful effect in the model. Consistent with Bandura's Social Learning Theory, teachers confident in their ability to solve technical problems, learn autonomously, and innovate are substantially more likely to perceive GenAI tools as useful, easy, and enjoyable. The authors argue that a sense of effectiveness builds "technoptimism," reducing resistance to new technologies and accelerating implementation — a key consideration for [[teacher-ai-competency]] and [[faculty-development]] programs.
+Self-efficacy is the sole exogenous variable and the most powerful effect in the model. Consistent with Bandura's Social Learning Theory, teachers confident in their ability to solve technical problems, learn autonomously, and innovate are substantially more likely to perceive GenAI tools as useful, easy, and enjoyable. The authors argue that a sense of effectiveness builds "technoptimism," reducing resistance to new technologies and accelerating implementation — a key consideration for [[teacher-ai-competency]] and [[educational-development]] programs.
 
 ## Behavioural Intention as a Competence Lever
 
@@ -43,16 +43,16 @@ The study is grounded in the Dominican Republic's pronounced dual digital divide
 
 ## Relevance to the Knowledge Base
 
-This paper is a significant contribution to the [[teacher-ai-competency]] concept: it provides a validated, psychometric instrument and an extended-TAM model specifically for GenAI in curriculum planning, an area with limited empirical evidence in Latin American contexts. It connects individual acceptance psychology ([[self-efficacy]], [[motivation]]) to [[instructional-design]] practice and [[faculty-development]]/[[faculty-development|professional development]] policy. Its core actionable message — that behavioural intention, fueled by self-efficacy and intrinsic enjoyment, is the primary lever for building teacher digital competence — offers a testable model for [[ai-education]] training design.
+This paper is a significant contribution to the [[teacher-ai-competency]] concept: it provides a validated, psychometric instrument and an extended-TAM model specifically for GenAI in curriculum planning, an area with limited empirical evidence in Latin American contexts. It connects individual acceptance psychology ([[self-efficacy]], [[motivation]]) to [[learning-design]] practice and [[educational-development]]/[[educational-development|professional development]] policy. Its core actionable message — that behavioural intention, fueled by self-efficacy and intrinsic enjoyment, is the primary lever for building teacher digital competence — offers a testable model for [[ai-education]] training design.
 
 ## Connected Concepts
 
 - [[teacher-ai-competency]] — the target construct the model is designed to assess and predict
 - [[self-efficacy]] — the exogenous root driving usefulness, ease of use, and enjoyment
 - [[motivation]] — perceived enjoyment as intrinsic motivation
-- [[instructional-design]] — curriculum planning and GenAI integration in teaching
+- [[learning-design]] — curriculum planning and GenAI integration in teaching
 - [[generative-ai]] — the tools (ChatGPT, DALL-E, Midjourney, Synthesia, HeyGen) being planned for
-- [[faculty-development]] — training implications
+- [[educational-development]] — training implications
 - [[teacher-role]] — teachers as orchestrators rather than replaced by AI
 - [[ai-education]] — broader field of AI integration in teaching
 - [[pedagogy]] — pedagogical digital competence and engaging pedagogies

@@ -367,6 +367,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`distributed-cognition`** — Distributed Cognition
 - **`edtech-platform`** — Edtech Platform
 - **`early-childhood-elementary-ai-education`** — Early Childhood Education
+- **`educational-development`** — Educational Development
 - **`educational-measurement`** — Educational Measurement
 - **`educational-nlp`** — Educational NLP
 - **`educational-policy-ai`** — Educational AI Policy
@@ -377,7 +378,6 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`equity-in-ai-education`** — Equity
 - **`ethics`** — Ethics
 - **`experiential-learning`** — Experiential Learning
-- **`faculty-development`** — Faculty Development
 - **`feedback-literacy`** — Feedback Literacy
 - **`feedback`** — Feedback
 - **`formative-assessment`** — Formative Assessment
@@ -395,7 +395,6 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`human-in-the-loop-ai`** — Human-in-the-Loop
 - **`humanities-education`** — Humanities and Social Science Education
 - **`icap-framework`** — ICAP Framework
-- **`instructional-design`** — Instructional Design
 - **`intelligent-tutoring`** — Intelligent Tutoring
 - **`item-response-theory`** — Item Response Theory
 - **`k-12`** — K-12
@@ -404,6 +403,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`language-learning`** — Language Learning
 - **`learning-analytics`** — Learning Analytics
 - **`learning-by-teaching`** — Learning by Teaching
+- **`learning-design`** — Learning Design
 - **`learning-gains`** — Learning Gains
 - **`learning-theories`** — Learning Theories
 - **`learner-identity`** — Learner Identity
@@ -504,3 +504,5 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - `zone-of-proximal-development` → **`sociocultural-learning`**
 - `social-robots` → **`educational-robotics`**
 - `human-robot-interaction` → **`educational-robotics`**
+- `instructional-design` → **`learning-design`**
+- `faculty-development` → **`educational-development`**

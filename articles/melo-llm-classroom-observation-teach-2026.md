@@ -3,7 +3,7 @@ title: "Validating AI-generated classroom observations: Reliability, accuracy, a
 created: "2026-08-15T15:16:58-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [ai-ed-evaluation, educational-measurement, assessment-validity, automated-assessment, ai-feedback-quality, llm, teacher-role, faculty-development, professional-training]
+tags: [ai-ed-evaluation, educational-measurement, assessment-validity, automated-assessment, ai-feedback-quality, llm, teacher-role, educational-development, professional-training]
 research_method: [educational measurement, interviews, benchmark]
 audience: [instructors, faculty development]
 category: [evaluation]
@@ -40,7 +40,7 @@ Melo, de la Maza and Recabarren (2026) empirically validate whether [[llm|large 
 - [[ai-feedback-quality]]
 - [[llm]]
 - [[teacher-role]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[teacher-ai-competency]]
 - [[professional-training]]
 - [[human-in-the-loop-ai]]

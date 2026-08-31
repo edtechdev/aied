@@ -3,7 +3,7 @@ title: "AI Literacy Assessment: Self-Reported vs Performance Misalignment"
 created: "2026-05-08T07:38:00-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, assessment, assessment-validity, k-12, self-regulated-learning, faculty-development, higher-ed, generative-ai, llm, student-experience]
+tags: [ai-literacy, assessment, assessment-validity, k-12, self-regulated-learning, educational-development, higher-ed, generative-ai, llm, student-experience]
 research_method: [survey, educational measurement]
 audience: [faculty development, learners]
 level: [k 12, higher ed]
@@ -27,7 +27,7 @@ The research responds to the widespread adoption of AI in K-12 education and the
 
 ## Implications for AI in Education
 
-The low correlation between self-reported and objective-based factors is a strong argument for performance-based assessment of AI literacy in teacher preparation and evaluation, where self-report surveys remain common. For [[assessment-validity]], the study shows that what educators say about their AI skills is not a reliable proxy for what they can do. The six-profile structure gives [[faculty-development]] programs a diagnostic basis for targeting support — for example, distinguishing overestimating teachers who need calibration from low-SR/low-OB novices who need foundational experience — and it demonstrates how validated instruments can feed [[learning-analytics]] pipelines that tailor interventions to teacher subgroups.
+The low correlation between self-reported and objective-based factors is a strong argument for performance-based assessment of AI literacy in teacher preparation and evaluation, where self-report surveys remain common. For [[assessment-validity]], the study shows that what educators say about their AI skills is not a reliable proxy for what they can do. The six-profile structure gives [[educational-development]] programs a diagnostic basis for targeting support — for example, distinguishing overestimating teachers who need calibration from low-SR/low-OB novices who need foundational experience — and it demonstrates how validated instruments can feed [[learning-analytics]] pipelines that tailor interventions to teacher subgroups.
 
 ## Connected Concepts
 
@@ -37,7 +37,7 @@ The low correlation between self-reported and objective-based factors is a stron
 - [[teacher-ai-competency]]
 - [[metacognition]]
 - [[k-12]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[learning-analytics]]
 
 ## Connected Articles

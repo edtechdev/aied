@@ -3,7 +3,7 @@ title: "The Role of Artificial Intelligence in Green Education: Optimizing Teach
 created: "2026-08-09T08:35:52-04:00"
 updated: "2026-08-30T05:30:00-04:00"
 type: article
-tags: [generative-ai, teacher-role, instructional-design, higher-ed, ai-education, sustainability, faculty-development]
+tags: [generative-ai, teacher-role, learning-design, higher-ed, ai-education, sustainability, educational-development]
 research_method: [experiment]
 audience: [instructors, faculty development]
 level: [higher ed]
@@ -25,14 +25,14 @@ confidence: medium
 
 ## Implications
 
-This study connects [[instructional-design]] with [[generative-ai|AI-assisted pedagogy]] by demonstrating that AI-enforced constraints — rather than open-ended AI assistance — can drive deeper pedagogical reflection. The large effect size is notable and suggests that structured [[scaffolding]] through AI workflows may be more effective than unstructured AI use for teacher development.
+This study connects [[learning-design]] with [[generative-ai|AI-assisted pedagogy]] by demonstrating that AI-enforced constraints — rather than open-ended AI assistance — can drive deeper pedagogical reflection. The large effect size is notable and suggests that structured [[scaffolding]] through AI workflows may be more effective than unstructured AI use for teacher development.
 
-The finding aligns with [[genai-can-harm-teaching-rct-2026]] [[research-methods-aied|research]] showing that uncontrolled AI access can reduce teaching quality, while structured frameworks preserve pedagogical integrity. For [[faculty-development]], this suggests AI integration should be framework-guided rather than tool-centric.
+The finding aligns with [[genai-can-harm-teaching-rct-2026]] [[research-methods-aied|research]] showing that uncontrolled AI access can reduce teaching quality, while structured frameworks preserve pedagogical integrity. For [[educational-development]], this suggests AI integration should be framework-guided rather than tool-centric.
 
 ## Connected Concepts
 
-- [[instructional-design]]
-- [[faculty-development]]
+- [[learning-design]]
+- [[educational-development]]
 - [[teacher-role]]
 - [[generative-ai]]
 - [[scaffolding]]

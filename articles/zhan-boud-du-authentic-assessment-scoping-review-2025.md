@@ -85,7 +85,7 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 
 - [[adaptive-learning]]
 - [[desirable-difficulties]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 - [[metacognition]]

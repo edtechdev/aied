@@ -3,7 +3,7 @@ title: Faculty Orientations Shape Adoption of AI in Research and Teaching
 created: "2026-05-19T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [faculty-development, higher-ed, stem-education, ai-literacy, change-management, pedagogy, teacher-role, teacher-ai-competency, scaffolding]
+tags: [educational-development, higher-ed, stem-education, ai-literacy, change-management, pedagogy, teacher-role, teacher-ai-competency, scaffolding]
 research_method: [survey, mixed methods]
 discipline: [stem education]
 audience: [faculty development, instructors]
@@ -33,7 +33,7 @@ Current technology-adoption models ([[scaffolding]]-like frameworks such as DoI 
 ## Connections to Knowledge Base
 
 ### Faculty Development
-This paper challenges the implicit theory behind many [[faculty-development]] programs: providing tools, workshops, and institutional support may be insufficient if faculty have not developed a coherent pedagogical orientation toward AI. The Cottrell community is already pedagogically motivated — yet 22% used no AI at all. Faculty development must help instructors articulate *what AI means for their discipline*, not just *how to use it*.
+This paper challenges the implicit theory behind many [[educational-development]] programs: providing tools, workshops, and institutional support may be insufficient if faculty have not developed a coherent pedagogical orientation toward AI. The Cottrell community is already pedagogically motivated — yet 22% used no AI at all. Faculty development must help instructors articulate *what AI means for their discipline*, not just *how to use it*.
 
 ### Teacher Adoption
 The finding that concerns do not moderate adoption contrasts with [[teacher-ai-adoption-confidence]], where institutional support → confidence → attitudes. This paper suggests a different mechanism: orientation shapes adoption directly, without being mediated by confidence or moderated by concerns. The [[teacher-role]] literature may need to incorporate epistemic dimensions alongside attitudinal ones.
@@ -65,7 +65,7 @@ These are not resolvable by more information or better tools — they require di
 
 ## Connected Concepts
 
-- [[faculty-development]]
+- [[educational-development]]
 - [[teacher-role]]
 - [[ai-literacy]]
 - [[higher-ed]]

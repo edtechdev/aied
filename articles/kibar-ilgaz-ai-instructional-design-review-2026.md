@@ -3,7 +3,7 @@ title: "The Intersection of Artificial Intelligence and Instructional Design Pra
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-23T10:00:00-04:00"
 type: article
-tags: [instructional-design, generative-ai, human-ai-collaboration, teacher-role, pedagogy]
+tags: [learning-design, generative-ai, human-ai-collaboration, teacher-role, pedagogy]
 research_method: [systematic review]
 audience: [instructors]
 category: [instructional design]
@@ -11,7 +11,7 @@ sources: ['raw/papers/kibar-ilgaz-ai-instructional-design-review-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** This systematic review (PRISMA 2020) of 28 peer-reviewed articles (2020–2025) examines how artificial intelligence is being used within [[instructional-design|instructional design]] (ID) processes. The field is still emerging: most studies explore perceptions and reflections of designers and teachers, followed by evaluative studies and a small set of tool-development efforts. Across studies, AI is most frequently used to enhance or assist instructional planning, support teaching delivery, and design [[assessment]]; its clearest benefit is offloading administrative and repetitive tasks (grading, feedback, progress monitoring) that free designers for higher-order [[pedagogy|pedagogical]] decision-making. Central challenges are [[pedagogy|pedagogical]] alignment, practitioner readiness, trust and reliability, and content reliability/transparency. Overall, AI is conceptualized not as a mere tool but as a co-worker, collaborator, and design partner—an [[human-ai-collaboration|augmentative rather than replacement]] technology requiring human oversight.
+> **Synthesis:** This systematic review (PRISMA 2020) of 28 peer-reviewed articles (2020–2025) examines how artificial intelligence is being used within [[learning-design|instructional design]] (ID) processes. The field is still emerging: most studies explore perceptions and reflections of designers and teachers, followed by evaluative studies and a small set of tool-development efforts. Across studies, AI is most frequently used to enhance or assist instructional planning, support teaching delivery, and design [[assessment]]; its clearest benefit is offloading administrative and repetitive tasks (grading, feedback, progress monitoring) that free designers for higher-order [[pedagogy|pedagogical]] decision-making. Central challenges are [[pedagogy|pedagogical]] alignment, practitioner readiness, trust and reliability, and content reliability/transparency. Overall, AI is conceptualized not as a mere tool but as a co-worker, collaborator, and design partner—an [[human-ai-collaboration|augmentative rather than replacement]] technology requiring human oversight.
 
 ## Core Finding
 
@@ -43,10 +43,10 @@ Limitations center on **content reliability and transparency** (16 studies)—in
 
 ## Relevance to the knowledge base
 
-This paper is a cornerstone contribution to the knowledge base's two most emphasized concepts—[[instructional-design]] and [[human-ai-collaboration|teacher-AI collaboration]]. It moves beyond tool-centered accounts to provide a process-level, role-sensitive synthesis of how AI reshapes instructional design work, and it foregrounds the [[teacher-role|evolving roles of instructional designers and teachers]] as AI becomes a collaborator rather than a tool. Its treatment of [[pedagogy|pedagogical alignment]], [[human-in-the-loop-ai|human oversight]], and practitioner readiness connects directly to questions of AI literacy, professional development, and the conditions under which AI genuinely enhances (rather than erodes) design quality. It also consolidates evidence on [[feedback]], [[assessment|assessment design]], and [[personalized-learning|personalization]] within a design-process frame.
+This paper is a cornerstone contribution to the knowledge base's two most emphasized concepts—[[learning-design]] and [[human-ai-collaboration|teacher-AI collaboration]]. It moves beyond tool-centered accounts to provide a process-level, role-sensitive synthesis of how AI reshapes instructional design work, and it foregrounds the [[teacher-role|evolving roles of instructional designers and teachers]] as AI becomes a collaborator rather than a tool. Its treatment of [[pedagogy|pedagogical alignment]], [[human-in-the-loop-ai|human oversight]], and practitioner readiness connects directly to questions of AI literacy, professional development, and the conditions under which AI genuinely enhances (rather than erodes) design quality. It also consolidates evidence on [[feedback]], [[assessment|assessment design]], and [[personalized-learning|personalization]] within a design-process frame.
 
 ## Connected Concepts
-- [[instructional-design]]
+- [[learning-design]]
 - [[generative-ai]]
 - [[human-ai-collaboration]]
 - [[human-in-the-loop-ai]]
@@ -55,7 +55,7 @@ This paper is a cornerstone contribution to the knowledge base's two most emphas
 - [[feedback]]
 - [[assessment]]
 - [[personalized-learning]]
-- [[faculty-development|professional development]]
+- [[educational-development|professional development]]
 - [[llm]]
 - [[ai-education]]
 - [[ethics]]

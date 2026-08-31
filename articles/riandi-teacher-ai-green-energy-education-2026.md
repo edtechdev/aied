@@ -3,7 +3,7 @@ title: "Teacher Involvement in Developing Sustainable Education Materials for AI
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
-tags: [sustainability, teacher-education, teacher-role, tpack, k-12, generative-ai, instructional-design]
+tags: [sustainability, teacher-education, teacher-role, tpack, k-12, generative-ai, learning-design]
 research_method: [survey]
 audience: [instructors]
 level: [k 12]
@@ -28,7 +28,7 @@ This is a teacher-education perspective on the knowledge base's [[sustainability
 - [[teacher-role]]
 - [[tpack]]
 - [[k-12]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[generative-ai]]
 
 ## Connected Articles

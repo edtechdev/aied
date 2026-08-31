@@ -24,7 +24,7 @@ Usability and UX research answer questions like: Can students figure out how to 
 
 - **AI learning tool evaluation.** [[rhaimi-productivemath-2025|ProductiveMath]], [[supplynet-visual-exploratory-learning|SupplyNet]], and [[anvil-ai-educational-animations|educational animations]] are evaluated for usability and UX.
 - **Human–robot and [[conversational-ai|conversational AI]] interaction.** [[icub-humanoid-storytelling-llm-hri-2025|The humanoid storytelling study]] is an explicit usability study of [[llm]]-powered interaction; [[conversational-ai-agents-umbrella-review-2026|an umbrella review of conversational AI agents]] identifies usability and interaction quality as a recurring theme.
-- **Design and refinement.** Usability findings feed iterative design (see [[design-thinking]] and [[instructional-design]]), improving tools before or alongside efficacy testing.
+- **Design and refinement.** Usability findings feed iterative design (see [[design-thinking]] and [[learning-design]]), improving tools before or alongside efficacy testing.
 
 ## Relationship to other research families
 
@@ -42,7 +42,7 @@ Usability research shares data-collection methods with [[qualitative-research|qu
 - [[human-ai-collaboration]]
 - [[student-experience]]
 - [[ai-ed-evaluation]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[design-thinking]]
 - [[intelligent-tutoring]]
 

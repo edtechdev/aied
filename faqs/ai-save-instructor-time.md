@@ -2,7 +2,7 @@
 title: "How Can AI Save Me Time as an Instructor?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-08-27T23:58:09-04:00"
-tags: [teacher-role, ai-feedback-quality, faculty-development, ai-literacy]
+tags: [teacher-role, ai-feedback-quality, educational-development, ai-literacy]
 audience: [instructors, faculty development]
 ---
 

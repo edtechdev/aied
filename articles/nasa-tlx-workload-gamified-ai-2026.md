@@ -3,7 +3,7 @@ title: "Perceived Workload Across Traditional, Gamified and Artificial Intellige
 created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-25T09:52:34-04:00"
 type: article
-tags: [game-based-learning, higher-ed, motivation, student-experience, learning-analytics, instructional-design, self-regulated-learning]
+tags: [game-based-learning, higher-ed, motivation, student-experience, learning-analytics, learning-design, self-regulated-learning]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]
@@ -22,14 +22,14 @@ confidence: high
 5. The study reads its findings alongside NASA-TLX research in professional, industrial, and work-related technology training.
 
 ## Discussion
-The paper contributes a measured, null-result perspective to the often-overenthusiastic literature on [[game-based-learning|gamified]] and AI-supported learning in [[higher-ed|higher education]]. Its value lies in complicating the assumption that adding [[student-engagement|engagement]] mechanics or AI-driven progression automatically improves the learning experience — here, workload was not reduced by either condition, and mental demand stayed uniformly high. For the knowledge base, it connects [[student-experience|student experience]], [[motivation|motivation]], and [[instructional-design|instructional design]] literatures, and complements findings on how the *quality* of technology-mediated environments — not their mere presence — shapes outcomes. It also illustrates the use of standardized [[learning-analytics|measurement instruments]] (NASA-TLX) to assess the cognitive ergonomics of AI-supported learning.
+The paper contributes a measured, null-result perspective to the often-overenthusiastic literature on [[game-based-learning|gamified]] and AI-supported learning in [[higher-ed|higher education]]. Its value lies in complicating the assumption that adding [[student-engagement|engagement]] mechanics or AI-driven progression automatically improves the learning experience — here, workload was not reduced by either condition, and mental demand stayed uniformly high. For the knowledge base, it connects [[student-experience|student experience]], [[motivation|motivation]], and [[learning-design|instructional design]] literatures, and complements findings on how the *quality* of technology-mediated environments — not their mere presence — shapes outcomes. It also illustrates the use of standardized [[learning-analytics|measurement instruments]] (NASA-TLX) to assess the cognitive ergonomics of AI-supported learning.
 
 ## Connected Concepts
 - [[game-based-learning]]
 - [[higher-ed]]
 - [[motivation]]
 - [[student-experience]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[self-regulated-learning]]
 - [[learning-analytics]]
 - [[cognitive-offloading|cognitive load]]

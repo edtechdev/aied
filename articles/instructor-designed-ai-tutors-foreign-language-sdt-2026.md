@@ -28,7 +28,7 @@ confidence: high
 
 1. **Instructor-designed AI tutors** (customized GPTs scoped to course objectives, learner proficiency, and a curated knowledge base) can structure AI-mediated practice more consistently than unstructured general-purpose [[conversational-ai|chatbot]] use.
 2. **Intentional error generation + AI feedback** (a three-stage sequence of knowledge activation, deliberate error production, and context-based sentence production) operationalizes the noticing hypothesis in AI-mediated tasks.
-3. **Affective safety is a product of [[instructional-design|instructional design]]**, not of the technology itself — nonjudgmental, immediately responsive interaction supports relatedness for error-anxious learners.
+3. **Affective safety is a product of [[learning-design|instructional design]]**, not of the technology itself — nonjudgmental, immediately responsive interaction supports relatedness for error-anxious learners.
 4. **Complementarity over substitution**: AI tutors work best alongside existing methods; learners noted usage limits and individual learning-style preferences (e.g., handwriting) as constraints.
 
  constraints.

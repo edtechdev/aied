@@ -3,7 +3,7 @@ title: AI Tutor Safety and Pedagogical Harms
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [pedagogical-safety, intelligent-tutoring, adaptive-learning, k-12, higher-ed, llm, bias-mitigation, pedagogical-llm-training, self-regulated-learning, faculty-development]
+tags: [pedagogical-safety, intelligent-tutoring, adaptive-learning, k-12, higher-ed, llm, bias-mitigation, pedagogical-llm-training, self-regulated-learning, educational-development]
 research_method: [theoretical analysis]
 audience: [faculty development]
 level: [k 12, higher ed]

@@ -3,7 +3,7 @@ title: How AI Is Changing Teaching Workflows
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-08-26T15:33:47-04:00"
 type: article
-tags: [generative-ai, teacher-role, faculty-development, rct, k-12, higher-ed, student-experience, equity-in-ai-education, ai-literacy]
+tags: [generative-ai, teacher-role, educational-development, rct, k-12, higher-ed, student-experience, equity-in-ai-education, ai-literacy]
 research_method: [experiment, randomized controlled trial]
 audience: [instructors, faculty development, learners]
 level: [k 12, higher ed]
@@ -26,14 +26,14 @@ A controlled trial across 68 schools and 259 science teachers found ChatGPT-usin
 The most comprehensive dataset on K-12 AI use — 104,000+ messages from 15,000+ educators — revealed that the average teacher prompt touches **1.7 categories simultaneously** (lesson plan + differentiation + formative assessment in one request). AI proactively surfaced instructional elements teachers hadn't requested, suggesting [[generative-ai]] is shifting from reactive tool to proactive pedagogical partner. This connects to research on [[ai-tpack-teacher-multi-agent-workflow]] and the evolving [[teacher-role]].
 
 ### Qualitative Study of 22 K-12 Teachers
-The dominant driver for AI adoption was **survival, not efficiency**. Teachers framed GenAI as a sustainability measure in a profession already in crisis. One described 80-hour work weeks; another said AI "decreased their stress dramatically." This reframes the value proposition: the conversation about AI in teaching isn't about going from good to great, but from **unsustainable to functional**. This validates the urgency behind [[faculty-development]] and [[teacher-role]] research.
+The dominant driver for AI adoption was **survival, not efficiency**. Teachers framed GenAI as a sustainability measure in a profession already in crisis. One described 80-hour work weeks; another said AI "decreased their stress dramatically." This reframes the value proposition: the conversation about AI in teaching isn't about going from good to great, but from **unsustainable to functional**. This validates the urgency behind [[educational-development]] and [[teacher-role]] research.
 
 ## Where Quality Holds — and Where It Doesn't
 
 **AI strengths:**
 - **Lesson conclusions** — exit tickets, cool-downs, reflective summaries — AI-generated versions were preferred **59.7% of the time** over human designs, the only component where AI consistently beat professional curriculum designers
 - **High school content** — fine-tuned models outperformed human designers **59.2% of the time**; the more structured the content, the better AI performed
-- **Teaching outside expertise** — teachers less confident in subject knowledge experienced greater time savings, connecting to [[ai-literacy]] and [[faculty-development]] needs
+- **Teaching outside expertise** — teachers less confident in subject knowledge experienced greater time savings, connecting to [[ai-literacy]] and [[educational-development]] needs
 
 **AI weaknesses:**
 - **Elementary level** — human-designed plans preferred ~65% of the time for developmental appropriateness and engagement
@@ -83,7 +83,7 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 - [[rct]]
 - [[equity-in-ai-education]]
 - [[human-in-the-loop-ai]]
-- [[faculty-development]]
+- [[educational-development]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design

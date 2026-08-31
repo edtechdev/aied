@@ -436,7 +436,7 @@
 - [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
 - [[explique-teachable-agent-algorithms-546-students-2026]] — Turning 500+ Students into Teachers: A Semester-Long Study of an AI Teachable Agent in an Undergraduate Algorithms Course
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Face value: How avatar identity shapes epistemic trust in AI-mediated learning
-- [[faculty-development]] — Faculty Development
+- [[educational-development]] — Educational Development
 - [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations with a hybrid Graph-GRU framework
 - [[farrokhnia-genai-feedback-student-revisions-2026]] — Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI Tutors: Empower or Enslave?
@@ -580,7 +580,7 @@
 - [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
 - [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
 - [[instructional-agents-multi-agent-course-gen]] — Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design
-- [[instructional-design]] — Instructional Design
+- [[learning-design]] — Learning Design
 - [[instructional-guidance-genai-learning]] — Role of Instructional Guidance in Generative AI-Assisted Learning
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI Roles in the Chemistry Classroom: Future Science Teachers' Perceptions in a ChatGPT-Enhanced Formative Assessment
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory

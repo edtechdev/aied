@@ -3,7 +3,7 @@ title: "From Prompts to Verified Loops: The PCHL-HE Framework for Generative AI-
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
-tags: [generative-ai, agentic-ai, prompt-engineering, higher-ed, instructional-design, ai-ed-evaluation, ai-literacy, academic-integrity]
+tags: [generative-ai, agentic-ai, prompt-engineering, higher-ed, learning-design, ai-ed-evaluation, ai-literacy, academic-integrity]
 audience: [instructors, researchers]
 research_method: [theoretical analysis]
 level: [higher ed]
@@ -37,9 +37,9 @@ A distinctive contribution is the four-part verification architecture covering *
 
 The PCHL-HE framework addresses a real pedagogical gap: as AI moves toward [[agentic-ai]] and tool-orchestrated workflows, teachers and students need language to reason about what level of control, grounding, and oversight an AI interaction requires. It extends [[prompt-engineering]] into a broader design space that includes [[rag]]-style context engineering and verified agentic loops.
 
-For [[higher-ed]] and [[instructional-design]], the framework offers a taxonomy for [[ai-literacy]] curricula and for designing assignments that match task complexity to appropriate AI configurations — for example, using verified loops only where intermediate products and oversight matter, which bears on [[academic-integrity]] and [[assessment]]. The explicit attention to verification and human oversight connects to [[human-in-the-loop-ai]] and to debates about when AI-generated content is ready for use, and its emphasis on traceability and accountable human decision-making speaks to [[assessment-validity]] and [[educational-policy-ai|institutional policy]].
+For [[higher-ed]] and [[learning-design]], the framework offers a taxonomy for [[ai-literacy]] curricula and for designing assignments that match task complexity to appropriate AI configurations — for example, using verified loops only where intermediate products and oversight matter, which bears on [[academic-integrity]] and [[assessment]]. The explicit attention to verification and human oversight connects to [[human-in-the-loop-ai]] and to debates about when AI-generated content is ready for use, and its emphasis on traceability and accountable human decision-making speaks to [[assessment-validity]] and [[educational-policy-ai|institutional policy]].
 
-The framework is conceptual and would benefit from empirical validation — the paper specifies eight testable propositions and a staged research program ([[meta-analysis-systematic-review|scoping review]], expert validation, comparative pilot studies) — but it provides a useful shared vocabulary for [[faculty-development]] and for institutional [[governance]] conversations about tool selection and policy.
+The framework is conceptual and would benefit from empirical validation — the paper specifies eight testable propositions and a staged research program ([[meta-analysis-systematic-review|scoping review]], expert validation, comparative pilot studies) — but it provides a useful shared vocabulary for [[educational-development]] and for institutional [[governance]] conversations about tool selection and policy.
 
 ## Connected Concepts
 
@@ -48,10 +48,10 @@ The framework is conceptual and would benefit from empirical validation — the 
 - [[governance]]
 - [[ai-literacy]]
 - [[generative-ai]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[prompt-engineering]]
 - [[rag]]
 - [[hallucination-risk]]

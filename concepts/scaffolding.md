@@ -47,7 +47,7 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[socratic-method]] — Questioning that withholds direct answers
 - [[metacognition]] — Scaffolds that build self-monitoring and self-regulation
 - [[adaptive-learning]] — Adaptive systems modulate support within the learner's ZPD
-- [[instructional-design]] — Scaffolding is a core instructional-design strategy
+- [[learning-design]] — Scaffolding is a core instructional-design strategy
 - [[help-seeking]] — Scaffolding shapes when and how learners request help
 - [[teacher-role]] — Teachers scaffold, then fade as competence grows
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education

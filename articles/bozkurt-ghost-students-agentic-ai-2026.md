@@ -25,7 +25,7 @@ confidence: high
 ## Implications
 
 - Assessment design should prioritise verified human presence (oral defences, live spontaneous questioning, in-person demonstrations, dialogic [[assessment]] and reflective portfolios), which remain resistant to automation.
-- [[faculty-development|Faculty development]] at massive scale is a foundational prerequisite: instructors must understand how agentic browsers work to design against them.
+- [[educational-development|Faculty development]] at massive scale is a foundational prerequisite: instructors must understand how agentic browsers work to design against them.
 - Students should be offered explicit pedagogical choices and be asked to articulate *what they learned*, not merely what they submitted, embedding reflection into the [[curriculum-design|curriculum]].
 - Institutions must establish explicit, operationally grounded governance that names agentic browsers as distinct entities, communicates transparent risk, and addresses the loss of the "private session" under [[privacy|data-protection]] mandates.
 - [[equity-in-ai-education|Equity]] vigilance is required: presence-required formats can disadvantage students with disabilities, language barriers, or [[neurodiversity|neurodivergence]], so institutions must "design inclusive presence."

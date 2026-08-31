@@ -3,7 +3,7 @@ title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-30T18:30:00-04:00"
 type: concept
-tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
+tags: [higher-ed, ai-education, generative-ai, educational-development, student-experience, academic-integrity]
 audience: [learners, instructors, faculty development, administrator]
 level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
@@ -24,7 +24,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 ### Faculty and teaching
 
-[[faculty-development]] research examines how instructors adopt, resist, or adapt to AI. [[teacher-ai-adoption-confidence|Teacher AI adoption studies]] identify confidence, support, and attitude as key predictors. [[ai-assistance-discretionary-feedback|AI-assisted discretionary feedback]] research explores whether AI increases instructor [[ai-feedback-quality|feedback quality]] and quantity, and [[luo-eaton-ai-student-feedback-ethics-2026|ethics research]] weighs whether teachers should use AI for feedback at all. [[enright-staff-perspectives-genai-2026|Staff-perspectives research]] and [[stenalt-good-education-teacher-ai-conceptions-2026|phenomenographic studies of teacher conceptions]] probe how educators understand their changing role.
+[[educational-development]] research examines how instructors adopt, resist, or adapt to AI. [[teacher-ai-adoption-confidence|Teacher AI adoption studies]] identify confidence, support, and attitude as key predictors. [[ai-assistance-discretionary-feedback|AI-assisted discretionary feedback]] research explores whether AI increases instructor [[ai-feedback-quality|feedback quality]] and quantity, and [[luo-eaton-ai-student-feedback-ethics-2026|ethics research]] weighs whether teachers should use AI for feedback at all. [[enright-staff-perspectives-genai-2026|Staff-perspectives research]] and [[stenalt-good-education-teacher-ai-conceptions-2026|phenomenographic studies of teacher conceptions]] probe how educators understand their changing role.
 
 ### Assessment and integrity
 
@@ -44,7 +44,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[generative-ai]] — Generative AI technologies and models
 - [[llm]] — Large language models
 - [[student-experience]] — Student experience with AI in higher ed
-- [[faculty-development]] — Faculty development and AI readiness
+- [[educational-development]] — Faculty development and AI readiness
 - [[academic-integrity]] — Academic integrity in an AI-capable student body
 - [[ai-literacy]] — AI literacy for students and faculty
 - [[assessment-validity]] — Assessment validity in the age of GenAI

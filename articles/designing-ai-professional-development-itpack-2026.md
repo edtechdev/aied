@@ -24,12 +24,12 @@ confidence: high
 
 **Practical tools.** The paper provides a detailed i-TPACK domain-to-AI-PD-pathway mapping, a sample implementation scenario across the phases of teacher learning, and design principles to support PD developers, alongside recommendations for research and practice.
 
-**Implication.** This is a foundational framework for the knowledge base's [[teacher-education]] and [[faculty-development]] concepts, showing how AI teacher learning must build technological, pedagogical, content, and ethical fluency together — a framework for AI PD that is pedagogically grounded, ethically responsive, and adaptable across educational contexts.
+**Implication.** This is a foundational framework for the knowledge base's [[teacher-education]] and [[educational-development]] concepts, showing how AI teacher learning must build technological, pedagogical, content, and ethical fluency together — a framework for AI PD that is pedagogically grounded, ethically responsive, and adaptable across educational contexts.
 
 ## Connected Concepts
 
 - [[teacher-education]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[tpack]]
 - [[ai-literacy]]
 - [[ethics]]

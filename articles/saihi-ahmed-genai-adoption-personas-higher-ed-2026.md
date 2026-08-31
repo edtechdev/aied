@@ -38,7 +38,7 @@ The study offers actionable guidance for tailoring chatbot onboarding, training,
 
 ## Relevance to the Knowledge Base
 
-This article provides an empirical, person-centered complement to the knowledge base's coverage of AI adoption and acceptance in [[higher-ed]]. It directly engages the [[technology-acceptance-model]] concept and connects it to [[trust]], [[conversational-ai]], and [[student-ai-interaction]]. It also speaks to [[faculty-development]] and [[teacher-role]] by highlighting how educators and students differ in their concerns and support needs, and to [[governance]] by informing differentiated deployment strategies.
+This article provides an empirical, person-centered complement to the knowledge base's coverage of AI adoption and acceptance in [[higher-ed]]. It directly engages the [[technology-acceptance-model]] concept and connects it to [[trust]], [[conversational-ai]], and [[student-ai-interaction]]. It also speaks to [[educational-development]] and [[teacher-role]] by highlighting how educators and students differ in their concerns and support needs, and to [[governance]] by informing differentiated deployment strategies.
 
 ## Connected Concepts
 

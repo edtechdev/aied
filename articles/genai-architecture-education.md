@@ -15,7 +15,7 @@ Kapsalis (2026) presents one of the first empirical studies of generative AI int
 
 This work extends the [[generative-ai]] education literature beyond text-based domains (coding, writing) into visual-spatial design disciplines. The finding that gen-AI tools broadened participation is particularly significant for [[equity-in-ai-education]] research — students who traditionally struggled with manual drafting or 3D modeling gained new entry points. This connects to [[ai-literacy]] discussions about AI as an [[accessibility]] tool and [[personalized-learning]] frameworks that emphasize multiple pathways to competence.
 
-The emphasis on locally executed (non-cloud) AI is also noteworthy for [[educational-measurement]] and [[privacy]]-conscious deployment. The study operationalizes [[constructivist]] principles by positioning AI as a tool for learner-led meaning-making within human-AI networks. For [[faculty-development]], the paper provides evidence-based guidance on gen-AI integration in studio-based disciplines, an area where the [[stanford-evidence-base-ai-k12-2026]] and related literature have been thin.
+The emphasis on locally executed (non-cloud) AI is also noteworthy for [[educational-measurement]] and [[privacy]]-conscious deployment. The study operationalizes [[constructivist]] principles by positioning AI as a tool for learner-led meaning-making within human-AI networks. For [[educational-development]], the paper provides evidence-based guidance on gen-AI integration in studio-based disciplines, an area where the [[stanford-evidence-base-ai-k12-2026]] and related literature have been thin.
 
 ## Synthesis
 
@@ -54,7 +54,7 @@ Students developed procedural confidence — "Seeing the mask, prompt and seed t
 
 ## Implications
 
-- **For [[instructional-design]] and studio pedagogy:** a locally run, human-in-the-loop GenAI workflow can expand students' creative search space and lower barriers to high-quality visual output without replacing design thinking, positioning AI as a visual co-pilot rather than an opaque generator.
+- **For [[learning-design]] and studio pedagogy:** a locally run, human-in-the-loop GenAI workflow can expand students' creative search space and lower barriers to high-quality visual output without replacing design thinking, positioning AI as a visual co-pilot rather than an opaque generator.
 - **For [[equity-in-ai-education|equity]] and [[inclusive-learning]]:** discipline-specific tools embedded in UDL-informed session design can act as a modest equalising mechanism, reducing anxiety in crits and supporting learners with weaker drafting or visualisation skills and those with declared disabilities.
 - **For [[curriculum-design]] and [[professional-training]]:** the low C3 score signals that building transferable AI-handling competencies requires sustained, curriculum-level provision rather than single sessions; AEC employers increasingly expect such skills.
 - **For [[ai-literacy]] and [[agency]]:** making prompts, masks and seeds legible foregrounds procedural understanding and preserves learner authorship, supporting ethical, transparent and critically reflective AI use.
@@ -67,7 +67,7 @@ Students developed procedural confidence — "Seeing the mask, prompt and seed t
 - [[personalized-learning]]
 - [[educational-measurement]]
 - [[constructivist]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[creativity]]
 - [[higher-ed]]
 - [[student-experience]]

@@ -25,7 +25,7 @@ Methodologically, trio-ethnography offers a low-cost reflective instrument for f
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[ai-literacy]]
-- [[faculty-development]]
+- [[educational-development]]
 ## Connected Articles
 
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs

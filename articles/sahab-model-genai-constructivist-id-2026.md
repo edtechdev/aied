@@ -3,7 +3,7 @@ title: "Evaluating the Effectiveness of Generative AI in Empowering Teachers for
 created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-25T09:52:34-04:00"
 type: article
-tags: [teacher-education, constructivist, instructional-design, generative-ai, teacher-ai-competency, adult-learning, cognitive-offloading, teacher-role]
+tags: [teacher-education, constructivist, learning-design, generative-ai, teacher-ai-competency, adult-learning, cognitive-offloading, teacher-role]
 research_method: [mixed methods, experiment]
 audience: [instructors]
 category: [instructional design]
@@ -21,12 +21,12 @@ confidence: high
 5. The study grounds the intervention in Vygotskian social constructivism and Cognitive Load Theory, contrasting cognitive automation (machine replaces human) with cognitive augmentation (machine expands human capability).
 
 ## Discussion
-The paper contributes to the [[teacher-ai-competency|teacher-AI competency]] and [[instructional-design|instructional design]] literatures by showing how generative AI can be positioned within a culturally-grounded, constructivist professional-development model rather than as a generic productivity tool. The "indigenous" SAHAB framing addresses a recurring critique that AI pedagogy models imported from Western contexts ignore local educational reform agendas. The large effect size (d = 1.18) is notable but must be read against the single-group, small-sample (N = 33) design without a control condition. For the knowledge base, it connects [[teacher-education|teacher education]], [[constructivist|constructivist pedagogy]], [[cognitive-offloading|cognitive augmentation]], and [[professional-training|professional development]], and reinforces the theme that AI is most effective when it scaffolds — not replaces — [[teacher-role|teacher]] professional agency.
+The paper contributes to the [[teacher-ai-competency|teacher-AI competency]] and [[learning-design|instructional design]] literatures by showing how generative AI can be positioned within a culturally-grounded, constructivist professional-development model rather than as a generic productivity tool. The "indigenous" SAHAB framing addresses a recurring critique that AI pedagogy models imported from Western contexts ignore local educational reform agendas. The large effect size (d = 1.18) is notable but must be read against the single-group, small-sample (N = 33) design without a control condition. For the knowledge base, it connects [[teacher-education|teacher education]], [[constructivist|constructivist pedagogy]], [[cognitive-offloading|cognitive augmentation]], and [[professional-training|professional development]], and reinforces the theme that AI is most effective when it scaffolds — not replaces — [[teacher-role|teacher]] professional agency.
 
 ## Connected Concepts
 - [[teacher-education]]
 - [[constructivist]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[generative-ai]]
 - [[teacher-ai-competency]]
 - [[cognitive-offloading]]

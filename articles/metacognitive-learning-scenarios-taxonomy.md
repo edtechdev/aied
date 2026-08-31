@@ -35,7 +35,7 @@ The taxonomy enables targeted, scenario-specific professional development interv
 - [[lifelong-learning]]
 - [[self-regulated-learning]]
 - [[transfer-of-learning]]
-- [[instructional-design]]
+- [[learning-design]]
 ## Connected Articles
 
 - [[curiobot-llm-tutoring-exploratory-learning]] — Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior

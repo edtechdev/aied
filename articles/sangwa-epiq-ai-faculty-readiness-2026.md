@@ -3,7 +3,7 @@ title: "Faculty Readiness for AI-Supported Teaching and Scalable Online Program 
 created: "2026-04-02T08:44:33-04:00"
 updated: "2026-08-24T09:30:00-04:00"
 type: article
-tags: [faculty-development, ai-literacy, higher-ed, academic-integrity, teacher-ai-competency, change-management, assessment-validity]
+tags: [educational-development, ai-literacy, higher-ed, academic-integrity, teacher-ai-competency, change-management, assessment-validity]
 research_method: [system development, theoretical analysis]
 audience: [faculty development]
 level: [higher ed]
@@ -22,7 +22,7 @@ confidence: high
 
 ## The EPIQ-AI Framework
 
-Sangwa, Ndahayo, Dusengumuremyi & Mutabazi (2026) synthesize three theoretical traditions — [[technology-acceptance-model|technology acceptance]] (TAM/UTAUT), [[tpack|TPACK]] teacher knowledge, and organizational readiness for change — into an education-specific account of readiness centered on [[assessment-validity|assessment legitimacy]] and epistemic integrity. EPIQ comprises four aligned readiness domains: epistemic ([[ai-literacy]] and evaluative confidence), pedagogical ([[instructional-design]] and course design support), institutional ([[governance]] and [[faculty-development]] investment), and quality-and-compliance (integrity and assessment regimes). The framework posits that credible AI-supported teaching and scalable [[online-teaching-and-learning|online delivery]] require alignment across micro-level faculty capacities and macro-level institutional systems, mediated by pedagogical and assessment design capacity.
+Sangwa, Ndahayo, Dusengumuremyi & Mutabazi (2026) synthesize three theoretical traditions — [[technology-acceptance-model|technology acceptance]] (TAM/UTAUT), [[tpack|TPACK]] teacher knowledge, and organizational readiness for change — into an education-specific account of readiness centered on [[assessment-validity|assessment legitimacy]] and epistemic integrity. EPIQ comprises four aligned readiness domains: epistemic ([[ai-literacy]] and evaluative confidence), pedagogical ([[learning-design]] and course design support), institutional ([[governance]] and [[educational-development]] investment), and quality-and-compliance (integrity and assessment regimes). The framework posits that credible AI-supported teaching and scalable [[online-teaching-and-learning|online delivery]] require alignment across micro-level faculty capacities and macro-level institutional systems, mediated by pedagogical and assessment design capacity.
 
 ## Widespread Adoption, Limited Confidence
 
@@ -30,7 +30,7 @@ Evidence converges on a central pattern: readiness is uneven and adoption is not
 
 ## Institutional Supports and Policy Maturity
 
-Five institutional supports consistently emerge as readiness enablers: access to tools, [[ai-literacy]] training, curated best practices, clear guidelines, and an environment that tolerates failure (Digital Education Council, 2025). Yet 80% of faculty do not find institutional AI guidelines comprehensive, and only 35% of institutions have institution-wide AI policies while 40% are still discussing them (Simunich et al., 2024). [[educational-policy-ai|Policy formation]] lags behind the practical presence of [[generative-ai|AI]] in coursework, and [[online-teaching-and-learning|online expansion]] advances faster than capacity-building for [[instructional-design]] and learning-support roles. [[governance|Governance maturity]] is a multi-domain institutional project spanning operations, professional development, and pedagogy. Chief online officers report [[agency|faculty autonomy and buy-in]] as persistent barriers, meaning robust technical infrastructure will not yield scalable online quality if faculty agency is not institutionally respected and operationally supported.
+Five institutional supports consistently emerge as readiness enablers: access to tools, [[ai-literacy]] training, curated best practices, clear guidelines, and an environment that tolerates failure (Digital Education Council, 2025). Yet 80% of faculty do not find institutional AI guidelines comprehensive, and only 35% of institutions have institution-wide AI policies while 40% are still discussing them (Simunich et al., 2024). [[educational-policy-ai|Policy formation]] lags behind the practical presence of [[generative-ai|AI]] in coursework, and [[online-teaching-and-learning|online expansion]] advances faster than capacity-building for [[learning-design]] and learning-support roles. [[governance|Governance maturity]] is a multi-domain institutional project spanning operations, professional development, and pedagogy. Chief online officers report [[agency|faculty autonomy and buy-in]] as persistent barriers, meaning robust technical infrastructure will not yield scalable online quality if faculty agency is not institutionally respected and operationally supported.
 
 ## Assessment, Integrity, and Governance Responses
 
@@ -46,17 +46,17 @@ EPIQ operationalizes readiness through a dashboard of threshold indicators acros
 
 ## Implications
 
-This framework reframes readiness as a multidimensional sociotechnical condition required for credible AI-enabled and online higher education. It challenges detection-centred [[academic-integrity]] regimes, redirecting [[educational-policy-ai|policy]] toward assessment redesign and [[ai-literacy|literacy]] rather than [[ai-detection|surveillance tooling]]. It has direct implications for [[assessment-validity]], [[teacher-ai-competency]], [[faculty-development]], and [[governance]], and echoes [[trust]] and equity concerns raised across the corpus. Institutions and governance bodies should sequence policy clarity and faculty capacity-building before ambitious [[generative-ai|AI]] and online scale-up, conditioning edtech procurement on transparent model limitations and bias-risk documentation (NIST AI RMF).
+This framework reframes readiness as a multidimensional sociotechnical condition required for credible AI-enabled and online higher education. It challenges detection-centred [[academic-integrity]] regimes, redirecting [[educational-policy-ai|policy]] toward assessment redesign and [[ai-literacy|literacy]] rather than [[ai-detection|surveillance tooling]]. It has direct implications for [[assessment-validity]], [[teacher-ai-competency]], [[educational-development]], and [[governance]], and echoes [[trust]] and equity concerns raised across the corpus. Institutions and governance bodies should sequence policy clarity and faculty capacity-building before ambitious [[generative-ai|AI]] and online scale-up, conditioning edtech procurement on transparent model limitations and bias-risk documentation (NIST AI RMF).
 
 ## Connected Concepts
 
-- [[faculty-development]]
+- [[educational-development]]
 - [[ai-literacy]]
 - [[higher-ed]]
 - [[academic-integrity]]
 - [[teacher-ai-competency]]
 - [[assessment-validity]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[governance]]
 - [[educational-policy-ai]]
 - [[ai-detection]]

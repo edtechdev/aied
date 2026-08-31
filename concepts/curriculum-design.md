@@ -3,7 +3,7 @@ title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
 updated: "2026-08-29T15:22:36-04:00"
 type: concept
-tags: [curriculum-design, instructional-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
+tags: [curriculum-design, learning-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
 discipline: [stem education]
 audience: [instructors, faculty development]
 level: [higher ed]
@@ -13,7 +13,7 @@ confidence: high
 
 > **Curriculum Design** — the process of planning and structuring what is taught across courses, programs, and institutions, including learning objectives, content sequencing, assessment strategies, and skill progression. In the AI era, curriculum design must balance foundational knowledge with emerging AI competencies, determining not just what students learn but how they learn to work with and critically evaluate AI tools.
 
-Curriculum design addresses the *what* of education at the program level, complementing [[instructional-design]] which addresses the *how* at the course level. The articles in this knowledge base explore how AI is reshaping curricula across disciplines — from software engineering to architecture to green education — and how educators are designing curricula that embed AI literacy without sacrificing disciplinary fundamentals.
+Curriculum design addresses the *what* of education at the program level, complementing [[learning-design]] which addresses the *how* at the course level. The articles in this knowledge base explore how AI is reshaping curricula across disciplines — from software engineering to architecture to green education — and how educators are designing curricula that embed AI literacy without sacrificing disciplinary fundamentals.
 
 ### Key research themes
 
@@ -29,15 +29,15 @@ Curriculum design addresses the *what* of education at the program level, comple
 
 ### Connections to related concepts
 
-Curriculum design connects directly to [[instructional-design]] — curriculum defines what, instruction defines how. It connects to [[ai-literacy]] because embedding AI competencies is a primary curriculum challenge, to [[teacher-role]] and [[faculty-development]] because curriculum change requires educator preparation, and to [[scaffolding]] because well-designed curricula scaffold skill development across courses and years. The [[higher-ed]] and [[k-12]] connections reflect curriculum design's relevance across educational levels.
+Curriculum design connects directly to [[learning-design]] — curriculum defines what, instruction defines how. It connects to [[ai-literacy]] because embedding AI competencies is a primary curriculum challenge, to [[teacher-role]] and [[educational-development]] because curriculum change requires educator preparation, and to [[scaffolding]] because well-designed curricula scaffold skill development across courses and years. The [[higher-ed]] and [[k-12]] connections reflect curriculum design's relevance across educational levels.
 
 ## Connected Concepts
 
 - [[business-education]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[ai-literacy]]
 - [[scaffolding]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[teacher-role]]
 - [[higher-ed]]
 - [[k-12]]

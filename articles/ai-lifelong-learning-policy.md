@@ -44,7 +44,7 @@ AI's most promising contribution is expanded access. Digital platforms reach lea
 
 Despite these opportunities, the authors stress that the challenges are deeply social, ethical, and political. The [[digital-divide]] persists: AI platforms depend on reliable internet, devices, and basic digital competence, which many rural, low-income, and marginalized adults lack, so AI risks reinforcing rather than reducing inequality. Ethical concerns center on data [[privacy]] and surveillance, and on [[bias-mitigation|algorithmic bias]] that can reproduce existing social inequalities in assessment, recommendations, and learner profiling.
 
-Teacher and institutional readiness is another critical barrier. Effective integration requires [[faculty-development|professional development]] in digital literacy, data interpretation, and critical evaluation of AI tools; without it, AI is used superficially or ineffectively, and institutions face resistance during transitions. There is also a risk of over-reliance on technology, which reduces human interaction and can dehumanize education by reducing learning to measurable outputs. Finally, policy and regulatory gaps persist — frameworks for data protection, accountability, and quality assurance lag behind innovation, and [[governance]] is complicated by private companies developing systems that serve the public mission of education.
+Teacher and institutional readiness is another critical barrier. Effective integration requires [[educational-development|professional development]] in digital literacy, data interpretation, and critical evaluation of AI tools; without it, AI is used superficially or ineffectively, and institutions face resistance during transitions. There is also a risk of over-reliance on technology, which reduces human interaction and can dehumanize education by reducing learning to measurable outputs. Finally, policy and regulatory gaps persist — frameworks for data protection, accountability, and quality assurance lag behind innovation, and [[governance]] is complicated by private companies developing systems that serve the public mission of education.
 
 ## Implications for Adult Education Policy
 
@@ -63,7 +63,7 @@ Future directions call for ethical AI frameworks emphasizing transparency, fairn
 - [[learning-analytics]]
 - [[bias-mitigation]]
 - [[cognitive-offloading]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[teacher-role]]
 - [[adult-learning]]
 - [[governance]]

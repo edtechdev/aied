@@ -3,7 +3,7 @@ title: "Artificial intelligence in educational leadership: a comprehensive taxon
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
-tags: [governance, administrator, higher-ed, educational-policy-ai, ethics, ai-education, human-ai-collaboration, faculty-development, ai-literacy, trust, change-management]
+tags: [governance, administrator, higher-ed, educational-policy-ai, ethics, ai-education, human-ai-collaboration, educational-development, ai-literacy, trust, change-management]
 research_method: [literature review, theoretical analysis]
 audience: [administrator, faculty development]
 level: [higher ed]
@@ -38,7 +38,7 @@ The study uses a general inductive approach to synthesize literature from IEEE X
 
 ## Relevance to the Knowledge Base
 
-This article is directly relevant to the knowledge base's coverage of how [[ai-education]] is governed and led at the institutional level. It connects several concept clusters that otherwise appear in scattered [[generative-ai]] and [[personalized-learning]] articles: [[governance]], [[educational-policy-ai]], [[faculty-development]], and [[administrator]] roles. For leaders, it reframes AI not as a classroom-only concern but as an institution-wide strategic and ethical matter spanning teaching, research, and service. It also complements empirical adoption studies by providing the organizational [[scaffolding]] those studies implicitly assume.
+This article is directly relevant to the knowledge base's coverage of how [[ai-education]] is governed and led at the institutional level. It connects several concept clusters that otherwise appear in scattered [[generative-ai]] and [[personalized-learning]] articles: [[governance]], [[educational-policy-ai]], [[educational-development]], and [[administrator]] roles. For leaders, it reframes AI not as a classroom-only concern but as an institution-wide strategic and ethical matter spanning teaching, research, and service. It also complements empirical adoption studies by providing the organizational [[scaffolding]] those studies implicitly assume.
 
 ## Connected Concepts
 
@@ -49,7 +49,7 @@ This article is directly relevant to the knowledge base's coverage of how [[ai-e
 - [[ethics]]
 - [[ai-education]]
 - [[human-ai-collaboration]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[ai-literacy]]
 - [[trust]]
 - [[adaptive-learning]]

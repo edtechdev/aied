@@ -14,7 +14,7 @@ confidence: high
 
 ## Core Finding
 
-Adult learners perceive AI as supporting every facet of [[adult-learning|andragogy]] — involvement, experience, problem-centered learning, and relevance — and view it as a *[[collaborative-learning|collaborative learning agent]]* that helps them solve complex problems, share knowledge, deepen understanding, and hone [[critical-thinking|higher-order thinking]]. For [[instructional-design|design]], they do not want perfect, zero-error AI; they want systems that are [[human-in-the-loop-ai|human-in-the-loop]], emotionally attuned, and continuously adaptive. Because the study centers on perceptions rather than outcome measures, it contributes design-direction evidence rather than direct [[learning-gains|learning-gain]] claims.
+Adult learners perceive AI as supporting every facet of [[adult-learning|andragogy]] — involvement, experience, problem-centered learning, and relevance — and view it as a *[[collaborative-learning|collaborative learning agent]]* that helps them solve complex problems, share knowledge, deepen understanding, and hone [[critical-thinking|higher-order thinking]]. For [[learning-design|design]], they do not want perfect, zero-error AI; they want systems that are [[human-in-the-loop-ai|human-in-the-loop]], emotionally attuned, and continuously adaptive. Because the study centers on perceptions rather than outcome measures, it contributes design-direction evidence rather than direct [[learning-gains|learning-gain]] claims.
 
 ## AI as a collaborative learning agent
 
@@ -64,7 +64,7 @@ This paper is the companion to the knowledge base's [[kim-ai-productive-failure-
 - [[feedback]]
 - [[conversational-ai]]
 - [[pedagogical-agent]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[personalized-learning]]
 - [[prior-knowledge]]
 - [[learning-theories]]

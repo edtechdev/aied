@@ -3,7 +3,7 @@ title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
 updated: "2026-08-30T13:41:04-04:00"
 type: concept
-tags: [learning-theories, behaviorism, self-regulated-learning, metacognition, instructional-design, generative-ai, higher-ed]
+tags: [learning-theories, behaviorism, self-regulated-learning, metacognition, learning-design, generative-ai, higher-ed]
 level: [higher ed]
 category: [instructional design]
 
@@ -79,7 +79,7 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 - [[collaborative-learning]]
 - [[embodied-learning]]
 - [[cognitive-offloading]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[philosophy-of-ai-in-education]]
 - [[critical-pedagogy]]
 - [[ai-education]]

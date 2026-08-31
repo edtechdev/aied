@@ -3,7 +3,7 @@ title: "LUDIA: A Design and Evidence Statement"
 created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-24T13:00:00-04:00"
 type: article
-tags: [universal-design-for-learning, accessibility, teacher-education, ai-education, instructional-design, edtech-platform, equity-in-ai-education]
+tags: [universal-design-for-learning, accessibility, teacher-education, ai-education, learning-design, edtech-platform, equity-in-ai-education]
 research_method: [system development]
 level: [teacher training]
 category: [instructional design]
@@ -23,7 +23,7 @@ confidence: high
 
 ## A thought partner, not a solution engine
 
-LUDIA exists to connect educators with the [[universal-design-for-learning]] framework at the moment a design decision is still open — before a learner meets a barrier, not after. Where most AI agents are engineered as solution engines that deliver an answer, LUDIA is purpose-built to help educators and [[instructional-design|instructional designers]] work through the UDL principles of Engagement, Representation, and Action and Expression, so that the reasoning connecting a particular situation to the relevant Guidelines is visible and not only the suggestion. The [[scaffolding]] intent is explicit: responses are "scaffolds and entry points" that leave the educator's own thinking intact, since "AI can certainly enhance but not replace our thinking as educators." The tool's use is structured around the Four T's — Tell LUDIA about the learners and challenges, Tinker with follow-up questions, Tweak the provisional outcomes, and Transfer by reflecting on how reducing a barrier deepened learning, often through Project Zero's Visible Thinking Routines. An exchange that stops before Transfer is LUDIA serving a purpose, but not yet being used fully as a thought partner.
+LUDIA exists to connect educators with the [[universal-design-for-learning]] framework at the moment a design decision is still open — before a learner meets a barrier, not after. Where most AI agents are engineered as solution engines that deliver an answer, LUDIA is purpose-built to help educators and [[learning-design|instructional designers]] work through the UDL principles of Engagement, Representation, and Action and Expression, so that the reasoning connecting a particular situation to the relevant Guidelines is visible and not only the suggestion. The [[scaffolding]] intent is explicit: responses are "scaffolds and entry points" that leave the educator's own thinking intact, since "AI can certainly enhance but not replace our thinking as educators." The tool's use is structured around the Four T's — Tell LUDIA about the learners and challenges, Tinker with follow-up questions, Tweak the provisional outcomes, and Transfer by reflecting on how reducing a barrier deepened learning, often through Project Zero's Visible Thinking Routines. An exchange that stops before Transfer is LUDIA serving a purpose, but not yet being used fully as a thought partner.
 
 ## A privacy-first, accessible rebuild
 
@@ -53,7 +53,7 @@ For [[accessibility]] and [[equity-in-ai-education|equity]], LUDIA demonstrates 
 - [[universal-design-for-learning]]
 - [[inclusive-learning]]
 - [[professional-training]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[equity-in-ai-education]]
 - [[edtech-platform]]
 

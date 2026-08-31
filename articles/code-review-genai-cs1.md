@@ -20,7 +20,7 @@ confidence: high
 1. Weekly 15-minute oral code review interviews conducted by trained [[peer-review|teaching assistants]] (TAs), weighted at 70% of each coding assignment grade, preserved student understanding: exam scores showed a slight (~2%), statistically insignificant increase in Fall 2025 versus prior semesters.
 2. [[learning-analytics|Keystroke logs]] confirmed dramatically higher AI usage under the permissive policy — the percentage of pasted-to-total characters rose from 61.0% (Fall 2024) to 68.1% (Fall 2025), p < 0.0001 — yet [[self-regulated-learning|time-on-task]] and keystroke counts did not decline.
 3. Survey responses were overwhelmingly positive: 90% of students reported that code reviews motivated them to [[metacognition|understand their code better]], and 65% agreed the reviews helped them avoid [[cognitive-offloading|over-reliance]] on AI tools.
-4. Negative feedback was logistical rather than pedagogical, centering on [[faculty-development|TA inconsistency]] (33.7%) and scheduling difficulties (21.7%) — pointing to scalable implementation, not student resistance, as the key challenge.
+4. Negative feedback was logistical rather than pedagogical, centering on [[educational-development|TA inconsistency]] (33.7%) and scheduling difficulties (21.7%) — pointing to scalable implementation, not student resistance, as the key challenge.
 
 ## Background & Context
 

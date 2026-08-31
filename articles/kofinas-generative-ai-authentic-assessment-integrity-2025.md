@@ -3,7 +3,7 @@ title: "The Impact of Generative AI on Academic Integrity of Authentic Assessmen
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
-tags: [academic-integrity, ai-detection, authentic-assessment, assessment, assessment-validity, generative-ai, higher-ed, ai-misuse-learning-harm, instructional-design]
+tags: [academic-integrity, ai-detection, authentic-assessment, assessment, assessment-validity, generative-ai, higher-ed, ai-misuse-learning-harm, learning-design]
 research_method: [experiment]
 level: [higher ed]
 category: [assessment, instructional design]
@@ -39,7 +39,7 @@ confidence: high
 - [[generative-ai]]
 - [[ai-misuse-learning-harm]]
 - [[higher-ed]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[summative-assessment]]
 
 ## Connected Articles

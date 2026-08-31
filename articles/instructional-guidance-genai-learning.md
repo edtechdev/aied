@@ -22,7 +22,7 @@ Demonstrates that the effectiveness of AI-supported learning depends critically 
 - [[scaffolding]]
 - [[active-learning]]
 - [[personalized-learning]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[generative-ai]]
 - [[prompt-engineering]]
 ## Connected Articles

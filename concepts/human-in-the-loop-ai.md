@@ -76,7 +76,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[student-experience]]
 - [[self-regulated-learning]]
 - [[metacognition]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[generative-ai]]
 - [[agency]]
 - [[pedagogical-safety]]

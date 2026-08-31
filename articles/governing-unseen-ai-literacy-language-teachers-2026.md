@@ -3,7 +3,7 @@ title: "Governing the Unseen: A Systematic Review of AI Literacy among Language 
 created: "2026-08-16T10:19:32-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
-tags: [ai-literacy, language-learning, higher-ed, teacher-ai-competency, faculty-development, governance, meta-analysis-systematic-review]
+tags: [ai-literacy, language-learning, higher-ed, teacher-ai-competency, educational-development, governance, meta-analysis-systematic-review]
 research_method: [meta-analysis]
 discipline: [language learning]
 audience: [faculty development]
@@ -20,7 +20,7 @@ confidence: high
 
 **Four governance patterns.** Across the corpus, the authors identify four recurring "governing the unseen" patterns: (1) institutional invisibility of AI literacy in workload models, promotion policies, and resource allocation; (2) fragmented professional development rather than coherent, sustained PD; (3) ungoverned ethical ambiguity — unclear guidelines leave teachers to navigate moral and professional dilemmas individually; and (4) displaced accountability, where responsibility for AI literacy is shared or unclear across institutions, teacher-training programmes and policy agencies.
 
-**Professional development.** Training is frequently ad-hoc, unstructured and unevenly planned, mirroring the "individual effort and experimentation" pattern documented across [[faculty-development]]. Despite growing tool availability, the review finds little evidence of coherent, sustained PD models.
+**Professional development.** Training is frequently ad-hoc, unstructured and unevenly planned, mirroring the "individual effort and experimentation" pattern documented across [[educational-development]]. Despite growing tool availability, the review finds little evidence of coherent, sustained PD models.
 
 **Assessment.** Evaluation of teacher AI literacy relies heavily on self-report instruments, with limited attention to ethical and critical skills — consistent with [[assessment-validity]] concerns about measuring literacy via perception rather than performance.
 
@@ -33,7 +33,7 @@ confidence: high
 - [[ai-literacy]]
 - [[language-learning]]
 - [[teacher-ai-competency]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[governance]]
 - [[higher-ed]]
 - [[english-education]]

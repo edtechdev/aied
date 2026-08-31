@@ -3,7 +3,7 @@ title: "Scaffolding Systematic Reviews in Learning Design and Technology Through
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-23T10:00:00-04:00"
 type: article
-tags: [scaffolding, human-in-the-loop-ai, human-ai-collaboration, collaborative-learning, instructional-design]
+tags: [scaffolding, human-in-the-loop-ai, human-ai-collaboration, collaborative-learning, learning-design]
 research_method: [theoretical analysis]
 category: [instructional design]
 sources: ['raw/papers/scaffolding-systematic-reviews-2026.md']
@@ -18,7 +18,7 @@ Conducting a systematic review is an inherently iterative, human process that is
 
 ## The challenge of interdisciplinary synthesis in LDT
 
-Because LDT spans education, instructional design, psychology, information science, computer science, media studies, and more, its literature varies widely in terminology, theory, and reporting conventions. This complicates locating, integrating, and interpreting studies. The authors frame SRs as a way to reduce conceptual ambiguity and build a shared language across disciplines — an inherently [[collaborative-learning|collaborative]] undertaking that benefits from [[faculty-development|developmental]] support for novice researchers.
+Because LDT spans education, instructional design, psychology, information science, computer science, media studies, and more, its literature varies widely in terminology, theory, and reporting conventions. This complicates locating, integrating, and interpreting studies. The authors frame SRs as a way to reduce conceptual ambiguity and build a shared language across disciplines — an inherently [[collaborative-learning|collaborative]] undertaking that benefits from [[educational-development|developmental]] support for novice researchers.
 
 ## Navigating ambiguity at each SR stage
 
@@ -37,7 +37,7 @@ While ML and LLM tools (e.g., ASReview, SWIFT-Review, Covidence, AIScreenR, Meta
 
 ## Relevance to the knowledge base
 
-This paper significantly contributes to the knowledge base's [[scaffolding]] and [[human-in-the-loop-ai]] threads by treating a research workflow as an intentional learning experience. It provides practice-informed guidance for novice researchers and interdisciplinary teams, illustrates how [[collaborative-learning]] and mentoring sustain rigor, and models a principled division of labor between automation (procedural burden) and human judgment (interpretive decisions) — of direct relevance to [[instructional-design]] and AI-assisted research practice.
+This paper significantly contributes to the knowledge base's [[scaffolding]] and [[human-in-the-loop-ai]] threads by treating a research workflow as an intentional learning experience. It provides practice-informed guidance for novice researchers and interdisciplinary teams, illustrates how [[collaborative-learning]] and mentoring sustain rigor, and models a principled division of labor between automation (procedural burden) and human judgment (interpretive decisions) — of direct relevance to [[learning-design]] and AI-assisted research practice.
 
 ## Connected Concepts
 
@@ -45,8 +45,8 @@ This paper significantly contributes to the knowledge base's [[scaffolding]] and
 - [[human-in-the-loop-ai]]
 - [[human-ai-collaboration]]
 - [[collaborative-learning]]
-- [[instructional-design]]
-- [[faculty-development]]
+- [[learning-design]]
+- [[educational-development]]
 - [[generative-ai]]
 - [[learning-analytics]]
 

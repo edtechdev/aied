@@ -22,7 +22,7 @@ confidence: high
 
 ## Implications
 
-This review brings the knowledge base's AIED themes into the clinical/health-professions context, extending [[simulation]]-based training, [[personalized-learning]], and [[automated-assessment]] to nursing. It exemplifies a thematic [[meta-analysis-systematic-review|systematic review]] method and connects to medical-education and health-professions-education applications of AI, as well as to [[equity-in-ai-education|equity]] and [[ethics]] concerns. The focus on faculty preparedness aligns with [[faculty-development]] and [[teacher-role]]; the emphasis on validated, measurable outcomes connects to [[ai-ed-evaluation]] and [[educational-measurement]].
+This review brings the knowledge base's AIED themes into the clinical/health-professions context, extending [[simulation]]-based training, [[personalized-learning]], and [[automated-assessment]] to nursing. It exemplifies a thematic [[meta-analysis-systematic-review|systematic review]] method and connects to medical-education and health-professions-education applications of AI, as well as to [[equity-in-ai-education|equity]] and [[ethics]] concerns. The focus on faculty preparedness aligns with [[educational-development]] and [[teacher-role]]; the emphasis on validated, measurable outcomes connects to [[ai-ed-evaluation]] and [[educational-measurement]].
 
 ## Connected Concepts
 
@@ -34,7 +34,7 @@ This review brings the knowledge base's AIED themes into the clinical/health-pro
 - [[equity-in-ai-education]]
 - [[ethics]]
 - [[meta-analysis-systematic-review]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[ai-ed-evaluation]]
 
 ## Connected Articles

@@ -61,7 +61,7 @@ The study also underscores that [[equity-in-ai-education|digital inequity]] is a
 
 ## Implications
 
-For [[ai-literacy]] and [[teacher-role]] development, the paper underscores that literacy in AI-mediated information environments is not simply technical competence with tools — it is the capacity to evaluate provenance, spot manipulation, and reason about credibility. This has direct implications for [[curriculum-design]] and for [[faculty-development]] in [[higher-ed]] and [[k-12]] alike.
+For [[ai-literacy]] and [[teacher-role]] development, the paper underscores that literacy in AI-mediated information environments is not simply technical competence with tools — it is the capacity to evaluate provenance, spot manipulation, and reason about credibility. This has direct implications for [[curriculum-design]] and for [[educational-development]] in [[higher-ed]] and [[k-12]] alike.
 
 The findings connect to [[ethics]] and [[equity-in-ai-education]] debates: if teachers cannot manage disinformation and deepfakes, students who are already exposed to these risks are underserved. It argues for an ethical, reflective, and participatory orientation to media education rather than a purely instrumental one, calling for a shift in [[governance|teacher training priorities]] so that institutional support favors media education alongside technical skills.
 

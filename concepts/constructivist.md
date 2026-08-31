@@ -3,7 +3,7 @@ title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-27T10:55:43.284361-04:00"
 type: concept
-tags: [learning-theories, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, instructional-design]
+tags: [learning-theories, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, learning-design]
 category: [instructional design]
 confidence: high
 ---
@@ -79,7 +79,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[experiential-learning]]
 - [[project-based-learning]]
 - [[embodied-learning]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[generative-ai]]
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]

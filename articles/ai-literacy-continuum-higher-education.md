@@ -3,7 +3,7 @@ title: "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for
 created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, higher-ed, curriculum-design, ethics, instructional-design, personalized-learning, scaffolding, student-experience, mastery-learning, k-12]
+tags: [ai-literacy, higher-ed, curriculum-design, ethics, learning-design, personalized-learning, scaffolding, student-experience, mastery-learning, k-12]
 research_method: [theoretical analysis]
 audience: [learners, instructors]
 level: [higher ed, k 12]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2606.00038.md']
 confidence: high
 ---
 
-Proposes a five-stage developmental continuum (Not Engaged, Uncritical Use, Informed Use, Critical Evaluation, Improvement) for AI literacy at NC State; the continuum doubles as a diagnostic tool for moving students beyond fluent-but-uncritical tool adoption. Found that reaching higher stages requires discipline-embedded experiences. [[ai-literacy]], [[higher-ed]], [[ethics]], [[faculty-development]], [[student-experience]].
+Proposes a five-stage developmental continuum (Not Engaged, Uncritical Use, Informed Use, Critical Evaluation, Improvement) for AI literacy at NC State; the continuum doubles as a diagnostic tool for moving students beyond fluent-but-uncritical tool adoption. Found that reaching higher stages requires discipline-embedded experiences. [[ai-literacy]], [[higher-ed]], [[ethics]], [[educational-development]], [[student-experience]].
 
 ## Key Findings
 
@@ -29,7 +29,7 @@ The five stages are explicitly intended as a diagnostic device, not just a descr
 
 ## Implications for AI in Education
 
-The continuum gives [[curriculum-design]] and [[faculty-development]] a shared vocabulary for sequencing AI literacy instruction, and its alignment with international frameworks supports institutional uptake. The NC State case suggests that movement along the continuum is most visible when experiences are sustained and embedded in disciplines, implying that one-off workshops may shift students from non-engagement toward informed use, while deeper stages require ongoing, context-rich opportunities. The authors' framing of their evidence as observational and practice-based also models appropriate epistemic humility for institutions adopting the framework, and their discussion of equity considerations reminds educators that access and disposition shape where students enter the continuum.
+The continuum gives [[curriculum-design]] and [[educational-development]] a shared vocabulary for sequencing AI literacy instruction, and its alignment with international frameworks supports institutional uptake. The NC State case suggests that movement along the continuum is most visible when experiences are sustained and embedded in disciplines, implying that one-off workshops may shift students from non-engagement toward informed use, while deeper stages require ongoing, context-rich opportunities. The authors' framing of their evidence as observational and practice-based also models appropriate epistemic humility for institutions adopting the framework, and their discussion of equity considerations reminds educators that access and disposition shape where students enter the continuum.
 
 ## Connected Concepts
 - [[reducing-ai-misuse]]
@@ -37,7 +37,7 @@ The continuum gives [[curriculum-design]] and [[faculty-development]] a shared v
 - [[ai-literacy]]
 - [[higher-ed]]
 - [[ethics]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[student-experience]]
 ## Connected Articles
 

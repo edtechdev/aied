@@ -53,7 +53,7 @@ SEL overlaps with the effortful dimension of learning. [[framing-5-percent-probl
 - **Emotion-aware and affect-sensitive design.** [[affective-computing|Affect-aware systems]] can detect and respond to emotional states (anxiety, frustration, confusion), but evidence shows benefits are **not universal** — moderating by learner proficiency and profile — so emotional design must be tailored, not assumed.
 - **Address the emotional side of AI use.** Design against shame/guilt spirals and AI anxiety by normalizing discussion of AI use, fostering transparency, and reducing surveillance-based responses that erode trust and agency.
 - **Support persistence and productive struggle.** [[scaffolding|Scaffold]] rather than substitute (per [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]]), so AI deepens rather than bypasses effortful learning — aligning with [[metacognition]] and [[desirable-difficulties|productive difficulty]].
-- **Prepare teachers' SEL competency.** Educators need both technological skill and emotional intelligence ([[teacher-ai-competency]]); teacher [[faculty-development|professional development]] should build capacity to support students' SEL in AI-mediated settings.
+- **Prepare teachers' SEL competency.** Educators need both technological skill and emotional intelligence ([[teacher-ai-competency]]); teacher [[educational-development|professional development]] should build capacity to support students' SEL in AI-mediated settings.
 
 ## Connections to learning gains and other measures
 
@@ -81,7 +81,7 @@ SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relation
 - [[teacher-ai-competency]]
 - [[teacher-role]]
 - [[scaffolding]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[student-experience]]
 - [[learning-gains]]
 - [[higher-ed]]

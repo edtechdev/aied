@@ -3,7 +3,7 @@ title: Behaviorism
 created: "2026-08-16T03:36:31-04:00"
 updated: "2026-08-27T10:55:43.284361-04:00"
 type: concept
-tags: [behaviorism, learning-theories, instructional-design, adaptive-learning, intelligent-tutoring, generative-ai, higher-ed]
+tags: [behaviorism, learning-theories, learning-design, adaptive-learning, intelligent-tutoring, generative-ai, higher-ed]
 level: [higher ed]
 category: [instructional design]
 confidence: medium
@@ -54,7 +54,7 @@ Behaviorism also appears in how learners encounter AI as a topic. The theory is 
 
 - [[constructivist]]
 - [[cognitive-psychology]] — Cognitivism, the third classical pole of learning theory
-- [[instructional-design]]
+- [[learning-design]]
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
 - [[feedback]]

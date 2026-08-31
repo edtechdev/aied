@@ -3,7 +3,7 @@ title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
 updated: "2026-08-27T05:50:01.954210-04:00"
 type: concept
-tags: [online-teaching-and-learning, pedagogy, instructional-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
+tags: [online-teaching-and-learning, pedagogy, learning-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
 level: [higher ed]
 category: [instructional design]
 confidence: high
@@ -19,7 +19,7 @@ The rise of generative AI lands directly in this context. Online learners alread
 
 Online teaching and learning takes several related forms that share the medium but differ in reach and structure:
 
-- **Blended and hybrid learning.** Models that combine in-person and online components, intentionally integrating digital activities, materials, and interactions with face-to-face teaching. Blended formats ask instructors to decide what is best done synchronously vs. asynchronously and online vs. in person — decisions that [[instructional-design]] principles organize and that AI both supports and complicates. In the blended context, AI tools offer opportunities for [[personalized-learning|personalization]] and always-on support while raising integrity and offloading risks that span both the online and in-person portions.
+- **Blended and hybrid learning.** Models that combine in-person and online components, intentionally integrating digital activities, materials, and interactions with face-to-face teaching. Blended formats ask instructors to decide what is best done synchronously vs. asynchronously and online vs. in person — decisions that [[learning-design]] principles organize and that AI both supports and complicates. In the blended context, AI tools offer opportunities for [[personalized-learning|personalization]] and always-on support while raising integrity and offloading risks that span both the online and in-person portions.
 - **Distance education.** Programs designed for learners who study remotely, often at scale and across regions (e.g., the Open University's 200K+ learners). Distance learning is where 24/7, context-embedded AI support and the impossibility of in-person invigilation are most salient.
 
 ## Opportunities and benefits of AI for online teaching and learning
@@ -63,7 +63,7 @@ Online learning is particularly vulnerable: the medium already distances learner
 - **Authentic, process-revealing assessment.** Shift toward [[authentic-assessment|authentic assessment]] and assessments that capture process — drafts, oral defenses, self-explanation, reflective portfolios — which are more AI-resistant and reveal genuine understanding.
 - **Personalized and adaptive paths.** Use AI-enabled [[personalized-learning|personalization]] and [[adaptive-learning|adaptive]] activities to tailor pacing and difficulty, while keeping personalization deep (task sequencing, difficulty calibration) rather than merely surface-level (custom examples).
 - **Social presence and community-building.** Deliberately cultivate social presence and [[collaborative-learning|community]] — the core of the [[community-of-inquiry|Community of Inquiry]] framework — through companion AI, synchronous check-ins, and peer interaction, since online isolation is a key barrier to [[student-engagement|engagement]] and belonging. In the AI era this means curating the three presences (cognitive, social, teaching) even as machine-generated discourse complicates who is "present" (see [[community-of-inquiry]]).
-- **Blended design thinking.** For hybrid formats, apply [[instructional-design]] principles to decide what is best done synchronously vs. asynchronously and online vs. in person, and how AI supports each.
+- **Blended design thinking.** For hybrid formats, apply [[learning-design]] principles to decide what is best done synchronously vs. asynchronously and online vs. in person, and how AI supports each.
 - **Human-in-the-loop governance.** Keep educators and [[teacher-role|instructors]] in the loop over AI tools, grounded in [[tpack|pedagogical content knowledge]], so pedagogical intent — not the tool's default — drives design.
 
 ## Implications for online instructors and instructional designers
@@ -82,7 +82,7 @@ Online learning is particularly vulnerable: the medium already distances learner
 
 - [[remote-proctoring]]
 - [[pedagogy]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[scaffolding]]

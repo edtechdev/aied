@@ -57,7 +57,7 @@ A substantial amount of research still evaluates what an AI model can accomplish
 
 ## 8. Teacher implementation and institutional conditions are comparatively understudied
 
-Technical capability does not guarantee adoption or pedagogical transformation. Research needs to examine [[curriculum-design|curriculum]] fit, instructor workload, [[faculty-development|professional development]], [[educational-policy-ai|institutional policy]], governance, procurement, and support structures over time.
+Technical capability does not guarantee adoption or pedagogical transformation. Research needs to examine [[curriculum-design|curriculum]] fit, instructor workload, [[educational-development|professional development]], [[educational-policy-ai|institutional policy]], governance, procurement, and support structures over time.
 
 A broad higher-education [[meta-analysis-systematic-review|systematic review]] in the knowledge base specifically identifies **longitudinal and experimental research, equity-focused research, and [[discipline-specific-aied|discipline-specific]] studies** as priorities, while noting that institutional investment in AI infrastructure is only weakly related to genuine pedagogical transformation.
 
