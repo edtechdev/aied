@@ -27,11 +27,14 @@ const { faqs } = Astro.props;
     display: block;
     font-size: 0.85rem;
     line-height: 1.4;
-    padding: 0.22rem 0.6rem;
+    padding: 0.4rem 0.6rem;
     color: var(--muted-color);
     text-decoration: none;
     border-radius: 4px;
+    /* Subtle divider between FAQ questions, matching the main FAQ page. */
+    border-bottom: 1px solid var(--card-border-color);
   }
+  .faq-sidebar-link:last-child { border-bottom: none; }
   .faq-sidebar-link:hover {
     color: var(--primary);
     background: color-mix(in srgb, var(--primary) 8%, transparent);
