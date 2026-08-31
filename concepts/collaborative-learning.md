@@ -55,7 +55,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - **Accommodate neurodivergent learners.** Structured assignments, small consistent teams, and explicit role definitions are requirements AI collaboration tools must support.
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 
 - [[problem-based-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning

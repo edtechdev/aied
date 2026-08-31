@@ -115,7 +115,7 @@ The knowledge base reflects a field in rapid evolution — from early intelligen
 AI in education connects to every concept in the knowledge base — it is the field that all other concept pages collectively define. Use this page as a starting point to navigate the full knowledge base.
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI education (young children)
 - [[ai-anxiety-and-stress]] — AI anxiety and stress in education
 - [[career-development-and-readiness]] — Career development and readiness
@@ -1272,7 +1272,7 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - **Both are professional-development and [[pedagogy|pedagogical]] concerns.** Supporting teacher identity belongs to [[educational-development]] and [[teacher-ai-competency]]; supporting learner identity belongs to [[student-experience]], [[authentic-assessment]], and [[agency]]. A well-designed AI-integrated system attends to both — because the teacher's identity is the condition under which learners' identities form.
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[business-education]]
@@ -1412,7 +1412,7 @@ For instructional designers, course developers, and engineers building AI-assist
 
 - **AI is reshaping instructional design practice.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]] [[meta-analysis-systematic-review|systematically review]] 28 studies (2020-2025) and find AI assists designers with content generation, templates, and personalization, and is conceptualized as a co-worker/collaborator/partner rather than just a tool — though pedagogical alignment and practitioner readiness remain challenges.
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[curriculum-design]]
@@ -1939,7 +1939,7 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agentic-ai]] (autonomy), [[teacher-role]] (teachers' changing work), [[scaffolding]] and [[metacognition]] (how collaboration supports learning), and [[cognitive-offloading|Over-Reliance]] (the failure mode when collaboration becomes substitution). It is a core theme across [[ai-literacy]], [[self-regulated-learning]], and [[student-experience]].
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[community-of-inquiry]] — Community of Inquiry (presences as human-GenAI sociotechnical accomplishments)
 
 - [[student-ai-interaction]]
@@ -2068,7 +2068,7 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 The framework's boundary condition requires **contestability** (the ability to question and cross-check AI output), **provenance** (knowing where training data and output come from), and **non-delegation of moral and intellectual credit** (high-stakes judgments about student welfare, academic standing, and grades must not be determined solely by AI). This gives educators and policymakers a more precise vocabulary than the vague "balance" between human and artificial contributions, connecting agency to [[ethics]], [[assessment]], [[equity-in-ai-education]], and [[governance]].
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[self-directed-learning]]
@@ -2324,7 +2324,7 @@ Curriculum design addresses the *what* of education at the program level, comple
 Curriculum design connects directly to [[learning-design]] — curriculum defines what, instruction defines how. It connects to [[ai-literacy]] because embedding AI competencies is a primary curriculum challenge, to [[teacher-role]] and [[educational-development]] because curriculum change requires educator preparation, and to [[scaffolding]] because well-designed curricula scaffold skill development across courses and years. The [[higher-ed]] and [[k-12]] connections reflect curriculum design's relevance across educational levels.
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 
 - [[business-education]]
 - [[learning-design]]
@@ -2698,7 +2698,7 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 - **Teach with and about AI:** pedagogies should both use AI to teach and teach learners how to use AI responsibly.
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[learning-theories]]
@@ -2900,7 +2900,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - **Accommodate neurodivergent learners.** Structured assignments, small consistent teams, and explicit role definitions are requirements AI collaboration tools must support.
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 
 - [[problem-based-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
@@ -3743,7 +3743,7 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 
 ---
 
-## [Pedagogical Partnerships (Students as Partners)](https://edtechdev.github.io/aied/concepts/pedagogical-partnerships/)
+## [Pedagogical Partnerships](https://edtechdev.github.io/aied/concepts/pedagogical-partnerships/)
 
 > **[[pedagogy|Pedagogical]] partnerships** (also known as **students as partners** or **SaP**) — a relationship-centered approach to teaching and learning in which students and educators work together as collaborators to co-create curriculum, teaching activities, [[assessment]], open educational resources, and educational policies, rather than treating students as passive recipients of faculty-designed instruction. Rooted in values of **respect, reciprocity, and responsibility** (Cook-Sather et al., 2014), pedagogical partnership repositions students as co-creators of knowledge and educational innovation and challenges traditional top-down power dynamics in education. In the AI era, partnership has become a key counter-narrative to deficit views of students as AI cheaters or victims — positioning students as partners in co-designing AI policy, tools, and practice.
 
@@ -5886,7 +5886,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - **Learner characteristics moderate TTS dialogue-based lessons (2026):** In LLM+TTS-generated teacher–student, student–student, and teacher–teacher dialogue lessons, experiential-learning style and critical-thinking disposition significantly interacted with dialogue format for ARCS-based motivation, indicating that AI-generated dialogue content is differentially motivating depending on learner profile ([[tts-dialogue-lessons-learner-characteristics-2026]]).
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[community-of-inquiry]] — Community of Inquiry (agentic engagement as a CoI dimension)
 
 - [[eportfolio]]
@@ -10854,7 +10854,7 @@ The constructive question in the knowledge base's assessment literature is not "
 
 - **AI-mediated assessment is diversifying.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] shows an LLM-augmented conversational agent reduced student anxiety during performance-based assessments; [[asynchronous-oral-assessment-2026|Pentland (2026)]] finds asynchronous oral assessments offered higher engagement and were perceived as professionally relevant; [[graph-its-adaptive-algorithms-2026|graph-based ITS]] uses adaptive knowledge-state tracking to inform assessment.
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[formative-assessment]] — Formative assessment: AI-generated, validated, adaptive items at scale
 - [[automated-assessment]] — Automated grading and scoring across assessment modalities
 - [[authentic-assessment]] — Process-based, AI-robust authentic tasks
@@ -13688,7 +13688,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders|Stakeholders]] umbrella, and the home for summarizing all the ways AI impacts students.
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 - [[agency]]
 - [[well-being]]
@@ -14292,7 +14292,7 @@ The practical test that separates them: a policy can be read on paper, but gover
 Educational AI policy connects to [[regulation]] (legal framework), [[governance]] (institutional implementation), [[educational-development]] (policy implementation through training), [[equity-in-ai-education]] (policy impacts on access), and [[higher-ed]] / [[k-12]] (context-specific policy).
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 
 - [[regulation]]
 - [[governance]]
@@ -14407,7 +14407,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify **ethics & data governance** as one of seven enablers of trustworthy LA-based educational interventions — policies for the ethical use of LA and AI, data privacy, security, and accountability — and position [[trust|trustworthiness]] (including leadership and governance that support implementation) as the prerequisite for meaningful data-informed interventions.
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[ai-use-disclosure]] — AI use and disclosure statements
 
 - [[remote-proctoring]]

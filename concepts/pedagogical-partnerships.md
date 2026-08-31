@@ -1,7 +1,7 @@
 ---
-title: "Pedagogical Partnerships (Students as Partners)"
+title: "Pedagogical Partnerships"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-08-31T10:00:02-04:00"
+updated: "2026-08-31T10:15:48-04:00"
 type: concept
 tags: [pedagogical-partnerships, pedagogy, agency, collaborative-learning, curriculum-design, assessment, learning-design, teacher-role, student-engagement, higher-ed]
 audience: [instructors, learners, learning designers, administrator]

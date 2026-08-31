@@ -69,7 +69,7 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 - **Teach with and about AI:** pedagogies should both use AI to teach and teach learners how to use AI responsibly.
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[learning-theories]]
