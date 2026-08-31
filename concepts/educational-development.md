@@ -40,7 +40,7 @@ On this account, faculty asking "what's the point of teaching in a GenAI world?"
 
 ### Connections
 
-Faculty development connects to [[teacher-ai-competency]] (the outcome), [[teacher-role]] (how AI changes instructional work), [[ai-literacy]] (faculty must model AI literacy for students), and [[educational-policy-ai]] (institutional policies that enable or constrain development).
+Educational development connects to [[teacher-ai-competency]] (the outcome), [[teacher-role]] (how AI changes instructional work), [[ai-literacy]] (faculty must model AI literacy for students), and [[educational-policy-ai]] (institutional policies that enable or constrain development).
 
 ### Practical guidance for program designers
 
