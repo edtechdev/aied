@@ -826,7 +826,7 @@
 - [[pearls-epistemic-verification-2026]] — From Plausibility to Verifiability: The PEARLS Framework for Developing Epistemic Agency in Generative AI-Mediated Higher Education
 - [[pedagogical-agent]] — Pedagogical Agent
 - [[pedagogical-llm-training]] — Training Pedagogical LLMs for Tutoring
-- [[pedagogical-partnerships]] — Pedagogical Partnerships (Students as Partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[pedagogical-safety]] — Pedagogical Safety
 - [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning
 - [[pedagogy]] — Pedagogies and Teaching Strategies

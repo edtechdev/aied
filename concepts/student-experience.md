@@ -75,7 +75,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders|Stakeholders]] umbrella, and the home for summarizing all the ways AI impacts students.
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 - [[agency]]
 - [[well-being]]

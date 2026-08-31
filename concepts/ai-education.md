@@ -122,7 +122,7 @@ The knowledge base reflects a field in rapid evolution — from early intelligen
 AI in education connects to every concept in the knowledge base — it is the field that all other concept pages collectively define. Use this page as a starting point to navigate the full knowledge base.
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI education (young children)
 - [[ai-anxiety-and-stress]] — AI anxiety and stress in education
 - [[career-development-and-readiness]] — Career development and readiness

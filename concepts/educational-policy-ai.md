@@ -51,7 +51,7 @@ The practical test that separates them: a policy can be read on paper, but gover
 Educational AI policy connects to [[regulation]] (legal framework), [[governance]] (institutional implementation), [[educational-development]] (policy implementation through training), [[equity-in-ai-education]] (policy impacts on access), and [[higher-ed]] / [[k-12]] (context-specific policy).
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 
 - [[regulation]]
 - [[governance]]

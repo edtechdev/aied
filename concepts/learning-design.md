@@ -63,7 +63,7 @@ For instructional designers, course developers, and engineers building AI-assist
 
 - **AI is reshaping instructional design practice.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]] [[meta-analysis-systematic-review|systematically review]] 28 studies (2020-2025) and find AI assists designers with content generation, templates, and personalization, and is conceptualized as a co-worker/collaborator/partner rather than just a tool — though pedagogical alignment and practitioner readiness remain challenges.
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical partnerships (students as partners)
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[curriculum-design]]

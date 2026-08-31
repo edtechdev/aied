@@ -425,7 +425,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`open-source`** — Open Source
 - **`pedagogical-agent`** — Pedagogical Agent
 - **`pedagogical-llm-training`** — Training Pedagogical LLMs for Tutoring
-- **`pedagogical-partnerships`** — Pedagogical Partnerships (Students as Partners) — phrases: students as partners; pedagogical partnership; student partnership; co-creation; co-design; student co-design; students co-create; student voice in design
+- **`pedagogical-partnerships`** — Pedagogical Partnerships — phrases: students as partners; pedagogical partnership; student partnership; co-creation; co-design; student co-design; students co-create; student voice in design
 - **`pedagogical-safety`** — Pedagogical Safety
 - **`pedagogy`** — Pedagogies and Teaching Strategies
 - **`peer-review`** — Peer Review
