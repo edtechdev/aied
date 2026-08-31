@@ -7,6 +7,7 @@ import { conceptIndex } from '../data/conceptIndex';
 import TableOfContents from '../components/TableOfContents.astro';
 import RecentActivity from '../components/RecentActivity.astro';
 import StarredPages from '../components/StarredPages.astro';
+import FaqSidebarList from '../components/FaqSidebarList.astro';
 import 'katex/dist/katex.min.css';
 
 const { title = 'AIEd KB', description = 'AI in Education Knowledge Base', hideHeaderSearch = false, toc = [] } = Astro.props;
@@ -28,6 +29,13 @@ faqs.forEach(f => { allTitles[f.id.replace('.md', '')] = f.data.title; });
 
 const indexedCount = [...new Set(conceptIndex.flatMap(s => s.groups.flatMap(g => g.items)))]
   .filter(s => conceptMap[s]).length;
+
+// FAQs for the sidebar's "FAQs" tab, ordered by creation date (earliest first),
+// matching the FAQ index page.
+const sidebarFaqs = faqs
+  .slice()
+  .sort((a, b) => (a.data.created || '').localeCompare(b.data.created || ''))
+  .map(f => ({ slug: f.id.replace('.md', ''), title: f.data.title }));
 
 // Format a frontmatter timestamp (e.g. "2026-08-16T20:02:54-04:00")
 // into just the date part "2026-08-16" for display.
@@ -494,6 +502,38 @@ const recentConceptItems = recentConcepts.map(c => ({
       color: var(--muted-color);
       margin-top: 0.2rem;
     }
+    /* === Sidebar tabs (Concepts / FAQs / Starred) === */
+    .sidebar-tabs {
+      display: flex;
+      gap: 0.25rem;
+      margin: 0 0 0.75rem 0;
+      padding: 0.25rem;
+      background: color-mix(in srgb, var(--card-background-color) 60%, transparent);
+      border: 1px solid var(--card-border-color);
+      border-radius: 10px;
+    }
+    .sidebar-tab {
+      flex: 1;
+      border: none;
+      background: transparent;
+      color: var(--muted-color);
+      font: inherit;
+      font-size: 0.8rem;
+      font-weight: 600;
+      line-height: 1.2;
+      padding: 0.4rem 0.25rem;
+      border-radius: 7px;
+      cursor: pointer;
+      text-align: center;
+      box-shadow: none;
+    }
+    .sidebar-tab:hover { color: var(--primary); background: color-mix(in srgb, var(--primary) 8%, transparent); }
+    .sidebar-tab[aria-selected="true"] {
+      color: var(--color);
+      background: var(--card-background-color);
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+    }
+    .sidebar-panel[hidden] { display: none; }
     .nav-section {
       margin: 0 0 0.35rem 0;
       border: none;
@@ -778,32 +818,52 @@ const recentConceptItems = recentConcepts.map(c => ({
       <!-- Left: collapsible concept navigation (drawer on mobile) -->
       <button class="nav-backdrop" data-nav-toggle type="button" aria-label="Close navigation"></button>
       <aside class="sidebar" data-nav-drawer aria-label="Concept navigation">
-        <StarredPages titles={allTitles} />
-        <div class="sidebar-heading">
-          <a href="/aied/concepts/ai-education">AI in Education</a>
-          <span class="sidebar-count">{indexedCount} concepts</span>
+        <!-- Sidebar tabs: Concepts (default), FAQs, Starred -->
+        <div class="sidebar-tabs" role="tablist" aria-label="Sidebar sections">
+          <button class="sidebar-tab" role="tab" data-sidebar-tab="concepts" aria-selected="true" aria-controls="sidebar-panel-concepts">Concepts</button>
+          <button class="sidebar-tab" role="tab" data-sidebar-tab="faqs" aria-selected="false" aria-controls="sidebar-panel-faqs">FAQs</button>
+          <button class="sidebar-tab" role="tab" data-sidebar-tab="starred" aria-selected="false" aria-controls="sidebar-panel-starred">Starred</button>
         </div>
-        {conceptIndex.map((section, si) => (
-          <details class="nav-section" open={si === 0} data-state-key={`nav:${si}:${section.heading}`}>
-            <summary>{section.heading}</summary>
-            <div class="nav-section-body">
-              {section.groups.map(group => {
-                const items = group.items.filter(slug => conceptMap[slug]);
-                if (!items.length) return null;
-                return (
-                  <div class="nav-group">
-                    <div class="nav-group-label">{group.label}</div>
-                    <ul class="nav-list">
-                      {items.map(slug => (
-                        <li><a href={`/aied/concepts/${slug}`}>{conceptMap[slug]}</a></li>
-                      ))}
-                    </ul>
-                  </div>
-                );
-              })}
-            </div>
-          </details>
-        ))}
+
+        <div class="sidebar-panel" id="sidebar-panel-concepts" role="tabpanel" data-sidebar-panel="concepts">
+          <div class="sidebar-heading">
+            <a href="/aied/concepts/ai-education">AI in Education</a>
+            <span class="sidebar-count">{indexedCount} concepts</span>
+          </div>
+          {conceptIndex.map((section, si) => (
+            <details class="nav-section" open={si === 0} data-state-key={`nav:${si}:${section.heading}`}>
+              <summary>{section.heading}</summary>
+              <div class="nav-section-body">
+                {section.groups.map(group => {
+                  const items = group.items.filter(slug => conceptMap[slug]);
+                  if (!items.length) return null;
+                  return (
+                    <div class="nav-group">
+                      <div class="nav-group-label">{group.label}</div>
+                      <ul class="nav-list">
+                        {items.map(slug => (
+                          <li><a href={`/aied/concepts/${slug}`}>{conceptMap[slug]}</a></li>
+                        ))}
+                      </ul>
+                    </div>
+                  );
+                })}
+              </div>
+            </details>
+          ))}
+        </div>
+
+        <div class="sidebar-panel" id="sidebar-panel-faqs" role="tabpanel" data-sidebar-panel="faqs" hidden>
+          <div class="sidebar-heading">
+            <a href="/aied/faq">Frequently Asked Questions</a>
+            <span class="sidebar-count">{sidebarFaqs.length} FAQs</span>
+          </div>
+          <FaqSidebarList faqs={sidebarFaqs} />
+        </div>
+
+        <div class="sidebar-panel" id="sidebar-panel-starred" role="tabpanel" data-sidebar-panel="starred" hidden>
+          <StarredPages titles={allTitles} />
+        </div>
       </aside>
 
       <!-- Middle: page content -->
@@ -935,6 +995,40 @@ const recentConceptItems = recentConcepts.map(c => ({
       };
       document.querySelectorAll('details[data-state-key]').forEach((d) => {
         d.addEventListener('toggle', () => persist(d));
+      });
+    })();
+  </script>
+  <script is:inline>
+    // Sidebar tabs (Concepts / FAQs / Starred). Concepts is the default; the
+    // selected tab is persisted in localStorage so it's restored on navigation.
+    (() => {
+      const KEY = 'aied:sidebar-tab';
+      const tabs = document.querySelectorAll('[data-sidebar-tab]');
+      const panels = document.querySelectorAll('[data-sidebar-panel]');
+      if (!tabs.length) return;
+
+      const select = (name) => {
+        tabs.forEach((t) => {
+          const active = t.dataset.sidebarTab === name;
+          t.setAttribute('aria-selected', active ? 'true' : 'false');
+          t.tabIndex = active ? 0 : -1;
+        });
+        panels.forEach((p) => {
+          p.hidden = p.dataset.sidebarPanel !== name;
+        });
+      };
+
+      let saved = 'concepts';
+      try { saved = localStorage.getItem(KEY) || 'concepts'; } catch (e) {}
+      if (!['concepts', 'faqs', 'starred'].includes(saved)) saved = 'concepts';
+      select(saved);
+
+      tabs.forEach((t) => {
+        t.addEventListener('click', () => {
+          const name = t.dataset.sidebarTab;
+          select(name);
+          try { localStorage.setItem(KEY, name); } catch (e) {}
+        });
       });
     })();
   </script>
