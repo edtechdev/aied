@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-08-31T09:10:29-04:00"
 type: concept
 tags: [curriculum-design, learning-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
 discipline: [stem education]
@@ -16,7 +16,7 @@ confidence: high
 ## Questions to Consider
 
 - Curriculum design asks what students should learn at the program level, while learning design asks how at the course level. When AI reshapes a discipline, which of these two layers do you think should change first?
-- As generative AI automates implementation-level work, some argue curricula must shift toward system design, abstraction, and critical evaluation. What do you think students would lose if low-level skills were de-emphasized?
+- As [[generative-ai|generative AI]] automates implementation-level work, some argue curricula must shift toward system design, abstraction, and [[critical-thinking|critical evaluation]]. What do you think students would lose if low-level skills were de-emphasized?
 - Curriculum redesign in the AI era is often framed as a balance between tool fluency and foundational knowledge. Where have you seen that balance tip too far in one direction?
 - The SAIL framework treats AI literacy as scaffolded across ages and designed to address deeper 'digital divides' beyond access. How is embedding AI literacy across a whole curriculum different from adding a single AI course?
 - If every discipline now needs AI competencies embedded within it, who is responsible for the curriculum change — instructors, programs, or institutions — and what do educators need to succeed at it?
@@ -28,15 +28,17 @@ Curriculum design addresses the *what* of education at the program level, comple
 
 ### Key research themes
 
-**Redesigning curricula for the AI era** is the central challenge. **[[reshaping-cs-education-genai|Lee et al.]]** synthesized findings from international workshops on reshaping undergraduate CS education, arguing that as GenAI automates implementation-level programming, curricula must shift toward system design, abstraction, and critical evaluation — while de-emphasizing low-level implementation details. **[[ase-26-agentic-software-engineering-curriculum|Gorsky]]** formalized Agentic Software Engineering as a distinct discipline with a 21-module curriculum focused on the "evolution of intent" and practitioner discipline required to manage AI agents. Both connect to [[ai-literacy]] and [[scaffolding]].
+**Redesigning curricula for the AI era** is the central challenge. **[[reshaping-cs-education-genai|Lee et al.]]** synthesized findings from international workshops on reshaping undergraduate [[cs-education|CS education]], arguing that as GenAI automates implementation-level programming, curricula must shift toward system design, abstraction, and critical evaluation — while de-emphasizing low-level implementation details. **[[ase-26-agentic-software-engineering-curriculum|Gorsky]]** formalized Agentic Software Engineering as a distinct discipline with a 21-module curriculum focused on the "evolution of intent" and practitioner discipline required to manage [[agentic-ai|AI agents]]. Both connect to [[ai-literacy]] and [[scaffolding]].
 
-**Curriculum mapping and analysis** uses AI to understand existing curricula. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** analyzed 23 syllabi from AI-assisted software engineering courses, identifying common themes — prompt engineering, code review with AI, ethical considerations — and deriving design guidance that emphasizes balancing tool fluency with foundational knowledge. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** applies computational methods to compare CS course structures across institutions.
+**Curriculum mapping and analysis** uses AI to understand existing curricula. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** analyzed 23 syllabi from AI-assisted software engineering courses, identifying common themes — [[prompt-engineering|prompt engineering]], code review with AI, [[ethics|ethical considerations]] — and deriving design guidance that emphasizes balancing tool fluency with foundational knowledge. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** applies computational methods to compare CS course structures across institutions.
 
 **AI literacy integration** embeds AI competencies across disciplines. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** provides a scaffolded AI literacy framework applicable across all ages and educational stages, addressing second- and third-level [[digital-divide|digital divides]]. **[[tracing-genai-literacy-interaction-patterns]]** examines how AI literacy develops through interaction patterns. **[[hingle-collaborative-ai-literacy-2025]]** explores collaborative approaches to AI literacy curriculum development, connecting to [[collaborative-learning]].
 
-**Domain-specific curriculum innovation** applies curriculum design to specific fields. **[[genai-architecture-education]]** explores how generative AI reshapes architectural design pedagogy. **[[talebzadeh-ai-green-education-2026]]** examines AI integration in green education curricula. **[[connected-ai-lesson-planning-vietnam]]** and **[[llm-cultural-relevance-k12]]** address [[culturally-relevant-pedagogy|culturally responsive curriculum design]].
+**[[discipline-specific-aied|Domain-specific]] curriculum innovation** applies curriculum design to specific fields. **[[genai-architecture-education]]** explores how generative AI reshapes architectural design [[pedagogy]]. **[[talebzadeh-ai-green-education-2026]]** examines AI integration in green education curricula. **[[connected-ai-lesson-planning-vietnam]]** and **[[llm-cultural-relevance-k12]]** address [[culturally-relevant-pedagogy|culturally responsive curriculum design]].
 
-**Institutional frameworks** address curriculum change at scale. **[[finkelstein-principled-ai-education-2025]]** and **[[principled-ai-education]]** provide principles for integrating AI across educational programs. **[[ai-adoption-training-public-sector]]** examines barriers to AI curriculum adoption in public sector education.
+**[[governance|Institutional]] frameworks** address curriculum change at scale. **[[finkelstein-principled-ai-education-2025]]** and **[[principled-ai-education]]** provide principles for integrating AI across educational programs. **[[ai-adoption-training-public-sector]]** examines barriers to AI curriculum adoption in public sector education.
+
+**Sequencing AI across the programme.** [[refrain-amplify-genai-curriculum-2026|Torres-Sahli et al.]] propose a "refrain, then amplify" framework that sequences generative AI at the programme level: withhold a generative tool while a capacity is forming, then restore it to amplify that capacity once the student can direct it and judge its returns. Governed by a forming-versus-offloading criterion (whether a stretch of work builds a capacity or merely passes it through the tool), the framework links curriculum design to [[cognitive-offloading]], [[self-regulated-learning]], and [[academic-integrity]], with hard-to-fake checkpoints at each refrain-to-amplify hinge.
 
 ### Connections to related concepts
 
@@ -61,6 +63,7 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[collaborative-learning]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
 - mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 - [[ying-genai-journalism-assessment-2026]]
 - [[rook-plumb-genai-curricula-student-insights-2026]]
