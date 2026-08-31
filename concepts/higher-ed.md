@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-08-31T12:32:59-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, educational-development, student-experience, academic-integrity]
 audience: [learners, instructors, faculty development, administrator]
@@ -76,8 +76,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
-- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
-- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
+- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
+- [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Faculty Readiness Framework
 - [[genai-policies-higher-ed-computing]] — Institutional vs course GenAI policy in computing
 - [[ai-in-the-wild-college]] — AI in the Wild: College Student AI Use

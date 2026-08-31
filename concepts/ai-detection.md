@@ -1,7 +1,7 @@
 ---
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-08-31T12:32:59-04:00"
 type: concept
 tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, cognitive-offloading, assessment, educational-policy-ai, llm, assessment-validity, equity-in-ai-education]
 audience: [learners]
@@ -87,7 +87,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[ai-education]]
 
 ## Connected Articles
-- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
+- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]

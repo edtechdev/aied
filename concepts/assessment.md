@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T09:58:42-04:00"
+updated: "2026-08-31T12:32:59-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
@@ -88,8 +88,8 @@ The constructive question in the knowledge base's assessment literature is not "
 ## Connected Articles
 - [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
-- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
-- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
+- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
+- [[causal-modelling-competency-assessment-2026]] — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and assessment validity

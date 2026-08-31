@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-08-31T12:32:59-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
@@ -69,7 +69,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 
 ## Connected Articles
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
+- [[causal-modelling-competency-assessment-2026]] — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[learning-context-framework-context-aware-ai-education-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T09:10:29-04:00"
+updated: "2026-08-31T12:32:59-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -111,8 +111,8 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
-- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
-- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
+- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
+- [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
 - [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-Generated Text
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[ai-tools-academic-work-cheating-2026]] — Student cheating behaviour with AI tools in academic work
