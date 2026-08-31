@@ -206,6 +206,14 @@ const recentConceptItems = recentConcepts.map(c => ({
       align-items: center;
       gap: 1rem;
     }
+    /* Left group: hamburger + logo/title stay tightly together (no spreading). */
+    .header-left {
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      flex-shrink: 0;
+    }
+    .header-left .brand-link { margin-left: 0.25rem; }
     .nav-toggle {
       display: inline-flex;
       align-items: center;
@@ -374,14 +382,45 @@ const recentConceptItems = recentConcepts.map(c => ({
     @media (min-width: 1024px) {
       :global([data-sidebar-collapsed]) .sidebar { display: none; }
       :global([data-sidebar-collapsed]) .docs-layout { grid-template-columns: minmax(0, 1fr); }
+      /* When the sidebar is hidden, keep a little breathing room on the left
+         so the content doesn't sit flush against the browser edge. */
+      :global([data-sidebar-collapsed]) .docs-layout { padding-left: 2rem; }
     }
     @media (min-width: 1280px) {
       :global([data-sidebar-collapsed]) .docs-layout { grid-template-columns: minmax(0, 1fr) 19rem; }
     }
-    /* Desktop-only collapse control in the header (hidden on mobile, where the
-       hamburger opens the drawer instead). !important beats the shared
-       button.theme-toggle display rule so the button stays hidden on mobile. */
-    .sidebar-toggle { display: none !important; }
+    /* Desktop-only collapse control in the header: a PLAIN hamburger button
+       (no border/background pill), hidden on mobile where the drawer hamburger
+       handles navigation. Pico gives bare <button> a bordered look, so strip it. */
+    .sidebar-toggle {
+      display: none !important;
+      border: none;
+      background: transparent;
+      box-shadow: none;
+      width: 2.6rem;
+      height: 2.6rem;
+      padding: 0;
+      margin: 0;
+      color: var(--header-text, #ffffff);
+      cursor: pointer;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      font: inherit;
+      line-height: 1;
+      text-decoration: none;
+    }
+    .sidebar-toggle:hover,
+    .sidebar-toggle:focus-visible {
+      color: var(--primary);
+      background: transparent;
+      outline: none;
+    }
+    /* In light mode the header text is dark; keep the 3 lines clearly visible. */
+    :root:not([data-theme=dark]) .sidebar-toggle,
+    [data-theme=light] .sidebar-toggle {
+      color: #000000;
+    }
     @media (min-width: 1024px) {
       .sidebar-toggle { display: inline-flex !important; }
     }
@@ -662,24 +701,26 @@ const recentConceptItems = recentConcepts.map(c => ({
 <body>
   <header data-nav-header>
     <div class="container">
-      <button class="nav-toggle" data-nav-toggle type="button" aria-label="Toggle navigation" aria-expanded="false">
-        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <line x1="3" y1="6" x2="21" y2="6" />
-          <line x1="3" y1="12" x2="21" y2="12" />
-          <line x1="3" y1="18" x2="21" y2="18" />
-        </svg>
-      </button>
-      <button id="sidebar-toggle" class="nav-toggle sidebar-toggle" type="button" title="Collapse sidebar" aria-label="Collapse sidebar" aria-pressed="false">
-        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <line x1="3" y1="6" x2="21" y2="6" />
-          <line x1="3" y1="12" x2="21" y2="12" />
-          <line x1="3" y1="18" x2="21" y2="18" />
-        </svg>
-      </button>
-      <a href="/aied/" class="brand-link">
-        <img src="/aied/logo.svg" alt="AIEd KB logo" width="28" height="28" style="display:inline-block;vertical-align:middle;margin-right:0.5rem;" />
-        <span>AIEd KB</span>
-      </a>
+      <div class="header-left">
+        <button class="nav-toggle" data-nav-toggle type="button" aria-label="Toggle navigation" aria-expanded="false">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="3" y1="6" x2="21" y2="6" />
+            <line x1="3" y1="12" x2="21" y2="12" />
+            <line x1="3" y1="18" x2="21" y2="18" />
+          </svg>
+        </button>
+        <button id="sidebar-toggle" class="sidebar-toggle" type="button" title="Collapse sidebar" aria-label="Collapse sidebar" aria-pressed="false">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="3" y1="6" x2="21" y2="6" />
+            <line x1="3" y1="12" x2="21" y2="12" />
+            <line x1="3" y1="18" x2="21" y2="18" />
+          </svg>
+        </button>
+        <a href="/aied/" class="brand-link">
+          <img src="/aied/logo.svg" alt="AIEd KB logo" width="28" height="28" style="display:inline-block;vertical-align:middle;margin-right:0.5rem;" />
+          <span>AIEd KB</span>
+        </a>
+      </div>
       {!hideHeaderSearch && (
         <div class="header-search">
           <pagefind-config bundle-path="/aied/pagefind/"></pagefind-config>
