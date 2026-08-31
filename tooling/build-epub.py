@@ -277,6 +277,17 @@ for path in faq_paths:
     parts.append(f"\n### {title} {{#{slug}}}\n\n{body}")
 
 combined = '\n\n'.join(parts)
+
+# Exclude the H2 subheadings under the "Use This Knowledge Base with Your Own
+# AI Assistant" chapter from the TOC (EPUB + PDF). Mark them {.unlisted} so
+# pandoc's --toc omits them, while keeping the headings in the body text.
+use_chap = re.compile(
+    r'(?ms)^(# Use This Knowledge Base with Your Own AI Assistant\n)(.*?)(?=\n# )')
+def _unlist_use(m):
+    body = re.sub(r'(?m)^(## .+)$', r'\1 {.unlisted}', m.group(2))
+    return m.group(1) + body
+combined = use_chap.sub(_unlist_use, combined)
+
 md_path = os.path.join(WIKI, 'dist', 'aied-export.md')
 os.makedirs(os.path.dirname(md_path), exist_ok=True)
 with open(md_path, 'w', encoding='utf-8') as f:
