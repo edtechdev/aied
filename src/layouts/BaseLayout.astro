@@ -280,12 +280,9 @@ const recentConceptItems = recentConcepts.map(c => ({
       outline: none;
     }
     /* The theme toggle is a <button> (not an <a>), so strip Pico's default
-       button sizing/typography and match the sibling header-icon anchors.
-       The sidebar collapse toggle is also a <button> and shares these rules. */
+       button sizing/typography and match the sibling header-icon anchors. */
     button.theme-toggle,
-    button.theme-toggle:not([role]),
-    button.sidebar-toggle,
-    button.sidebar-toggle:not([role]) {
+    button.theme-toggle:not([role]) {
       width: 2.4rem;
       height: 2.4rem;
       padding: 0;
@@ -305,9 +302,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       flex-shrink: 0;
     }
     button.theme-toggle:hover,
-    button.theme-toggle:focus-visible,
-    button.sidebar-toggle:hover,
-    button.sidebar-toggle:focus-visible {
+    button.theme-toggle:focus-visible {
       color: var(--primary);
       border-color: var(--primary);
       background: color-mix(in srgb, var(--primary) 10%, transparent);
@@ -674,6 +669,13 @@ const recentConceptItems = recentConcepts.map(c => ({
           <line x1="3" y1="18" x2="21" y2="18" />
         </svg>
       </button>
+      <button id="sidebar-toggle" class="nav-toggle sidebar-toggle" type="button" title="Collapse sidebar" aria-label="Collapse sidebar" aria-pressed="false">
+        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <line x1="3" y1="6" x2="21" y2="6" />
+          <line x1="3" y1="12" x2="21" y2="12" />
+          <line x1="3" y1="18" x2="21" y2="18" />
+        </svg>
+      </button>
       <a href="/aied/" class="brand-link">
         <img src="/aied/logo.svg" alt="AIEd KB logo" width="28" height="28" style="display:inline-block;vertical-align:middle;margin-right:0.5rem;" />
         <span>AIEd KB</span>
@@ -685,16 +687,6 @@ const recentConceptItems = recentConcepts.map(c => ({
         </div>
       )}
       <nav class="header-icons" aria-label="Knowledge base tools">
-        <button id="sidebar-toggle" class="header-icon sidebar-toggle" type="button" title="Collapse sidebar" aria-label="Collapse sidebar" aria-pressed="false">
-          <svg id="sidebar-icon-collapse" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
-            <line x1="9" y1="3" x2="9" y2="21"></line>
-          </svg>
-          <svg id="sidebar-icon-expand" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:none;">
-            <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
-            <line x1="15" y1="3" x2="15" y2="21"></line>
-          </svg>
-        </button>
         <a href="/aied/ai" class="header-icon" title="Chat with AI" aria-label="Chat with AI">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z"></path>
@@ -913,16 +905,12 @@ const recentConceptItems = recentConcepts.map(c => ({
       const btn = document.getElementById('sidebar-toggle');
       if (!btn) return;
       const root = document.documentElement;
-      const collapseIcon = document.getElementById('sidebar-icon-collapse');
-      const expandIcon = document.getElementById('sidebar-icon-expand');
       const apply = (collapsed) => {
         if (collapsed) root.setAttribute('data-sidebar-collapsed', '');
         else root.removeAttribute('data-sidebar-collapsed');
         btn.setAttribute('aria-pressed', collapsed ? 'true' : 'false');
         btn.title = collapsed ? 'Expand sidebar' : 'Collapse sidebar';
         btn.setAttribute('aria-label', collapsed ? 'Expand sidebar' : 'Collapse sidebar');
-        if (collapseIcon) collapseIcon.style.display = collapsed ? 'none' : '';
-        if (expandIcon) expandIcon.style.display = collapsed ? '' : 'none';
       };
       let collapsed = false;
       try { collapsed = localStorage.getItem(KEY) === '1'; } catch (e) {}
