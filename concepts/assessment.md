@@ -85,6 +85,7 @@ The constructive question in the knowledge base's assessment literature is not "
 - [[eportfolio]] — Process-based e-portfolio assessment
 
 ## Connected Articles
+- [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment

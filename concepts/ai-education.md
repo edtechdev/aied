@@ -159,6 +159,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[visualization]] — Data visualization, infographics, and dashboards
 
 ## Connected Articles
+- [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[banihashem-ai-srl-systematic-mapping-review-2025]]
