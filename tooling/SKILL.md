@@ -39,7 +39,7 @@ Use this phase when the user asks to ingest research papers (arXiv or non-arXiv)
    - Path: `articles/<slug>.md`
    - Frontmatter (required): `title`, `created`, `updated`, `type: article`, `tags`, `sources`, `confidence` (`high`/`medium`/`low`)
    - **`created`/`updated` must be full QUOTED date+time timestamps** (e.g. `"2026-08-16T20:47:13-04:00"`), never bare dates — the sidebar and RSS sort by string comparison, and unquoted ISO shifts to UTC (next day). `created` = ingestion date+time (not paper pub date). Display is date-only; the time is internal for sorting. Bump `updated` on any significant body edit and rebuild so the sidebar refreshes.
-   - Body: synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → Citation (APA, hyperlinked title)
+   - Body: synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → Citation (APA; **hyperlink ONLY the article title** to the source, with the journal/volume/pages in plain italics, e.g. `Author, A. (Year). [Title](https://doi.org/…). *Journal, Vol*(Issue), pages.` — never hyperlink the journal/volume/pages along with the title)
 4. **Update/Create Concept Pages**
    - Only create a `concepts/<slug>.md` page when the topic is genuinely new (check existing concepts first — avoid duplicates)
    - Add the new article to related concept pages' Connected Articles lists
