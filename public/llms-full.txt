@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 182 concepts, 950 articles, and 16 FAQs.
+> Complete text of 182 concepts, 956 articles, and 16 FAQs.
 
 # Concepts
 
@@ -152,6 +152,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[visualization]] — Data visualization, infographics, and dashboards
 
 ## Connected Articles
+- [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[banihashem-ai-srl-systematic-mapping-review-2025]]
@@ -311,7 +312,7 @@ These refutations are deliberately written in the [[refutation-text|refutation-t
 
 ## [AI Literacy](https://edtechdev.github.io/aied/concepts/ai-literacy/)
 
-> **AI literacy** — the knowledge, skills, and critical dispositions needed to understand, evaluate, and effectively use AI technologies in educational contexts. AI literacy spans foundational understanding of how AI works, practical competence in using AI tools, critical evaluation of AI outputs, and ethical awareness of AI's societal implications.
+> **AI literacy** — the knowledge, skills, and critical dispositions needed to understand, evaluate, and effectively use AI [[ai-technologies|technologies]] in educational contexts. AI literacy spans foundational understanding of how AI works, practical competence in using AI tools, critical [[ai-ed-evaluation|evaluation of AI]] outputs, and ethical awareness of AI's societal implications.
 
 ## Questions to Consider
 
@@ -328,13 +329,13 @@ AI literacy has rapidly emerged as a core competency for learners, educators, an
 
 ### Dimensions of AI literacy
 
-AI literacy research in this knowledge base spans four interconnected dimensions:
+AI literacy [[research-methods-aied|research]] in this knowledge base spans four interconnected dimensions:
 
 **Foundational knowledge:** Understanding what [[llm|LLMs]] are, how they differ from rule-based systems, and their fundamental limitations. This includes awareness of model capabilities, training data biases, and the distinction between task-specific AI and general-purpose models. Research in [[prompt-engineering]] examines how understanding prompt mechanisms affects effective AI use.
 
 **Practical competence:** The ability to use AI tools effectively — from [[prompt-engineering]] to interpreting outputs. Studies of [[genai-usage-design-students-survey|student GenAI usage patterns]] reveal that tool access alone doesn't produce competence; structured practice and [[scaffolding]] are essential. The [[gaide-vibe-coding-k12-teachers|vibe coding framework]] shows how [[k-12|K-12 teachers]] can develop practical AI literacy through guided tool creation.
 
-**Critical evaluation:** The capacity to assess AI outputs for accuracy, bias, and appropriateness. [[ai-literacy-assessment-misalignment|Research on literacy assessment]] shows a 40% gap between self-reported and performance-based AI literacy — people consistently overestimate their evaluation skills. This connects to [[cognitive-offloading|Over-Reliance]] research showing that students who [[trust]] AI uncritically learn less.
+**Critical evaluation:** The capacity to assess AI outputs for accuracy, bias, and appropriateness. [[ai-literacy-assessment-misalignment|Research on literacy assessment]] shows a 40% gap between self-reported and performance-based AI literacy — people consistently overestimate their evaluation skills. This connects to [[cognitive-offloading|Over-Reliance]] research showing that students who [[trust]] AI uncritically learn less. Recent conceptual work pushes evaluation toward *verification*: the [[pearls-epistemic-verification-2026|PEARLS framework]] (Wang) treats AI output as a provisional knowledge claim whose warrant must be assembled and examined across six dimensions (Process, Evidence, Access, Reproducibility, Legitimacy, Source), and advances **verification-driven learning** as the mechanism by which learners build expertise while checking AI claims. Complementing this, the [[student-centered-genai-responsible-framework-2026|student-centered responsible-use framework]] (Alsammani) offers ten student-facing guidelines across Learning and Growth, Ethics and Integrity, and Awareness and Safety pillars that externalize [[metacognition|metacognitive]] prompts at the point of decision.
 
 **Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity-in-ai-education]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[educational-development]], and [[governance|governance frameworks]] — institutional AI literacy is a matter of [[educational-policy-ai|policy]] as much as pedagogy. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
 
@@ -342,15 +343,15 @@ AI literacy research in this knowledge base spans four interconnected dimensions
 
 Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. The [[icap-framework|ICAP framework]] (Interactive → Constructive → Active → Passive) provides a useful taxonomy of cognitive engagement: students learn AI literacy best when they co-construct knowledge rather than passively receive information. Designers should select the mode that fits the learning goal and favor the deeper (constructive and interactive) modes where possible. Practical activities — designing prompts, evaluating outputs in groups, debating AI [[ethics]] — outperform lectures.
 
-**Motivation is a precondition, not just an outcome.** [[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]] found, across 2,086 secondary students in a year-long AI curriculum, that students who transitioned into or remained in a *Self-Determined* motivational profile (high autonomy, competence, and relatedness need satisfaction) showed the **greatest AI-literacy gains**. AI literacy develops through sustained engagement, and that engagement is itself shaped by motivation and psychological-need support — so effective AI-literacy instruction should attend to learners' motivation, not only their skills.
+**Motivation is a precondition, not just an outcome.** [[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]] found, across 2,086 secondary students in a year-long AI curriculum, that students who transitioned into or remained in a *Self-Determined* [[motivation|motivational]] profile (high autonomy, competence, and relatedness need satisfaction) showed the **greatest AI-literacy gains**. AI literacy develops through sustained engagement, and that engagement is itself shaped by motivation and psychological-need support — so effective AI-literacy instruction should attend to learners' motivation, not only their skills.
 
 A core applied aim of AI literacy is [[reducing-ai-misuse]]: teaching students to use AI ethically and productively rather than substituting it for their own [[cognitive-offloading|cognitive work]]. Where AI literacy builds the *capacity* to evaluate and use AI critically, [[reducing-ai-misuse|reducing misuse]] is the behavioral and structural payoff — combining guardrailed tool design, [[assessment|assessment redesign]], and educative levers such as scaffolded think-first/AI-second sequences and prompting practice with deliberate [[feedback]]. The two concepts are mutually reinforcing: AI literacy supplies the critical dispositions that make misuse-reduction interventions durable, while misuse-reduction evidence (e.g. the [[ai-misuse-learning-harm|performance–learning gap]]) motivates why literacy must go beyond operational skill to critical judgment.
 
 AI literacy also needs developmentally appropriate forms for the youngest learners. [[ai-play-framework-early-childhood-2026|AI-Play]] translates AI literacy competencies into play-based, **unplugged** activities for Pre-K–K2 learners — organized around *AI Body* (AI as a system built from parts), *AI Food* (AI learns from examples), *AI Brain* (AI improves through patterns and feedback), and a Pre/Post-AI ethical lens — addressing a persistent lack of developmentally grounded AI literacy guidance for early childhood and making AI literacy accessible to non-technical [[teacher-role|educators]] and families.
 
-**AI literacy as a core gap in conversational-AI frameworks.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) identifies **limited AI literacy support** as a major gap in CAI frameworks, and its ethical-use roadmap makes foundational assessment (including strengthening AI literacy) the first pillar alongside participatory design, ethical-use guidelines, and continuous evaluation of cognitive impact. It further finds that AI-literacy, training, and awareness rank among the most-emphasized ethical directions in the CAI literature.([[conversational-ai-agents-umbrella-review-2026]])
+**AI literacy as a core gap in [[conversational-ai]] frameworks.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) identifies **limited AI literacy support** as a major gap in CAI frameworks, and its ethical-use roadmap makes foundational assessment (including strengthening AI literacy) the first pillar alongside participatory design, ethical-use guidelines, and continuous evaluation of cognitive impact. It further finds that AI-literacy, training, and awareness rank among the most-emphasized ethical directions in the CAI literature.([[conversational-ai-agents-umbrella-review-2026]])
 
-**Effectiveness of AI literacy interventions.** A [[liu-ai-literacy-interventions-meta-analysis-2026|three-level meta-analysis of 59 studies]] (172 effect sizes, 7,211 participants) estimates a large overall effect of AI literacy interventions (g = 0.837, p < .001) — but with a wide prediction interval [−0.292, 1.966], so effectiveness varies considerably across settings. Interventions in East Asia and Europe outperformed those in North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics. The authors argue AI literacy education should therefore move beyond knowledge toward skills, practices, ethics, and attitudes, supported by integrated and reflective pedagogies (project- and problem-based, inquiry-based, experiential) and GenAI-supported tools — a shift that aligns with the participatory, producer-oriented forms of [[computational-thinking]] described elsewhere in this knowledge base.
+**Effectiveness of AI literacy interventions.** A [[liu-ai-literacy-interventions-meta-analysis-2026|three-level meta-analysis of 59 studies]] (172 effect sizes, 7,211 participants) estimates a large overall effect of AI literacy interventions (g = 0.837, p < .001) — but with a wide prediction interval [−0.292, 1.966], so effectiveness varies considerably across settings. Interventions in East Asia and Europe outperformed those in North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics. The authors argue AI literacy education should therefore move beyond knowledge toward skills, practices, ethics, and attitudes, supported by integrated and reflective [[pedagogy|pedagogies]] (project- and problem-based, inquiry-based, experiential) and GenAI-supported tools — a shift that aligns with the participatory, producer-oriented forms of [[computational-thinking]] described elsewhere in this knowledge base.
 
 ### Critical AI literacy: beyond skills to power and resistance
 
@@ -358,7 +359,7 @@ A distinct strand of the knowledge base treats AI literacy not merely as skills 
 
 - **"Resisting AI" as a literacy stance.** Critical AI Literacy (CAIL) can encompass *resisting AI* — refusing the inevitability and techsolutionism of dominant discourse, and cultivating collective agency through dialogic, collaborative pedagogies.([[li-mroziak-reorienting-critical-ai-literacy]]) This positions education as a space where communities imagine and build alternative futures, rather than merely adapt to a given technological order.
 - **Community-based epistemologies.** Community-based AI learning grounds AI engagement in learners' lived and community-based ways of knowing, redistributing AI's epistemic authority through epistemic fine-tuning, redistribution of authority, and situated discernment.([[ojeda-ramirez-community-based-ai-learning]])
-- **Critical and feminist frames.** Critical, feminist scholarship argues AI literacy should be framed within pedagogies of justice, resistance, and cultural sustainability — asking whose knowledge AI produces, who benefits, and who is accountable when systems fail.([[avraamidou-ai-colonization-science-education]])
+- **Critical and feminist frames.** Critical, feminist scholarship argues AI literacy should be framed within pedagogies of justice, resistance, and cultural [[sustainability]] — asking whose knowledge AI produces, who benefits, and who is accountable when systems fail.([[avraamidou-ai-colonization-science-education]])
 - **Situated curriculum devices.** AI literacy can be built through [[situated-learning|situated]], active teaching instruments (e.g., Episodes of Situated Learning) that develop AI competencies across levels rather than through abstract instruction.([[panciroli-ai-literacy-episodes-situated-learning]])
 - **Regulatory competence, not acceptance.** Kim (2026) reframes AI literacy in [[higher-ed|higher education]] as *[[regulation|regulatory competence]]* — an enacted practice of verifying, revising, selectively adopting, or rejecting AI output during academic work — showing that evaluative capacity and ethical awareness (not mere willingness to use AI) predict active, [[student-engagement|critical engagement]].([[ai-anxiety-strategic-regulation-writing-2026]])
 - **Recognizing [[ai-sycophancy|sycophancy]] as a literacy skill.** A core evaluative competency is recognizing when an AI is *agreeing* with the learner versus being correct. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows AI literacy and prompting training reduce — but do not eliminate — sycophantic mirroring of user errors, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] is preferred by users precisely because it makes them feel understood. AI literacy must therefore teach learners to detect agreement-for-its-own-sake and to value corrective friction, connecting to [[trust-calibration]] and [[reducing-ai-misuse]].
@@ -373,15 +374,15 @@ A central open question in AI literacy is *which* skills matter and for whom. An
 
 The knowledge base's frameworks and empirical studies converge on a set of practical guidelines for educators and instructional designers building AI literacy interventions:
 
-**1. Use a structured competency framework as scaffolding, not a checklist.** Mature frameworks give designers a shared vocabulary and a developmentally sequenced target. The [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL framework]] organizes AI literacy into three domains (AI Concepts; Application and Technical Skills; AI Digital Citizenship) across four scaffolded levels — Understand and Explore → Apply and Integrate → Evaluate and Create → AI++. The [[ai-literacy-heptagon-2026|AI Literacy Heptagon]] cross-cuts seven dimensions (technical knowledge, application, critical thinking, ethics, social impact, integration, legal/regulatory) with four Bloom-aligned proficiency levels, and stresses that emphasis must be **adapted to disciplinary context** — technical programs weight application, humanities programs weight ethical and social-impact reasoning.([[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]])([[ai-literacy-heptagon-2026]])
+**1. Use a structured competency framework as scaffolding, not a checklist.** Mature frameworks give designers a shared vocabulary and a developmentally sequenced target. The [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL framework]] organizes AI literacy into three domains (AI Concepts; Application and Technical Skills; AI Digital Citizenship) across four scaffolded levels — Understand and Explore → Apply and Integrate → Evaluate and Create → AI++. The [[ai-literacy-heptagon-2026|AI Literacy Heptagon]] cross-cuts seven dimensions (technical knowledge, application, critical thinking, ethics, social impact, integration, legal/regulatory) with four Bloom-aligned proficiency levels, and stresses that emphasis must be **adapted to disciplinary context** — technical programs weight application, [[humanities-education|humanities]] programs weight ethical and social-impact reasoning.([[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]])([[ai-literacy-heptagon-2026]])
 
-**2. Engage learners across ICAP modes.** Applying the [[icap-framework|ICAP framework]], effective instruction gives learners opportunities to engage at multiple cognitive levels — passive exposure (AI concept lectures), active manipulation (hands-on tool use), constructive generation (creating AI artifacts, self-explaining), and interactive dialogue (collaborative problem-solving with peers and AI) — selecting the mode that fits the learning goal. A systematic review found successful collaborative AI-literacy interventions spanned all four ICAP modes.([[hingle-collaborative-ai-literacy-2025]])
+**2. Engage learners across ICAP modes.** Applying the [[icap-framework|ICAP framework]], effective instruction gives learners opportunities to engage at multiple cognitive levels — passive exposure (AI concept lectures), active manipulation (hands-on tool use), constructive generation (creating AI artifacts, self-explaining), and interactive dialogue (collaborative [[problem-solving]] with peers and AI) — selecting the mode that fits the learning goal. A [[meta-analysis-systematic-review|systematic review]] found successful collaborative AI-literacy interventions spanned all four ICAP modes.([[hingle-collaborative-ai-literacy-2025]])
 
 **3. Assess demonstrated competence, not self-perception.** Self-reported AI literacy diverges sharply from measured performance — teachers overestimate their AI skills by ~40%, and performance-based measures correlate with classroom AI integration far better than self-reports (r≈0.72 vs 0.31). Design interventions around performance-based assessment and calibration rather than confidence surveys, and use diagnostic profiles (overestimators vs. true novices) to target support.([[ai-literacy-assessment-misalignment]])
 
 **4. Build metacognitive and critical dispositions, not just operational skill.** AI literacy is better understood as a [[metacognition|metacognitive social practice]] than a skills checklist: because LLMs are probabilistic and opaque, learners must monitor and adjust their strategies, cultivate scientific skepticism, and interrogate how algorithms shape knowledge production — not merely learn to operate tools. Participatory co-design and experimental, project-based spaces (not one-off tool training) are where this awareness grows.([[metacognitive-ai-literacy-beyond-skills-gap-2026]])
 
-**5. Embed literacy in the discipline and make it sustained.** Movement toward higher stages of AI literacy (from uncritical use → informed use → critical evaluation → improvement) is most visible when experiences are **sustained and discipline-embedded** rather than delivered as standalone workshops. Design for repeated, contextual practice within authentic coursework.([[ai-literacy-continuum-higher-education]]) A concrete model of discipline-embedded critical literacy is the task-based taxonomy of [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026|Dierickx et al. (2026)]] for journalism: it maps LLM-supported tasks across the four stages of the news workflow (newsgathering, sensemaking, editing, publication/distribution), each tied to a baseline [[prompt-engineering|prompt]] and a risk-and-mitigation strategy. By treating task definition and prompting as a [[situated-learning|situated]] form of professional judgement — not a neutral technical skill — it turns prompting itself into a vehicle for critical AI literacy (bias, hallucination, overreliance, and the enduring value of [[human-in-the-loop-ai|human editorial oversight]]), and its underlying logic transfers to other knowledge-intensive professions (law, medicine, public policy). Complementary to such discipline-specific taxonomies, the [[dohn-boundary-object-classifying-genai-learning-activities-2026|Dohn et al. (2026) taxonomy]] classifies GenAI learning activities along six dimensions, of which **Epistemic Engagement** (understanding / using / critiquing / constructing GenAI) directly operationalises AI literacy as the depth of learners' cognitive relationship with the technology — from passive exposure to active critique and construction.
+**5. Embed literacy in the discipline and make it sustained.** Movement toward higher stages of AI literacy (from uncritical use → informed use → critical evaluation → improvement) is most visible when experiences are **sustained and discipline-embedded** rather than delivered as standalone workshops. Design for repeated, contextual practice within authentic coursework.([[ai-literacy-continuum-higher-education]]) A concrete model of discipline-embedded critical literacy is the task-based taxonomy of [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026|Dierickx et al. (2026)]] for journalism: it maps LLM-supported tasks across the four stages of the news workflow (newsgathering, sensemaking, editing, publication/distribution), each tied to a baseline [[prompt-engineering|prompt]] and a risk-and-mitigation strategy. By treating task definition and prompting as a [[situated-learning|situated]] form of professional judgement — not a neutral technical skill — it turns prompting itself into a vehicle for critical AI literacy (bias, hallucination, overreliance, and the enduring value of [[human-in-the-loop-ai|human editorial oversight]]), and its underlying logic transfers to other knowledge-intensive professions (law, [[medical-education|medicine]], public policy). Complementary to such [[discipline-specific-aied|discipline-specific]] taxonomies, the [[dohn-boundary-object-classifying-genai-learning-activities-2026|Dohn et al. (2026) taxonomy]] classifies GenAI learning activities along six dimensions, of which **Epistemic Engagement** (understanding / using / critiquing / constructing GenAI) directly operationalises AI literacy as the depth of learners' cognitive relationship with the technology — from passive exposure to active critique and construction.
 
 **6. Treat equity and the digital divide as design constraints.** AI literacy is a mechanism for addressing the three-level digital divide (access, skills, outcomes): closing the device gap is insufficient unless skills and critical use are built so benefits distribute fairly. Interventions should plan explicitly for learners who enter with less prior AI access, and incorporate cultural and governance perspectives rather than treating literacy as culture-neutral.([[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]])([[digital-divide]])
 
@@ -432,6 +433,9 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[higher-ed]] — university-level literacy
 
 ## Connected Articles
+- [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
+- [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
+- [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 
@@ -756,6 +760,9 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
+- [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
+- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
@@ -1009,7 +1016,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 ## [Academic Integrity](https://edtechdev.github.io/aied/concepts/academic-integrity/)
 
-> **Academic integrity** — the ethical framework governing honest academic work in the age of AI. The knowledge base documents how the concept has been reframed by [[generative-ai|generative AI]]: from a problem of [[ai-detection|detecting dishonest output]] to a design problem of making honest work visible, verifiable, and worth producing. Academic integrity research in this space has evolved from detection-focused approaches toward fundamental assessment redesign, pedagogy-led governance, and [[ai-literacy|teaching students how to use AI well]] rather than merely policing whether they do.
+> **Academic integrity** — the ethical framework governing honest academic work in the age of AI. The knowledge base documents how the concept has been reframed by [[generative-ai|generative AI]]: from a problem of [[ai-detection|detecting dishonest output]] to a design problem of making honest work visible, verifiable, and worth producing. Academic integrity [[research-methods-aied|research]] in this space has evolved from detection-focused approaches toward fundamental assessment redesign, pedagogy-led governance, and [[ai-literacy|teaching students how to use AI well]] rather than merely policing whether they do.
 
 ## Questions to Consider
 
@@ -1028,6 +1035,7 @@ The arrival of generative AI has not created the need for academic integrity —
 
 - **Detection skepticism:** [[ai-detection]] research and [[governance|institutional]] analyses increasingly find that AI detection tools are unreliable and procedurally unfair. [[detecting-llm-generated-text-latent-prompt|LLM text detection]] faces fundamental limitations. Fully AI-generated submissions can pass through live examination systems largely undetected, and experienced markers do not reliably spot GenAI-authored work. Detection, at best, is a limited, situational tool — not a strategy of first resort.
 - **Assessment redesign:** [[authentic-assessment]], [[beyond-detection-authentic-assessment-ai-2025|beyond-detection approaches]], and [[ai-assessment-scale-reform|the AI Assessment Scale]] shift the focus from catching AI use to designing assessments where AI use is either irrelevant, transparent, or required to demonstrate a specific capability.
+- **Structural vulnerability of grading:** [[biology-grade-vulnerability-genai-2026|Chan et al.]] provide a concrete case study of how current grading is structurally exposed to AI-mediated dishonesty. In a [[biology-education|biology]] department, instructors perceived only in-person proctored exams as minimally vulnerable; outside-of-class assignments were seen as highly vulnerable, leaving about a third of a student's grade highly vulnerable and 80% at least somewhat vulnerable. This frames the integrity problem as partly a *grading-design* problem, motivating rebalancing toward proctored or in-class assessment and [[authentic-assessment|authentic assessment]] designs that are harder to outsource.
 - **Validity as the organizing frame:** [[assessment-validity]] reframes integrity as an evidential problem. [[authentic-products-authenticated-processes-2026|Authentic assessment research]] introduces **construct substitution** — an AI-generated product is attributed to the student, so the assessment infers the tool's capability rather than the student's. The evidential question survives any AI policy: whether use is prohibited, permitted, or required, the assessment must still generate evidence warranting the inference being drawn.
 - **Policy development:** [[genai-policies-higher-ed-computing|Institutional AI policies]] and [[educational-policy-ai]] research examine how universities develop and communicate integrity expectations — and why abstract policy statements so often fail.
 
@@ -1077,7 +1085,7 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - **Authentic assessments alone cannot safeguard integrity.** [[kofinas-generative-ai-authentic-assessment-integrity-2025|Kofinas et al. (2025)]] find that markers generally **cannot distinguish** assessments with GenAI input from those without, and that the level of assessment authenticity has **no impact** on the ability to safeguard against or detect GenAI use. The higher-education sector "cannot rely on authentic assessments alone to control the impact of GenAI" — a direct challenge to the [[authentic-assessment|assessment-redesign]] strategy, which must be paired with other measures.
 - **Purpose must precede policy.** [[taylor-lacroix-purpose-before-policy-academic-integrity-2026|Taylor & LaCroix (2026)]] argue that whether GenAI use constitutes misconduct depends on the university's *purpose*. Rising misconduct cases reflect structural incoherence in the neo-liberal university, where technological enthusiasm, corporate influence, and policy enforcement conflict — leaving students accountable for behaviours implicitly shaped by the institution. Universities cannot credibly enforce integrity without coherence between stated mission, pedagogy, and technology practice.
 - **Psychological and behavioral determinants.** [[psychological-mechanisms-academic-integrity-ai-2026|Frontiers research]] maps the psychological mechanisms and behavioral determinants of academic integrity under AI — how attitudes, self-efficacy, norms, and perceived consequences shape honest use — connecting integrity to [[motivation]], [[self-efficacy]], and [[ai-literacy]] as behavioural constructs rather than pure rule-following.
-- **Students' ethical judgments are divided and use-dependent.** [[lopez-lopez-academic-integrity-ai-study-practices-2026|López-López et al. (2026)]] survey 357 students and find AI use is routine and usually perceived as helpful, yet ethical judgments remain divided: a slight majority rejected the idea that AI use is fraud, more than a third were undecided, and more frequent use and perceived learning support were associated with more permissive judgments — while perceived creativity reduction pulled the other way.
+- **Students' ethical judgments are divided and use-dependent.** [[lopez-lopez-academic-integrity-ai-study-practices-2026|López-López et al. (2026)]] survey 357 students and find AI use is routine and usually perceived as helpful, yet ethical judgments remain divided: a slight majority rejected the idea that AI use is fraud, more than a third were undecided, and more frequent use and perceived learning support were associated with more permissive judgments — while perceived [[creativity]] reduction pulled the other way.
 - **AI marketing normalises use and framess "cheating vs. competing."** [[sobo-cheating-competing-ai-marketing-literacy-2025|Sobo et al. (2025)]] show AI is marketed to students as a practical necessity ("Make your writing sound more natural to avoid being mistakenly flagged"), and students feel compelled to adopt it to stay competitive even while worrying about dependency and learning forfeiture — an internalized entrepreneurial imperative. This points to the need for [[reducing-ai-misuse|marketing literacy]] as part of AI integrity education.
 - **AI humanizers expose the performative cycle of detection.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] catalog 55 AI-humanizer websites that alter AI-generated text to evade detection, framed through Goffman's dramaturgy. Humanizers make misconduct discursively absent and perform legitimacy, demonstrating that the detection-vs-circumvention arms race is structurally unending — reinforcing the shift from [[ai-detection|policing]] to assessment design and [[ai-literacy]].
 - **Ghost students and the agentic-AI verification gap.** [[bozkurt-ghost-students-agentic-ai-2026|Bozkurt, Crompton & Fell Kurban (2026)]] introduce the **"ghost student"**: a digital surrogate created by coupling LLMs (the "mind") with agentic AI browsers (the "body") that can navigate LMS, engage content, and complete assessments with human-like mimicry, making the actual learner's presence optional. This creates a **verification gap** that traditional proctoring and detection are structurally unable to close — an integrity threat that grows as AI becomes [[agentic-ai|agentic]] rather than merely generative.
@@ -1103,6 +1111,9 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[k-12]]
 
 ## Connected Articles
+- [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
+- [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
+- [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
@@ -1282,6 +1293,7 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
 - [[ying-genai-journalism-assessment-2026]]
@@ -2070,6 +2082,8 @@ The framework's boundary condition requires **contestability** (the ability to q
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
+- [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[reclaiming-epistemic-agency-co-agency-2026]]
@@ -2276,7 +2290,7 @@ Design thinking in AI education is deeply entangled with [[human-ai-collaboratio
 ## Questions to Consider
 
 - Curriculum design asks what students should learn at the program level, while learning design asks how at the course level. When AI reshapes a discipline, which of these two layers do you think should change first?
-- As generative AI automates implementation-level work, some argue curricula must shift toward system design, abstraction, and critical evaluation. What do you think students would lose if low-level skills were de-emphasized?
+- As [[generative-ai|generative AI]] automates implementation-level work, some argue curricula must shift toward system design, abstraction, and [[critical-thinking|critical evaluation]]. What do you think students would lose if low-level skills were de-emphasized?
 - Curriculum redesign in the AI era is often framed as a balance between tool fluency and foundational knowledge. Where have you seen that balance tip too far in one direction?
 - The SAIL framework treats AI literacy as scaffolded across ages and designed to address deeper 'digital divides' beyond access. How is embedding AI literacy across a whole curriculum different from adding a single AI course?
 - If every discipline now needs AI competencies embedded within it, who is responsible for the curriculum change — instructors, programs, or institutions — and what do educators need to succeed at it?
@@ -2288,15 +2302,17 @@ Curriculum design addresses the *what* of education at the program level, comple
 
 ### Key research themes
 
-**Redesigning curricula for the AI era** is the central challenge. **[[reshaping-cs-education-genai|Lee et al.]]** synthesized findings from international workshops on reshaping undergraduate CS education, arguing that as GenAI automates implementation-level programming, curricula must shift toward system design, abstraction, and critical evaluation — while de-emphasizing low-level implementation details. **[[ase-26-agentic-software-engineering-curriculum|Gorsky]]** formalized Agentic Software Engineering as a distinct discipline with a 21-module curriculum focused on the "evolution of intent" and practitioner discipline required to manage AI agents. Both connect to [[ai-literacy]] and [[scaffolding]].
+**Redesigning curricula for the AI era** is the central challenge. **[[reshaping-cs-education-genai|Lee et al.]]** synthesized findings from international workshops on reshaping undergraduate [[cs-education|CS education]], arguing that as GenAI automates implementation-level programming, curricula must shift toward system design, abstraction, and critical evaluation — while de-emphasizing low-level implementation details. **[[ase-26-agentic-software-engineering-curriculum|Gorsky]]** formalized Agentic Software Engineering as a distinct discipline with a 21-module curriculum focused on the "evolution of intent" and practitioner discipline required to manage [[agentic-ai|AI agents]]. Both connect to [[ai-literacy]] and [[scaffolding]].
 
-**Curriculum mapping and analysis** uses AI to understand existing curricula. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** analyzed 23 syllabi from AI-assisted software engineering courses, identifying common themes — prompt engineering, code review with AI, ethical considerations — and deriving design guidance that emphasizes balancing tool fluency with foundational knowledge. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** applies computational methods to compare CS course structures across institutions.
+**Curriculum mapping and analysis** uses AI to understand existing curricula. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** analyzed 23 syllabi from AI-assisted software engineering courses, identifying common themes — [[prompt-engineering|prompt engineering]], code review with AI, [[ethics|ethical considerations]] — and deriving design guidance that emphasizes balancing tool fluency with foundational knowledge. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** applies computational methods to compare CS course structures across institutions.
 
 **AI literacy integration** embeds AI competencies across disciplines. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** provides a scaffolded AI literacy framework applicable across all ages and educational stages, addressing second- and third-level [[digital-divide|digital divides]]. **[[tracing-genai-literacy-interaction-patterns]]** examines how AI literacy develops through interaction patterns. **[[hingle-collaborative-ai-literacy-2025]]** explores collaborative approaches to AI literacy curriculum development, connecting to [[collaborative-learning]].
 
-**Domain-specific curriculum innovation** applies curriculum design to specific fields. **[[genai-architecture-education]]** explores how generative AI reshapes architectural design pedagogy. **[[talebzadeh-ai-green-education-2026]]** examines AI integration in green education curricula. **[[connected-ai-lesson-planning-vietnam]]** and **[[llm-cultural-relevance-k12]]** address [[culturally-relevant-pedagogy|culturally responsive curriculum design]].
+**[[discipline-specific-aied|Domain-specific]] curriculum innovation** applies curriculum design to specific fields. **[[genai-architecture-education]]** explores how generative AI reshapes architectural design [[pedagogy]]. **[[talebzadeh-ai-green-education-2026]]** examines AI integration in green education curricula. **[[connected-ai-lesson-planning-vietnam]]** and **[[llm-cultural-relevance-k12]]** address [[culturally-relevant-pedagogy|culturally responsive curriculum design]].
 
-**Institutional frameworks** address curriculum change at scale. **[[finkelstein-principled-ai-education-2025]]** and **[[principled-ai-education]]** provide principles for integrating AI across educational programs. **[[ai-adoption-training-public-sector]]** examines barriers to AI curriculum adoption in public sector education.
+**[[governance|Institutional]] frameworks** address curriculum change at scale. **[[finkelstein-principled-ai-education-2025]]** and **[[principled-ai-education]]** provide principles for integrating AI across educational programs. **[[ai-adoption-training-public-sector]]** examines barriers to AI curriculum adoption in public sector education.
+
+**Sequencing AI across the programme.** [[refrain-amplify-genai-curriculum-2026|Torres-Sahli et al.]] propose a "refrain, then amplify" framework that sequences generative AI at the programme level: withhold a generative tool while a capacity is forming, then restore it to amplify that capacity once the student can direct it and judge its returns. Governed by a forming-versus-offloading criterion (whether a stretch of work builds a capacity or merely passes it through the tool), the framework links curriculum design to [[cognitive-offloading]], [[self-regulated-learning]], and [[academic-integrity]], with hard-to-fake checkpoints at each refrain-to-amplify hinge.
 
 ### Connections to related concepts
 
@@ -2321,6 +2337,7 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[collaborative-learning]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
 - mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 - [[ying-genai-journalism-assessment-2026]]
 - [[rook-plumb-genai-curricula-student-insights-2026]]
@@ -2398,6 +2415,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use negatively correlates with critical thinking via offloading (Gerlich 2025)
@@ -4365,6 +4383,7 @@ The sociocultural strand is tightly coupled to Cognitive Load Theory (support sh
 - [[intelligent-tutoring]]
 
 ## Connected Articles
+- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
 
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
@@ -4756,6 +4775,8 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[llm]] — the underlying model of AI tools
 
 ## Connected Articles
+- [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
+- [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
@@ -5130,6 +5151,8 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[student-experience]]
 - [[learning-theories]]
 ## Connected Articles
+- [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
+- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
@@ -8047,6 +8070,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[k-12]]
 
 ## Connected Articles
+- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
@@ -8635,6 +8659,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[agentic-ai]]
 - [[cognitive-offloading]]
 ## Connected Articles
+- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[ai-communities-of-inquiry-2026]]
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 
@@ -9231,6 +9256,7 @@ Biology education sits within the broader [[stem-education]] domain and shares t
 - [[educational-policy-ai]]
 
 ## Connected Articles
+- [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
 
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
@@ -10052,7 +10078,7 @@ SSH education foregrounds the very capabilities generative AI most challenges �
 
 - In medicine, AI benefits like scalable practice and adaptive feedback must be balanced against risks like erosion of hands-on clinical skill — where errors carry direct patient consequences. Where would you draw the line between what AI should do and what a trainee must practice for themselves?
 - The page argues AI should be used to operationalize age-old learning principles — experiential, situated, distributed cognition — rather than replace the educator's guiding role. What makes the educator's judgment indispensable even when AI can simulate or personalize the practice?
-- Reinforcement-learning trainers and agentic AI are now used for clinical and procedural skills in residency. If an AI agent trains a resident on a procedure, how would you verify they've actually learned it safely before they do it on a patient?
+- Reinforcement-learning trainers and [[agentic-ai|agentic AI]] are now used for clinical and procedural skills in residency. If an AI agent trains a resident on a procedure, how would you verify they've actually learned it safely before they do it on a patient?
 - Because health-professions education is high-stakes and competency-based, assessment questions carry particular weight. How might AI-assisted assessment both improve and threaten the evaluation of clinical competence?
 - Over-reliance on AI is a specific concern in medicine. How do you think training with AI could produce a clinician who is more confident but less able to reason independently — and what could guard against that?
 
@@ -10067,6 +10093,7 @@ AI in medical and health-professions education is a growing strand of the knowle
 - **Simulation and agentic AI.** [[hdr-brachytherapy-agentic-ai-simulation-2026|Agentic AI simulation in brachytherapy]] shows how AI agents support hands-on procedural training in medical specialties.
 - **Gamification of medical learning.** [[medgame-llm-medical-education-gamification|MedGame]] applies [[game-based-learning|gamification]] and LLMs to engage medical students.
 - **Nursing and interdisciplinary education.** [[alrazeeni-transforming-nursing-education-ai-2026|AI transformation of nursing education]] documents how AI reshapes nursing curricula and instruction.
+- **Task allocation and the SCAN framework.** [[ai-teammate-task-distribution-medical-training-2026|Tsim et al.]] reframe AI integration from learner "misuse" to *misclassification* — a failure of real-time [[metacognition|metacognitive]] evaluation. Their SCAN framework (Substitute, Complement, Aid, Non-Negotiable), grounded in Vygotsky's [[sociocultural-learning|zone of proximal development]], allocates [[generative-ai|generative AI]] tasks by the individual learner's developmental state and identifies passive engagement within AI-scaffolded tasks as a hidden pathway to mis-skilling that requires re-identification from AI to expert assistance with human [[human-in-the-loop-ai|epistemic auditors]].
 
 ### Why it matters
 
@@ -10097,6 +10124,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[discipline-specific-aied]]
 
 ## Connected Articles
+- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing experiential, situated, and distributed cognition with AI in health-professions education
@@ -10347,6 +10375,11 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
+- [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
+- [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
+- [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
+- [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
@@ -10722,6 +10755,7 @@ The constructive question in the knowledge base's assessment literature is not "
 - [[eportfolio]] — Process-based e-portfolio assessment
 
 ## Connected Articles
+- [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
@@ -11853,6 +11887,7 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[feedback]]
 
 ## Connected Articles
+- [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
@@ -14208,9 +14243,10 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 
 ## Introduction
 
-AI governance in education is increasingly urgent because [[generative-ai|generative AI]] introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, [[agency|learner agency]], [[assessment]] validity, and the [[teacher-role|role of educators]] as epistemic authorities. Governance addresses questions of [[academic-integrity|academic integrity]] (what counts as acceptable AI use), [[privacy|data privacy]] and security, [[bias-mitigation|algorithmic bias]] and fairness, transparency and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the knowledge base's research is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
+AI governance in education is increasingly urgent because [[generative-ai|generative AI]] introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, [[agency|learner agency]], [[assessment]] validity, and the [[teacher-role|role of educators]] as epistemic authorities. Governance addresses questions of [[academic-integrity|academic integrity]] (what counts as acceptable AI use), [[privacy|data privacy]] and security, [[bias-mitigation|algorithmic bias]] and fairness, transparency and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the knowledge base's [[research-methods-aied|research]] is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
 
 - **[[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi]]** [[meta-analysis-systematic-review|scoping review]] frames AI governance in higher education through anticipatory-governance and leadership lenses.
+- **Student co-design of policy:** [[guided-inquiry-genai-course-policy-2026|Hingle & Johri]] show how a guided inquiry activity in which students co-designed a GenAI course policy surfaced student values — prioritizing training, standardized [[ai-use-disclosure|disclosure]] procedures, stronger institutional support, and greater involvement in decision-making. This positions students as partners in governance rather than passive subjects, complementing institutional-level policy with bottom-up student voice.
 
 ## How AI governance appears in the research
 
@@ -14246,7 +14282,7 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 
 Governance is distinct from — but inseparable from — [[educational-policy-ai|educational AI policy]]. **Policy is the content**: the formal rules and statements (what AI use is allowed, what must be disclosed, what assessment is permitted). **Governance is the machinery** that produces, implements, enforces, and revises those rules: who sets them, how they are resourced and communicated, how compliance and appeals are handled, and how they adapt as AI evolves. Where the [[educational-policy-ai|policy]] page catalogs the *rules themselves* and their maturity gaps, this page focuses on the *structures and practices* that make rules real — steering groups, ethical review, assessment governance, and accountability across levels. A rule on paper is policy; a rule that is owned, monitored, and enforced is governance. The two are mutually dependent: policy without governance is unenforced, and governance without policy lacks direction.
 
-[[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify **ethics & data governance** as one of seven enablers of trustworthy LA-based educational interventions — policies for the ethical use of LA and AI, data privacy, security, and accountability — and position trustworthiness (including leadership and governance that support implementation) as the prerequisite for meaningful data-informed interventions.
+[[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify **ethics & data governance** as one of seven enablers of trustworthy LA-based educational interventions — policies for the ethical use of LA and AI, data privacy, security, and accountability — and position [[trust|trustworthiness]] (including leadership and governance that support implementation) as the prerequisite for meaningful data-informed interventions.
 
 ## Connected Concepts
 - [[ai-use-disclosure]] — AI use and disclosure statements
@@ -14269,6 +14305,8 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
+- [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
@@ -15727,6 +15765,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
@@ -15912,6 +15951,7 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[higher-ed]]
 
 ## Connected Articles
+- [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
@@ -16344,6 +16384,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[pedagogical-safety]]
 
 ## Connected Articles
+- [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
 - [[fouad-bentley-trust-utility-gap-physics-2026]]
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 
@@ -23102,6 +23143,67 @@ Liu, Y., Martinez-Maldonado, R., Alfredo, R., Mejia-Domenzain, P., Rahayu, D., &
 
 ---
 
+## [AI as Teammate: Rethinking Task Distribution in Medical Training](https://edtechdev.github.io/aied/articles/ai-teammate-task-distribution-medical-training-2026/)
+
+> **Synthesis:** Tsim et al. (2026) propose a conceptual reframing of AI integration in [[medical-education]]: the problem is not learner *misuse* of generative AI but *misclassification* — a mechanistic failure of real-time [[metacognition|metacognitive]] evaluation in selecting a subzone-inappropriate [[student-ai-interaction|AI interaction]] mode. They introduce the SCAN framework (Substitute, Complement, Aid, Non-Negotiable), a human-centric decision scheme for generative AI task allocation grounded in Vygotsky's Zone of Proximal Development and [[metacognition]]. The account yields testable predictions about how misclassification can be detected, mitigated, and prevented in the clinical learning environment, and it reframes skill acquisition (upskilling) and failure (de-skilling, never-skilling, mis-skilling) at the individual task level rather than via fixed-phase, cohort-wide treatments.
+
+## From Misuse to Misclassification
+
+Integrating artificial intelligence — particularly [[generative-ai]] — into medical training has prompted widespread concern about learner over-reliance, misuse, and the erosion of foundational clinical competencies. Survey evidence suggests a large gap between exposure and readiness: a recent study found that while 97.1% of graduate medical trainees report no formal AI instruction, 85.5% already use AI tools for clinical decision support and [[writing-education|academic writing]].
+
+The authors argue the dominant "misuse" framing misdiagnoses the problem. Instead, they propose that failures arise from **misclassification** — a failure of real-time [[metacognition|metacognitive]] evaluation in which a learner selects a [[human-in-the-loop-ai|subzone-inappropriate]] AI interaction mode for a given task. The corrective is not restriction but more precise task classification.
+
+## The SCAN Framework
+
+SCAN names four modes of generative AI task allocation grounded in Vygotsky's Zone of Proximal Development:
+
+1. **Substitute** — AI performs a task the learner could perform independently; appropriate only when the capacity is already consolidated and substitution serves efficiency rather than bypassing formation.
+2. **Complement** — AI works alongside the learner, providing support that extends but does not replace the learner's active contribution.
+3. **Aid** — AI offers [[scaffolding]] within the learner's zone of proximal development, supporting a capacity that is currently forming.
+4. **Non-Negotiable** — tasks that must be performed by the learner without AI, where delegation would short-circuit the formation of foundational clinical competence.
+
+The framework links each mode to the [[sociocultural-learning|social-constructivist]] logic of the ZPD: the appropriate mode depends on where the individual learner stands relative to the task, not on a fixed phase or cohort-wide rule.
+
+## Skill Acquisition and the Triad of Skill Failure
+
+The paper illustrates how trajectories of skill acquisition and failure operate at the individual task level:
+
+1. **Upskilling** — the learner progressively internalizes the capacity, allowing AI support to be withdrawn or reclassified over time.
+2. **De-skilling** — a previously formed capacity atrophies as AI takes over work the learner once performed.
+3. **Never-skilling** — a capacity that was never formed because AI did the work from the start (the learner "cannot atrophy a muscle that was never built").
+4. **Mis-skilling** — the learner forms a flawed or shallow capacity through inappropriate AI mediation.
+
+The authors identify **passive [[student-engagement|engagement]]** within correctly classified AI-scaffolded tasks as a particularly insidious, detection-resistant pathway to mis-skilling. This requires re-identifying the subzone — shifting from AI assistance to expert assistance, with human experts serving as [[human-in-the-loop-ai|epistemic auditors]].
+
+## Implications for Curriculum, Supervision, and Assessment
+
+SCAN is operationalized for clinical [[curriculum-design|curriculum design]], supervision, and [[assessment]]. The shift from misuse to misclassification is not merely semantic: it gives educators a concrete perspective on what to look for, what to assess, and what to intervene on. The framework grounds [[intelligent-tutoring|AI tutors]] in a theory of learning rather than treating them as generic productivity tools, and it connects [[cognitive-offloading]] concerns to the developmental state of the individual learner.
+
+## Connected Concepts
+- [[medical-education]]
+- [[generative-ai]]
+- [[sociocultural-learning]]
+- [[metacognition]]
+- [[cognitive-offloading]]
+- [[human-in-the-loop-ai]]
+- [[intelligent-tutoring]]
+- [[scaffolding]]
+- [[trust-calibration]]
+- [[ai-education]]
+- [[assessment]]
+
+## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
+- [[semantic-variability-llm-conversation-assessment-2026]] — Semantic Variability in LLM Conversation Assessment
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
+- [[best-response-student-ai-dialog-2026]] — The Best Response to Student AI Use Is Not Detection, It Is Dialog
+- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
+
+## Citation
+Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). [*AI as Teammate: Rethinking Task Distribution in Medical Training*](https://arxiv.org/abs/2608.28373). arXiv:2608.28373.
+
+---
+
 ## [Is Using AI Tools for Academic Work Cheating? Student Perceptions, Ethics, and Impact on Academic Performance and Critical Thinking](https://edtechdev.github.io/aied/articles/ai-tools-academic-work-cheating-2026/)
 
 > **Synthesis:** This PRISMA 2020 systematic review synthesizes recent research on whether students regard AI-assisted academic work as cheating, finding that student perceptions sit on a spectrum—ranging from viewing AI as a legitimate learning resource to seeing it as misconduct—depending on task type, transparency, and assessment design. A key theme is the persistent gap between student and faculty interpretations of acceptable AI use, alongside evidence that over-dependence on AI can drive [[cognitive-offloading]], reduced independent reasoning, and altered academic behavior. The review argues that the future of [[higher-ed]] lies in concrete ethical standards, promoted [[ai-literacy]], and reshaped [[assessment]] design that fosters [[generative-ai]] collaboration without compromising originality, equity, or intellectual growth.
@@ -26591,6 +26693,50 @@ This provides context-specific pilot evidence that adaptive AI-based [[adaptive-
 ## Citation
 
 Bin Bakheet, T., Alamri, H., & Alshaya, F. (2026). [*Developing deep learning in science through an adaptive AI-based STEM instructional program: evidence from sixth-grade classrooms*](https://doi.org/10.1186/s40594-026-00630-1). *International Journal of STEM Education*, 13, 35.
+
+---
+
+## [Can Students Cheat Their Way to a Biology Degree? Vulnerability of Biology Course Grades to Academic Dishonesty in the Era of Generative AI](https://edtechdev.github.io/aied/articles/biology-grade-vulnerability-genai-2026/)
+
+> **Synthesis:** Chan et al. (2026) report a case study of one [[biology-education|biology]] department in the 2025–2026 academic year examining how vulnerable course grades are to [[academic-integrity|academic dishonesty]] in the era of [[generative-ai]]. Analyzing syllabi from all core required biology courses, they found instructors perceived only in-person proctored exams as minimally vulnerable; all other graded categories were at least somewhat vulnerable, with outside-of-class assignments seen as highly vulnerable. On average, about a third of a student's grade was highly vulnerable and 80% was at least somewhat vulnerable to academic dishonesty. The study highlights how current grading may be undermining the validity of course grades as measures of student learning.
+
+## The Vulnerability of Modern Grading
+
+A course grade is typically understood as a measure of student success that communicates achievement to employers and graduate programs. Thirty years ago, most undergraduate [[biology-education|biology]] courses administered a few high-stakes, in-person proctored exams on which a grade depended — making cheating difficult and risky. The convergence of widespread [[generative-ai]] adoption and the shift toward coursework completed outside a physical classroom has introduced new challenges that potentially threaten the integrity of a college biology degree.
+
+## What the Case Study Found
+
+The [[research-methods-aied|researchers]] analyzed the syllabi from all offerings of core required biology courses in a term to determine the percentage of graded coursework vulnerable to academic dishonesty, based on instructors' perceptions within that department.
+
+1. **Only in-person proctored exams were seen as minimally vulnerable.** All other graded categories were perceived as at least somewhat vulnerable to academic dishonesty.
+2. **Outside-of-class assignments were perceived as highly vulnerable.** Take-home work — the category most exposed to generative AI — was seen as the least protected.
+3. **About a third of a student's grade was highly vulnerable**, and roughly 80% was at least somewhat vulnerable, on average, in core required biology courses.
+
+The findings suggest that current grading in biology courses may be substantially exposed to AI-mediated academic dishonesty, [[prompt-engineering|prompting]] instructors to rethink how they grade in order to protect the [[assessment-validity|validity]] of course grades as measures of student learning.
+
+## Implications
+
+The case study frames the integrity problem as partly a *design* problem: grading architectures that rely heavily on unsupervised, take-home coursework are structurally vulnerable in the generative AI era. Responses may include rebalancing toward proctored or in-class assessment, [[authentic-assessment|authentic assessment]] designs that are harder to outsource, and clearer norms around AI use. The work connects to broader debates about how [[assessment]] must change to preserve meaning and validity when AI can produce fluent work on demand.
+
+## Connected Concepts
+- [[academic-integrity]]
+- [[generative-ai]]
+- [[biology-education]]
+- [[assessment]]
+- [[assessment-validity]]
+- [[higher-ed]]
+- [[authentic-assessment]]
+- [[ai-education]]
+
+## Connected Articles
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond Detection: How Students Use—and Hide—AI
+- [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — Academic Integrity in the Age of AI
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment
+- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — The Impact of Generative AI on Academic Integrity of Authentic Assessments
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity
+
+## Citation
+Chan, B. G., Anderson, E. P., Lu, S., Abdellatif, N., Cooper, K. M., & Brownell, S. E. (2026). [*Can Students Cheat Their Way to a Biology Degree? Vulnerability of Biology Course Grades to Academic Dishonesty in the Era of Generative AI*](https://osf.io/preprints/edarxiv/4bgd3_v1/). EdArXiv preprint.
 
 ---
 
@@ -39533,6 +39679,55 @@ Thomas, D. R., Borchers, C., Vanacore, K. P., Koedinger, K. R., & Kizilcec, R. F
 
 ---
 
+## [A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies](https://edtechdev.github.io/aied/articles/guided-inquiry-genai-course-policy-2026/)
+
+> **Synthesis:** Hingle and Johri (2026) report an exploratory study in which students co-designed a [[generative-ai]] course policy through a guided inquiry activity. Students first drafted individual proposals for appropriate and [[ethics|ethical]] GenAI use, then refined them collaboratively by incorporating diverse stakeholder perspectives. Analysis of student artifacts and group discussions showed participants prioritized training for students and instructors, standardized [[ai-use-disclosure|disclosure]] procedures, stronger institutional support, and greater involvement in GenAI-related decision-making. The study offers [[pedagogy|pedagogical]] insights into how policy co-design can surface student values and sensemaking about governing AI use in educational contexts.
+
+## Co-Designing GenAI Policy Through Guided Inquiry
+
+Institutions and instructors increasingly confront questions about how to support learning while addressing the ethical and institutional concerns raised by [[generative-ai]]. Yet students — the people who make most day-to-day decisions about AI use — are largely absent from the [[governance|policy-making]] process. This exploratory study examines a guided inquiry activity in which students took an active role in designing a GenAI course policy.
+
+The activity progressed through several stages: students first completed readings on AI use, then used GenAI to brainstorm initial policy ideas; next, they articulated their own perspectives in a written assignment and an individually designed course policy; finally, they collaborated with peers to incorporate diverse stakeholder perspectives into a collective policy. Two [[research-methods-aied|research]] questions guided the study: what practical factors students prioritize in their GenAI use policies and how they justify these choices, and how participants reflect on the policy design process.
+
+## What Students Prioritize
+
+1. **Training for students and instructors.** Participants emphasized the need for clear guidance and skill development around appropriate GenAI use — a demand that maps to [[ai-literacy]] and [[teacher-education]].
+2. **Standardized [[ai-use-disclosure|disclosure]] procedures.** Students wanted consistent, transparent expectations for when and how to disclose AI use in academic work.
+3. **Stronger institutional support.** Rather than relying on individual instructors, students called for coherent, institution-level backing for [[educational-policy-ai|GenAI policy]].
+4. **Greater involvement in decision-making.** Participants wanted a meaningful role in shaping the rules that govern their learning, reflecting a desire for [[agency]] in AI governance.
+
+Students described the policy design process itself as valuable, noting that it forced them to engage with multiple perspectives and the inherent trade-offs involved in governing AI use. This positions policy co-design as both an outcome and a learning activity: it surfaces student values and concerns while developing their capacity to reason about responsible AI use.
+
+## Implications
+
+The findings support treating students as partners in [[governance|AI governance]] rather than passive subjects of policy. A guided inquiry approach can serve as a practical pedagogy for eliciting student perspectives on [[generative-ai]] use, and it complements broader institutional efforts to develop [[ai-literacy]] and responsible-use norms across [[higher-ed]]. For instructors, the activity offers a low-cost way to translate student voice into course-level policy while building students' capacity for ethical reasoning about AI.
+
+## Connected Concepts
+- [[generative-ai]]
+- [[ai-education]]
+- [[governance]]
+- [[agency]]
+- [[ai-literacy]]
+- [[ai-use-disclosure]]
+- [[academic-integrity]]
+- [[teacher-role]]
+- [[student-engagement]]
+- [[higher-ed]]
+- [[ethics]]
+- [[curriculum-design]]
+
+## Connected Articles
+- [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — "Should I Tell My Teacher?" Student AI Disclosure Practices
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond Detection: How Students Use—and Hide—AI
+- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
+- [[students-perceptions-ai-tools-study-2026]] — Students' Perceptions of AI Tools for Study Productivity
+
+## Citation
+Hingle, A., & Johri, A. (2026). [*A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies*](https://arxiv.org/abs/2608.28501). arXiv:2608.28501.
+
+---
+
 ## [Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics](https://edtechdev.github.io/aied/articles/guided-llm-scaffolding-independent-learning/)
 
 > Experimental study comparing Guided vs. Unrestricted LLM access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and self-assessment calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
@@ -51584,6 +51779,58 @@ Nalyvaiko, O. (2026). [*From Prompts to Verified Loops: The PCHL-HE Framework fo
 
 ---
 
+## [From Plausibility to Verifiability: The PEARLS Framework for Developing Epistemic Agency in Generative AI-Mediated Higher Education](https://edtechdev.github.io/aied/articles/pearls-epistemic-verification-2026/)
+
+> **Synthesis:** Wang (2026) addresses the *plausibility–verifiability gap* created by [[generative-ai]]: an AI-generated artifact can display the linguistic and structural markers of expertise while the evidence, provenance, and limitations needed to warrant reliance remain difficult to inspect. The paper introduces PEARLS, an artifact-level verification protocol organized around six interdependent dimensions — Process, Evidence, Access, Reproducibility, Legitimacy, and Source — that treats AI output as a provisional knowledge claim whose warrant must be assembled and examined. It advances **verification-driven learning** as a [[pedagogy|pedagogical]] mechanism through which learners develop expertise, and it demonstrates how the relative emphasis of the six dimensions varies across disciplines.
+
+## The Plausibility–Verifiability Gap
+
+Generative AI has sharply reduced the cost of producing fluent explanations, syntheses, analyses, code, and recommendations, but it has not reduced the intellectual work required to establish whether those outputs deserve belief or use. This asymmetry — plausible surface, hard-to-inspect warrant — creates a distinctive challenge for learners. Existing [[ai-literacy|AI literacy]] and evaluative-judgement frameworks specify broad competencies for critical and responsible [[student-engagement|engagement]], yet students and novice users still need an actionable method for evaluating a particular AI-mediated artifact.
+
+## The PEARLS Verification Protocol
+
+PEARLS is an artifact-level verification protocol organized around six interdependent dimensions:
+
+1. **Process** — examining the reasoning and procedure behind the AI-generated output.
+2. **Evidence** — assessing the grounds, data, and support for the claims made.
+3. **Access** — determining the [[accessibility]] and availability of sources and materials.
+4. **Reproducibility** — evaluating whether the result can be reproduced or verified independently.
+5. **Legitimacy** — judging the authority, standing, and [[trust|trustworthiness]] of the source.
+6. **Source** — tracing the provenance and origins of the information.
+
+The framework integrates insights from epistemic cognition, epistemic vigilance, [[cognitive-offloading]], calibrated [[trust-calibration|trust]], evaluative judgement, and open-science principles. Its core move is to treat AI output as a provisional knowledge claim whose warrant must be assembled and examined rather than accepted on the basis of fluency.
+
+## Verification-Driven Learning
+
+The paper advances **verification-driven learning** as a pedagogical mechanism: learners develop expertise by iteratively focusing consequential claims, tracing and testing their warrant, judging uncertainty and legitimacy, acting on the results, and reframing subsequent inquiry. This positions the act of verifying AI output not merely as a protective skill but as a genuine learning activity that builds domain expertise and [[critical-thinking]].
+
+Five interdisciplinary cases — psychology theory, educational statistics, [[cs-education|computer science]], history, and health sciences — demonstrate how the relative emphasis of the six dimensions varies with disciplinary standards and the consequences of error. The paper concludes by deriving implications for [[assessment]] design and proposing a [[research-methods-aied|research]] agenda encompassing construct validation, intervention studies, disciplinary calibration, [[equity-in-ai-education|equity]], and human–AI interface design.
+
+## Connected Concepts
+- [[generative-ai]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[metacognition]]
+- [[trust-calibration]]
+- [[cognitive-offloading]]
+- [[critical-thinking]]
+- [[agency]]
+- [[assessment]]
+- [[ethics]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+- [[student-centered-genai-responsible-framework-2026]] — A Student-Centered Framework for Responsible Use of Generative AI
+- [[semantic-variability-llm-conversation-assessment-2026]] — Semantic Variability in LLM Conversation Assessment
+- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity
+- [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency
+
+## Citation
+Wang, Z. (2026). [*From Plausibility to Verifiability: The PEARLS Framework for Developing Epistemic Agency in Generative AI-Mediated Higher Education*](https://osf.io/preprints/edarxiv/9mvpa_v1/). EdArXiv preprint.
+
+---
+
 ## [Pedagogical Safety in Educational Reinforcement Learning](https://edtechdev.github.io/aied/articles/pedagogical-safety-rl/)
 
 > Olukola & Rahimi (2026) introduce what they argue is the first formal framework for pedagogical safety in reinforcement learning (RL)-based intelligent tutoring systems. Because RL agents optimize a proxy reward, they can "hack" it — maximizing measurable engagement while producing little genuine learning. The paper formalizes pedagogical safety as four constraint classes (structural, progress, behavioral, alignment), proposes the Reward Hacking Severity Index (RHSI) to quantify proxy-reward/true-learning misalignment, and tests both in a simulated tutoring environment. The central result is that reward design alone is insufficient: a multi-objective reward still over-selected a zero-mastery, high-engagement action, while a constrained architecture combining prerequisite enforcement and a minimum-cognitive-demand filter substantially reduced hacking (RHSI from 0.317 to 0.102). An ablation identified behavioral safety — enforcing a minimum cognitive demand — as the single most influential safeguard.
@@ -54175,6 +54422,59 @@ The Reflective Triangle offers a systematic approach to continuous professional 
 ## Citation
 
 (2026). [*The Reflective Triangle Model: AI as a Cognitive Mediator in Teachers' Professional Learning and Learning-Community Development*](https://osf.io/preprints/edarxiv/zxtw6_v1/). EdArXiv preprint.
+
+---
+
+## [Refrain, Then Amplify: A Curriculum Framework for Sequencing Generative AI to Form Professional Judgement](https://edtechdev.github.io/aied/articles/refrain-amplify-genai-curriculum-2026/)
+
+> **Synthesis:** Torres-Sahli et al. (2026) propose a programme-level curriculum framework — "refrain, then amplify" — for sequencing [[generative-ai]] to form professional judgement. On this design, a programme withholds a generative tool while a capacity is forming, then restores it to amplify that capacity once the student can direct it, judge what it returns, and answer for it. Devices are allowed where they support engaged work and excluded where they drain attention, all governed by a forming-versus-offloading criterion: whether a stretch of work forms a capacity or merely passes it through the tool. The programme fixes outcomes and [[academic-integrity|integrity]], reserves [[teacher-role|teaching]] method to the instructor, and places a hard-to-fake checkpoint at each refrain-to-amplify hinge.
+
+## The Underlying Question
+
+Universities hold three separate conversations about the same question: one about student devices, another about generative AI in assessed work, and a third, unspoken, that leaves instructors to decide both at their own professional risk. The question underneath: does the technology serve the formation of a capacity, or do the work in the student's place? This paper holds the three as one, at the level where curricular design happens — the programme.
+
+The framework echoes an ancient concern: Socrates' complaint against writing in Plato's *Phaedrus* — that those who trust external marks will cease to remember for themselves. With [[generative-ai]], the danger is no longer only that we lose capacities we stop exercising; as one commentator puts it, "you cannot atrophy a muscle that was never built." A student who lets the tool do the work before the capacity has formed has no baseline to return to.
+
+## Refrain, Then Amplify
+
+On the refrain-then-amplify design:
+
+1. **Refrain** — a programme withholds a generative tool while a capacity is forming, so the learner builds the foundational capability without outsourcing it.
+2. **Amplify** — once the student can direct the tool, judge what it returns, and answer for it, the tool is restored to amplify that capacity.
+
+Devices are governed by a forming-versus-offloading criterion: whether a stretch of work forms a capacity or puts it through the tool. Devices are allowed where they support engaged work and excluded where they drain attention. This connects directly to concerns about [[cognitive-offloading]] and the risk of never-skilling when a tool does the work of a capacity still forming.
+
+## Programme-Level Design
+
+The framework operates at the programme level, sitting as a single floor beneath every course:
+
+1. **The programme fixes outcomes and [[academic-integrity|integrity]]**, reserving teaching method to the instructor.
+2. **A hard-to-fake checkpoint sits at each refrain-to-amplify hinge**, providing a verified transition between the phases.
+3. **Each element has published precedent** — the withholding, the taught restoration, the test — but none of that prior work owns the movement at programme level with a verified transition.
+
+This positions sequencing as a [[curriculum-design]] and [[governance]] decision rather than a per-assignment or per-instructor choice, giving programmes a principled way to decide when and how generative AI enters the curriculum in service of forming professional judgement.
+
+## Connected Concepts
+- [[generative-ai]]
+- [[curriculum-design]]
+- [[higher-ed]]
+- [[assessment]]
+- [[cognitive-offloading]]
+- [[governance]]
+- [[agency]]
+- [[self-regulated-learning]]
+- [[academic-integrity]]
+- [[teacher-role]]
+
+## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
+- [[learn-framework-responsible-genai-pbl-2026]] — The LEARN Framework for Responsible Use of Generative AI
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
+- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose Before Policy
+- [[crompton-governing-genai-higher-ed-delphi-2026]] — Governing Generative AI in Higher Education
+
+## Citation
+Torres-Sahli, M., Blake, J., Novoa-Echaurren, Á., & Pavez, I. (2026). [*Refrain, Then Amplify: A Curriculum Framework for Sequencing Generative AI to Form Professional Judgement*](https://osf.io/preprints/edarxiv/wn9t7_v1/). EdArXiv preprint.
 
 ---
 
@@ -58555,6 +58855,52 @@ This is a measurement and characterization study in the [[cs-education]] domain.
 ## Citation
 
 Amoozadeh, M., & Alipour, A. (2026). [*Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks*](https://arxiv.org/abs/2608.17919). [cs.HC, cs.AI].
+
+---
+
+## [A Student-Centered Framework for Responsible Use of Generative AI in Higher Education](https://edtechdev.github.io/aied/articles/student-centered-genai-responsible-framework-2026/)
+
+> **Synthesis:** Alsammani (2026) proposes a student-facing framework for responsible [[generative-ai]] use in [[higher-ed]]: ten actionable guidelines organized around three pillars — Learning and Growth, [[ethics]] and Integrity, and Awareness and Safety. Drawing on a structured interpretive synthesis of 2023–2026 [[research-methods-aied|research]] and major policy frameworks, the paper argues the three pillars are jointly necessary because each addresses a distinct, empirically documented failure mode, and that portable student-facing guidelines can support responsible use by externalizing [[metacognition|metacognitive]] prompts that unguided AI use tends to weaken. The framework is distinctive in being student-facing, course-agnostic, and actionable at the point of decision, and it specifies five empirically testable propositions.
+
+## The Gap Between Policy and the Moment of Decision
+
+[[governance|Institutional]] guidance on generative AI has expanded rapidly, yet it overwhelmingly addresses administrators, instructors, and assessment designers rather than the students who make most decisions about AI use. Adoption has raced ahead of design: UK national surveys record undergraduate generative AI use rising from 66% in 2024 to 95% in 2026, with 94% reporting using it for assessed work. Students report that the boundary of acceptable use remains unclear precisely at the moment they must act — interviews describe an indistinct "line" between acceptable and unacceptable use, a difficulty rooted not in ignorance of policy but in the absence of anything that translates policy into a judgment about the task at hand.
+
+## Three Pillars, Ten Guidelines
+
+The framework organizes student-facing guidance around three jointly necessary pillars:
+
+1. **Learning and Growth** — guidelines that help students use AI to deepen learning rather than bypass it, supporting [[self-regulated-learning]] and [[metacognition]].
+2. **Ethics and Integrity** — guidelines addressing [[academic-integrity]], attribution, and the honest disclosure of AI use.
+3. **Awareness and Safety** — guidelines covering [[critical-thinking|critical evaluation]] of AI output, privacy, and awareness of the limits and risks of generative tools.
+
+The argument is that the three pillars are jointly necessary because each addresses a distinct, empirically documented failure mode of unguided AI use. Because unguided use can weaken the [[metacognition|metacognitive]] prompts that support responsible decisions, the portable set of guidelines works by externalizing those prompts into explicit, actionable checks at the point of decision.
+
+## Distinctive Positioning
+
+Compared with policy guidance, institutional frameworks, assessment scales, and [[ai-literacy|AI literacy]] curricula, the framework is distinctive in being **student-facing** (written for the person making the decision), **course-agnostic** (portable across disciplines and assignments), and **actionable at the point of decision** (translatable into a judgment about a specific task). This directly addresses the documented gap between [[educational-policy-ai|institutional policy]] and the student's moment of choice. The paper specifies five empirically testable propositions to guide evaluation of the framework's effectiveness.
+
+## Connected Concepts
+- [[generative-ai]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[academic-integrity]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[ethics]]
+- [[agency]]
+- [[governance]]
+- [[trust-calibration]]
+
+## Connected Articles
+- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — "Should I Tell My Teacher?" Student AI Disclosure Practices
+- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose Before Policy
+- [[learn-framework-responsible-genai-pbl-2026]] — The LEARN Framework for Responsible Use of Generative AI
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond Detection: How Students Use—and Hide—AI
+
+## Citation
+Alsammani, A. (2026). [*A Student-Centered Framework for Responsible Use of Generative AI in Higher Education*](https://osf.io/preprints/edarxiv/vsjhe_v2/). EdArXiv preprint.
 
 ---
 

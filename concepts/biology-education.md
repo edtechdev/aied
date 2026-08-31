@@ -67,6 +67,7 @@ Biology education sits within the broader [[stem-education]] domain and shares t
 - [[educational-policy-ai]]
 
 ## Connected Articles
+- [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
 
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education

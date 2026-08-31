@@ -68,6 +68,7 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[higher-ed]]
 
 ## Connected Articles
+- [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning

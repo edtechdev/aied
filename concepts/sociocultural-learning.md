@@ -64,6 +64,7 @@ The sociocultural strand is tightly coupled to Cognitive Load Theory (support sh
 - [[intelligent-tutoring]]
 
 ## Connected Articles
+- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
 
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
