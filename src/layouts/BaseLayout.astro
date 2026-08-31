@@ -12,7 +12,7 @@ import PrevNextNav from '../components/PrevNextNav.astro';
 import { buildNavItems } from '../lib/nav';
 import 'katex/dist/katex.min.css';
 
-const { title = 'AIEd KB', description = 'AI in Education Knowledge Base', hideHeaderSearch = false, toc = [] } = Astro.props;
+const { title = 'AI in Education Knowledge Base', description = 'AI in Education Knowledge Base', hideHeaderSearch = false, toc = [] } = Astro.props;
 
 const concepts = await getCollection('concepts');
 const articles = await getCollection('articles');
@@ -89,7 +89,7 @@ const recentConceptItems = recentConcepts.map(c => ({
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{title} — AIEd KB</title>
+  <title>{title} — AI in Education Knowledge Base</title>
   <!-- Critical dark background so navigation never flashes white before the
        external stylesheet loads (the site is always dark-themed). -->
   <style is:inline>
@@ -118,7 +118,7 @@ const recentConceptItems = recentConcepts.map(c => ({
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="AIEd KB" />
   <!-- Open Graph (link previews) -->
-  <meta property="og:site_name" content="AIEd KB" />
+  <meta property="og:site_name" content="AI in Education Knowledge Base" />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:type" content="website" />
@@ -132,7 +132,7 @@ const recentConceptItems = recentConcepts.map(c => ({
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content="https://edtechdev.github.io/aied/og-concept-map.png" />
-  <link rel="alternate" type="application/rss+xml" title="AIEd KB RSS" href="/aied/rss.xml" />
+  <link rel="alternate" type="application/rss+xml" title="AI in Education Knowledge Base RSS" href="/aied/rss.xml" />
   <link rel="stylesheet" href="/aied/vendor/pico.min.css" />
   <link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
   <style>
@@ -340,6 +340,13 @@ const recentConceptItems = recentConcepts.map(c => ({
       white-space: nowrap;
     }
     .brand-link img { flex-shrink: 0; }
+    /* Default to the full "AIEd Knowledge Base" label; show the compact
+       "AIEd KB" only when the browser is narrow and the header is tight. */
+    .brand-short { display: none; }
+    @media (max-width: 600px) {
+      .brand-full { display: none; }
+      .brand-short { display: inline; }
+    }
     /* Mobile: keep header usable on narrow screens */
     @media (max-width: 640px) {
       header .container {
@@ -778,8 +785,9 @@ const recentConceptItems = recentConcepts.map(c => ({
           </svg>
         </button>
         <a href="/aied/" class="brand-link">
-          <img src="/aied/logo.svg" alt="AIEd KB logo" width="28" height="28" style="display:inline-block;vertical-align:middle;margin-right:0.5rem;" />
-          <span>AIEd KB</span>
+          <img src="/aied/logo.svg" alt="AIEd Knowledge Base logo" width="28" height="28" style="display:inline-block;vertical-align:middle;margin-right:0.5rem;" />
+          <span class="brand-full">AIEd Knowledge Base</span>
+          <span class="brand-short">AIEd KB</span>
         </a>
       </div>
       {!hideHeaderSearch && (
