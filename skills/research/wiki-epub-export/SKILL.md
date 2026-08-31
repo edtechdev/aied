@@ -14,6 +14,7 @@ Generates and maintains the wiki's offline book-form deliverables — `aied.epub
 
 ## Build & delivery model (IMPORTANT)
 - Built **locally** by `python3 tooling/build-epub.py`; outputs land in **`public/aied.epub`** and **`public/aied.pdf`** and are **COMMITTED** to the repo (same pattern as `llms-full.txt` / `llms.txt`).
+- The EPUB/PDF title, site URL, editor name + contact, repo/issues URLs, and license are all read from **`site.config.json`** at the repo root (the single source of truth — see the `research-wiki` skill). Do NOT hardcode them in `build-epub.py` or in this skill; edit the config instead, then regenerate.
 - NOT generated in CI — do NOT add it to `npm run build` or install pandoc in GitHub Actions. This is a deliberate decision (build locally, commit).
 - Served at `https://edtechdev.github.io/aied/aied.epub` and `https://edtechdev.github.io/aied/aied.pdf`.
 - **Do NOT attach the EPUB/PDF files in chat responses** — the user fetches them from the GitHub Pages site. Confirm the update in text and give the URLs.

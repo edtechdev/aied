@@ -7,7 +7,13 @@ import json
 from datetime import date
 
 WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-BASE = "https://edtechdev.github.io/aied"
+
+# Single source of truth for site-wide metadata (shared with the Astro site
+# and build-epub.py via site.config.json at the repo root).
+with open(os.path.join(WIKI, 'site.config.json'), encoding='utf-8') as _cfg:
+    SITE = json.load(_cfg)
+SITE_URL = SITE['url']
+BASE = SITE_URL
 OUT = os.path.join(WIKI, "public")
 
 def parse_md(path):
