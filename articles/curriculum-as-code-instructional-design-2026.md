@@ -3,7 +3,7 @@ title: "Curriculum as Code: An AI-Assisted Architecture for Instructional Design
 created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
-tags: [instructional-design, stem-education, generative-ai, curriculum-design, higher-ed, project-based-learning, ai-education]
+tags: [learning-design, stem-education, generative-ai, curriculum-design, higher-ed, project-based-learning, ai-education]
 research_method: [system development]
 discipline: [stem education]
 level: [higher ed]
@@ -16,7 +16,7 @@ confidence: high
 
 ## Key Findings
 
-1. Presents a six-phase AI-assisted [[instructional-design]] architecture grounded in the Curriculum as Code paradigm, integrating [[generative-ai]] with LaTeX and Python to automate production of reproducible, visually consistent, and technically precise STEM instructional materials.
+1. Presents a six-phase AI-assisted [[learning-design]] architecture grounded in the Curriculum as Code paradigm, integrating [[generative-ai]] with LaTeX and Python to automate production of reproducible, visually consistent, and technically precise STEM instructional materials.
 2. Validated over one year across 8 modules and 28 project contexts in a demanding [[project-based-learning]] environment, the pipeline was associated with roughly a 75% reduction in instructor preparation time (from ~8 to ~2 hours per instruction) while preserving the instructor's teaching signature.
 3. Aggressive context pruning and section-by-section generation effectively eliminated mathematical and conceptual [[hallucination-risk|hallucinations]] — none were identified during human-in-the-loop review across the 28 project contexts — yielding high technical reproducibility.
 4. Over 600 voluntary student evaluations rated the generated materials from 8.5 to 9.9/10, consistent with cognitive-load-informed [[active-learning]] design; assets were independently peer-reviewed and successfully deployed by six different faculty members.
@@ -40,7 +40,7 @@ Validation ran for one year at the Institute of Technology and Leadership in Sã
 The findings suggest a shift from ad-hoc [[prompt-engineering]] toward structured instructional architecture, where the workflow's structure matters more than prompt phrasing or the specific foundation model used. The instructor's role evolves from manual slide formatter to architect of instructional design, a change with implications for [[teacher-role]] and [[teacher-education]]. The architecture's text-based, code-driven nature natively supports internationalization, enabling easy translation for exchange students without breaking layout — relevant to [[multilingual-learning]]. Because the pipeline succeeded in the highly demanding, highly contextualized [[project-based-learning]] environment, its authors argue that application to traditional lecture-based courses across [[higher-ed]] is straightforward and scalable. Future work targets integration with autonomous [[agentic-ai|AI agents]] and skills via APIs, a CI/CD-inspired workflow using Git repositories, [[adaptive-learning]] variations for different learning profiles, and [[accessibility]] versions for visually impaired students. A key limitation is that all authoring occurred within a single institution by a single instructor, so multisite studies are needed.
 
 ## Connected Concepts
-- [[instructional-design]]
+- [[learning-design]]
 - [[stem-education]]
 - [[curriculum-design]]
 - [[active-learning]]

@@ -54,7 +54,7 @@ The analysis relies on LinkedIn profiles that over-represent digitally engaged a
 
 ## Implications for Education and Training
 
-This framework has direct implications for [[ai-education|educational policy]] and [[faculty-development|workforce training]]:
+This framework has direct implications for [[ai-education|educational policy]] and [[educational-development|workforce training]]:
 
 - **Curriculum design:** [[curriculum-design|Educational programs]] should cultivate both depth (specialization) and breadth (diversity) rather than treating them as competing goals, since adaptive capacity emerges at intermediate levels of specialisation.
 - **Reskilling pathways:** The diversity frontier identifies concrete reskilling targets — skills that maximize workers' adaptive capacity. Mapping [[personalized-learning|existing portfolios]] can reveal adjacent career opportunities and support [[transfer-of-learning|reskilling pathways that build on existing strengths]] rather than requiring entirely new careers.
@@ -67,7 +67,7 @@ This framework has direct implications for [[ai-education|educational policy]] a
 
 - [[professional-training]]
 - [[ai-education]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[ai-literacy]]
 ## Connected Articles
 

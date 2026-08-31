@@ -3,7 +3,7 @@ title: "It's Not the Tool, It's the Task: A Framework for Cognitively Activated 
 created: "2026-08-17T09:55:00-04:00"
 updated: "2026-08-17T09:55:00-04:00"
 type: article
-tags: [physics-education, generative-ai, self-regulated-learning, instructional-design, human-ai-collaboration, metacognition, scaffolding]
+tags: [physics-education, generative-ai, self-regulated-learning, learning-design, human-ai-collaboration, metacognition, scaffolding]
 research_method: [theoretical analysis]
 discipline: [physics education]
 category: [instructional design]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2601.13812.md']
 confidence: high
 ---
 
-> **Synthesis:** Kuhn, Küchemann, Rakestraw, and Vogt (2026) argue that the central challenge of AI in [[physics-education|physics education]] is not cheating or tool selection but [[instructional-design|instructional design]]. Responding to Kortemeyer's "boiling frog problem" — the risk that incremental accommodations to AI quietly erode students' engagement in epistemic practice — they propose **AIRIS** (Activate–Inquire–Reflect with Intelligent Support), a three-phase framework that structures student work before, during, and after AI use. Grounded in [[self-regulated-learning]], Cognitive Load Theory, multiple external representations, and [[human-ai-collaboration|hybrid intelligence]], AIRIS keeps prediction, interpretation, and evaluation as non-delegable human tasks while allowing procedural computation to be delegated to AI. The authors illustrate the framework with a smartphone-acceleration elevator investigation and call for "withdrawal condition" experiments to test whether AIRIS-structured learning survives the removal of AI support.
+> **Synthesis:** Kuhn, Küchemann, Rakestraw, and Vogt (2026) argue that the central challenge of AI in [[physics-education|physics education]] is not cheating or tool selection but [[learning-design|instructional design]]. Responding to Kortemeyer's "boiling frog problem" — the risk that incremental accommodations to AI quietly erode students' engagement in epistemic practice — they propose **AIRIS** (Activate–Inquire–Reflect with Intelligent Support), a three-phase framework that structures student work before, during, and after AI use. Grounded in [[self-regulated-learning]], Cognitive Load Theory, multiple external representations, and [[human-ai-collaboration|hybrid intelligence]], AIRIS keeps prediction, interpretation, and evaluation as non-delegable human tasks while allowing procedural computation to be delegated to AI. The authors illustrate the framework with a smartphone-acceleration elevator investigation and call for "withdrawal condition" experiments to test whether AIRIS-structured learning survives the removal of AI support.
 
 ## The boiling frog problem
 
@@ -57,7 +57,7 @@ AIRIS is presented as a classroom-level response to the boiling frog problem: it
 ## Connected Concepts
 
 - [[physics-education]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[generative-ai]]
 - [[human-ai-collaboration]]
 - [[self-regulated-learning]]

@@ -46,7 +46,7 @@ Live leaderboards track cost-accuracy Pareto frontiers: [rebrand.ly/pedagogy](ht
 
 ## Approach 2: Theory-Grounded Instructional Design Agents (ISD-Agent-Bench)
 
-Jeon et al. (2026) created a benchmark for LLM agents automating [[instructional-design|Instructional Systems Design]] (ISD), testing whether classical pedagogy theory improves agent performance.
+Jeon et al. (2026) created a benchmark for LLM agents automating [[learning-design|Instructional Systems Design]] (ISD), testing whether classical pedagogy theory improves agent performance.
 
 | Architecture | Performance | Why |
 |-------------|-------------|-----|

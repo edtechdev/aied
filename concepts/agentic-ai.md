@@ -13,7 +13,7 @@ confidence: high
 
 > **Agentic [[ai-education|AI in education]]** — AI systems that autonomously plan, execute, and adapt multi-step workflows to achieve learning goals, going beyond single-turn Q&A to act as persistent, goal-directed collaborators: [[intelligent-tutoring|AI tutors]] that scaffold over extended interactions, multi-agent systems that orchestrate instructional designs, and agents that co-regulate learning. This paradigm shift from a prompt-responding tool to an active collaborator carries both promise and risk: agentic AI can personalise and deepen learning, but it also threatens [[agency|learner agency]], [[cognitive-offloading|cognitive effort]], and control. The knowledge base's [[agentic-ai-education-scoping-review|scoping review]], [[tool-invariant-framework-agentic-ai|tool-invariant framework]], and [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] articles examine this tension.
 
-Agentic AI refers to artificial intelligence systems that can autonomously plan, execute, and adapt multi-step workflows to achieve learning goals — going beyond single-turn question-answering to act as persistent, goal-directed collaborators in educational contexts. In education, agentic AI manifests as AI tutors that scaffold learning over extended interactions, multi-agent systems that orchestrate complex [[instructional-design|instructional designs]], and autonomous agents that adapt their [[pedagogy|pedagogical]] strategies based on learner needs. This emerging paradigm shifts AI from a tool that responds to prompts to a collaborator that actively guides, adapts, and co-regulates learning processes.
+Agentic AI refers to artificial intelligence systems that can autonomously plan, execute, and adapt multi-step workflows to achieve learning goals — going beyond single-turn question-answering to act as persistent, goal-directed collaborators in educational contexts. In education, agentic AI manifests as AI tutors that scaffold learning over extended interactions, multi-agent systems that orchestrate complex [[learning-design|instructional designs]], and autonomous agents that adapt their [[pedagogy|pedagogical]] strategies based on learner needs. This emerging paradigm shifts AI from a tool that responds to prompts to a collaborator that actively guides, adapts, and co-regulates learning processes.
 
 ## The field: rapid expansion and current shape
 
@@ -78,14 +78,14 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 
 ## Implications for instructors and instructional designers
 
-For teachers, faculty, and [[instructional-design|instructional designers]], agentic AI changes both what is possible and what must be guarded:
+For teachers, faculty, and [[learning-design|instructional designers]], agentic AI changes both what is possible and what must be guarded:
 
 - **Reallocate effort to higher-value work.** Agents can take over lesson planning, question generation and validation, feedback triage, and resource retrieval. Instructors should treat these as automatable scaffolds that free time for what agents cannot do: relational teaching, contextual judgement, and the design of learning experiences. Teacher-facing [[ai-tpack-teacher-multi-agent-workflow|multi-agent workflows]] are a promising model.
 - **Keep the learner's cognitive work front and centre.** The central design question is not "what can the agent do?" but "what must the *learner* do?" Instructional designers should configure agentic systems so they scaffold rather than replace learner planning, monitoring, and effort — using dynamic [[scaffolding]] and [[desirable-difficulties|intentional friction]] to protect [[agency]] and avoid [[cognitive-offloading|over-reliance]].
 - **Design for verification and process, not just output.** When agents can generate work on demand, the artifact no longer certifies learning. Instructors should pair agentic tools with [[authentic-assessment|process-based assessment]] (oral defense, [[tool-invariant-framework-agentic-ai|tool-invariant]] tasks, verification checks) so that understanding — not just production — is measured.
 - **Curate and ground agents in pedagogy.** Benchmark evidence shows theory-grounded agents outperform raw prompting. Designers should ground agent behaviour in established instructional frameworks (e.g., gradual release, Socratic questioning, [[learning-theories|learning theory]]) rather than defaulting to generic tool-chaining.
 - **Retain human oversight and judgement.** Multi-agent and autonomous systems make [[human-in-the-loop-ai|human-in-the-loop]] design essential: decide where a human intervenes, who is accountable, and how failures are caught. Adversarial testing helps surface failure modes before deployment.
-- **Build instructor [[ai-literacy]].** Teachers and designers need accurate mental models of agentic AI to configure, monitor, and critique these systems — and to model responsible use for learners. This links to [[teacher-ai-competency|teacher AI competency]] and [[faculty-development|faculty development]].
+- **Build instructor [[ai-literacy]].** Teachers and designers need accurate mental models of agentic AI to configure, monitor, and critique these systems — and to model responsible use for learners. This links to [[teacher-ai-competency|teacher AI competency]] and [[educational-development|faculty development]].
 - **Watch for equity.** Agentic tools risk widening gaps if access is unequal or if automation erodes support for the learners who need it most; design with [[equity-in-ai-education|equity]] in mind.
 
 ### Techniques for ensuring academic integrity with agentic AI
@@ -115,7 +115,7 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[rag]]
 - [[student-experience]]
 - [[adaptive-learning]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[human-in-the-loop-ai]]
 - [[human-ai-collaboration]]
 - [[agency]]
@@ -131,9 +131,9 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[equity-in-ai-education]]
 - [[authentic-assessment]]
 - [[teacher-role]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[teacher-ai-competency]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[academic-integrity]]
 - [[ai-use-disclosure]]
 - [[online-teaching-and-learning]]

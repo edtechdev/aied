@@ -23,15 +23,16 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Foundations of AI in education',
     blurb: 'The umbrella view of the field itself — what AI in education is, how it evolved, and the cross-cutting themes (AI literacy, human–AI collaboration, agency) that shape every other strand.',
     groups: [
-      { label: 'The field', items: ['ai-education', 'misconceptions', 'ai-literacy', 'history-of-aied', 'philosophy-of-ai-in-education', 'theory-development-aied', 'computational-thinking'] },
-      { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agentic-ai', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'technology-acceptance-model', 'prompt-engineering', 'ai-use-disclosure', 'sustainability'] },
+      { label: 'Essentials', items: ['ai-education', 'misconceptions', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'learning-design', 'educational-development'] },
+      { label: 'The field', items: ['history-of-aied', 'limitations-in-aied-research', 'philosophy-of-ai-in-education', 'theory-development-aied'] },
+      { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'technology-acceptance-model', 'prompt-engineering', 'ai-use-disclosure', 'sustainability', 'computational-thinking'] },
     ],
   },
   {
     heading: 'Learning and instruction',
     blurb: 'How AI supports teaching and learning — the pedagogies, learning theories, and learner-facing processes AI operates within.',
     groups: [
-      { label: 'Core pedagogies', items: ['pedagogy', 'active-learning', 'collaborative-learning', 'project-based-learning', 'problem-based-learning', 'productive-failure', 'inquiry-based-learning', 'experiential-learning', 'game-based-learning', 'learning-by-teaching', 'scaffolding', 'socratic-method', 'storytelling-in-education', 'instructional-design', 'online-teaching-and-learning'] },
+      { label: 'Core pedagogies', items: ['pedagogy', 'active-learning', 'collaborative-learning', 'project-based-learning', 'problem-based-learning', 'productive-failure', 'inquiry-based-learning', 'experiential-learning', 'game-based-learning', 'learning-by-teaching', 'scaffolding', 'socratic-method', 'storytelling-in-education', 'online-teaching-and-learning'] },
       { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'refutation-text', 'activity-theory-aied'] },
       { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'well-being', 'creativity', 'student-ai-interaction', 'problem-solving', 'mastery-learning'] },
     ],
@@ -57,8 +58,8 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'How AI both assesses learners and reshapes how we evaluate AI systems and their impact.',
     groups: [
       { label: 'Assessment and feedback', items: ['assessment', 'feedback', 'feedback-literacy', 'ai-feedback-quality', 'formative-assessment', 'summative-assessment', 'authentic-assessment', 'eportfolio', 'peer-review', 'automated-assessment', 'automated-essay-scoring', 'automated-question-generation'] },
-      { label: 'Measurement and validity', items: ['assessment-validity', 'psychometrically-aware-ai', 'educational-measurement', 'item-response-theory', 'ai-detection', 'academic-integrity', 'remote-proctoring'] },
-      { label: 'Evaluation of AI systems', items: ['ai-ed-evaluation', 'benchmark', 'research-methods-aied', 'qualitative-research', 'quantitative-research', 'mixed-methods-research', 'design-based-research', 'usability-research', 'limitations-in-aied-research', 'rct', 'learning-gains', 'meta-analysis-systematic-review', 'network-analysis'] },
+      { label: 'Measurement and validity', items: ['assessment-validity', 'psychometrically-aware-ai', 'educational-measurement', 'item-response-theory', 'ai-detection', 'remote-proctoring'] },
+      { label: 'Evaluation of AI systems', items: ['ai-ed-evaluation', 'benchmark', 'research-methods-aied', 'qualitative-research', 'quantitative-research', 'mixed-methods-research', 'design-based-research', 'usability-research', 'rct', 'learning-gains', 'meta-analysis-systematic-review', 'network-analysis'] },
     ],
   },
   {
@@ -66,7 +67,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'AI changes the role of every stakeholder in education — learners, teachers, and the institutions that support them.',
     groups: [
       { label: 'Learners', items: ['stakeholders', 'student-experience', 'career-development-and-readiness', 'ai-anxiety-and-stress'] },
-      { label: 'Teachers', items: ['teacher-role', 'teacher-ai-competency', 'tpack', 'faculty-development', 'pedagogical-safety'] },
+      { label: 'Teachers', items: ['teacher-role', 'teacher-ai-competency', 'tpack', 'pedagogical-safety'] },
       { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'governance', 'change-management', 'guardrails', 'regulation', 'privacy', 'open-source', 'edtech-platform', 'lifelong-learning', 'professional-training', 'learning-analytics'] },
     ],
   },
@@ -75,7 +76,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'Fairness, access, and responsibility are central to AI in education.',
     groups: [
       { label: 'Equity and access', items: ['equity-in-ai-education', 'digital-divide', 'bias-mitigation', 'culturally-relevant-pedagogy', 'multilingual-learning', 'inclusive-learning', 'accessibility', 'assistive-technology', 'neurodiversity', 'universal-design-for-learning', 'global-south'] },
-      { label: 'Ethics and responsibility', items: ['ethics', 'ai-misuse-learning-harm', 'hallucination-risk', 'ai-sycophancy', 'trust', 'trust-calibration', 'reducing-ai-misuse', 'framing-ai-use-for-students', 'cognitive-offloading', 'critical-thinking', 'critical-pedagogy'] },
+      { label: 'Ethics and responsibility', items: ['ethics', 'ai-misuse-learning-harm', 'hallucination-risk', 'ai-sycophancy', 'trust', 'trust-calibration', 'critical-thinking', 'critical-pedagogy'] },
     ],
   },
 ];

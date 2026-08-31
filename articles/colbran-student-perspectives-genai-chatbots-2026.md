@@ -3,7 +3,7 @@ title: "Understanding student perspectives on generative AI chatbots: a human-ce
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
-tags: [conversational-ai, student-experience, generative-ai, higher-ed, ai-literacy, academic-integrity, pedagogical-agent, student-ai-interaction, instructional-design]
+tags: [conversational-ai, student-experience, generative-ai, higher-ed, ai-literacy, academic-integrity, pedagogical-agent, student-ai-interaction, learning-design]
 research_method: [mixed methods]
 audience: [learners]
 level: [higher ed]
@@ -32,7 +32,7 @@ Five significant reasons for non-use emerged: lack of training, concerns about t
 
 ## Relevance to the knowledge base
 
-This paper gives the knowledge base rich, real-world evidence on [[student-ai-interaction]] and [[student-experience]] with [[conversational-ai]] in [[higher-ed]], showing how [[ai-literacy]] — not just general digital proficiency — shapes adoption of [[generative-ai]] [[pedagogical-agent|pedagogical agents]]. Its attention to [[academic-integrity]] fears and trust connects to the knowledge base's coverage of [[reducing-ai-misuse|reducing AI misuse]], while its human-centred design recommendations inform [[instructional-design]] and the conditions under which chatbots equitably complement human instruction.
+This paper gives the knowledge base rich, real-world evidence on [[student-ai-interaction]] and [[student-experience]] with [[conversational-ai]] in [[higher-ed]], showing how [[ai-literacy]] — not just general digital proficiency — shapes adoption of [[generative-ai]] [[pedagogical-agent|pedagogical agents]]. Its attention to [[academic-integrity]] fears and trust connects to the knowledge base's coverage of [[reducing-ai-misuse|reducing AI misuse]], while its human-centred design recommendations inform [[learning-design]] and the conditions under which chatbots equitably complement human instruction.
 
 ## Connected Concepts
 
@@ -44,7 +44,7 @@ This paper gives the knowledge base rich, real-world evidence on [[student-ai-in
 - [[academic-integrity]]
 - [[pedagogical-agent]]
 - [[student-ai-interaction]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[trust]]
 
 ## Connected Articles

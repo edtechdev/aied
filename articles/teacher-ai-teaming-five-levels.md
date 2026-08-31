@@ -36,7 +36,7 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
 - [[ai-education]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[tpack]]
 - [[human-ai-collaboration]]
 - [[agency]]

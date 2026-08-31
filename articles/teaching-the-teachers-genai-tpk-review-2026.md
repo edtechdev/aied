@@ -9,7 +9,7 @@ sources: ['raw/papers/teaching-the-teachers-genai-tpk-review-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Ó Ceallaigh and Murphy (2026) systematically review the GenAI-specific Technological Pedagogical Knowledge (TPK) required by teacher educators (TEs) who prepare post-primary teachers — an underexplored area — following PRISMA guidelines. The final search (April 2025) covered ERIC and EBSCO for English-language peer-reviewed empirical studies from 2022–2025 (Scopus and Web of Science were excluded due to record overlap), using a modified PIO framework (Population, Intervention, Outcome) in place of PICO because comparison groups are uncommon in education research. Seventeen studies met the inclusion criteria, spanning qualitative, quantitative, and mixed-methods designs — e.g., Celik's Intelligent-TPACK scale development in Finland, Moorhouse & Kohnke's 604-instructor survey, Nyaaba & Zhai's 307 teacher educators in Ghana, and Warr & Heath's audit of [[ai-feedback-quality|LLM feedback]] bias. The synthesis finds that GenAI-specific TPK extends beyond digital competence to encompass pedagogical reasoning, ethical awareness, and AI-augmented [[instructional-design]], with persistent challenges around ethical decision-making, critical [[ai-literacy]], data [[privacy]], algorithmic bias, authorship, and accountability — issues especially salient in teacher preparation within [[higher-ed]] institutions (HEIs). The authors argue HEIs must foster coherent strategies, supportive policies, and sustained professional learning to build TEs' GenAI-TPK.
+> **Synthesis:** Ó Ceallaigh and Murphy (2026) systematically review the GenAI-specific Technological Pedagogical Knowledge (TPK) required by teacher educators (TEs) who prepare post-primary teachers — an underexplored area — following PRISMA guidelines. The final search (April 2025) covered ERIC and EBSCO for English-language peer-reviewed empirical studies from 2022–2025 (Scopus and Web of Science were excluded due to record overlap), using a modified PIO framework (Population, Intervention, Outcome) in place of PICO because comparison groups are uncommon in education research. Seventeen studies met the inclusion criteria, spanning qualitative, quantitative, and mixed-methods designs — e.g., Celik's Intelligent-TPACK scale development in Finland, Moorhouse & Kohnke's 604-instructor survey, Nyaaba & Zhai's 307 teacher educators in Ghana, and Warr & Heath's audit of [[ai-feedback-quality|LLM feedback]] bias. The synthesis finds that GenAI-specific TPK extends beyond digital competence to encompass pedagogical reasoning, ethical awareness, and AI-augmented [[learning-design]], with persistent challenges around ethical decision-making, critical [[ai-literacy]], data [[privacy]], algorithmic bias, authorship, and accountability — issues especially salient in teacher preparation within [[higher-ed]] institutions (HEIs). The authors argue HEIs must foster coherent strategies, supportive policies, and sustained professional learning to build TEs' GenAI-TPK.
 
 ## Key Findings
 
@@ -25,14 +25,14 @@ confidence: high
 
 **Limitations.** The small number of included studies reflects the field's novelty and strict PRISMA criteria; restricting the search to ERIC and EBSCO may have excluded relevant work from Scopus, Web of Science, or Google Scholar; publication bias, limited heterogeneity, time-lag bias, and the interpretive nature of thematic synthesis (no meta-analysis or effect-size aggregation was possible) constrain generalizability.
 
-**Implication.** Teacher-education programs must explicitly build teacher educators' GenAI-TPK, with HEIs enabling this through coherent strategies, supportive policies, and sustained professional learning — connecting to [[teacher-education]], [[tpack]], [[ethics]], [[curriculum-design]], and [[faculty-development]].
+**Implication.** Teacher-education programs must explicitly build teacher educators' GenAI-TPK, with HEIs enabling this through coherent strategies, supportive policies, and sustained professional learning — connecting to [[teacher-education]], [[tpack]], [[ethics]], [[curriculum-design]], and [[educational-development]].
 
 ## Connected Concepts
 
 - [[teacher-education]]
 - [[tpack]]
 - [[generative-ai]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[ethics]]
 
 ## Connected Articles

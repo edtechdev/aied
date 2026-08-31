@@ -32,7 +32,7 @@ The authors advocate for **hybrid intelligent feedback systems** in which teache
 
 ## Relevance to the Knowledge Base
 
-This is a tightly controlled experimental contribution to the knowledge base's feedback cluster. It provides causal, comparative evidence that links [[ai-feedback-quality]], [[prompt-engineering]], and learning outcomes in [[higher-ed]], and it resonates strongly with the knowledge base's existing coverage of AI-generated feedback, essay scoring, and teacher-vs-AI comparisons. It also gives concrete guidance for [[instructional-design]]: prompt technique matters for feedback quality, but [[pedagogy]] (scaffolding uptake) matters for learning.
+This is a tightly controlled experimental contribution to the knowledge base's feedback cluster. It provides causal, comparative evidence that links [[ai-feedback-quality]], [[prompt-engineering]], and learning outcomes in [[higher-ed]], and it resonates strongly with the knowledge base's existing coverage of AI-generated feedback, essay scoring, and teacher-vs-AI comparisons. It also gives concrete guidance for [[learning-design]]: prompt technique matters for feedback quality, but [[pedagogy]] (scaffolding uptake) matters for learning.
 
 ## Connected Concepts
 

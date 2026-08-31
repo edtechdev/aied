@@ -3,7 +3,7 @@ title: "Effects of an AI-supported inquiry model on AI literacy and authentic pe
 created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, faculty-development, generative-ai, higher-ed]
+tags: [ai-literacy, educational-development, generative-ai, higher-ed]
 research_method: [experiment]
 audience: [faculty development]
 level: [higher ed]
@@ -27,7 +27,7 @@ Grounded in Deweyan Inquiry and the Practical Inquiry model, the study examined 
 
 ## Implications for AI in Education
 
-The findings suggest that structured AI-supported inquiry can strengthen applied and self-regulatory aspects of AI literacy while improving discipline-relevant performance — evidence that coached GenAI use embedded in authentic academic work outperforms conventional homework for developing practical AI competence. The moderate effect on research proposal quality indicates that AI-supported inquiry does not trade away disciplinary learning for tool proficiency. Notably, these gains were achieved without expanding lecture time: the experimental group received no additional AI-literacy-focused direct instruction, which the authors suggest explains the absence of change on concept-heavy and evaluative scales. For [[teacher-ai-competency]] and [[faculty-development]] efforts, the model offers a concrete, phase-structured template for integrating GenAI into coursework, with brief targeted activities (concept refreshers with retrieval checks, verify-and-trace exercises, rubric-scored ethics cases) recommended to address the dimensions the model alone did not shift. The pattern of results marks this as an [[research-methods-aied]] whose design logic favors pedagogical specificity over mere tool availability.
+The findings suggest that structured AI-supported inquiry can strengthen applied and self-regulatory aspects of AI literacy while improving discipline-relevant performance — evidence that coached GenAI use embedded in authentic academic work outperforms conventional homework for developing practical AI competence. The moderate effect on research proposal quality indicates that AI-supported inquiry does not trade away disciplinary learning for tool proficiency. Notably, these gains were achieved without expanding lecture time: the experimental group received no additional AI-literacy-focused direct instruction, which the authors suggest explains the absence of change on concept-heavy and evaluative scales. For [[teacher-ai-competency]] and [[educational-development]] efforts, the model offers a concrete, phase-structured template for integrating GenAI into coursework, with brief targeted activities (concept refreshers with retrieval checks, verify-and-trace exercises, rubric-scored ethics cases) recommended to address the dimensions the model alone did not shift. The pattern of results marks this as an [[research-methods-aied]] whose design logic favors pedagogical specificity over mere tool availability.
 
 ## Limitations
 
@@ -38,10 +38,10 @@ The authors acknowledge several limitations: nonrandom group assignment within a
 - [[teacher-ai-competency]]
 - [[ai-literacy]]
 - [[research-methods-aied]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[professional-training]]
 - [[k-12]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[higher-ed]]
 - [[generative-ai]]
 - [[authentic-assessment]]

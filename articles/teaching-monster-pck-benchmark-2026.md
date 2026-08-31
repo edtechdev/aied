@@ -26,7 +26,7 @@ Teaching requires more than answering correctly. Following Shulman, teacher know
 
 ## Task Design
 
-Framed as a single-shot task, each system receives a course requirement and a learner persona and must produce one complete instructional video end to end with no human in the loop. Asking for a complete video forces the system to break the concept down, order it, illustrate it, and deliver it across text, visuals, and narration — a full exercise in [[instructional-design]]. Items span four secondary-level [[stem-education|STEM]] subjects ([[physics-education|Physics]], [[biology-education|Biology]], [[cs-education|Computer Science]], and [[math-education|Mathematics]]) anchored to the AP curriculum, a widely used [[k-12|secondary-school]] [[curriculum-design|curriculum]] standard. A subset of items forms matched pairs that hold the course requirement fixed and vary the learner persona, so any remaining difference in a system's two videos is attributable to the manipulated learner — controlled evidence of [[adaptive-learning|adaptive teaching]].
+Framed as a single-shot task, each system receives a course requirement and a learner persona and must produce one complete instructional video end to end with no human in the loop. Asking for a complete video forces the system to break the concept down, order it, illustrate it, and deliver it across text, visuals, and narration — a full exercise in [[learning-design]]. Items span four secondary-level [[stem-education|STEM]] subjects ([[physics-education|Physics]], [[biology-education|Biology]], [[cs-education|Computer Science]], and [[math-education|Mathematics]]) anchored to the AP curriculum, a widely used [[k-12|secondary-school]] [[curriculum-design|curriculum]] standard. A subset of items forms matched pairs that hold the course requirement fixed and vary the learner persona, so any remaining difference in a system's two videos is attributable to the manipulated learner — controlled evidence of [[adaptive-learning|adaptive teaching]].
 
 ## Method and Evaluation Framework
 
@@ -60,7 +60,7 @@ The LLM-judge separates clearly weak submissions but ranks the strongest poorly.
 - [[ai-ed-evaluation]]
 - [[agentic-ai]]
 - [[generative-ai]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[pedagogical-llm-training]]
 
 ## Connected Articles

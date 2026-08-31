@@ -35,7 +35,7 @@ The study supports using GenAI to scaffold peer feedback in [[collaborative-lear
 
 ## Relevance to the Knowledge Base
 
-This article contributes empirical evidence to the knowledge base's [[feedback]], [[collaborative-learning]], and [[scaffolding]] clusters. It connects [[prompt-engineering]] to peer feedback and argumentation, and links GenAI support to [[self-regulated-learning]], [[metacognition]], and [[critical-thinking]]. It also provides a useful model of [[human-ai-collaboration]] where GenAI acts as an evaluative scaffold within a student-centered, collaborative [[pedagogy]], relevant to [[instructional-design]] and [[assessment]] in [[higher-ed]].
+This article contributes empirical evidence to the knowledge base's [[feedback]], [[collaborative-learning]], and [[scaffolding]] clusters. It connects [[prompt-engineering]] to peer feedback and argumentation, and links GenAI support to [[self-regulated-learning]], [[metacognition]], and [[critical-thinking]]. It also provides a useful model of [[human-ai-collaboration]] where GenAI acts as an evaluative scaffold within a student-centered, collaborative [[pedagogy]], relevant to [[learning-design]] and [[assessment]] in [[higher-ed]].
 
 ## Connected Concepts
 

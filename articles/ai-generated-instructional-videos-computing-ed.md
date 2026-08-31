@@ -28,13 +28,13 @@ The study addresses a gap in computing education research, which has focused lar
 
 ## Implications for AI in Education
 
-The results give computing instructors an evidence base for purposeful use: AI-generated video is acceptable for targeted, supplementary, visually oriented content, but students remain wary of it replacing instructor interaction or carrying high-stakes, accuracy-sensitive instruction. The fact that nearly half of students could not detect AI authorship, alongside concerns about inaccurate content, underscores the need for transparency and review workflows in which instructors validate AI-produced media. The preference for a hybrid model — AI-generated drafts refined by instructors — aligns with [[instructional-design]] principles that treat generative tools as augmentations of, rather than replacements for, the instructor's role in [[cs-education]], and it connects to broader questions of [[student-experience]] and trust in [[generative-ai]] learning resources.
+The results give computing instructors an evidence base for purposeful use: AI-generated video is acceptable for targeted, supplementary, visually oriented content, but students remain wary of it replacing instructor interaction or carrying high-stakes, accuracy-sensitive instruction. The fact that nearly half of students could not detect AI authorship, alongside concerns about inaccurate content, underscores the need for transparency and review workflows in which instructors validate AI-produced media. The preference for a hybrid model — AI-generated drafts refined by instructors — aligns with [[learning-design]] principles that treat generative tools as augmentations of, rather than replacements for, the instructor's role in [[cs-education]], and it connects to broader questions of [[student-experience]] and trust in [[generative-ai]] learning resources.
 
 ## Connected Concepts
 
 - [[cs-education]]
 - [[student-experience]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[pedagogical-agent]]
 - [[generative-ai]]
 

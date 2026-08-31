@@ -3,7 +3,7 @@ title: "When faculty ask, 'what's the point of teaching?': GenAI as identity cri
 created: "2026-08-15T07:40:37-04:00"
 updated: "2026-08-15"
 type: article
-tags: [faculty-development, ai-literacy, teacher-role, generative-ai, higher-ed, teacher-ai-competency, learning-theories, adult-learning, academic-integrity, educational-policy-ai]
+tags: [educational-development, ai-literacy, teacher-role, generative-ai, higher-ed, teacher-ai-competency, learning-theories, adult-learning, academic-integrity, educational-policy-ai]
 research_method: [interviews]
 audience: [faculty development, instructors]
 level: [higher ed]
@@ -22,13 +22,13 @@ confidence: high
 
 ## Implications
 
-This article reframes [[faculty-development]] for [[generative-ai|GenAI]] from a technical upskilling problem to an identity and ontological-transformation problem. It connects directly to [[teacher-role]] (how AI changes what educators are *for*), [[ai-literacy]] (which must encompass the existential dimension, not just tool competence), and [[teacher-ai-competency]]. It challenges skills-first PD models (cf. [[genai-pd-ai-pck-learning-gain-2026]], which measures competence gains) by arguing that such gains may not address the underlying identity disruption that determines whether faculty actually integrate GenAI.
+This article reframes [[educational-development]] for [[generative-ai|GenAI]] from a technical upskilling problem to an identity and ontological-transformation problem. It connects directly to [[teacher-role]] (how AI changes what educators are *for*), [[ai-literacy]] (which must encompass the existential dimension, not just tool competence), and [[teacher-ai-competency]]. It challenges skills-first PD models (cf. [[genai-pd-ai-pck-learning-gain-2026]], which measures competence gains) by arguing that such gains may not address the underlying identity disruption that determines whether faculty actually integrate GenAI.
 
 For academic developers and institutional [[educational-policy-ai|policy]], the article argues that governance frameworks and assessment-reform efforts can lapse into an "enforcement illusion" (Corbin et al., 2025) — communicating rules rather than supporting transformation. This connects to [[academic-integrity]] and [[assessment]] reform debates in the knowledge base, and to the broader question of whether AI integration is treated as compliance or as professional transformation.
 
 ## Connected Concepts
 
-- [[faculty-development]]
+- [[educational-development]]
 - [[teacher-role]]
 - [[ai-literacy]]
 - [[teacher-ai-competency]]

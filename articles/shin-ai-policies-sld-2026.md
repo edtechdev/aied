@@ -24,7 +24,7 @@ Federal law — the U.S. [[assistive-technology|Assistive Technology Act]] (2004
 
 The 36 final policy items cluster into five themes:
 
-1. **Inclusive and personalized learning** (11 items, 30.56%) — AI for multiple ways of knowing, personalized/differentiated resources, neurodiverse- and ELL-specific tools, AI-driven literacy tools, OCR and read-aloud accessibility, and [[instructional-design|instructional]] models centered on individual SLD needs.
+1. **Inclusive and personalized learning** (11 items, 30.56%) — AI for multiple ways of knowing, personalized/differentiated resources, neurodiverse- and ELL-specific tools, AI-driven literacy tools, OCR and read-aloud accessibility, and [[learning-design|instructional]] models centered on individual SLD needs.
 2. **Ethics, equity, and inclusion** (9 items, 25.00%) — inclusive data representing SLD, co-design with SLD students, equity impact evaluation, data privacy protection, government risk-management guidelines, and accessibility prioritized in AI development principles.
 3. **Student empowerment and AI literacy** (6 items, 16.67%) — teaching students with SLD to use AI responsibly, ethically, and independently; avoiding overreliance and plagiarism; building self-efficacy and prompt-engineering skills.
 4. **Assessment and research** (6 items, 16.67%) — evidence-based, accessible, and adaptable AI [[assessment]] tools; digital accessibility standards; funding for SLD AI research; mandates grounded in rigorous research.
@@ -59,7 +59,7 @@ This paper is a cornerstone reference for the knowledge base's accessibility/dis
 - [[assessment]]
 - [[accessibility]]
 - [[digital-divide]]
-- [[instructional-design]]
+- [[learning-design]]
 
 ## Connected Articles
 - [[principled-ai-education]] — Principled approaches to AI in education

@@ -3,7 +3,7 @@ title: "PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated
 created: "2026-05-19T04:33:04-04:00"
 updated: "2026-08-24T04:50:09-04:00"
 type: article
-tags: [intelligent-tutoring, llm, teacher-role, faculty-development, edtech-platform, ai-literacy, agentic-ai]
+tags: [intelligent-tutoring, llm, teacher-role, educational-development, edtech-platform, ai-literacy, agentic-ai]
 research_method: [system development, design-based research]
 audience: [instructors, faculty development]
 sources: ['raw/papers/2605.16605.md']
@@ -37,7 +37,7 @@ Because teachers must complete at least one such cycle before publishing, QA is 
 The paper presents an interactive demonstration plan in which attendees author an AI tutoring bot end-to-end using provided laptops. In a short setup, the attendee creates a bot, enters a brief description of the learning context (e.g., "a [[socratic-method|Socratic tutor]] for introductory statistics"), and selects a foundation model. They then select a simulated student profile, read the bot's initial response, and edit it to reflect what they wish the bot had said, watching the Reverse Prompting Pipeline run live — showing the inferred intent, the proposed prompt update, and regression check results. After iterating through one additional scenario, they publish the bot and receive a shareable link to interact with it as a student.
 
 ## Implications
-PromptDecipher demonstrates how authoring interface design can shape educator behavior at scale. By making the modification on the simulated tutoring chat — rather than the prompt — the primary unit of authoring, the system transforms an abstract engineering task into a familiar pedagogical one and embeds quality assurance structurally instead of relying on voluntary compliance. Scheduled for deployment in an "AI for Educators" MOOC with hundreds of higher-education instructors in fall 2026, the system will yield usage data to examine whether correction-based authoring increases testing rates and improves prompt quality relative to conventional workflows. For [[teacher-ai-competency]] and [[faculty-development]], the work reframes the teacher's role from prompt author to learning designer and QA engineer, suggesting that effective [[generative-ai]] adoption in education may depend less on training teachers to write prompts and more on designing [[conversational-ai]] authoring environments that align with their existing pedagogical skills. Future directions include auto-generating additional edge-case scenarios and integrating [[ai-literacy|learning science guidance]] to help teachers recognize the pedagogical strategies surfaced through their own corrections.
+PromptDecipher demonstrates how authoring interface design can shape educator behavior at scale. By making the modification on the simulated tutoring chat — rather than the prompt — the primary unit of authoring, the system transforms an abstract engineering task into a familiar pedagogical one and embeds quality assurance structurally instead of relying on voluntary compliance. Scheduled for deployment in an "AI for Educators" MOOC with hundreds of higher-education instructors in fall 2026, the system will yield usage data to examine whether correction-based authoring increases testing rates and improves prompt quality relative to conventional workflows. For [[teacher-ai-competency]] and [[educational-development]], the work reframes the teacher's role from prompt author to learning designer and QA engineer, suggesting that effective [[generative-ai]] adoption in education may depend less on training teachers to write prompts and more on designing [[conversational-ai]] authoring environments that align with their existing pedagogical skills. Future directions include auto-generating additional edge-case scenarios and integrating [[ai-literacy|learning science guidance]] to help teachers recognize the pedagogical strategies surfaced through their own corrections.
 
 ## Connected Concepts
 
@@ -45,7 +45,7 @@ PromptDecipher demonstrates how authoring interface design can shape educator be
 - [[tpack]]
 - [[intelligent-tutoring]] — AI tutoring chatbots that teachers author
 - [[pedagogical-safety]] — ensuring tutors are safe before deployment
-- [[faculty-development]] — building teacher capacity for AI authoring
+- [[educational-development]] — building teacher capacity for AI authoring
 - [[llm]] — the models behind AI tutor interactions
 - [[prompt-engineering]] — system-prompt rewriting from teacher corrections
 - [[human-in-the-loop-ai]] — teacher QA as a first-class activity

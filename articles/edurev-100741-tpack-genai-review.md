@@ -3,7 +3,7 @@ title: "Integrating Generative Artificial Intelligence into Student Learning: A 
 created: "2026-08-14T10:37:25-04:00"
 updated: "2026-08-14"
 type: article
-tags: [generative-ai, tpack, ai-literacy, student-experience, higher-ed, k-12, instructional-design, assessment, meta-analysis-systematic-review, teacher-ai-competency, faculty-development]
+tags: [generative-ai, tpack, ai-literacy, student-experience, higher-ed, k-12, learning-design, assessment, meta-analysis-systematic-review, teacher-ai-competency, educational-development]
 research_method: [meta-analysis, systematic review]
 audience: [learners, faculty development]
 level: [higher ed, k 12]
@@ -29,7 +29,7 @@ The 71 studies span publishing year, country/region, authorship type, sample siz
 
 ## The TPACK Lens
 
-The review applies the [[tpack|TPACK]] framework to identify what knowledge teachers need to integrate GenAI effectively into student learning. It synthesizes GenAI-related competencies across the framework's domains — technological knowledge (operating GenAI, examining its benefits/limitations and ethical implications), pedagogical knowledge (scaffolding student use), and content knowledge (integrating AI within subject-matter instruction). This positions GenAI-TPACK professional development as a core requirement for realizing AI's benefits while mitigating misuse risk, connecting to the knowledge base's [[teacher-ai-competency]] and [[faculty-development]] research.
+The review applies the [[tpack|TPACK]] framework to identify what knowledge teachers need to integrate GenAI effectively into student learning. It synthesizes GenAI-related competencies across the framework's domains — technological knowledge (operating GenAI, examining its benefits/limitations and ethical implications), pedagogical knowledge (scaffolding student use), and content knowledge (integrating AI within subject-matter instruction). This positions GenAI-TPACK professional development as a core requirement for realizing AI's benefits while mitigating misuse risk, connecting to the knowledge base's [[teacher-ai-competency]] and [[educational-development]] research.
 
 ## Design Implications
 
@@ -44,14 +44,14 @@ The review applies the [[tpack|TPACK]] framework to identify what knowledge teac
 - [[teacher-ai-competency]]
 - [[generative-ai]]
 - [[ai-literacy]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[assessment]]
 - [[scaffolding]]
 - [[student-experience]]
 - [[higher-ed]]
 - [[k-12]]
 - [[meta-analysis-systematic-review]]
-- [[faculty-development]]
+- [[educational-development]]
 
 ## Connected Articles
 

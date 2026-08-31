@@ -3,7 +3,7 @@ title: "When Saying No Makes Better Videos: Designing Dual Gatekeeping for Pedag
 created: "2026-08-21T19:02:00-04:00"
 updated: "2026-08-21T19:02:00-04:00"
 type: article
-tags: [generative-ai, teacher-role, instructional-design, pedagogy, ai-education, human-in-the-loop-ai, agentic-ai, scaffolding]
+tags: [generative-ai, teacher-role, learning-design, pedagogy, ai-education, human-in-the-loop-ai, agentic-ai, scaffolding]
 research_method: [benchmark]
 audience: [instructors]
 category: [instructional design]
@@ -15,7 +15,7 @@ confidence: high
 
 ## From friction to principled resistance
 
-The paper opens from a critique of friction-free adoption: current video generation pipelines optimize for visual appeal over instructional essentials such as precise temporal alignment of narration or strategic sequencing of prerequisite concepts. The authors argue that pedagogical friction is not a hurdle to be eliminated but a site of professional accountability — moments of deliberate hesitation are where instructional quality is forged. They frame this as *principled resistance*: deliberate, theory-grounded pushback against AI outputs that fail [[pedagogy|pedagogical]] standards, rooted in Mayer's 12 CTML principles for effective [[instructional-design|multimedia instruction]].
+The paper opens from a critique of friction-free adoption: current video generation pipelines optimize for visual appeal over instructional essentials such as precise temporal alignment of narration or strategic sequencing of prerequisite concepts. The authors argue that pedagogical friction is not a hurdle to be eliminated but a site of professional accountability — moments of deliberate hesitation are where instructional quality is forged. They frame this as *principled resistance*: deliberate, theory-grounded pushback against AI outputs that fail [[pedagogy|pedagogical]] standards, rooted in Mayer's 12 CTML principles for effective [[learning-design|multimedia instruction]].
 
 ## Two layers of resistance
 
@@ -32,7 +32,7 @@ The authors surface three tensions: negotiating [[agency]] when automated flags 
 ## Connected Concepts
 - [[generative-ai]]
 - [[teacher-role]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[pedagogy]]
 - [[human-in-the-loop-ai]]
 - [[agentic-ai]]

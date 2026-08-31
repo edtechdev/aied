@@ -11,7 +11,7 @@ confidence: high
 
 > **Design-based research (DBR)** — a methodological approach that iteratively designs, implements, and refines an educational intervention in authentic contexts, cycling between theory, design, and real-world practice to produce both a usable artifact and validated design principles. In [[ai-education|AI in education]], DBR is the method of choice for developing AI learning environments, pedagogical models, and teacher-training programs that must work in the messy reality of classrooms — trading the causal control of [[rct|experiments]] for ecological authenticity and iterative refinement.
 
-DBR is a *design* tradition, not a data tradition: it does not fit neatly into the [[quantitative-research|quantitative]]/[[qualitative-research|qualitative]]/experimental contrast. It deliberately combines elements of all three — collecting both outcome and process data across iterative cycles — to answer *"how do we design this AI learning environment to work in practice?"* rather than *"does X cause Y?"*. It is closely related to [[instructional-design]] (which specifies the design process) and to [[usability-research|usability evaluation]] (which feeds refinement), but is distinguished by its sustained, theory-driven, multi-cycle character and its dual goal of improving practice *and* generating theory.
+DBR is a *design* tradition, not a data tradition: it does not fit neatly into the [[quantitative-research|quantitative]]/[[qualitative-research|qualitative]]/experimental contrast. It deliberately combines elements of all three — collecting both outcome and process data across iterative cycles — to answer *"how do we design this AI learning environment to work in practice?"* rather than *"does X cause Y?"*. It is closely related to [[learning-design]] (which specifies the design process) and to [[usability-research|usability evaluation]] (which feeds refinement), but is distinguished by its sustained, theory-driven, multi-cycle character and its dual goal of improving practice *and* generating theory.
 
 ## The DBR cycle
 
@@ -52,7 +52,7 @@ DBR is complementary to, not a rival of, other research methods (see [[research-
 - [[qualitative-research]]
 - [[mixed-methods-research]]
 - [[usability-research]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[educational-measurement]]
 - [[learning-gains]]
 - [[limitations-in-aied-research]]

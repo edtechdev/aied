@@ -25,7 +25,7 @@ Examines AI-powered personalized [[learning-gains|learning]] in elementary fract
 - [[generative-ai]]
 - [[student-experience]]
 - [[student-engagement]]
-- [[faculty-development]]
+- [[educational-development]]
 ## Connected Articles
 
 - [[epistemic-proactivity-math]]

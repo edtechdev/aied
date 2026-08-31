@@ -3,7 +3,7 @@ title: "Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Work
 created: "2026-05-17T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
-tags: [ai-literacy, faculty-development, generative-ai, agentic-ai, scaffolding, teacher-role, teacher-ai-competency, rag]
+tags: [ai-literacy, educational-development, generative-ai, agentic-ai, scaffolding, teacher-role, teacher-ai-competency, rag]
 research_method: [mixed methods]
 audience: [faculty development, instructors]
 sources: ['raw/papers/2605.13906.md']
@@ -25,7 +25,7 @@ No-code platforms that let teachers assemble multi-agent systems are shifting ed
 
 ## Methods: Behavioral Logs, Artifacts, and Interviews
 
-Sixty-one K-12 in-service teachers from a coastal city in Southern China attended a two-day district-wide [[faculty-development|professional development]] workshop, each producing one functional multi-agent workflow on CocoFlow, a no-code platform built on "low floor and wide walls" principles. Teachers connected specialized AI agents (content tutors, feedback providers) with functional tool nodes through sequential, conditional, or parallel logic, configuring agent behavior via natural-language prompts. A [[mixed-methods-research|mixed-methods]] explanatory sequential design was used. First, K-means clustering in R of action-type distributions (elbow method, silhouette 0.389) plus Markov transition matrices characterized each cluster's workflow dynamics. Second, guided by the AI-TPACK framework as an a priori coding scheme, two-stage thematic analysis (Braun & Clarke) examined design artifacts (n=15, inter-rater Cohen's κ=0.81) across AI-TK, AI-TPK, AI-TCK, and AI-TPACK, alongside semi-structured interviews (n=12) probing cognition, pedagogical beliefs, and self-efficacy.
+Sixty-one K-12 in-service teachers from a coastal city in Southern China attended a two-day district-wide [[educational-development|professional development]] workshop, each producing one functional multi-agent workflow on CocoFlow, a no-code platform built on "low floor and wide walls" principles. Teachers connected specialized AI agents (content tutors, feedback providers) with functional tool nodes through sequential, conditional, or parallel logic, configuring agent behavior via natural-language prompts. A [[mixed-methods-research|mixed-methods]] explanatory sequential design was used. First, K-means clustering in R of action-type distributions (elbow method, silhouette 0.389) plus Markov transition matrices characterized each cluster's workflow dynamics. Second, guided by the AI-TPACK framework as an a priori coding scheme, two-stage thematic analysis (Braun & Clarke) examined design artifacts (n=15, inter-rater Cohen's κ=0.81) across AI-TK, AI-TPK, AI-TCK, and AI-TPACK, alongside semi-structured interviews (n=12) probing cognition, pedagogical beliefs, and self-efficacy.
 
 ## Three Behavioral Archetypes
 
@@ -58,7 +58,7 @@ The multi-agent workflow framing positions this work at the intersection of [[ag
 ## Connected Concepts
 
 - [[teacher-ai-competency]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[agentic-ai]]
 - [[tpack]]
 - [[self-efficacy]]

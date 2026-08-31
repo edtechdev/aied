@@ -25,7 +25,7 @@ This large-scale survey of humanities and social sciences (HSS) students in Chin
 
 ## Implications
 
-The study highlights the need for [[higher-ed]] institutions to develop nuanced policies that balance GenAI's potential benefits against risks of over-reliance and assessment validity. Disciplinary differences suggest that [[faculty-development]] programs should tailor guidance to specific fields rather than adopting one-size-fits-all approaches.
+The study highlights the need for [[higher-ed]] institutions to develop nuanced policies that balance GenAI's potential benefits against risks of over-reliance and assessment validity. Disciplinary differences suggest that [[educational-development]] programs should tailor guidance to specific fields rather than adopting one-size-fits-all approaches.
 
 ## Connected Concepts
 
@@ -36,7 +36,7 @@ The study highlights the need for [[higher-ed]] institutions to develop nuanced 
 - [[cognitive-offloading]]
 - [[privacy]]
 - [[higher-ed]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[motivation]]
 - [[ai-literacy]]
 

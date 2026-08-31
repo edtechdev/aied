@@ -3,7 +3,7 @@ title: "It's Like \"X\": How Engineering Faculty Metaphors Construct (and Constr
 created: "2026-08-17T10:30:00-04:00"
 updated: "2026-08-26T07:45:07-04:00"
 type: article
-tags: [engineering-education, faculty-development, ai-literacy, generative-ai, higher-ed, student-experience, cognitive-offloading]
+tags: [engineering-education, educational-development, ai-literacy, generative-ai, higher-ed, student-experience, cognitive-offloading]
 research_method: [qualitative, interviews]
 discipline: [engineering education]
 audience: [faculty development, learners]
@@ -12,11 +12,11 @@ sources: ['raw/papers/engineering-faculty-metaphors-ai-understanding-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Gerhardt, Shiekh, Katz, and Chaback (2026) analyze the figurative language — metaphors and analogies — that engineering instructors use to describe [[generative-ai|generative AI]], drawn from 57 semi-structured interviews across 17 disciplines and seven universities. They map instructors' language onto a five-dimensional taxonomy (Ontology, Epistemology, Operation, Relationship, Power/Capability), finding that instructors overwhelmingly frame GAI either as a human-like "social being/agent" (e.g., "a PhD student," "an assistant") or as a "technical object/artifact" (e.g., a search engine or tool), with almost no framing of GAI as an environmental or systemic force. Because these metaphors both construct and constrain understanding, and because instructors within the same department often hold fundamentally different mental models, the authors argue that developing a shared language is essential for [[faculty-development]] and productive departmental discussions about GAI in [[engineering-education|engineering education]].
+> **Synthesis:** Gerhardt, Shiekh, Katz, and Chaback (2026) analyze the figurative language — metaphors and analogies — that engineering instructors use to describe [[generative-ai|generative AI]], drawn from 57 semi-structured interviews across 17 disciplines and seven universities. They map instructors' language onto a five-dimensional taxonomy (Ontology, Epistemology, Operation, Relationship, Power/Capability), finding that instructors overwhelmingly frame GAI either as a human-like "social being/agent" (e.g., "a PhD student," "an assistant") or as a "technical object/artifact" (e.g., a search engine or tool), with almost no framing of GAI as an environmental or systemic force. Because these metaphors both construct and constrain understanding, and because instructors within the same department often hold fundamentally different mental models, the authors argue that developing a shared language is essential for [[educational-development]] and productive departmental discussions about GAI in [[engineering-education|engineering education]].
 
 ## Metaphor as understanding
 
-The paper begins from the premise that figurative language is not decorative but fundamental to how we think and act: "the way we think, what we experience, and what we do every day is very much a matter of metaphor." Instructors inevitably describe [[generative-ai|GAI]] through metaphors — a "mirror" that reflects biases, a "crutch" or "drug" enabling [[cognitive-offloading]] and intellectual degradation, an "assistant," or an "advanced student." Common metaphors for [[llm|LLMs]] in wider discourse include "stochastic parrots," "simulators," "crowds/zeitgeist," "gods," "e-bikes," and "drop-in remote workers." In engineering specifically, figurative language is instrumental for conceptual understanding. Yet a lack of shared language between stakeholders can compromise [[faculty-development]] programs and departmental discussions.
+The paper begins from the premise that figurative language is not decorative but fundamental to how we think and act: "the way we think, what we experience, and what we do every day is very much a matter of metaphor." Instructors inevitably describe [[generative-ai|GAI]] through metaphors — a "mirror" that reflects biases, a "crutch" or "drug" enabling [[cognitive-offloading]] and intellectual degradation, an "assistant," or an "advanced student." Common metaphors for [[llm|LLMs]] in wider discourse include "stochastic parrots," "simulators," "crowds/zeitgeist," "gods," "e-bikes," and "drop-in remote workers." In engineering specifically, figurative language is instrumental for conceptual understanding. Yet a lack of shared language between stakeholders can compromise [[educational-development]] programs and departmental discussions.
 
 ## Five dimensions of instructor language
 
@@ -36,12 +36,12 @@ The key finding is that engineering instructors do **not** hold a unified mental
 
 ## Implications for faculty development
 
-The authors argue these metaphors function as "guidepoints" for self-reflection and [[faculty-development]]: evaluating the range of language instructors use can help anticipate, assess, and intervene in how GAI operates in [[engineering-education|engineering education]]. A shared, accurate conceptual language supports developing training programs and facilitating adoption discussions that currently founder on incoherence between institutional and faculty language about [[generative-ai|GAI systems]]. For educators and developers, the work highlights that how we talk about AI shapes how students learn about, trust, and use it — connecting to [[ai-literacy]] and [[student-experience]].
+The authors argue these metaphors function as "guidepoints" for self-reflection and [[educational-development]]: evaluating the range of language instructors use can help anticipate, assess, and intervene in how GAI operates in [[engineering-education|engineering education]]. A shared, accurate conceptual language supports developing training programs and facilitating adoption discussions that currently founder on incoherence between institutional and faculty language about [[generative-ai|GAI systems]]. For educators and developers, the work highlights that how we talk about AI shapes how students learn about, trust, and use it — connecting to [[ai-literacy]] and [[student-experience]].
 
 ## Connected Concepts
 
 - [[engineering-education]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[higher-ed]]

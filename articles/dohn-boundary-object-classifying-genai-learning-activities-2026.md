@@ -3,7 +3,7 @@ title: "Collaborative Making of a Boundary Object for Classifying Generative AI 
 created: "2026-08-26T18:05:00-04:00"
 updated: "2026-08-26T18:05:00-04:00"
 type: article
-tags: [generative-ai, ai-literacy, instructional-design, curriculum-design, human-ai-collaboration, active-learning, educational-measurement, learning-theories, higher-ed, activity-theory-aied]
+tags: [generative-ai, ai-literacy, learning-design, curriculum-design, human-ai-collaboration, active-learning, educational-measurement, learning-theories, higher-ed, activity-theory-aied]
 audience: [instructors, researchers]
 research_method: [theoretical analysis]
 level: [higher ed]
@@ -12,7 +12,7 @@ sources: ['raw/papers/dohn-boundary-object-classifying-genai-learning-activities
 confidence: high
 ---
 
-> **Synthesis:** Dohn, Markauskaite, Huber, et al. (2026) develop and critically test a **taxonomy for classifying GenAI learning activities**, built collaboratively through a postdigital dialogue and framed as a *boundary object* (after Bowker & Star). The taxonomy specifies six core categories of human–GenAI entanglement — Learning Objective, Content, Representation Format, Epistemic Engagement, Social Design, and Artefacts — that together describe the key relationships between human and [[generative-ai|GenAI]] elements in a learning activity. By making visible choices about *why*, *what*, *how*, *with what*, and *with whom* students engage GenAI, the taxonomy helps practitioners and researchers systematise, compare, and imagine GenAI learning activities — connecting to [[ai-literacy]], [[prompt-engineering]], [[human-ai-collaboration]], and [[instructional-design]].
+> **Synthesis:** Dohn, Markauskaite, Huber, et al. (2026) develop and critically test a **taxonomy for classifying GenAI learning activities**, built collaboratively through a postdigital dialogue and framed as a *boundary object* (after Bowker & Star). The taxonomy specifies six core categories of human–GenAI entanglement — Learning Objective, Content, Representation Format, Epistemic Engagement, Social Design, and Artefacts — that together describe the key relationships between human and [[generative-ai|GenAI]] elements in a learning activity. By making visible choices about *why*, *what*, *how*, *with what*, and *with whom* students engage GenAI, the taxonomy helps practitioners and researchers systematise, compare, and imagine GenAI learning activities — connecting to [[ai-literacy]], [[prompt-engineering]], [[human-ai-collaboration]], and [[learning-design]].
 
 Dohn, Markauskaite, Huber, Wardak, Yang, Zeivots, et al. (2026) address a practical and scholarly problem: as publications on GenAI for learning proliferate, an overview of how GenAI is used for learning becomes increasingly hard to obtain because of the lack of a common framework and terminology. Practitioners report frustration that they are expected to engage students in learning with GenAI without clarity about what learning goals activities should support or what role GenAI should play. The article proposes a taxonomy to systematise GenAI learning activities and support comparison across them.
 
@@ -45,13 +45,13 @@ The taxonomy is explicitly not a design method or pedagogical framework — it a
 
 ## Connections to the knowledge base
 
-The taxonomy's Epistemic Engagement category (understanding / using / critiquing / constructing) maps directly onto [[ai-literacy]] dimensions and to [[critical-thinking]], and its person-plus-GenAI labour-distribution categories connect to [[human-ai-collaboration]] and debates about [[cognitive-offloading]]. Its Content category situates [[prompt-engineering]] as a distinct learning content area. The paper's framing of learning activities as entangled human–GenAI systems resonates with [[activity-theory-aied]], and its practical orientation connects to [[instructional-design]] and [[curriculum-design]].
+The taxonomy's Epistemic Engagement category (understanding / using / critiquing / constructing) maps directly onto [[ai-literacy]] dimensions and to [[critical-thinking]], and its person-plus-GenAI labour-distribution categories connect to [[human-ai-collaboration]] and debates about [[cognitive-offloading]]. Its Content category situates [[prompt-engineering]] as a distinct learning content area. The paper's framing of learning activities as entangled human–GenAI systems resonates with [[activity-theory-aied]], and its practical orientation connects to [[learning-design]] and [[curriculum-design]].
 
 ## Connected Concepts
 
 - [[generative-ai]]
 - [[ai-literacy]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[curriculum-design]]
 - [[human-ai-collaboration]]
 - [[activity-theory-aied]]

@@ -3,7 +3,7 @@ title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
 updated: "2026-08-24T17:20:00-04:00"
 type: concept
-tags: [prior-knowledge, learning-theories, cognitive-load, constructivist, personalized-learning, scaffolding, student-modeling, instructional-design, metacognition]
+tags: [prior-knowledge, learning-theories, cognitive-load, constructivist, personalized-learning, scaffolding, student-modeling, learning-design, metacognition]
 category: [instructional design]
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: Principled AI Education Framework
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-26T15:34:20-04:00"
 type: article
-tags: [ai-literacy, curriculum-design, instructional-design, generative-ai, sociocultural-learning, scaffolding, metacognition]
+tags: [ai-literacy, curriculum-design, learning-design, generative-ai, sociocultural-learning, scaffolding, metacognition]
 audience: [instructors, administrator]
 research_method: [theoretical analysis]
 category: [curriculum design, instructional design]

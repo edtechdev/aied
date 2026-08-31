@@ -2,7 +2,7 @@
 title: "What Competencies Do Faculty Need in Regard to AI?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-08-25T11:30:00-04:00"
-tags: [ai-literacy, teacher-ai-competency, faculty-development, teacher-role, adult-learning]
+tags: [ai-literacy, teacher-ai-competency, educational-development, teacher-role, adult-learning]
 audience: [faculty development, instructors]
 ---
 
@@ -26,7 +26,7 @@ For instructors, those dimensions need an additional pedagogical layer. Faculty 
 - Recognize hallucination, overreliance, and sycophancy.
 - Know when human judgment should override automation.
 
-Faculty also need enough systems understanding to evaluate how AI-supported workflows fit together rather than viewing AI as an isolated tool. See [[teacher-ai-competency|Teacher AI Competency]] and [[faculty-development|Faculty Development]].
+Faculty also need enough systems understanding to evaluate how AI-supported workflows fit together rather than viewing AI as an isolated tool. See [[teacher-ai-competency|Teacher AI Competency]] and [[educational-development|Faculty Development]].
 
 ## Confidence is not competence
 

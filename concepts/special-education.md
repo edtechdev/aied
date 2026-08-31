@@ -16,7 +16,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 
 **Disability-specific AI tutoring** tailors AI to particular learner needs. **[[special-r1-rl-special-education|Special-R1]]** extends [[reinforcement-learning|reinforcement learning]] to model cognitive and communicative diversity across five disability profiles, using persona-aware prompts and thinking rewards to shape tutor responses for each learner. **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners experience AI tools, revealing both the value of AI for literacy support and persistent accessibility barriers. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an [[llm]]-powered question-generation system for [[accessibility|Deaf and Hard of Hearing learners]], introducing Visual and Emotion question strategies and iteratively refining questions with the target community to overcome the mismatch between text-based AI prompts and sign-based first languages. **[[embodied-string-learning-blindness-low-vision-musicians]]** developed non-visual learning strategies with blind and low-vision musicians, centering disability-led [[embodied-learning|embodied]] design. These connect to [[inclusive-learning]] and [[neurodiversity]].
 
-**Neurodivergent learner experiences** center autistic and ADHD students. **[[neurodivergent-computing-students|Zastudil et al.]]** found neurodivergent computing students need structured assignments, small consistent teams, and explicit role definitions — design requirements that [[collaborative-learning]] tools must address. **[[adhd-video-segmentation-computing-education]]** demonstrated that AI-segmented videos eliminated the ADHD performance gap. Both connect to [[instructional-design]] and [[universal-design-for-learning]].
+**Neurodivergent learner experiences** center autistic and ADHD students. **[[neurodivergent-computing-students|Zastudil et al.]]** found neurodivergent computing students need structured assignments, small consistent teams, and explicit role definitions — design requirements that [[collaborative-learning]] tools must address. **[[adhd-video-segmentation-computing-education]]** demonstrated that AI-segmented videos eliminated the ADHD performance gap. Both connect to [[learning-design]] and [[universal-design-for-learning]].
 
 **Critical perspectives** examine how AI can marginalize disabled learners. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** argues that AI systems actively marginalize disability-centered knowledge due to Western-centric training data — connecting to [[equity-in-ai-education]] concerns about epistemic justice.
 
@@ -37,7 +37,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 - [[equity-in-ai-education]]
 - [[neurodiversity]]
 - [[universal-design-for-learning]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[student-experience]]
 - [[ai-literacy]]
 - [[k-12]]

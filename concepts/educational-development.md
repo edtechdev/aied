@@ -1,19 +1,21 @@
 ---
-title: Faculty Development
+title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-29T15:22:36-04:00"
+updated: "2026-08-31T06:50:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
 type: concept
-tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, instructional-design, curriculum-design]
+tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design]
 audience: [faculty development, instructors]
 level: [higher ed, k 12]
 category: [instructional design, curriculum design]
 confidence: high
 ---
 
-> **Faculty development** — the processes, programs, and institutional supports that help educators develop the skills, confidence, and professional identity to teach effectively with AI. Faculty development spans individual training, curriculum redesign, institutional policy change, and the cultural work of making sense of what GenAI means for the academic profession.
+> **Educational Development** (also known as *faculty development*) — the processes, programs, and institutional supports that help educators develop the skills, confidence, and professional identity to teach effectively with AI. Educational development spans individual training, curriculum redesign, institutional policy change, and the cultural work of making sense of what GenAI means for the academic profession.
 
-## Faculty development in the AI era
+*Note: this concept is also commonly referred to as **faculty development**; "educational development" is the more up-to-date, broader synonym now used as the page's title.*
+
+## Educational development in the AI era
 
 - **Readiness frameworks:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] identifies four readiness domains: epistemic, pedagogical, institutional, and quality-and-compliance. Faculty readiness is a sociotechnical alignment problem, not just an individual skills gap.
 - **Standards for technology integration:** [[crompton-faculty-technology-integration-standards-2026|Crompton et al.]] use design-based research to develop faculty standards for technology (incl. AI) integration in higher education institutions.
@@ -22,7 +24,7 @@ confidence: high
 - **Training programs:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-tpack-preservice-math-teachers|TPACK-based preservice training]] provide models for structured faculty AI education.
 - **Governance and policy:** [[genai-policies-higher-ed-computing|Institutional AI policy analysis]] documents the gap between institutional ambitions and faculty support capacity.
 
-### Metaphors and shared language in faculty development
+### Metaphors and shared language in educational development
 
 Faculty hold heterogeneous, often deeply ambivalent mental models of AI, and effective development must surface and work with them. [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] show that engineering instructors frame AI through metaphors that both construct and constrain understanding (AI as a human-like "assistant" vs. a "tool" or "search engine"); because instructors within the same department often hold fundamentally different conceptualizations, a shared, accurate language about [[generative-ai|GAI]] is a prerequisite for effective faculty development and productive departmental adoption discussions.
 
@@ -64,7 +66,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[educational-policy-ai]]
 - [[higher-ed]]
 - [[k-12]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[curriculum-design]]
 - [[professional-training]]
 - [[teacher-education]]

@@ -3,7 +3,7 @@ title: "Unpacking the Heterogeneity of Pre-service Teachers' ChatGPT Acceptance:
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-24T18:50:00-04:00"
 type: article
-tags: [teacher-education, conversational-ai, generative-ai, technology-acceptance-model, ai-literacy, faculty-development, stem-education, higher-ed, change-management]
+tags: [teacher-education, conversational-ai, generative-ai, technology-acceptance-model, ai-literacy, educational-development, stem-education, higher-ed, change-management]
 research_method: [survey]
 discipline: [stem education]
 audience: [faculty development]
@@ -24,12 +24,12 @@ confidence: high
 
 ## Implications
 
-For [[teacher-education|teacher education]] and [[faculty-development]], this study shows that AI acceptance among future teachers is not a single dimension but a heterogeneous set of profiles shaped by discipline. One-size-fits-all training fails; differentiated [[ai-literacy]] interventions must target the distinct needs of Resistant Skeptics (attitudinal), Environmental Observers (contextual support), and Technology Pioneers (advanced practice). The ease-of-use/intention paradox underscores that operational training alone is insufficient for teacher adoption of [[generative-ai|generative AI]] — a critical insight for scaling AI-integration in STEM and non-STEM classrooms.
+For [[teacher-education|teacher education]] and [[educational-development]], this study shows that AI acceptance among future teachers is not a single dimension but a heterogeneous set of profiles shaped by discipline. One-size-fits-all training fails; differentiated [[ai-literacy]] interventions must target the distinct needs of Resistant Skeptics (attitudinal), Environmental Observers (contextual support), and Technology Pioneers (advanced practice). The ease-of-use/intention paradox underscores that operational training alone is insufficient for teacher adoption of [[generative-ai|generative AI]] — a critical insight for scaling AI-integration in STEM and non-STEM classrooms.
 
 ## Connected Concepts
 
 - [[teacher-education]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[ai-literacy]]
 - [[technology-acceptance-model]]
 - [[generative-ai]]

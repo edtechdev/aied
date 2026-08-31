@@ -3,7 +3,7 @@ title: "ARPG+: a simulation-based study of real-time coaching for educational LL
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
-tags: [prompt-engineering, llm, metacognition, cognitive-offloading, self-regulated-learning, generative-ai, instructional-design, human-ai-collaboration]
+tags: [prompt-engineering, llm, metacognition, cognitive-offloading, self-regulated-learning, generative-ai, learning-design, human-ai-collaboration]
 research_method: [system development]
 category: [instructional design]
 sources: ['raw/papers/ye-arpg-real-time-coaching-llm-prompting-2026.md']
@@ -30,7 +30,7 @@ Across simulated learners, ARPG+ improved prompt quality by 143% beyond unguided
 
 ## Relevance to the knowledge base
 
-This paper advances the knowledge base's understanding of [[prompt-engineering]] as a teachable skill rather than a mere technique, and its treatment of fading support directly addresses the knowledge base's concerns about [[cognitive-offloading]] and [[ai-misuse-learning-harm|AI-driven autonomy erosion]]. By operationalizing [[self-regulated-learning]], [[metacognition]], and [[instructional-design]] in a real-time coaching loop, it demonstrates how [[human-ai-collaboration]] can be engineered to build rather than erode learner [[agency]]. Its explicit honesty about simulation-based limits is a model for evaluating [[generative-ai]] learning tools.
+This paper advances the knowledge base's understanding of [[prompt-engineering]] as a teachable skill rather than a mere technique, and its treatment of fading support directly addresses the knowledge base's concerns about [[cognitive-offloading]] and [[ai-misuse-learning-harm|AI-driven autonomy erosion]]. By operationalizing [[self-regulated-learning]], [[metacognition]], and [[learning-design]] in a real-time coaching loop, it demonstrates how [[human-ai-collaboration]] can be engineered to build rather than erode learner [[agency]]. Its explicit honesty about simulation-based limits is a model for evaluating [[generative-ai]] learning tools.
 
 ## Connected Concepts
 
@@ -41,7 +41,7 @@ This paper advances the knowledge base's understanding of [[prompt-engineering]]
 - [[self-regulated-learning]]
 - [[generative-ai]]
 - [[human-ai-collaboration]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[agency]]
 
 ## Connected Articles

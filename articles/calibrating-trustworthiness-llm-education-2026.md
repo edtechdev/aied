@@ -3,14 +3,14 @@ title: "Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for
 created: "2026-08-05T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, ai-ed-evaluation, trust-calibration, human-in-the-loop-ai, instructional-design, edtech-platform, visualization]
+tags: [llm, ai-ed-evaluation, trust-calibration, human-in-the-loop-ai, learning-design, edtech-platform, visualization]
 research_method: [design-based research]
 category: [evaluation, instructional design]
 sources: ['raw/papers/2608.04006.md']
 confidence: high
 ---
 
-> **Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education** — Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to pedagogical use. Designed visualizations mapping trustworthiness violations onto LLM res... [[llm]] [[ai-ed-evaluation]] [[cognitive-offloading|Over-Reliance]] [[human-in-the-loop-ai]] [[instructional-design]] [[edtech-platform]]
+> **Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education** — Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to pedagogical use. Designed visualizations mapping trustworthiness violations onto LLM res... [[llm]] [[ai-ed-evaluation]] [[cognitive-offloading|Over-Reliance]] [[human-in-the-loop-ai]] [[learning-design]] [[edtech-platform]]
 
 Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to pedagogical use. Designed visualizations mapping trustworthiness violations onto LLM responses. Making trustworthiness explicit increased inter-rater reliability and helped learning engineers resolve conflicting objectives and produce more consistent judgments. Proposes design guidelines for future LLM evaluation tools that enable pedagogically-aligned learning tools.
 
@@ -24,7 +24,7 @@ LLMs are reshaping educational technology, yet evaluating their responses for pe
 - [[ai-ed-evaluation]]
 - [[cognitive-offloading]]
 - [[human-in-the-loop-ai]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[edtech-platform]]
 - [[trust-calibration]]
 - [[trust]]

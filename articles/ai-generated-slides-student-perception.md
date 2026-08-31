@@ -3,7 +3,7 @@ title: "AI-Generated Slides: Are They Good? Can Students Tell?"
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, higher-ed, student-experience, faculty-development, ai-literacy, scaffolding, automated-question-generation, llm]
+tags: [generative-ai, higher-ed, student-experience, educational-development, ai-literacy, scaffolding, automated-question-generation, llm]
 research_method: [system development]
 audience: [instructors, faculty development]
 level: [higher ed]
@@ -27,10 +27,10 @@ The finding that coding assistants outperform dedicated education tools and gene
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[llm]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[ai-education]]
 - [[student-experience]]
-- [[faculty-development]]
+- [[educational-development]]
 ## Connected Articles
 
 - [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation

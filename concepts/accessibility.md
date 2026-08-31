@@ -4,7 +4,7 @@ created: "2026-08-23T12:00:00-04:00"
 updated: "2026-08-27T08:55:36.300729-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research]
 type: concept
-tags: [accessibility, inclusive-learning, special-education, universal-design-for-learning, assistive-technology, equity-in-ai-education, instructional-design]
+tags: [accessibility, inclusive-learning, special-education, universal-design-for-learning, assistive-technology, equity-in-ai-education, learning-design]
 level: [special education]
 category: [instructional design]
 confidence: high
@@ -46,7 +46,7 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[educational-policy-ai]]
 - [[neurodiversity]]
 - [[assistive-technology]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[generative-ai]]
 - [[educational-robotics]]
 - [[intelligent-tutoring]]

@@ -3,7 +3,7 @@ title: A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Tec
 created: "2026-07-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [k-12, teacher-role, ai-literacy, generative-ai, faculty-development, active-learning, llm]
+tags: [k-12, teacher-role, ai-literacy, generative-ai, educational-development, active-learning, llm]
 research_method: [design-based research]
 audience: [instructors, faculty development]
 level: [k 12]
@@ -15,7 +15,7 @@ Large language models generate code from natural language prompts, enabling vibe
 
 GAIDE, a Design-Thinking-based framework, supports K-12 teachers (non-programmers) in building AI-powered learning tools via vibe coding; an eight-week workshop raised participating teachers' AI literacy, showing learning-by-creating as a professional-development model.
 
-This work connects to core knowledge base themes: [[k-12]] [[teacher-role]] [[ai-literacy]] [[generative-ai]] [[faculty-development]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
+This work connects to core knowledge base themes: [[k-12]] [[teacher-role]] [[ai-literacy]] [[generative-ai]] [[educational-development]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
 
 ## Connected Concepts
 
@@ -23,7 +23,7 @@ This work connects to core knowledge base themes: [[k-12]] [[teacher-role]] [[ai
 - [[teacher-role]]
 - [[ai-literacy]]
 - [[generative-ai]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[design-thinking]]
 - [[prompt-engineering]]
 - [[professional-training]]

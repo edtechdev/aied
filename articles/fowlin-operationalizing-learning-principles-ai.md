@@ -3,7 +3,7 @@ title: "Empowering Educators: Operationalizing Age-Old Learning Principles Using
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
-tags: [teacher-role, experiential-learning, situated-learning, distributed-cognition, adaptive-learning, higher-ed, medical-education, instructional-design]
+tags: [teacher-role, experiential-learning, situated-learning, distributed-cognition, adaptive-learning, higher-ed, medical-education, learning-design]
 research_method: [theoretical analysis]
 discipline: [medical education]
 audience: [instructors]
@@ -41,7 +41,7 @@ This paper supplies a practical, principle-first scaffold for AI integration tha
 
 The educator-centered stance connects to [[teacher-role]] research on how AI changes teaching workflows, and the call to move from authoritative to facilitative teaching parallels [[agentic-ai-pedagogical-best-practice-2026|tensions between automation and genuine learning]]. The emphasis on [[adaptive-learning]] reachable "for the average educator" ties into the wider personalized-learning agenda, and the MUSC context grounds the framework in [[higher-ed]] health professions training, where authentic, context-rich clinical scenarios (see [[ai-use-critical-thinking-medical-students-2026|medical students and critical thinking]]) map naturally onto [[experiential-learning]] and situated learning.
 
-For course design, the paper's unbundling metaphor (James Lang) — breaking activities into components best done independently versus best coupled with AI — offers an operational method for [[instructional-design]] decisions, complementing [[learning-theories]] work on how AI can either support or undermine deeper cognition depending on implementation. The framework's [[adaptive-learning|adaptive systems]], immersive [[embodied-learning|embodied learning]] environments, and personalized pathways together illustrate the broader shift from content-delivery toward learner-centered, context-rich, skill-focused education that AI makes tractable at scale.
+For course design, the paper's unbundling metaphor (James Lang) — breaking activities into components best done independently versus best coupled with AI — offers an operational method for [[learning-design]] decisions, complementing [[learning-theories]] work on how AI can either support or undermine deeper cognition depending on implementation. The framework's [[adaptive-learning|adaptive systems]], immersive [[embodied-learning|embodied learning]] environments, and personalized pathways together illustrate the broader shift from content-delivery toward learner-centered, context-rich, skill-focused education that AI makes tractable at scale.
 
 ## Connected Concepts
 
@@ -52,7 +52,7 @@ For course design, the paper's unbundling metaphor (James Lang) — breaking act
 - [[embodied-learning]]
 - [[experiential-learning]]
 - [[higher-ed]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[learning-theories]]
 - [[personalized-learning]]
 - [[teacher-role]]

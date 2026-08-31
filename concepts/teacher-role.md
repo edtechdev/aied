@@ -3,7 +3,7 @@ title: Instructors
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-29T15:22:36-04:00"
 type: concept
-tags: [faculty-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, instructional-design, intelligent-tutoring]
+tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
 level: [k 12, higher ed]
 category: [instructional design]
@@ -20,7 +20,7 @@ confidence: high
 - **Workflow transformation:** [[ai-changing-teaching-workflows]] documents how AI shifts teacher time from content delivery to higher-value activities like individual support and [[curriculum-design|curriculum design]].
 - **Competency demands:** [[teacher-ai-competency|Teacher AI competency frameworks]] define what educators need to know. [[teacher-ai-adoption-confidence|Adoption studies]] identify barriers: confidence, [[governance|institutional]] support, and workload concerns.
 - **Co-design and agency:** [[teacher-authored-prompts-student-ai-dialogue|Teacher-authored prompts]] and [[gaide-vibe-coding-k12-teachers|vibe coding for teachers]] show educators as active AI designers, not passive consumers.
-- **[[teacher-education|Preservice]] preparation:** [[ai-tpack-preservice-math-teachers|TPACK-based training]] and [[faculty-development]] programs prepare future teachers for AI-augmented classrooms.
+- **[[teacher-education|Preservice]] preparation:** [[ai-tpack-preservice-math-teachers|TPACK-based training]] and [[educational-development]] programs prepare future teachers for AI-augmented classrooms.
 
 ### The orchestration metaphor
 
@@ -38,7 +38,7 @@ These roles connect teacher work to [[distributed-cognition]], [[situated-learni
 
 ### Connections
 
-Teacher role connects to [[faculty-development]] (how teachers are prepared), [[ai-literacy]] (teacher AI competency), [[k-12]] and [[higher-ed]] (context-specific implications), and [[scaffolding]] (how teachers scaffold AI use for students).
+Teacher role connects to [[educational-development]] (how teachers are prepared), [[ai-literacy]] (teacher AI competency), [[k-12]] and [[higher-ed]] (context-specific implications), and [[scaffolding]] (how teachers scaffold AI use for students).
 
 ### Relationship to learner identity
 
@@ -47,19 +47,19 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - **Teacher identity is a professional identity; learner identity is a learning identity.** The teacher-role page documents how AI reshapes the *work, identity, and agency* of educators — their evolving professional self-understanding (see [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw's framing of GenAI as an identity crisis]]). Learner identity is the parallel construct for students: who they are and are becoming as learners, in [[stem-education|disciplinary]], professional, creative, and academic terms.
 - **They are causally coupled.** Teachers who experience identity disruption (uncertainty about their professional purpose amid [[generative-ai|GenAI]]) are less able to support their students' identity development — a teacher who doubts their role struggles to validate students' emerging sense of self in the same domain. Conversely, teachers who sustain a confident professional identity are better positioned to scaffold students' belonging and authorship.
 - **Distinct failure modes.** Teacher identity is threatened by *role obsolescence* and *purpose* (the "what's the point of teaching?" question). Learner identity is threatened by *authorship loss* and *competence* (the "is this really mine / am I good enough?" question). Both are identity-level (not just skills-level) responses to AI.
-- **Both are professional-development and [[pedagogy|pedagogical]] concerns.** Supporting teacher identity belongs to [[faculty-development]] and [[teacher-ai-competency]]; supporting learner identity belongs to [[student-experience]], [[authentic-assessment]], and [[agency]]. A well-designed AI-integrated system attends to both — because the teacher's identity is the condition under which learners' identities form.
+- **Both are professional-development and [[pedagogy|pedagogical]] concerns.** Supporting teacher identity belongs to [[educational-development]] and [[teacher-ai-competency]]; supporting learner identity belongs to [[student-experience]], [[authentic-assessment]], and [[agency]]. A well-designed AI-integrated system attends to both — because the teacher's identity is the condition under which learners' identities form.
 
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[business-education]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[teacher-ai-competency]]
 - [[ai-literacy]]
 - [[k-12]]
 - [[higher-ed]]
 - [[scaffolding]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[intelligent-tutoring]]
 - [[llm]]
 - [[professional-training]]

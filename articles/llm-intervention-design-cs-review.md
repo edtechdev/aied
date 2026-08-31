@@ -3,7 +3,7 @@ title: A review of intervention designs of LLM Integration in Undergraduate Comp
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-26T15:34:14-04:00"
 type: article
-tags: [cs-education, generative-ai, llm, scaffolding, instructional-design, prompt-engineering, higher-ed, computational-thinking]
+tags: [cs-education, generative-ai, llm, scaffolding, learning-design, prompt-engineering, higher-ed, computational-thinking]
 research_method: [experiment]
 discipline: [cs education]
 level: [higher ed]
@@ -32,7 +32,7 @@ A striking finding: students using [[generative-ai]] tools **without adequate [[
 
 The review identifies four design elements that distinguish effective interventions:
 
-1. **Sustained [[scaffolding]]**: Guided explanations, problem decomposition, and gradual reduction of support as competence grows — consistent with Vygotskian principles also discussed in [[instructional-design]].
+1. **Sustained [[scaffolding]]**: Guided explanations, problem decomposition, and gradual reduction of support as competence grows — consistent with Vygotskian principles also discussed in [[learning-design]].
 2. **Transparent interaction patterns**: Students need to understand *how* the LLM is reasoning, not just receive answers.
 3. **Explicit meta-skill instruction**: [[prompt-engineering]] literacy must be taught — students cannot intuit effective prompting strategies.
 4. **Assessment redesign**: Emphasize code evaluation and prompt crafting over code generation, as also recommended in [[reshaping-cs-education-genai]].
@@ -57,7 +57,7 @@ For [[higher-ed]] contexts, the review provides actionable guidance: semester-lo
 - [[scaffolding]]
 - [[llm]]
 - [[cs-education]]
-- [[instructional-design]]
+- [[learning-design]]
 
 ## Connected Articles
 

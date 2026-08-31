@@ -3,7 +3,7 @@ title: "Enhancing learner-centered feedback with AI: teachers'' practices and pe
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-24T20:50:00-04:00"
 type: article
-tags: [generative-ai, feedback, teacher-role, higher-ed, faculty-development, scaffolding, human-in-the-loop-ai, rag]
+tags: [generative-ai, feedback, teacher-role, higher-ed, educational-development, scaffolding, human-in-the-loop-ai, rag]
 research_method: [mixed methods, qualitative]
 audience: [instructors, faculty development]
 level: [higher ed]
@@ -49,7 +49,7 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 - [[automated-assessment]]
 - [[human-in-the-loop-ai]]
 - [[teacher-role]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[scaffolding]]
 - [[generative-ai]]
 - [[higher-ed]]

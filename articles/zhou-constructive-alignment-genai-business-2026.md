@@ -3,7 +3,7 @@ title: "From Experimentation to Integration: Embedding GenAI in Business Higher 
 created: "2026-08-20T08:20:00-04:00"
 updated: "2026-08-21T13:20:39-04:00"
 type: article
-tags: [generative-ai, business-education, higher-ed, curriculum-design, instructional-design, assessment, change-management]
+tags: [generative-ai, business-education, higher-ed, curriculum-design, learning-design, assessment, change-management]
 research_method: [case study]
 discipline: [business education]
 level: [higher ed]
@@ -12,7 +12,7 @@ sources: ['raw/papers/zhou-constructive-alignment-genai-business-2026.md']
 confidence: medium
 ---
 
-> **Synthesis:** Zhou, Chai, Chilukuri, and Quach (2026) present a qualitative case study of [[generative-ai|generative AI]] (GenAI) adoption across 17 cases of business-module integration at a UK Russell Group university during the first year of implementation. Drawing on semi-structured interviews with academic staff spanning 24 undergraduate and postgraduate business modules, the study identifies three patterns of GenAI integration — ad hoc, blended, and constructive — distinguished less by frequency of use than by the degree of [[curriculum-design|curriculum]] [[instructional-design|constructive alignment]] achieved. The central finding is that the balance between GenAI's pedagogical benefits and its associated risks was shaped by how deeply it was embedded in the [[curriculum-design|curriculum]]: constructive integration cases reported stronger student engagement, capability development, and curriculum relevance, while ad hoc approaches proved more vulnerable to ethical concerns, [[cognitive-offloading|overreliance]], and inequality. The study extends Biggs' theory of constructive alignment to the GenAI context, showing that AI can be embedded within existing pedagogical strategies without requiring full curriculum redesign, and offers practical guidance for aligning GenAI with intended [[learning-gains|learning outcomes]] to support coherent, sustainable adoption in business higher education.
+> **Synthesis:** Zhou, Chai, Chilukuri, and Quach (2026) present a qualitative case study of [[generative-ai|generative AI]] (GenAI) adoption across 17 cases of business-module integration at a UK Russell Group university during the first year of implementation. Drawing on semi-structured interviews with academic staff spanning 24 undergraduate and postgraduate business modules, the study identifies three patterns of GenAI integration — ad hoc, blended, and constructive — distinguished less by frequency of use than by the degree of [[curriculum-design|curriculum]] [[learning-design|constructive alignment]] achieved. The central finding is that the balance between GenAI's pedagogical benefits and its associated risks was shaped by how deeply it was embedded in the [[curriculum-design|curriculum]]: constructive integration cases reported stronger student engagement, capability development, and curriculum relevance, while ad hoc approaches proved more vulnerable to ethical concerns, [[cognitive-offloading|overreliance]], and inequality. The study extends Biggs' theory of constructive alignment to the GenAI context, showing that AI can be embedded within existing pedagogical strategies without requiring full curriculum redesign, and offers practical guidance for aligning GenAI with intended [[learning-gains|learning outcomes]] to support coherent, sustainable adoption in business higher education.
 
 ## Key Findings
 
@@ -33,7 +33,7 @@ confidence: medium
 
 ## Implications for AI in Education
 
-- **Coherent embedding matters more than tool availability:** The pedagogical value of GenAI depends on the degree to which its use is aligned with intended learning outcomes, learning activities, and [[assessment]] — not simply whether it is used. Educators should pursue constructive integration aligned with strategic [[instructional-design|learning objectives]].
+- **Coherent embedding matters more than tool availability:** The pedagogical value of GenAI depends on the degree to which its use is aligned with intended learning outcomes, learning activities, and [[assessment]] — not simply whether it is used. Educators should pursue constructive integration aligned with strategic [[learning-design|learning objectives]].
 - **No full redesign required:** GenAI can be embedded within existing, proven pedagogies such as simulations, projects, and experiential learning, lowering the workload barrier that otherwise discourages adoption.
 - **Assessment is central:** Constructive cases explicitly connected GenAI to evaluative tasks, requiring students to critically evaluate and co-create with AI — pointing to assessment design as a key lever for driving purposeful student use.
 - **Institutions must build support ecosystems:** Clear policy guidance, faculty development, and adequate infrastructure are essential to move educators from individual experimentation to sustained, systematic integration and to mitigate risks of overreliance, inequality, and ethical misuse.
@@ -43,7 +43,7 @@ confidence: medium
 
 - [[generative-ai]]
 - [[curriculum-design]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[assessment]]
 - [[higher-ed]]
 - [[teacher-role]]

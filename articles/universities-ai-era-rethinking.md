@@ -3,7 +3,7 @@ title: "The University AI Didn''t Replace: Rethinking Universities in the AI Era
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-24T17:45:00-04:00"
 type: article
-tags: [higher-ed, teacher-role, administrator, educational-policy-ai, regulation, teacher-ai-competency, faculty-development, student-experience, assessment-validity, change-management]
+tags: [higher-ed, teacher-role, administrator, educational-policy-ai, regulation, teacher-ai-competency, educational-development, student-experience, assessment-validity, change-management]
 research_method: [case study]
 audience: [instructors, administrator, faculty development, learners]
 level: [higher ed]
@@ -35,7 +35,7 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - Shares the institutional perspective with  on human/institutional capacity bottlenecks
 - Contrasts with the [[ai-adult-learning-guidelines-dis2026]] focus on learner-facing technology guidelines
 - Extends [[teacher-ai-competency]] from individual educators to institutional competency — institutional readiness is a distinct level above individual educator skill
-- The workload-and-recognition emphasis speaks to [[faculty-development]] centers navigating GenAI adoption, and the assessment implications echo [[assessment-validity]] concerns about what assessment means when AI can produce university-level work
+- The workload-and-recognition emphasis speaks to [[educational-development]] centers navigating GenAI adoption, and the assessment implications echo [[assessment-validity]] concerns about what assessment means when AI can produce university-level work
 - Relevant to [[regulation]] discussions about higher-education policy and [[principled-ai-education]] frameworks
 
 ## Open Questions
@@ -47,7 +47,7 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 
 ## Connected Concepts
 
-- [[faculty-development]]
+- [[educational-development]]
 - [[student-experience]]
 - [[assessment-validity]]
 - [[teacher-ai-competency]]

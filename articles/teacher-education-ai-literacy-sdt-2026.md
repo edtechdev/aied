@@ -3,7 +3,7 @@ title: "Teacher education for artificial intelligence literacy through a self-de
 created: "2026-08-10T17:33:14-04:00"
 updated: "2026-08-13"
 type: article
-tags: [ai-literacy, teacher-ai-competency, faculty-development, professional-training, motivation, self-determination-theory, higher-ed, k-12]
+tags: [ai-literacy, teacher-ai-competency, educational-development, professional-training, motivation, self-determination-theory, higher-ed, k-12]
 research_method: [mixed methods]
 audience: [faculty development]
 level: [higher ed, k 12]
@@ -27,7 +27,7 @@ This sequential mixed-methods study examined 382 secondary school teachers engag
 
 ## Implications for AI in Education
 
-The study provides an evidence-based blueprint for designing effective, sustainable AI-focused teacher PD, directly relevant to [[faculty-development]], [[professional-training]], and [[teacher-ai-competency]]. It argues that PD providers and universities should structure AI training to explicitly incorporate the nine need-supportive strategies, prioritize building foundational [[ai-literacy]] (the sole direct predictor of PLC engagement), and position PD as a catalyst for self-sustaining learning communities rather than a one-time endpoint. Theoretically, it extends SDT to the AI context, showing that for highly technical domains like AI, knowledge acquisition is the gateway to collaborative participation — a finding that connects to [[motivation]], [[self-determination-theory]], and [[k-12]] teacher education. It bridges the PD/PLC divide, offering a motivational pathway for scaling and sustaining teacher AI learning.
+The study provides an evidence-based blueprint for designing effective, sustainable AI-focused teacher PD, directly relevant to [[educational-development]], [[professional-training]], and [[teacher-ai-competency]]. It argues that PD providers and universities should structure AI training to explicitly incorporate the nine need-supportive strategies, prioritize building foundational [[ai-literacy]] (the sole direct predictor of PLC engagement), and position PD as a catalyst for self-sustaining learning communities rather than a one-time endpoint. Theoretically, it extends SDT to the AI context, showing that for highly technical domains like AI, knowledge acquisition is the gateway to collaborative participation — a finding that connects to [[motivation]], [[self-determination-theory]], and [[k-12]] teacher education. It bridges the PD/PLC divide, offering a motivational pathway for scaling and sustaining teacher AI learning.
 
 ## Limitations
 
@@ -37,7 +37,7 @@ The study's context is secondary school teachers (largely in Chinese/Hong Kong a
 
 - [[ai-literacy]]
 - [[teacher-ai-competency]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[professional-training]]
 - [[teacher-role]]
 - [[higher-ed]]

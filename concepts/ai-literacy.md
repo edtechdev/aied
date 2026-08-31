@@ -3,7 +3,7 @@ title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
 updated: "2026-08-30T03:30:00-04:00"
 type: concept
-tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, academic-integrity]
+tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, educational-development, academic-integrity]
 audience: [faculty development, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies]
@@ -24,7 +24,7 @@ AI literacy research in this knowledge base spans four interconnected dimensions
 
 **Critical evaluation:** The capacity to assess AI outputs for accuracy, bias, and appropriateness. [[ai-literacy-assessment-misalignment|Research on literacy assessment]] shows a 40% gap between self-reported and performance-based AI literacy — people consistently overestimate their evaluation skills. This connects to [[cognitive-offloading|Over-Reliance]] research showing that students who [[trust]] AI uncritically learn less.
 
-**Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity-in-ai-education]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[faculty-development]], and [[governance|governance frameworks]] — institutional AI literacy is a matter of [[educational-policy-ai|policy]] as much as pedagogy. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
+**Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity-in-ai-education]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[educational-development]], and [[governance|governance frameworks]] — institutional AI literacy is a matter of [[educational-policy-ai|policy]] as much as pedagogy. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
 
 ### How AI literacy is developed
 
@@ -106,7 +106,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[academic-integrity]] — knowing what constitutes appropriate AI use
 - [[ai-education]] — the broader field
 - [[teacher-ai-competency]] — educator preparedness
-- [[faculty-development]] — building educator literacy
+- [[educational-development]] — building educator literacy
 - [[equity-in-ai-education]] — fair distribution of literacy
 - [[digital-divide]] — the access/skills/outcomes gap
 - [[ethics]] — ethical awareness dimension

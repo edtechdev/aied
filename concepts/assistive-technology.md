@@ -3,7 +3,7 @@ title: Assistive Technology
 created: "2026-08-23T12:00:00-04:00"
 updated: "2026-08-23T12:15:00-04:00"
 type: concept
-tags: [assistive-technology, accessibility, special-education, inclusive-learning, equity-in-ai-education, instructional-design]
+tags: [assistive-technology, accessibility, special-education, inclusive-learning, equity-in-ai-education, learning-design]
 level: [special education]
 category: [instructional design]
 confidence: high
@@ -36,7 +36,7 @@ Assistive technology is the concrete *tool layer* of [[accessibility]]. Where ac
 - [[equity-in-ai-education]]
 - [[educational-policy-ai]]
 - [[neurodiversity]]
-- [[instructional-design]]
+- [[learning-design]]
 
 ## Connected Articles
 

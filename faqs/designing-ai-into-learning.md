@@ -2,7 +2,7 @@
 title: "How Should AI Be Designed Into the Learning Experience?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-08-25T11:30:00-04:00"
-tags: [pedagogy, instructional-design, active-learning, scaffolding, reducing-ai-misuse]
+tags: [pedagogy, learning-design, active-learning, scaffolding, reducing-ai-misuse]
 category: [instructional design]
 ---
 
@@ -26,4 +26,4 @@ The [[reducing-ai-misuse|Reducing AI Misuse]] synthesis specifically recommends 
 
 ## The broader principle
 
-The broader principle in [[finkelstein-principled-ai-education-2025|the Principled AI Education Framework]] is that technology should augment rather than displace human capabilities that education intends to develop. See also [[instructional-design|Instructional Design]] and [[scaffolding|Scaffolding]].
+The broader principle in [[finkelstein-principled-ai-education-2025|the Principled AI Education Framework]] is that technology should augment rather than displace human capabilities that education intends to develop. See also [[learning-design|Instructional Design]] and [[scaffolding|Scaffolding]].

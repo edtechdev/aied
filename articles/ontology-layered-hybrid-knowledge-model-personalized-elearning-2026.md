@@ -3,7 +3,7 @@ title: "Ontology-Based Layered Hybrid AI-Driven Knowledge Model for Personalized
 created: "2026-08-17T18:20:00-04:00"
 updated: "2026-08-17T18:20:00-04:00"
 type: article
-tags: [knowledge-graph, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, instructional-design, edtech-platform, learning-analytics, llm]
+tags: [knowledge-graph, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, learning-design, edtech-platform, learning-analytics, llm]
 research_method: [theoretical analysis]
 category: [instructional design]
 confidence: medium
@@ -26,7 +26,7 @@ sources: [raw/papers/ontology-layered-hybrid-knowledge-model-personalized-elearn
 - [[personalized-learning]]
 - [[adaptive-learning]]
 - [[student-modeling]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[edtech-platform]]
 - [[learning-analytics]]
 - [[llm]]

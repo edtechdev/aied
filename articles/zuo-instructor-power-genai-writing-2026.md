@@ -3,7 +3,7 @@ title: "\"Will AI Steal My Glory?\": Power Relations Perceived by College Instru
 created: "2026-08-22T17:45:00-04:00"
 updated: "2026-08-22T18:20:00-04:00"
 type: article
-tags: [teacher-role, writing-education, faculty-development, generative-ai, higher-ed, ai-literacy, student-experience]
+tags: [teacher-role, writing-education, educational-development, generative-ai, higher-ed, ai-literacy, student-experience]
 research_method: [qualitative, case study]
 discipline: [writing education]
 audience: [instructors, faculty development, learners]
@@ -12,7 +12,7 @@ sources: ['raw/papers/zuo-instructor-power-genai-writing-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Zuo, Xu & Dunning (2026) present an instrumental case study of 33 college instructors (10 interviewed in depth) exploring how their perceptions of [[generative-ai|Generative AI]] as a tool for [[writing-education|student writing]] are shaped by four **polycentric power centers**: the global impact of AI, the university/department, colleagues, and students. Framed by Blommaert's notions of scale and polycentricity, the study shows how instructors navigate multiple, sometimes conflicting, centers of normativity — adjusting their teaching to retain authority and promote [[student-experience|student accountability]]. It offers direct evidence on how [[teacher-role|instructor perceptions and practices]] evolve in writing instruction under GenAI, with implications for [[faculty-development|professional development]].
+> **Synthesis:** Zuo, Xu & Dunning (2026) present an instrumental case study of 33 college instructors (10 interviewed in depth) exploring how their perceptions of [[generative-ai|Generative AI]] as a tool for [[writing-education|student writing]] are shaped by four **polycentric power centers**: the global impact of AI, the university/department, colleagues, and students. Framed by Blommaert's notions of scale and polycentricity, the study shows how instructors navigate multiple, sometimes conflicting, centers of normativity — adjusting their teaching to retain authority and promote [[student-experience|student accountability]]. It offers direct evidence on how [[teacher-role|instructor perceptions and practices]] evolve in writing instruction under GenAI, with implications for [[educational-development|professional development]].
 
 ## Key Findings
 
@@ -38,13 +38,13 @@ An instrumental case study (exploratory approach) at "Palm Tree University," a f
 
 ## Implications for AI in education
 
-This study contributes to the knowledge base's [[teacher-role]] thread by showing how instructor authority and practice are reconfigured under GenAI — and to [[educational-policy-ai|policy]] discussions by revealing why [[governance|institutional policies]] matter (consistency, adjunct support, disciplinary differences). It reinforces the [[ai-literacy]] imperative for both students and faculty, connects to [[equity-in-ai-education|equity]] concerns (the [[digital-divide]]), and supports [[faculty-development]] focused on process-oriented pedagogy and open departmental dialogue. It complements [[academic-integrity]] work by showing how instructors move from detection toward teaching acceptable GenAI use and promoting [[student-experience|student accountability]] in [[ai-education|AI-mediated education]].
+This study contributes to the knowledge base's [[teacher-role]] thread by showing how instructor authority and practice are reconfigured under GenAI — and to [[educational-policy-ai|policy]] discussions by revealing why [[governance|institutional policies]] matter (consistency, adjunct support, disciplinary differences). It reinforces the [[ai-literacy]] imperative for both students and faculty, connects to [[equity-in-ai-education|equity]] concerns (the [[digital-divide]]), and supports [[educational-development]] focused on process-oriented pedagogy and open departmental dialogue. It complements [[academic-integrity]] work by showing how instructors move from detection toward teaching acceptable GenAI use and promoting [[student-experience|student accountability]] in [[ai-education|AI-mediated education]].
 
 ## Connected Concepts
 
 - [[teacher-role]]
 - [[writing-education]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[generative-ai]]
 - [[higher-ed]]
 - [[ai-literacy]]

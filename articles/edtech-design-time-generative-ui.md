@@ -25,7 +25,7 @@ confidence: medium
 
 ## Why Design-Time over Runtime
 
-The paper argues that accessibility belongs in the authoring layer. When interfaces are generated at runtime, instructors cannot review what each learner receives, and learners who need audio-first, simplified-text, interactive, or low-bandwidth representations are served only after a fixed design has already constrained the content's details. Generating and verifying multiple representations at design time makes representation diversity an explicit part of content creation, consistent with [[instructional-design]] practice, and avoids the cost of running inference separately for every learner.
+The paper argues that accessibility belongs in the authoring layer. When interfaces are generated at runtime, instructors cannot review what each learner receives, and learners who need audio-first, simplified-text, interactive, or low-bandwidth representations are served only after a fixed design has already constrained the content's details. Generating and verifying multiple representations at design time makes representation diversity an explicit part of content creation, consistent with [[learning-design]] practice, and avoids the cost of running inference separately for every learner.
 
 ## Implications for AI in Education
 

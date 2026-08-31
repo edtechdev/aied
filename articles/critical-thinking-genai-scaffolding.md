@@ -3,7 +3,7 @@ title: Scaffolding Critical Thinking with Generative AI
 created: "2026-05-10T04:33:04-04:00"
 updated: "2026-08-26T16:50:00-04:00"
 type: article
-tags: [generative-ai, higher-ed, scaffolding, self-regulated-learning, faculty-development, metacognition, ai-literacy]
+tags: [generative-ai, higher-ed, scaffolding, self-regulated-learning, educational-development, metacognition, ai-literacy]
 research_method: [theoretical analysis]
 audience: [instructors, faculty development]
 level: [higher ed]
@@ -77,7 +77,7 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 
 - How do these principles scale across class sizes, disciplines, and institutional contexts?
 - What is the minimum threshold of AI literacy needed for students to benefit from scaffolded integration?
-- How should [[faculty-development|faculty development]] programs train instructors to implement these principles at scale?
+- How should [[educational-development|faculty development]] programs train instructors to implement these principles at scale?
 - What empirical evidence is needed to validate the framework's efficacy claims?
 
 ## Connected Concepts
@@ -86,7 +86,7 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 - [[ai-literacy]]
 - [[cognitive-offloading]]
 - [[critical-thinking]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[formative-assessment]]
 - [[generative-ai]]
 - [[higher-ed]]

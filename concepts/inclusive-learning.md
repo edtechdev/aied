@@ -3,7 +3,7 @@ title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-27T08:55:36.300729-04:00"
 type: concept
-tags: [inclusive-learning, equity-in-ai-education, special-education, instructional-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
+tags: [inclusive-learning, equity-in-ai-education, special-education, learning-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
 level: [special education, higher ed]
 category: [instructional design]
 confidence: high
@@ -25,7 +25,7 @@ Inclusive learning is the **umbrella** concept; the pages below sit inside it, e
 
 In practice: **UDL** is the design philosophy that *prevents* barriers; **accessibility** is the property that removes *format* barriers; **assistive technology** is the *tool* layer individuals use; **special education** is the *instructional* domain for diagnosed disabilities — and it is primarily a **K-12** term, whereas in **[[higher-ed|higher education]]** (and increasingly K-12 too) the more common framing is [[universal-design-for-learning|Universal Design for Learning]]. **Inclusive learning** is the umbrella that holds them together around the shared goal of equitable participation. An accessible tool does not guarantee inclusive instruction, and assistive tech does not guarantee meaningful agency — which is why the umbrella must span all of them.
 
-Inclusive learning sits at the intersection of [[equity-in-ai-education]], [[instructional-design]], and [[special-education]], and is supported by the concrete tool layer of [[assistive-technology]] and the design property of [[accessibility]]. Unlike narrow accommodations that retrofit access onto existing systems, the inclusive learning perspective — grounded in [[universal-design-for-learning|Universal Design for Learning]] — argues that environments should be designed for the full range of human diversity from the start. The articles in this knowledge base explore how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with [[neurodiversity|neurodivergent users']] lived experience as the starting point.
+Inclusive learning sits at the intersection of [[equity-in-ai-education]], [[learning-design]], and [[special-education]], and is supported by the concrete tool layer of [[assistive-technology]] and the design property of [[accessibility]]. Unlike narrow accommodations that retrofit access onto existing systems, the inclusive learning perspective — grounded in [[universal-design-for-learning|Universal Design for Learning]] — argues that environments should be designed for the full range of human diversity from the start. The articles in this knowledge base explore how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with [[neurodiversity|neurodivergent users']] lived experience as the starting point.
 
 ### Key research themes
 
@@ -45,7 +45,7 @@ Inclusive learning sits at the intersection of [[equity-in-ai-education]], [[ins
 
 ### Connections to related concepts
 
-Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[accessibility]] as its concrete access layer and [[assistive-technology]] as the tool layer, to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[instructional-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. Work on sign-language robots and tactile tools links accessibility to [[educational-robotics]] and [[educational-nlp]], while text simplification connects it to [[sociocultural-learning]] and [[adaptive-learning]]. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
+Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[accessibility]] as its concrete access layer and [[assistive-technology]] as the tool layer, to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[learning-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. Work on sign-language robots and tactile tools links accessibility to [[educational-robotics]] and [[educational-nlp]], while text simplification connects it to [[sociocultural-learning]] and [[adaptive-learning]]. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
 
 ## Implications for instructors designing inclusive learning
 
@@ -62,7 +62,7 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 - [[accessibility]] — the concrete access layer (captions, alt text, assistive-tech compatibility)
 - [[assistive-technology]] — the tool layer students use to access content
 - [[special-education]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[universal-design-for-learning]]
 - [[neurodiversity]]
 - [[student-experience]]

@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.12934.md']
 confidence: high
 ---
 
-> **Synthesis:** Xin et al. (2026) report a two-cycle [[formative-assessment|formative]] intervention study addressing the "low [[student-engagement|engagement]] paradox" in teacher [[faculty-development|professional development]] (TPD) for [[pedagogy|pedagogical]] AI agent design — why teachers disengage from AI agent creation soon after training. Cycle 1 (N = 218) found that despite completing comprehensive TPD, **87% of teachers stopped creating agents within three weeks**; behavioral tracking and interviews identified systemic contradictions — not capacity deficits — as the source of psychological need frustration. Cycle 2 (N = 26) implemented a Cultural-Historical Activity Theory (CHAT) and [[self-determination-theory|Self-Determination Theory]] (SDT)-driven redesign directly targeting the diagnosed contradictions, achieving synchronized enhancement of both capacity and willingness. The authors reframe implementation failure as a rational response to need-thwarting systems and offer a replicable CHAT-SDT diagnostic framework.
+> **Synthesis:** Xin et al. (2026) report a two-cycle [[formative-assessment|formative]] intervention study addressing the "low [[student-engagement|engagement]] paradox" in teacher [[educational-development|professional development]] (TPD) for [[pedagogy|pedagogical]] AI agent design — why teachers disengage from AI agent creation soon after training. Cycle 1 (N = 218) found that despite completing comprehensive TPD, **87% of teachers stopped creating agents within three weeks**; behavioral tracking and interviews identified systemic contradictions — not capacity deficits — as the source of psychological need frustration. Cycle 2 (N = 26) implemented a Cultural-Historical Activity Theory (CHAT) and [[self-determination-theory|Self-Determination Theory]] (SDT)-driven redesign directly targeting the diagnosed contradictions, achieving synchronized enhancement of both capacity and willingness. The authors reframe implementation failure as a rational response to need-thwarting systems and offer a replicable CHAT-SDT diagnostic framework.
 
 ## Key Findings
 
@@ -22,12 +22,12 @@ confidence: high
 
 ## Implications for AI in Education
 
-The study positions [[activity-theory-aied|CHAT]] as a diagnostic and redesign tool for [[faculty-development|teacher professional development]], arguing that sustainable AI adoption requires transforming the activity system (tools, rules, community, division of labor) rather than merely upskilling individuals. Its CHAT-SDT framework reframes implementation failure as systemic — a needed correction to individual-deficit models of teacher AI adoption. It connects to the knowledge base's [[teacher-role]], [[agentic-ai|pedagogical AI agents]], and [[k-12]] concepts, and pairs with the other activity-theory teacher-adoption studies.
+The study positions [[activity-theory-aied|CHAT]] as a diagnostic and redesign tool for [[educational-development|teacher professional development]], arguing that sustainable AI adoption requires transforming the activity system (tools, rules, community, division of labor) rather than merely upskilling individuals. Its CHAT-SDT framework reframes implementation failure as systemic — a needed correction to individual-deficit models of teacher AI adoption. It connects to the knowledge base's [[teacher-role]], [[agentic-ai|pedagogical AI agents]], and [[k-12]] concepts, and pairs with the other activity-theory teacher-adoption studies.
 
 ## Connected Concepts
 - [[activity-theory-aied]]
 - [[teacher-role]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[agentic-ai]]
 - [[generative-ai]]
 

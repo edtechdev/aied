@@ -3,7 +3,7 @@ title: "Reshaping education in the era of artificial intelligence: insights from
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
-tags: [situated-learning, experiential-learning, constructivist, adaptive-learning, teacher-role, ai-education, instructional-design, personalized-learning]
+tags: [situated-learning, experiential-learning, constructivist, adaptive-learning, teacher-role, ai-education, learning-design, personalized-learning]
 research_method: [systematic review]
 audience: [instructors]
 category: [instructional design]
@@ -11,9 +11,9 @@ sources: ['raw/papers/vargas-situated-learning-ai-review-2024.md']
 confidence: high
 ---
 
-> **Synthesis** — Vargas, Chiappe & Durand (2024) conduct a PRISMA systematic review of 60 peer-reviewed articles spanning three decades to map how [[situated-learning]] has evolved and how AI can reshape education around it. Situated learning — learning through authentic, real-world contexts, communities of practice, legitimate peripheral participation, and contextual knowledge — confronts the traditional school's vertical, one-way passive instruction, its fixation on predefined outcomes, and teachers' limited contextual knowledge. The authors argue AI offers concrete solutions: adaptive systems tuned to learners' evolving needs, intelligent tutoring embedded in authentic scenarios, automation of administrative tasks, and data-driven teacher support. Framed through [[instructional-design|Education 4.0]], AI and situated learning are cast as complementary — AI providing adaptive scaffolding and analytics to scale situated learning's benefits while situated learning grounds AI-driven education in real-world practice and complexity. Human guidance remains essential for ethical grounding.
+> **Synthesis** — Vargas, Chiappe & Durand (2024) conduct a PRISMA systematic review of 60 peer-reviewed articles spanning three decades to map how [[situated-learning]] has evolved and how AI can reshape education around it. Situated learning — learning through authentic, real-world contexts, communities of practice, legitimate peripheral participation, and contextual knowledge — confronts the traditional school's vertical, one-way passive instruction, its fixation on predefined outcomes, and teachers' limited contextual knowledge. The authors argue AI offers concrete solutions: adaptive systems tuned to learners' evolving needs, intelligent tutoring embedded in authentic scenarios, automation of administrative tasks, and data-driven teacher support. Framed through [[learning-design|Education 4.0]], AI and situated learning are cast as complementary — AI providing adaptive scaffolding and analytics to scale situated learning's benefits while situated learning grounds AI-driven education in real-world practice and complexity. Human guidance remains essential for ethical grounding.
 
-Vargas, Chiappe & Durand (2024) offer a systematic synthesis of how situated learning — a theory rooted in the early 1990s work of Lave and Wenger — can be reinvigorated by artificial intelligence. Using the PRISMA method, the review analyzed 60 peer-reviewed journal articles from Scopus over three decades (1990s to 2022), extracting and analyzing the concepts associated with situated learning both qualitatively and quantitatively. The paper positions this conversation within [[instructional-design|Education 4.0]], the educational face of the fourth industrial revolution in which IoT, robotics, immersive environments, and especially AI reconfigure the learning experience.
+Vargas, Chiappe & Durand (2024) offer a systematic synthesis of how situated learning — a theory rooted in the early 1990s work of Lave and Wenger — can be reinvigorated by artificial intelligence. Using the PRISMA method, the review analyzed 60 peer-reviewed journal articles from Scopus over three decades (1990s to 2022), extracting and analyzing the concepts associated with situated learning both qualitatively and quantitatively. The paper positions this conversation within [[learning-design|Education 4.0]], the educational face of the fourth industrial revolution in which IoT, robotics, immersive environments, and especially AI reconfigure the learning experience.
 
 ## Key Findings
 
@@ -40,7 +40,7 @@ The review is significant because it bridges a classical learning theory and con
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[teacher-role]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[ai-education]]
 - [[higher-ed]]
 

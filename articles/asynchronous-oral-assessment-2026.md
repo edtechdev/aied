@@ -39,7 +39,7 @@ Administratively, AOAs scale well, but grading remains labor-intensive — the i
 
 ## Relevance to the knowledge base
 
-This paper is a significant empirical contribution to the knowledge base's [[assessment]], [[authentic-assessment]], and [[academic-integrity]] threads — it offers concrete evidence and a working design for an AI-era assessment format that is scalable, authentic, and integrity-protective. It extends the knowledge base's move from [[generative-ai|AI]] detection toward [[assessment|assessment design]] that recognizes AI's role, providing a practical alternative to fixed-response exams. Its [[student-engagement]] findings (shifted preparation strategies, perceived professional relevance) connect assessment design to engagement and [[faculty-development|professional skill]] development, and its LLM re-scoring data speak to [[assessment-validity]] and [[ai-education|AI-assisted]] evaluation. Note the learning-gains caveat: score differences across formats should not be over-interpreted as learning improvement.
+This paper is a significant empirical contribution to the knowledge base's [[assessment]], [[authentic-assessment]], and [[academic-integrity]] threads — it offers concrete evidence and a working design for an AI-era assessment format that is scalable, authentic, and integrity-protective. It extends the knowledge base's move from [[generative-ai|AI]] detection toward [[assessment|assessment design]] that recognizes AI's role, providing a practical alternative to fixed-response exams. Its [[student-engagement]] findings (shifted preparation strategies, perceived professional relevance) connect assessment design to engagement and [[educational-development|professional skill]] development, and its LLM re-scoring data speak to [[assessment-validity]] and [[ai-education|AI-assisted]] evaluation. Note the learning-gains caveat: score differences across formats should not be over-interpreted as learning improvement.
 
 ## Connected Concepts
 
@@ -53,7 +53,7 @@ This paper is a significant empirical contribution to the knowledge base's [[ass
 - [[higher-ed]]
 - [[ai-education]]
 - [[generative-ai]]
-- [[faculty-development|professional development]]
+- [[educational-development|professional development]]
 - [[learning-gains]]
 
 ## Connected Articles

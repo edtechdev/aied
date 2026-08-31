@@ -3,7 +3,7 @@ title: "Automatic Large Language Models Creation of Interactive Learning Lessons
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [llm, generative-ai, prompt-engineering, rag, instructional-design, curriculum-design, professional-training, intelligent-tutoring, math-education, human-ai-collaboration]
+tags: [llm, generative-ai, prompt-engineering, rag, learning-design, curriculum-design, professional-training, intelligent-tutoring, math-education, human-ai-collaboration]
 audience: [software developers]
 research_method: [system development]
 discipline: [math education]
@@ -43,7 +43,7 @@ Human lesson designers identified several strengths: substantial time savings in
 - [[generative-ai]]
 - [[prompt-engineering]]
 - [[rag]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[curriculum-design]]
 - [[professional-training]]
 - [[intelligent-tutoring]]

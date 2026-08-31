@@ -23,7 +23,7 @@ A complementary strand links the *form* of interaction to learning. Shallow or h
 
 ### From interaction to pedagogy
 
-Characterizing student-AI interaction informs [[instructional-design]]: instructors can notice when students' questioning patterns are narrow or shallow and design interventions that broaden inquiry; [[teacher-role]] shifts toward coaching students to interact productively with AI. It also grounds [[ai-literacy]] curricula that treat effective prompting and verification as learnable skills rather than innate abilities.
+Characterizing student-AI interaction informs [[learning-design]]: instructors can notice when students' questioning patterns are narrow or shallow and design interventions that broaden inquiry; [[teacher-role]] shifts toward coaching students to interact productively with AI. It also grounds [[ai-literacy]] curricula that treat effective prompting and verification as learnable skills rather than innate abilities.
 
 ## Connected Concepts
 - [[human-ai-collaboration]]

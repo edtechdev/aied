@@ -3,7 +3,7 @@ title: Guidelines for Designing AI Technologies to Support Adult Learning
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [adult-learning, instructional-design, ai-education, usability-research, edtech-platform, higher-ed, professional-training, rag]
+tags: [adult-learning, learning-design, ai-education, usability-research, edtech-platform, higher-ed, professional-training, rag]
 research_method: [system development]
 level: [adult learning, higher ed]
 category: [instructional design]
@@ -79,13 +79,13 @@ The guidelines span four categories:
 - [[adult-learning]]
 - [[ai-education]]
 - [[adaptive-learning]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[higher-ed]]
 - [[lifelong-learning]]
 - [[personalized-learning]]
 - [[professional-training]]
 - [[rag]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[scaffolding]]
 - [[self-regulated-learning]]
 - [[motivation]]

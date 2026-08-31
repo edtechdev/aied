@@ -3,7 +3,7 @@ title: Characterizing Students' LLM Usage Behaviors and Their Association with L
 created: "2026-05-15T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [higher-ed, student-experience, llm, generative-ai, learning-analytics, ai-literacy, faculty-development, scaffolding]
+tags: [higher-ed, student-experience, llm, generative-ai, learning-analytics, ai-literacy, educational-development, scaffolding]
 research_method: [survey, learning analytics]
 audience: [learners, instructors]
 level: [higher ed]
@@ -25,14 +25,14 @@ This study extends prior work on student LLM use by analyzing data from **two of
 2. **[[learning-gains|Learning outcome]] analysis** linking usage frequency and type to performance on three midterm exams. This addresses the core question raised by [[genai-performance-vs-learning]]: do specific LLM usage patterns help or hinder actual learning?
 3. The **student initiative** dimension is particularly valuable for understanding [[ai-literacy]] development — it maps onto the distinction between using AI as a crutch vs. as a cognitive tool, directly relevant to [[scaffolding]] design.
 
-This work complements [[genai-tutor-engagement-patterns]] by shifting focus from tutoring to student-initiated LLM use in authentic academic tasks. The EDM 2026 acceptance places it within the [[learning-analytics]] community's growing interest in modeling AI-augmented learning behaviors. Findings also inform [[faculty-development]] strategies for guiding student AI use.
+This work complements [[genai-tutor-engagement-patterns]] by shifting focus from tutoring to student-initiated LLM use in authentic academic tasks. The EDM 2026 acceptance places it within the [[learning-analytics]] community's growing interest in modeling AI-augmented learning behaviors. Findings also inform [[educational-development]] strategies for guiding student AI use.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
 - [[scaffolding]]
 - [[learning-analytics]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[critical-thinking]]
 - [[llm]]
 - [[generative-ai]]

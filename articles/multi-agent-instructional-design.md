@@ -3,7 +3,7 @@ title: Multi-Agent Systems for Instructional Design
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
-tags: [agentic-ai, ai-literacy, human-in-the-loop-ai, k-12, pedagogical-safety, faculty-development, metacognition]
+tags: [agentic-ai, ai-literacy, human-in-the-loop-ai, k-12, pedagogical-safety, educational-development, metacognition]
 research_method: [system development]
 audience: [faculty development]
 level: [k 12]
@@ -11,11 +11,11 @@ sources: ['raw/papers/2508.16659.md']
 confidence: high
 ---
 
-> **Synthesis:** Embedding the [[learning-theories|Knowledge–Learning–Instruction (KLI) framework]] into [[agentic-ai|multi-agent systems]] to act as sophisticated [[instructional-design|instructional designers]] for [[k-12|K-12]] educators. Wang et al. (2025) move [[pedagogy|pedagogical]] expertise from the user's [[prompt-engineering|prompt]] to the [[llm|LLM's]] internal architecture, comparing a single-agent baseline (SAS) against two multi-agent designs (MAS-Roles, MAS-CMD). Rubric scores showed only small, mostly insignificant differences across systems, yet 20 practicing [[teacher-role|teachers]] strongly preferred the collaborative MAS-CMD's outputs as "fantastic, creative, classroom-ready" — at a cost of ~11× more tokens and ~10× more time than baseline. The study is a working demonstration that [[learning-theories|learning sciences]] frameworks can be operationalized directly in AI architectures to produce more creative, contextually relevant materials.
+> **Synthesis:** Embedding the [[learning-theories|Knowledge–Learning–Instruction (KLI) framework]] into [[agentic-ai|multi-agent systems]] to act as sophisticated [[learning-design|instructional designers]] for [[k-12|K-12]] educators. Wang et al. (2025) move [[pedagogy|pedagogical]] expertise from the user's [[prompt-engineering|prompt]] to the [[llm|LLM's]] internal architecture, comparing a single-agent baseline (SAS) against two multi-agent designs (MAS-Roles, MAS-CMD). Rubric scores showed only small, mostly insignificant differences across systems, yet 20 practicing [[teacher-role|teachers]] strongly preferred the collaborative MAS-CMD's outputs as "fantastic, creative, classroom-ready" — at a cost of ~11× more tokens and ~10× more time than baseline. The study is a working demonstration that [[learning-theories|learning sciences]] frameworks can be operationalized directly in AI architectures to produce more creative, contextually relevant materials.
 
 ## The Prompting Gap in K-12 Education
 
-**Wang et al. (2025)** address a critical problem: **60% of K-12 teachers** now use [[generative-ai|AI]] for teaching tasks, but most lack the expertise to [[prompt-engineering|prompt]] effectively for high-quality [[instructional-design|instructional materials]].
+**Wang et al. (2025)** address a critical problem: **60% of K-12 teachers** now use [[generative-ai|AI]] for teaching tasks, but most lack the expertise to [[prompt-engineering|prompt]] effectively for high-quality [[learning-design|instructional materials]].
 
 ### The Problem
 - **[[llm|Commercial LLMs]]** (ChatGPT, Gemini) lack embedded [[learning-theories|pedagogical theory]]
@@ -109,7 +109,7 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 - [[metacognition]]
 - [[agentic-ai]]
 - [[ethics]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[k-12]]
 - [[curriculum-design]]
 - [[prompt-engineering]]

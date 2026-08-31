@@ -3,7 +3,7 @@ title: "LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University"
 created: "2026-08-20T02:55:00-04:00"
 updated: "2026-08-24T05:01:00-04:00"
 type: article
-tags: [ai-literacy, higher-ed, curriculum-design, instructional-design, generative-ai, human-in-the-loop-ai, agency, self-efficacy, prompt-engineering, faculty-development]
+tags: [ai-literacy, higher-ed, curriculum-design, learning-design, generative-ai, human-in-the-loop-ai, agency, self-efficacy, prompt-engineering, educational-development]
 research_method: [mixed methods, case study]
 audience: [faculty development, learners]
 level: [higher ed]
@@ -16,7 +16,7 @@ confidence: high
 
 ## Key Findings
 
-1. LearnAI operationalizes [[ai-literacy]] as situated, just-in-time problem-solving rather than abstract awareness, pairing a Wide-Exposure Layer (short [[instructional-design|presentations]] in 18 existing courses across five disciplines, reaching 293 enrolled students) with an opt-in Customized Co-Creation Layer that serves [[equity-in-ai-education|mixed-ability learners]] from non-coders to advanced CS majors.
+1. LearnAI operationalizes [[ai-literacy]] as situated, just-in-time problem-solving rather than abstract awareness, pairing a Wide-Exposure Layer (short [[learning-design|presentations]] in 18 existing courses across five disciplines, reaching 293 enrolled students) with an opt-in Customized Co-Creation Layer that serves [[equity-in-ai-education|mixed-ability learners]] from non-coders to advanced CS majors.
 2. The 5-Stage Pedagogical Script (Problem Framing, Tool-Task Mapping, Iterative Co-Prompting, Deployment and Verification, Ethical Reflection) provides a repeatable structure for moving clients from an "Oracle" (passive answer-seeking) to a "Process Partner" mindset, emphasizing [[prompt-engineering|prompting as specification]], [[scaffolding|gradual tutor release of control]], and [[human-in-the-loop-ai|verification of outputs]] against requirements.
 3. Over two semesters, 35 clients co-created 36 portfolio websites and over 20 deployed web applications, with tutor facilitation (four undergraduate CS tutors, 70+ sessions) distributed across disciplines including nursing, business, education, and software engineering.
 4. Interviews with five clients and two tutors document a recurring cognitive shift: clients moved from describing AI as an answer machine ("ChatGPT, ask questions") toward describing it as a [[collaborative-learning|collaborator]] requiring human direction, with [[transfer-of-learning|transfer]] cases where clients independently recombined tools after sessions ended.
@@ -26,7 +26,7 @@ confidence: high
 
 The framework's key insight is that effective AI education must be **just-in-time** and differentiated rather than one-size-fits-all. LearnAI embeds awareness-building in the [[curriculum-design|curriculum]] of existing courses (the Wide-Exposure Layer) while offering opt-in, individualized co-creation sessions (the Customized Layer). This directly addresses a gap the authors identify: most institutions either offer [[professional-training|conceptual workshops]] for general audiences or technical courses for CS majors, leaving few spaces where [[equity-in-ai-education|mixed-ability learners]] can engage common AI tasks at levels matched to their prior experience. Positioning AI education as [[situated-learning|situated practice]] rather than only course content means treating authentic, self-selected tasks — building a portfolio, automating a workflow, deploying a learning tool — as educational moments rather than mere IT requests.
 
-The model leans on trained undergraduate tutors as peer facilitators, an [[instructional-design|instructional]] approach that distributes the teaching burden and creates authentic near-peer learning. Tutors were selected for demonstrated proficiency with [[generative-ai|generative AI tools]] (Claude, Copilot, Vercel) and completed a calibration process (observing two sessions, co-facilitating two, then leading independently). Both interviewed tutors identified [[feedback|communication]] and teaching as harder to develop than technical proficiency, a finding with direct implications for [[teacher-ai-competency|tutor recruitment]] and training. The pedagogical script sequences task-oriented [[prompt-engineering|co-prompting]] with explicit [[human-in-the-loop-ai|human oversight]] and a final ethical reflection stage, deliberately weaving responsibility and [[critical-thinking|critical reflection]] into the technical workflow rather than treating ethics as an add-on.
+The model leans on trained undergraduate tutors as peer facilitators, an [[learning-design|instructional]] approach that distributes the teaching burden and creates authentic near-peer learning. Tutors were selected for demonstrated proficiency with [[generative-ai|generative AI tools]] (Claude, Copilot, Vercel) and completed a calibration process (observing two sessions, co-facilitating two, then leading independently). Both interviewed tutors identified [[feedback|communication]] and teaching as harder to develop than technical proficiency, a finding with direct implications for [[teacher-ai-competency|tutor recruitment]] and training. The pedagogical script sequences task-oriented [[prompt-engineering|co-prompting]] with explicit [[human-in-the-loop-ai|human oversight]] and a final ethical reflection stage, deliberately weaving responsibility and [[critical-thinking|critical reflection]] into the technical workflow rather than treating ethics as an add-on.
 
 ## The 5-Stage Pedagogical Script
 
@@ -59,7 +59,7 @@ For **computing education research**, the work illustrates how a small, high-tou
 - [[self-efficacy]]
 - [[cognitive-offloading]]
 - [[curriculum-design]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[prompt-engineering]]
 - [[generative-ai]]
 - [[higher-ed]]

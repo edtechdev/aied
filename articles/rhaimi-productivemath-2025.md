@@ -3,7 +3,7 @@ title: "ProductiveMath: A Generative-AI-Powered App to Support Productive Failur
 created: "2026-08-23T08:20:00-04:00"
 updated: "2026-08-23T09:30:00-04:00"
 type: article
-tags: [productive-failure, generative-ai, math-education, k-12, llm, teacher-role, instructional-design]
+tags: [productive-failure, generative-ai, math-education, k-12, llm, teacher-role, learning-design]
 research_method: [mixed methods]
 discipline: [math education]
 audience: [instructors]
@@ -37,7 +37,7 @@ This paper connects [[productive-failure]] to [[teacher-role|teacher]] support a
 - [[math-education]]
 - [[k-12]]
 - [[teacher-role]]
-- [[instructional-design]]
+- [[learning-design]]
 
 ## Connected Articles
 

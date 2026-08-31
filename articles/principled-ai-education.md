@@ -3,7 +3,7 @@ title: Principled AI in Education
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-08-26T15:34:20-04:00"
 type: article
-tags: [ai-education, higher-ed, pedagogy, scaffolding, educational-policy-ai, active-learning, self-regulated-learning, human-in-the-loop-ai, faculty-development, metacognition]
+tags: [ai-education, higher-ed, pedagogy, scaffolding, educational-policy-ai, active-learning, self-regulated-learning, human-in-the-loop-ai, educational-development, metacognition]
 research_method: [theoretical analysis]
 audience: [faculty development]
 level: [higher ed]
@@ -67,7 +67,7 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[faculty-development]]
+- [[educational-development]]
 - [[human-in-the-loop-ai]]
 - [[metacognition]]
 - [[self-regulated-learning]]

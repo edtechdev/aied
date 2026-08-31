@@ -43,7 +43,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[writing-education]]
 - [[k-12]]
 - [[generative-ai]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[cs-education]]
 - [[higher-ed]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 

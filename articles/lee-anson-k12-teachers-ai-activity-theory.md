@@ -22,7 +22,7 @@ confidence: high
 
 ## Implications for AI in Education
 
-The study demonstrates how [[activity-theory-aied|activity theory]] reframes teacher sentiment as an expression of the whole activity system rather than isolated attitudes. For practice, it implies that addressing teachers' concerns requires engaging the school's tools, rules, community, and division of labor — not just training individual teachers. The six-theme framework (unsuitable, impersonal, imperfect, uncertain, assisting, inevitable) offers a nuanced vocabulary for [[teacher-role|teacher]] [[faculty-development|professional development]] and AI adoption in [[k-12|K-12]] settings, and connects to the companion [[quantitative-research|quantitative]] study [[activity-theory-teachers-adoption-ai-sem-2026|Lee & Granziera (2026)]].
+The study demonstrates how [[activity-theory-aied|activity theory]] reframes teacher sentiment as an expression of the whole activity system rather than isolated attitudes. For practice, it implies that addressing teachers' concerns requires engaging the school's tools, rules, community, and division of labor — not just training individual teachers. The six-theme framework (unsuitable, impersonal, imperfect, uncertain, assisting, inevitable) offers a nuanced vocabulary for [[teacher-role|teacher]] [[educational-development|professional development]] and AI adoption in [[k-12|K-12]] settings, and connects to the companion [[quantitative-research|quantitative]] study [[activity-theory-teachers-adoption-ai-sem-2026|Lee & Granziera (2026)]].
 
 ## Connected Concepts
 - [[activity-theory-aied]]

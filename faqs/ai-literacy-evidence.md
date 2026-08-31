@@ -31,7 +31,7 @@ Source: [[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative 
 
 Beck and Brodersen's economics approach has students first solve or interpret an authentic economics problem themselves, then obtain ChatGPT's response, compare the two, critique the AI, reflect, and discuss with peers. The intervention combines AI literacy with existing [[active-learning|active-learning]] techniques such as Think-Pair-Share.
 
-Its principal contribution is a transferable [[instructional-design|instructional design]] rather than strong experimental evidence of learning effects.
+Its principal contribution is a transferable [[learning-design|instructional design]] rather than strong experimental evidence of learning effects.
 
 Source: [[beck-genai-literacy-economics-hands-on|Fostering Generative AI Literacy in Economics]].
 

@@ -3,7 +3,7 @@ title: Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
-tags: [llm, scaffolding, k-12, stem-education, teacher-role, generative-ai, instructional-design]
+tags: [llm, scaffolding, k-12, stem-education, teacher-role, generative-ai, learning-design]
 research_method: [system development, case study]
 discipline: [stem education]
 audience: [instructors]
@@ -50,7 +50,7 @@ In the Synthesize step, scaffolding questions are generated. The screen keeps th
 
 ## Implications
 
-Concept Catalyst models a collaborative division of labor between teacher and AI that has broad implications for [[instructional-design|instructional design]] and [[ai-education|AI in education]]. By structuring generation around visual concept mapping and teacher review, it positions the LLM as a suggestion engine rather than an autonomous author, keeping the [[human-in-the-loop-ai|human in the loop]] and aligning with [[ai-tpack-teacher-multi-agent-workflow|TPACK-based frameworks]] that situate AI within teachers' existing professional practice.
+Concept Catalyst models a collaborative division of labor between teacher and AI that has broad implications for [[learning-design|instructional design]] and [[ai-education|AI in education]]. By structuring generation around visual concept mapping and teacher review, it positions the LLM as a suggestion engine rather than an autonomous author, keeping the [[human-in-the-loop-ai|human in the loop]] and aligning with [[ai-tpack-teacher-multi-agent-workflow|TPACK-based frameworks]] that situate AI within teachers' existing professional practice.
 
 The tool's focus on [[teacher-role|teacher agency]] offers a template for reducing workload in [[curriculum-design|curriculum design]] and [[project-based-learning|project-based learning]] without eroding professional judgment. Its iterative, non-linear three-stage flow supports reflective practice — a lever known to improve teaching — and its visual [[knowledge-graph]] interaction makes abstract conceptual structure tangible. At the same time, the authors acknowledge structural limitations: access to AI-supported tools remains disproportionate across socio-economic classes, a concern that connects to broader questions of [[equity-in-ai-education|equity]] and [[digital-divide|the digital divide]]. As LLM-based tooling matures, the teacher-as-editor model here points toward more trustworthy [[trust|human-AI collaboration]], though [[hallucination-risk|reliability]] and equitable access remain open challenges for classroom deployment.
 
@@ -61,7 +61,7 @@ The tool's focus on [[teacher-role|teacher agency]] offers a template for reduci
 - [[teacher-role]]
 - [[human-in-the-loop-ai]]
 - [[k-12]]
-- [[instructional-design]]
+- [[learning-design]]
 - [[tpack]]
 - [[generative-ai]]
 - [[llm]]

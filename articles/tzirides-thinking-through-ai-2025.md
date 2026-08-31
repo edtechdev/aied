@@ -23,7 +23,7 @@ confidence: high
 
 ## The Thinking Through AI Framework
 
-The framework integrates principles of cyber-social research with cognitive labs and think-aloud protocols to create continuous feedback loops in the development and implementation of [[ai-education|AI-driven educational tools]]. It is structured around three core dimensions. The first emphasizes students' [[student-engagement|cognitive engagement]] with AI, encouraging them to think critically about AI processes and provide feedback that refines the system. The second centers on educators' [[instructional-design|instructional strategies]], integrating rubrics and knowledge bases so AI tools align with specific learning objectives. The third advances beyond traditional [[usability-research|user experience research (UXR)]] through Learning Experience Research (LXR), promoting the concurrent design of AI tools and learning experiences in collaboration between students, teachers, and developers.
+The framework integrates principles of cyber-social research with cognitive labs and think-aloud protocols to create continuous feedback loops in the development and implementation of [[ai-education|AI-driven educational tools]]. It is structured around three core dimensions. The first emphasizes students' [[student-engagement|cognitive engagement]] with AI, encouraging them to think critically about AI processes and provide feedback that refines the system. The second centers on educators' [[learning-design|instructional strategies]], integrating rubrics and knowledge bases so AI tools align with specific learning objectives. The third advances beyond traditional [[usability-research|user experience research (UXR)]] through Learning Experience Research (LXR), promoting the concurrent design of AI tools and learning experiences in collaboration between students, teachers, and developers.
 
 At its heart, the framework treats AI-mediated learning as a [[human-ai-collaboration]] rather than a one-way consumption of outputs, directly addressing concerns about [[cognitive-offloading]] by designing for active engagement instead of passive reliance. The authors position [[ai-literacy]] as a co-design process, where learners and educators shape the very tools they use.
 
@@ -67,7 +67,7 @@ For educators, the AI Helper's rubric-based feedback enables effective [[scaffol
 - [[collaborative-learning]]
 - [[human-ai-collaboration]]
 - [[student-engagement]]
-- [[instructional-design]]
+- [[learning-design]]
 
 ## Connected Articles
 

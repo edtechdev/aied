@@ -3,7 +3,7 @@ title: Adult Learners
 created: "2026-08-06T10:43:53-04:00"
 updated: "2026-08-29T12:55:12-04:00"
 type: concept
-tags: [adult-learning, instructional-design, ai-education, usability-research, edtech-platform, higher-ed, professional-training]
+tags: [adult-learning, learning-design, ai-education, usability-research, edtech-platform, higher-ed, professional-training]
 research_method: [system development]
 level: [adult learning, higher ed]
 category: [instructional design]
