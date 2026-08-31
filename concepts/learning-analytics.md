@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-30T16:50:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback]
 category: [engagement, evaluation]
@@ -10,6 +10,14 @@ confidence: high
 ---
 
 > **Learning analytics** — the measurement, collection, analysis, and reporting of data about learners and their contexts for the purpose of understanding and optimizing learning. AI has transformed learning analytics from descriptive dashboards to predictive and prescriptive systems.
+
+## Questions to Consider
+
+- Most people assume collecting more learning data automatically improves education. The page argues analytics become meaningful only when they feed back into an intervention — otherwise they merely describe or flag without changing learning. Where have you seen data collected that never led to any action?
+- Imagine a dashboard tells you a student is 'at risk' — a prediction. What separates that from genuinely actionable guidance that a teacher or institution can actually carry out? The page suggests prediction alone is not enough.
+- The page notes AI has moved learning analytics from describing what happened to predicting what will happen and prescribing what to do next. Which of these three generations have you experienced, and what was missing in the others?
+- In one study, three different AI models produced sharply different support plans for the same student data, and the links between analytics indicators and recommended help were mostly weak. What does this suggest about trusting an AI's advice at face value?
+- Learning analytics sits in a privacy tension: the more granular the data, the more revealing — and the more powerful the intervention. Where would you draw the line on what is collected about you or your students, and who should decide?
 
 ### AI-enhanced analytics
 
@@ -100,3 +108,4 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
+

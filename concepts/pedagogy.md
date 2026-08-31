@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 tags: [pedagogy, learning-design, ai-education, higher-ed, k-12]
@@ -10,6 +10,15 @@ category: [instructional design]
 confidence: high
 ---
 > **Pedagogies and teaching strategies** — the methods and approaches educators use to teach and facilitate learning, and the umbrella concept for the knowledge base's coverage of how teaching happens (in contrast to [[learning-theories]], which explains how learning happens). In AI in education, pedagogy is central because the choice of teaching strategy shapes how AI tools are deployed: the same generative-AI tool can be a [[scaffolding|scaffold]] under one pedagogy, a [[socratic-method|Socratic]] interlocutor under another, or an answer-generator under a third. The knowledge base documents individual pedagogies and treats them as the instructional lens through which AI's design and classroom use are evaluated.
+
+## Questions to Consider
+
+- What's the difference between a teaching strategy (pedagogy) and a theory of how learning happens? Can you name a strategy you use and the learning theory it might rest on?
+- The page argues every AI tool 'embeds pedagogical assumptions' whether the designer states them or not. Take a chatbot that just answers questions—what pedagogy is it quietly enacting, and is that intentional?
+- The same generative AI can be a scaffold under one pedagogy, a Socratic partner under another, or an answer generator under a third. Can you describe a single tool being used in these three different ways?
+- Evidence suggests *how* AI is used matters as much as *whether* it's used. Have you observed the same AI helping one class and harming another? What differed?
+- If you were advising a school on buying an AI tool, which questions would you ask to uncover the pedagogy embedded in it—rather than just its feature list?
+- Think of a learner-centered strategy you've tried (active, collaborative, project-based). What made it work or fall flat, and how might an AI tool have changed that outcome?
 
 Pedagogy and teaching strategy concern *how* educators teach — the activities, structures, and methods that organize learning — while [[learning-theories]] explains the underlying mechanisms of *how learning happens*. The two are complementary: a pedagogy operationalizes one or more theories, and the knowledge base treats pedagogy as the bridge from theory to classroom practice. Every AI tool embeds pedagogical assumptions about the desired instructional interaction, whether the designer states them or not.
 
@@ -104,3 +113,4 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions
+

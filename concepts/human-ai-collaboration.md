@@ -1,13 +1,22 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-27T06:22:51.426928-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: []
 confidence: medium
 ---
 
 > **Human-AI collaboration** — the division of cognitive labor between people and models — is the knowledge base's core interaction theme: [[human-ai-collaboration-trust-expectations]], [[humanlike-ai-collaborative-writing]], [[genai-mindtool-generative-learning]], and [[teacher-student-agency-orchestration]] examine trust, agency, and complementary roles ([[human-in-the-loop-ai]], [[agentic-ai]]). The defining question is whether the partnership **preserves or replaces** the learner's own cognitive work — the same arrangement can support learning or substitute for it depending on how responsibility is shared.
+
+## Questions to Consider
+
+- The defining question in human-AI collaboration is whether the partnership preserves or replaces your own cognitive work. Think of a task you've handed to AI: were you generating and deciding, or just accepting?
+- One study found that freely collaborating with ChatGPT produced only transient gains that collapsed on a later unassisted task, while a 'think first, ChatGPT later' protocol yielded durable learning. Why might who generates the ideas predict whether you actually learn?
+- The same tool can support learning or substitute for it depending on how responsibility is shared. Can you think of an arrangement that kept you cognitively productive versus one that quietly offloaded your thinking?
+- Trust is described as something that must be calibrated, not assumed — relying on AI where appropriate and verifying where not. How do you currently decide when to trust and when to verify AI output?
+- Research identifies collaboration modes that trade off efficiency against the depth of your self-regulatory engagement. When is it worth accepting less efficiency to keep more learning in your own hands?
+- If collaboration is a pedagogical choice as much as a technical one, what design moves (prompts, workflows, structures) would you set up to ensure AI augments rather than replaces thinking for your learners?
 
 Human-AI collaboration describes how learners, teachers, and AI systems divide [[cognitive-offloading|cognitive work]] — who does what, who decides, and how [[trust]] and [[agency]] are maintained. Rather than framing AI as either a replacement or a passive tool, collaboration research treats AI as a partner with complementary strengths whose value depends on how responsibility is shared and monitored. At the level of observable behavior, [[student-ai-interaction]] captures how learners enact this relationship in practice — the questions, prompts, and verification moves they make with AI moment to moment.
 
@@ -106,3 +115,4 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
+

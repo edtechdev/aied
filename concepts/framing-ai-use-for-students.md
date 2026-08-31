@@ -1,7 +1,7 @@
 ---
 title: Framing AI Use for Students
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, student-experience, motivation, educational-policy-ai, higher-ed, k-12, collaborative-learning, governance]
 audience: [learners]
@@ -10,6 +10,14 @@ confidence: high
 ---
 
 > **Framing AI use for students** — the persuasive and communicative craft of shaping how learners understand the value, purpose, and boundaries of AI tools and policies, so that they adopt productive and [[ethics|ethical]] use rather than rejecting, avoiding, or gaming it. It is the "buy-in" lever that [[reducing-ai-misuse]]'s educative interventions depend on: structural guardrails change the environment, but [[scaffolding]], literacy training, and AI-use policies only take hold when students are actually convinced of their point.
+
+## Questions to Consider
+
+- Simply making AI available to students was associated with ineffective or even unethical use, while explicitly framing and embedding appropriate use improved outcomes. If the presence of the tool matters less than how it's framed, what does that suggest about the emphasis on simply 'giving students AI'?
+- Students' knowledge of institutional AI rules shows only weak links to what they actually do — most use generative AI, many are unsure if their usage complies, and they lean on privately accessed tools. Why do rules fail to change behavior, and what might persuade instead of just inform?
+- When institutions respond to AI with fear and condemnation, students may hide or rationalize their use rather than learn to use it well. Have you seen a 'moral panic' response push students into secrecy? What would a reframed, opportunity-focused approach look like?
+- Anxiety about AI isn't purely a barrier: students who worried about accuracy and plagiarism were *more* likely to verify and revise AI output rather than accept it uncritically. How might productive anxiety be channeled into evaluative competence instead of being suppressed?
+- Students construct their own sense of what's acceptable through 'sites' — faculty intentions, course documents, peer norms, and institutional messages — that often diverge. When those messages conflict, which one do you think actually wins, and how does framing close that gap?
 
 The concept sits between two more familiar ones. Where [[technology-acceptance-model]] *predicts* uptake from perceived usefulness and ease of use, framing is the *active practice* of shaping those perceptions. And where [[student-experience]] describes how students currently perceive AI, framing is about changing that experience deliberately. It is the communication-side partner to [[educational-policy-ai]]: a policy is only as effective as students' willingness to buy into it.
 
@@ -89,3 +97,4 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors frame AI as critical/responsible use; employers frame it as productivity
 - [[ssaho-ai-academic-integrity-review-2025]] — Building a culture of academic integrity via clear expectations
 - [[mediational-agent-genai-sociocultural-2026]] — Human-first habits of participation in AI-mediated learning
+

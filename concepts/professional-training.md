@@ -1,7 +1,7 @@
 ---
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-29T15:22:36-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm]
 audience: [instructors, administrator, learners]
@@ -10,6 +10,14 @@ confidence: high
 ---
 
 > **Workplace learning** — the use of AI for workforce development, corporate learning, and professional skill acquisition. Professional training extends AI in education beyond formal schooling into workplace and [[lifelong-learning|lifelong learning]] contexts.
+
+## Questions to Consider
+
+- Think of a skill you learned on the job rather than in a classroom. What made that workplace learning effective, and how might an AI coach replicate or improve it?
+- The page's Workforce Readiness Level framework suggests the highest competency stages are 'gated by industry-embedded experience rather than coursework.' What does that imply for how we should train people—and for the limits of AI simulation?
+- Virtual patients and training simulators let professionals practice safely. What kinds of judgment and interpersonal skills might a simulator struggle to capture, no matter how realistic?
+- The 'Dual Train Problem' is the tension between rapidly changing AI skills and the slower pace of policy and curriculum. If you could choose durable competencies to prioritize for learners today, what would they be?
+- Adult learners balance work and study, often through screens. How might AI-powered professional training both enable and complicate that balancing act—especially around data, trust, and time?
 
 ### AI in professional training
 
@@ -62,3 +70,4 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[e
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+

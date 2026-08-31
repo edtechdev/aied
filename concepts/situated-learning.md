@@ -1,7 +1,7 @@
 ---
 title: Situated Learning
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-27T08:12:21.057525-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [situated-learning, experiential-learning, constructivist, learning-theories, sociocultural-learning, learning-design, ai-education]
 category: [instructional design]
@@ -9,6 +9,14 @@ confidence: high
 ---
 
 > **Situated Learning** — the theory, rooted in the early-1990s work of Lave and Wenger (1991), that learning is not an isolated, decontextualized act but occurs through participation in authentic activities, contexts, and cultures. Knowledge is co-constructed by learners and peers within [[collaborative-learning|communities of practice]], and novices learn through legitimate peripheral participation — absorbing the culture, language, and practices of expert members as they move from the periphery to the center of a community. Emphasis falls on learning by doing in real-world situations, where [[assessment]] emerges from the task itself rather than being separated from it.
+
+## Questions to Consider
+
+- Think of something you genuinely know how to do well — a skill, a trade, a craft. Did you learn it mostly from abstract instruction or from participating in a real community that did that thing? What does that suggest about where knowledge actually lives?
+- Lave and Wenger describe novices learning through 'legitimate peripheral participation' — starting at the edge of a community of practice and moving inward. Where have you watched (or been) such a newcomer, and what let them move from the periphery to the center?
+- If knowledge is 'situated' in authentic contexts, what does that imply for the traditional classroom, which deliberately separates learning from real-world situations — and for AI tools designed to deliver decontextualized content?
+- The page treats situated learning as a design lens for AI. How might an adaptive system or simulation ground learning in authentic practice rather than pulling it out of context?
+- What obstacles does the research say stand in the way of situating AI-driven learning in real contexts, and which of those have you seen in your own institution?
 
 Situated learning is one of the activity-and-context theories within the knowledge base's [[learning-theories]] strand. It takes up Vygotskian themes of social construction but adds a strong emphasis on the intimate integration of "doing" and "learning" and on the importance of communities of practice. As an educational stance it confronts traditional, standardized schooling by foregrounding the learner's [[sociocultural-learning|sociocultural]] context as a key element for acquiring skills and appropriating knowledge relevant to their reality.
 
@@ -51,3 +59,4 @@ Situated learning connects closely to [[embodied-learning]] (both stress the gro
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[videla-embodied-ai-education-choreography]]
+

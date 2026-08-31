@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-08-29T15:22:36-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [curriculum-design, learning-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
 discipline: [stem education]
@@ -12,6 +12,15 @@ confidence: high
 ---
 
 > **Curriculum Design** — the process of planning and structuring what is taught across courses, programs, and institutions, including learning objectives, content sequencing, assessment strategies, and skill progression. In the AI era, curriculum design must balance foundational knowledge with emerging AI competencies, determining not just what students learn but how they learn to work with and critically evaluate AI tools.
+
+## Questions to Consider
+
+- Curriculum design asks what students should learn at the program level, while learning design asks how at the course level. When AI reshapes a discipline, which of these two layers do you think should change first?
+- As generative AI automates implementation-level work, some argue curricula must shift toward system design, abstraction, and critical evaluation. What do you think students would lose if low-level skills were de-emphasized?
+- Curriculum redesign in the AI era is often framed as a balance between tool fluency and foundational knowledge. Where have you seen that balance tip too far in one direction?
+- The SAIL framework treats AI literacy as scaffolded across ages and designed to address deeper 'digital divides' beyond access. How is embedding AI literacy across a whole curriculum different from adding a single AI course?
+- If every discipline now needs AI competencies embedded within it, who is responsible for the curriculum change — instructors, programs, or institutions — and what do educators need to succeed at it?
+- A curriculum is a sequence of skills across years, not just a list of topics. How does that longer view change whether an 'AI literacy unit' actually sticks?
 
 Curriculum design addresses the *what* of education at the program level, complementing [[learning-design]] which addresses the *how* at the course level. The articles in this knowledge base explore how AI is reshaping curricula across disciplines — from software engineering to architecture to green education — and how educators are designing curricula that embed AI literacy without sacrificing disciplinary fundamentals.
 
@@ -81,3 +90,4 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
+

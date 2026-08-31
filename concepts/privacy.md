@@ -1,7 +1,7 @@
 ---
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-30T18:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Privacy** — the protection of student data, identity, and autonomy in AI-augmented learning environments. Privacy concerns intensify as AI systems collect increasingly granular behavioral data for [[personalized-learning|personalization]], [[learning-analytics|analytics]], and [[student-modeling|adaptive instruction]]. It is a core ethical and regulatory constraint on [[ai-education|AI in education]]: nearly every AI tool that personalizes, predicts, or assesses depends on learner data, which makes data minimization, consent, transparency, and security foundational design requirements rather than afterthoughts.
+
+## Questions to Consider
+
+- What student data would you be uncomfortable having collected about you—even if it improved your learning? Where does personalization become surveillance?
+- Many students have 'no meaningful choice' but to use a mandated platform, making consent nominal. Have you ever consented to something without really understanding what was collected and why? What would informed consent actually require?
+- The same learner data that powers adaptive, personalized learning also creates risk of misuse and harm. Can you name a personalization benefit you'd be willing to trade some privacy for—and the line you wouldn't cross?
+- The page warns that privacy safeguards may 'default to protecting only some learners.' Which students might be most exposed, and how does privacy connect to equity and fairness?
+- Constant AI monitoring—even well-intentioned—can shape behavior and anxiety. When has being watched changed how you behaved, and what does that suggest about classroom AI sensing?
+- For children, privacy extends beyond data protection into safety. Why might general-purpose safety tools fail to catch education-related risks from minors, and who should be in the loop?
 
 Privacy is the precondition for trustworthy AI in education. Because AI systems improve with data — [[personalized-learning|personalization]] requires detailed learner profiles, [[learning-analytics|learning analytics]] requires granular interaction logs, and [[pedagogical-llm-training|fine-tuned tutoring models]] require authentic learner–tutor transcripts — the same data that enables adaptive, scalable education also creates risk of surveillance, misuse, and harm. The knowledge base treats privacy as inseparable from [[ethics]] (the normative framework), [[regulation]] (the legal requirements), [[governance]] (the institutional responsibility), and [[equity-in-ai-education|equity]] (who is protected and who is exposed). Its privacy articles cluster around four recurring problems: collection at scale, consent and transparency, security and anonymization, and the distinct protections owed to children.
 
@@ -67,4 +76,5 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+
 

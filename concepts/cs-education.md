@@ -1,7 +1,7 @@
 ---
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, cs-education]
 discipline: [stem education]
@@ -11,6 +11,15 @@ confidence: high
 ---
 
 > **CS Education** — computer science education is the most-researched STEM subfield in the knowledge base, benefiting from natural alignment between AI tools and programming tasks. Code generation, debugging assistance, and automated code review are its primary AI applications. Because students learn to build the very tools they use, CS education sits at the center of debates about AI literacy, curriculum redesign, agentic software engineering, and the boundary between genuine learning and [[cognitive-offloading|over-reliance]].
+
+## Questions to Consider
+
+- If AI can now write code that passes real programming exams, what should students still learn to do by hand — and what should the curriculum stop teaching?
+- Research found that higher trust in an AI coding assistant predicted WORSE ability to tell correct from misleading suggestions. How is trust different from appropriate reliance, and how would you teach the latter?
+- In student-AI co-programming, nearly 80% of interactions relied on non-learning strategies like outsourcing answers, and only about 1 in 9 showed deep epistemic engagement. Why does genuine learning rarely happen by default when AI is available?
+- A learning-by-teaching agent that was too competent undermined students' debugging practice. Would you deliberately make an AI tutor fallible — and if so, how?
+- As AI automates implementation, curricula are shifting from writing code to verifying and directing AI-generated artifacts. What new competencies does that demand, and what might get lost in the shift?
+- Students are building the very tools they use. How does being both builder and user of AI change what they should learn about its limits — and its ethics?
 
 ### AI in CS education
 
@@ -138,3 +147,4 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[astor-computational-thinking-meta-review-2026]] — Meta-review situating CT in CS education
 
 - [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming
+

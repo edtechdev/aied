@@ -1,7 +1,7 @@
 ---
 title: Adult Learners
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-08-29T12:55:12-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [adult-learning, learning-design, ai-education, usability-research, edtech-platform, higher-ed, professional-training]
 research_method: [system development]
@@ -10,6 +10,15 @@ category: [instructional design]
 confidence: medium
 ---
 > **Adult learning** — the theory and practice of educating adults (andragogy), and how AI tools and technologies can be designed to support adult learners' [[agency|autonomy]], prior experience, and real-world relevance. Explored across 9 articles in this knowledge base.
+
+## Questions to Consider
+
+- Adult learning theory assumes learners are self-directed, draw on life experience, and want real-world relevance. But if AI performs much of the cognitive work, does a learner completing a task without visible help actually prove they directed it? What would make you confident they did?
+- Behavioral independence from a tool no longer guarantees the learner directed the learning. If you were designing AI for adult learners, what would you look for to confirm genuine self-direction rather than quiet delegation?
+- Design guidelines for adult AI tools emphasize fitting into busy lives — mobile-friendly, offline-capable, connected to real problems. Which of these matter most for your own learning, and what does a tool that ignores them cost the learner?
+- Adult learners often study at work or at home, so online delivery dominates — bringing flexibility but also risks of offloading and integrity questions. How does the convenience of AI assistance interact with the goal of durable learning for a busy adult?
+- Research found no single adult-learning AI system satisfied all design guidelines — the full ecosystem was needed. What does that suggest about expecting one tool to meet every learner's needs?
+- For marginalized and neurodivergent adult learners, equity may be less about tool access than about the educator's relational care. How does positioning the human as the locus of care change how you would design or adopt an AI tool?
 
 Rooted in Knowles's andragogical model, adult learning assumes learners are self-directed, draw on life experience, are motivated by immediate and practical goals, and benefit most when learning connects to their real-world roles. These assumptions matter for AI design because generative AI can now participate in almost every stage of learning — identifying needs, setting goals, interpreting information, producing outputs, and evaluating performance. When AI performs so much of the cognitive work, behavioral independence from the tool no longer guarantees that the learner actually directed the learning. Research in this knowledge base accordingly reframes self-direction as an active design goal rather than an assumed default, and evaluates adult-learning AI against criteria like goal ownership, delegation control, and cognitive recoverability.
 
@@ -75,4 +84,5 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - [[dot-framework-survey-2026]]
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
+
 

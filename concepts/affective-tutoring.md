@@ -1,7 +1,7 @@
 ---
 title: Affective Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-25T08:20:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [affective-computing, intelligent-tutoring, adaptive-learning, scaffolding, k-12, higher-ed, llm, generative-ai, student-experience, ai-literacy]
 audience: [learners]
@@ -10,6 +10,15 @@ confidence: medium
 ---
 
 > Integrating emotional awareness into [[intelligent-tutoring|AI tutoring]] systems can yield measurable pedagogical gains, but the same affective sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.([[kar-mathbuddy-affective-math-tutoring-2025]])([[favero-critical-ai-tutors-empower-enslave-2025]])
+
+## Questions to Consider
+
+- An affective tutor that senses and responds to your emotions can improve outcomes — one study gained a +23 point win rate over a non-affective tutor. But what might that emotional responsiveness cost the learner's own agency?
+- Empathy in a tutor can feel supportive, yet it can also create parasocial dependence or mask metacognitive disengagement. How can you tell whether feeling understood by a machine is helping you learn or making you reliant on it?
+- Too-supportive tutoring can suppress the frustration that drives productive struggle. When does emotional comfort help learning, and when does it short-circuit it?
+- Facial monitoring signals attentiveness but raises real privacy concerns. What would you want to know before a tutor tracked your facial expressions while you learned?
+- Design principles suggest affective data should inform, not replace, learner autonomy — you should control what you disclose and know when your emotions are being inferred. How would you feel if a tutor quietly changed its strategy based on your detected mood?
+- Students may attribute an AI tutor's emotional support to genuine relationship, reinforcing reliance on it. What's the difference between a tutor that genuinely cares and one that is designed to appear like it cares?
 
 MathBuddy dynamically models student affect using two modalities:
 

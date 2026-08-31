@@ -1,13 +1,20 @@
 ---
 title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-23T15:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: []
 confidence: medium
 ---
 
 > **Educational NLP** applies language technologies to learning: [[llm-item-difficulty-prediction]], [[teaching-feedback-classification-benchmark]], [[llm-sentiment-analysis-education-research]], and [[vocabulary-difficulty-prediction]] show LLMs advancing analysis of student language at scale ([[educational-measurement]], educational-nlp).
+
+## Questions to Consider
+
+- When an LLM analyzes thousands of student essays or discussion posts for sentiment, what might it be getting right, and what about the language of learning do you suspect it's missing?
+- Natural language processing can now estimate the difficulty of vocabulary and test items, and classify teaching feedback at scale. If those predictions feed adaptive systems, who checks whether the machine's judgments about language are actually right for the learners using them?
+- How is analyzing student language different from understanding it? Where might the line between correlation and genuine insight blur when NLP scales up sentiment and feedback analysis?
+- This concept connects NLP to tutoring, student modeling, and measurement. Before reading, how much of 'understanding a student' do you think can be captured from their written or spoken language alone — and what gets left out?
 
 ### What educational NLP does
 
@@ -46,3 +53,4 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 - [[zerkouk-comprehensive-review-its-2025]]- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: IR-based evaluation of math diagrams
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
+

@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-30T18:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 audience: [learners]
@@ -10,6 +10,14 @@ confidence: high
 ---
 
 > Metacognition — thinking about one's own thinking — is both a target of [[ai-education|AI education]] [[research-methods-aied|research]] (can AI tools develop students' metacognitive skills?) and a risk factor (AI completing tasks may suppress metacognitive practice).([[stanford-evidence-base-ai-k12-2026]])([[scheu-mobile-chatbot-journaling-motivation-2026]])
+
+## Questions to Consider
+
+- 'Metacognition' is thinking about your own thinking — knowing what you know, monitoring yourself, and adjusting your strategies. When you study or solve a problem, how aware are you in the moment of whether you actually understand versus just recognizing the material?
+- A striking finding: students who used AI essay assistance were often unable to recall quotes from their own essays, because they hadn't engaged with the content during production. When a tool produces the output, what practice is the learner losing — and is that practice important?
+- The page frames metacognition as both a target (can AI build it?) and a risk (can AI suppress it?). Could the same AI tool either strengthen or weaken a learner's metacognition depending on how it's designed or used? What determines which way it goes?
+- Structured prompts that ask students to self-explain, evaluate strategies, or identify gaps preserve metacognitive demand, while AI that simply completes tasks displaces it. If you were designing an AI study tool, what would you build so that it invites reflection instead of replacing it?
+- The page finds that whether AI use is metacognitively rich depends on the learner's motivation and stance as much as on the technology. Have you ever used a tool in a shallow way and then realized you learned nothing — and what was different about times you used it deeply?
 
 Metacognition in education refers to learners' awareness, monitoring, and [[regulation]] of their own cognitive processes:
 
@@ -132,3 +140,4 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+

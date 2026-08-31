@@ -1,7 +1,7 @@
 ---
 title: Problem-Based Learning
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [active-learning, collaborative-learning, scaffolding, generative-ai, critical-thinking, higher-ed, medical-education, engineering-education]
 discipline: [medical education, engineering education]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Problem-based learning (PBL)** — a learner-centered pedagogy in which students acquire knowledge and skills by working to understand and resolve a realistic, often ill-structured problem, with a facilitator guiding inquiry rather than delivering instruction. In the AI era, PBL's structural features — problem-driven inquiry, [[collaborative-learning|collaborative knowledge construction]], facilitation over instruction, and [[metacognition|metacognitive reflection]] — have emerged as the same conditions under which generative AI integration becomes educationally productive rather than substitutive.
+
+## Questions to Consider
+
+- In problem-based learning, the *problem* is the driver of the curriculum—not an illustration of content taught elsewhere. Can you recall a time you learned something deeply because you were solving a real problem first?
+- The page argues PBL's features (problem-driven inquiry, collaboration, facilitation, reflection) are exactly the conditions under which AI becomes a productive partner rather than a shortcut. Why might that be?
+- AI severs the link between a submitted artifact and the effort that produced it—the 'artifact-as-proxy' problem. How does assessing process instead of just product help, and what makes process assessment hard?
+- PBL originated in medical education partly because professional competence needs adaptive judgment, not routine execution. What's the difference between those two, and how does AI change which one we train for?
+- If an AI can now make 'wicked problems' and complex real-world cases accessible to more students, what might be lost when the challenge becomes easier to reach?
+- Where should an AI in a PBL setting draw the line between giving a problem, a hint, or an answer? What determines which is the right move at any moment?
 
 PBL originated in medical education (McMaster University, 1960s) and has since spread across health professions, engineering, and K-12. The learner takes responsibility for diagnosing learning needs, identifying resources, and constructing solutions, while the facilitator scaffolds the process. The distinctive claim of PBL is that the *problem* is the curriculum driver — not an illustration of content taught elsewhere but the context in which content is learned.
 
@@ -71,4 +80,5 @@ Because PBL foregrounds process, collaboration, and demonstrated understanding o
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
+
 

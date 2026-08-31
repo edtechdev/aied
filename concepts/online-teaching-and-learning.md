@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-08-27T05:50:01.954210-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [online-teaching-and-learning, pedagogy, learning-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
 level: [higher ed]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Online teaching and learning** — the pedagogy and practice of teaching and learning that happens through digital, network-mediated environments rather than in a shared physical classroom. It spans fully online courses, Massive Open Online Courses (MOOC), blended and hybrid formats, and distance education. For the knowledge base, the central question is how [[generative-ai|generative AI]] reshapes the opportunities, challenges, and recommended practices of teaching at a distance — from scalable [[personalized-learning|personalization]] to new [[academic-integrity|academic integrity]] and [[cognitive-offloading]] risks.
+
+## Questions to Consider
+
+- You've likely taken an online course or taught one. What did you lose and what did you gain when the physical classroom was removed—and how did that reshape what instructors could rely on?
+- The page argues online teaching is a distinct pedagogy, not just a delivery mechanism. In what concrete ways does the online medium change which teaching strategies are even possible or effective?
+- An RCT found unguarded AI assistance raised practice performance but lowered unassisted exam scores, while a 'hint-not-answer' tutor removed the harm. Before reading further, can you explain why giving students the answer might inflate immediate performance yet erode durable learning?
+- Online assessment can't always tell assisted from independent work. If detection tools are a 'partial, contested response,' what alternative assessment designs might reveal genuine understanding instead?
+- How does the perceived availability of an effortless AI shortcut reshape student motivation in a self-paced, screen-based course? What might you design to counter it?
+- AI can now generate a MOOC-equivalent course in minutes at a fraction of the cost. What are the pedagogical trade-offs of 'N agents for one student' versus 'one video for N students'?
 
 Online teaching and learning is a distinct [[pedagogy|pedagogical]] context, not merely a delivery mechanism. It removes the physical co-presence that scaffolds attention, [[motivation]], and informal interaction, and it substitutes structured digital interaction — discussion forums, asynchronous materials, video, [[intelligent-tutoring|tutoring agents]] — for face-to-face contact. This changes what instructors can rely on, what students can access, and how learning is designed and assessed. As an umbrella concept in the [[pedagogy|pedagogies and teaching strategies]] landscape, it sits alongside [[active-learning]], [[collaborative-learning]], and [[self-regulated-learning]] but is distinguished by the medium: the constraints and affordances of the online environment shape which strategies are viable.
 
@@ -132,3 +141,4 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[critical-thinking-biological-sciences-ai-2025]] — Promoting Critical Thinking in the Era of AI
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[educasim-cs1-instructional-practice]] — EducaSim: scalable role play for massive online courses
+

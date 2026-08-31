@@ -1,13 +1,22 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-08-30T16:50:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [conversational-ai, intelligent-tutoring, generative-ai, llm, pedagogical-agent, human-ai-collaboration, ai-literacy]
 confidence: medium
 ---
 
 > **Conversational AI (CAI) agents** — AI-driven speech- or text-based agents that simulate and automate conversations, from rule-based chatbots to NLP/ML and multimodal LLM-based assistants — are among the most widely used AI interfaces in education, valued for teaching, psychological, and metacognitive support even as technical, cognitive, and ethical concerns persist.
+
+## Questions to Consider
+
+- When you've used a chatbot or AI assistant, did you think of it as a teacher, a search engine, or something else? How did that framing shape how much you actually learned from it?
+- Conversational AI describes HOW an agent talks, not what it's built to do. Could a chatbot be conversational yet completely unpedagogical — and what would tell you the difference?
+- One study found that AI literacy — not general tech savvy — predicted whether students were willing and able to use a chatbot. Why might knowing how AI works matter more than being 'good with computers'?
+- A raw general chatbot can short-circuit reasoning by answering immediately, while a structured tutor preserves productive struggle by withholding answers. What design choices decide which kind of agent a student meets?
+- Students using a law-course chatbot did a third of their interactions after hours — evidence that 24/7 availability is a real benefit. But does always-on access also carry risks you'd want to design against?
+- The biggest barrier to chatbot adoption in one study was a badly designed pop-up, not distrust or academic-integrity fears. What does that suggest about where AI-in-education investments actually fail?
 
 Conversational AI (CAI) is the umbrella term for AI-driven agents that carry on spoken or written dialogue, most commonly realized as chatbots and, more recently, [[generative-ai|generative]] [[llm|LLM]]-based assistants such as ChatGPT, Claude, and multimodal educational avatars. Modern CAI agents fall into machine-learning-based, NLP-based, and hybrid categories, with text-based agents the most prevalent in education. As learning tools they function as [[intelligent-tutoring|intelligent tutors]], [[feedback]] providers, [[student-ai-interaction|interaction partners]], and administrative assistants — overlapping with [[pedagogical-agent|pedagogical agents]] while spanning a broader set of applications.
 
@@ -83,3 +92,4 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 ## Citation
 
 Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
+

@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-08-27T08:12:21.057525-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students]
 type: concept
 tags: [cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, generative-ai]
@@ -11,6 +11,15 @@ confidence: high
 ---
 
 > **AI misuse and learning harm** — the causal relationship between students offloading [[cognitive-offloading|cognitive work]] to [[generative-ai|generative AI]] and reduced durable learning, even when immediate task performance rises. The defining feature is a performance–learning gap: AI inflates assisted performance while degrading unassisted, closed-book, and retention outcomes.
+
+## Questions to Consider
+
+- A student can perform better in the moment while learning less over time — AI can raise assisted performance while degrading later, unassisted achievement. When have you felt you 'learned' something that vanished the moment the tool was gone?
+- The central finding is a performance–learning gap: students who used an unguarded AI tutor scored 48% higher on practice but 17% lower on closed-book exams. How does that change how you'd interpret a strong grade earned with AI help?
+- Misuse is about substitution — delegating the drafting, recall, or analysis that builds durable understanding — rather than using AI as a complement. Where would you draw the line between AI helping you learn and AI learning for you?
+- Students in the harmed group did not perceive they learned less. If learners can't tell they're being harmed, what should an instructor watch for instead of trusting student self-reports?
+- The harm is selective by assessment type: it shows up on proctored, closed-book measures but can be hidden when coursework can't distinguish AI-assisted from independent work. What kind of assessment would actually reveal whether students learned?
+- Guardrailed 'hint-not-answer' AI eliminated the harm while preserving the benefit. What would it take to design AI help that supports learning without becoming a crutch?
 
 AI misuse is distinct from AI use. Use describes employing AI as a complement to learning — [[feedback]], brainstorming, or revision help that keeps the learner's cognitive work in the loop. Misuse describes substitution: delegating to AI the very mental processes (drafting, recall, analysis, revision) that build durable understanding. The harm documented in the knowledge base's evidence base is not that misuse fails to help; it is that misuse actively degrades later, unassisted achievement.
 
@@ -75,3 +84,4 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
+

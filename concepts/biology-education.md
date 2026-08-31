@@ -1,7 +1,7 @@
 ---
 title: Biology Education
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-08-21T09:01:28-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [biology-education, stem-education, higher-ed, k-12, generative-ai, critical-thinking, ai-literacy, human-ai-collaboration]
 discipline: [biology education, stem education]
@@ -9,6 +9,14 @@ level: [higher ed, k 12]
 confidence: high
 ---
 > **Biology Education** — the study of how students learn biology and how to teach it more effectively, spanning AI-assisted laboratory instruction, AI literacy embedded in biology curricula, critical thinking in the AI era, and the use of specialized tools (species identification, bioimaging, predictive modeling) in biological education. Biology's distinctive demands — large bodies of specialized terminology, visual-spatial and systems thinking, hands-on laboratory and fieldwork, and increasingly computational 'omics methods — make it a rich context for examining both the promise and the risks of AI in STEM learning.
+
+## Questions to Consider
+
+- Biology makes distinctive demands on learners — specialized terminology, visual-spatial and systems thinking, hands-on lab work. Before reading, how do you think these features change what AI can genuinely help with in biology versus what it might undermine?
+- A virtual lab teaching assistant study found human TAs more accurate and effective than ChatGPT, yet students preferred the AI response 40% of the time and could only detect AI output 45% of the time. Why might students prefer a less accurate AI answer — and what does that say about the 'safety net' needed in lab teaching?
+- AI has revolutionized biology research (AlphaFold, computational biology) while its adoption in biology education has been cautious, amid concerns about cheating and erosion of critical thinking. Why do you think the same tools that power scientific discovery are treated with such caution in the classroom?
+- One study embedded machine-learning concepts into a high-school biology course and found the biology context actually supported AI learning — evidence for embedding AI literacy in the curriculum rather than making it an add-on. Where in a biology course would AI concepts naturally arise?
+- Researchers argue that as AI reshapes biological research, critical thinking — skepticism, contextual understanding, ethical reasoning — must be deliberately cultivated with human oversight. If AI can now identify species, interpret images, and predict outcomes, what intellectual work is left that students must learn to do themselves?
 
 Biology education research on AI clusters around a tension: AI has revolutionized biology *research* (AlphaFold, 'omics, computational biology), yet its adoption in biology *education* has been cautious amid concerns about generative-AI cheating, misinformation, and erosion of critical thinking. The knowledge base's biology articles collectively examine how AI tools function as laboratory teaching assistants, how AI literacy can be embedded in biology courses, how critical thinking must be protected in the AI era, and how specialized AI tools support fieldwork and species identification.
 
@@ -63,3 +71,4 @@ Biology education sits within the broader [[stem-education]] domain and shares t
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
+

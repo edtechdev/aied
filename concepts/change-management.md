@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-08-29T12:55:12-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [change-management, ai-education, higher-ed]
 level: [higher ed]
@@ -9,6 +9,15 @@ confidence: medium
 ---
 
 > **Change management** — the deliberate set of processes, governance structures, and leadership practices through which [[higher-ed]] institutions plan, implement, and sustain the integration of AI into teaching, learning, and assessment. Because [[generative-ai|generative AI]] arrived as an "arrival technology" that entered classrooms before [[pedagogy|pedagogical]] evidence accumulated, change management in [[ai-education|AI education]] must support continuous adaptation under uncertainty rather than one-time adoption, balancing institutional stability with emergent innovation and shared governance across [[administrator|administrators]], [[teacher-role|faculty]], students, and [[educational-policy-ai|policymakers]].
+
+## Questions to Consider
+
+- Change management here is described as governing continuous adaptation under uncertainty, because generative AI arrived in classrooms before pedagogical evidence accumulated. What does it mean to manage change when you can't wait for best practices but also can't responsibly scale untested innovations?
+- A recurring obstacle is the gap between top-down policy intent and classroom reality — for instance, policies that encourage GenAI while course syllabi prohibit it, leaving instructors to improvise. Why do you think policy and practice drift apart so easily around AI?
+- Research finds that a faculty member's pedagogical orientation — what they believe AI means for disciplinary knowledge — is the strongest predictor of adoption, while institutional initiatives and demographics are surprisingly weak predictors. What does that suggest about where change efforts should focus their energy?
+- The page notes that only 7% of institutions have created senior AI leadership roles despite 49% viewing AI as a strategic priority. What do you think it signals when an institution calls something strategic but doesn't resource it with leadership?
+- A coordination-game model explains why policy statements alone fail: student AI use is a collective norm-formation process, and small, well-calibrated changes to assessment incentives can trigger rapid cohort-wide shifts toward responsible use. How might changing assessment incentives do more than issuing a policy ever could?
+- The page warns that fragmented adoption widens existing gaps — inclusion, equity, and sustainability are often overlooked even where core ethical principles are embraced. Which learners or institutions do you suspect lose out when change is managed unevenly, and how would you keep them central?
 
 The empirical literature consistently shows that effective AI change management is a socio-technical, not merely technical, endeavor. The [[institutional-change-framework-ai|institutional change framework]] adapts classic change models to generative AI, arguing that institutions "cannot wait for best practices, but cannot responsibly scale unjustified innovations," and calling for humble local inquiry, reform organized around pedagogical approaches rather than ephemeral tools, and students engaged as partners in reform. This framing resonates with the [[leveraging-complex-systems-leading-for-transformative-change|complex-systems leadership]] argument that education is a complex adaptive system where leaders must judge when to reinforce administrative stability and when to enable "adaptive space" — diffusing high-risk innovations like AI through trusted social networks (complex contagions) rather than linear knowledge flow.
 
@@ -53,3 +62,4 @@ Change management is the institutional complement to classroom-level integration
 - [[ai-uk-higher-education-policy-2026]] — national policy intent vs. institutional capacity in UK higher education
 - [[alrahmi-org-drivers-ai-adoption-he-2026]] — organisational and technological drivers of AI adoption
 - [[adarkwah-genai-unesco-policy-2026]] — UNESCO framework analysis of institutional GenAI policies
+

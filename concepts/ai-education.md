@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:45:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity-in-ai-education]
 audience: [instructors, learners, faculty development, administrator]
@@ -13,6 +13,15 @@ confidence: high
 ---
 
 > **AI in Education (AIED)** — the broad, interdisciplinary field that applies artificial intelligence to teaching and learning, and studies its design, use, evaluation, and consequences. As the knowledge base's umbrella concept, AI in education encompasses **AI for education** (using AI to improve instruction and assessment) and **education about AI** (developing AI literacy and critical understanding). It sits at the intersection of instructional technology, learning science, computer science, [[educational-policy-ai|educational policy]], [[ethics]], and [[equity-in-ai-education|equity]]. This page is an introduction to the field and a map to every concept the knowledge base covers.
+
+## Questions to Consider
+
+- 'AI in education' spans two directions: AI for education (using AI to improve teaching) and education about AI (building literacy and critical understanding). Which is more familiar to you, and which do you tend to overlook?
+- The field's history is framed as a recurring tension between control and learner agency. As you watch AI tools being adopted, where do you notice that same tension playing out today?
+- AI in education sits at the intersection of technology, learning science, policy, ethics, and equity. Which of those lenses do you naturally apply when evaluating an AI tool — and which are you likely to forget?
+- This knowledge base organizes the field into strands: pedagogy, learning theories, technologies, disciplines, assessment, feedback, stakeholders, and governance. If you were mapping your own use of AI, which strand would you find yourself in?
+- AIED includes teaching students to use AI critically as a goal in itself. In your context, is AI treated more as a subject to be taught or a tool to be used — and does that balance reflect what learners actually need?
+- Students may learn AI literacy by using AI critically, not just by learning about AI. How might hands-on, critical use build understanding that passive instruction cannot?
 
 AI in education is the umbrella that all other concept pages collectively define. The knowledge base organizes the field into the major strands below, each linking to the relevant concept pages.
 
@@ -185,3 +194,4 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 - [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
+

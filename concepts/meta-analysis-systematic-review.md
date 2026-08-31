@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-08-26T12:13:03-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [meta-analysis-systematic-review, research-methods-aied, ai-education, ai-ed-evaluation]
 research_method: [meta-analysis, systematic review, research methods, literature review]
@@ -10,6 +10,14 @@ confidence: high
 ---
 
 > **Meta-analysis and systematic review** — the family of evidence-synthesis methods researchers use to aggregate and appraise a body of studies, rather than run a single new experiment. A **systematic review** applies a transparent, reproducible protocol to search, screen, appraise, and synthesize the literature on a focused question; a **meta-analysis** goes further by statistically pooling effect sizes across eligible studies to produce a weighted summary estimate and to test moderators. In AI in education, these methods are central to establishing the evidence base for whether AI tools work, under what conditions, and for whom — and to exposing gaps, bias, and the field's methodological quality.([[genai-meta-analysis-programming-learning]])([[zerkouk-comprehensive-review-its-2025]])
+
+## Questions to Consider
+
+- Imagine you read ten studies on whether AI tutoring works — two show big gains, three show none, five show small positive effects. How would you decide what to conclude? That tension is exactly what systematic reviews and meta-analyses are built to resolve.
+- A systematic review and a meta-analysis are often treated as the same thing, but the page distinguishes them: a review synthesizes per a documented protocol, while a meta-analysis statistically pools effect sizes. When would pooling be inappropriate or impossible, even if a careful review exists?
+- Systematic reviews sit at the top of the evidence hierarchy partly because they compensate for small samples, heterogeneous designs, and conflicting results across studies. Where have you seen a single dramatic study shape opinion even though the pooled evidence was far more mixed?
+- Meta-analyses produce a weighted summary estimate — a single number like 'an average effect of 0.125 standard deviations.' What does a pooled average hide about the conditions, learners, or contexts where the effect differs — and why does that matter for whether you'd act on it?
+- Both methods commit to a transparent, reproducible protocol (often PRISMA) precisely because the choices of what to search and include can bias the result. How much would you trust a review that didn't disclose its search and screening decisions?
 
 Systematic reviews and meta-analyses sit at the top of the traditional evidence hierarchy precisely because they synthesize many individual studies, compensating for the small samples, heterogeneous designs, and conflicting results that characterize any fast-moving applied field. In AI in education, where new tools and studies appear constantly, reviews play the crucial role of taking stock: mapping what has been studied, aggregating what is known, and flagging where evidence is thin or methodologically weak. They differ from a narrative or integrative literature review, which provides qualitative synthesis, in their commitment to a documented protocol and (for meta-analysis) statistical pooling.([[ai-literacy-heptagon-2026]])
 
@@ -122,3 +130,4 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
 - [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI (Daniel et al. 2026)
+

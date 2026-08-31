@@ -1,7 +1,7 @@
 ---
 title: Psychometrically Aware AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-08-21T10:44:03-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, llm]
 research_method: [educational measurement]
@@ -10,6 +10,15 @@ confidence: medium
 ---
 
 > **Psychometrically aware AI** — AI assessment systems aligned with measurement theory — is the standard advanced in [[llm-psychometric-calibration-cdp]], [[llm-item-difficulty-prediction]], [[automated-assessment|Confidence Aware AI Assessment]], and [[item-response-theory]]: calibrated, uncertainty-aware AI assessment preserves reliability and validity rather than substituting raw model confidence for psychometric evidence.
+
+## Questions to Consider
+
+- An AI grades a student's answer and reports a confident-sounding score. On what basis would you trust that number — and does your answer change when you learn the model wasn't calibrated against any measurement standard?
+- The page warns against substituting raw model confidence for psychometric evidence. Think of a time you believed a confident AI output that turned out wrong. What made its confidence unearned, and what would 'uncertainty-aware' output have looked like instead?
+- Research found that on the same assessment instrument, human and LLM response structures diverge — meaning a model can score well yet be measuring something different from what the exam intends. If you were a teacher using an AI grader, how would you ever detect that the test 'means' something different for the machine than for your students?
+- Item-difficulty prediction uses LLMs to estimate how hard a question is. Before reading, consider: is 'how hard is this question?' a fact about the question, or about the people (or models) answering it — and what does that ambiguity imply for using AI to calibrate exams?
+- Calibration, reliability, and validity are measurement concepts with precise meanings. Which of these have you actually thought through in your own assessment practice, and where might you be relying on an AI's output that has never been checked against them?
+- For an administrator or developer: if an AI assessment tool you're considering reports only raw accuracy, what specific questions would you now ask its vendor before deploying it with real students?
 
 As AI systems increasingly score responses, predict difficulty, and provide [[feedback]], a key risk is that they report confident-sounding outputs that have not been validated against measurement principles. Psychometrically aware AI addresses this by grounding AI [[assessment]] in established psychometrics — calibrating outputs, quantifying uncertainty, and preserving [[assessment-validity]] and [[educational-measurement]] standards rather than relying on raw accuracy or self-reported confidence.
 
@@ -44,3 +53,4 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+

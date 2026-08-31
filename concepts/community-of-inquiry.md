@@ -1,7 +1,7 @@
 ---
 title: "Community of Inquiry"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-08-27T05:50:01.954210-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [online-teaching-and-learning, higher-ed, generative-ai, pedagogy, critical-thinking]
 level: [higher ed]
@@ -9,6 +9,14 @@ confidence: high
 ---
 
 > **Community of Inquiry (CoI)** is a framework for conceptualizing a meaningful educational experience as the dynamic interplay of **cognitive presence**, **social presence**, and **teaching presence**. Originating in computer-mediated and online learning research (Garrison, Anderson & Archer, 2000), it has become one of the most widely used models for designing, evaluating, and researching [[online-teaching-and-learning|online and blended]] inquiry-based education. In the [[generative-ai|generative-AI]] era the framework is being reconceptualized: machine-produced discourse can mimic authentic presence, so presences must be understood as sociotechnical accomplishments of human–GenAI assemblages rather than purely human activity.
+
+## Questions to Consider
+
+- In an online course, what tells you that meaningful learning is actually happening — and how would you know if it weren't?
+- The Community of Inquiry framework names three presences: cognitive, social, and teaching. In your own online experiences, which presence most often goes missing — and what does that do to learning?
+- If an AI chatbot writes fluent, empathetic-sounding replies in a discussion forum, is 'social presence' happening? Or is presence something only humans can genuinely create?
+- Generative AI can produce explanations so coherent they feel obviously right — but coherence isn't the same as correctness. Where have you seen 'fluency mistaken for warrant,' and how would you guard against it in an inquiry course?
+- This framework suggests presences are 'sociotechnical accomplishments' of human-and-AI working together rather than purely human activity. Does that reframe who you hold accountable when an online discussion goes shallow or goes well?
 
 ## The three presences
 
@@ -59,3 +67,4 @@ Rather than a tool, a dialogic partner, or a speculative "fourth presence," GenA
 - [[ai-communities-of-inquiry-2026]] — AI in communities of inquiry
 - [[ai-online-education-engagement-satisfaction-2026]] — AI and online education engagement
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+

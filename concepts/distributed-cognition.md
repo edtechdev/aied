@@ -1,13 +1,21 @@
 ---
 title: Distributed Cognition
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-22T07:15:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [distributed-cognition, learning-theories, human-ai-collaboration, cognitive-offloading, metacognition, embodied-learning, situated-learning, agency]
 confidence: high
 ---
 
 > **Distributed Cognition** — the theoretical perspective that cognition is not confined to an individual mind but is distributed across people, tools, artifacts, and environments. In AI-in-education research, this framework has become central for understanding [[human-ai-collaboration|human–AI collaboration]]: rather than viewing AI as a neutral tool that supports an otherwise self-contained learner, distributed cognition treats thinking as emerging from the interplay between learners, AI systems, peers, and their shared context. It reframes questions of [[agency]], responsibility, and learning outcomes in terms of how cognitive work is apportioned across a human–AI system.
+
+## Questions to Consider
+
+- Distributed cognition says thinking isn't confined to a single mind but is spread across people, tools, and environments. When you use a calculator, a notes app, or an AI assistant, where does the 'thinking' actually happen?
+- If cognition is distributed across a human and an AI, who is responsible when the result is wrong — and who is accountable for learning?
+- One framework distinguishes AI's 'functional agency' (it can influence outcomes) from 'moral responsibility' (which remains human). Does that distinction hold up in practice, or does responsibility blur when humans can't understand what the system did?
+- Human-AI systems that distribute reasoning most efficiently tend to produce the highest task performance but the least self-regulated learning. Why would making a system 'smarter' at the group level make the individual learner weaker?
+- The 'Cognitive Commons' argument holds that distributed mastery depends on internalized expertise — you can't effectively oversee an AI system you don't deeply understand. How does that challenge the idea that AI lets us skip the hard work of learning?
 
 This is a learning-theory concept within the knowledge base's [[learning-theories]] strand, closely related to [[embodied-learning]], [[situated-learning]], and [[cognitive-offloading]]. Distributed cognition (DCog), originating in the work of Edwin Hutchins and colleagues, describes how cognitive processes such as memory, reasoning, and problem-solving are spread across multiple agents and material systems rather than residing in a single head. In AI education this matters because AI systems increasingly function as genuine cognitive partners that carry part of the thinking load, raising the question of *where* learning actually happens and *who* is responsible.
 
@@ -62,3 +70,4 @@ Distributed cognition provides both a design lens and an evaluation lens. For de
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+

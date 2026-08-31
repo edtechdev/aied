@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [student-ai-interaction, generative-ai, llm, prompt-engineering, student-experience, learning-analytics, intelligent-tutoring, cognitive-offloading, higher-ed]
 audience: [learners]
@@ -10,6 +10,14 @@ confidence: high
 ---
 
 > **Student-AI interaction** — the patterns, processes, and cognitive work in how learners engage with generative AI systems during learning and problem solving. Research here characterizes what students ask of AI, how prompts and dialogues evolve, and how interaction quality relates to learning outcomes, [[cognitive-offloading]], and [[agency]].
+
+## Questions to Consider
+
+- Think about the last few prompts you (or a student) wrote to an AI. Would you describe most of them as asking for the answer, or asking the AI to explain, probe, or evaluate? What do you suspect that pattern does to learning?
+- The research finds that a small subset of question types accounts for most student inquiries, and that the questions change as a task progresses. Why do you think students' questioning narrows, and what does that suggest about how they're using the tool?
+- The page claims shallow, answer-seeking prompts are associated with reduced learning and over-reliance, while reflective, verification-oriented interaction supports understanding. What do you think separates a 'good' prompt from a 'bad' one — and is that the student's responsibility or the tool's design?
+- If interaction quality is shaped by task context and scaffolding rather than being a fixed trait of the student, how might a course or tool be redesigned to invite a wider, more productive range of inquiry?
+- How would you know whether a student's fluent AI dialogue reflects genuine learning or just skilled delegation — and what would you check to find out?
 
 Student-AI interaction is the observable surface of learners' engagement with generative AI — the questions they pose, the prompts they write, the way they negotiate and verify AI output, and how those patterns shift across task stages and over time. It sits at the intersection of [[student-experience]], [[prompt-engineering]], and [[learning-analytics]], and is central to debates about whether AI use in education represents genuine learning or [[cognitive-offloading|over-reliance]]. Where [[human-ai-collaboration]] frames the high-level division of cognitive labor between people and models, student-AI interaction is the concrete, measurable enactment of that relationship — the specific inquiries, prompts, and negotiation moves learners make moment to moment.
 
@@ -55,3 +63,4 @@ Characterizing student-AI interaction informs [[learning-design]]: instructors c
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[isaza-chatgpt-engineering-prompting-2026]] — Logged prompting and integration behaviors
+

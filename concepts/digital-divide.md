@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-08-30T03:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity-in-ai-education, ai-literacy, accessibility, ai-education]
@@ -9,6 +9,14 @@ confidence: high
 ---
 
 > **Digital divide** — the unequal distribution of access to, skills for, and benefits from digital (and increasingly AI) technologies across individuals, communities, and nations. In AI education, the digital divide is a central equity concern: [[generative-ai|generative AI]] is rapidly reshaping learning, and the gap between those who can use it effectively and critically and those who cannot threatens to deepen existing educational inequalities.
+
+## Questions to Consider
+
+- The digital divide is often described in three levels: access, skills, and who actually benefits. Which level do you think most people are thinking about when they say 'closing the digital divide' — and why might that be incomplete?
+- Giving every student a device and internet access doesn't automatically mean they can use AI effectively or critically. What separates having access from being able to benefit?
+- AI adds new layers to inequality: algorithmic bias can disproportionately harm marginalized learners, and AI literacy itself determines whether the technology widens or narrows gaps. How is this different from the divides of earlier technologies?
+- The divide also extends to WHICH communities, languages, and perspectives are represented in and served by AI systems. How is representation itself a form of access — or exclusion?
+- If closing the divide is 'a question of justice and participation,' who bears the responsibility: platforms, schools, governments, or all of them — and what would a fair distribution of AI's benefits actually look like?
 
 The digital divide is commonly understood as operating across **three levels** (van Deursen & van Dijk, 2014): the *first-level* divide concerns access to technologies and infrastructure (connectivity, devices, supportive environments); the *second-level* divide concerns skills and competencies (the uneven capacity to use tools effectively and meaningfully); and the *third-level* divide concerns outcomes and benefits (who actually benefits from technology use, with AI potentially exacerbating social, cultural, and economic disparities). Framing AI literacy through this lens makes clear that equity requires more than closing the device-and-infrastructure gap — it requires building the skills to use AI effectively and critically so that its benefits are distributed fairly rather than reinforcing existing inequalities.
 
@@ -58,3 +66,4 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
 
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+

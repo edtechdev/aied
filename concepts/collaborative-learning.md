@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T06:22:51.426928-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [collaborative-learning, ai-education, student-experience, scaffolding, equity-in-ai-education, k-12, higher-ed]
 audience: [learners]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Collaborative Learning** — instructional approaches where students work together to solve problems, complete tasks, or construct knowledge, supported or mediated by AI tools. In AI in education, collaborative learning research spans AI as a collaboration partner, AI as a mediator of human collaboration, and the design of collaborative AI tutoring systems.
+
+## Questions to Consider
+
+- Think of a time you learned something deeply in a group. What made it work? Now imagine an AI chatbot joining that group — how could it strengthen or quietly undermine what you experienced?
+- Research finds a trade-off: delegating reasoning to AI produces the best task performance but the least self-regulatory engagement, while the mode that builds self-regulation underperforms on the task. If you had to choose, which would you protect — the outcome or the struggle?
+- The ICAP framework ranks 'interactive' collaboration as the deepest form of engagement. Could an AI that answers for the group actually downgrade collaboration from interactive to merely passive — even if students feel more satisfied?
+- One study found AI mediators are trusted only while they stay neutral; when the AI shifts to advising or challenging, that trust erodes. How neutral should a group's AI mediator really be?
+- When learners use AI to produce a polished artifact, they may skip the epistemic effort that builds understanding. How would you design an AI partner that surfaces disagreement and conflict instead of smoothing it over?
+- Neurodivergent students report needing structured assignments, small consistent teams, and explicit roles. If AI collaboration tools are built for the 'average' learner, who might they leave out — and how would you design differently?
 
 Collaborative learning is grounded in [[sociocultural-learning|sociocultural theories]] of learning that position knowledge construction as fundamentally social. AI introduces new dynamics: AI can serve as a peer, a facilitator, or a participant in collaborative processes. The articles in this knowledge base explore how AI-mediated collaboration affects learning outcomes, epistemic engagement, and [[equity-in-ai-education|equity]] — and how collaborative structures must be designed to accommodate diverse learners.
 
@@ -103,3 +112,4 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI and student group work: a scoping review (Wei & Perkins 2026)
+

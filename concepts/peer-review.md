@@ -1,7 +1,7 @@
 ---
 title: Peer Review
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [writing-education, formative-assessment, ai-feedback-quality, student-experience, collaborative-learning, self-regulated-learning, metacognition]
 discipline: [writing education]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Peer review** — the practice in which students read, evaluate, and provide feedback on one another's work, most often writing. In writing pedagogy, peer review is a long-standing best practice: students learn both from receiving feedback and from providing criteria-based feedback to others, and interactions with peers about their writing correlate with deeper learning, audience awareness, and personal and social development. In the AI era, peer review is being re-examined as a human complement to [[ai-feedback-quality|AI-generated feedback]], with models such as PAIRR pairing the two.
+
+## Questions to Consider
+
+- Think back to a time your work was reviewed by a peer—or you reviewed theirs. What did you learn more from: giving feedback or receiving it, and why?
+- Why might a student's feedback be more 'context-aware' and emotionally supportive than AI feedback, even while AI feedback is more consistent and rubric-driven? How could the two complement each other?
+- The page describes the PAIRR model combining peer and AI review. What value might students find in AI feedback that *matches* a peer's feedback, rather than differing from it?
+- Peer review is often lauded, but the page stresses it depends heavily on scaffolding and clear criteria. What happens to the quality of peer feedback when students aren't trained or given good criteria?
+- If AI can draft comments on organization and structure, does that make peer review redundant—or does it free peers to give the specific, audience-aware feedback only they can give? What's at stake?
+- Critically assessing AI-generated feedback is described as building AI literacy and 'writerly agency.' What does it mean to have agency over your own writing when machines increasingly comment on it?
 
 Peer review is valued because it gives students an authentic audience, develops their evaluative judgment through criteria-based responding, and builds the social and relational context that supports engagement and [[motivation]]. However, its quality depends heavily on [[scaffolding]] — how well it is structured, and whether students are given clear criteria and training. This is precisely where AI feedback is positioned as a complement: AI can provide consistent, rubric-driven, actionable feedback on organization, focus, and structure, while peers offer specific, context-aware feedback rooted in their shared understanding of the assignment, an authentic audience, and emotional support.
 
@@ -53,3 +62,4 @@ Peer review connects to [[writing-education]] and [[formative-assessment]] as a 
 - [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
 - [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
 - [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
+

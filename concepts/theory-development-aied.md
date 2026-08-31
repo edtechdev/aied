@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-08-30T13:41:04-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [learning-theories, ai-education, limitations-in-aied-research, research-methods-aied]
 research_method: [literature review, research methods]
@@ -10,6 +10,15 @@ confidence: medium
 ---
 
 > **Theory development in AI in education** — the scholarly work of creating, advancing, and critically examining the theories and conceptual frameworks that explain how learners, teachers, and AI systems interact. As generative AI reshapes education, the field is both proposing *new* theories of learning-with-AI and reworking established [[learning-theories|learning theories]] — while a documented weakness in theory use remains a cross-cutting limitation of AIEd research.
+
+## Questions to Consider
+
+- We often talk about 'applying a theory' to AI in education, but this page asks whether the field is actually inventing new theories. Before you read on: when a familiar framework (like behaviorism or constructivism) is stretched to cover generative AI, what might it get right, and what might it silently distort?
+- Consider a time you used AI and felt your understanding grew — or the opposite. What is the difference between 'learning with a tool' and 'co-constructing knowledge with a machine'? Where would you draw that line, and does it even make sense to say the machine is a co-agent?
+- Many AI education studies are criticized for using theory weakly or not at all. If you read a study that showed an AI tool 'worked,' what would it need to tell you about why and how it worked before you would call the finding theoretically meaningful rather than just an effect size?
+- One proposed theory claims AI-native students overestimate their own learning because AI inflates their performance. Have you noticed yourself or others feeling more competent after heavy AI use than you could actually demonstrate without it? What would be the strongest evidence that this is a real phenomenon and not just an artifact of one study?
+- The page distinguishes theory (explaining mechanisms of learning) from philosophy (questioning what learning and mind fundamentally are). Where in your own thinking about AI do you find yourself moving between the two — for instance, asking not just whether a framework explains learning well, but whether it captures what learning really is?
+- New theories are appearing — generativism, epistemic co-agency, cognitive commons. As a reader, what would convince you that one of these is a genuine advance rather than a fashionable relabeling of older ideas? Set your own test for what a good new theory of learning with AI should be able to explain.
 
 Theory development in AIEd sits at the boundary between the applied [[learning-theories|learning theories]] the field draws on and the novel constructs the AI era is producing. Where [[learning-theories]] catalogs the established theories applied to AI (behaviorism, constructivism, cognitive load, self-determination, etc.), this concept tracks the *process and product of theorizing itself*: which new theories and frameworks are being born, how established theories are being advanced, and the methodological question of whether AIEd research theorizes well.
 
@@ -77,3 +86,4 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
 
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+

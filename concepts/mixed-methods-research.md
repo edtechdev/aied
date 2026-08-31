@@ -1,7 +1,7 @@
 ---
 title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-08-24T02:10:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [mixed-methods-research, research-methods-aied, qualitative-research, quantitative-research]
 research_method: [mixed methods, research methods, qualitative, survey]
@@ -9,6 +9,14 @@ confidence: high
 ---
 
 > **Mixed-methods research** — the design and practice of intentionally combining [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] strands within a single study so that their strengths complement and their weaknesses offset each other. In [[ai-education|AI in education]], mixed-methods designs are widely used because AI effects are simultaneously measurable ([[learning-gains|learning gains]], [[student-engagement|engagement]]) and meaning-laden (trust, [[agency]], identity) — and neither a survey nor an interview alone captures both.
+
+## Questions to Consider
+
+- Suppose a survey shows students report high satisfaction with an AI tool, but test scores don't improve. Which number is 'right'? The page argues that combining quantitative and qualitative strands lets each explain the other — how might an interview explain what the numbers alone cannot?
+- A common view is that numbers are objective and interviews are anecdotal, so quantitative evidence is superior. The page instead treats the two as complementary — breadth and precision from numbers, depth and meaning from words. When does a number without context mislead more than an interview?
+- One design pattern (sequential explanatory) collects quantitative data first, then uses interviews to explain surprising results. Can you think of an educational outcome that was puzzling numerically until qualitative accounts revealed the mechanism?
+- Triangulation is the core value: when independent strands converge, confidence rises, and when they diverge, the discrepancy itself is informative. Have you ever had two sources of evidence about the same thing contradict each other — and what did you learn from the conflict?
+- Mixed methods can simultaneously capture effects (how much learning gain) and meaning (trust, identity, agency) — things no single survey or interview captures alone. If you were studying whether an AI tool helps students, what quantitative and qualitative questions would you pair, and in what order?
 
 Mixed-methods designs integrate the breadth, precision, and causal power of quantitative methods with the depth, context, and meaning of qualitative methods. The value proposition is **triangulation**: when independent strands converge on the same conclusion, confidence increases; when they diverge, the discrepancy itself is informative.
 
@@ -53,3 +61,4 @@ Mixed-methods sits between the [[quantitative-research|quantitative]] and [[qual
 - [[genai-feedback-design-multisite-experiment]] — Human-centered GenAI feedback design (multisite)
 - [[ai-tutor-safety-harms]] — AI tutor safety and pedagogical harms
 - [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
+

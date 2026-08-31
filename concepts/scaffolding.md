@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-29T20:37:39-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor]
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Scaffolding** — structured support that helps learners accomplish tasks they cannot yet complete independently, with support fading as competence grows. In AI in education, scaffolding is the primary design principle for ensuring AI tools support learning rather than replace it.
+
+## Questions to Consider
+
+- Think of a time someone 'helped' you with something you were learning, and the help did the work so well you learned less. Where's the line between support that lets you grow and support that replaces you? The page argues this is the central design question for AI tutors.
+- Scaffolding is rooted in the Zone of Proximal Development — enough support to enable progress, not so much that learning is bypassed. What does 'too much support' look like in an AI tutor, and can you detect it from the student's behavior alone?
+- A key finding: students often *prefer* the more directive AI tutor roles even though they *perform better* with collaborative peer and teaching-assistant roles. Does learner preference reliably track what's best for learning — and what does this divergence imply for letting students choose their own scaffolding?
+- Scaffolding that never fades creates dependency. The page notes automated scaffolds risk staying static instead of being withdrawn as competence grows. Why is 'fading' essential, and why might an AI system fail to do it if it isn't deliberately designed to?
+- The design principle is 'scaffold, do not substitute.' Students themselves asked for AI that 'does not provide any solutions for you — you still learn as you have to find the correct answer yourself.' Does that match how you've experienced effective help, or have you preferred the shortcut even while knowing it cost you?
+- Set a goal before reading: pick a task you teach, and sketch what a hint looks like that preserves the learner's effort versus an answer that removes it. How will you know your hints are in the productive-struggle zone?
 
 ### How scaffolding appears in AIED
 
@@ -87,3 +96,4 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Scaffolding is a dominant CT learning strategy
+

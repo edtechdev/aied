@@ -1,7 +1,7 @@
 ---
 title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-27T08:55:36.300729-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [inclusive-learning, equity-in-ai-education, special-education, learning-design, student-experience]
 audience: [learners]
@@ -11,6 +11,15 @@ confidence: high
 ---
 
 > **Universal Design for Learning (UDL)** — an educational framework that designs instruction to be accessible and effective for the widest range of learners by proactively building in flexible means of engagement, representation, and action/expression, rather than retrofitting accommodations for individuals.
+
+## Questions to Consider
+
+- UDL's core claim is that learner variability is the norm, not the exception — so design for many pathways from the start rather than fixing a single path for those who struggle. Do you tend to design for an 'average' learner and add accommodations later? What might be lost in that default approach?
+- Think of a time a particular format (a dense text, a lecture, a single way of showing work) excluded you or someone you taught. Which of the three UDL principles — engagement, representation, or action/expression — was at stake, and what would a flexible alternative have looked like?
+- Generative AI can create personalized examples, captions, summaries, and multiple assessment formats — seemingly a gift for UDL. But the page warns AI can also encode bias and reduce learner agency. Before reading on, how could a tool built to personalize end up *narrowing* rather than widening learning paths for some students?
+- A common misconception is that UDL means lowering standards or giving everyone different outcomes. Consider an assignment that lets students submit an essay, a video, a diagram, or code for the same learning outcome. Is that a watering-down, or a fairer way to assess the same ability? Defend your view.
+- UDL turns 'fix the learner' into 'fix the design.' Pick a frustrating learning experience you've had or designed. If the barrier were a design problem rather than a student problem, what would you change about the design to remove it for everyone?
+- The page warns against AI that assumes one communication style or penalizes neurodivergent expression. If you use or design AI-assisted tools, where might 'default' styles quietly exclude learners — and what would it take to audit for that?
 
 UDL rests on the insight that learner variability is the norm, not the exception. Rather than designing a single path and adding support for those who struggle, UDL designs multiple pathways from the start so that barriers are removed for everyone. It is a core lens for [[inclusive-learning]], [[equity-in-ai-education]], and [[special-education]].
 
@@ -77,3 +86,4 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 - [[neurodivergent-computing-students]] — Neurodivergent Computing Students
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
+

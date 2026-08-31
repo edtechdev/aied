@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-27T06:22:51.426928-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [critical-thinking, student-experience, generative-ai, writing-education, constructivist]
 discipline: [writing education]
@@ -10,6 +10,14 @@ confidence: high
 ---
 
 > **Creativity** — the capacity to generate novel and valuable ideas, solutions, or artifacts. In the AI era, creativity is a central educational stake: [[generative-ai|generative AI]] can both amplify creative work (as a divergent-thinking partner) and undermine it (by homogenizing output and replacing the generative process).
+
+## Questions to Consider
+
+- Creativity is often described as divergent thinking — generating many possibilities — versus convergent thinking that narrows to one right answer. Where does your own work or study sit on that spectrum, and which does AI most readily help with?
+- Generative AI is a statistical engine: it can propose many options, but it tends toward the average. If many students rely on the same model, what happens to the diversity of ideas across the class?
+- A 'think first, ChatGPT later' study found students who generated their own ideas before AI showed no immediate boost — yet outperformed everyone on a later unassisted creativity task. Why might protecting the independent-thinking phase produce learning that free AI use doesn't?
+- If AI can produce a polished artifact instantly, what is the learner's creative work actually worth — and how would you design an assignment so the generative process stays with the student?
+- Is an idea generated with AI's help 'yours'? How you answer might change whether you treat AI as a divergent-thinking partner or as something that replaces your creative process.
 
 Creativity spans the divergent-thinking end of the cognitive spectrum — generating multiple possibilities — in contrast to convergent thinking, which arrives at a single correct solution. AI systems are especially relevant to creativity because they are statistical generators: they can propose many options (supporting ideation) but also tend toward the average, producing the idea-level homogenization documented when many students rely on the same model.
 
@@ -45,3 +53,4 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
 - [[genai-mindtool-generative-learning]] — GenAI as a Mindtool for Generative Learning
+

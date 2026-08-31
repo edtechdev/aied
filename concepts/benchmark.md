@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-28T17:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [ai-ed-evaluation, assessment, llm, generative-ai, benchmark]
 research_method: [benchmark]
@@ -10,6 +10,14 @@ confidence: high
 ---
 
 > **Benchmark** — standardized test suites and evaluation frameworks used to measure AI model performance on educational tasks. Benchmarks enable reproducible comparison across models and approaches, and are essential for evaluating the reliability, fairness, and pedagogical quality of AI in education systems.
+
+## Questions to Consider
+
+- A benchmark is a standardized test suite for measuring AI model performance on educational tasks. Before reading, what do you think most AI benchmarks actually test — and why might that be a different thing from what a good tutor needs?
+- This page highlights a Pedagogy Benchmark that tests pedagogical knowledge — teaching strategies, assessment methods, special-education pedagogy — rather than content knowledge. Why might an AI that knows a subject brilliantly still fail at teaching it, and why would a benchmark that ignores pedagogy miss that?
+- One lesson here is methodological: how you validate a benchmark changes the results dramatically, with naive validation reporting far higher performance than rigorous trial-independent methods. How might a model developer or vendor be tempted to design validation to look good, and how would you spot that?
+- Benchmark performance often doesn't transfer to real-world utility. Can you think of a scenario where an AI 'wins' a benchmark yet fails in an actual classroom — and what does that gap tell you about relying on benchmark scores alone?
+- The page notes that benchmark design can itself encode or amplify bias. If a benchmark is made of certain tasks, in certain languages, from certain populations, whose learning does it end up measuring — and whose does it ignore?
 
 Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education research]]. They provide standardized datasets, tasks, and metrics that allow researchers to compare models, track progress, and identify failure modes. In the knowledge base's research, benchmarks appear across multiple domains:
 
@@ -56,3 +64,4 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: benchmark for evaluating generated math diagrams
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
+

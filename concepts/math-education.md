@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-29T15:22:36-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [math-education, stem-education, intelligent-tutoring, k-12, generative-ai, higher-ed, student-experience, scaffolding]
 discipline: [math education, stem education]
@@ -12,6 +12,14 @@ confidence: high
 ---
 
 > **Math Education** — the study of how students learn mathematics and how AI can support mathematics teaching, spanning affective tutoring, cognitive diagnosis from handwritten work, productive struggle evaluation, help-seeking behavior, teacher-AI collaboration for visual generation, and student-AI interaction trajectories. Math education is the most active domain-specific research area in this knowledge base, with 10 articles that collectively explore how AI can support — and sometimes undermine — mathematical learning from elementary fractions through higher education.
+
+## Questions to Consider
+
+- Math problems have clear right answers yet require rich reasoning, which is why math is a favored testbed for AI tutoring. When you're stuck on a math problem, what kind of help actually helps you learn — an answer, a hint, or a question — and which is the AI likely to default to?
+- Research finds AI tutors often default to over-helpfulness, rarely pushing for rigor even when students are ready. If you're designing a tutor, how do you decide when to withhold help to preserve the 'productive struggle' that builds understanding?
+- The page shows students who request hints too early or skim them superficially tend to learn less. Have you ever reached for a hint out of impatience rather than genuine effort? What does that reveal about how AI support can undermine rather than support learning?
+- AI cognitive-diagnosis systems sometimes hallucinate evidence and over-attribute mistakes, and even strong models underperform when reading students' actual handwritten work. How confident would you be in a tutor that diagnoses what you got wrong from your scratch work?
+- LLMs flip their answers across mathematically equivalent problem formulations — the same problem presented differently changes the result. What does this say about using AI to score or diagnose math understanding?
 
 Mathematics education has become a primary domain for AI in education research because math problems have clear right answers yet require rich reasoning — making them ideal for studying tutoring effectiveness, assessment validity, and how AI tools interact with student cognition and affect. The articles in this knowledge base reveal both the promise of AI math tutors and persistent challenges: over-scaffolding that undermines productive struggle, hallucination in cognitive diagnosis, and the difficulty of balancing AI assistance with genuine learning.
 
@@ -94,3 +102,4 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
 
 - [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
+

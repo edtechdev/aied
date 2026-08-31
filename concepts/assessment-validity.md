@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-29T14:20:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education]
@@ -11,6 +11,15 @@ confidence: high
 ---
 
 > **Assessment validity** — whether assessments measure what they claim to measure. AI in education raises fundamental validity questions: do [[automated-assessment|AI-graded]] assessments assess student learning or [[prompt-engineering|AI prompting skill]]? Does AI use invalidate traditional assessment assumptions?
+
+## Questions to Consider
+
+- Validity asks whether an assessment measures what it claims to measure. Before reading, if you saw a student submit a polished essay you suspected was AI-assisted, would you think the bigger problem was cheating, or that the task was no longer measuring what you thought it was measuring?
+- This page poses a sharp question: when students use AI, does the score reflect student knowledge or AI-prompting skill? Can you think of an assessment you've designed or taken where the score might now be telling you more about the tool than about the learner?
+- A key finding is that the same learner input can receive semantically different replies depending on which underlying LLM is used — introducing 'construct-irrelevant variance' that threatens reliability and fairness. If two students get different AI support purely because of the model behind it, how fair is the resulting comparison?
+- The page argues that even when an LLM scores well, transferring human score interpretations requires similarity in the latent structure of responses — and LLMs diverge from humans here. What does this suggest about trusting an AI that 'passes' an exam designed for humans?
+- Rather than trying to detect AI use, the knowledge base argues for redesigning assessments so they stay valid for AI-capable students. Why might redesigning the task be a more validity-preserving strategy than policing whether AI was used?
+- AI now serves as test-taker, test-maker, rater, and analyst — making the interpretive chain opaque. When every role in an assessment is filled by AI, what does it even mean to say an assessment is 'valid' for the human learner in the middle of it?
 
 ### Validity challenges
 
@@ -77,3 +86,4 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[xiong-ai-educational-measurement-review-2026]] — Construct validity as a central challenge
+

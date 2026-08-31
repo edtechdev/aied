@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-30T18:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, educational-development, student-experience, academic-integrity]
 audience: [learners, instructors, faculty development, administrator]
@@ -11,6 +11,15 @@ confidence: high
 ---
 
 > **AI in Higher Education** — the integration of artificial intelligence into university teaching, learning, assessment, and [[administrator|administration]]. Higher education is the most-studied context in the knowledge base, with over 100 articles examining how AI transforms college-level instruction, [[educational-policy-ai|institutional policy]], and [[student-experience|student experience]]. AI in higher education is both the dominant setting for [[ai-education|AIED]] [[research-methods-aied|research]] and the site where its tensions are most visible — between [[generative-ai|generative AI]]'s promise of scalable [[personalized-learning|personalization]] and its risks to [[academic-integrity|integrity]], [[cognitive-offloading|learning]], [[privacy]], and [[equity-in-ai-education|equity]].
+
+## Questions to Consider
+
+- Higher education is where AI's tensions are most visible — scalable personalization versus risks to integrity, learning, privacy, and equity. Which of these tensions do you see playing out most concretely in your own institution?
+- Large studies reveal gaps between institutional policy and what students actually do with AI day to day. Why do you think official policy so often diverges from real student practice?
+- The page frames AI adoption as uneven — some institutions transform while others lag, shaped by organizational drivers and national policy. What factors do you think determine whether a university adapts or stalls?
+- As AI makes personalized one-on-one support nearly free and universal, how does that shift the value and role of the university itself? What becomes scarcer and therefore more valuable?
+- One finding notes a decline in study time among college students using AI. If students spend less time studying but report satisfaction, what does that suggest about what institutions should be measuring and guarding?
+- Given the gap between faculty self-assessed and actual AI readiness, what would meaningful faculty development look like in your context — and who should be responsible for it?
 
 AI in higher education research spans every function of the university: from [[intelligent-tutoring|AI tutoring]] and [[automated-assessment|automated grading]] to faculty development, academic integrity, [[governance|institutional governance]], and student support. The knowledge base's higher education articles cluster around several key themes — institutional transformation, student experience at scale, faculty and teaching, assessment and integrity, and the rapid shift in policy and practice.
 
@@ -107,3 +116,4 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
 - [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI (Daniel et al. 2026)
+

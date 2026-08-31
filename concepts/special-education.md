@@ -1,7 +1,7 @@
 ---
 title: Special Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T08:55:36.300729-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [special-education, inclusive-learning, equity-in-ai-education, neurodiversity, ai-education, k-12, higher-ed]
 level: [special education, k 12, higher ed]
@@ -11,6 +11,14 @@ confidence: high
 > **Special Education** — the design and delivery of instruction for learners with disabilities, spanning cognitive, physical, sensory, and neurodevelopmental differences. [[ai-education|AI in education]] research in this knowledge base explores how AI tools can support diverse learner needs through [[personalized-learning|personalization]], [[scaffolding|adaptive scaffolding]], and accessible interfaces — while also examining the risks of AI systems that overlook or marginalize disabled learners.
 
 > ⚠️ **Special Education is primarily a [[k-12]] term.** It is rooted in the U.S. Individuals with Disabilities Education Act (IDEA) and the entitlement-based system of Individualized Education Programs (IEPs) that governs special-education services in primary and secondary schooling. In [[higher-ed|higher education]] — and increasingly in K-12 as well — the more common framing is **[[universal-design-for-learning|Universal Design for Learning]]** (a proactive design framework that benefits all learners) alongside [[accessibility]] and [[assistive-technology]] rather than "special education." A K-12 special-education article and a college UDL piece are about overlapping but distinct contexts; the knowledge base keeps both because the research literature spans both. When a source concerns higher education and disabled learners, it is usually better linked to [[universal-design-for-learning]], [[accessibility]], or [[inclusive-learning]] than to special-education.
+
+## Questions to Consider
+
+- The page emphasizes that 'special education' is primarily a K-12, entitlement-based term rooted in IDEA and IEPs, while higher education more often speaks of Universal Design for Learning and accessibility. Why do you think these contexts differ, and what does that difference reveal?
+- AI's promise of personalization seems tailor-made for learners with diverse needs. But if a system can adapt to 'individual cognitive profiles,' what could go wrong when the model of a disability is too coarse or absent altogether?
+- The research includes AI tools designed for specific disability profiles (e.g., dyslexic or Deaf and Hard of Hearing learners). What risks do you see in designing for narrow profiles versus designing universally for all learners from the start?
+- How might AI systems that are built for the 'average' learner end up overlooking or marginalizing disabled learners, even unintentionally — and whose responsibility is it to prevent that?
+- What would it mean for an AI tool to genuinely include, rather than merely accommodate, a learner with a disability — and how would you recognize the difference in practice?
 
 Special education is a domain where AI's capacity for personalization and adaptation offers particular promise. Unlike one-size-fits-all instruction, [[intelligent-tutoring|AI tutors]] can theoretically adapt to individual cognitive profiles, communication needs, and learning paces. The articles in this knowledge base span AI for specific disability profiles, neurodivergent learner experiences, and critical perspectives on AI and disability.
 
@@ -57,3 +65,4 @@ Special education is a domain where AI's capacity for personalization and adapta
 - [[genai-minoritized-knowledges-disability]]
 - [[embodied-string-learning-blindness-low-vision-musicians]]
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
+

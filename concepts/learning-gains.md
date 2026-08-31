@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-27T08:12:21.057525-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 audience: [learners]
@@ -12,6 +12,14 @@ confidence: high
 ---
 
 > **Learning gains** — measurable improvements in student knowledge, skills, or competencies resulting from educational interventions, including AI-assisted instruction. In [[ai-education|AI in education]] research, learning gains serve as the primary outcome measure for evaluating whether AI tools actually improve learning — not just [[student-engagement|engagement]] or satisfaction.
+
+## Questions to Consider
+
+- Have you ever felt you learned a lot from an activity, only to fail a test that measured something different? The page distinguishes immediate AI-supported performance from durable learning — how might those two diverge in your own experience?
+- A core finding is that generative AI can inflate scores on AI-assisted homework while lowering scores on proctored, closed-book measures. If you were evaluating whether an AI tool really helps students learn, which outcome would you trust and why?
+- Research shows unguided reliance on AI predicts worse learning gains, while structured use predicts better ones — the same tool, opposite outcomes. What distinguishes 'structured' from 'unguided' use in a real classroom?
+- Hint buttons correlate with reduced learning: more hints, less learning. Have you ever been tempted to reach for a hint or an answer the moment you were stuck? What does that suggest about how much struggle is actually necessary for learning?
+- A large meta-analysis pooled many studies and found AI-enabled EdTech raised learning by a modest amount, with no advantage for generative AI over earlier adaptive tools. How should this cautious, pooled estimate change how you read exciting claims about a single AI product's effectiveness?
 
 Learning gains are the ultimate test of any educational technology. In the knowledge base's research, they appear as dependent variables in [[rct|randomized controlled trials]], pre-post comparisons in quasi-experimental studies, and correlational analyses linking AI tool usage to academic outcomes.
 
@@ -127,3 +135,4 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis: adaptive/AI EdTech raises learning ~0.125 sd
+

@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-29T15:22:36-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop-ai, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 research_method: [benchmark, educational measurement]
@@ -13,6 +13,15 @@ confidence: high
 ---
 
 > **AI-ed evaluation** — the body of methods, benchmarks, and criteria used to assess whether AI education tools (LLM-based tutors, [[automated-assessment|automated graders]], feedback systems, agents) actually work — not just on headline accuracy, but on reliability, pedagogical quality, validity, and real learning impact. A recurring theme across the knowledge base's research is that evaluation must be domain-specific, reliability-aware, and anchored in human judgment and educational outcomes rather than single aggregate accuracy numbers.
+
+## Questions to Consider
+
+- How would you decide whether an AI tutoring tool 'works'? What evidence — beyond a headline accuracy number — would convince you it actually improves learning?
+- A key finding is that reliability does not guarantee validity: a system can be highly consistent yet misjudge what good teaching looks like. Why might a stable, repeatable AI still be wrong?
+- Evaluation must be domain-specific — a benchmark that works for one subject can mislead for another. When you see a glowing benchmark result for an AI tool, what would you want to check about the context?
+- The 'ground truth' systems are judged against is often contested — what counts as a correct answer or grade varies across experts and disciplines. How does that uncertainty complicate trusting any evaluation?
+- Research shows text-based LLM evaluators privilege explicitly verbalized behaviors and under-weight implicit context — an 'explicit-cue bias.' What kinds of good teaching might a machine systematically miss because it only looks for the obvious?
+- Modern evaluation also weighs environmental and infrastructural cost — energy, hardware — not just output quality. Should sustainability factor into how you judge an AI tool's value?
 
 AI-ed evaluation spans several distinct objects of assessment. It can evaluate the **output** (is the AI's answer, grade, or feedback correct and reliable?), the **process** (does the tool support valid, defensible assessment and learning?), and the **agent** (does an AI tutor or agent teach effectively and behave appropriately?). Each requires different methods and raises different validity questions.
 
@@ -106,3 +115,4 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evaluation of adaptive + AI EdTech
 - [[xiong-ai-educational-measurement-review-2026]] — AI's role across scoring, psychometrics, assessment
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analytic evaluation of AI literacy outcomes
+
