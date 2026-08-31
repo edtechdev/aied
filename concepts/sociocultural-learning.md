@@ -1,7 +1,7 @@
 ---
 title: Sociocultural Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [sociocultural-learning, learning-theories, constructivist, scaffolding, agency, generative-ai, human-ai-collaboration]
 confidence: high
@@ -15,6 +15,8 @@ confidence: high
 - Sociocultural theory says cognition is distributed across people, artifacts, and environments rather than inside individual heads. Does that match your experience of how you actually get things done, and what would it mean for designing learning if it's right?
 - If learning happens first between people and only later within the individual, what are the risks of an AI tutor that lets a student interact mostly with a machine rather than with peers or a more knowledgeable human?
 - How would you decide how much support an AI tutor should give so that a learner advances without the answer simply being handed over?
+
+## Introduction
 
 ### The concept
 

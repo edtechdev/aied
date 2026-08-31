@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [tpack, ai-literacy, teacher-ai-competency, educational-development, generative-ai, teacher-role, learning-design, curriculum-design]
 audience: [faculty development, instructors]
@@ -19,6 +19,8 @@ confidence: high
 - The page suggests that professional development should train the intersections, not just the tools. Think about the last technology training you attended or designed. Was it mostly 'how to use the software,' or did it build content and pedagogy together with the technology? Which approach would you expect to change classroom practice more, and why?
 - Research found different 'teacher archetypes' — optimizers, creators, passive observers — benefit from different kinds of support. Which archetype do you most resemble when using AI in teaching, and what kind of scaffolding do you think would help you most? Would your learners describe you the same way you do?
 - Some researchers argue effective AI integration emerges from a teacher's beliefs and sense of efficacy, not just their knowledge. What do you believe about AI's role in learning, and how might that belief — more than your technical skill — shape whether and how you actually integrate it?
+
+## Introduction
 
 - **[[crompton-faculty-technology-integration-standards-2026|Crompton et al.]]** DBR operationalizes faculty technology-integration standards that extend the TPACK framework into institutional practice.
 

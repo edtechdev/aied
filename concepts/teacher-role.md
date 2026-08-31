@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
@@ -21,6 +21,8 @@ confidence: high
 - Research cited on the page shows teachers as active AI designers — writing the prompts and scaffolds that shape how AI behaves for their students — rather than passive consumers. What would it take for you (or teachers you know) to feel like a designer of AI rather than a user of it?
 - At the far end of the 'teacher-AI teaming' spectrum, the teacher orchestrates a team of human learners, AI tutors, and curriculum resources. Where does human judgment remain irreplaceable in that team, and what might quietly erode if the orchestration is left mostly to AI?
 - If the teacher's attention is reallocated from producing materials to interpreting learners, what new competencies and risks does that introduce — and who supports the teacher in developing them?
+
+## Introduction
 
 ## How AI transforms teaching
 

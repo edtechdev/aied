@@ -1,7 +1,7 @@
 ---
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm]
 audience: [instructors, administrator, learners]
@@ -18,6 +18,8 @@ confidence: high
 - Virtual patients and training simulators let professionals practice safely. What kinds of judgment and interpersonal skills might a simulator struggle to capture, no matter how realistic?
 - The 'Dual Train Problem' is the tension between rapidly changing AI skills and the slower pace of policy and curriculum. If you could choose durable competencies to prioritize for learners today, what would they be?
 - Adult learners balance work and study, often through screens. How might AI-powered professional training both enable and complicate that balancing act—especially around data, trust, and time?
+
+## Introduction
 
 ### AI in professional training
 

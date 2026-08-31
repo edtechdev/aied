@@ -1,7 +1,7 @@
 ---
 title: Item Response Theory
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai]
 research_method: [educational measurement]
@@ -18,6 +18,8 @@ confidence: medium
 - Researchers use IRT to validate that AI-generated exam questions match expert-written ones in difficulty and discrimination. If an AI writes an item that 'looks' good, why is empirical calibration against fitted IRT parameters still necessary?
 - As AI predicts and calibrates item difficulty, what could go wrong if a model's estimate of difficulty isn't validated against real student response data?
 - IRT connects to adaptive testing and knowledge tracing — using your responses to choose what to ask next. How does estimating your ability from each answer enable a test to become shorter and more precise rather than just longer?
+
+## Introduction
 
 IRT treats ability (θ) and item parameters (difficulty, discrimination, sometimes guessing) as jointly estimated from response patterns, rather than treating a raw score as the measure. This makes it possible to compare learners on a common scale, to select items adaptively, and to estimate precision per person rather than globally.
 

@@ -1,7 +1,7 @@
 ---
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [language-learning, ai-education, generative-ai, writing-education, higher-ed, k-12, equity-in-ai-education]
 discipline: [language learning, writing education]
@@ -19,6 +19,8 @@ confidence: high
 - Teacher support — not just the AI tool — was shown to drive engagement in AI-assisted language learning through students' achievement goals. How does the social and pedagogical context shape whether learners keep engaging with an AI practice tool?
 - A meta-analysis found small-to-moderate, level-dependent gains from emerging tech, with productive skills (speaking, writing) gaining more than receptive ones. Why might speaking and writing benefit more than listening and reading from AI tools?
 - If AI privileges standard English and can penalize non-native or diverse language patterns, how should language instructors design evaluation and feedback so AI supports linguistic diversity rather than erasing it?
+
+## Introduction
 
 Language learning has emerged as a significant AI in education domain because language is inherently interactive — making it well-suited to conversational AI — and because AI's linguistic capabilities raise both opportunities ([[personalized-learning|personalized language practice]] at scale) and risks (systematic bias against non-native language patterns). The articles in this knowledge base explore both sides of this equation. Where the target language is **English specifically** — especially [[english-education|English for Academic Purposes (EAP)]] and EFL/ESL/L2 English teaching — see the dedicated [[english-education]] concept page, which distinguishes English-specific research from general L2 acquisition and general writing.
 

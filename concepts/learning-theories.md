@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [learning-theories, behaviorism, self-regulated-learning, metacognition, learning-design, generative-ai, higher-ed]
 level: [higher ed]
@@ -21,6 +21,8 @@ connected_faqs: [research-gaps-aied]
 - Because every AI tutor embeds a theory whether its designers say so or not, 'does it work?' may be the wrong question. What is the better question to ask about an educational AI, given the theories it could embody?
 - Generative AI is prompting educators to consider new theories — like learning as iterative co-construction between humans and AI, or AI as a cognitive partner across the lifespan. Does the rise of AI genuinely require new learning theories, or do existing ones still suffice?
 - Learning-gains measurement is itself 'theory-laden': an instrument built on one theory may not capture the gains another predicts. How might two researchers with different theoretical commitments look at the same data and reach opposite conclusions about whether an AI tool worked?
+
+## Introduction
 
 This is the umbrella concept for the knowledge base's learning-theory strand. Learning theories sit at the heart of AI in education because every AI tutor, adaptive system, and feedback tool embeds assumptions about how people learn — whether the designers state them or not. The knowledge base documents these theories individually and treats them as the conceptual lens through which AI's design and effects are evaluated.
 

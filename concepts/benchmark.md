@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [ai-ed-evaluation, assessment, llm, generative-ai, benchmark]
 research_method: [benchmark]
@@ -18,6 +18,8 @@ confidence: high
 - One lesson here is methodological: how you validate a benchmark changes the results dramatically, with naive validation reporting far higher performance than rigorous trial-independent methods. How might a model developer or vendor be tempted to design validation to look good, and how would you spot that?
 - Benchmark performance often doesn't transfer to real-world utility. Can you think of a scenario where an AI 'wins' a benchmark yet fails in an actual classroom — and what does that gap tell you about relying on benchmark scores alone?
 - The page notes that benchmark design can itself encode or amplify bias. If a benchmark is made of certain tasks, in certain languages, from certain populations, whose learning does it end up measuring — and whose does it ignore?
+
+## Introduction
 
 Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education research]]. They provide standardized datasets, tasks, and metrics that allow researchers to compare models, track progress, and identify failure modes. In the knowledge base's research, benchmarks appear across multiple domains:
 

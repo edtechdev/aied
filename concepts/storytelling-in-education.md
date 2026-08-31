@@ -1,7 +1,7 @@
 ---
 title: Storytelling in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [storytelling-in-education, student-engagement, motivation, educational-robotics, creativity, language-learning, k-12]
 discipline: [language learning]
@@ -19,6 +19,8 @@ confidence: high
 - If storytelling builds engagement, creativity, and emotional connection, where might its use in education be more than entertainment — and where might it risk substituting feeling for understanding?
 - A robot storyteller increased behavioral and cognitive engagement over paper and PowerPoint in the research cited. Do you trust that engagement translates into learning, or could the novelty of the robot be doing the work?
 - How could you tell whether a learner is genuinely making meaning from an AI-co-created story versus just enjoying the interactive experience?
+
+## Introduction
 
 Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constructivist]] theories of learning. It supports [[language-learning]], [[creativity]], [[social-emotional-learning]], and comprehension. In the AI era, [[llm|LLM-powered]] and robot-mediated storytelling enables co-creation, where learners and AI agents build stories together, and interactive narrative that responds to the learner.
 

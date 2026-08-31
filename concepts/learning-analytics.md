@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback]
 category: [engagement, evaluation]
@@ -18,6 +18,8 @@ confidence: high
 - The page notes AI has moved learning analytics from describing what happened to predicting what will happen and prescribing what to do next. Which of these three generations have you experienced, and what was missing in the others?
 - In one study, three different AI models produced sharply different support plans for the same student data, and the links between analytics indicators and recommended help were mostly weak. What does this suggest about trusting an AI's advice at face value?
 - Learning analytics sits in a privacy tension: the more granular the data, the more revealing — and the more powerful the intervention. Where would you draw the line on what is collected about you or your students, and who should decide?
+
+## Introduction
 
 ### AI-enhanced analytics
 

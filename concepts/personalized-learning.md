@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 audience: [learners]
@@ -19,6 +19,8 @@ confidence: medium
 - The page flags that over-personalization can strand learners in low-expectation tracks. How might well-intentioned AI tailoring accidentally lower the ceiling for a learner?
 - Personalization needs detailed learner data; privacy needs data minimization. Where do you draw the line between 'enough data to adapt' and 'so much that the learner is exposed'?
 - What would an AI need to remember about you across sessions to genuinely personalize your learning—and what are the risks of it remembering those things?
+
+## Introduction
 
 Tailoring educational experiences to individual learner profiles, including [[prior-knowledge|prior knowledge]], learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge.
 

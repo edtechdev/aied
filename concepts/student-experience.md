@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, well-being]
 level: [higher ed, k 12]
@@ -18,6 +18,8 @@ confidence: high
 - If over-reliance on AI means delegating the reasoning you actually need to practice, where would you draw the line between legitimate help and offloading that erodes learning?
 - The research asks whether simply knowing AI is available changes student effort. Do you think awareness of AI makes students work harder, less hard, or differently — and how would you test your belief?
 - Given that AI access and effectiveness vary across student populations, what equity concerns do you think matter most when a course adopts an AI tool, and who is responsible for addressing them?
+
+## Introduction
 
 ### How student experience is studied
 

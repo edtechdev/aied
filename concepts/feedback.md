@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [feedback, ai-feedback-quality, feedback-literacy, formative-assessment, peer-review, automated-assessment, assessment]
 connected_faqs: [developing-ai-tutor]
@@ -19,6 +19,8 @@ confidence: high
 - Immediate feedback can be a trap: the 'correct-answer trap' shows that students who simply copy corrections learn less. When does instant feedback help, and when does it short-circuit the very learning it's meant to support?
 - Research even found that a well-designed sequence of feedback — encouragement, then hints, then the answer — designed to build autonomy actually *harmed* learning despite boosting engagement. If students feel good about feedback that makes them learn less, what should we optimize?
 - Feedback is described as a system with parts: the feedback loop, quality of provision, the learner's uptake capacity, and the assessment context. If you were trying to improve feedback in your own course, which part would you fix first, and why?
+
+## Introduction
 
 This is the umbrella concept for the knowledge base's feedback-related ideas. Feedback sits at the intersection of assessment and learning: without feedback, assessment measures performance but does not improve it; with effective feedback, assessment becomes a learning event. The knowledge base treats feedback as a **system** with multiple facets — the quality of the feedback itself ([[ai-feedback-quality]]), the loop through which it closes the learning gap, the learner's capacity to use it ([[feedback-literacy]]), and the assessment contexts in which it operates ([[formative-assessment]], [[peer-review]], [[automated-assessment]]).
 

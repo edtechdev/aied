@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [self-efficacy, motivation, assessment, self-regulated-learning, student-experience, ai-literacy]
 audience: [learners]
@@ -19,6 +19,8 @@ confidence: high
 - The page distinguishes self-efficacy from the everyday word 'confidence.' Before you read, how are they different, and why would a researcher insist on the distinction rather than treating them as the same thing?
 - Robotics and embodied learning build confidence by grounding tasks in observable outcomes, and feedback can build learner self-efficacy. Think of a task where you gained real confidence only after seeing a concrete result. What does that say about what kinds of AI learning experiences are most likely to build — rather than merely report — self-efficacy?
 - Teacher self-efficacy affects adoption and integration of AI. If a teacher doesn't believe they can use AI effectively, does any amount of AI literacy fix it? What would build a teacher's confidence, and how is that different from giving them more information?
+
+## Introduction
 
 Self-efficacy is distinct from actual competence: it is a belief about capability that drives behaviour. It is closely related to — and often used interchangeably with — the everyday notion of *confidence* in one's abilities. Self-efficacy connects closely to [[motivation]], [[self-regulated-learning]], and [[student-experience]]. In the AI context, AI self-efficacy (confidence in working with AI) is a distinct construct from AI literacy, and research shows it plays a crucial role in whether learners actually activate and apply AI-related knowledge.
 

@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [automated-assessment, assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 audience: [instructors]
@@ -19,6 +19,8 @@ confidence: high
 - One study found that how validation is done can inflate reported performance: a naive cross-validation method reported near-perfect results that dropped dramatically under more rigorous trial-independent validation. What does this cautionary lesson suggest about how you should read any claim that an AI assessment system 'works'?
 - The page argues calibrated confidence enables human-in-the-loop workflows, supports trust calibration, and strengthens measurement validity. If an automated system routed its most uncertain cases to a human reviewer, what would you want to know about how those cases are chosen before you trusted the split?
 - Automated grading is described as one of the most mature AIED applications, yet grading without useful feedback has limited educational value. How might a focus purely on producing scores — rather than usable feedback — change what students actually get out of an AI-graded assessment?
+
+## Introduction
 
 ### Assessment modalities
 

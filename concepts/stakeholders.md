@@ -1,7 +1,7 @@
 ---
 title: Stakeholders
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [stakeholders, teacher-role, student-experience, administrator, learning-design, higher-ed, k-12, ai-literacy]
 audience: [instructors, learners, administrator]
@@ -17,6 +17,8 @@ confidence: high
 - Before reading on, try to list everyone in your institution who is touched by an AI-in-education decision — beyond just students and teachers. Who did you forget, and what would each of them care about most?
 - If learners, teachers, administrators, instructional designers, and policymakers each have distinct needs and competencies, who should have the final say over how an AI tool is deployed — and why?
 - A student's 'personalized support' can simultaneously be a teacher's 'integrity risk.' How would you design a conversation or process that gives each stakeholder's concern genuine weight rather than letting the loudest voice win?
+
+## Introduction
 
 [[ai-education|AI in education]] is fundamentally about people — the learners and educators whose work it transforms, and the leaders and designers who decide how it is used. Understanding the distinct stakeholders is essential because the same AI system looks very different from different vantage points: a tool a student experiences as personalized support may appear to a teacher as an integrity risk, to an administrator as a procurement and governance decision, and to a designer as a pedagogical choice. The knowledge base organizes coverage of these audiences across several concept pages.
 

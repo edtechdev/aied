@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
@@ -21,6 +21,8 @@ confidence: high
 - The constructive question the page offers is not 'how do we stop students using AI?' but 'how do we enable thoughtful use in contexts that mirror their future work?' What would assessment look like in your field if that were the goal?
 - The DRIVE framework suggests assessing the quality of a student's engagement with GenAI — not just the artifact — by looking at whether they steer prompts strategically and integrate their own ideas. What would you look at to tell a deep, reflective AI interaction from surface consumption?
 - AI-mediated assessment is diversifying into oral exams, portfolios, and conversational formats that reduce anxiety and feel professionally relevant. Which assessment format from your own experience do you think is most 'AI-resistant' — and is resistance the same thing as educational value?
+
+## Introduction
 
 Assessment is central to AI in education for two reasons. First, AI itself is used to assess students — grading essays, code, short answers, and exams at scale. Second, AI in the classroom changes what assessments can validly measure, since students may use generative AI to produce work. The field therefore spans both the *tools* that automate assessment and the *validity and integrity* questions that AI raises.
 

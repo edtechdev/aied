@@ -1,7 +1,7 @@
 ---
 title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [learning-theories, cognitive-psychology, metacognition, cognitive-load, knowledge-tracing, intelligent-tutoring, generative-ai]
 confidence: high
@@ -17,6 +17,8 @@ confidence: high
 - Cognitive Load Theory distinguishes intrinsic, extraneous, and germane load. If you were designing an AI assistant, which type of load would you deliberately try to reduce, and which would you be careful NOT to remove?
 - If a learner knows they can offload memory and reasoning to an AI, when is that a smart strategy and when is it a shortcut that quietly prevents learning? What determines the difference?
 - Cognitivism assumes knowledge can be broken into components and tracked over time. What might get lost when we reduce a learner's understanding to a set of traceable knowledge components?
+
+## Introduction
 
 ## Core ideas
 

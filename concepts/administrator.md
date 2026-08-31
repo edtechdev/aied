@@ -1,7 +1,7 @@
 ---
 title: Administrators
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [administrator, educational-policy-ai, higher-ed, generative-ai, llm, student-experience, ai-literacy, stem-education, scaffolding, learning-analytics]
 discipline: [stem education]
@@ -20,6 +20,8 @@ confidence: medium
 - Procurement decisions made at the institutional level can enable or constrain what teachers and students can actually do. What questions would you want answered before your institution signs a contract for an AI edtech platform?
 - Institutions translate AI capability into acceptable-use frameworks and data standards. How do you weigh the promise of innovation against the privacy and equity implications of the data these tools collect?
 - Administrator choices about AI well-being tools directly shape student experience. What evidence would you want to see before deploying an AI tool meant to support — rather than monitor — students?
+
+## Introduction
 
 AI adoption in education is not purely a classroom decision; it is also an institutional one. Administrators — provosts, deans, CIOs, and institutional leaders — set the conditions under which faculty and students use AI, balancing pedagogical opportunity against governance, resourcing, and risk.
 

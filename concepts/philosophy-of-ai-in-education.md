@@ -1,7 +1,7 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [philosophy-of-ai-in-education, learning-theories, ethics, agency, human-ai-collaboration, ai-education]
 confidence: high
@@ -17,6 +17,8 @@ confidence: high
 - The page distinguishes philosophy (what learning and the learner fundamentally are) from learning theories (how learning happens). Can you name a belief you hold about learning that is really a philosophical position?
 - If AI can exercise 'functional agency' without consciousness, does it bear responsibility for its educational effects—and if not, who does? Who should answer when an AI tutor misleads a student?
 - Posthumanist thought reframes learners as 'post-human' entities. How does that idea challenge or unsettle your own assumptions about where a student's mind is located?
+
+## Introduction
 
 This is a concept page for the philosophical and theoretical foundations of [[ai-education|AI in education]]. While [[learning-theories]] documents the empirical and design-oriented theories ([[behaviorism]], [[constructivist|constructivism]], cognitive load, [[self-regulated-learning|self-regulated learning]], etc.), the philosophy strand engages the ontological, epistemological, and ethical questions those theories presuppose. The two are closely connected: philosophical positions shape which learning theories seem plausible and which educational goals are worth pursuing.
 

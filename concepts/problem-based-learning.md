@@ -1,7 +1,7 @@
 ---
 title: Problem-Based Learning
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [active-learning, collaborative-learning, scaffolding, generative-ai, critical-thinking, higher-ed, medical-education, engineering-education]
 discipline: [medical education, engineering education]
@@ -19,6 +19,8 @@ confidence: high
 - PBL originated in medical education partly because professional competence needs adaptive judgment, not routine execution. What's the difference between those two, and how does AI change which one we train for?
 - If an AI can now make 'wicked problems' and complex real-world cases accessible to more students, what might be lost when the challenge becomes easier to reach?
 - Where should an AI in a PBL setting draw the line between giving a problem, a hint, or an answer? What determines which is the right move at any moment?
+
+## Introduction
 
 PBL originated in medical education (McMaster University, 1960s) and has since spread across health professions, engineering, and K-12. The learner takes responsibility for diagnosing learning needs, identifying resources, and constructing solutions, while the facilitator scaffolds the process. The distinctive claim of PBL is that the *problem* is the curriculum driver — not an illustration of content taught elsewhere but the context in which content is learned.
 

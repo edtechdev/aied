@@ -1,7 +1,7 @@
 ---
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop-ai, agency, cognitive-offloading]
@@ -21,6 +21,8 @@ confidence: high
 - Multi-agent systems orchestrate specialized agents with distinct roles. When several agents work together in a classroom, who is accountable — and where should a human intervene?
 - The field's central tension is personalization versus learner agency and cognitive effort. If a tutor becomes so good at adapting that you never have to struggle, what learning are you actually getting?
 - Hybrid agents grounded in established design theory outperformed pure prompting. Why might a theoretically-grounded system beat raw prompt-engineering — and what does that say about how an agent's 'smartness' is measured?
+
+## Introduction
 
 Agentic AI refers to artificial intelligence systems that can autonomously plan, execute, and adapt multi-step workflows to achieve learning goals — going beyond single-turn question-answering to act as persistent, goal-directed collaborators in educational contexts. In education, agentic AI manifests as AI tutors that scaffold learning over extended interactions, multi-agent systems that orchestrate complex [[learning-design|instructional designs]], and autonomous agents that adapt their [[pedagogy|pedagogical]] strategies based on learner needs. This emerging paradigm shifts AI from a tool that responds to prompts to a collaborator that actively guides, adapts, and co-regulates learning processes.
 

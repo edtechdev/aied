@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [reduce-ai-cheating, designing-ai-into-learning]
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
@@ -19,6 +19,8 @@ confidence: high
 - The strongest fix includes assessment redesign: unassisted in-class exams, oral defenses, process artifacts, reasoning rewarded over surface fluency. How would you feel taking a course graded this way, and does that feeling tell you something about why this lever is both effective and unpopular?
 - AI declaration frameworks that force students to map their use to cognitive stages (planning vs. content generation) shift emphasis from policing to professional practice. Do you think such reflection genuinely builds better judgment, or does it just teach students how to describe misuse more cleverly?
 - Set a goal before reading: identify one concrete change in your own course or workflow that would make AI misuse harder, and one that would make productive use easier. Which of the page's tiers would each belong to?
+
+## Introduction
 
 The concept rests on the evidence that AI misuse actively harms durable learning — the performance–learning gap documented in [[ai-misuse-learning-harm]] — even while inflating immediate performance. Interventions therefore target the mechanisms of that harm: answer-copying, [[cognitive-offloading]], motivation erosion, and learning displacement. They are not mutually exclusive; a robust approach combines a structural floor with educative capacity-building.
 

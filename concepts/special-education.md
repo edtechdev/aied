@@ -1,7 +1,7 @@
 ---
 title: Special Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [special-education, inclusive-learning, equity-in-ai-education, neurodiversity, ai-education, k-12, higher-ed]
 level: [special education, k 12, higher ed]
@@ -19,6 +19,8 @@ confidence: high
 - The research includes AI tools designed for specific disability profiles (e.g., dyslexic or Deaf and Hard of Hearing learners). What risks do you see in designing for narrow profiles versus designing universally for all learners from the start?
 - How might AI systems that are built for the 'average' learner end up overlooking or marginalizing disabled learners, even unintentionally — and whose responsibility is it to prevent that?
 - What would it mean for an AI tool to genuinely include, rather than merely accommodate, a learner with a disability — and how would you recognize the difference in practice?
+
+## Introduction
 
 Special education is a domain where AI's capacity for personalization and adaptation offers particular promise. Unlike one-size-fits-all instruction, [[intelligent-tutoring|AI tutors]] can theoretically adapt to individual cognitive profiles, communication needs, and learning paces. The articles in this knowledge base span AI for specific disability profiles, neurodivergent learner experiences, and critical perspectives on AI and disability.
 

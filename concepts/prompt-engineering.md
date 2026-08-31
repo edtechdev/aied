@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, generative-ai, scaffolding, llm, student-experience, prompt-engineering]
 audience: [learners]
@@ -19,6 +19,8 @@ confidence: high
 - Well-designed prompts can scaffold student thinking, while poorly used ones can encourage cognitive offloading. Can you recall a moment when an AI answer did the thinking for you? What about the prompt — or your intent — made that happen, and could it have been designed to do the opposite?
 - Prompting is both a learner skill and a system-design lever: some tutors now automatically route and select prompts for the user. As prompting moves from the user to the system, what do students lose — and what do they gain?
 - Set a small goal before you read: after learning about prompt engineering, decide on one concrete way you'll change how you write prompts in your own work, and what result you'll check to know it worked.
+
+## Introduction
 
 Prompt engineering is central to effective [[generative-ai]] use in education. Unlike traditional programming interfaces, LLMs respond to natural language — but the quality, accuracy, and pedagogical value of those responses depend heavily on prompt design. Research in this knowledge base reveals that prompting is not a neutral act: it reflects how students think, plan, and allocate cognitive effort.
 

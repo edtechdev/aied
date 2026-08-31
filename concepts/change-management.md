@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [change-management, ai-education, higher-ed]
 level: [higher ed]
@@ -18,6 +18,8 @@ confidence: medium
 - The page notes that only 7% of institutions have created senior AI leadership roles despite 49% viewing AI as a strategic priority. What do you think it signals when an institution calls something strategic but doesn't resource it with leadership?
 - A coordination-game model explains why policy statements alone fail: student AI use is a collective norm-formation process, and small, well-calibrated changes to assessment incentives can trigger rapid cohort-wide shifts toward responsible use. How might changing assessment incentives do more than issuing a policy ever could?
 - The page warns that fragmented adoption widens existing gaps — inclusion, equity, and sustainability are often overlooked even where core ethical principles are embraced. Which learners or institutions do you suspect lose out when change is managed unevenly, and how would you keep them central?
+
+## Introduction
 
 The empirical literature consistently shows that effective AI change management is a socio-technical, not merely technical, endeavor. The [[institutional-change-framework-ai|institutional change framework]] adapts classic change models to generative AI, arguing that institutions "cannot wait for best practices, but cannot responsibly scale unjustified innovations," and calling for humble local inquiry, reform organized around pedagogical approaches rather than ephemeral tools, and students engaged as partners in reform. This framing resonates with the [[leveraging-complex-systems-leading-for-transformative-change|complex-systems leadership]] argument that education is a complex adaptive system where leaders must judge when to reinforce administrative stability and when to enable "adaptive space" — diffusing high-risk innovations like AI through trusted social networks (complex contagions) rather than linear knowledge flow.
 

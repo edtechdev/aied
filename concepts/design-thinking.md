@@ -1,7 +1,7 @@
 ---
 title: Design Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 audience: [learners]
@@ -18,6 +18,8 @@ confidence: low
 - Students who used GenAI heavily in design reported it did NOT reduce their sense of ownership or creativity. Does that contradict the worry that AI erodes authorship — or does it depend on how the tool is orchestrated?
 - Design thinking appears both as a skill being taught and as a method educators use to build AI-supported learning. Which role is more relevant to your work, and how does that change the design principles you'd apply?
 - Practitioners often use AI for iterative prompting and generation but underuse needs assessment and feedback loops. What does it mean to treat AI as a 'fallible co-intelligent collaborator' rather than a content generator?
+
+## Introduction
 
 Design thinking sits at the intersection of creativity, craft, and critique — and it is increasingly where [[generative-ai]] and [[agentic-ai]] are reshaping how students learn to design. Across this knowledge base's connected articles, design thinking appears in two distinct roles: as a *pedagogical object* (the skill being taught and measured) and as a *pedagogical method* (the process educators themselves use to build AI-supported learning). In both roles, the same tension recurs: generative tools can accelerate ideation and broaden participation, but their value depends on how they are orchestrated, on the [[feedback]] they provide, and on whether the learner retains a genuine sense of [[agency]].
 

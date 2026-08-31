@@ -1,7 +1,7 @@
 ---
 title: Summative Assessment
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [summative-assessment, assessment, authentic-assessment, academic-integrity, higher-ed, k-12, ai-ed-evaluation]
 research_method: [educational measurement]
@@ -18,6 +18,8 @@ confidence: high
 - If unproctored or take-home tasks lose validity because AI can produce the answers, what does that imply for how assessments should be designed — and what might be sacrificed in the process?
 - Research cited on the page finds LLMs do not grade essays the same way humans do. If automated scoring is fast and consistent but grades differently, is that a fairness problem, an opportunity, or both?
 - What does a high-stakes result (a grade, a credential, admission) mean if the work behind it could have been produced by AI? How would you design an assessment you could actually trust?
+
+## Introduction
 
 Summative assessment serves a fundamentally different function from formative assessment: it measures and certifies achievement rather than guiding next steps. It includes end-of-unit tests, final examinations, standardized and high-stakes tests (e.g., entrance exams), oral defenses, and cumulative performance assessments. Because summative results carry real consequences (grades, progression, credentials, university admission), they face particular pressures in the AI era — both as *targets* of automated scoring and as *vulnerable* measures that students may seek to game using generative AI.
 

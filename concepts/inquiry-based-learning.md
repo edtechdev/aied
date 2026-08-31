@@ -1,7 +1,7 @@
 ---
 title: Inquiry-Based Learning
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [inquiry-based-learning, problem-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, generative-ai, stem-education, scaffolding]
 discipline: [stem education]
@@ -18,6 +18,8 @@ confidence: high
 - If treating AI output as authoritative risks over-reliance and superficial conclusions, how would you teach students to evaluate AI-generated answers as part of the inquiry cycle?
 - The page connects inquiry to productive failure — learners exploring before instruction, so struggle itself prepares learning. How might AI that withholds answers and elicits multiple attempts support that struggle rather than remove it?
 - What is the facilitator's role when AI lowers the friction of asking questions? If students can get answers instantly, what does the instructor now need to scaffold that they didn't before?
+
+## Introduction
 
 Inquiry-based learning centers on student-driven questions and the inquiry process itself, typically moving through phases (orientation → conceptualization → investigation → discussion → conclusion). It is the broader family under which [[problem-based-learning|problem-based learning]] and [[project-based-learning|project-based learning]] are often nested: IBL emphasizes the *questioning and discovery process*, PBL the ill-structured *problem*, and project-based learning the tangible *artefact*.
 

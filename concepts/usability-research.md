@@ -1,7 +1,7 @@
 ---
 title: Usability Research
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [usability-research]
 research_method: [system development, user study, interviews]
@@ -19,6 +19,8 @@ confidence: high
 - Think-aloud is a core method: users speak their thoughts while working, exposing confusion and mental models in real time. If you were a learner using an AI tool, what would you be able to articulate about your confusion that a simple 'did you like it?' survey would never capture?
 - The page notes self-reported satisfaction can diverge from objective performance — people can say they love a tool that secretly slows them down, or underrate one that actually helps. Where have you seen that gap between what people say and what their behavior shows?
 - Usability research tells you whether a tool is usable, not whether it teaches. If you're evaluating an AI learning tool, how would you combine usability evidence with evidence of learning — and what could a tool that passes both still fail to achieve?
+
+## Introduction
 
 Usability and UX research answer questions like: Can students figure out how to use this AI tutor? Is the AI tool confusing, frustrating, or error-prone? Does it fit the workflow of teachers or learners? These questions are a prerequisite for — and sometimes the hidden cause of — the [[learning-gains|learning gains]] (or lack thereof) measured in efficacy studies. An AI tool that is pedagogically sound but unusable will fail in practice; usability evidence explains why.
 

@@ -1,7 +1,7 @@
 ---
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, experiential-learning]
 confidence: high
@@ -16,6 +16,8 @@ confidence: high
 - If an AI can simulate patients, students, or conversation partners for practice, where would you draw the line between valuable rehearsal and practice that fails to transfer to real human interaction?
 - Why might a learner's awareness of a simulation's limits — its trustworthiness — matter as much as how faithfully it models reality?
 - How could the same simulation technology that helps someone learn also mislead them, and what would you need to know to tell those two outcomes apart?
+
+## Introduction
 
 Simulation sits at the core of [[experiential-learning|experiential]] and [[active-learning]] pedagogies. It provides the deliberate practice, productive failure, and [[feedback|feedback loops]] that build skill and judgment. AI has transformed simulation in two ways: it powers more realistic and adaptive simulated environments, and it generates simulated learners, patients, or interlocutors that make practice scalable.
 

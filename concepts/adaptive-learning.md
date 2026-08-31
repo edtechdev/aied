@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
@@ -17,6 +17,8 @@ confidence: high
 - Over-adaptation can remove the productive struggle students need to learn deeply. If AI keeps making things easier the moment you struggle, what exactly does the learner lose?
 - Meta-analysis suggests the adaptation mechanism — not the specific tool generation — drives learning gains. If the 'how' matters more than the 'which tool,' what should you look for when choosing adaptive software?
 - LLM-based tutors can now adapt language and explanation style, not just difficulty. When does personalizing the way something is explained help learning, and when might it quietly undermine the learner's own agency?
+
+## Introduction
 
 ### Core mechanisms
 

@@ -1,7 +1,7 @@
 ---
 title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 discipline: [cs education, math education, physics education]
@@ -19,6 +19,8 @@ confidence: high
 - If a math student uses AI mainly to check solutions and get explanations, is that a scaffold or a crutch? What determines the difference, and where would you draw the line?
 - Given that STEM problems often have verifiable answers, what kinds of AI use in STEM do you think genuinely build understanding versus merely produce correct-looking output?
 - How might the very qualities that make STEM ideal for AI tutoring — clear answers, computable correctness — undersell the parts of science and engineering that are messy, open-ended, and judgment-based?
+
+## Introduction
 
 ### STEM as the primary AIED domain
 

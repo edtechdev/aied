@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics]
 audience: [administrator, instructors, faculty development]
@@ -18,6 +18,8 @@ confidence: high
 - Assessment policy decisions like oral exams, proctored tests, and closed-book formats are themselves responses to AI-enabled cheating. Do you think policing the 'output' (catching AI use) is a better strategy than redesigning assessment so the work itself is harder to outsource?
 - Educational AI policy spans national legislation, government guidance, institutional rules, and classroom-level choices. Which of these levels do you think actually shapes student and teacher behavior the most — and why?
 - Whose voices tend to shape AI policy — and whose are missing? Who should be at the table when an institution decides what AI use is allowed and how it's governed?
+
+## Introduction
 
 - **[[crompton-governing-genai-higher-ed-delphi-2026|Crompton et al.]]** global Delphi converges on policy and practice principles for governing generative AI in higher education.
 

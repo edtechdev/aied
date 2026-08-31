@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 discipline: [language learning]
@@ -19,6 +19,8 @@ connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-e
 - Even the data used to *simulate* learners carries bias: when LLMs generated student vignettes, different models produced more Global North or Global South profiles and gendered pronouns. How much should we trust AI-generated representations of learners when the models themselves encode uneven priors?
 - Equity in AI education is often framed around three concerns: who gets the tools (access), who is represented in them (representation), and who benefits (outcomes). Can you think of a situation where a group gets access but still doesn't benefit? What explains the gap?
 - Research on 'structural silence' argues that speakers of underrepresented languages are disadvantaged by AI infrastructure — training corpora, tokenization, benchmarks — *before any model is even trained*. If the disadvantage is baked into the infrastructure, where does fixing it start?
+
+## Introduction
 
 Equity in [[ai-education|AI education]] addresses three overlapping concerns: who *gets* AI tools (access), who and what is *represented* in AI systems (representation), and who *benefits* (outcomes). AI can both widen and narrow existing disparities depending on design, infrastructure, and policy. Equity is therefore a cross-cutting lens applied to [[bias-mitigation|algorithmic fairness]], [[digital-divide|digital access]], [[language-learning|linguistic inclusion]], [[accessibility]], and [[culturally-relevant-pedagogy|culturally relevant teaching]].
 

@@ -5,7 +5,7 @@ tags: [mastery-learning, personalized-learning, adaptive-learning, assessment]
 category: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 ---
 
 > **Mastery learning** — a [[pedagogy|pedagogical]] framework, formalized by Benjamin Bloom, in which learners advance only after demonstrating a defined threshold of competence on each unit, rather than moving on a fixed class schedule. It rests on the premise that most students can reach mastery given sufficient time, feedback, and instruction tailored to their current state. AI tutoring and adaptive systems are increasingly operationalizing this model by continuously modeling learner knowledge, selecting tasks, and sustaining practice until competence is demonstrated.
@@ -17,6 +17,8 @@ updated: "2026-08-31T06:22:29-04:00"
 - Mastery-based AI grants learners agency to choose their own tasks, but simulations show naive self-selection can produce massive overpractice. Where's the right balance between letting a learner choose and imposing constraints that keep progression efficient?
 - The page stresses durable retention, not just a single correct performance — that's why mastery should be followed by spaced practice. How might a learner appear to 'master' something today only to lose it within hours?
 - If an AI declares you have 'mastered' a topic, what would you want it to check before you believe it — beyond getting a few answers right?
+
+## Introduction
 
 ## Origins and Core Idea
 

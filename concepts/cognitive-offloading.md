@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 audience: [learners]
@@ -19,6 +19,8 @@ confidence: high
 - Research finds the harm of offloading is conditional, not intrinsic: 'AI that coaches preserves or boosts skill; AI that substitutes risks decay.' What is the practical difference between an AI that scaffolds your thinking and one that replaces it — and how would you tell which you were getting?
 - One study shows that merely having access to AI advice nearly eliminated people's willingness to say 'I don't know' — even when the advice was wrong — while nearly doubling confidence and cutting accuracy to a third. What does this suggest about how AI changes our awareness of our own ignorance?
 - The page introduces a metacognitive equity gap — a 'Matthew Effect with AI': because productive AI use requires prior knowledge and metacognition, already-advantaged students benefit more while those who need practice most are most likely to delegate the learning. How should an educator or designer respond to the fact that the same tool can widen existing divides?
+
+## Introduction
 
 Cognitive offloading is not inherently harmful — humans have always used external tools (notebooks, calculators, search engines) to reduce cognitive load. What makes AI-mediated offloading different is its comprehensiveness: [[llm|LLMs]] can generate complete solutions, explanations, and analyses, potentially eliminating the need for the very cognitive processes that produce learning.
 

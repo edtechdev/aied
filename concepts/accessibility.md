@@ -1,7 +1,7 @@
 ---
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [accessibility, inclusive-learning, special-education, universal-design-for-learning, assistive-technology, equity-in-ai-education, learning-design]
@@ -20,6 +20,8 @@ confidence: high
 - Some argue accessibility is necessary but not sufficient — an accessible tool is not automatically an inclusive or disability-just one. What's the difference between being able to use a tool and being meaningfully served by it?
 - Many AI tools are trained largely on English, Western-centric data. How might that limit how well they serve learners whose first language is sign, or whose ways of knowing differ from the mainstream?
 - AI can automate accessibility at scale — generating captions, simplifying text, producing tactile output. What would you want to verify by hand before trusting that automated accessibility, and why?
+
+## Introduction
 
 Accessibility is distinct from, but closely related to, three neighboring concepts in this knowledge base. **[[inclusive-learning]]** is the broader umbrella for designing education for all learner variability (physical, cognitive, sensory, situational). **[[special-education]]** is the instructional domain for learners with diagnosed disabilities, including individualized accommodations. **[[universal-design-for-learning]]** is the proactive design framework (multiple means of engagement, representation, action/expression). **Accessibility** sits inside this constellation as the *technical and procedural layer*: removing barriers to perceiving and operating the format, rather than redesigning the pedagogy. The two can be separated on a spectrum — accessibility asks "can everyone access this content and tool?" while supporting students with disabilities asks "does instruction meaningfully serve each learner, including accommodations and disability-specific support?" Both matter, and AI intersects both.
 

@@ -1,7 +1,7 @@
 ---
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [learning-theories, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, learning-design]
 category: [instructional design]
@@ -18,6 +18,8 @@ confidence: high
 - Papert's constructionism says we learn most powerfully by building shareable artifacts. In the AI era, one framework puts it as: 'the AI writes the code, but the student writes the model.' What is a student actually constructing when AI handles the mechanics?
 - Some AI tools practice 'generative refusal' — withholding answers and posing questions instead. When would deliberately withholding help be more pedagogically valuable than providing it?
 - If knowledge is constructed, then AI literacy isn't learned by hearing lectures about AI — it's learned by using, critiquing, and building with AI. What does that imply about how AI literacy should be taught to you or your students?
+
+## Introduction
 
 Constructivism is a family of theories rather than a single doctrine, but its core claim is shared: learners do not absorb meaning; they construct it. Understanding in this view is not the accumulation of transmitted facts but the active organization of experience into mental models. This has direct implications for how AI in education should be designed, evaluated, and taught — and it helps explain both the promise and the risk of [[generative-ai|generative AI]] in the classroom.
 

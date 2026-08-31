@@ -1,7 +1,7 @@
 ---
 title: Self-Directed Learning
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [self-regulated-learning, agency, motivation, self-efficacy, higher-ed, generative-ai, lifelong-learning, adult-learning]
 level: [higher ed, adult learning]
@@ -18,6 +18,8 @@ confidence: high
 - SDL and self-regulated learning (SRL) are closely related but distinct: SRL concerns in-the-moment regulation of learning, while SDL concerns overarching responsibility across time. Where do you see the boundary between 'managing this task' and 'directing my own learning' in your own practice?
 - The harm from thoughtless AI use hit motivation harder for some students and self-efficacy harder for others. If the erosion of these psychological resources is uneven across learners, what equity concern does that raise about who loses the most from AI convenience?
 - Set a goal before you read: name one learning goal you're currently pursuing mostly on your own, and one way an AI tool helps you toward it and one way it might be quietly taking the directing away from you.
+
+## Introduction
 
 Self-directed learning is closely related to — but distinct from — [[self-regulated-learning|self-regulated learning (SRL)]]. While SRL emphasizes the in-the-moment cognitive, motivational, and behavioral regulation of learning (planning, monitoring, controlling, reflecting), SDL emphasizes the learner's overarching responsibility for the direction and management of their own learning across time, often in informal or self-chosen contexts. SDL is foundational to [[adult-learning|adult learning]] and [[lifelong-learning|lifelong learning]], and is a prominent theory in distance and online education, where learners must sustain autonomy without scheduled class time.
 

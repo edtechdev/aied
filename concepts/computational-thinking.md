@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai]
 discipline: [cs education, stem education]
@@ -19,6 +19,8 @@ confidence: high
 - Some argue computational thinking should move learners from passively consuming AI outputs toward building, critiquing, and designing with AI. What would a classroom that treats students as producers rather than consumers actually look like?
 - Generative AI can now score students' computational thinking growth — yet both humans and AI struggle with the hardest construct, systems thinking. Where do you think automation of assessment should stop, and why?
 - Robotics research finds computational thinking only develops when concepts are made explicit and mapped to the curriculum, not treated as isolated tech exercises. What's the risk of teaching 'tech skills' without naming the thinking underneath?
+
+## Introduction
 
 ### CT in an AI-era classroom
 

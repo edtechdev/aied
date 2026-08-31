@@ -1,7 +1,7 @@
 ---
 title: Hallucination Risk
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [hallucination-risk, ai-ed-evaluation, generative-ai, llm, pedagogical-safety, human-in-the-loop-ai, cognitive-offloading]
 category: [evaluation]
@@ -19,6 +19,8 @@ confidence: high
 - The page suggests human-in-the-loop review, evidence-aware confidence calibration, and grounding in verified sources as mitigations. Which of these seems most feasible in your own context, and what could it still fail to catch?
 - How might hallucination interact with over-reliance: why is an AI error most dangerous when users trust the output uncritically, rather than when they're skeptical?
 - If you were designing an AI feedback tool for your students, what specific safeguards would you insist on to protect against plausible-but-wrong output — and how would you know they were working?
+
+## Introduction
 
 Hallucination in educational AI takes several forms documented in this knowledge base's articles: fabricated evidence in student assessment, over-confident misdiagnosis of learner knowledge, and plausible-sounding but incorrect explanations that students accept as truth. The risk is amplified in education because the asymmetry of knowledge between AI and learner means the learner is poorly positioned to verify AI outputs.
 

@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [critical-thinking, student-experience, generative-ai, writing-education, constructivist]
 discipline: [writing education]
@@ -18,6 +18,8 @@ confidence: high
 - A 'think first, ChatGPT later' study found students who generated their own ideas before AI showed no immediate boost — yet outperformed everyone on a later unassisted creativity task. Why might protecting the independent-thinking phase produce learning that free AI use doesn't?
 - If AI can produce a polished artifact instantly, what is the learner's creative work actually worth — and how would you design an assignment so the generative process stays with the student?
 - Is an idea generated with AI's help 'yours'? How you answer might change whether you treat AI as a divergent-thinking partner or as something that replaces your creative process.
+
+## Introduction
 
 Creativity spans the divergent-thinking end of the cognitive spectrum — generating multiple possibilities — in contrast to convergent thinking, which arrives at a single correct solution. AI systems are especially relevant to creativity because they are statistical generators: they can propose many options (supporting ideation) but also tend toward the average, producing the idea-level homogenization documented when many students rely on the same model.
 

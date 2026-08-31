@@ -1,7 +1,7 @@
 ---
 title: Design-Based Research
 created: "2026-08-24T02:30:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [design-based-research, research-methods-aied]
 research_method: [design-based research, research methods, literature review]
@@ -18,6 +18,8 @@ confidence: high
 - DBR produces two things at once: a usable artifact and validated design principles. Which of those two outputs matters more to you — a tool that works, or a principle you can apply elsewhere?
 - A strength of DBR is high practical relevance; a limitation is that findings are context-bound and hard to generalize. When would you trust a DBR finding enough to apply it in a very different setting?
 - Without an unassisted, controlled outcome measure, DBR learning gains can reflect the same 'AI-inflated performance' problem it studies. How would you design a DBR study so its reported gains actually mean learning, not assisted performance?
+
+## Introduction
 
 DBR is a *design* tradition, not a data tradition: it does not fit neatly into the [[quantitative-research|quantitative]]/[[qualitative-research|qualitative]]/experimental contrast. It deliberately combines elements of all three — collecting both outcome and process data across iterative cycles — to answer *"how do we design this AI learning environment to work in practice?"* rather than *"does X cause Y?"*. It is closely related to [[learning-design]] (which specifies the design process) and to [[usability-research|usability evaluation]] (which feeds refinement), but is distinguished by its sustained, theory-driven, multi-cycle character and its dual goal of improving practice *and* generating theory.
 

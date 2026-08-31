@@ -1,7 +1,7 @@
 ---
 title: Activity Theory
 created: "2026-08-26T08:20:00-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [activity-theory-aied, learning-theories, sociocultural-learning, teacher-role, learning-analytics, generative-ai, higher-ed, k-12]
 audience: [instructors]
@@ -19,6 +19,8 @@ confidence: high
 - When AI takes over tasks, it reconfigures who does what, shifting the division of labor between students, teachers, and tools. What cognitive work in your own context has quietly moved from humans to machines — and who noticed?
 - Because each discipline functions as its own activity system, the same AI tool can produce different outcomes across subjects. Why might a tool that transforms writing classes barely change a math class, or vice versa?
 - Activity theory is used both to analyze how AI reshapes teaching and to design interventions that fix the tensions it exposes. How might seeing your own teaching or study practice as an activity system change how you diagnose a problem?
+
+## Introduction
 
 ### The concept
 

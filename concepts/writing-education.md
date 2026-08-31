@@ -1,7 +1,7 @@
 ---
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 discipline: [language learning, writing education]
@@ -20,6 +20,8 @@ confidence: high
 - The page warns that AI writing feedback is not language-neutral: personalizing feedback with a student's race, language, or disability can shift it in stereotype-aligned ways — such as overpraising or withholding critique. If you've received or given 'personalized' AI feedback, how would you detect that a tool was softening its critique for some learners?
 - The design guidance here is 'coaching, not composing' — have AI ask questions and critique outlines, but require the learner to produce prose first. Why might letting the learner draft before the AI intervenes protect ownership and judgment in ways a tool that writes the draft could not?
 - One finding: students often say 'it's OK because…' to rationalize AI use, moving the issue from plagiarism policing toward ethics and AI literacy. If you were designing a writing course, how would you build honesty and ethical judgment about AI into it, rather than relying on detection or punishment?
+
+## Introduction
 
 Writing is not merely output but a cognitive, social, and rhetorical process. This is why AI's impact on writing education is so consequential and contested: AI can be a [[scaffolding|scaffold]] that helps students draft, revise, and receive feedback they otherwise wouldn't get, but it can also displace the [[cognitive-offloading|cognitive work]] — and the human audience — that make writing a learning activity. The knowledge base's research consistently frames AI in writing as a *human-centered complement* to, rather than a replacement for, the social and cognitive processes of writing. Where the focus is **English specifically** — [[english-education|English for Academic Purposes (EAP)]] and English language teaching (EFL/ESL/L2) — see the dedicated [[english-education]] concept page, which distinguishes English-specific and academic-register research from general writing and general language learning.
 

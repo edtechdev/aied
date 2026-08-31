@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-08-31T06:22:29-04:00"
+updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [intelligent-tutoring, llm, student-ai-interaction, scaffolding, higher-ed, generative-ai, student-experience, k-12, stem-education, personalized-learning]
@@ -21,6 +21,8 @@ confidence: medium
 - Real students often 'bypass' a chatbot's pedagogical framing when the agent's goals clash with the learner's own. Why might a learner rationally ignore good scaffolding, and what does that imply for assuming 'if we build it, they'll engage'?
 - Would you rather learn from an AI that tells you things, one that asks you questions, or one that mediates a group discussion? How does your preference shape what you think a 'pedagogical agent' should be?
 - From a simple info-provider to a fleet of specialized agents orchestrating a whole course—where do you think the value (and the risk) of conversational AI tutoring actually lies?
+
+## Introduction
 
 A pedagogical agent is an interactive AI component within a learning system that engages learners through dialogue, questions, or prompts to support cognitive and [[metacognition|metacognitive processes]]. Unlike passive dashboards or static feedback, pedagogical agents employ evidence-based tutoring strategies — such as eliciting learner self-assessments before providing [[feedback]], or [[scaffolding]] problem-solving through Socratic dialogue. The umbrella now covers everything from a single conversational [[intelligent-tutoring|intelligent tutor]] to fleets of role-specialized [[agentic-ai|agents]] that lecture, mentor, facilitate collaboration, and even orchestrate course generation, all grounded in decades of intelligent-tutoring-systems research.
 
