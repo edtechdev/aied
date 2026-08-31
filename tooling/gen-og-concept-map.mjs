@@ -26,7 +26,7 @@ const inner = [
 const outer = [
   { slug: 'discipline-specific-aied', label: 'Disciplines' },
   { slug: 'pedagogy', label: 'Pedagogy' },
-  { slug: 'academic-integrity', label: 'Academic Integrity' },
+  { slug: 'ethics', label: 'Ethics' },
   { slug: 'ai-technologies', label: 'Technologies' },
   { slug: 'ai-ed-evaluation', label: 'Evaluation' },
   { slug: 'research-methods-aied', label: 'Research' },

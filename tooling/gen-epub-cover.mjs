@@ -21,7 +21,7 @@ const inner=[
 ];
 const outer=[
   {slug:'discipline-specific-aied',label:'Disciplines'},{slug:'pedagogy',label:'Pedagogy'},
-  {slug:'academic-integrity',label:'Academic Integrity'},{slug:'ai-technologies',label:'Technologies'},
+  {slug:'ethics',label:'Ethics'},{slug:'ai-technologies',label:'Technologies'},
   {slug:'ai-ed-evaluation',label:'Evaluation'},{slug:'research-methods-aied',label:'Research'},
 ];
 function ring(nodes,radius,startDeg){const n=nodes.length;return nodes.map((node,i)=>{const a=(startDeg+(360/n)*i)*Math.PI/180;return{...node,x:CX+radius*Math.cos(a),y:CY+radius*Math.sin(a)};});}
