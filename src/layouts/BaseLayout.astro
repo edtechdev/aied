@@ -286,8 +286,11 @@ const recentConceptItems = recentConcepts.map(c => ({
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      width: 2.4rem;
-      height: 2.4rem;
+      /* Match the hamburger button exactly — same size, no Pico nav-link
+         margins (which otherwise offset these from the row). */
+      width: 2.6rem;
+      height: 2.6rem;
+      margin: 0;
       padding: 0;
       color: var(--muted-color);
       border: 1px solid var(--muted-border-color);
@@ -307,13 +310,10 @@ const recentConceptItems = recentConcepts.map(c => ({
        button sizing/typography and match the sibling header-icon anchors. */
     button.theme-toggle,
     button.theme-toggle:not([role]) {
-      width: 2.4rem;
-      height: 2.4rem;
+      width: 2.6rem;
+      height: 2.6rem;
       padding: 0;
-      /* Match the negative margin Pico applies to nav <a> links, so the theme
-         button sits at the same spacing as the sibling header icons (otherwise
-         it carries an extra ~9px gap before it). */
-      margin: calc(var(--nav-link-spacing-vertical) * -1) calc(var(--nav-link-spacing-horizontal) * -1);
+      margin: 0;
       border-radius: 8px;
       border: 1px solid var(--muted-border-color);
       background: transparent;
@@ -344,7 +344,12 @@ const recentConceptItems = recentConcepts.map(c => ({
       font-weight: 700;
       white-space: nowrap;
     }
-    .brand-link img { flex-shrink: 0; }
+    .brand-link img {
+      flex-shrink: 0;
+      /* Match the hamburger/icon button size so all header controls align. */
+      width: 2.6rem;
+      height: 2.6rem;
+    }
     /* Default to the full "AIEd Knowledge Base" label; show the compact
        "AIEd KB" only when the browser is narrow and the header is tight.
        On mobile the label is dropped entirely to make room — the logo alone
