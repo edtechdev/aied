@@ -310,7 +310,10 @@ const recentConceptItems = recentConcepts.map(c => ({
       width: 2.4rem;
       height: 2.4rem;
       padding: 0;
-      margin: 0;
+      /* Match the negative margin Pico applies to nav <a> links, so the theme
+         button sits at the same spacing as the sibling header icons (otherwise
+         it carries an extra ~9px gap before it). */
+      margin: calc(var(--nav-link-spacing-vertical) * -1) calc(var(--nav-link-spacing-horizontal) * -1);
       border-radius: 8px;
       border: 1px solid var(--muted-border-color);
       background: transparent;
@@ -343,39 +346,57 @@ const recentConceptItems = recentConcepts.map(c => ({
     }
     .brand-link img { flex-shrink: 0; }
     /* Default to the full "AIEd Knowledge Base" label; show the compact
-       "AIEd KB" only when the browser is narrow and the header is tight. */
+       "AIEd KB" only when the browser is narrow and the header is tight.
+       On mobile the label is dropped entirely to make room — the logo alone
+       identifies the site. */
     .brand-short { display: none; }
     @media (max-width: 600px) {
       .brand-full { display: none; }
       .brand-short { display: inline; }
     }
-    /* Mobile: keep header at exactly TWO rows. A fixed 2-row CSS grid cannot
-       reflow into extra rows the way flex-wrap can, so brand + icon buttons
-       stay locked on row 1 and the search box on row 2 regardless of how wide
-       the browser measures the content (Firefox mobile renders text/icons wider
-       than Chrome). Row 1 is auto/1fr/auto: brand hugs the left, the icon group
-       hugs the right, with no space-between spread — so no wasted gap and the
-       row fits even at narrow widths. On narrow screens the two least-essential
-       icons (RSS feed + GitHub repo) are hidden to guarantee row 1 fits. */
+    @media (max-width: 640px) {
+      .brand-full, .brand-short { display: none; }
+    }
+    /* Mobile: single row. A fixed CSS grid cannot reflow into extra rows the
+       way flex-wrap can, so brand (logo only) + icon buttons stay locked on one
+       row regardless of how wide the browser measures the content (Firefox
+       mobile renders text/icons wider than Chrome). Row is auto/1fr/auto: logo
+       hugs the left, the icon group hugs the right — no space-between spread
+       and no wasted gap. The search field is dropped entirely on narrow
+       screens (its "Ctrl K" hint only makes sense on desktop); search remains
+       reachable via the Search icon. With the label and search row gone there
+       is room to grow the logo and icon buttons up to match the hamburger. */
     @media (max-width: 640px) {
       header .container {
         display: grid;
         grid-template-columns: auto 1fr auto;
-        grid-template-rows: auto auto;
         column-gap: 0.5rem;
-        row-gap: 0.5rem;
-        justify-content: stretch;
+        align-items: center;
       }
-      .header-left { grid-column: 1; grid-row: 1; }
-      .header-icons { grid-column: 3; grid-row: 1; justify-self: end; }
-      .header-search {
-        grid-column: 1 / -1;
-        grid-row: 2;
-        max-width: none;
-        width: 100%;
-      }
+      .header-left { grid-column: 1; }
+      .header-icons { grid-column: 3; justify-self: end; }
+      /* No search box on mobile — drop the second row entirely. */
+      .header-search { display: none; }
+      /* Hide the two least-essential icons (RSS feed + GitHub repo). */
       .header-icons .header-icon[title="RSS feed"],
       .header-icons .header-icon[title="GitHub repository"] { display: none; }
+      /* Grow the logo and icon buttons to match the hamburger's size. */
+      .brand-link img {
+        width: 2.6rem;
+        height: 2.6rem;
+        margin-right: 0.5rem;
+      }
+      .header-icon,
+      button.theme-toggle,
+      button.theme-toggle:not([role]) {
+        width: 2.6rem;
+        height: 2.6rem;
+      }
+      .nav-toggle,
+      .header-icon,
+      button.theme-toggle {
+        border-radius: 8px;
+      }
     }
 
     main {
