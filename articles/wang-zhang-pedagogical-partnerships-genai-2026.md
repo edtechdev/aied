@@ -10,7 +10,7 @@ sources: ['raw/papers/wang-zhang-pedagogical-partnerships-genai-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Wang and Zhang (2026) use a four-study mixed-methods design across China, Europe, and the United States (N=912) to examine how students' framing of [[generative-ai|GenAI]] as a [[pedagogy|pedagogical]] partner affects transformative learning through two simultaneous cognitive pathways — vigilance (critical evaluation) and offloading (strategic delegation). Their central, counterintuitive finding is that strategic [[cognitive-offloading|cognitive offloading]], contrary to traditional assumptions, can enhance transformative learning by liberating mental resources for higher-order reflection once it exceeds certain thresholds. Efficiency orientation, rather than undermining learning, acts as an amplifier of both vigilance and offloading. The study reconceptualizes student-AI dynamics from zero-sum competition to synergistic [[collaborative-learning|collaboration]].
+> **Synthesis:** Wang and Zhang (2026) use a four-study [[mixed-methods-research|mixed-methods]] design across China, Europe, and the United States (N=912) to examine how students' framing of [[generative-ai|GenAI]] as a [[pedagogy|pedagogical]] partner affects transformative learning through two simultaneous cognitive pathways — vigilance (critical evaluation) and offloading (strategic delegation). Their central, counterintuitive finding is that strategic [[cognitive-offloading|cognitive offloading]], contrary to traditional assumptions, can enhance transformative learning by liberating mental resources for higher-order reflection once it exceeds certain thresholds. Efficiency orientation, rather than undermining learning, acts as an amplifier of both vigilance and offloading. The study reconceptualizes student-AI dynamics from zero-sum competition to synergistic [[collaborative-learning|collaboration]].
 
 ## Core Finding
 
@@ -20,14 +20,14 @@ confidence: high
 
 The theoretical model integrates two cognitive responses available to students interacting with GenAI:
 
-- **Cognitive vigilance** — systematic critical evaluation of AI content (error [[ai-detection|detection]], reasoning verification, source cross-referencing, epistemic appraisal of whether outputs meet disciplinary standards). Partnership orientations activate this through relational accountability.
+- **Cognitive vigilance** — systematic critical [[ai-ed-evaluation|evaluation of AI]] content (error [[ai-detection|detection]], reasoning verification, source cross-referencing, epistemic appraisal of whether outputs meet disciplinary standards). Partnership orientations activate this through relational accountability.
 - **Cognitive offloading** — strategic delegation of cognitive tasks (summarization, synthesis, drafting, data analysis) to the AI, grounded in metacognitive frameworks of external cognition. Partnership reframes this from intellectual abdication to strategic resource management.
 
 The findings show both pathways positively associate with transformative learning, resolving the theoretical tension between delegation-as-erosion and [[student-engagement|engagement]]-as-enhancement. Efficiency orientation positively moderates the partnership→offloading link and (in this configurational analysis) does not uniformly suppress vigilance.
 
 ## Methodology
 
-The study uses a rigorous mixed-methods design with four complementary studies: (1) PLS-SEM to test the mediation/moderation architecture; (2) importance–performance map analysis (IPMA) to translate findings into pedagogical priorities; (3) fuzzy-set qualitative comparative analysis (fsQCA) for configurational, equifinal pathways; and (4) semi-structured interviews with 45 business students for process-level triangulation. A three-wave, time-lagged survey across three cultural contexts minimizes common method bias. Constructs (Human-GenAI Pedagogical Partnership, Cognitive Vigilance, Cognitive Offloading, Transformative Learning Experience, Efficiency Orientation) were validated through an expert panel, a 90-respondent pre-test (α>0.700), back-translation, and convergent/discriminant validity checks (HTMT<0.850).
+The study uses a rigorous mixed-methods design with four complementary studies: (1) PLS-SEM to test the mediation/moderation architecture; (2) importance–performance map analysis (IPMA) to translate findings into pedagogical priorities; (3) fuzzy-set [[qualitative-research|qualitative]] comparative analysis (fsQCA) for configurational, equifinal pathways; and (4) semi-structured interviews with 45 business students for process-level triangulation. A three-wave, time-lagged survey across three cultural contexts minimizes common method bias. Constructs (Human-GenAI Pedagogical Partnership, Cognitive Vigilance, Cognitive Offloading, Transformative Learning Experience, Efficiency Orientation) were validated through an expert panel, a 90-respondent pre-test (α>0.700), back-translation, and convergent/discriminant validity checks (HTMT<0.850).
 
 ## Implications for Practice
 

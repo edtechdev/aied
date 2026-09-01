@@ -12,24 +12,24 @@ confidence: high
 
 ## Core Argument
 
-The AIED community over-relies on **inter-rater reliability (IRR)** — typically a single Cohen's κ coefficient — as a mechanical gatekeeper for "ground truth." This practice is insufficient and potentially misleading for the complex, noisy realities of educational data. The authors propose **four practical shifts** to strengthen the [[assessment-validity|validity]] and reliability of the evidence base of labeled AIED datasets.
+The [[ai-education|AIED]] community over-relies on **inter-rater reliability (IRR)** — typically a single Cohen's κ coefficient — as a mechanical gatekeeper for "ground truth." This practice is insufficient and potentially misleading for the complex, noisy realities of educational data. The authors propose **four practical shifts** to strengthen the [[assessment-validity|validity]] and reliability of the evidence base of labeled AIED datasets.
 
 ## The Problem
 
 ### Noise vs. Bias in Educational Labeling
-Human judgment is subject to both **noise** (random variability) and **bias** (systematic directional error). While [[bias-mitigation|bias]] and fairness have received extensive attention, noise is an underexamined obstacle in AIED. Education is inherently noisy — assigning grades, defining engagement, and identifying giftedness all involve subjective interpretation.
+Human judgment is subject to both **noise** (random variability) and **bias** (systematic directional error). While [[bias-mitigation|bias]] and fairness have received extensive attention, noise is an underexamined obstacle in AIED. Education is inherently noisy — assigning grades, defining [[student-engagement|engagement]], and identifying giftedness all involve subjective interpretation.
 
 ### Why κ Alone Fails
 Educational settings present specific challenges that undermine threshold-based IRR heuristics:
 
 - **High-inference constructs**: Complex concepts like "engagement" or "understanding" require deep judgment beyond surface-level agreement
 - **Skewed label distributions**: Class imbalance inflates or deflates κ in misleading ways
-- **Temporally segmented multimodal data**: Video, audio, and log data over time create segmentation challenges where raters may agree on the label but disagree on *when* to apply it
+- **Temporally segmented [[multimodal]] data**: Video, audio, and log data over time create segmentation challenges where raters may agree on the label but disagree on *when* to apply it
 
 ### The LLM Annotation Risk
 The growing use of LLMs as annotators introduces new threats:
 
-- **Automation bias**: Over-trusting LLM output without verification
+- **Automation bias**: Over-trusting [[llm]] output without verification
 - **Circular validation**: Using the same model to evaluate its own output
 - **Silent degradation**: LLM annotators may produce deceptively consistent but subtly wrong labels
 
@@ -73,7 +73,7 @@ The paper illustrates these shifts through case studies of **multimodal tutoring
 
 ## Open Questions
 
-- What is the "minimum viable validity evidence" for different AIED use cases (high-stakes assessment vs. formative practice)?
+- What is the "minimum viable validity evidence" for different AIED use cases (high-stakes assessment vs. [[formative-assessment|formative]] practice)?
 - How should the four shifts be adapted for fully automated annotation pipelines with no human raters?
 - Can uncertainty-aware labeling be standardized across the field, or is it inherently task-specific?
 

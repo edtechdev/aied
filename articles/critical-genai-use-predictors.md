@@ -12,12 +12,12 @@ sources: ['raw/papers/mdpi-2026-critical-genai-use-predictors.md']
 confidence: high
 ---
 
-A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, Bielefeld University) testing two **protective factors against uncritical GenAI [[cognitive-offloading|overreliance]]**: (1) **knowledge about genAI** and (2) the **disposition to engage in [[critical-thinking|critical thinking]]** — operationalised via Kuhn's framework as *epistemic orientation* (tendency away from absolutist toward evaluativist beliefs) and *intellectual values* (viewing intellectual engagement as worthwhile). Both factors are framed as components of [[ai-literacy|AI literacy]] and both are trainable, motivating intervention recommendations.
+A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, Bielefeld University) testing two **protective factors against uncritical [[generative-ai|GenAI]] [[cognitive-offloading|overreliance]]**: (1) **knowledge about genAI** and (2) the **disposition to engage in [[critical-thinking|critical thinking]]** — operationalised via Kuhn's framework as *epistemic orientation* (tendency away from absolutist toward evaluativist beliefs) and *intellectual values* (viewing intellectual [[student-engagement|engagement]] as worthwhile). Both factors are framed as components of [[ai-literacy|AI literacy]] and both are trainable, motivating intervention recommendations.
 
 ## Method highlights
 
 - **Critical use of genAI** measured with a newly developed 10-item scale (α = .78) covering validation behaviours (cross-checking outputs, verifying factual accuracy, comparing with literature).
-- **Knowledge measured two ways** — the study's key methodological contribution: *self-reported* (18 SNAIL items, α = .90) AND *objective/performance-based* (12 items from Köhler & Hartig's ChatGPT scale + Hornberger et al.'s AI literacy test), each objective item paired with a certainty rating to compute a **misconception score** (correctness × certainty; Eitel/Hefter procedure).
+- **Knowledge measured two ways** — the study's key [[research-methods-aied|methodological]] contribution: *self-reported* (18 SNAIL items, α = .90) AND *objective/performance-based* (12 items from Köhler & Hartig's ChatGPT scale + Hornberger et al.'s AI literacy test), each objective item paired with a certainty rating to compute a **misconception score** (correctness × certainty; Eitel/Hefter procedure).
 - Dispositions: epistemic orientation (5 items, α = .70), intellectual values (14 fictive-person items, α = .90), plus need for cognition (NFC, 4-item short scale, α = .54).
 
 ## Key findings
@@ -31,14 +31,14 @@ A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, B
 - Epistemic orientation β = .36, p < .001; **intellectual values β = .40, p < .001**; low multicollinearity (VIF = 1.05), Durbin-Watson 2.23.
 
 ### Exploratory — misconceptions are narrow but real
-- Only **9% of participants** had misconception scores below zero; just 3 of 12 items showed actual misconceptions (incorrect + high confidence).
-- The standout: **97% confidently believed "GenAI performs web searches"** (misconception score −3.00) — though the authors note current chatbots technically trigger web searches, so this item may be superseded by evolving tool capabilities.
+- Only **9% of participants** had misconception scores below zero; just 3 of 12 items showed actual [[misconceptions]] (incorrect + high confidence).
+- The standout: **97% confidently believed "GenAI performs web searches"** (misconception score −3.00) — though the authors note current [[conversational-ai|chatbots]] technically trigger web searches, so this item may be superseded by evolving tool capabilities.
 - Most students correctly and confidently knew GenAI "may provide content that is not based on facts" (score 2.91, highest).
 
 ### Exploratory — need for cognition (NFC)
 - Actual genAI use correlated only with **interest** (r = .54) and **perceived usefulness** (r = .58) — not with knowledge or dispositions.
 - **Perceived usefulness negatively correlated with NFC** (r = −.27, p = .027): high-NFC students view GenAI utility more sceptically.
-- **NFC positively correlated with critical use** (r = .25, p = .044): the motivational drive to invest cognitive effort bridges AI literacy and actual critical behaviour.
+- **NFC positively correlated with critical use** (r = .25, p = .044): the [[motivation|motivational]] drive to invest cognitive effort bridges AI literacy and actual critical behaviour.
 
 ## Implications
 

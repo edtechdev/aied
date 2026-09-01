@@ -17,7 +17,7 @@ Conijn, Kleingeld, Matzat, & Snijders (2022) provide the strongest empirical evi
 
 ## Method
 
-- **Sample:** Four waves of survey data across one year of pandemic-era teaching at a Dutch university; 1,760 students within 105 courses.
+- **Sample:** Four waves of survey data across one year of pandemic-era [[teacher-role|teaching]] at a Dutch university; 1,760 students within 105 courses.
 - **Design:** Multi-level analyses with crossed random effects of student and course, comparing on-campus, online non-proctored, and online proctored exams.
 - **Outcomes:** Self-reported temptation to cheat, test anxiety, perceived exam difficulty, and performance; plus student characteristics (learning strategies, internet literacy, study-space access, reliable technology, financial stress, gender).
 

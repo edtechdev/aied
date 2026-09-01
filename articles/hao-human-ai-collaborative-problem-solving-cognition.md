@@ -10,11 +10,11 @@ sources: ['raw/papers/hao-human-ai-collaborative-problem-solving-cognition.md']
 confidence: high
 ---
 
-> **Synthesis:** This empirical study by Hao, Liu, Fan, Long, Yu, Chen & Zhang (Tsinghua University) adopts an integrated distributed cognition and co-regulation perspective to examine how college students collaborate with AI agents on complex problem-solving tasks. Through dialogue coding and cluster analysis of 173 students, it identifies three collaborative problem-solving modes — **Delegated Reasoning (DR), Concerted Interpretation (CI), and Delegated Elaboration (DE)** — and shows that the DR mode achieves the highest task performance but the lowest regulatory engagement, while the CI mode engages learners most deeply in [[self-regulated-learning|self-regulation]]. The work exposes a core tension between the efficiency of the distributed human-AI system and the depth of learners' cognitive and regulatory involvement.
+> **Synthesis:** This empirical study by Hao, Liu, Fan, Long, Yu, Chen & Zhang (Tsinghua University) adopts an integrated [[distributed-cognition|distributed cognition]] and co-[[regulation]] perspective to examine how college students collaborate with [[agentic-ai|AI agents]] on complex [[problem-solving]] tasks. Through dialogue coding and cluster analysis of 173 students, it identifies three collaborative problem-solving modes — **Delegated Reasoning (DR), Concerted Interpretation (CI), and Delegated Elaboration (DE)** — and shows that the DR mode achieves the highest task performance but the lowest regulatory [[student-engagement|engagement]], while the CI mode engages learners most deeply in [[self-regulated-learning|self-regulation]]. The work exposes a core tension between the efficiency of the distributed human-AI system and the depth of learners' cognitive and regulatory involvement.
 
 ## From distributed cognition to human-AI collaboration
 
-The paper extends [[cognitive-offloading|distributed-cognition theory]] (Hutchins) beyond human teams into the human-AI context. Rather than treating students' use of generative AI as a monolithic behavior, it asks how cognitive work is *distributed* and *regulated* between human and AI collaborators turn-by-turn. This connects directly to the knowledge base's core theme of [[human-ai-collaboration]] and to [[collaborative-learning]] research on AI as a partner or mediator. Because generative AI is highly reactive to user input, the study argues, the quality of collaboration depends on how students allocate and offload cognition and whether they maintain [[metacognition|metacognitive]] oversight of the process.
+The paper extends [[cognitive-offloading|distributed-cognition theory]] (Hutchins) beyond human teams into the human-AI context. Rather than treating students' use of [[generative-ai|generative AI]] as a monolithic behavior, it asks how cognitive work is *distributed* and *regulated* between human and AI collaborators turn-by-turn. This connects directly to the knowledge base's core theme of [[human-ai-collaboration]] and to [[collaborative-learning]] [[research-methods-aied|research]] on AI as a partner or mediator. Because generative AI is highly reactive to user input, the study argues, the quality of collaboration depends on how students allocate and offload cognition and whether they maintain [[metacognition|metacognitive]] oversight of the process.
 
 ## Three modes of human-AI collaboration
 
@@ -24,7 +24,7 @@ Using an agglomerative hierarchical clustering of the proportion of SEDA-adapted
 - **Concerted Interpretation (CI)** — students expand on ideas and construct arguments themselves (highest Elaboration, Reasoning, Agreement), treating the AI as a dialogic partner rather than an answer source.
 - **Delegated Elaboration (DE)** — students prompt the AI to elaborate, explain, or give examples (highest Elaboration Invitation and Team Dynamics), an exploratory middle ground.
 
-Epistemic Network Analysis showed distinct structural logics: in DR and DE, [[metacognition]] co-occurred with invitation-related actions (delegation and offloading), whereas in CI, metacognition was tied to human-initiated reasoning and elaboration — a difference the authors interpret as the difference between the student as "dispatcher" and the student as co-constructor.
+[[network-analysis|Epistemic Network Analysis]] showed distinct structural logics: in DR and DE, [[metacognition]] co-occurred with invitation-related actions (delegation and offloading), whereas in CI, metacognition was tied to human-initiated reasoning and elaboration — a difference the authors interpret as the difference between the student as "dispatcher" and the student as co-constructor.
 
 ## Efficiency versus regulatory engagement
 
@@ -34,7 +34,7 @@ The authors caution that efficient semantic coupling does not equal deep learnin
 
 ## Design implications
 
-Drawing on the tension between system efficiency and regulatory engagement, the authors propose four design principles for educational AI: prioritize **dialogic tension** over seamless efficiency (e.g., strategic decoupling, counterexamples); enable **proactive co-regulation** (AI that monitors for premature consensus and prompts reflection); embed **metacognitive diagnostics and scaffolding** to keep the "mind-in-the-loop"; and cultivate a **synergistic co-constructive ecology** where AI manages an inner loop of questioning while instructors steer an outer loop of value and strategy.
+Drawing on the tension between system efficiency and regulatory engagement, the authors propose four design principles for educational AI: prioritize **dialogic tension** over seamless efficiency (e.g., strategic decoupling, counterexamples); enable **proactive co-regulation** (AI that monitors for premature consensus and prompts reflection); embed **metacognitive diagnostics and [[scaffolding]]** to keep the "mind-in-the-loop"; and cultivate a **synergistic co-constructive ecology** where AI manages an inner loop of questioning while instructors steer an outer loop of value and strategy.
 
 ## Key Findings
 

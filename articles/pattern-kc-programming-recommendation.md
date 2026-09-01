@@ -14,7 +14,7 @@ Introductory programming instruction relies on hands-on practice and short learn
 
 Pattern-based Knowledge Components extracted from code samples enable automatic, instructionally-meaningful recommendation of programming practice activities; on an expert-bundled Python corpus the approach beats KC- and embedding baselines, helping instructors organize and recommend content at scale.
 
-This work connects to core knowledge base themes: [[knowledge-tracing]] [[personalized-learning]] [[adaptive-learning]] [[intelligent-tutoring]] [[programming-its]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
+This work connects to core knowledge base themes: [[knowledge-tracing]] [[personalized-learning]] [[adaptive-learning]] [[intelligent-tutoring]] [[programming-its]]. It highlights how [[generative-ai]] tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic [[student-engagement|engagement]] rather than enabling shallow bypass.
 
 ## Connected Concepts
 

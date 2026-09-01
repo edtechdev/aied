@@ -10,7 +10,7 @@ sources: ['raw/papers/2607.28109.md']
 confidence: medium
 ---
 
-Studies how organizing synthetic content into coherent book-level documents affects language model training, moving beyond local rewriting. Presents a scalable synthesis pipeline that retrieves source material, clusters it into topical units, and plans hierarchical textbook structures. Shows book-level organization significantly outperforms isolated content generation for educational knowledge acquisition in LLMs.
+Studies how organizing synthetic content into coherent book-level documents affects language [[pedagogical-llm-training|model training]], moving beyond local rewriting. Presents a scalable synthesis pipeline that retrieves source material, clusters it into topical units, and plans hierarchical textbook structures. Shows book-level organization significantly outperforms isolated content generation for educational knowledge acquisition in LLMs.
 
 ## Key Findings
 
@@ -24,11 +24,11 @@ Studies how organizing synthetic content into coherent book-level documents affe
 
 ## Why Organization Matters
 
-The authors argue that organization is not incidental. On the generation side, a book-level plan provides the scaffold needed to turn scattered retrieved materials into long, structured, and coherent textbook data rather than a collection of locally plausible passages. On the training side, preserving structure determines whether planned adjacent sections remain in a shared document with continuous positions and shared intra-document attention, or are split into independent examples with resets between sections.
+The authors argue that organization is not incidental. On the generation side, a book-level plan provides the [[scaffolding|scaffold]] needed to turn scattered retrieved materials into long, structured, and coherent textbook data rather than a collection of locally plausible passages. On the training side, preserving structure determines whether planned adjacent sections remain in a shared document with continuous positions and shared intra-document attention, or are split into independent examples with resets between sections.
 
 ## Implications for AI in Education
 
-For educational applications of [[llm]]s, the results indicate that the structure of training data is a design axis in its own right: pedagogically organized, book-level documents improve knowledge acquisition over isolated or locally rewritten content. The pipeline is scalable and source-grounded, offering a practical recipe for generating educational corpora at scale — of interest to researchers building synthetic textbooks for mid-training and to efforts that use [[generative-ai]] to produce learning materials. The controlled-comparison methodology also models how to isolate specific data-design factors, a discipline relevant to [[educational-nlp]] research on training data for education.
+For educational applications of [[llm]]s, the results indicate that the structure of training data is a design axis in its own right: pedagogically organized, book-level documents improve knowledge acquisition over isolated or locally rewritten content. The pipeline is scalable and source-grounded, offering a practical recipe for generating educational corpora at scale — of interest to [[research-methods-aied|researchers]] building synthetic textbooks for mid-training and to efforts that use [[generative-ai]] to produce learning materials. The controlled-comparison methodology also models how to isolate specific data-design factors, a discipline relevant to [[educational-nlp]] research on training data for education.
 
 ## Connected Concepts
 

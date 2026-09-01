@@ -23,7 +23,7 @@ confidence: high
 ## Key Findings
 
 1. Students overwhelmingly preferred **image-based debugging**, uploading photos of circuits and exam questions to capture full context — a pattern that grew from 2/5 chat logs in Spring 2025 to 5/12 in Fall 2025.
-2. Without any domain-specific fine-tuning, off-the-shelf [[llm|LLMs]] were able to **suggest true root causes** among their zero-shot debugging recommendations, at times demonstrating [[student-ai-interaction|chain-of-thought reasoning]].
+2. Without any [[discipline-specific-aied|domain-specific]] fine-tuning, off-the-shelf [[llm|LLMs]] were able to **suggest true root causes** among their zero-shot debugging recommendations, at times demonstrating [[student-ai-interaction|chain-of-thought reasoning]].
 3. LLMs' **3D spatial and visual reasoning was unreliable**: nearly all factual errors followed image inputs, as models could not correctly infer wiring and structural relationships from breadboard or PCB photos.
 4. LLMs displayed **unjustified confidence** in wrong diagnoses, while students showed **deficits in fundamental circuit concepts** and offloaded critical thinking to the AI.
 
@@ -35,11 +35,11 @@ Against these pain points, the authors position LLM collaboration as a potential
 
 ## Research Questions & Methodology
 
-The study poses three research questions: (1) What are students' usage patterns when debugging with LLMs? (2) What strengths do LLMs show in guiding debugging? (3) What gaps exist in LLM technologies or student skills? To answer them, the authors analyzed chat logs from a timed 30-minute lab final exam in which students debugged randomly assigned buggy circuits on breadboards and PCBs, shared their full [[conversational-ai|chat logs]] afterward, and completed a written worksheet on symptoms, root causes, and fixes. Analysis followed an inductive thematic analysis capturing both factual correctness and underlying trust in AI suggestions.
+The study poses three [[research-methods-aied|research]] questions: (1) What are students' usage patterns when debugging with LLMs? (2) What strengths do LLMs show in guiding debugging? (3) What gaps exist in LLM [[ai-technologies|technologies]] or student skills? To answer them, the authors analyzed chat logs from a timed 30-minute lab final exam in which students debugged randomly assigned buggy circuits on breadboards and PCBs, shared their full [[conversational-ai|chat logs]] afterward, and completed a written worksheet on symptoms, root causes, and fixes. Analysis followed an inductive thematic analysis capturing both factual correctness and underlying trust in AI suggestions.
 
 ## Findings: Students' Usage Patterns
 
-**Theme 1 — Students used images to capture all context.** Contrary to the expectation of verbal descriptions, students routinely photographed both the physical circuit and the exam assignment and uploaded them to the LLM. The authors attribute this to time pressure and the convenience of photos. This multimodal preference sets up the central tension of the study: students want to lean on visual evidence, but the AI's visual reasoning is precisely where it fails.
+**Theme 1 — Students used images to capture all context.** Contrary to the expectation of verbal descriptions, students routinely photographed both the physical circuit and the exam assignment and uploaded them to the LLM. The authors attribute this to time pressure and the convenience of photos. This [[multimodal]] preference sets up the central tension of the study: students want to lean on visual evidence, but the AI's visual reasoning is precisely where it fails.
 
 ## Findings: LLM Strengths
 
@@ -58,13 +58,13 @@ The study poses three research questions: (1) What are students' usage patterns 
 This study reveals a dual challenge for [[engineering-education|engineering education]]:
 
 1. **Tool limitations:** Current LLMs are not yet reliable for tasks requiring spatial reasoning about physical circuits, so students' natural preference for image-based debugging collides with the models' weakest capability. This signals a need for [[agentic-ai|domain-specific AI development]] — agentic systems or 3D visual tool use — to overcome visual recognition limits.
-2. **Pedagogical challenge:** Simply providing AI access does not replace the need for strong fundamental knowledge. Students must develop the [[critical-thinking|critical thinking]] skills to evaluate AI suggestions rather than offload their judgment.
+2. **[[pedagogy|Pedagogical]] challenge:** Simply providing AI access does not replace the need for strong fundamental knowledge. Students must develop the [[critical-thinking|critical thinking]] skills to evaluate AI suggestions rather than offload their judgment.
 
 For educators, the authors recommend encouraging AI as a conversational debugging guide while explicitly informing students of LLM imperfections in schematic recognition, cautioning against unjustified confident claims, and emphasizing fundamentals and independent thinking so students retain control of the debugging process. The findings support a [[scaffolding]] approach where AI tools complement rather than replace instructor-guided, [[problem-based-learning|hands-on]] learning.
 
 ## Limitations
 
-As an exploratory pilot, the study's small, self-selected sample of 17 chat logs limits generalizability. The authors note that a comprehensive mixed-methods approach — pairing the qualitative themes with quantitative measures — is planned future work, and more data collection is needed before the conclusions can be made robust (see [[limitations-in-aied-research|limitations in AI-education research]]).
+As an exploratory pilot, the study's small, self-selected sample of 17 chat logs limits generalizability. The authors note that a comprehensive [[mixed-methods-research|mixed-methods]] approach — pairing the qualitative themes with [[quantitative-research|quantitative]] measures — is planned future work, and more data collection is needed before the conclusions can be made robust (see [[limitations-in-aied-research|limitations in AI-education research]]).
 
 ## Connected Concepts
 

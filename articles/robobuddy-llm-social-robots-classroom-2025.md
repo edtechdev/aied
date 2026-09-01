@@ -10,22 +10,22 @@ sources: ['raw/papers/tozadore-robobuddy-llm-social-robots-2025.md']
 confidence: medium
 ---
 
-> **Synthesis:** Tozadore, Ertug, Chaker, and Abderrahim (2025) present RoboBuddy, an intuitive interface that lets teachers create scenario-based storytelling activities from their regular curriculum using LLMs and social robots. The system addresses two practical classroom challenges: the significant planning time required to create improvised scenarios for content delivery (intensified when using complex technologies like social robots), and the need to embed multicultural integration into an already tight curriculum. The authors co-designed activity frameworks with four teachers and deployed the system in a week-long study with 27 students.
+> **Synthesis:** Tozadore, Ertug, Chaker, and Abderrahim (2025) present RoboBuddy, an intuitive interface that lets teachers create scenario-based storytelling activities from their regular [[curriculum-design|curriculum]] using LLMs and social robots. The system addresses two practical classroom challenges: the significant planning time required to create improvised scenarios for content delivery (intensified when using complex [[ai-technologies|technologies]] like social robots), and the need to embed multicultural integration into an already tight curriculum. The authors co-designed activity frameworks with four teachers and deployed the system in a week-long study with 27 students.
 
 ## Key Findings
 
 - **RoboBuddy enables teachers to create scenario-based activities from their regular curriculum using LLMs and social robots**, reducing the planning burden associated with improvisational content delivery and social-robot use.
 - The system **addresses multicultural integration** within regular curriculum activities, tackling it as part of everyday learning rather than as a separate add-on.
 - **Co-design with four teachers** shaped the activity frameworks; the system was deployed in a study with 27 students over one week.
-- Findings validated the system's efficacy and highlighted the **positive impact of integration policies perceived by children**, and the importance of scenario-based activities for content engagement.
+- Findings validated the system's efficacy and highlighted the **positive impact of integration policies perceived by children**, and the importance of scenario-based activities for content [[student-engagement|engagement]].
 
 ## Study Design & Method
 
-This is a **design-based/co-design and deployment study**. The researchers co-designed scenario-based activity frameworks with four teachers using an LLM-powered interface that generates storytelling activities from curriculum content for a social robot. The system was deployed in a classroom study with 27 students over one week, evaluating the system's efficacy in delivering scenario-based learning content and supporting multicultural integration. Data collection involved the classroom deployment and assessment of children's perceptions.
+This is a **design-based/co-design and deployment study**. The [[research-methods-aied|researchers]] co-designed scenario-based activity frameworks with four teachers using an LLM-powered interface that generates storytelling activities from curriculum content for a social robot. The system was deployed in a classroom study with 27 students over one week, evaluating the system's efficacy in delivering scenario-based learning content and supporting multicultural integration. Data collection involved the classroom deployment and assessment of children's perceptions.
 
 ## Implications for AI in Education
 
-RoboBuddy demonstrates how [[llm|LLM-powered]] [[educational-robotics]] can make [[educational-robotics]] practical for teachers by lowering the planning barrier and integrating [[culturally-relevant-pedagogy|multicultural integration]] into regular [[k-12]] curriculum. It highlights the role of the [[teacher-role|teacher]] as orchestrator of scenario-based robotic activities and shows how generative AI can help teachers author content for social robots. This connects to [[educational-robotics]], [[storytelling-in-education|narrative-based learning]], and the use of embodied AI to support inclusive, culturally responsive classrooms.
+RoboBuddy demonstrates how [[llm|LLM-powered]] [[educational-robotics]] can make [[educational-robotics]] practical for teachers by lowering the planning barrier and integrating [[culturally-relevant-pedagogy|multicultural integration]] into regular [[k-12]] curriculum. It highlights the role of the [[teacher-role|teacher]] as orchestrator of scenario-based robotic activities and shows how [[generative-ai|generative AI]] can help teachers author content for social robots. This connects to [[educational-robotics]], [[storytelling-in-education|narrative-based learning]], and the use of [[embodied-learning|embodied]] AI to support inclusive, culturally responsive classrooms.
 
 ## Limitations
 

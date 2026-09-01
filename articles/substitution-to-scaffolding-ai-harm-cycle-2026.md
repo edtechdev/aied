@@ -17,7 +17,7 @@ confidence: high
 The paper's central conceptual contribution is a unifying mechanism that treats the scattered harms of AI — usually discussed in isolation — as one interconnected, self-reinforcing cycle:
 
 - **Cognition:** [[cognitive-offloading|Cognitive offloading]] reduces the effortful reasoning that builds durable understanding; large-scale studies link high AI dependence to lower performance on [[critical-thinking]] assessments, mediated by offloading. This connects directly to the knowledge base's over-reliance literature (see [[cognitive-offloading]] and the associated articles on the speedup illusion and synthesis [[writing-education|writing]]).
-- **Agency:** convenience and persuasive outputs erode [[agency]]; dependency undermines independent problem-solving, and overtrust leads students to accept AI output uncritically. The authors warn of **intellectual conformity** — ready-made answers nudging learners toward normative reasoning and standardized thought.
+- **Agency:** convenience and persuasive outputs erode [[agency]]; dependency undermines independent [[problem-solving]], and [[trust-calibration|overtrust]] leads students to accept AI output uncritically. The authors warn of **intellectual conformity** — ready-made answers nudging learners toward normative reasoning and standardized thought.
 - **Emotion:** reliance produces technostress, digital fatigue, AI guilt (feeling both assisted and inauthentic), and — for some — AI entitlement, a normative breakdown around effort and authorship.
 - **Ethics:** continuous data collection creates surveillance and power asymmetries; students' fear of being wrong suppresses experimentation and intellectual risk-taking. Notably, students in the corpus raised ethics mainly as **authorship and integrity** ("how can the school know they are originals and not just AI generated?") rather than [[privacy]].
 
@@ -25,12 +25,12 @@ The cycle is self-reinforcing because each dimension feeds the next: cognitive o
 
 ## The students' own words
 
-The framework is grounded in an exploratory qualitative analysis of 49 argumentative essays written by International Baccalaureate students (median age 17) from three German-speaking Swiss schools, responding to "Does using AI change what it means to learn?" Findings are descriptive, not generalizable:
+The framework is grounded in an exploratory [[qualitative-research|qualitative]] analysis of 49 argumentative essays written by International Baccalaureate students (median age 17) from three German-speaking Swiss schools, responding to "Does using AI change what it means to learn?" Findings are descriptive, not generalizable:
 
 - **80% (39/49)** explicitly linked AI reliance to reduced thinking — "the knowledge arrives without being earned, and unearthed knowledge tends not to stay."
 - **41%** endorsed effortful [[desirable-difficulties|retrieval or effort]] as valuable ("retrieving information from memory, even imperfectly, strengthens understanding").
 - **88% (43/49)** raised agency, most often as erosion of independent effort.
-- **53% (26/49)** named at least one behavior that *supports* rather than replaces thinking — withholding the solution, asking critical questions, prompting active recall, offering alternative explanations.
+- **53% (26/49)** named at least one behavior that *supports* rather than replaces thinking — withholding the solution, asking critical questions, [[prompt-engineering|prompting]] active recall, offering alternative explanations.
 - Yet **48 of 49** framed AI in terms of *replacement*, not scaffolding — the AI students say they need is not the AI they typically encounter.
 
 This convergence is striking because students' desiderata align almost exactly with established learning-science principles: effortful retrieval, [[desirable-difficulties|productive struggle]], delayed [[feedback]], and questioning. The authors note these are "not consumer preferences but pedagogically sound intuitions."
@@ -41,7 +41,7 @@ The single design principle that emerges — **scaffold, do not substitute** —
 
 For different stakeholders, the principle translates into distinct obligations:
 
-- **Researchers:** move beyond benchmarks of what AI can *produce* toward measures of what AI helps humans *develop* — understanding, judgment, agency, and independent thinking. The central question becomes whether systems strengthen human capacity over time or quietly replace the effort through which that capacity is built.
+- **[[research-methods-aied|Researchers]]:** move beyond [[benchmark|benchmarks]] of what AI can *produce* toward measures of what AI helps humans *develop* — understanding, judgment, agency, and independent thinking. The central question becomes whether systems strengthen human capacity over time or quietly replace the effort through which that capacity is built.
 - **System builders:** scaffolding must become a designed capability, not an afterthought.
 - **[[teacher-role|educators]], institutions, policymakers:** preserve the conditions under which learning occurs — productive struggle, reflection, intellectual agency — through tasks, [[assessment|assessments]], procurement, and [[governance]] structures.
 

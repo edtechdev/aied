@@ -35,7 +35,7 @@ Output is a ranked set of topic priorities with per-topic decision records expla
 - **Instructor alignment**: Top-5 mediated topics overlapped with instructor concerns on 3/5 topics; Spearman ρ = 0.80
 - **Student difficulty alignment**: ρ = 0.46 (p = .048) — captures something beyond simple difficulty surveys
 - **Isolated learner detection**: Multi-signal integration AUC = 0.96 vs. 0.91 for gap prevalence alone — identified 2 isolated learners not detected by any single signal
-- **Construct validity**: Reflective thinking, [[help-seeking]], and [[self-efficacy]] aligned with topic understanding scores
+- **[[assessment-validity|Construct validity]]**: Reflective thinking, [[help-seeking]], and [[self-efficacy]] aligned with topic understanding scores
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ This is one of the first systems to operationalize **[[human-ai-collaboration|hu
 
 - Single graduate [[cs-education|CS]] course (n=279 surveys, n=5 instructor interviews)
 - Preliminary findings — not yet generalizable across diverse contexts
-- Weights set by researcher co-design, not learned from data
+- Weights set by [[research-methods-aied|researcher]] co-design, not learned from data
 
 ## Connected Concepts
 

@@ -22,7 +22,7 @@ SAVVY is an interactive visual analytics system for video-based learning that in
 
 - A novel attention modeling framework based on multimodal brain signals enables stable tracking of student attention in real-world environments, addressing the noise susceptibility of existing attention quantification algorithms.
 - The system supports teachers in analyzing pilot cohorts' attention before releasing videos, reducing the guesswork of empirical revision by making attention patterns interpretable at scale.
-- The work connects AI-based attention estimation to instructional design practice, giving teachers an evidence base for when and where videos lose [[student-engagement|student engagement]] — a contribution to [[learning-analytics]] and [[multimodal|multimodal learning analytics]] in [[higher-ed|education]].
+- The work connects AI-based attention estimation to [[learning-design|instructional design]] practice, giving teachers an evidence base for when and where videos lose [[student-engagement|student engagement]] — a contribution to [[learning-analytics]] and [[multimodal|multimodal learning analytics]] in [[higher-ed|education]].
 
 ## Connected Concepts
 

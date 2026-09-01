@@ -13,11 +13,11 @@ confidence: high
 
 📄 [PDF](https://arxiv.org/pdf/2606.26565)
 
-This case study reports on a community-based participatory research project that co-designed an [[ai-literacy|AI literacy]] program for 54 adults (48 in-person and 6 virtual) in a predominantly African American community in the Midwestern United States. The program covered fundamental AI concepts, societal implications, and practical applications, using hands-on activities and concrete examples over abstract technical explanations.
+This case study reports on a community-based participatory [[research-methods-aied|research]] project that co-designed an [[ai-literacy|AI literacy]] program for 54 adults (48 in-person and 6 virtual) in a predominantly African American community in the Midwestern United States. The program covered fundamental AI concepts, societal implications, and practical applications, using hands-on activities and concrete examples over abstract technical explanations.
 
-Key findings highlight that [[equity-in-ai-education|equity-oriented]] AI education for underserved adult populations must address foundational digital literacy gaps, build trust around data privacy, and connect AI concepts to everyday lived experiences. This challenges the dominant focus on formal [[higher-ed|higher education]] settings for AI literacy initiatives and points toward more inclusive [[lifelong-learning|lifelong learning]] models.
+Key findings highlight that [[equity-in-ai-education|equity-oriented]] [[ai-education|AI education]] for underserved adult populations must address foundational digital literacy gaps, build trust around [[privacy|data privacy]], and connect AI concepts to everyday lived experiences. This challenges the dominant focus on formal [[higher-ed|higher education]] settings for AI literacy initiatives and points toward more inclusive [[lifelong-learning|lifelong learning]] models.
 
-The study contributes design considerations for [[edtech-platform|educational technology]] developers and [[educational-development|educators]] seeking to reach adults outside traditional educational institutions. The community-centered approach offers a replicable model for [[equity-in-ai-education|equity-focused]] AI education that prioritizes relevance, trust, and accessibility over technical depth.
+The study contributes design considerations for [[edtech-platform|educational technology]] developers and [[educational-development|educators]] seeking to reach adults outside traditional educational institutions. The community-centered approach offers a replicable model for [[equity-in-ai-education|equity-focused]] AI education that prioritizes relevance, trust, and [[accessibility]] over technical depth.
 
 ## Connected Concepts
 

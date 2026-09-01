@@ -9,7 +9,7 @@ sources: ['raw/papers/2606.24694.md']
 confidence: high
 ---
 
-SupplyNet is a gamified visual simulation system that uses a contextual graph-based [[llm]] multi-agent framework to model interdependent supply chain dynamics. Designed for [[professional-training]] in supply chain management (SCM), it replaces traditional abstract simulations with a manipulable decision space combining an interactive network view, a branching timeline for "what-if" exploration, and a task-oriented analysis console.
+SupplyNet is a [[game-based-learning|gamified]] visual simulation system that uses a contextual graph-based [[llm]] multi-agent framework to model interdependent supply chain dynamics. Designed for [[professional-training]] in supply chain management (SCM), it replaces traditional abstract [[simulation|simulations]] with a manipulable decision space combining an interactive network view, a branching timeline for "what-if" exploration, and a task-oriented analysis console.
 
 ## Key Features
 
@@ -17,7 +17,7 @@ SupplyNet is a gamified visual simulation system that uses a contextual graph-ba
 
 **Visual exploratory learning** is supported through three integrated components: an interactive network view showing real-time system state, a branching timeline enabling counterfactual comparison, and a task-oriented console for structured performance breakdowns. Together these support causal tracing and comparative reasoning.
 
-**User study results** suggest SupplyNet increases engagement and supports perceived understanding of supply chain dynamics, demonstrating the potential of pairing contextual multi-agent simulation with visualization for [[active-learning]] in operational domains.
+**User study results** suggest SupplyNet increases [[student-engagement|engagement]] and supports perceived understanding of supply chain dynamics, demonstrating the potential of pairing contextual multi-agent simulation with [[visualization]] for [[active-learning]] in operational domains.
 
 ## Implications for AI in Education
 

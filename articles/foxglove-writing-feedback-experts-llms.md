@@ -13,11 +13,11 @@ sources: ['raw/papers/2606.06271.md']
 confidence: high
 ---
 
-Introduces **FOXGLOVE**, a dataset of 696 feedback comments by trained writing instructors on 69 twelfth-grade argumentative essays, paired with 1,644 comments from four frontier LLMs — totaling 2,340 comments with expert quality ratings. Provides the first systematic comparison of LLM and expert feedback on three pedagogically critical dimensions: **goal-orientation, anchoring to specific sentences, and prioritization**.
+Introduces **FOXGLOVE**, a dataset of 696 feedback comments by trained writing instructors on 69 twelfth-grade argumentative essays, paired with 1,644 comments from four frontier LLMs — totaling 2,340 comments with expert quality ratings. Provides the first systematic comparison of [[llm]] and expert feedback on three pedagogically critical dimensions: **goal-orientation, anchoring to specific sentences, and prioritization**.
 
 **Key findings:** Instructors and LLMs distribute feedback similarly across revision goals and essay positions, but diverge significantly on which specific sentences receive feedback. Models write more complex feedback and use fewer questions than human instructors. LLM feedback receives higher quality ratings on most dimensions — but much of this advantage is attributable to lengthier comments inflating perceived quality.
 
-This work directly informs the design of [[formative-assessment|AI writing feedback systems]], highlighting the need to evaluate [[ai-feedback-quality|feedback quality]] beyond surface-level ratings and to consider pedagogical factors like [[writing-education|feedback anchoring and prioritization]]. Relevant to both [[k-12|secondary]] and [[higher-ed|higher education]] writing instruction.
+This work directly informs the design of [[formative-assessment|AI writing feedback systems]], highlighting the need to evaluate [[ai-feedback-quality|feedback quality]] beyond surface-level ratings and to consider [[pedagogy|pedagogical]] factors like [[writing-education|feedback anchoring and prioritization]]. Relevant to both [[k-12|secondary]] and [[higher-ed|higher education]] writing instruction.
 
 ## Connected Concepts
 

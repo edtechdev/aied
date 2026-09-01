@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T09:45:00-04:00"
 connected_faqs: [faculty-ai-competencies]
 type: concept
 tags: [ai-literacy, educational-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy]
@@ -10,13 +10,13 @@ level: [k 12, higher ed]
 confidence: high
 ---
 
-> **Teacher AI competency** — the knowledge, skills, and dispositions teachers need to effectively, ethically, and equitably integrate AI into teaching and learning. It extends beyond technical tool use to include pedagogical integration, [[assessment|assessment literacy]], ethical judgment, and the confidence to [[ai-literacy|use AI well]]. Teacher AI competency is the teacher-side counterpart to [[ai-literacy]], and is developed through [[educational-development|professional development]]. It is central to how [[teacher-role|the teacher's role]] is transforming in AI-augmented classrooms.
+> **Teacher AI competency** — the knowledge, skills, and dispositions teachers need to effectively, ethically, and equitably integrate AI into teaching and learning. It extends beyond technical tool use to include [[pedagogy|pedagogical]] integration, [[assessment|assessment literacy]], ethical judgment, and the confidence to [[ai-literacy|use AI well]]. Teacher AI competency is the teacher-side counterpart to [[ai-literacy]], and is developed through [[educational-development|professional development]]. It is central to how [[teacher-role|the teacher's role]] is transforming in AI-augmented classrooms.
 
 ## Questions to Consider
 
 - The page argues the teacher is 'the decisive factor' in whether AI improves learning — that tools only help when teachers can plan for them, scaffold use, and evaluate outputs. Does that match your experience, or do you think the tool itself matters more than the teacher?
 - Teacher AI competency spans technical proficiency, pedagogical integration, assessment literacy, and ethical judgment. Which of these do you think teachers most lack, and which is hardest to train?
-- The research documents a gap between teachers' self-perceived and actual AI skill. Why do you think people overestimate their readiness, and what would it take to close that gap honestly?
+- The [[research-methods-aied|research]] documents a gap between teachers' self-perceived and actual AI skill. Why do you think people overestimate their readiness, and what would it take to close that gap honestly?
 - An intensive professional-development program produced large gains in AI pedagogical skill in the research cited, suggesting technical-pedagogical skill is trainable. If that's true, why do so many teachers still seem unprepared — what's standing in the way?
 - If a teacher can 'use AI well,' what does 'well' mean to you — and how would you know a teacher has achieved it rather than just adopted the tool?
 
@@ -29,7 +29,7 @@ Teacher AI competency matters because the teacher is the decisive factor in whet
 The knowledge base's research converges on several interconnected dimensions:
 
 - **Technical proficiency:** crafting effective [[prompt-engineering|prompts]] for educational objectives, evaluating AI tools for pedagogical fit and safety, and troubleshooting failures in real time. [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] documented significant gains across all five AI-PCK components (overall *d* = 2.36), showing technical-pedagogical skill is trainable.
-- **Pedagogical integration:** mapping AI use to learning objectives, designing [[scaffolding]] that supports student [[metacognition]] and self-regulation, and integrating AI into [[learning-design|instructional design]]. [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] models how teachers combine technological, pedagogical, and content knowledge through multi-agent workflows, while [[teacher-ai-teaming-five-levels|a five-level teacher-AI teaming framework]] (transactional → synergistic) captures how GenAI may replace, complement, or augment teacher competence.
+- **Pedagogical integration:** mapping AI use to learning objectives, designing [[scaffolding]] that supports student [[metacognition]] and self-[[regulation]], and integrating AI into [[learning-design|instructional design]]. [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] models how teachers combine technological, pedagogical, and content knowledge through multi-agent workflows, while [[teacher-ai-teaming-five-levels|a five-level teacher-AI teaming framework]] (transactional → synergistic) captures how [[generative-ai|GenAI]] may replace, complement, or augment teacher competence.
 - **Assessment literacy:** evaluating AI-generated content and student AI outputs, and understanding how [[assessment-validity|validity]] shifts when students use AI. This connects to [[automated-assessment]], [[ai-detection]], and the broader [[assessment]] redesign agenda.
 - **Ethical and critical use:** recognizing bias in AI outputs, protecting student data ([[privacy]]), and ensuring equitable outcomes ([[equity-in-ai-education]]). [[llm-cultural-relevance-k12|Culturally relevant AI use]] examines how teachers can use LLMs to diversify materials rather than reinforce dominant norms.
 - **Confidence and attitudes:** teacher [[self-efficacy|confidence]] shapes adoption. [[teacher-ai-adoption-confidence|Adoption research]] finds confidence, support, and perceived utility drive whether teachers actually use AI, and [[ai-pedagogical-orientation|faculty orientations]] shape adoption in research and teaching.
@@ -42,7 +42,7 @@ A key finding is the **gap between self-reported and performance-based competenc
 
 The knowledge base's PD literature identifies effective approaches:
 
-- **Intensive, theory-grounded programs:** [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] with 163 teachers/pre-service teachers produced significant gains across all AI-PCK components, with pre-service teachers benefiting most. [[teacher-education-ai-literacy-sdt-2026|Self-determination-theory-based PD]] shows need-supportive training improves teachers' AI literacy, attitudes, and engagement while reducing anxiety.
+- **Intensive, theory-grounded programs:** [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] with 163 teachers/pre-service teachers produced significant gains across all AI-PCK components, with pre-service teachers benefiting most. [[teacher-education-ai-literacy-sdt-2026|Self-determination-theory-based PD]] shows need-supportive training improves teachers' AI literacy, attitudes, and [[student-engagement|engagement]] while reducing anxiety.
 - **Design-based and integrated approaches:** [[genai-literacy-training-teacher-education-dbr-2026|DBR-based GenAI literacy training]] addresses the overemphasis on technical knowledge and pre-GenAI tools; [[rail-ed-genai-literacy-teacher-education|integrative, developmental frameworks]] and [[sec-ai-literacy-narrative-review-2026|social-emotional competency integration]] broaden literacy beyond pure technique.
 - **Inquiry and authentic practice:** [[quest-ai-inquiry-preservice-teachers|AI-supported inquiry models]] build AI literacy and authentic performance in pre-service teachers.
 - **Context-specific readiness:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI readiness framework]] emphasizes that faculty readiness is a sociotechnical issue requiring alignment of faculty capacity, [[governance]], and quality assurance.
@@ -55,11 +55,11 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 ## Implications for AI in education
 
 - **Assess performance, not just self-report:** teacher competency should be evaluated through demonstration, given the documented self-report gap.
-- **Train the full competency, not just tools:** PD should build technical, pedagogical, assessment, and ethical dimensions together, grounded in learning theory.
+- **Train the full competency, not just tools:** PD should build technical, pedagogical, assessment, and ethical dimensions together, grounded in [[learning-theories|learning theory]].
 - **Build confidence alongside skill:** attitudes and [[self-efficacy]] shape adoption, so PD should reduce anxiety and build confidence through authentic, supported practice.
 - **Support the institutional layer:** sustainable teacher competency requires aligned policy, governance, and capacity, not isolated training.
 
-- **Teacher digital competence for GenAI curriculum design.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validate a TAM-based diagnostic instrument with 434 in-service teachers; behavioural intention was the main predictor of digital competence for using GenAI in curriculum planning, with self-efficacy as a root driver.
+- **Teacher digital competence for GenAI [[curriculum-design|curriculum design]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validate a TAM-based diagnostic instrument with 434 in-service teachers; behavioural intention was the main predictor of digital competence for using GenAI in curriculum planning, with self-efficacy as a root driver.
 ## Connected Concepts
 
 - [[ai-literacy]]
@@ -114,3 +114,4 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
+- [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework + PD for Ukrainian secondary educators (Marienko et al. 2026)

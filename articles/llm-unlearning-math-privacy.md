@@ -11,15 +11,15 @@ sources: ['raw/papers/caeai-llm-unlearning-math.md']
 confidence: medium
 ---
 
-> **Synthesis:** Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education
+> **Synthesis:** Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for [[math-education|mathematics]] education
 
 ## Key Findings
 
-- The study applies **gradient-based LLM unlearning** to **three models** — Math-GPT-J, Llama-Lora (Llama-1), and Llama-2-QLora (Llama-2), open-source math-focused LLMs extended from the authors' prior work — pre-trained on approximately **3 million data points** from an Algebra I online discussion forum (Algebra Nation) between students and professional tutors.
+- The study applies **gradient-based [[llm]] unlearning** to **three models** — Math-GPT-J, Llama-Lora (Llama-1), and Llama-2-QLora (Llama-2), [[open-source]] math-focused LLMs extended from the authors' prior work — pre-trained on approximately **3 million data points** from an Algebra I online discussion forum (Algebra Nation) between students and professional tutors.
 - **PII and harmful content were detected on the training data** and targeted for unlearning in **two different orders** (PII-first and harmful-content-first, labeled P→H and H→P), producing two unlearned variants per base model.
 - The PII forget dataset was dominated by **person names (93.28%)**, reflecting the forum context; the harmful-content forget set was dominated by **harassment (10,367 messages)**, with toxic content the smallest category (861 messages).
 - Before unlearning, PII-containing output rates were substantial (Llama-1: 17.8%; Llama-2: 15.8%; GPT-J: 15.7%; clean-data baselines 13.9%, 11.5%, 16.5%); after the harmful→PII unlearning order, rates fell to **0.1% for all three models**, while the PII→harmful order was somewhat less effective (Llama-1: 1.0%; Llama-2: 1.8%; GPT-J: 0.2%).
-- After unlearning, the **rates of PII-containing output and harmfulness substantially decreased** compared to the pre-trained models; on the external RealToxicityPrompts benchmark, harassment, offensive, and toxic output rates fell to **0.0% across all three model families** — interpreted as cross-dataset consistency, since baseline rates on that benchmark were already low.
+- After unlearning, the **rates of PII-containing output and harmfulness substantially decreased** compared to the pre-trained models; on the external RealToxicityPrompts [[benchmark]], harassment, offensive, and toxic output rates fell to **0.0% across all three model families** — interpreted as cross-dataset consistency, since baseline rates on that benchmark were already low.
 - **Utility was maintained** on both **single-label and multi-label downstream math classification tasks**: F1 scores for unlearned models remained comparable to pre-trained baselines across training-instance conditions (roughly 0.80–0.84, e.g., Llama-1 pre-trained 0.809 vs. unlearned H→P 0.809 at n = 100).
 - Sensitivity analyses showed the PII reductions were robust across learning rates and unlearning sample sizes (20K–150K), though larger forget samples did not produce monotonic improvement — effectiveness was not simply a function of using more unlearning examples.
 - The findings demonstrate a practical path to making LLM-based math tutors **more responsible and privacy-preserving** while retaining strong performance on math-related tasks.

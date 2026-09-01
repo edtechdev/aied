@@ -11,13 +11,13 @@ sources: ['raw/papers/2608.01705.md']
 confidence: high
 ---
 
-> **RAIL-Ed is an integrative, developmental, and dialectical framework for [[generative-ai|generative AI]] [[ai-literacy|literacy]] in [[k-12|K-12]] [[teacher-education|teacher education]], built from a systematic review of 67 studies and specifying six interdependent pillars with a three-level maturity rubric.**
+> **RAIL-Ed is an integrative, developmental, and dialectical framework for [[generative-ai|generative AI]] [[ai-literacy|literacy]] in [[k-12|K-12]] [[teacher-education|teacher education]], built from a [[meta-analysis-systematic-review|systematic review]] of 67 studies and specifying six interdependent pillars with a three-level maturity rubric.**
 
 **Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha** — arXiv (cs.CY / cs.HC) preprint, 2026 (UMBC, Kent State, Penn State, University of Alabama, etc.).
 
 ## Synthesis
 
-Developed through a systematic review and qualitative framework analysis of 67 studies (2023-2025), grounded in critical, pragmatist, [[sociocultural-learning|sociocultural]], and human-centered traditions (Freire, Dewey, Vygotsky, Shneiderman).
+Developed through a systematic review and [[qualitative-research|qualitative]] framework analysis of 67 studies (2023-2025), grounded in critical, pragmatist, [[sociocultural-learning|sociocultural]], and human-centered traditions (Freire, Dewey, Vygotsky, Shneiderman).
 
 Specifies six interdependent pillars: Technical Fluency, [[critical-thinking|Critical Evaluation]], [[human-ai-collaboration|Human-AI Collaboration]], Contextual Awareness, [[ethics|Ethical Reasoning]], and Empowered [[agency|Agency]] — the absence of any pillar produces a characteristic [[pedagogy|pedagogical]] failure.
 

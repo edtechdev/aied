@@ -19,7 +19,7 @@ Traditional [[assessment|assessment methods]] such as quizzes and exams are indi
 
 ## Methodological rigor: trial-independent evaluation
 
-The central methodological contribution is the contrast between two validation schemes. Standard stratified cross-validation allows temporal leakage across neighboring epochs, producing inflated estimates (up to 0.9853 F1 with CNN). A rigorous trial-independent validation (Group K-Fold), which respects the temporal structure of the data, drops peak performance to 0.6038 F1 (CNN) — still statistically significant above the 25% chance level. This demonstrates the critical necessity of trial-independent evaluation to avoid overestimating model generalizability, a lesson directly relevant to [[ai-ed-evaluation|AI evaluation]] and [[limitations-in-aied-research|the limitations of AI in education research]].
+The central [[research-methods-aied|methodological]] contribution is the contrast between two validation schemes. Standard stratified cross-validation allows temporal leakage across neighboring epochs, producing inflated estimates (up to 0.9853 F1 with CNN). A rigorous trial-independent validation (Group K-Fold), which respects the temporal structure of the data, drops peak performance to 0.6038 F1 (CNN) — still statistically significant above the 25% chance level. This demonstrates the critical necessity of trial-independent evaluation to avoid overestimating model generalizability, a lesson directly relevant to [[ai-ed-evaluation|AI evaluation]] and [[limitations-in-aied-research|the limitations of AI in education research]].
 
 ## Neural biomarkers and feature importance
 

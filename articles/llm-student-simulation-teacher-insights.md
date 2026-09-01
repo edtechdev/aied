@@ -11,16 +11,16 @@ sources: ['raw/papers/llm-student-simulation-teacher-insights.md']
 confidence: high
 ---
 
-> **Synthesis:** Semi-structured interviews with 12 teachers who tutored [[simulating-students|LLM-simulated students]] (MathDial dataset) reveal key authenticity gaps: overly complex language, lack of emotions, unnatural attentiveness, and logical inconsistency. The study categorizes four real-world student behavior types along scaffolding and presence dimensions, and provides design guidelines for building higher-fidelity LLM student simulations.
+> **Synthesis:** Semi-structured interviews with 12 teachers who tutored [[simulating-students|LLM-simulated students]] (MathDial dataset) reveal key authenticity gaps: overly complex language, lack of emotions, unnatural attentiveness, and logical inconsistency. The study categorizes four real-world student behavior types along scaffolding and presence dimensions, and provides design guidelines for building higher-fidelity LLM student [[simulation|simulations]].
 
 ## Methodology
 
 Martynova et al. interviewed 12 teachers who had extensively interacted with [[simulating-students|LLM-simulated students]] during collection of the MathDial [[intelligent-tutoring|dialogue tutoring]] dataset. The study used a mixed-method approach grounded in two frameworks:
 
-- **Community of Inquiry (CoI)** — capturing social and cognitive presence in learning interactions
-- **[[scaffolding|Scaffolding theory]]** — effective teaching through graduated support
+- **[[community-of-inquiry|Community of Inquiry]] (CoI)** — capturing social and cognitive presence in learning interactions
+- **[[scaffolding|Scaffolding theory]]** — effective [[teacher-role|teaching]] through graduated support
 
-Teachers tutored [[llm|LLM]] students in [[k-12|K-12]] [[math-education|math]] problem-solving dialogues, then rated realism and described deviations from authentic student behavior.
+Teachers tutored [[llm|LLM]] students in [[k-12|K-12]] [[math-education|math]] [[problem-solving]] dialogues, then rated realism and described deviations from authentic student behavior.
 
 ## Key Findings
 
@@ -47,7 +47,7 @@ LLMs captured the bottom-right quadrant reasonably well but failed to represent 
 
 ## Design Guidelines
 
-1. **Diverse personalities** — model Big Five personality traits to produce varied engagement levels and emotional responses
+1. **Diverse personalities** — model Big Five personality traits to produce varied [[student-engagement|engagement]] levels and emotional responses
 2. **Gradual knowledge building** — integrate [[knowledge-tracing|knowledge tracing]] to avoid unrealistic knowledge jumps
 3. **Model forgetting** — account for memory decay over time
 4. **Promote question-asking** — use context-aware triggers for the LLM student to ask questions

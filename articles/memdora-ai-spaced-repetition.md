@@ -17,13 +17,13 @@ Presents Memdora, a cross-platform AI spaced repetition system that addresses li
 - Spaced repetition systems have robust effects on long-term retention, but existing tools reduce flashcard interaction to a single **binary gesture: flip and self-rate**, an impoverished model that fails to leverage decades of cognitive science evidence on retrieval practice.
 - Memdora contributes a **taxonomy of 17 cognitively-grounded interaction types** across three learning categories — **Language (6 types), By Heart (1 type with 3 retrieval modes), and Exam (10 types)** — each mapped to peer-reviewed cognitive science evidence displayed on every card.
 - A **unified AI generation pipeline** collapses card creation to a **single gesture at the point of reading**, across web, mobile, and three browser extensions (Chrome, Edge, Firefox), reducing the need to context-switch out of reading flow.
-- A **collaborative classroom layer** enables teachers to publish decks, assign them to students, and **track learning outcomes at the individual card level**.
-- An **effort-based behavioral reward system** incentivizes actual cognitive engagement rather than mere app presence, and the system integrates **FSRS-6**, the current state-of-the-art spaced repetition algorithm.
+- A **collaborative classroom layer** enables teachers to publish decks, assign them to students, and **track [[learning-gains|learning outcomes]] at the individual card level**.
+- An **effort-based behavioral reward system** incentivizes actual cognitive [[student-engagement|engagement]] rather than mere app presence, and the system integrates **FSRS-6**, the current state-of-the-art spaced repetition algorithm.
 - Memdora is **deployed publicly on iOS, Android, Web, and three browser extensions**, advancing beyond prior AI flashcard systems including SmartFlash and KARL.
 
 ## Design Rationale
 
-The design rationale treats the flashcard as a full retrieval-practice instrument rather than a passive review object. The forgetting curve first described by Ebbinghaus — roughly **70% of newly learned material forgotten within 24 hours** without review — motivates scheduling, while the interaction taxonomy maps each interaction type to peer-reviewed evidence, so learners see the cognitive rationale behind the activity. The effort-based reward system extends this by rewarding the actual work of retrieval rather than time spent in the app, connecting to [[self-regulated-learning]] and to retrieval-practice research.
+The design rationale treats the flashcard as a full retrieval-practice instrument rather than a passive review object. The forgetting curve first described by Ebbinghaus — roughly **70% of newly learned material forgotten within 24 hours** without review — motivates scheduling, while the interaction taxonomy maps each interaction type to peer-reviewed evidence, so learners see the cognitive rationale behind the activity. The effort-based reward system extends this by rewarding the actual work of retrieval rather than time spent in the app, connecting to [[self-regulated-learning]] and to retrieval-practice [[research-methods-aied|research]].
 
 ## Implications for AI in Education
 

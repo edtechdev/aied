@@ -24,7 +24,7 @@ Hybrid systems that combine GenAI with explicit [[pedagogy|pedagogical]] models 
 
 - **Socratic Playground (SPL)**: Uses [[socratic-method|Socratic questioning]] to develop subject knowledge, [[critical-thinking|critical thinking]] and reflection rather than providing direct answers
 - **Khanmigo**: Withholds answers and guides reasoning through questioning
-- **JeepyTA**: AI teaching assistant in university contexts rated comparable to human TAs in clarity and accuracy
+- **JeepyTA**: AI [[teacher-role|teaching]] assistant in university contexts rated comparable to human TAs in clarity and accuracy
 - **Tutor Copilot**: Mobilises less-qualified tutors effectively through AI support
 
 The report draws a sharp line: GenAI tools "designed or used with an intentional pedagogical purpose" produce sustained learning improvements; tools used as answer-dispensing shortcuts do not. See [[intelligent-tutoring|AI Tutoring]].
@@ -45,7 +45,7 @@ The augmentation paradigm preserves professional judgment while achieving the gr
 
 ## Purpose-Built vs General-Purpose
 
-Chapter 8 makes the case for purpose-built educational GenAI systems co-created with teachers and students. These tools would give teachers control over AI behaviour — including setting the level of "[[hallucination-risk|hallucinations]]" — and enable monitoring of student-AI interactions. The tools should align with specific curricula rather than being generic, and maintain teacher autonomy over course design and enactment.
+Chapter 8 makes the case for purpose-built educational GenAI systems co-created with teachers and students. These tools would give teachers control over AI behaviour — including setting the level of "[[hallucination-risk|hallucinations]]" — and enable monitoring of student-AI interactions. The tools should align with specific curricula rather than being generic, and maintain teacher autonomy over [[learning-design|course design]] and enactment.
 
 ## Collaborative Learning and Creativity
 
@@ -53,7 +53,7 @@ GenAI supports [[collaborative-learning]] in four roles: information hub, person
 
 ## System-Level and Assessment Applications
 
-At the [[governance|institutional]] level, GenAI enables: [[curriculum-design|curriculum]] mapping between courses/programs, admissions and career guidance analytics, standardised assessment [[automated-question-generation|item generation]], interactive writing and speaking assessments, and synthetic datasets for education research (Chs. 11–13).
+At the [[governance|institutional]] level, GenAI enables: [[curriculum-design|curriculum]] mapping between courses/programs, admissions and career guidance analytics, standardised assessment [[automated-question-generation|item generation]], interactive writing and speaking assessments, and synthetic datasets for education [[research-methods-aied|research]] (Chs. 11–13).
 
 ## Policy Recommendations
 

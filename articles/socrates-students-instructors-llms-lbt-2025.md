@@ -11,7 +11,7 @@ sources: ['raw/papers/raw-yang-socrates-lbt.md']
 confidence: high
 ---
 
-> **Synthesis:** Yang, Pujara, and Li (2025) present a pedagogical paradigm that **inverts the virtual-tutor model**: instead of an [[llm|LLM]] tutoring students, students act as instructors who must teach an LLM to solve problems. They develop strategies for designing questions with engineered knowledge gaps that only a student can bridge, and introduce **Socrates**, a system deploying this method with minimal overhead. Evaluated in an undergraduate course, the approach led to statistically significant improvements in student performance compared to historical cohorts.
+> **Synthesis:** Yang, Pujara, and Li (2025) present a [[pedagogy|pedagogical]] paradigm that **inverts the virtual-tutor model**: instead of an [[llm|LLM]] tutoring students, students act as instructors who must teach an LLM to solve problems. They develop strategies for designing questions with engineered knowledge gaps that only a student can bridge, and introduce **Socrates**, a system deploying this method with minimal overhead. Evaluated in an undergraduate course, the approach led to statistically significant improvements in student performance compared to historical cohorts.
 
 ## Inverting the Tutor–Student Relationship
 
@@ -19,12 +19,12 @@ confidence: high
 
 ## The Approach: Engineered Knowledge Gaps
 
-The method relies on **questions with engineered knowledge gaps that only a student can bridge** — problems designed so the LLM cannot solve them without knowledge the student uniquely possesses. The student must explain, teach, and fill the gap, consolidating their own understanding through the act of teaching. The **Socrates** system operationalizes this with minimal overhead for instructors.
+The method relies on **questions with engineered knowledge gaps that only a student can bridge** — problems designed so the LLM cannot solve them without knowledge the student uniquely possesses. The student must explain, teach, and fill the gap, consolidating their own understanding through the act of [[teacher-role|teaching]]. The **Socrates** system operationalizes this with minimal overhead for instructors.
 
 ## Key Findings
 
 - **Statistically significant improvements.** The [[active-learning]] method led to significant improvements in student performance compared to historical cohorts in an undergraduate course.
-- **Practical and cost-effective.** Socrates demonstrates a low-overhead framework for using LLMs to deepen student engagement and mastery.
+- **Practical and cost-effective.** Socrates demonstrates a low-overhead framework for using LLMs to deepen [[student-engagement|student engagement]] and mastery.
 - **Addresses over-reliance.** By making students the instructors, the paradigm counters the passive learning and [[cognitive-offloading|over-reliance]] associated with LLM-as-tutor use.
 
 ## Implications

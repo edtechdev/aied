@@ -10,15 +10,15 @@ discipline: [physics education]
 sources: ['raw/papers/2607.28210.md']
 confidence: high
 ---
-> **Authors:** Markus S. Feser, Paul L. Tschisgale (Leibniz Institute for Science and Mathematics Education, Kiel, Germany)
+> **Authors:** Markus S. Feser, Paul L. Tschisgale (Leibniz Institute for Science and [[math-education|Mathematics]] Education, Kiel, Germany)
 ## Key Findings
-This study examined whether AI-based scoring can assess students' conceptual understanding **independently of the linguistic quality** of their text-based explanations in physics. The researchers compared scores from **9 machine learning (ML) approaches and 2 large language model (LLM) approaches** against human expert scores for 116 secondary-school students' physics explanations.
+This study examined whether AI-based scoring can assess students' conceptual understanding **independently of the linguistic quality** of their text-based explanations in [[physics-education|physics]]. The [[research-methods-aied|researchers]] compared scores from **9 [[reinforcement-learning|machine learning]] (ML) approaches and 2 large language model ([[llm]]) approaches** against human expert scores for 116 secondary-school students' physics explanations.
 ### The Language Bias Problem
 - **Systematic underestimation**: Explanations of lower linguistic quality were systematically more likely to receive lower AI-generated conceptual understanding scores than experts assigned — a bias that emerged across **every single AI-based scoring approach** tested.
 - **Asymmetric effect**: Higher linguistic quality showed **no comparable link** to overestimation. The bias only runs in one direction: linguistically weak students are penalized, but linguistically strong students are not inflated.
 - **Mirrors human bias**: This language bias closely resembles that previously reported for **physics teachers** themselves (Feser & Höttecke, 2021), suggesting the difficulty lies less in any particular assessor (human or machine) than in the fundamental nature of inferring conceptual understanding from text-based explanations.
 ### Disproportionate Impact
-The stakes fall hardest on **multilingual learners**, whose language proficiency may be misread as weaker conceptual understanding. This is especially concerning as AI-based scoring takes on higher-stakes assessment decisions.
+The stakes fall hardest on **[[multilingual-learning|multilingual]] learners**, whose language proficiency may be misread as weaker conceptual understanding. This is especially concerning as AI-based scoring takes on higher-stakes assessment decisions.
 ## Relevance to AI in Education
 This paper makes a critical contribution to the [[automated-assessment]] and [[automated-essay-scoring]] literature by demonstrating that the [[bias-mitigation]] problem in AI scoring is not merely a technical artifact of specific models but appears to be **fundamental to the task itself**. Key connections:
 - **Not just an AI problem**: The finding that the same [[bias-mitigation]] pattern exists in human physics teachers challenges the assumption that AI introduces unique biases. Instead, it suggests a deeper [[assessment-validity]] challenge: distinguishing conceptual understanding from linguistic expression in text-based explanations is inherently difficult.
@@ -30,7 +30,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 ## Implications
 1. **Benchmarking AI scoring**: AI-based scoring systems should be explicitly evaluated for language bias, not just overall agreement with human scores.
 2. **High-stakes caution**: As AI scoring moves toward higher-stakes decisions, the asymmetric language bias becomes increasingly consequential.
-3. **Multimodal assessment**: The findings support calls for assessment approaches that reduce dependence on linguistic production, particularly for [[language-learning]] populations.
+3. **[[multimodal]] assessment**: The findings support calls for assessment approaches that reduce dependence on linguistic production, particularly for [[language-learning]] populations.
 4. **Teacher-AI collaboration**: Rather than replacing teacher assessment, AI scoring may be most useful when teachers remain in the loop to calibrate for language effects.
 ## Connected Concepts
 - [[automated-assessment]]

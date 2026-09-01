@@ -11,7 +11,7 @@ sources: ['raw/papers/huang-interpretable-knowledge-tracing-2026.md']
 confidence: medium
 ---
 
-> **Interpretable Knowledge Tracing** — A novel framework for dialogue-based Knowledge Tracing that explicitly models both student ability and tutor-turn difficulty using Item Response Theory, producing interpretable cognitive quantities from LLM output logits. Addresses two critical gaps in prior work: ignored question difficulty and opaque latent representations that undermine tutor trust.
+> **Interpretable Knowledge Tracing** — A novel framework for dialogue-based Knowledge Tracing that explicitly models both student ability and tutor-turn difficulty using Item Response Theory, producing interpretable cognitive quantities from [[llm]] output logits. Addresses two critical gaps in prior work: ignored question difficulty and opaque latent representations that undermine tutor trust.
 
 **Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Andrew Lan** (UMass Amherst) — arXiv:2605.01097, May 2026.
 
@@ -37,9 +37,9 @@ This work bridges a critical gap between the predictive power of LLMs and the in
 
 The difficulty-aware component addresses a well-known blind spot in [[student-modeling]]: student performance is a joint function of knowledge and task demands. By disentangling these, the framework avoids falsely attributing poor performance to low knowledge when a tutor has simply asked a harder question, or conversely, mistaking scaffolded success for mastery. This connects to broader work on  that uses IRT to add structure to neural KT models.
 
-The logit-extraction approach is notable for its simplicity — rather than training separate classifiers or using complex prompting strategies, it repurposes the LLM's own vocabulary probabilities as cognitive signals. This technique relates to emerging work on using LLM internal representations for educational assessment, including [[neural-symbolic-knowledge-tracing]].
+The logit-extraction approach is notable for its simplicity — rather than training separate classifiers or using complex [[prompt-engineering|prompting]] strategies, it repurposes the LLM's own vocabulary probabilities as cognitive signals. This technique relates to emerging work on using LLM internal representations for educational assessment, including [[neural-symbolic-knowledge-tracing]].
 
-For practical deployment, the framework's interpretability enables several downstream applications: tutors can receive real-time alerts when student ability drops below a threshold; difficulty estimates can guide adaptive scaffolding decisions; and longitudinal θ trajectories can track learning over multiple sessions. The explicit difficulty model also supports better [[ai-tutor-authoring-promptdecipher]] by helping content creators understand which tutor utterances are most effective at different ability levels.
+For practical deployment, the framework's interpretability enables several downstream applications: tutors can receive real-time alerts when student ability drops below a threshold; difficulty estimates can guide [[scaffolding|adaptive scaffolding]] decisions; and longitudinal θ trajectories can track learning over multiple sessions. The explicit difficulty model also supports better [[ai-tutor-authoring-promptdecipher]] by helping content creators understand which tutor utterances are most effective at different ability levels.
 
 Future work should extend the framework to multi-skill settings (where students may have different abilities across different knowledge components), explore fine-tuning strategies that further improve the knowledge and difficulty estimators, and validate the approach in live tutoring deployments with real tutor feedback on interpretability quality.
 

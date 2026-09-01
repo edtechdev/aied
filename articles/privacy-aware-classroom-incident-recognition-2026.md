@@ -11,7 +11,7 @@ sources: ['raw/papers/2608.05115.md']
 confidence: medium
 ---
 
-> **Synthesis:** Pilot study on privacy-aware computer vision for classroom incident detection. Introduces a hybrid benchmark combining generative CCTV-style videos with real classroom pose data. Proposes a lightweight motion reasoning model that achieves strong incident recognition while preserving student privacy (no facial recognition). Demonstrates that efficient motion-based features can generalize across classroom environments without collecting identifiable student data. [[privacy]], [[k-12]], [[multimodal]], [[edtech-platform]], and benchmark.
+> **Synthesis:** Pilot study on privacy-aware computer vision for classroom incident detection. Introduces a hybrid [[benchmark]] combining generative CCTV-style videos with real classroom pose data. Proposes a lightweight motion reasoning model that achieves strong incident recognition while preserving student privacy (no facial recognition). Demonstrates that efficient motion-based features can generalize across classroom environments without collecting identifiable student data. [[privacy]], [[k-12]], [[multimodal]], [[edtech-platform]], and benchmark.
 Pilot study on privacy-aware computer vision for classroom incident detection. Introduces a hybrid benchmark combining generative CCTV-style videos with real classroom pose data. Proposes a lightweight motion reasoning model that achieves strong incident recognition while preserving student privacy (no facial recognition). Demonstrates that efficient motion-based features can generalize across classroom environments without collecting identifiable student data.
 
 ## Connected Concepts

@@ -22,11 +22,11 @@ This paper uses a clever identification strategy: measure the **seasonal drop in
 
 ## Interpretation
 
-The null result has two non-exclusive interpretations: (1) AI-assisted cheating does not harm test performance in aggregate, or (2) negative effects of AI misuse are offset by positive uses of AI as a learning aid. Either way, this challenges both utopian and dystopian narratives about AI in classrooms. It aligns with the [[genai-performance-vs-learning]] distinction — performance boosts from AI may not translate to test score improvements. It connects to [[cognitive-offloading|Over-Reliance]] research showing that AI assistance can produce apparent competence without underlying understanding.
+The null result has two non-exclusive interpretations: (1) AI-assisted cheating does not harm test performance in aggregate, or (2) negative effects of [[ai-misuse-learning-harm|AI misuse]] are offset by positive uses of AI as a learning aid. Either way, this challenges both utopian and dystopian narratives about AI in classrooms. It aligns with the [[genai-performance-vs-learning]] distinction — performance boosts from AI may not translate to test score improvements. It connects to [[cognitive-offloading|Over-Reliance]] [[research-methods-aied|research]] showing that AI assistance can produce apparent competence without underlying understanding.
 
 ## Methodological Contribution
 
-The seasonal variation identification strategy is innovative for causal inference in education technology research, where RCTs are often infeasible at scale.
+The seasonal variation identification strategy is innovative for causal inference in education technology research, where [[rct|RCTs]] are often infeasible at scale.
 
 ## Connected Concepts
 

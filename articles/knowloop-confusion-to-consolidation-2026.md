@@ -11,7 +11,7 @@ sources: ['raw/papers/knowloop-confusion-to-consolidation-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** KnowLoop, a dual-agent conversational system for post-lecture review, structures learning around three stages—Recognize (mark in-situ confusion during lectures), Resolve (Teaching Assistant provides context-grounded clarification), and Consolidate (Peer scaffolds reflective [[learning-by-teaching|teach-back]]). A 22-participant study shows confusion points serve as [[personalized-learning|personalized]] review anchors, lecture-grounded clarification enables more targeted support than general-purpose AI, and teach-back prompts learners to reveal conceptual gaps and connect ideas across the lecture.
+> **Synthesis:** KnowLoop, a dual-agent conversational system for post-lecture review, structures learning around three stages—Recognize (mark in-situ confusion during lectures), Resolve ([[teacher-role|Teaching]] Assistant provides context-grounded clarification), and Consolidate (Peer [[scaffolding|scaffolds]] reflective [[learning-by-teaching|teach-back]]). A 22-participant study shows confusion points serve as [[personalized-learning|personalized]] review anchors, lecture-grounded clarification enables more targeted support than general-purpose AI, and teach-back prompts learners to reveal conceptual gaps and connect ideas across the lecture.
 
 ## Study Design
 
@@ -21,7 +21,7 @@ Fang and Reidsma designed KnowLoop, a dual-agent conversational system for post-
 2. **Resolve** — A Teaching Assistant agent (GPT-4o) provides clarification grounded in the marked confusion point and associated lecture transcript. Interaction is constrained to one confusion point at a time to maintain focus.
 3. **Consolidate** — A Peer agent (GPT-4o) scaffolds reflective teach-back, revisiting confusion points in order and asking learners to explain their understanding. Progression moves from confusion-point-level articulation to lecture-level summarization.
 
-The study involved 22 participants (STEM backgrounds, AI familiarity M=4.00/5, low [[prior-knowledge|prior knowledge]] of lecture content) watching an 18-minute introductory [[reinforcement-learning|reinforcement learning]] lecture.
+The study involved 22 participants ([[stem-education|STEM]] backgrounds, AI familiarity M=4.00/5, low [[prior-knowledge|prior knowledge]] of lecture content) watching an 18-minute introductory [[reinforcement-learning|reinforcement learning]] lecture.
 
 ## Key Findings
 

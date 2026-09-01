@@ -11,7 +11,7 @@ sources: ['raw/papers/2604.24807.md']
 confidence: high
 ---
 
-> **ITAS (Intelligent Teaching Assistant System)** — Elhaimeur & Chrisochoides (2026) describe a multi-agent, knowledge-graph-augmented tutoring system for quantum computing education that bridges the gap between dense mathematical formalism and limited qualified instructors. Building on an earlier knowledge-graph-augmented prototype with two specialized LLM agents (a Teaching Agent and a Lesson Planning Agent), ITAS scales this into a production-grade system with four contributions: a five-module QIS curriculum grounded in an information-first framework, a Spoke-and-Wheel teaching architecture with quantum-specialized agents, production cloud infrastructure, and a conversational analytics layer. Piloted in a real quantum computing course at Old Dominion University, the deployment answered the three questions the prototype left open — whether agent specialization solves the reliability problem, whether the system can run in a real course, and whether the instructor gains actionable intelligence.
+> **ITAS (Intelligent Teaching Assistant System)** — Elhaimeur & Chrisochoides (2026) describe a multi-agent, knowledge-graph-augmented tutoring system for quantum computing education that bridges the gap between dense mathematical formalism and limited qualified instructors. Building on an earlier knowledge-graph-augmented prototype with two specialized [[llm]] agents (a Teaching Agent and a Lesson Planning Agent), ITAS scales this into a production-grade system with four contributions: a five-module QIS curriculum grounded in an information-first framework, a Spoke-and-Wheel teaching architecture with quantum-specialized agents, production cloud infrastructure, and a conversational analytics layer. Piloted in a real quantum computing course at Old Dominion University, the deployment answered the three questions the prototype left open — whether agent specialization solves the reliability problem, whether the system can run in a real course, and whether the instructor gains actionable intelligence.
 
 Quantum education faces a compounding problem: quantum concepts are counterintuitive, the mathematical formalism is dense, and qualified faculty are scarce outside a small number of well-resourced institutions. ITAS addresses all three by combining a structured [[knowledge-graph]] representation of quantum concepts with specialized [[agentic-ai|AI agents]], making [[intelligent-tutoring|intelligent tutoring]] viable in a technically demanding domain. Its design lessons extend well beyond quantum — they speak to how [[agentic-ai]] tutors scale from prototype to production in any discipline with scarce [[teacher-role|subject expertise]].
 
@@ -36,7 +36,7 @@ The paper deliberately scopes the execution layer — real-time teaching, studen
 
 1. **Five-module QIS curriculum** grounded in Watrous's information-first framework, structuring the domain into a coherent progression
 2. **Spoke-and-Wheel teaching architecture** with quantum-specialized agents — a deliberate move toward more aggressive [[agentic-ai|agent specialization]] than the two-agent prototype, in response to task-boundary failures observed under prototype conditions
-3. **Production cloud infrastructure** designed for classroom-scale concurrency at "sub-textbook cost" with regulatory compliance built in
+3. **Production cloud infrastructure** designed for classroom-scale concurrency at "sub-textbook cost" with [[regulation|regulatory]] compliance built in
 4. **Conversational analytics layer** for instructors and content developers, surfacing curriculum gaps not otherwise visible
 
 ### Adaptive Components
@@ -44,12 +44,12 @@ The paper deliberately scopes the execution layer — real-time teaching, studen
 | Component | Function |
 |-----------|----------|
 | **Learner Model** | Tracks mastery per concept node in the knowledge graph |
-| **Pedagogical Module** | Selects optimal next concept/scaffold based on zone of proximal development |
+| **Pedagogical Module** | Selects optimal next concept/scaffold based on [[sociocultural-learning|zone of proximal development]] |
 | **Interface** | Visualizes quantum states (Bloch spheres, circuit diagrams) with stepwise guidance |
 
 ## Spoke-and-Wheel Teaching Architecture
 
-The Spoke-and-Wheel architecture is the direct response to the prototype's core failure, which the authors attribute to [[cognitive-offloading|cognitive overload]] rather than model capability. Three specialist agents analyze each student question in parallel — a Video Agent with a timestamp-indexed concept map, a Guidance Agent calibrated for graduate-level mathematics, and a Code Agent carrying a hand-curated Qiskit error catalog — before a Synthesizer Agent integrates their outputs by a priority hierarchy (code errors first, then conceptual gaps, then video references). The three-agent count emerged empirically: two conflated code and concepts, while four added coordination overhead without reliability gains.
+The Spoke-and-Wheel architecture is the direct response to the prototype's core failure, which the authors attribute to [[cognitive-offloading|cognitive overload]] rather than model capability. Three specialist agents analyze each student question in parallel — a Video Agent with a timestamp-indexed concept map, a Guidance Agent calibrated for graduate-level [[math-education|mathematics]], and a Code Agent carrying a hand-curated Qiskit error catalog — before a Synthesizer Agent integrates their outputs by a priority hierarchy (code errors first, then conceptual gaps, then video references). The three-agent count emerged empirically: two conflated code and concepts, while four added coordination overhead without reliability gains.
 
 Specialization reduces [[hallucination-risk|hallucination]] in three ways: cognitive load reduction (each agent reasons about one task), task interference elimination (the Video Agent cannot invent function names because it never reasons about code), and synthesis filtering (the Synthesizer discards low-confidence outputs before they reach the student). The [[trust-calibration|reliability principle]] is that an agent which cannot exceed its designated function cannot hallucinate beyond it — the same principle applied in simplified form to the analytics agent, which narrates pre-aggregated BigQuery summaries and never writes SQL or performs calculations.
 
@@ -63,11 +63,11 @@ A distinctive design choice is the checkpoint philosophy: each checkpoint enforc
 
 Local execution cannot support a real classroom: no concurrent request handling, no fault tolerance, no session persistence across network boundaries, and no security boundary between student code and the host. The migration to Google Cloud Platform delivered four Cloud Run microservices (Teaching Agent, sandboxed Python Execution, Analytics Ingestion, and Autograding) with auto-scaling and minimum-instance configuration to eliminate cold-start degradation. Reliability was decoupled via fire-and-forget Pub/Sub streaming to BigQuery, so an analytics failure never affects teaching and a teaching failure never corrupts the analytics record.
 
-[[privacy|Privacy and compliance]] were built in rather than bolted on: student code executes in a container-level sandbox, all interaction data is stored under anonymized identifiers, the analytics agent exposes only aggregate patterns, and the deployment complies with FERPA under Old Dominion's institutional data-governance policies.
+[[privacy|Privacy and compliance]] were built in rather than bolted on: student code executes in a container-level sandbox, all interaction data is stored under anonymized identifiers, the analytics agent exposes only aggregate patterns, and the deployment complies with FERPA under Old Dominion's [[governance|institutional]] data-governance policies.
 
 The deployment involved five graduate students over a single semester, generating interaction events across video playback, code execution, chat, checkpoint submissions, and session management. Behavioral archetypes emerged that only sustained deployment can surface:
 
-- **Self-directed learners** relied on video and independent coding with minimal AI interaction, using the tutor mainly for error resolution — supporting [[self-directed-learning|autonomous learning]] and independent struggle.
+- **Self-directed learners** relied on video and independent coding with minimal [[student-ai-interaction|AI interaction]], using the tutor mainly for error resolution — supporting [[self-directed-learning|autonomous learning]] and independent struggle.
 - **Tutor-reliant learners** treated the agent as a collaborative study partner, pushing toward formal definitions and group-theoretic connections.
 - **Late engagers** showed non-linear trajectories (one skipping a module entirely), a pattern impossible to detect in a system enforcing sequential completion.
 - **Passive consumers** engaged almost exclusively through video playback with no code execution or chat — a failure mode the reactive teaching system cannot address because these students never signal confusion.
@@ -89,15 +89,15 @@ Four design principles emerge from the deployment:
 
 ## Limitations
 
-The absence of a [[rct|control group]] means outcomes cannot be attributed causally to ITAS rather than to the curriculum or instructor, and the instructor designed both — introducing potential bias in design and interpretation. Validity follows qualitative standards: it depends on the information richness of cases and the triangulation of evidence sources, not sample size. The deployment covered one course at one institution, so generalizability is not established; the current version demonstrates that the execution layer works but not yet that it teaches better than the alternative. A controlled, blinded comparison against the prototype on the same input set, and AI-tutored versus human-TA comparisons with validated instruments, remain future work.
+The absence of a [[rct|control group]] means outcomes cannot be attributed causally to ITAS rather than to the curriculum or instructor, and the instructor designed both — introducing potential bias in design and interpretation. Validity follows [[qualitative-research|qualitative]] standards: it depends on the information richness of cases and the triangulation of evidence sources, not sample size. The deployment covered one course at one institution, so generalizability is not established; the current version demonstrates that the execution layer works but not yet that it teaches better than the alternative. A controlled, blinded comparison against the prototype on the same input set, and AI-tutored versus human-TA comparisons with validated instruments, remain future work.
 
 ## Implications for AI in Education
 
 - **Niche STEM domains:** Knowledge-graph augmentation enables ITS deployment in specialized fields with scarce human expertise, directly relevant to [[stem-education]] and [[discipline-specific-aied|discipline-specific AIED]].
-- **Visualization integration:** Quantum tutoring shows the importance of domain-aligned visual scaffolds (cf. [[multimodal|multimodal errors]] in STEM).
+- **[[visualization]] integration:** Quantum tutoring shows the importance of domain-aligned visual scaffolds (cf. [[multimodal|multimodal errors]] in STEM).
 - **Scalability and equity:** Production [[ai-technologies|cloud infrastructure]] and analytics address equity gaps between well-resourced and under-resourced institutions, touching on [[equity-in-ai-education]] and the [[digital-divide]].
 - **Agent specialization:** The move from two general agents to a Spoke-and-Wheel architecture with quantum-specialized agents provides a design lesson for scaling [[agentic-ai|agentic tutors]] from prototype to production, and informs debates about [[stanford-evidence-base-ai-k12-2026|tutoring-specific vs. general AI]].
-- **Learner engagement modes:** The discovery that graduate learners use tutors as intellectual partners rather than help-of-last-resort challenges existing ITS frameworks and connects to [[student-engagement]], [[self-regulated-learning]], and [[help-seeking]] research.
+- **Learner engagement modes:** The discovery that graduate learners use tutors as intellectual partners rather than help-of-last-resort challenges existing ITS frameworks and connects to [[student-engagement]], [[self-regulated-learning]], and [[help-seeking]] [[research-methods-aied|research]].
 - **Privacy-preserving analytics:** The Blind Instructor Problem and its aggregate-pattern solution offer a model for [[learning-analytics]] that respects [[privacy]] and FERPA constraints while keeping instructors informed.
 
 ## Connected Concepts

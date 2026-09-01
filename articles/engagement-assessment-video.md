@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.01238.md']
 confidence: medium
 ---
 
-> **Synthesis:** **EduGage** (Leng et al., 2026) shows that fine-grained, segment-level engagement estimation in self-guided video learning is *feasible but inherently noisy*. Using wearable and camera-based sensors (PPG, ECG, EDA, EEG, IMU, heart rate, temperature, eye tracking) across a 16-participant user study, the authors' multimodal model achieved an MAE of 0.81 and 83.75% within-1 accuracy, outperforming sensor-free, statistical, deep-temporal, foundation-model, and LLM-based baselines. The authors argue that practical systems should prioritize lightweight combinations of behavioral and physiological signals over full multimodal instrumentation, and they release the EduGage dataset — synchronized multimodal sensor streams, probe-aligned momentary engagement labels, video metadata, quizzes, and study materials — to support reproducible research.
+> **Synthesis:** **EduGage** (Leng et al., 2026) shows that fine-grained, segment-level engagement estimation in self-guided video learning is *feasible but inherently noisy*. Using wearable and camera-based sensors (PPG, ECG, EDA, EEG, IMU, heart rate, temperature, eye tracking) across a 16-participant user study, the authors' [[multimodal]] model achieved an MAE of 0.81 and 83.75% within-1 accuracy, outperforming sensor-free, statistical, deep-temporal, foundation-model, and [[llm]]-based baselines. The authors argue that practical systems should prioritize lightweight combinations of behavioral and physiological signals over full multimodal instrumentation, and they release the EduGage dataset — synchronized multimodal sensor streams, probe-aligned momentary engagement labels, video metadata, quizzes, and study materials — to support reproducible [[research-methods-aied|research]].
 
 ## Key Findings
 
@@ -65,14 +65,14 @@ Across participant-based cross-validation, the model achieved an MAE of 0.81, 83
 
 This enables **adaptive interventions** in video learning:
 1. **Detect disengagement** (gaze diversion, prolonged pauses, attention difficulty)
-2. **Trigger scaffolds** (reflection prompt, content re-summarization, revisiting a segment)
+2. **Trigger [[scaffolding|scaffolds]]** (reflection prompt, content re-summarization, revisiting a segment)
 3. **Close loop:** Learner reflects → re-engages → improved outcomes
 
-This aligns with [[adaptive-learning]] principles: real-time learner modeling → personalized intervention. Momentary sensing can support [[self-directed-learning|self-directed learning]], [[student-modeling|student modeling]], and post-hoc content refinement without replacing the teacher role.
+This aligns with [[adaptive-learning]] principles: real-time learner modeling → personalized intervention. Momentary sensing can support [[self-directed-learning|self-directed learning]], [[student-modeling|student modeling]], and post-hoc content refinement without replacing the [[teacher-role|teacher role]].
 
 ## Implications for ITS and Future Systems
 
-Intelligent tutoring systems increasingly include video components (e.g., worked examples, concept explanations). EduGage's approach enables:
+[[intelligent-tutoring|Intelligent tutoring systems]] increasingly include video components (e.g., worked examples, concept explanations). EduGage's approach enables:
 - **Multimodal engagement tracking** (cf. [[multimodal-ai-tutoring]], [[affective-tutoring]])
 - **Just-in-time scaffolds** when engagement drops
 - **Self-regulated learning support** ([[self-regulated-learning]])
@@ -83,7 +83,7 @@ Intelligent tutoring systems increasingly include video components (e.g., worked
 - **For learning analytics:** Momentary engagement sensing extends [[learning-analytics]] beyond coarse session-level metrics, revealing *when* attention declines and which segments are difficult.
 - **For adaptive systems:** Fine-grained engagement estimates can trigger timely [[feedback|reflection prompts]] and adaptive support, and support [[self-regulated-learning|self-regulation]] without burdening learners.
 - **For deployment:** The study's modality comparisons argue for lightweight, wearable-friendly sensing over full multimodal instrumentation, lowering the barrier to real-world use.
-- **For research:** The open EduGage dataset provides a reproducible benchmark for [[affective-computing|affective computing]] and sensor-based engagement modeling, with implications for how momentary engagement relates to [[assessment]] and [[learning-gains|learning outcomes]].
+- **For research:** The open EduGage dataset provides a reproducible [[benchmark]] for [[affective-computing|affective computing]] and sensor-based engagement modeling, with implications for how momentary engagement relates to [[assessment]] and [[learning-gains|learning outcomes]].
 
 ## Connected Concepts
 

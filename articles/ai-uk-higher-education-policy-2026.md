@@ -11,7 +11,7 @@ sources: ['raw/papers/ai-uk-higher-education-policy-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** This systematic literature review examines how AI is positioned in UK higher-education policy and its influence on institutional pedagogical decision making, finding that AI integration is accelerating but fragmented, with a gap between policy ambitions and institutional capacity and disparities between teaching-led and research-intensive universities.
+> **Synthesis:** This systematic literature review examines how AI is positioned in UK higher-education policy and its influence on institutional [[pedagogy|pedagogical]] decision making, finding that AI integration is accelerating but fragmented, with a gap between policy ambitions and institutional capacity and disparities between [[teacher-role|teaching]]-led and [[research-methods-aied|research]]-intensive universities.
 
 ## Key Findings
 
@@ -34,7 +34,7 @@ The translation of national policy into institutional practice occurs at the gov
 
 ## The Layered Conceptual Framework
 
-The proposed layered, inclusive framework links national policy, institutional infrastructure, governance, ethics, and pedagogy into a single diagnostic and design tool. At its base, scenario planning and strategic foresight assess institutional readiness and build resilience against algorithmic failure or ethical breach. Above this sit digital infrastructure and capacity, curriculum and assessment design (including curriculum mapping, formative feedback, marking, and [[learning-analytics|learning analytics]]), and a cross-cutting ethics, equity, and inclusion layer that safeguards algorithmic fairness and protects [[neurodiversity|neurodivergent]] and disabled learners. A final stakeholder-participation mechanism uses student surveys, academic consultation, and staff input to adjust AI policy in real time. The framework functions both as a diagnostic tool for assessing readiness, gaps, and alignment and as a design guide for ethical and future-proof AI integration.
+The proposed layered, inclusive framework links national policy, institutional infrastructure, governance, ethics, and pedagogy into a single diagnostic and design tool. At its base, scenario planning and strategic foresight assess institutional readiness and build resilience against algorithmic failure or ethical breach. Above this sit digital infrastructure and capacity, [[curriculum-design|curriculum]] and assessment design (including curriculum mapping, [[formative-assessment|formative]] feedback, marking, and [[learning-analytics|learning analytics]]), and a cross-cutting ethics, equity, and [[inclusive-learning|inclusion]] layer that safeguards [[bias-mitigation|algorithmic fairness]] and protects [[neurodiversity|neurodivergent]] and disabled learners. A final stakeholder-participation mechanism uses student surveys, academic consultation, and staff input to adjust AI policy in real time. The framework functions both as a diagnostic tool for assessing readiness, gaps, and alignment and as a design guide for ethical and future-proof AI integration.
 
 ## Ethics, Equity, and Inclusion
 

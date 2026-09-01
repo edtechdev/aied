@@ -32,9 +32,9 @@ Presents **StructRAG**, a pattern-aware framework that improves how [[intelligen
 ## Interpretation
 
 - Question-level accuracy is always lower than edge-level F1 because Acc demands a perfect whole-diagram match, while F1 captures partial correctness — relevant for education, where identifying *most* missing connections already yields useful structural [[feedback]].
-- Grounded in **cognitive apprenticeship**: instructors guide students through visual problem-solving by highlighting analogies, missing links, and logical dependencies; StructRAG's template retrieval mirrors that by making structural relationships explicit and auditable (an intermediate graph representation, rather than end-to-end visual matching). This reduces [[hallucination-risk|hallucination]] risk and strengthens [[trust|student trust]] relative to end-to-end multimodal parsing.
+- Grounded in **cognitive apprenticeship**: instructors guide students through visual [[problem-solving]] by highlighting analogies, missing links, and logical dependencies; StructRAG's template retrieval mirrors that by making structural relationships explicit and auditable (an intermediate graph representation, rather than end-to-end visual matching). This reduces [[hallucination-risk|hallucination]] risk and strengthens [[trust|student trust]] relative to end-to-end [[multimodal]] parsing.
 - Interviews with 12 STEM educators were positive: actionable structural feedback, adaptability across diagram types, and help explaining missing/ambiguous connections to students struggling with abstract topologies.
-- Limitations: dataset withheld (university teaching materials; schema/code/prompts released), and no learner-outcome study yet — future work should test effects on learning, retention, [[transfer-of-learning|transfer]], [[motivation]], and [[cognitive-offloading|cognitive load]] in live tutoring contexts.
+- Limitations: dataset withheld (university [[teacher-role|teaching]] materials; schema/code/prompts released), and no learner-outcome study yet — future work should test effects on learning, retention, [[transfer-of-learning|transfer]], [[motivation]], and [[cognitive-offloading|cognitive load]] in live tutoring contexts.
 
 ## Practical Implications
 

@@ -13,19 +13,19 @@ confidence: medium
 
 > Presents Q-Learning Lab, a single-file tool that makes the Bellman update concrete by letting undergraduates inspect how each value is computed and why actions are chosen, through learner-generated trace analysis. It addresses the abstraction gap where students watch policy convergence without understanding mechanism.
 
-A [[reinforcement-learning]] artifact grounded in [[active-learning]] and [[stem-education]] for [[higher-ed]]. It connects to [[self-regulated-learning]] by making the learning process observable, and to [[scaffolding]] of difficult quantitative concepts, offering a reproducible teaching tool for ML/RL courses.
+A [[reinforcement-learning]] artifact grounded in [[active-learning]] and [[stem-education]] for [[higher-ed]]. It connects to [[self-regulated-learning]] by making the learning process observable, and to [[scaffolding]] of difficult [[quantitative-research|quantitative]] concepts, offering a reproducible [[teacher-role|teaching]] tool for ML/RL courses.
 
 ## Key Findings
 
-- Q-Learning Lab is a single-file, browser-based, bilingual (Thai/English) tool for teaching tabular Q-learning that requires no installation and no network connection.
-- Beyond the usual gridworld visualization — color-coded Q-values and policy arrows on a 5×5 world — a live Bellman-substitution panel shows the numeric update at every step.
+- Q-Learning Lab is a single-file, browser-based, [[multilingual-learning|bilingual]] (Thai/English) tool for teaching tabular Q-learning that requires no installation and no network connection.
+- Beyond the usual gridworld [[visualization]] — color-coded Q-values and policy arrows on a 5×5 world — a live Bellman-substitution panel shows the numeric update at every step.
 - Each transition is logged, including the full pre-action Q-row, the greedy-versus-random decision under ε-greedy exploration, and wall-collision events, into an exportable trace.
 - The central contribution is a learn–export–analyze loop: learners run their own agent, export the complete trace as CSV, and analyze it themselves, producing learning curves, value heatmaps, and visitation maps that turn a passive demonstration into learner-generated data for reflective inquiry.
 - A reward-editing study separates two behaviorally identical but diagnostically opposite failure modes — an exploration failure versus genuine reward misspecification — that a single edited reward can produce.
 
 ## Study Design & Method
 
-The tool was validated without human-subject data through three complementary evaluations: (i) correctness of the learned values and policy against a value-iteration ground truth on the identical MDP; (ii) hyperparameter sweeps over α, γ, and ε demonstrating that every pedagogical claim the tool makes is reproducible; and (iii) a reward-editing study in which editing the pit reward produced distinct failure modes: with a pit reward of +5 the optimal policy still reaches the goal (V*(s0)=6.38), yet Q-learning converges to the pit in 10/10 seeds — an exploration failure — whereas with a pit reward of +20 (above the 7.774 threshold) the optimal policy genuinely prefers the pit (V*(s0)=16.86) and Q-learning agrees in 10/10 seeds — true reward misspecification. The paper also situates the tool against existing gridworld visualizers via a feature comparison, grounds it in learning-by-doing pedagogy, and includes a 50-minute lesson plan; the tool and all experiment code are openly available.
+The tool was validated without human-subject data through three complementary evaluations: (i) correctness of the learned values and policy against a value-iteration ground truth on the identical MDP; (ii) hyperparameter sweeps over α, γ, and ε demonstrating that every [[pedagogy|pedagogical]] claim the tool makes is reproducible; and (iii) a reward-editing study in which editing the pit reward produced distinct failure modes: with a pit reward of +5 the optimal policy still reaches the goal (V*(s0)=6.38), yet Q-learning converges to the pit in 10/10 seeds — an exploration failure — whereas with a pit reward of +20 (above the 7.774 threshold) the optimal policy genuinely prefers the pit (V*(s0)=16.86) and Q-learning agrees in 10/10 seeds — true reward misspecification. The paper also situates the tool against existing gridworld visualizers via a feature comparison, grounds it in learning-by-doing pedagogy, and includes a 50-minute lesson plan; the tool and all experiment code are openly available.
 
 ## Implications for AI in Education
 

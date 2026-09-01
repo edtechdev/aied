@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.06257.md']
 confidence: medium
 ---
 
-> LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning **Wang, Lee, & Mutlu (2026)** — University of Wisconsin-Madison. CHI-related publication.
+> LearnMate^2: Design and Evaluation of an [[llm]]-powered Personalized and Adaptive Support System for [[online-teaching-and-learning|Online Learning]] **Wang, Lee, & Mutlu (2026)** — University of Wisconsin-Madison. CHI-related publication.
 
 LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
 
@@ -26,11 +26,11 @@ LearnMate^2 addresses the **personalization gap** in online learning: while onli
 **Iterative development and evaluation:**
 - **Preliminary study (n=24)** assessed effectiveness, informed system refinements
 - **Comparative evaluation (n=16)** against a state-of-the-art online learning platform plus an LLM
-- **Results:** LearnMate^2 improved both [[learning-gains|learning outcomes]] and user experience vs. the baseline
+- **Results:** LearnMate^2 improved both [[learning-gains|learning outcomes]] and [[usability-research|user experience]] vs. the baseline
 
 The study demonstrates that LLM-powered [[personalized-learning]] can bridge the guidance gap in open online education. This connects to the broader [[adaptive-learning]] literature and extends findings from learnmate2-llm-adaptive-learning prior iterations. The system's integration of study planning, real-time assistance, and adaptive activities represents a more holistic approach than single-function AI tools, aligning with the [[agentic-ai]] vision of integrated educational AI.
 
-The work also contributes to understanding how [[scaffolding]] can be implemented at scale in digital environments, complementing [[ai-metacognition-stem-review]] findings on metacognitive support tools.
+The work also contributes to understanding how [[scaffolding]] can be implemented at scale in digital environments, complementing [[ai-metacognition-stem-review]] findings on [[metacognition|metacognitive]] support tools.
 
 ## Connected Concepts
 

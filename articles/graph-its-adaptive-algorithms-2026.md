@@ -13,7 +13,7 @@ confidence: high
 
 ## Core Finding
 
-A hybrid [[intelligent-tutoring|ITS]] that combines a structured graph-based domain model (EKSG), a relational database for real-time activity/knowledge tracking, and a generative-AI content-creation assistant is feasible and pedagogically effective in a dynamic domain. In the [[adaptive-learning|adaptive algorithm]] comparison, the **Bayesian knowledge propagation algorithm yielded the highest measured learning gains** (BN +24% vs KST +5%, WDDI +1%), and it also had the lowest prediction error alongside a graph-neural-network baseline — supporting it as the strongest adaptive algorithm in this coarse-grained [[curriculum-design|curriculum]] setting.
+A hybrid [[intelligent-tutoring|ITS]] that combines a structured graph-based domain model (EKSG), a relational database for real-time activity/knowledge tracking, and a generative-AI content-creation assistant is feasible and pedagogically effective in a dynamic domain. In the [[adaptive-learning|adaptive algorithm]] comparison, the **Bayesian knowledge propagation algorithm yielded the highest measured [[learning-gains|learning gains]]** (BN +24% vs KST +5%, WDDI +1%), and it also had the lowest prediction error alongside a graph-neural-network baseline — supporting it as the strongest adaptive algorithm in this coarse-grained [[curriculum-design|curriculum]] setting.
 
 ## What the System Is
 
@@ -34,19 +34,19 @@ G4L operationalizes the EKSG model — a graph-based knowledge representation ex
 
 ## Results
 
-- **RQ1 (structure/navigation):** Knowledge Decomposition and Graph-based Navigation Usability rated highest (avg 4.41, rubric level 3); Prerequisite Logic Clarity lowest (4.16).
-- **RQ2 (algorithms):** measured knowledge improved in all groups — BN 0.717→0.887 (+24%, score 3), KST 0.919→0.967 (+5%, score 2), WDDI 0.871→0.882 (+1%, score 2). Final rubric scores BN 3, KST 2, WDDI 2. In a simulation, BN (error 14) and a GNN baseline (20) tracked true IFL truth values best vs KST (94), WDDI (62), uniform static (100).
-- **RQ3 (tracking):** system scored "Good (3)" (11/13 tracking features, 85%). BN group logged the most per-learner records (855.9) and the most active test engagement; the most active learner (112 interactions) was in the KST group.
-- **Self-regulation:** most learners disregarded system recommendations (learn-followed 18–32%, repeat-followed 7–9%), indicating their own decisions took precedence over the suggested path.
+- **RQ1 (structure/navigation):** Knowledge Decomposition and Graph-based Navigation [[usability-research|Usability]] rated highest (avg 4.41, rubric level 3); Prerequisite Logic Clarity lowest (4.16).
+- **RQ2 (algorithms):** measured knowledge improved in all groups — BN 0.717→0.887 (+24%, score 3), KST 0.919→0.967 (+5%, score 2), WDDI 0.871→0.882 (+1%, score 2). Final rubric scores BN 3, KST 2, WDDI 2. In a [[simulation]], BN (error 14) and a GNN baseline (20) tracked true IFL truth values best vs KST (94), WDDI (62), uniform static (100).
+- **RQ3 (tracking):** system scored "Good (3)" (11/13 tracking features, 85%). BN group logged the most per-learner records (855.9) and the most active test [[student-engagement|engagement]]; the most active learner (112 interactions) was in the KST group.
+- **Self-[[regulation]]:** most learners disregarded system recommendations (learn-followed 18–32%, repeat-followed 7–9%), indicating their own decisions took precedence over the suggested path.
 
 ## Key Strengths and Caveats
 
-- **Strengths:** combines structured domain modeling, fine-grained real-time activity logging (13 event types), adaptive content delivery, and generative content creation; teacher-in-the-loop keeps pedagogy under human control; log-based tracking is lightweight and non-intrusive.
+- **Strengths:** combines structured domain modeling, fine-grained real-time activity logging (13 event types), adaptive content delivery, and generative content creation; teacher-in-the-loop keeps [[pedagogy]] under human control; log-based tracking is lightweight and non-intrusive.
 - **Caveats:** small sample (45, 3 dropouts, 28 questionnaire respondents); single subdomain (JDBC API, 15 KUs); short study window (limited long-term retention insight); no control group or alternative-ITS comparison; KST predicted-mastery values stuck at 1.000 (full-mastery inference) and should be read with caution; WDDI's proposed bi-directional propagation underperformed on measured gains.
 
 ## Relevance to the knowledge base
 
-This is a development article that demonstrates a complete, implemented pipeline from a [[knowledge-graph|knowledge-graph domain model]] through adaptive algorithms and real-time [[learning-analytics|learning analytics]] to generative content creation — an integration rarely reported end-to-end. Its empirical comparison of multiple adaptive algorithms (with the **Bayesian algorithm showing the highest knowledge gains**) is directly relevant to comparative ITS design, while its explicit modeling of forgetting, IFL-based uncertainty, and log-driven [[self-regulated-learning|self-regulated-learning analysis]] connects several core knowledge base themes. The GenAI content-generation component with teacher-in-the-loop validation offers an applied example of generative AI in instructional design.
+This is a development article that demonstrates a complete, implemented pipeline from a [[knowledge-graph|knowledge-graph domain model]] through adaptive algorithms and real-time [[learning-analytics|learning analytics]] to generative content creation — an integration rarely reported end-to-end. Its empirical comparison of multiple adaptive algorithms (with the **Bayesian algorithm showing the highest knowledge gains**) is directly relevant to comparative ITS design, while its explicit modeling of forgetting, IFL-based uncertainty, and log-driven [[self-regulated-learning|self-regulated-learning analysis]] connects several core knowledge base themes. The GenAI content-generation component with teacher-in-the-loop validation offers an applied example of [[generative-ai|generative AI]] in [[learning-design|instructional design]].
 
 ## Connected Concepts
 

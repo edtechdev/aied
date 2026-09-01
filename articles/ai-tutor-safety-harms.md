@@ -11,18 +11,18 @@ sources: ['raw/papers/hazra-safetutors-pedagogical-safety-2026.md']
 confidence: high
 ---
 
-> Conventional LLM safety benchmarks focus on toxic outputs, jailbreaks, and bias. In education, the primary risks are quieter:
+> Conventional [[llm]] safety [[benchmark|benchmarks]] focus on toxic outputs, jailbreaks, and bias. In education, the primary risks are quieter:
 
-> "Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different." SafeTutors exposes that **all tested models show broad pedagogical harm**, with failures escalating from **17.7% in single-turn to 77.8% in multi-turn** student-tutor dialogue.([[hazra-safetutors-pedagogical-safety-2026]])
+> "Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different." SafeTutors exposes that **all tested models show broad [[pedagogy|pedagogical]] harm**, with failures escalating from **17.7% in single-turn to 77.8% in multi-turn** student-tutor dialogue.([[hazra-safetutors-pedagogical-safety-2026]])
 
 ## Why Tutoring Safety Is Different
 
 Conventional LLM safety benchmarks focus on toxic outputs, jailbreaks, and bias. In education, the primary risks are quieter:
 
 - **Answer over-disclosure** — Revealing solutions rather than facilitating guided discovery
-- **Misconception reinforcement** — Validating or ignoring student misunderstandings
-- **Abdication of scaffolding** — Failing to provide appropriate structured support
-- **Erosion of productive struggle** — Short-circuiting the cognitive work that consolidates understanding
+- **[[misconceptions|Misconception]] reinforcement** — Validating or ignoring student misunderstandings
+- **Abdication of [[scaffolding]]** — Failing to provide appropriate structured support
+- **Erosion of [[desirable-difficulties|productive struggle]]** — Short-circuiting the cognitive work that consolidates understanding
 
 These harms appear "helpful" to surface inspection: the student gets a correct answer quickly. But the long-term effect is learning atrophy.
 
@@ -32,24 +32,24 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 
 | Dimension | Core Concern | Key Examples |
 |-----------|--------------|--------------|
-| **Cognitive** | Interferes with knowledge internalization | Cognitive offloading, fluency illusion, shallow procedural learning |
+| **Cognitive** | Interferes with knowledge internalization | [[cognitive-offloading|Cognitive offloading]], fluency illusion, shallow procedural learning |
 | **Epistemic** | Weakens justification/evaluation ability | Unverified authority, source opaqueness, false consensus |
 | **Metacognitive** | Erods monitoring and self-reflection | External validation dependence, reflection bypass, learned helplessness |
-| **Motivational-Affective** | Undermines curiosity and persistence | Shortcut temptation, performance-over-mastery, emotional disengagement |
-| **Developmental & Equity** | Fails to calibrate to learner level | Cognitive load mismatch, unequal benefit, cultural bias |
-| **Instructional Alignment** | Departs from learning goals | Pedagogical drift, goal misidentification, hidden curriculum |
+| **[[motivation|Motivational]]-[[affective-computing|Affective]]** | Undermines curiosity and persistence | Shortcut temptation, performance-over-mastery, emotional disengagement |
+| **Developmental & [[equity-in-ai-education|Equity]]** | Fails to calibrate to learner level | Cognitive load mismatch, unequal benefit, cultural bias |
+| **Instructional Alignment** | Departs from learning goals | Pedagogical drift, goal misidentification, hidden [[curriculum-design|curriculum]] |
 | **Behavioral & Inquiry** | Enables shortcuts/dishonesty | Answer-seeking bypass, assignment outsourcing |
-| **Ethical-Epistemic Integrity** | Compromises intellectual ownership | Blurred authorship, misrepresentation of understanding |
+| **[[ethics|Ethical]]-Epistemic Integrity** | Compromises intellectual ownership | Blurred authorship, misrepresentation of understanding |
 | **Informational-Semantic** | Embeds factual inaccuracies | Fabrication, misleading scientific explanation |
 | **Reflective-Critical** | Suppresses evidence-weighing | Over-smooth acceptance, no metacognitive challenge |
-| **Pedagogical Relationship** | Dysfunctional learner-system dynamic | Over-trust in AI authority, loss of learner agency |
+| **Pedagogical Relationship** | Dysfunctional learner-system dynamic | [[trust-calibration|Over-trust]] in AI authority, loss of [[agency|learner agency]] |
 
 ## Critical Findings
 
 1. **Universal harm:** All 11 tested models (3.8B–72B open-weight + GPT-5-mini) exhibited broad pedagogical harm
-2. **Scale is not a fix:** Larger models were not reliably safer; raw helpfulness correlates weakly with pedagogical safety
+2. **Scale is not a fix:** Larger models were not reliably safer; raw helpfulness correlates weakly with [[pedagogical-safety|pedagogical safety]]
 3. **Multi-turn degradation:** Harm rates rose from 17.7% (single-turn) to **77.8% (multi-turn)**, showing that sustained tutoring interaction progressively erodes safety
-4. **Discipline-aware mitigations needed:** Harms varied significantly across math, physics, and chemistry
+4. **Discipline-aware mitigations needed:** Harms varied significantly across math, [[physics-education|physics]], and [[chemistry-education|chemistry]]
 5. **Single-turn evaluation is misleading:** "Safe" single-turn responses masked systematic failure when conversations extended to 5–8 turns
 
 ## Relationship to Broader Debates
@@ -62,8 +62,8 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 
 ## Implications
 
-- **Evaluation:** Tutor safety must be measured with multi-turn, discipline-specific benchmarks, not single-turn toxicity screens
-- **Design:** Guardrails must target pedagogical failure modes (over-disclosure, misconception reinforcement) not just content correctness
+- **Evaluation:** Tutor safety must be measured with multi-turn, [[discipline-specific-aied|discipline-specific]] benchmarks, not single-turn toxicity screens
+- **Design:** [[guardrails]] must target pedagogical failure modes (over-disclosure, misconception reinforcement) not just content correctness
 - **Policy:** Procurement criteria for educational AI should include pedagogical safety audits alongside accuracy metrics
 
 ## Connected Concepts

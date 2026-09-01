@@ -17,14 +17,14 @@ confidence: high
 ## Key Findings
 
 - Design for Assembly (DfA) and Design for Disassembly (DfD) interventions reshape how a build feels before they shorten how long it takes.
-- Across two studies with developers and first-time builders, system usability climbed from Poor to Excellent (SUS 59.4 → 89.4).
+- Across two studies with developers and first-time builders, system [[usability-research|usability]] climbed from Poor to Excellent (SUS 59.4 → 89.4).
 - Perceived workload trended downward (NASA-TLX 4.29 → 4.00), and mean assembly time trended downward (21.4 → 13.7 minutes, with a learning effect among junior builders).
 - Perceived workload, not completion time, appears to govern whether students take up open hardware.
 - Orientation cues and navigation continuity for first-time builders emerged as the next documentation frontier.
 
 ## Study Design & Method
 
-Open-source social robots offer accessibility, repairability, and student empowerment, yet the build itself often presents a barrier: existing platforms either ship pre-assembled, foreclosing hands-on learning, or expose students to unfamiliar fasteners, opaque wiring, and inaccessible service points that erode engagement. Working with university students in Guyana and Estonia, the authors applied the Double Diamond framework to co-create the Robot Study Companion (RSC) v4.1: mapping pain points, then redesigning its chassis around twist-lock fasteners, snap-fit joints, and tool-free service latches. The redesign was evaluated across two studies with both developers and first-time builders using the System Usability Scale (SUS) and the NASA-TLX workload instrument.
+Open-source social robots offer [[accessibility]], repairability, and student empowerment, yet the build itself often presents a barrier: existing platforms either ship pre-assembled, foreclosing hands-on learning, or expose students to unfamiliar fasteners, opaque wiring, and inaccessible service points that erode [[student-engagement|engagement]]. Working with university students in Guyana and Estonia, the authors applied the Double Diamond framework to co-create the Robot Study Companion (RSC) v4.1: mapping pain points, then redesigning its chassis around twist-lock fasteners, snap-fit joints, and tool-free service latches. The redesign was evaluated across two studies with both developers and first-time builders using the System Usability Scale (SUS) and the NASA-TLX workload instrument.
 
 ## Relevance to AI in Education
 

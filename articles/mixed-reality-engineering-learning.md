@@ -16,7 +16,7 @@ confidence: medium
 
 **Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman** — submitted 1 Jul 2026
 
-User study with 24 participants comparing classroom instruction, mixed-reality apps, and physical toolkits for Engineering Mechanics reveals multimodal learning improves engagement but complex visualizations remain challenging.
+User study with 24 participants comparing classroom instruction, mixed-reality apps, and physical toolkits for Engineering Mechanics reveals [[multimodal]] learning improves [[student-engagement|engagement]] but complex visualizations remain challenging.
 
 ## Key Contributions
 
@@ -24,7 +24,7 @@ User study with 24 participants comparing classroom instruction, mixed-reality a
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
 
 ## Connected Concepts
 

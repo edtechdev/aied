@@ -13,7 +13,7 @@ confidence: high
 
 > Three system properties enable the fallacy via two cognitive mediators:
 
-> The LLM fallacy is a **cognitive attribution error** in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between **perceived and actual capability** (∆C). It is independent of output correctness — it persists whether the AI is accurate or hallucinating.
+> The [[llm]] fallacy is a **cognitive attribution error** in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between **perceived and actual capability** (∆C). It is independent of output correctness — it persists whether the AI is accurate or hallucinating.
 
 ## Distinctions from Related Phenomena
 
@@ -21,7 +21,7 @@ confidence: high
 |---|---|---|
 | **Hallucination** | System produces incorrect information | How the user *interprets* any output as self-generated competence |
 | **Automation bias** | Over-reliance on system during decisions | Self-perception of *personal* capability derived from outputs |
-| **Cognitive offloading** | Delegating mental effort to tools | Integration of outputs into user's *identity and self-evaluation* |
+| **[[cognitive-offloading|Cognitive offloading]]** | Delegating mental effort to tools | Integration of outputs into user's *identity and self-evaluation* |
 | **Dunning-Kruger** | Internal miscalibration of skill | Specifically AI-mediated; requires tool interaction to emerge |
 
 ## Mechanisms
@@ -44,27 +44,27 @@ Three system properties enable the fallacy via two cognitive mediators:
 | Domain | Educational Example |
 |---|---|
 | **Computational** | Student produces working code via Copilot but cannot explain logic, debug independently, or adapt to new requirements |
-| **Linguistic** | Student generates fluent essay in a second language but cannot produce comparable prose unassisted |
+| **Linguistic** | Student generates fluent essay in a [[language-learning|second language]] but cannot produce comparable prose unassisted |
 | **Analytical** | Student presents structured step-by-step math solution but cannot replicate reasoning when AI is unavailable |
 | **Creative / Epistemic** | Student reads AI summary of a topic and equates *access to information* with *conceptual mastery* (illusion of explanatory depth) |
-| **Professional signaling** | Resumes, portfolios, and interview answers reflect ability to prompt LLMs rather than independently acquired expertise |
+| **Professional signaling** | Resumes, [[eportfolio|portfolios]], and interview answers reflect ability to prompt LLMs rather than independently acquired expertise |
 
 ## Relationship to Existing Knowledge Base Concepts
 
 - [[metacognition]] — The LLM fallacy is a metacognitive calibration failure: students cannot accurately monitor their own understanding because fluent AI output creates false fluency signals
 - [[transfer-of-learning]] — Misattribution undermines transfer because students believe they have mastered material they have merely prompted; the gap between perceived and actual capability manifests as transfer failure
-- [[ai-tutor-safety-harms]] — SafeTutors' Cognitive (fluency illusion) and Ethical-Epistemic (misrepresentation) dimensions are tutoring-specific expressions of the fallacy
+- [[ai-tutor-safety-harms]] — SafeTutors' Cognitive (fluency illusion) and [[ethics|Ethical]]-Epistemic (misrepresentation) dimensions are tutoring-specific expressions of the fallacy
 - [[self-regulated-learning]] — Attribution ambiguity disrupts the self-evaluation phase of SRL, preventing accurate causal attribution and adaptation
 
 ## Implications for Education
 
 **Assessment integrity:** Completed assignments may reflect LLM capability rather than student learning. Observable outputs are unreliable proxies when AI mediation is invisible (both to human and automated evaluators).
 
-**Metacognitive scaffolding needed:** Interventions should help users correctly attribute contribution — e.g., requiring students to explain AI-generated content in their own words before submission, or using "explain-to-a-peer" protocols.
+**Metacognitive [[scaffolding]] needed:** Interventions should help users correctly attribute contribution — e.g., requiring students to explain AI-generated content in their own words before submission, or using "explain-to-a-peer" protocols.
 
 **Tool design:** Systems that surface their reasoning process (reducing opacity) or require iterative refinement by the user (reducing immediacy) may mitigate the fallacy.
 
-**Necessary conditions:** The fallacy emerges when (a) a task involves LLM-mediated output generation requiring domain expertise, (b) the interaction is seamless enough that the human/system boundary is not salient, and (c) the output exhibits fluency associated with skilled human performance. In education these conditions are nearly definitional for AI-assisted writing, coding, and problem-solving.
+**Necessary conditions:** The fallacy emerges when (a) a task involves LLM-mediated output generation requiring domain expertise, (b) the interaction is seamless enough that the human/system boundary is not salient, and (c) the output exhibits fluency associated with skilled human performance. In education these conditions are nearly definitional for AI-assisted writing, coding, and [[problem-solving]].
 
 **Credential inflation:** Because AI can raise short-term performance (assignment grades) while weakening the relationship between performance and competence, the LLM fallacy directly threatens the validity of [[authentic-assessment]] and the signaling function of educational credentials — degrees risk signaling AI-output-production skill rather than independently grounded expertise.
 

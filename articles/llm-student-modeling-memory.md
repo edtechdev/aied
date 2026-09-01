@@ -9,7 +9,7 @@ sources: ['raw/papers/nie-personavlm-long-term-personalization-2026.md']
 confidence: medium
 ---
 
-> Current AI tutoring systems treat each session as independent. Adaptive systems use real-time knowledge tracing (e.g., [[huang-interpretable-knowledge-tracing-2026|IRT-based models]]) but rarely retain a longitudinal student model that evolves across semesters. Longitudinal personalization is essential for effective scaffolding because:
+> Current AI tutoring systems treat each session as independent. [[adaptive-learning|Adaptive systems]] use real-time [[knowledge-tracing|knowledge tracing]] (e.g., [[huang-interpretable-knowledge-tracing-2026|IRT-based models]]) but rarely retain a longitudinal [[student-modeling|student model]] that evolves across semesters. Longitudinal [[personalized-learning|personalization]] is essential for effective [[scaffolding]] because:
 
 > PersonaVLM demonstrates a general-purpose framework for long-term user personalization—chronological memory extraction, evolving personality inference, and persona-aligned response generation—that maps directly onto the challenge of building AI tutoring systems that remember a student's learning history across months or years.([[nie-personavlm-long-term-personalization-2026]])
 
@@ -17,7 +17,7 @@ confidence: medium
 
 Current AI tutoring systems treat each session as independent. Adaptive systems use real-time knowledge tracing (e.g., [[huang-interpretable-knowledge-tracing-2026|IRT-based models]]) but rarely retain a longitudinal student model that evolves across semesters. Longitudinal personalization is essential for effective scaffolding because:
 
-1. **Preferences shift** — A student may initially prefer worked examples, later shift to Socratic questioning, then return to examples under stress
+1. **Preferences shift** — A student may initially prefer worked examples, later shift to [[socratic-method|Socratic questioning]], then return to examples under stress
 2. **Expertise builds** — [[self-regulated-learning|SRL skills]] develop over time, changing what scaffolding is appropriate
 3. **Transfer depends on history** — Whether [[transfer-of-learning|AI-assisted gains persist]] may depend on whether the tutor *remembers* past learning and spacing
 
@@ -48,27 +48,27 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 |---|---|
 | Persistent learner profile across sessions | Core memory + procedural memory |
 | Evolving preference for explanation style | Semantic memory + PEM personality alignment |
-| Remembering past misconceptions | Episodic memory with time-stamped retrieval |
+| Remembering past [[misconceptions]] | Episodic memory with time-stamped retrieval |
 | Calibrating to emotional state (frustration, motivation) | PEM neuroticism/extraversion tracking |
 
 ### Connection to Existing Tutoring Research
 
 - [[huang-interpretable-knowledge-tracing-2026]] provides real-time ability estimation but is session-constrained; integrating chronological episodic memory (as in PersonaVLM) could enable longitudinal knowledge modeling
-- [[self-regulated-learning]] frameworks identify regulation phases (planning, monitoring, reflection) that could map to Core/Procedural/Episodic memory types
-- [[stanford-evidence-base-ai-k12-2026|tutoring-specific design]] requires maintaining pedagogical guardrails even as the system personalizes; PersonaVLM's alignment mechanism could be constrained to educational (not just social) personality dimensions
+- [[self-regulated-learning]] frameworks identify [[regulation]] phases (planning, monitoring, reflection) that could map to Core/Procedural/Episodic memory types
+- [[stanford-evidence-base-ai-k12-2026|tutoring-specific design]] requires maintaining [[pedagogy|pedagogical]] [[guardrails]] even as the system personalizes; PersonaVLM's alignment mechanism could be constrained to educational (not just social) personality dimensions
 
 ## Limitations for Education
 
-1. **No educational evaluation:** Persona-MME benchmark tests general personal assistant scenarios, not tutoring
-2. **Privacy concerns in K-12:** Longitudinal student memory raises FERPA/COPPA questions; PersonaVLM's self-contained pipeline (no API dependency) mitigates this but local deployment remains infrastructure-heavy
+1. **No educational evaluation:** Persona-MME [[benchmark]] tests general personal assistant scenarios, not tutoring
+2. **Privacy concerns in [[k-12]]:** Longitudinal student memory raises FERPA/COPPA questions; PersonaVLM's self-contained pipeline (no API dependency) mitigates this but local deployment remains infrastructure-heavy
 3. **Bias risk:** Personality inference from limited student interaction may stereotype; EMA smoothing helps but doesn't eliminate it
-4. **Personality vs. competence:** Big Five alignment optimizes for user satisfaction, not necessarily [[learning-gains|learning outcomes]]—these can conflict (e.g., a student prefers easy answers, but learning requires productive struggle)
+4. **Personality vs. competence:** Big Five alignment optimizes for user satisfaction, not necessarily [[learning-gains|learning outcomes]]—these can conflict (e.g., a student prefers easy answers, but learning requires [[desirable-difficulties|productive struggle]])
 
 ## Open Questions
 
-1. What educational personality/adaptation dimensions should replace/modify Big Five? (e.g., academic goal orientation, prior knowledge state, metacognitive monitoring accuracy)
+1. What educational personality/adaptation dimensions should replace/modify Big Five? (e.g., academic goal orientation, [[prior-knowledge|prior knowledge state]], [[metacognition|metacognitive]] monitoring accuracy)
 2. How does longitudinal memory interact with spaced repetition and forgetting curves?
-3. Would a tutoring system with PersonaVLM-style memory produce better [[transfer-of-learning|transfer outcomes]] than episodic-only systems?
+3. Would a [[intelligent-tutoring|tutoring system]] with PersonaVLM-style memory produce better [[transfer-of-learning|transfer outcomes]] than episodic-only systems?
 4. What are the pedagogical guardrails needed to prevent personalization from becoming over-accommodation?
 
 ## Connected Concepts

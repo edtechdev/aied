@@ -14,7 +14,7 @@ confidence: high
 
 ## Summary
 
-This editorial synthesises the seven papers of the AEHE 51(5) special issue on feedback in the age of generative AI. Its central claim: the question is **not whether GenAI feedback is useful, but how human and GenAI feedback can be combined to sustainably support learning rather than merely improve immediate performance**. Teacher and student feedback literacy are necessary but not sufficient — what is also required is deliberate pedagogic design, institutional conditions that prioritise learning over efficiency, and the purposeful development of human judgement that cannot be delegated to the tool.
+This editorial synthesises the seven papers of the AEHE 51(5) special issue on feedback in the age of [[generative-ai|generative AI]]. Its central claim: the question is **not whether GenAI feedback is useful, but how human and GenAI feedback can be combined to sustainably support learning rather than merely improve immediate performance**. Teacher and student [[feedback-literacy|feedback literacy]] are necessary but not sufficient — what is also required is deliberate pedagogic design, [[governance|institutional]] conditions that prioritise learning over efficiency, and the purposeful development of human judgement that cannot be delegated to the tool.
 
 The issue's papers include four also ingested into this knowledge base: [[learner-centered-feedback-ai]], [[chatgpt-feedback-engagement-genai]], [[genai-teacher-feedback-comparison]], and [[care-full-feedback-genai]].
 
@@ -22,11 +22,11 @@ The issue's papers include four also ingested into this knowledge base: [[learne
 
 The editors distill five recurring tensions from the special issue:
 
-1. **Usefulness, trust, and uptake.** GenAI is valued for speed, clarity, and accessibility, while teacher feedback is trusted for contextual understanding, disciplinary expertise, accountability, and human connection. Uptake depends on experienced care, recognition, and presence — relational conditions GenAI struggles to reproduce.
-2. **Immediate task achievement vs longer-term learning.** GenAI excels at helping students complete the task at hand but may orient them toward performance/avoidance goals rather than mastery — echoed in [[chatgpt-feedback-engagement-genai]]'s finding of weak metacognitive engagement and one-off interactions.
-3. **Agency vs dependency.** Agency can be extended via iterative prompting and comparison, but may become "thinner" when students stay active at the level of interaction while ceding evaluative work to the system.
-4. **Access, avoidance, and advantage.** GenAI is unlikely to benefit all students equally; non-users cite trustworthiness, preference for human feedback, and academic integrity. Access alone does not guarantee educative uptake.
-5. **Teacher judgement and labour redistribution.** GenAI redistributes rather than removes teacher labour — teachers still assess accuracy, tone, relationality, and pedagogical value, and poorly designed tools can *increase* workload (see [[learner-centered-feedback-ai]]).
+1. **Usefulness, trust, and uptake.** GenAI is valued for speed, clarity, and [[accessibility]], while teacher feedback is trusted for contextual understanding, disciplinary expertise, accountability, and human connection. Uptake depends on experienced care, recognition, and presence — relational conditions GenAI struggles to reproduce.
+2. **Immediate task achievement vs longer-term learning.** GenAI excels at helping students complete the task at hand but may orient them toward performance/avoidance goals rather than mastery — echoed in [[chatgpt-feedback-engagement-genai]]'s finding of weak [[metacognition|metacognitive]] [[student-engagement|engagement]] and one-off interactions.
+3. **Agency vs dependency.** Agency can be extended via iterative [[prompt-engineering|prompting]] and comparison, but may become "thinner" when students stay active at the level of interaction while ceding evaluative work to the system.
+4. **Access, avoidance, and advantage.** GenAI is unlikely to benefit all students equally; non-users cite [[trust|trustworthiness]], preference for human feedback, and [[academic-integrity|academic integrity]]. Access alone does not guarantee educative uptake.
+5. **Teacher judgement and labour redistribution.** GenAI redistributes rather than removes teacher labour — teachers still assess accuracy, tone, relationality, and [[pedagogy|pedagogical]] value, and poorly designed tools can *increase* workload (see [[learner-centered-feedback-ai]]).
 
 ## Conditions of partnership
 
@@ -37,15 +37,15 @@ The editors distill five recurring tensions from the special issue:
 
 ## Feedback literacy for GenAI contexts
 
-- In a GenAI-enhanced essay-writing study in the issue, **feedback literacy predicted performance while frequency of GenAI use, trust, and prior knowledge did not** — the learner's capacity to seek, evaluate, and act on feedback shapes GenAI's educational value.
-- Existing feedback literacy frameworks (Carless & Boud 2018; Molloy et al. 2020) must be **extended** with GenAI-specific capacities: evaluative judgement (GenAI output can look authoritative while being hallucinatory), metacognitive skill (monitoring when GenAI supports vs narrows vs substitutes thinking), and ethical decision-making (when and how GenAI use supports rather than substitutes for students' own intellectual work).
+- In a GenAI-enhanced essay-writing study in the issue, **feedback literacy predicted performance while frequency of GenAI use, trust, and [[prior-knowledge|prior knowledge]] did not** — the learner's capacity to seek, evaluate, and act on feedback shapes GenAI's educational value.
+- Existing feedback literacy frameworks (Carless & Boud 2018; Molloy et al. 2020) must be **extended** with GenAI-specific capacities: evaluative judgement (GenAI output can look authoritative while being hallucinatory), metacognitive skill (monitoring when GenAI supports vs narrows vs substitutes thinking), and [[ethics|ethical]] decision-making (when and how GenAI use supports rather than substitutes for students' own intellectual work).
 - Teacher feedback literacy (design, relational, pragmatic dimensions; Carless & Winstone 2023) is less well theorised: design requires workable GenAI+human feedback workflows; relational oversight cuts both ways (teacher feedback is often perceived as more negative/risky than GenAI — see [[genai-teacher-feedback-comparison]]); pragmatically, what must remain human-led is not only connection but **accountable judgement**.
 
 ## Governance and assessment design
 
 - Policy cannot be purely top-down: acceptable GenAI support varies across courses and disciplines, and ambiguous institutional direction pushes responsibility down to individual teachers, individualising the challenge.
 - Assessment reform should make learning processes visible rather than treating final products as direct evidence; institutions must be deliberate about when GenAI use is itself part of what is being assessed.
-- Research should move beyond self-report toward in-situ methods (think-aloud, trace/log data, stimulated recall) and toward how learners **orchestrate feedback across sources** (human, GenAI, artefactual) that differ in credibility and value. Equity research should track not just tool access but educationally productive use.
+- [[research-methods-aied|Research]] should move beyond self-report toward in-situ methods (think-aloud, trace/log data, stimulated recall) and toward how learners **orchestrate feedback across sources** (human, GenAI, artefactual) that differ in credibility and value. [[equity-in-ai-education|Equity]] research should track not just tool access but educationally productive use.
 
 ## Connected Concepts
 

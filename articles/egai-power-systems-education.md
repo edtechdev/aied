@@ -11,13 +11,13 @@ sources: ['raw/papers/2608.02599.md']
 confidence: high
 ---
 
-> **An open, executable module library for engineering-grounded AI (EGAI) in power systems education lowers the entry barrier for newcomers, with a progressive difficulty ladder from DNN templates to physics-informed neural networks, delivered via IEEE online course and PES webinars.**
+> **An open, executable module library for engineering-grounded AI (EGAI) in power systems education lowers the entry barrier for newcomers, with a progressive difficulty ladder from DNN templates to [[physics-education|physics]]-informed neural networks, delivered via IEEE online course and PES webinars.**
 
 **Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li** — arXiv (cs.AI / eess.SY) preprint, 2026 (University of Tennessee, IEEE PES).
 
 ## Synthesis
 
-Community survey of researchers and practitioners: 92% report at least one barrier before running an [[ai-education|AI]] model and 94% want a power-specific hands-on course.
+Community survey of [[research-methods-aied|researchers]] and practitioners: 92% report at least one barrier before running an [[ai-education|AI]] model and 94% want a power-specific hands-on course.
 
 Framework is a progressive difficulty ladder mapping core AI concepts onto representative power-system tasks: DNN function approximation/load-curve fitting, domain-coupled CNN power-flow surrogate (5-bus), DNN-assisted optimization, DRL for battery storage control, and PINNs for the swing equation.
 

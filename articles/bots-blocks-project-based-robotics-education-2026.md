@@ -10,7 +10,7 @@ sources: ['raw/papers/geger-bots-blocks-project-robotics-2026.md']
 confidence: medium
 ---
 
-> **Synthesis:** Geger, Briechle, and Rausch (2026) propose a project-based learning approach for teaching robotics in higher education, arguing that classic study programs often fail to prepare students for industry work because of a lack of practical experience caused by solely theoretical lecturing. They present a framework for an agile, semester-spanning project where students learn to work with robots, part of the applied computer science degree program "Digital Technologies." The paper presents the framework and an exemplary project featuring the development of a disassembly software ecosystem for hardware robots.
+> **Synthesis:** Geger, Briechle, and Rausch (2026) propose a project-based learning approach for [[teacher-role|teaching]] robotics in higher education, arguing that classic study programs often fail to prepare students for industry work because of a lack of practical experience caused by solely theoretical lecturing. They present a framework for an agile, semester-spanning project where students learn to work with robots, part of the applied computer science degree program "Digital [[ai-technologies|Technologies]]." The paper presents the framework and an exemplary project featuring the development of a disassembly software ecosystem for hardware robots.
 
 ## Key Findings
 
@@ -21,7 +21,7 @@ confidence: medium
 
 ## Study Design & Method
 
-This is a **design/case presentation** of a project-based learning framework for robotics education. The authors describe an agile, semester-spanning project within the applied computer science degree program "Digital Technologies" in which students work with robots. They present the pedagogical framework and an exemplary project — the development of a disassembly software ecosystem for hardware robots — illustrating how the approach integrates practical and theoretical robotics skills.
+This is a **design/case presentation** of a project-based learning framework for robotics education. The authors describe an agile, semester-spanning project within the applied computer science degree program "Digital Technologies" in which students work with robots. They present the [[pedagogy|pedagogical]] framework and an exemplary project — the development of a disassembly software ecosystem for hardware robots — illustrating how the approach integrates practical and theoretical robotics skills.
 
 ## Implications for AI in Education
 

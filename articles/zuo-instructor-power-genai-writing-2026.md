@@ -23,18 +23,18 @@ confidence: high
 
 ## Theoretical framing: scale and polycentricity
 
-The study applies Blommaert's notions of **scale** and **polycentricity**, rarely used in GenAI research, to analyze power relations in instructors' AI pedagogical approaches. Scale imagines social phenomena as "hierarchically ranked and stratified," across horizontal (spaces) and vertical (local-to-global) dimensions. Polycentricity holds that multiple "evaluating authorities" or centers coexist at different scales, and individuals adapt their practices to meet these centers' expectations. This explains why instructors' AI perceptions are non-uniform and shaped by conflicting normative centers.
+The study applies Blommaert's notions of **scale** and **polycentricity**, rarely used in GenAI [[research-methods-aied|research]], to analyze power relations in instructors' AI [[pedagogy|pedagogical]] approaches. Scale imagines social phenomena as "hierarchically ranked and stratified," across horizontal (spaces) and vertical (local-to-global) dimensions. Polycentricity holds that multiple "evaluating authorities" or centers coexist at different scales, and individuals adapt their practices to meet these centers' expectations. This explains why instructors' AI perceptions are non-uniform and shaped by conflicting normative centers.
 
 ## Methodology
 
-An instrumental case study (exploratory approach) at "Palm Tree University," a four-year U.S. liberal-arts institution that had formed a University GenAI Task Force and a Quality Enhancement Plan on [[ai-literacy|information literacy]]. Data came from a questionnaire (33 of 265 [[teacher-role|faculty]]) and in-depth interviews with 10 focal participants across disciplines (English, Psychology, Education, Management, Biology, Medicine) and teaching experiences (3–27 years). Analysis used inductive coding (three rounds), thematic analysis across cases, and categorization/theorization.
+An instrumental case study (exploratory approach) at "Palm Tree University," a four-year U.S. liberal-arts institution that had formed a University GenAI Task Force and a Quality Enhancement Plan on [[ai-literacy|information literacy]]. Data came from a questionnaire (33 of 265 [[teacher-role|faculty]]) and in-depth interviews with 10 focal participants across disciplines (English, Psychology, Education, Management, [[biology-education|Biology]], [[medical-education|Medicine]]) and teaching experiences (3–27 years). Analysis used inductive coding (three rounds), thematic analysis across cases, and categorization/theorization.
 
 ## The four power centers in detail
 
 - **Global trend of GenAI:** The highest-level center; instructors felt they could not avoid the trend. Most saw affordances (brainstorming, drafting, support for [[language-learning|language learners]] and students with learning disabilities, an alternative to expensive prep schools, grading time-savings), while some were concerned about limitations and [[ethics|ethical]] issues. The title's "Will AI steal my glory?" captures an instructor's distress at discovering ChatGPT could generate work meeting all her assignment criteria.
 - **University and department:** Varying policies — some departments required syllabus AI statements while allowing instructor discretion; others had none. Instructors held mixed attitudes toward unified policy (wanting consistency vs. fearing restriction), and adjuncts felt limited by their discourse power.
 - **Colleagues:** Perceptions spanned "absolutely the whole spectrum" — from senior instructors holding back to active advocates who saw ongoing learning as a departmental responsibility.
-- **Students:** The direct stakeholders; instructors felt pressured to learn because "students will use it." Concerns included evaluating real proficiency, over-reliance ("laziness"), the [[digital-divide]] (unequal access to better tools), and ambiguity about whether writing or digital literacy was being assessed.
+- **Students:** The direct stakeholders; instructors felt pressured to learn because "students will use it." Concerns included evaluating real proficiency, [[cognitive-offloading|over-reliance]] ("laziness"), the [[digital-divide]] (unequal access to better tools), and ambiguity about whether writing or digital literacy was being assessed.
 
 ## Implications for AI in education
 

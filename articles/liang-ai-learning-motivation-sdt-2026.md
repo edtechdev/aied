@@ -32,7 +32,7 @@ Liang, Chiu, Yau, Meng, Yam, Chai & King (2026) extend Self-Determination Theory
 
 - **For [[ai-literacy|AI literacy]] educators:** motivation is not a fixed trait — supporting students' competence, relatedness, and autonomy can move them toward self-determined profiles with measurably better outcomes.
 - **For [[k-12|K-12]] and AI [[curriculum-design|curriculum design]]:** sustain psychological-need support across the full curriculum rather than relying on short-term AI-literacy instruction; attend to the differential starting points of female students and those with less prior AI experience.
-- **For [[self-determination-theory|SDT]] research:** extends need-satisfaction theory to AI learning, showing the motivational profiles replicate in this emerging domain and predict learning gains.
+- **For [[self-determination-theory|SDT]] [[research-methods-aied|research]]:** extends need-satisfaction theory to AI learning, showing the motivational profiles replicate in this emerging domain and predict learning gains.
 
 ## Connected Concepts
 

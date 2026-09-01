@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.28630.md']
 confidence: high
 ---
 
-> **Deliang Wang, Cunling Bian** — AIED 2026 (accepted full paper).
+> **Deliang Wang, Cunling Bian** — [[ai-education|AIED]] 2026 (accepted full paper).
 
 **Deliang Wang, Cunling Bian** — AIED 2026 (accepted full paper).
 
@@ -19,11 +19,11 @@ confidence: high
 
 A three-week [[generative-ai|GenAI]] course for 78 ethnic minority preparatory students in China integrated a [[human-in-the-loop-ai|human-in-the-loop]] workflow and teacher modeling with contrasting cases to move students from passive consumption to [[critical-thinking|critical co-creation]] with GenAI.
 
-Using epistemic network analysis of collaborative discourse, thematic analysis of reflections, and paired-samples t-tests on [[prompt-engineering|prompt self-efficacy]], the study documents 'strategic repurposing': students initially instrumentalized strategy talk to coordinate efficient copying before shifting toward genuine critical engagement.
+Using [[network-analysis|epistemic network analysis]] of collaborative discourse, thematic analysis of reflections, and paired-samples t-tests on [[prompt-engineering|prompt self-efficacy]], the study documents 'strategic repurposing': students initially instrumentalized strategy talk to coordinate efficient copying before shifting toward genuine critical [[student-engagement|engagement]].
 
 The design specifically targets the [[reducing-ai-misuse|cognitive-laziness risk]] of GenAI in [[equity-in-ai-education|equity contexts]] — where broader access could otherwise become an answer-engine shortcut — by [[scaffolding]] [[prompt-engineering|prompt engineering]] as a thinking practice.
 
-Results indicate pedagogical [[scaffolding]] can transform how minoritized students engage GenAI, with implications for [[prompt-engineering|prompt self-efficacy]] and collaborative discourse quality; findings support scaffolded rather than open-ended GenAI use for equity populations.
+Results indicate [[pedagogy|pedagogical]] [[scaffolding]] can transform how minoritized students engage GenAI, with implications for [[prompt-engineering|prompt self-efficacy]] and collaborative discourse quality; findings support scaffolded rather than open-ended GenAI use for equity populations.
 
 ## Connected Concepts
 

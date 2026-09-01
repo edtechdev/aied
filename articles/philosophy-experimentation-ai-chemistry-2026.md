@@ -9,7 +9,7 @@ discipline: [chemistry education]
 sources: ['raw/papers/philosophy-experimentation-ai-chemistry-2026.md']
 confidence: high
 ---
-> **Synthesis:** Reyes and Regala (2026) offer a philosophical examination of how **AI reshapes the epistemology, ontology, and methodology of experimentation in chemistry education**. AI-driven methods challenge the traditional realism/positivism of the chemistry laboratory, placing AI predictions in a **"liminal ontological space"** — neither wholly hypothetical nor fully real until empirically proven. The authors trace **ontological shifts** (e.g., AI-predicted compounds and titration curves blur the virtual/physical boundary), **[[agency|agency shift]]** (AI's role in decision-making raises questions about the locus of scientific [[creativity]]), and the risk of **over-reliance** on AI that automates routine tasks and alters how experiments are conceived. They argue for a **balanced human–AI framework** that maximizes AI's benefits while preserving the essential elements of scientific reasoning, intuition, creativity, and discovery. 
+> **Synthesis:** Reyes and Regala (2026) offer a philosophical examination of how **AI reshapes the epistemology, ontology, and methodology of experimentation in [[chemistry-education|chemistry education]]**. AI-driven methods challenge the traditional realism/positivism of the chemistry laboratory, placing AI predictions in a **"liminal ontological space"** — neither wholly hypothetical nor fully real until empirically proven. The authors trace **ontological shifts** (e.g., AI-predicted compounds and titration curves blur the virtual/physical boundary), **[[agency|agency shift]]** (AI's role in decision-making raises questions about the locus of scientific [[creativity]]), and the risk of **over-reliance** on AI that automates routine tasks and alters how experiments are conceived. They argue for a **balanced human–AI framework** that maximizes AI's benefits while preserving the essential elements of scientific reasoning, intuition, creativity, and discovery. 
 
 ## AI and the epistemology of experimentation
 
@@ -29,7 +29,7 @@ Using the synthesis of a new compound as a worked example, the authors detail ho
 
 - **Experimental control** — AI can optimize reaction conditions in real time, raising questions about the locus of scientific creativity and responsibility for outcomes.
 - **Randomization** — AI automates randomization with high precision but may introduce algorithmic [[equity-in-ai-education|bias]] and opacity.
-- The recommended approach is a **cooperative human–AI methodology** where AI optimizes design and provides data-driven insights while the [[teacher-role|educator]]/researcher provides theoretical foundations and evaluates the feasibility of AI-suggested conditions.
+- The recommended approach is a **cooperative human–AI methodology** where AI optimizes design and provides data-driven insights while the [[teacher-role|educator]]/[[research-methods-aied|researcher]] provides theoretical foundations and evaluates the feasibility of AI-suggested conditions.
 
 ## Over-reliance and the need for balance
 

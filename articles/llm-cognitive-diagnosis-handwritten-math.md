@@ -13,7 +13,7 @@ confidence: high
 sources: []
 ---
 
-> **MathCog** benchmark (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop-ai|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], benchmark).
+> **MathCog** [[benchmark]] (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop-ai|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], benchmark).
 
 ## Summary
 
@@ -22,7 +22,7 @@ This paper introduces **MathCog**, a benchmark dataset of 3,036 teacher-annotate
 ## Key Contributions
 
 1. **MathCog Benchmark** — First benchmark for cognitive skill diagnosis from handwritten math, grounded in TIMSS 2019 cognitive framework with Evident/Vague evidential strength labels
-2. **Systematic LLM Evaluation** — 18 models spanning reasoning, multimodal, and text-only architectures, all showing F1 < 0.5
+2. **Systematic [[llm]] Evaluation** — 18 models spanning reasoning, multimodal, and text-only architectures, all showing F1 < 0.5
 3. **Error Taxonomy** — Five systematic error patterns identified: evidence misidentification, rubric misinterpretation, over-inference, inconsistency, and hallucination
 4. **Evidential Calibration Metrics** — Introduces OverAttr and FalseAttr to quantify models' tendency to over-claim evidential confidence
 
@@ -46,7 +46,7 @@ All models perform worse when student evidence is Vague (implicit, incomplete, o
 Current LLMs lack the ability to calibrate confidence based on evidential quality. Educational AI systems need explicit mechanisms to **detect when evidence is insufficient** and communicate uncertainty rather than fabricate confident diagnoses. This connects to broader challenges in [[ground-truth-reliability-aied]] and [[hallucination-risk]].
 
 ### Teacher-in-the-Loop Architecture
-The authors advocate for [[human-in-the-loop-ai]] systems where LLM predictions support rather than replace teacher judgment. This aligns with [[teacher-role]] research on AI augmentation vs. automation, and with findings from [[cognitive-offloading|Over-Reliance]] studies showing that uncalibrated AI outputs can degrade human diagnostic accuracy.
+The authors advocate for [[human-in-the-loop-ai]] systems where LLM predictions support rather than replace teacher judgment. This aligns with [[teacher-role]] [[research-methods-aied|research]] on AI augmentation vs. automation, and with findings from [[cognitive-offloading|Over-Reliance]] studies showing that uncalibrated AI outputs can degrade human diagnostic accuracy.
 
 ### Benchmarking Beyond Accuracy
 MathCog demonstrates that standard accuracy metrics obscure critical failure modes in educational AI. The evidential calibration metrics (OverAttr, FalseAttr) introduced here complement evaluation approaches in benchmark design and [[ai-ed-evaluation]]. The dataset's Evident/Vague distinction parallels concerns in [[cognitive-offloading]] about when learners (and AI systems) should recognize the limits of available information.

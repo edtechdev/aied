@@ -12,7 +12,7 @@ sources: ['raw/papers/ethical-use-ai-engineering-education-review-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Osunbunmi and colleagues (2026) present a PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of empirical studies on the ethical use of AI in undergraduate engineering education, moving beyond conceptual discussions of [[ethics|AI ethics]] to examine how ethical guidance is actually enacted in instructional practice. From 2,158 records they retained 99 empirical studies, coding them for core ethical principles and identifying seven recurring forms of ethical guidance: transparency and disclosure of AI use; faculty–student accountability and human oversight; designing for student independence and agency; privacy and data protection; [[academic-integrity]] and authorship; fairness, equity, and bias mitigation; and beneficence. The review finds a consistent pattern — ethical AI guidance in engineering education is predominantly student-facing and compliance-oriented (centered on [[academic-integrity|academic integrity]] and disclosure), while reciprocal accountability for faculty AI use and institutional responsibility remains comparatively underdeveloped — and calls for a more balanced, practice-oriented approach to responsible AI integration.
+> **Synthesis:** Osunbunmi and colleagues (2026) present a PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of empirical studies on the ethical use of AI in undergraduate engineering education, moving beyond conceptual discussions of [[ethics|AI ethics]] to examine how ethical guidance is actually enacted in instructional practice. From 2,158 records they retained 99 empirical studies, coding them for core ethical principles and identifying seven recurring forms of ethical guidance: transparency and disclosure of AI use; faculty–[[student-experience|student accountability]] and [[human-in-the-loop-ai|human oversight]]; designing for student independence and agency; privacy and data protection; [[academic-integrity]] and authorship; fairness, [[equity-in-ai-education|equity]], and [[bias-mitigation|bias mitigation]]; and beneficence. The review finds a consistent pattern — ethical AI guidance in engineering education is predominantly student-facing and compliance-oriented (centered on [[academic-integrity|academic integrity]] and disclosure), while reciprocal accountability for faculty AI use and [[governance|institutional]] responsibility remains comparatively underdeveloped — and calls for a more balanced, practice-oriented approach to responsible AI integration.
 
 ## From policy to practice
 
@@ -20,7 +20,7 @@ The review responds to a shift in conversations about AI in [[engineering-educat
 
 ## Method
 
-Following PRISMA 2020, the authors searched eight databases (APA PsycInfo, ProQuest, ERIC, Engineering Village, Education Research Complete, ScienceDirect, Scopus, Web of Science). Inclusion criteria required empirical, peer-reviewed studies of AI use in undergraduate engineering education (2000–2025) that addressed ethical considerations explicitly or implicitly. The database search yielded 2,158 records; after deduplication and blind screening, 99 studies were retained for ethical analysis.
+Following PRISMA 2020, the authors searched eight databases (APA PsycInfo, ProQuest, ERIC, Engineering Village, Education [[research-methods-aied|Research]] Complete, ScienceDirect, Scopus, Web of Science). [[inclusive-learning|Inclusion]] criteria required empirical, peer-reviewed studies of AI use in undergraduate engineering education (2000–2025) that addressed ethical considerations explicitly or implicitly. The database search yielded 2,158 records; after deduplication and blind screening, 99 studies were retained for ethical analysis.
 
 ## Seven recurring forms of ethical guidance
 
@@ -28,7 +28,7 @@ Thematic analysis identified seven recurring forms of ethical guidance in engine
 
 1. **Transparency and disclosure of AI use** — openly communicating when and how AI is used.
 2. **Faculty–student accountability and human oversight** — taking responsibility for decisions and outcomes.
-3. **Designing for student independence and agency** — preserving students' own problem-solving and critical thinking.
+3. **Designing for student independence and agency** — preserving students' own [[problem-solving]] and [[critical-thinking|critical thinking]].
 4. **Privacy and data protection** — safeguarding sensitive educational data.
 5. **[[academic-integrity|Academic integrity]] and authorship** — ensuring authenticity of student work.
 6. **Fairness, equity, and bias mitigation** — treating learners equitably and avoiding AI bias.
@@ -38,7 +38,7 @@ Across the 99 studies, **accountability** (n = 47) and **transparency** (n = 34)
 
 ## A student-facing, compliance-oriented imbalance
 
-The central finding is that ethical AI guidance in engineering education is **predominantly student-facing and compliance-oriented** — often centered on [[academic-integrity|academic integrity]] and disclosure requirements — while **reciprocal accountability for faculty AI use and institutional responsibility remains underdeveloped**. The authors interpret this as a limitation: because engineering decisions directly affect public safety, infrastructure reliability, environmental sustainability, and societal wellbeing, ethical AI use in engineering classrooms is a matter of professional formation and societal responsibility, not merely academic policy. They document the need to make ethical guidance more balanced across students, faculty, and institutions, and to support [[educational-development]] so educators can guide responsible AI integration.
+The central finding is that ethical AI guidance in engineering education is **predominantly student-facing and compliance-oriented** — often centered on [[academic-integrity|academic integrity]] and disclosure requirements — while **reciprocal accountability for faculty AI use and institutional responsibility remains underdeveloped**. The authors interpret this as a limitation: because engineering decisions directly affect public safety, infrastructure reliability, environmental [[sustainability]], and societal [[well-being|wellbeing]], ethical AI use in engineering classrooms is a matter of professional formation and societal responsibility, not merely academic policy. They document the need to make ethical guidance more balanced across students, faculty, and institutions, and to support [[educational-development]] so educators can guide responsible AI integration.
 
 ## Implications
 

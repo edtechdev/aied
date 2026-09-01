@@ -11,14 +11,14 @@ sources: ['raw/papers/2607.24736.md']
 confidence: high
 ---
 
-Chen, Sakhnini and Istead run a three-wave longitudinal study in a senior software-requirements course where students could use instructor-provided or self-created cheat sheets in exams. Choices were shaped by trust in instructor expertise, desire for personalization, and preparation efficiency, and shifted over time. The make-vs-take decision is fundamentally a [[metacognition]] and [[self-regulated-learning]] question — creating a cheat sheet is itself a generative study strategy — with direct implications for exam design in [[authentic-assessment]], for optimizing preparation such as [[adaptive-pretesting-retention]], and for cognitive-structure views of exams like [[learnopt-exam-cognitive-structure]]. It also frames the trade-off AI raises: offloading artifact creation versus learning through creation, cf. [[cognitive-offloading-speedup-illusion]].
+Chen, Sakhnini and Istead run a three-wave longitudinal study in a senior software-requirements course where students could use instructor-provided or self-created cheat sheets in exams. Choices were shaped by trust in instructor expertise, desire for [[personalized-learning|personalization]], and preparation efficiency, and shifted over time. The make-vs-take decision is fundamentally a [[metacognition]] and [[self-regulated-learning]] question — creating a cheat sheet is itself a generative study strategy — with direct implications for exam design in [[authentic-assessment]], for optimizing preparation such as [[adaptive-pretesting-retention]], and for cognitive-structure views of exams like [[learnopt-exam-cognitive-structure]]. It also frames the trade-off AI raises: offloading artifact creation versus learning through creation, cf. [[cognitive-offloading-speedup-illusion]].
 
 ## Key Findings
 
 - Across three exams in the course, students' make-vs-take preferences were dynamic, not fixed: the balance between self-created and instructor-provided sheets shifted over time as students learned what actually helped them.
 - The decision was driven by three recurring factors — trust in the instructor's curation, the desire for a personalized sheet, and the efficiency of preparation — meaning the "take" choice is often an effort/trust trade-off rather than pure preference.
 - Constructing a cheat sheet operated as an active, generative study strategy (selection, condensation, organization), linking the choice directly to metacognitive and self-regulated learning rather than mere logistics.
-- The findings reframe exam policy: whether a student makes or takes a sheet shapes not just performance but the learning process itself, a tension that mirrors AI-driven cognitive offloading.
+- The findings reframe exam policy: whether a student makes or takes a sheet shapes not just performance but the learning process itself, a tension that mirrors AI-driven [[cognitive-offloading|cognitive offloading]].
 
 ## Implications
 

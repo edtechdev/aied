@@ -12,19 +12,19 @@ sources: ['raw/papers/trust-reliance-ai-education-2026.md']
 confidence: high
 ---
 
-> Pitts, Rani & Mildort (2026, AIED) show with 432 undergraduates that **higher [[trust]] in an AI assistant is associated with lower appropriate reliance**: students who trusted the assistant more were worse at discriminating correct from misleading AI suggestions during [[cs-education|Python problem-solving]]. The relationship is non-linear and **moderated by [[ai-literacy|AI literacy]] and [[metacognition|need for cognition]]** — trust is not a safe proxy for appropriate use.
+> Pitts, Rani & Mildort (2026, [[ai-education|AIED]]) show with 432 undergraduates that **higher [[trust]] in an AI assistant is associated with lower appropriate reliance**: students who trusted the assistant more were worse at discriminating correct from misleading AI suggestions during [[cs-education|Python problem-solving]]. The relationship is non-linear and **moderated by [[ai-literacy|AI literacy]] and [[metacognition|need for cognition]]** — trust is not a safe proxy for appropriate use.
 
 ## The experiment
 
 - 432 undergraduates solved Python output-prediction problems with recommendations + explanations from an [[llm|AI chatbot]] that included **accurate and intentionally misleading suggestions**
 - **Appropriate reliance** measured behaviourally: accepting correct suggestions, rejecting incorrect ones — a form of [[trust-calibration|calibration]]
-- Surveys captured trust, AI literacy, need for cognition, programming self-efficacy, programming literacy
+- Surveys captured trust, AI literacy, need for cognition, programming [[self-efficacy]], programming literacy
 
 ## Findings
 
 - **Non-linear trust→reliance relationship**: higher trust → lower appropriate reliance (weaker discrimination between correct/incorrect recommendations)
 - **Moderators: [[ai-literacy|AI literacy]] and [[metacognition|need for cognition]]** significantly shaped how trust translated into reliance behaviour
-- Implication: interventions should target *[[trust-calibration|calibration]]* — instructional and system supports that encourage reflective evaluation of AI assistance during problem-solving
+- Implication: interventions should target *[[trust-calibration|calibration]]* — instructional and system supports that encourage reflective [[ai-ed-evaluation|evaluation of AI]] assistance during [[problem-solving]]
 
 ## Connected Concepts
 

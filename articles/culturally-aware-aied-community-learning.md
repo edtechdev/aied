@@ -11,11 +11,11 @@ sources: ['raw/papers/2606.09041.md']
 confidence: medium
 ---
 
-Reports on cross-boundary Community-Based Learning where undergraduate students develop AI-enabled solutions for cultural heritage preservation and sustainable development. The paper argues that AIED research often lacks human-centered grounding and adequate attention to cultural context, and that Community-Based Learning — a pedagogy rooted in social work — remains underrepresented in AIED, particularly within Asia-Pacific contexts.
+Reports on cross-boundary Community-Based Learning where undergraduate students develop AI-enabled solutions for cultural heritage preservation and sustainable development. The paper argues that AIED [[research-methods-aied|research]] often lacks human-centered grounding and adequate attention to cultural context, and that Community-Based Learning — a [[pedagogy]] rooted in social work — remains underrepresented in AIED, particularly within Asia-Pacific contexts.
 
 **Contributions:** Examines how community-engaged computing operationalizes human-centered [[intelligent-tutoring|AIED]] across three dimensions: education, technology, and culture. Proposes a collaborative framework for [[ai-literacy|culturally-aware AIED]] that fosters multi-stakeholder collaboration while widening participation by dissolving disciplinary silos between social work and computational science.
 
-The framework emphasizes [[equity-in-ai-education|cultural contextualization]] of AI tools, community-driven problem identification, and [[student-experience|student-centered]] design processes. Relevant to [[higher-ed|higher education]] contexts seeking to integrate AI education with socially meaningful projects.
+The framework emphasizes [[equity-in-ai-education|cultural contextualization]] of AI tools, community-driven problem identification, and [[student-experience|student-centered]] design processes. Relevant to [[higher-ed|higher education]] contexts seeking to integrate [[ai-education|AI education]] with socially meaningful projects.
 
 ## Connected Concepts
 

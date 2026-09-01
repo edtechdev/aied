@@ -13,13 +13,13 @@ confidence: high
 
 > The guide adopts a middle way between "techno-fixing" and rejecting AI as an existential threat. It argues that:
 
-> A comprehensive educator's guide to integrating Generative AI into multimodal teaching, learning, and assessment across higher education. Built on Kress's social semiotic theory of multimodality, the guide positions GenAI as a 'cyber-social' partner that complements—but cannot replace—human meaning-making. It proposes the **MMLD-AI** unifying model (UDL + ABC Learning Design) and the **Dual-Track Cyber-Social Learning Model** for designing effective human-AI collaboration.^varga-atkins-educators-guide-multimodal-learning-genai-2025
+> A comprehensive educator's guide to integrating [[generative-ai|Generative AI]] into [[multimodal]] [[teacher-role|teaching]], learning, and assessment across [[higher-ed|higher education]]. Built on Kress's social semiotic theory of multimodality, the guide positions GenAI as a 'cyber-social' partner that complements—but cannot replace—human meaning-making. It proposes the **MMLD-AI** unifying model (UDL + ABC [[learning-design|Learning Design]]) and the **Dual-Track Cyber-Social Learning Model** for designing effective [[human-ai-collaboration|human-AI collaboration]].^varga-atkins-educators-guide-multimodal-learning-genai-2025
 
 ## Core Position: Pragmatic, Not Uncritical
 
 The guide adopts a middle way between "techno-fixing" and rejecting AI as an existential threat. It argues that:
 - GenAI is already embedded in daily life; ignoring it does students a disservice
-- GenAI is **not intelligent** (no consciousness, understanding, or ethical judgement)
+- GenAI is **not intelligent** (no consciousness, understanding, or [[ethics|ethical]] judgement)
 - Human educators and learners bring vision, purpose, nuanced critique, and meaning-making that AI cannot replicate
 - Effective use requires **cyber-social partnership**: humans and machines with complementary strengths
 
@@ -27,9 +27,9 @@ The guide adopts a middle way between "techno-fixing" and rejecting AI as an exi
 
 | Cost Domain | Key Concern | Educational Response |
 |-------------|-------------|---------------------|
-| **Individual** | Privacy, data protection, equity of access, mental health, over-reliance | Transparent authorship; approved tools list; scaffolded critical engagement |
+| **Individual** | Privacy, data protection, [[equity-in-ai-education|equity]] of access, mental health, over-reliance | Transparent authorship; approved tools list; scaffolded critical [[student-engagement|engagement]] |
 | **Environment** | Image/video/audio generation uses significantly more energy than text | Mindful use; limit iterations; group demonstrations; digital decluttering |
-| **Knowledge** | Removes sourcing process integral to retention; short-term gains may displace deep learning | Students clarify own understanding *before* consulting AI; metacognitive scaffolding |
+| **Knowledge** | Removes sourcing process integral to retention; short-term gains may displace deep learning | Students clarify own understanding *before* consulting AI; metacognitive [[scaffolding]] |
 | **Future Jobs** | Entry-level white-collar roles vulnerable to automation | Focus on human strengths: contextual reasoning, ethical judgement, craftsmanship |
 
 ## AI Literacy in Multimodal Contexts
@@ -38,7 +38,7 @@ The guide adopts a middle way between "techno-fixing" and rejecting AI as an exi
 
 1. **Basic literacy** — Awareness of multimodal GenAI platforms, capabilities, and appropriate uses (creating prompts, generating visual outputs)
 2. **Intermediate literacy** — Co-create multimodal content, critically evaluate AI outputs, scaffold uses (transform lecture notes into visuals or podcasts)
-3. **Advanced literacy** — Design activities/assessments incorporating multimodal GenAI; lead ethical and philosophical discussions
+3. **Advanced literacy** — Design activities/assessments incorporating multimodal GenAI; lead ethical and [[philosophy-of-ai-in-education|philosophical]] discussions
 
 ### Four Implementation Scales
 
@@ -46,19 +46,19 @@ The guide adopts a middle way between "techno-fixing" and rejecting AI as an exi
 |-------|-----------|
 | **Individual** | Workshops on creative multimodal tasks; prompt crafting practice; reflective assignments documenting AI use |
 | **Module** | Embed GenAI literacy into [[learning-gains|learning outcomes]]; optional multimodal tasks with clear rubrics; creative/reflective critique components |
-| **Programme** | Cross-module policies; consistency and transparency via workshops and discussion; alignment with graduate attributes (criticality, creativity, digital fluency) |
-| **Institutional** | Clear policies with checklists; vetted tools; data privacy protocols enforced; avoid rigid mandates in favor of flexible guidance |
+| **Programme** | Cross-module policies; consistency and transparency via workshops and discussion; alignment with graduate attributes (criticality, [[creativity]], digital fluency) |
+| **[[governance|Institutional]]** | Clear policies with checklists; vetted tools; [[privacy|data privacy]] protocols enforced; avoid rigid mandates in favor of flexible guidance |
 
 ## The MMLD-AI Unifying Model
 
 The **Multimodal Learning Design with GenAI** model merges:
-- **Universal Design for Learning (UDL)**: multiple means of engagement, representation, and action/expression
+- **[[universal-design-for-learning|Universal Design for Learning]] (UDL)**: multiple means of engagement, representation, and action/expression
 - **ABC Learning Design**: storyboarding the student journey through learning types
 
 ### Six Multimodal Engagement Types (adapted from ABC)
 
 1. **Acquisition** of information
-2. **Investigation** and/or research
+2. **Investigation** and/or [[research-methods-aied|research]]
 3. **Collaboration** with others
 4. **Production** of artefacts (learning, teaching, or assessment)
 5. **Practice** of approaches/theories/principles/skills
@@ -72,9 +72,9 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 
 | Process | Human Strengths | AI Strengths | Cyber-Social Approach |
 |---------|----------------|--------------|---------------------|
-| Knowledge & framing | Contextual understanding; embodied knowledge; critical verification | Rapid data retrieval; pattern recognition; broad topical coverage | Humans define purpose and frame problems; AI generates background data and inspiration; humans filter and verify |
+| Knowledge & framing | Contextual understanding; [[embodied-learning|embodied]] knowledge; critical verification | Rapid data retrieval; pattern recognition; broad topical coverage | Humans define purpose and frame problems; AI generates background data and inspiration; humans filter and verify |
 | Interpretation & analysis | Causal reasoning; cultural/ethical awareness; implicit meaning | Correlation analysis; theme identification; feature extraction at scale | AI identifies statistical patterns; humans determine causality, relevance, deeper significance |
-| Application & prototyping | Situated judgement; adaptive problem-solving; ethical decision-making; craftsmanship | Rapid simulation; consistent rule application; code/digital artefact generation | AI generates digital prototypes; humans adapt for real-world complexity, apply physical craft, ensure ethics |
+| Application & prototyping | [[situated-learning|Situated]] judgement; adaptive [[problem-solving]]; ethical decision-making; craftsmanship | Rapid simulation; consistent rule application; code/digital artefact generation | AI generates digital prototypes; humans adapt for real-world complexity, apply physical craft, ensure ethics |
 | Synthesis & creation | Novel conceptual blending; purpose-driven integration | Cross-domain pattern integration; combinatorial exploration | AI explores possible combinations; humans evaluate, refine, and integrate meaningfully |
 
 ## Practical Integration: Three Strands
@@ -82,13 +82,13 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 ### Teaching (Educator-Created Content)
 - Generating visuals, diagrams, and infographics from text prompts
 - Creating podcast scripts and video summaries
-- Building interactive simulations and virtual scenarios
+- Building interactive [[simulation|simulations]] and virtual scenarios
 - Using AI to get feedback on marking rubrics and assessment briefs
 
 ### Learning (Student-Created Content)
 - Students transform lecture notes into multimodal artefacts (visuals, podcasts, videos)
 - Collaborative group projects using GenAI for brainstorming and prototyping
-- Critical evaluation: students annotate AI-generated outputs for accuracy, bias, coherence
+- [[critical-thinking|Critical evaluation]]: students annotate AI-generated outputs for accuracy, bias, coherence
 - Ethical protocols establishing clear boundaries (e.g., "do not use AI to write reflections; do use it for brainstorming visuals")
 
 ### Assessment and Feedback
@@ -102,12 +102,12 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 | Guide Principle | Knowledge Base Connection |
 |-----------------|----------------|
 | Cyber-social partnership (complementary strengths) | [[principled-ai-education]] — "AI must augment, not displace" aligns perfectly |
-| Four costs framework (individual, environment, knowledge, jobs) | [[ai-tutor-safety-harms]] — Costs to knowledge overlap with cognitive offloading; environmental costs are a new dimension |
+| Four costs framework (individual, environment, knowledge, jobs) | [[ai-tutor-safety-harms]] — Costs to knowledge overlap with [[cognitive-offloading|cognitive offloading]]; environmental costs are a new dimension |
 | AI literacy levels and scales | [[ai-literacy]] — [[icap-framework|ICAP]] framework; [[collaborative-learning|collaborative learning]]; this guide adds institutional scaling and multimodal specificity |
-| MMLD-AI model (UDL + ABC + six engagement types) | [[adaptive-learning]] — Multi-resolution personalization; [[agentic-workflows-education]] — Planning and reflection paradigms |
+| MMLD-AI model (UDL + ABC + six engagement types) | [[adaptive-learning]] — Multi-resolution [[personalized-learning|personalization]]; [[agentic-workflows-education]] — Planning and reflection paradigms |
 | Dual-Track Cyber-Social Model | [[pedagogical-llm-training]] — Reward "guiding" over "answering"; [[human-in-the-loop-ai]] — Human verification of AI outputs |
 | Multimodal assessment redesign | [[authentic-assessment]] — Six-dimensional framework; [[formative-assessment]] — AI-generated feedback with human validation |
-| Scaffolding and metacognition | [[self-regulated-learning]] — UDL's emphasis on student agency; [[metacognition]] — Cyber-social metacognitive awareness |
+| Scaffolding and metacognition | [[self-regulated-learning]] — UDL's emphasis on [[agency|student agency]]; [[metacognition]] — Cyber-social metacognitive awareness |
 | Faculty development across four scales | [[educational-development]] — CTL pragmatic transition model; this guide adds module-level and programme-level strategies |
 
 ## Case Study Themes from the Guide
@@ -116,16 +116,16 @@ The guide includes 15+ educator case studies spanning:
 - **Healthcare**: AI avatars for patient communication training (H5P interactive scenarios)
 - **Bioscience**: Multimodal groupwork designing organisms for future Earth scenarios
 - **Business/HR**: Peer conflict resolution with AI-generated scenarios and video avatars
-- **Education/Teacher training**: AI visual metaphors for reflective practice
-- **Chemistry**: AI-generated molecular visualizations and 3D models
+- **Education/[[teacher-education|Teacher training]]**: AI visual metaphors for reflective practice
+- **[[chemistry-education|Chemistry]]**: AI-generated molecular visualizations and 3D models
 - **Languages**: Text-to-speech and avatar creation for pronunciation practice
 - **General**: Explainer videos, digital posters, podcast scripts, interactive quizzes
 
 ## Open Questions
 
-1. **Environmental cost awareness**: How can educators and students make informed trade-offs between the pedagogical value of multimodal GenAI artefacts and their energy costs?
+1. **Environmental cost awareness**: How can educators and students make informed trade-offs between the [[pedagogy|pedagogical]] value of multimodal GenAI artefacts and their energy costs?
 2. **Transfer across modalities**: Does competence in AI-assisted multimodal creation in one domain (e.g., visual design) transfer to another (e.g., audio production)?
-3. **Assessment validity**: When students use GenAI to create multimodal assessment artefacts, how can assessors distinguish genuine human meaning-making from AI-generated polish?
+3. **[[assessment-validity|Assessment validity]]**: When students use GenAI to create multimodal assessment artefacts, how can assessors distinguish genuine human meaning-making from AI-generated polish?
 4. **Scaling the MMLD-AI model**: Can the six engagement types be operationalized as automatic learning design recommendations, or does human pedagogical judgment remain essential?
 
 ## Connected Concepts
