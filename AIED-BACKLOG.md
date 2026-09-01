@@ -4,10 +4,10 @@
 >
 > **Policy (2026-08-23):** an article is only added to this backlog (never ingested as an abstract-only wiki page) when its **full text cannot be retrieved** — e.g. the publisher blocks scraping with CAPTCHA, or the fetch times out. The maintainer downloads the PDF and sends it for full-text ingestion.
 
-**Last updated:** 2026-08-30
-**Total backlog:** 92 articles
+**Last updated:** 2026-09-01
+**Total backlog:** 57 articles
 
-Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Computers and Education Open (CEAO), British Journal of Educational Technology (BJET), Frontiers in Psychology. See `tooling/scripts/fetch-rss-feeds.py`.
+Journal feeds: Computers and Education: Artificial Intelligence (CAEAI). See `tooling/scripts/fetch-rss-feeds.py`.
 
 ---
 
@@ -70,56 +70,3 @@ Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Compute
 - [Enhancing AI literacy course satisfaction through empowerment in AI problem-solving and ethical awareness: Development and validation of an AI project-based learning scale](https://www.sciencedirect.com/science/article/pii/S2666920X2600086X) — [DOI: 10.1016/j.caeai.2026.100624](https://doi.org/10.1016/j.caeai.2026.100624)
 - [Personalized neural cognitive architecture search: AutoML-driven diagnostic model generation for heterogeneous learner profiles](https://www.sciencedirect.com/science/article/pii/S2666920X26000822) — [DOI: 10.1016/j.caeai.2026.100620](https://doi.org/10.1016/j.caeai.2026.100620)
 - [Generative AI in scenario-based healthcare education: A systematic review of applications, validation practices, and pedagogical integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001165) — [DOI: 10.1016/j.caeai.2026.100654](https://doi.org/10.1016/j.caeai.2026.100654)
-
-## Computers and Education Open (CEAO)
-
-- [Ubuntu-Ẹ̀kọ́ framework: A four-pillared critical-cultural-contextual-communal model for cultivating, educating and enhancing an AI-ready African workforce](https://www.sciencedirect.com/science/article/pii/S2666557326000431) — [DOI: 10.1016/j.caeo.2026.100372](https://doi.org/10.1016/j.caeo.2026.100372)
-- [Beyond skepticism: Question marks surrounding AI and AIED policies in Africa](https://www.sciencedirect.com/science/article/pii/S2666557326000418) — [DOI: 10.1016/j.caeo.2026.100370](https://doi.org/10.1016/j.caeo.2026.100370)
-- [An experimental study exploring human–AI complementarity in early social-emotional learning](https://www.sciencedirect.com/science/article/pii/S2666557326000029) — [DOI: 10.1016/j.caeo.2026.100331](https://doi.org/10.1016/j.caeo.2026.100331)
-- [Perceived utility moderates motivational intervention effects in learning to teach responsibly with GenAI](https://www.sciencedirect.com/science/article/pii/S2666557325000837) — [DOI: 10.1016/j.caeo.2025.100324](https://doi.org/10.1016/j.caeo.2025.100324)
-- [Pre-service teachers’ agency during their interactions with generative AI while designing for learning – a process view on Intelligent-TPACK](https://www.sciencedirect.com/science/article/pii/S2666557325000849) — [DOI: 10.1016/j.caeo.2025.100325](https://doi.org/10.1016/j.caeo.2025.100325)
-- [Emotion-aware learning analytics dashboards: Effects on metacognitive regulation, academic performance, and engagement in self-paced MOOCs](https://www.sciencedirect.com/science/article/pii/S266655732600056X) — [DOI: 10.1016/j.caeo.2026.100385](https://doi.org/10.1016/j.caeo.2026.100385)
-- [Beyond the hype – How higher education stakeholders view the benefits and concerns of generative AI for teaching, research, and administration](https://www.sciencedirect.com/science/article/pii/S2666557326000522) — [DOI: 10.1016/j.caeo.2026.100381](https://doi.org/10.1016/j.caeo.2026.100381)
-- [Generative Artificial Intelligence integration in higher education: A constructivist learning theory approach](https://www.sciencedirect.com/science/article/pii/S2666557326000492) — [DOI: 10.1016/j.caeo.2026.100378](https://doi.org/10.1016/j.caeo.2026.100378)
-- [Higher education students’ perspectives on GenAI in learning and career futures in the Visegrad countries](https://www.sciencedirect.com/science/article/pii/S2666557326000297) — [DOI: 10.1016/j.caeo.2026.100357](https://doi.org/10.1016/j.caeo.2026.100357)
-- [Sweden’s quiet revolution: rethinking ai training in business schools](https://www.sciencedirect.com/science/article/pii/S2666557326000352) — [DOI: 10.1016/j.caeo.2026.100363](https://doi.org/10.1016/j.caeo.2026.100363)
-- [AI-mediated feedback in English learning: Moroccan graduate students’ accounts of motivation, autonomy, and trust conditions](https://www.sciencedirect.com/science/article/pii/S2666557326000285) — [DOI: 10.1016/j.caeo.2026.100356](https://doi.org/10.1016/j.caeo.2026.100356)
-- [Activity theory as a lens on teachers’ adoption of AI technologies: A structural equation modeling](https://www.sciencedirect.com/science/article/pii/S2666557326000200) — [DOI: 10.1016/j.caeo.2026.100349](https://doi.org/10.1016/j.caeo.2026.100349)
-- [Student motivation and need satisfaction in GenAI-supported classrooms: A self-determination theory perspective](https://www.sciencedirect.com/science/article/pii/S2666557326000194) — [DOI: 10.1016/j.caeo.2026.100348](https://doi.org/10.1016/j.caeo.2026.100348)
-- [The collision of pedagogy and algorithm: Emergence of a new gender gap?](https://www.sciencedirect.com/science/article/pii/S2666557326000212) — [DOI: 10.1016/j.caeo.2026.100350](https://doi.org/10.1016/j.caeo.2026.100350)
-- [Making AI annoying on purpose: when helpful tools don't always help](https://www.sciencedirect.com/science/article/pii/S2666557326000145)
-- [The use and usefulness of GenAI in higher education: Student experience and perspectives](https://www.sciencedirect.com/science/article/pii/S2666557326000182)
-- [Longitudinal insights into AI in education: Usage, ethics, and policy development in higher education](https://www.sciencedirect.com/science/article/pii/S2666557325000886) — [DOI: 10.1016/j.caeo.2025.100329](https://doi.org/10.1016/j.caeo.2025.100329)
-- [Design and validation of a questionnaire on teachers' uses of generative artificial intelligence](https://www.sciencedirect.com/science/article/pii/S2666557326000030) — [DOI: 10.1016/j.caeo.2026.100332](https://doi.org/10.1016/j.caeo.2026.100332)
-- [Ethical conditions for university students’ adoption of large language models in exam preparation contexts](https://www.sciencedirect.com/science/article/pii/S2666557325000825) — [DOI: 10.1016/j.caeo.2025.100323](https://doi.org/10.1016/j.caeo.2025.100323)
-- [Creating digital twins awareness in African higher education institutions: Bibliometric analysis from top influential countries](https://www.sciencedirect.com/science/article/pii/S2666557326000789) — [DOI: 10.1016/j.caeo.2026.100407](https://doi.org/10.1016/j.caeo.2026.100407)
-- [Exploring basic school leaders' AI readiness: The role of professional development](https://www.sciencedirect.com/science/article/pii/S2666557326000807) — [DOI: 10.1016/j.caeo.2026.100409](https://doi.org/10.1016/j.caeo.2026.100409)
-- [Rethinking data privacy for AI Adoption in African Higher Education: A meta-synthesis of stakeholder perceptions and policy implications](https://www.sciencedirect.com/science/article/pii/S2666557326000790) — [DOI: 10.1016/j.caeo.2026.100408](https://doi.org/10.1016/j.caeo.2026.100408)
-- [AI training and science student teachers’ TPACK in campus-based and distance education: a comparative study](https://www.sciencedirect.com/science/article/pii/S2666557326000819) — [DOI: 10.1016/j.caeo.2026.100410](https://doi.org/10.1016/j.caeo.2026.100410)
-- [Levels of AI awareness and pedagogical skills among Nigerian teachers: The differentials of gender and teachers’ experience](https://www.sciencedirect.com/science/article/pii/S2666557326000728) — [DOI: 10.1016/j.caeo.2026.100401](https://doi.org/10.1016/j.caeo.2026.100401)
-- [Institutional structures, digital inequality, and AI integration in higher education](https://www.sciencedirect.com/science/article/pii/S2666557326000716) — [DOI: 10.1016/j.caeo.2026.100400](https://doi.org/10.1016/j.caeo.2026.100400)
-- [Evaluating AI-based visual privacy through Cartoonification: Impact on expressive participation and consent for data retention](https://www.sciencedirect.com/science/article/pii/S2666557326000649) — [DOI: 10.1016/j.caeo.2026.100393](https://doi.org/10.1016/j.caeo.2026.100393)
-- [A pilot educational framework for AI-enhanced digital manufacturing and reflective skill development](https://www.sciencedirect.com/science/article/pii/S2666557326000133) — [DOI: 10.1016/j.caeo.2026.100342](https://doi.org/10.1016/j.caeo.2026.100342)
-- [Junior high school student perspectives on the use of ChatGPT in music education](https://www.sciencedirect.com/science/article/pii/S2666557326000583) — [DOI: 10.1016/j.caeo.2026.100387](https://doi.org/10.1016/j.caeo.2026.100387)
-- [Temporal dynamics of online learning interactions: A learning analytics study within the CoI framework](https://www.sciencedirect.com/science/article/pii/S2666557326000698) — [DOI: 10.1016/j.caeo.2026.100398](https://doi.org/10.1016/j.caeo.2026.100398)
-
-## British Journal of Educational Technology (BJET)
-
-_BJET articles are not open access and have been removed from the backlog (2026-08-30)._
-
-## International Journal of Educational Technology in Higher Education (IJETHE)
-
-- [Knowledge-augmented form-filling agent for higher education services](https://link.springer.com/article/10.1186/s41239-026-00612-x) — [DOI: 10.1186/s41239-026-00612-x](https://doi.org/10.1186/s41239-026-00612-x)
-- [Shaping responsible GenAI use in research through AI literacy-oriented guidelines: insights from postgraduate students](https://link.springer.com/article/10.1186/s41239-026-00609-6) — [DOI: 10.1186/s41239-026-00609-6](https://doi.org/10.1186/s41239-026-00609-6)
-- [Evaluation indicator system for AI certificate programs](https://link.springer.com/article/10.1186/s41239-026-00604-x) — [DOI: 10.1186/s41239-026-00604-x](https://doi.org/10.1186/s41239-026-00604-x)
-- [AIGC-enhanced learning analytics in film education: a decision-making framework for creative pedagogy in Chinese higher education](https://link.springer.com/article/10.1186/s41239-026-00593-x) — [DOI: 10.1186/s41239-026-00593-x](https://doi.org/10.1186/s41239-026-00593-x)
-
-## Frontiers in Psychology
-
-- [Is employment anxiety among vocal music students associated with AI replacement concerns? The roles of AI anxiety and vocal-performance replacement perception](https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1923159) — [DOI: 10.3389/fpsyg.2026.1923159](https://doi.org/10.3389/fpsyg.2026.1923159)
-
-- [Layer-sensitive cognitive offloading in generative AI-assisted writing: supported performance and independent no-AI outcomes](https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1906199) — [DOI: 10.3389/fpsyg.2026.1906199](https://doi.org/10.3389/fpsyg.2026.1906199)
-
-## Abstract-only wiki pages (need full text)
-
-> The following article pages exist in the wiki but were ingested from **abstracts only** (no full text in `raw/papers/`). They are grouped by source and need their full-text PDFs to be enriched. Send the PDF to match by DOI/title for full-text ingestion.
