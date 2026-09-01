@@ -18,6 +18,16 @@ import sys
 # of the SAME list breaks the list into separate lists, restarting at 1.
 ORDERED_SPLIT = re.compile(r"^(\d+)\. .*\n\n(?=(\d+)\. )", re.M)
 
+# A standalone source/PDF link line in the narrative body (e.g. "📄 [PDF](https://arxiv.org/pdf/…)")
+# is redundant — the source must be linked ONLY in the bottom ## Citation (title→source, one link).
+# These stray top-of-page links were a recurring maintainer-flagged defect; flag any line that is
+# *only* a markdown external link (optionally prefixed with "📄" and/or "arXiv ·"), plus "📄 DOI:/arXiv"
+# bare lines. The ## Citation section is excluded so its legitimate title→source link never triggers.
+STRAY_SOURCE_LINK = re.compile(
+    r"^\s*(?:📄\s*)?(?:arXiv\s*·\s*)?\[[^\]]+\]\(https?://[^\s)]+\)\s*$", re.M
+)
+STRAY_SOURCE_BARE = re.compile(r"^\s*📄\s*(?:DOI|arXiv)\b", re.M)
+
 
 def scan_file(path):
     try:
@@ -27,6 +37,8 @@ def scan_file(path):
     if body.count("---") >= 2:
         parts = body.split("---", 2)
         body = parts[2]  # narrative only; ignore frontmatter
+    # Exclude the citation section entirely — its title→source hyperlink is expected.
+    narrative = body.split("## Citation", 1)[0]
     issues = []
     for m in ORDERED_SPLIT.finditer(body):
         cur = int(m.group(1))
@@ -36,6 +48,14 @@ def scan_file(path):
             line_no = body[:m.start()].count("\n") + 1
             snippet = m.group(0).split("\n")[0][:50]
             issues.append(f"ordered-list blank-line split near line {line_no} ({snippet}…)")
+    for m in list(STRAY_SOURCE_LINK.finditer(narrative)) + list(
+        STRAY_SOURCE_BARE.finditer(narrative)
+    ):
+        line_no = narrative[:m.start()].count("\n") + 1
+        issues.append(
+            f"stray source/PDF link in body (line {line_no}): {m.group(0).strip()[:60]} "
+            f"— the source must be hyperlinked ONLY in the bottom ## Citation"
+        )
     return issues
 
 
