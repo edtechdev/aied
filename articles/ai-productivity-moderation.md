@@ -14,10 +14,10 @@ confidence: high
 This ICML 2026 position paper argues that adopting AI in organizational practice does not automatically yield productivity gains — human and environmental factors critically moderate the relationship. Drawing on the partial equilibrium model of Gries and Naudé (2022), it identifies five key moderators that can attenuate or negate productivity benefits.
 
 ## Five Moderating Factors
-1. **Human resource composition** — the mix of skills, roles, and experience in the workforce
+1. **Human resource [[writing-education|composition]]** — the mix of skills, roles, and experience in the workforce
 2. **Baseline capability of individuals** — pre-existing competence before AI introduction
 3. **Learning curve of practitioners** — how quickly users adapt to AI tools
-4. **Incentives for fair use** — motivations for appropriate and ethical AI usage
+4. **Incentives for fair use** — motivations for appropriate and [[ethics|ethical]] AI usage
 5. **Flexibility of objectives** — organizational ability to adjust goals with AI integration
 
 ## Relevance to AI in Education

@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.14113.md']
 confidence: high
 ---
 
-This paper investigates whether [[llm|large language models]] can serve as scalable proxies for students by simulating realistic logical errors in code submissions. Using the CodeWorkout dataset of 74,000+ unique student Java submissions across 37 problems, the authors evaluate five LLMs under three prompting strategies: Input-Output (IO), Chain-of-Thought (CoT), and iterative Self-Refine.
+This paper investigates whether [[llm|large language models]] can serve as scalable proxies for students by simulating realistic logical errors in code submissions. Using the CodeWorkout dataset of 74,000+ unique student Java submissions across 37 problems, the authors evaluate five LLMs under three [[prompt-engineering|prompting]] strategies: Input-Output (IO), Chain-of-Thought (CoT), and iterative Self-Refine.
 
 - **Diversity vs. Alignment trade-off**: LLMs generate diverse error patterns, but alignment with authentic student errors varies significantly by model. Claude Sonnet 4 achieves the most balanced performance across both dimensions.
 - **Functional indistinguishability**: A blinded expert annotation study (N=401) found that synthetic errors are functionally indistinguishable from authentic student errors.
@@ -24,7 +24,7 @@ The study used the CodeWorkout dataset with 74,000+ unique student Java submissi
 
 ## Related Work
 
-This work extends research on [[llm-student-simulation-misconception-faithfulness|LLM-based student simulation]] and [[llm-student-misconception-identification|student misconception identification]]. It connects to [[programming-its|programming intelligent tutoring systems]] and [[student-modeling|student modeling]] by offering a scalable method for generating training and evaluation data. The findings also inform [[ai-generated-traces-novice-programmers|AI-generated traces from novice programmers]] and research on [[code-review-genai-cs1|code review with generative AI in CS1]].
+This work extends [[research-methods-aied|research]] on [[llm-student-simulation-misconception-faithfulness|LLM-based student simulation]] and [[llm-student-misconception-identification|student misconception identification]]. It connects to [[programming-its|programming intelligent tutoring systems]] and [[student-modeling|student modeling]] by offering a scalable method for generating training and evaluation data. The findings also inform [[ai-generated-traces-novice-programmers|AI-generated traces from novice programmers]] and research on [[code-review-genai-cs1|code review with generative AI in CS1]].
 
 ## Connected Concepts
 - [[cs-education]]

@@ -9,7 +9,7 @@ sources: ["https://doi.org/10.1002/jcal.70310"]
 confidence: high
 ---
 
-> **Emergent [[agency|learner agency]] in implicit [[human-ai-collaboration|human-AI collaboration]]** — a large experimental study (224 students, 97 online triads) showing that supportive and contrarian AI personas reshape learner agency even when the AI operates as an *undisclosed teammate*. Contrarian AI pulled group discourse into challenge- and reflection-oriented trajectories ([[desirable-difficulties|productive friction]]), while supportive AI stabilized agreement and renewed ideation. But contrarian personas reduced teamwork satisfaction and psychological safety **without** yielding creative performance gains — a misalignment between epistemic stimulation and experiential sustainability.
+> **Emergent [[agency|learner agency]] in implicit [[human-ai-collaboration|human-AI collaboration]]** — a large experimental study (224 students, 97 online triads) showing that supportive and contrarian AI personas reshape learner agency even when the AI operates as an *undisclosed teammate*. Contrarian AI pulled group discourse into challenge- and reflection-oriented trajectories ([[desirable-difficulties|productive friction]]), while supportive AI stabilized agreement and renewed ideation. But contrarian personas reduced teamwork satisfaction and psychological safety **without** yielding creative performance gains — a misalignment between epistemic stimulation and experiential [[sustainability]].
 
 ## Key Findings
 

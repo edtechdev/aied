@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, educational-development, academic-integrity]
 audience: [faculty development, instructors, learners]
@@ -104,6 +104,11 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 
 - **Socialist humanist AI literacy (2026):** A literature review critiques compliance-oriented AI literacy and proposes a socialist-humanist framing of asynchronous AI literacy and fair use in higher education, linking the historical digital divide to modern AI literacy and calling for approaches that serve human flourishing and equity rather than mechanical policy compliance ([[mechanical-compliance-human-flourishing-ai-literacy-2026]]).
 
+
+## Project-Based Learning and Course Satisfaction
+
+- **Project-based learning and AI literacy course satisfaction.** Zhu & Kong (2026) developed and validated an AI project-based learning (AI-PBLS) scale and, in a Hong Kong sample of 1,027 secondary and university students (446 with complete data), used structural equation modeling to show that [[self-efficacy|empowerment]] in using AI for problem solving and AI [[ethics|ethical awareness]] jointly **mediate** the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. This positions PBL not merely as a delivery format but as a mechanism that builds learner confidence and ethical reasoning alongside competence, reinforcing the link between [[project-based-learning|PBL]] and meaningful AI literacy development. It also supplies a validated measurement instrument for future [[educational-measurement|measurement]] of AI literacy course experiences.
+
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI literacy
 
@@ -178,3 +183,5 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
 - [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework for Ukrainian secondary educators (Marienko et al. 2026)
 - [[science-integrated-ai-literacy-curriculum-dbr-2026]] — Science-integrated AI literacy curriculum via DBR (Moore et al. 2026)
+- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
+- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)

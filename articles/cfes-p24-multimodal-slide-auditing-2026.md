@@ -11,7 +11,7 @@ sources: ['raw/papers/cfes-p24-multimodal-slide-auditing-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Ma, Li, and Shi (2026) introduce **CFES-P24**, a theory-grounded counterfactual benchmark for auditing whether multimodal large language models (MLLMs) actually respond to specific instructional-design constructs when evaluating educational slides. Instead of a holistic rating — which says little about *which* construct a model attends to — the benchmark expresses six multimedia-learning principles as deterministic, reversible slide transformations and generates counterfactual A/B pairs plus visual-equivalence sham controls. A pilot evaluation of a frozen gate found that construct recognition (operation, principle, repair, evidence localization) was near-perfect **8/8** for both models, while *comparative judgment* (direction 6/8) and *severity calibration* (0/8) diverged sharply — demonstrating that these are empirically separable skills and that a composite score would conceal which layer fails. 
+> **Synthesis:** Ma, Li, and Shi (2026) introduce **CFES-P24**, a theory-grounded counterfactual benchmark for auditing whether [[multimodal]] large language models (MLLMs) actually respond to specific instructional-design constructs when evaluating educational slides. Instead of a holistic rating — which says little about *which* construct a model attends to — the benchmark expresses six multimedia-learning principles as deterministic, reversible slide transformations and generates counterfactual A/B pairs plus visual-equivalence sham controls. A pilot evaluation of a frozen gate found that construct recognition (operation, principle, repair, evidence localization) was near-perfect **8/8** for both models, while *comparative judgment* (direction 6/8) and *severity calibration* (0/8) diverged sharply — demonstrating that these are empirically separable skills and that a composite score would conceal which layer fails. 
 
 ## The problem with holistic ratings
 
@@ -21,7 +21,7 @@ Multimodal LLMs are increasingly used to evaluate educational materials such as 
 
 The benchmark is theory-grounded and counterfactual:
 
-- **Registry:** 504 planned pairs — **432 target pairs + 72 sham controls** — derived from **24 author-created, three-slide micro-lessons** across **six disciplines** (biology, computer science, earth science, mathematics, physics, psychology). Baselines are rendered at 1920×1080 with fixed typography, a 4.5 minimum contrast ratio, and controlled geometry.
+- **Registry:** 504 planned pairs — **432 target pairs + 72 sham controls** — derived from **24 author-created, three-slide micro-lessons** across **six disciplines** ([[biology-education|biology]], [[cs-education|computer science]], earth science, [[math-education|mathematics]], [[physics-education|physics]], psychology). Baselines are rendered at 1920×1080 with fixed typography, a 4.5 minimum contrast ratio, and controlled geometry.
 - **Six multimedia-learning principles** are expressed as deterministic, *reversible* transformations, each at **three parameterized levels**: coherence (add task-irrelevant elements), signaling (reduce cue coverage), spatial contiguity (move a label away), redundancy (copy speaker-note text to screen), modality (transfer units from notes to screen), and segmenting (merge stages).
 - **72 visual-equivalence sham controls** — three families (equal-contrast palette mapping, equal-readability font substitution, border-weight change) that alter visual form without changing the instructional relation. They test whether a model reacts to *any* visible pixel difference.
 
@@ -61,7 +61,7 @@ Both sham calls were correctly classified as having **no material difference**. 
 - **Confidence is not reliability.** GPT-5.4's two direction errors were made at high confidence, showing that confidence does not resolve construct-level failures.
 - **Severity must be parameter-grounded.** Future versions should replace presumed learning-impact severity with magnitude grounded in measurable edit properties (label–target distance, duplicated-text proportion, cue coverage) and keep claims about learning consequences separate.
 - **Distinguish "registered" from "completed."** The paper models rigor by keeping the registered design, generated artifact, and model status distinct — relevant to the knowledge base's [[ai-ed-evaluation]] and [[benchmark]] literatures on honest evaluation of [[ai-education|AI in education]].
-- **Scope caveats:** only 21/504 pairs were generated, the frozen gate has five pairs and 10 calls (wide intervals, no ranking), and lessons are author-created and Chinese-language. The benchmark is a research protocol, not a classroom-ready product; it establishes no learning gains or [[teacher-role|teacher]] agreement.
+- **Scope caveats:** only 21/504 pairs were generated, the frozen gate has five pairs and 10 calls (wide intervals, no ranking), and lessons are author-created and Chinese-language. The benchmark is a [[research-methods-aied|research]] protocol, not a classroom-ready product; it establishes no [[learning-gains|learning gains]] or [[teacher-role|teacher]] agreement.
 
 ## Connected Concepts
 

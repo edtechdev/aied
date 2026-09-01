@@ -32,7 +32,7 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 
 ### Connections
 
-Creativity connects to [[critical-thinking]] and to [[constructivist]] learning. It is protected by the same [[reducing-ai-misuse]] scaffolds that preserve learning, and by [[authentic-assessment]] designs that reward original reasoning over polished products.
+Creativity connects to [[critical-thinking]] and to [[constructivist]] learning. It is protected by the same [[reducing-ai-misuse]] [[scaffolding|scaffolds]] that preserve learning, and by [[authentic-assessment]] designs that reward original reasoning over polished products.
 
 ## Connected Concepts
 

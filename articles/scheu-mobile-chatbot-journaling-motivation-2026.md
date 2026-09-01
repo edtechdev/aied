@@ -14,7 +14,7 @@ confidence: high
 
 ## Summary
 
-A **randomized 2×2 full-factorial field experiment** (N = 179 German university students, 22 days of app use, 12-week follow-up) testing two design principles for a **mobile chatbot-based [[self-regulated-learning|learning journaling]] system** aimed at keeping students motivated to maintain reflective learning journals — a known pain point (rapid decline in [[motivation]]/[[student-engagement|engagement]] after brief use). The two principles: (1) an **example-based built-in course** (7 days, one SRL topic per day, time-gated, modeled example responses) and (2) an **[[llm|LLM]]-based journaling assistant** (GPT-3.5-turbo-1106) that [[scaffolding|scaffolds]] entries by summarizing drafts, asking clarifying follow-up questions, and generating alternative first-person formulations.
+A **randomized 2×2 full-factorial field experiment** (N = 179 German university students, 22 days of app use, 12-week follow-up) testing two design principles for a **mobile [[conversational-ai|chatbot]]-based [[self-regulated-learning|learning journaling]] system** aimed at keeping students motivated to maintain reflective learning journals — a known pain point (rapid decline in [[motivation]]/[[student-engagement|engagement]] after brief use). The two principles: (1) an **example-based built-in course** (7 days, one SRL topic per day, time-gated, modeled example responses) and (2) an **[[llm|LLM]]-based journaling assistant** (GPT-3.5-turbo-1106) that [[scaffolding|scaffolds]] entries by summarizing drafts, asking clarifying follow-up questions, and generating alternative first-person formulations.
 
 ## Design & method
 
@@ -36,7 +36,7 @@ A **randomized 2×2 full-factorial field experiment** (N = 179 German university
 - Course users were far more likely to be "early" writers (OR = 3.45, p < .001) — less reliant on the 9 PM notification — but **significantly fewer reached 10+ journal days** (OR = 0.38, p < .001): most completed the 7-day course, journaled one more day, then stopped. Static one-off [[scaffolding]] stimulates early activity but does not sustain it.
 
 ### SRL development
-- All groups (including baseline) significantly increased cognitive and metacognitive strategy use from pre to 12-week follow-up (p < .05) — the structured prompting concept itself supported [[self-regulated-learning|SRL]], unlike earlier structured-journal studies.
+- All groups (including baseline) significantly increased cognitive and metacognitive strategy use from pre to 12-week follow-up (p < .05) — the structured [[prompt-engineering|prompting]] concept itself supported [[self-regulated-learning|SRL]], unlike earlier structured-journal studies.
 - 32 of 97 users reported the auto-generated summaries helped them reflect on prior entries (an unprompted purpose).
 
 ## Implications

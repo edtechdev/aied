@@ -10,7 +10,7 @@ sources: ['raw/papers/2605.06669.md']
 confidence: medium
 ---
 
-> Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs **Maiorano (2026)** — arXiv cs.CR/cs.AI.
+> Evaluating Prompt Injection Defenses for Educational [[llm]] Tutors: Security-[[usability-research|Usability]]-Latency Trade-offs **Maiorano (2026)** — arXiv cs.CR/cs.AI.
 
 Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs
 
@@ -24,15 +24,15 @@ This paper addresses a fundamental tension in educational LLM deployment: tutors
 |--------|-------------|---------------------|---------|
 | Proposed Multi-Layer Pipeline | 46.34% | **0.00%** | **2.50ms** |
 | Prompt Guard (Meta) | 38.48% | 3.60% | — |
-| NeMo Guardrails (NVIDIA) | **0.0%** | 16.22% | 1.3s |
+| NeMo [[guardrails]] (NVIDIA) | **0.0%** | 16.22% | 1.3s |
 
-**The proposed pipeline** combines deterministic pattern filters, structural validation, contextual sandboxing, and session-level behavioral checks. Its design prioritizes **pedagogical usability** — zero false positives means no legitimate student queries get blocked, an essential requirement for [[intelligent-tutoring]] systems where interruptions harm learning.
+**The proposed pipeline** combines deterministic pattern filters, structural validation, contextual sandboxing, and session-level behavioral checks. Its design prioritizes **[[pedagogy|pedagogical]] usability** — zero false positives means no legitimate student queries get blocked, an essential requirement for [[intelligent-tutoring]] systems where interruptions harm learning.
 
 **NeMo Guardrails** blocks all attacks but incorrectly flags ~16% of benign requests — a rate that would seriously degrade the [[student-experience]] in real tutoring sessions. **Prompt Guard** provides middle-ground performance.
 
-The framework enables **evidence-based guardrail selection** under institutional risk and usability requirements. This directly connects to [[ai-tutor-safety-harms]] concerns and the emerging field of [[pedagogical-safety-rl]]. The latency dimension is particularly important for real-time [[conversational-ai-tutors-framework]] where response delays degrade engagement.
+The framework enables **evidence-based guardrail selection** under [[governance|institutional]] risk and usability requirements. This directly connects to [[ai-tutor-safety-harms]] concerns and the emerging field of [[pedagogical-safety-rl]]. The latency dimension is particularly important for real-time [[conversational-ai-tutors-framework]] where response delays degrade [[student-engagement|engagement]].
 
-The paper highlights that **educational settings have unique requirements**: false positives are more costly than in general-purpose chatbots, because blocking a student's learning interaction carries pedagogical harm. This aligns with findings in [[eduframetrap-llm-sycophancy-educational-safety]] that educational safety requires domain-specific benchmarks.
+The paper highlights that **educational settings have unique requirements**: false positives are more costly than in general-purpose [[conversational-ai|chatbots]], because blocking a student's learning interaction carries pedagogical harm. This aligns with findings in [[eduframetrap-llm-sycophancy-educational-safety]] that educational safety requires [[discipline-specific-aied|domain-specific]] [[benchmark|benchmarks]].
 
 ## Connected Concepts
 

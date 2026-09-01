@@ -21,7 +21,7 @@ The Crew Scaler framework organizes rapid upskilling as an end-to-end AI-acceler
 | Knowledge Acquisition | [[llm|LLM]]-assisted domain exploration & extraction | Prerequisite-ordered 4-level hierarchy | Blueprint coverage checks |
 | Content Development | AI-drafted chapters; condensation passes | One-new-element pacing; 70/20/10 review | Fixed templates; six-pass revision |
 | Content Review & Verification | Automated [[hallucination-risk|hallucination]] & faithfulness checks | Defects caught before learners study | SME audit; immutable audit trail |
-| AI-Tutor Coaching | Scalable one-to-one protocolized [[intelligent-tutoring|tutoring]] | Intent- and affect-adaptive protocols | Integrity guardrails; grounded [[rag|RAG]] |
+| AI-Tutor Coaching | Scalable one-to-one protocolized [[intelligent-tutoring|tutoring]] | Intent- and affect-adaptive protocols | Integrity [[guardrails]]; grounded [[rag|RAG]] |
 | Assessment Development | AI-generated items & distractors | Misconception-targeted diagnostic distractors | Blueprint tagging; difficulty distribution |
 
 Humans retain high-judgment roles (blueprint design, SME review, misconception authoring, item rating) while AI absorbs volume work, keeping human expertise in the *multiplier* regime.
@@ -29,8 +29,8 @@ Humans retain high-judgment roles (blueprint design, SME review, misconception a
 ## Key Design Features
 
 - **Knowledge hierarchy**: content organized into 4 levels—foundational, building blocks, integrated concepts, advanced—with strict dependency chains
-- **16 tutoring protocols**: including [[socratic-method|Socratic questioning]], worked examples, hint escalation, spaced retrieval, productive failure, and [[affective-tutoring|affective support]] (prioritizing boredom over frustration)
-- **Misconception-keyed distractors**: every assessment item traces to an atomic knowledge item with documented misconceptions; distractors engineered from misconceptions, not invented ad-hoc
+- **16 tutoring protocols**: including [[socratic-method|Socratic questioning]], worked examples, hint escalation, spaced retrieval, [[productive-failure|productive failure]], and [[affective-tutoring|affective support]] (prioritizing boredom over frustration)
+- **Misconception-keyed distractors**: every assessment item traces to an atomic knowledge item with documented [[misconceptions]]; distractors engineered from misconceptions, not invented ad-hoc
 - **Hallucination verification**: four-type taxonomy (factual, reasoning, contextual, true fabrications) with RAGAS-adapted accuracy standards
 - **530-question assessment bank** tagged to a 10-domain, 53-skill blueprint
 
@@ -38,7 +38,7 @@ Humans retain high-judgment roles (blueprint design, SME review, misconception a
 
 Three independent, externally checkable signals:
 
-1. **Certification outcomes**: 3/3 learners passed the NVIDIA Certified Professional in Agentic AI (NCP-AAI) exam using only the framework's knowledge base (14 more in progress)
+1. **Certification outcomes**: 3/3 learners passed the NVIDIA Certified Professional in [[agentic-ai|Agentic AI]] (NCP-AAI) exam using only the framework's knowledge base (14 more in progress)
 2. **Capability outcomes**: the ~3,000-page knowledge base supported production of a 1,267-item risk dataset (81 categories, 14 domains) for multi-agent AI systems, presented to ~500 US federal employees
 3. **Accreditation**: NASBA (National Association of State Boards of Accountancy) reviewed and approved the program for CPE credits
 
@@ -47,7 +47,7 @@ Three independent, externally checkable signals:
 The paper identifies four gaps in existing frameworks:
 - **Fragmentation**: no framework covers end-to-end from knowledge acquisition through industry [[formative-assessment|assessment]]
 - **Missing verification**: [[hallucination-risk|hallucination detection]] (~60% rate on post-cutoff questions) is absent from education pipelines
-- **Shallow pedagogy**: default LLM tutoring achieves only 52–70% correct actions
+- **Shallow [[pedagogy]]**: default LLM tutoring achieves only 52–70% correct actions
 - **Self-referential validation**: most frameworks generate their own success measures rather than facing external standards
 
 ## Connected Concepts

@@ -23,7 +23,7 @@ confidence: high
 OmniPhys is a Chinese benchmark designed to assess physics mastery from secondary education to university levels, covering five major physical disciplines including mechanics, electromagnetism, and optics. All questions are curated from contemporary examination papers and authoritative textbooks, undergoing a strict multi-stage filtering process to guarantee difficulty and [[pedagogy|pedagogical]] validity. The benchmark includes:
 
 - **15,246 questions** and **19,850 images**, with detailed annotations supporting fine-grained analysis of reasoning processes and knowledge usage.
-- A **multimodal output generation subset** that assesses MLLMs' capabilities in physics diagram understanding and editing — a fundamental component of authentic physics problem solving that most [[benchmark|benchmarks]] omit.
+- A **multimodal output generation subset** that assesses MLLMs' capabilities in physics diagram understanding and editing — a fundamental component of authentic physics [[problem-solving|problem solving]] that most [[benchmark|benchmarks]] omit.
 - Coverage spanning question types from multiple-choice to open-ended problem solving, grounded in authentic [[assessment|assessment]] material.
 
 ## Evaluation findings

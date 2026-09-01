@@ -11,7 +11,7 @@ updated: "2026-08-31T06:34:37-04:00"
 
 ## Questions to Consider
 
-- A chart or dashboard can make data clear — but is simply *seeing* a visualization the same as understanding it? The page's research suggests how you interact with a visualization matters more than the chart itself. Recall a dashboard or graph you looked at but didn't really learn from. What was missing from the mere display?
+- A chart or dashboard can make data clear — but is simply *seeing* a visualization the same as understanding it? The page's [[research-methods-aied|research]] suggests how you interact with a visualization matters more than the chart itself. Recall a dashboard or graph you looked at but didn't really learn from. What was missing from the mere display?
 - Conventional learning dashboards follow a 'show data, hope for insight' model. The finding here is that learners who answer questions about their data *before* seeing the metrics reflect and calibrate better than those who passively view charts. Why might being forced to predict first change what you get out of seeing the actual data?
 - AI can now generate accurate visualizations of specialized content — one study raised domain accuracy from 12% to 78% by fine-tuning a text-to-image model on nuclear concepts. But the page also finds no model is uniformly competent. Where would you trust an AI-generated visual, and where would you insist on checking it against a human expert?
 - Participants in one study found AI-generated data comics more engaging and comprehensible, yet many also flagged misinformation risk and information overload. How do you weigh the appeal of a compelling AI visual against its potential to mislead — and what would you verify before trusting or using it?

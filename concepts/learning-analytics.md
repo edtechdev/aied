@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback]
 category: [engagement, evaluation]
@@ -53,6 +53,11 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 ### Connections
 
 Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the [[ethics|ethical]] constraint), and [[edtech-platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation.
+
+
+## Simulated Collaborative Discourse
+
+- **Simulating collaborative discourse for learning analytics.** Fang (2026) uses fine-tuned participant-specific LLM agents to reproduce collaborative problem solving dialogues, validated with Epistemic Network Analysis (ENA distance 0.17, permutation p = 0.65). The approach offers learning-analytics researchers a scalable way to generate authentic collaborative discourse for studying interaction dynamics, turn-taking, and thematic code trajectories without collecting new human data.
 
 ## Connected Concepts
 
@@ -112,3 +117,4 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)

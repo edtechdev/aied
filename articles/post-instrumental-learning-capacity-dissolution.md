@@ -18,7 +18,7 @@ Argues that as AI systems become capable of producing the artifacts through whic
 - If the case for learning rests only on current AI failures — bias, opacity, hallucination, labor extraction, privacy risk, and weak accountability — then each technical improvement appears to weaken it.
 - The article develops an idealization of AI that executes specified tasks flawlessly while lacking authority over purposes, legitimacy, and responsibility, and argues for post-instrumental learning that preserves the capacities people and institutions need when many useful outputs can be delegated.
 - Five capacities are analyzed — end-setting, reason-giving, contestability, refusal/revision, and participation — and their erosion is named capacity dissolution.
-- The central case is [[assessment]] under generative AI: when a polished artifact no longer reliably evidences understanding, institutions must assess the learner's accountable relation to AI-mediated work rather than the artifact alone.
+- The central case is [[assessment]] under [[generative-ai|generative AI]]: when a polished artifact no longer reliably evidences understanding, institutions must assess the learner's accountable relation to AI-mediated work rather than the artifact alone.
 - The takeaway is practical: AI governance should evaluate not only whether systems perform well, but also whether their deployment leaves people able to understand, challenge, revise, and share responsibility for the practices those systems mediate.
 
 ## The Central Case: Assessment under Generative AI

@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 audience: [learners]
@@ -48,7 +48,7 @@ In a randomized field experiment with 179 students over 22 days, two design prin
 
 | Principle | Mechanism | Effect on SRL | Effect on Motivation | Effect on Engagement |
 |---|---|---|---|---|
-| **Example-based course** | 7-day [[curriculum-design|curriculum]] teaching reflective journaling via modeled responses | Increased perceived competence and enjoyment | **Positive** | Constant positive |
+| **Example-based course** | 7-day [[curriculum-design|curriculum]] [[teacher-role|teaching]] reflective journaling via modeled responses | Increased perceived competence and enjoyment | **Positive** | Constant positive |
 | **[[llm]] journaling assistant** | GPT-3.5 summarizes drafts, asks clarifying questions, suggests reformulations | No direct SRL skill effect measured | **No effect** | Increasing over time ([[feedback|feedback loop]]) |
 
 **Key insight:** The course improved SRL skills *and* intrinsic motivation through skill transfer, while the assistant improved engagement without affecting motivation.([[scheu-mobile-chatbot-journaling-motivation-2026]])
@@ -102,6 +102,11 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - **For [[educational-policy-ai|AI policy]]:** Procurement criteria should ask whether a tool develops or displaces self-regulation
 - **For [[research-methods-aied|researchers]]:** Long-term studies measuring SRL outcomes (not just immediate performance) are essential
 
+
+## Conversational Agents and SRL in Simulation Games
+
+- **Conversational agents supporting self-regulated learning in games.** Wenzel, Geiger, and Liening (2026) show that an AI conversational agent (Lara) in a business [[simulation]] game can support self-regulated learning through metric-based [[formative-assessment|formative]] feedback, on-demand guidance, and structured reflection — addressing the common limitation that simulation games provide limited formative feedback and reflection prompts. Evaluations with student teachers and BSG participants reported positive perceptions of the agent's cognitive and [[community-of-inquiry|social presence]] and its support for self-regulation.
+
 ## Connected Concepts
 
 - [[metacognition]] — the cognitive monitoring SRL relies on
@@ -149,3 +154,4 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
+- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)

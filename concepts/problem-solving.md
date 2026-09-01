@@ -1,13 +1,13 @@
 ---
 title: Problem Solving
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [problem-solving, critical-thinking, generative-ai, cognitive-psychology]
 confidence: medium
 ---
 
-> **Problem solving** — the process of formulating, analyzing, and resolving novel or complex challenges — is a core 21st-century competency that AI tools both amplify and threaten. Across the knowledge base's articles, generative AI functions as a scaffold, a dialogic partner, and an answer engine, and its educational value hinges on whether learners remain the primary decision-makers or outsource their reasoning to the machine. This tension between efficiency and deeper cognitive and regulatory [[student-engagement|engagement]] defines current research on AI and problem solving.
+> **Problem solving** — the process of formulating, analyzing, and resolving novel or complex challenges — is a core 21st-century competency that AI tools both amplify and threaten. Across the knowledge base's articles, generative AI functions as a scaffold, a dialogic partner, and an answer engine, and its educational value hinges on whether learners remain the primary decision-makers or outsource their reasoning to the machine. This tension between efficiency and deeper cognitive and regulatory [[student-engagement|engagement]] defines current [[research-methods-aied|research]] on AI and problem solving.
 
 ## Questions to Consider
 
@@ -15,7 +15,7 @@ confidence: medium
 - The page describes a 'cognitive debt': delegating reasoning to AI produces the right product at the cost of understanding. Have you ever got the right answer without really understanding it? What was the cost later?
 - AI tools help students explore multiple perspectives and generate their own problems—but can also encourage 'metacognitive laziness.' How do you tell the difference between AI as a thinking partner and AI as a substitute for thinking?
 - One experiment found reflective and hybrid feedback outperformed direct AI feedback on delayed, AI-free transfer. Why might feedback that makes you do more work lead to learning that lasts longer?
-- How does teaching students to *pose* their own problems (rather than only solve given ones) support transfer and self-study? When has generating a question taught you more than answering one?
+- How does [[teacher-role|teaching]] students to *pose* their own problems (rather than only solve given ones) support transfer and self-study? When has generating a question taught you more than answering one?
 - If AI errors are treated as provocations to question and verify, a limitation becomes a learning opportunity. Have you ever learned more from an AI's mistake than from its right answer?
 
 ## Introduction
@@ -42,6 +42,11 @@ For educators, the balance of evidence points to structured, process-oriented in
 
 Problem solving is the applied outcome of [[critical-thinking|critical thinking]] and [[computational-thinking|computational thinking]], and is cultivated through [[problem-based-learning|problem-based learning]] and [[inquiry-based-learning|inquiry-based learning]] frameworks. It depends on [[scaffolding|scaffolding]] that maintains cognitive demand, on [[self-regulated-learning|self-regulation]] and [[metacognition|metacognitive]] oversight to avoid [[cognitive-offloading|cognitive offloading]], and on [[collaborative-learning|collaborative]] structures in which human and AI work together. [[cognitive-psychology|Cognitive psychology]] and the [[transfer-of-learning|transfer of learning]] literature provide the theoretical grounding for why learner-generated problems and reflective feedback produce more durable [[learning-gains|problem-solving gains]].
 
+
+## Simulating Collaborative Problem Solving with LLM Agents
+
+- **Simulating collaborative problem solving with participant-specific [[llm]] agents.** Fang (2026) trains individual LLM agents on real participants' dialogue to reproduce collaborative problem solving, and validates the [[simulation|simulations]] with [[network-analysis|Epistemic Network Analysis]], showing simulated and real dialogues are statistically indistinguishable (ENA distance 0.17; permutation p = 0.65). This offers a scalable way to study and generate authentic collaborative problem-solving discourse — with implications for both research and the design of practice environments for this 21st-century skill.
+
 ## Connected Concepts
 
 - [[critical-thinking]]
@@ -64,3 +69,5 @@ Problem solving is the applied outcome of [[critical-thinking|critical thinking]
 - [[dai-chatbots-problem-posing-primary-2026]] — Chatbots improve primary students' problem posing in inquiry-based learning
 - [[llm-computational-thinking-physics-2026]] — LLMs as scalable assessors of computational problem solving in physics
 
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
+- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)

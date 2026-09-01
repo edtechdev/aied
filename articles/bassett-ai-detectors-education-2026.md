@@ -11,7 +11,7 @@ sources: ['raw/papers/bassett-ai-detectors-education-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Bassett et al. (2026) argue that generative AI detection should not be used in education, on three grounds: methodological imperfection (unverifiable probabilistic estimates), violation of [[academic-integrity|procedural fairness]], and unverifiable outputs. Unlike [[ai-detection]], AI detection cannot be validated in real-world conditions where text origin is unknown; categorising text as human- or AI-generated imposes a false dichotomy that ignores work created *with*, not *by*, AI. They conclude that AI detection "does not safeguard academic integrity; it undermines it" — and call for a shift from detection and enforcement toward [[assessment|assessment design]] that recognises AI's role in learning.
+> **Synthesis:** Bassett et al. (2026) argue that generative AI detection should not be used in education, on three grounds: [[research-methods-aied|methodological]] imperfection (unverifiable probabilistic estimates), violation of [[academic-integrity|procedural fairness]], and unverifiable outputs. Unlike [[ai-detection]], AI detection cannot be validated in real-world conditions where text origin is unknown; categorising text as human- or AI-generated imposes a false dichotomy that ignores work created *with*, not *by*, AI. They conclude that AI detection "does not safeguard academic integrity; it undermines it" — and call for a shift from detection and enforcement toward [[assessment|assessment design]] that recognises AI's role in learning.
 
 ## Key Findings
 
@@ -19,7 +19,7 @@ confidence: high
 2. **The false dichotomy.** Categorising text as human- or AI-generated ignores the reality of contemporary writing, where student work is frequently created *with*, not *by*, AI — a hybrid process that makes the binary approach meaningless.
 3. **Detection scores fail the evidentiary standard.** Academic integrity investigations require evidence meeting the balance-of-probabilities standard; AI detector scores, linguistic markers, style comparisons, and related indicators do not meet it.
 4. **AI detection undermines rather than safeguards integrity.** Reliance on detectors and surveillance fosters a climate of suspicion, eroding student [[trust]] and the integrity of assessment itself.
-5. **Assessment boundaries are undefined.** Policies restricting AI use "in assessment" fail to specify when an assessment begins, creating ambiguity that forces inconsistent enforcement and student self-regulation.
+5. **Assessment boundaries are undefined.** Policies restricting AI use "in assessment" fail to specify when an assessment begins, creating ambiguity that forces inconsistent enforcement and student [[self-regulated-learning|self-regulation]].
 
 ## Unverifiable probabilistic estimates
 
@@ -31,7 +31,7 @@ The paper argues that the binary human-or-AI classification is conceptually flaw
 
 ## Procedural fairness and security
 
-AI detection raises security concerns around data storage and retention (including overseas servers with varying [[privacy]] standards), data breaches, and potential commercial exploitation of student work. It also violates procedural fairness: [[academic-integrity|academic integrity]] investigations require evidence meeting the balance-of-probabilities standard, which AI detector scores — alone or in combination with linguistic markers, style comparisons, LLM claims, or student silence — do not satisfy. Students under investigation must be afforded the right to silence; a refusal to respond does not tip the scales against them, and only requesting an oral response to verify learning outcomes is a legitimate (grading) question.
+AI detection raises security concerns around data storage and retention (including overseas servers with varying [[privacy]] standards), data breaches, and potential commercial exploitation of student work. It also violates procedural [[bias-mitigation|fairness]]: [[academic-integrity|academic integrity]] investigations require evidence meeting the balance-of-probabilities standard, which AI detector scores — alone or in combination with linguistic markers, style comparisons, [[llm]] claims, or student silence — do not satisfy. Students under investigation must be afforded the right to silence; a refusal to respond does not tip the scales against them, and only requesting an oral response to verify [[learning-gains|learning outcomes]] is a legitimate (grading) question.
 
 ## Implications for AI in education
 

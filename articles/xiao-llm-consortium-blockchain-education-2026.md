@@ -20,7 +20,7 @@ LLM-based educational services can be made reliable and accountable for [[online
 
 ## LLM Limitations Addressed
 
-Widespread adoption of LLMs in education is hampered by inherent limitations: susceptibility to hallucinations, insufficient domain-specific knowledge validation, and output inconsistency, which can produce misleading or erroneous content with negative learning outcomes. A core challenge is ensuring such errors are immutably logged and traceable, establishing accountability among entities deploying LLM services. The blockchain answers this by making every grading decision auditable and attributable.
+Widespread adoption of LLMs in education is hampered by inherent limitations: susceptibility to hallucinations, insufficient [[discipline-specific-aied|domain-specific]] knowledge validation, and output inconsistency, which can produce misleading or erroneous content with negative [[learning-gains|learning outcomes]]. A core challenge is ensuring such errors are immutably logged and traceable, establishing accountability among entities deploying LLM services. The blockchain answers this by making every grading decision auditable and attributable.
 
 ## Architecture and Smart Contracts
 
@@ -32,7 +32,7 @@ The prototype evaluated six LLMs on the RiceChem ALAG benchmark; GLM-4-9B-chat l
 
 ## Relevance to the knowledge base
 
-This paper extends the knowledge base's coverage of [[llm|LLM]] deployment, [[online-teaching-and-learning|online education]], and [[assessment|AI-driven assessment]] by addressing the accountability and [[trust]] gap created by LLM unreliability. It connects to [[hallucination-risk]], [[privacy]], [[personalized-learning|personalization]], and verifiable credentials, and it complements research on [[ai-detection|academic integrity]] and AI grading (e.g., [[llms-do-not-grade-essays-like-humans-2026]]). Its [[governance]]-oriented design informs [[educational-policy-ai|AI policy]] discussions about traceability, and its technical framing contributes to the knowledge base's coverage of AI infrastructure and responsible deployment in [[higher-ed|higher education]].
+This paper extends the knowledge base's coverage of [[llm|LLM]] deployment, [[online-teaching-and-learning|online education]], and [[assessment|AI-driven assessment]] by addressing the accountability and [[trust]] gap created by LLM unreliability. It connects to [[hallucination-risk]], [[privacy]], [[personalized-learning|personalization]], and verifiable credentials, and it complements [[research-methods-aied|research]] on [[ai-detection|academic integrity]] and AI grading (e.g., [[llms-do-not-grade-essays-like-humans-2026]]). Its [[governance]]-oriented design informs [[educational-policy-ai|AI policy]] discussions about traceability, and its technical framing contributes to the knowledge base's coverage of AI infrastructure and responsible deployment in [[higher-ed|higher education]].
 
 ## Connected Concepts
 

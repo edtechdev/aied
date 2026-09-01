@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [conversational-ai, intelligent-tutoring, generative-ai, llm, pedagogical-agent, human-ai-collaboration, ai-literacy]
 confidence: medium
@@ -50,6 +50,11 @@ Conversational AI is best understood as an **interaction modality** that overlap
 
 Choose conversational agents to support teaching, [[motivation]], and [[metacognition]] rather than merely to answer questions, and design for HCI-grounded, participatory, user-centered interaction. Guard against [[cognitive-offloading|over-reliance]] by pairing CAI with [[ai-literacy]] instruction and [[feedback]] that keeps the learner cognitively productive. Attend to AI literacy and usability explicitly — since these — not general digital skill — drive adoption and non-use ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) — and pair deployment with clear AI-use policies, assessment labels, and training. Evaluate CAI on pedagogical outcomes — not just task completion — and plan for equity and [[accessibility]] from the start rather than as an afterthought.
 
+
+## CAIS-GBL Framework for Game-Based Agents
+
+- **Design framework for AI conversational agents in game-based learning.** Wenzel, Geiger, and Liening (2026) use action design research to derive the **CAIS-GBL** framework — four design principles and fifteen design features for AI conversational agents in digital game-based learning — grounded in theory-driven meta-requirements spanning cognitive, motivational, [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] [[student-engagement|engagement]] and an equity-by-design stance. Their instantiated agent (Lara) in a business [[simulation]] game was positively received for cognitive and [[community-of-inquiry|social presence]] and support for [[self-regulated-learning|self-regulated learning]], evaluated with student teachers and in a field study — a practical blueprint for [[adaptive-learning|adaptive instructional support]] via [[game-based-learning|conversational agents in serious games]].
+
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
@@ -91,6 +96,7 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — The substitution-to-scaffolding AI harm cycle
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender and motivation in GenAI achievement
+- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 
 ## Citation
 

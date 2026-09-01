@@ -14,7 +14,7 @@ confidence: high
 
 ## The Problem with Traditional Teachable Agents
 
-Learning-by-teaching is an effective [[active-learning]] strategy, but traditional teachable agents (e.g., rule-based tutoring systems) have limitations — particularly their inability to engage in natural-language dialogue. ChatGPT's conversational ability offers a way to make the teachable agent a natural interlocutor that students must explain concepts to and correct.
+Learning-by-[[teacher-role|teaching]] is an effective [[active-learning]] strategy, but traditional teachable agents (e.g., rule-based tutoring systems) have limitations — particularly their inability to engage in natural-language dialogue. ChatGPT's conversational ability offers a way to make the teachable agent a natural interlocutor that students must explain concepts to and correct.
 
 ## Key Findings
 

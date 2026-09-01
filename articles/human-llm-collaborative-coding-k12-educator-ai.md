@@ -17,7 +17,7 @@ confidence: high
 
 A multi-phase human-[[llm|LLM]] collaborative pipeline adapted open, axial, and selective coding to build a hierarchical codebook from 45,000 messages exchanged between [[k-12|K-12 educators]] and a [[generative-ai|generative AI]] platform — an instance of LLMs as analytic assistants at a scale manual coding cannot match.
 
-LLMs generated candidate labels and structured annotations at scale across three phases, while human researchers retained conceptual authority over category definitions, merging decisions, and interpretive frameworks — a [[human-in-the-loop-ai|human-in-the-loop]] division of labor.
+LLMs generated candidate labels and structured annotations at scale across three phases, while human [[research-methods-aied|researchers]] retained conceptual authority over category definitions, merging decisions, and interpretive frameworks — a [[human-in-the-loop-ai|human-in-the-loop]] division of labor.
 
 The resulting 72-item codebook was validated through systematic human coding of an independent 2,560-message sample, with reliability established via set-valued agreement measures; human coders extended the instrument with five codes the LLM-assisted phases had not surfaced.
 

@@ -19,15 +19,15 @@ This paper introduces **XAI-ED**, a framework for explainable AI that is purpose
 ## The XAI-ED Framework — Six Aspects
 
 ### 1. Stakeholders
-XAI in education must serve multiple audiences — learners, teachers, administrators, parents, researchers, developers, and policymakers — each with different explainability requirements. A learner needs to understand *why* a hint was given; a teacher needs to understand *which* students are at risk and *why*; a developer needs to debug model behavior. This connects to [[teacher-role]] and [[student-experience]] research on multi-stakeholder design.
+XAI in education must serve multiple audiences — learners, teachers, administrators, parents, [[research-methods-aied|researchers]], developers, and policymakers — each with different explainability requirements. A learner needs to understand *why* a hint was given; a teacher needs to understand *which* students are at risk and *why*; a developer needs to debug model behavior. This connects to [[teacher-role]] and [[student-experience]] research on multi-stakeholder design.
 
 ### 2. Benefits
 Explanations serve multiple purposes in educational contexts:
 - **Trust** — building confidence in AI-driven recommendations and assessments
 - **Fairness** — detecting and mitigating algorithmic [[bias-mitigation]]
 - **Debugging** — helping developers and researchers identify model flaws
-- **Usability** — making AI interfaces more transparent and actionable
-- **Learning** — explanations as *pedagogical tools* that support [[metacognition]]
+- **[[usability-research|Usability]]** — making AI interfaces more transparent and actionable
+- **Learning** — explanations as *[[pedagogy|pedagogical]] tools* that support [[metacognition]]
 - **Regulatory compliance** — GDPR right to explanation and similar mandates ([[privacy]], [[regulation]])
 - **Adoption** — reducing resistance to AI tools among educators
 
@@ -50,7 +50,7 @@ The framework identifies risks specific to educational XAI:
 - **Explanation overload** — too much information overwhelms users, undermining the benefit
 - **Misleading explanations** — post-hoc explanations may not reflect actual model reasoning
 - **Confirmation bias** — users may selectively attend to explanations that confirm existing beliefs
-- **Over-trust** — explanations can create false confidence in flawed systems, connecting to [[cognitive-offloading|Over-Reliance]]
+- **[[trust-calibration|Over-trust]]** — explanations can create false confidence in flawed systems, connecting to [[cognitive-offloading|Over-Reliance]]
 - **Gaming the system** — students may exploit explanations to circumvent learning, a known risk in [[intelligent-tutoring]]
 
 ## Four Case Studies
@@ -59,7 +59,7 @@ The framework identifies risks specific to educational XAI:
 A learning analytics platform that provides instructors with interpretable student risk indicators. XAI-ED applied to surface the rules and features driving each risk flag, enabling instructors to make informed interventions. Demonstrates the [[teacher-role]] shift toward data-informed decision-making.
 
 ### OATutor — Adaptive Tutoring System
-An open-source ITS where XAI explains mastery predictions and hint selections to both students and instructors. Connects to [[intelligent-tutoring]] and [[adaptive-learning]] research on transparency in automated instruction.
+An [[open-source]] ITS where XAI explains mastery predictions and hint selections to both students and instructors. Connects to [[intelligent-tutoring]] and [[adaptive-learning]] research on transparency in automated instruction.
 
 ### SRES — Student-Facing Recommender
 A learning resource recommender that explains *why* specific resources are suggested based on the learner's knowledge state and goals. Supports [[self-regulated-learning]] by making the recommendation logic visible and actionable.
@@ -69,7 +69,7 @@ Analytics for [[collaborative-learning]] environments that surface group dynamic
 
 ## Significance for AIED
 
-The XAI-ED framework has become a foundational reference in AIED, cited across the [[stanford-evidence-base-ai-k12-2026]], [[ai-tutor-safety-harms]], and [[ai-literacy]] literatures. It bridges the gap between technical XAI research (which often ignores pedagogical context) and educational practice (which often treats AI as a black box). The framework's emphasis on *distinctive educational needs* anticipates later work on [[pedagogical-safety]] and [[human-in-the-loop-ai]] design.
+The XAI-ED framework has become a foundational reference in [[ai-education|AIED]], cited across the [[stanford-evidence-base-ai-k12-2026]], [[ai-tutor-safety-harms]], and [[ai-literacy]] literatures. It bridges the gap between technical XAI research (which often ignores pedagogical context) and educational practice (which often treats AI as a black box). The framework's emphasis on *distinctive educational needs* anticipates later work on [[pedagogical-safety]] and [[human-in-the-loop-ai]] design.
 
 ## Connected Concepts
 

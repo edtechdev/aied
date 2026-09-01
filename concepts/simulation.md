@@ -1,7 +1,7 @@
 ---
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, experiential-learning]
 confidence: high
@@ -14,23 +14,28 @@ confidence: high
 - Recall a time you learned something by doing it in a safe, low-stakes environment — a lab, a mock exercise, a flight or game simulator. What made that practice effective, and what might be lost if the simulation were too realistic or not realistic enough?
 - The page argues simulations let learners make errors and see consequences 'without real-world cost.' What do you think is gained, and what might be lost, when the cost of a mistake drops to nearly zero?
 - If an AI can simulate patients, students, or conversation partners for practice, where would you draw the line between valuable rehearsal and practice that fails to transfer to real human interaction?
-- Why might a learner's awareness of a simulation's limits — its trustworthiness — matter as much as how faithfully it models reality?
+- Why might a learner's awareness of a simulation's limits — its [[trust|trustworthiness]] — matter as much as how faithfully it models reality?
 - How could the same simulation technology that helps someone learn also mislead them, and what would you need to know to tell those two outcomes apart?
 
 ## Introduction
 
-Simulation sits at the core of [[experiential-learning|experiential]] and [[active-learning]] pedagogies. It provides the deliberate practice, productive failure, and [[feedback|feedback loops]] that build skill and judgment. AI has transformed simulation in two ways: it powers more realistic and adaptive simulated environments, and it generates simulated learners, patients, or interlocutors that make practice scalable.
+Simulation sits at the core of [[experiential-learning|experiential]] and [[active-learning]] [[pedagogy|pedagogies]]. It provides the deliberate practice, [[productive-failure|productive failure]], and [[feedback|feedback loops]] that build skill and judgment. AI has transformed simulation in two ways: it powers more realistic and adaptive simulated environments, and it generates simulated learners, patients, or interlocutors that make practice scalable.
 
 ### AI and simulation
 
 - **AI-powered environments:** adaptive simulations adjust difficulty and scenarios to a learner's state, linking to [[adaptive-learning]] and [[reinforcement-learning]]-based coaching.
 - **Simulated agents:** AI can simulate patients (for medical training), students (for teacher practice), or conversation partners, making high-stakes interpersonal practice accessible and repeatable.
-- **Simulated learners:** models of student behavior let researchers and designers test tutoring systems and curriculum before live deployment, grounding [[student-modeling]] and [[knowledge-tracing]].
+- **Simulated learners:** models of student behavior let [[research-methods-aied|researchers]] and designers test tutoring systems and [[curriculum-design|curriculum]] before live deployment, grounding [[student-modeling]] and [[knowledge-tracing]].
 - **Trust and fidelity:** the value of a simulation depends on how faithfully it models the real context — and on the learner's awareness of its limits, connecting to [[trust-calibration]].
 
 ### Connections
 
 Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagogical-agent]]. It is a mechanism for experiential and [[constructivist]] learning and is amplified by AI's ability to generate adaptive, realistic practice environments.
+
+
+## GenAI in Simulation-Based Learning
+
+- **Simulation-based learning with [[generative-ai|GenAI]].** Neto and colleagues (2026) [[meta-analysis-systematic-review|systematically review]] GenAI across scenario-, case-, problem-, and simulation-based learning in healthcare education, finding positive outcomes for higher-order cognitive skills but inconsistent results elsewhere, with hybrid [[human-ai-collaboration|human-AI collaboration]] outperforming fully automated approaches. Wenzel, Geiger, and Liening (2026) develop AI conversational agents for adaptive support in business simulation games, addressing the common gap of limited [[formative-assessment|formative]] feedback and structured reflection in simulation-based learning.
 
 ## Connected Concepts
 
@@ -65,3 +70,6 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[educasim-cs1-instructional-practice]] — EducaSim: simulated small-group section for teacher practice
 
+- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
+- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)

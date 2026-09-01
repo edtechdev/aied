@@ -10,7 +10,7 @@ sources: ['raw/papers/learning-context-framework-context-aware-ai-education-2026
 confidence: high
 ---
 
-> **Synthesis:** Liu, Bradford, Hatchett, Diaz, Luzi, Wang, Basu Mallick, and Baraniuk (Rice University, OpenStax, SafeInsights, Adobe Research) introduce a unified **Learning Context (LC)** framework to move AI-based education from "context-blind mimicry" toward a principled, holistic understanding of the learner. This white paper provides a multidisciplinary roadmap for making teaching and learning systems context-aware by encoding **cognitive, [[affective-computing|affective]], and [[sociocultural-learning|sociocultural]] factors** over the short, medium, and long term. It proposes operationalizing LC theory into an interoperable computational data structure, leveraging the **Model Context Protocol (MCP)** to enable a wide range of AI tools to share and act on learner context.
+> **Synthesis:** Liu, Bradford, Hatchett, Diaz, Luzi, Wang, Basu Mallick, and Baraniuk (Rice University, OpenStax, SafeInsights, Adobe [[research-methods-aied|Research]]) introduce a unified **Learning Context (LC)** framework to move AI-based education from "context-blind mimicry" toward a principled, holistic understanding of the learner. This white paper provides a multidisciplinary roadmap for making [[teacher-role|teaching]] and learning systems context-aware by encoding **cognitive, [[affective-computing|affective]], and [[sociocultural-learning|sociocultural]] factors** over the short, medium, and long term. It proposes operationalizing LC theory into an interoperable computational data structure, leveraging the **Model Context Protocol (MCP)** to enable a wide range of AI tools to share and act on learner context.
 
 ## Key Findings
 

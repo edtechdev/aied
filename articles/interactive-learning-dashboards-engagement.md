@@ -19,7 +19,7 @@ confidence: high
 - **30 CS students** in a university programming course, paid to regularly use the ILAD over **5 weeks**
 - **3 conditions** randomized: no agent, "tell" agent (provides info about learner data), "elicit" agent (asks questions about learner data)
 - ILAD extended a conventional LAD with two features:
-  1. **LLM-powered pedagogical agent** with access to learning analytics and course context
+  1. **LLM-powered [[pedagogy|pedagogical]] agent** with access to learning analytics and course context
   2. **Interactive Judgement of Learning (JoL)** — self-assessment required before viewing system metrics
 
 ## Key Findings

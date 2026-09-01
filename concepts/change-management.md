@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [change-management, ai-education, higher-ed]
 level: [higher ed]
@@ -14,7 +14,7 @@ confidence: medium
 
 - Change management here is described as governing continuous adaptation under uncertainty, because generative AI arrived in classrooms before pedagogical evidence accumulated. What does it mean to manage change when you can't wait for best practices but also can't responsibly scale untested innovations?
 - A recurring obstacle is the gap between top-down policy intent and classroom reality — for instance, policies that encourage GenAI while course syllabi prohibit it, leaving instructors to improvise. Why do you think policy and practice drift apart so easily around AI?
-- Research finds that a faculty member's pedagogical orientation — what they believe AI means for disciplinary knowledge — is the strongest predictor of adoption, while institutional initiatives and demographics are surprisingly weak predictors. What does that suggest about where change efforts should focus their energy?
+- [[research-methods-aied|Research]] finds that a faculty member's pedagogical orientation — what they believe AI means for disciplinary knowledge — is the strongest predictor of adoption, while institutional initiatives and demographics are surprisingly weak predictors. What does that suggest about where change efforts should focus their energy?
 - The page notes that only 7% of institutions have created senior AI leadership roles despite 49% viewing AI as a strategic priority. What do you think it signals when an institution calls something strategic but doesn't resource it with leadership?
 - A coordination-game model explains why policy statements alone fail: student AI use is a collective norm-formation process, and small, well-calibrated changes to assessment incentives can trigger rapid cohort-wide shifts toward responsible use. How might changing assessment incentives do more than issuing a policy ever could?
 - The page warns that fragmented adoption widens existing gaps — inclusion, equity, and sustainability are often overlooked even where core ethical principles are embraced. Which learners or institutions do you suspect lose out when change is managed unevenly, and how would you keep them central?
@@ -43,6 +43,11 @@ Change management in AI education carries both positive and negative implication
 
 Change management is the institutional complement to classroom-level integration. It operationalizes the systemic conditions — governance, faculty development, stakeholder [[student-engagement|engagement]], and equity safeguards — that allow pedagogical innovation to take hold, connecting [[educational-policy-ai]] policy design to [[governance]], [[educational-development]], and [[equity-in-ai-education]] outcomes.
 
+
+## Digital Transformation of a Liberal Arts Institution
+
+- **Institutional transformation to a research-intensive digital liberal arts model.** Qin (2026) analyzes Lingnan University's strategic change across four dimensions — instructional upgrade through AI, prioritization of irreplaceable human competencies, curriculum renewal, and retention of ethical/cultural values — illustrating how a long-established institution can manage [[generative-ai|GenAI]]-driven change without relinquishing its identity. It frames the transformation as intellectual rather than technocentric, giving institutional leaders a staged model for mandating AI literacy while preserving humanistic mission.
+
 ## Connected Concepts
 
 - [[governance]] — the policy and oversight structures change management operationalizes
@@ -65,3 +70,4 @@ Change management is the institutional complement to classroom-level integration
 - [[alrahmi-org-drivers-ai-adoption-he-2026]] — organisational and technological drivers of AI adoption
 - [[adarkwah-genai-unesco-policy-2026]] — UNESCO framework analysis of institutional GenAI policies
 
+- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)

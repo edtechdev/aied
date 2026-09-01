@@ -11,7 +11,7 @@ sources: ['raw/papers/haiml-human-centered-ai-metacognitive-model-2026.md']
 confidence: medium
 ---
 
-> **Synthesis:** HAIML is a human-centered framework for learning in AI-supported environments that preserves human agency, metacognitive awareness, ethical reasoning, and personal responsibility. Grounded in self-efficacy, self-regulated learning, experiential learning, metacognition, and automation-bias research, the model spans three interconnected layers — Experiential AI Use, Metacognitive Reflection, and Ethical Decision-Making — guiding learners from direct engagement with AI to reflective and responsible use.
+> **Synthesis:** HAIML is a human-centered framework for learning in AI-supported environments that preserves human agency, metacognitive awareness, ethical reasoning, and personal responsibility. Grounded in self-efficacy, self-regulated learning, experiential learning, metacognition, and automation-bias [[research-methods-aied|research]], the model spans three interconnected layers — Experiential AI Use, Metacognitive Reflection, and Ethical Decision-Making — guiding learners from direct [[student-engagement|engagement]] with AI to reflective and responsible use.
 
 ## Key Findings
 
@@ -22,19 +22,19 @@ confidence: medium
 
 ## The Problem HAIML Was Designed to Solve
 
-Generative AI now participates in cognitive processes traditionally associated with human reasoning — generating ideas, drafting arguments, summarizing research, and proposing solutions — so the question is no longer whether students will use these tools but how AI shapes their thinking. Reardon argues that learning is fundamentally a cognitive process, and that the central challenge is ensuring students remain [[agency|active participants]] in thinking rather than passive recipients of AI outputs.
+[[generative-ai|Generative AI]] now participates in cognitive processes traditionally associated with human reasoning — generating ideas, drafting arguments, summarizing research, and proposing solutions — so the question is no longer whether students will use these tools but how AI shapes their thinking. Reardon argues that learning is fundamentally a cognitive process, and that the central challenge is ensuring students remain [[agency|active participants]] in thinking rather than passive recipients of AI outputs.
 
 A primary concern is [[cognitive-offloading]], where students rely on external tools to reduce mental effort. While beneficial for higher-order focus, generative AI now supports increasingly complex thinking, risking gradual disengagement from the very processes education is intended to develop. A second concern is automation bias — the tendency to place excessive trust in automated systems — made worse because AI outputs appear fluent and authoritative even when [[hallucination-risk|incomplete or incorrect]]. Closely related is the illusion of understanding, where exposure to a polished AI explanation is mistaken for genuine comprehension. The framework also addresses [[academic-integrity|authorship and responsibility]], treating them through reflection and transparency rather than punishment.
 
 ## Theoretical Foundations
 
-HAIML is grounded in established psychological theory and learning science. Bandura's work on [[self-efficacy]] and [[agency|human agency]] anchors the model: students must continue to view themselves as capable participants even as AI grows more capable, since AI can extend but never possess the intentionality, forethought, and self-reflection that make agency uniquely human.
+HAIML is grounded in established psychological theory and [[learning-theories|learning science]]. Bandura's work on [[self-efficacy]] and [[agency|human agency]] anchors the model: students must continue to view themselves as capable participants even as AI grows more capable, since AI can extend but never possess the intentionality, forethought, and self-reflection that make agency uniquely human.
 
 Research on [[self-regulated-learning]] (Zimmerman) explains why learners must actively plan, monitor, and evaluate their interactions with AI. [[experiential-learning]] theory (Kolb) supports the first layer, holding that learning emerges from engaging with experience and making sense of it rather than from passive receipt of information. [[metacognition]] (Schraw & Dennison) forms the reflective core, and the work of Bjork, Dunlosky, and Kornell on illusions of learning warns that AI-generated explanations can mask real comprehension gaps. Kahneman's dual-process theory, Klein's naturalistic decision-making, and automation-bias research (Parasuraman & Riley; Cummings) round out the foundations — together reinforcing that technology alone does not produce learning and that responsibility remains human.
 
 ## The Three Layers of HAIML
 
-**Layer One: Experiential AI Use.** Students engage directly with AI through authentic, structured learning experiences — brainstorming, exploring perspectives, receiving [[feedback]], analyzing information, or running decision simulations. AI here functions as [[scaffolding]], supporting rather than replacing learning, so students leave with greater confidence in their own abilities rather than dependence on technology.
+**Layer One: Experiential AI Use.** Students engage directly with AI through authentic, structured learning experiences — brainstorming, exploring perspectives, receiving [[feedback]], analyzing information, or running decision [[simulation|simulations]]. AI here functions as [[scaffolding]], supporting rather than replacing learning, so students leave with greater confidence in their own abilities rather than dependence on technology.
 
 **Layer Two: Metacognitive Reflection.** Reflection is the bridge between AI use and meaningful learning and the feature that most distinguishes HAIML. Students monitor not only their own thinking but AI's influence on it — when AI expanded their thinking, challenged assumptions, or reduced deeper engagement. Regular reflection serves as a safeguard against [[cognitive-offloading|cognitive dependence]] and automation bias, turning experience into understanding.
 
@@ -46,7 +46,7 @@ To make the framework actionable, HAIML is paired with Four AI Use Levels that a
 
 ## Applications and Implications
 
-Although developed in [[higher-ed|higher education]], HAIML adapts to workforce development, professional training, leadership, communication, and healthcare education — any setting where human judgment remains essential. For faculty, implementation means aligning AI use to learning objectives, normalizing reflection as part of the learning process, and prioritizing transparency and meaningful cognitive engagement over detection and enforcement.
+Although developed in [[higher-ed|higher education]], HAIML adapts to workforce development, [[professional-training|professional training]], leadership, communication, and healthcare education — any setting where [[human-in-the-loop-ai|human judgment]] remains essential. For faculty, implementation means aligning AI use to learning objectives, normalizing reflection as part of the learning process, and prioritizing transparency and meaningful cognitive engagement over detection and enforcement.
 
 For [[metacognition]] and [[self-regulated-learning]], HAIML offers a structured way to make AI interactions objects of reflection, addressing [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] risks by keeping learners aware of how AI influences their thinking. It complements [[ai-literacy]] frameworks by adding a metacognitive and ethical layer focused on internal decision-making rather than tool proficiency alone.
 

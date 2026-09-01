@@ -26,7 +26,7 @@ The paper is a theoretical synthesis (deductive reasoning, four steps: literatur
 
 ### The cyclical self-regulation feedback model
 
-Adapting Zimmerman's (2000) self-regulation phases, the proposed pathway comprises three interwoven phases that cycle continuously:
+Adapting Zimmerman's (2000) self-[[regulation]] phases, the proposed pathway comprises three interwoven phases that cycle continuously:
 
 1. **Feedback forethought** — setting feedback goals and planning strategically, based on learning needs and understanding of GenAI's capabilities/limitations.
 2. **Feedback control** — self-observation and self-monitoring of one's prompts and GenAI's responses, assessing prompt and information quality, and refining interaction.

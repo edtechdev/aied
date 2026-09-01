@@ -1,18 +1,18 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T09:15:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy]
 
 confidence: high
 ---
 
-> **Large Language Models (LLMs)** — neural network models trained on vast text corpora that generate human-like text, powering most modern AI in education applications. LLMs are the computational backbone of generative AI tutoring, assessment, and content generation in education.
+> **Large Language Models (LLMs)** — neural network models trained on vast text corpora that generate human-like text, powering most modern [[ai-education|AI in education]] applications. LLMs are the computational backbone of generative AI tutoring, assessment, and content generation in education.
 
 ## Questions to Consider
 
-- What do you believe an AI chatbot 'knows' when it answers you? The page frames LLMs as generating probable text rather than retrieving verified facts — how does that distinction change how much you would trust a model's explanations?
+- What do you believe an AI [[conversational-ai|chatbot]] 'knows' when it answers you? The page frames LLMs as generating probable text rather than retrieving verified facts — how does that distinction change how much you would trust a model's explanations?
 - LLMs are described as the engine behind most modern AI education tools — tutoring, grading, content generation, and even diagnosing what students know. Of these uses, which do you think is most and least appropriate for a probabilistic text generator, and why?
 - The page reports that three different LLMs produced sharply divergent support plans for the same learning-analytics input, each with different demographic assumptions. If models aren't interchangeable as advisors, what does that mean for an institution that adopts one?
 - Because LLM output is sensitive to prompts and settings, two people can get very different results from the same model. How should this influence how you — as a learner or designer — phrase requests, and how much you trust a single output?
@@ -24,10 +24,10 @@ confidence: high
 
 LLMs are the most-referenced concept in the knowledge base (60+ articles) because they underpin nearly every AI education application:
 
-- **Tutoring:** [[intelligent-tutoring|AI tutors]] use LLMs for dialogue, explanation, and problem-solving guidance. [[pedagogical-llm-training|Pedagogical training]] adapts general LLMs for educational use.
+- **Tutoring:** [[intelligent-tutoring|AI tutors]] use LLMs for dialogue, explanation, and [[problem-solving]] guidance. [[pedagogical-llm-training|Pedagogical training]] adapts general LLMs for educational use.
 - **Assessment:** [[automated-assessment|Grading systems]], [[automated-essay-scoring|essay scoring]], and [[llm-item-difficulty-prediction|item difficulty prediction]] leverage LLM capabilities.
 - **Content:** [[generative-ai|Generative AI]] content creation relies on LLMs. [[automated-question-generation|Question generation]] and [[ai-generated-instructional-videos-computing-ed|video generation]] are LLM-driven.
-- **Safety:** [[pedagogical-safety]], [[hallucination-risk]], and [[ai-tutor-safety-harms]] research examine LLM-specific risks.
+- **Safety:** [[pedagogical-safety]], [[hallucination-risk]], and [[ai-tutor-safety-harms]] [[research-methods-aied|research]] examine LLM-specific risks.
 - **Diagnosis:** [[knowledge-tracing]] and [[cognitive-diagnosis]] increasingly incorporate LLMs for richer [[student-modeling|student modeling]].
 
 ### Model-specific research
@@ -113,3 +113,4 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)

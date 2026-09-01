@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [game-based-learning, student-engagement, educational-robotics, motivation, active-learning]
 category: [engagement]
@@ -15,7 +15,7 @@ confidence: high
 - Game-based learning uses the game itself as the medium for learning — you learn *through* playing. Gamification just layers points, badges, and levels onto a non-game activity. How different do you think those two are in effect on real learning, versus on short-term engagement?
 - A comparative review found game-based learning more prevalent in informal settings while gamification dominated formal classrooms and favored project-based learning. Why do you think each approach found a different home — and what does that tell us about where each works best?
 - Gamification is grounded in self-determination theory — autonomy, competence, relatedness. If motivation is about satisfying those needs, why might a points-and-badges system succeed or fail depending on how it shapes perceived effort and attention?
-- Research suggests the motivational benefit of game-like and AI-supported designs depends on how they shape perceived workload and attention, not on gamification alone. When have you seen a game or badges boost engagement without actually improving learning — or vice versa?
+- [[research-methods-aied|Research]] suggests the motivational benefit of game-like and AI-supported designs depends on how they shape perceived workload and attention, not on gamification alone. When have you seen a game or badges boost engagement without actually improving learning — or vice versa?
 
 ## Introduction
 
@@ -36,6 +36,11 @@ Gamification is grounded in motivational theory, particularly [[self-determinati
 - **Engagement and motivation:** gamification is used across the knowledge base to increase learner engagement and motivation in AI, [[cs-education|programming]], and [[stem-education|STEM]] learning contexts. [[genai-motivation-engagement-2026|Generative AI, motivation, and engagement]] research examines how game-like elements combine with AI to sustain learner interest. Two 2026 studies extend this by comparing gamified and AI-supported conditions against traditional instruction: [[nasa-tlx-workload-gamified-ai-2026|a NASA-TLX study]] measured perceived workload across traditional, gamified, and AI-supported learning conditions, and [[arcs-motivational-ergonomics-gamified-ai-2026|an ARCS study]] examined motivational "ergonomics" in gamified and AI-supported learning with implications for [[professional-training|workplace training]]. Together they clarify that the motivational benefit of game-like and AI-supported designs depends on how they shape [[motivation|perceived effort]], workload, and attention (e.g., ARCS attention/relevance dimensions), not on gamification alone.
 
 GBL and gamification together connect to [[educational-robotics]], [[student-engagement]], [[motivation]], [[self-determination-theory]], [[active-learning]], [[simulation]], [[project-based-learning]], and [[computational-thinking]].
+
+
+## CAIS-GBL: Conversational Agents in Simulation Games
+
+- **AI conversational agents in business simulation games.** Wenzel, Geiger, and Liening (2026) derive the CAIS-GBL framework — four design principles and fifteen design features for AI conversational agents in digital game-based learning — from theory-driven meta-requirements spanning cognitive, motivational, [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] engagement, with an [[equity-in-ai-education|equity]]-by-design stance. Their instantiated agent (Lara) in a business simulation game was positively received for cognitive and [[community-of-inquiry|social presence]] and [[self-regulated-learning]] support, addressing the common gap of limited [[formative-assessment|formative]] feedback and structured reflection in simulation games.
 
 ## Connected Concepts
 
@@ -63,3 +68,5 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS motivation and AI-supported gamification
 
+- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
+- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)

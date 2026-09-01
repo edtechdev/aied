@@ -11,18 +11,18 @@ sources: ['raw/papers/alrazeeni-transforming-nursing-education-ai-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Alrazeeni et al. (2026) provide the first comprehensive systematic review of empirical AI applications in nursing education (28 studies, 2010–April 2025, from PubMed, CINAHL, IEEE Xplore, and Scopus). They find AI enhances nursing education in four areas — personalized learning, simulation-based training, automated assessment, and institutional curriculum management/predictive analytics — while surfacing recurring risks (technological inequity, faculty preparedness gaps, privacy and bias concerns). They offer concrete implementation recommendations and propose diagnostic accuracy as a measurable outcome.
+> **Synthesis:** Alrazeeni et al. (2026) provide the first comprehensive systematic review of empirical AI applications in nursing education (28 studies, 2010–April 2025, from PubMed, CINAHL, IEEE Xplore, and Scopus). They find AI enhances nursing education in four areas — personalized learning, simulation-based training, automated assessment, and [[governance|institutional]] [[curriculum-design|curriculum]] management/predictive analytics — while surfacing recurring risks (technological inequity, faculty preparedness gaps, privacy and bias concerns). They offer concrete implementation recommendations and propose diagnostic accuracy as a measurable outcome.
 
 ## Key Findings
 
 1. **Four application areas.** AI in nursing education centers on: (a) personalized learning systems tailoring content to individual needs; (b) simulation-based training improving decision-making in high-acuity scenarios; (c) automated assessment providing immediate, unbiased feedback; (d) institutional-level AI for curriculum management and predictive analytics.
 2. **Recurring risks.** Technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias are common across studies.
-3. **Actionable recommendations.** Integrate AI-powered simulation into emergency-care training; deploy adaptive platforms to support at-risk learners; use automated tools for real-time formative feedback; and adopt diagnostic accuracy as a measurable outcome for assessing impact.
+3. **Actionable recommendations.** Integrate AI-powered simulation into emergency-care training; deploy adaptive platforms to support at-risk learners; use automated tools for real-time [[formative-assessment|formative]] feedback; and adopt diagnostic accuracy as a measurable outcome for assessing impact.
 4. **Next step.** Initiate multi-site pilot programs over 6–12 months, evaluating improvements in [[learning-gains|learning outcomes]], trust, and system integration.
 
 ## Implications
 
-This review brings the knowledge base's AIED themes into the clinical/health-professions context, extending [[simulation]]-based training, [[personalized-learning]], and [[automated-assessment]] to nursing. It exemplifies a thematic [[meta-analysis-systematic-review|systematic review]] method and connects to medical-education and health-professions-education applications of AI, as well as to [[equity-in-ai-education|equity]] and [[ethics]] concerns. The focus on faculty preparedness aligns with [[educational-development]] and [[teacher-role]]; the emphasis on validated, measurable outcomes connects to [[ai-ed-evaluation]] and [[educational-measurement]].
+This review brings the knowledge base's [[ai-education|AIED]] themes into the clinical/health-professions context, extending [[simulation]]-based training, [[personalized-learning]], and [[automated-assessment]] to nursing. It exemplifies a thematic [[meta-analysis-systematic-review|systematic review]] method and connects to [[medical-education]] and health-professions-education applications of AI, as well as to [[equity-in-ai-education|equity]] and [[ethics]] concerns. The focus on faculty preparedness aligns with [[educational-development]] and [[teacher-role]]; the emphasis on validated, measurable outcomes connects to [[ai-ed-evaluation]] and [[educational-measurement]].
 
 ## Connected Concepts
 

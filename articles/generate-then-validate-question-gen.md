@@ -11,7 +11,7 @@ sources: ['raw/papers/2512.10110.md']
 confidence: high
 ---
 
-> **Synthesis:** A novel generate-then-validate pipeline for educational question generation that reduces LLM hallucination by 62% compared to direct generation, validated on STEM datasets with 89% accuracy and a 23% improvement over baseline LLMs on relevance metrics. The two-stage approach first generates candidate questions, then validates them against domain constraints and pedagogical criteria.
+> **Synthesis:** A novel generate-then-validate pipeline for educational question generation that reduces [[llm]] hallucination by 62% compared to direct generation, validated on [[stem-education|STEM]] datasets with 89% accuracy and a 23% improvement over baseline LLMs on relevance metrics. The two-stage approach first generates candidate questions, then validates them against domain constraints and [[pedagogy|pedagogical]] criteria.
 
 ## Approach
 
@@ -20,12 +20,12 @@ The paper introduces a two-stage pipeline for automated educational question gen
 1. **Generate** — an LLM produces candidate questions based on source material and specified learning objectives
 2. **Validate** — a separate validation module checks each candidate against domain constraints, factual accuracy, and pedagogical quality criteria
 
-This architecture addresses a core limitation of direct generation: LLMs produce plausible-sounding but factually incorrect or pedagogically inappropriate questions at high rates. The validation stage acts as a quality filter, discarding or flagging candidates that fail domain-specific checks.
+This architecture addresses a core limitation of direct generation: LLMs produce plausible-sounding but factually incorrect or pedagogically inappropriate questions at high rates. The validation stage acts as a quality filter, discarding or flagging candidates that fail [[discipline-specific-aied|domain-specific]] checks.
 
 ## Key Findings
 
 - **62% reduction in hallucination** compared to direct LLM generation
-- **89% accuracy** on STEM datasets (physics, chemistry, biology)
+- **89% accuracy** on STEM datasets ([[physics-education|physics]], [[chemistry-education|chemistry]], [[biology-education|biology]])
 - **23% improvement** over baseline LLMs on relevance and pedagogical alignment metrics
 - The validate stage catches factual errors, inappropriate difficulty levels, and misaligned learning objectives
 

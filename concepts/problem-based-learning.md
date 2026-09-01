@@ -1,7 +1,7 @@
 ---
 title: Problem-Based Learning
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [active-learning, collaborative-learning, scaffolding, generative-ai, critical-thinking, higher-ed, medical-education, engineering-education]
 discipline: [medical education, engineering education]
@@ -9,11 +9,11 @@ level: [higher ed]
 confidence: high
 ---
 
-> **Problem-based learning (PBL)** — a learner-centered pedagogy in which students acquire knowledge and skills by working to understand and resolve a realistic, often ill-structured problem, with a facilitator guiding inquiry rather than delivering instruction. In the AI era, PBL's structural features — problem-driven inquiry, [[collaborative-learning|collaborative knowledge construction]], facilitation over instruction, and [[metacognition|metacognitive reflection]] — have emerged as the same conditions under which generative AI integration becomes educationally productive rather than substitutive.
+> **Problem-based learning (PBL)** — a learner-centered pedagogy in which students acquire knowledge and skills by working to understand and resolve a realistic, often ill-structured problem, with a facilitator guiding inquiry rather than delivering instruction. In the AI era, PBL's structural features — problem-driven inquiry, [[collaborative-learning|collaborative knowledge construction]], facilitation over instruction, and [[metacognition|metacognitive reflection]] — have emerged as the same conditions under which [[generative-ai|generative AI]] integration becomes educationally productive rather than substitutive.
 
 ## Questions to Consider
 
-- In problem-based learning, the *problem* is the driver of the curriculum—not an illustration of content taught elsewhere. Can you recall a time you learned something deeply because you were solving a real problem first?
+- In problem-based learning, the *problem* is the driver of the [[curriculum-design|curriculum]]—not an illustration of content taught elsewhere. Can you recall a time you learned something deeply because you were solving a real problem first?
 - The page argues PBL's features (problem-driven inquiry, collaboration, facilitation, reflection) are exactly the conditions under which AI becomes a productive partner rather than a shortcut. Why might that be?
 - AI severs the link between a submitted artifact and the effort that produced it—the 'artifact-as-proxy' problem. How does assessing process instead of just product help, and what makes process assessment hard?
 - PBL originated in medical education partly because professional competence needs adaptive judgment, not routine execution. What's the difference between those two, and how does AI change which one we train for?
@@ -22,23 +22,23 @@ confidence: high
 
 ## Introduction
 
-PBL originated in medical education (McMaster University, 1960s) and has since spread across health professions, engineering, and K-12. The learner takes responsibility for diagnosing learning needs, identifying resources, and constructing solutions, while the facilitator scaffolds the process. The distinctive claim of PBL is that the *problem* is the curriculum driver — not an illustration of content taught elsewhere but the context in which content is learned.
+PBL originated in medical education (McMaster University, 1960s) and has since spread across [[medical-education|health professions]], engineering, and [[k-12]]. The learner takes responsibility for diagnosing learning needs, identifying resources, and constructing solutions, while the facilitator scaffolds the process. The distinctive claim of PBL is that the *problem* is the curriculum driver — not an illustration of content taught elsewhere but the context in which content is learned.
 
 ## PBL in the AI era
 
-The knowledge base's research shows that PBL has become a focal point for thinking about productive AI integration.
+The knowledge base's [[research-methods-aied|research]] shows that PBL has become a focal point for thinking about productive AI integration.
 
-- **PBL's structural conditions make AI integration productive.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]] argues that PBL's core features — problem-driven inquiry, collaborative construction, facilitation, metacognitive reflection — are exactly the conditions under which AI functions as a partner in professional development rather than a shortcut around it. The alignment is structural, not retrospective: PBL was designed around these conditions before AI existed, rooted in the recognition that professional competence requires adaptive judgement rather than routine execution.
+- **PBL's structural conditions make AI integration productive.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]] argues that PBL's core features — problem-driven inquiry, collaborative construction, facilitation, metacognitive reflection — are exactly the conditions under which AI functions as a partner in [[educational-development|professional development]] rather than a shortcut around it. The alignment is structural, not retrospective: PBL was designed around these conditions before AI existed, rooted in the recognition that professional competence requires adaptive judgement rather than routine execution.
 - **AI raises the ceiling on problem complexity.** The same argument holds that AI expands what category of problem PBL can engage, making "wicked problems" and complex real-world cases accessible to students who previously could not reach them.
-- **The artefact-as-proxy problem.** AI severs the link between a submitted artefact and the engagement that produced it — a problem PBL is well positioned to address because it assesses the *process* and demonstrated understanding, not just the product. This connects PBL to [[authentic-assessment|authentic]] and process-based assessment and to the knowledge base's [[cognitive-offloading|over-reliance]] literature.
-- **ChatGPT as adaptive scaffolding.** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra et al. (2026)]] show ChatGPT integrated as adaptive scaffolding within an AI-enhanced PBL framework to improve [[critical-thinking|critical thinking]] and [[personalized-learning|personalized learning]] in K-12 (120 eighth graders). This treats AI as a within-PBL support rather than an answer machine.
-- **Responsible-use frameworks.** [[learn-framework-responsible-genai-pbl-2026|Uden & Hwang (2026)]] advance the neuroscience-informed **LEARN** framework (Lifelong Learning, Engagement, Active Processing, Reflection, Neuro-based Design) for ethically grounding generative AI use within PBL, countering [[cognitive-offloading|cognitive offloading]] and integrity erosion.
-- **Domain implementations.** PBL frameworks for biomedical engineering use GenAI for summarization and coding support with replication packages ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]]); AI-supported PBL enhances [[computational-thinking|computational thinking]] in robotics ([[ai-pbl-computational-thinking-2026|AI-supported PBL for computational thinking]]); and genAI-enabled virtual patients support medical history-taking tutorials ([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
-- **Evidence synthesis.** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]] systematically review 50 studies (2015–2024) on educators' engagement with AI in PBL within a human-computer interaction framework.
+- **The artefact-as-proxy problem.** AI severs the link between a submitted artefact and the [[student-engagement|engagement]] that produced it — a problem PBL is well positioned to address because it assesses the *process* and demonstrated understanding, not just the product. This connects PBL to [[authentic-assessment|authentic]] and process-based assessment and to the knowledge base's [[cognitive-offloading|over-reliance]] literature.
+- **ChatGPT as [[scaffolding|adaptive scaffolding]].** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra et al. (2026)]] show ChatGPT integrated as adaptive scaffolding within an AI-enhanced PBL framework to improve [[critical-thinking|critical thinking]] and [[personalized-learning|personalized learning]] in K-12 (120 eighth graders). This treats AI as a within-PBL support rather than an answer machine.
+- **Responsible-use frameworks.** [[learn-framework-responsible-genai-pbl-2026|Uden & Hwang (2026)]] advance the neuroscience-informed **LEARN** framework ([[lifelong-learning|Lifelong Learning]], Engagement, Active Processing, Reflection, Neuro-based Design) for ethically grounding generative AI use within PBL, countering [[cognitive-offloading|cognitive offloading]] and integrity erosion.
+- **Domain implementations.** PBL frameworks for [[engineering-education|biomedical engineering]] use GenAI for summarization and coding support with replication packages ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]]); AI-supported PBL enhances [[computational-thinking|computational thinking]] in robotics ([[ai-pbl-computational-thinking-2026|AI-supported PBL for computational thinking]]); and genAI-enabled virtual patients support medical history-taking tutorials ([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
+- **Evidence synthesis.** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]] [[meta-analysis-systematic-review|systematically review]] 50 studies (2015–2024) on educators' engagement with AI in PBL within a [[human-ai-collaboration|human-computer interaction]] framework.
 
 ## PBL vs. related pedagogies
 
-PBL is closely related to [[project-based-learning|project-based learning]] — both are learner-centered and problem/context-driven — but PBL centers on an ill-structured *problem* whose solution requires inquiry and knowledge construction, whereas project-based learning centers on producing a tangible *artefact* or project. PBL is also kin to case-based and inquiry-based learning, which share the problem-driven, facilitation-led structure. In the knowledge base's mapping, the structural argument for productive AI integration applies to any pedagogy sharing these features, not only PBL.
+PBL is closely related to [[project-based-learning|project-based learning]] — both are learner-centered and problem/context-driven — but PBL centers on an ill-structured *problem* whose solution requires inquiry and knowledge construction, whereas project-based learning centers on producing a tangible *artefact* or project. PBL is also kin to case-based and [[inquiry-based-learning|inquiry-based learning]], which share the problem-driven, facilitation-led structure. In the knowledge base's mapping, the structural argument for productive AI integration applies to any pedagogy sharing these features, not only PBL.
 
 ## Why PBL matters for AI integration
 
@@ -46,7 +46,12 @@ Because PBL foregrounds process, collaboration, and demonstrated understanding o
 
 ### Productive failure and PBL
 
-[[productive-failure|Productive failure (PF)]] shares PBL's constructivist core — learners engage problems before instruction — but differs in structure: PF deliberately withholds instruction and scaffolds until *after* learners struggle to generate solutions, whereas PBL embeds facilitation throughout. The AI-era PF literature directly informs how AI should behave inside problem-based settings: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] show AI should preserve productive struggle with non-directive support across PF phases; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] demonstrate LLM tutors can be steered to withhold answers and elicit multiple solution attempts; and [[rhaimi-productivemath-2025|ProductiveMath]] uses AI to help design high-quality PF/PBL-style problems. The design question — when AI should give a problem, a hint, or an answer — is shared across both pedagogies.
+[[productive-failure|Productive failure (PF)]] shares PBL's [[constructivist]] core — learners engage problems before instruction — but differs in structure: PF deliberately withholds instruction and scaffolds until *after* learners struggle to generate solutions, whereas PBL embeds facilitation throughout. The AI-era PF literature directly informs how AI should behave inside problem-based settings: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] show AI should preserve [[desirable-difficulties|productive struggle]] with non-directive support across PF phases; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] demonstrate [[llm]] tutors can be steered to withhold answers and elicit multiple solution attempts; and [[rhaimi-productivemath-2025|ProductiveMath]] uses AI to help design high-quality PF/PBL-style problems. The design question — when AI should give a problem, a hint, or an answer — is shared across both [[pedagogy|pedagogies]].
+
+
+## GenAI in Problem-Based Learning
+
+- **GenAI in problem-based learning.** Neto and colleagues (2026) include problem-based learning among the scenario-based approaches in their systematic review of GenAI in healthcare education, finding that [[prompt-engineering|prompt design]] functions as instructional specification and that hybrid human-AI collaboration outperforms fully automated approaches. The review highlights the need for stronger alignment of generated content with instructional frameworks and more reproducible prompting practices in PBL contexts.
 
 ## Connected Concepts
 
@@ -84,3 +89,4 @@ Because PBL foregrounds process, collaboration, and demonstrated understanding o
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
 
 
+- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)

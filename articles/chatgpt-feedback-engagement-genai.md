@@ -13,7 +13,7 @@ sources: ['raw/papers/tandf-2026-chatgpt-feedback-engagement.md']
 confidence: high
 ---
 
-A qualitative study of **16 undergraduates** at a Hong Kong teacher-education university who used **ChatGPT 3.5** to obtain feedback on IELTS writing tasks. Data came from unobtrusive screen-recorded observations plus stimulated-recall interviews. The study extends the traditional tripartite model of feedback engagement (cognitive, affective, behavioural) to a **four-dimensional model adding metacognitive engagement**, and asks what feedback literacy students need in a GenAI context.
+A [[qualitative-research|qualitative]] study of **16 undergraduates** at a Hong Kong [[teacher-education]] university who used **ChatGPT 3.5** to obtain feedback on IELTS writing tasks. Data came from unobtrusive screen-recorded observations plus stimulated-recall interviews. The study extends the traditional tripartite model of feedback [[student-engagement|engagement]] (cognitive, [[affective-computing|affective]], behavioural) to a **four-dimensional model adding [[metacognition|metacognitive]] engagement**, and asks what [[feedback-literacy|feedback literacy]] students need in a [[generative-ai|GenAI]] context.
 
 ## Key findings by engagement dimension
 
@@ -23,7 +23,7 @@ A qualitative study of **16 undergraduates** at a Hong Kong teacher-education un
 
 ### Metacognitive engagement — weaker, signalling "metacognitive laziness"
 - Only **5 of 16** monitored their revision process; 6 reflected after finishing; **none** used goal-setting or planning strategies.
-- Echoes Fan et al.'s (2025) *metacognitive laziness*: ChatGPT may boost short-term task performance while impeding self-regulation and knowledge transfer. Most revisions targeted **local** aspects of L2 writing (grammar, vocabulary, sentence structure), which may not transfer to future writing tasks.
+- Echoes Fan et al.'s (2025) *metacognitive laziness*: ChatGPT may boost short-term task performance while impeding [[self-regulated-learning|self-regulation]] and [[transfer-of-learning|knowledge transfer]]. Most revisions targeted **local** aspects of L2 writing (grammar, vocabulary, sentence structure), which may not transfer to future writing tasks.
 
 ### Affective engagement — calm, but selectively trusting
 - Majority (n = 13) described interactions as calm, relaxed, stress-free — minimal emotional resistance (unlike typical teacher-feedback contexts).
@@ -37,16 +37,16 @@ A qualitative study of **16 undergraduates** at a Hong Kong teacher-education un
 
 ## Five capacities for student feedback literacy in a GenAI context
 
-1. **Prompt engineering** — the quality of GenAI feedback is largely determined by prompt clarity (e.g. the CLEAR framework; Lo 2023).
+1. **[[prompt-engineering|Prompt engineering]]** — the quality of GenAI feedback is largely determined by prompt clarity (e.g. the CLEAR framework; Lo 2023).
 2. **Evaluative judgement** — discerning useful feedback from plausible-but-unreliable output.
 3. **Emotional reflexivity** — balancing trust and doubt by understanding GenAI's capabilities and limits (Bearman & Ajjawi 2023).
-4. **Ethical decision-making** — deciding how, when, and why to use GenAI feedback so work remains authentic (academic integrity).
+4. **[[ethics|Ethical]] decision-making** — deciding how, when, and why to use GenAI feedback so work remains authentic ([[academic-integrity|academic integrity]]).
 5. **Metacognitive skills** — setting feedback goals, planning prompts, self-monitoring interactions, and reflecting on the whole process.
 
 ## Implications
 
 - Feedback literacy and engagement are bidirectional and mutually reinforcing; the model proposed here (Figure 2) shows the four engagement dimensions interplaying with these five literacy capacities.
-- GenAI feedback can lower the emotional barrier to feedback seeking (important in power-hierarchical cultures — see [[genai-teacher-feedback-comparison]]'s "less risky" finding), but without metacognitive scaffolding students drift toward **superficial, high-uptake, low-transfer** use — a core [[cognitive-offloading|Over-Reliance]] risk.
+- GenAI feedback can lower the emotional barrier to feedback seeking (important in power-hierarchical cultures — see [[genai-teacher-feedback-comparison]]'s "less risky" finding), but without metacognitive [[scaffolding]] students drift toward **superficial, high-uptake, low-transfer** use — a core [[cognitive-offloading|Over-Reliance]] risk.
 
 ## Connected Concepts
 

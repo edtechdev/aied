@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [student-ai-interaction, generative-ai, llm, prompt-engineering, student-experience, learning-analytics, intelligent-tutoring, cognitive-offloading, higher-ed]
 audience: [learners]
@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 ---
 
-> **Student-AI interaction** — the patterns, processes, and cognitive work in how learners engage with generative AI systems during learning and problem solving. Research here characterizes what students ask of AI, how prompts and dialogues evolve, and how interaction quality relates to learning outcomes, [[cognitive-offloading]], and [[agency]].
+> **Student-AI interaction** — the patterns, processes, and cognitive work in how learners engage with [[generative-ai|generative AI]] systems during learning and [[problem-solving|problem solving]]. [[research-methods-aied|Research]] here characterizes what students ask of AI, how prompts and dialogues evolve, and how interaction quality relates to [[learning-gains|learning outcomes]], [[cognitive-offloading]], and [[agency]].
 
 ## Questions to Consider
 
@@ -21,7 +21,7 @@ confidence: high
 
 ## Introduction
 
-Student-AI interaction is the observable surface of learners' engagement with generative AI — the questions they pose, the prompts they write, the way they negotiate and verify AI output, and how those patterns shift across task stages and over time. It sits at the intersection of [[student-experience]], [[prompt-engineering]], and [[learning-analytics]], and is central to debates about whether AI use in education represents genuine learning or [[cognitive-offloading|over-reliance]]. Where [[human-ai-collaboration]] frames the high-level division of cognitive labor between people and models, student-AI interaction is the concrete, measurable enactment of that relationship — the specific inquiries, prompts, and negotiation moves learners make moment to moment.
+Student-AI interaction is the observable surface of learners' [[student-engagement|engagement]] with generative AI — the questions they pose, the prompts they write, the way they negotiate and verify AI output, and how those patterns shift across task stages and over time. It sits at the intersection of [[student-experience]], [[prompt-engineering]], and [[learning-analytics]], and is central to debates about whether AI use in education represents genuine learning or [[cognitive-offloading|over-reliance]]. Where [[human-ai-collaboration]] frames the high-level division of cognitive labor between people and models, student-AI interaction is the concrete, measurable enactment of that relationship — the specific inquiries, prompts, and negotiation moves learners make moment to moment.
 
 ### What students ask AI
 
@@ -34,6 +34,11 @@ A complementary strand links the *form* of interaction to learning. Shallow or h
 ### From interaction to pedagogy
 
 Characterizing student-AI interaction informs [[learning-design]]: instructors can notice when students' questioning patterns are narrow or shallow and design interventions that broaden inquiry; [[teacher-role]] shifts toward coaching students to interact productively with AI. It also grounds [[ai-literacy]] curricula that treat effective prompting and verification as learnable skills rather than innate abilities.
+
+
+## Discipline and Cognitive Engagement in Student-AI Chat
+
+- **Discipline-associated cognitive engagement in student-AI chat.** Chang and Li (2026) analyze student prompts to AI across 116 courses with a within-person, cross-discipline design, showing that student-AI conversations reflect **discipline-associated** cognitive engagement rather than fixed individual interaction styles. Roughly 62% of prompts encoded higher-order cognitive demand overall, but Bloom-level profiles differed sharply by discipline: [[stem-education|STEM]] courses elicited Apply-prevalent prompts (20.8%), language courses Understand-prevalent (31.7%), and social science courses Create-prevalent (33.8%). Paired within-person comparisons confirmed the same students produced significantly more higher-order prompts in social science than STEM courses (pooled n = 16, p < .001), and course-level variation exceeded student-level variation — a strong argument that AI teaching assistants should be designed and evaluated with disciplinary context in mind.
 
 ## Connected Concepts
 - [[human-ai-collaboration]]
@@ -66,3 +71,4 @@ Characterizing student-AI interaction informs [[learning-design]]: instructors c
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[isaza-chatgpt-engineering-prompting-2026]] — Logged prompting and integration behaviors
 
+- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)

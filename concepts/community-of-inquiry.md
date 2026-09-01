@@ -8,13 +8,13 @@ level: [higher ed]
 confidence: high
 ---
 
-> **Community of Inquiry (CoI)** is a framework for conceptualizing a meaningful educational experience as the dynamic interplay of **cognitive presence**, **social presence**, and **teaching presence**. Originating in computer-mediated and online learning research (Garrison, Anderson & Archer, 2000), it has become one of the most widely used models for designing, evaluating, and researching [[online-teaching-and-learning|online and blended]] inquiry-based education. In the [[generative-ai|generative-AI]] era the framework is being reconceptualized: machine-produced discourse can mimic authentic presence, so presences must be understood as sociotechnical accomplishments of human–GenAI assemblages rather than purely human activity.
+> **Community of Inquiry (CoI)** is a framework for conceptualizing a meaningful educational experience as the dynamic interplay of **cognitive presence**, **social presence**, and **teaching presence**. Originating in computer-mediated and online learning [[research-methods-aied|research]] (Garrison, Anderson & Archer, 2000), it has become one of the most widely used models for designing, evaluating, and researching [[online-teaching-and-learning|online and blended]] inquiry-based education. In the [[generative-ai|generative-AI]] era the framework is being reconceptualized: machine-produced discourse can mimic authentic presence, so presences must be understood as sociotechnical accomplishments of human–GenAI assemblages rather than purely human activity.
 
 ## Questions to Consider
 
 - In an online course, what tells you that meaningful learning is actually happening — and how would you know if it weren't?
 - The Community of Inquiry framework names three presences: cognitive, social, and teaching. In your own online experiences, which presence most often goes missing — and what does that do to learning?
-- If an AI chatbot writes fluent, empathetic-sounding replies in a discussion forum, is 'social presence' happening? Or is presence something only humans can genuinely create?
+- If an AI [[conversational-ai|chatbot]] writes fluent, empathetic-sounding replies in a discussion forum, is 'social presence' happening? Or is presence something only humans can genuinely create?
 - Generative AI can produce explanations so coherent they feel obviously right — but coherence isn't the same as correctness. Where have you seen 'fluency mistaken for warrant,' and how would you guard against it in an inquiry course?
 - This framework suggests presences are 'sociotechnical accomplishments' of human-and-AI working together rather than purely human activity. Does that reframe who you hold accountable when an online discussion goes shallow or goes well?
 
@@ -23,7 +23,7 @@ confidence: high
 ## The three presences
 
 - **Cognitive presence** — the extent to which learners construct and confirm meaning through sustained reflection and discourse, operationalized via the *practical inquiry* model (triggering event → exploration → integration → resolution).
-- **Social presence** — the ability of participants to project themselves socially and emotionally, expressed through affective communication, open communication, and group cohesion.
+- **Social presence** — the ability of participants to project themselves socially and emotionally, expressed through [[affective-computing|affective]] communication, open communication, and group cohesion.
 - **Teaching presence** — the design, facilitation, and direction of cognitive and social processes to realise personally meaningful and educationally worthwhile outcomes, including design/organization, facilitating discourse, and direct instruction.
 
 CoI is grounded in [[constructivist]] and Deweyan pragmatic traditions: inquiry is social, iterative, and driven by a felt difficulty that motivates the search for resolution.
@@ -45,7 +45,7 @@ Rather than a tool, a dialogic partner, or a speculative "fourth presence," GenA
 ## Practical implications
 
 - The relationship between GenAI involvement and inquiry quality is **conditional on human accountability**, not linear: strong presence can occur with high or low GenAI involvement when accountability is strong, and weak presence with either when accountability is weak.
-- [[assessment]] of inquiry should shift from polished final outputs to **process-sensitive evidence** — prompting and revision traces, disclosure and attribution practices, verification moves, and interaction logs. This aligns with the knowledge base's broader move toward [[authentic-assessment|authentic, process-revealing assessment]] and away from detection-based responses.
+- [[assessment]] of inquiry should shift from polished final outputs to **process-sensitive evidence** — [[prompt-engineering|prompting]] and revision traces, disclosure and attribution practices, verification moves, and interaction logs. This aligns with the knowledge base's broader move toward [[authentic-assessment|authentic, process-revealing assessment]] and away from detection-based responses.
 - Pedagogically, learners often need explicit training (e.g., [[simulation|simulation-based]] practice with scripted roles and GenAI decision points) to sustain authentic inquiry under GenAI conditions — and instructors should model how to interrogate generated outputs, which depends on building [[ai-literacy|AI literacy]], [[critical-thinking|critical appraisal]], and calibrated [[trust-calibration|trust]].
 
 ## Connected Concepts
