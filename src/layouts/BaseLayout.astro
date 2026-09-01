@@ -714,18 +714,38 @@ const recentConceptItems = recentConcepts.map(c => ({
       .recent-rail { margin-top: 1.75rem; }
     }
 
-    /* === Hide sidebar scrollbars but keep them scrollable ===
+    /* === Style sidebar scrollbars thin & show-on-hover ===
        Chrome/Edge paint a classic scrollbar here; Firefox uses overlay
-       scrollbars that stay hidden. Unify so neither side shows a bar
-       (wheel/trackpad scrolling still works). */
+       scrollbars that stay hidden. Give both a thin, subtle bar that
+       fades in on hover instead of a full-width always-visible bar. */
     .sidebar, .right-col {
-      scrollbar-width: none;       /* Firefox */
-      -ms-overflow-style: none;    /* legacy Edge/IE */
+      scrollbar-width: thin;               /* Firefox */
+      scrollbar-color: color-mix(in srgb, var(--muted-color) 45%, transparent) transparent;
     }
     .sidebar::-webkit-scrollbar, .right-col::-webkit-scrollbar {
-      display: none;               /* Chrome, Safari, Edge */
-      width: 0;
-      height: 0;
+      width: 6px;
+      height: 6px;
+    }
+    .sidebar::-webkit-scrollbar-track,
+    .right-col::-webkit-scrollbar-track { background: transparent; }
+    .sidebar::-webkit-scrollbar-thumb,
+    .right-col::-webkit-scrollbar-thumb {
+      background: color-mix(in srgb, var(--muted-color) 45%, transparent);
+      border-radius: 999px;
+      visibility: hidden;              /* hidden by default */
+      opacity: 0;
+      transition: opacity 0.2s ease;
+    }
+    .sidebar:hover::-webkit-scrollbar-thumb,
+    .sidebar:focus-within::-webkit-scrollbar-thumb,
+    .right-col:hover::-webkit-scrollbar-thumb,
+    .right-col:focus-within::-webkit-scrollbar-thumb {
+      visibility: visible;             /* show on hover/focus */
+      opacity: 1;
+    }
+    .sidebar::-webkit-scrollbar-thumb:hover,
+    .right-col::-webkit-scrollbar-thumb:hover {
+      background: color-mix(in srgb, var(--muted-color) 70%, transparent);
     }
 
     /* === Footer === */
