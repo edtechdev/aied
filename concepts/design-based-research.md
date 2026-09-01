@@ -1,7 +1,7 @@
 ---
 title: Design-Based Research
 created: "2026-08-24T02:30:00-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [design-based-research, research-methods-aied]
 research_method: [design-based research, research methods, literature review]
@@ -55,6 +55,11 @@ DBR trades the causal control of [[rct|experiments]] for ecological authenticity
 
 DBR is complementary to, not a rival of, other research methods (see [[research-methods-aied]] for the full landscape). Where [[rct|experiments]] establish causality and [[quantitative-research|surveys]] establish breadth, DBR establishes *feasibility and design knowledge* — whether an intervention can be built to work in authentic practice and what design principles support it. It frequently pairs with [[usability-research|usability evaluation]] (to refine the interface) and [[qualitative-research|qualitative methods]] (to understand how learners experience the intervention). A mature DBR program typically culminates in an [[rct|efficacy trial]] or [[educational-measurement|measurement]] study that tests the developed intervention's causal effects at scale.
 
+
+## DBR of a Play-Centered AI Curriculum
+
+- **Design-based research of a play-centered AI curriculum.** Lee (2026) uses a design-based research approach to co-design, pilot, and refine the Play With AI (PL-AI) curriculum across iterative cycles with two pre-K and two kindergarten teachers, drawing on teacher surveys, 32 hours of classroom video, field notes, and design-meeting transcripts. The study documents how DBR supports iterative refinement of developmentally appropriate AI literacy activities and yields transferable design principles ([[embodied-learning|embodied]] play, tangible coding, guided dialogue, teacher co-design).
+
 ## Connected Concepts
 
 - [[research-methods-aied]]
@@ -79,3 +84,4 @@ DBR is complementary to, not a rival of, other research methods (see [[research-
 - [[critical-thinking-genai-scaffolding]] — DBR for GenAI critical-thinking scaffolding
 - [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR for a science-integrated AI literacy curriculum (Moore et al. 2026)
 
+- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)

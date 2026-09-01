@@ -1,13 +1,13 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
 ---
 
-> **Adaptive learning** — AI-driven educational systems that adjust content, pacing, and instructional strategies based on individual learner characteristics and performance. Adaptive learning is the operational goal of much [[ai-education|AI in education]] research: using [[student-modeling|student models]] to personalize instruction.
+> **Adaptive learning** — AI-driven educational systems that adjust content, pacing, and instructional strategies based on individual learner characteristics and performance. Adaptive learning is the operational goal of much [[ai-education|AI in education]] [[research-methods-aied|research]]: using [[student-modeling|student models]] to personalize instruction.
 
 ## Questions to Consider
 
@@ -15,7 +15,7 @@ confidence: high
 - An adaptive system adjusts content and difficulty based on a model of what you know. What could go wrong if that model rests on shallow or unreliable signals about your learning?
 - A key finding is that systems inferring mastery from correct answers can stop practice too early — before you learn when to withhold an action. Can you think of a skill where being 'correct' repeatedly still left you unprepared for a real situation?
 - Over-adaptation can remove the productive struggle students need to learn deeply. If AI keeps making things easier the moment you struggle, what exactly does the learner lose?
-- Meta-analysis suggests the adaptation mechanism — not the specific tool generation — drives learning gains. If the 'how' matters more than the 'which tool,' what should you look for when choosing adaptive software?
+- Meta-analysis suggests the adaptation mechanism — not the specific tool generation — drives [[learning-gains|learning gains]]. If the 'how' matters more than the 'which tool,' what should you look for when choosing adaptive software?
 - LLM-based tutors can now adapt language and explanation style, not just difficulty. When does personalizing the way something is explained help learning, and when might it quietly undermine the learner's own agency?
 
 ## Introduction
@@ -111,3 +111,4 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis pooling adaptive + AI-enabled tools across 14 RCTs
 
+- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)

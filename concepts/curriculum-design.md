@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-09-01T09:15:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [curriculum-design, learning-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
 discipline: [stem education]
@@ -98,3 +98,4 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
+- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)

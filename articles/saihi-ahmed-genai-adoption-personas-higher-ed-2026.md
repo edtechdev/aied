@@ -19,7 +19,7 @@ confidence: high
 
 ## From Variable-Centered to Person-Centered Adoption
 
-The paper's central methodological contribution is shifting from variable-centered technology-adoption modeling to a person-centered lens. Traditional frameworks like the [[technology-acceptance-model]] (TAM) and UTAUT identify average predictors of adoption intention but cannot discover naturally occurring user profiles. The study repurposes a validated survey dataset (previously analyzed with structural equation modeling) and applies unsupervised machine learning — hierarchical clustering followed by k-means — to perceptual and experiential indicators (ease of navigation, trust in AI, data-[[privacy]] concerns, perceived efficiency, user satisfaction, perceived learning performance). This complements rather than replaces the earlier SEM model, offering a richer depiction of user diversity within the same theoretical framework.
+The paper's central [[research-methods-aied|methodological]] contribution is shifting from variable-centered technology-adoption modeling to a person-centered lens. Traditional frameworks like the [[technology-acceptance-model]] (TAM) and UTAUT identify average predictors of adoption intention but cannot discover naturally occurring user profiles. The study repurposes a validated survey dataset (previously analyzed with structural equation modeling) and applies unsupervised [[reinforcement-learning|machine learning]] — hierarchical clustering followed by k-means — to perceptual and experiential indicators (ease of navigation, trust in AI, data-[[privacy]] concerns, perceived efficiency, user satisfaction, perceived learning performance). This complements rather than replaces the earlier SEM model, offering a richer depiction of user diversity within the same theoretical framework.
 
 ## The Four Personas and What Drives Them
 
@@ -30,11 +30,11 @@ The identified personas reflect distinct configurations of adoption-related perc
 - **Skeptical Utilitarians** — value functional utility/efficiency but hold skeptical or ethical reservations.
 - **Disengaged Doubters** — low trust, low satisfaction, limited engagement.
 
-The personas are profiled using demographic and contextual characteristics (role, tech-savviness, study field, gender, age, education level). Role distinctions matter: students tend to prioritize immediate [[feedback]] and user-friendly interfaces, while educators are more concerned with content accuracy, instructional alignment, and academic integrity. Technological proficiency and disciplinary culture (e.g., humanities vs. STEM) further shape perceptions and engagement.
+The personas are profiled using demographic and contextual characteristics (role, tech-savviness, study field, gender, age, education level). Role distinctions matter: students tend to prioritize immediate [[feedback]] and user-friendly interfaces, while educators are more concerned with content accuracy, instructional alignment, and academic integrity. Technological proficiency and disciplinary culture (e.g., [[humanities-education|humanities]] vs. [[stem-education|STEM]]) further shape perceptions and engagement.
 
 ## Implications for Design and Deployment
 
-The study offers actionable guidance for tailoring chatbot onboarding, training, and support to specific user needs rather than assuming uniform adoption. By equipping institutions with a data-driven segmentation tool, it supports more inclusive, human-centered [[ai-education]] integration strategies. The authors emphasize that without understanding user diversity, even advanced AI technologies may fail to deliver value or exacerbate existing inequalities in digital readiness and inclusion — a point that ties the work to [[ai-literacy]], [[student-experience]], and [[ethics]] in institutional AI deployment.
+The study offers actionable guidance for tailoring chatbot onboarding, training, and support to specific user needs rather than assuming uniform adoption. By equipping institutions with a data-driven segmentation tool, it supports more inclusive, human-centered [[ai-education]] integration strategies. The authors emphasize that without understanding user diversity, even advanced AI [[ai-technologies|technologies]] may fail to deliver value or exacerbate existing inequalities in digital readiness and [[inclusive-learning|inclusion]] — a point that ties the work to [[ai-literacy]], [[student-experience]], and [[ethics]] in institutional AI deployment.
 
 ## Relevance to the Knowledge Base
 

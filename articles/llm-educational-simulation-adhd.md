@@ -10,7 +10,7 @@ sources: ['raw/papers/2605.06307.md']
 confidence: medium
 ---
 
-> Gonnermann-Müller, Haase & Leins (2026) evaluate whether **LLM-generated student personas simulating ADHD profiles** maintain stable and realistic behavioral patterns over time. This addresses a critical question for using LLMs in educational research and teacher training: can simulated learners reliably represent neurodivergent students?
+> Gonnermann-Müller, Haase & Leins (2026) evaluate whether **[[llm]]-generated student personas simulating ADHD profiles** maintain stable and realistic behavioral patterns over time. This addresses a critical question for using LLMs in educational [[research-methods-aied|research]] and [[teacher-education|teacher training]]: can simulated learners reliably represent [[neurodiversity|neurodivergent]] students?
 
 ## Core Contribution
 
@@ -18,7 +18,7 @@ Gonnermann-Müller, Haase & Leins (2026) evaluate whether **LLM-generated studen
 
 ## Why This Matters
 
-Using LLMs to simulate students is an emerging practice in educational research, but the **temporal stability** of these simulations — especially for neurodivergent profiles — has been underexamined. If LLM-generated personas drift or become inconsistent, they cannot serve as valid proxies for real students in:
+Using LLMs to simulate students is an emerging practice in educational research, but the **temporal stability** of these [[simulation|simulations]] — especially for neurodivergent profiles — has been underexamined. If LLM-generated personas drift or become inconsistent, they cannot serve as valid proxies for real students in:
 - Teacher training simulations
 - [[adaptive-learning]] testing
 - [[intelligent-tutoring]] system evaluation
@@ -26,15 +26,15 @@ Using LLMs to simulate students is an emerging practice in educational research,
 
 ## Connections to Knowledge Base
 
-This work extends the [[llm-student-modeling-memory]] discourse on how LLMs represent learners over time, but applies it to **simulation validity** rather than tutoring personalization. The focus on ADHD profiles connects to broader [[student-experience]] research and highlights gaps in [[stanford-evidence-base-ai-k12-2026]] — the Stanford SCALE review found few studies with adequate causal inference for special education populations.
+This work extends the [[llm-student-modeling-memory]] discourse on how LLMs represent learners over time, but applies it to **simulation validity** rather than tutoring [[personalized-learning|personalization]]. The focus on ADHD profiles connects to broader [[student-experience]] research and highlights gaps in [[stanford-evidence-base-ai-k12-2026]] — the Stanford SCALE review found few studies with adequate causal inference for [[special-education|special education]] populations.
 
 The simulation methodology also raises questions about [[ai-tutor-safety-harms]] — if tutoring systems are tested on simulated neurodivergent learners, do the safety assessments generalize? This echoes [[drawedumath-vlm-struggling-students-2026]] concerns about AI systems that underperform with specific student populations.
 
 ## Open Questions
 
 - How do LLM-simulated ADHD profiles compare to [[multimodal-ai-tutoring]] systems that work with real neurodivergent students?
-- Can temporal stability be improved through prompt engineering or fine-tuning?
-- What is the ethical boundary for using simulated students in [[rct]] designs?
+- Can temporal stability be improved through [[prompt-engineering|prompt engineering]] or fine-tuning?
+- What is the [[ethics|ethical]] boundary for using [[simulating-students|simulated students]] in [[rct]] designs?
 
 ## Connected Concepts
 

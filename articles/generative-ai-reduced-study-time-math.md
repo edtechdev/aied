@@ -21,7 +21,7 @@ The study is notable for its scale and its quasi-experimental identification str
 
 - **Time-on-task:** a ten-year panel of **3.2 million ALEKS learning interactions** (a mastery-based math learning platform).
 - **Learning outcomes and proctoring:** **12.2 million ALEKS PPL placement-assessment response times**, used to test whether the time decline persists when AI use is blocked (proctored) versus when it is not.
-- **Identification:** within-curriculum variation in **AI susceptibility** — text-based word problems that can be transcribed into prompts for an LLM serve as the treated group, while graph-based problems requiring interactive platform manipulation serve as the comparison. This isolates AI-assisted offloading from general platform or curriculum effects.
+- **Identification:** within-curriculum variation in **AI susceptibility** — text-based word problems that can be transcribed into prompts for an [[llm]] serve as the treated group, while graph-based problems requiring interactive platform manipulation serve as the comparison. This isolates AI-assisted offloading from general platform or curriculum effects.
 
 ## Time-on-task decline
 
@@ -50,11 +50,11 @@ The authors introduce **cognitive surrender** to describe students offloading th
 
 This study provides the strongest empirical evidence yet for the over-reliance phenomenon documented across the knowledge base, at population scale with objective behavioral measures rather than self-report. Direct implications include:
 
-- **[[academic-integrity]] policy and assessment governance:** proctored, unassisted measures are essential because non-proctored performance is inflated by AI; the 25% proctored retention decline is the cost of unmonitored AI use.
-- **[[ai-literacy]] and [[self-regulated-learning]] curriculum design:** students need training to recognize and resist cognitive surrender, not just to use tools.
+- **[[academic-integrity]] policy and assessment [[governance]]:** proctored, unassisted measures are essential because non-proctored performance is inflated by AI; the 25% proctored retention decline is the cost of unmonitored AI use.
+- **[[ai-literacy]] and [[self-regulated-learning]] [[curriculum-design|curriculum design]]:** students need training to recognize and resist cognitive surrender, not just to use tools.
 - **[[assessment]] redesign:** the proctoring result validates unassisted and process-based assessment as ways to reveal and protect durable learning.
-- **[[learning-gains]] measurement methodology:** outcome measures must control for AI accessibility; self-report and non-proctored performance systematically understate the harm.
-- **Educational [[regulation]] and AI policy:** the age gradient and proctoring findings inform how policy should target different [[k-12]] and [[higher-ed]] levels.
+- **[[learning-gains]] measurement methodology:** outcome measures must control for AI [[accessibility]]; self-report and non-proctored performance systematically understate the harm.
+- **Educational [[regulation]] and [[educational-policy-ai|AI policy]]:** the age gradient and proctoring findings inform how policy should target different [[k-12]] and [[higher-ed]] levels.
 - **[[math-education]] specifically:** mastery platforms like ALEKS are directly affected, since text-based problems are the most AI-susceptible.
 
 ## Connected Concepts

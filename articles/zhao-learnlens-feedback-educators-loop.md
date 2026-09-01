@@ -15,14 +15,14 @@ confidence: high
 
 ## Core Finding
 
-**LearnLens is a modular, LLM-based system that generates personalised, curriculum-aligned feedback in science education by combining error-aware assessment, a topic-linked memory chain, and an educator-in-the-loop interface.** Zhao et al. (2025) report that this architecture produces high-quality scoring (MSE 3.19, 8–13% below any baseline) while keeping latency (~11.4s) and cost ($0.0099/request) competitive, and that teachers rated it strongly for usability, curriculum relevance (4.4/5), and scientific accuracy (4.3/5).
+**LearnLens is a modular, LLM-based system that generates personalised, curriculum-aligned feedback in science education by combining error-aware assessment, a topic-linked memory chain, and an educator-in-the-loop interface.** Zhao et al. (2025) report that this architecture produces high-quality scoring (MSE 3.19, 8–13% below any baseline) while keeping latency (~11.4s) and cost ($0.0099/request) competitive, and that teachers rated it strongly for [[usability-research|usability]], curriculum relevance (4.4/5), and scientific accuracy (4.3/5).
 
 ## Three Core Components
 
 LearnLens is designed as a dual-interface system serving both teachers and students, built around three components that each target a shortcoming of prior AI-feedback systems.
 
 ### 1. Error-Aware Assessment Module
-The "Assessor" maps each student answer onto a curriculum-aligned mark scheme of weighted key concepts, awarding **partial credit** when a concept is detected even if the final answer is wrong. It **decouples conceptual understanding from writing quality**: grammatical and typographical issues are captured by a separate expression-quality flag and excluded from the numerical grade. A self-reflection mechanism is triggered when a direct "grade-this-answer" prompt score diverges from the concept-matching score, and the transparent weighting of concepts is said to ease disputes and remove the "black box" impression.
+The "Assessor" maps each student answer onto a curriculum-aligned mark scheme of weighted key concepts, awarding **partial credit** when a concept is detected even if the final answer is wrong. It **decouples conceptual understanding from [[writing-education|writing quality]]**: grammatical and typographical issues are captured by a separate expression-quality flag and excluded from the numerical grade. A self-reflection mechanism is triggered when a direct "grade-this-answer" prompt score diverges from the concept-matching score, and the transparent weighting of concepts is said to ease disputes and remove the "black box" impression.
 
 ### 2. Curriculum-Grounded Generation (Chain-of-Concept)
 Rather than similarity-based retrieval, the system organises past assessments by curriculum topics into a **topic graph** and confines retrieval to the topic subgraph for a query — an explicit departure from traditional RAG. Each question is decomposed into sub-question nodes labelled with curriculum topics; retrieval is confined to the topic subgraph and ranked by a FAISS-based ranker. The authors argue this reduces cross-topic noise and improves relevance, producing pedagogically coherent feedback aligned to learning objectives. A safety-aligned model filters harmful, biased, or otherwise inappropriate language post-generation.

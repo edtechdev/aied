@@ -1,14 +1,14 @@
 ---
 title: Project-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [project-based-learning, active-learning, collaborative-learning, educational-robotics, higher-ed, k-12]
 level: [higher ed, k 12]
 confidence: high
 ---
 
-> **Project-based learning (PBL)** — an active, learner-centred pedagogy in which students learn by engaging in extended, real-world projects that require inquiry, problem solving, and the application of knowledge to produce tangible outcomes. PBL emphasizes student autonomy, collaboration, and authentic tasks, and is widely used with technology — including [[educational-robotics|educational robotics]] and AI — to give learners hands-on, meaningful projects. It contrasts with purely theoretical or lecture-based instruction.
+> **Project-based learning (PBL)** — an active, learner-centred [[pedagogy]] in which students learn by engaging in extended, real-world projects that require inquiry, problem solving, and the application of knowledge to produce tangible outcomes. PBL emphasizes student autonomy, collaboration, and [[authentic-assessment|authentic tasks]], and is widely used with technology — including [[educational-robotics|educational robotics]] and AI — to give learners hands-on, meaningful projects. It contrasts with purely theoretical or lecture-based instruction.
 
 ## Questions to Consider
 
@@ -16,7 +16,7 @@ confidence: high
 - PBL and problem-based learning are frequently conflated, yet they differ: one centers on producing a tangible project, the other on resolving an ill-structured problem. Before you read, how would you distinguish the two — and does your answer matter for how a course should be designed?
 - A robotics study tackled a 'theory-practice gap' with an agile, semester-spanning project. When you think about your own field, where does the gap between what students are taught and what they can actually do tend to open up — and what would a project-based approach need to close it?
 - PBL emphasizes student autonomy, collaboration, and authentic tasks. But learners differ in their readiness to direct themselves. What could go wrong if you dropped extended projects into a classroom without support for self-direction, and who would it harm most?
-- PBL is widely coupled with gamification and educational robotics in the research. From your experience, is fun/engagement always a reliable proxy for deep learning, or can a well-scored 'game' mask shallow understanding?
+- PBL is widely coupled with gamification and educational robotics in the research. From your experience, is fun/[[student-engagement|engagement]] always a reliable proxy for deep learning, or can a well-scored 'game' mask shallow understanding?
 - Before reading on, ask yourself: what concrete evidence would convince you that project-based learning actually beats lecture-based instruction for a specific learning outcome — and how hard is that evidence to gather in a real course?
 
 ## Introduction
@@ -27,13 +27,18 @@ Project-based learning is closely related to — but distinct from — [[problem
 
 ### How PBL appears in the knowledge base's research
 
-- **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] presents an agile, semester-spanning project-based approach to teach robotics in an applied computer science program, addressing the theory-practice gap.
+- **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] presents an agile, semester-spanning project-based approach to teach robotics in an applied [[cs-education|computer science]] program, addressing the theory-practice gap.
 - **Gamification coupling:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] found [[game-based-learning|Gamification]] in robotics education strongly favored project-based learning (p = .009).
-- **AI literacy and co-design:** PBL underlies many [[ai-literacy|AI literacy]] and teacher-education interventions, where learners co-create AI tools or resources.
+- **AI literacy and co-design:** PBL underlies many [[ai-literacy|AI literacy]] and [[teacher-education]] interventions, where learners co-create AI tools or resources.
 
 PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-learning]], [[educational-robotics]], [[game-based-learning]], [[computational-thinking]], and [[higher-ed]]/[[k-12]] pedagogy.
 
 - **PBL supports AI-powered robotics learning.** [[educational-robotics-pathways-2026|Pathways research]] shows project-based robotics+AI curricula let high school students learn through engagement in real-world practice, designing, and playful creative expression.
+
+## PBL in AI Literacy Courses
+
+- **Measuring PBL in AI literacy courses.** Zhu and Kong (2026) developed and validated an AI project-based learning scale (AI-PBLS) grounded in Hong Kong secondary and university students' experiences, and used it to show that perceived PBL fosters AI literacy course satisfaction through the mediating mechanisms of empowerment in AI [[problem-solving]] and AI [[ethics|ethical]] awareness. The scale offers [[research-methods-aied|researchers]] a validated instrument, and the mediation finding strengthens the case for PBL as a vehicle that builds confidence and ethical reasoning — not just content — in [[ai-education|AI education]].
+
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -62,3 +67,4 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBL is a dominant CT learning strategy
 
+- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)

@@ -1,14 +1,14 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T09:15:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk]
 
 confidence: high
 ---
 
-> **Generative AI** — AI systems capable of producing text, code, images, and other content, most prominently large language models like GPT-4 and Claude. Generative AI is the technology driving the current wave of [[ai-education|AI in education]] research.
+> **Generative AI** — AI systems capable of producing text, code, images, and other content, most prominently large language models like GPT-4 and Claude. Generative AI is the technology driving the current wave of [[ai-education|AI in education]] [[research-methods-aied|research]].
 
 ## Questions to Consider
 
@@ -27,7 +27,7 @@ Unlike earlier rule-based or retrieval-based systems, generative AI produces flu
 - **Tutoring and dialogue:** [[intelligent-tutoring|AI tutoring systems]] use generative AI for conversational instruction. [[socratic-method|Socratic dialogue]] and [[collaborative-ai-tutoring|collaborative tutoring]] exploit generative capabilities for [[pedagogy|pedagogical]] interaction.
 - **Assessment:** [[automated-essay-scoring|Essay scoring]], [[automated-assessment|automated grading]], and [[formative-assessment]] increasingly rely on generative models.
 - **Risks:** [[hallucination-risk|Hallucination]], [[cognitive-offloading|Over-Reliance]], [[cognitive-offloading]], and [[academic-integrity]] concerns arise specifically from generative AI's fluency and [[accessibility]].
-- **Learning environment generation:** Specialized generative models now turn a course brief directly into finished learning artifacts. [[cogevol-learning-environment-generation-2026|CogEvol (Tu et al. 2026)]], a family of models trained for single-pass generation of structured slides and self-contained interactive HTML pages, completes a slide in a median of 17 seconds and an interactive page in 59 — replacing minutes-long multi-turn [[agentic-ai|agent]] scaffolding. Reliability is enforced via a production pipeline that converts real failures into 53,687 verified SFT samples plus a hybrid rule-plus-VLM reward for GRPO-based RL. This positions generative AI as a content authoring engine with implications for [[teacher-role|teacher]] and [[curriculum-design|curriculum]] production workflows, and for evaluating whether AI-generated learning environments are functionally and pedagogically sound rather than merely visually polished.
+- **Learning environment generation:** Specialized generative models now turn a course brief directly into finished learning artifacts. [[cogevol-learning-environment-generation-2026|CogEvol (Tu et al. 2026)]], a family of models trained for single-pass generation of structured slides and self-contained interactive HTML pages, completes a slide in a median of 17 seconds and an interactive page in 59 — replacing minutes-long multi-turn [[agentic-ai|agent]] [[scaffolding]]. Reliability is enforced via a production pipeline that converts real failures into 53,687 verified SFT samples plus a hybrid rule-plus-VLM reward for GRPO-based RL. This positions generative AI as a content authoring engine with implications for [[teacher-role|teacher]] and [[curriculum-design|curriculum]] production workflows, and for evaluating whether AI-generated learning environments are functionally and pedagogically sound rather than merely visually polished.
 
 ### The knowledge base's generative AI coverage
 
@@ -36,6 +36,11 @@ With 80+ articles, generative AI is the knowledge base's largest technology thre
 ### Connections
 
 Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how outputs are shaped), [[rag]] (retrieval-augmented grounding), and [[ai-literacy]] (the competency needed to use it effectively).
+
+
+## GenAI in Institutional, Interactional, and Domain Contexts
+
+- **GenAI across [[governance|institutional]], interactional, and domain contexts.** Three 2026 studies extend the GenAI-in-education evidence base. Qin (2026) documents how Lingnan University institutionalized GenAI literacy for all undergraduates as part of a digital liberal-arts transformation. Chang and Li (2026) show that student-AI conversations encode discipline-associated cognitive [[student-engagement|engagement]], with ~62% of prompts reflecting higher-order cognitive demand. Neto and colleagues (2026) [[meta-analysis-systematic-review|systematically review]] GenAI in scenario-based healthcare education, finding prompt design functions as instructional specification but is rarely aligned with instructional frameworks (34.8%) or reported in reproducible detail (34.8%).
 
 ## Connected Concepts
 
@@ -121,3 +126,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
+- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
+- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
+- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
+- [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)

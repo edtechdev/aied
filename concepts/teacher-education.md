@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
 audience: [instructors]
@@ -66,6 +66,11 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 
 - **AI as cognitive mediator in teacher reflection (2026):** A practice-based Reflective Triangle Model uses AI to mediate between individual teacher reflection and shared professional knowledge in learning communities, addressing the common failure of reflection to transform into collective professional learning ([[reflective-triangle-model-teacher-ai-2026]]).
 
+
+## Smart-Classroom M.Ed. Training
+
+- **Smart-classroom training for [[math-education|mathematics]] M.Ed. students.** Zhu, Liang, Mao, and Wang (2026) show how a mathematics M.Ed. course can be enhanced with intelligent educational [[ai-technologies|technologies]] ([[automated-assessment|automated scoring]], personalized recommendations, multi-AI feedback) across pre-, in-, and post-class stages, yielding statistically significant gains in instructional-objective design proficiency. The transferable D-T-E Model (Disciplinary Demand–Technological Empowerment–Evaluation Loop) offers teacher educators a [[discipline-specific-aied|discipline-specific]] framework for integrating smart education into graduate teacher preparation.
+
 ## Connected Concepts
 
 - [[teacher-role]]
@@ -115,3 +120,4 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)

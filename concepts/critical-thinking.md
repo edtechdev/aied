@@ -1,21 +1,21 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
 level: [higher ed]
 confidence: medium
 ---
 
-> **Critical thinking** — the ability to analyze, evaluate, and synthesize information — is both a skill that AI tools can help develop and a competency that students must apply when using AI. In AI in education research, critical thinking appears in two interrelated forms: as a learning objective (teaching students to think critically) and as a safeguard against uncritical AI reliance.
+> **Critical thinking** — the ability to analyze, evaluate, and synthesize information — is both a skill that AI tools can help develop and a competency that students must apply when using AI. In [[ai-education|AI in education]] [[research-methods-aied|research]], critical thinking appears in two interrelated forms: as a learning objective ([[teacher-role|teaching]] students to think critically) and as a safeguard against uncritical AI reliance.
 
 ## Questions to Consider
 
 - How confident are you in your ability to spot a false or misleading AI-generated answer? Research suggests self-reported AI competence far exceeds actual evaluation ability — how would you test yourself?
 - Critical thinking here appears in two forms: a skill to teach, and a safeguard against uncritical reliance on AI. Can you think of a situation where a tool that 'teaches' critical thinking is actually training its opposite?
 - One study found that having students interrogate AI-generated mistakes produced large gains in higher-order thinking. How might deliberately exposing errors — rather than hiding them — be a more powerful teaching move than you assumed?
-- Easy access to AI answers can displace critical engagement before students realize it. What design feature, rather than a policy or a ban, could keep the cognitive effort alive?
+- Easy access to AI answers can displace critical [[student-engagement|engagement]] before students realize it. What design feature, rather than a policy or a ban, could keep the cognitive effort alive?
 - AI advice has been shown to suppress the willingness to say 'I don't know' — even when the advice is wrong. How does that change what it means to create a classroom culture where questioning is safe?
 
 ## Introduction
@@ -33,6 +33,11 @@ The knowledge base's articles explore critical thinking through design-based and
 Critical thinking intersects with [[scaffolding]] (designing AI support that maintains cognitive demand), [[prompt-engineering]] (formulating questions that elicit critical analysis), and [[cognitive-offloading|Over-Reliance]] (knowing when to trust and when to question AI). It is foundational to [[academic-integrity]] and serves as a key dimension of [[ai-literacy]] frameworks across both [[k-12]] and [[higher-ed]] contexts.
 
 - **AI errors as provocations for higher-order thinking:** [[pedagogy-ai-mistakes|Hosseini (2026)]] operationalises Bloom's higher-order levels (Analyze, Evaluate, Create) by having students interrogate AI-generated mistakes in a database course, with significant pre/post gains (Cohen's *d*=1.49) in subject-matter competency.
+
+## Higher-Order Engagement in Student-AI Chat
+
+- **Higher-order cognitive engagement in student-AI chat.** Chang and Li (2026) find that ~62% of student prompts to AI encode higher-order cognitive demand, with Bloom-level profiles varying by discipline ([[stem-education|STEM]] Apply-prevalent 20.8%, language Understand-prevalent 31.7%, social science Create-prevalent 33.8%). Their within-person design shows the same students produce significantly more higher-order prompts in social science than STEM courses (p < .001), indicating that disciplinary context shapes critical and higher-order engagement with AI.
+
 ## Connected Concepts
 
 - [[metacognition]]
@@ -84,3 +89,4 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 
+- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)

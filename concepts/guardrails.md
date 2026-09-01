@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, reinforcement-learning, bias-mitigation, ai-sycophancy, k-12, llm]
 level: [k 12]
@@ -13,7 +13,7 @@ confidence: high
 ## Questions to Consider
 
 - A tutor that gives no wrong answers can still quietly harm learning. What kinds of 'quiet' failures might escape a toxicity check but still undermine how much students actually learn?
-- In a field experiment, an unguarded AI tutor raised practice performance but reduced later unassisted exam scores, while a 'hint-not-answer' version eliminated the harm. Why might making students perform better in the moment actually make them learn less?
+- In a field experiment, an unguarded [[intelligent-tutoring|AI tutor]] raised practice performance but reduced later unassisted exam scores, while a 'hint-not-answer' version eliminated the harm. Why might making students perform better in the moment actually make them learn less?
 - If an AI tutor is engineered to be 'kind' — never pushing back or giving corrective feedback — how could that be a safety problem rather than a feature? When is agreeable behavior harmful in an educational context?
 - Guardrails are described as a layered set of controls, from prompting to knowledge grounding to training to auditing. Pick one layer and consider: where could it fail, and what would a different layer catch that it misses?
 - The page notes that guardrails themselves can be biased — refusals and softened answers patterned by student identity. How would you audit a safety filter to make sure it isn't quietly reproducing inequity while 'protecting' learners?
@@ -69,6 +69,11 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 4. **Prefer alignment over refusal.** Reward guidance and scaffolding in training rather than relying on brittle refusal rules.
 5. **Require human oversight.** Teacher-in-the-loop QA before deployment and continuous auditing for differential treatment.
 
+
+## Rule-Guided Pedagogical Guardrails
+
+- **Guardrailing procedural tutoring with embedded rules.** Looi, Liu, and Sun (2026) instantiate a concrete set of pedagogical guardrails for an [[llm]] math tutor: a **numerical-correctness gate** with an uncertainty guardrail so the tutor never makes an unwarranted epistemic commitment, **output constraints** enforcing brevity and micro-step progression for cognitive-load management, an **anti-spoiler boundary** that institutionalizes the logic-first principle by returning computational agency to the student, and a **goodbye gate** encoding the distinction between authentic completion and premature termination. These rules were consolidated as reproducible prompt-architecture rules validated in a 40-student classroom pilot — a model of translating [[pedagogical-safety|safety]] principles into auditable, replicable guardrails.
+
 ## Connected Concepts
 
 - [[pedagogical-safety]] — the goal that guardrails implement
@@ -107,3 +112,4 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - [[pedagogical-safety-rl]] — reward shaping for pedagogical safety
 - [[residencyrl-clinical-rl-training-2026]] — safety-aligned RL in clinical training
 
+- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)

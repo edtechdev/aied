@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [early-childhood-elementary-ai-education, k-12, ai-literacy, computational-thinking, ai-education, well-being]
 level: [k 12]
@@ -37,6 +37,11 @@ Young children interact with AI increasingly early — through AI-enabled toys, 
 
 Because young learners are more vulnerable and less able to self-regulate their use of AI, this cluster emphasizes **scaffolding by adults** (parents, guardians, and teachers), **age-appropriate design**, and the risk of [[cognitive-offloading|over-reliance]] and [[well-being|harm]] if AI substitutes for, rather than supports, the developmental work of play, discovery, and effortful learning. Equity is a live concern: access to AI-rich early learning (or to protective adult guidance) is uneven, connecting to [[digital-divide]] and [[equity-in-ai-education]]. Much of the evidence base remains exploratory or design-oriented rather than causal.
 
+
+## Play With AI (PL-AI)
+
+- **Play-centered AI literacy in pre-K and kindergarten.** Lee (2026) reports the [[design-based-research|design-based research]] of Play With AI (PL-AI), a developmentally appropriate [[curriculum-design|curriculum]] in which two pre-K and two kindergarten teachers co-designed seven sequenced activities blending unplugged play (composing and testing \"how-to\" algorithms), tangible coding (Bee-Bot, Ozobot), and guided dialogue with a social AI robot. [[formative-assessment|Formative]] evidence showed substantial growth in teacher confidence and [[pedagogy|pedagogical]] agency, with four design principles emerging — **embodied play, tangible coding, guided dialogue, and teacher co-design** — aligned with the AI4K12 Initiative and NAEYC frameworks. This is a model of how [[educational-robotics|robots and tangible tools]] can be embedded in play-based, teacher-led [[ai-literacy|AI literacy]] for the youngest learners.
+
 ## Connected Concepts
 
 - [[k-12]]
@@ -68,3 +73,4 @@ Because young learners are more vulnerable and less able to self-regulate their 
 - [[icub-humanoid-storytelling-llm-hri-2025]] — LLM humanoid storytelling with children
 
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
+- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)

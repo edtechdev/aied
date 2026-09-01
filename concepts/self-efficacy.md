@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [self-efficacy, motivation, assessment, self-regulated-learning, student-experience, ai-literacy]
 audience: [learners]
@@ -9,14 +9,14 @@ category: [assessment]
 confidence: high
 ---
 
-> **Self-efficacy** — a learner's belief in their capability to successfully perform a task or achieve a goal. Drawing on social cognitive theory (Bandura), self-efficacy shapes motivation, effort, persistence, and learning engagement. In AI in education, self-efficacy matters in two ways: AI tools can build learners' confidence and autonomy (e.g., by providing [[feedback]] and [[scaffolding]]), and learners' AI self-efficacy — their confidence in using AI technologies — influences how effectively they engage with AI, including how AI-related knowledge translates into career-relevant readiness.
+> **Self-efficacy** — a learner's belief in their capability to successfully perform a task or achieve a goal. Drawing on social cognitive theory (Bandura), self-efficacy shapes motivation, effort, persistence, and learning [[student-engagement|engagement]]. In [[ai-education|AI in education]], self-efficacy matters in two ways: AI tools can build learners' confidence and autonomy (e.g., by providing [[feedback]] and [[scaffolding]]), and learners' AI self-efficacy — their confidence in using AI [[ai-technologies|technologies]] — influences how effectively they engage with AI, including how AI-related knowledge translates into career-relevant readiness.
 
 ## Questions to Consider
 
 - Self-efficacy is a belief about your capability — distinct from actual competence. Have you ever been highly capable at something yet doubted yourself, or confidently wrong about something you couldn't do? What does that gap between belief and ability tell you about why self-efficacy matters?
 - AI self-efficacy (confidence working with AI) is a separate construct from AI literacy, and research finds literacy translates into readiness only when learners also have confidence. If someone knows *about* AI but doesn't believe they can use it, what happens to that knowledge — and what does that imply for training?
 - Research found that using AI to support understanding was fully mediated by academic self-efficacy in its link to performance, while shortcut use predicted worse outcomes partly independent of self-efficacy. Why would the *same* tool build confidence when used one way and fail to when used another?
-- The page distinguishes self-efficacy from the everyday word 'confidence.' Before you read, how are they different, and why would a researcher insist on the distinction rather than treating them as the same thing?
+- The page distinguishes self-efficacy from the everyday word 'confidence.' Before you read, how are they different, and why would a [[research-methods-aied|researcher]] insist on the distinction rather than treating them as the same thing?
 - Robotics and embodied learning build confidence by grounding tasks in observable outcomes, and feedback can build learner self-efficacy. Think of a task where you gained real confidence only after seeing a concrete result. What does that say about what kinds of AI learning experiences are most likely to build — rather than merely report — self-efficacy?
 - Teacher self-efficacy affects adoption and integration of AI. If a teacher doesn't believe they can use AI effectively, does any amount of AI literacy fix it? What would build a teacher's confidence, and how is that different from giving them more information?
 
@@ -27,12 +27,17 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 ### How self-efficacy appears in the knowledge base's research
 
 - **AI self-efficacy and career readiness:** [[ai-literacy-career-adaptability-business-2026|Research on AI readiness]] shows that AI self-efficacy moderates the relationship between AI literacy and AI readiness: literacy translates into readiness only when learners have confidence in using AI, and self-efficacy directly predicts career adaptability.
-- **AI use patterns and self-efficacy:** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] found that using GenAI to *support understanding* (evaluative integration) was fully mediated by academic self-efficacy in its association with performance — understanding-oriented AI use builds confidence — whereas shortcut use (low-verification uptake) predicted worse outcomes partly independently of self-efficacy. Self-efficacy is thus both a pathway through which productive AI use helps and a factor that shortcut use may fail to build.
+- **AI use patterns and self-efficacy:** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] found that using [[generative-ai|GenAI]] to *support understanding* (evaluative integration) was fully mediated by academic self-efficacy in its association with performance — understanding-oriented AI use builds confidence — whereas shortcut use (low-verification uptake) predicted worse outcomes partly independently of self-efficacy. Self-efficacy is thus both a pathway through which productive AI use helps and a factor that shortcut use may fail to build.
 - **Robotics and hands-on learning:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]]'s robot-mediated role-play built children's self-efficacy in anti-bullying intervention; robotics and [[embodied-learning|embodied learning]] generally build confidence by grounding tasks in observable outcomes.
-- **Teacher self-efficacy:** [[teacher-ai-competency|Teacher AI competency]] research examines how professional development builds teachers' confidence in using AI, which affects adoption and integration.
+- **Teacher self-efficacy:** [[teacher-ai-competency|Teacher AI competency]] research examines how [[educational-development|professional development]] builds teachers' confidence in using AI, which affects adoption and integration.
 - **Feedback and confidence:** [[ai-feedback-quality|AI feedback]] and [[intelligent-tutoring|tutoring]] can build learner self-efficacy by providing actionable, supportive feedback.
 
 Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student-experience]], [[ai-literacy]], [[agency]], and [[educational-robotics]]. Building self-efficacy is a key mechanism through which AI supports engagement and learning.
+
+
+## Empowerment in AI Problem-Solving
+
+- **Empowerment in AI [[problem-solving]].** Zhu and Kong (2026) find that students' empowerment in using AI for problem solving mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. In their SEM analysis of 1,027 students, PBL fostered conditions that empowered students to use AI for problem solving, which in turn drove course satisfaction — evidence that building students' confidence and capability with AI is a key mechanism of effective AI literacy education.
 
 ## Connected Concepts
 
@@ -63,3 +68,4 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 - [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic self-efficacy
 
+- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)

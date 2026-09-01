@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
@@ -63,6 +63,11 @@ The knowledge base's ethics articles range from theoretical frameworks ([[ethica
 ## Connections
 
 Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[governance]]. It is the normative foundation for all other AI education concepts — the frame within which questions of fairness, transparency, autonomy, and safety are raised and resolved.
+
+## Ethical Awareness in AI Literacy Courses
+
+- **Ethical awareness as a mediator of AI literacy course satisfaction.** Zhu and Kong (2026) show that AI ethical awareness — alongside empowerment in AI [[problem-solving]] — mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. Their validated AI-PBLS scale and SEM results (1,027 students) indicate that PBL creates conditions in which students build a personal framework for ethical reasoning about AI, strengthening the case that ethics is not an add-on but a core mechanism of meaningful AI literacy development.
+
 ## Connected Concepts
 
 - [[business-education]]
@@ -129,3 +134,4 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
+- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)

@@ -1,14 +1,14 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-09-01T09:15:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, learning-analytics, generative-ai, ai-education, intelligent-tutoring, curriculum-design, llm]
 category: [curriculum design]
 confidence: high
 ---
 
-> **Knowledge graph** — a structured representation of concepts and their relationships used to model domain knowledge, student understanding, and learning dependencies in AI in education systems. Knowledge graphs enable AI systems to reason about what students know, what they need to learn next, and how concepts relate to each other.
+> **Knowledge graph** — a structured representation of concepts and their relationships used to model domain knowledge, student understanding, and learning dependencies in [[ai-education|AI in education]] systems. Knowledge graphs enable AI systems to reason about what students know, what they need to learn next, and how concepts relate to each other.
 
 ## Questions to Consider
 
@@ -17,7 +17,7 @@ confidence: high
 - The page describes using knowledge graphs to detect knowledge gaps — where learners are missing foundational concepts. How might surfacing that gap change what an AI tutor decides to teach next?
 - Knowledge graphs can be built manually or automatically by LLMs from educational text. What are the risks of letting an AI construct the concept structure that a tutor will then reason over?
 - If knowledge graphs provide the domain structure that AI agents reason over, what happens to trust and accuracy when the graph itself contains an error or a biased relationship?
-- A knowledge graph is described as the structural backbone enabling fine-grained diagnosis and personalized paths. In your own teaching or design, what would you need a knowledge graph of your subject to capture — and what would it leave out?
+- A knowledge graph is described as the structural backbone enabling fine-grained diagnosis and personalized paths. In your own [[teacher-role|teaching]] or design, what would you need a knowledge graph of your subject to capture — and what would it leave out?
 
 ## Introduction
 
@@ -25,7 +25,7 @@ Knowledge graphs provide the structural backbone for many intelligent education 
 
 ## How knowledge graphs are used in AIED
 
-Knowledge graphs are a recurring structural mechanism across the knowledge base's AIED research, serving several distinct roles:
+Knowledge graphs are a recurring structural mechanism across the knowledge base's AIED [[research-methods-aied|research]], serving several distinct roles:
 
 - **[[knowledge-tracing]] models** use concept graphs to propagate student proficiency estimates across related skills, improving prediction accuracy when data is sparse.
 - **[[student-modeling]] systems** leverage knowledge graphs to represent what learners know in a semantically meaningful way, enabling fine-grained diagnosis.
@@ -35,7 +35,7 @@ Knowledge graphs are a recurring structural mechanism across the knowledge base'
 - **Curriculum and course modeling:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compares CS course structures across institutions using graph representations; [[learnity-graphs-lifelong-learning-framework-2026|Learnity graphs]] model [[lifelong-learning|lifelong learning]] pathways.
 - **Prerequisite-relation learning:** [[proprl-prerequisite-relation-learning|ProPrL]] learns prerequisite relations among concepts, formalizing the edges that knowledge graphs encode.
 - **Knowledge-gap detection:** [[knowledge-gap-detection-ai-tas|Knowledge gap detection]] uses graph-based reasoning in AI teaching assistants to identify where learners are missing foundational concepts.
-- **Multimodal and explainable reasoning:** [[multimodal-knowledge-graph-educational-reasoning|multimodal knowledge graphs]] extend graph structure across content modalities; [[fair-explainable-edu-recommendations|fair and explainable recommendations]] combine knowledge-graph embeddings with sequential modeling (a hybrid HKG-GRU framework).
+- **[[multimodal]] and explainable reasoning:** [[multimodal-knowledge-graph-educational-reasoning|multimodal knowledge graphs]] extend graph structure across content modalities; [[fair-explainable-edu-recommendations|fair and explainable recommendations]] combine knowledge-graph embeddings with sequential modeling (a hybrid HKG-GRU framework).
 - **Ontology-based knowledge bases:** [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova (2026)]] proposes a layered, hybrid knowledge-base architecture grounded in description logic that replaces the classic ITS single-ontology models with **systems of mapped ontologies** — adding procedural (rule-based), probabilistic/fuzzy, and ML-extracted implicit knowledge — plus a metadata framework for describing, discovering, and reusing educational ontologies.
 - **[[scaffolding|Scaffolding]] and writing:** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]] and [[visual-query-tracer-declarative-logic-learning|visual query tracing]] apply graph-based structure to narrative drafting and declarative-logic learning.
 
@@ -82,3 +82,4 @@ Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curr
 
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
+- [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)

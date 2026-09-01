@@ -9,7 +9,7 @@ tags: ["emotion-recognition", "iot", "classroom-quality", "real-time-monitoring"
 
 ## Citation
 
-[Emotion-Aware Classroom Quality Assessment Leveraging IoT-Based Real-Time Student Monitoring](https://www.sciencedirect.com/science/article/pii/S2666920X26000512) — Nguyen, H., Dao, H., Nguyen, H., Vu, N., & Tran, C. (2026). *Computers and Education: Artificial Intelligence*, 11, 100639.
+[[[affective-tutoring|Emotion-Aware]] Classroom Quality Assessment Leveraging IoT-Based Real-Time Student Monitoring](https://www.sciencedirect.com/science/article/pii/S2666920X26000512) — Nguyen, H., Dao, H., Nguyen, H., Vu, N., & Tran, C. (2026). *Computers and Education: Artificial Intelligence*, 11, 100639.
 
 ## Overview
 

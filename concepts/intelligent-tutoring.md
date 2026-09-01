@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 tags: [intelligent-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 ---
 
-> **AI tutoring / intelligent tutoring** — the use of AI to provide personalized, adaptive, scalable instructional support: from classical Intelligent Tutoring Systems (ITS) that model student knowledge, adapt instruction, and scaffold problem-solving, to conversational and agent-based tutors built on [[llm|LLMs]]. Effectiveness hinges on [[pedagogy|pedagogical]] design ([[scaffolding]], feedback quality, autonomy balance) rather than the model alone — see [[measuring-llm-tutors-teach-vs-solve]] and [[socratic-method]].
+> **AI tutoring / intelligent tutoring** — the use of AI to provide personalized, adaptive, scalable instructional support: from classical Intelligent Tutoring Systems (ITS) that model student knowledge, adapt instruction, and scaffold [[problem-solving]], to conversational and agent-based tutors built on [[llm|LLMs]]. Effectiveness hinges on [[pedagogy|pedagogical]] design ([[scaffolding]], feedback quality, autonomy balance) rather than the model alone — see [[measuring-llm-tutors-teach-vs-solve]] and [[socratic-method]].
 
 ## Questions to Consider
 
@@ -33,7 +33,7 @@ Intelligent tutoring is the classic *application-side* member of the [[student-m
 
 ## ITS vs. LLM-based tutoring
 
-The emergence of [[llm|LLMs]] has created a productive tension in the tutoring field. Traditional Intelligent Tutoring Systems (ITS) offer precision and transparency — you know exactly why the system made a particular decision — but lack flexibility. LLM tutors offer natural dialogue and broad knowledge but can hallucinate, over-scaffold, or bypass learning entirely. Modern research increasingly explores **hybrid approaches** that combine structured ITS components with LLM flexibility.
+The emergence of [[llm|LLMs]] has created a productive tension in the tutoring field. Traditional Intelligent Tutoring Systems (ITS) offer precision and transparency — you know exactly why the system made a particular decision — but lack flexibility. LLM tutors offer natural dialogue and broad knowledge but can hallucinate, over-scaffold, or bypass learning entirely. Modern [[research-methods-aied|research]] increasingly explores **hybrid approaches** that combine structured ITS components with LLM flexibility.
 
 Intelligent Tutoring Systems represent one of the oldest and most researched areas of [[ai-education|AI in education]]. Unlike general-purpose LLM tutors, ITS traditionally use structured approaches: domain models (what to teach), [[student-modeling|student models]] (what the learner knows), and pedagogical models (how to teach). These components enable fine-grained tracking of student progress, misconception diagnosis, and adaptive sequencing.
 
@@ -103,6 +103,11 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 
 - **[[deceptive-overgeneralization-adaptive-learning-2026|Deceptive overgeneralization (An et al. 2026)]]** shows ITS mastery stopping rules (BKT, 95% threshold) can end practice before learners learn *when to withhold* a skill: learners who overgeneralized misapplied actions on first "do-not-act" items at 61.5%–100%, and targeted refrain-practice with constraint-naming [[feedback]] reduced this to near-floor. Correctness-based mastery inference is necessary but not sufficient for ITS adaptivity.
 - **Graph-based ITS for dynamic domains.** [[graph-its-adaptive-algorithms-2026|A graph-based intelligent tutoring system]] combines an Evolving Knowledge Space Graph with [[generative-ai|generative AI]] content creation and Bayesian knowledge propagation — which showed the highest knowledge gains — supporting adaptive learning in dynamic curricula.
+
+## Rule-Guided LLM Tutoring
+
+- **Rule-integrated LLM tutoring for procedural domains.** Looi, Liu, and Sun (2026) tackle the inconsistency and pedagogical opacity of LLM tutors in primary [[math-education|mathematics]] through a design science study of a rule-guided system organized around a three-layer architecture — *diagnosis → intent selection → constrained response generation*. They formalize the distinction between **rule-guided scaffolding** (governed by auditable, replicable rules) and **ad-hoc scaffolding** (helpful moves difficult to audit or replicate). Evaluated via persona-based simulated dialogues and a classroom pilot with 40 Grade 5 students, rule-guided scaffolding improved interactional consistency, reduced premature answer-giving and early closure, and sustained cognitive engagement — while the classroom pilot surfaced interactional complexities, fragmented inputs, and attentional fluctuations that [[simulation]] missed. This is a concrete blueprint for [[guardrails|guardrailing]] [[llm|LLM]] tutors in well-defined procedural domains.
+
 ## Connected Concepts
 
 - [[scaffolding]]
@@ -163,3 +168,5 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evidence on AI tutoring (~0.12 sd)
 - [[liu-emerging-tech-tefl-review-2026]] — ITS among EFL emerging technologies
 
+- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
