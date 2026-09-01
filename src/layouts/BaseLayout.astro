@@ -151,6 +151,9 @@ const recentConceptItems = recentConcepts.map(c => ({
       --header-bg: #15212b;
       --header-text: #f2f6f9;
       --search-bg: #0d1418;
+      /* Logo tile: dark background + border in dark mode (blends with header). */
+      --logo-bg: #0d1418;
+      --logo-border: #2c3a45;
       /* Theme the Pagefind search components to match the dark site. */
       --pf-background: #0d1418;
       --pf-text: #e8eef2;
@@ -175,6 +178,9 @@ const recentConceptItems = recentConcepts.map(c => ({
       --header-bg: #f7fafc;
       --header-text: #1a242c;
       --search-bg: #ffffff;
+      /* Logo tile: light background + soft border in light mode. */
+      --logo-bg: #ffffff;
+      --logo-border: #d3dbe1;
       /* Theme the Pagefind search components to match the light site. */
       --pf-background: #ffffff;
       --pf-text: #1a242c;
@@ -231,10 +237,10 @@ const recentConceptItems = recentConcepts.map(c => ({
     .header-left {
       display: flex;
       align-items: center;
-      gap: 0.25rem;
+      gap: 0.15rem;
       flex-shrink: 0;
     }
-    .header-left .brand-link { margin-left: 0.25rem; }
+    .header-left .brand-link { margin-left: 0.15rem; }
     .nav-toggle {
       display: inline-flex;
       align-items: center;
@@ -289,7 +295,7 @@ const recentConceptItems = recentConcepts.map(c => ({
     .header-icons {
       display: flex;
       align-items: center;
-      gap: 0.35rem;
+      gap: 0.15rem;
       flex-shrink: 0;
     }
     .header-icon {
@@ -355,11 +361,15 @@ const recentConceptItems = recentConcepts.map(c => ({
       font-weight: 700;
       white-space: nowrap;
     }
-    .brand-link img {
+    .brand-link svg,
+    .brand-link .brand-logo {
       flex-shrink: 0;
       /* Match the hamburger/icon button size so all header controls align. */
       width: 2.6rem;
       height: 2.6rem;
+      display: block;
+      /* Rounded-square tile to match the icon buttons. */
+      border-radius: 8px;
     }
     /* Default to the full "AIEd Knowledge Base" label; show the compact
        "AIEd KB" only when the browser is narrow and the header is tight.
@@ -383,17 +393,15 @@ const recentConceptItems = recentConcepts.map(c => ({
        reachable via the Search icon. With the label and search row gone there
        is room to grow the logo and icon buttons up to match the hamburger. */
     @media (max-width: 640px) {
-      /* Single tight row. Use flex (flex-start, nowrap) so the logo and icon
-         buttons hug each other with a small gap. The old grid used an empty
-         1fr middle track that stretched to spread the icons apart — creating
-         both the large logo-to-buttons gap AND pushing the theme button off
-         the right edge on narrow Firefox mobile. No spreading track now. */
+      /* Single row, split: hamburger + logo hug the LEFT edge, the icon-button
+         group hugs the RIGHT edge (chat/search/help/journal/theme). space-between
+         pushes them apart so the buttons are right-aligned, matching desktop. */
       header .container {
         display: flex;
         flex-wrap: nowrap;
         align-items: center;
-        justify-content: flex-start;
-        gap: 0.25rem;
+        justify-content: space-between;
+        gap: 0.1rem;
         /* Shrink the container's side padding on narrow screens so all header
            controls (hamburger + logo + 5 icons) fit without the theme button
            running off the right edge. */
@@ -404,23 +412,18 @@ const recentConceptItems = recentConcepts.map(c => ({
         flex: 0 0 auto;
         align-self: center;
       }
-      .header-icons { gap: 0.25rem; }
+      .header-icons { gap: 0.1rem; }
       /* No search box on mobile — drop the second row entirely. */
       .header-search { display: none; }
       /* Hide the two least-essential icons (RSS feed + GitHub repo). */
       .header-icons .header-icon[title="RSS feed"],
       .header-icons .header-icon[title="GitHub repository"] { display: none; }
-      /* The logo's own dark SVG square (#0d1418) blends into the dark header
-         (#15212b), so only the sparse light-blue dots were visible and the
-         logo read as tiny. Give it a visible background + border so it reads
-         as a full-size square matching the buttons. */
-      .brand-link img {
+      /* The logo tile now carries its own theme-adaptive background + border
+         (--logo-bg / --logo-border), so on mobile we only need the size. */
+      .brand-link .brand-logo {
         width: 2.6rem;
         height: 2.6rem;
         margin-right: 0.15rem;
-        border-radius: 8px;
-        background: var(--search-bg);
-        border: 1px solid var(--muted-border-color);
       }
       .header-icon,
       button.theme-toggle,
@@ -859,7 +862,36 @@ const recentConceptItems = recentConcepts.map(c => ({
           </svg>
         </button>
         <a href={`${siteConfig.basePath}/`} class="brand-link">
-          <img src={`${siteConfig.basePath}/logo.svg`} alt={`${siteConfig.brandName} logo`} width="28" height="28" style="display:inline-block;vertical-align:middle;" />
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" class="brand-logo" role="img" aria-label={`${siteConfig.brandName} logo`}>
+            <!-- Rounded-square tile: background + border follow the light/dark theme. -->
+            <rect x="0" y="0" width="96" height="96" rx="22" fill="var(--logo-bg)" />
+            <rect x="1" y="1" width="94" height="94" rx="21" fill="none" stroke="var(--logo-border)" stroke-width="1.5" />
+            <!-- Hub spokes -->
+            <g stroke="var(--logo-border)" stroke-width="1.5">
+              <line x1="48" y1="48" x2="48" y2="14" />
+              <line x1="48" y1="48" x2="82" y2="48" />
+              <line x1="48" y1="48" x2="48" y2="82" />
+              <line x1="48" y1="48" x2="14" y2="48" />
+              <line x1="48" y1="48" x2="72" y2="24" />
+              <line x1="48" y1="48" x2="72" y2="72" />
+              <line x1="48" y1="48" x2="24" y2="72" />
+              <line x1="48" y1="48" x2="24" y2="24" />
+            </g>
+            <!-- Outer concept nodes -->
+            <g fill="#7dd3fc">
+              <rect x="38" y="5" width="20" height="18" rx="5" />
+              <rect x="73" y="39" width="20" height="18" rx="5" />
+              <rect x="38" y="73" width="20" height="18" rx="5" />
+              <rect x="3" y="39" width="20" height="18" rx="5" />
+              <rect x="65" y="17" width="14" height="14" rx="4" />
+              <rect x="65" y="65" width="14" height="14" rx="4" />
+              <rect x="17" y="65" width="14" height="14" rx="4" />
+              <rect x="17" y="17" width="14" height="14" rx="4" />
+            </g>
+            <!-- Center node (light-blue pill) with AIEd -->
+            <rect x="26" y="38" width="44" height="20" rx="10" fill="#7dd3fc" />
+            <text x="48" y="52" text-anchor="middle" font-family="inherit" font-size="12" font-weight="700" fill="#0b1220">AIEd</text>
+          </svg>
           <span class="brand-full">{siteConfig.brandName}</span>
           <span class="brand-short">{siteConfig.shortName}</span>
         </a>
