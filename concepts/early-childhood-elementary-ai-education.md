@@ -1,27 +1,27 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T10:00:00-04:00"
 type: concept
 tags: [early-childhood-elementary-ai-education, k-12, ai-literacy, computational-thinking, ai-education, well-being]
 level: [k 12]
 confidence: high
 ---
 
-> **Early childhood education** — the use of artificial intelligence in the education of young children, spanning preschool and the elementary (primary) years. This covers AI-literacy and [[computational-thinking|computational thinking]] curricula for young learners, AI-enabled toys and play, personalized learning in elementary subjects, and the developmental, safety, and equity considerations unique to children rather than adolescents or adults.
+> **Early childhood education** — the use of artificial intelligence in the education of young children, spanning preschool and the elementary (primary) years. This covers AI-literacy and [[computational-thinking|computational thinking]] curricula for young learners, AI-enabled toys and play, [[personalized-learning|personalized learning]] in elementary subjects, and the developmental, safety, and equity considerations unique to children rather than adolescents or adults.
 
 ## Questions to Consider
 
-- Young children now meet AI through toys, chatbots, and classroom robots. What makes a 5-year-old's relationship with AI fundamentally different from an adult's — and what should change about how we think about the risks?
-- Some early-childhood AI literacy is taught through 'unplugged' play — no computers at all. How can abstract AI concepts be learned through embodied, tangible activities rather than screens?
+- Young children now meet AI through toys, [[conversational-ai|chatbots]], and classroom robots. What makes a 5-year-old's relationship with AI fundamentally different from an adult's — and what should change about how we think about the risks?
+- Some early-childhood AI literacy is taught through 'unplugged' play — no computers at all. How can abstract AI concepts be learned through [[embodied-learning|embodied]], tangible activities rather than screens?
 - A concern called 'technological isomorphism' describes young students mimicking AI output without understanding. How would you distinguish a child who has genuinely learned from one who is simply parroting back a polished answer?
-- Because young learners are more vulnerable and less able to self-regulate, adult scaffolding becomes central. What does that mean for a parent or teacher deciding when and how a child should use AI?
+- Because young learners are more vulnerable and less able to self-regulate, adult [[scaffolding]] becomes central. What does that mean for a parent or teacher deciding when and how a child should use AI?
 - If access to AI-rich early learning — or to protective adult guidance — is uneven, how does equity show up differently in early childhood than it does for older students?
 - The evidence base here is largely exploratory and design-oriented rather than causal. What would you want to know before trusting a claim about an AI toy or app improving children's learning?
 
 ## Introduction
 
-Young children interact with AI increasingly early — through AI-enabled toys, chatbots, adaptive learning platforms, and classroom robots — yet they differ developmentally from the K-12 and higher-education learners who dominate most AI-in-education research. This concept gathers the knowledge base's coverage of that younger band. It sits within the broader [[k-12|K-12]] umbrella but is distinct because the concerns are developmentally specific: [[game-based-learning|play]] as a primary learning mode, adult (parent/teacher) scaffolding, age-appropriate [[ai-literacy|AI literacy]], and heightened attention to [[well-being]] and [[pedagogical-safety|safety]].
+Young children interact with AI increasingly early — through AI-enabled toys, chatbots, [[adaptive-learning|adaptive learning]] platforms, and classroom robots — yet they differ developmentally from the K-12 and higher-education learners who dominate most AI-in-education [[research-methods-aied|research]]. This concept gathers the knowledge base's coverage of that younger band. It sits within the broader [[k-12|K-12]] umbrella but is distinct because the concerns are developmentally specific: [[game-based-learning|play]] as a primary learning mode, adult (parent/teacher) scaffolding, age-appropriate [[ai-literacy|AI literacy]], and heightened attention to [[well-being]] and [[pedagogical-safety|safety]].
 
 ### How the research clusters
 
@@ -29,7 +29,7 @@ Young children interact with AI increasingly early — through AI-enabled toys, 
 
 - **AI-enabled toys and child development.** [[ai-toys-child-development-2026|Research on AI in toys]] examines how commercial AI-enabled playthings shape child development and play. This raises open questions about [[pedagogical-agent|agents]] in play, [[trust-calibration|trust calibration]], [[agency]], and [[well-being]] for the youngest learners — an area where design guidance is thinner than for school-age curricula, and where parents/guardians become central stakeholders.
 
-- **Elementary subject learning.** [[ai-powered-personalized-learning-elementary-fractions-2026|AI-powered personalized learning]] in elementary fractions and [[awareness-technological-isomorphism|AI in elementary math]] (including concerns about "technological isomorphism" — students mimicking AI output without understanding) show both the promise and the pitfalls of AI in early subject instruction. [[elementary-writing-genai-systematic-review-2026|A systematic review of elementary writing and GenAI]] maps how generative AI is reshaping writing instruction in the early grades.
+- **Elementary subject learning.** [[ai-powered-personalized-learning-elementary-fractions-2026|AI-powered personalized learning]] in elementary fractions and [[awareness-technological-isomorphism|AI in elementary math]] (including concerns about "technological isomorphism" — students mimicking AI output without understanding) show both the promise and the pitfalls of AI in early subject instruction. [[elementary-writing-genai-systematic-review-2026|A systematic review of elementary writing and GenAI]] maps how [[generative-ai|generative AI]] is reshaping [[writing-education|writing instruction]] in the early grades.
 
 - **Robots and young children.** [[tsingidou-ct-robotics-kindergarten-2026|Robotics in kindergarten]] supports computational thinking through [[educational-robotics|educational robots]], and [[icub-humanoid-storytelling-llm-hri-2025|LLM-powered humanoid storytelling]] explores whether parents will accept robots as narrative play partners for their children — foregrounding [[trust]] and adult attitudes.
 
@@ -58,6 +58,7 @@ Because young learners are more vulnerable and less able to self-regulate their 
 
 ## Connected Articles
 
+- [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' behavioral intention to use AI in early childhood settings (Duan et al. 2026)
 - [[ai-play-framework-early-childhood-2026]] — AI-Play: unplugged AI concepts in early childhood
 - [[ai-toys-child-development-2026]] — AI-enabled toys and child development
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Computational thinking through robotics in kindergarten

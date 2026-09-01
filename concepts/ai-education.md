@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T09:15:00-04:00"
+updated: "2026-09-01T10:00:00-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity-in-ai-education]
 audience: [instructors, learners, faculty development, administrator]
@@ -160,6 +160,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[visualization]] — Data visualization, infographics, and dashboards
 
 ## Connected Articles
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Teacher professional knowledge and student learning in K-12 AI education (Shen et al. 2026)
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[learning-context-framework-context-aware-ai-education-2026]]

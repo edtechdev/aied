@@ -1,6 +1,6 @@
 # Index
 
-**Total pages:** 1185
+**Total pages:** 1195
 
 ## Concepts
 - [[a4l-analytics-pipeline]]
@@ -76,6 +76,7 @@
 - [[ai-detection]]
 - [[ai-disruption-engineering-education-chat-2026]]
 - [[ai-distance-education-systematic-review-2026]]
+- [[ai-divide-ses-personality-primary-education-2026]]
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[ai-enabled-serious-games]]
@@ -390,6 +391,7 @@
 - [[dot-framework-survey-2026]]
 - [[drawedumath-vlm-struggling-students-2026]]
 - [[drummond-genai-business-schools-framework-2026]]
+- [[dual-ai-learning-pathways-sdt-2026]]
 - [[duan-ai-anxiety-career-decisions-college-2026]]
 - [[dura-llm-cs2]]
 - [[dynamic-skill-matching-capstone-teams]]
@@ -425,6 +427,7 @@
 - [[embodied-inquiry-ai-facilitator-physics-2026]]
 - [[embodied-learning]]
 - [[embodied-string-learning-blindness-low-vision-musicians]]
+- [[emotion-aware-classroom-iot-monitoring-2026]]
 - [[empathy-coaching-chatbot]]
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[engagement-assessment-video]]
@@ -551,6 +554,7 @@
 - [[governance]]
 - [[governing-unseen-ai-literacy-language-teachers-2026]]
 - [[gpt-human-rater-essay-assessment-2026]]
+- [[gpt-item-generation-l2-listening-2026]]
 - [[gpt4o-mini-music-analysis-scoring]]
 - [[graph-its-adaptive-algorithms-2026]]
 - [[ground-truth-reliability-aied]]
@@ -620,6 +624,7 @@
 - [[irwin-muller-efl-peer-feedback-literacy]]
 - [[isaza-chatgpt-engineering-prompting-2026]]
 - [[item-response-theory]]
+- [[item-writing-flaws-irt-difficulty-2026]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]]
 - [[jeon-isd-agent-bench-2026]]
 - [[jiang-chatgpt-inquiry-steam-review-2026]]
@@ -694,6 +699,7 @@
 - [[liu-tool-tutor-crutch-programming-2026]]
 - [[llm]]
 - [[llm-adaptive-programming-error-explanations-2026]]
+- [[llm-agents-5e-esl-grammar-2026]]
 - [[llm-automated-assessment-student-self-explanations]]
 - [[llm-automated-grading-programming-comparison-2026]]
 - [[llm-chatbots-cs-multiple-choice]]
@@ -858,6 +864,7 @@
 - [[pedagogical-safety-rl]]
 - [[pedagogy]]
 - [[pedagogy-ai-mistakes]]
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]]
 - [[pedlow-genai-selfassessment-2026]]
 - [[peer-review]]
 - [[penny-transition-network-analysis-efl-writing-2026]]
@@ -879,7 +886,9 @@
 - [[pre-service-science-teachers-ai-perceptions-2026]]
 - [[precision-education-student-digital-twins-2026]]
 - [[preferred-scaffolding-ai-mathematical-modelling]]
+- [[preschool-teachers-ai-behavioral-intention-2026]]
 - [[preservice-teacher-agency-genai-design-learning-2026]]
+- [[preservice-teachers-responsible-genai-2026]]
 - [[prezenski-human-centered-ai-aided-learning]]
 - [[principal-trait-analysis-human-ai-skills-2026]]
 - [[principled-ai-education]]
@@ -1108,6 +1117,7 @@
 - [[tool-invariant-framework-agentic-ai]]
 - [[top-10-findings-ai-education-instructors]]
 - [[tpack]]
+- [[tpack-genai-inservice-teachers-mediation-2026]]
 - [[trace-course-grade-prediction-2026]]
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[transfer-of-learning]]

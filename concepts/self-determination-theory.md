@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T10:00:00-04:00"
 type: concept
 tags: [self-determination-theory, motivation, student-experience, affective-computing, teacher-ai-competency, ai-education]
 audience: [learners]
@@ -21,7 +21,7 @@ confidence: high
 
 ## Introduction
 
-SDT is increasingly used in AI in education research as a theoretical lens for both learner-facing and teacher-facing AI systems. The theory's central claim — that motivation is not simply a quantity learners have but a quality shaped by the social and technological environment — makes it directly relevant to questions about how AI tools affect [[student-engagement|engagement]], persistence, and [[learning-gains|learning outcomes]]. The articles in this knowledge base apply SDT across three main contexts: teacher professional development, AI-mediated learning engagement, and affective computing.
+SDT is increasingly used in AI in education [[research-methods-aied|research]] as a theoretical lens for both learner-facing and teacher-facing AI systems. The theory's central claim — that motivation is not simply a quantity learners have but a quality shaped by the social and technological environment — makes it directly relevant to questions about how AI tools affect [[student-engagement|engagement]], persistence, and [[learning-gains|learning outcomes]]. The articles in this knowledge base apply SDT across three main contexts: teacher professional development, AI-mediated learning engagement, and affective computing.
 
 ### Key research themes
 
@@ -29,9 +29,11 @@ SDT is increasingly used in AI in education research as a theoretical lens for b
 
 **SDT in AI-mediated learning engagement** examines how [[generative-ai|generative AI]] tools shape student motivation. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined SDT with [[network-analysis|epistemic network analysis]] to study students' engagement with generative AI in academic learning. **[[ai-availability-student-motivation]]** explores how AI availability affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] concerns about motivation erosion. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** extend SDT to AI learning with a latent transition analysis of **2,086 secondary students** in a year-long AI [[curriculum-design|curriculum]], identifying **three motivational profiles (Disengaged, Developing, Self-Determined)** that were stable across time and showing that most students maintained or advanced toward higher profiles. Crucially, students who reached or remained in the Self-Determined profile showed the **greatest [[ai-literacy]] gains** — direct longitudinal evidence that satisfying autonomy, competence, and relatedness predicts better AI-learning outcomes, and that motivation is a developmental (not fixed) learner property.
 
+**Dual pathways from learning climate to AI use.** [[dual-ai-learning-pathways-sdt-2026|Shen and Arunrugstichai (2026)]] integrate SDT with the Hook model of behavioral engagement to explain why GenAI use ranges from constructive support to compulsive dependence. In cross-sectional survey data from **508 university students** with different high-school backgrounds and current contexts (China and Thailand), retrospective reports of **high-school pressure vs. autonomy support** differentially predicted which of two pathways students followed into university — one toward constructive, autonomous GenAI use and another toward compulsive dependence — with results consistent across cross-contextual multi-group analyses. The model links SDT motivational processes to perceived quality of AI-supported learning, framing autonomy support as a lever that steers students toward productive rather than dependent AI use.
+
 - **ChatGPT and SDT needs in language learning:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] used an SDT lens with 25 Malaysian university students, finding that ChatGPT supports autonomy, relatedness, and competence in [[language-learning|English language learning]] — enhancing grammar, writing, and conversational tasks while letting [[teacher-role|educators]] focus on higher-order training.
 
-**SDT applied to instructors' own AI-mediated practice.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used SDT as the interpretive lens on how instructors integrate [[learning-analytics|learning analytics]] and generative AI into [[learning-design|learning design]] — finding that supporting instructors' basic needs (autonomy, competence, relatedness) fosters the creative problem-solving their design work requires. In their ENA analysis, GenAI use was associated with designing for student self-determination (e.g., co-creating assessment rubrics with students), extending SDT from learners to the educators who build need-supportive AI-mediated environments.
+**SDT applied to instructors' own AI-mediated practice.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used SDT as the interpretive lens on how instructors integrate [[learning-analytics|learning analytics]] and generative AI into [[learning-design|learning design]] — finding that supporting instructors' basic needs (autonomy, competence, relatedness) fosters the creative [[problem-solving]] their design work requires. In their ENA analysis, GenAI use was associated with designing for student self-determination (e.g., co-creating assessment rubrics with students), extending SDT from learners to the educators who build need-supportive AI-mediated environments.
 
 ## Connections to related concepts
 
@@ -52,6 +54,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[ai-education]]
 - [[learning-theories]]
 ## Connected Articles
+- [[dual-ai-learning-pathways-sdt-2026]] — High-school pressure/autonomy support and dual AI learning pathways (Shen & Arunrugstichai 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 
