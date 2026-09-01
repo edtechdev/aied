@@ -1,7 +1,7 @@
 ---
 title: Item Response Theory
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-01T10:00:00-04:00"
 type: concept
 tags: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai]
 research_method: [educational measurement]
@@ -15,7 +15,7 @@ confidence: medium
 - Item response theory treats ability and item difficulty as jointly estimated from response patterns, rather than treating a raw test score as the measure. How might two students with the same number correct actually differ in ability?
 - IRT lets you compare learners on a common scale and estimate precision per person. Why might knowing an item's difficulty and discrimination matter more than just knowing whether a student got it right?
 - One study used IRT person-fit statistics to distinguish human from AI-generated responses on multiple-choice tests — flagging AI responses as 'aberrant.' How could the same measurement machinery that assesses learning also police academic integrity?
-- Researchers use IRT to validate that AI-generated exam questions match expert-written ones in difficulty and discrimination. If an AI writes an item that 'looks' good, why is empirical calibration against fitted IRT parameters still necessary?
+- [[research-methods-aied|Researchers]] use IRT to validate that AI-generated exam questions match expert-written ones in difficulty and discrimination. If an AI writes an item that 'looks' good, why is empirical calibration against fitted IRT parameters still necessary?
 - As AI predicts and calibrates item difficulty, what could go wrong if a model's estimate of difficulty isn't validated against real student response data?
 - IRT connects to adaptive testing and knowledge tracing — using your responses to choose what to ask next. How does estimating your ability from each answer enable a test to become shorter and more precise rather than just longer?
 
@@ -30,7 +30,9 @@ IRT treats ability (θ) and item parameters (difficulty, discrimination, sometim
 - **Knowledge tracing and student modeling:** IRT is closely related to [[knowledge-tracing]] and [[student-modeling]] — models that track learner knowledge over time — sharing the goal of estimating unobservable learner states from observable responses.
 - **Bayesian hierarchical field validation:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] uses a Bayesian hierarchical 2PL IRT model (with pre-test anchor items to place 1,686 students on a common θ scale) to show that AI-generated questions match expert-written standardized-exam items in difficulty and discrimination — a large-scale demonstration of IRT as the validation backbone for [[automated-question-generation]].
 
-- **Separating human from GenAI responses with person-fit statistics:** [[irt-human-genai-mcq-responses|Strugatski and Alexandron (2026)]] apply person-fit statistics (PFS) within IRT to distinguish human from generative-AI responses on multiple-choice assessments. PFS flag GenAI responses as 'aberrant' responders in two authentic contexts (a chemistry test and a national exam), show that different chatbots produce distinct response patterns (a heterogeneous group of 'intelligences'), and reveal that newer GenAI versions become more human-like — positioning IRT as a robust framework for [[academic-integrity|integrity]] screening in high-stakes testing.
+- **Separating human from GenAI responses with person-fit statistics:** [[irt-human-genai-mcq-responses|Strugatski and Alexandron (2026)]] apply person-fit statistics (PFS) within IRT to distinguish human from [[generative-ai]] responses on multiple-choice assessments. PFS flag GenAI responses as 'aberrant' responders in two authentic contexts (a [[chemistry-education|chemistry]] test and a national exam), show that different [[conversational-ai|chatbots]] produce distinct response patterns (a heterogeneous group of 'intelligences'), and reveal that newer GenAI versions become more human-like — positioning IRT as a robust framework for [[academic-integrity|integrity]] screening in high-stakes testing.
+
+- **Item-writing flaws as a pre-deployment screen for IRT parameters:** [[item-writing-flaws-irt-difficulty-2026|Schmucker and Moore (2026)]] test whether Item-Writing Flaw (IWF) rubrics — a domain-general, textual evaluation requiring no student data — predict empirically estimated IRT difficulty and discrimination. Across **7,126 multiple-choice questions** in [[stem-education|STEM]] (physical science, [[math-education|mathematics]], life/earth sciences), they used automated, LLM-assisted coding to show that IWF rubrics carry predictive validity for empirical IRT parameters, offering a scalable pre-deployment screen that complements or partially substitutes resource-intensive pilot testing.
 
 ### Connections
 
@@ -48,6 +50,7 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[intelligent-tutoring]]
 
 ## Connected Articles
+- [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)
 - [[causal-modelling-competency-assessment-2026]] — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale IRT field validation of AI-generated exams

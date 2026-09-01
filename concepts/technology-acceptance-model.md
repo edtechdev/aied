@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-01T10:00:00-04:00"
 type: concept
 tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied]
 research_method: [research methods]
@@ -10,20 +10,20 @@ level: [higher ed]
 confidence: high
 ---
 
-**Technology adoption models** are the theoretical frameworks used to explain and predict why individuals and institutions accept, adopt, and continue using new technologies — and, in AI-in-education research, why learners, teachers, and organizations adopt [[generative-ai|generative AI]] tools. Rather than a single model, this is a family of theories that share roots in information-systems and social-psychology research, of which the **Technology Acceptance Model (TAM)** is the most widely applied. The knowledge base treats these models together because GenAI-adoption studies routinely combine them (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) and because their core constructs — perceived usefulness, perceived ease of use, and social influence — recur across nearly every study of AI acceptance in education.
+**Technology adoption models** are the theoretical frameworks used to explain and predict why individuals and institutions accept, adopt, and continue using new [[ai-technologies|technologies]] — and, in AI-in-education research, why learners, teachers, and organizations adopt [[generative-ai|generative AI]] tools. Rather than a single model, this is a family of theories that share roots in information-systems and social-psychology research, of which the **Technology Acceptance Model (TAM)** is the most widely applied. The knowledge base treats these models together because GenAI-adoption studies routinely combine them (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) and because their core constructs — perceived usefulness, perceived ease of use, and social influence — recur across nearly every study of AI acceptance in education.
 
 ## Questions to Consider
 
 - Think of a time you adopted a new app, tool, or AI service — and a time you abandoned one. What actually drove each decision: how useful it seemed, how easy it was, or what people around you were doing? Which factor do you suspect matters most, and can a survey really capture that?
 - A common belief is that 'if a tool is clearly useful, people will use it.' Have you seen situations where a genuinely useful technology still failed to catch on, or a clearly limited one spread anyway? What might explain the gap between objective usefulness and actual adoption?
 - Adoption frameworks like TAM were designed in the 1980s for fairly simple systems. If you've used generative AI, in what ways does it differ from a word processor or a learning management system — and why might a model built around 'ease of use' and 'usefulness' struggle to capture how people relate to something that talks back?
-- Researchers often say perceived risk and trust matter less for AI adoption than expected. Before reading further, what do you predict: do students adopt AI because they trust it, despite risks, or are those concerns actually minor next to convenience and social pressure?
+- [[research-methods-aied|Researchers]] often say perceived risk and trust matter less for AI adoption than expected. Before reading further, what do you predict: do students adopt AI because they trust it, despite risks, or are those concerns actually minor next to convenience and social pressure?
 - The page argues that adoption frameworks treat using a tool as a one-time decision, but effective use may be an ongoing judgment. Where in your own or your students' practice does the line between 'choosing to use AI' and 'continually deciding how to use it well' seem to blur — and what would change if we measured that instead of mere uptake?
 - Some researchers cluster learners into different 'adoption personas' instead of assuming one model fits everyone. What differences do you see among your own learners, colleagues, or students that a single average model of adoption might hide — and how could those differences shape how you support them?
 
 ## Introduction
 
-**Meta-analytic evidence on AI adoption.** A [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analysis of tertiary students' AI adoption]] (233 correlations, 32 studies, N = 16,977) finds moderate positive correlations for individual (r = 0.57), contextual (r = 0.53), and technological (r = 0.50) factors, with usage intentions the strongest predictor (r = 0.64) and perceived risks/trust weaker than expected. Its central critique is that the field **over-relies on traditional TAM/UTAUT** frameworks that predate modern intelligent systems and neglect AI-specific factors such as anthropomorphism and ethics — arguing these gaps matter for advancing theory and evidence-based policy.
+**[[meta-analysis-systematic-review|Meta-analytic]] evidence on AI adoption.** A [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analysis of tertiary students' AI adoption]] (233 correlations, 32 studies, N = 16,977) finds moderate positive correlations for individual (r = 0.57), contextual (r = 0.53), and technological (r = 0.50) factors, with usage intentions the strongest predictor (r = 0.64) and perceived risks/trust weaker than expected. Its central critique is that the field **over-relies on traditional TAM/UTAUT** frameworks that predate modern intelligent systems and neglect AI-specific factors such as anthropomorphism and ethics — arguing these gaps matter for advancing theory and evidence-based policy.
 
 ## The model family
 
@@ -34,10 +34,10 @@ Proposed by Davis (1989), TAM explains adoption through two core beliefs — **P
 The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). The knowledge base applies UTAUT across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[amponsah-ai-acceptance-science-teachers-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA).
 
 ### Theory of Planned Behavior (TPB)
-TPB explains intention through attitude, subjective norms, and perceived behavioral control. It is frequently paired with TAM/UTAUT in AI-adoption studies — e.g. [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] integrate TAM, TPB, UTAUT, and the FATE (Fairness, Accountability, Transparency, Ethics) framework to model the behavioral and ethical drivers of student ChatGPT adoption.
+TPB explains intention through attitude, subjective norms, and perceived behavioral control. It is frequently paired with TAM/UTAUT in AI-adoption studies — e.g. [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] integrate TAM, TPB, UTAUT, and the FATE ([[bias-mitigation|Fairness]], Accountability, Transparency, Ethics) framework to model the behavioral and [[ethics|ethical]] drivers of student ChatGPT adoption.
 
 ### Diffusion of Innovation (DOI)
-Rogers' DOI theory explains adoption as a social process in which innovations diffuse through populations over time, emphasizing innovation attributes (relative advantage, compatibility, complexity, trialability, observability) and adopter categories. It appears in the knowledge base's institutional-level analyses, e.g. [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combine the Technology–Organisation–Environment (TOE) framework with DOI to model organizational AI adoption in Saudi universities.
+Rogers' DOI theory explains adoption as a social process in which innovations diffuse through populations over time, emphasizing innovation attributes (relative advantage, compatibility, complexity, trialability, observability) and adopter categories. It appears in the knowledge base's [[governance|institutional]]-level analyses, e.g. [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combine the Technology–Organisation–Environment (TOE) framework with DOI to model organizational AI adoption in Saudi universities.
 
 ### Technology–Organisation–Environment (TOE)
 TOE frames adoption as shaped by technological, organizational, and environmental contexts — a complement to individual-level TAM/UTAUT for studying institutional adoption (see [[alrahmi-org-drivers-ai-adoption-he-2026]]).
@@ -50,12 +50,13 @@ Adoption models are applied across the knowledge base to model student and [[tea
 - **Unified socio-cognitive model:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrated TAM with UTAUT for engineering students in Bangladesh (explaining 64% of usage variance).
 - **Person-centered profiles:** Rather than variable-centered models, [[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed]] cluster GenAI-adoption personas, and [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al.]] use latent profile analysis to identify four ChatGPT-acceptance profiles among pre-service teachers — showing the field's move beyond single-model, linear accounts.
 - **Cross-cultural validation:** [[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al.]] cross-culturally validate adoption-related motivation constructs across Switzerland and China.
-- **Psychological correlates:** [[acceptance-ai-english-tools-2026|Wu et al.]] build on TAM to relate motivation, self-efficacy, anxiety, and risk perception to acceptance of AI-assisted English learning.
-- **Regulatory competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — reframing [[ai-literacy]] as regulatory competence and [[critical-thinking]] rather than acceptance.
+- **Psychological correlates:** [[acceptance-ai-english-tools-2026|Wu et al.]] build on TAM to relate motivation, [[self-efficacy]], anxiety, and risk perception to acceptance of AI-assisted English learning.
+- **[[regulation|Regulatory]] competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — reframing [[ai-literacy]] as regulatory competence and [[critical-thinking]] rather than acceptance.
+- **Early-childhood teachers:** [[preschool-teachers-ai-behavioral-intention-2026|Duan, Shan and Gong (2026)]] validate an extended TAM for **preschool teachers'** behavioral intention to use AI in early-childhood settings, showing that in addition to perceived usefulness and ease of use, **AI self-efficacy** promotes intention while **AI anxiety** deters it, with **subjective norm** (social influence) also shaping adoption. The study extends adoption modeling into the developmentally distinctive early-childhood context, where teacher comfort and confidence are pivotal for integration.
 
 ## Limits and extensions
 
-While adoption models are effective for predicting uptake, they are less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in [[higher-ed|higher education]] increasingly note that TAM alone is insufficient, prompting integration with UTAUT, TPB, and Self-Determination Theory, and the addition of post-adoption constructs such as critical use, reliance, and evaluative judgment. The result is a measured, multidimensional picture of adoption: context matters (Global South vs. resourced institutions — see [[nguyen-genai-global-south-review-2026|Nguyen & Perkins]]), disciplinary background shapes acceptance, and person-centered methods reveal hidden heterogeneity that linear models miss.
+While adoption models are effective for predicting uptake, they are less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in [[higher-ed|higher education]] increasingly note that TAM alone is insufficient, [[prompt-engineering|prompting]] integration with UTAUT, TPB, and Self-Determination Theory, and the addition of post-adoption constructs such as critical use, reliance, and evaluative judgment. The result is a measured, multidimensional picture of adoption: context matters ([[global-south|Global South]] vs. resourced institutions — see [[nguyen-genai-global-south-review-2026|Nguyen & Perkins]]), disciplinary background shapes acceptance, and person-centered methods reveal hidden heterogeneity that linear models miss.
 
 ## Connected Concepts
 
@@ -74,6 +75,7 @@ While adoption models are effective for predicting uptake, they are less well su
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+- [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' behavioral intention to use AI via extended TAM (Duan, Shan & Gong 2026)
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
 - [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption (UTAUT3 + ARCS)

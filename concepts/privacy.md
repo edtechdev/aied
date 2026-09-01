@@ -1,7 +1,7 @@
 ---
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T09:15:00-04:00"
+updated: "2026-09-01T10:00:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai]
@@ -16,7 +16,7 @@ confidence: high
 - What student data would you be uncomfortable having collected about you—even if it improved your learning? Where does personalization become surveillance?
 - Many students have 'no meaningful choice' but to use a mandated platform, making consent nominal. Have you ever consented to something without really understanding what was collected and why? What would informed consent actually require?
 - The same learner data that powers adaptive, personalized learning also creates risk of misuse and harm. Can you name a personalization benefit you'd be willing to trade some privacy for—and the line you wouldn't cross?
-- The page warns that privacy safeguards may 'default to protecting only some learners.' Which students might be most exposed, and how does privacy connect to equity and fairness?
+- The page warns that privacy safeguards may 'default to protecting only some learners.' Which students might be most exposed, and how does privacy connect to equity and [[bias-mitigation|fairness]]?
 - Constant AI monitoring—even well-intentioned—can shape behavior and anxiety. When has being watched changed how you behaved, and what does that suggest about classroom AI sensing?
 - For children, privacy extends beyond data protection into safety. Why might general-purpose safety tools fail to catch education-related risks from minors, and who should be in the loop?
 
@@ -62,6 +62,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[student-experience]]
 
 ## Connected Articles
+- [[preservice-teachers-responsible-genai-2026]] — Privacy concerns of pre-service teachers about responsible GenAI use (Kohnke et al. 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)

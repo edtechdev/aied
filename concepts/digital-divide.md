@@ -1,14 +1,14 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T10:00:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity-in-ai-education, ai-literacy, accessibility, ai-education]
 confidence: high
 ---
 
-> **Digital divide** — the unequal distribution of access to, skills for, and benefits from digital (and increasingly AI) technologies across individuals, communities, and nations. In AI education, the digital divide is a central equity concern: [[generative-ai|generative AI]] is rapidly reshaping learning, and the gap between those who can use it effectively and critically and those who cannot threatens to deepen existing educational inequalities.
+> **Digital divide** — the unequal distribution of access to, skills for, and benefits from digital (and increasingly AI) [[ai-technologies|technologies]] across individuals, communities, and nations. In AI education, the digital divide is a central equity concern: [[generative-ai|generative AI]] is rapidly reshaping learning, and the gap between those who can use it effectively and critically and those who cannot threatens to deepen existing educational inequalities.
 
 ## Questions to Consider
 
@@ -20,7 +20,7 @@ confidence: high
 
 ## Introduction
 
-The digital divide is commonly understood as operating across **three levels** (van Deursen & van Dijk, 2014): the *first-level* divide concerns access to technologies and infrastructure (connectivity, devices, supportive environments); the *second-level* divide concerns skills and competencies (the uneven capacity to use tools effectively and meaningfully); and the *third-level* divide concerns outcomes and benefits (who actually benefits from technology use, with AI potentially exacerbating social, cultural, and economic disparities). Framing AI literacy through this lens makes clear that equity requires more than closing the device-and-infrastructure gap — it requires building the skills to use AI effectively and critically so that its benefits are distributed fairly rather than reinforcing existing inequalities.
+The digital divide is commonly understood as operating across **three levels** (van Deursen & van Dijk, 2014): the *first-level* divide concerns access to technologies and infrastructure (connectivity, devices, supportive environments); the *second-level* divide concerns skills and competencies (the uneven capacity to use tools effectively and meaningfully); and the *third-level* divide concerns outcomes and benefits (who actually benefits from technology use, with AI potentially exacerbating social, cultural, and economic disparities). [[framing-ai-use-for-students|Framing AI]] literacy through this lens makes clear that equity requires more than closing the device-and-infrastructure gap — it requires building the skills to use AI effectively and critically so that its benefits are distributed fairly rather than reinforcing existing inequalities.
 
 ### How the digital divide appears in the research
 
@@ -28,13 +28,15 @@ The digital divide is commonly understood as operating across **three levels** (
 
 - **Policy and infrastructure:** [[oecd-digital-education-outlook-2026|OECD Digital Education Outlook 2026]] situates the digital divide within national education policy, examining how access to digital and AI technologies varies and what systems can do to close gaps.
 
-- **Responsible-use and prompting literacy:** [[aaai2026-prompting-literacy-k12|K-12 prompting-literacy research]] addresses the second-level divide by teaching students the skills to use AI chatbots responsibly, recognizing that access alone does not confer the ability to [[ai-literacy|use AI well]].
+- **Responsible-use and [[prompt-engineering|prompting]] literacy:** [[aaai2026-prompting-literacy-k12|K-12 prompting-literacy research]] addresses the second-level divide by [[teacher-role|teaching]] students the skills to use AI [[conversational-ai|chatbots]] responsibly, recognizing that access alone does not confer the ability to [[ai-literacy|use AI well]].
 
 - **Representation and structural silence:** [[structural-silence-underrepresented-language-ai-2026|Research on underrepresented languages]] highlights how the digital divide extends to *which* communities, languages, and perspectives are represented in and served by AI systems — a cultural and epistemic dimension of inequality.
 
 ### AI deepens (and can close) divides
 
-AI adds new layers to the equity implications of technology. Algorithmic bias can disproportionately impact learners from marginalized communities, and [[ai-literacy|AI literacy]] — the ability to understand, critically evaluate, and mitigate AI's biases and risks — is itself a key factor in whether AI widens or narrows gaps. Research shows educators with higher AI literacy are more effective at identifying and mitigating biased outcomes. The digital divide in the AI era is therefore not simply a technical provision problem but a question of justice and participation: who can access AI, who can use it critically, and who benefits.
+AI adds new layers to the equity implications of technology. Algorithmic bias can disproportionately impact learners from marginalized communities, and [[ai-literacy|AI literacy]] — the ability to understand, critically evaluate, and mitigate AI's biases and risks — is itself a key factor in whether AI widens or narrows gaps. [[research-methods-aied|Research]] shows educators with higher AI literacy are more effective at identifying and mitigating biased outcomes. The digital divide in the AI era is therefore not simply a technical provision problem but a question of justice and participation: who can access AI, who can use it critically, and who benefits.
+
+**Personality, not just SES, shapes the AI-era divide.** [[ai-divide-ses-personality-primary-education-2026|Wang et al. (2026)]] analyzed survey and national registry data from **4,497 Grade 6 students** in the Netherlands, separating two mediating pathways — AI usage and digital literacy — linking student background and personality to [[learning-gains|academic performance]]. Their key finding reframes the classic divide: **digital literacy, not AI usage intensity, mediates** the link between personality and performance, and a new digital-skills divide emerges that is driven more by **personality traits than by socioeconomic status**. SES advantages on performance operated independently of AI [[student-engagement|engagement]]. This complicates the access-and-SES framing of the digital divide, pointing to skills formation and dispositional support as equity-relevant levers alongside device and tool access.
 
 ### Connections to related concepts
 
@@ -52,6 +54,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[student-experience]]
 
 ## Connected Articles
+- [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
