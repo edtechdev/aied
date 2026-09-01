@@ -246,9 +246,10 @@ const recentConceptItems = recentConcepts.map(c => ({
       align-items: center;
       justify-content: center;
       background: color-mix(in srgb, var(--primary) 14%, transparent);
-      /* Use the body text color so the hamburger lines are light in dark mode
-         and dark (visible black) in light mode — not hardcoded white. */
-      color: var(--color);
+      /* Use the header text color so the hamburger lines are light in dark mode
+         and dark (visible black) in light mode — not hardcoded white. (Pico sets
+         --color:#fff on <button>, so we must use --header-text, not --color.) */
+      color: var(--header-text);
       border: 1px solid var(--primary);
       border-radius: 8px;
       width: 2.6rem;
@@ -401,11 +402,10 @@ const recentConceptItems = recentConcepts.map(c => ({
         flex-wrap: nowrap;
         align-items: center;
         justify-content: space-between;
-        gap: 0.1rem;
-        /* Shrink the container's side padding on narrow screens so all header
-           controls (hamburger + logo + 5 icons) fit without the theme button
-           running off the right edge. */
-        padding-inline: 0.5rem;
+        gap: 0;
+        /* Minimal side padding so the icon group has room to right-align and
+           nothing (especially the theme button) runs off the right edge. */
+        padding-inline: 0.35rem;
       }
       .header-left,
       .header-icons {
@@ -413,11 +413,6 @@ const recentConceptItems = recentConcepts.map(c => ({
         align-self: center;
       }
       .header-icons { gap: 0.1rem; }
-      /* No search box on mobile — drop the second row entirely. */
-      .header-search { display: none; }
-      /* Hide the two least-essential icons (RSS feed + GitHub repo). */
-      .header-icons .header-icon[title="RSS feed"],
-      .header-icons .header-icon[title="GitHub repository"] { display: none; }
       /* The logo tile now carries its own theme-adaptive background + border
          (--logo-bg / --logo-border), so on mobile we only need the size. */
       .brand-link .brand-logo {
@@ -436,6 +431,16 @@ const recentConceptItems = recentConcepts.map(c => ({
       button.theme-toggle {
         border-radius: 8px;
       }
+    }
+
+    /* Tablet / narrow-desktop (640–1023px): the full title + search field +
+       7 icons don't fit on one row, so the title truncates and the theme button
+       overflows. The search box ("Ctrl K") and the two least-essential icons
+       (RSS + GitHub) are desktop-only (≥1024px); drop them here too. */
+    @media (max-width: 1023px) {
+      .header-search { display: none; }
+      .header-icons .header-icon[title="RSS feed"],
+      .header-icons .header-icon[title="GitHub repository"] { display: none; }
     }
 
     main {
