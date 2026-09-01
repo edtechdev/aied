@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback]
 category: [engagement, evaluation]
@@ -49,19 +49,12 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 
 - **Enablers of LA-based educational interventions (2026).** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify and prioritize seven enablers of trustworthy LA-based educational interventions via Delphi + AHP + SNAP: [[governance|institutional]] strategic orientation, pedagogical & other [[research-methods-aied|research]] foundations, available resources, pedagogical support, ethics & data governance, stakeholder engagement, and quality assurance. Institutional strategic orientation ranked highest (and most influential on other enablers), with available resources second. [[trust|Trustworthiness]] (ethical compliance, transparent/unbiased algorithms, pedagogical validity) is framed as the prerequisite without which LA-based interventions are not meaningful.
 - **LLM interaction depth predicts task quality but not recall (2026).** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] links turn-level LLM conversational telemetry (Depth/Volume/Pacing) to [[learning-gains|learning outcomes]]: explanation-seeking "depth" predicted independently marked task quality (β = 6.27) but not immediate recall — a dissociation between elaboration-driven comprehension and retrieval-driven consolidation that has implications for how [[llm|LLM]] interaction is measured and evaluated in LA.
+- **Simulating collaborative discourse for learning analytics.** [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] uses fine-tuned participant-specific LLM agents to reproduce collaborative problem solving dialogues, validated with Epistemic Network Analysis (ENA distance 0.17, permutation p = 0.65). The approach offers learning-analytics researchers a scalable way to generate authentic collaborative discourse for studying interaction dynamics, turn-taking, and thematic code trajectories without collecting new human data.
+- **Open, reproducible data and trace-ready analytics.** [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] releases a synthetic [[benchmark]] with a trace-ready schema (N=540; 360 sessions; 1,440 episodes) for analysing interaction and participation balance in collaborative programming. Separately, an exploratory ML framework with SHAP analysis identified the learning-related constructs most associated with intended academic ChatGPT use among university students, prioritising interpretability ([[determinants-chatgpt-use-higher-education-2026]]).
 
 ### Connections
 
 Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the [[ethics|ethical]] constraint), and [[edtech-platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation.
-
-
-## Simulated Collaborative Discourse
-
-- **Simulating collaborative discourse for learning analytics.** Fang (2026) uses fine-tuned participant-specific LLM agents to reproduce collaborative problem solving dialogues, validated with Epistemic Network Analysis (ENA distance 0.17, permutation p = 0.65). The approach offers learning-analytics researchers a scalable way to generate authentic collaborative discourse for studying interaction dynamics, turn-taking, and thematic code trajectories without collecting new human data.
-
-### Trace-Based and Predictive Analytics
-
-- Open, reproducible data underpin advancing learning analytics. ASTRA releases a synthetic [[benchmark]] with a trace-ready schema (N=540; 360 sessions; 1,440 episodes) for analysing interaction and participation balance in collaborative programming. Separately, an exploratory ML framework with SHAP analysis identified the learning-related constructs most associated with intended academic ChatGPT use among university students, prioritising interpretability.
 
 ## Connected Concepts
 

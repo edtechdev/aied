@@ -1,7 +1,7 @@
 ---
 title: Problem-Based Learning
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [active-learning, collaborative-learning, scaffolding, generative-ai, critical-thinking, higher-ed, medical-education, engineering-education]
 discipline: [medical education, engineering education]
@@ -35,6 +35,7 @@ The knowledge base's [[research-methods-aied|research]] shows that PBL has becom
 - **Responsible-use frameworks.** [[learn-framework-responsible-genai-pbl-2026|Uden & Hwang (2026)]] advance the neuroscience-informed **LEARN** framework ([[lifelong-learning|Lifelong Learning]], Engagement, Active Processing, Reflection, Neuro-based Design) for ethically grounding generative AI use within PBL, countering [[cognitive-offloading|cognitive offloading]] and integrity erosion.
 - **Domain implementations.** PBL frameworks for [[engineering-education|biomedical engineering]] use GenAI for summarization and coding support with replication packages ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]]); AI-supported PBL enhances [[computational-thinking|computational thinking]] in robotics ([[ai-pbl-computational-thinking-2026|AI-supported PBL for computational thinking]]); and genAI-enabled virtual patients support medical history-taking tutorials ([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
 - **Evidence synthesis.** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]] [[meta-analysis-systematic-review|systematically review]] 50 studies (2015–2024) on educators' engagement with AI in PBL within a [[human-ai-collaboration|human-computer interaction]] framework.
+- **GenAI in scenario-based PBL.** [[genai-scenario-based-healthcare-education-2026|Neto and colleagues (2026)]] include problem-based learning among the scenario-based approaches in their systematic review of GenAI in healthcare education, finding that [[prompt-engineering|prompt design]] functions as instructional specification and that hybrid human-AI collaboration outperforms fully automated approaches. The review highlights the need for stronger alignment of generated content with instructional frameworks and more reproducible prompting practices in PBL contexts.
 
 ## PBL vs. related pedagogies
 
@@ -47,11 +48,6 @@ Because PBL foregrounds process, collaboration, and demonstrated understanding o
 ### Productive failure and PBL
 
 [[productive-failure|Productive failure (PF)]] shares PBL's [[constructivist]] core — learners engage problems before instruction — but differs in structure: PF deliberately withholds instruction and scaffolds until *after* learners struggle to generate solutions, whereas PBL embeds facilitation throughout. The AI-era PF literature directly informs how AI should behave inside problem-based settings: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] show AI should preserve [[desirable-difficulties|productive struggle]] with non-directive support across PF phases; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] demonstrate [[llm]] tutors can be steered to withhold answers and elicit multiple solution attempts; and [[rhaimi-productivemath-2025|ProductiveMath]] uses AI to help design high-quality PF/PBL-style problems. The design question — when AI should give a problem, a hint, or an answer — is shared across both [[pedagogy|pedagogies]].
-
-
-## GenAI in Problem-Based Learning
-
-- **GenAI in problem-based learning.** Neto and colleagues (2026) include problem-based learning among the scenario-based approaches in their systematic review of GenAI in healthcare education, finding that [[prompt-engineering|prompt design]] functions as instructional specification and that hybrid human-AI collaboration outperforms fully automated approaches. The review highlights the need for stronger alignment of generated content with instructional frameworks and more reproducible prompting practices in PBL contexts.
 
 ## Connected Concepts
 

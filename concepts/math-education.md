@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [math-education, stem-education, intelligent-tutoring, k-12, generative-ai, higher-ed, student-experience, scaffolding]
 discipline: [math education, stem education]
@@ -37,6 +37,10 @@ Mathematics education has become a primary domain for [[ai-education|AI in educa
 
 **Higher education math** explores AI's impact on advanced math practice. **[[genai-runaway-object-math-higher-ed|Bui et al.]]** applied [[sociocultural-learning|socio-cultural]] theory to [[generative-ai|GenAI]] in university mathematics, analyzing AI as a "runaway object" that transforms academic practice in ways that outpace [[governance|institutional]] and pedagogical norms.
 
+**LLM tutoring and [[learning-design|instructional design]]** is an emerging cluster of two 2026 studies that sharpen the math-education evidence base. Looi, Liu, and Sun (2026) developed a rule-guided [[intelligent-tutoring|LLM tutoring system]] for primary-school math word problems whose three-layer architecture (diagnosis → intent selection → constrained response generation) improved interactional consistency and reduced premature answer-giving in a 40-student Grade 5 classroom pilot — evidence that procedural math domains need [[guardrails|structured rule-guards]] on otherwise stochastic LLM scaffolding. Zhu, Liang, Mao, and Wang (2026) applied a smart-classroom model to mathematics M.Ed. students and found statistically significant gains (p < .05) in instructional-objective design across curriculum-standards, textbook, and student-condition dimensions.
+
+**[[generative-ai|GenAI]] for mathematical modelling tasks** extends the generation strand beyond routine exercises. An AI-powered platform developed through the ADDIE approach used direct variation in secondary school mathematics as an illustrative topic, addressing teachers' lack of time and resources to design high-quality modelling tasks: existing tools typically produce conventional word problems or routine exercises, whereas the platform aimed to generate resources that foster mathematical modelling competencies, grounded in established design principles and [[prompt-engineering|retrieval-augmented generation]].
+
 ### Connections to related concepts
 
 Math education sits within the broader [[stem-education]] domain with distinctive connections to [[intelligent-tutoring]] and [[intelligent-tutoring|AI Tutoring]] through the strong tradition of cognitive tutors and ITS research in mathematics, to [[scaffolding]] through the productive struggle and hint-use literature, to [[affective-computing]] through math anxiety and emotion-aware tutoring, to [[knowledge-tracing]] and [[assessment-validity]] through cognitive diagnosis and assessment research, and to [[teacher-role]] through teacher-AI collaboration in math instruction. The [[k-12]] connection is particularly strong — 8 of 10 math articles involve K-12 contexts — while [[higher-ed]] connections emerge in teacher preparation and advanced math practice.
@@ -49,15 +53,6 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - **Beware surface-format fragility in AI scoring.** [[representation-robustness-llm-math-problem-solving|Representation sensitivity]] means equivalent problems can flip AI answers — a validity risk for AI-based math assessment; prefer [[human-in-the-loop-ai|human review]] for high-stakes scoring.
 - **Use AI to lower the bar for personalized practice.** [[ai-powered-personalized-learning-elementary-fractions-2026|Adaptive platforms]] improved fraction comprehension for students with math learning difficulties; deploy AI-adaptive tools selectively for learners who need differentiated support.
 - **Keep the teacher in control of AI-generated instructional materials.** [[teacher-control-ai-generation-math-visuals|Teacher control of AI visuals]] supports a framework that balances AI efficiency with pedagogical correctness.
-
-
-## LLM Tutoring and Smart-Classroom Training
-
-- **LLM tutoring and [[learning-design|instructional design]] for mathematics.** Two 2026 studies sharpen the math-education evidence base. Looi, Liu, and Sun (2026) developed a rule-guided [[intelligent-tutoring|LLM tutoring system]] for primary-school math word problems whose three-layer architecture (diagnosis → intent selection → constrained response generation) improved interactional consistency and reduced premature answer-giving in a 40-student Grade 5 classroom pilot — evidence that procedural math domains need [[guardrails|structured rule-guards]] on otherwise stochastic LLM scaffolding. Zhu, Liang, Mao, and Wang (2026) applied a smart-classroom model to mathematics M.Ed. students and found statistically significant gains (p < .05) in instructional-objective design across curriculum-standards, textbook, and student-condition dimensions.
-
-### AI-Generated Mathematical Modelling Problems
-
-- [[generative-ai|GenAI]] can now be embedded in platforms that generate mathematical modelling problems grounded in established design principles and [[prompt-engineering|retrieval-augmented generation]]. An AI-powered platform developed through the ADDIE approach used direct variation in secondary school mathematics as an illustrative topic, addressing teachers' lack of time and resources to design high-quality modelling tasks. Existing tools typically produce conventional word problems or routine exercises; the platform instead aimed to generate resources that foster mathematical modelling competencies.
 
 ## Connected Concepts
 

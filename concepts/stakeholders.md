@@ -1,7 +1,7 @@
 ---
 title: Stakeholders
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [stakeholders, teacher-role, student-experience, administrator, learning-design, higher-ed, k-12, ai-literacy]
 audience: [instructors, learners, administrator]
@@ -29,7 +29,7 @@ confidence: high
 - **Instructional designers and learning technologists.** The professionals who design courses, curricula, and learning experiences around AI. Related to [[learning-design]] (the discipline) and [[curriculum-design]], though the *people/role* of instructional designer is not yet a dedicated page — it is grouped here.
 - **Administrators and institutional leaders.** Provosts, deans, CIOs, and leaders who set policy, allocate resources, and govern adoption. Covered by [[administrator]], and connected to [[educational-policy-ai]], [[governance]], and [[regulation]].
 - **Policymakers and regulators.** Government and institutional bodies that set the legal and regulatory framework. Related to [[educational-policy-ai]], [[regulation]], and [[governance]].
-- **Parents and families.** Present in the research (e.g., monitoring student AI use, attitudes toward AI) but not yet a dedicated page — grouped here as a stakeholder.
+- **Parents and families.** Present in the [[research-methods-aied|research]] (e.g., monitoring student AI use, attitudes toward AI) but not yet a dedicated page — grouped here as a stakeholder.
 
 ## How stakeholders appear in the research
 

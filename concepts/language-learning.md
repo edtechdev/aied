@@ -1,7 +1,7 @@
 ---
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [language-learning, ai-education, generative-ai, writing-education, higher-ed, k-12, equity-in-ai-education]
 discipline: [language learning, writing education]
@@ -40,11 +40,7 @@ Language learning has emerged as a significant AI in education domain because la
 - **Use AI to extend communicative practice, not replace it.** [[ai-interlocutor-l2-spoken-dialogue|AI interlocutors]] and [[tact-pedagogically-adaptive-esl-tutoring|adaptive ESL tutors]] expand interactional practice at scale — pair them with human interaction so fluency and uptake transfer to real conversation.
 - **Be alert to scoring and feedback bias against learners.** [[ai-scoring-language-bias-physics|AI scoring]] can penalize non-native patterns; [[genai-linguistic-diversity-academic-writing|linguistic-diversity research]] warns AI privileges standard English — use self-referential or human-moderated evaluation.
 - **Support the full spectrum of learners.** [[dyslexlens-dyslexic-learners-ai|Dyslexia and accessibility studies]] and [[culturally-relevant-pedagogy|culturally responsive]] design ([[ai-tools-arab-english-classrooms|Arab-English contexts]]) show AI must be adapted to diverse learner needs, not assumed universal.
-- **Prepare language teachers' [[ai-literacy|AI literacy]].** [[governing-unseen-ai-literacy-language-teachers-2026|Systematic reviews]] find AI literacy among language teachers is a key gap — invest in teacher [[educational-development|professional development]] alongside tool adoption.
-
-### Teacher AI Literacy for Language Education
-
-- As AI reshapes language education, [[ai-literacy|AI literacy]] is crucial for [[teacher-education|teachers]] to engage critically with the technology. The Teachers' AI Literacy Scale (TAILS) was developed for language teacher education, operationalising the six-dimension ED-AI framework (knowledge, evaluation, collaboration, contextualization, autonomy, [[ethics]]) and validated with preservice English language teachers.
+- **Prepare language teachers' [[ai-literacy|AI literacy]].** [[governing-unseen-ai-literacy-language-teachers-2026|Systematic reviews]] find AI literacy among language teachers is a key gap — invest in teacher [[educational-development|professional development]] alongside tool adoption. As AI reshapes language education, AI literacy is also crucial for teachers to engage critically with the technology: the Teachers' AI Literacy Scale (TAILS) was developed for language [[teacher-education|teacher education]], operationalising the six-dimension ED-AI framework (knowledge, evaluation, collaboration, contextualization, autonomy, [[ethics]]) and validated with preservice English language teachers.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, reinforcement-learning, bias-mitigation, ai-sycophancy, k-12, llm]
 level: [k 12]
@@ -69,10 +69,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 4. **Prefer alignment over refusal.** Reward guidance and scaffolding in training rather than relying on brittle refusal rules.
 5. **Require human oversight.** Teacher-in-the-loop QA before deployment and continuous auditing for differential treatment.
 
-
-## Rule-Guided Pedagogical Guardrails
-
-- **Guardrailing procedural tutoring with embedded rules.** Looi, Liu, and Sun (2026) instantiate a concrete set of pedagogical guardrails for an [[llm]] math tutor: a **numerical-correctness gate** with an uncertainty guardrail so the tutor never makes an unwarranted epistemic commitment, **output constraints** enforcing brevity and micro-step progression for cognitive-load management, an **anti-spoiler boundary** that institutionalizes the logic-first principle by returning computational agency to the student, and a **goodbye gate** encoding the distinction between authentic completion and premature termination. These rules were consolidated as reproducible prompt-architecture rules validated in a 40-student classroom pilot — a model of translating [[pedagogical-safety|safety]] principles into auditable, replicable guardrails.
+- **Guardrailing procedural tutoring with embedded rules.** [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu, and Sun (2026)]] instantiate these principles as a concrete, auditable set of guardrails for an [[llm]] math tutor: a **numerical-correctness gate** with an uncertainty guardrail so the tutor never makes an unwarranted epistemic commitment, **output constraints** enforcing brevity and micro-step progression for cognitive-load management, an **anti-spoiler boundary** that institutionalizes the logic-first principle by returning computational agency to the student, and a **goodbye gate** encoding the distinction between authentic completion and premature termination. These rules were consolidated as reproducible prompt-architecture rules validated in a 40-student classroom pilot — a model of translating [[pedagogical-safety|safety]] principles into auditable, replicable guardrails.
 
 ## Connected Concepts
 

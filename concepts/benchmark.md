@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [ai-ed-evaluation, assessment, llm, generative-ai, benchmark]
 research_method: [benchmark]
@@ -36,9 +36,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 - **Construct-level counterfactual benchmarks.** CFES-P24 expresses multimedia-learning principles as deterministic, reversible slide transformations to audit whether MLLMs respond to specific instructional-design constructs rather than producing plausible holistic ratings. A frozen pilot showed construct recognition (operation, principle, repair, evidence localization) at 8/8 while comparative judgment (direction 6/8) and severity calibration (0/8) failed — arguing for layered scorecards over composite scores.([[cfes-p24-multimodal-slide-auditing-2026]])
 - **Trial-independent evaluation in physiological benchmarks.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara & Halloluwa (2026)]] benchmark 15 ML/DL models for EEG-based familiarity prediction and show that the choice of validation scheme changes headline results dramatically: standard stratified cross-validation allows temporal leakage and reports up to 0.9853 F1, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1. The lesson — temporal/leakage-aware evaluation is essential for credible educational benchmarks — extends beyond EEG to any benchmark using sequential or time-structured data.
-### Synthetic Benchmarks for AI Tutoring
-
-- Open, reproducible datasets for evaluating AI tutoring remain scarce. ASTRA (Adaptive Socially-intelligent Team Reasoning Agents) is a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated agents, supporting alone-tutor, pair-tutor, and pair-multiagent configurations (N=540; 360 sessions; 1,440 episodes) with a trace-ready schema for reproducible analysis of interaction, participation balance, and verification.
+- **Synthetic benchmarks for AI tutoring.** Open, reproducible datasets for evaluating AI tutoring remain scarce. ASTRA (Adaptive Socially-intelligent Team Reasoning Agents) is a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated agents, supporting alone-tutor, pair-tutor, and pair-multiagent configurations (N=540; 360 sessions; 1,440 episodes) with a trace-ready schema for reproducible analysis of interaction, participation balance, and verification.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [humanities-education, history-of-aied, philosophy-of-ai-in-education, critical-thinking, ai-literacy, higher-ed]
 level: [higher ed]
@@ -30,6 +30,7 @@ SSH education is a distinct subject area in the knowledge base, complementary to
 - **History education.** [[paternalistic-filter-llm-history-education|Research on LLMs in history education]] examines how AI shapes historical reasoning and source interpretation.
 - **Humanities and social-science students' experiences.** [[genai-impact-chinese-students-hss|GenAI's impact on Chinese humanities and social science students]] and [[acceptance-ai-english-tools-2026|AI acceptance among language/English learners]] document student-facing effects across SSH disciplines.
 - **Critical and philosophical dimensions.** [[voicu-ai-interpretive-cognition-ssh-2026|Critical AI literacy]] and the [[philosophy-of-ai-in-education|philosophy of AI in education]] are especially salient in SSH, where questions of meaning, values, and epistemic authority are central.
+- **[[governance|Institutional]] digital transformation.** Qin (2026) documents how Lingnan University repositioned itself as a "Research-Intensive Liberal Arts Institution in the Digital Era," mandating GenAI literacy for all undergraduates (including a required first-year Common Core course on generative AI covering latent spaces, GANs, diffusion models, [[prompt-engineering|prompting]], fine-tuning, bias, and misinformation). The position paper argues the AI-for-education shift is an *intellectual transformation* rather than technocentric augmentation, positioning [[ai-literacy|digital fluency]] as a core liberal arts competency while a [[human-in-the-loop-ai|human-in-the-loop]] model foregrounds [[ethics|ethical]] reasoning, critical judgment, and social responsibility — a concrete blueprint for [[higher-ed|higher education]] balancing [[generative-ai|GenAI]] innovation with humanistic foundations.
 
 ### Why it matters
 
@@ -41,11 +42,6 @@ SSH education foregrounds the very capabilities generative AI most challenges �
 - **Protect interpretive depth and authorship.** Because the humanities prize judgment and original authorship, guard against AI flattening analysis; make critical [[ai-ed-evaluation|evaluation of AI]] output a learning goal ([[critical-thinking]], [[ai-literacy]]).
 - **Use AI deliberately in source work.** [[paternalistic-filter-llm-history-education|History research]] shows AI can shape reasoning and source interpretation — teach students to interrogate AI-mediated historical claims and the filters it applies.
 - **Consider student-facing impacts.** [[genai-impact-chinese-students-hss|Student experience studies]] document how GenAI affects SSH learners; adapt support and integrity framing to real usage rather than assumptions.
-
-
-## GenAI and the Digital Liberal Arts
-
-- **GenAI-driven digital transformation of liberal arts education.** Qin (2026) documents how Lingnan University repositioned itself as a \"Research-Intensive Liberal Arts Institution in the Digital Era,\" mandating GenAI literacy for all undergraduates (including a required first-year Common Core course on generative AI covering latent spaces, GANs, diffusion models, [[prompt-engineering|prompting]], fine-tuning, bias, and misinformation). The position paper argues the AI-for-education shift is an *intellectual transformation* rather than technocentric augmentation, positioning [[ai-literacy|digital fluency]] as a core liberal arts competency while a [[human-in-the-loop-ai|human-in-the-loop]] model foregrounds [[ethics|ethical]] reasoning, critical judgment, and social responsibility — a concrete blueprint for [[higher-ed|higher education]] balancing [[generative-ai|GenAI]] innovation with humanistic foundations.
 
 ## Connected Concepts
 

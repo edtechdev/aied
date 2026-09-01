@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, student-engagement]
 audience: [learners]
@@ -36,6 +36,10 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 
 - **Competency and emotion as engagement drivers:** [[chatbot-engagement-genai-competency-emotion-2026|Zhao et al. (2026)]] model **871 university students** interacting with an [[llm]] chatbot, finding that **GenAI competency** predicts chatbot engagement both directly and indirectly through **positive emotions** (the affect pathway), and that both competency and positive emotion predict engagement and positive learning emotions. Engagement is thus jointly a *skill* and an *affective* outcome — learners who lack [[teacher-ai-competency|AI competency]] and experience anxiety or frustration disengage, which has implications for [[ai-literacy]] training as an engagement intervention rather than merely a skill goal.
 
+- **Discipline-associated cognitive engagement in student-AI chat.** [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] show that student prompts to AI encode ~62% higher-order cognitive demand on average, but Bloom-level engagement profiles differ sharply by discipline ([[stem-education|STEM]] Apply-prevalent 20.8%, language Understand-prevalent 31.7%, social science Create-prevalent 33.8%). Using a within-person design, they found the same students produced significantly more higher-order prompts in social science than STEM courses (p < .001), with course-level variation exceeding student-level variation — evidence that cognitive engagement with AI is shaped by disciplinary context, not just individual style.
+
+- **Predicting academic AI use from learning constructs.** An exploratory [[reinforcement-learning|machine learning]] framework analysed survey data from 166 university students to identify learning-related constructs associated with intended academic ChatGPT use, using SHAP analysis to maintain interpretability. Findings inform how engagement, learning support, and other constructs shape students' incorporation of AI tools into academic work.
+
 ### Measuring engagement: the metric-choice problem
 
 Engagement is operationalized through a range of observable signals. **Behavioral metrics** measure what learners *do* (time-on-task, activity counts, interaction frequency, persistence); **cognitive metrics** measure how learners *think* (depth of processing, critical engagement, discourse analysis); **affective metrics** measure how learners *feel* (emotion, motivation, interest); and **contextual metrics** capture multitasking and attention. AI-education research increasingly combines these and treats engagement as a mediating mechanism between AI tool design and [[learning-gains|learning outcomes]], rather than an outcome in itself.
@@ -63,15 +67,6 @@ A systematic synthesis of [[higher-ed|AI in higher education]] ([[long-ai-higher
 Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[learning-analytics]] and [[educational-measurement]], which supply the [[quantitative-research|quantitative]] tools for operationalizing the dimensions above. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[research-methods-aied]] evaluations of AI-education interventions.
 
 - **Learner characteristics moderate TTS dialogue-based lessons (2026):** In LLM+TTS-generated teacher–student, student–student, and teacher–teacher dialogue lessons, [[experiential-learning]] style and critical-thinking disposition significantly interacted with dialogue format for ARCS-based motivation, indicating that AI-generated dialogue content is differentially motivating depending on learner profile ([[tts-dialogue-lessons-learner-characteristics-2026]]).
-
-
-## Discipline and Cognitive Engagement with AI
-
-- **Discipline-associated cognitive engagement in student-AI chat.** Chang and Li (2026) show that student prompts to AI encode ~62% higher-order cognitive demand on average, but Bloom-level engagement profiles differ sharply by discipline ([[stem-education|STEM]] Apply-prevalent 20.8%, language Understand-prevalent 31.7%, social science Create-prevalent 33.8%). Using a within-person design, they found the same students produced significantly more higher-order prompts in social science than STEM courses (p < .001), with course-level variation exceeding student-level variation — evidence that cognitive engagement with AI is shaped by disciplinary context, not just individual style.
-
-### Predicting Academic AI Use
-
-- An exploratory [[reinforcement-learning|machine learning]] framework analysed survey data from 166 university students to identify learning-related constructs associated with intended academic ChatGPT use, using SHAP analysis to maintain interpretability. Findings inform how engagement, learning support, and other constructs shape students' incorporation of AI tools into academic work.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships

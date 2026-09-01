@@ -1,14 +1,14 @@
 ---
 title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T09:15:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed]
 level: [higher ed]
 confidence: high
 ---
 
-> **AI regulation** — the laws, policies, and governance frameworks that control how AI is developed and deployed in educational settings. Regulation in the knowledge base spans government policy, institutional governance, and industry self-regulation.
+> **AI regulation** — the laws, policies, and governance frameworks that control how AI is developed and deployed in educational settings. Regulation in the knowledge base spans government policy, institutional governance, and industry [[self-regulated-learning|self-regulation]].
 
 ## Questions to Consider
 
@@ -17,7 +17,7 @@ confidence: high
 - Regulation 'both constrains and enables' — it sets boundaries while creating conditions for equitable, safe integration. Can you think of a rule that would simultaneously limit misuse and expand responsible use, or is the tension unavoidable?
 - Ethics frameworks increasingly harden into binding rules, and safety requirements act as de facto regulation. Do you see ethical principles becoming enforceable rules as progress, or as a way to appear accountable without real teeth — and how would you tell the difference?
 - The knowledge base documents a persistent 'governance gap' between deployment speed and regulatory maturity, uneven across jurisdictions and educational levels. As a teacher or developer, how does an inconsistent regulatory environment affect your day-to-day decisions about what AI to use?
-- Student regulatory awareness research asks whether learners actually know and follow the rules. Before you read, how well do you think most students understand the AI rules they're bound by — and whose responsibility is it when they don't?
+- Student regulatory awareness [[research-methods-aied|research]] asks whether learners actually know and follow the rules. Before you read, how well do you think most students understand the AI rules they're bound by — and whose responsibility is it when they don't?
 
 ## Introduction
 
@@ -25,7 +25,7 @@ Regulation is the legal and policy layer of AI [[governance]]: it sets the bindi
 
 ### Regulatory landscape
 
-- **Government policy:** [[educational-policy-ai]] research examines national and regional AI education policies.  and [[ai-lifelong-learning-policy|lifelong learning policy]] address regulatory gaps, while [[ai-uk-higher-education-policy-2026|UK AI higher-education policy]] and [[oecd-digital-education-outlook-2026|the OECD Digital Education Outlook]] situate national approaches in comparative and international perspective.
+- **Government policy:** [[educational-policy-ai]] research examines national and regional [[ai-education|AI education]] policies.  and [[ai-lifelong-learning-policy|lifelong learning policy]] address regulatory gaps, while [[ai-uk-higher-education-policy-2026|UK AI higher-education policy]] and [[oecd-digital-education-outlook-2026|the OECD Digital Education Outlook]] situate national approaches in comparative and international perspective.
 - **Institutional governance:** [[governance|AI governance frameworks]] and [[genai-policies-higher-ed-computing|institutional policy analysis]] document how universities develop internal AI rules, while [[genai-declaration-frameworks-higher-education|AI declaration frameworks]] and [[genai-assessment-governance|assessment governance]] regulate AI use in assessed work.
 - **Safety regulation:** [[pedagogical-safety]], [[child-safety-genai|child safety]], and [[eduzone-llm-safety-k12|K-12 safety frameworks]] represent de facto regulation through safety requirements.
 - **Ethics as regulation:** [[ethics]] frameworks increasingly serve regulatory functions — [[ai-ethics-education-public-discourse|public discourse on AI ethics]] shapes policy expectations, and [[league-ethical-governance-student-data-2026|ethical governance of student data]] shows how ethics principles harden into binding rules.

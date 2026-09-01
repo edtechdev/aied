@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [conversational-ai, intelligent-tutoring, generative-ai, llm, pedagogical-agent, human-ai-collaboration, ai-literacy]
 confidence: medium
@@ -32,7 +32,9 @@ Conversational AI (CAI) is the umbrella term for AI-driven agents that carry on 
 
 **Student perspectives.** Real-world usage shows adoption hinges on [[ai-literacy]] and [[usability-research|user experience]] more than on technical capability. A human-centred [[mixed-methods-research|mixed-methods]] study of the "Jordan Chatbot," a GPT-4o-based [[pedagogy|pedagogical]] agent in an Australian law course, found students hold positive attitudes and perceive gains in knowledge while strongly supporting [[academic-integrity]] requirements; over a third of interactions occurred after hours, confirming the value of 24/7 availability ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]). Notably, AI literacy — not general technology proficiency — predicted willingness and confidence to use the chatbot, and usability (an intrusive pop-up design) was the largest barrier among non-users, ahead of trust, preference for staff, and academic-integrity fears.([[colbran-student-perspectives-genai-chatbots-2026]]) The study recommends human-centred design, explicit AI policies and assessment labels, staff and student training, and continuous error monitoring — evidence that effective CAI deployment is as much a design and literacy problem as a technical one.
 
-**Risks and ethics.** CAI agents carry persistent risks of [[cognitive-offloading|over-reliance]] and [[cognitive-offloading|cognitive offloading]] (the leading ethical concern in the umbrella review), plus technical limitations, [[hallucination-risk|hallucination]], bias, [[ai-detection|plagiarism]], and [[equity-in-ai-education|equity]] barriers. These concerns animate [[ai-literacy]] and [[reducing-ai-misuse]] and require [[educational-policy-ai|policy]] and ethical-[[governance]] responses.
+**Risks and ethics.** CAI agents carry persistent risks of [[cognitive-offloading|over-reliance]] and [[cognitive-offloading|cognitive offloading]] (the leading ethical concern in the umbrella review), plus technical limitations, [[hallucination-risk|hallucination]], bias, [[ai-detection|plagiarism]], and [[equity-in-ai-education|equity]] barriers. These concerns animate [[ai-literacy]] and [[reducing-ai-misuse]] and require [[educational-policy-ai|policy]] and ethical-[[governance]] responses. A further trust concern arises around the adoption advice staff increasingly receive: staff are urged to consult conversational AI about whether to adopt AI, yet such systems are built by organizations with a commercial stake in adoption. An audit of ten frontier LLMs found most acknowledge skeptical users' concerns before redirecting to engagement framings, raising questions about the neutrality of AI adoption advice.
+
+**Game-based conversational agents.** Beyond tutoring, conversational agents are being embedded in digital game-based learning. Wenzel, Geiger, and Liening (2026) use action design research to derive the **CAIS-GBL** framework — four design principles and fifteen design features for AI conversational agents in digital game-based learning — grounded in theory-driven meta-requirements spanning cognitive, motivational, [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] [[student-engagement|engagement]] and an equity-by-design stance. Their instantiated agent (Lara) in a business [[simulation]] game was positively received for cognitive and [[community-of-inquiry|social presence]] and support for [[self-regulated-learning|self-regulated learning]], evaluated with student teachers and in a field study — a practical blueprint for [[adaptive-learning|adaptive instructional support]] via [[game-based-learning|conversational agents in serious games]].
 
 ## Relationship to pedagogical agents and intelligent tutoring
 
@@ -49,15 +51,6 @@ Conversational AI is best understood as an **interaction modality** that overlap
 ## Practical guidance
 
 Choose conversational agents to support teaching, [[motivation]], and [[metacognition]] rather than merely to answer questions, and design for HCI-grounded, participatory, user-centered interaction. Guard against [[cognitive-offloading|over-reliance]] by pairing CAI with [[ai-literacy]] instruction and [[feedback]] that keeps the learner cognitively productive. Attend to AI literacy and usability explicitly — since these — not general digital skill — drive adoption and non-use ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) — and pair deployment with clear AI-use policies, assessment labels, and training. Evaluate CAI on pedagogical outcomes — not just task completion — and plan for equity and [[accessibility]] from the start rather than as an afterthought.
-
-
-## CAIS-GBL Framework for Game-Based Agents
-
-- **Design framework for AI conversational agents in game-based learning.** Wenzel, Geiger, and Liening (2026) use action design research to derive the **CAIS-GBL** framework — four design principles and fifteen design features for AI conversational agents in digital game-based learning — grounded in theory-driven meta-requirements spanning cognitive, motivational, [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] [[student-engagement|engagement]] and an equity-by-design stance. Their instantiated agent (Lara) in a business [[simulation]] game was positively received for cognitive and [[community-of-inquiry|social presence]] and support for [[self-regulated-learning|self-regulated learning]], evaluated with student teachers and in a field study — a practical blueprint for [[adaptive-learning|adaptive instructional support]] via [[game-based-learning|conversational agents in serious games]].
-
-### Conversational AI and Adoption Advice
-
-- Staff are increasingly urged to consult conversational AI about whether to adopt AI, yet such systems are built by organizations with a commercial stake in adoption. An audit of ten frontier LLMs found most acknowledge skeptical users' concerns before redirecting to engagement framings, raising questions about the neutrality of AI adoption advice.
 
 ## Connected Concepts
 

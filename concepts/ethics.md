@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T16:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
@@ -60,13 +60,11 @@ A major theoretical shift in the knowledge base is the critique of universalist,
 
 The knowledge base's ethics articles range from theoretical frameworks ([[ethical-ai-higher-ed-game-theory|game theory approaches]]) to practical guidelines ([[cost-of-ethics-crisis-cs-ethics-education|CS ethics education]]), from [[ai-ethics-education-public-discourse|public discourse analysis]] to [[adarkwah-genai-unesco-policy-2026|UNESCO policy frameworks]]. Across this range, a consistent practical message emerges: ethics must move from policing misuse toward building [[ai-literacy]] and ethical-use capability, supported by institutional guidance, teacher professional development, and design that preserves rather than displaces learner judgment.
 
+That practical case is reinforced by empirical work on how ethics functions inside AI literacy itself: Zhu and Kong (2026) show that AI ethical awareness — alongside empowerment in AI [[problem-solving]] — mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. Their validated AI-PBLS scale and SEM results (1,027 students) indicate that PBL creates conditions in which students build a personal framework for ethical reasoning about AI, strengthening the case that ethics is not an add-on but a core mechanism of meaningful AI literacy development.
+
 ## Connections
 
 Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[governance]]. It is the normative foundation for all other AI education concepts — the frame within which questions of fairness, transparency, autonomy, and safety are raised and resolved.
-
-## Ethical Awareness in AI Literacy Courses
-
-- **Ethical awareness as a mediator of AI literacy course satisfaction.** Zhu and Kong (2026) show that AI ethical awareness — alongside empowerment in AI [[problem-solving]] — mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. Their validated AI-PBLS scale and SEM results (1,027 students) indicate that PBL creates conditions in which students build a personal framework for ethical reasoning about AI, strengthening the case that ethics is not an add-on but a core mechanism of meaningful AI literacy development.
 
 ## Connected Concepts
 

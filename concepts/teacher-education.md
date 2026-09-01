@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-01T16:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
 audience: [instructors]
@@ -37,6 +37,7 @@ Pre-service (initial) teacher education prepares future teachers during their ce
 - **AI-supported inquiry in [[stem-education|science education]].** A quasi-experiment with 48 pre-service science teachers in Türkiye ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) integrated problem- and design-based learning into an 8-week AI-supported guided inquiry program on photosynthesis and respiration. It produced significant gains in conceptual understanding of the two [[biology-education|biological]] processes, but *no* significant effect on AI literacy or self-perceived [[computational-thinking|computational thinking]] — a reminder that AI-IBL can deepen subject-matter understanding in teacher candidates without automatically building their AI/CT competencies, which require explicit, targeted design.
 - **Acceptance and perceptions of AI.** [[pre-service-science-teachers-ai-perceptions-2026|A study of 380 Ghanaian pre-service science teachers]] used UTAUT/TPB to examine what drives acceptance of AI in science education, highlighting how perceived usefulness, attitudes, and facilitating conditions shape prospective teachers' readiness — and how [[global-south|Global South]] contexts and [[technology-acceptance-model|technology acceptance]] frame AI adoption in teacher preparation.
 - **[[generative-ai|Generative AI]] for constructivist instructional design.** The [[sahab-model-genai-constructivist-id-2026|SAHAB model]] is a quasi-experimental professional-development intervention in which generative AI empowers teachers to design [[constructivist]] instruction, with large gains (d = 1.18). It shows GenAI can [[scaffolding|scaffold]] [[learning-design|instructional design]] for teacher candidates and practicing teachers alike — not just deliver content, but support the *design* of student-centered learning activities.
+- **Smart-classroom training for graduate [[math-education|mathematics]] M.Ed. students.** Zhu, Liang, Mao, and Wang (2026) show how a mathematics M.Ed. course can be enhanced with intelligent educational [[ai-technologies|technologies]] ([[automated-assessment|automated scoring]], personalized recommendations, multi-AI feedback) across pre-, in-, and post-class stages, yielding statistically significant gains in instructional-objective design proficiency. The transferable D-T-E Model (Disciplinary Demand–Technological Empowerment–Evaluation Loop) offers teacher educators a [[discipline-specific-aied|discipline-specific]] framework for integrating smart education into graduate teacher preparation.
 
 ### In-service professional development
 
@@ -49,7 +50,7 @@ In-service professional development supports practicing teachers in integrating 
 
 ### Knowledge, beliefs, and practice
 
-A key finding across teacher-education research is the gap between what teachers *articulate* and what they *enact*: teachers often claim operational AI skills but struggle to apply pedagogically meaningful knowledge in practice.([[teachers-ai-knowledge-genai-lesson-planning-2026]]) Psychological factors also matter — [[self-efficacy]] positively predicts AI-TPACK, while strong traditional teaching beliefs can act as a cognitive barrier.([[ai-tpack-mathematics-teacher-education-2026]]) [[trust|Trust]] in AI is shaped by both technical knowledge and ethical perceptions (transparency, [[bias-mitigation|fairness]], accountability, inclusiveness).([[intelligent-tpack-ethics-teachers-trust-distrust-2026]])
+A key finding across teacher-education research is the gap between what teachers *articulate* and what they *enact*: teachers often claim operational AI skills but struggle to apply pedagogically meaningful knowledge in practice.([[teachers-ai-knowledge-genai-lesson-planning-2026]]) Psychological factors also matter — [[self-efficacy]] positively predicts AI-TPACK, while strong traditional teaching beliefs can act as a cognitive barrier.([[ai-tpack-mathematics-teacher-education-2026]]) [[trust|Trust]] in AI is shaped by both technical knowledge and ethical perceptions (transparency, [[bias-mitigation|fairness]], accountability, inclusiveness).([[intelligent-tpack-ethics-teachers-trust-distrust-2026]]) Measuring teachers' AI literacy is itself an active front: because most AI-literacy assessments target students or general users, the Teachers' AI Literacy Scale (TAILS) — grounded in the six-dimension ED-AI framework — was developed and validated specifically for [[language-learning|preservice language teachers]] through EFA and CFA, filling the measurement gap within teacher education.
 
 ### Simulated instructional practice
 
@@ -65,15 +66,6 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - **Backtracking from classroom dilemmas.** [[preservice-teachers-responsible-genai-2026|Kohnke et al. (2026)]] interviewed **17 pre-service teachers** at a Hong Kong university and worked backward from anticipated classroom dilemmas to teacher-education design needs. Pre-service teachers raised concerns about **[[academic-integrity|academic integrity]], privacy, and preserving essential human skills** in a GenAI-driven environment, pointing to [[curriculum-design|curriculum]] implications that weave **ethics, [[privacy]], and AI literacy** (with critical-thinking skills) throughout teacher preparation rather than treating responsible use as an add-on.
 
 - **AI as cognitive mediator in teacher reflection (2026):** A practice-based Reflective Triangle Model uses AI to mediate between individual teacher reflection and shared professional knowledge in learning communities, addressing the common failure of reflection to transform into collective professional learning ([[reflective-triangle-model-teacher-ai-2026]]).
-
-
-## Smart-Classroom M.Ed. Training
-
-- **Smart-classroom training for [[math-education|mathematics]] M.Ed. students.** Zhu, Liang, Mao, and Wang (2026) show how a mathematics M.Ed. course can be enhanced with intelligent educational [[ai-technologies|technologies]] ([[automated-assessment|automated scoring]], personalized recommendations, multi-AI feedback) across pre-, in-, and post-class stages, yielding statistically significant gains in instructional-objective design proficiency. The transferable D-T-E Model (Disciplinary Demand–Technological Empowerment–Evaluation Loop) offers teacher educators a [[discipline-specific-aied|discipline-specific]] framework for integrating smart education into graduate teacher preparation.
-
-### Measuring AI Literacy in Teacher Education
-
-- AI literacy is increasingly crucial for teachers, yet most assessments target students or general users. The Teachers' AI Literacy Scale (TAILS), grounded in the six-dimension ED-AI framework, was developed and validated specifically for [[language-learning|preservice language teachers]] through EFA and CFA, filling the measurement gap within teacher education.
 
 ## Connected Concepts
 

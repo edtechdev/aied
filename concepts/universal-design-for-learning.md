@@ -1,7 +1,7 @@
 ---
 title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [inclusive-learning, equity-in-ai-education, special-education, learning-design, student-experience]
 audience: [learners]
@@ -35,6 +35,8 @@ UDL rests on the insight that learner variability is the norm, not the exception
 
 [[generative-ai|Generative AI]] creates new opportunities and new risks for UDL. AI can personalize representation and provide alternative pathways, supporting [[personalized-learning]] and accessibility. But it can also encode bias, assume dominant communication styles, and — if it reduces learner agency — undermine the engagement principle. [[research-methods-aied|Research]] on [[ai-misuse-learning-harm]] and equity shows that AI tools must be designed with inclusive principles or they recapitulate [[equity-in-ai-education]] gaps. UDL therefore informs both how AI is deployed and how AI-literacy and assessment are designed to be fair across learner variability.
 
+Equity-by-design is one concrete way to operationalize this stance. Wenzel, Geiger, and Liening (2026) ground their CAIS-GBL framework for AI conversational agents in business [[simulation]] games in an explicit **equity-by-design** approach aligned with universal design for learning, deriving meta-requirements that span cognitive, [[motivation|motivational]], [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] engagement. Their design principles and features aim to address individual learner differences in strengths, challenges, and interests — a concrete application of UDL principles to the design of adaptive, AI-supported [[game-based-learning|game-based learning]].
+
 ### Connections
 
 UDL connects to [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[learning-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational [[bias-mitigation|fairness]] and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles. Because UDL is the framework most commonly invoked in higher-education disability contexts (where "special education" is a [[k-12]] term), it is often the right page to link for college and university disabled-learner research.
@@ -63,11 +65,6 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 **Use AI to remove barriers, not add them.**
 - Deploy AI to close performance gaps (e.g., AI-segmented videos with pauses helped ADHD learners) and to lower the cost of accessible formats.
 - Guard against AI that assumes one communication style or penalizes neurodivergent expression — connect to [[accessibility]], [[equity-in-ai-education]], and [[neurodiversity]].
-
-
-## Equity-by-Design Conversational Agents
-
-- **Equity-by-design in AI conversational agents.** Wenzel, Geiger, and Liening (2026) ground their CAIS-GBL framework for AI conversational agents in business [[simulation]] games in an explicit **equity-by-design** stance aligned with universal design for learning, deriving meta-requirements that span cognitive, [[motivation|motivational]], [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] engagement. Their design principles and features aim to address individual learner differences in strengths, challenges, and interests — a concrete application of UDL principles to the design of adaptive, AI-supported [[game-based-learning|game-based learning]].
 
 ## Connected Concepts
 
