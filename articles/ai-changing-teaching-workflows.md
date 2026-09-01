@@ -11,8 +11,6 @@ sources: ['raw/papers/ai-changing-teaching-workflows-2026-05-21.md']
 confidence: high
 ---
 
-📄 [Full article](https://edtechinsiders.substack.com/p/how-ai-is-changing-teaching-workflows)
-
 ## Core Thesis
 
 AI saves teachers roughly 30% of lesson preparation time with no measurable quality loss — but whether that *reduces burnout* depends entirely on where the freed-up time goes. The key mechanism is **reallocation, not reduction**: teachers redirect saved hours toward higher-value instructional activities rather than simply pocketing time. This article synthesizes evidence from multiple controlled trials, large-scale conversation analysis, and [[qualitative-research|qualitative]] teacher studies to map the current state of AI in teaching workflows.

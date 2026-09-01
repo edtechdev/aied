@@ -12,8 +12,6 @@ sources: ['raw/papers/2606.26579.md']
 confidence: medium
 ---
 
-📄 [PDF](https://arxiv.org/pdf/2606.26579)
-
 This study investigates how different modes of [[student-ai-interaction|AI interaction]] affect cognitive [[student-engagement|engagement]] and [[learning-gains|learning outcomes]] in high school students. Using a within-subjects design with 24 students, the [[research-methods-aied|researchers]] compared three conditions: **Auto mode** (AI solves problems independently), **Interactive mode** (student-AI collaboration with [[scaffolding]]), and **Manual mode** (no AI assistance). The Interactive mode produced the highest cognitive engagement and task accuracy, while the Auto mode led to reduced engagement and potential [[cognitive-offloading|Over-Reliance]].
 
 The use of [[affective-computing|electroencephalography (EEG)]] provides a neurophysiological dimension to understanding AI's impact on learning. Though EEG results did not reach statistical significance, descriptive patterns suggested differences in neural activity across the three AI interaction modes. This connects to broader debates about [[student-experience|student-AI interaction]] design in [[k-12]] classrooms.
