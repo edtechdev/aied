@@ -199,4 +199,12 @@ The EPUB/PDF and cover are committed artifacts (built locally, like `llms-full.t
 
 Copy the `tooling/` directory **and the `skills/` directory** into a new repo, follow this README and the Astro site setup, and you'll have your own automated research wiki in ~15 minutes.
 
-To fully reproduce the ingestion workflow (including the inline-link HARD GATE and the list-formatting check), install the two Hermes Agent skills in the `research` category: **`research-wiki`** (the full ingestion + export pipeline, mirrored in `tooling/SKILL.md`) and **`wiki-inline-links`** (the aggressive inline-link + list-formatting pass that runs on every new/enriched page before build; mirrored in `skills/research/wiki-inline-links/`). See `cron/` for the job prompts that wire them together.
+To fully reproduce the ingestion workflow (including the inline-link HARD GATE and the list-formatting check), install the Hermes Agent skills in the `research` category, all mirrored under `skills/research/` (each with a "Repository mirror" note pointing back here):
+- **`research-wiki`** — the full ingestion + export pipeline (mirrored in `tooling/SKILL.md`)
+- **`wiki-inline-links`** — the aggressive inline-link + list-formatting pass that runs on every new/enriched page before build (mirrored in `skills/research/wiki-inline-links/`)
+- **`wiki-epub-export`** — EPUB/PDF regeneration (`skills/research/wiki-epub-export/`)
+- **`wiki-journal-update`** — regenerates `journal.md` + `index.md` in the exact on-disk format (`skills/research/wiki-journal-update/`)
+- **`wiki-site-quality`** — static-site bug fixes: dup H1, broken links, dead/fragmented tags, markdown tables, journal date quoting, public-repo privacy checks (`skills/research/wiki-site-quality/`)
+- **`wiki-astro-frontend`** — editing the Astro frontend (homepage, concept map, sidebar, icons, PWA, JSON-LD, theming) (`skills/research/wiki-astro-frontend/`)
+
+See `cron/` for the job prompts that wire them together.
