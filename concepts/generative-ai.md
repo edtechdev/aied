@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-01T09:15:00-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk]
 
@@ -27,6 +27,7 @@ Unlike earlier rule-based or retrieval-based systems, generative AI produces flu
 - **Tutoring and dialogue:** [[intelligent-tutoring|AI tutoring systems]] use generative AI for conversational instruction. [[socratic-method|Socratic dialogue]] and [[collaborative-ai-tutoring|collaborative tutoring]] exploit generative capabilities for [[pedagogy|pedagogical]] interaction.
 - **Assessment:** [[automated-essay-scoring|Essay scoring]], [[automated-assessment|automated grading]], and [[formative-assessment]] increasingly rely on generative models.
 - **Risks:** [[hallucination-risk|Hallucination]], [[cognitive-offloading|Over-Reliance]], [[cognitive-offloading]], and [[academic-integrity]] concerns arise specifically from generative AI's fluency and [[accessibility]].
+- **Learning environment generation:** Specialized generative models now turn a course brief directly into finished learning artifacts. [[cogevol-learning-environment-generation-2026|CogEvol (Tu et al. 2026)]], a family of models trained for single-pass generation of structured slides and self-contained interactive HTML pages, completes a slide in a median of 17 seconds and an interactive page in 59 — replacing minutes-long multi-turn [[agentic-ai|agent]] scaffolding. Reliability is enforced via a production pipeline that converts real failures into 53,687 verified SFT samples plus a hybrid rule-plus-VLM reward for GRPO-based RL. This positions generative AI as a content authoring engine with implications for [[teacher-role|teacher]] and [[curriculum-design|curriculum]] production workflows, and for evaluating whether AI-generated learning environments are functionally and pedagogically sound rather than merely visually polished.
 
 ### The knowledge base's generative AI coverage
 
@@ -110,3 +111,13 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[liu-emerging-tech-tefl-review-2026]] — AI-powered EFL tools
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
+- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
+- [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
+- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
+- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
+- [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
+- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
+- [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
+- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
+- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
+- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)

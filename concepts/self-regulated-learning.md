@@ -147,3 +147,5 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulated learning
 - [[ai-learning-assistants-higher-ed-large-scale]] — AI learning assistants in higher ed at scale
 
+- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
+- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)

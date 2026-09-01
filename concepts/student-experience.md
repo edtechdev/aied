@@ -131,3 +131,5 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[pedlow-genai-selfassessment-2026]] — Raising ethical awareness of GenAI use through student self-assessment
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in an AI era
 
+- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
+- [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)

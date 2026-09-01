@@ -120,3 +120,4 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 
 
+- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)

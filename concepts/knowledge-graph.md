@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T09:15:00-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, learning-analytics, generative-ai, ai-education, intelligent-tutoring, curriculum-design, llm]
 category: [curriculum design]
@@ -81,3 +81,4 @@ Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curr
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 
 
+- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation

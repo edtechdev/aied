@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T09:15:00-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 discipline: [language learning]
@@ -121,3 +121,5 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Highlights absence of low-income-country evidence
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
+- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
+- [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)

@@ -135,3 +135,4 @@ The framework's boundary condition requires **contestability** (the ability to q
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
 
+- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)

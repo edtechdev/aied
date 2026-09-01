@@ -69,3 +69,4 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 
 
+- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)

@@ -75,3 +75,4 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 
+- [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)

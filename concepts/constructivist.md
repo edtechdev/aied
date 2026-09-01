@@ -14,7 +14,7 @@ confidence: high
 
 - Have you ever 'learned' something in class only to realize you couldn't actually explain or use it later? What was missing — and what does that tell you about how real understanding forms?
 - Constructivism claims knowledge is built, not transmitted. If that's true, what happens when an AI tutor simply supplies the correct answer?
-- The phrase 'constructivism in name, behaviorism in practice' describes AI tools that claim to support active learning but actually run drill-and-practice. Have you seen this gap? How would you detect it in a tool you're evaluating?
+- The phrase 'constructivism in name, [[behaviorism]] in practice' describes AI tools that claim to support [[active-learning|active learning]] but actually run drill-and-practice. Have you seen this gap? How would you detect it in a tool you're evaluating?
 - Papert's constructionism says we learn most powerfully by building shareable artifacts. In the AI era, one framework puts it as: 'the AI writes the code, but the student writes the model.' What is a student actually constructing when AI handles the mechanics?
 - Some AI tools practice 'generative refusal' — withholding answers and posing questions instead. When would deliberately withholding help be more pedagogically valuable than providing it?
 - If knowledge is constructed, then AI literacy isn't learned by hearing lectures about AI — it's learned by using, critiquing, and building with AI. What does that imply about how AI literacy should be taught to you or your students?
@@ -37,7 +37,7 @@ Constructivism is a family of theories rather than a single doctrine, but its co
 **Constructionism** is the branch of constructivism associated with Seymour Papert that adds a specific claim: learning happens most powerfully when learners construct *external, shareable artifacts* — physical or digital objects they design, build, and debug. Where Piagetian constructivism focuses on the internal mental construction of knowledge, constructionism holds that this construction is best supported and made visible through making something tangible (Harel & Papert, 1991). In [[history-of-aied|AIED history]], constructionism stands as the "agency" pole of the field's central control-vs-agency tension, set against Anderson's structured cognitive tutors.
 
 - **Logo and microworlds.** Papert co-developed Logo (1967) with its iconic "turtle" — a programming microworld where children explore geometry and other powerful ideas by commanding and debugging a visible agent. Debugging is reframed as a natural, valuable part of learning, not failure.([[mishra-control-vs-agency-history-2025]])
-- **Construction over instruction.** Constructionism critiques "instructionism" — the assumption that teaching is the efficient transfer of knowledge — and instead positions learners as [[agentic-ai|autonomous agents]] who construct understanding through projects and experimentation (Papert, 1980, *Mindstorms*).
+- **Construction over instruction.** Constructionism critiques "instructionism" — the assumption that [[teacher-role|teaching]] is the efficient transfer of knowledge — and instead positions learners as [[agentic-ai|autonomous agents]] who construct understanding through projects and experimentation (Papert, 1980, *Mindstorms*).
 - **Lineage into modern edtech.** Logo's emphasis on creative, hands-on construction underpins [[game-based-learning]], [[project-based-learning]], [[educational-robotics|robotics]] (LEGO Mindstorms, Scratch, programmable bricks), and the broader maker movement.
 - **The constructionist legacy in AI.** Constructionism implies AI tools should serve as **materials to build with** — thinking tools and creative co-constructors that the learner directs — rather than as answer-providing instructors. This is the direct ancestor of the knowledge base's [[genai-mindtool-generative-learning|mindtool]] framing of generative AI and of design commitments that preserve [[agency|learner agency]] over the learning process.([[educational-robotics-pathways-2026]])
 
@@ -137,3 +137,4 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 
+- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)

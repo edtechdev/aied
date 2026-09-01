@@ -124,3 +124,4 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[xiong-ai-educational-measurement-review-2026]] — Decade thematic review of AI in educational measurement
 
+- [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)

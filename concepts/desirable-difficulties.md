@@ -115,3 +115,4 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
 
 
+- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)

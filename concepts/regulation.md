@@ -1,7 +1,7 @@
 ---
 title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T09:15:00-04:00"
 type: concept
 tags: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed]
 level: [higher ed]
@@ -70,3 +70,4 @@ Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
 - [[generative-ai-reduced-study-time-math]] — Age gradient and proctoring findings inform AI policy
 
+- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
