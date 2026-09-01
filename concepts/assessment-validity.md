@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T10:00:00-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education]
@@ -10,13 +10,13 @@ research_method: [randomized controlled trial]
 confidence: high
 ---
 
-> **Assessment validity** — whether assessments measure what they claim to measure. AI in education raises fundamental validity questions: do [[automated-assessment|AI-graded]] assessments assess student learning or [[prompt-engineering|AI prompting skill]]? Does AI use invalidate traditional assessment assumptions?
+> **Assessment validity** — whether assessments measure what they claim to measure. [[ai-education|AI in education]] raises fundamental validity questions: do [[automated-assessment|AI-graded]] assessments assess student learning or [[prompt-engineering|AI prompting skill]]? Does AI use invalidate traditional assessment assumptions?
 
 ## Questions to Consider
 
 - Validity asks whether an assessment measures what it claims to measure. Before reading, if you saw a student submit a polished essay you suspected was AI-assisted, would you think the bigger problem was cheating, or that the task was no longer measuring what you thought it was measuring?
 - This page poses a sharp question: when students use AI, does the score reflect student knowledge or AI-prompting skill? Can you think of an assessment you've designed or taken where the score might now be telling you more about the tool than about the learner?
-- A key finding is that the same learner input can receive semantically different replies depending on which underlying LLM is used — introducing 'construct-irrelevant variance' that threatens reliability and fairness. If two students get different AI support purely because of the model behind it, how fair is the resulting comparison?
+- A key finding is that the same learner input can receive semantically different replies depending on which underlying LLM is used — introducing 'construct-irrelevant variance' that threatens reliability and [[bias-mitigation|fairness]]. If two students get different AI support purely because of the model behind it, how fair is the resulting comparison?
 - The page argues that even when an LLM scores well, transferring human score interpretations requires similarity in the latent structure of responses — and LLMs diverge from humans here. What does this suggest about trusting an AI that 'passes' an exam designed for humans?
 - Rather than trying to detect AI use, the knowledge base argues for redesigning assessments so they stay valid for AI-capable students. Why might redesigning the task be a more validity-preserving strategy than policing whether AI was used?
 - AI now serves as test-taker, test-maker, rater, and analyst — making the interpretive chain opaque. When every role in an assessment is filled by AI, what does it even mean to say an assessment is 'valid' for the human learner in the middle of it?
@@ -25,14 +25,14 @@ confidence: high
 
 ### Validity challenges
 
-- **Construct validity:** When students use AI on assessments, does the score reflect student knowledge or AI capability? [[genai-performance-vs-learning|Performance vs. learning]] research addresses this directly.
+- **Construct validity:** When students use AI on assessments, does the score reflect student knowledge or AI capability? [[genai-performance-vs-learning|Performance vs. learning]] [[research-methods-aied|research]] addresses this directly.
 - **Cross-LLM construct-irrelevant variance in conversation-based assessment:** [[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]] shows that even for a single conversational turn, the semantic content of [[llm|LLM]]-generated replies varies across models and conversational-context conditions. Within-model similarity consistently exceeds between-model similarity (0.715–0.795 vs. 0.443–0.604), and adding chat history meaningfully changes response content (median cross-history similarity ~0.40–0.45). Because the same learner input can receive semantically different replies depending on the underlying model, prompting and context alone cannot preserve response consistency — introducing potential **construct-irrelevant variance** that threatens validity, reliability, and fairness. Maintaining consistent assessment conditions as LLMs evolve is therefore an *infrastructure* challenge (symbolic rules, response templates, validation layers), not merely a [[prompt-engineering]] one.
-- **Latent-structure validity across humans and LLMs:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] add a deeper validity condition: even when an LLM scores well, transferring human score interpretations requires similarity in the *latent structure* of responses. Comparing six multimodal LLMs to human cohorts on chemistry and quantitative-reasoning instruments, they find LLM–human factor structures consistently diverge (LLM–human congruence below the human–human baseline), so performance on a human-normed exam is weak evidence about LLM abilities on the constructs the items were designed to measure.
+- **Latent-structure validity across humans and LLMs:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] add a deeper validity condition: even when an LLM scores well, transferring human score interpretations requires similarity in the *latent structure* of responses. Comparing six [[multimodal]] LLMs to human cohorts on [[chemistry-education|chemistry]] and [[quantitative-research|quantitative]]-reasoning instruments, they find LLM–human factor structures consistently diverge (LLM–human congruence below the human–human baseline), so performance on a human-normed exam is weak evidence about LLM abilities on the constructs the items were designed to measure.
 - **Consequential validity:** Do AI-mediated assessments have fair consequences? [[ai-scoring-language-bias-physics|Language bias studies]] show that AI scoring can disadvantage non-native speakers.
 - **Validity of AI-generated items:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that AI-generated questions, validated via Bayesian [[item-response-theory|IRT]], achieve difficulty and discrimination on par with expert-written standardized-exam items (reliability 0.79 vs. 0.72) — supporting the validity of course-tailored AI-generated assessments when backed by psychometric evaluation.
 - **Authentic assessment:** [[authentic-assessment]] and [[ai-assessment-scale-reform|the AI Assessment Scale]] propose validity-preserving assessment redesigns.
 - **Confidence and calibration:** [[automated-assessment|Confidence-aware systems]] improve validity by flagging uncertain assessments.
-- **Embodied and multimodal evidence:** speech-only assessment can mistake verbal fluency for conceptual knowledge; [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] show that computer-vision gesture analysis coupled with LLM speech analysis increases construct validity and equity by capturing understanding expressed through gesture, not just words — reducing bias against learners who express understanding non-verbally.
+- **[[embodied-learning|Embodied]] and multimodal evidence:** speech-only assessment can mistake verbal fluency for conceptual knowledge; [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] show that computer-vision gesture analysis coupled with LLM speech analysis increases construct validity and [[equity-in-ai-education|equity]] by capturing understanding expressed through gesture, not just words — reducing bias against learners who express understanding non-verbally.
 
 ### Redesign over detection
 
@@ -59,6 +59,8 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[feedback]]
 
 ## Connected Articles
+- [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning for GPT-based L2 listening item generation (Aryadoust & Wong 2026)
+- [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)
 - [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]]

@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-01T10:00:00-04:00"
 connected_faqs: [faculty-ai-competencies]
 type: concept
 tags: [ai-literacy, educational-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy]
@@ -28,10 +28,11 @@ Teacher AI competency matters because the teacher is the decisive factor in whet
 
 The knowledge base's research converges on several interconnected dimensions:
 
-- **Technical proficiency:** crafting effective [[prompt-engineering|prompts]] for educational objectives, evaluating AI tools for pedagogical fit and safety, and troubleshooting failures in real time. [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] documented significant gains across all five AI-PCK components (overall *d* = 2.36), showing technical-pedagogical skill is trainable.
-- **Pedagogical integration:** mapping AI use to learning objectives, designing [[scaffolding]] that supports student [[metacognition]] and self-[[regulation]], and integrating AI into [[learning-design|instructional design]]. [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] models how teachers combine technological, pedagogical, and content knowledge through multi-agent workflows, while [[teacher-ai-teaming-five-levels|a five-level teacher-AI teaming framework]] (transactional → synergistic) captures how [[generative-ai|GenAI]] may replace, complement, or augment teacher competence.
+- **Technical proficiency:**- **Pedagogical knowledge is the decisive layer.** A cross-level study of [[k-12|secondary]] [[ai-education|AI education]] ([[pedagogy-first-technology-second-teacher-knowledge-2026|46 teachers, 2,832 students]]) found technical AI knowledge alone was insufficient — and could even slightly reduce students' perceptions of AI for social good — whereas pedagogical AI knowledge drove students' perceptions and their intention to learn AI. Competency frameworks should therefore weight pedagogical AI knowledge as the pivotal dimension, not a soft add-on.
+ crafting effective [[prompt-engineering|prompts]] for educational objectives, evaluating AI tools for pedagogical fit and safety, and troubleshooting failures in real time. [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] documented significant gains across all five AI-PCK components (overall *d* = 2.36), showing technical-pedagogical skill is trainable.
+- **Pedagogical integration:** mapping AI use to learning objectives, designing [[scaffolding]] that supports student [[metacognition]] and self-[[regulation]], and integrating AI into [[learning-design|instructional design]]. [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] models how teachers combine technological, pedagogical, and content knowledge through multi-[[agentic-ai|agent]] workflows, while [[teacher-ai-teaming-five-levels|a five-level teacher-AI teaming framework]] (transactional → synergistic) captures how [[generative-ai|GenAI]] may replace, complement, or augment teacher competence.
 - **Assessment literacy:** evaluating AI-generated content and student AI outputs, and understanding how [[assessment-validity|validity]] shifts when students use AI. This connects to [[automated-assessment]], [[ai-detection]], and the broader [[assessment]] redesign agenda.
-- **Ethical and critical use:** recognizing bias in AI outputs, protecting student data ([[privacy]]), and ensuring equitable outcomes ([[equity-in-ai-education]]). [[llm-cultural-relevance-k12|Culturally relevant AI use]] examines how teachers can use LLMs to diversify materials rather than reinforce dominant norms.
+- **Ethical and critical use:** recognizing [[bias-mitigation|bias]] in AI outputs, protecting student data ([[privacy]]), and ensuring equitable outcomes ([[equity-in-ai-education]]). [[llm-cultural-relevance-k12|Culturally relevant AI use]] examines how teachers can use LLMs to diversify materials rather than reinforce dominant norms.
 - **Confidence and attitudes:** teacher [[self-efficacy|confidence]] shapes adoption. [[teacher-ai-adoption-confidence|Adoption research]] finds confidence, support, and perceived utility drive whether teachers actually use AI, and [[ai-pedagogical-orientation|faculty orientations]] shape adoption in research and teaching.
 
 ## The competency gap
@@ -84,6 +85,9 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Teacher professional knowledge in K-12 AI education: TAIK vs TPAIK and student learning (Shen et al. 2026)
+- [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)
+- [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation for teacher professional development (Melo et al. 2026)
