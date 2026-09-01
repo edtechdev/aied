@@ -349,7 +349,14 @@ const recentConceptItems = recentConcepts.map(c => ({
       .brand-full { display: none; }
       .brand-short { display: inline; }
     }
-    /* Mobile: keep header usable on narrow screens */
+    /* Mobile: keep header usable on narrow screens.
+       Row 1 holds .header-left (hamburger + brand) and .header-icons (7 icon
+       buttons), both flex-shrink:0. If they don't fit side-by-side, the icon
+       row wraps to its own line and search (order:3, flex-basis:100%) lands on
+       a THIRD row. Firefox mobile renders wider than Chrome and hits that wrap
+       threshold first. Fix: on narrow screens, hide the two least-essential
+       icons (RSS feed + GitHub repo) so row 1 keeps its original size and the
+       header stays at exactly 2 rows in every browser. */
     @media (max-width: 640px) {
       header .container {
         flex-wrap: wrap;
@@ -361,6 +368,8 @@ const recentConceptItems = recentConcepts.map(c => ({
         max-width: none;
         flex-basis: 100%;
       }
+      .header-icons .header-icon[title="RSS feed"],
+      .header-icons .header-icon[title="GitHub repository"] { display: none; }
     }
 
     main {
