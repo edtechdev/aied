@@ -714,6 +714,20 @@ const recentConceptItems = recentConcepts.map(c => ({
       .recent-rail { margin-top: 1.75rem; }
     }
 
+    /* === Hide sidebar scrollbars but keep them scrollable ===
+       Chrome/Edge paint a classic scrollbar here; Firefox uses overlay
+       scrollbars that stay hidden. Unify so neither side shows a bar
+       (wheel/trackpad scrolling still works). */
+    .sidebar, .right-col {
+      scrollbar-width: none;       /* Firefox */
+      -ms-overflow-style: none;    /* legacy Edge/IE */
+    }
+    .sidebar::-webkit-scrollbar, .right-col::-webkit-scrollbar {
+      display: none;               /* Chrome, Safari, Edge */
+      width: 0;
+      height: 0;
+    }
+
     /* === Footer === */
     footer {
       text-align: center;
