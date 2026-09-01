@@ -144,7 +144,10 @@ const recentConceptItems = recentConcepts.map(c => ({
       --primary: #7dd3fc;
       --primary-hover: #bae6fd;
       --primary-focus: rgba(125, 211, 252, 0.28);
-      --font-size: 17px;
+      /* Brighter body + muted text on the dark background for better contrast. */
+      --color: hsl(205, 16%, 82%);
+      --muted-color: hsl(205, 12%, 68%);
+      --font-size: 18px;
       --header-bg: #15212b;
       --header-text: #f2f6f9;
       --search-bg: #0d1418;
@@ -166,7 +169,9 @@ const recentConceptItems = recentConcepts.map(c => ({
       --primary: #0284c7;
       --primary-hover: #0369a1;
       --primary-focus: rgba(2, 132, 199, 0.15);
-      --font-size: 17px;
+      /* Darker muted text on the white background for better contrast. */
+      --muted-color: hsl(205, 15%, 38%);
+      --font-size: 18px;
       --header-bg: #f7fafc;
       --header-text: #1a242c;
       --search-bg: #ffffff;
@@ -186,9 +191,9 @@ const recentConceptItems = recentConcepts.map(c => ({
     /* Prevent the dark anti-flash background from leaking into light mode. */
     html[data-theme=light] { background-color: var(--background-color); }
     @media (min-width: 768px) {
-      [data-theme=dark] { --font-size: 18px; }
+      [data-theme=dark] { --font-size: 19px; }
       :root:not([data-theme=dark]),
-      [data-theme=light] { --font-size: 18px; }
+      [data-theme=light] { --font-size: 19px; }
     }
     html {
       -webkit-text-size-adjust: 100%;
@@ -639,7 +644,7 @@ const recentConceptItems = recentConcepts.map(c => ({
     .nav-list li { margin: 0; }
     .nav-list a {
       display: block;
-      font-size: 0.85rem;
+      font-size: 0.9rem;
       padding: 0.22rem 0.6rem;
       color: var(--muted-color);
       text-decoration: none;
