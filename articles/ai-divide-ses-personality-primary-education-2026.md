@@ -7,10 +7,6 @@ sources: ["raw/papers/ai-divide-ses-personality-primary-education-2026.md"]
 tags: ["digital-divide", "educational-inequality", "primary-education", "personality-traits", "ai-usage", "digital-literacy"]
 ---
 
-## Citation
-
-[Decoding divides: The role of socioeconomic status and personality traits in AI divides and educational inequality](https://www.sciencedirect.com/science/article/pii/S2666920X26000949) — Wang, Z., van Wetten, S., Segers, E., & Haelermans, C. (2026). *Computers and Education: Artificial Intelligence*, 10, 100566.
-
 ## Overview
 
 Wang and colleagues investigate whether integrating AI into primary education deepens the digital divide and educational inequality, and whether socioeconomic status (SES) or personality traits matter more for that risk. Using survey and national registry data from **4,497 Grade 6 students** in the Netherlands, the study models the mediating roles of AI usage and digital literacy in the links between student background, personality, and [[learning-gains|academic performance]].
@@ -28,7 +24,7 @@ Wang and colleagues investigate whether integrating AI into primary education de
 - **For policymakers:** Equity policy should target digital-skills formation and personality-supportive learning environments, not merely device or AI-tool access.
 - **For [[research-methods-aied|researchers]]:** The study models AI-usage and digital-literacy as distinct pathways, urging future work to separate "access/usage" from "skills" when measuring AI-related inequality.
 
-## Related Concepts
+## Connected Concepts
 
 - [[digital-divide]]
 - [[equity-in-ai-education]]
@@ -36,7 +32,11 @@ Wang and colleagues investigate whether integrating AI into primary education de
 
 ## Connected Articles
 
-- [idan-anand-genai-productivity-divide-2026] — the GenAI productivity divide
-- [access-not-enough-ai-tutoring-2026] — access alone does not equal benefit
-- [digital-literacy-illusion] — assumptions about digital competence
-- [ai-availability-student-motivation] — how AI availability shapes student dispositions
+- [[idan-anand-genai-productivity-divide-2026]] — the GenAI productivity divide
+- [[access-not-enough-ai-tutoring-2026]] — access alone does not equal benefit
+- [[digital-literacy-illusion]] — assumptions about digital competence
+- [[ai-availability-student-motivation]] — how AI availability shapes student dispositions
+
+## Citation
+
+[Decoding divides: The role of socioeconomic status and personality traits in AI divides and educational inequality](https://www.sciencedirect.com/science/article/pii/S2666920X26000949) — Wang, Z., van Wetten, S., Segers, E., & Haelermans, C. (2026). *Computers and Education: Artificial Intelligence*, 10, 100566.

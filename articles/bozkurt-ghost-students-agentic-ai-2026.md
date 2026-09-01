@@ -1,5 +1,5 @@
 ---
-title: "The Devil is in the Det[ai]ls: AI Agents, Ghost Students, and the Crisis of Verified Presence in an Agentic AI World"
+title: "The Devil is in the Details: AI Agents, Ghost Students, and the Crisis of Verified Presence in an Agentic AI World"
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
@@ -61,4 +61,4 @@ confidence: high
 
 ## Citation
 
-Bozkurt, A., Crompton, H., & Fell Kurban, C. (2026). [*The Devil is in the Det[ai]ls: AI agents, ghost students, and the crisis of verified presence in an agentic AI world*](https://doi.org/10.55982/openpraxis.18.1.1145). *Open Praxis*, 18(1).
+Bozkurt, A., Crompton, H., & Fell Kurban, C. (2026). [*The Devil is in the Details: AI agents, ghost students, and the crisis of verified presence in an agentic AI world*](https://doi.org/10.55982/openpraxis.18.1.1145). *Open Praxis*, 18(1).

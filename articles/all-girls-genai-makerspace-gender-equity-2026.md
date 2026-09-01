@@ -7,10 +7,6 @@ sources: ["raw/papers/all-girls-genai-makerspace-gender-equity-2026.md"]
 tags: ["equity-in-ai-education", "k-12", "generative-ai", "ai-literacy"]
 ---
 
-## Citation
-
-[Beyond "painting in pink": A critical case study of all-girls generative AI workshops in a European makerspace and implications for gender equity in computing](https://doi.org/10.1016/j.caeai.2026.100602) — Liu, Q., Archer, L., Nag Chowdhuri, M., Freedman, E., & DeWitt, J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100602.
-
 ## Overview
 
 This critical case study examines an all-girls initiative run by a European urban makerspace that integrated two generative AI (GenAI) tools — Playground (a free image generator) and Deforum (a free animation platform) — into workshops about climate change. The initiative was part of a two-year, research-practice partnership across six makerspaces in five countries foregrounding equity and social justice in STEM. The authors analyse [[qualitative-research|qualitative]], [[multimodal]] data including 15 interviews with girls, parents, and practitioners, four reflective sessions, two observation fieldnotes, and 44 GenAI-generated images, interpreted through Harding's (1986) multi-level framework (symbolic, structural, individual) extended by a social level (Sultan et al., 2024) and feminist pedagogy.
@@ -35,7 +31,7 @@ While stakeholders generally viewed the all-girls format positively as a safer, 
 - **Design intentional peer collaboration and scaffolded prompt-writing,** recognising computing as a social and creative practice, and address English-language dominance in tool design.
 - **Build collaborative partnerships** among AI technology developers, practitioners, and [[research-methods-aied|researchers]] to bridge the gap between tool design and equitable educational use, supported by knowledge exchange and reflective dialogue.
 
-## Related Concepts
+## Connected Concepts
 
 - [[equity-in-ai-education]]
 - [[generative-ai]]
@@ -50,6 +46,10 @@ While stakeholders generally viewed the all-girls format positively as a safer, 
 
 ## Connected Articles
 
-- [informal-learning-everyday-human-llm-interaction] — explores informal, out-of-school AI interaction, the same setting type (informal learning) that this study argues remains under-researched for equity-oriented GenAI.
-- [genai-literacy-image-discrimination] — addresses learners' critical evaluation of GenAI-generated images, parallel to the workshops' activity of judging whether images were AI-produced.
-- [critical-thinking-genai-scaffolding] — concerns scaffolding of GenAI use in learning, echoing this study's call for responsive, girl-centred prompt-writing and pedagogical scaffolding.
+- [[informal-learning-everyday-human-llm-interaction]] — explores informal, out-of-school AI interaction, the same setting type (informal learning) that this study argues remains under-researched for equity-oriented GenAI.
+- [[genai-literacy-image-discrimination]] — addresses learners' critical evaluation of GenAI-generated images, parallel to the workshops' activity of judging whether images were AI-produced.
+- [[critical-thinking-genai-scaffolding]] — concerns scaffolding of GenAI use in learning, echoing this study's call for responsive, girl-centred prompt-writing and pedagogical scaffolding.
+
+## Citation
+
+[Beyond "painting in pink": A critical case study of all-girls generative AI workshops in a European makerspace and implications for gender equity in computing](https://doi.org/10.1016/j.caeai.2026.100602) — Liu, Q., Archer, L., Nag Chowdhuri, M., Freedman, E., & DeWitt, J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100602.

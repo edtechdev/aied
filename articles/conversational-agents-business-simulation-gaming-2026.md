@@ -10,10 +10,6 @@ level: [higher ed]
 sources: ["raw/papers/conversational-agents-business-simulation-gaming-2026.md"]
 ---
 
-## Citation
-
-[Designing Conversational Agents for Adaptive Instructional Support in Business Simulation Gaming](https://www.sciencedirect.com/science/article/pii/S2666920X2600038X) — Wenzel, A., Geiger, J.-M., & Liening, A. (2026). *Computers and Education: Artificial Intelligence*, 10, 100576.
-
 ## Overview
 
 Wenzel, Geiger, and Liening use [[design-based-research|Action Design Research]] to design, build, and evaluate "Lara," an AI-enhanced [[conversational-ai|conversational agent]] that provides adaptive instructional support within [[game-based-learning|business simulation games]] (BSGs) for entrepreneurial learning. Grounded in educational psychology and information systems [[research-methods-aied|research]] — spanning [[cognitive-offloading|cognitive load]], [[self-determination-theory|self-determination]], emotion, and social presence theories — the study produces the CAIS-GBL framework (four design principles, fifteen design features) instantiated in Lara and evaluated across two build–intervention–evaluation cycles. The design is deliberately framed by an equity-by-design stance and the [[universal-design-for-learning|Universal Design for Learning]] (UDL) principles, aiming to provide [[adaptive-learning|adaptive]] support that removes learning barriers rather than reinforcing [[digital-divide|educational disparities]].
@@ -34,7 +30,7 @@ Wenzel, Geiger, and Liening use [[design-based-research|Action Design Research]]
 - **Embed equity safeguards into CA architecture**, such as grounding feedback exclusively in in-game performance metrics, minimizing personal data, and providing transparent, contestable support to reduce bias risk.
 - **Operationalize adaptive support at scale in resource-constrained settings**, using in-game metrics to deliver timely [[feedback]] and [[scaffolding]] without requiring one-to-one human support.
 
-## Related Concepts
+## Connected Concepts
 
 - [[conversational-ai]]
 - [[game-based-learning]]
@@ -46,7 +42,11 @@ Wenzel, Geiger, and Liening use [[design-based-research|Action Design Research]]
 
 ## Connected Articles
 
-- [ai-enabled-serious-games] — AI and adaptivity in serious games for training
-- [conversational-agents-novice-programmers-scoping-2025] — conversational agents and design grounding in learning theory
-- [ludia-udl-ai-thought-partner-2026] — UDL-aligned AI tool design and equity-by-design
-- [adaptive-ai-scaffold-collaborative-problem-solving-2026] — adaptive AI scaffolding for collaborative problem solving
+- [[ai-enabled-serious-games]] — AI and adaptivity in serious games for training
+- [[conversational-agents-novice-programmers-scoping-2025]] — conversational agents and design grounding in learning theory
+- [[ludia-udl-ai-thought-partner-2026]] — UDL-aligned AI tool design and equity-by-design
+- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — adaptive AI scaffolding for collaborative problem solving
+
+## Citation
+
+[Designing Conversational Agents for Adaptive Instructional Support in Business Simulation Gaming](https://www.sciencedirect.com/science/article/pii/S2666920X2600038X) — Wenzel, A., Geiger, J.-M., & Liening, A. (2026). *Computers and Education: Artificial Intelligence*, 10, 100576.

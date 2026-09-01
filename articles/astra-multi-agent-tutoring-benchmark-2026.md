@@ -7,10 +7,6 @@ sources: ["raw/papers/astra-multi-agent-tutoring-benchmark-2026.md"]
 tags: ["simulation", "agentic-ai", "learning-analytics", "collaborative-learning", "benchmark"]
 ---
 
-## Citation
-
-[ASTRA: A synthetic [[benchmark]] for trace-based evaluation of socially intelligent multi-agent tutoring and participation-balanced collaboration in introductory programming](https://doi.org/10.1016/j.caeai.2026.100633) — Oyelere, S. S. (2026). *Computers and Education: Artificial Intelligence*, 11, 100633.
-
 ## Overview
 
 Oyelere introduces **ASTRA (Adaptive Socially-intelligent Team Reasoning Agents)**, a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated [[agentic-ai|AI agents]]. Because research-participant access was not yet available, the paper releases an open **synthetic benchmark dataset** that mirrors ASTRA's logging schema and a prespecified between-subjects design (N = 540 participants; 360 sessions; 1,440 task episodes) across a bank of 20 short Python programming tasks. ASTRA supports three collaboration configurations: *alone_tutor* (one learner with a Tutor agent), *pair_tutor* (two learners with a Tutor agent), and *pair_multiagent* (two learners with both Tutor and Facilitator agents, where the Facilitator prompts coordination and balanced participation).
@@ -34,7 +30,7 @@ The benchmark is deliberately positioned as **simulated evidence for benchmarkin
 - **A sandbox for method development.** [[research-methods-aied|Researchers]] and learning-analytics scholars can use the synthetic dataset to develop, test, and compare trace-based evaluation pipelines, imbalance metrics, and verification-focused analytics before resource-intensive [[human-in-the-loop-ai|human-in-the-loop]] deployments.
 - **Not yet a classroom intervention.** ASTRA is explicitly framed as a research and development benchmark, not a validated classroom intervention; [[teacher-role|educators]] may use the task bank, logging schema, and prototype as the basis for ethics-approved pilots, with validation (expert review, lab pilots, classroom pilots, multi-site studies) still required.
 
-## Related Concepts
+## Connected Concepts
 
 - [[simulation]]
 - [[agentic-ai]]
@@ -49,6 +45,10 @@ The benchmark is deliberately positioned as **simulated evidence for benchmarkin
 
 ## Connected Articles
 
-- [agentschool-multi-agent-simulation-education-2026] — an LLM-powered multi-agent simulation that models learning as state transition for validating educational AI before deployment
-- [llm-agents-collaborative-problem-solving-simulation-2026] — simulating collaborative problem solving with participant-specific LLM agents and trace-level validation
-- [llm-facilitation-timing-online-discussions] — the timing of AI facilitation in online discussions, parallel to ASTRA's Facilitator role prompting balanced participation
+- [[agentschool-multi-agent-simulation-education-2026]] — an LLM-powered multi-agent simulation that models learning as state transition for validating educational AI before deployment
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — simulating collaborative problem solving with participant-specific LLM agents and trace-level validation
+- [[llm-facilitation-timing-online-discussions]] — the timing of AI facilitation in online discussions, parallel to ASTRA's Facilitator role prompting balanced participation
+
+## Citation
+
+[ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring and participation-balanced collaboration in introductory programming](https://doi.org/10.1016/j.caeai.2026.100633) — Oyelere, S. S. (2026). *Computers and Education: Artificial Intelligence*, 11, 100633.

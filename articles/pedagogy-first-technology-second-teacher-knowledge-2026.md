@@ -7,10 +7,6 @@ sources: ["raw/papers/pedagogy-first-technology-second-teacher-knowledge-2026.md
 tags: ["teacher-professional-knowledge", "tpack", "k-12", "social-cognitive-theory", "multilevel-modeling", "ai-education", "pedagogy"]
 ---
 
-## Citation
-
-[Pedagogy first, technology second: Cross-level relationships between teacher professional knowledge and student learning in artificial intelligence (AI) education](https://www.sciencedirect.com/science/article/pii/S2666920X26000263) — Shen, W., Chai, C.-S., Chiu, T. K. F., Yau, K. W., Meng, H., King, I., Wong, S., & Yam, Y. (2026). *Computers and Education: Artificial Intelligence*, 10, 100564.
-
 ## Overview
 
 Shen and colleagues examine how teacher professional knowledge shapes student learning in K-12 AI education, drawing on social cognitive theory and the [[tpack|TPACK]] framework. Using a multilevel structural equation model, they analyzed data from **46 secondary school [[teacher-role|teachers]] and 2,832 students** to test cross-level effects of two knowledge components: teacher AI knowledge (TAIK, the technological/technical side) and teacher pedagogical AI knowledge (TPAIK, the pedagogical side).
@@ -28,7 +24,7 @@ Shen and colleagues examine how teacher professional knowledge shapes student le
 - **For [[educational-development|professional development]]:** PD programs should treat pedagogical AI knowledge as the priority lever for influencing student perceptions and intentions.
 - **For school leaders and [[ai-education|AI curriculum]] designers:** building teachers' pedagogical capacity matters more than equipment or technical training for fostering [[student-engagement|student engagement]] with AI.
 
-## Related Concepts
+## Connected Concepts
 
 - [[tpack]]
 - [[teacher-ai-competency]]
@@ -39,7 +35,11 @@ Shen and colleagues examine how teacher professional knowledge shapes student le
 
 ## Connected Articles
 
-- [tpack-genai-inservice-teachers-mediation-2026] — in-service teachers' TPACK-GenAI and pedagogical mediation (Mohebi & ElSayary 2026)
-- [preservice-teachers-responsible-genai-2026] — pre-service teacher preparation for responsible GenAI use (Kohnke et al. 2026)
-- [stanford-evidence-base-ai-k12-2026] — evidence base for K-12 AI education
-- [school-ai-education-readiness-gaps-agency-2026] — school AI-education readiness gaps and teacher agency
+- [[tpack-genai-inservice-teachers-mediation-2026]] — in-service teachers' TPACK-GenAI and pedagogical mediation (Mohebi & ElSayary 2026)
+- [[preservice-teachers-responsible-genai-2026]] — pre-service teacher preparation for responsible GenAI use (Kohnke et al. 2026)
+- [[stanford-evidence-base-ai-k12-2026]] — evidence base for K-12 AI education
+- [[school-ai-education-readiness-gaps-agency-2026]] — school AI-education readiness gaps and teacher agency
+
+## Citation
+
+[Pedagogy first, technology second: Cross-level relationships between teacher professional knowledge and student learning in artificial intelligence (AI) education](https://www.sciencedirect.com/science/article/pii/S2666920X26000263) — Shen, W., Chai, C.-S., Chiu, T. K. F., Yau, K. W., Meng, H., King, I., Wong, S., & Yam, Y. (2026). *Computers and Education: Artificial Intelligence*, 10, 100564.

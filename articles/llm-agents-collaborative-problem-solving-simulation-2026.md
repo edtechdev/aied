@@ -7,10 +7,6 @@ sources: ["raw/papers/llm-agents-collaborative-problem-solving-simulation-2026.m
 tags: ["llm", "agentic-ai", "problem-solving", "network-analysis", "simulating-students", "learning-analytics"]
 ---
 
-## Citation
-
-[Modelling individual participants as LLM agents in collaborative problem solving simulations](https://www.sciencedirect.com/science/article/pii/S2666920X2600055X) — Fang, Z. (2026). *Computers and Education: Artificial Intelligence*, 10, 100593.
-
 ## Overview
 
 Fang presents a framework for simulating [[problem-solving|collaborative problem solving]] (CPS) by fine-tuning large language model (LLM) agents to represent individual human participants. Each agent is personalised on real participant dialogue via parameter-efficient fine-tuning (LoRA/QLoRA) of the [[open-source]] LLaMA 3.2–3B model, capturing individual speaking style and thematic patterns, and the agents then interact in decentralised multi-agent dialogues with a memory mechanism and probabilistic turn-taking. The fidelity of these [[simulating-students|simulations]] is validated with [[network-analysis|Epistemic Network Analysis]] (ENA), a [[learning-analytics|learning-analytics]] tool that compares the structural co-occurrence of thematic codes between real and simulated dialogues, demonstrating that participant-specific [[agentic-ai|LLM agents]] can reproduce realistic collaborative discourse.
@@ -31,7 +27,7 @@ Fang presents a framework for simulating [[problem-solving|collaborative problem
 - **Controlled counterfactual [[research-methods-aied|research]]** — replacing individual agent parameters enables questions impossible with observational data alone, such as how a stronger tendency toward data-referencing in one participant changes team discourse, isolating causal effects of communicative behaviours.
 - **Synthetic data for [[learning-analytics|NLP and analytics]]** — the framework can generate large volumes of structurally valid synthetic CPS dialogue for pre-training or data augmentation, reducing dependence on scarce, expensive human-annotated corpora.
 
-## Related Concepts
+## Connected Concepts
 
 - [[problem-solving]]
 - [[agentic-ai]]
@@ -43,7 +39,11 @@ Fang presents a framework for simulating [[problem-solving|collaborative problem
 
 ## Connected Articles
 
-- [llm-agents-5e-esl-grammar-2026] — LLM-based agents designed to support learners, here for ESL grammar acquisition
-- [student-ai-conversations-cognitive-engagement-2026] — student–AI conversations as process-level signals of cognitive engagement
-- [conversational-agents-business-simulation-gaming-2026] — conversational agents providing adaptive instructional support within simulation-based learning
-- [self-directed-growth-generative-ai-learning-analytics] — a learning-analytics framework for generative AI in self-directed learning
+- [[llm-agents-5e-esl-grammar-2026]] — LLM-based agents designed to support learners, here for ESL grammar acquisition
+- [[student-ai-conversations-cognitive-engagement-2026]] — student–AI conversations as process-level signals of cognitive engagement
+- [[conversational-agents-business-simulation-gaming-2026]] — conversational agents providing adaptive instructional support within simulation-based learning
+- [[self-directed-growth-generative-ai-learning-analytics]] — a learning-analytics framework for generative AI in self-directed learning
+
+## Citation
+
+[Modelling individual participants as LLM agents in collaborative problem solving simulations](https://www.sciencedirect.com/science/article/pii/S2666920X2600055X) — Fang, Z. (2026). *Computers and Education: Artificial Intelligence*, 10, 100593.

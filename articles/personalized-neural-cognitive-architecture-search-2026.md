@@ -7,10 +7,6 @@ sources: ["raw/papers/personalized-neural-cognitive-architecture-search-2026.md"
 tags: ["personalized-learning", "educational-measurement", "adaptive-learning", "learning-analytics", "cognitive-diagnosis"]
 ---
 
-## Citation
-
-[Personalized neural cognitive architecture search](https://doi.org/10.1016/j.caeai.2026.100620) — Jia, L., & Dong, K. (2026). *Computers and Education: Artificial Intelligence*, 11, 100620.
-
 ## Overview
 
 Jia and Dong propose an AutoML-driven framework for automated generation of personalized neural [[cognitive-diagnosis|cognitive diagnosis]] models, addressing the difficulty of turning large-scale, multi-source learning-process data into valid diagnostic evidence for heterogeneous learner profiles. The framework connects three [[ai-technologies|technologies]]: heterogeneous information network (HIN) representation to fuse [[multimodal|multi-modal]] educational data into dynamic learner profiles, a hierarchical neural architecture search (NAS) space constrained by the functional structure of cognitive diagnosis, and differentiable architecture search accelerated by a variational Bayesian performance predictor. In their taxonomy, [[student-modeling|learner modeling]] supplies the representational foundation, cognitive diagnosis infers mastery states and [[misconceptions]], while recommendation and [[teacher-role|teaching]] quality monitoring are treated as downstream applications rather than optimization targets.
@@ -36,7 +32,7 @@ The system was evaluated on a proprietary [[governance|institutional]] dataset o
 - AutoML lowers the technical threshold for building diagnostic models, reducing dependence on expert hand-tuning and manual architecture design across diverse educational scenarios.
 - The distinction between learner modeling, cognitive diagnosis, recommendation, and quality monitoring cautions practitioners against treating diagnostic accuracy as equivalent to recommendation or evaluation systems, which need their own downstream integration.
 
-## Related Concepts
+## Connected Concepts
 
 - [[cognitive-diagnosis|cognitive diagnosis]]
 - [[knowledge-tracing|knowledge tracing]]
@@ -49,7 +45,11 @@ The system was evaluated on a proprietary [[governance|institutional]] dataset o
 
 ## Connected Articles
 
-- [bayesian-cognitive-diagnosis-personalized-learning-paths](bayesian-cognitive-diagnosis-personalized-learning-paths.md) — Another cognitive diagnosis study; where that work uses Bayesian psychometric models for learning-path planning, this one automates diagnostic model architecture via AutoML/NAS.
-- [mbp-kt-meta-behavioral-knowledge-tracing](mbp-kt-meta-behavioral-knowledge-tracing.md) — Shares the focus on incorporating behavioral learning-process data into learner-state modeling for diagnosis and tracking.
-- [neural-symbolic-knowledge-tracing](neural-symbolic-knowledge-tracing.md) — Adjacent work on interpretable neural models of knowledge state, relevant to the interpretability goals of the diagnostic outputs here.
-- [cognitive-load-transfer-knowledge-tracing-2026](cognitive-load-transfer-knowledge-tracing-2026.md) — Related effort connecting cognitive constructs to predictive learning models, complementing this framework's education-constrained search space.
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Another cognitive diagnosis study; where that work uses Bayesian psychometric models for learning-path planning, this one automates diagnostic model architecture via AutoML/NAS.
+- [[mbp-kt-meta-behavioral-knowledge-tracing]] — Shares the focus on incorporating behavioral learning-process data into learner-state modeling for diagnosis and tracking.
+- [[neural-symbolic-knowledge-tracing]] — Adjacent work on interpretable neural models of knowledge state, relevant to the interpretability goals of the diagnostic outputs here.
+- [[cognitive-load-transfer-knowledge-tracing-2026]] — Related effort connecting cognitive constructs to predictive learning models, complementing this framework's education-constrained search space.
+
+## Citation
+
+[Personalized neural cognitive architecture search](https://doi.org/10.1016/j.caeai.2026.100620) — Jia, L., & Dong, K. (2026). *Computers and Education: Artificial Intelligence*, 11, 100620.

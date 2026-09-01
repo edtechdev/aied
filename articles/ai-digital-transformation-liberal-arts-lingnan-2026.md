@@ -7,10 +7,6 @@ sources: ["raw/papers/ai-digital-transformation-liberal-arts-lingnan-2026.md"]
 tags: ["higher-ed", "generative-ai", "human-in-the-loop-ai", "humanities-education", "change-management", "curriculum-design"]
 ---
 
-## Citation
-
-[AI for education: The digital transformation of a liberal arts institution – implementation at Lingnan University](https://www.sciencedirect.com/science/article/pii/S2666920X26000548) — Qin, S. J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100592.
-
 ## Overview
 
 Qin offers a position paper and [[governance|institutional]] case analysis of how Lingnan University — Hong Kong's longest-established [[higher-ed|higher education]] institution — is strategically transforming itself into a "[[research-methods-aied|Research]]-Intensive Liberal Arts Institution in the Digital Era" without relinquishing its [[humanities-education|humanistic]] foundations. Framed through sociotechnical systems (STS) theory, the analysis spans four interrelated dimensions: upgrading [[ai-education|instructional practice]] through AI, prioritizing irreplaceable human competencies, renewing [[curriculum-design|curricula]], and retaining [[ethics|ethical]] and cultural value systems. The paper argues that the [[generative-ai|GenAI]] revolution constitutes an intellectual rather than a technocentric transformation, positioning digital fluency as a core liberal arts competency and proposing a [[human-in-the-loop-ai|human-in-the-loop]] educational model as a blueprint for harmonizing technological innovation with enduring moral and intellectual aims.
@@ -31,7 +27,7 @@ Qin offers a position paper and [[governance|institutional]] case analysis of ho
 - **Prioritize [[human-in-the-loop-ai|human-in-the-loop]] models and irreplaceable human skills** — critical auditing of AI output, empathy, and service leadership — to safeguard against technocentric drift in [[change-management|institutional transformation]].
 - **Align technical infrastructure with cultural and value-based safeguards** rooted in institutional heritage, so that [[curriculum-design|curriculum]] and infrastructure investments serve humanistic aims rather than displace them.
 
-## Related Concepts
+## Connected Concepts
 
 - [[higher-ed]]
 - [[humanities-education]]
@@ -42,6 +38,10 @@ Qin offers a position paper and [[governance|institutional]] case analysis of ho
 
 ## Connected Articles
 
-- [mishra-control-vs-agency-history-2025] — historical "control vs. agency" framing of AI transformation in education (Mishra, Henriksen, Woo & Oster 2025)
-- [fawns-entangled-pedagogy-genai-students-2026] — qualitative entangled-pedagogy analysis of how higher-ed students negotiate generative AI in their lived realities (Fawns et al. 2026)
-- [your-brain-on-chatgpt-cognitive-debt-essay-writing] — neural evidence of "cognitive debt" from GenAI-assisted essay writing in higher education (Kosmyna et al. 2025)
+- [[mishra-control-vs-agency-history-2025]] — historical "control vs. agency" framing of AI transformation in education (Mishra, Henriksen, Woo & Oster 2025)
+- [[fawns-entangled-pedagogy-genai-students-2026]] — qualitative entangled-pedagogy analysis of how higher-ed students negotiate generative AI in their lived realities (Fawns et al. 2026)
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neural evidence of "cognitive debt" from GenAI-assisted essay writing in higher education (Kosmyna et al. 2025)
+
+## Citation
+
+[AI for education: The digital transformation of a liberal arts institution – implementation at Lingnan University](https://www.sciencedirect.com/science/article/pii/S2666920X26000548) — Qin, S. J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100592.
