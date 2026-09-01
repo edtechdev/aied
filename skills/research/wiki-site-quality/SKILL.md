@@ -318,6 +318,14 @@ tr:nth-child(even) { background: rgba(0,0,0,0.02); }
 - **Public repo privacy**: README.md and config files committed to public GitHub repos must not contain local filesystem paths (`/home/user/...`), cron job IDs, or machine hostnames. Use relative paths and generic descriptions instead.
 - **Tag/slug collision**: When a concept page slug is used as a tag on other pages (e.g., `agentic-workflows-education` as a tag), the tag page HTML and the article page HTML have the same path, causing confusion. Audit tags for page-slug values and replace them with concept-level tags (e.g., replace `agentic-workflows-education` tag with `agentic-ai`).
 
+## Keep AGENTS.md in sync with the canonical skills
+
+The repo's `AGENTS.md` is the public-facing agent instruction file for anyone building a similar wiki, and its page-structure templates + editorial rules DRIFT from the canonical skills (`research-wiki`, etc.). When you codify a new editorial rule or the required page structure changes, audit `AGENTS.md` in the same change — otherwise a future agent/cron follows the stale template.
+
+Observed 2026-09-01: `AGENTS.md`'s concept template still said "exactly 4 sections" and omitted the two REQUIRED sections every real concept page has — `## Questions to Consider` (2-7 open pre-reading questions, one contiguous bulleted list) and `## Introduction`. It also carried the weak "not just its Connected Articles list" enrichment wording instead of the **NARRATIVE INTEGRATION, never append-only** rule (weave into the thematically-appropriate EXISTING section; never a standalone `##`/`###` section floating between body and `## Connected Concepts`; full rewrite only for genuinely major contributions).
+
+Canonical concept-page structure to verify against: synthesis blockquote → `## Questions to Consider` → `## Introduction` → narrative body → `## Connected Concepts` → `## Connected Articles`. See `references/agents-md-structure-audit-2026-09-01.md`.
+
 ## Verification
 
 1. `grep -c '<h1>' pages/*.html` -- every page should have exactly 1
