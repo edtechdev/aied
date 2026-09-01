@@ -240,7 +240,9 @@ const recentConceptItems = recentConcepts.map(c => ({
       align-items: center;
       justify-content: center;
       background: color-mix(in srgb, var(--primary) 14%, transparent);
-      color: #fff;
+      /* Use the body text color so the hamburger lines are light in dark mode
+         and dark (visible black) in light mode — not hardcoded white. */
+      color: var(--color);
       border: 1px solid var(--primary);
       border-radius: 8px;
       width: 2.6rem;
@@ -248,6 +250,9 @@ const recentConceptItems = recentConcepts.map(c => ({
       cursor: pointer;
       flex-shrink: 0;
       padding: 0;
+      /* Pico gives bare <button> a bottom margin (0 0 18px); zero it so the
+         hamburger sits on the same center line as the logo and icon buttons. */
+      margin: 0;
     }
     .nav-toggle:hover,
     .nav-toggle:focus-visible {
@@ -291,6 +296,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       display: inline-flex;
       align-items: center;
       justify-content: center;
+      line-height: 1;
       /* Match the hamburger button exactly — same size, no Pico nav-link
          margins (which otherwise offset these from the row). */
       width: 2.6rem;
@@ -377,24 +383,44 @@ const recentConceptItems = recentConcepts.map(c => ({
        reachable via the Search icon. With the label and search row gone there
        is room to grow the logo and icon buttons up to match the hamburger. */
     @media (max-width: 640px) {
+      /* Single tight row. Use flex (flex-start, nowrap) so the logo and icon
+         buttons hug each other with a small gap. The old grid used an empty
+         1fr middle track that stretched to spread the icons apart — creating
+         both the large logo-to-buttons gap AND pushing the theme button off
+         the right edge on narrow Firefox mobile. No spreading track now. */
       header .container {
-        display: grid;
-        grid-template-columns: auto 1fr auto;
-        column-gap: 0.5rem;
+        display: flex;
+        flex-wrap: nowrap;
         align-items: center;
+        justify-content: flex-start;
+        gap: 0.25rem;
+        /* Shrink the container's side padding on narrow screens so all header
+           controls (hamburger + logo + 5 icons) fit without the theme button
+           running off the right edge. */
+        padding-inline: 0.5rem;
       }
-      .header-left { grid-column: 1; }
-      .header-icons { grid-column: 3; justify-self: end; }
+      .header-left,
+      .header-icons {
+        flex: 0 0 auto;
+        align-self: center;
+      }
+      .header-icons { gap: 0.25rem; }
       /* No search box on mobile — drop the second row entirely. */
       .header-search { display: none; }
       /* Hide the two least-essential icons (RSS feed + GitHub repo). */
       .header-icons .header-icon[title="RSS feed"],
       .header-icons .header-icon[title="GitHub repository"] { display: none; }
-      /* Grow the logo and icon buttons to match the hamburger's size. */
+      /* The logo's own dark SVG square (#0d1418) blends into the dark header
+         (#15212b), so only the sparse light-blue dots were visible and the
+         logo read as tiny. Give it a visible background + border so it reads
+         as a full-size square matching the buttons. */
       .brand-link img {
         width: 2.6rem;
         height: 2.6rem;
-        margin-right: 0.5rem;
+        margin-right: 0.15rem;
+        border-radius: 8px;
+        background: var(--search-bg);
+        border: 1px solid var(--muted-border-color);
       }
       .header-icon,
       button.theme-toggle,
@@ -833,7 +859,7 @@ const recentConceptItems = recentConcepts.map(c => ({
           </svg>
         </button>
         <a href={`${siteConfig.basePath}/`} class="brand-link">
-          <img src={`${siteConfig.basePath}/logo.svg`} alt={`${siteConfig.brandName} logo`} width="28" height="28" style="display:inline-block;vertical-align:middle;margin-right:0.5rem;" />
+          <img src={`${siteConfig.basePath}/logo.svg`} alt={`${siteConfig.brandName} logo`} width="28" height="28" style="display:inline-block;vertical-align:middle;" />
           <span class="brand-full">{siteConfig.brandName}</span>
           <span class="brand-short">{siteConfig.shortName}</span>
         </a>
