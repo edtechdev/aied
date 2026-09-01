@@ -1,7 +1,7 @@
 ---
 title: Cognitive Diagnosis
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [student-modeling, educational-measurement, knowledge-tracing, assessment, intelligent-tutoring, learning-analytics, psychometrically-aware-ai]
 research_method: [educational measurement]
@@ -27,7 +27,7 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 
 - **Diagnostic models:** psychometric models (often under [[item-response-theory]] and [[educational-measurement]]) infer latent skill states from patterns of correct and incorrect responses, sometimes via cognitive-diagnosis models that map items to multiple knowledge components.
 - **Response data:** diagnosis draws on responses to assessments, hints, [[help-seeking]], and time-on-task — richer signals than raw scores.
-- **LLM-based diagnosis:** newer approaches use [[llm|large language models]] to diagnose from open-ended or handwritten work, and to identify the specific [[misconceptions|misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
+- **LLM-based diagnosis:** newer approaches use [[llm|large language models]] to diagnose from open-ended or handwritten work, and to identify the specific [[misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
 
 #
 - **Bayesian DINA for personalized learning paths:** [[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng and Huang (2026)]] integrate a Bayesian DINA model (trained on the EdNet dataset, N=5,000) with knowledge space theory and a shortest-remediation-path algorithm to generate personalized learning paths, and empirically test the mediating role of [[cognitive-offloading|cognitive load]] via Hidden Markov Model state transitions (validated on 120 students) — addressing both the sparsity-driven convergence problem of traditional DINA models and the untested psychological mechanism behind personalized-path effectiveness.
@@ -41,13 +41,17 @@ Accurate diagnosis lets instruction target the actual gaps rather than a global 
 Cognitive diagnosis sits at the heart of the [[intelligent-tutoring]] architecture and is the assessment-side counterpart of [[knowledge-tracing]]:
 
 - **Diagnosis vs. tracing — complementary temporal views.** [[knowledge-tracing|Knowledge tracing]] tracks the *temporal dynamics* of mastery — estimating how a scalar knowledge state evolves across exercises and predicting the next response. Cognitive diagnosis produces the *static, fine-grained snapshot* of which knowledge components, skills, or misconceptions a learner currently holds. A tutor needs both: knowledge tracing to sequence what to teach next, cognitive diagnosis to know *what* is actually wrong. [[item-response-theory|IRT]]- and [[educational-measurement|measurement]]-based diagnostic models, and cognitive-diagnosis models that map items to multiple components, instantiate the diagnostic side.
-- **Diagnosis feeds the tutor's decision loop.** In a classic ITS (and modern LLM tutors), the diagnostic layer determines the pedagogical action: which [[scaffolding|hint]], which problem, which explanation. Without a reliable diagnosis, the tutor "responds fluently but blindly" — [[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]] shows tutoring quality depends on how the agent diagnoses from simulated learners grounded in knowledge tracing, and [[huang-interpretable-knowledge-tracing-2026|interpretable knowledge tracing]] argues for making this diagnostic reasoning auditable.
-- **LLM-era diagnosis.** [[llm|LLMs]] extend diagnosis from multiple-choice responses to open-ended, handwritten, and conversational work, identifying the specific [[misconceptions|misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning). [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept-tree construction and hierarchical proficiency inference, bridging diagnosis and tracing.
+- **Diagnosis feeds the tutor's decision loop.** In a classic ITS (and modern LLM tutors), the diagnostic layer determines the [[pedagogy|pedagogical]] action: which [[scaffolding|hint]], which problem, which explanation. Without a reliable diagnosis, the tutor "responds fluently but blindly" — [[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]] shows tutoring quality depends on how the agent diagnoses from simulated learners grounded in knowledge tracing, and [[huang-interpretable-knowledge-tracing-2026|interpretable knowledge tracing]] argues for making this diagnostic reasoning auditable.
+- **LLM-era diagnosis.** [[llm|LLMs]] extend diagnosis from multiple-choice responses to open-ended, handwritten, and conversational work, identifying the specific [[misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning). [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept-tree construction and hierarchical proficiency inference, bridging diagnosis and tracing.
 - **Separating diagnosis from feedback is a design principle.** LLM tutors reliably confirm correct steps but over-reject valid reasoning and over-validate errors — and accurate diagnosis does not reliably yield actionable [[feedback]]. ITS design should therefore separate a diagnostic component from the feedback/scaffolding component ([[yasir-llm-tutoring-agents-2026]]).
 
 ### Connections
 
 Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]], and [[assessment]]. Its insights feed [[intelligent-tutoring]] and [[adaptive-learning]], and LLM-era work links it to misconception identification in [[intelligent-tutoring|AI Tutoring]].
+
+### AutoML-Driven Cognitive Diagnosis
+
+- Existing [[teacher-role|teaching]]-quality evaluation systems rely mainly on static examination outcomes and simple statistical indicators. An [[machine-learning|AutoML]]-driven personalized neural cognitive architecture search framework generates diagnostic models for heterogeneous learner profiles, integrating [[multimodal|multi-modal]] educational data to enable dynamic analysis of learning processes and cognitive diagnosis of individual learners.
 
 ## Connected Concepts
 
@@ -82,4 +86,4 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
-
+- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles

@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [trust, ai-literacy, educational-robotics, human-ai-collaboration, critical-thinking, intelligent-tutoring]
 confidence: high
@@ -36,7 +36,11 @@ Feedback is a key site of interpersonal trust. [[genai-teacher-feedback-comparis
 
 ## Calibration and the two domains together
 
-The unifying challenge is **calibration**: matching trust to actual reliability, whether the trusted party is a model or a person. [[trust-calibration]] is the [[metacognition|metacognitive]] capacity to know when to trust and when to question. Studies of AI [[feedback]] and [[intelligent-tutoring]] examine when learners appropriately rely on or challenge AI guidance, while the interpersonal literature shows that students' trust in an instructor depends on relational trust built over time. As AI becomes embedded in teaching, these domains converge: an instructor who transparently explains what an AI tool can and cannot do, and who demonstrates reliability in their own judgment, builds the kind of trust that carries over to the tools they endorse. Building appropriate trust — in both AI and in each other — is a core goal of responsible AI design in education.
+The unifying challenge is **calibration**: matching trust to actual reliability, whether the trusted party is a model or a person. [[trust-calibration]] is the [[metacognition|metacognitive]] capacity to know when to trust and when to question. Studies of AI [[feedback]] and [[intelligent-tutoring]] examine when learners appropriately rely on or challenge AI guidance, while the interpersonal literature shows that students' trust in an instructor depends on relational trust built over time. As AI becomes embedded in [[teacher-role|teaching]], these domains converge: an instructor who transparently explains what an AI tool can and cannot do, and who demonstrates reliability in their own judgment, builds the kind of trust that carries over to the tools they endorse. Building appropriate trust — in both AI and in each other — is a core goal of responsible AI design in education.
+
+### Skeptical Users and Commercial AI
+
+- When staff skeptical of AI adoption consult [[conversational-ai|conversational AI]] — built by organizations with a commercial stake in adoption — there is a risk the system is predisposed to encourage it. An audit of ten frontier models found most acknowledged a rural [[k-12]] staff member's concerns (job threat, being 'not for people like me') before redirecting toward engagement. This challenges naive reliance on trust and underscores the importance of [[human-in-the-loop-ai|human oversight]] and independent [[ai-ed-evaluation|evaluation of AI]] advice.
 
 ## Connected Concepts
 
@@ -73,3 +77,4 @@ The unifying challenge is **calibration**: matching trust to actual reliability,
 - [[bassett-ai-detectors-education-2026]] — Trust and distrust of AI detection systems
 
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
+- [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff

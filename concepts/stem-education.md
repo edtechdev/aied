@@ -1,7 +1,7 @@
 ---
 title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 discipline: [cs education, math education, physics education]
@@ -65,6 +65,10 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 
 - **AI-powered information extraction for STEM theses.** An and colleagues (2026) pilot an AI system that converts research publications into structured, comparable datasets for undergraduate thesis completion across four STEM schools. Results (20 students, 80 documents) showed >90% extraction of experimental parameters, ~65% reduction in literature-review time, and a 50% increase in students' ability to identify influential experimental variables — evidence of how [[generative-ai|AI]]-scaffolded [[higher-ed|undergraduate research]] can strengthen research literacy and epistemic cognition in STEM education.
 
+### Teacher-AI Co-Designed Simulations in STEM
+
+- In drone-based STEM education, teacher-AI co-designed [[simulation]] scaffolds were evaluated against an identical hands-on [[curriculum-design|curriculum]] with 30 secondary students, testing whether simulation-supported instruction yields superior [[learning-gains|learning outcomes]]. GenAI's role was to accelerate content creation while teacher involvement preserved pedagogical validity and contextual relevance.
+
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
@@ -111,3 +115,4 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[astor-computational-thinking-meta-review-2026]] — CT as a 21st-century skill across STEM
 
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
+- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds

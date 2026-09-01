@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing, ai-literacy]
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
@@ -86,6 +86,10 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 
 - **Validated AI [[project-based-learning|project-based learning]] scale (AI-PBLS).** Zhu and Kong (2026) develop and validate a context-grounded scale measuring students' perceptions of project-based learning when using AI for [[problem-solving|problem solving]] in AI literacy courses, using exploratory and confirmatory factor analysis on data from 1,027 secondary and university students (446 complete). The scale offers [[research-methods-aied|researchers]] a robust instrument for assessing perceived PBL experiences in AI applications, and its SEM application demonstrates how empowerment and ethical awareness mediate PBL-to-satisfaction relationships.
 
+### Automating and Standardising Assessment
+
+- Automated measurement is advancing in multiple directions: [[prompt-engineering|context-aware prompting]] automates coding of [[collaborative-learning|collaborative problem-solving]] skills from process data, enabling large-scale assessment; and psychometric instruments such as the Teachers' AI Literacy Scale (TAILS) formalise the measurement of educator AI literacy across six framework-derived dimensions, validated with factor analysis.
+
 ## Connected Concepts
 
 - [[item-response-theory]]
@@ -131,3 +135,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
+- [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
+- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
+- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
+- [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)

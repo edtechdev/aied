@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, educational-development, student-experience, academic-integrity]
 audience: [learners, instructors, faculty development, administrator]
@@ -53,6 +53,10 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 ## Digital Transformation of a Liberal Arts University
 
 - **Digital transformation of a liberal arts university.** Qin (2026) documents Lingnan University's repositioning as a \"Research-Intensive Liberal Arts Institution in the Digital Era,\" mandating GenAI literacy for all undergraduates and embedding digital literacy across the Common Core while developing a human-in-the-loop model that foregrounds [[ethics|ethical]] reasoning and critical judgment. It argues the AI-for-education shift is an intellectual transformation, not technocentric augmentation — a concrete institutional blueprint for [[humanities-education|liberal arts]] and other higher education institutions navigating [[generative-ai|GenAI]].
+
+### PBL, Digital Storytelling and AI in Higher Education
+
+- In higher education, generative AI challenges art and design education to reaffirm the value of human [[creativity]]. A [[project-based-learning|project-based learning]] model with [[storytelling-in-education|digital storytelling]] at its core cultivated emotional, cultural, and narrative capacities that AI lacks, evaluated through a 15-week embedded case study with 426 Chinese undergraduates who translated local cultural heritage into [[multimodal]] narratives. Separately, an exploratory ML approach using SHAP analysis examined how students' perceptions and demographics relate to intended academic ChatGPT use.
 
 ## Connected Concepts
 
@@ -138,3 +142,5 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
+- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
+- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era

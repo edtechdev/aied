@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
@@ -27,7 +27,7 @@ confidence: high
 ## How AI transforms teaching
 
 - **From instructor to orchestrator:** [[teacher-ai-teaming-five-levels|Five levels of teacher-AI teaming]] and [[teacher-student-agency-orchestration|agency orchestration research]] map the spectrum from AI as tool to AI as teaching partner. At the far end, the teacher orchestrates a team that includes human learners, [[intelligent-tutoring|AI tutors]], and curriculum resources rather than delivering all content themselves.
-- **Workflow transformation:** [[ai-changing-teaching-workflows]] documents how AI shifts teacher time from content delivery to higher-value activities like individual support, [[feedback|feedback]], and [[curriculum-design|curriculum design]]. The teacher's scarcest resource — attention — is reallocated from producing materials to interpreting learners.
+- **Workflow transformation:** [[ai-changing-teaching-workflows]] documents how AI shifts teacher time from content delivery to higher-value activities like individual support, [[feedback]], and [[curriculum-design|curriculum design]]. The teacher's scarcest resource — attention — is reallocated from producing materials to interpreting learners.
 - **Competency demands:** [[teacher-ai-competency|Teacher AI competency frameworks]] define what educators need to know, from basic tool fluency to pedagogically grounded orchestration. [[teacher-ai-adoption-confidence|Adoption studies]] identify the real barriers: confidence, [[governance|institutional]] support, and workload concerns.
 - **Co-design and agency:** [[teacher-authored-prompts-student-ai-dialogue|Teacher-authored prompts]] and [[gaide-vibe-coding-k12-teachers|vibe coding for teachers]] show educators as active AI designers, not passive consumers — writing the prompts and scaffolds that shape how AI behaves for their students.
 - **[[teacher-education|Preservice]] preparation:** [[ai-tpack-preservice-math-teachers|TPACK-based training]] and [[educational-development]] programs prepare future teachers for AI-augmented classrooms before they enter them.
@@ -91,7 +91,7 @@ Academic integrity with AI is a *design* problem, not a policing problem. Instru
 Teaching and [[learning-design|learning design]] are two sides of the same coin — the instructor's daily judgments are the live execution of the designed learning experience. AI tightens this connection:
 
 - **Teachers as learning designers.** [[learnai-just-in-time-ai-cocreation-university-2026|LearnAI]] and [[teacher-authored-prompts-student-ai-dialogue|teacher-authored prompt design]] show instructors functioning as designers: specifying the activity, the AI's role, and the scaffolds that structure learning. This is [[learning-design]] in action at the point of use.
-- **Learning-design principles govern AI pedagogy.** The same [[learning-design]] principles — clear objectives, aligned assessment, [[scaffolding|scaffolding]], and [[feedback]] — determine whether AI helps or harms. [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]] empirically validates that grounding AI design in formal instructional-design models beats theory-free [[prompt-engineering|prompting]].
+- **Learning-design principles govern AI pedagogy.** The same [[learning-design]] principles — clear objectives, aligned assessment, [[scaffolding]], and [[feedback]] — determine whether AI helps or harms. [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]] empirically validates that grounding AI design in formal instructional-design models beats theory-free [[prompt-engineering|prompting]].
 - **Design for the teacher's orchestration.** Effective AI learning environments are designed *with the teacher in mind* — the tools [[prezenski-human-centered-ai-aided-learning|human-centered AI]] provide should reduce teacher workload and augment judgment, not add another opaque black box. When instructors co-design AI learning activities ([[activity-theory-teachers-adoption-ai-sem-2026|activity-theory perspectives]]), adoption and quality both improve.
 
 ## Connections
@@ -111,6 +111,10 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 ## Teacher Co-Design of Early AI Literacy
 
 - **Teacher co-design in early AI literacy.** Lee (2026) shows that two pre-K and two kindergarten teachers who co-designed the Play With AI (PL-AI) curriculum experienced substantial growth in confidence and pedagogical agency, with co-design fostering curriculum ownership, reflective practice, and meaningful adaptation. This positions teachers as central co-designers — not just implementers — of developmentally appropriate AI literacy curricula, a model with implications for [[teacher-education|teacher preparation]] in early childhood [[ai-education|AI education]].
+
+### Teachers Co-Designing AI Learning Resources
+
+- The teacher's role extends to co-designing AI learning resources: teacher-AI co-designed [[simulation|simulations]] for drone STEM instruction kept GenAI output pedagogically valid and contextually relevant, and teachers are the intended beneficiaries of the Teachers' AI Literacy Scale. Effective GenAI integration increasingly depends on teacher involvement in design.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -201,3 +205,4 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
+- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds

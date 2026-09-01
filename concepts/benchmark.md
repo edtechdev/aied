@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [ai-ed-evaluation, assessment, llm, generative-ai, benchmark]
 research_method: [benchmark]
@@ -9,13 +9,13 @@ category: [evaluation, assessment]
 confidence: high
 ---
 
-> **Benchmark** — standardized test suites and evaluation frameworks used to measure AI model performance on educational tasks. Benchmarks enable reproducible comparison across models and approaches, and are essential for evaluating the reliability, fairness, and pedagogical quality of AI in education systems.
+> **Benchmark** — standardized test suites and evaluation frameworks used to measure AI model performance on educational tasks. Benchmarks enable reproducible comparison across models and approaches, and are essential for evaluating the reliability, fairness, and [[pedagogy|pedagogical]] quality of AI in education systems.
 
 ## Questions to Consider
 
 - A benchmark is a standardized test suite for measuring AI model performance on educational tasks. Before reading, what do you think most AI benchmarks actually test — and why might that be a different thing from what a good tutor needs?
-- This page highlights a Pedagogy Benchmark that tests pedagogical knowledge — teaching strategies, assessment methods, special-education pedagogy — rather than content knowledge. Why might an AI that knows a subject brilliantly still fail at teaching it, and why would a benchmark that ignores pedagogy miss that?
-- One lesson here is methodological: how you validate a benchmark changes the results dramatically, with naive validation reporting far higher performance than rigorous trial-independent methods. How might a model developer or vendor be tempted to design validation to look good, and how would you spot that?
+- This page highlights a Pedagogy Benchmark that tests pedagogical knowledge — [[teacher-role|teaching]] strategies, assessment methods, special-education pedagogy — rather than content knowledge. Why might an AI that knows a subject brilliantly still fail at teaching it, and why would a benchmark that ignores pedagogy miss that?
+- One lesson here is [[research-methods-aied|methodological]]: how you validate a benchmark changes the results dramatically, with naive validation reporting far higher performance than rigorous trial-independent methods. How might a model developer or vendor be tempted to design validation to look good, and how would you spot that?
 - Benchmark performance often doesn't transfer to real-world utility. Can you think of a scenario where an AI 'wins' a benchmark yet fails in an actual classroom — and what does that gap tell you about relying on benchmark scores alone?
 - The page notes that benchmark design can itself encode or amplify bias. If a benchmark is made of certain tasks, in certain languages, from certain populations, whose learning does it end up measuring — and whose does it ignore?
 
@@ -23,10 +23,10 @@ confidence: high
 
 Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education research]]. They provide standardized datasets, tasks, and metrics that allow researchers to compare models, track progress, and identify failure modes. In the knowledge base's research, benchmarks appear across multiple domains:
 
-- **[[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]]** introduces a long-horizon benchmark for pedagogical LLM agents using simulated learners grounded in [[knowledge-tracing]].
+- **[[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]]** introduces a long-horizon benchmark for pedagogical [[llm]] agents using simulated learners grounded in [[knowledge-tracing]].
 - **[[cstutorbench-slm-tutors|CSTutorBench]]** evaluates small language models for CS tutoring tasks.
 - **[[anvil-ai-educational-animations|ANVIL]]** benchmarks AI-generated educational animations against human-created alternatives.
-- **[[teaching-feedback-classification-benchmark|Teaching feedback benchmarks]]** assess cross-language transfer of feedback quality classification.
+- **[[teaching-feedback-classification-benchmark|Teaching feedback benchmarks]]** assess cross-language transfer of [[ai-feedback-quality|feedback quality]] classification.
 - **[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark (CDPK + SEND)]]** tests pedagogical knowledge — teaching strategies, [[assessment|assessment methods]], and [[special-education|special-education pedagogy]] — rather than content knowledge, and reports a cost-vs-accuracy "value frontier" across 97 models (most general benchmarks test content knowledge; pedagogy is a distinct, education-critical dimension).
 - **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** benchmarks LLM-based [[learning-design|instructional-design]] agents across 25,795 instructional-design scenarios, showing that hybrid agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping) outperform pure theory or pure technique — a benchmark result with direct implications for [[agentic-ai|agentic AI]] design in education.
 
@@ -36,6 +36,10 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 - **Construct-level counterfactual benchmarks.** CFES-P24 expresses multimedia-learning principles as deterministic, reversible slide transformations to audit whether MLLMs respond to specific instructional-design constructs rather than producing plausible holistic ratings. A frozen pilot showed construct recognition (operation, principle, repair, evidence localization) at 8/8 while comparative judgment (direction 6/8) and severity calibration (0/8) failed — arguing for layered scorecards over composite scores.([[cfes-p24-multimodal-slide-auditing-2026]])
 - **Trial-independent evaluation in physiological benchmarks.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara & Halloluwa (2026)]] benchmark 15 ML/DL models for EEG-based familiarity prediction and show that the choice of validation scheme changes headline results dramatically: standard stratified cross-validation allows temporal leakage and reports up to 0.9853 F1, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1. The lesson — temporal/leakage-aware evaluation is essential for credible educational benchmarks — extends beyond EEG to any benchmark using sequential or time-structured data.
+### Synthetic Benchmarks for AI Tutoring
+
+- Open, reproducible datasets for evaluating AI tutoring remain scarce. ASTRA (Adaptive Socially-intelligent Team Reasoning Agents) is a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated agents, supporting alone-tutor, pair-tutor, and pair-multiagent configurations (N=540; 360 sessions; 1,440 episodes) with a trace-ready schema for reproducible analysis of interaction, participation balance, and verification.
+
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
@@ -66,4 +70,4 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: benchmark for evaluating generated math diagrams
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-
+- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration

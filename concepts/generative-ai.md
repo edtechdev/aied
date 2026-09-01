@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk]
 
@@ -41,6 +41,10 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 ## GenAI in Institutional, Interactional, and Domain Contexts
 
 - **GenAI across [[governance|institutional]], interactional, and domain contexts.** Three 2026 studies extend the GenAI-in-education evidence base. Qin (2026) documents how Lingnan University institutionalized GenAI literacy for all undergraduates as part of a digital liberal-arts transformation. Chang and Li (2026) show that student-AI conversations encode discipline-associated cognitive [[student-engagement|engagement]], with ~62% of prompts reflecting higher-order cognitive demand. Neto and colleagues (2026) [[meta-analysis-systematic-review|systematically review]] GenAI in scenario-based healthcare education, finding prompt design functions as instructional specification but is rarely aligned with instructional frameworks (34.8%) or reported in reproducible detail (34.8%).
+
+### GenAI for Content Generation and Equity
+
+- Beyond content generation for [[math-education|mathematics]], GenAI is being used to co-design learning resources with teachers — for example, teacher-AI co-designed [[simulation]] scaffolds for [[stem-education|drone STEM]] learning that preserve pedagogical validity and contextual relevance. [[equity-in-ai-education|Equity]]-oriented uses remain underexplored; an all-girls GenAI makerspace initiative in Europe combined two GenAI tools with feminist pedagogy to address persistent gender inequities in computing participation, analysing girls' GenAI-generated images and stakeholder reflections.
 
 ## Connected Concepts
 
@@ -130,3 +134,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
+- [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
+- [[all-girls-genai-makerspace-gender-equity-2026]] — All-girls GenAI makerspace workshops and gender equity in computing
+- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
+- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
