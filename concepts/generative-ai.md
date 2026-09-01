@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T16:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk]
 
@@ -33,18 +33,13 @@ Unlike earlier rule-based or retrieval-based systems, generative AI produces flu
 
 With 80+ articles, generative AI is the knowledge base's largest technology thread. Research spans effectiveness studies ([[genai-meta-analysis-programming-learning|meta-analyses]]), safety concerns ([[ai-tutor-safety-harms|tutor harms]], [[eduguard-safe-rag-llm-tutor|guardrailing]]), and design principles ([[instructional-guidance-genai-learning|instructional guidance]]).
 
+Beyond these core strands, recent work extends the evidence base across [[governance|institutional]], interactional, and domain contexts. Qin (2026) documents how Lingnan University institutionalized GenAI literacy for all undergraduates as part of a digital liberal-arts transformation. Chang and Li (2026) show that student-AI conversations encode discipline-associated cognitive [[student-engagement|engagement]], with ~62% of prompts reflecting higher-order cognitive demand. Neto and colleagues (2026) [[meta-analysis-systematic-review|systematically review]] GenAI in scenario-based healthcare education, finding prompt design functions as instructional specification but is rarely aligned with instructional frameworks (34.8%) or reported in reproducible detail (34.8%).
+
+Content generation likewise reaches beyond [[math-education|mathematics]] into co-designing learning resources with teachers — for example, teacher-AI co-designed [[simulation]] scaffolds for [[stem-education|drone STEM]] learning that preserve pedagogical validity and contextual relevance. [[equity-in-ai-education|Equity]]-oriented uses remain underexplored; an all-girls GenAI makerspace initiative in Europe combined two GenAI tools with feminist pedagogy to address persistent gender inequities in computing participation, analysing girls' GenAI-generated images and stakeholder reflections.
+
 ### Connections
 
 Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how outputs are shaped), [[rag]] (retrieval-augmented grounding), and [[ai-literacy]] (the competency needed to use it effectively).
-
-
-## GenAI in Institutional, Interactional, and Domain Contexts
-
-- **GenAI across [[governance|institutional]], interactional, and domain contexts.** Three 2026 studies extend the GenAI-in-education evidence base. Qin (2026) documents how Lingnan University institutionalized GenAI literacy for all undergraduates as part of a digital liberal-arts transformation. Chang and Li (2026) show that student-AI conversations encode discipline-associated cognitive [[student-engagement|engagement]], with ~62% of prompts reflecting higher-order cognitive demand. Neto and colleagues (2026) [[meta-analysis-systematic-review|systematically review]] GenAI in scenario-based healthcare education, finding prompt design functions as instructional specification but is rarely aligned with instructional frameworks (34.8%) or reported in reproducible detail (34.8%).
-
-### GenAI for Content Generation and Equity
-
-- Beyond content generation for [[math-education|mathematics]], GenAI is being used to co-design learning resources with teachers — for example, teacher-AI co-designed [[simulation]] scaffolds for [[stem-education|drone STEM]] learning that preserve pedagogical validity and contextual relevance. [[equity-in-ai-education|Equity]]-oriented uses remain underexplored; an all-girls GenAI makerspace initiative in Europe combined two GenAI tools with feminist pedagogy to address persistent gender inequities in computing participation, analysing girls' GenAI-generated images and stakeholder reflections.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
@@ -26,6 +26,7 @@ confidence: high
 - **Personalization at scale:** [[personalized-learning]] systems use adaptive algorithms to serve unique learning paths for each student. [[deeptutor|DeepTutor]] and [[ai-powered-personalized-learning-elementary-fractions-2026|elementary fraction tutors]] demonstrate adaptive personalization in practice.
 - **Content sequencing:** [[adaptive-pretesting-retention|Adaptive pretesting]] and [[adapt-adaptive-lesson-plan-transformer|lesson plan transformers]] optimize the order and type of content presented.
 - **ITS integration:** [[intelligent-tutoring|Intelligent tutoring systems]] are the canonical adaptive learning platform, combining diagnosis with adaptation.
+- **AutoML-driven profiling and diagnosis:** Traditional educational models struggle to process multi-source, heterogeneous learning-behaviour data, which limits learner profiling and diagnostic model development. A personalized neural cognitive architecture search framework driven by automated [[reinforcement-learning|machine learning]] integrates [[multimodal|multi-modal]] educational data with heterogeneous methods, generating diagnostic models tailored to heterogeneous learner profiles and supporting dynamic rather than static analysis of learning processes.
 
 ### Effectiveness evidence
 
@@ -49,10 +50,6 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 ### Connections
 
 Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[personalized-learning]] (the goal), [[intelligent-tutoring]] (the platform), [[cognitive-diagnosis]] (fine-grained [[assessment]]), and [[scaffolding]] (adaptation as dynamic scaffolding).
-
-### AutoML-Driven Personalisation
-
-- Traditional educational models struggle to process multi-source heterogeneous learning-behaviour data, limiting learner profiling and diagnostic model development. A personalized neural cognitive architecture search framework driven by automated [[reinforcement-learning|machine learning]] integrates [[multimodal|multi-modal]] educational data with heterogeneous methods, generating diagnostic models tailored to heterogeneous learner profiles and supporting dynamic rather than static analysis of learning processes.
 
 ## Connected Concepts
 

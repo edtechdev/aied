@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-01T16:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 audience: [learners]
@@ -40,6 +40,10 @@ Ma et al. (2026) design every [[deeptutor|DeepTutor]] feature to share a common 
 
 Yu et al. (2024) personalize not only content but *social context*. Classmate archetypes (Class Clown, Deep Thinker, Note Taker, Inquisitive Mind) create varied peer-learning dynamics matched to individual learner needs.
 
+### AutoML for Learner Portraits
+
+Personalization is a central objective for improving educational quality, yet processing multi-source heterogeneous learning-behaviour data remains a challenge. A personalized neural cognitive architecture search framework, driven by automated [[reinforcement-learning|machine learning]], builds learner portraits and generates diagnostic models for heterogeneous learner profiles, integrating multi-modal data to move beyond static examination outcomes.
+
 ## Relationship to adaptive learning and intelligent tutoring
 
 Personalized learning is often conflated with [[adaptive-learning|adaptive learning]], but they are not the same. **Adaptive learning** refers to the *mechanism* — a system adjusting content, pacing, and difficulty in real time based on a learner model. **Personalized learning** is the *broader goal* — tailoring the full learning experience (content, pathways, pacing, preferences, goals) to an individual, of which real-time adaptation is one implementation. Adaptive systems are a *means* toward personalization, but personalization can also be achieved through static learner profiles, choice-based pathways, or human-tutor tailoring that does not adapt in real time.
@@ -63,10 +67,6 @@ Personalization and [[assessment]] are tightly coupled in AI-driven learning. Ad
 ## Terminological ambiguity
 
 A recurring problem is that "personalized learning" is a broad, loosely defined umbrella term. Systematic reviews ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) find that [[adaptive-learning|adaptive learning]], individualized instruction, customized learning, and personalized learning are used interchangeably, with no universally accepted definition — a source of conceptual ambiguity that complicates research synthesis and evidence-based practice. The field increasingly calls for a unified framework and definition so that "personalized" denotes a precise, evidence-backed claim rather than a vague label (a point reinforced by the knowledge base's [[limitations-in-aied-research|critique of weak construct use]]).
-
-### AutoML for Learner Portraits
-
-- Personalization is a central objective for improving educational quality, yet processing multi-source heterogeneous learning-behaviour data remains a challenge. A personalized neural cognitive architecture search framework, driven by automated [[reinforcement-learning|machine learning]], builds learner portraits and generates diagnostic models for heterogeneous learner profiles, integrating multi-modal data to move beyond static examination outcomes.
 
 ## Connected Concepts
 

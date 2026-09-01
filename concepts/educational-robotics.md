@@ -1,7 +1,7 @@
 ---
 title: Robots in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [educational-robotics, computational-thinking, stem-education, k-12, higher-ed, cs-education, embodied-learning]
 discipline: [stem education]
@@ -44,16 +44,13 @@ Two strands shape the social side of robotics in education.
 - **Project-based and game-based approaches:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] presents a project-based robotics course, and [[game-based-gamified-robotics-education-review-2026|a systematic review]] compares game-based learning and gamification in robotics education.
 
 - **Child development and young learners:** [[ai-toys-child-development-2026|AI-enabled toys and child development]] shifts the lens to commercial AI toys in early childhood, examining how AI-enabled playthings affect child development and play. This extends educational robotics beyond classroom robots to the consumer toys children encounter at home, raising questions about [[pedagogical-agent|agents]] in play, [[trust-calibration|trust calibration]], [[agency]], and [[well-being]] for the youngest learners — an area where design guidance is thinner than for school-age robotics curricula.
+- **Tangible coding and social robots in pre-K [[ai-literacy|AI literacy]].** Lee (2026) integrates unplugged play, tangible coding (Bee-Bot, Ozobot), and guided dialogue with a social AI robot in the Play With AI (PL-AI) curriculum for pre-K and kindergarten. The [[design-based-research|design-based research]] documents how these embodied, tangible robotics activities support children's emerging reasoning about AI concepts, with four design principles — embodied play, tangible coding, guided dialogue, and teacher co-design — offering a developmentally appropriate model for [[early-childhood-elementary-ai-education|early childhood]] robotics and AI education.
 
 ### Embodiment and pedagogy
 
 A defining theme is that robots are effective when they support genuine learning goals — not as isolated technical exercises. The value of a robot depends on the pedagogical context: teaching computational thinking ([[computational-thinking]]), supporting [[stem-education|STEAM]], building [[cs-education|programming]] skills, motivating learners ([[motivation]], [[student-engagement|engagement]]), or supporting [[social-emotional-learning]] and [[equity-in-ai-education|inclusion]]. Robotics also connects to [[project-based-learning]], [[game-based-learning]], and [[experiential-learning]]. Key design considerations include preserving learner [[agency]], building [[trust]], supporting [[self-efficacy]], and grounding learning in [[embodied-learning|embodied interaction]]. In [[language-learning]], [[robot-assisted-language-learning-meta-analysis-2026|meta-analytic evidence]] points to the effectiveness of embodied robot-assisted language learning.
 
 - **Pathways to learning AI-powered robotics.** [[educational-robotics-pathways-2026|A qualitative study]] of high school students in a robotics+AI curriculum found learning through real-world practice, designing, and playful creative expression (constructionist, epistemological-pluralist lens).
-
-## Tangible Coding and Social Robots in Pre-K
-
-- **Tangible coding and social robots in pre-K [[ai-literacy|AI literacy]].** Lee (2026) integrates unplugged play, tangible coding (Bee-Bot, Ozobot), and guided dialogue with a social AI robot in the Play With AI (PL-AI) curriculum for pre-K and kindergarten. The [[design-based-research|design-based research]] documents how these embodied, tangible robotics activities support children's emerging reasoning about AI concepts, with four design principles — embodied play, tangible coding, guided dialogue, and teacher co-design — offering a developmentally appropriate model for [[early-childhood-elementary-ai-education|early childhood]] robotics and AI education.
 
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI education

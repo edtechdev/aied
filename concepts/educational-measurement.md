@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing, ai-literacy]
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
@@ -14,7 +14,7 @@ confidence: medium
 
 - An LLM predicts that an exam item is easy, but empirical test data says students find it hard. Which do you trust, and what would convince you to trust the machine's estimate?
 - Educational measurement is about turning observations of learning into defensible [[quantitative-research|quantitative]] claims. When an AI grades an essay or scores a response, is a 'score' automatically a measurement — or does something have to be validated first? What?
-- Some research suggests assessment instruments may not measure the same thing for humans as they do for LLMs — the latent structure diverges. If the constructs genuinely differ across humans and AI, what does that imply about AI-generated grades or difficulty ratings?
+- Some [[research-methods-aied|research]] suggests assessment instruments may not measure the same thing for humans as they do for LLMs — the latent structure diverges. If the constructs genuinely differ across humans and AI, what does that imply about AI-generated grades or difficulty ratings?
 - AI can score, generate items, and predict difficulty at unprecedented scale. Is 'more measurement' the same as 'better measurement'? What makes a score reliable and valid, and can those standards be preserved when the measurement is done by a generative model?
 - Benchmarks and AI-generated scores are everywhere now. What would you need to see before you'd treat an AI-based assessment as evidence about a learner's actual understanding rather than just a number?
 
@@ -41,18 +41,19 @@ AI literacy is the construct with the richest instrument coverage in the knowled
 
 - **Performance-based (objective) measures.** The flagship is [[jin-glat-genai-literacy-assessment|GLAT (Generative AI Literacy Assessment Test)]], a 20-item multiple-choice instrument built on a 25-concept blueprint across four dimensions (Know & Understand, Use & Apply, Evaluate & Create, [[ethics]]) and validated with CTT + 2PL IRT on 355 students (RMSEA = 0.03, CFI = 0.97, α = 0.80, ω = 0.81). Critically, GLAT scores predicted AI-assisted task performance where self-report did not — evidence that **performance-based measurement outperforms self-report** for AI literacy. Related work in [[ai-literacy-assessment-misalignment]] quantifies the gap between self-reported and performance-based AI literacy (teachers overestimate by ~40%), and [[tracing-genai-literacy-interaction-patterns]] traces actual student–AI interaction patterns rather than relying on reported use.
 - **Self-report scales.** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]] operationalizes AI literacy across three domains (AI Concepts; Application and Technical Skills; AI Digital Citizenship) and four scaffolded levels; [[ai-literacy-heptagon-2026|the AI Literacy Heptagon]] structures seven dimensions (technical, application, [[critical-thinking|critical thinking]], ethics, social impact, integration, legal/[[regulation|regulatory]]) with four Bloom-aligned proficiency levels. [[genai-skill-bypass-literacy]] maps divergent AI-literacy pathways for students vs. staff, and [[panciroli-ai-literacy-episodes-situated-learning]] grounds literacy assessment in [[situated-learning|situated learning]] episodes.
-- **[[discipline-specific-aied|Domain-specific]] AI literacy.** [[teacher-education-ai-literacy-sdt-2026]] develops teacher AI-literacy measures within a [[self-determination-theory]] framework (382 teachers, factor-validated); [[conceptualizing-preservice-teachers-ai-readiness-2026]] measures pre-service teacher AI readiness via intelligent-[[tpack]]; [[ai-literacy-career-adaptability-business-2026]] assesses student AI readiness and career adaptability in [[business-education|business education]]; and [[llm-critical-thinking-teamwork-review]] reviews instruments for LLM-supported critical-thinking and teamwork outcomes.
+- **[[discipline-specific-aied|Domain-specific]] AI literacy.** [[teacher-education-ai-literacy-sdt-2026]] develops teacher AI-literacy measures within a [[self-determination-theory]] framework (382 teachers, factor-validated); [[conceptualizing-preservice-teachers-ai-readiness-2026]] measures pre-service teacher AI readiness via intelligent-[[tpack]]; [[ai-literacy-career-adaptability-business-2026]] assesses student AI readiness and career adaptability in [[business-education|business education]]; and [[llm-critical-thinking-teamwork-review]] reviews instruments for LLM-supported critical-thinking and teamwork outcomes. Extending into educator measurement, the Teachers' AI Literacy Scale (TAILS) operationalises the ED-AI framework's six dimensions to measure AI literacy specifically within [[teacher-education|language teacher education]] (validated with factor analysis), filling a gap in assessments that target students or general users.
 
 ### Attitudes, acceptance, and motivation instruments
 
 - **Technology acceptance.** Instruments grounded in TAM/UTAUT measure perceived usefulness, ease of use, and behavioral intention to use AI. See [[technology-acceptance-model]] and its application in [[acceptance-ai-english-tools-2026]] (AI-assisted English learning tools, psychometric validation across disciplinary/proficiency groups) and [[tian-genai-learning-adoption-pathways-2026|GenAI adoption pathways]].
 - **Self-efficacy and motivation.** [[self-efficacy]] instruments and motivation scales (e.g., SDT-based measures of autonomy/competence/relatedness in [[teacher-education-ai-literacy-sdt-2026]]) capture the motivational antecedents and consequences of AI use. These connect to [[student-engagement]] and [[prior-knowledge]] measurement.
+- **Project-based learning perceptions.** Zhu and Kong (2026) develop and validate a context-grounded AI [[project-based-learning|project-based learning]] scale (AI-PBLS) measuring students' perceptions of PBL when using AI for [[problem-solving|problem solving]] in AI literacy courses (EFA and CFA on 1,027 secondary and university students, 446 complete), and their SEM application demonstrates how empowerment and ethical awareness mediate PBL-to-satisfaction relationships — a robust instrument for assessing perceived PBL experiences in AI applications.
 
 ### Assessment-quality and validity instruments
 
 - **Automated scoring and rubric instruments.** [[harmogen-ai-assessment-rubric-generation|HARMOGEN-R]] generates assessment rubrics; [[ai-assisted-instructor-supervised-grading-feedback]] evaluates AI-grading quality against Elaborated-[[feedback]] criteria; [[ai-assessment-scale-reform]] addresses how AI disrupts traditional assessment scales.
 - **Validity-strengthening designs.** [[roe-assessment-twins-2026|assessment twins]] pair a [[generative-ai|GenAI]]-vulnerable task with a less-vulnerable equivalent assessing the same outcomes, mapping threats across Messick's six strands of validity evidence.
-- **Discourse and engagement coding.** [[icap-cognitive-engagement-llm-agents]] extends the [[icap-framework|ICAP]] framework into a 7-point cognitive-engagement coding scheme, comparing human annotation (κ = 0.906–0.998) with LLM-based labeling (κ = 0.541–0.609) — a measurement-instrument study showing automated coding still trails trained humans.
+- **Discourse and engagement coding.** [[icap-cognitive-engagement-llm-agents]] extends the [[icap-framework|ICAP]] framework into a 7-point cognitive-engagement coding scheme, comparing human annotation (κ = 0.906–0.998) with LLM-based labeling (κ = 0.541–0.609) — a measurement-instrument study showing automated coding still trails trained humans. Automated coding is also advancing via [[prompt-engineering|context-aware prompting]], which models contextual dependencies and fuses cognitive and social abilities to code [[collaborative-learning|collaborative problem-solving]] skills from process data at superior performance over strong baselines — enabling large-scale, real-time assessment while addressing the labour-intensity of manual coding.
 - **Skills extraction.** [[principal-trait-analysis-human-ai-skills-2026]] derives "skills" in human–AI collaboration via principal-trait analysis — a data-driven measurement of collaboration competency.
 
 ### Measurement approach matters
@@ -80,15 +81,6 @@ In short, educational measurement can **miss** what it does not sample (process,
 
 Educational measurement is the foundation for [[item-response-theory]], [[assessment-validity]], [[knowledge-tracing]], and [[student-modeling]]. It connects to [[learning-analytics]] (measurement of learning data), [[educational-nlp]] (measuring language), and [[psychometrically-aware-ai]] (AI aligned with measurement theory). Its validity and reliability concerns underpin [[ai-ed-evaluation]] and the [[limitations-in-aied-research|measurement limitations]] of the field. For the constructs it measures, it intersects with [[ai-literacy]], [[technology-acceptance-model]], [[self-efficacy]], [[motivation]], and [[student-engagement]].
 - **Causal modelling of support interventions (2026):** a structural causal modelling protocol moves educational assessment beyond associative item-response-theory belief updating toward interventional and counterfactual reasoning (e.g., the effect of hints), with structural equations elicited from experts using purely logical information — illustrated on compulsory-school algorithmic-skills tasks ([[causal-modelling-competency-assessment-2026]]).
-
-
-## AI Project-Based Learning Scale
-
-- **Validated AI [[project-based-learning|project-based learning]] scale (AI-PBLS).** Zhu and Kong (2026) develop and validate a context-grounded scale measuring students' perceptions of project-based learning when using AI for [[problem-solving|problem solving]] in AI literacy courses, using exploratory and confirmatory factor analysis on data from 1,027 secondary and university students (446 complete). The scale offers [[research-methods-aied|researchers]] a robust instrument for assessing perceived PBL experiences in AI applications, and its SEM application demonstrates how empowerment and ethical awareness mediate PBL-to-satisfaction relationships.
-
-### Automating and Standardising Assessment
-
-- Automated measurement is advancing in multiple directions: [[prompt-engineering|context-aware prompting]] automates coding of [[collaborative-learning|collaborative problem-solving]] skills from process data, enabling large-scale assessment; and psychometric instruments such as the Teachers' AI Literacy Scale (TAILS) formalise the measurement of educator AI literacy across six framework-derived dimensions, validated with factor analysis.
 
 ## Connected Concepts
 

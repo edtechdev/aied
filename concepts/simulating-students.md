@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [simulation, student-modeling, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, generative-ai, llm, teacher-role]
 audience: [instructors]
@@ -55,10 +55,9 @@ Two 2026 threads sharpen the practical value of simulation. First, **authentic-d
 
 Beyond evaluating pedagogy, simulated students serve as a **test harness for auditing AI systems themselves** — a controlled way to probe how an AI behaves across diverse learner profiles before it touches real students. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] illustrate this: they generated 4,500 synthetic student vignettes with three LLMs to audit whether current [[llm|large language models]] can act as prescriptive [[learning-analytics]] recommenders, finding limited sensitivity to student need and sharp cross-model inconsistency. Using simulated cohorts to stress-test an AI's recommendations (rather than only to train or evaluate tutors) is a growing role for the paradigm, closely tied to [[ai-ed-evaluation|evaluating AI in education]] and to [[equity-in-ai-education]] when the audit is meant to surface disparate treatment across learner types.
 
+### Simulating collaborative and social dynamics
 
-## Participant-Specific LLM Agents
-
-- **Participant-specific LLM agents reproducing collaborative dialogue.** Fang (2026) fine-tuned LLaMA 3.2-3B agents on individual participants' dialogue data to represent each participant in collaborative problem solving simulations, combining sliding-window memory with summarised memory embeddings to preserve both local turn-taking and thematic continuity, and probabilistically selecting speakers and thematic codes from empirical distributions. Using [[network-analysis|Epistemic Network Analysis (ENA)]], the simulated dialogues were statistically indistinguishable from real ones (ENA distance 0.17, well within the 95th-percentile null threshold; permutation p = 0.65), validating that [[agentic-ai|LLM agents]] can reproduce both turn-taking dynamics and thematic code trajectories of real [[problem-solving|collaborative problem solving]].
+Simulation also extends beyond individual learners to reproducing the social dynamics of [[collaborative-learning|collaborative learning]]. **Participant-specific LLM agents** — [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] fine-tuned LLaMA 3.2-3B agents on individual participants' dialogue data to represent each participant in collaborative problem solving simulations, combining sliding-window memory with summarised memory embeddings to preserve both local turn-taking and thematic continuity, and probabilistically selecting speakers and thematic codes from empirical distributions. Using [[network-analysis|Epistemic Network Analysis (ENA)]], the simulated dialogues were statistically indistinguishable from real ones (ENA distance 0.17, well within the 95th-percentile null threshold; permutation p = 0.65), validating that [[agentic-ai|LLM agents]] can reproduce both turn-taking dynamics and thematic code trajectories of real [[problem-solving|collaborative problem solving]].
 
 ## Connected Concepts
 
