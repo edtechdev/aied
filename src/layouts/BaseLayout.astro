@@ -349,14 +349,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       .brand-full { display: none; }
       .brand-short { display: inline; }
     }
-    /* Mobile: keep header usable on narrow screens.
-       Row 1 holds .header-left (hamburger + brand) and .header-icons (7 icon
-       buttons); both are flex-shrink:0. If they don't fit side-by-side the icon
-       row wraps to its own line and, because search is order:3 + flex-basis:100%,
-       search then lands on a THIRD row. That wrap threshold is browser-dependent
-       (Firefox mobile renders text/icons wider than Chrome), so on mobile we
-       shrink the buttons and gaps enough that row 1 fits with headroom in every
-       browser while keeping all 7 icons visible. */
+    /* Mobile: keep header usable on narrow screens */
     @media (max-width: 640px) {
       header .container {
         flex-wrap: wrap;
@@ -367,15 +360,6 @@ const recentConceptItems = recentConcepts.map(c => ({
         order: 3;
         max-width: none;
         flex-basis: 100%;
-      }
-      /* Compact row-1 controls so the icon row never wraps to a third line. */
-      .nav-toggle { width: 2.3rem; height: 2.3rem; }
-      .header-icons { gap: 0.2rem; }
-      .header-icon,
-      button.theme-toggle,
-      button.theme-toggle:not([role]) {
-        width: 2.2rem;
-        height: 2.2rem;
       }
     }
 
