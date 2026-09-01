@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-01T16:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 discipline: [language learning]
@@ -58,6 +58,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - **Special populations:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[inclusive-learning|learners with disabilities]] represent groups whose needs are often overlooked in AI system design.
 - **Global South perspectives:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[amponsah-ai-acceptance-science-teachers-2026|Ghanaian teacher acceptance]] provide Global South perspectives often absent from Western-centric AIED research.
 - **Global capacity:**  documents how generative AI benefits are distributed unevenly across countries and institutions, and [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] addresses structural socioeconomic gradients.
+- **Gender equity in computing:** equity-oriented uses of [[generative-ai|GenAI]] remain underexplored. [[all-girls-genai-makerspace-gender-equity-2026|An all-girls GenAI makerspace initiative in Europe]] combined two GenAI tools with feminist pedagogy to address persistent gender inequities in girls' representation in computing, with practitioners enacting specific steps to support girls' participation and engagement — an example of equity-focused GenAI design.
 
 ## Implications for AI in education
 
@@ -66,10 +67,6 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - **Representation matters in content and assessment:** AI-curated materials and [[automated-assessment|automated assessment]] must reflect and not penalize diverse learners, cultures, languages, and knowledge systems.
 - **Pair access with support:** providing tools is insufficient; learners need skills, conditions, and culturally relevant [[scaffolding]] to benefit.
 - **Policy and governance:** institutional AI policy ([[educational-policy-ai]], [[governance]], [[governance]]) must embed equity as a guiding principle.
-
-### GenAI for Gender Equity in Computing
-
-- Equity-oriented uses of [[generative-ai|GenAI]] remain underexplored. An all-girls GenAI makerspace initiative in Europe combined two GenAI tools with feminist pedagogy to address persistent gender inequities in girls' representation in computing, with practitioners enacting specific steps to support girls' participation and engagement — an example of equity-focused GenAI design.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied]
 research_method: [research methods]
@@ -53,14 +53,11 @@ Adoption models are applied across the knowledge base to model student and [[tea
 - **Psychological correlates:** [[acceptance-ai-english-tools-2026|Wu et al.]] build on TAM to relate motivation, [[self-efficacy]], anxiety, and risk perception to acceptance of AI-assisted English learning.
 - **[[regulation|Regulatory]] competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — reframing [[ai-literacy]] as regulatory competence and [[critical-thinking]] rather than acceptance.
 - **Early-childhood teachers:** [[preschool-teachers-ai-behavioral-intention-2026|Duan, Shan and Gong (2026)]] validate an extended TAM for **preschool teachers'** behavioral intention to use AI in early-childhood settings, showing that in addition to perceived usefulness and ease of use, **AI self-efficacy** promotes intention while **AI anxiety** deters it, with **subjective norm** (social influence) also shaping adoption. The study extends adoption modeling into the developmentally distinctive early-childhood context, where teacher comfort and confidence are pivotal for integration.
+- **ML determinants of ChatGPT adoption:** An exploratory ML approach examined how students' perceptions and demographics relate to intended academic ChatGPT use, using SHAP analysis to identify key learning-related constructs — prioritizing educational meaning over maximizing algorithmic performance ([[determinants-chatgpt-use-higher-education-2026]]).
 
 ## Limits and extensions
 
 While adoption models are effective for predicting uptake, they are less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in [[higher-ed|higher education]] increasingly note that TAM alone is insufficient, [[prompt-engineering|prompting]] integration with UTAUT, TPB, and Self-Determination Theory, and the addition of post-adoption constructs such as critical use, reliance, and evaluative judgment. The result is a measured, multidimensional picture of adoption: context matters ([[global-south|Global South]] vs. resourced institutions — see [[nguyen-genai-global-south-review-2026|Nguyen & Perkins]]), disciplinary background shapes acceptance, and person-centered methods reveal hidden heterogeneity that linear models miss.
-
-### ML Determinants of ChatGPT Adoption
-
-- Building on technology-acceptance research, an exploratory ML approach examined how students' perceptions and demographics relate to intended academic ChatGPT use. SHAP analysis identified key learning-related constructs, focusing on educational meaning rather than maximizing algorithmic performance.
 
 ## Connected Concepts
 

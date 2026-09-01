@@ -1,7 +1,7 @@
 ---
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop-ai, agency, cognitive-offloading]
@@ -42,6 +42,9 @@ The knowledge base's [[agentic-ai-education-scoping-review|scoping review]] — 
 ### Multi-agent systems
 
 A growing and distinct strand of agentic AI involves **multi-agent systems** that orchestrate multiple specialized agents with distinct roles. The knowledge base documents several architectures: [[code-gen|CODE-GEN]] pairs a generator agent with a validator agent for human-in-the-loop [[automated-question-generation|question generation]]; [[adversarial-stress-testing-role-playing-agents|adversarial testing]] coordinates Interrogator/Target/Judge agents; multi-agent classrooms (e.g., [[human-in-the-loop-ai|MAIC]] with teacher, TA, and classmate archetypes) create varied peer-learning dynamics; and [[multi-agent-llm-social-learning|multi-agent social learning]] explores how interacting agents shape learning. Multi-agent design raises distinctive questions about [[human-in-the-loop-ai|human oversight]] (which agent is accountable, and where does a human intervene?), coordination costs, and how role differentiation supports or complicates [[scaffolding]].
+
+- **Participant-specific LLM agents for collaborative problem solving.** Fang (2026) fine-tunes individual LLM agents on real participants' dialogue data to represent each participant in collaborative problem solving simulations, with probabilistic speaker and thematic-code selection and sliding-window plus summarised memory. Validated with [[network-analysis|Epistemic Network Analysis]], the simulated dialogues are statistically indistinguishable from real ones (ENA distance 0.17, permutation p = 0.65) — a demonstration of agentic AI reproducing authentic collaborative discourse.
+- **Socially intelligent multi-agent tutoring.** Socially intelligent multi-agent tutoring prototypes such as ASTRA study how learners coordinate with AI in dyads, using differentiated Tutor and Facilitator agents to prompt coordination and balanced participation. The framework's trace-based evaluation enables reproducible analysis of interaction, participation balance, and verification in introductory programming.
 
 ## The central tension: automation vs. learning
 
@@ -115,12 +118,6 @@ Because autonomous agents make detection futile, instructors should focus on tec
 
 Agentic AI is neither a panacea nor an inevitable harm: its value depends on design. Used to scaffold learner agency, ground in pedagogy, and keep humans in the loop, agents can personalise and deepen learning; used to maximise automation and task completion, they can erode the very effort that produces learning. The recurring design principle is **intentionality** — deciding explicitly what the agent does and what it deliberately leaves for the learner.
 
-
-## Participant-Specific LLM Agents in CPS
-
-- **Participant-specific LLM agents for collaborative problem solving.** Fang (2026) fine-tunes individual LLM agents on real participants' dialogue data to represent each participant in collaborative problem solving simulations, with probabilistic speaker and thematic-code selection and sliding-window plus summarised memory. Validated with [[network-analysis|Epistemic Network Analysis]], the simulated dialogues are statistically indistinguishable from real ones (ENA distance 0.17, permutation p = 0.65) — a demonstration of agentic AI reproducing authentic collaborative discourse.
-
-
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[ai-literacy]]
@@ -152,9 +149,6 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[ai-use-disclosure]]
 - [[online-teaching-and-learning]]
 - [[educational-policy-ai]]
-### Socially Intelligent Multi-Agent Tutoring
-
-- Socially intelligent multi-agent tutoring prototypes such as ASTRA study how learners coordinate with AI in dyads, using differentiated Tutor and Facilitator agents to prompt coordination and balanced participation. The framework's trace-based evaluation enables reproducible analysis of interaction, participation balance, and verification in introductory programming.
 
 ## Connected Articles
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas

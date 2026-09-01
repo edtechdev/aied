@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T09:15:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [automated-assessment, assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 audience: [instructors]
@@ -26,15 +26,15 @@ confidence: high
 
 - **Short answer and essay:** automated grading, [[automated-essay-scoring]], and [[cong-confidence-asag-2026|confidence-aware approaches]] handle free-text evaluation.
 - **Code assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Bash grading]] and [[code-review-genai-cs1|code review]] demonstrate programming assessment.
-- **Formative assessment:** [[automated-formative-assessments-a-level-sciences|A-level science automation]] and [[cotal-formative-assessment-scoring-2026|CoTAL]] focus on formative rather than summative use.
-- **AI-generated assessments at scale:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that iteratively refined, course-tailored AI-generated exams achieve [[item-response-theory|IRT]]-measured quality on par with expert-written standardized-exam questions (difficulty β̄ = −0.45 vs. 0.35; discrimination ᾱ = 1.3 vs. 1.2) across 91 college classes — evidence that automated assessment can move from scoring to full item generation.
+- **Formative assessment:** [[automated-formative-assessments-a-level-sciences|A-level science automation]] and [[cotal-formative-assessment-scoring-2026|CoTAL]] focus on formative rather than [[summative-assessment|summative]] use.
+- **AI-generated assessments at scale:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that iteratively refined, course-tailored AI-generated exams achieve [[item-response-theory|IRT]]-measured quality on par with expert-written standardized-exam questions (difficulty β̄ = −0.45 vs. 0.35; discrimination ᾱ = 1.3 vs. 1.2) across 91 college classes — evidence that automated assessment can move from scoring to full [[automated-question-generation|item generation]].
 - **Performance assessment:** [[engagement-assessment-video|Video engagement assessment]] and [[confidence-aware-student-drawing-assessment|drawing assessment]] extend automation beyond text.
 - **Multimodal exam data and rubrics:** [[multimodal-exam-obe-rubrics-2026|a multimodal examination answer dataset with expert-designed Outcome-Based Education rubrics]] provides a benchmark resource for criterion-level automated assessment across diverse response modalities, supporting [[benchmark|benchmarking]] and [[educational-measurement|measurement]] research on multimodal student work.
-- **Neurophysiological assessment:** [[eeg-familiarity-automated-assessment-2026|Nanayakkara & Halloluwa (2026)]] benchmark ML/DL models for EEG-based familiarity prediction (faces vs. math equations) as a step toward direct, objective measures of knowledge acquisition. Crucially, they show standard stratified cross-validation inflates performance (up to 0.9853 F1) via temporal leakage, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1 — a cautionary methodological lesson for all automated-assessment benchmarking.
+- **Neurophysiological assessment:** [[eeg-familiarity-automated-assessment-2026|Nanayakkara & Halloluwa (2026)]] benchmark ML/DL models for EEG-based familiarity prediction (faces vs. math equations) as a step toward direct, objective measures of knowledge acquisition. Crucially, they show standard stratified cross-validation inflates performance (up to 0.9853 F1) via temporal leakage, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1 — a cautionary [[research-methods-aied|methodological]] lesson for all automated-assessment benchmarking.
 
 ### Automated grading
 
-Automated grading is one of the most mature and widely-deployed AI in education applications — AI systems that evaluate student work, from multiple-choice scoring to essay assessment and code review. Its grading modalities include:
+Automated grading is one of the most mature and widely-deployed [[ai-education|AI in education]] applications — AI systems that evaluate student work, from multiple-choice scoring to essay assessment and code review. Its grading modalities include:
 
 - **Short answer grading:** [[cong-confidence-asag-2026|confidence-aware ASAG]] evaluate free-text responses, with confidence calibration critical — systems must know when grading is reliable.
 - **Essay scoring:** [[automated-essay-scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] use [[prompt-engineering|prompting strategies]] to approach human-level reliability. [[aiawe-automated-writing-evaluation|AIAWE]] extends automated evaluation to broader writing assessment.
@@ -74,7 +74,7 @@ Automated assessment quality depends on [[assessment-validity]] and [[bias-mitig
 
 Automated assessment connects to [[assessment-validity]] (quality assurance), [[formative-assessment]] (use context), [[bias-mitigation]] and [[equity-in-ai-education]] (fairness), [[teacher-role]] (how automation changes instructor work), and [[ai-feedback-quality]] (grading without useful feedback has limited educational value). Confidence-aware assessment is a specific mechanism within the broader agenda of [[psychometrically-aware-ai]] and a contributor to [[trust-calibration|calibrated trust]].
 
-- **Large-scale AI grading of handwritten physics (2026):** A multimodal model (GPT-5.5) graded 10,364 scanned pages across a national Physics Olympiad theory exam, selection camp, and university quantum-mechanics exam, achieving total-score correlations of 0.91–0.97 with official marks and recovering the same top-five Olympiad team. Revised page-by-page, evidence-location instructions improved agreement — evidence that multimodal AI can support high-stakes summative grading with careful rubric and prompt engineering ([[ai-grading-handwritten-physics-2026]]).
+- **Large-scale AI grading of handwritten [[physics-education|physics]] (2026):** A multimodal model (GPT-5.5) graded 10,364 scanned pages across a national Physics Olympiad theory exam, selection camp, and university quantum-mechanics exam, achieving total-score correlations of 0.91–0.97 with official marks and recovering the same top-five Olympiad team. Revised page-by-page, evidence-location instructions improved agreement — evidence that [[multimodal|multimodal AI]] can support high-stakes summative grading with careful rubric and prompt engineering ([[ai-grading-handwritten-physics-2026]]).
 
 ## Connected Concepts
 

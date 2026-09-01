@@ -1,7 +1,7 @@
 ---
 title: Cognitive Diagnosis
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [student-modeling, educational-measurement, knowledge-tracing, assessment, intelligent-tutoring, learning-analytics, psychometrically-aware-ai]
 research_method: [educational measurement]
@@ -26,6 +26,7 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 ### How cognitive diagnosis works
 
 - **Diagnostic models:** psychometric models (often under [[item-response-theory]] and [[educational-measurement]]) infer latent skill states from patterns of correct and incorrect responses, sometimes via cognitive-diagnosis models that map items to multiple knowledge components.
+- **Automated model search:** because no single diagnostic model fits every learner, [[machine-learning|AutoML]]-driven approaches (e.g., personalized neural cognitive architecture search) generate diagnostic models for heterogeneous learner profiles — integrating [[multimodal|multi-modal]] educational data to enable dynamic analysis of learning processes and per-learner cognitive diagnosis, rather than relying on static examination outcomes and simple statistical indicators ([[personalized-neural-cognitive-architecture-search-2026]]).
 - **Response data:** diagnosis draws on responses to assessments, hints, [[help-seeking]], and time-on-task — richer signals than raw scores.
 - **LLM-based diagnosis:** newer approaches use [[llm|large language models]] to diagnose from open-ended or handwritten work, and to identify the specific [[misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
 
@@ -48,10 +49,6 @@ Cognitive diagnosis sits at the heart of the [[intelligent-tutoring]] architectu
 ### Connections
 
 Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]], and [[assessment]]. Its insights feed [[intelligent-tutoring]] and [[adaptive-learning]], and LLM-era work links it to misconception identification in [[intelligent-tutoring|AI Tutoring]].
-
-### AutoML-Driven Cognitive Diagnosis
-
-- Existing [[teacher-role|teaching]]-quality evaluation systems rely mainly on static examination outcomes and simple statistical indicators. An [[machine-learning|AutoML]]-driven personalized neural cognitive architecture search framework generates diagnostic models for heterogeneous learner profiles, integrating [[multimodal|multi-modal]] educational data to enable dynamic analysis of learning processes and cognitive diagnosis of individual learners.
 
 ## Connected Concepts
 

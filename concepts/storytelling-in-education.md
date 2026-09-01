@@ -1,7 +1,7 @@
 ---
 title: Storytelling in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [storytelling-in-education, student-engagement, motivation, educational-robotics, creativity, language-learning, k-12]
 discipline: [language learning]
@@ -29,12 +29,9 @@ Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constr
 - **Robot-mediated storytelling:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] uses a human-like interactive digital storytelling robot, finding significant gains in behavioural and cognitive engagement over paper and PowerPoint methods; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] lets teachers create LLM-powered scenario-based storytelling activities from [[curriculum-design|curriculum]] content.
 - **Co-creative narrative HRI:** [[icub-humanoid-storytelling-llm-hri-2025|The iCub narrative study]] explores human-robot co-creation of stories, integrating generative models for contextually appropriate interaction.
 - **Narrative and creativity:** Storytelling supports [[creativity]] and [[language-learning|language]] development, and is used to enhance motivation and engagement in [[k-12]] settings.
+- **Digital storytelling as a counterweight to AI:** As [[generative-ai|generative AI]] ascends, digital storytelling is reframed as a vehicle for the emotional, cultural, and narrative capacities that AI lacks. In a [[project-based-learning|project-based learning]] model for art and design education, students translated local cultural heritage into [[multimodal]] narratives across 92 digital storytelling works, demonstrating how storytelling sustains human creativity in the AI era.
 
 Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], and [[educational-robotics]].
-
-### Digital Storytelling as a Counterweight to AI
-
-- As [[generative-ai|generative AI]] ascends, digital storytelling is reframed as a vehicle for the emotional, cultural, and narrative capacities that AI lacks. In a [[project-based-learning|project-based learning]] model for art and design education, students translated local cultural heritage into [[multimodal]] narratives across 92 digital storytelling works, demonstrating how storytelling sustains human creativity in the AI era.
 
 ## Connected Concepts
 

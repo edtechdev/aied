@@ -1,7 +1,7 @@
 ---
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design]
@@ -66,10 +66,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 
 **Model AI literacy and measure real gains.** Faculty development should itself embody the practices being taught — using AI pedagogically, evaluating outputs critically — and should assess demonstrated competence rather than self-reported confidence, since self-perception reliably overestimates AI skill.([[ai-literacy-assessment-misalignment]])([[genai-pd-ai-pck-learning-gain-2026]])
 
-
-## Smart-Classroom M.Ed. Training
-
-- **Discipline-specific smart-classroom training for [[math-education|mathematics]] M.Ed. students.** Zhu, Liang, Mao, and Wang (2026) show how a mathematics M.Ed. course can be enhanced with intelligent educational [[ai-technologies|technologies]] ([[automated-assessment|automated scoring]], personalized recommendations, multi-[[ai-feedback-quality|AI feedback]]) integrated across pre-, in-, and post-class stages within a three-dimensional smart-classroom framework. Their quasi-experiment found statistically significant gains in instructional-objective design proficiency, offering a transferable **D-T-E Model** (Disciplinary Demand–Technological Empowerment–Evaluation Loop) for [[teacher-education|teacher educators]] and educational developers looking to move smart-education frameworks from macro concepts into discipline-specific practice.
+**Discipline-specific smart-classroom models.** [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao, and Wang (2026)]] show how a [[math-education|mathematics]] M.Ed. course can be enhanced with intelligent educational [[ai-technologies|technologies]] ([[automated-assessment|automated scoring]], personalized recommendations, multi-[[ai-feedback-quality|AI feedback]]) integrated across pre-, in-, and post-class stages within a three-dimensional smart-classroom framework. Their quasi-experiment found statistically significant gains in instructional-objective design proficiency, offering a transferable **D-T-E Model** (Disciplinary Demand–Technological Empowerment–Evaluation Loop) for [[teacher-education|teacher educators]] and educational developers looking to move smart-education frameworks from macro concepts into discipline-specific practice.
 
 ## Connected Concepts
 

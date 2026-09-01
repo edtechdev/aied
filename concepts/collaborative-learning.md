@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [collaborative-learning, ai-education, student-experience, scaffolding, equity-in-ai-education, k-12, higher-ed]
 audience: [learners]
@@ -36,7 +36,7 @@ Collaborative learning is grounded in [[sociocultural-learning|sociocultural the
 
 **Collaboration modes and the efficiency–regulation trade-off.** Empirical research on college students collaborating with AI for complex problem-solving identifies three distinct modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration*. The most efficient mode (delegated reasoning) yields the highest task performance but the lowest learners' self-regulatory engagement, while the mode with greatest self-regulation (concerted interpretation) underperforms on task outcomes.([[hao-human-ai-collaborative-problem-solving-cognition]]) This reveals a central design tension: collaborative-learning environments must balance the efficiency of the distributed human–AI system against the depth of learners' [[self-regulated-learning|regulatory]] engagement.
 
-**Collaboration as the object of instruction.** [[golrang-propact-pair-programming-2026|ProPACT]] is an AI-driven adaptive tutor for pair programming that treats the *dyad* — not the individual — as the unit of analysis, modeling joint visual attention, joint mental effort, and pupil-based signals in real time to predict collaborative breakdowns up to 30 seconds in advance and intervene before they occur. Dyads receiving proactive feedback achieved substantially higher debugging success and completed tasks more efficiently, and showed sustained gains in collaborative regulation afterward — evidence that AI can teach collaboration itself, not just support a task.
+**Collaboration as the object of instruction.** [[golrang-propact-pair-programming-2026|ProPACT]] is an AI-driven adaptive tutor for pair programming that treats the *dyad* — not the individual — as the unit of analysis, modeling joint visual attention, joint mental effort, and pupil-based signals in real time to predict collaborative breakdowns up to 30 seconds in advance and intervene before they occur. Dyads receiving proactive feedback achieved substantially higher debugging success and completed tasks more efficiently, and showed sustained gains in collaborative regulation afterward — evidence that AI can teach collaboration itself, not just support a task. Measuring collaborative competence poses the complementary challenge of assessing collaborative problem-solving (CPS) skill at scale, which traditionally requires manually coding process data from simulated tasks into CPS behaviours — time-consuming and impractical at scale; [[prompt-engineering|context-aware prompting]] of pre-trained language models automates this coding by modelling contextual dependencies and fusing cognitive and social abilities, achieving superior performance over strong baselines.
 
 **AI as a neutral mediator — and the tension when it stops being neutral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] is a Discord-based [[llm]] probe that mediates disciplinary boundaries in interdisciplinary student teams by surfacing implicit assumptions and returning anonymized syntheses to shared discussion. Students valued it as both cognitive support and a relational buffer, but a central tension emerged: AI's perceived neutrality was load-bearing, and eroded once the AI moved from neutral mediator to advisor or challenger — a key design constraint for [[pedagogical-agent|agents]] that mediate collaboration while preserving [[human-ai-collaboration]] and [[trust-calibration]].
 
@@ -53,10 +53,6 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - **Balance efficiency against self-regulation.** Collaborative AI that maximizes task efficiency (delegated reasoning) can undercut learners' regulatory engagement; design should deliberately protect space for concerted interpretation.
 - **Respect the neutrality constraint.** AI mediators are trusted while neutral; moving into advisory or challenging roles destabilizes that trust, so role switches should be explicit and configurable.
 - **Accommodate neurodivergent learners.** Structured assignments, small consistent teams, and explicit role definitions are requirements AI collaboration tools must support.
-
-### Automating CPS Assessment
-
-- Measuring collaborative problem solving competence typically requires analysing process data from simulated tasks and manually coding behaviours into CPS skills — time-consuming and impractical at scale. [[prompt-engineering|Context-aware prompting]] of pre-trained language models automates this coding by modelling contextual dependencies and fusing cognitive and social abilities, achieving superior performance over strong baselines.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships

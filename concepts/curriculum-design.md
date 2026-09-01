@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [curriculum-design, learning-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
 discipline: [stem education]
@@ -40,13 +40,11 @@ Curriculum design addresses the *what* of education at the program level, comple
 
 **Sequencing AI across the programme.** [[refrain-amplify-genai-curriculum-2026|Torres-Sahli et al.]] propose a "refrain, then amplify" framework that sequences generative AI at the programme level: withhold a generative tool while a capacity is forming, then restore it to amplify that capacity once the student can direct it and judge its returns. Governed by a forming-versus-offloading criterion (whether a stretch of work builds a capacity or merely passes it through the tool), the framework links curriculum design to [[cognitive-offloading]], [[self-regulated-learning]], and [[academic-integrity]], with hard-to-fake checkpoints at each refrain-to-amplify hinge.
 
+**Generating curriculum-aligned modelling tasks.** AI-powered platforms can address teachers' lack of time and resources for designing high-quality [[math-education|mathematical modelling]] tasks by generating curriculum-aligned problems and pedagogical recommendations grounded in design principles and [[rag|retrieval-augmented]] generation — an approach illustrated with direct variation in secondary school mathematics ([[ai-modelling-problem-generation-platform-2026]]).
+
 ### Connections to related concepts
 
 Curriculum design connects directly to [[learning-design]] — curriculum defines what, instruction defines how. It connects to [[ai-literacy]] because embedding AI competencies is a primary curriculum challenge, to [[teacher-role]] and [[educational-development]] because curriculum change requires educator preparation, and to [[scaffolding]] because well-designed curricula scaffold skill development across courses and years. The [[higher-ed]] and [[k-12]] connections reflect curriculum design's relevance across educational levels.
-
-### Generating Curriculum-Aligned Modelling Tasks
-
-- AI-powered platforms can address teachers' lack of time and resources for designing high-quality [[math-education|mathematical modelling]] tasks by generating curriculum-aligned problems and pedagogical recommendations grounded in design principles and [[rag|retrieval-augmented]] generation. The approach was illustrated with direct variation in secondary school mathematics.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships

@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [human-in-the-loop-ai, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
@@ -74,14 +74,8 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 Human-in-the-loop design is not merely a safety measure—it is a **resource-allocation strategy**. The frontier question is not *whether* to include humans, but *where* in the pipeline their judgment has highest marginal value. The most effective HITL systems concentrate scarce human expertise where automated systems are weakest (distractor design, explanatory feedback, edge-case adjudication, ethical judgment) and automate the rest — preserving quality, safety, and trust while scaling production.
 
 - **Human oversight persists in AI-assisted work.** [[scaffolding-systematic-reviews-2026|Systematic-review research]] found AI automation tools reduced procedural burdens (e.g. screening) but interpretive decisions still required substantial human oversight; [[kim-ai-andragogy-2026|andragogy research]] makes human-in-the-loop (shared mental models, co-creation) a core AI design principle.
-
-## Human-in-the-Loop Liberal Arts Education
-
-- **Human-in-the-loop liberal arts education.** Qin (2026) describes how Lingnan University developed a human-in-the-loop educational model that foregrounds ethical reasoning, critical judgment, and social responsibility while democratizing [[generative-ai|GenAI]] access. The model positions humans as the locus of judgment and values even as AI is embedded across the [[curriculum-design|curriculum]] — a concrete [[governance|institutional]] instantiation of human-in-the-loop principles in [[higher-ed|higher education]].
-
-### Oversight of AI Adoption Advice
-
-- Because [[conversational-ai|conversational AI]] systems consulted by skeptical users may be predisposed to encourage adoption, human oversight and independent evaluation are essential. An audit showing most frontier models redirect skeptical rural [[k-12]] staff toward [[student-engagement|engagement]] underlines the need for transparent, auditable AI advice rather than uncritical reliance.
+- **Human-in-the-loop at institutional scale.** Qin (2026) describes how Lingnan University developed a human-in-the-loop educational model that foregrounds ethical reasoning, critical judgment, and social responsibility while democratizing [[generative-ai|GenAI]] access. The model positions humans as the locus of judgment and values even as AI is embedded across the [[curriculum-design|curriculum]] — a concrete [[governance|institutional]] instantiation of human-in-the-loop principles in [[higher-ed|higher education]].
+- **Oversight of AI adoption advice.** Because [[conversational-ai|conversational AI]] systems consulted by skeptical users may be predisposed to encourage adoption, human oversight and independent evaluation are essential. An audit showing most frontier models redirect skeptical rural [[k-12]] staff toward [[student-engagement|engagement]] underlines the need for transparent, auditable AI advice rather than uncritical reliance.
 
 ## Connected Concepts
 - [[guardrails]]

@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [self-efficacy, motivation, assessment, self-regulated-learning, student-experience, ai-literacy]
 audience: [learners]
@@ -31,13 +31,9 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 - **Robotics and hands-on learning:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]]'s robot-mediated role-play built children's self-efficacy in anti-bullying intervention; robotics and [[embodied-learning|embodied learning]] generally build confidence by grounding tasks in observable outcomes.
 - **Teacher self-efficacy:** [[teacher-ai-competency|Teacher AI competency]] research examines how [[educational-development|professional development]] builds teachers' confidence in using AI, which affects adoption and integration.
 - **Feedback and confidence:** [[ai-feedback-quality|AI feedback]] and [[intelligent-tutoring|tutoring]] can build learner self-efficacy by providing actionable, supportive feedback.
+- **Empowerment in AI [[problem-solving]]:** Zhu and Kong (2026) find that students' empowerment in using AI for problem solving mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. In their SEM analysis of 1,027 students, PBL fostered conditions that empowered students to use AI for problem solving, which in turn drove course satisfaction — evidence that building students' confidence and capability with AI is a key mechanism of effective AI literacy education.
 
 Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student-experience]], [[ai-literacy]], [[agency]], and [[educational-robotics]]. Building self-efficacy is a key mechanism through which AI supports engagement and learning.
-
-
-## Empowerment in AI Problem-Solving
-
-- **Empowerment in AI [[problem-solving]].** Zhu and Kong (2026) find that students' empowerment in using AI for problem solving mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. In their SEM analysis of 1,027 students, PBL fostered conditions that empowered students to use AI for problem solving, which in turn drove course satisfaction — evidence that building students' confidence and capability with AI is a key mechanism of effective AI literacy education.
 
 ## Connected Concepts
 

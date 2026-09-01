@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-09-01T16:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [meta-analysis-systematic-review, research-methods-aied, ai-education, ai-ed-evaluation]
 research_method: [meta-analysis, systematic review, research methods, literature review]
@@ -57,6 +57,7 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 - **[[stanford-evidence-base-ai-k12-2026|Evidence base for AI in K-12]]** — reviews the strength of evidence for AI tutoring in schools.
 - **[[liu-ai-literacy-interventions-meta-analysis-2026|Meta-analysis of AI literacy interventions]]** — three-level meta-analysis of 59 studies (172 effects, 7,211 participants) estimating a large overall effect (g = 0.837) while showing that effectiveness varies by region and learning-outcome focus (knowledge-focused interventions outperformed those targeting skills, attitudes, or [[ethics]]).
 - **[[ai-literacy-heptagon-2026|AI Literacy Heptagon]]** — an integrative literature review following PRISMA principles, illustrating qualitative synthesis that stops short of meta-analysis.([[ai-literacy-heptagon-2026]])
+- **[[genai-scenario-based-healthcare-education-2026|PRISMA 2020 review of GenAI in healthcare scenario learning]]** — Neto and colleagues (2026) systematically searched five databases (9 Nov 2025) for peer-reviewed GenAI studies across scenario-, case-, [[problem-based-learning|problem-]], and [[simulation]]-based healthcare education, screening 1,151 records down to 23 included studies appraised with the [[mixed-methods-research|Mixed Methods]] Appraisal Tool (MMAT). Their thematic synthesis surfaced six cross-cutting themes anchored on [[prompt-engineering|prompt design]] as instructional specification, and documented gaps in validation standardization, longitudinal/comparative designs, and efficiency quantification — a template for rigorous [[medical-education|domain-specific]] GenAI systematic review.
 
 ## AI-era synthesis challenge: productivity vs. learning
 

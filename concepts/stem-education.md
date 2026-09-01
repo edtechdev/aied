@@ -1,7 +1,7 @@
 ---
 title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 discipline: [cs education, math education, physics education]
@@ -28,6 +28,8 @@ confidence: high
 - **Physics:** [[physics-education|Physics education]] includes [[becker-chatgpt-typology-physics-2026|ChatGPT typology studies]], [[hashmi-socratic-physics-chatbot-2025|Socratic physics chatbots]], and [[ai-scoring-language-bias-physics|scoring bias analysis]].
 - **Computer science:** [[cs-education|CS education]] is the most-researched STEM subfield — [[code-review-genai-cs1|code review]], [[debugtracker-classroom-debugging|debugging tools]], and [[prompt-problems-nl-programming-mistakes|prompting studies]].
 - **Engineering:** [[concept-catalyst-engineering-scaffolds|Engineering scaffolds]], [[structured-ai-demonstrations-engineering-mechanics|mechanics demonstrations]], and [[ai-engineering-education-balancing-act|curriculum balancing]] bring AI to [[engineering-education|engineering education]].
+- **Scaffolding undergraduate research:** [[ai-information-extraction-undergraduate-thesis-2026|An and colleagues (2026)]] pilot an AI system that converts research publications into structured, comparable datasets for undergraduate thesis completion across four STEM schools. Results (20 students, 80 documents) showed >90% extraction of experimental parameters, ~65% reduction in literature-review time, and a 50% increase in students' ability to identify influential experimental variables — evidence of how [[generative-ai|AI]]-scaffolded [[higher-ed|undergraduate research]] can strengthen research literacy and epistemic cognition in STEM education.
+- **Simulation-supported instruction:** In drone-based STEM education, teacher-AI co-designed [[simulation]] scaffolds were evaluated against an identical hands-on [[curriculum-design|curriculum]] with 30 secondary students, testing whether simulation-supported instruction yields superior [[learning-gains|learning outcomes]]. GenAI's role was to accelerate content creation while teacher involvement preserved pedagogical validity and contextual relevance.
 
 ### Why STEM dominates
 
@@ -59,15 +61,6 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - **Use AI's structured-fit advantage, but protect reasoning.** STEM's verifiable answers make it the most AI-tractable domain; guard against over-reliance and answer-replacement by embedding AI in structured, mastery-oriented workflows.
 - **Embed AI literacy across STEM courses.** Studies ([[zha-ai-literacy-biology-case-study|biology]], [[ai-tpack-preservice-math-teachers|math teacher prep]]) show STEM context supports AI learning — integrate AI concepts where they naturally arise rather than isolating them.
 - **Watch [[equity-in-ai-education|equity]] and access in AI adoption.** STEM AI tools are not neutral; monitor scoring bias, [[digital-divide]] access, and [[culturally-relevant-pedagogy|culturally relevant]] design as you deploy them.
-
-
-## AI-Scaffolded Undergraduate Research
-
-- **AI-powered information extraction for STEM theses.** An and colleagues (2026) pilot an AI system that converts research publications into structured, comparable datasets for undergraduate thesis completion across four STEM schools. Results (20 students, 80 documents) showed >90% extraction of experimental parameters, ~65% reduction in literature-review time, and a 50% increase in students' ability to identify influential experimental variables — evidence of how [[generative-ai|AI]]-scaffolded [[higher-ed|undergraduate research]] can strengthen research literacy and epistemic cognition in STEM education.
-
-### Teacher-AI Co-Designed Simulations in STEM
-
-- In drone-based STEM education, teacher-AI co-designed [[simulation]] scaffolds were evaluated against an identical hands-on [[curriculum-design|curriculum]] with 30 secondary students, testing whether simulation-supported instruction yields superior [[learning-gains|learning outcomes]]. GenAI's role was to accelerate content creation while teacher involvement preserved pedagogical validity and contextual relevance.
 
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities

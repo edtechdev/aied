@@ -1,7 +1,7 @@
 ---
 title: Inquiry-Based Learning
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [inquiry-based-learning, problem-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, generative-ai, stem-education, scaffolding]
 discipline: [stem education]
@@ -35,6 +35,8 @@ Inquiry-based learning centers on student-driven questions and the inquiry proce
 
 **[[equity-in-ai-education|Equity]] and context.** A conceptual framework bridges generative-AI co-design with open educational practices to support inquiry-led STEM teaching in under-resourced contexts, using AI-generated, [[multilingual-learning|multilingual]], contextually relevant [[simulation|simulations]].
 
+**AI-scaffolded evidence comparison.** [[ai-information-extraction-undergraduate-thesis-2026|An and colleagues (2026)]] show how an AI-powered information-extraction system shifts the undergraduate literature review from summarization toward **evidence organization and comparison** — students moving from isolated reading to cross-study comparison and evidence-based justification in support of research-based learning and thesis completion. This concretizes how [[generative-ai|AI]] can scaffold inquiry processes in [[stem-education|STEM]] undergraduate research.
+
 ## Why inquiry-based learning matters for AI integration
 
 IBL's question-driven, process-focused structure is the natural home for productive AI use: students learn *with* AI as a partner rather than *from* it as a substitute. The knowledge base's evidence converges on a core tension — AI can lower the friction of information retrieval and question formulation (reducing [[cognitive-offloading|cognitive load]] and enabling deeper [[metacognition|reflection]]), but without design scaffolding it risks over-reliance and bypassing higher-order cognition. The facilitator's role, the design of scaffolds, and the explicit teaching of evaluation skills are the levers determining whether AI deepens or displaces inquiry.
@@ -42,11 +44,6 @@ IBL's question-driven, process-focused structure is the natural home for product
 ### Productive failure and inquiry
 
 [[productive-failure|Productive failure (PF)]] is the most structured cousin of inquiry-based learning: learners explore problems and generate solutions *before* direct instruction, then consolidate. Both share the premise that learner-generated attempts (even failed ones) [[prior-knowledge|activate prior knowledge]] and prepare learners to learn from instruction. The AI-era PF [[research-methods-aied|research]] sharpens how AI should scaffold inquiry without short-circuiting it: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles for preserving struggle through problem exploration and solution generation; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show LLM tutors can be steered to withhold answers and elicit multiple attempts; [[lukesova-clue-before-correction-2026|clue-before-correction]] tasks exemplify clue-based (vs. direct) scaffolding that keeps learners doing the reasoning. These connect inquiry and PF to the broader imperative that AI must not remove the [[desirable-difficulties|productive struggle]] through which durable learning forms.
-
-
-## AI-Scaffolded Evidence Comparison
-
-- **Repositioning the literature review as evidence comparison.** An and colleagues (2026) show how an AI-powered information-extraction system shifts the undergraduate literature review from summarization toward **evidence organization and comparison** — students moving from isolated reading to cross-study comparison and evidence-based justification in support of research-based learning and thesis completion. This concretizes how [[generative-ai|AI]] can scaffold inquiry processes in [[stem-education|STEM]] undergraduate research.
 
 ## Connected Concepts
 

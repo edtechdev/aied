@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T18:30:00-04:00"
 type: concept
 tags: [change-management, ai-education, higher-ed]
 level: [higher ed]
@@ -31,6 +31,8 @@ Scholarship converges on several change-management levers. **Governance framewor
 
 **Adoption drivers** reveal why change stalls or succeeds. The [[alrahmi-org-drivers-ai-adoption-he-2026|organisational drivers study]] shows that internal organisational culture and technological attributes (compatibility, relative advantage, low complexity) catalyze AI adoption, with government [[regulation]] as an external enabler — context-sensitive dynamics that individual-level [[technology-acceptance-model|technology acceptance]] models miss. Conversely, the [[ai-pedagogical-orientation|faculty orientation study]] finds that a faculty member's epistemic interpretation of AI — their pedagogical orientation toward what AI means for disciplinary knowledge — is the strongest predictor of adoption, while institutional initiatives and demographics are surprisingly weak predictors. This cautions that top-down strategic plans have limited impact unless they engage faculty beliefs, and that bottom-up peer networks (department colleagues were the top information source) matter more than central initiatives.
 
+**Institutional transformation case studies** show how these levers play out in practice. [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]] analyzes Lingnan University's strategic change across four dimensions — instructional upgrade through AI, prioritization of irreplaceable human competencies, curriculum renewal, and retention of ethical/cultural values — illustrating how a long-established institution can manage [[generative-ai|GenAI]]-driven change without relinquishing its identity. It frames the transformation as intellectual rather than technocentric, giving institutional leaders a staged model for mandating AI literacy while preserving humanistic mission.
+
 **Assessment reform** is a central change-management battleground. The [[ai-assessment-scale-reform|AI Assessment Scale study]] shows framework implementation hampered by departmental inconsistencies, workload pressures, and uncertainty, with staff describing the process as "a bit of chaos and madness." The [[ethical-ai-higher-ed-game-theory|coordination game model]] offers a formal account of why policy statements alone fail: student AI use is a collective norm-formation process, and small, well-calibrated changes to reflective assessment incentives can trigger rapid cohort-wide shifts toward responsible use, whereas weak or misaligned incentives allow opportunistic practices to persist. This supports pedagogy-led governance over surveillance. The [[ai-adaptation-gap-higher-education-2026|AI adaptation gap survey]] adds a stakeholder dimension: students report higher AI-use intensity and perceived usefulness than faculty and administrative staff, while the latter report stronger [[academic-integrity]] concerns — and perceived usefulness drives [[trust|Trust]] (β = 0.402) more strongly than institutional policy clarity (β = 0.223).
 
 ## Implications
@@ -42,11 +44,6 @@ Change management in AI education carries both positive and negative implication
 ## Connections to other concepts
 
 Change management is the institutional complement to classroom-level integration. It operationalizes the systemic conditions — governance, faculty development, stakeholder [[student-engagement|engagement]], and equity safeguards — that allow pedagogical innovation to take hold, connecting [[educational-policy-ai]] policy design to [[governance]], [[educational-development]], and [[equity-in-ai-education]] outcomes.
-
-
-## Digital Transformation of a Liberal Arts Institution
-
-- **Institutional transformation to a research-intensive digital liberal arts model.** Qin (2026) analyzes Lingnan University's strategic change across four dimensions — instructional upgrade through AI, prioritization of irreplaceable human competencies, curriculum renewal, and retention of ethical/cultural values — illustrating how a long-established institution can manage [[generative-ai|GenAI]]-driven change without relinquishing its identity. It frames the transformation as intellectual rather than technocentric, giving institutional leaders a staged model for mandating AI literacy while preserving humanistic mission.
 
 ## Connected Concepts
 
