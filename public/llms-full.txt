@@ -3500,20 +3500,21 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 - The page describes 'teachable agents' — software that students teach as part of learning. With an LLM, you can configure a chatbot as a fallible novice tutee that asks questions and makes mistakes. What would you need to design into such a tutee for it to actually improve learning rather than just chat?
 - One challenge is 'engineering fallibility': AI models are trained to give expert, fluent answers, which is the opposite of the struggling novice the learning-by-teaching paradigm wants. Why might an error-prone tutee be more effective for learning than a correct one?
 - A ChatGPT-based teachable agent improved learning but its tendency to generate correct code limited error-correction practice. How might a tool that always gives the right answer actually shortchange the learner who needs to practice spotting and fixing mistakes?
+- If you were to design a learning-by-teaching activity for your own class, what would make the teaching task *consequential* enough that students put real effort into it rather than copy-pasting an answer?
 
 ## Introduction
 
 ## The Protégé Effect
 
-Learning by teaching rests on the finding that preparing to teach and actually explaining to another person produces deeper processing than studying alone. The demands of teaching — articulating ideas, anticipating misunderstandings, and answering questions — force learners to organize knowledge, identify gaps in their own understanding, and generate explanations that support retention and transfer. Benefits are most evident in [[collaborative-learning]] contexts and in well-structured domains that support teachable agents (e.g., Betty's Brain).
+Learning by teaching rests on the finding that preparing to teach and actually explaining to another person produces deeper processing than studying alone. The demands of teaching — articulating ideas, anticipating misunderstandings, and answering questions — force learners to organize knowledge, identify gaps in their own understanding, and generate explanations that support retention and transfer. Benefits are most evident in [[collaborative-learning]] contexts and in well-structured domains that support teachable agents (e.g., Betty's Brain). The protégé effect names the mechanism: students put forth more effort and reflect more deeply when they feel responsible for teaching something, so they clarify [[misconceptions]] and fill gaps through explanation and [[metacognition]].
 
 ## Teachable Agents: From Rule-Based to Conversational
 
-**Teachable agents** are the software systems through which learning by teaching is operationalized — a learner teaches a system as part of learning. Traditional teachable agents were rule-based or retrieval-based and could respond only to limited commands; their key limitation was an inability to engage in natural-language dialogue. [[llm|Large language models]] change this: they can flexibly adopt roles via prompting — including the role of a "tutee" that asks questions or makes mistakes — and engage in open-ended dialogue, enabling LbT in less-structured domains (writing, vocabulary) than was previously possible.
+**Teachable agents** are the software systems through which learning by teaching is operationalized — a learner teaches a system as part of learning. Traditional teachable agents were rule-based or retrieval-based and could respond only to limited commands; their key limitation was an inability to engage in natural-language dialogue. [[llm|Large language models]] change this: they can flexibly adopt roles via [[prompt-engineering|prompting]] — including the role of a "tutee" that asks questions or makes mistakes — and engage in open-ended dialogue, enabling LbT in less-structured domains (writing, vocabulary) than was previously possible.
 
 The knowledge base's evidence base traces this shift to **conversational, LLM-based teachable agents**:
 
-- **ChatGPT as a teachable agent** ([[chatgpt-teachable-agent-programming-lbt-2024|Chen et al.]]) supports LbT in programming, improving knowledge gains, programming ability, and self-regulated learning — though its tendency to generate correct code limits error-correction practice.
+- **ChatGPT as a teachable agent** ([[chatgpt-teachable-agent-programming-lbt-2024|Chen et al.]]) supports LbT in programming, improving knowledge gains, programming ability, and [[self-regulated-learning|self-regulated learning]] — though its tendency to generate correct code limits error-correction practice.
 - **Explique at scale** ([[explique-teachable-agent-algorithms-546-students-2026|Wang et al.]]) deployed an AI teachable agent (Algorithm Apprentice) to 546 students over an 11-week semester, finding that explanation-oriented dialogue predicts fewer incorrect quiz submissions, while external-content reuse predicts more.
 - **Vocabulary teaching** ([[teaching-ai-vocabulary-lbt-llms-2026|Uchida et al.]]) used an LLM as a student to generate dynamic questions, improving retention at 3 and 7 days.
 
@@ -3523,24 +3524,50 @@ A central design challenge for LLM-based teachable agents is that LLMs are train
 
 - **[[prompting-teachability-novice-personas-lbt-2026|Prompting for teachability]]** (Miller & Bosch) found that constraint-based prompts explicitly forcing error production (e.g., "answer incorrectly" or "get 2–3 wrong") elicit novice-like behavior far more reliably than persona-, misconception-, or uncertainty-based prompts.
 - **[[socrates-students-instructors-llms-lbt-2025|Engineered knowledge gaps]]** (Yang et al.) design problems the LLM cannot solve without knowledge only the student possesses, making teaching a necessity and countering the passive over-reliance of LLM-as-tutor use.
+- **Explique's apprentice constraints** (Wang et al.) instruct the tutee to (a) stay a novice, (b) keep requesting clarification until the student's explanation is accurate, and (c) never reveal the target explanation — and to *resist* students who try to reverse the roles and have the tutee explain back.
 
 ## Questioning, Self-Regulation, and Active Learning
 
 Two further affordances recur across the knowledge base:
 
 - **Questions identify knowledge gaps.** LbT systems use learner-generated questions to expose gaps and reinforce comprehension, and [[teaching-ai-vocabulary-lbt-llms-2026|LLM-generated questions]] replace rigid template-based generators.
-- **LbT [[scaffolding|scaffolds]] self-regulation.** Teaching a conversational agent fosters [[self-efficacy]] and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
+- **LbT [[scaffolding|scaffolds]] self-regulation.** Teaching a [[conversational-ai|conversational agent]] fosters [[self-efficacy]] and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
 
 ## Why It Matters in AI Education
 
-Learning by teaching is the constructive, [[active-learning]] counterpoint to the dominant LLM-as-tutor pattern. Where a tutor gives answers (and risks [[cognitive-offloading|Over-Reliance]]), an LbT setup makes the student the teacher, forcing explanation, gap-detection, and knowledge construction. This positions LbT as a key strategy for turning generative AI from a crutch into a tool for deeper learning, and connects to [[desirable-difficulties]], [[active-learning]], and [[constructivist]] pedagogy.
+Learning by teaching is the constructive, [[active-learning]] counterpoint to the dominant LLM-as-tutor pattern. Where a tutor gives answers (and risks [[cognitive-offloading|Over-Reliance]]), an LbT setup makes the student the teacher, forcing explanation, gap-detection, and knowledge construction. This positions LbT as a key strategy for turning [[generative-ai|generative AI]] from a crutch into a tool for deeper learning, and connects to [[desirable-difficulties]], [[active-learning]], and [[constructivist]] [[pedagogy]].
 
-## Design Implications
+## Putting Learning by Teaching into Practice
 
-1. **Make the LLM a fallible novice, not an expert.** Use constraint-based prompts that force error production so the student must explain and correct.
-2. **Engineer knowledge gaps.** Structure problems the LLM cannot solve alone, so the student's knowledge is genuinely needed.
-3. **Reward explanation, not content-dumping.** Learning is predicted by elaboration and reasoning dialogue, not by reuse of external content.
-4. **Preserve productive struggle.** LbT should keep learners in the effortful zone — teaching, explaining, and correcting — rather than smoothing it away.
+### Design patterns for an AI tutee
+
+The [[research-methods-aied|research]] above converges on a few reusable patterns for turning a default-expert LLM into a productive tutee:
+
+- **Constraint-based novice prompts (most reliable).** Rather than asking the model to "pretend to be a confused student," explicitly force fallibility and a teaching loop, e.g.: *"You are a novice student learning about [concept]. Ask me to teach it to you. Ask clarifying questions and deliberately get 2–3 things wrong during our conversation. Never state the correct answer yourself — wait for me to explain, then tell me whether I made sense."*
+- **The reverse-teaching guard.** Add a rule that the tutee must *decline* to explain the answer back when the student tries to flip the roles: *"If I ask you to solve the problem or explain the concept, remind me that I'm the teacher and ask me to explain it instead."* Explique shows this resistance is what preserves the LbT interaction.
+- **Engineered knowledge gaps.** Structure the task so the model *cannot* answer without information only the student holds — the student's knowledge becomes genuinely necessary, not optional. This converts the interaction from optional chat into required teaching.
+- **An external success criterion.** Give the teaching a real consequence — a gatekeeper quiz that unlocks only after the student teaches successfully (Explique), or a code-judging platform the student must make the agent's output pass (Chen). Accountability is what sustains genuine effort and prevents the whole exercise becoming a checkbox.
+
+### Tips for instructors
+
+- **Make the teaching task consequential, not busywork.** The strongest evidence for [[student-engagement|engagement]] comes from activities that matter — Explique gated a graded quiz behind the teaching exercise; Chen tied the tutee's output to passing a judging platform. If teaching is purely optional, students will rationally skip the hard part.
+- **Give students a teaching protocol, not just a chat window.** Scaffold the interaction with a structure — "explain the concept → give a concrete example → answer the tutee's questions → check for understanding" — so open-ended dialogue becomes a deliberate teaching sequence rather than aimless conversation.
+- **Address content-dumping head-on.** Explique found that direct copy-paste of external content rose from under 15% to 30–35% of interactions by the end of the semester. Tell students why pasting defeats the purpose, and consider an accountability step (e.g., "explain the agent's misunderstanding in your own words").
+- **Pair LbT with debugging practice.** Because AI writes correct code, students may lose error-correction practice. Deliberately ask the tutee to *misimplement* something, or follow the teaching session with a bug-finding task, so debugging stays in the loop.
+- **Watch the effort gradient.** Expect novelty to fade; plan to vary the target concepts, add challenge, or rotate which students take the [[teacher-role|teaching role]] to sustain cognitive effort across a term.
+
+### Tips for developers
+
+- **Prefer hard constraints over persona alone.** Prompting for "uncertainty" or "a student persona" is unreliable; explicitly force errors and a clarification loop. (See [[prompting-teachability-novice-personas-lbt-2026]].)
+- **Build a completion criterion.** Define *when the student has explained enough* (Explique used an LLM tool function keyed to the concept's learning objectives) so the interaction ends on understanding, not on a time limit or a fixed turn count.
+- **Log and code the dialogue.** Explique used word-per-minute detection plus LLM semantic coding to classify interactions as Detailed / Minimal / External Content Use — that signal is how you detect circumvention and declining engagement before it becomes a problem.
+- **Give instructors a dashboard.** Completion rates and [[qualitative-research|qualitative]] patterns in teaching interactions let a human intervene when effort drops (Explique's instructors monitored exactly this).
+
+### Implications and open questions
+
+- **LbT is a scalable antidote to AI over-reliance** — it inverts the tutor/student role and keeps the learner cognitively active, which matters more as AI gets more fluent and more "helpful."
+- **Fallibility is a feature, not a bug.** A tutee that is *too* correct removes the error-correction and gap-detection that make LbT work; design for the productive struggle rather than against it.
+- **Open questions remain:** How do LbT interactions sustain beyond a semester as novelty fully fades? Does LbT transfer to non-CS, less-structured domains at the same scale? Can automated dialogue coding become a practical, real-time engagement monitor for instructors? And how do we keep the teaching role meaningful for *every* student rather than a motivated few?
 
 ## Connected Concepts
 
@@ -20089,8 +20116,6 @@ Danielle R. Thomas, Marie Cynthia Abijuru Kamikazi, Clara Brandt, Conrad Borcher
 
 ## [A bit of chaos and madness: The AI Assessment Scale and the work of assessment reform](https://edtechdev.github.io/aied/articles/ai-assessment-scale-reform/)
 
-📄 [PDF](https://arxiv.org/pdf/2606.26729)
-
 This study examines the implementation of the Artificial Intelligence Assessment Scale (AIAS), a structured framework for redesigning [[assessment|university assessment]] in response to [[generative-ai|generative AI]]. Surveying 80 academic staff, the [[research-methods-aied|researchers]] found that while the framework's transparency and guidance were valued, implementation was hampered by departmental inconsistencies, workload pressures, and uncertainty about appropriate AI use levels.
 
 The study frames [[assessment|assessment reform]] through the lens of 'assessment security', conceptualizing the work of redesign as a security practice in [[higher-ed|higher education]]. Staff described the process as 'a bit of chaos and madness', capturing both the disruptive potential and the lack of coordinated [[governance|institutional]] support. This connects to broader challenges around [[academic-integrity|academic integrity]] in the age of generative AI.
@@ -20321,8 +20346,6 @@ Cruz, L. F., da Silva, M. M., & Mamede, H. S. (2026). [*AI-assisted, instructor-
 ---
 
 ## [An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students](https://edtechdev.github.io/aied/articles/ai-assisted-learning-modes-eeg/)
-
-📄 [PDF](https://arxiv.org/pdf/2606.26579)
 
 This study investigates how different modes of [[student-ai-interaction|AI interaction]] affect cognitive [[student-engagement|engagement]] and [[learning-gains|learning outcomes]] in high school students. Using a within-subjects design with 24 students, the [[research-methods-aied|researchers]] compared three conditions: **Auto mode** (AI solves problems independently), **Interactive mode** (student-AI collaboration with [[scaffolding]]), and **Manual mode** (no AI assistance). The Interactive mode produced the highest cognitive engagement and task accuracy, while the Auto mode led to reduced engagement and potential [[cognitive-offloading|Over-Reliance]].
 
@@ -20555,8 +20578,6 @@ Tang, J. (2026). [New AI-Driven Tools for Enhancing Campus Well-being: A Prevent
 ---
 
 ## [How AI Is Changing Teaching Workflows](https://edtechdev.github.io/aied/articles/ai-changing-teaching-workflows/)
-
-📄 [Full article](https://edtechinsiders.substack.com/p/how-ai-is-changing-teaching-workflows)
 
 ## Core Thesis
 
@@ -23428,8 +23449,6 @@ Pier Paolo Benedetti (2026). [Design Principles and Observable Indicators for AI
 ---
 
 ## [Faculty Orientations Shape Adoption of AI in Research and Teaching](https://edtechdev.github.io/aied/articles/ai-pedagogical-orientation/)
-
-📄 arXiv · [PDF](https://arxiv.org/pdf/2605.18140)
 
 ## Key Finding: AI Pedagogical Orientation
 
@@ -29688,24 +29707,33 @@ Kaltchenko, A., & Tiwana, G. (2026). [*ChatGPT Solves All Tested Qiskit Homework
 
 ## [Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Agent on Programming Education](https://edtechdev.github.io/aied/articles/chatgpt-teachable-agent-programming-lbt-2024/)
 
-> **Synthesis:** Chen et al. (2024) investigate whether ChatGPT can serve as a **teachable agent** to support [[learning-by-teaching]] in [[cs-education|programming education]]. Interacting with ChatGPT as a tutee improved students' knowledge gains and programming ability — especially writing readable, logically sound code — and boosted [[self-regulated-learning|self-regulated learning]] and [[self-efficacy]], but had limited impact on error-correction skills because ChatGPT tends to produce correct code, reducing debugging practice.
+> **Synthesis:** Chen et al. (2024) investigate whether ChatGPT can serve as a **teachable agent** to support [[learning-by-teaching]] in [[cs-education|programming education]]. In a randomized experiment on an eight-queens/backtracking programming task, interacting with ChatGPT as a tutee improved students' knowledge gains and programming ability — especially writing readable, logically sound code — and boosted [[self-regulated-learning|self-regulated learning]] and [[self-efficacy]], but had limited impact on error-correction skills because ChatGPT tends to produce correct code, reducing debugging practice. The study's key design choice was to keep ChatGPT deliberately fallible (un-augmented) so that its mistakes become opportunities for students to teach.
 
 ## The Problem with Traditional Teachable Agents
 
-Learning-by-[[teacher-role|teaching]] is an effective [[active-learning]] strategy, but traditional teachable agents (e.g., rule-based tutoring systems) have limitations — particularly their inability to engage in natural-language dialogue. ChatGPT's conversational ability offers a way to make the teachable agent a natural interlocutor that students must explain concepts to and correct.
+Learning-by-[[teacher-role|teaching]] is an effective [[active-learning]] strategy, but traditional teachable agents (e.g., rule-based tutoring systems like Betty's Brain or SimStudent) have limitations — notably an inability to engage in natural-language dialogue, high development cost (1,200–2,300 lines of Java per task), and rigid predefined interaction paths. ChatGPT's conversational ability offers a way to make the teachable agent a natural interlocutor that students must explain concepts to and correct, supporting the "socialized" nature of learning by teaching.
+
+## Study Design
+
+- **41 university students** (20 experimental, 21 control) with self-reported C++ coding ability, average age 21.2.
+- **Task:** solve the classic "eight queens" puzzle using a backtracking algorithm, coded in C++, assessed on an auto-judging platform.
+- **Teachable-agent [[prompt-engineering|prompt design]]** grounded in Gall's (1981) five-stage [[help-seeking]] model (awareness of need, decision to seek help, identifying a help source, eliciting help, reacting to help), so ChatGPT behaves as a realistic help-seeking tutee.
+- **Deliberate fallibility:** the [[research-methods-aied|researchers]] deliberately used un-augmented GPT-4 and did not chase answer accuracy — an agent that makes mistakes gives students more opportunities to teach and correct, and any "[[hallucination-risk|hallucinations]]" read like a beginner's errors.
+- **Procedure:** pre-test → watch three instructional videos (30 min) → experimental group guides ChatGPT to produce correct code while the control writes code alone (1 hour, screen-shared/supervised) → post-test. Both groups had to pass the auto-judging platform.
+- **Measures:** 15-item knowledge test (5 easy/5 medium/5 hard); pseudocode test scored on clearness, correctness, and readability; and a 20-item adapted MSLQ self-regulated-learning questionnaire (test anxiety, self-efficacy, cognitive strategies).
 
 ## Key Findings
 
-- **Improved knowledge and programming gains.** Interacting with ChatGPT as a teachable agent improved students' knowledge gains and programming abilities, particularly in writing readable and logically sound code.
-- **Limited error-correction benefit.** The approach had limited impact on developing error-correction skills, likely because ChatGPT tends to generate correct code, reducing opportunities for students to practice debugging.
-- **Self-regulated [[learning-gains|learning gains]].** Students' SRL abilities improved, suggesting that teaching ChatGPT fosters higher self-efficacy and better implementation of SRL strategies.
-- **Role of natural dialogue.** Natural-language dialogue supports "socialized learning by teaching," where the conversational relationship with the agent drives [[student-engagement|engagement]] and reflection.
+- **Improved knowledge and programming gains.** The teachable-ChatGPT group scored significantly higher on the knowledge test (adjusted mean 11.86 vs. 10.53; F = 35.54, η² = 0.74) and on code **clearness** (4.13 vs. 3.17; F = 7.39, η² = 0.37) and **readability** (F = 4.32, η² = 0.26).
+- **Limited error-correction benefit.** There was **no significant difference in code correctness** (control slightly higher), likely because ChatGPT tends to generate correct code, removing opportunities to practice spotting and fixing bugs. The control group averaged **2.90 submission attempts** vs. **1.95** for the experimental group — more debugging practice, not worse performance.
+- **Higher self-efficacy and self-regulated learning.** The teachable-ChatGPT group reported significantly higher **self-efficacy** (F = 37.26, η² = 0.75) and **cognitive strategies** (F = 18.97, η² = 0.61).
+- **Accountability drove effort.** Students were responsible for making the ChatGPT-generated code pass the judging platform, which motivated sustained effort and compelled them to articulate a personal understanding of the backtracking algorithm in plain natural language.
 
 ## Implications
 
-1. **Conversational teachable agents** can extend learning-by-teaching beyond rule-based agents into natural-language domains.
-2. **Design agent fallibility deliberately** — a teachable agent that is too competent (always correct) removes the error-correction practice that productive learning-by-teaching depends on.
-3. **Support SRL** — the teachable-agent interaction naturally [[scaffolding|scaffolds]] self-regulated learning, but may need explicit design to do so consistently.
+1. **Conversational teachable agents** extend learning-by-teaching beyond rule-based agents into natural-language, open-ended domains.
+2. **Design agent fallibility deliberately** — a teachable agent that is too competent (always correct) removes the error-correction practice that productive learning-by-teaching depends on. Pairing the tutee with an external success criterion (e.g., a judging platform) can restore that accountability.
+3. **Support SRL** — the teachable-agent interaction naturally [[scaffolding|scaffolds]] self-regulated learning, but may need explicit design (e.g., [[metacognition|metacognitive]] prompts) to do so consistently, and instructors should watch for [[cognitive-offloading|over-reliance]].
 
 ## Connected Concepts
 
@@ -29719,6 +29747,7 @@ Learning-by-[[teacher-role|teaching]] is an effective [[active-learning]] strate
 
 ## Connected Articles
 
+- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: teachable agent for 546 students
 - [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation in a conversational review system
 - [[curiobot-llm-tutoring-exploratory-learning]] — LLM tutoring for exploratory learning
 - [[structured-llm-feedback-programming]] — Structured LLM feedback in programming
@@ -31236,8 +31265,6 @@ Nasser Giacaman, Valerio Terragni, Paul Denny, Viraj Kumar (2026). [Commenting w
 ---
 
 ## [Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study](https://edtechdev.github.io/aied/articles/community-centered-ai-education-adults/)
-
-📄 [PDF](https://arxiv.org/pdf/2606.26565)
 
 This case study reports on a community-based participatory [[research-methods-aied|research]] project that co-designed an [[ai-literacy|AI literacy]] program for 54 adults (48 in-person and 6 virtual) in a predominantly African American community in the Midwestern United States. The program covered fundamental AI concepts, societal implications, and practical applications, using hands-on activities and concrete examples over abstract technical explanations.
 
@@ -37006,31 +37033,35 @@ Wu, Xu, & Zhang (2026). [Explainable Knowledge Tracing via Probabilistic Embeddi
 
 ## [Turning 500+ Students into Teachers: A Semester-Long Study of an AI Teachable Agent in an Undergraduate Algorithms Course](https://edtechdev.github.io/aied/articles/explique-teachable-agent-algorithms-546-students-2026/)
 
-> **Synthesis:** Wang et al. (2026) present **Explique**, a platform integrating an AI teachable agent (Algorithm Apprentice) into an undergraduate algorithms course to operationalize [[learning-by-teaching]] (LBT) at scale. In an 11-week field deployment with **546 students** and 3,809 student–agent LBT dialogues, they find that explanation-oriented dialogue behaviors (elaboration, showing reasoning) are associated with fewer incorrect quiz submissions, while external-content reuse is associated with more repeated attempts. The LBT condition corresponded to a modest reduction in expected quiz attempts versus a baseline reading activity.
+> **Synthesis:** Wang et al. (2026) present **Explique**, a platform integrating an AI teachable agent (Algorithm Apprentice) into an undergraduate algorithms course to operationalize [[learning-by-teaching]] (LBT) at scale. In an 11-week field deployment with **546 students** and 3,809 student–agent LBT dialogues, they find that explanation-oriented dialogue behaviors (elaboration, showing reasoning) are associated with fewer incorrect quiz submissions, while external-content reuse is associated with more repeated attempts. The LBT condition corresponded to a modest reduction in expected quiz attempts versus a baseline reading activity — the largest longitudinal, in-situ evidence to date that LLM teachable agents can sustain learning-by-[[teacher-role|teaching]] in a real high-enrollment course.
 
 ## The Need for Large-Scale LBT Evidence
 
-[[llm]] tools give students rapid solutions but may reduce opportunities for [[desirable-difficulties|productive struggle]] and explanation generation that support conceptual learning. Learning-by-teaching offers an alternative by positioning students as tutors — yet evidence for LLM-based teachable agents remained limited, especially for longitudinal deployments and large-scale evaluations connecting LBT interactions to conceptual understanding in authentic courses.
+[[llm]] tools give students rapid solutions but may reduce opportunities for [[desirable-difficulties|productive struggle]] and explanation generation that support conceptual learning — and, when an LLM supplies completed reasoning, it can displace the learner's own self-explanation. Learning-by-teaching offers an alternative by positioning students as tutors: prior work shows teaching benefits learners by [[prompt-engineering|prompting]] knowledge organization and [[metacognition|metacognitive monitoring]]. Yet sustaining LBT at scale is hard — in a lecture hall of 500+, it is rarely feasible for each student to regularly teach a human partner. LLM-based teachable agents promise a path, but evidence remained limited to short-term or lab-based studies, leaving open how interactions evolve over a long semester and whether they connect to conceptual understanding in authentic courses.
 
 ## Study Design
 
-- **Explique platform** integrates the Algorithm Apprentice teachable agent into an undergraduate algorithms course.
-- **11-week field deployment** in a real course with **546 students**.
-- **3,809 student–agent LBT dialogues** analyzed alongside quiz and survey data.
-- **Generalized linear mixed-effects models** linked dialogue behaviors to [[learning-gains|learning outcomes]].
+- **Explique platform** built on GPT-4o, with the agent in the role of an **Algorithm Apprentice** (a novice student, explicitly *not* a tutor) integrated into the EPFL digital learning platform.
+- **Three engineered prompt constraints** govern the apprentice: (a) always maintain the stance of a novice, (b) persistently request questions/clarifications until the student gives a satisfactory, accurate explanation, and (c) **never reveal, hint at, or generate the target explanation** — students who tried to have the apprentice explain the algorithm back were met with resistance.
+- **Weekly after-class exercise** covering a course-aligned algorithm (e.g., Insertion Sort, DFS, Bellman–Ford), co-designed with the instructor and followed by a 3–5 item MCQ quiz.
+- **Quiz-gatekeeper design:** completing the LBT exercise unlocks the quiz; quizzes were autograded and counted for an optional 5% of the grade ([[motivation|extrinsic motivation]]), with unlimited attempts and a one-minute lockout after incorrect submissions.
+- **Crossover design:** 546 students randomly split into groups A and B; each week one group did the LBT exercise and the other a baseline reading activity on the algorithm, then swapped — yielding 22 exercises and 22 quizzes per student, half under each condition.
+- **Data:** 456 of 546 consented; after excluding two weeks with a technical issue, **3,809 LBT dialogues from 453 students** (35,702 messages) were analyzed with generalized linear mixed-effects models.
 
 ## Key Findings
 
-- **Explanation-oriented dialogue predicts success.** Dialogue behaviors such as elaboration and showing reasoning were associated with fewer quiz attempts (fewer incorrect submissions).
-- **External-content reuse hurts.** Direct reuse of externally sourced content was associated with slightly more repeated attempts (more incorrect submissions).
-- **Modest LBT benefit.** Compared to a baseline reading activity, the LBT condition corresponded to a modest reduction in expected quiz attempts, though confounded by substantial differences in time-on-task.
-- **[[student-engagement|Engagement]] varies in depth/authenticity.** Students engaged consistently in multi-turn teaching interactions over the semester, though depth and authenticity varied, including instances of direct reuse of external content.
+- **Explanation-oriented dialogue predicts success.** Each additional "deep learning" act (showing reasoning, providing elaboration, giving examples) during an LBT dialogue was associated with a **2.7% decrease in the expected number of quiz attempts** (IRR 0.973, p < .001); both Show Reasoning (β = −0.059) and Provide Elaboration (β = −0.049) were individually significant.
+- **External-content reuse hurts.** Direct reuse of externally sourced content (detected via word-per-minute and LLM coding) was associated with more repeated attempts.
+- **Interactions cluster into three patterns that shift over the semester.** Overall, 53.3% of dialogues were **Detailed**, 19.5% **Minimal**, and 27.2% **External Content Use**. Detailed interactions were highest early (~75% in Week 1) and declined to 45–55% by the later weeks, while External Content Use rose from under 15% to roughly **30–35% by Weeks 10–11** — a circumvention problem the design must counter.
+- **Sustained but variable [[student-engagement|engagement]].** Students averaged about **eight conversational turns per activity** each week (range 6.8–9.7), and average message length rose from ~31 to over 70 words across the semester (though this is partly confounded by rising content reuse). Dialogue acts: Provide Elaboration 27.2%, Produce Basic Info 23.4%, External Content Use 15.9%, Show Reasoning 15.4%, Provide Acknowledgment 13.4%, Give Examples 3.5%, with active [[help-seeking]] acts (Seek Elaboration 0.8%, Seek Answer 0.2%) rare.
+- **Modest LBT benefit vs. reading.** Compared to a baseline reading activity, the LBT condition corresponded to a modest reduction in expected quiz attempts (β = −0.050, p = .012), though the comparison is confounded by substantial differences in time-on-task.
 
 ## Implications
 
-1. **LBT with LLM teachable agents scales** to authentic, large-enrollment courses.
-2. **Encourage explanation, discourage content-dumping** — the quality of teaching interaction (elaboration vs. reuse) predicts learning, guiding system and instruction design.
-3. **Connect LBT behavior to conceptual understanding** at scale is feasible with platform-based measurement.
+1. **LBT with LLM teachable agents scales** to authentic, large-enrollment courses and produces sustained multi-turn teaching interactions across a full semester.
+2. **Design for productive struggle, not content-dumping.** The quality of the teaching interaction — elaboration and reasoning vs. reuse — predicts learning; systems should enforce the apprentice's refusal to give answers and monitor for copy-paste circumvention, which rises over time.
+3. **Sustaining cognitive effort is a core design challenge.** The decline in Detailed interactions and rise in External Content Use toward semester's end shows engagement must be actively managed, not assumed.
+4. **Connect LBT behavior to conceptual understanding** at scale is feasible with platform-based measurement (dialogue coding + quiz performance).
 
 ## Connected Concepts
 
@@ -37040,6 +37071,7 @@ Wu, Xu, & Zhang (2026). [Explainable Knowledge Tracing via Probabilistic Embeddi
 - [[desirable-difficulties]]
 - [[scaffolding]]
 - [[higher-ed]]
+- [[metacognition]]
 
 ## Connected Articles
 
@@ -67268,8 +67300,6 @@ Smith, D. R., Whittington, W., Martinez, A., Duncan, A., & Li, G. (2026). [*A Co
 ---
 
 ## [Explainable Artificial Intelligence in Education (XAI-ED)](https://edtechdev.github.io/aied/articles/xai-education-framework/)
-
-📄 DOI: 10.1016/j.caeai.2022.100074
 
 ## Core Contribution
 
