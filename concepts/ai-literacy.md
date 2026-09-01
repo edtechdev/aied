@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, educational-development, academic-integrity]
 audience: [faculty development, instructors, learners]
@@ -109,6 +109,10 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 
 - **Project-based learning and AI literacy course satisfaction.** Zhu & Kong (2026) developed and validated an AI project-based learning (AI-PBLS) scale and, in a Hong Kong sample of 1,027 secondary and university students (446 with complete data), used structural equation modeling to show that [[self-efficacy|empowerment]] in using AI for problem solving and AI [[ethics|ethical awareness]] jointly **mediate** the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. This positions PBL not merely as a delivery format but as a mechanism that builds learner confidence and ethical reasoning alongside competence, reinforcing the link between [[project-based-learning|PBL]] and meaningful AI literacy development. It also supplies a validated measurement instrument for future [[educational-measurement|measurement]] of AI literacy course experiences.
 
+### Measuring Teacher AI Literacy
+
+- Most AI-literacy assessments target students or general users, leaving a gap in [[teacher-education|teacher]] education. A psychometric study developed the Teachers' AI Literacy Scale (TAILS), grounded in the ED-AI framework with six dimensions — knowledge, evaluation, collaboration, contextualization, autonomy, and ethics — validated through exploratory and confirmatory factor analysis with [[language-learning|preservice language teachers]]. Such instruments support measuring and developing the AI literacy of the educators who mediate learners' engagement with AI.
+
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI literacy
 
@@ -185,3 +189,5 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[science-integrated-ai-literacy-curriculum-dbr-2026]] — Science-integrated AI literacy curriculum via DBR (Moore et al. 2026)
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
+- [[all-girls-genai-makerspace-gender-equity-2026]] — All-girls GenAI makerspace workshops and gender equity in computing
+- [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)

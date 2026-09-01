@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 connected_faqs: [faculty-ai-competencies]
 type: concept
 tags: [ai-literacy, educational-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy]
@@ -61,6 +61,10 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - **Support the institutional layer:** sustainable teacher competency requires aligned policy, governance, and capacity, not isolated training.
 
 - **Teacher digital competence for GenAI [[curriculum-design|curriculum design]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validate a TAM-based diagnostic instrument with 434 in-service teachers; behavioural intention was the main predictor of digital competence for using GenAI in curriculum planning, with self-efficacy as a root driver.
+### A Psychometric Instrument for Teacher AI Competency
+
+- A psychometric study developed the Teachers' AI Literacy Scale (TAILS) to measure AI literacy specifically within [[teacher-education|language teacher education]], operationalising the ED-AI framework's six dimensions. The instrument's development fills a gap in assessments that target students or general users, supporting the measurement of teacher AI competency.
+
 ## Connected Concepts
 
 - [[ai-literacy]]
@@ -119,3 +123,4 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework + PD for Ukrainian secondary educators (Marienko et al. 2026)
+- [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)

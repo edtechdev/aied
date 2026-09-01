@@ -1,7 +1,7 @@
 ---
 title: Project-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [project-based-learning, active-learning, collaborative-learning, educational-robotics, higher-ed, k-12]
 level: [higher ed, k 12]
@@ -39,6 +39,10 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 
 - **Measuring PBL in AI literacy courses.** Zhu and Kong (2026) developed and validated an AI project-based learning scale (AI-PBLS) grounded in Hong Kong secondary and university students' experiences, and used it to show that perceived PBL fosters AI literacy course satisfaction through the mediating mechanisms of empowerment in AI [[problem-solving]] and AI [[ethics|ethical]] awareness. The scale offers [[research-methods-aied|researchers]] a validated instrument, and the mediation finding strengthens the case for PBL as a vehicle that builds confidence and ethical reasoning — not just content — in [[ai-education|AI education]].
 
+### PBL With Digital Storytelling in the AI Era
+
+- Project-based learning combined with [[storytelling-in-education|digital storytelling]] offers a pedagogical response to [[generative-ai|generative AI]] in art and design education. A 15-week embedded case study with 426 undergraduates implemented a PBL-DS framework in which digital storytelling served as the primary methodology for students to translate local cultural heritage into emotionally resonant, [[multimodal]] narratives, cultivating the creative capacities that AI lacks.
+
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -68,3 +72,4 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBL is a dominant CT learning strategy
 
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
+- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era

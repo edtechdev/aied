@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [math-education, stem-education, intelligent-tutoring, k-12, generative-ai, higher-ed, student-experience, scaffolding]
 discipline: [math education, stem education]
@@ -54,6 +54,10 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 ## LLM Tutoring and Smart-Classroom Training
 
 - **LLM tutoring and [[learning-design|instructional design]] for mathematics.** Two 2026 studies sharpen the math-education evidence base. Looi, Liu, and Sun (2026) developed a rule-guided [[intelligent-tutoring|LLM tutoring system]] for primary-school math word problems whose three-layer architecture (diagnosis → intent selection → constrained response generation) improved interactional consistency and reduced premature answer-giving in a 40-student Grade 5 classroom pilot — evidence that procedural math domains need [[guardrails|structured rule-guards]] on otherwise stochastic LLM scaffolding. Zhu, Liang, Mao, and Wang (2026) applied a smart-classroom model to mathematics M.Ed. students and found statistically significant gains (p < .05) in instructional-objective design across curriculum-standards, textbook, and student-condition dimensions.
+
+### AI-Generated Mathematical Modelling Problems
+
+- [[generative-ai|GenAI]] can now be embedded in platforms that generate mathematical modelling problems grounded in established design principles and [[prompt-engineering|retrieval-augmented generation]]. An AI-powered platform developed through the ADDIE approach used direct variation in secondary school mathematics as an illustrative topic, addressing teachers' lack of time and resources to design high-quality modelling tasks. Existing tools typically produce conventional word problems or routine exercises; the platform instead aimed to generate resources that foster mathematical modelling competencies.
 
 ## Connected Concepts
 
@@ -112,3 +116,4 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
+- [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)

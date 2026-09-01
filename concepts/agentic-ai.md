@@ -1,7 +1,7 @@
 ---
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop-ai, agency, cognitive-offloading]
@@ -62,7 +62,7 @@ When designed well, agentic AI offers substantial benefits:
 
 The same autonomy that enables these benefits also creates significant risks:
 
-- **Erosion of learner agency and cognitive effort.** The more an agent automates, the less cognitive work the learner does. Proactive agents that initiate, plan, and complete tasks can leave learners as passive consumers, hollowing out the effortful processes — drafting, recalling, revising — that build durable learning. This is the core [[cognitive-offloading|Over-Reliance]] and [[agency|agency]] concern.
+- **Erosion of learner agency and cognitive effort.** The more an agent automates, the less cognitive work the learner does. Proactive agents that initiate, plan, and complete tasks can leave learners as passive consumers, hollowing out the effortful processes — drafting, recalling, revising — that build durable learning. This is the core [[cognitive-offloading|Over-Reliance]] and [[agency]] concern.
 - **Over-automation of the learning process.** If an agent optimises for task completion rather than learning, it can produce "answers" that bypass understanding — the very risk the [[tool-invariant-framework-agentic-ai|tool-invariant framework]] warns about, where the artifact no longer certifies the learner.
 - **Reduced metacognitive and self-regulated [[student-engagement|engagement]].** When agents handle planning and monitoring, learners may not develop the [[metacognition]] and [[self-regulated-learning|self-regulation]] that education aims to build. Agents must be designed to elicit, not replace, these processes.
 - **Misplaced trust and verification gaps.** Autonomous agents can produce plausible but unvalidated output; learners and teachers may [[trust-calibration|over-trust]] it. The need for robust verification and [[ai-literacy]] grows as agents take on more autonomy.
@@ -142,7 +142,7 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[simulation]]
 - [[pedagogical-safety]]
 - [[ai-education]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
+- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, [[pedagogical-llm-training|LLM training]], robotics, RAG, agentic)
 - [[equity-in-ai-education]]
 - [[authentic-assessment]]
 - [[teacher-role]]
@@ -152,6 +152,10 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[ai-use-disclosure]]
 - [[online-teaching-and-learning]]
 - [[educational-policy-ai]]
+### Socially Intelligent Multi-Agent Tutoring
+
+- Socially intelligent multi-agent tutoring prototypes such as ASTRA study how learners coordinate with AI in dyads, using differentiated Tutor and Facilitator agents to prompt coordination and balanced participation. The framework's trace-based evaluation enables reproducible analysis of interaction, participation balance, and verification in introductory programming.
+
 ## Connected Articles
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[genai-counter-learner-groupthink-2025]]
@@ -189,3 +193,4 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
+- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration

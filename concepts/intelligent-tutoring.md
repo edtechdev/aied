@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 tags: [intelligent-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
@@ -48,7 +48,7 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 ### Key ITS concepts
 
 - **[[knowledge-tracing]]** — modeling what a student knows over time (Bayesian, deep learning, IRT-based)
-- **[[cognitive-diagnosis]]** — fine-grained assessment of which knowledge components and [[misconceptions|misconceptions]] a learner holds; the assessment-side counterpart to [[knowledge-tracing]] that feeds the tutor's pedagogical decision
+- **[[cognitive-diagnosis]]** — fine-grained assessment of which knowledge components and [[misconceptions]] a learner holds; the assessment-side counterpart to [[knowledge-tracing]] that feeds the tutor's pedagogical decision
 - **[[student-modeling]]** — broader learner representation including affect, engagement, and misconceptions
 - **[[adaptive-learning]]** — systems that personalize content sequencing based on learner state
 - **[[scaffolding]]** — providing just enough support to enable progress without giving away answers
@@ -107,6 +107,10 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 ## Rule-Guided LLM Tutoring
 
 - **Rule-integrated LLM tutoring for procedural domains.** Looi, Liu, and Sun (2026) tackle the inconsistency and pedagogical opacity of LLM tutors in primary [[math-education|mathematics]] through a design science study of a rule-guided system organized around a three-layer architecture — *diagnosis → intent selection → constrained response generation*. They formalize the distinction between **rule-guided scaffolding** (governed by auditable, replicable rules) and **ad-hoc scaffolding** (helpful moves difficult to audit or replicate). Evaluated via persona-based simulated dialogues and a classroom pilot with 40 Grade 5 students, rule-guided scaffolding improved interactional consistency, reduced premature answer-giving and early closure, and sustained cognitive engagement — while the classroom pilot surfaced interactional complexities, fragmented inputs, and attentional fluctuations that [[simulation]] missed. This is a concrete blueprint for [[guardrails|guardrailing]] [[llm|LLM]] tutors in well-defined procedural domains.
+
+### Multi-Agent Tutoring and Automated Coding
+
+- Multi-agent tutoring systems are being benchmarked with synthetic, trace-based evaluation. ASTRA supports alone-tutor, pair-tutor, and pair-multiagent configurations with socially differentiated agents, enabling reproducible analysis of interaction and participation balance in introductory programming. In parallel, context-aware prompting automates coding of [[collaborative-learning|collaborative problem-solving]] skills from process data, supporting large-scale tutoring assessment.
 
 ## Connected Concepts
 
@@ -170,3 +174,5 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
+- [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
+- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds

@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy]
 
@@ -39,6 +39,10 @@ Model differences also matter for high-stakes downstream uses. [[lopez-pernas-ll
 ### Connections
 
 LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]] (how outputs are controlled), [[rag]] (knowledge grounding), [[hallucination-risk]] (the primary limitation), and [[pedagogical-safety]] (educational guardrailing).
+
+### LLM Behaviour Under Skepticism
+
+- An algorithmic audit queried ten frontier LLMs 500 times each with a rural-Montana [[k-12]] AI-skeptic persona to test whether AI systems consulted by skeptical users are predisposed to encourage adoption. Eight of ten acknowledged user concerns then redirected to AI-[[student-engagement|engagement]] framings; composite scores spanned from 3.85 (Claude Sonnet) to 7.52 (Gemini 3.1 Pro Preview), with a cross-family AI scorer panel clearing Cohen's kappa >= 0.70. The pattern was a model-dependent design outcome.
 
 ## Connected Concepts
 
@@ -114,3 +118,4 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
+- [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff

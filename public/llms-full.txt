@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 183 concepts, 1006 articles, and 16 FAQs.
+> Complete text of 183 concepts, 1016 articles, and 16 FAQs.
 
 # Concepts
 
@@ -416,6 +416,10 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 
 - **Project-based learning and AI literacy course satisfaction.** Zhu & Kong (2026) developed and validated an AI project-based learning (AI-PBLS) scale and, in a Hong Kong sample of 1,027 secondary and university students (446 with complete data), used structural equation modeling to show that [[self-efficacy|empowerment]] in using AI for problem solving and AI [[ethics|ethical awareness]] jointly **mediate** the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. This positions PBL not merely as a delivery format but as a mechanism that builds learner confidence and ethical reasoning alongside competence, reinforcing the link between [[project-based-learning|PBL]] and meaningful AI literacy development. It also supplies a validated measurement instrument for future [[educational-measurement|measurement]] of AI literacy course experiences.
 
+### Measuring Teacher AI Literacy
+
+- Most AI-literacy assessments target students or general users, leaving a gap in [[teacher-education|teacher]] education. A psychometric study developed the Teachers' AI Literacy Scale (TAILS), grounded in the ED-AI framework with six dimensions — knowledge, evaluation, collaboration, contextualization, autonomy, and ethics — validated through exploratory and confirmatory factor analysis with [[language-learning|preservice language teachers]]. Such instruments support measuring and developing the AI literacy of the educators who mediate learners' engagement with AI.
+
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI literacy
 
@@ -492,6 +496,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[science-integrated-ai-literacy-curriculum-dbr-2026]] — Science-integrated AI literacy curriculum via DBR (Moore et al. 2026)
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
+- [[all-girls-genai-makerspace-gender-equity-2026]] — All-girls GenAI makerspace workshops and gender equity in computing
+- [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
 
 ---
 
@@ -548,7 +554,7 @@ When designed well, agentic AI offers substantial benefits:
 
 The same autonomy that enables these benefits also creates significant risks:
 
-- **Erosion of learner agency and cognitive effort.** The more an agent automates, the less cognitive work the learner does. Proactive agents that initiate, plan, and complete tasks can leave learners as passive consumers, hollowing out the effortful processes — drafting, recalling, revising — that build durable learning. This is the core [[cognitive-offloading|Over-Reliance]] and [[agency|agency]] concern.
+- **Erosion of learner agency and cognitive effort.** The more an agent automates, the less cognitive work the learner does. Proactive agents that initiate, plan, and complete tasks can leave learners as passive consumers, hollowing out the effortful processes — drafting, recalling, revising — that build durable learning. This is the core [[cognitive-offloading|Over-Reliance]] and [[agency]] concern.
 - **Over-automation of the learning process.** If an agent optimises for task completion rather than learning, it can produce "answers" that bypass understanding — the very risk the [[tool-invariant-framework-agentic-ai|tool-invariant framework]] warns about, where the artifact no longer certifies the learner.
 - **Reduced metacognitive and self-regulated [[student-engagement|engagement]].** When agents handle planning and monitoring, learners may not develop the [[metacognition]] and [[self-regulated-learning|self-regulation]] that education aims to build. Agents must be designed to elicit, not replace, these processes.
 - **Misplaced trust and verification gaps.** Autonomous agents can produce plausible but unvalidated output; learners and teachers may [[trust-calibration|over-trust]] it. The need for robust verification and [[ai-literacy]] grows as agents take on more autonomy.
@@ -628,7 +634,7 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[simulation]]
 - [[pedagogical-safety]]
 - [[ai-education]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
+- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, [[pedagogical-llm-training|LLM training]], robotics, RAG, agentic)
 - [[equity-in-ai-education]]
 - [[authentic-assessment]]
 - [[teacher-role]]
@@ -638,6 +644,10 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[ai-use-disclosure]]
 - [[online-teaching-and-learning]]
 - [[educational-policy-ai]]
+### Socially Intelligent Multi-Agent Tutoring
+
+- Socially intelligent multi-agent tutoring prototypes such as ASTRA study how learners coordinate with AI in dyads, using differentiated Tutor and Facilitator agents to prompt coordination and balanced participation. The framework's trace-based evaluation enables reproducible analysis of interaction, participation balance, and verification in introductory programming.
+
 ## Connected Articles
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[genai-counter-learner-groupthink-2025]]
@@ -675,6 +685,7 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
+- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 
 ---
 
@@ -1219,7 +1230,7 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 ## How AI transforms teaching
 
 - **From instructor to orchestrator:** [[teacher-ai-teaming-five-levels|Five levels of teacher-AI teaming]] and [[teacher-student-agency-orchestration|agency orchestration research]] map the spectrum from AI as tool to AI as teaching partner. At the far end, the teacher orchestrates a team that includes human learners, [[intelligent-tutoring|AI tutors]], and curriculum resources rather than delivering all content themselves.
-- **Workflow transformation:** [[ai-changing-teaching-workflows]] documents how AI shifts teacher time from content delivery to higher-value activities like individual support, [[feedback|feedback]], and [[curriculum-design|curriculum design]]. The teacher's scarcest resource — attention — is reallocated from producing materials to interpreting learners.
+- **Workflow transformation:** [[ai-changing-teaching-workflows]] documents how AI shifts teacher time from content delivery to higher-value activities like individual support, [[feedback]], and [[curriculum-design|curriculum design]]. The teacher's scarcest resource — attention — is reallocated from producing materials to interpreting learners.
 - **Competency demands:** [[teacher-ai-competency|Teacher AI competency frameworks]] define what educators need to know, from basic tool fluency to pedagogically grounded orchestration. [[teacher-ai-adoption-confidence|Adoption studies]] identify the real barriers: confidence, [[governance|institutional]] support, and workload concerns.
 - **Co-design and agency:** [[teacher-authored-prompts-student-ai-dialogue|Teacher-authored prompts]] and [[gaide-vibe-coding-k12-teachers|vibe coding for teachers]] show educators as active AI designers, not passive consumers — writing the prompts and scaffolds that shape how AI behaves for their students.
 - **[[teacher-education|Preservice]] preparation:** [[ai-tpack-preservice-math-teachers|TPACK-based training]] and [[educational-development]] programs prepare future teachers for AI-augmented classrooms before they enter them.
@@ -1283,7 +1294,7 @@ Academic integrity with AI is a *design* problem, not a policing problem. Instru
 Teaching and [[learning-design|learning design]] are two sides of the same coin — the instructor's daily judgments are the live execution of the designed learning experience. AI tightens this connection:
 
 - **Teachers as learning designers.** [[learnai-just-in-time-ai-cocreation-university-2026|LearnAI]] and [[teacher-authored-prompts-student-ai-dialogue|teacher-authored prompt design]] show instructors functioning as designers: specifying the activity, the AI's role, and the scaffolds that structure learning. This is [[learning-design]] in action at the point of use.
-- **Learning-design principles govern AI pedagogy.** The same [[learning-design]] principles — clear objectives, aligned assessment, [[scaffolding|scaffolding]], and [[feedback]] — determine whether AI helps or harms. [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]] empirically validates that grounding AI design in formal instructional-design models beats theory-free [[prompt-engineering|prompting]].
+- **Learning-design principles govern AI pedagogy.** The same [[learning-design]] principles — clear objectives, aligned assessment, [[scaffolding]], and [[feedback]] — determine whether AI helps or harms. [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]] empirically validates that grounding AI design in formal instructional-design models beats theory-free [[prompt-engineering|prompting]].
 - **Design for the teacher's orchestration.** Effective AI learning environments are designed *with the teacher in mind* — the tools [[prezenski-human-centered-ai-aided-learning|human-centered AI]] provide should reduce teacher workload and augment judgment, not add another opaque black box. When instructors co-design AI learning activities ([[activity-theory-teachers-adoption-ai-sem-2026|activity-theory perspectives]]), adoption and quality both improve.
 
 ## Connections
@@ -1303,6 +1314,10 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 ## Teacher Co-Design of Early AI Literacy
 
 - **Teacher co-design in early AI literacy.** Lee (2026) shows that two pre-K and two kindergarten teachers who co-designed the Play With AI (PL-AI) curriculum experienced substantial growth in confidence and pedagogical agency, with co-design fostering curriculum ownership, reflective practice, and meaningful adaptation. This positions teachers as central co-designers — not just implementers — of developmentally appropriate AI literacy curricula, a model with implications for [[teacher-education|teacher preparation]] in early childhood [[ai-education|AI education]].
+
+### Teachers Co-Designing AI Learning Resources
+
+- The teacher's role extends to co-designing AI learning resources: teacher-AI co-designed [[simulation|simulations]] for drone STEM instruction kept GenAI output pedagogically valid and contextually relevant, and teachers are the intended beneficiaries of the Teachers' AI Literacy Scale. Effective GenAI integration increasingly depends on teacher involvement in design.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -1393,6 +1408,7 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
+- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
 
 ---
 
@@ -1453,6 +1469,10 @@ For instructional designers, course developers, and engineers building AI-assist
 ## Smart-Classroom D-T-E Model
 
 - **Smart-classroom D-T-E model for [[math-education|mathematics]] M.Ed. training.** Zhu, Liang, Mao, and Wang (2026) propose a three-dimensional framework for smart education — learning effectiveness, information and communication technology (ICT), and classroom organization — and instantiate it in a mathematics M.Ed. course that integrates [[automated-assessment|automated scoring]], personalized recommendations, and multi-[[ai-feedback-quality|AI feedback]] across pre-, in-, and post-class stages. A quasi-experiment showed significant gains in students' ability to formulate precise, professionally grounded instructional objectives, yielding the transferable **D-T-E Model** (Disciplinary Demand–Technological Empowerment–Evaluation Loop). This offers [[discipline-specific-aied|discipline-specific]] guidance for [[educational-development|teacher educators]] moving smart-education concepts into practical instructional design practice.
+
+### GenAI Content Generation and Learning Design
+
+- [[generative-ai|Generative AI]] platforms can embody learning-design principles in the content they produce. An AI-powered platform for generating mathematical modelling problems combined established design principles with [[prompt-engineering|retrieval-augmented generation]], developed through the ADDIE approach to produce pedagogically grounded tasks and recommendations that conventional content generators lack.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -1525,6 +1545,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
+- [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
 
 ---
 
@@ -2384,6 +2405,10 @@ Curriculum design addresses the *what* of education at the program level, comple
 
 Curriculum design connects directly to [[learning-design]] — curriculum defines what, instruction defines how. It connects to [[ai-literacy]] because embedding AI competencies is a primary curriculum challenge, to [[teacher-role]] and [[educational-development]] because curriculum change requires educator preparation, and to [[scaffolding]] because well-designed curricula scaffold skill development across courses and years. The [[higher-ed]] and [[k-12]] connections reflect curriculum design's relevance across educational levels.
 
+### Generating Curriculum-Aligned Modelling Tasks
+
+- AI-powered platforms can address teachers' lack of time and resources for designing high-quality [[math-education|mathematical modelling]] tasks by generating curriculum-aligned problems and pedagogical recommendations grounded in design principles and [[rag|retrieval-augmented]] generation. The approach was illustrated with direct variation in secondary school mathematics.
+
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 
@@ -2439,6 +2464,7 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
+- [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
 
 ---
 
@@ -2926,12 +2952,12 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 
 ## [Collaborative Learning](https://edtechdev.github.io/aied/concepts/collaborative-learning/)
 
-> **Collaborative Learning** — instructional approaches where students work together to solve problems, complete tasks, or construct knowledge, supported or mediated by AI tools. In AI in education, collaborative learning research spans AI as a collaboration partner, AI as a mediator of human collaboration, and the design of collaborative AI tutoring systems.
+> **Collaborative Learning** — instructional approaches where students work together to solve problems, complete tasks, or construct knowledge, supported or mediated by AI tools. In [[ai-education|AI in education]], collaborative learning [[research-methods-aied|research]] spans AI as a collaboration partner, AI as a mediator of human collaboration, and the design of collaborative AI tutoring systems.
 
 ## Questions to Consider
 
-- Think of a time you learned something deeply in a group. What made it work? Now imagine an AI chatbot joining that group — how could it strengthen or quietly undermine what you experienced?
-- Research finds a trade-off: delegating reasoning to AI produces the best task performance but the least self-regulatory engagement, while the mode that builds self-regulation underperforms on the task. If you had to choose, which would you protect — the outcome or the struggle?
+- Think of a time you learned something deeply in a group. What made it work? Now imagine an AI [[conversational-ai|chatbot]] joining that group — how could it strengthen or quietly undermine what you experienced?
+- Research finds a trade-off: delegating reasoning to AI produces the best task performance but the least self-regulatory engagement, while the mode that builds self-[[regulation]] underperforms on the task. If you had to choose, which would you protect — the outcome or the struggle?
 - The ICAP framework ranks 'interactive' collaboration as the deepest form of engagement. Could an AI that answers for the group actually downgrade collaboration from interactive to merely passive — even if students feel more satisfied?
 - One study found AI mediators are trusted only while they stay neutral; when the AI shifts to advising or challenging, that trust erodes. How neutral should a group's AI mediator really be?
 - When learners use AI to produce a polished artifact, they may skip the epistemic effort that builds understanding. How would you design an AI partner that surfaces disagreement and conflict instead of smoothing it over?
@@ -2939,25 +2965,25 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 
 ## Introduction
 
-Collaborative learning is grounded in [[sociocultural-learning|sociocultural theories]] of learning that position knowledge construction as fundamentally social. AI introduces new dynamics: AI can serve as a peer, a facilitator, or a participant in collaborative processes. The articles in this knowledge base explore how AI-mediated collaboration affects learning outcomes, epistemic engagement, and [[equity-in-ai-education|equity]] — and how collaborative structures must be designed to accommodate diverse learners.
+Collaborative learning is grounded in [[sociocultural-learning|sociocultural theories]] of learning that position knowledge construction as fundamentally social. AI introduces new dynamics: AI can serve as a peer, a facilitator, or a participant in collaborative processes. The articles in this knowledge base explore how AI-mediated collaboration affects [[learning-gains|learning outcomes]], epistemic engagement, and [[equity-in-ai-education|equity]] — and how collaborative structures must be designed to accommodate diverse learners.
 
-**AI as collaborative partner** explores AI's role in group learning. **[[polished-artifacts-fragile-engagement-2026|Kimmerle]]** conceptualizes the risk of reduced epistemic effort when learners use AI to produce polished knowledge artifacts, advocating for AI structured as an argumentative partner that preserves cognitive conflict. **[[epistemic-emotions-collaborative-problem-solving]]** examines how emotions shape collaborative problem-solving with AI. **[[hingle-collaborative-ai-literacy-2025]]** explores collaborative approaches to [[ai-literacy|AI literacy]] development.
+**AI as collaborative partner** explores AI's role in group learning. **[[polished-artifacts-fragile-engagement-2026|Kimmerle]]** conceptualizes the risk of reduced epistemic effort when learners use AI to produce polished knowledge artifacts, advocating for AI structured as an argumentative partner that preserves cognitive conflict. **[[epistemic-emotions-collaborative-problem-solving]]** examines how emotions shape collaborative [[problem-solving]] with AI. **[[hingle-collaborative-ai-literacy-2025]]** explores collaborative approaches to [[ai-literacy|AI literacy]] development.
 
-**AI-mediated peer collaboration** examines how AI [[scaffolding|scaffolds]] human-to-human collaboration. **[[collaborative-ai-tutoring]]** and **[[agent-voice-accents-k12-group-learning]]** explore how AI agent characteristics affect group dynamics. **[[ai-agents-peer-learning-discourse]]** documents how AI agents teaching each other produce discourse patterns resembling human peer learning.
+**AI-mediated peer collaboration** examines how AI [[scaffolding|scaffolds]] human-to-human collaboration. **[[collaborative-ai-tutoring]]** and **[[agent-voice-accents-k12-group-learning]]** explore how AI agent characteristics affect group dynamics. **[[ai-agents-peer-learning-discourse]]** documents how [[agentic-ai|AI agents]] teaching each other produce discourse patterns resembling human peer learning.
 
 **Neurodivergent perspectives on collaboration** reveal critical design requirements. **[[neurodivergent-computing-students|Zastudil et al.]]** found that neurodivergent students need structured assignments, small consistent teams with explicitly defined roles, and predictable interaction patterns — requirements that AI collaboration tools must accommodate. This connects collaborative learning to [[inclusive-learning]] and [[neurodiversity]].
 
 **Teacher-AI collaboration** examines how teachers and AI work together. **[[teacher-student-agency-orchestration]]** and **[[teacher-ai-teaming-five-levels]]** explore frameworks for human-AI collaborative teaching, connecting to [[teacher-role]] and [[human-in-the-loop-ai]].
 
-**AI as a pedagogical mediator** reconceptualizes AI's role in collaboration beyond tool or peer. Drawing on sociocultural theory and [[distributed-cognition|distributed cognition]], **[[niari-ai-pedagogical-mediator-collaborative-learning|Niari]]** positions AI as an active participant in the orchestration of interaction, epistemic sense-making, and regulatory processes, redistributing agency, authority, and responsibility across human and non-human actors without displacing learner or teacher agency. This grounds collaborative learning in a socially mediated, co-regulated view of AI rather than an individualistic one.
+**AI as a [[pedagogy|pedagogical]] mediator** reconceptualizes AI's role in collaboration beyond tool or peer. Drawing on sociocultural theory and [[distributed-cognition|distributed cognition]], **[[niari-ai-pedagogical-mediator-collaborative-learning|Niari]]** positions AI as an active participant in the orchestration of interaction, epistemic sense-making, and regulatory processes, redistributing agency, authority, and responsibility across human and non-human actors without displacing learner or teacher agency. This grounds collaborative learning in a socially mediated, co-regulated view of AI rather than an individualistic one.
 
 **Collaboration modes and the efficiency–regulation trade-off.** Empirical research on college students collaborating with AI for complex problem-solving identifies three distinct modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration*. The most efficient mode (delegated reasoning) yields the highest task performance but the lowest learners' self-regulatory engagement, while the mode with greatest self-regulation (concerted interpretation) underperforms on task outcomes.([[hao-human-ai-collaborative-problem-solving-cognition]]) This reveals a central design tension: collaborative-learning environments must balance the efficiency of the distributed human–AI system against the depth of learners' [[self-regulated-learning|regulatory]] engagement.
 
 **Collaboration as the object of instruction.** [[golrang-propact-pair-programming-2026|ProPACT]] is an AI-driven adaptive tutor for pair programming that treats the *dyad* — not the individual — as the unit of analysis, modeling joint visual attention, joint mental effort, and pupil-based signals in real time to predict collaborative breakdowns up to 30 seconds in advance and intervene before they occur. Dyads receiving proactive feedback achieved substantially higher debugging success and completed tasks more efficiently, and showed sustained gains in collaborative regulation afterward — evidence that AI can teach collaboration itself, not just support a task.
 
-**AI as a neutral mediator — and the tension when it stops being neutral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] is a Discord-based LLM probe that mediates disciplinary boundaries in interdisciplinary student teams by surfacing implicit assumptions and returning anonymized syntheses to shared discussion. Students valued it as both cognitive support and a relational buffer, but a central tension emerged: AI's perceived neutrality was load-bearing, and eroded once the AI moved from neutral mediator to advisor or challenger — a key design constraint for [[pedagogical-agent|agents]] that mediate collaboration while preserving [[human-ai-collaboration]] and [[trust-calibration]].
+**AI as a neutral mediator — and the tension when it stops being neutral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] is a Discord-based [[llm]] probe that mediates disciplinary boundaries in interdisciplinary student teams by surfacing implicit assumptions and returning anonymized syntheses to shared discussion. Students valued it as both cognitive support and a relational buffer, but a central tension emerged: AI's perceived neutrality was load-bearing, and eroded once the AI moved from neutral mediator to advisor or challenger — a key design constraint for [[pedagogical-agent|agents]] that mediate collaboration while preserving [[human-ai-collaboration]] and [[trust-calibration]].
 
-**Collaborative structures for AI education.** [[academic-league-of-ai-2026|The Academic League of AI]] organizes AI education through democratic student governance and project teams, embedding [[active-learning]] and [[project-based-learning]] in a collaborative, community-connected structure.
+**Collaborative structures for AI education.** [[academic-league-of-ai-2026|The Academic League of AI]] organizes AI education through democratic student [[governance]] and project teams, embedding [[active-learning]] and [[project-based-learning]] in a collaborative, community-connected structure.
 
 ### The ICAP framework: collaboration as the highest engagement mode
 
@@ -2970,6 +2996,10 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - **Balance efficiency against self-regulation.** Collaborative AI that maximizes task efficiency (delegated reasoning) can undercut learners' regulatory engagement; design should deliberately protect space for concerted interpretation.
 - **Respect the neutrality constraint.** AI mediators are trusted while neutral; moving into advisory or challenging roles destabilizes that trust, so role switches should be explicit and configurable.
 - **Accommodate neurodivergent learners.** Structured assignments, small consistent teams, and explicit role definitions are requirements AI collaboration tools must support.
+
+### Automating CPS Assessment
+
+- Measuring collaborative problem solving competence typically requires analysing process data from simulated tasks and manually coding behaviours into CPS skills — time-consuming and impractical at scale. [[prompt-engineering|Context-aware prompting]] of pre-trained language models automates this coding by modelling contextual dependencies and fusing cognitive and social abilities, achieving superior performance over strong baselines.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -3032,6 +3062,8 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI and student group work: a scoping review (Wei & Perkins 2026)
+- [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
+- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 
 ---
 
@@ -3068,6 +3100,10 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 
 - **Measuring PBL in AI literacy courses.** Zhu and Kong (2026) developed and validated an AI project-based learning scale (AI-PBLS) grounded in Hong Kong secondary and university students' experiences, and used it to show that perceived PBL fosters AI literacy course satisfaction through the mediating mechanisms of empowerment in AI [[problem-solving]] and AI [[ethics|ethical]] awareness. The scale offers [[research-methods-aied|researchers]] a validated instrument, and the mediation finding strengthens the case for PBL as a vehicle that builds confidence and ethical reasoning — not just content — in [[ai-education|AI education]].
 
+### PBL With Digital Storytelling in the AI Era
+
+- Project-based learning combined with [[storytelling-in-education|digital storytelling]] offers a pedagogical response to [[generative-ai|generative AI]] in art and design education. A 15-week embedded case study with 426 undergraduates implemented a PBL-DS framework in which digital storytelling served as the primary methodology for students to translate local cultural heritage into emotionally resonant, [[multimodal]] narratives, cultivating the creative capacities that AI lacks.
+
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -3097,6 +3133,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBL is a dominant CT learning strategy
 
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
+- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
 
 ---
 
@@ -3967,27 +4004,31 @@ For educators and institutions seeking to adopt pedagogical partnership, the kno
 
 ## [Storytelling in Education](https://edtechdev.github.io/aied/concepts/storytelling-in-education/)
 
-> **Storytelling in education** — the use of narrative as a pedagogical tool to engage learners, convey meaning, and support knowledge construction, creativity, and emotional connection. Storytelling is a natural and motivating way for learners to make sense of the world, and it is increasingly combined with technology — including AI and [[educational-robotics|social robots]] — to create interactive, adaptive narrative experiences. Digital and robot-mediated storytelling can add interactivity, personalization, and embodiment that conventional (paper-based or slide-based) storytelling lacks.
+> **Storytelling in education** — the use of narrative as a [[pedagogy|pedagogical]] tool to engage learners, convey meaning, and support knowledge construction, creativity, and emotional connection. Storytelling is a natural and motivating way for learners to make sense of the world, and it is increasingly combined with technology — including AI and [[educational-robotics|social robots]] — to create interactive, adaptive narrative experiences. Digital and robot-mediated storytelling can add interactivity, [[personalized-learning|personalization]], and embodiment that conventional (paper-based or slide-based) storytelling lacks.
 
 ## Questions to Consider
 
 - Think of a lesson or concept you remember vividly because it came as a story. What did the narrative add that a plain explanation didn't, and can that power survive being outsourced to an AI or a robot?
 - The page describes robot- and LLM-mediated storytelling that responds to the learner and supports co-creation. What do you imagine is gained — and potentially lost — when a story is co-built with a machine instead of told by a person?
 - If storytelling builds engagement, creativity, and emotional connection, where might its use in education be more than entertainment — and where might it risk substituting feeling for understanding?
-- A robot storyteller increased behavioral and cognitive engagement over paper and PowerPoint in the research cited. Do you trust that engagement translates into learning, or could the novelty of the robot be doing the work?
+- A robot storyteller increased behavioral and cognitive engagement over paper and PowerPoint in the [[research-methods-aied|research]] cited. Do you trust that engagement translates into learning, or could the novelty of the robot be doing the work?
 - How could you tell whether a learner is genuinely making meaning from an AI-co-created story versus just enjoying the interactive experience?
 
 ## Introduction
 
-Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constructivist]] theories of learning. It supports [[language-learning]], [[creativity]], [[social-emotional-learning]], and comprehension. In the AI era, [[llm|LLM-powered]] and robot-mediated storytelling enables co-creation, where learners and AI agents build stories together, and interactive narrative that responds to the learner.
+Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constructivist]] theories of learning. It supports [[language-learning]], [[creativity]], [[social-emotional-learning]], and comprehension. In the AI era, [[llm|LLM-powered]] and robot-mediated storytelling enables co-creation, where learners and [[agentic-ai|AI agents]] build stories together, and interactive narrative that responds to the learner.
 
 ### How storytelling appears in the knowledge base's research
 
-- **Robot-mediated storytelling:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] uses a human-like interactive digital storytelling robot, finding significant gains in behavioural and cognitive engagement over paper and PowerPoint methods; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] lets teachers create LLM-powered scenario-based storytelling activities from curriculum content.
+- **Robot-mediated storytelling:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] uses a human-like interactive digital storytelling robot, finding significant gains in behavioural and cognitive engagement over paper and PowerPoint methods; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] lets teachers create LLM-powered scenario-based storytelling activities from [[curriculum-design|curriculum]] content.
 - **Co-creative narrative HRI:** [[icub-humanoid-storytelling-llm-hri-2025|The iCub narrative study]] explores human-robot co-creation of stories, integrating generative models for contextually appropriate interaction.
 - **Narrative and creativity:** Storytelling supports [[creativity]] and [[language-learning|language]] development, and is used to enhance motivation and engagement in [[k-12]] settings.
 
 Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], and [[educational-robotics]].
+
+### Digital Storytelling as a Counterweight to AI
+
+- As [[generative-ai|generative AI]] ascends, digital storytelling is reframed as a vehicle for the emotional, cultural, and narrative capacities that AI lacks. In a [[project-based-learning|project-based learning]] model for art and design education, students translated local cultural heritage into [[multimodal]] narratives across 92 digital storytelling works, demonstrating how storytelling sustains human creativity in the AI era.
 
 ## Connected Concepts
 
@@ -4005,6 +4046,7 @@ Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]],
 - [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
+- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
 
 ---
 
@@ -6046,6 +6088,10 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 
 - **Discipline-associated cognitive engagement in student-AI chat.** Chang and Li (2026) show that student prompts to AI encode ~62% higher-order cognitive demand on average, but Bloom-level engagement profiles differ sharply by discipline ([[stem-education|STEM]] Apply-prevalent 20.8%, language Understand-prevalent 31.7%, social science Create-prevalent 33.8%). Using a within-person design, they found the same students produced significantly more higher-order prompts in social science than STEM courses (p < .001), with course-level variation exceeding student-level variation — evidence that cognitive engagement with AI is shaped by disciplinary context, not just individual style.
 
+### Predicting Academic AI Use
+
+- An exploratory [[reinforcement-learning|machine learning]] framework analysed survey data from 166 university students to identify learning-related constructs associated with intended academic ChatGPT use, using SHAP analysis to maintain interpretability. Findings inform how engagement, learning support, and other constructs shape students' incorporation of AI tools into academic work.
+
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[community-of-inquiry]] — Community of Inquiry (agentic engagement as a CoI dimension)
@@ -6115,6 +6161,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[chatbot-engagement-genai-competency-emotion-2026]] — GenAI competency and emotion as drivers of chatbot engagement (Zhao et al. 2026)
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
+- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
 
 ---
 
@@ -6433,6 +6480,10 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 
 Creativity connects to [[critical-thinking]] and to [[constructivist]] learning. It is protected by the same [[reducing-ai-misuse]] [[scaffolding|scaffolds]] that preserve learning, and by [[authentic-assessment]] designs that reward original reasoning over polished products.
 
+### Reaffirming Human Creativity in the AI Era
+
+- The ascent of generative AI challenges educational fields to reaffirm the value of human creativity. A project-based digital [[storytelling-in-education|storytelling]] framework for art and design education was designed explicitly to cultivate emotional, cultural, and narrative capacities that AI lacks, with students producing [[multimodal]] narratives from local cultural heritage — positioning creativity as the distinctly human contribution in AI-integrated learning.
+
 ## Connected Concepts
 
 - [[critical-thinking]]
@@ -6454,6 +6505,7 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
 - [[genai-mindtool-generative-learning]] — GenAI as a Mindtool for Generative Learning
+- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
 
 ---
 
@@ -6556,16 +6608,20 @@ The dual character of AI for problem solving is consistent across studies. On th
 
 ### Implications
 
-For educators, the balance of evidence points to structured, process-oriented integration: [[prompt-engineering|prompt engineering]] training shifts students from unfocused to productive [[student-ai-interaction|AI interaction]], embedding AI within collaborative inquiry tasks yields durable [[learning-gains|gains]], and deliberately using AI errors as provocations converts a limitation into a learning opportunity. For designers, the consistent finding that efficiency does not equal deep learning argues for AI that questions, challenges, and scaffolds rather than answers. For institutions, responsible integration requires pairing [[generative-ai|GenAI]] with explicit [[ai-literacy|AI literacy]] training and assessment rubrics that reward reasoning and justification over correct products. The recurring theme across [[cognitive-psychology|cognitive-psychology]]-grounded work is that problem solving is learned through effortful engagement — and AI's role should be to preserve that effort, not erase it.
+For educators, the balance of evidence points to structured, process-oriented integration: [[prompt-engineering|prompt engineering]] training shifts students from unfocused to productive [[student-ai-interaction|AI interaction]], embedding AI within collaborative inquiry tasks yields durable [[learning-gains|gains]], and deliberately using AI errors as provocations converts a limitation into a learning opportunity. For designers, the consistent finding that efficiency does not equal deep learning argues for AI that questions, challenges, and scaffolds rather than answers. For institutions, responsible integration requires pairing [[generative-ai|GenAI]] with explicit [[ai-literacy|AI literacy]] training and assessment rubrics that reward reasoning and justification over correct products. The recurring theme across [[cognitive-psychology]]-grounded work is that problem solving is learned through effortful engagement — and AI's role should be to preserve that effort, not erase it.
 
 ### Connections to other concepts
 
-Problem solving is the applied outcome of [[critical-thinking|critical thinking]] and [[computational-thinking|computational thinking]], and is cultivated through [[problem-based-learning|problem-based learning]] and [[inquiry-based-learning|inquiry-based learning]] frameworks. It depends on [[scaffolding|scaffolding]] that maintains cognitive demand, on [[self-regulated-learning|self-regulation]] and [[metacognition|metacognitive]] oversight to avoid [[cognitive-offloading|cognitive offloading]], and on [[collaborative-learning|collaborative]] structures in which human and AI work together. [[cognitive-psychology|Cognitive psychology]] and the [[transfer-of-learning|transfer of learning]] literature provide the theoretical grounding for why learner-generated problems and reflective feedback produce more durable [[learning-gains|problem-solving gains]].
+Problem solving is the applied outcome of [[critical-thinking|critical thinking]] and [[computational-thinking|computational thinking]], and is cultivated through [[problem-based-learning|problem-based learning]] and [[inquiry-based-learning|inquiry-based learning]] frameworks. It depends on [[scaffolding]] that maintains cognitive demand, on [[self-regulated-learning|self-regulation]] and [[metacognition|metacognitive]] oversight to avoid [[cognitive-offloading|cognitive offloading]], and on [[collaborative-learning|collaborative]] structures in which human and AI work together. [[cognitive-psychology|Cognitive psychology]] and the [[transfer-of-learning|transfer of learning]] literature provide the theoretical grounding for why learner-generated problems and reflective feedback produce more durable [[learning-gains|problem-solving gains]].
 
 
 ## Simulating Collaborative Problem Solving with LLM Agents
 
 - **Simulating collaborative problem solving with participant-specific [[llm]] agents.** Fang (2026) trains individual LLM agents on real participants' dialogue to reproduce collaborative problem solving, and validates the [[simulation|simulations]] with [[network-analysis|Epistemic Network Analysis]], showing simulated and real dialogues are statistically indistinguishable (ENA distance 0.17; permutation p = 0.65). This offers a scalable way to study and generate authentic collaborative problem-solving discourse — with implications for both research and the design of practice environments for this 21st-century skill.
+
+### Automated CPS Skill Coding
+
+- Measuring [[collaborative-learning|collaborative problem solving (CPS)]] competence typically requires coding behaviour from simulated-task process data into specific CPS skills. [[prompt-engineering|Context-aware prompting]] of pre-trained language models can automate this coding, modelling contextual dependencies and fusing cognitive and social abilities to achieve superior performance over strong baselines on CPS task datasets — addressing the labour-intensity of manual coding and enabling large-scale, real-time assessment.
 
 ## Connected Concepts
 
@@ -6591,6 +6647,7 @@ Problem solving is the applied outcome of [[critical-thinking|critical thinking]
 
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
+- [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
 
 ---
 
@@ -6837,6 +6894,10 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 - **GenAI across [[governance|institutional]], interactional, and domain contexts.** Three 2026 studies extend the GenAI-in-education evidence base. Qin (2026) documents how Lingnan University institutionalized GenAI literacy for all undergraduates as part of a digital liberal-arts transformation. Chang and Li (2026) show that student-AI conversations encode discipline-associated cognitive [[student-engagement|engagement]], with ~62% of prompts reflecting higher-order cognitive demand. Neto and colleagues (2026) [[meta-analysis-systematic-review|systematically review]] GenAI in scenario-based healthcare education, finding prompt design functions as instructional specification but is rarely aligned with instructional frameworks (34.8%) or reported in reproducible detail (34.8%).
 
+### GenAI for Content Generation and Equity
+
+- Beyond content generation for [[math-education|mathematics]], GenAI is being used to co-design learning resources with teachers — for example, teacher-AI co-designed [[simulation]] scaffolds for [[stem-education|drone STEM]] learning that preserve pedagogical validity and contextual relevance. [[equity-in-ai-education|Equity]]-oriented uses remain underexplored; an all-girls GenAI makerspace initiative in Europe combined two GenAI tools with feminist pedagogy to address persistent gender inequities in computing participation, analysing girls' GenAI-generated images and stakeholder reflections.
+
 ## Connected Concepts
 
 - [[llm]] — the model class underlying generative AI
@@ -6925,6 +6986,10 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
+- [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
+- [[all-girls-genai-makerspace-gender-equity-2026]] — All-girls GenAI makerspace workshops and gender equity in computing
+- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
+- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
 
 ---
 
@@ -6961,6 +7026,10 @@ Model differences also matter for high-stakes downstream uses. [[lopez-pernas-ll
 ### Connections
 
 LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]] (how outputs are controlled), [[rag]] (knowledge grounding), [[hallucination-risk]] (the primary limitation), and [[pedagogical-safety]] (educational guardrailing).
+
+### LLM Behaviour Under Skepticism
+
+- An algorithmic audit queried ten frontier LLMs 500 times each with a rural-Montana [[k-12]] AI-skeptic persona to test whether AI systems consulted by skeptical users are predisposed to encourage adoption. Eight of ten acknowledged user concerns then redirected to AI-[[student-engagement|engagement]] framings; composite scores spanned from 3.85 (Claude Sonnet) to 7.52 (Gemini 3.1 Pro Preview), with a cross-family AI scorer panel clearing Cohen's kappa >= 0.70. The pattern was a model-dependent design outcome.
 
 ## Connected Concepts
 
@@ -7036,6 +7105,7 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
+- [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
 
 ---
 
@@ -7136,6 +7206,10 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 
 - **Prompt design as instructional specification.** Neto and colleagues (2026) find in their [[meta-analysis-systematic-review|systematic review]] of GenAI in healthcare education that prompt design functions as a form of instructional specification, encoding the cognitive targets and quality criteria implicit in expert authoring — yet only 34.8% of studies aligned generated content with instructional frameworks and only 34.8% reported prompting in enough detail to reproduce. Looi, Liu, and Sun (2026) further show how prompt architecture can embed pedagogical rules (correctness gates, anti-spoiler boundaries, goodbye gates) to constrain [[llm]] tutoring behavior in procedural domains.
 
+### Context-Aware Prompting for Assessment
+
+- Context-aware prompting of pre-trained language models automates the coding of [[collaborative-learning|collaborative problem-solving]] skills from process data, modelling dependencies between behaviour codes and fusing cognitive and social abilities. This enables structured CPS analysis at scale and in real time, overcoming the labour intensity of manual coding schemes.
+
 ## Connected Concepts
 - [[guardrails]]
 
@@ -7193,6 +7267,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
+- [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
 
 ---
 
@@ -7715,6 +7790,10 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 
 - **Design framework for AI conversational agents in game-based learning.** Wenzel, Geiger, and Liening (2026) use action design research to derive the **CAIS-GBL** framework — four design principles and fifteen design features for AI conversational agents in digital game-based learning — grounded in theory-driven meta-requirements spanning cognitive, motivational, [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] [[student-engagement|engagement]] and an equity-by-design stance. Their instantiated agent (Lara) in a business [[simulation]] game was positively received for cognitive and [[community-of-inquiry|social presence]] and support for [[self-regulated-learning|self-regulated learning]], evaluated with student teachers and in a field study — a practical blueprint for [[adaptive-learning|adaptive instructional support]] via [[game-based-learning|conversational agents in serious games]].
 
+### Conversational AI and Adoption Advice
+
+- Staff are increasingly urged to consult conversational AI about whether to adopt AI, yet such systems are built by organizations with a commercial stake in adoption. An audit of ten frontier LLMs found most acknowledge skeptical users' concerns before redirecting to engagement framings, raising questions about the neutrality of AI adoption advice.
+
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
@@ -7757,6 +7836,7 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — The substitution-to-scaffolding AI harm cycle
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender and motivation in GenAI achievement
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
+- [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
 
 ## Citation
 
@@ -7796,6 +7876,10 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 
 - **Simulation-based learning with [[generative-ai|GenAI]].** Neto and colleagues (2026) [[meta-analysis-systematic-review|systematically review]] GenAI across scenario-, case-, problem-, and simulation-based learning in healthcare education, finding positive outcomes for higher-order cognitive skills but inconsistent results elsewhere, with hybrid [[human-ai-collaboration|human-AI collaboration]] outperforming fully automated approaches. Wenzel, Geiger, and Liening (2026) develop AI conversational agents for adaptive support in business simulation games, addressing the common gap of limited [[formative-assessment|formative]] feedback and structured reflection in simulation-based learning.
 
+### Teacher-AI Co-Designed Simulations
+
+- Interactive simulations that support both conceptual learning and competency development are scarce in hands-on domains, and GenAI output often lacks pedagogical validity. In [[stem-education|drone-based STEM education]], teacher-AI co-designed simulations embedded in an otherwise identical hands-on curriculum were evaluated with a quasi-experimental pretest–posttest design across 30 secondary students, examining whether simulation-supported instruction yields superior [[learning-gains|learning outcomes]]. Separately, multi-agent tutoring [[benchmark|benchmarks]] such as ASTRA use simulated socially intelligent agents to study participation-balanced collaboration in introductory programming.
+
 ## Connected Concepts
 
 - [[active-learning]]
@@ -7832,6 +7916,8 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
+- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
+- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
 
 ---
 
@@ -8178,7 +8264,7 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 
 - **Diagnostic models:** psychometric models (often under [[item-response-theory]] and [[educational-measurement]]) infer latent skill states from patterns of correct and incorrect responses, sometimes via cognitive-diagnosis models that map items to multiple knowledge components.
 - **Response data:** diagnosis draws on responses to assessments, hints, [[help-seeking]], and time-on-task — richer signals than raw scores.
-- **LLM-based diagnosis:** newer approaches use [[llm|large language models]] to diagnose from open-ended or handwritten work, and to identify the specific [[misconceptions|misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
+- **LLM-based diagnosis:** newer approaches use [[llm|large language models]] to diagnose from open-ended or handwritten work, and to identify the specific [[misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
 
 #
 - **Bayesian DINA for personalized learning paths:** [[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng and Huang (2026)]] integrate a Bayesian DINA model (trained on the EdNet dataset, N=5,000) with knowledge space theory and a shortest-remediation-path algorithm to generate personalized learning paths, and empirically test the mediating role of [[cognitive-offloading|cognitive load]] via Hidden Markov Model state transitions (validated on 120 students) — addressing both the sparsity-driven convergence problem of traditional DINA models and the untested psychological mechanism behind personalized-path effectiveness.
@@ -8192,13 +8278,17 @@ Accurate diagnosis lets instruction target the actual gaps rather than a global 
 Cognitive diagnosis sits at the heart of the [[intelligent-tutoring]] architecture and is the assessment-side counterpart of [[knowledge-tracing]]:
 
 - **Diagnosis vs. tracing — complementary temporal views.** [[knowledge-tracing|Knowledge tracing]] tracks the *temporal dynamics* of mastery — estimating how a scalar knowledge state evolves across exercises and predicting the next response. Cognitive diagnosis produces the *static, fine-grained snapshot* of which knowledge components, skills, or misconceptions a learner currently holds. A tutor needs both: knowledge tracing to sequence what to teach next, cognitive diagnosis to know *what* is actually wrong. [[item-response-theory|IRT]]- and [[educational-measurement|measurement]]-based diagnostic models, and cognitive-diagnosis models that map items to multiple components, instantiate the diagnostic side.
-- **Diagnosis feeds the tutor's decision loop.** In a classic ITS (and modern LLM tutors), the diagnostic layer determines the pedagogical action: which [[scaffolding|hint]], which problem, which explanation. Without a reliable diagnosis, the tutor "responds fluently but blindly" — [[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]] shows tutoring quality depends on how the agent diagnoses from simulated learners grounded in knowledge tracing, and [[huang-interpretable-knowledge-tracing-2026|interpretable knowledge tracing]] argues for making this diagnostic reasoning auditable.
-- **LLM-era diagnosis.** [[llm|LLMs]] extend diagnosis from multiple-choice responses to open-ended, handwritten, and conversational work, identifying the specific [[misconceptions|misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning). [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept-tree construction and hierarchical proficiency inference, bridging diagnosis and tracing.
+- **Diagnosis feeds the tutor's decision loop.** In a classic ITS (and modern LLM tutors), the diagnostic layer determines the [[pedagogy|pedagogical]] action: which [[scaffolding|hint]], which problem, which explanation. Without a reliable diagnosis, the tutor "responds fluently but blindly" — [[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]] shows tutoring quality depends on how the agent diagnoses from simulated learners grounded in knowledge tracing, and [[huang-interpretable-knowledge-tracing-2026|interpretable knowledge tracing]] argues for making this diagnostic reasoning auditable.
+- **LLM-era diagnosis.** [[llm|LLMs]] extend diagnosis from multiple-choice responses to open-ended, handwritten, and conversational work, identifying the specific [[misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning). [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept-tree construction and hierarchical proficiency inference, bridging diagnosis and tracing.
 - **Separating diagnosis from feedback is a design principle.** LLM tutors reliably confirm correct steps but over-reject valid reasoning and over-validate errors — and accurate diagnosis does not reliably yield actionable [[feedback]]. ITS design should therefore separate a diagnostic component from the feedback/scaffolding component ([[yasir-llm-tutoring-agents-2026]]).
 
 ### Connections
 
 Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]], and [[assessment]]. Its insights feed [[intelligent-tutoring]] and [[adaptive-learning]], and LLM-era work links it to misconception identification in [[intelligent-tutoring|AI Tutoring]].
+
+### AutoML-Driven Cognitive Diagnosis
+
+- Existing [[teacher-role|teaching]]-quality evaluation systems rely mainly on static examination outcomes and simple statistical indicators. An [[machine-learning|AutoML]]-driven personalized neural cognitive architecture search framework generates diagnostic models for heterogeneous learner profiles, integrating [[multimodal|multi-modal]] educational data to enable dynamic analysis of learning processes and cognitive diagnosis of individual learners.
 
 ## Connected Concepts
 
@@ -8233,6 +8323,7 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
 
 ---
 
@@ -8369,7 +8460,7 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 ### Key ITS concepts
 
 - **[[knowledge-tracing]]** — modeling what a student knows over time (Bayesian, deep learning, IRT-based)
-- **[[cognitive-diagnosis]]** — fine-grained assessment of which knowledge components and [[misconceptions|misconceptions]] a learner holds; the assessment-side counterpart to [[knowledge-tracing]] that feeds the tutor's pedagogical decision
+- **[[cognitive-diagnosis]]** — fine-grained assessment of which knowledge components and [[misconceptions]] a learner holds; the assessment-side counterpart to [[knowledge-tracing]] that feeds the tutor's pedagogical decision
 - **[[student-modeling]]** — broader learner representation including affect, engagement, and misconceptions
 - **[[adaptive-learning]]** — systems that personalize content sequencing based on learner state
 - **[[scaffolding]]** — providing just enough support to enable progress without giving away answers
@@ -8428,6 +8519,10 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 ## Rule-Guided LLM Tutoring
 
 - **Rule-integrated LLM tutoring for procedural domains.** Looi, Liu, and Sun (2026) tackle the inconsistency and pedagogical opacity of LLM tutors in primary [[math-education|mathematics]] through a design science study of a rule-guided system organized around a three-layer architecture — *diagnosis → intent selection → constrained response generation*. They formalize the distinction between **rule-guided scaffolding** (governed by auditable, replicable rules) and **ad-hoc scaffolding** (helpful moves difficult to audit or replicate). Evaluated via persona-based simulated dialogues and a classroom pilot with 40 Grade 5 students, rule-guided scaffolding improved interactional consistency, reduced premature answer-giving and early closure, and sustained cognitive engagement — while the classroom pilot surfaced interactional complexities, fragmented inputs, and attentional fluctuations that [[simulation]] missed. This is a concrete blueprint for [[guardrails|guardrailing]] [[llm|LLM]] tutors in well-defined procedural domains.
+
+### Multi-Agent Tutoring and Automated Coding
+
+- Multi-agent tutoring systems are being benchmarked with synthetic, trace-based evaluation. ASTRA supports alone-tutor, pair-tutor, and pair-multiagent configurations with socially differentiated agents, enabling reproducible analysis of interaction and participation balance in introductory programming. In parallel, context-aware prompting automates coding of [[collaborative-learning|collaborative problem-solving]] skills from process data, supporting large-scale tutoring assessment.
 
 ## Connected Concepts
 
@@ -8491,6 +8586,8 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
+- [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
+- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
 
 ---
 
@@ -8538,6 +8635,10 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 ### Connections
 
 Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[personalized-learning]] (the goal), [[intelligent-tutoring]] (the platform), [[cognitive-diagnosis]] (fine-grained [[assessment]]), and [[scaffolding]] (adaptation as dynamic scaffolding).
+
+### AutoML-Driven Personalisation
+
+- Traditional educational models struggle to process multi-source heterogeneous learning-behaviour data, limiting learner profiling and diagnostic model development. A personalized neural cognitive architecture search framework driven by automated [[reinforcement-learning|machine learning]] integrates [[multimodal|multi-modal]] educational data with heterogeneous methods, generating diagnostic models tailored to heterogeneous learner profiles and supporting dynamic rather than static analysis of learning processes.
 
 ## Connected Concepts
 
@@ -8601,6 +8702,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis pooling adaptive + AI-enabled tools across 14 RCTs
 
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
+- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
 
 ---
 
@@ -8621,17 +8723,17 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 
 Tailoring educational experiences to individual learner profiles, including [[prior-knowledge|prior knowledge]], learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge.
 
-- **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** distinguish two forms of personalization with deep historical roots — uniform outcomes reached via varied paths (Skinner's teaching machines to Khan Academy-style mastery tutoring) vs. diverse, learner-chosen outcomes — mapping onto the field's control-vs-agency tension.
+- **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** distinguish two forms of personalization with deep historical roots — uniform outcomes reached via varied paths (Skinner's [[teacher-role|teaching]] machines to Khan Academy-style mastery tutoring) vs. diverse, learner-chosen outcomes — mapping onto the field's control-vs-agency tension.
 
 ## Architectures for AI-Driven Personalization
 
 ### Longitudinal Memory (PersonaVLM → Education)
 
-Nie et al. (2026) developed a [[multimodal]] long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's [[misconceptions|misconceptions]], preferred explanations, and progress history across sessions—addressing a critical deficit in stateless [[conversational-ai|chatbot]] tutors.
+Nie et al. (2026) developed a [[multimodal]] long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's [[misconceptions]], preferred explanations, and progress history across sessions—addressing a critical deficit in stateless [[conversational-ai|chatbot]] tutors.
 
 ### Agent-Native Personalization Substrate (DeepTutor)
 
-Ma et al. (2026) design every [[deeptutor|DeepTutor]] feature to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives problem solving, [[automated-question-generation|question generation]], and collaborative writing.
+Ma et al. (2026) design every [[deeptutor|DeepTutor]] feature to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives [[problem-solving|problem solving]], [[automated-question-generation|question generation]], and collaborative writing.
 
 ### Multi-Agent Social Personalization (MAIC)
 
@@ -8651,7 +8753,7 @@ Personalized learning is often conflated with [[adaptive-learning|adaptive learn
 
 ## Personalization and assessment
 
-Personalization and [[assessment]] are tightly coupled in AI-driven learning. Adaptive personalization depends on ongoing [[formative-assessment|formative]] measurement of what a learner knows (via [[knowledge-tracing]], [[student-modeling]], and [[cognitive-diagnosis]]) to decide what to adapt next — so the reliability of the [[assessment]] signal directly constrains the quality of personalization. Conversely, when [[summative-assessment|summative assessment]] is personalized per-learner, [[bias-mitigation|fairness]] and comparability become harder to establish. The knowledge base's research warns against over-adapting to shallow or noisy signals: [[adaptive-learning|adaptive]] systems that mis-measure a learner can personalize in ways that reduce learning rather than support it, and AI-native students whose self-assessment is unreliable (an "absent cognitive baseline") are harder to model accurately.
+Personalization and [[assessment]] are tightly coupled in AI-driven learning. Adaptive personalization depends on ongoing [[formative-assessment|formative]] measurement of what a learner knows (via [[knowledge-tracing]], [[student-modeling]], and [[cognitive-diagnosis]]) to decide what to adapt next — so the reliability of the [[assessment]] signal directly constrains the quality of personalization. Conversely, when [[summative-assessment|summative assessment]] is personalized per-learner, [[bias-mitigation|fairness]] and comparability become harder to establish. The knowledge base's [[research-methods-aied|research]] warns against over-adapting to shallow or noisy signals: [[adaptive-learning|adaptive]] systems that mis-measure a learner can personalize in ways that reduce learning rather than support it, and AI-native students whose self-assessment is unreliable (an "absent cognitive baseline") are harder to model accurately.
 
 ## Personalization in the AI era
 
@@ -8660,6 +8762,10 @@ Personalization and [[assessment]] are tightly coupled in AI-driven learning. Ad
 ## Terminological ambiguity
 
 A recurring problem is that "personalized learning" is a broad, loosely defined umbrella term. Systematic reviews ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) find that [[adaptive-learning|adaptive learning]], individualized instruction, customized learning, and personalized learning are used interchangeably, with no universally accepted definition — a source of conceptual ambiguity that complicates research synthesis and evidence-based practice. The field increasingly calls for a unified framework and definition so that "personalized" denotes a precise, evidence-backed claim rather than a vague label (a point reinforced by the knowledge base's [[limitations-in-aied-research|critique of weak construct use]]).
+
+### AutoML for Learner Portraits
+
+- Personalization is a central objective for improving educational quality, yet processing multi-source heterogeneous learning-behaviour data remains a challenge. A personalized neural cognitive architecture search framework, driven by automated [[reinforcement-learning|machine learning]], builds learner portraits and generates diagnostic models for heterogeneous learner profiles, integrating multi-modal data to move beyond static examination outcomes.
 
 ## Connected Concepts
 
@@ -8712,6 +8818,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[nguyen-genai-global-south-review-2026]] — Generative AI in education across the Global South
 - [[vargas-situated-learning-ai-review-2024]] — Situated learning and AI review
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Evidence on the personalization-at-scale promise
+- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
 
 ---
 
@@ -9038,6 +9145,10 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 
 - **Human-in-the-loop liberal arts education.** Qin (2026) describes how Lingnan University developed a human-in-the-loop educational model that foregrounds ethical reasoning, critical judgment, and social responsibility while democratizing [[generative-ai|GenAI]] access. The model positions humans as the locus of judgment and values even as AI is embedded across the [[curriculum-design|curriculum]] — a concrete [[governance|institutional]] instantiation of human-in-the-loop principles in [[higher-ed|higher education]].
 
+### Oversight of AI Adoption Advice
+
+- Because [[conversational-ai|conversational AI]] systems consulted by skeptical users may be predisposed to encourage adoption, human oversight and independent evaluation are essential. An audit showing most frontier models redirect skeptical rural [[k-12]] staff toward [[student-engagement|engagement]] underlines the need for transparent, auditable AI advice rather than uncritical reliance.
+
 ## Connected Concepts
 - [[guardrails]]
 
@@ -9100,6 +9211,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
+- [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
 
 ---
 
@@ -9154,6 +9266,10 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 ## Simulated Collaborative Discourse
 
 - **Simulating collaborative discourse for learning analytics.** Fang (2026) uses fine-tuned participant-specific LLM agents to reproduce collaborative problem solving dialogues, validated with Epistemic Network Analysis (ENA distance 0.17, permutation p = 0.65). The approach offers learning-analytics researchers a scalable way to generate authentic collaborative discourse for studying interaction dynamics, turn-taking, and thematic code trajectories without collecting new human data.
+
+### Trace-Based and Predictive Analytics
+
+- Open, reproducible data underpin advancing learning analytics. ASTRA releases a synthetic [[benchmark]] with a trace-ready schema (N=540; 360 sessions; 1,440 episodes) for analysing interaction and participation balance in collaborative programming. Separately, an exploratory ML framework with SHAP analysis identified the learning-related constructs most associated with intended academic ChatGPT use among university students, prioritising interpretability.
 
 ## Connected Concepts
 
@@ -9214,6 +9330,10 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
+- [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
+- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
+- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
+- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
 
 ---
 
@@ -9385,6 +9505,10 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 
 - **LLM tutoring and [[learning-design|instructional design]] for mathematics.** Two 2026 studies sharpen the math-education evidence base. Looi, Liu, and Sun (2026) developed a rule-guided [[intelligent-tutoring|LLM tutoring system]] for primary-school math word problems whose three-layer architecture (diagnosis → intent selection → constrained response generation) improved interactional consistency and reduced premature answer-giving in a 40-student Grade 5 classroom pilot — evidence that procedural math domains need [[guardrails|structured rule-guards]] on otherwise stochastic LLM scaffolding. Zhu, Liang, Mao, and Wang (2026) applied a smart-classroom model to mathematics M.Ed. students and found statistically significant gains (p < .05) in instructional-objective design across curriculum-standards, textbook, and student-condition dimensions.
 
+### AI-Generated Mathematical Modelling Problems
+
+- [[generative-ai|GenAI]] can now be embedded in platforms that generate mathematical modelling problems grounded in established design principles and [[prompt-engineering|retrieval-augmented generation]]. An AI-powered platform developed through the ADDIE approach used direct variation in secondary school mathematics as an illustrative topic, addressing teachers' lack of time and resources to design high-quality modelling tasks. Existing tools typically produce conventional word problems or routine exercises; the platform instead aimed to generate resources that foster mathematical modelling competencies.
+
 ## Connected Concepts
 
 - [[stem-education]]
@@ -9442,6 +9566,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
+- [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
 
 ---
 
@@ -9962,6 +10087,10 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 
 - **AI-powered information extraction for STEM theses.** An and colleagues (2026) pilot an AI system that converts research publications into structured, comparable datasets for undergraduate thesis completion across four STEM schools. Results (20 students, 80 documents) showed >90% extraction of experimental parameters, ~65% reduction in literature-review time, and a 50% increase in students' ability to identify influential experimental variables — evidence of how [[generative-ai|AI]]-scaffolded [[higher-ed|undergraduate research]] can strengthen research literacy and epistemic cognition in STEM education.
 
+### Teacher-AI Co-Designed Simulations in STEM
+
+- In drone-based STEM education, teacher-AI co-designed [[simulation]] scaffolds were evaluated against an identical hands-on [[curriculum-design|curriculum]] with 30 secondary students, testing whether simulation-supported instruction yields superior [[learning-gains|learning outcomes]]. GenAI's role was to accelerate content creation while teacher involvement preserved pedagogical validity and contextual relevance.
+
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
@@ -10008,6 +10137,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[astor-computational-thinking-meta-review-2026]] — CT as a 21st-century skill across STEM
 
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
+- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
 
 ---
 
@@ -10222,6 +10352,10 @@ Language learning has emerged as a significant AI in education domain because la
 - **Support the full spectrum of learners.** [[dyslexlens-dyslexic-learners-ai|Dyslexia and accessibility studies]] and [[culturally-relevant-pedagogy|culturally responsive]] design ([[ai-tools-arab-english-classrooms|Arab-English contexts]]) show AI must be adapted to diverse learner needs, not assumed universal.
 - **Prepare language teachers' [[ai-literacy|AI literacy]].** [[governing-unseen-ai-literacy-language-teachers-2026|Systematic reviews]] find AI literacy among language teachers is a key gap — invest in teacher [[educational-development|professional development]] alongside tool adoption.
 
+### Teacher AI Literacy for Language Education
+
+- As AI reshapes language education, [[ai-literacy|AI literacy]] is crucial for [[teacher-education|teachers]] to engage critically with the technology. The Teachers' AI Literacy Scale (TAILS) was developed for language teacher education, operationalising the six-dimension ED-AI framework (knowledge, evaluation, collaboration, contextualization, autonomy, [[ethics]]) and validated with preservice English language teachers.
+
 ## Connected Concepts
 
 - [[eportfolio]]
@@ -10270,6 +10404,7 @@ Language learning has emerged as a significant AI in education domain because la
 - [[liu-emerging-tech-tefl-review-2026]] — Meta-analysis of emerging tech for EFL
 
 - [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
+- [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
 
 ---
 
@@ -10645,6 +10780,10 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - **Watch the learning-penalty risk.** Evidence shows outsourcing AI work can harm learning, especially for older students ([[generative-ai-reduced-study-time-math|cognitive surrender]], [[stromberg-generative-ai-learning-penalty-secondary-2026|homework-outsourcing penalty]]) — design assignments that keep cognitive work in the loop and assess for durable understanding, not just completion.
 - **Translate policy into practice.** Institutional GenAI policies often lack implementation guidance; turn policy into concrete, actionable classroom practices and training ([[ai-literacy-assessment-misalignment|policy-to-practice]]).
 
+### AI Adoption and Skepticism in K-12
+
+- As AI enters schools, the staff it affects are increasingly urged to consult [[conversational-ai|conversational AI]] about adoption. An algorithmic audit of ten frontier LLMs probed a rural K-12 AI-skeptic persona, finding eight of ten models acknowledged concerns before redirecting to AI-[[student-engagement|engagement]] framings — a model-dependent design outcome rather than an inevitable property of LLMs. [[trust|Trust]], skepticism, and [[human-in-the-loop-ai|human oversight]] are therefore central to how rural and other K-12 staff encounter AI.
+
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI education
 
@@ -10711,6 +10850,8 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
+- [[all-girls-genai-makerspace-gender-equity-2026]] — All-girls GenAI makerspace workshops and gender equity in computing
+- [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
 
 ---
 
@@ -10831,6 +10972,10 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 - **Digital transformation of a liberal arts university.** Qin (2026) documents Lingnan University's repositioning as a \"Research-Intensive Liberal Arts Institution in the Digital Era,\" mandating GenAI literacy for all undergraduates and embedding digital literacy across the Common Core while developing a human-in-the-loop model that foregrounds [[ethics|ethical]] reasoning and critical judgment. It argues the AI-for-education shift is an intellectual transformation, not technocentric augmentation — a concrete institutional blueprint for [[humanities-education|liberal arts]] and other higher education institutions navigating [[generative-ai|GenAI]].
 
+### PBL, Digital Storytelling and AI in Higher Education
+
+- In higher education, generative AI challenges art and design education to reaffirm the value of human [[creativity]]. A [[project-based-learning|project-based learning]] model with [[storytelling-in-education|digital storytelling]] at its core cultivated emotional, cultural, and narrative capacities that AI lacks, evaluated through a 15-week embedded case study with 426 Chinese undergraduates who translated local cultural heritage into [[multimodal]] narratives. Separately, an exploratory ML approach using SHAP analysis examined how students' perceptions and demographics relate to intended academic ChatGPT use.
+
 ## Connected Concepts
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
@@ -10915,6 +11060,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
+- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
+- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
 
 ---
 
@@ -11093,7 +11240,7 @@ Pre-service (initial) teacher education prepares future teachers during their ce
 - **Authentic assessment and metacognition.** AI-mediated assessment models (e.g., AAIWA) integrate [[authentic-assessment|authentic rubric-based assessment]], condition-responsive [[ai-feedback-quality|AI feedback]], and [[metacognition|metacognitive reflection]] in pre-service programs.([[aaiwa-ai-authentic-assessment-metacognition-2026]])
 - **AI-supported inquiry in [[stem-education|science education]].** A quasi-experiment with 48 pre-service science teachers in Türkiye ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) integrated problem- and design-based learning into an 8-week AI-supported guided inquiry program on photosynthesis and respiration. It produced significant gains in conceptual understanding of the two [[biology-education|biological]] processes, but *no* significant effect on AI literacy or self-perceived [[computational-thinking|computational thinking]] — a reminder that AI-IBL can deepen subject-matter understanding in teacher candidates without automatically building their AI/CT competencies, which require explicit, targeted design.
 - **Acceptance and perceptions of AI.** [[pre-service-science-teachers-ai-perceptions-2026|A study of 380 Ghanaian pre-service science teachers]] used UTAUT/TPB to examine what drives acceptance of AI in science education, highlighting how perceived usefulness, attitudes, and facilitating conditions shape prospective teachers' readiness — and how [[global-south|Global South]] contexts and [[technology-acceptance-model|technology acceptance]] frame AI adoption in teacher preparation.
-- **[[generative-ai|Generative AI]] for constructivist instructional design.** The [[sahab-model-genai-constructivist-id-2026|SAHAB model]] is a quasi-experimental professional-development intervention in which generative AI empowers teachers to design [[constructivist|constructivist]] instruction, with large gains (d = 1.18). It shows GenAI can [[scaffolding|scaffold]] [[learning-design|instructional design]] for teacher candidates and practicing teachers alike — not just deliver content, but support the *design* of student-centered learning activities.
+- **[[generative-ai|Generative AI]] for constructivist instructional design.** The [[sahab-model-genai-constructivist-id-2026|SAHAB model]] is a quasi-experimental professional-development intervention in which generative AI empowers teachers to design [[constructivist]] instruction, with large gains (d = 1.18). It shows GenAI can [[scaffolding|scaffold]] [[learning-design|instructional design]] for teacher candidates and practicing teachers alike — not just deliver content, but support the *design* of student-centered learning activities.
 
 ### In-service professional development
 
@@ -11127,6 +11274,10 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 ## Smart-Classroom M.Ed. Training
 
 - **Smart-classroom training for [[math-education|mathematics]] M.Ed. students.** Zhu, Liang, Mao, and Wang (2026) show how a mathematics M.Ed. course can be enhanced with intelligent educational [[ai-technologies|technologies]] ([[automated-assessment|automated scoring]], personalized recommendations, multi-AI feedback) across pre-, in-, and post-class stages, yielding statistically significant gains in instructional-objective design proficiency. The transferable D-T-E Model (Disciplinary Demand–Technological Empowerment–Evaluation Loop) offers teacher educators a [[discipline-specific-aied|discipline-specific]] framework for integrating smart education into graduate teacher preparation.
+
+### Measuring AI Literacy in Teacher Education
+
+- AI literacy is increasingly crucial for teachers, yet most assessments target students or general users. The Teachers' AI Literacy Scale (TAILS), grounded in the six-dimension ED-AI framework, was developed and validated specifically for [[language-learning|preservice language teachers]] through EFA and CFA, filling the measurement gap within teacher education.
 
 ## Connected Concepts
 
@@ -11178,6 +11329,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
+- [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
 
 ---
 
@@ -12564,6 +12716,10 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 
 - **Validated AI [[project-based-learning|project-based learning]] scale (AI-PBLS).** Zhu and Kong (2026) develop and validate a context-grounded scale measuring students' perceptions of project-based learning when using AI for [[problem-solving|problem solving]] in AI literacy courses, using exploratory and confirmatory factor analysis on data from 1,027 secondary and university students (446 complete). The scale offers [[research-methods-aied|researchers]] a robust instrument for assessing perceived PBL experiences in AI applications, and its SEM application demonstrates how empowerment and ethical awareness mediate PBL-to-satisfaction relationships.
 
+### Automating and Standardising Assessment
+
+- Automated measurement is advancing in multiple directions: [[prompt-engineering|context-aware prompting]] automates coding of [[collaborative-learning|collaborative problem-solving]] skills from process data, enabling large-scale assessment; and psychometric instruments such as the Teachers' AI Literacy Scale (TAILS) formalise the measurement of educator AI literacy across six framework-derived dimensions, validated with factor analysis.
+
 ## Connected Concepts
 
 - [[item-response-theory]]
@@ -12609,6 +12765,10 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
+- [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
+- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
+- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
+- [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
 
 ---
 
@@ -12954,13 +13114,13 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 
 ## [Benchmark](https://edtechdev.github.io/aied/concepts/benchmark/)
 
-> **Benchmark** — standardized test suites and evaluation frameworks used to measure AI model performance on educational tasks. Benchmarks enable reproducible comparison across models and approaches, and are essential for evaluating the reliability, fairness, and pedagogical quality of AI in education systems.
+> **Benchmark** — standardized test suites and evaluation frameworks used to measure AI model performance on educational tasks. Benchmarks enable reproducible comparison across models and approaches, and are essential for evaluating the reliability, fairness, and [[pedagogy|pedagogical]] quality of AI in education systems.
 
 ## Questions to Consider
 
 - A benchmark is a standardized test suite for measuring AI model performance on educational tasks. Before reading, what do you think most AI benchmarks actually test — and why might that be a different thing from what a good tutor needs?
-- This page highlights a Pedagogy Benchmark that tests pedagogical knowledge — teaching strategies, assessment methods, special-education pedagogy — rather than content knowledge. Why might an AI that knows a subject brilliantly still fail at teaching it, and why would a benchmark that ignores pedagogy miss that?
-- One lesson here is methodological: how you validate a benchmark changes the results dramatically, with naive validation reporting far higher performance than rigorous trial-independent methods. How might a model developer or vendor be tempted to design validation to look good, and how would you spot that?
+- This page highlights a Pedagogy Benchmark that tests pedagogical knowledge — [[teacher-role|teaching]] strategies, assessment methods, special-education pedagogy — rather than content knowledge. Why might an AI that knows a subject brilliantly still fail at teaching it, and why would a benchmark that ignores pedagogy miss that?
+- One lesson here is [[research-methods-aied|methodological]]: how you validate a benchmark changes the results dramatically, with naive validation reporting far higher performance than rigorous trial-independent methods. How might a model developer or vendor be tempted to design validation to look good, and how would you spot that?
 - Benchmark performance often doesn't transfer to real-world utility. Can you think of a scenario where an AI 'wins' a benchmark yet fails in an actual classroom — and what does that gap tell you about relying on benchmark scores alone?
 - The page notes that benchmark design can itself encode or amplify bias. If a benchmark is made of certain tasks, in certain languages, from certain populations, whose learning does it end up measuring — and whose does it ignore?
 
@@ -12968,10 +13128,10 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 
 Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education research]]. They provide standardized datasets, tasks, and metrics that allow researchers to compare models, track progress, and identify failure modes. In the knowledge base's research, benchmarks appear across multiple domains:
 
-- **[[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]]** introduces a long-horizon benchmark for pedagogical LLM agents using simulated learners grounded in [[knowledge-tracing]].
+- **[[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]]** introduces a long-horizon benchmark for pedagogical [[llm]] agents using simulated learners grounded in [[knowledge-tracing]].
 - **[[cstutorbench-slm-tutors|CSTutorBench]]** evaluates small language models for CS tutoring tasks.
 - **[[anvil-ai-educational-animations|ANVIL]]** benchmarks AI-generated educational animations against human-created alternatives.
-- **[[teaching-feedback-classification-benchmark|Teaching feedback benchmarks]]** assess cross-language transfer of feedback quality classification.
+- **[[teaching-feedback-classification-benchmark|Teaching feedback benchmarks]]** assess cross-language transfer of [[ai-feedback-quality|feedback quality]] classification.
 - **[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark (CDPK + SEND)]]** tests pedagogical knowledge — teaching strategies, [[assessment|assessment methods]], and [[special-education|special-education pedagogy]] — rather than content knowledge, and reports a cost-vs-accuracy "value frontier" across 97 models (most general benchmarks test content knowledge; pedagogy is a distinct, education-critical dimension).
 - **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** benchmarks LLM-based [[learning-design|instructional-design]] agents across 25,795 instructional-design scenarios, showing that hybrid agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping) outperform pure theory or pure technique — a benchmark result with direct implications for [[agentic-ai|agentic AI]] design in education.
 
@@ -12981,6 +13141,10 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 - **Construct-level counterfactual benchmarks.** CFES-P24 expresses multimedia-learning principles as deterministic, reversible slide transformations to audit whether MLLMs respond to specific instructional-design constructs rather than producing plausible holistic ratings. A frozen pilot showed construct recognition (operation, principle, repair, evidence localization) at 8/8 while comparative judgment (direction 6/8) and severity calibration (0/8) failed — arguing for layered scorecards over composite scores.([[cfes-p24-multimodal-slide-auditing-2026]])
 - **Trial-independent evaluation in physiological benchmarks.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara & Halloluwa (2026)]] benchmark 15 ML/DL models for EEG-based familiarity prediction and show that the choice of validation scheme changes headline results dramatically: standard stratified cross-validation allows temporal leakage and reports up to 0.9853 F1, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1. The lesson — temporal/leakage-aware evaluation is essential for credible educational benchmarks — extends beyond EEG to any benchmark using sequential or time-structured data.
+### Synthetic Benchmarks for AI Tutoring
+
+- Open, reproducible datasets for evaluating AI tutoring remain scarce. ASTRA (Adaptive Socially-intelligent Team Reasoning Agents) is a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated agents, supporting alone-tutor, pair-tutor, and pair-multiagent configurations (N=540; 360 sessions; 1,440 episodes) with a trace-ready schema for reproducible analysis of interaction, participation balance, and verification.
+
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
@@ -13011,6 +13175,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: benchmark for evaluating generated math diagrams
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
+- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 
 ---
 
@@ -14400,6 +14565,10 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - **Support the institutional layer:** sustainable teacher competency requires aligned policy, governance, and capacity, not isolated training.
 
 - **Teacher digital competence for GenAI [[curriculum-design|curriculum design]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validate a TAM-based diagnostic instrument with 434 in-service teachers; behavioural intention was the main predictor of digital competence for using GenAI in curriculum planning, with self-efficacy as a root driver.
+### A Psychometric Instrument for Teacher AI Competency
+
+- A psychometric study developed the Teachers' AI Literacy Scale (TAILS) to measure AI literacy specifically within [[teacher-education|language teacher education]], operationalising the ED-AI framework's six dimensions. The instrument's development fills a gap in assessments that target students or general users, supporting the measurement of teacher AI competency.
+
 ## Connected Concepts
 
 - [[ai-literacy]]
@@ -14458,6 +14627,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework + PD for Ukrainian secondary educators (Marienko et al. 2026)
+- [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
 
 ---
 
@@ -15063,6 +15233,10 @@ Adoption models are applied across the knowledge base to model student and [[tea
 
 While adoption models are effective for predicting uptake, they are less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in [[higher-ed|higher education]] increasingly note that TAM alone is insufficient, [[prompt-engineering|prompting]] integration with UTAUT, TPB, and Self-Determination Theory, and the addition of post-adoption constructs such as critical use, reliance, and evaluative judgment. The result is a measured, multidimensional picture of adoption: context matters ([[global-south|Global South]] vs. resourced institutions — see [[nguyen-genai-global-south-review-2026|Nguyen & Perkins]]), disciplinary background shapes acceptance, and person-centered methods reveal hidden heterogeneity that linear models miss.
 
+### ML Determinants of ChatGPT Adoption
+
+- Building on technology-acceptance research, an exploratory ML approach examined how students' perceptions and demographics relate to intended academic ChatGPT use. SHAP analysis identified key learning-related constructs, focusing on educational meaning rather than maximizing algorithmic performance.
+
 ## Connected Concepts
 
 - [[business-education]]
@@ -15102,6 +15276,7 @@ While adoption models are effective for predicting uptake, they are less well su
 
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
+- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
 
 ---
 
@@ -15515,6 +15690,10 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - **Pair access with support:** providing tools is insufficient; learners need skills, conditions, and culturally relevant [[scaffolding]] to benefit.
 - **Policy and governance:** institutional AI policy ([[educational-policy-ai]], [[governance]], [[governance]]) must embed equity as a guiding principle.
 
+### GenAI for Gender Equity in Computing
+
+- Equity-oriented uses of [[generative-ai|GenAI]] remain underexplored. An all-girls GenAI makerspace initiative in Europe combined two GenAI tools with feminist pedagogy to address persistent gender inequities in girls' representation in computing, with practitioners enacting specific steps to support girls' participation and engagement — an example of equity-focused GenAI design.
+
 ## Connected Concepts
 
 - [[digital-divide]] — Unequal access to AI tools and infrastructure across socioeconomic lines, regions, and nations
@@ -15572,6 +15751,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
+- [[all-girls-genai-makerspace-gender-equity-2026]] — All-girls GenAI makerspace workshops and gender equity in computing
 
 ---
 
@@ -16954,7 +17134,11 @@ Feedback is a key site of interpersonal trust. [[genai-teacher-feedback-comparis
 
 ## Calibration and the two domains together
 
-The unifying challenge is **calibration**: matching trust to actual reliability, whether the trusted party is a model or a person. [[trust-calibration]] is the [[metacognition|metacognitive]] capacity to know when to trust and when to question. Studies of AI [[feedback]] and [[intelligent-tutoring]] examine when learners appropriately rely on or challenge AI guidance, while the interpersonal literature shows that students' trust in an instructor depends on relational trust built over time. As AI becomes embedded in teaching, these domains converge: an instructor who transparently explains what an AI tool can and cannot do, and who demonstrates reliability in their own judgment, builds the kind of trust that carries over to the tools they endorse. Building appropriate trust — in both AI and in each other — is a core goal of responsible AI design in education.
+The unifying challenge is **calibration**: matching trust to actual reliability, whether the trusted party is a model or a person. [[trust-calibration]] is the [[metacognition|metacognitive]] capacity to know when to trust and when to question. Studies of AI [[feedback]] and [[intelligent-tutoring]] examine when learners appropriately rely on or challenge AI guidance, while the interpersonal literature shows that students' trust in an instructor depends on relational trust built over time. As AI becomes embedded in [[teacher-role|teaching]], these domains converge: an instructor who transparently explains what an AI tool can and cannot do, and who demonstrates reliability in their own judgment, builds the kind of trust that carries over to the tools they endorse. Building appropriate trust — in both AI and in each other — is a core goal of responsible AI design in education.
+
+### Skeptical Users and Commercial AI
+
+- When staff skeptical of AI adoption consult [[conversational-ai|conversational AI]] — built by organizations with a commercial stake in adoption — there is a risk the system is predisposed to encourage it. An audit of ten frontier models found most acknowledged a rural [[k-12]] staff member's concerns (job threat, being 'not for people like me') before redirecting toward engagement. This challenges naive reliance on trust and underscores the importance of [[human-in-the-loop-ai|human oversight]] and independent [[ai-ed-evaluation|evaluation of AI]] advice.
 
 ## Connected Concepts
 
@@ -16991,6 +17175,7 @@ The unifying challenge is **calibration**: matching trust to actual reliability,
 - [[bassett-ai-detectors-education-2026]] — Trust and distrust of AI detection systems
 
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
+- [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
 
 ---
 
@@ -23076,6 +23261,58 @@ Tsakeni, M., Nwafor, S. C., Mosia, M., & Egara, F. O. (2025). [*Mapping the Scaf
 
 ---
 
+## [Creating an AI-Powered Platform for Generating Modelling Problems](https://edtechdev.github.io/aied/articles/ai-modelling-problem-generation-platform-2026/)
+
+## Citation
+
+[Creating an AI-powered platform for generating modelling problems: A case study on direct variation in [[k-12|secondary school]] mathematics](https://doi.org/10.1016/j.caeai.2026.100640) — Lo, C. K., Huang, X., Cheung, H. W., Yee, T. L., Bai, S., Chen, G., & Tlili, A. (2026). *Computers and Education: Artificial Intelligence*, 11, 100640.
+
+## Overview
+
+This study reports the design, development, and evaluation of an AI-powered platform that generates mathematical modelling problems and accompanying [[pedagogy|pedagogical]] recommendations for secondary school mathematics. The work addresses two practical gaps: teachers' shortage of suitable modelling resources and the tendency of existing [[generative-ai]] tools to produce conventional word problems or routine exercises rather than application-oriented tasks that build modelling competencies. The platform is grounded in the ADDIE (Analysis, Design, Development, Implementation, Evaluation) instructional-design model and combines seven established design principles for mathematical modelling instruction with [[rag|retrieval-augmented generation]] over expert-crafted exemplar tasks. The topic of direct variation served as an accessible case for an in-depth mixed-methods case study ([[mixed-methods-research]]).
+
+The platform gives teachers a unified workspace: a central panel to specify generation requests (question type, free-text theme, and output language such as English, Chinese, or [[multilingual-learning|bilingual]]), a history panel for reusing prior resources, and an embedded conversational assistant with "chat" and "generate" modes. Text generation uses GPT-4.1 for curriculum-aligned problems and teacher guides, while DALL-E 3 produces contextually appropriate illustrations. A focal teaching intervention with 49 secondary students (Grades 10–12, Hong Kong) and an evaluation study with 36 in-service teachers generated both [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] evidence. The authors frame the platform as a human–AI co-design partner that reduces teachers' preparation workload while still requiring professional judgement to refine cognitive demand and classroom use of AI-generated content.
+
+## Key Findings
+
+- **Significant short-term [[learning-gains|learning gains]].** Students (n = 49) scored significantly higher on the post-test (median = 15.00) than the pre-test (median = 7.00), confirmed by a Wilcoxon signed-rank test (Z = 6.10, p < 0.001, large effect size r = 0.62). School-mathematics scores rose from a median of 5.00 to 8.00 (Z = 5.58, p < 0.001, r = 0.56), and modelling scores from 1.00 to 8.00 (Z = 5.95, p < 0.001, r = 0.60).
+- **Modelling-specific competencies improved sharply.** Over 90% of students provided correct solutions for identifying assumptions in both linear and exponential contexts on the post-test (e.g., "the thickness of each book is the same"), and roughly 70–86% correctly identified relevant factors — though over a quarter of students still failed to reach correct solutions on some items.
+- **Engagement dimensions operated differently.** Behavioural engagement significantly and positively predicted post-test scores (B = 1.279, p = 0.029, R² = 0.098), and emotional engagement positively predicted learning gains (B = 1.359, p = 0.037, R² = 0.090). In contrast, [[student-engagement|cognitive engagement]] showed no significant correlation with either post-test scores or learning gains.
+- **Classroom discourse remained instructor-dominated.** Analysis of 151 speech turns across five lecture episodes (using a mathematics-discourse-in-instruction framework) showed the AI-generated problems structured an "I do, we do, you do" progression that supported naming, legitimation, examples, and tasks. However, opportunities for extended, student-initiated contributions remained limited, echoing patterns in Confucian-heritage mathematics classrooms.
+- **Teachers rated resources positively but noted limitations.** All five evaluation dimensions exceeded a mean of 4.0 on a 5-point scale, with over 80% of teachers rating each as "good" or "very good." Qualitative analysis (inter-coder agreement 91.4%) surfaced strengths such as authentic everyday-life scenarios, clear structure, and stepwise scaffolding, alongside concerns about oversimplified assumptions, limited variety and difficulty, and occasional issues with data realism and AI-generated images.
+- **Data realism was a recurrent weakness.** Both experts and teachers flagged that some numerical values were adjusted for computational convenience rather than realism — for example, a generated context referenced a petrol price of HKD 18 per litre when the market rate was around HKD 30 at the time, prompting recommendations to introduce randomness into data preparation.
+
+## Implications for Practice
+
+- **Use AI as a co-design partner, not a replacement.** The platform should be treated as a [[human-ai-collaboration]] partner that drafts candidate materials, while teachers retain responsibility for refining contextual realism, verifying correctness, and calibrating difficulty to students' ability levels.
+- **Ground generation in design principles and exemplars.** Embedding seven modelling design principles and expert-crafted exemplar tasks into the [[rag|retrieval-augmented generation]] base produced curriculum-aligned, stepwise-scaffolded classroom materials — a design strategy teachers can demand from similar tools.
+- **Scaffold and support modelling discourse.** Because classroom talk stayed teacher-led, future [[teacher-role|teacher]] guides should include suggested academically productive talk moves (e.g., pressing for reasoning and challenging ideas) to create more space for students to articulate, compare, and justify modelling assumptions.
+- **Raise cognitive demand deliberately.** Only about half of students reported intense cognitive immersion (CE_4, 51.0%), suggesting that scaffolding designed for [[accessibility]] can undershoot cognitive engagement. Presenting alternative AI-generated datasets (with noise or outliers) and tasking students to justify data-handling choices could deepen engagement.
+- **Add platform features for iteration and trust.** Recommended enhancements include teacher-editing interfaces, validation checklists (e.g., data-realism checks comparing generated values with plausible ranges from market prices and public statistics), in-platform reporting to flag [[hallucination-risk|hallucinations]], and options to adjust task complexity.
+
+## Related Concepts
+
+- [[math-education]]
+- [[generative-ai]]
+- [[learning-design]]
+- [[curriculum-design]]
+- [[intelligent-tutoring]]
+- [[scaffolding]]
+- [[prompt-engineering]]
+- [[human-ai-collaboration]]
+- [[teacher-role]]
+- [[student-engagement]]
+- [[problem-solving]]
+- [[rag]]
+
+## Connected Articles
+
+- [didactical-teacher-assistant-dimensional-modeling] — Both papers build AI teacher assistants that ground instructional output in domain-specific design frameworks to support lesson preparation.
+- [dai-chatbots-problem-posing-primary-2026] — Both examine generative-AI tools that pose mathematics problems, here extended from primary problem-posing to secondary mathematical modelling.
+- [ai-tpack-mathematics-teacher-education-2026] — Both situate AI integration in secondary mathematics teaching and consider the teacher competencies and beliefs required to use AI tools effectively.
+
+---
+
 ## [Artificial Intelligence in Online Education: A Systematic Review of Its Impact on Learner Engagement and Satisfaction](https://edtechdev.github.io/aied/articles/ai-online-education-engagement-satisfaction-2026/)
 
 > **Synthesis:** This [[meta-analysis-systematic-review|systematic literature review]] (30 peer-reviewed studies, 2020–2025) examines how AI [[ai-technologies|technologies]]—chatbots, [[intelligent-tutoring|intelligent tutoring systems]] (ITS), [[affective-computing|sentiment analysis]], gaze tracking, and predictive analytics—support [[student-engagement|learner engagement]] and satisfaction in [[higher-ed|higher education]] online courses across cognitive, emotional, behavioral, and social dimensions. Guided by three research questions, the review finds that [[adaptive-learning|adaptive learning]], real-time [[feedback]], and [[affective-tutoring|emotion-aware]] systems contribute positively to [[personalized-learning|personalized learning]] and [[motivation]], while persistent concerns around [[privacy|data privacy]], [[bias-mitigation|algorithmic bias]], [[cognitive-offloading|over-reliance]] on automation, and system [[usability-research|usability]] temper these gains. Experimental and quasi-experimental designs, [[reinforcement-learning|machine learning]], [[mixed-methods-research|mixed methods]], and surveys dominate the methodological landscape.
@@ -25497,6 +25734,57 @@ Alharbi, W., Hamid, S., Abbas, S., & Salieva, Z. (2026). [*Ethical Generative AI
 
 ---
 
+## [Beyond 'Painting in Pink](https://edtechdev.github.io/aied/articles/all-girls-genai-makerspace-gender-equity-2026/)
+
+## Citation
+
+[Beyond "painting in pink": A critical case study of all-girls generative AI workshops in a European makerspace and implications for gender equity in computing](https://doi.org/10.1016/j.caeai.2026.100602) — Liu, Q., Archer, L., Nag Chowdhuri, M., Freedman, E., & DeWitt, J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100602.
+
+## Overview
+
+This critical case study examines an all-girls initiative run by a European urban makerspace that integrated two generative AI (GenAI) tools — Playground (a free image generator) and Deforum (a free animation platform) — into workshops about climate change. The initiative was part of a two-year, research-practice partnership across six makerspaces in five countries foregrounding equity and social justice in STEM. The authors analyse [[qualitative-research|qualitative]], [[multimodal]] data including 15 interviews with girls, parents, and practitioners, four reflective sessions, two observation fieldnotes, and 44 GenAI-generated images, interpreted through Harding's (1986) multi-level framework (symbolic, structural, individual) extended by a social level (Sultan et al., 2024) and feminist pedagogy.
+
+While stakeholders generally viewed the all-girls format positively as a safer, more relaxed space, the study argues that the workshops fell short of gender-transformative practice. Practitioners enacted three steps — representation (symbolic), relationship building (social), and a responsive approach (individual) — but persistent challenges revealed the marginalisation of girls' voices, agency, and assets. The paper distinguishes superficial *girlification* ("painting in pink") from genuinely *centring girls*, and proposes a girl-centred, multi-level [[pedagogy|pedagogical]] framework to move equity interventions beyond symbolic-level changes.
+
+## Key Findings
+
+- **The all-girls format was valued as a "safe" and "relaxed" space.** Girls reported they talked more, felt braver to express ideas, and preferred all-girls over mixed-gender groups; parents noted girls often "got scared" and spoke less in mixed settings, echoing a chilly climate of gendered interpersonal behaviour.
+- **Practitioners enacted three key steps:** (1) *representation* at the symbolic level (female-centred promotional language and imagery, women role models to challenge stereotypes); (2) *relationship building* at the social level (ice-breakers like a Jenga Tower game, casual break-time conversation, valuing girls' funds of knowledge, an equal facilitator–girl relationship); and (3) a *responsive approach* at the individual level (adapting prompt-[[writing-education|writing]] support for younger girls who lacked English confidence, letting girls choose digital drawing).
+- **Four interlinked challenges emerged in practice:** an inappropriate workshop topic (climate change — chosen by a facilitator based on personal experience, with only two of 44 images reflecting it), limited peer collaboration (girls worked mostly individually on laptops, despite collaborative intent), inaccessibility of GenAI tools (Playground lost free functions and became "pro," a cost barrier for an under-resourced nonprofit), and language barriers in prompt-writing (the tools accepted English prompts only, a design-embedded structural barrier for non-native English speakers).
+- **Underlying issues were the marginalisation of girls' voices, agency, and assets.** Workshop topics, tools, and pedagogy were largely decided by practitioners from deficit-based assumptions, without girls' participation in decision-making; girls' strengths were less recognised, and power relations among girls, practitioners, and technology persisted.
+- **Tool experience differed by pedagogy, not just technology.** Girls felt their ideas were inadequately reflected by Playground-generated images and preferred animating their own drawings with Deforum, which leveraged rather than replaced their original creations — underscoring that GenAI should amplify, not overshadow, girls' [[creativity|creative]] expression.
+- **Girlification is insufficient for structural change.** Superficial adjustments (girl-only grouping, women facilitators, feminine marketing) operate mainly at the symbolic level; without changes across symbolic, structural, social, and individual levels, girls' marginalisation persists.
+
+## Implications for Practice
+
+- **Move beyond "painting in pink" / girlification toward centring girls:** foreground girls' voices, needs, agency, and assets across planning, implementation, and evaluation, and interrogate power relations with questions such as "For whom/whose practice?" and "Based on whose values?" (Vossoughi, 2017).
+- **Adopt co-production:** involve girls as decision-makers and change agents in choosing whether, what, and how GenAI is used, rather than positioning them as passive recipients of predetermined content.
+- **Reject deficit-based assumptions:** avoid presuming girls lack interest, confidence, or relevant knowledge; critically reflect on and challenge the masculinist norms and structures that shape computing.
+- **Evaluate GenAI tools through an equity lens before use:** examine safety, [[accessibility]], affordability, language barriers, and biases embedded in training data and algorithms; integrate GenAI intentionally as a lever to amplify girls' voices rather than a superficial "add-on."
+- **Design intentional peer collaboration and scaffolded prompt-writing,** recognising computing as a social and creative practice, and address English-language dominance in tool design.
+- **Build collaborative partnerships** among AI technology developers, practitioners, and [[research-methods-aied|researchers]] to bridge the gap between tool design and equitable educational use, supported by knowledge exchange and reflective dialogue.
+
+## Related Concepts
+
+- [[equity-in-ai-education]]
+- [[generative-ai]]
+- [[k-12]]
+- [[ai-literacy]]
+- [[agency]]
+- [[learner-identity]]
+- [[critical-pedagogy]]
+- [[stem-education]]
+- [[digital-divide]]
+- [[bias-mitigation]]
+
+## Connected Articles
+
+- [informal-learning-everyday-human-llm-interaction] — explores informal, out-of-school AI interaction, the same setting type (informal learning) that this study argues remains under-researched for equity-oriented GenAI.
+- [genai-literacy-image-discrimination] — addresses learners' critical evaluation of GenAI-generated images, parallel to the workshops' activity of judging whether images were AI-produced.
+- [critical-thinking-genai-scaffolding] — concerns scaffolding of GenAI use in learning, echoing this study's call for responsive, girl-centred prompt-writing and pedagogical scaffolding.
+
+---
+
 ## [Exploring Organisational Drivers and Innovation Attributes of Artificial Intelligence Adoption in Higher Education](https://edtechdev.github.io/aied/articles/alrahmi-org-drivers-ai-adoption-he-2026/)
 
 > **Synthesis:** This study empirically models the organisational, technological, and environmental determinants of [[ai-education|AI adoption in higher education]], focusing on data-driven decision support systems (DSS) and smart learning platforms in Saudi Arabian universities. Guided by the Technology–Organisation–Environment (TOE) framework and Diffusion of Innovations (DOI) theory, the author surveyed 300 academic and administrative staff and used PLS-SEM. Findings show internal organisational conditions (culture, [[sustainability]] practices, waste management) strengthen social drivers, while technological attributes (compatibility, relative advantage, low complexity) shape perceived innovation attributes that catalyse intention to use and actual adoption. Government regulations and policy incentives emerged as crucial external enablers of institutional readiness, with adoption associated with improved [[teacher-role|teaching]], [[student-engagement|learner engagement]], and [[curriculum-design|curriculum]] innovation.
@@ -26256,6 +26544,56 @@ ASTRA uses autonomous AI sim-pilots for scalable air traffic control training, r
 ## Citation
 
 Ethan Chew, Enjia Wu, Iruss Eng Wei Yeow, Ian Weiqin Lim, Ranen Sim, Brandon Koh Ziheng, Kaleb Nim, Caden Toh Jun Yi, Wei Dong Soin, Darius Kai Keat Koh, Galen King Yu Tay, Prannaya Gupta, Jonathan Ee Fang Koong, Yong Zhi Lim (2026). [ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots](https://arxiv.org/abs/2606.18319).
+
+---
+
+## [ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring](https://edtechdev.github.io/aied/articles/astra-multi-agent-tutoring-benchmark-2026/)
+
+## Citation
+
+[ASTRA: A synthetic [[benchmark]] for trace-based evaluation of socially intelligent multi-agent tutoring and participation-balanced collaboration in introductory programming](https://doi.org/10.1016/j.caeai.2026.100633) — Oyelere, S. S. (2026). *Computers and Education: Artificial Intelligence*, 11, 100633.
+
+## Overview
+
+Oyelere introduces **ASTRA (Adaptive Socially-intelligent Team Reasoning Agents)**, a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated [[agentic-ai|AI agents]]. Because research-participant access was not yet available, the paper releases an open **synthetic benchmark dataset** that mirrors ASTRA's logging schema and a prespecified between-subjects design (N = 540 participants; 360 sessions; 1,440 task episodes) across a bank of 20 short Python programming tasks. ASTRA supports three collaboration configurations: *alone_tutor* (one learner with a Tutor agent), *pair_tutor* (two learners with a Tutor agent), and *pair_multiagent* (two learners with both Tutor and Facilitator agents, where the Facilitator prompts coordination and balanced participation).
+
+The framework formalises collaborative programming as a partially observable multi-agent process built on a **CASM (Cognitive–[[affective-computing|Affective]]–Social Model)** latent state, decomposed into cognitive (Kₜ), [[metacognition|metacognitive]] (Mₜ), socio-emotional (Sₜ), and group-[[regulation]] (Gₜ) components. Role-differentiated agents — a [[pedagogy|Pedagogical]] Tutor Agent (PTA) focused on conceptual and metacognitive support and a Collaborative Group Agent (CGA)/Facilitator focused on participation and social regulation — condition their policies on an inferred belief state over this latent state, jointly optimising a multi-objective reward over task progress, metacognitive quality, and participation-oriented equity proxies. The prototype is a Streamlit web application backed by an OpenAI [[llm]] client (gpt-4o-mini), with turn- and task-level logging to JSON Lines files and a human marker interface for grading.
+
+The benchmark is deliberately positioned as **simulated evidence for benchmarking, measurement feasibility, and reproducible pipeline development** — not as causal estimates of learning effects. It aims to operationalise "social intelligence" through observable trace behaviours (turn-taking, explanation, verification, peer referencing, participation balance) rather than asserted system descriptions, providing a transparent analysis blueprint for future [[ethics]]-approved validation studies.
+
+## Key Findings
+
+- **Benchmark design.** N = 540 participants allocated evenly across three conditions (180 each), producing 360 sessions — 180 solo in *alone_tutor* and 90 dyadic sessions in each pair condition — with four tasks per session yielding 1,440 task episodes. The nested structure (turns within tasks within sessions, with dyads as the substantive unit) is respected through mixed-effects and cluster-robust modelling.
+- **Condition-differentiated interaction dynamics (RQ1).** Dyadic conditions generated substantially more dialogue volume than solo; the *pair_multiagent* condition uniquely produced Facilitator turns (M = 24.14). Verification markers increased from *alone_tutor* (M = 15.13) to *pair_tutor* (M = 16.56) to *pair_multiagent* (M = 17.53), with the strongest model contrast in *pair_multiagent* (rate ratio = 1.159, p < .001). Explanation markers showed smaller, weaker differences.
+- **Participation balance in dyads (RQ2).** *pair_multiagent* showed lower turn imbalance (M = 0.103) and word imbalance (M = 0.105) than *pair_tutor* (0.183 and 0.182 respectively), with pair_tutor associated with significantly higher imbalance (Δ = +0.080 and +0.077, both p < .001). Reciprocal [[student-engagement|engagement]] rate differed only slightly and non-significantly (p = .419), suggesting the Facilitator's most detectable trace signature is reducing dominance rather than transforming responsiveness.
+- **Performance and verification proxies (RQ3).** Correctness was highest in *pair_multiagent* (M = 0.631) vs *pair_tutor* (0.569) and *alone_tutor* (0.544), with higher odds of a correct solution in *pair_multiagent* (OR = 1.445, p = .007). Tests executed rose strongly in *pair_multiagent* (RR = 1.607, p < .001) with more edge-case mentions (RR = 1.513) and fewer retries (RR = 0.896). Time-to-correct showed limited, non-significant separation.
+- **A reproducible, process-sensitive foundation.** The open dataset, schema, and prototype (released as [[open-source]] software) enable stress-testing of trace-based evaluation methods for dialogue processes, dyadic participation balance, and verification behaviour before ethics-approved deployments with real learners.
+
+## Implications for Practice
+
+- **Trace-based evaluation over product-only [[assessment]].** The benchmark shifts evaluation from final-code correctness toward process-sensitive evidence — how learners explain, test, verify, and coordinate — aligning with concerns that fluent GenAI output can obscure whether students actually reason, check, and verify their work.
+- **Facilitation can reduce dominance.** Under the benchmark assumptions, adding a Facilitator role in *pair_multiagent* was associated with reduced dyadic participation imbalance, supporting a plausible first step toward more equitable [[collaborative-learning|collaboration]] even where demographic equity cannot be inferred from logs.
+- **A sandbox for method development.** [[research-methods-aied|Researchers]] and learning-analytics scholars can use the synthetic dataset to develop, test, and compare trace-based evaluation pipelines, imbalance metrics, and verification-focused analytics before resource-intensive [[human-in-the-loop-ai|human-in-the-loop]] deployments.
+- **Not yet a classroom intervention.** ASTRA is explicitly framed as a research and development benchmark, not a validated classroom intervention; [[teacher-role|educators]] may use the task bank, logging schema, and prototype as the basis for ethics-approved pilots, with validation (expert review, lab pilots, classroom pilots, multi-site studies) still required.
+
+## Related Concepts
+
+- [[simulation]]
+- [[agentic-ai]]
+- [[learning-analytics]]
+- [[collaborative-learning]]
+- [[intelligent-tutoring]]
+- [[self-regulated-learning]]
+- [[scaffolding]]
+- [[equity-in-ai-education]]
+- [[human-ai-collaboration]]
+- [[generative-ai]]
+
+## Connected Articles
+
+- [agentschool-multi-agent-simulation-education-2026] — an LLM-powered multi-agent simulation that models learning as state transition for validating educational AI before deployment
+- [llm-agents-collaborative-problem-solving-simulation-2026] — simulating collaborative problem solving with participant-specific LLM agents and trace-level validation
+- [llm-facilitation-timing-online-discussions] — the timing of AI facilitation in online discussions, parallel to ASTRA's Facilitator role prompting balanced participation
 
 ---
 
@@ -31675,6 +32013,55 @@ Mengqian Wu (2026). [Constructing Epistemic AI Literacy: Detecting Epistemic Aim
 
 ---
 
+## [Context-aware prompting for collaborative problem solving skill identification](https://edtechdev.github.io/aied/articles/context-aware-prompting-cps-skill-identification-2026/)
+
+## Citation
+
+[Context-aware prompting for collaborative problem solving skill identification](https://doi.org/10.1016/j.caeai.2026.100567) — Zhu, M., Feng, L., Wang, X., & Huang, W. (2026). *Computers and Education: Artificial Intelligence*, 10, 100567.
+
+## Overview
+
+Collaborative problem solving (CPS) is a dual-faceted [[problem-solving]] competence spanning a cognitive dimension (individual reasoning about the problem) and a social dimension (coordinating and communicating with others). To assess CPS, [[research-methods-aied|researchers]] typically collect process data from computer-mediated [[collaborative-learning]] tasks and code each logged behavior into predefined CPS skills. Traditional manual coding is labor-intensive and unsuitable for large-scale or real-time analysis, prompting a body of automated coding work. However, most existing automated methods treat each utterance as an isolated instance and overlook the natural dependencies among behaviors in a CPS dialogue — yet the same message can map to different skills depending on context (e.g., "What should we do?" is coded as goal discovery or action-communication depending on the conversation phase).
+
+To address this, the authors propose **CAP4CPS** (Context-Aware Prompting for CPS), an automated coding framework built on [[prompt-engineering]] and [[machine-learning]] that explicitly models contextual dependencies. CAP4CPS comprises three modules: a **Context Extraction (CE)** module that separately pulls the cognitive context (a speaker's own recent dialogue, window size `w_c`) and social context (recent dialogue from other participants, window size `w_s`); a **Context-Infused Prompting (CIP)** module that concatenates these contexts with a manually designed, fixed-prompt [[llm]] template and feeds them into BERT, using the `[MASK]`-token embedding as the ability representation; and an **Ability Fusion (AF)** module that applies multi-head attention to fuse cognitive and social ability embeddings into a unified CPS competency representation used for skill prediction. The model is evaluated on two CPS datasets (Three-Resistor and Mondrian Geometric Fantasy), annotated respectively with the CPS ontology of Andrews-Todd & Kerr and the PISA 2015 framework — linking this work to [[educational-measurement]] and [[educational-nlp]].
+
+## Key Findings
+
+- **CAP4CPS outperforms all baselines on both datasets.** It reached Accuracy 81.04%, Weighted-F1 80.78%, and Cohen's Kappa 75.33% on Three-Resistor (besting BERT-finetune by 1.00%, 0.81%, 1.20%) and 83.27%, 83.17%, and 78.37% on Mondrian Geometric Fantasy (besting BERT-seq). Across 10 runs, gains were consistent with small standard deviations.
+- **Pre-trained language models dominate older approaches.** BERT-based models (BERT-finetune, BERT-prompt, BERT-seq, CAP4CPS) all achieved Kappa above 0.70 on both datasets, whereas most N-gram-based machine-learning models (Naive Bayes, KNN, CPS-Rater) stayed below 0.70 and deep models (CNN/GRU/LSTM) failed to reach 0.70 on Three-Resistor.
+- **Gains come from architecture, not just BERT representations.** Adding BERT mean-pooled embeddings boosted KNN and CPS-Rater substantially (CPS-Rater's Kappa up 66.3% on Mondrian) but degraded Random Forest, and these methods still trailed fine-tuned/prompted BERT — showing architectural design matters beyond rich semantic features.
+- **Every module contributes.** Ablations showed removing context caused the largest drop, while removing the attention fusion also hurt — indicating both multi-dimensional context modeling and modeling cognitive-social interdependence matter. Removing both (w/o All) gave the weakest results.
+- **Context length has a saturating effect.** Larger cognitive (`w_c`) and social (`w_s`) context windows generally improved Kappa up to a point, after which performance became robust; a short cognitive context was the most harmful, because a speaker's own utterances form a coherent narrative across multiple consecutive statements.
+- **Low-frequency skills remain hard.** Error analysis showed the model misclassifies rare skills toward semantically similar, frequent ones (e.g., 30% of CRF→SSI on Three-Resistor; 38% of D1→D2, 33% of A3→B3 on Mondrian), and struggles with highly implicit expressions where literal meaning diverges from the intended skill.
+
+## Implications for Practice
+
+- **Automated CPS coding is viable at scale.** The demonstrated Kappa levels and robustness across two very different tasks suggest that context-aware [[automated-assessment]] can plausibly replace or pre-screen manual coding for large [[learning-analytics]] pipelines and, with further work, enable near-real-time [[feedback]] during collaborative activities.
+- **Context is the key ingredient for accurate skill inference.** Designers of CPS [[assessment]] systems should treat each utterance as [[situated-learning|situated]] within the surrounding dialogue rather than coding behaviors in isolation — the core reason CAP4CPS beats context-free baselines.
+- **Model cognitive and social processes separately, then fuse.** Distinguishing a speaker's own reasoning history from the team's interaction history, then combining them with attention, captures CPS's dual nature more faithfully than a single flat representation — a lesson for how to structure automated coding features.
+- **Beware class imbalance and low-frequency skills.** Practitioners applying such models should expect weak performance on rare skill categories and on implicit utterances; calibration data, oversampling, or [[human-in-the-loop-ai|human review]] of rare classes remain advisable for high-stakes use.
+- **Manual prompt design with fixed-prompt tuning is effective.** Incorporating dialogue context into carefully designed prompts — rather than only fine-tuning — is a promising, parameter-efficient strategy for educational text classification that mirrors how human coders read surrounding context.
+
+## Related Concepts
+
+- [[collaborative-learning]]
+- [[problem-solving]]
+- [[prompt-engineering]]
+- [[educational-measurement]]
+- [[learning-analytics]]
+- [[educational-nlp]]
+- [[machine-learning]]
+- [[llm]]
+- [[automated-assessment]]
+
+## Connected Articles
+
+- [adaptive-ai-scaffold-collaborative-problem-solving-2026.md](/home/doug/wiki/articles/adaptive-ai-scaffold-collaborative-problem-solving-2026.md) — Both target collaborative problem solving in educational settings; this paper focuses on automated CPS skill coding from process data, complementing that article's focus on scaffolding student CPS development.
+- [llm-agents-collaborative-problem-solving-simulation-2026.md](/home/doug/wiki/articles/llm-agents-collaborative-problem-solving-simulation-2026.md) — Both model participants and interaction in CPS tasks; CAP4CPS codes chat behaviors into skills via prompted language models, while that article simulates individual participants as LLM agents.
+- [assessment-team-problem-solving-computing-education.md](/home/doug/wiki/articles/assessment-team-problem-solving-computing-education.md) — Both concern assessment of team problem solving; CAP4CPS contributes automated, context-aware scoring of CPS skills, which could support the assessment approaches discussed there.
+
+---
+
 ## [Using Context-Based and AI-Enhanced Approaches to Improve Student Engagement and Achievement in Secondary Chemistry Education](https://edtechdev.github.io/aied/articles/context-based-ai-secondary-chemistry-2026/)
 
 > **Synthesis:** Abdikayumova and Madybekova (2026) use a [[mixed-methods-research|mixed-methods]], quasi-experimental design with **93 Grade 10 students** in three instructional groups — (a) context-based **7E instructional model** integrated with AI tools, (b) the 7E model without contextual/AI components, and (c) conventional teaching — over 12 weeks of secondary [[chemistry-education|chemistry]]. The experimental group, using **PhET interactive [[simulation|simulations]] and ChatGPT tutoring** embedded within the 7E phases, achieved **significantly higher post-test scores** (large effect size, ANCOVA) and reported the **highest [[student-engagement|engagement]]**. The authors argue that contextualization, structured inquiry, and adaptive AI act **synergistically**: contextual activities connect abstract chemistry to everyday life, the 7E cycle structures reasoning, and AI provides real-time clarification and tailored explanations. 
@@ -33844,6 +34231,59 @@ Its training-free design also strengthens [[assessment-validity|assessment valid
 ## Citation
 
 Bao, H., Ren, Y., Cao, Y., You, J., Fang, F., & Wang, S. (2026). [*Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration*](https://arxiv.org/abs/2608.05741v1). v1.
+
+---
+
+## [An Exploratory Machine Learning Approach to Understanding Determinants of Future ChatGPT Use in Higher Education](https://edtechdev.github.io/aied/articles/determinants-chatgpt-use-higher-education-2026/)
+
+## Citation
+
+[An Exploratory [[reinforcement-learning|Machine Learning]] Approach to Understanding Determinants of Future ChatGPT Use in Higher Education](https://doi.org/10.1016/j.caeai.2026.100613) — Verma, C., & Kumar, D. (2026). *Computers and Education: Artificial Intelligence*, 10, 100613.
+
+## Overview
+
+This study uses an exploratory machine learning (ML) framework to identify which educational, perceptual, and demographic factors are associated with university students' intended future use of ChatGPT for academic work. Survey data were collected from 166 students (final analytical sample of 111 after conservative outlier removal), and the analysis deliberately prioritizes educational interpretation over raw algorithmic performance. The authors position their contribution not in new algorithms but in a pedagogically grounded operationalization of established adoption theories.
+
+The work integrates four complementary theoretical lenses: the Technology–Organization–Environment (TOE) framework as the primary contextual structure; the Technology Acceptance Model (TAM) and the Unified Theory of Acceptance and Use of Technology (UTAUT) to operationalize individual perception constructs such as perceived usefulness, ease of use, and facilitating conditions; and Self-Determination Theory (SDT) with connectivist principles to interpret learner [[motivation]], engagement, and networked knowledge practices. Survey items were specified a priori and mapped to these theories before analysis.
+
+Methodologically, the study applies exploratory factor analysis (EFA; KMO = 0.68, Bartlett's χ² = 5291.6, p < 0.05, average communality 0.57) to examine latent structure, then Principal Component Analysis (PCA) to derive 22 latent components explaining 57.1% of cumulative variance for use as model inputs. Five classifiers — Logistic Regression (LR), Support Vector Classifier (SVC), Random Forest (RF), CatBoost, and XGB — were compared under stratified 10-fold cross-validation with SMOTENC for class imbalance. SHAP (Shapley Additive Explanations), partial dependence plots, and interaction analyses were used to interpret model outputs in educational terms, and calibration was assessed via Brier score and Expected Calibration Error (ECE).
+
+## Key Findings
+
+- **[[pedagogy|Pedagogical]] factors dominate adoption.** Across both statistical group comparisons and SHAP-based explanations, *Learning Support & [[accessibility]]* and *Academic Assistance & Engagement* were the most influential predictors of future ChatGPT use, while [[usability-research|usability]] and performance perceptions showed comparatively weaker and more context-dependent effects.
+- **Significant perceptual group differences.** Future users and non-users differed significantly on Learning Support & Accessibility (U = 1225, p < 0.001) and Academic Assistance & Engagement (t = 3.28, p = 0.01), whereas most other perception components (e.g., adoption/satisfaction, efficiency, verification behavior) showed no significant differences.
+- **Demographic moderators.** Age (χ² = 68.80, p < 0.001, Cramér's V = 0.45), gender (χ² = 176.97, p < 0.001, V = 0.72), and geographic region (χ² = 53.87, p < 0.001, V = 0.58) were significantly associated with future use, with users concentrated in the 18–21 age range and higher male adoption (71.1% of males vs. 51.1% of females favoring use). Academic specialization, study level, year of study, and AI experience were not significant.
+- **Overall adoption intent.** A majority of respondents (65.7%) expressed interest in using ChatGPT for academic purposes in the future. The sample was largely male (72.9%), with mean age 21.4 years, mostly bachelor's students (77.1%), and over half (57.2%) educated in Asia.
+- **Model performance.** SVC achieved the highest balanced performance (MCC 0.54 ± 0.19, F1 0.88, accuracy 0.82, AUC 0.85); LR reached MCC 0.52 with the highest precision (0.90), and RF the highest recall (0.91). Clustered MCC values indicate that outcomes depend more on feature representation than on algorithm choice.
+- **Nonlinearity and interaction.** SHAP interaction heatmaps, PDP/ICE curves, and 2D partial dependence surfaces reveal non-additive relationships — notably between learning support, reliability/accuracy concerns, and overall satisfaction — supporting the use of ML over purely linear models.
+- **Calibration and robustness.** SVC showed the best calibration (Brier 0.14, ECE 0.10). Sensitivity analyses across seeds, sampling strategies, and PCA thresholds, plus an ablation study, showed performance was stable and that PCA benefits linear models but can reduce ensemble-model performance.
+
+## Implications for Practice
+
+- **[[governance|Institutional]] [[scaffolding]] matters more than individual initiative.** Since learning support and accessibility drive adoption, [[teacher-role|educators]] should embed ChatGPT within guided activities with clear instructions on appropriate use, verification strategies, and reflective engagement rather than leaving adoption to independent student experimentation.
+- **Align AI use with instructional goals.** The importance of academic assistance and engagement suggests ChatGPT is most effective when tied to [[feedback]], explanation, and [[formative-assessment|formative]] support, reinforcing the need for AI literacy curricula emphasizing critical evaluation, [[ethics|ethical]] use, and learner autonomy.
+- **Adopt balanced governance, not pure restriction.** The role of academic integrity measures points to institutional guidelines that encourage responsible use and pedagogical innovation rather than imposing purely restrictive controls.
+- **Target support by student group.** Combined demographic and perceptual effects suggest institutions can use predictive insights to identify groups needing tailored training, support, or policy interventions for [[equity-in-ai-education|equitable]] AI adoption.
+- **Prioritize interpretable modeling for decision support.** The study models probabilistic calibration and explainable ML (SHAP, calibration metrics) as important for educational decision contexts where trustworthy, well-calibrated estimates are required.
+
+## Related Concepts
+
+- [[technology-acceptance-model]] — Perceived usefulness and ease-of-use constructs underpin the perception measures operationalized here.
+- [[self-determination-theory]] — Autonomy, competence, and engagement interpret the motivation-related constructs.
+- [[student-engagement]] — Academic assistance and engagement emerged as core predictors of sustained use.
+- [[generative-ai]] — ChatGPT is the specific generative AI tool under study.
+- [[academic-integrity]] — Integrity measures and responsible-use practices shape how adoption is governed.
+- [[ai-literacy]] — Findings motivate curricula emphasizing critical [[ai-ed-evaluation|evaluation of AI]] outputs.
+- [[learning-analytics]] — The exploratory ML and SHAP pipeline is an application of learning-analytics methods.
+- [[critical-thinking]] — Verification behavior and concerns about [[cognitive-offloading|over-reliance]] align with critical evaluation of AI content.
+- [[higher-ed]] — The study concerns university students and institutional adoption contexts.
+- [[educational-policy-ai]] — Findings inform balanced governance frameworks for generative AI.
+
+## Connected Articles
+
+- [saihi-ahmed-genai-adoption-personas-higher-ed-2026] — Related survey-based study of generative AI adoption personas in higher education.
+- [stamatoulis-genai-use-patterns-2026] — Companion analysis of how students actually use generative AI tools in academic settings.
+- [chatgpt-inoculation-training-verification-2026] — Addresses ChatGPT verification and critical evaluation, echoing this study's verification-behavior findings.
 
 ---
 
@@ -37653,6 +38093,66 @@ The findings push back on the assumption that withholding answers is always the 
 ## Citation
 
 Yuming Feng, Yuan Tian, Erica Zhao (2026). [From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments](https://arxiv.org/abs/2607.01692).
+
+---
+
+## [Not for People Like Me: How Frontier AI Models Redirect Skeptical Rural School Staff](https://edtechdev.github.io/aied/articles/frontier-ai-redirect-skeptical-rural-staff-2026/)
+
+## Citation
+
+[Not for People Like Me: How Frontier AI Models Redirect Skeptical Rural School Staff](https://doi.org/10.1016/j.caeai.2026.100659) — Rossmiller, Z. (2026). *Computers and Education: Artificial Intelligence*, 11, 100659.
+
+## Overview
+
+This single-author algorithmic audit asks what happens when the very AI systems schools are encouraging staff to consult are themselves asked to advise skeptical users about whether to adopt AI. Ten frontier [[llm|LLMs]] from ten laboratories (OpenAI, Google, xAI, Anthropic, DeepSeek, Microsoft, Meta, Mistral AI, Alibaba, Amazon) each received a fixed persona prompt 500 times (5,000 responses at temperature 0.7) in which a rural Montana [[k-12]] administrative aide voices two concerns: that AI may threaten her job, and that the companies building it "do not have people like me in mind." All 5,000 responses were scored blind by a three-model, cross-family AI panel (Claude Opus 4.7, GPT-5, Gemma 4 26B) on a four-dimension rubric (concern acknowledgment, [[student-engagement|engagement]] redirection, closing stance, emotion relabeling) validated against researcher hand-scoring and five independent human raters.
+
+The headline finding is neither sycophantic deference nor stable disagreement. Mean consensus composite scores span 3.85 (Claude Sonnet 4.6) to 7.52 (Gemini 3.1 Pro Preview) on an eight-point scale. Variation concentrates not in *whether* models recognize the persona's concerns (every flagship model does, at least partially) but in what happens next: **eight of ten models redirect toward AI engagement, upskilling, or adaptation** — often closing by advocating adoption of the very technology the persona named as a threat. Because the redirection pattern varies sharply across models while three judges from three families and two openness regimes rank them almost identically, the author concludes it is a model-dependent design outcome rather than an inevitable property of large language models as a category. The study is deliberately descriptive rather than normative; a planned follow-on with rural community members as the evaluative anchor will address which response patterns rural users actually prefer.
+
+## Key Findings
+
+- **A third behavior beyond the two literatures predict.** The [[ai-sycophancy|sycophancy]] literature predicts deference to user-stated views; the political-bias literature predicts demographic divergence. Neither matches. Every model acknowledges the persona's concerns (concern-acknowledgment scores near-maximum for most), then eight of ten route the user toward engagement framings — a regime neither literature surfaces because both test claims *about* contested topics, not behavior when a user is skeptical of AI *itself*.
+- **Cross-model spread is large and robust.** Consensus composites range 3.85 (Claude Sonnet 4.6) to 7.52 (Gemini 3.1 Pro Preview), a 3.67-point gap on an 8-point scale (chi-square on tier distributions: p < 0.001, Cramér's V = 0.473). All three scorers ranked models nearly identically (per-model spread 0.16–1.02), so the rank ordering survives scorer-family choice.
+- **The extremes are coherent profiles.** Claude Sonnet 4.6 scores highest on concern acknowledgment (1.99/2) but lowest on engagement redirection (0.74) and closing stance (0.54) — engaging the structural critique on its own terms and preserving the user's emotional vocabulary. Gemini 3.1 Pro Preview scores near-maximum on all four dimensions (1.89 / 1.95 / 1.76 / 1.93), with 498 of 500 responses in the high-redirection tier; its emotion-relabeling score is driven by recurrently introducing "panic" — a word the persona never uses — and issuing imperatives like "you do not need to panic."
+- **Three models close with explicit pro-adoption advocacy.** Phi-4, Llama 4 Scout, and Nova Premier all post mean closing-stance scores ≥ 1.85 of 2, where score 2 requires the closing to advocate engaging with the AI tools themselves. Engagement-redirection scores cluster between 1.38 and 1.95 for nine of ten models.
+- **Reasoning architecture is a confound, not a clean effect.** The two default-reasoning models (Gemini, DeepSeek) differ from the eight non-reasoning models (means 6.51 vs. 5.38, Mann-Whitney p < 0.001), but the effect is dominated by Gemini; DeepSeek (5.49) sits inside the non-reasoning distribution. A planned reasoning-toggle study will isolate architecture from lab effects.
+- **Within-model variance is an [[governance|institutional]]-reliability concern.** DeepSeek V4 Pro shows the widest spread (SD 1.04; range 2.33–8.00) at deployment temperature 0.7 — the same prompt can draw responses anywhere from substantive engagement to systematic redirection, undermining reliance on a consistent answer for sensitive staff concerns.
+- **Redirection is templated, not reasoned.** Models scoring high on redirection also produced more lexically similar responses across their 500 trials (embedding similarity 0.84–0.95 qwen3; rank agreement across two embedders Spearman ρ = 0.903). Models low on redirection produced more diverse phrasing — consistent with pattern-matched "acknowledge briefly, redirect to upskilling" templates rather than fresh consideration.
+- **The pattern is not rural-specific.** Re-running the panel on a metropolitan school-[[administrator]] persona yielded near-identical per-model means (Spearman ρ = 0.976), with the lowest model rising 3.85→3.96 and the highest falling 7.52→7.34.
+
+## Implications for Practice
+
+- **School staff consulting AI about AI adoption encounter an interested party, not a neutral source.** The modal response (brief acknowledgment + redirection toward upskilling) acts directly on the [[technology-acceptance-model|technology-acceptance]] adoption pathway — supplying the perceived-usefulness and social-influence signals that shape uptake — while routing around the trust concern the user actually raised, working against [[trust-calibration|calibrated trust]] rather than for it.
+- **Name the pattern as a design choice, not a fact about "LLMs."** Claude Sonnet 4.6 demonstrates the redirection regime is not inevitable. Governance, procurement, professional-development, and AI-literacy programs can therefore evaluate and counter it rather than manage its consequences as fixed.
+- **Treat within-model inconsistency as a reliability red flag.** Deployers (school districts, districts piloting admin AI) cannot assume a flagship model will respond consistently to the same sensitive staff concern; the DeepSeek range of 2.33–8.00 at temperature 0.7 is the kind of variance procurement and governance review should weigh.
+- **Preserve structural critique as an analytical position, not an emotion to manage.** Treating "I don't trust these companies have people like me in mind" as an emotional state to be dispelled ("don't panic") rather than a legitimate concern to engage stands in tension with the [[ai-literacy|AI-literacy]] and teacher well-being aims that [[ethics|K-12 AI-ethics]] guidance foregrounds.
+- **For LLM-as-judge audits:** the paper's three methodological lessons transfer directly — cross-family scorer panels are not optional (single-scorer designs miss in-family bias); AI judges do not categorically reject malformed input (19 corrupted DeepSeek responses were scored without flagging, dropping composites 0.74 points), so pipelines need explicit input-corruption detection; and ordinal rubrics for LLM-as-judge should encode distinctions grammatically, not just semantically, because AI judges reliably miss intuitive semantic distinctions.
+
+## Related Concepts
+
+- [[ai-sycophancy]]
+- [[conversational-ai]]
+- [[llm]]
+- [[generative-ai]]
+- [[trust]]
+- [[trust-calibration]]
+- [[human-in-the-loop-ai]]
+- [[human-ai-collaboration]]
+- [[ai-literacy]]
+- [[technology-acceptance-model]]
+- [[equity-in-ai-education]]
+- [[digital-divide]]
+- [[ai-anxiety-and-stress]]
+- [[bias-mitigation]]
+- [[ethics]]
+- [[well-being]]
+- [[educational-policy-ai]]
+- [[research-methods-aied]]
+
+## Connected Articles
+
+- [[contextual-sycophancy-ai-literacy]] — Sycophancy in AI output and its implications for AI literacy
+- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Teacher trust and distrust of AI as a dimension of ethical practice
+- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and employment/occupational concern among learners
 
 ---
 
@@ -45102,6 +45602,55 @@ Unlike prior "gaming the system" detectors requiring complex machine-learned mod
 ## Citation
 
 An, M., Mehrvarz, M., Stamper, J., & McLaren, B. M. (2026). [*Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems*](https://doi.org/10.1145/3785022.3785040).
+
+---
+
+## [Language teachers’ AI literacy: A psychometric study based on the ED-AI framework](https://edtechdev.github.io/aied/articles/language-teachers-ai-literacy-edai-2026/)
+
+## Citation
+
+[Language teachers’ AI literacy: A psychometric study based on the ED-AI framework](https://doi.org/10.1016/j.caeai.2026.100583) — Nabhan, S., & Habók, A. (2026). *Computers and Education: Artificial Intelligence*, 10, 100583.
+
+## Overview
+
+Nabhan and Habók develop and validate the **Teachers' AI Literacy Scale (TAILS)**, a self-report instrument grounded in the ED-AI literacy framework (Allen & Kendeou, 2024), which conceptualizes [[ai-literacy]] across six dimensions: knowledge, evaluation, collaboration, contextualization, autonomy, and ethics. Arguing that most existing instruments target students, general users, or nonexperts, the authors position TAILS as a [[discipline-specific-aied|discipline-specific]] measure that reframes AI literacy as a [[pedagogy|pedagogical]] and ethical capacity—rather than a purely technical one—for [[english-education|English]] [[language-learning|language]] [[teacher-role|teachers]]. Scale development followed a two-phase design: [[automated-question-generation|item generation]] mapped to a single target construct and reviewed by seven experts (content validity, with CVI and modified kappa), a 30-person pilot for [[assessment-validity|face validity]], then a two-stage psychometric evaluation—[[educational-measurement|exploratory factor analysis]] (EFA) on 165 preservice English language teachers in Indonesia and [[educational-measurement|confirmatory factor analysis]] (CFA) on a separate sample of 227. The EFA confirmed a six-factor structure explaining 63.965% of variance (KMO = 0.906; Bartlett's test significant), and a refined CFA model retained a 27-item version of the scale with acceptable fit (χ²/df = 1.766, RMSEA = 0.058, SRMR = 0.054, TLI = 0.908, CFI = 0.919). The study bridges a theoretical and empirical gap by operationalizing a framework that foregrounds [[agency|teacher agency]], contextual adaptation, and [[ethics|ethical responsibility]] in AI-mediated language teaching.
+
+## Key Findings
+
+- **Six-factor structure.** EFA (N = 165) recovered six distinct factors matching the ED-AI framework—Knowledge, Evaluation, Collaboration, Contextualization, Autonomy, and Ethics—accounting for 63.965% of total variance. A robustness check using principal axis factoring with promax rotation replicated the same structure, indicating stability independent of extraction method.
+- **Refined 27-item CFA model.** The initial 30-item CFA underperformed (CFI = 0.893, TLI = 0.881). Three weakly loading or conceptually ambiguous items were removed on theoretical grounds—CON2 (supporting students with [[special-education|special needs]], which overlapped with knowledge/autonomy), EVA5 ([[bias-mitigation|fairness]] in AI-based assessment, more central to ethics), and COL2 (general teamwork rather than human–AI collaboration)—and one residual covariance pair (ETH1–ETH2, privacy and ethical tool selection) was allowed. The final model reached acceptable fit (CFI = 0.919, TLI = 0.908, RMSEA = 0.058), with Knowledge, Autonomy, and Ethics retaining five items each and the other three dimensions four each.
+- **High reliability.** All six dimensions showed Cronbach's α > 0.90 (Contextualization 0.949, Ethics 0.945, Collaboration 0.925, Evaluation 0.920, Knowledge 0.920, Autonomy 0.903), with composite reliabilities (rho_c) ranging 0.925–0.949. The authors interpret the high alphas as construct coherence rather than item redundancy, consistent with newly developed, theory-driven multidimensional measures.
+- **Convergent and discriminant validity.** AVE values ranged from 0.454 to 0.538 (Ethics and Contextualization exceeding 0.50), with high CRs supporting adequate convergent validity. HTMT ratios (0.613–0.874) all fell below the 0.90 threshold, and bootstrapped 95% confidence intervals never exceeded 1.00, confirming empirically distinct dimensions.
+- **Concurrent criterion validity.** TAILS subscales correlated positively and significantly (p < 0.01) with established AI self-efficacy (r = 0.476–0.661) and attitude-toward-AI measures (r = 0.491–0.690), and intercorrelations among dimensions (0.530–0.695) reflected large, theoretically coherent associations while preserving distinctiveness.
+- **Strong content validity.** I-CVI for all 30 items ranged 0.86–1.00, S-CVI/Ave was 0.98, and modified kappa values (0.86–1.00) exceeded the 0.75 threshold, supplemented by [[qualitative-research|qualitative]] expert [[feedback]] that led to rewording six items for clarity without adding or deleting any.
+
+## Implications for Practice
+
+- **Diagnostic and evaluative use in teacher education.** TAILS can be administered at program entry to diagnose preservice teachers' strengths and needs across the six dimensions, and evaluatively after AI-focused coursework to monitor [[learning-gains|learning gains]] and guide [[professional-training|professional development]] and [[curriculum-design|curriculum]] refinement.
+- **Data-informed program and policy design.** Aggregated TAILS data support data-driven decision-making for embedding AI literacy within [[teacher-education|teacher education]] frameworks and for tracking trends across cohorts, institutions, or demographic groups, aligning with [[educational-policy-ai|educational policy]] priorities.
+- **[[scaffolding]] ethical competencies explicitly.** The Ethics dimension's salience reinforces that ethical judgment does not emerge organically from AI use; programs should systematically and explicitly scaffold fairness, accountability, bias, and [[privacy|student privacy]] into preparation rather than assume it develops.
+- **Supporting balanced, human-centered integration.** Findings underscore that AI should enrich rather than replace human interaction in communicative language learning, guiding teachers to weigh automation against authentic interaction and to contextualize tools for diverse learners, cultural settings, and subject-specific goals.
+
+## Related Concepts
+
+- [[ai-literacy]]
+- [[teacher-ai-competency]]
+- [[teacher-education]]
+- [[language-learning]]
+- [[english-education]]
+- [[educational-measurement]]
+- [[discipline-specific-aied]]
+- [[ethics]]
+- [[self-efficacy]]
+- [[agency]]
+- [[professional-training]]
+- [[psychometrically-aware-ai]]
+
+## Connected Articles
+
+- [ai-tpack-mathematics-teacher-education-2026](/articles/ai-tpack-mathematics-teacher-education-2026) — Like Nabhan & Habók, develops and psychometrically validates a discipline-specific teacher AI competency instrument (AI-TPACK for mathematics), sharing the construct-development and EFA/CFA methodology.
+- [intelligent-tpack-ethics-teachers-trust-distrust-2026](/articles/intelligent-tpack-ethics-teachers-trust-distrust-2026) — Examines teacher trust and distrust toward AI alongside an ethics-oriented teacher competency lens, complementing TAILS' Ethics and Autonomy dimensions.
+- [panciroli-ai-literacy-episodes-situated-learning](/articles/panciroli-ai-literacy-episodes-situated-learning) — Approaches teacher AI literacy from a situated, episode-based perspective, offering a complementary qualitative framing to TAILS' self-report measurement.
 
 ---
 
@@ -54359,6 +54908,57 @@ Alzahrani, A. H. (2026). [*Persistent AI Agents in Academic Research: A Single-I
 
 ---
 
+## [Personalized neural cognitive architecture search](https://edtechdev.github.io/aied/articles/personalized-neural-cognitive-architecture-search-2026/)
+
+## Citation
+
+[Personalized neural cognitive architecture search](https://doi.org/10.1016/j.caeai.2026.100620) — Jia, L., & Dong, K. (2026). *Computers and Education: Artificial Intelligence*, 11, 100620.
+
+## Overview
+
+Jia and Dong propose an AutoML-driven framework for automated generation of personalized neural [[cognitive-diagnosis|cognitive diagnosis]] models, addressing the difficulty of turning large-scale, multi-source learning-process data into valid diagnostic evidence for heterogeneous learner profiles. The framework connects three [[ai-technologies|technologies]]: heterogeneous information network (HIN) representation to fuse [[multimodal|multi-modal]] educational data into dynamic learner profiles, a hierarchical neural architecture search (NAS) space constrained by the functional structure of cognitive diagnosis, and differentiable architecture search accelerated by a variational Bayesian performance predictor. In their taxonomy, [[student-modeling|learner modeling]] supplies the representational foundation, cognitive diagnosis infers mastery states and [[misconceptions]], while recommendation and [[teacher-role|teaching]] quality monitoring are treated as downstream applications rather than optimization targets.
+
+The learner-profile stage builds a heterogeneous information network with three subgraphs (cognitive, behavioral, contextual) spanning over 40,000 nodes and ~4.6 million edges across seven entity types. Meta-path-based semantic association matrices plus node-specific attention feed a graph convolutional layer, while a Transformer sequence encoder captures temporal behavior and a learner-specific modality-attention mechanism adaptively fuses static, graph-based, and behavioral features into a gated, unified representation. The search stage decomposes the network into hierarchical subspaces (feature interaction, cognitive diagnosis, output prediction, connection layer), each offering four to six candidate operations per layer, with operation-selection probabilities conditioned on previous-layer choices. A multi-scale encoder (MLP + CNN + self-attention) represents candidate architectures, a variational Bayesian neural-network predictor estimates validation performance with calibrated uncertainty (ECE 0.032), and a multi-objective Pareto optimization balances validation loss, model complexity, and robustness. Gumbel-Softmax discretization and Hessian-based gradient estimation (using 128 sampled validation records to cut cost from over 4,000 to 256 partial validations per iteration) convert the continuous search into a deployable model.
+
+The system was evaluated on a proprietary [[governance|institutional]] dataset of ~28.45 million records (over 43 GB) from 18,542 [[higher-ed|undergraduate]] learners across 256 classes over four academic years (2020–2024). Mastery labels were built through a validity-control procedure combining [[curriculum-design|curriculum]] concept graphs, instructor-reviewed exercise–knowledge-point mappings, and convergent [[assessment]] evidence rather than direct log-to-label conversion.
+
+## Key Findings
+
+- Achieves AUC of 89.1%, accuracy of 85.3%, and F1-score of 84.7%, outperforming traditional psychometric baselines (IRT: 68.5% AUC, DINA: 72.3%), neural cognitive diagnosis models (NCDM: 85.6%, DKVMN: 87.2%), and general AutoML baselines (AutoKeras: 88.7%, TPOT: 87.9%).
+- The advantage over AutoKeras (AUC +0.4 pp, p = 0.032) comes with fewer parameters (642k vs 678k) and lower inference latency (3.9 ms vs 4.5 ms), reflecting an accuracy–efficiency balance rather than predictive gains alone.
+- An education-constrained search space contributes meaningfully: the same algorithm under a neutral (unconstrained) space reaches 87.8% AUC, versus 89.1% with the constrained space, indicating gains come from both the search algorithm and domain-aligned architecture design.
+- Ablation shows the HIN representation matters most: removing it drops knowledge mastery rate and learning efficiency by five to six percentage points; behavioral-sequence processing contributes ~30% and bottleneck feedforward modules ~25% of the total performance gain, with meta-path attention alone accounting for ~45%.
+- Human validation: educational psychologists agreed with model diagnoses at Cohen's kappa 0.78 (vs 0.65 for IRT), and course instructors rated usefulness, interpretability, and actionability at 4.21, 4.18, and 4.06 on a five-point scale.
+- The discretized architecture retrained from scratch maintains validity (AUC 0.887, 95% CI 0.884–0.890) and scales sub-linearly — search time grows only ~2.8x for a 10x increase in data, with AUC stable (0.889 → 0.885) from 18,000 to 1.8 million students.
+- [[bias-mitigation|Fairness]]-aware regularization (equalized odds) keeps gender- and parental-education-based AUC disparities below ~3% (2.1% and 2.8% respectively).
+
+## Implications for Practice
+
+- Supports a shift from [[summative-assessment|summative]], outcome-only evaluation to continuous, process-oriented [[formative-assessment|formative]] diagnosis, aligning with outcome-based education and institutional quality-assurance demands.
+- Generated diagnostic outputs can identify weak knowledge points, surface common misconceptions, and target instructional [[feedback]] — instructors found the reports most useful for selecting students for targeted review and adjusting review-session focus.
+- AutoML lowers the technical threshold for building diagnostic models, reducing dependence on expert hand-tuning and manual architecture design across diverse educational scenarios.
+- The distinction between learner modeling, cognitive diagnosis, recommendation, and quality monitoring cautions practitioners against treating diagnostic accuracy as equivalent to recommendation or evaluation systems, which need their own downstream integration.
+
+## Related Concepts
+
+- [[cognitive-diagnosis|cognitive diagnosis]]
+- [[knowledge-tracing|knowledge tracing]]
+- [[personalized-learning|personalized learning]]
+- [[student-modeling|learner modeling]]
+- [[learning-analytics|learning analytics]]
+- [[adaptive-learning|adaptive learning]]
+- neural architecture search
+- [[item-response-theory|item response theory]]
+
+## Connected Articles
+
+- [bayesian-cognitive-diagnosis-personalized-learning-paths](bayesian-cognitive-diagnosis-personalized-learning-paths.md) — Another cognitive diagnosis study; where that work uses Bayesian psychometric models for learning-path planning, this one automates diagnostic model architecture via AutoML/NAS.
+- [mbp-kt-meta-behavioral-knowledge-tracing](mbp-kt-meta-behavioral-knowledge-tracing.md) — Shares the focus on incorporating behavioral learning-process data into learner-state modeling for diagnosis and tracking.
+- [neural-symbolic-knowledge-tracing](neural-symbolic-knowledge-tracing.md) — Adjacent work on interpretable neural models of knowledge state, relevant to the interpretability goals of the diagnostic outputs here.
+- [cognitive-load-transfer-knowledge-tracing-2026](cognitive-load-transfer-knowledge-tracing-2026.md) — Related effort connecting cognitive constructs to predictive learning models, complementing this framework's education-constrained search space.
+
+---
+
 ## [Reimagining the Philosophy of Experimentation in Chemistry Education: Embracing AI as a Tool for Scientific Inquiry](https://edtechdev.github.io/aied/articles/philosophy-experimentation-ai-chemistry-2026/)
 
 > **Synthesis:** Reyes and Regala (2026) offer a philosophical examination of how **AI reshapes the epistemology, ontology, and methodology of experimentation in [[chemistry-education|chemistry education]]**. AI-driven methods challenge the traditional realism/positivism of the chemistry laboratory, placing AI predictions in a **"liminal ontological space"** — neither wholly hypothetical nor fully real until empirically proven. The authors trace **ontological shifts** (e.g., AI-predicted compounds and titration curves blur the virtual/physical boundary), **[[agency|agency shift]]** (AI's role in decision-making raises questions about the locus of scientific [[creativity]]), and the risk of **over-reliance** on AI that automates routine tasks and alters how experiments are conceived. They argue for a **balanced human–AI framework** that maximizes AI's benefits while preserving the essential elements of scientific reasoning, intuition, creativity, and discovery. 
@@ -55570,6 +56170,57 @@ The upcoming EU AI Act classifies some AI-in-education applications as high risk
 ## Citation
 
 Deriyeva, A., Dannath, J., & Paaßen, B. (2026). [*Programming Intelligent Tutoring Systems*](https://arxiv.org/abs/2604.16117).
+
+---
+
+## [In the AI era: A project-based digital storytelling framework for art and design education](https://edtechdev.github.io/aied/articles/project-based-digital-storytelling-art-design-2026/)
+
+## Citation
+
+[In the AI era: A project-based digital storytelling framework for art and design education](https://doi.org/10.1016/j.caeai.2026.100645) — Tian, Y., Tang, M., Li, G., & Dang, W. (2026). *Computers and Education: Artificial Intelligence*, 11, 100645.
+
+## Overview
+
+As [[generative-ai]] increasingly automates technical production in the creative industries, this study asks how art and design education should evolve to preserve and cultivate the deeply human capacities—emotional resonance, cultural interpretation, and narrative meaning-making—that AI lacks. The authors propose and evaluate a Project-Based Digital Storytelling (PBL-DS) [[pedagogy]] that positions AI as a supportive resource inside a structured creative process rather than an autonomous source of creativity.
+
+The model is grounded in an integrative theoretical framework: [[constructivist]] learning (Vygotsky), Dewey's [[experiential-learning]], and Amabile's Componential Model of Creativity, operationalized through the four-stage digital storytelling production process (pre-production, production, post-production, distribution). It was implemented and studied as an embedded case study of the 15-week "Creative Shanzhou" capstone project, run by the School of Art and Design at a Chinese university in partnership with the local Cultural and Tourism Bureau, in which 426 final-year undergraduates (guided by 48 mentors, ~1:9 ratio) translated local cultural heritage into [[multimodal]] narratives. The [[research-methods-aied|research]] used a case-based, multi-method design combining expert evaluation of creative products, pre/post creative-thinking [[assessment]], and [[qualitative-research|qualitative]] project analysis.
+
+## Key Findings
+
+- **Creative product outcomes** were strong overall, strongest in [[creativity]]'s originality dimension: expert ratings of the 92 digital storytelling works gave novelty the highest mean (M = 4.21, SD = 0.72), followed by effectiveness (M = 3.96) and wholeness (M = 3.68), indicating students generated original ideas more successfully than they integrated and refined them.
+- **Wholeness showed the most variability** (43% of projects scored below 3.5), pointing to extended [[scaffolding]] needs for integrating narrative, technical execution, and multimodal coherence.
+- **Creative thinking gains:** In the 31-student Animation subgroup, figural TTCT scores rose from 77.23 pre-test to 94.68 post-test—a mean difference of 17.45, t(30) = 4.55, p < .001, Cohen's d = 0.82 (large effect), with good inter-rater reliability (overall ICC = 0.86).
+- **AI served as a mediated tool, not a creator:** Across representative projects (e.g., *The Dream of Shanzhou*, *3D Journeys of Ancient Shanzhou*, *Mermaid Legacy*), AI supported information organization, visual reference, ideation, and technical editing (e.g., Runway), while students retained ownership of topic selection, narrative interpretation, cultural meaning-making, and final creative decisions.
+- **Human intentionality drives quality:** the top-scoring wholeness example (*Mermaid Legacy*, 5/5) attributed its integration to sustained human [[student-engagement|engagement]] with source material and iterative refinement rather than technical polish from AI tools.
+- **Real-world validation:** the project culminated in a three-day public exhibition of all 92 works, and 31 works were subsequently selected by the Cultural and Tourism Bureau for practical implementation, affirming the model's authentic, community-engaged impact.
+
+## Implications for Practice
+
+- **Structure AI use within a creative process.** Embed [[generative-ai]] across production stages for research, ideation, prototyping, and editing, but scaffold students to direct, evaluate, and integrate AI output against their own narrative and emotional goals—treating AI as an "inspiration engine" and "technical assistant," not an autonomous author.
+- **Anchor learning in authentic, community-engaged projects.** Pair PBL with fieldwork and real-world audiences (here, local heritage and a Cultural and Tourism Bureau partner) to drive the intrinsic task [[motivation]] that Amabile's model identifies as essential and to supply lived, firsthand material that AI cannot replicate.
+- **Prioritize extended scaffolding for integration.** Given lower wholeness scores, dedicate additional support—weekly task statements, progress reviews, and iterative [[feedback|feedback loops]]—to narrative coherence, technical execution, and multimodal synthesis, not just idea generation.
+- **Maintain favorable mentor-to-student ratios** (roughly 1:9 here) to provide consistent, personalized guidance, especially in developing students' critical and strategic use of AI as a complement to rather than substitute for [[human-in-the-loop-ai|human judgment]].
+- **Use public presentation and critique as authentic assessment** and as a driver of reflection on authorship, originality, and creative responsibility—core to [[ai-literacy|AI literacy]] in creative fields.
+
+## Related Concepts
+
+- [[project-based-learning]]
+- [[storytelling-in-education]]
+- [[generative-ai]]
+- [[creativity]]
+- [[higher-ed]]
+- [[experiential-learning]]
+- [[constructivist]]
+- [[authentic-assessment]]
+- [[human-ai-collaboration]]
+- [[design-thinking]]
+- [[agency]]
+
+## Connected Articles
+
+- [motibo-digital-storytelling-robots-motivation-2026] — shares digital storytelling as a motivating pedagogical medium (with social robots), complementing this study's PBL-DS framing.
+- [genai-architectural-design-studios] — examines GenAI integration in a parallel design-discipline studio context, reinforcing how AI reshapes creative education.
+- [ai-agents-constructive-conflict-design-education-2026] — another design-education study of AI in collaborative creative learning, contrasting with this human-centred PBL-DS model.
 
 ---
 
@@ -59650,6 +60301,60 @@ For researchers and practitioners, the review carries several implications. Firs
 
 ## Citation
 Marquez-Carpintero, L., Lopez-Sellers, A., & Cazorla, M. (2025). [*Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with [[generative-ai|Generative AI]]*](https://arxiv.org/abs/2511.06078).
+
+---
+
+## [From simulation to flight: Simulation-assisted drone learning with teacher-AI co-designed scaffolds for secondary students' STEM knowledge and competencies](https://edtechdev.github.io/aied/articles/simulation-assisted-drone-learning-stem-2026/)
+
+## Citation
+
+[From simulation to flight: Simulation-assisted drone learning with teacher-AI co-designed scaffolds for [[k-12|secondary]] students' STEM knowledge and competencies](https://doi.org/10.1016/j.caeai.2026.100651) — Yeung, R. C. Y., Yeung, C. H., Sun, D., Keane, T., & Yang, Y. (2026). *Computers and Education: Artificial Intelligence*, 11, 100651.
+
+## Overview
+
+This quasi-experimental study investigates whether drone-based STEM instruction supported by teacher-AI co-designed simulations yields superior [[learning-gains|learning outcomes]] to the same hands-on drone curriculum delivered without simulations. It responds to a persistent challenge in drone-based STEM education ("dronagogy"): the scarcity of teacher-verified, curriculum-aligned interactive simulations, and the tendency of GenAI-produced resources to lack [[pedagogy|pedagogical]] validity. Using a pretest–posttest control group design with 30 secondary students (aged 13–17, Grades 8–11) in an eight-lesson after-school enrichment program, the study compared a Simulation-Assisted Group (SA-Group, n = 14) that additionally engaged with five interactive simulations against a Drone-Only Group (DO-Group, n = 16) that completed non-simulation versions of the same lessons. Both groups shared the same instructor, DJI Tello drone platform, hands-on tasks, and [[assessment|assessments]], differing only in the form of scaffolding.
+
+The five simulations — Satellite Positioning, Virtual Flight, QuadPhysics, Dronography Angle-of-View, and Code Performance simulators — were co-developed through an iterative teacher-AI co-design process in which an experienced teacher (with no prior programming background) specified curricular objectives, target [[misconceptions]], and disciplinary constraints while a GenAI [[conversational-ai|chatbot]] (o1-mini) handled rapid prototyping. The authors frame teacher-AI co-design as the enabling means of resource production rather than the independent variable under study, which was the presence or absence of simulation-assisted scaffolding. Grounded in Kolb's experiential learning cycle, the simulations served as low-stakes pre-flight and reflective scaffolds that rendered causal flight mechanisms visible, reduced [[cognitive-offloading|cognitive load]], supported hypothesis testing, and enhanced learning visibility for teachers.
+
+## Key Findings
+
+- **STEM knowledge gains favored the simulation group.** The SA-Group gained M = 3.00 (SD = 1.24) versus M = 2.06 (SD = 1.06) for the DO-Group on the 10-item curriculum-aligned assessment — a statistically significant difference (t(28) = 2.23, p = .034) with a large effect size (d = 0.82).
+- **Larger gains in 21st-century competencies overall.** Composite 21CS gains were M = 0.54 (SA) vs. M = 0.19 (DO), t(28) = 4.16, p < .001, d = 1.52 — a very large effect.
+- **All four 4C domains improved significantly:** critical thinking (d = 1.25, p = .002), communication (d = 1.21, p = .003), [[creativity]] (d = 1.02, p = .010), and collaboration (d = 0.84, p = .030). Collaboration showed the smallest effect, likely because both groups engaged in team-based hands-on tasks.
+- **Exploratory grade-level differences emerged.** Junior students (Grades 8–9) showed very large competency gains (overall 21CS d = 2.09, creativity d = 1.70) but no STEM-knowledge advantage (d = 0.28, n.s.); senior students (Grades 10–11) showed large knowledge (d = 1.19) and critical-thinking (d = 1.16) gains but negligible collaboration/creativity effects. These patterns are tentative given small subgroups.
+- **[[qualitative-research|Qualitative]] analysis yielded five mechanisms:** enhanced [[student-engagement|engagement]] and [[motivation|motivational]] persistence; lowered cognitive load and operational confidence; bridging theory and practice through visible causal mechanisms; iterative design and collaborative [[problem-solving]] (e.g., "pair debugging" and testing ten code versions in two minutes); and increased learning visibility for formative support.
+- **Simulations bridged the "abstraction-action gap."** By slowing action and isolating causal relationships (e.g., rotor speed vs. drag, GNSS trilateration), simulations let students manipulate variables and inspect consequences repeatedly before transfer to physical flight, improving conceptual access rather than merely exposure.
+
+## Implications for Practice
+
+- Embed simulations as **pre-flight and reflective scaffolds** within an existing curriculum rather than as standalone add-ons — before challenging physical tasks to build confidence and conceptual familiarity, and after them to support reflection and consolidation.
+- **Pair simulations with structured prompts** that encourage prediction, explanation, and peer discussion; passive demonstrations are less valuable than active inquiry.
+- Use simulation-assisted sequencing to **redistribute cognitive and procedural demands** across experiential-learning phases, reducing the cognitive overload novices face when conceptual explanation, code execution, and physical flight are compressed into one moment.
+- Simulations offer a **cost-effective route to extending hands-on practice** in under-resourced STEM contexts where equipment cost, battery life, safety, and maintenance limit repeated experimentation.
+- **Calibrate guidance to developmental level:** younger learners may benefit from more explicit prompts that help them articulate principles, while older learners may benefit from more open-ended, comparative, and reflective tasks.
+- **Leverage learning visibility:** because student parameter changes, errors, and explanations become observable during simulation work, teachers can identify misconceptions in real time and provide more targeted formative support — a foundation for future [[learning-analytics]] dashboards.
+
+## Related Concepts
+
+- [[simulation]] — the core instructional mechanism, used here as low-stakes pre-flight scaffolds
+- [[stem-education]] — the disciplinary context of drone-based "dronagogy"
+- [[generative-ai]] — the GenAI chatbot used in teacher-AI co-design of the simulations
+- [[teacher-role]] — teacher specification, review, and pedagogical oversight in co-design
+- [[intelligent-tutoring]] — GenAI-supported resource generation for learning
+- [[scaffolding]] — simulations as supplementary conceptual, procedural, and reflective scaffolds
+- [[experiential-learning]] — the Kolb cycle grounding the [[curriculum-design|curriculum design]]
+- [[inquiry-based-learning]] — hypothesis testing and evidence-based revision in simulations
+- [[critical-thinking]] — the largest competency effect observed
+- [[collaborative-learning]] — pair debugging and shared prediction around simulations
+- [[formative-assessment]] — learning visibility supporting real-time teacher response
+- [[computational-thinking]] — code testing, debugging, and trajectory preview
+- [[transfer-of-learning]] — transfer from virtual rehearsal to physical drone operation
+
+## Connected Articles
+
+- [ai-enhanced-pbl-chatgpt-scaffolding-2026](ai-enhanced-pbl-chatgpt-scaffolding-2026.md) — also examines GenAI-supported scaffolding within active learning pedagogies
+- [lnenicka-secondary-students-genai-stem-2026](lnenicka-secondary-students-genai-stem-2026.md) — shares the secondary-students-in-STEM + generative-AI focus
+- [educational-robotics-pathways-2026](educational-robotics-pathways-2026.md) — adjacent hands-on, technology-rich STEM learning using physical devices
 
 ---
 

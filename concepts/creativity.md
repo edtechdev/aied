@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [critical-thinking, student-experience, generative-ai, writing-education, constructivist]
 discipline: [writing education]
@@ -34,6 +34,10 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 
 Creativity connects to [[critical-thinking]] and to [[constructivist]] learning. It is protected by the same [[reducing-ai-misuse]] [[scaffolding|scaffolds]] that preserve learning, and by [[authentic-assessment]] designs that reward original reasoning over polished products.
 
+### Reaffirming Human Creativity in the AI Era
+
+- The ascent of generative AI challenges educational fields to reaffirm the value of human creativity. A project-based digital [[storytelling-in-education|storytelling]] framework for art and design education was designed explicitly to cultivate emotional, cultural, and narrative capacities that AI lacks, with students producing [[multimodal]] narratives from local cultural heritage — positioning creativity as the distinctly human contribution in AI-integrated learning.
+
 ## Connected Concepts
 
 - [[critical-thinking]]
@@ -55,4 +59,4 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
 - [[genai-mindtool-generative-learning]] — GenAI as a Mindtool for Generative Learning
-
+- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era

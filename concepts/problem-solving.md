@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [problem-solving, critical-thinking, generative-ai, cognitive-psychology]
 confidence: medium
@@ -36,16 +36,20 @@ The dual character of AI for problem solving is consistent across studies. On th
 
 ### Implications
 
-For educators, the balance of evidence points to structured, process-oriented integration: [[prompt-engineering|prompt engineering]] training shifts students from unfocused to productive [[student-ai-interaction|AI interaction]], embedding AI within collaborative inquiry tasks yields durable [[learning-gains|gains]], and deliberately using AI errors as provocations converts a limitation into a learning opportunity. For designers, the consistent finding that efficiency does not equal deep learning argues for AI that questions, challenges, and scaffolds rather than answers. For institutions, responsible integration requires pairing [[generative-ai|GenAI]] with explicit [[ai-literacy|AI literacy]] training and assessment rubrics that reward reasoning and justification over correct products. The recurring theme across [[cognitive-psychology|cognitive-psychology]]-grounded work is that problem solving is learned through effortful engagement — and AI's role should be to preserve that effort, not erase it.
+For educators, the balance of evidence points to structured, process-oriented integration: [[prompt-engineering|prompt engineering]] training shifts students from unfocused to productive [[student-ai-interaction|AI interaction]], embedding AI within collaborative inquiry tasks yields durable [[learning-gains|gains]], and deliberately using AI errors as provocations converts a limitation into a learning opportunity. For designers, the consistent finding that efficiency does not equal deep learning argues for AI that questions, challenges, and scaffolds rather than answers. For institutions, responsible integration requires pairing [[generative-ai|GenAI]] with explicit [[ai-literacy|AI literacy]] training and assessment rubrics that reward reasoning and justification over correct products. The recurring theme across [[cognitive-psychology]]-grounded work is that problem solving is learned through effortful engagement — and AI's role should be to preserve that effort, not erase it.
 
 ### Connections to other concepts
 
-Problem solving is the applied outcome of [[critical-thinking|critical thinking]] and [[computational-thinking|computational thinking]], and is cultivated through [[problem-based-learning|problem-based learning]] and [[inquiry-based-learning|inquiry-based learning]] frameworks. It depends on [[scaffolding|scaffolding]] that maintains cognitive demand, on [[self-regulated-learning|self-regulation]] and [[metacognition|metacognitive]] oversight to avoid [[cognitive-offloading|cognitive offloading]], and on [[collaborative-learning|collaborative]] structures in which human and AI work together. [[cognitive-psychology|Cognitive psychology]] and the [[transfer-of-learning|transfer of learning]] literature provide the theoretical grounding for why learner-generated problems and reflective feedback produce more durable [[learning-gains|problem-solving gains]].
+Problem solving is the applied outcome of [[critical-thinking|critical thinking]] and [[computational-thinking|computational thinking]], and is cultivated through [[problem-based-learning|problem-based learning]] and [[inquiry-based-learning|inquiry-based learning]] frameworks. It depends on [[scaffolding]] that maintains cognitive demand, on [[self-regulated-learning|self-regulation]] and [[metacognition|metacognitive]] oversight to avoid [[cognitive-offloading|cognitive offloading]], and on [[collaborative-learning|collaborative]] structures in which human and AI work together. [[cognitive-psychology|Cognitive psychology]] and the [[transfer-of-learning|transfer of learning]] literature provide the theoretical grounding for why learner-generated problems and reflective feedback produce more durable [[learning-gains|problem-solving gains]].
 
 
 ## Simulating Collaborative Problem Solving with LLM Agents
 
 - **Simulating collaborative problem solving with participant-specific [[llm]] agents.** Fang (2026) trains individual LLM agents on real participants' dialogue to reproduce collaborative problem solving, and validates the [[simulation|simulations]] with [[network-analysis|Epistemic Network Analysis]], showing simulated and real dialogues are statistically indistinguishable (ENA distance 0.17; permutation p = 0.65). This offers a scalable way to study and generate authentic collaborative problem-solving discourse — with implications for both research and the design of practice environments for this 21st-century skill.
+
+### Automated CPS Skill Coding
+
+- Measuring [[collaborative-learning|collaborative problem solving (CPS)]] competence typically requires coding behaviour from simulated-task process data into specific CPS skills. [[prompt-engineering|Context-aware prompting]] of pre-trained language models can automate this coding, modelling contextual dependencies and fusing cognitive and social abilities to achieve superior performance over strong baselines on CPS task datasets — addressing the labour-intensity of manual coding and enabling large-scale, real-time assessment.
 
 ## Connected Concepts
 
@@ -71,3 +75,4 @@ Problem solving is the applied outcome of [[critical-thinking|critical thinking]
 
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
+- [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding

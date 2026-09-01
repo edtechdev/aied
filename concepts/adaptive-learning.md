@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
@@ -49,6 +49,10 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 ### Connections
 
 Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[personalized-learning]] (the goal), [[intelligent-tutoring]] (the platform), [[cognitive-diagnosis]] (fine-grained [[assessment]]), and [[scaffolding]] (adaptation as dynamic scaffolding).
+
+### AutoML-Driven Personalisation
+
+- Traditional educational models struggle to process multi-source heterogeneous learning-behaviour data, limiting learner profiling and diagnostic model development. A personalized neural cognitive architecture search framework driven by automated [[reinforcement-learning|machine learning]] integrates [[multimodal|multi-modal]] educational data with heterogeneous methods, generating diagnostic models tailored to heterogeneous learner profiles and supporting dynamic rather than static analysis of learning processes.
 
 ## Connected Concepts
 
@@ -112,3 +116,4 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis pooling adaptive + AI-enabled tools across 14 RCTs
 
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
+- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
