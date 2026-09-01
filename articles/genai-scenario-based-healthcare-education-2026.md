@@ -7,10 +7,6 @@ sources: ["raw/papers/genai-scenario-based-healthcare-education-2026.md"]
 tags: ["generative-ai", "medical-education", "problem-based-learning", "simulation", "meta-analysis-systematic-review", "human-ai-collaboration"]
 ---
 
-## Citation
-
-[Generative AI in scenario-based healthcare education: A systematic review of applications, validation practices, and [[pedagogy|pedagogical]] integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001165) — Neto, M., Pinto, R., Reis, J., & Antão, L. (2026). *Computers and Education: Artificial Intelligence*, 11, 100654.
-
 ## Overview
 
 Neto and colleagues present a PRISMA 2020 systematic review synthesising **23 empirical studies** (from 1,151 initial records across five databases) on [[generative-ai]] applications in scenario-, case-, problem-, and simulation-based learning within healthcare education. Using the [[mixed-methods-research|Mixed Methods]] Appraisal Tool (MMAT) for quality appraisal and thematic synthesis, they identify six cross-cutting themes centred on a core claim: prompt design in educational contexts functions as a form of instructional specification, encoding the cognitive targets and quality criteria implicit in expert authoring. The review argues that treating prompt design as methodology, standardising multi-stage validation, and formalising [[human-ai-collaboration]] are the prerequisites for responsible integration of GenAI into [[medical-education]] and [[simulation]].
@@ -31,7 +27,7 @@ Neto and colleagues present a PRISMA 2020 systematic review synthesising **23 em
 - **Standardise multi-stage validation** — the proposed four-stage pipeline (automated checks, clinical expert review, pedagogical alignment, and learner pilot testing) addresses failure modes that single-point validation cannot catch.
 - **Formalise [[human-ai-collaboration]] and define educator roles across the workflow**, since hybrid co-creation consistently outperforms both full automation and minimally guided use.
 
-## Related Concepts
+## Connected Concepts
 
 - [[generative-ai]]
 - [[medical-education]]
@@ -43,7 +39,11 @@ Neto and colleagues present a PRISMA 2020 systematic review synthesising **23 em
 
 ## Connected Articles
 
-- [genai-simulate-patient-history-pbl-2026] — GenAI simulating patient history within problem-based learning
-- [pbl-biomedical-engineering-genai-2026] — problem-based learning with GenAI in biomedical engineering education
-- [hdr-brachytherapy-agentic-ai-simulation-2026] — agentic AI simulation in healthcare training
-- [ai-teammate-task-distribution-medical-training-2026] — AI teammate task distribution in medical training (human–AI collaboration)
+- [[genai-simulate-patient-history-pbl-2026]] — GenAI simulating patient history within problem-based learning
+- [[pbl-biomedical-engineering-genai-2026]] — problem-based learning with GenAI in biomedical engineering education
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — agentic AI simulation in healthcare training
+- [[ai-teammate-task-distribution-medical-training-2026]] — AI teammate task distribution in medical training (human–AI collaboration)
+
+## Citation
+
+[Generative AI in scenario-based healthcare education: A systematic review of applications, validation practices, and pedagogical integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001165) — Neto, M., Pinto, R., Reis, J., & Antão, L. (2026). *Computers and Education: Artificial Intelligence*, 11, 100654.

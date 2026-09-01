@@ -7,10 +7,6 @@ sources: ["raw/papers/determinants-chatgpt-use-higher-education-2026.md"]
 tags: ["higher-ed", "learning-analytics", "student-engagement", "technology-acceptance-model", "educational-measurement"]
 ---
 
-## Citation
-
-[An Exploratory [[reinforcement-learning|Machine Learning]] Approach to Understanding Determinants of Future ChatGPT Use in Higher Education](https://doi.org/10.1016/j.caeai.2026.100613) — Verma, C., & Kumar, D. (2026). *Computers and Education: Artificial Intelligence*, 10, 100613.
-
 ## Overview
 
 This study uses an exploratory machine learning (ML) framework to identify which educational, perceptual, and demographic factors are associated with university students' intended future use of ChatGPT for academic work. Survey data were collected from 166 students (final analytical sample of 111 after conservative outlier removal), and the analysis deliberately prioritizes educational interpretation over raw algorithmic performance. The authors position their contribution not in new algorithms but in a pedagogically grounded operationalization of established adoption theories.
@@ -37,7 +33,7 @@ Methodologically, the study applies exploratory factor analysis (EFA; KMO = 0.68
 - **Target support by student group.** Combined demographic and perceptual effects suggest institutions can use predictive insights to identify groups needing tailored training, support, or policy interventions for [[equity-in-ai-education|equitable]] AI adoption.
 - **Prioritize interpretable modeling for decision support.** The study models probabilistic calibration and explainable ML (SHAP, calibration metrics) as important for educational decision contexts where trustworthy, well-calibrated estimates are required.
 
-## Related Concepts
+## Connected Concepts
 
 - [[technology-acceptance-model]] — Perceived usefulness and ease-of-use constructs underpin the perception measures operationalized here.
 - [[self-determination-theory]] — Autonomy, competence, and engagement interpret the motivation-related constructs.
@@ -52,6 +48,10 @@ Methodologically, the study applies exploratory factor analysis (EFA; KMO = 0.68
 
 ## Connected Articles
 
-- [saihi-ahmed-genai-adoption-personas-higher-ed-2026] — Related survey-based study of generative AI adoption personas in higher education.
-- [stamatoulis-genai-use-patterns-2026] — Companion analysis of how students actually use generative AI tools in academic settings.
-- [chatgpt-inoculation-training-verification-2026] — Addresses ChatGPT verification and critical evaluation, echoing this study's verification-behavior findings.
+- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Related survey-based study of generative AI adoption personas in higher education.
+- [[stamatoulis-genai-use-patterns-2026]] — Companion analysis of how students actually use generative AI tools in academic settings.
+- [[chatgpt-inoculation-training-verification-2026]] — Addresses ChatGPT verification and critical evaluation, echoing this study's verification-behavior findings.
+
+## Citation
+
+[An Exploratory Machine Learning Approach to Understanding Determinants of Future ChatGPT Use in Higher Education](https://doi.org/10.1016/j.caeai.2026.100613) — Verma, C., & Kumar, D. (2026). *Computers and Education: Artificial Intelligence*, 10, 100613.

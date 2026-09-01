@@ -7,10 +7,6 @@ sources: ["raw/papers/context-aware-prompting-cps-skill-identification-2026.md"]
 tags: ["problem-solving", "collaborative-learning", "prompt-engineering", "learning-analytics", "educational-measurement"]
 ---
 
-## Citation
-
-[Context-aware prompting for collaborative problem solving skill identification](https://doi.org/10.1016/j.caeai.2026.100567) — Zhu, M., Feng, L., Wang, X., & Huang, W. (2026). *Computers and Education: Artificial Intelligence*, 10, 100567.
-
 ## Overview
 
 Collaborative problem solving (CPS) is a dual-faceted [[problem-solving]] competence spanning a cognitive dimension (individual reasoning about the problem) and a social dimension (coordinating and communicating with others). To assess CPS, [[research-methods-aied|researchers]] typically collect process data from computer-mediated [[collaborative-learning]] tasks and code each logged behavior into predefined CPS skills. Traditional manual coding is labor-intensive and unsuitable for large-scale or real-time analysis, prompting a body of automated coding work. However, most existing automated methods treat each utterance as an isolated instance and overlook the natural dependencies among behaviors in a CPS dialogue — yet the same message can map to different skills depending on context (e.g., "What should we do?" is coded as goal discovery or action-communication depending on the conversation phase).
@@ -34,7 +30,7 @@ To address this, the authors propose **CAP4CPS** (Context-Aware Prompting for CP
 - **Beware class imbalance and low-frequency skills.** Practitioners applying such models should expect weak performance on rare skill categories and on implicit utterances; calibration data, oversampling, or [[human-in-the-loop-ai|human review]] of rare classes remain advisable for high-stakes use.
 - **Manual prompt design with fixed-prompt tuning is effective.** Incorporating dialogue context into carefully designed prompts — rather than only fine-tuning — is a promising, parameter-efficient strategy for educational text classification that mirrors how human coders read surrounding context.
 
-## Related Concepts
+## Connected Concepts
 
 - [[collaborative-learning]]
 - [[problem-solving]]
@@ -48,6 +44,10 @@ To address this, the authors propose **CAP4CPS** (Context-Aware Prompting for CP
 
 ## Connected Articles
 
-- [adaptive-ai-scaffold-collaborative-problem-solving-2026.md](/home/doug/wiki/articles/adaptive-ai-scaffold-collaborative-problem-solving-2026.md) — Both target collaborative problem solving in educational settings; this paper focuses on automated CPS skill coding from process data, complementing that article's focus on scaffolding student CPS development.
-- [llm-agents-collaborative-problem-solving-simulation-2026.md](/home/doug/wiki/articles/llm-agents-collaborative-problem-solving-simulation-2026.md) — Both model participants and interaction in CPS tasks; CAP4CPS codes chat behaviors into skills via prompted language models, while that article simulates individual participants as LLM agents.
-- [assessment-team-problem-solving-computing-education.md](/home/doug/wiki/articles/assessment-team-problem-solving-computing-education.md) — Both concern assessment of team problem solving; CAP4CPS contributes automated, context-aware scoring of CPS skills, which could support the assessment approaches discussed there.
+- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Both target collaborative problem solving in educational settings; this paper focuses on automated CPS skill coding from process data, complementing that article's focus on scaffolding student CPS development.
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Both model participants and interaction in CPS tasks; CAP4CPS codes chat behaviors into skills via prompted language models, while that article simulates individual participants as LLM agents.
+- [[assessment-team-problem-solving-computing-education]] — Both concern assessment of team problem solving; CAP4CPS contributes automated, context-aware scoring of CPS skills, which could support the assessment approaches discussed there.
+
+## Citation
+
+[Context-aware prompting for collaborative problem solving skill identification](https://doi.org/10.1016/j.caeai.2026.100567) — Zhu, M., Feng, L., Wang, X., & Huang, W. (2026). *Computers and Education: Artificial Intelligence*, 10, 100567.

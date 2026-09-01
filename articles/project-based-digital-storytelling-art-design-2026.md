@@ -7,10 +7,6 @@ sources: ["raw/papers/project-based-digital-storytelling-art-design-2026.md"]
 tags: ["project-based-learning", "storytelling-in-education", "generative-ai", "creativity", "higher-ed"]
 ---
 
-## Citation
-
-[In the AI era: A project-based digital storytelling framework for art and design education](https://doi.org/10.1016/j.caeai.2026.100645) — Tian, Y., Tang, M., Li, G., & Dang, W. (2026). *Computers and Education: Artificial Intelligence*, 11, 100645.
-
 ## Overview
 
 As [[generative-ai]] increasingly automates technical production in the creative industries, this study asks how art and design education should evolve to preserve and cultivate the deeply human capacities—emotional resonance, cultural interpretation, and narrative meaning-making—that AI lacks. The authors propose and evaluate a Project-Based Digital Storytelling (PBL-DS) [[pedagogy]] that positions AI as a supportive resource inside a structured creative process rather than an autonomous source of creativity.
@@ -34,7 +30,7 @@ The model is grounded in an integrative theoretical framework: [[constructivist]
 - **Maintain favorable mentor-to-student ratios** (roughly 1:9 here) to provide consistent, personalized guidance, especially in developing students' critical and strategic use of AI as a complement to rather than substitute for [[human-in-the-loop-ai|human judgment]].
 - **Use public presentation and critique as authentic assessment** and as a driver of reflection on authorship, originality, and creative responsibility—core to [[ai-literacy|AI literacy]] in creative fields.
 
-## Related Concepts
+## Connected Concepts
 
 - [[project-based-learning]]
 - [[storytelling-in-education]]
@@ -50,6 +46,10 @@ The model is grounded in an integrative theoretical framework: [[constructivist]
 
 ## Connected Articles
 
-- [motibo-digital-storytelling-robots-motivation-2026] — shares digital storytelling as a motivating pedagogical medium (with social robots), complementing this study's PBL-DS framing.
-- [genai-architectural-design-studios] — examines GenAI integration in a parallel design-discipline studio context, reinforcing how AI reshapes creative education.
-- [ai-agents-constructive-conflict-design-education-2026] — another design-education study of AI in collaborative creative learning, contrasting with this human-centred PBL-DS model.
+- [[motibo-digital-storytelling-robots-motivation-2026]] — shares digital storytelling as a motivating pedagogical medium (with social robots), complementing this study's PBL-DS framing.
+- [[genai-architectural-design-studios]] — examines GenAI integration in a parallel design-discipline studio context, reinforcing how AI reshapes creative education.
+- [[ai-agents-constructive-conflict-design-education-2026]] — another design-education study of AI in collaborative creative learning, contrasting with this human-centred PBL-DS model.
+
+## Citation
+
+[In the AI era: A project-based digital storytelling framework for art and design education](https://doi.org/10.1016/j.caeai.2026.100645) — Tian, Y., Tang, M., Li, G., & Dang, W. (2026). *Computers and Education: Artificial Intelligence*, 11, 100645.

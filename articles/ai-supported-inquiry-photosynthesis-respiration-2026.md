@@ -41,10 +41,6 @@ Qualitatively, participants reported that the activities helped them understand 
 
 The authors argue that AI-supported inquiry can strengthen disciplinary conceptual learning even when broader competencies do not change measurably, and that the null effects likely reflect [[generative-ai|AI]] and [[computational-thinking|computational thinking]] being embedded rather than taught as explicit goals, within an eight-week window too short for standardized, self-reported gains. For [[teacher-education|science teacher education]], they recommend gradually embedding AI literacy and computational thinking into authentic disciplinary learning experiences rather than treating them as isolated technical skills, and integrating them across science methods, laboratory, [[stem-education|STEM]], and instructional technology courses. They frame this as fostering competencies associated with sustainable science teacher education—responsible AI use tied to evidence-based [[inquiry-based-learning|inquiry]], collaboration, and critical evaluation—while acknowledging that [[sustainability]] skills were not directly measured. Methodologically, the [[constructivist]] framing and the use of reflective self-evaluation as [[formative-assessment|formative assessment]] point to design-based and inquiry [[pedagogy|pedagogies]] as vehicles for [[misconceptions|conceptual change]], though the quasi-experimental intact-class design limits causal claims about AI's independent contribution.
 
-## Citation
-
-[AI-Supported Inquiry-Based Learning in Photosynthesis and Respiration: Implications for Sustainable Science Teacher Education](https://doi.org/10.3390/su181808643). *Sustainability* 18(18), 8643.
-
 ## Connected Concepts
 
 - [[inquiry-based-learning]] — core pedagogy under study
@@ -67,3 +63,7 @@ The authors argue that AI-supported inquiry can strengthen disciplinary conceptu
 - [[embodied-inquiry-ai-facilitator-physics-2026]] — AI-facilitated inquiry in a science domain
 - [[computational-thinking-aica-2026]] — computational thinking in educational contexts
 - [[zha-ai-literacy-biology-case-study]] — AI literacy in a biology context
+
+## Citation
+
+[AI-Supported Inquiry-Based Learning in Photosynthesis and Respiration: Implications for Sustainable Science Teacher Education](https://doi.org/10.3390/su181808643). *Sustainability* 18(18), 8643.

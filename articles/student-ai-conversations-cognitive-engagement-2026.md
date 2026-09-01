@@ -7,10 +7,6 @@ sources: ["raw/papers/student-ai-conversations-cognitive-engagement-2026.md"]
 tags: ["student-ai-interaction", "student-engagement", "generative-ai", "critical-thinking", "higher-ed", "prompt-engineering"]
 ---
 
-## Citation
-
-[Chat as Learning: Student-AI Conversations as Discipline-Associated Cognitive Engagement Patterns](https://www.sciencedirect.com/science/article/pii/S2666920X26001062) — Chang, C.-K., & Li, K.-H. (2026). *Computers and Education: Artificial Intelligence*, 11, 100644.
-
 ## Overview
 
 This paper proposes a "Chat as Learning" measurement paradigm that treats student prompts to AI [[teacher-role|teaching]] assistants as observable externalisations of in-progress learning cognition, complementing outcome-based assessment with a process-level signal. Analysing over 60,000 student messages from 116 courses across four universities (Semesters 3 and 4 of the Uedu platform), the authors combine automated Bloom's Taxonomy classification with a within-person, cross-discipline design in which the same students serve as their own controls across courses in different disciplines. The findings show that [[student-ai-interaction]] reflects discipline-associated cognitive engagement patterns rather than fixed individual traits, with implications for how [[generative-ai]] teaching assistants should be designed and evaluated in [[higher-ed]].
@@ -31,7 +27,7 @@ This paper proposes a "Chat as Learning" measurement paradigm that treats studen
 - Because course-level factors (instructor [[pedagogy]], AI system prompt configuration, assessment structure) dominate student-level differences, the most informative references for an individual course and student are their discipline norm and course rather than the platform mean.
 - [[critical-thinking]] claims about student AI use benefit from process-level prompt traces: the discipline-associated, within-person patterning of prompts is inconsistent with a uniformly retrieval-only account of how students use AI.
 
-## Related Concepts
+## Connected Concepts
 
 - [[student-ai-interaction]]
 - [[student-engagement]]
@@ -42,7 +38,11 @@ This paper proposes a "Chat as Learning" measurement paradigm that treats studen
 
 ## Connected Articles
 
-- [chatbot-engagement-genai-competency-emotion-2026]
-- [lim-bannert-student-regulation-genai-chatbot-2026]
-- [isaza-chatgpt-engineering-prompting-2026]
-- [engagement-intensity-learner-modeling]
+- [[chatbot-engagement-genai-competency-emotion-2026]]
+- [[lim-bannert-student-regulation-genai-chatbot-2026]]
+- [[isaza-chatgpt-engineering-prompting-2026]]
+- [[engagement-intensity-learner-modeling]]
+
+## Citation
+
+[Chat as Learning: Student-AI Conversations as Discipline-Associated Cognitive Engagement Patterns](https://www.sciencedirect.com/science/article/pii/S2666920X26001062) — Chang, C.-K., & Li, K.-H. (2026). *Computers and Education: Artificial Intelligence*, 11, 100644.

@@ -60,4 +60,4 @@ ty/benchmarks
 
 ## Citation
 
-Lelièvre, M., Waldock, A., Liu, M., Valdés Aspillaga, N., Mackintosh, A., Ogando Portelo, M. J., Lee, J., Atherton, P., Ince, R. A. A., & Garrod, O. G. B. (2025). [*Benchmarking the pedagogical knowledge of large language models*](https://arxiv.org/abs/2506.18710v1). Leaderboard: [The Pedagogy Benchmark](https://www.fab-ai.org/initiatives/ai-for-education/edtech-quality/benchmarks?benchmark=CDPK).
+Lelièvre, M., Waldock, A., Liu, M., Valdés Aspillaga, N., Mackintosh, A., Ogando Portelo, M. J., Lee, J., Atherton, P., Ince, R. A. A., & Garrod, O. G. B. (2025). [*Benchmarking the pedagogical knowledge of large language models*](https://arxiv.org/abs/2506.18710v1). Leaderboard: The Pedagogy Benchmark.

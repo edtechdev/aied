@@ -7,10 +7,6 @@ sources: ["raw/papers/instructional-design-proficiency-masters-math-2026.md"]
 tags: ["learning-design", "math-education", "teacher-education", "educational-development", "intelligent-tutoring"]
 ---
 
-## Citation
-
-[Improving instructional design proficiency of master's students in mathematics education through intelligent educational [[ai-technologies|technologies]]](https://www.sciencedirect.com/science/article/pii/S2666920X26000597) — Zhu, F., Liang, Q., Mao, Z., & Wang, Y. (2026). *Computers and Education: Artificial Intelligence*, 10, 100597.
-
 ## Overview
 
 Zhu and colleagues address a gap in [[learning-design]] for [[discipline-specific-aied|discipline-specific]] smart education by proposing and testing a smart classroom model for Master of Education (M.Ed.) programs, using mathematics instructional design as a case study. Rather than an algorithmic approach, they take a pedagogically oriented route grounded in a three-dimensional framework (learning effectiveness, ICT, and classroom organization) and build the **D–T–E Model** (Disciplinary Demand–Technological Empowerment–Evaluation Loop). A quasi-experimental study with 68 mathematics education M.Ed. students showed the model significantly improves the precision and professionalism of their instructional objective design, offering a transferable template for [[teacher-education]] and [[educational-development]].
@@ -31,7 +27,7 @@ Zhu and colleagues address a gap in [[learning-design]] for [[discipline-specifi
 - **For [[learning-design|instructional designers]]:** pre-class analytics that categorize learner difficulties can drive stratified grouping and personalized learning paths, making instruction more adaptive and data-informed.
 - **For [[ai-education|AI-supported instruction]]:** the triangulated feedback of multiple AI models offers complementary perspectives that promote critical reflection, but findings should generalize cautiously given the small (N = 68) and regionally concentrated sample.
 
-## Related Concepts
+## Connected Concepts
 
 - [[learning-design]]
 - [[math-education]]
@@ -41,7 +37,11 @@ Zhu and colleagues address a gap in [[learning-design]] for [[discipline-specifi
 
 ## Connected Articles
 
-- [ai-tpack-preservice-math-teachers] — AI literacy domains and AI-TPACK readiness among preservice mathematics teachers
-- [preservice-teachers-responsible-genai-2026] — curriculum implications for preparing pre-service teachers to use generative AI responsibly
-- [science-integrated-ai-literacy-curriculum-dbr-2026] — design-based research on building an AI literacy curriculum
-- [llm-essay-assessment-framework-reliability-2026] — a framework for evaluating LLMs in essay assessment (reliability, alignment, causal reasoning)
+- [[ai-tpack-preservice-math-teachers]] — AI literacy domains and AI-TPACK readiness among preservice mathematics teachers
+- [[preservice-teachers-responsible-genai-2026]] — curriculum implications for preparing pre-service teachers to use generative AI responsibly
+- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — design-based research on building an AI literacy curriculum
+- [[llm-essay-assessment-framework-reliability-2026]] — a framework for evaluating LLMs in essay assessment (reliability, alignment, causal reasoning)
+
+## Citation
+
+[Improving instructional design proficiency of master's students in mathematics education through intelligent educational technologies](https://www.sciencedirect.com/science/article/pii/S2666920X26000597) — Zhu, F., Liang, Q., Mao, Z., & Wang, Y. (2026). *Computers and Education: Artificial Intelligence*, 10, 100597.

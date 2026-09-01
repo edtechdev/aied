@@ -7,10 +7,6 @@ sources: ["raw/papers/frontier-ai-redirect-skeptical-rural-staff-2026.md"]
 tags: ["llm", "conversational-ai", "trust", "k-12", "human-in-the-loop-ai"]
 ---
 
-## Citation
-
-[Not for People Like Me: How Frontier AI Models Redirect Skeptical Rural School Staff](https://doi.org/10.1016/j.caeai.2026.100659) — Rossmiller, Z. (2026). *Computers and Education: Artificial Intelligence*, 11, 100659.
-
 ## Overview
 
 This single-author algorithmic audit asks what happens when the very AI systems schools are encouraging staff to consult are themselves asked to advise skeptical users about whether to adopt AI. Ten frontier [[llm|LLMs]] from ten laboratories (OpenAI, Google, xAI, Anthropic, DeepSeek, Microsoft, Meta, Mistral AI, Alibaba, Amazon) each received a fixed persona prompt 500 times (5,000 responses at temperature 0.7) in which a rural Montana [[k-12]] administrative aide voices two concerns: that AI may threaten her job, and that the companies building it "do not have people like me in mind." All 5,000 responses were scored blind by a three-model, cross-family AI panel (Claude Opus 4.7, GPT-5, Gemma 4 26B) on a four-dimension rubric (concern acknowledgment, [[student-engagement|engagement]] redirection, closing stance, emotion relabeling) validated against researcher hand-scoring and five independent human raters.
@@ -36,7 +32,7 @@ The headline finding is neither sycophantic deference nor stable disagreement. M
 - **Preserve structural critique as an analytical position, not an emotion to manage.** Treating "I don't trust these companies have people like me in mind" as an emotional state to be dispelled ("don't panic") rather than a legitimate concern to engage stands in tension with the [[ai-literacy|AI-literacy]] and teacher well-being aims that [[ethics|K-12 AI-ethics]] guidance foregrounds.
 - **For LLM-as-judge audits:** the paper's three methodological lessons transfer directly — cross-family scorer panels are not optional (single-scorer designs miss in-family bias); AI judges do not categorically reject malformed input (19 corrupted DeepSeek responses were scored without flagging, dropping composites 0.74 points), so pipelines need explicit input-corruption detection; and ordinal rubrics for LLM-as-judge should encode distinctions grammatically, not just semantically, because AI judges reliably miss intuitive semantic distinctions.
 
-## Related Concepts
+## Connected Concepts
 
 - [[ai-sycophancy]]
 - [[conversational-ai]]
@@ -62,3 +58,7 @@ The headline finding is neither sycophantic deference nor stable disagreement. M
 - [[contextual-sycophancy-ai-literacy]] — Sycophancy in AI output and its implications for AI literacy
 - [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Teacher trust and distrust of AI as a dimension of ethical practice
 - [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and employment/occupational concern among learners
+
+## Citation
+
+[Not for People Like Me: How Frontier AI Models Redirect Skeptical Rural School Staff](https://doi.org/10.1016/j.caeai.2026.100659) — Rossmiller, Z. (2026). *Computers and Education: Artificial Intelligence*, 11, 100659.

@@ -7,10 +7,6 @@ sources: ["raw/papers/ai-modelling-problem-generation-platform-2026.md"]
 tags: ["math-education", "generative-ai", "learning-design", "curriculum-design", "intelligent-tutoring"]
 ---
 
-## Citation
-
-[Creating an AI-powered platform for generating modelling problems: A case study on direct variation in [[k-12|secondary school]] mathematics](https://doi.org/10.1016/j.caeai.2026.100640) — Lo, C. K., Huang, X., Cheung, H. W., Yee, T. L., Bai, S., Chen, G., & Tlili, A. (2026). *Computers and Education: Artificial Intelligence*, 11, 100640.
-
 ## Overview
 
 This study reports the design, development, and evaluation of an AI-powered platform that generates mathematical modelling problems and accompanying [[pedagogy|pedagogical]] recommendations for secondary school mathematics. The work addresses two practical gaps: teachers' shortage of suitable modelling resources and the tendency of existing [[generative-ai]] tools to produce conventional word problems or routine exercises rather than application-oriented tasks that build modelling competencies. The platform is grounded in the ADDIE (Analysis, Design, Development, Implementation, Evaluation) instructional-design model and combines seven established design principles for mathematical modelling instruction with [[rag|retrieval-augmented generation]] over expert-crafted exemplar tasks. The topic of direct variation served as an accessible case for an in-depth mixed-methods case study ([[mixed-methods-research]]).
@@ -34,7 +30,7 @@ The platform gives teachers a unified workspace: a central panel to specify gene
 - **Raise cognitive demand deliberately.** Only about half of students reported intense cognitive immersion (CE_4, 51.0%), suggesting that scaffolding designed for [[accessibility]] can undershoot cognitive engagement. Presenting alternative AI-generated datasets (with noise or outliers) and tasking students to justify data-handling choices could deepen engagement.
 - **Add platform features for iteration and trust.** Recommended enhancements include teacher-editing interfaces, validation checklists (e.g., data-realism checks comparing generated values with plausible ranges from market prices and public statistics), in-platform reporting to flag [[hallucination-risk|hallucinations]], and options to adjust task complexity.
 
-## Related Concepts
+## Connected Concepts
 
 - [[math-education]]
 - [[generative-ai]]
@@ -51,6 +47,10 @@ The platform gives teachers a unified workspace: a central panel to specify gene
 
 ## Connected Articles
 
-- [didactical-teacher-assistant-dimensional-modeling] — Both papers build AI teacher assistants that ground instructional output in domain-specific design frameworks to support lesson preparation.
-- [dai-chatbots-problem-posing-primary-2026] — Both examine generative-AI tools that pose mathematics problems, here extended from primary problem-posing to secondary mathematical modelling.
-- [ai-tpack-mathematics-teacher-education-2026] — Both situate AI integration in secondary mathematics teaching and consider the teacher competencies and beliefs required to use AI tools effectively.
+- [[didactical-teacher-assistant-dimensional-modeling]] — Both papers build AI teacher assistants that ground instructional output in domain-specific design frameworks to support lesson preparation.
+- [[dai-chatbots-problem-posing-primary-2026]] — Both examine generative-AI tools that pose mathematics problems, here extended from primary problem-posing to secondary mathematical modelling.
+- [[ai-tpack-mathematics-teacher-education-2026]] — Both situate AI integration in secondary mathematics teaching and consider the teacher competencies and beliefs required to use AI tools effectively.
+
+## Citation
+
+[Creating an AI-powered platform for generating modelling problems: A case study on direct variation in secondary school mathematics](https://doi.org/10.1016/j.caeai.2026.100640) — Lo, C. K., Huang, X., Cheung, H. W., Yee, T. L., Bai, S., Chen, G., & Tlili, A. (2026). *Computers and Education: Artificial Intelligence*, 11, 100640.

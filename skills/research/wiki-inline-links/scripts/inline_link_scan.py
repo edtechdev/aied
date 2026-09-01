@@ -240,8 +240,18 @@ def get_narrative(txt):
     if txt.startswith('---'):
         parts = txt.split('\n---\n', 1)
         txt = parts[1] if len(parts) > 1 else txt
-    m = re.search(r'\n## Connected', txt)
-    return txt[:m.start()] if m else txt
+    # Stop at the Citation section FIRST — citation titles are APA text whose
+    # title is a single hyperlink to the source; they must NEVER be inline-linked
+    # (root cause of corrupted citation titles, fixed 2026-09-01). Handle the case
+    # where ## Citation precedes ## Connected (citation at top) and where it follows
+    # (canonical bottom placement).
+    cit = re.search(r'\n## Citation', txt)
+    conn = re.search(r'\n## Connected', txt)
+    cut = len(txt)
+    for m in (cit, conn):
+        if m and m.start() < cut:
+            cut = m.start()
+    return txt[:cut]
 
 def is_in_link(nar, pos):
     # True if position pos is inside an existing [[...]] link
