@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, student-engagement]
 audience: [learners]
@@ -68,6 +68,10 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 ## Discipline and Cognitive Engagement with AI
 
 - **Discipline-associated cognitive engagement in student-AI chat.** Chang and Li (2026) show that student prompts to AI encode ~62% higher-order cognitive demand on average, but Bloom-level engagement profiles differ sharply by discipline ([[stem-education|STEM]] Apply-prevalent 20.8%, language Understand-prevalent 31.7%, social science Create-prevalent 33.8%). Using a within-person design, they found the same students produced significantly more higher-order prompts in social science than STEM courses (p < .001), with course-level variation exceeding student-level variation — evidence that cognitive engagement with AI is shaped by disciplinary context, not just individual style.
+
+### Predicting Academic AI Use
+
+- An exploratory [[reinforcement-learning|machine learning]] framework analysed survey data from 166 university students to identify learning-related constructs associated with intended academic ChatGPT use, using SHAP analysis to maintain interpretability. Findings inform how engagement, learning support, and other constructs shape students' incorporation of AI tools into academic work.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -138,3 +142,4 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[chatbot-engagement-genai-competency-emotion-2026]] — GenAI competency and emotion as drivers of chatbot engagement (Zhao et al. 2026)
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
+- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education

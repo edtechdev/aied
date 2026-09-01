@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied]
 research_method: [research methods]
@@ -58,6 +58,10 @@ Adoption models are applied across the knowledge base to model student and [[tea
 
 While adoption models are effective for predicting uptake, they are less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in [[higher-ed|higher education]] increasingly note that TAM alone is insufficient, [[prompt-engineering|prompting]] integration with UTAUT, TPB, and Self-Determination Theory, and the addition of post-adoption constructs such as critical use, reliance, and evaluative judgment. The result is a measured, multidimensional picture of adoption: context matters ([[global-south|Global South]] vs. resourced institutions — see [[nguyen-genai-global-south-review-2026|Nguyen & Perkins]]), disciplinary background shapes acceptance, and person-centered methods reveal hidden heterogeneity that linear models miss.
 
+### ML Determinants of ChatGPT Adoption
+
+- Building on technology-acceptance research, an exploratory ML approach examined how students' perceptions and demographics relate to intended academic ChatGPT use. SHAP analysis identified key learning-related constructs, focusing on educational meaning rather than maximizing algorithmic performance.
+
 ## Connected Concepts
 
 - [[business-education]]
@@ -97,3 +101,4 @@ While adoption models are effective for predicting uptake, they are less well su
 
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
+- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education

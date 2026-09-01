@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [learning-design, curriculum-design, educational-development, scaffolding, generative-ai, ai-literacy, higher-ed, teacher-role]
 audience: [instructors, faculty development]
@@ -66,6 +66,10 @@ For instructional designers, course developers, and engineers building AI-assist
 ## Smart-Classroom D-T-E Model
 
 - **Smart-classroom D-T-E model for [[math-education|mathematics]] M.Ed. training.** Zhu, Liang, Mao, and Wang (2026) propose a three-dimensional framework for smart education — learning effectiveness, information and communication technology (ICT), and classroom organization — and instantiate it in a mathematics M.Ed. course that integrates [[automated-assessment|automated scoring]], personalized recommendations, and multi-[[ai-feedback-quality|AI feedback]] across pre-, in-, and post-class stages. A quasi-experiment showed significant gains in students' ability to formulate precise, professionally grounded instructional objectives, yielding the transferable **D-T-E Model** (Disciplinary Demand–Technological Empowerment–Evaluation Loop). This offers [[discipline-specific-aied|discipline-specific]] guidance for [[educational-development|teacher educators]] moving smart-education concepts into practical instructional design practice.
+
+### GenAI Content Generation and Learning Design
+
+- [[generative-ai|Generative AI]] platforms can embody learning-design principles in the content they produce. An AI-powered platform for generating mathematical modelling problems combined established design principles with [[prompt-engineering|retrieval-augmented generation]], developed through the ADDIE approach to produce pedagogically grounded tasks and recommendations that conventional content generators lack.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -138,3 +142,4 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
+- [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)

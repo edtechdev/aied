@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T15:00:00-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 audience: [learners]
@@ -24,17 +24,17 @@ confidence: medium
 
 Tailoring educational experiences to individual learner profiles, including [[prior-knowledge|prior knowledge]], learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge.
 
-- **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** distinguish two forms of personalization with deep historical roots — uniform outcomes reached via varied paths (Skinner's teaching machines to Khan Academy-style mastery tutoring) vs. diverse, learner-chosen outcomes — mapping onto the field's control-vs-agency tension.
+- **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** distinguish two forms of personalization with deep historical roots — uniform outcomes reached via varied paths (Skinner's [[teacher-role|teaching]] machines to Khan Academy-style mastery tutoring) vs. diverse, learner-chosen outcomes — mapping onto the field's control-vs-agency tension.
 
 ## Architectures for AI-Driven Personalization
 
 ### Longitudinal Memory (PersonaVLM → Education)
 
-Nie et al. (2026) developed a [[multimodal]] long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's [[misconceptions|misconceptions]], preferred explanations, and progress history across sessions—addressing a critical deficit in stateless [[conversational-ai|chatbot]] tutors.
+Nie et al. (2026) developed a [[multimodal]] long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's [[misconceptions]], preferred explanations, and progress history across sessions—addressing a critical deficit in stateless [[conversational-ai|chatbot]] tutors.
 
 ### Agent-Native Personalization Substrate (DeepTutor)
 
-Ma et al. (2026) design every [[deeptutor|DeepTutor]] feature to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives problem solving, [[automated-question-generation|question generation]], and collaborative writing.
+Ma et al. (2026) design every [[deeptutor|DeepTutor]] feature to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives [[problem-solving|problem solving]], [[automated-question-generation|question generation]], and collaborative writing.
 
 ### Multi-Agent Social Personalization (MAIC)
 
@@ -54,7 +54,7 @@ Personalized learning is often conflated with [[adaptive-learning|adaptive learn
 
 ## Personalization and assessment
 
-Personalization and [[assessment]] are tightly coupled in AI-driven learning. Adaptive personalization depends on ongoing [[formative-assessment|formative]] measurement of what a learner knows (via [[knowledge-tracing]], [[student-modeling]], and [[cognitive-diagnosis]]) to decide what to adapt next — so the reliability of the [[assessment]] signal directly constrains the quality of personalization. Conversely, when [[summative-assessment|summative assessment]] is personalized per-learner, [[bias-mitigation|fairness]] and comparability become harder to establish. The knowledge base's research warns against over-adapting to shallow or noisy signals: [[adaptive-learning|adaptive]] systems that mis-measure a learner can personalize in ways that reduce learning rather than support it, and AI-native students whose self-assessment is unreliable (an "absent cognitive baseline") are harder to model accurately.
+Personalization and [[assessment]] are tightly coupled in AI-driven learning. Adaptive personalization depends on ongoing [[formative-assessment|formative]] measurement of what a learner knows (via [[knowledge-tracing]], [[student-modeling]], and [[cognitive-diagnosis]]) to decide what to adapt next — so the reliability of the [[assessment]] signal directly constrains the quality of personalization. Conversely, when [[summative-assessment|summative assessment]] is personalized per-learner, [[bias-mitigation|fairness]] and comparability become harder to establish. The knowledge base's [[research-methods-aied|research]] warns against over-adapting to shallow or noisy signals: [[adaptive-learning|adaptive]] systems that mis-measure a learner can personalize in ways that reduce learning rather than support it, and AI-native students whose self-assessment is unreliable (an "absent cognitive baseline") are harder to model accurately.
 
 ## Personalization in the AI era
 
@@ -63,6 +63,10 @@ Personalization and [[assessment]] are tightly coupled in AI-driven learning. Ad
 ## Terminological ambiguity
 
 A recurring problem is that "personalized learning" is a broad, loosely defined umbrella term. Systematic reviews ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) find that [[adaptive-learning|adaptive learning]], individualized instruction, customized learning, and personalized learning are used interchangeably, with no universally accepted definition — a source of conceptual ambiguity that complicates research synthesis and evidence-based practice. The field increasingly calls for a unified framework and definition so that "personalized" denotes a precise, evidence-backed claim rather than a vague label (a point reinforced by the knowledge base's [[limitations-in-aied-research|critique of weak construct use]]).
+
+### AutoML for Learner Portraits
+
+- Personalization is a central objective for improving educational quality, yet processing multi-source heterogeneous learning-behaviour data remains a challenge. A personalized neural cognitive architecture search framework, driven by automated [[reinforcement-learning|machine learning]], builds learner portraits and generates diagnostic models for heterogeneous learner profiles, integrating multi-modal data to move beyond static examination outcomes.
 
 ## Connected Concepts
 
@@ -115,4 +119,4 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[nguyen-genai-global-south-review-2026]] — Generative AI in education across the Global South
 - [[vargas-situated-learning-ai-review-2024]] — Situated learning and AI review
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Evidence on the personalization-at-scale promise
-
+- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
