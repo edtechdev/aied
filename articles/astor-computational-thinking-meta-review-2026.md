@@ -25,7 +25,7 @@ A distinctive contribution is the paper's treatment of the CT definition problem
 - **Geographic concentration:** CT review research is dominated by authors from China, the United States, Turkey, Brazil, and Hong Kong.
 - **Conceptual fragmentation is the field's greatest challenge:** definitions differ in character, but remain fundamentally aligned, permitting a unified definition of CT as abstract modeling with computational steps and algorithms to solve problems.
 - **Emerging redundancy, not yet critical:** a recent surge in CT reviews with limited cross-referencing suggests the field is beginning to repeat itself.
-- Offers a **common reference frame** for a fragmented literature — valuable for researchers and for curriculum/[[cs-education]] integration.
+- Offers a **common reference frame** for a fragmented literature — valuable for [[research-methods-aied|researchers]] and for curriculum/[[cs-education]] integration.
 
 ## Connected Concepts
 

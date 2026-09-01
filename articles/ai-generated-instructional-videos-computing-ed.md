@@ -12,7 +12,7 @@ sources: ['raw/papers/2607.28203.md']
 confidence: high
 ---
 
-Studies student perceptions of AI-generated instructional videos in computing education. Finds students value personalization and rapid production but express concerns about accuracy and the loss of instructor presence. Identifies clear preferences for hybrid approaches where AI generates draft content that instructors review and refine.
+Studies student perceptions of AI-generated instructional videos in computing education. Finds students value [[personalized-learning|personalization]] and rapid production but express concerns about accuracy and the loss of instructor presence. Identifies clear preferences for hybrid approaches where AI generates draft content that instructors review and refine.
 
 ## Key Findings
 
@@ -24,7 +24,7 @@ Studies student perceptions of AI-generated instructional videos in computing ed
 
 ## Study Design & Method
 
-The study addresses a gap in computing education research, which has focused largely on text-based AI tools for developing learning resources even as advances in AI video models make high-quality personalized videos feasible. Using a descriptive post-test survey design, the researchers recruited 170 computing students across two U.S. institutions. Participants watched three three-minute AI-generated videos on Markdown and completed a survey covering both perceptions of those videos and broader views on AI-generated videos in education. Outcomes were analyzed descriptively, with attention to whether students could detect AI authorship and how stated preferences varied by use case.
+The study addresses a gap in computing education research, which has focused largely on text-based AI tools for developing learning resources even as advances in AI video models make high-quality personalized videos feasible. Using a descriptive post-test survey design, the [[research-methods-aied|researchers]] recruited 170 computing students across two U.S. institutions. Participants watched three three-minute AI-generated videos on Markdown and completed a survey covering both perceptions of those videos and broader views on AI-generated videos in education. Outcomes were analyzed descriptively, with attention to whether students could detect AI authorship and how stated preferences varied by use case.
 
 ## Implications for AI in Education
 

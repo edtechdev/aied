@@ -18,7 +18,7 @@ confidence: high
 
 ## Summary
 
-In an 8-day field experiment comparing ChatGPT vs. Google Search for informal learning, participants using ChatGPT experienced diminished agency, offloaded information selection to AI, and suffered greater meta-cognitive load — resulting in worse [[learning-gains|learning outcomes]], particularly for higher-order critical thinking. The study identifies two key distortions in ChatGPT-mediated information access: output bias toward solution-oriented artifacts over principled knowledge, and a conversational interaction paradigm that reduces exploration of the broader knowledge space.
+In an 8-day field experiment comparing ChatGPT vs. Google Search for informal learning, participants using ChatGPT experienced diminished agency, offloaded information selection to AI, and suffered greater [[metacognition|meta-cognitive]] load — resulting in worse [[learning-gains|learning outcomes]], particularly for higher-order [[critical-thinking|critical thinking]]. The study identifies two key distortions in ChatGPT-mediated information access: output bias toward solution-oriented artifacts over principled knowledge, and a conversational interaction paradigm that reduces exploration of the broader knowledge space.
 
 ## Key Findings
 
@@ -34,8 +34,8 @@ In an 8-day field experiment comparing ChatGPT vs. Google Search for informal le
 ## Implications for AIED
 
 ### For AI Tutor Design
-- The finding that ChatGPT's output bias favours "solution-oriented artifacts over principled knowledge" directly parallels the challenge identified in [[tutoring-effectiveness-index|tutoring effectiveness]] — that AI tutors must be designed to elicit reasoning, not provide answers.
-- The PeteChat/Tutor Not Solver design principles directly address this tension through homework guardrails and SRL support.
+- The finding that ChatGPT's output bias favours "solution-oriented artifacts over principled knowledge" directly parallels the challenge identified in [[tutoring-effectiveness-index|tutoring effectiveness]] — that [[intelligent-tutoring|AI tutors]] must be designed to elicit reasoning, not provide answers.
+- The PeteChat/Tutor Not Solver design principles directly address this tension through homework [[guardrails]] and SRL support.
 
 ### For Metacognition & Self-Regulated Learning
 - The study provides empirical evidence for the theoretical concern raised in [[llm-fallacy-misattribution]]: that learners misattribute AI-generated outputs to their own understanding, short-circuiting metacognitive monitoring.
@@ -44,11 +44,11 @@ In an 8-day field experiment comparing ChatGPT vs. Google Search for informal le
 ### For Technology-Enhanced Learning
 - Results run counter to the assumption that easier information access automatically improves learning — consistent with the [[cognitive-offloading|Over-Reliance]] literature showing that AI tools can reduce actual learning while maintaining (or inflating) perceived learning.
 - The finding that ChatGPT reduces exploration aligns with [[efficiency-gain-illusion-ai-overreliance]]: learners overestimate the benefits of AI assistance on simple tasks.
-- Supports the case for [[scaffolding]] that preserves learner agency rather than replacing cognitive work.
+- Supports the case for [[scaffolding]] that preserves [[agency|learner agency]] rather than replacing cognitive work.
 
 ### For AI Literacy
-- The study highlights the need for [[ai-literacy]] curricula that teach learners when and how to use AI tools productively, and when to rely on traditional search and self-directed exploration.
-- Educators should be aware that conversational AI interfaces may inadvertently narrow learning behaviours even when the content seems helpful.
+- The study highlights the need for [[ai-literacy]] curricula that teach learners when and how to use AI tools productively, and when to rely on traditional search and [[self-directed-learning|self-directed]] exploration.
+- Educators should be aware that [[conversational-ai|conversational AI]] interfaces may inadvertently narrow learning behaviours even when the content seems helpful.
 
 ## Connected Concepts
 

@@ -12,13 +12,13 @@ sources: ['raw/papers/aaai2026-prompting-literacy-k12.md']
 confidence: high
 ---
 
-> **Synthesis:** An LLM-based interactive module teaches K-12 students prompting literacy through scenario-based deliberate practice with an AI auto-grader providing immediate, detailed feedback. Deployed across 11 secondary classrooms in two iterations, the module improved students' prompting skills (particularly embedding background context) and confidence in using AI for learning. The study also validates an AI-based auto-grader achieving 0.92 average accuracy and identifies True/False + open-ended questions as more effective than MCQs for assessing prompting literacy.
+> **Synthesis:** An [[llm]]-based interactive module teaches [[k-12]] students prompting literacy through scenario-based deliberate practice with an AI auto-grader providing immediate, detailed feedback. Deployed across 11 secondary classrooms in two iterations, the module improved students' prompting skills (particularly embedding background context) and confidence in using AI for learning. The study also validates an AI-based auto-grader achieving 0.92 average accuracy and identifies True/False + open-ended questions as more effective than MCQs for assessing prompting literacy.
 
 ## Study Design
 
-Xiao et al. designed and deployed a web-based interactive instructional system to teach **prompting literacy** to secondary-education students. The module was grounded in two learning sciences principles: **learning-by-doing** and **elaborated immediate feedback**. Students practiced prompt writing in three hypothetical learning scenarios (biology, geography, math), each paired with a unique instructional activity (extending knowledge, quiz preparation, homework struggle).
+Xiao et al. designed and deployed a web-based interactive instructional system to teach **prompting literacy** to secondary-education students. The module was grounded in two learning sciences principles: **learning-by-doing** and **elaborated immediate feedback**. Students practiced prompt writing in three hypothetical learning scenarios ([[biology-education|biology]], geography, math), each paired with a unique instructional activity (extending knowledge, quiz preparation, homework struggle).
 
-After a student writes a prompt, an **LLM-based auto-grader** (GPT-4o) evaluates it across preset dimensions and delivers immediate, detailed feedback. The pipeline mirrors authentic AI chatbot interaction: write prompt → receive AI response → get graded feedback.
+After a student writes a prompt, an **LLM-based auto-grader** (GPT-4o) evaluates it across preset dimensions and delivers immediate, detailed feedback. The pipeline mirrors authentic AI [[conversational-ai|chatbot]] interaction: write prompt → receive AI response → get graded feedback.
 
 Two iterations were conducted across 11 secondary classrooms:
 - **Study 1** (June 2024): 111 students, 6 classrooms in East Asia
@@ -44,12 +44,12 @@ The lowest accuracy (Purpose, 0.85) stemmed from the auto-grader over-generating
 ### Prompting Skill Improvement
 - Students improved significantly at **embedding background/context information** in prompts (McNemar test, p = .039 from Q1 to Q3)
 - Students performed well on Relevance, Conciseness, and Purpose even in the first question (ceiling effects)
-- **Prior AI usage frequency was positively correlated with initial prompt quality** (r = 0.27, p = .017), suggesting an equity concern
+- **Prior AI usage frequency was positively correlated with initial prompt quality** (r = 0.27, p = .017), suggesting an [[equity-in-ai-education|equity]] concern
 
 ### Confidence and Perception
 - Self-reported confidence in using AI for learning **increased by 10.4%** (p < .001)
 - **87% of students** reported learning AI-related knowledge (how to use AI for learning, how to ask effective questions, AI's capabilities)
-- Students valued: direct AI interaction, scenario-based design, immediate comprehensive feedback, and visual elements
+- Students valued: direct [[student-ai-interaction|AI interaction]], scenario-based design, immediate comprehensive feedback, and visual elements
 
 ### Assessment Design Lessons
 - **MCQs suffered from ceiling effects** — students could identify good prompts conceptually but couldn't write them effectively
@@ -60,7 +60,7 @@ The lowest accuracy (Purpose, 0.85) stemmed from the auto-grader over-generating
 
 - **Productive struggles**: difficulty writing effective prompts (the core skill being taught)
 - **Extraneous load**: slow AI response times, login issues, limited typing skills (22 students reported this)
-- **Scenario variety**: some students wanted non-STEM scenarios
+- **Scenario variety**: some students wanted non-[[stem-education|STEM]] scenarios
 - LLM response latency disrupted the practice flow
 
 ## Design Implications
@@ -70,7 +70,7 @@ The study demonstrates that [[prompt-engineering]] can be taught effectively to 
 1. **Scenario-based deliberate practice** with authentic AI interaction
 2. **Immediate, dimension-level feedback** powered by LLM auto-grading
 3. **Assessment aligned to competency** — open-ended + T/F outperform MCQs for higher-order prompting skills
-4. **Addressing the digital divide** — prior AI access correlates with initial performance, underscoring the need for in-school prompting literacy instruction
+4. **Addressing the [[digital-divide|digital divide]]** — prior AI access correlates with initial performance, underscoring the need for in-school prompting literacy instruction
 
 ## Connected Concepts
 

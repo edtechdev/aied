@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T09:45:00-04:00"
 type: concept
 tags: [learner-identity, adult-learning, student-experience, agency, stem-education]
 discipline: [stem education]
@@ -18,7 +18,7 @@ connected_faqs: [how-ai-impacts-students]
 - A common assumption is that identity is a fixed trait a learner either has or lacks. What would change in how you design learning if you treated learner identity instead as something continuously built through participation, recognition, and authorship?
 - The page describes a 'competence paradox' among art and design students: AI tools feel easy and useful, yet their use threatens the creative identity students derive from manual craft. Have you ever felt your own competence or identity challenged by an easy tool? What was the tension?
 - Students sometimes hide or feel shame about their AI use, which fragments their academic identity and honest engagement. When does the pressure to appear a certain kind of learner push people to conceal how they actually learn, and what would make disclosure feel safe?
-- AI can scaffold identity formation as well as threaten it. If you were designing an AI learning companion, what specific features would protect a learner's sense of authorship and ownership while still offering support?
+- AI can scaffold identity formation as well as threaten it. If you were designing an AI [[pedagogical-agent|learning companion]], what specific features would protect a learner's sense of authorship and ownership while still offering support?
 
 ## Introduction
 
@@ -35,7 +35,7 @@ Identity is a motivational and developmental construct distinct from (but connec
 - **Creative identity:** **[[t2i-competence-paradox-2026|the T2I competence paradox]]** captures how ease-of-use can undermine the craft-based identity of art and design students.
 - **Professional identity:** multiple studies treat AI's impact on **professional identity** — for example, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]** argue that graduates need *adaptive capabilities* ([[ai-literacy]], [[distributed-cognition]], [[metacognition]]) precisely so they can sustain a viable professional identity in an AI-integrated future, rather than being defined by — or defined out by — their tools.
 - **Post-human and hybrid identity:** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]** theorize the **post-human learner**, whose cognition is genuinely hybrid and distributed across [[biology-education|biological]] and artificial systems — a reframing of identity formation itself in the age of cognitive AI.
-- **Student and academic identity:** **[[zhan-boud-du-authentic-assessment-scoping-review-2025|authentic assessment]]** research connects to identity because assessment tasks that call for authentic, personal performance help students see themselves as capable practitioners; **[[paternalistic-filter-llm-history-education|history-education research]]** shows how paternalistic AI use can shape how students construct their identity as disciplinary inquirers.
+- **Student and academic identity:** **[[zhan-boud-du-authentic-assessment-scoping-review-2025|authentic assessment]]** [[research-methods-aied|research]] connects to identity because assessment tasks that call for authentic, personal performance help students see themselves as capable practitioners; **[[paternalistic-filter-llm-history-education|history-education research]]** shows how paternalistic AI use can shape how students construct their identity as disciplinary inquirers.
 
 ## Relationship to learner agency
 
@@ -83,4 +83,5 @@ Learner identity connects to [[agency]] (identity is enacted through agentic aut
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis for faculty (teacher identity)
 - [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
 - [[li-ai-science-situated-learning-teachers-2025]] — Science teachers' roles and learner identity in situated learning
+- [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professional identity
 

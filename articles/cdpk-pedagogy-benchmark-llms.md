@@ -18,7 +18,7 @@ Lelièvre et al. (2025) introduce **[The Pedagogy Benchmark](https://www.fab-ai.
 
 ## Key Findings
 
-- **The Pedagogy Benchmark** (CDPK + SEND) tests pedagogical knowledge — teaching strategies, [[assessment]] methods, and specialist SEND pedagogy — using genuine Chilean teacher-exam questions, curated for cross-cultural validity.
+- **The Pedagogy Benchmark** (CDPK + SEND) tests pedagogical knowledge — [[teacher-role|teaching]] strategies, [[assessment]] methods, and specialist SEND pedagogy — using genuine Chilean teacher-exam questions, curated for cross-cultural validity.
 - **Wide spread across 97 models:** CDPK 28%–89%; SEND 29%–86%. Closed-source reasoning models dominate the top 10; open-weight DeepSeek R1 reached 86.65%.
 - **Reasoning helps:** most top performers are inference-time chain-of-thought/thinking models, indicating reasoning improves performance even on knowledge-style benchmarks.
 - **Cost–accuracy value frontier:** at $0.10/M input tokens, CDPK accuracy rose from ~50% (Apr 2024) → 70% (Nov 2024) → 82% (Jun 2025). Open Qwen-3 8B at 3.5¢ now nearly matches the best April-2024 closed model (76%) at >400x lower cost.
@@ -30,7 +30,7 @@ Lelièvre et al. (2025) introduce **[The Pedagogy Benchmark](https://www.fab-ai.
 
 - Offers education-focused benchmarks to guide **model selection** for LLM-based tools (lesson-planning, assessment support, professional-learning platforms), balancing pedagogical performance against cost and deployment constraints.
 - **On-device/efficient models matter for [[global-south|LMIC]] contexts** (e.g., Liquid AI LFM-7B at 61% for 1¢/Mtoken; Gemma-3n E4B at 64%) where connectivity and hardware are limited.
-- As models approach/exceed human performance on knowledge benchmarks, **responsible deployment** (ethical guardrails, [[human-in-the-loop-ai|human-in-the-loop]] systems) is needed to avoid [[cognitive-offloading|over-reliance]] and illusion of expertise among teachers.
+- As models approach/exceed human performance on knowledge benchmarks, **responsible deployment** ([[ethics|ethical]] [[guardrails]], [[human-in-the-loop-ai|human-in-the-loop]] systems) is needed to avoid [[cognitive-offloading|over-reliance]] and illusion of expertise among teachers.
 - The online leaderboard supports interactive, value-aware model comparison: https://www.fab-ai.org/initiatives/ai-for-education/edtech-quality/benchmarks
 
 ty/benchmarks

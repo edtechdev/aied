@@ -10,7 +10,7 @@ sources: ['raw/papers/10.1145_3770855.3817769.md']
 confidence: high
 ---
 
-> **Synthesis:** Xie, Yang, Zhang, Li, Wang, Yang & Gao (2026) propose HiLLM-CD, a tree-structured framework for cognitive diagnosis that represents student proficiency as node-wise values on a concept tree, enabling coarse-to-fine diagnosis. A multi-agent LLM pipeline eliminates the need for expert annotations by automatically generating concept trees and exercise-concept links from educational text. Evaluated on MOOCCubeX across four subjects, HiLLM-CD improves response prediction by 11.1% AUC and proficiency reliability by 0.597 Kendall's τ under fully unannotated settings.
+> **Synthesis:** Xie, Yang, Zhang, Li, Wang, Yang & Gao (2026) propose HiLLM-CD, a tree-structured framework for cognitive diagnosis that represents student proficiency as node-wise values on a concept tree, enabling coarse-to-fine diagnosis. A multi-agent [[llm]] pipeline eliminates the need for expert annotations by automatically generating concept trees and exercise-concept links from educational text. Evaluated on MOOCCubeX across four subjects, HiLLM-CD improves response prediction by 11.1% AUC and proficiency reliability by 0.597 Kendall's τ under fully unannotated settings.
 
 ## Key Contributions
 
@@ -29,7 +29,7 @@ The framework runs in three stages:
 
 ## Results
 
-On MOOCCubeX across Computer Science, Mathematics, Physics, and Biology:
+On MOOCCubeX across [[cs-education|Computer Science]], [[math-education|Mathematics]], [[physics-education|Physics]], and [[biology-education|Biology]]:
 - **+11.1% AUC** average improvement in response prediction
 - **+0.597 Kendall's τ** improvement in proficiency alignment with LLM teacher reference
 - **+11.4% AUC** on computerized adaptive testing (CAT)

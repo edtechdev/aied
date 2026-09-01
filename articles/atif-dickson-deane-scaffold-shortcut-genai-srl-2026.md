@@ -23,7 +23,7 @@ confidence: high
 
 ## Implications
 
-- **Embed structured reflection and justification.** Learning design should require students to justify or adapt AI outputs, and offer explicit guidance on productive tool use — an expanded view of AI literacy that includes critical, strategic, and responsible [[student-engagement|engagement]].
+- **Embed structured reflection and justification.** [[learning-design|Learning design]] should require students to justify or adapt AI outputs, and offer explicit guidance on productive tool use — an expanded view of AI literacy that includes critical, strategic, and responsible [[student-engagement|engagement]].
 - **Design for [[agency|learner agency]].** Scaffolded GenAI use can enhance autonomy and critical reflection when integrated thoughtfully into postgraduate education.
 
 ## Connected Concepts

@@ -15,7 +15,7 @@ confidence: high
 
 ## Key Findings
 
-- Design-based research produced design principles for [[generative-ai|GenAI]] [[ai-literacy|literacy]] training in [[teacher-education|teacher education]], addressing the gap between technical AI knowledge and [[pedagogy|pedagogical]] application
+- Design-based [[research-methods-aied|research]] produced design principles for [[generative-ai|GenAI]] [[ai-literacy|literacy]] training in [[teacher-education|teacher education]], addressing the gap between technical AI knowledge and [[pedagogy|pedagogical]] application
 - Pilot with 14 master's students followed by evaluation with 29 [[teacher-education|teacher education]] students showed enhanced overall AI competency [[self-efficacy]]
 - 87.1% of pilot participants expressed positive emotional responses (curiosity, inspiration, excitement); 12.9% expressed concerns about AI's societal impact
 - Half (51.1%) reported shifting perspectives about learner and [[teacher-role|teacher]] roles; 40% expressed intentions to critically integrate [[generative-ai|GenAI]] into future teaching

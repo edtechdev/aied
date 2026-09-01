@@ -23,7 +23,7 @@ MAIC (Massive AI-empowered Course) proposes a new form of online education that 
 
 ### Key Findings
 
-1. **"N agents for 1 student."** A suite of specialized LLM-driven agents (Teacher, Assistant, Classmate, Analyzer) constructs an AI-augmented classroom that dynamically adapts teaching to each student's interactions and inquiries, balancing scalability with adaptivity.
+1. **"N agents for 1 student."** A suite of specialized LLM-driven agents (Teacher, Assistant, Classmate, Analyzer) constructs an AI-augmented classroom that dynamically adapts [[teacher-role|teaching]] to each student's interactions and inquiries, balancing scalability with adaptivity.
 2. **Course creation at scale.** MAIC generates full course materials (slides, textbooks, exercises, videos) from instructor-provided course descriptions — reducing production from ~$25K USD and 60 hours per course to under $2 USD and 30 minutes.
 3. **Unified LLM foundation.** Unlike prior systems that used separate models for recommendation, dialogue, and assessment, MAIC builds all agents on a shared LLM foundation, enabling deeper integration across teaching and learning tasks.
 4. **Standardized course preparation.** A Read + Plan workflow transforms static slide decks into highly structured, [[adaptive-learning|adaptive learning]] resources, using [[multimodal]] LLMs (e.g., GPT-4V) for slide extraction, description generation, and tree-style knowledge taxonomy construction.
@@ -55,7 +55,7 @@ MAIC deploys a suite of specialized AI agents:
 
 ### Significance
 
-MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agentic-ai]] in education. It demonstrates how LLM-driven multi-agent systems can transform the MOOC paradigm from one-size-fits-all broadcasting to truly adaptive, personalized [[intelligent-tutoring]] at scale. The platform is released as open source under the name **OpenMAIC** ([github.com/THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)), supporting the vision of an open collaborative hub for AI-driven education research.
+MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agentic-ai]] in education. It demonstrates how LLM-driven multi-agent systems can transform the MOOC paradigm from one-size-fits-all broadcasting to truly adaptive, personalized [[intelligent-tutoring]] at scale. The platform is released as open source under the name **OpenMAIC** ([github.com/THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)), supporting the vision of an open collaborative hub for AI-driven education [[research-methods-aied|research]].
 
 ### Implications for AI in Education
 

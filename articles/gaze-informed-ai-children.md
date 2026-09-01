@@ -15,7 +15,7 @@ confidence: high
 
 **Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, Anna Maria Feit** — submitted 1 Jul 2026
 
-Ollie, a gaze-informed AI assistant for children's picture exploration, uses eye-tracking to trigger LLM narrative descriptions; within-subject experiment shows gaze-informed assistance keeps children's attention longer and guides exploration effectively.
+Ollie, a gaze-informed AI assistant for children's picture exploration, uses eye-tracking to trigger [[llm]] narrative descriptions; within-subject experiment shows gaze-informed assistance keeps children's attention longer and guides exploration effectively.
 
 ## Key Contributions
 
@@ -23,7 +23,7 @@ Ollie, a gaze-informed AI assistant for children's picture exploration, uses eye
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
 
 ## Connected Concepts
 

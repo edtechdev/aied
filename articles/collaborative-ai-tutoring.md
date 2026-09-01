@@ -21,15 +21,15 @@ ProPACT constructs a real-time model of pair collaboration using three signals:
 | Signal | Description | Measurement |
 |--------|-------------|-------------|
 | **JVA** (Joint Visual Attention) | Shared attentional focus | Cosine similarity of gaze distributions over 30-second windows |
-| **ME** (Mental Effort) | Individual cognitive load | Index of Pupillary Activity (IPA) over 10-second windows |
-| **JME** (Joint Mental Effort) | Cognitive engagement synchrony | Cross-recurrence of synchronized ME signals |
+| **ME** (Mental Effort) | Individual [[cognitive-offloading|cognitive load]] | Index of Pupillary Activity (IPA) over 10-second windows |
+| **JME** (Joint Mental Effort) | Cognitive [[student-engagement|engagement]] synchrony | Cross-recurrence of synchronized ME signals |
 
 All signals are discretized against a resting baseline using **±2SD bins** (High, Average, Low).([[golrang-propact-pair-programming-2026]])
 
 ## Proactive Forecasting Engine
 
 - **Model:** XGBoost predicts JVA, JME, and ME over a **30-second horizon**
-- **Policy:** Rule-based pedagogical hierarchy prioritizes minimally intrusive support
+- **Policy:** Rule-based [[pedagogy|pedagogical]] hierarchy prioritizes minimally intrusive support
 - **Principle:** Fade support when collaboration is productive; escalate only when breakdown risk increases
 
 ## Adaptive Feedback Hierarchy
@@ -42,7 +42,7 @@ All signals are discretized against a resting baseline using **±2SD bins** (Hig
 | **A4: Dialogue prompt** | JME=Low | Medium (editor prompt encouraging brief dialogue) |
 | **A5: Task-based hint** | Both MEs=High (last resort) | High (directive hint) |
 
-The hierarchy embodies the principle that **proactive, minimally intrusive scaffolds** outperform reactive, directive interventions.([[golrang-propact-pair-programming-2026]])
+The hierarchy embodies the principle that **proactive, minimally intrusive [[scaffolding|scaffolds]]** outperform reactive, directive interventions.([[golrang-propact-pair-programming-2026]])
 
 ## Key Results
 
@@ -54,7 +54,7 @@ In a within-subjects study with **26 pair-programming dyads** (52 CS/Engineering
 | **Debugging time** | Significantly lower / more efficient (*t*(44.70) = 4.39, *p* < .0001) |
 | **Feedback uptake** | Significantly higher (*F*(49.81) = −17.69, *p* < .0001) |
 
-Post-intervention gains in JVA and JME suggest improved collaborative regulation beyond immediate task completion.([[golrang-propact-pair-programming-2026]])
+Post-intervention gains in JVA and JME suggest improved collaborative [[regulation]] beyond immediate task completion.([[golrang-propact-pair-programming-2026]])
 
 ## Relationship to Tutoring-Specific Design
 
@@ -62,8 +62,8 @@ ProPACT exemplifies [[stanford-evidence-base-ai-k12-2026|tutoring-specific desig
 
 ## Implications
 
-- **For CS education:** Real-time dyadic regulation is tractable and effective; eye tracking + ML forecasting is viable at classroom scale
-- **For adaptive systems:** The "tutoring" unit need not be an individual—collaboration itself can be scaffolded
+- **For [[cs-education|CS education]]:** Real-time dyadic regulation is tractable and effective; eye tracking + ML forecasting is viable at classroom scale
+- **For [[adaptive-learning|adaptive systems]]:** The "tutoring" unit need not be an individual—collaboration itself can be scaffolded
 - **For transfer:** Does improved dyadic regulation transfer to unsupervised pair work? Not yet tested
 
 ## Connected Concepts

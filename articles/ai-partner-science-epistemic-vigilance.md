@@ -11,11 +11,11 @@ sources: ['raw/papers/2606.16822.md']
 confidence: high
 ---
 
-Argues that epistemic vigilance — the human evaluation of AI output calibrated to how far a fallible source can be trusted — is the binding constraint on productive augmentation. AI's fluent, confident prose reads as trustworthy whether or not it is, making evaluation harder. Vigilance sets how deeply a claim is processed and is thus the precondition for learning with AI. Design factors (prompts, feedback, scaffolding) matter only through whether they engage the learner's evaluation. Because vigilance is unevenly distributed, uniform AI integration risks widening achievement gaps.
+Argues that epistemic vigilance — the human [[ai-ed-evaluation|evaluation of AI]] output calibrated to how far a fallible source can be trusted — is the binding constraint on productive augmentation. AI's fluent, confident prose reads as trustworthy whether or not it is, making evaluation harder. Vigilance sets how deeply a claim is processed and is thus the precondition for learning with AI. Design factors (prompts, feedback, scaffolding) matter only through whether they engage the learner's evaluation. Because vigilance is unevenly distributed, uniform AI integration risks widening achievement gaps.
 
 ## Key Findings
 
-- The paper identifies epistemic vigilance — the human evaluation of AI output calibrated to how far a fallible source can be trusted — as, given adequate prior knowledge, the binding constraint on productive augmentation in learning with AI.
+- The paper identifies epistemic vigilance — the human evaluation of AI output calibrated to how far a fallible source can be trusted — as, given adequate [[prior-knowledge|prior knowledge]], the binding constraint on productive augmentation in learning with AI.
 - The AI partnership takes three forms — the scientist working with a co-scientist, a member of the public checking a claim such as whether a diet works or whether to fit solar panels, and a student taking up an inquiry with AI inside a science class — and in all three the deciding factor is whether the human evaluates what the AI returns or takes it on trust.
 - Vigilance is what licenses augmentation: because the human stays vigilant, generation, retrieval, and drafting can be delegated safely, so vigilance expands rather than restricts what can be handed to the AI.
 - The AI case is distinctive because the machine's fluent, confident prose reads as trustworthy whether or not it is, so the default surface of the output works against the human doing the evaluating.
@@ -29,7 +29,7 @@ The paper specifies the components of vigilance, the mechanism that ties it to l
 
 ## Implications for AI in Education
 
-For science education, the argument reorients design: the many factors reported as shaping AI's effect — prompts, feedback, scaffolding — succeed only insofar as they engage the learner's evaluation of AI output, making [[critical-thinking]] and [[hallucination-risk]] awareness central to instructional design rather than peripheral. The equity warning is direct: since vigilance is unevenly distributed, uniform AI integration risks widening achievement gaps, so [[scaffolding]] and differentiated support must target the disposition to evaluate, not just tool access, and this bears on [[equity-in-ai-education]] in who benefits from AI-augmented learning. Finally, the judging-versus-producing distinction gives educators a principled rule for dividing labor between learner and AI: whatever the lesson exists to teach must stay with the learner.
+For [[stem-education|science education]], the argument reorients design: the many factors reported as shaping AI's effect — prompts, feedback, scaffolding — succeed only insofar as they engage the learner's evaluation of AI output, making [[critical-thinking]] and [[hallucination-risk]] awareness central to [[learning-design|instructional design]] rather than peripheral. The equity warning is direct: since vigilance is unevenly distributed, uniform AI integration risks widening achievement gaps, so [[scaffolding]] and differentiated support must target the disposition to evaluate, not just tool access, and this bears on [[equity-in-ai-education]] in who benefits from AI-augmented learning. Finally, the judging-versus-producing distinction gives educators a principled rule for dividing labor between learner and AI: whatever the lesson exists to teach must stay with the learner.
 
 ## Connected Concepts
 

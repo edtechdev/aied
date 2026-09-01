@@ -9,7 +9,7 @@ sources: ['raw/papers/2606.25337.md']
 confidence: medium
 ---
 
-This paper explores how an embodied AI agent can act as a [[scaffolding|coach]] that accelerates human motor-skill development using [[adaptive-learning|reinforcement learning]]. The authors argue that effective coaching requires dynamically balancing guidance with learner autonomy — too much assistance leads to [[cognitive-offloading|Over-Reliance]] and skill atrophy, while too little leaves learners struggling.
+This paper explores how an [[embodied-learning|embodied]] [[agentic-ai|AI agent]] can act as a [[scaffolding|coach]] that accelerates human motor-skill development using [[adaptive-learning|reinforcement learning]]. The authors argue that effective coaching requires dynamically balancing guidance with learner autonomy — too much assistance leads to [[cognitive-offloading|Over-Reliance]] and skill atrophy, while too little leaves learners struggling.
 
 **Key findings:**
 - An RL-based coaching policy that adapts its level of intervention to the learner's current skill level significantly accelerates skill acquisition compared to static assistance levels.
@@ -18,8 +18,8 @@ This paper explores how an embodied AI agent can act as a [[scaffolding|coach]] 
 
 **Implications:**
 - RL-based coaching offers a principled framework for [[personalized-learning|personalized]] skill development in domains beyond traditional academics (e.g., surgical training, [[professional-training]], [[stem-education|STEM lab skills]]).
-- The competence-based fading policy mirrors established pedagogical best practices, suggesting [[formative-assessment]] signals can drive AI coaching adaptation.
-- Extends [[ai-tutor-safety-harms|AI safety in tutoring]] research to embodied/motor skill domains.
+- The competence-based fading policy mirrors established [[pedagogy|pedagogical]] best practices, suggesting [[formative-assessment]] signals can drive AI coaching adaptation.
+- Extends [[ai-tutor-safety-harms|AI safety in tutoring]] [[research-methods-aied|research]] to embodied/motor skill domains.
 
 ## Connected Concepts
 

@@ -11,9 +11,9 @@ sources: ['raw/papers/2601.21375.md']
 confidence: high
 ---
 
-> While LLMs are increasingly used as teaching assistants, their teaching capability remains insufficiently evaluated — a critical gap in current AIED research.
+> While LLMs are increasingly used as [[teacher-role|teaching]] assistants, their teaching capability remains insufficiently evaluated — a critical gap in current [[ai-education|AIED]] [[research-methods-aied|research]].
 
-> Syllabus-grounded framework for measuring LLM teaching capability via student performance improvement after multi-turn instruction.
+> Syllabus-grounded framework for measuring [[llm]] teaching capability via student performance improvement after multi-turn instruction.
 
 ## The Gap in LLM Evaluation
 
@@ -22,7 +22,7 @@ confidence: high
 ### Limitations of Existing Benchmarks
 | Benchmark Type | Focus | Limitation |
 |---------------|-------|-------------|
-| **Problem-solving** (MMLU, HELM, GSM8K) | Answer correctness | Measures solver, not teacher |
+| **[[problem-solving]]** (MMLU, HELM, GSM8K) | Answer correctness | Measures solver, not teacher |
 | **Exam-centric** (AGIEval, C-Eval, GAOKAO-Bench) | Exam performance | Still solution-centric |
 | **Tutoring dialogues** (MathDial, TutorBench) | Per-turn response quality | Misses end-to-end teaching effectiveness |
 
@@ -46,25 +46,25 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 
 | Finding | Implication |
 |---------|-------------|
-| **Domain variation:** Math teaching effective (7.63pt gain with Qwen3-235B), but physics/chemistry challenging | Teaching ability is domain-specific, not generalized |
+| **Domain variation:** Math teaching effective (7.63pt gain with Qwen3-235B), but [[physics-education|physics]]/[[chemistry-education|chemistry]] challenging | Teaching ability is [[discipline-specific-aied|domain-specific]], not generalized |
 | **Example problems backfire:** Models shift to error correction vs. syllabus-grounded instruction | Current LLMs struggle with structured teaching vs. reactive problem-solving |
 | **Teaching ≠ Solving:** Models good at solving aren't necessarily good at teaching | Teaching ability is a **distinct LLM behavior dimension** |
 
 ## Connection to Existing Work
 
 ### vs. AI Tutor Effectiveness
-- Traditional ITS effectiveness reviews focus on *human* learning outcomes with *deployed* systems
+- Traditional ITS effectiveness reviews focus on *human* [[learning-gains|learning outcomes]] with *deployed* systems
 - TeachBench evaluates *model* teaching capability in *controlled* agentic settings
 - Both highlight: **teaching is more than problem-solving**
 
 ### vs. Educational LLM Alignment
-- Alignment benchmarks measure: "Does this model produce good teaching content?"
+- Alignment [[benchmark|benchmarks]] measure: "Does this model produce good teaching content?"
 - TeachBench measures: "Does this model *improve learning* through instruction?"
 - Complementary: alignment → content quality; TeachBench → instructional effectiveness
 
 ### vs. Agentic Workflows
 - TeachBench operationalizes the **"teacher agent"** paradigm in agentic education
-- Reveals current LLMs struggle with *structured pedagogical planning* (vs. reactive Q&A)
+- Reveals current LLMs struggle with *structured [[pedagogy|pedagogical]] planning* (vs. reactive Q&A)
 - Aligns with: agentic reflection, planning, and tool use in educational contexts
 
 ## Implications for AI in Education

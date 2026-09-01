@@ -22,8 +22,8 @@ Introductory programming is effort-intensive: learning to code requires sustaine
 
 - **Reduced autonomous motivation:** the perception of AI as a shortcut lowers the intrinsic value of developing skills, because the goal (producing working code) can be reached without the effort that builds competence.
 - **Transactional learning orientation:** students come to treat assignments as tasks to dispatch rather than opportunities to learn, optimizing for output over understanding.
-- **Persistence erosion:** because [[cognitive-offloading|Over-Reliance]] and easy access reduce the need for struggle, students miss the productive-failure cycles that drive deep learning in programming.
-- **Equity concern:** students who consciously resist AI assistance may fall behind peers who use it to complete work faster, complicating assessment fairness and the fairness of grading in [[higher-ed]] — a dynamic with direct implications for [[academic-integrity]].
+- **Persistence erosion:** because [[cognitive-offloading|Over-Reliance]] and easy access reduce the need for struggle, students miss the [[productive-failure]] cycles that drive deep learning in programming.
+- **[[equity-in-ai-education|Equity]] concern:** students who consciously resist AI assistance may fall behind peers who use it to complete work faster, complicating assessment [[bias-mitigation|fairness]] and the fairness of grading in [[higher-ed]] — a dynamic with direct implications for [[academic-integrity]].
 
 ## Implications for course design
 

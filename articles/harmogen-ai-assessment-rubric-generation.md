@@ -28,7 +28,7 @@ When four CS-specialist human evaluators scored 308 responses, all four AI rubri
 
 ## Findings for LLM evaluators: the evaluator–rubric interaction
 
-With [[llm]] evaluators the picture reversed. DeepSeek V3 met equivalence for all four rubric sources, while GPT-4.1 and GPT-4o showed systematic negative deviations (harsher grading), most pronounced for structured rubrics — the opposite of the human-evaluator pattern. Structured rubrics produced a pooled mean difference of −4.46 versus −0.66 for free-form. This implies automated-assessment systems should not treat rubric source and evaluator as independent factors, and rubric selection must account for the specific LLM deployed. A variance-based quality-control system flagged only 1.43% of evaluations for human review, suggesting [[automated-assessment|automated assessment]] can cut workload while preserving a mechanism for human oversight.
+With [[llm]] evaluators the picture reversed. DeepSeek V3 met equivalence for all four rubric sources, while GPT-4.1 and GPT-4o showed systematic negative deviations (harsher grading), most pronounced for structured rubrics — the opposite of the human-evaluator pattern. Structured rubrics produced a pooled mean difference of −4.46 versus −0.66 for free-form. This implies automated-assessment systems should not treat rubric source and evaluator as independent factors, and rubric selection must account for the specific LLM deployed. A variance-based quality-control system flagged only 1.43% of evaluations for human review, suggesting [[automated-assessment|automated assessment]] can cut workload while preserving a mechanism for [[human-in-the-loop-ai|human oversight]].
 
 ## Open-weight versus proprietary generation
 

@@ -15,11 +15,11 @@ Mehrnoush Mohammadi, Kamal Berahmand, Shazia Sadiq, & Hassan Khosravi (2026) pro
 ## Key Findings
 
 - **The limitation it addresses:** Existing memory-augmented knowledge-tracing models (e.g., DKVMN) treat concepts as independent entities, failing to capture how higher-order interactions among concepts shape learning — especially when concepts co-occur across varying question compositions. This parallels the [[cognitive-diagnosis|fine-grained skill assessment]] challenge of modeling multi-concept questions.
-- **Temporal hypergraph representation:** THyMeN represents each student's learning history as an evolving hypergraph, where each hyperedge reflects the multi-concept structure of a question, capturing authentic multi-skill task demands and cognitive load.
-- **Bidirectional message-passing:** A mechanism enables mutual refinement between concept nodes and question hyperedges, modeling how concept dynamics shift across questions and enabling composition-sensitive mastery estimates.
+- **Temporal hypergraph representation:** THyMeN represents each student's learning history as an evolving hypergraph, where each hyperedge reflects the multi-concept structure of a question, capturing authentic multi-skill task demands and [[cognitive-offloading|cognitive load]].
+- **Bidirectional message-passing:** A mechanism enables mutual refinement between concept nodes and question hyperedges, modeling how concept dynamics shift across questions and enabling [[writing-education|composition]]-sensitive mastery estimates.
 - **Attention-based fusion:** Integrates memory-tracked concept mastery, composition-aware hypergraph signals, and question-specific features into a unified prediction representation.
 - **Adaptive scaling:** Regulates mastery updates using the diversity of concept co-occurrences across questions, yielding stable trajectories consistent with learning from varied practice.
-- **Results:** Outperforms seven baselines and state-of-the-art models in predictive accuracy on four benchmark datasets, while generating smoother, pedagogically plausible knowledge-evolution trajectories. Ablation and structural comparison studies validate the design contributions. These advances feed [[intelligent-tutoring]] and [[adaptive-learning|adaptive]] systems that rely on accurate mastery estimates.
+- **Results:** Outperforms seven baselines and state-of-the-art models in predictive accuracy on four [[benchmark]] datasets, while generating smoother, pedagogically plausible knowledge-evolution trajectories. Ablation and structural comparison studies validate the design contributions. These advances feed [[intelligent-tutoring]] and [[adaptive-learning|adaptive]] systems that rely on accurate mastery estimates.
 
 ## Implications for AI in Education
 

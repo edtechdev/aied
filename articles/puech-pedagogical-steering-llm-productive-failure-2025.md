@@ -11,7 +11,7 @@ sources: ['raw/papers/puech-pedagogical-steering-llm-productive-failure-2025.md'
 confidence: high
 ---
 
-> **Synthesis:** Puech, Macina, Chatain, Sachan and Kapur (2025) introduce **Pedagogical Steering** — the problem of getting LLM-based tutors to follow effective teaching strategies rather than behaving as answer-giving assistants — and present **StratL**, an algorithm that steers an LLM through a predefined multi-turn tutoring plan represented as a transition graph. In a case study, they engineer an LLM tutor for high school math that follows [[productive-failure]] pedagogy, withholding solutions and eliciting multiple solution attempts. A field study with 17 Singaporean students showed StratL significantly increased fidelity to the PF strategy, though the PF tutor was perceived as less "helpful" than a baseline — the central tension between learning effectiveness and user satisfaction.
+> **Synthesis:** Puech, Macina, Chatain, Sachan and Kapur (2025) introduce **[[pedagogy|Pedagogical]] Steering** — the problem of getting [[llm]]-based tutors to follow effective [[teacher-role|teaching]] strategies rather than behaving as answer-giving assistants — and present **StratL**, an algorithm that steers an LLM through a predefined multi-turn tutoring plan represented as a transition graph. In a case study, they engineer an LLM tutor for high school math that follows [[productive-failure]] pedagogy, withholding solutions and eliciting multiple solution attempts. A field study with 17 Singaporean students showed StratL significantly increased fidelity to the PF strategy, though the PF tutor was perceived as less "helpful" than a baseline — the central tension between learning effectiveness and user satisfaction.
 
 ## The Pedagogical Steering problem
 
@@ -19,7 +19,7 @@ One-to-one tutoring is among the most efficient teaching methods, but is expensi
 
 ## StratL
 
-StratL models a multi-turn tutoring strategy with LLMs. A multi-turn strategy is a succession of single-turn pedagogical goals called *tutoring intents*. StratL uses a transition graph to dynamically redefine the tutoring intents after every student utterance, prompting the LLM to follow these intents for the next turn. Built with learning scientists, it integrates a strategy based on Productive Failure (Kapur, 2008, 2024).
+StratL models a multi-turn tutoring strategy with LLMs. A multi-turn strategy is a succession of single-turn pedagogical goals called *tutoring intents*. StratL uses a transition graph to dynamically redefine the tutoring intents after every student utterance, [[prompt-engineering|prompting]] the LLM to follow these intents for the next turn. Built with learning scientists, it integrates a strategy based on Productive Failure (Kapur, 2008, 2024).
 
 ## Field study results (17 high school students, Singapore)
 

@@ -36,7 +36,7 @@ Unlike ethical debt (incurred at the point of *design*), agentic literacy debt i
 - **Security ([[guardrails|prompt injection]]):** The OpenClaw "walletdrain" attacks and the EchoLeak vulnerability (CVE-2025-32711) showed agents manipulated through data channels users never see — no AI literacy [[curriculum-design|curriculum]] teaches users to anticipate, monitor, or contest this. Indirect [[guardrails|prompt injection]] is OWASP's number-one production [[llm]] risk.
 - **Healthcare:** [[agentic-ai|Agentic AI]] for triage/scheduling is expanding rapidly (~$538M market in 2024), yet users systematically overtrust AI medical advice despite low accuracy, and [[trust-calibration|trust calibration]] failures carry higher stakes when agents act rather than advise.
 - **Fraud:** [[generative-ai|GenAI]]-enabled banking fraud losses are projected at $22–40B by 2027; attacks increasingly target the agents acting on users' behalf, bypassing the user entirely.
-- **[[digital-divide|Global equity]]:** Populations most exposed to the literacy gap (e.g., lower rural internet access in Asia-Pacific) are also least served by AI literacy research — no AI literacy scale has been tested for cross-cultural validity.
+- **[[digital-divide|Global equity]]:** Populations most exposed to the literacy gap (e.g., lower rural internet access in Asia-Pacific) are also least served by AI literacy [[research-methods-aied|research]] — no AI literacy scale has been tested for cross-cultural validity.
 
 ## Structural, Not a Temporary Lag
 

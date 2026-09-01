@@ -12,7 +12,7 @@ sources: ['raw/papers/instructional-agents-multi-agent-course-gen.md']
 confidence: high
 ---
 
-> **Synthesis:** Instructional Agents is a multi-agent [[llm|LLM]] framework that automates end-to-end course material generation by simulating role-based collaboration among Teaching Faculty, Instructional Designer, Teaching Assistant, Course Coordinator, and Program Chair agents, all structured around the ADDIE [[learning-design|instructional design]] framework. Evaluated across 5 university courses, the system supports four modes (Autonomous, Catalog-Guided, Feedback-Guided, Full Co-Pilot) balancing automation and [[human-in-the-loop-ai|human oversight]].
+> **Synthesis:** Instructional Agents is a multi-agent [[llm|LLM]] framework that automates end-to-end course material generation by simulating role-based collaboration among [[teacher-role|Teaching]] Faculty, Instructional Designer, Teaching Assistant, Course Coordinator, and Program Chair agents, all structured around the ADDIE [[learning-design|instructional design]] framework. Evaluated across 5 university courses, the system supports four modes (Autonomous, Catalog-Guided, Feedback-Guided, Full Co-Pilot) balancing automation and [[human-in-the-loop-ai|human oversight]].
 
 ## System Design
 
@@ -29,7 +29,7 @@ The Teaching Faculty agent serves as the primary authority throughout, maintaini
 1. **Autonomous** — fully automated generation with no human input
 2. **Catalog-Guided** — human provides a course catalog description as seed input
 3. **Feedback-Guided** — human reviews and provides iterative feedback between phases
-4. **Full Co-Pilot** — tight human-AI collaboration throughout all phases
+4. **Full Co-Pilot** — tight [[human-ai-collaboration|human-AI collaboration]] throughout all phases
 
 In all human-in-the-loop modes, Teaching Faculty retain final approval — AI output serves as a draft for human refinement, not an assumed-ready artifact.
 
@@ -44,7 +44,7 @@ In all human-in-the-loop modes, Teaching Faculty retain final approval — AI ou
 
 ## Evaluation
 
-Evaluated across 5 university-level courses (Data Mining, Foundations of Machine Learning, Data Processing at Scale, Introduction to AI, Topics in Reinforcement Learning) using both human and automated reviewers, with an adapted **Quality Matters (QM) Higher Education Rubric** covering six outputs: Learning Objectives, Syllabi, Assessments, Final Slides, Slide Scripts, and the overall Instructional Package. Key findings:
+Evaluated across 5 university-level courses (Data Mining, Foundations of Machine Learning, Data Processing at Scale, Introduction to AI, Topics in [[reinforcement-learning|Reinforcement Learning]]) using both human and automated reviewers, with an adapted **Quality Matters (QM) [[higher-ed|Higher Education]] Rubric** covering six outputs: Learning Objectives, Syllabi, Assessments, Final Slides, Slide Scripts, and the overall Instructional Package. Key findings:
 
 - Produces high-quality materials that are reviewed and refined by teaching faculty prior to classroom use
 - Significantly reduces time required to prepare classroom-ready content

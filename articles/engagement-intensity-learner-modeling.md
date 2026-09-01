@@ -12,11 +12,11 @@ sources: ['raw/papers/2606.18548.md']
 confidence: medium
 ---
 
-> Engagement intensity during AI ethics instruction serves as an effective learner-modeling signal for adaptive instruction; prior LLM experience influences engagement patterns.
+> [[student-engagement|Engagement]] intensity during AI [[ethics]] instruction serves as an effective learner-modeling signal for [[student-modeling|adaptive instruction]]; prior [[llm]] experience influences engagement patterns.
 
 ## Synthesis
 
-This study investigates whether simple intake measures can serve as learner-modeling signals for adaptive AI ethics instruction. Drawing on data from 93 bioscience graduate and postdoctoral trainees enrolled in a required research ethics course, the authors compare three candidate intake features — self-reported LLM usage frequency, self-rated LLM familiarity, and prior AI education — against five baseline perception outcomes: accuracy trust, evaluation capability, complex-task trust, over-reliance risk, and training interest. The results position simple behavioral engagement measures as promising, lightweight inputs for profiling learners before instruction begins, with direct relevance for [[personalized-learning]] and [[adaptive-learning]] design.
+This study investigates whether simple intake measures can serve as learner-modeling signals for adaptive AI ethics instruction. Drawing on data from 93 bioscience graduate and postdoctoral trainees enrolled in a required [[research-methods-aied|research]] ethics course, the authors compare three candidate intake features — self-reported LLM usage frequency, self-rated LLM familiarity, and prior [[ai-education|AI education]] — against five baseline perception outcomes: accuracy trust, evaluation capability, complex-task trust, [[cognitive-offloading|over-reliance]] risk, and training interest. The results position simple behavioral engagement measures as promising, lightweight inputs for profiling learners before instruction begins, with direct relevance for [[personalized-learning]] and [[adaptive-learning]] design.
 
 ## Key Findings
 
@@ -28,7 +28,7 @@ This study investigates whether simple intake measures can serve as learner-mode
 
 ## Study Design & Method
 
-The study surveyed 93 bioscience graduate students and postdoctoral trainees enrolled in a required research ethics course before instruction began. Three candidate intake features were compared across five baseline perception outcomes using statistical models with Holm correction for multiple comparisons. The five outcomes were treated as facets of distinct constructs from prior work on trust calibration and AI literacy — accuracy trust, evaluation capability, complex-task trust, over-reliance risk, and training interest — rather than as indicators of a single latent dimension.
+The study surveyed 93 bioscience graduate students and postdoctoral trainees enrolled in a required research ethics course before instruction began. Three candidate intake features were compared across five baseline perception outcomes using statistical models with Holm correction for multiple comparisons. The five outcomes were treated as facets of distinct constructs from prior work on [[trust-calibration|trust calibration]] and AI literacy — accuracy trust, evaluation capability, complex-task trust, over-reliance risk, and training interest — rather than as indicators of a single latent dimension.
 
 ## Limitations
 

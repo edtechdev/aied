@@ -11,11 +11,11 @@ sources: ['raw/papers/2607.26317.md']
 confidence: high
 ---
 
-Proposes Cognitive Diagnostic Profiling (CDP), a zero-shot framework that dramatically improves LLM-simulated examinee alignment with human test-takers. With CDP, IRT difficulty Spearman correlations rose from 0.24 to 0.90, and RMSE fell from 6.31 to 0.90. Makes LLM-simulated examinees practical for operational test development.
+Proposes [[cognitive-diagnosis|Cognitive Diagnostic]] Profiling (CDP), a zero-shot framework that dramatically improves [[llm]]-simulated examinee alignment with human test-takers. With CDP, IRT difficulty Spearman correlations rose from 0.24 to 0.90, and RMSE fell from 6.31 to 0.90. Makes LLM-simulated examinees practical for operational test development.
 
-**Relevance to AI in Education:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
+**Relevance to [[ai-education|AI in Education]]:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
 
-This research connects to the growing body of work on [[ai-literacy]] and [[teacher-role]], highlighting both the promise and limitations of AI tools in educational settings.
+This [[research-methods-aied|research]] connects to the growing body of work on [[ai-literacy]] and [[teacher-role]], highlighting both the promise and limitations of AI tools in educational settings.
 
 ## Connected Concepts
 

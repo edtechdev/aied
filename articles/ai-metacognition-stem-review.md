@@ -12,9 +12,9 @@ sources: ['raw/papers/mdpi-metacognition-ai-stem-2025.md']
 confidence: high
 ---
 
-> A bibliometric–systematic review of AI tools in STEM education:
+> A bibliometric–[[meta-analysis-systematic-review|systematic review]] of AI tools in [[stem-education|STEM education]]:
 
-> Systematic review (2005–2025) mapping how AI tools scaffold and co-regulate metacognitive development in STEM classrooms through bibliometric and qualitative synthesis.
+> Systematic review (2005–2025) mapping how AI tools scaffold and co-regulate [[metacognition|metacognitive]] development in STEM classrooms through bibliometric and [[qualitative-research|qualitative]] synthesis.
 
 ## Scope and Methodology
 
@@ -30,36 +30,36 @@ confidence: high
 
 | Paradigm | Core Idea | AI Role |
 |-----------|-----------|---------|
-| **Human-Centered** (traditional) | AI supports human agency with ethical oversight | Supportive tool under teacher control |
+| **Human-Centered** (traditional) | AI supports human agency with [[ethics|ethical]] oversight | Supportive tool under teacher control |
 | **Posthumanist** (emerging) | Learning = co-regulated process distributed between humans and AI | AI as co-agent in reflective processes |
 
-**Finding:** While most research remains grounded in **human-centered conceptualizations**, there are emerging indications of **posthumanist framings** where AI systems are positioned as **co-regulators of learning**.
+**Finding:** While most [[research-methods-aied|research]] remains grounded in **human-centered conceptualizations**, there are emerging indications of **posthumanist framings** where AI systems are positioned as **co-regulators of learning**.
 
 ### 2. AI Tools Scaffolding Metacognition
 
 | Tool Category | Examples | Metacognitive Function |
 |--------------|---------|----------------------|
-| **Intelligent Tutoring Systems (ITS)** | Carnegie Learning, ALEKS | Personalized feedback, real-time monitoring, strategic prompts |
+| **[[intelligent-tutoring|Intelligent Tutoring Systems]] (ITS)** | Carnegie Learning, ALEKS | Personalized feedback, real-time monitoring, strategic prompts |
 | **Adaptive Platforms** | Deep RL-based systems | Enhance metacognitive outcomes via adaptive scaffolds |
-| **Learning Analytics** | Dashboards, tracking tools | Externalize metacognitive processes, support reflection |
-| **Generative AI** | ChatGPT (GPT-4.1, 4.5, 5), conversational agents | Metacognitive prompts, chatbot feedback, ME-CoT approaches |
+| **[[learning-analytics|Learning Analytics]]** | Dashboards, tracking tools | Externalize metacognitive processes, support reflection |
+| **[[generative-ai|Generative AI]]** | ChatGPT (GPT-4.1, 4.5, 5), conversational agents | Metacognitive prompts, chatbot feedback, ME-CoT approaches |
 
-**Core shift:** From **individual reflection** → **system-level regulation and distributed cognition**.
+**Core shift:** From **individual reflection** → **system-level [[regulation]] and [[distributed-cognition|distributed cognition]]**.
 
 ### 3. Metacognitive Outcomes
 
 Studies consistently show AI tools improve:
 - **Reflective thinking** and independent inquiry
-- **Self-regulation** and strategic monitoring (planning, monitoring, evaluation)
+- **[[self-regulated-learning|Self-regulation]]** and strategic monitoring (planning, monitoring, evaluation)
 - **Motivation and reasoning** (especially for low-achieving and underrepresented groups)
-- **[[learning-gains|Academic performance]]** in mathematics, science, chemistry, physics
+- **[[learning-gains|Academic performance]]** in [[math-education|mathematics]], science, [[chemistry-education|chemistry]], [[physics-education|physics]]
 
 ### 4. Ethical Concerns and Pitfalls
 
 Despite benefits, scholars warn of:
 - **Cognitive overload** from excessive AI-generated feedback
 - **Reduced learner autonomy** when AI replaces (not scaffolds) reflection
-- **Algorithmic bias** if AI prioritizes automation over deep reflection
+- **[[bias-mitigation|Algorithmic bias]]** if AI prioritizes automation over deep reflection
 - **Inconsistent measurement** methods across studies (theoretical fragmentation)
 
 ## Connection to Existing Work
@@ -67,17 +67,17 @@ Despite benefits, scholars warn of:
 ### vs. Metacognition in AI Education
 - This review **maps the field systematically** (135 publications, 24 core studies)
 - Confirms: metacognition is **central to STEM success** but challenging to foster
-- AI tools offer scalable scaffolding, but require **teacher preparation in AI literacy**
+- AI tools offer scalable [[scaffolding]], but require **teacher preparation in [[ai-literacy|AI literacy]]**
 
 ### vs. Adaptive Learning Systems
 - **ALEKS, Carnegie Learning** highlighted as successful adaptive platforms for metacognition
-- **Deep reinforcement learning** enhances metacognitive outcomes (vs. static adaptive rules)
+- **Deep [[reinforcement-learning|reinforcement learning]]** enhances metacognitive outcomes (vs. static adaptive rules)
 - Aligns with: system-level regulation > individual reflection
 
 ### vs. Intelligent Tutoring Systems
 - ITS identified as **key scaffolding tool** for metacognitive development
 - Combines **content mastery** (object level) with **reflective monitoring** (meta level)
-- Consistent with: [[stanford-evidence-base-ai-k12-2026]] — domain-specific tutoring outperforms generic chatbots
+- Consistent with: [[stanford-evidence-base-ai-k12-2026]] — [[discipline-specific-aied|domain-specific]] tutoring outperforms generic [[conversational-ai|chatbots]]
 
 ### vs. AI Literacy
 - **Critical finding:** AI literacy must be **integrated into teacher preparation**
@@ -120,7 +120,7 @@ Teacher ↔ AI System ↔ Student
 ### For Tool Developers
 - **Ethical design priority:** Avoid cognitive overload and reduced autonomy
 - **Metacognitive scaffolds:** Build in reflection prompts, self-monitoring dashboards
-- **Transparency:** Teachers need to understand AI decision-making to maintain pedagogical agency
+- **Transparency:** Teachers need to understand AI decision-making to maintain [[pedagogy|pedagogical]] agency
 
 ## Connected Concepts
 

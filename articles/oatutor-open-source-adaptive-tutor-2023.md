@@ -15,14 +15,14 @@ confidence: high
 
 > OATutor (Open Adaptive Tutor) is the first open-source adaptive tutoring system built on Intelligent Tutoring System (ITS) principles, developed at UC Berkeley's CAHL Lab. It combines an MIT-licensed, fully engineered codebase with a Creative Commons (CC BY) algebra content library, knowledge tracing, A/B testing infrastructure, and LTI support — designed to democratize adaptive learning research by removing the barrier to replicating and extending experiments that proprietary platforms create.
 
-Despite decades of validated tutoring principles, no adaptive tutoring system had been both fully featured and open-sourced to the research community. This absence forced adaptive learning research onto a small number of proprietary platforms, raising the barrier to entry for researchers wanting to replicate, extend, or field adaptive-learning experiments. OATutor addresses this gap, delivering a system that others can fork, experiment with, and A/B test component-by-component.
+Despite decades of validated tutoring principles, no adaptive tutoring system had been both fully featured and open-sourced to the research community. This absence forced adaptive learning research onto a small number of proprietary platforms, raising the barrier to entry for [[research-methods-aied|researchers]] wanting to replicate, extend, or field adaptive-learning experiments. OATutor addresses this gap, delivering a system that others can fork, experiment with, and A/B test component-by-component.
 
 ## The system
 
 OATutor was iteratively developed over three years (from late 2019) with field trials in classrooms and feedback from students, teachers, and researchers. Its core architecture implements established ITS design principles:
 
-- **Hints & worked examples** — on-demand declarative help or full worked solutions, shown one at a time to reduce cognitive load.
-- **Scaffolding / tutored problem solving** — problems broken into steps with sub-questions that communicate the underlying goal structure.
+- **Hints & worked examples** — on-demand declarative help or full worked solutions, shown one at a time to reduce [[cognitive-offloading|cognitive load]].
+- **[[scaffolding]] / tutored [[problem-solving|problem solving]]** — problems broken into steps with sub-questions that communicate the underlying goal structure.
 - **Mastery estimation** — Bayesian Knowledge Tracing (BKT), a Hidden Markov Model that estimates cognitive mastery per skill, so the tutor withholds problems the student is not ready for and advances them when appropriate.
 - **Immediate feedback** — real-time correctness feedback upon answer submission.
 - **Knowledge Component (KC) model** — a centralized skill model mapping each step to skills, defined to promote abstract understanding while remaining fine-grained enough to represent competence.

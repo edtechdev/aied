@@ -16,7 +16,7 @@ confidence: high
 
 **[[feedback-literacy|Feedback literacy]] — specifically, students' ability to make sense of AI-generated [[ai-feedback-quality|feedback]] — is the boundary condition that determines whether ChatGPT acceptance translates into perceived [[self-regulated-learning|self-regulated learning]] benefits.**
 
-In a survey of 211 Hong Kong secondary students (Grades 7–9), Mendoza, Xiong and Yan found that all five [[technology-acceptance-model|Technology Acceptance Model]] (TAM) components (perceived usefulness, perceived ease of use, attitude, intention to use, actual use) positively predicted self-reflection. But every one of these links was **moderated by feedback sense-making**: students with stronger feedback-processing skills reported greater self-regulatory benefits from ChatGPT use, while those with weaker skills showed minimal or even negative associations.
+In a survey of 211 Hong Kong secondary students (Grades 7–9), Mendoza, Xiong and Yan found that all five [[technology-acceptance-model|Technology Acceptance Model]] (TAM) components (perceived usefulness, perceived ease of use, attitude, intention to use, actual use) positively predicted self-reflection. But every one of these links was **moderated by feedback sense-making**: students with stronger feedback-processing skills reported greater self-[[regulation|regulatory]] benefits from ChatGPT use, while those with weaker skills showed minimal or even negative associations.
 
 ## Design & Measures
 
@@ -51,7 +51,7 @@ Feedback sense-making significantly moderated each link (interactions β=.11–.
 
 ## Interpretation & Implications
 
-The authors position **feedback sense-making as a fundamental cognitive prerequisite** for productive AI engagement, arguing the "black box" nature of [[generative-ai|generative AI]] places unique evaluation demands on students. The crossover pattern for intention to use supports a distinction between *problematic dependency* and *strategic resource utilisation*.
+The authors position **feedback sense-making as a fundamental cognitive prerequisite** for productive AI [[student-engagement|engagement]], arguing the "black box" nature of [[generative-ai|generative AI]] places unique evaluation demands on students. The crossover pattern for intention to use supports a distinction between *problematic dependency* and *strategic resource utilisation*.
 
 Practically, they recommend a **three-tier implementation framework** (universal instruction in evaluating AI credibility → [[scaffolding|scaffolded]] interaction for moderate-literacy students → independent use for high-literacy students) and propose a **4.2 threshold** on the Feedback Sense-Making subscale to identify which students report benefiting from ChatGPT acceptance.
 

@@ -16,7 +16,7 @@ confidence: high
 
 **Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, Naren Ramakrishnan** — SIGCSE Virtual 2026, submitted 29 Jun 2026
 
-DURA framework (Demystify-Use-Reflect-Assess) for structured LLM integration in CS2 courses shows students value instructional guidance alongside LLM access, with increased office hours attendance.
+DURA framework (Demystify-Use-Reflect-Assess) for structured [[llm]] integration in CS2 courses shows students value instructional guidance alongside LLM access, with increased office hours attendance.
 
 ## Key Contributions
 
@@ -24,7 +24,7 @@ DURA framework (Demystify-Use-Reflect-Assess) for structured LLM integration in 
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
 
 ## Connected Concepts
 - [[cs-education]]

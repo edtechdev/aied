@@ -20,7 +20,7 @@ This paper presents two complementary approaches to predicting vocabulary diffic
 ## Key Findings
 
 **Dual-model architecture:**
-1. **Black-box LLM** fine-tuned with a soft-target loss function → Pearson r > 0.91, achieving the top shared task result in the open track
+1. **Black-box [[llm]]** fine-tuned with a soft-target loss function → Pearson r > 0.91, achieving the top shared task result in the open track
 2. **Explainable model** → r > 0.77, outperforming fine-tuned encoder baselines while providing interpretable feature-level insights
 
 **What makes words hard?** Beyond genuine production difficulty (word frequency, length, concreteness), the analysis reveals that:
@@ -30,7 +30,7 @@ This paper presents two complementary approaches to predicting vocabulary diffic
 
 ## Educational Applications
 
-Vocabulary difficulty prediction directly supports **adaptive language learning systems**, enabling:
+Vocabulary difficulty prediction directly supports **adaptive [[language-learning|language learning]] systems**, enabling:
 - Personalized vocabulary sequencing based on predicted difficulty
 - Diagnostic assessment of learner vocabulary gaps
 - Generation of appropriately leveled reading materials
@@ -39,11 +39,11 @@ This connects to [[llm-children-reading-story-generation]], which uses LLMs for 
 
 ## Technical Innovation
 
-The **soft-target loss function** for LLM fine-tuning on rating (regression) tasks is notable. Traditional fine-tuning uses hard classification targets; adapting LLMs to predict continuous difficulty scores required a custom loss. This technique may generalize to other educational NLP tasks requiring nuanced ordinal or continuous predictions, relevant to [[self-referential-l2-writing-llm-assessment]] and [[cyberscholar-genai-writing-feedback]].
+The **soft-target loss function** for LLM fine-tuning on rating (regression) tasks is notable. Traditional fine-tuning uses hard classification targets; adapting LLMs to predict continuous difficulty scores required a custom loss. This technique may generalize to other [[educational-nlp|educational NLP]] tasks requiring nuanced ordinal or continuous predictions, relevant to [[self-referential-l2-writing-llm-assessment]] and [[cyberscholar-genai-writing-feedback]].
 
 ## Benchmark Context
 
-BEA (Building Educational Applications) is the premier venue for NLP-for-education research. This shared task establishes a new benchmark for vocabulary difficulty prediction with open-source code, encouraging reproducible research in a domain where educational impact depends on reliable, interpretable models.
+BEA (Building Educational Applications) is the premier venue for NLP-for-education [[research-methods-aied|research]]. This shared task establishes a new [[benchmark]] for vocabulary difficulty prediction with [[open-source]] code, encouraging reproducible research in a domain where educational impact depends on reliable, interpretable models.
 
 ## Connected Concepts
 

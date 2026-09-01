@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.24104.md']
 confidence: high
 ---
 
-This large-scale survey of humanities and social sciences (HSS) students in China examines how [[generative-ai]] reshapes academic development across four dimensions: usage patterns, effects on learning processes and performance, challenges, and preferred curricular integration approaches. Over half of respondents reported enhanced learning motivation, independent thinking, and creativity, though a substantial minority saw little change or decline. A larger majority reported academic performance gains, though the authors caution these may partly reflect limitations in conventional [[assessment]] practices.
+This large-scale survey of [[humanities-education|humanities]] and social sciences (HSS) students in China examines how [[generative-ai]] reshapes academic development across four dimensions: usage patterns, effects on learning processes and performance, challenges, and preferred [[curriculum-design|curricular]] integration approaches. Over half of respondents reported enhanced learning motivation, independent thinking, and [[creativity]], though a substantial minority saw little change or decline. A larger majority reported academic performance gains, though the authors caution these may partly reflect limitations in conventional [[assessment]] practices.
 
 ## Key Findings
 
@@ -21,11 +21,11 @@ This large-scale survey of humanities and social sciences (HSS) students in Chin
 
 **Academic performance:** A notably larger majority reported academic gains, though these may partly reflect assessment practices ill-equipped to distinguish AI-assisted from independent work — a challenge related to [[academic-integrity]].
 
-**Challenges:** Limited accuracy and [[cognitive-offloading|Over-Reliance]] emerged as the most pressing concerns. While an overwhelming majority valued ethical considerations, only slightly more than half were satisfied with [[privacy]] protections. Students favored partial or optional GenAI integration into curricula.
+**Challenges:** Limited accuracy and [[cognitive-offloading|Over-Reliance]] emerged as the most pressing concerns. While an overwhelming majority valued [[ethics|ethical considerations]], only slightly more than half were satisfied with [[privacy]] protections. Students favored partial or optional GenAI integration into curricula.
 
 ## Implications
 
-The study highlights the need for [[higher-ed]] institutions to develop nuanced policies that balance GenAI's potential benefits against risks of over-reliance and assessment validity. Disciplinary differences suggest that [[educational-development]] programs should tailor guidance to specific fields rather than adopting one-size-fits-all approaches.
+The study highlights the need for [[higher-ed]] institutions to develop nuanced policies that balance GenAI's potential benefits against risks of over-reliance and [[assessment-validity|assessment validity]]. Disciplinary differences suggest that [[educational-development]] programs should tailor guidance to specific fields rather than adopting one-size-fits-all approaches.
 
 ## Connected Concepts
 

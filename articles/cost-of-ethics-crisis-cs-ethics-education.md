@@ -13,15 +13,15 @@ confidence: high
 
 ## Key Findings
 
-This study examines the disconnect between **ethics education** and real-world decision-making among 129 computer science students and recent graduates during their job searches. Despite receiving contemporary CS ethics education, most students prioritize compensation, location, and workplace culture over ethical and social concerns when choosing employers.
+This study examines the disconnect between **ethics education** and real-world decision-making among 129 [[cs-education|computer science]] students and recent graduates during their job searches. Despite receiving contemporary CS ethics education, most students prioritize compensation, location, and workplace culture over [[ethics|ethical]] and social concerns when choosing employers.
 
 Even when expressing ethical concerns, respondents justified taking contradictory actions through shared explanations: desire to make money or perceived inability to avoid unethical workplaces. This highlights a critical gap in how CS ethics education translates to actual behavioral change.
 
-The findings have significant implications for **AI safety in education**: teaching ethical reasoning about autonomous systems without connecting to students' material circumstances may be insufficient. This connects to broader debates about [[pedagogical-safety-rl]], [[teacher-ai-competency]], and [[equity-in-ai-education]] in shaping student values.
+The findings have significant implications for **AI safety in education**: [[teacher-role|teaching]] ethical reasoning about autonomous systems without connecting to students' material circumstances may be insufficient. This connects to broader debates about [[pedagogical-safety-rl]], [[teacher-ai-competency]], and [[equity-in-ai-education]] in shaping student values.
 
 ## Connections to AIED
 
-The ethics education gap identified here suggests that AI literacy curricula face a similar risk: students may understand AI ethics principles theoretically while still choosing to use AI tools unethically in practice. This mirrors findings on [[academic-integrity]] and [[cognitive-offloading|Over-Reliance]] patterns in student AI use.
+The ethics education gap identified here suggests that [[ai-literacy|AI literacy]] curricula face a similar risk: students may understand AI ethics principles theoretically while still choosing to use AI tools unethically in practice. This mirrors findings on [[academic-integrity]] and [[cognitive-offloading|Over-Reliance]] patterns in student AI use.
 
 ## Connected Concepts
 

@@ -18,18 +18,18 @@ Ostrowska, Kukla & Majstrak (2026) present an AI tutoring system **integrated in
 
 ## How It Works
 
-The system operates within Moodle's existing infrastructure, using LLM-based tutoring to:
+The system operates within Moodle's existing infrastructure, using [[llm]]-based tutoring to:
 - Detect the **depth of student understanding** from their responses
 - Adaptively scaffold toward deeper comprehension via [[scaffolding]] techniques
 - Move students through [[formative-assessment]] cycles that promote conceptual mastery
 
-This **grounded approach** — embedding AI tutoring in an existing LMS rather than building standalone tools — addresses deployment barriers identified in the [[zerkouk-comprehensive-review-its-2025]]. Many intelligent tutoring systems fail to achieve real-world impact because they require new infrastructure; Moodle integration lowers the adoption threshold.
+This **grounded approach** — embedding AI tutoring in an existing LMS rather than building standalone tools — addresses deployment barriers identified in the [[zerkouk-comprehensive-review-its-2025]]. Many [[intelligent-tutoring|intelligent tutoring systems]] fail to achieve real-world impact because they require new infrastructure; Moodle integration lowers the adoption threshold.
 
 ## Connections to the Knowledge Base
 
-The system's focus on deep vs. surface learning connects to [[metacognition]] research — students must recognize when they have only surface understanding. The adaptive approach aligns with [[adaptive-learning]] but emphasizes **qualitative shifts** in understanding rather than quantitative difficulty adjustment. The Moodle deployment strategy echoes lessons from [[becerra-aicofe-feedback-2026]] (AICoFe) about integrating AI tools into existing educational workflows.
+The system's focus on deep vs. surface learning connects to [[metacognition]] [[research-methods-aied|research]] — students must recognize when they have only surface understanding. The adaptive approach aligns with [[adaptive-learning]] but emphasizes **[[qualitative-research|qualitative]] shifts** in understanding rather than [[quantitative-research|quantitative]] difficulty adjustment. The Moodle deployment strategy echoes lessons from [[becerra-aicofe-feedback-2026]] (AICoFe) about integrating AI tools into existing educational workflows.
 
-Unlike [[stanford-evidence-base-ai-k12-2026]] debates about specialized tutors, this system shows how general LLMs can be **scaffolded into tutoring roles** within familiar platforms. The focus on deep understanding complements [[pedagogy-ai-mistakes]] work on using AI errors for higher-order thinking.
+Unlike [[stanford-evidence-base-ai-k12-2026]] debates about specialized tutors, this system shows how general LLMs can be **scaffolded into tutoring roles** within familiar platforms. The focus on deep understanding complements [[pedagogy-ai-mistakes]] work on using AI errors for [[critical-thinking|higher-order thinking]].
 
 ## Open Questions
 

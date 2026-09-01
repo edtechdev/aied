@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-01T09:45:00-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, educational-development, student-experience, academic-integrity]
 audience: [learners, instructors, faculty development, administrator]
@@ -128,3 +128,5 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
+- [[genai-professionalization-metaphors-2026]] — Conceptualizations of GenAI and student professionalization (metaphor study)
+- [[genai-decision-capability-cognitive-load-2026]] — GenAI's influence on students' perceived decision capability

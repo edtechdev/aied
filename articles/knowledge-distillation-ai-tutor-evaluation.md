@@ -12,7 +12,7 @@ sources: ['raw/papers/2607.10647.md']
 confidence: medium
 ---
 
-Addresses the lag between LLM integration into K-12/higher education and reliable methods for evaluating pedagogical quality. The authors introduce a knowledge-distillation approach to automate AI-tutor evaluation, distilling expert judgments of pedagogical quality into a scalable evaluator.
+Addresses the lag between LLM integration into K-12/higher education and reliable methods for evaluating [[pedagogy|pedagogical]] quality. The authors introduce a knowledge-distillation approach to automate AI-tutor evaluation, distilling expert judgments of pedagogical quality into a scalable evaluator.
 
 Directly advances [[intelligent-tutoring]] evaluation and [[automated-assessment|Automated Grading]] of tutor behavior across [[k-12]] and [[higher-ed]], building on [[llm]]-based assessment. It complements [[ai-tutor-behavioral-evaluation]] and the [[zerkouk-comprehensive-review-its-2025]], offering a practical route to scalable, expert-aligned tutor quality measurement.
 
@@ -29,7 +29,7 @@ The key idea is that pedagogical evaluation — judging whether a tutor correctl
 
 ## Implications for AI in Education
 
-Automated tutor evaluation of this kind is a prerequisite for accountability in AI tutoring: without reliable measures of pedagogical ability, institutions cannot compare vendors, monitor quality over time, or certify that tutors teach rather than merely answer. The benchmark results also illustrate meaningful quality differences among commercial models on pedagogical dimensions, informing procurement and design choices for [[intelligent-tutoring|AI Tutoring]] systems.
+Automated tutor evaluation of this kind is a prerequisite for accountability in AI tutoring: without reliable measures of pedagogical ability, institutions cannot compare vendors, monitor quality over time, or certify that tutors teach rather than merely answer. The [[benchmark]] results also illustrate meaningful quality differences among commercial models on pedagogical dimensions, informing procurement and design choices for [[intelligent-tutoring|AI Tutoring]] systems.
 
 ## Connected Concepts
 

@@ -22,7 +22,7 @@ confidence: high
 
 ## Study Design & Method
 
-A quantitative study grounded in Social Cognitive Theory. 487 undergraduates from Henan Province, China, were surveyed via snowball sampling. Structural equation modeling (PLS-SEM with SmartPLS) tested the relationships among thoughtless GenAI use (TUGA), self-efficacy (SE), motivation, and self-directed learning (SDL), including mediation (bootstrapping) and multi-group analysis (PLS-MGA with the Welch–Satterthwaite method) to examine gender differences. Measurement invariance was assessed via MICOM. Model fit was acceptable (SRMR = 0.063).
+A [[quantitative-research|quantitative]] study grounded in Social Cognitive Theory. 487 undergraduates from Henan Province, China, were surveyed via snowball sampling. Structural equation modeling (PLS-SEM with SmartPLS) tested the relationships among thoughtless GenAI use (TUGA), self-efficacy (SE), motivation, and self-directed learning (SDL), including mediation (bootstrapping) and multi-group analysis (PLS-MGA with the Welch–Satterthwaite method) to examine gender differences. Measurement invariance was assessed via MICOM. Model fit was acceptable (SRMR = 0.063).
 
 ## Implications for AI in Education
 

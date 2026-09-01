@@ -11,17 +11,17 @@ sources: ['raw/papers/2605.04534.md']
 confidence: high
 ---
 
-> Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks **Park, Orozco Vasquez, & Conati (2026)** — University of British Columbia. Accepted at EDM 2026.
+> Characterizing Students' [[llm]] Usage Behaviors and Their Association with Learning in [[critical-thinking|Critical Thinking]] Tasks **Park, Orozco Vasquez, & Conati (2026)** — University of British Columbia. Accepted at EDM 2026.
 
 Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
 
 ## Summary
 
-This study extends prior work on student LLM use by analyzing data from **two offerings** of a research-oriented course where students learn to read, reason about, and critique academic papers — a setting that moves beyond the problem-solving domains that dominate existing research. Crucially, students had **no restrictions** on LLM usage, providing ecological validity.
+This study extends prior work on student LLM use by analyzing data from **two offerings** of a [[research-methods-aied|research]]-oriented course where students learn to read, reason about, and critique academic papers — a setting that moves beyond the [[problem-solving]] domains that dominate existing research. Crucially, students had **no restrictions** on LLM usage, providing ecological validity.
 
 **Key contributions:**
 
-1. **Refined bottom-up categorization** of LLM usage types in academic critical thinking, cross-labeled by the **extent of student initiative** — from passive (copy-pasting text for summaries) to active (using LLM as a Socratic dialogue partner for [[critical-thinking-genai-scaffolding]]).
+1. **Refined bottom-up categorization** of LLM usage types in academic critical thinking, cross-labeled by the **extent of student initiative** — from passive (copy-pasting text for summaries) to active (using LLM as a [[socratic-method|Socratic dialogue]] partner for [[critical-thinking-genai-scaffolding]]).
 2. **[[learning-gains|Learning outcome]] analysis** linking usage frequency and type to performance on three midterm exams. This addresses the core question raised by [[genai-performance-vs-learning]]: do specific LLM usage patterns help or hinder actual learning?
 3. The **student initiative** dimension is particularly valuable for understanding [[ai-literacy]] development — it maps onto the distinction between using AI as a crutch vs. as a cognitive tool, directly relevant to [[scaffolding]] design.
 

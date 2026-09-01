@@ -13,7 +13,7 @@ confidence: medium
 
 ## Summary
 
-Gerlich (2025) investigates whether frequent use of AI tools erodes critical thinking, using cognitive offloading as the proposed mediating mechanism. Using a mixed-method design with 666 valid UK participants (convenience + purposive sampling across age groups, educational backgrounds, and occupations) plus 50 semi-structured interviews, the study combined a 23-item questionnaire (drawing on the Halpern Critical Thinking Assessment and Terenzini's self-reported measures) with thematic analysis. Both quantitative and qualitative analyses converge on a central finding: heavier AI tool usage is associated with lower critical thinking, and cognitive offloading — delegating memory, decision-making, and information retrieval to external systems — significantly mediates this negative relationship. The results were robust across ANOVA, correlation, multiple regression, and random forest regression, and were corroborated by interview themes of AI Dependence, Cognitive Engagement, and Ethical Concerns.
+Gerlich (2025) investigates whether frequent use of AI tools erodes [[critical-thinking|critical thinking]], using [[cognitive-offloading|cognitive offloading]] as the proposed mediating mechanism. Using a mixed-method design with 666 valid UK participants (convenience + purposive sampling across age groups, educational backgrounds, and occupations) plus 50 semi-structured interviews, the study combined a 23-item questionnaire (drawing on the Halpern Critical Thinking Assessment and Terenzini's self-reported measures) with thematic analysis. Both [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] analyses converge on a central finding: heavier AI tool usage is associated with lower critical thinking, and cognitive offloading — delegating memory, decision-making, and information retrieval to external systems — significantly mediates this negative relationship. The results were robust across ANOVA, correlation, multiple regression, and random forest regression, and were corroborated by interview themes of AI Dependence, Cognitive [[student-engagement|Engagement]], and [[ethics|Ethical]] Concerns.
 
 ## Key Findings
 
@@ -28,8 +28,8 @@ Gerlich (2025) investigates whether frequent use of AI tools erodes critical thi
 ## Implications
 
 - **Education:** Educators should balance AI integration with [[active-learning]] and explicit critical thinking instruction, avoiding passive reliance on AI tools.
-- **Policy/practice:** Teacher training should build AI competency while preserving cognitive engagement; students need metacognitive skills to judge when AI use undermines rather than supports learning.
-- **Conceptual:** Extends the "Google effect" (Sparrow et al., 2011) and cognitive offloading research (Risko & Gilbert, 2016) into the AI era, and connects [[trust]] in AI to greater offloading and diminished critical engagement.
+- **Policy/practice:** [[teacher-education|Teacher training]] should build [[teacher-ai-competency|AI competency]] while preserving cognitive engagement; students need [[metacognition|metacognitive]] skills to judge when AI use undermines rather than supports learning.
+- **Conceptual:** Extends the "Google effect" (Sparrow et al., 2011) and cognitive offloading [[research-methods-aied|research]] (Risko & Gilbert, 2016) into the AI era, and connects [[trust]] in AI to greater offloading and diminished critical engagement.
 - **Caveats:** Self-reported measures and potential sample bias limit causal inference; the author calls for longitudinal and experimental follow-up.
 
 ## Connected Concepts

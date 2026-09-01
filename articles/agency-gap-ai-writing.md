@@ -14,18 +14,18 @@ confidence: high
 
 ## Summary
 
-A randomized experiment (n = 79 medical/nursing students) examining how the **initiative design** of an AI writing agent shapes reasoning, agency, and immediate independent performance. Students completed two multimodal analytical writing tasks (interpreting healthcare-simulation data visualisations: bar chart, network diagram, ward heatmap) with either a **reactive agent** (responds only when prompted, n = 39) or a **proactive agent** (initiates sequenced questions and feedback, n = 40). GenAI literacy was measured with the validated 20-item **GLAT**. The study introduces the **agency gap**: a relational mismatch between the initiative an AI agent demands and the learner's capacity to initiate, monitor, evaluate, and internalise AI-supported reasoning — neither an individual deficit nor a fixed property of the system.
+A randomized experiment (n = 79 medical/nursing students) examining how the **initiative design** of an AI writing agent shapes reasoning, agency, and immediate independent performance. Students completed two [[multimodal]] analytical writing tasks (interpreting healthcare-[[simulation]] data visualisations: bar chart, network diagram, ward heatmap) with either a **reactive agent** (responds only when prompted, n = 39) or a **proactive agent** (initiates sequenced questions and feedback, n = 40). [[generative-ai|GenAI]] literacy was measured with the validated 20-item **GLAT**. The study introduces the **agency gap**: a relational mismatch between the initiative an AI agent demands and the learner's capacity to initiate, monitor, evaluate, and internalise AI-supported reasoning — neither an individual deficit nor a fixed property of the system.
 
 ## Key findings
 
 ### RQ1 — Epistemic network structure differs strongly by design
 - ENA (explaining 38.3%/22.7% and 27.5%/26.4% of variance) separated conditions with **large effects** (Cliff's δ = −0.56, −0.78; both p < .001).
-- **Proactive** dialogues: stronger links between conceptual reasoning, adequate reasoning, and constructive engagement (EP-CS–EP-CP-Adeq, EP-PS–EP-CP-Adeq, I-CON–EP-CP-Adeq) — more integrated epistemic elaboration.
-- **Reactive** dialogues: more factual/procedural/off-task pairings (EP-PS–EP-OFF, EP-OFF–I-ACT) — the learner's own regulation is more visible but discourse stays descriptive.
+- **Proactive** dialogues: stronger links between conceptual reasoning, adequate reasoning, and constructive [[student-engagement|engagement]] (EP-CS–EP-CP-Adeq, EP-PS–EP-CP-Adeq, I-CON–EP-CP-Adeq) — more integrated epistemic elaboration.
+- **Reactive** dialogues: more factual/procedural/off-task pairings (EP-PS–EP-OFF, EP-OFF–I-ACT) — the learner's own [[regulation]] is more visible but discourse stays descriptive.
 - The difference is in *how ideas are connected*, not how often categories appear and not the final score.
 
 ### RQ2 — GenAI literacy predicts immediate independent performance
-- After AI support was removed, GLAT predicted **Visual Data Integration** (OR 1.14, p = .039), **Critical Thinking** (OR 1.15, p = .029), and the **Composite score** (OR 1.11, p = .032) — modest, higher-order effects; not significant for insightfulness, organisation, or linguistic quality.
+- After AI support was removed, GLAT predicted **Visual Data Integration** (OR 1.14, p = .039), **[[critical-thinking|Critical Thinking]]** (OR 1.15, p = .029), and the **Composite score** (OR 1.11, p = .032) — modest, higher-order effects; not significant for insightfulness, organisation, or linguistic quality.
 - AI-supported performance strongly predicted AI-removal performance on all dimensions (all p ≤ .001) — continuity, but cannot distinguish learning from stable competence.
 - No significant condition effect and **no significant literacy-by-design interaction**.
 
@@ -37,13 +37,13 @@ A randomized experiment (n = 79 medical/nursing students) examining how the **in
 ### RQ4 — Three design heuristics from learner reflections
 1. **Sustain autonomy** through contextual and confirmatory feedback (reactive strength: confirms interpretations, lowers barrier, but redundant for proficient learners).
 2. **Promote integrative reasoning and immediate independent application** through dialogic scaffolding (proactive strength: connects evidence across visuals, prompts self-correction; risks over-scaffolding easy tasks).
-3. **Ensure equity through adaptive alignment** of initiative with learner expertise and task complexity — a uniform interaction style may under-support some learners while over-directing others.
+3. **Ensure [[equity-in-ai-education|equity]] through adaptive alignment** of initiative with learner expertise and task complexity — a uniform interaction style may under-support some learners while over-directing others.
 
 ## Interpretation
 
 - **Process ≠ outcome**: agent design produced large differences in the relational organisation of dialogue but no significant direct effect on immediate writing scores — the mechanism is how epistemic work is distributed, not output quality.
 - The agency gap frames the failure modes: **under-support** (low literacy × strongly reactive design) and **over-direction** (high capability × rigidly proactive design), echoing [[scaffolding]]'s expertise-reversal effect and adaptive-scaffolding accounts.
-- Practice: make initiative **visible and adjustable** (request/skip/pause prompting), structure proactive prompts to orient–interpret–connect–synthesise rather than supply answers, and fade prompts as learners demonstrate independence; teach GenAI literacy as part of academic writing ([[ai-literacy]], [[agentic-ai]]).
+- Practice: make initiative **visible and adjustable** (request/skip/pause [[prompt-engineering|prompting]]), structure proactive prompts to orient–interpret–connect–synthesise rather than supply answers, and fade prompts as learners demonstrate independence; teach GenAI literacy as part of [[writing-education|academic writing]] ([[ai-literacy]], [[agentic-ai]]).
 - Limitations: n = 79 underpowered for mediation; medical/nursing sample; immediate AI-removal task measures near transfer, not durable learning; agency gap theorised, not directly measured; no manipulation-check coding of agent turns.
 
 ## Connected Concepts

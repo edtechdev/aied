@@ -11,12 +11,12 @@ sources: ['raw/papers/valls-computational-thinking-educational-robotics.md']
 confidence: medium
 ---
 
-> **Synthesis:** Valls i Pou (2026) examines how computational thinking can enhance the effective integration of educational robotics into secondary school curricula. Arguing that educational robotics is a strong resource for fostering problem solving, critical thinking, and STEAM subjects, the paper relates the theoretical framework of computational thinking to 21st-century skills and secondary-school curriculum knowledge linked to STEAM. Through a literature analysis, it connects computational-thinking concepts and skills with curricular content, and proposes a concrete approach for linking computational-thinking concepts from the theoretical framework into official secondary curricula to guide robotics education.
+> **Synthesis:** Valls i Pou (2026) examines how computational thinking can enhance the effective integration of educational robotics into secondary school curricula. Arguing that educational robotics is a strong resource for fostering [[problem-solving|problem solving]], [[critical-thinking|critical thinking]], and STEAM subjects, the paper relates the theoretical framework of computational thinking to 21st-century skills and secondary-school [[curriculum-design|curriculum]] knowledge linked to STEAM. Through a literature analysis, it connects computational-thinking concepts and skills with curricular content, and proposes a concrete approach for linking computational-thinking concepts from the theoretical framework into official secondary curricula to guide robotics education.
 
 ## Key Findings
 
 - **Educational robotics enhances problem solving, critical thinking, and STEAM promotion** — but requires explicit development of computational-thinking concepts during student training.
-- **21st-century skills are an accepted part of students' educational development** and should be integrated with computational thinking and robotics activities.
+- **21st-century skills are an accepted part of students' [[educational-development|educational development]]** and should be integrated with computational thinking and robotics activities.
 - A **literature analysis** relates computational-thinking concepts and skills to the secondary-school curriculum, showing how the theoretical framework maps onto STEAM subject knowledge.
 - The paper proposes **linking computational-thinking theoretical concepts into the official secondary curriculum** as a guide for applying educational robotics effectively.
 
@@ -26,7 +26,7 @@ This is a **conceptual/literature-analysis paper** (not an empirical study). It 
 
 ## Implications for AI in Education
 
-The paper supports [[educational-robotics|robotics]] as a vehicle for developing [[computational-thinking]] in secondary schools, arguing that robots are most effective for learning when computational-thinking concepts are made explicit and aligned to the [[stem-education|STEAM]] curriculum. It connects computational thinking to [[k-12]] teaching and to 21st-century skills such as problem solving and critical thinking. For educators, it offers a framework for mapping computational-thinking competencies onto existing curriculum knowledge so robotics activities serve genuine learning goals rather than functioning as isolated technical exercises.
+The paper supports [[educational-robotics|robotics]] as a vehicle for developing [[computational-thinking]] in secondary schools, arguing that robots are most effective for learning when computational-thinking concepts are made explicit and aligned to the [[stem-education|STEAM]] curriculum. It connects computational thinking to [[k-12]] [[teacher-role|teaching]] and to 21st-century skills such as problem solving and critical thinking. For educators, it offers a framework for mapping computational-thinking competencies onto existing curriculum knowledge so robotics activities serve genuine learning goals rather than functioning as isolated technical exercises.
 
 ## Limitations
 

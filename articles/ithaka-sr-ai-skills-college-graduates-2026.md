@@ -20,8 +20,8 @@ The report is one of the first major efforts to vet a comprehensive AI-skills fr
 
 1. **AI literacy** — understanding human vs. AI capabilities, selecting appropriate tools, setting realistic expectations
 2. **Continuous learning orientation** — iterating on AI tools, peer coaching
-3. **Prompting and input quality** — clear actionable prompts, grounding in reliable sources, [[multimodal]] prompting
-4. **Evaluating and improving output quality** — proactive review, revising drafts for audiences, resisting sycophantic AI, bias & fairness awareness
+3. **[[prompt-engineering|Prompting]] and input quality** — clear actionable prompts, grounding in reliable sources, [[multimodal]] prompting
+4. **Evaluating and improving output quality** — proactive review, revising drafts for audiences, resisting [[ai-sycophancy|sycophantic]] AI, bias & [[bias-mitigation|fairness]] awareness
 5. **AI safety, [[ethics]], and [[governance]]** — handling sensitive data, responsible use, human accountability, transparency & attribution
 6. **Workflow evaluation and redesign** — mapping workflows, efficient human–AI handoffs, documenting decisions
 7. **Automation and technical integration** — no/low-code automations, basic coding/API capabilities
@@ -51,7 +51,7 @@ Employers valued skills related to **workflows, automation, and efficient human�
 
 ### The teaching gap is the strongest evidence of a skills gap
 
-Only **three of 26 skills are taught by half or more instructors**. Two-thirds teach transparency & attribution (likely via [[academic-integrity|academic integrity]]), and roughly half teach responsible use, proactive output review, and human accountability. But far fewer instructors teach the workflow-evaluation and technical-integration skills — precisely the categories where instructor–employer prioritization diverged most. The report calls this "the strongest evidence that there is an AI skills gap between higher education and employers": whole categories employers value are neither prioritized nor taught.
+Only **three of 26 skills are taught by half or more instructors**. Two-thirds teach transparency & attribution (likely via [[academic-integrity|academic integrity]]), and roughly half teach responsible use, proactive output review, and human accountability. But far fewer instructors teach the workflow-evaluation and technical-integration skills — precisely the categories where instructor–employer prioritization diverged most. The report calls this "the strongest evidence that there is an AI skills gap between [[higher-ed|higher education]] and employers": whole categories employers value are neither prioritized nor taught.
 
 ### Institutional context: expectations exceed infrastructure
 
@@ -59,9 +59,9 @@ Instructors slightly disagreed that their institutions expect undergraduates to 
 
 ## Implications for AI in Education
 
-- **For curriculum design:** The report offers a concrete, assessable 26-skill framework institutions can use to map existing coursework against employer priorities — a practical antidote to the "vaporware" vagueness of AI-skills talk, and a direct contribution to [[career-development-and-readiness|career readiness]]. It highlights specific under-taught categories (workflow redesign, automation, technical integration) that many institutions could add without abandoning critical-use values.
+- **For [[curriculum-design|curriculum design]]:** The report offers a concrete, assessable 26-skill framework institutions can use to map existing coursework against employer priorities — a practical antidote to the "vaporware" vagueness of AI-skills talk, and a direct contribution to [[career-development-and-readiness|career readiness]]. It highlights specific under-taught categories (workflow redesign, automation, technical integration) that many institutions could add without abandoning critical-use values.
 - **For assessment:** A shared framework for assessing AI skills is a prerequisite for knowing whether students reach proficiency; the report documents that most institutions lack this, echoing [[assessment]] debates in the knowledge base.
-- **For [[ai-literacy]]:** The instructor emphasis on critical, responsible use aligns closely with the knowledge base's treatment of AI literacy as regulatory competence and [[critical-thinking|critical thinking]], while the employer emphasis on productivity-oriented skills introduces a complementary framing the field is still reconciling.
+- **For [[ai-literacy]]:** The instructor emphasis on critical, responsible use aligns closely with the knowledge base's treatment of AI literacy as [[regulation|regulatory]] competence and [[critical-thinking|critical thinking]], while the employer emphasis on productivity-oriented skills introduces a complementary framing the field is still reconciling.
 - **For [[equity-in-ai-education|equity]] and practice:** The report flags the presence of instructors who see resisting/doing-without AI as the key skill — a framing tension relevant to [[framing-ai-use-for-students]] and [[student-experience]].
 
 ## Connected Concepts

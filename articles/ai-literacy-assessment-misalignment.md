@@ -11,11 +11,11 @@ category: [assessment]
 confidence: high
 sources: ['raw/papers/2601.06101.md']
 ---
->Highlights critical misalignment between self-reported AI literacy and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessments correlate better (r=0.72) with classroom AI integration than self-reports (r=0.31).
+>Highlights critical misalignment between self-reported [[ai-literacy|AI literacy]] and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessments correlate better (r=0.72) with classroom AI integration than self-reports (r=0.31).
 
 ## Key Findings
 
-- The study developed and evaluated parallel self-report (SR) and objective-based (OB) measures of teacher AI literacy within a shared Concept, Use, Evaluate, and Ethics framework, enabling direct comparison of perceived versus demonstrated competence.
+- The study developed and evaluated parallel self-report (SR) and objective-based (OB) measures of teacher AI literacy within a shared Concept, Use, Evaluate, and [[ethics]] framework, enabling direct comparison of perceived versus demonstrated competence.
 - Confirmatory factor analyses supported construct validity with good reliability and acceptable fit, but revealed a low correlation between the self-reported and objective-based factors — teachers' perceptions of their AI literacy and their demonstrated performance diverge.
 - Latent profile analysis identified six distinct profiles, including overestimation (SR > OB), underestimation (SR < OB), alignment (SR ≈ OB), and a unique low-SR/low-OB profile concentrated among teachers without prior AI literacy experience.
 - The divergence between perceived and demonstrated competence has direct implications for professional development: self-assessment alone is an unreliable basis for planning AI training.
@@ -23,7 +23,7 @@ sources: ['raw/papers/2601.06101.md']
 
 ## Study Design & Method
 
-The research responds to the widespread adoption of AI in K-12 education and the resulting need for psychometrically tested measures of teachers' AI literacy. Prior work relied on either self-report or objective-based assessments, with few studies aligning the two within a shared framework. Here, both SR and OB instruments were built on shared dimensions — Concept, Use, Evaluate, and Ethics — so the two measurement approaches could be compared directly rather than studied in isolation. Confirmatory factor analysis established construct validity and reliability, and latent profile analysis grouped teachers by the pattern of agreement or disagreement between their self-reports and objective performance, including how prior AI literacy experience shapes that relationship.
+The [[research-methods-aied|research]] responds to the widespread adoption of AI in [[k-12]] education and the resulting need for psychometrically tested measures of teachers' AI literacy. Prior work relied on either self-report or objective-based assessments, with few studies aligning the two within a shared framework. Here, both SR and OB instruments were built on shared dimensions — Concept, Use, Evaluate, and Ethics — so the two measurement approaches could be compared directly rather than studied in isolation. Confirmatory factor analysis established construct validity and reliability, and latent profile analysis grouped teachers by the pattern of agreement or disagreement between their self-reports and objective performance, including how prior AI literacy experience shapes that relationship.
 
 ## Implications for AI in Education
 

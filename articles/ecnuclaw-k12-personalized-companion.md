@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.08040.md']
 confidence: medium
 ---
 
-> ECNUClaw is an open-source framework by Zhou, Li & Zhang (2026) for building **learner-profiled intelligent study companions** in K-12 education. The system maintains a **five-dimension learner profile** — cognitive, behavioral, emotional, metacognitive, and contextual — by extracting signals from student-companion dialogues at each conversational turn.
+> ECNUClaw is an [[open-source]] framework by Zhou, Li & Zhang (2026) for building **learner-profiled intelligent study companions** in [[k-12]] education. The system maintains a **five-dimension learner profile** — cognitive, behavioral, emotional, metacognitive, and contextual — by extracting signals from student-companion dialogues at each conversational turn.
 
 ## Core Contribution
 
@@ -24,11 +24,11 @@ The system draws on three theoretical strands from Chinese educational technolog
 2. **Education Brain model** — for educational system architecture
 3. **Human-AI Collaborative IQ** — for companion design philosophy
 
-Profile updates feed into an **adaptive strategy engine** that adjusts guidance intensity, encouragement frequency, and Bloom's taxonomy scaffolding in real time. The framework supports seven Chinese LLM providers through a unified OpenAI-compatible adapter layer.
+Profile updates feed into an **adaptive strategy engine** that adjusts guidance intensity, encouragement frequency, and Bloom's taxonomy [[scaffolding]] in real time. The framework supports seven Chinese [[llm]] providers through a unified OpenAI-compatible adapter layer.
 
 ## Significance for AIED
 
-ECNUClaw advances the field of [[personalized-learning]] by operationalizing real-time learner profiling within dialogue-based tutoring. Unlike static learner models in [[adaptive-learning]], ECNUClaw updates profiles turn-by-turn, enabling genuinely responsive [[intelligent-tutoring]] at scale. The five-dimensional profile connects to work on [[metacognition]] (metacognitive dimension), [[self-regulated-learning]] (contextual dimension), and [[affective-tutoring]] (emotional dimension). The system's grounding in Chinese educational frameworks also extends the geographic scope beyond Western-centric [[stanford-evidence-base-ai-k12-2026]] research.
+ECNUClaw advances the field of [[personalized-learning]] by operationalizing real-time learner profiling within dialogue-based tutoring. Unlike static learner models in [[adaptive-learning]], ECNUClaw updates profiles turn-by-turn, enabling genuinely responsive [[intelligent-tutoring]] at scale. The five-dimensional profile connects to work on [[metacognition]] (metacognitive dimension), [[self-regulated-learning]] (contextual dimension), and [[affective-tutoring]] (emotional dimension). The system's grounding in Chinese educational frameworks also extends the geographic scope beyond Western-centric [[stanford-evidence-base-ai-k12-2026]] [[research-methods-aied|research]].
 
 ## Open Questions
 

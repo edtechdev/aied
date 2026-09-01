@@ -11,20 +11,20 @@ sources: ['raw/papers/2605.07056.md']
 confidence: medium
 ---
 
-> **Synthesis:** Rather than replacing universities, generative AI **redefines their essential functions** — this paper proposes a four-level framework of institutional AI adoption and argues that the central challenge is moving from isolated, individual-driven experimentation to strategic integration, supported by workload and recognition systems.
+> **Synthesis:** Rather than replacing universities, [[generative-ai|generative AI]] **redefines their essential functions** — this paper proposes a four-level framework of [[governance|institutional]] AI adoption and argues that the central challenge is moving from isolated, individual-driven experimentation to strategic integration, supported by workload and recognition systems.
 
 ## Core Argument
 
-The paper positions AI not as an existential threat to universities but as a **catalyst for reimagining** what universities do. Drawing on a case study of AI-enabled curriculum initiatives across several units at one institution, the authors contend that most universities remain in the early stages of adoption, where AI innovation occurs **informally and without institutional recognition**. The key institutional challenge is therefore not technological provision but **alignment**: redesigning learning around AI-supported reasoning and aligning policies, workload models, and recognition systems to support educational transformation. This connects to broader discussions about the frameworks needed for higher education, and complements the  finding that most staff already use AI for work.
+The paper positions AI not as an existential threat to universities but as a **catalyst for reimagining** what universities do. Drawing on a case study of AI-enabled curriculum initiatives across several units at one institution, the authors contend that most universities remain in the early stages of adoption, where AI innovation occurs **informally and without institutional recognition**. The key institutional challenge is therefore not technological provision but **alignment**: redesigning learning around AI-supported reasoning and aligning policies, workload models, and recognition systems to support educational transformation. This connects to broader discussions about the frameworks needed for [[higher-ed|higher education]], and complements the  finding that most staff already use AI for work.
 
 ## The Four Levels of AI Adoption
 
 The paper's central framework describes four stages of institutional response, ranging from defensive restriction to full integration, noting that many institutions presently operate around **Level 0 or Level 1**:
 
-1. **Level 0 — Defensive Containment:** AI is treated primarily as a threat to academic integrity. Responses focus on restricting use (discouraged or banned in assessment, heavy reliance on invigilated exams) with little or no curriculum redesign — often creating a mismatch between policy and the reality of widespread student AI use.
+1. **Level 0 — Defensive Containment:** AI is treated primarily as a threat to [[academic-integrity|academic integrity]]. Responses focus on restricting use (discouraged or banned in assessment, heavy reliance on invigilated exams) with little or no curriculum redesign — often creating a mismatch between policy and the reality of widespread student AI use.
 2. **Level 1 — Informal or Peripheral Adoption:** Experimentation happens largely at the level of individual educators rather than through institutional strategy, with limited or inconsistent guidance for students, no formal recognition in workload or promotion, and uneven adoption across units. Innovation thus depends on motivated individuals and can burden those leading change.
-3. **Level 2 — Strategic Integration:** Universities begin embedding AI into teaching policy and curriculum design, with clear institutional principles, curriculum redesign for AI-rich environments, professional AI development for educators, and recognition of innovation in workload or funding. Teaching increasingly focuses on reasoning, interpretation, and responsible use.
-4. **Level 3 — AI-Embedded or Transformational Universities:** AI becomes part of core educational infrastructure and the learning ecosystem — integrated into the LMS, assessment, and learning support; curricula centred on AI-supported reasoning rather than content delivery; assessments that evaluate judgment and justification in AI-rich environments; and students working with AI as a cognitive partner in authentic problem-solving.
+3. **Level 2 — Strategic Integration:** Universities begin embedding AI into [[teacher-role|teaching]] policy and [[curriculum-design|curriculum design]], with clear institutional principles, curriculum redesign for AI-rich environments, professional AI development for educators, and recognition of innovation in workload or funding. Teaching increasingly focuses on reasoning, interpretation, and responsible use.
+4. **Level 3 — AI-Embedded or Transformational Universities:** AI becomes part of core educational infrastructure and the learning ecosystem — integrated into the LMS, assessment, and learning support; curricula centred on AI-supported reasoning rather than content delivery; assessments that evaluate judgment and justification in AI-rich environments; and students working with AI as a cognitive partner in authentic [[problem-solving]].
 
 ## Key Strategic Steps
 
@@ -40,7 +40,7 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 
 ## Open Questions
 
-- How do different national contexts (US, EU, Global South) shape university AI responses?
+- How do different national contexts (US, EU, [[global-south|Global South]]) shape university AI responses?
 - What is the timeline for meaningful institutional transformation vs. superficial adoption?
 - How does institutional rethinking interact with [[principled-ai-education]] frameworks?
 - Which structural incentives most effectively convert informal educator experimentation into scaled, recognized innovation?

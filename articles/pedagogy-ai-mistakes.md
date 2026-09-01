@@ -12,18 +12,18 @@ sources: ['raw/papers/2605.05472.md']
 confidence: medium
 ---
 
-> **Synthesis:** Hosseini (2026) presents a design-oriented study reframing AI errors, hallucinations, and limitations as pedagogical opportunities rather than flaws. In an undergraduate database design course, an AI-integrated syllabus deliberately leveraged AI-generated mistakes to foster higher-order thinking aligned with Bloom's taxonomy. A mixed-methods study (n=13) found that structured interaction with AI errors supported metacognitive engagement, reinforced disciplinary rigor, and produced significant [[learning-gains|learning gains]] in subject-matter competency (pre/post mean 4.25→6.83, Cohen's *d*=1.49, *p*<.001).
+> **Synthesis:** Hosseini (2026) presents a design-oriented study reframing AI errors, [[hallucination-risk|hallucinations]], and limitations as pedagogical opportunities rather than flaws. In an undergraduate database design course, an AI-integrated syllabus deliberately leveraged AI-generated mistakes to foster higher-order thinking aligned with Bloom's taxonomy. A [[mixed-methods-research|mixed-methods]] study (n=13) found that structured interaction with AI errors supported metacognitive [[student-engagement|engagement]], reinforced disciplinary rigor, and produced significant [[learning-gains|learning gains]] in subject-matter competency (pre/post mean 4.25→6.83, Cohen's *d*=1.49, *p*<.001).
 
 ## Key Findings
 
 1. **Substantial subject-matter learning gains.** On seven identical pre/post questions, mean performance rose from 4.25 to 6.83 out of 7 (*t*(12)≈5.10, *p*<.001), with a large effect size (Cohen's *d*=1.49) — a practically as well as statistically meaningful gain in [[learning-gains|database competency]].
-2. **AI competency does not track perceived AI literacy.** Objective AI competency varied by domain (conceptual knowledge 75%, prompt engineering 62.5%, model adaptation 75%), while self-reported AI literacy correlated weakly and negatively with objective scores (*r*=−0.39, *p*≈0.21) — evidence of a [[trust-calibration|calibration gap]] in which students may overestimate their own AI abilities.
-3. **Critique of erroneous AI output drove metacognitive engagement.** Qualitative evidence showed students inspecting AI outputs, diagnosing errors, and revising designs against database principles — [[metacognition|metacognitive monitoring]] rather than passive acceptance of AI suggestions.
+2. **[[teacher-ai-competency|AI competency]] does not track perceived AI literacy.** Objective AI competency varied by domain (conceptual knowledge 75%, prompt engineering 62.5%, model adaptation 75%), while self-reported AI literacy correlated weakly and negatively with objective scores (*r*=−0.39, *p*≈0.21) — evidence of a [[trust-calibration|calibration gap]] in which students may overestimate their own AI abilities.
+3. **Critique of erroneous AI output drove metacognitive engagement.** [[qualitative-research|Qualitative]] evidence showed students inspecting AI outputs, diagnosing errors, and revising designs against database principles — [[metacognition|metacognitive monitoring]] rather than passive acceptance of AI suggestions.
 4. **The result is a design-based rather than causal claim.** The absence of a control group and the small single-section cohort (n=13) position the study as evidence of instructional feasibility and directional effects, not comparative efficacy.
 
 ## Definition
 
-An instructional approach that deliberately leverages AI errors, hallucinations, and limitations as teaching tools to foster higher-order thinking. Rather than viewing AI mistakes as failures to be avoided, this [[pedagogy|pedagogical]] approach treats them as cognitive provocations that demand analysis, evaluation, and reflection from students. Proposed by Hosseini (2026) in a database design course context, where AI is framed as a "learning companion" whose imperfect outputs prompt deeper engagement with course content.
+An instructional approach that deliberately leverages AI errors, hallucinations, and limitations as [[teacher-role|teaching]] tools to foster higher-order thinking. Rather than viewing AI mistakes as failures to be avoided, this [[pedagogy|pedagogical]] approach treats them as cognitive provocations that demand analysis, evaluation, and reflection from students. Proposed by Hosseini (2026) in a database design course context, where AI is framed as a "[[pedagogical-agent|learning companion]]" whose imperfect outputs prompt deeper engagement with course content.
 
 ## Course design: an AI-integrated syllabus
 
@@ -44,17 +44,17 @@ Central to the design is a weekly AI Module organized as an iterative **critique
 
 1. **Prompting strategies** engage students at the *application* level — zero-shot vs. few-shot prompting, chain-of-thought prompting, and temperature tuning. For example, students learn to include schema definitions and sample rows in a prompt to elicit accurate SQL.
 2. **Failure-mode analysis** moves to *analysis and evaluation*: students are presented with "what-can-go-wrong" cases, such as an AI-generated ER diagram that violates referential integrity or produces nonsensical attribute names, and guided to diagnose and critique the outputs.
-3. **The recurring case study ("Santa's Workshop")** engages *creation*: students iteratively craft prompts to generate schema suggestions, normalize tables, or write queries, then refine their prompts based on AI feedback and error analysis.
+3. **The recurring case study ("Santa's Workshop")** engages *creation*: students iteratively craft prompts to generate schema suggestions, normalize tables, or write queries, then refine their prompts based on [[ai-feedback-quality|AI feedback]] and error analysis.
 
 Across components, AI's imperfect outputs serve as catalysts for evaluation, positioning critique as the central mechanism driving higher-order cognition. This cycle resonates with the [[icap-framework|ICAP]] notion that generative, evaluative activity produces deeper learning than passive reception, and with [[desirable-difficulties|desirable difficulties]], where productive struggle with imperfect material strengthens retention.
 
 ## Study design and measures
 
-Thirteen students in an asynchronously delivered undergraduate database design course emphasizing [[self-directed-learning|self-directed learning]] completed a prior-knowledge survey that combined self-reported AI and database literacy (5-point Likert) with objective multiple-choice measures, capturing initial confidence versus actual knowledge.
+Thirteen students in an asynchronously delivered undergraduate database design course emphasizing [[self-directed-learning|self-directed learning]] completed a [[prior-knowledge]] survey that combined self-reported AI and database literacy (5-point Likert) with objective multiple-choice measures, capturing initial confidence versus actual knowledge.
 
 ### AI literacy and competency
 
-AI literacy/competency was measured with a two-part questionnaire: six self-assessment items adapted from the AILQ and MAILS instruments (covering self-efficacy, application, ethics, and evaluation) and five objective multiple-choice questions spanning three [[generative-ai|generative AI]] domains — conceptual knowledge (tokens, prompts), [[prompt-engineering|prompt engineering]] (few-shot prompting, format instruction), and model adaptation (fine-tuning). Agreement was strongest on ethics (67% agreement, 0% disagreement) and weakest on self-efficacy (45.5%), pointing to uncertainty about applying AI to complex tasks.
+AI literacy/competency was measured with a two-part questionnaire: six self-assessment items adapted from the AILQ and MAILS instruments (covering self-efficacy, application, [[ethics]], and evaluation) and five objective multiple-choice questions spanning three [[generative-ai|generative AI]] domains — conceptual knowledge (tokens, prompts), [[prompt-engineering|prompt engineering]] (few-shot prompting, format instruction), and model adaptation (fine-tuning). Agreement was strongest on ethics (67% agreement, 0% disagreement) and weakest on self-efficacy (45.5%), pointing to uncertainty about applying AI to complex tasks.
 
 ### DBMS self-reported literacy
 
@@ -80,7 +80,7 @@ The authors acknowledge limitations that constrain causal interpretation: the ab
 
 **For assessment and scaffolding:** The near-ceiling post-test clustering and the confidence gaps in DBMS use and SQL signal where [[scaffolding|scaffolded, hands-on]] practice matters most. Findings argue for adaptive [[ai-education|AI scaffolds]] that respond to learner progression and for combining [[formative-assessment|formative]] and [[summative-assessment|summative]] measures that track both conceptual understanding and evaluative skill.
 
-**For research:** The design-based orientation, while not causal, motivates controlled, multi-institution replication comparing AI-augmented and non-AI instruction — and argues for measuring AI literacy both subjectively and objectively in future work.
+**For [[research-methods-aied|research]]:** The design-based orientation, while not causal, motivates controlled, multi-institution replication comparing AI-augmented and non-AI instruction — and argues for measuring AI literacy both subjectively and objectively in future work.
 
 ## Open questions
 
@@ -96,7 +96,7 @@ The authors acknowledge limitations that constrain causal interpretation: the ab
 - Addresses the [[llm-fallacy-misattribution]] problem by making AI's limitations visible and discussable.
 - Contrasts with [[stanford-evidence-base-ai-k12-2026]]: here the AI's imperfection is the feature, not the bug.
 - Aligns with [[active-learning]]: students learn more effectively by actively critiquing and revising solutions than by passively receiving feedback.
-- Situated in [[self-directed-learning]] (common in [[online-teaching-and-learning|online education]]) and [[self-regulated-learning]], where the design's scaffolded critique-refinement cycle supports metacognitive self-monitoring.
+- [[situated-learning|Situated]] in [[self-directed-learning]] (common in [[online-teaching-and-learning|online education]]) and [[self-regulated-learning]], where the design's scaffolded critique-refinement cycle supports metacognitive self-monitoring.
 - Connects to [[cognitive-offloading]]: the pedagogy counters over-reliance on AI by making its errors the subject of scrutiny, rather than allowing students to passively accept AI output.
 - Relates to [[productive-failure]] and [[desirable-difficulties]]: structured confrontation with imperfect output functions as a productive struggle that deepens learning.
 

@@ -19,7 +19,7 @@ Proposes an evaluation framework for child-specific harms in generative AI; appl
 
 ## Key Findings
 
-- Most existing AI safety evaluation frameworks and benchmarks focus on general (adult) user populations and overlook risks unique to younger users, despite evidence of heavy youth engagement — a recent national survey found 72% of U.S. adolescents have used AI companions.
+- Most existing AI safety evaluation frameworks and [[benchmark|benchmarks]] focus on general (adult) user populations and overlook risks unique to younger users, despite evidence of heavy youth [[student-engagement|engagement]] — a recent national survey found 72% of U.S. adolescents have used AI companions.
 - The paper proposes an evaluation framework that integrates expert-guided risk factors with real-world AI incident data, identifying hazard categories from expert guidelines and AI incident databases and using them to construct a synthetic test set for model evaluation.
 - Applied to the education domain, three Llama Guard models were evaluated on their ability to detect unsafe user prompts; the models struggled to identify education-related unsafe prompts.
 - The evaluation pipeline includes incident-grounded prompt generation — producing harmful education-related prompts framed from a teen or student perspective based on reported incidents — alongside generation of safe prompts for contrast.
@@ -31,7 +31,7 @@ The framework combines two evidence sources: hazard categories derived from expe
 
 ## Implications for AI in Education
 
-The results carry a direct warning for AI-based learning environments: general-purpose safety classifiers do not reliably catch education-related unsafe prompts from children, so [[pedagogical-safety]] cannot be assumed from standard model safeguards. Schools and edtech providers deploying [[generative-ai]] tools need child-specific evaluation, incident-grounded testing, and human oversight rather than reliance on off-the-shelf safety models. The framework's structure — expert guidance plus incident data plus synthetic testing — is itself a template that educational institutions and researchers can reuse to evaluate tools for younger users, with implications for [[privacy]] and [[equity-in-ai-education]] in who is protected by default safety practices.
+The results carry a direct warning for AI-based learning environments: general-purpose safety classifiers do not reliably catch education-related unsafe prompts from children, so [[pedagogical-safety]] cannot be assumed from standard model safeguards. Schools and edtech providers deploying [[generative-ai]] tools need child-specific evaluation, incident-grounded testing, and [[human-in-the-loop-ai|human oversight]] rather than reliance on off-the-shelf safety models. The framework's structure — expert guidance plus incident data plus synthetic testing — is itself a template that educational institutions and [[research-methods-aied|researchers]] can reuse to evaluate tools for younger users, with implications for [[privacy]] and [[equity-in-ai-education]] in who is protected by default safety practices.
 
 ## Connected Concepts
 

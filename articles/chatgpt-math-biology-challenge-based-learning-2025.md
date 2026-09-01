@@ -10,7 +10,7 @@ level: [higher ed]
 sources: ['raw/papers/chatgpt-math-biology-challenge-based-learning-2025.md']
 confidence: high
 ---
-> **Synthesis:** Elizondo-García, Hernández-De la Cerda, Benavides-García, Caratozzolo, and Membrillo-Hernández (2025) report a pilot study using **ChatGPT within challenge-based learning (CBL)** in two higher-education digital courses — *Fundamentals of Biological Systems* (biology) and *Mathematics and Data Science for Decision Making*. Students solved activities with ChatGPT, then verified output quality against high-quality traditional sources. Surveys and NLP topic modeling revealed that students valued ChatGPT for its **immediacy, ease, and accessibility** while raising concerns about the **veracity and depth** of its output, whether it would supplant the teacher, and whether it would erode skill and competency development. The authors call for **updated academic-integrity codes and new AI-use ethics**, and note that [[teacher-role|teachers]] should be prepared to use AI and that AI-text detectors should be available for evaluation. 
+> **Synthesis:** Elizondo-García, Hernández-De la Cerda, Benavides-García, Caratozzolo, and Membrillo-Hernández (2025) report a pilot study using **ChatGPT within challenge-based learning (CBL)** in two higher-education digital courses — *Fundamentals of [[biology-education|Biological]] Systems* (biology) and *[[math-education|Mathematics]] and Data Science for Decision Making*. Students solved activities with ChatGPT, then verified output quality against high-quality traditional sources. Surveys and NLP topic modeling revealed that students valued ChatGPT for its **immediacy, ease, and [[accessibility]]** while raising concerns about the **veracity and depth** of its output, whether it would supplant the teacher, and whether it would erode skill and competency development. The authors call for **updated academic-integrity codes and new AI-use ethics**, and note that [[teacher-role|teachers]] should be prepared to use AI and that AI-text detectors should be available for evaluation. 
 
 ## Design and context
 
@@ -21,14 +21,14 @@ confidence: high
 
 ## Student perceptions (findings)
 
-- **Positive:** students appreciated ChatGPT's **immediate access to information, ease, availability**, and clear/concise explanations; it supported personalized and [[self-regulated-learning|self-directed learning]]. LDA revealed five themes: (1) information-retrieval tooling, (2) rapid/dynamic learning with technology, (3) ease and speed of use, (4) research and specific responses, and (5) AI as a support tool.
-- **Concerns:** veracity and depth of topics, the tool's reliability (outputs "simplify research" but sometimes lack precision or current data), potential to **supplant the teacher**, and risk of **excessive dependency** that could impair critical thinking, complex reasoning, and problem-solving.
+- **Positive:** students appreciated ChatGPT's **immediate access to information, ease, availability**, and clear/concise explanations; it supported personalized and [[self-regulated-learning|self-directed learning]]. LDA revealed five themes: (1) information-retrieval tooling, (2) rapid/dynamic learning with technology, (3) ease and speed of use, (4) [[research-methods-aied|research]] and specific responses, and (5) AI as a support tool.
+- **Concerns:** veracity and depth of topics, the tool's reliability (outputs "simplify research" but sometimes lack precision or current data), potential to **supplant the teacher**, and risk of **excessive dependency** that could impair [[critical-thinking|critical thinking]], complex reasoning, and [[problem-solving]].
 - **Notably neutral:** sentiment analysis showed 90% neutral responses, indicating students were still largely unfamiliar with ChatGPT's full capabilities — "we are still at the beginning of using this tool."
-- **Academic integrity gap:** a third of surveyed students did not know about modifications to academic-integrity regulations regarding AI use.
+- **[[academic-integrity|Academic integrity]] gap:** a third of surveyed students did not know about modifications to academic-integrity regulations regarding AI use.
 
 ## Implications
 
-The study emphasizes the need for **updated academic-integrity codes** and **new ethics for AI use** in higher education. Teachers should be prepared to use AI effectively and critically, and institutions should make AI-text detectors available for evaluation. When used responsibly, AI tools can help solve academic problems across knowledge domains, but implementation must be guided by ethical principles — responsible use, critical engagement with outputs, and fairness/transparency.
+The study emphasizes the need for **updated academic-integrity codes** and **new ethics for AI use** in [[higher-ed|higher education]]. Teachers should be prepared to use AI effectively and critically, and institutions should make AI-text detectors available for evaluation. When used responsibly, AI tools can help solve academic problems across knowledge domains, but implementation must be guided by [[ethics|ethical]] principles — responsible use, critical [[student-engagement|engagement]] with outputs, and [[bias-mitigation|fairness]]/transparency.
 
 ## Connected Concepts
 

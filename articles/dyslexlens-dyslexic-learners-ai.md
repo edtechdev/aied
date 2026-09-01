@@ -12,9 +12,9 @@ sources: ['raw/papers/2606.27619.md']
 confidence: high
 ---
 
-DysLexLens is a low-resource LLM framework designed to analyze how [[special-education|dyslexic learners]] experience AI tools by mining online forum discussions. The framework employs dictionary-driven filtering to construct focused corpora from Reddit, integrates LLM-assisted knowledge graph reasoning, and generates verifiable query responses about learners' lived experiences with AI for reading, writing, and study tasks.
+DysLexLens is a low-resource [[llm]] framework designed to analyze how [[special-education|dyslexic learners]] experience AI tools by mining online forum discussions. The framework employs dictionary-driven filtering to construct focused corpora from Reddit, integrates LLM-assisted [[knowledge-graph|knowledge graph]] reasoning, and generates verifiable query responses about learners' lived experiences with AI for reading, writing, and study tasks.
 
-The research reveals that while dyslexic learners find value in AI tools for [[ai-literacy|supporting literacy]], they face significant [[inclusive-learning|accessibility barriers]] including inconsistent output quality and lack of [[equity-in-ai-education|equitable]] accommodations. This has direct implications for [[student-experience|student-AI interaction]] design and suggests that inclusive AI education must address [[language-learning|language and literacy support]] across both [[k-12|K-12]] and [[higher-ed|higher education]] settings.
+The [[research-methods-aied|research]] reveals that while dyslexic learners find value in AI tools for [[ai-literacy|supporting literacy]], they face significant [[inclusive-learning|accessibility barriers]] including inconsistent output quality and lack of [[equity-in-ai-education|equitable]] accommodations. This has direct implications for [[student-experience|student-AI interaction]] design and suggests that inclusive [[ai-education|AI education]] must address [[language-learning|language and literacy support]] across both [[k-12|K-12]] and [[higher-ed|higher education]] settings.
 
 By grounding analysis in real user discourse rather than controlled experiments, the work complements traditional [[llm-student-modeling-memory|student modeling approaches]] and provides an evidence base for designing AI tools that better serve neurodiverse learners.
 

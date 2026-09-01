@@ -24,7 +24,7 @@ confidence: high
 
 ## Implications
 
-This paper reframes the AI-detection debate for [[assessment|assessment]] design: rather than trying to catch AI use, it argues for verifying **epistemic ownership** — whether the student actually understands what they submit. Coauthorship Integrity offers a positive, validity-grounded alternative to [[academic-integrity|plagiarism/cheating]] framing, connecting to [[assessment-validity]], [[authentic-assessment]], and [[feedback|dialogic feedback]]. The AI Viva demonstrates a scalable, [[agentic-ai|conversational-agent]]-based mechanism for eliciting comprehension evidence at scale, with implications for [[ai-education]], [[higher-ed]], and [[educational-policy-ai|policy]]. It connects to the knowledge base's threads on [[reducing-ai-misuse]], [[generative-ai]], and assessment in the age of GenAI.
+This paper reframes the [[ai-detection]] debate for [[assessment|assessment]] design: rather than trying to catch AI use, it argues for verifying **epistemic ownership** — whether the student actually understands what they submit. Coauthorship Integrity offers a positive, validity-grounded alternative to [[academic-integrity|plagiarism/cheating]] framing, connecting to [[assessment-validity]], [[authentic-assessment]], and [[feedback|dialogic feedback]]. The AI Viva demonstrates a scalable, [[agentic-ai|conversational-agent]]-based mechanism for eliciting comprehension evidence at scale, with implications for [[ai-education]], [[higher-ed]], and [[educational-policy-ai|policy]]. It connects to the knowledge base's threads on [[reducing-ai-misuse]], [[generative-ai]], and assessment in the age of GenAI.
 
 ## Connected Concepts
 

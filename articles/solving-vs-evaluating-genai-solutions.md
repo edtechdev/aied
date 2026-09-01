@@ -12,7 +12,7 @@ sources: ['raw/papers/2607.27586.md']
 confidence: high
 ---
 
-Randomized A/B crossover study (N=220) in a junior-level algorithms course comparing solution evaluation/critique tasks against traditional solution generation. Finds that evaluation-centered tasks produce comparable learning outcomes with a localized homework advantage that does not transfer to summative performance, suggesting evaluation tasks are a viable pedagogical response to the availability of GenAI code generation tools.
+Randomized A/B crossover study (N=220) in a junior-level algorithms course comparing solution evaluation/critique tasks against traditional solution generation. Finds that evaluation-centered tasks produce comparable [[learning-gains|learning outcomes]] with a localized homework advantage that does not transfer to [[summative-assessment|summative]] performance, suggesting evaluation tasks are a viable [[pedagogy|pedagogical]] response to the availability of [[generative-ai|GenAI]] code generation tools.
 
 ## Key Findings
 
@@ -20,7 +20,7 @@ Randomized A/B crossover study (N=220) in a junior-level algorithms course compa
 - Students received significantly higher homework scores during periods in which they evaluated GenAI-generated solutions, but this localized advantage on the modified homework items did not translate into downstream summative gains.
 - Survey data indicated that most students did not report changing their study habits in response to the intervention; however, students who did report adapting their study strategies rated the GenAI-evaluation assignments as significantly more helpful.
 - GenAI evaluation redistributes student effort-directed solution construction toward verification, diagnosis, and judgment, but does not automatically produce stronger conceptual transfer.
-- GenAI-evaluation activities can be incorporated into algorithms coursework without broad performance losses, but meaningful learning gains may require deliberate scaffolding that pushes students beyond simple error diagnosis.
+- GenAI-evaluation activities can be incorporated into algorithms coursework without broad performance losses, but meaningful learning gains may require deliberate [[scaffolding]] that pushes students beyond simple error diagnosis.
 
 ## Study Design & Method
 

@@ -17,7 +17,7 @@ confidence: high
 
 1. **A valid and reliable CT assessment for AI contexts.** CTAT (34 MC items) was developed via Evidence-Centered Design, refined through expert review and cognitive interviews, and field-tested with 461 Year 1–2 students from two vocational schools and two colleges in southern China. IRT analysis confirmed robust psychometric properties.
 2. **CT skills improve across educational pathways.** Students' computational thinking improved as they progressed, with no significant gender-based differences observed.
-3. **Common student difficulties.** Students tended to struggle with identifying appropriate data representation, applying logical operators in correct sequence, and differentiating loop structures — actionable insights for teaching text-based programming.
+3. **Common student difficulties.** Students tended to struggle with identifying appropriate data representation, applying logical operators in correct sequence, and differentiating loop structures — actionable insights for [[teacher-role|teaching]] text-based programming.
 4. **Addresses a scarcity gap.** Integration of AI principles into CT education and assessment remains scarce; CTAT directly addresses assessing CT within AI-training programs at the higher-education level.
 
 ## Implications

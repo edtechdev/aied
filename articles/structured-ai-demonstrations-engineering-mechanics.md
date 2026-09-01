@@ -15,9 +15,9 @@ confidence: high
 > **Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, Emma Lejeune** — arXiv preprint (2026).
 ## Synthesis
 
-This descriptive study documents student LLM use in an undergraduate engineering mechanics course (Spring 2026), responding to the lack of domain-specific empirical evidence for pedagogical policy in engineering education.
+This descriptive study documents student [[llm]] use in an undergraduate engineering mechanics course (Spring 2026), responding to the lack of [[discipline-specific-aied|domain-specific]] empirical evidence for [[pedagogy|pedagogical]] policy in [[engineering-education|engineering education]].
 
-The authors contribute a reproducible survey instrument capturing student AI usage patterns, attitudes, and verification practices, linked to [[learning-gains|academic performance]] metrics — an open methodological framework for other instructors.
+The authors contribute a reproducible survey instrument capturing student AI usage patterns, attitudes, and verification practices, linked to [[learning-gains|academic performance]] metrics — an open [[research-methods-aied|methodological]] framework for other instructors.
 
 A deployable sequence of nine structured, instructor-led AI demonstrations models strategic LLM delegation and evaluation for students, treating AI use as a taught skill rather than an assumed behavior.
 

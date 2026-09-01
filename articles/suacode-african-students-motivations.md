@@ -11,18 +11,18 @@ sources: ['raw/papers/2607.22940.md']
 confidence: high
 ---
 
-Addo, Munagah, Kumbol, Uchidiuno and Boateng study why African students enroll in SuaCode, a smartphone-based online coding course (from the team behind the Kwame AI teaching assistant) addressing the fact that under 1% of African secondary-school leavers have fundamental coding skills. Understanding learner motivations informs the design of accessible, AI-supported MOOCs for low-resource contexts. The work speaks directly to [[equity-in-ai-education]] and [[inclusive-learning]], to broadening participation in [[cs-education]], and to policy questions in [[ai-literacy-equity-programming-policy]]; outcome evidence for AI-supported programming learning connects to [[genai-meta-analysis-programming-learning]].
+Addo, Munagah, Kumbol, Uchidiuno and Boateng study why African students enroll in SuaCode, a smartphone-based online coding course (from the team behind the Kwame AI [[teacher-role|teaching]] assistant) addressing the fact that under 1% of African secondary-school leavers have fundamental coding skills. Understanding learner motivations informs the design of accessible, AI-supported MOOCs for low-resource contexts. The work speaks directly to [[equity-in-ai-education]] and [[inclusive-learning]], to broadening participation in [[cs-education]], and to policy questions in [[ai-literacy-equity-programming-policy]]; outcome evidence for AI-supported programming learning connects to [[genai-meta-analysis-programming-learning]].
 
 ## Key Findings
 
 - SuaCode is a smartphone-based online coding course whose enrollment motivations were studied among African students.
 - Fewer than 1% of African secondary-school leavers possess fundamental coding skills, motivating accessible, low-cost routes into [[cs-education]].
 - Understanding learner motivations informs the design of accessible, AI-supported MOOCs for low-resource contexts.
-- The course is developed by the team behind the Kwame AI teaching assistant, connecting motivation research to AI-assisted programming learning.
+- The course is developed by the team behind the Kwame AI teaching assistant, connecting motivation [[research-methods-aied|research]] to AI-assisted programming learning.
 
 ## Implications
 
-Studying why learners enroll grounds course design in actual learner needs, connecting to [[self-determination-theory]] and [[motivation]] research. Delivering coding education on smartphones in low-resource contexts directly engages [[digital-divide]] and [[equity-in-ai-education]], while the tie to the Kwame AI assistant links motivation findings to outcome evidence on AI-supported programming learning (see [[genai-meta-analysis-programming-learning]]).
+Studying why learners enroll grounds [[learning-design|course design]] in actual learner needs, connecting to [[self-determination-theory]] and [[motivation]] research. Delivering coding education on smartphones in low-resource contexts directly engages [[digital-divide]] and [[equity-in-ai-education]], while the tie to the Kwame AI assistant links motivation findings to outcome evidence on AI-supported programming learning (see [[genai-meta-analysis-programming-learning]]).
 
 ## Connected Concepts
 

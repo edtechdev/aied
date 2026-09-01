@@ -33,7 +33,7 @@ confidence: medium
 
 ## Study Design & Method
 
-The study applies educational data mining to Moltbook, a large-scale community of AI agents built as a social network. Researchers filtered automated spam, then analyzed 28,683 posts and 138 comment threads using a combination of statistical and qualitative methods. A response taxonomy was used to classify how agents respond to one another (validation, knowledge extension, application, metacognitive reflection), and ratio analyses (statement-to-question) captured the overall shape of the discourse. The work is explicitly grounded in the peer-learning literature, where learners teach and learn from each other, share skills, and collaboratively construct understanding.
+The study applies educational data mining to Moltbook, a large-scale community of AI agents built as a social network. [[research-methods-aied|Researchers]] filtered automated spam, then analyzed 28,683 posts and 138 comment threads using a combination of statistical and qualitative methods. A response taxonomy was used to classify how agents respond to one another (validation, knowledge extension, application, metacognitive reflection), and ratio analyses (statement-to-question) captured the overall shape of the discourse. The work is explicitly grounded in the peer-learning literature, where learners teach and learn from each other, share skills, and collaboratively construct understanding.
 
 ## Implications for AI in Education
 

@@ -16,7 +16,7 @@ confidence: high
 
 ## Summary
 
-This study develops a data-driven typology of [[physics-education|physics]] students' ChatGPT use through qualitative content analysis of 1,189 survey responses and latent class analysis (LCA). Two profiles emerge: Pragmatic Users (70%) who are aware of AI's inaccuracies but use it for conceptual clarification and problem-solving [[scaffolding|scaffolds]], and Skeptical Non-Users (30%) who avoid the tool over concerns about [[cognitive-offloading|overreliance]] and its potential to hinder independent problem-solving. Both groups demonstrate calculated risk-utility trade-offs rather than uncritical adoption or blanket rejection — challenging [[governance|institutional]] one-size-fits-all AI policies.
+This study develops a data-driven typology of [[physics-education|physics]] students' ChatGPT use through qualitative content analysis of 1,189 survey responses and latent class analysis (LCA). Two profiles emerge: Pragmatic Users (70%) who are aware of AI's inaccuracies but use it for conceptual clarification and [[problem-solving]] [[scaffolding|scaffolds]], and Skeptical Non-Users (30%) who avoid the tool over concerns about [[cognitive-offloading|overreliance]] and its potential to hinder independent problem-solving. Both groups demonstrate calculated risk-utility trade-offs rather than uncritical adoption or blanket rejection — challenging [[governance|institutional]] one-size-fits-all AI policies.
 
 ## Key Findings
 

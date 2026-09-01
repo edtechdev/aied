@@ -11,20 +11,20 @@ level: [higher ed]
 sources: ['raw/papers/unesco-ai-guidelines-chemical-education-2026.md']
 confidence: high
 ---
-> **Synthesis:** Li, Tolosa, Rivas Echeverria, and Marquez (2026) — a *Perspective* in the *Journal of Chemical Education* — translate UNESCO's AI ethics and education guidance (2022–2025) into **chemical education**, arguing that responsible AI integration requires a shift from a **content-delivery model to a knowledge-creation model** guided by high-level ethical frameworks. They organize current GenAI-in-chemistry research into four pillars — **AI chemical literacy, technical accuracy and reasoning, pedagogical principles, and ethics/epistemology** — and warn of **epistemic drift**: reliance on opaque algorithms may detach scientific inquiry from causal understanding. The article emphasizes **critical AI chemical literacy**, targeted [[teacher-education|teacher training]], human-reasoning-prioritizing assessment, and closing the global disparity where high-income institutions have adopted AI tools while low-income regions lag. 
+> **Synthesis:** Li, Tolosa, Rivas Echeverria, and Marquez (2026) — a *Perspective* in the *Journal of Chemical Education* — translate UNESCO's AI ethics and education guidance (2022–2025) into **chemical education**, arguing that responsible AI integration requires a shift from a **content-delivery model to a knowledge-creation model** guided by high-level [[ethics|ethical]] frameworks. They organize current [[generative-ai|GenAI]]-in-[[chemistry-education|chemistry]] research into four pillars — **AI chemical literacy, technical accuracy and reasoning, pedagogical principles, and ethics/epistemology** — and warn of **epistemic drift**: reliance on opaque algorithms may detach scientific inquiry from causal understanding. The article emphasizes **critical AI chemical literacy**, targeted [[teacher-education|teacher training]], human-reasoning-prioritizing assessment, and closing the global disparity where high-income institutions have adopted AI tools while low-income regions lag. 
 
 ## The four pillars of GenAI in chemical education
 
 The authors synthesize recent (2024–2025) research into four pillars:
 
 1. **AI chemical literacy** — Students value [[conversational-ai|chatbots]] for [[feedback]] but often show uncritical acceptance of errors and struggle to evaluate output validity without guidance; most students use AI and report efficiency gains while fearing reduced [[critical-thinking|critical thinking]] and data-[[privacy]] risks.
-2. **Technical accuracy and reasoning** — Frontier models (e.g., o1) can outperform average chemists on general knowledge but struggle with **spatial reasoning (NMR)** and are overconfident in wrong answers; [[llm|LLM]] perform poorly on rigorous quantitative tasks (ChemBench, QCBench), and simple notation changes degrade retrieval (ChemLMs). Direct [[llm|LLM]] queries for molecular properties often fail.
-3. **Pedagogical principles** — Unrestricted access to AI answers can bypass the **productive struggle** needed for deep conceptual learning; local [[rag|RAG]]-based [[intelligent-tutoring|tutors]] that question rather than answer show promise; students struggle to write effective prompts initially, but structured frameworks improve interaction over time.
+2. **Technical accuracy and reasoning** — Frontier models (e.g., o1) can outperform average chemists on general knowledge but struggle with **spatial reasoning (NMR)** and are overconfident in wrong answers; [[llm|LLM]] perform poorly on rigorous [[quantitative-research|quantitative]] tasks (ChemBench, QCBench), and simple notation changes degrade retrieval (ChemLMs). Direct [[llm|LLM]] queries for molecular properties often fail.
+3. **Pedagogical principles** — Unrestricted access to AI answers can bypass the **[[desirable-difficulties|productive struggle]]** needed for deep conceptual learning; local [[rag|RAG]]-based [[intelligent-tutoring|tutors]] that question rather than answer show promise; students struggle to write effective prompts initially, but structured frameworks improve interaction over time.
 4. **Ethics and epistemology** — Students are optimistic about AI utility but fear labor displacement and loss of human ownership/authorship; policy ambiguity burdens students navigating ethical boundaries; generative image models could amplify demographic biases (e.g., the "white male chemist"); and **reliance on opaque data-driven models may detach inquiry from causal understanding — "epistemic drift."**
 
 ## Translating UNESCO guidance to chemistry
 
-UNESCO's *Recommendation on the Ethics of AI* (2021, adopted by 193 Member States) and its education guidance (AI and Education: Guidance for Policy-Makers; Harnessing AI in Higher Education; ChatGPT and Higher Education) establish global standards for fairness, transparency, and [[human-in-the-loop-ai|human oversight]]. The authors translate these into chemistry-specific action:
+UNESCO's *Recommendation on the Ethics of AI* (2021, adopted by 193 Member States) and its education guidance (AI and Education: Guidance for Policy-Makers; Harnessing [[higher-ed|AI in Higher Education]]; ChatGPT and Higher Education) establish global standards for [[bias-mitigation|fairness]], transparency, and [[human-in-the-loop-ai|human oversight]]. The authors translate these into chemistry-specific action:
 
 - **Human-centered [[pedagogy]]** — AI should serve learning and human reasoning, not replace scientific judgment.
 - **Teacher training** — STEM/chemistry [[teacher-role|educators]] must be equipped to use AI effectively in teaching.
@@ -33,11 +33,11 @@ UNESCO's *Recommendation on the Ethics of AI* (2021, adopted by 193 Member State
 
 ## Epistemic drift
 
-The article's central conceptual warning is **[[philosophy-of-ai-in-education|epistemic drift]]**: when students and researchers rely on opaque, data-driven models, scientific inquiry risks becoming detached from causal understanding and theory. This connects directly to the knowledge base's [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns — the risk that AI substitutes explanation and reasoning rather than supporting them.
+The article's central conceptual warning is **[[philosophy-of-ai-in-education|epistemic drift]]**: when students and [[research-methods-aied|researchers]] rely on opaque, data-driven models, scientific inquiry risks becoming detached from causal understanding and theory. This connects directly to the knowledge base's [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns — the risk that AI substitutes explanation and reasoning rather than supporting them.
 
 ## Prompt engineering for scientific illustration
 
-The authors demonstrate prompt engineering techniques for **scientific illustration generation** in chemistry and physical chemistry, discussing their advantages (rapid visualization of molecular phenomena) and limitations (accuracy, representational bias), underscoring the need for students to interrogate AI-generated visualizations.
+The authors demonstrate [[prompt-engineering|prompt engineering]] techniques for **scientific illustration generation** in chemistry and physical chemistry, discussing their advantages (rapid [[visualization]] of molecular phenomena) and limitations (accuracy, representational bias), underscoring the need for students to interrogate AI-generated visualizations.
 
 ## Policy gap and global disparity
 

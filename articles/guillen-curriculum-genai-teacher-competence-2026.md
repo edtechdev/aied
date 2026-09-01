@@ -14,7 +14,7 @@ confidence: high
 
 ## Core Finding
 
-The study confirms that an extended TAM framework — combining [[self-efficacy]], perceived usefulness, perceived ease of use, perceived enjoyment, and attitude of use — predicts teachers' behavioural intention to use GenAI tools in curriculum design, and that this behavioural intention is the strongest direct predictor of teachers' pedagogical digital competence (H12: β = 0.479, t = 10.226, f² = 0.298). The IPMA analysis reinforces this: behavioural intention combined the highest importance (≈0.49) and performance (≈86) for predicting digital competence, identifying it as the strategic lever for training interventions. Notably, self-efficacy was the exogenous root of the model, feeding usefulness (β = 0.446), ease of use (β = 0.500), and especially enjoyment (β = 0.805, f² = 1.839 — the largest effect in the model).
+The study confirms that an extended TAM framework — combining [[self-efficacy]], perceived usefulness, perceived ease of use, perceived enjoyment, and attitude of use — predicts teachers' behavioural intention to use GenAI tools in [[curriculum-design|curriculum design]], and that this behavioural intention is the strongest direct predictor of teachers' [[pedagogy|pedagogical]] digital competence (H12: β = 0.479, t = 10.226, f² = 0.298). The IPMA analysis reinforces this: behavioural intention combined the highest importance (≈0.49) and performance (≈86) for predicting digital competence, identifying it as the strategic lever for training interventions. Notably, self-efficacy was the exogenous root of the model, feeding usefulness (β = 0.446), ease of use (β = 0.500), and especially enjoyment (β = 0.805, f² = 1.839 — the largest effect in the model).
 
 ## The Extended TAM Model
 
@@ -31,15 +31,15 @@ The model explained moderate-high variance in the perceptual factors (PU R² = 0
 
 ## Self-Efficacy as the Root Driver
 
-Self-efficacy is the sole exogenous variable and the most powerful effect in the model. Consistent with Bandura's Social Learning Theory, teachers confident in their ability to solve technical problems, learn autonomously, and innovate are substantially more likely to perceive GenAI tools as useful, easy, and enjoyable. The authors argue that a sense of effectiveness builds "technoptimism," reducing resistance to new technologies and accelerating implementation — a key consideration for [[teacher-ai-competency]] and [[educational-development]] programs.
+Self-efficacy is the sole exogenous variable and the most powerful effect in the model. Consistent with Bandura's Social [[learning-theories|Learning Theory]], teachers confident in their ability to solve technical problems, learn autonomously, and innovate are substantially more likely to perceive GenAI tools as useful, easy, and enjoyable. The authors argue that a sense of effectiveness builds "technoptimism," reducing resistance to new [[ai-technologies|technologies]] and accelerating implementation — a key consideration for [[teacher-ai-competency]] and [[educational-development]] programs.
 
 ## Behavioural Intention as a Competence Lever
 
-A novel contribution is the explicit demonstration that behavioural intention predicts digital competence — a relationship not previously established in the traditional TAM. The authors interpret this through practice: as teachers declare intent to learn and use AI tools, they actively seek methodological knowledge, experiment (even through failures), and build skills through use, leading to real competence gains. Conversely, replicating familiar methods and standard edtech limits competence development in a rapidly evolving technological landscape.
+A novel contribution is the explicit demonstration that behavioural intention predicts digital competence — a relationship not previously established in the traditional TAM. The authors interpret this through practice: as teachers declare intent to learn and use AI tools, they actively seek [[research-methods-aied|methodological]] knowledge, experiment (even through failures), and build skills through use, leading to real competence gains. Conversely, replicating familiar methods and standard edtech limits competence development in a rapidly evolving technological landscape.
 
 ## Context: The Digital Divide
 
-The study is grounded in the Dominican Republic's pronounced dual digital divide: in rural areas 69.7% of low-income households lack home internet access versus 34.6% in urban contexts, with even high-income rural households (42.4%) lagging metropolitan areas (10.6%). These structural constraints mean individual-level determinants coexist with — and are constrained by — infrastructure and connectivity gaps, shaping the real possibilities of [[generative-ai|GenAI]] integration.
+The study is grounded in the Dominican Republic's pronounced dual [[digital-divide|digital divide]]: in rural areas 69.7% of low-income households lack home internet access versus 34.6% in urban contexts, with even high-income rural households (42.4%) lagging metropolitan areas (10.6%). These structural constraints mean individual-level determinants coexist with — and are constrained by — infrastructure and connectivity gaps, shaping the real possibilities of [[generative-ai|GenAI]] integration.
 
 ## Relevance to the Knowledge Base
 

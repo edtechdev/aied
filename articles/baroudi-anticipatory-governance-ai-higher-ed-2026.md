@@ -11,7 +11,7 @@ sources: ['raw/papers/baroudi-anticipatory-governance-ai-higher-ed-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** This scoping review of 19 sources (2020–2025) examines how [[governance|anticipatory governance]] and [[administrator|leadership]] are conceptualized and operationalized for [[generative-ai|AI]] implementation in [[higher-ed|higher education]]. It finds that institutions must shift from reactive to proactive, foresight-driven leadership emphasizing stakeholder [[student-engagement|engagement]], data literacy, [[collaborative-learning|collaboration]], and inclusive policy frameworks. Empowering and distributive leadership styles increase AI adoption, yet formal senior AI roles remain rare. A persistent theory-implementation gap is driven by weak policy frameworks and limited digital infrastructure, especially in the [[global-south|Global South]]. The review identifies a lack of non-Western research and an absence of longitudinal or causal evidence as key gaps.
+> **Synthesis:** This [[meta-analysis-systematic-review|scoping review]] of 19 sources (2020–2025) examines how [[governance|anticipatory governance]] and [[administrator|leadership]] are conceptualized and operationalized for [[generative-ai|AI]] implementation in [[higher-ed|higher education]]. It finds that institutions must shift from reactive to proactive, foresight-driven leadership emphasizing stakeholder [[student-engagement|engagement]], data literacy, [[collaborative-learning|collaboration]], and inclusive policy frameworks. Empowering and distributive leadership styles increase AI adoption, yet formal senior AI roles remain rare. A persistent theory-implementation gap is driven by weak policy frameworks and limited digital infrastructure, especially in the [[global-south|Global South]]. The review identifies a lack of non-Western [[research-methods-aied|research]] and an absence of longitudinal or causal evidence as key gaps.
 
 ## Core Finding
 
@@ -23,7 +23,7 @@ The dominant theme is a shift from reactive to proactive leadership. Empowering 
 
 ## Institutional Readiness and Upskilling
 
-Many institutions remain at an early stage of preparedness. Aligning vision, mission, and curricula with the Fourth Industrial Revolution, investing in [[ai-literacy|AI literacy]] and hands-on training for [[teacher-role|faculty and staff]], and addressing technophobia are emphasized. Change-management models (Valente's contagion model; Rieber & Welliver's five-stage framework) and cross-functional AI task forces support system-level change.
+Many institutions remain at an early stage of preparedness. Aligning vision, mission, and curricula with the Fourth Industrial Revolution, investing in [[ai-literacy|AI literacy]] and hands-on training for [[teacher-role|faculty and staff]], and addressing technophobia are emphasized. [[change-management]] models (Valente's contagion model; Rieber & Welliver's five-stage framework) and cross-functional AI task forces support system-level change.
 
 ## Equity and the Global South
 

@@ -12,9 +12,9 @@ confidence: medium
 
 ## Core Idea
 
-**Cognitive Agent Compilation (CAC)** is a framework that uses a strong teacher LLM to compile problem-solving knowledge into an explicit, inspectable target agent. Unlike end-to-end LLM tutoring approaches, CAC separates the agent into three components:
+**Cognitive Agent Compilation (CAC)** is a framework that uses a strong teacher [[llm]] to compile [[problem-solving]] knowledge into an explicit, inspectable target agent. Unlike end-to-end LLM tutoring approaches, CAC separates the agent into three components:
 
-1. **Knowledge representation** — explicit, structured representation of domain knowledge (skills, misconceptions, strategies)
+1. **Knowledge representation** — explicit, structured representation of domain knowledge (skills, [[misconceptions]], strategies)
 2. **Problem-solving policy** — how the agent applies knowledge to solve problems
 3. **Verification and update rules** — mechanisms for checking correctness and updating the knowledge state
 
@@ -25,7 +25,7 @@ The goal is **bounded-knowledge AI** for education: agents that know what they k
 LLMs are widely used for tutoring, feedback generation, and content creation, but their broad pretraining makes them hard to constrain. Key problems:
 
 - **Inability to "not know"**: LLMs struggle to simulate a state of not knowing, making them poor proxies for student learners. Evidence suggests Chain-of-Thought and reasoning models operate fundamentally differently from human cognition.
-- **Expert blind spot**: Even human experts struggle to teach effectively without pedagogical training. LLMs, having absorbed vast unconstrained information, face an amplified version of this problem.
+- **Expert blind spot**: Even human experts struggle to teach effectively without [[pedagogy|pedagogical]] training. LLMs, having absorbed vast unconstrained information, face an amplified version of this problem.
 - **Inspectability gap**: Educators need to know what a system assumes the learner knows; learners benefit when the system can justify actions in terms of explicit skills, misconceptions, and strategies. Opaque LLMs can't provide this.
 
 ## Architecture
@@ -40,10 +40,10 @@ A proof of concept was implemented using **Small Language Models (SLMs)**, surfa
 
 ## Connection to Existing Work
 
-CAC connects to several threads in AI education research:
+CAC connects to several threads in [[ai-education|AI education]] [[research-methods-aied|research]]:
 
-- **[[huang-interpretable-knowledge-tracing-2026]]**: CAC makes knowledge tracing explicit and inspectable, complementing interpretable approaches like IRT-based knowledge tracing
-- **[[neural-symbolic-knowledge-tracing]]**: Shares the goal of combining explicit (symbolic) knowledge representation with neural approaches for interpretable learner modeling
+- **[[huang-interpretable-knowledge-tracing-2026]]**: CAC makes [[knowledge-tracing|knowledge tracing]] explicit and inspectable, complementing interpretable approaches like IRT-based knowledge tracing
+- **[[neural-symbolic-knowledge-tracing]]**: Shares the goal of combining explicit (symbolic) knowledge representation with neural approaches for interpretable [[student-modeling|learner modeling]]
 - **[[agentic-workflows-education]]**: CAC is a specific agentic architecture for education, separated into knowledge, policy, and verification components
 - **[[adaptive-learning]]**: CAC enables adaptive behavior grounded in explicit, editable learner models
 - **[[llm-student-modeling-memory]]**: CAC addresses the learner modeling challenge from the knowledge representation angle, complementing memory-based approaches
@@ -55,7 +55,7 @@ CAC connects to several threads in AI education research:
 
 - **Scalability vs. control trade-off**: The proof of concept surfaces tension between explicit, editable representations and the scalability of end-to-end LLM approaches
 - **Compilation fidelity**: How faithfully can a teacher LLM compile its knowledge into a bounded agent?
-- **Domain breadth**: The initial implementation is domain-specific — can CAC generalize across subjects?
+- **Domain breadth**: The initial implementation is [[discipline-specific-aied|domain-specific]] — can CAC generalize across subjects?
 - **Bounded rationality in practice**: Does bounded-knowledge AI actually improve educational outcomes compared to unbounded LLM tutors?
 
 ## Connected Concepts

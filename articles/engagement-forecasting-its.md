@@ -15,7 +15,7 @@ confidence: high
 
 ## Overview
 
-This paper tackles a core ITS challenge: predicting when students will disengage so tutors can intervene before it's too late. It introduces **engagement forecasting** as a supervised prediction task with two complementary targets: minutes practiced per week (effort) and new skills mastered per week (progress).
+This paper tackles a core ITS challenge: predicting when students will disengage so tutors can intervene before it's too late. It introduces **[[student-engagement|engagement]] forecasting** as a supervised prediction task with two complementary targets: minutes practiced per week (effort) and new skills mastered per week (progress).
 
 **Benchmarking 15 predictors on 425 middle-school students:**
 - Feature-based models (regressions, decision trees, neural networks) reduce **MAE by 22–33%** compared to heuristic baselines
@@ -41,11 +41,11 @@ The finding that effort and progress have distinct predictive signatures is prac
 
 This paper extends the [[zerkouk-comprehensive-review-its-2025]] findings on what makes ITS effective by adding a temporal prediction layer. Where prior work evaluates whether tutoring works on average, engagement forecasting asks *when* it works and *for whom* — connecting to the personalized intervention paradigm in [[collaborative-ai-tutoring]].
 
-The focus on middle-school students (N=425) aligns with the [[stanford-evidence-base-ai-k12-2026]], which calls for more rigorous K-12 efficacy studies. The EDM 2026 venue, combined with [[genai-tutor-engagement-patterns]], suggests engagement analytics is becoming a recognized subfield within educational data mining.
+The focus on middle-school students (N=425) aligns with the [[stanford-evidence-base-ai-k12-2026]], which calls for more rigorous [[k-12]] efficacy studies. The EDM 2026 venue, combined with [[genai-tutor-engagement-patterns]], suggests engagement analytics is becoming a recognized subfield within educational data mining.
 
 ## Methodological Contribution
 
-The paper establishes a **reproducible benchmark** for engagement forecasting, with clearly defined prediction targets, a documented feature set, and public interaction log data. This is significant for the benchmark landscape in AIED, where many systems are evaluated on proprietary data with incomparable metrics.
+The paper establishes a **reproducible [[benchmark]]** for engagement forecasting, with clearly defined prediction targets, a documented feature set, and public interaction log data. This is significant for the benchmark landscape in [[ai-education|AIED]], where many systems are evaluated on proprietary data with incomparable metrics.
 
 ## Connected Concepts
 

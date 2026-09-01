@@ -25,7 +25,7 @@ Ben-Zion, Einhorn Zarzecki, Glazer, and Finkelstein (2025) present a practical a
 ## Implications
 
 - Lowers the barrier for teachers and students to build custom simulations tailored to specific learning goals, lecture emphasis, or course topics.
-- Shifts the [[teacher-role|educator role]] toward pedagogical judgment (validating accuracy, adding constraints, aligning with research-based teaching) rather than programming.
+- Shifts the [[teacher-role|educator role]] toward pedagogical judgment (validating accuracy, adding constraints, aligning with [[research-methods-aied|research]]-based teaching) rather than programming.
 - Introduces students to AI as a tool for scientific exploration, but requires oversight because AI output can be physically inaccurate.
 - Supports [[active-learning|active]] and exploratory learning: students can create, refine, and test simulations, promoting [[critical-thinking|critical thinking]] and awareness of model limitations.
 - The prompt-and-refine workflow has potential to generalize beyond physics to other scien

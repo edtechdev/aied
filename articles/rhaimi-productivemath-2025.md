@@ -17,7 +17,7 @@ confidence: medium
 
 ## The challenge it addresses
 
-Productive Failure engages students in problem-solving before instruction, but designing effective PF problems is challenging (Kapur, 2015). ProductiveMath addresses this by using [[generative-ai|generative AI]] to support teachers in creating PF problems — lowering the design burden that otherwise makes PF difficult to implement.
+Productive Failure engages students in [[problem-solving]] before instruction, but designing effective PF problems is challenging (Kapur, 2015). ProductiveMath addresses this by using [[generative-ai|generative AI]] to support teachers in creating PF problems — lowering the design burden that otherwise makes PF difficult to implement.
 
 ## Three studies
 

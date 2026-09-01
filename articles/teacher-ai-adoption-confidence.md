@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.00343.md']
 confidence: high
 ---
 
-A study of 260 Filipino teachers examined how institutional support, teacher confidence, and teacher concerns influence AI adoption attitudes:
+A study of 260 Filipino teachers examined how [[governance|institutional]] support, teacher confidence, and teacher concerns influence AI adoption attitudes:
 
 - **Institutional support significantly predicted both teacher confidence and positive attitudes toward AI adoption.**
 - **Teacher concerns did NOT moderate these relationships** — concerns didn't weaken or strengthen the effect of support.

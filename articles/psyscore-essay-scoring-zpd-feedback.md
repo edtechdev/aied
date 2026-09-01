@@ -18,7 +18,7 @@ PsyScore integrates [[assessment|diagnostic assessment]] with [[scaffolding|inst
 - **Problem:** [[automated-essay-scoring|AES]] systems treat scoring and feedback as separate; neural [[item-response-theory|IRT]] scoring lacks interpretability; [[llm|LLM]] feedback is ability-agnostic.
 - **Solution:** Unified psychometric latent space (θ) via Neural GPCM Trait-Adaptive Scorer.
 - **Scoring performance:** QWK 0.747 (besting prior SOTA 0.722); 1st in 6/8 ASAP++ prompts and 10/11 trait dimensions.
-- **Feedback quality:** ZPD-based strategy mapping (Explicit Correction for θ<-1, [[scaffolding|Scaffolding]] for -1<θ<1, [[socratic-method|Socratic]] for θ>1). Multi-agent fusion from Llama-4-Scout, Qwen3-235B, GPT-4o.
+- **[[ai-feedback-quality|Feedback quality]]:** ZPD-based strategy mapping (Explicit Correction for θ<-1, [[scaffolding|Scaffolding]] for -1<θ<1, [[socratic-method|Socratic]] for θ>1). Multi-agent fusion from Llama-4-Scout, Qwen3-235B, GPT-4o.
 - **Evaluation:** >90% win rate in Actionability vs GPT-4o, Llama-4-Scout, Qwen3.
 - **Implication:** [[psychometrically-aware-ai|psychometrically-aware AI]] can unify assessment and instruction, transforming [[automated-essay-scoring|automated essay scoring]] from [[summative-assessment|summative]] to [[formative-assessment|formative]].
 ## Connected Concepts

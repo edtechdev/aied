@@ -16,7 +16,7 @@ confidence: high
 
 **Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, Khyati Goyal** — ACM SIGCSE Virtual 2026, submitted 29 Jun 2026
 
-Semester-long study of 96 CS students shows LLM usage dropped 42.7 percentage points when students moved from individual to team work; team context reduces deliberate LLM engagement.
+Semester-long study of 96 CS students shows [[llm]] usage dropped 42.7 percentage points when students moved from individual to team work; team context reduces deliberate LLM [[student-engagement|engagement]].
 
 ## Key Contributions
 
@@ -24,7 +24,7 @@ Semester-long study of 96 CS students shows LLM usage dropped 42.7 percentage po
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
 
 ## Connected Concepts
 

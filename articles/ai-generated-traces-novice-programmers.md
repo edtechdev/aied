@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.03288.md']
 confidence: high
 ---
 
-Multi-institutional study on Generated Animated Traces (GATs) for CS1. Found that mid-engagement students may experience a performance decrement due to coordination costs (Expertise-Reversal Effect). [[cs-education]], [[scaffolding]], [[personalized-learning]], [[stem-education]], [[adaptive-learning]].
+Multi-[[governance|institutional]] study on Generated Animated Traces (GATs) for CS1. Found that mid-engagement students may experience a performance decrement due to coordination costs (Expertise-Reversal Effect). [[cs-education]], [[scaffolding]], [[personalized-learning]], [[stem-education]], [[adaptive-learning]].
 
 ## Key Findings
 
@@ -23,7 +23,7 @@ Multi-institutional study on Generated Animated Traces (GATs) for CS1. Found tha
 
 ## Study Design & Method
 
-The multi-institutional study compared GATs with textual explanations in introductory programming courses at two universities, one teaching Python and one teaching Java. Immediate learning performance and learner experience were measured at the point of instruction, followed by end-of-course engagement and exam performance to test longer-term effects. Learner engagement profiles were derived from the data and used as moderators, allowing the authors to detect differential effects that aggregate analyses could mask. The framing draws on program-visualization research and cognitive load theory, in which the effectiveness of visualizations depends on design and context.
+The multi-institutional study compared GATs with textual explanations in introductory programming courses at two universities, one [[teacher-role|teaching]] Python and one teaching Java. Immediate learning performance and [[student-experience|learner experience]] were measured at the point of instruction, followed by end-of-course engagement and exam performance to test longer-term effects. [[student-engagement|Learner engagement]] profiles were derived from the data and used as moderators, allowing the authors to detect differential effects that aggregate analyses could mask. The framing draws on program-[[visualization]] [[research-methods-aied|research]] and [[cognitive-offloading|cognitive load]] theory, in which the effectiveness of visualizations depends on design and context.
 
 ## Implications for AI in Education
 

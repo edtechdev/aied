@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T09:58:42-04:00"
+updated: "2026-09-01T09:45:00-04:00"
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, well-being]
 level: [higher ed, k 12]
@@ -16,7 +16,7 @@ confidence: high
 - The page claims AI affects students in both positive and negative directions, often simultaneously — the same tool can help and harm depending on design and use. Can you give an example from your own experience where AI helped and hurt at the same time?
 - It describes a 'performance-learning gap': students do better with AI but worse on later unassisted tasks. How do you think that gap arises, and what would it take to close it?
 - If over-reliance on AI means delegating the reasoning you actually need to practice, where would you draw the line between legitimate help and offloading that erodes learning?
-- The research asks whether simply knowing AI is available changes student effort. Do you think awareness of AI makes students work harder, less hard, or differently — and how would you test your belief?
+- The [[research-methods-aied|research]] asks whether simply knowing AI is available changes student effort. Do you think awareness of AI makes students work harder, less hard, or differently — and how would you test your belief?
 - Given that AI access and effectiveness vary across student populations, what equity concerns do you think matter most when a course adopts an AI tool, and who is responsible for addressing them?
 
 ## Introduction
@@ -133,3 +133,5 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
+- [[genai-decision-capability-cognitive-load-2026]] — GenAI and students' perceived decision capability (cognitive-load account)
+- [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professionalization

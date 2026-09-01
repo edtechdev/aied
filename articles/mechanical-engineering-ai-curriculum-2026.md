@@ -23,7 +23,7 @@ confidence: high
 
 ## Curriculum Design & Approach
 
-The proposed curriculum integrates AI directly into existing thermal engineering topics instead of requiring long-duration AI courses from computer science departments, which the authors argue would further increase academic workload. The three-tier structure (introductory, application, advanced) moves students from foundational AI models toward engineering-specific problem solving and multidisciplinary communication. This project-based approach mirrors [[project-based-learning]] principles, treating AI not as a standalone subject but as an engineering tool embedded in domain problems. The curriculum is available in open-access repositories, contributing to the broader movement of embedding computational and [[ai-literacy|AI literacy]] in [[stem-education]] and engineering programs.
+The proposed curriculum integrates AI directly into existing thermal engineering topics instead of requiring long-duration AI courses from computer science departments, which the authors argue would further increase academic workload. The three-tier structure (introductory, application, advanced) moves students from foundational AI models toward engineering-specific [[problem-solving|problem solving]] and multidisciplinary communication. This project-based approach mirrors [[project-based-learning]] principles, treating AI not as a standalone subject but as an engineering tool embedded in domain problems. The curriculum is available in open-access repositories, contributing to the broader movement of embedding computational and [[ai-literacy|AI literacy]] in [[stem-education]] and engineering programs.
 
 ## Implications for AI in Education
 

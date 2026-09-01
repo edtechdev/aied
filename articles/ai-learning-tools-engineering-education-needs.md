@@ -12,11 +12,11 @@ sources: ['raw/papers/2607.26338.md']
 confidence: high
 ---
 
-Survey of 206 engineering students: AI chatbots provide greatest perceived benefit as relief from competence frustration, smaller benefits for autonomy, weakest for relatedness. Baseline motivational states matter more than demographics; inattention moderates how baseline competence and autonomy relate to perceived AI benefits. Offers design principles for engineering-specific AI learning tools.
+Survey of 206 engineering students: AI [[conversational-ai|chatbots]] provide greatest perceived benefit as relief from competence frustration, smaller benefits for autonomy, weakest for relatedness. Baseline [[motivation|motivational]] states matter more than demographics; inattention moderates how baseline competence and autonomy relate to perceived AI benefits. Offers design principles for engineering-specific AI learning tools.
 
-**Relevance to AI in Education:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
+**Relevance to [[ai-education|AI in Education]]:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
 
-This research connects to the growing body of work on [[ai-literacy]] and [[teacher-role]], highlighting both the promise and limitations of AI tools in educational settings.
+This [[research-methods-aied|research]] connects to the growing body of work on [[ai-literacy]] and [[teacher-role]], highlighting both the promise and limitations of AI tools in educational settings.
 
 ## Connected Concepts
 

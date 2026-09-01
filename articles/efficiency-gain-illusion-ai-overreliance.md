@@ -20,7 +20,7 @@ Across three pre-registered studies (N=2,691), this paper documents systematic m
 
 ### The Overreliance Feedback Loop
 
-Critically, the authors identify a **session-level carryover effect**: prior AI use in a session leads to further AI adoption, which in turn entrenches the miscalibration about time savings. This creates a **self-reinforcing feedback loop** — initial AI use begets more AI use, and the illusion of efficiency makes it harder for users to self-correct.
+Critically, the authors identify a **session-level carryover effect**: prior AI use in a session leads to further AI adoption, which in turn entrenches the miscalibration about time savings. This creates a **self-reinforcing [[feedback|feedback loop]]** — initial AI use begets more AI use, and the illusion of efficiency makes it harder for users to self-correct.
 
 ## Connection to Over-Reliance
 
@@ -28,7 +28,7 @@ This study provides a cognitive mechanism for the [[cognitive-offloading|Over-Re
 
 ## Implications for ai-literacy
 
-These results have direct implications for AI literacy education: users need not only technical knowledge about AI capabilities and limitations, but also **metacognitive calibration** about their own AI use patterns. Simply telling people that AI may not save time is insufficient — the illusion is perceptual and self-reinforcing.
+These results have direct implications for [[ai-literacy|AI literacy]] education: users need not only technical knowledge about AI capabilities and limitations, but also **[[metacognition|metacognitive]] calibration** about their own AI use patterns. Simply telling people that AI may not save time is insufficient — the illusion is perceptual and self-reinforcing.
 
 ## Connected Concepts
 

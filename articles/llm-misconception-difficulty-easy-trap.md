@@ -12,11 +12,11 @@ sources: ['raw/papers/2607.26067.md']
 confidence: high
 ---
 
-LLMs systematically underestimate the difficulty of misconception-driven items ('The Easy Trap'). While LLM ratings show moderate rank correlation with empirical student difficulty (rho=0.52-0.70), they misclassify several fraction items as easy that are among the hardest for students (e.g., 34% correct). LLMs approximate curricular rather than cognitive difficulty.
+LLMs systematically underestimate the difficulty of [[misconceptions|misconception]]-driven items ('The Easy Trap'). While [[llm]] ratings show moderate rank correlation with empirical student difficulty (rho=0.52-0.70), they misclassify several fraction items as easy that are among the hardest for students (e.g., 34% correct). LLMs approximate [[curriculum-design|curricular]] rather than cognitive difficulty.
 
-**Relevance to AI in Education:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
+**Relevance to [[ai-education|AI in Education]]:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
 
-This research connects to the growing body of work on [[ai-literacy]] and [[teacher-role]], highlighting both the promise and limitations of AI tools in educational settings.
+This [[research-methods-aied|research]] connects to the growing body of work on [[ai-literacy]] and [[teacher-role]], highlighting both the promise and limitations of AI tools in educational settings.
 
 ## Connected Concepts
 

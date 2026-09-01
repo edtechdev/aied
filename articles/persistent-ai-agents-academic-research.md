@@ -12,7 +12,7 @@ sources: []
 ---
 ## Overview
 
-This is the first empirical study of what happens when AI agents are embedded **persistently** in a real academic research environment — with durable memory, local files, external tools, scheduled routines, delegated roles, and explicit safety protocols. Over 96 active days (January 31 to May 25, 2026), the researcher-agent ecosystem generated 75,671 de-duplicated telemetry records, 23,710 assistant messages, and 73.95 million tokens (82.9% cache reads). The study introduces **PARE-M** (Persistent Agentic Research Environment Measurement), a framework covering architecture, utilization, artifact production, resource use, reproducibility, and governance.
+This is the first empirical study of what happens when AI agents are embedded **persistently** in a real academic research environment — with durable memory, local files, external tools, scheduled routines, delegated roles, and explicit safety protocols. Over 96 active days (January 31 to May 25, 2026), the [[research-methods-aied|researcher]]-agent ecosystem generated 75,671 de-duplicated telemetry records, 23,710 assistant messages, and 73.95 million tokens (82.9% cache reads). The study introduces **PARE-M** (Persistent Agentic Research Environment Measurement), a framework covering architecture, utilization, artifact production, resource use, reproducibility, and governance.
 
 ## Key Findings
 
@@ -22,9 +22,9 @@ The study also recorded 889 failure, verification, correction, or protocol-proxy
 
 ## Implications for AI in Education Research
 
-This study is directly relevant to [[agentic-workflows-education]] research. The PARE-M framework provides vocabulary for measuring and comparing persistent agent deployments in educational contexts — whether for faculty research, [[educational-development]], or student-facing [[intelligent-tutoring]] systems. The cache-dominance finding challenges current pricing models and suggests that institutional AI deployments should optimize for artifact throughput rather than token costs.
+This study is directly relevant to [[agentic-workflows-education]] research. The PARE-M framework provides vocabulary for measuring and comparing persistent agent deployments in educational contexts — whether for faculty research, [[educational-development]], or student-facing [[intelligent-tutoring]] systems. The cache-dominance finding challenges current pricing models and suggests that [[governance|institutional]] AI deployments should optimize for artifact throughput rather than token costs.
 
-The 17-agent configuration demonstrates how [[ai-changing-teaching-workflows]] might scale within academic institutions. If a single investigator can productively orchestrate 17 specialized agents, the same could apply to a course with multiple AI teaching assistants, each with distinct roles (grader, discussion moderator, content curator, etc.).
+The 17-agent configuration demonstrates how [[ai-changing-teaching-workflows]] might scale within academic institutions. If a single investigator can productively orchestrate 17 specialized agents, the same could apply to a course with multiple AI [[teacher-role|teaching]] assistants, each with distinct roles (grader, discussion moderator, content curator, etc.).
 
 ## Methodological Contribution: PARE-M
 

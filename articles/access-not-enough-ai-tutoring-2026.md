@@ -16,7 +16,7 @@ confidence: high
 
 ## The two RCTs
 
-- Districts A and B, elementary students, AI literacy (reading) platform; treatment = in-person tutor focused on *[[student-engagement|engagement]]* (10-min check-in + 15 min platform + 2–5 min reflection), control = platform alone with the full ~30 min
+- Districts A and B, elementary students, [[ai-literacy|AI literacy]] (reading) platform; treatment = in-person tutor focused on *[[student-engagement|engagement]]* (10-min check-in + 15 min platform + 2–5 min reflection), control = platform alone with the full ~30 min
 - Pre-registered outcomes: minutes/week (usage) and stories read/week (engagement); spring ELA as achievement
 - Interventions lasted 14–31 weeks
 

@@ -16,11 +16,11 @@ sources: [raw/papers/2603.12471.md]
 
 ## Key Findings
 
-- **Personalization triggers stereotype-aligned shifts, not neutral adaptation.** Even with essay content held constant, merely prompting the model with a student's race, ethnicity, ELL designation, learning disability, achievement level, or motivation systematically shifted feedback language in stereotype-aligned directions.
+- **[[personalized-learning|Personalization]] triggers stereotype-aligned shifts, not neutral adaptation.** Even with essay content held constant, merely [[prompt-engineering|prompting]] the model with a student's race, ethnicity, ELL designation, learning disability, achievement level, or motivation systematically shifted feedback language in stereotype-aligned directions.
 - **Positive feedback bias and feedback withholding bias are the clearest harms.** Feedback for students marked by race, language, or disability overused praise, gave less substantive critique, and assumed limited ability — mirroring the same biases documented in human teachers (especially White teachers) when assessing minority students.
-- **Models privilege standard academic [[writing-education|English]].** LLMs reproduce a "digital mono-languaging" that marginalizes multilingual learners who use other linguistic varieties in their writing.
+- **Models privilege standard academic [[writing-education|English]].** LLMs reproduce a "digital mono-languaging" that marginalizes [[multilingual-learning|multilingual]] learners who use other linguistic varieties in their writing.
 - **The effect is robust but variable.** Concentration-metric regression confirmed that Marked Pedagogies differ significantly between marked and comparative prompts; effects were stronger and more consistent under explicit attribute prompts than under name-only prompting (e.g., Lakisha, Juan, Emily), which produced smaller, noisier signals.
-- **Need for transparency and accountability.** The authors argue automated feedback tools must be scrutinized for these systematic pedagogical orientations, which risk discriminatory treatment of students at scale.
+- **Need for transparency and accountability.** The authors argue automated feedback tools must be scrutinized for these systematic [[pedagogy|pedagogical]] orientations, which risk discriminatory treatment of students at scale.
 
 ## Practical Implications
 

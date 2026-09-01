@@ -16,7 +16,7 @@ confidence: high
 ## Key Findings
 
 1. **The value proposition of universities persists.** The authors emphasize that universities remain essential for foundational knowledge, theoretical depth, and conceptual grounding; the goal is not to replace academic study but to extend it.
-2. **AI mediation changes the calculus.** In an era where knowledge is increasingly AI-mediated and accessible, the fixed-sequential-curriculum model is open to reconsideration, shifting emphasis toward creativity, interdisciplinary integration, hands-on experience, and long-term development.
+2. **AI mediation changes the calculus.** In an era where knowledge is increasingly AI-mediated and accessible, the fixed-sequential-curriculum model is open to reconsideration, shifting emphasis toward [[creativity]], interdisciplinary integration, hands-on experience, and long-term development.
 3. **Learnity graphs as the core construct.** The paper introduces *learnity graphs*, a structured representation of learning as interconnected units of knowledge, skills, experience, and actual artifacts, together with a method for presenting and leveraging the representation.
 4. **Lifelong integration across domains.** The framework integrates academic, professional, and personal learning, positioning learning as a continuous, graph-structured activity rather than a bounded curricular sequence.
 
@@ -26,7 +26,7 @@ This conceptual contribution speaks directly to debates about [[curriculum-desig
 
 For [[higher-ed]] institutions, the framework is a provocation to move beyond static degree pathways toward adaptive, cross-domain learning environments. It connects conceptually to [[learning-design]] discussions about [[transfer-of-learning]] and [[self-regulated-learning]], since learners must actively navigate and maintain their own learnity graphs.
 
-The proposal also has an implicit [[equity-in-ai-education]] dimension: graph-based, modular learning could either democratize access to personalized pathways or entrench fragmentation if not supported by sound pedagogy and institutional infrastructure. The paper is best read alongside work on [[educational-policy-ai]] and [[governance]] that addresses how such frameworks are governed and resourced.
+The proposal also has an implicit [[equity-in-ai-education]] dimension: graph-based, modular learning could either democratize access to personalized pathways or entrench fragmentation if not supported by sound [[pedagogy]] and institutional infrastructure. The paper is best read alongside work on [[educational-policy-ai]] and [[governance]] that addresses how such frameworks are governed and resourced.
 
 ## Connected Concepts
 

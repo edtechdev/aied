@@ -17,16 +17,16 @@ confidence: high
 
 ## Key Findings
 
-- Hierarchical multi-agent framework (ProfessorAgent + subordinate agents) enables end-to-end adaptive embodied teaching.
+- Hierarchical multi-agent framework (ProfessorAgent + subordinate agents) enables end-to-end adaptive [[embodied-learning|embodied]] [[teacher-role|teaching]].
 - TASA algorithm aligns teaching actions with learner profiles.
 - Outperforms baselines on lecture quality, embodiment, assessment, and personalization.
-- Given a lecture prompt or learning materials plus a learner profile, a **ProfessorAgent leads a collaborative team of specialized agents** through research, planning, design, evaluation, and embodied delivery of lecture and study content that adapts to the individual learner.
-- The framework provides students with access to **real-time adaptive, personalized teaching and study sessions**, addressing a gap in prior educational agent frameworks that focused mainly on lecture content automation and simulation.
+- Given a lecture prompt or learning materials plus a learner profile, a **ProfessorAgent leads a collaborative team of specialized agents** through [[research-methods-aied|research]], planning, design, evaluation, and embodied delivery of lecture and study content that adapts to the individual learner.
+- The framework provides students with access to **real-time adaptive, personalized teaching and study sessions**, addressing a gap in prior educational agent frameworks that focused mainly on lecture content automation and [[simulation]].
 - Evaluation across **high school, undergraduate, and graduate-level courses** using sample-specific rubric-based analysis, with generated lecture materials and teaching actions assessed and validated by **expert educators**, shows consistent gains over existing approaches.
 
 ## Architecture & Method
 
-At its core, LecturaAgents mirrors a professor–student relationship: a ProfessorAgent orchestrates specialized agents across the full teaching pipeline, from researching content to planning, designing, evaluating, and delivering instruction. Two mechanisms distinguish it from prior work. First, an **adaptive embodied teaching mechanism** lets the ProfessorAgent execute visible, pedagogically motivated teaching actions — handwriting, highlighting, underlining — over content in a teaching environment while speaking. Second, the **Teaching Action-Speech Alignment (TASA) algorithm** employs salience-based heuristics and temporal semantic segmentation to generate coherent teaching action sequences aligned with learner profiles. The multimodal, embodied dimension is what positions the framework as pedagogically grounded [[personalized-learning]] rather than mere content generation.
+At its core, LecturaAgents mirrors a professor–student relationship: a ProfessorAgent orchestrates specialized agents across the full teaching pipeline, from researching content to planning, designing, evaluating, and delivering instruction. Two mechanisms distinguish it from prior work. First, an **adaptive embodied teaching mechanism** lets the ProfessorAgent execute visible, pedagogically motivated teaching actions — handwriting, highlighting, underlining — over content in a teaching environment while speaking. Second, the **Teaching Action-Speech Alignment (TASA) algorithm** employs salience-based heuristics and temporal semantic segmentation to generate coherent teaching action sequences aligned with learner profiles. The [[multimodal]], embodied dimension is what positions the framework as pedagogically grounded [[personalized-learning]] rather than mere content generation.
 
 ## Relevance to AI in Education
 

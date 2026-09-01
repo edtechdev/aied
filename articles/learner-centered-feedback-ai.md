@@ -14,7 +14,7 @@ confidence: high
 
 ## Summary
 
-An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI-powered feedback tool combining (1) a **BERT-based ML model** (from Aldino et al. 2024) that detects which learner-centered feedback components are missing from teacher-written feedback and suggests them, and (2) **ChatGPT-4o mini** to rephrase/enhance the teacher's draft. Teachers gave feedback on a simulated student presentation, then used the tool, then were interviewed. The study answers two questions: *how teachers interact with* AI feedback tools (RQ1) and *how they perceive* them (RQ2). Framework: Ryan et al.'s (2023) learner-centered feedback dimensions — **Future Impact, Sensemaking, Agency**.
+An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI-powered feedback tool combining (1) a **BERT-based ML model** (from Aldino et al. 2024) that detects which learner-centered feedback components are missing from teacher-written feedback and suggests them, and (2) **ChatGPT-4o mini** to rephrase/enhance the teacher's draft. Teachers gave feedback on a simulated student presentation, then used the tool, then were interviewed. The study answers two questions: *how teachers interact with* [[ai-feedback-quality|AI feedback]] tools (RQ1) and *how they perceive* them (RQ2). Framework: Ryan et al.'s (2023) learner-centered feedback dimensions — **Future Impact, Sensemaking, Agency**.
 
 ## RQ1 — How teachers interacted with the tools
 
@@ -27,19 +27,19 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 - **12 of 21 teachers** made further sentence-level revisions; the rest left the text unchanged.
 - Most common actions: **editing (f = 32)** and **removing (f = 27)**; adding was rare (f = 8).
 - The dominant pattern was **calibrating tone**: Edit–Praise (f = 11, e.g. "First of all, I want to congratulate you on completing your assignment!" → "Well done on completing your assignment"), Remove–Suggestion (f = 9), Remove–Encouragement (f = 8), Remove–Praise (f = 6), Edit–Correction (f = 9). Teachers systematically **moderated exaggerated praise and generic suggestions** to protect authenticity and professional voice.
-- Revisions clustered most strongly in the **Agency dimension** — especially Student–Teacher Relationship (f = 24; encouragement f = 11) — confirming that the relational/affective dimension of feedback resists AI delegation.
+- Revisions clustered most strongly in the **Agency dimension** — especially Student–Teacher Relationship (f = 24; encouragement f = 11) — confirming that the relational/[[affective-computing|affective]] dimension of feedback resists AI delegation.
 
 ## RQ2 — Teacher perceptions
 
 - **Benefits:** promotes reflection (n = 14), improves language and structure (n = 11), identifies missing components (n = 10), saves time (n = 2).
 - **Challenges:** need for human editing (n = 9), inconsistent tone (n = 7), potential misinformation (n = 5), trust issues (n = 5).
-- **Experience gap:** teachers with **>5 years of experience reported more challenges** (tone, editing burden, trust, misinformation); **less-experienced teachers valued scaffolding benefits** (identifying missing components, saving time). The authors flag a developmental risk: novice teachers who defer to AI suggestions may build less independent feedback judgement.
+- **Experience gap:** teachers with **>5 years of experience reported more challenges** (tone, editing burden, trust, misinformation); **less-experienced teachers valued [[scaffolding]] benefits** (identifying missing components, saving time). The authors flag a developmental risk: novice teachers who defer to AI suggestions may build less independent feedback judgement.
 
 ## Interpretation
 
 - The tools were most valuable as **reflective prompts that surface overlooked aspects** of feedback — "making invisible gaps visible" — scaffolding teachers' evaluative judgement, rather than as providers of finalised text (an **"assist but verify"** pattern; cf. [[human-in-the-loop-ai]]).
-- **Design implications:** adjustable tone parameters, discipline-specific templates, and transparency controls; without them AI adoption may *increase* rather than reduce workload and can erode teacher authority if positioned as autonomous providers.
-- The authors call for future research on **student perspectives** of AI-assisted teacher feedback and longitudinal study of whether reliance strengthens or displaces evaluative judgement.
+- **Design implications:** adjustable tone parameters, [[discipline-specific-aied|discipline-specific]] templates, and transparency controls; without them AI adoption may *increase* rather than reduce workload and can erode teacher authority if positioned as autonomous providers.
+- The authors call for future [[research-methods-aied|research]] on **student perspectives** of AI-assisted teacher feedback and longitudinal study of whether reliance strengthens or displaces evaluative judgement.
 
 ## Connected Concepts
 

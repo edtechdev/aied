@@ -18,7 +18,7 @@ LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Co
 
 ## Summary
 
-LaTA (LaTeX Teaching Assistant) is a **privacy-preserving, drop-in autograder** that addresses the core tension in educational LLM deployment: most [[automated-assessment|Automated Grading]] systems send student work to third-party APIs, violating FERPA and exposing institutions to data risk.
+LaTA (LaTeX [[teacher-role|Teaching]] Assistant) is a **privacy-preserving, drop-in autograder** that addresses the core tension in educational LLM deployment: most [[automated-assessment|Automated Grading]] systems send student work to third-party APIs, violating FERPA and exposing institutions to data risk.
 
 **System architecture:**
 - **Four-stage pipeline:** Ingest → Segment → Grade → Report
@@ -38,7 +38,7 @@ LaTA (LaTeX Teaching Assistant) is a **privacy-preserving, drop-in autograder** 
 
 These results provide strong evidence for the [[feedback|Feedback Loop]] hypothesis: faster, more consistent feedback drives both learning and confidence. The deployment demonstrates that [[generative-ai]] grading can be both FERPA-compliant and pedagogically effective, addressing concerns raised in [[assessment-validity]] and [[formative-assessment]] discussions.
 
-LaTA's success connects to the broader [[stem-education]] and [[higher-ed]] landscape, showing that [[llm]]-based grading can move beyond [[short-answer-scoring-quality-degradation]] concerns when properly designed with instructor-authored rubrics and reference solutions. The open-source, zero-marginal-cost model aligns with [[principled-ai-education]] principles.
+LaTA's success connects to the broader [[stem-education]] and [[higher-ed]] landscape, showing that [[llm]]-based grading can move beyond [[short-answer-scoring-quality-degradation]] concerns when properly designed with instructor-authored rubrics and reference solutions. The [[open-source]], zero-marginal-cost model aligns with [[principled-ai-education]] principles.
 
 ## Connected Concepts
 

@@ -14,7 +14,7 @@ confidence: high
 
 Analyzes how students specify intended behavior in natural language to AI code tools (Copilot) across multiple years, deriving a taxonomy of code-generation specifications expressed through comments. As AI tools shift emphasis from writing code to specifying behavior, the study documents what students actually ask of these systems.
 
-Situates in [[llm]]-assisted [[programming-its]] and [[student-experience]] within [[cs-education]] and [[higher-ed]], extending [[reshaping-cs-education-genai]] by characterizing the new 'specification' literacy. It informs [[ai-literacy]] for coding and the design of tools that scaffold rather than replace student reasoning.
+Situates in [[llm]]-assisted [[programming-its]] and [[student-experience]] within [[cs-education]] and [[higher-ed]], extending [[reshaping-cs-education-genai]] by characterizing the new 'specification' literacy. It informs [[ai-literacy]] for coding and the design of tools that [[scaffolding|scaffold]] rather than replace student reasoning.
 
 ## Key Findings
 
@@ -26,7 +26,7 @@ Situates in [[llm]]-assisted [[programming-its]] and [[student-experience]] with
 
 ## Study Design & Method
 
-The study draws on multi-year data from undergraduate programming courses in which AI code tools such as GitHub Copilot were integrated into tasks: students wrote comments as specifications, the tools generated code, and students refined solutions based on test-case feedback. A three-dimensional taxonomy — comment type, code expression level, and code construct — was applied via automated classification to trace how specification behavior changed across attempts. Student reflections provided qualitative context on how learners experienced the process of directing code generation.
+The study draws on multi-year data from undergraduate programming courses in which AI code tools such as GitHub Copilot were integrated into tasks: students wrote comments as specifications, the tools generated code, and students refined solutions based on test-case feedback. A three-dimensional taxonomy — comment type, code expression level, and code construct — was applied via automated classification to trace how specification behavior changed across attempts. Student reflections provided [[qualitative-research|qualitative]] context on how learners experienced the process of directing code generation.
 
 ## Implications for AI in Education
 

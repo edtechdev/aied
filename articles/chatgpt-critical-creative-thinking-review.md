@@ -12,21 +12,21 @@ sources: ['raw/papers/chatgpt-critical-creative-thinking-review.md']
 confidence: high
 ---
 
-> Li, Cui & Hagedorn (2026) PRISMA-review **67 empirical studies (2022–2025)** on ChatGPT and university students' [[critical-thinking|critical]] and creative thinking: effects are contingent on **pedagogical framing**, not the tool itself ([[generative-ai]]).
+> Li, Cui & Hagedorn (2026) PRISMA-review **67 empirical studies (2022–2025)** on ChatGPT and university students' [[critical-thinking|critical]] and [[creativity|creative thinking]]: effects are contingent on **[[pedagogy|pedagogical]] framing**, not the tool itself ([[generative-ai]]).
 
-Li, Cui, and Hagedorn (2026) conducted a PRISMA-guided systematic review of **67 empirical studies** (2022–2025) examining how ChatGPT influences university students' critical and creative thinking. Using a dual-lens framework — convergent (critical thinking) and divergent (creative thinking) processes — the review reveals that ChatGPT's cognitive effects are fundamentally contingent on **pedagogical framing**, not the tool itself.
+Li, Cui, and Hagedorn (2026) conducted a PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of **67 empirical studies** (2022–2025) examining how ChatGPT influences university students' critical and creative thinking. Using a dual-lens framework — convergent (critical thinking) and divergent (creative thinking) processes — the review reveals that ChatGPT's cognitive effects are fundamentally contingent on **pedagogical framing**, not the tool itself.
 
 ## Theoretical Framework
 
-The review draws on an integrated constellation of theories spanning cognitive, sociocultural, and technological dimensions:
+The review draws on an integrated constellation of theories spanning cognitive, [[sociocultural-learning|sociocultural]], and technological dimensions:
 
 | Theory | Role in Framework |
 |--------|-------------------|
-| **AI Literacy** (Long & Magerko, 2020) | Foundational moderator — shapes prompt quality, epistemic vigilance, and verification practices |
-| **Self-Regulated Learning** (Zimmerman, 2002) | Explains how structured engagement promotes planning, monitoring, and evaluative judgment |
-| **Cognitive Load Theory** (Sweller, 2011) | Clarifies when ChatGPT reduces extraneous load (beneficial) vs. enables cognitive offloading (harmful) |
-| **Distributed Cognition** (Hutchins, 1995) | Frames ChatGPT as an interactive cognitive artifact supporting iterative reasoning cycles |
-| **Cultural Historical Activity Theory** (Engeström, 1987) | Explains why outcomes differ across pedagogical ecosystems — rules, division of labor, task objects |
+| **[[ai-literacy|AI Literacy]]** (Long & Magerko, 2020) | Foundational moderator — shapes prompt quality, epistemic vigilance, and verification practices |
+| **[[self-regulated-learning|Self-Regulated Learning]]** (Zimmerman, 2002) | Explains how structured [[student-engagement|engagement]] promotes planning, monitoring, and evaluative judgment |
+| **Cognitive Load Theory** (Sweller, 2011) | Clarifies when ChatGPT reduces extraneous load (beneficial) vs. enables [[cognitive-offloading|cognitive offloading]] (harmful) |
+| **[[distributed-cognition|Distributed Cognition]]** (Hutchins, 1995) | Frames ChatGPT as an interactive cognitive artifact supporting iterative reasoning cycles |
+| **Cultural Historical [[activity-theory-aied|Activity Theory]]** (Engeström, 1987) | Explains why outcomes differ across pedagogical ecosystems — rules, division of labor, task objects |
 | **Boundary Object Theory** (Star & Griesemer, 1989) | Captures ChatGPT's interpretive flexibility across disciplines and tasks |
 | **Connectivism** (Siemens, 2005) | Analyzes ChatGPT as a generative node in distributed learning networks |
 
@@ -36,16 +36,16 @@ This constellation treats ChatGPT as an **interactive cognitive artifact within 
 
 The 67 studies reflect the evolving nature of ChatGPT research:
 
-- **Design:** 39% quantitative, 30% qualitative, 31% mixed-methods
-- **Disciplines:** STEM 36%, Teacher Education 31%, Language/Writing 27%, Interdisciplinary 6%
+- **Design:** 39% [[quantitative-research|quantitative]], 30% [[qualitative-research|qualitative]], 31% [[mixed-methods-research|mixed-methods]]
+- **Disciplines:** [[stem-education|STEM]] 36%, [[teacher-education|Teacher Education]] 31%, Language/Writing 27%, Interdisciplinary 6%
 - **Geography:** Asia 58%, Europe 18%, North America 10%, Oceania 4%, Africa 4%
 - **Publication trend:** 10% in 2023, 58% in 2024, 31% in 2025 (through April)
 - **Focus:** 34% CT only, 16% CrT only, 49% both
-- **Top venues:** Education and Information Technologies (4), Frontiers in Education (3), JITE: Research (3), Computers & Education (3)
+- **Top venues:** Education and Information [[ai-technologies|Technologies]] (4), Frontiers in Education (3), JITE: Research (3), Computers & Education (3)
 
 ### Methodological Note: Assessment Asymmetry
 
-A critical methodological finding: **CrT was more often assessed with direct performance tasks** (TTCT, expert-rated artifacts), while **CT relied more on indirect self-report measures**. This asymmetry may partly explain why some studies report stronger evidence for CrT gains than CT gains, independent of actual cognitive effects.
+A critical [[research-methods-aied|methodological]] finding: **CrT was more often assessed with direct performance tasks** (TTCT, expert-rated artifacts), while **CT relied more on indirect self-report measures**. This asymmetry may partly explain why some studies report stronger evidence for CrT gains than CT gains, independent of actual cognitive effects.
 
 ## Key Findings
 
@@ -54,7 +54,7 @@ A critical methodological finding: **CrT was more often assessed with direct per
 **Affordances** (when ChatGPT was embedded in structured, scaffolded designs):
 1. **Metacognitive engagement** (n=27) — Guided prompting, comparative analysis, and reflective writing enabled students to monitor thinking and exercise evaluative judgment
 2. **Argumentative structuring** (n=22) — ChatGPT as dialogic scaffold or counterargument generator, especially with argument mapping and rubric-guided evaluation
-3. **Verification and error detection** (n=19) — Fact-checking and triangulation behaviors emerged when students were explicitly taught to identify hallucinations
+3. **Verification and error detection** (n=19) — Fact-checking and triangulation behaviors emerged when students were explicitly taught to identify [[hallucination-risk|hallucinations]]
 4. **Self-regulated learning** (n=17) — Structured prompts and revision cycles promoted planning, monitoring, and strategic adjustment
 5. **Disciplinary reasoning** (n=15) — Complex analysis emerged organically when ChatGPT was a co-developer or critique target in authentic disciplinary tasks
 
@@ -63,15 +63,15 @@ A critical methodological finding: **CrT was more often assessed with direct per
 2. **Surface-level engagement** (n=18) — Uncritical acceptance of AI outputs without appraisal
 3. **Erosion of argument development** (n=14) — AI replaced the cognitive struggle integral to constructing ideas
 4. **Metacognitive offloading** (n=12) — Surface-level edits without deeper planning or reflection
-5. **Epistemic boundary limits** (n=10) — ChatGPT struggled with advanced rationality, logical consistency, and sustained Socratic dialogue
+5. **Epistemic boundary limits** (n=10) — ChatGPT struggled with advanced rationality, logical consistency, and sustained [[socratic-method|Socratic dialogue]]
 
 ### Creative Thinking (44 studies)
 
 **Affordances:**
 1. **Ideation and divergent thinking** (n=31) — Most frequently reported affordance; ChatGPT as brainstorming partner surfacing unique insights
-2. **Structural and expressive scaffolding** (n=24) — Assisted with structuring content, experimenting with tone, stylistic expression
-3. **Dialogic engagement and perspective-shifting** (n=18) — Functioned as co-designer in argument, debate, and role-based simulations
-4. **Affective and motivational activation** (n=16) — Reduced creative anxiety; perceived as "brainstorming buddy"
+2. **Structural and expressive [[scaffolding]]** (n=24) — Assisted with structuring content, experimenting with tone, stylistic expression
+3. **Dialogic engagement and perspective-shifting** (n=18) — Functioned as co-designer in argument, debate, and role-based [[simulation|simulations]]
+4. **[[affective-computing|Affective]] and [[motivation|motivational]] activation** (n=16) — Reduced creative anxiety; perceived as "brainstorming buddy"
 5. **Instructionally mediated gains** (n=21) — Significant gains in originality, fluency, and elaboration when embedded in flipped classrooms or scaffolded creative modules (d=0.55–0.69 for key measures)
 
 **Limitations:**
@@ -106,12 +106,12 @@ The **boundary object** function — ChatGPT's interpretive flexibility across d
 
 ## Six Pedagogical Recommendations
 
-1. **Embed structured cognitive scaffolding** — Stepwise activities: prompt design → output evaluation → iterative refinement. Frame ChatGPT as dialogic partner, not solution provider. This aligns with [[critical-thinking-genai-scaffolding|the six-process scaffolding framework]] and [[human-in-the-loop-ai|human-in-the-loop architectures]].
-2. **Explicitly teach AI literacy for epistemic vigilance** — Integrate modules on prompt refinement, hallucination recognition, bias detection, and contextual interpretation. Addresses the [[ai-literacy-assessment-misalignment|self-report vs. performance gap]] in AI evaluation skills.
+1. **Embed structured cognitive scaffolding** — Stepwise activities: [[prompt-engineering|prompt design]] → output evaluation → iterative refinement. Frame ChatGPT as dialogic partner, not solution provider. This aligns with [[critical-thinking-genai-scaffolding|the six-process scaffolding framework]] and [[human-in-the-loop-ai|human-in-the-loop architectures]].
+2. **Explicitly teach AI literacy for epistemic vigilance** — Integrate modules on prompt refinement, hallucination recognition, bias detection, and contextual interpretation. Addresses the [[ai-literacy-assessment-misalignment|self-report vs. performance gap]] in [[ai-ed-evaluation|AI evaluation]] skills.
 3. **Design tasks that co-activate CT and CrT through recursive inquiry** — Open-ended case studies, argumentative writing with multi-perspective AI dialogue, project-based tasks requiring both generation and analytical reflection. This is the practical implementation of the dual-lens framework.
-4. **Implement reflection protocols for cognitive regulation** — Guided prompts after each interaction: "What was most useful/misleading?", "How did this shape your thinking?", "What would you change in your next prompt?" Reinforces [[metacognition|metacognitive monitoring]].
+4. **Implement reflection protocols for cognitive [[regulation]]** — Guided prompts after each interaction: "What was most useful/misleading?", "How did this shape your thinking?", "What would you change in your next prompt?" Reinforces [[metacognition|metacognitive monitoring]].
 5. **Leverage ChatGPT as a connective node for interdisciplinary thinking** — Cross-domain tasks that draw on ChatGPT's broad knowledge while critically examining disciplinary assumptions. Supports [[ai-learning-companions-framework|dialogic partner]] and connectivist learning.
-6. **Position feedback as a multi-source process** — Triangulate AI feedback with peer review, instructor input, and self-assessment. Creates [[feedback|multi-source feedback loops]] that mitigate overreliance.
+6. **Position feedback as a multi-source process** — Triangulate [[ai-feedback-quality|AI feedback]] with [[peer-review|peer review]], instructor input, and self-assessment. Creates [[feedback|multi-source feedback loops]] that mitigate overreliance.
 
 ## Limitations of the Review
 
@@ -134,10 +134,10 @@ This review is a **keystone synthesis** connecting multiple threads in the AI ed
 - **[[feedback|Feedback Loop]]** operationalizes the multi-source feedback recommendation
 - **[[educational-development]]** is essential — educators need training to implement these scaffolds
 - **[[student-experience]]** captures the learner perspective on usage patterns
-- **[[higher-ed]]** and [[universities-ai-era-rethinking]] provide the institutional context
+- **[[higher-ed]]** and [[universities-ai-era-rethinking]] provide the [[governance|institutional]] context
 - **[[institutional-change-framework-ai]]** frames how activity systems must adapt
 
-The review's core insight — that ChatGPT's cognitive effects are contingent on pedagogy, not inherent to the technology — reinforces a pattern visible across the knowledge base: **AI in education succeeds or fails based on how it is implemented, not what it can do.**
+The review's core insight — that ChatGPT's cognitive effects are contingent on pedagogy, not inherent to the technology — reinforces a pattern visible across the knowledge base: **[[ai-education|AI in education]] succeeds or fails based on how it is implemented, not what it can do.**
 
 ## Connected Concepts
 
