@@ -53,10 +53,6 @@ The framework has three layers: the theoretical synthesis and its central mechan
 
 The framework reassigns the teacher from syntax instructor to designer of specification and validation, a more demanding but more rewarding role that aligns with cognitive-apprenticeship accounts and the [[feedback]] literature. For assessment, since the AI can produce the artifact, evaluation relocates to the specification documents, predict-then-test records, oral defences, and process [[eportfolio|portfolios]] — precisely what the AI cannot supply. Boundary conditions are named explicitly: reliable access to tools is assumed (uneven access can widen [[equity-in-ai-education|equity]] gaps), the design targets ages 15–18 who can meet the self-regulatory demands of Specify and Validate, hallucinated code is caught only if students have enough domain knowledge to detect error, and the framework asks more of teachers, so without professional learning it risks degenerating into the unguided AI use shown to harm learning. The paper closes with four testable propositions (specify-first transfer, productive-friction conceptual gains, ICAP engagement predicting gains, and scaffold fading reducing post-removal performance drops) intended to seed empirical work.
 
-## Citation
-
-Gousopoulos, D. (2026). [*Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education*](https://doi.org/10.20944/preprints202606.1139.v1). Preprints.org. Preprint, not peer-reviewed.
-
 ## Connected Concepts
 
 - [[constructivist]] — constructionism as the framework's foundation
@@ -75,3 +71,7 @@ Gousopoulos, D. (2026). [*Code to Learn with Generative AI: A Theoretically Grou
 
 - [[ai-writes-code-student-writes-model-2026]] — Theory + measurement programme for model authorship with GenAI
 - [[competency-based-education-genai-production-2026]] — Production as a competency in the GenAI era
+
+## Citation
+
+Gousopoulos, D. (2026). [*Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education*](https://doi.org/10.20944/preprints202606.1139.v1). Preprints.org. Preprint, not peer-reviewed.

@@ -7,10 +7,6 @@ sources: ["raw/papers/language-teachers-ai-literacy-edai-2026.md"]
 tags: ["ai-literacy", "language-learning", "teacher-education", "educational-measurement", "teacher-ai-competency"]
 ---
 
-## Citation
-
-[Language teachers’ AI literacy: A psychometric study based on the ED-AI framework](https://doi.org/10.1016/j.caeai.2026.100583) — Nabhan, S., & Habók, A. (2026). *Computers and Education: Artificial Intelligence*, 10, 100583.
-
 ## Overview
 
 Nabhan and Habók develop and validate the **Teachers' AI Literacy Scale (TAILS)**, a self-report instrument grounded in the ED-AI literacy framework (Allen & Kendeou, 2024), which conceptualizes [[ai-literacy]] across six dimensions: knowledge, evaluation, collaboration, contextualization, autonomy, and ethics. Arguing that most existing instruments target students, general users, or nonexperts, the authors position TAILS as a [[discipline-specific-aied|discipline-specific]] measure that reframes AI literacy as a [[pedagogy|pedagogical]] and ethical capacity—rather than a purely technical one—for [[english-education|English]] [[language-learning|language]] [[teacher-role|teachers]]. Scale development followed a two-phase design: [[automated-question-generation|item generation]] mapped to a single target construct and reviewed by seven experts (content validity, with CVI and modified kappa), a 30-person pilot for [[assessment-validity|face validity]], then a two-stage psychometric evaluation—[[educational-measurement|exploratory factor analysis]] (EFA) on 165 preservice English language teachers in Indonesia and [[educational-measurement|confirmatory factor analysis]] (CFA) on a separate sample of 227. The EFA confirmed a six-factor structure explaining 63.965% of variance (KMO = 0.906; Bartlett's test significant), and a refined CFA model retained a 27-item version of the scale with acceptable fit (χ²/df = 1.766, RMSEA = 0.058, SRMR = 0.054, TLI = 0.908, CFI = 0.919). The study bridges a theoretical and empirical gap by operationalizing a framework that foregrounds [[agency|teacher agency]], contextual adaptation, and [[ethics|ethical responsibility]] in AI-mediated language teaching.
@@ -31,7 +27,7 @@ Nabhan and Habók develop and validate the **Teachers' AI Literacy Scale (TAILS)
 - **[[scaffolding]] ethical competencies explicitly.** The Ethics dimension's salience reinforces that ethical judgment does not emerge organically from AI use; programs should systematically and explicitly scaffold fairness, accountability, bias, and [[privacy|student privacy]] into preparation rather than assume it develops.
 - **Supporting balanced, human-centered integration.** Findings underscore that AI should enrich rather than replace human interaction in communicative language learning, guiding teachers to weigh automation against authentic interaction and to contextualize tools for diverse learners, cultural settings, and subject-specific goals.
 
-## Related Concepts
+## Connected Concepts
 
 - [[ai-literacy]]
 - [[teacher-ai-competency]]
@@ -48,6 +44,10 @@ Nabhan and Habók develop and validate the **Teachers' AI Literacy Scale (TAILS)
 
 ## Connected Articles
 
-- [ai-tpack-mathematics-teacher-education-2026](/articles/ai-tpack-mathematics-teacher-education-2026) — Like Nabhan & Habók, develops and psychometrically validates a discipline-specific teacher AI competency instrument (AI-TPACK for mathematics), sharing the construct-development and EFA/CFA methodology.
-- [intelligent-tpack-ethics-teachers-trust-distrust-2026](/articles/intelligent-tpack-ethics-teachers-trust-distrust-2026) — Examines teacher trust and distrust toward AI alongside an ethics-oriented teacher competency lens, complementing TAILS' Ethics and Autonomy dimensions.
-- [panciroli-ai-literacy-episodes-situated-learning](/articles/panciroli-ai-literacy-episodes-situated-learning) — Approaches teacher AI literacy from a situated, episode-based perspective, offering a complementary qualitative framing to TAILS' self-report measurement.
+- [[ai-tpack-mathematics-teacher-education-2026]] — Like Nabhan & Habók, develops and psychometrically validates a discipline-specific teacher AI competency instrument (AI-TPACK for mathematics), sharing the construct-development and EFA/CFA methodology.
+- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Examines teacher trust and distrust toward AI alongside an ethics-oriented teacher competency lens, complementing TAILS' Ethics and Autonomy dimensions.
+- [[panciroli-ai-literacy-episodes-situated-learning]] — Approaches teacher AI literacy from a situated, episode-based perspective, offering a complementary qualitative framing to TAILS' self-report measurement.
+
+## Citation
+
+[Language teachers’ AI literacy: A psychometric study based on the ED-AI framework](https://doi.org/10.1016/j.caeai.2026.100583) — Nabhan, S., & Habók, A. (2026). *Computers and Education: Artificial Intelligence*, 10, 100583.

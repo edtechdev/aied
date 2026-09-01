@@ -46,7 +46,7 @@ These questions tie directly to accountability, [[ethics]], and [[equity-in-ai-e
 
 The essay closes with an affirmative: *"Can we disrupt the momentum of the AI colonization of science education? Yes, we can—once we step outside of corporate and capitalist visions of science education and imagine more sustainable and socially just futures."*
 
-## Related Concepts
+## Connected Concepts
 
 - [[ai-education]]
 - [[stem-education]]

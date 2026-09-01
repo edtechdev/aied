@@ -7,10 +7,6 @@ sources: ["raw/papers/simulation-assisted-drone-learning-stem-2026.md"]
 tags: ["simulation", "stem-education", "generative-ai", "intelligent-tutoring", "teacher-role"]
 ---
 
-## Citation
-
-[From simulation to flight: Simulation-assisted drone learning with teacher-AI co-designed scaffolds for [[k-12|secondary]] students' STEM knowledge and competencies](https://doi.org/10.1016/j.caeai.2026.100651) — Yeung, R. C. Y., Yeung, C. H., Sun, D., Keane, T., & Yang, Y. (2026). *Computers and Education: Artificial Intelligence*, 11, 100651.
-
 ## Overview
 
 This quasi-experimental study investigates whether drone-based STEM instruction supported by teacher-AI co-designed simulations yields superior [[learning-gains|learning outcomes]] to the same hands-on drone curriculum delivered without simulations. It responds to a persistent challenge in drone-based STEM education ("dronagogy"): the scarcity of teacher-verified, curriculum-aligned interactive simulations, and the tendency of GenAI-produced resources to lack [[pedagogy|pedagogical]] validity. Using a pretest–posttest control group design with 30 secondary students (aged 13–17, Grades 8–11) in an eight-lesson after-school enrichment program, the study compared a Simulation-Assisted Group (SA-Group, n = 14) that additionally engaged with five interactive simulations against a Drone-Only Group (DO-Group, n = 16) that completed non-simulation versions of the same lessons. Both groups shared the same instructor, DJI Tello drone platform, hands-on tasks, and [[assessment|assessments]], differing only in the form of scaffolding.
@@ -35,7 +31,7 @@ The five simulations — Satellite Positioning, Virtual Flight, QuadPhysics, Dro
 - **Calibrate guidance to developmental level:** younger learners may benefit from more explicit prompts that help them articulate principles, while older learners may benefit from more open-ended, comparative, and reflective tasks.
 - **Leverage learning visibility:** because student parameter changes, errors, and explanations become observable during simulation work, teachers can identify misconceptions in real time and provide more targeted formative support — a foundation for future [[learning-analytics]] dashboards.
 
-## Related Concepts
+## Connected Concepts
 
 - [[simulation]] — the core instructional mechanism, used here as low-stakes pre-flight scaffolds
 - [[stem-education]] — the disciplinary context of drone-based "dronagogy"
@@ -53,6 +49,10 @@ The five simulations — Satellite Positioning, Virtual Flight, QuadPhysics, Dro
 
 ## Connected Articles
 
-- [ai-enhanced-pbl-chatgpt-scaffolding-2026](ai-enhanced-pbl-chatgpt-scaffolding-2026.md) — also examines GenAI-supported scaffolding within active learning pedagogies
-- [lnenicka-secondary-students-genai-stem-2026](lnenicka-secondary-students-genai-stem-2026.md) — shares the secondary-students-in-STEM + generative-AI focus
-- [educational-robotics-pathways-2026](educational-robotics-pathways-2026.md) — adjacent hands-on, technology-rich STEM learning using physical devices
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — also examines GenAI-supported scaffolding within active learning pedagogies
+- [[lnenicka-secondary-students-genai-stem-2026]] — shares the secondary-students-in-STEM + generative-AI focus
+- [[educational-robotics-pathways-2026]] — adjacent hands-on, technology-rich STEM learning using physical devices
+
+## Citation
+
+[From simulation to flight: Simulation-assisted drone learning with teacher-AI co-designed scaffolds for secondary students' STEM knowledge and competencies](https://doi.org/10.1016/j.caeai.2026.100651) — Yeung, R. C. Y., Yeung, C. H., Sun, D., Keane, T., & Yang, Y. (2026). *Computers and Education: Artificial Intelligence*, 11, 100651.

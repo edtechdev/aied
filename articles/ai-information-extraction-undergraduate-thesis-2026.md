@@ -7,10 +7,6 @@ sources: ["raw/papers/ai-information-extraction-undergraduate-thesis-2026.md"]
 tags: ["higher-ed", "stem-education", "inquiry-based-learning", "self-directed-learning", "knowledge-graph", "generative-ai"]
 ---
 
-## Citation
-
-[From literature to research-based learning: An AI-powered information extraction system to enhance undergraduate thesis completion](https://www.sciencedirect.com/science/article/pii/S2666920X26000536) — An, R., Zhu, W., Zhao, Q., Laaksonen, A., & Lan, S. (2026). *Computers and Education: Artificial Intelligence*, 10, 100591.
-
 ## Overview
 
 An and colleagues design and evaluate an AI-powered information extraction system that converts unstructured research publications into structured, traceable, and comparable datasets to support literature-driven comparison and [[stem-education|undergraduate thesis]] completion in [[higher-ed]]. Grounded in [[inquiry-based-learning]], [[cognitive-offloading|cognitive load]] theory, and digital [[scaffolding]], the system is positioned as an epistemic scaffold that lets students inspect evidence–claim relationships through source traceability and structured comparison while reducing low-level data-handling demands. A [[mixed-methods-research|mixed-methods]] pilot with 20 undergraduates and four supervisors suggests the system shifts students from isolated reading toward cross-study comparison and evidence-based justification, with implications for [[self-directed-learning]], [[knowledge-graph|structured knowledge organization]], and the responsible use of [[generative-ai|generative AI]] as a learning scaffold rather than a shortcut.
@@ -32,7 +28,7 @@ An and colleagues design and evaluate an AI-powered information extraction syste
 - The system supports [[self-directed-learning]] by offloading search, transcription, and unit standardization, freeing cognitive resources for analysis and justification — but scaffold-fading, reflective prompts, and check-the-source routines are needed to preserve epistemic [[agency]].
 - The modular architecture suggests transfer to other [[higher-ed|STEM domains]] where parameter-based comparison is central, provided entity templates, field definitions, and domain ontologies are recalibrated and validated.
 
-## Related Concepts
+## Connected Concepts
 
 - [[inquiry-based-learning]]
 - [[stem-education]]
@@ -43,6 +39,10 @@ An and colleagues design and evaluate an AI-powered information extraction syste
 
 ## Connected Articles
 
-- [self-directed-growth-generative-ai-learning-analytics] — a conceptual framework treating GenAI as a non-prescriptive scaffold for self-directed growth, complementing this study's empirical view of AI as an epistemic scaffold
-- [dynamic-skill-matching-capstone-teams] — LLM-driven skill extraction and team formation in STEM capstone courses, another AI-for-higher-ed workflow
-- [embodied-inquiry-ai-facilitator-physics-2026] — where a language-based AI can stand within inquiry-based STEM learning, addressing a complementary boundary of AI as facilitator
+- [[self-directed-growth-generative-ai-learning-analytics]] — a conceptual framework treating GenAI as a non-prescriptive scaffold for self-directed growth, complementing this study's empirical view of AI as an epistemic scaffold
+- [[dynamic-skill-matching-capstone-teams]] — LLM-driven skill extraction and team formation in STEM capstone courses, another AI-for-higher-ed workflow
+- [[embodied-inquiry-ai-facilitator-physics-2026]] — where a language-based AI can stand within inquiry-based STEM learning, addressing a complementary boundary of AI as facilitator
+
+## Citation
+
+[From literature to research-based learning: An AI-powered information extraction system to enhance undergraduate thesis completion](https://www.sciencedirect.com/science/article/pii/S2666920X26000536) — An, R., Zhu, W., Zhao, Q., Laaksonen, A., & Lan, S. (2026). *Computers and Education: Artificial Intelligence*, 10, 100591.

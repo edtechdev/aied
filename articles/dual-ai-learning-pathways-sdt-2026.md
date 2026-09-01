@@ -7,10 +7,6 @@ sources: ["raw/papers/dual-ai-learning-pathways-sdt-2026.md"]
 tags: ["generative-ai-learning", "dual-pathway-model", "self-determination-theory", "hook-model", "structural-equation-modeling", "autonomy-support", "ai-dependence"]
 ---
 
-## Citation
-
-[How high-school pressure and autonomy support are linked to dual AI learning pathways: A cross-contextual SEM analysis](https://www.sciencedirect.com/science/article/pii/S2666920X26001013) — Shen, Q., & Arunrugstichai, W. (2026). *Computers and Education: Artificial Intelligence*, 10, 100621.
-
 ## Overview
 
 Shen and Arunrugstichai propose a **dual-pathway framework** explaining why students' [[generative-ai|GenAI]] use ranges from constructive support to compulsive dependence. Drawing on **Self-Determination Theory (SDT)** and the **Hook model**, they examine how retrospective reports of high-school learning climate relate to university students' GenAI-use patterns and perceived AI-supported learning quality. Using cross-sectional survey data (**overall N = 508**; China-HS n = 305, non-China-HS n = 203; China-Uni n = 193, Thailand-Uni n = 315), they test the model with structural equation modeling and multi-group analysis.
@@ -28,7 +24,7 @@ Shen and Arunrugstichai propose a **dual-pathway framework** explaining why stud
 - **For [[higher-ed|higher education]]:** Understanding students' prior learning climate helps explain and respond to differential GenAI use patterns.
 - **For [[research-methods-aied|researchers]]:** The dual-pathway model integrates SDT and behavioral engagement (Hook model) to explain both productive and problematic AI use.
 
-## Related Concepts
+## Connected Concepts
 
 - [[self-determination-theory]]
 - [[student-engagement]]
@@ -36,6 +32,10 @@ Shen and Arunrugstichai propose a **dual-pathway framework** explaining why stud
 
 ## Connected Articles
 
-- [liang-ai-learning-motivation-sdt-2026] — AI learning and motivation from an SDT lens
-- [genai-motivation-engagement-2026] — GenAI, motivation, and engagement
-- [ai-availability-student-motivation] — how AI availability shapes student motivation
+- [[liang-ai-learning-motivation-sdt-2026]] — AI learning and motivation from an SDT lens
+- [[genai-motivation-engagement-2026]] — GenAI, motivation, and engagement
+- [[ai-availability-student-motivation]] — how AI availability shapes student motivation
+
+## Citation
+
+[How high-school pressure and autonomy support are linked to dual AI learning pathways: A cross-contextual SEM analysis](https://www.sciencedirect.com/science/article/pii/S2666920X26001013) — Shen, Q., & Arunrugstichai, W. (2026). *Computers and Education: Artificial Intelligence*, 10, 100621.

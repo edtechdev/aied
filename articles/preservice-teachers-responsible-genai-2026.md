@@ -7,10 +7,6 @@ sources: ["raw/papers/preservice-teachers-responsible-genai-2026.md"]
 tags: ["pre-service-teachers", "teacher-education", "educational-ethics", "ai-literacy", "privacy", "critical-thinking", "generative-ai"]
 ---
 
-## Citation
-
-[Preparing pre-service teachers for responsible [[generative-ai|generative AI]] use: [[curriculum-design|Curriculum]] implications for ethics, privacy, and AI literacy](https://www.sciencedirect.com/science/article/pii/S2666920X26000858) — Kohnke, L., Zou, D., Lai, C., & Gu, M. M. (2026). *Computers and Education: Artificial Intelligence*, 10, 100617.
-
 ## Overview
 
 Kohnke and colleagues investigate what pre-service teachers should learn about generative AI by **backtracking from anticipated classroom dilemmas to teacher-education design needs**. Through [[qualitative-research|qualitative]] interviews with **17 pre-service teachers at a [[higher-ed|university]]**, the study explores perspectives on integrating AI into education, focusing on ethical concerns and [[pedagogy|pedagogical]] strategies within an interpretivist paradigm.
@@ -28,7 +24,7 @@ Kohnke and colleagues investigate what pre-service teachers should learn about g
 - **For curriculum designers:** Ethics, privacy, and AI literacy should be woven throughout teacher preparation, grounded in anticipated classroom realities.
 - **For pre-service teachers:** Preparation for responsible GenAI use involves both technical understanding and ethical reasoning.
 
-## Related Concepts
+## Connected Concepts
 
 - [[teacher-education]]
 - [[ai-literacy]]
@@ -37,6 +33,10 @@ Kohnke and colleagues investigate what pre-service teachers should learn about g
 
 ## Connected Articles
 
-- [tpack-genai-inservice-teachers-mediation-2026] — TPACK-GenAI for in-service teachers (Mohebi & ElSayary 2026)
-- [preschool-teachers-ai-behavioral-intention-2026] — teacher behavioral intention to use AI (Duan et al. 2026)
-- [pre-service-science-teachers-ai-perceptions-2026] — pre-service science teachers' AI perceptions
+- [[tpack-genai-inservice-teachers-mediation-2026]] — TPACK-GenAI for in-service teachers (Mohebi & ElSayary 2026)
+- [[preschool-teachers-ai-behavioral-intention-2026]] — teacher behavioral intention to use AI (Duan et al. 2026)
+- [[pre-service-science-teachers-ai-perceptions-2026]] — pre-service science teachers' AI perceptions
+
+## Citation
+
+[Preparing pre-service teachers for responsible generative AI use: Curriculum implications for ethics, privacy, and AI literacy](https://www.sciencedirect.com/science/article/pii/S2666920X26000858) — Kohnke, L., Zou, D., Lai, C., & Gu, M. M. (2026). *Computers and Education: Artificial Intelligence*, 10, 100617.

@@ -7,10 +7,6 @@ sources: ["raw/papers/gpt-item-generation-l2-listening-2026.md"]
 tags: ["automatic-item-generation", "prompt-engineering", "fine-tuning", "gpt", "listening-assessment", "second-language-assessment", "large-language-models"]
 ---
 
-## Citation
-
-[How to train your dragon: Evaluating prompting and fine-tuning for GPT-based [[automated-question-generation|item generation]] in L2 listening assessment](https://www.sciencedirect.com/science/article/pii/S2666920X26000792) — Aryadoust, V., & Wong, J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100623.
-
 ## Overview
 
 Aryadoust and Wong compare **prompting vs. fine-tuning** for advancing automatic item generation (AIG) in L2 listening assessment. Recognizing that iterative prompt refinement eventually plateaus while outputs remain inconsistent or misaligned with assessment constructs, they first refined an instruction design over three successive iterations to produce an optimized prompt, then **fine-tuned GPT-4.1** using the same prompt to isolate the effect of model adaptation. They generated **40 tests and 240 multiple-choice items** for evaluation.
@@ -28,7 +24,7 @@ Aryadoust and Wong compare **prompting vs. fine-tuning** for advancing automatic
 - **For language testers:** AIG can scale L2 listening item production, but construct alignment and consistency require careful prompt and model optimization.
 - **For researchers:** The controlled comparison (holding prompt constant) offers a [[research-methods-aied|methodological]] template for isolating model-adaptation effects in AIG.
 
-## Related Concepts
+## Connected Concepts
 
 - [[llm]]
 - [[language-learning]]
@@ -37,6 +33,10 @@ Aryadoust and Wong compare **prompting vs. fine-tuning** for advancing automatic
 
 ## Connected Articles
 
-- [llm-item-difficulty-prediction] — LLM-based item difficulty prediction
-- [item-writing-flaws-irt-difficulty-2026] — item-writing flaws and IRT difficulty/discrimination (Schmucker & Moore 2026)
-- [llm-agents-5e-esl-grammar-2026] — LLM agents for ESL grammar (Yang et al. 2026)
+- [[llm-item-difficulty-prediction]] — LLM-based item difficulty prediction
+- [[item-writing-flaws-irt-difficulty-2026]] — item-writing flaws and IRT difficulty/discrimination (Schmucker & Moore 2026)
+- [[llm-agents-5e-esl-grammar-2026]] — LLM agents for ESL grammar (Yang et al. 2026)
+
+## Citation
+
+[How to train your dragon: Evaluating prompting and fine-tuning for GPT-based item generation in L2 listening assessment](https://www.sciencedirect.com/science/article/pii/S2666920X26000792) — Aryadoust, V., & Wong, J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100623.
