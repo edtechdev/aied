@@ -66,3 +66,4 @@ Because young learners are more vulnerable and less able to self-regulate their 
 - [[awareness-technological-isomorphism]] — Technological isomorphism in elementary math
 - [[icub-humanoid-storytelling-llm-hri-2025]] — LLM humanoid storytelling with children
 
+- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T09:58:42-04:00"
+updated: "2026-09-01T09:15:00-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
@@ -192,3 +192,6 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[finkelstein-principled-ai-education-2025]] — Principled AI education
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing teacher digital competence for GenAI curriculum design
 
+- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
+- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
+- [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)

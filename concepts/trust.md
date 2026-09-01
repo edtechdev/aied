@@ -72,3 +72,4 @@ The unifying challenge is **calibration**: matching trust to actual reliability,
 - [[ai-adaptation-gap-higher-education-2026]] — Perceived usefulness as the strongest predictor of AI trust in higher ed
 - [[bassett-ai-detectors-education-2026]] — Trust and distrust of AI detection systems
 
+- [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)

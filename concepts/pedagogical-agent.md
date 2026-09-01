@@ -112,3 +112,4 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 
+- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)

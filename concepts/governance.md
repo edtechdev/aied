@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-01T09:15:00-04:00"
 type: concept
 tags: [educational-policy-ai, ethics, higher-ed, change-management, privacy, regulation, ai-education]
 level: [higher ed]
@@ -25,6 +25,9 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 
 - **[[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi]]** [[meta-analysis-systematic-review|scoping review]] frames AI governance in higher education through anticipatory-governance and leadership lenses.
 - **Student co-design of policy:** [[guided-inquiry-genai-course-policy-2026|Hingle & Johri]] show how a guided inquiry activity in which students co-designed a GenAI course policy surfaced student values — prioritizing training, standardized [[ai-use-disclosure|disclosure]] procedures, stronger institutional support, and greater involvement in decision-making. This positions students as partners in governance rather than passive subjects, complementing institutional-level policy with bottom-up student voice.
+
+
+- **The techno-solutionist trap and the policy deficit:** A systematic review of 65 AI × [[social-emotional-learning|social-emotional learning]] studies ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) finds that research often foregrounds technical potential while under-specifying the institutional conditions for responsible implementation — a "techno-solutionist" trap. The authors link policy [[student-engagement|engagement]] to publication venue and propose a "WH-question" framework to make governance implications actor-specific, echoing the knowledge base's broader finding that institutional governance lags AI adoption.
 
 ## How AI governance appears in the research
 
@@ -126,3 +129,5 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
 
+- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
+- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)

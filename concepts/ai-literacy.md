@@ -171,3 +171,6 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Secondary students' ethical reasoning about AI-giarism (Chan 2026)
 - [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — Academic integrity and student study practices with AI (Lopez-Lopez et al. 2026)
 
+- [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
+- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
+- [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)

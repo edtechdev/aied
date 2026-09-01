@@ -90,3 +90,4 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 - [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing
 - [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
 
+- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
