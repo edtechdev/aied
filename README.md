@@ -179,6 +179,7 @@ The mirrored **Hermes Agent skills** live in [`skills/research/`](skills/researc
 - **`wiki-journal-update`** — regenerating `journal.md`/`index.md` correctly.
 - **`wiki-epub-export`** — building the EPUB/PDF offline versions.
 - **`wiki-site-quality`** — static-site bug fixes (broken links, dead tags, formatting).
+- **`wiki-page-deepening`** — how to genuinely deepen/enrich/enhance a concept, article, or FAQ page (mine raw sources for specifics, weave into the narrative, add practical tips/examples/implications, cross-link, gate, ship).
 - **`wiki-astro-frontend`** — editing the Astro frontend (homepage, concept map, icons).
 
 The repo's [`AGENTS.md`](AGENTS.md) documents the page-structure rules and the inline-link HARD GATE that agents must follow on every ingestion.
