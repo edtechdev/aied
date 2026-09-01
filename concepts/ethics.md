@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T16:00:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
@@ -87,6 +87,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: ethics, privacy, AI literacy (Kohnke et al. 2026)
 - [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
