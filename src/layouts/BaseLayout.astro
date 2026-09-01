@@ -349,22 +349,18 @@ const recentConceptItems = recentConcepts.map(c => ({
       .brand-full { display: none; }
       .brand-short { display: inline; }
     }
-    /* Mobile: keep header on a SINGLE row (like the Blume header — flex nowrap),
-       letting the search box shrink inline instead of dropping to a second
-       full-width row. The standalone Search header icon is redundant once the
-       search box is in the row, so hide it on narrow screens to free space. */
+    /* Mobile: keep header usable on narrow screens */
     @media (max-width: 640px) {
       header .container {
-        flex-wrap: nowrap;
+        flex-wrap: wrap;
         gap: 0.5rem;
         justify-content: space-between;
       }
       .header-search {
-        flex: 1 1 auto;
-        min-width: 0;
+        order: 3;
         max-width: none;
+        flex-basis: 100%;
       }
-      .header-icons .header-icon[title="Search"] { display: none; }
     }
 
     main {
