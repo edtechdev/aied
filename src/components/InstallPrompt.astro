@@ -93,6 +93,12 @@ import siteConfig from '../config/siteConfig';
     try { dismissed = localStorage.getItem(KEY) === '1'; } catch (e) {}
     if (dismissed) return;
 
+    // Only offer install on touch (mobile/tablet) devices. On desktop the
+    // install banner is noise — preventDefault() below already suppresses
+    // Chrome's native infobar, and we don't surface our own banner either.
+    const isCoarsePointer = window.matchMedia('(pointer: coarse)').matches;
+    if (!isCoarsePointer) return;
+
     let deferred: { prompt: () => Promise<void>; userChoice?: Promise<{ outcome: string }> } | null = null;
 
     const show = () => { banner.hidden = false; };
