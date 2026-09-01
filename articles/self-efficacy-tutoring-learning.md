@@ -15,15 +15,15 @@ confidence: high
 
 ## Key Findings
 
-- Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format.
+- Students with lower baseline [[self-efficacy]] achieved greater learning gains regardless of practice format.
 - Among students with lower baseline self-efficacy, greater favorability toward the tutor was associated with greater learning gains during tutor practice, whereas the pattern differed in paper-based practice.
 - Intelligent Tutoring System (ITS)-based practice did not significantly improve post-training self-efficacy relative to paper-based methods.
 - The benefits of tutor- and paper-based practice varied with baseline self-efficacy and favorability, so no single format dominated for all learners.
-- The findings underscore the potential value of tailoring practice format to students' motivational profiles.
+- The findings underscore the potential value of tailoring practice format to students' [[motivation|motivational]] profiles.
 
 ## Study Design & Method
 
-The study examined how self-efficacy and favorability toward practice shape learning across two common practice formats: paper-based practice and system-based tutoring practice. Using a counterbalanced within-subject design with matched problem sets, the authors isolated the effect of practice format while modeling motivational differences. The work builds on the observation that technology-enhanced learning systems in domains such as mathematics and science can improve learning outcomes through scaffolded support, step-level feedback, and individualized practice, but that learners' motivational profiles may influence how they respond to one format versus another.
+The study examined how self-efficacy and favorability toward practice shape learning across two common practice formats: paper-based practice and system-based tutoring practice. Using a counterbalanced within-subject design with matched problem sets, the authors isolated the effect of practice format while modeling motivational differences. The work builds on the observation that technology-enhanced learning systems in domains such as [[math-education|mathematics]] and science can improve [[learning-gains|learning outcomes]] through scaffolded support, step-level feedback, and individualized practice, but that learners' motivational profiles may influence how they respond to one format versus another.
 
 ## Relevance to AI in Education
 

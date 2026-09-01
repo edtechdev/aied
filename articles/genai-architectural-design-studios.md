@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.24752.md']
 confidence: medium
 ---
 
-Examines the integration of deep generative models into architectural design education. The findings, based on students' views and observations in design studios, suggest that GenAI supports the exploration of creative ideas — serving as visual stimuli and inspirational resources in early design stages — while also highlighting the competencies students need to differentiate between GenAI models and use them effectively.
+Examines the integration of deep generative models into architectural design education. The findings, based on students' views and observations in design studios, suggest that [[generative-ai|GenAI]] supports the exploration of creative ideas — serving as visual stimuli and inspirational resources in early design stages — while also highlighting the competencies students need to differentiate between GenAI models and use them effectively.
 
 ## Key Findings
 
@@ -19,7 +19,7 @@ Examines the integration of deep generative models into architectural design edu
 - Students used GenAI as **visual stimuli and inspirational resources**, supporting exploration of the unknown in the early stages of the design process.
 - A second, combinatorial pattern of use (analogous to Boden's 'combinatorial' method) was effective as **solution space enhancement**: generating alternatives that expand the solution space during the design and development phase, with students using GenAI to advance their preliminary solution ideas.
 - The authors stress that avoiding **design fixation** requires competencies and discernment to differentiate between GenAI models and use them effectively.
-- The study also cites evidence (Wadinambiarachchi et al., 2024) that exposure to GenAI images can narrow designers' focus by tying them to specific aesthetics, and notes that several of its own findings require further research.
+- The study also cites evidence (Wadinambiarachchi et al., 2024) that exposure to GenAI images can narrow designers' focus by tying them to specific aesthetics, and notes that several of its own findings require further [[research-methods-aied|research]].
 
 ## Study Design & Method
 
@@ -27,7 +27,7 @@ The research combined the development of a GenAI interface with its implementati
 
 ## Implications for AI in Education
 
-For [[design-thinking]]-oriented disciplines, the results suggest GenAI is best framed as an ideation resource whose value depends on pedagogical orchestration: students need guidance in model selection and critical discernment to exploit generative alternatives without falling into design fixation or aesthetic lock-in. These competencies extend the [[teacher-role]] in [[higher-ed]] studio pedagogy from transmitting craft to coaching how, when, and why to delegate creative exploration to generative models.
+For [[design-thinking]]-oriented disciplines, the results suggest GenAI is best framed as an ideation resource whose value depends on [[pedagogy|pedagogical]] orchestration: students need guidance in model selection and critical discernment to exploit generative alternatives without falling into design fixation or aesthetic lock-in. These competencies extend the [[teacher-role]] in [[higher-ed]] studio pedagogy from transmitting craft to coaching how, when, and why to delegate creative exploration to generative models.
 
 ## Connected Concepts
 

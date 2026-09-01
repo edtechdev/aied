@@ -37,7 +37,7 @@ The signs matter more than magnitudes: [[reinforcement-learning|reward]] verific
 
 ## The Alignment Tax
 
-The paper quantifies severe degradation from pedagogical [[pedagogical-llm-training|GRPO fine-tuning]]:
+The paper quantifies severe degradation from [[pedagogy|pedagogical]] [[pedagogical-llm-training|GRPO fine-tuning]]:
 - Thinking length drops from 1,764 to 119 words/turn (−93%)
 - Content-Knowledge accuracy falls by −71% relative
 - Pedagogical-Knowledge accuracy falls by −80% relative

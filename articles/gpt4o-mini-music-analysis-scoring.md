@@ -13,7 +13,7 @@ sources: ['raw/papers/2608.01783.md']
 confidence: high
 ---
 
-> **GPT-4o-mini can produce stable rubric-based scores for open-ended music analysis responses, with few-shot chain-of-thought prompting agreeing most strongly with teacher means while RAG systematically over-scores and self-consistency trades individual-level agreement for repeatability.**
+> **GPT-4o-mini can produce stable rubric-based scores for open-ended music analysis responses, with few-shot chain-of-thought [[prompt-engineering|prompting]] agreeing most strongly with teacher means while [[rag]] systematically over-scores and self-consistency trades individual-level agreement for repeatability.**
 
 **Baicheng Lin, Lingxi Jin, Kyung-Seok Min** — arXiv (cs.HC / cs.SD) preprint, 2026 (Sejong University, Ewha Womans University).
 
@@ -27,7 +27,7 @@ RAG showed systematic over-scoring; SC (self-consistency over 5 generations) was
 
 Dimension-level analysis: Terminology showed weaker agreement than Reasoning, indicating strategy-specific and dimension-specific scoring profiles.
 
-Operational use requires strategy-specific calibration, dimension-level validation, and continued human oversight.
+Operational use requires strategy-specific calibration, dimension-level validation, and continued [[human-in-the-loop-ai|human oversight]].
 
 ## Connected Concepts
 

@@ -15,7 +15,7 @@ confidence: high
 
 **Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni** — submitted 17 Jun 2026
 
-ELEVATE framework deploys GenAI-driven 3D avatar tutors on consumer-grade hardware with local-first execution model, emphasizing privacy, teacher governance, and equity in K-12 education.
+ELEVATE framework deploys [[generative-ai|GenAI]]-driven 3D avatar tutors on consumer-grade hardware with local-first execution model, emphasizing privacy, teacher [[governance]], and equity in [[k-12]] education.
 
 ## Key Contributions
 
@@ -23,7 +23,7 @@ ELEVATE framework deploys GenAI-driven 3D avatar tutors on consumer-grade hardwa
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
 
 ## Connected Concepts
 

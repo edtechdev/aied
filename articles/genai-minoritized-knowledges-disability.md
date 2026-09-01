@@ -26,11 +26,11 @@ Training data predominantly sourced from Anglophone, Western academic traditions
 
 ## Proposed Hybridization
 
-Tali-Otmani explores whether a **researcher-machine hybridization** could preserve epistemic plurality. Rather than rejecting AI tools outright, she examines whether collaborative human-AI processes might surface marginalized perspectives. However, she warns against treating [[bias-mitigation]] through algorithmic correction as a purely palliative strategy — structural limitations persist when the underlying training data and design processes remain unchanged.
+Tali-Otmani explores whether a **[[research-methods-aied|researcher]]-machine hybridization** could preserve epistemic plurality. Rather than rejecting AI tools outright, she examines whether collaborative human-AI processes might surface marginalized perspectives. However, she warns against treating [[bias-mitigation]] through algorithmic correction as a purely palliative strategy — structural limitations persist when the underlying training data and design processes remain unchanged.
 
 ## Implications for AIED
 
-For the [[special-education]] AIED community, this paper raises the stakes beyond accessibility to knowledge legitimacy. AI tools for disabled learners must not only be accessible but must also amplify rather than suppress their epistemological contributions. This requires rethinking [[ai-literacy]] to include critical awareness of whose knowledge is being represented and validated.
+For the [[special-education]] [[ai-education|AIED]] community, this paper raises the stakes beyond [[accessibility]] to knowledge legitimacy. AI tools for disabled learners must not only be accessible but must also amplify rather than suppress their epistemological contributions. This requires rethinking [[ai-literacy]] to include critical awareness of whose knowledge is being represented and validated.
 
 ## Connected Concepts
 

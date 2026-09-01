@@ -22,7 +22,7 @@ This scoping review systematically maps **474 studies** (January 2020 – May 20
 The field has grown explosively, but the literature is dominated by **conference papers** concentrated in **[[higher-ed|higher education]]**, **[[stem-education|STEM disciplines]]**, and **text-based tutoring** scenarios. This mirrors the general trajectory of [[ai-education]] research, but with a specific agentic inflection point in 2025.
 
 ### 2. Technology Stack: GPT + LangChain Dominate
-**GPT-series models** and **LangChain** are the most widely adopted technologies. Notably, **OpenClaw** and other frontier agent paradigms (governed tool orchestration, persistent memory, long-horizon planning, multi-agent coordination) remain **largely absent** from educational research — revealing a significant technology–application gap. This stands in contrast to the vision articulated in [[agentic-ai]].
+**GPT-series models** and **LangChain** are the most widely adopted [[ai-technologies|technologies]]. Notably, **OpenClaw** and other frontier agent paradigms (governed tool orchestration, persistent memory, long-horizon planning, multi-agent coordination) remain **largely absent** from educational research — revealing a significant technology–application gap. This stands in contrast to the vision articulated in [[agentic-ai]].
 
 ### 3. Agentic Capabilities Remain Modest
 Across the six capability dimensions analyzed:

@@ -13,7 +13,7 @@ confidence: medium
 
 > An analysis of 310 AI-generated lesson plans (2,230 individual activities) produced by ChatGPT (GPT-4o), Gemini (1.5 Flash), and Copilot (GPT-4 based) for all 53 Massachusetts eighth-grade civics standards. Each standard received two prompts: a basic "write a lesson plan" and a "highly interactive" variant.
 
-> Large-scale empirical evaluation of AI-generated civics lesson plans reveals that without teacher revision, AI tools overwhelmingly produce lower-order thinking activities and monocultural content — fundamentally at odds with the goals of civic education.
+> Large-scale empirical [[ai-ed-evaluation|evaluation of AI]]-generated civics lesson plans reveals that without teacher revision, AI tools overwhelmingly produce lower-order thinking activities and monocultural content — fundamentally at odds with the goals of civic education.
 
 ## The Study
 
@@ -42,15 +42,15 @@ Using **Bloom's Revised Taxonomy**:
 Using **Banks' Four Levels of Integration of Multicultural Content**:
 
 - **94% of activities** contained no discernible multicultural content (2,086 of 2,230).
-- Of the 144 activities that did, 137 were at the lowest "Additive" level (mentioning diverse figures without restructuring curriculum).
+- Of the 144 activities that did, 137 were at the lowest "Additive" level (mentioning diverse figures without restructuring [[curriculum-design|curriculum]]).
 - Only **1 activity** reached "Transformation" (restructuring the curriculum to include diverse perspectives).
 - **Zero activities** reached "Social Action" (empowering students to address social issues).
 
-This is especially damning for *civic education*, where multicultural perspectives and critical engagement with power structures are essential learning goals.
+This is especially damning for *civic education*, where multicultural perspectives and critical [[student-engagement|engagement]] with power structures are essential learning goals.
 
 ### Formulaic Outputs Across All Chatbots
 
-All three chatbots produced structurally identical lesson plans: Introduction → Activities 1-4 → Conclusion → Assessment → Extension → Homework. This factory-line format was applied regardless of whether the standard addressed constitutional principles, civil rights, or local government — homogenization that strips away the disciplinary texture of civic education.
+All three [[conversational-ai|chatbots]] produced structurally identical lesson plans: Introduction → Activities 1-4 → Conclusion → Assessment → Extension → Homework. This factory-line format was applied regardless of whether the standard addressed constitutional principles, civil rights, or local government — homogenization that strips away the disciplinary texture of civic education.
 
 ## Implications for AI in Education
 
@@ -63,7 +63,7 @@ This study provides concrete evidence for why [[ai-literacy|AI literacy for teac
 
 ### Connection to Broader AI Alignment Problems
 
-This finding parallels Hardy & Kim's [[educational-llm-alignment]] — AI tools may appear competent (producing well-formatted lesson plans) while failing at the *intended impact* (fostering critical civic thinking). The homogenized output reflects shared pretraining patterns that embed narrow pedagogical assumptions.
+This finding parallels Hardy & Kim's [[educational-llm-alignment]] — AI tools may appear competent (producing well-formatted lesson plans) while failing at the *intended impact* (fostering critical civic thinking). The homogenized output reflects shared pretraining patterns that embed narrow [[pedagogy|pedagogical]] assumptions.
 
 ### The Teacher's Role Is Enhanced, Not Replaced
 
@@ -85,7 +85,7 @@ Civic education is a uniquely high-stakes domain for AI application because:
 
 - Would fine-tuned educational LLMs (e.g., [[pedagogical-llm-training|EduQwen]]) produce more cognitively demanding and multiculturally-aware lesson plans?
 - How do these findings generalize to other subjects (math, science, language arts)?
-- Can better prompt engineering (e.g., explicitly requesting higher-order thinking and multicultural integration) close the gap?
+- Can better [[prompt-engineering|prompt engineering]] (e.g., explicitly requesting [[critical-thinking|higher-order thinking]] and multicultural integration) close the gap?
 - What does the teacher revision process look like in practice — do teachers have the time and training to meaningfully redesign AI outputs?
 
 ## Connected Concepts

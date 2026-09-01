@@ -12,7 +12,7 @@ sources: ['raw/papers/vargas-ai-catalyst-situated-learning-2026.md']
 confidence: high
 ---
 
-> Vargas, Chiappe & Fontán de Bedout (2026) argue that AI can act as a **catalyst for situated learning** by connecting education to authentic, real-world contexts. Drawing on Lave & Wenger's (1991) communities of practice and Dewey's (1926) "learning by doing," the essay positions AI — through personalization, data analytics, and realistic simulation environments — as the mechanism to overcome the curricular rigidity, resource scarcity, and lack of immersive tools that block situated learning in "Education 4.0." The teacher's role is reframed from information transmitter to facilitator, and AI is framed as a complement to, not a substitute for, human interaction, with explicit cautions about over-reliance, equity, and data ethics.
+> Vargas, Chiappe & Fontán de Bedout (2026) argue that AI can act as a **catalyst for [[situated-learning|situated learning]]** by connecting education to authentic, real-world contexts. Drawing on Lave & Wenger's (1991) communities of practice and Dewey's (1926) "learning by doing," the essay positions AI — through [[personalized-learning|personalization]], data analytics, and realistic simulation environments — as the mechanism to overcome the [[curriculum-design|curricular]] rigidity, resource scarcity, and lack of immersive tools that block situated learning in "Education 4.0." The teacher's role is reframed from information transmitter to facilitator, and AI is framed as a complement to, not a substitute for, human interaction, with explicit cautions about [[cognitive-offloading|over-reliance]], equity, and data [[ethics]].
 
 ## Key Findings
 
@@ -20,7 +20,7 @@ confidence: high
 - **Teacher-role shift:** AI redefines teachers from transmitters of information to [[teacher-role|facilitators of situated learning]], who use AI analytics and dashboards to design context-specific, responsive activities; teachers play the critical interpretive role linking assessment insights to practical application.
 - **Personalization & authentic contexts:** AI's ability to analyze learner data and simulate real-world scenarios (Duolingo/Rosetta Stone language role-plays, Microsoft HoloLens AR, Osso VR surgical training, Siemens Simcenter industrial simulators) supports personalization and situated decision-making — and positions "authentic" as compatible with "digital."
 - **Authentic assessment:** AI enables continuous, integrated [[authentic-assessment|competency-based assessment]] woven into the learning process rather than external audits of knowledge, moving beyond memorization-focused standardized tests.
-- **Cautionary limits:** The essay flags risks of over-reliance on simulations (eroding skills for performing under real pressure), technological dependency and cost in resource-limited settings, data privacy/security, algorithmic bias, educator resistance, and the need for equitable access — framing AI as a complement, not a substitute, for human interaction.
+- **Cautionary limits:** The essay flags risks of over-reliance on [[simulation|simulations]] (eroding skills for performing under real pressure), technological dependency and cost in resource-limited settings, [[privacy|data privacy]]/security, [[bias-mitigation|algorithmic bias]], educator resistance, and the need for [[equity-in-ai-education|equitable]] access — [[framing-ai-use-for-students|framing AI]] as a complement, not a substitute, for human interaction.
 
 ## Connected Concepts
 

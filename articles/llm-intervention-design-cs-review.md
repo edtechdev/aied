@@ -14,7 +14,7 @@ confidence: high
 
 ## Key Findings
 
-This scoping review analyzed **13 experimental studies** on LLM integration in undergraduate [[cs-education]], examining how intervention design choices shape [[learning-gains|learning outcomes]]. The central finding: **LLM effectiveness depends less on the model itself than on pedagogical design**.
+This [[meta-analysis-systematic-review|scoping review]] analyzed **13 experimental studies** on [[llm]] integration in undergraduate [[cs-education]], examining how intervention design choices shape [[learning-gains|learning outcomes]]. The central finding: **LLM effectiveness depends less on the model itself than on [[pedagogy|pedagogical]] design**.
 
 ### Three Intervention Archetypes
 
@@ -39,7 +39,7 @@ The review identifies four design elements that distinguish effective interventi
 
 ### Language and Methodological Gaps
 
-Java interventions showed more consistent gains; Python — despite dominance in CS1 — lacks sufficient experimental isolation. The review also documents critical methodological weaknesses: inconsistent outcome operationalization, variable control group definitions, and chronic **underreporting of effect sizes and confidence intervals** — a concern that connects to broader efficacy-study design standards.
+Java interventions showed more consistent gains; Python — despite dominance in CS1 — lacks sufficient experimental isolation. The review also documents critical [[research-methods-aied|methodological]] weaknesses: inconsistent outcome operationalization, variable control group definitions, and chronic **underreporting of effect sizes and confidence intervals** — a concern that connects to broader efficacy-study design standards.
 
 ## Relevance to AI in Education
 

@@ -14,7 +14,7 @@ confidence: high
 
 ## Key Findings
 
-1. **Unified optimization framework:** An Integer Linear Programming model jointly integrates institutional compatibility, administrative boundaries, road-network travel-time accessibility, capacity, and curricular compatibility — a departure from prior models that handled only subsets of these [[network-analysis|school network]] planning dimensions.
+1. **Unified optimization framework:** An Integer Linear Programming model jointly integrates institutional compatibility, administrative boundaries, road-network travel-time accessibility, capacity, and [[curriculum-design|curricular]] compatibility — a departure from prior models that handled only subsets of these [[network-analysis|school network]] planning dimensions.
 2. **Geographical coherence and enrollment thresholds dominate:** Across all synthetic instance sizes, inter-municipality aggregation penalties are the strongest drivers of cost, while the autonomy threshold is the only parameter negatively correlated with the objective; [[accessibility]] and territorial-protection weights rarely bind.
 3. **Quantum-ready formulation:** Reformulated as a Constrained Quadratic Model and solved on a hybrid quantum-classical sampler, the framework reproduces the classical optimum in every tested configuration with a 0% optimality gap, though at higher execution times.
 4. **Structurally robust plans:** Optimal aggregation plans vary little with policy weights, so decision-makers can explore trade-offs between cost, accessibility, and educational quality without destabilizing the network.

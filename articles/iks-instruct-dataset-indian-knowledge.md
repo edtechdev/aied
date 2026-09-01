@@ -11,12 +11,12 @@ sources: ['raw/papers/2607.23322.md']
 confidence: medium
 ---
 
-Presents a 24,795-example multilingual instruction dataset for teaching LLMs to deliver educational content grounded in Indian Knowledge Systems. Spans seven languages and bridges a gap in non-Western pedagogical content for instruction tuning. Demonstrates that domain-specific educational datasets improve LLM performance on culturally grounded knowledge tasks.
+Presents a 24,795-example [[multilingual-learning|multilingual]] instruction dataset for [[teacher-role|teaching]] LLMs to deliver educational content grounded in Indian Knowledge Systems. Spans seven languages and bridges a gap in non-Western [[pedagogy|pedagogical]] content for instruction tuning. Demonstrates that [[discipline-specific-aied|domain-specific]] educational datasets improve [[llm]] performance on culturally grounded knowledge tasks.
 
 ## Key Findings
 
 - **IKS-Instruct** contains **24,795 instruction-response pairs** for teaching language models to deliver educational content grounded in Indian Knowledge Systems (IKS), spanning **seven languages** (English, Hindi, Sanskrit, Tamil, Telugu, Kannada, Malayalam).
-- The dataset covers **41 pedagogical techniques** from Vedic oral and mathematical traditions and is aligned with the **Central Board of Secondary Education (CBSE) curriculum for classes 6 through 12**.
+- The dataset covers **41 pedagogical techniques** from Vedic oral and mathematical traditions and is aligned with the **Central Board of Secondary Education (CBSE) [[curriculum-design|curriculum]] for classes 6 through 12**.
 - Pairs derive from **six source types**: classical text corpora (Bhagavad Gita, Thirukkural, Sangam literature, Vedic texts), curriculum-aligned pedagogical templates, Vedic mathematical sutra demonstrations, bilingual instruction pairs, technique-grounded multi-turn dialogues, and cross-tradition comparative analyses.
 - Quality is assessed through a **multi-judge evaluation framework** in which independent language models score responses on **12 dimensions**, including technique fidelity, pedagogical quality, factual accuracy, and IKS cultural depth.
 - Under a uniform five-judge external panel (median aggregation over 1,201 stratified items), the strongest IKS-Instruct fine-tune of a compact **7B model reaches a median judge score of 6.39**, within 0.15 of a strong general-purpose reference model (Nemotron-Nano at 6.54) at a fraction of its deployment cost.

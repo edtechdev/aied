@@ -41,12 +41,12 @@ This multimodal approach aims to provide timely, targeted feedback at scale — 
 | Conciseness | ✓ |
 | Motivation | ✓ |
 | Satisfaction | ✓ |
-| Reduced cognitive load | ✓ |
+| Reduced [[cognitive-offloading|cognitive load]] | ✓ |
 | Correctness | — |
 | Trust | — |
 | Acceptance | — |
 
-AI feedback matched educator feedback on correctness, trust, and acceptance — but outperformed on every experiential dimension.
+[[ai-feedback-quality|AI feedback]] matched educator feedback on correctness, trust, and acceptance — but outperformed on every experiential dimension.
 
 ### Behavioral Engagement Patterns
 - **Multiple-choice questions**: Educator feedback encouraged more total submissions (students kept trying)
@@ -57,9 +57,9 @@ AI feedback matched educator feedback on correctness, trust, and acceptance — 
 This is a strong result for AI feedback systems:
 
 - **Equivalence on learning** is the bar most systems fail to clear — AI matched human educators
-- **Superior student experience** across 6 dimensions suggests AI can surpass humans on consistency, specificity, and clarity
+- **Superior [[student-experience|student experience]]** across 6 dimensions suggests AI can surpass humans on consistency, specificity, and clarity
 - **Scalability**: The system can provide real-time, context-aware support without instructor availability constraints
-- **Question-type effects**: The engagement pattern differences suggest adaptive strategies — AI may be better for open-ended work while human-like interaction helps for multiple-choice
+- **Question-type effects**: The [[student-engagement|engagement]] pattern differences suggest adaptive strategies — AI may be better for open-ended work while human-like interaction helps for multiple-choice
 
 ## Methodological Notes
 
@@ -72,7 +72,7 @@ This is a strong result for AI feedback systems:
 - Would results hold in real classroom settings with live educator feedback rather than fixed, pre-written feedback?
 - Does the advantage persist over multiple sessions, or is there a novelty effect?
 - How does each modality (text vs. slides vs. audio) contribute to the overall effect?
-- Can multimodal AI feedback reduce the negative behavioral pathway identified in sequenced feedback studies (fewer resubmissions)?
+- Can [[multimodal|multimodal AI]] feedback reduce the negative behavioral pathway identified in sequenced feedback studies (fewer resubmissions)?
 
 ## Connected Concepts
 - [[feedback]]

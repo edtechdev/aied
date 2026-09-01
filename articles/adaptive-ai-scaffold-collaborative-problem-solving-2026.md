@@ -15,7 +15,7 @@ confidence: high
 ## Key Findings
 
 - **Adaptive scaffolding is needed but rarely process-dynamic.** Most adaptive-scaffold designs are informed by student choice or aggregated behavioural/performance measures, rather than the dynamic, individual-level process sequences of students during CPS.
-- **Sample & task.** 78 students aged 14–15 from a public school worked in triads on a mathematics collaborative problem-solving task through online video conferencing.
+- **Sample & task.** 78 students aged 14–15 from a public school worked in triads on a mathematics collaborative [[problem-solving]] task through online video conferencing.
 - **Method: sequential patterning mining.** The adaptive scaffold design was derived using sequential patterning mining with independent-effects logistic regression to identify sequence-based patterns associated with students' performance improvements on a mathematics problem similar to the CPS task.
 - **Maximal vs minimal scaffold.** Students with the maximal scaffold had greater performance improvements and were significantly more on-task than those with the minimal scaffold — but they also engaged in more scripting behaviours.
 - **Phase-specific strategies.** The derived design informs conceptual strategies such as [[prompt-engineering|prompting]] students who are capable of answering questions to *ask* questions in the 'problem identification' phase.

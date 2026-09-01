@@ -11,18 +11,18 @@ sources: ['raw/papers/vonschallen-knowledge-based-gsr-higher-ed-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Vonschallen, Oberle, Schmiedel, and Eyssel (2026) adopt a knowledge-based design perspective to investigate what information tutoring-oriented generative social robots (GSRs) require to function responsibly and effectively in higher education. Recognizing that GSRs powered by large language models enable adaptive, conversational tutoring but introduce risks such as misinformation, overreliance, and privacy violations, they conducted twelve semi-structured interviews with university students and lecturers, identifying twelve design requirements across three knowledge types: self-knowledge, user-knowledge, and (a third type concerning the domain/context).
+> **Synthesis:** Vonschallen, Oberle, Schmiedel, and Eyssel (2026) adopt a knowledge-based design perspective to investigate what information tutoring-oriented generative social robots (GSRs) require to function responsibly and effectively in higher education. Recognizing that GSRs powered by large language models enable adaptive, conversational tutoring but introduce risks such as misinformation, [[cognitive-offloading|overreliance]], and privacy violations, they conducted twelve semi-structured interviews with university students and lecturers, identifying twelve design requirements across three knowledge types: self-knowledge, user-knowledge, and (a third type concerning the domain/context).
 
 ## Key Findings
 
 - **Generative social robots (GSRs) powered by LLMs enable adaptive, conversational tutoring** but introduce risks such as **misinformation, overreliance, and privacy violations**.
-- Existing frameworks for educational technologies and responsible AI define desired behaviors but **rarely specify the knowledge prerequisites** that enable generative agents to express those behaviors reliably.
+- Existing frameworks for educational [[ai-technologies|technologies]] and responsible AI define desired behaviors but **rarely specify the knowledge prerequisites** that enable generative agents to express those behaviors reliably.
 - Based on **twelve semi-structured interviews** with university students and lecturers, the study identified **twelve design requirements across three knowledge types** (self-knowledge, user-knowledge, and domain/context knowledge).
 - The findings offer a **knowledge-based design perspective** for building responsible, effective tutoring GSRs in higher education.
 
 ## Study Design & Method
 
-This is a **qualitative interview study**. The researchers conducted twelve semi-structured interviews with university students and lecturers to identify the knowledge prerequisites that tutoring-oriented generative social robots need to function responsibly and effectively in higher education. Using a knowledge-based design perspective, they analyzed the interviews to derive twelve design requirements organized across three knowledge types (self-knowledge, user-knowledge, and domain/context knowledge), addressing the gap between responsible-AI behavior frameworks and the informational requirements generative agents need.
+This is a **[[qualitative-research|qualitative]] interview study**. The [[research-methods-aied|researchers]] conducted twelve semi-structured interviews with university students and lecturers to identify the knowledge prerequisites that tutoring-oriented generative social robots need to function responsibly and effectively in higher education. Using a knowledge-based design perspective, they analyzed the interviews to derive twelve design requirements organized across three knowledge types (self-knowledge, user-knowledge, and domain/context knowledge), addressing the gap between responsible-AI behavior frameworks and the informational requirements generative agents need.
 
 ## Implications for AI in Education
 

@@ -16,7 +16,7 @@ confidence: high
 
 - **SRL as both stable and dynamic.** Pre-/post-semester surveys showed high individual consistency (R² up to 0.73), but paired t-tests revealed systemic declines in metacognitive knowledge (MAI_K) and wellbeing (WEMWBS) over the term — while metacognitive [[regulation]] (MAI_R) held steady.
 - **Curriculum drives fluctuations.** Week-by-week daily-survey analysis showed a major Week 8 project deadline lowered interest, [[self-efficacy]], and emotional wellbeing, with most [[affective-computing|affective]] metrics recovering after the assessment. Students shifted from planning/reviewing toward reading new material after the deadline.
-- **Context-aware GenAI support.** By separating formal, psychometrically-validated measurement of SRL from the LLM's interpretation, the authors gave Gemini 3 each student's baseline, week-by-week fluctuations, and academic context — and it generated appropriately tailored support (e.g., foundational strategy-building for a low-metacognition student vs. post-assessment recovery pacing for a high-metacognition student whose confidence had dipped). Researchers judged the output pedagogically sound.
+- **Context-aware GenAI support.** By separating formal, psychometrically-validated measurement of SRL from the LLM's interpretation, the authors gave Gemini 3 each student's baseline, week-by-week fluctuations, and academic context — and it generated appropriately tailored support (e.g., foundational strategy-building for a low-metacognition student vs. post-assessment recovery pacing for a high-metacognition student whose confidence had dipped). [[research-methods-aied|Researchers]] judged the output pedagogically sound.
 
 ## Implications
 

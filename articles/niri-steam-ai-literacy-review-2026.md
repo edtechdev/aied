@@ -13,14 +13,14 @@ sources: ['raw/papers/niri-steam-ai-literacy-review-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** This PRISMA systematic review of 39 studies (2016–2025) examines to what extent STEAM education advances [[ai-literacy|AI literacy]], using the TIECD framework refined into ten AI Literacy Elements (AILEs). It finds STEAM implementations chiefly develop technical literacies — fundamental AI concepts, [[computational-thinking]], data literacy — while underdeveloping ethical awareness, creative imagination, creating with AI, managing AI, and designing AI. Technology disciplines lead; arts, engineering, and integrated STEAM lag.
+> **Synthesis:** This PRISMA [[meta-analysis-systematic-review|systematic review]] of 39 studies (2016–2025) examines to what extent STEAM education advances [[ai-literacy|AI literacy]], using the TIECD framework refined into ten AI Literacy Elements (AILEs). It finds STEAM implementations chiefly develop technical literacies — fundamental AI concepts, [[computational-thinking]], data literacy — while underdeveloping [[ethics|ethical]] awareness, creative imagination, creating with AI, managing AI, and designing AI. Technology disciplines lead; arts, engineering, and integrated STEAM lag.
 
 ## Key Findings
 
 1. **39 studies, dual-level coding into ten AILEs.** Following PRISMA, the review maps contributions to ten AI Literacy Elements across STEAM subjects and contexts, plus subject and STEAM-cluster mappings.
-2. **Sharp growth from 2021 onward.** Publication on AI-as-content in STEAM increased markedly from 2021, concentrated in middle and high schools, with a geographically clustered corpus and predominantly mixed/qualitative methods using technology-enhanced instruction.
+2. **Sharp growth from 2021 onward.** Publication on AI-as-content in STEAM increased markedly from 2021, concentrated in middle and high schools, with a geographically clustered corpus and predominantly mixed/[[qualitative-research|qualitative]] methods using technology-enhanced instruction.
 3. **An uneven AI-literacy landscape.** Technical foundations (Fundamental AI Concepts, Computational Thinking, Data Literacy) dominate, while Ethical Awareness, Creative Imagination, Creating with AI, Managing AI, and Designing AI are comparatively underrepresented.
-4. **Discipline-based contributions differ.** Technology disciplines (computer science, data science) lead; science, mathematics, engineering, arts, and integrated STEAM have thinner coverage. Arts/humanities primarily support impact and ethics.
+4. **Discipline-based contributions differ.** Technology disciplines ([[cs-education|computer science]], data science) lead; science, [[math-education|mathematics]], engineering, arts, and integrated STEAM have thinner coverage. Arts/[[humanities-education|humanities]] primarily support impact and ethics.
 5. **A revised AI-literacy framework.** The review proposes an evidence-informed framework aligning TIECD with ten elements, recommending curriculum and assessment broadening so learners can not only use AI but shape it responsibly.
 
 ## Implications

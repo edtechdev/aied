@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-31T09:10:29-04:00"
+updated: "2026-09-01T09:45:00-04:00"
 type: concept
 tags: [medical-education, higher-ed, simulation, assessment, adaptive-learning, teacher-role]
 discipline: [medical education]
@@ -33,6 +33,7 @@ AI in medical and health-professions education is a growing strand of the knowle
 - **Gamification of medical learning.** [[medgame-llm-medical-education-gamification|MedGame]] applies [[game-based-learning|gamification]] and LLMs to engage medical students.
 - **Nursing and interdisciplinary education.** [[alrazeeni-transforming-nursing-education-ai-2026|AI transformation of nursing education]] documents how AI reshapes nursing curricula and instruction.
 - **Task allocation and the SCAN framework.** [[ai-teammate-task-distribution-medical-training-2026|Tsim et al.]] reframe AI integration from learner "misuse" to *misclassification* — a failure of real-time [[metacognition|metacognitive]] evaluation. Their SCAN framework (Substitute, Complement, Aid, Non-Negotiable), grounded in Vygotsky's [[sociocultural-learning|zone of proximal development]], allocates [[generative-ai|generative AI]] tasks by the individual learner's developmental state and identifies passive engagement within AI-scaffolded tasks as a hidden pathway to mis-skilling that requires re-identification from AI to expert assistance with human [[human-in-the-loop-ai|epistemic auditors]].
+- **Human-in-the-loop instructional asset generation.** [[gen-mentor-dental-radiography-2026|Gen-Mentor]] (Dong et al. 2026) integrates a vision-language-model backbone into a dental-radiography workflow: Faster R-CNN localizes four target findings (Filling, Implant, Impacted Tooth, Cavity), a conditional diffusion model generates class-specific synthetic ROI candidates, a VLM produces evidence-linked captions, and an [[llm]] reformats them into case descriptions, comparisons, and quiz prompts — all before structured expert review. Evaluated with 45 dental students (mean SUS 72.7), it demonstrates how [[human-in-the-loop-ai|human-in-the-loop]] review of AI-generated instructional assets can expand case diversity and immediate-feedback support while retaining expert oversight over what students see.
 
 ### Why it matters
 
@@ -72,5 +73,6 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI simulation for brachytherapy training
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
+- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: human-in-the-loop dental radiography instruction (Dong et al. 2026)
 
 

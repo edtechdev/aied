@@ -9,7 +9,7 @@ sources: ['raw/papers/2605.24142.md']
 confidence: high
 ---
 
-This paper addresses a fundamental gap in [[metacognition]] research: the lack of systematic integration of metacognitive theories into scenario taxonomies capable of guiding AI-enhanced professional development. By synthesizing four major theoretical frameworks into a six-node open systems model, the authors create a rigorous taxonomy of metacognitive learning scenarios.
+This paper addresses a fundamental gap in [[metacognition]] [[research-methods-aied|research]]: the lack of systematic integration of metacognitive theories into scenario taxonomies capable of guiding AI-enhanced [[educational-development|professional development]]. By synthesizing four major theoretical frameworks into a six-node open systems model, the authors create a rigorous taxonomy of metacognitive learning scenarios.
 
 ## Systems Model & Scenario Generation
 The six-node open systems model (Environment, Input, Processes, Structures, Output, Feedback) was used for combinatorial enumeration, generating 216 mathematically possible learning scenarios. Four sequential constraint-based filters — psychological plausibility, educational relevance, measurement feasibility, and intervention potential — reduced this to **24 priority scenarios**.

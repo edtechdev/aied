@@ -17,7 +17,7 @@ confidence: high
 1. **A core tension between Domain Mastery and Tool Mastery.** Learners balance conceptual understanding (Domain Mastery) against procedural efficiency with AI (Tool Mastery), switching dynamically via a "Strategic Dance."
 2. **Two recurrent loops: Scaffolding and Offloading.** The tension model centers on a Scaffolding Loop (AI support that preserves learning) and an Offloading Loop (routine delegation that reduces germane processing), with boundary conditions (time pressure, task complexity/familiarity, scaffolding design) shaping movement between them.
 3. **Trust-but-Can't-Verify and a Boilerplate Blindspot.** Novices struggle to verify AI output; more experienced students develop a blindspot for boilerplate/generic code — two distinct evaluation challenges.
-4. **Attenuated metacognitive calibration.** A mismatch between perceived readiness and independent capability co-occurs with sustained [[cognitive-offloading|offloading]], echoing [[ai-making-us-stupid|overconfidence]] research.
+4. **Attenuated metacognitive calibration.** A mismatch between perceived readiness and independent capability co-occurs with sustained [[cognitive-offloading|offloading]], echoing [[ai-making-us-stupid|overconfidence]] [[research-methods-aied|research]].
 5. **Concrete instructional strategies.** The model proposes dedicated 'critique-the-AI' phases, planned fading of AI assistance through offline tasks, verification journals, and contrastive [[prompt-engineering|prompting]] — shifting the debate from 'use or ban' to *how and when* the tool aligns with learning goals.
 
 ## Implications

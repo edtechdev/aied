@@ -18,7 +18,7 @@ confidence: high
 
 ## Key Findings
 
-- Pre-workshop, **male students reported significantly higher STEM career interest** across all three domains measured (AI, computer science, and engineering), controlling for year level and school.
+- Pre-workshop, **male students reported significantly higher STEM career interest** across all three domains measured (AI, [[cs-education|computer science]], and engineering), controlling for year level and school.
 - **Female students were significantly more likely to use AI for schoolwork and to seek advice from AI tools**.
 - Gender-differentiated patterns emerged in deepfake behavior: **males were significantly more likely to have created or shared deepfake content**.
 - Both genders improved in AI knowledge after the one-day workshop, but **females showed a richer profile of gains**: wider conceptual understanding, greater confidence, and meaningful increases in AI and computer science career interest that partially narrowed the gender STEM gap.
@@ -30,7 +30,7 @@ The study surveyed Australian secondary students in **Years 7, 8, and 10 (Npre =
 
 ## Implications for AI in Education
 
-For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive curriculum design**: engagement patterns differ by gender before instruction — females already using AI for schoolwork, males more engaged with deepfake content — so safety education and career aspiration support should be differentiated rather than uniform. The partial narrowing of the STEM career gap after a single-day intervention suggests short, well-designed workshops can be an effective [[equity-in-ai-education]] lever in [[stem-education]], while the deepfake findings point to a concrete safety target for male students.
+For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive [[curriculum-design|curriculum design]]**: [[student-engagement|engagement]] patterns differ by gender before instruction — females already using AI for schoolwork, males more engaged with deepfake content — so safety education and career aspiration support should be differentiated rather than uniform. The partial narrowing of the STEM career gap after a single-day intervention suggests short, well-designed workshops can be an effective [[equity-in-ai-education]] lever in [[stem-education]], while the deepfake findings point to a concrete safety target for male students.
 
 ## Connected Concepts
 

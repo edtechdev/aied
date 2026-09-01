@@ -11,7 +11,7 @@ sources: ['raw/papers/wang-safety-gap-productive-struggle-2026.md']
 confidence: medium
 ---
 
-> **Synthesis:** Wang and Shan (2026) introduce the **"Safety Gap"** — the divergence between a student's AI-assisted performance and their internal, unassisted capability to verify that output — as a warning that overly "helpful" generative AI can erode the cognitive processes essential for deep learning. Writing from a medical-education perspective, they argue that educational AI should withhold direct solutions, introduce constructive cognitive friction, and prioritize process-based assessment, proposing **Socratic and Adversarial AI architectures** that preserve [[productive-failure|productive struggle]].
+> **Synthesis:** Wang and Shan (2026) introduce the **"Safety Gap"** — the divergence between a student's AI-assisted performance and their internal, unassisted capability to verify that output — as a warning that overly "helpful" [[generative-ai|generative AI]] can erode the cognitive processes essential for deep learning. Writing from a medical-education perspective, they argue that educational AI should withhold direct solutions, introduce constructive cognitive friction, and prioritize process-based assessment, proposing **Socratic and Adversarial AI architectures** that preserve [[productive-failure|productive struggle]].
 
 ## The paradox of the helpful machine
 
@@ -23,14 +23,14 @@ Defined as the widening chasm between the **surface-level competence** a student
 
 ## Design prescription
 
-- **Educational AI should be designed** not merely to maximize convenience or answer completion, but to support **cognitive engagement and independent judgment**.
+- **Educational AI should be designed** not merely to maximize convenience or answer completion, but to support **cognitive [[student-engagement|engagement]] and independent judgment**.
 - Withhold direct solutions; introduce **constructive cognitive friction** ([[desirable-difficulties]]).
 - Prioritize **process-based [[assessment]]** over final outputs.
 - Use **Socratic and Adversarial AI architectures** that preserve productive struggle.
 
 ## Relevance to the knowledge base
 
-This perspective paper is a strong conceptual argument linking productive-struggle/[[productive-failure]] pedagogy to AI design, complementing the critique of Oracle-style answer-giving models. It connects directly to [[cognitive-offloading]] (AI that substitutes for effort erodes capacity), [[scaffolding]] (support that preserves rather than bypasses effort), and [[socratic-method]] (withholding answers to provoke reasoning). The "Safety Gap" concept is useful for the knowledge base's discussion of AI reliance, [[trust]], and [[student-experience]].
+This perspective paper is a strong conceptual argument linking productive-struggle/[[productive-failure]] [[pedagogy]] to AI design, complementing the critique of Oracle-style answer-giving models. It connects directly to [[cognitive-offloading]] (AI that substitutes for effort erodes capacity), [[scaffolding]] (support that preserves rather than bypasses effort), and [[socratic-method]] (withholding answers to provoke reasoning). The "Safety Gap" concept is useful for the knowledge base's discussion of AI reliance, [[trust]], and [[student-experience]].
 
 ## Connected Concepts
 

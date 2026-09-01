@@ -12,7 +12,7 @@ sources: ['raw/papers/lak2026-hint-button-unproductive-use.md']
 confidence: high
 ---
 
-> **Synthesis:** A three-semester, 999-student analysis of hint usage in a K-12 mathematics ITS finds that two simple, interpretable indicators—premature hint requests and superficial hint reading—are consistently associated with reduced [[learning-gains|learning gains]], even after controlling for prior knowledge. The work argues from an affordance perspective that the persistent "hint button" design common across ITSs can inadvertently enable bypass strategies, transforming scaffolds into shortcuts.
+> **Synthesis:** A three-semester, 999-student analysis of hint usage in a [[k-12]] [[math-education|mathematics]] ITS finds that two simple, interpretable indicators—premature hint requests and superficial hint reading—are consistently associated with reduced [[learning-gains|learning gains]], even after controlling for [[prior-knowledge|prior knowledge]]. The work argues from an affordance perspective that the persistent "hint button" design common across ITSs can inadvertently enable bypass strategies, transforming [[scaffolding|scaffolds]] into shortcuts.
 
 ## Study Design
 
@@ -23,7 +23,7 @@ An et al. conducted a multi-semester observational study of 999 K–12 students 
 The paper identifies and validates two computationally straightforward behavioral indicators from fine-grained interaction logs:
 
 1. **Premature hint requests** — requesting hints before making any solution attempt. Even when students are uncertain, attempting a solution first before seeking help is more beneficial for learning.
-2. **Superficial hint reading** — advancing through hints too rapidly to reasonably read them (flagged using a 4 words/second reading-speed benchmark), often skipping directly to the bottom-out hint that reveals the answer.
+2. **Superficial hint reading** — advancing through hints too rapidly to reasonably read them (flagged using a 4 words/second reading-speed [[benchmark]]), often skipping directly to the bottom-out hint that reveals the answer.
 
 ## Key Findings
 
@@ -45,8 +45,8 @@ The authors interpret findings through two lenses:
 
 Rather than removing hints, the paper proposes re-engineering delivery mechanisms:
 
-1. **Delayed hint availability** — requiring minimum engagement time or solution attempts before hints are accessible, particularly for the bottom-out hint.
-2. **Beyond behavioral compliance** — prior work shows that interventions regulating help-seeking can improve observed behaviors without producing corresponding learning gains. The challenge extends beyond timing to ensuring meaningful [[active-learning]].
+1. **Delayed hint availability** — requiring minimum [[student-engagement|engagement]] time or solution attempts before hints are accessible, particularly for the bottom-out hint.
+2. **Beyond behavioral compliance** — prior work shows that interventions regulating [[help-seeking]] can improve observed behaviors without producing corresponding learning gains. The challenge extends beyond timing to ensuring meaningful [[active-learning]].
 3. **Shift from whether to how** — the central design question should move from whether to provide hints to how to structure hint delivery mechanisms aligned with productive-struggle principles.
 
 ## Practical Significance
@@ -57,7 +57,7 @@ Unlike prior "gaming the system" detectors requiring complex machine-learned mod
 
 - Correlational (observational data), not causal
 - "Superficial reading" flagged via estimated reading speed (4 wps) — some instances may reflect faster-but-meaningful reading
-- Domain-specific to K–12 mathematics; generalizability to other domains or older learners remains an open question
+- [[discipline-specific-aied|Domain-specific]] to K–12 mathematics; generalizability to other domains or older learners remains an open question
 - Some high-performing students may strategically use bottom-out hints as worked examples
 
 ## Connected Concepts

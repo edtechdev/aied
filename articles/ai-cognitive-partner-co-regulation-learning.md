@@ -10,7 +10,7 @@ sources: ['raw/papers/ai-cognitive-partner-co-regulation-learning.md']
 confidence: high
 ---
 
-> **Synthesis:** This conceptual analysis by S, Joseph, Jose, S. M, N, & Joseph (2026) proposes that AI should be understood not merely as an external tool but as a **cognitive partner** in the co-regulation of thinking, learning, and self-control. Drawing on executive function, [[metacognition]], distributed cognition, and sociocultural development, it frames human-AI interaction as co-regulated cognition where AI acts as a scaffold, metacognitive support, external memory system, and decision partner. The framework is argued to be most relevant in middle childhood, adolescence, and adulthood, weighing the benefits of cognitive offloading against the risks of over-reliance.
+> **Synthesis:** This conceptual analysis by S, Joseph, Jose, S. M, N, & Joseph (2026) proposes that AI should be understood not merely as an external tool but as a **cognitive partner** in the co-[[regulation]] of thinking, learning, and self-control. Drawing on executive function, [[metacognition]], [[distributed-cognition|distributed cognition]], and sociocultural development, it frames human-[[student-ai-interaction|AI interaction]] as co-regulated cognition where AI acts as a scaffold, metacognitive support, external memory system, and decision partner. The framework is argued to be most relevant in middle childhood, adolescence, and adulthood, weighing the benefits of cognitive offloading against the risks of over-reliance.
 
 ## The shift from tool to cognitive partner
 
@@ -20,8 +20,8 @@ The paper argues that developmental psychology has lacked a theoretical framewor
 
 1. **Scaffold for cognitive performance** — AI systems (e.g., [[intelligent-tutoring|intelligent tutoring systems]]) enable learners to work beyond their independent capability, offering 24-hour support, real-time [[feedback]], and dynamically adjusted difficulty, extending traditional [[scaffolding]].
 2. **Metacognitive support** — [[conversational-ai|conversational AI]] prompts users to rethink answers, generate alternative explanations, and validate their reasoning, supporting [[self-regulated-learning|self-regulated learning]].
-3. **External memory and cognitive offloading system** — AI stores, retrieves, and generates information, offloading working-memory load in line with [[cognitive-offloading]] research.
-4. **Decision partner** — recommendation and conversational systems participate in planning and decision-making, framing AI as a collaborator rather than a tool.
+3. **External memory and cognitive offloading system** — AI stores, retrieves, and generates information, offloading working-memory load in line with [[cognitive-offloading]] [[research-methods-aied|research]].
+4. **Decision partner** — recommendation and conversational systems participate in planning and decision-making, [[framing-ai-use-for-students|framing AI]] as a collaborator rather than a tool.
 
 ## Developmental stages and co-regulation
 
@@ -38,7 +38,7 @@ AI-assisted co-regulation can improve performance, reduce cognitive load, and ex
 - Identifies four roles for AI in cognitive regulation: scaffold, metacognitive support, external memory / cognitive offloading system, and decision partner.
 - Argues the framework is most relevant in middle childhood, adolescence, and adulthood; early childhood AI support is limited to structured external regulation.
 - Highlights both benefits (performance gains via offloading, scaffolding, reduced cognitive load) and risks (over-reliance, excessive cognitive offloading, reduced independent reasoning and self-regulation development).
-- Calls for longitudinal research, common conceptual definitions, and learning environments that balance external support with independent problem solving.
+- Calls for longitudinal research, common conceptual definitions, and learning environments that balance external support with independent [[problem-solving|problem solving]].
 
 ## Connected Concepts
 

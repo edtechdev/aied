@@ -22,7 +22,7 @@ confidence: high
 ## Implications
 
 - **Embed SRL [[scaffolding|scaffolds]] in genAI tools.** When chatbot queries indicate potential offloading (e.g., extracting main points without reading), students should first be prompted to reflect on their reading and comprehension as a monitoring scaffold.
-- **Align technology with educational fit.** GenAI support should foster learning and not just efficiency in task completion; instructional design must guide meaningful, not shortcut, use.
+- **Align technology with educational fit.** GenAI support should foster learning and not just efficiency in task completion; [[learning-design|instructional design]] must guide meaningful, not shortcut, use.
 
 ## Connected Concepts
 

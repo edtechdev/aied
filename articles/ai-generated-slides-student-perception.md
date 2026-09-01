@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.13532.md']
 confidence: medium
 ---
 
-This study evaluated five generative AI tools for creating instructional slides from instructor-authored course notes: NotebookLM, Claude, M365 Copilot, Cursor, and Claude Code. Educators assessed slides for accuracy, completeness, and pedagogical soundness.
+This study evaluated five [[generative-ai|generative AI]] tools for creating instructional slides from instructor-authored course notes: NotebookLM, Claude, M365 Copilot, Cursor, and Claude Code. Educators assessed slides for accuracy, completeness, and [[pedagogy|pedagogical]] soundness.
 
 - **Coding assistants (Cursor, Claude Code) produced the best slides** — most accurate, complete, and pedagogically sound.
 - **Students rated AI-generated slides as similar in quality to instructor-created slides.**
@@ -20,7 +20,7 @@ This study evaluated five generative AI tools for creating instructional slides 
 
 ## Pedagogical Implications
 
-The finding that coding assistants outperform dedicated education tools and general-purpose LLMs suggests that the scaffolding and structured output formats inherent to coding tools may translate to better instructional design outputs. The student bias finding — associating poor quality with AI — connects to [[ai-literacy]] research: if students penalize content they suspect is AI-generated, transparency about AI use may backfire unless accompanied by demonstrated quality.
+The finding that coding assistants outperform dedicated education tools and general-purpose LLMs suggests that the [[scaffolding]] and structured output formats inherent to coding tools may translate to better [[learning-design|instructional design]] outputs. The student bias finding — associating poor quality with AI — connects to [[ai-literacy]] [[research-methods-aied|research]]: if students penalize content they suspect is AI-generated, transparency about AI use may backfire unless accompanied by demonstrated quality.
 
 ## Connected Concepts
 

@@ -13,7 +13,7 @@ confidence: high
 ---
 
 > **Authors:** Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević **Year:** 2026 **Venue:** arXiv (cs.CY)
-> Large-scale analysis (N=11,406 students, 200 classes, 10 institutions) of GenAI tutor engagement identifies four session-level engagement types — Deep, Shallow, Routine-[[learning-gains|Learning]], and Exam-Driven — with 10.4% of sessions being shallow copy-paste use and deeper engagement more common at selective institutions.
+> Large-scale analysis (N=11,406 students, 200 classes, 10 institutions) of [[generative-ai|GenAI]] tutor [[student-engagement|engagement]] identifies four session-level engagement types — Deep, Shallow, Routine-[[learning-gains|Learning]], and Exam-Driven — with 10.4% of sessions being shallow copy-paste use and deeper engagement more common at selective institutions.
 
 ## Summary
 
@@ -23,10 +23,10 @@ This study analyzes de-identified interaction logs from a commercial LMS with an
 
 ## Key Contributions
 
-- A **two-stage learning-analytics pipeline** that identifies conversation-session-level engagement types via clustering and aggregates them into student-level engagement patterns via process mining (First-Order Markov Model), applicable to other human-AI interaction data.
+- A **two-stage learning-analytics pipeline** that identifies conversation-session-level engagement types via clustering and aggregates them into student-level engagement patterns via process mining (First-Order Markov Model), applicable to other [[human-ai-collaboration|human-AI interaction]] data.
 - **Four session-level engagement types** — Deep, Shallow, Routine-Learning, and Exam-Driven — grounded in behavioral, cognitive, and temporal features of student-GenAI conversations.
 - Evidence on **contextual variation** across institution selectivity and course discipline, reflecting equity concerns about GenAI use in educational settings.
-- Insights intended to inform learning-analytics interventions and institutional guidance for supporting student learning with GenAI Tutors in more effective and equitable ways.
+- Insights intended to inform learning-analytics interventions and [[governance|institutional]] guidance for supporting student learning with GenAI Tutors in more effective and equitable ways.
 
 ## The Four Engagement Types
 
@@ -37,7 +37,7 @@ This study analyzes de-identified interaction logs from a commercial LMS with an
 
 ## Contextual Variation & Implications
 
-Context mattered. At highly selective universities, the proportion of deep engagement (19.36% vs. 12.42%) and routine-learning engagement (58.88% vs. 40.41%) was significantly higher, while exam-driven engagement was lower (10.65% vs. 36.98%). STEM courses showed significantly more shallow (15.41% vs. 8.56%) and routine-learning engagement and less exam-driven engagement than non-STEM courses, while STEM students were overall less likely to adopt the tutor (51% vs. 71% adoption). Adoption and usage intensity were not significantly associated with institutional selectivity. For [[learning-analytics]] and [[equity-in-ai-education]] in [[higher-ed]], the takeaway is that "engagement" is not a single behavior: interventions and regulations should target specific patterns — such as shallow, copy-paste-heavy use — rather than treating all GenAI Tutor use alike, especially since students who engaged shallowly were more likely to remain in that mode over time, pointing to a risk group for [[cognitive-offloading|Over-Reliance]] without deep processing.
+Context mattered. At highly selective universities, the proportion of deep engagement (19.36% vs. 12.42%) and routine-learning engagement (58.88% vs. 40.41%) was significantly higher, while exam-driven engagement was lower (10.65% vs. 36.98%). [[stem-education|STEM]] courses showed significantly more shallow (15.41% vs. 8.56%) and routine-learning engagement and less exam-driven engagement than non-STEM courses, while STEM students were overall less likely to adopt the tutor (51% vs. 71% adoption). Adoption and usage intensity were not significantly associated with institutional selectivity. For [[learning-analytics]] and [[equity-in-ai-education]] in [[higher-ed]], the takeaway is that "engagement" is not a single behavior: interventions and regulations should target specific patterns — such as shallow, copy-paste-heavy use — rather than treating all GenAI Tutor use alike, especially since students who engaged shallowly were more likely to remain in that mode over time, pointing to a risk group for [[cognitive-offloading|Over-Reliance]] without deep processing.
 
 ## Connected Concepts
 

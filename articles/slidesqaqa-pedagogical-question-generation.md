@@ -13,7 +13,7 @@ sources: []
 
 ## Overview
 
-SlidesQAQA is a Flask-based system that extracts text and rendered images from PDF lecture slides and processes them through a four-stage [[llm]] pipeline: **window planning** (segment extraction), **deck synthesis** (cross-slide reasoning), **slide annotation** (per-slide question generation), and **reconciliation** (deck-level revision to reduce redundancy and improve coverage). The key innovation is joint reasoning about slide modality and pedagogical role, with a bounded question budget that forces prioritization of important content.
+SlidesQAQA is a Flask-based system that extracts text and rendered images from PDF lecture slides and processes them through a four-stage [[llm]] pipeline: **window planning** (segment extraction), **deck synthesis** (cross-slide reasoning), **slide annotation** (per-slide question generation), and **reconciliation** (deck-level revision to reduce redundancy and improve coverage). The key innovation is joint reasoning about slide modality and [[pedagogy|pedagogical]] role, with a bounded question budget that forces prioritization of important content.
 
 ## How It Works
 
@@ -21,7 +21,7 @@ Unlike earlier [[automated-question-generation]] systems that generate questions
 
 ## Comparison to Related Systems
 
-This approach contrasts with [[generate-then-validate-question-gen]] frameworks by front-loading pedagogical reasoning rather than post-hoc validation. Where [[ai-generated-slides-student-perception]] research has shown that AI-generated slide content can be perceived as lower quality, SlidesQAQA focuses on question quality rather than slide generation itself. It also differs from [[aissa-slides-analysis]] systems that analyze slides for accessibility rather than pedagogical question extraction.
+This approach contrasts with [[generate-then-validate-question-gen]] frameworks by front-loading pedagogical reasoning rather than post-hoc validation. Where [[ai-generated-slides-student-perception]] [[research-methods-aied|research]] has shown that AI-generated slide content can be perceived as lower quality, SlidesQAQA focuses on question quality rather than slide generation itself. It also differs from [[aissa-slides-analysis]] systems that analyze slides for [[accessibility]] rather than pedagogical question extraction.
 
 ## Pedagogical Design
 

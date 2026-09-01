@@ -11,7 +11,7 @@ sources: ['raw/papers/ai-adult-learning-guidelines-dis2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Drawing on longitudinal deployment data from the National AI Institute for [[adult-learning|Adult Learning]] and Online Education (AI-ALOE), this DIS 2026 paper synthesizes 19 empirically grounded design guidelines for AI-powered adult learning technologies. The guidelines span cognitive, social, and teaching presence dimensions and are derived from reflexive thematic analysis of ~1,600 stakeholder statements across seven deployed systems. The work also provides a heuristic evaluation method and an interactive guideline exploration tool.
+> **Synthesis:** Drawing on longitudinal deployment data from the National AI Institute for [[adult-learning|Adult Learning]] and Online Education (AI-ALOE), this DIS 2026 paper synthesizes 19 empirically grounded design guidelines for AI-powered adult learning [[ai-technologies|technologies]]. The guidelines span cognitive, social, and teaching presence dimensions and are derived from reflexive thematic analysis of ~1,600 stakeholder statements across seven deployed systems. The work also provides a heuristic evaluation method and an interactive guideline exploration tool.
 
 ## Context and Motivation
 
@@ -19,7 +19,7 @@ AI-powered educational technologies have demonstrated benefits but are predomina
 
 This paper examines seven AI-powered technologies deployed within **AI-ALOE**, a US National AI Institute:
 
-- **Apprentice Tutors** — web-based [[intelligent-tutoring|ITS]] for adult math/STEM practice
+- **Apprentice Tutors** — web-based [[intelligent-tutoring|ITS]] for adult math/[[stem-education|STEM]] practice
 - **iTELL** — Intelligent Texts for Enhanced [[lifelong-learning|Lifelong Learning]]
 - **Ivy** — interactive video-based AI coaching for procedural skills
 - **Jill Watson** — [[rag|RAG]]-powered Q&A agent for online courses
@@ -29,7 +29,7 @@ This paper examines seven AI-powered technologies deployed within **AI-ALOE**, a
 
 ## Methodology
 
-Using **reflexive thematic analysis**, the team analyzed approximately 1,600 stakeholder statements from focus groups with learners and instructors, technical artifacts, and progress reports. Statements were organized through affinity diagramming into sub-themes, needs statements, and finally 19 design guidelines framed as "AI tools should..." Each guideline is labeled by Community of Inquiry dimension (cognitive/social/teaching presence) and most-impacted stakeholder.
+Using **reflexive thematic analysis**, the team analyzed approximately 1,600 stakeholder statements from focus groups with learners and instructors, technical artifacts, and progress reports. Statements were organized through affinity diagramming into sub-themes, needs statements, and finally 19 design guidelines framed as "AI tools should..." Each guideline is labeled by [[community-of-inquiry|Community of Inquiry]] dimension (cognitive/social/teaching presence) and most-impacted stakeholder.
 
 ## The 19 Design Guidelines
 
@@ -41,9 +41,9 @@ The guidelines span four categories:
 - **G4:** AI tools should be easy to understand and frictionless to use
 
 ### Teaching Presence
-- **G7:** AI tools should support learner [[motivation]] and engagement
+- **G7:** AI tools should support learner [[motivation]] and [[student-engagement|engagement]]
 - **G8:** AI tools should align with established instructional best practices
-- **G9:** AI tools should support diverse pedagogical strategies
+- **G9:** AI tools should support diverse [[pedagogy|pedagogical]] strategies
 - **G11:** AI tools should [[personalized-learning|personalize]] the learning experience
 - **G13:** AI tools should provide substantive educational support (not just surface-level assistance)
 - **G16:** AI tools should align with instructors' personal instructional approach
@@ -62,7 +62,7 @@ The guidelines span four categories:
 
 ## Key Findings
 
-- **Stakeholder priorities diverge**: Instructors focused on usability (G4) and instructional alignment (G16); students emphasized educational support (G13) and community-building (G18, G19); researchers prioritized learning theories (G3) and best practices (G8-G10).
+- **Stakeholder priorities diverge**: Instructors focused on [[usability-research|usability]] (G4) and instructional alignment (G16); students emphasized educational support (G13) and community-building (G18, G19); [[research-methods-aied|researchers]] prioritized learning theories (G3) and best practices (G8-G10).
 - **No single technology satisfied all 19 guidelines** — but the broader AI-ALOE ecosystem collectively covered the full set.
 - **Personalization (G11)** had low satisfaction across systems: most deployed surface-level personalization (adapting examples, knowledge checks) rather than deeper adaptations like task sequencing or difficulty calibration.
 - **Data transparency (G1)** and **social/community features (G18, G19)** consistently scored lowest across the heuristic evaluation.

@@ -9,7 +9,7 @@ sources: ['raw/papers/2608.03161v1.md']
 confidence: high
 ---
 
-> **Synthesis:** This paper introduces an evidence-grounded multimodal pipeline that constructs provenance-rich [[knowledge-graph|knowledge graphs]] from lecture videos by integrating speech transcripts, slide OCR, and vision-language model analysis. Processing three neural-network lectures, the pipeline extracted 172 canonical concepts and 282 typed relationships with 90.38% endpoint coverage, achieving perfect retrieval accuracy on a preliminary test. The approach addresses a key challenge in [[ai-education|educational AI]]: converting rich multimodal lecture content into structured, queryable knowledge representations without losing the evidential provenance that makes them trustworthy.
+> **Synthesis:** This paper introduces an evidence-grounded [[multimodal]] pipeline that constructs provenance-rich [[knowledge-graph|knowledge graphs]] from lecture videos by integrating speech transcripts, slide OCR, and vision-language model analysis. Processing three neural-network lectures, the pipeline extracted 172 canonical concepts and 282 typed relationships with 90.38% endpoint coverage, achieving perfect retrieval accuracy on a preliminary test. The approach addresses a key challenge in [[ai-education|educational AI]]: converting rich multimodal lecture content into structured, queryable knowledge representations without losing the evidential provenance that makes them trustworthy.
 
 ## Key Findings
 
@@ -62,7 +62,7 @@ The dataset contains only three lectures from one series, and extraction lacks a
 - **Educational [[knowledge-tracing|knowledge tracing]] and student modeling:** A provenance-rich graph that connects concepts across lectures offers a reusable foundation for [[student-modeling|student models]] and [[cognitive-diagnosis|diagnostic]] reasoning about prerequisite structure.
 - **Personalized and adaptive learning:** Structuring lecture content into [[prior-knowledge|prerequisite]]-aware typed relationships supports [[adaptive-learning|adaptive learning]] systems and [[personalized-learning|personalized]] learning pathways.
 - **Curriculum and lecture review:** Queryable, cross-lecture knowledge representations support [[curriculum-design|curriculum design]] and structured lecture-review tools that help [[student-experience|learners]] revisit concepts with their evidential context.
-- **Methodological caution:** Perfect results on three seed questions should not be over-interpreted; a credible evaluation needs more definition, relation, prerequisite, example, first-mention, temporal-evolution, visually grounded, and cross-lecture questions.
+- **[[research-methods-aied|Methodological]] caution:** Perfect results on three seed questions should not be over-interpreted; a credible evaluation needs more definition, relation, prerequisite, example, first-mention, temporal-evolution, visually grounded, and cross-lecture questions.
 
 ## Connected Concepts
 

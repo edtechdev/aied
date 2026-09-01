@@ -20,11 +20,11 @@ confidence: high
 - Autonomy support and autonomous motivation significantly increased student motivation, which subsequently emerged as the strongest predictor of student engagement.
 - Perceived expectancy showed no significant influence on either autonomy support or autonomous motivation, and perceived competence did not significantly affect autonomy support.
 - The study integrates SDT, EVT, and TAM within a single framework to explain student engagement in generative AI-supported learning environments, addressing the gap of single-theory models.
-- It provides context-specific evidence from Saudi higher education, extending AI-in-education research beyond Western and technologically advanced contexts.
+- It provides context-specific evidence from Saudi [[higher-ed|higher education]], extending AI-in-education [[research-methods-aied|research]] beyond Western and technologically advanced contexts.
 
 ## Study Design & Method
 
-A quantitative research design was used with data from 297 undergraduate and postgraduate students at King Saud University. The proposed model was analyzed using Partial Least Squares Structural Equation Modeling (PLS-SEM). Constructs spanned perceived autonomy, competence, relatedness, expectancy, and value (from SDT and EVT); autonomy support for AI use and autonomous motivation for AI use (contextualized mediators); and student motivation and student engagement (outcomes). The integrated framework allowed the authors to trace how psychological need satisfaction and technology acceptance perceptions translate into motivation and engagement in AI-supported learning.
+A [[quantitative-research|quantitative research]] design was used with data from 297 undergraduate and postgraduate students at King Saud University. The proposed model was analyzed using Partial Least Squares Structural Equation Modeling (PLS-SEM). Constructs spanned perceived autonomy, competence, relatedness, expectancy, and value (from SDT and EVT); autonomy support for AI use and autonomous motivation for AI use (contextualized mediators); and student motivation and student engagement (outcomes). The integrated framework allowed the authors to trace how psychological need satisfaction and technology acceptance perceptions translate into motivation and engagement in AI-supported learning.
 
 ## Implications for AI in Education
 
@@ -32,7 +32,7 @@ The findings indicate that the motivational payoff of [[generative-ai]] depends 
 
 ## Limitations
 
-The cross-sectional design limits causal inference, and the sample is drawn from a single Saudi university, bounding generalizability to other national and institutional contexts. All measures are self-report, and the study's cross-sectional PLS-SEM analysis cannot establish temporal ordering among mediators and outcomes. The integration of three theories, while comprehensive, relies on the specific operationalization of autonomy support and autonomous motivation for AI use developed for this context.
+The cross-sectional design limits causal inference, and the sample is drawn from a single Saudi university, bounding generalizability to other national and [[governance|institutional]] contexts. All measures are self-report, and the study's cross-sectional PLS-SEM analysis cannot establish temporal ordering among mediators and outcomes. The integration of three theories, while comprehensive, relies on the specific operationalization of autonomy support and autonomous motivation for AI use developed for this context.
 
 ## Connected Concepts
 

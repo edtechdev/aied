@@ -15,12 +15,12 @@ confidence: high
 
 ## Summary
 
-The largest study in the AEHE 51(5) special issue: a **cross-sectional survey across four Australian universities** (≈192,000 invited; 10,132 volunteered; this paper analyses **6,960 students** who answered the feedback items). It combines quantitative comparison of perceived helpfulness/trustworthiness of GenAI vs teacher feedback with **thematic analysis of 8,642 open-ended responses** (11,903 coded instances, 48 codes). Core conclusion: **GenAI and teacher feedback serve different needs — complementary but not interchangeable**.
+The largest study in the AEHE 51(5) special issue: a **cross-sectional survey across four Australian universities** (≈192,000 invited; 10,132 volunteered; this paper analyses **6,960 students** who answered the feedback items). It combines [[quantitative-research|quantitative]] comparison of perceived helpfulness/[[trust|trustworthiness]] of [[generative-ai|GenAI]] vs teacher feedback with **thematic analysis of 8,642 open-ended responses** (11,903 coded instances, 48 codes). Core conclusion: **GenAI and teacher feedback serve different needs — complementary but not interchangeable**.
 
 ## Quantitative findings
 
 - **Usage split:** 49.7% (n = 3,461) of students had sought feedback from GenAI; 50.3% had not.
-- **Helpfulness:** 83.9% rated AI feedback somewhat/very helpful vs 82.2% for teacher feedback — a small but significant teacher advantage (mean diff 0.14, t(3327) = −7.17, p < .001, d = −0.13).
+- **Helpfulness:** 83.9% rated [[ai-feedback-quality|AI feedback]] somewhat/very helpful vs 82.2% for teacher feedback — a small but significant teacher advantage (mean diff 0.14, t(3327) = −7.17, p < .001, d = −0.13).
 - **Trustworthiness:** the striking gap — **90.5% rated teacher feedback somewhat/very trustworthy vs 60.1% for AI** (mean diff 0.93, t(3327) = −49.30, p < .001, d = −0.89, a large effect). 58.3% rated teacher feedback *very* trustworthy vs 8.8% for AI.
 
 ## Qualitative findings — why they differ
@@ -33,16 +33,16 @@ The two most frequent comparison themes were the nature of the feedback **inform
 
 ## Why students did NOT use GenAI for feedback (n = 3,405 comments)
 
-- **28.1%** were unaware it was possible or did not know how (a support/equity gap, not a preference).
+- **28.1%** were unaware it was possible or did not know how (a support/[[equity-in-ai-education|equity]] gap, not a preference).
 - **28.7%** cited trustworthiness/reliability concerns.
 - **22.5%** cited values: preference for human connection (4.3%) or no perceived need (6.3%).
-- Smaller shares: academic integrity (9.1%), privacy (2.7%), wanting to preserve effortful learning (18 of 24 effort codes).
+- Smaller shares: [[academic-integrity|academic integrity]] (9.1%), privacy (2.7%), wanting to preserve effortful learning (18 of 24 effort codes).
 
 ## Implications
 
-- Students already self-initiate GenAI feedback at scale, so institutions should actively support **how** students engage with it (feedback literacy, evaluative judgement — cf. [[ai-literacy]]).
+- Students already self-initiate GenAI feedback at scale, so institutions should actively support **how** students engage with it ([[feedback-literacy|feedback literacy]], evaluative judgement — cf. [[ai-literacy]]).
 - The trust gap (90.5% vs 60.1%) is not simply an accuracy verdict; it partly reflects source-credibility heuristics (Lipnevich & Smith 2008; Nazaretsky et al. 2024) and may be context-dependent (language-form advice vs deeply contextual course guidance).
-- The "less risky" property makes GenAI feedback valuable for feedback seeking, especially for anxious students — complementing [[chatgpt-feedback-engagement-genai]]'s "calm, stress-free" affective finding — while teacher feedback retains contextual expertise and relational recognition.
+- The "less risky" property makes GenAI feedback valuable for feedback seeking, especially for anxious students — complementing [[chatgpt-feedback-engagement-genai]]'s "calm, stress-free" [[affective-computing|affective]] finding — while teacher feedback retains contextual expertise and relational recognition.
 - Directly challenges replacement narratives: GenAI is an **additional source**, not a substitute for the teacher-learner relationship (cf. [[ai-generated-feedback-higher-ed]], which found equivalent *outcomes* under strong assessment architecture — outcomes and *perceptions* can diverge).
 
 ## Connected Concepts

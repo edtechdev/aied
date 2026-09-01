@@ -12,12 +12,12 @@ sources: ['raw/papers/2606.15349.md']
 confidence: high
 ---
 
-Standardized examinations are typically treated as uniform syllabus coverage problems. LearnOpt recovers stable latent cognitive structures diverging systematically from official syllabi, using LLM-tagged questions and constrained optimization. Applied to 9 years of NEET questions (n=1,496) and JEE Advanced questions. Finds NEET latent skill distribution is stable within syllabus regimes (KL 0.004-0.032) but shifts significantly after syllabus rationalization (KL=0.040, p=0.0005). JEE Advanced is dominated by multi-concept integration (80.9%). Formulates study planning as a knapsack-variant optimization with Bayesian Knowledge Tracing.
+Standardized examinations are typically treated as uniform syllabus coverage problems. LearnOpt recovers stable latent cognitive structures diverging systematically from official syllabi, using [[llm]]-tagged questions and constrained optimization. Applied to 9 years of NEET questions (n=1,496) and JEE Advanced questions. Finds NEET latent skill distribution is stable within syllabus regimes (KL 0.004-0.032) but shifts significantly after syllabus rationalization (KL=0.040, p=0.0005). JEE Advanced is dominated by multi-concept integration (80.9%). Formulates study planning as a knapsack-variant optimization with Bayesian Knowledge Tracing.
 
 ## Key Findings
 
 - Standardized exams have recoverable latent cognitive structures; multi-concept integration dominates higher-tier exams (JEE: 80.9%).
-- LearnOpt builds an **exam knowledge graph from LLM-tagged questions** and extracts a **five-category latent skill distribution**, applied to nine years of NEET questions (2016–2024, n=1,496).
+- LearnOpt builds an **exam [[knowledge-graph|knowledge graph]] from LLM-tagged questions** and extracts a **five-category latent skill distribution**, applied to nine years of NEET questions (2016–2024, n=1,496).
 - NEET's latent skill distribution is **stable within a syllabus regime** (consecutive-year KL divergence 0.004–0.032 for 2016–2021, non-significant under permutation testing) but **shifts significantly with NCERT's 2023 syllabus rationalization** (pooling 2016–2021 vs 2023–2024 gives KL=0.040, p=0.0005), with Elimination/Negation questions rising from roughly 20–29% to 31–35%.
 - Within either regime, **subject predicts skill profile more strongly than year**; exam tier shapes latent cognitive structure more than subject, which shapes it more than time within a regime.
 - Study planning is formulated as a **knapsack-variant optimization over prerequisite-aware subgraphs with Bayesian Knowledge Tracing**; evaluation with one real and two synthetic mastery profiles shows the skill-weighted objective produces a modest but real reordering of recommended topics over a mastery-conditioned frequency baseline.

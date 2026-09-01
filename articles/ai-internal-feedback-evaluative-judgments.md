@@ -15,10 +15,10 @@ confidence: high
 
 ## Key Findings
 
-- This qualitative case study followed **28 second-year pre-service teachers** (18 female, 10 male; Mage = 20.6) in a compulsory English writing course at a university in northern China across a **14-week semester with three writing tasks** (150–250-word essays at College English Test Band-6 level).
+- This [[qualitative-research|qualitative]] case study followed **28 second-year pre-service teachers** (18 female, 10 male; Mage = 20.6) in a compulsory English writing course at a university in northern China across a **14-week semester with three writing tasks** (150–250-word essays at College English Test Band-6 level).
 - The intervention used **DeepSeek R1** to generate strong, average, and weak exemplars; students ranked their own draft against the three exemplars, justified the rankings on self-reflection forms, then sought AI feedback, compared it against the criteria and their goals, and revised.
 - Through iterative analogical comparison (draft vs. exemplars) and analytical comparison (draft vs. AI feedback, criteria, and goals), students' **evaluation focus expanded from language features to higher-order aspects of writing** — content, organisation, and coherence — although their evaluative reasoning generally **lacked sophistication**: example-based justification doubled from 15% to 30.5% across tasks while simple statements declined, but the most sophisticated comparative reasoning remained rare.
-- Internal feedback shifted over the semester from reflections on writing skills and criteria (54.5% and 33.3% of codes in Task 1) toward **metacognition, goal alignment, and self-monitoring** — with metacognitive reflections rising exponentially from 3% in Task 1 to 24.3% in Task 3.
+- Internal feedback shifted over the semester from reflections on writing skills and criteria (54.5% and 33.3% of codes in Task 1) toward **metacognition, goal alignment, and self-monitoring** — with [[metacognition|metacognitive]] reflections rising exponentially from 3% in Task 1 to 24.3% in Task 3.
 - Three evaluator types emerged with distinct developmental pathways: **reconstructive (N = 8)**, **language-focused (N = 9)**, and **criteria-compliance (N = 11)** evaluators.
 
 ## Study Design & Method
@@ -34,13 +34,13 @@ The study is grounded in the internal feedback paradigm: students generate feedb
 
 ## Implications for AI in Education
 
-The study demonstrates a practical strategy for turning GenAI into a **scaffold for assessment literacy** rather than a shortcut: comparing drafts against AI-generated exemplars of varied quality helps students appreciate a "quality continuum," while comparing drafts with AI feedback and personal goals makes the internal feedback explicit and auditable. Having students articulate their internal feedback on self-reflection forms both reduces cognitive load and lets teachers track progress. The three developmental pathways imply that **one-size-fits-all prompting fails** — teachers should customize self-reflection prompts to each student's evaluative orientation (e.g., pushing language-focused evaluators toward organisation and coherence, while reinforcing evidence-based reasoning for reconstructive evaluators). This connects to [[self-regulated-learning]] and [[feedback|Feedback Loop]] research: students become agentic seekers of AI feedback who monitor goal attainment and judge the contextual appropriateness of AI suggestions, echoing concerns in [[assessment]] about students' critical evaluation of AI-generated feedback.
+The study demonstrates a practical strategy for turning [[generative-ai|GenAI]] into a **[[scaffolding|scaffold]] for assessment literacy** rather than a shortcut: comparing drafts against AI-generated exemplars of varied quality helps students appreciate a "quality continuum," while comparing drafts with AI feedback and personal goals makes the internal feedback explicit and auditable. Having students articulate their internal feedback on self-reflection forms both reduces [[cognitive-offloading|cognitive load]] and lets teachers track progress. The three developmental pathways imply that **one-size-fits-all [[prompt-engineering|prompting]] fails** — teachers should customize self-reflection prompts to each student's evaluative orientation (e.g., pushing language-focused evaluators toward organisation and coherence, while reinforcing evidence-based reasoning for reconstructive evaluators). This connects to [[self-regulated-learning]] and [[feedback|Feedback Loop]] [[research-methods-aied|research]]: students become agentic seekers of AI feedback who monitor goal attainment and judge the contextual appropriateness of AI suggestions, echoing concerns in [[assessment]] about students' [[critical-thinking|critical evaluation]] of AI-generated feedback.
 
 ## Limitations
 
 - The accuracy of students' rankings and evaluative reasoning was not examined (resource constraints), and the course instructor's perspective was not elicited during data analysis despite member-checking with some students.
-- Participants came from a single institution and discipline, limiting transferability across disciplinary and institutional settings.
-- Students sought external feedback mainly from AI, and not all AI feedback is accurate — which may have influenced evaluative judgment development. The authors recommend teachers comment on AI feedback quality and guide students to evaluate it critically.
+- Participants came from a single institution and discipline, limiting transferability across disciplinary and [[governance|institutional]] settings.
+- Students sought external feedback mainly from AI, and not all AI feedback is accurate — which may have influenced evaluative judgment development. The authors recommend teachers comment on [[ai-feedback-quality|AI feedback quality]] and guide students to evaluate it critically.
 
 ## Connected Concepts
 

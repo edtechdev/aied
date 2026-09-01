@@ -10,7 +10,7 @@ sources: ['raw/papers/academic-dishonesty-automated-proctoring-ai-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Malhotra & Chhabra (2026) comprehensively review the landscape of academic dishonesty across conventional, online, automated, and AI-based proctoring systems, catalyzed by COVID-19's shift to remote exams. They trace the transition from offline invigilation to online and AI/ML proctoring, document the cheating methods AI systems must counter (identity spoofing, browser/device use, copy-paste), and identify the practical, infrastructure, and psychological challenges — anxiety, lack of proficiency, cost, and connectivity — that shape proctoring adoption and effectiveness.
+> **Synthesis:** Malhotra & Chhabra (2026) comprehensively review the landscape of [[academic-integrity|academic dishonesty]] across conventional, online, automated, and AI-based proctoring systems, catalyzed by COVID-19's shift to remote exams. They trace the transition from offline invigilation to online and AI/ML proctoring, document the cheating methods AI systems must counter (identity spoofing, browser/device use, copy-paste), and identify the practical, infrastructure, and psychological challenges — anxiety, lack of proficiency, cost, and connectivity — that shape proctoring adoption and effectiveness.
 
 ## Key Findings
 
@@ -22,11 +22,11 @@ confidence: high
 
 ## Study Design & Method
 
-A comprehensive thematic review of proctoring systems (conventional, online, automated, AI-based), analyzing applications, technologies, challenges, and research gaps across eight research questions covering features, challenges, countermeasures, and future trends. It synthesizes the literature on proctoring's evolution, categories, and associated challenges to guide future research.
+A comprehensive thematic review of proctoring systems (conventional, online, automated, AI-based), analyzing applications, [[ai-technologies|technologies]], challenges, and [[research-methods-aied|research]] gaps across eight research questions covering features, challenges, countermeasures, and future trends. It synthesizes the literature on proctoring's evolution, categories, and associated challenges to guide future research.
 
 ## Implications for AI in Education
 
-Remote and automated proctoring addresses the integrity needs of online and distance assessment, but its effectiveness is bounded by infrastructure equity, psychological burden, and the risk of false accusations. Institutions adopting [[remote-proctoring]] must pair AI monitoring with accessible alternatives, clear communication, and support for test-taker anxiety, and should weigh it against [[authentic-assessment|assessment redesign]] that reduces reliance on surveillance.
+Remote and automated proctoring addresses the integrity needs of online and distance assessment, but its effectiveness is bounded by infrastructure [[equity-in-ai-education|equity]], psychological burden, and the risk of false accusations. Institutions adopting [[remote-proctoring]] must pair AI monitoring with accessible alternatives, clear communication, and support for test-taker anxiety, and should weigh it against [[authentic-assessment|assessment redesign]] that reduces reliance on surveillance.
 
 ## Connected Concepts
 

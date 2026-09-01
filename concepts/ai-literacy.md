@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-01T09:45:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, educational-development, academic-integrity]
 audience: [faculty development, instructors, learners]
@@ -50,6 +50,8 @@ AI literacy also needs developmentally appropriate forms for the youngest learne
 **AI literacy as a core gap in [[conversational-ai]] frameworks.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) identifies **limited AI literacy support** as a major gap in CAI frameworks, and its ethical-use roadmap makes foundational assessment (including strengthening AI literacy) the first pillar alongside participatory design, ethical-use guidelines, and continuous evaluation of cognitive impact. It further finds that AI-literacy, training, and awareness rank among the most-emphasized ethical directions in the CAI literature.([[conversational-ai-agents-umbrella-review-2026]])
 
 **Effectiveness of AI literacy interventions.** A [[liu-ai-literacy-interventions-meta-analysis-2026|three-level meta-analysis of 59 studies]] (172 effect sizes, 7,211 participants) estimates a large overall effect of AI literacy interventions (g = 0.837, p < .001) — but with a wide prediction interval [−0.292, 1.966], so effectiveness varies considerably across settings. Interventions in East Asia and Europe outperformed those in North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics. The authors argue AI literacy education should therefore move beyond knowledge toward skills, practices, ethics, and attitudes, supported by integrated and reflective [[pedagogy|pedagogies]] (project- and problem-based, inquiry-based, experiential) and GenAI-supported tools — a shift that aligns with the participatory, producer-oriented forms of [[computational-thinking]] described elsewhere in this knowledge base.
+
+**Frameworks for structuring AI literacy.** Several recent contributions offer structured progressions for building AI literacy. **[[ukraine-ai-literacy-secondary-framework-2026|Marienko, Markova, and Semerikov (2026)]]** propose a five-level framework (Awareness, Application, Evaluation, Creation, Ethics) integrated with three paradigms of AI in education (AI-directed, AI-supported, AI-empowered), developed through a [[mixed-methods-research|mixed-methods]] study of Ukrainian secondary educators (national survey n = 2018; PD evaluation n = 1130). They found 84% of educators use AI but only 11% can identify specialized services beyond ChatGPT, and a professional-development intervention produced a 24% improvement in AI competence — evidence that targeted PD advances literacy beyond surface-level tool familiarity. The framework's grounding in [[constructivist|constructivism]], connectivism, and TPACK connects to [[tpack]] and [[teacher-ai-competency]]. Complementing this, **[[science-integrated-ai-literacy-curriculum-dbr-2026|Moore et al. (2026)]]** used a two-year [[design-based-research|DBR]] process with a youth and AI-expert advisory board to design a science-integrated ML curriculum for high school youth, finding ML-knowledge gains in both cohorts (Cohort 2 M2−M1 = 0.175 vs Cohort 1 0.076) and greater gains among female and non-White participants — evidence that participatory, discipline-integrated design can advance both AI literacy and [[equity-in-ai-education|equity]].
 
 ### Critical AI literacy: beyond skills to power and resistance
 
@@ -174,3 +176,5 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
+- [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework for Ukrainian secondary educators (Marienko et al. 2026)
+- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — Science-integrated AI literacy curriculum via DBR (Moore et al. 2026)

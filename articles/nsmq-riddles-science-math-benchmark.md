@@ -12,7 +12,7 @@ sources: ['raw/papers/2605.07051.md']
 confidence: medium
 ---
 
-> Boateng et al. (2026) introduce **NSMQ Riddles**, a benchmark of 1.8K scientific and mathematical riddles drawn from 11 years of Ghana's **National Science and Maths Quiz** — a live TV competition for senior secondary school students. This is one of the first AI benchmarks originating from the **Global South** for educational evaluation.
+> Boateng et al. (2026) introduce **NSMQ Riddles**, a benchmark of 1.8K scientific and mathematical riddles drawn from 11 years of Ghana's **National Science and Maths Quiz** — a live TV competition for senior [[k-12|secondary school]] students. This is one of the first AI [[benchmark|benchmarks]] originating from the **[[global-south|Global South]]** for educational evaluation.
 
 ## Core Contribution
 
@@ -22,15 +22,15 @@ Boateng et al. (2026) introduce **NSMQ Riddles**, a benchmark of 1.8K scientific
 
 Unlike standard benchmark datasets (MMLU, GSM8K), NSMQ Riddles:
 - Features **progressive clue revelation** — early clues are vague (worth more points), testing incremental reasoning
-- Covers **biology, chemistry, physics, and math** at the high school level
+- Covers **[[biology-education|biology]], [[chemistry-education|chemistry]], [[physics-education|physics]], and math** at the high school level
 - Evaluates models against **human student performance** in a competitive format
 - Represents African educational content, addressing geographic bias in [[stanford-evidence-base-ai-k12-2026]]
 
-The benchmark found that even state-of-the-art models (GPT-5.4, Gemini 3.1 Pro, Claude Opus 4.6) **underperform the best student contestants**, highlighting gaps in LLM scientific reasoning.
+The benchmark found that even state-of-the-art models (GPT-5.4, Gemini 3.1 Pro, Claude Opus 4.6) **underperform the best student contestants**, highlighting gaps in [[llm]] scientific reasoning.
 
 ## Connections to Knowledge Base
 
-This benchmark connects to [[teachbench-llm-teaching-evaluation]] as another syllabus-grounded evaluation framework, but from a Global South perspective. It complements the [[drawedumath-vlm-struggling-students-2026]] work on DrawEduMath by providing a text-based STEM reasoning benchmark. The focus on competitive quizzing connects to [[automated-question-generation]] research and [[civic-education-ai-lesson-plans]] concerns about AI-generated educational content quality.
+This benchmark connects to [[teachbench-llm-teaching-evaluation]] as another syllabus-grounded evaluation framework, but from a Global South perspective. It complements the [[drawedumath-vlm-struggling-students-2026]] work on DrawEduMath by providing a text-based [[stem-education|STEM]] reasoning benchmark. The focus on competitive quizzing connects to [[automated-question-generation]] [[research-methods-aied|research]] and [[civic-education-ai-lesson-plans]] concerns about AI-generated educational content quality.
 
 The finding that LLMs lag behind top human students on these riddles reinforces [[stanford-evidence-base-ai-k12-2026]] concerns — general LLMs may not match specialized educational needs, especially in non-Western contexts.
 

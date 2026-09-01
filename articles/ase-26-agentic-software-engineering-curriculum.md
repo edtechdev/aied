@@ -20,7 +20,7 @@ confidence: high
 - The academic literature on [[agentic-ai|agentic software engineering]] converges on the finding that the missing capability is not better models but structured practitioner discipline.
 - ASE-26 is a comprehensive undergraduate curriculum for agentic software engineering as a discipline, deposited as a citable reference on Zenodo under CC BY-ND 4.0.
 - Its central conceptual contribution is the **evolutionary spiral** as the operational form of the co-evolution of intent and build — the iterative cycle in which a developer frames intent, the agent builds, and the developer judges and revises.
-- The curriculum sets out [[pedagogy|pedagogical]] commitments for grading work co-produced with an agent and is designed to outlast the specific capabilities of today's models, teaching skills such as auditability, context engineering, verification, [[agentic-ai|multi-agent workflows]], and AgentOps.
+- The curriculum sets out [[pedagogy|pedagogical]] commitments for grading work co-produced with an agent and is designed to outlast the specific capabilities of today's models, [[teacher-role|teaching]] skills such as auditability, context engineering, verification, [[agentic-ai|multi-agent workflows]], and AgentOps.
 - A motivating vignette captures the shift: a developer writes a paragraph, the agent asks clarifying questions and produces six hundred lines of code with tests, a commit message, and a draft pull request — roughly eleven minutes, where the same task took two hours three years ago.
 
 ## Why a Discipline, and Why Now

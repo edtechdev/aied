@@ -10,7 +10,7 @@ sources: ['raw/papers/sanoubari-remind-robot-roleplay-2026.md']
 confidence: medium
 ---
 
-> **Synthesis:** Sanoubari, Fernandes, Rebello, Pan, Houston, and Dautenhahn (2026) present REMind, an educational robot-mediated role-play game designed to support anti-bullying bystander intervention among children. REMind invites players to observe a bullying scenario enacted by social robots, reflect on the perspectives of the characters, and rehearse defending strategies by puppeteering a robotic avatar. Evaluated through a mixed-methods play-testing study with 18 children aged 9–10, the findings suggest the experience supported learning goals related to self-efficacy, perspective-taking, understanding outcomes of defending, and intervention strategies — highlighting Robot-Mediated Applied Drama (RMAD) as a novel pedagogical framework for social-emotional learning.
+> **Synthesis:** Sanoubari, Fernandes, Rebello, Pan, Houston, and Dautenhahn (2026) present REMind, an educational robot-mediated role-play game designed to support anti-bullying bystander intervention among children. REMind invites players to observe a bullying scenario enacted by social robots, reflect on the perspectives of the characters, and rehearse defending strategies by puppeteering a robotic avatar. Evaluated through a [[mixed-methods-research|mixed-methods]] play-testing study with 18 children aged 9–10, the findings suggest the experience supported learning goals related to self-efficacy, perspective-taking, understanding outcomes of defending, and intervention strategies — highlighting Robot-Mediated Applied Drama (RMAD) as a novel [[pedagogy|pedagogical]] framework for social-emotional learning.
 
 ## Key Findings
 
@@ -22,11 +22,11 @@ confidence: medium
 
 ## Study Design & Method
 
-This is a **mixed-methods play-testing study**. The researchers designed REMind, an educational robot-mediated role-play game for anti-bullying bystander intervention, and evaluated it with 18 children aged 9–10. In the game, children observed bullying scenarios enacted by social robots, reflected on the perspectives of the characters, and rehearsed defending strategies by puppeteering a robotic avatar. Mixed-methods data collection assessed the experience's support for learning goals including self-efficacy, perspective-taking, understanding outcomes of defending, and intervention strategies.
+This is a **mixed-methods play-testing study**. The [[research-methods-aied|researchers]] designed REMind, an educational robot-mediated role-play game for anti-bullying bystander intervention, and evaluated it with 18 children aged 9–10. In the game, children observed bullying scenarios enacted by social robots, reflected on the perspectives of the characters, and rehearsed defending strategies by puppeteering a robotic avatar. Mixed-methods data collection assessed the experience's support for learning goals including self-efficacy, perspective-taking, understanding outcomes of defending, and intervention strategies.
 
 ## Implications for AI in Education
 
-REMind demonstrates how [[educational-robotics]] can support [[social-emotional-learning]] through embodied role-play, introducing **Robot-Mediated Applied Drama (RMAD)** as a pedagogical framework. By letting children rehearse anti-bullying bystander intervention strategies in a safe, embodied context, the approach builds [[self-efficacy]], perspective-taking, and empathy in [[k-12]] settings. It connects to [[educational-robotics]], role-play/game-based learning, and the use of embodied AI to address social and emotional [[learning-gains|learning outcomes]] — a distinct application beyond technical/programming robotics education.
+REMind demonstrates how [[educational-robotics]] can support [[social-emotional-learning]] through [[embodied-learning|embodied]] role-play, introducing **Robot-Mediated Applied Drama (RMAD)** as a pedagogical framework. By letting children rehearse anti-bullying bystander intervention strategies in a safe, embodied context, the approach builds [[self-efficacy]], perspective-taking, and empathy in [[k-12]] settings. It connects to [[educational-robotics]], role-play/[[game-based-learning|game-based learning]], and the use of embodied AI to address social and emotional [[learning-gains|learning outcomes]] — a distinct application beyond technical/programming robotics education.
 
 ## Limitations
 

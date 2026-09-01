@@ -14,13 +14,13 @@ confidence: high
 
 ## What It Is
 
-Special-R1 is a framework that extends pedagogical [[reinforcement-learning|reinforcement learning]] (RL) to [[special-education|special education]]. While prior RL-based tutor alignment methods targeted only generic math learners, Special-R1 explicitly models cognitive and communicative diversity across five disability profiles.
+Special-R1 is a framework that extends [[pedagogy|pedagogical]] [[reinforcement-learning|reinforcement learning]] (RL) to [[special-education|special education]]. While prior RL-based tutor alignment methods targeted only generic math learners, Special-R1 explicitly models cognitive and communicative diversity across five disability profiles.
 
 ## How It Works
 
 The framework has two core components:
 
-1. **Two-dimensional adaptive system prompt**: Couples a difficulty-based support level ([[scaffolding]]) with a disability-specific teaching style, forming a persona-aware prompt that guides the [[intelligent-tutoring|LLM tutor]] during multi-turn dialogue.
+1. **Two-dimensional adaptive system prompt**: Couples a difficulty-based support level ([[scaffolding]]) with a disability-specific [[teacher-role|teaching]] style, forming a persona-aware prompt that guides the [[intelligent-tutoring|LLM tutor]] during multi-turn dialogue.
 2. **Persona-aware Thinking Reward**: The judge rubric used to compute the training [[reinforcement-learning|reward]] is conditioned on the learner's disability profile rather than a generic student. This shapes the tutor to produce responses that are helpful, safe, and appropriately challenging for each specific persona.
 
 ## Key Results
@@ -29,12 +29,12 @@ The framework has two core components:
 - Generic baseline tutor achieved Fit score of 6.75/10
 - Special-R1 full model raised Fit to **8.40** (+1.65)
 - SPED-rubric Helpfulness improved from 0.720 to 0.768
-- No degradation on out-of-domain OpenLearnLM benchmark (8.53 vs 8.53)
-- Ablations showed the Thinking Reward only becomes effective in combination with adaptive prompting
+- No degradation on out-of-domain OpenLearnLM [[benchmark]] (8.53 vs 8.53)
+- Ablations showed the Thinking Reward only becomes effective in combination with adaptive [[prompt-engineering|prompting]]
 
 ## Critical Insight
 
-Students with specific learning disabilities in mathematics remain underserved, suggesting a need for [[multimodal]] extensions (visual aids, interactive diagrams) in future work.
+Students with specific learning disabilities in [[math-education|mathematics]] remain underserved, suggesting a need for [[multimodal]] extensions (visual aids, interactive diagrams) in future work.
 
 ## Why It Matters
 

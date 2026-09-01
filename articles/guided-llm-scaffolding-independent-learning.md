@@ -12,12 +12,12 @@ sources: ['raw/papers/2606.01375.md']
 confidence: high
 ---
 
-> Experimental study comparing Guided vs. Unrestricted LLM access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and self-assessment calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
+> Experimental study comparing Guided vs. Unrestricted [[llm]] access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and self-assessment calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
 
 ## Key Findings
 
 - In a **four-week quasi-experimental summer program** in an undergraduate Probability and Statistics course, students were organized into three balanced conditions: **no LLM access, unrestricted LLM access, and guided LLM access**.
-- The guided condition used the **same LLM platform** as the unrestricted condition, but students received explicit training and rules intended to promote reasoning-focused help-seeking, stepwise hints, verification, and ethical use.
+- The guided condition used the **same LLM platform** as the unrestricted condition, but students received explicit training and rules intended to promote reasoning-focused [[help-seeking]], stepwise hints, verification, and [[ethics|ethical]] use.
 - Guided use was associated with a **clearer [[learning-gains|learning]]-oriented interaction pattern** than unrestricted access, especially in prioritizing reasoning over final answers and requesting stepwise support.
 - Guided-LLM students showed a **promising pattern of stronger no-help quiz performance** during the intervention phase, while unrestricted access appeared more useful for assisted practice completion than for consistently improving independent performance.
 - All quizzes and the delayed final exam were completed **without LLM or external assistance**, separating AI-supported practice performance from independent learning; available time measures did not support a simple duration-based explanation, and **self-assessment calibration** suggested better alignment between perceived and demonstrated understanding in the guided condition.

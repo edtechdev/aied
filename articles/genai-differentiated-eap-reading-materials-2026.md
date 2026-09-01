@@ -17,7 +17,7 @@ confidence: high
 ## Key Findings
 
 - Instructors rated the generated materials favorably for academic fidelity (M = 4.24), proficiency appropriateness (M = 4.36), and teachability (M = 4.31), with acceptable inter-rater reliability, ICC(2,k) = 0.84.
-- Automated structural-complexity indicators showed limited separation between proficiency versions (η²p = 0.043), and leave-one-out discriminant analysis classified intended proficiency labels at only 11.1% — well below the 33.3% balanced-task benchmark.
+- Automated structural-complexity indicators showed limited separation between proficiency versions (η²p = 0.043), and leave-one-out discriminant analysis classified intended proficiency labels at only 11.1% — well below the 33.3% balanced-task [[benchmark]].
 - Material differences were clearest in functional support: glosses, sentence unpacking, rhetorical cues, claim–evidence notes, and critical prompts, rather than in rewritten sentence complexity.
 - Differentiated-AI exceeded unified-AI most strongly among high-proficiency learners (d = 1.40), followed by a moderate advantage among low-proficiency learners (d = 0.60) and a small difference among intermediate learners (d = 0.16).
 - The omnibus reading-comprehension interaction identified this heterogeneity, F(4, 126) = 7.43, p < 0.001, η²p = 0.191; immediate unsupported application did not differ by material condition or interaction.

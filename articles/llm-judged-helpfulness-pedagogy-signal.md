@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.28128.md']
 confidence: high
 ---
 
-Pre-registered study auditing whether general-purpose helpfulness rubrics can distinguish direct answer-giving from pedagogical guidance in LLM tutors. Uses deterministic detectors for answer leakage and next-turn independent work across three tutor models. Finds that helpfulness ratings conflate genuine pedagogical scaffolding with simply giving correct answers.
+Pre-registered study auditing whether general-purpose helpfulness rubrics can distinguish direct answer-giving from [[pedagogy|pedagogical]] guidance in [[llm]] tutors. Uses deterministic detectors for answer leakage and next-turn independent work across three tutor models. Finds that helpfulness ratings conflate genuine pedagogical [[scaffolding]] with simply giving correct answers.
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ The audit uses **deterministic process measures** — detectors for answer leaka
 
 ## Implications for AI in Education
 
-The central conclusion is that **general-purpose helpfulness is not a reliable pedagogy signal** in this controlled setting: a rubric tuned to "helpful" answers cannot distinguish a tutor that scaffolds from one that leaks the answer. Tutor evaluation should therefore **pair pedagogy-targeted rubrics with deterministic process measures** such as answer leakage and next-turn independent work. For [[intelligent-tutoring|AI Tutoring]] and [[benchmark]] design, this argues against relying on preference-based helpfulness judgments and toward measurement of student agency and independent work.
+The central conclusion is that **general-purpose helpfulness is not a reliable pedagogy signal** in this controlled setting: a rubric tuned to "helpful" answers cannot distinguish a tutor that scaffolds from one that leaks the answer. Tutor evaluation should therefore **pair pedagogy-targeted rubrics with deterministic process measures** such as answer leakage and next-turn independent work. For [[intelligent-tutoring|AI Tutoring]] and [[benchmark]] design, this argues against relying on preference-based helpfulness judgments and toward measurement of [[agency|student agency]] and independent work.
 
 ## Connected Concepts
 

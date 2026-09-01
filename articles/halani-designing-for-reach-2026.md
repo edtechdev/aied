@@ -50,15 +50,15 @@ Reach sorts the three more sharply than exposure: all are exposed in different p
 
 ## Relationship to existing research
 
-The framework sits in a lineage of enumerating classrooms' adjustable dimensions — Ames's (1992) six [[motivation]] structures, van den Akker's (2003) curriculum components — distributing those among the levers. What it adds is *scale* (levers are set and read at the scale of a course) and the *Reach question*. Its nearest neighbor is the assessment-redesign literature: Corbin, Dawson & Liu (2025) argue discursive changes cannot secure [[assessment]] in an age of [[generative-ai]] and that structural changes are needed; Reach asks that question of full [[learning-design|course design]] rather than assessment alone.
+The framework sits in a lineage of enumerating classrooms' adjustable dimensions — Ames's (1992) six [[motivation]] structures, van den Akker's (2003) [[curriculum-design|curriculum]] components — distributing those among the levers. What it adds is *scale* (levers are set and read at the scale of a course) and the *Reach question*. Its nearest neighbor is the assessment-redesign literature: Corbin, Dawson & Liu (2025) argue discursive changes cannot secure [[assessment]] in an age of [[generative-ai]] and that structural changes are needed; Reach asks that question of full [[learning-design|course design]] rather than assessment alone.
 
-The levers are domain-general and not AI-specific: mapping them to Schoenfeld's Teaching for Robust Understanding dimensions (rich content, cognitive demand, equitable access, [[agency|agency/ownership]], [[formative-assessment|formative assessment]]) shows the same levers describe environments for thinking with or without the machine.
+The levers are domain-general and not AI-specific: mapping them to Schoenfeld's Teaching for Robust Understanding dimensions (rich content, cognitive demand, [[equity-in-ai-education|equitable]] access, [[agency|agency/ownership]], [[formative-assessment|formative assessment]]) shows the same levers describe environments for thinking with or without the machine.
 
 ## Implications for AI in education
 
 - **Design the unsupervised moment, not just the supervised one:** [[learning-design|course design]] should ask how far each lever reaches when the student is alone — that is where free choice about AI is exercised.
 - **Structural changes beat discursive ones:** telling students process matters (Frame) is weakly reaching; changing what pays (Structure) or what cannot be done without thinking (Material) reaches further.
-- **Norms propagate to AI:** a student who has internalized "take ideas you can reconstruct, not answers you can copy" applies it to both a classmate's notebook and a chatbot — the norm is about what help is for, not the source.
+- **Norms propagate to AI:** a student who has internalized "take ideas you can reconstruct, not answers you can copy" applies it to both a classmate's notebook and a [[conversational-ai|chatbot]] — the norm is about what help is for, not the source.
 - **The machine changes the calculus of "reaching" aims:** a direct-instruction design that once built fluency can now be short-circuited by the very tool, because its reach protects an aim the machine can reach too.
 - **Relationship is a lever, not a disposition:** investing in the human systems (as with Khanmigo) is treated here as designable, not fixed.
 

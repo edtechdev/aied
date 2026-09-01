@@ -11,7 +11,7 @@ sources: ['raw/papers/mujib-ai-ibl-creative-math-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** This quasi-experimental study of secondary students (mean age 12.79) compared AI-supported [[inquiry-based-learning|inquiry-based learning]] against conventional instruction in mathematics. AI-supported IBL significantly improved students' *creative mathematical performance* and *attitudes toward mathematics* — but did **not** produce a statistically significant improvement in *critical problem-solving skills*. Multivariate analysis confirmed a significant overall group effect; the authors conclude AI-supported IBL mainly supports creativity and affective development, with limited effect on problem-solving.
+> **Synthesis:** This quasi-experimental study of secondary students (mean age 12.79) compared AI-supported [[inquiry-based-learning|inquiry-based learning]] against conventional instruction in mathematics. AI-supported IBL significantly improved students' *creative mathematical performance* and *attitudes toward mathematics* — but did **not** produce a statistically significant improvement in *critical [[problem-solving]] skills*. Multivariate analysis confirmed a significant overall group effect; the authors conclude AI-supported IBL mainly supports [[creativity]] and [[affective-computing|affective]] development, with limited effect on problem-solving.
 
 ## Key Findings
 
@@ -22,7 +22,7 @@ confidence: high
 
 ## Implications
 
-This study tempers the enthusiasm for AI-in-IBL: it shows [[generative-ai|AI]]-supported [[inquiry-based-learning|inquiry]] can reliably boost creativity and engagement but does not automatically transfer to critical problem-solving. For [[math-education|mathematics]] and [[k-12|secondary]] instruction, it reinforces that AI-supported inquiry needs deliberate [[critical-thinking|problem-solving]] scaffolds — the very finding the knowledge base's AI-in-IBL cluster surfaces across studies. It connects to the broader [[cognitive-offloading|performance-learning gap]] literature: AI can elevate performance and affect while [[learning-gains|learning]] of transferable skills lags.
+This study tempers the enthusiasm for AI-in-IBL: it shows [[generative-ai|AI]]-supported [[inquiry-based-learning|inquiry]] can reliably boost creativity and [[student-engagement|engagement]] but does not automatically transfer to critical problem-solving. For [[math-education|mathematics]] and [[k-12|secondary]] instruction, it reinforces that AI-supported inquiry needs deliberate [[critical-thinking|problem-solving]] scaffolds — the very finding the knowledge base's AI-in-IBL cluster surfaces across studies. It connects to the broader [[cognitive-offloading|performance-learning gap]] literature: AI can elevate performance and affect while [[learning-gains|learning]] of transferable skills lags.
 
 ## Connected Concepts
 

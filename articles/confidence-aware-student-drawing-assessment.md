@@ -23,7 +23,7 @@ A Vision Transformer (ViT) with LoRA adaptation for [[automated-assessment|autom
 - **Method:** Vision Transformer (ViT) with LoRA + confidence-aware framework using test-time perturbations.
 - **Dataset:** Six NGSS-aligned middle school [[k-12|assessment]] items (477-816 responses each, scored Beginning/Developing/Proficient).
 - **Key innovation:** Response-level confidence enables selective automation — high-confidence auto-scored, uncertain cases deferred for human review.
-- **Implication:** confidence-aware [[formative-assessment|assessment]] enables practical triage between automation and human oversight in educational assessment.
+- **Implication:** confidence-aware [[formative-assessment|assessment]] enables practical triage between automation and [[human-in-the-loop-ai|human oversight]] in educational assessment.
 
 ## Connected Concepts
 

@@ -27,7 +27,7 @@ The study's key design innovation is prompt scaffolding — structured prompts (
 - Tools: Tencent QQ (organization), Tencent Meeting (discussion/feedback), Boardmix (collaborative editing), and ERNIE Bot (GenAI conversational partner).
 - GenAI served as a cognitive/evaluative scaffold (evaluating structure/coherence, evidence sufficiency, counterarguments, and generating suggestions). GenAI-PF groups generated their own prompts; PS-GenAI-PF received prompt scaffolding.
 - Analysis: Kruskal-Wallis H tests for argumentation performance and feedback-quality differences; epistemic network analysis (ENA) for associations between feedback content and emotion.
-- Feedback quality assessed on elements (descriptive comments, identification, explanations, suggestions) and affective tone (positive, neutral, negative).
+- [[ai-feedback-quality|Feedback quality]] assessed on elements (descriptive comments, identification, explanations, suggestions) and [[affective-computing|affective]] tone (positive, neutral, negative).
 
 ## Implications for Practice
 

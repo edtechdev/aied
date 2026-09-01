@@ -14,7 +14,7 @@ confidence: high
 
 ## Core Finding
 
-GenAI adoption follows a **hybrid logic**: cognitive-instrumental beliefs enable acceptance and intention formation, while motivational-affective experiences sustain actual use, and habitual interaction normalizes continued engagement. Both symmetric (net-effects) and asymmetric (configurational) pathways are needed to explain adoption, and this logic holds differently in low-resource contexts than in the well-resourced settings where most adoption theory was developed.
+GenAI adoption follows a **hybrid logic**: cognitive-instrumental beliefs enable acceptance and intention formation, while motivational-[[affective-computing|affective]] experiences sustain actual use, and habitual interaction normalizes continued engagement. Both symmetric (net-effects) and asymmetric (configurational) pathways are needed to explain adoption, and this logic holds differently in low-resource contexts than in the well-resourced settings where most adoption theory was developed.
 
 ## Dual-Layer Model: Acceptance vs. Engagement
 

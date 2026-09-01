@@ -15,10 +15,10 @@ confidence: high
 
 ## Key Findings
 
-- GenAI can produce fluent discourse resembling strong cognitive, social, or teaching presence without reflecting learners' actual thinking, relationships, or regulatory intentions.
+- GenAI can produce fluent discourse resembling strong cognitive, social, or teaching presence without reflecting learners' actual thinking, relationships, or [[regulation|regulatory]] intentions.
 - The paper reinterprets cognitive, social, and teaching presence as sociotechnical accomplishments of human-GenAI assemblages rather than purely human activity.
 - It proposes a configuration-based heuristic suggesting the relationship between GenAI involvement and inquiry quality is conditional on human accountability: strong presence can occur with high or low GenAI involvement when accountability is strong, and weak presence with either when accountability is weak.
-- CoI evaluation needs process-sensitive evidence (prompting and revision traces, disclosure and attribution practices, verification moves, interaction logs) rather than inference from polished final texts.
+- CoI evaluation needs process-sensitive evidence ([[prompt-engineering|prompting]] and revision traces, disclosure and attribution practices, verification moves, interaction logs) rather than inference from polished final texts.
 
 ## The CoI Framework Under GenAI Pressure
 
@@ -32,9 +32,9 @@ The paper critiques three prior framings of GenAI in CoI — as a tool/infrastru
 
 **Cognitive presence** now unfolds where GenAI increases the availability of fluent explanations, accelerating early sense-making but heightening the risk of premature closure when coherence is mistaken for warrant. Each phase of the practical inquiry model (triggering event, exploration, integration, resolution) is enacted through distinctive human-GenAI assemblages: machine-generated suggestions can catalyse triggering, exploration expands rapidly but requires interrogating algorithmic origins, integration risks machine-drafted syntheses that obscure inaccuracies or pull groups toward homogeneous formulations, and resolution becomes a test of whether claims are accepted because compelling or because warranted.
 
-**Social presence** is reshaped as machine-produced utterances mimic friendliness, empathy, and responsiveness with high linguistic credibility, complicating relational accountability. Affective expression, open communication, and group cohesion remain relevant but their enactment changes: supportive messages may be less credible if perceived as delegated, automated active listening may weaken the sense of genuine attendance, and stylistic convergence may reduce the visibility of individual voices. Explicit labelling of AI-assisted contributions can preserve social presence by reducing authorship uncertainty.
+**Social presence** is reshaped as machine-produced utterances mimic friendliness, empathy, and responsiveness with high linguistic credibility, complicating relational accountability. [[affective-computing|Affective]] expression, open communication, and group cohesion remain relevant but their enactment changes: supportive messages may be less credible if perceived as delegated, automated active listening may weaken the sense of genuine attendance, and stylistic convergence may reduce the visibility of individual voices. Explicit labelling of AI-assisted contributions can preserve social presence by reducing authorship uncertainty.
 
-**Teaching presence** shifts from delivering content to sustaining regulative functions that keep inquiry coherent, equitable, and epistemically disciplined. Design and organization now include deciding how GenAI is positioned in tasks; facilitating discourse includes modeling the questioning of generated outputs and preventing AI-smoothing from erasing productive conflict; and direct instruction becomes ongoing sense-making infrastructure for evaluating machine-generated information, detecting hallucinated citations, and recognising bias. Teaching presence becomes a distributed accomplishment rather than an individual instructor capacity.
+**Teaching presence** shifts from delivering content to sustaining regulative functions that keep inquiry coherent, [[equity-in-ai-education|equitable]], and epistemically disciplined. Design and organization now include deciding how GenAI is positioned in tasks; facilitating discourse includes modeling the questioning of generated outputs and preventing AI-smoothing from erasing productive conflict; and direct instruction becomes ongoing sense-making infrastructure for evaluating machine-generated information, detecting hallucinated citations, and recognising bias. Teaching presence becomes a distributed accomplishment rather than an individual instructor capacity.
 
 ## Conditional Configurations and Practical Design
 
@@ -42,7 +42,7 @@ A two-axis heuristic (degree of GenAI involvement; strength of human accountabil
 
 ## Implications for Theory and Research
 
-CoI remains theoretically valuable but its operationalizations need refinement: existing coding schemes and surveys risk over-attributing presence based on surface features of text. The paper sets a research agenda of refining CoI instruments for GenAI-mediated environments, testing the configuration-based hypothesis across real human-GenAI assemblages, and examining simulation-based training mechanisms. It is a conceptual analysis rather than an empirical study, so its claims are theoretically grounded propositions for future investigation, developed mainly with higher-education, text-based inquiry contexts in mind.
+CoI remains theoretically valuable but its operationalizations need refinement: existing coding schemes and surveys risk over-attributing presence based on surface features of text. The paper sets a [[research-methods-aied|research]] agenda of refining CoI instruments for GenAI-mediated environments, testing the configuration-based hypothesis across real human-GenAI assemblages, and examining simulation-based training mechanisms. It is a conceptual analysis rather than an empirical study, so its claims are theoretically grounded propositions for future investigation, developed mainly with higher-education, text-based inquiry contexts in mind.
 
 ## Connected Concepts
 - [[community-of-inquiry]] — Community of Inquiry

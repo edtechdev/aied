@@ -20,7 +20,7 @@ Gayed presents **AiAWE**, an open-source [[automated-assessment|automated writin
 
 These results outperform both LLaMA-3.3-70B and the fine-tuned GPT-3.5 baseline from prior work on the same dataset, demonstrating that [[generative-ai|open-weight LLMs can match or exceed proprietary fine-tuning]] for rubric-aligned scoring.
 
-Three broader findings emerge: (1) model scale is not a reliable predictor of downstream performance under LoRA adaptation; (2) identical LoRA hyperparameters produce qualitatively different adaptation behaviors across architectures; and (3) the system runs on a [[edtech-platform|consumer-grade server]], making it accessible for institutional deployment. The work contributes to debates about [[short-answer-scoring-quality-degradation|automated assessment quality]] and the feasibility of [[open-source]] AI tools in [[writing-education]].
+Three broader findings emerge: (1) model scale is not a reliable predictor of downstream performance under LoRA adaptation; (2) identical LoRA hyperparameters produce qualitatively different adaptation behaviors across architectures; and (3) the system runs on a [[edtech-platform|consumer-grade server]], making it accessible for [[governance|institutional]] deployment. The work contributes to debates about [[short-answer-scoring-quality-degradation|automated assessment quality]] and the feasibility of [[open-source]] AI tools in [[writing-education]].
 
 ## Connected Concepts
 

@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.18692.md']
 confidence: medium
 ---
 
-> **Synthesis:** Nguyen et al. (2026) revisit WordStream (2009) as a quantitative encoding for qualitative [[learning-analytics|learning analytics]], demonstrating how structured coding can surface cohort-level trends while preserving individual narrative context. WordStream, a visualization idiom for topic evolution, has been instantiated in platforms such as the Journal Data Dashboard to help instructors improve the learning environment.
+> **Synthesis:** Nguyen et al. (2026) revisit WordStream (2009) as a [[quantitative-research|quantitative]] encoding for [[qualitative-research|qualitative]] [[learning-analytics|learning analytics]], demonstrating how structured coding can surface cohort-level trends while preserving individual narrative context. WordStream, a [[visualization]] idiom for topic evolution, has been instantiated in platforms such as the Journal Data Dashboard to help instructors improve the learning environment.
 
 Revisits WordStream (2009) as a quantitative encoding for qualitative learning analytics, demonstrating how structured coding can surface cohort-level trends while preserving individual narrative context. Data-driven learning analytics can surface trends across a student cohort over time, helping instructors improve the learning environment. WordStream, a visualization idiom for topic evolution, has been instantiated in two platforms toward this goal, including the Journal Data Dashboard. The work connects to [[human-in-the-loop-ai|human-in-the-loop]] and [[edtech-platform|platform]] design, supporting [[administrator|administrators]] and instructors in using [[learning-analytics]] to understand [[student-experience|student experience]].
 

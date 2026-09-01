@@ -15,14 +15,14 @@ confidence: high
 
 ## Performance versus learning
 
-The study foregrounds the distinction between **performance** (transient, assisted behavior) and **learning** (durable change that persists when assistance is removed). The authors argue this distinction is often neglected in [[generative-ai|generative AI]] research, which tends to measure students' performance on the *assisted* task rather than their later unassisted transfer. Freely using ChatGPT may raise immediate output while students merely **appropriate** its responses — outsourcing the thinking rather than developing it — a dynamic consistent with the [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] literatures.
+The study foregrounds the distinction between **performance** (transient, assisted behavior) and **learning** (durable change that persists when assistance is removed). The authors argue this distinction is often neglected in [[generative-ai|generative AI]] [[research-methods-aied|research]], which tends to measure students' performance on the *assisted* task rather than their later unassisted transfer. Freely using ChatGPT may raise immediate output while students merely **appropriate** its responses — outsourcing the thinking rather than developing it — a dynamic consistent with the [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] literatures.
 
 ## The "think first, ChatGPT later" approach
 
 To move students from *editing* AI output toward *co-creating* with it, the intervention structured the task into three phases:
 
 1. **Think first (Phase 1):** students independently brainstorm and generate their own initial ideas.
-2. **Collaborate (Phase 2):** students work with ChatGPT as a brainstorming and [[feedback]] partner to improve, develop, and evaluate their own ideas, guided by sample prompts that scaffold [[metacognition|metacognitive]] and creative processes (seeking refinements, elaborating, connecting ideas, identifying weaknesses, comparing, and refining).
+2. **Collaborate (Phase 2):** students work with ChatGPT as a brainstorming and [[feedback]] partner to improve, develop, and evaluate their own ideas, guided by sample prompts that [[scaffolding|scaffold]] [[metacognition|metacognitive]] and creative processes (seeking refinements, elaborating, connecting ideas, identifying weaknesses, comparing, and refining).
 3. **Select (Phase 3):** students independently refine and submit their single best solution.
 
 This design operationalizes [[human-ai-collaboration|co-creation]] — the human sets the direction and contributes original ideas while AI amplifies them — rather than either dictating to or merely editing the machine.
@@ -39,7 +39,7 @@ A 3 × 2 mixed ANOVA revealed a striking crossover interaction:
 
 ## Why free use fails: outsourcing divergent thinking
 
-The general-AI group's pattern reflects a default of "[[metacognition|metacognitive]] laziness": rather than engaging the [[creativity|divergent thinking]] that underpins original idea generation, students outsourced it wholesale to ChatGPT, investing less mental effort. Generating one's own ideas first forces the divergent phase of creative problem-solving, and then using ChatGPT to *improve* those ideas exercises [[self-regulated-learning|self-regulated]] refinement and evaluation. Notably, simply working alone (the human-only group) did **not** confer the same benefit — the human-only group declined on the harder invention task — so collaboration with ChatGPT added learning value beyond independent effort, consistent with *redefinition* effects of AI.
+The general-AI group's pattern reflects a default of "[[metacognition|metacognitive]] laziness": rather than engaging the [[creativity|divergent thinking]] that underpins original idea generation, students outsourced it wholesale to ChatGPT, investing less mental effort. Generating one's own ideas first forces the divergent phase of creative [[problem-solving]], and then using ChatGPT to *improve* those ideas exercises [[self-regulated-learning|self-regulated]] refinement and evaluation. Notably, simply working alone (the human-only group) did **not** confer the same benefit — the human-only group declined on the harder invention task — so collaboration with ChatGPT added learning value beyond independent effort, consistent with *redefinition* effects of AI.
 
 ## Practical implications
 
