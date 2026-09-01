@@ -1,7 +1,7 @@
 ---
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-01T09:15:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai]
@@ -80,3 +80,4 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 
+- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research

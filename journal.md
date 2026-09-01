@@ -1,6 +1,99 @@
 # Journal
 
-**Last updated:** 2026-08-31 | **Total entries:** 1133
+**Last updated:** 2026-09-01 | **Total entries:** 1159
+
+
+## "2026-09-01
+
+- ◐ [[preservice-teacher-agency-genai-design-learning-2026]] — ''raw/papers/10.1016_j.caeo.2026.100325.md''
+  Pre-Service Teachers' Agency During Their Interactions with Generative AI While Designing for Learning
+
+- ◐ [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — ''raw/papers/10.1016_j.caeo.2026.100329.md''
+  Longitudinal Insights into AI in Education: Usage, Ethics, and Policy Development in Higher Education
+
+- ◐ [[utility-value-intervention-teach-responsibly-genai-2026]] — ''raw/papers/10.1016_j.caeo.2026.100324.md''
+  Perceived Utility Moderates Motivational Intervention Effects in Learning to Teach Responsibly with GenAI
+
+- ◐ [[human-ai-complementarity-social-emotional-learning-2026]] — ''raw/papers/10.1016_j.caeo.2026.100331.md''
+  An Experimental Study Exploring Human–AI Complementarity in Early Social-Emotional Learning
+
+- ◐ [[ethical-conditions-llm-exam-preparation-2026]] — ''raw/papers/10.1016_j.caeo.2026.100323.md''
+  Ethical Conditions for University Students' Adoption of Large Language Models in Exam Preparation Contexts
+
+- ◐ [[making-ai-annoying-constrained-writing-2026]] — ''raw/papers/10.1016_j.caeo.2026.100343.md''
+  Making AI Annoying on Purpose: When Helpful Tools Don't Always Help
+
+- ◐ [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — ''raw/papers/10.1016_j.caeo.2026.100378.md''
+  Generative Artificial Intelligence Integration in Higher Education: A Constructivist Learning Theory Approach
+
+- ◐ [[beyond-hype-stakeholder-perceptions-genai-2026]] — ''raw/papers/10.1016_j.caeo.2026.100381.md''
+  Beyond the Hype: How Higher Education Stakeholders View the Benefits and Concerns of Generative AI for Teaching, Research, and Administration
+
+- ◐ [[genai-use-usefulness-student-experience-australia-2026]] — ''raw/papers/10.1016_j.caeo.2026.100347.md''
+  The Use and Usefulness of GenAI in Higher Education: Student Experience and Perspectives
+
+- ◐ [[questionnaire-teachers-genai-uses-validation-2026]] — ''raw/papers/10.1016_j.caeo.2026.100332.md''
+  Design and Validation of a Questionnaire on Teachers' Uses of Generative Artificial Intelligence
+
+- ◐ [[student-motivation-need-satisfaction-genai-sdt-2026]] — ''raw/papers/10.1016_j.caeo.2026.100348.md''
+  Student Motivation and Need Satisfaction in GenAI-Supported Classrooms: A Self-Determination Theory Perspective
+
+- ◐ [[policy-deficit-ai-sel-2026]] — ''raw/papers/policy-deficit-ai-sel-2026.md''
+  The Policy Deficit in AI × Social-Emotional Learning Research
+
+- ◐ [[cogevol-learning-environment-generation-2026]] — ''raw/papers/cogevol-learning-environment-generation-2026.md''
+  CogEvol: Towards Efficient and Reliable Learning Environment Generation
+
+
+## "2026-06-23
+
+- ● [[bridging-instructional-design-framework-math]] — ''''
+  WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+
+
+## "2026-06-10
+
+- ● [[edumirror-educational-social-dynamics]] — ''''
+  EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
+
+- ● [[tibetcpr-ai-training-feedback]] — ''''
+  TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
+
+- ● [[reshaping-cs-education-genai]] — ''''
+  Reshaping Undergraduate Computer Science Education in the Generative AI Era
+
+- ● [[genai-academic-search-workshop]] — ''''
+  Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
+
+- ● [[cognitive-offloading-llm-synthesis-writing]] — ''''
+  Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
+
+- ● [[hybrid-e-assessment-semi-automated-grading]] — ''''
+  Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
+
+- ● [[knowledge-gap-detection-ai-tas]] — ''''
+  Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
+
+
+## "2026-05-31
+
+- ● [[llm-cognitive-diagnosis-handwritten-math]] — ''''
+  Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
+
+
+## "2026-05-27
+
+- ● [[persistent-ai-agents-academic-research]] — ''''
+  Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
+
+- ● [[student-misconceptions-conditionals-loops-taxonomy]] — ''''
+  How Students (Mis)understand Conditionals and Loops -- A Taxonomy
+
+- ● [[genai-minoritized-knowledges-disability]] — ''''
+  Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
+
+- ● [[slidesqaqa-pedagogical-question-generation]] — ''''
+  Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
 
 ## "2026-08-31
 

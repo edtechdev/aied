@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T09:15:00-04:00"
 type: concept
 tags: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy]
 
@@ -112,3 +112,4 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
+- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation

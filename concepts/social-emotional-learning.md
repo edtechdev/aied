@@ -1,7 +1,7 @@
 ---
 title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T09:15:00-04:00"
 type: concept
 tags: [ai-literacy, affective-computing, well-being, teacher-ai-competency, student-experience, ethics, self-regulated-learning, higher-ed]
 audience: [learners]
@@ -32,6 +32,8 @@ Social-emotional learning is closely related to, but distinct from, emotional in
 - **Well-being and AI's affective impact:**  examine how the increasing use of generative AI affects students' socio-emotional skills, well-being, sociability, and sense of trust and empathy — concerns that motivated the OECD's call for AI literacy grounded in humanistic, social, and emotional values.
 
 - **Affective dimensions of AI:** SEL connects to [[affective-computing]] and [[well-being]] research, examining how AI systems can support or undermine emotional and relational learning.
+
+- **Policy deficit in AI × SEL:** A systematic review of 65 papers at the AI–SEL intersection ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) finds a substantial "policy deficit": nearly three-quarters of studies state no policy implications, and the few that do often lack actor-specific guidance. The review links policy engagement to publication venue and warns of a "techno-solutionist" trap in which technical potential is foregrounded while the institutional conditions for responsible implementation remain under-specified. It proposes a "WH-question" framework (Who, What, Why, When/Where, How) to move from "implication-as-afterthought" to "implication-as-methodology," connecting [[ai-education|AI-for-SEL]] innovation to [[educational-policy-ai|educational policy]] and [[governance]].
 
 ## Potential subtopics of SEL in the AI-era research
 
@@ -110,3 +112,5 @@ SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relation
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Affective Math Tutoring
 - [[ai-campus-wellbeing-tools]] — AI-Driven Campus Well-being Tools
 
+- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
+- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)

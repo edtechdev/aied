@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T09:15:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, multimodal, llm, intelligent-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
 research_method: [educational measurement]
@@ -125,3 +125,4 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
+- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation

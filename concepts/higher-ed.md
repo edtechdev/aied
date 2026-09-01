@@ -10,7 +10,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 ---
 
-> **AI in Higher Education** — the integration of artificial intelligence into university teaching, learning, assessment, and [[administrator|administration]]. Higher education is the most-studied context in the knowledge base, with over 100 articles examining how AI transforms college-level instruction, [[educational-policy-ai|institutional policy]], and [[student-experience|student experience]]. AI in higher education is both the dominant setting for [[ai-education|AIED]] [[research-methods-aied|research]] and the site where its tensions are most visible — between [[generative-ai|generative AI]]'s promise of scalable [[personalized-learning|personalization]] and its risks to [[academic-integrity|integrity]], [[cognitive-offloading|learning]], [[privacy]], and [[equity-in-ai-education|equity]].
+> **AI in Higher Education** — the integration of artificial intelligence into university [[teacher-role|teaching]], learning, assessment, and [[administrator|administration]]. Higher education is the most-studied context in the knowledge base, with over 100 articles examining how AI transforms college-level instruction, [[educational-policy-ai|institutional policy]], and [[student-experience|student experience]]. AI in higher education is both the dominant setting for [[ai-education|AIED]] [[research-methods-aied|research]] and the site where its tensions are most visible — between [[generative-ai|generative AI]]'s promise of scalable [[personalized-learning|personalization]] and its risks to [[academic-integrity|integrity]], [[cognitive-offloading|learning]], [[privacy]], and [[equity-in-ai-education|equity]].
 
 ## Questions to Consider
 
@@ -124,3 +124,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
 - [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI (Daniel et al. 2026)
 
+- [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
+- [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
+- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
+- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)

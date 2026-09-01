@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-01T09:15:00-04:00"
 type: concept
 tags: [regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics]
 audience: [administrator, instructors, faculty development]
@@ -9,7 +9,7 @@ level: [higher ed, k 12]
 confidence: high
 ---
 
-> **Educational AI policy** — the formal and informal rules governing AI use in educational institutions, from national legislation to classroom guidelines. Policy research in the knowledge base spans institutional governance, [[curriculum-design|curriculum]] mandates, and teacher preparation requirements.
+> **Educational AI policy** — the formal and informal rules governing AI use in educational institutions, from national legislation to classroom guidelines. Policy [[research-methods-aied|research]] in the knowledge base spans institutional governance, [[curriculum-design|curriculum]] mandates, and teacher preparation requirements.
 
 ## Questions to Consider
 
@@ -49,6 +49,11 @@ The practical test that separates them: a policy can be read on paper, but gover
 ### Connections
 
 Educational AI policy connects to [[regulation]] (legal framework), [[governance]] (institutional implementation), [[educational-development]] (policy implementation through training), [[equity-in-ai-education]] (policy impacts on access), and [[higher-ed]] / [[k-12]] (context-specific policy).
+
+
+### The policy deficit in AI × SEL research
+
+A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the intersection of [[ai-education|AI]] and [[social-emotional-learning|social-emotional learning]] ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) documents a "policy deficit": nearly three-quarters of studies state no policy implications, and those that do often lack actor-oriented specificity. The review finds policy [[student-engagement|engagement]] correlates with publication venue, reflecting academic incentives that reward technical novelty over [[governance]] and [[regulation]]. It proposes a "WH-question" framework (Who, What, Why, When/Where, How) and a shift from "implication-as-afterthought" to "implication-as-methodology" — treating policy articulation as a design constraint of research rather than a post-hoc add-on.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -108,3 +113,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 
+- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
+- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
+- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
+- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)

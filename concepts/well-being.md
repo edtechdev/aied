@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T09:15:00-04:00"
 type: concept
 tags: [student-experience, social-emotional-learning, ethics, ai-literacy, higher-ed, motivation]
 audience: [learners]
@@ -37,7 +37,7 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 
 ### Well-being as a design consideration
 
-A recurring theme is that well-being should be a deliberate design consideration in AI in education, not an afterthought. This means: designing AI to support rather than replace human relationships; ensuring students can maintain agency and confidence rather than experiencing AI-induced anxiety or over-reliance; supporting educators' capacity and well-being as they integrate AI; and evaluating AI systems not only for [[learning-gains|learning outcomes]] but also for their effects on students' and teachers' well-being. Research connects well-being to [[motivation]], [[self-regulated-learning]], and [[student-experience]] (belonging and engagement).
+A recurring theme is that well-being should be a deliberate design consideration in AI in education, not an afterthought. This means: designing AI to support rather than replace human relationships; ensuring students can maintain agency and confidence rather than experiencing AI-induced anxiety or over-reliance; supporting educators' capacity and well-being as they integrate AI; and evaluating AI systems not only for [[learning-gains|learning outcomes]] but also for their effects on students' and teachers' well-being. [[research-methods-aied|Research]] connects well-being to [[motivation]], [[self-regulated-learning]], and [[student-experience]] (belonging and engagement).
 
 ### Connections to related concepts
 
@@ -66,3 +66,4 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 
 
+- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research

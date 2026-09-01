@@ -90,3 +90,4 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[xiong-ai-educational-measurement-review-2026]] — Construct validity as a central challenge
 
+- [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
