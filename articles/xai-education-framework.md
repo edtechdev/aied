@@ -10,8 +10,6 @@ sources: ['raw/papers/khosravi-xai-education-2022.md']
 confidence: high
 ---
 
-📄 DOI: 10.1016/j.caeai.2022.100074
-
 ## Core Contribution
 
 This paper introduces **XAI-ED**, a framework for explainable AI that is purpose-built for education. It argues that while XAI in education shares common ground with broader XAI (accountability, fairness, privacy), education has *distinctive needs*: learning data is noisy at many levels, explanations can directly support metacognition and self-regulated learning, and different stakeholders need fundamentally different kinds of explanations.

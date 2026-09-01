@@ -11,8 +11,6 @@ category: [assessment]
 sources: ['raw/papers/2606.26729.md']
 confidence: high
 ---
-📄 [PDF](https://arxiv.org/pdf/2606.26729)
-
 This study examines the implementation of the Artificial Intelligence Assessment Scale (AIAS), a structured framework for redesigning [[assessment|university assessment]] in response to [[generative-ai|generative AI]]. Surveying 80 academic staff, the [[research-methods-aied|researchers]] found that while the framework's transparency and guidance were valued, implementation was hampered by departmental inconsistencies, workload pressures, and uncertainty about appropriate AI use levels.
 
 The study frames [[assessment|assessment reform]] through the lens of 'assessment security', conceptualizing the work of redesign as a security practice in [[higher-ed|higher education]]. Staff described the process as 'a bit of chaos and madness', capturing both the disruptive potential and the lack of coordinated [[governance|institutional]] support. This connects to broader challenges around [[academic-integrity|academic integrity]] in the age of generative AI.
