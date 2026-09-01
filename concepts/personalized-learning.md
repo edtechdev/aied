@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T16:00:00-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 audience: [learners]
@@ -86,6 +86,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 
 ## Connected Articles
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[mishra-control-vs-agency-history-2025]] — Distinguishes two forms of personalization (uniform vs diverse outcomes)

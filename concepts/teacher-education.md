@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T16:00:00-04:00"
 type: concept
 tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
 audience: [instructors]
@@ -88,6 +88,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pedagogical AI knowledge as the priority lever for teacher professional learning (Shen et al. 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education

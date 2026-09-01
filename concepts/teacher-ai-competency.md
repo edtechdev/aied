@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T16:00:00-04:00"
 connected_faqs: [faculty-ai-competencies]
 type: concept
 tags: [ai-literacy, educational-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy]
@@ -89,6 +89,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Teacher professional knowledge in K-12 AI education: TAIK vs TPAIK and student learning (Shen et al. 2026)
 - [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)

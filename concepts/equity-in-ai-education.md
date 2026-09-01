@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T16:00:00-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 discipline: [language learning]
@@ -90,6 +90,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities

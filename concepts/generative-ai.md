@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-01T16:00:00-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk]
 
@@ -63,6 +63,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[k-12]] — a primary deployment context
 
 ## Connected Articles
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making

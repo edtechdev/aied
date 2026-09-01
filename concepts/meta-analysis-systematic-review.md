@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-01T16:00:00-04:00"
 type: concept
 tags: [meta-analysis-systematic-review, research-methods-aied, ai-education, ai-ed-evaluation]
 research_method: [meta-analysis, systematic review, research methods, literature review]
@@ -113,6 +113,7 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - [[simulation]]
 
 ## Connected Articles
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[nguyen-genai-global-south-review-2026]]
 - [[espino-ai-business-education-review-2026]]
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
