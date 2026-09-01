@@ -1,7 +1,7 @@
 ---
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-09-01T09:15:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop-ai, agency, cognitive-offloading]
@@ -17,7 +17,7 @@ confidence: high
 
 - Agentic AI doesn't just answer questions — it plans, executes, and adapts multi-step workflows toward a goal, acting as a persistent collaborator. How is learning with a proactive agent different from learning with a tool you have to prompt?
 - The more an agent automates, the less cognitive work the learner does. Where is the line between an AI that scaffolds your learning and one that does your learning for you?
-- A scoping review found only 29% of agentic AI studies grounded their systems in educational theory. If most systems aren't theory-based, what should make you skeptical when evaluating an 'intelligent' tutoring agent?
+- A [[meta-analysis-systematic-review|scoping review]] found only 29% of agentic AI studies grounded their systems in educational theory. If most systems aren't theory-based, what should make you skeptical when evaluating an 'intelligent' tutoring agent?
 - Multi-agent systems orchestrate specialized agents with distinct roles. When several agents work together in a classroom, who is accountable — and where should a human intervene?
 - The field's central tension is personalization versus learner agency and cognitive effort. If a tutor becomes so good at adapting that you never have to struggle, what learning are you actually getting?
 - Hybrid agents grounded in established design theory outperformed pure prompting. Why might a theoretically-grounded system beat raw prompt-engineering — and what does that say about how an agent's 'smartness' is measured?
@@ -32,10 +32,10 @@ The knowledge base's [[agentic-ai-education-scoping-review|scoping review]] — 
 
 ## Design and evaluation of agentic systems
 
-Research in the knowledge base spans design and evaluation:
+[[research-methods-aied|Research]] in the knowledge base spans design and evaluation:
 
 - **Hybrid agents grounded in theory outperform pure [[prompt-engineering|prompting]]:** [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]], a benchmark of **25,795 instructional-design scenarios**, finds the best-performing approach integrates classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping) with modern ReAct-style reasoning — hybrid (theory + technique) > pure theory > technique-only. Grounding [[llm]] agents in established educational-design theory provides a structural advantage raw prompting cannot replicate.
-- **Assessment frameworks for agentic tools:** [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] proposes teaching and assessing computational methods in a way that does not depend on any specific AI tool, emphasizing [[computational-thinking]] fundamentals, [[authentic-assessment|authentic assessment]] via oral defense, and verification — relevant to [[cognitive-offloading|Over-Reliance]] concerns.
+- **Assessment frameworks for agentic tools:** [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] proposes [[teacher-role|teaching]] and assessing computational methods in a way that does not depend on any specific AI tool, emphasizing [[computational-thinking]] fundamentals, [[authentic-assessment|authentic assessment]] via oral defense, and verification — relevant to [[cognitive-offloading|Over-Reliance]] concerns.
 - **Adversarial robustness testing:** [[adversarial-stress-testing-role-playing-agents|Multi-agent stress testing]] coordinates Interrogator, Target, and Judge agents to reveal failure modes invisible to single-strategy testing, reducing robustness scores by 0.17–0.20 points — critical for persona consistency and [[pedagogical-safety|safe deployment]] with learners.
 - **Domain applications:** agentic systems appear across domains, including [[learnmate2-llm-adaptive-learning|adaptive learning agents]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogical LLM agents]], [[guided-llm-scaffolding-independent-learning|guided LLM scaffolding]], [[cyberagents-gamified-cybersecurity-learning-2026|gamified cybersecurity learning agents]], and [[hdr-brachytherapy-agentic-ai-simulation-2026|clinical simulation agents]].
 
@@ -103,7 +103,7 @@ For teachers, faculty, and [[learning-design|instructional designers]], agentic 
 
 Because autonomous agents make detection futile, instructors should focus on techniques that **verify learning** and **make honest work visible**, rather than on policing:
 
-- **Prefer verification over detection.** Replace or supplement "submit the work" with interactions that require the learner to demonstrate understanding they cannot outsource: oral defenses, [[tool-invariant-framework-agentic-ai|tool-invariant]] tasks, live problem-solving, and [[authentic-assessment|process-based]] assessment. The goal is to establish what the learner can do independently, not to catch an agent.
+- **Prefer verification over detection.** Replace or supplement "submit the work" with interactions that require the learner to demonstrate understanding they cannot outsource: oral defenses, [[tool-invariant-framework-agentic-ai|tool-invariant]] tasks, live [[problem-solving]], and [[authentic-assessment|process-based]] assessment. The goal is to establish what the learner can do independently, not to catch an agent.
 - **Use interactive and staged assessment.** Require staged submissions (drafts, revisions, reflections) and follow-up [[conversational-ai|conversational]] checks that probe whether students understand their submitted work — the "AI Viva" and cognitive-stewardship approaches. Ghost students cannot sustain a live interrogation they did not perform.
 - **Set clear, purpose-driven expectations.** Ground integrity expectations in the course's purpose — what AI use is allowed, when, and why — rather than abstract rules. [[educational-policy-ai|Policy]] clarity that is aligned with pedagogy reduces the ambiguity students exploit and the misjudgements documented in integrity research.
 - **Make AI use visible and declared.** Structured, task-specific AI-use declarations (mapping use to cognitive stages) force reflection and normalise honest disclosure, shifting the culture from concealment to transparency.
@@ -115,7 +115,11 @@ Because autonomous agents make detection futile, instructors should focus on tec
 
 Agentic AI is neither a panacea nor an inevitable harm: its value depends on design. Used to scaffold learner agency, ground in pedagogy, and keep humans in the loop, agents can personalise and deepen learning; used to maximise automation and task completion, they can erode the very effort that produces learning. The recurring design principle is **intentionality** — deciding explicitly what the agent does and what it deliberately leaves for the learner.
 
-## Connected Concepts
+
+## Participant-Specific LLM Agents in CPS
+
+- **Participant-specific LLM agents for collaborative problem solving.** Fang (2026) fine-tunes individual LLM agents on real participants' dialogue data to represent each participant in collaborative problem solving simulations, with probabilistic speaker and thematic-code selection and sliding-window plus summarised memory. Validated with [[network-analysis|Epistemic Network Analysis]], the simulated dialogues are statistically indistinguishable from real ones (ENA distance 0.17, permutation p = 0.65) — a demonstration of agentic AI reproducing authentic collaborative discourse.
+
 
 - [[scaffolding]]
 - [[intelligent-tutoring]]
@@ -144,7 +148,6 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[teacher-role]]
 - [[learning-design]]
 - [[teacher-ai-competency]]
-- [[educational-development]]
 - [[academic-integrity]]
 - [[ai-use-disclosure]]
 - [[online-teaching-and-learning]]
@@ -185,3 +188,4 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap (Bozkurt et al. 2026)
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)

@@ -12,7 +12,7 @@ sources: ['raw/papers/2605.29090.md']
 confidence: high
 ---
 
-> **Synthesis:** Kim, Toyama, Kim, and Carroll (2026) investigate how students make moral sense of AI use in academic writing through semi-structured interviews (n=20), AI chat logs, and course documents. They identify **five distinct "sites" of AI policy** — from faculty intention to students' actual practice — where interpretation diverges, and a taxonomy of **23 distinct rationalizations** (grouped into six classes) that students use to justify AI use, including conscious violations of course policies. Because these rationalizations are ad hoc and post hoc, modern AI presents a "steep, ethical, slippery slope" that students conceptually slide down, landing far outside instructors' pedagogical goals.
+> **Synthesis:** Kim, Toyama, Kim, and Carroll (2026) investigate how students make moral sense of AI use in [[writing-education|academic writing]] through semi-structured interviews (n=20), AI chat logs, and course documents. They identify **five distinct "sites" of [[educational-policy-ai|AI policy]]** — from faculty intention to students' actual practice — where interpretation diverges, and a taxonomy of **23 distinct rationalizations** (grouped into six classes) that students use to justify AI use, including conscious violations of course policies. Because these rationalizations are ad hoc and post hoc, modern AI presents a "steep, [[ethics|ethical]], slippery slope" that students conceptually slide down, landing far outside instructors' [[pedagogy|pedagogical]] goals.
 
 ## Five Sites of AI "Policy"
 
@@ -51,7 +51,7 @@ AI-assisted writing lets students **reinterpret harm, authorship, responsibility
 
 1. **Policy alone is insufficient.** Because rationalizations are post hoc and the five sites diverge, writing clearer policies or escalating detection will not close the gap — interventions must operate at the sites where interpretation and practice form.
 2. **Design assignments for ethical reasoning, not just detection.** Educators should account for rationalization patterns in assignment and policy design, complementing detection-based approaches.
-3. **Build AI literacy that includes ethical reasoning.** Students' ethical frameworks are underdeveloped and self-serving; explicit instruction should address the moral dimension of AI use, not just technical capability.
+3. **Build [[ai-literacy|AI literacy]] that includes ethical reasoning.** Students' ethical frameworks are underdeveloped and self-serving; explicit instruction should address the moral dimension of AI use, not just technical capability.
 4. **Avoid purely prohibitive policies.** Strict bans can intensify moral conflict and may not prevent use; pedagogy-led approaches that help students reason through authorship and harm are more promising.
 
 ## Connected Concepts

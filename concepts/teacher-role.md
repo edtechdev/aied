@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T09:15:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
@@ -18,7 +18,7 @@ confidence: high
 
 - The page describes the teacher's shift 'from sole knowledge authority to orchestrator of human-AI learning environments.' What do you gain and what do you lose as an educator when you stop being the main source of content?
 - It argues AI reallocates a teacher's scarcest resource — attention — from producing materials to interpreting learners. Does that reframing ring true, and what would you actually do with the reclaimed time?
-- Research cited on the page shows teachers as active AI designers — writing the prompts and scaffolds that shape how AI behaves for their students — rather than passive consumers. What would it take for you (or teachers you know) to feel like a designer of AI rather than a user of it?
+- [[research-methods-aied|Research]] cited on the page shows teachers as active AI designers — writing the prompts and scaffolds that shape how AI behaves for their students — rather than passive consumers. What would it take for you (or teachers you know) to feel like a designer of AI rather than a user of it?
 - At the far end of the 'teacher-AI teaming' spectrum, the teacher orchestrates a team of human learners, AI tutors, and curriculum resources. Where does human judgment remain irreplaceable in that team, and what might quietly erode if the orchestration is left mostly to AI?
 - If the teacher's attention is reallocated from producing materials to interpreting learners, what new competencies and risks does that introduce — and who supports the teacher in developing them?
 
@@ -61,7 +61,7 @@ The knowledge base's evidence converges on a set of concrete adaptations:
 
 **Design the AI's pedagogical wrapper, not just the tool.** The same AI yields large [[learning-gains|learning gains]] or net harm depending on how the activity is designed around it. [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz]] and the [[learning-gains]] evidence are consistent: the instructor's job is to *design the learning experience*, treating AI as a component within a structured activity rather than the answer engine. Scaffold a student attempt first, then let AI coach — this is the difference between [[formative-assessment|assessment]] and [[cognitive-offloading|performance inflation]].
 
-**Require a human-in-the-loop checkpoint.** Rather than accepting AI output at face value, teach students to evaluate, correct, and take ownership of AI-assisted work. [[mechanical-compliance-human-flourishing-ai-literacy-2026|Fair-use AI literacy]] frames this as balancing AI's productivity against genuine human flourishing and authorship. Design assignments so AI helps with drafting but the learner remains the agent of evaluation and revision.
+**Require a [[human-in-the-loop-ai|human-in-the-loop]] checkpoint.** Rather than accepting AI output at face value, teach students to evaluate, correct, and take ownership of AI-assisted work. [[mechanical-compliance-human-flourishing-ai-literacy-2026|Fair-use AI literacy]] frames this as balancing AI's productivity against genuine human flourishing and authorship. Design assignments so AI helps with drafting but the learner remains the agent of evaluation and revision.
 
 **Adapt assessment to the age of AI.** Move away from tasks LLMs can complete verbatim toward [[authentic-assessment|authentic]], process-based, and in-person assessments. [[ai-assessment-scale-reform|Assessment scales]] give instructors a rubric for deciding how much AI assistance is legitimate at each stage, and [[zhao-genai-higher-order-thinking-meta-2026|meta-analytic evidence]] shows AI can support higher-order thinking when the assessment design demands it.
 
@@ -82,16 +82,16 @@ AI literacy is not a separate module — it is woven into how instructors design
 
 Academic integrity with AI is a *design* problem, not a policing problem. Instructors adapt by:
 
-- **Reframing integrity around process and authorship.** Instead of detection, emphasize [[academic-integrity|academic integrity]] as transparent, documented use. [[bozkurt-ghost-students-agentic-ai-2026|Agentic AI and ghost-student research]] shows the integrity risk shifts when students deploy AI agents on their behalf, so instructors must define what authorship means when the "ghost" is an AI.
+- **Reframing integrity around process and authorship.** Instead of detection, emphasize [[academic-integrity|academic integrity]] as transparent, documented use. [[bozkurt-ghost-students-agentic-ai-2026|Agentic AI and ghost-student research]] shows the integrity risk shifts when students deploy [[agentic-ai|AI agents]] on their behalf, so instructors must define what authorship means when the "ghost" is an AI.
 - **Using disclosure and framing.** [[framing-ai-use-for-students|How AI use is framed for students]] — whether as a crutch or a legitimate tool — shapes whether they disclose it. Transparency norms (e.g., AI-use disclosure) reduce the incentive to hide AI use.
-- **Designing out the incentive to cheat.** Authentic, process-based, and in-person assessments (oral exams, portfolios, observed problem-solving) make outsourcing less attractive than AI-detection tools do. [[ai-assessment-scale-reform|Assessment scales]] and [[authentic-assessment|authentic assessment]] are the constructive alternative to [[ai-detection|detection]] arms races.
+- **Designing out the incentive to cheat.** Authentic, process-based, and in-person assessments (oral exams, [[eportfolio|portfolios]], observed [[problem-solving]]) make outsourcing less attractive than AI-detection tools do. [[ai-assessment-scale-reform|Assessment scales]] and [[authentic-assessment|authentic assessment]] are the constructive alternative to [[ai-detection|detection]] arms races.
 
 ## Connecting teaching to learning design
 
 Teaching and [[learning-design|learning design]] are two sides of the same coin — the instructor's daily judgments are the live execution of the designed learning experience. AI tightens this connection:
 
 - **Teachers as learning designers.** [[learnai-just-in-time-ai-cocreation-university-2026|LearnAI]] and [[teacher-authored-prompts-student-ai-dialogue|teacher-authored prompt design]] show instructors functioning as designers: specifying the activity, the AI's role, and the scaffolds that structure learning. This is [[learning-design]] in action at the point of use.
-- **Learning-design principles govern AI pedagogy.** The same [[learning-design]] principles — clear objectives, aligned assessment, [[scaffolding|scaffolding]], and [[feedback]] — determine whether AI helps or harms. [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]] empirically validates that grounding AI design in formal instructional-design models beats theory-free prompting.
+- **Learning-design principles govern AI pedagogy.** The same [[learning-design]] principles — clear objectives, aligned assessment, [[scaffolding|scaffolding]], and [[feedback]] — determine whether AI helps or harms. [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]] empirically validates that grounding AI design in formal instructional-design models beats theory-free [[prompt-engineering|prompting]].
 - **Design for the teacher's orchestration.** Effective AI learning environments are designed *with the teacher in mind* — the tools [[prezenski-human-centered-ai-aided-learning|human-centered AI]] provide should reduce teacher workload and augment judgment, not add another opaque black box. When instructors co-design AI learning activities ([[activity-theory-teachers-adoption-ai-sem-2026|activity-theory perspectives]]), adoption and quality both improve.
 
 ## Connections
@@ -106,6 +106,11 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - **They are causally coupled.** Teachers who experience identity disruption (uncertainty about their professional purpose amid [[generative-ai|GenAI]]) are less able to support their students' identity development — a teacher who doubts their role struggles to validate students' emerging sense of self in the same domain. Conversely, teachers who sustain a confident professional identity are better positioned to scaffold students' belonging and authorship.
 - **Distinct failure modes.** Teacher identity is threatened by *role obsolescence* and *purpose* (the "what's the point of teaching?" question). Learner identity is threatened by *authorship loss* and *competence* (the "is this really mine / am I good enough?" question). Both are identity-level (not just skills-level) responses to AI.
 - **Both are professional-development and [[pedagogy|pedagogical]] concerns.** Supporting teacher identity belongs to [[educational-development]] and [[teacher-ai-competency]]; supporting learner identity belongs to [[student-experience]], [[authentic-assessment]], and [[agency]]. A well-designed AI-integrated system attends to both — because the teacher's identity is the condition under which learners' identities form.
+
+
+## Teacher Co-Design of Early AI Literacy
+
+- **Teacher co-design in early AI literacy.** Lee (2026) shows that two pre-K and two kindergarten teachers who co-designed the Play With AI (PL-AI) curriculum experienced substantial growth in confidence and pedagogical agency, with co-design fostering curriculum ownership, reflective practice, and meaningful adaptation. This positions teachers as central co-designers — not just implementers — of developmentally appropriate AI literacy curricula, a model with implications for [[teacher-education|teacher preparation]] in early childhood [[ai-education|AI education]].
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -195,3 +200,4 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
+- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)

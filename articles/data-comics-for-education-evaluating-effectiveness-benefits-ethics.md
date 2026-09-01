@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.02361.md']
 confidence: high
 ---
 
-Data comics combine sequential visual narratives with data visualization to improve student engagement with [[generative-ai]] in educational settings. This paper evaluates the effectiveness of AI-assisted creation of data comics, finding that they significantly enhance student engagement and comprehension compared to traditional visualization formats. The study also examines ethical dimensions including authorship attribution of AI-produced content, accuracy of generated visuals, and the risk of misleading representations. These findings have direct implications for [[k-12]] education, where [[active-learning]] approaches benefit from engaging visual materials.
+Data comics combine sequential visual narratives with data [[visualization]] to improve [[student-engagement|student engagement]] with [[generative-ai]] in educational settings. This paper evaluates the effectiveness of AI-assisted creation of data comics, finding that they significantly enhance student engagement and comprehension compared to traditional visualization formats. The study also examines [[ethics|ethical]] dimensions including authorship attribution of AI-produced content, accuracy of generated visuals, and the risk of misleading representations. These findings have direct implications for [[k-12]] education, where [[active-learning]] approaches benefit from engaging visual materials.
 
 ## Key Findings
 
@@ -23,11 +23,11 @@ Data comics combine sequential visual narratives with data visualization to impr
 
 ## Study Design & Method
 
-The study used a within-subjects experimental design in which 60 university students completed information retrieval and comprehension tasks using both conventional visualisations and data comics created with assistance from generative AI tools. Task performance was compared across the two formats, and students also provided qualitative feedback on engagement, comprehension, and perceived limitations. The authors frame the work against the challenge of preparing students from diverse disciplines to interpret and use data for reasoning and critical thinking in their future professional practice.
+The study used a within-subjects experimental design in which 60 university students completed information retrieval and comprehension tasks using both conventional visualisations and data comics created with assistance from generative AI tools. Task performance was compared across the two formats, and students also provided [[qualitative-research|qualitative]] feedback on engagement, comprehension, and perceived limitations. The authors frame the work against the challenge of preparing students from diverse disciplines to interpret and use data for reasoning and [[critical-thinking|critical thinking]] in their future professional practice.
 
 ## Implications for AI in Education
 
-For [[higher-ed]] and [[k-12]] settings, the results suggest that AI-assisted data comics are a promising medium for data communication and [[active-learning]], particularly where students struggle with visualization literacy. At the same time, the ethical concerns raised by participants — misinformation risk, authorship attribution, and the potential for misleading representations — underscore the need for verification and transparency when [[generative-ai]] is used to produce instructional visuals, since data comics can sometimes increase cognitive load with excessive detail even as they engage readers.
+For [[higher-ed]] and [[k-12]] settings, the results suggest that AI-assisted data comics are a promising medium for data communication and [[active-learning]], particularly where students struggle with visualization literacy. At the same time, the ethical concerns raised by participants — misinformation risk, authorship attribution, and the potential for misleading representations — underscore the need for verification and transparency when [[generative-ai]] is used to produce instructional visuals, since data comics can sometimes increase [[cognitive-offloading|cognitive load]] with excessive detail even as they engage readers.
 
 ## Connected Concepts
 

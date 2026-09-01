@@ -25,7 +25,7 @@ confidence: high
 
 [[agentic-ai|Role-playing language agents]] (RPLAs) are increasingly deployed in high-stakes settings such as healthcare assistance, customer support, and [[ai-education|education]], where success depends not just on linguistic fluency but on maintaining consistent personas, respecting [[ethics|ethical constraints]], and behaving coherently over long interactions. Yet most current evaluation approaches rely on static [[benchmark|benchmark datasets]] or isolated single-turn prompts that fail to model adversarial or malicious user behavior, while [[human-in-the-loop-ai|human evaluation]] is expensive, subjective, and hard to scale. As a result, deployed agents exhibit role abandonment, [[ai-misuse-learning-harm|ethical violations]], and contradictory behavior under adversarial inputs.
 
-The authors propose a modular, multi-agent framework that stress-tests RPLAs through sustained adversarial dialogue rather than isolated probes. Its contributions include a production-grade extensible platform, a strategy-driven agent for systematic failure discovery, a multi-dimensional automated evaluation framework, and a reproducible experimental pipeline with persistent storage and visualization.
+The authors propose a modular, multi-agent framework that stress-tests RPLAs through sustained adversarial dialogue rather than isolated probes. Its contributions include a production-grade extensible platform, a strategy-driven agent for systematic failure discovery, a multi-dimensional automated evaluation framework, and a reproducible experimental pipeline with persistent storage and [[visualization]].
 
 ## The Three-Agent Evaluation Platform
 

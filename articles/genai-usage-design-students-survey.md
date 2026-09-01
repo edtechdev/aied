@@ -12,9 +12,9 @@ sources: ['raw/papers/2607.17094.md']
 confidence: high
 ---
 
-This survey of design students at the Politecnico di Milano (2025/2026), paired with AI-use journals kept during research assignments, examines how [[generative-ai]] enters the design process. Reported use is very frequent and concentrated in the early, ideation-heavy stages of projects.
+This survey of design students at the Politecnico di Milano (2025/2026), paired with AI-use journals kept during [[research-methods-aied|research]] assignments, examines how [[generative-ai]] enters the design process. Reported use is very frequent and concentrated in the early, ideation-heavy stages of projects.
 
-Crucially, high GenAI adoption did not reduce students' perceived project ownership or creativity, a finding relevant to [[higher-ed]] policy and the [[student-experience]] of AI-augmented studio work. The study speaks to ongoing [[ai-literacy]] efforts and to [[academic-integrity]] debates about authorship and process transparency in design and [[writing-education]], offering educators a discipline-specific evidence base for [[generative-ai]] guidance rather than blanket restriction.
+Crucially, high GenAI adoption did not reduce students' perceived project ownership or [[creativity]], a finding relevant to [[higher-ed]] policy and the [[student-experience]] of AI-augmented studio work. The study speaks to ongoing [[ai-literacy]] efforts and to [[academic-integrity]] debates about authorship and process transparency in design and [[writing-education]], offering educators a [[discipline-specific-aied|discipline-specific]] evidence base for [[generative-ai]] guidance rather than blanket restriction.
 
 ## Connected Concepts
 

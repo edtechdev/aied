@@ -17,7 +17,7 @@ confidence: medium
 - **Most students do not disclose.** 66% of GenAI-using students never or rarely disclosed their use to instructors; only ~10% always did. Frequent (daily/weekly) users were significantly more likely to rarely disclose and less likely to always disclose.
 - **Punitive and unclear policies drive concealment.** Students were more likely to never disclose when they were "not aware of course policies" or when AI was "not allowed." A "limited use in certain situations" policy was the strongest positive predictor of disclosure. Nearly 30% were unaware of their courses' [[educational-policy-ai|AI policies]] or had policies unaddressed in the syllabus.
 - **Transparency is risky.** Students who always disclosed had over 3× the odds of being accused. Moderate users were most likely to be wrongly accused; heavy and always-disclosing students drew suspicion. Fear of academic penalty was the most common reason for non-disclosure.
-- **Students want clarity and collaboration.** Most students want clear, unified policies that allow GenAI for brainstorming/research/studying, and support collaborative policy development between faculty and students.
+- **Students want clarity and collaboration.** Most students want clear, unified policies that allow GenAI for brainstorming/[[research-methods-aied|research]]/studying, and support collaborative policy development between faculty and students.
 - **Trust is fragile.** While 92% of students viewed AI as at least somewhat positive for learning, the fear of retribution and inconsistent policies chill honest disclosure.
 
 ## Implications

@@ -14,7 +14,7 @@ confidence: high
 
 ## Key Findings
 
-- Design-Based Research (DBR) study developing and evaluating an **AI-Assisted Collaborative Learning (AACL) Model** across a single implementation cycle: an **eight-week intervention** with undergraduate students at an Indonesian public university, structured around authentic problem-based tasks with students organized into groups of four to five.
+- Design-Based [[research-methods-aied|Research]] (DBR) study developing and evaluating an **AI-Assisted Collaborative Learning (AACL) Model** across a single implementation cycle: an **eight-week intervention** with undergraduate students at an Indonesian public university, structured around authentic problem-based tasks with students organized into groups of four to five.
 - Expert validation by three specialists (educational technology, [[learning-design|instructional design]], [[ai-education|AI in education]]) rated the model **highly valid with an overall score of 92.4%** — Learning Design 94.1%, AI Integration 91.6%, Collaborative Learning 93.2%, and Activities 90.7% — with minor revisions focused on collaborative reflection, prompt-design guidelines, and [[ethics|ethical]] AI usage instructions.
 - **Critical thinking mean scores rose from 68.21 (SD = 7.34) to 84.63 (SD = 6.28), a 24.1% [[learning-gains|gain]]**, with the largest improvements in evidence evaluation (66.91 → 85.27, +27.4%) and analysis (67.84 → 84.11, +24.0%).
 - **Problem-solving performance rose from an initial project average of 70.14 to 88.72 after model refinement**; the strongest final criteria scores were team collaboration (90.02) and decision justification (89.41).

@@ -11,9 +11,9 @@ sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']
 confidence: medium
 ---
 
-> When LLMs process STEM problems that require interpreting diagrams, graphs, or schematics alongside text, their accuracy degrades substantially. This effect is:
+> When LLMs process [[stem-education|STEM]] problems that require interpreting diagrams, graphs, or schematics alongside text, their accuracy degrades substantially. This effect is:
 
-> General-purpose LLMs achieve near-ceiling accuracy (~96%) on text-only physics problems, but accuracy drops to **~74%** on image-rich multimodal problems due to the **Multimodal Interference Effect**. A simple structured dialogue intervention—requiring no retraining—recovers performance to **95%**.([[syal-multimodal-dialogue-stem-2026]])
+> General-purpose LLMs achieve near-ceiling accuracy (~96%) on text-only [[physics-education|physics]] problems, but accuracy drops to **~74%** on image-rich [[multimodal]] problems due to the **Multimodal Interference Effect**. A simple structured dialogue intervention—requiring no retraining—recovers performance to **95%**.([[syal-multimodal-dialogue-stem-2026]])
 
 ## The Multimodal Interference Effect
 
@@ -21,7 +21,7 @@ When LLMs process STEM problems that require interpreting diagrams, graphs, or s
 
 - **Consistent across models:** Claude, Gemini, and ChatGPT all showed the drop
 - **Dominantly visual:** Visual Processing Errors were the most prevalent failure mode
-- **An equity concern:** Students working on image-rich problems—often those most needing support—receive less reliable AI assistance
+- **An [[equity-in-ai-education|equity]] concern:** Students working on image-rich problems—often those most needing support—receive less reliable AI assistance
 
 ## Error Taxonomy
 
@@ -38,17 +38,17 @@ Syal et al. (2026) identified four empirically-derived failure modes on OpenStax
 
 ## The Structured Dialogue Intervention
 
-A three-step scaffolding protocol corrected **82% of all errors** and **100% of Visual Processing Errors**:
+A three-step [[scaffolding]] protocol corrected **82% of all errors** and **100% of Visual Processing Errors**:
 
 1. **Elicit visual description:** *"Describe what you observe in the figure/graph"*
 2. **Correct observable elements:** Clarify visual properties (e.g., vector direction, graph intercept) **without providing physics principles or formulas**
 3. **Re-prompt for solution:** *"Solve the problem"*
 
-This relies purely on prompt design—no model retraining, no specialized benchmarks, no GPU access required. Under-resourced institutions can implement it immediately.
+This relies purely on [[prompt-engineering|prompt design]]—no model retraining, no specialized [[benchmark|benchmarks]], no GPU access required. Under-resourced institutions can implement it immediately.
 
 ## Relationship to Tutoring-Specific Design
 
-The structured dialogue intervention is structurally similar to [[stanford-evidence-base-ai-k12-2026|tutoring-specific guardrails]]: it forces the LLM to reason step-by-step rather than jumping to answers. It also preserves productive cognitive load by making the student (or in this case, the LLM) attend to visual structure before solving.([[syal-multimodal-dialogue-stem-2026]])
+The structured dialogue intervention is structurally similar to [[stanford-evidence-base-ai-k12-2026|tutoring-specific guardrails]]: it forces the [[llm]] to reason step-by-step rather than jumping to answers. It also preserves productive [[cognitive-offloading|cognitive load]] by making the student (or in this case, the LLM) attend to visual structure before solving.([[syal-multimodal-dialogue-stem-2026]])
 
 ## Implications
 
@@ -58,7 +58,7 @@ The structured dialogue intervention is structurally similar to [[stanford-evide
 
 ## Open Questions
 
-1. Does the intervention generalize to other STEM disciplines (chemistry, biology, engineering)?
+1. Does the intervention generalize to other STEM disciplines ([[chemistry-education|chemistry]], [[biology-education|biology]], engineering)?
 2. What happens when the *student* directly implements the dialogue protocol vs. an intermediary system?
 3. Do visual reasoning capabilities improve in newer model generations (e.g., GPT-5 multimodal)?
 

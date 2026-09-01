@@ -1,7 +1,7 @@
 ---
 title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 discipline: [cs education, math education, physics education]
@@ -10,7 +10,7 @@ level: [k 12, higher ed]
 confidence: high
 ---
 
-> **STEM Education** — science, technology, engineering, and mathematics education is the most common domain for [[ai-education|AI in education]] research in the knowledge base. STEM's structured knowledge, clear right/wrong answers, and computational nature make it an ideal testbed for [[intelligent-tutoring|AI tutoring]] and assessment.
+> **STEM Education** — science, technology, engineering, and mathematics education is the most common domain for [[ai-education|AI in education]] [[research-methods-aied|research]] in the knowledge base. STEM's structured knowledge, clear right/wrong answers, and computational nature make it an ideal testbed for [[intelligent-tutoring|AI tutoring]] and assessment.
 
 ## Questions to Consider
 
@@ -39,7 +39,7 @@ A concentrated batch of 2026 *International Journal of STEM Education* studies s
 
 - **[[discipline-specific-aied|Subject-specific]] [[governance]] shapes student AI use.** A cross-sectional study of 416 Czech secondary students ([[lnenicka-secondary-students-genai-stem-2026]]) found AI adoption is *stratified by discipline* rather than unified: computer science and economics normalize [[generative-ai|GenAI]] as a collaborative resource, while mathematics (65.9% prohibit) and natural sciences (55.3%) show high perceived prohibition co-occurring with poor rule clarity and persistent clandestine use. Students mostly use AI as an instrumental scaffold (explanation, solution-checking) rather than a substitute, but a [[critical-thinking|critical evaluation]] gap emerges — heavy prompt modification overshadows external factual verification, shifting behavior toward [[cognitive-offloading]]. This argues for *subject-sensitive* guidance over blanket bans.
 
-- **AI as a co-inquirer in inquiry-based STEM.** A quasi-experiment with 97 third-graders ([[dai-chatbots-problem-posing-primary-2026]]) showed GenAI [[conversational-ai|chatbots]] significantly outperformed search engines for science [[problem-based-learning|problem posing]] in [[inquiry-based-learning|inquiry-based learning]], improving question quality, producing a more integrated epistemic [[network-analysis|network structure]] (ENA), and lowering cognitive load. A [[meta-analysis-systematic-review|systematic review]] of ChatGPT for inquiry-based learning in STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 studies) confirms ChatGPT supports question formulation, inquiry design, problem-solving, and reflection — but risks over-reliance, hallucination, and superficial conclusions when outputs are treated as authoritative.
+- **AI as a co-inquirer in inquiry-based STEM.** A quasi-experiment with 97 third-graders ([[dai-chatbots-problem-posing-primary-2026]]) showed GenAI [[conversational-ai|chatbots]] significantly outperformed search engines for science [[problem-based-learning|problem posing]] in [[inquiry-based-learning|inquiry-based learning]], improving question quality, producing a more integrated epistemic [[network-analysis|network structure]] (ENA), and lowering cognitive load. A [[meta-analysis-systematic-review|systematic review]] of ChatGPT for inquiry-based learning in STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 studies) confirms ChatGPT supports question formulation, inquiry design, [[problem-solving]], and reflection — but risks over-reliance, hallucination, and superficial conclusions when outputs are treated as authoritative.
 
 - **STEAM is an uneven pathway to AI literacy.** A PRISMA systematic review of 39 studies ([[niri-steam-ai-literacy-review-2026]]) found STEAM implementations chiefly develop technical literacies (fundamental AI concepts, computational thinking, data literacy) while underdeveloping [[ethics|ethical]] awareness, creative imagination, creating/managing/designing with AI. Technology disciplines lead; arts, engineering, and integrated STEAM lag — indicating AI literacy in STEM is currently lopsided toward technical skill over responsible shaping of AI.
 
@@ -59,6 +59,11 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - **Use AI's structured-fit advantage, but protect reasoning.** STEM's verifiable answers make it the most AI-tractable domain; guard against over-reliance and answer-replacement by embedding AI in structured, mastery-oriented workflows.
 - **Embed AI literacy across STEM courses.** Studies ([[zha-ai-literacy-biology-case-study|biology]], [[ai-tpack-preservice-math-teachers|math teacher prep]]) show STEM context supports AI learning — integrate AI concepts where they naturally arise rather than isolating them.
 - **Watch [[equity-in-ai-education|equity]] and access in AI adoption.** STEM AI tools are not neutral; monitor scoring bias, [[digital-divide]] access, and [[culturally-relevant-pedagogy|culturally relevant]] design as you deploy them.
+
+
+## AI-Scaffolded Undergraduate Research
+
+- **AI-powered information extraction for STEM theses.** An and colleagues (2026) pilot an AI system that converts research publications into structured, comparable datasets for undergraduate thesis completion across four STEM schools. Results (20 students, 80 documents) showed >90% extraction of experimental parameters, ~65% reduction in literature-review time, and a 50% increase in students' ability to identify influential experimental variables — evidence of how [[generative-ai|AI]]-scaffolded [[higher-ed|undergraduate research]] can strengthen research literacy and epistemic cognition in STEM education.
 
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
@@ -105,3 +110,4 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 
 - [[astor-computational-thinking-meta-review-2026]] — CT as a 21st-century skill across STEM
 
+- [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)

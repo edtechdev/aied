@@ -1,14 +1,14 @@
 ---
 title: Network Analysis
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [network-analysis, research-methods-aied, learning-analytics, knowledge-graph]
 research_method: [learning analytics, research methods]
 confidence: high
 ---
 
-> **Network analysis** — the family of research methods that model entities (people, concepts, actions, or codes) as **nodes** connected by **edges** representing relationships or transitions, then analyze the structure and dynamics of the resulting network to reveal patterns invisible to frequency counts or pairwise comparisons. In AI-in-education research, network analysis is used to map interaction patterns between learners and AI tools, model how knowledge or discourse elements co-occur, and trace temporal sequences of behavior. It includes distinct variants — **Epistemic Network Analysis** (ENA, modeling the co-occurrence of codes/constructs), **Social Network Analysis** (SNA, modeling relationships between people), and **Transition Network Analysis** (TNA, modeling temporal sequences of states) — each of which operationalizes "learning as connection" in a different way.([[tracing-genai-literacy-interaction-patterns]])([[penny-transition-network-analysis-efl-writing-2026]])([[misiejuk-cognitive-offloading-prompting-2026]])
+> **Network analysis** — the family of [[research-methods-aied|research methods]] that model entities (people, concepts, actions, or codes) as **nodes** connected by **edges** representing relationships or transitions, then analyze the structure and dynamics of the resulting network to reveal patterns invisible to frequency counts or pairwise comparisons. In AI-in-education research, network analysis is used to map interaction patterns between learners and AI tools, model how knowledge or discourse elements co-occur, and trace temporal sequences of behavior. It includes distinct variants — **Epistemic Network Analysis** (ENA, modeling the co-occurrence of codes/constructs), **Social Network Analysis** (SNA, modeling relationships between people), and **Transition Network Analysis** (TNA, modeling temporal sequences of states) — each of which operationalizes "learning as connection" in a different way.([[tracing-genai-literacy-interaction-patterns]])([[penny-transition-network-analysis-efl-writing-2026]])([[misiejuk-cognitive-offloading-prompting-2026]])
 
 ## Questions to Consider
 
@@ -20,7 +20,7 @@ confidence: high
 
 ## Introduction
 
-Network analysis methods share a core premise: that the structure of connections — not just their presence or frequency — carries meaning. Rather than asking "how much of X occurred," they ask "how are elements connected, and what does that connectivity reveal about [[metacognition|cognition]], [[collaborative-learning|collaboration]], or learning processes?" This makes them especially valuable in AI-in-education, where researchers increasingly want to understand the *process* of learner–AI interaction (how learners navigate [[feedback]], dialogue, and revision) rather than only the product (final scores, error rates).
+Network analysis methods share a core premise: that the structure of connections — not just their presence or frequency — carries meaning. Rather than asking "how much of X occurred," they ask "how are elements connected, and what does that connectivity reveal about [[metacognition|cognition]], [[collaborative-learning|collaboration]], or learning processes?" This makes them especially valuable in AI-in-education, where researchers increasingly want to understand the *process* of learner–[[student-ai-interaction|AI interaction]] (how learners navigate [[feedback]], dialogue, and revision) rather than only the product (final scores, error rates).
 
 ## Variants used in the knowledge base's corpus
 
@@ -37,7 +37,7 @@ Network methods are used across the knowledge base's evidence base to answer que
 - **Open the "black box" of learner–AI interaction.** TNA reveals the *process* — the behavioral loops and pathways learners take when using AI tools (e.g., a "revision loop" vs. a "chat loop" in [[conversational-ai|chatbot]]-scaffolded [[writing-education|writing]]) rather than just final output.([[penny-transition-network-analysis-efl-writing-2026]])
 - **Compare cognitive structuring across groups.** ENA shows how different groups connect constructs differently — e.g., how [[metacognition]] co-occurs with delegation vs. human reasoning in human–AI collaboration, revealing different collaboration modes.([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **Trace AI-literacy and interaction signatures.** ENA on interaction logs identifies distinct patterns of [[llm|LLM]] use (iterative strategic refinement vs. linear commands), distinguishing learner [[ai-literacy|proficiency]] and development.([[tracing-genai-literacy-interaction-patterns]])
-- **Analyze discourse and framing.** ENA is applied to qualitative and [[multimodal]] data (e.g., YouTube frames of ChatGPT in education) to reveal the structure of public or disciplinary discourse.([[youtube-frames-chatgpt-education]])
+- **Analyze discourse and framing.** ENA is applied to [[qualitative-research|qualitative]] and [[multimodal]] data (e.g., YouTube frames of ChatGPT in education) to reveal the structure of public or disciplinary discourse.([[youtube-frames-chatgpt-education]])
 - **Complement self-report and product metrics.** Because network methods use observed behavioral data, they can expose discrepancies between what learners claim and what they actually do — a recurring finding in the knowledge base's feedback-uptake literature.
 
 ## Methodological considerations
@@ -53,6 +53,11 @@ Network methods are used across the knowledge base's evidence base to answer que
 2. **Use ENA to compare cognitive structuring.** When asking how different learners or modes (human vs. AI) structure their reasoning, ENA provides a direct, visual comparison of co-occurrence networks — a technique well-suited to [[student-modeling|student modeling]] of how learners connect ideas.
 3. **Validate automated coding.** With large log datasets, [[llm|LLM]]-based classification is powerful but must be checked against human coding (report inter-rater agreement) before interpreting network structure.
 4. **Design for differentiation.** Network analysis often reveals that the *same* AI tool produces different interaction patterns across learner subgroups — informing adaptive design rather than one-size-fits-all evaluation.
+
+
+## ENA Validation of Simulated Collaborative Dialogue
+
+- **ENA as validation for simulated dialogue.** Fang (2026) applies Epistemic Network Analysis to evaluate whether fine-tuned LLM agents reproduce the structure of real collaborative [[problem-solving]] dialogue. Comparing simulated adjacency vectors to the empirical network, he reports an ENA distance of 0.17 — within the 95th-percentile threshold of the null distribution, with a permutation p-value of 0.65 — demonstrating ENA's power as a [[quantitative-research|quantitative]] check on the fidelity of generative [[simulation|simulations]] of discourse, alongside other applications of ENA/SNA/TNA in education research.
 
 ## Connected Concepts
 
@@ -78,3 +83,4 @@ Network methods are used across the knowledge base's evidence base to answer que
 
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
 
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)

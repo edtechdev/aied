@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T09:15:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor]
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
@@ -9,13 +9,13 @@ tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, inte
 confidence: high
 ---
 
-> **Scaffolding** — structured support that helps learners accomplish tasks they cannot yet complete independently, with support fading as competence grows. In AI in education, scaffolding is the primary design principle for ensuring AI tools support learning rather than replace it.
+> **Scaffolding** — structured support that helps learners accomplish tasks they cannot yet complete independently, with support fading as competence grows. In [[ai-education|AI in education]], scaffolding is the primary design principle for ensuring AI tools support learning rather than replace it.
 
 ## Questions to Consider
 
 - Think of a time someone 'helped' you with something you were learning, and the help did the work so well you learned less. Where's the line between support that lets you grow and support that replaces you? The page argues this is the central design question for AI tutors.
 - Scaffolding is rooted in the Zone of Proximal Development — enough support to enable progress, not so much that learning is bypassed. What does 'too much support' look like in an AI tutor, and can you detect it from the student's behavior alone?
-- A key finding: students often *prefer* the more directive AI tutor roles even though they *perform better* with collaborative peer and teaching-assistant roles. Does learner preference reliably track what's best for learning — and what does this divergence imply for letting students choose their own scaffolding?
+- A key finding: students often *prefer* the more directive AI tutor roles even though they *perform better* with collaborative peer and [[teacher-role|teaching]]-assistant roles. Does learner preference reliably track what's best for learning — and what does this divergence imply for letting students choose their own scaffolding?
 - Scaffolding that never fades creates dependency. The page notes automated scaffolds risk staying static instead of being withdrawn as competence grows. Why is 'fading' essential, and why might an AI system fail to do it if it isn't deliberately designed to?
 - The design principle is 'scaffold, do not substitute.' Students themselves asked for AI that 'does not provide any solutions for you — you still learn as you have to find the correct answer yourself.' Does that match how you've experienced effective help, or have you preferred the shortcut even while knowing it cost you?
 - Set a goal before reading: pick a task you teach, and sketch what a hint looks like that preserves the learner's effort versus an answer that removes it. How will you know your hints are in the productive-struggle zone?
@@ -24,12 +24,12 @@ confidence: high
 
 ### How scaffolding appears in AIED
 
-- **Prompt-based scaffolding:** [[guided-llm-scaffolding-independent-learning|Guided LLM scaffolding]] teaches structured prompting as a learning intervention. [[scaffolding-critical-engagement-genai-minority-students|Critical engagement scaffolding]] uses culturally responsive approaches.
+- **Prompt-based scaffolding:** [[guided-llm-scaffolding-independent-learning|Guided LLM scaffolding]] teaches structured [[prompt-engineering|prompting]] as a learning intervention. [[scaffolding-critical-engagement-genai-minority-students|Critical engagement scaffolding]] uses [[culturally-relevant-pedagogy|culturally responsive]] approaches.
 - **Socratic scaffolding:** [[socratic-method|Socratic AI dialogue]] withholds direct answers, using questions to guide discovery — a form of [[desirable-difficulties]] scaffolding.
 - **Adaptive fading:** [[intelligent-tutoring|Intelligent tutoring systems]] adjust scaffolding based on [[knowledge-tracing]] estimates, providing more support for unmastered concepts and less for known ones.
 - **Hint systems:** [[correct-answer-trap-ai-tutor|AI tutor hint research]] examines when hints help versus when they encourage [[cognitive-offloading|Over-Reliance]].
 - **Conceptual scaffolds:** [[concept-catalyst-engineering-scaffolds|Concept Catalyst]] and [[rethinking-scaffolding-llm-tutors|LLM tutor rethinking]] explore design patterns for cognitive support.
-- **"Scaffold, do not substitute" as a design principle:** [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al. (2026)]] argue that the central risk of AI in education is misalignment — AI that substitutes for human effort erodes the capacities education is meant to build — and derive a single design principle, *scaffold, do not substitute*. Scaffolding must be a first-class capability of AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. Their analysis of student essays shows learners themselves converge on this — asking for AI that "does not provide any solutions for you, you still learn as you have to find the correct answer yourself." The principle positions scaffolding as the alternative to a self-reinforcing harm cycle of substitution across cognition, agency, emotion, and ethics.
+- **"Scaffold, do not substitute" as a design principle:** [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al. (2026)]] argue that the central risk of AI in education is misalignment — AI that substitutes for human effort erodes the capacities education is meant to build — and derive a single design principle, *scaffold, do not substitute*. Scaffolding must be a first-class capability of AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. Their analysis of student essays shows learners themselves converge on this — asking for AI that "does not provide any solutions for you, you still learn as you have to find the correct answer yourself." The principle positions scaffolding as the alternative to a self-reinforcing harm cycle of substitution across cognition, agency, emotion, and [[ethics]].
 
 #
 - **Preferred scaffolding is not always the most effective:** [[preferred-scaffolding-ai-mathematical-modelling|Zhu, Yang and Yang (2026)]] found in a within-subjects experiment that students performed best with Peer and Teaching Assistant AI roles (which foster [[collaborative-learning|collaborative]] reasoning) yet preferred the more directive Tutor and Excellent Student roles — a divergence between preference and performance that cautions against equating learner preference with effective scaffolding in AI-supported mathematical modelling.
@@ -40,13 +40,18 @@ confidence: high
 
 ### Connections
 
-Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that doesn't fade creates dependency), Cognitive Load Theory (scaffolding manages cognitive load), [[feedback|Feedback Loop]] (scaffolding provides formative feedback), and [[ai-literacy]] (learners must recognize when scaffolding is beneficial vs. when it displaces learning).
+Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that doesn't fade creates dependency), Cognitive Load Theory (scaffolding manages cognitive load), [[feedback|Feedback Loop]] (scaffolding provides [[formative-assessment|formative]] feedback), and [[ai-literacy]] (learners must recognize when scaffolding is beneficial vs. when it displaces learning).
 
-Agents must scaffold dynamically, not statically: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] identify that automated scaffolds risk staying static instead of being withdrawn as competence grows, and recommend dynamic scaffolds that adapt and fade — a key guardrail for agentic AI.
+Agents must scaffold dynamically, not statically: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] identify that automated scaffolds risk staying static instead of being withdrawn as competence grows, and recommend dynamic scaffolds that adapt and fade — a key guardrail for [[agentic-ai|agentic AI]].
 
 Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-2026|Zhang et al. (2026)]] introduce TutorMoments, which evaluates whether LM tutors scaffold only when support is needed, push for rigor when the student is ready, and avoid over-scaffolding (reducing cognitive demand more than the situation requires). Minimally prompted frontier models default to over-scaffolding at the expense of productive struggle.
 
-- **AI that scaffolds productive struggle.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles (non-directive support, reflective design, human-in-the-loop) that keep scaffolding in the productive-struggle zone rather than collapsing to answer-giving; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show LLM tutors can be steered to give help only when strictly necessary — scaffolding that preserves the learner's own effort.
+- **AI that scaffolds productive struggle.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles (non-directive support, reflective design, [[human-in-the-loop-ai|human-in-the-loop]]) that keep scaffolding in the productive-struggle zone rather than collapsing to answer-giving; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show [[llm]] tutors can be steered to give help only when strictly necessary — scaffolding that preserves the learner's own effort.
+
+## Rule-Guided vs. Ad-Hoc Scaffolding
+
+- **Rule-guided vs. ad-hoc scaffolding.** Looi, Liu, and Sun (2026) formalize a distinction central to scaffolding design: **rule-guided scaffolding**, in which tutoring is governed by an auditable three-layer architecture (diagnosis → intent selection → constrained response generation), versus **ad-hoc scaffolding**, where helpful moves are difficult to audit and replicate. Their primary-school math study showed rule-guided scaffolding improves interactional consistency, reduces premature answer-giving and early closure, and sustains cognitive [[student-engagement|engagement]] — evidence that explicitness and auditability of scaffold moves matter for both consistency and learning in procedural domains.
+
 ## Connected Concepts
 - [[problem-based-learning]] — PBL embeds fading scaffolds around ill-structured problems
 - [[learning-by-teaching]] — Scaffolding knowledge building through explanation
@@ -102,3 +107,4 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
+- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)

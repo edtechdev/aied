@@ -18,7 +18,7 @@ Brcic & Frljic (2026) argue that the "allow or ban AI" framing is a false dichot
 
 - **Placement, not allow-or-ban, is the design question:** AI belongs wherever it increases feedback, practice density, or realism without obscuring evidence that the student can think and perform unaided.
 - **Causal evidence flips on design:** unguarded AI helper → ~17% worse on an unaided exam; same model withholding answers → harm erased; well-engineered tutor → roughly doubled learning.
-- **The six moves** (Prime, Probe, Point, Attach, Strengthen, Test) model how one idea takes root, unifying productive-failure/problem-before-instruction, [[scaffolding|worked-example]], [[socratic-method|Socratic]]/cognitive-apprenticeship, deliberate-practice, and retrieval/self-explanation literatures.
+- **The six moves** (Prime, Probe, Point, Attach, Strengthen, Test) model how one idea takes root, unifying [[productive-failure]]/problem-before-instruction, [[scaffolding|worked-example]], [[socratic-method|Socratic]]/cognitive-apprenticeship, deliberate-practice, and retrieval/self-explanation literatures.
 - **Protected moments:** Probe (first hard attempt) and Test (final unaided check) are AI-out; Point/Attach/Strengthen allow guarded AI (hints, examples, practice); Prime is low-risk.
 - **Diagnostic:** "If letting AI in makes the task feel effortless, it is in the wrong place" — but effort on the skill itself matters; AI should clear away the busywork that is not the skill (looking up, formatting, dead ends).
 - **Placement as [[governance]]:** an AI-use policy becomes a per-skill design principle rather than a blanket prohibition list; the secured final check is the load-bearing point for grade and credential integrity.
@@ -26,7 +26,7 @@ Brcic & Frljic (2026) argue that the "allow or ban AI" framing is a false dichot
 ## Implications
 
 - Gives educators a concrete framework for lesson/course redesign grounded in [[cognitive-offloading|cognitive-load]] and expertise-reversal theory ([[scaffolding|scaffolds]] must fade as skill grows).
-- Shifts institutional AI policy from "allow or ban" to a defensible per-skill placement rule.
+- Shifts institutional [[educational-policy-ai|AI policy]] from "allow or ban" to a defensible per-skill placement rule.
 - Reinforces that unguarded AI which makes tasks effortless produces an [[cognitive-offloading|illusion of learning]] that collapses on unaided tests.
 
 naided tests.

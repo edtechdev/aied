@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, student-engagement]
 audience: [learners]
@@ -63,6 +63,11 @@ A systematic synthesis of [[higher-ed|AI in higher education]] ([[long-ai-higher
 Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[learning-analytics]] and [[educational-measurement]], which supply the [[quantitative-research|quantitative]] tools for operationalizing the dimensions above. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[research-methods-aied]] evaluations of AI-education interventions.
 
 - **Learner characteristics moderate TTS dialogue-based lessons (2026):** In LLM+TTS-generated teacher–student, student–student, and teacher–teacher dialogue lessons, [[experiential-learning]] style and critical-thinking disposition significantly interacted with dialogue format for ARCS-based motivation, indicating that AI-generated dialogue content is differentially motivating depending on learner profile ([[tts-dialogue-lessons-learner-characteristics-2026]]).
+
+
+## Discipline and Cognitive Engagement with AI
+
+- **Discipline-associated cognitive engagement in student-AI chat.** Chang and Li (2026) show that student prompts to AI encode ~62% higher-order cognitive demand on average, but Bloom-level engagement profiles differ sharply by discipline ([[stem-education|STEM]] Apply-prevalent 20.8%, language Understand-prevalent 31.7%, social science Create-prevalent 33.8%). Using a within-person design, they found the same students produced significantly more higher-order prompts in social science than STEM courses (p < .001), with course-level variation exceeding student-level variation — evidence that cognitive engagement with AI is shaped by disciplinary context, not just individual style.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -131,3 +136,5 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 - [[chatbot-engagement-genai-competency-emotion-2026]] — GenAI competency and emotion as drivers of chatbot engagement (Zhao et al. 2026)
+- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
+- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)

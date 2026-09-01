@@ -10,13 +10,13 @@ sources: ['raw/papers/2604.08947.md']
 confidence: medium
 ---
 
-> **MuTSE** (Roscan et al., 2026) tackles a critical methodological gap in text simplification for **Intelligent Tutoring Systems (ITS)** and language-learning applications: how to systematically evaluate **LLM**-generated simplifications across many prompting strategies and model architectures without drowning researchers in high-dimensional comparisons. It pairs an asynchronous **P × M** generation pipeline with a novel tiered **semantic alignment** engine — biased by a real-time linearity heuristic (λ) — so evaluators can visually trace how each source sentence is transformed across every prompt–model permutation, then score the results on custom, pedagogically meaningful criteria.
+> **MuTSE** (Roscan et al., 2026) tackles a critical [[research-methods-aied|methodological]] gap in text simplification for **Intelligent Tutoring Systems (ITS)** and language-learning applications: how to systematically evaluate **[[llm]]**-generated simplifications across many prompting strategies and model architectures without drowning researchers in high-dimensional comparisons. It pairs an asynchronous **P × M** generation pipeline with a novel tiered **semantic alignment** engine — biased by a real-time linearity heuristic (λ) — so evaluators can visually trace how each source sentence is transformed across every prompt–model permutation, then score the results on custom, pedagogically meaningful criteria.
 
 ## Key Findings
 1. **Parallel comparison workflow:** MuTSE executes `P` prompts × `M` models concurrently (bounded by the slowest model's latency, ~O(max(tᵢ))) and presents all outputs in a unified, side-by-side, toggleable matrix — removing the need to run or orchestrate inference manually.
 2. **Tiered semantic alignment engine:** A 3-tier cascade (multilingual SBERT embeddings → TF-IDF with character n-grams → normalized positional fallback) plus a user-adjustable linearity bias (λ, 0–2, default 0.5) maps source sentences to simplified counterparts, suppressing false-positive alignments and enabling CPU-only deployment.
 3. **Evaluation-agnostic human annotation:** No fixed rubric — evaluators build custom rating scales (binary through continuous 100-point) with relative weights, normalized into a weighted performance percentage, sidestepping the field's contested Likert-scale conventions.
-4. **NLP-ready data export:** Every session persists locally and exports as standardized JSON/CSV, directly supporting fine-tuning, reward-model training, and exploratory data analysis.
+4. **NLP-ready data export:** Every session persists locally and exports as standardized JSON/CSV, directly supporting fine-tuning, reward-[[pedagogical-llm-training|model training]], and exploratory data analysis.
 
 ## The Challenge of Text Simplification in Education
 
@@ -42,18 +42,18 @@ MuTSE is deliberately **evaluation-agnostic** — it ships with zero predefined 
 ## Connection to LLMs in Education
 
 As **[[generative-ai]]** becomes prevalent in ITS, text simplification confronts:
-- **Prompting strategy variability:** the same model, prompted differently, produces materially different simplifications.
+- **[[prompt-engineering|Prompting strategy]] variability:** the same model, prompted differently, produces materially different simplifications.
 - **Architecture differences:** GPT, Claude, and specialized open-weight models (Llama 3, DeepSeek V3, Qwen 2.5) diverge in output quality and style.
-- **Evaluation challenge:** linguistic metrics fail to capture *pedagogical* quality, and the field lacks standardized evaluation terminology.
+- **Evaluation challenge:** linguistic metrics fail to capture *[[pedagogy|pedagogical]]* quality, and the field lacks standardized evaluation terminology.
 
-MuTSE addresses these by letting evaluators toggle prompts and models on the fly, visually trace alignments, and detect conversational artifacts or semantic hallucinations via inline cosine-similarity scores — moving beyond aggregate benchmarks toward reproducible, human-in-the-loop qualitative assessment.
+MuTSE addresses these by letting evaluators toggle prompts and models on the fly, visually trace alignments, and detect conversational artifacts or semantic [[hallucination-risk|hallucinations]] via inline cosine-similarity scores — moving beyond aggregate [[benchmark|benchmarks]] toward reproducible, human-in-the-loop [[qualitative-research|qualitative]] assessment.
 
 ## Implications for Adaptive Learning
 
 ### For ITS Design
 - **Content adaptation layer:** dynamic text simplification as part of **[[adaptive-learning]]**, matching complexity to a learner's current reading level rather than selecting from pre-existing corpora.
 - **Learner model integration:** simplification driven by real-time **[[student-modeling]]** and proficiency estimates, with outputs verified by educators.
-- **Multi-modal and multilingual extension:** the multilingual embedding tier already spans 50+ languages, opening paths toward machine-translation evaluation and cross-lingual summarization.
+- **[[multimodal|Multi-modal]] and multilingual extension:** the multilingual embedding tier already spans 50+ languages, opening paths toward machine-translation evaluation and cross-lingual summarization.
 
 ### For Educator Workflows
 - **Human-in-the-loop quality assurance:** teachers validate automated simplifications (cf. **[[human-in-the-loop-ai]]**), preventing oversimplification that strips key concepts or undersimplification that frustrates learners — echoing the progressive-complexity logic of **[[scaffolding]]** and **[[sociocultural-learning]]**.

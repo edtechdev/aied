@@ -14,13 +14,13 @@ confidence: high
 > **Dimitris Tsirmpas, Katerina Korre, John Pavlopoulos** — arXiv preprint (2026).
 ## Synthesis
 
-This study asks when (not just how) LLMs should facilitate online discussions, creating PEFK, a corpus standardizing and aggregating facilitation datasets, and running the first survey on facilitation timing with expert facilitators and LLM-as-a-judge models.
+This study asks when (not just how) LLMs should facilitate online discussions, creating PEFK, a corpus standardizing and aggregating facilitation datasets, and running the first survey on facilitation timing with expert facilitators and [[llm]]-as-a-judge models.
 
 Key asymmetry: humans are more cautious while LLMs are excessively eager to facilitate, although both are more certain when judging that facilitation is not needed.
 
-Corrective attempts found trained ModernBert classifiers more reliable than alternative LLM setups, though existing datasets impose a relatively low performance ceiling — a benchmark-quality finding for automated discussion facilitation.
+Corrective attempts found trained ModernBert classifiers more reliable than alternative LLM setups, though existing datasets impose a relatively low performance ceiling — a [[benchmark]]-quality finding for automated discussion facilitation.
 
-For online learning, the work informs when AI should intervene in discussion forums (MOOC-style and classroom), connecting facilitation timing to engagement and moderation research.
+For [[online-teaching-and-learning|online learning]], the work informs when AI should intervene in discussion forums (MOOC-style and classroom), connecting facilitation timing to [[student-engagement|engagement]] and moderation [[research-methods-aied|research]].
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ For online learning, the work informs when AI should intervene in discussion for
 
 ## Study Design & Method
 
-Automating facilitation has been attempted with encoder-only classifiers, and LLMs have more recently been championed as the eventual solution; however, prior work indicated LLM facilitators are too eager to intervene, rendering them unusable as autonomous agents — a finding the authors contrast with human tendencies for the first time. The study operationalizes what facilitation is, observes when humans decide to facilitate, and compares those decisions with LLM decisions. Corrective alternatives (different LLM setups) and classifier training on established datasets are then evaluated against the aggregated PEFK corpus.
+Automating facilitation has been attempted with encoder-only classifiers, and LLMs have more recently been championed as the eventual solution; however, prior work indicated LLM facilitators are too eager to intervene, rendering them unusable as [[agentic-ai|autonomous agents]] — a finding the authors contrast with human tendencies for the first time. The study operationalizes what facilitation is, observes when humans decide to facilitate, and compares those decisions with LLM decisions. Corrective alternatives (different LLM setups) and classifier training on established datasets are then evaluated against the aggregated PEFK corpus.
 
 ## Implications for AI in Education
 

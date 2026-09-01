@@ -11,13 +11,13 @@ sources: ['raw/papers/2606.15902.md']
 confidence: medium
 ---
 
-> Argues the dominant paradigm of runtime GenUI adaptation in EdTech is insufficient. Proposes design-time card-based GenUI where educational content is encoded as modality-agnostic semantic units and GenAI produces multiple interface representations (interactive, audio, simplified text, low-bandwidth) at design time for instructor verification. Embeds Universal Design for Learning into authoring workflow and eliminates per-learner inference costs.
+> Argues the dominant paradigm of runtime GenUI adaptation in EdTech is insufficient. Proposes design-time card-based GenUI where educational content is encoded as modality-agnostic semantic units and [[generative-ai|GenAI]] produces multiple interface representations (interactive, audio, simplified text, low-bandwidth) at design time for instructor verification. Embeds [[universal-design-for-learning|Universal Design for Learning]] into authoring workflow and eliminates per-learner inference costs.
 
 - Proposes design-time (not runtime) generative UI for EdTech to embed UDL principles and eliminate per-learner inference costs.
 
 ## Key Findings
 
-- The dominant **runtime GenUI paradigm** — authoring content once in a fixed form and letting AI adapt delivery dynamically to learner needs, behaviors, or profiles — moves the burden of accessibility and representation diversity onto systems that encounter learners only after content has been locked into particular details.
+- The dominant **runtime GenUI paradigm** — authoring content once in a fixed form and letting AI adapt delivery dynamically to learner needs, behaviors, or profiles — moves the burden of [[accessibility]] and representation diversity onto systems that encounter learners only after content has been locked into particular details.
 - Runtime adaptation is "too late and too costly" to be equitable at scale and may lead to **inaccurate learning content**, because verification cannot be conducted at scale for what each learner actually sees.
 - The authors propose **design-time card-based GenUI**: educational content is encoded as modality-agnostic semantic units, and GenAI produces multiple interface representations — interactive, audio, text-simplified, and low-bandwidth — at learning design time for instructor verification before any learner encounters them.
 - This shifts the AI intervention from delivery to creation, **embeds Universal Design for Learning (UDL) principles** into the authoring workflow, and removes per-learner inference costs.
@@ -29,7 +29,7 @@ The paper argues that accessibility belongs in the authoring layer. When interfa
 
 ## Implications for AI in Education
 
-For [[equity-in-ai-education]] in [[edtech-platform]] design, the proposal implies that generative UI should be judged not only by what it delivers to learners but by where verification happens in the workflow. Putting instructors in the loop at design time supports [[teacher-role]] oversight and aligns adaptive content with UDL principles, while the elimination of per-learner inference costs matters for low-bandwidth and resource-constrained settings. The authors present this as an argument and research agenda rather than an implemented system.
+For [[equity-in-ai-education]] in [[edtech-platform]] design, the proposal implies that generative UI should be judged not only by what it delivers to learners but by where verification happens in the workflow. Putting instructors in the loop at design time supports [[teacher-role]] oversight and aligns adaptive content with UDL principles, while the elimination of per-learner inference costs matters for low-bandwidth and resource-constrained settings. The authors present this as an argument and [[research-methods-aied|research]] agenda rather than an implemented system.
 
 ## Connected Concepts
 - [[generative-ai]]

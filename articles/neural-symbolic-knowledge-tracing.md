@@ -10,9 +10,9 @@ sources: ['raw/papers/2604.08263.md']
 confidence: medium
 ---
 
-> Key limitations exist in both LLM-based tutoring and conventional Deep Knowledge Tracing (DKT):
+> Key limitations exist in both [[llm]]-based tutoring and conventional Deep Knowledge Tracing (DKT):
 
-> Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable learner modeling in intelligent tutoring systems.
+> Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable [[student-modeling|learner modeling]] in [[intelligent-tutoring|intelligent tutoring systems]].
 
 ## The Problem with Pure Neural Approaches
 
@@ -39,7 +39,7 @@ Hooshyar et al. propose **Responsible-DKT**, a neural-symbolic architecture buil
 
 ### Injected Educational Knowledge (Symbolic Rules)
 
-1. **mastered rule:** Two consecutive correct responses on the same skill/quiz → increases prediction confidence. Encodes the pedagogical assumption that sustained correctness signals mastery.
+1. **mastered rule:** Two consecutive correct responses on the same skill/quiz → increases prediction confidence. Encodes the [[pedagogy|pedagogical]] assumption that sustained correctness signals mastery.
 2. **not_mastered rule:** Three incorrect responses on the same skill/quiz → decreases prediction confidence. Encodes the assumption that repeated failure is a stronger signal — the paper found this rule **dominates** prediction updates.
 3. **avg_embed rule:** Historical aggregation of past embeddings for the same skill/quiz — provides a long-run average representation of the student's relationship to a knowledge component.
 
@@ -74,26 +74,26 @@ Real-world 6th-grade Maths from Opiq: 167 students, 21,471 interactions, 13 skil
 
 Traditional **Knowledge Tracing (KT)** methods:
 
-- **IRT-based** (Item Response Theory): [[huang-interpretable-knowledge-tracing-2026]] — interpretable difficulty parameters but limited sequential modeling.
-- **BKT** (Bayesian Knowledge Tracing): Explicit prerequisite structures; interpretable but rigid.
+- **IRT-based** ([[item-response-theory|Item Response Theory]]): [[huang-interpretable-knowledge-tracing-2026]] — interpretable difficulty parameters but limited sequential modeling.
+- **BKT** ([[knowledge-tracing|Bayesian Knowledge Tracing]]): Explicit prerequisite structures; interpretable but rigid.
 - **DeepKT** (LSTM/Transformer): High predictive capacity but opaque.
 - **Neural-symbolic KT** bridges the gap: retains interpretability of symbolic approaches while leveraging neural networks' representational power.
 
 ## Implications for Responsible AI in Education
 
-The paper positions this under **responsible AI** (Goellner et al., 2024: "human-centred approach fostering user trust through ethical decision-making, explainable outcomes, and privacy-preserving implementation"):
+The paper positions this under **responsible AI** (Goellner et al., 2024: "human-centred approach fostering user trust through [[ethics|ethical]] decision-making, explainable outcomes, and privacy-preserving implementation"):
 
 1. **Transparency:** Symbolic components make learner state *auditable* — critical for [[ai-tutor-safety-harms|safety auditing]].
-2. **Pedagogical validity:** Updates follow educational theory (mastery learning, repeated-failure signals), not just data patterns.
+2. **Pedagogical validity:** Updates follow educational theory ([[mastery-learning|mastery learning]], repeated-failure signals), not just data patterns.
 3. **Data efficiency:** Practical in real educational settings where large labeled datasets are rare.
-4. **Temporal trustworthiness:** Predictions don't oscillate wildly — a key requirement for [[student-experience|student trust]] and instructor decision-making.
+4. **Temporal [[trust|trustworthiness]]:** Predictions don't oscillate wildly — a key requirement for [[student-experience|student trust]] and instructor decision-making.
 
 This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tutoring alignment]] and demonstrates a path toward [[principled-ai-education|principled AI in education]] — augment, don't displace, pedagogical reasoning.
 
 ## Open Questions
 
 - How does Responsible-DKT scale to larger skill graphs (hundreds of knowledge components)?
-- Can the symbolic rule set be extended with domain-specific pedagogical knowledge (e.g., common misconceptions)?
+- Can the symbolic rule set be extended with [[discipline-specific-aied|domain-specific]] pedagogical knowledge (e.g., common [[misconceptions]])?
 - How does this compare to [[llm-student-modeling-memory|LLM-based longitudinal student modeling]] in both accuracy and interpretability?
 - Is the 13% improvement maintained with more diverse student populations and subject domains?
 

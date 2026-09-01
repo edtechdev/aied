@@ -12,11 +12,11 @@ sources: ['raw/papers/2605.12757.md']
 confidence: high
 ---
 
-> Perl-Nussbaum & Finkelstein (2026) adapt institutional-change models to generative AI as an **arrival technology** — one that entered classrooms before pedagogical evidence existed — yielding a six-dimension framework and design implications for leading change under uncertainty ([[educational-development]], [[higher-ed]], [[educational-policy-ai]]).
+> Perl-Nussbaum & Finkelstein (2026) adapt [[governance|institutional]]-change models to [[generative-ai|generative AI]] as an **arrival technology** — one that entered classrooms before [[pedagogy|pedagogical]] evidence existed — yielding a six-dimension framework and design implications for leading change under uncertainty ([[educational-development]], [[higher-ed]], [[educational-policy-ai]]).
 
 ## Core Contribution
 
-Perl-Nussbaum & Finkelstein (2026) propose a **six-dimension framework** for adapting institutional change models in STEM higher education to the realities of generative AI. Unlike prior reforms based on **adoption technologies** (stable, evidence-based practices like Peer Instruction or PhET simulations), generative AI is an **arrival technology** — it entered classrooms before pedagogical evidence could form. The framework identifies where existing change models break down and derives actionable design implications for leading change under genuine uncertainty.
+Perl-Nussbaum & Finkelstein (2026) propose a **six-dimension framework** for adapting institutional change models in STEM higher education to the realities of generative AI. Unlike prior reforms based on **adoption [[ai-technologies|technologies]]** (stable, evidence-based practices like Peer Instruction or PhET [[simulation|simulations]]), generative AI is an **arrival technology** — it entered classrooms before pedagogical evidence could form. The framework identifies where existing change models break down and derives actionable design implications for leading change under genuine uncertainty.
 
 Central insight: "Institutions cannot wait for best practices, but cannot responsibly scale unjustified innovations. Neither banning nor uncritical embrace is tenable."
 
@@ -36,7 +36,7 @@ Central insight: "Institutions cannot wait for best practices, but cannot respon
 
 **5. Change Agents:** Prior models cast change agents as disseminators of best practices; when best practices don't exist, they must become **facilitators of collective inquiry**. This reframes Centers for Teaching and Learning from trainers to community organizers — a transformation anticipated by [[universities-ai-era-rethinking]].
 
-**6. Students:** Prior models treated students as recipients; in the AI era, students are often **ahead of faculty** in AI use and must be engaged as **partners in reform**. This aligns with broader calls in [[student-experience]] and [[ai-literacy]] for student agency in AI-era education.
+**6. Students:** Prior models treated students as recipients; in the AI era, students are often **ahead of faculty** in AI use and must be engaged as **partners in reform**. This aligns with broader calls in [[student-experience]] and [[ai-literacy]] for [[agency|student agency]] in AI-era education.
 
 ## Design Implications
 
@@ -48,7 +48,7 @@ Central insight: "Institutions cannot wait for best practices, but cannot respon
 
 ## Application: Physics Department Workshop Series
 
-The framework was piloted through a faculty workshop series in a university physics department. Rather than prescribing AI tools, workshops facilitated collective inquiry around pedagogical goals, engaged participants as co-investigators, and organized around teaching approaches rather than specific technologies. This connects to the departmental-level work described in [[stem-education]] and the workshop-based models in [[educational-development]].
+The framework was piloted through a faculty workshop series in a university [[physics-education|physics]] department. Rather than prescribing AI tools, workshops facilitated collective inquiry around pedagogical goals, engaged participants as co-investigators, and organized around teaching approaches rather than specific technologies. This connects to the departmental-level work described in [[stem-education]] and the workshop-based models in [[educational-development]].
 
 ## Connections to Knowledge Base
 
@@ -58,13 +58,13 @@ The framework was piloted through a faculty workshop series in a university phys
 - Relates to [[higher-ed]] and [[teacher-role]] — redefining instructor and institutional roles in AI-era education
 - Aligns with [[ai-literacy]] calls for faculty AI literacy as a prerequisite for meaningful institutional change
 - Contrasts with [[scaffolding]] and [[pedagogy-ai-mistakes]] — while those address classroom-level AI integration, this framework addresses the institutional conditions needed for such integration to succeed
-- Shares the systemic perspective of  — institutional capacity is a bottleneck for AI in education globally
+- Shares the systemic perspective of  — institutional capacity is a bottleneck for [[ai-education|AI in education]] globally
 
 ## Open Questions
 
-- How does this framework apply outside STEM — in humanities, social sciences, professional programs?
+- How does this framework apply outside STEM — in [[humanities-education|humanities]], social sciences, professional programs?
 - What metrics track institutional adaptation progress under genuine uncertainty?
-- How do different institutional types (research universities, community colleges, liberal arts) shape framework application?
+- How do different institutional types ([[research-methods-aied|research]] universities, community colleges, liberal arts) shape framework application?
 - Can the framework be operationalized into assessment tools for institutional readiness?
 
 ## Connected Concepts

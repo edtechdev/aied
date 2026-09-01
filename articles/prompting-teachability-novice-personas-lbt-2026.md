@@ -8,7 +8,7 @@ research_method: [benchmark]
 sources: ['raw/papers/raw-miller-bosch-teachability.md']
 confidence: high
 ---
-> **Synthesis:** Miller and Bosch (2026) examine which [[prompt-engineering|prompting strategies]] most effectively elicit **novice-like behavior** from [[llm|LLMs]] so they can serve as tutees in [[learning-by-teaching]] contexts. Generating 30,720 combined prompts across five domains and evaluating three models (Qwen3-235B, Llama 4, Kimi-K2), they find that **constraint prompts that explicitly force error production** outperform persona-, misconception-, and uncertainty-based [[prompt-engineering|prompts]] — direct commands like "answer incorrectly" or "get 2–3 wrong" produced the strongest novice behavior, while indirect framings diluted it.
+> **Synthesis:** Miller and Bosch (2026) examine which [[prompt-engineering|prompting strategies]] most effectively elicit **novice-like behavior** from [[llm|LLMs]] so they can serve as tutees in [[learning-by-teaching]] contexts. Generating 30,720 combined prompts across five domains and evaluating three models (Qwen3-235B, Llama 4, Kimi-K2), they find that **constraint prompts that explicitly force error production** outperform persona-, [[misconceptions|misconception]]-, and uncertainty-based [[prompt-engineering|prompts]] — direct commands like "answer incorrectly" or "get 2–3 wrong" produced the strongest novice behavior, while indirect framings diluted it.
 
 ## The Challenge of LLMs as Tutees
 

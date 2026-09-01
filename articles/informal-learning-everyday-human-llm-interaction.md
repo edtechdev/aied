@@ -13,7 +13,7 @@ confidence: high
 
 As LLMs take over task execution, a central worry is that everyday AI use becomes cognitive offloading that erodes people's own capability development. This study analyses 128,569 naturalistic human-LLM conversations, translating learning-science constructs into turn-level behavioural signatures to test whether informal learning actually emerges in routine use.
 
-The authors find that users do engage in learning-supporting behaviours — cognitive engagement, self-explanation, and elaboration — within ordinary [[llm]] interactions, tempering the pure offloading concern. The analysis contributes to debates on [[ai-literacy]] and the risks of [[cognitive-offloading|Over-Reliance]], and reframes [[student-experience]] as a site where incidental learning can occur. It also informs [[self-regulated-learning]] and [[metacognition]] research by quantifying how conversational patterns either preserve or displace opportunities to think.
+The authors find that users do engage in learning-supporting behaviours — cognitive [[student-engagement|engagement]], self-explanation, and elaboration — within ordinary [[llm]] interactions, tempering the pure offloading concern. The analysis contributes to debates on [[ai-literacy]] and the risks of [[cognitive-offloading|Over-Reliance]], and reframes [[student-experience]] as a site where incidental learning can occur. It also informs [[self-regulated-learning]] and [[metacognition]] [[research-methods-aied|research]] by quantifying how conversational patterns either preserve or displace opportunities to think.
 
 ## Connected Concepts
 - [[cognitive-offloading]]

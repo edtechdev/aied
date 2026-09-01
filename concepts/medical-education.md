@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [medical-education, higher-ed, simulation, assessment, adaptive-learning, teacher-role]
 discipline: [medical education]
@@ -46,6 +46,11 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - **Balance high-stakes benefits against over-reliance.** HPE is competency-based and high-stakes; guard against AI substituting for hands-on clinical skill and judgment, and apply [[feedback]], [[assessment]], and [[ethics]] considerations with particular care.
 - **Adapt gamified and interdisciplinary AI thoughtfully.** [[medgame-llm-medical-education-gamification|Gamified LLM learning]] and [[alrazeeni-transforming-nursing-education-ai-2026|nursing-education transformation]] show promise but need evaluation for safety and skill outcomes.
 
+
+## GenAI in Scenario-Based Healthcare Education
+
+- **GenAI in scenario-based healthcare education.** Neto and colleagues (2026) systematically reviewed 23 studies of GenAI across scenario-, case-, problem-, and simulation-based learning in healthcare education (PRISMA 2020). Their central finding is that **[[prompt-engineering|prompt design]] functions as instructional specification** — encoding the cognitive targets and quality criteria implicit in expert authoring — yet only 34.8% of studies aligned generated content with instructional frameworks and only 34.8% reported prompting in enough detail to reproduce. GPT-4 dominated implementations (44.4%), hybrid [[human-ai-collaboration|human-AI collaboration]] outperformed fully automated approaches, and evidence was strongest for higher-order cognitive skills but inconsistent elsewhere. This grounds [[simulation|scenario/simulation-based]] and [[problem-based-learning|problem-based]] [[pedagogy]] in medical education with validation- and integration-quality [[benchmark|benchmarks]].
+
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -76,3 +81,4 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: human-in-the-loop dental radiography instruction (Dong et al. 2026)
 
 
+- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)

@@ -10,7 +10,7 @@ sources: ['raw/papers/ai-enhanced-pbl-chatgpt-scaffolding-2026.md']
 confidence: medium
 ---
 
-> **Synthesis:** La Sunra, Amaliah, & Radhiyani (2026) examine an AI-Enhanced [[problem-based-learning|Problem-Based Learning]] (AIPBL) framework that integrates ChatGPT as [[scaffolding|adaptive scaffolding]] to improve [[critical-thinking|critical thinking]] and support [[personalized-learning|personalized learning]]. Using an explanatory sequential mixed-methods design with 120 [[k-12|eighth-grade]] students across four junior high schools in Makassar, they find a large, significant improvement in critical thinking — from 60.3 (SD 9.7) to 73.5 (SD 10.4), t(119) = 9.64, p < .001, d = 1.00 — with notable gains in analysis, inference, and bias detection. Qualitative analysis shows ChatGPT supported idea exploration, strengthened verification habits, and enhanced reflection and [[metacognition|metacognitive monitoring]], without producing [[cognitive-offloading|passive dependence]].
+> **Synthesis:** La Sunra, Amaliah, & Radhiyani (2026) examine an AI-Enhanced [[problem-based-learning|Problem-Based Learning]] (AIPBL) framework that integrates ChatGPT as [[scaffolding|adaptive scaffolding]] to improve [[critical-thinking|critical thinking]] and support [[personalized-learning|personalized learning]]. Using an explanatory sequential [[mixed-methods-research|mixed-methods]] design with 120 [[k-12|eighth-grade]] students across four junior high schools in Makassar, they find a large, significant improvement in critical thinking — from 60.3 (SD 9.7) to 73.5 (SD 10.4), t(119) = 9.64, p < .001, d = 1.00 — with notable gains in analysis, inference, and bias detection. [[qualitative-research|Qualitative]] analysis shows ChatGPT supported idea exploration, strengthened verification habits, and enhanced reflection and [[metacognition|metacognitive monitoring]], without producing [[cognitive-offloading|passive dependence]].
 
 ## Key Findings
 
@@ -22,7 +22,7 @@ confidence: medium
 
 ## Study Design & Method
 
-An explanatory sequential mixed-methods study with 120 eighth-grade students from four junior high schools in Ujung Pandang District, Makassar. The quantitative phase used a one-group pre-test–post-test design to measure whether students' critical thinking changed after the AIPBL intervention (with ChatGPT as adaptive scaffolding); the qualitative phase examined how students used ChatGPT. This design captured both the extent of improvement and the process behind it.
+An explanatory sequential mixed-methods study with 120 eighth-grade students from four junior high schools in Ujung Pandang District, Makassar. The [[quantitative-research|quantitative]] phase used a one-group pre-test–post-test design to measure whether students' critical thinking changed after the AIPBL intervention (with ChatGPT as adaptive scaffolding); the qualitative phase examined how students used ChatGPT. This design captured both the extent of improvement and the process behind it.
 
 ## Implications for AI in Education
 

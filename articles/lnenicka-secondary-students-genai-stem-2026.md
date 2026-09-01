@@ -12,7 +12,7 @@ sources: ['raw/papers/lnenicka-secondary-students-genai-stem-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** This cross-sectional, convergent mixed-methods study (n = 416 Czech secondary students) maps what students actually do with [[generative-ai|generative AI]] tools across four STEM subjects, revealing a *stratified adoption* pattern: applied disciplines (computer science, economics) normalize AI as a collaborative resource, while theoretically rigorous subjects (mathematics, natural sciences) show high perceived prohibition co-occurring with persistent clandestine use and poor rule clarity. Students mostly position AI as an instrumental [[scaffolding|scaffold]] for explanation and verification — but a critical [[ai-literacy|evaluation]] gap emerges: heavy operational [[prompt-engineering|prompt modification]] overshadows external factual verification, shifting behavior toward rapid [[cognitive-offloading|cognitive offloading]].
+> **Synthesis:** This cross-sectional, convergent [[mixed-methods-research|mixed-methods]] study (n = 416 Czech secondary students) maps what students actually do with [[generative-ai|generative AI]] tools across four [[stem-education|STEM]] subjects, revealing a *stratified adoption* pattern: applied disciplines (computer science, economics) normalize AI as a collaborative resource, while theoretically rigorous subjects ([[math-education|mathematics]], natural sciences) show high perceived prohibition co-occurring with persistent clandestine use and poor rule clarity. Students mostly position AI as an instrumental [[scaffolding|scaffold]] for explanation and verification — but a critical [[ai-literacy|evaluation]] gap emerges: heavy operational [[prompt-engineering|prompt modification]] overshadows external factual verification, shifting behavior toward rapid [[cognitive-offloading|cognitive offloading]].
 
 ## Key Findings
 
@@ -26,7 +26,7 @@ confidence: high
 
 This study provides direct field evidence for [[student-ai-interaction]] and [[cognitive-offloading]] in secondary [[k-12|STEM education]]: even when students report using AI as a scaffold rather than a substitute, the *evaluation gap* means the risk of procedural dependency is real and largely invisible to students. It reframes the governance debate — from restrictive bans (which face reverse-causality reporting biases and drive clandestine use) toward a framework that formally integrates operational and epistemic workflow competencies.
 
-For [[educational-policy-ai|policy]] and course design, the finding that subject-specific environments (not school-wide policy) shape adoption argues for *subject-sensitive guidance* that ensures AI enhances rather than displaces disciplinary rigor. The call to integrate [[ai-literacy]] instruction that strengthens cross-verification and evaluation skills connects directly to the knowledge base's AI-literacy and [[reducing-ai-misuse]] threads.
+For [[educational-policy-ai|policy]] and [[learning-design|course design]], the finding that [[discipline-specific-aied|subject-specific]] environments (not school-wide policy) shape adoption argues for *subject-sensitive guidance* that ensures AI enhances rather than displaces disciplinary rigor. The call to integrate [[ai-literacy]] instruction that strengthens cross-verification and evaluation skills connects directly to the knowledge base's AI-literacy and [[reducing-ai-misuse]] threads.
 
 ## Connected Concepts
 

@@ -11,16 +11,16 @@ sources: ['raw/papers/critical-thinking-genai-scaffolding.md']
 confidence: medium
 ---
 
-> Vendrell & Johnston (2026) propose a design-oriented framework for LLM use in higher education that strengthens rather than displaces [[critical-thinking]], countering [[cognitive-offloading]] and metacognitive disengagement ([[metacognition]], [[scaffolding]]).
+> Vendrell & Johnston (2026) propose a design-oriented framework for [[llm]] use in [[higher-ed|higher education]] that strengthens rather than displaces [[critical-thinking]], countering [[cognitive-offloading]] and metacognitive disengagement ([[metacognition]], [[scaffolding]]).
 
-Vendrell & Johnston (2026) propose a design-oriented pedagogical framework for integrating LLMs into higher education in ways that strengthen rather than displace critical thinking. Drawing from cognitive psychology, educational theory, and AI ethics, the framework addresses the risk that unstructured LLM use leads to cognitive offloading, metacognitive disengagement, and reduced [[metacognition|epistemic agency]].
+Vendrell & Johnston (2026) propose a design-oriented [[pedagogy|pedagogical]] framework for integrating LLMs into higher education in ways that strengthen rather than displace critical thinking. Drawing from [[cognitive-psychology|cognitive psychology]], educational theory, and AI ethics, the framework addresses the risk that unstructured LLM use leads to cognitive offloading, metacognitive disengagement, and reduced [[metacognition|epistemic agency]].
 
 ## The Problem: Unstructured LLM Use
 
 A global survey reports 86% of university students now use AI in their studies, with over half engaging weekly — primarily for summarization, grammar checking, and drafting (Digital Education Council, 2024). However, LLMs are not designed with educational goals in mind; they simulate understanding via probabilistic language modeling without intentionality or comprehension.
 
-Research shows that unguided AI use correlates with:
-- Weaker arguments and lower cognitive engagement (Stadler et al., 2024)
+[[research-methods-aied|Research]] shows that unguided AI use correlates with:
+- Weaker arguments and lower cognitive [[student-engagement|engagement]] (Stadler et al., 2024)
 - Diminished attentional modulation (Kosmyna et al., 2025)
 - Reduced independent evaluation, especially among younger students (Gerlich, 2025)
 - Decreased scrutiny of outputs, increasing susceptibility to misinformation (Yatani et al., 2024)
@@ -38,15 +38,15 @@ The framework identifies six interconnected cognitive and metacognitive processe
 | **1. Conceptual interpretation** | Actively constructing meaning by selecting, organizing, and integrating information; distinguishing core ideas from peripheral details. Aligned with Bloom's "Understand" and "Analyse" levels. |
 | **2. Inferential reasoning** | Generating warranted conclusions from evidence; identifying assumptions, discerning logical relationships, and predicting implications. The cognitive bridge between information and action. |
 | **3. Evaluative judgement** | Assessing credibility, coherence, and evidentiary support of claims. What Bielik & Krell (2025) call *epistemic vigilance* — the capacity to critically assess both source credibility and claim validity. |
-| **4. Metacognitive regulation** | Monitoring, evaluating, and strategically controlling one's cognitive processes. Transforms critical thinking from episodic acts into sustained, self-directed practice. |
-| **5. Intellectual curiosity** | The motivational disposition to explore ideas, ask questions, and pursue knowledge beyond instrumental goals. Fuels cognitive persistence and epistemic openness. |
-| **6. Epistemic integrity** | The ethical orientation to seek truth, evaluate claims fairly, and engage with complexity conscientiously. Combines intellectual honesty with critical reflexivity. |
+| **4. Metacognitive [[regulation]]** | Monitoring, evaluating, and strategically controlling one's cognitive processes. Transforms critical thinking from episodic acts into sustained, [[self-directed-learning|self-directed]] practice. |
+| **5. Intellectual curiosity** | The [[motivation|motivational]] disposition to explore ideas, ask questions, and pursue knowledge beyond instrumental goals. Fuels cognitive persistence and epistemic openness. |
+| **6. Epistemic integrity** | The [[ethics|ethical]] orientation to seek truth, evaluate claims fairly, and engage with complexity conscientiously. Combines intellectual honesty with critical reflexivity. |
 
 ## Eight Design Principles
 
 | Principle | Core Mechanism | Supported Processes |
 |-----------|---------------|---------------------|
-| **P1. Preserve cognitive friction** | Require independent thinking before AI; use AI to generate counterarguments | Conceptual interpretation, Inferential reasoning |
+| **P1. Preserve [[desirable-difficulties|cognitive friction]]** | Require independent thinking before AI; use AI to generate counterarguments | Conceptual interpretation, Inferential reasoning |
 | **P2. Scaffold LLMs as thinking partners** | Position LLMs as provisional collaborators, not authoritative sources | Inferential reasoning, Curiosity, Epistemic integrity |
 | **P3. Embed evaluation as standard practice** | Structured checkpoints for cross-referencing and criteria-based assessment | Inferential reasoning, Evaluative judgement |
 | **P4. Activate metacognitive self-regulation** | Planning templates, reflective journals, AI prompt logs | Metacognitive regulation |
@@ -57,11 +57,11 @@ The framework identifies six interconnected cognitive and metacognitive processe
 
 ## Connection to Existing Frameworks
 
-This model aligns with the [[principled-ai-education]] principle of augmenting rather than displacing human cognition. The emphasis on sequencing echoes findings in [[stanford-evidence-base-ai-k12-2026]] that pedagogically-designed AI outperforms raw LLM chatbots on [[learning-gains|learning outcomes]]. The metacognitive focus connects to [[self-regulated-learning]] cycles of planning, monitoring, and evaluation, while drawing on feedback literacy principles (Carless & Boud, 2018).
+This model aligns with the [[principled-ai-education]] principle of augmenting rather than displacing human cognition. The emphasis on sequencing echoes findings in [[stanford-evidence-base-ai-k12-2026]] that pedagogically-designed AI outperforms raw LLM [[conversational-ai|chatbots]] on [[learning-gains|learning outcomes]]. The metacognitive focus connects to [[self-regulated-learning]] cycles of planning, monitoring, and evaluation, while drawing on [[feedback-literacy|feedback literacy]] principles (Carless & Boud, 2018).
 
-P1's use of counterarguments as cognitive stimuli parallels the [[socratic-method]] approach of using questions to foster expert-like reasoning. P7's assessment alignment extends [[formative-assessment]] principles into AI-mediated contexts, and the emphasis on preserving learner agency connects to [[ai-learning-companions-framework]] which prioritizes learning over performance. The focus on epistemic integrity and the risk of over-reliance also speaks to [[transfer-of-learning]] — the central question of whether AI-assisted gains persist when tools are removed.
+P1's use of counterarguments as cognitive stimuli parallels the [[socratic-method]] approach of using questions to foster expert-like reasoning. P7's assessment alignment extends [[formative-assessment]] principles into AI-mediated contexts, and the emphasis on preserving [[agency|learner agency]] connects to [[ai-learning-companions-framework]] which prioritizes learning over performance. The focus on epistemic integrity and the risk of over-reliance also speaks to [[transfer-of-learning]] — the central question of whether AI-assisted gains persist when tools are removed.
 
-P2's scaffolded positioning of LLMs aligns with [[ai-literacy]] frameworks that progress from understanding to critical engagement to creative application, and the framework's overall design-based research methodology parallels the evidence standards discussed in [[stanford-evidence-base-ai-k12-2026]].
+P2's scaffolded positioning of LLMs aligns with [[ai-literacy]] frameworks that progress from understanding to critical engagement to creative application, and the framework's overall [[design-based-research|design-based research]] methodology parallels the evidence standards discussed in [[stanford-evidence-base-ai-k12-2026]].
 
 ## Practical Application
 
@@ -71,11 +71,11 @@ Two illustrative scenarios demonstrate implementation:
 
 **Scenario B: AI-Mediated Debate and Synthesis.** Students engage in structured debate with AI as a provisional interlocutor, followed by independent written synthesis requiring assumption identification, counterargument consideration, and integration of AI-generated content with original reasoning.
 
-Both scenarios emphasize the critical sequence: *independent thinking first, AI interaction second, reflective integration third*. 
+Both scenarios emphasize the critical sequence: *independent thinking first, [[student-ai-interaction|AI interaction]] second, reflective integration third*. 
 
 ## Open Questions
 
-- How do these principles scale across class sizes, disciplines, and institutional contexts?
+- How do these principles scale across class sizes, disciplines, and [[governance|institutional]] contexts?
 - What is the minimum threshold of AI literacy needed for students to benefit from scaffolded integration?
 - How should [[educational-development|faculty development]] programs train instructors to implement these principles at scale?
 - What empirical evidence is needed to validate the framework's efficacy claims?

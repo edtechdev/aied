@@ -13,9 +13,9 @@ confidence: high
 > **Ilya Mikhelson** — Submitted to Computers and Education: Artificial Intelligence (2026).
 ## Synthesis
 
-The [[socratic-method|Socratic Test]] is an automated, computer-mediated [[assessment|conversational assessment]] that replaces static, deficit-based grading with a dynamic, additive model. It integrates Dynamic Assessment principles, multimodal workspaces, Bloom's Taxonomy for real-time proctoring, and the SOLO Taxonomy for structural evaluation.
+The [[socratic-method|Socratic Test]] is an automated, computer-mediated [[assessment|conversational assessment]] that replaces static, deficit-based grading with a dynamic, additive model. It integrates Dynamic Assessment principles, [[multimodal]] workspaces, Bloom's Taxonomy for real-time proctoring, and the SOLO Taxonomy for structural evaluation.
 
-[[scaffolding|Graduated scaffolding]] is formalized to quantify a student's Zone of Proximal Development (ZPD): the assessment actively maps cognitive boundaries by adapting question difficulty and support in real time, so measurement targets what a student can achieve with assistance rather than only unaided performance.
+[[scaffolding|Graduated scaffolding]] is formalized to quantify a student's [[sociocultural-learning|Zone of Proximal Development]] (ZPD): the assessment actively maps cognitive boundaries by adapting question difficulty and support in real time, so measurement targets what a student can achieve with assistance rather than only unaided performance.
 
 The grading architecture is non-compensatory and additive, prioritizing mastery over penalty: success at harder levels outweighs failures at easier ones, which the author argues reduces the penalty on ambition and restores diagnostic [[formative-assessment|feedback]] value lost in subtractive scoring.
 

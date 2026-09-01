@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, educational-development, student-experience, academic-integrity]
 audience: [learners, instructors, faculty development, administrator]
@@ -48,6 +48,11 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - **Treat faculty readiness as sociotechnical, not just technical.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]] frames readiness across epistemic, pedagogical, institutional, and quality domains — align your [[pedagogy|teaching practice]] with institutional governance, not just tool fluency.
 - **Address the policy-vs-practice gap.** Large-scale studies ([[ai-in-the-wild-college|AI in the wild]]) show students use AI in ways institutional policy doesn't anticipate — align your expectations with real usage and teach [[ai-literacy]] explicitly.
 - **Use AI to raise feedback quality and quantity.** [[ai-assistance-discretionary-feedback|AI-assisted feedback]] can increase the feedback instructors deliver; pair it with [[human-in-the-loop-ai|human judgment]] so it improves learning rather than merely automating.
+
+
+## Digital Transformation of a Liberal Arts University
+
+- **Digital transformation of a liberal arts university.** Qin (2026) documents Lingnan University's repositioning as a \"Research-Intensive Liberal Arts Institution in the Digital Era,\" mandating GenAI literacy for all undergraduates and embedding digital literacy across the Common Core while developing a human-in-the-loop model that foregrounds [[ethics|ethical]] reasoning and critical judgment. It argues the AI-for-education shift is an intellectual transformation, not technocentric augmentation — a concrete institutional blueprint for [[humanities-education|liberal arts]] and other higher education institutions navigating [[generative-ai|GenAI]].
 
 ## Connected Concepts
 
@@ -130,3 +135,6 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[genai-professionalization-metaphors-2026]] — Conceptualizations of GenAI and student professionalization (metaphor study)
 - [[genai-decision-capability-cognitive-load-2026]] — GenAI's influence on students' perceived decision capability
+- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
+- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
+- [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)

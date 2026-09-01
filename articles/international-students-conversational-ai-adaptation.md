@@ -11,13 +11,13 @@ sources: ['raw/papers/2605.15127.md']
 confidence: medium
 ---
 
-> Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation **Nourian et al. (2026)** — Multiple institutions. arXiv cs.HC.
+> Understanding How International Students in the U.S. Are Using [[conversational-ai|Conversational AI]] to Support Cross-Cultural Adaptation **Nourian et al. (2026)** — Multiple institutions. arXiv cs.HC.
 
 Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation
 
 ## Summary
 
-This mixed-methods study (survey n=60, interviews n=14) investigates how international students in the U.S. adopt and perceive [[conversational-ai-tutors-framework]] tools like ChatGPT and Google Gemini for cross-cultural adaptation. The current support ecosystem — university systems and informal social networks — remains fragmented, echoing broader integration gaps in higher education.
+This [[mixed-methods-research|mixed-methods]] study (survey n=60, interviews n=14) investigates how international students in the U.S. adopt and perceive [[conversational-ai-tutors-framework]] tools like ChatGPT and Google Gemini for cross-cultural adaptation. The current support ecosystem — university systems and informal social networks — remains fragmented, echoing broader integration gaps in higher education.
 
 **Key findings:**
 

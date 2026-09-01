@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-01T12:30:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, generative-ai, scaffolding, llm, student-experience, prompt-engineering]
 audience: [learners]
@@ -41,6 +41,11 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 Prompt engineering connects to [[scaffolding]] — well-designed prompts can scaffold student thinking rather than bypass it. It intersects with [[metacognition]] and [[ai-literacy]], as effective prompting requires understanding both the AI's capabilities and one's own learning goals. The [[cognitive-offloading]] research directly links prompt quality to whether AI use supports or undermines learning.
 
 - **Prompting strategy predicts performance.** An [[isaza-chatgpt-engineering-prompting-2026|empirical study of 128 engineering students]] found that AI Query Efficiency (clear, well-structured prompts) and AI-Driven [[problem-solving]] (strategic integration of AI output into reasoning) were the strongest predictors of academic success — even after controlling for GPA — indicating prompting is a teachable skill that shapes how effectively students learn with AI.
+
+
+## Prompt Design as Instructional Specification
+
+- **Prompt design as instructional specification.** Neto and colleagues (2026) find in their [[meta-analysis-systematic-review|systematic review]] of GenAI in healthcare education that prompt design functions as a form of instructional specification, encoding the cognitive targets and quality criteria implicit in expert authoring — yet only 34.8% of studies aligned generated content with instructional frameworks and only 34.8% reported prompting in enough detail to reproduce. Looi, Liu, and Sun (2026) further show how prompt architecture can embed pedagogical rules (correctness gates, anti-spoiler boundaries, goodbye gates) to constrain [[llm]] tutoring behavior in procedural domains.
 
 ## Connected Concepts
 - [[guardrails]]
@@ -96,3 +101,6 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[isaza-chatgpt-engineering-prompting-2026]] — Prompting behaviors predict engineering student performance
 
+- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
+- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
+- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)

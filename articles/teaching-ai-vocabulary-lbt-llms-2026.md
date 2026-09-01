@@ -11,7 +11,7 @@ sources: ['raw/papers/raw-uchida-vocab-teaching-ai.md']
 confidence: high
 ---
 
-> **Synthesis:** Uchida et al. (2026) develop an LLM-based system that lets English vocabulary learners learn by teaching an AI "student." The system generates dynamic, contextually relevant questions for learning-by-teaching, replacing rigid template-based question generators. In a study with ten participants, learning with the system produced high learning effectiveness and improved memory retention at 3 and 7 days after learning, and the researchers identified learner traits linked to better outcomes.
+> **Synthesis:** Uchida et al. (2026) develop an [[llm]]-based system that lets English vocabulary learners learn by [[teacher-role|teaching]] an AI "student." The system generates dynamic, contextually relevant questions for [[learning-by-teaching]], replacing rigid template-based question generators. In a study with ten participants, learning with the system produced high learning effectiveness and improved memory retention at 3 and 7 days after learning, and the [[research-methods-aied|researchers]] identified learner traits linked to better outcomes.
 
 ## The Approach
 
@@ -26,9 +26,9 @@ Learning-by-teaching helps learners deepen understanding by explaining concepts 
 
 ## Implications
 
-1. **LLMs as teachable students** can operationalize learning-by-teaching in language learning without expensive bespoke systems.
-2. **Dynamic question generation** from an LLM supports contextual relevance that rigid templates cannot match.
-3. **Personalization potential** — identifying learner traits that benefit most points toward adaptive learning-by-teaching.
+1. **LLMs as teachable students** can operationalize learning-by-teaching in [[language-learning|language learning]] without expensive bespoke systems.
+2. **Dynamic [[automated-question-generation|question generation]]** from an LLM supports contextual relevance that rigid templates cannot match.
+3. **[[personalized-learning|Personalization]] potential** — identifying learner traits that benefit most points toward [[adaptive-learning|adaptive learning]]-by-teaching.
 
 ## Connected Concepts
 

@@ -32,7 +32,7 @@ Nearly 75% of "Social Being/Agent" framings co-occurred with Collaborative/Partn
 
 ## Constructing and constraining understanding
 
-The key finding is that engineering instructors do **not** hold a unified mental model of GAI: even within the same department, semester, and institutional policy environment, instructors construct fundamentally different accounts of what GAI "is" and "means." None is inherently "correct," but each is shaped by personal experience, use cases, and professional background. Critically, some metaphors are inaccurate and can constrain understanding: describing GAI as a "search engine" inaccurately positions it as retrieving pre-existing information, when in fact it algorithmically generates plausible token continuations. Instructors tended to focus on what GAI *does* rather than what it *knows*, says, or is.
+The key finding is that engineering instructors do **not** hold a unified mental model of GAI: even within the same department, semester, and [[educational-policy-ai|institutional policy]] environment, instructors construct fundamentally different accounts of what GAI "is" and "means." None is inherently "correct," but each is shaped by personal experience, use cases, and professional background. Critically, some metaphors are inaccurate and can constrain understanding: describing GAI as a "search engine" inaccurately positions it as retrieving pre-existing information, when in fact it algorithmically generates plausible token continuations. Instructors tended to focus on what GAI *does* rather than what it *knows*, says, or is.
 
 ## Implications for faculty development
 

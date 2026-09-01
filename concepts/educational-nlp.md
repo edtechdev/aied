@@ -7,12 +7,12 @@ tags: []
 confidence: medium
 ---
 
-> **Educational NLP** applies language technologies to learning: [[llm-item-difficulty-prediction]], [[teaching-feedback-classification-benchmark]], [[llm-sentiment-analysis-education-research]], and [[vocabulary-difficulty-prediction]] show LLMs advancing analysis of student language at scale ([[educational-measurement]], educational-nlp).
+> **Educational NLP** applies language [[ai-technologies|technologies]] to learning: [[llm-item-difficulty-prediction]], [[teaching-feedback-classification-benchmark]], [[llm-sentiment-analysis-education-research]], and [[vocabulary-difficulty-prediction]] show LLMs advancing analysis of student language at scale ([[educational-measurement]], educational-nlp).
 
 ## Questions to Consider
 
 - When an LLM analyzes thousands of student essays or discussion posts for sentiment, what might it be getting right, and what about the language of learning do you suspect it's missing?
-- Natural language processing can now estimate the difficulty of vocabulary and test items, and classify teaching feedback at scale. If those predictions feed adaptive systems, who checks whether the machine's judgments about language are actually right for the learners using them?
+- Natural language processing can now estimate the difficulty of vocabulary and test items, and classify [[teacher-role|teaching]] feedback at scale. If those predictions feed adaptive systems, who checks whether the machine's judgments about language are actually right for the learners using them?
 - How is analyzing student language different from understanding it? Where might the line between correlation and genuine insight blur when NLP scales up sentiment and feedback analysis?
 - This concept connects NLP to tutoring, student modeling, and measurement. Before reading, how much of 'understanding a student' do you think can be captured from their written or spoken language alone — and what gets left out?
 
@@ -26,7 +26,7 @@ Natural language processing in education applies computational methods to the la
 
 - **Analysis of student language.** [[llm-sentiment-analysis-education-research]] applies LLM-based sentiment analysis to educational research, extracting emotional and evaluative signals from student text at scale, feeding [[learning-analytics]] and [[affective-computing]].
 - **Prediction and measurement.** [[llm-item-difficulty-prediction]] and [[vocabulary-difficulty-prediction]] use language models to estimate item and text difficulty — core inputs to [[educational-measurement]], [[adaptive-learning]], and [[item-response-theory]] models.
-- **Feedback and classification.** [[teaching-feedback-classification-benchmark]] provides a benchmark for classifying teaching feedback, advancing [[feedback|Feedback Loop]] research and [[pedagogical-llm-training]].
+- **Feedback and classification.** [[teaching-feedback-classification-benchmark]] provides a [[benchmark]] for classifying teaching feedback, advancing [[feedback|Feedback Loop]] research and [[pedagogical-llm-training]].
 
 ### Connection to tutoring and measurement
 
