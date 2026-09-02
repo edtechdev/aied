@@ -53,4 +53,4 @@ GenAI systems are designed for single-user interaction, yet they are increasingl
 
 ## Citation
 
-Xu, H., Kharrufa, A., Solaiman, E., & Vlachokyriakos, V. (2026). AI as an Agent and Collaborative Space: Exploring the role of generative AI in small group synchronous and asynchronous collaborative dynamics. In *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '26)*. https://doi.org/10.1145/3772318.3791087
+Xu, H., Kharrufa, A., Solaiman, E., & Vlachokyriakos, V. (2026). [AI as an Agent and Collaborative Space: Exploring the role of generative AI in small group synchronous and asynchronous collaborative dynamics](https://doi.org/10.1145/3772318.3791087). In *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '26)*.
