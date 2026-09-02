@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-02T09:10:56-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 tags: [intelligent-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
@@ -170,3 +170,5 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
+- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
+- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning

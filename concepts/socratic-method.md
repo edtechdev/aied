@@ -1,7 +1,7 @@
 ---
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-02T09:10:56-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience, scaffolding, intelligent-tutoring, critical-thinking, rag, llm, metacognition, formative-assessment]
 audience: [learners]
@@ -55,6 +55,10 @@ The gap between "knowledge-based skills" (4.0/5) and "overall effectiveness" (3.
 - Socratic dialogue is effortful; students may prefer direct answers for efficiency
 - The chatbot cannot provide the relational support of a human tutor
 - Some students may get stuck in Socratic loops without resolution
+
+### A counter-finding: unrestricted access can outperform constrained modes
+
+Not all evidence favors constraining the AI. [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna & Maes, 2026)]], a randomized EEG study of 50 participants comparing an unrestricted ChatGPT-style bot, a Socratic hint-only mode, and an adaptive question-limited mode on a nuclear-safety learning task, found that the **unrestricted chatbot produced higher learning gains** than both constrained modes (*p* < .03, *d* > 0.80) — even though the **adaptive condition generated significantly higher EEG-measured [[student-engagement|cognitive engagement]]** (*p* = .018). The result complicates the assumption that pedagogically constrained (Socratic) interaction always yields deeper learning: on short-horizon factual acquisition, free access won, while restricting access raised measured cognitive engagement without converting it into higher immediate post-test gains. This is a useful calibration point alongside the stronger [[learning-gains|learning-outcome]] results above: constraint can boost engagement, but the engagement-to-retention translation is not automatic, and over-constraining may simply frustrate learners seeking answers.
 
 ## Research in the knowledge base
 
@@ -128,3 +132,4 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 
 
+- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
