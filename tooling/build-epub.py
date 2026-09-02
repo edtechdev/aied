@@ -513,14 +513,47 @@ def build_pdf():
     with open(pre_html, 'w', encoding='utf-8') as f:
         f.write(notice)
 
+    # --- PDF-only page breaks before each concept and each FAQ ---
+    # Both the EPUB and PDF are built from the SAME `dist/aied-export.md`, so
+    # we must not inject page-break markers there (they'd also break the EPUB).
+    # Instead, produce a PDF-specific variant of the markdown that tags every
+    # concept/FAQ title (H3 heading with a {#slug} attribute — concepts and
+    # FAQs are the ONLY H3s; 183 concepts + 16 FAQs = 199) with a
+    # `.conceptpage` class, and add a header CSS that starts each on a new
+    # page via `break-before: page`. WeasyPrint honors this reliably.
+    src_md = open(md_path, encoding='utf-8').read()
+
+    def _tag_concept_heading(line):
+        # e.g. "### Title {#slug}" -> "### Title {#slug .conceptpage}"
+        m = re.match(r'^(### .+?)(\s*\{#[^}]*\})\s*$', line)
+        if m:
+            return m.group(1) + m.group(2).rstrip('}') + ' .conceptpage}'
+        # A bare H3 without an attribute is not a concept/FAQ — leave it.
+        return line
+
+    pdf_md = os.path.join(WIKI, 'dist', 'aied-export-pdf.md')
+    with open(pdf_md, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(_tag_concept_heading(l) for l in src_md.split('\n')))
+
+    # Header CSS injected into the PDF <head> (PDF-only — never touches EPUB).
+    pdf_header = os.path.join(WIKI, 'dist', 'pdf-header.html')
+    with open(pdf_header, 'w', encoding='utf-8') as f:
+        f.write(
+            '<style>\n'
+            '/* Start each concept and each FAQ on a new page. */\n'
+            'h3.conceptpage { break-before: page; }\n'
+            '</style>\n'
+        )
+
     cmd = [
-        'pandoc', md_path, '-o', PDF_OUT,
+        'pandoc', pdf_md, '-o', PDF_OUT,
         '--pdf-engine=weasyprint',
         '--metadata', f'title={NAME}',
         '--metadata', 'lang=en',
         '--metadata', f'date={date_str}',
         '--toc', '--toc-depth=3',
         '--include-before-body=' + pre_html,
+        '--include-in-header=' + pdf_header,
         '--css=' + PDF_CSS,
     ]
     r = subprocess.run(cmd, capture_output=True, text=True)
