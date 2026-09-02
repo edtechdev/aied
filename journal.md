@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-02 | Total entries: 1208
+Last updated: 2026-09-02 | Total entries: 1209
 
 ## 2026-09-02
 
@@ -8,6 +8,8 @@ Last updated: 2026-09-02 | Total entries: 1208
   - How Instructors Regulate AI in College: Evidence from 31,000 Course Syllabi
 - 📄 [[chirikov-ai-grade-inflation-2026]]
   - Artificial Intelligence and Grade Inflation
+- 📄 [[alsheikh-mapping-ai-integration-higher-education-2026]]
+  - Mapping artificial intelligence integration in higher education: A systematic review using the FACETS and SAMR frameworks
 - 📄 [[choi-teacher-ai-interaction-lesson-design-2026]]
   - Analyzing teacher-AI interaction patterns across teacher experience and AI proficiency in student-centered lesson design
 - 📄 [[liao-role-adaptive-ai-companion-book-talk-2026]]
