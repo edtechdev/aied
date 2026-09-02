@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 183 concepts, 1026 articles, and 16 FAQs.
+> Complete text of 183 concepts, 1030 articles, and 16 FAQs.
 
 # Concepts
 
@@ -2550,6 +2550,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
+- [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
 
 ---
 
@@ -3393,6 +3394,7 @@ IBL's question-driven, process-focused structure is the natural home for product
 
 
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
+- [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
 
 ---
 
@@ -3775,6 +3777,10 @@ The gap between "knowledge-based skills" (4.0/5) and "overall effectiveness" (3.
 - The chatbot cannot provide the relational support of a human tutor
 - Some students may get stuck in Socratic loops without resolution
 
+### A counter-finding: unrestricted access can outperform constrained modes
+
+Not all evidence favors constraining the AI. [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna & Maes, 2026)]], a randomized EEG study of 50 participants comparing an unrestricted ChatGPT-style bot, a Socratic hint-only mode, and an adaptive question-limited mode on a nuclear-safety learning task, found that the **unrestricted chatbot produced higher learning gains** than both constrained modes (*p* < .03, *d* > 0.80) — even though the **adaptive condition generated significantly higher EEG-measured [[student-engagement|cognitive engagement]]** (*p* = .018). The result complicates the assumption that pedagogically constrained (Socratic) interaction always yields deeper learning: on short-horizon factual acquisition, free access won, while restricting access raised measured cognitive engagement without converting it into higher immediate post-test gains. This is a useful calibration point alongside the stronger [[learning-gains|learning-outcome]] results above: constraint can boost engagement, but the engagement-to-retention translation is not automatic, and over-constraining may simply frustrate learners seeking answers.
+
 ## Research in the knowledge base
 
 The **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** provides empirical evidence that the Socratic method can be operationalized through generative AI at scale, serving simultaneously as a teaching tool and data-collection instrument for [[learning-analytics]]. Unlike rule-based Socratic systems of the past, LLM-based approaches can adapt question sequences dynamically based on student responses.
@@ -3845,6 +3851,9 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
+
+
+- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
 
 ---
 
@@ -5245,6 +5254,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
+- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
 
 ---
 
@@ -5306,6 +5316,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic self-efficacy
 
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
+- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
 
 ---
 
@@ -8174,6 +8185,9 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] (dash
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
+- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
+- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
+
 ---
 
 ## [Knowledge Tracing](https://edtechdev.github.io/aied/concepts/knowledge-tracing/)
@@ -8367,6 +8381,10 @@ The key distinction is between **representing a real learner** and **generating 
 
 The two are complementary rather than competing. A high-fidelity simulated student typically *contains* a student model (an epistemic state, a misconception set, an [[student-engagement|engagement]] profile) and draws on the same constructs that [[student-modeling]] and [[knowledge-tracing]] formalize. The shared validity challenge is the same in both: the representation must faithfully reflect a learner's true state rather than the system's default behavior. But the *purpose* differs — student modeling diagnoses a real learner to act on them; simulation fabricates learners to test or train. This is why simulated-student research is increasingly used to audit AI (see below) while student-modeling research remains oriented toward live [[adaptive-learning]] and [[personalized-learning]].
 
+### Two-axis fidelity: behavioral match and guidance responsiveness
+
+[[studentsim-llm-student-simulators|StudentSim (Yang et al., 2026)]] formalizes the validity problem as two requirements that must hold together: **behavioral fidelity (F)** — how well a simulator matches a student's own responses — and **guidance responsiveness (R)** — how reliably it updates toward where tutor guidance leads. Its benchmark, StudentSimEval, casts public learner corpora (chess, second-language English writing, mathematics) into a standardized per-student protocol on which any simulator is fit and scored on held-out records. A two-stage **pooled-then-specialized** pipeline (a shared pool of behavioral patterns plus a per-student adapter) yields a family of simulators strong on both axes, outperforming domain-specific state-tracking (weak on R) and prompt-only LLM role-play (weak on F). This gives the field a concrete, two-axis vocabulary for judging whether a simulated learner is genuinely useful rather than merely plausible — and, as a proof of concept, a frozen StudentSim used as the reward in a chess-tutor [[reinforcement-learning]] loop produced tutors that experts rated as more accurate, better-guided, and more personalized than those trained with a frontier-LLM-simulator reward or no RL at all.
+
 ### Authentic-data student models and interactive practice
 
 Two 2026 threads sharpen the practical value of simulation. First, **authentic-data student models** — [[teachlm-post-training-llms-education|TeachLM]] trains a student model on 100,000 hours of real one-on-one tutor–student interactions (with rigorous anonymization), producing synthetic learners that enable fast, scalable, reproducible multi-turn evaluation of tutor behavior; this addresses the low authenticity and diversity of purely prompt-engineered student simulators. Second, **interactive instructional simulacra** — [[educasim-cs1-instructional-practice|EducaSim]] uses generative agents (with personas, course-grounded memories, and an LLM-as-judge speech oracle) to simulate a small-group section for teachers-in-training, adding runnable-code and voice interaction plus structured post-session feedback and self-reflection, and demonstrates low-cost, positive-uptake experiential [[pedagogy|teaching practice]] at the scale of massive online courses. Both point to simulation serving not only evaluation but hands-on teacher preparation.
@@ -8415,6 +8433,7 @@ Simulation also extends beyond individual learners to reproducing the social dyn
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
+- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
 
 ---
 
@@ -8580,6 +8599,8 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
+- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
+- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
 
 ---
 
@@ -9065,6 +9086,7 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 
 
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
+- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
 
 ---
 
@@ -9314,6 +9336,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
 - [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
+- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
 
 ---
 
@@ -9926,6 +9949,8 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 
 - [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming
 
+- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
+
 ---
 
 ## [Engineering Education](https://edtechdev.github.io/aied/concepts/engineering-education/)
@@ -10166,6 +10191,8 @@ Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-202
 - [[ai-grading-handwritten-physics-2026]] — Large-scale AI grading of handwritten physics assessments
 - [[avraamidou-ai-colonization-science-education]] — Critical commentary on AI colonization of science education
 - [[pre-service-science-teachers-ai-perceptions-2026]] — Pre-service science teachers' AI perceptions and acceptance
+
+- [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
 
 ---
 
@@ -20367,6 +20394,45 @@ The study demonstrates that **AI functions most effectively as a collaborative l
 ## Citation
 
 Putra, A. D., Wijanarko, F., & Safitri, N. (2026). [*Design-based research for developing an AI-assisted collaborative learning model to enhance critical thinking and problem-solving skills in higher education*](https://educationresourcescenter.com/jel/article/view/59).
+
+---
+
+## [Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change](https://edtechdev.github.io/aied/articles/ai-assisted-inquiry-ssi-climate/)
+
+A three-group quasi-experimental pretest-posttest study examining whether [[generative-ai|AI-assisted]] [[inquiry-based-learning|inquiry]] strengthens students' decision-making on a climate-change socio-scientific issue (SSI). Climate change is a quintessential SSI — it rests on science but cannot be settled by science alone, forcing learners to weigh costs, values, and competing interests under uncertainty.
+
+### Design
+
+The study compared three parallel groups so the contribution of the AI could be separated from the contribution of the inquiry itself:
+1. An AI-assisted inquiry group, where a conversational [[generative-ai|AI]] partner supported students' structured reasoning
+2. A non-AI inquiry group, which did the same inquiry without AI
+3. A control group
+
+Students' decision-making was scored against a rubric anchored in the structured reasoning that good scientific decisions require — naming drivers, reading data, weighing stakeholder interests, and planning actions.
+
+### Motivation and rationale
+
+The authors drew on [[inquiry-based-learning|inquiry]] traditions rooted in action competence and education for sustainable development, which hold that the aim is to help learners deliberate and act, not merely to know. They designed the tasks, instruments, and rubric so that students recognised the climate problem as their own, directly addressing recurring obstacles in climate education: [[misconceptions]], a sense that the problem is distant, and low feelings of [[agency]].
+
+## Connected Concepts
+- [[science-education]]
+- [[inquiry-based-learning]]
+- [[critical-thinking]]
+- [[generative-ai]]
+- [[assessment]]
+- [[agency]]
+- [[situated-learning]]
+- [[student-engagement]]
+- [[ai-education]]
+
+## Connected Articles
+- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-Supported Inquiry in Photosynthesis and Respiration
+- [[ai-partner-science-epistemic-vigilance]] — AI as a Science Partner and Epistemic Vigilance
+- [[ai-science-chemistry-education-systematic-review-2025]] — AI in Science and Chemistry Education (Systematic Review)
+- [[daniel-ai-sustainability-scoping-review-2026]] — AI and Sustainability (Scoping Review)
+
+## Citation
+Gousopoulos, D. (2026). [Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change](https://doi.org/10.62225/2583049X.2026.6.3.6516). *International Journal of Advanced Multidisciplinary Research and Studies*, 6(3), 1956-1966.
 
 ---
 
@@ -55872,6 +55938,43 @@ Dutta, Kaushik (2026). [From Precision Medicine to Precision Education: A Vision
 
 ---
 
+## [Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs](https://edtechdev.github.io/aied/articles/predicting-attrition-competitive-programming/)
+
+A dual-layer predictive framework for understanding student [[student-engagement|attrition]] in [[cs-education|competitive programming]], combining large-scale Codeforces behavioral logs (n = 1,816 after filtering and balancing) with a multi-institutional psychographic survey from 10 universities in Bangladesh (n = 64 for predictive modeling).
+
+### Behavioral findings: what precedes attrition
+
+The behavioral analysis confirmed that true attrition is preceded by an **83.71% reduction in contest participation** and consistent underperformance on skill-related metrics. The authors also validate a **Skill-Application Paradox**: students who stop report higher theoretical confidence than their active peers yet exhibit significantly weaker practice habits (significant at *p* < .001 for upsolving habit and peer circle density). This disconnect between self-reported confidence and actual practice behavior is a distinctive [[self-efficacy]] signal for [[learning-analytics|early-warning]].
+
+### Predictive modeling
+
+Machine learning benchmarks demonstrated that a **Soft-Voting Ensemble** achieved the strongest performance on the behavioral dataset (CV F1 = 0.737, Test Recall = 0.769), while **Random Forest** led on the survey dataset (CV F1 = 0.924, interpreted as a localized exploratory pilot). An engineered **Intensity Ratio** ranked as the third most predictive Codeforces feature, capturing independent practice effort beyond raw activity counts.
+
+### Early Warning System proof of concept
+
+Applied as a proof-of-concept Early Warning System, the survey-trained model identified four high-risk active students whose behavioral profiles corroborated the model's predictions. This demonstrates the feasibility of flagging at-risk students from mixed survey and behavioral signals.
+
+## Connected Concepts
+- [[cs-education]]
+- [[learning-analytics]]
+- [[self-efficacy]]
+- [[motivation]]
+- [[student-engagement]]
+- [[assessment]]
+- [[personalized-learning]]
+- [[student-modeling]]
+
+## Connected Articles
+- [[ai-writes-code-student-writes-model-2026]] — AI Writes Code, Student Writes Model
+- [[ai-literacy-equity-programming-policy]] — AI Literacy, Equity and Programming Policy
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual Tutoring and Computer-Assisted Learning Take-Up
+- [[affective-text-wearable-student-health]] — Affective Text and Wearable Student Health
+
+## Citation
+Ruhan, A. I., Naeem, G. M., Rafi, R. I., Mim, S. A., Opi, N. B., Chowdhury, D. F., & Sadi, M. R. K. (2026). [Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs](https://arxiv.org/abs/2608.28618). arXiv:2608.28618.
+
+---
+
 ## [Preferred Scaffolding Does Not Lead to Better Learning Performance: Empirical Evidence from AI-Supported Mathematical Modelling](https://edtechdev.github.io/aied/articles/preferred-scaffolding-ai-mathematical-modelling/)
 
 > **Synthesis:** Zhu, Yang, and Yang (2026) investigated how different [[student-ai-interaction|AI interaction]] roles function as [[pedagogical-agent|scaffolding strategies]] in AI-assisted mathematical modelling. In a randomized within-subjects experiment with 26 university students, they compared five AI roles — Tutor, [[teacher-role|Teaching]] Assistant, Peer, Excellent Student, and Struggling Student — on modelling competency, role preference, and learning experience. Students demonstrated higher modelling competency with the Peer and Teaching Assistant roles, which fostered [[collaborative-learning|collaborative]] reasoning and co-construction of ideas, yet expressed stronger preferences for the Tutor and Excellent Student roles offering explicit guidance. The study reveals a notable divergence between learning performance and role preference, highlighting the importance of balancing cognitive [[scaffolding]] with collaborative sense-making in [[math-education|mathematics]] education.
@@ -61172,6 +61275,43 @@ Hashmi, S. F. A., & Rebello, N. S. (2026). [*A Bottom-Up Taxonomy of Student Dis
 
 ---
 
+## [Socrates Went Nuclear: Comparing Interaction Strategies for AI Systems in a Learning Context Using Brain Sensing](https://edtechdev.github.io/aied/articles/socratic-nuclear-ai-learning/)
+
+A randomized study of 50 participants comparing three designs for user-[[generative-ai|AI]] interaction in a learning context using [[affective-computing|brain sensing]] (a Muse EEG headband): (1) an unrestricted conversational bot like ChatGPT, (2) a pedagogically constrained [[socratic-method|Socratic]]-mode bot that guides through hints without giving final answers, and (3) an adaptive mode that limits the number of questions the user can ask.
+
+### Learning outcomes
+
+The **unrestricted [[conversational-ai|chatbot]] produced higher learning gains (delta)** than both constrained modes (*p* < .03, *d* > 0.80). This is a striking counter-result to the common assumption that pedagogically constrained interactions always produce deeper learning. On the nuclear-safety knowledge task, participants with free access to the chatbot learned more factual content than those restricted by Socratic or [[scaffolding|adaptive scaffolding]].
+
+### Cognitive engagement via EEG
+
+The **adaptive condition generated significantly higher EEG [[student-engagement|engagement]]** (*p* = .018). Constraining access to the AI increased measured cognitive engagement even though it produced lower overall learning gains in the immediate post-test. This points to a potential trade-off between the depth of cognitive processing and short-term factual retention.
+
+### Discussion cluster analysis
+
+Cluster analysis of chatbot usage and discussion patterns showed that users in the different conditions interacted with the AI in qualitatively different ways. The findings complicate the assumption that restricting AI access reliably improves learning, and suggest the relationship between interaction strategy, cognitive engagement, and [[learning-gains|learning outcomes]] is more nuanced than a simple "less AI = better learning" story.
+
+## Connected Concepts
+- [[socratic-method]]
+- [[generative-ai]]
+- [[student-engagement]]
+- [[affective-computing]]
+- [[cognitive-psychology]]
+- [[intelligent-tutoring]]
+- [[assessment]]
+- [[cognitive-offloading]]
+
+## Connected Articles
+- [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — AI Tutors vs Tenacious Myths
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: Student Cognitive Evolution Agent
+- [[inside-llm-student-simulator-reasoning-2026]] — Inside an LLM Student Simulator's Reasoning
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual Tutoring and Computer-Assisted Learning Take-Up
+
+## Citation
+Clin Deffarges, A., Kosmyna, N., & Maes, P. (2026). [Socrates went Nuclear: Comparing Interaction Strategies for AI systems in a Learning Context using Brain Sensing](https://arxiv.org/abs/2609.00584). arXiv:2609.00584.
+
+---
+
 ## [The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations](https://edtechdev.github.io/aied/articles/socratic-tests-conversational-assessment/)
 
 > **Ilya Mikhelson** — Submitted to Computers and Education: Artificial Intelligence (2026).
@@ -63008,6 +63148,48 @@ The paper's contribution is therefore modest but real: it documents, in a small 
 ## Citation
 
 Oladosu, A.-A. (2026). [*Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning*](https://osf.io/preprints/edarxiv/ur5w8_v1/). EdArXiv preprint.
+
+---
+
+## [StudentSim: Training LLM-based Student Simulators](https://edtechdev.github.io/aied/articles/studentsim-llm-student-simulators/)
+
+A training framework for per-student AI [[simulating-students|student simulation]] built on two joint requirements: **behavioral fidelity (F)** — how well the simulator matches a student's own responses — and **guidance responsiveness (R)** — how reliably it updates toward where tutor guidance leads. The accompanying [[benchmark]], StudentSimEval, casts public learner corpora (chess, second-language English writing, mathematics) into a standardized per-student protocol, then fits and scores any simulator on the same held-out records.
+
+### Two-stage pooled-then-specialized pipeline
+
+Rather than relying on a single model, StudentSim trains a shared pool of behavioral patterns across all students in a domain, then specializes a lightweight per-student adapter for each individual. This pool-then-specialize design lets the simulator capture both the general structure of a domain and the idiosyncratic response tendencies of each learner.
+
+The resulting reference family of 60 individualized simulators is strong on both axes across all three domains, outperforming:
+1. **domain-specific state-tracking** models, which fit behavior well but are weak on guidance responsiveness (R)
+2. **Prompt-only [[llm]] role-play**, which follows a persona but is weak on behavioral fidelity (F)
+
+### Proof of concept: simulators as tutor reward
+
+As a proof of concept, a frozen StudentSim was used as the reward in a chess-tutor [[reinforcement-learning|RL]] loop. Expert humans rated the resulting tutor as more accurate, better-guided, and more personalized than tutors trained with a frontier-LLM-simulator reward or the baseline model with no RL. This shows a trained student simulator can directly drive [[intelligent-tutoring|AI tutor]] improvement, replacing costly and sparse human feedback signals.
+
+### Future direction: learning dynamics
+
+Behavioral fidelity and guidance responsiveness capture a student's state and its one-step update under guidance. The authors identify reproducing the fuller learning dynamics — how a student acquires, retains, and forgets knowledge across many interactions or through self-learning — as the deeper foundation of a simulator's value for tutor optimization and the direction StudentSim opens toward.
+
+## Connected Concepts
+- [[simulating-students]]
+- [[intelligent-tutoring]]
+- [[student-modeling]]
+- [[personalized-learning]]
+- [[reinforcement-learning]]
+- [[llm]]
+- [[generative-ai]]
+- [[ai-education]]
+
+## Connected Articles
+- [[inside-llm-student-simulator-reasoning-2026]] — Inside an LLM Student Simulator's Reasoning
+- [[history-aware-student-simulation]] — History-Aware Student Simulation
+- [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation in Education
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: Student Cognitive Evolution Agent
+- [[deeptutor]] — DeepTutor
+
+## Citation
+Yang, K., Wang, C., Galley, M., Zhai, C., Singh, C., Inala, J. P., Gao, J. (2026). [StudentSim: Training LLM-based Student Simulators](https://arxiv.org/abs/2609.01591). arXiv:2609.01591.
 
 ---
 

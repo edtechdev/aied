@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-02T09:10:56-04:00"
 type: concept
 tags: [motivation, student-experience, student-engagement, affective-computing, self-determination-theory, ai-education]
 audience: [learners]
@@ -87,3 +87,4 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
+- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
