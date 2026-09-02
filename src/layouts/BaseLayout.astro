@@ -76,12 +76,12 @@ const recentConcepts = concepts
 // Formatted item arrays for the RecentActivity component
 const recentArticleItems = recentArticles.map(a => ({
   title: a.data.title,
-  url: `/aied/articles/${a.id.replace('.md', '')}`,
+  url: `/aied/articles/${a.id.replace('.md', '')}/`,
   date: fmtDateTime(a.data.created),
 }));
 const recentConceptItems = recentConcepts.map(c => ({
   title: c.data.title,
-  url: `/aied/concepts/${c.id.replace('.md', '')}`,
+  url: `/aied/concepts/${c.id.replace('.md', '')}/`,
   date: fmtDateTime(c.data.updated || c.data.created),
 }));
 ---
@@ -1012,7 +1012,7 @@ const recentConceptItems = recentConcepts.map(c => ({
 
         <div class="sidebar-panel" id="sidebar-panel-concepts" role="tabpanel" data-sidebar-panel="concepts">
           <div class="sidebar-heading">
-            <a href="/aied/concepts/ai-education">AI in Education</a>
+            <a href="/aied/concepts/ai-education/">AI in Education</a>
             <span class="sidebar-count">{indexedCount} concepts</span>
           </div>
           {conceptIndex.map((section, si) => (
@@ -1027,7 +1027,7 @@ const recentConceptItems = recentConcepts.map(c => ({
                       <div class="nav-group-label">{group.label}</div>
                       <ul class="nav-list">
                         {items.map(slug => (
-                          <li><a href={`/aied/concepts/${slug}`}>{conceptMap[slug]}</a></li>
+                          <li><a href={`/aied/concepts/${slug}/`}>{conceptMap[slug]}</a></li>
                         ))}
                       </ul>
                     </div>

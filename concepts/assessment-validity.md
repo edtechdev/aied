@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-02T04:41:00-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education]
@@ -29,6 +29,7 @@ confidence: high
 - **Cross-LLM construct-irrelevant variance in conversation-based assessment:** [[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]] shows that even for a single conversational turn, the semantic content of [[llm|LLM]]-generated replies varies across models and conversational-context conditions. Within-model similarity consistently exceeds between-model similarity (0.715–0.795 vs. 0.443–0.604), and adding chat history meaningfully changes response content (median cross-history similarity ~0.40–0.45). Because the same learner input can receive semantically different replies depending on the underlying model, prompting and context alone cannot preserve response consistency — introducing potential **construct-irrelevant variance** that threatens validity, reliability, and fairness. Maintaining consistent assessment conditions as LLMs evolve is therefore an *infrastructure* challenge (symbolic rules, response templates, validation layers), not merely a [[prompt-engineering]] one.
 - **Latent-structure validity across humans and LLMs:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] add a deeper validity condition: even when an LLM scores well, transferring human score interpretations requires similarity in the *latent structure* of responses. Comparing six [[multimodal]] LLMs to human cohorts on [[chemistry-education|chemistry]] and [[quantitative-research|quantitative]]-reasoning instruments, they find LLM–human factor structures consistently diverge (LLM–human congruence below the human–human baseline), so performance on a human-normed exam is weak evidence about LLM abilities on the constructs the items were designed to measure.
 - **Consequential validity:** Do AI-mediated assessments have fair consequences? [[ai-scoring-language-bias-physics|Language bias studies]] show that AI scoring can disadvantage non-native speakers.
+- **AI-driven grade inflation as a validity threat:** [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] identifies a novel, technology-driven mechanism of [[summative-assessment|grade]] inflation operating *upstream of grading* — on the production of graded work. In a difference-in-differences study of 500,000+ grades across 319 courses (2018–2025), courses with more AI-exposed tasks (writing, coding) saw the share of A grades rise by 13 percentage points after ChatGPT's release, with grade-distribution compression. A triple-differences analysis shows the effect concentrates in homework-heavy courses — evidence that AI **task displacement** (AI performing graded tasks before instructors observe them) inflates grades without a corresponding rise in skill. This reduces the comparability of grades across courses and erodes the informational value of transcripts in ways difficult to detect from grade distributions alone.
 - **Validity of AI-generated items:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that AI-generated questions, validated via Bayesian [[item-response-theory|IRT]], achieve difficulty and discrimination on par with expert-written standardized-exam items (reliability 0.79 vs. 0.72) — supporting the validity of course-tailored AI-generated assessments when backed by psychometric evaluation.
 - **Authentic assessment:** [[authentic-assessment]] and [[ai-assessment-scale-reform|the AI Assessment Scale]] propose validity-preserving assessment redesigns.
 - **Confidence and calibration:** [[automated-assessment|Confidence-aware systems]] improve validity by flagging uncertain assessments.
@@ -62,6 +63,7 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning for GPT-based L2 listening item generation (Aryadoust & Wong 2026)
 - [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)
 - [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
+- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)

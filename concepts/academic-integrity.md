@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-02T04:42:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -31,6 +31,7 @@ The arrival of generative AI has not created the need for academic integrity —
 - **Structural vulnerability of grading:** [[biology-grade-vulnerability-genai-2026|Chan et al.]] provide a concrete case study of how current grading is structurally exposed to AI-mediated dishonesty. In a [[biology-education|biology]] department, instructors perceived only in-person proctored exams as minimally vulnerable; outside-of-class assignments were seen as highly vulnerable, leaving about a third of a student's grade highly vulnerable and 80% at least somewhat vulnerable. This frames the integrity problem as partly a *grading-design* problem, motivating rebalancing toward proctored or in-class assessment and [[authentic-assessment|authentic assessment]] designs that are harder to outsource.
 - **Validity as the organizing frame:** [[assessment-validity]] reframes integrity as an evidential problem. [[authentic-products-authenticated-processes-2026|Authentic assessment research]] introduces **construct substitution** — an AI-generated product is attributed to the student, so the assessment infers the tool's capability rather than the student's. The evidential question survives any AI policy: whether use is prohibited, permitted, or required, the assessment must still generate evidence warranting the inference being drawn.
 - **Policy development:** [[genai-policies-higher-ed-computing|Institutional AI policies]] and [[educational-policy-ai]] research examine how universities develop and communicate integrity expectations — and why abstract policy statements so often fail.
+- **Integrity framing is giving way to task-based regulation:** [[chirikov-regulate-ai-syllabi-2026|Chirikov's (2026)]] longitudinal study of 31,000+ course syllabi shows instructors' AI policies shifting away from a purely integrity-based frame: academic-integrity mentions in syllabi fell from 63% (Spring 2023) to 49% (Fall 2025), while references to AI's impact on learning rose from 1% to 29%. Instructors increasingly regulate AI **by task type** — restricting it for drafting/reasoning (where AI would displace learning) and permitting it for editing/proofreading and study support — rather than applying a blanket integrity prohibition. This reframes integrity policy as a task-level design decision rather than a binary rule.
 
 ### The rationalization problem
 
@@ -105,6 +106,8 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 
 ## Connected Articles
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi; integrity framing declining (Chirikov 2026)
+- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
 - [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
 - [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations

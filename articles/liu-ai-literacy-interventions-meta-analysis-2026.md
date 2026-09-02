@@ -1,7 +1,7 @@
 ---
 title: "AI Literacy Interventions in Education: A Meta-Analysis of Effects and Moderators"
 created: "2026-08-24T12:34:00-04:00"
-updated: "2026-08-24T14:35:00-04:00"
+updated: "2026-09-02T03:28:16-04:00"
 type: article
 tags: [ai-literacy, meta-analysis-systematic-review, ai-ed-evaluation, pedagogy, assessment, higher-ed, k-12]
 audience: [instructors, faculty development, researchers]
@@ -18,14 +18,40 @@ This meta-analysis answers the question of how — and under what conditions —
 
 The paper's central argument is that AI literacy education should move beyond knowledge and conceptual understanding toward skills, practices, [[ethics]], and attitudes. This shift is best supported, the authors suggest, by integrated pedagogies that combine conceptual learning, hands-on making, reflection, and GenAI-supported tools — including constructionist and [[constructivist|socio-constructivist]] approaches such as project- and [[problem-based-learning]], [[inquiry-based-learning|inquiry-based learning]], and [[experiential-learning]] environments. The geographic variation highlights the need for [[culturally-relevant-pedagogy|culturally relevant]], context-sensitive interventions that respond to local educational priorities, technological conditions, and learner needs.
 
+## Study Design and Analysis
+
+- **[[meta-analysis-systematic-review|PRISMA]]-guided search** of Web of Science, Scopus, ERIC, and PsycINFO retrieves 7,330 candidate records
+
+- **Hedges' g effect sizes** were computed for posttest and pretest-posttest designs;; eight outlying values were excluded,leaving 59 studies,172 effect sizes,and 7,211 participants.
+
+- **A three-level random-effects model** partitioned variance,with about 71% sitting between studies;; coding agreement was strong(Cohen's κ ≈ 0.87)and publication-bias checks(fail-safe N over 190 thousand)were reassuring.
+
 ## Key Findings
 
 - **59 studies, 172 effect sizes, 7,211 participants** synthesized via a three-level meta-analysis.
 - **Large overall effect:** g = 0.837, p < .001, with a wide prediction interval [−0.292, 1.966] indicating considerable variation.
-- **Geography matters:** interventions in East Asia and Europe yielded stronger effects than those in North America.
-- **Knowledge-focused interventions outperformed** those targeting skills, attitudes, or ethics.
-- Larger (nonsignificant) effects were observed for mixed or reflective pedagogies, generative AI tools, and performance tasks.
+- **Geography matters:** East Asia(g ≈ .78)and Europe(≈ .96)outperformed North America(≈ .66),likely reflecting an access-and-engagement-over-mastery focus there.
+- **Knowledge-focused interventions outperformed** others:knowledge gains(g ≈ .97)exceeded skills(≈ .67),attitudes(≈ .68),and ethics(≈ .64),all significant — durable dispositions lag understanding.
+- (Nonsignificant) descriptives: mixed and reflective pedagogies, generative-AI tools,and performance tasks each showed numerically larger effects,tentative signals worth testing.
 - **Conclusion:** AI literacy education should move beyond knowledge toward skills, practices, ethics, and attitudes, via integrated and reflective pedagogies.
+
+## Implications for Practice
+
+- **Design for durable dispositions.** Because knowledge gains dominate while skills,attitudes,and ethics lag,educators should pair concept lessons with sustained problem-solving,critical output evaluation,and ethics discussions,not single-shot content delivery.
+
+
+
+- **Favor performance tasks over self-reports** where feasible — they captured larger gains and are less prone to overstating learning or missing misconceptions.
+
+
+
+- **Adapt to context rather than standardize.** The regional gap points to [[culturally-relevant-pedagogy|culturally relevant]] design:fitting programs to local curricula,technological access,and policy contexts instead of one-size-fits-all models.
+
+
+
+- **Expect heterogeneity.** With a prediction interval spanning negative to nearly two,no intervention is guaranteed effective in a given classroom — pilot,and iterate rather than assuming transfer.
+
+
 
 ## Connected Concepts
 
@@ -37,6 +63,9 @@ The paper's central argument is that AI literacy education should move beyond kn
 - [[higher-ed]] — a common intervention setting
 - [[k-12]] — a common intervention setting
 - [[project-based-learning]] — an integrated pedagogy found effective
+- [[problem-based-learning]] — an authentic real-world pedagogy common in the reviewed studies
+- [[inquiry-based-learning]] — an inquiry-driven pedagogy aligning with constructive learning
+- [[experiential-learning]] — a hands-on learning-by-doing approach supporting conceptual growth
 
 ## Connected Articles
 

@@ -20,10 +20,10 @@ const isArticle = articles.some(a => a.id.replace('.md', '') === slug);
 const isConcept = concepts.some(c => c.id.replace('.md', '') === slug);
 
 if (isArticle) {
-  return Astro.redirect(`/aied/articles/${slug}`, 301);
+  return Astro.redirect(`/aied/articles/${slug}/`, 301);
 }
 if (isConcept) {
-  return Astro.redirect(`/aied/concepts/${slug}`, 301);
+  return Astro.redirect(`/aied/concepts/${slug}/`, 301);
 }
 return Astro.redirect('/aied/', 301);
 ---

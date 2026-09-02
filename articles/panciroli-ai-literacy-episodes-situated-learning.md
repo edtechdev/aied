@@ -65,6 +65,7 @@ This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated 
 
 ## Connected Articles
 
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — meta-analysis of AI literacy intervention effectiveness
 - [[vargas-situated-learning-ai-review-2024]] — Systematic review linking situated learning and AI
 
 ## Citation

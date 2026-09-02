@@ -1,8 +1,8 @@
 # Index
 
-Last updated: 2026-09-01 | Total pages: 1217
+Last updated: 2026-09-02 | Total pages: 1219
 
-Articles: 1018 | Concepts: 183 | FAQs: 16
+Articles: 1020 | Concepts: 183 | FAQs: 16
 
 ## Concepts
 
@@ -281,6 +281,8 @@ Articles: 1018 | Concepts: 183 | FAQs: 16
 - [[chemistry-education]] — Chemistry Education
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Unpacking the Heterogeneity of Pre-service Teachers' ChatGPT Acceptance: A Latent Profile Analysis Across STEM and Non-STEM Disciplines
 - [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
+- [[chirikov-ai-grade-inflation-2026]] — Artificial Intelligence and Grade Inflation
+- [[chirikov-regulate-ai-syllabi-2026]] — How Instructors Regulate AI in College: Evidence from 31,000 Course Syllabi
 - [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
 - [[chudziak-ai-math-tutoring-platform]] — AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education
 - [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education

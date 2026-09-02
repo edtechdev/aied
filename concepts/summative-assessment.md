@@ -1,7 +1,7 @@
 ---
 title: Summative Assessment
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-02T04:44:00-04:00"
 type: concept
 tags: [summative-assessment, assessment, authentic-assessment, academic-integrity, higher-ed, k-12, ai-ed-evaluation]
 research_method: [educational measurement]
@@ -16,7 +16,7 @@ confidence: high
 - Summative assessment certifies what a student has learned at the end of a course, while formative assessment supports learning during it. Where have you seen the line between these two blur, and why might it matter that they serve different functions?
 - The page frames generative AI as reshaping summative assessment in two directions at once: AI scores exams, and students use AI to evade exam-based measurement. Which of these two pressures do you think is the bigger threat to validity, and why?
 - If unproctored or take-home tasks lose validity because AI can produce the answers, what does that imply for how assessments should be designed — and what might be sacrificed in the process?
-- Research cited on the page finds LLMs do not grade essays the same way humans do. If automated scoring is fast and consistent but grades differently, is that a fairness problem, an opportunity, or both?
+- [[research-methods-aied|Research]] cited on the page finds LLMs do not grade essays the same way humans do. If automated scoring is fast and consistent but grades differently, is that a [[bias-mitigation|fairness]] problem, an opportunity, or both?
 - What does a high-stakes result (a grade, a credential, admission) mean if the work behind it could have been produced by AI? How would you design an assessment you could actually trust?
 
 ## Introduction
@@ -28,7 +28,7 @@ Summative assessment serves a fundamentally different function from formative as
 The knowledge base's research documents how generative AI has fundamentally reshaped the summative-assessment landscape in two directions: AI is used to **score** exams at scale, and AI can be used by students to **evade** exam-based measurement of their own learning.
 
 - **AI as scorer.** Summative assessment increasingly relies on [[automated-assessment|automated scoring]] of exams, essays, and short answers. [[llms-do-not-grade-essays-like-humans-2026|Research on LLM essay grading]] finds [[llm|LLM]] do not grade essays the same way humans do, raising validity and fairness questions for high-stakes automated scoring. [[llm-automated-assessment-student-self-explanations|LLMs assessing student self-explanations]] and [[cong-confidence-asag-2026|automatic short-answer grading]] explore the reliability of LLM scoring in summative contexts, while [[psyscore-essay-scoring-zpd-feedback|psychometrically-aware frameworks]] seek to keep automated scoring trustworthy and adaptive.
-- **AI as evasion.** Because generative AI can produce answers to written questions, unproctored and take-home summative tasks lose validity: [[generative-ai-reduced-study-time-math|proctored, unassisted measures are essential]] because non-proctored performance is inflated by AI, and [[generative-ai-guardrails-harm-learning|guardrailed (hint-not-answer) tools]] can eliminate the exam penalty that unguarded AI causes.
+- **AI as evasion.** Because generative AI can produce answers to written questions, unproctored and take-home summative tasks lose validity: [[generative-ai-reduced-study-time-math|proctored, unassisted measures are essential]] because non-proctored performance is inflated by AI, and [[generative-ai-guardrails-harm-learning|guardrailed (hint-not-answer) tools]] can eliminate the exam penalty that unguarded AI causes. [[chirikov-ai-grade-inflation-2026|Chirikov's (2026)]] quasi-experiment on 500,000+ grades makes the mechanism concrete: after ChatGPT's release, courses with more AI-exposed tasks saw the share of A grades rise by 13 percentage points, and the effect concentrated in **homework-heavy courses** (an additional 16 pp in the triple-differences estimate) — direct evidence that unproctored homework, not genuine [[learning-gains|learning gains]], is where AI inflates summative outcomes.
 - **AI-generated exams.** [[assessing-quality-ai-generated-exams-field-2025|A large-scale field study]] and [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment research]] examine whether AI can *generate* high-quality exams and assessment tasks — an emerging summative-design use of AI.
 
 ## AI-resistant summative formats
@@ -44,7 +44,7 @@ High-stakes summative assessment — entrance exams, standardized tests, and cer
 
 ## Summative vs. formative in the AI era
 
-The knowledge base's assessment literature consistently emphasizes that [[assessment]] is most effective when it combines [[formative-assessment|formative]] and summative functions — but the AI era sharpens the distinction. Because AI inflates performance on low-stakes, unproctored, and process-hidden tasks, **summative (especially proctored/closed-book/in-person) measures become the crucial check** on whether learning actually occurred. This motivates assessment redesign that keeps authentic, AI-resistant summative tasks (oral exams, code-review interviews, proctored examinations, process-based portfolios) as the anchor of [[academic-integrity|integrity]] while using formative assessment to support learning along the way. See [[authentic-assessment]] for the constructive design response.
+The knowledge base's assessment literature consistently emphasizes that [[assessment]] is most effective when it combines [[formative-assessment|formative]] and summative functions — but the AI era sharpens the distinction. Because AI inflates performance on low-stakes, unproctored, and process-hidden tasks, **summative (especially proctored/closed-book/in-person) measures become the crucial check** on whether learning actually occurred. This motivates assessment redesign that keeps authentic, AI-resistant summative tasks (oral exams, code-review interviews, proctored examinations, process-based [[eportfolio|portfolios]]) as the anchor of [[academic-integrity|integrity]] while using formative assessment to support learning along the way. See [[authentic-assessment]] for the constructive design response.
 
 ## Implications for AI in education
 
@@ -73,6 +73,7 @@ The knowledge base's assessment literature consistently emphasizes that [[assess
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant summative assessment
 
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: proctored/closed-book exam evidence
+- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation; homework-heavy courses (Chirikov 2026)
 - [[generative-ai-reduced-study-time-math]] — Faster completion, less learning: proctored measures essential
 - [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails harms learning
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
