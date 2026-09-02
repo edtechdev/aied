@@ -12,7 +12,13 @@
     "name": "Doug Holton",
     "contactUrl": "https://mastodon.social/@dougholton"
   },
-  "license": "CC0 1.0 Universal Public Domain Dedication",
+  "license": {
+    "name": "CC0 1.0",
+    "fullName": "CC0 1.0 Universal Public Domain Dedication",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "image": "/aied/cc0.png",
+    "imageAlt": "CC0 Public Domain"
+  },
   "theme": {
     "background": "#0d1418",
     "primary": "#15212b"
