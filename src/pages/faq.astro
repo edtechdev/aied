@@ -26,7 +26,7 @@ const sorted = faqs.slice().sort((a, b) => (a.data.created || '').localeCompare(
 
   <div class="faq-list">
     {sorted.map(f => {
-      const href = `/aied/faqs/${f.id.replace('.md', '')}`;
+      const href = `/aied/faqs/${f.id.replace('.md', '')}/`;
       return (
         <a href={href} class="faq-item">
           {f.data.title}

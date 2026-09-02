@@ -61,6 +61,7 @@ The nine studies were implemented in heterogeneous learning contexts, making cro
 
 ## Connected Articles
 
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — meta-analysis of AI literacy intervention effectiveness
 - [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
 - [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

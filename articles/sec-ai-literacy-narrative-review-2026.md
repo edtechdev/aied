@@ -47,6 +47,7 @@ As a narrative review, the study faces potential selection bias and subjective i
 - [[tpack]]
 ## Connected Articles
 
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — meta-analysis of AI literacy intervention effectiveness
 - [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy
 - [[ai-tpack-preservice-math-teachers]] — AI-TPACK and Pre-Service Math Teachers
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework

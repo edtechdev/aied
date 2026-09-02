@@ -97,7 +97,7 @@ if (connectedFaqs.length > 0) {
         <ul style="list-style:none;padding:0;margin:0.5rem 0 0 0;">
           {connectedFaqs.map(f => (
             <li style="padding:0.5rem 0;border-bottom:1px solid var(--card-border-color);">
-              <a href={`/aied/faqs/${f.id.replace('.md', '')}`} style="font-weight:500;color:var(--primary);text-decoration:none;">
+              <a href={`/aied/faqs/${f.id.replace('.md', '')}/`} style="font-weight:500;color:var(--primary);text-decoration:none;">
                 ❓ {f.data.title}
               </a>
             </li>

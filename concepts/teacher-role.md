@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-02T04:43:00-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
@@ -85,6 +85,7 @@ Academic integrity with AI is a *design* problem, not a policing problem. Instru
 - **Reframing integrity around process and authorship.** Instead of detection, emphasize [[academic-integrity|academic integrity]] as transparent, documented use. [[bozkurt-ghost-students-agentic-ai-2026|Agentic AI and ghost-student research]] shows the integrity risk shifts when students deploy [[agentic-ai|AI agents]] on their behalf, so instructors must define what authorship means when the "ghost" is an AI.
 - **Using disclosure and framing.** [[framing-ai-use-for-students|How AI use is framed for students]] — whether as a crutch or a legitimate tool — shapes whether they disclose it. Transparency norms (e.g., AI-use disclosure) reduce the incentive to hide AI use.
 - **Designing out the incentive to cheat.** Authentic, process-based, and in-person assessments (oral exams, [[eportfolio|portfolios]], observed [[problem-solving]]) make outsourcing less attractive than AI-detection tools do. [[ai-assessment-scale-reform|Assessment scales]] and [[authentic-assessment|authentic assessment]] are the constructive alternative to [[ai-detection|detection]] arms races.
+- **Task-level [[regulation]] is how instructors actually govern AI.** [[chirikov-regulate-ai-syllabi-2026|Chirikov's (2026)]] study of 31,000+ course syllabi shows instructors increasingly acting as *task-level regulators* rather than applying blanket rules: they restrict AI for drafting/revising (79% of courses) and reasoning/problem-solving (65%), permit it for editing/proofreading (83%) and study support (80%), and leave ideation/planning most contested (46% permit / 54% restrict). This differentiation — built on which tasks AI displaces versus augments — is a concrete, instructor-driven alternative to adoption-or-ban policy and gives the teacher-role a central place in [[educational-policy-ai|policy]] formation.
 
 ## Connecting teaching to learning design
 
@@ -141,6 +142,8 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 
 ## Connected Articles
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi; task-level regulation (Chirikov 2026)
+- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
 - [[ying-genai-journalism-assessment-2026]]

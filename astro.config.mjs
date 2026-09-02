@@ -17,7 +17,7 @@ export default defineConfig({
   site: origin,
   base: siteConfig.basePath,
   output: 'static',
-  trailingSlash: 'never',
+  trailingSlash: 'ignore',
   redirects: {
     '/use-with-ai': '/aied/ai',
   },
