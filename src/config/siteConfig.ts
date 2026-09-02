@@ -20,7 +20,13 @@ export interface SiteConfig {
     name: string;
     contactUrl: string;
   };
-  license: string;
+  license: {
+    name: string;
+    fullName: string;
+    url: string;
+    image: string;
+    imageAlt: string;
+  };
   theme: {
     background: string;
     primary: string;
