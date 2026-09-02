@@ -439,7 +439,7 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
     public domain under a <strong>Creative Commons CC0 1.0 Universal (CC0)</strong>
     license - no rights reserved. You may copy, modify, distribute, and use the
     content for any purpose without asking permission.</p>
-    <p class="cc0"><img src="data:image/png;base64,{cc0_b64}" alt="CC0 Public Domain" width="88" height="31" /></p>
+    <p class="cc0"><img src="data:image/png;base64,{cc0_b64}" alt="" aria-hidden="true" width="88" height="31" /></p>
     <p><strong>&#9888;&#65039; Disclaimer:</strong> AI-generated output may contain
     inaccuracies or errors.</p>
     <p>This document contains the concept and FAQ pages, but not the hundreds of
@@ -521,7 +521,7 @@ def build_pdf():
   public domain under a <strong>Creative Commons CC0 1.0 Universal (CC0)</strong>
   license - no rights reserved. You may copy, modify, distribute, and use the
   content for any purpose without asking permission.</p>
-  <p class="cc0"><img src="data:image/png;base64,{cc0_b64}" alt="CC0 Public Domain" width="88" height="31" /></p>
+  <p class="cc0"><img src="data:image/png;base64,{cc0_b64}" alt="" aria-hidden="true" width="88" height="31" /></p>
   <p><strong>&#9888;&#65039; Disclaimer:</strong> AI-generated output may contain
   inaccuracies or errors.</p>
   <p>This document contains the concept and FAQ pages, but not the hundreds of
