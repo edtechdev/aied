@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-02T08:40:00-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 audience: [learners]
@@ -121,3 +121,4 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[vargas-situated-learning-ai-review-2024]] — Situated learning and AI review
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Evidence on the personalization-at-scale promise
 - [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review: adaptive pathways & recommenders are a top AI integration use case in higher ed

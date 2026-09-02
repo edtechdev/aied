@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-02T08:40:00-04:00"
 type: concept
 tags: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy]
 
@@ -115,3 +115,4 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review: LLM/ChatGPT platforms dominate reported higher-ed AI integration

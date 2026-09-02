@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-02T08:40:00-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, educational-development, student-experience, academic-integrity]
 audience: [learners, instructors, faculty development, administrator]
@@ -27,7 +27,7 @@ AI in higher education research spans every function of the university: from [[i
 
 ### Institutional transformation
 
-[[institutional-change-framework-ai|Institutional change frameworks]] analyze how universities adapt to AI — not just at the classroom level but across policy, governance, and organizational structure. [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] reframes faculty readiness as a sociotechnical alignment challenge involving epistemic, pedagogical, institutional, and quality domains. [[universities-ai-era-rethinking|Rethinking universities in the AI era]] examines whether current institutional models can accommodate AI-driven education. Adoption is not uniform: [[alrahmi-org-drivers-ai-adoption-he-2026|organizational-driver research]] identifies what enables or blocks institutional uptake, and [[ai-uk-higher-education-policy-2026|national policy analyses]] show how systemic context shapes university responses. A concrete institutional blueprint comes from [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]], who documents Lingnan University's repositioning as a "Research-Intensive Liberal Arts Institution in the Digital Era," mandating GenAI literacy for all undergraduates and embedding digital literacy across the Common Core while developing a human-in-the-loop model that foregrounds [[ethics|ethical]] reasoning and critical judgment — arguing the AI-for-education shift is an intellectual transformation, not technocentric augmentation.
+[[institutional-change-framework-ai|Institutional change frameworks]] analyze how universities adapt to AI — not just at the classroom level but across policy, governance, and organizational structure. [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] reframes faculty readiness as a sociotechnical alignment challenge involving epistemic, pedagogical, institutional, and quality domains. [[universities-ai-era-rethinking|Rethinking universities in the AI era]] examines whether current institutional models can accommodate AI-driven education. Adoption is not uniform: [[alrahmi-org-drivers-ai-adoption-he-2026|organizational-driver research]] identifies what enables or blocks institutional uptake, and [[ai-uk-higher-education-policy-2026|national policy analyses]] show how systemic context shapes university responses. A concrete institutional blueprint comes from [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]], who documents Lingnan University's repositioning as a "Research-Intensive Liberal Arts Institution in the Digital Era," mandating GenAI literacy for all undergraduates and embedding digital literacy across the Common Core while developing a human-in-the-loop model that foregrounds [[ethics|ethical]] reasoning and critical judgment — arguing the AI-for-education shift is an intellectual transformation, not technocentric augmentation. Macro-level mapping of 22 higher-education AI-integration interventions ([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh et al., 2026]]) reinforces that transformation remains more aspiration than reality: graded on the SAMR model, most interventions sit at Substitution or Augmentation, integration is concentrated in medicine, engineering, and computer science with little humanities presence, and evidence skews to North America and Asia with minimal [[global-south|Global South]] representation.
 
 ### Student experience at scale
 
@@ -135,3 +135,4 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
 - [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review mapping AI integration in higher ed via FACETS + SAMR frameworks (AlSheikh et al. 2026)
