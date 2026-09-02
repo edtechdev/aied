@@ -54,4 +54,4 @@ Teachers increasingly act as [[learning-design|instructional designers]] working
 
 ## Citation
 
-Wang, Z., Liu, M., & Islam, A. Y. M. A. (2026). Reimagining teacher-AI co-design in learning task design: trends and perspectives. *Humanities and Social Sciences Communications, 13*, 757. https://doi.org/10.1057/s41599-026-06981-y
+Wang, Z., Liu, M., & Islam, A. Y. M. A. (2026). [Reimagining teacher-AI co-design in learning task design: trends and perspectives](https://doi.org/10.1057/s41599-026-06981-y). *Humanities and Social Sciences Communications, 13*, 757.

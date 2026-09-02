@@ -56,6 +56,4 @@ Designing effective [[collaborative-learning|cooperative group activities]] that
 
 ## Citation
 
-Talebzadeh, H. (2026). The Architecture of Roles in AI-Designed Group Activities: A comparative inductive analysis of novice and experienced teachers' differentiated instruction within the IAT framework. Farhangian University, Tehran, Iran. https://www.researchgate.net/publication/412207265
-
-*(Preprint/working paper; not yet peer-reviewed — confidence set to medium.)*
+Talebzadeh, H. (2026). [The Architecture of Roles in AI-Designed Group Activities: A comparative inductive analysis of novice and experienced teachers' differentiated instruction within the IAT framework](https://www.researchgate.net/publication/412207265). Farhangian University, Tehran, Iran.

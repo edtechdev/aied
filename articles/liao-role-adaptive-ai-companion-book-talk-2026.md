@@ -53,4 +53,4 @@ confidence: high
 
 ## Citation
 
-Liao, C.-Y. (2026). Beyond a single role: Justifying a role-adaptive framework for AI companions through a comparative study in elementary book talk. *Education and Information Technologies, 31*, 4879–4906. https://doi.org/10.1007/s10639-026-13958-6
+Liao, C.-Y. (2026). [Beyond a single role: Justifying a role-adaptive framework for AI companions through a comparative study in elementary book talk](https://doi.org/10.1007/s10639-026-13958-6). *Education and Information Technologies, 31*, 4879–4906.
