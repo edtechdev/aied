@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-02T10:20:00-04:00"
+updated: "2026-09-02T08:40:00-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
@@ -211,3 +211,4 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
 - [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review: scarce evidence on faculty readiness; urges faculty development and AI as a learning partner

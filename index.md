@@ -1,8 +1,8 @@
 # Index
 
-Last updated: 2026-09-02 | Total pages: 1224
+Last updated: 2026-09-02 | Total pages: 1225
 
-Articles: 1025 | Concepts: 183 | FAQs: 16
+Articles: 1026 | Concepts: 183 | FAQs: 16
 
 ## Concepts
 
@@ -180,6 +180,7 @@ Articles: 1025 | Concepts: 183 | FAQs: 16
 - [[all-girls-genai-makerspace-gender-equity-2026]] — Beyond 'Painting in Pink'
 - [[alrahmi-org-drivers-ai-adoption-he-2026]] — Exploring Organisational Drivers and Innovation Attributes of Artificial Intelligence Adoption in Higher Education
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming Nursing Education with Artificial Intelligence: A Systematic Review (2010–2025)
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping artificial intelligence integration in higher education: A systematic review using the FACETS and SAMR frameworks
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Sustainable Education in the Age of Artificial Intelligence and Digitalization: A Value-Critical Approach
 - [[amponsah-ai-acceptance-science-teachers-2026]] — Perceptions And Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
 - [[anastasia-shared-agency-partnership-framework-2026]] — Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration

@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-02T08:40:00-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk]
 
@@ -134,3 +134,4 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[all-girls-genai-makerspace-gender-equity-2026]] — All-girls GenAI makerspace workshops and gender equity in computing
 - [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review finding generative AI dominates higher-ed integration, largely at SAMR Substitution/Augmentation
