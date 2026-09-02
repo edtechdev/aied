@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 183 concepts, 1018 articles, and 16 FAQs.
+> Complete text of 183 concepts, 1025 articles, and 16 FAQs.
 
 # Concepts
 
@@ -1065,6 +1065,7 @@ The arrival of generative AI has not created the need for academic integrity —
 - **Structural vulnerability of grading:** [[biology-grade-vulnerability-genai-2026|Chan et al.]] provide a concrete case study of how current grading is structurally exposed to AI-mediated dishonesty. In a [[biology-education|biology]] department, instructors perceived only in-person proctored exams as minimally vulnerable; outside-of-class assignments were seen as highly vulnerable, leaving about a third of a student's grade highly vulnerable and 80% at least somewhat vulnerable. This frames the integrity problem as partly a *grading-design* problem, motivating rebalancing toward proctored or in-class assessment and [[authentic-assessment|authentic assessment]] designs that are harder to outsource.
 - **Validity as the organizing frame:** [[assessment-validity]] reframes integrity as an evidential problem. [[authentic-products-authenticated-processes-2026|Authentic assessment research]] introduces **construct substitution** — an AI-generated product is attributed to the student, so the assessment infers the tool's capability rather than the student's. The evidential question survives any AI policy: whether use is prohibited, permitted, or required, the assessment must still generate evidence warranting the inference being drawn.
 - **Policy development:** [[genai-policies-higher-ed-computing|Institutional AI policies]] and [[educational-policy-ai]] research examine how universities develop and communicate integrity expectations — and why abstract policy statements so often fail.
+- **Integrity framing is giving way to task-based regulation:** [[chirikov-regulate-ai-syllabi-2026|Chirikov's (2026)]] longitudinal study of 31,000+ course syllabi shows instructors' AI policies shifting away from a purely integrity-based frame: academic-integrity mentions in syllabi fell from 63% (Spring 2023) to 49% (Fall 2025), while references to AI's impact on learning rose from 1% to 29%. Instructors increasingly regulate AI **by task type** — restricting it for drafting/reasoning (where AI would displace learning) and permitting it for editing/proofreading and study support — rather than applying a blanket integrity prohibition. This reframes integrity policy as a task-level design decision rather than a binary rule.
 
 ### The rationalization problem
 
@@ -1139,6 +1140,8 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 
 ## Connected Articles
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi; integrity framing declining (Chirikov 2026)
+- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
 - [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
 - [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
@@ -1222,7 +1225,7 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - **From instructor to orchestrator:** [[teacher-ai-teaming-five-levels|Five levels of teacher-AI teaming]] and [[teacher-student-agency-orchestration|agency orchestration research]] map the spectrum from AI as tool to AI as teaching partner. At the far end, the teacher orchestrates a team that includes human learners, [[intelligent-tutoring|AI tutors]], and curriculum resources rather than delivering all content themselves.
 - **Workflow transformation:** [[ai-changing-teaching-workflows]] documents how AI shifts teacher time from content delivery to higher-value activities like individual support, [[feedback]], and [[curriculum-design|curriculum design]]. The teacher's scarcest resource — attention — is reallocated from producing materials to interpreting learners.
 - **Competency demands:** [[teacher-ai-competency|Teacher AI competency frameworks]] define what educators need to know, from basic tool fluency to pedagogically grounded orchestration. [[teacher-ai-adoption-confidence|Adoption studies]] identify the real barriers: confidence, [[governance|institutional]] support, and workload concerns.
-- **Co-design and agency:** [[teacher-authored-prompts-student-ai-dialogue|Teacher-authored prompts]] and [[gaide-vibe-coding-k12-teachers|vibe coding for teachers]] show educators as active AI designers, not passive consumers — writing the prompts and scaffolds that shape how AI behaves for their students.
+- **Co-design and agency:** [[teacher-authored-prompts-student-ai-dialogue|Teacher-authored prompts]] and [[gaide-vibe-coding-k12-teachers|vibe coding for teachers]] show educators as active AI designers, not passive consumers — writing the prompts and scaffolds that shape how AI behaves for their students. A systematic review of [[wang-teacher-ai-co-design-review-2026|teacher–AI co-design of learning tasks]] (Wang, Liu & Islam 2026) finds this co-designer stance remains uneven — the dominant mode is still AI as assistant/content generator — and [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] shows the teacher's agency as "bilingual learning designer" is what turns AI-designed group activities into differentiated, ZPD-aligned instruction.
 - **[[teacher-education|Preservice]] preparation:** [[ai-tpack-preservice-math-teachers|TPACK-based training]] and [[educational-development]] programs prepare future teachers for AI-augmented classrooms before they enter them.
 
 ### What the changing role actually looks like: concrete examples
@@ -1278,6 +1281,7 @@ Academic integrity with AI is a *design* problem, not a policing problem. Instru
 - **Reframing integrity around process and authorship.** Instead of detection, emphasize [[academic-integrity|academic integrity]] as transparent, documented use. [[bozkurt-ghost-students-agentic-ai-2026|Agentic AI and ghost-student research]] shows the integrity risk shifts when students deploy [[agentic-ai|AI agents]] on their behalf, so instructors must define what authorship means when the "ghost" is an AI.
 - **Using disclosure and framing.** [[framing-ai-use-for-students|How AI use is framed for students]] — whether as a crutch or a legitimate tool — shapes whether they disclose it. Transparency norms (e.g., AI-use disclosure) reduce the incentive to hide AI use.
 - **Designing out the incentive to cheat.** Authentic, process-based, and in-person assessments (oral exams, [[eportfolio|portfolios]], observed [[problem-solving]]) make outsourcing less attractive than AI-detection tools do. [[ai-assessment-scale-reform|Assessment scales]] and [[authentic-assessment|authentic assessment]] are the constructive alternative to [[ai-detection|detection]] arms races.
+- **Task-level [[regulation]] is how instructors actually govern AI.** [[chirikov-regulate-ai-syllabi-2026|Chirikov's (2026)]] study of 31,000+ course syllabi shows instructors increasingly acting as *task-level regulators* rather than applying blanket rules: they restrict AI for drafting/revising (79% of courses) and reasoning/problem-solving (65%), permit it for editing/proofreading (83%) and study support (80%), and leave ideation/planning most contested (46% permit / 54% restrict). This differentiation — built on which tasks AI displaces versus augments — is a concrete, instructor-driven alternative to adoption-or-ban policy and gives the teacher-role a central place in [[educational-policy-ai|policy]] formation.
 
 ## Connecting teaching to learning design
 
@@ -1334,6 +1338,8 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 
 ## Connected Articles
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi; task-level regulation (Chirikov 2026)
+- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
 - [[ying-genai-journalism-assessment-2026]]
@@ -1399,6 +1405,8 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
+- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 
 ---
 
@@ -1420,7 +1428,7 @@ Learning design bridges AI capabilities and effective pedagogy. Where [[curricul
 
 ### Key research themes
 
-**AI-assisted content creation** is the most directly transformative application. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]** presents a six-phase architecture integrating Generative AI with LaTeX and Python to automate [[stem-education|STEM]] materials creation, validated across 8 modules and 28 project contexts with student quality ratings of 8.5-9.9/10. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** uses a multi-agent framework structured around the ADDIE model, with role-based agents (Teaching Faculty, Instructional Designer, Course Coordinator) collaborating to generate complete course materials. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]** provides a structured pipeline for adaptive [[pedagogy|pedagogical]] video generation grounded in course corpora, demonstrating that explicit pedagogical structure — not just AI fluency — is essential for educational content generation. [[generative-ai|Generative AI]] platforms can also embody learning-design principles in the content they produce: [[ai-modelling-problem-generation-platform-2026|an AI-powered platform for generating mathematical modelling problems]] combined established design principles with [[prompt-engineering|retrieval-augmented generation]], developed through the ADDIE approach to produce pedagogically grounded tasks and recommendations that conventional content generators lack.
+**AI-assisted content creation** is the most directly transformative application. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]** presents a six-phase architecture integrating Generative AI with LaTeX and Python to automate [[stem-education|STEM]] materials creation, validated across 8 modules and 28 project contexts with student quality ratings of 8.5-9.9/10. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** uses a multi-agent framework structured around the ADDIE model, with role-based agents (Teaching Faculty, Instructional Designer, Course Coordinator) collaborating to generate complete course materials. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]** provides a structured pipeline for adaptive [[pedagogy|pedagogical]] video generation grounded in course corpora, demonstrating that explicit pedagogical structure — not just AI fluency — is essential for educational content generation. [[generative-ai|Generative AI]] platforms can also embody learning-design principles in the content they produce: [[ai-modelling-problem-generation-platform-2026|an AI-powered platform for generating mathematical modelling problems]] combined established design principles with [[prompt-engineering|retrieval-augmented generation]], developed through the ADDIE approach to produce pedagogically grounded tasks and recommendations that conventional content generators lack. Yet the payoff of such AI-assisted content and lesson generation is mediated by the teacher's own expertise: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that experienced teachers critically adapt AI-generated lesson ideas to students and context (re-prompting and elaborating on output), whereas novices tend to accept AI suggestions directly — so the pedagogical value of AI content tools depends on the teacher's experience and AI proficiency, not the tool alone. A systematic review of [[wang-teacher-ai-co-design-review-2026|teacher–AI co-design of learning tasks]] (Wang, Liu & Islam 2026) confirms the pattern at scale across 28 studies (2015–2025): GenAI is used mainly for lesson planning, prompt generation, and creative ideation, and the dominant collaboration mode is AI as assistant/content generator rather than a fuller co-designer — with efficiency, responsiveness, creativity, and equity recurring as affordances. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] sharpens the teacher-expertise finding for group activity design: experienced teachers produce richer, more synergistic, better ZPD-aligned role architectures in AI-designed cooperative activities than novices regardless of AI familiarity, framing "pedagogical prompt literacy" as the lever that turns AI output into effective [[collaborative-learning|differentiated group learning]].
 
 **Pedagogically grounded AI tutoring** applies instructional design principles to AI system design. **[[didactical-teacher-assistant-dimensional-modeling|Brisson et al.]]** built a didactically-driven [[llm|LLM]] teacher assistant where tutoring strategy is encoded in an explicit external layer — making content selection and didactic structuring traceable and reproducible, directly addressing opacity concerns in [[rethinking-scaffolding-llm-tutors]]. **[[instructional-guidance-genai-learning|Hou et al.]]** demonstrated that a five-step [[prompt-engineering|prompting]] framework grounded in Generative [[learning-theories|Learning Theory]] significantly improved higher-order cognitive outcomes, showing that instructional guidance — not just AI access — determines learning effectiveness. Both connect to [[scaffolding]] and [[intelligent-tutoring]].
 
@@ -1489,6 +1497,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[lin-llm-interactive-lesson-generation]] — Automatic LLM creation of interactive learning lessons (Lin et al. 2025)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
 
 - [[curriculum-as-code-instructional-design-2026]]
@@ -1528,6 +1537,8 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 
 ---
 
@@ -1582,7 +1593,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 
 **Build toward curriculum redesign, not tool adoption.** The goal is faculty redesigning courses and assessment, not just adding AI tools. Ground professional development in course-level redesign work and assessment reform, and give faculty structured frameworks for doing so (e.g. [[ai-assessment-scale-reform|assessment scales]], [[institutional-change-framework-ai|institutional change frameworks]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
-**Anchor in a competency framework.** Use a structured model like [[tpack]] ([[ai-tpack-preservice-math-teachers|TPACK-based training]]) or an AI upskilling ladder ([[crewscaler-ai-upskilling-framework|AI upskilling frameworks]]) so that development is sequenced and measurable rather than ad-hoc, and so faculty can see their own progression toward [[teacher-ai-competency]].([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])
+**Anchor in a competency framework.** Use a structured model like [[tpack]] ([[ai-tpack-preservice-math-teachers|TPACK-based training]]) or an AI upskilling ladder ([[crewscaler-ai-upskilling-framework|AI upskilling frameworks]]) so that development is sequenced and measurable rather than ad-hoc, and so faculty can see their own progression toward [[teacher-ai-competency]]. Development should also build **pedagogical prompt literacy** — the capacity to encode pedagogical intentions into prompts — since [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] finds it is pedagogical expertise, not AI fluency, that determines the quality of teachers' AI-assisted design work.([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
 
 **Surface and address fears and mental models.** Before redesigning teaching, use a metaphor-analysis workshop ([[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey 2025]]) to surface a team's assumptions and anxieties about GenAI — including the fear that it will replace teaching roles — and build development that responds to them rather than ignoring them.([[fear-awe-genai-metaphor-workshops-2025]])
 
@@ -1633,6 +1644,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 
 ---
 
@@ -1984,10 +1996,14 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 - **Distinct collaboration modes:** empirical work identifies three human–AI collaborative [[problem-solving]] modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration* — revealing a trade-off between the efficiency of the distributed human–AI system and the depth of learners' self-regulatory engagement (delegated reasoning performs best but with lower self-[[regulation]]).([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **Guidance decides performance versus learning:** Wong and Qiu (2026) contrasted free vs. guided human–AI collaboration on a creative task. Freely collaborating with ChatGPT produced only transient performance that collapsed on a later unassisted task, whereas a guided "think first, ChatGPT later" protocol — generating one's own ideas, then using ChatGPT to improve, develop, and evaluate them — yielded durable gains in *independent* [[creativity]]. The advantage was mediated by collaborative prompts aimed at improving one's *own* ideas, showing that *who generates* (the division of labor) predicts whether collaboration produces [[self-regulated-learning|learning]] or [[cognitive-offloading|substitution]].([[think-first-chatgpt-later-2026]])
 - **AI as mediator, not merely partner:** [[niari-ai-pedagogical-mediator-collaborative-learning|Niari]] reconceptualises AI as a *pedagogical mediator* that orchestrates interaction, epistemic sense-making, and regulatory processes, redistributing agency, authority, and responsibility across human and non-human actors rather than treating AI as a tutor, peer, or tool.
+- **Teachers' collaboration with AI is also patterned, not binary.** When teachers design [[learning-design|lesson designs]] with generative AI, their interaction takes empirically distinguishable forms. [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] identified seven teacher–AI interaction patterns — from *direct adoption* and *elaborated adoption* of AI output to *initial rejection*, *revised adoption*, *follow-up guided use*, *complex interactions*, and *bypassing AI* — where a teacher's teaching experience and AI proficiency jointly shape whether they critically re-prompt and adapt AI to students and context (a complementary, [[distributed-cognition]] division of labor) or passively accept suggestions (an AI-dominant distribution).
 - **The mediational agent as a hybrid form of participation.** Rather than a midpoint between tool and collaborator, [[generative-ai|generative AI]] is conceptualized as a mediational agent that mediates action while generating contingent, non-accountable contributions — a distinct category that redirects design from technological capability to habits of participation (supervisory agency, epistemic vigilance).([[mediational-agent-genai-sociocultural-2026]])
 - **Community and epistemic authority:** [[ojeda-ramirez-community-based-ai-learning|community-based AI learning]] shows collaboration is also a question of *who is authoritative*, grounding AI engagement in learners' lived epistemologies.
 - **Data-driven trait discovery:** [[principal-trait-analysis-human-ai-skills-2026|Principal Trait Analysis (PTA)]] automates the derivation of interaction "traits" from large [[llm]]-conversation corpora — a PCA-inspired, four-stage pipeline that extracts behavior observations, clusters them into candidate traits, scores each collaborator, and selects the most distinguishing traits. Evaluated on a student–AI-tutor corpus and a developer–coding-agent corpus, PTA finds traits that explain and predict outcomes (e.g. deep conceptual engagement positively, task delegation negatively, in the educational setting), and — because they do not yet generalize across semesters/settings or show learning-curve trajectories — the authors argue the traits are not yet interpretable as "skills." This offers a scalable, objective complement to [[ai-literacy]] frameworks and self-report measures, directly informing how educators teach "AI use skills."
 - **The human–AI relationship as the most persistent concern across CAI generations.** The umbrella review of [[conversational-ai|conversational AI agents]] (Ganguly et al. 2025, 34 reviews) finds human–AI relationship concerns — over-reliance, social isolation, depersonalization, emotional dependency, transparency, accountability — are the most frequently discussed [[ethics|ethical]] issue across all CAI generations, predating GenAI. This positions the "preserve vs. substitute" question at the very center of CAI ethics and reinforces that collaboration's value is determined by design (who generates, who decides, how responsibility is shared).([[conversational-ai-agents-umbrella-review-2026]])
+- **The role must adapt, not just be labeled.** [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]] shows a fixed "peer" AI companion sustained longer book-talk interactions but dominated the exchange (lower student word/sentence share) and hit an affective ceiling, arguing collaboration requires role-*adaptive* logic — switching between peer, assistant, and advisor — rather than a single static persona.
+- **Teacher-side co-design and role architecture are also collaborations.** Beyond student-facing partners, teachers collaborate with GenAI to design instruction. [[wang-teacher-ai-co-design-review-2026|Wang et al. (2026)]] systematically review teacher–AI co-design of learning tasks, charting the collaborative modes and tensions (agency, epistemic authority, control) that arise when teachers and AI jointly produce designs; [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] finds teachers' pedagogical expertise — not AI fluency — determines the quality of AI-designed differentiated group activities (role richness, synergy, level-alignment), positioning the teacher as a "bilingual learning designer."
+- **GenAI as an agent and a collaborative space in groups.** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]] observe small higher-ed teams and show GenAI's role is negotiated and configurable — from subordinate assistant to contested teammate — and that synchronous shared use sustains common ground while asynchronous private use fragments transparency, proposing a GenAI-Supported Cooperative Work lens that treats GenAI as both agent and interactive collaborative space.
 
 ### Connections
 
@@ -2022,6 +2038,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[principal-trait-analysis-human-ai-skills-2026]] — Data-driven "traits" of human–AI collaboration
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
 
 - [[agent-voice-accents-k12-group-learning]]
 - [[chat-debugging-human-ai-collaboration-circuits]]
@@ -2063,6 +2080,10 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
+- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
+- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)
 
 ---
 
@@ -2954,6 +2975,8 @@ Collaborative learning is grounded in [[sociocultural-learning|sociocultural the
 
 **Collaboration modes and the efficiency–regulation trade-off.** Empirical research on college students collaborating with AI for complex problem-solving identifies three distinct modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration*. The most efficient mode (delegated reasoning) yields the highest task performance but the lowest learners' self-regulatory engagement, while the mode with greatest self-regulation (concerted interpretation) underperforms on task outcomes.([[hao-human-ai-collaborative-problem-solving-cognition]]) This reveals a central design tension: collaborative-learning environments must balance the efficiency of the distributed human–AI system against the depth of learners' [[self-regulated-learning|regulatory]] engagement.
 
+**GenAI as agent and space in small groups — mode matters.** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]] observe that *how* a team accesses GenAI shapes collaboration: with a single shared interface in synchronous work, teams co-construct "collective prompts," run a surface–evaluate–embed cycle, and treat the chat as shared memory; in asynchronous work, private prompting and output "de-labelling" fragment transparency and raise the cost of sustaining a shared cognitive model. Their GenAI-Supported Cooperative Work (GSCW) lens frames GenAI as a configurable agent (individual assistant to team member) and an interactive collaborative space — connecting access configuration directly to the [[icap-framework|ICAP]]-relevant quality of interactive engagement.
+
 **Collaboration as the object of instruction.** [[golrang-propact-pair-programming-2026|ProPACT]] is an AI-driven adaptive tutor for pair programming that treats the *dyad* — not the individual — as the unit of analysis, modeling joint visual attention, joint mental effort, and pupil-based signals in real time to predict collaborative breakdowns up to 30 seconds in advance and intervene before they occur. Dyads receiving proactive feedback achieved substantially higher debugging success and completed tasks more efficiently, and showed sustained gains in collaborative regulation afterward — evidence that AI can teach collaboration itself, not just support a task. Measuring collaborative competence poses the complementary challenge of assessing collaborative problem-solving (CPS) skill at scale, which traditionally requires manually coding process data from simulated tasks into CPS behaviours — time-consuming and impractical at scale; [[prompt-engineering|context-aware prompting]] of pre-trained language models automates this coding by modelling contextual dependencies and fusing cognitive and social abilities, achieving superior performance over strong baselines.
 
 **AI as a neutral mediator — and the tension when it stops being neutral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] is a Discord-based [[llm]] probe that mediates disciplinary boundaries in interdisciplinary student teams by surfacing implicit assumptions and returning anonymized syntheses to shared discussion. Students valued it as both cognitive support and a relational buffer, but a central tension emerged: AI's perceived neutrality was load-bearing, and eroded once the AI moved from neutral mediator to advisor or challenger — a key design constraint for [[pedagogical-agent|agents]] that mediate collaboration while preserving [[human-ai-collaboration]] and [[trust-calibration]].
@@ -3035,6 +3058,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI and student group work: a scoping review (Wei & Perkins 2026)
 - [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
+- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)
 
 ---
 
@@ -4658,28 +4682,30 @@ The sociocultural strand is tightly coupled to Cognitive Load Theory (support sh
 
 ## [Distributed Cognition](https://edtechdev.github.io/aied/concepts/distributed-cognition/)
 
-> **Distributed Cognition** — the theoretical perspective that cognition is not confined to an individual mind but is distributed across people, tools, artifacts, and environments. In AI-in-education research, this framework has become central for understanding [[human-ai-collaboration|human–AI collaboration]]: rather than viewing AI as a neutral tool that supports an otherwise self-contained learner, distributed cognition treats thinking as emerging from the interplay between learners, AI systems, peers, and their shared context. It reframes questions of [[agency]], responsibility, and learning outcomes in terms of how cognitive work is apportioned across a human–AI system.
+> **Distributed Cognition** — the theoretical perspective that cognition is not confined to an individual mind but is distributed across people, tools, artifacts, and environments. In AI-in-education [[research-methods-aied|research]], this framework has become central for understanding [[human-ai-collaboration|human–AI collaboration]]: rather than viewing AI as a neutral tool that supports an otherwise self-contained learner, distributed cognition treats thinking as emerging from the interplay between learners, AI systems, peers, and their shared context. It reframes questions of [[agency]], responsibility, and [[learning-gains|learning outcomes]] in terms of how cognitive work is apportioned across a human–AI system.
 
 ## Questions to Consider
 
 - Distributed cognition says thinking isn't confined to a single mind but is spread across people, tools, and environments. When you use a calculator, a notes app, or an AI assistant, where does the 'thinking' actually happen?
 - If cognition is distributed across a human and an AI, who is responsible when the result is wrong — and who is accountable for learning?
 - One framework distinguishes AI's 'functional agency' (it can influence outcomes) from 'moral responsibility' (which remains human). Does that distinction hold up in practice, or does responsibility blur when humans can't understand what the system did?
-- Human-AI systems that distribute reasoning most efficiently tend to produce the highest task performance but the least self-regulated learning. Why would making a system 'smarter' at the group level make the individual learner weaker?
+- Human-AI systems that distribute reasoning most efficiently tend to produce the highest task performance but the least [[self-regulated-learning|self-regulated learning]]. Why would making a system 'smarter' at the group level make the individual learner weaker?
 - The 'Cognitive Commons' argument holds that distributed mastery depends on internalized expertise — you can't effectively oversee an AI system you don't deeply understand. How does that challenge the idea that AI lets us skip the hard work of learning?
 
 ## Introduction
 
-This is a learning-theory concept within the knowledge base's [[learning-theories]] strand, closely related to [[embodied-learning]], [[situated-learning]], and [[cognitive-offloading]]. Distributed cognition (DCog), originating in the work of Edwin Hutchins and colleagues, describes how cognitive processes such as memory, reasoning, and problem-solving are spread across multiple agents and material systems rather than residing in a single head. In AI education this matters because AI systems increasingly function as genuine cognitive partners that carry part of the thinking load, raising the question of *where* learning actually happens and *who* is responsible.
+This is a learning-theory concept within the knowledge base's [[learning-theories]] strand, closely related to [[embodied-learning]], [[situated-learning]], and [[cognitive-offloading]]. Distributed cognition (DCog), originating in the work of Edwin Hutchins and colleagues, describes how cognitive processes such as memory, reasoning, and [[problem-solving]] are spread across multiple agents and material systems rather than residing in a single head. In [[ai-education|AI education]] this matters because AI systems increasingly function as genuine cognitive partners that carry part of the thinking load, raising the question of *where* learning actually happens and *who* is responsible.
 
 ### How AI shifts the distribution of cognition
 
 Generative and interactive AI systems redistribute cognitive work in ways earlier tools did not. The knowledge base documents several dimensions of this shift:
 
-- **AI as a cognitive partner and co-regulator.** AI can act as a scaffold, metacognitive support, external memory system, and decision partner in the co-regulation of thinking and learning.([[ai-cognitive-partner-co-regulation-learning]]) This positions cognition as co-regulated between learner and system rather than individually managed.
-- **Agency and responsibility redistribution.** Frameworks such as **ensemble cognition** reconceptualise thinking as emerging from dynamic human–AI interaction, distinguishing AI's *functional agency* (its capacity to influence outcomes without consciousness) from *moral responsibility* (which remains human).([[ensemble-cognition-philosophy-ai-education]]) Distributed cognition thus reframes who is accountable for learning.
-- **The efficiency–regulation tension.** Empirical work shows a trade-off: human–AI systems that distribute reasoning most efficiently (e.g., via delegated reasoning) achieve higher task performance but may reduce learners' self-regulatory engagement.([[hao-human-ai-collaborative-problem-solving-cognition]]) This is the empirical face of the [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] risks the knowledge base documents.
-- **Mediation in collaboration.** AI can act as a *pedagogical mediator* that orchestrates interaction, epistemic sense-making, and regulatory processes in [[collaborative-learning|collaborative learning]], redistributing agency, authority, and responsibility across human and non-human actors.([[niari-ai-pedagogical-mediator-collaborative-learning]])
+- **AI as a cognitive partner and co-regulator.** AI can act as a [[scaffolding|scaffold]], metacognitive support, external memory system, and decision partner in the co-[[regulation]] of thinking and learning.([[ai-cognitive-partner-co-regulation-learning]]) This positions cognition as co-regulated between learner and system rather than individually managed.
+- **Agency and responsibility redistribution.** Frameworks such as **ensemble cognition** reconceptualise thinking as emerging from dynamic human–[[student-ai-interaction|AI interaction]], distinguishing AI's *functional agency* (its capacity to influence outcomes without consciousness) from *moral responsibility* (which remains human).([[ensemble-cognition-philosophy-ai-education]]) Distributed cognition thus reframes who is accountable for learning.
+- **The efficiency–regulation tension.** Empirical work shows a trade-off: human–AI systems that distribute reasoning most efficiently (e.g., via delegated reasoning) achieve higher task performance but may reduce learners' self-regulatory [[student-engagement|engagement]].([[hao-human-ai-collaborative-problem-solving-cognition]]) This is the empirical face of the [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] risks the knowledge base documents.
+- **Mediation in collaboration.** AI can act as a *[[pedagogy|pedagogical]] mediator* that orchestrates interaction, epistemic sense-making, and regulatory processes in [[collaborative-learning|collaborative learning]], redistributing agency, authority, and responsibility across human and non-human actors.([[niari-ai-pedagogical-mediator-collaborative-learning]])
+- **Access configuration distributes cognition within the group.** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]] show that *how* a team shares GenAI determines the distribution of cognition: synchronous work on a single shared interface sustains a common cognitive model (collective prompts, shared external memory), whereas asynchronous private use fragments it, with outputs selectively re-labelled before sharing. GenAI thereby functions as both a distributed cognitive participant and an interactive collaborative space whose permeability must be designed (shared context flows in, private insights do not auto-flow back).
+- **Teachers too experience AI-dominant versus complementary distribution.** The same efficiency–regulation logic applies to the teacher side of lesson design: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that novice teachers delegate a large share of instructional-design cognitive load to the AI system (an AI-dominant distribution, largely accepting responses), whereas experienced, AI-proficient teachers reach a complementary distribution in which pedagogical expertise and AI's computational support mutually reinforce — and because [[generative-ai|GenAI]] generates and co-constructs rather than merely stores information, they frame this as *participatory shared cognition*, not mere tool use.
 
 ### Distributed cognition and related perspectives
 
@@ -4721,8 +4747,10 @@ Distributed cognition provides both a design lens and an evaluation lens. For de
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency as a distributed-cognition-inspired theory of learning with machines
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction in lesson design: AI-dominant vs complementary distributed cognition by experience and proficiency (Choi et al. 2026)
 
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space: how access configuration distributes group cognition (Xu et al. 2026)
 
 ---
 
@@ -7720,6 +7748,8 @@ Conversational AI (CAI) is the umbrella term for AI-driven agents that carry on 
 
 **Interaction and collaboration.** Conversational agents are increasingly framed as interaction partners rather than answer-givers. [[student-ai-interaction]] captures how learners prompt, question, and verify with CAI in practice. In [[collaborative-learning]], agents mediate participation and shared [[regulation]], and in [[language-learning]] they provide real-time conversational practice. The [[human-ai-collaboration]] thread examines when this partnership preserves versus substitutes for the learner's cognitive work.
 
+**The role the agent plays shapes the interaction.** CAI design is not neutral about its persona: [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]] found a fixed "student peer" companion in elementary book talk sustained longer interactions yet dominated the conversation (lower student word/sentence share) and hit an "affective ceiling" — matching a human teacher on factual recall but falling short on emotional and future-oriented reflection — arguing CAI should adapt its role (peer, teacher assistant, parent advisor) rather than stay monolithic. [[xu-genai-collaborative-space-2026|Xu et al.]] extend this to small groups, showing generative AI acts as both an *agent* and a *collaborative space* in synchronous and asynchronous collaborative dynamics, where the interaction design decides whether it scaffolds or supplants group cognition.
+
 **Student perspectives.** Real-world usage shows adoption hinges on [[ai-literacy]] and [[usability-research|user experience]] more than on technical capability. A human-centred [[mixed-methods-research|mixed-methods]] study of the "Jordan Chatbot," a GPT-4o-based [[pedagogy|pedagogical]] agent in an Australian law course, found students hold positive attitudes and perceive gains in knowledge while strongly supporting [[academic-integrity]] requirements; over a third of interactions occurred after hours, confirming the value of 24/7 availability ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]). Notably, AI literacy — not general technology proficiency — predicted willingness and confidence to use the chatbot, and usability (an intrusive pop-up design) was the largest barrier among non-users, ahead of trust, preference for staff, and academic-integrity fears.([[colbran-student-perspectives-genai-chatbots-2026]]) The study recommends human-centred design, explicit AI policies and assessment labels, staff and student training, and continuous error monitoring — evidence that effective CAI deployment is as much a design and literacy problem as a technical one.
 
 **Risks and ethics.** CAI agents carry persistent risks of [[cognitive-offloading|over-reliance]] and [[cognitive-offloading|cognitive offloading]] (the leading ethical concern in the umbrella review), plus technical limitations, [[hallucination-risk|hallucination]], bias, [[ai-detection|plagiarism]], and [[equity-in-ai-education|equity]] barriers. These concerns animate [[ai-literacy]] and [[reducing-ai-misuse]] and require [[educational-policy-ai|policy]] and ethical-[[governance]] responses. A further trust concern arises around the adoption advice staff increasingly receive: staff are urged to consult conversational AI about whether to adopt AI, yet such systems are built by organizations with a commercial stake in adoption. An audit of ten frontier LLMs found most acknowledge skeptical users' concerns before redirecting to engagement framings, raising questions about the neutrality of AI adoption advice.
@@ -7786,6 +7816,8 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender and motivation in GenAI achievement
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
+- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
+- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)
 
 ## Citation
 
@@ -8775,7 +8807,7 @@ A pedagogical agent is an interactive AI component within a learning system that
 
 **Teaching versus solving behavior.** A central empirical finding is that answer-production is not learning support. [[measuring-llm-tutors-teach-vs-solve|Measuring whether LLM tutors teach or solve]] shows solving and pedagogy scores on tutoring benchmarks correlate only weakly (r = 0.421 across eight models), arguing that benchmarks must report pedagogy-oriented criteria — guiding questions, calibrated hints, non-disclosive scaffolding — separately. This aligns with [[stanford-evidence-base-ai-k12-2026|tutoring-specific vs general AI]] evidence: pedagogically designed tutors with [[guardrails]] mitigate the exam-score drops and suppressed reasoning that raw general-purpose chatbots produce, preserving [[desirable-difficulties|desirable difficulties]] and productive struggle rather than short-circuiting them. Yet benchmarks can overestimate how well even scaffolded tutors work in the wild. [[rethinking-scaffolding-llm-tutors|Rethinking scaffolding in LLM tutors]] finds that real students frequently bypass a chatbot's pedagogical framing, a rational response to a mismatch between the agent's goals and the learner's own — so uptake must be evaluated, not assumed.
 
-**Role in tutoring and collaboration.** Agents are increasingly positioned not as answer-givers but as facilitators and mediators. [[niari-ai-pedagogical-mediator-collaborative-learning|Niari's pedagogical mediator framework]] reconsiders AI in [[collaborative-learning|collaborative learning]] as an interactional, epistemic, and regulatory mediator — scaffolding participation and shared [[regulation]] without displacing teacher or [[agency|learner agency]]. Concretely, [[collaborative-ai-tutoring|collaborative AI tutoring (ProPACT)]] treats collaboration itself as the object of instruction, forecasting dyadic breakdowns up to 30 seconds ahead and delivering minimally intrusive scaffolds that preserve [[metacognition]]. [[embodied-inquiry-ai-facilitator-physics-2026|Embodied inquiry with AI as facilitator]] shows an AI can complement hands-on model-building by facilitating application of a constructed model, while [[robot-assisted-language-learning-meta-analysis-2026|robot-assisted language learning meta-analysis]] finds outcomes track how a robotic agent is positioned in instruction (group-based interaction) more than its technical sophistication.
+**Role in tutoring and collaboration.** Agents are increasingly positioned not as answer-givers but as facilitators and mediators. [[niari-ai-pedagogical-mediator-collaborative-learning|Niari's pedagogical mediator framework]] reconsiders AI in [[collaborative-learning|collaborative learning]] as an interactional, epistemic, and regulatory mediator — scaffolding participation and shared [[regulation]] without displacing teacher or [[agency|learner agency]]. Concretely, [[collaborative-ai-tutoring|collaborative AI tutoring (ProPACT)]] treats collaboration itself as the object of instruction, forecasting dyadic breakdowns up to 30 seconds ahead and delivering minimally intrusive scaffolds that preserve [[metacognition]]. [[embodied-inquiry-ai-facilitator-physics-2026|Embodied inquiry with AI as facilitator]] shows an AI can complement hands-on model-building by facilitating application of a constructed model, while [[robot-assisted-language-learning-meta-analysis-2026|robot-assisted language learning meta-analysis]] finds outcomes track how a robotic agent is positioned in instruction (group-based interaction) more than its technical sophistication. Whether the *role* an agent plays is enough, or whether it must also *adapt its behavior*, is questioned by [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]]: an elementary "book talk" study found a fixed "student peer" companion sustained longer interactions yet suppressed student agency and hit an "affective ceiling" (weak emotional/future-oriented reflection), arguing that role *labeling* must be paired with role-*adaptive* interaction logic rather than a monolithic single-role design.
 
 **Where conversational agents are (and aren't) used — the umbrella-review picture.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) quantifies CAI utilization: teaching and learning support (97.1% of reviews), psychological and [[motivation|motivational]] support (91.2%), and metacognitive and personal development (88.2%) lead, while administrative support (50%), research and information management (52.9%), and healthcare/medical support (41.2%) trail. It also flags that [[conversational-ai|CAI]] research lacks end-to-end design guidance, CAI-specific [[usability-research|usability]] methods, and concrete classroom-orchestration strategies for the teacher's role — reinforcing that pedagogical-agent design must be HCI-grounded, evidence-based, and attentive to [[ai-literacy]].([[conversational-ai-agents-umbrella-review-2026]])
 
@@ -8856,6 +8888,7 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
+- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
 
 ---
 
@@ -11156,7 +11189,7 @@ In-service professional development supports practicing teachers in integrating 
 
 ### Knowledge, beliefs, and practice
 
-A key finding across teacher-education research is the gap between what teachers *articulate* and what they *enact*: teachers often claim operational AI skills but struggle to apply pedagogically meaningful knowledge in practice.([[teachers-ai-knowledge-genai-lesson-planning-2026]]) Psychological factors also matter — [[self-efficacy]] positively predicts AI-TPACK, while strong traditional teaching beliefs can act as a cognitive barrier.([[ai-tpack-mathematics-teacher-education-2026]]) [[trust|Trust]] in AI is shaped by both technical knowledge and ethical perceptions (transparency, [[bias-mitigation|fairness]], accountability, inclusiveness).([[intelligent-tpack-ethics-teachers-trust-distrust-2026]]) Measuring teachers' AI literacy is itself an active front: because most AI-literacy assessments target students or general users, the Teachers' AI Literacy Scale (TAILS) — grounded in the six-dimension ED-AI framework — was developed and validated specifically for [[language-learning|preservice language teachers]] through EFA and CFA, filling the measurement gap within teacher education.
+A key finding across teacher-education research is the gap between what teachers *articulate* and what they *enact*: teachers often claim operational AI skills but struggle to apply pedagogically meaningful knowledge in practice.([[teachers-ai-knowledge-genai-lesson-planning-2026]]) The distinction runs even deeper when experience is crossed with AI proficiency: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that technically fluent *novices* still accept AI output passively during lesson design, whereas experienced teachers — even those with lower measured AI proficiency — critically re-prompt and adapt AI suggestions to their students and context. The implication is that in-service PD cannot treat "building AI skill" as sufficient; it must be differentiated by the teacher's experience and proficiency profile — response-evaluation and critical-adaptation scaffolds for novices, hands-on AI skill-building for experienced teachers with weaker AI proficiency. Psychological factors also matter — [[self-efficacy]] positively predicts AI-TPACK, while strong traditional teaching beliefs can act as a cognitive barrier.([[ai-tpack-mathematics-teacher-education-2026]]) [[trust|Trust]] in AI is shaped by both technical knowledge and ethical perceptions (transparency, [[bias-mitigation|fairness]], accountability, inclusiveness).([[intelligent-tpack-ethics-teachers-trust-distrust-2026]]) Measuring teachers' AI literacy is itself an active front: because most AI-literacy assessments target students or general users, the Teachers' AI Literacy Scale (TAILS) — grounded in the six-dimension ED-AI framework — was developed and validated specifically for [[language-learning|preservice language teachers]] through EFA and CFA, filling the measurement gap within teacher education.
 
 ### Simulated instructional practice
 
@@ -11196,6 +11229,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[human-centered-ai-teacher-educators-2026]] — Professional learning for critical AI literacy in teacher educators
 - [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
 - [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in GenAI lesson planning
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns across teaching experience and AI proficiency in lesson design (Choi et al. 2026)
 - [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Pre-service intelligent-TPACK readiness
 - [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in mathematics teacher education
 - [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethics domain and in-service teachers' trust
@@ -11798,7 +11832,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - Summative assessment certifies what a student has learned at the end of a course, while formative assessment supports learning during it. Where have you seen the line between these two blur, and why might it matter that they serve different functions?
 - The page frames generative AI as reshaping summative assessment in two directions at once: AI scores exams, and students use AI to evade exam-based measurement. Which of these two pressures do you think is the bigger threat to validity, and why?
 - If unproctored or take-home tasks lose validity because AI can produce the answers, what does that imply for how assessments should be designed — and what might be sacrificed in the process?
-- Research cited on the page finds LLMs do not grade essays the same way humans do. If automated scoring is fast and consistent but grades differently, is that a fairness problem, an opportunity, or both?
+- [[research-methods-aied|Research]] cited on the page finds LLMs do not grade essays the same way humans do. If automated scoring is fast and consistent but grades differently, is that a [[bias-mitigation|fairness]] problem, an opportunity, or both?
 - What does a high-stakes result (a grade, a credential, admission) mean if the work behind it could have been produced by AI? How would you design an assessment you could actually trust?
 
 ## Introduction
@@ -11810,7 +11844,7 @@ Summative assessment serves a fundamentally different function from formative as
 The knowledge base's research documents how generative AI has fundamentally reshaped the summative-assessment landscape in two directions: AI is used to **score** exams at scale, and AI can be used by students to **evade** exam-based measurement of their own learning.
 
 - **AI as scorer.** Summative assessment increasingly relies on [[automated-assessment|automated scoring]] of exams, essays, and short answers. [[llms-do-not-grade-essays-like-humans-2026|Research on LLM essay grading]] finds [[llm|LLM]] do not grade essays the same way humans do, raising validity and fairness questions for high-stakes automated scoring. [[llm-automated-assessment-student-self-explanations|LLMs assessing student self-explanations]] and [[cong-confidence-asag-2026|automatic short-answer grading]] explore the reliability of LLM scoring in summative contexts, while [[psyscore-essay-scoring-zpd-feedback|psychometrically-aware frameworks]] seek to keep automated scoring trustworthy and adaptive.
-- **AI as evasion.** Because generative AI can produce answers to written questions, unproctored and take-home summative tasks lose validity: [[generative-ai-reduced-study-time-math|proctored, unassisted measures are essential]] because non-proctored performance is inflated by AI, and [[generative-ai-guardrails-harm-learning|guardrailed (hint-not-answer) tools]] can eliminate the exam penalty that unguarded AI causes.
+- **AI as evasion.** Because generative AI can produce answers to written questions, unproctored and take-home summative tasks lose validity: [[generative-ai-reduced-study-time-math|proctored, unassisted measures are essential]] because non-proctored performance is inflated by AI, and [[generative-ai-guardrails-harm-learning|guardrailed (hint-not-answer) tools]] can eliminate the exam penalty that unguarded AI causes. [[chirikov-ai-grade-inflation-2026|Chirikov's (2026)]] quasi-experiment on 500,000+ grades makes the mechanism concrete: after ChatGPT's release, courses with more AI-exposed tasks saw the share of A grades rise by 13 percentage points, and the effect concentrated in **homework-heavy courses** (an additional 16 pp in the triple-differences estimate) — direct evidence that unproctored homework, not genuine [[learning-gains|learning gains]], is where AI inflates summative outcomes.
 - **AI-generated exams.** [[assessing-quality-ai-generated-exams-field-2025|A large-scale field study]] and [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment research]] examine whether AI can *generate* high-quality exams and assessment tasks — an emerging summative-design use of AI.
 
 ## AI-resistant summative formats
@@ -11826,7 +11860,7 @@ High-stakes summative assessment — entrance exams, standardized tests, and cer
 
 ## Summative vs. formative in the AI era
 
-The knowledge base's assessment literature consistently emphasizes that [[assessment]] is most effective when it combines [[formative-assessment|formative]] and summative functions — but the AI era sharpens the distinction. Because AI inflates performance on low-stakes, unproctored, and process-hidden tasks, **summative (especially proctored/closed-book/in-person) measures become the crucial check** on whether learning actually occurred. This motivates assessment redesign that keeps authentic, AI-resistant summative tasks (oral exams, code-review interviews, proctored examinations, process-based portfolios) as the anchor of [[academic-integrity|integrity]] while using formative assessment to support learning along the way. See [[authentic-assessment]] for the constructive design response.
+The knowledge base's assessment literature consistently emphasizes that [[assessment]] is most effective when it combines [[formative-assessment|formative]] and summative functions — but the AI era sharpens the distinction. Because AI inflates performance on low-stakes, unproctored, and process-hidden tasks, **summative (especially proctored/closed-book/in-person) measures become the crucial check** on whether learning actually occurred. This motivates assessment redesign that keeps authentic, AI-resistant summative tasks (oral exams, code-review interviews, proctored examinations, process-based [[eportfolio|portfolios]]) as the anchor of [[academic-integrity|integrity]] while using formative assessment to support learning along the way. See [[authentic-assessment]] for the constructive design response.
 
 ## Implications for AI in education
 
@@ -11855,6 +11889,7 @@ The knowledge base's assessment literature consistently emphasizes that [[assess
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant summative assessment
 
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: proctored/closed-book exam evidence
+- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation; homework-heavy courses (Chirikov 2026)
 - [[generative-ai-reduced-study-time-math]] — Faster completion, less learning: proctored measures essential
 - [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails harms learning
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
@@ -12422,6 +12457,7 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - **Cross-LLM construct-irrelevant variance in conversation-based assessment:** [[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]] shows that even for a single conversational turn, the semantic content of [[llm|LLM]]-generated replies varies across models and conversational-context conditions. Within-model similarity consistently exceeds between-model similarity (0.715–0.795 vs. 0.443–0.604), and adding chat history meaningfully changes response content (median cross-history similarity ~0.40–0.45). Because the same learner input can receive semantically different replies depending on the underlying model, prompting and context alone cannot preserve response consistency — introducing potential **construct-irrelevant variance** that threatens validity, reliability, and fairness. Maintaining consistent assessment conditions as LLMs evolve is therefore an *infrastructure* challenge (symbolic rules, response templates, validation layers), not merely a [[prompt-engineering]] one.
 - **Latent-structure validity across humans and LLMs:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] add a deeper validity condition: even when an LLM scores well, transferring human score interpretations requires similarity in the *latent structure* of responses. Comparing six [[multimodal]] LLMs to human cohorts on [[chemistry-education|chemistry]] and [[quantitative-research|quantitative]]-reasoning instruments, they find LLM–human factor structures consistently diverge (LLM–human congruence below the human–human baseline), so performance on a human-normed exam is weak evidence about LLM abilities on the constructs the items were designed to measure.
 - **Consequential validity:** Do AI-mediated assessments have fair consequences? [[ai-scoring-language-bias-physics|Language bias studies]] show that AI scoring can disadvantage non-native speakers.
+- **AI-driven grade inflation as a validity threat:** [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] identifies a novel, technology-driven mechanism of [[summative-assessment|grade]] inflation operating *upstream of grading* — on the production of graded work. In a difference-in-differences study of 500,000+ grades across 319 courses (2018–2025), courses with more AI-exposed tasks (writing, coding) saw the share of A grades rise by 13 percentage points after ChatGPT's release, with grade-distribution compression. A triple-differences analysis shows the effect concentrates in homework-heavy courses — evidence that AI **task displacement** (AI performing graded tasks before instructors observe them) inflates grades without a corresponding rise in skill. This reduces the comparability of grades across courses and erodes the informational value of transcripts in ways difficult to detect from grade distributions alone.
 - **Validity of AI-generated items:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that AI-generated questions, validated via Bayesian [[item-response-theory|IRT]], achieve difficulty and discrimination on par with expert-written standardized-exam items (reliability 0.79 vs. 0.72) — supporting the validity of course-tailored AI-generated assessments when backed by psychometric evaluation.
 - **Authentic assessment:** [[authentic-assessment]] and [[ai-assessment-scale-reform|the AI Assessment Scale]] propose validity-preserving assessment redesigns.
 - **Confidence and calibration:** [[automated-assessment|Confidence-aware systems]] improve validity by flagging uncertain assessments.
@@ -12455,6 +12491,7 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning for GPT-based L2 listening item generation (Aryadoust & Wong 2026)
 - [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)
 - [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
+- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
@@ -14443,6 +14480,8 @@ The knowledge base's PD literature identifies effective approaches:
 - **Design-based and integrated approaches:** [[genai-literacy-training-teacher-education-dbr-2026|DBR-based GenAI literacy training]] addresses the overemphasis on technical knowledge and pre-GenAI tools; [[rail-ed-genai-literacy-teacher-education|integrative, developmental frameworks]] and [[sec-ai-literacy-narrative-review-2026|social-emotional competency integration]] broaden literacy beyond pure technique.
 - **Inquiry and authentic practice:** [[quest-ai-inquiry-preservice-teachers|AI-supported inquiry models]] build AI literacy and authentic performance in pre-service teachers.
 - **Context-specific readiness:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI readiness framework]] emphasizes that faculty readiness is a sociotechnical issue requiring alignment of faculty capacity, [[governance]], and quality assurance.
+- **Support must be differentiated by experience and AI proficiency.** [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that how teachers actually interact with AI in lesson design depends on the *interplay* of teaching experience and AI proficiency, not either alone. Experienced teachers with high AI proficiency critically adapt AI output to context (re-prompting, elaboration), whereas novices — even technically fluent ones — tend to accept AI responses directly and rarely consider students and context. This argues for profiling-based PD: response-evaluation checklists and prompt templates for novices, and hands-on skill-building for experienced teachers with lower AI proficiency.
+- **Co-design and pedagogical prompt literacy are competencies, not add-ons.** A systematic review of teacher–AI co-design of learning tasks ([[wang-teacher-ai-co-design-review-2026|Wang, Liu & Islam 2026]], 28 studies) finds the dominant collaboration mode is AI as assistant/content generator, and locates a gap in teachers' fuller co-design and dialogic partnership capacities. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] shows PD that pairs technical AI training with pedagogical reasoning — building "pedagogical prompt literacy" (encoding [[tpack|PCK]] into prompts) — is what lets teachers turn AI output into effective [[collaborative-learning|differentiated group activities]].
 - **Institutional support:** [[educational-development|professional development]] must be paired with institutional infrastructure ([[educational-policy-ai|policy]], , [[institutional-change-framework-ai|institutional change]]) for sustainable adoption.
 
 ## Teacher AI competency and the transforming teacher role
@@ -14487,6 +14526,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 ## Connected Articles
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Teacher professional knowledge in K-12 AI education: TAIK vs TPAIK and student learning (Shen et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
 - [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
@@ -14521,6 +14561,8 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework + PD for Ukrainian secondary educators (Marienko et al. 2026)
 - [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
+- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 
 ---
 
@@ -14560,6 +14602,7 @@ The AI era has pushed the framework toward a technology-with-intelligence readin
 - **Beyond discrete knowledge.** [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] argues effective AI integration emerges not from possessing separate domains but from the dynamic interplay of **systems thinking**, **pedagogical beliefs**, and **[[self-efficacy]]** — challenging static, checklist-based models of teacher AI competency. Teacher archetypes (Systematic Optimizers, Prolific Creators, Passive Observers) emerge from how teachers design multi-agent instructional workflows.
 - **Cross-level evidence for the pedagogical core.** [[pedagogy-first-technology-second-teacher-knowledge-2026|A multilevel study of 46 teachers and 2,832 secondary students]] found technical AI knowledge alone was insufficient — even slightly dampening students' perceptions of AI for social good — while pedagogical AI knowledge (TPAIK) is what fostered students' perceptions and behavioral intention to learn AI. The result distills to a **"pedagogy first, technology second"** guideline that echoes the mediating-role findings above.
 - **A review lens for the whole field.** [[edurev-100741-tpack-genai-review|A systematic review from a TPACK perspective]] (Liu & Zhong, 2025) analyzed 71 empirical studies of GenAI in student learning, finding an overall positive effect (Hedges' g = 0.752) and identifying GenAI literacy for students and **GenAI-TPACK professional development for teachers** as the two critical priorities for the field.
+- **Proficiency alone does not predict pedagogical integration.** [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] measured teachers' Intelligent-TPACK to segment participants and observed that even AI-proficient novices relied passively on AI output during lesson design, whereas experienced teachers — with lower measured AI-TPACK — critically re-engaged and adapted AI suggestions to pedagogical context. The result reinforces the pattern above: AI-TPACK translates into sound classroom use through experienced pedagogical judgment, and [[teacher-education|teacher-education]] support must therefore target the *application* of AI knowledge, not its mere possession.
 - **[[teacher-education|Teacher education]] context.** TPACK is instrumental in cultivating teachers' competency to integrate technology into [[curriculum-design|curriculum]]-specific instruction, which is why teacher-education and PD research (e.g., [[genai-pd-ai-pck-learning-gain-2026|intensive GenAI PD programs]], [[ai-tpack-preservice-math-teachers|AI-TPACK readiness among pre-service teachers]]) increasingly measures it as the outcome of interest.
 - **Pedagogical knowledge mediates GenAI integration.** [[tpack-genai-inservice-teachers-mediation-2026|Mohebi and ElSayary (2026)]] surveyed **325 in-service teachers across 26 countries** and interviewed seven, using an explanatory sequential [[mixed-methods-research|mixed-methods]] design to model TPACK-GenAI. Technological Knowledge (TK), Pedagogical Knowledge (PK), and Pedagogical Content Knowledge (PCK) each associated with overall TPACK-GenAI, but **Technological Pedagogical Knowledge (TPK) mediated** these links — evidence that the "from proficiency to pedagogy" move matters: translating GenAI skill into sound classroom use runs through pedagogical-technological integration knowledge, not tool familiarity alone.
 
@@ -14600,6 +14643,7 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 - [[edurev-100741-tpack-genai-review]] — Integrating generative AI into student learning: A systematic review from a TPACK perspective
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
 - [[ai-tpack-preservice-math-teachers]] — AI-TPACK readiness among pre-service mathematics teachers
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction in lesson design: Intelligent-TPACK, experience, and proficiency interplay (Choi et al. 2026)
 - [[genai-pd-ai-pck-learning-gain-2026]] — Intensive GenAI professional development and AI-PCK gains
 - [[teacher-ai-teaming-five-levels]] — Five-level teacher-AI teaming framework
 - [[teacher-ai-adoption-confidence]] — Teacher confidence and AI adoption
@@ -14794,6 +14838,8 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 
 The knowledge base documents that institutional AI policies [[genai-policies-higher-ed-computing|lag behind actual AI use]]. [[educational-development]] programs, [[teacher-ai-competency]] frameworks, and [[regulation]] all require coherent policy foundations. Large-scale field evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] shows that the learning losses from homework outsourcing go largely unnoticed because individual subject teachers and students rarely connect the decline to AI use — a gap that evidence-informed policy (e.g., weighting closed-book assessment, informing students of long-run costs, monitoring inputs rather than outputs) can address.
 
+**Task-level regulation is the emerging pattern.** A large-scale longitudinal study of 31,000+ course syllabi (2021–2025) at a large public research university ([[chirikov-regulate-ai-syllabi-2026|Chirikov 2026]]) shows how instructors actually regulate AI in practice: explicit AI regulation grew from near zero to 55% of courses by Fall 2025, but the direction shifted from restrictive toward permissive, and instructors increasingly **differentiated by task type** — restricting AI for drafting/reasoning (displacement-risk tasks) while permitting it for editing/proofreading and study support (augmentation tasks). Framing also shifted from academic integrity (63%→49% of syllabi) toward learning impact (1%→29%). This task-based pattern — built on the labor-economics mechanisms of task displacement, augmentation, and reinstatement — offers a more granular alternative to blanket adoption-or-ban policies and is a direct empirical anchor for the policy-vs-governance distinction above.
+
 **The boundary–evidence gap in assessment policy.** A 30-university audit of public [[generative-ai|GenAI]] assessment guidance ([[credential-cognitive-stewardship-ai-assessment|Yao 2026]]) finds that institutional policies are better at *classifying* AI use than at explaining what evidence of learning remains valid under each class: the mean delegation-boundary score (2.47/4) exceeded the mean evidence-standard score (1.89/4), safeguards were sparse (2.75 of 8), and guidance was clearest for final-output substitution. The framework of *cognitive stewardship* argues that policies must make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions protect fair evidence — rather than merely monitor AI use.
 
 ### Policy vs. governance
@@ -14835,6 +14881,8 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 
 ## Connected Articles
 - [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
+- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi (Chirikov 2026)
+- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on governing generative AI in higher education
@@ -29901,6 +29949,122 @@ Haein Kong (2026). [Child Safety in Generative AI: An Expert-Guided and Incident
 
 ---
 
+## [Artificial Intelligence and Grade Inflation](https://edtechdev.github.io/aied/articles/chirikov-ai-grade-inflation-2026/)
+
+> **Artificial intelligence and grade inflation** — a quasi-experimental study by Igor Chirikov (2026) analyzing **500,000+ grades** across a balanced panel of 319 courses (84 departments) at a large research university, 2018–2025. Using a **difference-in-differences** design, it finds that after ChatGPT's release, courses with more AI-exposed tasks (writing, coding) saw the **share of A grades rise by 13 percentage points (~30% relative to baseline)** and GPA by 0.12 points, with grade-distribution compression. A triple-differences analysis shows the effect is concentrated in **homework-heavy courses** — evidence that AI-driven **[[cognitive-offloading|task displacement]]**, not broad [[learning-gains|learning gains]], is the primary mechanism.
+
+## Overview
+
+Grades summarize student performance and signal skill to students, graduate programs, and employers. [[generative-ai|Generative AI]] threatens this certification function by performing graded tasks before instructors observe and assess them. Even with unchanged grading standards, grades can inflate when AI improves submitted work without a corresponding rise in underlying skill. This paper identifies a **novel, technology-driven mechanism of grade inflation** — distinct from the instructor-incentive, signaling, and measurement-error channels documented in prior literature — operating upstream of grading, on the *production* of graded work.
+
+## Method
+
+- **Data:** Over 500,000 student-course enrollments across a balanced panel of 319 courses spanning 84 departments at a large selective research university in Texas, 2018–2025.
+- **AI exposure:** Share of writing and coding tasks among all required tasks in each course's Fall 2022 syllabus (published before ChatGPT's release), validated in the companion syllabi paper as predicting AI-policy adoption.
+- **Design:** Difference-in-differences comparing grade distributions before/after ChatGPT's release across courses with varying AI exposure; **triple-differences (DDD)** exploiting variation in homework weight (median = 30%) to distinguish task displacement from learning gains or student sorting.
+- **Robustness:** Alternative exposure definitions, enrollment thresholds, pre-periods, and a placebo using oral-presentation tasks (where AI capabilities are weaker).
+
+## Key findings
+
+- **Grades rose substantially in AI-exposed courses.** The share of A grades increased by **13 percentage points (~30% relative to the 2022 baseline of 0.44)**; mean GPA rose by 0.12 points; within-course GPA standard deviation fell by 0.09 points (grade-distribution compression). Effects diminish down the distribution (9 pp for A- or better, 5 pp for B+ or better, insignificant below) — AI primarily converts A- and B+ grades into A grades.
+- **The mechanism is task displacement, not learning gains or sorting.** The triple-differences estimate shows above-median-homework courses gained an *additional* 16 pp in the share of A grades relative to below-median courses with the same AI exposure. If gains reflected genuine learning or sorting, they would appear regardless of assessment format; their concentration in unsupervised homework is consistent with AI substituting for student effort where instructors cannot observe production.
+- **Placebo and robustness confirm specificity.** Oral-presentation task share (weak AI capabilities) shows no effect on grades. Results are robust to exposure definitions, enrollment thresholds (15–40), pre-periods, and clustering.
+
+## Implications
+
+- **For assessment validity:** AI inflates grades selectively — concentrated in writing/coding-intensive, homework-heavy courses — reducing the comparability of grades across courses and eroding the informational value of transcripts in ways difficult to detect from grade distributions alone. This is a direct threat to [[assessment-validity]].
+- **For instructors:** Measured gains in student performance after AI adoption may reflect shifts in the production of submitted work rather than genuine skill improvement. Assessment reform is the most direct response, but moving all assessment to supervised in-person environments would narrow the capabilities measured; more promising is redesigning assessments so AI use is structurally constrained or purposefully incorporated (process documentation, justification, follow-up interaction).
+- **For institutions:** Distorted grade signals may weaken human-capital development if students overestimate mastery and underinvest in foundational skills, and may push employers toward alternative screening. The findings reinforce a [[feedback|feedback loop]] between [[ai-education|AI in education]] and AI in production that could accelerate automation.
+- **For research:** Aggregate measures of AI use are unlikely to yield consistent effects on learning — the effect depends on the task and whether AI engagement constitutes displacement or augmentation.
+
+## Connected Concepts
+
+- [[assessment-validity]]
+- [[academic-integrity]]
+- [[summative-assessment]]
+- [[assessment]]
+- [[educational-measurement]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[cognitive-offloading]]
+- [[ai-misuse-learning-harm]]
+- [[automated-assessment]]
+
+## Connected Articles
+
+- [[chirikov-regulate-ai-syllabi-2026]] — Companion paper: how instructors regulate AI across 31,000 syllabi (Chirikov 2026)
+- [[biology-grade-vulnerability-genai-2026]] — Vulnerability of course grades to AI-mediated dishonesty (Chan et al. 2026)
+- [[genai-availability-grades-satisfaction]] — GenAI availability and grade/satisfaction outcomes
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
+- [[llm-reliance-types-undergrad]] — Types of LLM reliance among undergraduates
+- [[ai-vs-human-assessment-efl-tpck-2026]] — AI vs. human assessment in EFL contexts
+- [[generative-ai-reduced-study-time-math]] — Proctored retention decline showing AI inflates non-proctored performance
+
+## Citation
+
+Chirikov, I. (2026). [Artificial Intelligence and Grade Inflation](https://escholarship.org/uc/item/80x8d3qd). *CSHE Higher Education Working Paper Series, 26*(3).
+
+---
+
+## [How Instructors Regulate AI in College: Evidence from 31,000 Course Syllabi](https://edtechdev.github.io/aied/articles/chirikov-regulate-ai-syllabi-2026/)
+
+> **How instructors regulate AI in college** — a large-scale longitudinal study by Igor Chirikov (2026) analyzing **31,000+ course syllabi** (2021–2025) from the full course universe of a large public research university. Building a **task-based framework** (adapted from labor economics) of how AI reshapes skill formation via **displacement, augmentation, and reinstatement**, the paper finds instructors are *warming toward AI*: [[regulation]] grew to 55% of courses by Fall 2025, but shifted from restrictive toward permissive, differentiated by task type, and increasingly framed around learning rather than [[academic-integrity|academic integrity]] — with substantial disciplinary variation.
+
+## Overview
+
+[[generative-ai|Generative AI]] substitution for the cognitively demanding tasks students must practice raises a core tension: if AI substitutes for practice, students may fail to develop skills; if AI is restricted entirely, students miss tools expected in the labor market. Chirikov adapts task-based models of technological change (Autor et al. 2003; Acemoglu & Restrepo 2019) from production to education, where students develop skills by practicing tasks. This yields three mechanisms — **[[cognitive-offloading|task displacement]]** (AI performs tasks instead of students → skill erosion), **task augmentation** (AI supports practice without displacing essential effort → enhancement), and **task reinstatement** (AI enables new tasks → new AI-based skills) — and predicts how instructors respond: restricting AI for displaced tasks, permitting it for augmented ones, and introducing new AI-based tasks.
+
+## Method
+
+- **Data:** Over 31,000 course syllabi representing the full universe of courses at a large public research university in Texas, 2021–2025, tracking the same courses and instructors over time.
+- **Design:** Longitudinal; computational extraction of required course tasks and [[educational-policy-ai|AI policies]] from each syllabus, with [[llm]]-assisted classification validated at 96% agreement with human coding.
+- **Analysis:** Within-course-instructor fixed-effects estimates plus repeated cross-sections; placebo tests (e.g., oral presentation tasks where AI capabilities are weaker).
+
+## Key findings
+
+- **Regulation grew rapidly but shifted toward permissiveness.** Explicit AI regulation rose from near zero before ChatGPT to **55% of courses by Fall 2025**. Within-course-instructor estimates show regulation increasing 15.3 pp/year, while the share of fully restrictive policies fell ~5 pp/year and a permissiveness index rose 0.12 points/year — individual instructors moved toward more permissive policies over time.
+- **Task composition predicts regulation.** Each additional writing/coding task required in 2021–22 (pre-ChatGPT) is associated with a ~3 pp higher likelihood of an AI policy by Fall 2025; a course requiring five such tasks is ~15 pp more likely to regulate. A placebo using oral-presentation tasks finds no effect.
+- **Instructors differentiate by task type.** Policies increasingly permit AI for some tasks and restrict it for others (task differentiation +4.5 pp/year). In Fall 2025, instructors most commonly **restrict** drafting/revising (79%) and reasoning/[[problem-solving]] (65%), and most commonly **permit** editing/proofreading (83%), study support/synthesis (80%), and coding (75%). Ideation/planning is most contested (46% permit / 54% restrict).
+- **New AI-based tasks are emerging modestly.** Adoption of AI-integrated assignments, [[prompt-engineering|prompting]] exercises, and output-verification activities reached 11% of courses by Fall 2025 (Business leads at 27%; [[humanities-education|Humanities]] lowest at 5%).
+- **Framing shifted from integrity to learning.** Academic-integrity mentions fell from 63% (Spring 2023) to 49% (Fall 2025); references to AI's impact on learning rose from 1% to 29%; attribution requirements rose from 16% to 43%.
+- **Disciplinary variation is pronounced.** Humanities remained most restrictive; Business moved most rapidly toward permissive policies and new AI-based tasks. Larger pre-AI task bundles predict differentiated policies (each additional task → +1.3 pp).
+
+## Implications
+
+- **For instructors:** A task-level lens offers a useful framework for AI policy design — distinguishing tasks facing displacement risk (where AI should be restricted) from those offering augmentation potential (where AI can be permitted or encouraged), rather than adopting blanket rules.
+- **For institutions:** The substantial disciplinary and task variation argues for flexible policy frameworks that accommodate disciplinary differences and grant instructors autonomy within their domains, rather than one-size-fits-all mandates.
+- **For labor markets:** The framework highlights a potential **[[feedback|feedback loop]]** — if AI displaces skill-building tasks, students may graduate with weaker skills precisely where AI is strongest, further shifting comparative advantage toward AI and accelerating automation. Reinstating new learning tasks may be essential to maintaining human comparative advantage.
+- **For research:** Studies should measure task-level AI use rather than aggregate use — the distinction between displacement and augmentation is central to understanding AI's effects on learning, and reconciling apparently contradictory findings of skill gains vs. erosion.
+
+## Connected Concepts
+
+- [[educational-policy-ai]]
+- [[regulation]]
+- [[governance]]
+- [[teacher-role]]
+- [[academic-integrity]]
+- [[assessment]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[cognitive-offloading]]
+- [[ai-misuse-learning-harm]]
+- [[discipline-specific-aied]]
+
+## Connected Articles
+
+- [[chirikov-ai-grade-inflation-2026]] — Companion paper: AI task displacement as a mechanism of grade inflation (Chirikov 2026)
+- [[genai-policies-higher-ed-computing]] — How universities develop and communicate AI policies
+- [[adarkwah-genai-unesco-policy-2026]] — UNESCO guidance on GenAI in education policy
+- [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on governing generative AI in higher education
+- [[zuo-instructor-power-genai-writing-2026]] — Instructors' perceived power relations with GenAI in writing
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Learning losses from homework outsourcing in secondary education
+
+## Citation
+
+Chirikov, I. (2026). [How Instructors Regulate AI in College: Evidence from 31,000 Course Syllabi](https://escholarship.org/uc/item/9c51s3gs). *CSHE Higher Education Working Paper Series, 26*(1).
+
+---
+
 ## [Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting](https://edtechdev.github.io/aied/articles/choi-anchor-aes-prompting-2025/)
 
 > **Synthesis:** Choi, Tate, Ritchie, Nixon & Warschauer (2025) investigate the most practical approach to LLM-based automated essay scoring — prompting — and find that providing anchor papers (example essays with scores) significantly improves LLM-human agreement, bringing it close to human-human scoring reliability. GPT-4o mini achieves comparable results to GPT-4o at substantially lower cost, making accessible, teacher-friendly AES feasible.
@@ -29935,6 +30099,52 @@ The work complements [[psyscore-essay-scoring-zpd-feedback]] research on [[psych
 - [[icle-plus-plus-essay-scoring]]
 ## Citation
 Choi, J., Tate, T., Ritchie, D., Nixon, N., & Warschauer, M. (2025). [*Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting*](https://doi.org/10.35542/osf.io/cbhgz_v1). EdArXiv. doi:10.35542/osf.io/cbhgz_v1.
+
+---
+
+## [Analyzing teacher-AI interaction patterns across teacher experience and AI proficiency in student-centered lesson design](https://edtechdev.github.io/aied/articles/choi-teacher-ai-interaction-lesson-design-2026/)
+
+> **Synthesis:** Choi, Jeong, Park, Kim, and Han (2026) analyze how South Korean elementary teachers interact with ChatGPT while designing student-centered lessons, using CORDTRA diagrams of ten teachers' think-aloud planning sessions to compare interaction patterns across [[teacher-role|teaching]] experience and AI proficiency. Seven distinct interaction patterns emerge — direct adoption, elaborated adoption, initial rejection, revised adoption, follow-up guided use, complex interactions, and bypassing AI — and they distribute differently by case. Experienced teachers with high AI proficiency critically adapt AI output to classroom context through re-[[prompt-engineering|prompting]] and elaboration, whereas less experienced or less AI-proficient teachers rely more heavily on AI suggestions and engage in less contextual adaptation. The findings position [[generative-ai|generative AI]] as a [[human-ai-collaboration|collaborative co-designer]] whose value depends on the interplay of teaching experience and AI proficiency, and argue for differentiated support to foster teachers' critical and reflective use of AI.
+
+## Key Findings
+
+**Seven teacher-[[student-ai-interaction|AI interaction]] patterns.** Analysis of 82 cord boxes from ten elementary teachers' ChatGPT-assisted lesson planning revealed seven predominant patterns: **direct adoption** (Initial Prompting → Accepting AI Response → Lesson Planning), **elaborated adoption** (adding refinement before use), **initial rejection**, **revised adoption** (rejecting then re-prompting), **follow-up guided use**, **complex interactions** (mixed acceptance and rejection), and **bypassing AI** (planning from textbooks or other resources instead). The two most common — elaborated adoption (29%) and direct adoption (21%) — show teachers largely either revising or directly using AI responses; complex interactions (15%) reflect selective incorporation.
+
+**Experience × AI proficiency shapes interaction.** Teachers were grouped into four cases crossing experience (high ≥7 yrs / low ≤3 yrs, per Huberman's stages) with AI proficiency (high/low on Celik's Intelligent-[[tpack]] survey). Experienced, AI-proficient teachers most often used elaborated adoption (33%), critically examining and refining AI output against educational context and frequently "considering students and context." Experienced teachers with low AI proficiency showed fewer interactions and, dissatisfied with AI output, tended to rely on their own expertise or textbooks rather than re-prompting. Less experienced teachers — regardless of AI proficiency — showed high acceptance (direct adoption predominant) and rarely "considered students and context," treating AI as a content provider or near-peer rather than critically adapting outputs.
+
+**AI proficiency versus [[pedagogy|pedagogical]] experience diverge.** High AI proficiency alone did not produce critical use: low-experience/high-AI-proficiency teachers accepted responses with minimal modification (Patterns 1/2/5 ≈ acceptance), while experienced teachers grounded adaptation in pedagogical expertise. AI proficiency enabled technical communication; teaching experience supplied the contextual judgment to evaluate outputs. Teacher quotes illustrate the gap — a novice called AI "a coworker or a collaborative teacher," while an experienced low-proficiency teacher struggled to phrase prompts precisely.
+
+**Distributed-cognition framing.** The authors interpret results through [[distributed-cognition|Distributed Cognition Theory]] (Hutchins), framing generative AI as a cognitive artifact that extends teachers' capacity to store, retrieve, and manipulate instructional knowledge. For novices, [[cognitive-offloading|cognitive load]] is largely delegated to the system — an AI-dominant distribution; for experienced, AI-proficient teachers, an "optimal" distribution emerges where expertise and AI complement each other. Because GenAI actively generates and co-constructs rather than merely stores, they recast this as *participatory shared cognition*, echoing [[sociocultural-learning|sociocultural]] co-construction ([[human-ai-collaboration|Vygotskian dialogue and joint activity]]) and positioning AI as a co-designer while the teacher remains the pedagogical decision-maker.
+
+**Need for differentiated teacher support.** Implications center on matching support to the experience × proficiency profile: response-evaluation checklists and prompt templates for novices (to build critical adaptation and contextual judgment), and hands-on skill-building [[educational-development|professional development]] for experienced teachers with lower AI proficiency. Collaborative professional development and peer mentoring are suggested, alongside [[ethics|ethical]] reflection and attention to teacher [[agency]], [[trust]], and [[privacy|data-privacy]] concerns.
+
+## Connected Concepts
+
+- [[teacher-ai-competency]] — the knowledge and skills teachers need to integrate AI; this study shows they interact with experience
+- [[teacher-role]] — how teaching experience reshapes teachers' AI-mediated lesson-design role
+- [[learning-design]] — student-centered lesson design as the task context
+- [[human-ai-collaboration]] — AI as co-designer/partner versus tool
+- [[distributed-cognition]] — the theoretical lens for AI-dominant versus complementary distribution
+- [[tpack]] — Intelligent-TPACK survey used to measure AI proficiency
+- [[teacher-education]] — in-service professional development implications; differentiated support for integrating AI in lesson design
+- [[generative-ai]] — the ChatGPT tool under study
+- [[student-ai-interaction]] — parallel framing of interaction patterns (student side)
+- [[prompt-engineering]] — re-prompting and follow-up prompting as interaction strategies
+
+## Connected Articles
+
+- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — companion study of K-12 teachers' AI knowledge and interaction in lesson planning (I-TPACK)
+- [[teacher-ai-teaming-five-levels]] — teacher-AI teaming framework (transactional → synergistic)
+- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK and multi-agent teacher workflows
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — pedagogical AI knowledge as the decisive layer
+- [[preservice-teacher-agency-genai-design-learning-2026]] — pre-service teacher agency during GenAI design-for-learning
+- [[learner-ai-interaction-patterns-oop]] — interaction patterns on the learner side
+- [[questionnaire-teachers-genai-uses-validation-2026]] — measurement of teachers' GenAI use
+- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — teachers' trust/distrust and Intelligent-TPACK
+
+## Citation
+
+Choi, S., Jeong, S., Park, S., Kim, Y., & Han, I. (2026). [Analyzing teacher-AI interaction patterns across teacher experience and AI proficiency in student-centered lesson design](https://doi.org/10.1016/j.tate.2025.105266). *Teaching and Teacher Education, 169*, 105266.
 
 ---
 
@@ -46941,6 +47151,53 @@ Liang, Z., Yang, K., Sha, L., Gašević, D., Yan, L., & Chen, G. (2026). [A syst
 
 ---
 
+## [Beyond a single role: Justifying a role-adaptive framework for AI companions through a comparative study in elementary book talk](https://edtechdev.github.io/aied/articles/liao-role-adaptive-ai-companion-book-talk-2026/)
+
+> **Beyond a single role.** A formative within-subjects study by Chang-Yen Liao (2026) comparing how 19 elementary students in Taiwan talk about books with a **single-role AI companion** (fixed "student peer") versus an **experienced human teacher**. The AI sustained **significantly longer interactions** but did so at the cost of **student [[agency]]** — students contributed a markedly lower proportion of words and sentences (Grade 5 less than a third of teacher-led sessions). The AI was effective at eliciting **factual recall** ("Facts" in the 4F framework) but significantly weaker than the teacher at prompting **emotional ("Feelings") and future-oriented ("Future") reflection** — an "[[affective-computing|affective ceiling]]." These gaps empirically justify a **Role-Adaptive AI Companion Framework**: a Modular Adaptive Agent, inspired by multi-agent systems, that can switch between Student Peer, Teacher Assistant, and Parent Advisor roles.
+
+## Overview
+
+[[conversational-ai|Conversational AI]] companions hold promise for scaling "book talk" — structured discussion of reading — in elementary classrooms. Yet most AIEd tools remain **monolithic, single-role** designs focused narrowly on the student–AI dyad, leaving what this paper calls a "support vacuum" for teachers and parents. The paper first uses a comparative empirical study to expose the limits of a fixed "peer" role, then proposes and justifies a role-adaptive framework grounded in that evidence.
+
+## Method
+
+- **Design:** Within-subjects quasi-experiment — each student interacted with both an AI companion (fixed "student peer" role) and their regular homeroom teacher, serving as their own control.
+- **Sample:** 19 elementary students (12 Grade 4, 7 Grade 5) from an experimental school in Taoyuan, Taiwan, enrolled in a Modeled Sustained Silent Reading (MSSR) program; 4 sessions per student over one month.
+- **Tools:** A research-built conversational companion (Whisper + GPT-3.5) in a peer-like persona, versus experienced homeroom teachers (10+ years).
+- **Analysis:** Session duration, student word/sentence proportion, and 4F reflection categories (Facts, Feelings, Findings, Future), analyzed with paired t-tests and triangulated with qualitative student perceptions.
+
+## Key findings
+
+- **Longer interaction ≠ more participation.** Students spent significantly more time with the AI (Grade 4 t(11)=2.58, p=.026; Grade 5 t(6)=3.97, p=.007) yet contributed a significantly lower proportion of words and sentences (Grade 5: t(6)=−5.62 and −8.21, both p<.01/.001). The paper frames this as **conversational dominance** — students adopted a passive, reactive role.
+- **An "affective ceiling" for fixed-role AI.** The AI was proficient at factual recall — for Grade 5 it elicited significantly more "Facts" utterances (t(6)=2.76, p=.033). But the teacher prompted significantly more "Feelings" reflection across both grades (most pronounced Grade 5: t(6)=−6.54, p<.001) and, for Grade 4, more "Findings" and "Future" talk.
+- **Students want both.** Qualitatively, students valued the AI as a low-pressure practice partner but preferred the teacher for richer, deeper discussion — supporting the framework's complementary (not replacement) vision.
+
+## Practical implications
+
+- **Move beyond persona-assigning to behavioral adaptation.** Simply labeling an agent a "peer" is insufficient — it produced "expert dominance in a peer-role shell." Design must include adaptive interaction logic: intentional silence, variable prompting density, mechanisms to foster student-initiated talk.
+- **Adopt modular, multi-stakeholder roles.** The framework decomposes support into Student Peer (low-stakes practice), Teacher Assistant (alerting educators to interaction patterns), and Parent Advisor (extending reflection to home) — supported by differentiated dashboards and privacy-aware data flows.
+- **For instructors:** strategically delegate factual comprehension checks and [[scaffolding]] to AI, freeing human expertise for deep affective and future-oriented reflection where it is most valuable.
+
+## Connected Concepts
+
+- [[conversational-ai]] — the dialogic medium; the paper shows its affective ceiling in fixed-role designs
+- [[pedagogical-agent]] — the AI companion as an agent whose role can be adapted
+- [[human-ai-collaboration]] — AI as a complementary, role-adaptive partner rather than replacement
+- [[learning-design]] — designing for the multi-stakeholder book-talk ecosystem
+
+## Connected Articles
+
+- [[ai-learning-companions-framework]] — framework for AI learning companions
+- [[ecnuclaw-k12-personalized-companion]] — K-12 personalized AI companion
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — teacher-side AI interaction patterns in lesson design (companion lens)
+- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning
+
+## Citation
+
+Liao, C.-Y. (2026). [Beyond a single role: Justifying a role-adaptive framework for AI companions through a comparative study in elementary book talk](https://doi.org/10.1007/s10639-026-13958-6). *Education and Information Technologies, 31*, 4879–4906.
+
+---
+
 ## [How Do Students Regulate Their Learning With a GenAI Chatbot?](https://edtechdev.github.io/aied/articles/lim-bannert-student-regulation-genai-chatbot-2026/)
 
 > **How do students regulate their learning with a [[generative-ai|genAI]] [[conversational-ai|chatbot]]?** — an exploratory trace-based study of 30 university students who read texts and wrote an essay with an integrated ChatGPT chatbot. Most students (73%) voluntarily used the chatbot, mainly for seeking information, and chatbot users achieved higher essay scores than non-users — but [[qualitative-research|qualitative]] evidence showed students offloading comprehension and synthesis to the chatbot, outsourcing key regulatory decisions.
@@ -47039,44 +47296,31 @@ Lin, J., Rao, J., Zhao, S. Y., Wang, Y., Gurung, A., Barany, A., Ocumpaugh, J., 
 
 > **In brief:** Liu, Lin, Ng, Yang, and Dai conduct a three-level [[meta-analysis-systematic-review|meta-analysis]] of 59 empirical studies (172 effect sizes, 7,211 participants) on [[ai-literacy|AI literacy]] interventions. They find a large, statistically significant overall effect (g = 0.837, p < .001) with substantial heterogeneity; moderator analyses show interventions in East Asia and Europe outperformed those in North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or [[ethics]]. They conclude AI literacy education should move beyond knowledge toward skills, practices, [[ethics]], and attitudes, supported by integrated and reflective [[pedagogy|pedagogies]] and [[generative-ai|GenAI]]-supported tools.
 
-This meta-analysis answers the question of how — and under what conditions — AI literacy interventions support student development. Synthesizing 172 effect sizes from 59 studies and 7,211 participants, it estimates a large overall effect (g = 0.837) but with a wide 95% prediction interval [−0.292, 1.966], indicating effectiveness varies considerably across settings. Moderator analyses identify geographical region and learning-outcome focus as significant: interventions in East Asia and Europe yielded stronger effects than North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics.
+This meta-analysis answers the question of how — and under what conditions — AI literacy interventions support student development. Synthesizing 172 effect sizes from 59 studies and 7,211 participants, it estimates a large overall effect (g = 0.837) but with a wide 95% prediction interval [−0.292,1.966], indicating effectiveness varies considerably across settings. Moderator analyses identify geographical region and learning-outcome focus as significant: interventions in East Asia and Europe yielded stronger effects than North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics.
 
 The paper's central argument is that AI literacy education should move beyond knowledge and conceptual understanding toward skills, practices, [[ethics]], and attitudes. This shift is best supported, the authors suggest, by integrated pedagogies that combine conceptual learning, hands-on making, reflection, and GenAI-supported tools — including constructionist and [[constructivist|socio-constructivist]] approaches such as project- and [[problem-based-learning]], [[inquiry-based-learning|inquiry-based learning]], and [[experiential-learning]] environments. The geographic variation highlights the need for [[culturally-relevant-pedagogy|culturally relevant]], context-sensitive interventions that respond to local educational priorities, technological conditions, and learner needs.
 
 ## Study Design and Analysis
 
 - **[[meta-analysis-systematic-review|PRISMA]]-guided search** of Web of Science, Scopus, ERIC, and PsycINFO retrieves 7,330 candidate records
-
-- **Hedges' g effect sizes** were computed for posttest and pretest-posttest designs;; eight outlying values were excluded,leaving 59 studies,172 effect sizes,and 7,211 participants.
-
-- **A three-level random-effects model** partitioned variance,with about 71% sitting between studies;; coding agreement was strong(Cohen's κ ≈ 0.87)and publication-bias checks(fail-safe N over 190 thousand)were reassuring.
+- **Hedges' g effect sizes** were computed for posttest and pretest-posttest designs; eight outlying values were excluded, leaving 59 studies, 172 effect sizes, and 7,211 participants.
+- **A three-level random-effects model** partitioned variance, with about 71% sitting between studies; coding agreement was strong (Cohen's κ ≈ 0.87) and publication-bias checks (fail-safe N over 190 thousand) were reassuring.
 
 ## Key Findings
 
 - **59 studies, 172 effect sizes, 7,211 participants** synthesized via a three-level meta-analysis.
-- **Large overall effect:** g = 0.837, p < .001, with a wide prediction interval [−0.292, 1.966] indicating considerable variation.
-- **Geography matters:** East Asia(g ≈ .78)and Europe(≈ .96)outperformed North America(≈ .66),likely reflecting an access-and-engagement-over-mastery focus there.
-- **Knowledge-focused interventions outperformed** others:knowledge gains(g ≈ .97)exceeded skills(≈ .67),attitudes(≈ .68),and ethics(≈ .64),all significant — durable dispositions lag understanding.
-- (Nonsignificant) descriptives: mixed and reflective pedagogies, generative-AI tools,and performance tasks each showed numerically larger effects,tentative signals worth testing.
+- **Large overall effect:** g = 0.837, p < .001, with a wide prediction interval [−0.292,1.966] indicating considerable variation.
+- **Geography matters:** East Asia (g ≈ .78) and Europe (≈ .96) outperformed North America (≈ .66), likely reflecting an access-and-engagement-over-mastery focus there.
+- **Knowledge-focused interventions outperformed** others: knowledge gains (g ≈ .97) exceeded skills (≈ .67), attitudes (≈ .68), and ethics (≈ .64), all significant — durable dispositions lag understanding.
+- (Nonsignificant) descriptives: mixed and reflective pedagogies, generative-AI tools, and performance tasks each showed numerically larger effects, tentative signals worth testing.
 - **Conclusion:** AI literacy education should move beyond knowledge toward skills, practices, ethics, and attitudes, via integrated and reflective pedagogies.
 
 ## Implications for Practice
 
-- **Design for durable dispositions.** Because knowledge gains dominate while skills,attitudes,and ethics lag,educators should pair concept lessons with sustained problem-solving,critical output evaluation,and ethics discussions,not single-shot content delivery.
-
-
-
+- **Design for durable dispositions.** Because knowledge gains dominate while skills, attitudes, and ethics lag, educators should pair concept lessons with sustained problem-solving, critical output evaluation, and ethics discussions, not single-shot content delivery.
 - **Favor performance tasks over self-reports** where feasible — they captured larger gains and are less prone to overstating learning or missing misconceptions.
-
-
-
-- **Adapt to context rather than standardize.** The regional gap points to [[culturally-relevant-pedagogy|culturally relevant]] design:fitting programs to local curricula,technological access,and policy contexts instead of one-size-fits-all models.
-
-
-
-- **Expect heterogeneity.** With a prediction interval spanning negative to nearly two,no intervention is guaranteed effective in a given classroom — pilot,and iterate rather than assuming transfer.
-
-
+- **Adapt to context rather than standardize.** The regional gap points to [[culturally-relevant-pedagogy|culturally relevant]] design: fitting programs to local curricula, technological access, and policy contexts instead of one-size-fits-all models.
+- **Expect heterogeneity.** With a prediction interval spanning negative to nearly two, no intervention is guaranteed effective in a given classroom — pilot, and iterate rather than assuming transfer.
 
 ## Connected Concepts
 
@@ -47102,7 +47346,7 @@ The paper's central argument is that AI literacy education should move beyond kn
 
 ## Citation
 
-Liu, S., Lin, Z., Ng, O. L., Yang, Y., & Dai, Y. (2026). [*AI literacy interventions in education: A meta-analysis of effects and moderators*](https://doi.org/10.1016/j.edurev.2026.100813). Educational Research Review, 52, 100813.
+Liu, S., Lin, Z., Ng, O. L., Yang, Y., & Dai, Y. (2026). [*AI literacy interventions in education: A meta-analysis of effects and moderators*](https://doi.org/10.1016/j.edurev.2026.100813). Educational Research Review, 52,100813.
 
 ---
 
@@ -63355,6 +63599,56 @@ Talebzadeh, H. (2026). [*The Role of Artificial Intelligence in Green Education:
 
 ---
 
+## [The Architecture of Roles in AI-Designed Group Activities: A comparative inductive analysis of novice and experienced teachers' differentiated instruction within the IAT framework](https://edtechdev.github.io/aied/articles/talebzadeh-ai-group-activity-roles-2026/)
+
+> **The architecture of roles in AI-designed group activities.** A comparative qualitative study by Hossein Talebzadeh (2026) analyzing how **89 Iranian teachers (38 novice, 51 experienced)** assigned roles in **178 AI-designed group activities** within the Integrated AI Triad (IAT) framework. Using reflexive thematic analysis, the study introduces three constructs — **Role Richness, Role Synergy, and Level-Role Alignment** — and finds experienced teachers produced significantly richer, more interdependent, and more precisely ZPD-aligned role architectures, while novices often collapsed integrated projects into conventional assessments lacking product integration. The paper introduces **"pedagogical prompt literacy"** as a portable construct: AI output quality is fundamentally contingent on teachers' capacity to encode pedagogical intentions through Pedagogical Content Knowledge.
+
+## Overview
+
+Designing effective [[collaborative-learning|cooperative group activities]] that differentiate by student readiness is cognitively demanding. This study asks whether teachers' career stage shapes how they use [[generative-ai|generative AI]] to design differentiated group activities — and why. Within the IAT framework, teachers are positioned as "[[multilingual-learning|Bilingual Learning Designers]]" who must encode pedagogical intentions into AI prompts.
+
+## Method
+
+- **Sample:** 89 Iranian teachers (38 novice, 51 experienced) across four cohorts.
+- **Corpus:** 178 AI-designed group activities within the IAT framework (two activity models: Integrated Multi-Level and Mixed-Ability).
+- **Analysis:** Reflexive thematic analysis with hybrid deductive-inductive coding, double-coded with intercoder reliability; trustworthiness and positionality addressed.
+- **Novel constructs:** Role Richness (number/variety of roles), Role Synergy (interdependence among roles), Level-Role Alignment (match between task demands and student readiness/ZPD).
+
+## Key findings
+
+- **Experienced teachers design richer role architectures.** 85% of experienced designs had detailed role descriptions (43/51) versus 30% of novice designs (11/38); 78% vs. 30% had 3+ distinct role types. (Percentages reflect relative thematic prevalence, not inferential claims.)
+- **The largest gap is Role Synergy.** 90% of experienced designs showed role interdependence (46/51) versus 35% of novice designs; novices frequently produced parallel tasks completable in isolation.
+- **Precise Level-Role Alignment.** Experienced teachers calibrated tasks to readiness — 88% had appropriately challenging advanced tasks and 90% appropriate basic tasks, with 65% explicit ZPD-calibration versus 15% for novices. Novices often used quantitative differentiation (more questions) rather than qualitative variation in cognitive demand.
+- **The novice–expert paradox.** Experienced teachers, despite less AI familiarity, produced superior designs — evidence that pedagogical expertise, not technical proficiency, drives effective AI integration. "Smart drunk intern" framing: AI output needs constant expert evaluation.
+- **Pedagogical prompt literacy.** Experienced teachers encoded PCK into prompts (e.g., the R.A.F. — Role + Audience + Format — framework) with greater precision. AI amplifies teacher judgment rather than replacing it.
+- **Experience alone is insufficient.** A negative-case analysis showed one experienced teacher (19 years) produced low-synergy, non-integrated roles — experience must be paired with professional learning on integrating differentiated contributions.
+
+## Practical implications
+
+- **[[educational-development|Professional development]] should pair technical AI training with pedagogical reasoning.** The findings suggest PD should build teachers' capacity to articulate pedagogical intentions, anticipate AI responses, and evaluate outputs against pedagogical criteria.
+- **Use the three constructs as a design heuristic.** Teachers and researchers can evaluate differentiated group activities on Role Richness, Role Synergy, and Level-Role Alignment.
+- **Position teachers as co-designers, not tool users.** [[agency|Agency]] in AI-assisted design is conditioned by pedagogical expertise; building that expertise is the lever for [[equity-in-ai-education|equitable]] AI integration.
+
+## Connected Concepts
+
+- [[teacher-ai-competency]] — the knowledge teachers need; pedagogical prompt literacy as a core component
+- [[learning-design]] — differentiated group activity design as the collaborative object
+- [[teacher-role]] — the teacher as "Bilingual Learning Designer"
+- [[educational-development]] — PD implications for teaching teachers to design with AI
+
+## Connected Articles
+
+- [[talebzadeh-ai-green-education-2026]] — same author's IAT-framework study of AI-assisted instructional design quality
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — teacher experience × AI proficiency in lesson design interaction patterns
+- [[teacher-ai-teaming-five-levels]] — levels of teacher–AI teaming
+- [[connected-ai-lesson-planning-vietnam]] — AI-assisted lesson planning in K-12
+
+## Citation
+
+Talebzadeh, H. (2026). [The Architecture of Roles in AI-Designed Group Activities: A comparative inductive analysis of novice and experienced teachers' differentiated instruction within the IAT framework](https://www.researchgate.net/publication/412207265). Farhangian University, Tehran, Iran.
+
+---
+
 ## [Factors Influencing University Students' Intention to Use and Reliance on Generative AI: An Extended Technology Acceptance Model with Critical Use](https://edtechdev.github.io/aied/articles/tam-critical-use-genai-engineering-2026/)
 
 Trang H. Nguyen, Long T. Truong, & Nhu H.T. Nguyen (2026) investigated factors influencing university students' intention to use and reliance on [[generative-ai|generative AI]] among [[engineering-education|Engineering]] and [[cs-education|Computer Science/IT]] (CS/IT) students. Drawing on an extended [[technology-acceptance-model|Technology Acceptance Model (TAM)]], the study integrates the construct of **critical use** and conceptualizes reliance across four functional domains relevant to engineering and CS/IT education.
@@ -66948,6 +67242,54 @@ Wang, H., & Shan, W. (2026). [*The safety gap: restoring productive struggle thr
 
 ---
 
+## [Reimagining teacher-AI co-design in learning task design: trends and perspectives](https://edtechdev.github.io/aied/articles/wang-teacher-ai-co-design-review-2026/)
+
+> **Teacher-AI co-design in learning task design.** A systematic review by Zongran Wang, Liu Mingzhuo & A.Y.M. Atiquil Islam (2026) synthesizing **28 empirical studies (2015–2025)** on how teachers collaborate with AI — including generative AI — to design learning tasks. GenAI is predominantly used to support **lesson planning, prompt generation, and creative ideation**, while traditional AI is used for **[[learning-analytics|learning analytics]] and [[feedback]] design**. The dominant collaboration mode is **AI as assistant/content generator**, with AI as a fuller co-designer or dialogic partner much rarer. Four pedagogical affordances recur — **efficiency, responsiveness, [[creativity]], and [[equity-in-ai-education|equity]]** — and the review argues these form a functional-affordance framework for guiding teacher design work with AI.
+
+## Overview
+
+Teachers increasingly act as [[learning-design|instructional designers]] working *with* AI rather than merely using it for delivery. This review maps the theoretical frameworks, AI features, teacher–AI collaboration modes, and design objectives across empirical studies of teacher–AI co-design of learning tasks, in both K-12 and higher education.
+
+## Method
+
+- **Search:** EBSCOhost and Web of Science, 2015–2025; Boolean term combinations ("Teacher Design Practices" AND "AI", "Learning Task Design" AND "AI", "Teacher-AI" AND "design", "Teacher AI co-design") plus snowballing.
+- **Screening:** 672 records → 28 empirical studies after eligibility checks (population = K-12 and higher-ed teachers co-designing tasks; interventions = task creation/application).
+- **Appraisal:** Mixed Methods Appraisal Tool (MMAT); 19 studies rated high quality (5/5), with common limitations reported across designs.
+
+## Key findings
+
+- **GenAI vs. traditional AI roles differ.** GenAI tools are predominantly used for lesson planning, prompt generation, and creative ideation; traditional AI tools are more commonly used for learning analytics and feedback design.
+- **AI is mostly an assistant, rarely a co-designer.** Teacher–AI collaboration manifests in multiple forms, but AI most often serves as an assistant or content generator, and less frequently as a co-designer or dialogic partner.
+- **Four pedagogical affordances.** AI features map onto efficiency (workload reduction), responsiveness (just-in-time instructional adaptation), creativity (idea generation and design space expansion), and equity (differentiated, culturally responsive pathways). Creativity and equity are associated with a broader range of GenAI features; efficiency and responsiveness rely on a narrower set of traditional functions.
+- **Uneven contexts.** [[teacher-education|Teacher education]] (36.7%) and higher education dominate the literature; K-12 is underrepresented, attributed to curricular rigidity and limited teacher autonomy.
+- **Fragmented theory.** Theoretical grounding is uneven; many studies use traditional linear instructional-design models that may not fit the distributed, iterative nature of AI co-design.
+
+## Practical implications
+
+- **A functional-affordance framework.** Teachers can use the four affordances (efficiency, responsiveness, creativity, equity) as a lens for evaluating which AI tool to use for which design problem.
+- **Reframe AI as a co-agent, not just a tool.** The review argues AI reorganizes the temporal, cognitive, and relational structures of teaching — a shift from treating AI as a task-output device to a co-designer.
+- **Research gap:** more real-world K-12 classroom studies of teacher–AI co-design are needed, with context-sensitive theoretical models that make teacher agency and AI's pedagogical role visible.
+
+## Connected Concepts
+
+- [[teacher-ai-competency]] — the knowledge/skills teachers need to co-design with AI
+- [[learning-design]] — learning-task design as the collaborative object
+- [[human-ai-collaboration]] — collaboration modes from assistant to co-designer
+- [[teacher-role]] — the teacher as instructional designer with AI
+
+## Connected Articles
+
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — empirical teacher–AI interaction patterns in lesson design
+- [[preservice-teacher-agency-genai-design-learning-2026]] — pre-service teacher agency during GenAI design interactions
+- [[connected-ai-lesson-planning-vietnam]] — AI-assisted lesson planning in K-12
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and instructional design practice systematic review
+
+## Citation
+
+Wang, Z., Liu, M., & Islam, A. Y. M. A. (2026). [Reimagining teacher-AI co-design in learning task design: trends and perspectives](https://doi.org/10.1057/s41599-026-06981-y). *Humanities and Social Sciences Communications, 13*, 757.
+
+---
+
 ## [Pedagogical partnerships with generative AI in higher education: how dual cognitive pathways paradoxically enable transformative learning](https://edtechdev.github.io/aied/articles/wang-zhang-pedagogical-partnerships-genai-2026/)
 
 > **Synthesis:** Wang and Zhang (2026) use a four-study [[mixed-methods-research|mixed-methods]] design across China, Europe, and the United States (N=912) to examine how students' framing of [[generative-ai|GenAI]] as a [[pedagogy|pedagogical]] partner affects transformative learning through two simultaneous cognitive pathways — vigilance (critical evaluation) and offloading (strategic delegation). Their central, counterintuitive finding is that strategic [[cognitive-offloading|cognitive offloading]], contrary to traditional assumptions, can enhance transformative learning by liberating mental resources for higher-order reflection once it exceeds certain thresholds. Efficiency orientation, rather than undermining learning, acts as an amplifier of both vigilance and offloading. The study reconceptualizes student-AI dynamics from zero-sum competition to synergistic [[collaborative-learning|collaboration]].
@@ -67560,6 +67902,53 @@ The review surfaces both opportunities and challenges. Opportunities include sca
 ## Citation
 
 Xiong, J., & Li, F. (2026). [*A decade of reflection and thematic review on artificial intelligence's impact on educational measurement*](https://doi.org/10.1016/j.edurev.2026.100789). Educational Research Review, 51, 100789.
+
+---
+
+## [AI as an Agent and Collaborative Space: Exploring the role of generative AI in small group synchronous and asynchronous collaborative dynamics](https://edtechdev.github.io/aied/articles/xu-genai-collaborative-space-2026/)
+
+> **AI as an Agent and Collaborative Space.** A qualitative study by Haowei Xu, Ahmed Kharrufa, Ellis Solaiman & Vasilis Vlachokyriakos (2026) examining how [[generative-ai|generative AI]] shapes small-group collaboration through observations and interviews with **27 higher-education students**. Through a [[distributed-cognition|distributed cognition]] lens, the study finds a stark contrast: in **synchronous** settings with a single shared GenAI interface, teams maintain shared awareness, co-construct prompts, treat the chat as shared external memory, and openly negotiate AI's role — whereas in **asynchronous** teamwork GenAI is used individually, with outputs selectively rewritten or "de-labelled" before being shared, making AI's influence on decisions opaque and harder to trace. The paper proposes a **GenAI-Supported Cooperative Work (GSCW)** perspective, framing GenAI as both a configurable agent (from individual assistant to team member) and an interactive collaborative space.
+
+## Overview
+
+GenAI systems are designed for single-user interaction, yet they are increasingly integrated into collaborative work. This study asks how introducing GenAI influences collaborative dynamics — information flow, role negotiation, and decision-making — in small-group teamwork, and what new collaboration challenges it raises. The distributed cognition lens reframes GenAI as a cognitive participant distributed across people, tools, and environment.
+
+## Method
+
+- **Observation study:** 18 students in six groups of three, working synchronously (3 in-person, 3 online via Microsoft Teams) on designing a cultural educational game with a single shared ChatGPT-4 interface over ~45 minutes, followed by reflection.
+- **Interviews:** 9 additional semi-structured interviews (~45 min) capturing asynchronous, everyday GenAI use in teamwork.
+- **Analysis:** Qualitative thematic coding across three collaborative-dynamics dimensions — information flow, role negotiation, decision-making — plus GenAI as a collaborative space.
+
+## Key findings
+
+- **Access configuration shapes information flow.** With a shared, visible interface, teams co-constructed "collective prompts" and ran a recurring surface–evaluate–embed cycle, sustaining common ground. In asynchronous settings, private, fragmented prompting and output de-labelling produced opaque, privatised information flows that raised the cost of maintaining a shared cognitive model.
+- **Awareness must extend to the AI.** GenAI is cognitively involved but contextually unaware of the team's shifting focus — a paradox that forces teams to constantly repair drift between the AI's limited awareness and the actual collaborative trajectory. Future systems need AI aware of group state and, with multiple agents, aware of each other.
+- **Roles are negotiated, not fixed.** GenAI's role shifted from subordinate assistant to contested teammate depending on context and proactivity expectations; teams debated and constrained AI influence to ensure alignment and accountability.
+- **Design direction — permeable boundaries with directional context.** Team-level AI should pass shared context into personal AI spaces, but insights generated privately should not auto-flow back to the group; humans stay in control of what becomes part of the shared record.
+
+## Practical implications
+
+- **Surface AI contributions.** The surface–evaluate–embed cycle is a practical pattern: explicitly highlight, verify, and embed AI outputs to anchor shared attention and memory.
+- **Design for both synchronous and asynchronous modes.** Collaborative GenAI systems should combine private and shared access and offer shared spaces that support group memory, moving beyond one-to-one interaction models.
+- **Instructors:** be aware that asynchronous group GenAI use can fragment transparency; encourage practices that surface AI inputs for collective negotiation.
+
+## Connected Concepts
+
+- [[collaborative-learning]] — small-group teamwork as the context
+- [[distributed-cognition]] — the theoretical lens; GenAI as a distributed cognitive participant
+- [[human-ai-collaboration]] — negotiating GenAI's role in group work
+- [[conversational-ai]] — chat-based GenAI as agent and space
+
+## Connected Articles
+
+- [[genai-group-writing-strategies-2026]] — GenAI and group writing strategies
+- [[genai-counter-learner-groupthink-2025]] — GenAI countering learner groupthink
+- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — adaptive AI scaffolding in collaborative problem-solving
+- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI chatbots and collective efficacy in collaborative learning
+
+## Citation
+
+Xu, H., Kharrufa, A., Solaiman, E., & Vlachokyriakos, V. (2026). [AI as an Agent and Collaborative Space: Exploring the role of generative AI in small group synchronous and asynchronous collaborative dynamics](https://doi.org/10.1145/3772318.3791087). In *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '26)*.
 
 ---
 
