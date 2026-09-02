@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-09-01T18:40:00-04:00"
+updated: "2026-09-02T10:12:00-04:00"
 type: concept
 tags: [conversational-ai, intelligent-tutoring, generative-ai, llm, pedagogical-agent, human-ai-collaboration, ai-literacy]
 confidence: medium
@@ -29,6 +29,8 @@ Conversational AI (CAI) is the umbrella term for AI-driven agents that carry on 
 **From chatbots to tutoring agents.** The knowledge base traces CAI's evolution from rule-based FAQ chatbots toward [[intelligent-tutoring|tutoring-focused]] [[pedagogical-agent|agents]]. The [[conversational-ai-tutors-framework|conversational AI tutors framework]] argues proven ITS [[ai-technologies|technologies]] ([[knowledge-tracing]], affect detection, [[student-modeling|student modeling]]) should anchor generative tutors while [[generative-ai]] supplies flexible dialogue. Research on [[measuring-llm-tutors-teach-vs-solve|whether LLM tutors teach or solve]] and [[stanford-evidence-base-ai-k12-2026|tutoring-specific vs general AI]] shows pedagogically designed [[guardrails]] matter: raw general chatbots can short-circuit reasoning while structured tutors preserve [[desirable-difficulties|productive struggle]].
 
 **Interaction and collaboration.** Conversational agents are increasingly framed as interaction partners rather than answer-givers. [[student-ai-interaction]] captures how learners prompt, question, and verify with CAI in practice. In [[collaborative-learning]], agents mediate participation and shared [[regulation]], and in [[language-learning]] they provide real-time conversational practice. The [[human-ai-collaboration]] thread examines when this partnership preserves versus substitutes for the learner's cognitive work.
+
+**The role the agent plays shapes the interaction.** CAI design is not neutral about its persona: [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]] found a fixed "student peer" companion in elementary book talk sustained longer interactions yet dominated the conversation (lower student word/sentence share) and hit an "affective ceiling" — matching a human teacher on factual recall but falling short on emotional and future-oriented reflection — arguing CAI should adapt its role (peer, teacher assistant, parent advisor) rather than stay monolithic. [[xu-genai-collaborative-space-2026|Xu et al.]] extend this to small groups, showing generative AI acts as both an *agent* and a *collaborative space* in synchronous and asynchronous collaborative dynamics, where the interaction design decides whether it scaffolds or supplants group cognition.
 
 **Student perspectives.** Real-world usage shows adoption hinges on [[ai-literacy]] and [[usability-research|user experience]] more than on technical capability. A human-centred [[mixed-methods-research|mixed-methods]] study of the "Jordan Chatbot," a GPT-4o-based [[pedagogy|pedagogical]] agent in an Australian law course, found students hold positive attitudes and perceive gains in knowledge while strongly supporting [[academic-integrity]] requirements; over a third of interactions occurred after hours, confirming the value of 24/7 availability ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]). Notably, AI literacy — not general technology proficiency — predicted willingness and confidence to use the chatbot, and usability (an intrusive pop-up design) was the largest barrier among non-users, ahead of trust, preference for staff, and academic-integrity fears.([[colbran-student-perspectives-genai-chatbots-2026]]) The study recommends human-centred design, explicit AI policies and assessment labels, staff and student training, and continuous error monitoring — evidence that effective CAI deployment is as much a design and literacy problem as a technical one.
 
@@ -96,6 +98,8 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender and motivation in GenAI achievement
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
+- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
+- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)
 
 ## Citation
 

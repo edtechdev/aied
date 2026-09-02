@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-01T16:00:00-04:00"
+updated: "2026-09-02T10:18:00-04:00"
 connected_faqs: [faculty-ai-competencies]
 type: concept
 tags: [ai-literacy, educational-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy]
@@ -47,6 +47,8 @@ The knowledge base's PD literature identifies effective approaches:
 - **Design-based and integrated approaches:** [[genai-literacy-training-teacher-education-dbr-2026|DBR-based GenAI literacy training]] addresses the overemphasis on technical knowledge and pre-GenAI tools; [[rail-ed-genai-literacy-teacher-education|integrative, developmental frameworks]] and [[sec-ai-literacy-narrative-review-2026|social-emotional competency integration]] broaden literacy beyond pure technique.
 - **Inquiry and authentic practice:** [[quest-ai-inquiry-preservice-teachers|AI-supported inquiry models]] build AI literacy and authentic performance in pre-service teachers.
 - **Context-specific readiness:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI readiness framework]] emphasizes that faculty readiness is a sociotechnical issue requiring alignment of faculty capacity, [[governance]], and quality assurance.
+- **Support must be differentiated by experience and AI proficiency.** [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that how teachers actually interact with AI in lesson design depends on the *interplay* of teaching experience and AI proficiency, not either alone. Experienced teachers with high AI proficiency critically adapt AI output to context (re-prompting, elaboration), whereas novices — even technically fluent ones — tend to accept AI responses directly and rarely consider students and context. This argues for profiling-based PD: response-evaluation checklists and prompt templates for novices, and hands-on skill-building for experienced teachers with lower AI proficiency.
+- **Co-design and pedagogical prompt literacy are competencies, not add-ons.** A systematic review of teacher–AI co-design of learning tasks ([[wang-teacher-ai-co-design-review-2026|Wang, Liu & Islam 2026]], 28 studies) finds the dominant collaboration mode is AI as assistant/content generator, and locates a gap in teachers' fuller co-design and dialogic partnership capacities. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] shows PD that pairs technical AI training with pedagogical reasoning — building "pedagogical prompt literacy" (encoding [[tpack|PCK]] into prompts) — is what lets teachers turn AI output into effective [[collaborative-learning|differentiated group activities]].
 - **Institutional support:** [[educational-development|professional development]] must be paired with institutional infrastructure ([[educational-policy-ai|policy]], , [[institutional-change-framework-ai|institutional change]]) for sustainable adoption.
 
 ## Teacher AI competency and the transforming teacher role
@@ -91,6 +93,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 ## Connected Articles
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Teacher professional knowledge in K-12 AI education: TAIK vs TPAIK and student learning (Shen et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
 - [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
@@ -125,3 +128,5 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework + PD for Ukrainian secondary educators (Marienko et al. 2026)
 - [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
+- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
