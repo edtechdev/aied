@@ -1,8 +1,8 @@
 # Index
 
-Last updated: 2026-09-02 | Total pages: 1219
+Last updated: 2026-09-02 | Total pages: 1224
 
-Articles: 1020 | Concepts: 183 | FAQs: 16
+Articles: 1025 | Concepts: 183 | FAQs: 16
 
 ## Concepts
 
@@ -284,6 +284,7 @@ Articles: 1020 | Concepts: 183 | FAQs: 16
 - [[chirikov-ai-grade-inflation-2026]] — Artificial Intelligence and Grade Inflation
 - [[chirikov-regulate-ai-syllabi-2026]] — How Instructors Regulate AI in College: Evidence from 31,000 Course Syllabi
 - [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Analyzing teacher-AI interaction patterns across teacher experience and AI proficiency in student-centered lesson design
 - [[chudziak-ai-math-tutoring-platform]] — AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education
 - [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
 - [[claassen-learning-analytics-genai-learning-design-2026]] — Understanding the Role of Learning Analytics and Generative Artificial Intelligence on Decision-Making and Learning Design Practice in Higher Education
@@ -695,6 +696,7 @@ Articles: 1020 | Concepts: 183 | FAQs: 16
 - [[li-mroziak-reorienting-critical-ai-literacy]] — Reorienting Critical AI Literacy: A Community-Rooted Praxis of “Resisting AI”
 - [[liang-ai-learning-motivation-sdt-2026]] — From disengaged to self-determined: a latent transition analysis of students' AI learning motivation
 - [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Beyond a single role: Justifying a role-adaptive framework for AI companions through a comparative study in elementary book talk
 - [[lifelong-learning]] — Lifelong Learning
 - [[lim-bannert-student-regulation-genai-chatbot-2026]] — How Do Students Regulate Their Learning With a GenAI Chatbot?
 - [[limitations-in-aied-research]] — Limitations in AIEd Research
@@ -1089,6 +1091,7 @@ Articles: 1020 | Concepts: 183 | FAQs: 16
 - [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education
 - [[taklif-ai-interest-based-personalized-assignments]] — Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments
 - [[talebzadeh-ai-green-education-2026]] — The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints
+- [[talebzadeh-ai-group-activity-roles-2026]] — The Architecture of Roles in AI-Designed Group Activities: A comparative inductive analysis of novice and experienced teachers' differentiated instruction within the IAT framework
 - [[tam-critical-use-genai-engineering-2026]] — Factors Influencing University Students' Intention to Use and Reliance on Generative AI: An Extended Technology Acceptance Model with Critical Use
 - [[task-context-trust-educational-hri-2026]] — What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI
 - [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose Before Policy: Academic Integrity, Generative AI, and Rhetorical Stance
@@ -1174,6 +1177,7 @@ Articles: 1020 | Concepts: 183 | FAQs: 16
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered
 - [[wang-goal-setting-ai-engagement-2026]] — Explaining learning engagement in AI-assisted learning through teacher support and achievement goals: insights from goal-setting theory
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
+- [[wang-teacher-ai-co-design-review-2026]] — Reimagining teacher-AI co-design in learning task design: trends and perspectives
 - [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI in higher education: how dual cognitive pathways paradoxically enable transformative learning
 - [[wei-perkins-genai-student-collaboration-scoping-2026]] — Generative AI and Student Collaboration: A Scoping Review of Group Work Processes, Outcomes, and Risks
 - [[well-being]] — Well-Being
@@ -1187,6 +1191,7 @@ Articles: 1020 | Concepts: 183 | FAQs: 16
 - [[xiao-llm-consortium-blockchain-education-2026]] — Integrating LLM with consortium blockchain for personalized and verifiable online education in higher education
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
 - [[xiong-ai-educational-measurement-review-2026]] — A Decade of Reflection and Thematic Review on Artificial Intelligence's Impact on Educational Measurement
+- [[xu-genai-collaborative-space-2026]] — AI as an Agent and Collaborative Space: Exploring the role of generative AI in small group synchronous and asynchronous collaborative dynamics
 - [[yasir-llm-tutoring-agents-2026]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
 - [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: a simulation-based study of real-time coaching for educational LLM prompting
 - [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — Supporting self-regulated learning through generative AI feedback in online higher education: the importance of student perceptions of the source of feedback
