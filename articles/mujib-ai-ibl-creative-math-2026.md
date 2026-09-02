@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Impact of AI-Supported Inquiry-Based Learning on Students' Creative Mathematical Performance, Critical Problem-Solving Skills, and Attitudes Toward Mathematics"
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-08-25T17:30:00-04:00"
+updated: "2026-09-02T08:59:42-04:00"
 type: article
 tags: [inquiry-based-learning, generative-ai, math-education, k-12, critical-thinking, creativity, cognitive-offloading, active-learning]
 research_method: [experiment]
@@ -35,6 +35,7 @@ This study tempers the enthusiasm for AI-in-IBL: it shows [[generative-ai|AI]]-s
 - [[scaffolding]]
 - [[active-learning]]
 - [[metacognition]]
+- [[creativity]]
 
 ## Connected Articles
 
