@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 183 concepts, 1025 articles, and 16 FAQs.
+> Complete text of 183 concepts, 1026 articles, and 16 FAQs.
 
 # Concepts
 
@@ -1407,6 +1407,7 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
 - [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review: scarce evidence on faculty readiness; urges faculty development and AI as a learning partner
 
 ---
 
@@ -6987,6 +6988,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[all-girls-genai-makerspace-gender-equity-2026]] — All-girls GenAI makerspace workshops and gender equity in computing
 - [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review finding generative AI dominates higher-ed integration, largely at SAMR Substitution/Augmentation
 
 ---
 
@@ -7099,6 +7101,7 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review: LLM/ChatGPT platforms dominate reported higher-ed AI integration
 
 ---
 
@@ -8664,6 +8667,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review: adaptive pathways among the leading higher-ed AI integration use cases
 
 ---
 
@@ -8781,6 +8785,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[vargas-situated-learning-ai-review-2024]] — Situated learning and AI review
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Evidence on the personalization-at-scale promise
 - [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review: adaptive pathways & recommenders are a top AI integration use case in higher ed
 
 ---
 
@@ -10889,7 +10894,7 @@ AI in higher education research spans every function of the university: from [[i
 
 ### Institutional transformation
 
-[[institutional-change-framework-ai|Institutional change frameworks]] analyze how universities adapt to AI — not just at the classroom level but across policy, governance, and organizational structure. [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] reframes faculty readiness as a sociotechnical alignment challenge involving epistemic, pedagogical, institutional, and quality domains. [[universities-ai-era-rethinking|Rethinking universities in the AI era]] examines whether current institutional models can accommodate AI-driven education. Adoption is not uniform: [[alrahmi-org-drivers-ai-adoption-he-2026|organizational-driver research]] identifies what enables or blocks institutional uptake, and [[ai-uk-higher-education-policy-2026|national policy analyses]] show how systemic context shapes university responses. A concrete institutional blueprint comes from [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]], who documents Lingnan University's repositioning as a "Research-Intensive Liberal Arts Institution in the Digital Era," mandating GenAI literacy for all undergraduates and embedding digital literacy across the Common Core while developing a human-in-the-loop model that foregrounds [[ethics|ethical]] reasoning and critical judgment — arguing the AI-for-education shift is an intellectual transformation, not technocentric augmentation.
+[[institutional-change-framework-ai|Institutional change frameworks]] analyze how universities adapt to AI — not just at the classroom level but across policy, governance, and organizational structure. [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] reframes faculty readiness as a sociotechnical alignment challenge involving epistemic, pedagogical, institutional, and quality domains. [[universities-ai-era-rethinking|Rethinking universities in the AI era]] examines whether current institutional models can accommodate AI-driven education. Adoption is not uniform: [[alrahmi-org-drivers-ai-adoption-he-2026|organizational-driver research]] identifies what enables or blocks institutional uptake, and [[ai-uk-higher-education-policy-2026|national policy analyses]] show how systemic context shapes university responses. A concrete institutional blueprint comes from [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]], who documents Lingnan University's repositioning as a "Research-Intensive Liberal Arts Institution in the Digital Era," mandating GenAI literacy for all undergraduates and embedding digital literacy across the Common Core while developing a human-in-the-loop model that foregrounds [[ethics|ethical]] reasoning and critical judgment — arguing the AI-for-education shift is an intellectual transformation, not technocentric augmentation. Macro-level mapping of 22 higher-education AI-integration interventions ([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh et al., 2026]]) reinforces that transformation remains more aspiration than reality: graded on the SAMR model, most interventions sit at Substitution or Augmentation, integration is concentrated in medicine, engineering, and computer science with little humanities presence, and evidence skews to North America and Asia with minimal [[global-south|Global South]] representation.
 
 ### Student experience at scale
 
@@ -10997,6 +11002,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
 - [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review mapping AI integration in higher ed via FACETS + SAMR frameworks (AlSheikh et al. 2026)
 
 ---
 
@@ -12277,6 +12283,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[multimodal-exam-obe-rubrics-2026]] — Multimodal exam dataset with OBE rubrics
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review: assessment automation is a leading AI use case, mostly at SAMR Substitution/Augmentation
 
 ---
 
@@ -13895,6 +13902,7 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 - **[[liu-ai-literacy-interventions-meta-analysis-2026|Meta-analysis of AI literacy interventions]]** — three-level meta-analysis of 59 studies (172 effects, 7,211 participants) estimating a large overall effect (g = 0.837) while showing that effectiveness varies by region and learning-outcome focus (knowledge-focused interventions outperformed those targeting skills, attitudes, or [[ethics]]).
 - **[[ai-literacy-heptagon-2026|AI Literacy Heptagon]]** — an integrative literature review following PRISMA principles, illustrating qualitative synthesis that stops short of meta-analysis.([[ai-literacy-heptagon-2026]])
 - **[[genai-scenario-based-healthcare-education-2026|PRISMA 2020 review of GenAI in healthcare scenario learning]]** — Neto and colleagues (2026) systematically searched five databases (9 Nov 2025) for peer-reviewed GenAI studies across scenario-, case-, [[problem-based-learning|problem-]], and [[simulation]]-based healthcare education, screening 1,151 records down to 23 included studies appraised with the [[mixed-methods-research|Mixed Methods]] Appraisal Tool (MMAT). Their thematic synthesis surfaced six cross-cutting themes anchored on [[prompt-engineering|prompt design]] as instructional specification, and documented gaps in validation standardization, longitudinal/comparative designs, and efficiency quantification — a template for rigorous [[medical-education|domain-specific]] GenAI systematic review.
+- **[[alsheikh-mapping-ai-integration-higher-education-2026|Mapping review of AI integration in higher education (FACETS + SAMR)]]** — a PRISMA 2020 review screening 959 records down to 22 intervention studies, illustrating how a coding framework (FACETS: Form, AI use case, Context, Education focus, Technology, SAMR) plus an evaluative lens (SAMR) maps a fragmented literature and grades depth of transformation. Most included studies sat at SAMR Substitution/Augmentation, showing mapping reviews can reveal an integration field that is broad but shallow — an alternative to effect pooling when the aim is describing a landscape rather than estimating an effect.
 
 ## AI-era synthesis challenge: productivity vs. learning
 
@@ -13979,6 +13987,7 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review classifying 22 AI-integration studies with FACETS + SAMR; most sit at Substitution/Augmentation
 
 ---
 
@@ -15685,6 +15694,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
 - [[all-girls-genai-makerspace-gender-equity-2026]] — All-girls GenAI makerspace workshops and gender equity in computing
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review: integration evidence heavily skewed to North America/Asia, minimal Global South representation
 
 ---
 
@@ -25791,6 +25801,77 @@ This review brings the knowledge base's [[ai-education|AIED]] themes into the cl
 ## Citation
 
 Alrazeeni, D. M., Alharrasi, M., Rony, M. K. K., Biswas, R. K., Tama, I. J., Halder, C. R., Deb, B., Bashar, F., & Akter, F. (2026). [*Transforming nursing education with artificial intelligence: A systematic review (2010–2025)*](https://doi.org/10.1177/23779608261424597). *SAGE Open Nursing*, 12, 1–31. https://doi.org/10.1177/23779608261424597
+
+---
+
+## [Mapping artificial intelligence integration in higher education: A systematic review using the FACETS and SAMR frameworks](https://edtechdev.github.io/aied/articles/alsheikh-mapping-ai-integration-higher-education-2026/)
+
+> **Mapping artificial intelligence integration in higher education** — a PRISMA 2020 [[meta-analysis-systematic-review|systematic review]] by AlSheikh et al. (2026) that screened 959 records across eight databases to map how AI is being integrated into undergraduate [[higher-ed|higher education]], classifying 22 included intervention studies with the FACETS framework (Form, AI use case, Context, Education focus, Technology, SAMR) and grading their depth of educational transformation with the SAMR model (Substitution, Augmentation, Modification, Redefinition). The review finds that AI integration remains largely **incremental** — clustering at Substitution and Augmentation rather than transformation — that it is dominated by [[generative-ai|generative AI]] applied to [[automated-assessment|assessment automation]] and [[personalized-learning|personalized learning support]], and that equity, ethics, academic integrity, and faculty readiness remain undertheorized.
+
+## Overview
+
+[[generative-ai|Generative AI]] tools like ChatGPT are reshaping postsecondary teaching, learning, assessment, and curriculum design, yet the literature on AI integration in higher education remains fragmented and lacks structured frameworks for comparing and evaluating integration. This review addresses that gap by combining two complementary lenses: the **FACETS framework** (a coding schema that characterizes AI interventions by Form, AI use case, Context, Education focus, Technology, and SAMR level) to enable systematic, comparative description, and the **SAMR model** to gauge the extent of educational transformation each intervention affords. Rather than appraising effectiveness, the review maps the landscape — documenting what has been implemented, where evidence concentrates, and where it is missing.
+
+## Method
+
+- **Design:** A systematic review conducted per [[rct|PRISMA]] 2020 and registered with PRISMA-P, using narrative synthesis.
+- **Sources:** Eight databases (PubMed, Medline, Web of Science, ProQuest, Scopus, Dimensions, OpenAlex, IEEE Xplore) were searched for English-language studies published between January 2015 and July 2025, yielding 959 records.
+- **Included studies:** After duplicate exclusion and title/abstract/full-text screening, 22 intervention-focused studies met the inclusion criteria, most from North America and Asia, spanning medicine, nursing, engineering, computer science, and co-curricular wellness.
+- **Coding:** Studies were classified with the FACETS framework and graded on the SAMR model; outcomes and ethical and equity considerations were extracted and synthesized thematically.
+- **Quality appraisal:** No formal risk-of-bias instrument was used, consistent with the review's mapping (rather than efficacy) aim.
+
+## Key findings
+
+- **Generative AI dominates the landscape.** [[llm|Large language models]] — especially ChatGPT, GPT-3/4, and writing-assistance tools — were the most frequently reported platforms, while predictive analytics, LMS integrations, robotics, and multimodal or affective computing remained peripheral.
+- **Assessment automation and personalized support lead the use cases.** Applications clustered around [[automated-assessment|automated grading]], [[ai-detection|plagiarism detection]], and [[formative-assessment|formative feedback]], plus adaptive pathways and recommender systems for [[personalized-learning|personalized learning support]].
+- **Integration is largely incremental, not transformative.** Most studies sat at the SAMR **Substitution or Augmentation** level, with fewer at **Modification** and only one nearing **Redefinition** — AI was usually introduced to improve existing practices rather than reconceptualize curricula or learning outcomes.
+- **Two Redefinition exemplars.** Zhao et al.'s whole-curriculum biomedical-informatics course used AI as a co-creator across course design, assignments, presentations, reflection, and debate, while Jeong's embodied social robot delivered 24/7 well-being coaching previously unfeasible at scale — the only interventions approaching genuinely novel educational practices.
+- **Benefits versus challenges.** Reported benefits were efficiency, personalization for learning and evaluation, engagement, and extended educator reach; challenges centered on [[equity-in-ai-education|equity]], [[ethics]], and [[academic-integrity|academic integrity]], alongside risks to [[critical-thinking|critical thinking]] and [[cognitive-offloading|over-reliance]].
+- **Disciplines and geography are uneven.** Medicine, nursing, engineering, and computer science led integration, with humanities, social sciences, and interdisciplinary programs scarce; research concentrated in North America, East Asia, and Europe, with minimal representation from the [[global-south|Global South]].
+- **Five documented evidence gaps.** The review flags limited evidence of pedagogical transformation, under-explored equity and access implications, scarce research on faculty readiness and institutional support, inadequate ethical and governance frameworks, and a pronounced over-reliance on generative AI to the neglect of robotics, multimodal, and hybrid human–AI collaboration.
+
+## Implications
+
+- **Embed AI as a learning partner, not a threat.** Instructors can have students use an [[intelligent-tutoring|AI tutor]] to draft solutions or explanations, then critique and improve them — leveraging AI for routine, knowledge-based work while freeing class time for deeper discussion.
+- **Redesign assessments for AI-rich contexts.** Because AI can solve standard questions, assessments should emphasize critical thinking, creativity, personal input, open-ended reflection, oral defenses, or applied projects, and may transparently incorporate AI (e.g., "use AI to draft, then document how you improved it") to turn a potential cheating tool into part of the learning process.
+- **Cultivate AI literacy and ethical use.** Students need to understand AI limitations — hallucination, confident-but-wrong answers, bias — and institutions should set clear guidelines distinguishing permitted from prohibited AI uses to promote honesty rather than fear.
+- **Personalize at scale while keeping the human touch.** AI's greatest potential lies in scaling personalization for learning and evaluation, but educators should intentionally preserve mentorship, empathy, and nuanced feedback that AI cannot replicate.
+- **Invest in faculty training and institutional strategy.** The review urges institutional investment in [[educational-development|educational development]] — from effective prompting to pedagogical redesign — plus clear honor codes for AI, communities of practice for educators, and attention to institutional strategy, policy, and governance, not just micro-level outcomes.
+
+## Connected Concepts
+
+- [[higher-ed]]
+- [[generative-ai]]
+- [[llm]]
+- [[automated-assessment]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[intelligent-tutoring]]
+- [[meta-analysis-systematic-review]]
+- [[equity-in-ai-education]]
+- [[educational-policy-ai]]
+- [[academic-integrity]]
+- [[curriculum-design]]
+- [[educational-development]]
+- [[teacher-role]]
+- [[human-in-the-loop-ai]]
+- [[ai-ed-evaluation]]
+- [[research-methods-aied]]
+
+## Connected Articles
+
+- [[genai-higher-education-systematic-review-2026]] — Complementary systematic review of GenAI specifically in higher education
+- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI's effect on educational outcomes (AI-driven vs traditional)
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of tertiary students' AI adoption
+- [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
+- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organizational drivers of AI adoption in higher ed
+- [[ai-distance-education-systematic-review-2026]] — Systematic review of AI in distance education
+- [[ai-vocational-education-training-review]] — Systematic review of AI in vocational education and training
+- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
+
+## Citation
+
+AlSheikh, M. H., Zaini, R., ALmulhem, M. A., & Ahmad, S. (2026). [Mapping artificial intelligence integration in higher education: A systematic review using the FACETS and SAMR frameworks](https://doi.org/10.3389/feduc.2026.1871468). *Frontiers in Education, 11*, 1871468.
 
 ---
 

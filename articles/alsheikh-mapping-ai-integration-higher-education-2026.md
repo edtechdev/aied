@@ -3,7 +3,7 @@ title: "Mapping artificial intelligence integration in higher education: A syste
 created: "2026-09-02T08:31:22-04:00"
 updated: "2026-09-02T08:31:22-04:00"
 type: article
-tags: [higher-ed, generative-ai, assessment, automated-assessment, personalized-learning, adaptive-learning, meta-analysis-systematic-review, faculty-development, equity-in-ai-education, curriculum-design]
+tags: [higher-ed, generative-ai, assessment, automated-assessment, personalized-learning, adaptive-learning, meta-analysis-systematic-review, educational-development, equity-in-ai-education, curriculum-design]
 research_method: [systematic-review]
 audience: [learners, instructors, administrators, policymakers, researchers]
 level: [higher ed]
@@ -42,7 +42,7 @@ confidence: high
 - **Redesign assessments for AI-rich contexts.** Because AI can solve standard questions, assessments should emphasize critical thinking, creativity, personal input, open-ended reflection, oral defenses, or applied projects, and may transparently incorporate AI (e.g., "use AI to draft, then document how you improved it") to turn a potential cheating tool into part of the learning process.
 - **Cultivate AI literacy and ethical use.** Students need to understand AI limitations — hallucination, confident-but-wrong answers, bias — and institutions should set clear guidelines distinguishing permitted from prohibited AI uses to promote honesty rather than fear.
 - **Personalize at scale while keeping the human touch.** AI's greatest potential lies in scaling personalization for learning and evaluation, but educators should intentionally preserve mentorship, empathy, and nuanced feedback that AI cannot replicate.
-- **Invest in faculty training and institutional strategy.** The review urges institutional investment in [[educational-development|faculty development]] — from effective prompting to pedagogical redesign — plus clear honor codes for AI, communities of practice for educators, and attention to institutional strategy, policy, and governance, not just micro-level outcomes.
+- **Invest in faculty training and institutional strategy.** The review urges institutional investment in [[educational-development|educational development]] — from effective prompting to pedagogical redesign — plus clear honor codes for AI, communities of practice for educators, and attention to institutional strategy, policy, and governance, not just micro-level outcomes.
 
 ## Connected Concepts
 
@@ -58,6 +58,7 @@ confidence: high
 - [[educational-policy-ai]]
 - [[academic-integrity]]
 - [[curriculum-design]]
+- [[educational-development]]
 - [[teacher-role]]
 - [[human-in-the-loop-ai]]
 - [[ai-ed-evaluation]]
