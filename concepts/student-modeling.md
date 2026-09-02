@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-02T09:10:56-04:00"
 type: concept
 tags: [student-modeling, knowledge-tracing, cognitive-diagnosis, simulating-students, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring, llm]
 confidence: high
@@ -117,3 +117,5 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] (dash
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
+- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
+- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming

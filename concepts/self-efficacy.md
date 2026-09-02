@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-02T09:10:56-04:00"
 type: concept
 tags: [self-efficacy, motivation, assessment, self-regulated-learning, student-experience, ai-literacy]
 audience: [learners]
@@ -65,3 +65,4 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic self-efficacy
 
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
+- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
