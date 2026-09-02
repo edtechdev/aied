@@ -79,7 +79,7 @@ export function renderMarkdown(text: string, opts: RenderOptions): { html: strin
     let base = '/aied/concepts';
     if (articleSlugs.has(page)) base = '/aied/articles';
     else if (faqSlugs.has(page)) base = '/aied/faqs';
-    return `[${text2}](${base}/${page})`;
+    return `[${text2}](${base}/${page}/)`;
   });
 
   // DOI: convert `doi:xxx` to a link (matches the old inline renderer).
