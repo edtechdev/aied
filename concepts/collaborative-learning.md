@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-02T10:24:00-04:00"
 type: concept
 tags: [collaborative-learning, ai-education, student-experience, scaffolding, equity-in-ai-education, k-12, higher-ed]
 audience: [learners]
@@ -35,6 +35,8 @@ Collaborative learning is grounded in [[sociocultural-learning|sociocultural the
 **AI as a [[pedagogy|pedagogical]] mediator** reconceptualizes AI's role in collaboration beyond tool or peer. Drawing on sociocultural theory and [[distributed-cognition|distributed cognition]], **[[niari-ai-pedagogical-mediator-collaborative-learning|Niari]]** positions AI as an active participant in the orchestration of interaction, epistemic sense-making, and regulatory processes, redistributing agency, authority, and responsibility across human and non-human actors without displacing learner or teacher agency. This grounds collaborative learning in a socially mediated, co-regulated view of AI rather than an individualistic one.
 
 **Collaboration modes and the efficiency–regulation trade-off.** Empirical research on college students collaborating with AI for complex problem-solving identifies three distinct modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration*. The most efficient mode (delegated reasoning) yields the highest task performance but the lowest learners' self-regulatory engagement, while the mode with greatest self-regulation (concerted interpretation) underperforms on task outcomes.([[hao-human-ai-collaborative-problem-solving-cognition]]) This reveals a central design tension: collaborative-learning environments must balance the efficiency of the distributed human–AI system against the depth of learners' [[self-regulated-learning|regulatory]] engagement.
+
+**GenAI as agent and space in small groups — mode matters.** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]] observe that *how* a team accesses GenAI shapes collaboration: with a single shared interface in synchronous work, teams co-construct "collective prompts," run a surface–evaluate–embed cycle, and treat the chat as shared memory; in asynchronous work, private prompting and output "de-labelling" fragment transparency and raise the cost of sustaining a shared cognitive model. Their GenAI-Supported Cooperative Work (GSCW) lens frames GenAI as a configurable agent (individual assistant to team member) and an interactive collaborative space — connecting access configuration directly to the [[icap-framework|ICAP]]-relevant quality of interactive engagement.
 
 **Collaboration as the object of instruction.** [[golrang-propact-pair-programming-2026|ProPACT]] is an AI-driven adaptive tutor for pair programming that treats the *dyad* — not the individual — as the unit of analysis, modeling joint visual attention, joint mental effort, and pupil-based signals in real time to predict collaborative breakdowns up to 30 seconds in advance and intervene before they occur. Dyads receiving proactive feedback achieved substantially higher debugging success and completed tasks more efficiently, and showed sustained gains in collaborative regulation afterward — evidence that AI can teach collaboration itself, not just support a task. Measuring collaborative competence poses the complementary challenge of assessing collaborative problem-solving (CPS) skill at scale, which traditionally requires manually coding process data from simulated tasks into CPS behaviours — time-consuming and impractical at scale; [[prompt-engineering|context-aware prompting]] of pre-trained language models automates this coding by modelling contextual dependencies and fusing cognitive and social abilities, achieving superior performance over strong baselines.
 
@@ -117,3 +119,4 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI and student group work: a scoping review (Wei & Perkins 2026)
 - [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
+- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)

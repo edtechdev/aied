@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-02 | Total entries: 1203
+Last updated: 2026-09-02 | Total entries: 1208
 
 ## 2026-09-02
 
@@ -8,6 +8,16 @@ Last updated: 2026-09-02 | Total entries: 1203
   - How Instructors Regulate AI in College: Evidence from 31,000 Course Syllabi
 - 📄 [[chirikov-ai-grade-inflation-2026]]
   - Artificial Intelligence and Grade Inflation
+- 📄 [[choi-teacher-ai-interaction-lesson-design-2026]]
+  - Analyzing teacher-AI interaction patterns across teacher experience and AI proficiency in student-centered lesson design
+- 📄 [[liao-role-adaptive-ai-companion-book-talk-2026]]
+  - Beyond a single role: Justifying a role-adaptive framework for AI companions through a comparative study in elementary book talk
+- 📄 [[wang-teacher-ai-co-design-review-2026]]
+  - Reimagining teacher-AI co-design in learning task design: trends and perspectives
+- 📄 [[talebzadeh-ai-group-activity-roles-2026]]
+  - The Architecture of Roles in AI-Designed Group Activities: A comparative inductive analysis of novice and experienced teachers' differentiated instruction within the IAT framework
+- 📄 [[xu-genai-collaborative-space-2026]]
+  - AI as an Agent and Collaborative Space: Exploring the role of generative AI in small group synchronous and asynchronous collaborative dynamics
 
 ## 2026-09-01
 

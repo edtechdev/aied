@@ -12,7 +12,7 @@ sources: ['raw/papers/chirikov-ai-grade-inflation-2026.md']
 confidence: high
 ---
 
-> **Artificial intelligence and grade inflation** — a quasi-experimental study by Igor Chirikov (2026) analyzing **500,000+ grades** across a balanced panel of 319 courses (84 departments) at a large research university, 2018–2025. Using a **difference-in-differences** design, it finds that after ChatGPT's release, courses with more AI-exposed tasks (writing, coding) saw the **share of A grades rise by 13 percentage points (~30% relative to baseline)** and GPA by 0.12 points, with grade-distribution compression. A triple-differences analysis shows the effect is concentrated in **homework-heavy courses** — evidence that AI-driven **task displacement**, not broad [[learning-gains|learning gains]], is the primary mechanism.
+> **Artificial intelligence and grade inflation** — a quasi-experimental study by Igor Chirikov (2026) analyzing **500,000+ grades** across a balanced panel of 319 courses (84 departments) at a large research university, 2018–2025. Using a **difference-in-differences** design, it finds that after ChatGPT's release, courses with more AI-exposed tasks (writing, coding) saw the **share of A grades rise by 13 percentage points (~30% relative to baseline)** and GPA by 0.12 points, with grade-distribution compression. A triple-differences analysis shows the effect is concentrated in **homework-heavy courses** — evidence that AI-driven **[[cognitive-offloading|task displacement]]**, not broad [[learning-gains|learning gains]], is the primary mechanism.
 
 ## Overview
 

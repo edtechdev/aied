@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-02T09:30:00-04:00"
 type: concept
 tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
 audience: [instructors]
@@ -50,7 +50,7 @@ In-service professional development supports practicing teachers in integrating 
 
 ### Knowledge, beliefs, and practice
 
-A key finding across teacher-education research is the gap between what teachers *articulate* and what they *enact*: teachers often claim operational AI skills but struggle to apply pedagogically meaningful knowledge in practice.([[teachers-ai-knowledge-genai-lesson-planning-2026]]) Psychological factors also matter — [[self-efficacy]] positively predicts AI-TPACK, while strong traditional teaching beliefs can act as a cognitive barrier.([[ai-tpack-mathematics-teacher-education-2026]]) [[trust|Trust]] in AI is shaped by both technical knowledge and ethical perceptions (transparency, [[bias-mitigation|fairness]], accountability, inclusiveness).([[intelligent-tpack-ethics-teachers-trust-distrust-2026]]) Measuring teachers' AI literacy is itself an active front: because most AI-literacy assessments target students or general users, the Teachers' AI Literacy Scale (TAILS) — grounded in the six-dimension ED-AI framework — was developed and validated specifically for [[language-learning|preservice language teachers]] through EFA and CFA, filling the measurement gap within teacher education.
+A key finding across teacher-education research is the gap between what teachers *articulate* and what they *enact*: teachers often claim operational AI skills but struggle to apply pedagogically meaningful knowledge in practice.([[teachers-ai-knowledge-genai-lesson-planning-2026]]) The distinction runs even deeper when experience is crossed with AI proficiency: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that technically fluent *novices* still accept AI output passively during lesson design, whereas experienced teachers — even those with lower measured AI proficiency — critically re-prompt and adapt AI suggestions to their students and context. The implication is that in-service PD cannot treat "building AI skill" as sufficient; it must be differentiated by the teacher's experience and proficiency profile — response-evaluation and critical-adaptation scaffolds for novices, hands-on AI skill-building for experienced teachers with weaker AI proficiency. Psychological factors also matter — [[self-efficacy]] positively predicts AI-TPACK, while strong traditional teaching beliefs can act as a cognitive barrier.([[ai-tpack-mathematics-teacher-education-2026]]) [[trust|Trust]] in AI is shaped by both technical knowledge and ethical perceptions (transparency, [[bias-mitigation|fairness]], accountability, inclusiveness).([[intelligent-tpack-ethics-teachers-trust-distrust-2026]]) Measuring teachers' AI literacy is itself an active front: because most AI-literacy assessments target students or general users, the Teachers' AI Literacy Scale (TAILS) — grounded in the six-dimension ED-AI framework — was developed and validated specifically for [[language-learning|preservice language teachers]] through EFA and CFA, filling the measurement gap within teacher education.
 
 ### Simulated instructional practice
 
@@ -90,6 +90,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[human-centered-ai-teacher-educators-2026]] — Professional learning for critical AI literacy in teacher educators
 - [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
 - [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in GenAI lesson planning
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns across teaching experience and AI proficiency in lesson design (Choi et al. 2026)
 - [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Pre-service intelligent-TPACK readiness
 - [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in mathematics teacher education
 - [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethics domain and in-service teachers' trust

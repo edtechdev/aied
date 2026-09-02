@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-02T04:43:00-04:00"
+updated: "2026-09-02T10:20:00-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
@@ -29,7 +29,7 @@ confidence: high
 - **From instructor to orchestrator:** [[teacher-ai-teaming-five-levels|Five levels of teacher-AI teaming]] and [[teacher-student-agency-orchestration|agency orchestration research]] map the spectrum from AI as tool to AI as teaching partner. At the far end, the teacher orchestrates a team that includes human learners, [[intelligent-tutoring|AI tutors]], and curriculum resources rather than delivering all content themselves.
 - **Workflow transformation:** [[ai-changing-teaching-workflows]] documents how AI shifts teacher time from content delivery to higher-value activities like individual support, [[feedback]], and [[curriculum-design|curriculum design]]. The teacher's scarcest resource — attention — is reallocated from producing materials to interpreting learners.
 - **Competency demands:** [[teacher-ai-competency|Teacher AI competency frameworks]] define what educators need to know, from basic tool fluency to pedagogically grounded orchestration. [[teacher-ai-adoption-confidence|Adoption studies]] identify the real barriers: confidence, [[governance|institutional]] support, and workload concerns.
-- **Co-design and agency:** [[teacher-authored-prompts-student-ai-dialogue|Teacher-authored prompts]] and [[gaide-vibe-coding-k12-teachers|vibe coding for teachers]] show educators as active AI designers, not passive consumers — writing the prompts and scaffolds that shape how AI behaves for their students.
+- **Co-design and agency:** [[teacher-authored-prompts-student-ai-dialogue|Teacher-authored prompts]] and [[gaide-vibe-coding-k12-teachers|vibe coding for teachers]] show educators as active AI designers, not passive consumers — writing the prompts and scaffolds that shape how AI behaves for their students. A systematic review of [[wang-teacher-ai-co-design-review-2026|teacher–AI co-design of learning tasks]] (Wang, Liu & Islam 2026) finds this co-designer stance remains uneven — the dominant mode is still AI as assistant/content generator — and [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] shows the teacher's agency as "bilingual learning designer" is what turns AI-designed group activities into differentiated, ZPD-aligned instruction.
 - **[[teacher-education|Preservice]] preparation:** [[ai-tpack-preservice-math-teachers|TPACK-based training]] and [[educational-development]] programs prepare future teachers for AI-augmented classrooms before they enter them.
 
 ### What the changing role actually looks like: concrete examples
@@ -209,3 +209,5 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
+- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)

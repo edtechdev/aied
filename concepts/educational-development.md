@@ -1,7 +1,7 @@
 ---
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-02T10:22:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design]
@@ -60,7 +60,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 
 **Build toward curriculum redesign, not tool adoption.** The goal is faculty redesigning courses and assessment, not just adding AI tools. Ground professional development in course-level redesign work and assessment reform, and give faculty structured frameworks for doing so (e.g. [[ai-assessment-scale-reform|assessment scales]], [[institutional-change-framework-ai|institutional change frameworks]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
-**Anchor in a competency framework.** Use a structured model like [[tpack]] ([[ai-tpack-preservice-math-teachers|TPACK-based training]]) or an AI upskilling ladder ([[crewscaler-ai-upskilling-framework|AI upskilling frameworks]]) so that development is sequenced and measurable rather than ad-hoc, and so faculty can see their own progression toward [[teacher-ai-competency]].([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])
+**Anchor in a competency framework.** Use a structured model like [[tpack]] ([[ai-tpack-preservice-math-teachers|TPACK-based training]]) or an AI upskilling ladder ([[crewscaler-ai-upskilling-framework|AI upskilling frameworks]]) so that development is sequenced and measurable rather than ad-hoc, and so faculty can see their own progression toward [[teacher-ai-competency]]. Development should also build **pedagogical prompt literacy** — the capacity to encode pedagogical intentions into prompts — since [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] finds it is pedagogical expertise, not AI fluency, that determines the quality of teachers' AI-assisted design work.([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
 
 **Surface and address fears and mental models.** Before redesigning teaching, use a metaphor-analysis workshop ([[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey 2025]]) to surface a team's assumptions and anxieties about GenAI — including the fear that it will replace teaching roles — and build development that responds to them rather than ignoring them.([[fear-awe-genai-metaphor-workshops-2025]])
 
@@ -111,3 +111,4 @@ For faculty developers, academic leaders, and instructional designers planning A
 
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
