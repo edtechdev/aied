@@ -457,6 +457,32 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
 </body>
 </html>"""
                 data = copyright_html.encode('utf-8')
+            elif item.filename == 'EPUB/text/cover.xhtml':
+                # Replace pandoc's SVG-wrapped <image> (no alt text, not
+                # readable by screen readers) with an accessible <img> carrying
+                # an alt description of the cover and the EPUB-3 doc-cover role.
+                cover_alt = (
+                    "Cover of the open AI in Education Knowledge Base resource: "
+                    "minimalist white background with bright blue bars at top and "
+                    "bottom; title in large dark serif font; a radial concept map "
+                    "showing the resource's scope with the central node 'AI in "
+                    "Education' connected to twelve surrounding sub-topic nodes "
+                    "(Evaluation, AI Literacy, Research, Assessment, Disciplines, "
+                    "Modeling, Pedagogy, Learning, Ethics, Equity, Technologies, "
+                    "Feedback); public domain (CC0) mark at the bottom."
+                )
+                text = data.decode('utf-8', errors='ignore')
+                m = _re.search(r'<image\b[^>]*\bxlink:href="([^"]+)"', text)
+                src = m.group(1) if m else '../media/file0.png'
+                new_cover = (
+                    f'<div id="cover-image">'
+                    f'<img src="{src}" alt="{cover_alt}" role="doc-cover" '
+                    f'style="width:100%; height:auto;" />'
+                    f'</div>'
+                )
+                text = _re.sub(r'<div id="cover-image">.*?</div>',
+                               new_cover, text, flags=_re.S)
+                data = text.encode('utf-8')
             # (no more Back-to-Contents injection into chapter files)
             zout.writestr(item, data)
     shutil.move(tmp, OUT)
@@ -562,9 +588,25 @@ def build_pdf():
         return False
     if os.path.exists(PDF_OUT):
         print(f"Built {PDF_OUT} ({os.path.getsize(PDF_OUT)} bytes)")
-        return True
-    print('pdf output missing')
-    return False
+    else:
+        print('pdf output missing')
+        return False
+
+    # Set PDF language metadata. WeasyPrint 69 does not write a /Lang key even
+    # with an <html lang> attribute, so set it (and re-affirm the document
+    # title) directly on the PDF catalog/Info via pikepdf — required for
+    # screen-reader and PDF/UA accessibility. Best-effort: never fail the build
+    # if pikepdf is unavailable.
+    try:
+        import pikepdf
+        with pikepdf.open(PDF_OUT, allow_overwriting_input=True) as pdf:
+            pdf.Root.Lang = pikepdf.String('en-US')
+            pdf.docinfo.Title = NAME
+            pdf.save()
+        print(f"PDF metadata set: /Lang=en-US, Title={NAME!r}")
+    except Exception as e:  # pragma: no cover - best-effort metadata
+        print(f"Warning: could not set PDF metadata ({e})")
+    return True
 
 
 if __name__ == '__main__':
