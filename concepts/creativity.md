@@ -1,10 +1,9 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-02T08:59:42-04:00"
 type: concept
-tags: [critical-thinking, student-experience, generative-ai, writing-education, constructivist]
-discipline: [writing education]
+tags: [critical-thinking, student-experience, generative-ai, writing-education, constructivist, design-thinking, problem-solving, math-education, cs-education]
 audience: [learners]
 confidence: high
 ---
@@ -32,6 +31,22 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 
 - **Reaffirming human creativity in the AI era.** The ascent of generative AI challenges educational fields to reaffirm the value of human creativity. A project-based digital [[storytelling-in-education|storytelling]] framework for art and design education was designed explicitly to cultivate emotional, cultural, and narrative capacities that AI lacks, with students producing [[multimodal]] narratives from local cultural heritage — positioning creativity as the distinctly human contribution in AI-integrated learning.
 
+### Creativity across domains
+
+Creativity is not a single monolithic faculty — it is realized differently in writing, visual art, mathematics, and computing, and generative AI interacts with each domain's creative process in distinct ways. Understanding those differences matters for designing AI-assisted learning that protects rather than bypasses each domain's core creative act.
+
+- **Visual art and design — the competence paradox.** Text-to-image (T2I) tools compress the distance from idea to artifact, but ease does not simply liberate creativity. In a study of art and design students (417 surveyed), creative competence strongly predicted *intention* to use T2I tools — yet also predicted more *restrained, selective actual use*, as students negotiated authorship, originality, and skill preservation against efficiency ([[t2i-competence-paradox-2026]]). Ease and ready availability enable quick output generation rather than sustained engagement, so the tool can quietly become a shortcut that erodes the iterative studio workflow it was meant to accelerate.
+- **Mathematics — creativity without transfer.** An AI-supported [[inquiry-based-learning|inquiry-based learning]] intervention in secondary mathematics (students averaging 12.79 years) significantly raised *creative mathematical performance* and attitudes toward math — but did **not** significantly improve critical problem-solving ([[mujib-ai-ibl-creative-math-2026]]). Creativity and convergent problem-solving are separable outcomes; AI-assisted inquiry can grow creative production while transferable analytical skills lag, reinforcing the wider [[cognitive-offloading|performance-learning gap]].
+- **Creative computing — friction that protects iteration.** Novice creative coders learn by understanding and extending "found examples," which AI can helpfully scaffold or temptingly bypass. Flowcode, an AI-powered creative-computing environment, pairs a code-structure [[visualization|flowchart]] with a learning-oriented chat and deliberately-designed friction — shown across two studies to steer AI use toward understanding and extending code rather than vibe-coding around it ([[flowcode-ai-creative-coding]]). Productive difficulty here is a feature that preserves the learner's generative loop.
+
+### Putting creativity into practice
+
+The recurring design principle across these findings is to **keep the learner's own generative act in the loop** — whether that act is producing an idea, iterating an artifact, or extending a found example — and to use AI as a divergent-thinking partner that challenges and expands rather than replaces it.
+
+- **For instructors:** sequence assignments so students generate their own initial ideas *before* consulting AI (a "think first, ChatGPT later" protocol), then use AI to interrogate, extend, or play devil's advocate against those ideas. Grade process and original synthesis alongside polish, so effort-averse shortcuts (one-click T2I output, vibe-coded solutions) gain nothing. In art and design, make authorship and skill development the assessed object, not just the artifact.
+- **For developers and designers:** build tools that reveal and reward the iteration loop — show structure (as Flowcode's flowchart does), add productive friction at the "ship the first output" moment, and offer alternatives and critiques rather than a single polished answer. When the tool makes the next best version effortless, the learner's creative decisions should still be the ones that matter.
+- **For researchers:** treat creativity as domain-specific and outcome-specific — measure whether gains transfer to convergent or unassisted tasks, not just whether assisted output looks more creative.
+
 ### Connections
 
 Creativity connects to [[critical-thinking]] and to [[constructivist]] learning. It is protected by the same [[reducing-ai-misuse]] [[scaffolding|scaffolds]] that preserve learning, and by [[authentic-assessment]] designs that reward original reasoning over polished products.
@@ -46,6 +61,10 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[reducing-ai-misuse]]
 - [[authentic-assessment]]
 - [[collaborative-learning]]
+- [[design-thinking]]
+- [[problem-solving]]
+- [[inquiry-based-learning]]
+- [[cognitive-offloading]]
 
 ## Connected Articles
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
@@ -58,3 +77,6 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
 - [[genai-mindtool-generative-learning]] — GenAI as a Mindtool for Generative Learning
 - [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
+- [[t2i-competence-paradox-2026]] — The competence paradox of text-to-image AI among art and design students
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported inquiry-based learning and creative mathematical performance
+- [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing

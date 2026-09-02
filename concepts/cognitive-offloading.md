@@ -103,6 +103,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[ai-literacy]] — Knowing when to offload and recognizing reliance patterns
 - [[agency]] — Diminished when AI substitutes for the learner's cognition
 - [[critical-thinking]] — Degraded by uncalibrated offloading
+- [[creativity]] — Undermined when AI replaces the learner's generative act
 - [[distributed-cognition]] — The efficiency–regulation trade-off of delegation
 - [[embodied-learning]] — Situated cognition as the alternative to outsourcing
 - [[generative-ai]] — The tool context of AI-mediated offloading
