@@ -93,6 +93,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[english-education]]
 
 ## Connected Articles
+- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 - [[benali-genai-academic-writing-2026]]

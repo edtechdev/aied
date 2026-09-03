@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-02T08:40:00-04:00"
+updated: "2026-09-03T09:00:00-04:00"
 type: concept
 tags: [automated-assessment, assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 audience: [instructors]
@@ -76,6 +76,8 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 
 - **Large-scale AI grading of handwritten [[physics-education|physics]] (2026):** A multimodal model (GPT-5.5) graded 10,364 scanned pages across a national Physics Olympiad theory exam, selection camp, and university quantum-mechanics exam, achieving total-score correlations of 0.91–0.97 with official marks and recovering the same top-five Olympiad team. Revised page-by-page, evidence-location instructions improved agreement — evidence that [[multimodal|multimodal AI]] can support high-stakes summative grading with careful rubric and prompt engineering ([[ai-grading-handwritten-physics-2026]]).
 
+- **LLM comparative judgment for writing screening (2026):** Mercer & Reed used seven LLMs as pairwise comparative judges to score informational writing from 1,208 students in Grades 3–6 across three screening occasions. LLM-CJ scores correlated strongly with analytic rubric scores (r = .67–.73, strongest for Gemini-3.1 Pro) with AUC .82–.86 for proficiency; findings were stable across models, with little validity gain from costlier, more capable ones, while averaging three writing samples improved accuracy — sampling breadth mattered more than model choice. Predictive-bias patterns for [[multilingual-learning|multilingual learners]] matched human rubric scoring, supporting LLM-CJ as an efficient, low-cost screening approach ([[llm-comparative-judgment-writing-screening-2026]]).
+
 - **Quality-dependent alignment with instructor grading (2026):** Comparing ChatGPT, peers, and an instructor grading the *same* undergraduate group projects, [[usher-faraon-who-grades-best-2026|Usher & Faraon found]] ChatGPT's alignment with the instructor *improved as project quality increased* — its largest overestimation was for low-quality work (≈ +14 points), shrinking to ≈ +2.5 points for high-quality projects. ChatGPT also graded higher on average than both peers and the instructor, a grade-inflation tendency that undermines its reliability as a standalone summative grader, especially for weaker submissions.
 
 ## Connected Concepts
@@ -103,6 +105,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[semantic-variability-llm-conversation-assessment-2026]]
