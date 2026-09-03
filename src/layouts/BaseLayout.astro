@@ -665,20 +665,20 @@ const recentConceptItems = recentConcepts.map(c => ({
           align-items: center;
         }
         /* Belt-and-suspenders: hide the native disclosure marker in every engine. */
-        .nav-section > summary::-webkit-details-marker { display: none; }
-        .nav-section > summary::marker { content: none; }
-        .nav-section > summary::after {
-          content: '';
+                .nav-section > summary::-webkit-details-marker { display: none; }
+                .nav-section > summary::marker { content: none; }
+                /* Pico CSS injects its own global summary::after chevron (floated right).
+                   Suppress it here so only our inline SVG chevron shows. */
+                .nav-section > summary::after { content: none; display: none; }
+        .nav-section > summary .nav-chev {
           flex-shrink: 0;
-          width: 0.5rem;
-          height: 0.5rem;
-          border-right: 2px solid var(--muted-color);
-          border-bottom: 2px solid var(--muted-color);
-          transform: rotate(-45deg);
-          transition: transform 0.15s ease;
           margin-left: auto;  /* push the chevron to the right of the header */
+          color: var(--muted-color);
+          transition: transform 0.15s ease;
         }
-        .nav-section[open] > summary::after { transform: rotate(45deg); }
+        /* Collapsed: chevron points right; open: points down. */
+        .nav-section:not([open]) > summary .nav-chev { transform: rotate(-90deg); }
+        .nav-section[open] > summary .nav-chev { transform: rotate(0deg); }
     .nav-section > summary:hover { color: var(--primary); }
     .nav-section-body { padding: 0.1rem 0 0.5rem 0.6rem; }
     .nav-group { margin-bottom: 0.6rem; }
@@ -1038,7 +1038,7 @@ const recentConceptItems = recentConcepts.map(c => ({
           </div>
           {conceptIndex.map((section, si) => (
             <details class="nav-section" open={si === 0} data-state-key={`nav:${si}:${section.heading}`}>
-              <summary>{section.heading}</summary>
+              <summary><span>{section.heading}</span><svg class="nav-chev" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg></summary>
               <div class="nav-section-body">
                 {section.groups.map(group => {
                   const items = group.items.filter(slug => conceptMap[slug]);

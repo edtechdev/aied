@@ -42,7 +42,7 @@ safe — recomputing it on update surfaces the change.
    source link. Only touch the synthesis body if headline findings changed.
 4. Regenerate static site (absolute output path!):
    ```bash
-   cd ~/.hermes/skills/research-wiki
+   cd ~/.ai-agent/skills/research-wiki
    python3 scripts/generate-static-site.py --wiki-path <WIKI_PATH> \
        --output-path <WIKI_PATH>/static-site --wiki-title 'AI Ed Wiki'
    ```

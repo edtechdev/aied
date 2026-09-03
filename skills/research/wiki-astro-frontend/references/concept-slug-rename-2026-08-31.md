@@ -17,7 +17,7 @@ Validated renaming `instructional-design`→`learning-design` and `faculty-devel
 - It's a TS object. Append each entry as `'old': 'new',` INSIDE the object before the closing `};`. This session a sloppy append left a stray duplicate `}` then `};` → `npm run build` failed with `Left side of comma operator...` / `';' expected`. Remove any duplicate closing brace.
 
 ## Sync the scanner alias dict to BOTH copies
-- Change the KEY `'old': [` → `'new': [` in BOTH `skills/research/wiki-inline-links/scripts/inline_link_scan.py` (repo) AND `~/.hermes/skills/research/wiki-inline-links/scripts/inline_link_scan.py` (active) — they drift. KEEP the alias phrases (they legitimately name the old term).
+- Change the KEY `'old': [` → `'new': [` in BOTH `skills/research/wiki-inline-links/scripts/inline_link_scan.py` (repo) AND `~/.ai-agent/skills/research/wiki-inline-links/scripts/inline_link_scan.py` (active) — they drift. KEEP the alias phrases (they legitimately name the old term).
 
 ## Synonym-of-old-term preference (the maintainer changed mid-task)
 - the maintainer first asked to keep a note about the old synonym term, then corrected to REMOVE the standalone `*Note: this concept is also commonly referred to as...*` paragraph while KEEPING the inline `(also known as *old term*)` in the lead blockquote. FINAL: fold the synonym into the lead — `> **New Title** (also known as *old term*) — ...` — and do NOT add a separate note paragraph.

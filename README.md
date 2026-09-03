@@ -95,7 +95,7 @@ All site-wide metadata lives in a single file, [`site.config.json`](site.config.
 │   ├── epub-cover.png # Book cover used by the EPUB/PDF
 │   └── cc0.png        # CC0 public-domain badge
 ├── tooling/           # Reusable tooling for running your own knowledge base
-├── skills/            # Mirrored Hermes Agent skills (inline linking, EPUB/PDF, site QA, ...)
+├── skills/            # Mirrored AI agent skills (inline linking, EPUB/PDF, site QA, ...)
 ├── site.config.json   # Single source of truth for site-wide metadata
 ├── astro.config.mjs   # Astro config (base /aied, pagefind, sitemap)
 └── .github/workflows/ # Build & deploy to GitHub Pages
@@ -165,7 +165,7 @@ Each run filters for relevance, skips already-ingested items, creates article pa
 Want to set up an automated research knowledge base for a different domain? Everything you need is in the [`tooling/`](tooling/) directory:
 
 - **`tooling/README.md`** — Complete setup guide
-- **`tooling/SKILL.md`** — Hermes Agent skill definition (the `research-wiki` ingestion + export pipeline)
+- **`tooling/SKILL.md`** — AI agent skill definition (the `research-wiki` ingestion + export pipeline)
 - **`tooling/SCHEMA.md`** — Domain, tag taxonomy, and page conventions
 - **`tooling/scripts/`** — RSS fetcher (`fetch-rss-feeds.py`), llms generator (`generate-llms-files.py`), backlink tool (`add-backlinks.py`), readfile-corruption checker
 - **`tooling/references/`** — Pipeline architecture, filtering strategies, recovery procedures
@@ -173,7 +173,7 @@ Want to set up an automated research knowledge base for a different domain? Ever
 - **`tooling/example/`** — Starter knowledge-base files to get going quickly
 - **`tooling/config.example.yaml`** — Scan configuration for customization
 
-The mirrored **Hermes Agent skills** live in [`skills/research/`](skills/research/) and encode the editorial conventions the agents must follow:
+The mirrored **AI agent skills** live in [`skills/research/`](skills/research/) and encode the editorial conventions the agents must follow:
 
 - **`wiki-inline-links`** — term→slug scanner (`inline_link_scan.py`) + list-formatting checker (`check_list_formatting.py`), enforcing aggressive concept-linking in every new/enriched page and catching the recurring numbered-list blank-line bug.
 - **`wiki-journal-update`** — regenerating `journal.md`/`index.md` correctly.
