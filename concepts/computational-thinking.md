@@ -76,6 +76,7 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 
 ## Connected Articles
 
+- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
 - [[ai-pbl-computational-thinking-2026]]
 - [[computational-thinking-ai-agent-creation]]
 - [[reshaping-cs-education-genai]]
