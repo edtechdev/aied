@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T14:25:00-04:00"
 type: concept
 tags: [trust, ai-literacy, educational-robotics, human-ai-collaboration, critical-thinking, intelligent-tutoring]
 confidence: high
@@ -54,6 +54,7 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[remote-proctoring]]
 
 ## Connected Articles
+- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — The teacher-student trust gap over control and agency in K-12 classroom AI
 - [[qu-wang-disclose-or-not-genai-2026]] — Disclosing AI use is driven by relational factors and comfort with instructors, not policy

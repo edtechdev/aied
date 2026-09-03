@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-03 | Total entries: 1219
+Last updated: 2026-09-03 | Total entries: 1220
 
 ## 2026-09-03
 
@@ -16,6 +16,8 @@ Last updated: 2026-09-03 | Total entries: 1219
   - SSAIL: A Design Framework for Safe and Sound AI for Learning
 - 📄 [[student-attention-estimation-fairness-2026]]
   - Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
+- 📄 [[jacome-vasconez-chatgpt-adoption-xai-2026]]
+  - Explaining ChatGPT Adoption in Higher Education: Insights for AI Literacy, Educational Practice, and Responsible AI
 
 ## 2026-09-02
 

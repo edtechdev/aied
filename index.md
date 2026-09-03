@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-03
 
-Articles: 1036 | Concepts: 183 | FAQs: 16
+Articles: 1037 | Concepts: 183 | FAQs: 16
 
 ## Concepts
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
@@ -633,6 +633,7 @@ Articles: 1036 | Concepts: 183 | FAQs: 16
 - [[irt-human-genai-mcq-responses]] — Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments
 - [[irwin-muller-efl-peer-feedback-literacy]] — Positioning Generative AI in EFL Peer Feedback: Training Feedback Literacy and Enabling Uptake in Speaking Classes
 - [[isaza-chatgpt-engineering-prompting-2026]] — An Empirical Study of ChatGPT Use in Engineering Education: Prompting and Performance
+- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Explaining ChatGPT Adoption in Higher Education: Insights for AI Literacy, Educational Practice, and Responsible AI
 - [[item-response-theory]] — Item Response Theory
 - [[item-writing-flaws-irt-difficulty-2026]] — The Impact of Item-Writing Flaws on Difficulty and Discrimination in Item Response Theory
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills for College Graduates: How Instructors and Employers Prioritize AI Skills Differently
