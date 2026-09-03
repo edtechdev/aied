@@ -659,14 +659,15 @@ const recentConceptItems = recentConcepts.map(c => ({
           /* Remove the native disclosure marker. Its `outside` marker box offsets
              tap hit-testing on Firefox Mobile, causing a tap on a collapsed
              section header to register on the link directly above it. A custom
-             chevron (::before) replaces it without that offset. */
+             chevron (::after) replaces it without that offset. */
           list-style: none;
           display: flex;
           align-items: center;
-          gap: 0.4rem;
         }
+        /* Belt-and-suspenders: hide the native disclosure marker in every engine. */
         .nav-section > summary::-webkit-details-marker { display: none; }
-        .nav-section > summary::before {
+        .nav-section > summary::marker { content: none; }
+        .nav-section > summary::after {
           content: '';
           flex-shrink: 0;
           width: 0.5rem;
@@ -675,8 +676,9 @@ const recentConceptItems = recentConcepts.map(c => ({
           border-bottom: 2px solid var(--muted-color);
           transform: rotate(-45deg);
           transition: transform 0.15s ease;
+          margin-left: auto;  /* push the chevron to the right of the header */
         }
-        .nav-section[open] > summary::before { transform: rotate(45deg); }
+        .nav-section[open] > summary::after { transform: rotate(45deg); }
     .nav-section > summary:hover { color: var(--primary); }
     .nav-section-body { padding: 0.1rem 0 0.5rem 0.6rem; }
     .nav-group { margin-bottom: 0.6rem; }
