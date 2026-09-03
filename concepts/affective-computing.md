@@ -1,7 +1,7 @@
 ---
 title: Affective Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-02T09:10:56-04:00"
+updated: "2026-09-03T09:00:00-04:00"
 type: concept
 tags: [student-experience, higher-ed, llm, generative-ai, learning-analytics, k-12, cognitive-offloading, adaptive-learning, personalized-learning, intelligent-tutoring]
 audience: [learners]
@@ -26,6 +26,8 @@ confidence: medium
 ### Sensing emotion to adapt instruction
 
 Affective computing aims to make AI systems emotionally aware so they can respond to how learners feel, not just what they do. In education this means sensing frustration, confusion, confidence, boredom, or engagement and adapting instruction accordingly. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] demonstrates the approach by modeling affect from two modalities — conversational text and real-time facial expression — and mapping aggregated emotional state to [[pedagogy|pedagogical]] strategies before [[prompt-engineering|prompting]] the tutor.
+
+- **Emotional and reflective LLM support in middle-school math:** [[mindful-llm-math-tutoring-2026|Rief et al. (2026)]] layered mindfulness onto an algebra [[intelligent-tutoring|tutor]] for 7th graders via dynamic chats, breathing exercises, and mindful error-feedback language. In a small classroom RCT (42 completers of 252 participants) the mindful version reached similar algebra learning in less time and with fewer requested hints than cognitive support alone — higher learning efficiency and more balanced help-seeking — though state-math-anxiety reduction did not differ significantly between conditions.
 
 ### The benefits and the risks
 
@@ -58,6 +60,8 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[ai-sycophancy]]
 ## Connected Articles
 
+- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
+- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[emotion-aware-classroom-iot-monitoring-2026]] — Emotion-aware classroom quality assessment via IoT-based real-time monitoring (Nguyen et al. 2026)
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]

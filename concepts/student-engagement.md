@@ -90,6 +90,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[tutortrace-learner-behavioral-states-2026]]
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[ying-genai-journalism-assessment-2026]]

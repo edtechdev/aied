@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-02T08:40:00-04:00"
+updated: "2026-09-03T09:14:00-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 discipline: [language learning]
@@ -43,6 +43,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - **Differentiated impact:** AI tools may widen gaps if designed without an equity lens — [[genai-higher-education-systematic-review-2026|systematic reviews]] and [[ai-scoring-language-bias-physics|scoring-bias studies]] show uneven benefits and harms across learner groups.
 - **Bias amplification:** AI suggestions and automated feedback can reinforce (not challenge) existing teacher and systemic biases. [[fair-explainable-edu-recommendations|Fair and explainable recommendation]] work aims to make educational AI decisions both fair and interpretable. [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] shows LLM writing-feedback tools systematically shift toward stereotype-aligned praise and withheld critique when feedback is personalized with a student's race, language, disability, achievement, or motivation — even on identical essays — making "[[personalized-learning|personalization]]" a concrete bias vector in automated feedback.
 - **Fairness-aware systems:** [[bias-mitigation]] and [[ground-truth-reliability-aied|ground-truth reliability]] research develop methods for detecting and correcting bias in AI tutors, scorers, and recommenders.
+- **Fairness regularizers may not generalize to new learners:** [[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]] added gender- and age-targeted error-gap regularization to a multimodal transformer predicting real-time student attention, and found it narrowed demographic disparities on *validation* data but these gains did not consistently transfer to held-out subjects or repeated subject-level splits (the regularized model reduced the gap in only 4 of 10 training runs). Certified fairness on a single split can therefore evaporate on genuinely new learners — educational AI needs leave-subjects-out, repeated-seed evaluation rather than aggregate metrics alone.
 - **Student agency:** ensuring AI empowers rather than replaces student voice and [[agency]], especially for historically marginalized learners.
 - **Psychological vs. cognitive equity:** [[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]] found a year of school AI instruction in Hong Kong secondary schools **narrowed psychological AI-readiness gaps (confidence, motivation, [[ethics|ethical]] awareness) but not cognitive ones** — objective [[ai-literacy]] gaps between self-initiated ("high-agency") learners and their peers persisted, a Matthew-effect pattern where curricula "raised the floor but did not level the playing field." Access to a curriculum alone, without sustained self-initiated [[student-engagement|engagement]], may foster psychological but not full cognitive parity.
 - **Prompt privilege:** [[prompt-privilege-equitable-ai-access-2026|Jin et al.]] document "prompt privilege" — users who phrase requests skillfully systematically obtain better LLM output than users expressing the same intent less adroitly — making [[prompt-engineering|prompting]] skill a silently uneven resource. Their Prompt Equity Transformer shifts prompt optimization into the system, treating equitable output as an accessibility property rather than demanding expert prompting from novices.
@@ -87,6 +88,9 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[du-yuan-epistemic-dependence-2026]] — Epistemic plurality and justice in AI-mediated learning (Du & Yuan 2026)
+- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
+- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps

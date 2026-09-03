@@ -1,6 +1,21 @@
 # Journal
 
-Last updated: 2026-09-02 | Total entries: 1213
+Last updated: 2026-09-03 | Total entries: 1219
+
+## 2026-09-03
+
+- 📄 [[du-yuan-epistemic-dependence-2026]]
+  - Epistemic Dependence in AI-Mediated Learning
+- 📄 [[icet-ml-education-trust-2026]]
+  - Addressing Trust in AI Systems through Education: A Didactic Perspective
+- 📄 [[llm-comparative-judgment-writing-screening-2026]]
+  - Validity of Large Language Model Comparative Judgment for Universal Writing Screening
+- 📄 [[mindful-llm-math-tutoring-2026]]
+  - Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
+- 📄 [[ssail-safe-sound-ai-learning-2026]]
+  - SSAIL: A Design Framework for Safe and Sound AI for Learning
+- 📄 [[student-attention-estimation-fairness-2026]]
+  - Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 
 ## 2026-09-02
 

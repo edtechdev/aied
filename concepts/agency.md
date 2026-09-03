@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-03T09:12:00-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 audience: [learners]
@@ -66,6 +66,8 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 
 The framework's boundary condition requires **contestability** (the ability to question and cross-check AI output), **provenance** (knowing where training data and output come from), and **non-delegation of moral and intellectual credit** (high-stakes judgments about student welfare, academic standing, and grades must not be determined solely by AI). This gives educators and policymakers a more precise vocabulary than the vague "balance" between human and artificial contributions, connecting agency to [[ethics]], [[assessment]], [[equity-in-ai-education]], and [[governance]].
 
+A closely related framing is **relational epistemic agency** ([[du-yuan-epistemic-dependence-2026|Du & Yuan 2026]]), which agrees that agency is socially enabled and technologically mediated rather than a matter of isolation from dependence. Where the Ecological Co-Agency Framework stresses human epistemic accountability as a non-negotiable boundary, Du and Yuan retain an explicit *asymmetry*: AI systems may shape and extend reasoning without possessing reciprocal responsibility or legitimate authority. Their six diagnostic criteria — contestability, recoverability, transfer, traceability, distributed responsibility, and epistemic plurality — provide a practical test for when a human–AI relation preserves the learner's capacity to participate in how claims are formed, assessed, and accepted, versus when it merely delivers a product. Agency on this account is not independence from tools but the capacity to judge responsibly *with, through, and against* the systems that mediate knowledge.
+
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
@@ -86,11 +88,13 @@ The framework's boundary condition requires **contestability** (the ability to q
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[reclaiming-epistemic-agency-co-agency-2026]]
+- [[du-yuan-epistemic-dependence-2026]] — Relational epistemic agency and six criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use

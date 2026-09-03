@@ -59,6 +59,7 @@ Multilingual concerns also affect [[automated-assessment|automated assessment]]:
 
 ## Connected Articles
 
+- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
 - [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages
