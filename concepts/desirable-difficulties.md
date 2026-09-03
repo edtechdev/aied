@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [desirable-difficulties, cognitive-psychology, self-regulated-learning, cognitive-offloading, learning-theories, scaffolding, metacognition]
 
@@ -46,7 +46,7 @@ Because AI is designed to be frictionless — instantly generating summaries, so
 | The "threat" | The illusion of competence (thinking you know it because it feels easy now) | Automation bias (letting the machine do the thinking for you) |
 | AI implementation | Algorithms that time and structure practice (spacing, interleaving, retrieval) | [[conversational-ai|Chatbot]] guardrails and UI roadblocks that force the learner to do the work |
 
-**Desirable difficulties: the memory optimizer.** Coined by Robert and Elizabeth Bjork (1994), this framework comes from [[cognitive-offloading|cognitive psychology]]. Its core idea is that learning strategies which feel harder and slow initial performance actually produce better long-term retention and [[transfer-of-learning|transfer]]. Desirable difficulties are about *how the brain encodes and retrieves information*: if learning feels too easy or fluent in the moment (like re-reading a highlighted textbook), the brain likely isn't doing the deep processing required to make the memory stick. In AI, a tool using this framework changes the *[[pedagogy]]* of the session — for example, asking the student to retrieve from memory before offering a summary (retrieval practice), scheduling review just before forgetting (spacing), or mixing problem types (interleaving) rather than grouping them by category.
+**Desirable difficulties: the memory optimizer.** Coined by Robert and Elizabeth Bjork (1994), this framework comes from [[cognitive-offloading|cognitive psychology]]. Its core idea is that learning strategies which feel harder and slow initial performance actually produce better long-term retention and [[transfer-of-learning|transfer]]. Desirable difficulties are about *how the brain encodes and retrieves information*: if learning feels too easy or fluent in the moment (like re-reading a highlighted textbook), the brain likely isn't doing the deep processing required to make the memory stick. In AI, a tool using this framework changes the *[[pedagogy]]* of the session — for example, asking the student to retrieve from memory before offering a summary (retrieval practice), scheduling review just before forgetting (spacing), or mixing problem types (interleaving) rather than grouping them by category. Notably, the benefit of these effortful strategies is itself content-dependent: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] show that retrieval practice chiefly strengthens verbatim memory (by delaying forgetting), whereas acquiring a generalizable skill requires integrating worked examples with practice — so the "difficulty" that helps must be matched to the type of knowledge being learned rather than applied uniformly.
 
 **Productive (cognitive) friction: the engagement guardrail.** This framework comes from UX and interaction design, where "friction" is normally the enemy (one-click checkout, instant search). In educational technology, zero friction means zero thinking: productive friction introduces intentional "speed bumps" into the software to prevent the user from offloading cognition to the machine. It is about the *interaction between human and machine*, keeping the user actively engaged and preventing automation bias — blindly trusting the AI's output without evaluating it. In AI, a tool using this framework changes its *behavior and design* to prevent shortcuts — for example, a [[socratic-method|Socratic]] guardrail that withholds the direct answer and asks what symbols the student noticed, effort checkpoints that refuse to generate a draft until a thesis and outline are entered, or delayed feedback that requires committing to an answer and explaining reasoning before the solution is revealed.
 
@@ -116,3 +116,4 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 
 
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
+- [[rachatasumrit-example-problem-ratio-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-03T12:50:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -60,6 +60,7 @@ The knowledge base documents a paradigm shift: from AI as an integrity threat to
 - **Task-specific AI-use declarations:** [[genai-declaration-frameworks-higher-education|Domain-specific declaration frameworks]] replace generic "I used AI" checkboxes with structured declarations mapping use to cognitive stages (e.g., structural planning vs. content generation), forcing reflection and shifting focus from policing to professional practice.
 - **Process-transparent assessment:** architectures such as [[credential-cognitive-stewardship-ai-assessment|cognitive stewardship]], staged submissions, oral defences, and the [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|AI Viva]] (a [[conversational-ai|conversational agent]] probing whether students understand their submissions) make human judgement, verification, and responsibility visible.
 - **[[reducing-ai-misuse|Reducing misuse]]:** integrity sits alongside [[ai-misuse-learning-harm]] (the learning cost of misuse) and [[reducing-ai-misuse]] (the interventions that prevent it), tying honesty to genuine learning rather than rule-following.
+- **Assessment redesign must be paired with cultural support.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] argue that in the generative AI era traditional, summative-heavy and norm-referenced grading undermines integrity as well as deep learning, well-being, and equity, and that [[authentic-assessment|authentic assessment]] — tasks mirroring real professional problems such as live consulting projects and dashboards with executive briefings — can support integrity-preserving alternatives to exam-centered assessment. Yet they caution that implementation is resisted by instructors and students alike, so integrity-preserving redesign requires incremental experimentation and dialogue spanning [[assessment-validity|validity]], assurance of learning, and stakeholders such as accreditation bodies and employers.
 
 ### Connections
 
@@ -173,3 +174,4 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
 - [[luo-dawson-value-judgements-grading-2026]] — Value judgements in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
+- [[mesny-innovative-assessment-grading-management-2026]]

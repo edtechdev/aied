@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [student-ai-interaction, generative-ai, llm, prompt-engineering, student-experience, learning-analytics, intelligent-tutoring, cognitive-offloading, higher-ed]
 audience: [learners]
@@ -25,11 +25,11 @@ Student-AI interaction is the observable surface of learners' [[student-engageme
 
 ### What students ask AI
 
-A core strand of research measures the **types and quality of student inquiries**. Studies apply taxonomies of question types — for example the Graesser et al. 18-type taxonomy — to classify student-AI interactions, often using few-shot classifiers to scale the analysis across hundreds or thousands of interactions. Findings indicate that a small subset of question types accounts for the majority of student inquiries, and that the questions students ask **change substantially as a task progresses** (e.g., [[student-ai-inquiry-types-cs2-2026]]). This task-dependence matters: interaction quality is not a fixed trait of the student but is shaped by problem context, [[scaffolding]], and the affordances of the AI tool.
+A core strand of research measures the **types and quality of student inquiries**. Studies apply taxonomies of question types — for example the Graesser et al. 18-type taxonomy — to classify student-AI interactions, often using few-shot classifiers to scale the analysis across hundreds or thousands of interactions. Findings indicate that a small subset of question types accounts for the majority of student inquiries, and that the questions students ask **change substantially as a task progresses** (e.g., [[student-ai-inquiry-types-cs2-2026]]). This task-dependence matters: interaction quality is not a fixed trait of the student but is shaped by problem context, [[scaffolding]], and the affordances of the AI tool. At the youngest ages, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] found children (ages 6–14) actively tested a chatbot's credibility by posing known-answer questions (e.g., "how big is a t rex") — an expression of epistemic self-agency — while the modal child asked only 1–3 questions and a standout first-grader asked 21, underscoring how developmental and individual variation shapes the questions learners pose.
 
 ### Interaction quality and learning
 
-A complementary strand links the *form* of interaction to learning. Shallow or habitually narrow prompts (asking AI to produce the answer rather than to explain, probe, or evaluate) are associated with reduced learning and increased over-reliance, whereas reflective, verification-oriented interaction supports [[metacognition]] and durable understanding. This connects student-AI interaction directly to [[intelligent-tutoring]] design: systems can be built to invite a wider, more productive range of inquiry and to scaffold question-asking rather than merely answering.
+A complementary strand links the *form* of interaction to learning. Shallow or habitually narrow prompts (asking AI to produce the answer rather than to explain, probe, or evaluate) are associated with reduced learning and increased over-reliance, whereas reflective, verification-oriented interaction supports [[metacognition]] and durable understanding. This connects student-AI interaction directly to [[intelligent-tutoring]] design: systems can be built to invite a wider, more productive range of inquiry and to scaffold question-asking rather than merely answering. Interaction need not run through answer-seeking prompts at all — when AI critiques students' own work, the exchange becomes a reflective, verification-oriented dialogue: in [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]], learners' responses to LLM essay feedback showed reflection in 92.7%, acceptance in 93.6%, and active rebuttal of LLM claims in 87.8% of cases (inter-rater κs = 0.81–0.89), and their response-to-feedback quality improved across iterations as a learnable skill. The reflective side of interaction need not run through direct prompting — in [[breideband-community-builder-cobi-2026|CoBi]], students engaged with classroom-level AI visualizations of their own collaborative speech and deliberated over when the AI's classifications seemed off, turning apparent misclassifications into opportunities for calibrating their understanding of the AI's capabilities and limits ([[trust-calibration]]) rather than purely accepting its output.
 
 ### From interaction to pedagogy
 
@@ -72,3 +72,6 @@ Characterizing student-AI interaction informs [[learning-design]]: instructors c
 - [[isaza-chatgpt-engineering-prompting-2026]] — Logged prompting and integration behaviors
 
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
+- [[breideband-community-builder-cobi-2026]]
+- [[oppenheimer-llms-collaborative-learning-partners-2026]]
+- [[vahedian-children-attitudes-ai-chatbot-2026]]

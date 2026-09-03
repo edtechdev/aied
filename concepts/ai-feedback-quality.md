@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 connected_faqs: [ai-save-instructor-time]
 type: concept
 tags: [ai-feedback-quality, formative-assessment, automated-assessment, feedback, generative-ai, ai-literacy]
@@ -26,7 +26,7 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 
 ### How AI feedback quality appears in the research
 
-- **Comparability to human feedback:** [[ai-generated-feedback-higher-ed|Studies in higher education]] find that AI-generated feedback is experienced as acceptable and supportive — comparable to teacher feedback. But acceptability does not guarantee learning effectiveness.
+- **Comparability to human feedback:** [[ai-generated-feedback-higher-ed|Studies in higher education]] find that AI-generated feedback is experienced as acceptable and supportive — comparable to teacher feedback. But acceptability does not guarantee learning effectiveness. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) likewise finds LLM grading and feedback quality to be task-contingent — matching human raters on short, well-structured answers with detailed rubrics but degrading on complex, open-ended, or multilingual work, with feedback sometimes too generic or misaligned with the grade — and identifies prompt quality, rubric detail, model version, and assessment language as the dominant determinants of grading and feedback quality ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
 
 - **Feedback classification [[benchmark|benchmarks]]:** [[teaching-feedback-classification-benchmark|Cross-language feedback benchmarks]] assess whether feedback quality classification transfers across languages and educational contexts, connecting to [[ai-ed-evaluation]].
 
@@ -38,11 +38,15 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 
 - **Discretionary feedback provision:** [[ai-assistance-discretionary-feedback|Research on AI-assisted feedback in higher education]] examines whether AI increases the quantity and quality of feedback instructors provide.
 
+- **Reliable provision, not inherent superiority, drives AI's edge:** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long field experiment found GPT-4 feedback beat peer feedback because it was *consistently* delivered — nearly all AIF respondents (369/398) received textual plus numeric feedback while under two-thirds of peer-feedback students received none, and much peer feedback was non-targeted praise. When high-quality textual peer feedback *was* received, peer outcomes matched AI's — indicating the AI advantage is reliability, not quality at the margin. Students also rated peer feedback slightly higher on perceived validity and emotion (mild [[trust|algorithm aversion]]) yet still activated and learned more from AI, showing perceived quality and behavioral outcomes can diverge.
+
 - **Feedback literacy as the uptake-side boundary:** [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] validate an **AI Feedback Literacy (AIFL) scale** (16 items, Attitudes/Practices factors) that predicts students' actual uptake of AI feedback, and [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show [[feedback-literacy|feedback literacy]] moderates whether AI feedback improves [[self-regulated-learning]] — high literacy yields benefit, low literacy yields minimal or even negative effects. Feedback quality and feedback literacy are two sides of one system: even high-quality AI feedback is inert without a literate recipient.
 
 - **Feedback quality drives revision depth:** [[rethinking-ai-writing-feedback-literacy|Feedback literacy scripts]] and [[feedback-literacy-scripts-eap-writing|second-rater mechanisms]] show that [[scaffolding]] how students engage with AI feedback shifts revision toward argument-level improvement rather than surface edits — feedback that promotes deeper revision is higher-quality feedback.
 
 - **Sycophancy as a feedback failure:** [[ai-sycophancy|Sycophantic]] feedback conflates support with agreement — an AI that validates a student's answer rather than challenging it undermines feedback's corrective function, degrading quality even when it feels affirming. [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] shows tutors withholding corrective feedback under social pressure, and [[contextual-sycophancy-ai-literacy|contextual sycophancy]] propagates errors into subsequent advice; effective feedback must sometimes challenge the learner.
+
+- **Diagnostic accuracy only partly determines feedback quality — and LLM self-evaluation misaligns with human judgment:** [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] found GPT-4 produced error-targeted hints ~66% of the time in a College Algebra tutor, yet ~35% were too general, incorrect, or gave away the answer; even when diagnosis was wrong the model often recovered with relevant, general-but-correct feedback, though almost all incorrect feedback followed a misdiagnosis. Their simulated-student automated quality checks passed only 21.4% of hints on both tests, rejected targeted feedback ~70% of the time, and favored hints that simply revealed the answer — a stark demonstration that automated [[ai-ed-evaluation|evaluation]] can diverge sharply from human judgments of helpfulness and must be calibrated against them.
 
 ### Quality dimensions
 
@@ -97,4 +101,6 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-
+- [[gpt4-feedback-student-activation-2026]]
+- [[reddig-maclellan-personalized-feedback-llm-2026]]
+- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]

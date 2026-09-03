@@ -1,7 +1,7 @@
 ---
 title: Summative Assessment
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-09-02T04:44:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [summative-assessment, assessment, authentic-assessment, academic-integrity, higher-ed, k-12, ai-ed-evaluation]
 research_method: [educational measurement]
@@ -27,7 +27,7 @@ Summative assessment serves a fundamentally different function from formative as
 
 The knowledge base's research documents how generative AI has fundamentally reshaped the summative-assessment landscape in two directions: AI is used to **score** exams at scale, and AI can be used by students to **evade** exam-based measurement of their own learning.
 
-- **AI as scorer.** Summative assessment increasingly relies on [[automated-assessment|automated scoring]] of exams, essays, and short answers. [[llms-do-not-grade-essays-like-humans-2026|Research on LLM essay grading]] finds [[llm|LLM]] do not grade essays the same way humans do, raising validity and fairness questions for high-stakes automated scoring. [[llm-automated-assessment-student-self-explanations|LLMs assessing student self-explanations]] and [[cong-confidence-asag-2026|automatic short-answer grading]] explore the reliability of LLM scoring in summative contexts, while [[psyscore-essay-scoring-zpd-feedback|psychometrically-aware frameworks]] seek to keep automated scoring trustworthy and adaptive.
+- **AI as scorer.** Summative assessment increasingly relies on [[automated-assessment|automated scoring]] of exams, essays, and short answers. [[llms-do-not-grade-essays-like-humans-2026|Research on LLM essay grading]] finds [[llm|LLM]] do not grade essays the same way humans do, raising validity and fairness questions for high-stakes automated scoring. [[llm-automated-assessment-student-self-explanations|LLMs assessing student self-explanations]] and [[cong-confidence-asag-2026|automatic short-answer grading]] explore the reliability of LLM scoring in summative contexts, while [[psyscore-essay-scoring-zpd-feedback|psychometrically-aware frameworks]] seek to keep automated scoring trustworthy and adaptive. A 296-student handwritten general-chemistry exam illustrates why selective oversight is required: a multimodal LLM's total-score agreement with TA grading was high (R² = 0.91) yet item-level reliability varied sharply by format, and false positives (AI crediting genuinely wrong answers) tend to go undetected because students rarely contest them — so a uniform "grade everything" AI scorer is not defensible for high-stakes use without confidence-based deferral to humans ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 - **AI as evasion.** Because generative AI can produce answers to written questions, unproctored and take-home summative tasks lose validity: [[generative-ai-reduced-study-time-math|proctored, unassisted measures are essential]] because non-proctored performance is inflated by AI, and [[generative-ai-guardrails-harm-learning|guardrailed (hint-not-answer) tools]] can eliminate the exam penalty that unguarded AI causes. [[chirikov-ai-grade-inflation-2026|Chirikov's (2026)]] quasi-experiment on 500,000+ grades makes the mechanism concrete: after ChatGPT's release, courses with more AI-exposed tasks saw the share of A grades rise by 13 percentage points, and the effect concentrated in **homework-heavy courses** (an additional 16 pp in the triple-differences estimate) — direct evidence that unproctored homework, not genuine [[learning-gains|learning gains]], is where AI inflates summative outcomes.
 - **AI-generated exams.** [[assessing-quality-ai-generated-exams-field-2025|A large-scale field study]] and [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment research]] examine whether AI can *generate* high-quality exams and assessment tasks — an emerging summative-design use of AI.
 
@@ -52,6 +52,7 @@ The knowledge base's assessment literature consistently emphasizes that [[assess
 - **Proctored/unassisted measures are the reliable signal:** when students use AI, unassisted summative exams — not homework — reveal genuine learning.
 - **Automated scoring needs psychometric scrutiny:** using LLMs to grade high-stakes exams requires evaluation of reliability, fairness, and validity, not just accuracy.
 - **AI can also generate exams:** AI-assisted exam and task generation is an emerging summative-design application that itself needs quality evaluation.
+- **Reconsider grading purpose, not just format.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] critique traditional summative, norm-referenced grading for encouraging superficial, fragmented learning, giving students little control or transparency, harming intrinsic [[motivation]], fueling stress and [[well-being|anxiety]], and perpetuating inequities while largely assessing recall rather than real-world application. They position reassessment, [[mastery-learning|standards-based grading]], and ungrading as grading-focused innovations that can soften summative-heavy practice, while acknowledging these remain marginal in management education because of normative barriers — grading on a curve, external signaling (rankings, internships, accreditation), and students' instrumental mindset — and recommend incremental experimentation with institutional support.
 
 ## Connected Concepts
 
@@ -91,4 +92,5 @@ The knowledge base's assessment literature consistently emphasizes that [[assess
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
 
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-
+- [[mesny-innovative-assessment-grading-management-2026]]
+- [[cvengros-grading-handwritten-chemistry-ai-2026]]

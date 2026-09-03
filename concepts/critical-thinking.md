@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-03T14:25:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
 level: [higher ed]
@@ -29,6 +29,8 @@ The knowledge base's articles explore critical thinking through design-based and
 [[chatgpt-critical-creative-thinking-review|Reviews of ChatGPT's impact on thinking]] document mixed findings: AI can [[scaffolding|scaffold]] critical analysis when used deliberately (e.g., asking students to critique AI-generated arguments), but it can also short-circuit thinking when used as an answer engine. This tension connects to [[ai-literacy-assessment-misalignment]] research showing that self-reported AI competence far exceeds actual critical evaluation ability.
 
 - **Higher-order cognitive engagement in student-AI chat.** Chang and Li (2026) find that ~62% of student prompts to AI encode higher-order cognitive demand, with Bloom-level profiles varying by discipline ([[stem-education|STEM]] Apply-prevalent 20.8%, language Understand-prevalent 31.7%, social science Create-prevalent 33.8%). Their within-person design shows the same students produce significantly more higher-order prompts in social science than STEM courses (p < .001), indicating that disciplinary context shapes critical and higher-order engagement with AI.
+
+- **AI as a catalyst for critical media literacy in children.** Demir and Akar (2026) evaluate an 18-hour, 5E-model critical media literacy program for fourth-grade Turkish students in which [[generative-ai|generative AI]] (ChatGPT, Grammarly) acted as a [[pedagogical-agent|pedagogical agent]] embedded phase-by-phase rather than an add-on. Paired-samples comparisons showed large gains in media reading (+3.50), writing (+1.67), and total media literacy (+5.17, all p < .01), with between-group post-test effect sizes of Cohen's *d* = 1.12 (reading), 1.18 (writing), and 1.31 (total literacy) favoring the AI-supported group. [[qualitative-research|Qualitative]] analysis (interviews, student posters/drawings/slogans, classroom observation) surfaced six domains of critical media literacy growth — digital self-protection and [[privacy|data privacy]], purposeful and responsible media use, safe communication and boundary awareness, critical evaluation and misinformation awareness, online risk awareness, and media [[ethics]]/digital citizenship — indicating that deliberately interrogating AI-mediated content can cultivate critical analysis and reflection in young learners.
 
 ### Connections to other concepts
 
@@ -90,3 +92,4 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
+- [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children

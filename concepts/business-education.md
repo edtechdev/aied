@@ -1,7 +1,7 @@
 ---
 title: Business Education
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [ai-education, business-education, curriculum-design, generative-ai, higher-ed, discipline-specific-aied]
 discipline: [business education]
@@ -32,6 +32,7 @@ AI in business education is a growing [[discipline-specific-aied|discipline-spec
 - **Student insights on curricula.** [[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb (2026)]] drew on 166 undergraduate business students in a capstone unit, finding strong support for integrating GenAI into curricula with three priority areas: understanding/optimising GenAI functionality, exploring applications across contexts, and navigating ethical/legal dimensions.
 - **Organisational adoption.** [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi (2026)]] examined organisational and technological drivers of AI adoption in [[higher-ed|higher education]] (using TOE + Diffusion of Innovations frameworks, n=300 staff), relevant to how business schools and their institutions adopt AI-driven decision support and smart learning platforms.
 - **Conversational agents in business [[simulation]] games.** [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger, and Liening (2026)]] develop and evaluate an AI-enhanced [[conversational-ai|conversational agent]] (Lara) for adaptive instructional support in business simulation games used for experiential entrepreneurial learning. Grounded in an [[equity-in-ai-education|equity]]-by-design stance and [[universal-design-for-learning|universal design for learning]], the CAIS-GBL framework targets cognitive, [[motivation|motivational]], [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] [[student-engagement|engagement]], with evaluations among student teachers and BSG participants showing positive perceptions of cognitive/[[community-of-inquiry|social presence]] and [[self-regulated-learning]] support — a model for scaling [[formative-assessment|formative]] feedback in [[game-based-learning|simulation-based]] business education.
+- **Assessment and grading innovation is under-researched.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] surveyed 58 assessment-related articles over 20 years across four leading management-education journals (AMLE, JME, Management Learning, IJME) — roughly three per year, many in 2010 and 2014 special issues — finding assessment and grading under-researched relative to their central role in shaping learning. Self- and peer-assessment dominate the discourse (nearly half the corpus, chiefly for [[summative-assessment|summative]] evaluation of group work); [[authentic-assessment|authentic assessment]] appears mainly via technology-mediated [[simulation|simulations]] and is often conflated with [[experiential-learning|experiential learning]]; while reassessment, standards-based grading, and ungrading are virtually absent. The authors urge management educators to engage more actively and reciprocally with these innovations, recommending incremental experimentation (ungraded assignments, reassessment for a single task, standards-based rubrics) backed by program-level coordination and documented Scholarship of Teaching and Learning evidence.
 
 ## Economics and management education
 
@@ -72,3 +73,4 @@ Business is one of the fields where generative AI adoption is fastest, so busine
 - [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organisational drivers of AI adoption in higher education (Al-Rahmi 2026)
 
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
+- [[mesny-innovative-assessment-grading-management-2026]]

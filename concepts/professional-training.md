@@ -1,7 +1,7 @@
 ---
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm]
 audience: [instructors, administrator, learners]
@@ -24,10 +24,11 @@ confidence: high
 ### AI in professional training
 
 - **Skill development:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-coaching-rl-skill-development|RL-based skill coaching]] demonstrate AI-driven professional development.
-- **Simulation and practice:** [[adaptive-virtual-patient-psychotherapy-training|Virtual patient training]] and [[astra-atco-training-simulator|ATCO training simulators]] create AI-powered professional practice environments.
+- **Simulation and practice:** [[adaptive-virtual-patient-psychotherapy-training|Virtual patient training]] and [[astra-atco-training-simulator|ATCO training simulators]] create AI-powered professional practice environments. In [[teacher-education|teacher education]], AI role-play simulation extends this into practice-based teaching: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Student GPT]] simulated a misconception-holding middle-school math student so preservice teachers could practice diagnosing and remediating student errors, aligning with the "approximations of practice" of practice-based teacher learning as an affordable complement to costly platforms like TeachLivE.
 - **Lifelong learning integration:** [[lifelong-learning]] and [[adult-learning]] [[research-methods-aied|research]] connect professional training to continuous education.
 - **Public sector:** [[ai-adoption-training-public-sector|Public sector AI adoption]] examines training in government contexts.
 - **Workforce readiness frameworks:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] propose a Workforce Readiness Level (WRL) framework that adapts the Technology Readiness Level scale into nine competency stages scored across four pillars (digital/AI literacy, cyber-physical fluency, [[human-ai-collaboration|human-machine collaboration]], data-driven decision making), under a "no-thin-pillar" rule. Evidence from smart-manufacturing capstones shows the highest readiness stages are gated by industry-embedded experience rather than coursework — pointing to work-integrated learning as essential to professional AI training.
+- **[[discipline-specific-aied|Domain-specific]] PD evidence is thin.** A [[li-language-educators-genai-review-2026|systematic review of language educators]] (Li et al. 2026) found only three of 23 studies reported structured professional development, yet those that did converged on gains in knowledge, confidence, and identity — evidence that structured, domain-specific training (pairing technical skill with practical wisdom) is both scarce and effective, and that PD should move from awareness-raising and ethics through hands-on tool mastery to co-design of AI-enhanced lessons.
 - **Workforce forecasting:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending that [[higher-ed|higher education]] prioritize durable AI competencies, [[ethics]] and [[governance]], and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, [[educational-policy-ai|AI policy]]) to sustain human-centered work in an automated economy.
 
 ### Distinct from academic education
@@ -74,3 +75,5 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[e
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
+- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
+- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]

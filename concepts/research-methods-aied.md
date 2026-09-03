@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [ai-education, educational-measurement, rct, benchmark, ai-ed-evaluation, higher-ed]
 research_method: [educational measurement, experiment, randomized controlled trial, benchmark, research methods]
@@ -28,7 +28,7 @@ The central tension in AIED research is that the strongest designs for causal in
 
 ### Reporting rigor and the TEP-AIED model
 
-The reporting quality of AI-in-education studies is itself a research concern. [[tep-aied-model-reporting-2026|The TEP-AIED model (Hwang, Xie, Wah & Gasevic, 2026)]] offers a structured framework for presenting AI-in-education research with rigor, organizing the essential components of a study report — theory/technology/educational problem framing, design, data, analysis, and results — so that readers and reviewers can assess whether claims are supported and whether the work is reproducible. It responds to the field's chronic weaknesses in reporting (vague tool descriptions, unstated model versions, omitted evaluation details) that the [[limitations-in-aied-research|limitations]] page documents. Reporting frameworks like TEP-AIED sit alongside established reporting checklists (e.g., [[rct|CONSORT]]-style guidance for trials, PRISMA-style guidance for reviews) as part of the field's broader move toward [[educational-measurement|methodological transparency]] and reproducibility.
+The reporting quality of AI-in-education studies is itself a research concern. [[tep-aied-model-reporting-2026|The TEP-AIED model (Hwang, Xie, Wah & Gasevic, 2026)]] offers a structured framework for presenting AI-in-education research with rigor, organizing the essential components of a study report — theory/technology/educational problem framing, design, data, analysis, and results — so that readers and reviewers can assess whether claims are supported and whether the work is reproducible. It responds to the field's chronic weaknesses in reporting (vague tool descriptions, unstated model versions, omitted evaluation details) that the [[limitations-in-aied-research|limitations]] page documents. Reporting frameworks like TEP-AIED sit alongside established reporting checklists (e.g., [[rct|CONSORT]]-style guidance for trials, PRISMA-style guidance for reviews) as part of the field's broader move toward [[educational-measurement|methodological transparency]] and reproducibility. Corpus-level historical analysis is itself a methodological choice with transparency obligations: [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] locate each paper in their AI×Ed framework based on author judgment of abstracts and full texts, explicitly acknowledge that this is not a systematic or scalable data-driven categorization, and make their full dataset publicly available as supplementary material for replication.
 
 ### Experimental and quasi-experimental designs
 
@@ -87,7 +87,7 @@ See the dedicated [[meta-analysis-systematic-review]] concept page for a fuller 
 Computational evaluation assesses AI systems directly — against benchmarks, ground-truth labels, or human judgments — rather than studying human learners. This includes [[benchmark|benchmarks]], [[cong-confidence-asag-2026|grading accuracy]], [[teachbench-llm-teaching-evaluation|teaching-ability evaluation]], and [[llm]]-as-judge approaches. This is the closest method to [[ai-ed-evaluation]] (see the distinction below).
 
 - **Strengths:** fast, scalable, reproducible; enables head-to-head comparison of models and system versions; essential for system development and quality assurance.
-- **Limitations:** measures system output, not learning — high benchmark accuracy does not entail educational effectiveness; ground-truth and rubric quality are themselves contested; can miss pedagogical quality that humans perceive.
+- **Limitations:** measures system output, not learning — high benchmark accuracy does not entail educational effectiveness; ground-truth and rubric quality are themselves contested; can miss pedagogical quality that humans perceive. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] argue that LLMs' natural-language flexibility makes purely technical metrics insufficient, requiring human-inspired evaluation approaches — simulated students, AI-teacher tests, and behavioral-science analyses previously reserved for human subjects — to judge learning-relevant quality, and that studying LLMs cautiously can generate insight into human learning.
 - **Exemplars:** [[teachbench-llm-teaching-evaluation]], [[jeon-isd-agent-bench-2026]], [[ground-truth-reliability-aied]], [[cong-confidence-asag-2026]], [[drawedumath-vlm-struggling-students-2026]].
 
 ### Other designs: longitudinal, case, and simulation studies
@@ -191,4 +191,4 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 - [[same-ai-different-pathways]] — Same AI, Different Pathways: Unpacking Mechanisms
 - [[tep-aied-model-reporting-2026]] — The TEP-AIED model for reporting AI-in-education research with rigor (Hwang, Xie, Wah & Gasevic 2026)
 - [[t2i-competence-paradox-2026]] — The Competence Paradox: Text-to-Image GenAI in Art and Design
-
+- [[rismanchian-ai-education-four-decades-aixed-2026]]

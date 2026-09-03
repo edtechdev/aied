@@ -1,7 +1,7 @@
 ---
 title: Self-Directed Learning
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [self-regulated-learning, agency, motivation, self-efficacy, higher-ed, generative-ai, lifelong-learning, adult-learning]
 level: [higher ed, adult learning]
@@ -21,7 +21,7 @@ confidence: high
 
 ## Introduction
 
-Self-directed learning is closely related to — but distinct from — [[self-regulated-learning|self-regulated learning (SRL)]]. While SRL emphasizes the in-the-moment cognitive, motivational, and behavioral regulation of learning (planning, monitoring, controlling, reflecting), SDL emphasizes the learner's overarching responsibility for the direction and management of their own learning across time, often in informal or self-chosen contexts. SDL is foundational to [[adult-learning|adult learning]] and [[lifelong-learning|lifelong learning]], and is a prominent theory in distance and online education, where learners must sustain autonomy without scheduled class time.
+Self-directed learning is closely related to — but distinct from — [[self-regulated-learning|self-regulated learning (SRL)]]. While SRL emphasizes the in-the-moment cognitive, motivational, and behavioral regulation of learning (planning, monitoring, controlling, reflecting), SDL emphasizes the learner's overarching responsibility for the direction and management of their own learning across time, often in informal or self-chosen contexts. SDL is foundational to [[adult-learning|adult learning]] and [[lifelong-learning|lifelong learning]], and is a prominent theory in distance and online education, where learners must sustain autonomy without scheduled class time. SDL is also increasingly *tractable* to empirical study: analyzing the clickstreams of 315 online learners who built 822 models in VERA, [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] identified three behavioral signatures of self-direction — Observation, Construction, and Exploration — and found learners progressing from hands-on construction toward fuller, hypothesis-driven Exploration while Observation persists across all phases, showing that the degree and kind of autonomy learners exercise in an unstructured online task can be distinguished from their trace data alone.
 
 ## How generative AI reshapes self-directed learning
 
@@ -67,3 +67,4 @@ Because SDL emphasizes learner-initiated direction, interventions to protect it 
 
 
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
+- [[an-goel-self-directed-modeling-2026]]

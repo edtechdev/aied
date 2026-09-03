@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-03T14:25:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
@@ -47,6 +47,7 @@ The knowledge base's research increasingly locates ethics in institutions and st
 - **Policy robustness varies.** [[adarkwah-genai-unesco-policy-2026|Adarkwah et al. (2026)]], analyzing [[generative-ai|GenAI]] policies at 30 top universities against UNESCO's eight-component framework, found core ethical principles widely embraced but [[inclusive-learning|inclusion]], equity, and [[sustainability]] often neglected — and national AI-readiness ranking did not predict strong institutional policy. Policies tend to be declarative and misconduct-focused rather than operationally assured.
 - **Ethics & data governance as an enabler.** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify ethics & data governance as one of seven enablers of trustworthy [[learning-analytics]]-based interventions — positioning [[trust|trustworthiness]] (ethical compliance, data security, transparent algorithms, pedagogical validity) as the prerequisite without which data-informed educational change is not meaningful.
 - **A [[meta-analysis-systematic-review|systematic review]] of [[engineering-education|engineering education]]** finds ethical AI guidance is predominantly student-facing and compliance-oriented (centered on [[academic-integrity]] and disclosure), while reciprocal accountability for faculty AI use and institutional responsibility remain underdeveloped — a pattern heightened by engineering's professional stakes in public safety and [[well-being|wellbeing]]. ([[ethical-use-ai-engineering-education-review-2026]])
+- **A consolidated value framework for AIED ethics.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], a [[meta-analysis-systematic-review|systematic review]] of 25 articles, consolidate the fragmented ethics literature into six main ethical values for [[ai-education|AI in education]] — non-discrimination, data stewardship, [[human-in-the-loop-ai|human oversight]], goodwill, explicability, and educational aptness — and map the ethical norms extracted from the literature onto a stakeholder-by-value matrix (developers, educational institutes, end users, regulators). The review finds norms distributed unevenly: developers attract the most, while end users receive the fewest and least actionable norms, and no norms on non-discrimination, data stewardship, or educational aptness address end users directly — student voices are essentially absent, with "end user" norms mostly actions other stakeholders take to enable teachers. The authors argue end users should have agency and active roles rather than being treated as passive beneficiaries, and note the values are tightly coupled and can conflict (e.g., explicability vs. accuracy/[[privacy]], non-discrimination vs. data stewardship), producing ethical dilemmas alongside power asymmetries between stakeholder sets.
 
 ## Toward situated and ecological AI ethics
 
@@ -136,3 +137,4 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
+- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education

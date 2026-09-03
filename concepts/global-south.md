@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [global-south, equity-in-ai-education, generative-ai, higher-ed, k-12, culturally-relevant-pedagogy, ai-literacy]
 level: [higher ed, k 12]
@@ -30,6 +30,7 @@ Mainstream AI and educational-technology research has historically been dominate
 - **Culturally grounded data and benchmarks:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] provides a [[multilingual-learning|multilingual]] Indian Knowledge Systems instruction dataset; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] introduces a Ghana-based [[stem-education|STEM]] benchmark, one of the first Global South educational evaluation datasets.
 - **Contextual adoption:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] model [[generative-ai|GenAI]] adoption among Bangladeshi engineering students, and [[connected-ai-lesson-planning-vietnam|ConnectED]] deploys a [[curriculum-design|curriculum]]-aligned lesson-planning system for Vietnamese education.
 - **Epistemic marginalization:** [[genai-minoritized-knowledges-disability|Tali-Otmani]] argues that Western-centric training data marginalizes non-Western and disability-centered knowledges — connecting Global South concerns to [[equity-in-ai-education]] and [[culturally-relevant-pedagogy]].
+- **Disability and [[inclusive-learning|inclusion]] in the Global South:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates across three Palestinian universities — found GenAI bridges digital, geographic, and socioeconomic divides for disabled learners, extending [[technology-acceptance-model|technology-acceptance]] research to disability contexts where [[usability-research|usability]], affordability, and [[accessibility]] are mutually reinforcing.
 
 ### Implications
 
@@ -59,3 +60,4 @@ Attending to Global South contexts requires moving beyond assuming Western model
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
+- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners

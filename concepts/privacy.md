@@ -1,7 +1,7 @@
 ---
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai]
@@ -31,6 +31,7 @@ Privacy is the precondition for trustworthy AI in education. Because AI systems 
 - **Security, anonymization, and data sourcing.** Even legitimate data can harm if breached or mishandled. Privacy-preserving techniques appear across the knowledge base — [[teachlm-post-training-llms-education|TeachLM]] demonstrates a rigorous pipeline of consent per session, PII removal on internal servers, and enterprise-grade confidentiality for post-training tutoring models on authentic data, showing that ethically sourced learner data is both possible and a prerequisite for high-quality tutoring. [[ai-lms-middle-school-longitudinal|Federated and edge-AI architectures]] keep data local, reducing central collection.
 - **Surveillance and the surveillance-privacy tension.** Constant AI monitoring — even when well-intentioned — can feel invasive. Research on [[ai-fatigue-academic-contexts|AI fatigue]], [[remote-proctoring|remote proctoring]], and [[cognitive-offloading|over-reliance]] connects privacy to student [[well-being]]: when AI watches and tracks continuously, it shapes behavior and anxiety, not just data flows.
 - **The personalization-privacy tradeoff.** [[personalized-learning]] requires detailed learner data to function, creating a structural tension with privacy. The knowledge base explores approaches that balance personalization with data minimization — enough data to adapt, not so much that the learner is fully exposed. This is the practical form of the "how much is proportionate?" question.
+- **Data stewardship as a core ethical value.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], a [[meta-analysis-systematic-review|systematic review]] of 25 articles, identify data stewardship (definitions using data/information) as one of six main ethical values for [[ai-education|AI in education]], alongside non-discrimination, human oversight, goodwill, explicability, and educational aptness. The review finds the values are tightly coupled and can conflict — e.g., explicability vs. accuracy/privacy and non-discrimination vs. data stewardship — producing ethical dilemmas, and that no norms on data stewardship address end users directly, leaving learners largely passive in the ethical literature.
 
 ## Child safety and K-12 protections
 
@@ -82,3 +83,4 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 
 
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
+- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education

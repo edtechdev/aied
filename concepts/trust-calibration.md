@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-03T09:14:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [ai-literacy, cognitive-offloading, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
 audience: [learners]
@@ -41,6 +41,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 - **Overreliance and calibration as population processes (2026):** A complex-adaptive-system model of AI reliance shows that task difficulty and AI quality set a baseline for both overreliance and calibration regret, while network connectivity and social proof shape whether reliance cascades. This suggests calibration is not only an individual trait but is modulated by the social and informational environment ([[ai-overreliance-complex-adaptive-system-2026]]).
 - **Calibration as an explicit objective of ML education (2026):** [[icet-ml-education-trust-2026|ICE-T]] argues that appropriate reliance on AI is itself a taught outcome of machine-learning education. It integrates intermodal transfer (Bruner's enactive–iconic–symbolic modes), [[computational-thinking]] via the Use-Modify-Create progression, and explanatory thinking, giving learners the representational models and error-contextualization needed to calibrate trust and counter both [[cognitive-offloading|over-reliance]] and algorithm aversion — positioning ML instruction as a calibration intervention, not just skill training.
+- **Domain-specific explanations can support teachers' calibration (2025):** In a within-subject experiment with in-service chemistry teachers using an AI recommendation tool, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found that explainability helped teachers calibrate trust indirectly by making system performance more *understandable*, and that domain-driven explanations in curricular language raised learned trust and acceptance significantly more than data-driven feature-importance ones. Yet several teachers still said real classroom experience was needed before they would fully rely on the tool — underscoring that calibration is ultimately validated through situated use and practice, not conferred by explanation alone.
 
 ## Connected Concepts
 
@@ -69,4 +70,4 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[ai-partner-science-epistemic-vigilance]] — Epistemic Vigilance as the Key to Productive Augmentation
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-
+- [[xai-teachers-trust-edtech-recommendations-2026]]

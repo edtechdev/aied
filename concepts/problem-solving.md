@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [problem-solving, critical-thinking, generative-ai, cognitive-psychology]
 confidence: medium
@@ -40,7 +40,7 @@ For educators, the balance of evidence points to structured, process-oriented in
 
 ### Connections to other concepts
 
-Problem solving is the applied outcome of [[critical-thinking|critical thinking]] and [[computational-thinking|computational thinking]], and is cultivated through [[problem-based-learning|problem-based learning]] and [[inquiry-based-learning|inquiry-based learning]] frameworks. It depends on [[scaffolding]] that maintains cognitive demand, on [[self-regulated-learning|self-regulation]] and [[metacognition|metacognitive]] oversight to avoid [[cognitive-offloading|cognitive offloading]], and on [[collaborative-learning|collaborative]] structures in which human and AI work together. [[cognitive-psychology|Cognitive psychology]] and the [[transfer-of-learning|transfer of learning]] literature provide the theoretical grounding for why learner-generated problems and reflective feedback produce more durable [[learning-gains|problem-solving gains]].
+Problem solving is the applied outcome of [[critical-thinking|critical thinking]] and [[computational-thinking|computational thinking]], and is cultivated through [[problem-based-learning|problem-based learning]] and [[inquiry-based-learning|inquiry-based learning]] frameworks. It depends on [[scaffolding]] that maintains cognitive demand, on [[self-regulated-learning|self-regulation]] and [[metacognition|metacognitive]] oversight to avoid [[cognitive-offloading|cognitive offloading]], and on [[collaborative-learning|collaborative]] structures in which human and AI work together. [[cognitive-psychology|Cognitive psychology]] and the [[transfer-of-learning|transfer of learning]] literature provide the theoretical grounding for why learner-generated problems and reflective feedback produce more durable [[learning-gains|problem-solving gains]]. The balance of worked examples versus practice for acquiring such skills is itself content-dependent: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] show generalizable problem-solving skills are best learned through example-integrated practice (alternating worked examples with problems), because worked examples supply the inductive information needed to acquire and generalize a correct rule, whereas pure practice risks strengthening spuriously correlated features rather than the general procedure.
 
 
 ## Simulating Collaborative Problem Solving with LLM Agents
@@ -77,3 +77,4 @@ Problem solving is the applied outcome of [[critical-thinking|critical thinking]
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
+- [[rachatasumrit-example-problem-ratio-2026]]

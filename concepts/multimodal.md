@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, multimodal, llm, intelligent-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
 research_method: [educational measurement]
@@ -55,10 +55,11 @@ Multimodal AI broadens both the *content* of assessment and the *signal* used to
 - **Multimodal feedback systems** integrate structured text, slide references, and streaming audio narration. In one study, [[ai-feedback-quality|AI multimodal feedback]] matched educator feedback for learning while *significantly outperforming* it on student perceptions.([[multimodal-ai-feedback-learning]])
 - **Multimodal item response estimation** uses fine-tuned multimodal LLMs to reconstruct item characteristic curves (IRT / 3PL) directly from predicted option probabilities on image-and-text items, connecting multimodal AI to [[educational-measurement]] and [[item-response-theory]].([[multimodal-item-parameter-estimation-2026]])
 - **Educational vision-language model evaluation** and [[mllm-scientific-visualization-literacy|multimodal LLM literacy]] extend the field's evaluation toolkit to multimodal reasoning and [[visualization]].([[drawedumath-vlm-struggling-students-2026]])([[mllm-scientific-visualization-literacy]])
+- **Multimodal grading of handwritten chemistry exposes a format-dependent capability boundary:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] graded a 296-student handwritten general-chemistry final page-by-page against rubric images with a multimodal, reasoning LLM, scoring textual answers and chemical-reaction equations reliably (normed F1 highest) but drawing and graphing *worse than random* — background grids visually distract AI vision and scientific diagrams/chemical structures remain hard to interpret — reinforcing that multimodal AI's vision is not robust to representation-heavy work and is best deployed with [[human-in-the-loop-ai|human deferral]] of graphical items ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 
 ## Multimodal AI for language and accessible learning
 
-Multimodal systems also expand access and [[personalized-learning|personalization]]. AI-guided audio-video learning tools adapt playback speed, produce multimodal video summaries, and support pronunciation practice.([[ai-guided-learning-audiovideo-2026]]) Multimodal knowledge graphs reason across images and text for educational tasks,([[multimodal-knowledge-graph-educational-reasoning]]) and multimodal representations improve [[inclusive-learning]] by translating information across modes (e.g., text to audio or visual). Domain applications include handwritten-math grading and diagnosis,([[llm-cognitive-diagnosis-handwritten-math]]) [[affective-tutoring|affective tutoring]] with multimodal signals,([[multimodal-affective-its-presentation]])([[kar-mathbuddy-affective-math-tutoring-2025]]) text-to-image learning in specialized fields,([[nuclear-diffusion-text-to-image-learning-2026]]) and privacy-aware multimodal classroom sensing.([[privacy-aware-classroom-incident-recognition-2026]])
+Multimodal systems also expand access and [[personalized-learning|personalization]]. AI-guided audio-video learning tools adapt playback speed, produce multimodal video summaries, and support pronunciation practice.([[ai-guided-learning-audiovideo-2026]]) Multimodal knowledge graphs reason across images and text for educational tasks,([[multimodal-knowledge-graph-educational-reasoning]]) and multimodal representations improve [[inclusive-learning]] by translating information across modes (e.g., text to audio or visual). Domain applications include handwritten-math grading and diagnosis,([[llm-cognitive-diagnosis-handwritten-math]]) [[affective-tutoring|affective tutoring]] with multimodal signals,([[multimodal-affective-its-presentation]])([[kar-mathbuddy-affective-math-tutoring-2025]]) text-to-image learning in specialized fields,([[nuclear-diffusion-text-to-image-learning-2026]]) and privacy-aware multimodal classroom sensing.([[privacy-aware-classroom-incident-recognition-2026]]) Bird (2026) demonstrates a text-internal form of multimodality: fusing a fine-tuned ELECTRA transformer with computational-linguistics feature analysis to classify English literature by UK Key Stage, where the fused model (F1 0.996) far surpassed every unimodal baseline — evidence that combining representational forms, even within text, can outperform single-model approaches.
 
 ## Challenges and design implications
 
@@ -127,3 +128,5 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
+- [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
+- [[cvengros-grading-handwritten-chemistry-ai-2026]]

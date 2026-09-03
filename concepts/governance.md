@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-03T14:25:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [educational-policy-ai, ethics, higher-ed, change-management, privacy, regulation, ai-education]
 level: [higher ed]
@@ -40,6 +40,8 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 - **Academic integrity and assessment:** Governance is central to how institutions handle AI-related [[academic-integrity]] concerns and redesign [[assessment]] — moving from prohibition/policing toward guidance, AI literacy, and process-oriented designs, as seen in research on [[student-rationalization-ai-writing|student rationalization]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
 
 - **Ethics, privacy, and bias:** Governance mechanisms operationalize the ethical principles ([[ethics]], [[privacy]], [[bias-mitigation]]) that are often recognized but not enforced, connecting to responsible AI and [[regulation|regulatory]] debates in education.
+
+- **A value/norm matrix for governance.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], a [[meta-analysis-systematic-review|systematic review]] of 25 articles, consolidate AIED ethics into six main ethical values (non-discrimination, data stewardship, [[human-in-the-loop-ai|human oversight]], goodwill, explicability, educational aptness) and map the ethical norms extracted from the literature onto a stakeholder-by-value matrix. The mapping makes norms actionable rules for realizing specific values and offers a foundation for building detailed ethical frameworks and regulation for AIED — giving educational institutions, developers, and regulators concrete norms to implement. Norms for human oversight cluster on educational institutes and end users, educational aptness on educational institutes and regulators, and goodwill norms aimed at regulators are far more numerous (nine) than for any other set, signaling regulators' role in ensuring AIED benefits learners through policy and legislation.
 
 ### Governance education
 
@@ -132,3 +134,4 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
+- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education

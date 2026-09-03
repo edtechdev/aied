@@ -1,7 +1,7 @@
 ---
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-02T09:10:56-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, cs-education]
 discipline: [stem education]
@@ -32,6 +32,7 @@ confidence: high
 - **AI-generated learning media:** [[ai-generated-traces-novice-programmers|Generated Animated Traces]] show that AI-generated visualizations can aid immediate learning but must be personalized — mid-engagement students experienced a performance decrement consistent with the expertise-reversal effect.
 - **Misconception modeling:** [[student-misconceptions-conditionals-loops-taxonomy|a taxonomy of conditionals/loops misconceptions]] gives automated systems a precise vocabulary for diagnosing novice errors.
 - **Authentic-assessment performance:** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] show 2026 GenAI systems outscore the average student cohort on authentic introductory OOP assessments and frequently earn full marks on longer programming tasks, yet still struggle with interfaces, abstract classes, inheritance, and image-based questions — recurring error patterns instructors can exploit when designing assessments.
+- **Predictive modeling for at-risk support:** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] show that intrinsically interpretable decision trees trained on content-interaction log features accurately predict module-level progress in large-scale online programming courses (85–91% accuracy across four K-12 courses) and flag "No submission" dropout outcomes, giving educators a 7–8 day window to [[teacher-role|intervene]] with struggling and disengaged learners before module deadlines — complementing the automated-grading and attrition-prediction work above.
 
 ### Programming pedagogy: from blocks to embodied, game-based learning
 
@@ -151,3 +152,4 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming
 
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
+- [[zhang-ml-student-progress-programming-2026]]
