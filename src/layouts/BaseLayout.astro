@@ -650,14 +650,33 @@ const recentConceptItems = recentConcepts.map(c => ({
       padding: 0;
     }
     .nav-section > summary {
-      cursor: pointer;
-      font-weight: 600;
-      font-size: 0.9rem;
-      color: var(--color);
-      padding: 0.4rem 0.25rem;
-      border-radius: 6px;
-      list-style-position: outside;
-    }
+          cursor: pointer;
+          font-weight: 600;
+          font-size: 0.9rem;
+          color: var(--color);
+          padding: 0.4rem 0.25rem;
+          border-radius: 6px;
+          /* Remove the native disclosure marker. Its `outside` marker box offsets
+             tap hit-testing on Firefox Mobile, causing a tap on a collapsed
+             section header to register on the link directly above it. A custom
+             chevron (::before) replaces it without that offset. */
+          list-style: none;
+          display: flex;
+          align-items: center;
+          gap: 0.4rem;
+        }
+        .nav-section > summary::-webkit-details-marker { display: none; }
+        .nav-section > summary::before {
+          content: '';
+          flex-shrink: 0;
+          width: 0.5rem;
+          height: 0.5rem;
+          border-right: 2px solid var(--muted-color);
+          border-bottom: 2px solid var(--muted-color);
+          transform: rotate(-45deg);
+          transition: transform 0.15s ease;
+        }
+        .nav-section[open] > summary::before { transform: rotate(45deg); }
     .nav-section > summary:hover { color: var(--primary); }
     .nav-section-body { padding: 0.1rem 0 0.5rem 0.6rem; }
     .nav-group { margin-bottom: 0.6rem; }
