@@ -56,7 +56,7 @@ Rendered once in `BaseLayout.astro` after `<slot/>` in the `.middle` column:
 - Component locates current page by `normalizePath(url)` (strip trailing slash)
   and renders two `<a class="pn-cell">` boxes (prev/next) OR nothing if the
   current page isn't in the sequence (article pages get no nav automatically).
-- Blume-style: bordered cards, arrow + "Previous"/"Next" caption (uppercase,
+- Bordered cards: arrow + "Previous"/"Next" caption (uppercase,
   muted), adjacent page title; hover = primary border + tint.
 - Layout: `display:grid; grid-template-columns:1fr 1fr; gap:1rem; margin-top:3rem;
   border-top:1px solid var(--card-border-color)`. Single column `@media (max-width:640px)`.

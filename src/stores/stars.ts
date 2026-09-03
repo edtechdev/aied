@@ -3,7 +3,7 @@
 // Each visit, the store reads a JSON array of page slugs (e.g. ["ai-education",
 // "ai-literacy", "agentic-ai", "articles/my-article"]) from localStorage under
 // the key "aied:starred". The default (pre-seeded) value is the three concept
-// pages Doug asked to star for everyone; once a user toggles a star, that value
+// pages the maintainer asked to star for everyone; once a user toggles a star, that value
 // is persisted and remembered across visits.
 //
 // Using @nanostores/persistent (persistentAtom) so the state survives page

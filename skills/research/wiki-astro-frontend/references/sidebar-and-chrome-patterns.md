@@ -15,7 +15,7 @@ the maintainer wanted the Starred sidebar pane visually like Concepts: top "★ 
 - Add a live starred count: an element `[data-starred-count]` filled from `starredStore.get().length` in the render fn.
 
 ## Prev/next page navigation (PrevNextNav.astro + src/lib/nav.ts)
-the maintainer asked for prev/next boxes at the bottom of home, use-with-AI, every concept, the FAQs intro, and each FAQ — using the SAME linear order as the EPUB/PDF table of contents. Modeled on Blume (useblume.dev/docs/content/navigation): two bordered cards with arrow caption + adjacent title, stacked on mobile.
+the maintainer asked for prev/next boxes at the bottom of home, use-with-AI, every concept, the FAQs intro, and each FAQ — using the SAME linear order as the EPUB/PDF table of contents. Two bordered cards with arrow caption + adjacent title, stacked on mobile.
 - **Order (mirror of EPUB/PDF TOC):** home → use-with-AI → every concept in `conceptIndex` (flattened section→group→items) → FAQs intro → each FAQ ascending by `created`.
 - `src/lib/nav.ts` exports `buildNavItems(conceptTitles, faqsSortedByCreated)` + `normalizePath`. `PrevNextNav.astro` finds the current URL in the list, renders prev/next (or nothing if not in the list — so article pages get NO nav automatically).
 - **Wired into `BaseLayout.astro`** (after `<slot/>` in `.middle`), so every page using the layout gets it for free; article pages are simply absent from the sequence. `currentUrl={Astro.url.pathname}`.

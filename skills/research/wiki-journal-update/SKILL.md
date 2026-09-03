@@ -42,7 +42,7 @@ The batch-4 regeneration wrote `## "2026-09-0` (leading quote + date truncated t
 
 ## Safe Regeneration (inline Python)
 
-Run via `execute_code` (prefer Python `open()`/`os` for all file I/O — NOT `hermes_tools.read_file`, which returns an incompatible dict). Never run a `regenerate-journal-html.py` that targets the retired pre-Astro HTML pipeline.
+Run via `execute_code` (prefer Python `open()`/`os` for all file I/O — NOT `agent_tools.read_file`, which returns an incompatible dict). Never run a `regenerate-journal-html.py` that targets the retired pre-Astro HTML pipeline.
 
 ```python
 import os, re, yaml
