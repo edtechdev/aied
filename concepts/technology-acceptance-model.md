@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T14:25:00-04:00"
 type: concept
 tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied]
 research_method: [research methods]
@@ -31,7 +31,7 @@ confidence: high
 Proposed by Davis (1989), TAM explains adoption through two core beliefs — **Perceived Usefulness (PU)** and **Perceived Ease of Use (PEOU)** — which shape users' **Attitude (ATT)**, then **Behavioral Intention (BI)**, then actual usage. Grounded in information-systems theory (adapted from the Theory of Reasoned Action), TAM has become the dominant framework for [[generative-ai|GenAI]] adoption in education. In educational GenAI research it is frequently extended with [[ai-literacy]], [[trust]], social influence, [[self-determination-theory|self-determination]], and **critical use** to capture adoption complexity beyond simple uptake.
 
 ### UTAUT / UTAUT2 / UTAUT3
-The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). The knowledge base applies UTAUT across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[amponsah-ai-acceptance-science-teachers-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA).
+The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). The knowledge base applies UTAUT across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[amponsah-ai-acceptance-science-teachers-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] extend UTAUT2 with explainable AI (Random Forest, SHAP, NCA, IPMA, K-Means) for 522 university students, finding **habit** the strongest predictor of ChatGPT intention and showing that **effort expectancy is a necessary condition rather than a linear driver** — a result only visible when XAI complements the regression.
 
 ### Theory of Planned Behavior (TPB)
 TPB explains intention through attitude, subjective norms, and perceived behavioral control. It is frequently paired with TAM/UTAUT in AI-adoption studies — e.g. [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] integrate TAM, TPB, UTAUT, and the FATE ([[bias-mitigation|Fairness]], Accountability, Transparency, Ethics) framework to model the behavioral and [[ethics|ethical]] drivers of student ChatGPT adoption.
@@ -54,6 +54,7 @@ Adoption models are applied across the knowledge base to model student and [[tea
 - **[[regulation|Regulatory]] competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — reframing [[ai-literacy]] as regulatory competence and [[critical-thinking]] rather than acceptance.
 - **Early-childhood teachers:** [[preschool-teachers-ai-behavioral-intention-2026|Duan, Shan and Gong (2026)]] validate an extended TAM for **preschool teachers'** behavioral intention to use AI in early-childhood settings, showing that in addition to perceived usefulness and ease of use, **AI self-efficacy** promotes intention while **AI anxiety** deters it, with **subjective norm** (social influence) also shaping adoption. The study extends adoption modeling into the developmentally distinctive early-childhood context, where teacher comfort and confidence are pivotal for integration.
 - **ML determinants of ChatGPT adoption:** An exploratory ML approach examined how students' perceptions and demographics relate to intended academic ChatGPT use, using SHAP analysis to identify key learning-related constructs — prioritizing educational meaning over maximizing algorithmic performance ([[determinants-chatgpt-use-higher-education-2026]]).
+- **XAI-augmented UTAUT2:** [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] combine UTAUT2 with Random Forest, SHAP, NCA, IPMA, and K-Means for 522 students, finding habit the strongest predictor and identifying four adoption profiles (Resistant, Late, Pragmatic, Technology Enthusiasts) — demonstrating that explainability techniques reveal necessary conditions and heterogeneity that linear models miss.
 
 ## Limits and extensions
 
@@ -99,3 +100,4 @@ While adoption models are effective for predicting uptake, they are less well su
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
+- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
