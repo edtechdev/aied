@@ -33,6 +33,14 @@ Generates and maintains the wiki's offline book-form deliverables — `aied.epub
 - **FAQ ordering:** ascending by `created` frontmatter (earliest first) so the Top-10 findings FAQ appears first.
 - The Introduction and Use-with-AI chapters are extracted live from `src/pages/index.astro` / `src/pages/ai.astro` (HTML→markdown), so they always match the site — do NOT hardcode them.
 
+## KDP / Kindle variant (aied-kdp.epub)
+For publishing to Amazon KDP, a standard EPUB3 upload is enough (Amazon converts to KPF on their side; there is NO local KPF/pandoc target). Produce a hardened copy from the main EPUB:
+- `python3 tooling/build-kdp-epub.py` reads `public/aied.epub` and writes `dist/aied-kdp.epub` (then copy to `public/` to serve/commit).
+- The only real fix it makes: after cover.xhtml was rewritten from an SVG wrapper to `<img role="doc-cover">`, the OPF manifest still declares `properties="svg"` on that item — a stale property that confuses cover detection. Remove it; keep `properties="cover-image"`.
+- Re-assert metadata KDP expects (dc:title, dc:language=en, dc:identifier, fresh `dcterms:modified`), confirm nav + ncx present.
+- Verify: all member XML well-formed; cover-image declared; 0 broken internal anchors (9.3k+ in this book).
+- **Caveat:** this is as far as local validation can go. Amazon's proprietary validator runs only in the KDP upload preview; Kindle Previewer is a GUI app with no Linux build. Watch two things in that preview: (a) the very deep TOC (~230 entries, 3 levels) — Kindle may flatten/truncate nested navigation; fix = trim nav depth for the KDP copy; (b) cross-page concept→concept anchor jumps.
+
 ## Key pitfalls (all hard-won)
 1. **EPUB TOC hierarchical numbering must be HARD-CODED, not CSS counters.** Many e-readers ignore `::before { content: counter(...) }`. Inject literal numbers (`1`, `1.1`, `1.2.1`) directly into the `<a>` text of each nav entry during post-processing.
 2. **PDF TOC numbering: the user prefers numbers ONLY in the TOC, not on body headers.** Use CSS counters scoped to `#TOC` (WeasyPrint renders counters reliably); do NOT prefix concept/FAQ body headings with numbers.
