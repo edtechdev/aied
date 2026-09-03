@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-03T12:50:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
@@ -43,6 +43,7 @@ AI raises fundamental [[assessment-validity|validity]] questions: do AI-graded a
 - **Psychometric quality:** [[psychometrically-aware-ai|psychometrically aware AI]] and [[automated-assessment|confidence-aware assessment]] work to keep AI scoring reliable, unbiased, and interpretable.
 - **Evaluation of AI assessors:** [[ai-ed-evaluation|AI ed evaluation]] provides the methods and [[benchmark|benchmarks]] for determining whether automated assessors actually work — on reliability, [[pedagogy]], and [[equity-in-ai-education|equity]] — rather than headline accuracy alone.
 - **Quality-dependent reliability of AI and peer grading (2026):** Comparing ChatGPT, peer, and instructor grading of the same undergraduate group projects, [[usher-faraon-who-grades-best-2026|Usher & Faraon (2026)]] showed grading alignment with the instructor is *conditional on the quality of student work*: ChatGPT inflated low-quality submissions most and aligned better with the instructor on high-quality work, while peers aligned best on weaker work and under-graded strong projects. The finding challenges the binary "reliable vs unreliable" framing, pointing toward conditional-reliability models in which alternative assessors are matched to task and performance level.
+- **Human grading is itself value-laden (2026):** [[luo-dawson-value-judgements-grading-2026|Luo & Dawson (2026)]] show that even human grading of GenAI-assisted work is not a neutral, criteria-based act. Scenario-based interviews with 33 university teachers revealed grading decisions driven by person-oriented (honesty, diligence), capability-oriented (independence, GenAI skill, disciplinary mastery), relation-oriented (trust), and justice-oriented (fairness, beneficence) values — extending beyond the assignment to teachers' conjecture about the student. The study reframes the assessment question from "is GenAI use cheating?" to "how do teachers' value judgements shape grades, and are those values relevant to the outcomes being assessed?" — foregrounding [[assessment-validity|validity]] and "two-way transparency" about how GenAI use will affect grades.
 
 ## Integrity and the debate over detection
 
@@ -134,3 +135,4 @@ The constructive question in the knowledge base's assessment literature is not "
 
 - [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use (evaluative integration vs low-verification uptake) and outcomes
 
+- [[luo-dawson-value-judgements-grading-2026]] — Value judgements in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)

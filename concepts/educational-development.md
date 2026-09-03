@@ -1,7 +1,7 @@
 ---
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-02T10:22:00-04:00"
+updated: "2026-09-03T12:30:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design]
@@ -45,6 +45,8 @@ A threshold-informed view reframes GenAI integration as an **ontological transfo
 On this account, faculty asking "what's the point of teaching in a GenAI world?" are not deficient in competence; they are in a **liminal threshold-crossing phase** where anxiety, resistance, and confusion are necessary parts of transformation, not obstacles to eliminate. Skills-based training that answers a competence question faculty are not asking can become peripheral to the real transformation, and well-intended governance can lapse into an "enforcement illusion" — communicating rules rather than supporting change.([[laidlaw-genai-identity-crisis-faculty-2026]])
 
 **Design implication:** complement (don't replace) skill building with **identity-supporting practices** — open sessions with identity questions rather than technical demos, run ongoing [[discipline-specific-aied|discipline-specific]] cohorts where faculty explore what GenAI means for their field's purpose, create peer-mentoring structures that honor different transformation timelines, and distinguish fear-based hesitation (which benefits from support) from principled non-adoption grounded in legitimate disciplinary values (which deserves respect).([[laidlaw-genai-identity-crisis-faculty-2026]]) The metaphor-workshop model above is one concrete instantiation of this: rather than starting from technical upskilling, it opens with the interpretive, identity-laden question of what GenAI means to participants.
+
+**Empirical support for the identity-work framing.** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] provide direct [[qualitative-research|qualitative]] evidence for this account: 24 Swedish university teachers described GAI's emergence as alarming and overwhelming, reporting a "state of vulnerability" (low confidence, insecurity, fear of "not being ahead of students") and feeling "stuck" between utopian and dystopian discourses. Their limited knowledge and experience, alongside feelings of vulnerability, highlight teachers' lack of readiness to navigate, assess, and adopt GAI — and the authors argue institutions must provide **designated spaces and time** for teachers to experiment with GAI, exchange ideas, and collaboratively develop practices and guidelines at institutional, departmental, and course levels. This grounds the identity-work and support-oriented approach in teachers' own reported experience rather than only in theory.
 
 ### Connections
 
@@ -112,3 +114,4 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)

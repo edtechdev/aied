@@ -49,6 +49,13 @@ FEEDS = {
         "journal": "International Journal of Educational Technology in Higher Education",
         "doi_prefix": "ijethel",
     },
+    "ijaied": {
+        "name": "International Journal of Artificial Intelligence in Education",
+        "url": "https://rss.sciencedirect.com/publication/science/15604292",
+        "max_age_days": 90,
+        "journal": "International Journal of Artificial Intelligence in Education",
+        "doi_prefix": "ijaied",
+    },
 }
 
 def clean(text):
@@ -65,7 +72,13 @@ def parse_date(raw):
     if not raw:
         return None
     raw = clean(raw).strip()
-    # ScienceDirect: "December 2026"
+    # ScienceDirect: "December 2026" or a range "March–June 2026" (take the LAST month)
+    m = re.match(r'(\w+)\s*[–—-]\s*(\w+)\s+(\d{4})', raw)
+    if m:
+        try:
+            return datetime.strptime(f"1 {m.group(2)} {m.group(3)}", "%d %B %Y")
+        except:
+            pass
     m = re.match(r'(\w+)\s+(\d{4})', raw)
     if m:
         try:
@@ -355,7 +368,7 @@ def main():
             max_age = feed['max_age_days']
             cutoff = datetime.now() - timedelta(days=max_age)
             
-            if key in ('caeai', 'ceao'):
+            if key in ('caeai', 'ceao', 'ijaied'):
                 articles = parse_caeai(
                     root, cutoff,
                     journal_name=feed.get('journal', 'Computers and Education: Artificial Intelligence'),

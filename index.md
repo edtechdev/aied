@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-03
 
-Articles: 1037 | Concepts: 183 | FAQs: 16
+Articles: 1039 | Concepts: 183 | FAQs: 16
 
 ## Concepts
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
@@ -466,6 +466,7 @@ Articles: 1037 | Concepts: 183 | FAQs: 16
 - [[explique-teachable-agent-algorithms-546-students-2026]] — Turning 500+ Students into Teachers: A Semester-Long Study of an AI Teachable Agent in an Undergraduate Algorithms Course
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Face value: How avatar identity shapes epistemic trust in AI-mediated learning
 - [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations with a hybrid Graph-GRU framework
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Navigating uncertainty: university teachers' experiences and perceptions of generative AI in teaching and learning
 - [[farrokhnia-genai-feedback-student-revisions-2026]] — Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI Tutors: Empower or Enslave?
 - [[fawns-entangled-pedagogy-genai-students-2026]] — Illuminating complex student realities of artificial intelligence through an entangled pedagogy framework
@@ -770,6 +771,7 @@ Articles: 1037 | Concepts: 183 | FAQs: 16
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[ludia-udl-ai-thought-partner-2026]] — LUDIA: A Design and Evidence Statement
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Reflective Language Learning
+- [[luo-dawson-value-judgements-grading-2026]] — Exploring value judgements in grading: will teachers mark down student work assisted by GenAI, and should they?
 - [[luo-eaton-ai-student-feedback-ethics-2026]] — Is It Ethical for Teachers to Use AI for Student Feedback?
 - [[luo-ibl-patterns-llm-bloom-2026]] — Inquiry-Based Learning Patterns in Large Language Model-Driven Learning Environments: An Exploratory Study From Bloom's Perspective
 - [[machine-learning]] — Machine Learning
