@@ -1,7 +1,7 @@
 ---
 title: AI Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-03T12:30:00-04:00"
 type: concept
 tags: [well-being, remote-proctoring, social-emotional-learning, affective-computing, academic-integrity, student-experience, adult-learning]
 audience: [learners]
@@ -9,7 +9,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 ---
 
-> **AI anxiety and stress** — the negative emotional states that AI integration can induce in learners and educators (fear of being falsely accused, surveillance stress, worries about competence or [[academic-integrity|integrity]]), alongside the positive uses of AI to detect, monitor, and alleviate stress and anxiety. This concept sits within the broader [[well-being]] family and overlaps with [[social-emotional-learning]] and [[affective-computing]], but names the specific emotion-construct — and its productive as well as harmful sides — that AI-in-education research now studies directly.
+> **AI anxiety and stress** — the negative emotional states that AI integration can induce in learners and educators (fear of being falsely accused, surveillance stress, worries about competence or [[academic-integrity|integrity]]), alongside the positive uses of AI to detect, monitor, and alleviate stress and anxiety. This concept sits within the broader [[well-being]] family and overlaps with [[social-emotional-learning]] and [[affective-computing]], but names the specific emotion-construct — and its productive as well as harmful sides — that AI-in-education [[research-methods-aied|research]] now studies directly.
 
 ## Questions to Consider
 
@@ -40,6 +40,7 @@ Beyond proctoring, AI use itself generates anxiety — about being replaced, abo
 - [[acceptance-ai-english-tools-2026|Acceptance studies]] show anxiety shapes whether learners adopt AI tools, and [[teacher-education-ai-literacy-sdt-2026|teacher-education research]] links AI anxiety to motivation and [[self-regulated-learning|self-regulation]].
 - [[aivaluate-anxiety-assessment-2026|AIvaluate]] studies student anxiety during AI-mediated [[assessment|performance-based assessments]], showing assessment anxiety persists and must be designed for.
 - **Moral panic and educator anxiety:** [[moral-panic-genai-classroom|the moral-panic framing]] shows faculty anxiety about GenAI mirrors earlier panics (calculators, search engines) — a [[teacher-role|teacher]]-side stress response that shapes classroom policy.
+- **Teachers' "state of vulnerability" and feeling "stuck."** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] capture the *educator* side of AI anxiety directly: 24 Swedish university teachers described the emergence of GAI as alarming and overwhelming, and reported a **state of vulnerability** — low confidence, insecurity, and discomfort driven by limited knowledge of GAI's capabilities, limited exposure, and fear of "not being ahead of students." Teachers felt "stuck" between utopian and dystopian discourses, burdened by amplified responsibility for [[bias-mitigation|fairness]] and quality, and worried about feeling incompetent when assessing student work potentially (co-)produced with AI. This frames teacher AI anxiety as a genuine emotional and professional response to role reconfiguration — not mere resistance — and argues for supporting teacher confidence and well-being, not just tool training.
 
 This direction connects AI anxiety to [[motivation]], [[ai-literacy]], [[student-experience]], and [[self-regulated-learning]].
 
@@ -108,3 +109,4 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety
 - [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences
 
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)

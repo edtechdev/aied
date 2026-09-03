@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-03T14:25:00-04:00"
+updated: "2026-09-03T12:50:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -47,7 +47,7 @@ Integrity enforcement has a neglected emotional cost. [[shame-guilt-ai-regulatio
 
 ### AI use disclosure statements
 
-[[ai-use-disclosure|AI use and disclosure statements]] are the concrete mechanism through which integrity expectations are operationalized — and the research shows they often fail when treated as neutral compliance forms. [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] found 74% of students failed to declare AI use on a mandatory coursework coversheet, driven by fear of penalties, guideline ambiguity, inconsistent enforcement, and peer norms. [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]] and [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] confirm that fear of retribution and unclear policy chill disclosure — and that transparent students can even draw suspicion. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] reframe disclosure as a [[help-seeking]]/[[self-regulated-learning|self-regulation]] behavior that anxiety redirects toward peers. The collective lesson: disclosure policies must address the [[affective-computing|affective]] and social barriers, be clear and consistent, and treat disclosure as [[formative-assessment|formative]] pedagogy rather than surveillance.
+[[ai-use-disclosure|AI use and disclosure statements]] are the concrete mechanism through which integrity expectations are operationalized — and the research shows they often fail when treated as neutral compliance forms. [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] found 74% of students failed to declare AI use on a mandatory coursework coversheet, driven by fear of penalties, guideline ambiguity, inconsistent enforcement, and peer norms. [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]] and [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] confirm that fear of retribution and unclear policy chill disclosure — and that transparent students can even draw suspicion. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] reframe disclosure as a [[help-seeking]]/[[self-regulated-learning|self-regulation]] behavior that anxiety redirects toward peers. The collective lesson: disclosure policies must address the [[affective-computing|affective]] and social barriers, be clear and consistent, and treat disclosure as [[formative-assessment|formative]] pedagogy rather than surveillance. **[[luo-dawson-value-judgements-grading-2026|Luo & Dawson (2026)]]** add the teacher-side of the equation: teachers' grading of GenAI-assisted work is driven by value judgements about student honesty, diligence, and trust, and many teachers penalise (or are tempted to penalise) students who disclose GenAI use — even when the work quality is strong. This is the "two-way transparency" problem: students are expected to declare use, but teachers rarely clarify how that declaration will affect grades, so honest disclosure can carry an unstated grading penalty. The study grounds the disclosure problem in the value-laden reality of teacher grading and argues that transparency must run both directions.
 
 ### Cultural and contextual variation
 
@@ -172,3 +172,4 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
+- [[luo-dawson-value-judgements-grading-2026]] — Value judgements in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
