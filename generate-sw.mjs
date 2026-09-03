@@ -37,6 +37,16 @@ const { count, size, warnings } = await generateSW({
   navigateFallbackDenylist: [/\/pagefind\//],
   // runtime caching for pages + pagefind search index
   runtimeCaching: [
+    // Route order matters (workbox matches first). Large, frequently-regenerated
+    // binaries (offline PDF/EPUB export) MUST go straight to network — never into
+    // the 30-day 'aied-pages' cache below. Otherwise a mobile SW can serve a stale
+    // copy for up to a month (Chrome Android 'clear site data' often fails to
+    // remove the SW cache, making it look unfixable).
+    {
+      urlPattern: /\/aied\/.*\.(pdf|epub)(\?.*)?$/i,
+      handler: 'NetworkOnly',
+      method: 'GET',
+    },
     {
       urlPattern: /\/aied\//,
       handler: 'NetworkFirst',
