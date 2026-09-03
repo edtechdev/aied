@@ -1,7 +1,7 @@
 ---
 title: History of AI in Education
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [history-of-aied, ai-education, intelligent-tutoring, constructivist, agency, learning-theories, generative-ai]
 confidence: high
@@ -32,7 +32,7 @@ The field's history is not a linear progression but a series of contingent decis
 
 **Two forms of personalization.** [[personalized-learning|Personalization]] has two distinct interpretations that map onto these visions. The first maintains uniform outcomes while varying the path (rooted in Skinner's teaching machines; the Khan Academy vision of tutoring to mastery). The second embraces diverse outcomes — learners pursuing individual interests and talents, unconstrained by standard curriculum boundaries (Zhao, 2024). The ITS model supports the former; constructionism the latter.
 
-**Lessons for the GenAI era.** Today's debates about generative AI closely mirror these historical tensions. GenAI is often positioned as a next-generation intelligent tutor (extending Anderson), raising concerns about surveillance, data collection, and standardization. Alternatively it can be a tool for creative agency (extending Papert), requiring us to rethink assessment and accept more ambiguous outcomes. As [[mishra-control-vs-agency-history-2025|Mishra et al.]] conclude, institutional forces repeatedly favor approaches that reinforce existing structures — and the language and metaphors we choose will shape future possibilities.
+**Lessons for the GenAI era.** Today's debates about generative AI closely mirror these historical tensions. GenAI is often positioned as a next-generation intelligent tutor (extending Anderson), raising concerns about surveillance, data collection, and standardization. Alternatively it can be a tool for creative agency (extending Papert), requiring us to rethink assessment and accept more ambiguous outcomes. As [[mishra-control-vs-agency-history-2025|Mishra et al.]] conclude, institutional forces repeatedly favor approaches that reinforce existing structures — and the language and metaphors we choose will shape future possibilities. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi's AI×Ed framework]] gives this intuition empirical grounding: locating papers from AIED proceedings (1985, 1993, 2021, 2024) and IJAIED (2004, 2014, 2021) along two axes — the role of AI (applied tool vs. analogy to human intelligence) and the end user — they trace a field that moved from a diverse mix, including substantial early research using AI as an analogy to human intelligence (computational models of learning, Papert's microworlds, agent-based models of knowledge acquisition), toward a near-exclusive focus on applied, instrumental uses by the 2000s. Notably, the generative-AI era appears to partially reverse that trajectory: at AIED 2024, three of the four papers in the field's "AI-as-analogy" quadrant were LLM-based, including best-paper work on LLM-based teachable agents.
 
 ## The recent impact of generative AI
 
@@ -78,4 +78,4 @@ The arrival of [[generative-ai|generative AI]] — a broad family that includes 
 - [[programming-its]] — Programming Intelligent Tutoring Systems
 - [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
 - [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs (Papert's constructionism lineage)
-
+- [[rismanchian-ai-education-four-decades-aixed-2026]]

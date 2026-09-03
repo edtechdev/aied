@@ -1,7 +1,7 @@
 ---
 title: Design-Based Research
 created: "2026-08-24T02:30:00-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [design-based-research, research-methods-aied]
 research_method: [design-based research, research methods, literature review]
@@ -43,6 +43,7 @@ The canonical AIEd example is the [[ai-assisted-collaborative-learning-model-dbr
 - **Iterative system implementation.** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|Rienties et al.]] describe six iterative DBR studies (18 months, 498 participants) implementing the Open University's AIDA AI assistant using an embedded-systems approach.
 - **[[scaffolding]] and intervention design.** [[critical-thinking-genai-scaffolding|GenAI critical-thinking scaffolding]] and other intervention-development studies use DBR to design and refine AI-based scaffolds.
 - **Youth- and expert-guided [[curriculum-design|curriculum design]].** [[science-integrated-ai-literacy-curriculum-dbr-2026|Moore et al. (2026)]] use a two-year DBR process with a youth and AI-expert advisory board to design a science-integrated [[ai-literacy|AI literacy]] / ML curriculum for high school, refining the design across cohorts and measuring ML-knowledge gains — an example of DBR as participatory co-design that integrates youth voice into the design cycle.
+- **Iterative rubric co-refinement as DBR.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] exemplify DBR's iterative-refinement character applied to the assessment instrument itself: they treated the rubric as a revisable design artifact and cycled through co-refinement with an [[llm|LLM]] — clarifying performance descriptors and explicitly accepting implicit indicators of learning — which raised LLM–human agreement on 80 student design posters from 54.75% to 81.25% (Cronbach's Alpha 0.393 → 0.798). The study positions the rubric as a mediating interface between human pedagogical intent and machine inference, and its role-aware [[prompt-engineering|prompting]] (instructor, peer-reviewer, grant-reviewer) shows how design choices shape evaluative output — a DBR-style demonstration that the assessment instrument, not just the intervention, is a design object.
 - **Co-designing early-childhood AI literacy.** [[play-ai-pre-k-kindergarten-ai-literacy-2026|Lee (2026)]] uses DBR to co-design, pilot, and refine the Play With AI (PL-AI) curriculum across iterative cycles with two pre-K and two kindergarten teachers, drawing on teacher surveys, 32 hours of classroom video, field notes, and design-meeting transcripts. The study documents how DBR supports iterative refinement of developmentally appropriate AI literacy activities and yields transferable design principles ([[embodied-learning|embodied]] play, tangible coding, guided dialogue, teacher co-design).
 
 ## Strengths and limitations
@@ -81,3 +82,4 @@ DBR is complementary to, not a rival of, other research methods (see [[research-
 - [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR for a science-integrated AI literacy curriculum (Moore et al. 2026)
 
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design

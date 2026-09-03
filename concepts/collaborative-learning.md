@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-02T10:24:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [collaborative-learning, ai-education, student-experience, scaffolding, equity-in-ai-education, k-12, higher-ed]
 audience: [learners]
@@ -24,9 +24,9 @@ confidence: high
 
 Collaborative learning is grounded in [[sociocultural-learning|sociocultural theories]] of learning that position knowledge construction as fundamentally social. AI introduces new dynamics: AI can serve as a peer, a facilitator, or a participant in collaborative processes. The articles in this knowledge base explore how AI-mediated collaboration affects [[learning-gains|learning outcomes]], epistemic engagement, and [[equity-in-ai-education|equity]] — and how collaborative structures must be designed to accommodate diverse learners.
 
-**AI as collaborative partner** explores AI's role in group learning. **[[polished-artifacts-fragile-engagement-2026|Kimmerle]]** conceptualizes the risk of reduced epistemic effort when learners use AI to produce polished knowledge artifacts, advocating for AI structured as an argumentative partner that preserves cognitive conflict. **[[epistemic-emotions-collaborative-problem-solving]]** examines how emotions shape collaborative [[problem-solving]] with AI. **[[hingle-collaborative-ai-literacy-2025]]** explores collaborative approaches to [[ai-literacy|AI literacy]] development.
+**AI as collaborative partner** explores AI's role in group learning. **[[polished-artifacts-fragile-engagement-2026|Kimmerle]]** conceptualizes the risk of reduced epistemic effort when learners use AI to produce polished knowledge artifacts, advocating for AI structured as an argumentative partner that preserves cognitive conflict. Testing this at classroom scale, [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] had introductory social-science students (n = 154) write argumentative essays, receive critiques from [[llm|LLMs]] such as ChatGPT, Gemini, or Claude, and then incorporate or rebut them; blind coders found reflection in 92.7% and active rebuttal of LLM claims in 87.8% of responses (inter-rater κs = 0.81–0.89), evidence that learners behaved as [[critical-thinking|critical]] consumers who preserved rather than surrendered the cognitive conflict of critique. **[[epistemic-emotions-collaborative-problem-solving]]** examines how emotions shape collaborative [[problem-solving]] with AI. **[[hingle-collaborative-ai-literacy-2025]]** explores collaborative approaches to [[ai-literacy|AI literacy]] development.
 
-**AI-mediated peer collaboration** examines how AI [[scaffolding|scaffolds]] human-to-human collaboration. **[[collaborative-ai-tutoring]]** and **[[agent-voice-accents-k12-group-learning]]** explore how AI agent characteristics affect group dynamics. **[[ai-agents-peer-learning-discourse]]** documents how [[agentic-ai|AI agents]] teaching each other produce discourse patterns resembling human peer learning.
+**AI-mediated peer collaboration** examines how AI [[scaffolding|scaffolds]] human-to-human collaboration. **[[collaborative-ai-tutoring]]** and **[[agent-voice-accents-k12-group-learning]]** explore how AI agent characteristics affect group dynamics. **[[ai-agents-peer-learning-discourse]]** documents how [[agentic-ai|AI agents]] teaching each other produce discourse patterns resembling human peer learning. Classroom-wide systems extend this to the *relational* dimension of collaboration: **[[breideband-community-builder-cobi-2026|CoBi]]** uses speech recognition and language understanding to detect "uplifting" small-group discourse (being respectful, equitable, committed to community, moving thinking forward) and returns non-evaluative, classroom-level [[visualization]]s to support community building and collaboration skills, deliberately withholding student- or group-level feedback to protect [[privacy]] and [[trust]].
 
 **Neurodivergent perspectives on collaboration** reveal critical design requirements. **[[neurodivergent-computing-students|Zastudil et al.]]** found that neurodivergent students need structured assignments, small consistent teams with explicitly defined roles, and predictable interaction patterns — requirements that AI collaboration tools must accommodate. This connects collaborative learning to [[inclusive-learning]] and [[neurodiversity]].
 
@@ -55,6 +55,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - **Balance efficiency against self-regulation.** Collaborative AI that maximizes task efficiency (delegated reasoning) can undercut learners' regulatory engagement; design should deliberately protect space for concerted interpretation.
 - **Respect the neutrality constraint.** AI mediators are trusted while neutral; moving into advisory or challenging roles destabilizes that trust, so role switches should be explicit and configurable.
 - **Accommodate neurodivergent learners.** Structured assignments, small consistent teams, and explicit role definitions are requirements AI collaboration tools must support.
+- **Prefer non-evaluative, classroom-level feedback.** When supporting the relational dimension of collaboration, class-level aggregated feedback protects [[privacy]] and student agency where individual scoring would feel surveilled; [[breideband-community-builder-cobi-2026|CoBi]] students preferred qualitative visualizations (an organic tree) over quantitative ones (a radar chart), and teachers valued using the system's noticings to spark reflection more than live display.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -120,3 +121,5 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 - [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)
+- [[breideband-community-builder-cobi-2026]]
+- [[oppenheimer-llms-collaborative-learning-partners-2026]]

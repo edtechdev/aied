@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, student-engagement]
 audience: [learners]
@@ -37,6 +37,8 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 - **Competency and emotion as engagement drivers:** [[chatbot-engagement-genai-competency-emotion-2026|Zhao et al. (2026)]] model **871 university students** interacting with an [[llm]] chatbot, finding that **GenAI competency** predicts chatbot engagement both directly and indirectly through **positive emotions** (the affect pathway), and that both competency and positive emotion predict engagement and positive learning emotions. Engagement is thus jointly a *skill* and an *affective* outcome — learners who lack [[teacher-ai-competency|AI competency]] and experience anxiety or frustration disengage, which has implications for [[ai-literacy]] training as an engagement intervention rather than merely a skill goal.
 
 - **Discipline-associated cognitive engagement in student-AI chat.** [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] show that student prompts to AI encode ~62% higher-order cognitive demand on average, but Bloom-level engagement profiles differ sharply by discipline ([[stem-education|STEM]] Apply-prevalent 20.8%, language Understand-prevalent 31.7%, social science Create-prevalent 33.8%). Using a within-person design, they found the same students produced significantly more higher-order prompts in social science than STEM courses (p < .001), with course-level variation exceeding student-level variation — evidence that cognitive engagement with AI is shaped by disciplinary context, not just individual style.
+
+- **AI feedback sustains behavioral activation.** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long lab-in-the-field experiment found that students receiving individual GPT-4 feedback on open-ended tasks sustained the highest participation across eight weekly tasks (~50% by the last, vs ~30% for lecturer- or peer-feedback groups) and wrote ~29 more characters per answer — individual AI feedback activated engagement on both the extensive margin (participation) and the intensive margin (effort per response), even though students rated the peer feedback slightly higher.
 
 - **Predicting academic AI use from learning constructs.** An exploratory [[reinforcement-learning|machine learning]] framework analysed survey data from 166 university students to identify learning-related constructs associated with intended academic ChatGPT use, using SHAP analysis to maintain interpretability. Findings inform how engagement, learning support, and other constructs shape students' incorporation of AI tools into academic work.
 
@@ -139,3 +141,4 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
+- [[gpt4-feedback-student-activation-2026]]

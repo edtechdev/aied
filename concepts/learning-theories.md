@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [learning-theories, behaviorism, self-regulated-learning, metacognition, learning-design, generative-ai, higher-ed]
 level: [higher ed]
@@ -57,6 +57,7 @@ Recent theoretical work extends the classical strand in several directions, each
 - **[[self-directed-learning|Self-Directed]] Growth / A2PL.** An extension of [[self-regulated-learning|self-directed learning]] integrates Generative AI with [[learning-analytics|learning analytics]] to cultivate **Self-Directed Growth**, operationalised through the Aspire to Potentials for Learners (A2PL) model.([[self-directed-growth-generative-ai-learning-analytics]]) It reconfigures learner aspirations (humanistic), complex thinking (constructivist), and self-assessment (pragmatic) into a single competency, positioning GAI as a non-prescriptive collaborative scaffold rather than a content provider.
 
 - **Deceptive overgeneralization.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] extend the ACT-R / Knowledge-Learning-Instruction tradition by theorizing when observed correctness masks incomplete conditional understanding: learners compile an overgeneralized production that omits an application constraint yet still performs correctly — a failure mode that adaptive mastery systems, and even traditional instruction, can miss unless they test *when to withhold* an action.
+- **Executable KLI theory.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] ground the Knowledge-Learning-Instruction framework in an executable computational model (the Apprentice Learner framework with an ACT-R-style memory mechanism) that reproduces a cross-over interaction in human data: pure practice aids verbatim fact memory (by delaying forgetting) while example-integrated practice aids generalizable skill induction. Because KLI ties constant (fact) knowledge to memory processes and variable (skill) knowledge to induction, the result is a predicted content–treatment interaction rather than a contradiction between testing and worked-example recommendations — and the model's success only when a memory mechanism is present demonstrates that practice and examples play distinct, complementary roles.
 
 ### How the knowledge base organizes this strand
 
@@ -123,4 +124,4 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
-
+- [[rachatasumrit-example-problem-ratio-2026]]

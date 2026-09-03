@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [curriculum-design, learning-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
 discipline: [stem education]
@@ -41,6 +41,8 @@ Curriculum design addresses the *what* of education at the program level, comple
 **Sequencing AI across the programme.** [[refrain-amplify-genai-curriculum-2026|Torres-Sahli et al.]] propose a "refrain, then amplify" framework that sequences generative AI at the programme level: withhold a generative tool while a capacity is forming, then restore it to amplify that capacity once the student can direct it and judge its returns. Governed by a forming-versus-offloading criterion (whether a stretch of work builds a capacity or merely passes it through the tool), the framework links curriculum design to [[cognitive-offloading]], [[self-regulated-learning]], and [[academic-integrity]], with hard-to-fake checkpoints at each refrain-to-amplify hinge.
 
 **Generating curriculum-aligned modelling tasks.** AI-powered platforms can address teachers' lack of time and resources for designing high-quality [[math-education|mathematical modelling]] tasks by generating curriculum-aligned problems and pedagogical recommendations grounded in design principles and [[rag|retrieval-augmented]] generation — an approach illustrated with direct variation in secondary school mathematics ([[ai-modelling-problem-generation-platform-2026]]).
+
+**AI-assisted lesson planning at the curriculum-into-classroom layer.** At the point where a curriculum becomes a taught lesson, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]] experimentally compared teacher-generated versus ChatGPT-assisted plans in children's [[stem-education|STEAM]] arts education, finding AI-assisted plans rated significantly higher by six expert professors (median 20.5 vs. 17.6, p = .002, large effect). They show the payoff depends on how the teacher delegates: the recommended method fills content gaps in a self-outlined lesson (preserving [[teacher-role|teacher]] design autonomy) rather than delegating the whole plan, and they contribute a Role–Instructions–End Goal prompt template for reproducible, quality-controlled generation — evidence that AI lesson planning is strongest when embedded within, not substituted for, the teacher's curriculum decisions. In science education, expert validation reaches a parallel verdict on platform design: [[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu, Surmeli and Yildirim (2026)]] had eleven science-education specialists rate ChatGPT-4 and an education-focused tool (Teacher's Buddy) on sixth-grade plans aligned to Turkey's revised curriculum and the Engineering Design-Based Learning model. The education-focused platform scored higher across all eight quality criteria — including feedback-intensive stages and curriculum alignment — evidence that embedding pedagogical structure into an AI yields better-aligned output; yet some experts still preferred the general-purpose plan for its stronger social-emotional emphasis, and 7 of 11 judged the plans "applicable by correction" rather than directly usable. The choice of platform and prompt framing, not just the AI itself, shapes how well generated plans align to curriculum standards and process models.
 
 ### Connections to related concepts
 
@@ -103,3 +105,5 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
 - [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
+- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
+- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]

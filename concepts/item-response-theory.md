@@ -1,7 +1,7 @@
 ---
 title: Item Response Theory
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai]
 research_method: [educational measurement]
@@ -32,7 +32,9 @@ IRT treats ability (θ) and item parameters (difficulty, discrimination, sometim
 
 - **Separating human from GenAI responses with person-fit statistics:** [[irt-human-genai-mcq-responses|Strugatski and Alexandron (2026)]] apply person-fit statistics (PFS) within IRT to distinguish human from [[generative-ai]] responses on multiple-choice assessments. PFS flag GenAI responses as 'aberrant' responders in two authentic contexts (a [[chemistry-education|chemistry]] test and a national exam), show that different [[conversational-ai|chatbots]] produce distinct response patterns (a heterogeneous group of 'intelligences'), and reveal that newer GenAI versions become more human-like — positioning IRT as a robust framework for [[academic-integrity|integrity]] screening in high-stakes testing.
 
+- **LLM difficulty estimation against Rasch IRT parameters:** [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] evaluate whether GPT-4o can estimate the difficulty of K-5 math and reading assessment items (N = 5170) calibrated under the Rasch IRT model. A zero-shot direct estimation approach correlated moderately-to-strongly with true Rasch difficulties (r = 0.83 math, r = 0.81 reading) but was uneven across grades and often no better than a grade-mean dummy regressor for grades K and 1, likely due to range restriction in lower-grade item difficulties. A feature-based strategy — LLM-extracted cognitive and linguistic features fed into tree-based models — outperformed direct estimation (correlations up to r = 0.87), with grade level and word count the top predictors. The study underscores that LLM difficulty estimates must be validated against empirically fitted IRT parameters, and that structured feature extraction can sharpen prediction where holistic zero-shot judgment falls short.
 - **Item-writing flaws as a pre-deployment screen for IRT parameters:** [[item-writing-flaws-irt-difficulty-2026|Schmucker and Moore (2026)]] test whether Item-Writing Flaw (IWF) rubrics — a domain-general, textual evaluation requiring no student data — predict empirically estimated IRT difficulty and discrimination. Across **7,126 multiple-choice questions** in [[stem-education|STEM]] (physical science, [[math-education|mathematics]], life/earth sciences), they used automated, LLM-assisted coding to show that IWF rubrics carry predictive validity for empirical IRT parameters, offering a scalable pre-deployment screen that complements or partially substitutes resource-intensive pilot testing.
+- **IRT-based risk filtering for selective AI grading:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] fit a two-parameter logistic IRT model to AI-graded handwritten-chemistry data and define the "risk" of accepting an AI judgment as the absolute deviation between the AI's normalized score and the IRT-expected probability of credit (Risk = |s−p|); accepting only items within a chosen tolerance of this Bayesian expectation flags "surprising" AI scores for [[human-in-the-loop-ai|human review]], turning IRT from a pure score-aggregation tool into an operational acceptance/deferral mechanism for [[automated-assessment]] — one that achieved alignment with human grading similar to simpler partial-credit thresholds but with lower human workload, though its logic is less transparent to non-technical audiences.
 
 ### Connections
 
@@ -66,3 +68,5 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 
+- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[cvengros-grading-handwritten-chemistry-ai-2026]]

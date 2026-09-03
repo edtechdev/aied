@@ -1,7 +1,7 @@
 ---
 title: Assistive Technology
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [assistive-technology, accessibility, special-education, inclusive-learning, equity-in-ai-education, learning-design]
 level: [special education]
@@ -9,25 +9,27 @@ category: [instructional design]
 confidence: high
 ---
 
-> **Assistive Technology** — devices, software, and services that help people with disabilities perceive, operate, communicate, and participate in learning and daily life. In AI in education, assistive technology spans screen readers, speech-to-text and text-to-speech, captioning, braille and tactile output, sign-language tools, and increasingly AI-powered accommodations that adapt content and interaction to individual needs.
+> **Assistive Technology** — devices, software, and services that help people with disabilities perceive, operate, communicate, and participate in learning and daily life. In [[ai-education|AI in education]], assistive technology spans screen readers, speech-to-text and text-to-speech, captioning, braille and tactile output, sign-language tools, and increasingly AI-powered accommodations that adapt content and interaction to individual needs.
 
 ## Questions to Consider
 
 - Assistive technology is the tool layer of accessibility — the specific devices and software individuals use to bridge access gaps. Before reading, did you think of accessibility and assistive technology as the same thing? How might treating them as distinct change how you design learning environments?
-- Research finds AI-based interventions yield a medium positive effect on learning outcomes for students with disabilities (g = 0.588). Yet the page warns that access tools don't by themselves ensure inclusive instruction or learner agency. What's the difference between giving a student access and genuinely including them?
+- [[research-methods-aied|Research]] finds AI-based interventions yield a medium positive effect on [[learning-gains|learning outcomes]] for students with disabilities (g = 0.588). Yet the page warns that access tools don't by themselves ensure inclusive instruction or learner agency. What's the difference between giving a student access and genuinely including them?
 - The page notes that US AI policy documents largely fail to address assistive technology and accommodations for students with specific learning disabilities. Why do you think accommodations so easily fall through the cracks of AI policy — and who loses when that happens?
-- Generative AI can auto-caption, simplify text, and generate tactile alternatives — lowering the cost of adaptation. But the page cautions you to evaluate the quality of AI-generated alternatives for pedagogical accuracy. What could go wrong if a 'simplified' or 'tactile' version misrepresents the content it's meant to make accessible?
+- [[generative-ai|Generative AI]] can auto-caption, simplify text, and generate tactile alternatives — lowering the cost of adaptation. But the page cautions you to evaluate the quality of AI-generated alternatives for [[pedagogy|pedagogical]] accuracy. What could go wrong if a 'simplified' or 'tactile' version misrepresents the content it's meant to make accessible?
 - AI is expanding assistive tools from voice-first learning companions to tactile graphs and sign-language tools. As an educator or designer, which learner's specific barrier would you want to address first with AI — and what would you need to know about that learner before choosing a tool?
 
 ## Introduction
 
-Assistive technology is the concrete *tool layer* of [[accessibility]]. Where accessibility is the design property of an environment (can everyone access it?), assistive technology is the specific equipment and software that individuals use to bridge access gaps. It is foundational to [[special-education]] and [[inclusive-learning]] — students with specific learning disabilities, visual or hearing impairments, and motor challenges rely on assistive tools to access the curriculum. In the U.S., the [[educational-policy-ai|Assistive Technology Act (2004)]] and the Individuals with Disabilities Education Improvement Act (IDEA, 2004) provide the legal basis for providing these tools to students with disabilities.
+Assistive technology is the concrete *tool layer* of [[accessibility]]. Where accessibility is the design property of an environment (can everyone access it?), assistive technology is the specific equipment and software that individuals use to bridge access gaps. It is foundational to [[special-education]] and [[inclusive-learning]] — students with specific learning disabilities, visual or hearing impairments, and motor challenges rely on assistive tools to access the [[curriculum-design|curriculum]]. In the U.S., the [[educational-policy-ai|Assistive Technology Act (2004)]] and the Individuals with Disabilities Education Improvement Act (IDEA, 2004) provide the legal basis for providing these tools to students with disabilities.
 
 ### Key research themes
 
-**AI is expanding assistive technology.** Generative AI and LLMs are transforming assistive tools — [[text-simplification-its|LLM-based text simplification]] adapts reading level in [[intelligent-tutoring]], [[kutti-ai-voice-first-learning-companion|voice-first AI]] removes visual dependency for blind and low-vision learners, and [[tactile-statistical-graphs-accessibility|AI-generated tactile graphs]] convert visual data to touchable output. **[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]]** find AI-based interventions (robots, software, intelligent VR) yield a medium positive effect on the learning outcomes of students with disabilities (g = 0.588).
+**AI is expanding assistive technology.** Generative AI and LLMs are transforming assistive tools — [[text-simplification-its|LLM-based text simplification]] adapts reading level in [[intelligent-tutoring]], [[kutti-ai-voice-first-learning-companion|voice-first AI]] removes visual dependency for blind and low-vision learners, and [[tactile-statistical-graphs-accessibility|AI-generated tactile graphs]] convert visual data to touchable output. **[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]]** find AI-based interventions (robots, software, intelligent VR) yield a medium positive effect on the learning outcomes of students with disabilities (g = 0.588). **[[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]]** add a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates in Palestine, showing GenAI functions as an assistive layer that tailors pace, content, and delivery, simplifies complex texts, and converts content across modalities — with learners consistently viewing it as complementing rather than replacing teachers.
 
 **Policy and provision.** **[[shin-ai-policies-sld-2026|Shin et al.]]** document that U.S. AI policy documents largely fail to address assistive technology and accommodations for students with specific learning disabilities, calling for policy guidance grounded in the Assistive Technology Act and IDEA.
+
+**AI for dyslexia across detection, support, and [[personalized-learning|personalized learning]].** A 2026 interdisciplinary [[meta-analysis-systematic-review|systematic review]] (Dabaghi, D'Urso & Sciarrone, PRISMA-guided, 2018–2024, n=72) maps AI support for students with dyslexia, finding AI used for detection, assistive support, and personalized learning — but with these strands evolving in parallel rather than in integration, driven more by technological opportunity than by consolidated educational theory. ML-based help-education tools fall into five areas (specific applications, [[student-engagement|engagement]], personalization, recommendation, generic support) yet emphasize technical performance and classification accuracy while overlooking ecological validity and practical classroom deployment. Detection research (EEG, eye-tracking, ML models) shows diagnostic promise for early intervention but often requires specialized equipment and controlled environments, limiting scalability and accessibility in typical school settings. Open challenges include limited experimental validation, scalability, [[ethics]]/privacy concerns with sensitive student data, limited teacher support and training, and language/cultural barriers (most research targets English-speaking populations) — a reminder that assistive tools must be validated, scalable, and ethically grounded to genuinely bridge access gaps.
 
 **The limits of assistive tools.** Assistive technology enables access but does not by itself ensure inclusive instruction or learner [[agency]]. **[[genai-minoritized-knowledges-disability|Critical research]]** and the push for [[agency|agentic]] roles for students with disabilities remind us that access must pair with meaningful participation.
 
@@ -58,3 +60,5 @@ Assistive technology is the concrete *tool layer* of [[accessibility]]. Where ac
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM question generation for Deaf/Hard-of-Hearing learners
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 
+- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
+- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education

@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [transfer-of-learning, metacognition, desirable-difficulties, k-12, intelligent-tutoring, scaffolding, cognitive-offloading]
 level: [k 12]
@@ -63,6 +63,7 @@ The limited evidence suggests transfer is possible when:
 - **Pedagogical guardrails are present** — step-by-step hints, misconception targeting, [[socratic-method|Socratic questioning]] (Bastani et al., 2025 tutoring variant)
 - **Traditional strategies are preserved** — note-taking paired with AI use improved retention (Kreijkes et al., 2026)
 - **AI is used for [[formative-assessment|formative]], not summative, practice** — scaffolding during learning, not during assessment
+- **The practice format is matched to the knowledge being transferred.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] find that retrieval-practice gains frequently fail to transfer to unfamiliar problems — they strengthen memory for a procedure without enabling its use in new contexts — and that durable generalization to novel applications requires pairing practice with worked examples that support skill induction; the optimal example–problem ratio therefore depends on whether the content is a verbatim fact or a generalizable skill.
 - **Learner expertise is calibrated** — the tool adapts support to readiness rather than defaulting to full assistance
 
 This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tutoring-specific tools with pedagogical guardrails outperform general-purpose chatbots, and with [[scaffolding]] principles about fading support as competence grows.
@@ -105,5 +106,4 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[productive-failure]] — Productive Failure
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-
-
+- [[rachatasumrit-example-problem-ratio-2026]]

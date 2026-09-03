@@ -1,7 +1,7 @@
 ---
 title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: []
 confidence: medium
@@ -26,7 +26,10 @@ Natural language processing in education applies computational methods to the la
 
 - **Analysis of student language.** [[llm-sentiment-analysis-education-research]] applies LLM-based sentiment analysis to educational research, extracting emotional and evaluative signals from student text at scale, feeding [[learning-analytics]] and [[affective-computing]].
 - **Prediction and measurement.** [[llm-item-difficulty-prediction]] and [[vocabulary-difficulty-prediction]] use language models to estimate item and text difficulty — core inputs to [[educational-measurement]], [[adaptive-learning]], and [[item-response-theory]] models.
+- **Readability and [[curriculum-design|curriculum]] alignment.** Bird (2026) fuses transformer text classification with computational-linguistics features to classify English literature by UK Key Stage, reaching an F1 of 0.996 — a data-driven complement to [[vocabulary-difficulty-prediction]] and [[llm-item-difficulty-prediction]] for [[educational-measurement]] and reading-level alignment.
 - **Feedback and classification.** [[teaching-feedback-classification-benchmark]] provides a [[benchmark]] for classifying teaching feedback, advancing [[feedback|Feedback Loop]] research and [[pedagogical-llm-training]].
+- **Short-answer assessment in science.** Morley et al.'s scoping review of transformer-based auto-marking of short-answer [[science-education|science]] questions (2017–early 2024) shows BERT-family models became the field's dominant workhorse for [[automated-assessment|free-text marking]] before larger [[llm|LLMs]] were adopted via prompting, and that models augmented with domain knowledge — extra pre-training, rubric or textbook data, meta-learning — consistently outperformed those without ([[auto-marking-short-answer-science-2026]]).
+- **Context-sensitivity vs. reference matching in open-response grading.** Benchmarking eleven GenAI and sentence-embedding models on 1,885 software-engineering open-ended answers, [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] show that context-sensitive [[llm|LLMs]] (GPTo1 best, almost-perfect human agreement) beat cosine-similarity reference-based models (BERT, RoBERTa, T5, USE), which systematically misclassified valid but differently-phrased responses. Their NLI analysis revealed that many semantically correct answers fell into the *contradiction* category relative to reference answers — evidence that educational NLP grading must accommodate students' short, diverse, own-word phrasing rather than rigid reference alignment.
 
 ### Connection to tutoring and measurement
 
@@ -56,3 +59,6 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
+- [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
+- [[auto-marking-short-answer-science-2026]]
+- [[pecuchova-automated-grading-open-ended-genai-2026]]

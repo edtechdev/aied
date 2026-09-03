@@ -1,7 +1,7 @@
 ---
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [bias-mitigation, equity-in-ai-education, ethics, ai-literacy, higher-ed, generative-ai, k-12, student-experience, teacher-role, llm]
 audience: [learners, instructors]
@@ -36,6 +36,7 @@ The knowledge base's research documents bias entering at multiple points in the 
 - **Marginalized knowledges:** [[genai-minoritized-knowledges-disability|Generative AI and minoritized knowledges]] documents how training data and model behavior marginalize non-dominant knowledge systems and disability perspectives.
 - **Stereotype-aligned automated feedback (Marked [[pedagogy|Pedagogies]]):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] show four widely used LLMs systematically shift writing feedback in stereotype-aligned ways when feedback is personalized with student attributes — race, ethnicity, ELL designation, learning disability, achievement, or motivation — producing positive feedback bias and feedback withholding bias (overuse of praise, less substantive critique, assumptions of limited ability) for marked students even on identical essays. The "Marked Words" concentration metric offers a concrete method for auditing such bias in automated feedback.
 - **Visual bias in text-to-image tools:** [[bias-representation-text-to-image-education-2026|Alon, Hadar Shoval, and Levkovich (2026)]] [[meta-analysis-systematic-review|systematically review]] 31 peer-reviewed studies (2023–2025) on bias and representation in educational uses of AI-generated text-to-image. Using a six-part analytic framework (gender; race, ethnicity, and SES; culture and religion; age; body and (dis)ability; content), they find biased representation pervasive — images frequently centered white, male, Western, thin, and non-disabled figures, while diversity related to age, body, and ability was largely overlooked. Most studies relied on image audits and [[qualitative-research|qualitative]] methods, with few experimental or intervention-based designs, revealing significant blind spots in how educational research measures and responds to visual bias.
+- **Non-discrimination as a core ethical value.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], a [[meta-analysis-systematic-review|systematic review]] of 25 articles, identify non-discrimination (definitions using bias/discrimination/diversity) as one of six main ethical values for [[ai-education|AI in education]], alongside data stewardship, human oversight, goodwill, explicability, and educational aptness. The review notes the values are tightly coupled and can conflict — e.g., non-discrimination vs. data stewardship — producing ethical dilemmas, and that no norms on non-discrimination address end users directly, leaving learners largely passive in the ethical literature.
 
 ## Mitigation approaches
 
@@ -113,3 +114,4 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[bias-representation-text-to-image-education-2026]] — Bias and representation in AI-generated text-to-image: systematic review (Alon et al. 2026)
 
+- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Diagnosis
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [student-modeling, educational-measurement, knowledge-tracing, assessment, intelligent-tutoring, learning-analytics, psychometrically-aware-ai]
 research_method: [educational measurement]
@@ -29,6 +29,7 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 - **Automated model search:** because no single diagnostic model fits every learner, [[machine-learning|AutoML]]-driven approaches (e.g., personalized neural cognitive architecture search) generate diagnostic models for heterogeneous learner profiles — integrating [[multimodal|multi-modal]] educational data to enable dynamic analysis of learning processes and per-learner cognitive diagnosis, rather than relying on static examination outcomes and simple statistical indicators ([[personalized-neural-cognitive-architecture-search-2026]]).
 - **Response data:** diagnosis draws on responses to assessments, hints, [[help-seeking]], and time-on-task — richer signals than raw scores.
 - **LLM-based diagnosis:** newer approaches use [[llm|large language models]] to diagnose from open-ended or handwritten work, and to identify the specific [[misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
+- **Outcome-level diagnosis in OBE curricula:** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] diagnose which course outcomes a learner has attained in Outcome-Based Education by treating outcomes as the knowledge concepts, supplying concept relationships via expert-validated OBE affinity mappings between course and program outcomes (an explicit alternative to implicitly learned attention or graph relations), and using a memory-augmented module to estimate how one outcome's attainment impacts others — outperforming DKT, DKVMN, EKT, and SimpleKT baselines (89.81% AUC) on live engineering-program data.
 
 #
 - **Bayesian DINA for personalized learning paths:** [[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng and Huang (2026)]] integrate a Bayesian DINA model (trained on the EdNet dataset, N=5,000) with knowledge space theory and a shortest-remediation-path algorithm to generate personalized learning paths, and empirically test the mediating role of [[cognitive-offloading|cognitive load]] via Hidden Markov Model state transitions (validated on 120 students) — addressing both the sparsity-driven convergence problem of traditional DINA models and the untested psychological mechanism behind personalized-path effectiveness.
@@ -84,3 +85,4 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
+- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping

@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-09-03T12:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [learning-theories, ai-education, limitations-in-aied-research, research-methods-aied]
 research_method: [literature review, research methods]
@@ -47,6 +47,8 @@ Other work extends existing theory into the AI context rather than founding new 
 [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] advance ACT-R and the Knowledge-Learning-Instruction framework by theorizing *deceptive overgeneralization* — a failure mode in which knowledge compilation yields an overgeneralized production that produces correct actions while omitting a critical application constraint — and by empirically validating a detection/remediation procedure across adaptive ITSs and a [[k-12]] decimal-learning dataset.
 
 **Postphenomenology and technological mediation.** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] advance the established postphenomenological framework of technological mediation (Ihde 1990; Verbeek 2006, 2011; Rosenberger & Verbeek 2015) into the AI-in-education context. Rather than proposing a new theory, they apply it to reconceptualize GAI [[conversational-ai|chatbots]] as *multistable technological artefacts* whose "scripts" (rapid responsiveness, natural-sounding text that can achieve passing grades) mediate teachers' perceptions and reconfigure their practices — unsettling teacher confidence, reshaping what competence means, and pushing teachers beyond instrumental questions of acceptable use toward re-evaluating their role and the meaning of teaching. This is a theory-*advancement* contribution: it demonstrates how a philosophical account of human–technology relations explains the emotional and professional disruption teachers experience when GAI enters established educational practice.
+
+A further framework contribution is [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi's AI×Ed typology]], which extends Kahn's (1977) original "three interactions" along two axes — the role of AI (applied tool vs. analogy to human intelligence) and the end user (researcher to learner) — to locate any AIED project. Beyond categorizing the field, it argues for reviving the "AI as an analogy to human intelligence" strand of theory and research, using computational and agent-based models of learning (e.g., their own computational model of the [[icap-framework|ICAP framework]]) to bridge contemporary [[learning-theories|learning theory]] and computational modeling — a methodological direction the field largely abandoned when it turned toward applied, data-driven work.
 
 ## The theory-use problem in AIEd
 
@@ -94,3 +96,4 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
+- [[rismanchian-ai-education-four-decades-aixed-2026]]

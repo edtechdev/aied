@@ -1,7 +1,7 @@
 ---
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 tags: [edtech-platform, ai-education, online-teaching-and-learning, generative-ai, llm, adaptive-learning, personalized-learning, k-12, higher-ed, equity-in-ai-education]
@@ -46,7 +46,7 @@ A platform can be effective in principle yet fail in practice if learners do not
 
 ### AI-native platforms are reshaping online education
 
-The platform paradigm itself is evolving. **MAIC** (Massive AI-empowered Course) replaces the MOOC's "one video for N students" model with an LLM-driven multi-agent classroom — "N agents for 1 student" — using specialized Teacher, Assistant, Classmate, and Analyzer agents to deliver personalized, adaptive learning at scale, and reducing course production from ~$25K/60 hours to under $2/30 minutes.([[mooc-to-maic]]) Similarly, AI-integrated LMS designs propose moving beyond workflow-only platforms toward real-time instructional support with policy-gated (bounded) AI, formative hinting, spaced review, and teacher dashboards.([[ai-lms-middle-school-longitudinal]])
+The platform paradigm itself is evolving. **MAIC** (Massive AI-empowered Course) replaces the MOOC's "one video for N students" model with an LLM-driven multi-agent classroom — "N agents for 1 student" — using specialized Teacher, Assistant, Classmate, and Analyzer agents to deliver personalized, adaptive learning at scale, and reducing course production from ~$25K/60 hours to under $2/30 minutes.([[mooc-to-maic]]) Similarly, AI-integrated LMS designs propose moving beyond workflow-only platforms toward real-time instructional support with policy-gated (bounded) AI, formative hinting, spaced review, and teacher dashboards.([[ai-lms-middle-school-longitudinal]]) At the other end of the deployment spectrum, classroom-embedded AI must prove feasible in live physical environments. The Community Builder ([[breideband-community-builder-cobi-2026|CoBi]]) — a classroom-wide platform that uses speech recognition and language understanding to visualize small-group collaborative discourse — was successfully deployed across noisy middle-school classrooms using commodity microphones and a scalable cloud pipeline, showing that real-time speech-AI infrastructure can function in authentic K-12 settings even as interface mismatches (teacher vs. student views of whether feedback was group- or class-level) created deployment friction.
 
 ### Interest-based and context-aware platform features
 
@@ -58,6 +58,7 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 2. **Treat platform structure as an equity lever.** Who benefits from a platform depends on access, infrastructure, and engagement constraints — platform design must be examined through an [[equity-in-ai-education]] lens.([[access-not-enough-ai-tutoring-2026]])
 3. **Prefer open, replicable platforms for research.** Open-source platforms like OATutor enable reproducible adaptive-learning research and a shared evidence base.([[oatutor-open-source-adaptive-tutor-2023]])
 4. **Design AI-native platforms with governance and bounds.** Privacy-first architecture, data minimization, auditable logs, and role-based access are critical as platforms become AI-integrated — connecting to [[privacy]] and [[governance]] concerns.([[ai-lms-middle-school-longitudinal]])
+5. **Explain recommendations in the teacher's domain language.** A platform's AI features earn trust and uptake when their explanations are understandable and pedagogically meaningful: in a within-subject experiment with an AI grouping-recommendation tool (GrouPer), [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found domain-driven explanations framed in curricular language increased teachers' understandability, trust, and acceptance significantly more than raw feature-importance explanations — and that real classroom use still mattered for full acceptance.([[xai-teachers-trust-edtech-recommendations-2026]])
 
 ## Connected Concepts
 
@@ -108,4 +109,5 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[a4l-analytics-pipeline]] — A configurable analytics pipeline platform
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research and systems
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
-
+- [[breideband-community-builder-cobi-2026]]
+- [[xai-teachers-trust-edtech-recommendations-2026]]

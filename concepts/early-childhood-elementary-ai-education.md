@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [early-childhood-elementary-ai-education, k-12, ai-literacy, computational-thinking, ai-education, well-being]
 level: [k 12]
@@ -29,11 +29,17 @@ Young children interact with AI increasingly early — through AI-enabled toys, 
 
 - **AI-enabled toys and child development.** [[ai-toys-child-development-2026|Research on AI in toys]] examines how commercial AI-enabled playthings shape child development and play. This raises open questions about [[pedagogical-agent|agents]] in play, [[trust-calibration|trust calibration]], [[agency]], and [[well-being]] for the youngest learners — an area where design guidance is thinner than for school-age curricula, and where parents/guardians become central stakeholders.
 
+- **Children's attitudes toward age-tailored chatbots.** [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] deployed "Ask Me Anything" (AMA), a topic-bounded chatbot (astronomy, sneakers and shoes, dinosaurs) tailored by age via prompt engineering, for 63 children (ages 6–14), revealing three patterns in child–AI interaction — wonder and curiosity, testing trust and building confidence, and building relationships through anthropomorphization — alongside a broad openness to and high trust in AI as an information source. Their call for age-sensitive design and explicit teaching of [[privacy|digital-safety]] and data-use concepts reinforces the developmental and [[pedagogical-safety|safety]] concerns central to this concept.
+
 - **Elementary subject learning.** [[ai-powered-personalized-learning-elementary-fractions-2026|AI-powered personalized learning]] in elementary fractions and [[awareness-technological-isomorphism|AI in elementary math]] (including concerns about "technological isomorphism" — students mimicking AI output without understanding) show both the promise and the pitfalls of AI in early subject instruction. [[elementary-writing-genai-systematic-review-2026|A systematic review of elementary writing and GenAI]] maps how [[generative-ai|generative AI]] is reshaping [[writing-education|writing instruction]] in the early grades.
 
 - **Robots and young children.** [[tsingidou-ct-robotics-kindergarten-2026|Robotics in kindergarten]] supports computational thinking through [[educational-robotics|educational robots]], and [[icub-humanoid-storytelling-llm-hri-2025|LLM-powered humanoid storytelling]] explores whether parents will accept robots as narrative play partners for their children — foregrounding [[trust]] and adult attitudes.
 
 - **Play-centered AI literacy curricula.** Lee (2026) reports the [[design-based-research|design-based research]] of Play With AI (PL-AI), a developmentally appropriate [[curriculum-design|curriculum]] in which two pre-K and two kindergarten teachers co-designed seven sequenced activities blending unplugged play (composing and testing "how-to" algorithms), tangible coding (Bee-Bot, Ozobot), and guided dialogue with a social AI robot. [[formative-assessment|Formative]] evidence showed substantial growth in teacher confidence and [[pedagogy|pedagogical]] agency, with four design principles emerging — **embodied play, tangible coding, guided dialogue, and teacher co-design** — aligned with the AI4K12 Initiative and NAEYC frameworks. This is a model of how [[educational-robotics|robots and tangible tools]] can be embedded in play-based, teacher-led [[ai-literacy|AI literacy]] for the youngest learners.
+
+- **AI-assisted lesson planning for children's STEAM arts teachers.** An experimental study of children's art teachers ([[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir 2025]]) found ChatGPT-assisted lesson plans were rated significantly higher in quality than teacher-generated ones by six expert professors (median 20.5 vs. 17.6, p = .002, large effect), while mapping how teachers delegated — most often (60%) to fill content gaps in a self-outlined lesson rather than to generate whole plans. Teachers valued AI chiefly as an inspiration and gap-finding tool for interdisciplinary [[stem-education|STEAM]] integration and faster topic selection, but flagged outputs that were impractical for real classrooms, overlooked child-safety constraints (e.g., carving knives for young children), and carried Western-centric cultural bias — concrete, developmentally grounded caution for [[generative-ai|generative AI]] use with young learners that a Role–Instructions–End Goal prompt framework was built to temper.
+
+- **AI-supported critical media literacy in the elementary years.** Demir and Akar (2026) evaluate an 18-hour, 5E-model critical media literacy program for fourth-grade students in a Turkish public primary school, embedding [[generative-ai|generative AI]] (ChatGPT, Grammarly, Canva AI, Padlet) phase-by-phase as a pedagogical agent rather than an isolated add-on, with activities aligned to the Turkish Language and Social Studies curricula. The AI-supported group showed large gains in media reading (+3.50), writing (+1.67), and total media literacy (+5.17, all p < .01) with between-group effect sizes of Cohen's *d* = 1.12–1.31, while the control group advanced only modestly. [[qualitative-research|Qualitative]] analysis of interviews, student artifacts (posters, drawings, slogans), and classroom observation surfaced six domains of critical media literacy growth — digital self-protection and [[privacy|data privacy]], purposeful and responsible media use, safe communication and boundary awareness, critical evaluation and misinformation awareness, online risk awareness, and media [[ethics]]/digital citizenship — offering a rare quasi-experimental, curriculum-aligned model of how AI can support critical [[ai-literacy|AI literacy]] and [[critical-thinking|critical thinking]] in the elementary grades.
 
 ### Developmental and equity considerations
 
@@ -71,3 +77,6 @@ Because young learners are more vulnerable and less able to self-regulate their 
 
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
+- [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children
+- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
+- [[vahedian-children-attitudes-ai-chatbot-2026]]
