@@ -1,6 +1,6 @@
 # Research Wiki Tooling
 
-Everything you need to run your own automated research wiki — a static site that ingests academic papers and journal articles, synthesizes article and concept pages, and publishes to GitHub Pages. Powered by [Hermes Agent](https://github.com/NousResearch/hermes-agent).
+Everything you need to run your own automated research wiki — a static site that ingests academic papers and journal articles, synthesizes article and concept pages, and publishes to GitHub Pages. Powered by an AI agent.
 
 **What this tooling does:**
 - **Daily scans** arXiv (cs.CY/cs.HC/cs.CL/cs.AI + physics.ed-ph) and EdArXiv for new papers in your domain
@@ -71,7 +71,7 @@ cp tooling/example/concepts/* concepts/
 cp tooling/example/raw/papers/* raw/papers/
 ```
 
-### 5. Set up the Hermes cron jobs
+### 5. Set up the AI agent cron jobs
 
 Two cron jobs (see `cron/` for the prompts):
 
@@ -80,7 +80,7 @@ Two cron jobs (see `cron/` for the prompts):
 | Daily scan | Weekdays 9:00 AM | arXiv (cs.CY, cs.HC, cs.CL, cs.AI, physics.ed-ph), EdArXiv |
 | Weekly journal RSS | Sundays 8:00 AM | Journal RSS feeds (open-access only) |
 
-Create them with `hermes cron create` using the prompt files, setting `workdir` to your wiki path.
+Create them with `agent cron create` using the prompt files, setting `workdir` to your wiki path.
 
 ## Wiki Structure
 
@@ -91,7 +91,7 @@ wiki/
 ├── faqs/              # Curated FAQ pages (question-and-answer)
 ├── raw/papers/        # Raw source text (arXiv, PDFs, RSS abstracts)
 ├── tooling/           # Reusable tooling: SKILL.md (research-wiki), SCHEMA.md, README, cron/, scripts/
-├── skills/            # Mirrored Hermes skills: research/wiki-inline-links/ (inline-link + list-formatting HARD GATE)
+├── skills/            # Mirrored AI agent skills: research/wiki-inline-links/ (inline-link + list-formatting HARD GATE)
 ├── src/               # Astro pages: index, journal, search, faq, article/concept/faq templates; lib/jsonld.ts
 ├── public/            # llms.txt, llms-full.txt, robots.txt
 ├── astro.config.mjs   # Astro config (base, pagefind, sitemap)
@@ -175,7 +175,7 @@ The EPUB/PDF and cover are committed artifacts (built locally, like `llms-full.t
 
 ## Dependencies
 
-- **Hermes Agent** (for cron jobs and ingestion) — https://github.com/NousResearch/hermes-agent
+- **AI agent** (for cron jobs and ingestion)
 - **Node.js 18+** (Astro 7, Pagefind)
 - **Python 3.9+** (stdlib only — no pip packages required)
 - **pandoc** — for the EPUB/PDF generation (`tooling/build-epub.py`)
@@ -199,7 +199,7 @@ The EPUB/PDF and cover are committed artifacts (built locally, like `llms-full.t
 
 Copy the `tooling/` directory **and the `skills/` directory** into a new repo, follow this README and the Astro site setup, and you'll have your own automated research wiki in ~15 minutes.
 
-To fully reproduce the ingestion workflow (including the inline-link HARD GATE and the list-formatting check), install the Hermes Agent skills in the `research` category, all mirrored under `skills/research/` (each with a "Repository mirror" note pointing back here):
+To fully reproduce the ingestion workflow (including the inline-link HARD GATE and the list-formatting check), install the AI agent skills in the `research` category, all mirrored under `skills/research/` (each with a "Repository mirror" note pointing back here):
 - **`research-wiki`** — the full ingestion + export pipeline (mirrored in `tooling/SKILL.md`)
 - **`wiki-inline-links`** — the aggressive inline-link + list-formatting pass that runs on every new/enriched page before build (mirrored in `skills/research/wiki-inline-links/`)
 - **`wiki-epub-export`** — EPUB/PDF regeneration (`skills/research/wiki-epub-export/`)

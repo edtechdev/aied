@@ -30,7 +30,7 @@ no linkable slug for the scanner, no phrase in the concept index):
    natural-language variants / synonyms the term appears as in prose.
 
 4. **Add ALIASES** — `scripts/inline_link_scan.py` (in the skill's scripts dir; note the live copy
-   lives under `~/.hermes/skills/research/wiki-inline-links/scripts/inline_link_scan.py`).
+   lives under `~/.ai-agent/skills/research/wiki-inline-links/scripts/inline_link_scan.py`).
    Add a `'<slug>': ['term', 'synonym', ...]` entry so the scanner maps prose terms → `[[slug]]`.
 
 5. **Regenerate + build + deploy** — index.md / journal.md / llms regenerated (the new concept

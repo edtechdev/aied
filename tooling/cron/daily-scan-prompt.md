@@ -1,6 +1,6 @@
 # Daily Research Scan — Cron Job Prompt
 
-Copy this prompt when creating the daily Hermes Agent cron job.
+Copy this prompt when creating the daily AI agent cron job.
 Replace `[YOUR_WIKI_PATH]` with the absolute path to your wiki repo.
 Replace `[YOUR_WIKI_TITLE]` with your wiki's display title.
 

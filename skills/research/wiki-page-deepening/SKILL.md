@@ -64,11 +64,11 @@ Deepen the answer with concrete specifics from the underlying sources, and link 
 
 1. **Narrative integration, never append-only.** Weave new content into the thematically-appropriate EXISTING section. Do **not** add a standalone `##`/`###` enrichment section between the body and `## Connected Concepts`. Exception: a *deliberate full rewrite* of the whole page (rare, and only when the user asks for a rewrite or the contribution is major).
 2. **No standalone source/PDF/DOI links in the body.** The source is hyperlinked ONLY via the bottom `## Citation` title→source link. No `📄 [PDF](…)`, `📄 arXiv · [PDF](…)`, `📄 [Full article](…)`, `📄 DOI: …` lines in narrative bodies. (`check_list_formatting.py` enforces this.)
-3. **`## Citation` at BOTTOM, title-only hyperlink.** Never top/mid-page. Only the title is linked. Never fabricate a DOI/URL — if no public source link, leave the title unlinked.
+3. **`## Citation` at BOTTOM, title-only hyperlink.** Never top/mid-page. Only the title is linked. Never fabricate a DOI/URL — if no public source link, leave the title unlinked. **Format: APA, title italicized + hyperlinked** — see `wiki-citation-format` for the exact canonical form.
 4. **Cross-linking is bidirectional and precise.** Link the **most precise** matching concept (not the umbrella). Link SPECIFIC concepts, not umbrella pages. Both directions (article↔concept/article) must agree. Prefer `[[wikilinks]]` in Connected lists; inline links in body prose are fine when they add navigational value.
 5. **Concept pages REQUIRED sections**: `## Questions to Consider` (single contiguous bulleted list, 2-7 open pre-reading questions) then `## Introduction`. If enriching a concept, refresh Questions if content changed substantially.
 6. **Bump `updated`** (full ISO timestamp) in frontmatter on any significant edit — the maintainer flags stale `updated` dates.
-7. **Public-repo privacy**: the repo is public. No personal names, `/home/` paths, `~/.hermes`, `blume` branding in tracked files or commit messages. Use neutral "the maintainer". (The `git-personal-info-scrub` skill has the full list.)
+7. **Public-repo privacy**: the repo is public. No personal names, `/home/` paths, `~/.ai-agent`, or branding in tracked files or commit messages. Use neutral "the maintainer". (The `git-personal-info-scrub` skill has the full list.)
 
 ## Step 4 — HARD GATE before build
 
@@ -86,7 +86,7 @@ The scanner's denylist suggestions are report-only, not defects. Apply only high
 1. Regenerate the llms files if page content changed: `python3 tooling/scripts/generate-llms-files.py`.
 2. `npm run build` (workdir the wiki repo root) — confirm `0 errors` / `Complete`.
 3. Spot-check rendered HTML for the key new content.
-4. Privacy-scrub the diff: `git diff | grep -iE '/home/|~/.hermes|@gmail|mastodon|blume'` → empty (except intended path-placeholder lines).
+4. Privacy-scrub the diff: `git diff | grep -iE '/home/|~/.ai-agent|@gmail|mastodon'` → empty (except intended path-placeholder lines).
 5. Commit + push; watch CI (Build + Deploy) to green; `curl -s -o /dev/null -w "%{http_code}"` each touched live URL → 200.
 
 ## Pitfalls

@@ -14,7 +14,7 @@ Mobile behavior lives in the `@media (max-width: 640px)` block (~line 353):
 - `header .container { flex-wrap: wrap; order: 3; flex-basis: 100% }` on `.header-search` — i.e. on phones the search box wraps to a SECOND full-width row, making the header two rows tall.
 - `.brand-full` hidden, `.brand-short` ("AIEd KB") shown under `@media (max-width: 600px)`.
 
-Blume reference header (`https://useblume.dev/docs/configuration/theming`): a single `flex nowrap` row (h-16), nav collapses on mobile, and search stays as a compact inline item (icon+trigger) instead of dropping to its own row — the pattern the maintainer points to for "one row on mobile."
+Reference header pattern: a single `flex nowrap` row (h-16), nav collapses on mobile, and search stays as a compact inline item (icon+trigger) instead of dropping to its own row — the pattern the maintainer points to for "one row on mobile."
 
 ## STATUS: unresolved (do not treat as proven fix)
 The agent changed mobile to `flex-wrap: nowrap` + let `.header-search` shrink inline + hid the redundant Search header icon (`[title="Search"]`). This compiled and deployed but was **not confirmed by the maintainer** as the desired result — his actual concern was vertical height, and he floated keeping search on a second row. Re-check with the maintainer before assuming single-row-nowrap is the accepted outcome. Verify the deploy (`gh run list`) if this change is kept.
