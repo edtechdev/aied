@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-02T10:14:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: []
 confidence: medium
@@ -26,7 +26,7 @@ Human-AI collaboration describes how learners, teachers, and AI systems divide [
 
 The knowledge base's evidence shows that human-AI collaboration is a double-edged arrangement whose outcome is determined by design rather than by AI itself:
 
-- **Collaboration can enhance learning when it preserves cognitive engagement.** Studies of [[genai-mindtool-generative-learning|GenAI as a mindtool]] and guided collaboration show that when the division of labor keeps the learner generating, deciding, and evaluating, AI augments rather than replaces thinking — producing durable [[self-regulated-learning|self-regulated learning]] and [[creativity]] gains.
+- **Collaboration can enhance learning when it preserves cognitive engagement.** Studies of [[genai-mindtool-generative-learning|GenAI as a mindtool]] and guided collaboration show that when the division of labor keeps the learner generating, deciding, and evaluating, AI augments rather than replaces thinking — producing durable [[self-regulated-learning|self-regulated learning]] and [[creativity]] gains. That the learner keeps the deciding role scales to writing: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] show LLM critiques of students' argumentative essays improved writing across a semester, with learners deciding whether to incorporate or rebut the model's feedback (87.8% rebutted claims) — an arrangement that preserved the learner's evaluative work — and gains appeared even on essays written without LLM support, suggesting durable skill rather than [[cognitive-offloading|tool dependency]].
 - **Collaboration can substitute for learning when it offloads too much.** The failure mode is [[cognitive-offloading|over-reliance]]: when AI produces the answer, the learner's role collapses into passive acceptance, and immediate task performance masks a lack of durable learning. [[genai-performance-vs-learning|Performance-versus-learning]] research and the substitution-to-scaffolding harm cycle ([[substitution-to-scaffolding-ai-harm-cycle-2026]]) document this systematically.
 - **Design principle — preserve the learner's productive work.** Across the research, the sharpest predictor of whether collaboration helps or harms is *who generates and decides*. Arrangements that keep the human cognitively productive (guided [[prompt-engineering|prompting]], "think first, then consult AI," verification and evaluation steps) support learning; arrangements that hand the whole task to the model do not.
 - **Trust must be calibrated, not assumed.** Productive collaboration depends on learners accurately calibrating when to rely on and when to verify AI output — connecting to [[trust-calibration]] and [[human-in-the-loop-ai|human oversight]] rather than blind acceptance or blanket rejection.
@@ -131,3 +131,4 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 - [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)
+- [[oppenheimer-llms-collaborative-learning-partners-2026]]

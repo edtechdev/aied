@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity-in-ai-education]
 audience: [instructors, learners, faculty development, administrator]
@@ -105,12 +105,14 @@ Fairness, access, and responsibility are central to AI in education:
 - **Equity and access:** [[equity-in-ai-education|Equity]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[multilingual-learning|multilingual learning]], [[inclusive-learning|inclusive learning]], [[accessibility]], [[assistive-technology|assistive technology]], [[neurodiversity]], [[universal-design-for-learning|universal design for learning]], and [[global-south|Global South]] studies.
 - **Ethics and responsibility:** [[ethics|AI ethics]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[ai-use-disclosure|AI use disclosure]], [[guardrails]], [[privacy]], [[hallucination-risk|hallucination risk]], [[ai-sycophancy|AI sycophancy]], [[trust|Trust]], [[trust-calibration|trust calibration]], [[reducing-ai-misuse|reducing AI misuse]], [[framing-ai-use-for-students|how AI use is framed for students]], and [[cognitive-offloading|cognitive offloading]].
 
+A [[meta-analysis-systematic-review|systematic review]] of the field's ethics literature ([[agarwal-ethical-values-norms-aied-2026|Agarwal et al. 2026]], 25 articles) consolidates AIED ethics into six main ethical values — non-discrimination, data stewardship, human oversight, goodwill, explicability, and educational aptness — and maps the ethical norms onto a stakeholder-by-value matrix. It finds end users largely passive in the ethical literature (student voices essentially absent) and calls for integrating ethics into AIED design and a greater focus on the educational (pedagogical) dimension of AIED ethics.
+
 ## Emergent and cross-cutting themes
 
 Several themes cut across the field:
 
-- **Trust and critical use:** [[trust|Trust]], [[trust-calibration|trust calibration]], [[ai-sycophancy|AI sycophancy]], [[critical-thinking|critical thinking]], [[cognitive-offloading|cognitive offloading]], [[critical-pedagogy|critical pedagogy]], and [[reducing-ai-misuse|reducing AI misuse]] (see also [[framing-ai-use-for-students|how AI use is framed for students]]). How learners and teachers decide to adopt and rely on AI is modeled by [[technology-acceptance-model|technology acceptance]] research, while [[global-south|Global South]] studies foreground equity and cultural context in adoption.
-- **The evolution of the field:** the knowledge base traces AI in education from early [[intelligent-tutoring|intelligent tutoring systems]] and [[knowledge-tracing|knowledge tracing]] to LLM-driven [[intelligent-tutoring|tutoring]], [[pedagogical-agent|agents]], and [[agentic-ai|agentic AI]] — a rapid shift from tool-centric studies to sociotechnical frameworks ([[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[institutional-change-framework-ai|institutional change]]).
+- **Trust and critical use:** [[trust|Trust]], [[trust-calibration|trust calibration]], [[ai-sycophancy|AI sycophancy]], [[critical-thinking|critical thinking]], [[cognitive-offloading|cognitive offloading]], [[critical-pedagogy|critical pedagogy]], and [[reducing-ai-misuse|reducing AI misuse]] (see also [[framing-ai-use-for-students|how AI use is framed for students]]). How learners and teachers decide to adopt and rely on AI is modeled by [[technology-acceptance-model|technology acceptance]] research, while [[global-south|Global South]] studies foreground equity and cultural context in adoption. Empirically, how AI explains itself shapes this trust: [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] showed that explainable AI builds teachers' trust in AI recommendations through understandability, with domain-driven (curricular-language) explanations trusted and accepted more than data-driven feature-importance output.
+- **The evolution of the field:** the knowledge base traces AI in education from early [[intelligent-tutoring|intelligent tutoring systems]] and [[knowledge-tracing|knowledge tracing]] to LLM-driven [[intelligent-tutoring|tutoring]], [[pedagogical-agent|agents]], and [[agentic-ai|agentic AI]] — a rapid shift from tool-centric studies to sociotechnical frameworks ([[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[institutional-change-framework-ai|institutional change]]). [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] formalize this trajectory with their AI×Ed framework, tracing papers across four decades of proceedings to show that the field moved from a diverse mix — including substantial research treating AI as an analogy to human intelligence and learning — toward a near-exclusive focus on applied, data-driven, researcher-facing uses, a turn that the rise of [[llm|LLMs]] now appears to partly reverse (three of the four "AI-as-analogy" papers at AIED 2024 were LLM-based).
 - **Emotion, anxiety, and career futures:** AI induces and shapes emotional responses — [[ai-anxiety-and-stress|AI anxiety and stress]] spanning proctoring surveillance, integrity fears, and career displacement — while [[career-development-and-readiness|career development and readiness]] addresses how education prepares learners for an AI-disrupted labor market (see also [[well-being]]).
 
 ## Field maturity
@@ -206,3 +208,6 @@ AI in education connects to every concept in the knowledge base — it is the fi
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
+- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
+- [[xai-teachers-trust-edtech-recommendations-2026]]
+- [[rismanchian-ai-education-four-decades-aixed-2026]]

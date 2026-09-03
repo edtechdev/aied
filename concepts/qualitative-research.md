@@ -1,7 +1,7 @@
 ---
 title: Qualitative Research
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [qualitative-research, research-methods-aied]
 research_method: [qualitative, research methods, interviews, case study]
@@ -41,7 +41,7 @@ Discourse analysis examines how language-in-use constructs meaning, identities, 
 Observation studies watch behavior in context; ethnography extends this to sustained, [[simulation|immersive]] study of a setting, often with the researcher as participant-observer. [[trio-ethnography-llm-programming-education|A trio-ethnography]] of LLM-supported programming education traces how students' interpretations evolve; [[zha-ai-literacy-biology-case-study|a classroom case study]] observes [[ai-literacy]] integration in [[biology-education|biology]]. Observational methods capture *actual* behavior (what learners do with AI) rather than reported behavior — complementing the self-report surveys that dominate [[educational-measurement|quantitative measurement]] of attitudes.
 
 ### Case studies
-A case study is an in-depth investigation of a bounded case (a course, an institution, a single learner) using multiple data sources. [[drummond-genai-business-schools-framework-2026|A business-school case study]] generates a student-informed teaching and learning framework for GenAI; [[zha-ai-literacy-biology-case-study|a biology case study]] documents AI-literacy integration. Case studies trade breadth for depth and are strong for theory generation and transferable insight rather than generalization.
+A case study is an in-depth investigation of a bounded case (a course, an institution, a single learner) using multiple data sources. [[drummond-genai-business-schools-framework-2026|A business-school case study]] generates a student-informed teaching and learning framework for GenAI; [[zha-ai-literacy-biology-case-study|a biology case study]] documents AI-literacy integration. Case studies trade breadth for depth and are strong for theory generation and transferable insight rather than generalization. [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] offer a qualitative case study of 21 visually impaired undergraduates across three Palestinian universities, using thematic analysis of semi-structured interviews to show how GenAI functions as an [[assistive-technology|assistive technology]] for [[inclusive-learning|inclusive learning]] — an example of case-study research surfacing mechanisms (personalized adaptation, teacher augmentation, educational parity) that quantitative measures miss.
 
 ### Interviews and focus groups
 Semi-structured **interviews** and **focus groups** are the primary data-collection instruments across all the above approaches. They elicit rich, contextual accounts. The knowledge base's qualitative corpus is built substantially on interviews (e.g., [[genai-expertise-pathways-sysadmin|expertise pathways]], ) and focus groups (e.g., [[t2i-competence-paradox-2026|the text-to-image competence paradox]], [[ai-adult-learning-guidelines-dis2026]]). Quality depends on careful question design, sampling for variation, and rigorous analysis.
@@ -97,3 +97,4 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI tutors: empower or enslave
 - [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher-education mathematics
 
+- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners

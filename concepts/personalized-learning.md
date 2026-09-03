@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-02T08:40:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 audience: [learners]
@@ -62,7 +62,9 @@ Personalization and [[assessment]] are tightly coupled in AI-driven learning. Ad
 
 ## Personalization in the AI era
 
-[[generative-ai|Generative AI]] has shifted personalization from rule-based [[knowledge-tracing]] to more flexible, conversational adaptation. LLM-based tutors (e.g., [[deeptutor|DeepTutor]], [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutors]]) personalize language, explanation style, and social context, not just problem difficulty. This raises new questions: maintaining learner [[agency]] and productive struggle ([[desirable-difficulties]]), avoiding [[cognitive-offloading|over-personalization]] that removes cognitive effort, and keeping profiles up to date. The knowledge base's [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] literatures address how far personalization should be automated and where human judgment must intervene.
+[[generative-ai|Generative AI]] has shifted personalization from rule-based [[knowledge-tracing]] to more flexible, conversational adaptation. LLM-based tutors (e.g., [[deeptutor|DeepTutor]], [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutors]]) personalize language, explanation style, and social context, not just problem difficulty. This raises new questions: maintaining learner [[agency]] and productive struggle ([[desirable-difficulties]]), avoiding [[cognitive-offloading|over-personalization]] that removes cognitive effort, and keeping profiles up to date. The knowledge base's [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] literatures address how far personalization should be automated and where human judgment must intervene. Error-specific, in-context feedback is a core locus of LLM personalization: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] showed GPT-4 could tailor corrective hints to the specific nature of a student's error in a College Algebra tutor ~66% of the time when grounded in the tutor's interface and skill estimates — but the ~35% of hints that were too general, incorrect, or gave away the answer underline why personalized LLM feedback still needs robust validation and [[human-in-the-loop-ai|human oversight]] before unsupervised deployment.
+
+Reinforcement learning is a distinct mechanism for personalization, and [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] map its empirical track record: their PRISMA review of 89 RL-in-education studies finds RL personalization concentrated in [[higher-ed]] and [[math-education]], with adaptation implemented mainly as content scheduling (n = 53) or guidance-related personalization such as hints and feedback (n = 36). They report that RL policies beat non-adaptive baselines most often on guidance-related adaptation and on [[affective-computing|affective]] variables (63% of tested studies), and that learning gain — especially normalized learning gain — was the most effective reward source — practical guidance for designing reward signals that personalize toward genuine learning rather than engagement.
 
 ## Terminological ambiguity
 
@@ -122,3 +124,5 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Evidence on the personalization-at-scale promise
 - [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review: adaptive pathways & recommenders are a top AI integration use case in higher ed
+- [[reddig-maclellan-personalized-feedback-llm-2026]]
+- [[riedmann-reinforcement-learning-education-review-2026]]

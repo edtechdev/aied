@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, assessment, assessment-validity, formative-assessment, self-regulated-learning, academic-integrity, generative-ai, higher-ed, metacognition]
@@ -59,6 +59,7 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 - **Co-design at scale:** AI tools could enable rubric co-design and student co-creation of assessment parameters at classroom or MOOC scale — though machine-mediated agency must be designed carefully.
 - **Address the social-authenticity gap:** only 3/37 studies addressed social issues; AI assessment tools should help students contribute to societal transformation, not merely simulate it.
 - **Sustainable feedback:** [[ai-feedback-quality|AI feedback]] should be designed to transfer to future contexts, not just provide reactive, momentary corrections.
+- **Authentic assessment suits practice-oriented fields.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] find authentic assessment especially well-suited to [[business-education|management education]]: tasks mirroring real professional problems (live consulting projects, dashboards with executive briefings) align with the field's practice-oriented, employability focus and can support inclusive, integrity-preserving alternatives to exam-centered assessment in the generative AI era. In their review of 58 articles from four management-education journals, however, authentic assessment appeared mainly via technology-mediated [[simulation|simulations]] and was often conflated with [[experiential-learning|experiential learning]] — a terminology gap that can obscure its broader value and uptake.
 
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
@@ -112,4 +113,4 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
-
+- [[mesny-innovative-assessment-grading-management-2026]]

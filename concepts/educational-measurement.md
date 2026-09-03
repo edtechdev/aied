@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing, ai-literacy]
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
@@ -25,11 +25,12 @@ Educational measurement is the discipline of turning observations about learning
 ## How educational measurement appears in the research
 
 - **AI's decade-long reshaping of the field:** [[xiong-ai-educational-measurement-review-2026|Xiong and Li (2026)]] map AI's impact across three eras ([[formative-assessment|Formative]] 2015–2018, Expansion 2019–2022, Generative 2023–present) via an Efficiency–Enhancement–Transformation framework, spanning AI on scoring and [[automated-question-generation|item generation]], psychometric modeling, assessment innovation and process data, and [[bias-mitigation|fairness]]/ethics/equity. They argue for a new paradigm integrating measurement theory with AI methods and for reconceptualizing constructs in the context of human–[[student-ai-interaction|AI interaction]] — the same boundary that [[assessment-latent-structure-human-llm-2026|latent-structure comparison]] probes empirically.
-- **AI-predicted difficulty and calibration:** [[llm-difficulty-calibration-programming-exams-2026|LLM difficulty calibration]] and [[llm-item-difficulty-prediction|item-difficulty prediction]] use LLMs to estimate item difficulty, which must be validated against psychometric estimates (see [[item-response-theory]]).
+- **AI-predicted difficulty and calibration:** [[llm-difficulty-calibration-programming-exams-2026|LLM difficulty calibration]] and [[llm-item-difficulty-prediction|item-difficulty prediction]] use LLMs to estimate item difficulty, which must be validated against psychometric estimates (see [[item-response-theory]]). [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] add a large-scale K-5 test of this premise: across 5,170 math and reading items calibrated under the Rasch IRT model, GPT-4o's zero-shot difficulty ratings correlated moderately-to-strongly with true difficulties (r = 0.83 math, r = 0.81 reading) but were uneven across grades and no better than a grade-mean dummy regressor for grades K and 1. A feature-based approach — LLM-extracted cognitive and linguistic features fed into tree-based models — reached correlations up to r = 0.87, with grade level and word count the top predictors. The study illustrates both the promise and the limits of AI-predicted difficulty as a measurement input, and offers a practical seven-step workflow for testing professionals.
 - **Psychometric awareness in AI [[assessment]]:** [[psychometrically-aware-ai|psychometrically aware AI]] is the standard that AI-based assessment be aligned with measurement theory — calibrated, uncertainty-aware, and validity-preserving (see [[automated-assessment|Confidence Aware AI Assessment]]).
 - **Automated scoring and validity:** [[ai-scoring-language-bias-physics|AI scoring and language bias]] and [[multimodal-item-parameter-estimation-2026|multimodal item-parameter estimation]] examine how automated scoring and multimodal data affect measurement quality.
 - **Validity frameworks:** [[assessment-validity]] and [[educational-nlp]] supply the standards and tools for validating LLM-based measurement.
 - **Latent-structure comparison:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] extend educational measurement to the LLM setting by testing whether assessment instruments show the *same factor structure* for humans and LLMs. Using EFA, factor congruence, and resampling, they show LLM–human latent structures systematically diverge across [[chemistry-education|chemistry]] and quantitative-reasoning instruments, implying the constructs measured differ across populations — a necessary check before human validity evidence is assumed to transfer to AI.
+- **AI as a rater with measurable error:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] treat AI-assigned points as fallible observations with multiple error sources (items, runs, tasks) under generalizability theory and Kane's argument-based validity. Reliability analysis of a 296-student handwritten general-chemistry exam showed high stability of *total* scores across five AI runs (ICC(A,1) = 0.967, Kendall's W = 0.959, 95% repeatability coefficient 5.33 of 60 points) with lower item-level stability (ICC(A,1) = 0.836) — unsystematic errors partially cancel when summed (a Spearman–Brown aggregation effect that lifts total-score agreement to R² = 0.91), while a small positive intercept with slope < 1 revealed a "timid grader" score-compression bias. This frames run-averaging and aggregation as measurement design decisions, and motivates confidence filters calibrated to [[item-response-theory|IRT]] risk as a validity safeguard before automated measures are trusted.
 
 ## Measurement instruments in the knowledge base
 
@@ -131,3 +132,5 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
 - [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
 - [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
+- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[cvengros-grading-handwritten-chemistry-ai-2026]]

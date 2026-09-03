@@ -1,7 +1,7 @@
 ---
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, experiential-learning]
 confidence: high
@@ -19,12 +19,12 @@ confidence: high
 
 ## Introduction
 
-Simulation sits at the core of [[experiential-learning|experiential]] and [[active-learning]] [[pedagogy|pedagogies]]. It provides the deliberate practice, [[productive-failure|productive failure]], and [[feedback|feedback loops]] that build skill and judgment. AI has transformed simulation in two ways: it powers more realistic and adaptive simulated environments, and it generates simulated learners, patients, or interlocutors that make practice scalable.
+Simulation sits at the core of [[experiential-learning|experiential]] and [[active-learning]] [[pedagogy|pedagogies]]. It provides the deliberate practice, [[productive-failure|productive failure]], and [[feedback|feedback loops]] that build skill and judgment. AI has transformed simulation in two ways: it powers more realistic and adaptive simulated environments, and it generates simulated learners, patients, or interlocutors that make practice scalable. Behavioral evidence shows that *how* learners engage with a simulation varies systematically rather than uniformly: tracing online learners building ecological models in VERA, [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] classified engagement into Observation (frequent runs and parameter adjustment with little model building), Construction (hands-on building with little simulation), and Exploration (full construct–parameterize–simulate cycles), with Explorers producing the most complex and diverse models and observation-heavy learners largely copying existing ones — an argument for designing simulation environments that push learners toward full-cycle activity.
 
 ### AI and simulation
 
 - **AI-powered environments:** adaptive simulations adjust difficulty and scenarios to a learner's state, linking to [[adaptive-learning]] and [[reinforcement-learning]]-based coaching.
-- **Simulated agents:** AI can simulate patients (for medical training), students (for teacher practice), or conversation partners, making high-stakes interpersonal practice accessible and repeatable.
+- **Simulated agents:** AI can simulate patients (for medical training), students (for teacher practice), or conversation partners, making high-stakes interpersonal practice accessible and repeatable. In teacher education, [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] built *Student GPT*, a custom ChatGPT chatbot that role-played a middle school student holding common ratio-reasoning misconceptions, giving preservice mathematics teachers affordable, content-specific practice at diagnosing student thinking — and used an Affective, Communicative, Technical (ACT) coding framework to systematically assess the simulated student's role-play strengths (clarity, relevance, error consistency) and authenticity weaknesses (teacher-like tone, role confusion).
 - **Simulated learners:** models of student behavior let [[research-methods-aied|researchers]] and designers test tutoring systems and [[curriculum-design|curriculum]] before live deployment, grounding [[student-modeling]] and [[knowledge-tracing]].
 - **Trust and fidelity:** the value of a simulation depends on how faithfully it models the real context — and on the learner's awareness of its limits, connecting to [[trust-calibration]].
 - **[[generative-ai|GenAI]] in simulation-based learning.** [[genai-scenario-based-healthcare-education-2026|Neto and colleagues (2026)]] [[meta-analysis-systematic-review|systematically review]] GenAI across scenario-, case-, problem-, and simulation-based learning in healthcare education, finding positive outcomes for higher-order cognitive skills but inconsistent results elsewhere, with hybrid [[human-ai-collaboration|human-AI collaboration]] outperforming fully automated approaches. [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger, and Liening (2026)]] develop AI conversational agents for adaptive support in business simulation games, addressing the common gap of limited [[formative-assessment|formative]] feedback and structured reflection in simulation-based learning.
@@ -72,3 +72,5 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
+- [[an-goel-self-directed-modeling-2026]]
+- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]

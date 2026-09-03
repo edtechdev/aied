@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-03T14:25:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied]
 research_method: [research methods]
@@ -55,6 +55,7 @@ Adoption models are applied across the knowledge base to model student and [[tea
 - **Early-childhood teachers:** [[preschool-teachers-ai-behavioral-intention-2026|Duan, Shan and Gong (2026)]] validate an extended TAM for **preschool teachers'** behavioral intention to use AI in early-childhood settings, showing that in addition to perceived usefulness and ease of use, **AI self-efficacy** promotes intention while **AI anxiety** deters it, with **subjective norm** (social influence) also shaping adoption. The study extends adoption modeling into the developmentally distinctive early-childhood context, where teacher comfort and confidence are pivotal for integration.
 - **ML determinants of ChatGPT adoption:** An exploratory ML approach examined how students' perceptions and demographics relate to intended academic ChatGPT use, using SHAP analysis to identify key learning-related constructs — prioritizing educational meaning over maximizing algorithmic performance ([[determinants-chatgpt-use-higher-education-2026]]).
 - **XAI-augmented UTAUT2:** [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] combine UTAUT2 with Random Forest, SHAP, NCA, IPMA, and K-Means for 522 students, finding habit the strongest predictor and identifying four adoption profiles (Resistant, Late, Pragmatic, Technology Enthusiasts) — demonstrating that explainability techniques reveal necessary conditions and heterogeneity that linear models miss.
+- **Explainability and domain relevance as acceptance levers for teachers:** Adapting trust-in-automation theory to teacher acceptance of AI recommendations, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found that understandability (raised by explainable AI) correlated positively with both trust and acceptance of an AI grouping tool, and that domain-driven explanations in curricular language outperformed data-driven feature-importance ones on all three. Acceptance was additionally driven by pedagogical alignment and workload-reduction potential — situational factors beyond trust that standard TAM/UTAUT constructs rarely capture, reinforcing the case for extending adoption models with context and explainability.
 
 ## Limits and extensions
 
@@ -101,3 +102,4 @@ While adoption models are effective for predicting uptake, they are less well su
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
+- [[xai-teachers-trust-edtech-recommendations-2026]]

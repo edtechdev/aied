@@ -1,7 +1,7 @@
 ---
 title: Chemistry Education
 created: "2026-08-19T12:55:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [chemistry-education, stem-education, higher-ed, k-12, generative-ai, teacher-education, ai-literacy, assessment, philosophy-of-ai-in-education]
 discipline: [chemistry education, stem education]
@@ -46,6 +46,7 @@ Chemistry education sits within the broader [[stem-education]] domain and shares
 - **Assign distinct, achievement-sensitive AI roles.** [[instructor-ai-roles-chatgpt-formative-assessment-2026|Instructor–AI role research]] finds the human instructor as adaptive expert and ChatGPT as a personalized tool shifting from Patient tutor (low achievers) to Coach to Intellectual Sparring Partner (high achievers) — differentiate support by student level.
 - **Combine AI with structured, contextual pedagogy.** [[context-based-ai-secondary-chemistry-2026|7E + PhET + ChatGPT]] outperformed inquiry-only and conventional teaching, showing AI works best inside an established instructional model.
 - **Be alert to epistemic drift and over-reliance.** [[philosophy-experimentation-ai-chemistry-2026|Philosophy-of-experimentation]] research and UNESCO guidance warn that opaque AI can detach inquiry from causal understanding — preserve human-reasoning-prioritizing assessment and student agency.
+- **Grade open-ended handwritten work selectively.** In a 296-student handwritten general-chemistry final, a multimodal LLM graded textual answers and chemical-reaction equations reliably but drawing and graphing worse than random (background grids visually distract AI vision); pairing an [[item-response-theory|IRT]]-based risk filter and [[human-in-the-loop-ai|deferring]] graphical items to humans made automation defensible for [[summative-assessment|summative]] use ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 
 ## Connected Concepts
 
@@ -82,4 +83,4 @@ Chemistry education sits within the broader [[stem-education]] domain and shares
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
-
+- [[cvengros-grading-handwritten-chemistry-ai-2026]]

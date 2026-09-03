@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-03T14:25:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics]
 audience: [administrator, instructors, faculty development]
@@ -37,6 +37,8 @@ The knowledge base documents that institutional AI policies [[genai-policies-hig
 **Task-level regulation is the emerging pattern.** A large-scale longitudinal study of 31,000+ course syllabi (2021–2025) at a large public research university ([[chirikov-regulate-ai-syllabi-2026|Chirikov 2026]]) shows how instructors actually regulate AI in practice: explicit AI regulation grew from near zero to 55% of courses by Fall 2025, but the direction shifted from restrictive toward permissive, and instructors increasingly **differentiated by task type** — restricting AI for drafting/reasoning (displacement-risk tasks) while permitting it for editing/proofreading and study support (augmentation tasks). Framing also shifted from academic integrity (63%→49% of syllabi) toward learning impact (1%→29%). This task-based pattern — built on the labor-economics mechanisms of task displacement, augmentation, and reinstatement — offers a more granular alternative to blanket adoption-or-ban policies and is a direct empirical anchor for the policy-vs-governance distinction above.
 
 **The boundary–evidence gap in assessment policy.** A 30-university audit of public [[generative-ai|GenAI]] assessment guidance ([[credential-cognitive-stewardship-ai-assessment|Yao 2026]]) finds that institutional policies are better at *classifying* AI use than at explaining what evidence of learning remains valid under each class: the mean delegation-boundary score (2.47/4) exceeded the mean evidence-standard score (1.89/4), safeguards were sparse (2.75 of 8), and guidance was clearest for final-output substitution. The framework of *cognitive stewardship* argues that policies must make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions protect fair evidence — rather than merely monitor AI use.
+
+**A value/norm matrix as a policy foundation.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], a [[meta-analysis-systematic-review|systematic review]] of 25 articles, consolidate AIED ethics into six main [[ethics|ethical]] values (non-discrimination, data stewardship, [[human-in-the-loop-ai|human oversight]], goodwill, explicability, educational aptness) and map the ethical norms extracted from the literature onto a stakeholder-by-value matrix. The review positions the matrix as a foundation for building detailed ethical frameworks and regulation for AIED, giving educational institutions, developers, and regulators concrete norms to implement specific values. It finds goodwill norms aimed at regulators are far more numerous (nine) than for any other stakeholder set, signaling regulators' role in ensuring AIED benefits learners through policy and legislation — a concrete, value-anchored starting point for the policy-vs-governance machinery this page describes.
 
 ### Policy vs. governance
 
@@ -122,3 +124,4 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
+- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education

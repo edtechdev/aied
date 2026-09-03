@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [assessment, automated-assessment, writing-education, generative-ai, llm, prompt-engineering, ai-literacy, higher-ed, k-12]
 discipline: [writing education]
@@ -39,6 +39,8 @@ Automated Essay Scoring has a long history in educational technology, from early
 
 **Interpretability and feature weighting** opens the blackbox of how LLMs actually score. **[[llm-essay-scoring-feature-weighting-2026|Wang et al. (2026)]]** compared three LLMs (Qwen, GPT, Gemini) with human raters on non-native English essays across sixteen textual features, finding strong overall alignment but distinct weighting: LLMs emphasized grammatical accuracy, lexical sophistication, and syntactic complexity, while human raters prioritized content completeness and visual presentation. Critically, LLMs shifted their weighting by proficiency level — placing more weight on language errors for low-proficiency students and increasingly rewarding linguistic sophistication for high-proficiency students — whereas human raters maintained a more stable framework. **[[llm-essay-assessment-framework-reliability-2026|Liu, Ye, and Yan (2026)]]** extend this with a five-model evaluation framework (GPT-4.1, Llama 4 Maverick, Gemini 2.5 Flash, Claude Sonnet 4, DeepSeek R1) on 60 long essays, using causal discovery to reveal distinct evaluative heuristics: most models prioritized lexical precision and fluency, while others emphasized syntactic complexity or cross-domain integration, and some showed inconsistency, score compression, or systematic underestimation. Together these studies establish that AES validity depends not only on overall agreement but on *how* models weight features and whether that weighting is stable across learner subgroups — directly informing [[assessment-validity]] and [[bias-mitigation]] auditing.
 
+**Item-type boundaries and the limits of essay grading.** In a mixed-format university exam, [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik & Thambi (2026)]] found ChatGPT-5's concordance with faculty was substantial-to-near-perfect on objective items (CCC 0.935–1.000) but dropped sharply on open-ended responses — near-zero to negative for short-answer and only 0.341–0.854 for essay questions — and a structured rubric did not consistently improve essay agreement. This bounds AES validity: model fluency helps on well-specified items but does not carry over to holistic essay scoring, where contextual interpretation of partial-credit responses still favors [[human-in-the-loop-ai|human judgment]].
+
 ### Connections to related concepts
 
 AES sits at the intersection of [[automated-assessment]], [[writing-education]], and [[generative-ai]]. It connects to [[formative-assessment]] when used for feedback rather than grading, to [[feedback|Feedback Loop]] when integrated into iterative writing processes, and to [[ai-literacy]] when educators understand and calibrate AES tools. The [[assessment-validity]] and [[educational-measurement]] concepts are essential for ensuring AES scores are meaningful and fair.
@@ -67,3 +69,4 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[aiawe-automated-writing-evaluation]]
 - [[llm-essay-scoring-feature-weighting-2026]] — Feature weighting patterns in LLM-based essay scoring (Wang et al. 2026)
 - [[llm-essay-assessment-framework-reliability-2026]] — Framework for evaluating LLMs in essay assessment (Liu, Ye & Yan 2026)
+- [[falahat-chatgpt-grading-pharmacy-exams-2026]]

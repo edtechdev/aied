@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-03T14:25:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 audience: [learners]
@@ -41,6 +41,10 @@ Learning journals are a promising SRL intervention: by reflecting on their learn
 - **Structure matters:** Open-ended journals often produce shallow entries; guided prompts and example models improve depth
 - **Motivation decay:** Mobile journaling apps commonly see rapid [[student-engagement|engagement]] decline after a few days
 - **Scaffolding trade-off:** AI assistance that writes reflections for students undermines the SRL practice; assistance that structures prompts without authoring content preserves it
+
+### Dashboards communicating SRL profiles to teachers
+
+[[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] extend digital SRL support to the teacher side: their [[learning-analytics|learning analytics]] dashboard (DashED) communicates ML-derived self-regulated learning profiles to teachers in blended classrooms, and how teachers act on those profiles is context-dependent. In use, flipped-classroom (university) teachers followed a sequential exploration and favored course-level adaptation and showing dashboards in class, whereas vocational teachers revisited summary pages and used the tool mainly for individual coaching sessions. The actions teachers proposed were shaped by the content represented and their teaching level rather than the plot type — university teachers favored weekly tests and course adaptation, vocational teachers direct, individualized coaching. This positions the dashboard as a scaffold for teachers' regulation of instruction, with design needs that vary by context rather than a single optimal interface.
 
 ### Scheu et al.'s 2×2 Experiment (2026)
 
@@ -157,3 +161,4 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms

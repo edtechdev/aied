@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [online-teaching-and-learning, pedagogy, learning-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
 level: [higher ed]
@@ -30,7 +30,7 @@ The rise of generative AI lands directly in this context. Online learners alread
 
 Online teaching and learning takes several related forms that share the medium but differ in reach and structure:
 
-- **Blended and hybrid learning.** Models that combine in-person and online components, intentionally integrating digital activities, materials, and interactions with face-to-face teaching. Blended formats ask instructors to decide what is best done synchronously vs. asynchronously and online vs. in person — decisions that [[learning-design]] principles organize and that AI both supports and complicates. In the blended context, AI tools offer opportunities for [[personalized-learning|personalization]] and always-on support while raising integrity and offloading risks that span both the online and in-person portions.
+- **Blended and hybrid learning.** Models that combine in-person and online components, intentionally integrating digital activities, materials, and interactions with face-to-face teaching. Blended formats ask instructors to decide what is best done synchronously vs. asynchronously and online vs. in person — decisions that [[learning-design]] principles organize and that AI both supports and complicates. In the blended context, AI tools offer opportunities for [[personalized-learning|personalization]] and always-on support while raising integrity and offloading risks that span both the online and in-person portions. [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] illustrate this in two blended settings — flipped university classrooms and reflective writing in vocational education — where a learning analytics dashboard (DashED) communicated ML-derived [[self-regulated-learning|self-regulated learning]] profiles to teachers. Adoption concerns diverged by context: flipped-classroom (university) teachers worried most about data anonymization and student opt-out, whereas reflective-writing (vocational) teachers feared misuse of the tool by fellow educators and stressed the need to contextualize data. In use, flipped-classroom teachers followed a sequential exploration and favored course-level adaptation and showing dashboards in class, while vocational teachers revisited summary pages and used the tool mainly for individual coaching sessions — evidence that blended analytics design must be context-aware.
 - **Distance education.** Programs designed for learners who study remotely, often at scale and across regions (e.g., the Open University's 200K+ learners). Distance learning is where 24/7, context-embedded AI support and the impossibility of in-person invigilation are most salient.
 
 ## Opportunities and benefits of AI for online teaching and learning
@@ -39,6 +39,7 @@ Online teaching and learning takes several related forms that share the medium b
 - **Always-on, context-embedded support.** In distance and [[adult-learning|adult learning]] contexts where learners study at work or at home, 24/7 support embedded in the course is a major benefit. The [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|Open University's AIDA assistant]] found purpose-built, in-environment GenAI support increased [[student-engagement|engagement]] (doubled usage time in an exploratory trial), with 96% of students wanting it in their formal studies.
 - **Conversational, dialogic tutoring at scale.** [[conversational-ai|Conversational AI]] tutors built on proven [[intelligent-tutoring|intelligent tutoring]] technology ([[conversational-ai-tutors-framework|keep/change/center/study framework]]) promise high-quality, dialogue-based tutoring — engaging students' thoughts, questions, and [[misconceptions]] — that is far more scalable than human tutoring.
 - **Facilitation and analytics.** AI can support [[collaborative-learning|online discussions]] and [[learning-analytics|learning analytics]], forecasting engagement, and helping instructors allocate attention.
+- **Early-warning analytics for at-risk online learners.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] show that interpretable machine learning on content-interaction logs predicts module-level progress and flags dropout ("No submission") outcomes in large-scale online [[cs-education|programming]] courses up to 7–8 days before module deadlines, giving online instructors a concrete window to [[teacher-role|intervene]] with disengaged students rather than discovering failure only after the fact.
 - **Affordability and speed.** AI can generate course materials at a fraction of traditional cost — MAIC reduced MOOC course production from ~$25K/60 hours to under $2/30 minutes.
 
 ## Challenges of online teaching in the AI era
@@ -144,3 +145,5 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[educasim-cs1-instructional-practice]] — EducaSim: scalable role play for massive online courses
 
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
+- [[zhang-ml-student-progress-programming-2026]]

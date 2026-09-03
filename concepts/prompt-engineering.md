@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, generative-ai, scaffolding, llm, student-experience, prompt-engineering]
 audience: [learners]
@@ -36,7 +36,9 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 
 - **Prompting as [[situated-learning|situated]] professional judgement.** Beyond literacy and system design, prompting can be framed as a *disciplinary practice*. The [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026|Dierickx et al. taxonomy]] for journalism treats task definition and prompting as a form of professional judgement exercised within a domain's epistemic and ethical norms — translating journalistic work into explicit tasks (newsgathering → sensemaking → editing → publication/distribution) makes assumptions, priorities, and [[ethics|ethical considerations]] visible, and turns prompting into a pedagogical tool for critical AI literacy. Its logic transfers to other knowledge-intensive professions (law, medicine, public policy).
 - **Prompt design as instructional specification.** Neto and colleagues (2026) find in their [[meta-analysis-systematic-review|systematic review]] of GenAI in healthcare education that prompt design functions as a form of instructional specification, encoding the cognitive targets and quality criteria implicit in expert authoring — yet only 34.8% of studies aligned generated content with instructional frameworks and only 34.8% reported prompting in enough detail to reproduce. Looi, Liu, and Sun (2026) further show how prompt architecture can embed pedagogical rules (correctness gates, anti-spoiler boundaries, goodbye gates) to constrain [[llm]] tutoring behavior in procedural domains.
+- **Rubric-guided and role-aware prompting.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] showed that rubric-guided prompting — treating the rubric as a semantic interface between human pedagogical intent and machine inference — drove LLM–human agreement on student design work from 54.75% to 81.25% (Cronbach's Alpha 0.393 → 0.798). Rubrics engineered for LLMs must balance precision and flexibility: too vague invites free interpretation, too rigid reduces the model to pattern-matching. Role-aware prompting — evaluating the same artifact under instructor, peer-reviewer, and grant-reviewer prompts — produced qualitatively distinct, epistemically different feedback, showing that prompt design shapes not just accuracy but the evaluative stance of the output.
 - **Context-aware prompting for assessment.** Context-aware prompting of pre-trained language models automates the coding of [[collaborative-learning|collaborative problem-solving]] skills from process data, modelling dependencies between behaviour codes and fusing cognitive and social abilities. This enables structured CPS analysis at scale and in real time, overcoming the labour intensity of manual coding schemes.
+- **Role-based templates and quality rubrics for teacher planning.** [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]] empirically develop a prompt framework for children's STEAM arts [[curriculum-design|lesson planning]] that pairs a Role (R) – Instructions (I) – End Goal (E) template (adapted from RISEN) with a "four points and one line" optimization rubric — standardized, practical, engaging, and complete, plus an extension dimension. Applying the rubric to critique and refine prompts kept generated plans acceptable to practising art teachers (mean ratings above 4/5) while exposing recurring gaps (personalization, [[pedagogical-safety|child-safety]] constraints, cultural bias) that plain one-shot prompting left unaddressed — showing prompt templates plus explicit evaluation criteria function as a quality-control scaffold for classroom generation.
 
 ### Connections to broader concepts
 
@@ -102,3 +104,5 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
+- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]

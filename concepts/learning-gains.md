@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 audience: [learners]
@@ -32,6 +32,7 @@ Key findings from the knowledge base:
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows negative associations between hint abuse and learning gains — more hints correlate with less learning.
 - **[[instructional-guidance-genai-learning|Instructional guidance]]** studies demonstrate that learning gains depend on HOW AI is used, not just WHETHER it's available.
 - **[[burneo-can-edtech-close-learning-gaps-2026|World Bank meta-analysis]]** pools 191 effect sizes from 14 RCTs to estimate that adaptive and AI-enabled EdTech raises learning by ~0.125 sd on average — above the median for education RCTs — while finding no advantage for generative AI over earlier adaptive tools.
+- **Gains are content–treatment interactions, not constants.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] show the optimal example–problem ratio depends on knowledge content: pure retrieval practice yields higher gains for verbatim facts, while example-integrated practice (alternating worked examples and problems) yields higher gains for generalizable skills — direct evidence that "more practice" is not always better and that gains hinge on matching the training schedule to the knowledge component being learned.
 
 ### The AI-era measurement problem
 
@@ -58,7 +59,7 @@ The knowledge base's corpus — meta-analyses, RCTs, quasi-experiments, and fiel
 - **Tutoring-specific AI reliably outperforms general-purpose AI.** [[stanford-evidence-base-ai-k12-2026|The Stanford SCALE review]] and the umbrella review ([[genai-higher-education-systematic-review-2026]]) converge: pedagogically designed agents with hints and step-by-step scaffolding produce real gains where open [[conversational-ai|chatbots]] often do not.
 - **Well-designed AI tutors produce real, measurable gains.** The two-year Khanmigo RCT ([[one-click-away-khanmigo-two-year-school-experiment-2026]]) raised math achievement ~1.3 national percentile ranks per term; [[making-ai-tutoring-productive-mastery-math-2026|NUMI]] improved next-attempt correctness after mistakes; [[virtual-tutoring-computer-assisted-learning-takeup-2026|virtual tutoring]] showed take-up is the binding constraint.
 - **AI can match human help.** [[chatgpt-hints-human-tutor-learning-gains-2024|ChatGPT-generated help]] produces learning gains equivalent to human tutor-authored help on math skills.
-- **Feedback-focused AI works.** [[genai-educational-outcomes-meta-analysis|AI feedback]] is among the most effective GenAI applications; [[ai-feedback-critical-thinking-writing-2026|AI feedback for writing]] improves critical thinking when coupled with instruction.
+- **Feedback-focused AI works.** [[genai-educational-outcomes-meta-analysis|AI feedback]] is among the most effective GenAI applications; [[ai-feedback-critical-thinking-writing-2026|AI feedback for writing]] improves critical thinking when coupled with instruction. In a field experiment, [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]] found students receiving individual GPT-4 feedback on open-ended tasks showed the largest content learning gains (~0.11, p < 0.10; rising to 0.16 among those who actually received prior feedback) — an effect driven by reliable, consistent AI provision rather than inherent superiority, since peer outcomes matched AI when high-quality peer feedback was actually delivered. LLM critique partners in writing extend this to iterative, collaborative feedback: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] found significant gains across a semester on argumentative writing, [[prompt-engineering|prompt engineering]], and response-to-AI-feedback quality (all p < .001, roughly a full standard deviation per dimension), with gains appearing even on essays written without LLM support — evidence of durable skill rather than mere tool dependency, though the lack of a control condition limits causal attribution.
 - **Structured scaffolds yield gains.** [[scaffolding-srl-feedback-genai-human-peers|Scaffolded self-regulated feedback]] and [[learner-ai-interaction-patterns-oop|interaction design]] show small but significant gains when AI is designed to coach.
 - **AI in collaborative and problem-based contexts helps when structured.** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|AI-enhanced PBL]], [[ai-assisted-collaborative-learning-model-dbr|AI-assisted collaborative learning]], and [[ccct-cooperative-learning-technique|AI-designed cooperative techniques]] report meaningful gains.
 
@@ -137,4 +138,6 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis: adaptive/AI EdTech raises learning ~0.125 sd
-
+- [[gpt4-feedback-student-activation-2026]]
+- [[rachatasumrit-example-problem-ratio-2026]]
+- [[oppenheimer-llms-collaborative-learning-partners-2026]]
