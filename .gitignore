@@ -16,6 +16,10 @@ log.md
 # Obsidian
 .obsidian/
 
+# Python bytecode
+__pycache__/
+*.pyc
+
 # Old Pico static site artifacts (removed, prevent recreation)
 index.html
 journal.html

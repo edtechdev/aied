@@ -56,6 +56,10 @@ journal_rss:
       url: "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=41239"
       open_access: true
       max_age_days: 90
+    - name: "International Journal of Artificial Intelligence in Education"
+      url: "https://rss.sciencedirect.com/publication/science/15604292"
+      open_access: true
+      max_age_days: 90
   fetcher_script: "tooling/scripts/fetch-rss-feeds.py"
 
 wiki:
