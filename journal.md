@@ -1,8 +1,9 @@
 # Journal
 
-Last updated: 2026-09-04 | Total entries: 1242
+Last updated: 2026-09-04 | Total entries: 1243
 
 ## 2026-09-04
+- 📄 [[kostopoulos-agentic-ai-education-2025]] — Agentic AI in Education: State of the Art and Future Directions
 - 📄 [[human-capability-test-learning-outcomes-ai-2026]] — A Human Capability Test for Learning Outcomes in the AI Era
 - 📄 [[teachers-collaborative-evaluation-ai-content-2026]] — Teachers' Collaborative Evaluation of AI-Generated Content: Insights from a Professional Development Workshop
 - 📄 [[aarc-ai-research-competency-2026]] — AI-Assisted Research Competency in Secondary Education: A Framework for Epistemic Agency, Authorship and Responsible Knowledge Production
