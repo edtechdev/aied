@@ -40,7 +40,7 @@ pages (the canonical page carries the absorbed tag as an alias: `cognitive-offlo
   (= real article+concept file count, recount with `ls | wc -l`).
 - `journal.md` — remove the same line; decrement `**Total entries:**`. Bump the
   `**Last updated:**` date on both to today.
-- `SCHEMA.md` / `tooling/SCHEMA.md` — tag example lists may still mention the absorbed tag;
+- `tooling/SCHEMA.md` — tag example lists may still mention the absorbed tag;
   that is fine (the tag is preserved), leave them.
 
 ## Agent-ready artifacts (MUST regenerate)
