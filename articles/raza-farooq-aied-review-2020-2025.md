@@ -1,6 +1,6 @@
 ---
 title: "Review of Artificial Intelligence in Education from 2020 to 2025"
-created: "2025-10-31T08:44:33-04:00"
+created: "2026-08-09T08:44:33-04:00"
 updated: "2026-08-24T12:30:00-04:00"
 type: article
 tags: [ai-education, meta-analysis-systematic-review, personalized-learning, generative-ai, learning-analytics, intelligent-tutoring, ai-literacy, adaptive-learning]
