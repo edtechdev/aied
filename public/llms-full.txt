@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 183 concepts, 1078 articles, and 17 FAQs.
+> Complete text of 183 concepts, 1079 articles, and 17 FAQs.
 
 # Concepts
 
@@ -523,10 +523,12 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 ## Questions to Consider
 
 - Agentic AI doesn't just answer questions — it plans, executes, and adapts multi-step workflows toward a goal, acting as a persistent collaborator. How is learning with a proactive agent different from learning with a tool you have to prompt?
+- The field draws a line between "conversational" and "agentic" AI (a system qualifies only if it meets several criteria such as planning, memory, autonomy, and goal-directed action). Where is that line in practice — and does calling every chatbot "agentic" hide more than it reveals?
 - The more an agent automates, the less cognitive work the learner does. Where is the line between an AI that scaffolds your learning and one that does your learning for you?
 - A [[meta-analysis-systematic-review|scoping review]] found only 29% of agentic AI studies grounded their systems in educational theory. If most systems aren't theory-based, what should make you skeptical when evaluating an 'intelligent' tutoring agent?
 - Multi-agent systems orchestrate specialized agents with distinct roles. When several agents work together in a classroom, who is accountable — and where should a human intervene?
 - The field's central tension is personalization versus learner agency and cognitive effort. If a tutor becomes so good at adapting that you never have to struggle, what learning are you actually getting?
+- Where on the Copilot-to-Autopilot spectrum should a given task sit — and does moving a task from "agent proposes, learner disposes" to "agent owns it" ever serve learning rather than just efficiency?
 - Hybrid agents grounded in established design theory outperformed pure prompting. Why might a theoretically-grounded system beat raw prompt-engineering — and what does that say about how an agent's 'smartness' is measured?
 
 ## Introduction
@@ -535,11 +537,17 @@ Agentic AI refers to artificial intelligence systems that can autonomously plan,
 
 ## Defining and classifying agentic AI
 
-[[kostopoulos-agentic-ai-education-2025|Kostopoulos et al. (2025)]] supply an operational definition the field otherwise lacks. They propose a **six-criteria checklist** — a system counts as agentic if it meets at least four: autonomy (action independent of continuous human intervention), reasoning/planning, memory/context-awareness, goal-directed action toward [[learning-gains|learning outcomes]], adaptability, and dynamic collaboration/initiative. The ≥4 threshold deliberately **excludes reactive chatbots** (a static FAQ bot without planning or persistence does not qualify) while accommodating diverse architectures. They also organise the space along three axes: **pedagogical role** (tutor, learning coach/mentor, companion, instructor's assistant, curriculum planner), **autonomy level** (reactive → adaptive → proactive → collaborative), and **embodiment** (text-based, avatar/graphical, [[embodied-learning|embodied]]/robotic). This taxonomy — particularly the autonomy spectrum and the checklist's exclusion of reactive tools — gives researchers and designers shared vocabulary for classifying agentic systems and distinguishing genuinely agentic from merely conversational AI.
+[[kostopoulos-agentic-ai-education-2025|Kostopoulos et al. (2025)]] supply an operational definition the field otherwise lacks. They propose a **six-criteria checklist** — a system counts as agentic if it meets at least four: autonomy (action independent of continuous human intervention), reasoning/planning, memory/context-awareness, goal-directed action toward [[learning-gains|learning outcomes]], adaptability, and dynamic collaboration/initiative. The ≥4 threshold deliberately **excludes reactive chatbots** (a static FAQ bot without planning or persistence does not qualify) while accommodating diverse architectures. They also organise the space along three axes: **pedagogical role** (tutor, learning coach/mentor, companion, instructor's assistant, [[curriculum-design|curriculum]] planner), **autonomy level** (reactive → adaptive → proactive → collaborative), and **embodiment** (text-based, avatar/graphical, [[embodied-learning|embodied]]/robotic). This taxonomy — particularly the autonomy spectrum and the checklist's exclusion of reactive tools — gives researchers and designers shared vocabulary for classifying agentic systems and distinguishing genuinely agentic from merely conversational AI.
+
+A worked discriminator makes the line concrete. A static FAQ chatbot that can only answer a fixed set of questions meets **zero** criteria (no planning, no persistence, no initiative) and is plainly not agentic. A [[conversational-ai|conversational]] tutor that remembers the current session but never acts unless prompted, holds no cross-session [[student-modeling|learner model]], and cannot set sub-goals may meet only one or two (memory, some reasoning) — conversational, not agentic. By contrast, a tutor that plans multi-turn lessons, stores learner progress in a persistent profile, **proactively** fires a hint when a learner stalls, and re-plans the next step based on that profile satisfies planning, memory, autonomy, and goal-directed interaction — at least four criteria, so it qualifies as agentic. The value of running this test is not pedantry: labelling every LLM chat interface "agentic" blurs the very design question — what the system initiates versus what the learner must initiate — that determines whether it scaffolds or supplants learning.
 
 ## The field: rapid expansion and current shape
 
 The knowledge base's [[agentic-ai-education-scoping-review|scoping review]] — the most comprehensive synthesis of the field to date, mapping **474 studies (2020–2026)** — documents a field that has grown **explosively since 2025**, but whose literature is still dominated by conference papers concentrated in [[higher-ed|higher education]], [[stem-education|STEM disciplines]], and text-based tutoring scenarios. The review analyzes publication characteristics, study designs, agent roles, AI models and architectures, six dimensions of agentic capability, and the extent of educational-theory integration, providing a roadmap for the field's frontiers and gaps. Notably, only **29% of the reviewed studies** (138 of 474) explicitly grounded their systems in educational theory, exposing a disciplinary divide between technically oriented and pedagogically oriented work.
+
+## A role-based map of the field
+
+Where [[agentic-ai-education-scoping-review|the 474-study scoping review]] and [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al.'s conceptual survey]] map research breadth and capability, [[baradziej-agentic-ai-higher-education-2026|Baradziej (2026)]] organises agentic AI by the **role it plays** — an [[governance|institutional]] framing for deciding where to deploy and govern these systems. Across 48 higher-education studies, six roles emerge in order of evidential weight: personalised learning and adaptive tutoring (18/48), [[automated-assessment|automated assessment]] and feedback (12), teaching assistance and augmentation (11), administrative and student support (8), curriculum design and workforce alignment (5), and research support and academic operations (4). The role lens foregrounds a design choice that recurs in every deployment: how much moment-to-moment control the human retains (a "Copilot" relation) versus how much the agent owns (an "Autopilot" relation) — the autonomy axis that determines whether an agent scaffolds learning or supplants it.
 
 ## Design and evaluation of agentic systems
 
@@ -561,12 +569,16 @@ A growing and distinct strand of agentic AI involves **multi-agent systems** tha
 
 The [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] work articulates the field's defining tension: as education AI shifts from passive [[conversational-ai|chatbots]] to **proactive agents** that initiate and pursue goals, personalization improves but **learner [[agency]] and cognitive effort** are at risk. The more an agent automates, the less [[cognitive-offloading|cognitive work]] the learner does. The design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — acts as a principled guardrail. This connects to [[desirable-difficulties]], [[sociocultural-learning]], and the risk of [[cognitive-offloading|Over-Reliance]], and to the broader theme of preserving [[agency]] in AI-mediated learning.
 
+The survey literature turns these principles into **measurable design [[guardrails]]** rather than vague intentions. On scaffolding, [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al. (2025)]] recommend **fading protocols** — gradually reduce hint frequency after each successful attempt — and targeting a **[[help-seeking]] ratio (AI-initiated hints ÷ total student actions) below 0.3**, so the agent is not the one driving most of the interaction. They pair this with **reflective checkpoints** (e.g., ask the learner to explain their reasoning before the agent offers the next cue) and adaptive fading curves whose intervention likelihood drops as proficiency rises. On transparency, agents should expose a "Why this suggestion?" rationale and keep **timestamped decision-traceability logs** (agent rationale, data sources, decisions) available for instructional auditing. On [[bias-mitigation|fairness]], they advise pre-deployment **disparate-impact testing across at least three demographic groups** (e.g., gender, language, geography) and involving diverse teachers in design. These metrics give an instructor or designer an audit lever: rather than asking "is the agent too helpful?", measure whether hints are fading, whether the learner is initiating, and whether the agent's reasoning is inspectable.
+
+A complementary vocabulary for the autonomy question comes from the aviation analogy surfaced in [[baradziej-agentic-ai-higher-education-2026|Baradziej's (2026)]] synthesis: how far a deployment sits on the **Copilot-to-Autopilot spectrum** — from an agent that assists a human retaining moment-to-moment control, to one that owns the whole task with the human only supervising. The same underlying system can be configured toward either end, and the choice is pedagogical before it is technical. Copilot-style configurations (agent proposes, learner disposes, human retains final say) tend to preserve [[agency]] and support the effortful processes that build learning; Autopilot-style configurations maximise task completion and efficiency but shift the cognitive load off the learner. Selecting a position on this spectrum — per task, not once globally — is a concrete way to operationalise the field's "intentional friction" principle.
+
 ## Positive implications of AI agents for education
 
 When designed well, agentic AI offers substantial benefits:
 
-- **Deeper, more adaptive personalization.** Persistent agents can sustain a learning conversation over many turns, tracking what a learner knows, adapting difficulty, and sequencing multi-step [[scaffolding]] — going beyond the one-shot responses of earlier chatbots. This supports [[adaptive-learning|adaptive]] and [[personalized-learning|personalized]] learning at scale.
-- **Unburdening routine instructional work.** Agents can plan lessons, generate and validate questions, draft feedback, and orchestrate specialized sub-agents (e.g., generator + validator for question creation), freeing teachers for higher-value interaction. This is the promise of [[ai-tpack-teacher-multi-agent-workflow|teacher-facing multi-agent workflows]].
+- **Deeper, more adaptive personalization.** Persistent agents can sustain a learning conversation over many turns, tracking what a learner knows, adapting difficulty, and sequencing multi-step [[scaffolding]] — going beyond the one-shot responses of earlier chatbots. This supports [[adaptive-learning|adaptive]] and [[personalized-learning|personalized]] learning at scale. In [[baradziej-agentic-ai-higher-education-2026|Baradziej's (2026)]] synthesis the strongest evidence for this role reports academic gains of **15–25%** and engagement increases of up to **+40%**, with particular potential for learners historically ill-served by one-size-fits-all instruction (first-generation students, learning differences, second-language learners).
+- **Unburdening routine instructional work.** Agents can plan lessons, generate and validate questions, draft feedback, and orchestrate specialized sub-agents (e.g., generator + validator for question creation), freeing teachers for higher-value interaction. This is the promise of [[ai-tpack-teacher-multi-agent-workflow|teacher-facing multi-agent workflows]]. Assessment agents in particular report **90–95% agreement with human graders and 50–70% reductions in grading time**, though the same evidence flags [[bias-mitigation|bias]] and the [[metacognition|metacognitive]] cost of instant, unreflective feedback.
 - **Rich, varied interaction.** Multi-agent classrooms and simulated peers create diverse interaction dynamics (peer-like discourse, constructive disagreement, role-play) that single-agent systems cannot, supporting [[collaborative-learning|collaborative learning]], [[socratic-method|Socratic-style probing]], and [[simulation]].
 - **Productive friction.** Agents designed to challenge rather than agree can push learners toward deeper reconsideration. [[ai-agents-constructive-conflict-design-education-2026|Research on adversarial design agents]] shows that constructive-conflict agents prompted significantly more design iterations, broader exploration, and higher-rated final designs (N=48) — a form of [[desirable-difficulties|desirable difficulty]].
 - **Scalable practice and simulation.** Agent-based simulations (simulated students, [[medical-education|clinical]] scenarios) let learners practise in low-risk environments before real-world application, as in [[hdr-brachytherapy-agentic-ai-simulation-2026|clinical simulation]] and [[simulating-students|simulated learners]].
@@ -576,12 +588,12 @@ When designed well, agentic AI offers substantial benefits:
 
 The same autonomy that enables these benefits also creates significant risks:
 
-- **Erosion of learner agency and cognitive effort.** The more an agent automates, the less cognitive work the learner does. Proactive agents that initiate, plan, and complete tasks can leave learners as passive consumers, hollowing out the effortful processes — drafting, recalling, revising — that build durable learning. This is the core [[cognitive-offloading|Over-Reliance]] and [[agency]] concern.
+- **Erosion of learner agency and cognitive effort.** The more an agent automates, the less cognitive work the learner does. Proactive agents that initiate, plan, and complete tasks can leave learners as passive consumers, hollowing out the effortful processes — drafting, recalling, revising — that build durable learning. This is the core [[cognitive-offloading|Over-Reliance]] and [[agency]] concern. The effect is measurable: in [[baradziej-agentic-ai-higher-education-2026|Baradziej's (2026)]] synthesis, passive learners in agentic-tutoring environments underperformed [[active-learning]] students by **8.7%** — evidence that the harm follows deployment design (letting the agent do the cognitive work) more than the technology itself.
 - **Over-automation of the learning process.** If an agent optimises for task completion rather than learning, it can produce "answers" that bypass understanding — the very risk the [[tool-invariant-framework-agentic-ai|tool-invariant framework]] warns about, where the artifact no longer certifies the learner.
 - **Reduced metacognitive and self-regulated [[student-engagement|engagement]].** When agents handle planning and monitoring, learners may not develop the [[metacognition]] and [[self-regulated-learning|self-regulation]] that education aims to build. Agents must be designed to elicit, not replace, these processes.
 - **Misplaced trust and verification gaps.** Autonomous agents can produce plausible but unvalidated output; learners and teachers may [[trust-calibration|over-trust]] it. The need for robust verification and [[ai-literacy]] grows as agents take on more autonomy.
 - **Opacity, coordination, and accountability.** Multi-agent systems complicate [[human-in-the-loop-ai|human oversight]]: which agent is accountable for an error, and where does a human intervene? Coordination failures, persona drift, and emergent behaviours can undermine reliability and [[pedagogical-safety]].
-- **Bias and equity.** Agents trained on data that encode bias can reproduce it at scale, and unequal access to capable agentic systems can widen [[equity-in-ai-education|educational inequity]].
+- **Bias and equity.** Agents trained on data that encode bias can reproduce it at scale, and unequal access to capable agentic systems can widen [[equity-in-ai-education|educational inequity]]. Bias operates at multiple levels — training data, architecture, evaluation criteria, and test populations — so it needs institutional mitigation (bias audits, diverse datasets, transparent documentation, stakeholder involvement), not one-time checks. A subtler, culturally specific form is **epistemic hegemony**: because most agentic systems are trained on English, Western-produced data, they embed particular assumptions about knowledge, argumentation, and academic register. [[baradziej-agentic-ai-higher-education-2026|Synthesis evidence]] documents language-education tools marginalising non-Western rhetorical traditions and penalising linguistic features of non-English academic cultures, and [[global-south|Global South]] analyses show agentic pedagogies reproducing inequity when they ignore epistemological diversity and infrastructure constraints.
 - **Assessment integrity and skill decay.** When agents can generate work on demand, assessing genuine learning becomes harder, and over-reliance can erode foundational skills — the "comprehension debt" and certification problem the field flags.
 - **Ghost students and the verification gap.** [[bozkurt-ghost-students-agentic-ai-2026|Bozkurt, Crompton & Fell Kurban (2026)]] describe the **"ghost student"** — a digital surrogate created by coupling LLMs (the "mind") with agentic AI browsers (the "body") that can navigate Learning Management Systems, engage with content, and complete assessments with human-like mimicry, making the actual learner's presence optional. This creates a **verification gap** that traditional [[ai-detection|proctoring and detection]] tools are structurally unable to close, and it accumulates **cognitive debt** in the learner who is bypassed. As AI shifts from generative to agentic, this integrity and [[academic-integrity|verification]] threat grows — an agentic-specific risk beyond those of single-turn [[generative-ai|GenAI]].
 
@@ -612,6 +624,7 @@ For teachers, faculty, and [[learning-design|instructional designers]], agentic 
 - **Retain human oversight and judgement.** Multi-agent and autonomous systems make [[human-in-the-loop-ai|human-in-the-loop]] design essential: decide where a human intervenes, who is accountable, and how failures are caught. Adversarial testing helps surface failure modes before deployment.
 - **Build instructor [[ai-literacy]].** Teachers and designers need accurate mental models of agentic AI to configure, monitor, and critique these systems — and to model responsible use for learners. This links to [[teacher-ai-competency|teacher AI competency]] and [[educational-development|faculty development]].
 - **Watch for equity.** Agentic tools risk widening gaps if access is unequal or if automation erodes support for the learners who need it most; design with [[equity-in-ai-education|equity]] in mind.
+- **Stand up institutional scaffolding before scaling.** The deployment question is not only design-level but institution-level. [[baradziej-agentic-ai-higher-education-2026|Baradziej's (2026)]] synthesis condenses the governance evidence into three pillars: develop [[ai-literacy]] among students *and* staff; build [[ethics|ethical]] infrastructure (data-protection policies, algorithmic-accountability and academic-integrity frameworks) *before* large-scale deployment; and deliver competence-based [[educational-development|educator training]] that goes beyond tool familiarisation to pedagogical frameworks preserving human agency. Given only ~6.5% of faculty in some national contexts report direct AI use, the training gap is a binding constraint on responsible adoption.
 
 ### Techniques for ensuring academic integrity with agentic AI
 
@@ -628,6 +641,8 @@ Because autonomous agents make detection futile, instructors should focus on tec
 ## A balanced takeaway
 
 Agentic AI is neither a panacea nor an inevitable harm: its value depends on design. Used to scaffold learner agency, ground in pedagogy, and keep humans in the loop, agents can personalise and deepen learning; used to maximise automation and task completion, they can erode the very effort that produces learning. The recurring design principle is **intentionality** — deciding explicitly what the agent does and what it deliberately leaves for the learner.
+
+## Connected Concepts
 
 - [[scaffolding]]
 - [[intelligent-tutoring]]
@@ -662,6 +677,7 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[educational-policy-ai]]
 
 ## Connected Articles
+- [[baradziej-agentic-ai-higher-education-2026]] — Systematic review of the roles of agentic AI in higher education (48 studies; six roles; tripartite responsible-integration framework)
 - [[kostopoulos-agentic-ai-education-2025]] — Agentic AI in education: state of the art and future directions (IEEE Access survey; operational definition + taxonomy)
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[genai-counter-learner-groupthink-2025]]
@@ -28830,6 +28846,94 @@ This mapping review is a central reference for the knowledge base's [[self-regul
 ## Citation
 
 Banihashem, S. K., Bond, M., Bergdahl, N., Khosravi, H., & Noroozi, O. (2025). [*A systematic mapping review at the intersection of artificial intelligence and self-regulated learning*](https://doi.org/10.1186/s41239-025-00548-8). *International Journal of Educational Technology in Higher Education*, 22, 50.
+
+---
+
+## [A systematic review of the roles of agentic AI in higher education](https://edtechdev.github.io/aied/articles/baradziej-agentic-ai-higher-education-2026/)
+
+> **Synthesis:** This [[meta-analysis-systematic-review|PRISMA systematic review]] (Jan 2023 – Mar 2026; **48 studies** from 1247 records) asks what roles [[agentic-ai|agentic AI]] actually plays in [[higher-ed|higher education]] and how those differ from [[generative-ai|generative]] and rule-based AI. It identifies **six discrete roles** and quantifies the evidence for each: [[personalized-learning|personalised learning]] and adaptive tutoring (18/48, the most-evidenced), [[automated-assessment|automated assessment]] and feedback (12), [[teacher-role|teaching]] assistance and augmentation (11), administrative and student support (8), [[curriculum-design|curriculum design]] and workforce alignment (5), and [[research-methods-aied|research]] support and academic operations (4). Reported outcomes cluster on scalable personalisation (academic gains 15–25%, [[student-engagement|engagement]] up to +40%), assessment efficiency (90–95% human-grader agreement, 50–70% grading-time cuts), and proactive at-risk support — set against risks of [[cognitive-offloading|cognitive dependency]], cultural homogenisation, algorithmic [[bias-mitigation|bias]], and low faculty readiness (only 6.5% of faculty in some contexts report direct AI use). The review's central practical contribution is a **tripartite framework for responsible integration**: develop [[ai-literacy]], build [[ethics|ethical]] infrastructure, and deliver competence-based [[educational-development|educator training]].
+
+## A role-based map of agentic AI in higher education
+
+Where other syntheses (the knowledge base's [[agentic-ai-education-scoping-review|474-study scoping review]] and [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al.'s conceptual survey]]) map the field's breadth, this review organises evidence by the **role an agent plays** — a framing tailored to institutions deciding where to deploy and govern these systems. The six roles, in order of evidential weight:
+
+- **Personalised learning and adaptive tutoring (18 studies).** Agents that continuously model the learner, adjust content/pacing, and give targeted feedback without constant human orchestration. Technical foundations are [[reinforcement-learning|reinforcement learning]], NLP, [[affective-computing|affective computing]], and cognitive modelling. Notable systems include the [[online-teaching-and-learning|LMS]]-embedded ELA Tutor (López-Goyez et al., 2026) and Abertay's tri-modal Learning Engagement Assistant (Chat/Tutor/Quiz). Reviews argue multi-agent cognitive architectures beat single-agent or rule-based tutors on behaviour modelling, real-time feedback, and metacognitive enhancement.
+- **Automated assessment and feedback (12 studies).** Rubric-based grading, [[automated-essay-scoring|automated essay scoring]], [[formative-assessment|formative]] feedback, and real-time diagnostics — reported at 90–95% agreement with human graders and 50–70% grading-time reductions, but with persistent concerns about [[bias-mitigation|bias]] and [[metacognition|metacognitive]] erosion from instant, unreflective feedback.
+- **Teaching assistance and augmentation (11 studies).** A spectrum from routine administrative Q&A (virtual TA) to full course delivery by an "AI instructor" — the far end raising questions about educator identity and the limits of automation.
+- **Administrative and student support (8 studies).** Enrolment/scheduling automation plus **proactive early-warning agents** that monitor data streams and reach at-risk students before problems entrench (e.g., Element451's Bolt ecosystem, Ivy Tech deployments) — inverting traditional reactive support.
+- **Curriculum design and workforce alignment (5 studies).** Agents that scan labour-market data, map course content to competency frameworks, and recommend curriculum change — small but strategically significant.
+- **Research support and academic operations (4 studies).** Literature review automation and multi-agent research frameworks such as Agent Laboratory (Johns Hopkins + AMD), whose coordinated agent team mirrors the research pipeline.
+
+## Defining agentic AI: a property-based account
+
+To separate agentic from merely generative or rule-based systems, the review characterises agentic AI as a **class of architectures** defined by intersecting properties — complementing the knowledge base's [[kostopoulos-agentic-ai-education-2025|six-criterion checklist]] with an adjacent framing. The properties: **autonomy** (acts/decides without per-step instruction), **reactivity** (perceives and adjusts to its environment), **proactivity** (initiates from inferred goals, not explicit commands), **learning** (improves via reinforcement or continual tuning), **tool use** (invokes search, code executors, schedulers, databases — extending capability beyond the core [[llm]]), **memory** (short- and long-term, enabling cross-session continuity and personalisation over weeks), and **planning** (decomposing goals into ordered sub-goals). Together these enable what Acharya et al. (2025) call a "[[qualitative-research|qualitative]] leap" — systems that plan, use tools, hold memory, and self-adjust over multi-step horizons. Notably, the roles-with-framing also surfaces the **Copilot-vs-Autopilot design choice**: how much moment-to-moment control the human retains versus how much the agent owns — a recurring axis across roles.
+
+## Benefits: scalability, personalisation, and operational efficiency
+
+Across the 48 studies the reported benefits cluster into three interconnected dimensions. **Scalability** lets virtual TAs, early-warning systems, and research tools serve many students without proportional staffing — changing the economics of student support. **Personalisation at scale** becomes operationally real: adaptive tutoring reports academic gains of **15–25%** and engagement increases of up to **+40%**, with particular potential for students historically ill-served by one-size-fits-all instruction (first-generation students, learning differences, second-language learners). **Operational efficiency** appears in 50–70% grading-time reductions and accelerated research workflows. A fourth, cross-cutting opportunity is the **shift from reactive to proactive support** — intervening on indicators before problems entrench rather than after.
+
+## Risks: the passive-learner finding and beyond
+
+The most striking empirical caution is Sargsyan's finding that **passive learners in agentic-tutoring environments underperformed [[active-learning]] students by 8.7%** — evidence that the risk is not intrinsic to the technology but follows from deployment that lets the agent do the cognitive work. This mirrors the knowledge base's core [[cognitive-offloading|over-reliance]] concern and the [[agentic-ai-pedagogical-best-practice-2026|automation-vs-learning tension]]. Four risk clusters recur:
+
+- **Cognitive dependency and eroded deep learning.** Passive consumption of automated feedback without metacognitive engagement — worse outcomes than deliberate active-[[learning-design|learning design]].
+- **Cultural homogenisation and epistemic hegemony.** Agentic systems trained on English, Western-produced data embed particular assumptions about knowledge, argumentation, and academic register; language-education tools can marginalise non-Western rhetorical traditions, and [[global-south|Global South]] analyses (Khoza & van der Walt, 2025) show AI-enhanced pedagogies reproducing inequity absent attention to epistemological diversity and infrastructure.
+- **Algorithmic bias at multiple levels** — training data, architecture, evaluation criteria, and test populations — requiring [[governance|institutional]] mitigation (bias audits, diverse datasets, transparent documentation, stakeholder involvement) rather than one-time checks.
+- **Governance lag and data privacy.** Agentic tutoring, adaptive assessment, and early-warning require continuous access to granular student data (behaviour, performance, engagement, psychological states, even biometrics), yet institutional data-governance frameworks (GDPR/FERPA compliance, [[privacy]]) frequently lag deployment practice.
+
+## A tripartite framework for responsible integration
+
+The review's central practical contribution is a synthesis of the evidence into **three pillars** institutions should stand up before scaling agentic AI — an institutional complement to the design-level [[guardrails]] on the [[agentic-ai|agentic AI concept page]]:
+
+- **Develop AI literacy (students and staff).** Literacy is a precondition for meaningful engagement rather than passive consumption: students who understand what an adaptive tutor is doing engage as active learners, and faculty who understand assessment agents design assessments that both exploit and safeguard their capabilities.
+- **Build ethical infrastructure.** Data-protection policies, algorithmic-accountability frameworks, and [[academic-integrity]] policies must precede large-scale deployment. Kasarci et al.'s (2025) four-level governance framework offers a template.
+- **Deliver competence-based educator training.** The professional-development gap is stark — only **6.5%** of faculty in some national contexts report direct AI use for education — and training must move beyond tool familiarisation to [[pedagogy|pedagogical]] frameworks that preserve human agency.
+
+## Limitations and future directions
+
+The evidence base is methodologically young: mostly short-term case studies and design demonstrations, few [[rct|RCTs]], and a near-total absence of longitudinal work — so causal claims about [[learning-gains|learning outcomes]] cannot yet be made. The review calls for multi-year cohort studies tracking achievement and [[self-regulated-learning|self-regulation]], and for research on **integrated multi-agent campus architectures** — orchestrating tutoring, assessment, administrative, curriculum, and research agents within unified systems — since current evidence treats each role in isolation and misses emergent, systemic effects. A plausible five-year scenario: a university running an integrated, human-supervised campus-wide agent ecosystem.
+
+## Significance to the Knowledge Base
+
+This review's role-based map and outcome quantification distinguish it from the field's other syntheses: the [[agentic-ai-education-scoping-review|scoping review]] maps research breadth and capability levels; [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al.]] supply the conceptual checklist and taxonomy; and this review adds the deployment-oriented question — *which role, with what measured outcome, under what governance* — grounding the [[agentic-ai|concept page's]] design tensions in an institutional, role-specific frame and a concrete responsible-integration agenda.
+
+## Connected Concepts
+
+- [[agentic-ai]] — the construct the review operationalises by role
+- [[higher-ed]] — the specific context of all 48 studies
+- [[intelligent-tutoring]] — the dominant agentic role
+- [[ai-literacy]] — first pillar of the tripartite framework
+- [[human-in-the-loop-ai]] — the Copilot/Autopilot axis and oversight
+- [[educational-development]] — competence-based educator training
+- [[cognitive-offloading]] — the passive-learner risk
+- [[bias-mitigation]] — multi-level algorithmic bias
+- [[privacy]] — student-data governance
+- [[equity-in-ai-education]] — cultural homogenisation and the digital divide
+- [[academic-integrity]] — verification under agentic assessment
+- [[assessment]] — rubric-based and automated grading agents
+- [[educational-policy-ai]] — institutional governance
+- [[metacognition]] — risk of metacognitive erosion
+- [[self-regulated-learning]] — human-centred vs AI-centred agency configurations
+- [[generative-ai]] — the generative-to-agentic shift
+- [[llm]] — the substrate of agentic systems
+- [[meta-analysis-systematic-review]] — the review method
+- [[student-engagement]] — engagement outcomes
+- [[ai-ed-evaluation]] — benchmarking agent roles
+
+## Connected Articles
+
+- [[agentic-ai-education-scoping-review]] — 474-study scoping review of agentic AI capability levels (Wang et al. 2026)
+- [[kostopoulos-agentic-ai-education-2025]] — conceptual survey: operational checklist + role/autonomy/embodiment taxonomy (Kostopoulos et al. 2025)
+- [[agentic-ai-pedagogical-best-practice-2026]] — the automation-vs-learning tension
+- [[tool-invariant-framework-agentic-ai]] — teaching and assessing in the agentic age
+- [[bozkurt-ghost-students-agentic-ai-2026]] — ghost students and the verification gap
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance as a complex adaptive system
+- [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent in CS education
+
+## Citation
+
+Baradziej, S. (2026). [*A systematic review of the roles of agentic AI in higher education*](https://doi.org/10.1016/j.ssaho.2026.103418). *Social Sciences & Humanities Open, 14*, 103418.
 
 ---
 
