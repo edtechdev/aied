@@ -50,7 +50,7 @@ Adjust `astro.config.mjs` (`base` should match your repo name) and the `site` UR
 | File | What to change |
 |------|---------------|
 | `site.config.json` (repo root) | **Single source of truth** for site metadata — name, short name, brand, URL, base path, repo/issues URLs, editor name + contact, license, theme colors. All code + tooling read it; do NOT hardcode these elsewhere |
-| `SCHEMA.md` | Your domain, tag taxonomy, page conventions |
+| `tooling/SCHEMA.md` | Your domain, tag taxonomy, page conventions (canonical schema) |
 | `config.example.yaml` | arXiv categories, search keywords, journal RSS feeds, relevance filters |
 | `cron/daily-scan-prompt.md` | Daily cron prompt — update domain references |
 | `cron/weekly-rss-scan-prompt.md` | Weekly journal cron prompt |

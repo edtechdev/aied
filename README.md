@@ -182,6 +182,8 @@ The mirrored **AI agent skills** live in [`skills/research/`](skills/research/) 
 - **`wiki-page-deepening`** — how to genuinely deepen/enrich/enhance a concept, article, or FAQ page (mine raw sources for specifics, weave into the narrative, add practical tips/examples/implications, cross-link, gate, ship).
 - **`wiki-astro-frontend`** — editing the Astro frontend (homepage, concept map, icons).
 
+> **Two copies, one role — why these files live in two places.** The `skills/research/` copies in this repo are **scrubbed, public-safe mirrors** of the agent's own installed skills, which live in the agent's home-directory skill store rather than in this repo. The installed copies are the working, full-detail originals and may contain environment-specific detail (paths, install notes). Because this repo is **public**, the mirrors must stay free of personal or machine-specific information — no names, machine-specific paths, or agent branding. When a skill changes, sync **only public-safe wording** from the installed original into the repo mirror; never overwrite a mirror wholesale with a local copy (that leaks private detail into public history). Keep the two in lock-step so a reader of the repo and the working agent follow the same procedures. The canonical `research-wiki` skill that drives ingestion/export lives in [`tooling/`](tooling/) (see below), not under `skills/`.
+
 The repo's [`AGENTS.md`](AGENTS.md) documents the page-structure rules and the inline-link HARD GATE that agents must follow on every ingestion.
 
 Just copy the `tooling/` **and `skills/`** directories into a new repo, follow the `tooling/README.md`, and you'll have your own knowledge base in ~15 minutes. No API keys required.
