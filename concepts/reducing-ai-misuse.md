@@ -7,7 +7,7 @@ type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
 category: [assessment]
 confidence: high
-------
+---
 
 > **Reducing AI misuse** — the design, [[pedagogy|pedagogical]], and policy levers that prevent students from substituting [[generative-ai|generative AI]] for their own [[cognitive-offloading|cognitive work]] and instead steer them toward [[ethics|ethical]], productive use. Effective approaches are sorted by impact rather than popularity, and the strongest evidence favors **structural levers** — tool [[guardrails]] and assessment redesign — that change the environment so misuse is harder, regardless of a student's motivation, over **educative levers** that rely on building durable capacity and [[framing-ai-use-for-students|student buy-in]].
 
