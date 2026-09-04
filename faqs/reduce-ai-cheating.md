@@ -2,6 +2,7 @@
 title: "How Can I Reduce AI Cheating in My Course?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-08-27T23:51:55-04:00"
+weight: 88
 tags: [academic-integrity, assessment, reducing-ai-misuse, ai-literacy]
 category: [assessment]
 ---

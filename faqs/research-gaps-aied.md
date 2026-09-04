@@ -2,6 +2,7 @@
 title: "What are notable gaps in the research literature on AI in Education?"
 created: "2026-08-24T14:10:00-04:00"
 updated: "2026-08-24T16:10:00-04:00"
+weight: 45
 type: faq
 tags: [ai-ed-evaluation, research-methods-aied, limitations-in-aied-research, learning-gains, equity-in-ai-education, higher-ed]
 research_method: [research methods, literature review, learning analytics]

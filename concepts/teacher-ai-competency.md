@@ -1,14 +1,14 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
-connected_faqs: [faculty-ai-competencies]
+updated: "2026-09-04T04:39:00-04:00"
+connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education]
 type: concept
 tags: [ai-literacy, educational-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy]
 audience: [faculty development, learners, instructors]
 level: [k 12, higher ed]
 confidence: high
----
+------
 
 > **Teacher AI competency** — the knowledge, skills, and dispositions teachers need to effectively, ethically, and equitably integrate AI into teaching and learning. It extends beyond technical tool use to include [[pedagogy|pedagogical]] integration, [[assessment|assessment literacy]], ethical judgment, and the confidence to [[ai-literacy|use AI well]]. Teacher AI competency is the teacher-side counterpart to [[ai-literacy]], and is developed through [[educational-development|professional development]]. It is central to how [[teacher-role|the teacher's role]] is transforming in AI-augmented classrooms.
 

@@ -2,6 +2,7 @@
 title: "How Should AI in Education Research Incorporate Equity, Accessibility, Privacy, Ethics, and Pedagogical Safety?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-08-25T11:30:00-04:00"
+weight: 60
 tags: [equity-in-ai-education, accessibility, privacy, ethics, pedagogical-safety, digital-divide, research-methods-aied]
 research_method: [research methods]
 ---

@@ -1,7 +1,7 @@
 ---
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-31T12:32:59-04:00"
+updated: "2026-09-04T04:39:00-04:00"
 type: concept
 tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, cognitive-offloading, assessment, educational-policy-ai, llm, assessment-validity, equity-in-ai-education]
 audience: [learners]
@@ -9,7 +9,8 @@ level: [higher ed]
 category: [assessment]
 
 confidence: high
----
+connected_faqs: [addressing-common-misconceptions-ai-education]
+------
 
 > **AI detection** — the technologies and methods used to identify AI-generated content in academic submissions, and the broader question of how institutions should respond to the risk that students use large language models (LLMs) to produce work that is not their own. It spans classifier-based approaches, latent-prompt and likelihood techniques, watermarking, and stylistic analysis — and, increasingly, debates about the limits of detection and the value of redesigning assessment rather than policing it.
 

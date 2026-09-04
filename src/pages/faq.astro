@@ -3,7 +3,10 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
 const faqs = await getCollection('faqs');
-const sorted = faqs.slice().sort((a, b) => (a.data.created || '').localeCompare(b.data.created || ''));
+const sorted = faqs.slice().sort((a, b) => {
+  const w = (b.data.weight ?? 0) - (a.data.weight ?? 0);
+  return w !== 0 ? w : (a.data.created || '').localeCompare(b.data.created || '');
+});
 ---
 
 <BaseLayout title="FAQ">
