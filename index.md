@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-04
 
-Articles: 1078 | Concepts: 183 | FAQs: 17
+Articles: 1079 | Concepts: 183 | FAQs: 17
 
 ## Concepts
 
@@ -221,6 +221,7 @@ Articles: 1078 | Concepts: 183 | FAQs: 17
 - [[ba-ai-agents-cscl-review-2026]] — Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review
 - [[bandit-driven-llm-essay-scoring-2026]] — Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring
 - [[banihashem-ai-srl-systematic-mapping-review-2025]] — A systematic mapping review at the intersection of artificial intelligence and self-regulated learning
+- [[baradziej-agentic-ai-higher-education-2026]] — A systematic review of the roles of agentic AI in higher education
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI implementation in higher education: A scoping review
 - [[bassett-ai-detectors-education-2026]] — Heads We Win, Tails You Lose: AI Detectors in Education
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis optimizes personalized learning paths via mediation of cognitive load and Hidden Markov Model state transitions
