@@ -1,7 +1,7 @@
 ---
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-04T09:30:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai]
@@ -40,7 +40,7 @@ Privacy is the precondition for trustworthy AI in education. Because AI systems 
 ## Privacy in practice
 
 - **Treat privacy as a design requirement, not a policy afterthought.** The [[teachlm-post-training-llms-education|TeachLM]] example shows that consent, anonymization, and secure data handling can be built into the data pipeline itself — a model for ethically sourcing the authentic data that makes [[intelligent-tutoring|AI tutors]] effective.
-- **Design for data minimization.** Favor approaches that collect only what adaptation requires (edge/federated AI, on-device processing) rather than hoarding interaction data by default.
+- **Design for data minimization.** Favor approaches that collect only what adaptation requires (edge/federated AI, on-device processing) rather than hoarding interaction data by default. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et al. (2026)]] demonstrate a concrete federated form of this for [[cognitive-diagnosis]]: multiple commercial LLM APIs collaborate on diagnosis while adding ε-local differential privacy noise locally to each model's prediction before aggregation, so no provider sees raw student data — a privacy-preserving architecture that keeps [[intelligent-tutoring|AI tutoring]] functional without centralizing sensitive learner trajectories.
 - **Secure explicit, informed consent.** Where learner data funds AI development or improvement, institutions should be transparent about collection, storage, and use — and students should have real options, not mandated platforms.
 - **Audit for who is protected.** Privacy safeguards should not default to protecting only some learners; [[equity-in-ai-education|equity]] demands that the same care applies across age, language, disability, and socioeconomic lines.
 
@@ -83,4 +83,5 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 
 
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
+- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving federated LLM cognitive diagnosis
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education

@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-04T09:30:00-04:00"
 type: concept
 tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
 audience: [instructors]
@@ -46,6 +46,7 @@ In-service professional development supports practicing teachers in integrating 
 - **Intelligent-TPACK-based PD frameworks.** A research-informed framework aligns the five i-TPACK knowledge domains with four evidence-based PD pathways ([[active-learning|active learning]], models/examples, coaching, feedback/reflection).([[designing-ai-professional-development-itpack-2026]])
 - **GenAI-specific technological pedagogical knowledge (TPK).** Teacher educators themselves need GenAI-TPK — pedagogical reasoning, ethical awareness, and AI-augmented instructional design — to prepare teachers.([[teaching-the-teachers-genai-tpk-review-2026]])
 - **Human-centered and critical AI literacy.** [[design-based-research|Design-based research]] produces professional-learning curricula that operationalize critical AI literacy through human-centered AI activities, including educator-in-the-loop tasks.([[human-centered-ai-teacher-educators-2026]])
+- **Collaborative evaluation of AI-generated content as PD.** [[teachers-collaborative-evaluation-ai-content-2026|Gat, Usher, and Barak (2026)]] report on a workshop in which 60 [[k-12|middle-school]] science teachers rated ChatGPT-generated assessment questions through their disciplinary, pedagogical, and curricular judgment. Collaborative evaluation itself functioned as professional development, helping teachers apply conceptual-precision criteria to AI output and surface the risk that AI content reinforces misconceptions — positioning teachers as critical evaluators of [[generative-ai|GenAI]] material rather than passive consumers.
 - **Structured PD for language educators is rare but effective.** A [[li-language-educators-genai-review-2026|systematic review of 23 studies]] (Li et al. 2026) found only three included studies reported structured professional development — an embedded grammar-course module, a government EMI program, and embedded chatbot inquiry — yet all converged on gains in knowledge, confidence, and identity reframing, shifting educators' views of GenAI from "replacement risk" to assistant/augmenter. The review argues PD should pair technical skill-building with practical wisdom, moving from [[ai-literacy|awareness-raising]] and ethics through hands-on tool mastery to co-design of AI-enhanced lessons, and recommends a two-phase "back-end then classroom" implementation strategy.
 - **Post-qualification programs.** In-service science educators' AI literacy and usage inform the design of AI-related post-qualification programs.([[science-educators-ai-literacy-postqualification-2026]])
 
@@ -124,3 +125,4 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
+- [[teachers-collaborative-evaluation-ai-content-2026]] — Teachers' collaborative evaluation of AI-generated content as professional development (Gat, Usher & Barak 2026)

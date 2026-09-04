@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-04T04:39:00-04:00"
+updated: "2026-09-04T09:30:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -175,3 +175,5 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
 - [[luo-dawson-value-judgements-grading-2026]] — Value judgements in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
 - [[mesny-innovative-assessment-grading-management-2026]]
+- [[human-capability-test-learning-outcomes-ai-2026]] — A human capability test: what students must demonstrate, verify, and defend in the AI era (Saleh 2026)
+- [[aarc-ai-research-competency-2026]] — AI-Assisted Research Competency: authorship and responsible knowledge production (Beau, Flaquière & Lazar 2026)
