@@ -6,13 +6,14 @@ category: research
 
 # Wiki FAQ Pages (AI in Education research wiki)
 
-Use when the user sends a FAQ **question + draft answer** (markdown or text) to add to the AI-ed wiki at `<WIKI>`, or asks to extend the FAQ page type, wire FAQ↔concept links, or fix FAQ rendering/search/indexing. Complements the user-owned wiki skills (`research-wiki`, `wiki-inline-links`, `wiki-article-quality` — those govern articles/concepts/inline links; THIS skill owns the FAQ page type).
+Use when the user sends a FAQ **question + draft answer** (markdown or text) to add to the AI-ed wiki at `/home/doug/wiki`, or asks to extend the FAQ page type, wire FAQ↔concept links, or fix FAQ rendering/search/indexing. Complements the user-owned wiki skills (`research-wiki`, `wiki-inline-links`, `wiki-article-quality` — those govern articles/concepts/inline links; THIS skill owns the FAQ page type).
 
 ## The FAQ page type (architecture added 2026-08-24)
 
 - **Content collection** `faqs/` registered in `src/content.config.ts` (glob `faqs/*.md`; schema: `title`, `created`, `updated`, `tags`). FAQ slugs live alongside `articles/` and `concepts/`.
 - **Page template** `src/pages/faqs/[slug].astro` — mirrors the article/concept templates. Its `renderInline` resolves `[[wikilink]]`s across ALL THREE sets (concept → `/aied/concepts`, article → `/aied/articles`, faq → `/aied/faqs`), so a FAQ body can link to other FAQs.
-- **Index page** `src/pages/faq.astro` → `/aied/faq` lists all FAQs reverse-chron (❓ title + date).
+- **Ordering (2026-09-04): FAQs are ranked by a `weight` frontmatter integer, NOT `created`.** Doug wants the FAQ page + left-sidebar list to surface the *most useful/important* FAQs first (not newest/oldest). `weight` is a field in the faqs schema (`z.number().catch(0).transform(...).optional()`). `faq.astro` and `BaseLayout.astro` (sidebarFaqs) sort by `weight` **descending**, tie-break by `created` ascending. Assign each FAQ a weight proportional to its visitor usefulness; current anchors: top-10-findings = 100 (#1), misconceptions-by-stakeholder FAQ = 95 (#2). When adding a NEW FAQ, give it a weight you deem appropriate — top-10-findings should stay #1 unless you override. The **journal** still groups by `created` (its purpose); weight does NOT affect journal ordering.
+- **Index page** `src/pages/faq.astro` → `/aied/faq` lists all FAQs by weight desc (❓ title + date).
 - **Header icon** ❓ in `src/layouts/BaseLayout.astro` (`.header-icons` group) → `/aied/faq`, `title`/`aria-label` = "FAQ".
 - **Journal** `src/pages/journal.astro` merges FAQs into the reverse-chron index with a ❓ badge and their own `/aied/faqs/<slug>` route.
 - **PageFind** auto-indexes FAQ pages at build (any page with `data-pagefind-body` is indexed by astro-pagefind — no extra config). Each FAQ template sets `data-pagefind-filter="page_type:faq"`.
@@ -20,8 +21,8 @@ Use when the user sends a FAQ **question + draft answer** (markdown or text) to 
 
 ## Adding a new FAQ
 
-1. **Clean the draft**: replace hard URLs with `[[slug|Display text]]` wikilinks; add aggressive inline links to every concept/article mentioned in the narrative (same standard as article bodies). Keep the "productive struggle → productive failure" terminology per the maintainer's standing preference.
-2. **Frontmatter**: `title` = the question; `created`/`updated` = the **actual creation time** (full ISO `-04:00`, NOT future-dated — see Pitfall 1); `tags` = relevant concept slugs.
+1. **Clean the draft**: replace hard URLs with `[[slug|Display text]]` wikilinks; add aggressive inline links to every concept/article mentioned in the narrative (same standard as article bodies). Keep the "productive struggle → productive failure" terminology per Doug's standing preference.
+2. **Frontmatter**: `title` = the question; `created`/`updated` = the **actual creation time** (full ISO `-04:00`, NOT future-dated — see Pitfall 1); `tags` = relevant concept slugs; **`weight`** = usefulness integer for FAQ list ordering (required — see the Ordering bullet above).
 3. **Verify links**: every `[[slug]]` must exist in `concepts/` ∪ `articles/` ∪ `faqs/` (plus redirects). No same-text pipes, no self-links, no broken slugs.
 4. **Numbered lists**: if an answer has a numbered list where items carry nested paragraphs, use manual bold numbering `**1.**`… (see Pitfall 2).
 5. **Wire Connected FAQs**: add `connected_faqs: [<faq-slug>, ...]` to the frontmatter of each concept (or article) page the FAQ substantially relates to. Judge relevance — a FAQ usually connects to 2–4 concepts. The `## Connected FAQs` section auto-renders at the bottom of concept/article pages ONLY when `connected_faqs` is non-empty (conditional block in the `[slug].astro` templates). Bump `updated:` on every concept page you touch.
@@ -29,7 +30,7 @@ Use when the user sends a FAQ **question + draft answer** (markdown or text) to 
 
 ## Pitfalls
 
-### 1. Future-dated `created`/`updated` mis-orders the journal (the maintainer caught this)
+### 1. Future-dated `created`/`updated` mis-orders the journal (Doug caught this)
 The journal page sorts items by the **`created` frontmatter timestamp**, NOT file mtime. Subagent-created pages historically carried **arbitrary future timestamps** (e.g. `14:30` stamped when the file was actually written at `05:31`), so they sorted at the TOP of the day even though they were created earliest. **Always set `created` (and `updated`) to the real creation time** — when a subagent made the file, normalize its frontmatter to the actual mtime before building. Fix pattern: read `os.path.getmtime` for the true time and rewrite `created`/`updated`. (Existing note about normalizing subagent `updated` also applies to `created` — the journal depends on it.)
 
 ### 2. Custom renderer restarts numbered lists at "1" when items have nested paragraphs
