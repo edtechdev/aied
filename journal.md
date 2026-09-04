@@ -1,8 +1,9 @@
 # Journal
 
-Last updated: 2026-09-04 | Total entries: 1244
+Last updated: 2026-09-04 | Total entries: 1245
 
 ## 2026-09-04
+- 📄 [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Agentic AI Ecosystems in Higher Education: A Perspective on Inclusive Agentic Multi-Agent AI Frameworks
 - 📄 [[baradziej-agentic-ai-higher-education-2026]] — A systematic review of the roles of agentic AI in higher education
 - 📄 [[kostopoulos-agentic-ai-education-2025]] — Agentic AI in Education: State of the Art and Future Directions
 - 📄 [[human-capability-test-learning-outcomes-ai-2026]] — A Human Capability Test for Learning Outcomes in the AI Era
