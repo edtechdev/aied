@@ -285,11 +285,20 @@ parts.append("""# Frequently Asked Questions
 This section answers common questions about **AI in education** — what the research says about how AI affects teaching and learning, and how educators, instructors, and instructional designers can put that evidence into practice. Each answer distills findings from the research summarized across this knowledge base, connecting the question to the relevant concepts and articles for deeper reading.
 
 """)
+def _faq_weight(path):
+    s = open(path, encoding='utf-8').read()
+    m = re.search(r'^weight:\s*([0-9]+)', s, re.M)
+    return int(m.group(1)) if m else 0
+
 def _faq_created(path):
     s = open(path, encoding='utf-8').read()
     m = re.search(r'^created:\s*["\']?([^"\'\n]+)', s, re.M)
     return m.group(1).strip() if m else os.path.basename(path)
-faq_paths = sorted(glob.glob(os.path.join(FAQS_DIR, '*.md')), key=_faq_created)
+
+# Order FAQs by weight (most useful/important first), tie-breaking by creation
+# date -- matching the site's FAQ index and sidebar (see faq.astro / BaseLayout).
+faq_paths = sorted(glob.glob(os.path.join(FAQS_DIR, '*.md')),
+                   key=lambda p: (-_faq_weight(p), _faq_created(p)))
 for path in faq_paths:
     slug = os.path.basename(path)[:-3]
     title, body = process_md(path, slug, 3)  # FAQ at H3
