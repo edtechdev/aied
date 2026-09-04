@@ -8,7 +8,7 @@ audience: [learners]
 
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
-------
+---
 
 > **Trust calibration** — the metacognitive capacity to align one's confidence in an AI system with its actual reliability in a given context, knowing when to trust and when to question its output. Trust calibration is the direct antidote to [[cognitive-offloading|Over-Reliance]]: it is the skill of matching trust to evidence rather than to an AI's confident fluency.
 

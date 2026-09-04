@@ -8,7 +8,7 @@ audience: [learners, instructors]
 
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
-------
+---
 
 > **Misconceptions about AI** — the inaccurate beliefs people hold about what AI systems are, what they do, and what using them means for learning and work. Misconceptions are not a single falsehood but a family of calibration errors that cluster around two core mistakes: misjudging what the model is (authority vs. tool, neutral vs. biased, understanding vs. generating) and misjudging what learning requires (output vs. process). They are held not only by students but also by teachers, administrators, policymakers, and the broader public — and correcting them is a core aim of [[ai-literacy]] and [[trust-calibration]] education.
 
