@@ -93,6 +93,41 @@ const recentConceptItems = recentConcepts.map(c => ({
 <!DOCTYPE html>
 <html lang="en" data-theme="dark">
 <head>
+  <script is:inline>
+    // Embed mode: if the URL carries ?embed (or ?embed=1), mark <html> and force
+    // light mode BEFORE first paint so the chromeless page never flashes dark.
+    (function () {
+      try {
+        if (/[?&]embed([=&]|$)/.test(location.search)) {
+          document.documentElement.setAttribute('data-embed', '');
+          document.documentElement.setAttribute('data-theme', 'light');
+        }
+        // In embed mode, append ?embed to every internal link so the visitor can
+        // keep navigating between pages without leaving the chromeless view.
+        if (document.documentElement.hasAttribute('data-embed')) {
+          var rewrite = function () {
+            var links = document.querySelectorAll('a[href]');
+            for (var i = 0; i < links.length; i++) {
+              var a = links[i];
+              var href = a.getAttribute('href');
+              if (!href) continue;
+              var isInternal = href.charAt(0) === '/' ||
+                (href.indexOf('://') === -1 && href.charAt(0) !== '#');
+              if (!isInternal) continue;
+              // Strip any existing ?embed so we never double it up.
+              href = href.replace(/[?&]embed(=[^&]*)?/, '');
+              a.setAttribute('href', href + (href.indexOf('?') === -1 ? '?' : '&') + 'embed');
+            }
+          };
+          if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', rewrite);
+          } else {
+            rewrite();
+          }
+        }
+      } catch (e) {}
+    })();
+  </script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title} — {siteConfig.name}</title>
@@ -100,15 +135,17 @@ const recentConceptItems = recentConcepts.map(c => ({
        external stylesheet loads (the site is always dark-themed). -->
   <style is:inline>
     html { background-color: #11191f; }
+    html[data-embed] { background-color: #fff; }
   </style>
   <script is:inline>
     // Apply the saved theme before first paint to avoid flashing the wrong mode.
     (function () {
       try {
         var t = localStorage.getItem('aied:theme') || 'dark';
+        if (document.documentElement.hasAttribute('data-embed')) t = 'light';
         document.documentElement.setAttribute('data-theme', t);
       } catch (e) {
-        document.documentElement.setAttribute('data-theme', 'dark');
+        document.documentElement.setAttribute('data-theme', document.documentElement.hasAttribute('data-embed') ? 'light' : 'dark');
       }
     })();
   </script>
@@ -200,10 +237,35 @@ const recentConceptItems = recentConcepts.map(c => ({
     }
     /* Prevent the dark anti-flash background from leaking into light mode. */
     html[data-theme=light] { background-color: var(--background-color); }
-    @media (min-width: 768px) {
-      [data-theme=dark] { --font-size: 19px; }
-      :root:not([data-theme=dark]),
-      [data-theme=light] { --font-size: 19px; }
+    /* === Embed mode (?embed): strip all site chrome and show only content. ===
+       [data-embed] is set on <html> by a head script when the URL carries
+       ?embed. Hide the header, both sidebars/rail, nav, footer, the page-meta
+       line (star/created/updated/tags), and the bottom action buttons; collapse
+       the 3-column grid to the single content column. Fully :global() because
+       several of these (.toc-mobile, .prevnext, .page-meta, .source-buttons,
+       .embed-btn) are rendered by CHILD components, which Astro scoped CSS in
+       this layout cannot match. */
+    :global([data-embed] header),
+    :global([data-embed] footer),
+    :global([data-embed] .sidebar),
+    :global([data-embed] .right-col),
+    :global([data-embed] .nav-backdrop),
+    :global([data-embed] .toc-mobile),
+    :global([data-embed] .prevnext),
+    :global([data-embed] .sidebar-toggle),
+    :global([data-embed] .nav-toggle),
+    :global([data-embed] .page-meta),
+    :global([data-embed] .source-buttons),
+    :global([data-embed] .page-type-badge) {
+      display: none !important;
+    }
+    :global([data-embed] .docs-layout) {
+      display: block;
+    }
+    :global([data-embed] .middle) {
+      max-width: none;
+      margin: 0 auto;
+      padding: 1.5rem 1rem 3rem;
     }
     html {
       -webkit-text-size-adjust: 100%;

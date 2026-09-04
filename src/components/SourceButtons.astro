@@ -1,7 +1,13 @@
 ---
-// Four muted pill buttons (View Source / View Changes / Edit / Chat) linking to the
+// Muted pill buttons (Source / History / Edit / Chat / Embed) linking to the
 // markdown source of this page in the GitHub repository. Placed at the bottom
-// of article, concept, and FAQ pages, before the site footer.
+// of article, concept, and FAQ pages, before the site footer. The Embed pill is
+// a button (not a link) that opens a dialog with a copy-ready <iframe> snippet
+// pointing at this page with ?embed appended (the chromeless version). It lives
+// inline in this component so it shares the same row and .source-pill styling as
+// the link pills (Astro scoping would not apply the pill style across a separate
+// component). The dialog/script are deliberately placed here so they stay with
+// the button.
 const { filePath } = Astro.props; // e.g. "articles/absent-cognitive-baseline-2026.md"
 const owner = 'edtechdev';
 const repo = 'aied';
@@ -14,11 +20,11 @@ const edit = `${base}/edit/${branch}/${filePath}`;
 <div class="source-buttons" style="display:flex;gap:0.5rem;flex-wrap:wrap;margin-top:2.5rem;padding-top:1rem;border-top:1px solid var(--card-border-color);">
   <a class="source-pill" href={blob} target="_blank" rel="noopener noreferrer">
     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
-    View Source
+    Source
   </a>
   <a class="source-pill" href={commits} target="_blank" rel="noopener noreferrer">
     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M11.998 2.5A9.503 9.503 0 0 0 3.378 8H5.75a.75.75 0 0 1 0 1.5H2a1 1 0 0 1-1-1V4.75a.75.75 0 0 1 1.5 0v1.697A10.997 10.997 0 0 1 11.998 1C18.074 1 23 5.925 23 12s-4.926 11-11.002 11C6.014 23 1.146 18.223 1 12.275a.75.75 0 0 1 1.5-.037 9.5 9.5 0 0 0 9.498 9.262c5.248 0 9.502-4.253 9.502-9.5s-4.254-9.5-9.502-9.5Z"/><path d="M12.5 7.25a.75.75 0 0 0-1.5 0v5.5c0 .27.144.518.378.651l3.5 2a.75.75 0 0 0 .744-1.302L12.5 12.315V7.25Z"/></svg>
-    View Changes
+    History
   </a>
   <a class="source-pill" href={edit} target="_blank" rel="noopener noreferrer">
     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"/></svg>
@@ -28,7 +34,76 @@ const edit = `${base}/edit/${branch}/${filePath}`;
     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z"/><path d="M19 15l.9 2.4L22 18l-2.1.6L19 21l-.9-2.4L16 18l2.1-.6z"/></svg>
     Chat
   </a>
+  <button type="button" class="source-pill embed-btn" data-embed-open aria-haspopup="dialog">
+    Embed
+  </button>
 </div>
+
+<dialog class="embed-dialog" data-embed-dialog aria-labelledby="embed-dialog-title">
+  <div class="embed-dialog-inner">
+    <h3 id="embed-dialog-title">Embed this page</h3>
+    <p class="embed-desc">Copy the code below to embed a chromeless version of this page in a learning management system or other website. The embedded view hides the site header, navigation, and footer.</p>
+    <textarea readonly class="embed-code" data-embed-code rows="4" spellcheck="false" aria-label="Embed code"></textarea>
+    <div class="embed-actions">
+      <button type="button" class="source-pill embed-copy" data-embed-copy>Copy code</button>
+      <button type="button" class="source-pill embed-close" data-embed-close>Close</button>
+    </div>
+  </div>
+</dialog>
+
+<script is:inline>
+  (() => {
+    const openBtn = document.querySelector('[data-embed-open]');
+    const dialog = document.querySelector('[data-embed-dialog]');
+    const code = document.querySelector('[data-embed-code]');
+    const copyBtn = document.querySelector('[data-embed-copy]');
+    const closeBtn = document.querySelector('[data-embed-close]');
+    if (!openBtn || !dialog || !code) return;
+
+    const buildCode = () => {
+      // Chromeless URL: current page path with ?embed appended.
+      const path = location.pathname + (location.pathname.endsWith('/') ? '' : '/');
+      const src = location.origin + path + '?embed';
+      const safeTitle = (document.title || 'AI in Education Knowledge Base')
+        .replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+      return '<iframe src="' + src + '" width="100%" height="600" frameborder="0" allowfullscreen loading="lazy" title="' + safeTitle + '"></iframe>';
+    };
+
+    openBtn.addEventListener('click', () => {
+      code.value = buildCode();
+      if (typeof dialog.showModal === 'function') dialog.showModal();
+      else dialog.setAttribute('open', '');
+    });
+
+    closeBtn.addEventListener('click', () => {
+      if (typeof dialog.close === 'function') dialog.close();
+      else dialog.removeAttribute('open');
+    });
+
+    dialog.addEventListener('click', (e) => {
+      if (e.target === dialog) {
+        if (typeof dialog.close === 'function') dialog.close();
+        else dialog.removeAttribute('open');
+      }
+    });
+
+    copyBtn.addEventListener('click', async () => {
+      code.focus();
+      code.select();
+      code.setSelectionRange(0, code.value.length);
+      let ok = false;
+      try {
+        await navigator.clipboard.writeText(code.value);
+        ok = true;
+      } catch (e) {
+        try { ok = document.execCommand('copy'); } catch (e2) { ok = false; }
+      }
+      const orig = copyBtn.textContent;
+      copyBtn.textContent = ok ? 'Copied!' : 'Copy failed';
+      setTimeout(() => { copyBtn.textContent = orig; }, 1600);
+    });
+  })();
+</script>
 
 <style>
   .source-pill {
@@ -43,10 +118,66 @@ const edit = `${base}/edit/${branch}/${filePath}`;
     border-radius: 999px;
     text-decoration: none;
     transition: color 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+    cursor: pointer;
+    font: inherit;
+    line-height: inherit;
+  }
+  /* The Embed control is a real <button>, so Pico's `button { display:block;
+     width:100% }` would stretch it full-width. Restore inline auto-sizing so it
+     matches the link pills in the same row. */
+  button.source-pill.embed-btn {
+    display: inline-flex;
+    width: auto;
+    margin: 0;
   }
   .source-pill:hover {
     color: var(--primary);
     border-color: var(--primary);
     background: color-mix(in srgb, var(--primary) 12%, transparent);
+  }
+  .embed-dialog {
+    width: min(92vw, 40rem);
+    border: 1px solid var(--card-border-color);
+    border-radius: 12px;
+    background: var(--background-color, #fff);
+    color: var(--color, #1a242c);
+    padding: 0;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.25);
+  }
+  .embed-dialog::backdrop {
+    background: rgba(0, 0, 0, 0.45);
+  }
+  .embed-dialog-inner {
+    padding: 1.25rem 1.5rem 1.5rem;
+  }
+  .embed-dialog-inner h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1.15rem;
+  }
+  .embed-desc {
+    margin: 0 0 0.9rem;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--muted-color);
+  }
+  .embed-code {
+    width: 100%;
+    box-sizing: border-box;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.78rem;
+    line-height: 1.5;
+    background: color-mix(in srgb, var(--muted-color) 8%, transparent);
+    border: 1px solid var(--card-border-color);
+    border-radius: 8px;
+    padding: 0.6rem 0.7rem;
+    color: var(--color);
+    resize: none;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+  .embed-actions {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.9rem;
   }
 </style>

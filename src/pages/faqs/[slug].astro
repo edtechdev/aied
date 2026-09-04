@@ -59,7 +59,7 @@ const toc = rendered.headings.filter(h => h.depth <= 3);
     <div class="page-header" id="top">
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>FAQ</p>
       <h1>{title}</h1>
-      <div style="color:var(--muted-color);font-size:0.9rem;margin-bottom:0.75rem;">
+      <div class="page-meta" style="color:var(--muted-color);font-size:0.9rem;margin-bottom:0.75rem;">
         <StarButton slug={slug} kind="faq" />
         created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
         {(tags || []).map((tag: string, i: number) => (
