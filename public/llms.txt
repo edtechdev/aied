@@ -1,5 +1,5 @@
 # AI in Education Wiki
-> A comprehensive wiki of 183 concepts, 1072 research articles, and 16 FAQs covering AI in education — frameworks, methodologies, and papers.
+> A comprehensive wiki of 183 concepts, 1072 research articles, and 17 FAQs covering AI in education — frameworks, methodologies, and papers.
 
 ## Concepts
 
@@ -189,6 +189,7 @@
 
 ## FAQs
 
+- [How Can We Address Common Misconceptions About AI in Education?](https://edtechdev.github.io/aied/faqs/addressing-common-misconceptions-ai-education/): This FAQ is organized by stakeholder group and uses a **refutation approach**: name the misconception, explain why it may seem plausible, reject the inaccurate belief directly, and replace it with a more useful mental model. It is based on the AI in Education knowledge base, especially its syntheses of misconceptions, ai-literacy, cognitive-offloading, and refutation-text.
 - [How Can AI Agents Support Students and Instructors?](https://edtechdev.github.io/aied/faqs/ai-agents-support-students-instructors/): **AI agents can move beyond single-turn question answering** by planning, using tools, remembering relevant context, coordinating subtasks, and adapting support over a sequence of interactions. For students, plausible roles include adaptive tutoring, study planning, formative feedback, guided problem solving, practice generation, simulation, prerequisite recommendations, and reflective or metacogn
 - [What is the evidence on AI literacy interventions in higher education?](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): The evidence on **ai-literacy interventions in higher-ed is promising, but still methodologically immature**. Across the knowledge base, the strongest recurring finding is that AI literacy develops more effectively through **active, contextualized practice with AI—especially critique, comparison, reflection, and collaboration—than through tool demonstrations or lectures alone**. At the same time, 
 - [How Can AI Save Me Time as an Instructor?](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): **AI is best suited to repeatable, lower-stakes drafting and transformation work, while consequential educational judgment remains with the instructor.** Productive uses include first drafts of lesson materials, examples, discussion questions, formative-assessment quizzes, alternative explanations, rubrics, feedback suggestions, summaries, differentiated versions of materials, and routine administ

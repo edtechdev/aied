@@ -1,11 +1,11 @@
 ---
 /**
  * FaqSidebarList.astro — a compact list of all FAQ pages for the sidebar's
- * "FAQs" tab, ordered by creation date (earliest first), matching the FAQ
- * index page. Receives the FAQ collection already sorted by `created`.
+ * "FAQs" tab, ordered by weight (highest first), matching the FAQ index page.
+ * Receives the FAQ collection already sorted by `weight`.
  */
 interface Props {
-  /** FAQ entries sorted ascending by `created`. */
+  /** FAQ entries sorted descending by `weight`. */
   faqs: { slug: string; title: string }[];
 }
 const { faqs } = Astro.props;

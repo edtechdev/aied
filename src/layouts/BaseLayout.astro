@@ -34,11 +34,15 @@ faqs.forEach(f => { allTitles[f.id.replace('.md', '')] = f.data.title; });
 const indexedCount = [...new Set(conceptIndex.flatMap(s => s.groups.flatMap(g => g.items)))]
   .filter(s => conceptMap[s]).length;
 
-// FAQs for the sidebar's "FAQs" tab, ordered by creation date (earliest first),
-// matching the FAQ index page.
+// FAQs for the sidebar's "FAQs" tab, ordered by weight (highest first) so the
+// most useful/important FAQs lead; ties fall back to creation date. Matches the
+// FAQ index page.
 const sidebarFaqs = faqs
   .slice()
-  .sort((a, b) => (a.data.created || '').localeCompare(b.data.created || ''))
+  .sort((a, b) => {
+    const w = (b.data.weight ?? 0) - (a.data.weight ?? 0);
+    return w !== 0 ? w : (a.data.created || '').localeCompare(b.data.created || '');
+  })
   .map(f => ({ slug: f.id.replace('.md', ''), title: f.data.title }));
 
 // Linear reading order for previous/next pagination (matches the EPUB/PDF TOC):
