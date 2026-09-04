@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-04
 
-Articles: 1077 | Concepts: 183 | FAQs: 17
+Articles: 1078 | Concepts: 183 | FAQs: 17
 
 ## Concepts
 
@@ -677,6 +677,7 @@ Articles: 1077 | Concepts: 183 | FAQs: 17
 - [[knowledge-tracing]] — Knowledge Tracing
 - [[knowloop-confusion-to-consolidation-2026]] — From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review
 - [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — The Impact of Generative AI on Academic Integrity of Authentic Assessments Within a Higher Education Context
+- [[kostopoulos-agentic-ai-education-2025]] — Agentic AI in Education: State of the Art and Future Directions
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
 - [[kutti-ai-voice-first-learning-companion]] — Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — When faculty ask, 'what's the point of teaching?': GenAI as identity crisis, not skills gap

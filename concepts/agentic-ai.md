@@ -1,7 +1,7 @@
 ---
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-04T14:05:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop-ai, agency, cognitive-offloading]
@@ -25,6 +25,10 @@ confidence: high
 ## Introduction
 
 Agentic AI refers to artificial intelligence systems that can autonomously plan, execute, and adapt multi-step workflows to achieve learning goals — going beyond single-turn question-answering to act as persistent, goal-directed collaborators in educational contexts. In education, agentic AI manifests as AI tutors that scaffold learning over extended interactions, multi-agent systems that orchestrate complex [[learning-design|instructional designs]], and autonomous agents that adapt their [[pedagogy|pedagogical]] strategies based on learner needs. This emerging paradigm shifts AI from a tool that responds to prompts to a collaborator that actively guides, adapts, and co-regulates learning processes.
+
+## Defining and classifying agentic AI
+
+[[kostopoulos-agentic-ai-education-2025|Kostopoulos et al. (2025)]] supply an operational definition the field otherwise lacks. They propose a **six-criteria checklist** — a system counts as agentic if it meets at least four: autonomy (action independent of continuous human intervention), reasoning/planning, memory/context-awareness, goal-directed action toward [[learning-gains|learning outcomes]], adaptability, and dynamic collaboration/initiative. The ≥4 threshold deliberately **excludes reactive chatbots** (a static FAQ bot without planning or persistence does not qualify) while accommodating diverse architectures. They also organise the space along three axes: **pedagogical role** (tutor, learning coach/mentor, companion, instructor's assistant, curriculum planner), **autonomy level** (reactive → adaptive → proactive → collaborative), and **embodiment** (text-based, avatar/graphical, [[embodied-learning|embodied]]/robotic). This taxonomy — particularly the autonomy spectrum and the checklist's exclusion of reactive tools — gives researchers and designers shared vocabulary for classifying agentic systems and distinguishing genuinely agentic from merely conversational AI.
 
 ## The field: rapid expansion and current shape
 
@@ -151,6 +155,7 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[educational-policy-ai]]
 
 ## Connected Articles
+- [[kostopoulos-agentic-ai-education-2025]] — Agentic AI in education: state of the art and future directions (IEEE Access survey; operational definition + taxonomy)
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[genai-counter-learner-groupthink-2025]]
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
