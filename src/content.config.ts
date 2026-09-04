@@ -66,6 +66,7 @@ const faqs = defineCollection({
     created: timeField,
     updated: timeField.optional().transform(v => v ?? ''),
     tags: z.any().transform(v => Array.isArray(v) ? v.map(String) : []),
+    weight: z.number().catch(0).transform(v => Number.isFinite(v) ? v : 0).optional(),
     ...structuredMeta,
   }),
 });
