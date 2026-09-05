@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-05T12:15:00-04:00"
 type: concept
 tags: [meta-analysis-systematic-review, research-methods-aied, ai-education, ai-ed-evaluation]
 research_method: [meta-analysis, systematic review, research methods, literature review]
@@ -86,6 +86,8 @@ Reviews of generative-AI interventions face a distinctive challenge that the kno
 - **Rapid obsolescence** — the AI tool landscape changes quickly, so reviews can date fast
 - **Scope constraints** — single-database or English-only searches may miss relevant work.([[ai-collaborative-learning-systematic-review]])([[ai-vocational-education-training-review]])
 
+**Meta-research warns the AIED synthesis base is currently weak.** A growing set of critiques documents that the field's headline AI-effect sizes — especially from early meta-analyses — are inflated by publication bias, construct incoherence, and methodological shortcuts. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]], meta-analyzing 1,840 effect sizes from 67 meta-analyses, estimate the publication-bias-adjusted AI effect at roughly one-third the reported magnitude (SMD ≈ 0.196), with extreme heterogeneity. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] audits 14 high-impact AIED meta-analyses and finds none had a coherent construct, valid publication-bias assessment, or resolved heterogeneity; twelve treated dependent effect sizes as independent. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] show most primary comparisons lack a well-defined treatment, control, and learning measure. This means readers should treat pooled AIED effect sizes as upper bounds until synthesis quality improves — see [[limitations-in-aied-research|Limitations in AIEd Research]] for the full analysis.
+
 ## Relationship to other methods
 
 Within the knowledge base's methodological landscape, meta-analysis and systematic review are the **synthesis** family, complementing primary designs:
@@ -155,3 +157,6 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
 - [[riedmann-reinforcement-learning-education-review-2026]]
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (media-comparison critique)
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: bias-adjusted AI effects ~1/3 of reported size
+- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses

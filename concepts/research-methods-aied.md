@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-05T12:15:00-04:00"
 type: concept
 tags: [ai-education, educational-measurement, rct, benchmark, ai-ed-evaluation, higher-ed]
 research_method: [educational measurement, experiment, randomized controlled trial, benchmark, research methods]
@@ -78,6 +78,7 @@ Reviews synthesize the evidence base rather than running a new experiment. Syste
 
 - **Strengths:** efficient synthesis of a large, fragmented literature; meta-analysis yields pooled effect estimates and detects moderators; essential for evidence-based practice and identifying gaps.
 - **Limitations:** depend on the quality of included studies (garbage-in/garbage-out); publication bias; heterogeneous methods and outcome measures make synthesis hard; rapidly aging given the speed of AI change.
+- **Meta-research caveat (2026):** critiques of the AIED synthesis base show that many early meta-analyses are undermined by construct incoherence, unresolved heterogeneity, unaddressed dependence among effect sizes, and invalid publication-bias assessment — inflating headline AI effect sizes (see [[bartos-ai-learning-meta-meta-analysis-2026]], [[oneill-presumed-effective-meta-analysis-2026]], and [[weidlich-chatgpt-effect-search-cause-2025]]). Treat pooled AIED effect sizes as upper bounds.
 - **Exemplars:** [[zerkouk-comprehensive-review-its-2025]], [[genai-higher-education-systematic-review-2026]], [[chatgpt-critical-creative-thinking-review]], [[zerkouk-comprehensive-review-its-2025]], [[agentic-ai-education-scoping-review]].
 
 See the dedicated [[meta-analysis-systematic-review]] concept page for a fuller treatment of systematic review and meta-analysis in AI in education — including their relationship to primary designs, PRISMA reporting, and their strengths and limitations.
@@ -87,7 +88,7 @@ See the dedicated [[meta-analysis-systematic-review]] concept page for a fuller 
 Computational evaluation assesses AI systems directly — against benchmarks, ground-truth labels, or human judgments — rather than studying human learners. This includes [[benchmark|benchmarks]], [[cong-confidence-asag-2026|grading accuracy]], [[teachbench-llm-teaching-evaluation|teaching-ability evaluation]], and [[llm]]-as-judge approaches. This is the closest method to [[ai-ed-evaluation]] (see the distinction below).
 
 - **Strengths:** fast, scalable, reproducible; enables head-to-head comparison of models and system versions; essential for system development and quality assurance.
-- **Limitations:** measures system output, not learning — high benchmark accuracy does not entail educational effectiveness; ground-truth and rubric quality are themselves contested; can miss pedagogical quality that humans perceive. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] argue that LLMs' natural-language flexibility makes purely technical metrics insufficient, requiring human-inspired evaluation approaches — simulated students, AI-teacher tests, and behavioral-science analyses previously reserved for human subjects — to judge learning-relevant quality, and that studying LLMs cautiously can generate insight into human learning.
+- **Limitations:** measures system output, not learning — high benchmark accuracy does not entail educational effectiveness; ground-truth and rubric quality are themselves contested; can miss pedagogical quality that humans perceive. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] argue that LLMs' natural-language flexibility makes purely technical metrics insufficient, requiring human-inspired evaluation approaches — [[simulating-students|simulated students]], AI-teacher tests, and behavioral-science analyses previously reserved for human subjects — to judge learning-relevant quality, and that studying LLMs cautiously can generate insight into human learning.
 - **Exemplars:** [[teachbench-llm-teaching-evaluation]], [[jeon-isd-agent-bench-2026]], [[ground-truth-reliability-aied]], [[cong-confidence-asag-2026]], [[drawedumath-vlm-struggling-students-2026]].
 
 ### Other designs: longitudinal, case, and simulation studies
@@ -192,3 +193,6 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 - [[tep-aied-model-reporting-2026]] — The TEP-AIED model for reporting AI-in-education research with rigor (Hwang, Xie, Wah & Gasevic 2026)
 - [[t2i-competence-paradox-2026]] — The Competence Paradox: Text-to-Image GenAI in Art and Design
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis of AI effect on learning
+- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: flawed AIED meta-analysis audit

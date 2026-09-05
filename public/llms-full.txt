@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 184 concepts, 1085 articles, and 17 FAQs.
+> Complete text of 184 concepts, 1088 articles, and 17 FAQs.
 
 # Concepts
 
@@ -1818,7 +1818,7 @@ The arrival of [[generative-ai|generative AI]] — a broad family that includes 
 - How much would you trust a headline like 'AI tutoring boosts learning by 30%' if you learned it came from 30 students in one course at one institution? The page flags generalizability and small samples as recurring limits — what would you want to know before acting on any single finding?
 - A striking limitation is the 'speed problem': AI evolves faster than findings get published, so a study of one model generation may already describe an obsolete system. How should this change the confidence you place in AI education research?
 - Many studies rely on self-reported attitudes and usage, which are biased — people overestimate their competence and under-report misuse. Have you ever answered a survey about your own skills or behavior in a way that didn't match reality? Why do perception-based measures so often diverge from objective performance?
-- The page notes that familiar frameworks like Bloom's taxonomy are often misread as strict ladders, and that even widely used theories like cognitive load theory have been challenged. When have you seen a theory invoked as settled truth in a context where its own evidence was actually contested?
+- The page notes that familiar frameworks like Bloom's taxonomy are often misread as strict ladders, and that even widely used theories like [[cognitive-offloading|cognitive load]] theory have been challenged. When have you seen a theory invoked as settled truth in a context where its own evidence was actually contested?
 - Most AI research depends on proprietary, opaque models whose data and updates you cannot inspect. If you cannot verify exactly what model produced a result, how much can you trust claims built on it — and what would make findings more reproducible?
 - If you are an instructor or designer without time to read primary research, how do you decide which AI claims are trustworthy enough to change your practice — given that the literature is fragmented, provisional, and written for researchers?
 
@@ -1832,12 +1832,12 @@ The knowledge base's [[research-methods-aied|research methods]] page details the
 
 - **Generalizability.** Findings from a single course, institution, discipline, or national context may not transfer. Small, convenience, or single-institution samples limit external validity; results from one AI tool rarely extend to a different tool or context.
 - **Small sample sizes.** Many AIED studies are underpowered — too few participants to reliably detect meaningful effects or to support the strong claims sometimes drawn from them.
-- **Validity and measurement.** Construct validity is often thin: proxies for "learning," "engagement," or "literacy" vary widely, and instruments are not always validated for the population or construct being studied. [[benchmark|Benchmark]] accuracy does not equal educational effectiveness.
+- **Validity and measurement.** [[assessment-validity|Construct validity]] is often thin: proxies for "learning," "[[student-engagement|engagement]]," or "literacy" vary widely, and instruments are not always validated for the population or construct being studied. [[benchmark|Benchmark]] accuracy does not equal educational effectiveness.
 - **Self-report and survey data.** A large share of the corpus relies on self-reported attitudes, motivation, and usage. Self-report is subject to bias — respondents overestimate competence, under-report [[ai-misuse-learning-harm|misuse]], and misjudge their own behavior — so perception-based measures frequently diverge from objective performance (see [[ai-literacy-assessment-misalignment]] and [[educational-measurement]]).
 
 ## The speed problem: AI evolves faster than findings
 
-AI is changing continuously, and the conclusions drawn from any given model or system can become **out of date quickly**. A study of one LLM generation may not describe the next; benchmark scores, tutoring quality, and even the practical usefulness of a finding shift as models improve. Compounding this, the **publication process is slow** — from study design to peer-reviewed publication can take a year or more — so a published result may already describe an obsolete system. Reviewers and readers should therefore treat AIED findings as provisional, date-sensitive claims rather than stable truths, and prefer recent, replication-oriented, and version-explicit work.
+AI is changing continuously, and the conclusions drawn from any given model or system can become **out of date quickly**. A study of one [[llm]] generation may not describe the next; benchmark scores, tutoring quality, and even the practical usefulness of a finding shift as models improve. Compounding this, the **publication process is slow** — from study design to peer-reviewed publication can take a year or more — so a published result may already describe an obsolete system. Reviewers and readers should therefore treat AIED findings as provisional, date-sensitive claims rather than stable truths, and prefer recent, replication-oriented, and version-explicit work.
 
 ## Research-practice limitations
 
@@ -1857,7 +1857,17 @@ A recurring criticism is that many empirical articles have **limited or outdated
     - **ADDIE** and other instructional-design models are sometimes treated as rigid linear phases rather than the iterative, flexible planning heuristics they are meant to be (see [[learning-design]]).
 - **Overlook contested theories.** Some theories used widely in AIED have themselves been challenged. **Cognitive load theory**, for example, has been criticized and its empirical claims refuted or disputed in prior studies, yet it continues to be invoked as a settled foundation in new AIED work.
 
-The implication is not that theories and frameworks are useless, but that they should be used with attention to their actual evidence base, their intended scope, and their known criticisms — rather than as self-evident scaffolds or rigid procedural sequences.
+The implication is not that theories and frameworks are useless, but that they should be used with attention to their actual evidence base, their intended scope, and their known criticisms — rather than as self-evident [[scaffolding|scaffolds]] or rigid procedural sequences.
+
+## The meta-analytic evidence crisis
+
+A growing body of meta-research — reviews that scrutinize the reviews — argues that the field's headline claims of AI-driven learning gains rest on an evidence base that is far weaker than it appears. Three complementary critiques make the case with unusual force:
+
+- **Positive-synthesis bias is severe and quantifiable.** [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]], in a study-level meta-meta-analysis of 1,840 effect sizes from 67 meta-analyses, found strong evidence of publication bias (all Egger tests *p* < .0001) and extreme between-study heterogeneity (τ = 0.869). Publication-bias-adjusted effects were roughly **one-third** the magnitude commonly reported (SMD = 0.196 vs. a median of 0.67 in the published literature), with a prediction interval spanning −1.521 to +1.908 — from large harm to large benefit. No outcome, field, level, or AI-role subgroup showed consistent gains, and there was no difference between pre- and post-2023 studies. Their verdict: broad claims of generalized learning gains are premature.
+- **Meta-analytic methods are being systematically misapplied.** [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]]'s forensic audit of 14 high-impact AIED meta-analyses found that *none* provided a valid basis for their claims: none had a coherent construct (treating the tool "ChatGPT" as if it were a single intervention, and pooling test scores, motivation, [[self-efficacy]], and attitudes into one "[[learning-gains|academic achievement]]" number); all exhibited severe heterogeneity (average I² = 87.5%) that moderator analyses never resolved; twelve treated dependent effect sizes from the same study as independent, inflating apparent evidence; and none validly assessed publication bias (discredited fail-safe N metrics and misapplied Egger tests were common). A majority (61%) of randomly vetted primary studies were problematic, and one study with fabricated references was included by six of the 14 meta-analyses.
+- **The "treatment" is a black box.** [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] revive the media/methods debate to argue that "ChatGPT" is a tool, not a method — asking whether it "improves learning" is a non sequitur. Auditing a subset of the studies behind Deng et al.'s (2025) meta-analysis, they found only 21% of comparisons had a well-defined treatment, control group, *and* valid learning measure; reported effect sizes (g = 0.7) even exceeded those of purpose-built [[intelligent-tutoring|Intelligent Tutoring Systems]] (0.66), a red flag that the "treatment" was a heterogeneous "secret sauce."
+
+The convergence of these three independent critiques is itself evidence: across different methods, corpora, and framings, they reach the same conclusion — that positive AIED effect sizes, especially from early meta-analyses, likely reflect **publication bias, construct incoherence, and methodological shortcuts** as much as (or more than) genuine learning gains. This does not mean AI tools have no educational value; rather, it means the *field-level* evidence for their value is currently inflated and must be read accordingly. It also shifts responsibility to [[meta-analysis-systematic-review|synthesis quality]]: a meta-analysis is only as trustworthy as the coherence of its constructs, the independence of its effect sizes, the adequacy of its moderator and heterogeneity analysis, and the validity of its publication-bias assessment — each of which the critiques show is routinely violated.
 
 ## Reading the AIED literature critically
 
@@ -1865,7 +1875,7 @@ Taken together, these limitations argue for a critical, multi-signal reading of 
 
 ## From research to practice
 
-A further, practical limitation is the **challenge of applying research to teaching and instructional design**. Practitioners — instructors, instructional designers, and faculty developers — often lack the time or specialized expertise to read, appraise, and translate primary research into concrete classroom decisions. The literature is large, fragmented, and written for researchers; findings are reported with statistical and methodological detail that is not immediately actionable; and because claims are provisional (see the speed problem above), a practitioner cannot simply take a single study at face value. This creates a gap between what the evidence supports and what actually reaches teaching practice.
+A further, practical limitation is the **challenge of applying research to [[teacher-role|teaching]] and instructional design**. Practitioners — instructors, instructional designers, and faculty developers — often lack the time or specialized expertise to read, appraise, and translate primary research into concrete classroom decisions. The literature is large, fragmented, and written for researchers; findings are reported with statistical and methodological detail that is not immediately actionable; and because claims are provisional (see the speed problem above), a practitioner cannot simply take a single study at face value. This creates a gap between what the evidence supports and what actually reaches [[pedagogy|teaching practice]].
 
 The purpose of this knowledge base is to help close that gap — to make it easier to keep up with, interpret, and apply AI-in-education research to practice — by curating open-access findings into structured, accessible summaries, connecting related work through [[ai-education|concept pages]], and flagging the limitations readers should weigh. It aims to support evidence-informed practice in teaching and instructional design, and in doing so to also surface gaps and questions that can inform new research and development. Understanding the limits of the research is therefore not an end in itself: it is what lets practitioners apply findings appropriately and lets researchers design stronger studies that better serve practice.
 
@@ -1894,6 +1904,9 @@ The purpose of this knowledge base is to help close that gap — to make it easi
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical limits of AI tutors and theory use
 - [[cross-dataset-bloom-question-classification]] — Bloom's taxonomy and question classification
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (media-comparison critique)
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: publication-bias-adjusted AI effects ~1/3 of reported size
+- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
 
 ---
 
@@ -13775,6 +13788,7 @@ Reviews synthesize the evidence base rather than running a new experiment. Syste
 
 - **Strengths:** efficient synthesis of a large, fragmented literature; meta-analysis yields pooled effect estimates and detects moderators; essential for evidence-based practice and identifying gaps.
 - **Limitations:** depend on the quality of included studies (garbage-in/garbage-out); publication bias; heterogeneous methods and outcome measures make synthesis hard; rapidly aging given the speed of AI change.
+- **Meta-research caveat (2026):** critiques of the AIED synthesis base show that many early meta-analyses are undermined by construct incoherence, unresolved heterogeneity, unaddressed dependence among effect sizes, and invalid publication-bias assessment — inflating headline AI effect sizes (see [[bartos-ai-learning-meta-meta-analysis-2026]], [[oneill-presumed-effective-meta-analysis-2026]], and [[weidlich-chatgpt-effect-search-cause-2025]]). Treat pooled AIED effect sizes as upper bounds.
 - **Exemplars:** [[zerkouk-comprehensive-review-its-2025]], [[genai-higher-education-systematic-review-2026]], [[chatgpt-critical-creative-thinking-review]], [[zerkouk-comprehensive-review-its-2025]], [[agentic-ai-education-scoping-review]].
 
 See the dedicated [[meta-analysis-systematic-review]] concept page for a fuller treatment of systematic review and meta-analysis in AI in education — including their relationship to primary designs, PRISMA reporting, and their strengths and limitations.
@@ -13784,7 +13798,7 @@ See the dedicated [[meta-analysis-systematic-review]] concept page for a fuller 
 Computational evaluation assesses AI systems directly — against benchmarks, ground-truth labels, or human judgments — rather than studying human learners. This includes [[benchmark|benchmarks]], [[cong-confidence-asag-2026|grading accuracy]], [[teachbench-llm-teaching-evaluation|teaching-ability evaluation]], and [[llm]]-as-judge approaches. This is the closest method to [[ai-ed-evaluation]] (see the distinction below).
 
 - **Strengths:** fast, scalable, reproducible; enables head-to-head comparison of models and system versions; essential for system development and quality assurance.
-- **Limitations:** measures system output, not learning — high benchmark accuracy does not entail educational effectiveness; ground-truth and rubric quality are themselves contested; can miss pedagogical quality that humans perceive. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] argue that LLMs' natural-language flexibility makes purely technical metrics insufficient, requiring human-inspired evaluation approaches — simulated students, AI-teacher tests, and behavioral-science analyses previously reserved for human subjects — to judge learning-relevant quality, and that studying LLMs cautiously can generate insight into human learning.
+- **Limitations:** measures system output, not learning — high benchmark accuracy does not entail educational effectiveness; ground-truth and rubric quality are themselves contested; can miss pedagogical quality that humans perceive. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] argue that LLMs' natural-language flexibility makes purely technical metrics insufficient, requiring human-inspired evaluation approaches — [[simulating-students|simulated students]], AI-teacher tests, and behavioral-science analyses previously reserved for human subjects — to judge learning-relevant quality, and that studying LLMs cautiously can generate insight into human learning.
 - **Exemplars:** [[teachbench-llm-teaching-evaluation]], [[jeon-isd-agent-bench-2026]], [[ground-truth-reliability-aied]], [[cong-confidence-asag-2026]], [[drawedumath-vlm-struggling-students-2026]].
 
 ### Other designs: longitudinal, case, and simulation studies
@@ -13889,6 +13903,9 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 - [[tep-aied-model-reporting-2026]] — The TEP-AIED model for reporting AI-in-education research with rigor (Hwang, Xie, Wah & Gasevic 2026)
 - [[t2i-competence-paradox-2026]] — The Competence Paradox: Text-to-Image GenAI in Art and Design
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis of AI effect on learning
+- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: flawed AIED meta-analysis audit
 
 ---
 
@@ -14360,11 +14377,11 @@ Across the knowledge base's [[rct|RCTs]], [[meta-analysis-systematic-review|meta
 The knowledge base's corpus — meta-analyses, RCTs, quasi-experiments, and field studies — supports a nuanced, sometimes contradictory picture. Findings cluster into positive, negative, and conditional effects.
 
 **Positive effects (AI can produce genuine learning gains):**
-- **Meta-analytic evidence is broadly positive but conditional.** [[genai-educational-outcomes-meta-analysis|A 53-study meta-analysis]] (Dong 2026) finds generative AI generally outperforms traditional approaches on academic achievement, higher-order thinking, and writing, with AI feedback especially effective. A meta-analysis of 29 experiments ([[zhao-genai-higher-order-thinking-meta-2026]]) finds a moderate positive effect on higher-order thinking, strongest for problem-solving, but limited for [[creativity]].
+- **Meta-analytic evidence is broadly positive but conditional.** [[genai-educational-outcomes-meta-analysis|A 53-study meta-analysis]] (Dong 2026) finds generative AI generally outperforms traditional approaches on academic achievement, higher-order thinking, and writing, with AI feedback especially effective. A meta-analysis of 29 experiments ([[zhao-genai-higher-order-thinking-meta-2026]]) finds a moderate positive effect on higher-order thinking, strongest for [[problem-solving]], but limited for [[creativity]].
 - **Tutoring-specific AI reliably outperforms general-purpose AI.** [[stanford-evidence-base-ai-k12-2026|The Stanford SCALE review]] and the umbrella review ([[genai-higher-education-systematic-review-2026]]) converge: pedagogically designed agents with hints and step-by-step scaffolding produce real gains where open [[conversational-ai|chatbots]] often do not.
 - **Well-designed AI tutors produce real, measurable gains.** The two-year Khanmigo RCT ([[one-click-away-khanmigo-two-year-school-experiment-2026]]) raised math achievement ~1.3 national percentile ranks per term; [[making-ai-tutoring-productive-mastery-math-2026|NUMI]] improved next-attempt correctness after mistakes; [[virtual-tutoring-computer-assisted-learning-takeup-2026|virtual tutoring]] showed take-up is the binding constraint.
 - **AI can match human help.** [[chatgpt-hints-human-tutor-learning-gains-2024|ChatGPT-generated help]] produces learning gains equivalent to human tutor-authored help on math skills.
-- **Feedback-focused AI works.** [[genai-educational-outcomes-meta-analysis|AI feedback]] is among the most effective GenAI applications; [[ai-feedback-critical-thinking-writing-2026|AI feedback for writing]] improves critical thinking when coupled with instruction. In a field experiment, [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]] found students receiving individual GPT-4 feedback on open-ended tasks showed the largest content learning gains (~0.11, p < 0.10; rising to 0.16 among those who actually received prior feedback) — an effect driven by reliable, consistent AI provision rather than inherent superiority, since peer outcomes matched AI when high-quality peer feedback was actually delivered. LLM critique partners in writing extend this to iterative, collaborative feedback: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] found significant gains across a semester on argumentative writing, [[prompt-engineering|prompt engineering]], and response-to-AI-feedback quality (all p < .001, roughly a full standard deviation per dimension), with gains appearing even on essays written without LLM support — evidence of durable skill rather than mere tool dependency, though the lack of a control condition limits causal attribution.
+- **Feedback-focused AI works.** [[genai-educational-outcomes-meta-analysis|AI feedback]] is among the most effective GenAI applications; [[ai-feedback-critical-thinking-writing-2026|AI feedback for writing]] improves critical thinking when coupled with instruction. In a field experiment, [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]] found students receiving individual GPT-4 feedback on open-ended tasks showed the largest content learning gains (~0.11, p < 0.10; rising to 0.16 among those who actually received prior feedback) — an effect driven by reliable, consistent AI provision rather than inherent superiority, since peer outcomes matched AI when high-quality [[peer-review|peer feedback]] was actually delivered. LLM critique partners in writing extend this to iterative, collaborative feedback: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] found significant gains across a semester on argumentative writing, [[prompt-engineering|prompt engineering]], and response-to-AI-feedback quality (all p < .001, roughly a full standard deviation per dimension), with gains appearing even on essays written without LLM support — evidence of durable skill rather than mere tool dependency, though the lack of a control condition limits causal attribution.
 - **Structured scaffolds yield gains.** [[scaffolding-srl-feedback-genai-human-peers|Scaffolded self-regulated feedback]] and [[learner-ai-interaction-patterns-oop|interaction design]] show small but significant gains when AI is designed to coach.
 - **AI in collaborative and problem-based contexts helps when structured.** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|AI-enhanced PBL]], [[ai-assisted-collaborative-learning-model-dbr|AI-assisted collaborative learning]], and [[ccct-cooperative-learning-technique|AI-designed cooperative techniques]] report meaningful gains.
 
@@ -14373,16 +14390,26 @@ The knowledge base's corpus — meta-analyses, RCTs, quasi-experiments, and fiel
 - **Faster completion ≠ learning.** [[generative-ai-reduced-study-time-math|GenAI reduced study time]] on math problems and the knowledge they build; [[genai-performance-vs-learning|performance-vs-learning research]] shows AI inflates AI-assisted performance while lowering proctored, closed-book, unassisted scores.
 - **Homework outsourcing harms learning.** [[stromberg-generative-ai-learning-penalty-secondary-2026|Field data]] show a generative-AI learning penalty when students outsource homework.
 - **[[llm]] reliance correlates with lower grades.** [[jost-llm-programming-education-learning-outcomes|Jošt et al.]] found significant negative correlations between LLM use for code generation (rho = −0.305) and debugging (rho = −0.360) and final grades.
-- **AI can harm teaching and achievement for some.** [[genai-can-harm-teaching-rct-2026|A teacher-facing GenAI RCT]] found below-median teachers' students lost ground (−0.129 SD).
+- **AI can harm [[teacher-role|teaching]] and achievement for some.** [[genai-can-harm-teaching-rct-2026|A teacher-facing GenAI RCT]] found below-median teachers' students lost ground (−0.129 SD).
 - **Hint abuse correlates with less learning.** [[lak2026-hint-button-unproductive-use|Hint button research]] shows more hints, used unproductively, correlate with less learning.
 - **Meta-analytic programming gains are illusory.** [[genai-meta-analysis-programming-learning|The GenAI-and-programming meta-analysis]] finds large productivity gains but no significant learning gain (g ≈ 0), separating task-efficiency from durable learning.
 
 **Conditional and mixed effects (context determines direction):**
 - **Design is decisive.** The same tool class can be a strong gain or a net harm depending on configuration ([[generative-ai-guardrails-harm-learning]], [[stanford-evidence-base-ai-k12-2026]]).
 - **How AI is used matters more than whether.** [[jost-llm-programming-education-learning-outcomes|Use for explanations was benign; use for code generation was harmful]]; [[genai-over-reliance-learning-2026|over-reliance]] erodes gains.
-- **Duration and self-regulation moderate effects.** [[zhao-genai-higher-order-thinking-meta-2026|Effects were strongest at 8–16 weeks]] and for learners with higher [[self-regulated-learning]].
+- **Duration and self-[[regulation]] moderate effects.** [[zhao-genai-higher-order-thinking-meta-2026|Effects were strongest at 8–16 weeks]] and for learners with higher [[self-regulated-learning]].
 - **AI-IBL supports creativity but not necessarily problem-solving.** [[mujib-ai-ibl-creative-math-2026|Mujib et al.]] improved creative performance and attitudes but not critical problem-solving.
 - **[[student-experience|Student experience]] diverges from measured gains.** [[absent-cognitive-baseline-2026|AI-native students overestimate their learning]], and [[ai-literacy-assessment-misalignment|self-report misaligns with performance]] — perceptions of gains are not reliable evidence of them.
+
+### Meta-analytic learning-gain estimates are inflated — read them with caution
+
+The learning-gain numbers that dominate this page's efficacy summary — especially pooled effect sizes from meta-analyses — must be read with a strong caveat: a wave of meta-research shows the field's positive synthesis estimates are inflated by publication bias, construct incoherence, and methodological shortcuts.
+
+- [[bartos-ai-learning-meta-meta-analysis-2026|A study-level meta-meta-analysis of 1,840 effect sizes from 67 meta-analyses]] finds the publication-bias-adjusted average AI effect is roughly **one-third** the reported magnitude (SMD ≈ 0.196 vs. a median of 0.67), with a prediction interval spanning large harm to large benefit and no moderator producing consistent gains. Even a single extreme study contributes almost no information given the heterogeneity — meaning *more studies of the current type will not settle the question*; only high-quality, pre-registered, replication-oriented trials will.
+- [[oneill-presumed-effective-meta-analysis-2026|A forensic audit of 14 high-impact AIED meta-analyses]] finds none provided a valid basis for its pooled learning-gain claim: none had a coherent outcome construct, all had unresolved extreme heterogeneity (avg I² = 87.5%), twelve treated dependent effect sizes as independent, and none validly assessed publication bias. A majority of randomly vetted primary studies were mismatched to the meta-analytic claim.
+- [[weidlich-chatgpt-effect-search-cause-2025|A media/methods critique]] shows many "learning gains" were not measured validly — outcomes were often self-reported skills or performance measured *during* AI assistance rather than durable, unassisted learning.
+
+**Bottom line for the gains numbers above:** treat large pooled AI effect sizes as upper bounds, not point estimates. Prefer the learning-gain evidence from well-designed [[rct|RCTs]] and field studies with unassisted, standardized outcome measures (the guardrail RCT, the Khanmigo and NUMI experiments, and the World Bank EdTech meta-analysis cited above), and read meta-analytic gains as provisional and likely over-stated until synthesis quality improves. This is why the [[limitations-in-aied-research|Limitations in AIEd Research]] page now documents the meta-analytic evidence crisis in detail.
 
 ### Measuring what matters
 
@@ -14446,6 +14473,9 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[gpt4-feedback-student-activation-2026]]
 - [[rachatasumrit-example-problem-ratio-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (media-comparison critique of gains measures)
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: bias-adjusted AI learning-gain effects ~1/3 of reported size
+- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: audit of flawed AIED meta-analyses
 
 ---
 
@@ -14528,6 +14558,8 @@ Reviews of generative-AI interventions face a distinctive challenge that the kno
 - **Rapid obsolescence** — the AI tool landscape changes quickly, so reviews can date fast
 - **Scope constraints** — single-database or English-only searches may miss relevant work.([[ai-collaborative-learning-systematic-review]])([[ai-vocational-education-training-review]])
 
+**Meta-research warns the AIED synthesis base is currently weak.** A growing set of critiques documents that the field's headline AI-effect sizes — especially from early meta-analyses — are inflated by publication bias, construct incoherence, and methodological shortcuts. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]], meta-analyzing 1,840 effect sizes from 67 meta-analyses, estimate the publication-bias-adjusted AI effect at roughly one-third the reported magnitude (SMD ≈ 0.196), with extreme heterogeneity. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] audits 14 high-impact AIED meta-analyses and finds none had a coherent construct, valid publication-bias assessment, or resolved heterogeneity; twelve treated dependent effect sizes as independent. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] show most primary comparisons lack a well-defined treatment, control, and learning measure. This means readers should treat pooled AIED effect sizes as upper bounds until synthesis quality improves — see [[limitations-in-aied-research|Limitations in AIEd Research]] for the full analysis.
+
 ## Relationship to other methods
 
 Within the knowledge base's methodological landscape, meta-analysis and systematic review are the **synthesis** family, complementing primary designs:
@@ -14597,6 +14629,9 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
 - [[riedmann-reinforcement-learning-education-review-2026]]
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (media-comparison critique)
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: bias-adjusted AI effects ~1/3 of reported size
+- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
 
 ---
 
@@ -29197,6 +29232,47 @@ This paper strengthens the knowledge base's treatment of [[governance]] and [[ed
 ## Citation
 
 Baroudi, S. (2026). [*Anticipatory governance and leadership for AI implementation in higher education: A scoping review*](https://doi.org/10.1186/s41239-026-00616-7). *International Journal of Educational Technology in Higher Education*.
+
+---
+
+## [Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis](https://edtechdev.github.io/aied/articles/bartos-ai-learning-meta-meta-analysis-2026/)
+
+> **Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis** — A study-level meta-meta-analysis by Bartoš, Bujak, Martinková, and Wagenmakers (2026) that re-analyzes 1,840 effect sizes from 67 published [[meta-analysis-systematic-review|meta-analyses]] of AI/[[llm]] effects on learning. Using publication-bias-adjusted robust Bayesian model-averaging, they find strong evidence of severe [[limitations-in-aied-research|publication bias]] and extreme between-study heterogeneity, and estimate the bias-adjusted average effect at roughly one-third the magnitude reported in the literature (SMD = 0.196), with prediction intervals spanning large negative to large positive effects. They conclude that broad claims of generalized [[learning-gains|learning gains]] from AI/LLMs are premature and the evidence is insufficient to support policy or practice recommendations.
+
+## Key Findings
+
+- **Severe publication bias and extreme heterogeneity.** Across 1,840 effect sizes from 67 meta-analyses, funnel plots show a strong right skew (all Egger tests *p* < .0001), indicating suppression of null/negative results, combined with extreme between-study heterogeneity (τ = 0.869).
+- **Bias-adjusted effects are ~one-third of reported estimates.** Publication-bias-adjusted model-averaged effect was SMD = 0.196 [0.000, 0.323], versus the median unadjusted pooled effect of SMD = 0.67 that dominates the published literature. Published meta-analyses substantially overestimate the average effect.
+- **Wide prediction interval spanning harm to benefit.** The true effect for a *new* study is predicted to fall between −1.521 and +1.908 standard deviations — spanning extreme negative to extreme positive outcomes. An effect that small and that variable cannot justify confident deployment decisions.
+- **No moderators yield consistent benefits.** Subgroup analyses by outcome type (academic achievement, cognition, language, emotion, motivation), educational field/level, and AI role (tutor, partner, tool) failed to substantially reduce heterogeneity or identify subgroups with reliable gains.
+- **No difference pre- vs. post-ChatGPT.** There was no substantial difference between studies published before vs. after January 2023, undercutting claims that modern [[generative-ai|LLM]] tools specifically produce gains.
+- **Heterogeneity means new studies add almost no information.** An additional infinite-size study would add fewer than three observations' worth of effective sample size given the existing heterogeneity — so accumulating more studies of the current type will barely move estimates. The authors recommend high-quality, large-scale pre-registered studies and registered replication reports analyzed separately.
+- **Direct implications for meta-[[research-methods-aied|research]] quality.** Reporting quality was poor enough that effect sizes could not be recovered from 7 of the meta-analyses. The results also align with re-analyses (Bardach et al.; Bartoš et al. 2025) showing that prominent positive meta-analyses like Wang & Fan (2025) — since retracted — had effects that disappear entirely under publication-bias adjustment.
+- **Caveat on scope.** The estimates capture only short-term, direct effects on traditional learning measures; AI may also reshape education indirectly ([[metacognition]], instruction, feedback, assessment) in ways these metrics miss — so null/heterogeneous average effects may partly reflect measurement misalignment rather than zero educational value.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[llm]]
+- [[research-methods-aied]]
+- [[meta-analysis-systematic-review]]
+- [[limitations-in-aied-research]]
+- [[ai-ed-evaluation]]
+- [[learning-gains]]
+- [[critical-thinking]]
+
+## Connected Articles
+
+- [[genai-educational-outcomes-meta-analysis]] — A large meta-analysis of generative AI's effect on educational outcomes (Dong 2026)
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
+- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
+- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning (PNAS 2025 RCT)
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
+- [[ai-literacy-assessment-misalignment]] — Self-reported vs. performance-based AI literacy
+
+## Citation
+
+Bartoš, F., Bujak, O. Z., Martinková, P., & Wagenmakers, E.-J. (2026). [Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis](https://doi.org/10.31234/osf.io/h529e). *PsyArXiv Preprints*.
 
 ---
 
@@ -57443,6 +57519,46 @@ Oreopoulos, P., & Low, N. (2026). *[One click away: AI tutoring with Khanmigo in
 
 ---
 
+## [Presumed Effective: The Manufacturing of an Evidence Base for AI-in-Education Through Flawed Meta-Analysis](https://edtechdev.github.io/aied/articles/oneill-presumed-effective-meta-analysis-2026/)
+
+> **Presumed Effective: The Manufacturing of an Evidence Base for AI-in-Education Through Flawed Meta-Analysis** — A forensic [[research-methods-aied|methodological]] audit by O'Neill (2026) of 14 high-impact [[meta-analysis-systematic-review|meta-analyses]] making broad claims about AI's impact on education. The audit finds that **none** of the 14 meta-analyses provided a valid basis for their claims: none had a coherent construct (a tool like "ChatGPT" treated as a single intervention, and multidimensional "learning outcomes" pooled as if interchangeable), none validly assessed publication bias, and all exhibited severe heterogeneity that moderator analyses never resolved. A majority (61%) of randomly vetted primary studies were problematic, most often because the outcome measured did not match the meta-analysis claim.
+
+## Key Findings
+
+- **No coherent construct.** All but two meta-analyses defined the treatment as a *tool* (ChatGPT, [[generative-ai|GenAI]]) without a [[pedagogy|pedagogical]] intervention — "a product name is not a pedagogy," equivalent to meta-analyzing the effects of "paper." Likewise, outcomes like "[[learning-gains|academic achievement]]" bundled test scores, motivation, [[self-efficacy]], attitudes, and [[student-engagement|engagement]] into a single pooled estimate — averaging unlike things into a mathematically calculable but meaningless number. Eleven of 14 had no population boundary, treating "students" as spanning children through [[adult-learning|adult learners]].
+- **Problematic primary-study selection.** Of 59 vetted primary studies, 28 of 46 randomly selected (61%) and all 13 targeted ones presented validity concerns — most commonly dependent-variable mismatch (n=16) and independent-variable mismatch (n=11). One primary study with fabricated references and impossible statistics (Alneyadi & Wardat 2023) was included by six of the meta-analyses.
+- **Dependence among effect sizes ignored.** Twelve of 14 meta-analyses treated multiple effect sizes drawn from the same primary study as independent — inflating apparent evidence (e.g., 35 studies became 134 effects; 22 publications became 86 "independent studies"). This understates standard errors, narrows confidence intervals, and makes moderator effects and bias tests spuriously significant.
+- **Extreme heterogeneity never resolved.** Average I² = 87.5% (range 77.2–94.4%). All 14 used random-effects models but only 2 reported a prediction interval (both included zero). No meta-analysis met the minimum subgroup size of 10 for moderator analysis; more than half drew conclusions from subgroups as small as k = 1 or k = 2. None resolved heterogeneity enough to justify a single pooled effect — yet all 14 reported one authoritatively.
+- **Publication-bias assessment was invalid across the board.** None provided a valid and sufficient accounting. Twelve used effect size as the unit of analysis despite dependent data (invalidating Egger/Begg tests); widely discredited fail-safe N metrics were used in 6 studies (3 as the *only* bias check); negative low-power tests were overinterpreted as proof of no bias (Egger's threshold should be p<.10, not p<.05). Only one meta-analysis (Liu et al. 2025) made valid bias calculations.
+- **A cascade of errors produced a concrete (wrong) policy recommendation.** Two meta-analyses mis-coded a primary study (Ji et al. 2024) that treated student *groups* as the unit of analysis as if N=36 individuals — misplacing it in the "21–40 students" subgroup and then recommending ChatGPT/GenAI interventions be designed for that class size, layering miscalculation on miscategorization on tiny subgroups.
+- **Flawed evidence circulates as authority.** The 14 meta-analyses (published in Springer Nature, Wiley, SAGE, Taylor & Francis, and MDPI journals) had amassed >2,000 citations within ~16 months. A citation-uptake analysis found the (now-retracted) Wang & Fan (2025) meta-analysis was cited as authoritative evidence of AI gains in 60% of post-retraction citing papers, none of which acknowledged the retraction; Lee & Kwon (2024) was mis-cited in 86% of sampled citing papers.
+- **Root cause is systemic, not individual error.** The recurrence of elementary validity failures across peer-reviewed journals points to a failure of editorial and reviewer gatekeeping. The author recommends requiring full data transparency for meta-analyses and stronger editorial/reviewer standards.
+
+## Connected Concepts
+
+- [[research-methods-aied]]
+- [[meta-analysis-systematic-review]]
+- [[limitations-in-aied-research]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[generative-ai]]
+- [[learning-gains]]
+
+## Connected Articles
+
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: bias-adjusted AI effects ~1/3 of reported size
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
+- [[genai-educational-outcomes-meta-analysis]] — A large meta-analysis of generative AI's effect on educational outcomes
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
+- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning (PNAS 2025 RCT)
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+
+## Citation
+
+O'Neill, P. E. (2026). *Presumed Effective: The Manufacturing of an Evidence Base for AI-in-Education Through Flawed Meta-Analysis.* Unpublished preprint, Ivy Tech Community College.
+
+---
+
 ## [Ontology-Based Layered Hybrid AI-Driven Knowledge Model for Personalized E-Learning](https://edtechdev.github.io/aied/articles/ontology-layered-hybrid-knowledge-model-personalized-elearning-2026/)
 
 > **An ontology-based, layered hybrid knowledge model for personalized [[online-teaching-and-learning|e-learning]]** — a conceptual architecture paper by Tatyana Ivanova (2026) that classifies the knowledge required for personalization and proposes a layered knowledge-base architecture grounded in description logic. Its central move is replacing the classic ITS four-model architecture (domain, student, tutoring, interface) with **systems of mapped ontologies**, while adding procedural knowledge (rules), probabilistic/fuzzy knowledge (via fuzzy/probabilistic description-logic extensions), and implicit knowledge extracted through [[learning-analytics|learning analytics]] and [[reinforcement-learning|machine learning]]. Because ontologies alone are static and handle uncertainty poorly, the paper argues personalization requires combining them with [[teacher-role|teaching]]-strategy sequencing rules, analytics, and ML — and it contributes a metadata framework for describing, discovering, and **reusing** educational ontologies.
@@ -71518,6 +71634,47 @@ Wang, S., & Zhang, H. (2026). [*Pedagogical partnerships with generative AI in h
 ## Citation
 
 Wei, Y., & Perkins, M. (2026). [*Generative AI and student collaboration: A scoping review of group work processes, outcomes, and risks*](https://doi.org/10.1007/s40979-026-00217-x). *International Journal for Educational Integrity*, 22(8).
+
+---
+
+## [ChatGPT in Education: An Effect in Search of a Cause](https://edtechdev.github.io/aied/articles/weidlich-chatgpt-effect-search-cause-2025/)
+
+> **ChatGPT in Education: An Effect in Search of a Cause** — A conceptual critique by Weidlich, Gašević, Drachsler, and Kirschner (2025) arguing that much early [[generative-ai|ChatGPT]] efficacy research repeats the classic media comparison fallacy: it compares an ill-defined "ChatGPT" treatment against opaque controls while measuring outcomes that are not durable learning. Using Deng et al.'s (2025) [[meta-analysis-systematic-review|meta-analysis]] as a worked example, the authors revive [[research-methods-aied|methodological]] lessons from the Clark–Kozma media/methods debate to specify three "non-negotiable" conditions for interpretable causal effects — a precisely described [[intelligent-tutoring|treatment]], a well-defined control group, and a valid measure of [[learning-gains|learning]] — and audit a subset of primary studies showing that only a small minority meet all three.
+
+## Key Findings
+
+- **Three non-negotiable conditions for interpretable effects.** To claim any technology improves learning, researchers must (1) describe the exact nature of the experimental treatment so it can be replicated; (2) specify what the control group actually did — the operationalized counterfactual; and (3) use outcome measures that validly indicate *durable learning* rather than self-report or in-treatment performance.
+- **ChatGPT is a tool, not a method.** Following Clark's (1983) "trucks don't change the groceries" analogy, learning does not follow from a general-purpose tool; effects arise only when the tool is embedded in a specific instructional method. Asking "does ChatGPT improve learning?" is a non sequitur — the meaningful question is whether a *particular use* of ChatGPT, in a *particular* [[learning-design|instructional design]], beats a *particular* comparison.
+- **Media-comparison confounding is pervasive.** When new AI tools are introduced alongside new [[pedagogy]], activity structures, or interface designs (Eronen's "fat-handed" interventions), the medium and method are confounded and effects become uninterpretable. This is a recurring pitfall documented across decades of research on instructional TV, computer-based instruction, distance education, AR/VR, and now AI.
+- **Deng et al.'s (2025) meta-analysis illustrates the problems.** The audit of 19 academic-performance comparisons from Deng et al. found only **74%** had a well-defined ChatGPT treatment, **42%** a well-defined control group, and **53%** an outcome that qualified as learning — leaving only **4 of 19 comparisons (21%)** satisfying all three criteria.
+- **A stark effect-size anomaly.** Deng et al. reported g = 0.7 for ChatGPT — *larger* than the 0.66 effect size of purpose-built [[intelligent-tutoring|Intelligent Tutoring Systems]] (Kulik & Fletcher 2016), even though ITS are engineered specifically for learning while ChatGPT was designed for entirely different purposes. Such a result signals that the "treatment" was a heterogeneous "secret sauce," not a coherent intervention.
+- **Valid learning measures are rare.** Many outcomes were self-reported skills/motivation, or performance measured *during* treatment (confounding learning with task support), rather than unassisted, post-intervention measures of enduring change. A notable included study (Ahmed Moneus & Al-Wasy 2024) measured translation quality produced *during* human–ChatGPT collaboration — collaborative output, not learning — yet contributed a huge effect (g = 3.1).
+- **The lesson of "fast science."** The rush to synthesize findings within two years of ChatGPT's launch (Deng et al. found 22 already-published ChatGPT-in-education reviews) produces research waste and premature causal claims. The authors call for a more deliberate research culture: let a richer literature accumulate, use stringent inclusion or detailed coding, and interpret meta-analytic effects cautiously.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[llm]]
+- [[research-methods-aied]]
+- [[meta-analysis-systematic-review]]
+- [[limitations-in-aied-research]]
+- [[ai-ed-evaluation]]
+- [[learning-gains]]
+- [[intelligent-tutoring]]
+- [[assessment-validity]]
+- [[rct]]
+
+## Connected Articles
+
+- [[genai-educational-outcomes-meta-analysis]] — A large meta-analysis of generative AI's effect on educational outcomes
+- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical limits of AI tutors and weak theory use
+- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning (PNAS 2025 RCT)
+- [[ai-overreliance-complex-adaptive-system-2026]] — Overreliance on AI as a complex adaptive system
+- [[ai-literacy-assessment-misalignment]] — Self-reported vs. performance-based AI literacy
+
+## Citation
+
+Weidlich, J., Gašević, D., Drachsler, H., & Kirschner, P. A. (2025). [ChatGPT in Education: An Effect in Search of a Cause](https://doi.org/10.1111/jcal.70105). *Journal of Computer Assisted Learning, 41*(5), e70105.
 
 ---
 
