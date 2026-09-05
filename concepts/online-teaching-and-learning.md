@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-09-05T01:05:00-04:00"
+updated: "2026-09-05T14:10:00-04:00"
 type: concept
 tags: [online-teaching-and-learning, pedagogy, learning-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
 level: [higher ed]
@@ -25,6 +25,8 @@ confidence: high
 Online teaching and learning is a distinct [[pedagogy|pedagogical]] context, not merely a delivery mechanism. It removes the physical co-presence that scaffolds attention, [[motivation]], and informal interaction, and it substitutes structured digital interaction — discussion forums, asynchronous materials, video, [[intelligent-tutoring|tutoring agents]] — for face-to-face contact. This changes what instructors can rely on, what students can access, and how learning is designed and assessed. As an umbrella concept in the [[pedagogy|pedagogies and teaching strategies]] landscape, it sits alongside [[active-learning]], [[collaborative-learning]], and [[self-regulated-learning]] but is distinguished by the medium: the constraints and affordances of the online environment shape which strategies are viable.
 
 The rise of generative AI lands directly in this context. Online learners already work through screens and software, so AI tools are natural neighbors; at the same time, online assessment is harder to invigilate, making misuse easier and the stakes higher. The evidence in this knowledge base shows that AI can be a powerful ally for online teaching and learning — and, configured poorly, a significant source of learning harm.
+
+[[lock-integrating-ai-online-learning-higher-ed-2025|Lock, Arteaga & Johnson (2025)]]'s critical literature review (63 citations across 32 countries) organizes this landscape into four interconnected themes that recur throughout the page below: the types and purposes of AI integration, pedagogical approaches (AI literacy, self-regulated learning), benefits, and challenges. Their central caution — that these themes *overlap* and that online AI integration is a sociotechnical undertaking anchored in pedagogy and human relationships rather than technology adoption alone — aligns with the page's framing of online teaching as a distinct pedagogy. Notably, they report that students using ChatGPT *alongside* teacher tutoring perceived greater [[learning-gains|learning gains]] than those using it alone, reinforcing the hybrid human–AI collaboration emphasis threaded through this page.
 
 ## Formats and settings
 
@@ -126,6 +128,7 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
 
 - [[ai-student-engagement-online-learning-review-2025]]
+- [[lock-integrating-ai-online-learning-higher-ed-2025]] — Integrating AI in online learning in higher education: a four-theme critical literature review
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
 - [[ai-online-education-engagement-satisfaction-2026]]
