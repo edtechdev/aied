@@ -1,14 +1,17 @@
 # Journal
 
-Last updated: 2026-09-05 | Total entries: 1269
+Last updated: 2026-09-05 | Total entries: 1272
 
 ## 2026-09-05
 - 📄 [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Bridging the Gender Gap in STEM Education with AI: Female-Coded Chatbot as Role Model and Learning Assistant
 - 📄 [[ai-agents-complete-lms-assessment-validity-2026]] — AI Agents Can Now Navigate and Complete LMS Tasks: A Call for Pedagogical Innovation
 - 📄 [[ai-web-agents-lesson-design-2025]] — AI Web Agents Can Effectively Guide Lesson Design and Predict Student Outcomes
+- 📄 [[bartos-ai-learning-meta-meta-analysis-2026]] — Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis
 - 📄 [[creative-project-approach-ai-early-childhood-2025]] — Tailoring AI Agents for Early Learning: The Creative Project Approach
+- 📄 [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: The Manufacturing of an Evidence Base for AI-in-Education Through Flawed Meta-Analysis
 - 📄 [[personalized-ai-generated-videos-preference-2026]] — Students Prefer Personalized, AI-Generated Educational Videos over Non-Personalized, Human-Recorded Videos
 - 📘 [[video-education]] — Video in Education
+- 📄 [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
 
 ## 2026-09-04
 - 📄 [[aarc-ai-research-competency-2026]] — AI-Assisted Research Competency in Secondary Education: A Framework for Epistemic Agency, Authorship and Responsible Knowledge Production

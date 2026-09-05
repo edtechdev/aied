@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-05
 
-Articles: 1085 | Concepts: 184 | FAQs: 17
+Articles: 1088 | Concepts: 184 | FAQs: 17
 
 ## Concepts
 
@@ -226,6 +226,7 @@ Articles: 1085 | Concepts: 184 | FAQs: 17
 - [[banihashem-ai-srl-systematic-mapping-review-2025]] — A systematic mapping review at the intersection of artificial intelligence and self-regulated learning
 - [[baradziej-agentic-ai-higher-education-2026]] — A systematic review of the roles of agentic AI in higher education
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI implementation in higher education: A scoping review
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis
 - [[bassett-ai-detectors-education-2026]] — Heads We Win, Tails You Lose: AI Detectors in Education
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis optimizes personalized learning paths via mediation of cognitive load and Hidden Markov Model state transitions
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
@@ -890,6 +891,7 @@ Articles: 1085 | Concepts: 184 | FAQs: 17
 - [[olvet-genai-scoring-open-ended-medical-2026]] — Can Generative Artificial Intelligence Reliably Score Open-Ended Question Assessments in Undergraduate Medical Education?
 - [[omniphys-multimodal-physics-benchmark-2026]] — OmniPhys: A Unified Multimodal Benchmark for Physics Understanding and Generation from Chinese Educational Corpora
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: AI Tutoring with Khanmigo in a Two-Year School Experiment
+- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: The Manufacturing of an Evidence Base for AI-in-Education Through Flawed Meta-Analysis
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-Based Layered Hybrid AI-Driven Knowledge Model for Personalized E-Learning
 - [[open-source]] — Open Source
@@ -1236,6 +1238,7 @@ Articles: 1085 | Concepts: 184 | FAQs: 17
 - [[wang-teacher-ai-co-design-review-2026]] — Reimagining teacher-AI co-design in learning task design: trends and perspectives
 - [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI in higher education: how dual cognitive pathways paradoxically enable transformative learning
 - [[wei-perkins-genai-student-collaboration-scoping-2026]] — Generative AI and Student Collaboration: A Scoping Review of Group Work Processes, Outcomes, and Risks
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
 - [[well-being]] — Well-Being
 - [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
 - [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings
