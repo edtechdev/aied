@@ -14,7 +14,7 @@ confidence: high
 
 > **Shixian Zhou, Minghuan Shen, Xiaolin Wen, Zijun Qiu, Yongliang Jiang, Xiangyang Wu, Fei Wu, Yong Wang, Zhiguang Zhou** — arXiv preprint (2026).
 
-> **Synthesis:** SAVVY is an interactive visual analytics system for video-based learning that integrates visual and auditory attention signals from multimodal brain data to support top-down exploration of student attention variation across instructional videos, connecting AI-based attention estimation to instructional-design practice.
+> **Synthesis:** SAVVY is an interactive visual analytics system for [[video-education|video-based learning]] that integrates visual and auditory attention signals from multimodal brain data to support top-down exploration of student attention variation across instructional videos, connecting AI-based attention estimation to instructional-design practice.
 
 ## Key Findings
 
@@ -27,6 +27,7 @@ SAVVY is an interactive visual analytics system for video-based learning that in
 ## Connected Concepts
 
 - [[learning-analytics]]
+- [[video-education]] — Video in Education: AI-generated, personalized, and analytics of video learning
 - [[multimodal]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]

@@ -55,7 +55,7 @@ For survival, musicians converge on diversification across income streams — li
 
 ### Online Platforms and Access
 
-Before AI dominated educational technology, online platforms transformed access. YouTube has been the most consequential single development in informal music education, democratizing access to musical knowledge for learners where private instruction is inaccessible. MOOCs (Coursera, edX, Berklee, Juilliard) add structure, with the online music-education market estimated near $5 billion by 2030. Yet MOOCs face structural challenges: completion rates typically under 10%, and the embodied practice, real-time feedback, and social dynamics of ensemble playing resist short video lectures and self-graded quizzes. [[research-methods-aied|Research]] on social MOOCs suggests peer interaction and collaborative [[problem-solving]] are essential, but hard to engineer at scale.
+Before AI dominated educational technology, online platforms transformed access. YouTube has been the most consequential single development in informal music education, democratizing access to musical knowledge for learners where private instruction is inaccessible. MOOCs (Coursera, edX, Berklee, Juilliard) add structure, with the online music-education market estimated near $5 billion by 2030. Yet MOOCs face structural challenges: completion rates typically under 10%, and the embodied practice, real-time feedback, and social dynamics of ensemble playing resist short [[video-education|video lectures]] and self-graded quizzes. [[research-methods-aied|Research]] on social MOOCs suggests peer interaction and collaborative [[problem-solving]] are essential, but hard to engineer at scale.
 
 ### AI-Based Training: Tools, Opportunities, Limits
 

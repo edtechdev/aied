@@ -36,7 +36,7 @@ The design builds directly on evidence that students who [[help-seeking|over-rel
 
 ## The Flipped Classroom Component
 
-To create time for weekly interviews, the instructor canceled one of three weekly class meetings and adopted an [[active-learning|flipped classroom]] model: students watch lecture videos outside class and spend the remaining two days on supplemental coding activities with peer and instructor support. This mirrors [[student-engagement|engagement-focused]] pedagogies with documented small positive effects on learning and addresses a persistent [[higher-ed|scalability]] barrier that has long limited oral assessment in large courses.
+To create time for weekly interviews, the instructor canceled one of three weekly class meetings and adopted an [[active-learning|flipped classroom]] model: students watch [[video-education|lecture videos]] outside class and spend the remaining two days on supplemental coding activities with peer and instructor support. This mirrors [[student-engagement|engagement-focused]] pedagogies with documented small positive effects on learning and addresses a persistent [[higher-ed|scalability]] barrier that has long limited oral assessment in large courses.
 
 ## Methods & Evidence
 

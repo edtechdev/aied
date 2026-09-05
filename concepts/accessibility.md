@@ -16,7 +16,7 @@ confidence: high
 
 - When you last designed or chose a digital learning tool, did you check whether its captions, alt text, keyboard navigation, and color contrast worked before you considered its [[pedagogy]]? Why might that ordering matter?
 - A video with accurate captions is 'accessible,' while a course that structures discussion around a Deaf learner's communication needs is 'supporting that learner.' Where would you draw the line between removing a technical barrier and meaningfully serving a student?
-- [[research-methods-aied|Research]] shows AI-segmented instructional videos with fixed pauses eliminated the performance gap between [[neurodiversity|ADHD]] and non-ADHD learners. Can you recall a 'fix designed for one learner' that ended up benefiting everyone in a class you were part of?
+- [[research-methods-aied|Research]] shows AI-segmented [[video-education|instructional videos]] with fixed pauses eliminated the performance gap between [[neurodiversity|ADHD]] and non-ADHD learners. Can you recall a 'fix designed for one learner' that ended up benefiting everyone in a class you were part of?
 - Some argue accessibility is necessary but not sufficient — an accessible tool is not automatically an inclusive or disability-just one. What's the difference between being able to use a tool and being meaningfully served by it?
 - Many AI tools are trained largely on English, Western-centric data. How might that limit how well they serve learners whose first language is sign, or whose ways of knowing differ from the mainstream?
 - AI can automate accessibility at scale — generating captions, simplifying text, producing tactile output. What would you want to verify by hand before trusting that automated accessibility, and why?

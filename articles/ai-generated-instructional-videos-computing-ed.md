@@ -12,7 +12,7 @@ sources: ['raw/papers/2607.28203.md']
 confidence: high
 ---
 
-Studies student perceptions of AI-generated instructional videos in computing education. Finds students value [[personalized-learning|personalization]] and rapid production but express concerns about accuracy and the loss of instructor presence. Identifies clear preferences for hybrid approaches where AI generates draft content that instructors review and refine.
+Studies student perceptions of [[video-education|AI-generated instructional videos]] in computing education. Finds students value [[personalized-learning|personalization]] and rapid production but express concerns about accuracy and the loss of instructor presence. Identifies clear preferences for hybrid approaches where AI generates draft content that instructors review and refine.
 
 ## Key Findings
 
@@ -33,6 +33,7 @@ The results give computing instructors an evidence base for purposeful use: AI-g
 ## Connected Concepts
 
 - [[cs-education]]
+- [[video-education]] — Video in Education: AI-generated, personalized, and analytics of video learning
 - [[student-experience]]
 - [[learning-design]]
 - [[pedagogical-agent]]

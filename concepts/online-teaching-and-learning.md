@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-09-05T00:55:00-04:00"
+updated: "2026-09-05T01:05:00-04:00"
 type: concept
 tags: [online-teaching-and-learning, pedagogy, learning-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
 level: [higher ed]
@@ -120,6 +120,7 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[ai-detection]]
 - [[pedagogical-safety]]
 - [[conversational-ai]]
+- [[video-education]] — Video in Education: the video medium and AI-generated/personalized video
 
 ## Connected Articles
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
