@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-05 | Total entries: 1273
+Last updated: 2026-09-05 | Total entries: 1274
 
 ## 2026-09-05
 - 📄 [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Bridging the Gender Gap in STEM Education with AI: Female-Coded Chatbot as Role Model and Learning Assistant
@@ -9,6 +9,7 @@ Last updated: 2026-09-05 | Total entries: 1273
 - 📄 [[bartos-ai-learning-meta-meta-analysis-2026]] — Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis
 - 📄 [[creative-project-approach-ai-early-childhood-2025]] — Tailoring AI Agents for Early Learning: The Creative Project Approach
 - 📄 [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-Powered Simulation for Nursing Education: Mixed Methods Systematic Review
+- 📄 [[lock-integrating-ai-online-learning-higher-ed-2025]] — Integrating AI in Online Learning in Higher Education: A Literature Review
 - 📄 [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: The Manufacturing of an Evidence Base for AI-in-Education Through Flawed Meta-Analysis
 - 📄 [[personalized-ai-generated-videos-preference-2026]] — Students Prefer Personalized, AI-Generated Educational Videos over Non-Personalized, Human-Recorded Videos
 - 📘 [[video-education]] — Video in Education
