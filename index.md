@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-05
 
-Articles: 1082 | Concepts: 183 | FAQs: 17
+Articles: 1083 | Concepts: 183 | FAQs: 17
 
 ## Concepts
 
@@ -917,6 +917,7 @@ Articles: 1082 | Concepts: 183 | FAQs: 17
 - [[pepper-robot-sign-language-lis-2025]] — Using the Pepper Robot to Support Sign Language Communication
 - [[pepper-social-robot-formal-education-scoping-review-2026]] — Exploring the Implementation of the Pepper Social Robot in Formal Education: A Scoping Review
 - [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
+- [[personalized-ai-generated-videos-preference-2026]] — Students Prefer Personalized, AI-Generated Educational Videos over Non-Personalized, Human-Recorded Videos
 - [[personalized-learning]] — Personalized Learning
 - [[personalized-neural-cognitive-architecture-search-2026]] — Personalized neural cognitive architecture search
 - [[philosophy-experimentation-ai-chemistry-2026]] — Reimagining the Philosophy of Experimentation in Chemistry Education: Embracing AI as a Tool for Scientific Inquiry
