@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-05
 
-Articles: 1089 | Concepts: 184 | FAQs: 17
+Articles: 1090 | Concepts: 184 | FAQs: 17
 
 ## Concepts
 
@@ -789,6 +789,7 @@ Articles: 1089 | Concepts: 184 | FAQs: 17
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching: An exploratory study with genAI novices in higher education
 - [[lnenicka-secondary-students-genai-stem-2026]] — Navigating AI in STEM: What Secondary Students Actually Do With Generative AI-Driven Tools
 - [[lo-co-creating-custom-gpts-sap-2026]] — Co-creating custom GPTs: an autoethnographic study of undergraduate students as partners in generative AI innovation
+- [[lock-integrating-ai-online-learning-higher-ed-2025]] — Integrating AI in Online Learning in Higher Education: A Literature Review
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Assuring Quality Learning in a Gen AI-Integrated Future: The Role of Adaptive Capabilities
 - [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — Artificial intelligence in higher education: a systematic review of its impact on student engagement and the mediating role of teaching methods
