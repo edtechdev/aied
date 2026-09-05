@@ -1,7 +1,7 @@
 ---
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-09-05T00:10:31-04:00"
+updated: "2026-09-05T01:20:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop-ai, agency, cognitive-offloading]
@@ -99,6 +99,7 @@ Agentic AI poses distinctive integrity threats that go beyond the single-turn Ge
 
 - **The artifact no longer certifies the learner.** When an agent can generate, plan, and execute an entire submission, the product's quality reflects the agent's capability, not the learner's. This is the [[tool-invariant-framework-agentic-ai|tool-invariant]] certification problem at its extreme — traditional "submit the work" assessment loses its evidential value.
 - **Verification, not detection, is the only viable response.** Detection-based policing is structurally unable to keep up with autonomous agents. The integrity question shifts from "can we catch AI agents?" to "can we verify what the learner can actually do?" — favouring [[authentic-assessment|process-based]], interactive, and [[human-in-the-loop-ai|human-in-the-loop]] verification.
+- **Agentic completion of assessed coursework is now demonstrated, and it is a validity failure, not just an integrity one.** [[ai-agents-complete-lms-assessment-validity-2026|Hadjisolomou & El-Haddad (2026)]] documented agents (Claude for Chrome, Perplexity Comet, Claude Opus) logging into a live undergraduate LMS course and completing real assessed work from a single instruction — a 10-question quiz scored 10/10 in under 5 minutes, and a discussion-board post in which the agent fabricated a credible personal life story after mining peers' posts. Applying Kane's argument-based validity framework, they place a "human-production assumption" at the base of the scoring inference: agent completion removes its backing, so every unproctored asynchronous score — including honestly earned ones — loses interpretive support because authorship is unverifiable. Framing the problem as validity rather than integrity matters because an institution can punish misconduct and still lack grounds for the scores it reports, and because the same artifacts feed program-review and accreditation evidence chains. Their remedy, aligned with this page's "verification over detection," is assessment redesign for verified human presence (presence over product, integration over isolation, authenticity over genericity, low-stakes practice / high-stakes presence) with an equity-preserving menu of verified-moment options.
 - **Accountability is diffused.** In multi-agent systems, when an autonomous agent produces problematic output, it is unclear who is accountable — the learner, the system, or the institution. This blurs the attribution that academic-integrity processes assume.
 - **Cognitive debt accumulates silently.** Ghost students let learners bypass the effortful processes that build understanding, accruing [[cognitive-offloading|cognitive debt]] that surfaces only when independent performance is required. Integrity is thus tied to genuine learning, not just rule-compliance.
 - **It widens equity gaps.** Learners with access to more capable agentic systems gain an outsized advantage, and automated support may erode help for those who need it most — an [[equity-in-ai-education|equity]] dimension of integrity.
@@ -209,6 +210,7 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 - [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap (Bozkurt et al. 2026)
+- [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; validity failure via the human-production assumption (Hadjisolomou & El-Haddad 2026)
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
