@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-05
 
-Articles: 1088 | Concepts: 184 | FAQs: 17
+Articles: 1089 | Concepts: 184 | FAQs: 17
 
 ## Concepts
 
@@ -659,6 +659,7 @@ Articles: 1088 | Concepts: 184 | FAQs: 17
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills for College Graduates: How Instructors and Employers Prioritize AI Skills Differently
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Explaining ChatGPT Adoption in Higher Education: Insights for AI Literacy, Educational Practice, and Responsible AI
 - [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
+- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-Powered Simulation for Nursing Education: Mixed Methods Systematic Review
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — The AI-Powered Co-inquirer: A Systematic Review of ChatGPT for Inquiry-Based Learning in STEAM Education
 - [[jiang-genai-activity-theory-disciplines-2026]] — Generative AI across the disciplines: an activity theory perspective on undergraduate students' AI use and disclosure practices
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent Learner Agency in Implicit Human-AI Collaboration: How Supportive and Contrarian AI Personas Reshape Interaction
