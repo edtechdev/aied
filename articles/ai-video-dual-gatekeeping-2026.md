@@ -15,7 +15,7 @@ confidence: high
 
 ## From friction to principled resistance
 
-The paper opens from a critique of friction-free adoption: current video generation pipelines optimize for visual appeal over instructional essentials such as precise temporal alignment of narration or strategic sequencing of prerequisite concepts. The authors argue that pedagogical friction is not a hurdle to be eliminated but a site of professional accountability — moments of deliberate hesitation are where instructional quality is forged. They frame this as *principled resistance*: deliberate, theory-grounded pushback against AI outputs that fail [[pedagogy|pedagogical]] standards, rooted in Mayer's 12 CTML principles for effective [[learning-design|multimedia instruction]].
+The paper opens from a critique of friction-free adoption: current [[video-education|video generation]] pipelines optimize for visual appeal over instructional essentials such as precise temporal alignment of narration or strategic sequencing of prerequisite concepts. The authors argue that pedagogical friction is not a hurdle to be eliminated but a site of professional accountability — moments of deliberate hesitation are where instructional quality is forged. They frame this as *principled resistance*: deliberate, theory-grounded pushback against AI outputs that fail [[pedagogy|pedagogical]] standards, rooted in Mayer's 12 CTML principles for effective [[learning-design|multimedia instruction]].
 
 ## Two layers of resistance
 
@@ -31,6 +31,7 @@ The authors surface three tensions: negotiating [[agency]] when automated flags 
 
 ## Connected Concepts
 - [[generative-ai]]
+- [[video-education]] — Video in Education: AI-generated, personalized, and analytics of video learning
 - [[teacher-role]]
 - [[learning-design]]
 - [[pedagogy]]

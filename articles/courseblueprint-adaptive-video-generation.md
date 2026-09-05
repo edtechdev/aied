@@ -16,6 +16,7 @@ Islam et al. (2026) address a core limitation of generative text-to-video for ed
 ## Connected Concepts
 
 - [[adaptive-learning]]
+- [[video-education]] — Video in Education: AI-generated, personalized, and analytics of video learning
 - [[generative-ai]]
 - [[learning-design]]
 - [[knowledge-graph]]

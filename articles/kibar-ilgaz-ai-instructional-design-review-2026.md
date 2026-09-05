@@ -25,7 +25,7 @@ Across the reviewed studies, AI serves several distinct purposes in the ID proce
 - **Supporting teaching delivery** (17 studies, 60.7%): AI generates explanations, discussion questions, activity ideas, lesson scenarios, and reflection questions, and adapts language complexity to different learner groups—mediating teacher–learner interaction rather than shaping ID decisions.
 - **Assessment design** (14 studies, 50%): AI creates quizzes, question banks, and assessment criteria, and provides instant or adaptive [[feedback]], supporting continuous assessment and the evaluation and revision of assessment strategies.
 - **Innovating in instructional strategies** (9 studies): AI enables [[intelligent-tutoring|intelligent tutoring systems]], [[personalized-learning|adaptive learning environments]], [[learning-analytics|learning analytics]], and predictive instruction that reshape instructional models.
-- **Multimedia content creation** (7 studies) and **facilitating [[accessibility]] and inclusivity** (4 studies): AI produces image/audio/video learning materials and reduces access barriers through transcripts and narrated descriptions of visual data.
+- **Multimedia content creation** (7 studies) and **facilitating [[accessibility]] and inclusivity** (4 studies): AI produces image/audio/[[video-education|video learning]] materials and reduces access barriers through transcripts and narrated descriptions of visual data.
 
 ## Reported Benefits
 
