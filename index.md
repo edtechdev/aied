@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-05
 
-Articles: 1081 | Concepts: 183 | FAQs: 17
+Articles: 1082 | Concepts: 183 | FAQs: 17
 
 ## Concepts
 
@@ -354,6 +354,7 @@ Articles: 1081 | Concepts: 183 | FAQs: 17
 - [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback
 - [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora
 - [[coursegraph-cs-course-comparison-2026]] — CourseGraph: Finding overlaps and differences in Computer Science courses across universities
+- [[creative-project-approach-ai-early-childhood-2025]] — Tailoring AI Agents for Early Learning: The Creative Project Approach
 - [[creativity]] — Creativity
 - [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials That Carry Their Evidence: Credential design, dynamic tiering, and approved use when AI agents can do the work

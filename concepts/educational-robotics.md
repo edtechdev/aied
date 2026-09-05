@@ -1,7 +1,7 @@
 ---
 title: Robots in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-05T00:20:00-04:00"
 type: concept
 tags: [educational-robotics, computational-thinking, stem-education, k-12, higher-ed, cs-education, embodied-learning]
 discipline: [stem education]
@@ -45,6 +45,8 @@ Two strands shape the social side of robotics in education.
 
 - **Child development and young learners:** [[ai-toys-child-development-2026|AI-enabled toys and child development]] shifts the lens to commercial AI toys in early childhood, examining how AI-enabled playthings affect child development and play. This extends educational robotics beyond classroom robots to the consumer toys children encounter at home, raising questions about [[pedagogical-agent|agents]] in play, [[trust-calibration|trust calibration]], [[agency]], and [[well-being]] for the youngest learners — an area where design guidance is thinner than for school-age robotics curricula.
 - **Tangible coding and social robots in pre-K [[ai-literacy|AI literacy]].** Lee (2026) integrates unplugged play, tangible coding (Bee-Bot, Ozobot), and guided dialogue with a social AI robot in the Play With AI (PL-AI) curriculum for pre-K and kindergarten. The [[design-based-research|design-based research]] documents how these embodied, tangible robotics activities support children's emerging reasoning about AI concepts, with four design principles — embodied play, tangible coding, guided dialogue, and teacher co-design — offering a developmentally appropriate model for [[early-childhood-elementary-ai-education|early childhood]] robotics and AI education.
+
+- **Two paradigms for young learners: coding robots and generative social robots.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li and Lee (2025)]] frame early-childhood robotics as the pairing of two [[pedagogy|pedagogical]] paradigms, each with a distinct theoretical base. **Coding robots** (Bee-Bot, KIBO, Matatalab) descend from Papert's LOGO and embody [[constructivist|constructionism]] — children learn by making and build [[computational-thinking|computational thinking]] through tangible programming. **Generative social robots**, powered by [[generative-ai|generative AI]], are grounded in [[sociocultural-learning|social constructivism]], acting as conversational peers or tutors who [[scaffolding|scaffold]] learning within the child's Zone of Proximal Development and support social-emotional development. Their five-step **Creative Project Approach** for integrating both robot types into the Project Approach keeps teachers as facilitators who guide child–robot interaction, balance automation with [[creativity]], and preserve child [[agency]].
 
 ### Embodiment and pedagogy
 
@@ -105,3 +107,4 @@ A defining theme is that robots are effective when they support genuine learning
 - [[ai-toys-child-development-2026]] — AI-enabled toys and child development
 
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
+- [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: integrating coding and generative social robots into early-childhood projects (Yang, Li & Lee 2025)
