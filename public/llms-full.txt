@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 184 concepts, 1084 articles, and 17 FAQs.
+> Complete text of 184 concepts, 1085 articles, and 17 FAQs.
 
 # Concepts
 
@@ -16260,7 +16260,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - **Global South perspectives:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[amponsah-ai-acceptance-science-teachers-2026|Ghanaian teacher acceptance]] provide Global South perspectives often absent from Western-centric AIED research.
 - **Global capacity:**  documents how generative AI benefits are distributed unevenly across countries and institutions, and [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] addresses structural socioeconomic gradients.
 - **Disability and Global South intersection:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates across three Palestinian universities — shows GenAI bridging digital, geographic, and socioeconomic divides while extending [[technology-acceptance-model|technology acceptance models]] to disability contexts, where [[usability-research|usability]], affordability, and accessibility are mutually reinforcing.
-- **Gender equity in computing:** equity-oriented uses of [[generative-ai|GenAI]] remain underexplored. [[all-girls-genai-makerspace-gender-equity-2026|An all-girls GenAI makerspace initiative in Europe]] combined two GenAI tools with feminist pedagogy to address persistent gender inequities in girls' representation in computing, with practitioners enacting specific steps to support girls' participation and engagement — an example of equity-focused GenAI design.
+- **Gender equity in computing:** equity-oriented uses of [[generative-ai|GenAI]] remain underexplored. [[all-girls-genai-makerspace-gender-equity-2026|An all-girls GenAI makerspace initiative in Europe]] combined two GenAI tools with feminist pedagogy to address persistent gender inequities in girls' representation in computing, with practitioners enacting specific steps to support girls' participation and engagement — an example of equity-focused GenAI design. Deliberately gendered AI can also function as the *intervention itself*: [[ada-female-coded-chatbot-gender-stereotypes-2026|Rücker and Becker-Genschow (2026)]] showed that a female-coded, [[discipline-specific-aied|domain-specific]] math [[conversational-ai|chatbot]] modeled on Ada Lovelace's persona (and deployed as both a role model and a [[intelligent-tutoring|learning assistant]]) significantly reduced gender-stereotypical beliefs about mathematical ability and [[math-education|mathematics]] as a male domain among ninth graders — in *both* genders, with high and gender-neutral technological acceptance. This reframes representation as a design lever, not just a bias to audit: systematically designed AI personas can counter, rather than merely avoid reproducing, [[gender-bias-transfer-llm-writing|gender bias]].
 
 ## Implications for AI in education
 
@@ -16312,6 +16312,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[genai-linguistic-diversity-academic-writing]] — Linguistic diversity in AI-mediated academic writing
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Scaffolded AI literacy (SAIL) framework for equitable learning
 - [[access-not-enough-ai-tutoring-2026]] — Access is not enough
+- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Female-coded chatbot as role model reducing math gender stereotypes
 - [[community-centered-ai-education-adults]] — Community-centered AI education for adults
 - [[ai-literacy-equity-programming-policy]] — AI literacy, equity, and programming policy
 - [[ai-uk-higher-education-policy-2026]] — UK higher-education AI policy
@@ -20246,6 +20247,46 @@ The study positions [[activity-theory-aied|activity theory]] as a structural len
 
 ## Citation
 Lee, J., & Granziera, H. (2026). [*Activity theory as a lens on teachers' adoption of AI technologies: A structural equation modeling*](https://doi.org/10.1016/j.caeo.2026.100349). Computers and Education Open, 10, 100349.
+
+---
+
+## [Bridging the Gender Gap in STEM Education with AI: Female-Coded Chatbot as Role Model and Learning Assistant](https://edtechdev.github.io/aied/articles/ada-female-coded-chatbot-gender-stereotypes-2026/)
+
+> **Bridging the Gender Gap in [[stem-education|STEM Education]] with AI: Female-Coded Chatbot as Role Model and Learning Assistant** — This quasi-experimental study (*N* = 195 ninth-grade German students) tested whether ADA, a female-coded, [[discipline-specific-aied|domain-specific]] [[conversational-ai|AI chatbot]] built on GPT-4 and purpose-designed as both a digital role model and a [[intelligent-tutoring|learning assistant]], could reduce [[math-education|mathematics]] [[equity-in-ai-education|gender stereotypes]] while sustaining equitable learning outcomes. Compared with printed help cards on the Heron method, the chatbot significantly reduced gender-stereotypical beliefs about mathematical ability and mathematics as a male domain for both genders, with high and gender-neutral technological acceptance. It also raised [[student-engagement|situational interest]] for both genders without introducing gender differences in [[motivation|emotional responses]], cognitive load, or [[learning-gains|academic performance]] — evidence that deliberately gender-coded, systematically designed AI [[student-ai-interaction|chatbots]] can function as scalable [[pedagogy|pedagogical]] tools that simultaneously challenge stereotypes and promote [[self-efficacy|equitable learning efficacy]].
+
+## Key Findings
+
+- **Reduced math gender stereotypes in both genders.** Using a female-coded chatbot modeled on Ada Lovelace's persona, students in the experimental group showed significant group-by-time reductions in beliefs about relative mathematical ability (RMA; females *F*(1,89)=10.63, males *F*(1,102)=14.54) and perceptions of mathematics as a male domain (MMD; females *F*(1,89)=5.85, males *F*(1,102)=11.27), while the control group remained stable. Effect sizes were small but meaningful (η²G = .005–.017), and the effects did **not** differ significantly between genders (RQ2) — important because male peers' stereotypes can suppress female classmates' performance and self-concept.
+- **High, gender-neutral technological acceptance (RQ3).** Perceived ease of use, usefulness, competence, and attitudes toward use all scored high and statistically indistinguishable across genders (all *p* > .68), countering prior findings that gendered virtual agents can lower perceived competence. Gender-neutral acceptance is critical because perceived competence is a primary driver of role-model effectiveness in cultivating STEM enthusiasm and self-efficacy.
+- **ADA as a dual-function digital role model and tutor.** The chatbot combined a system prompt encoding [[self-efficacy|role-model mechanisms]] (growth mindset, warmth, genuine enthusiasm, gender-inclusive phrasing, [[socratic-method|Socratic questioning]]) with [[rag|retrieval-augmented]] generation (RAG) over a curated, [[curriculum-design|curriculum]]-aligned knowledge base on the Heron method to reduce [[hallucination-risk|hallucination]]. Its persona was deliberately grounded in Ada Lovelace to embody competence and resilience in a male-dominated field while using non-dramatizing, non-categorical gender representation to avoid stereotype-threat backfire.
+- **Situational interest rose for both genders with no gender difference.** Medium effect sizes favored the experimental group for both females and males (both *p* < .05), with within-group gender comparisons non-significant — evidence that a custom chatbot can promote interest in mathematics without favoring one gender.
+- **Equitable learning performance.** Despite the control group's significant baseline advantage in [[prior-knowledge|prior knowledge]], experimental-group students of both genders reached comparable post-test performance, with no significant group-by-time or gender interactions. Emotional responses trended positive but non-significant, with no gender disparities.
+- **No alienation of male students from a female-coded agent.** The gender-stratified design directly tested the open risk that a female-coded agent alienates male learners; results showed male students engaged with the chatbot (comparable message counts across genders) and experienced the same stereotype reduction and learning gains.
+- **Short-term, in-class feasibility.** The intervention embedded in three consecutive regular mathematics lessons (GPT-4 via a privacy-compliant, GDPR-aligned school AI platform) illustrates the practical scalability of custom, curriculum-synchronized chatbots for gender-equity goals in authentic classroom settings.
+
+## Connected Concepts
+
+- [[equity-in-ai-education]]
+- [[stem-education]]
+- [[math-education]]
+- [[self-efficacy]]
+- [[conversational-ai]]
+- [[student-ai-interaction]]
+- [[intelligent-tutoring]]
+- [[k-12]]
+
+## Connected Articles
+
+- [[all-girls-genai-makerspace-gender-equity-2026]] — An all-girls GenAI makerspace initiative for gender equity in computing
+- [[gender-bias-transfer-llm-writing]] — How LLM-assisted writing can contaminate student work with gender bias
+- [[dai-chatbots-problem-posing-primary-2026]] — Custom AI chatbots for problem posing in primary mathematics
+- [[mathematics-teachers-chatbot-motivation-2026]] — Chatbots and mathematics teacher motivation
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — How avatar identity shapes epistemic trust in AI-mediated learning
+- [[ai-overreliance-complex-adaptive-system-2026]] — Overreliance on AI as a complex adaptive system
+
+## Citation
+
+Rücker, C. R., & Becker-Genschow, S. (2026). [Bridging the Gender Gap in STEM Education with AI: Female-Coded Chatbot as Role Model and Learning Assistant](https://doi.org/10.1016/j.chbah.2026.100392). *Computers in Human Behavior: Artificial Humans*. Advance online publication.
 
 ---
 
