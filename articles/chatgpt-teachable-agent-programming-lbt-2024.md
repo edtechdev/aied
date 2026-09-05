@@ -23,7 +23,7 @@ Learning-by-[[teacher-role|teaching]] is an effective [[active-learning]] strate
 - **Task:** solve the classic "eight queens" puzzle using a backtracking algorithm, coded in C++, assessed on an auto-judging platform.
 - **Teachable-agent [[prompt-engineering|prompt design]]** grounded in Gall's (1981) five-stage [[help-seeking]] model (awareness of need, decision to seek help, identifying a help source, eliciting help, reacting to help), so ChatGPT behaves as a realistic help-seeking tutee.
 - **Deliberate fallibility:** the [[research-methods-aied|researchers]] deliberately used un-augmented GPT-4 and did not chase answer accuracy — an agent that makes mistakes gives students more opportunities to teach and correct, and any "[[hallucination-risk|hallucinations]]" read like a beginner's errors.
-- **Procedure:** pre-test → watch three instructional videos (30 min) → experimental group guides ChatGPT to produce correct code while the control writes code alone (1 hour, screen-shared/supervised) → post-test. Both groups had to pass the auto-judging platform.
+- **Procedure:** pre-test → watch three [[video-education|instructional videos]] (30 min) → experimental group guides ChatGPT to produce correct code while the control writes code alone (1 hour, screen-shared/supervised) → post-test. Both groups had to pass the auto-judging platform.
 - **Measures:** 15-item knowledge test (5 easy/5 medium/5 hard); pseudocode test scored on clearness, correctness, and readability; and a 20-item adapted MSLQ self-regulated-learning questionnaire (test anxiety, self-efficacy, cognitive strategies).
 
 ## Key Findings

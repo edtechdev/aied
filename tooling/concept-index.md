@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 183
+**Total concepts:** 184
 
 - slug: early-childhood-elementary-ai-education
   title: Early Childhood Education
@@ -484,6 +484,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`trust`** — Trust
 - **`usability-research`** — Usability Research
 - **`universal-design-for-learning`** — Universal Design for Learning
+- **`video-education`** — Video in Education — phrases: video; videos; educational video; instructional video; lecture video; video-based learning; video learning; AI-generated video; video generation; AI avatar; educational media; multimedia; lecture recording
 - **`well-being`** — Well-Being
 - **`writing-education`** — Writing
 ## Merged / absorbed (no longer separate pages)

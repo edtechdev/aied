@@ -9,7 +9,7 @@ sources: ['raw/papers/2608.03161v1.md']
 confidence: high
 ---
 
-> **Synthesis:** This paper introduces an evidence-grounded [[multimodal]] pipeline that constructs provenance-rich [[knowledge-graph|knowledge graphs]] from lecture videos by integrating speech transcripts, slide OCR, and vision-language model analysis. Processing three neural-network lectures, the pipeline extracted 172 canonical concepts and 282 typed relationships with 90.38% endpoint coverage, achieving perfect retrieval accuracy on a preliminary test. The approach addresses a key challenge in [[ai-education|educational AI]]: converting rich multimodal lecture content into structured, queryable knowledge representations without losing the evidential provenance that makes them trustworthy.
+> **Synthesis:** This paper introduces an evidence-grounded [[multimodal]] pipeline that constructs provenance-rich [[knowledge-graph|knowledge graphs]] from [[video-education|lecture videos]] by integrating speech transcripts, slide OCR, and vision-language model analysis. Processing three neural-network lectures, the pipeline extracted 172 canonical concepts and 282 typed relationships with 90.38% endpoint coverage, achieving perfect retrieval accuracy on a preliminary test. The approach addresses a key challenge in [[ai-education|educational AI]]: converting rich multimodal lecture content into structured, queryable knowledge representations without losing the evidential provenance that makes them trustworthy.
 
 ## Key Findings
 

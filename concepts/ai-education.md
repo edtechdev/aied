@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-05T01:05:00-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity-in-ai-education]
 audience: [instructors, learners, faculty development, administrator]
@@ -64,7 +64,7 @@ The field's cross-cutting and foundational concepts anchor the knowledge base's 
 
 How AI supports teaching and learning is the heart of the field. Key concepts include:
 
-- **Core pedagogies:** [[pedagogy|pedagogies and teaching strategies]] — the umbrella for the knowledge base's teaching-methods coverage — along with [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[problem-based-learning|problem-based learning]], [[productive-failure|productive failure]], [[inquiry-based-learning|inquiry-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[learning-by-teaching|learning by teaching]], [[scaffolding]], [[socratic-method|the Socratic method]], [[critical-pedagogy|critical pedagogy]], [[pedagogical-partnerships|pedagogical partnerships]], [[storytelling-in-education|storytelling]], [[learning-design|learning design]], and [[online-teaching-and-learning|online teaching and learning]].
+- **Core pedagogies:** [[pedagogy|pedagogies and teaching strategies]] — the umbrella for the knowledge base's teaching-methods coverage — along with [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[problem-based-learning|problem-based learning]], [[productive-failure|productive failure]], [[inquiry-based-learning|inquiry-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[learning-by-teaching|learning by teaching]], [[scaffolding]], [[socratic-method|the Socratic method]], [[critical-pedagogy|critical pedagogy]], [[pedagogical-partnerships|pedagogical partnerships]], [[storytelling-in-education|storytelling]], [[learning-design|learning design]], [[online-teaching-and-learning|online teaching and learning]], and [[video-education|video in education]].
 - **Learning theories and processes:** the [[learning-theories|learning theories]] umbrella ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], [[embodied-learning|embodied learning]], [[community-of-inquiry|community of inquiry]]) sits alongside learner-facing processes like [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[motivation]], [[self-efficacy]], [[self-directed-learning|self-directed learning]], [[metacognition]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[prior-knowledge|prior knowledge]], [[icap-framework|ICAP cognitive engagement]], [[refutation-text|refutation text]], and [[activity-theory-aied|activity theory]].
 - **Learner engagement and experience:** [[student-engagement|student engagement]], [[help-seeking]], [[social-emotional-learning|social-emotional learning]], [[well-being]], [[creativity]], and [[student-ai-interaction|student–AI interaction]] shape how learners actually encounter and are affected by AI.
 
@@ -160,6 +160,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[mastery-learning]] — Mastery learning and adaptive instruction
 - [[science-education]] — Science education across the disciplines
 - [[visualization]] — Data visualization, infographics, and dashboards
+- [[video-education]] — Video in Education: video as a medium and AI-generated/personalized/analytics of video learning
 
 ## Connected Articles
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning

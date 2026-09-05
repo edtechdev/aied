@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.01238.md']
 confidence: medium
 ---
 
-> **Synthesis:** **EduGage** (Leng et al., 2026) shows that fine-grained, segment-level engagement estimation in self-guided video learning is *feasible but inherently noisy*. Using wearable and camera-based sensors (PPG, ECG, EDA, EEG, IMU, heart rate, temperature, eye tracking) across a 16-participant user study, the authors' [[multimodal]] model achieved an MAE of 0.81 and 83.75% within-1 accuracy, outperforming sensor-free, statistical, deep-temporal, foundation-model, and [[llm]]-based baselines. The authors argue that practical systems should prioritize lightweight combinations of behavioral and physiological signals over full multimodal instrumentation, and they release the EduGage dataset — synchronized multimodal sensor streams, probe-aligned momentary engagement labels, video metadata, quizzes, and study materials — to support reproducible [[research-methods-aied|research]].
+> **Synthesis:** **EduGage** (Leng et al., 2026) shows that fine-grained, segment-level engagement estimation in self-guided [[video-education|video learning]] is *feasible but inherently noisy*. Using wearable and camera-based sensors (PPG, ECG, EDA, EEG, IMU, heart rate, temperature, eye tracking) across a 16-participant user study, the authors' [[multimodal]] model achieved an MAE of 0.81 and 83.75% within-1 accuracy, outperforming sensor-free, statistical, deep-temporal, foundation-model, and [[llm]]-based baselines. The authors argue that practical systems should prioritize lightweight combinations of behavioral and physiological signals over full multimodal instrumentation, and they release the EduGage dataset — synchronized multimodal sensor streams, probe-aligned momentary engagement labels, video metadata, quizzes, and study materials — to support reproducible [[research-methods-aied|research]].
 
 ## Key Findings
 
@@ -88,6 +88,7 @@ This aligns with [[adaptive-learning]] principles: real-time learner modeling �
 ## Connected Concepts
 
 - [[adaptive-learning]]
+- [[video-education]] — Video in Education: AI-generated, personalized, and analytics of video learning
 - [[affective-tutoring]]
 - [[self-regulated-learning]]
 - [[student-engagement]]
