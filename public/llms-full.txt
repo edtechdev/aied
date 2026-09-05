@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 183 concepts, 1082 articles, and 17 FAQs.
+> Complete text of 183 concepts, 1083 articles, and 17 FAQs.
 
 # Concepts
 
@@ -4208,11 +4208,11 @@ Online teaching and learning takes several related forms that share the medium b
 
 ## Opportunities and benefits of AI for online teaching and learning
 
-- **Scalable personalization.** Traditional MOOCs excel at reach but struggle to adapt — "one video for N students." [[llm]]-driven agent systems ([[mooc-to-maic|MAIC]]) invert this to "N agents for 1 student," using specialized Teacher, Assistant, Classmate, and Analyzer agents to deliver [[adaptive-learning|adaptive instruction]], personalized feedback, and dynamic learning paths at MOOC scale. Systems like [[learnmate2-llm-adaptive-learning|LearnMate²]] address the "personalization gap" in open online learning with personalized study plans, real-time contextual assistance, and [[adaptive-learning|adaptive]] activities.
+- **Scalable personalization.** Traditional MOOCs excel at reach but struggle to adapt — "one video for N students." [[llm]]-driven agent systems ([[mooc-to-maic|MAIC]]) invert this to "N agents for 1 student," using specialized Teacher, Assistant, Classmate, and Analyzer agents to deliver [[adaptive-learning|adaptive instruction]], personalized feedback, and dynamic learning paths at MOOC scale. Systems like [[learnmate2-llm-adaptive-learning|LearnMate²]] address the "personalization gap" in open online learning with personalized study plans, real-time contextual assistance, and [[adaptive-learning|adaptive]] activities. Personalized video is a concrete route to this goal: [[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]] found students in a large online course preferred AI-generated personalized videos over non-personalized human-recorded ones — a preference whose personalization effect outweighed the value placed on a human presenter — suggesting scalable, [[generative-ai|generative-AI]]-produced personalized media can close the "one video for N students" gap in online instruction.
 - **Always-on, context-embedded support.** In distance and [[adult-learning|adult learning]] contexts where learners study at work or at home, 24/7 support embedded in the course is a major benefit. The [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|Open University's AIDA assistant]] found purpose-built, in-environment GenAI support increased [[student-engagement|engagement]] (doubled usage time in an exploratory trial), with 96% of students wanting it in their formal studies.
 - **Conversational, dialogic tutoring at scale.** [[conversational-ai|Conversational AI]] tutors built on proven [[intelligent-tutoring|intelligent tutoring]] technology ([[conversational-ai-tutors-framework|keep/change/center/study framework]]) promise high-quality, dialogue-based tutoring — engaging students' thoughts, questions, and [[misconceptions]] — that is far more scalable than human tutoring.
 - **Facilitation and analytics.** AI can support [[collaborative-learning|online discussions]] and [[learning-analytics|learning analytics]], forecasting engagement, and helping instructors allocate attention.
-- **Early-warning analytics for at-risk online learners.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] show that interpretable machine learning on content-interaction logs predicts module-level progress and flags dropout ("No submission") outcomes in large-scale online [[cs-education|programming]] courses up to 7–8 days before module deadlines, giving online instructors a concrete window to [[teacher-role|intervene]] with disengaged students rather than discovering failure only after the fact.
+- **Early-warning analytics for at-risk online learners.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] show that interpretable [[reinforcement-learning|machine learning]] on content-interaction logs predicts module-level progress and flags dropout ("No submission") outcomes in large-scale online [[cs-education|programming]] courses up to 7–8 days before module deadlines, giving online instructors a concrete window to [[teacher-role|intervene]] with disengaged students rather than discovering failure only after the fact.
 - **Affordability and speed.** AI can generate course materials at a fraction of traditional cost — MAIC reduced MOOC course production from ~$25K/60 hours to under $2/30 minutes.
 
 ## Challenges of online teaching in the AI era
@@ -4320,6 +4320,7 @@ Online learning is particularly vulnerable: the medium already distances learner
 
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[zhang-ml-student-progress-programming-2026]]
+- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
 
 ---
 
@@ -9055,9 +9056,9 @@ Personalization and [[assessment]] are tightly coupled in AI-driven learning. Ad
 
 ## Personalization in the AI era
 
-[[generative-ai|Generative AI]] has shifted personalization from rule-based [[knowledge-tracing]] to more flexible, conversational adaptation. LLM-based tutors (e.g., [[deeptutor|DeepTutor]], [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutors]]) personalize language, explanation style, and social context, not just problem difficulty. This raises new questions: maintaining learner [[agency]] and productive struggle ([[desirable-difficulties]]), avoiding [[cognitive-offloading|over-personalization]] that removes cognitive effort, and keeping profiles up to date. The knowledge base's [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] literatures address how far personalization should be automated and where human judgment must intervene. Error-specific, in-context feedback is a core locus of LLM personalization: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] showed GPT-4 could tailor corrective hints to the specific nature of a student's error in a College Algebra tutor ~66% of the time when grounded in the tutor's interface and skill estimates — but the ~35% of hints that were too general, incorrect, or gave away the answer underline why personalized LLM feedback still needs robust validation and [[human-in-the-loop-ai|human oversight]] before unsupervised deployment.
+[[generative-ai|Generative AI]] has shifted personalization from rule-based [[knowledge-tracing]] to more flexible, conversational adaptation. LLM-based tutors (e.g., [[deeptutor|DeepTutor]], [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutors]]) personalize language, explanation style, and social context, not just problem difficulty. This raises new questions: maintaining learner [[agency]] and productive struggle ([[desirable-difficulties]]), avoiding [[cognitive-offloading|over-personalization]] that removes cognitive effort, and keeping profiles up to date. The knowledge base's [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] literatures address how far personalization should be automated and where human judgment must intervene. Error-specific, in-context feedback is a core locus of LLM personalization: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] showed GPT-4 could tailor corrective hints to the specific nature of a student's error in a College Algebra tutor ~66% of the time when grounded in the tutor's interface and skill estimates — but the ~35% of hints that were too general, incorrect, or gave away the answer underline why personalized LLM feedback still needs robust validation and [[human-in-the-loop-ai|human oversight]] before unsupervised deployment. Personalized media shows the same promise: in a large online course, [[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]] found students preferred [[generative-ai|AI-generated]] personalized videos over non-personalized human-recorded ones, indicating that scalable content personalization can outweigh the value learners place on a human presenter — although human-recorded personalized content was rated highest when imagined, underscoring that personalization and [[community-of-inquiry|social presence]] act as partially substitutable signals of instructional care.
 
-Reinforcement learning is a distinct mechanism for personalization, and [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] map its empirical track record: their PRISMA review of 89 RL-in-education studies finds RL personalization concentrated in [[higher-ed]] and [[math-education]], with adaptation implemented mainly as content scheduling (n = 53) or guidance-related personalization such as hints and feedback (n = 36). They report that RL policies beat non-adaptive baselines most often on guidance-related adaptation and on [[affective-computing|affective]] variables (63% of tested studies), and that learning gain — especially normalized learning gain — was the most effective reward source — practical guidance for designing reward signals that personalize toward genuine learning rather than engagement.
+Reinforcement learning is a distinct mechanism for personalization, and [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] map its empirical track record: their PRISMA review of 89 RL-in-education studies finds RL personalization concentrated in [[higher-ed]] and [[math-education]], with adaptation implemented mainly as content scheduling (n = 53) or guidance-related personalization such as hints and feedback (n = 36). They report that RL policies beat non-adaptive baselines most often on guidance-related adaptation and on [[affective-computing|affective]] variables (63% of tested studies), and that learning gain — especially normalized learning gain — was the most effective reward source — practical guidance for designing reward signals that personalize toward genuine learning rather than [[student-engagement|engagement]].
 
 ## Terminological ambiguity
 
@@ -9094,6 +9095,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
 - [[ai-coaching-rl-skill-development]] — Reinforcement-learning coaching for skill development
 - [[courseblueprint-adaptive-video-generation]] — Adaptive video generation from course blueprints
+- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[ai-lms-middle-school-longitudinal]] — Longitudinal adaptive learning in a middle-school LMS
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
@@ -58339,6 +58341,44 @@ PARE-M provides six measurement dimensions that could be adapted for [[learning-
 ## Citation
 
 Alzahrani, A. H. (2026). [*Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study*](https://arxiv.org/abs/2605.26870).
+
+---
+
+## [Students Prefer Personalized, AI-Generated Educational Videos over Non-Personalized, Human-Recorded Videos](https://edtechdev.github.io/aied/articles/personalized-ai-generated-videos-preference-2026/)
+
+> **Synthesis:** Tomlinson, Black, Patterson, van der Hoek, Ferguson, and Bietz (2026) field-deploy personalized [[generative-ai|AI-generated]] educational videos as the primary instructional modality in a large online undergraduate course and ask students to rank four video types defined by two crossed dimensions — [[personalized-learning|personalization]] (personalized vs. non-personalized) and source (human-recorded vs. AI-generated). Across two offerings (493 respondents), **personalization outweighed human presence**: students preferred AI-generated personalized videos over non-personalized human-recorded videos (mean rank 2.26 vs. 2.69, p < .001), and 88.4% ranked some personalized video first versus 73.8% for human-recorded. Human-recorded personalized videos were ranked highest overall, but they were a hypothetical condition students never experienced. The authors read the results as a turning point: personalized relevance and conciseness now compensate for, and sometimes surpass, the missing human presenter — pointing toward a complementary model where human instructors provide expertise and social connection while [[generative-ai|generative AI]] supplies scalable personalization.
+
+## Key Findings
+1. **Personalization is a stronger driver of preference than human presence.** In a direct comparison, AI-generated personalized videos beat non-personalized human-recorded videos (mean rank 2.26 vs. 2.69; Wilcoxon signed-rank, p < .001) — stable across both cohorts. Grouped by personalization, 88.4% of students ranked a personalized video (human or AI) as their top choice (binomial p < .001); grouped by source, only 73.8% ranked a human-recorded video first. The magnitude of the personalization effect substantially exceeded the effect of human presence.
+2. **Full preference ordering.** Averaging across both offerings, the four types ranked: hypothetical human-recorded personalized (mean rank ~1.5) > AI-generated personalized (~2.26) > human-recorded non-personalized (~2.69) > AI-generated non-personalized (~3.54). Human-recorded personalized videos were highest, but because none existed, this condition mixes "informed imagination" with lived experience and carries an unknown imagination bias.
+3. **AI video design for personalization.** The team built a custom pipeline with [[human-in-the-loop-ai|human oversight]] at multiple stages: the instructor authored an [[llm]] "ethos" prompt; AI selected 100 topics; for each topic three video versions were generated tailored to business, technology, or society/biology majors (chosen from an AI analysis of enrolled students); each shared three core-content paragraphs and diverged in the last two for domain-specific examples. Scripts were rendered by a HeyGen avatar cloned from the instructor (straight/left/right facing), composited with images, bullet points, titles, and music into 3–5 minute videos, reviewed for correctness, then pushed to YouTube and into Canvas pages.
+4. **Student-stated benefits and drawbacks.** Open-ended responses highlighted relevance (videos "catered to me based off of my interests"), clarity, consistency, and conciseness (more direct than human lectures "filled with jargon/ramble") as benefits. Drawbacks centered on naturalness and expressiveness — the limits of the AI avatar — plus, for a subset of students, principled [[ethics|ethical]] objections to AI use (environmental impact, labor, automation, [[academic-integrity|academic integrity]]) that technical improvement alone cannot address.
+5. **Caveats.** Limitations include the experiential asymmetry across conditions (three were experienced/largely hypothetical/parallel), potential imagination bias and contrast effect (many students' baseline was generic human lecture video, which may inflate the personalization preference via novelty), demand characteristics, a single general-education online course at one university dominated by seniors, and a sustainability-and-computing subject that may bias toward technology-oriented students. Objective learning-outcome data are reported as forthcoming.
+
+## Connected Concepts
+
+- [[personalized-learning]] — the central construct; personalized relevance drove preference
+- [[generative-ai]] — the LLM (GPT-4o, Claude) and HeyGen avatar video-generation pipeline
+- [[online-teaching-and-learning]] — video-based instruction as the primary modality in online courses
+- [[student-engagement]] — personalization as a driver of engagement and preference
+- [[adaptive-learning]] — scalable personalization of pacing/content at course scale
+- [[higher-ed]] — the large undergraduate general-education course context
+- [[pedagogical-agent]] — the AI avatar as a virtual pedagogical agent/presenter
+- [[multimodal]] — AI-generated video combining avatar, image, bullet, and audio modalities
+
+## Connected Articles
+
+- [[ai-generated-instructional-videos-computing-ed]] — student perceptions and preferences of AI-generated instructional videos in computing education
+- [[ai-video-dual-gatekeeping-2026]] — dual gatekeeping for pedagogically grounded AI content (video) creation
+- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: adaptive pedagogical video generation grounded in course corpora
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — how avatar identity shapes epistemic trust in AI-mediated learning
+- [[engagement-assessment-video]] — engagement assessment in video learning
+- [[savvy-student-attention-video-learning]] — student attention visualization for video-based learning
+- [[ai-psychotherapy-training-avatars]] — AI avatar use in (psychotherapy) training contexts
+
+## Citation
+
+Tomlinson, B., Black, R. W., Patterson, D. J., van der Hoek, A., Ferguson, J., & Bietz, M. J. (2026). [Students prefer personalized, AI-generated educational videos over non-personalized, human-recorded videos](https://doi.org/10.1038/s41598-026-52798-9). *Scientific Reports, 16*, 21804.
 
 ---
 
