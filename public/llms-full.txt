@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 183 concepts, 1080 articles, and 17 FAQs.
+> Complete text of 183 concepts, 1081 articles, and 17 FAQs.
 
 # Concepts
 
@@ -557,6 +557,7 @@ Where [[agentic-ai-education-scoping-review|the 474-study scoping review]] and [
 - **Assessment frameworks for agentic tools:** [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] proposes [[teacher-role|teaching]] and assessing computational methods in a way that does not depend on any specific AI tool, emphasizing [[computational-thinking]] fundamentals, [[authentic-assessment|authentic assessment]] via oral defense, and verification — relevant to [[cognitive-offloading|Over-Reliance]] concerns.
 - **Adversarial robustness testing:** [[adversarial-stress-testing-role-playing-agents|Multi-agent stress testing]] coordinates Interrogator, Target, and Judge agents to reveal failure modes invisible to single-strategy testing, reducing robustness scores by 0.17–0.20 points — critical for persona consistency and [[pedagogical-safety|safe deployment]] with learners.
 - **Domain applications:** agentic systems appear across domains, including [[learnmate2-llm-adaptive-learning|adaptive learning agents]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogical LLM agents]], [[guided-llm-scaffolding-independent-learning|guided LLM scaffolding]], [[cyberagents-gamified-cybersecurity-learning-2026|gamified cybersecurity learning agents]], and [[hdr-brachytherapy-agentic-ai-simulation-2026|clinical simulation agents]].
+- **Web agents as learning-experience evaluators:** a single autonomous "describing" web agent that navigates an online [[learning-design|lesson]] like a student — [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] — produces a description rich enough to predict student dropout and give the designer actionable feedback before real learners engage, outperforming a full simulated cohort and every baseline on a global CS1 course. This positions agentic evaluation (an agent as a stand-in critic of a learning experience) as a distinct, low-cost use of agentic AI alongside agents that teach or design.
 
 ### Multi-agent systems
 
@@ -719,6 +720,7 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
+- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a describing agent as a learning-experience evaluator (predicts dropout, gives design feedback before students engage)
 
 ---
 
@@ -1508,7 +1510,7 @@ Learning design bridges AI capabilities and effective pedagogy. Where [[curricul
 
 **Rubric-guided prompting as a design lever.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] demonstrated that the rubric functions as a mediating interface between human pedagogical intent and machine inference: treating assessment criteria as revisable design artifacts — rather than fixed instruments — and iteratively co-refining them with the LLM raised LLM–human agreement on student design work from 54.75% to 81.25%. Rubrics engineered for LLMs must balance precision and flexibility — too vague invites free interpretation, too rigid reduces the model to pattern-matching — and role-aware prompting (instructor, peer reviewer, grant reviewer) yielded distinct evaluative feedback. This positions rubric engineering as a concrete learning-design practice for shaping AI evaluation behavior, with human-in-the-loop oversight remaining essential.
 
-**AI agents for instructional design** extend the field into [[agentic-ai|agentic AI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** is the first standardized, theory-grounded benchmark for evaluating LLM-based instructional design agents — its 25,795-scenario Context Matrix (51 contextual variables × 33 ISD sub-steps from ADDIE) shows that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents, empirically validating that instructional design is a structured discipline rather than a generic prompting task. **[[multi-agent-instructional-design]]** and **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** explore multi-agent frameworks that orchestrate role-based agents around instructional-design models, while **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** examines how teachers and agents jointly apply technological-pedagogical-content knowledge. This work connects instructional design to [[benchmark|benchmarking]], [[ai-ed-evaluation]], and the design of [[curriculum-design|curriculum]] at scale.
+**AI agents for instructional design** extend the field into [[agentic-ai|agentic AI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** is the first standardized, theory-grounded benchmark for evaluating LLM-based instructional design agents — its 25,795-scenario Context Matrix (51 contextual variables × 33 ISD sub-steps from ADDIE) shows that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents, empirically validating that instructional design is a structured discipline rather than a generic prompting task. Agents are not only *builders* of designs but also *critics* of them: [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] use a single autonomous web agent that navigates a multi-step online lesson like a student to evaluate a learning design *before* real learners engage — its description of the student experience predicts where novices will drop out and surfaces actionable design feedback, outperforming every baseline and even a simulated cohort of students on a global CS1 course. This frames pre-launch, agentic evaluation as a low-cost complement to human design iteration. **[[multi-agent-instructional-design]]** and **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** explore multi-agent frameworks that orchestrate role-based agents around instructional-design models, while **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** examines how teachers and agents jointly apply technological-pedagogical-content knowledge. This work connects instructional design to [[benchmark|benchmarking]], [[ai-ed-evaluation]], and the design of [[curriculum-design|curriculum]] at scale.
 
 ### Connections to related concepts
 
@@ -1588,6 +1590,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[pchl-he-framework-genai-content-creation-2026]]
 
 - [[jeon-isd-agent-bench-2026]]
+- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: autonomous web agent evaluates lesson designs and predicts student dropout before students engage (Wang, Mitchell & Piech 2025)
 - [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
 - [[multi-agent-instructional-design]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
@@ -8640,6 +8643,10 @@ The two are complementary rather than competing. A high-fidelity simulated stude
 
 [[studentsim-llm-student-simulators|StudentSim (Yang et al., 2026)]] formalizes the validity problem as two requirements that must hold together: **behavioral fidelity (F)** — how well a simulator matches a student's own responses — and **guidance responsiveness (R)** — how reliably it updates toward where tutor guidance leads. Its benchmark, StudentSimEval, casts public learner corpora (chess, second-language English writing, mathematics) into a standardized per-student protocol on which any simulator is fit and scored on held-out records. A two-stage **pooled-then-specialized** pipeline (a shared pool of behavioral patterns plus a per-student adapter) yields a family of simulators strong on both axes, outperforming domain-specific state-tracking (weak on R) and prompt-only LLM role-play (weak on F). This gives the field a concrete, two-axis vocabulary for judging whether a simulated learner is genuinely useful rather than merely plausible — and, as a proof of concept, a frozen StudentSim used as the reward in a chess-tutor [[reinforcement-learning]] loop produced tutors that experts rated as more accurate, better-guided, and more personalized than those trained with a frontier-LLM-simulator reward or no RL at all.
 
+### Describing, not simulating: when a single agent beats a simulated cohort
+
+A recurring question is whether simulating a distribution of learners is the best way to predict how real students will fare. [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] supply a striking counter-result: for **evaluating an online [[learning-design|learning experience]] before students engage** — predicting dropout and completion and giving design feedback — a **single "describing" [[agentic-ai|web agent]]** that autonomously walks through the lesson and produces a rich description of the student experience outperformed directly simulating a population of students. Their simulated students (persona-conditioned agents sampled to match a predicted completion rate) exhibited far less behavioral range than real learners — across 100 agents on five test lessons they reproduced only about **4% of the paths** real students took — and offered little insight into lesson difficulty, while being substantially more computationally expensive. The single describe-then-predict pipeline (agent-generated descriptions fed to an [[llm]] to predict outcomes) achieved the best dropout-distribution prediction on a massive global CS1 course (mean JSD 0.060, beating every baseline). This is a productive boundary result for the field: simulating a *distribution* of students may be unnecessary — and even counterproductive — when the goal is outcome prediction or design critique, because a faithful description of the experience carries more signal than a narrow slice of simulated trajectories. It also suggests simulation's role may be bounded to questions (e.g., auditing an AI's treatment of diverse profiles, or training teachers) where covering genuine learner variation matters more than aggregate outcome prediction.
+
 ### Authentic-data student models and interactive practice
 
 Two 2026 threads sharpen the practical value of simulation. First, **authentic-data student models** — [[teachlm-post-training-llms-education|TeachLM]] trains a student model on 100,000 hours of real one-on-one tutor–student interactions (with rigorous anonymization), producing synthetic learners that enable fast, scalable, reproducible multi-turn evaluation of tutor behavior; this addresses the low authenticity and diversity of purely prompt-engineered student simulators. Second, **interactive instructional simulacra** — [[educasim-cs1-instructional-practice|EducaSim]] uses generative agents (with personas, course-grounded memories, and an LLM-as-judge speech oracle) to simulate a small-group section for teachers-in-training, adding runnable-code and voice interaction plus structured post-session feedback and self-reflection, and demonstrates low-cost, positive-uptake experiential [[pedagogy|teaching practice]] at the scale of massive online courses. Both point to simulation serving not only evaluation but hands-on teacher preparation.
@@ -8689,6 +8696,7 @@ Simulation also extends beyond individual learners to reproducing the social dyn
 
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
+- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a single describing agent beats simulating a distribution of students for predicting dropout and design critique
 
 ---
 
@@ -26762,6 +26770,46 @@ Deutscher, V., Thomann, H., Zlatkin-Troitschanskaia, O., Weyland, U., Abele, S.,
 ## Citation
 
 Nourashrafi, F. K., Alavinia, P., & Darvishi, S. (2026). [*AI-Generated versus Human-Developed Assessment Tasks in EFL Context: Insights from TPCK Model*](https://doi.org/10.1016/j.caeo.2026.100415). *Computers and Education Open*, 100415. https://doi.org/10.1016/j.caeo.2026.100415
+
+---
+
+## [AI Web Agents Can Effectively Guide Lesson Design and Predict Student Outcomes](https://edtechdev.github.io/aied/articles/ai-web-agents-lesson-design-2025/)
+
+> **Synthesis:** Wang, Mitchell, and Piech (2025) show that a single [[multimodal]] [[llm|LLM]]-based [[agentic-ai|web agent]] can evaluate an online [[learning-design|learning experience]] *before* real students engage with it — autonomously navigating a multi-step lesson like a learner, generating a rich description of the [[student-experience|student experience]], and using that description to predict where students will drop out and to give designers actionable feedback. Validated on Code in Place, an open-access global CS1 course (6,515 students, 149 countries), agent-generated descriptions significantly improved dropout-distribution prediction (mean JSD 0.060), beating every baseline and ablations that lacked them. Notably, the authors found that a **single describing agent outperformed simulating an entire distribution of [[simulating-students|simulated student]] agents** — simulated students reproduced only ~4% of real student paths and were far more expensive, a cautionary result for the field.
+
+## Key Findings
+1. **A two-phase "describe, don't simulate" agent beats multi-agent student [[simulation]].** The authors propose a single-agent pipeline: in phase one a web agent (built on WebVoyager) steps through the lesson — screenshotting pages, reading interactive elements, and parsing audio transcripts — producing a comprehensive description of the student experience (what is presented, what [[prior-knowledge|prior knowledge]] is required, how content is delivered, what the UI looks like, and where students might struggle). In phase two that description is fed to an LLM to predict outcomes and give design feedback. Directly simulating a distribution of students with persona-conditioned agents was both substantially more expensive and less informative — across 100 agents on five test lessons, simulated students covered only about 4% of the paths real students took, offering little insight into lesson difficulty.
+2. **Agent descriptions dramatically improve dropout prediction.** Across 11 lessons in Code in Place, the agent-based method achieved an average Jensen–Shannon Divergence of 0.060 ± 0.003 between predicted and true dropout distributions — significantly lower (p = 0.000) than every other approach. Baselines scored 0.114 (sample) and 0.176 (regression); an LLM given only target-lesson details scored 0.116, adding previous-lesson details changed little (0.115), and adding real transfer data improved it to 0.100. Removing any single question from the agent's prompt nearly doubled the error, underscoring the value of each descriptive dimension.
+3. **Dropout prediction is the clear win; completion-rate prediction is mixed.** For completion rates, agent descriptions offered a modest improvement for LLM methods (0.055 → 0.051), but a polynomial regression baseline achieved the lowest error overall (0.048), suggesting the agents do not capture all the factors driving whether students finish a lesson.
+4. **Case studies show the agent can compare lesson designs and flag confusion.** Across four deliberately altered lesson versions, the agent (with an o1 comparator) preferred keeping a for-loops lecture video for novices, adopted shorter videos plus interactive fill-in-the-code exercises over long videos, recommended an always-visible lesson outline with progress indicators, and — strikingly — only succeeded in completing a Karel exercise when Karel was depicted as an arrow (whose directionality was most intuitive) rather than a robot or turtle. This demonstrates the agent can identify confusing content and explain the [[pedagogy|pedagogical]] impact of design choices.
+5. **A new [[benchmark]] framing.** The paper poses the *Zero-Shot Learning Experience Evaluation Challenge*: predict student outcomes and extract actionable design insights without testing on real students. It frames completion rate and the dropout distribution (where along the lesson students who start but don't finish are most likely to leave) as the two falsifiable, quantifiable validation metrics.
+
+## Connected Concepts
+
+- [[learning-design]] — the web agent evaluates a learning experience holistically, blending pedagogy with UI interaction, before students engage
+- [[agentic-ai]] — autonomous, goal-directed web agents that navigate and act on interfaces rather than only answering prompts
+- [[simulating-students]] — the paper's central finding that a single describing agent outperforms simulated student populations
+- [[student-modeling]] — predicting dropout and completion as outcome modeling from agent-generated descriptions
+- [[cs-education]] — the Code in Place CS1 validation context; Karel, control flow, terminal, expressions lessons
+- [[online-teaching-and-learning]] — massive open-access online course evaluation at scale
+- [[generative-ai]] — GPT-4o (agent) and o1 (comparator/predictor) multimodal LLMs
+- [[llm]] — the underlying large language models
+- [[ai-ed-evaluation]] — using AI to evaluate learning experiences and give design feedback without human testers
+- [[pedagogical-agent]] — webVoyager-based agent that behaves like a student navigating the interface
+
+## Connected Articles
+
+- [[agentschool-multi-agent-simulation-education-2026]] — multi-agent simulation of education, contrasted with the single-agent finding here
+- [[llm-student-simulation-misconception-faithfulness]] — simulating students or sycophantic problem solving; epistemic fidelity versus the ~4% path coverage reported here
+- [[valid-student-simulation-llm-2026]] — validity criteria for simulated students; the competence paradox relates to why simulated agents underperform describing agents
+- [[zhang-ml-student-progress-programming-2026]] — predicting dropout and progress in large-scale online programming courses
+- [[jeon-isd-agent-bench-2026]] — benchmarking LLM agents for instructional design; complementary to using agents to evaluate designs
+- [[mooc-to-maic]] — AI agents reshaping MOOC learning, the "N agents for 1 student" inversion versus "one video for N students"
+- [[genai-educational-outcomes-meta-analysis]] — predicting educational outcomes with generative AI
+
+## Citation
+
+Wang, S., Mitchell, J., & Piech, C. (2025). [AI Web Agents Can Effectively Guide Lesson Design and Predict Student Outcomes](https://doi.org/10.1007/978-3-031-98417-4_21). *In Artificial Intelligence in Education (AIED 2025),* pp. 290–304. Springer.
 
 ---
 

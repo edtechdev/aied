@@ -1,8 +1,8 @@
 # Index
 
-Last updated: 2026-09-04
+Last updated: 2026-09-05
 
-Articles: 1080 | Concepts: 183 | FAQs: 17
+Articles: 1081 | Concepts: 183 | FAQs: 17
 
 ## Concepts
 
@@ -169,6 +169,7 @@ Articles: 1080 | Concepts: 183 | FAQs: 17
 - [[ai-vocal-pedagogy-2026]] — Beyond Output Metrics: Reframing AI-Assisted Vocal Pedagogy Through Human Learning and Educational Value
 - [[ai-vocational-education-training-review]] — Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-Generated versus Human-Developed Assessment Tasks in EFL Context: Insights from TPCK Model
+- [[ai-web-agents-lesson-design-2025]] — AI Web Agents Can Effectively Guide Lesson Design and Predict Student Outcomes
 - [[ai-writes-code-student-writes-model-2026]] — The AI Writes the Code, the Student Writes the Model: A Theory and Measurement Programme for Learning by Construction with Generative AI
 - [[ai-writing-support-stage-ownership-2026]] — From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership
 - [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
