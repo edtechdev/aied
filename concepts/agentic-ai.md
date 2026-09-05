@@ -1,7 +1,7 @@
 ---
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-09-04T15:40:00-04:00"
+updated: "2026-09-05T00:10:31-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop-ai, agency, cognitive-offloading]
@@ -50,6 +50,7 @@ Where [[agentic-ai-education-scoping-review|the 474-study scoping review]] and [
 - **Assessment frameworks for agentic tools:** [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] proposes [[teacher-role|teaching]] and assessing computational methods in a way that does not depend on any specific AI tool, emphasizing [[computational-thinking]] fundamentals, [[authentic-assessment|authentic assessment]] via oral defense, and verification — relevant to [[cognitive-offloading|Over-Reliance]] concerns.
 - **Adversarial robustness testing:** [[adversarial-stress-testing-role-playing-agents|Multi-agent stress testing]] coordinates Interrogator, Target, and Judge agents to reveal failure modes invisible to single-strategy testing, reducing robustness scores by 0.17–0.20 points — critical for persona consistency and [[pedagogical-safety|safe deployment]] with learners.
 - **Domain applications:** agentic systems appear across domains, including [[learnmate2-llm-adaptive-learning|adaptive learning agents]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogical LLM agents]], [[guided-llm-scaffolding-independent-learning|guided LLM scaffolding]], [[cyberagents-gamified-cybersecurity-learning-2026|gamified cybersecurity learning agents]], and [[hdr-brachytherapy-agentic-ai-simulation-2026|clinical simulation agents]].
+- **Web agents as learning-experience evaluators:** a single autonomous "describing" web agent that navigates an online [[learning-design|lesson]] like a student — [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] — produces a description rich enough to predict student dropout and give the designer actionable feedback before real learners engage, outperforming a full simulated cohort and every baseline on a global CS1 course. This positions agentic evaluation (an agent as a stand-in critic of a learning experience) as a distinct, low-cost use of agentic AI alongside agents that teach or design.
 
 ### Multi-agent systems
 
@@ -212,3 +213,4 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
+- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a describing agent as a learning-experience evaluator (predicts dropout, gives design feedback before students engage)
