@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-05
 
-Articles: 1083 | Concepts: 184 | FAQs: 17
+Articles: 1084 | Concepts: 184 | FAQs: 17
 
 ## Concepts
 
@@ -54,6 +54,7 @@ Articles: 1083 | Concepts: 184 | FAQs: 17
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-advice-suppresses-ikt-suspension-2026]] — AI Advice Suppresses People's Willingness to Say \"I Don't Know\", Even When the Advice Is Wrong and Accuracy Is Incentivized
+- [[ai-agents-complete-lms-assessment-validity-2026]] — AI Agents Can Now Navigate and Complete LMS Tasks: A Call for Pedagogical Innovation
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
 - [[ai-anxiety-and-stress]] — AI Anxiety and Stress

@@ -3,6 +3,7 @@
 Last updated: 2026-09-05 | Total entries: 1249
 
 ## 2026-09-05
+- 📄 [[ai-agents-complete-lms-assessment-validity-2026]] — AI Agents Can Now Navigate and Complete LMS Tasks: A Call for Pedagogical Innovation
 - 📘 [[video-education]] — Video in Education
 - 📄 [[personalized-ai-generated-videos-preference-2026]] — Students Prefer Personalized, AI-Generated Educational Videos over Non-Personalized, Human-Recorded Videos
 - 📄 [[creative-project-approach-ai-early-childhood-2025]] — Tailoring AI Agents for Early Learning: The Creative Project Approach
