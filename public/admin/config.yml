@@ -27,7 +27,10 @@ backend:
   base_url: https://sveltia-cms-auth.doug-holton.workers.dev
 
 # We have no content media folders; concepts and FAQs are text-only.
-# (Set media_folder/public_folder later if image uploads are ever wanted.)
+# media_folder is still required (internal storage is on by default). Uploads
+# would land in public/uploads and resolve at /uploads.
+media_folder: /public/uploads
+public_folder: /uploads
 
 output:
   yaml:
