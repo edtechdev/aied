@@ -4,7 +4,8 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-01T10:00:00-04:00"
 type: article
 sources: ["raw/papers/item-writing-flaws-irt-difficulty-2026.md"]
-tags: ["item-response-theory", "item-writing-flaws", "item-analysis", "large-language-models", "automated-coding", "assessment-quality", "stem-assessment"]
+tags: ['item-response-theory', 'educational-measurement', 'llm', 'automated-assessment', 'assessment-validity']
+confidence: medium
 ---
 
 ## Overview

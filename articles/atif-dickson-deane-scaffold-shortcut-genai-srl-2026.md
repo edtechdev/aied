@@ -8,7 +8,8 @@ audience: [learners, instructors]
 research_method: [mixed methods]
 discipline: [engineering education]
 level: [higher ed]
-sources: ["https://doi.org/10.20851/ll.v8.63"]
+sources: ['raw/papers/atif-dickson-deane-scaffold-shortcut-genai-srl-2026.md']
+source_url: 'https://doi.org/10.20851/ll.v8.63'
 confidence: high
 ---
 

@@ -5,6 +5,7 @@ updated: "2026-09-01T15:00:00-04:00"
 type: article
 sources: ["raw/papers/ai-modelling-problem-generation-platform-2026.md"]
 tags: ["math-education", "generative-ai", "learning-design", "curriculum-design", "intelligent-tutoring"]
+confidence: medium
 ---
 
 ## Overview

@@ -7,7 +7,8 @@ tags: [learning-analytics, learning-design, self-determination-theory, generativ
 research_method: [survey, interviews]
 level: [higher ed]
 category: [instructional design]
-sources: ["https://doi.org/10.1186/s41239-026-00619-4"]
+sources: ['raw/papers/claassen-learning-analytics-genai-learning-design-2026.md']
+source_url: 'https://doi.org/10.1186/s41239-026-00619-4'
 confidence: high
 ---
 

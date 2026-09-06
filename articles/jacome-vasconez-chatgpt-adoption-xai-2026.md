@@ -8,6 +8,7 @@ research_method: [survey, machine-learning]
 audience: [instructors, administrators, researchers]
 level: [higher ed]
 sources: ["raw/papers/jacome-vasconez-chatgpt-adoption-xai-2026.md"]
+confidence: medium
 ---
 
 ## Overview

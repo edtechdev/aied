@@ -6,7 +6,8 @@ type: article
 tags: [self-regulated-learning, generative-ai, cognitive-offloading, higher-ed, metacognition, learning-analytics]
 research_method: [mixed methods]
 level: [higher ed]
-sources: ["https://doi.org/10.20851/ll.v8.61"]
+sources: ['raw/papers/lim-bannert-student-regulation-genai-chatbot-2026.md']
+source_url: 'https://doi.org/10.20851/ll.v8.61'
 confidence: high
 ---
 

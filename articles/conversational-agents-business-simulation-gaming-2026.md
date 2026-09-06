@@ -8,6 +8,7 @@ research_method: [action design research]
 discipline: [business and economics education]
 level: [higher ed]
 sources: ["raw/papers/conversational-agents-business-simulation-gaming-2026.md"]
+confidence: medium
 ---
 
 ## Overview

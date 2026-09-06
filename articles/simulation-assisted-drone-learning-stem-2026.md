@@ -5,6 +5,7 @@ updated: "2026-09-01T15:00:00-04:00"
 type: article
 sources: ["raw/papers/simulation-assisted-drone-learning-stem-2026.md"]
 tags: ["simulation", "stem-education", "generative-ai", "intelligent-tutoring", "teacher-role"]
+confidence: medium
 ---
 
 ## Overview

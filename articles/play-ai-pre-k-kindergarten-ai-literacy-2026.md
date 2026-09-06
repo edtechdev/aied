@@ -5,6 +5,7 @@ updated: "2026-09-01T12:00:00-04:00"
 type: article
 sources: ["raw/papers/play-ai-pre-k-kindergarten-ai-literacy-2026.md"]
 tags: ["ai-literacy", "early-childhood-elementary-ai-education", "design-based-research", "educational-robotics", "game-based-learning"]
+confidence: medium
 ---
 
 ## Overview

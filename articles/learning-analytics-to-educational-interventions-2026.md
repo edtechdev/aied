@@ -3,7 +3,7 @@ title: "From Learning Analytics to Educational Interventions: Enhancing Decision
 created: "2026-08-30T16:45:00-04:00"
 updated: "2026-08-30T16:45:00-04:00"
 type: article
-tags: [learning-analytics, learning-design, higher-ed, governance, ethics, decision-making, data, self-regulated-learning]
+tags: ['learning-analytics', 'learning-design', 'higher-ed', 'governance', 'ethics', 'self-regulated-learning']
 research_method: [delphi, group decision making]
 discipline: [learning analytics]
 level: [higher ed]

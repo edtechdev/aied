@@ -4,7 +4,8 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-01T10:00:00-04:00"
 type: article
 sources: ["raw/papers/tpack-genai-inservice-teachers-mediation-2026.md"]
-tags: ["tpack-genai", "teacher-competencies", "generative-ai", "professional-development", "mixed-methods", "technology-integration", "pedagogical-knowledge"]
+tags: ['tpack', 'teacher-ai-competency', 'generative-ai', 'educational-development', 'mixed-methods-research']
+confidence: medium
 ---
 
 ## Overview

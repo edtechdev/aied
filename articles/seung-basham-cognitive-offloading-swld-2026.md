@@ -7,7 +7,8 @@ tags: [cognitive-offloading, special-education, inclusive-learning, ai-literacy,
 audience: [learners, instructors]
 research_method: [literature review]
 level: [special education]
-sources: ["https://doi.org/10.1177/07319487261439132"]
+sources: ['raw/papers/seung-basham-cognitive-offloading-swld-2026.md']
+source_url: 'https://doi.org/10.1177/07319487261439132'
 confidence: high
 ---
 

@@ -3,7 +3,7 @@ title: "A systematic review of the roles of agentic AI in higher education"
 created: "2026-09-04T14:13:20-04:00"
 updated: "2026-09-04T14:13:20-04:00"
 type: article
-tags: [agentic-ai, higher-ed, systematic-review, intelligent-tutoring, generative-ai, ai-literacy, ethics, governance, assessment, academic-integrity, faculty-development]
+tags: ['agentic-ai', 'higher-ed', 'meta-analysis-systematic-review', 'intelligent-tutoring', 'generative-ai', 'ai-literacy', 'ethics', 'governance', 'assessment', 'academic-integrity', 'educational-development']
 research_method: [systematic review]
 audience: [instructors, administrators, researchers, instructional designers]
 level: [higher ed]

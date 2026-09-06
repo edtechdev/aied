@@ -3,13 +3,7 @@ title: Can Generative Artificial Intelligence Reliably Score Open-Ended Question
 created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: article
-tags:
-  - generative-ai
-  - automated-assessment
-  - medical-education
-  - grading
-  - llm
-  - rubric-based-assessment
+tags: ['generative-ai', 'automated-assessment', 'medical-education', 'assessment', 'llm']
 sources:
   - raw/papers/olvet-genai-scoring-open-ended-medical-2026.md
 confidence: high

@@ -4,7 +4,8 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-01T10:00:00-04:00"
 type: article
 sources: ["raw/papers/ai-divide-ses-personality-primary-education-2026.md"]
-tags: ["digital-divide", "educational-inequality", "primary-education", "personality-traits", "ai-usage", "digital-literacy"]
+tags: ['digital-divide', 'equity-in-ai-education']
+confidence: medium
 ---
 
 ## Overview

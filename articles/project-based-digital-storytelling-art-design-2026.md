@@ -5,6 +5,7 @@ updated: "2026-09-01T15:00:00-04:00"
 type: article
 sources: ["raw/papers/project-based-digital-storytelling-art-design-2026.md"]
 tags: ["project-based-learning", "storytelling-in-education", "generative-ai", "creativity", "higher-ed"]
+confidence: medium
 ---
 
 ## Overview

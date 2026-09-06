@@ -3,7 +3,7 @@ title: "What Students Ask Matters: LLM Interaction Depth, Task Quality, and Imme
 created: "2026-08-30T16:50:00-04:00"
 updated: "2026-08-30T16:50:00-04:00"
 type: article
-tags: [llm, conversational-ai, learning-analytics, higher-ed, prompt-engineering, cognitive-offloading, self-regulated-learning, metacognition, knowledge-recall]
+tags: ['llm', 'conversational-ai', 'learning-analytics', 'higher-ed', 'prompt-engineering', 'cognitive-offloading', 'self-regulated-learning', 'metacognition']
 research_method: [experiment, quantitative, process-outcome modeling]
 discipline: [higher education]
 level: [higher ed]

@@ -3,7 +3,7 @@ title: "Layer-Sensitive Cognitive Offloading in Generative AI-Assisted Writing: 
 created: "2026-08-30T16:30:00-04:00"
 updated: "2026-08-30T16:30:00-04:00"
 type: article
-tags: [cognitive-offloading, writing-education, self-regulated-learning, generative-ai, metacognition, transfer-of-learning, learner-agency, higher-ed]
+tags: ['cognitive-offloading', 'writing-education', 'self-regulated-learning', 'generative-ai', 'metacognition', 'transfer-of-learning', 'agency', 'higher-ed']
 research_method: [quasi-experiment, quantitative]
 discipline: [writing education]
 level: [higher ed]

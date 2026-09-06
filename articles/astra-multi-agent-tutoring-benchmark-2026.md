@@ -5,6 +5,7 @@ updated: "2026-09-01T15:00:00-04:00"
 type: article
 sources: ["raw/papers/astra-multi-agent-tutoring-benchmark-2026.md"]
 tags: ["simulation", "agentic-ai", "learning-analytics", "collaborative-learning", "benchmark"]
+confidence: medium
 ---
 
 ## Overview

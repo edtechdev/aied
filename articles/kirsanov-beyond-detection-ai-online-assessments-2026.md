@@ -7,7 +7,8 @@ tags: [ai-use-disclosure, academic-integrity, assessment, higher-ed, generative-
 research_method: [survey, case study]
 level: [higher ed]
 category: [assessment]
-sources: ["https://doi.org/10.1007/s10805-025-09691-3"]
+sources: ['raw/papers/kirsanov-beyond-detection-ai-online-assessments-2026.md']
+source_url: 'https://doi.org/10.1007/s10805-025-09691-3'
 confidence: high
 ---
 

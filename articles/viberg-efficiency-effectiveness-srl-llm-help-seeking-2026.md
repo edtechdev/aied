@@ -7,7 +7,8 @@ tags: [self-regulated-learning, help-seeking, llm, higher-ed, stem-education, qu
 research_method: [qualitative]
 discipline: [stem education]
 level: [higher ed]
-sources: ["https://doi.org/10.20851/ll.v8.60"]
+sources: ['raw/papers/viberg-efficiency-effectiveness-srl-llm-help-seeking-2026.md']
+source_url: 'https://doi.org/10.20851/ll.v8.60'
 confidence: high
 ---
 
