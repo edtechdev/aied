@@ -1,6 +1,9 @@
 # Journal
 
-Last updated: 2026-09-05 | Total entries: 1274
+Last updated: 2026-09-06 | Total entries: 1275
+
+## 2026-09-06
+- 📄 [[spec-driven-development-ai-agents-sdpbl-2026]] — Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL
 
 ## 2026-09-05
 - 📄 [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Bridging the Gender Gap in STEM Education with AI: Female-Coded Chatbot as Role Model and Learning Assistant

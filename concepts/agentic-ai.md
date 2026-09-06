@@ -1,7 +1,7 @@
 ---
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-09-05T01:20:00-04:00"
+updated: "2026-09-06T04:56:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop-ai, agency, cognitive-offloading]
@@ -64,6 +64,7 @@ A step beyond orchestrating a few specialised agents is the **full agentic multi
 ## The central tension: automation vs. learning
 
 The [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] work articulates the field's defining tension: as education AI shifts from passive [[conversational-ai|chatbots]] to **proactive agents** that initiate and pursue goals, personalization improves but **learner [[agency]] and cognitive effort** are at risk. The more an agent automates, the less [[cognitive-offloading|cognitive work]] the learner does. The design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — acts as a principled guardrail. This connects to [[desirable-difficulties]], [[sociocultural-learning]], and the risk of [[cognitive-offloading|Over-Reliance]], and to the broader theme of preserving [[agency]] in AI-mediated learning.
+One empirical check comes from [[spec-driven-development-ai-agents-sdpbl-2026|a practical report on Spec-Driven Development in a software PBL course (Tanaka et al. 2026)]]: students using AI agents across development phases generated more code but showed code-comprehension dips that recovered only after instructor one-on-one interviews - concrete field evidence for the automation-vs-learning tension and for [[human-in-the-loop-ai|human-in-the-loop]] monitoring as the mitigation.
 
 The survey literature turns these principles into **measurable design [[guardrails]]** rather than vague intentions. On scaffolding, [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al. (2025)]] recommend **fading protocols** — gradually reduce hint frequency after each successful attempt — and targeting a **[[help-seeking]] ratio (AI-initiated hints ÷ total student actions) below 0.3**, so the agent is not the one driving most of the interaction. They pair this with **reflective checkpoints** (e.g., ask the learner to explain their reasoning before the agent offers the next cue) and adaptive fading curves whose intervention likelihood drops as proficiency rises. On transparency, agents should expose a "Why this suggestion?" rationale and keep **timestamped decision-traceability logs** (agent rationale, data sources, decisions) available for instructional auditing. On [[bias-mitigation|fairness]], they advise pre-deployment **disparate-impact testing across at least three demographic groups** (e.g., gender, language, geography) and involving diverse teachers in design. These metrics give an instructor or designer an audit lever: rather than asking "is the agent too helpful?", measure whether hints are fading, whether the learner is initiating, and whether the agent's reasoning is inspectable.
 
@@ -216,3 +217,4 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a describing agent as a learning-experience evaluator (predicts dropout, gives design feedback before students engage)
+- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in software PBL; automation vs. comprehension

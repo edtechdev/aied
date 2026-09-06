@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-04T04:39:00-04:00"
+updated: "2026-09-06T04:56:00-04:00"
 type: concept
 tags: [cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 audience: [learners]
@@ -72,7 +72,9 @@ The knowledge base's articles document cognitive offloading across multiple dime
 
 **Over-reliance** is the excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. It is the behavioral manifestation of excessive cognitive offloading: when offloading becomes the default rather than a strategic choice. Over-reliance is not simply about using AI too much — it is about using AI in ways that substitute for rather than complement learning processes.
 
-The knowledge base's research documents over-reliance as one of the most consequential risks of AI in education:
+The knowledge base's research documents over-reliance as one of the 
+- **Agentic coding offloads comprehension in the field:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] report that undergraduates using [[agentic-ai|AI agents]] in a software project course wrote more code year-over-year but showed comprehension dips under heavy use - recoverable through one-on-one instructor verification of AI-generated code.
+most consequential risks of AI in education:
 
 - **Learning displacement:** [[ai-making-us-stupid|Research on AI's cognitive effects]] documents how AI availability reduces effortful processing — the "Google effect extended to reasoning." [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] isolate this as a distinct *pattern* of use: **low-verification uptake** (uncritically accepting AI output) predicted worse [[learning-gains|academic performance]], whereas **evaluative integration** (using AI to support understanding) predicted better performance — and usage **frequency** alone predicted neither. Over-reliance is therefore a *mode of use* that can be separated from how much students use AI.
 - **The agency problem:** [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames over-reliance as an agency and motivation crisis — students bypass learning not because AI is compelling, but because learning tasks feel pointless when AI can complete them effortlessly.
@@ -170,4 +172,4 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Documents effort-substitution harm from unguarded AI access
-
+- [[spec-driven-development-ai-agents-sdpbl-2026]] - AI-agent code generation and comprehension offloading in a PBL course
