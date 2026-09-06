@@ -5,7 +5,7 @@ updated: "2026-08-30T16:50:00-04:00"
 type: article
 tags: ['llm', 'conversational-ai', 'learning-analytics', 'higher-ed', 'prompt-engineering', 'cognitive-offloading', 'self-regulated-learning', 'metacognition']
 research_method: [experiment, quantitative, process-outcome modeling]
-discipline: [higher education]
+discipline: []
 level: [higher ed]
 sources: ['raw/papers/10.1186_s41239-026-00617-6.md']
 confidence: high

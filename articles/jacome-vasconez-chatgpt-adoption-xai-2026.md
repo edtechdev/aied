@@ -4,7 +4,7 @@ created: "2026-09-03T14:20:00-04:00"
 updated: "2026-09-03T14:20:00-04:00"
 type: article
 tags: [technology-acceptance-model, ai-literacy, higher-ed, generative-ai, trust, learning-analytics, academic-integrity, self-regulated-learning, critical-thinking, teacher-role, ethics, governance, educational-policy-ai]
-research_method: [survey, machine-learning]
+research_method: [survey]
 audience: [instructors, administrators, researchers]
 level: [higher ed]
 sources: ["raw/papers/jacome-vasconez-chatgpt-adoption-xai-2026.md"]
