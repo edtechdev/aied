@@ -83,7 +83,6 @@ For [[ai-education|AI in education]], the review's map carries several concrete 
 - [[equity-in-ai-education]]
 - [[governance]]
 - [[academic-integrity]]
-
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[higher-ed]]

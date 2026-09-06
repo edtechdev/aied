@@ -19,8 +19,18 @@ This pulls from the journals configured in `tooling/config.example.yaml` (`journ
 
 The fetcher filters out corrigenda, retractions, errata, and issue info — only original research articles remain.
 
-### 2. Check for existing articles
-Read /tmp/rss-articles.json. Skip any article whose DOI or title already matches an article in `articles/` or a raw source in `raw/papers/`.
+### 2. Check for existing articles — CONTENT-based dedup (HARD)
+Read /tmp/rss-articles.json. For EVERY candidate, extract its DOI (and title) and search **the contents** of `articles/` AND `raw/papers/` for that DOI string and a normalized title match before treating it as new.
+
+**CRITICAL — do NOT dedup by filename.** Article and raw-source files are **descriptive-slugged** (e.g. `agentic-ai-education-scoping-review-2026.md`), NOT DOI-derived (there is no `raw/papers/10.1016-j.caeai.2026.100653.md`). A filename match therefore MISSES already-ingested papers, which is how fully-ingested articles ended up re-added to the backlog on 2026-09-06. The reliable signal is the **DOI string itself**, which always appears (a) in the article's `## Citation` as `](https://doi.org/<doi>)` and (b) in the raw file's `source_url:` frontmatter.
+
+Robust procedure:
+1. For each candidate, get its DOI from Crossref (`curl -s https://api.crossref.org/works/<doi>` → `message.DOI`). If no DOI, fall back to title.
+2. Grep that DOI (and the normalized title, lowercase/punctuation-stripped) across ALL of `articles/*.md` and `raw/papers/*.md` **file contents** with `grep -l` / Python. Match on the DOI substring (it appears in the Citation and raw `source_url`) OR a normalized-title substring.
+3. If ANY existing article or raw source contains the DOI or matching title → **already ingested; skip** (do not add to backlog, do not refetch).
+4. Only articles with NO DOI/title match anywhere are new.
+
+Run this dedup against file CONTENTS every time — never by filename, never by assuming the slug encodes the source.
 
 ### 3. Check open access before ingesting
 For each NEW article, fetch the article page URL using `web_extract`.
