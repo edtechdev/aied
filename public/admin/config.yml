@@ -80,7 +80,7 @@ collections:
         label: Audience
         widget: select
         multiple: true
-        options: [administrators, assessment designers, assessment professionals, curriculum designers, designers, edtech designers, educators, elementary education, faculty development, institutions, instructional designers, instructors, learners, learning analytics designers, learning designers, medical educators, policymakers, researchers, software developers, students, teacher educators, teachers]
+        options: [administrators, assessment designers, assessment professionals, curriculum designers, designers, edtech designers, educators, faculty development, institutions, instructional designers, instructors, learners, learning analytics designers, learning designers, medical educators, policymakers, researchers, software developers, students, teacher educators, teachers]
         required: false
       - name: level
         label: Level
@@ -92,19 +92,19 @@ collections:
         label: Category
         widget: select
         multiple: true
-        options: [ai foundations, assessment, collaborative learning, curriculum design, design thinking, engagement, equity, evaluation, framework, instructional design, miscellaneous, policy, synthesis]
+        options: [ai foundations, assessment, collaborative learning, curriculum design, design thinking, engagement, equity, evaluation, framework, instructional design, policy, synthesis]
         required: false
       - name: research_method
         label: Research Method
         widget: select
         multiple: true
-        options: [action design research, benchmark, bibliometric, case study, comparative study, conceptual, delphi, design and evaluation study, design-based research, educational measurement, experiment, framework proposal, group decision making, instrument development, interviews, learning analytics, literature review, longitudinal, longitudinal study, longitudinal survey, machine-learning, meta-analysis, mixed methods, policy analysis, position paper, process-outcome modeling, qualitative, quantitative, quasi-experiment, randomized controlled trial, research methods, secondary analysis, structural equation modeling, survey, system development, systematic review, thematic analysis, theoretical analysis, user study]
+        options: [action design research, benchmark, bibliometric, case study, delphi, design and evaluation study, design-based research, educational measurement, experiment, instrument development, interviews, learning analytics, literature review, longitudinal, longitudinal study, longitudinal survey, meta-analysis, mixed methods, policy analysis, position paper, process-outcome modeling, qualitative, quantitative, quasi-experiment, randomized controlled trial, research methods, secondary analysis, structural equation modeling, survey, system development, systematic review, thematic analysis, theoretical analysis, user study]
         required: false
       - name: discipline
         label: Discipline
         widget: select
         multiple: true
-        options: [biology education, business education, chemistry education, cs education, discipline specific, engineering education, english education, higher education, humanities education, information technology, language learning, learning analytics, learning sciences, math education, medical education, physics education, science education, stem education, writing education]
+        options: [biology education, business education, chemistry education, cs education, engineering education, english education, humanities education, information technology, language learning, learning analytics, learning sciences, math education, medical education, physics education, science education, stem education, writing education]
         required: false
       # 'body' is stored below the frontmatter block as verbatim Markdown.
       - name: body
@@ -142,7 +142,7 @@ collections:
         label: Audience
         widget: select
         multiple: true
-        options: [administrators, assessment designers, assessment professionals, curriculum designers, designers, edtech designers, educators, elementary education, faculty development, institutions, instructional designers, instructors, learners, learning analytics designers, learning designers, medical educators, policymakers, researchers, software developers, students, teacher educators, teachers]
+        options: [administrators, assessment designers, assessment professionals, curriculum designers, designers, edtech designers, educators, faculty development, institutions, instructional designers, instructors, learners, learning analytics designers, learning designers, medical educators, policymakers, researchers, software developers, students, teacher educators, teachers]
         required: false
       - name: level
         label: Level
@@ -154,19 +154,19 @@ collections:
         label: Category
         widget: select
         multiple: true
-        options: [ai foundations, assessment, collaborative learning, curriculum design, design thinking, engagement, equity, evaluation, framework, instructional design, miscellaneous, policy, synthesis]
+        options: [ai foundations, assessment, collaborative learning, curriculum design, design thinking, engagement, equity, evaluation, framework, instructional design, policy, synthesis]
         required: false
       - name: research_method
         label: Research Method
         widget: select
         multiple: true
-        options: [action design research, benchmark, bibliometric, case study, comparative study, conceptual, delphi, design and evaluation study, design-based research, educational measurement, experiment, framework proposal, group decision making, instrument development, interviews, learning analytics, literature review, longitudinal, longitudinal study, longitudinal survey, machine-learning, meta-analysis, mixed methods, policy analysis, position paper, process-outcome modeling, qualitative, quantitative, quasi-experiment, randomized controlled trial, research methods, secondary analysis, structural equation modeling, survey, system development, systematic review, thematic analysis, theoretical analysis, user study]
+        options: [action design research, benchmark, bibliometric, case study, delphi, design and evaluation study, design-based research, educational measurement, experiment, instrument development, interviews, learning analytics, literature review, longitudinal, longitudinal study, longitudinal survey, meta-analysis, mixed methods, policy analysis, position paper, process-outcome modeling, qualitative, quantitative, quasi-experiment, randomized controlled trial, research methods, secondary analysis, structural equation modeling, survey, system development, systematic review, thematic analysis, theoretical analysis, user study]
         required: false
       - name: discipline
         label: Discipline
         widget: select
         multiple: true
-        options: [biology education, business education, chemistry education, cs education, discipline specific, engineering education, english education, higher education, humanities education, information technology, language learning, learning analytics, learning sciences, math education, medical education, physics education, science education, stem education, writing education]
+        options: [biology education, business education, chemistry education, cs education, engineering education, english education, humanities education, information technology, language learning, learning analytics, learning sciences, math education, medical education, physics education, science education, stem education, writing education]
         required: false
       # connected_faqs must reference EXISTING FAQ pages only — enforced by a
       # relation to the faqs collection (value = FAQ slug = filename)
@@ -223,13 +223,13 @@ collections:
         label: Category
         widget: select
         multiple: true
-        options: [ai foundations, assessment, collaborative learning, curriculum design, design thinking, engagement, equity, evaluation, framework, instructional design, miscellaneous, policy, synthesis]
+        options: [ai foundations, assessment, collaborative learning, curriculum design, design thinking, engagement, equity, evaluation, framework, instructional design, policy, synthesis]
         required: false
       - name: audience
         label: Audience
         widget: select
         multiple: true
-        options: [administrators, assessment designers, assessment professionals, curriculum designers, designers, edtech designers, educators, elementary education, faculty development, institutions, instructional designers, instructors, learners, learning analytics designers, learning designers, medical educators, policymakers, researchers, software developers, students, teacher educators, teachers]
+        options: [administrators, assessment designers, assessment professionals, curriculum designers, designers, edtech designers, educators, faculty development, institutions, instructional designers, instructors, learners, learning analytics designers, learning designers, medical educators, policymakers, researchers, software developers, students, teacher educators, teachers]
         required: false
       - name: level
         label: Level
@@ -241,7 +241,7 @@ collections:
         label: Research Method
         widget: select
         multiple: true
-        options: [action design research, benchmark, bibliometric, case study, comparative study, conceptual, delphi, design and evaluation study, design-based research, educational measurement, experiment, framework proposal, group decision making, instrument development, interviews, learning analytics, literature review, longitudinal, longitudinal study, longitudinal survey, machine-learning, meta-analysis, mixed methods, policy analysis, position paper, process-outcome modeling, qualitative, quantitative, quasi-experiment, randomized controlled trial, research methods, secondary analysis, structural equation modeling, survey, system development, systematic review, thematic analysis, theoretical analysis, user study]
+        options: [action design research, benchmark, bibliometric, case study, delphi, design and evaluation study, design-based research, educational measurement, experiment, instrument development, interviews, learning analytics, literature review, longitudinal, longitudinal study, longitudinal survey, meta-analysis, mixed methods, policy analysis, position paper, process-outcome modeling, qualitative, quantitative, quasi-experiment, randomized controlled trial, research methods, secondary analysis, structural equation modeling, survey, system development, systematic review, thematic analysis, theoretical analysis, user study]
         required: false
       # 'body' is stored below the frontmatter block as verbatim Markdown.
       - name: body

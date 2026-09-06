@@ -4,7 +4,7 @@ created: "2026-08-30T16:45:00-04:00"
 updated: "2026-08-30T16:45:00-04:00"
 type: article
 tags: ['learning-analytics', 'learning-design', 'higher-ed', 'governance', 'ethics', 'self-regulated-learning']
-research_method: [delphi, group decision making]
+research_method: [delphi]
 discipline: [learning analytics]
 level: [higher ed]
 sources: ['raw/papers/10.1186_s41239-026-00620-x.md']

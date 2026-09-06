@@ -4,7 +4,7 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 tags: ["automated-essay-scoring", "llm", "educational-nlp", "assessment-validity", "benchmark", "writing-education"]
-research_method: [comparative study]
+research_method: [benchmark]
 audience: [researchers, assessment designers]
 level: [higher ed]
 sources: ["raw/papers/llm-essay-assessment-framework-reliability-2026.md"]

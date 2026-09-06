@@ -4,7 +4,7 @@ created: "2026-09-05T00:20:00-04:00"
 updated: "2026-09-05T00:20:00-04:00"
 type: article
 tags: [early-childhood-elementary-ai-education, educational-robotics, project-based-learning, generative-ai, agentic-ai, creativity, computational-thinking, social-emotional-learning, k-12]
-research_method: [conceptual]
+research_method: [theoretical analysis]
 audience: [instructors, learning designers, teacher educators]
 level: [k 12]
 sources: ['raw/papers/creative-project-approach-ai-early-childhood-2025.md']
