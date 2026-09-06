@@ -1,7 +1,7 @@
 ---
 title: Project-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-05T00:20:00-04:00"
+updated: "2026-09-06T04:56:00-04:00"
 type: concept
 tags: [project-based-learning, active-learning, collaborative-learning, educational-robotics, higher-ed, k-12]
 level: [higher ed, k 12]
@@ -31,7 +31,7 @@ Project-based learning is closely related to — but distinct from — [[problem
 - **The Project Approach in early childhood with AI agents:** [[creative-project-approach-ai-early-childhood-2025|Yang, Li and Lee (2025)]] extend PBL's foundational form — the Project Approach (Katz & Chard), an extended collaborative investigation of a real-world topic — into [[early-childhood-elementary-ai-education|early childhood]], proposing a five-step **Creative Project Approach** that integrates [[agentic-ai|AI agents]] and [[educational-robotics|robots]] (coding robots and generative social robots) into projects to foster young children's [[creativity|creative learning]]. The five steps — identify learning needs, facilitate teacher-guided child–robot interaction, situate AI in contexts, calibrate the automation/creativity balance, and evaluate outcomes — keep the teacher as a facilitator guiding inquiry, positioning PBL as the natural vehicle for developmentally appropriate AI use with the youngest learners.
 - **Gamification coupling:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] found [[game-based-learning|Gamification]] in robotics education strongly favored project-based learning (p = .009).
 - **AI literacy and co-design:** PBL underlies many [[ai-literacy|AI literacy]] and [[teacher-education]] interventions, where learners co-create AI tools or resources.
-
+- **AI-agent-supported software PBL:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] embedded Spec-Driven Development with [[agentic-ai|AI agents]] into a team-based undergraduate software PBL course, structuring projects into investigation, planning, implementation, and review phases paired with instructor-run comprehension checks.
 PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-learning]], [[educational-robotics]], [[game-based-learning]], [[computational-thinking]], and [[higher-ed]]/[[k-12]] pedagogy.
 
 - **PBL supports AI-powered robotics learning.** [[educational-robotics-pathways-2026|Pathways research]] shows project-based robotics+AI curricula let high school students learn through engagement in real-world practice, designing, and playful creative expression.
@@ -75,3 +75,4 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: AI agents and robotics within the Project Approach in early childhood (Yang, Li & Lee 2025)
+- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in team software PBL

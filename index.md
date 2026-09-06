@@ -1,8 +1,8 @@
 # Index
 
-Last updated: 2026-09-05
+Last updated: 2026-09-06
 
-Articles: 1090 | Concepts: 184 | FAQs: 17
+Articles: 1091 | Concepts: 184 | FAQs: 17
 
 ## Concepts
 
@@ -1091,6 +1091,7 @@ Articles: 1090 | Concepts: 184 | FAQs: 17
 - [[solving-vs-evaluating-genai-solutions]] — Is Solving Better Than Evaluating GenAI Solutions?
 - [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a Learning Partner: Supporting Self-Regulated Learning Over Time Without Replacing Effort
 - [[sovereign-hive-titl-further-education-2026]] — Atmospheric Regulation in the Age of Generative AI: The Sovereign Hive and the Tutor-in-the-Loop (TITL) Framework for Equity in Further Education
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL
 - [[special-education]] — Special Education
 - [[special-r1-rl-special-education]] — Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training
 - [[sposato-ai-educational-leadership-taxonomy-2025]] — Artificial intelligence in educational leadership: a comprehensive taxonomy and future directions

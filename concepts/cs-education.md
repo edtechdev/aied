@@ -1,7 +1,7 @@
 ---
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-06T04:56:00-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, cs-education]
 discipline: [stem education]
@@ -66,6 +66,7 @@ Because programming is where AI assistance is most powerful, it is also where th
 - **Behavioral context for adaptive AI tutoring:** [[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]] present **TutorTrace**, a dataset and pipeline that makes learners' behavioral context computable in real time from IDE telemetry in AI-assisted Python courses (N=480). It derives a taxonomy of activity before, between, and across AI queries, and can classify whether an upcoming query reflects guided or dependent [[help-seeking]] (AUROC=.717) and predict imminent queries (AUROC=.726); behavior-aware prompts reduced no-independent-work query intervals from 50.0% to 20.7% in a preliminary evaluation. This shows how behavioral telemetry can make [[intelligent-tutoring|AI programming tutors]] adaptive to learners' actual effort, not just their explicit requests.
 - **The duality of building what you use:** CS students' unique position creates both meta-cognitive awareness of AI limitations and real risk of [[cognitive-offloading|Over-Reliance]] on AI-generated code. [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this tension directly.
 
+- **Agentic coding and comprehension in team PBL:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] introduced Spec-Driven Development with [[agentic-ai|AI agents]] into an undergraduate software-engineering project course and found that implementation throughput (added LOC) rose across 2022-2025 while heavy AI use coincided with code-comprehension dips that only recovered after one-on-one instructor checks - direct evidence that throughput gains do not guarantee understanding, and that [[cognitive-offloading|over-reliance]] in AI-assisted coding is amenable to instructional monitoring.
 ### Equity, culture, and who gets into computing
 
 - **Broadening participation:** [[suacode-african-students-motivations|SuaCode]] documents motivations for smartphone-based coding among African students (fewer than 1% of secondary-school leavers have fundamental coding skills), informing accessible AI-supported MOOCs for [[equity-in-ai-education|low-resource contexts]].
@@ -153,3 +154,4 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
 - [[zhang-ml-student-progress-programming-2026]]
+- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in a software PBL course; throughput vs. comprehension
