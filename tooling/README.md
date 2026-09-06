@@ -10,7 +10,7 @@ Everything you need to run your own automated research wiki — a static site th
 - Publishes **offline EPUB and PDF versions** (`aied.epub`, `aied.pdf`) with a clickable, numbered table of contents and a Notice page
 - Deploys to GitHub Pages with a single `git push` (GitHub Actions)
 
-**[Live example: AI in Education Wiki](https://edtechdev.github.io/aied)** — 900+ articles and concept pages on AI in education, auto-updated weekdays at 9 AM ET and Sundays via RSS.
+**[Live example: AI in Education Knowledge Base](https://edtechdev.github.io/aied)** — 900+ articles and concept pages on AI in education, auto-updated weekdays at 9 AM ET and Sundays via RSS.
 
 ## Quick Start
 

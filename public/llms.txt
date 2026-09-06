@@ -1,5 +1,5 @@
-# AI in Education Wiki
-> A comprehensive wiki of 184 concepts, 1097 research articles, and 17 FAQs covering AI in education — frameworks, methodologies, and papers.
+# AI in Education Knowledge Base
+> A comprehensive knowledge base of 184 concepts, 1097 research articles, and 17 FAQs covering AI in education — frameworks, methodologies, and papers.
 
 ## Concepts
 
