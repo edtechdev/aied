@@ -1,7 +1,7 @@
 ---
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-06T08:30:00-04:00"
 type: concept
 tags: [language-learning, ai-education, generative-ai, writing-education, higher-ed, k-12, equity-in-ai-education]
 discipline: [language learning, writing education]
@@ -38,6 +38,7 @@ Language learning has emerged as a significant AI in education domain because la
 
 - **Emerging [[ai-technologies|technologies]] yield small-to-moderate, level-dependent gains.** A [[liu-emerging-tech-tefl-review-2026|meta-analysis of 33 TEFL studies]] (N = 3,181) finds an overall effect of Hedges' g = 0.38 that rises with educational level (primary 0.29, secondary 0.35, tertiary 0.44), with VR/AR yielding the largest effects and productive skills (speaking, writing) gaining more than receptive skills — supporting the use of emerging tech, especially at tertiary level, while keeping expectations realistic.
 - **Use AI to extend communicative practice, not replace it.** [[ai-interlocutor-l2-spoken-dialogue|AI interlocutors]] and [[tact-pedagogically-adaptive-esl-tutoring|adaptive ESL tutors]] expand interactional practice at scale — pair them with human interaction so fluency and uptake transfer to real conversation.
+- **Support learners' psychological adaptation to AI-assisted study.** [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] tracks learners of Japanese over a semester and finds they sort into maladaptive, moderate, and positive adaptation profiles driven by the balance of technostress and resilience, with most learners gradually shifting toward positive adaptation and reporting higher [[self-efficacy|self-efficacy]] and lower burnout — a signal to design AI-mediated language practice that manages technological strain, not just tool access.
 - **Be alert to scoring and feedback bias against learners.** [[ai-scoring-language-bias-physics|AI scoring]] can penalize non-native patterns; [[genai-linguistic-diversity-academic-writing|linguistic-diversity research]] warns AI privileges standard English — use self-referential or human-moderated evaluation.
 - **Support the full spectrum of learners.** [[dyslexlens-dyslexic-learners-ai|Dyslexia and accessibility studies]] and [[culturally-relevant-pedagogy|culturally responsive]] design ([[ai-tools-arab-english-classrooms|Arab-English contexts]]) show AI must be adapted to diverse learner needs, not assumed universal.
 - **Educators value GenAI for preparatory work, not live classroom use.** A [[li-language-educators-genai-review-2026|PRISMA systematic review of 23 studies]] (Li et al. 2026) finds language educators most value GenAI for behind-the-scenes preparation — [[curriculum-design|lesson planning]], materials creation, and writing support/feedback — yet remain hesitant about direct, classroom-facing implementation, reflecting a theory–practice gap between approving AI in principle and using it live. Adoption is shaped by professional-identity, pedagogical, technical, [[governance|institutional]], and [[academic-integrity]] factors, with educators falling on a spectrum from non-adoption to comprehensive integration; attitudes tend to evolve from initial insecurity toward confident, selective use with exposure.
@@ -62,6 +63,7 @@ Language learning has emerged as a significant AI in education domain because la
 - [[english-education]]
 
 ## Connected Articles
+- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
 - [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang, Weng & Yang 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning GPT for L2 listening item generation (Aryadoust & Wong 2026)
 - [[bert-discourse-english-teaching-2026]] — BERT discourse classification for English teaching

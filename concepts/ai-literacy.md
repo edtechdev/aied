@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-04T09:30:00-04:00"
+updated: "2026-09-06T08:30:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, educational-development, academic-integrity]
 audience: [faculty development, instructors, learners]
@@ -28,6 +28,8 @@ AI literacy has rapidly emerged as a core competency for learners, educators, an
 ### Dimensions of AI literacy
 
 AI literacy [[research-methods-aied|research]] in this knowledge base spans four interconnected dimensions:
+
+Frameworks increasingly trace how these dimensions are enacted in practice: [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai & Chan (2026)]] show how postgraduate researchers enact all four dimensions when using [[generative-ai|generative AI]] across the research workflow and scaffold research-specific responsible-use guidelines from them, while [[san-orhan-karsak-ai-cognition-micro-credentials-2026|Şan & Orhan Karsak (2026)]] use Word-Association mapping to show that Turkish undergraduates' AI cognition is instrumentally "black-box" dominated, with ethical-governance concepts structurally isolated (τ=−0.819) — evidence that credential design must deliberately bridge experiential tool use and ethical frameworks.
 
 **Foundational knowledge:** Understanding what [[llm|LLMs]] are, how they differ from rule-based systems, and their fundamental limitations. This includes awareness of model capabilities, training data biases, and the distinction between task-specific AI and general-purpose models. Research in [[prompt-engineering]] examines how understanding prompt mechanisms affects effective AI use.
 
@@ -139,6 +141,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[higher-ed]] — university-level literacy
 
 ## Connected Articles
+- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines
+- [[san-orhan-karsak-ai-cognition-micro-credentials-2026]] — Word Association Mapping of Student AI Cognition and Evidence-Based Micro-Credential Design
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Epistemic dependence in AI-mediated learning: six criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
