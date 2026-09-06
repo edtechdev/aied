@@ -29,4 +29,6 @@ search_index.js
 search_index.json
 feed.xml
 /pages/
+# ...except the Sveltia CMS admin page, which is committed (needs index.html)
+!public/admin/index.html
 /tags/
