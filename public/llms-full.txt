@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 184 concepts, 1091 articles, and 17 FAQs.
+> Complete text of 184 concepts, 1097 articles, and 17 FAQs.
 
 # Concepts
 
@@ -346,6 +346,8 @@ AI literacy has rapidly emerged as a core competency for learners, educators, an
 
 AI literacy [[research-methods-aied|research]] in this knowledge base spans four interconnected dimensions:
 
+Frameworks increasingly trace how these dimensions are enacted in practice: [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai & Chan (2026)]] show how postgraduate researchers enact all four dimensions when using [[generative-ai|generative AI]] across the research workflow and scaffold research-specific responsible-use guidelines from them, while [[san-orhan-karsak-ai-cognition-micro-credentials-2026|Şan & Orhan Karsak (2026)]] use Word-Association mapping to show that Turkish undergraduates' AI cognition is instrumentally "black-box" dominated, with ethical-governance concepts structurally isolated (τ=−0.819) — evidence that credential design must deliberately bridge experiential tool use and ethical frameworks.
+
 **Foundational knowledge:** Understanding what [[llm|LLMs]] are, how they differ from rule-based systems, and their fundamental limitations. This includes awareness of model capabilities, training data biases, and the distinction between task-specific AI and general-purpose models. Research in [[prompt-engineering]] examines how understanding prompt mechanisms affects effective AI use.
 
 **Practical competence:** The ability to use AI tools effectively — from [[prompt-engineering]] to interpreting outputs. Studies of [[genai-usage-design-students-survey|student GenAI usage patterns]] reveal that tool access alone doesn't produce competence; structured practice and [[scaffolding]] are essential. The [[gaide-vibe-coding-k12-teachers|vibe coding framework]] shows how [[k-12|K-12 teachers]] can develop practical AI literacy through guided tool creation.
@@ -456,6 +458,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[higher-ed]] — university-level literacy
 
 ## Connected Articles
+- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines
+- [[san-orhan-karsak-ai-cognition-micro-credentials-2026]] — Word Association Mapping of Student AI Cognition and Evidence-Based Micro-Credential Design
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Epistemic dependence in AI-mediated learning: six criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
@@ -778,7 +782,7 @@ The knowledge base's articles document cognitive offloading across multiple dime
 - **Over-reliance is the leading [[ethics|ethical]] concern across all [[conversational-ai]] generations.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) reports that human–AI relationship concerns — including over-reliance and the diminution of social interaction — are the **most frequently discussed ethical issue across all CAI generations**, predating GenAI. It also lists educational impact and cognitive concerns (including overreliance and degraded critical thinking) as the second most-discussed challenge category, underscoring that offloading's harm is a persistent, cross-generation theme rather than a GenAI-specific novelty.([[conversational-ai-agents-umbrella-review-2026]])
 
 #
-- **Teachers as reflective regulators of cognition:** [[teachers-reflective-regulators-cognition-offloading|Ho and Chen (2026)]] extend offloading theory to *professional* AI judgment by interviewing 18 in-service teachers. They identify a 'metacognitive ecology' in which teachers recognise, redistribute, and reflectively re-engage cognition with GenAI, [[framing-ai-use-for-students|framing AI]] as a cognitive partner rather than a thinking substitute — and flag 'professional drift' as a risk when offloading goes unreflective in AI-augmented teaching and [[administrator|administration]].
+- **Teachers as reflective regulators of cognition:** [[teachers-reflective-regulators-cognition-offloading|Ho and Chen (2026)]] extend offloading theory to *professional* AI judgment by interviewing 18 in-service teachers. They identify a 'metacognitive ecology' in which teachers recognise, redistribute, and reflectively re-engage cognition with GenAI, [[framing-ai-use-for-students|framing AI]] as a cognitive partner rather than a thinking substitute — and flag 'professional drift' as a risk when offloading goes unreflective in AI-augmented [[teacher-role|teaching]] and [[administrator|administration]].
 
 
 - **Offloading is value-based decision-making, and some students are more vulnerable than others.** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], a conceptual review in *Learning Disability Quarterly*, synthesize cognitive science, [[special-education|special education]], and educational technology to model GenAI offloading as a cost–benefit decision shaped by performance goals, task difficulty, academic self-efficacy, and perceptions of the tool. They argue that **students with learning disabilities (SWLDs)** are especially vulnerable to suboptimal offloading — because heightened cognitive load, effort-avoidant performance goals, lower academic self-efficacy, and inflated expectations toward GenAI make premature or excessive delegation more likely. GenAI is framed as a **compensatory aid or shortcut depending on how offloading decisions interact with learner profiles and [[learning-design|instructional design]]**, with instructional [[guardrails]] the key moderating factor (teach metacognitive self-regulation, build [[ai-literacy]] to calibrate tool trust, sequence mastery experiences, and assess process not just product). This extends offloading's equity dimension: the same tool that reduces barriers to access can, if unguarded, substitute for the very practice SWLDs need most.
@@ -792,7 +796,7 @@ The knowledge base's articles document cognitive offloading across multiple dime
 
 ## Over-reliance: when offloading becomes harmful
 
-**Over-reliance** is the excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. It is the behavioral manifestation of excessive cognitive offloading: when offloading becomes the default rather than a strategic choice. Over-reliance is not simply about using AI too much — it is about using AI in ways that substitute for rather than complement learning processes.
+**Over-reliance** is the excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. It is the behavioral manifestation of excessive cognitive offloading: when offloading becomes the default rather than a strategic choice. Over-reliance is not simply about using AI too much — it is about using AI in ways that substitute for rather than complement learning processes. Conceptual work urges keeping this educational over-reliance distinct from relational attachment and [[medical-education|clinical]] dependence: [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] shows that trust, reliance, over-reliance, attachment, and problematic use are routinely conflated in the conversational-AI literature, and that frequent delegation should not be labelled dependence without impaired control or harm.
 
 The knowledge base's research documents over-reliance as one of the 
 - **Agentic coding offloads comprehension in the field:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] report that undergraduates using [[agentic-ai|AI agents]] in a software project course wrote more code year-over-year but showed comprehension dips under heavy use - recoverable through one-on-one instructor verification of AI-generated code.
@@ -841,6 +845,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
@@ -1151,7 +1156,7 @@ The knowledge base documents a paradigm shift: from AI as an integrity threat to
 - **Task-specific AI-use declarations:** [[genai-declaration-frameworks-higher-education|Domain-specific declaration frameworks]] replace generic "I used AI" checkboxes with structured declarations mapping use to cognitive stages (e.g., structural planning vs. content generation), forcing reflection and shifting focus from policing to professional practice.
 - **Process-transparent assessment:** architectures such as [[credential-cognitive-stewardship-ai-assessment|cognitive stewardship]], staged submissions, oral defences, and the [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|AI Viva]] (a [[conversational-ai|conversational agent]] probing whether students understand their submissions) make human judgement, verification, and responsibility visible.
 - **[[reducing-ai-misuse|Reducing misuse]]:** integrity sits alongside [[ai-misuse-learning-harm]] (the learning cost of misuse) and [[reducing-ai-misuse]] (the interventions that prevent it), tying honesty to genuine learning rather than rule-following.
-- **Assessment redesign must be paired with cultural support.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] argue that in the generative AI era traditional, summative-heavy and norm-referenced grading undermines integrity as well as deep learning, well-being, and equity, and that [[authentic-assessment|authentic assessment]] — tasks mirroring real professional problems such as live consulting projects and dashboards with executive briefings — can support integrity-preserving alternatives to exam-centered assessment. Yet they caution that implementation is resisted by instructors and students alike, so integrity-preserving redesign requires incremental experimentation and dialogue spanning [[assessment-validity|validity]], assurance of learning, and stakeholders such as accreditation bodies and employers.
+- **Assessment redesign must be paired with cultural support.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] argue that in the generative AI era traditional, [[summative-assessment|summative]]-heavy and norm-referenced grading undermines integrity as well as deep learning, [[well-being]], and equity, and that [[authentic-assessment|authentic assessment]] — tasks mirroring real professional problems such as live consulting projects and dashboards with executive briefings — can support integrity-preserving alternatives to exam-centered assessment. Yet they caution that implementation is resisted by instructors and students alike, so integrity-preserving redesign requires incremental experimentation and dialogue spanning [[assessment-validity|validity]], assurance of learning, and stakeholders such as accreditation bodies and employers.
 
 ### Connections
 
@@ -1169,6 +1174,7 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 
 - **Secondary students reason about AI-giarism situationally, not as a fixed rule.** [[chan-rethinking-aigiarism-secondary-integrity-2026|Chan (2026)]] shows that secondary students' ethical reasoning about "AI-giarism" is nuanced and context-dependent — many see AI-assisted work as acceptable when it supports understanding but problematic when it substitutes for their own effort — challenging the assumption that students simply lack integrity or that a single policy can capture their ethics.
 - **Authentic assessments alone cannot safeguard integrity.** [[kofinas-generative-ai-authentic-assessment-integrity-2025|Kofinas et al. (2025)]] find that markers generally **cannot distinguish** assessments with GenAI input from those without, and that the level of assessment authenticity has **no impact** on the ability to safeguard against or detect GenAI use. The higher-education sector "cannot rely on authentic assessments alone to control the impact of GenAI" — a direct challenge to the [[authentic-assessment|assessment-redesign]] strategy, which must be paired with other measures.
+- **Integrity guidance must extend into the research process, not just [[teacher-role|teaching]].** [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai & Chan (2026)]] find postgraduate researchers enact [[ai-literacy]] across research tasks and argue that responsible-use policies, which currently focus on teaching and assessment, must [[scaffolding|scaffold]] the ethical dimensions of GenAI use in research — where concerns centre on originality, authorship, [[privacy|data privacy]], and skill degradation rather than plagiarism alone.
 - **Purpose must precede policy.** [[taylor-lacroix-purpose-before-policy-academic-integrity-2026|Taylor & LaCroix (2026)]] argue that whether GenAI use constitutes misconduct depends on the university's *purpose*. Rising misconduct cases reflect structural incoherence in the neo-liberal university, where technological enthusiasm, corporate influence, and policy enforcement conflict — leaving students accountable for behaviours implicitly shaped by the institution. Universities cannot credibly enforce integrity without coherence between stated mission, pedagogy, and technology practice.
 - **Psychological and behavioral determinants.** [[psychological-mechanisms-academic-integrity-ai-2026|Frontiers research]] maps the psychological mechanisms and behavioral determinants of academic integrity under AI — how attitudes, self-efficacy, norms, and perceived consequences shape honest use — connecting integrity to [[motivation]], [[self-efficacy]], and [[ai-literacy]] as behavioural constructs rather than pure rule-following.
 - **Students' ethical judgments are divided and use-dependent.** [[lopez-lopez-academic-integrity-ai-study-practices-2026|López-López et al. (2026)]] survey 357 students and find AI use is routine and usually perceived as helpful, yet ethical judgments remain divided: a slight majority rejected the idea that AI use is fraud, more than a third were undecided, and more frequent use and perceived learning support were associated with more permissive judgments — while perceived [[creativity]] reduction pulled the other way.
@@ -1197,6 +1203,7 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[k-12]]
 
 ## Connected Articles
+- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Differentiating productive reliance from harmful dependence (Du & Yuan 2026)
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
@@ -6658,6 +6665,8 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 
 - **AI anxiety and student experience:** Studies on students' engagement with AI (e.g., [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT-based research]]) find AI use is intertwined with anxiety, trust, and confidence, with students' well-being affected by concerns about academic integrity, [[creativity]], and [[cognitive-offloading|Over-Reliance]].
 
+- **AI anxiety, adaptation, and dependence as well-being signals:** [[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al. (2026)]] find AI anxiety is negatively tied to academic motivation partly through reduced [[metacognition|emotion regulation]] (moderated by gender) in a large Chinese sample; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] shows learners of [[language-learning|Japanese]] sort into maladaptive, moderate, and positive psychological-adaptation profiles driven by technostress and resilience that shift toward better adaptation over a semester; and [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] cautions that cross-sectional correlates of [[conversational-ai]] engagement (loneliness, anxiety, low well-being) should not be read as consequences, and that supportive and harmful experiences coexist.
+
 - **Teacher well-being and role:** AI's impact on [[teacher-role|teachers]] — including workload, anxiety about teaching with disruptive technology, and the capacity to provide emotional support — is a recurring concern, connecting to [[teacher-ai-competency]] and [[educational-development|professional development]].
 
 - **Ethics and responsible AI:** Well-being is a core ethical consideration in [[ai-education]], linking to [[ethics]] and the imperative to design AI that supports rather than harms learners' mental health and belonging.
@@ -6683,6 +6692,9 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[higher-ed]]
 
 ## Connected Articles
+- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — The Relationship Between AI Anxiety and Academic Motivation
+- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
 
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
@@ -10765,6 +10777,7 @@ Language learning has emerged as a significant AI in education domain because la
 
 - **Emerging [[ai-technologies|technologies]] yield small-to-moderate, level-dependent gains.** A [[liu-emerging-tech-tefl-review-2026|meta-analysis of 33 TEFL studies]] (N = 3,181) finds an overall effect of Hedges' g = 0.38 that rises with educational level (primary 0.29, secondary 0.35, tertiary 0.44), with VR/AR yielding the largest effects and productive skills (speaking, writing) gaining more than receptive skills — supporting the use of emerging tech, especially at tertiary level, while keeping expectations realistic.
 - **Use AI to extend communicative practice, not replace it.** [[ai-interlocutor-l2-spoken-dialogue|AI interlocutors]] and [[tact-pedagogically-adaptive-esl-tutoring|adaptive ESL tutors]] expand interactional practice at scale — pair them with human interaction so fluency and uptake transfer to real conversation.
+- **Support learners' psychological adaptation to AI-assisted study.** [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] tracks learners of Japanese over a semester and finds they sort into maladaptive, moderate, and positive adaptation profiles driven by the balance of technostress and resilience, with most learners gradually shifting toward positive adaptation and reporting higher [[self-efficacy|self-efficacy]] and lower burnout — a signal to design AI-mediated language practice that manages technological strain, not just tool access.
 - **Be alert to scoring and feedback bias against learners.** [[ai-scoring-language-bias-physics|AI scoring]] can penalize non-native patterns; [[genai-linguistic-diversity-academic-writing|linguistic-diversity research]] warns AI privileges standard English — use self-referential or human-moderated evaluation.
 - **Support the full spectrum of learners.** [[dyslexlens-dyslexic-learners-ai|Dyslexia and accessibility studies]] and [[culturally-relevant-pedagogy|culturally responsive]] design ([[ai-tools-arab-english-classrooms|Arab-English contexts]]) show AI must be adapted to diverse learner needs, not assumed universal.
 - **Educators value GenAI for preparatory work, not live classroom use.** A [[li-language-educators-genai-review-2026|PRISMA systematic review of 23 studies]] (Li et al. 2026) finds language educators most value GenAI for behind-the-scenes preparation — [[curriculum-design|lesson planning]], materials creation, and writing support/feedback — yet remain hesitant about direct, classroom-facing implementation, reflecting a theory–practice gap between approving AI in principle and using it live. Adoption is shaped by professional-identity, pedagogical, technical, [[governance|institutional]], and [[academic-integrity]] factors, with educators falling on a spectrum from non-adoption to comprehensive integration; attitudes tend to evolve from initial insecurity toward confident, selective use with exposure.
@@ -10789,6 +10802,7 @@ Language learning has emerged as a significant AI in education domain because la
 - [[english-education]]
 
 ## Connected Articles
+- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
 - [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang, Weng & Yang 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning GPT for L2 listening item generation (Aryadoust & Wong 2026)
 - [[bert-discourse-english-teaching-2026]] — BERT discourse classification for English teaching
@@ -15280,7 +15294,7 @@ The AI era has pushed the framework toward a technology-with-intelligence readin
 
 ## Why It Matters in AI Education
 
-TPACK is the organizing framework for the teacher-side of the knowledge base's evidence base. It explains why teacher AI competency is more than tool fluency: teachers must integrate technological, pedagogical, and content knowledge together to turn AI into [[learning-gains|learning gains]]. The knowledge base's [[teacher-ai-competency]] page covers the competency dimensions; TPACK is the *knowledge structure* that underlies them. Research on [[teacher-ai-adoption-confidence|teacher confidence]], [[educational-development|professional development]], and [[teacher-role|the transforming teacher role]] all operate within (or against) this framework.
+TPACK is the organizing framework for the teacher-side of the knowledge base's evidence base. It explains why teacher AI competency is more than tool fluency: teachers must integrate technological, pedagogical, and content knowledge together to turn AI into [[learning-gains|learning gains]]. The knowledge base's [[teacher-ai-competency]] page covers the competency dimensions; TPACK is the *knowledge structure* that underlies them. Research on [[teacher-ai-adoption-confidence|teacher confidence]], [[educational-development|professional development]], and [[teacher-role|the transforming teacher role]] all operate within (or against) this framework. The framework is now being extended to evaluate whole programs: [[wu-li-evaluation-indicator-ai-certificate-programs-2026|Wu & Li (2026)]] build an AHP-Fuzzy-AHP evaluation system for AI certificate programs on TPACK dimensions and find that faculty professional competence — not technical infrastructure — is the largest gap between expert priority and current provision, signalling that credentialing should invest in teachers' integrated pedagogical capacity.
 
 ## Design Implications
 
@@ -15305,6 +15319,7 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 - [[teacher-education]]
 
 ## Connected Articles
+- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Evaluation Indicator System for AI Certificate Programs
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Cross-level study: 'pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)
 - [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
@@ -36424,6 +36439,44 @@ Dağ, Nal, Topuz, Kılınç, Demir, & Bektaş (2026) extend the career-anxiety e
 ## Citation
 
 Dağ, E., Nal, M., Topuz, İ., Kılınç, H., Demir, Y., & Bektaş, G. (2026). [*Artificial intelligence perceptions and career anxiety among health sciences students*](https://doi.org/10.1038/s41598-026-42030-z). *Scientific Reports*, 16, 42030.
+
+---
+
+## [Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines: Insights From Postgraduate Students](https://edtechdev.github.io/aied/articles/dai-chan-responsible-genai-research-ai-literacy-2026/)
+
+Wei Dai and Cecilia K. Y. Chan (2026) examined how 28 postgraduate research (PGR) students across seven focus groups enacted [[ai-literacy]] in their use of [[generative-ai|generative AI]] for research, arguing that responsible-use guidance must extend beyond [[teacher-role|teaching]] and assessment into the ethically more complex research process. Analysing practices through a four-dimensional AI literacy framework, the study found students' awareness of GenAI's capabilities, limitations, and risks reflected the "Know & Understand" dimension; their diverse, [[discipline-specific-aied|discipline-specific]] applications across the research workflow reflected "Use & Apply"; their self-defined boundaries between ethical and unethical use reflected "Evaluate & Create"; and concerns about output accuracy, originality, [[privacy|data privacy]], and skill degradation reflected the "AI Ethics" dimension. Building on these insights, the authors proposed researcher-oriented GenAI guidelines that foreground each AI literacy dimension across research tasks, positioning the guidelines less as rule enforcement and more as a developmental scaffold for [[higher-ed|researchers']] sustained AI literacy growth.
+
+## Key Findings
+
+- **[[research-methods-aied|Researchers]] are active, calibrated users, not passive adopters:** 27 of 28 participants used GenAI across ideation, [[meta-analysis-systematic-review|literature review]], explanation, data processing, programming, [[writing-education|academic writing]], editing, and translation, but matched tools to tasks based on perceived stakes, intellectual demands, and disciplinary norms — heavier use in low-stakes procedural work and more cautious [[student-engagement|engagement]] in tasks central to scholarly contribution.
+- **[[human-in-the-loop-ai|Human oversight]] retained throughout:** GenAI was positioned as a supportive, efficiency-enhancing research assistant rather than a substitute for core intellectual work; participants did not adopt AI-generated outputs uncritically, recognising that ideas could be "misleading" or "totally wrong."
+- **Nuanced boundary judgements on writing:** Students distinguished between acceptable drafting assistance and full generation in academic writing, and between AI helping to structure versus substitute their own reasoning.
+- **AI ethics concerns cluster around scholarly integrity:** Worries centred on non-deterministic behaviour, limited capacity for genuine originality, output accuracy, data privacy, and the degradation of researchers' own scholarly competence — concerns that map to the "AI Ethics" dimension.
+- **Policy gap:** Existing institutional GenAI policies focus on teaching, learning, and assessment and remain abstract; research-specific guidance that is practical, task-sensitive, and grounded in researchers' lived experience is largely absent.
+
+## Implications for AI in Education
+
+The study contributes an empirical account of how [[ai-literacy]] is enacted as a [[situated-learning|situated]] capacity in research practice, rather than a static set of competencies, with direct implications for [[academic-integrity|integrity]] and [[ethics]] policy in [[higher-ed|graduate education]]. For institutions it argues that responsible GenAI-use guidelines should move beyond binary rules toward practice-oriented support that [[scaffolding|scaffolds]] each AI literacy dimension across the research workflow — a stance that treats [[governance]] and researcher development as mutually reinforcing. For supervisors and research-training programmes it signals a need to cultivate evaluative judgment and [[self-regulated-learning|self-regulation]] of GenAI use, echoing calls to embed [[llm|AI]] literacy across the entire scholarly lifecycle rather than only in teaching and assessment contexts.
+
+## Connected Concepts
+- [[ai-literacy]]
+- [[academic-integrity]]
+- [[ethics]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[governance]]
+- [[self-regulated-learning]]
+- [[llm]]
+
+## Connected Articles
+- [[student-centered-genai-responsible-framework-2026]] — A Student-Centered Framework for Responsible Use of Generative AI in Higher Education
+- [[ssaho-ai-academic-integrity-review-2025]] — Reassessing Academic Integrity in the Age of AI
+- [[pedlow-genai-selfassessment-2026]] — Raising Ethical Awareness of GenAI Use Through Student Self-Assessment
+- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose Before Policy: Academic Integrity, Generative AI, and Rhetoric
+
+## Citation
+
+Dai, W., & Chan, C. K. Y. (2026). [Shaping responsible GenAI use in research through AI literacy-oriented guidelines: Insights from postgraduate students](https://doi.org/10.1186/s41239-026-00609-6). *International Journal of Educational Technology in Higher Education, 23*, 33.
 
 ---
 
@@ -63079,6 +63132,44 @@ Shen, Q. (2026). [*Same AI, different pathways: Unpacking mechanisms of AI-media
 
 ---
 
+## [Knowing Its Name, Not Its Nature: Word Association Mapping of Student AI Cognition and Evidence-Based Micro-Credential Design in Turkish Higher Education](https://edtechdev.github.io/aied/articles/san-orhan-karsak-ai-cognition-micro-credentials-2026/)
+
+İsmail Şan and Hakan Orhan Karsak (2026) used the psycholinguistic Word Association Test (WAT) to map the cognitive representations of AI held by 436 Turkish university undergraduates, producing a needs assessment for designing [[ai-literacy]] [[higher-ed|micro-credential]] programmes grounded in learners' actual knowledge structures. Across a seven-stage analytical protocol (1376 coded responses, inter-rater reliability κ=0.87), the authors found students' associative networks were dominated by utilitarian concepts — convenience, speed, and technology — while algorithmic transparency, ethical governance, and technical mechanisms were structurally absent. [[network-analysis|Network analysis]] revealed strong polarisation between a positive-utility cluster and a negative-risk cluster (τ=−0.819), indicating a pervasive "black-box" orientation toward AI. The findings ground an Ethical AI and Workforce Readiness micro-credential framework that deliberately bridges students' experiential, instrumental knowledge of AI and the [[ethics|ethical]] and [[governance]] frameworks needed for responsible use.
+
+## Key Findings
+
+- **Cognitive fragmentation, not ignorance:** Students' AI associations clustered around instrumental utility (convenience f=145, speed f=110, together ~18.5% of all responses), while technical-register and governance concepts were not merely underrepresented but structurally isolated from the dominant utilitarian cluster by a strong negative association (τ=−0.819). The authors argue this reflects two processed-as-mutually-exclusive cognitive frames, not a simple deficit.
+- **A "black-box" orientation toward AI:** Algorithmic transparency, [[privacy|data privacy]], model uncertainty, and accountability were absent from students' associative networks, confirming a pervasive but purely functional understanding of how AI systems work.
+- **A replicable diagnostic methodology:** The study contributes the first large-scale WAT-based cognitive mapping of AI knowledge structures in Turkish [[higher-ed|higher education]], demonstrating a data-driven needs-assessment method (canonical coding, Kendall's τ, multidimensional scaling, threshold-network construction) for evidence-based credential design.
+- **Design implication — ethics modules need bridges:** Delivering an ethics module in isolation risks encountering a cognitive architecture with no existing schema to receive it; curricula must explicitly construct connections between learners' experiential tool knowledge and ethical/governance frameworks.
+- **Curricular priority shift:** Rather than reproducing what students already know, credential programmes should sequence content to close the specific structural gap between utilitarian and [[ethics|ethical]] dimensions of AI literacy.
+
+## Implications for AI in Education
+
+This study reframes the [[ai-literacy]] problem from a "missing knowledge" deficit to a structural feature of how students think about AI, with direct consequences for [[assessment]]-driven [[curriculum-design|curriculum]] design in [[higher-ed|higher education]]. For educators and learning designers it argues that functional AI training alone entrenches an instrumental frame, and that micro-credentials should foreground boundary-crossing content that connects everyday tool use with transparency, privacy, and [[governance]]. It also offers an evaluative method — associative [[metacognition|cognitive mapping]] — that can surface [[prior-knowledge|prior knowledge]] structures before designing instruction, aligning with [[student-experience|learner-centred]] competency frameworks.
+
+## Connected Concepts
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[ethics]]
+- [[governance]]
+- [[curriculum-design]]
+- [[assessment]]
+- [[student-experience]]
+
+## Connected Articles
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI Literacy Interventions in Education: A Meta-Analysis
+- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Enhancing AI Literacy Course Satisfaction Through Empowerment in AI Problem-Solving
+- [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship
+- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education
+
+## Citation
+
+Şan, İ., & Orhan Karsak, H. (2026). [Knowing its name, not its nature: Word association mapping of student AI cognition and evidence-based micro-credential design in Turkish higher education](https://doi.org/10.1186/s41239-026-00621-w). *International Journal of Educational Technology in Higher Education, 23*, 46.
+
+---
+
 ## [Faculty Readiness for AI-Supported Teaching and Scalable Online Program Delivery in Higher Education: The EPIQ-AI Framework for Epistemic Integrity](https://edtechdev.github.io/aied/articles/sangwa-epiq-ai-faculty-readiness-2026/)
 
 > **Synthesis:** Sangwa, Ndahayo, Dusengumuremyi & Mutabazi (2026) develop the EPIQ-AI Readiness Framework through an integrative secondary evidence synthesis of official statistics, large-scale faculty and institutional surveys, peer-reviewed studies, and policy frameworks published 2020–2025. The framework integrates technology acceptance (TAM/UTAUT), TPACK, and organizational readiness traditions to explain how institutions can align faculty capacity, governance, and quality assurance for AI-supported [[teacher-role|teaching]] and scalable online delivery. Key finding: faculty readiness is a sociotechnical alignment problem — not an individual skills deficit — and assessment, not detection, is the decisive frontier for preserving epistemic integrity.
@@ -72224,6 +72315,80 @@ Smith, D. R., Whittington, W., Martinez, A., Duncan, A., & Li, G. (2026). [*A Co
 
 ---
 
+## [Evaluation Indicator System for AI Certificate Programs](https://edtechdev.github.io/aied/articles/wu-li-evaluation-indicator-ai-certificate-programs-2026/)
+
+Zijing Wu and Qiang Li (2026) developed an expert-weighted evaluation indicator system for [[higher-ed|AI certificate programs]], grounded in the [[tpack|Technological Pedagogical Content Knowledge (TPACK)]] framework, using a hybrid Analytic Hierarchy Process / Fuzzy AHP methodology with Monte Carlo [[simulation]] (N=10,000) for robustness verification and pairwise ratings from 18 domain experts across Chinese universities. Five dimensions were identified and prioritized — curriculum design, instructional implementation, faculty expertise, technological support, and cross-cultural adaptability — with a clear expert hierarchy: student [[teacher-ai-competency|AI competency]] achievement (weight 0.1438, rank stability 99.8%) and curriculum alignment with AI frontiers (0.1056, 98.5%) emerged as paramount, while cross-cultural adaptability received the lowest weight (0.0735), signalling a technology-first bias in early-stage credential development. Notably, faculty professional competence showed the largest gap between its high perceived importance (0.1976) and low current satisfaction (3.2171), challenging the assumption that technological infrastructure is the primary barrier to [[ai-education|AI education]].
+
+## Key Findings
+
+- **Five TPACK-mapped evaluation dimensions:** Curriculum System and Content Design (weight 0.3878) dominated, nearly doubling the second-ranked dimension; Instructional Implementation (0.2068) and Faculty Professional Competence (0.1976) formed a middle tier, while Technical Support (0.1343) and Cross-Cultural Adaptability (0.0735) ranked lowest.
+- **A clear expert priority hierarchy:** Student AI core-competency achievement (0.1438, rank stability 99.8%) and curriculum–AI frontier alignment (0.1056, 98.5%) together accounted for ~25% of total weight — robust expert consensus confirmed by Monte Carlo simulation (overall composite CV=1.31%).
+- **The faculty bottleneck:** Faculty professional competence displayed the largest importance–satisfaction gap, identifying faculty TPACK development — not technological infrastructure — as the primary constraint on [[pedagogy|pedagogical]] transformation through AI credentials.
+- **Technology-first bias in credentialing:** Cross-cultural adaptability received the lowest strategic weight, indicating that early-stage AI certificate development prioritizes technical over cultural-adaptive concerns.
+- **Content knowledge outpaces integrated pedagogy:** The analysis revealed a developmental asymmetry in which content knowledge outweighs integrated pedagogical capacity, extending TPACK theory into the credential-evaluation domain.
+
+## Implications for AI in Education
+
+This work provides a validated, expert-informed roadmap for evaluating the pedagogical-transformation potential of AI certificate programs in [[higher-ed|higher education]], an area with little systematic assessment despite the proliferation of credentials. For [[ai-literacy|AI education]] leaders and [[curriculum-design|curriculum]] planners it signals that resource allocation should target faculty [[teacher-education|TPACK development]] and continuous curriculum updating rather than technical infrastructure, and that [[adaptive-learning]] and real-time feedback support should be integrated into credential design. Methodologically, the fusion of Monte Carlo simulation with AHP-FAHP offers a replicable template for probabilistic robustness verification in multi-criteria educational evaluation, useful for [[assessment]] of emerging AI credentials and programs.
+
+## Connected Concepts
+- [[tpack]]
+- [[higher-ed]]
+- [[curriculum-design]]
+- [[assessment]]
+- [[ai-literacy]]
+- [[teacher-education]]
+- [[adaptive-learning]]
+
+## Connected Articles
+- [[ai-tpack-mathematics-teacher-education-2026]] — Assessing AI-TPACK Readiness in Mathematics Teacher Education
+- [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials That Carry Their Evidence: Credential Design
+- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Enhancing AI Literacy Course Satisfaction Through Empowerment in AI Problem-Solving
+
+## Citation
+
+Wu, Z., & Li, Q. (2026). [Evaluation indicator system for AI certificate programs](https://doi.org/10.1186/s41239-026-00604-x). *International Journal of Educational Technology in Higher Education, 23*, 32.
+
+---
+
+## [Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning](https://edtechdev.github.io/aied/articles/wu-psychological-adaptation-ai-japanese-learning-2026/)
+
+Yuanyuan Wu (2026) examined how learners psychologically adapt to [[generative-ai|AI-assisted]] [[language-learning|Japanese language learning]], using a three-wave longitudinal survey of 457 learners across one academic semester with technostress and psychological resilience as indicators in latent profile and latent profile transition analyses. Three profiles were consistently identified — maladaptive adaptation, moderate adaptation, and positive adaptation — with the maladaptive group shrinking from 26.48% to 17.74% and the positive group growing from 27.35% to 35.73% across the semester. The positive-adaptation profile showed the greatest temporal stability, while maladaptive learners most commonly transitioned to moderate adaptation. At Time 3, positively adapting learners reported the highest Japanese learning [[self-efficacy|self-efficacy]] and the lowest learning burnout, with the reverse pattern for maladaptive learners, demonstrating that psychological adaptation to AI-assisted language learning is heterogeneous, dynamic, and meaningfully tied to confidence and [[well-being|burnout]].
+
+## Key Findings
+
+- **Three stable psychological-adaptation profiles:** Learners were consistently classifiable into maladaptive, moderate, and positive adaptation profiles across all three waves, indicating a conceptually stable underlying pattern of adaptation to AI-assisted study.
+- **Adaptation is dynamic, not fixed:** The maladaptive profile decreased from 26.48% to 17.74% while the positive profile increased from 27.35% to 35.73% over the semester; positive-adaptation learners were most stable, and maladaptive learners most commonly shifted to moderate adaptation.
+- **Profiles predict confidence and burnout:** At Time 3, positively adapting learners reported the highest Japanese learning self-efficacy and lowest burnout; maladaptive learners showed the reverse — profiles are practically meaningful for [[learning-gains|learning outcomes]].
+- **Technostress declined and resilience rose:** All five technostress dimensions declined from Time 1 to Time 3 while psychological resilience rose modestly (2.03 to 2.19), consistent with a gradual easing of technological strain as learners gained experience.
+- **Sample context:** 457 learners at Time 1 (76.1% female), mostly enrolled in non-major Japanese courses (56.0%) with intermediate proficiency (45.7%); 62.1% had no prior AI training, and the most common AI-use frequency was 3–4 times per week.
+
+## Implications for AI in Education
+
+The study brings a person-centered, longitudinal lens to AI-supported [[language-learning|language education]], showing that learners do not respond uniformly to AI tools and that adaptation is best understood as a demand–resource balance under the Job Demands–Resources framework rather than a single continuum. For language instructors and learning designers it implies that AI-mediated environments should support learners whose technostress outweighs their resilience, and that fostering confidence and regulating [[self-regulated-learning|self-regulated]] use of AI can shift learners toward positive adaptation over time. The findings also caution that perceived benefits of AI-assisted learning do not eliminate the psychological costs of managing overload, information density, and dependence on intelligent tools.
+
+## Connected Concepts
+- [[language-learning]]
+- [[well-being]]
+- [[self-efficacy]]
+- [[self-regulated-learning]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[motivation]]
+
+## Connected Articles
+- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
+- [[chatgpt-english-language-learning-malaysia]] — Students' Experiences of Using ChatGPT for English Language Learning
+- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Multimodality and Social Interactions in AI-Enhanced Embodied Robot-Assisted Language Learning
+
+## Citation
+
+Wu, Y. (2026). [Profiles and transitions of psychological adaptation in AI-assisted Japanese language learning](https://doi.org/10.3389/fpsyg.2026.1837484). *Frontiers in Psychology, 17*, 1837484.
+
+---
+
 ## [Explainable Artificial Intelligence in Education (XAI-ED)](https://edtechdev.github.io/aied/articles/xai-education-framework/)
 
 ## Core Contribution
@@ -72537,6 +72702,44 @@ GenAI systems are designed for single-user interaction, yet they are increasingl
 ## Citation
 
 Xu, H., Kharrufa, A., Solaiman, E., & Vlachokyriakos, V. (2026). [AI as an Agent and Collaborative Space: Exploring the role of generative AI in small group synchronous and asynchronous collaborative dynamics](https://doi.org/10.1145/3772318.3791087). In *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '26)*.
+
+---
+
+## [A Critical Narrative Synthesis of Psychological Correlates, Measurement, and Reported Findings on Conversational AI Engagement and Dependence-Related Constructs](https://edtechdev.github.io/aied/articles/yan-conversational-ai-engagement-dependence-synthesis-2026/)
+
+Deyu Yan (2026) presents a critical narrative synthesis of 51 peer-reviewed records (2021–2026) on the psychological correlates, measurement, and reported findings of [[conversational-ai|conversational AI]] engagement and dependence-related constructs. The review separates conceptual and measurement work from 22 first-order empirical records and argues that labels such as trust, reliance, attachment, problematic use, and dependence refer to different processes that are frequently conflated in a rapidly growing body of scales. Cross-sectional studies mainly associated stronger AI-engagement or dependence-oriented scores with loneliness, social anxiety, depressive symptoms, low self-esteem, attachment insecurity, academic stress, escapism, anthropomorphism, fatigue, weaker [[critical-thinking|critical thinking]], procrastination, and lower well-being — associations that do not establish prediction or consequence. The synthesis develops a provisional framework separating instrumental-cognitive from relational-emotional use and treating [[regulation]] as a distinct dimension, and it calls for careful construct separation and design-matched claims.
+
+## Key Findings
+
+- **Constructs are routinely conflated:** Trust (expectations about system competence), reliance (behavioural delegation), over-reliance (delegation without scrutiny), attachment/companionship (emotional closeness), and problematic use/dysregulated dependence (impaired control) refer to different processes yet are often treated as one continuum; several distinct instruments share overlapping labels without a stable object of measurement.
+- **Cross-sectional correlates, not causation:** Mainly cross-sectional studies linked stronger engagement or dependence-oriented scores to poorer well-being, fatigue, weaker critical thinking, procrastination, loneliness, and academic stress — but none of these findings establish prediction or consequence.
+- **Both supportive and harmful experiences are reported:** [[qualitative-research|Qualitative]] and quasi-experimental work documents both relational support (perceived disclosure, lower loneliness in some settings) and distress linked to emotionally significant use, with limited, context-dependent evidence of short-term reductions in loneliness and social anxiety.
+- **Evidence is largely low leverage:** Of 22 first-order empirical records, 16 (72.7%) provided lower-leverage evidence for directional claims and six moderate-leverage evidence; none supported a firm causal model, and direct cross-cultural and platform-comparative research remains rare.
+- **A provisional framework:** Separating use orientation (instrumental-cognitive vs. relational-emotional) from regulation offers an interpretive — not validated — way to organize the field; frequent use, reliance, or attachment should not be labelled dependence without impaired control or functional harm.
+
+## Implications for AI in Education
+
+For educators and [[research-methods-aied|researchers]] the review clarifies a critical distinction relevant to [[ai-education|AI in education]]: productive [[cognitive-offloading|cognitive delegation]] to AI differs from dysregulated dependence, and claims about educational over-reliance (e.g. Zhai et al., 2024) must not be conflated with relational attachment or [[medical-education|clinical]] addiction constructs. It argues for design-matched claims and careful measurement — choosing instruments whose item content matches the intended construct — which matters for studies of [[student-engagement|engagement]] with [[intelligent-tutoring|AI tutors]] and chatbots in [[higher-ed|higher education]]. The provisional instrumental/relational framing also invites attention to how learners use AI for [[metacognition|thinking support]] versus emotional companionship, and to the [[ethics|ethical]] and [[well-being]] dimensions of emotionally significant AI use.
+
+## Connected Concepts
+- [[conversational-ai]]
+- [[cognitive-offloading]]
+- [[well-being]]
+- [[metacognition]]
+- [[ethics]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[student-engagement]]
+
+## Connected Articles
+- [[conversational-ai-agents-umbrella-review-2026]] — Conversational AI Agents in Education: An Umbrella Review
+- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition
+- [[chatbot-engagement-genai-competency-emotion-2026]] — Engagement in LLM Chatbot-Supported Learning
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being
+
+## Citation
+
+Yan, D. (2026). [A critical narrative synthesis of psychological correlates, measurement, and reported findings on conversational AI engagement and dependence-related constructs](https://doi.org/10.3389/fpsyg.2026.1827795). *Frontiers in Psychology, 17*, 1827795.
 
 ---
 
@@ -73370,6 +73573,43 @@ This paper makes the case that the responsible integration of [[generative-ai|ge
 ## Citation
 
 Zhan, S., & Chapman, E. (2026). [Harnessing generative artificial intelligence in computer science education: Pedagogical innovation, ethical responsibility, and the future of assessment](https://doi.org/10.53761/wakxak53) . *Journal of University Teaching and Learning Practice*, 23(5).
+
+---
+
+## [The Relationship Between AI Anxiety and Academic Motivation Among University Students: The Mediating Role of Emotion Regulation and the Moderating Role of Gender](https://edtechdev.github.io/aied/articles/zhang-ai-anxiety-academic-motivation-emotion-2026/)
+
+Yuanchang Zhang, Yantao Shi, and Jing Lu (2026) examined whether AI anxiety constitutes a psychological barrier to university students' motivational adaptation to AI-supported learning, using a cross-sectional survey of 1,484 Chinese undergraduates analysed with moderated-mediation models. [[generative-ai|Generative AI]] is increasingly embedded in students' writing, information retrieval, and knowledge organisation, yet the psychological responses to that integration remain under-studied relative to educational affordances and [[ethics|ethical]] challenges. The study found AI anxiety negatively associated with both emotion [[regulation]] and academic motivation, while emotion regulation was positively associated with academic motivation; bootstrap analyses confirmed a significant negative indirect path from AI anxiety to academic motivation through emotion regulation. Gender moderated the emotion-regulation–motivation link, with a stronger positive association among male students.
+
+## Key Findings
+
+- **AI anxiety correlates with lower motivation and poorer regulation:** AI anxiety was negatively correlated with emotion regulation (r=−0.172) and academic motivation (r=−0.175), whereas emotion regulation was positively correlated with academic motivation (r=0.457), all p<0.001.
+- **Emotion regulation partially mediates the path:** Bootstrap analysis (5,000 resamples) confirmed a significant negative indirect association between AI anxiety and academic motivation through emotion regulation (indirect effect=−0.076, 95% CI −0.108 to −0.047), with the direct path also remaining significant.
+- **Gender moderates the regulation–motivation link:** The positive association between emotion regulation and academic motivation was stronger among male students, making gender a boundary condition for this pathway.
+- **Weak and cautious use-duration signal:** Daily AI use showed only a weak positive correlation with academic motivation (r=0.053), interpreted cautiously given most students reported under one hour of use per day — exposure duration alone does not capture purpose or quality of AI [[student-engagement|engagement]].
+- **Practical implication for [[ai-literacy|AI literacy]] education:** Findings suggest AI literacy education should integrate emotion-regulation and [[metacognition|metacognitive]] support with differentiated, gender-aware learning assistance.
+
+## Implications for AI in Education
+
+The study positions [[well-being|emotional well-being]] as central to whether students thrive in AI-supported learning, arguing that reducing AI anxiety — rather than simply expanding tool access — is key to sustaining [[motivation]]. For [[higher-ed|higher-education]] instructors and support services it suggests pairing AI literacy instruction with [[self-efficacy|confidence]]-building and emotion-regulation strategies, and it cautions against reading usage time as evidence of productive engagement. Because the data are cross-sectional and self-reported, the authors call for longitudinal and experimental designs to test whether these relationships are causal and whether gender-differentiated support is warranted.
+
+## Connected Concepts
+- [[motivation]]
+- [[well-being]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[self-efficacy]]
+- [[metacognition]]
+- [[student-experience]]
+
+## Connected Articles
+- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI Anxiety to Strategic Regulation
+- [[genai-motivation-engagement-2026]] — Examining the Impact of Generative AI on Student Motivation and Engagement
+- [[liang-ai-learning-motivation-sdt-2026]] — From Disengaged to Self-Determined: A Latent Transition Analysis
+- [[ai-perceptions-students-teachers-motivation-2026]] — Exploring AI Perceptions in Education
+
+## Citation
+
+Zhang, Y., Shi, Y., & Lu, J. (2026). [The relationship between AI anxiety and academic motivation among university students: The mediating role of emotion regulation and the moderating role of gender](https://doi.org/10.3389/fpsyg.2026.1918525). *Frontiers in Psychology, 17*, 1918525.
 
 ---
 
