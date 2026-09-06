@@ -57,14 +57,60 @@ const rawSourcePath = z
 
 // Optional structured metadata fields (added 2026-08-29 tag migration).
 // `tags` is the concept vocabulary; these hold non-concept metadata that was
-// formerly mixed into `tags`. Inert until surfaced in the UI / facets.
-const structField = z.any().transform(v => Array.isArray(v) ? v.map(String) : []);
+// formerly mixed into `tags`. Normalized to a controlled vocabulary (2026-09-06):
+// audience/level/research_method/discipline/category are each restricted to a
+// fixed enum (see content.config.ts canonical arrays), mirroring the Sveltia CMS
+// select widgets. Kept lowercase space-separated so the raw token doubles as the
+// human-readable PageFind facet label (search.astro facets display these verbatim).
+const enumList = (...opts: string[]) => z
+  .any()
+  .transform(v => (Array.isArray(v) ? v.map(String) : []))
+  .optional()
+  .refine(arr => (arr ?? []).every(v => opts.includes(v)), {
+    message: 'value must be one of the allowed options',
+  });
+
 const structuredMeta = {
-  research_method: structField.optional(),
-  discipline: structField.optional(),
-  audience: structField.optional(),
-  level: structField.optional(),
-  category: structField.optional(),
+  research_method: enumList(
+    'action design research', 'benchmark', 'bibliometric', 'case study',
+    'comparative study', 'conceptual', 'delphi', 'design and evaluation study',
+    'design-based research', 'educational measurement', 'experiment',
+    'framework proposal', 'group decision making', 'instrument development',
+    'interviews', 'learning analytics', 'literature review', 'longitudinal',
+    'longitudinal study', 'longitudinal survey', 'machine-learning',
+    'meta-analysis', 'mixed methods', 'policy analysis', 'position paper',
+    'process-outcome modeling', 'qualitative', 'quantitative', 'quasi-experiment',
+    'randomized controlled trial', 'research methods', 'secondary analysis',
+    'structural equation modeling', 'survey', 'system development',
+    'systematic review', 'thematic analysis', 'theoretical analysis', 'user study',
+  ),
+  discipline: enumList(
+    'biology education', 'business education', 'chemistry education',
+    'cs education', 'discipline specific', 'engineering education',
+    'english education', 'higher education', 'humanities education',
+    'information technology', 'language learning', 'learning analytics',
+    'learning sciences', 'math education', 'medical education',
+    'physics education', 'science education', 'stem education',
+    'writing education',
+  ),
+  audience: enumList(
+    'administrators', 'assessment designers', 'assessment professionals',
+    'curriculum designers', 'designers', 'edtech designers', 'educators',
+    'elementary education', 'faculty development', 'institutions',
+    'instructional designers', 'instructors', 'learners',
+    'learning analytics designers', 'learning designers', 'medical educators',
+    'policymakers', 'researchers', 'software developers', 'students',
+    'teacher educators', 'teachers',
+  ),
+  level: enumList(
+    'adult learning', 'early childhood', 'elementary', 'higher ed', 'k 12',
+    'secondary', 'special education', 'teacher training',
+  ),
+  category: enumList(
+    'ai foundations', 'assessment', 'collaborative learning', 'curriculum design',
+    'design thinking', 'engagement', 'equity', 'evaluation', 'framework',
+    'instructional design', 'miscellaneous', 'policy', 'synthesis',
+  ),
 };
 
 const articles = defineCollection({

@@ -4,11 +4,12 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 tags: ["bias-mitigation", "equity-in-ai-education", "generative-ai", "multimodal", "ai-literacy", "meta-analysis-systematic-review"]
-research_method: ["systematic review"]
-audience: ["researchers", "policymakers", "designers"]
-level: ["k 12", "higher ed"]
+research_method: [systematic review]
+audience: [researchers, policymakers, designers]
+level: [k 12, higher ed]
 sources: ["raw/papers/bias-representation-text-to-image-education-2026.md"]
 confidence: high
+
 ---
 
 > **Synthesis:** Alon, Hadar Shoval, and Levkovich (2026) conduct a systematic literature review mapping and analyzing empirical studies that examine bias and representation in educational uses of AI-generated text-to-image tools. Following PRISMA guidelines, they identify 31 peer-reviewed studies published between 2023 and 2025 across [[k-12]], [[higher-ed|higher education]], and professional learning contexts. Using a six-part analytic framework (gender; race, ethnicity, and socioeconomic status; culture and religion; age; body and (dis)ability; and content), they find that biased representation was pervasive: images frequently centered white, male, Western, thin, and non-disabled figures, while diversity related to age, body, and ability was largely overlooked. Most studies relied on image audits and [[qualitative-research|qualitative]] methods, with few experimental or intervention-based designs.

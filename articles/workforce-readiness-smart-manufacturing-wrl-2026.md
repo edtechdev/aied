@@ -4,13 +4,14 @@ created: "2026-08-17T09:40:00-04:00"
 updated: "2026-08-24T20:50:00-04:00"
 type: article
 tags: [stem-education, professional-training, ai-literacy, human-ai-collaboration, higher-ed, curriculum-design, experiential-learning, mastery-learning]
-audience: [instructors, administrator]
+audience: [instructors, administrators]
 research_method: [case study]
 discipline: [stem education]
 level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/2608.11540.md']
 confidence: high
+
 ---
 
 > **Synthesis:** Smith and colleagues (2026) argue that AI, the Industrial Internet of Things, cyber-physical systems, and advanced robotics are reshaping manufacturing faster than [[curriculum-design|engineering curricula]] can adapt, widening the gap between shop-floor competencies and what universities teach. To close it, they propose a **Workforce Readiness Level (WRL)** framework that adapts the Technology Readiness Level scale into nine progressive competency stages scored across four pillars — digital and [[ai-literacy|AI literacy]], cyber-physical systems fluency, [[human-ai-collaboration|human-machine collaboration]], and data-driven decision making — aggregated under a "no-thin-pillar" rule. Instantiated in a university smart-manufacturing [[teacher-role|teaching]] laboratory over 89 sponsored capstone projects, the framework surfaced hidden cyber-physical and data-driven gaps and showed that advancement to the highest stages was gated by [[experiential-learning|industry-embedded experience]] rather than additional coursework, offering educators and [[educational-policy-ai|accreditation bodies]] a common instrument for diagnosing workforce readiness.

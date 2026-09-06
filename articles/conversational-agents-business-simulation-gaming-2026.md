@@ -5,10 +5,11 @@ updated: "2026-09-01T12:00:00-04:00"
 type: article
 tags: ["conversational-ai", "game-based-learning", "business-education", "universal-design-for-learning", "self-regulated-learning", "adaptive-learning"]
 research_method: [action design research]
-discipline: [business and economics education]
+discipline: [business education]
 level: [higher ed]
 sources: ["raw/papers/conversational-agents-business-simulation-gaming-2026.md"]
 confidence: medium
+
 ---
 
 ## Overview

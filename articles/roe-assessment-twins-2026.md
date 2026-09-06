@@ -4,11 +4,12 @@ created: "2026-08-22T17:35:00-04:00"
 updated: "2026-08-22T17:55:00-04:00"
 type: article
 tags: [assessment-validity, academic-integrity, authentic-assessment, generative-ai, higher-ed, assessment, ai-literacy]
-audience: [instructors, administrator]
+audience: [instructors, administrators]
 research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/roe-assessment-twins-2026.md']
 confidence: high
+
 ---
 
 > **Synthesis:** Roe, Perkins & Giray (2026) introduce **assessment twins** as a practical approach to redesigning assessment tasks for the age of [[generative-ai|generative AI]]. An assessment twin pairs a GenAI-vulnerable task (e.g., a take-home essay) with a second, less vulnerable task assessing the same [[learning-gains|learning outcomes]], scheduled closely to allow cross-verification — enhancing [[assessment-validity]] without abandoning pedagogically valuable assessment formats. The paper maps GenAI threats across Messick's six strands of validity evidence and proposes a three-step design process (identify vulnerabilities, align outcomes/select the twin, develop interdependent marking). It directly addresses the [[academic-integrity]] problem of GenAI, complementing detection-focused responses with a validity-driven, [[pedagogy]]-first design strategy for [[ai-education|AI-mediated assessment]].

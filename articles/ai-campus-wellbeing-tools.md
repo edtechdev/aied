@@ -5,10 +5,11 @@ updated: "2026-08-15"
 type: article
 tags: [higher-ed, llm, generative-ai, student-experience, affective-computing, edtech-platform, administrator, ai-literacy]
 research_method: [system development]
-audience: [learners, administrator]
+audience: [learners, administrators]
 level: [higher ed]
 sources: ['raw/papers/2605.10804.md']
 confidence: medium
+
 ---
 
 ## Synthesis

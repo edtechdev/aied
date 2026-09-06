@@ -5,9 +5,10 @@ updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [administrator, educational-policy-ai, higher-ed, generative-ai, llm, student-experience, ai-literacy, stem-education, scaffolding, learning-analytics]
 discipline: [stem education]
-audience: [administrator, instructors]
+audience: [administrators, instructors]
 level: [higher ed]
 confidence: medium
+
 ---
 
 > **Administrators** — the institutional, leadership, and decision-making view of AI adoption, strategy, and governance in education. Administrators and institutional leaders shape whether and how AI is adopted — through policy, funding, infrastructure, and the strategic framing of AI's role — and must weigh competing concerns about learning, [[equity-in-ai-education|equity]], risk, and organizational capacity.
