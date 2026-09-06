@@ -5,11 +5,11 @@
 # Admin is served at /aied/admin/ (public/admin in this repo).
 
 # NOTE ON EDITING MODEL
-# This CMS is configured for EDITING EXISTING concept and FAQ pages via a
-# verbatim (raw) Markdown body field, to preserve the wiki's strict markdown
-# conventions ([[wikilinks]], single-block ordered lists, ## heading structure).
-# It intentionally does NOT expose article ingestion fields (sources, raw paths)
-# and does not offer a rich-text editor. created/updated are hidden but retained.
+# Body fields use the richtext (rich_text + raw markdown) widget. A custom
+# wikilink editor component (registered in index.html) renders [[slug]] /
+# [[slug|label]] as inline chips in rich-text mode, while raw mode preserves the
+# wiki's strict markdown conventions (single-block ordered lists, ## heading
+# structure, blockquotes). created/updated are hidden but retained.
 
 # OPEN AUTHORING: visitors with no write access sign in with GitHub, are offered
 # a fork of edtechdev/aied in their own account, edit there, and submit a pull
@@ -109,7 +109,8 @@ collections:
       # 'body' is stored below the frontmatter block as verbatim Markdown.
       - name: body
         label: Body
-        widget: text
+        widget: richtext
+        modes: [rich_text, raw]
 
   # ---------------------------------------------------------------------------
   # CONCEPTS
@@ -187,7 +188,8 @@ collections:
       # 'body' is stored below the frontmatter block as verbatim Markdown.
       - name: body
         label: Body
-        widget: text
+        widget: richtext
+        modes: [rich_text, raw]
 
   # ---------------------------------------------------------------------------
   # FAQs
@@ -246,4 +248,5 @@ collections:
       # 'body' is stored below the frontmatter block as verbatim Markdown.
       - name: body
         label: Body
-        widget: text
+        widget: richtext
+        modes: [rich_text, raw]

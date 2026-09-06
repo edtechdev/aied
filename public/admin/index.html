@@ -7,5 +7,26 @@
   </head>
   <body>
     <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
+    <script>
+      // Wiki-link editor component: renders [[slug]] and [[slug|label]] as an
+      // inline chip in rich-text mode; opens a dialog to edit the slug/label.
+      // Matches the wiki's [[wikilink]] convention (concept/article/faq slugs).
+      CMS.registerEditorComponent({
+        id: 'wikilink',
+        label: 'Wiki Link',
+        icon: 'link',
+        mode: 'dialog',
+        summary: '{{label || slug}}',
+        fields: [
+          { name: 'slug', label: 'Slug' },
+          { name: 'label', label: 'Display text (optional)' },
+        ],
+        // Match [[slug]] or [[slug|display label]]
+        pattern: /\[\[(?<slug>[^\]|]+?)(?:\|(?<label>[^\]]*?))?\]\]/,
+        fromBlock: ({ groups: { slug, label } = {} }) => ({ slug: slug, label: label || '' }),
+        toBlock: ({ slug, label }) => (label ? `[[${slug}|${label}]]` : `[[${slug}]]`),
+        toPreview: ({ slug, label }) => `<span>[[${label || slug}]]</span>`,
+      });
+    </script>
   </body>
 </html>
