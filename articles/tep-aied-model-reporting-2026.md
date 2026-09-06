@@ -4,7 +4,7 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 tags: ["research-methods-aied", "ai-ed-evaluation", "generative-ai", "ethics", "theory-development-aied"]
-research_method: [framework proposal]
+research_method: [theoretical analysis]
 audience: [researchers]
 level: [higher ed]
 sources: ["raw/papers/tep-aied-model-reporting-2026.md"]

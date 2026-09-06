@@ -5,7 +5,7 @@ updated: "2026-09-03T13:40:00-04:00"
 type: article
 tags: [critical-thinking, ai-literacy, early-childhood-elementary-ai-education, k-12, mixed-methods-research, generative-ai, curriculum-design, ethics]
 research_method: [mixed methods, quasi-experiment]
-audience: [elementary education]
+audience: []
 level: [k 12]
 sources: ['raw/papers/demir-akar-ai-media-literacy-children-2026.md']
 confidence: high

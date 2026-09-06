@@ -7,7 +7,7 @@ tags: [metacognition, stem-education, learning-analytics, intelligent-tutoring, 
 audience: [researchers, instructors]
 research_method: [systematic review]
 discipline: [stem education]
-category: [miscellaneous]
+category: []
 sources: ['raw/papers/mdpi-metacognition-ai-stem-2025.md']
 confidence: high
 ---
