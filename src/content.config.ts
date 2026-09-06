@@ -26,6 +26,24 @@ const CONCEPT_SLUGS = new Set(
     .map(f => f.slice(0, -3)),
 );
 
+// `connected_faqs` must reference existing FAQ pages only (2026-09-06). faqs/
+// is committed, so the authoritative set derives from the faqs dir at load time.
+const FAQ_SLUGS = new Set(
+  readdirSync(faqsDir)
+    .filter(f => f.endsWith('.md'))
+    .map(f => f.slice(0, -3)),
+);
+// Shared schema: normalized to a string array, then every entry must be a real
+// FAQ slug (matched against the faqs collection, mirroring the Sveltia CMS
+// relation widget on the same field).
+const connectedFaqs = z
+  .any()
+  .transform(v => (Array.isArray(v) ? v.map(String) : []))
+  .optional()
+  .refine(arr => (arr ?? []).every(slug => FAQ_SLUGS.has(slug)), {
+    message: 'connected_faqs must be existing FAQ slugs',
+  });
+
 // `sources` must be a raw/papers/<slug>.md path — NOT an external URL (a DOI,
 // landing page, or bare http link). The schema validates FORMAT only: raw/ is
 // gitignored and therefore absent in CI, so a filesystem existence check would
@@ -63,7 +81,7 @@ const articles = defineCollection({
     sources: z.array(rawSourcePath),
     confidence: z.enum(['high', 'medium', 'low']),
     source_url: z.string().optional(),
-    connected_faqs: z.any().transform(v => Array.isArray(v) ? v.map(String) : []).optional(),
+    connected_faqs: connectedFaqs,
     ...structuredMeta,
   }),
 });
@@ -81,7 +99,7 @@ const concepts = defineCollection({
       }),
     confidence: z.enum(['high', 'medium', 'low']),
     source_url: z.string().optional(),
-    connected_faqs: z.any().transform(v => Array.isArray(v) ? v.map(String) : []).optional(),
+    connected_faqs: connectedFaqs,
     ...structuredMeta,
   }),
 });
