@@ -98,8 +98,8 @@ def collect():
 
 def build_llms_txt(articles, concepts, faqs):
     lines = []
-    lines.append("# AI in Education Wiki")
-    lines.append(f"> A comprehensive wiki of {len(concepts)} concepts, {len(articles)} research articles, and {len(faqs)} FAQs covering AI in education — frameworks, methodologies, and papers.")
+    lines.append("# AI in Education Knowledge Base")
+    lines.append(f"> A comprehensive knowledge base of {len(concepts)} concepts, {len(articles)} research articles, and {len(faqs)} FAQs covering AI in education — frameworks, methodologies, and papers.")
     lines.append("")
     lines.append("## Concepts")
     lines.append("")
@@ -122,7 +122,7 @@ def build_llms_txt(articles, concepts, faqs):
 
 def build_llms_full(articles, concepts, faqs):
     lines = []
-    lines.append("# AI in Education Wiki — Full Content")
+    lines.append("# AI in Education Knowledge Base — Full Content")
     lines.append(f"> Complete text of {len(concepts)} concepts, {len(articles)} articles, and {len(faqs)} FAQs.")
     lines.append("")
     lines.append("# Concepts")
