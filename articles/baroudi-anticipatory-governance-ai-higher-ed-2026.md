@@ -5,10 +5,11 @@ updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [governance, educational-policy-ai, administrator, higher-ed, ai-education, ethics, change-management]
 research_method: [systematic review]
-audience: [administrator]
+audience: [administrators]
 level: [higher ed]
 sources: ['raw/papers/baroudi-anticipatory-governance-ai-higher-ed-2026.md']
 confidence: high
+
 ---
 
 > **Synthesis:** This [[meta-analysis-systematic-review|scoping review]] of 19 sources (2020–2025) examines how [[governance|anticipatory governance]] and [[administrator|leadership]] are conceptualized and operationalized for [[generative-ai|AI]] implementation in [[higher-ed|higher education]]. It finds that institutions must shift from reactive to proactive, foresight-driven leadership emphasizing stakeholder [[student-engagement|engagement]], data literacy, [[collaborative-learning|collaboration]], and inclusive policy frameworks. Empowering and distributive leadership styles increase AI adoption, yet formal senior AI roles remain rare. A persistent theory-implementation gap is driven by weak policy frameworks and limited digital infrastructure, especially in the [[global-south|Global South]]. The review identifies a lack of non-Western [[research-methods-aied|research]] and an absence of longitudinal or causal evidence as key gaps.

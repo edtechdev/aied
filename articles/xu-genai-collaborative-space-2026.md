@@ -5,11 +5,12 @@ updated: "2026-09-02T10:00:00-04:00"
 type: article
 tags: [collaborative-learning, distributed-cognition, human-ai-collaboration, conversational-ai, higher-ed, generative-ai, student-experience]
 research_method: [qualitative]
-audience: [instructors, learning-designers, researchers]
+audience: [instructors, learning designers, researchers]
 level: [higher ed]
 category: [collaborative learning]
 sources: ['raw/papers/xu-genai-collaborative-space-2026.md']
 confidence: high
+
 ---
 
 > **AI as an Agent and Collaborative Space.** A qualitative study by Haowei Xu, Ahmed Kharrufa, Ellis Solaiman & Vasilis Vlachokyriakos (2026) examining how [[generative-ai|generative AI]] shapes small-group collaboration through observations and interviews with **27 higher-education students**. Through a [[distributed-cognition|distributed cognition]] lens, the study finds a stark contrast: in **synchronous** settings with a single shared GenAI interface, teams maintain shared awareness, co-construct prompts, treat the chat as shared external memory, and openly negotiate AI's role — whereas in **asynchronous** teamwork GenAI is used individually, with outputs selectively rewritten or "de-labelled" before being shared, making AI's influence on decisions opaque and harder to trace. The paper proposes a **GenAI-Supported Cooperative Work (GSCW)** perspective, framing GenAI as both a configurable agent (from individual assistant to team member) and an interactive collaborative space.

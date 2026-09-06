@@ -4,12 +4,13 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-26T15:35:00-04:00"
 type: article
 tags: [assessment, assessment-validity, formative-assessment, generative-ai, ai-ed-evaluation, learning-theories, equity-in-ai-education, human-in-the-loop-ai, automated-assessment, ai-literacy]
-audience: [administrator, instructors]
+audience: [administrators, instructors]
 research_method: [theoretical analysis]
 category: [assessment, evaluation]
 
 sources: ['raw/papers/responsible-assessment-ai-era-stanford-2026.md']
 confidence: high
+
 ---
 
 > **Responsible assessment in the AI era** — assessment grounded in learners' [[sociocultural-learning|sociocultural]] contexts and designed to generate valid, trustworthy, context-specific inferences from accumulated evidence, not one-shot outputs. This Stanford Accelerator for Learning + ETS white paper (McGee, Thille, Choi, Ercikan & Hau, 2026, distilled from a January 2026 convening of ~100 education leaders) argues [[generative-ai|generative AI]] has broken the assumption that final products measure human capability: learners can produce high-quality artifacts without the underlying learning, AI scoring introduces construct-irrelevant variance, and the gap between what is measured and what matters is widening. The field's response is a shift from testing events to systems of inference — continuous and [[formative-assessment]], portfolio- and conversation-based evidence ([[socratic-tests-conversational-assessment]]), [[authentic-assessment]] in real tasks, and [[human-in-the-loop-ai]] design — paired with validity infrastructure for [[automated-assessment|Automated Grading]], shared definitions of emerging constructs like [[ai-literacy]], and sustained attention to [[equity-in-ai-education]], transparency, and trust.

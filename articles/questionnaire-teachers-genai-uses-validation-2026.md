@@ -4,11 +4,12 @@ created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-01T09:11:26-04:00"
 type: article
 tags: ["educational-measurement", "generative-ai", "teacher-role", "assessment-validity", "k-12", "teacher-ai-competency"]
-research_method: ["instrument development"]
-audience: ["researchers", "teacher educators"]
-level: ["secondary"]
+research_method: [instrument development]
+audience: [researchers, teacher educators]
+level: [secondary]
 sources: ["raw/papers/10.1016_j.caeo.2026.100332.md"]
 confidence: high
+
 ---
 
 > **Synthesis:** Pérez-Montesdeoca, Rodríguez-Rodríguez, Stendardi, and Fernández-Sogorb (2026) design and validate a questionnaire measuring secondary-school teachers' educational uses of [[generative-ai|generative AI]]. After expert judgment on an initial item pool, they administered the instrument to 486 secondary-school teachers in Spain, and confirmatory factor analysis supported a six-dimension structure — teacher management, creation of [[teacher-role|teaching]] materials, student assessment, student empowerment, attention to diversity, and student [[motivation]] — with high internal consistency and adequate convergent and discriminant validity.

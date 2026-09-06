@@ -4,11 +4,12 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 tags: ["medical-education", "generative-ai", "human-in-the-loop-ai", "discipline-specific-aied", "simulation", "llm"]
-research_method: ["design and evaluation study"]
-audience: ["medical educators", "researchers", "designers"]
-level: ["higher ed"]
+research_method: [design and evaluation study]
+audience: [medical educators, researchers, designers]
+level: [higher ed]
 sources: ["raw/papers/gen-mentor-dental-radiography-2026.md"]
 confidence: high
+
 ---
 
 > **Synthesis:** Dong, Peng, Wu, Shen, Sun, Chen, Guan, Wang, Ni, Huang, and Tao (2026) present Gen-Mentor, a human-in-the-loop instructional framework that integrates a DentDiff-VLM backbone into a dental-radiography workflow. The backbone uses Faster R-CNN to localize four target radiographic findings (Filling, Implant, Impacted Tooth, and Cavity), a conditional diffusion model supports [[curriculum-design|curriculum]] expansion by generating class-specific synthetic ROI candidates, a vision-language model (VLM) generates evidence-linked caption candidates, and a large language model (LLM) reformats them into candidate case descriptions, comparisons, and quiz prompts. Selected candidate instructional assets undergo structured expert review. Evaluated across technical performance, expert review, and learner acceptance among dental students (N = 45), the framework achieved a mean System [[usability-research|Usability]] Scale score of 72.7, with improvements in case diversity and immediate-feedback support.

@@ -4,11 +4,12 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 tags: ["generative-ai", "cognitive-psychology", "business-education", "technology-acceptance-model", "trust", "self-efficacy"]
-research_method: ["survey", "structural equation modeling"]
-audience: ["researchers", "educators", "institutions"]
-level: ["higher ed"]
+research_method: [survey, structural equation modeling]
+audience: [researchers, educators, institutions]
+level: [higher ed]
 sources: ["raw/papers/genai-decision-capability-cognitive-load-2026.md"]
 confidence: high
+
 ---
 
 > **Synthesis:** Rai, Kathuria, Kaur, Singh, and Itani (2026) examine the impact of GenAI adoption on business students' perception of their decision-making capability through the lenses of decision augmentation theory (DAT) and cognitive load theory (CLT). A survey of 350 [[higher-ed|university]] business students in the United Arab Emirates, analyzed with structural equation modeling, examined cognitive load reduction, information quality, and decision confidence as mediators, and GenAI trust as a moderator. Results revealed that GenAI significantly improves students' perceived decision capability by improving confidence in decision-making and information quality. Although GenAI effectively reduces cognitive load, this reduction is negatively associated with perceived decision capability. Mediation analysis confirmed that decision confidence and information quality significantly mediate the relationship between GenAI adoption and perceived decision capability, while moderation analysis revealed that high trust in GenAI weakens the positive effects of GenAI on cognitive load reduction and information quality.

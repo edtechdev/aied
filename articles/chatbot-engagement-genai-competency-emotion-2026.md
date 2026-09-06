@@ -4,11 +4,12 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 tags: ["student-engagement", "generative-ai", "conversational-ai", "self-efficacy", "student-experience", "motivation"]
-research_method: ["survey", "structural equation modeling"]
-audience: ["researchers", "learning designers"]
-level: ["higher ed"]
+research_method: [survey, structural equation modeling]
+audience: [researchers, learning designers]
+level: [higher ed]
 sources: ["raw/papers/chatbot-engagement-genai-competency-emotion-2026.md"]
 confidence: high
+
 ---
 
 > **Synthesis:** Huang and Zhang (2026) propose and test a theoretically grounded model of student engagement in [[llm]] chatbot-supported learning, guided by appraisal theory. Unlike prior studies that focus on isolated antecedents, the model integrates learners' capacity appraisals ([[generative-ai|GenAI]] competency and academic self-efficacy), in-situ cognitive appraisals (perceived usefulness and ease of use of the chatbot), and affective appraisals (emotions experienced when using the chatbot). Based on 234 responses analyzed with structural equation modeling and mediation analyses, the study finds that GenAI competency had the strongest relationship with student engagement, emotion fully mediated the effect of perceived usefulness on engagement, and academic self-efficacy showed no significant direct association after accounting for other variables.

@@ -4,11 +4,12 @@ created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-01T09:11:26-04:00"
 type: article
 tags: ["constructivist", "generative-ai", "higher-ed", "global-south", "technology-acceptance-model", "educational-policy-ai"]
-research_method: ["mixed methods"]
-audience: ["instructors", "administrators", "researchers"]
-level: ["higher ed"]
+research_method: [mixed methods]
+audience: [instructors, administrators, researchers]
+level: [higher ed]
 sources: ["raw/papers/10.1016_j.caeo.2026.100378.md"]
 confidence: high
+
 ---
 
 > **Synthesis:** Alam, Farhaz, Haq, and Ferdous (2026) investigate [[generative-ai|GenAI]] adoption in Bangladeshi universities through the lens of [[constructivist]] [[learning-theories|Learning Theory]], using surveys of 255 faculty members and focus-group discussions, with structural equation modeling in SmartPLS. Attitude toward GenAI use was a strong predictor of the extent of use (β = 0.556), itself influenced by competency, [[discipline-specific-aied|domain-specific]] technology relevance, and students' technology-use provision; domain-specific relevance had the strongest effect on attitude (β = 0.413), while subjective norms and [[governance|institutional]] technology-use provision were not significant.
