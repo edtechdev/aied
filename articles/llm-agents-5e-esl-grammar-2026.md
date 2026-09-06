@@ -4,7 +4,8 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-01T10:00:00-04:00"
 type: article
 sources: ["raw/papers/llm-agents-5e-esl-grammar-2026.md"]
-tags: ["large-language-models", "esl-learners", "grammar-acquisition", "5e-framework", "inquiry-based-learning", "ai-agents", "second-language-learning"]
+tags: ['llm', 'language-learning', 'inquiry-based-learning', 'agentic-ai']
+confidence: medium
 ---
 
 ## Overview

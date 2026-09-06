@@ -5,6 +5,7 @@ updated: "2026-09-01T15:00:00-04:00"
 type: article
 sources: ["raw/papers/personalized-neural-cognitive-architecture-search-2026.md"]
 tags: ["personalized-learning", "educational-measurement", "adaptive-learning", "learning-analytics", "cognitive-diagnosis"]
+confidence: medium
 ---
 
 ## Overview

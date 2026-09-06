@@ -3,14 +3,7 @@ title: "Reinforcement Learning in Education: A Systematic Literature Review"
 created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: article
-tags:
-  - reinforcement-learning
-  - machine-learning
-  - adaptive-learning
-  - intelligent-tutoring
-  - personalized-learning
-  - systematic-review
-  - meta-analysis-systematic-review
+tags: ['reinforcement-learning', 'machine-learning', 'adaptive-learning', 'intelligent-tutoring', 'personalized-learning', 'meta-analysis-systematic-review']
 sources:
   - raw/papers/riedmann-reinforcement-learning-education-review-2026.md
 confidence: high

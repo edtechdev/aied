@@ -3,7 +3,7 @@ title: "You've Got AI Friend in Me: LLMs as Collaborative Learning Partners"
 created: "2026-09-03T14:12:57-04:00"
 updated: "2026-09-03T14:12:57-04:00"
 type: article
-tags: [llm, collaborative-learning, human-ai-collaboration, student-ai-interaction, conversational-ai, generative-ai, argumentation, writing-education, learning-gains, higher-ed, prompt-engineering, self-efficacy]
+tags: ['llm', 'collaborative-learning', 'human-ai-collaboration', 'student-ai-interaction', 'conversational-ai', 'generative-ai', 'writing-education', 'learning-gains', 'higher-ed', 'prompt-engineering', 'self-efficacy']
 sources: ['raw/papers/oppenheimer-llms-collaborative-learning-partners-2026.md']
 confidence: medium
 ---

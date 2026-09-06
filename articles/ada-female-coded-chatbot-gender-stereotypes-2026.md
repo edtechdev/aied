@@ -3,7 +3,7 @@ title: "Bridging the Gender Gap in STEM Education with AI: Female-Coded Chatbot 
 created: "2026-09-05T06:04:05-04:00"
 updated: "2026-09-05T06:04:05-04:00"
 type: article
-tags: [equity-in-ai-education, gender, chatbot, conversational-ai, stem-education, math-education, k-12, self-efficacy, role-model, motivation, student-experience, intelligent-tutoring]
+tags: ['equity-in-ai-education', 'conversational-ai', 'stem-education', 'math-education', 'k-12', 'self-efficacy', 'motivation', 'student-experience', 'intelligent-tutoring']
 sources: ['raw/papers/ada-female-coded-chatbot-gender-stereotypes-2026.md']
 confidence: high
 ---

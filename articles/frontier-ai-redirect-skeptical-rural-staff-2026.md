@@ -5,6 +5,7 @@ updated: "2026-09-01T15:00:00-04:00"
 type: article
 sources: ["raw/papers/frontier-ai-redirect-skeptical-rural-staff-2026.md"]
 tags: ["llm", "conversational-ai", "trust", "k-12", "human-in-the-loop-ai"]
+confidence: medium
 ---
 
 ## Overview

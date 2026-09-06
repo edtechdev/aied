@@ -5,6 +5,7 @@ updated: "2026-09-01T12:00:00-04:00"
 type: article
 sources: ["raw/papers/instructional-design-proficiency-masters-math-2026.md"]
 tags: ["learning-design", "math-education", "teacher-education", "educational-development", "intelligent-tutoring"]
+confidence: medium
 ---
 
 ## Overview

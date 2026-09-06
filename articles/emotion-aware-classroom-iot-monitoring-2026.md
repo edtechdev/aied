@@ -4,7 +4,8 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-01T10:00:00-04:00"
 type: article
 sources: ["raw/papers/emotion-aware-classroom-iot-monitoring-2026.md"]
-tags: ["emotion-recognition", "iot", "classroom-quality", "real-time-monitoring", "affective-computing", "edge-computing", "computer-vision"]
+tags: ['affective-computing']
+confidence: medium
 ---
 
 ## Overview

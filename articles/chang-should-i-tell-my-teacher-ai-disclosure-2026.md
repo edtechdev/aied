@@ -6,7 +6,8 @@ type: article
 tags: [ai-use-disclosure, self-regulated-learning, help-seeking, academic-integrity, higher-ed, generative-ai, social-emotional-learning]
 research_method: [survey]
 level: [higher ed]
-sources: ["https://doi.org/10.3389/feduc.2026.1826174"]
+sources: ['raw/papers/chang-should-i-tell-my-teacher-ai-disclosure-2026.md']
+source_url: 'https://doi.org/10.3389/feduc.2026.1826174'
 confidence: high
 ---
 

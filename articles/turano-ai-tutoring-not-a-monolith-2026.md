@@ -6,7 +6,8 @@ type: article
 tags: [intelligent-tutoring, k-12, educational-policy-ai, guardrails, privacy, learning-gains, pedagogical-safety]
 research_method: [learning analytics]
 level: [k 12]
-sources: ["https://scale.stanford.edu/"]
+sources: ['raw/papers/turano-ai-tutoring-not-a-monolith-2026.md']
+source_url: 'https://scale.stanford.edu/'
 confidence: high
 ---
 

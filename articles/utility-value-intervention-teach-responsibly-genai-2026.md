@@ -3,7 +3,7 @@ title: "Perceived Utility Moderates Motivational Intervention Effects in Learnin
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-01T09:11:26-04:00"
 type: article
-tags: ["teacher-education", "ai-literacy", "ethics", "motivation", "genai", "tpack", "professional-training"]
+tags: ['teacher-education', 'ai-literacy', 'ethics', 'motivation', 'generative-ai', 'tpack', 'professional-training']
 research_method: ["experimental study"]
 audience: ["teacher educators", "researchers"]
 level: ["higher ed"]

@@ -3,7 +3,7 @@ title: "Reimagining teacher-AI co-design in learning task design: trends and per
 created: "2026-09-02T09:50:00-04:00"
 updated: "2026-09-02T09:50:00-04:00"
 type: article
-tags: [teacher-ai-competency, learning-design, human-ai-collaboration, teacher-role, systematic-review, generative-ai, instructional-design]
+tags: ['teacher-ai-competency', 'learning-design', 'human-ai-collaboration', 'teacher-role', 'meta-analysis-systematic-review', 'generative-ai']
 research_method: [systematic-review]
 audience: [instructors, learning-designers, researchers, faculty development]
 level: [higher ed, k 12]

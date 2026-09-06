@@ -7,7 +7,8 @@ tags: [ai-use-disclosure, academic-integrity, assessment, higher-ed, generative-
 research_method: [mixed methods]
 level: [higher ed]
 category: [assessment]
-sources: ["https://doi.org/10.1080/02602938.2024.2415654"]
+sources: ['raw/papers/gonsalves-student-non-compliance-ai-declarations-2025.md']
+source_url: 'https://doi.org/10.1080/02602938.2024.2415654'
 confidence: high
 ---
 

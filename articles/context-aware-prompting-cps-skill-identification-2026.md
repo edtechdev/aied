@@ -5,6 +5,7 @@ updated: "2026-09-01T15:00:00-04:00"
 type: article
 sources: ["raw/papers/context-aware-prompting-cps-skill-identification-2026.md"]
 tags: ["problem-solving", "collaborative-learning", "prompt-engineering", "learning-analytics", "educational-measurement"]
+confidence: medium
 ---
 
 ## Overview
