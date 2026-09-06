@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 184 concepts, 1090 articles, and 17 FAQs.
+> Complete text of 184 concepts, 1091 articles, and 17 FAQs.
 
 # Concepts
 
@@ -572,6 +572,7 @@ A step beyond orchestrating a few specialised agents is the **full agentic multi
 ## The central tension: automation vs. learning
 
 The [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] work articulates the field's defining tension: as education AI shifts from passive [[conversational-ai|chatbots]] to **proactive agents** that initiate and pursue goals, personalization improves but **learner [[agency]] and cognitive effort** are at risk. The more an agent automates, the less [[cognitive-offloading|cognitive work]] the learner does. The design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — acts as a principled guardrail. This connects to [[desirable-difficulties]], [[sociocultural-learning]], and the risk of [[cognitive-offloading|Over-Reliance]], and to the broader theme of preserving [[agency]] in AI-mediated learning.
+One empirical check comes from [[spec-driven-development-ai-agents-sdpbl-2026|a practical report on Spec-Driven Development in a software PBL course (Tanaka et al. 2026)]]: students using AI agents across development phases generated more code but showed code-comprehension dips that recovered only after instructor one-on-one interviews - concrete field evidence for the automation-vs-learning tension and for [[human-in-the-loop-ai|human-in-the-loop]] monitoring as the mitigation.
 
 The survey literature turns these principles into **measurable design [[guardrails]]** rather than vague intentions. On scaffolding, [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al. (2025)]] recommend **fading protocols** — gradually reduce hint frequency after each successful attempt — and targeting a **[[help-seeking]] ratio (AI-initiated hints ÷ total student actions) below 0.3**, so the agent is not the one driving most of the interaction. They pair this with **reflective checkpoints** (e.g., ask the learner to explain their reasoning before the agent offers the next cue) and adaptive fading curves whose intervention likelihood drops as proficiency rises. On transparency, agents should expose a "Why this suggestion?" rationale and keep **timestamped decision-traceability logs** (agent rationale, data sources, decisions) available for instructional auditing. On [[bias-mitigation|fairness]], they advise pre-deployment **disparate-impact testing across at least three demographic groups** (e.g., gender, language, geography) and involving diverse teachers in design. These metrics give an instructor or designer an audit lever: rather than asking "is the agent too helpful?", measure whether hints are fading, whether the learner is initiating, and whether the agent's reasoning is inspectable.
 
@@ -724,6 +725,7 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a describing agent as a learning-experience evaluator (predicts dropout, gives design feedback before students engage)
+- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in software PBL; automation vs. comprehension
 
 ---
 
@@ -792,7 +794,9 @@ The knowledge base's articles document cognitive offloading across multiple dime
 
 **Over-reliance** is the excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. It is the behavioral manifestation of excessive cognitive offloading: when offloading becomes the default rather than a strategic choice. Over-reliance is not simply about using AI too much — it is about using AI in ways that substitute for rather than complement learning processes.
 
-The knowledge base's research documents over-reliance as one of the most consequential risks of AI in education:
+The knowledge base's research documents over-reliance as one of the 
+- **Agentic coding offloads comprehension in the field:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] report that undergraduates using [[agentic-ai|AI agents]] in a software project course wrote more code year-over-year but showed comprehension dips under heavy use - recoverable through one-on-one instructor verification of AI-generated code.
+most consequential risks of AI in education:
 
 - **Learning displacement:** [[ai-making-us-stupid|Research on AI's cognitive effects]] documents how AI availability reduces effortful processing — the "Google effect extended to reasoning." [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] isolate this as a distinct *pattern* of use: **low-verification uptake** (uncritically accepting AI output) predicted worse [[learning-gains|academic performance]], whereas **evaluative integration** (using AI to support understanding) predicted better performance — and usage **frequency** alone predicted neither. Over-reliance is therefore a *mode of use* that can be separated from how much students use AI.
 - **The agency problem:** [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames over-reliance as an agency and motivation crisis — students bypass learning not because AI is compelling, but because learning tasks feel pointless when AI can complete them effortlessly.
@@ -890,6 +894,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Documents effort-substitution harm from unguarded AI access
+- [[spec-driven-development-ai-agents-sdpbl-2026]] - AI-agent code generation and comprehension offloading in a PBL course
 
 ---
 
@@ -3215,7 +3220,7 @@ Project-based learning is closely related to — but distinct from — [[problem
 - **The Project Approach in early childhood with AI agents:** [[creative-project-approach-ai-early-childhood-2025|Yang, Li and Lee (2025)]] extend PBL's foundational form — the Project Approach (Katz & Chard), an extended collaborative investigation of a real-world topic — into [[early-childhood-elementary-ai-education|early childhood]], proposing a five-step **Creative Project Approach** that integrates [[agentic-ai|AI agents]] and [[educational-robotics|robots]] (coding robots and generative social robots) into projects to foster young children's [[creativity|creative learning]]. The five steps — identify learning needs, facilitate teacher-guided child–robot interaction, situate AI in contexts, calibrate the automation/creativity balance, and evaluate outcomes — keep the teacher as a facilitator guiding inquiry, positioning PBL as the natural vehicle for developmentally appropriate AI use with the youngest learners.
 - **Gamification coupling:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] found [[game-based-learning|Gamification]] in robotics education strongly favored project-based learning (p = .009).
 - **AI literacy and co-design:** PBL underlies many [[ai-literacy|AI literacy]] and [[teacher-education]] interventions, where learners co-create AI tools or resources.
-
+- **AI-agent-supported software PBL:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] embedded Spec-Driven Development with [[agentic-ai|AI agents]] into a team-based undergraduate software PBL course, structuring projects into investigation, planning, implementation, and review phases paired with instructor-run comprehension checks.
 PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-learning]], [[educational-robotics]], [[game-based-learning]], [[computational-thinking]], and [[higher-ed]]/[[k-12]] pedagogy.
 
 - **PBL supports AI-powered robotics learning.** [[educational-robotics-pathways-2026|Pathways research]] shows project-based robotics+AI curricula let high school students learn through engagement in real-world practice, designing, and playful creative expression.
@@ -3259,6 +3264,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: AI agents and robotics within the Project Approach in early childhood (Yang, Li & Lee 2025)
+- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in team software PBL
 
 ---
 
@@ -10268,6 +10274,7 @@ Because programming is where AI assistance is most powerful, it is also where th
 - **Behavioral context for adaptive AI tutoring:** [[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]] present **TutorTrace**, a dataset and pipeline that makes learners' behavioral context computable in real time from IDE telemetry in AI-assisted Python courses (N=480). It derives a taxonomy of activity before, between, and across AI queries, and can classify whether an upcoming query reflects guided or dependent [[help-seeking]] (AUROC=.717) and predict imminent queries (AUROC=.726); behavior-aware prompts reduced no-independent-work query intervals from 50.0% to 20.7% in a preliminary evaluation. This shows how behavioral telemetry can make [[intelligent-tutoring|AI programming tutors]] adaptive to learners' actual effort, not just their explicit requests.
 - **The duality of building what you use:** CS students' unique position creates both meta-cognitive awareness of AI limitations and real risk of [[cognitive-offloading|Over-Reliance]] on AI-generated code. [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this tension directly.
 
+- **Agentic coding and comprehension in team PBL:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] introduced Spec-Driven Development with [[agentic-ai|AI agents]] into an undergraduate software-engineering project course and found that implementation throughput (added LOC) rose across 2022-2025 while heavy AI use coincided with code-comprehension dips that only recovered after one-on-one instructor checks - direct evidence that throughput gains do not guarantee understanding, and that [[cognitive-offloading|over-reliance]] in AI-assisted coding is amenable to instructional monitoring.
 ### Equity, culture, and who gets into computing
 
 - **Broadening participation:** [[suacode-african-students-motivations|SuaCode]] documents motivations for smartphone-based coding among African students (fewer than 1% of secondary-school leavers have fundamental coding skills), informing accessible AI-supported MOOCs for [[equity-in-ai-education|low-resource contexts]].
@@ -10355,6 +10362,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
 - [[zhang-ml-student-progress-programming-2026]]
+- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in a software PBL course; throughput vs. comprehension
 
 ---
 
@@ -65472,6 +65480,45 @@ The argument is ultimately one of social investment. Successful GenAI integratio
 ## Citation
 
 Herron, M. B. (2026). [*Atmospheric regulation in the age of generative AI: The sovereign hive and the tutor-in-the-loop (TITL) framework for equity in further education*](https://osf.io/preprints/edarxiv/jqaxz_v1/). EdArXiv preprint.
+
+---
+
+## [Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL](https://edtechdev.github.io/aied/articles/spec-driven-development-ai-agents-sdpbl-2026/)
+
+> **Synthesis:** This practical implementation report (Tanaka et al., 2026; accepted at CSEE&T 2026) documents how Spec-Driven Development (SDD) — a methodology in which [[agentic-ai|AI agents]] generate documentation and code from structured specification documents — was introduced into a third-year undergraduate Software Development Project-Based Learning (SDPBL) course in Japan across the 2025 academic year. Using weekly self-report surveys, added-lines-of-code (LOC) data from Git, and one-on-one instructor interviews of code comprehension, the study finds that AI agent use varied markedly by team and by development phase, that implementation throughput rose across 2022–2025 in step with [[llm]] proliferation, and that heavier AI use coincided with drops in code comprehension — a risk the authors argue must be managed through continuous instructor monitoring, timely intervention, and accountability for AI-generated code.
+
+## Key Findings
+
+1. **AI use varied by phase and team (RQ1).** Across four SDD phases (investigation, planning, implementation, review), all four teams used AI to some extent in implementation and debugging, but use in investigation, planning, and especially review differed greatly between teams. Team 25C used AI least; Teams 25A and 25B used it effectively across all phases.
+2. **Implementation throughput rose in step with LLM availability (RQ2).** Steel-Dwass tests on added LOC per lecture across 2022–2025 found statistically significant increases in seven of eight lectures, with earlier years (2022–2023) consistently below later years (2024–2025). No lecture showed later years with *fewer* added LOC.
+3. **Higher AI use coincided with lower code comprehension, but not as a clean statistical trend (RQ3).** Students who reported no AI use maintained consistently high comprehension; those at the highest AI-usage levels showed low comprehension, especially mid-course. Yet no significant overall correlation emerged, likely due to small samples and instructor interventions.
+4. **Instructor [[feedback]] appeared to buffer comprehension risk.** Comprehension dropped when AI usage peaked (lec09) but recovered after one-on-one instructor interviews, suggesting proactive checking of code understanding can mitigate over-reliance.
+5. **Recommended practices for AI-agent-supported PBL.** The authors recommend a foundation-first tutorial period, continuous monitoring with timely intervention, and holding students accountable for explaining AI-generated code, plus standardized project templates with pre-configured AI instructions (e.g., `copilot-instructions.md`).
+
+## Implications
+
+This report speaks directly to the [[cs-education|programming education]] thread on AI-assisted coding and to the wiki's [[cognitive-offloading]] literature: it is a field-level demonstration that AI agents can accelerate development *without* guaranteeing learning, echoing findings in [[liu-tool-tutor-crutch-programming-2026]] and [[genai-meta-analysis-programming-learning]]. For [[teacher-role|instructors]], its concrete, transferable design (four-phase SDD workflow, spec templates, weekly one-on-one comprehension interviews) offers a template for integrating [[agentic-ai]] into [[project-based-learning]] while keeping code comprehension in view. It also raises design questions about [[scaffolding]] and [[metacognition]] — when AI does the implementation, what mechanisms ensure students still develop understanding?
+
+## Connected Concepts
+
+- [[cs-education]]
+- [[project-based-learning]]
+- [[agentic-ai]]
+- [[cognitive-offloading]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[agentic-education-coding]] — Agentic AI tools in coding education
+- [[ai-writes-code-student-writes-model-2026]] — Ensuring comprehension when AI writes the code
+- [[liu-tool-tutor-crutch-programming-2026]] — Scaffolding vs. offloading in AI-assisted programming
+- [[code-review-genai-cs1]] — Instructor-led verification of AI-generated code in CS1
+- [[genai-meta-analysis-programming-learning]] — Effects of generative AI on programming learning
+- [[reshaping-cs-education-genai]] — Redesigning CS education for the generative-AI era
+
+## Citation
+
+Tanaka, H., Igaki, H., Shimari, K., Honda, K., & Fukuyasu, N. (2026). [Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL](https://arxiv.org/abs/2608.30572). *arXiv preprint arXiv:2608.30572*.
 
 ---
 
