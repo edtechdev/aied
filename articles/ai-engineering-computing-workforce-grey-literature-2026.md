@@ -4,13 +4,14 @@ created: "2026-08-17T10:30:00-04:00"
 updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [engineering-education, professional-training, ai-literacy, governance, curriculum-design, prompt-engineering, higher-ed, stem-education, cs-education]
-audience: [administrator, instructors]
+audience: [administrators, instructors]
 research_method: [systematic review, interviews]
 discipline: [engineering education, stem education, cs education]
 level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/ai-engineering-computing-workforce-grey-literature-2026.md']
 confidence: high
+
 ---
 
 > **Synthesis:** Fletcher and colleagues (2026) conduct a [[meta-analysis-systematic-review|systematic review]] of U.S. grey literature and document analysis of 22 reports (2020–2025) to understand how AI is reshaping the engineering and computing workforce and what this means for higher education. Framing the tension between rapid technological change and urgent policy decisions as the "Dual Train Problem," the review synthesizes projections from sources such as the Bureau of Labor Statistics, MIT's Shaping Work Project (1.6–3.2 million U.S. jobs displaced over two decades; up to 30% automatable by the mid-2030s), and the World Economic Forum. The findings imply that while some engineering and computing fields will grow, AI will replace many tasks (reducing jobs and working hours) even as new AI-oriented roles emerge, leading the authors to recommend that higher education prioritize durable AI competencies, [[ethics]] and [[governance]], and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, [[educational-policy-ai|AI policy]]) to sustain human-centered engineering.

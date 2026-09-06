@@ -5,10 +5,11 @@ updated: "2026-08-24T05:06:37-04:00"
 type: article
 tags: [educational-policy-ai, higher-ed, governance, ethics, equity-in-ai-education, meta-analysis-systematic-review, change-management, administrator]
 research_method: [systematic review]
-audience: [administrator]
+audience: [administrators]
 level: [higher ed]
 sources: ['raw/papers/ai-uk-higher-education-policy-2026.md']
 confidence: high
+
 ---
 
 > **Synthesis:** This systematic literature review examines how AI is positioned in UK higher-education policy and its influence on institutional [[pedagogy|pedagogical]] decision making, finding that AI integration is accelerating but fragmented, with a gap between policy ambitions and institutional capacity and disparities between [[teacher-role|teaching]]-led and [[research-methods-aied|research]]-intensive universities.

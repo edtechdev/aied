@@ -5,10 +5,11 @@ updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, educational-policy-ai, ai-literacy, student-experience, regulation, rag]
 research_method: [randomized controlled trial]
-audience: [administrator, instructors]
+audience: [administrators, instructors]
 level: [higher ed]
 sources: ['raw/papers/2606.13389.md']
 confidence: high
+
 ---
 
 As [[generative-ai]] disrupts [[higher-ed]], institutions increasingly require students to declare AI use. However, generic binary declarations (e.g., "I used GenAI") fail to capture the nuanced application of these tools across different academic tasks. Micallef & Petrovska argue that establishing transparency is key to protecting [[academic-integrity]], promoting [[ai-literacy]], and shifting the focus from policing to professional practice.

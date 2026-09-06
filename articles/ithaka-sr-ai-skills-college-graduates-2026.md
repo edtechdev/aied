@@ -4,12 +4,13 @@ created: "2026-08-19T08:30:00-04:00"
 updated: "2026-08-27T11:57:40.880277-04:00"
 type: article
 tags: [ai-literacy, curriculum-design, higher-ed, adult-learning, generative-ai, professional-training, teacher-education]
-audience: [instructors, administrator]
+audience: [instructors, administrators]
 research_method: [survey]
 level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/ithaka-sr-ai-skills-college-graduates-2026.md']
 confidence: high
+
 ---
 
 > **Ithaka S+R's AI Skills for College Graduates report** surveys 500 US four-year-college instructors (April 2026) on how they prioritize 26 AI-related skills from the HiBob AI Skills Framework, and compares their ratings to a panel of US employers surveyed by HiBob. The headline finding is a **systematic skills-prioritization gap**: instructors and employers agree on the importance of only one skill (setting realistic expectations for AI-augmented work), with instructors favoring a *critical, responsible-use* orientation (limits of AI, attribution, human accountability) while employers favor *workflow, automation, and human–AI teaming* skills. Instructors also report their institutions lack both a consensus on what AI skills look like and an assessment framework for them — an infrastructure gap that parallels [[ai-literacy]] debates. 

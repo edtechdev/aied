@@ -4,11 +4,12 @@ created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-03T13:40:00-04:00"
 type: article
 tags: [critical-thinking, ai-literacy, early-childhood-elementary-ai-education, k-12, mixed-methods-research, generative-ai, curriculum-design, ethics]
-research_method: [mixed methods, quasi-experimental]
+research_method: [mixed methods, quasi-experiment]
 audience: [elementary education]
 level: [k 12]
 sources: ['raw/papers/demir-akar-ai-media-literacy-children-2026.md']
 confidence: high
+
 ---
 
 > **Demir & Akar (2026)** evaluate the [[pedagogy|pedagogical]] impact of an AI-enhanced critical media literacy program for fourth-grade children in a Turkish public primary school, using an explanatory sequential [[mixed-methods-research|mixed-methods]] design with 36 students. An 18-hour intervention structured on the 5E instructional model integrated [[generative-ai|generative AI]] tools such as ChatGPT and Grammarly, producing large gains in students' [[critical-thinking|critical media literacy]] alongside [[qualitative-research|qualitative]] shifts toward digital safety, source verification, online [[ethics]], and [[ai-literacy|critical media]] critique.

@@ -4,11 +4,12 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 tags: ["research-methods-aied", "ai-ed-evaluation", "generative-ai", "ethics", "theory-development-aied"]
-research_method: ["framework proposal"]
-audience: ["researchers"]
-level: ["higher ed"]
+research_method: [framework proposal]
+audience: [researchers]
+level: [higher ed]
 sources: ["raw/papers/tep-aied-model-reporting-2026.md"]
 confidence: high
+
 ---
 
 > **Synthesis:** Hwang, Xie, Wah, and Gasevic (2026) propose the TEP (Transparency-Ethics-[[pedagogy]])-AIED model, a streamlined three-dimensional framework for designing and reporting [[ai-education|AI in education]] research. The model addresses the fragmentation of existing reporting frameworks by integrating transparency (clear disclosure of AI system characteristics and learner/teacher-[[student-ai-interaction|AI interaction]] processes), ethics (data handling, risk mitigation, [[equity-in-ai-education|equity]], and [[agency|learner agency]]), and pedagogy (explicit articulation of learning objectives, theoretical alignment, and learner preparation). By positioning these dimensions as interconnected rather than isolated requirements, the TEP-AIED model supports methodological rigor while remaining accessible to researchers and practitioners.

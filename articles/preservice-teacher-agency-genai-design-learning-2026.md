@@ -4,11 +4,12 @@ created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-01T09:11:26-04:00"
 type: article
 tags: ['agency', 'teacher-education', 'generative-ai', 'learning-design', 'tpack', 'teacher-ai-competency', 'scaffolding']
-research_method: ["experimental study"]
-audience: ["teacher educators", "researchers"]
-level: ["higher ed"]
+research_method: [experiment]
+audience: [teacher educators, researchers]
+level: [higher ed]
 sources: ["raw/papers/10.1016_j.caeo.2026.100325.md"]
 confidence: high
+
 ---
 
 > **Synthesis:** Krushinskaia, Elen, and Raes (2026) use process-level indicators of [[agency]] to examine 78 pre-service teachers randomly assigned to design learning materials with either a custom expert [[generative-ai|GenAI]] bot scaffolded on an instructional-design model or basic ChatGPT. Two of three agency indicators (length of interaction and self-generated prompts/ownership) suggested higher agency in the expert-bot condition, but a third indicator — collaborative [[problem-solving]] — revealed reduced agency in both conditions, as participants often simply agreed with the bot's suggestions rather than meaningfully critiquing them.

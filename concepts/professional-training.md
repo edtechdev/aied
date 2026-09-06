@@ -4,9 +4,10 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm]
-audience: [instructors, administrator, learners]
+audience: [instructors, administrators, learners]
 level: [adult learning, higher ed]
 confidence: high
+
 ---
 
 > **Workplace learning** — the use of AI for workforce development, corporate learning, and professional skill acquisition. Professional training extends [[ai-education|AI in education]] beyond formal schooling into workplace and [[lifelong-learning|lifelong learning]] contexts.

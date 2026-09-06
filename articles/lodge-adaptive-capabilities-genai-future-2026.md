@@ -4,11 +4,12 @@ created: "2026-08-22T18:30:00-04:00"
 updated: "2026-08-22T18:35:00-04:00"
 type: article
 tags: [higher-ed, ai-literacy, metacognition, self-regulated-learning, lifelong-learning, adaptive-learning, generative-ai, educational-policy-ai, assessment-validity]
-audience: [instructors, administrator]
+audience: [instructors, administrators]
 research_method: [theoretical analysis, policy analysis]
 level: [higher ed]
 sources: ['raw/papers/lodge-adaptive-capabilities-genai-future-2026.md']
 confidence: high
+
 ---
 
 > **Synthesis:** Lodge et al. (2026), a TEQSA-commissioned report, proposes that assuring quality learning in a gen-AI-integrated future depends on cultivating four **adaptive capabilities** in graduates: [[ai-literacy|digital literacy]], [[distributed-cognition|distributed cognition]], [[metacognition|hybrid metacognition]], and [[lifelong-learning|life-long learning]] — all supported by agency and [[regulation]] at the centre. The report argues these durable, human-centred capabilities (built on deep disciplinary knowledge) let graduates maintain agency and use gen AI as a partner rather than becoming dependent on it. It offers five propositions of practice: make adaptive capabilities core graduate attributes, build [[governance|institutional]] infrastructure for **learning process evidence**, design environments that promote them, shift toward process-focused [[assessment-validity|assessment]], and foster cross-institutional [[collaborative-learning|collaboration]]. This is a significant [[educational-policy-ai|quality-assurance and policy]] framework for [[ai-education|AI-mediated]] [[higher-ed|Australian higher education]].

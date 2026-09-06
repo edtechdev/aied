@@ -4,11 +4,12 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 tags: ["automated-essay-scoring", "llm", "educational-nlp", "assessment-validity", "writing-education"]
-research_method: ["comparative study"]
-audience: ["researchers", "assessment designers"]
-level: ["higher ed"]
+research_method: [comparative study]
+audience: [researchers, assessment designers]
+level: [higher ed]
 sources: ["raw/papers/llm-essay-scoring-feature-weighting-2026.md"]
 confidence: high
+
 ---
 
 > **Synthesis:** Wang, Chen, Huang, and Lai (2026) systematically compare the scoring behavior of three LLMs (Qwen, GPT, and Gemini) with human raters on [[language-learning|English]] essays written by non-native learners. Analyzing sixteen textual features, they find strong overall alignment but distinct feature weighting patterns: the LLMs placed greater emphasis on grammatical accuracy, lexical sophistication, and syntactic complexity, while human raters prioritized content completeness and visual presentation with greater tolerance for minor linguistic errors. Across proficiency levels, human raters exhibited a more stable scoring framework, while LLMs showed larger cross-group shifts — placing more weight on language errors for low-proficiency students and increasingly rewarding linguistic sophistication for high-proficiency students.
