@@ -8,25 +8,46 @@
   <body>
     <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
     <script>
-      // Wiki-link editor component: renders [[slug]] and [[slug|label]] as an
-      // inline chip in rich-text mode; opens a dialog to edit the slug/label.
-      // Matches the wiki's [[wikilink]] convention (concept/article/faq slugs).
-      CMS.registerEditorComponent({
-        id: 'wikilink',
-        label: 'Wiki Link',
-        icon: 'link',
-        mode: 'dialog',
-        summary: '{{label || slug}}',
-        fields: [
-          { name: 'slug', label: 'Slug' },
-          { name: 'label', label: 'Display text (optional)' },
-        ],
-        // Match [[slug]] or [[slug|display label]]
-        pattern: /\[\[(?<slug>[^\]|]+?)(?:\|(?<label>[^\]]*?))?\]\]/,
-        fromBlock: ({ groups: { slug, label } = {} }) => ({ slug: slug, label: label || '' }),
-        toBlock: ({ slug, label }) => (label ? `[[${slug}|${label}]]` : `[[${slug}]]`),
-        toPreview: ({ slug, label }) => `<span>[[${label || slug}]]</span>`,
-      });
+      // Wiki-link editor components. Each renders [[slug]] / [[slug|label]] as an
+      // inline chip in rich-text mode and opens a dialog on click. The slug is a
+      // relation widget (autocomplete dropdown) against the matching collection,
+      // so editors pick a real concept/article/faq slug rather than typing one.
+      //
+      // NOTE: all three share the same [[...]] syntax (there is no type marker in
+      // the markdown), so Sveltia matches existing links against whichever
+      // component it resolves first. The win is autocomplete + validation on
+      // insert; editing an already-typed link may open another collection's
+      // picker. Kept as separate ids so each dialog's relation targets the
+      // correct collection.
+      function wikiLink(id, label, icon, collection) {
+        CMS.registerEditorComponent({
+          id: id,
+          label: label,
+          icon: icon,
+          mode: 'dialog',
+          summary: '{{label || slug}}',
+          fields: [
+            {
+              name: 'slug',
+              label: 'Slug',
+              widget: 'relation',
+              collection: collection,
+              value_field: '{{slug}}',
+              display_fields: ['title'],
+              search_fields: ['title'],
+            },
+            { name: 'label', label: 'Display text (optional)' },
+          ],
+          // Match [[slug]] or [[slug|display label]]
+          pattern: /\[\[(?<slug>[^\]|]+?)(?:\|(?<label>[^\]]*?))?\]\]/,
+          fromBlock: ({ groups: { slug, label } = {} }) => ({ slug: slug, label: label || '' }),
+          toBlock: ({ slug, label }) => (label ? `[[${slug}|${label}]]` : `[[${slug}]]`),
+          toPreview: ({ slug, label }) => `<span>[[${label || slug}]]</span>`,
+        });
+      }
+      wikiLink('wikilink-concept', 'Wiki Link: Concept', 'hub', 'concepts');
+      wikiLink('wikilink-article', 'Wiki Link: Article', 'description', 'articles');
+      wikiLink('wikilink-faq', 'Wiki Link: FAQ', 'help', 'faqs');
     </script>
   </body>
 </html>
