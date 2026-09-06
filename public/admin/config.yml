@@ -148,9 +148,16 @@ collections:
         label: Discipline
         widget: list
         required: false
+      # connected_faqs must reference EXISTING FAQ pages only — enforced by a
+      # relation to the faqs collection (value = FAQ slug = filename)
       - name: connected_faqs
         label: Connected FAQs
-        widget: list
+        widget: relation
+        collection: faqs
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
         required: false
       - name: confidence
         label: Confidence
