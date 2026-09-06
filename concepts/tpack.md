@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-09-02T09:08:00-04:00"
+updated: "2026-09-06T08:30:00-04:00"
 type: concept
 tags: [tpack, ai-literacy, teacher-ai-competency, educational-development, generative-ai, teacher-role, learning-design, curriculum-design]
 audience: [faculty development, instructors]
@@ -49,7 +49,7 @@ The AI era has pushed the framework toward a technology-with-intelligence readin
 
 ## Why It Matters in AI Education
 
-TPACK is the organizing framework for the teacher-side of the knowledge base's evidence base. It explains why teacher AI competency is more than tool fluency: teachers must integrate technological, pedagogical, and content knowledge together to turn AI into [[learning-gains|learning gains]]. The knowledge base's [[teacher-ai-competency]] page covers the competency dimensions; TPACK is the *knowledge structure* that underlies them. Research on [[teacher-ai-adoption-confidence|teacher confidence]], [[educational-development|professional development]], and [[teacher-role|the transforming teacher role]] all operate within (or against) this framework.
+TPACK is the organizing framework for the teacher-side of the knowledge base's evidence base. It explains why teacher AI competency is more than tool fluency: teachers must integrate technological, pedagogical, and content knowledge together to turn AI into [[learning-gains|learning gains]]. The knowledge base's [[teacher-ai-competency]] page covers the competency dimensions; TPACK is the *knowledge structure* that underlies them. Research on [[teacher-ai-adoption-confidence|teacher confidence]], [[educational-development|professional development]], and [[teacher-role|the transforming teacher role]] all operate within (or against) this framework. The framework is now being extended to evaluate whole programs: [[wu-li-evaluation-indicator-ai-certificate-programs-2026|Wu & Li (2026)]] build an AHP-Fuzzy-AHP evaluation system for AI certificate programs on TPACK dimensions and find that faculty professional competence — not technical infrastructure — is the largest gap between expert priority and current provision, signalling that credentialing should invest in teachers' integrated pedagogical capacity.
 
 ## Design Implications
 
@@ -74,6 +74,7 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 - [[teacher-education]]
 
 ## Connected Articles
+- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Evaluation Indicator System for AI Certificate Programs
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Cross-level study: 'pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)
 - [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]

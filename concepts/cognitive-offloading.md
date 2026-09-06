@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-06T04:56:00-04:00"
+updated: "2026-09-06T08:30:00-04:00"
 type: concept
 tags: [cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 audience: [learners]
@@ -56,7 +56,7 @@ The knowledge base's articles document cognitive offloading across multiple dime
 - **Over-reliance is the leading [[ethics|ethical]] concern across all [[conversational-ai]] generations.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) reports that human–AI relationship concerns — including over-reliance and the diminution of social interaction — are the **most frequently discussed ethical issue across all CAI generations**, predating GenAI. It also lists educational impact and cognitive concerns (including overreliance and degraded critical thinking) as the second most-discussed challenge category, underscoring that offloading's harm is a persistent, cross-generation theme rather than a GenAI-specific novelty.([[conversational-ai-agents-umbrella-review-2026]])
 
 #
-- **Teachers as reflective regulators of cognition:** [[teachers-reflective-regulators-cognition-offloading|Ho and Chen (2026)]] extend offloading theory to *professional* AI judgment by interviewing 18 in-service teachers. They identify a 'metacognitive ecology' in which teachers recognise, redistribute, and reflectively re-engage cognition with GenAI, [[framing-ai-use-for-students|framing AI]] as a cognitive partner rather than a thinking substitute — and flag 'professional drift' as a risk when offloading goes unreflective in AI-augmented teaching and [[administrator|administration]].
+- **Teachers as reflective regulators of cognition:** [[teachers-reflective-regulators-cognition-offloading|Ho and Chen (2026)]] extend offloading theory to *professional* AI judgment by interviewing 18 in-service teachers. They identify a 'metacognitive ecology' in which teachers recognise, redistribute, and reflectively re-engage cognition with GenAI, [[framing-ai-use-for-students|framing AI]] as a cognitive partner rather than a thinking substitute — and flag 'professional drift' as a risk when offloading goes unreflective in AI-augmented [[teacher-role|teaching]] and [[administrator|administration]].
 
 
 - **Offloading is value-based decision-making, and some students are more vulnerable than others.** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], a conceptual review in *Learning Disability Quarterly*, synthesize cognitive science, [[special-education|special education]], and educational technology to model GenAI offloading as a cost–benefit decision shaped by performance goals, task difficulty, academic self-efficacy, and perceptions of the tool. They argue that **students with learning disabilities (SWLDs)** are especially vulnerable to suboptimal offloading — because heightened cognitive load, effort-avoidant performance goals, lower academic self-efficacy, and inflated expectations toward GenAI make premature or excessive delegation more likely. GenAI is framed as a **compensatory aid or shortcut depending on how offloading decisions interact with learner profiles and [[learning-design|instructional design]]**, with instructional [[guardrails]] the key moderating factor (teach metacognitive self-regulation, build [[ai-literacy]] to calibrate tool trust, sequence mastery experiences, and assess process not just product). This extends offloading's equity dimension: the same tool that reduces barriers to access can, if unguarded, substitute for the very practice SWLDs need most.
@@ -70,7 +70,7 @@ The knowledge base's articles document cognitive offloading across multiple dime
 
 ## Over-reliance: when offloading becomes harmful
 
-**Over-reliance** is the excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. It is the behavioral manifestation of excessive cognitive offloading: when offloading becomes the default rather than a strategic choice. Over-reliance is not simply about using AI too much — it is about using AI in ways that substitute for rather than complement learning processes.
+**Over-reliance** is the excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. It is the behavioral manifestation of excessive cognitive offloading: when offloading becomes the default rather than a strategic choice. Over-reliance is not simply about using AI too much — it is about using AI in ways that substitute for rather than complement learning processes. Conceptual work urges keeping this educational over-reliance distinct from relational attachment and [[medical-education|clinical]] dependence: [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] shows that trust, reliance, over-reliance, attachment, and problematic use are routinely conflated in the conversational-AI literature, and that frequent delegation should not be labelled dependence without impaired control or harm.
 
 The knowledge base's research documents over-reliance as one of the 
 - **Agentic coding offloads comprehension in the field:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] report that undergraduates using [[agentic-ai|AI agents]] in a software project course wrote more code year-over-year but showed comprehension dips under heavy use - recoverable through one-on-one instructor verification of AI-generated code.
@@ -119,6 +119,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)

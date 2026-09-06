@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-01T09:15:00-04:00"
+updated: "2026-09-06T08:30:00-04:00"
 type: concept
 tags: [student-experience, social-emotional-learning, ethics, ai-literacy, higher-ed, motivation]
 audience: [learners]
@@ -31,6 +31,8 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 
 - **AI anxiety and student experience:** Studies on students' engagement with AI (e.g., [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT-based research]]) find AI use is intertwined with anxiety, trust, and confidence, with students' well-being affected by concerns about academic integrity, [[creativity]], and [[cognitive-offloading|Over-Reliance]].
 
+- **AI anxiety, adaptation, and dependence as well-being signals:** [[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al. (2026)]] find AI anxiety is negatively tied to academic motivation partly through reduced [[metacognition|emotion regulation]] (moderated by gender) in a large Chinese sample; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] shows learners of [[language-learning|Japanese]] sort into maladaptive, moderate, and positive psychological-adaptation profiles driven by technostress and resilience that shift toward better adaptation over a semester; and [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] cautions that cross-sectional correlates of [[conversational-ai]] engagement (loneliness, anxiety, low well-being) should not be read as consequences, and that supportive and harmful experiences coexist.
+
 - **Teacher well-being and role:** AI's impact on [[teacher-role|teachers]] — including workload, anxiety about teaching with disruptive technology, and the capacity to provide emotional support — is a recurring concern, connecting to [[teacher-ai-competency]] and [[educational-development|professional development]].
 
 - **Ethics and responsible AI:** Well-being is a core ethical consideration in [[ai-education]], linking to [[ethics]] and the imperative to design AI that supports rather than harms learners' mental health and belonging.
@@ -56,6 +58,9 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[higher-ed]]
 
 ## Connected Articles
+- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — The Relationship Between AI Anxiety and Academic Motivation
+- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
 
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy

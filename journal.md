@@ -1,9 +1,15 @@
 # Journal
 
-Last updated: 2026-09-06 | Total entries: 1275
+Last updated: 2026-09-06 | Total entries: 1281
 
 ## 2026-09-06
 - 📄 [[spec-driven-development-ai-agents-sdpbl-2026]] — Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL
+- 📄 [[san-orhan-karsak-ai-cognition-micro-credentials-2026]] — Knowing Its Name, Not Its Nature: Word Association Mapping of Student AI Cognition and Evidence-Based Micro-Credential Design in Turkish Higher Education
+- 📄 [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines: Insights from Postgraduate Students
+- 📄 [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Evaluation Indicator System for AI Certificate Programs
+- 📄 [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — The Relationship Between AI Anxiety and Academic Motivation Among University Students: The Mediating Role of Emotion Regulation and the Moderating Role of Gender
+- 📄 [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
+- 📄 [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Psychological Correlates, Measurement, and Reported Findings on Conversational AI Engagement and Dependence-Related Constructs
 
 ## 2026-09-05
 - 📄 [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Bridging the Gender Gap in STEM Education with AI: Female-Coded Chatbot as Role Model and Learning Assistant
