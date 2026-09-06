@@ -8,17 +8,18 @@
   <body>
     <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
     <script>
-      // Wiki-link editing. The [[...]] syntax carries no type marker, so exactly
-      // ONE component owns the [[...]] pattern and renders every existing link
-      // (bound to the concepts relation for autocomplete). The article and FAQ
-      // entries are insert-menu-only: they give the right scoped autocomplete
-      // when inserting a link, but their patterns never match body content, so
-      // they never hijack rendering of existing links.
+      // Wiki-link editor components. Each renders [[slug]] / [[slug|label]] as an
+      // inline chip in rich-text mode and opens a dialog on click. The slug is a
+      // relation widget (autocomplete dropdown) against the matching collection,
+      // so editors pick a real concept/article/faq slug rather than typing one.
       //
-      // Trade-off: every existing link renders/edits through the concept picker,
-      // since the markdown cannot tell a concept from an article/FAQ link. The
-      // article/FAQ menu items exist so insertion is scoped correctly.
-      function wikiLink(id, label, icon, collection, matchExisting) {
+      // NOTE: all three share the same [[...]] syntax (there is no type marker in
+      // the markdown), so Sveltia matches existing links against whichever
+      // component it resolves first. The win is autocomplete + validation on
+      // insert; editing an already-typed link may open another collection's
+      // picker. Kept as separate ids so each dialog's relation targets the
+      // correct collection.
+      function wikiLink(id, label, icon, collection) {
         CMS.registerEditorComponent({
           id: id,
           label: label,
@@ -37,22 +38,16 @@
             },
             { name: 'label', label: 'Display text (optional)' },
           ],
-          // Only the concept component matches existing [[...]] links. The
-          // article/FAQ components carry a sentinel pattern that never appears
-          // in a body, so they are purely insert tools.
-          pattern: matchExisting
-            ? /\[\[(?<slug>[^\]|]+?)(?:\|(?<label>[^\]]*?))?\]\]/
-            : /\[\[__never_match__(?<slug>.*?)\]\]/,
+          // Match [[slug]] or [[slug|display label]]
+          pattern: /\[\[(?<slug>[^\]|]+?)(?:\|(?<label>[^\]]*?))?\]\]/,
           fromBlock: ({ groups: { slug, label } = {} }) => ({ slug: slug, label: label || '' }),
           toBlock: ({ slug, label }) => (label ? `[[${slug}|${label}]]` : `[[${slug}]]`),
           toPreview: ({ slug, label }) => `<span>[[${label || slug}]]</span>`,
         });
       }
-      // Renders every existing [[...]] link; also available in the insert menu.
-      wikiLink('wikilink', 'Wiki Link', 'link', 'concepts', true);
-      // Insert-menu entries with scoped autocomplete; never match existing links.
-      wikiLink('wikilink-article', 'Wiki Link: Article', 'description', 'articles', false);
-      wikiLink('wikilink-faq', 'Wiki Link: FAQ', 'help', 'faqs', false);
+      wikiLink('wikilink-concept', 'Wiki Link: Concept', 'hub', 'concepts');
+      wikiLink('wikilink-article', 'Wiki Link: Article', 'description', 'articles');
+      wikiLink('wikilink-faq', 'Wiki Link: FAQ', 'help', 'faqs');
     </script>
   </body>
 </html>
