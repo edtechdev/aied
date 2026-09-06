@@ -3,7 +3,7 @@ title: "Making AI Annoying on Purpose: When Helpful Tools Don't Always Help"
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-01T09:11:26-04:00"
 type: article
-tags: ["writing-education", "self-regulated-learning", "generative-ai", "instructional-design", "scaffolding", "prompt-engineering", "design-based-research"]
+tags: ['writing-education', 'self-regulated-learning', 'generative-ai', 'learning-design', 'scaffolding', 'prompt-engineering', 'design-based-research']
 research_method: ["design-based research"]
 audience: ["teachers", "instructional designers", "researchers"]
 level: ["secondary"]

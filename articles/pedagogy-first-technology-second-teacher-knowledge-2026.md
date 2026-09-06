@@ -4,7 +4,8 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-01T10:00:00-04:00"
 type: article
 sources: ["raw/papers/pedagogy-first-technology-second-teacher-knowledge-2026.md"]
-tags: ["teacher-professional-knowledge", "tpack", "k-12", "social-cognitive-theory", "multilevel-modeling", "ai-education", "pedagogy"]
+tags: ['tpack', 'k-12', 'quantitative-research', 'ai-education', 'pedagogy']
+confidence: medium
 ---
 
 ## Overview

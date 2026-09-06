@@ -5,6 +5,7 @@ updated: "2026-09-01T12:00:00-04:00"
 type: article
 sources: ["raw/papers/student-ai-conversations-cognitive-engagement-2026.md"]
 tags: ["student-ai-interaction", "student-engagement", "generative-ai", "critical-thinking", "higher-ed", "prompt-engineering"]
+confidence: medium
 ---
 
 ## Overview

@@ -3,7 +3,7 @@ title: "Beyond a single role: Justifying a role-adaptive framework for AI compan
 created: "2026-09-02T09:45:00-04:00"
 updated: "2026-09-02T09:45:00-04:00"
 type: article
-tags: [conversational-ai, pedagogical-agent, human-ai-collaboration, reading-education, k-12, elementary, generative-ai]
+tags: ['conversational-ai', 'pedagogical-agent', 'human-ai-collaboration', 'k-12', 'generative-ai']
 research_method: [mixed-methods, quantitative, qualitative]
 audience: [instructors, learning-designers, researchers]
 level: [k 12]

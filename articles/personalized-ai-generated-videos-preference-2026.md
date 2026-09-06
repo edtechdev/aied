@@ -3,7 +3,7 @@ title: "Students Prefer Personalized, AI-Generated Educational Videos over Non-P
 created: "2026-09-05T00:55:00-04:00"
 updated: "2026-09-05T00:55:00-04:00"
 type: article
-tags: [personalized-learning, generative-ai, online-teaching-and-learning, student-engagement, adaptive-learning, higher-ed, multimodal, educational-video, ai-generated-content]
+tags: ['personalized-learning', 'generative-ai', 'online-teaching-and-learning', 'student-engagement', 'adaptive-learning', 'higher-ed', 'multimodal', 'video-education']
 research_method: [quantitative]
 audience: [instructors, learning designers]
 level: [higher ed]

@@ -6,7 +6,8 @@ type: article
 tags: [self-regulated-learning, generative-ai, learning-analytics, higher-ed, metacognition]
 research_method: [survey]
 level: [higher ed]
-sources: ["https://doi.org/10.20851/ll.v8.73"]
+sources: ['raw/papers/song-genai-learning-partner-srl-over-time-2026.md']
+source_url: 'https://doi.org/10.20851/ll.v8.73'
 confidence: high
 ---
 

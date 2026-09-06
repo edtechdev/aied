@@ -3,7 +3,7 @@ title: "Ask Me Anything: Exploring Children's Attitudes Toward an Age-tailored A
 created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: article
-tags: [chatbot, conversational-ai, k-12, ai-literacy, trust, child-ai-interaction]
+tags: ['conversational-ai', 'k-12', 'ai-literacy', 'trust']
 sources: ['raw/papers/vahedian-children-attitudes-ai-chatbot-2026.md']
 confidence: high
 ---

@@ -4,7 +4,8 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-01T10:00:00-04:00"
 type: article
 sources: ["raw/papers/gpt-item-generation-l2-listening-2026.md"]
-tags: ["automatic-item-generation", "prompt-engineering", "fine-tuning", "gpt", "listening-assessment", "second-language-assessment", "large-language-models"]
+tags: ['educational-measurement', 'prompt-engineering', 'llm', 'language-learning']
+confidence: medium
 ---
 
 ## Overview

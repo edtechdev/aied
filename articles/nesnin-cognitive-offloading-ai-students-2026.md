@@ -6,7 +6,8 @@ type: article
 tags: [cognitive-offloading, critical-thinking, generative-ai, student-experience, ai-literacy, self-regulated-learning]
 research_method: [literature review, theoretical analysis]
 audience: [learners]
-sources: ["https://doi.org/10.64823/ijter.2621031"]
+sources: ['raw/papers/nesnin-cognitive-offloading-ai-students-2026.md']
+source_url: 'https://doi.org/10.64823/ijter.2621031'
 confidence: medium
 ---
 

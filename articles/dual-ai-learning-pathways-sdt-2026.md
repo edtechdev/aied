@@ -4,7 +4,8 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-01T10:00:00-04:00"
 type: article
 sources: ["raw/papers/dual-ai-learning-pathways-sdt-2026.md"]
-tags: ["generative-ai-learning", "dual-pathway-model", "self-determination-theory", "hook-model", "structural-equation-modeling", "autonomy-support", "ai-dependence"]
+tags: ['generative-ai', 'self-determination-theory', 'quantitative-research']
+confidence: medium
 ---
 
 ## Overview

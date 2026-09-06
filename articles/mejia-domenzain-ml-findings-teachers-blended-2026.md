@@ -3,7 +3,7 @@ title: Making machine learning findings accessible to teachers in blended classr
 created: "2026-09-03T13:38:51-04:00"
 updated: "2026-09-03T13:38:51-04:00"
 type: article
-tags: [learning-analytics, teacher-role, trust, visualization, self-regulated-learning, online-teaching-and-learning, machine-learning, data-privacy, mixed-methods-research, higher-ed]
+tags: ['learning-analytics', 'teacher-role', 'trust', 'visualization', 'self-regulated-learning', 'online-teaching-and-learning', 'machine-learning', 'privacy', 'mixed-methods-research', 'higher-ed']
 research_method: [mixed methods]
 audience: [instructors, learning analytics designers]
 sources: ['raw/papers/mejia-domenzain-ml-findings-teachers-blended-2026.md']

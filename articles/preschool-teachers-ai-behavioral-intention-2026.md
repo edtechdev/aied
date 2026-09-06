@@ -4,7 +4,8 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-01T10:00:00-04:00"
 type: article
 sources: ["raw/papers/preschool-teachers-ai-behavioral-intention-2026.md"]
-tags: ["preschool-teachers", "technology-acceptance-model", "behavioral-intention", "early-childhood-education", "structural-equation-modeling", "ai-anxiety", "ai-self-efficacy"]
+tags: ['teacher-education', 'technology-acceptance-model', 'early-childhood-elementary-ai-education', 'quantitative-research', 'ai-anxiety-and-stress', 'self-efficacy']
+confidence: medium
 ---
 
 ## Overview

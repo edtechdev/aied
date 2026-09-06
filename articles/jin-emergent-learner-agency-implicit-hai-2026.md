@@ -5,7 +5,8 @@ updated: "2026-08-27T06:40:00-04:00"
 type: article
 tags: [agency, human-ai-collaboration, agentic-ai, collaborative-learning, generative-ai, creativity]
 research_method: [experiment]
-sources: ["https://doi.org/10.1002/jcal.70310"]
+sources: ['raw/papers/jin-emergent-learner-agency-implicit-hai-2026.md']
+source_url: 'https://doi.org/10.1002/jcal.70310'
 confidence: high
 ---
 

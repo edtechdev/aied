@@ -3,7 +3,7 @@ title: "Who grades best? Comparing ChatGPT, peer, and instructor evaluations acr
 created: "2026-09-01T10:20:00-04:00"
 updated: "2026-09-01T10:20:00-04:00"
 type: article
-tags: [assessment, peer-assessment, automated-assessment, generative-ai, conversational-ai, higher-ed, student-experience]
+tags: ['assessment', 'automated-assessment', 'generative-ai', 'conversational-ai', 'higher-ed', 'student-experience']
 research_method: [mixed-methods, quantitative, qualitative]
 audience: [instructors, learning-designers, researchers]
 level: [higher ed]

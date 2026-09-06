@@ -6,7 +6,8 @@ type: article
 tags: [ai-use-disclosure, trust, academic-integrity, higher-ed, generative-ai, educational-policy-ai]
 research_method: [survey]
 level: [higher ed]
-sources: ["https://doi.org/10.2139/ssrn.5755762"]
+sources: ['raw/papers/vetter-hidden-cost-disclosure-genai-2026.md']
+source_url: 'https://doi.org/10.2139/ssrn.5755762'
 confidence: medium
 ---
 
