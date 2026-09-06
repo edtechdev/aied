@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-06
 
-Articles: 1097 | Concepts: 184 | FAQs: 17
+Articles: 1098 | Concepts: 184 | FAQs: 17
 
 ## Concepts
 
@@ -597,6 +597,7 @@ Articles: 1097 | Concepts: 184 | FAQs: 17
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
 - [[hallucination-risk]] — Hallucination Risk
 - [[hao-human-ai-collaborative-problem-solving-cognition]] — Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective
+- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Enhancing Peer Exposure and Creating Opportunities for Bridging Social Capital Through an AI-Generated Summary-Driven Learning Design in Online Discussion Forums
 - [[harmogen-ai-assessment-rubric-generation]] — A Hybrid Reasoning Framework for Artificial Intelligence Assessment Rubric Generation in Human and Automated Contexts: Evidence from an Undergraduate Programming Course
 - [[harnessing-ai-preservice-teachers-scoping-2026]] — Harnessing artificial intelligence for preservice teachers' development: A scoping review of applications, benefits, and challenges
 - [[hashmi-socratic-physics-chatbot-2025]] — Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot
