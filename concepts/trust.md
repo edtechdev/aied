@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-07T10:15:00-04:00"
 type: concept
 tags: [trust, ai-literacy, educational-robotics, human-ai-collaboration, critical-thinking, intelligent-tutoring]
 confidence: high
@@ -44,6 +44,7 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 
 ## Connected Concepts
 
+- [[explainable-ai]]
 - [[trust-calibration]]
 - [[ai-literacy]]
 - [[critical-thinking]]
