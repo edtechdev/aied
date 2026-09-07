@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-07T08:25:00-04:00"
+updated: "2026-09-07T10:15:00-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback]
 category: [engagement, evaluation]
@@ -66,6 +66,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 
 ## Connected Concepts
 
+- [[explainable-ai]]
 - [[knowledge-tracing]]
 - [[student-modeling]]
 - [[formative-assessment]]

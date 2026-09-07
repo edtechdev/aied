@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-06T08:30:00-04:00"
+updated: "2026-09-07T10:15:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, educational-development, academic-integrity]
 audience: [faculty development, instructors, learners]
@@ -113,6 +113,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - **Socialist humanist AI literacy (2026):** A literature review critiques compliance-oriented AI literacy and proposes a socialist-humanist framing of asynchronous AI literacy and fair use in higher education, linking the historical digital divide to modern AI literacy and calling for approaches that serve human flourishing and equity rather than mechanical policy compliance ([[mechanical-compliance-human-flourishing-ai-literacy-2026]]).
 
 ## Connected Concepts
+- [[explainable-ai]]
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI literacy
 
 - [[generative-ai]] — the technology AI literacy targets
