@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-07T10:15:00-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
@@ -51,6 +51,7 @@ The dominant metaphor in the knowledge base is *orchestration*: teachers coordin
 
 Recent work expands the orchestration metaphor into richer role conceptualizations:
 
+- **Co-orchestrator across activity transitions.** [[teacher-student-agency-orchestration|Yang et al. (2026)]] use participatory speed dating with 17 teachers and 13 students to map how control should be distributed across the stages of a classroom activity — the before, during, and after transitions between individual and collaborative work — in a co-orchestration tool supporting real-time dynamic pairing. The design principle that emerges is that control is *not* a fixed point: teachers and students want different amounts of agency at each stage, and the tool should let the teacher adjust grouping, activity transitions, and intervention timing in real time while retaining a teacher override. This positions the teacher as a **co-orchestrator of the whole live learning environment** — a role more specific than the general orchestration metaphor, focused on the granular, moment-to-moment decisions of who works with whom, when, and with what support — and it connects individual-tutoring research to classroom-level design.
 - **The "cognitive choreographer."** Posthumanist frameworks recast the teacher as a *cognitive choreographer* who orchestrates cognition distributed across [[biology-education|biological]] and artificial systems, moving beyond instrumentalist models like [[tpack]] and SAM.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 - **Facilitator, co-investigator, [[ethics|ethical]] supervisor.** In science learning, teachers' roles shift from knowledge transmitters to facilitators and co-investigators, and gain new responsibilities as ethical supervisors of students' responsible AI use.([[li-ai-science-situated-learning-teachers-2025]])
 - **Mediator of learning principles.** Educators operationalize age-old learning principles (experiential, situated, and distributed cognition) through AI, treating AI as a tool that enhances rather than replaces the educator's guiding role.([[fowlin-operationalizing-learning-principles-ai]])

@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-07T10:15:00-04:00"
 type: concept
 tags: [student-modeling, knowledge-tracing, cognitive-diagnosis, simulating-students, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring, llm]
 confidence: high
@@ -72,6 +72,7 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] (dash
 
 ## Connected Concepts
 
+- [[explainable-ai]]
 - [[learning-analytics]]
 - [[knowledge-tracing]]
 - [[knowledge-graph]]

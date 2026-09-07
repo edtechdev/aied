@@ -1,8 +1,9 @@
 # Journal
 
-Last updated: 2026-09-07 | Total entries: 1291
+Last updated: 2026-09-07 | Total entries: 1292
 
 ## 2026-09-07
+- 📘 [[explainable-ai]] — Explainable AI in Education
 - 📄 [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise
 - 📄 [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - 📄 [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant

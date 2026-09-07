@@ -1,7 +1,7 @@
 ---
 title: Explainable Artificial Intelligence in Education (XAI-ED)
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-07T10:15:00-04:00"
 type: article
 tags: [intelligent-tutoring, learning-analytics, bias-mitigation, equity-in-ai-education, privacy, metacognition, teacher-role, student-experience, adaptive-learning, ai-literacy]
 research_method: [theoretical analysis]
@@ -87,6 +87,8 @@ The XAI-ED framework has become a foundational reference in [[ai-education|AIED]
 - [[learning-analytics]]
 - [[pedagogical-safety]]
 - [[trust]]
+- [[trust-calibration]]
+- [[explainable-ai]]
 - [[human-in-the-loop-ai]]
 ## Connected Articles
 

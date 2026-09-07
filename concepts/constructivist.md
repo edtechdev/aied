@@ -1,7 +1,7 @@
 ---
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-07T10:15:00-04:00"
 type: concept
 tags: [learning-theories, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, learning-design]
 category: [instructional design]
@@ -59,6 +59,17 @@ This pattern generalizes across the field:
 
 - When generative AI completes writing, reasoning, or code for students, the learner loses the constructive thought process the task was designed to build — the concern central to [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]].([[generative-refusal-ai-tools-for-thought]])
 - AI implementations that emphasize adaptive feedback and efficiency frequently under-serve the learner-agency, critical-reflection, and autonomous-decision goals that constructivism implies.([[ai-vocational-education-training-review]])
+
+### The naming trap: generative AI output is not generative learning
+
+A recurring confusion in the field turns on a name collision. **Generative AI** names a class of *technology* — models that generate text, images, or code. **Generative learning** (Wittrock's generative-learning theory) names a *learner activity* — the learner actively making meaning by constructing connections between new information and prior knowledge, through strategies such as summarizing, mapping, drawing, self-testing, and self-explaining. The two are not the same thing, and conflating them has real pedagogical consequences: an AI *producing* a summary or a map for the student is the opposite of the student *performing* the generative-learning act. [[genai-mindtool-generative-learning|Dabbagh & Fake (2026)]] build directly on this distinction, arguing that a GenAI mindtool supports generative learning only when the *learner* drives the constructive activity — generating a mind map with AI assistance is generative learning; having the AI generate the map wholesale is not, however fluent or correct the output.
+
+The deciding question is **who performs the meaning-making**:
+- Does the student construct an explanation, or merely receive one?
+- Does AI prompt the learner to connect ideas, or supply the connections for them?
+- Is the artifact (summary, map, code, model) the *product* of the learner's construction, or a substitute for it?
+
+This mirrors the [[icap-framework|ICAP]] hierarchy — constructive and interactive engagement outrank active and passive — but sharpens it: a tool can produce visibly "constructive-looking" output while the learner sits in a *passive* or *active* mode. Evaluating a GenAI tool for generative learning therefore means inspecting where the constructive effort actually happens, not whether generative output is present. This is the same constructivist-in-name / behaviorist-in-practice trap, applied to the specific case of generation: [[ai-writes-code-student-writes-model-2026|model authorship]] (the AI writes the code, the student writes the model) is one concrete resolution — the learner constructs the *conceptual model* even when AI supplies the surface artifact.
 
 ### Design responses grounded in constructivism
 

@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-07T09:09:07-04:00"
+updated: "2026-09-07T10:15:00-04:00"
 type: concept
 tags: [automated-assessment, assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 audience: [instructors]
@@ -90,6 +90,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 
 ## Connected Concepts
 
+- [[explainable-ai]]
 - [[remote-proctoring]]
 - [[assessment-validity]]
 - [[formative-assessment]]

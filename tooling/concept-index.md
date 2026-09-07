@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 184
+**Total concepts:** 185
 
 - slug: early-childhood-elementary-ai-education
   title: Early Childhood Education
@@ -378,6 +378,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`equity-in-ai-education`** — Equity
 - **`ethics`** — Ethics
 - **`experiential-learning`** — Experiential Learning
+- **`explainable-ai`** — Explainable AI in Education — phrases: explainable AI; XAI; explainability; interpretability; interpretable AI; transparent AI; model explanation; explanation of AI decisions; why did the AI; explainable AI in education; XAI in education; transparent models; glass-box; post-hoc explanation; counterfactual explanation; feature importance
 - **`feedback-literacy`** — Feedback Literacy
 - **`feedback`** — Feedback
 - **`formative-assessment`** — Formative Assessment

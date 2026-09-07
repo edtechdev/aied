@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-07T09:09:07-04:00"
+updated: "2026-09-07T10:15:00-04:00"
 type: concept
 tags: [ai-literacy, cognitive-offloading, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
 audience: [learners]
@@ -49,6 +49,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 ## Connected Concepts
 
+- [[explainable-ai]]
 - [[ai-literacy]]
 - [[cognitive-offloading]]
 - [[hallucination-risk]]

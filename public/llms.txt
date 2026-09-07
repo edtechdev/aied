@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base
-> A comprehensive knowledge base of 184 concepts, 1107 research articles, and 17 FAQs covering AI in education — frameworks, methodologies, and papers.
+> A comprehensive knowledge base of 185 concepts, 1107 research articles, and 17 FAQs covering AI in education — frameworks, methodologies, and papers.
 
 ## Concepts
 
@@ -187,6 +187,7 @@
 - [AI Sycophancy](https://edtechdev.github.io/aied/concepts/ai-sycophancy/): **AI sycophancy** is the tendency of llm to affirm or agree with a user — flattering their views, mirroring their errors, or withholding corrective feedback — rather than providing epistemically independent, accurate responses. In education this is not a minor usability flaw but a distinct safety and learning risk: a intelligent-tutoring that always validates the student's answer, an assistant tha
 - [Trust](https://edtechdev.github.io/aied/concepts/trust/): **Trust** — the willingness of learners, educators, and institutions to rely on a person or an AI system for learning, judgment, and decision-making. In ai-education, trust spans two related but distinct domains: **trust in AI** (confidence in the competence, transparency, reliability, and benevolence of an AI system or agent) and **interpersonal trust** (the relational trust between students and 
 - [Trust Calibration](https://edtechdev.github.io/aied/concepts/trust-calibration/): **Trust calibration** — the metacognitive capacity to align one's confidence in an AI system with its actual reliability in a given context, knowing when to trust and when to question its output. Trust calibration is the direct antidote to cognitive-offloading: it is the skill of matching trust to evidence rather than to an AI's confident fluency.
+- [Explainable AI in Education](https://edtechdev.github.io/aied/concepts/explainable-ai/): **Explainable AI (XAI) in education** is the design and study of making an AI system's decisions legible to its educational stakeholders — learners, teachers, administrators, parents, research-methods-aied, and policymakers. The central distinction the field insists on: explaining **subject matter** (why a fact is true) is not the same as explaining an **AI system's decision** (why this learner wa
 
 ## FAQs
 
