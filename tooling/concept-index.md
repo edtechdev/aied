@@ -378,7 +378,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`equity-in-ai-education`** — Equity
 - **`ethics`** — Ethics
 - **`experiential-learning`** — Experiential Learning
-- **`explainable-ai`** — Explainable AI in Education — phrases: explainable AI; XAI; explainability; interpretability; interpretable AI; transparent AI; model explanation; explanation of AI decisions; why did the AI; explainable AI in education; XAI in education; transparent models; glass-box; post-hoc explanation; counterfactual explanation; feature importance
+- **`explainable-ai`** — Explainable AI — phrases: explainable AI; XAI; explainability; interpretability; interpretable AI; transparent AI; model explanation; explanation of AI decisions; why did the AI; explainable AI in education; XAI in education; transparent models; glass-box; post-hoc explanation; counterfactual explanation; feature importance
 - **`feedback-literacy`** — Feedback Literacy
 - **`feedback`** — Feedback
 - **`formative-assessment`** — Formative Assessment
