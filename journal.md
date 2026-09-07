@@ -1,6 +1,10 @@
 # Journal
 
-Last updated: 2026-09-06 | Total entries: 1282
+Last updated: 2026-09-07 | Total entries: 1284
+
+## 2026-09-07
+- 📄 [[sun-llm-nursing-education-professional-identity-2026]] — When the Algorithm Enters the Classroom: A Critical Integrative Review of Large Language Models, Nursing Education Structural Gaps, and the Reconstitution of Professional Identity
+- 📄 [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and Explainable Learning Analytics for Privacy-Preserving Academic Risk Modeling Across Heterogeneous Educational Institutions
 
 ## 2026-09-06
 - 📄 [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Enhancing Peer Exposure and Creating Opportunities for Bridging Social Capital Through an AI-Generated Summary-Driven Learning Design in Online Discussion Forums

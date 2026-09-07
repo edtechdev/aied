@@ -1,7 +1,7 @@
 ---
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-04T09:30:00-04:00"
+updated: "2026-09-07T08:25:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai]
@@ -40,7 +40,7 @@ Privacy is the precondition for trustworthy AI in education. Because AI systems 
 ## Privacy in practice
 
 - **Treat privacy as a design requirement, not a policy afterthought.** The [[teachlm-post-training-llms-education|TeachLM]] example shows that consent, anonymization, and secure data handling can be built into the data pipeline itself — a model for ethically sourcing the authentic data that makes [[intelligent-tutoring|AI tutors]] effective.
-- **Design for data minimization.** Favor approaches that collect only what adaptation requires (edge/federated AI, on-device processing) rather than hoarding interaction data by default. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et al. (2026)]] demonstrate a concrete federated form of this for [[cognitive-diagnosis]]: multiple commercial LLM APIs collaborate on diagnosis while adding ε-local differential privacy noise locally to each model's prediction before aggregation, so no provider sees raw student data — a privacy-preserving architecture that keeps [[intelligent-tutoring|AI tutoring]] functional without centralizing sensitive learner trajectories.
+- **Design for data minimization.** Favor approaches that collect only what adaptation requires (edge/federated AI, on-device processing) rather than hoarding interaction data by default. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et al. (2026)]] demonstrate a concrete federated form of this for [[cognitive-diagnosis]]: multiple commercial LLM APIs collaborate on diagnosis while adding ε-local differential privacy noise locally to each model's prediction before aggregation, so no provider sees raw student data — a privacy-preserving architecture that keeps [[intelligent-tutoring|AI tutoring]] functional without centralizing sensitive learner trajectories. Federated learning also enables **cross-institutional analytics without data sharing**: [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al. (2026)]] train a multitask academic-risk model across institutions via federated aggregation so raw learner data stays local and only model parameters are shared — a collaborative, privacy-preserving alternative to centralized [[learning-analytics]] that keeps data sovereignty while capturing cross-institutional patterns.
 - **Secure explicit, informed consent.** Where learner data funds AI development or improvement, institutions should be transparent about collection, storage, and use — and students should have real options, not mandated platforms.
 - **Audit for who is protected.** Privacy safeguards should not default to protecting only some learners; [[equity-in-ai-education|equity]] demands that the same care applies across age, language, disability, and socioeconomic lines.
 
@@ -63,6 +63,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[student-experience]]
 
 ## Connected Articles
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Privacy concerns of pre-service teachers about responsible GenAI use (Kohnke et al. 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI

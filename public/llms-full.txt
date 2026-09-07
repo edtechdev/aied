@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 184 concepts, 1098 articles, and 17 FAQs.
+> Complete text of 184 concepts, 1100 articles, and 17 FAQs.
 
 # Concepts
 
@@ -9648,6 +9648,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - **Validation matters as much as prediction.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, and Carvalho (2025)]] show that predictive knowledge-state models (BKT, BKT-with-Forgetting, AFM) look accurate when fit retroactively to a full session history, yet under **time-based cross-validation** — predicting the next session from prior ones, how analytics are actually deployed — they overestimate learner performance, miss spacing/forgetting dynamics, and can mis-order practice conditions. The caution for analytics: retrospective fit can mask poor forward predictive validity on longitudinal data, so indicator and dashboard models should be validated walk-forward.
 - **[[curriculum-design|Curriculum]]-anchored predictive analytics:** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] estimate knowledge states within Outcome-Based Education by tracing course outcomes directly from LMS interaction and attainment data, using OBE affinity mappings (course–program outcome relations) to structure concept links and a memory-augmented network to model cross-outcome impact — reaching 89.81% AUC and beating DKT, DKVMN, EKT, and SimpleKT on live university engineering data, while staying only competitive (not superior) on general-purpose ASSISTments data.
 - **Interpretable progress prediction with an action window:** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] predict module-level student progress in large-scale online [[cs-education|programming]] courses from content-interaction log features, using glass-box decision trees that match black-box accuracy (85–91%) while flagging "No submission" dropout outcomes up to 7–8 days before module deadlines — an explicit, real-time window for [[teacher-role|intervention]] rather than a bare risk flag, and an exploratory typology of disengaged-at-risk, disengaged-but-successful, and engaged high-performer profiles.
+- **Federated, explainable risk modeling across institutions (2026).** [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al. (2026)]] extend risk modeling beyond single-institution prediction by training a multitask (performance + dropout) model across simulated institutions via federated learning, so raw student data never leaves each institution. Under controlled heterogeneity (label skew, class imbalance, temporal drift, structural missingness) the model preserves ranking accuracy (OULAD AUC 0.918) and structurally stable feature-importance rankings, yet probabilistic calibration drifts — decoupling ranking performance from probability reliability. For early-warning systems this is a caution that threshold-based interventions may need per-institution calibration, and an argument for evaluating analytics along discrimination, calibration, robustness, and explainability at once.
 - **Engagement analytics:** [[student-engagement|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
 - **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
 - **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
@@ -9700,6 +9701,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[simulating-students]]
 
 ## Connected Articles
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
@@ -11106,6 +11108,7 @@ AI in medical and health-professions education is a growing strand of the knowle
 - **Gamification of medical learning.** [[medgame-llm-medical-education-gamification|MedGame]] applies [[game-based-learning|gamification]] and LLMs to engage medical students.
 - **Nursing and interdisciplinary education.** [[alrazeeni-transforming-nursing-education-ai-2026|AI transformation of nursing education]] documents how AI reshapes nursing curricula and instruction.
 - **AI-powered simulation in nursing.** [[jiang-ai-powered-simulation-nursing-education-2026|Jiang et al. (2026)]]'s [[mixed-methods-research|mixed-methods]] [[meta-analysis-systematic-review|systematic review]] of 19 studies (N = 1,253) finds AI-driven [[simulation|simulations]] (GenAI/LLMs, virtual patients/mannequins, AI-enhanced VR/MR, and [[conversational-ai|chatbots]]) significantly improve cognitive knowledge and [[affective-computing|affective]] outcomes ([[self-efficacy|self-efficacy]], communication confidence) in the strongest designs, but are inconsistent for complex psychomotor skills — one [[rct]] found AI-assisted simulation *inferior* to standardized patients. Their concept of an **"authenticity gap"** — a learner-perceived shortfall in emotional resonance, nonverbal cues, and tactile examination — grounds why AI is best for highly structured objectives (foundational communication, history-taking) and should sit in a **stepped simulation continuum** alongside, not instead of, human-standardized patients and clinical placement. This is a distinctive, evidence-anchored refinement of the domain's [[simulation]] strand and parallels the acceptance-trust finding that learners favor human feedback perceived as "benevolent" over AI seen as merely "competent."
+- **LLMs and the reconstitution of professional identity in nursing (2026).** [[sun-llm-nursing-education-professional-identity-2026|Sun et al. (2026)]]'s critical integrative review of 489 studies across 47 countries (Whittemore & Knafl framework) shifts the question from what [[llm|LLMs]] can do in nursing education to what their integration does to the *developmental processes* through which a nurse is formed. Framed through Benner's skill acquisition, cognitive load theory, automation bias, and Wenger's identity formation, they find the same technology both enhances and erodes competence depending on whether the displaced cognitive work is extraneous to, or constitutive of, the target competence — unstructured reliance produced measurable deficits in ethical reasoning and clinical judgement. Their **Professional Identity Tension Model** distinguishes LLM integration that supports professional formation from integration that silently substitutes for it, and **Structural Empathy Suppression** reframes apparent AI "outperformance" on relational metrics as a symptom of systemic overwork rather than genuine AI empathy. An evidence gap map shows the highest-policy-consequence domains (professional identity, relational/ethical competency, long-term outcomes) rest on the thinnest rigorous evidence — a caution against confident deployment claims in nursing education.
 - **Task allocation and the SCAN framework.** [[ai-teammate-task-distribution-medical-training-2026|Tsim et al.]] reframe AI integration from learner "misuse" to *misclassification* — a failure of real-time [[metacognition|metacognitive]] evaluation. Their SCAN framework (Substitute, Complement, Aid, Non-Negotiable), grounded in Vygotsky's [[sociocultural-learning|zone of proximal development]], allocates [[generative-ai|generative AI]] tasks by the individual learner's developmental state and identifies passive engagement within AI-scaffolded tasks as a hidden pathway to mis-skilling that requires re-identification from AI to expert assistance with human [[human-in-the-loop-ai|epistemic auditors]].
 - **Human-in-the-loop instructional asset generation.** [[gen-mentor-dental-radiography-2026|Gen-Mentor]] (Dong et al. 2026) integrates a vision-language-model backbone into a dental-radiography workflow: Faster R-CNN localizes four target findings (Filling, Implant, Impacted Tooth, Cavity), a conditional diffusion model generates class-specific synthetic ROI candidates, a VLM produces evidence-linked captions, and an [[llm]] reformats them into case descriptions, comparisons, and quiz prompts — all before structured expert review. Evaluated with 45 dental students (mean SUS 72.7), it demonstrates how [[human-in-the-loop-ai|human-in-the-loop]] review of AI-generated instructional assets can expand case diversity and immediate-feedback support while retaining expert oversight over what students see.
 - **[[automated-assessment|AI grading]] of pharmacy exams.** [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik & Thambi (2026)]] evaluated ChatGPT-5 against human faculty grading of a 21-item pharmacy exam (16 students) across multiple-choice, select-all-that-apply, fill-in-the-blank, listing, short-answer, and essay items. The model matched faculty closely on objective items (CCC 0.935–1.000) but was unreliable for listing, short-answer (CCC ≈0), and essay (0.341–0.854) responses, and a structured rubric did not consistently improve agreement — evidence that in high-stakes, competency-based [[assessment]] in health professions, AI suits well-specified items while [[human-in-the-loop-ai|human review]] remains necessary for subjective, open-ended clinical reasoning.
@@ -11142,6 +11145,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[discipline-specific-aied]]
 
 ## Connected Articles
+- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, nursing education structural gaps, and the reconstitution of professional identity (Sun et al. 2026)
 - [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 
 - [[genai-simulate-patient-history-pbl-2026]]
@@ -17600,7 +17604,7 @@ Privacy is the precondition for trustworthy AI in education. Because AI systems 
 ## Privacy in practice
 
 - **Treat privacy as a design requirement, not a policy afterthought.** The [[teachlm-post-training-llms-education|TeachLM]] example shows that consent, anonymization, and secure data handling can be built into the data pipeline itself — a model for ethically sourcing the authentic data that makes [[intelligent-tutoring|AI tutors]] effective.
-- **Design for data minimization.** Favor approaches that collect only what adaptation requires (edge/federated AI, on-device processing) rather than hoarding interaction data by default. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et al. (2026)]] demonstrate a concrete federated form of this for [[cognitive-diagnosis]]: multiple commercial LLM APIs collaborate on diagnosis while adding ε-local differential privacy noise locally to each model's prediction before aggregation, so no provider sees raw student data — a privacy-preserving architecture that keeps [[intelligent-tutoring|AI tutoring]] functional without centralizing sensitive learner trajectories.
+- **Design for data minimization.** Favor approaches that collect only what adaptation requires (edge/federated AI, on-device processing) rather than hoarding interaction data by default. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et al. (2026)]] demonstrate a concrete federated form of this for [[cognitive-diagnosis]]: multiple commercial LLM APIs collaborate on diagnosis while adding ε-local differential privacy noise locally to each model's prediction before aggregation, so no provider sees raw student data — a privacy-preserving architecture that keeps [[intelligent-tutoring|AI tutoring]] functional without centralizing sensitive learner trajectories. Federated learning also enables **cross-institutional analytics without data sharing**: [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al. (2026)]] train a multitask academic-risk model across institutions via federated aggregation so raw learner data stays local and only model parameters are shared — a collaborative, privacy-preserving alternative to centralized [[learning-analytics]] that keeps data sovereignty while capturing cross-institutional patterns.
 - **Secure explicit, informed consent.** Where learner data funds AI development or improvement, institutions should be transparent about collection, storage, and use — and students should have real options, not mandated platforms.
 - **Audit for who is protected.** Privacy safeguards should not default to protecting only some learners; [[equity-in-ai-education|equity]] demands that the same care applies across age, language, disability, and socioeconomic lines.
 
@@ -17623,6 +17627,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[student-experience]]
 
 ## Connected Articles
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Privacy concerns of pre-service teachers about responsible GenAI use (Kohnke et al. 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
@@ -67628,6 +67633,52 @@ Sudarshan, V. K., Sisodia, A., Ramachandra, R. A., Sia, B., & Chong Leng Leng, J
 
 ---
 
+## [When the Algorithm Enters the Classroom: LLMs, Nursing Education Structural Gaps, and the Reconstitution of Professional Identity](https://edtechdev.github.io/aied/articles/sun-llm-nursing-education-professional-identity-2026/)
+
+> **Synthesis:** Sun et al. (2026) argue that [[llm|large language model]] (LLM) [[research-methods-aied|research]] in nursing education has asked what LLMs *can do* while neglecting what their integration does to the processes through which a novice becomes an expert nurse. This critical integrative review of 489 studies across 47 countries reframes the evidence through an integrated lens (Benner's skill acquisition, [[cognitive-offloading|cognitive load]] theory, automation bias, Wenger's identity formation), finding the same technology both enhances and erodes nursing competence depending on whether it displaces cognitive work that is extraneous to, or constitutive of, the competence being developed. The authors' Evidence Gap Map shows the domains of greatest policy consequence ([[learner-identity|professional identity]], relational and [[ethics|ethical]] competency, long-term outcomes) rest on the least rigorous evidence, and they introduce the *Professional Identity Tension Model* and *Structural Empathy Suppression* to guide future research and design.
+
+## Key Findings
+
+1. **LLMs address real structural gaps, but benefits are consistently moderated by context.** LLMs help fill deficits in individualised [[personalized-learning|learning support]] at scale, uneven access to [[medical-education|clinical]] [[simulation]], and weak [[scaffolding]] for progressive professional competency. Yet gains depend on the implementation framework (AI that preserves student cognitive agency, e.g. a nurse–AI collaboration [[rct]] beating nurse-only care on patient satisfaction), on economic [[equity-in-ai-education|equity]] (paid-tier access barriers), and on model accuracy ([[rag]]-customised systems lifted nursing-specific accuracy from 43.27% to 73.29%).
+2. **Competency enhancement vs. competency attrition.** Displacing extraneous cognitive load (documentation, routine retrieval) frees working memory for intrinsic processing; displacing intrinsic load (a full reasoning chain, an ethical justification, an individualised care plan) removes the object of learning itself. Unstructured AI reliance was linked to measurable deficits: students using ChatGPT as a sole resource scored significantly below textbook controls on ethical standards and clinical reasoning, and an AI-integrated [[curriculum-design|curriculum]] produced higher scores yet less individualised, weaker-logic care plans — a performance–learning dissociation.
+3. **The evidence base is inverted.** The Evidence Gap Map found no randomised or quasi-experimental studies of professional identity or career development, only three quasi-experimental studies of relational and ethical competency, and no study with follow-up beyond 12 months, while controlled evidence concentrates in cognitive and technical outcomes. Opinion/conceptual evidence dominated the highest-stakes domains, and over 50% of studies came from just three countries.
+
+## The Professional Identity Tension Model
+
+The review's central conceptual contribution formalises a single criterion — whether LLM-displaced cognitive and participatory work is extraneous to or constitutive of the competence being developed — across three levels: the task layer (which cognitive activities are displaced and whether they served a developmental function), the competency layer (enhancement when extraneous demands are displaced with cognitive agency preserved, vs. attrition when constitutive reasoning is displaced), and the identity layer (whether LLMs substitute for the participatory experiences through which [[learner-identity|professional identity]] forms). The design principle that follows: integration that offloads extraneous demand while preserving constructive or interactive [[student-engagement|engagement]] supports [[professional-training|professional development]]; integration that displaces work constitutive of competence silently substitutes for it.
+
+## Structural Empathy Suppression
+
+The authors propose this mechanism to reframe findings where AI appears to *outperform* nurses on relational metrics (e.g. an AI scoring higher than nurses on empathy ratings in a high-volume, 54.9 cases/hour context). Distinct from compassion fatigue (individual exhaustion) and emotional labour (managing emotional expression), it operates structurally: when systemic overwork makes authentic human empathic expression unsustainable and algorithmically consistent AI responses fill the gap, the AI appears comparatively empathetic — and the identity-constituting significance of nursing practice transfers to the algorithm. It reframes the policy question from "how effective is this technology?" to "what conditions are making this technology appear necessary?"
+
+## Implications for Educators and Curriculum Designers
+
+- **Design for cognitive agency, not efficiency.** Position LLMs as reasoning partners rather than answer sources; evaluate applications by their effect on students' independent reasoning, judgement, and reflection, not primarily on workload reduction.
+- **Apply the dual-pathway test.** LLMs are safest for displacing extraneous or routine work (documentation, information retrieval) and riskiest when they supply complete reasoning chains, ethical justifications, or individualised care plans — the cognitive work constitutive of [[professional-training|competence]].
+- **Assess capability, not just performance.** Outcomes measured while an LLM is available may index fluent performance rather than durable capability; use delayed, no-tool post-tests and transfer tasks on unfamiliar clinical presentations.
+- **Address equity and [[regulation]].** Mandating LLM integration without addressing access disparities (subscription costs, detection-tool bias against non-native speakers) risks widening educational inequities; frameworks should require evidence that implementations preserve developmental processes.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[llm]]
+- [[medical-education]]
+- [[professional-training]]
+- [[learner-identity]]
+- [[curriculum-design]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing: mixed methods systematic review
+- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI: systematic review (2010–2025)
+
+## Citation
+
+Sun, Y., Li, H., Tao, X., Zhou, X., Gururajan, R., & Zhang, J. (2026). [When the algorithm enters the classroom: A critical integrative review of large language models, nursing education structural gaps, and the reconstitution of professional identity](https://doi.org/10.1016/j.caeai.2026.100675). *Computers and Education: Artificial Intelligence, 11*, 100675.
+
+---
+
 ## [SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation](https://edtechdev.github.io/aied/articles/supplynet-visual-exploratory-learning/)
 
 SupplyNet is a [[game-based-learning|gamified]] visual simulation system that uses a contextual graph-based [[llm]] multi-agent framework to model interdependent supply chain dynamics. Designed for [[professional-training]] in supply chain management (SCM), it replaces traditional abstract [[simulation|simulations]] with a manipulable decision space combining an interactive network view, a branching timeline for "what-if" exploration, and a task-oriented analysis console.
@@ -71450,6 +71501,52 @@ The paper proposes two foundational dimensions — rethinking [[pedagogy|pedagog
 ## Citation
 
 Videla, R., Penny, S., & Ross, W. (2026). [*"If You Can't Dance Your Program, You Can't Write It": Challenges and Implications for AI in Education*](https://doi.org/10.1145/3759257). ACM Transactions on Computing Education, 26(3), Article 43.
+
+---
+
+## [Federated and Explainable Learning Analytics for Privacy-Preserving Academic Risk Modeling Across Heterogeneous Educational Institutions](https://edtechdev.github.io/aied/articles/villegas-ch-federated-explainable-learning-analytics-2026/)
+
+> **Synthesis:** Villegas-Ch et al. (2026) propose a federated, explainable [[learning-analytics]] framework for modeling academic risk — jointly predicting [[learning-gains|academic performance]] and dropout — across institutions without sharing raw student data. Their "DEAFederated" architecture combines a temporal (GRU) encoder with a tabular feature block and two multitask output heads, trained under a FedAvg/FedProx scheme. Crucially, they simulate *controlled, multidimensional* [[governance|institutional]] heterogeneity (label skew, class imbalance, temporal drift, structural missingness) and evaluate models along four axes — discrimination, calibration, robustness, and explanatory stability — finding that federated training preserves ranking performance and stable feature-importance rankings across institutions, while probabilistic calibration proves far more sensitive to heterogeneity. This surfaces a key decoupling between *ranking* accuracy and *probabilistic reliability* that matters wherever risk predictions trigger threshold-based interventions.
+
+## Key Findings
+
+1. **Federated training preserves discriminative performance under heterogeneity.** On OULAD the model reaches AUC = 0.918 and F1 = 0.755; performance-task AUC stayed near the centralized 0.925 with only sub-0.0015 variation across Dirichlet concentration levels, with no monotonic degradation or collapse as heterogeneity increased.
+2. **Ranking and probabilistic reliability decouple.** While AUC/F1 (ranking performance) stayed stable, calibration metrics (Brier score, Expected Calibration Error) proved markedly more sensitive to distributional shifts — in the performance task ECE even *fell* at the most-fragmented level (α = 0.1), showing aggregated decentralized outputs reshape the confidence distribution rather than degrade cleanly.
+3. **Explanatory structure stays stable across institutions.** Feature-importance ranking stability (RankStab) ranged 0.99–1.00, so heterogeneity changed *how much* features mattered, not *which order* they ranked — supporting transparency and trust, while attribution *magnitudes* varied with local data.
+4. **Local explanations diverge non-monotonically with heterogeneity.** Attribution divergence from the global reference rose then fell with α in the dropout task, indicating moderate fragmentation (not the most extreme) is where local explanatory profiles drift most.
+5. **Predictive generalization does not imply explanatory equivalence.** A model trained on OULAD retained discrimination when transferred to EdNet-KT1 (F1 rising to 0.882 on a proxy dropout label), but the authors caution this reflects an alignment between proxy-label construction and temporal persistence features — a near-deterministic boundary — rather than a discovered universal predictor.
+6. **Multidimensional evaluation is essential.** Performance, calibration, and interpretability do not evolve uniformly during federated training, so single-metric evaluation mischaracterizes how institutional heterogeneity affects a model.
+
+## Methods in Brief
+
+The framework formulates academic risk as a multitask problem with targets for both performance and dropout. Each institution's data stays local; a global server aggregates model parameters via sample-size-weighted FedAvg (with a proximal FedProx variant). Institutional heterogeneity is *parameterized* — Dirichlet (α) label skew, dropout-class imbalance (β), temporal drift, and structural missingness (γ) — rather than imposed as ad-hoc non-IID partitions. Explainability uses SHAP-based feature attributions compared as vectors: each institution's mean attribution profile is measured against a sample-size-weighted global reference via a Euclidean divergence metric (Δ), plus the RankStab rank-stability measure.
+
+## Implications for Institutions and Designers
+
+- **Privacy-preserving cross-institutional modeling is viable.** Federated training lets institutions collaborate on risk models while retaining data sovereignty — relevant where privacy constraints block centralized analytics.
+- **Do not trust raw probabilities across institutions.** Because calibration drifts under heterogeneity, probability thresholds that trigger early-warning interventions may need per-institution adjustment or post-calibration before use.
+- **Separate ranking from reliability in deployment.** A model can rank at-risk students correctly while producing miscalibrated probabilities; intervention systems should be designed knowing which capability they rely on.
+- **Explainability can support trust and targeting.** Stable feature-importance rankings help identify persistent behavioral indicators of risk (persistence, interaction density, reduced activity) to inform differentiated support.
+
+## Limitations
+
+The EdNet proxy label is derived from the same temporal-persistence features used as inputs, inflating apparent cross-platform discrimination; the temporal representation abstracts learning into aggregated patterns without social interaction, instructor feedback, or learning-strategy variability; and the controlled experimental design does not capture real distributed-system complexity (variable client sizes, asynchronous updates, communication instability).
+
+## Connected Concepts
+
+- [[learning-analytics]]
+- [[privacy]]
+- [[ai-ed-evaluation]]
+- [[machine-learning]]
+
+## Connected Articles
+
+- [[at-risk-students-ml-prediction]] — Machine-learning prediction of at-risk students
+- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving federated learning for cognitive diagnosis
+
+## Citation
+
+Villegas-Ch, W., Maldonado Navarro, A., Govea, J., Garcia-Ortiz, J., & Buenaño-Fernandez, D. (2026). [Federated and explainable learning analytics for privacy-preserving academic risk modeling across heterogeneous educational institutions](https://doi.org/10.1016/j.caeai.2026.100629). *Computers and Education: Artificial Intelligence, 11*, 100629.
 
 ---
 
