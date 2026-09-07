@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 184 concepts, 1100 articles, and 17 FAQs.
+> Complete text of 184 concepts, 1101 articles, and 17 FAQs.
 
 # Concepts
 
@@ -16329,7 +16329,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 ## Special populations and global equity
 
 - **Special populations:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[inclusive-learning|learners with disabilities]] represent groups whose needs are often overlooked in AI system design.
-- **Global South perspectives:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[amponsah-ai-acceptance-science-teachers-2026|Ghanaian teacher acceptance]] provide Global South perspectives often absent from Western-centric AIED research.
+- **Global South perspectives:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[amponsah-ai-acceptance-science-teachers-2026|Ghanaian teacher acceptance]] provide Global South perspectives often absent from Western-centric AIED research. At the institutional level, [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] show AI integration across 45 Nigerian universities is driven by institution age and geography rather than governance type, with reinforcing network ties letting well-connected institutions compound advantage — evidence that equity gaps are reproduced structurally, not just through individual access.
 - **Global capacity:**  documents how generative AI benefits are distributed unevenly across countries and institutions, and [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] addresses structural socioeconomic gradients.
 - **Disability and Global South intersection:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates across three Palestinian universities — shows GenAI bridging digital, geographic, and socioeconomic divides while extending [[technology-acceptance-model|technology acceptance models]] to disability contexts, where [[usability-research|usability]], affordability, and accessibility are mutually reinforcing.
 - **Gender equity in computing:** equity-oriented uses of [[generative-ai|GenAI]] remain underexplored. [[all-girls-genai-makerspace-gender-equity-2026|An all-girls GenAI makerspace initiative in Europe]] combined two GenAI tools with feminist pedagogy to address persistent gender inequities in girls' representation in computing, with practitioners enacting specific steps to support girls' participation and engagement — an example of equity-focused GenAI design. Deliberately gendered AI can also function as the *intervention itself*: [[ada-female-coded-chatbot-gender-stereotypes-2026|Rücker and Becker-Genschow (2026)]] showed that a female-coded, [[discipline-specific-aied|domain-specific]] math [[conversational-ai|chatbot]] modeled on Ada Lovelace's persona (and deployed as both a role model and a [[intelligent-tutoring|learning assistant]]) significantly reduced gender-stereotypical beliefs about mathematical ability and [[math-education|mathematics]] as a male domain among ninth graders — in *both* genders, with high and gender-neutral technological acceptance. This reframes representation as a design lever, not just a bias to audit: systematically designed AI personas can counter, rather than merely avoid reproducing, [[gender-bias-transfer-llm-writing|gender bias]].
@@ -16361,6 +16361,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
 - [[du-yuan-epistemic-dependence-2026]] — Epistemic plurality and justice in AI-mediated learning (Du & Yuan 2026)
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
@@ -16442,6 +16443,8 @@ AI adds new layers to the equity implications of technology. Algorithmic bias ca
 
 **Personality, not just SES, shapes the AI-era divide.** [[ai-divide-ses-personality-primary-education-2026|Wang et al. (2026)]] analyzed survey and national registry data from **4,497 Grade 6 students** in the Netherlands, separating two mediating pathways — AI usage and digital literacy — linking student background and personality to [[learning-gains|academic performance]]. Their key finding reframes the classic divide: **digital literacy, not AI usage intensity, mediates** the link between personality and performance, and a new digital-skills divide emerges that is driven more by **personality traits than by socioeconomic status**. SES advantages on performance operated independently of AI [[student-engagement|engagement]]. This complicates the access-and-SES framing of the digital divide, pointing to skills formation and dispositional support as equity-relevant levers alongside device and tool access.
 
+**The divide operates at the institutional level too.** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] show that in Nigeria's higher education system, AI integration capacity concentrates in older, South-West-region institutions and compounds through mutually reinforcing network ties (international collaborations × industry partnerships, r = 0.74) — meaning institutional "have-nots" (typically newer state universities) face structural barriers to entering the very networks that would help them catch up. Digital inequality is thus reproduced not only across individual learners but across the [[governance|institutional]] structures that shape who can participate in an AI-transformed knowledge economy.
+
 ### Connections to related concepts
 
 The digital divide is a core concern of [[equity-in-ai-education]] research, closely tied to [[ai-literacy]] (which is positioned as a central mechanism for addressing structural barriers), and to [[ethics]] and [[bias-mitigation]] (since algorithmic bias disproportionately affects marginalized groups). It connects to [[ai-education]] and [[higher-ed]] as the settings where access and capability gaps manifest, and relates to [[student-experience]] as it shapes who can participate meaningfully in AI-shaped learning.
@@ -16458,6 +16461,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[student-experience]]
 
 ## Connected Articles
+- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
@@ -17141,6 +17145,7 @@ Mainstream AI and educational-technology research has historically been dominate
 
 - **Culturally grounded data and benchmarks:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] provides a [[multilingual-learning|multilingual]] Indian Knowledge Systems instruction dataset; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] introduces a Ghana-based [[stem-education|STEM]] benchmark, one of the first Global South educational evaluation datasets.
 - **Contextual adoption:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] model [[generative-ai|GenAI]] adoption among Bangladeshi engineering students, and [[connected-ai-lesson-planning-vietnam|ConnectED]] deploys a [[curriculum-design|curriculum]]-aligned lesson-planning system for Vietnamese education.
+- **Institutional integration and structural inequality:** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]]'s comparative content analysis of 45 Nigerian universities (federal/state/private) found that AI integration is predicted by institution age and geographic location — not governance type — and that international and industry network ties reinforce one another (r = 0.74), so well-connected institutions compound advantage while others fall further behind. It locates [[digital-divide|digital inequality]] not just at the learner level but in the structural capacity of [[higher-ed|higher-education]] institutions themselves.
 - **Epistemic marginalization:** [[genai-minoritized-knowledges-disability|Tali-Otmani]] argues that Western-centric training data marginalizes non-Western and disability-centered knowledges — connecting Global South concerns to [[equity-in-ai-education]] and [[culturally-relevant-pedagogy]].
 - **Disability and [[inclusive-learning|inclusion]] in the Global South:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates across three Palestinian universities — found GenAI bridges digital, geographic, and socioeconomic divides for disabled learners, extending [[technology-acceptance-model|technology-acceptance]] research to disability contexts where [[usability-research|usability]], affordability, and [[accessibility]] are mutually reinforcing.
 
@@ -17162,6 +17167,7 @@ Attending to Global South contexts requires moving beyond assuming Western model
 
 ## Connected Articles
 
+- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
 - [[nguyen-genai-global-south-review-2026]]
 - [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)
 - [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
@@ -20737,6 +20743,57 @@ The study demonstrates that high academic reputation and national AI readiness d
 ## Citation
 
 Adarkwah, M. A., Ercan, A. M., Schneider, K., & Bayar, E. (2026). Generative artificial intelligence policy: a qualitative UNESCO framework analysis. *Journal of University Teaching and Learning Practice*, 23(2). [https://doi.org/10.53761/801ryw41](https://doi.org/10.53761/801ryw41)
+
+---
+
+## [Institutional Structures, Digital Inequality, and AI Integration in Higher Education](https://edtechdev.github.io/aied/articles/adeniranye-ai-integration-nigerian-higher-education-2026/)
+
+> **Synthesis:** Adeniranye et al. (2026) provide one of the first systematic comparative assessments of [[ai-education|AI]] integration across institution types within a single national [[higher-ed|higher education]] system. Analyzing 45 Nigerian universities (15 federal, 15 state, 15 private) across six dimensions — infrastructure, [[curriculum-design|curriculum]], research, industry partnerships, international collaborations, and policy frameworks — they find only moderate overall integration (M = 4.79 on a 10-point scale) with meaningful variation. Critically, governance type did not predict integration once institution age and geographic location were controlled: older universities and those in Nigeria's South-West corridor scored significantly higher. Strong correlations among internal capabilities and between international collaborations and industry partnerships show that capability and network ties are mutually reinforcing, so well-connected institutions accumulate compounding advantages while others risk deepening [[digital-divide|digital inequality]].
+
+## Key Findings
+
+1. **Moderate overall integration with wide variation.** Across 45 universities the mean AI integration was M = 4.79 (SD = 1.71), range 1.83–7.83 on a 10-point scale — a baseline of substantial but uneven adoption.
+2. **Institution type does not determine integration.** Federal universities had the highest mean (M = 5.25), followed by private (M = 4.76) and state (M = 4.36), but one-way ANOVA found no significant overall difference by type (F(2,42) = 1.01, p = 0.372).
+3. **Age and geography, not governance, predict integration.** Institution age was the strongest predictor (β = 0.43, p = 0.016) and South-West location was also significant (β = 0.31, p = 0.029); institution type was not significant when controlling for these (full model R² = 0.30, F(4,40) = 4.29, p = 0.006).
+4. **Curriculum is the strongest dimension.** Curriculum integration led overall (M = 5.73), with private universities recording their strongest score there (M = 5.87); policy frameworks were weakest overall (M = 4.09), with only 27% of institutions scoring 6+ on formal AI strategies.
+5. **Internal capabilities reinforce each other.** Infrastructure, curriculum, and research intercorrelated strongly (r = 0.79–0.80, all p < 0.001), indicating mutually reinforcing [[governance|institutional]] capacity.
+6. **Network position compounds advantage.** The strongest external relationship — international collaborations × industry partnerships (r = 0.74, p < 0.001) — supports a "connections beget connections" dynamic in which globally connected institutions accrue prestige, funding, and further ties.
+7. **Policy lags practice.** Policy frameworks showed the weakest correlation with other dimensions (notably curriculum, r = 0.43), signaling a disconnect between formal AI strategy and operational curriculum activity.
+
+## Methods in Brief
+
+Three trained [[research-methods-aied|researchers]] conducted a comparative content analysis of public university websites, strategic plans, course catalogs, and partnership announcements for 45 Nigerian universities (equal-allocation stratified sample of 15 each across federal/state/private). Each institution was scored on six theoretically grounded dimensions using structured 10-point anchored rating scales, refined through pilot coding; the overall score is the unweighted mean. Analysis used one-way ANOVA, Pearson correlation (Bonferroni-corrected), and multiple regression. Inter-rater reliability on 20% of the sample was strong (Cohen's κ = 0.79–0.85), and external validation rates varied by source type (academic publications 78%, news 67%). The integrated framework combined institutional theory, the resource-based view, and network theory.
+
+## Implications for Policy and Partnerships
+
+- **Build capacity regardless of governance type.** Interventions should target newer institutions and underserved regions (infrastructure and AI-lab grants, [[educational-development|faculty development]], mentorship pairing newer with established universities, shared cloud resources) rather than assuming institutional category determines capacity.
+- **Close the policy gap.** Few institutions have formal AI strategies; national guidance and incentives (NUC [[benchmark|benchmarks]], NITDA/TETFund coordination) could help institutions codify faculty development, research support, [[teacher-role|teaching]] guidelines, and [[ethics|ethical]] frameworks.
+- **Treat international and industry partnerships as complementary, not competing.** Because network ties reinforce one another, integrated partnership policies yield spillovers — and deliberately including less-connected institutions can counter compounding advantage.
+- **For international partners: assess institutional profile, not category.** Pick partners by history, geography, networks, and dimensional strengths, and diversify funding to avoid dependency (a caution sharpened by the 2025 USAID funding freeze).
+
+## Limitations
+
+The study relies on publicly observable documentary/web indicators that may capture institutional signaling alongside practice and may undercount institutions with limited web presence; the equal-allocation sample is not proportionally representative; a modest N = 45 limits power and yields wide confidence intervals (associations, not causal estimates); and the single cross-sectional time point cannot track the rapid pace of AI-adoption change.
+
+## Connected Concepts
+
+- [[equity-in-ai-education]]
+- [[digital-divide]]
+- [[global-south]]
+- [[educational-policy-ai]]
+- [[governance]]
+- [[higher-ed]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[nguyen-genai-global-south-review-2026]] — Systematic review of GenAI in Global South education
+- [[multilingual-adaptive-learning-nigeria-2026]] — Adaptive learning in the Nigerian higher education context
+- [[amponsah-ai-acceptance-science-teachers-2026]] — AI acceptance among Ghanaian science teachers
+
+## Citation
+
+Adeniranye, D. I., Lunn, S. J., Mosobalaje, O., Eze, P., Berhane, B., & Adeniyi, D. (2026). [Institutional structures, digital inequality, and AI integration in higher education](https://doi.org/10.1016/j.caeo.2026.100400). *Computers and Education Open, 11*, 100400.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-07T08:45:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity-in-ai-education, ai-literacy, accessibility, ai-education]
@@ -38,6 +38,8 @@ AI adds new layers to the equity implications of technology. Algorithmic bias ca
 
 **Personality, not just SES, shapes the AI-era divide.** [[ai-divide-ses-personality-primary-education-2026|Wang et al. (2026)]] analyzed survey and national registry data from **4,497 Grade 6 students** in the Netherlands, separating two mediating pathways — AI usage and digital literacy — linking student background and personality to [[learning-gains|academic performance]]. Their key finding reframes the classic divide: **digital literacy, not AI usage intensity, mediates** the link between personality and performance, and a new digital-skills divide emerges that is driven more by **personality traits than by socioeconomic status**. SES advantages on performance operated independently of AI [[student-engagement|engagement]]. This complicates the access-and-SES framing of the digital divide, pointing to skills formation and dispositional support as equity-relevant levers alongside device and tool access.
 
+**The divide operates at the institutional level too.** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] show that in Nigeria's higher education system, AI integration capacity concentrates in older, South-West-region institutions and compounds through mutually reinforcing network ties (international collaborations × industry partnerships, r = 0.74) — meaning institutional "have-nots" (typically newer state universities) face structural barriers to entering the very networks that would help them catch up. Digital inequality is thus reproduced not only across individual learners but across the [[governance|institutional]] structures that shape who can participate in an AI-transformed knowledge economy.
+
 ### Connections to related concepts
 
 The digital divide is a core concern of [[equity-in-ai-education]] research, closely tied to [[ai-literacy]] (which is positioned as a central mechanism for addressing structural barriers), and to [[ethics]] and [[bias-mitigation]] (since algorithmic bias disproportionately affects marginalized groups). It connects to [[ai-education]] and [[higher-ed]] as the settings where access and capability gaps manifest, and relates to [[student-experience]] as it shapes who can participate meaningfully in AI-shaped learning.
@@ -54,6 +56,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[student-experience]]
 
 ## Connected Articles
+- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
