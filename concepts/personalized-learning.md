@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-05T00:55:00-04:00"
+updated: "2026-09-07T09:09:07-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 audience: [learners]
@@ -66,6 +66,10 @@ Personalization and [[assessment]] are tightly coupled in AI-driven learning. Ad
 
 Reinforcement learning is a distinct mechanism for personalization, and [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] map its empirical track record: their PRISMA review of 89 RL-in-education studies finds RL personalization concentrated in [[higher-ed]] and [[math-education]], with adaptation implemented mainly as content scheduling (n = 53) or guidance-related personalization such as hints and feedback (n = 36). They report that RL policies beat non-adaptive baselines most often on guidance-related adaptation and on [[affective-computing|affective]] variables (63% of tested studies), and that learning gain — especially normalized learning gain — was the most effective reward source — practical guidance for designing reward signals that personalize toward genuine learning rather than [[student-engagement|engagement]].
 
+## Terminological ambiguity### Prompt-conditioned micro-personalization
+
+[[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] show that the gap between system and perceived personalization can be addressed at the response level. Their framework for the Jill Watson [[llm|LLM]]/[[rag|RAG]] tutor combines learner-selected preferences (abstraction, verbosity, perception, processing, understanding) with system-inferred cognitive demand ([[cognitive-diagnosis|Bloom's Taxonomy]]) to produce 96 micro-profiles adapted at each interaction via [[prompt-engineering|structured prompt conditioning]] — no retraining, no [[discipline-specific-aied|domain-specific]] authoring. This is a hybrid of [[adaptive-learning|adaptability]] (learner-driven preference selection) and adaptivity (system-driven cognitive assessment), showing that personalization of *how* content is presented can be both scalable and perceptible to learners.
+
 ## Terminological ambiguity
 
 A recurring problem is that "personalized learning" is a broad, loosely defined umbrella term. Systematic reviews ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) find that [[adaptive-learning|adaptive learning]], individualized instruction, customized learning, and personalized learning are used interchangeably, with no universally accepted definition — a source of conceptual ambiguity that complicates research synthesis and evidence-based practice. The field increasingly calls for a unified framework and definition so that "personalized" denotes a precise, evidence-backed claim rather than a vague label (a point reinforced by the knowledge base's [[limitations-in-aied-research|critique of weak construct use]]).
@@ -88,6 +92,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 
 ## Connected Articles
+- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[learning-context-framework-context-aware-ai-education-2026]]

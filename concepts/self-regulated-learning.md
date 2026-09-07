@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-04T09:30:00-04:00"
+updated: "2026-09-07T09:09:07-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 audience: [learners]
@@ -73,6 +73,12 @@ AI tools can enter this loop at different points:
 
 [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] reframes effective [[generative-ai|GenAI]] use in [[writing-education|academic writing]] as **strategic regulation** — an enacted SRL practice of verifying, revising, selectively adopting, or rejecting AI output. In a [[mixed-methods-research|mixed-methods]] study of 107 students, higher AI anxiety was positively associated with verification and revision (β=.24), while evaluative capacity predicted active revision and selective integration (β=.46). Students clustered into four regulatory types — Uncritical Reliance (18.7%), Selective Integration (34.6%), Evaluative Transformation (31.8%), and Strategic Rejection (14.9%) — showing that [[ai-literacy|AI literacy]] in [[higher-ed|higher education]] functions less as acceptance than as regulatory competence grounded in evaluative judgment and [[ethics|ethical]] responsibility. This positions SRL as the core mechanism distinguishing critical from uncritical AI use.
 
+## Relationship to Tutoring-Specific Designcritical from uncritical AI use.
+
+### GenAI-aware reflection as SRL
+
+[[5p-reflection-model-genai-2026|The 5P Reflection Model (Kadel et al. 2026)]] re-centres structured reflection in the GenAI era as an enacted SRL practice. Because learners increasingly co-create meaning with AI, traditional reflection models struggle to authenticate student reflection, so the 5P model (Purpose, Process, Product, Pitfalls, Plan) fuses forethought-driven goal setting, reflection-in-action (documenting prompts and iterations), reflection-on-action (validating the probabilistic output against external sources), an explicit pitfalls stage for hallucination, [[academic-integrity|plagiarism]], and [[cognitive-offloading|over-reliance]], and a forward-looking plan — embedding emotional monitoring throughout. Its "process over product" philosophy treats structured documentation of the [[human-ai-collaboration|human-AI interaction]] as the regulatory demand that preserves authenticity, [[agency|agency]], and [[metacognition|metacognitive]] depth, positioning GenAI-aware reflection as a scaffold for self-regulation rather than a substitute for it.
+
 ## Relationship to Tutoring-Specific Design
 
 [[stanford-evidence-base-ai-k12-2026|Tutoring-specific AI]] aligns with SRL-first design: it provides graduated scaffolds that preserve [[agency|learner agency]] and require strategic self-regulation. General-purpose AI often removes the regulatory demands entirely.([[stanford-evidence-base-ai-k12-2026]])
@@ -86,7 +92,7 @@ For example:
 - **Mixed evidence and the miscalibration gap.** A rapid review of PreK-12 GenAI research finds metacognitive gains during supported tasks often do not persist when support is removed, and that GenAI can increase perceived learning even when durable learning is absent (the miscalibration gap — students preferred GenAI over note-taking despite weaker retention). Students need explicit, stage-appropriate training to decide what to delegate and when independent effort matters.([[young-people-learning-generative-ai-rapid-review-2026]])
 - **Agentic initiative vs. self-regulation tension.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] note that as agents automate more of a task, the less self-regulated cognitive work the learner performs — so designs should give learners control over agent initiation (dynamic, fading scaffolding) to preserve self-regulatory capacity rather than outsourcing it.
 - **Self-regulation shapes AI coding-assistant use.** [[computational-thinking-aica-2026|A study of AI coding assistants]] found high-[[computational-thinking]] students showed stronger self-regulatory coherence (planning-execution-self-reflection) and used AICA for code understanding, while low-CT students used it for immediate answer retrieval.
-- **SRL co-occurs with lower digital distraction in online learning.** [[decreasing-digital-distraction-college-online-learning-2026|Shi et al. (2026)]], using unsupervised data mining on 530 college students, found that SRL strategies — goal setting, environment structuring, and time management — co-occurred most consistently with lower digital distraction in [[higher-ed|online learning]], alongside learner-instructor and learner-content engagement. The finding positions concrete SRL training as a high-leverage intervention for focused online study.
+- **SRL co-occurs with lower digital distraction in [[online-teaching-and-learning|online learning]].** [[decreasing-digital-distraction-college-online-learning-2026|Shi et al. (2026)]], using unsupervised data mining on 530 college students, found that SRL strategies — goal setting, environment structuring, and time management — co-occurred most consistently with lower digital distraction in [[higher-ed|online learning]], alongside learner-instructor and learner-content engagement. The finding positions concrete SRL training as a high-leverage intervention for focused online study.
 
 ## LLM-Mediated SRL: Scaffold, Shortcut, or Partner?
 
@@ -133,6 +139,7 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[llm]] — the underlying model of AI tools
 
 ## Connected Articles
+- [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)

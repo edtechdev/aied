@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-06T08:30:00-04:00"
+updated: "2026-09-07T09:09:07-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -30,6 +30,9 @@ The arrival of generative AI has not created the need for academic integrity —
 - **Assessment redesign:** [[authentic-assessment]], [[beyond-detection-authentic-assessment-ai-2025|beyond-detection approaches]], and [[ai-assessment-scale-reform|the AI Assessment Scale]] shift the focus from catching AI use to designing assessments where AI use is either irrelevant, transparent, or required to demonstrate a specific capability.
 - **Structural vulnerability of grading:** [[biology-grade-vulnerability-genai-2026|Chan et al.]] provide a concrete case study of how current grading is structurally exposed to AI-mediated dishonesty. In a [[biology-education|biology]] department, instructors perceived only in-person proctored exams as minimally vulnerable; outside-of-class assignments were seen as highly vulnerable, leaving about a third of a student's grade highly vulnerable and 80% at least somewhat vulnerable. This frames the integrity problem as partly a *grading-design* problem, motivating rebalancing toward proctored or in-class assessment and [[authentic-assessment|authentic assessment]] designs that are harder to outsource.
 - **Validity as the organizing frame:** [[assessment-validity]] reframes integrity as an evidential problem. [[authentic-products-authenticated-processes-2026|Authentic assessment research]] introduces **construct substitution** — an AI-generated product is attributed to the student, so the assessment infers the tool's capability rather than the student's. The evidential question survives any AI policy: whether use is prohibited, permitted, or required, the assessment must still generate evidence warranting the inference being drawn.
+- **Policy development:**the assessment must still generate evidence warranting the inference being drawn.
+- **Variation-at-scale as a no-surveillance integrity mechanism:** [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA (Lee 2026)]] [[benchmark]] the premise behind AI-Integrated Authentic Assessment (AIAA) — replacing surveillance-based proctoring with per-student task variation so copying is structurally useless. The integrity guarantee is conditional on LLMs generating variants that are surface-distinct and [[assessment-validity|construct-equivalent]]; VARIA's 600-variant pilot finds frontier models satisfy this only at the margin (joint score 0.81–0.88) while non-frontier models collapse (0.50–0.55), so "variation-at-scale cannot be solved by [[prompt-engineering|prompting]] alone." This gives the detection-vs-redesign debate an empirical, falsifiable check: the no-surveillance promise of authentic, task-varied assessment now depends on a measured (and still narrow) generation capability rather than an assumed one.
+- **Authenticating student reflection against GenAI:** [[5p-reflection-model-genai-2026|Kadel et al. (2026)]] argue that traditional reflection models can no longer authenticate student reflection once GenAI can author reflective prose, and embed integrity directly inside a reflection model — the 5P framework's Pitfalls stage explicitly handles plagiarism, hallucination, and over-reliance, while its Process and Product stages require documenting prompts and validating outputs so that learners' own reasoning is distinguishable from AI-generated contributions.
 - **Policy development:** [[genai-policies-higher-ed-computing|Institutional AI policies]] and [[educational-policy-ai]] research examine how universities develop and communicate integrity expectations — and why abstract policy statements so often fail.
 - **Integrity framing is giving way to task-based regulation:** [[chirikov-regulate-ai-syllabi-2026|Chirikov's (2026)]] longitudinal study of 31,000+ course syllabi shows instructors' AI policies shifting away from a purely integrity-based frame: academic-integrity mentions in syllabi fell from 63% (Spring 2023) to 49% (Fall 2025), while references to AI's impact on learning rose from 1% to 29%. Instructors increasingly regulate AI **by task type** — restricting it for drafting/reasoning (where AI would displace learning) and permitting it for editing/proofreading and study support — rather than applying a blanket integrity prohibition. This reframes integrity policy as a task-level design decision rather than a binary rule.
 
@@ -107,6 +110,8 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[k-12]]
 
 ## Connected Articles
+- [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Construct-equivalent assessment variant generation (Lee 2026)
 - [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Differentiating productive reliance from harmful dependence (Du & Yuan 2026)
