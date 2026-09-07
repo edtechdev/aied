@@ -1,7 +1,7 @@
 ---
 title: Artificial intelligence, cognitive offloading and implications for education
 created: "2026-08-07T04:33:04-04:00"
-updated: "2026-08-22T19:10:00-04:00"
+updated: "2026-09-07T10:00:00-04:00"
 type: article
 tags: [cognitive-offloading, ai-literacy, equity-in-ai-education, metacognition, teacher-role, k-12, higher-ed, rag]
 research_method: [theoretical analysis, literature review]
@@ -67,6 +67,7 @@ It connects to the knowledge base's [[ai-misuse-learning-harm|AI misuse and lear
 
 ## Connected Articles
 
+- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: RCT of AI augmenting tutors in real time
 - [[efficiency-gain-illusion-ai-overreliance]] — Efficiency-gain illusion and AI overreliance
 - [[brcic-effortless-trap-productive-struggle-2026]] — The effortless trap and productive struggle
 - [[absent-cognitive-baseline-2026]] — The absent cognitive baseline
