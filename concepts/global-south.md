@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-07T08:45:00-04:00"
 type: concept
 tags: [global-south, equity-in-ai-education, generative-ai, higher-ed, k-12, culturally-relevant-pedagogy, ai-literacy]
 level: [higher ed, k 12]
@@ -29,6 +29,7 @@ Mainstream AI and educational-technology research has historically been dominate
 
 - **Culturally grounded data and benchmarks:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] provides a [[multilingual-learning|multilingual]] Indian Knowledge Systems instruction dataset; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] introduces a Ghana-based [[stem-education|STEM]] benchmark, one of the first Global South educational evaluation datasets.
 - **Contextual adoption:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] model [[generative-ai|GenAI]] adoption among Bangladeshi engineering students, and [[connected-ai-lesson-planning-vietnam|ConnectED]] deploys a [[curriculum-design|curriculum]]-aligned lesson-planning system for Vietnamese education.
+- **Institutional integration and structural inequality:** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]]'s comparative content analysis of 45 Nigerian universities (federal/state/private) found that AI integration is predicted by institution age and geographic location — not governance type — and that international and industry network ties reinforce one another (r = 0.74), so well-connected institutions compound advantage while others fall further behind. It locates [[digital-divide|digital inequality]] not just at the learner level but in the structural capacity of [[higher-ed|higher-education]] institutions themselves.
 - **Epistemic marginalization:** [[genai-minoritized-knowledges-disability|Tali-Otmani]] argues that Western-centric training data marginalizes non-Western and disability-centered knowledges — connecting Global South concerns to [[equity-in-ai-education]] and [[culturally-relevant-pedagogy]].
 - **Disability and [[inclusive-learning|inclusion]] in the Global South:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates across three Palestinian universities — found GenAI bridges digital, geographic, and socioeconomic divides for disabled learners, extending [[technology-acceptance-model|technology-acceptance]] research to disability contexts where [[usability-research|usability]], affordability, and [[accessibility]] are mutually reinforcing.
 
@@ -50,6 +51,7 @@ Attending to Global South contexts requires moving beyond assuming Western model
 
 ## Connected Articles
 
+- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
 - [[nguyen-genai-global-south-review-2026]]
 - [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)
 - [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning

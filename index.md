@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-07
 
-Articles: 1100 | Concepts: 184 | FAQs: 17
+Articles: 1101 | Concepts: 184 | FAQs: 17
 
 ## Concepts
 
@@ -31,6 +31,7 @@ Articles: 1100 | Concepts: 184 | FAQs: 17
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System
 - [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
 - [[adarkwah-genai-unesco-policy-2026]] — Generative Artificial Intelligence Policy: A Qualitative UNESCO Framework Analysis
+- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional Structures, Digital Inequality, and AI Integration in Higher Education
 - [[adhd-video-segmentation-computing-education]] — Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education
 - [[administrator]] — Administrators
 - [[adult-learning]] — Adult Learners

@@ -1,8 +1,9 @@
 # Journal
 
-Last updated: 2026-09-07 | Total entries: 1284
+Last updated: 2026-09-07 | Total entries: 1285
 
 ## 2026-09-07
+- 📄 [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional Structures, Digital Inequality, and AI Integration in Higher Education
 - 📄 [[sun-llm-nursing-education-professional-identity-2026]] — When the Algorithm Enters the Classroom: A Critical Integrative Review of Large Language Models, Nursing Education Structural Gaps, and the Reconstitution of Professional Identity
 - 📄 [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and Explainable Learning Analytics for Privacy-Preserving Academic Risk Modeling Across Heterogeneous Educational Institutions
 
