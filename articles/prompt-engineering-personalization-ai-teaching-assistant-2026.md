@@ -1,7 +1,7 @@
 ---
 title: "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant"
 created: "2026-09-07T09:09:07-04:00"
-updated: "2026-09-07T09:09:07-04:00"
+updated: "2026-09-07T09:30:00-04:00"
 type: article
 tags: [intelligent-tutoring, personalized-learning, adaptive-learning, prompt-engineering, llm, rag]
 sources: ['raw/papers/2609.03402.md']
@@ -12,7 +12,7 @@ confidence: high
 
 ## From content adaptation to response-form adaptation
 
-The aspiration to tailor learning to individual needs is decades old, anchored by Bloom's 2 Sigma finding that one-to-one tutoring can produce ~two-standard-deviation gains. Earlier [[adaptive-learning|adaptive systems]] followed a diagnose–prescribe cycle that adapted *content* or *sequencing* through [[student-modeling|learner modeling]]. This work shifts personalization toward **response-form adaptation**: answers remain grounded in a shared retrieved knowledge base (via [[rag|retrieval-augmented generation]]), while their abstraction, structure, verbosity, and cognitive framing are modified through prompt conditioning.
+The aspiration to tailor learning to individual needs is decades old, anchored by Bloom's 2 Sigma finding that one-to-one tutoring can produce ~two-standard-deviation gains *[Editorial Note: this has been [refuted](https://www.educationnext.org/two-sigma-tutoring-separating-science-fiction-from-science-fact/)]*. Earlier [[adaptive-learning|adaptive systems]] followed a diagnose–prescribe cycle that adapted *content* or *sequencing* through [[student-modeling|learner modeling]]. This work shifts personalization toward **response-form adaptation**: answers remain grounded in a shared retrieved knowledge base (via [[rag|retrieval-augmented generation]]), while their abstraction, structure, verbosity, and cognitive framing are modified through prompt conditioning.
 
 The framework combines **learner-driven adaptability** (students explicitly select their preferences) with **system-driven adaptivity** (the system infers query cognitive demand). Learner preferences derive from the Felder-Silverman learning model and are treated as user-selected preferences rather than fixed psychometric classifications; the six dimensions control granularity, length, communication orientation, engagement style, and organizational structure. The combination produces 96 distinct learner profiles.
 
