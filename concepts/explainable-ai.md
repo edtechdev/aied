@@ -1,7 +1,7 @@
 ---
-title: Explainable AI in Education
+title: Explainable AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-09-07T10:15:00-04:00"
+updated: "2026-09-07T10:20:00-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, learning-analytics, automated-assessment, bias-mitigation, intelligent-tutoring, human-in-the-loop-ai, pedagogical-safety, metacognition, student-modeling]
 audience: [learners, researchers, designers, educators]
