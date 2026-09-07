@@ -1,8 +1,9 @@
 # Journal
 
-Last updated: 2026-09-07 | Total entries: 1290
+Last updated: 2026-09-07 | Total entries: 1291
 
 ## 2026-09-07
+- 📄 [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise
 - 📄 [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - 📄 [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant
 - 📄 [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and Explainable Learning Analytics for Privacy-Preserving Academic Risk Modeling Across Heterogeneous Educational Institutions
