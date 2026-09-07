@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-07T08:25:00-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback]
 category: [engagement, evaluation]
@@ -27,6 +27,7 @@ confidence: high
 - **Validation matters as much as prediction.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, and Carvalho (2025)]] show that predictive knowledge-state models (BKT, BKT-with-Forgetting, AFM) look accurate when fit retroactively to a full session history, yet under **time-based cross-validation** — predicting the next session from prior ones, how analytics are actually deployed — they overestimate learner performance, miss spacing/forgetting dynamics, and can mis-order practice conditions. The caution for analytics: retrospective fit can mask poor forward predictive validity on longitudinal data, so indicator and dashboard models should be validated walk-forward.
 - **[[curriculum-design|Curriculum]]-anchored predictive analytics:** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] estimate knowledge states within Outcome-Based Education by tracing course outcomes directly from LMS interaction and attainment data, using OBE affinity mappings (course–program outcome relations) to structure concept links and a memory-augmented network to model cross-outcome impact — reaching 89.81% AUC and beating DKT, DKVMN, EKT, and SimpleKT on live university engineering data, while staying only competitive (not superior) on general-purpose ASSISTments data.
 - **Interpretable progress prediction with an action window:** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] predict module-level student progress in large-scale online [[cs-education|programming]] courses from content-interaction log features, using glass-box decision trees that match black-box accuracy (85–91%) while flagging "No submission" dropout outcomes up to 7–8 days before module deadlines — an explicit, real-time window for [[teacher-role|intervention]] rather than a bare risk flag, and an exploratory typology of disengaged-at-risk, disengaged-but-successful, and engaged high-performer profiles.
+- **Federated, explainable risk modeling across institutions (2026).** [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al. (2026)]] extend risk modeling beyond single-institution prediction by training a multitask (performance + dropout) model across simulated institutions via federated learning, so raw student data never leaves each institution. Under controlled heterogeneity (label skew, class imbalance, temporal drift, structural missingness) the model preserves ranking accuracy (OULAD AUC 0.918) and structurally stable feature-importance rankings, yet probabilistic calibration drifts — decoupling ranking performance from probability reliability. For early-warning systems this is a caution that threshold-based interventions may need per-institution calibration, and an argument for evaluating analytics along discrimination, calibration, robustness, and explainability at once.
 - **Engagement analytics:** [[student-engagement|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
 - **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
 - **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
@@ -79,6 +80,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[simulating-students]]
 
 ## Connected Articles
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
