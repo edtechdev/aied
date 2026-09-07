@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-07T09:09:07-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [human-in-the-loop-ai, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
@@ -64,7 +64,9 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 
 ## Where HITL appears in the knowledge base's research
 
-- **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[cong-confidence-asag-2026]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and essay scoring ([[psyscore-essay-scoring-zpd-feedback]]). [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] instantiate this in high-stakes, handwritten general-chemistry grading: because a multimodal LLM's reliability varies by response format (textual and chemical-reaction answers are reliable while drawing and graphing score worse than random) and false positives go undetected by students, they convert raw AI scores into a selective accept/deferral policy using confidence filters — partial-credit thresholds, an [[item-response-theory|IRT]]-based risk threshold, and problem-type exclusion — deferring uncertain and graphical items to humans, an approach the authors tie to [[regulation|regulatory]] frameworks that designate AI in educational assessment as high-risk and mandate documented human oversight.
+- **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[cong-confidence-asag-2026]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and essay scoring ([[psyscore-essay-scoring-zpd-feedback]]). [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] instantiate this in high-stakes, handwritten general-[[chemistry-education|chemistry]] grading: because a [[multimodal]] LLM's reliability varies by response format (textual and chemical-reaction answers are reliable while drawing and graphing score worse than random) and false positives go undetected by students, they convert raw AI scores into a selective accept/deferral policy using confidence filters — partial-credit thresholds, an [[item-response-theory|IRT]]-based risk threshold, and problem-type exclusion — deferring uncertain and graphical items to humans, an approach the authors tie to [[regulation|regulatory]] frameworks that designate AI in educational assessment as high-risk and mandate documented human oversight.
+- **Feedback systems:**mandate documented human oversight.
+- **Operational HITL scoring in a national assessment (2026):** [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026|Curi et al. (2026)]] instantiate HITL at institutional scale in Uruguay's Acredita EB exam. Because the LLM scorer's errors are systematically conservative (under-grading), the workflow uses a decision-point logic that routes human review to exactly the candidates whose pass/fail outcome depends on the Writing section — AI-marked passing responses are accepted with confidence, while AI-marked failures (15.3–16.5% of cases) are verified by expert raters, cutting full-scoring workload by ≥50% with a residual AI-error pass risk of only 0.2–0.6%. This is HITL as a resource-allocation strategy: humans adjudicate precisely where AI's conservative bias would otherwise alter high-stakes outcomes.
 - **Feedback systems:** human-in-the-loop feedback design appears in [[becerra-aicofe-feedback-2026|collaborative feedback systems]] and [[cong-confidence-asag-2026|confidence-aware short-answer grading]].
 - **Classroom collaboration support.** [[breideband-community-builder-cobi-2026|CoBi]] keeps the teacher as the reviewing human in an AI system that detects uplifting small-group discourse: teachers explicitly favored pre/post-action review over live real-time display that would put them "on the spot," and the system's classroom-level (rather than individual) aggregated feedback is precisely what lets it navigate the tension between [[privacy]], surveillance, and student [[agency]].
 - **Question and content generation:** beyond CODE-GEN, HITL guides question generation for assessment and [[scaffolding]] ([[code-gen]], [[llm-difficulty-calibration-programming-exams-2026]]).
@@ -99,6 +101,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[agentic-ai]]
 - [[cognitive-offloading]]
 ## Connected Articles
+- [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Relational epistemic agency and criteria for productive reliance vs. harmful dependence (Du & Yuan 2026)
 - [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[ai-communities-of-inquiry-2026]]

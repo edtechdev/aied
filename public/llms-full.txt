@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 184 concepts, 1101 articles, and 17 FAQs.
+> Complete text of 184 concepts, 1106 articles, and 17 FAQs.
 
 # Concepts
 
@@ -1126,6 +1126,9 @@ The arrival of generative AI has not created the need for academic integrity —
 - **Assessment redesign:** [[authentic-assessment]], [[beyond-detection-authentic-assessment-ai-2025|beyond-detection approaches]], and [[ai-assessment-scale-reform|the AI Assessment Scale]] shift the focus from catching AI use to designing assessments where AI use is either irrelevant, transparent, or required to demonstrate a specific capability.
 - **Structural vulnerability of grading:** [[biology-grade-vulnerability-genai-2026|Chan et al.]] provide a concrete case study of how current grading is structurally exposed to AI-mediated dishonesty. In a [[biology-education|biology]] department, instructors perceived only in-person proctored exams as minimally vulnerable; outside-of-class assignments were seen as highly vulnerable, leaving about a third of a student's grade highly vulnerable and 80% at least somewhat vulnerable. This frames the integrity problem as partly a *grading-design* problem, motivating rebalancing toward proctored or in-class assessment and [[authentic-assessment|authentic assessment]] designs that are harder to outsource.
 - **Validity as the organizing frame:** [[assessment-validity]] reframes integrity as an evidential problem. [[authentic-products-authenticated-processes-2026|Authentic assessment research]] introduces **construct substitution** — an AI-generated product is attributed to the student, so the assessment infers the tool's capability rather than the student's. The evidential question survives any AI policy: whether use is prohibited, permitted, or required, the assessment must still generate evidence warranting the inference being drawn.
+- **Policy development:**the assessment must still generate evidence warranting the inference being drawn.
+- **Variation-at-scale as a no-surveillance integrity mechanism:** [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA (Lee 2026)]] [[benchmark]] the premise behind AI-Integrated Authentic Assessment (AIAA) — replacing surveillance-based proctoring with per-student task variation so copying is structurally useless. The integrity guarantee is conditional on LLMs generating variants that are surface-distinct and [[assessment-validity|construct-equivalent]]; VARIA's 600-variant pilot finds frontier models satisfy this only at the margin (joint score 0.81–0.88) while non-frontier models collapse (0.50–0.55), so "variation-at-scale cannot be solved by [[prompt-engineering|prompting]] alone." This gives the detection-vs-redesign debate an empirical, falsifiable check: the no-surveillance promise of authentic, task-varied assessment now depends on a measured (and still narrow) generation capability rather than an assumed one.
+- **Authenticating student reflection against GenAI:** [[5p-reflection-model-genai-2026|Kadel et al. (2026)]] argue that traditional reflection models can no longer authenticate student reflection once GenAI can author reflective prose, and embed integrity directly inside a reflection model — the 5P framework's Pitfalls stage explicitly handles plagiarism, hallucination, and over-reliance, while its Process and Product stages require documenting prompts and validating outputs so that learners' own reasoning is distinguishable from AI-generated contributions.
 - **Policy development:** [[genai-policies-higher-ed-computing|Institutional AI policies]] and [[educational-policy-ai]] research examine how universities develop and communicate integrity expectations — and why abstract policy statements so often fail.
 - **Integrity framing is giving way to task-based regulation:** [[chirikov-regulate-ai-syllabi-2026|Chirikov's (2026)]] longitudinal study of 31,000+ course syllabi shows instructors' AI policies shifting away from a purely integrity-based frame: academic-integrity mentions in syllabi fell from 63% (Spring 2023) to 49% (Fall 2025), while references to AI's impact on learning rose from 1% to 29%. Instructors increasingly regulate AI **by task type** — restricting it for drafting/reasoning (where AI would displace learning) and permitting it for editing/proofreading and study support — rather than applying a blanket integrity prohibition. This reframes integrity policy as a task-level design decision rather than a binary rule.
 
@@ -1203,6 +1206,8 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[k-12]]
 
 ## Connected Articles
+- [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Construct-equivalent assessment variant generation (Lee 2026)
 - [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Differentiating productive reliance from harmful dependence (Du & Yuan 2026)
@@ -5242,6 +5247,12 @@ AI tools can enter this loop at different points:
 
 [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] reframes effective [[generative-ai|GenAI]] use in [[writing-education|academic writing]] as **strategic regulation** — an enacted SRL practice of verifying, revising, selectively adopting, or rejecting AI output. In a [[mixed-methods-research|mixed-methods]] study of 107 students, higher AI anxiety was positively associated with verification and revision (β=.24), while evaluative capacity predicted active revision and selective integration (β=.46). Students clustered into four regulatory types — Uncritical Reliance (18.7%), Selective Integration (34.6%), Evaluative Transformation (31.8%), and Strategic Rejection (14.9%) — showing that [[ai-literacy|AI literacy]] in [[higher-ed|higher education]] functions less as acceptance than as regulatory competence grounded in evaluative judgment and [[ethics|ethical]] responsibility. This positions SRL as the core mechanism distinguishing critical from uncritical AI use.
 
+## Relationship to Tutoring-Specific Designcritical from uncritical AI use.
+
+### GenAI-aware reflection as SRL
+
+[[5p-reflection-model-genai-2026|The 5P Reflection Model (Kadel et al. 2026)]] re-centres structured reflection in the GenAI era as an enacted SRL practice. Because learners increasingly co-create meaning with AI, traditional reflection models struggle to authenticate student reflection, so the 5P model (Purpose, Process, Product, Pitfalls, Plan) fuses forethought-driven goal setting, reflection-in-action (documenting prompts and iterations), reflection-on-action (validating the probabilistic output against external sources), an explicit pitfalls stage for hallucination, [[academic-integrity|plagiarism]], and [[cognitive-offloading|over-reliance]], and a forward-looking plan — embedding emotional monitoring throughout. Its "process over product" philosophy treats structured documentation of the [[human-ai-collaboration|human-AI interaction]] as the regulatory demand that preserves authenticity, [[agency|agency]], and [[metacognition|metacognitive]] depth, positioning GenAI-aware reflection as a scaffold for self-regulation rather than a substitute for it.
+
 ## Relationship to Tutoring-Specific Design
 
 [[stanford-evidence-base-ai-k12-2026|Tutoring-specific AI]] aligns with SRL-first design: it provides graduated scaffolds that preserve [[agency|learner agency]] and require strategic self-regulation. General-purpose AI often removes the regulatory demands entirely.([[stanford-evidence-base-ai-k12-2026]])
@@ -5255,7 +5266,7 @@ For example:
 - **Mixed evidence and the miscalibration gap.** A rapid review of PreK-12 GenAI research finds metacognitive gains during supported tasks often do not persist when support is removed, and that GenAI can increase perceived learning even when durable learning is absent (the miscalibration gap — students preferred GenAI over note-taking despite weaker retention). Students need explicit, stage-appropriate training to decide what to delegate and when independent effort matters.([[young-people-learning-generative-ai-rapid-review-2026]])
 - **Agentic initiative vs. self-regulation tension.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] note that as agents automate more of a task, the less self-regulated cognitive work the learner performs — so designs should give learners control over agent initiation (dynamic, fading scaffolding) to preserve self-regulatory capacity rather than outsourcing it.
 - **Self-regulation shapes AI coding-assistant use.** [[computational-thinking-aica-2026|A study of AI coding assistants]] found high-[[computational-thinking]] students showed stronger self-regulatory coherence (planning-execution-self-reflection) and used AICA for code understanding, while low-CT students used it for immediate answer retrieval.
-- **SRL co-occurs with lower digital distraction in online learning.** [[decreasing-digital-distraction-college-online-learning-2026|Shi et al. (2026)]], using unsupervised data mining on 530 college students, found that SRL strategies — goal setting, environment structuring, and time management — co-occurred most consistently with lower digital distraction in [[higher-ed|online learning]], alongside learner-instructor and learner-content engagement. The finding positions concrete SRL training as a high-leverage intervention for focused online study.
+- **SRL co-occurs with lower digital distraction in [[online-teaching-and-learning|online learning]].** [[decreasing-digital-distraction-college-online-learning-2026|Shi et al. (2026)]], using unsupervised data mining on 530 college students, found that SRL strategies — goal setting, environment structuring, and time management — co-occurred most consistently with lower digital distraction in [[higher-ed|online learning]], alongside learner-instructor and learner-content engagement. The finding positions concrete SRL training as a high-leverage intervention for focused online study.
 
 ## LLM-Mediated SRL: Scaffold, Shortcut, or Partner?
 
@@ -5302,6 +5313,7 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[llm]] — the underlying model of AI tools
 
 ## Connected Articles
+- [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
@@ -8850,6 +8862,9 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 - **Validate mastery models on future sessions, not retrospective fit.** The mastery estimates an ITS uses to select problems may not generalize across time: [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, and Carvalho (2025)]] found that BKT, BKT-with-Forgetting, and AFM reproduce learning trends only when fit retroactively to all sessions of a successive-relearning dataset — but under **time-based cross-validation** (training on one session to predict the next, the actual tutoring setting) they overestimate performance by 47–58%, fail to capture the spacing effect, and can mis-order practice conditions. Tutors relying on such tracers should be evaluated walk-forward and consider retention interval and between-session forgetting rather than assuming mastery persists.
 - **Diagnosing mistakes on unstructured, handwritten-solution problems.** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Arthur (Yin et al. 2026)]] extends ITS-style feedback to Calculated Formula Questions in an Engineering Economics course, a domain where pen-and-paper solutions lack the structured digital data that previous AI tutoring work relied on. Rather than a general-purpose LLM, each question gets its own dedicated [[machine-learning|XGBoost]] "solution diagnosis backbone" — trained on curated, random-masking-augmented graded submissions to predict instructor rubric mistake labels from students' submitted numbers alone (precision 0.81, recall 0.79) — paired with a dialogue-based interaction that iteratively requests intermediate answers only when diagnosis confidence drops below a 0.8 threshold. It is a concrete case of the knowledge base's principle that a knowledge-grounded classifier can handle solution diagnosis even where full written solutions are unavailable.
 
+### Key ITS conceptseven where full written solutions are unavailable.
+- **Prompt-based micro-personalization of an LLM tutor (2026):** [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] personalize the Jill Watson [[llm|LLM]]/[[rag|RAG]] [[teacher-role|teaching]] assistant at the level of individual questions entirely through prompt engineering — conditioning responses on six learner dimensions ([[metacognition|metacognitive]] self-assessment, abstraction, verbosity, perception, processing, understanding) and classifying each query's cognitive demand with a [[cognitive-diagnosis|Bloom's Taxonomy]] classifier, yielding 96 learner profiles with no model retraining. NLP analysis of 2,910 responses and a human study found measurable, perceptible differences in response abstraction, verbosity, complexity, and processing style aligned with intended effects. It demonstrates response-form (rather than content) adaptation as a scalable, modular route to [[adaptive-learning|adaptive behavior]] in a deployed tutor.
+
 ### Key ITS concepts
 
 - **[[knowledge-tracing]]** — modeling what a student knows over time (Bayesian, deep learning, IRT-based)
@@ -8934,6 +8949,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[k-12]]
 
 ## Connected Articles
+- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
@@ -9164,6 +9180,10 @@ Personalization and [[assessment]] are tightly coupled in AI-driven learning. Ad
 
 Reinforcement learning is a distinct mechanism for personalization, and [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] map its empirical track record: their PRISMA review of 89 RL-in-education studies finds RL personalization concentrated in [[higher-ed]] and [[math-education]], with adaptation implemented mainly as content scheduling (n = 53) or guidance-related personalization such as hints and feedback (n = 36). They report that RL policies beat non-adaptive baselines most often on guidance-related adaptation and on [[affective-computing|affective]] variables (63% of tested studies), and that learning gain — especially normalized learning gain — was the most effective reward source — practical guidance for designing reward signals that personalize toward genuine learning rather than [[student-engagement|engagement]].
 
+## Terminological ambiguity### Prompt-conditioned micro-personalization
+
+[[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] show that the gap between system and perceived personalization can be addressed at the response level. Their framework for the Jill Watson [[llm|LLM]]/[[rag|RAG]] tutor combines learner-selected preferences (abstraction, verbosity, perception, processing, understanding) with system-inferred cognitive demand ([[cognitive-diagnosis|Bloom's Taxonomy]]) to produce 96 micro-profiles adapted at each interaction via [[prompt-engineering|structured prompt conditioning]] — no retraining, no [[discipline-specific-aied|domain-specific]] authoring. This is a hybrid of [[adaptive-learning|adaptability]] (learner-driven preference selection) and adaptivity (system-driven cognitive assessment), showing that personalization of *how* content is presented can be both scalable and perceptible to learners.
+
 ## Terminological ambiguity
 
 A recurring problem is that "personalized learning" is a broad, loosely defined umbrella term. Systematic reviews ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) find that [[adaptive-learning|adaptive learning]], individualized instruction, customized learning, and personalized learning are used interchangeably, with no universally accepted definition — a source of conceptual ambiguity that complicates research synthesis and evidence-based practice. The field increasingly calls for a unified framework and definition so that "personalized" denotes a precise, evidence-backed claim rather than a vague label (a point reinforced by the knowledge base's [[limitations-in-aied-research|critique of weak construct use]]).
@@ -9186,6 +9206,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 
 ## Connected Articles
+- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[learning-context-framework-context-aware-ai-education-2026]]
@@ -9543,7 +9564,9 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 
 ## Where HITL appears in the knowledge base's research
 
-- **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[cong-confidence-asag-2026]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and essay scoring ([[psyscore-essay-scoring-zpd-feedback]]). [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] instantiate this in high-stakes, handwritten general-chemistry grading: because a multimodal LLM's reliability varies by response format (textual and chemical-reaction answers are reliable while drawing and graphing score worse than random) and false positives go undetected by students, they convert raw AI scores into a selective accept/deferral policy using confidence filters — partial-credit thresholds, an [[item-response-theory|IRT]]-based risk threshold, and problem-type exclusion — deferring uncertain and graphical items to humans, an approach the authors tie to [[regulation|regulatory]] frameworks that designate AI in educational assessment as high-risk and mandate documented human oversight.
+- **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[cong-confidence-asag-2026]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and essay scoring ([[psyscore-essay-scoring-zpd-feedback]]). [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] instantiate this in high-stakes, handwritten general-[[chemistry-education|chemistry]] grading: because a [[multimodal]] LLM's reliability varies by response format (textual and chemical-reaction answers are reliable while drawing and graphing score worse than random) and false positives go undetected by students, they convert raw AI scores into a selective accept/deferral policy using confidence filters — partial-credit thresholds, an [[item-response-theory|IRT]]-based risk threshold, and problem-type exclusion — deferring uncertain and graphical items to humans, an approach the authors tie to [[regulation|regulatory]] frameworks that designate AI in educational assessment as high-risk and mandate documented human oversight.
+- **Feedback systems:**mandate documented human oversight.
+- **Operational HITL scoring in a national assessment (2026):** [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026|Curi et al. (2026)]] instantiate HITL at institutional scale in Uruguay's Acredita EB exam. Because the LLM scorer's errors are systematically conservative (under-grading), the workflow uses a decision-point logic that routes human review to exactly the candidates whose pass/fail outcome depends on the Writing section — AI-marked passing responses are accepted with confidence, while AI-marked failures (15.3–16.5% of cases) are verified by expert raters, cutting full-scoring workload by ≥50% with a residual AI-error pass risk of only 0.2–0.6%. This is HITL as a resource-allocation strategy: humans adjudicate precisely where AI's conservative bias would otherwise alter high-stakes outcomes.
 - **Feedback systems:** human-in-the-loop feedback design appears in [[becerra-aicofe-feedback-2026|collaborative feedback systems]] and [[cong-confidence-asag-2026|confidence-aware short-answer grading]].
 - **Classroom collaboration support.** [[breideband-community-builder-cobi-2026|CoBi]] keeps the teacher as the reviewing human in an AI system that detects uplifting small-group discourse: teachers explicitly favored pre/post-action review over live real-time display that would put them "on the spot," and the system's classroom-level (rather than individual) aggregated feedback is precisely what lets it navigate the tension between [[privacy]], surveillance, and student [[agency]].
 - **Question and content generation:** beyond CODE-GEN, HITL guides question generation for assessment and [[scaffolding]] ([[code-gen]], [[llm-difficulty-calibration-programming-exams-2026]]).
@@ -9578,6 +9601,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[agentic-ai]]
 - [[cognitive-offloading]]
 ## Connected Articles
+- [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Relational epistemic agency and criteria for productive reliance vs. harmful dependence (Du & Yuan 2026)
 - [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[ai-communities-of-inquiry-2026]]
@@ -12004,9 +12028,11 @@ The effectiveness of a feedback loop depends on [[ai-feedback-quality|feedback q
 
 AI changes feedback in three consequential directions, each raising the stakes of the other facets:
 
-- **Volume and immediacy.** AI can generate feedback instantly and at scale, dramatically increasing how much feedback students receive. [[genai-feedback-design-multisite-experiment|Multi-site GenAI feedback studies]] and [[ai-generated-feedback-higher-ed|AI feedback in higher education]] document AI feedback experienced as comparable to teacher feedback in acceptability and supportiveness. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) corroborates this scale benefit — LLMs can accelerate grading and deliver rapid, personalized feedback at scale, especially in large or [[higher-ed|higher-education]] cohorts — while cautioning that such feedback is sometimes too generic or misaligned with the assigned grade, and that reliability slips on longer, multilingual, or nuanced tasks ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
+- **Volume and immediacy.** AI can generate feedback instantly and at scale, dramatically increasing how much feedback students receive. [[genai-feedback-design-multisite-experiment|Multi-site GenAI feedback studies]] and [[ai-generated-feedback-higher-ed|AI feedback in higher education]] document AI feedback experienced as comparable to teacher feedback in acceptability and supportiveness. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) corroborates this scale benefit — LLMs can accelerate grading and deliver rapid, personalized feedback at scale, especially in large or [[higher-ed|higher-education]] cohorts — while cautioning that such feedback is sometimes too generic or misaligned with the assigned grade, and that reliability slips on longer, [[multilingual-learning|multilingual]], or nuanced tasks ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
 - **Evaluation demands on the learner.** Because AI feedback can be inaccurate or hallucinated, students must judge whether to trust and act on it. This is where [[feedback-literacy]] and [[trust-calibration]] become decisive: [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show that only feedback-literate students convert AI feedback into [[self-regulated-learning]] gains, while [[llm-fallacy-misattribution|the LLM fallacy]] captures how students may over-credit AI feedback to their own competence.
 - **Role-aware feedback.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] showed that [[prompt-engineering|prompting]] the same LLM to evaluate the same student artifact under different roles — instructor, peer reviewer, grant reviewer — produced qualitatively distinct feedback: instructors were encouraging and process-oriented, peers supportive and conversational, grant reviewers formal and outcomes-oriented. These differences were epistemic, not merely stylistic, foregrounding different aspects of design practice — evidence that role-aware prompting can generate role-sensitive evaluative feedback rather than a single generic response.
+- **Feedback literacy as a training goal.**single generic response.
+- **Feedback utility vs. evaluative authority.** [[who-should-grade-my-work-ai-writing-assessment-2026|AlGhamdi (2026)]] shows students can simultaneously accept AI-generated feedback as useful and reject AI as the appropriate grader — separating *feedback utility* (the informational value of surface-level feedback) from *evaluative authority* (who may decide the grade). In a transparent post-assessment design, Saudi computing students treated these as analytically distinct judgements, valuing ChatGPT's clarity for revision while reserving grading authority for the human instructor and articulating the dialogical, institutionally-weighted reasons why. The finding extends [[feedback-literacy]] beyond judging feedback quality to reasoning about evaluative authority itself, and suggests transparency about AI involvement can make feedback an object of critical reflection rather than passive acceptance.
 - **Feedback literacy as a training goal.** Rather than only providing feedback, AI tools are increasingly designed to *teach* students to use feedback — [[tubino-adachi-ai-automated-feedback-literacy|reframing automated feedback tools as literacy-building instruments]], [[zhan-boud-dawson-genai-feedback-engagement|framing GenAI as an enabler of feedback engagement]], and [[richmond-nicholls-genai-psych-feedback-ai-literacies|using GenAI critique tasks to build psychological, feedback, and AI literacies together]].
 
 ### What makes feedback effective: calibration evidence
@@ -12019,12 +12045,12 @@ The knowledge base's feedback research spans the full range of assessment contex
 
 - **Formative feedback** is the canonical site of feedback-for-learning — [[formative-assessment|formative assessment]] feeds [[self-regulated-learning|self-regulated learning]] through feedback that arrives while learning is still in progress ([[automated-formative-assessments-a-level-sciences|automated formative assessments]], [[ai-feedback-enactment-workflow-2026|feedback enactment]]).
 - **Summative feedback** is the feedback attached to [[summative-assessment|summative assessment]] — end-of-unit tests, oral exams, and proctored/closed-book examinations. In the AI era, the summative setting is where AI resistance matters most (see [[summative-assessment]]): feedback on a proctored oral exam or closed-book assessment tests genuine learning, whereas feedback on AI-assisted homework can be inflated. [[fenton-oral-exams-ai-authentic-assessment-2025|Oral assessments]] reframe the feedback moment as a live, interactive dialogue — feedback becomes immediate, conversational, and inseparable from the assessment itself, which is precisely why they resist AI substitution.
-- **Peer feedback** adds a social layer — [[peer-review|peer feedback]] develops feedback literacy and is increasingly AI-augmented ([[becerra-aicofe-feedback-2026|AI peer feedback]], [[irwin-muller-efl-peer-feedback-literacy|GenAI in EFL peer feedback]]). Yet peer feedback is only as good as its actual delivery: in a semester-long field experiment, under two-thirds of students assigned peer feedback received no textual feedback at all, and much of what was delivered was non-targeted praise — so when individual GPT-4 feedback replaced unreliable peers, students sustained the highest participation and posted the largest content learning gains ([[gpt4-feedback-student-activation-2026|Geschwind et al., 2026]]), evidence that the AI's edge is a *reliability* advantage rather than inherent superiority.
-- **Automated feedback** scales delivery — [[automated-assessment|automated scoring and feedback]] from essay scoring to short-answer grading. [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Arthur (Yin et al. 2026)]] extends this to unstructured quantitative problems: a per-question [[machine-learning|XGBoost]] diagnosis backbone infers rubric-labelled mistakes from students' submitted numerical answers to Engineering Economics Calculated Formula Questions and turns them into natural-language feedback, while a dialogue-based scheme requests intermediate answers only when confidence is low — balancing feedback accuracy against the collection burden on students.
+- **Peer feedback** adds a social layer — [[peer-review|peer feedback]] develops feedback literacy and is increasingly AI-augmented ([[becerra-aicofe-feedback-2026|AI peer feedback]], [[irwin-muller-efl-peer-feedback-literacy|GenAI in EFL peer feedback]]). Yet peer feedback is only as good as its actual delivery: in a semester-long field experiment, under two-thirds of students assigned peer feedback received no textual feedback at all, and much of what was delivered was non-targeted praise — so when individual GPT-4 feedback replaced unreliable peers, students sustained the highest participation and posted the largest content [[learning-gains|learning gains]] ([[gpt4-feedback-student-activation-2026|Geschwind et al., 2026]]), evidence that the AI's edge is a *reliability* advantage rather than inherent superiority.
+- **Automated feedback** scales delivery — [[automated-assessment|automated scoring and feedback]] from essay scoring to short-answer grading. [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Arthur (Yin et al. 2026)]] extends this to unstructured [[quantitative-research|quantitative]] problems: a per-question [[machine-learning|XGBoost]] diagnosis backbone infers rubric-labelled mistakes from students' submitted numerical answers to Engineering Economics Calculated Formula Questions and turns them into natural-language feedback, while a dialogue-based scheme requests intermediate answers only when confidence is low — balancing feedback accuracy against the collection burden on students.
 
 A key cross-context insight is that **the reliability of feedback depends on the integrity of the assessment it is attached to**: feedback is only as trustworthy as the measure it responds to. In the AI era this pushes educators toward [[authentic-assessment|authentic]] and AI-resistant [[summative-assessment|summative formats]] where the feedback a student receives reflects genuine learning rather than AI-assisted output.
 
-The "assessment for learning" paradigm reframes feedback as an overarching philosophy rather than a component. [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] synthesize the wider higher-education literature to frame [[formative-assessment|formative]], ongoing, and individualized feedback as central to that philosophy, balancing formative with summative purposes and foregrounding student agency, self-regulation, and [[metacognition|metacognitive]] skill. They note, however, that in management education feedback-rich practices remain unevenly adopted: self- and peer-assessment (a site of peer feedback) dominate the literature, while reassessment — which uses feedback-driven second chances to improve learning — is virtually absent.
+The "assessment for learning" paradigm reframes feedback as an overarching philosophy rather than a component. [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] synthesize the wider higher-education literature to frame [[formative-assessment|formative]], ongoing, and individualized feedback as central to that philosophy, balancing formative with summative purposes and foregrounding [[agency|student agency]], self-[[regulation]], and [[metacognition|metacognitive]] skill. They note, however, that in [[business-education|management education]] feedback-rich practices remain unevenly adopted: self- and peer-assessment (a site of peer feedback) dominate the literature, while reassessment — which uses feedback-driven second chances to improve learning — is virtually absent.
 
 ### The provision-uptake pairing
 
@@ -12052,6 +12078,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[writing-education]]
 
 ## Connected Articles
+- [[who-should-grade-my-work-ai-writing-assessment-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
@@ -12773,7 +12800,7 @@ Peer review connects to [[writing-education]] and [[formative-assessment]] as a 
 
 Automated grading is one of the most mature and widely-deployed [[ai-education|AI in education]] applications — AI systems that evaluate student work, from multiple-choice scoring to essay assessment and code review. Its grading modalities include:
 
-- **Short answer grading:** [[cong-confidence-asag-2026|confidence-aware ASAG]] evaluate free-text responses, with confidence calibration critical — systems must know when grading is reliable. A scoping review of short-answer auto-marking in [[science-education|science]] (2017–early 2024) documents the field's history: [[auto-marking-short-answer-science-2026|Morley et al.]] found BERT-family models (base, RoBERTa, DistilBERT, SciBERT) dominated — used in 20 of 21 studies, peaking in 2021 — before GPT-based approaches were adopted via [[prompt-engineering]] rather than fine-tuning from roughly 2022. Models augmented with domain data (textbooks, [[feedback|rubrics]], further pre-training) consistently outperformed those without, yet few could justify marks in human-comprehensible terms and [[bias-mitigation|bias]] across demographic and linguistic groups was rarely examined — leading the authors to argue auto-markers should *support* rather than replace [[teacher-role|human examiners]]. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical grading and feedback studies (2023–2025) generalizes this caution across the field: LLMs match human raters on closed-ended tasks and short-answer questions but cannot fully replace human judgment on complex, open-ended, or subjective work requiring in-depth analysis or creativity, and the highest grading effectiveness is achieved in hybrid systems that pair AI-driven grading with teacher oversight and verification ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
+- **Short answer grading:** [[cong-confidence-asag-2026|confidence-aware ASAG]] evaluate free-text responses, with confidence calibration critical — systems must know when grading is reliable. A scoping review of short-answer auto-marking in [[science-education|science]] (2017–early 2024) documents the field's history: [[auto-marking-short-answer-science-2026|Morley et al.]] found BERT-family models (base, RoBERTa, DistilBERT, SciBERT) dominated — used in 20 of 21 studies, peaking in 2021 — before GPT-based approaches were adopted via [[prompt-engineering]] rather than fine-tuning from roughly 2022. Models augmented with domain data (textbooks, [[feedback|rubrics]], further pre-training) consistently outperformed those without, yet few could justify marks in human-comprehensible terms and [[bias-mitigation|bias]] across demographic and linguistic groups was rarely examined — leading the authors to argue auto-markers should *support* rather than replace [[teacher-role|human examiners]]. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical grading and feedback studies (2023–2025) generalizes this caution across the field: LLMs match human raters on closed-ended tasks and short-answer questions but cannot fully replace human judgment on complex, open-ended, or subjective work requiring in-depth analysis or [[creativity]], and the highest grading effectiveness is achieved in hybrid systems that pair AI-driven grading with teacher oversight and verification ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
 - **Essay scoring:** [[automated-essay-scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] use [[prompt-engineering|prompting strategies]] to approach human-level reliability. [[aiawe-automated-writing-evaluation|AIAWE]] extends automated evaluation to broader writing assessment.
 - **Code review:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]] and [[code-review-genai-cs1|CS1 code review]] demonstrate automated assessment in [[cs-education|computing education]].
 - **Formative integration:** [[automated-formative-assessments-a-level-sciences|A-level science automation]] and [[cotal-formative-assessment-scoring-2026|CoTAL]] show how automated grading feeds into [[formative-assessment]] cycles.
@@ -12783,6 +12810,8 @@ Automated grading is one of the most mature and widely-deployed [[ai-education|A
 
 - **Rubric engineering for open-ended scoring in medical education:** [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] asked whether GPT-4 could reliably score open-ended questions on pre-clerkship [[medical-education|medical]] exams. After three iterations of human-driven rubric refinement at two US schools, inter-rater reliability with faculty reached substantial-to-almost-perfect agreement for three of four questions using analytic and holistic rubrics (weighted kappa up to 0.94), while the holistic-rubric item stalled at moderate (κw = 0.54). Error-pattern analysis showed discrepancies were traceable to both raters — GPT-4 over-scored when students offered multiple answers or used rubric-absent vocabulary, whereas faculty were often "overly generous" graders — leading the authors to recommend keeping [[human-in-the-loop-ai|humans in the loop]] (e.g., faculty scoring a subset to confirm accuracy). Because roughly 82% of US medical schools grade pre-clerkship work pass/fail, exact AI score agreement is often unnecessary for operational use.
 
+### Confidence-aware assessmentoften unnecessary for operational use.
+- **HITL scoring for a large-scale national writing assessment (2026):** [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026|Curi et al. (2026)]] scale prompt-based [[llm|LLM]] scoring to a real high-stakes Spanish writing exam (~5,000–6,000 responses/year), achieving 60–80% item accuracy and 90%+ output consistency across a 15-item analytic rubric, with a deterministic NLP checker replacing the LLM on the spelling item (100% consistency). Its distinctive contribution is decision-oriented validation over model-centric metrics: the AI's systematic under-grading bias, converted via [[item-response-theory|IRT]]-and-Bookmark into proficiency levels, produces pass/fail discrepancies in 15.3–16.5% of cases — all of which the [[human-in-the-loop-ai|human-in-the-loop]] workflow routes to expert review, cutting responses needing full human scoring by at least 50% while preserving decision quality. This grounds hybrid grading in operational assessment rather than proof-of-concept datasets.
 ### Confidence-aware assessment
 
 A central design goal within automated assessment is **confidence awareness**: AI assessment systems that report calibrated uncertainty alongside their scores, rather than issuing a single unqualified prediction. A confidence-aware grader not only produces a grade or classification but also signals how certain it is, so that low-confidence cases can be flagged for human review and users can calibrate their [[trust]] in the system. This is central to responsible automated assessment and connects closely to [[psychometrically-aware-ai]] and [[trust-calibration]].
@@ -12848,6 +12877,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
@@ -13087,6 +13117,9 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - **Consequential validity:** Do AI-mediated assessments have fair consequences? [[ai-scoring-language-bias-physics|Language bias studies]] show that AI scoring can disadvantage non-native speakers.
 - **Agentic completion removes the human-production assumption:** [[ai-agents-complete-lms-assessment-validity-2026|Hadjisolomou & El-Haddad (2026)]] extend the validity analysis from generative *assistance* to agentic *completion*: autonomous [[agentic-ai|AI agents]] can now log into an LMS, read materials, and complete unproctored asynchronous work end-to-end (demonstrated on a live course — a quiz scored 10/10 in under 5 minutes, and a fabricated-but-credible discussion-board reflection). Placing a "human-production assumption" at the base of Kane's argument-based inference chain, they show agent completion silently removes the backing for the *scoring* inference on which generalization, extrapolation, and decision inferences all rest — so every unproctored asynchronous score, including honestly earned ones, loses its interpretive support because authorship is unverifiable. Their decisive move is classifying this as a **validity failure rather than an integrity one**: an institution can punish misconduct and still lack grounds for the scores it reports. Detection is structurally insufficient (classifiers unreliable and biased; LMS monitoring sees the same clicks a student would), so the remedy is assessment redesign for verified human presence (a short oral component, process-visible drafts, class-session-specific references), with an equity-preserving menu of options rather than a proctoring mandate.
 - **Construct-irrelevant variance in human grading of [[generative-ai|GenAI]]-assisted work:** [[luo-dawson-value-judgements-grading-2026|Luo & Dawson (2026)]] provide a direct empirical demonstration that human grading of GenAI-assisted work is shot through with construct-irrelevant variance. In scenario-based interviews with 33 university teachers, grading decisions were driven by person-oriented (student honesty, diligence), capability-oriented (independence from AI, GenAI skill, disciplinary mastery), relation-oriented (trust built with students), and justice-oriented (fairness, beneficence) values — all of which can vary grades on factors unrelated to the outcomes being assessed. Marking down GenAI-assisted work is justified, they argue, *if and only if* the AI use prevented students from demonstrating the assessed outcomes; otherwise value-driven grading threatens validity. The study grounds the validity framing in real teacher practice and calls for "two-way transparency" — teachers clarifying how GenAI use will affect grades, not just students declaring use.
+- **AI-driven grade inflation as a validity threat:**not just students declaring use.
+- **Variation-at-scale demands construct-equivalent variant generation:** [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA (Lee 2026)]] subjects the "variation-at-scale" premise of AI-Integrated Authentic Assessment (AIAA) — replacing surveillance [[academic-integrity|proctoring]] with per-student task variation — to an empirical, falsifiable check. Because each examinee receives a unique-but-equivalent performance task, the integrity guarantee is conditional on LLMs generating variants that are simultaneously surface-distinct, [[authentic-assessment|construct-equivalent]], rubric-applicable, and difficulty-matched. Benchmarking three frontier model families across four prompting strategies on 600 variants, VARIA finds frontier generators satisfy the joint integrity criteria only at the margin (joint score 0.81–0.88) while non-frontier references collapse (0.50–0.55), and no single prompting strategy dominates all four properties — so "variation-at-scale cannot be solved by prompting alone" if the diversity threshold is set aggressively, and institutions must validate their specific model-prompt pair.
+- **Under-grading bias in HITL AI scoring is a validity feature, not a bug:** [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026|Curi et al. (2026)]] show that in a large-scale national writing assessment the systematic conservative (under-grading) bias of an LLM scorer, while problematic as a final decision, is precisely what enables safe delegation: AI-marked "passing" responses can be accepted with confidence while AI-marked "failing" responses (15.3–16.5% of cases) are routed to expert review — keeping the validity threat of AI error off the final outcome. Their [[item-response-theory|IRT]]-and-Bookmark pipeline makes the [[educational-measurement|proficiency-level]] impact of AI scoring legible rather than treating raw score agreement as the sole validity signal.
 - **AI-driven grade inflation as a validity threat:** [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] identifies a novel, technology-driven mechanism of [[summative-assessment|grade]] inflation operating *upstream of grading* — on the production of graded work. In a difference-in-differences study of 500,000+ grades across 319 courses (2018–2025), courses with more AI-exposed tasks (writing, coding) saw the share of A grades rise by 13 percentage points after ChatGPT's release, with grade-distribution compression. A triple-differences analysis shows the effect concentrates in homework-heavy courses — evidence that AI **task displacement** (AI performing graded tasks before instructors observe them) inflates grades without a corresponding rise in skill. This reduces the comparability of grades across courses and erodes the informational value of transcripts in ways difficult to detect from grade distributions alone.
 - **Accuracy vs. agreement as distinct validity signals:** [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik & Thambi (2026)]] graded a 21-item pharmacy exam with ChatGPT-5 and found that moderate percent accuracy frequently coexisted with low concordance-correlation coefficients — a methodological distinction between *scoring accuracy* and *agreement* that limits AI's reliability as a grading substitute even where raw accuracy looks acceptable. Agreement was strong on objective items (CCC 0.935–1.000) but near-zero on short-answer and modest on essay (0.341–0.854), and rubric provision did not consistently close the gap.
 - **Validity of AI-generated items:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that AI-generated questions, validated via Bayesian [[item-response-theory|IRT]], achieve difficulty and discrimination on par with expert-written standardized-exam items (reliability 0.79 vs. 0.72) — supporting the validity of course-tailored AI-generated assessments when backed by psychometric evaluation.
@@ -13119,6 +13152,8 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[feedback]]
 
 ## Connected Articles
+- [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Construct-equivalent assessment variant generation (Lee 2026)
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning for GPT-based L2 listening item generation (Aryadoust & Wong 2026)
 - [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)
@@ -17880,8 +17915,8 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - Most people assume the risk is over-trusting AI. But the page argues under-trusting — avoiding a capable tool entirely — is equally a failure of calibration. Do you lean toward accepting or avoiding AI output, and what might you be missing because of that default?
 - A fluent, confident AI answer 'reads as trustworthy whether or not it is.' Before reading further, what criteria could you use to decide when a confident-sounding output actually deserves your trust — and would those criteria hold up for an obscure, high-stakes topic you know nothing about?
 - The page suggests calibration depends on context: verifying more where errors are costly, less where they're benign. Where in your own work or study is the cost of a wrong answer highest, and how would you adjust your verification effort accordingly?
-- Research models trust as shaped not just by individual judgment but by your social environment — what peers and networks do. Think of a time a classmate, colleague, or online community persuaded you an AI was (or wasn't) reliable. Did you calibrate based on evidence or on that social signal?
-- One finding: telling students an AI tutor may make mistakes actually increased how much they used it. Why might being warned about fallibility make people *more* willing to engage — and what does that suggest about how honesty about AI's limits should shape your own use of these tools?
+- [[research-methods-aied|Research]] models trust as shaped not just by individual judgment but by your social environment — what peers and networks do. Think of a time a classmate, colleague, or online community persuaded you an AI was (or wasn't) reliable. Did you calibrate based on evidence or on that social signal?
+- One finding: telling students an [[intelligent-tutoring|AI tutor]] may make mistakes actually increased how much they used it. Why might being warned about fallibility make people *more* willing to engage — and what does that suggest about how honesty about AI's limits should shape your own use of these tools?
 
 ## Introduction
 
@@ -17889,12 +17924,12 @@ A language model's fluent, confident prose reads as trustworthy whether or not i
 
 ### Why trust needs calibrating
 
-Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without verification) produces the uncritical acceptance documented in [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research, and compounds the [[hallucination-risk]] of confident errors. **Under-trust** (avoiding AI entirely) forgoes legitimate benefits. Both stem from the same root: trust based on appearance rather than evidence. Research on [[misconceptions]] shows students often default to over-trust because they assume an AI that "sounds right" is right.
+Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without verification) produces the uncritical acceptance documented in [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research, and compounds the [[hallucination-risk]] of confident errors. **Under-trust** (avoiding AI entirely) forgoes legitimate benefits. Both [[stem-education|stem]] from the same root: trust based on appearance rather than evidence. Research on [[misconceptions]] shows students often default to over-trust because they assume an AI that "sounds right" is right.
 
 ### How calibration works
 
 - **Verification habits:** checking AI claims against primary sources and the "AI proposes, you verify" rule, rather than accepting plausible-sounding output.
-- **Context awareness:** recognizing that trustworthiness varies by task — a well-trodden topic the model has seen extensively is safer than an obscure, high-stakes, or fast-moving one.
+- **Context awareness:** recognizing that [[trust|trustworthiness]] varies by task — a well-trodden topic the model has seen extensively is safer than an obscure, high-stakes, or fast-moving one.
 - **Stakes adjustment:** applying more scrutiny where errors are costly (submitted work, medical or legal claims) and less where they are benign.
 - **Metacognitive monitoring:** tracking when and why one over-trusts, which connects calibration to [[metacognition]] and [[self-regulated-learning]].
 
@@ -17903,8 +17938,11 @@ Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without 
 Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai-misuse]] as a skill-based intervention: students [[ai-misuse-learning-harm|misuse]] AI less when they can judge when its output deserves trust. It is also a design goal — [[pedagogical-safety]] and transparency tools aim to make AI's reliability legible so learners can calibrate more accurately.
 
 - **Overreliance and calibration as population processes (2026):** A complex-adaptive-system model of AI reliance shows that task difficulty and AI quality set a baseline for both overreliance and calibration regret, while network connectivity and social proof shape whether reliance cascades. This suggests calibration is not only an individual trait but is modulated by the social and informational environment ([[ai-overreliance-complex-adaptive-system-2026]]).
-- **Calibration as an explicit objective of ML education (2026):** [[icet-ml-education-trust-2026|ICE-T]] argues that appropriate reliance on AI is itself a taught outcome of machine-learning education. It integrates intermodal transfer (Bruner's enactive–iconic–symbolic modes), [[computational-thinking]] via the Use-Modify-Create progression, and explanatory thinking, giving learners the representational models and error-contextualization needed to calibrate trust and counter both [[cognitive-offloading|over-reliance]] and algorithm aversion — positioning ML instruction as a calibration intervention, not just skill training.
-- **Domain-specific explanations can support teachers' calibration (2025):** In a within-subject experiment with in-service chemistry teachers using an AI recommendation tool, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found that explainability helped teachers calibrate trust indirectly by making system performance more *understandable*, and that domain-driven explanations in curricular language raised learned trust and acceptance significantly more than data-driven feature-importance ones. Yet several teachers still said real classroom experience was needed before they would fully rely on the tool — underscoring that calibration is ultimately validated through situated use and practice, not conferred by explanation alone.
+- **Calibration as an explicit objective of ML education (2026):** [[icet-ml-education-trust-2026|ICE-T]] argues that appropriate reliance on AI is itself a taught outcome of [[machine-learning]] education. It integrates intermodal transfer (Bruner's enactive–iconic–symbolic modes), [[computational-thinking]] via the Use-Modify-Create progression, and explanatory thinking, giving learners the representational models and error-contextualization needed to calibrate trust and counter both [[cognitive-offloading|over-reliance]] and algorithm aversion — positioning ML instruction as a calibration intervention, not just skill training.
+- **[[discipline-specific-aied|Domain-specific]] explanations can support teachers' calibration (2025):** In a within-subject experiment with in-service [[chemistry-education|chemistry]] teachers using an AI recommendation tool, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found that explainability helped teachers calibrate trust indirectly by making system performance more *understandable*, and that domain-driven explanations in [[curriculum-design|curricular]] language raised learned trust and acceptance significantly more than data-driven feature-importance ones. Yet several teachers still said real classroom experience was needed before they would fully rely on the tool — underscoring that calibration is ultimately validated through [[situated-learning|situated]] use and practice, not conferred by explanation alone.
+
+## Connected Conceptsnot conferred by explanation alone.
+- **Conditional trust: feedback utility vs. evaluative authority (2026):** [[who-should-grade-my-work-ai-writing-assessment-2026|AlGhamdi (2026)]] shows that when Saudi computing students know ChatGPT generated their writing score, they draw a sharp line between accepting AI feedback and ceding grading authority to AI — accepting the former for surface-level revision while consistently reserving evaluative authority for the human instructor. This "feedback utility / evaluative authority" distinction is a concrete case of calibration in the assessment context: students match trust to the *function* of the AI (useful feedback vs. consequential grading) rather than accepting or rejecting it wholesale, and transparency about AI involvement appears to activate this more calibrated, critical stance.
 
 ## Connected Concepts
 
@@ -17919,6 +17957,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[pedagogical-safety]]
 
 ## Connected Articles
+- [[who-should-grade-my-work-ai-writing-assessment-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Six diagnostic criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
@@ -19822,6 +19861,70 @@ One important caveat: the GenAI-specific evidence base is developing rapidly. Mu
 ---
 
 # Articles
+
+## [The 5P Reflection Model for Education in the Generative AI Era](https://edtechdev.github.io/aied/articles/5p-reflection-model-genai-2026/)
+
+> **Synthesis:** As [[generative-ai|generative AI]] makes it hard to authenticate student [[metacognition|reflection]] — a student's reflection may be authored by an AI rather than by the learner — this [[design-based-research]] paper argues that traditional reflection models (Kolb, Gibbs, DIEP, Schön, Mezirow, Boud) lack strategies for the GenAI era and proposes a GenAI-aware **5P Reflection Model** (Purpose, Process, Product, Pitfalls, Plan). The model fuses features from experiential, transformative, reflective-practitioner, emotional, and [[self-regulated-learning|self-regulated learning]] theories, embeds explicit handling of GenAI risks (hallucination, plagiarism, [[cognitive-offloading|over-reliance]], [[privacy]]), and embodies a "process over product" philosophy that documents prompts, iterations, and validation rather than just the final output. It positions structured reflection as a way to preserve authenticity, [[agency|learner agency]], and [[academic-integrity|integrity]] when learners co-create meaning with AI.
+
+## Why reflection models must change
+
+[[higher-ed|Universities]] worldwide face challenges adopting GenAI because it has affected [[academic-integrity|academic integrity]] and the scholarship of [[teacher-role|teaching]] and research. The paper's core claim is that **traditional reflection models are struggling to authenticate student reflection** as GenAI becomes incorporated into education. Learners increasingly co-create meaning with AI, so a contemporary reflection model must:
+
+- Focus on **process rather than product**, making the reflective process transparent.
+- Capture the learner's **interactions with AI** — the prompts used, and the iterative thinking that unfolds through [[human-ai-collaboration|human-AI collaboration]].
+- Evaluate **authenticity** by distinguishing learners' own reasoning from AI-generated contributions.
+- Embed [[ethics|ethical]] and responsible AI usage — attribution, integrity, disclosure — within the model rather than treating them as external concerns.
+- Account for the **technological mediation of thinking** — how algorithms, interfaces, and [[equity-in-ai-education|equitable]] access shape the reflective experience.
+
+## Theoretical foundations of the 5P model
+
+The paper reviews five families of reflection models and analyzes their limitations in the GenAI era:
+
+- **Experiential models** (Kolb, Gibbs, DIEP): valuable for staged, cyclical learning, but GenAI can interrupt learner ownership of reflection and risk abstraction detached from lived experience.
+- **Transformative models** (Mezirow): deep re-examination of assumptions, but individualistic and over-emphasizing rational-critical processing.
+- **Reflective-practitioner models** (Schön, Brookfield, Rolfe, CARL): useful for reflection-in-action and reflection-on-action, but lack step-by-step structure for documenting [[student-ai-interaction|AI interaction]].
+- **Emotional/[[affective-computing|affective]] models** (Boud, Moon): attention to feelings, but automation of synthesis can bypass the emotional "stickiness" that genuine reflection requires.
+- **Self-regulated learning models** (Zimmerman, Pintrich): goal setting, monitoring, and autonomy, which GenAI can either scaffold or short-circuit.
+
+## The five stages
+
+The 5P model is an iterative framework with five stages, each drawing on distinct theoretical features, with emotional factors considered across all stages:
+
+- **Purpose** (self-regulated forethought): learners set clear goals and objectives for both their learning and their intended use of GenAI *before* any usage — clarifying whether they seek efficiency, [[creativity]], or clarification, ensuring alignment with [[governance|institutional]] and [[assessment|assessment requirements]], and guarding against [[cognitive-offloading|over-reliance]] driven by anxiety.
+- **Process** (reflection-in-action): the active deployment of the tool, documenting the specific prompts and iterations used, monitoring emotional responses (frustration that stops refinement, relief that causes confirmation bias), and validating GenAI's probabilistic output.
+- **Product** (reflection-on-action): critically reviewing the final output's quality, originality, and accuracy, cross-validating it against reliable external sources, and distinguishing what the learner contributed versus what GenAI generated.
+- **Pitfalls**: an explicit, core stage addressing the inherent risks of GenAI — factual/cognitive (hallucination), ethical/integrity (plagiarism, [[bias-mitigation|bias]], over-reliance), and privacy/security — and reflecting on where critical human judgement was essential.
+- **Plan**: synthesizing insights from all prior stages to set refined goals and a pathway for continuous improvement, driving genuine transformative learning.
+
+## Adoption considerations
+
+The model is generally suited to major assessments, capstone projects, or professional-development evaluation rather than routine tasks. Effective implementation requires explicit instruction and [[scaffolding]] from educators — teaching learners to monitor emotional responses, design and refine prompts iteratively, and cross-validate outputs — which itself demands ongoing [[educational-development|professional development]]. The authors note two inherent limitations: assessing the quality of internal thoughts (emotional monitoring, resisting over-reliance) is highly subjective, and documenting the Process stage's prompts and iterations is difficult without specialized tools that capture learners' continuous interaction with GenAI. Overall, the model aims to ensure GenAI provides a structured [[scaffolding|scaffold]] rather than a substitute for student thought.
+
+## Connected Concepts
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[academic-integrity]]
+- [[generative-ai]]
+- [[cognitive-offloading]]
+- [[agency]]
+- [[scaffolding]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[ethics]]
+
+## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]] — A critical framework for human–GenAI co-agency in education
+- [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
+- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut? GenAI's dual role in SRL
+- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
+- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
+- [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI
+- [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education
+
+## Citation
+Kadel, R., Shailendra, S., Islam, M. T., Saxena, U. R., Sharma, A., & Kaphle, S. (2026). [The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era](https://arxiv.org/abs/2609.03413). arXiv:2609.03413.
+
+---
 
 ## [Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains](https://edtechdev.github.io/aied/articles/a4l-analytics-pipeline/)
 
@@ -46139,6 +46242,66 @@ Baran, E., Dilek, M., Ziba, M., & Xiao, X. (2026). [*Human-centered AI for teach
 
 ---
 
+## [A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment](https://edtechdev.github.io/aied/articles/human-in-the-loop-ai-assisted-scoring-spanish-writing-2026/)
+
+> **Synthesis:** This study designs and validates a [[human-in-the-loop-ai|human-in-the-loop]] (HITL) framework for [[automated-assessment|AI-assisted scoring]] of short Spanish argumentative writing in a large-scale national examination (Uruguay's Acredita EB, ~5,000–6,000 responses per year). A prompt-engineered GPT-5 model scored 15 analytic-rubric items with 60–80% accuracy and 90%+ output consistency, just below human inter-rater agreement, and showed a stable, systematic conservative (under-grading) bias rather than random error. Because cases the AI fails are precisely those routed to expert review, the proposed workflow could reduce the volume of responses requiring full human scoring by at least 50% while preserving decision quality in high-stakes pass/fail outcomes. The paper provides real operational evidence that carefully designed HITL scoring can support [[assessment-validity|fair, scalable]] writing [[assessment]].
+
+## A real high-stakes national assessment
+
+Most [[automated-assessment|automated-grading]] [[research-methods-aied|research]] uses small proof-of-concept datasets. This study draws on two recent editions (2024 and 2025) of the *Acredita EB* — a national knowledge-accreditation test for over-21 adults completing lower-secondary education, administered by Uruguay's public education [[administrator|administration]] (ANEP). The Writing section is the most resource-intensive component, with results delivered no sooner than three months after the exam; the target task is a ~150–200-word Spanish argumentative text scored by trained raters against a 15-item analytic rubric organized into discursive, textual, and orthographic domains.
+
+The scoring pipeline already combines [[item-response-theory|Item Response Theory]] (IRT) with the Bookmark standard-setting method to derive proficiency levels (Proficient, Close to Proficiency, Insufficient) and ultimately a pass/fail decision requiring at least two sections rated Proficient. This real operational structure — not just raw score agreement — is what the authors use to evaluate AI assistance.
+
+## Prompt-based scoring performance
+
+A [[prompt-engineering]] approach operationalized each of the 15 rubric items as a dedicated Spanish prompt that assigns a score, identifies the relevant text excerpt, and justifies the judgement, using OpenAI GPT-5 with structured JSON output. Key results:
+
+- **Accuracy:** AI scores matched human ratings on 60–80% of items — slightly below human inter-rater agreement but within ~5–15 points of it.
+- **Consistency:** the model assigned the same score in ~9 of 10 repeated runs (90%+), except for the spelling item, which was replaced with the deterministic LanguageTool NLP checker (100% consistency, comparable accuracy).
+- **Cross-year generalization:** prompts developed on 2024 data generalized to the 2025 exam with minimal adjustments and very small performance variation.
+
+## A systematic conservative bias
+
+At the proficiency-level and pass/fail stage, the model's errors were not random: it consistently **under-graded**, producing pass/fail discrepancy in 15.3% (2024) and 16.5% (2025) of cases where human raters passed a candidate but AI scoring predicted a fail. Fewer than 1% of cases ran in the opposite direction. While such under-grading would be problematic if AI scores were used as final decisions, the authors show it is actually the key to safe HITL design: responses the AI marks as passing can be accepted with high confidence, while responses the AI marks as failing are systematically routed to expert human review before any certification decision.
+
+## The HITL evaluation workflow
+
+The proposed framework uses a decision-point logic that allocates scarce [[teacher-role|human expertise]] only where it changes outcomes:
+
+1. **Calibration phase** validates the AI model and adapts prompts to the current exam topic (50–100 texts).
+2. **Automated scoring** of all written responses, followed by IRT + Bookmark to assign proficiency levels.
+3. **Targeted human review** of exactly the candidates whose pass/fail outcome depends on the Writing section — candidates already failing other sections need no Writing review, and candidates rated Proficient in all sections pass with a residual AI-error risk of only 0.2–0.6%.
+4. **Recalibration** of proficiency-level cut scores to account for human-review adjustments.
+
+Under realistic assumptions this could cut the number of written responses needing full human scoring by **at least 50%** while preserving decision quality. The authors caution that deployment requires longitudinal monitoring of AI–human alignment and experimental work on whether exposure to AI scores introduces [[bias-mitigation|anchoring or automation bias]] in human raters.
+
+## Connected Concepts
+- [[automated-assessment]]
+- [[assessment-validity]]
+- [[human-in-the-loop-ai]]
+- [[assessment]]
+- [[equity-in-ai-education]]
+- [[item-response-theory]]
+- [[educational-measurement]]
+- [[llm]]
+- [[bias-mitigation]]
+- [[teacher-role]]
+
+## Connected Articles
+- [[cvengros-grading-handwritten-chemistry-ai-2026]] — Selective automation of handwritten chemistry grading with confidence filters
+- [[falahat-chatgpt-grading-pharmacy-exams-2026]] — ChatGPT-5 grading of a mixed-format pharmacy exam; hybrid grading recommended
+- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]] — Can ChatGPT replace the teacher in assessment? A systematic review
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[olvet-genai-scoring-open-ended-medical-2026]] — GPT-4 scoring of open-ended medical exam questions
+- [[pecuchova-automated-grading-open-ended-genai-2026]] — Benchmarking GenAI models for open-ended grading
+- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
+
+## Citation
+Curi, M. E., Capdehourat, G., Amigo, I., Romano, M., Serra, R., Silveira, A., & Peri, A. (2026). [A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment](https://arxiv.org/abs/2609.05143). arXiv:2609.05143.
+
+---
+
 ## [Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use](https://edtechdev.github.io/aied/articles/human-llm-collaborative-coding-k12-educator-ai/)
 
 > **Alex Liu, Min Sun, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He** — arXiv preprint (2026).
@@ -60569,6 +60732,54 @@ Mehra, R., Singi, K., Kaulgud, V., Sharma, V. S., & Choudhury, S. G. (2026). [*P
 
 ---
 
+## [A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant](https://edtechdev.github.io/aied/articles/prompt-engineering-personalization-ai-teaching-assistant-2026/)
+
+> **Synthesis:** This IAAI-27 paper presents a [[prompt-engineering|prompt-engineering]] framework for real-time, micro-level [[personalized-learning|personalization]] of the [[intelligent-tutoring|Jill Watson]] [[llm]]/RAG-based AI [[teacher-role|teaching]] assistant. By conditioning responses on six learner dimensions ([[metacognition|metacognitive]] self-assessment, abstraction, verbosity, perception, processing, understanding) and classifying each query's cognitive demand with [[cognitive-diagnosis|Bloom's Taxonomy]], the framework yields 96 distinct learner profiles and adapts the *form* of responses (abstraction, structure, verbosity, framing) without retraining the model. NLP analyses of 2,910 responses and a human study with five evaluators found measurable, perceptible response differences across personalization conditions, with abstraction and processing preferences most consistently aligned with their intended effects. It offers a scalable, modular route to [[adaptive-learning|hybrid adaptability-and-adaptivity]] in AI tutoring.
+
+## From content adaptation to response-form adaptation
+
+The aspiration to tailor learning to individual needs is decades old, anchored by Bloom's 2 Sigma finding that one-to-one tutoring can produce ~two-standard-deviation gains. Earlier [[adaptive-learning|adaptive systems]] followed a diagnose–prescribe cycle that adapted *content* or *sequencing* through [[student-modeling|learner modeling]]. This work shifts personalization toward **response-form adaptation**: answers remain grounded in a shared retrieved knowledge base (via [[rag|retrieval-augmented generation]]), while their abstraction, structure, verbosity, and cognitive framing are modified through prompt conditioning.
+
+The framework combines **learner-driven adaptability** (students explicitly select their preferences) with **system-driven adaptivity** (the system infers query cognitive demand). Learner preferences derive from the Felder-Silverman learning model and are treated as user-selected preferences rather than fixed psychometric classifications; the six dimensions control granularity, length, communication orientation, engagement style, and organizational structure. The combination produces 96 distinct learner profiles.
+
+## Personalizing the Jill Watson teaching assistant
+
+The framework operates on Jill Watson, a general-purpose LLM/RAG teaching assistant deployed across multiple institutions. Each student question is automatically classified by a fine-tuned BERT-based [[cognitive-diagnosis|Bloom's Taxonomy]] classifier (0.92 test accuracy), and learner attributes are encoded into a structured prompt that conditions generation while preserving grounding in course-specific retrieved content. An example prompt declares: *"I have a beginner level of knowledge in this topic. The Bloom's Taxonomy category of my question is Synthesis. Please provide a technical and concise response, using a sensory communication style..."* — a modular design that lets preferences update at runtime with no model retraining or [[discipline-specific-aied|domain-specific]] authoring.
+
+## Evaluation results
+
+The framework was evaluated in two complementary ways:
+
+- **NLP experiments:** 30 real student questions from a Spring 2023 Knowledge-Based AI course, 96 personalized plus one baseline prompt configuration each, yielding 2,910 GPT-4.1 responses. Responses showed high semantic similarity but substantially lower lexical similarity — remaining grounded while varying in surface expression — with systematic variation in response length by verbosity preference and greater response complexity associated with higher self-assessment, verbosity, reflective processing, and technical abstraction.
+- **Human evaluation:** five evaluators rated responses on quality, perceived complexity, abstraction, and processing style across 13 profiles per question (390 evaluations). Mixed-effects models found abstraction and processing preferences significantly predicted perceived response complexity, abstraction, and processing style — consistent with their intended effects — while self-assessment showed weaker effects. Bloom's level also predicted ratings, with more complex questions generally scoring lower.
+
+The authors frame the results as preliminary evidence that prompt-based personalization produces measurable, perceptible differences in response characteristics, supporting its potential for adaptive behavior in LLM-powered [[intelligent-tutoring|educational agents]]. Deployment is planned for Spring 2027 with a pilot in Georgia Tech courses, followed by larger classroom evaluation, A/B testing, and assessment of impacts on [[learning-gains|learning outcomes]] and [[student-engagement|engagement]].
+
+## Connected Concepts
+- [[intelligent-tutoring]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[prompt-engineering]]
+- [[llm]]
+- [[rag]]
+- [[student-modeling]]
+- [[scaffolding]]
+- [[cognitive-diagnosis]]
+
+## Connected Articles
+- [[reddig-maclellan-personalized-feedback-llm-2026]] — Embedding an LLM in an ITS's structure for personalized corrective feedback
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith (Stanford SCALE/NSSA brief)
+- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains
+- [[learnmate2-llm-adaptive-learning]] — LLM-based adaptive learning tutor
+- [[bilingual-llm-lecture-companion-srl-2026]] — SRL with a bilingual LLM lecture companion
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
+- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos (Tomlinson et al. 2026)
+
+## Citation
+Basu, S., Kakar, S., & Goel, A. (2026). [A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant](https://arxiv.org/abs/2609.03402). arXiv:2609.03402 (IAAI-27).
+
+---
+
 ## [Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs](https://edtechdev.github.io/aied/articles/prompt-injection-defenses-educational-llm-tutors/)
 
 > Evaluating Prompt Injection Defenses for Educational [[llm]] Tutors: Security-[[usability-research|Usability]]-Latency Trade-offs **Maiorano (2026)** — arXiv cs.CR/cs.AI.
@@ -71273,6 +71484,58 @@ Vargas, E. G., Chiappe, A., & Durand, J. (2024). [*Reshaping education in the er
 
 ---
 
+## [VARIA: Benchmarking Frontier LLMs on Construct-Equivalent Assessment Variant Generation](https://edtechdev.github.io/aied/articles/varia-construct-equivalent-assessment-variant-generation-2026/)
+
+> **Synthesis:** AI-Integrated Authentic Assessment (AIAA) frameworks propose to replace surveillance-based [[academic-integrity|proctoring]] with per-student task variation — each examinee gets a unique-but-equivalent performance task — but this "no-surveillance" integrity guarantee depends on an unverified capability: that [[llm|LLMs]] can generate variants that are simultaneously surface-distinct, [[assessment-validity|construct-equivalent]], rubric-applicable, and difficulty-matched. This paper introduces **VARIA**, a [[benchmark]] that operationalizes this presumption as four measurable properties of a generated variant set. A pilot of 600 variants across 60 condition cells found frontier models cluster tightly on a composite integrity score (joint 𝒥 = 0.81–0.88) while non-frontier references collapse to 0.50–0.55 — a large capability-tier gap — with [[prompt-engineering|prompting strategy]] selecting an operating point on the diversity-equivalence-readability surface rather than a uniformly best protocol.
+
+## The variation-at-scale presumption
+
+A growing literature on [[authentic-assessment|authentic assessment]] argues that rather than policing the examination room, assessments should be redesigned so copying is structurally useless: each examinee receives an instance of a single competency blueprint, instantiated with different surface details (domain, scenario, jargon, register), so no two students can productively share answers. The AIAA framework delegates generation of these variants to LLMs. But the framework's integrity claim is conditional on a capability that had never been directly benchmarked: whether LLMs can generate variants that are surface-distinct *and* construct-equivalent, rubric-applicable, and difficulty-matched. If they cannot, "variation-at-scale" is a fig leaf and the no-surveillance guarantee collapses.
+
+VARIA closes this gap by formalizing the hypothesis as a four-property capability claim and measuring it directly:
+
+- **P1 — Surface diversity** sufficient to deter copying (pairwise TF-IDF cosine and n-gram overlap).
+- **P2 — Construct equivalence** on the underlying competency (LLM-judge score).
+- **P3 — Rubric applicability** across surface variation (deferred to a pre-registered follow-up).
+- **P4 — Difficulty parity** across surface features (readability dispersion).
+
+## Benchmark design and findings
+
+VARIA instantiates three competency-based blueprints from applied AI and data analytics (an audit-style performance task, a data-pipeline [[bias-mitigation|bias]] investigation, and a [[stakeholders|stakeholder]]-communication task) — chosen because they require open-response performance rather than closed-form answers, stressing the rubric-applicability constraint that template-based [[automated-question-generation|item generation]] evades. It evaluates three frontier model families (Claude Opus 4.7, GPT-5.5, Gemini 3.1 Pro) across four prompting strategies (zero-shot, few-shot with anchor examples, structured chain-of-thought, dimension-preserving constrained generation), plus two non-frontier references (Llama 3.2 3B Instruct, GPT-2 small) and two ablations.
+
+Key results from the pilot (600 variants, 60 condition cells):
+
+- **Capability-tier separation:** frontier strategies cluster tightly (joint 𝒥 = 0.81–0.88 on strategy means; individual cells 0.70–0.90), while both non-frontier references collapse below 𝒥 = 0.55 — a twenty-five-to-thirty-one-point gap establishing the benchmark's discrimination. Llama 3.2 3B Instruct follows instructions but produces near-duplicate variants (cosine ~0.51 vs. ~0.05–0.10 for frontier); GPT-2 small achieves near-zero construct equivalence.
+- **Prompting strategy selects an operating point:** structured chain-of-thought and zero-shot maximize construct equivalence (0.96–0.97) with tight readability dispersion; dimension-preserving constrained generation and few-shot anchoring maximize surface diversity (cosine ≈ 0.05) at the cost of readability dispersion. No single strategy dominates all four dimensions simultaneously — a diversity-equivalence trade-off the authors chart as a Pareto frontier.
+- **Measurement caveats:** the LLM judge uses a single coarse set-level score, so equivalence differences among the strongest frontier strategies are near the instrument's resolution limit; rubric stability (P3) and behavioral copy-resistance remain for the pre-registered follow-up.
+
+## Implications for AIAA and assessment
+
+The authors release VARIA and recommend a generation protocol keyed to the deploying institution's threat profile. Two substantive conclusions follow: **variation-at-scale cannot be solved by prompting alone** if the diversity threshold is set aggressively — readability and construct-equivalence floors will eventually be breached together — and a deploying institution should **validate its specific model-prompt pair** rather than relying on strategy-level rankings, given the real model-by-prompt interaction at the cell level. The benchmark reframes the [[ai-detection|detection-vs-redesign]] debate: the no-surveillance promise of [[authentic-assessment|per-student task variation]] now has an empirical, falsifiable check, and the strongest frontier generators currently satisfy the integrity criteria at the margin rather than with wide headroom.
+
+## Connected Concepts
+- [[assessment-validity]]
+- [[automated-assessment]]
+- [[academic-integrity]]
+- [[authentic-assessment]]
+- [[generative-ai]]
+- [[llm]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
+- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI
+- [[biology-grade-vulnerability-genai-2026]] — Vulnerability of biology course grades to AI-mediated dishonesty
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment in an AI-Mediated World
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap
+- [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; human-production assumption & agentic validity
+- [[ai-assessment-scale-reform]] — The AI Assessment Scale and Assessment Reform
+
+## Citation
+Lee, E. (2026). [VARIA: Benchmarking Frontier LLMs on Construct-Equivalent Assessment Variant Generation](https://doi.org/10.35542/osf.io/u6xef_v2). EdArXiv preprint.
+
+---
+
 ## [VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding](https://edtechdev.github.io/aied/articles/veriforge-narrative-drafting-scaffolding-2026/)
 
 > **Synthesis:** Sun et al. (2026) present VeriForge, a mixed-initiative [[generative-ai]] writing system that assumes initiative over domain discovery while the author retains initiative over narrative synthesis, using proactive highlighting, dual-stream querying with source-anchored Knowledge Cards, and a spatial Knowledge Canvas to surface latent knowledge gaps without homogenizing voice.
@@ -72304,6 +72567,66 @@ The critique of the AIED research landscape connects to broader [[governance]] c
 ## Citation
 
 White, A. R., & Wu, Z. (2026). [*Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions*](https://doi.org/10.35542/osf.io/ebyhj_v1). EdArXiv. doi:10.35542/osf.io/ebyhj_v1.
+
+---
+
+## [Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education](https://edtechdev.github.io/aied/articles/who-should-grade-my-work-ai-writing-assessment-2026/)
+
+> **Synthesis:** A [[qualitative-research|qualitative]] [[pedagogy|pedagogical]] inquiry in a Saudi technical-communication course examined how 13 undergraduate computing students respond when explicitly told that ChatGPT, rather than their instructor, generated their writing feedback and score. Students accepted GenAI feedback as clear and useful for [[writing-education|surface-level revision]] yet consistently reserved [[teacher-role|grading authority]] for the human instructor, drawing a sharp distinction between *feedback utility* and *evaluative authority* that reconciles competing [[trust-calibration|algorithm-aversion and appreciation]] findings. Transparency about AI involvement shifted student reflection from [[ai-feedback-quality|feedback quality]] toward broader questions of [[assessment|assessment legitimacy]], [[trust-calibration|trust]], and the [[governance|institutional]] role of the instructor. The study proposes a three-principle framework (transparency, human mediation, reflective practice) for [[ethics|ethical]] GenAI integration in writing [[assessment]].
+
+## Transparency as an instructional intervention
+
+Prior research on [[generative-ai|GenAI]] feedback has focused heavily on whether AI-generated feedback improves [[writing-education|writing]] performance and how useful students perceive it to be; comparatively little work asks how students interpret evaluation when they know an AI produced both the feedback and the [[summative-assessment|grade]]. This study foregrounds [[assessment|transparency]] as the central intervention: students wrote an in-class handwritten task, the scanned submissions were evaluated by ChatGPT against a rubric, and students were then explicitly told ChatGPT had generated their score and were invited to reflect on it in writing.
+
+Using [[research-methods-aied|inductive thematic analysis]] of the 13 handwritten reflections, four themes emerged: perceived usefulness of feedback; awareness of AI's contextual and pedagogical limitations; conditional trust distinguishing feedback utility from evaluative authority; and reflection on the institutional and pedagogical role of the human instructor. The handwritten, in-class design was deliberate — it assured the work under evaluation was authentically the student's own, so that questions of [[trust-calibration|trust]], authority, and legitimacy could be examined without authorship ambiguity.
+
+## The feedback utility / evaluative authority distinction
+
+The most analytically distinctive finding was that participants could *simultaneously* affirm the usefulness of ChatGPT's feedback and reject ChatGPT as an appropriate final evaluator. Students repeatedly separated "this feedback is useful" from "this system should decide my grade" — treating them as analytically separate judgements rather than opposite ends of a single approval scale. Representative reflections included: "I agree with it, but with one condition, that the doctor checks the feedback to edit any mistakes," and "Doctors can use AI for [reading] feedback for exams only, but if they use it for [grading] students, problems will happen."
+
+This task-specific pattern of [[trust-calibration|conditional trust]] extends the [[research-methods-aied|algorithm-trust]] literature. Where Dietvorst et al. document algorithm aversion and Logg et al. document algorithm appreciation, these students exhibited neither blanket aversion nor blanket appreciation — they made *separate judgements about distinct functions of the same system*, accepting AI for surface-level [[feedback]] while preserving human authority for evaluation. The authors argue this is a previously unnamed distinction that gives a more precise vocabulary for designing AI-mediated [[assessment|assessment practices]].
+
+## Student reasoning about instructor authority
+
+Participants articulated positive reasons — not mere technophobia — for preserving human evaluative authority in [[higher-ed|higher education]]. Four arguments recurred:
+
+- **Knowledge of individual students:** the teacher "knows much better about students and knows good ways to grade students and support students' learning."
+- **Dialogical assessment:** "ChatGPT is not like people. You talk to them and explain excuses to consider or give another chance if you fail" — framing grading as a relational practice requiring interpretation and dialogue.
+- **Institutional legitimacy:** "If ChatGPT [is] checking the exams, why are we going to university? Why not learn from ChatGPT and test ourselves in ChatGPT?" — a question about the very purpose of formal higher education when assessment is delegated to AI.
+- **[[bias-mitigation|Fairness]] against AI error:** "AI can make mistakes that will affect the student's grades," positioning the instructor as a safeguard against consequential error.
+
+Students also showed critical awareness of AI limitations beyond technical error — that ChatGPT "doesn't know [the instructor's] rating system," that it "always tries to be positive," and that it could misread scanned handwriting — leading some to "take its score less seriously."
+
+## A three-principle framework for ethical integration
+
+The paper concludes with a framework for ethical GenAI integration in writing assessment organized around three principles: **transparency** (clear communication about AI involvement, which functions not merely as an ethical disclosure but as a pedagogical strategy in its own right), **human mediation** (instructors retain evaluative authority over AI outputs), and **reflective practice** (post-assessment reflection that shifts student attention from textual correction to systemic questions about the assessment system).
+
+The findings are explicitly bounded — a single course, single semester, 13 male computing students at one Saudi university — but offer a transferable model: transparency about AI involvement may transform [[feedback]] from a taken-for-granted instructional act into an object of critical reflection, and post-assessment reflection is an inexpensive, easily replicated intervention for surfacing student reasoning about [[automated-assessment|automated evaluation]].
+
+## Connected Concepts
+- [[assessment]]
+- [[feedback]]
+- [[trust-calibration]]
+- [[teacher-role]]
+- [[higher-ed]]
+- [[writing-education]]
+- [[generative-ai]]
+- [[feedback-literacy]]
+- [[summative-assessment]]
+- [[ai-literacy]]
+- [[student-experience]]
+
+## Connected Articles
+- [[semantic-variability-llm-conversation-assessment-2026]] — Cross-LLM construct-irrelevant variance in conversation-based assessment (Hao 2026)
+- [[gpt4-feedback-student-activation-2026]] — GPT-4 feedback and student activation in a large course
+- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and SRL: perceived source matters
+- [[luo-dawson-value-judgements-grading-2026]] — Value judgements in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
+- [[falahat-chatgpt-grading-pharmacy-exams-2026]] — ChatGPT-5 grading of a mixed-format pharmacy exam
+- [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; human-production assumption & agentic validity
+- [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-generated text
+
+## Citation
+AlGhamdi, R. (2026). [Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education](https://arxiv.org/abs/2609.05346). arXiv:2609.05346.
 
 ---
 
