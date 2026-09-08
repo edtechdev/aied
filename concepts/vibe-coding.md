@@ -1,7 +1,7 @@
 ---
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-09-08T01:30:00-04:00"
+updated: "2026-09-08T03:05:00-04:00"
 type: concept
 tags: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, ai-literacy, writing-education, human-ai-collaboration, agentic-ai, teacher-role]
 audience: [instructors, curriculum designers, researchers, software developers]
@@ -9,7 +9,7 @@ level: [higher ed, k 12]
 confidence: high
 ---
 
-> **Vibe coding** — building software by iteratively prompting a large language model and judging the resulting behavior, without directly reading or editing the underlying source code. Popularized by Andrej Karpathy in 2025 as the workflow where one "forgets the code even exists," vibe coding is the LLM-native realization of an older ambition, natural-language programming, and functions as a form of [[agentic-ai|end-user development]] in which prose becomes the primary programming interface.
+> **Vibe coding** — building software by iteratively prompting a large language model and judging the resulting behavior, without directly reading or editing the underlying source code. Popularized by Andrej Karpathy in 2025 as the workflow where one "forgets the code even exists," vibe coding is the LLM-native realization of natural-language programming and end-user development — framings now treated as synonyms in this knowledge base — in which prose becomes the primary programming interface.
 
 ## Questions to Consider
 
