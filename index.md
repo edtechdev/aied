@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-08
 
-Articles: 1117 | Concepts: 186 | FAQs: 17
+Articles: 1118 | Concepts: 186 | FAQs: 17
 
 ## Concepts
 
@@ -695,6 +695,7 @@ Articles: 1117 | Concepts: 186 | FAQs: 17
 - [[knowledge-graph]] — Knowledge Graph
 - [[knowledge-tracing]] — Knowledge Tracing
 - [[knowloop-confusion-to-consolidation-2026]] — From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review
+- [[ko-hughes-vsd-student-centered-its-2026]] — Value-Sensitive Design in Action: Designing Student-Centered Intelligent Tutoring Systems with Community College Students and Instructors
 - [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — The Impact of Generative AI on Academic Integrity of Authentic Assessments Within a Higher Education Context
 - [[kostopoulos-agentic-ai-education-2025]] — Agentic AI in Education: State of the Art and Future Directions
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing

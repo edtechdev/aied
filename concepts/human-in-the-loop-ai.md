@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-07T09:09:07-04:00"
+updated: "2026-09-08T13:31:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [human-in-the-loop-ai, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
@@ -56,14 +56,12 @@ Kim, Baek, and Kwak (2026) extend HITL to [[video-education|AI-generated instruc
 ## Why HITL matters in the AI era
 
 Human-in-the-loop design has become central to the knowledge base's [[agentic-ai|agentic AI]] and [[reducing-ai-misuse|responsible AI use]] discussions for several converging reasons:
-
 - **Pedagogical safety.** [[pedagogical-safety]] requires that AI with real instructional authority retains human oversight, so errors, biases, or harmful outputs are caught before they reach learners. This is especially important for autonomous agents that [[agentic-ai|proactively pursue goals]].
 - **Validity and quality control.** HITL is a quality gate for [[automated-assessment|automated assessment]] and generation — humans adjudicate where automated scoring is unreliable (see [[llms-do-not-grade-essays-like-humans-2026|LLM essay grading]] [[research-methods-aied|research]]) and validate generated items. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 grading and feedback studies (2023–2025) reaches the same conclusion explicitly: LLMs match human raters on short, well-structured tasks but cannot fully replace human judgment on complex, open-ended, or subjective work, and the highest grading effectiveness is achieved in hybrid systems that combine AI-driven grading with teacher oversight and verification ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] show concretely where that boundary falls: ChatGPT-5 matched faculty on objective pharmacy-exam items (CCC 0.935–1.000) but was unreliable on short-answer and essay items even when given a rubric, leading the authors to recommend hybrid grading with human review for complex, subjective, or high-stakes assessment.
 - **Learner agency.** Keeping a human in the loop preserves [[agency]] and supports [[self-regulated-learning]], countering the [[cognitive-offloading|over-reliance]] that fully autonomous assistance can induce.
 - **Trust and calibration.** Transparent human oversight supports [[trust-calibration]] — learners and instructors know a qualified human stands behind the system.
 
 ## Where HITL appears in the knowledge base's research
-
 - **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[cong-confidence-asag-2026]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and essay scoring ([[psyscore-essay-scoring-zpd-feedback]]). [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] instantiate this in high-stakes, handwritten general-[[chemistry-education|chemistry]] grading: because a [[multimodal]] LLM's reliability varies by response format (textual and chemical-reaction answers are reliable while drawing and graphing score worse than random) and false positives go undetected by students, they convert raw AI scores into a selective accept/deferral policy using confidence filters — partial-credit thresholds, an [[item-response-theory|IRT]]-based risk threshold, and problem-type exclusion — deferring uncertain and graphical items to humans, an approach the authors tie to [[regulation|regulatory]] frameworks that designate AI in educational assessment as high-risk and mandate documented human oversight.
 - **Feedback systems:**mandate documented human oversight.
 - **Operational HITL scoring in a national assessment (2026):** [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026|Curi et al. (2026)]] instantiate HITL at institutional scale in Uruguay's Acredita EB exam. Because the LLM scorer's errors are systematically conservative (under-grading), the workflow uses a decision-point logic that routes human review to exactly the candidates whose pass/fail outcome depends on the Writing section — AI-marked passing responses are accepted with confidence, while AI-marked failures (15.3–16.5% of cases) are verified by expert raters, cutting full-scoring workload by ≥50% with a residual AI-error pass risk of only 0.2–0.6%. This is HITL as a resource-allocation strategy: humans adjudicate precisely where AI's conservative bias would otherwise alter high-stakes outcomes.
@@ -75,14 +73,13 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 ## Synthesis
 
 Human-in-the-loop design is not merely a safety measure—it is a **resource-allocation strategy**. The frontier question is not *whether* to include humans, but *where* in the pipeline their judgment has highest marginal value. The most effective HITL systems concentrate scarce human expertise where automated systems are weakest (distractor design, explanatory feedback, edge-case adjudication, ethical judgment) and automate the rest — preserving quality, safety, and trust while scaling production.
-
 - **Human oversight persists in AI-assisted work.** [[scaffolding-systematic-reviews-2026|Systematic-review research]] found AI automation tools reduced procedural burdens (e.g. screening) but interpretive decisions still required substantial human oversight; [[kim-ai-andragogy-2026|andragogy research]] makes human-in-the-loop (shared mental models, co-creation) a core AI design principle.
 - **Human-in-the-loop at institutional scale.** Qin (2026) describes how Lingnan University developed a human-in-the-loop educational model that foregrounds ethical reasoning, critical judgment, and social responsibility while democratizing [[generative-ai|GenAI]] access. The model positions humans as the locus of judgment and values even as AI is embedded across the [[curriculum-design|curriculum]] — a concrete [[governance|institutional]] instantiation of human-in-the-loop principles in [[higher-ed|higher education]].
+- **Learners as the human-in-the-loop of their own tutoring.** [[ko-hughes-vsd-student-centered-its-2026|Value Sensitive Design]] with community college students produced a full family of learner-facing HITL features for an ITS (control over re-assessment and review, personalized goals/pace, bookmarking for review, confirming confidence over mastery, and an AI-assistance involvement-level control), positioning the student as an active controller of the tutoring loop rather than a passive consumer of adaptive decisions. The study also found instructors divided on whether such learner control could undermine the integrity of the system-guided learning path — an instance of the broader resource-allocation question of where human (learner vs. teacher) judgment adds most value.
 - **Oversight of AI adoption advice.** Because [[conversational-ai|conversational AI]] systems consulted by skeptical users may be predisposed to encourage adoption, human oversight and independent evaluation are essential. An audit showing most frontier models redirect skeptical rural [[k-12]] staff toward [[student-engagement|engagement]] underlines the need for transparent, auditable AI advice rather than uncritical reliance.
 
 ## Connected Concepts
 - [[guardrails]]
-
 - [[formative-assessment]]
 - [[automated-assessment]]
 - [[scaffolding]]
@@ -101,12 +98,12 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[agentic-ai]]
 - [[cognitive-offloading]]
 ## Connected Articles
+- [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (learners in the tutoring loop)
 - [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Relational epistemic agency and criteria for productive reliance vs. harmful dependence (Du & Yuan 2026)
 - [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[ai-communities-of-inquiry-2026]]
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
-
 - [[agentic-ai-education-scoping-review]]
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[ai-changing-teaching-workflows]]
@@ -130,7 +127,6 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
@@ -138,11 +134,9 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
 - [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgement: A Bibliometric Analysis (Mazlan et al. 2026)
-
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
 - [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
 - [[breideband-community-builder-cobi-2026]]
