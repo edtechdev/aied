@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-04T09:30:00-04:00"
+updated: "2026-09-08T02:41:30-04:00"
 type: concept
 tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
 audience: [instructors]
@@ -50,6 +50,7 @@ In-service professional development supports practicing teachers in integrating 
 - **Structured PD for language educators is rare but effective.** A [[li-language-educators-genai-review-2026|systematic review of 23 studies]] (Li et al. 2026) found only three included studies reported structured professional development — an embedded grammar-course module, a government EMI program, and embedded chatbot inquiry — yet all converged on gains in knowledge, confidence, and identity reframing, shifting educators' views of GenAI from "replacement risk" to assistant/augmenter. The review argues PD should pair technical skill-building with practical wisdom, moving from [[ai-literacy|awareness-raising]] and ethics through hands-on tool mastery to co-design of AI-enhanced lessons, and recommends a two-phase "back-end then classroom" implementation strategy.
 - **Post-qualification programs.** In-service science educators' AI literacy and usage inform the design of AI-related post-qualification programs.([[science-educators-ai-literacy-postqualification-2026]])
 
+- **AI support and guidance in teacher design work.** [[pishtari-teacher-ai-training-learning-design-2026|Pishtari, Gnadlinger & Ley (2026)]] had 13 higher-education teachers design activities across no-AI, AI-chatbot, and AI-plus-training conditions in a half-day program. AI access raised higher-order (Bloom) task attainment and cut perceived cognitive effort, while the subsequent interaction-training session plateaued quality but slightly raised effort (germane vs. extraneous load unresolved). It frames PD for AI-era teaching as needing both pedagogy-grounded design frameworks (Bloom, ICAP) and structured chatbot-interaction strategies, while cautioning that quality gains may mask [[cognitive-offloading|offloading]] of pedagogical decisions to AI.
 ### Knowledge, beliefs, and practice
 
 A key finding across teacher-education research is the gap between what teachers *articulate* and what they *enact*: teachers often claim operational AI skills but struggle to apply pedagogically meaningful knowledge in practice.([[teachers-ai-knowledge-genai-lesson-planning-2026]]) The distinction runs even deeper when experience is crossed with AI proficiency: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that technically fluent *novices* still accept AI output passively during lesson design, whereas experienced teachers — even those with lower measured AI proficiency — critically re-prompt and adapt AI suggestions to their students and context. The implication is that in-service PD cannot treat "building AI skill" as sufficient; it must be differentiated by the teacher's experience and proficiency profile — response-evaluation and critical-adaptation scaffolds for novices, hands-on AI skill-building for experienced teachers with weaker AI proficiency. Expert judgment of AI-generated lesson plans marks that critical-adaptation stance as the norm, not the exception: [[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu, Surmeli and Yildirim (2026)]] found eleven Turkish science-education specialists rated ChatGPT-4 and Teacher's Buddy plans for a sixth-grade unit as usable drafts — 7 of 11 judging them "applicable by correction," only 3 directly "Applicable" — and their preferences diverged from raw scores, favoring affective and contextual qualities over structural fidelity. Teacher education should therefore build the ability to evaluate, adapt, and localize AI-generated instructional materials as a core professional competence, in both pre-service and in-service programs. Psychological factors also matter — [[self-efficacy]] positively predicts AI-TPACK, while strong traditional teaching beliefs can act as a cognitive barrier.([[ai-tpack-mathematics-teacher-education-2026]]) [[trust|Trust]] in AI is shaped by both technical knowledge and ethical perceptions (transparency, [[bias-mitigation|fairness]], accountability, inclusiveness).([[intelligent-tpack-ethics-teachers-trust-distrust-2026]]) Measuring teachers' AI literacy is itself an active front: because most AI-literacy assessments target students or general users, the Teachers' AI Literacy Scale (TAILS) — grounded in the six-dimension ED-AI framework — was developed and validated specifically for [[language-learning|preservice language teachers]] through EFA and CFA, filling the measurement gap within teacher education.
@@ -82,11 +83,11 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[pishtari-teacher-ai-training-learning-design-2026]] — AI chatbot support and training in teachers' learning design
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pedagogical AI knowledge as the priority lever for teacher professional learning (Shen et al. 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
-
 - [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
 - [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based professional development framework
 - [[human-centered-ai-teacher-educators-2026]] — Professional learning for critical AI literacy in teacher educators
@@ -105,18 +106,14 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
-
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in science teacher education
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-
 - [[pre-service-science-teachers-ai-perceptions-2026]] — Ghanaian pre-service science teachers' AI perceptions (UTAUT/TPB)
-
 - [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
 - [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
 - [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
-
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)

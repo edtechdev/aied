@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-07T08:25:00-04:00"
+updated: "2026-09-08T02:41:30-04:00"
 type: concept
 tags: [medical-education, higher-ed, simulation, assessment, adaptive-learning, teacher-role]
 discipline: [medical education]
@@ -41,6 +41,8 @@ AI in medical and health-professions education is a growing strand of the knowle
 
 - **AI scoring of open-ended exam questions.** [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] tested whether [[generative-ai|GPT-4]] could reliably score open-ended questions on pre-clerkship [[assessment|assessments]] at two US medical schools. With faculty iteratively refining scoring rubrics across three rounds of error-pattern analysis, AI–faculty inter-rater reliability reached substantial-to-almost-perfect agreement on three of four questions (weighted kappa up to 0.94) but only moderate on the holistic-rubric item (κw = 0.54); discrepancies traced to both raters (GPT-4 over-scoring multiple-answer or rubric-absent-vocabulary responses; faculty being overly generous) and occasional feedback inaccuracies keep [[human-in-the-loop-ai|humans in the loop]]. The authors argue the case for automated OEQ scoring is strengthened because ~82% of US medical schools grade pre-clerkship work pass/fail, where exact AI score agreement is not always required.
 
+- **Evaluating AI teaching agents, not just deploying them.** [[zhang-platform-scores-miss-ai-teaching-agents-2026|Zhang et al. (2026)]] deployed eight LLM teaching agents across four role-play paradigms (patient, student, expert, family member) in an endocrinology curriculum and scored 167 student dialogues with an 8-dimension teaching-quality rubric. Platform scores diverged sharply from rubric quality; agents differed most on knowledge dimensions and least on role enactment; adaptive difficulty calibration was a shared weakness; and strengthening an agent's empathy raised role-play quality without improving knowledge coverage. The finding that role-play paradigms can be separated (beyond the default patient-doctor script) points to designing and evaluating agents against explicit pedagogical dimensions.
+
 ### Why it matters
 
 HPE is a high-stakes, competency-based domain where AI's benefits (scalable practice, adaptive feedback, simulation) must be balanced against risks ([[cognitive-offloading|Over-Reliance]], erosion of hands-on clinical skill, ethical and safety concerns). The knowledge base's general concepts — [[teacher-role]], [[assessment]], [[feedback]], [[equity-in-ai-education]], and [[ethics]] — apply with particular intensity in health professions, where errors carry direct patient consequences.
@@ -70,9 +72,10 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[discipline-specific-aied]]
 
 ## Connected Articles
+- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing students' and faculty AI experiences (TAM; psychosocial support)
+- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 8-dimension rubric evaluation of AI teaching agents in medical education
 - [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, nursing education structural gaps, and the reconstitution of professional identity (Sun et al. 2026)
 - [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
-
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing experiential, situated, and distributed cognition with AI in health-professions education
 - [[residencyrl-clinical-rl-training-2026]] — Reinforcement-learning training for clinical skills in residency
@@ -82,8 +85,6 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing: mixed methods systematic review
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: human-in-the-loop dental radiography instruction (Dong et al. 2026)
-
-
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
