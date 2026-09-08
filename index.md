@@ -1,8 +1,8 @@
 # Index
 
-Last updated: 2026-09-07
+Last updated: 2026-09-08
 
-Articles: 1107 | Concepts: 185 | FAQs: 17
+Articles: 1108 | Concepts: 186 | FAQs: 17
 
 ## Concepts
 
@@ -185,7 +185,7 @@ Articles: 1107 | Concepts: 185 | FAQs: 17
 - [[aivaluate-anxiety-assessment-2026]] — Exploring Student Anxiety and Experience in Performance-Based Assessments Using AIvaluate
 - [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Comparing Expert-Written, AI-Generated, and Interactive AI Dialogue for Heat and Temperature Conceptual Understanding
 - [[alharbi-ethical-genai-eap-2026]] — Ethical Generative AI Integration in English for Academic Purposes within Higher Education: A Mixed-Methods Study
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Beyond 'Painting in Pink'
+- [[all-girls-genai-makerspace-gender-equity-2026]] — Beyond 'Painting in Pink
 - [[alrahmi-org-drivers-ai-adoption-he-2026]] — Exploring Organisational Drivers and Innovation Attributes of Artificial Intelligence Adoption in Higher Education
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming Nursing Education with Artificial Intelligence: A Systematic Review (2010–2025)
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping artificial intelligence integration in higher education: A systematic review using the FACETS and SAMR frameworks
@@ -467,7 +467,7 @@ Articles: 1107 | Concepts: 185 | FAQs: 17
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — It's Like \"X\": How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding in Engineering Education
 - [[english-education]] — English Education (EAP / EFL / ESL)
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement
-- [[enright-staff-perspectives-genai-2026]] — 'AI Should Help Them Learn, Not Learn for Them': University Staff Perspectives on the Role of Generative AI in Education
+- [[enright-staff-perspectives-genai-2026]] — AI Should Help Them Learn, Not Learn for Them': University Staff Perspectives on the Role of Generative AI in Education
 - [[ensemble-cognition-philosophy-ai-education]] — Towards a philosophy of ensemble cognition: Reconceptualising agency and mind in AI-mediated educational environments
 - [[epistemic-emotions-collaborative-problem-solving]] — Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
@@ -1232,7 +1232,9 @@ Articles: 1107 | Concepts: 185 | FAQs: 17
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The Hidden Cost of Disclosure: A Multi-institutional Study on Undergraduate Students' Generative AI Usage and Faculty Accusations
 - [[vetting-dual-llm-safety-education]] — VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI
+- [[vibe-coding]] — Vibe Coding and Natural-Language Programming
 - [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
+- [[vibe-coding-writing-cs-achievement-2026]] — Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency
 - [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking
 - [[videla-embodied-ai-education-choreography]] — \"If You Can't Dance Your Program, You Can't Write It\": Challenges and Implications for AI in Education

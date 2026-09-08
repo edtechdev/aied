@@ -1,7 +1,7 @@
 ---
 title: Technologies
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-08T01:40:00-04:00"
 type: concept
 tags: [ai-technologies, generative-ai, llm, rag, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, prompt-engineering, agentic-ai]
 confidence: high
@@ -63,6 +63,7 @@ The technical strand is inseparable from the knowledge base's other themes:
 - [[educational-robotics]]
 - [[agentic-ai]]
 - [[prompt-engineering]]
+- [[vibe-coding]]
 - [[rag]]
 - [[pedagogical-llm-training]]
 - [[ai-ed-evaluation]]
