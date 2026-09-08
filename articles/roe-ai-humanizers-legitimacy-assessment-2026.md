@@ -1,7 +1,7 @@
 ---
 title: "Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-08-28T14:30:00-04:00"
+updated: "2026-09-08T01:59:05-04:00"
 type: article
 tags: [academic-integrity, ai-detection, assessment-validity, higher-ed, generative-ai, reducing-ai-misuse, ai-misuse-learning-harm, ethics]
 research_method: [qualitative, interviews]
@@ -48,6 +48,7 @@ confidence: high
 
 ## Connected Articles
 
+- [[karr-ai-detection-humanization-2026]] — Why AI Detection Fails for Academic Integrity: quantifies humanizer evasion (FNR >96%)
 - [[bassett-ai-detectors-education-2026]] — Heads We Win, Tails You Lose: AI Detectors in Education
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond Detection: How Students Use—and Hide—AI in Online Assessments and What Authentic Tasks Can Do About It
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World

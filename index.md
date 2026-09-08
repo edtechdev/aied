@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-08
 
-Articles: 1108 | Concepts: 186 | FAQs: 17
+Articles: 1109 | Concepts: 186 | FAQs: 17
 
 ## Concepts
 
@@ -676,6 +676,7 @@ Articles: 1108 | Concepts: 186 | FAQs: 17
 - [[k-12]] — K-12
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Affective Math Tutoring
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]] — Suitability of Artificial Intelligence Supported Lesson Plans from the Perspective of Science Education Experts
+- [[karr-ai-detection-humanization-2026]] — Why AI Detection Fails for Academic Integrity
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning in the artificial intelligence era: an updated systematic review from 2019 to 2025
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive Generative AI for Visually Impaired Learners: Personalization and Inclusion in Higher Education
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — The Intersection of Artificial Intelligence and Instructional Design Practice: A Systematic Review
