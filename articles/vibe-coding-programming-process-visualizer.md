@@ -1,7 +1,7 @@
 ---
 title: 'From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs'
 created: "2026-07-30T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-08T01:40:00-04:00"
 type: article
 tags: [stem-education, higher-ed, teacher-role, learning-analytics, academic-integrity, edtech-platform, adaptive-learning, student-experience, personalized-learning, ai-literacy, visualization]
 research_method: [system development, case study]
@@ -20,6 +20,7 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 
 ## Connected Concepts
 
+- [[vibe-coding]]
 - [[automated-assessment]]
 - [[personalized-learning]]
 - [[student-experience]]
@@ -36,6 +37,7 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 
 ## Connected Articles
 
+- [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
 - [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
