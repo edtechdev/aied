@@ -4,7 +4,7 @@ Last updated: 2026-09-08 | Total entries: 1294
 
 ## 2026-09-08
 - 📄 [[vibe-coding-writing-cs-achievement-2026]] — Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency
-- 📘 [[vibe-coding]] — Vibe Coding and Natural-Language Programming
+- 📘 [[vibe-coding]] — Vibe Coding
 
 ## 2026-09-07
 - 📘 [[explainable-ai]] — Explainable AI
