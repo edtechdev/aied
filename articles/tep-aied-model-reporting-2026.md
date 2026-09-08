@@ -36,8 +36,8 @@ The TEP-AIED model addresses a core challenge in [[research-methods-aied]]: exis
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
-- [genai-higher-education-systematic-review-2026] — systematic review of GenAI in higher education
-- [access-not-enough-ai-tutoring-2026] — randomized field study of human support plus AI tutoring
+- [[genai-higher-education-systematic-review-2026]] — systematic review of GenAI in higher education
+- [[access-not-enough-ai-tutoring-2026]] — randomized field study of human support plus AI tutoring
 
 ## Citation
 Hwang, G.-J., Xie, H., Wah, B. W., & Gasevic, D. (2026). [Presenting your AI in education research with rigor: The TEP-AIED model](https://doi.org/10.1016/j.caeai.2026.100598). *Computers and Education: Artificial Intelligence, 10*, 100598.

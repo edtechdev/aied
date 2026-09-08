@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 186 concepts, 1117 articles, and 17 FAQs.
+> Complete text of 186 concepts, 1118 articles, and 17 FAQs.
 
 # Concepts
 
@@ -9015,9 +9015,9 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - **Graph-based ITS for dynamic domains.** [[graph-its-adaptive-algorithms-2026|A graph-based intelligent tutoring system]] combines an Evolving Knowledge Space Graph with [[generative-ai|generative AI]] content creation and Bayesian knowledge propagation — which showed the highest knowledge gains — supporting adaptive learning in dynamic curricula.
 - **Rule-integrated LLM tutoring for procedural domains.** Looi, Liu, and Sun (2026) tackle the inconsistency and pedagogical opacity of LLM tutors in primary [[math-education|mathematics]] through a design science study of a rule-guided system organized around a three-layer architecture — *diagnosis → intent selection → constrained response generation*. They formalize the distinction between **rule-guided scaffolding** (governed by auditable, replicable rules) and **ad-hoc scaffolding** (helpful moves difficult to audit or replicate). Evaluated via persona-based simulated dialogues and a classroom pilot with 40 Grade 5 students, rule-guided scaffolding improved interactional consistency, reduced premature answer-giving and early closure, and sustained cognitive engagement — while the classroom pilot surfaced interactional complexities, fragmented inputs, and attentional fluctuations that [[simulation]] missed. This is a concrete blueprint for [[guardrails|guardrailing]] [[llm|LLM]] tutors in well-defined procedural domains.
 - **Multi-agent tutoring and [[automated-assessment|automated assessment]].** Multi-agent tutoring systems are being benchmarked with synthetic, trace-based evaluation. ASTRA supports alone-tutor, pair-tutor, and pair-multiagent configurations with socially differentiated agents, enabling reproducible analysis of interaction and participation balance in introductory programming. In parallel, context-aware prompting automates coding of [[collaborative-learning|collaborative problem-solving]] skills from process data, supporting large-scale tutoring assessment.
+- **Design with the learner's values, not just for learner performance.** [[ko-hughes-vsd-student-centered-its-2026|Value Sensitive Design work]] with community college students and instructors in developmental math shows that the ethical dimensions of ITS are not separable add-ons: engaging students and instructors directly produced 16 value-aligned features spanning [[explainable-ai|explainability]] (comprehension-check interpretation, learning-path connection, communicating the model's confidence), [[human-in-the-loop-ai|learner control]] (control over re-assessment, review, pace, and AI-assistance level), and [[privacy]] (data-repurposing control, permission prompts for sharing learning analytics and [[affective-computing|affective]] states). The study frames a persistent design tension — [[agency|student agency]] vs. system-guided scaffolding — and notes that most institutions disable adaptive tutoring entirely, so value-informed design also depends on how (and whether) ITS AI capabilities are actually deployed.
 
 ## Connected Concepts
-
 - [[scaffolding]]
 - [[adaptive-learning]]
 - [[cognitive-diagnosis]]
@@ -9039,6 +9039,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[k-12]]
 
 ## Connected Articles
+- [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS in community college developmental math
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
@@ -9077,7 +9078,6 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evidence on AI tutoring (~0.12 sd)
 - [[liu-emerging-tech-tefl-review-2026]] — ITS among EFL emerging technologies
-
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
@@ -9646,14 +9646,12 @@ Kim, Baek, and Kwak (2026) extend HITL to [[video-education|AI-generated instruc
 ## Why HITL matters in the AI era
 
 Human-in-the-loop design has become central to the knowledge base's [[agentic-ai|agentic AI]] and [[reducing-ai-misuse|responsible AI use]] discussions for several converging reasons:
-
 - **Pedagogical safety.** [[pedagogical-safety]] requires that AI with real instructional authority retains human oversight, so errors, biases, or harmful outputs are caught before they reach learners. This is especially important for autonomous agents that [[agentic-ai|proactively pursue goals]].
 - **Validity and quality control.** HITL is a quality gate for [[automated-assessment|automated assessment]] and generation — humans adjudicate where automated scoring is unreliable (see [[llms-do-not-grade-essays-like-humans-2026|LLM essay grading]] [[research-methods-aied|research]]) and validate generated items. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 grading and feedback studies (2023–2025) reaches the same conclusion explicitly: LLMs match human raters on short, well-structured tasks but cannot fully replace human judgment on complex, open-ended, or subjective work, and the highest grading effectiveness is achieved in hybrid systems that combine AI-driven grading with teacher oversight and verification ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] show concretely where that boundary falls: ChatGPT-5 matched faculty on objective pharmacy-exam items (CCC 0.935–1.000) but was unreliable on short-answer and essay items even when given a rubric, leading the authors to recommend hybrid grading with human review for complex, subjective, or high-stakes assessment.
 - **Learner agency.** Keeping a human in the loop preserves [[agency]] and supports [[self-regulated-learning]], countering the [[cognitive-offloading|over-reliance]] that fully autonomous assistance can induce.
 - **Trust and calibration.** Transparent human oversight supports [[trust-calibration]] — learners and instructors know a qualified human stands behind the system.
 
 ## Where HITL appears in the knowledge base's research
-
 - **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[cong-confidence-asag-2026]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and essay scoring ([[psyscore-essay-scoring-zpd-feedback]]). [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] instantiate this in high-stakes, handwritten general-[[chemistry-education|chemistry]] grading: because a [[multimodal]] LLM's reliability varies by response format (textual and chemical-reaction answers are reliable while drawing and graphing score worse than random) and false positives go undetected by students, they convert raw AI scores into a selective accept/deferral policy using confidence filters — partial-credit thresholds, an [[item-response-theory|IRT]]-based risk threshold, and problem-type exclusion — deferring uncertain and graphical items to humans, an approach the authors tie to [[regulation|regulatory]] frameworks that designate AI in educational assessment as high-risk and mandate documented human oversight.
 - **Feedback systems:**mandate documented human oversight.
 - **Operational HITL scoring in a national assessment (2026):** [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026|Curi et al. (2026)]] instantiate HITL at institutional scale in Uruguay's Acredita EB exam. Because the LLM scorer's errors are systematically conservative (under-grading), the workflow uses a decision-point logic that routes human review to exactly the candidates whose pass/fail outcome depends on the Writing section — AI-marked passing responses are accepted with confidence, while AI-marked failures (15.3–16.5% of cases) are verified by expert raters, cutting full-scoring workload by ≥50% with a residual AI-error pass risk of only 0.2–0.6%. This is HITL as a resource-allocation strategy: humans adjudicate precisely where AI's conservative bias would otherwise alter high-stakes outcomes.
@@ -9665,14 +9663,13 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 ## Synthesis
 
 Human-in-the-loop design is not merely a safety measure—it is a **resource-allocation strategy**. The frontier question is not *whether* to include humans, but *where* in the pipeline their judgment has highest marginal value. The most effective HITL systems concentrate scarce human expertise where automated systems are weakest (distractor design, explanatory feedback, edge-case adjudication, ethical judgment) and automate the rest — preserving quality, safety, and trust while scaling production.
-
 - **Human oversight persists in AI-assisted work.** [[scaffolding-systematic-reviews-2026|Systematic-review research]] found AI automation tools reduced procedural burdens (e.g. screening) but interpretive decisions still required substantial human oversight; [[kim-ai-andragogy-2026|andragogy research]] makes human-in-the-loop (shared mental models, co-creation) a core AI design principle.
 - **Human-in-the-loop at institutional scale.** Qin (2026) describes how Lingnan University developed a human-in-the-loop educational model that foregrounds ethical reasoning, critical judgment, and social responsibility while democratizing [[generative-ai|GenAI]] access. The model positions humans as the locus of judgment and values even as AI is embedded across the [[curriculum-design|curriculum]] — a concrete [[governance|institutional]] instantiation of human-in-the-loop principles in [[higher-ed|higher education]].
+- **Learners as the human-in-the-loop of their own tutoring.** [[ko-hughes-vsd-student-centered-its-2026|Value Sensitive Design]] with community college students produced a full family of learner-facing HITL features for an ITS (control over re-assessment and review, personalized goals/pace, bookmarking for review, confirming confidence over mastery, and an AI-assistance involvement-level control), positioning the student as an active controller of the tutoring loop rather than a passive consumer of adaptive decisions. The study also found instructors divided on whether such learner control could undermine the integrity of the system-guided learning path — an instance of the broader resource-allocation question of where human (learner vs. teacher) judgment adds most value.
 - **Oversight of AI adoption advice.** Because [[conversational-ai|conversational AI]] systems consulted by skeptical users may be predisposed to encourage adoption, human oversight and independent evaluation are essential. An audit showing most frontier models redirect skeptical rural [[k-12]] staff toward [[student-engagement|engagement]] underlines the need for transparent, auditable AI advice rather than uncritical reliance.
 
 ## Connected Concepts
 - [[guardrails]]
-
 - [[formative-assessment]]
 - [[automated-assessment]]
 - [[scaffolding]]
@@ -9691,12 +9688,12 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[agentic-ai]]
 - [[cognitive-offloading]]
 ## Connected Articles
+- [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (learners in the tutoring loop)
 - [[human-in-the-loop-ai-assisted-scoring-spanish-writing-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Relational epistemic agency and criteria for productive reliance vs. harmful dependence (Du & Yuan 2026)
 - [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[ai-communities-of-inquiry-2026]]
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
-
 - [[agentic-ai-education-scoping-review]]
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[ai-changing-teaching-workflows]]
@@ -9720,7 +9717,6 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
@@ -9728,11 +9724,9 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
 - [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgement: A Bibliometric Analysis (Mazlan et al. 2026)
-
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
 - [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
 - [[breideband-community-builder-cobi-2026]]
@@ -18103,7 +18097,7 @@ The distinction matters because they serve different stakeholders and different 
 
 ## Who needs explanations: multi-stakeholder design
 
-- **Learners** need explanations that support their own learning and self-regulation — why a hint was given, why their answer was marked incorrect, why this resource is recommended (supporting [[self-regulated-learning]]). The [[who-should-grade-my-work-ai-writing-assessment-2026|student-perspective evidence]] shows learners draw a sharp line between accepting AI *feedback* (useful for revision) and ceding *grading authority* (reserved for the human instructor) — a calibrated, function-matched stance activated by transparency about AI involvement.
+- **Learners** need explanations that support their own learning and self-regulation — why a hint was given, why their answer was marked incorrect, why this resource is recommended (supporting [[self-regulated-learning]]). The [[who-should-grade-my-work-ai-writing-assessment-2026|student-perspective evidence]] shows learners draw a sharp line between accepting AI *feedback* (useful for revision) and ceding *grading authority* (reserved for the human instructor) — a calibrated, function-matched stance activated by transparency about AI involvement. [[ko-hughes-vsd-student-centered-its-2026|Value-sensitive design work with community college students]] sharpens the point: students preferred *collaborative, humanized* explanations (e.g., "the AI might be uncertain here, so let's check this together") over raw model confidence or technical transparency, because transparency alone has little value unless it directly supports their learning. The study surfaced a transparency-vs.-interpretability tension that pushes explanation design toward learner-facing semantics rather than feature-importance output.
 - **Teachers** need explanations that inform intervention — which students are at risk and *why*, on what evidence. [[xai-teachers-trust-edtech-recommendations-2026|Explainability studies with teachers]] show [[discipline-specific-aied|domain-specific]], [[curriculum-design|curricular]]-language explanations build acceptance and calibrated trust more effectively than generic feature-importance ones, yet teachers still want real classroom experience before full reliance — explanation alone does not confer [[trust-calibration|calibration]].
 - **Developers and researchers** need explanations to debug model behavior and detect [[bias-mitigation|bias]] — surfacing which features drive predictions.
 - **Administrators and policymakers** need explanations for accountability, [[privacy]], and [[regulation]] compliance (e.g. the right to explanation), and to audit whether AI-driven decisions are fair and [[equity-in-ai-education|equitable]].
@@ -18131,7 +18125,6 @@ A recurring lesson across the evidence: **having an explanation is not enough**;
 Explanation quality also has an equity dimension: an explanation that is technically present but unreadable to a given stakeholder — or that obscures the [[bias-mitigation|bias]] in a prediction — fails its purpose. This is why the design question is *quality and fit*, and why human-centred, stakeholder-specific explanation design is inseparable from the technical generation of explanations. Effective XAI is a communication act designed for the recipient's cognitive needs, not merely a technical artifact.
 
 ## Connected Concepts
-
 - [[trust-calibration]]
 - [[trust]]
 - [[ai-literacy]]
@@ -18150,7 +18143,7 @@ Explanation quality also has an equity dimension: an explanation that is technic
 - [[regulation]]
 
 ## Connected Articles
-
+- [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (collaborative vs. raw explanations)
 - [[xai-education-framework]] — XAI-ED: the foundational framework for explainable AI in education (Khosravi et al. 2022)
 - [[xai-teachers-trust-edtech-recommendations-2026]] — Domain-specific explanations build teachers' trust and acceptance (Feldman-Maggor et al. 2025)
 - [[who-should-grade-my-work-ai-writing-assessment-2026]] — Student perspectives on transparent AI-assisted assessment (AlGhamdi 2026)
@@ -49558,6 +49551,44 @@ Fang, M., & Reidsma, D. (2026). [*From Confusion to Consolidation: A Staged Conv
 
 ---
 
+## [Value-Sensitive Design in Action: Designing Student-Centered Intelligent Tutoring Systems with Community College Students and Instructors](https://edtechdev.github.io/aied/articles/ko-hughes-vsd-student-centered-its-2026/)
+
+> **Synthesis:** Ko and Hughes (2026) apply Value Sensitive Design (VSD) to the design of student-centered [[intelligent-tutoring|intelligent tutoring systems]] (ITS). Working with community college students, instructors, instructional designers, and field experts (developers and data scientists), they ran the VSD cycle of conceptual, empirical, and technical investigations and produced a value-oriented prototype. The work documents how learners and instructors -- a stakeholder group historically left out of learning-platform design -- articulate values, surfacing persistent value tensions (transparency vs. interpretability, privacy vs. instructional insight, [[agency|student agency]] vs. system-guided [[scaffolding]]) that designers must manage rather than resolve.
+
+**Relevance to [[ai-education|AI in Education]]:** This study is a concrete example of [[human-in-the-loop-ai|human-centered]] design practice for [[ai-ed-evaluation|AIED]]: it operationalizes how [[ethics]] values can be built into an ITS from the outset (rather than retrofitted), and it directly addresses the privacy, [[explainable-ai|explainability]], and autonomy concerns raised by data-intensive tutoring platforms -- in the specific, often-overlooked context of developmental [[math-education|mathematics]] at a community college where adaptive tutoring drives the entire course.
+
+## Key Findings
+
+- **16 value-aligned design features across three families.** The final prototype (Step 7) integrated explainable AI features (E1-E5: comprehension-check interpretation, setting expectations on the [[learning-theories|learning science]] behind the ITS, practice-question selection details, concept and learning-path connection, communicating the AI's confidence level), human-in-the-loop features (H1-H9: student control over re-assessment, review, personalized goals/pace, bookmarking, confirming confidence over mastery, personalized support after long answer times or accuracy declines, feedback to the ITS, communicating receipt of external help, and AI-assistance involvement-level control), and privacy-control features (P1-P4: learning-data repurposing control, permission to share [[learning-analytics|learning analytics]], permission to share [[affective-computing|affective]] states, and privacy-level control).
+- **Value tensions shaped every design decision.** Rather than treating transparency, privacy, and agency as independent requirements, the study found them in tension: students preferred *collaborative/humanized* explanations over raw model transparency (transparency alone has little value unless it supports learning); sharing emotional/affective analysis with instructors was controversial among both students and instructors; and opinions on privacy settings split along student/instructor lines (students wanted control, instructors wanted visibility to support learning).
+- **The historically overlooked stakeholder.** The paper argues students and instructors are rarely included in designing the AI learning platforms they use, and most studies do not clearly explain how values such as [[bias-mitigation|fairness]], transparency, or autonomy are built in. Here, direct engagement of these stakeholders produced value-rich design inputs (needs, pain points, value tensions) that were mapped through the VSD process into concrete technical features.
+- **Context-specificity is explicit.** Findings are context-bound to a single institution that is unusual in fully utilizing its ITS's adaptive/AI capabilities in developmental math (most U.S. community colleges disable adaptive tutoring and use the ITS mainly as a question bank) -- and to adult, returning students (many with multi-year gaps from schooling). This is a strength for authenticity but limits generalizability.
+- **VSD is a viable, structured route for human-centered AIED design.** The study demonstrates the full VSD cycle (conceptual investigations of stakeholders/values, empirical investigations of activity and value tensions, technical investigations of value-aligned features) can be applied in education, extending VSD beyond its prior mainly-HCI applications and addressing the gap between AI-ethics *problem identification* and actionable *solution creation*.
+
+## Connected Concepts
+
+- [[intelligent-tutoring]]
+- [[explainable-ai]]
+- [[human-in-the-loop-ai]]
+- [[privacy]]
+- [[agency]]
+- [[ethics]]
+- [[stakeholders]]
+- [[design-based-research]]
+- [[human-ai-collaboration]]
+
+## Connected Articles
+
+- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: pedagogical safety guardrails for tutoring
+- [[making-ai-tutoring-productive-mastery-math-2026]] — design of productive AI math tutoring
+- [[zhang-tutormoments-2026]] — context-appropriateness of tutor help (scaffolding vs. rigor)
+
+## Citation
+
+Ko, E. G., & Hughes, J. E. (2026). [Value-sensitive design in action: Designing student-centered intelligent tutoring systems with community college students and instructors](https://doi.org/10.1016/j.caeai.2026.100560). *Computers and Education: Artificial Intelligence, 10*, 100560.
+
+---
+
 ## [The Impact of Generative AI on Academic Integrity of Authentic Assessments Within a Higher Education Context](https://edtechdev.github.io/aied/articles/kofinas-generative-ai-authentic-assessment-integrity-2025/)
 
 > **Synthesis:** Kofinas, Tsay, and Pike (2025) ran a series of experiments across two UK universities in which experienced academic markers judged human-authored, [[generative-ai|GenAI]]-modified, and GenAI-generated assessments. They found that markers generally could not distinguish assessments with GenAI input from those without, that the presence of GenAI nonetheless affected how markers approached marking, and that the level of authenticity in an assessment had no impact on the ability to safeguard against or detect GenAI use. The authors conclude that current assessment approaches are susceptible to GenAI manipulation and that **authentic assessments alone cannot protect [[academic-integrity|academic integrity]]**; the focus must shift to assessment design favouring process-based, performative, and synchronous interpersonal forms.
@@ -70428,8 +70459,8 @@ The TEP-AIED model addresses a core challenge in [[research-methods-aied]]: exis
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
-- [genai-higher-education-systematic-review-2026] — systematic review of GenAI in higher education
-- [access-not-enough-ai-tutoring-2026] — randomized field study of human support plus AI tutoring
+- [[genai-higher-education-systematic-review-2026]] — systematic review of GenAI in higher education
+- [[access-not-enough-ai-tutoring-2026]] — randomized field study of human support plus AI tutoring
 
 ## Citation
 Hwang, G.-J., Xie, H., Wah, B. W., & Gasevic, D. (2026). [Presenting your AI in education research with rigor: The TEP-AIED model](https://doi.org/10.1016/j.caeai.2026.100598). *Computers and Education: Artificial Intelligence, 10*, 100598.
