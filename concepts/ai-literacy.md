@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-07T10:15:00-04:00"
+updated: "2026-09-08T09:07:05-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, educational-development, academic-integrity]
 audience: [faculty development, instructors, learners]
@@ -42,6 +42,8 @@ Frameworks increasingly trace how these dimensions are enacted in practice: [[da
 ### How AI literacy is developed
 
 Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] position AI literacy as more than applied skill: in their AI×Ed framework the learner is a distinct end user of AI (accessed through AI literacy and AI education), and they argue for renewed AI-literacy work that encourages reflection on learning itself — treating literacy as a route back into "AI as an analogy to human intelligence" research on how people learn, a strand the field largely abandoned. The [[icap-framework|ICAP framework]] (Interactive → Constructive → Active → Passive) provides a useful taxonomy of cognitive engagement: students learn AI literacy best when they co-construct knowledge rather than passively receive information. Designers should select the mode that fits the learning goal and favor the deeper (constructive and interactive) modes where possible. Practical activities — designing prompts, evaluating outputs in groups, debating AI [[ethics]] — outperform lectures.
+
+**AI intuition as the experiential complement to literacy.** A recurring gap is that K-12 frameworks assume learners approach AI through declarative, rule-based knowledge, when in practice they first develop a practical "feel" for how AI responds — experimenting with prompts, observing behaviour, adapting strategies — before they can articulate formal principles. [[ai-intuition-ai-literacy-k12-2026|Beau & Lazar (2026)]] formalise this as **AI intuition**: an experiential, inductive, often tacit understanding that develops through iterative interaction with AI systems and supports context-sensitive judgement under uncertainty. Their **dual framework** situates AI literacy (structured, largely static competencies) alongside AI intuition (a dynamic learning process), mapping both across the standard dimensions — understand concepts, use tools, evaluate critically, apply ethically, reflect — so learners combine conceptual clarity and guardrails (literacy) with the practical wisdom to trust-but-verify and decide when to disengage (intuition). Because intuition cultivates "expert observation" of AI (e.g. stress-testing prompts to find where a model fails), the authors argue it is a safeguard against [[cognitive-offloading|over-reliance]] and critical-thinking erosion; it is distinct from [[prompt-engineering]] (which optimises outputs) in foregrounding *epistemic judgement*. This connects literacy to [[experiential-learning]], [[constructivist|constructivism]], and developmentally grounded classroom practice, and points teacher preparation toward facilitating inductive exploration rather than only delivering concepts.
 
 **Motivation is a precondition, not just an outcome.** [[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]] found, across 2,086 secondary students in a year-long AI curriculum, that students who transitioned into or remained in a *Self-Determined* [[motivation|motivational]] profile (high autonomy, competence, and relatedness need satisfaction) showed the **greatest AI-literacy gains**. AI literacy develops through sustained engagement, and that engagement is itself shaped by motivation and psychological-need support — so effective AI-literacy instruction should attend to learners' motivation, not only their skills.
 
@@ -142,6 +144,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[higher-ed]] — university-level literacy
 
 ## Connected Articles
+- [[ai-intuition-ai-literacy-k12-2026]] — dual framework of AI literacy and experiential AI intuition for K-12
 - [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines
 - [[san-orhan-karsak-ai-cognition-micro-credentials-2026]] — Word Association Mapping of Student AI Cognition and Evidence-Based Micro-Credential Design
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
