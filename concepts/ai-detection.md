@@ -1,7 +1,7 @@
 ---
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-04T04:39:00-04:00"
+updated: "2026-09-08T01:59:05-04:00"
 type: concept
 tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, cognitive-offloading, assessment, educational-policy-ai, llm, assessment-validity, equity-in-ai-education]
 audience: [learners]
@@ -42,6 +42,7 @@ Research consistently cautions against standalone reliance on detection:
 - **Validity and fairness failures:** detection tools can be biased against non-native writers, producing false positives that unfairly penalize students, a concern connecting to [[bias-mitigation]] and [[equity-in-ai-education]].
 - **Notable error rates and trust erosion:** unreliable detection undermines student [[trust]] and the integrity of the assessment process.
 - **Task-dependence:** as the self-detection study shows, accuracy varies sharply by task type, so no single detector is dependable across all assessments.
+- **The integrity catch-22, quantified.** [[karr-ai-detection-humanization-2026|A controlled study of 642 published abstracts (Karr et al. 2026)]] shows the policy failure is not just conceptual but measured: guideline-compliant light AI editing is flagged at 38–80%, unmodified recent originals at 9–15% (non-STEM far above STEM), and humanizer-assisted AI text evades detection in >96% of cases. Because detectors key on surface style (long-token and academic-word density) rather than authorship intent, honest AI assistance draws sanction while deliberate humanizer evasion escapes — the authors argue detector scores should never be standalone misconduct evidence.
 
 ## Why not to use (or try to use) AI detectors
 
