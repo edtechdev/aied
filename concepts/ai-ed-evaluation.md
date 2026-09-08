@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-08T02:41:30-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop-ai, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 research_method: [benchmark, educational measurement]
@@ -62,6 +62,7 @@ A central object of AI-ed evaluation is the **learning gain** — the measurable
 - **Disaggregates by learner and context.** Because [[learning-gains]] vary by population, domain, and AI configuration, evaluation should report gains for different student subgroups (e.g., by prior proficiency, as [[drawedumath-vlm-struggling-students-2026|VLM evaluations]] reveal for error status) rather than a single aggregate, and should connect gain findings to [[meta-analysis-systematic-review]] to situate them in the wider evidence base.
 
 Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al. (2026)]] argue that prior tutoring benchmarks (MathTutorBench, MRBench, LearnLM) reward one side of the assistance dilemma or give underspecified guidance. TutorMoments instead replays teacher-identified pedagogical decision points, evaluating whether a tutor's help is appropriate to the specific learning moment — scaffolding vs. rigor.
+- **The metric you choose can reverse your conclusions.** [[zhang-platform-scores-miss-ai-teaching-agents-2026|Zhang et al. (2026)]], evaluating AI teaching agents in medical education, found that an educational platform's undisclosed aggregate scores ranked agents nearly opposite to a transparent, expert-validated 8-dimension teaching-quality rubric (medical knowledge accuracy, pedagogical guidance, knowledge coverage, role-play quality, adaptive difficulty, medical safety, engagement, feedback). Platform scores index student performance; the rubric indexes agent teaching behavior -- choosing the wrong metric determines which agents get adopted or refined. They also found LLM-as-evaluator leniency differs by model (some too lenient to discriminate), so automated scoring needs human calibration and is most trustworthy on cognitive-process dimensions.
 
 ## Connected Concepts
 
@@ -82,6 +83,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[intelligent-tutoring]] — Evaluating AI tutoring systems
 - [[agentic-ai]] — Evaluating autonomous AI agent behavior
 ## Connected Articles
+- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — What platform scores miss: multidimensional evaluation of AI teaching agents
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
@@ -112,7 +114,6 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
 - [[elbench-education-llm-benchmark-2026]] — ELBench: education LLM benchmark
 - [[teaching-monster-pck-benchmark-2026]] — Teaching Monster: PCK benchmark
-
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evaluation of adaptive + AI EdTech

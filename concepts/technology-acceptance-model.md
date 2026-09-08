@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-08T02:41:30-04:00"
 type: concept
 tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied]
 research_method: [research methods]
@@ -61,6 +61,8 @@ Adoption models are applied across the knowledge base to model student and [[tea
 
 While adoption models are effective for predicting uptake, they are less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in [[higher-ed|higher education]] increasingly note that TAM alone is insufficient, [[prompt-engineering|prompting]] integration with UTAUT, TPB, and Self-Determination Theory, and the addition of post-adoption constructs such as critical use, reliance, and evaluative judgment. The result is a measured, multidimensional picture of adoption: context matters ([[global-south|Global South]] vs. resourced institutions — see [[nguyen-genai-global-south-review-2026|Nguyen & Perkins]]), disciplinary background shapes acceptance, and person-centered methods reveal hidden heterogeneity that linear models miss.
 
+
+TAM's cognitive focus also under-captures emotional and relational dimensions of AI use. A [[akbaba-nursing-ai-experiences-tam-2026|qualitative study of nursing students and faculty]] found that, alongside the four classic TAM constructs, participants -- mainly students -- described AI as a source of psychosocial support: emotional comfort during stress and a confidential space for reflection. This extends perceived usefulness beyond performance gains to well-being in high-stress professional training, suggesting adoption models should attend to affective and psychosocial factors, not only instrumental utility.
 ## Connected Concepts
 
 - [[business-education]]
@@ -78,12 +80,12 @@ While adoption models are effective for predicting uptake, they are less well su
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing AI experiences; psychosocial extension of TAM
 - [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' behavioral intention to use AI via extended TAM (Duan, Shan & Gong 2026)
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
 - [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption (UTAUT3 + ARCS)
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential GenAI engagement by gender and motivation
-
 - [[alrahmi-org-drivers-ai-adoption-he-2026]] — TOE + DOI model of organizational AI adoption in higher education
 - [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
 - [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model (TAM + UTAUT) for engineering education
@@ -94,10 +96,8 @@ While adoption models are effective for predicting uptake, they are less well su
 - [[genai-chatgpt-adoption-ethics-students-2026]] — Behavioral and ethical drivers of student ChatGPT adoption
 - [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT and teacher chatbot motivation
 - [[amponsah-ai-acceptance-science-teachers-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
-
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
 - [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT
-
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education

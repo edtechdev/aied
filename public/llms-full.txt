@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 186 concepts, 1109 articles, and 17 FAQs.
+> Complete text of 186 concepts, 1113 articles, and 17 FAQs.
 
 # Concepts
 
@@ -11227,6 +11227,8 @@ AI in medical and health-professions education is a growing strand of the knowle
 
 - **AI scoring of open-ended exam questions.** [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] tested whether [[generative-ai|GPT-4]] could reliably score open-ended questions on pre-clerkship [[assessment|assessments]] at two US medical schools. With faculty iteratively refining scoring rubrics across three rounds of error-pattern analysis, AI–faculty inter-rater reliability reached substantial-to-almost-perfect agreement on three of four questions (weighted kappa up to 0.94) but only moderate on the holistic-rubric item (κw = 0.54); discrepancies traced to both raters (GPT-4 over-scoring multiple-answer or rubric-absent-vocabulary responses; faculty being overly generous) and occasional feedback inaccuracies keep [[human-in-the-loop-ai|humans in the loop]]. The authors argue the case for automated OEQ scoring is strengthened because ~82% of US medical schools grade pre-clerkship work pass/fail, where exact AI score agreement is not always required.
 
+- **Evaluating AI teaching agents, not just deploying them.** [[zhang-platform-scores-miss-ai-teaching-agents-2026|Zhang et al. (2026)]] deployed eight LLM teaching agents across four role-play paradigms (patient, student, expert, family member) in an endocrinology curriculum and scored 167 student dialogues with an 8-dimension teaching-quality rubric. Platform scores diverged sharply from rubric quality; agents differed most on knowledge dimensions and least on role enactment; adaptive difficulty calibration was a shared weakness; and strengthening an agent's empathy raised role-play quality without improving knowledge coverage. The finding that role-play paradigms can be separated (beyond the default patient-doctor script) points to designing and evaluating agents against explicit pedagogical dimensions.
+
 ### Why it matters
 
 HPE is a high-stakes, competency-based domain where AI's benefits (scalable practice, adaptive feedback, simulation) must be balanced against risks ([[cognitive-offloading|Over-Reliance]], erosion of hands-on clinical skill, ethical and safety concerns). The knowledge base's general concepts — [[teacher-role]], [[assessment]], [[feedback]], [[equity-in-ai-education]], and [[ethics]] — apply with particular intensity in health professions, where errors carry direct patient consequences.
@@ -11256,9 +11258,10 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[discipline-specific-aied]]
 
 ## Connected Articles
+- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing students' and faculty AI experiences (TAM; psychosocial support)
+- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 8-dimension rubric evaluation of AI teaching agents in medical education
 - [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, nursing education structural gaps, and the reconstitution of professional identity (Sun et al. 2026)
 - [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
-
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing experiential, situated, and distributed cognition with AI in health-professions education
 - [[residencyrl-clinical-rl-training-2026]] — Reinforcement-learning training for clinical skills in residency
@@ -11268,8 +11271,6 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing: mixed methods systematic review
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: human-in-the-loop dental radiography instruction (Dong et al. 2026)
-
-
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
@@ -11853,6 +11854,7 @@ In-service professional development supports practicing teachers in integrating 
 - **Structured PD for language educators is rare but effective.** A [[li-language-educators-genai-review-2026|systematic review of 23 studies]] (Li et al. 2026) found only three included studies reported structured professional development — an embedded grammar-course module, a government EMI program, and embedded chatbot inquiry — yet all converged on gains in knowledge, confidence, and identity reframing, shifting educators' views of GenAI from "replacement risk" to assistant/augmenter. The review argues PD should pair technical skill-building with practical wisdom, moving from [[ai-literacy|awareness-raising]] and ethics through hands-on tool mastery to co-design of AI-enhanced lessons, and recommends a two-phase "back-end then classroom" implementation strategy.
 - **Post-qualification programs.** In-service science educators' AI literacy and usage inform the design of AI-related post-qualification programs.([[science-educators-ai-literacy-postqualification-2026]])
 
+- **AI support and guidance in teacher design work.** [[pishtari-teacher-ai-training-learning-design-2026|Pishtari, Gnadlinger & Ley (2026)]] had 13 higher-education teachers design activities across no-AI, AI-chatbot, and AI-plus-training conditions in a half-day program. AI access raised higher-order (Bloom) task attainment and cut perceived cognitive effort, while the subsequent interaction-training session plateaued quality but slightly raised effort (germane vs. extraneous load unresolved). It frames PD for AI-era teaching as needing both pedagogy-grounded design frameworks (Bloom, ICAP) and structured chatbot-interaction strategies, while cautioning that quality gains may mask [[cognitive-offloading|offloading]] of pedagogical decisions to AI.
 ### Knowledge, beliefs, and practice
 
 A key finding across teacher-education research is the gap between what teachers *articulate* and what they *enact*: teachers often claim operational AI skills but struggle to apply pedagogically meaningful knowledge in practice.([[teachers-ai-knowledge-genai-lesson-planning-2026]]) The distinction runs even deeper when experience is crossed with AI proficiency: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that technically fluent *novices* still accept AI output passively during lesson design, whereas experienced teachers — even those with lower measured AI proficiency — critically re-prompt and adapt AI suggestions to their students and context. The implication is that in-service PD cannot treat "building AI skill" as sufficient; it must be differentiated by the teacher's experience and proficiency profile — response-evaluation and critical-adaptation scaffolds for novices, hands-on AI skill-building for experienced teachers with weaker AI proficiency. Expert judgment of AI-generated lesson plans marks that critical-adaptation stance as the norm, not the exception: [[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu, Surmeli and Yildirim (2026)]] found eleven Turkish science-education specialists rated ChatGPT-4 and Teacher's Buddy plans for a sixth-grade unit as usable drafts — 7 of 11 judging them "applicable by correction," only 3 directly "Applicable" — and their preferences diverged from raw scores, favoring affective and contextual qualities over structural fidelity. Teacher education should therefore build the ability to evaluate, adapt, and localize AI-generated instructional materials as a core professional competence, in both pre-service and in-service programs. Psychological factors also matter — [[self-efficacy]] positively predicts AI-TPACK, while strong traditional teaching beliefs can act as a cognitive barrier.([[ai-tpack-mathematics-teacher-education-2026]]) [[trust|Trust]] in AI is shaped by both technical knowledge and ethical perceptions (transparency, [[bias-mitigation|fairness]], accountability, inclusiveness).([[intelligent-tpack-ethics-teachers-trust-distrust-2026]]) Measuring teachers' AI literacy is itself an active front: because most AI-literacy assessments target students or general users, the Teachers' AI Literacy Scale (TAILS) — grounded in the six-dimension ED-AI framework — was developed and validated specifically for [[language-learning|preservice language teachers]] through EFA and CFA, filling the measurement gap within teacher education.
@@ -11885,11 +11887,11 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[pishtari-teacher-ai-training-learning-design-2026]] — AI chatbot support and training in teachers' learning design
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pedagogical AI knowledge as the priority lever for teacher professional learning (Shen et al. 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
-
 - [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
 - [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based professional development framework
 - [[human-centered-ai-teacher-educators-2026]] — Professional learning for critical AI literacy in teacher educators
@@ -11908,18 +11910,14 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
-
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in science teacher education
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-
 - [[pre-service-science-teachers-ai-perceptions-2026]] — Ghanaian pre-service science teachers' AI perceptions (UTAUT/TPB)
-
 - [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
 - [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
 - [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
-
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
@@ -13755,6 +13753,7 @@ A central object of AI-ed evaluation is the **learning gain** — the measurable
 - **Disaggregates by learner and context.** Because [[learning-gains]] vary by population, domain, and AI configuration, evaluation should report gains for different student subgroups (e.g., by prior proficiency, as [[drawedumath-vlm-struggling-students-2026|VLM evaluations]] reveal for error status) rather than a single aggregate, and should connect gain findings to [[meta-analysis-systematic-review]] to situate them in the wider evidence base.
 
 Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al. (2026)]] argue that prior tutoring benchmarks (MathTutorBench, MRBench, LearnLM) reward one side of the assistance dilemma or give underspecified guidance. TutorMoments instead replays teacher-identified pedagogical decision points, evaluating whether a tutor's help is appropriate to the specific learning moment — scaffolding vs. rigor.
+- **The metric you choose can reverse your conclusions.** [[zhang-platform-scores-miss-ai-teaching-agents-2026|Zhang et al. (2026)]], evaluating AI teaching agents in medical education, found that an educational platform's undisclosed aggregate scores ranked agents nearly opposite to a transparent, expert-validated 8-dimension teaching-quality rubric (medical knowledge accuracy, pedagogical guidance, knowledge coverage, role-play quality, adaptive difficulty, medical safety, engagement, feedback). Platform scores index student performance; the rubric indexes agent teaching behavior -- choosing the wrong metric determines which agents get adopted or refined. They also found LLM-as-evaluator leniency differs by model (some too lenient to discriminate), so automated scoring needs human calibration and is most trustworthy on cognitive-process dimensions.
 
 ## Connected Concepts
 
@@ -13775,6 +13774,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[intelligent-tutoring]] — Evaluating AI tutoring systems
 - [[agentic-ai]] — Evaluating autonomous AI agent behavior
 ## Connected Articles
+- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — What platform scores miss: multidimensional evaluation of AI teaching agents
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
@@ -13805,7 +13805,6 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
 - [[elbench-education-llm-benchmark-2026]] — ELBench: education LLM benchmark
 - [[teaching-monster-pck-benchmark-2026]] — Teaching Monster: PCK benchmark
-
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evaluation of adaptive + AI EdTech
@@ -15800,7 +15799,9 @@ A central arena of AI governance is **how institutions govern assessment** — t
 
 AI governance operates at multiple levels — from **national/regulatory** (government policy, the OECD framework, state AI guidelines) to **institutional** (university policies, AI steering groups, ethical review boards) to **classroom** (instructor guidelines, syllabus statements, assignment design). Effective governance aligns these levels: national frameworks set expectations, institutions translate them into policies and support structures, and educators implement them in ways that build students' AI literacy and agency. The knowledge base's research emphasizes that governance is not merely about restriction but about creating the conditions for responsible, equitable, and learning-supportive AI integration — including [[educational-development|faculty development]], transparent guidance, and ongoing evaluation.
 
-### Connections to related concepts
+
+
+Institution-wide, the **AIGEM framework** ([[tan-aigem-ai-educational-management-2026|Tan et al. 2026]]) positions responsible AI as a strategic organizational capability for educational management, integrating AI strategic leadership, responsible governance, decision intelligence, human-AI collaborative intelligence, competency development, and sustainable value creation -- and links responsible implementation to the SDGs. It underscores that governance is not only a compliance layer over teaching but an executive function of educational institutions.### Connections to related concepts
 
 AI governance connects to [[ethics]] (the principles it operationalizes), [[higher-ed]] (the institutional context), [[privacy]] and [[bias-mitigation]] (specific governance concerns), and [[academic-integrity]] (a primary governance arena). It is central to institutional change and responsible AI, and intersects with [[ai-literacy]] (governance supports the development of critical, informed use). It also connects to [[learning-analytics]] (data governance) and [[student-experience]] (governance shapes how students navigate acceptable use).
 
@@ -15834,6 +15835,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[tan-aigem-ai-educational-management-2026]] — AIGEM framework for AI governance in educational management
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
@@ -15850,7 +15852,6 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[ai-distance-education-systematic-review-2026]]
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
 - [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: Leading for Transformative Change
@@ -15866,17 +15867,14 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
-
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
@@ -16001,6 +15999,8 @@ Adoption models are applied across the knowledge base to model student and [[tea
 
 While adoption models are effective for predicting uptake, they are less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in [[higher-ed|higher education]] increasingly note that TAM alone is insufficient, [[prompt-engineering|prompting]] integration with UTAUT, TPB, and Self-Determination Theory, and the addition of post-adoption constructs such as critical use, reliance, and evaluative judgment. The result is a measured, multidimensional picture of adoption: context matters ([[global-south|Global South]] vs. resourced institutions — see [[nguyen-genai-global-south-review-2026|Nguyen & Perkins]]), disciplinary background shapes acceptance, and person-centered methods reveal hidden heterogeneity that linear models miss.
 
+
+TAM's cognitive focus also under-captures emotional and relational dimensions of AI use. A [[akbaba-nursing-ai-experiences-tam-2026|qualitative study of nursing students and faculty]] found that, alongside the four classic TAM constructs, participants -- mainly students -- described AI as a source of psychosocial support: emotional comfort during stress and a confidential space for reflection. This extends perceived usefulness beyond performance gains to well-being in high-stress professional training, suggesting adoption models should attend to affective and psychosocial factors, not only instrumental utility.
 ## Connected Concepts
 
 - [[business-education]]
@@ -16018,12 +16018,12 @@ While adoption models are effective for predicting uptake, they are less well su
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing AI experiences; psychosocial extension of TAM
 - [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' behavioral intention to use AI via extended TAM (Duan, Shan & Gong 2026)
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
 - [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption (UTAUT3 + ARCS)
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential GenAI engagement by gender and motivation
-
 - [[alrahmi-org-drivers-ai-adoption-he-2026]] — TOE + DOI model of organizational AI adoption in higher education
 - [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
 - [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model (TAM + UTAUT) for engineering education
@@ -16034,10 +16034,8 @@ While adoption models are effective for predicting uptake, they are less well su
 - [[genai-chatgpt-adoption-ethics-students-2026]] — Behavioral and ethical drivers of student ChatGPT adoption
 - [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT and teacher chatbot motivation
 - [[amponsah-ai-acceptance-science-teachers-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
-
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
 - [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT
-
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
@@ -28014,6 +28012,46 @@ This article adds an evidence-based, within-subjects study of an emotionally int
 ## Citation
 
 Yusuf, H., Money, A., & Daylamani-Zad, D. (2026). [*Exploring student anxiety and experience in performance-based assessments using AIvaluate: an LLM-augmented emotionally intelligent pedagogical AI conversational agent*](https://doi.org/10.1007/s11423-026-10634-x). Educational Technology Research and Development.
+
+---
+
+## [Nursing Students' and Faculty Experiences with Artificial Intelligence in Education: A Qualitative Study Using the Technology Acceptance Model](https://edtechdev.github.io/aied/articles/akbaba-nursing-ai-experiences-tam-2026/)
+
+A COREQ-guided descriptive qualitative study of AI experiences in nursing education: semi-structured interviews with 28 participants (16 nursing students, 12 faculty) across two universities, analyzed deductively through the Technology Acceptance Model (TAM) with inductive extension. Four TAM-aligned categories emerged (perceived ease of use, perceived usefulness, behavioural intention, actual use). Students used AI mainly for presentations, visual content, and clinical case analysis; faculty for course materials, academic writing, and administration. Notably, AI was also described as a source of cognitive, instructional, and psychosocial support — a relational dimension TAM does not explicitly capture. Concerns included reduced critical thinking, misinformation, plagiarism, and unequal access.
+
+**Relevance to [[ai-education|AI in Education]]:** This study adds qualitative, discipline-specific depth to [[technology-acceptance-model|TAM]]-based AI adoption research in [[medical-education|health-professions education]], and surfaces an underexplored psychosocial/emotional dimension of AI use with implications for [[ai-literacy]], student [[well-being]], and [[equity-in-ai-education|equitable access]].
+
+## Key Findings
+
+- **TAM holds in nursing education.** Perceived ease of use, perceived usefulness, behavioural intention, and actual use shaped AI adoption, confirming TAM's continued relevance and adding task- and role-dependent nuance from qualitative data.
+- **Students and faculty use AI differently.** Students leaned on AI for applied tasks (presentations, visual content, clinical case analysis, care planning); faculty for productivity (course materials, literature reviews, academic writing, administration). This role-based split implies tailored rather than one-size-fits-all AI education.
+- **AI as psychosocial support.** Several participants — mainly students — described AI as providing emotional comfort during stress, a "companion" offering reassurance and a confidential space for reflection. This extends TAM's cognitive focus and, in high-stress clinical training, positions AI's usefulness partly in emotional and relational terms.
+- **Concerns temper positive attitudes.** Misinformation (notably inaccurate pharmacological content, raising patient-safety concerns), plagiarism, diminished critical thinking, and unequal access were voiced; faculty worried over-reliance could weaken analytical reasoning and academic integrity. Participants nonetheless continued using AI — a risk-benefit tension worth further study.
+- **An AI-literacy and prompting gap.** Few had formal AI education; participants urged training that goes beyond technical use to include critical questioning, prompt building, and verification of AI output. Faculty also emphasized institutional governance, ethical frameworks, and balancing AI with traditional teaching.
+- **Nursing as a leadership field.** Faculty framed nurses not just as adapting to AI but as actively shaping responsible integration in healthcare's digital transformation.
+
+## Connected Concepts
+
+- [[medical-education]]
+- [[technology-acceptance-model]]
+- [[ai-literacy]]
+- [[well-being]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[professional-training]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI simulation in nursing education
+- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs and nursing professional identity
+- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI
+- [[genai-scenario-based-healthcare-education-2026]] — GenAI in scenario-based healthcare education
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption in tertiary education
+
+## Citation
+
+Akbaba, A., & Calik Kus, A. (2026). [Nursing Students' and Faculty Experiences with Artificial Intelligence in Education: A Qualitative Study Using the Technology Acceptance Model](https://doi.org/10.1186/s12912-026-04986-1). *BMC Nursing* (Article in Press).
 
 ---
 
@@ -59659,6 +59697,44 @@ Lala Yamazaki, Ramchandra Rimal (2026). [Leveraging Physiological Signals to Pre
 
 ---
 
+## [When Teachers Use AI Chatbots and Are Trained for It: Impact on Learning Design Quality and Cognitive Effort](https://edtechdev.github.io/aied/articles/pishtari-teacher-ai-training-learning-design-2026/)
+
+In a within-subjects study, 13 higher-education teachers designed learning activities across three conditions — no AI, with a chatbot, and with a chatbot after receiving training on pedagogically grounded AI-interaction strategies. AI access significantly improved design quality (most clearly by raising attainment of higher-order Bloom's tasks) and lowered perceived cognitive effort; the training did not further improve design quality but slightly increased cognitive effort, likely reflecting deliberate application of newly learned strategies. Teachers rated the training as useful and reported strong adoption intentions.
+
+**Relevance to [[ai-education|AI in Education]]:** This study empirically examines whether and how AI support and guidance shift teachers' [[learning-design]] quality and the cognitive effort behind it, operationalizing a teacher-AI [[human-ai-collaboration|complementarity]] question. It speaks to [[teacher-role]] and teacher training ([[teacher-education]]), [[prompt-engineering|prompting]], and the risk of [[cognitive-offloading]] as teachers offload pedagogical decisions to chatbots.
+
+## Key Findings
+
+- **AI access improved design quality.** Bloom attainment (>=2 higher-order tasks) rose from 41.7 percent (no AI) to 91.7 percent (AI access), a significant change (Cochran's Q = 8.86, p = .01, Kendall's W = .37), with a shift toward higher-order Bloom categories (analyze/evaluate/create). ICAP attainment rose modestly (58.3 to 75 percent) but not significantly.
+- **AI access lowered perceived cognitive effort.** The composite effort score dropped sharply from Median 6.33 (no AI) to 3.33 (AI access) (Friedman chi2 = 10.86, p = .004, Kendall's W = .49); all three component measures (pedagogical objectives, task creation, narrative) declined.
+- **Training did not further improve quality but raised effort slightly.** Activity 3 (after training) plateaued on quality yet showed a small, non-significant effort increase — interpreted as possible germane load (deliberate application of new strategies) or extraneous load/fatigue, not resolvable in this design.
+- **Positive training evaluation and adoption intentions.** Post-training evaluations averaged M=4.14/5 (utility highest at 4.25); adoption intentions were strong (M=4.21/6). Pre-training, teachers reported high perceived usefulness (TAM M=6.00/7) but only moderate AI-related technological-pedagogical knowledge (AI-TPK M=3.90/7).
+- **A caution on interpretation.** Quality gains alone do not prove teachers internalized practices — they may reflect delegating routine work to AI or adopting AI-generated structure, consistent with [[cognitive-offloading]] concerns.
+
+## Connected Concepts
+
+- [[learning-design]]
+- [[teacher-role]]
+- [[teacher-education]]
+- [[educational-development]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[prompt-engineering]]
+- [[cognitive-offloading]]
+
+## Connected Articles
+
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Teacher competence frameworks for GenAI
+- [[llm-intervention-design-cs-review]] — LLM interventions in education
+- [[li-language-educators-genai-review-2026]] — Language educators and GenAI
+- [[chat-anchored-learning-analytics-ai-literacy-2026]] — AI literacy in practice
+
+## Citation
+
+Pishtari, G., Gnadlinger, F., & Ley, T. (2026). [When Teachers Use AI Chatbots and Are Trained for It: Impact on Learning Design Quality and Cognitive Effort](https://doi.org/10.1007/978-3-032-29770-9_28). *Artificial Intelligence in Education (AIED 2026), Lecture Notes in Computer Science*, Springer, pp. 251-259.
+
+---
+
 ## [Play With AI (PL-AI): A Play-Centered, Design-Based Curriculum for AI Literacy in Pre-K and Kindergarten](https://edtechdev.github.io/aied/articles/play-ai-pre-k-kindergarten-ai-literacy-2026/)
 
 ## Overview
@@ -68816,6 +68892,45 @@ Nguyen, T. H., Truong, L. T., & Nguyen, N. H. T. (2026). [Factors influencing un
 
 ---
 
+## [Artificial Intelligence in Educational Management: Opportunities, Challenges, and Future Directions](https://edtechdev.github.io/aied/articles/tan-aigem-ai-educational-management-2026/)
+
+A conceptual study that synthesizes scholarly literature, international policy reports, and global standards to develop the Artificial Intelligence Governance for Educational Management (AIGEM) Framework. AIGEM positions AI not merely as instructional technology but as a strategic organizational capability in educational management, integrating six dimensions: AI Strategic Leadership, Responsible AI Governance, AI-Driven Decision Intelligence, Human-AI Collaborative Intelligence, AI Competency Development, and Sustainable Educational Value Creation. The framework aligns responsible AI implementation with SDG 4, 8, 9, and 16, and proposes six testable theoretical propositions (P1-P6).
+
+**Relevance to [[ai-education|AI in Education]]:** This extends the knowledge base beyond classroom teaching and learning into institution-wide AI [[governance]] and management, offering an integrative framework for [[administrator|educational leaders]] and [[educational-policy-ai|policymakers]]. It foregrounds [[human-ai-collaboration]], responsible-governance accountability, and the competencies leaders need to steer AI-driven institutional transformation.
+
+## Key Findings
+
+- **AIGEM framework: six integrated dimensions.** AI Strategic Leadership; Responsible AI Governance; AI-Driven Decision Intelligence; Human-AI Collaborative Intelligence; AI Competency Development; Sustainable Educational Value Creation. These operate as an interconnected system rather than isolated levers.
+- **AI as strategic capability, not just classroom tool.** Unlike models centered on technology adoption or classroom AI-in-education, AIGEM treats AI as an organizational capability requiring leadership, governance, decision intelligence, and competency development to create sustainable value.
+- **Governance anchored in global standards and SDGs.** The framework links responsible AI to UNESCO (2021) and OECD (2019) principles (transparency, accountability, human oversight, ethics) and to SDG 4 (Quality Education), 8 (Decent Work), 9 (Industry/Innovation/Infrastructure), and 16 (Peace/Justice/Strong Institutions).
+- **Human-AI collaborative intelligence.** AI augments rather than replaces professional judgment: AI contributes computational efficiency and prediction, while humans retain contextual understanding, ethical reasoning, creativity, and strategic leadership — decisions remain human-accountable.
+- **Six theoretical propositions (P1-P6).** e.g., Responsible AI Governance positively enhances AI-Driven Decision Intelligence (P2) and mediates the link between AI Strategic Leadership and Sustainable Value Creation (P6) — offered for future empirical validation.
+- **Competency beyond AI literacy.** AI Competency Development encompasses data literacy, digital ethics, strategic thinking, innovation, change leadership, and lifelong learning across educational personnel.
+
+## Connected Concepts
+
+- [[educational-policy-ai]]
+- [[governance]]
+- [[administrator]]
+- [[change-management]]
+- [[human-ai-collaboration]]
+- [[ai-literacy]]
+- [[professional-training]]
+- [[higher-ed]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[sposato-ai-educational-leadership-taxonomy-2025]] — AI educational-leadership taxonomy
+- [[crompton-governing-genai-higher-ed-delphi-2026]] — Governing GenAI in higher ed (Delphi)
+- [[institutional-governance-ai-universities]] — Institutional governance of AI in universities
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — AI faculty-readiness instrument
+## Citation
+
+Tan, Q., Peng, Y., Han, W., & Santaveesuk, P. (2026). [Artificial Intelligence in Educational Management: Opportunities, Challenges, and Future Directions](https://internationalsped.com/index.php/ijse/article/view/5895). *International Journal of Special Education, 41*(19s), 1239-1252.
+
+---
+
 ## [What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI](https://edtechdev.github.io/aied/articles/task-context-trust-educational-hri-2026/)
 
 > **Synthesis:** This Discobot project study (2026) examines how robot appearance and task type jointly influence trust in socially assistive robots (SARs) in educational and information-sharing contexts. Using a within-subjects video-based experiment (N = 81), participants evaluated three robots with distinct appearances while performing three educationally relevant tasks: [[teacher-role|teaching]], procedural instruction, and personal-information discussion. Repeated-measures analyses showed a strong main effect of task on trust, with participants reporting the highest trust during instructional tasks — indicating that what a robot does matters more than what it looks like.
@@ -74612,6 +74727,47 @@ Zhang, S., & Zhang, S. (2026). [*Integrating AI into computational thinking: dev
 ## Citation
 
 Zhang, V., Jeffries, B., & Koprinska, I. (2025). [A Machine Learning Approach for Predicting Student Progress in Online Programming Education](https://doi.org/10.1007/s40593-025-00510-9). *International Journal of Artificial Intelligence in Education*, 35, 3614–3644.
+
+---
+
+## [What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education](https://edtechdev.github.io/aied/articles/zhang-platform-scores-miss-ai-teaching-agents-2026/)
+
+Eight AI teaching agents covering an endocrinology curriculum were deployed across four role-play paradigms (patient, student, expert, family) on a commercial platform. Twenty-two medical students generated 167 dialogues scored both by the platform's undisclosed algorithm and by an independently applied, expert-validated 8-dimension teaching-quality rubric (100 points). Platform and rubric rankings diverged for most agents — the agent ranked third by the platform ranked last on rubric quality, and the fourth-ranked rose to first — indicating platform scores index student performance, not agent teaching quality. Agents differed most on knowledge dimensions and shared a weakness in adaptive difficulty calibration; an empathic agent attained high role-play quality yet the lowest knowledge coverage.
+
+**Relevance to [[ai-education|AI in Education]]:** This is a direct demonstration that the metric an educator happens to have at hand can mislead which [[pedagogical-agent|AI teaching agents]] get adopted or refined. It contributes a transparent, reusable evaluation framework and cautions against treating [[ai-ed-evaluation|platform-generated scores]] as proxies for teaching quality, connecting to [[assessment-validity]] and LLM-as-evaluator concerns.
+
+## Key Findings
+
+- **Platform scores diverge from rubric-measured teaching quality.** Agent rankings reversed for most agents (third-by-platform ranked last on rubric quality; fourth-ranked rose to first). The two capture different constructs — student performance during the interaction versus the agent's own teaching behavior — and are complementary, not interchangeable.
+- **An 8-dimension rubric as a transparent external standard.** Dimensions weighted by teaching function: medical knowledge accuracy and pedagogical guidance (20 pts each), knowledge coverage and role-play quality (15), adaptive difficulty and medical safety (10), student engagement and feedback quality (5). Validated against multiple LLM evaluators and a blinded medical-education expert (total-score ICC = 0.51; r = 0.61).
+- **Agents differ mainly in knowledge, not role performance.** Between-agent variation was largest on knowledge coverage (CV=27.3%) and knowledge accuracy (18.5%), and smallest on role-play quality (5.7%). Adaptive difficulty calibration was a shared weakness across agents.
+- **Empathy did not ensure knowledge coverage.** An agent deliberately revised to strengthen an empathic family persona attained among the highest role-play quality yet the lowest knowledge coverage and total score — affective and cognitive teaching functions do not move together.
+- **LLM-as-evaluator requires calibration.** Three LLMs (Claude, DeepSeek, Qwen) agreed on agent ranking (rho=0.64-0.71) but differed markedly in leniency and discrimination; some were too lenient to discriminate (Qwen, DeepSeek ceiling effects). Automated scoring aligned with expert judgment on cognitive-process dimensions but poorly on subjective and affective ones.
+- **No detectable gender effect** (male vs female students), though the analysis was underpowered and should not be read as evidence of equitable delivery.
+
+## Connected Concepts
+
+- [[medical-education]]
+- [[pedagogical-agent]]
+- [[intelligent-tutoring]]
+- [[ai-ed-evaluation]]
+- [[assessment]]
+- [[simulation]]
+- [[generative-ai]]
+- [[llm]]
+- [[assessment-validity]]
+
+## Connected Articles
+
+- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI simulation in nursing education
+- [[llm-detecting-llm-generated-content-education]] — LLMs evaluating generated content
+- [[genai-scenario-based-healthcare-education-2026]] — GenAI in scenario-based healthcare education
+- [[pedagogy-ai-mistakes]] — Pedagogical quality of AI output
+- [[ai-learning-tools-engineering-education-needs]] — Needs- and attention-aware AI learning tools
+
+## Citation
+
+Zhang, H., Qu, L., Zheng, J., Xiong, Y., Bai, H., Ji, R., Liu, G., Chen, W., Cheng, Z., Chen, Y., & Yang, C. (2026). [What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education](https://doi.org/10.2196/96819). *JMIR Medical Education, 12*, e96819.
 
 ---
 
