@@ -7634,7 +7634,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 
 ---
 
-## [Vibe Coding and Natural-Language Programming](https://edtechdev.github.io/aied/concepts/vibe-coding/)
+## [Vibe Coding](https://edtechdev.github.io/aied/concepts/vibe-coding/)
 
 > **Vibe coding** — building software by iteratively prompting a large language model and judging the resulting behavior, without directly reading or editing the underlying source code. Popularized by Andrej Karpathy in 2025 as the workflow where one "forgets the code even exists," vibe coding is the LLM-native realization of an older ambition, natural-language programming, and functions as a form of [[agentic-ai|end-user development]] in which prose becomes the primary programming interface.
 
