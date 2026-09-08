@@ -1,7 +1,7 @@
 ---
 title: Qualitative Research
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-08T09:07:05-04:00"
 type: concept
 tags: [qualitative-research, research-methods-aied]
 research_method: [qualitative, research methods, interviews, case study]
@@ -57,6 +57,8 @@ Semi-structured **interviews** and **focus groups** are the primary data-collect
 
 A distinctive recent development is using [[llm|LLMs]] to assist qualitative coding. The knowledge base's evidence is cautionary: [[human-vs-llm-ordered-coding]] shows LLM and human coding diverge, with errors cascading through temporal analysis; [[agreement-not-quality-llm-coding-verification|Agreement Is Not Quality]] shows that human–LLM coding *agreement* is not the same as coding *quality* when human consensus is not ground truth. LLM-assisted coding can scale and accelerate qualitative analysis, but its outputs require verification against [[human-in-the-loop-ai|human judgment]] — an important intersection of qualitative research with [[educational-nlp]] and [[ai-ed-evaluation]].
 
+**The fluent-output problem and warrantability.** [[chain-behind-claim-warrantability-2026|Holster (2026)]] sharpens why accuracy and disclosure are insufficient standards for AI-assisted qualitative work. Because LLMs reorganize corpora in minutes into fluent topics, quotations, and prevalence claims, they can conceal the analytic pathway that produced them — and people tend to rate easily processed, fluent output as more true. Holster proposes **warrantability** as a complement to accuracy and disclosure: an AI-assisted interpretation is warrantable when the pathway from source data to claim remains *inspectable, contestable, and revisable*. Its constructive machinery is **semantic lenses** (documented reorganizations of a corpus across levels of abstraction) and a claim-relative repertoire of **warrant artifacts** — source-linked topic tables, lens stacks, and evidence rivers — designed into tools so that fluent analysis also produces a retraceable pathway record. This extends the field's audit-trail tradition into the generative era and gives reviewers something concrete to contest beyond a final interpretation.
+
 ## Strengths and limitations
 
 - **Strengths:** deep ecological and conceptual insight; surfaces unexpected phenomena, risks, and mechanisms; essential for theory-building (see [[theory-development-aied]]); captures meaning, context, and contested constructs; centers under-represented perspectives; strong for studying fast-moving phenomena where standardized measures lag.
@@ -79,6 +81,7 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 - [[cognitive-offloading]]
 
 ## Connected Articles
+- [[chain-behind-claim-warrantability-2026]] — warrantability standard for AI-assisted qualitative analysis
 
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch: a grounded theory of AI-assisted programming
 - [[trio-ethnography-llm-programming-education]] — A trio-ethnography of interpretation evolution in LLM-supported programming

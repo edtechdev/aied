@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-06T08:30:00-04:00"
+updated: "2026-09-08T09:07:05-04:00"
 type: concept
 tags: [cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 audience: [learners]
@@ -90,6 +90,7 @@ most consequential risks of AI in education:
 - **Over-reliance erodes self-directed learning via motivation and self-efficacy.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] model the mechanism directly: across 487 Chinese undergraduates, **thoughtless use of GenAI (TUGA)** — adopting AI outputs without critical evaluation — significantly undermined [[self-directed-learning|self-directed learning]] (β = −0.42) both directly and through partial mediation of [[motivation]] (β = −0.54 path from TUGA) and [[self-efficacy]] (β = −0.37). The model explained 75.3% of SDL variance. Because motivation was the strongest positive driver of SDL (β = 0.68), and thoughtless use suppresses it, this is [[quantitative-research|quantitative]] evidence that over-reliance damages the motivational and self-efficacy resources autonomous learning depends on — with gender differences (stronger motivation harm for males, stronger self-efficacy harm for females).
 - **AI overreliance as a complex adaptive system.** Rather than studying overreliance one user at a time, [[ai-overreliance-complex-adaptive-system-2026|a modelling paper]] frames it as a population-level process in which agents update Bayesian beliefs about AI quality and, when networked, learn from peers. Social proof can turn reliance into a feedback cascade (visible unverified use suppresses verification), while social learning creates consensus rather than overreliance — a framing that shifts intervention targets from individual calibration to the networked dynamics of trust and reliance.
 - **Six diagnostic criteria separate productive reliance from harmful dependence.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] give over-reliance a more granular diagnostic vocabulary than usage frequency, distinguishing instrumental assistance (AI helps produce output) from judgement-bearing assistance (AI supplies the standards by which output is assessed). Their review operationalises the productive/harmful boundary through six criteria — **contestability, recoverability, transfer, traceability, distributed responsibility, and epistemic plurality** — and traces four sociotechnical pathways (fluent authority, frictionless delegation, opaque synthesis, institutionalised dependence) through which offloading either preserves or displaces the epistemic work that develops judgement. Because dependence is contextual and institutional rather than merely individual, the framework directs attention to assessment incentives, interface design, and procurement alongside learner self-regulation.
+- **The unmeasured aftermath: cognitive washout.** [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] names the field's biggest open question as *post-withdrawal*: almost all offloading research measures cognition during AI use, but almost nothing measures what happens after an assistant is withdrawn for days or weeks (an exam, an outage, a licence review). It formalises **cognitive washout** with a Washout Curve Model — estimable parameters for recovery time constant, recovery completeness, residual growth, and a hysteresis index comparing relearning to original effort — and four possible outcomes (elastic rebound, partial plateau, latent scaffold, over-recovery). Because reversibility determines whether an induced deficit is an inconvenience or a cohort-level injury, the paper argues withdrawal deserves the same methodological standing as adoption, and specifies a three-arm, three-domain, twenty-two-week protocol to adjudicate between outcomes. This turns the "coach vs. crutch" and substitutive-vs-duplicative distinctions above into a *testable longitudinal* research agenda on whether and how quickly offloaded skills return.
 
 ### The CLT framework
 
@@ -119,6 +120,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[cognitive-washout-ai-skill-decay-2026]] — cognitive washout: post-withdrawal dynamics of AI-induced skill decay
 - [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
