@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-08T02:41:30-04:00"
 type: concept
 tags: [educational-policy-ai, ethics, higher-ed, change-management, privacy, regulation, ai-education]
 level: [higher ed]
@@ -55,7 +55,9 @@ A central arena of AI governance is **how institutions govern assessment** — t
 
 AI governance operates at multiple levels — from **national/regulatory** (government policy, the OECD framework, state AI guidelines) to **institutional** (university policies, AI steering groups, ethical review boards) to **classroom** (instructor guidelines, syllabus statements, assignment design). Effective governance aligns these levels: national frameworks set expectations, institutions translate them into policies and support structures, and educators implement them in ways that build students' AI literacy and agency. The knowledge base's research emphasizes that governance is not merely about restriction but about creating the conditions for responsible, equitable, and learning-supportive AI integration — including [[educational-development|faculty development]], transparent guidance, and ongoing evaluation.
 
-### Connections to related concepts
+
+
+Institution-wide, the **AIGEM framework** ([[tan-aigem-ai-educational-management-2026|Tan et al. 2026]]) positions responsible AI as a strategic organizational capability for educational management, integrating AI strategic leadership, responsible governance, decision intelligence, human-AI collaborative intelligence, competency development, and sustainable value creation -- and links responsible implementation to the SDGs. It underscores that governance is not only a compliance layer over teaching but an executive function of educational institutions.### Connections to related concepts
 
 AI governance connects to [[ethics]] (the principles it operationalizes), [[higher-ed]] (the institutional context), [[privacy]] and [[bias-mitigation]] (specific governance concerns), and [[academic-integrity]] (a primary governance arena). It is central to institutional change and responsible AI, and intersects with [[ai-literacy]] (governance supports the development of critical, informed use). It also connects to [[learning-analytics]] (data governance) and [[student-experience]] (governance shapes how students navigate acceptable use).
 
@@ -89,6 +91,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[tan-aigem-ai-educational-management-2026]] — AIGEM framework for AI governance in educational management
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
@@ -105,7 +108,6 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[ai-distance-education-systematic-review-2026]]
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
 - [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: Leading for Transformative Change
@@ -121,17 +123,14 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
-
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education

@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-08
 
-Articles: 1109 | Concepts: 186 | FAQs: 17
+Articles: 1113 | Concepts: 186 | FAQs: 17
 
 ## Concepts
 
@@ -183,6 +183,7 @@ Articles: 1109 | Concepts: 186 | FAQs: 17
 - [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems: A Control Allocation Architecture for Preserving Epistemic Agency
 - [[aissa-slides-analysis]] — AISSA: AI-based Student Slides Analysis Tool for Academic Presentations
 - [[aivaluate-anxiety-assessment-2026]] — Exploring Student Anxiety and Experience in Performance-Based Assessments Using AIvaluate
+- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing Students' and Faculty Experiences with Artificial Intelligence in Education: A Qualitative Study Using the Technology Acceptance Model
 - [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Comparing Expert-Written, AI-Generated, and Interactive AI Dialogue for Heat and Temperature Conceptual Understanding
 - [[alharbi-ethical-genai-eap-2026]] — Ethical Generative AI Integration in English for Academic Purposes within Higher Education: A Mixed-Methods Study
 - [[all-girls-genai-makerspace-gender-equity-2026]] — Beyond 'Painting in Pink
@@ -938,6 +939,7 @@ Articles: 1109 | Concepts: 186 | FAQs: 17
 - [[physics-chatbot-epistemological-beliefs-2026]] — Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning
 - [[physics-education]] — Physics Education
 - [[physiological-signals-exam-outcomes-ml]] — Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
+- [[pishtari-teacher-ai-training-learning-design-2026]] — When Teachers Use AI Chatbots and Are Trained for It: Impact on Learning Design Quality and Cognitive Effort
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): A Play-Centered, Design-Based Curriculum for AI Literacy in Pre-K and Kindergarten
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × Social-Emotional Learning Research
 - [[polished-artifacts-fragile-engagement-2026]] — "Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction"
@@ -1161,6 +1163,7 @@ Articles: 1109 | Concepts: 186 | FAQs: 17
 - [[talebzadeh-ai-green-education-2026]] — The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints
 - [[talebzadeh-ai-group-activity-roles-2026]] — The Architecture of Roles in AI-Designed Group Activities: A comparative inductive analysis of novice and experienced teachers' differentiated instruction within the IAT framework
 - [[tam-critical-use-genai-engineering-2026]] — Factors Influencing University Students' Intention to Use and Reliance on Generative AI: An Extended Technology Acceptance Model with Critical Use
+- [[tan-aigem-ai-educational-management-2026]] — Artificial Intelligence in Educational Management: Opportunities, Challenges, and Future Directions
 - [[task-context-trust-educational-hri-2026]] — What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI
 - [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose Before Policy: Academic Integrity, Generative AI, and Rhetorical Stance
 - [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
@@ -1293,6 +1296,7 @@ Articles: 1109 | Concepts: 186 | FAQs: 17
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Let's Chat About Artificial Intelligence for Students With Disabilities: A Meta-Analysis
 - [[zhang-ct-ai-training-test-2026]] — Integrating AI Into Computational Thinking: Development and Validation of an Assessment Tool for Higher Education Students
 - [[zhang-ml-student-progress-programming-2026]] — A Machine Learning Approach for Predicting Student Progress in Online Programming Education
+- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education
 - [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with large language models
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
 - [[zhao-genai-higher-order-thinking-meta-2026]] — Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments

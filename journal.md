@@ -1,8 +1,12 @@
 # Journal
 
-Last updated: 2026-09-08 | Total entries: 1295
+Last updated: 2026-09-08 | Total entries: 1299
 
 ## 2026-09-08
+- 📄 [[tan-aigem-ai-educational-management-2026]] — Artificial Intelligence in Educational Management: Opportunities, Challenges, and Future Directions
+- 📄 [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing Students' and Faculty Experiences with Artificial Intelligence in Education: A Qualitative Study Using the Technology Acceptance Model
+- 📄 [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education
+- 📄 [[pishtari-teacher-ai-training-learning-design-2026]] — When Teachers Use AI Chatbots and Are Trained for It: Impact on Learning Design Quality and Cognitive Effort
 - 📄 [[karr-ai-detection-humanization-2026]] — Why AI Detection Fails for Academic Integrity
 - 📄 [[vibe-coding-writing-cs-achievement-2026]] — Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency
 - 📘 [[vibe-coding]] — Vibe Coding
