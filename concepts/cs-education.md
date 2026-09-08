@@ -1,7 +1,7 @@
 ---
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-06T04:56:00-04:00"
+updated: "2026-09-08T01:40:00-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, cs-education]
 discipline: [stem education]
@@ -53,6 +53,7 @@ The question "what should students still learn by hand?" now reshapes computing 
 - **From implementation to verification:** [[reshaping-cs-education-genai|Reshaping Undergraduate CS Education]] argues that as GenAI automates implementation-level programming, debugging, and testing, curricula must shift toward *understanding and verifying AI-generated artifacts*, preserving system design, abstraction, and critical evaluation while de-emphasizing low-level implementation details. This aligns with [[ai-literacy]] frameworks that prize evaluation over generation.
 - **Agentic software engineering as a discipline:** [[ase-26-agentic-software-engineering-curriculum|ASE-26]] formalizes directing agents rather than writing code — teaching auditability, context engineering, verification, multi-agent workflows, and AgentOps — and positions [[agentic-ai|agentic AI]] competence as a structured, scaffolded curriculum rather than syntax mastery.
 - **New pedagogies and assessment models:** [[test-driven-ai-assisted-learning|Test-Driven AI-Assisted Learning]] replaces lectures with self-directed AI-assisted study gated by weekly closed-book tests, preserving individual accountability while AI agents scale material production and marking under human oversight.
+- **What predicts [[vibe-coding]] success — and what to keep teaching:** [[vibe-coding-writing-cs-achievement-2026|A preregistered CHI 2026 study (N=100)]] of pure "no-code" vibe-coding found that both computer-science achievement (r = .39) and written-communication proficiency (r = .29) independently predicted performance, with CS achievement remaining significant even after controlling for domain-general cognitive ability and contributing roughly twice the unique variance of writing skill. Because the environment hid generated code, CS knowledge could only help indirectly (problem decomposition, algorithmic thinking) — making the CS estimate a *lower bound* for AI-assisted workflows that also permit editing. The authors argue curricula should weigh written communication alongside CS fundamentals, rather than treating vibe coding as syntax mastery made obsolete.
 
 ### AI literacy, agency, and the risk of over-reliance
 
@@ -97,6 +98,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 ## Connected Concepts
 
 - [[computational-thinking]]
+- [[vibe-coding]]
 - [[stem-education]]
 - [[automated-assessment]]
 - [[prompt-engineering]]
@@ -114,7 +116,8 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[teacher-education]]
 
 ## Connected Articles
-- [[tutortrace-learner-behavioral-states-2026]]
+- [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
+ [[tutortrace-learner-behavioral-states-2026]]
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
 - [[zhan-chapman-genai-cs-education-2026]] — GenAI in CS education
 - [[code-review-genai-cs1]] — CS1 code review of AI-generated code

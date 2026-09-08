@@ -1,7 +1,7 @@
 ---
 title: A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
 created: "2026-07-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-08T01:40:00-04:00"
 type: article
 tags: [k-12, teacher-role, ai-literacy, generative-ai, educational-development, active-learning, llm]
 research_method: [design-based research]
@@ -19,6 +19,7 @@ This work connects to core knowledge base themes: [[k-12]] [[teacher-role]] [[ai
 
 ## Connected Concepts
 
+- [[vibe-coding]]
 - [[k-12]]
 - [[teacher-role]]
 - [[ai-literacy]]
@@ -29,6 +30,7 @@ This work connects to core knowledge base themes: [[k-12]] [[teacher-role]] [[ai
 - [[professional-training]]
 ## Connected Articles
 
+- [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy

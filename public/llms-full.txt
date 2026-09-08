@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 185 concepts, 1107 articles, and 17 FAQs.
+> Complete text of 186 concepts, 1108 articles, and 17 FAQs.
 
 # Concepts
 
@@ -7080,6 +7080,7 @@ The technical strand is inseparable from the knowledge base's other themes:
 - [[educational-robotics]]
 - [[agentic-ai]]
 - [[prompt-engineering]]
+- [[vibe-coding]]
 - [[rag]]
 - [[pedagogical-llm-training]]
 - [[ai-ed-evaluation]]
@@ -7566,9 +7567,11 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 
 Prompt engineering connects to [[scaffolding]] — well-designed prompts can scaffold student thinking rather than bypass it. It intersects with [[metacognition]] and [[ai-literacy]], as effective prompting requires understanding both the AI's capabilities and one's own learning goals. The [[cognitive-offloading]] research directly links prompt quality to whether AI use supports or undermines learning.
 
+- **Writing skill drives prompting, and both predict [[vibe-coding]] success.** In a preregistered CHI 2026 study (N=100), [[vibe-coding-writing-cs-achievement-2026|Thorgeirsson, Weidmann & Su]] found that written-communication proficiency predicted GUI-oriented vibe-coding performance (r = .29), with human-graded prompt quality *mediating* the link — response-process evidence that clear, structured prose translates into better natural-language programming prompts. Both writing skill and [[cs-education|CS achievement]] were independent predictors, and CS achievement (r = .39) carried roughly twice the unique variance, so improving prompting alone is unlikely to fully substitute for programming fundamentals in LLM-native development.
 - **Prompting strategy predicts performance.** An [[isaza-chatgpt-engineering-prompting-2026|empirical study of 128 engineering students]] found that AI Query Efficiency (clear, well-structured prompts) and AI-Driven [[problem-solving]] (strategic integration of AI output into reasoning) were the strongest predictors of academic success — even after controlling for GPA — indicating prompting is a teachable skill that shapes how effectively students learn with AI.
 
 ## Connected Concepts
+- [[vibe-coding]]
 - [[guardrails]]
 
 - [[scaffolding]]
@@ -7628,6 +7631,70 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
+
+---
+
+## [Vibe Coding and Natural-Language Programming](https://edtechdev.github.io/aied/concepts/vibe-coding/)
+
+> **Vibe coding** — building software by iteratively prompting a large language model and judging the resulting behavior, without directly reading or editing the underlying source code. Popularized by Andrej Karpathy in 2025 as the workflow where one "forgets the code even exists," vibe coding is the LLM-native realization of an older ambition, natural-language programming, and functions as a form of [[agentic-ai|end-user development]] in which prose becomes the primary programming interface.
+
+## Questions to Consider
+
+- Karpathy's original framing said you should "forget the code even exists." Before you read further, ask yourself: is not seeing the code a feature (it lowers barriers) or a risk (you cannot verify or fix what you cannot see)? What does the answer imply for who should be allowed to vibe-code?
+- Research on who succeeds at vibe coding found that traditional [[cs-education|computer-science achievement]] still predicts success even when the user never touches code. If that surprises you, what hidden skill might CS training be building that prose alone does not capture?
+- The same study found writing skill predicts vibe-coding performance largely *because* it produces higher-quality prompts. If prompting is really the bottleneck, is the right fix to [[prompt-engineering|teach people to prompt better]] — or to redesign tools so they demand less prose skill?
+- Vibe coding is often celebrated as making "anyone" a developer. But if writing skill and CS knowledge both shape outcomes, does vibe coding widen access to building software or merely relocate the skill barrier from code to prose?
+- Some developers distinguish "pure" vibe coding (never reading code) from AI-assisted coding where you review and edit what the model wrote. Where do you think genuine learning — versus [[cognitive-offloading|over-reliance]] — is more likely to happen, and why?
+
+## Introduction
+
+Vibe coding describes an interaction style enabled by LLM-integrated development platforms (Replit, Lovable, Cursor, and others): the user specifies a program in natural language, the model generates a working system, and the user iterates based on observed behavior rather than by editing source. The term was coined by OpenAI co-founder Andrej Karpathy in February 2025 to capture the experience of relying on the model to such an extent that "the code" fades from awareness. Vibe coding sits at the convergence of several strands this knowledge base already tracks — it is [[generative-ai|generative AI]] applied to [[cs-education|programming]], an extreme form of [[prompt-engineering|prompt-driven]] work, a concrete instance of [[human-ai-collaboration]], and the clearest route yet to [[teacher-role|non-programmers]] and end users building their own software (end-user development).
+
+It also has deep roots. The idea of programming in ordinary language long predates LLMs — from COBOL's aspiration to be "an English-language programming system for non-professional programmers," through Donald Knuth's literate programming, to research on natural-language programming with constrained subsets of English. Only with LLMs did it become feasible to map genuinely conversational, underspecified instructions to runnable code. Vibe coding is the particular variant in which the user deliberately does not inspect or edit the generated source, relying entirely on iterative prompting and behavioral evaluation.
+
+### Defining the construct: "pure" vs. code-visible vibe coding
+
+The definition of vibe coding is still in flux. Some use the term broadly to mean any AI-guided programming; others insist it refers strictly to "building software with an LLM without reviewing the code it writes." Google Cloud distinguishes a "pure" no-code version (consistent with Karpathy's definition) from a version where the user understands and refines the generated code. This distinction matters for [[research-methods-aied|research]]: a controlled study of vibe-coding proficiency requires a well-defined construct. The CHI 2026 study of predictors of vibe-coding proficiency deliberately targeted the "pure," no-code variant — participants could not view or edit the generated source, so measured performance reflected the ability to specify, refine, and debug behavior through prose and observed output alone (see [[vibe-coding-writing-cs-achievement-2026|Thorgeirsson et al.]]).
+
+### Who succeeds at vibe coding: evidence
+
+A preregistered cross-sectional study (N = 100 tertiary students) provides the first controlled, participant-level evidence on which skills predict vibe-coding success. Both [[writing-education|written-communication proficiency]] (r = .29) and computer-science achievement (r = .39) significantly predicted performance on expert-vetted, GUI-oriented vibe-coding tasks, with CS achievement remaining significant after controlling for domain-general cognitive skills (partial r = .281). In a joint model CS achievement contributed roughly twice the unique variance of writing skill, but both added independent predictive value. Critically, human-graded prompt quality mediated the writing→performance link, giving response-process evidence that clear prose operates by producing better prompts. Because the environment hid the source code, CS knowledge could only help indirectly (through problem decomposition, algorithmic thinking, and mental models of control flow) — so the authors argue their CS estimate is a *lower bound* for AI-assisted programming in which users may also edit code directly ([[vibe-coding-writing-cs-achievement-2026|Thorgeirsson et al., 2026]]).
+
+### Vibe coding as end-user development and teacher tooling
+
+A major promise of vibe coding is that it lets non-programmers — including [[teacher-role|teachers]] and domain experts — build their own software, an LLM-era form of end-user development. A [[gaide-vibe-coding-k12-teachers|GAIDE framework study]] showed K-12 teachers (non-programmers) using vibe coding in an eight-week workshop to create AI-powered learning tools, raising their [[ai-literacy|AI literacy]] and demonstrating "learning-by-creating" as a professional-development model. In higher education, an instructor rapidly built a [[vibe-coding-programming-process-visualizer|programming-process visualizer from IDE activity logs]] via vibe coding in a matter of days, making students' programming processes visible for teaching and [[academic-integrity]] review. These cases position vibe coding not merely as a learner skill but as an authoring capability that [[educational-development|reshapes who can create educational technology]].
+
+### Learning, agency, and the risk of over-reliance
+
+Vibe coding reopens core questions about what is learned when AI automates implementation. Because the user does not read code, they must trust the model's behavior — which makes vibe coding a high-stakes case of the tension between [[agency]] and [[cognitive-offloading|over-reliance]] that runs through AI-assisted programming. Curricula are responding by shifting from teaching implementation toward teaching how to direct, verify, and audit AI-generated artifacts (see [[reshaping-cs-education-genai|reshaping undergraduate CS]] and [[agentic-ai|agentic software engineering]]). Vibe coding also changes the learner's epistemic position: success depends less on writing code than on expressing intent precisely and evaluating behavior against goals, competencies closer to [[computational-thinking|computational thinking]] and structured writing than to traditional syntax mastery.
+
+### Connections to related concepts
+
+Vibe coding connects naturally to [[prompt-engineering]] (prompt quality is the mechanism of prose-driven development), [[cs-education]] (as the domain where the technique is most used and most contested), [[computational-thinking]] (the mental modeling that predicts success even without code access), [[writing-education]] (writing becoming a programming skill), and [[agentic-ai]] (directing a model toward an artifact rather than hand-building it). It also intersects with [[ai-literacy]] and [[teacher-role]], since the ability to build one's own tools changes what teachers and learners can do. Finally, it raises [[academic-integrity]] and assessment questions identical to those AI code generation raises across computing education.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[llm]]
+- [[prompt-engineering]]
+- [[cs-education]]
+- [[computational-thinking]]
+- [[writing-education]]
+- [[agentic-ai]]
+- [[human-ai-collaboration]]
+- [[ai-literacy]]
+- [[teacher-role]]
+- [[cognitive-offloading]]
+
+## Connected Articles
+
+- [[vibe-coding-writing-cs-achievement-2026]] — Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency (CHI 2026 empirical study)
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
+- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
+- [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education
+- [[reshaping-cs-education-genai]] — Reshaping Undergraduate CS Education for Generative AI
+- [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
 
 ---
 
@@ -10319,6 +10386,7 @@ The question "what should students still learn by hand?" now reshapes computing 
 - **From implementation to verification:** [[reshaping-cs-education-genai|Reshaping Undergraduate CS Education]] argues that as GenAI automates implementation-level programming, debugging, and testing, curricula must shift toward *understanding and verifying AI-generated artifacts*, preserving system design, abstraction, and critical evaluation while de-emphasizing low-level implementation details. This aligns with [[ai-literacy]] frameworks that prize evaluation over generation.
 - **Agentic software engineering as a discipline:** [[ase-26-agentic-software-engineering-curriculum|ASE-26]] formalizes directing agents rather than writing code — teaching auditability, context engineering, verification, multi-agent workflows, and AgentOps — and positions [[agentic-ai|agentic AI]] competence as a structured, scaffolded curriculum rather than syntax mastery.
 - **New pedagogies and assessment models:** [[test-driven-ai-assisted-learning|Test-Driven AI-Assisted Learning]] replaces lectures with self-directed AI-assisted study gated by weekly closed-book tests, preserving individual accountability while AI agents scale material production and marking under human oversight.
+- **What predicts [[vibe-coding]] success — and what to keep teaching:** [[vibe-coding-writing-cs-achievement-2026|A preregistered CHI 2026 study (N=100)]] of pure "no-code" vibe-coding found that both computer-science achievement (r = .39) and written-communication proficiency (r = .29) independently predicted performance, with CS achievement remaining significant even after controlling for domain-general cognitive ability and contributing roughly twice the unique variance of writing skill. Because the environment hid generated code, CS knowledge could only help indirectly (problem decomposition, algorithmic thinking) — making the CS estimate a *lower bound* for AI-assisted workflows that also permit editing. The authors argue curricula should weigh written communication alongside CS fundamentals, rather than treating vibe coding as syntax mastery made obsolete.
 
 ### AI literacy, agency, and the risk of over-reliance
 
@@ -10363,6 +10431,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 ## Connected Concepts
 
 - [[computational-thinking]]
+- [[vibe-coding]]
 - [[stem-education]]
 - [[automated-assessment]]
 - [[prompt-engineering]]
@@ -10380,7 +10449,8 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[teacher-education]]
 
 ## Connected Articles
-- [[tutortrace-learner-behavioral-states-2026]]
+- [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
+ [[tutortrace-learner-behavioral-states-2026]]
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
 - [[zhan-chapman-genai-cs-education-2026]] — GenAI in CS education
 - [[code-review-genai-cs1]] — CS1 code review of AI-generated code
@@ -41389,6 +41459,7 @@ This work connects to core knowledge base themes: [[k-12]] [[teacher-role]] [[ai
 
 ## Connected Concepts
 
+- [[vibe-coding]]
 - [[k-12]]
 - [[teacher-role]]
 - [[ai-literacy]]
@@ -41399,6 +41470,7 @@ This work connects to core knowledge base themes: [[k-12]] [[teacher-role]] [[ai
 - [[professional-training]]
 ## Connected Articles
 
+- [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
@@ -71802,6 +71874,7 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 
 ## Connected Concepts
 
+- [[vibe-coding]]
 - [[automated-assessment]]
 - [[personalized-learning]]
 - [[student-experience]]
@@ -71818,6 +71891,7 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 
 ## Connected Articles
 
+- [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
 - [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
@@ -71828,6 +71902,46 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 ## Citation
 
 Heidi Taveter, Marina Lepp (2026). [From Idea to Classroom in Days: Using Vibe Coding to Create a Programming Process Visualizer from IDE Activity Logs](https://arxiv.org/abs/2607.24757). FIE 2026 (IEEE Frontiers in Education Conference).
+
+---
+
+## [Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency](https://edtechdev.github.io/aied/articles/vibe-coding-writing-cs-achievement-2026/)
+
+In a preregistered cross-sectional study (N = 100 [[higher-ed|tertiary]] students), both [[writing-education|written-communication proficiency]] (r = .29) and computer-science achievement (r = .39) significantly predicted GUI-oriented "vibe coding" performance, with CS achievement remaining a significant predictor after controlling for domain-general cognitive skills — a finding that links prose skill to [[llm]]-driven development; in a joint model CS achievement contributed roughly twice the unique variance of writing skills, though both added independent predictive value, and prompt quality mediated the link from writing skill to vibe-coding success. Findings speak to tool and curriculum design — when to emphasize prompt-writing versus CS fundamentals.
+
+**Relevance to [[ai-education|AI in Education]]:** This study reframes writing as a primary programming skill in the era of LLM-native software creation, connecting directly to [[prompt-engineering]] research, the construct of [[vibe-coding|vibe coding]], [[cs-education]] curriculum redesign, and the predictors of who succeeds when AI handles implementation. It provides controlled, preregistered evidence that complements the practice-oriented vibe-coding papers already in this knowledge base.
+
+## Key Findings
+
+- **Both writing and CS achievement predict vibe coding.** In a preregistered, cross-sectional study (N = 100 tertiary students), written-communication proficiency correlated r = .29 with vibe-coding performance and CS achievement r = .39; both were significant independent predictors in a joint model, where CS achievement contributed roughly twice the unique variance of writing skill.
+- **CS achievement survives controlling for general cognitive ability.** CS achievement remained a significant predictor (partial r = .281, p = .005) of vibe-coding performance after controlling for domain-general cognitive skills (ICAR16), indicating the relationship is not merely an artifact of general reasoning.
+- **Writing works through [[prompt-engineering|prompt quality]].** Human-graded prompt quality mediated the association between writing skill and vibe-coding performance — response-process evidence that clear, structured prose translates into better natural-language prompts, supporting the construct validity of the measure and the importance of [[writing-education|written communication]] in LLM-native development.
+- **CS knowledge helps even in "no-code" mode** (decomposition and algorithmic thinking are facets of [[computational-thinking]]). Because the environment hid the generated source, CS achievement could only operate indirectly (problem decomposition, mental models of control flow); the authors argue this makes their CS estimate a *lower bound* for general LLM-augmented programming where code editing is also available.
+- **The pattern extends beyond GUI surface tasks.** In the data-centric, constraint-satisfying meal-planning subtask, both CS achievement (r = .320) and [[writing-education|writing]] (r = .202) remained significant predictors, tentatively suggesting the findings are not limited to surface-level GUI construction.
+- **Exploratory: prior LLM usage negatively correlated with writing and vibe-coding performance** (though not with CS achievement) — the authors speculate LLMs may blunt expression, or weaker writers self-select into heavier LLM use; not causal.
+
+## Connected Concepts
+
+- [[vibe-coding]]
+- [[cs-education]]
+- [[prompt-engineering]]
+- [[writing-education]]
+- [[computational-thinking]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[generative-ai]]
+
+## Connected Articles
+
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
+- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
+- [[conversational-agents-novice-programmers-scoping-2025]] — Exploring Conversational Agents for Novice Programmers: A Scoping Review
+- [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education
+
+## Citation
+
+Thorgeirsson, S., Weidmann, T. B., & Su, Z. (2026). [Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency](https://doi.org/10.1145/3772318.3791666). *Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)*, Barcelona, Spain. 17 pages.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-08T01:40:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, generative-ai, scaffolding, llm, student-experience, prompt-engineering]
 audience: [learners]
@@ -44,9 +44,11 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 
 Prompt engineering connects to [[scaffolding]] — well-designed prompts can scaffold student thinking rather than bypass it. It intersects with [[metacognition]] and [[ai-literacy]], as effective prompting requires understanding both the AI's capabilities and one's own learning goals. The [[cognitive-offloading]] research directly links prompt quality to whether AI use supports or undermines learning.
 
+- **Writing skill drives prompting, and both predict [[vibe-coding]] success.** In a preregistered CHI 2026 study (N=100), [[vibe-coding-writing-cs-achievement-2026|Thorgeirsson, Weidmann & Su]] found that written-communication proficiency predicted GUI-oriented vibe-coding performance (r = .29), with human-graded prompt quality *mediating* the link — response-process evidence that clear, structured prose translates into better natural-language programming prompts. Both writing skill and [[cs-education|CS achievement]] were independent predictors, and CS achievement (r = .39) carried roughly twice the unique variance, so improving prompting alone is unlikely to fully substitute for programming fundamentals in LLM-native development.
 - **Prompting strategy predicts performance.** An [[isaza-chatgpt-engineering-prompting-2026|empirical study of 128 engineering students]] found that AI Query Efficiency (clear, well-structured prompts) and AI-Driven [[problem-solving]] (strategic integration of AI output into reasoning) were the strongest predictors of academic success — even after controlling for GPA — indicating prompting is a teachable skill that shapes how effectively students learn with AI.
 
 ## Connected Concepts
+- [[vibe-coding]]
 - [[guardrails]]
 
 - [[scaffolding]]
