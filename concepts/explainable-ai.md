@@ -1,7 +1,7 @@
 ---
 title: Explainable AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-09-07T10:20:00-04:00"
+updated: "2026-09-08T13:30:42-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, learning-analytics, automated-assessment, bias-mitigation, intelligent-tutoring, human-in-the-loop-ai, pedagogical-safety, metacognition, student-modeling]
 audience: [learners, researchers, designers, educators]
@@ -33,7 +33,7 @@ The distinction matters because they serve different stakeholders and different 
 
 ## Who needs explanations: multi-stakeholder design
 
-- **Learners** need explanations that support their own learning and self-regulation — why a hint was given, why their answer was marked incorrect, why this resource is recommended (supporting [[self-regulated-learning]]). The [[who-should-grade-my-work-ai-writing-assessment-2026|student-perspective evidence]] shows learners draw a sharp line between accepting AI *feedback* (useful for revision) and ceding *grading authority* (reserved for the human instructor) — a calibrated, function-matched stance activated by transparency about AI involvement.
+- **Learners** need explanations that support their own learning and self-regulation — why a hint was given, why their answer was marked incorrect, why this resource is recommended (supporting [[self-regulated-learning]]). The [[who-should-grade-my-work-ai-writing-assessment-2026|student-perspective evidence]] shows learners draw a sharp line between accepting AI *feedback* (useful for revision) and ceding *grading authority* (reserved for the human instructor) — a calibrated, function-matched stance activated by transparency about AI involvement. [[ko-hughes-vsd-student-centered-its-2026|Value-sensitive design work with community college students]] sharpens the point: students preferred *collaborative, humanized* explanations (e.g., "the AI might be uncertain here, so let's check this together") over raw model confidence or technical transparency, because transparency alone has little value unless it directly supports their learning. The study surfaced a transparency-vs.-interpretability tension that pushes explanation design toward learner-facing semantics rather than feature-importance output.
 - **Teachers** need explanations that inform intervention — which students are at risk and *why*, on what evidence. [[xai-teachers-trust-edtech-recommendations-2026|Explainability studies with teachers]] show [[discipline-specific-aied|domain-specific]], [[curriculum-design|curricular]]-language explanations build acceptance and calibrated trust more effectively than generic feature-importance ones, yet teachers still want real classroom experience before full reliance — explanation alone does not confer [[trust-calibration|calibration]].
 - **Developers and researchers** need explanations to debug model behavior and detect [[bias-mitigation|bias]] — surfacing which features drive predictions.
 - **Administrators and policymakers** need explanations for accountability, [[privacy]], and [[regulation]] compliance (e.g. the right to explanation), and to audit whether AI-driven decisions are fair and [[equity-in-ai-education|equitable]].
@@ -61,7 +61,6 @@ A recurring lesson across the evidence: **having an explanation is not enough**;
 Explanation quality also has an equity dimension: an explanation that is technically present but unreadable to a given stakeholder — or that obscures the [[bias-mitigation|bias]] in a prediction — fails its purpose. This is why the design question is *quality and fit*, and why human-centred, stakeholder-specific explanation design is inseparable from the technical generation of explanations. Effective XAI is a communication act designed for the recipient's cognitive needs, not merely a technical artifact.
 
 ## Connected Concepts
-
 - [[trust-calibration]]
 - [[trust]]
 - [[ai-literacy]]
@@ -80,7 +79,7 @@ Explanation quality also has an equity dimension: an explanation that is technic
 - [[regulation]]
 
 ## Connected Articles
-
+- [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (collaborative vs. raw explanations)
 - [[xai-education-framework]] — XAI-ED: the foundational framework for explainable AI in education (Khosravi et al. 2022)
 - [[xai-teachers-trust-edtech-recommendations-2026]] — Domain-specific explanations build teachers' trust and acceptance (Feldman-Maggor et al. 2025)
 - [[who-should-grade-my-work-ai-writing-assessment-2026]] — Student perspectives on transparent AI-assisted assessment (AlGhamdi 2026)
