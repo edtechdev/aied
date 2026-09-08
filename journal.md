@@ -1,8 +1,9 @@
 # Journal
 
-Last updated: 2026-09-08 | Total entries: 1294
+Last updated: 2026-09-08 | Total entries: 1295
 
 ## 2026-09-08
+- 📄 [[karr-ai-detection-humanization-2026]] — Why AI Detection Fails for Academic Integrity
 - 📄 [[vibe-coding-writing-cs-achievement-2026]] — Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency
 - 📘 [[vibe-coding]] — Vibe Coding
 

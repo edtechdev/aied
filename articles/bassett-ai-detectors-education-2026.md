@@ -1,7 +1,7 @@
 ---
 title: "Heads We Win, Tails You Lose: AI Detectors in Education"
 created: "2026-08-22T19:50:00-04:00"
-updated: "2026-08-23T09:20:00-04:00"
+updated: "2026-09-08T01:59:05-04:00"
 type: article
 tags: [ai-detection, academic-integrity, generative-ai, higher-ed, assessment-validity, trust, writing-education, authentic-assessment, educational-policy-ai, governance]
 research_method: [theoretical analysis]
@@ -56,6 +56,7 @@ This paper is a strong argument in the knowledge base's [[ai-detection]] and [[a
 
 ## Connected Articles
 
+- [[karr-ai-detection-humanization-2026]] — Why AI Detection Fails for Academic Integrity: controlled evidence of the catch-22
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment in the age of AI
 - [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-generated text via latent prompts
 - [[llm-detecting-llm-generated-content-education]] — LLMs detecting LLM-generated content in education
