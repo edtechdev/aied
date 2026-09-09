@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-04T04:39:00-04:00"
+updated: "2026-09-09T09:05:09-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, metacognition, cognitive-offloading, academic-integrity, generative-ai, student-experience, teacher-role]
 audience: [learners, instructors]
@@ -123,3 +123,4 @@ These refutations are deliberately written in the [[refutation-text|refutation-t
 - [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 
+- [[circututor-dc-circuit-tutoring-2026]] — CircuTutor: maps answer discrepancies to likely circuit misconceptions and generates adaptive exercises
