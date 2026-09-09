@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-09 | Total entries: 1311
+Last updated: 2026-09-09 | Total entries: 1312
 
 ## 2026-09-09
+- 📄 [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty Self-Perceived Knowledge in Using Generative AI to Teach 21st-Century Skills
 - 📄 [[genai-cognitive-tutor-programming-2026]] — Beyond Immediate Resolution: Generative AI as an Informal Cognitive Tutor in Novice Programming Learning
 - 📄 [[emancipatory-ai-learner-flourishing-2026]] — An Emancipatory Vision for Designing (Generative) AI for Learner Flourishing
 - 📄 [[early-warning-mtss-k12-2026]] — From Early Warning to Action: A Data-Driven Framework for Integrating Early Warning Systems and MTSS in K-12 Education

@@ -1,7 +1,7 @@
 ---
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-03T12:30:00-04:00"
+updated: "2026-09-09T02:58:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design]
@@ -68,6 +68,8 @@ For faculty developers, academic leaders, and instructional designers planning A
 
 **Model AI literacy and measure real gains.** Faculty development should itself embody the practices being taught — using AI pedagogically, evaluating outputs critically — and should assess demonstrated competence rather than self-reported confidence, since self-perception reliably overestimates AI skill.([[ai-literacy-assessment-misalignment]])([[genai-pd-ai-pck-learning-gain-2026]])
 
+**Do not assume subject-matter expertise carries over to GenAI.** [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo, Chowdhury & Liu (2026)]] surveyed 127 U.S. research-university faculty using the [[tpack|TPACK-21]] instrument and found content knowledge (CK) showed **no significant correlation** with technological knowledge or any technology-integrated domain (r = .11–.15, ns) — disciplinary expertise did not predict GenAI-integration knowledge. The technology-integrated domains (TPK, TCK, TPACK) inter-correlated so strongly (r = .81–.91) that they may function as a single GenAI-integration factor. Practically: build GenAI integration through **discipline-specific** activities that connect GenAI affordances to each faculty member's subject matter, and treat the technology-integrated domains as one shared GenAI-literacy foundation rather than train them as separate skills.([[sutedjo-faculty-genai-tpack-21-2026]])
+
 **Discipline-specific smart-classroom models.** [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao, and Wang (2026)]] show how a [[math-education|mathematics]] M.Ed. course can be enhanced with intelligent educational [[ai-technologies|technologies]] ([[automated-assessment|automated scoring]], personalized recommendations, multi-[[ai-feedback-quality|AI feedback]]) integrated across pre-, in-, and post-class stages within a three-dimensional smart-classroom framework. Their quasi-experiment found statistically significant gains in instructional-objective design proficiency, offering a transferable **D-T-E Model** (Disciplinary Demand–Technological Empowerment–Evaluation Loop) for [[teacher-education|teacher educators]] and educational developers looking to move smart-education frameworks from macro concepts into discipline-specific practice.
 
 ## Connected Concepts
@@ -112,6 +114,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty self-perceived TPACK-21 knowledge for GenAI (Sutedjo, Chowdhury & Liu 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-09-06T08:30:00-04:00"
+updated: "2026-09-09T02:58:00-04:00"
 type: concept
 tags: [tpack, ai-literacy, teacher-ai-competency, educational-development, generative-ai, teacher-role, learning-design, curriculum-design]
 audience: [faculty development, instructors]
@@ -46,6 +46,7 @@ The AI era has pushed the framework toward a technology-with-intelligence readin
 - **Proficiency alone does not predict pedagogical integration.** [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] measured teachers' Intelligent-TPACK to segment participants and observed that even AI-proficient novices relied passively on AI output during lesson design, whereas experienced teachers — with lower measured AI-TPACK — critically re-engaged and adapted AI suggestions to pedagogical context. The result reinforces the pattern above: AI-TPACK translates into sound classroom use through experienced pedagogical judgment, and [[teacher-education|teacher-education]] support must therefore target the *application* of AI knowledge, not its mere possession.
 - **[[teacher-education|Teacher education]] context.** TPACK is instrumental in cultivating teachers' competency to integrate technology into [[curriculum-design|curriculum]]-specific instruction, which is why teacher-education and PD research (e.g., [[genai-pd-ai-pck-learning-gain-2026|intensive GenAI PD programs]], [[ai-tpack-preservice-math-teachers|AI-TPACK readiness among pre-service teachers]]) increasingly measures it as the outcome of interest.
 - **Pedagogical knowledge mediates GenAI integration.** [[tpack-genai-inservice-teachers-mediation-2026|Mohebi and ElSayary (2026)]] surveyed **325 in-service teachers across 26 countries** and interviewed seven, using an explanatory sequential [[mixed-methods-research|mixed-methods]] design to model TPACK-GenAI. Technological Knowledge (TK), Pedagogical Knowledge (PK), and Pedagogical Content Knowledge (PCK) each associated with overall TPACK-GenAI, but **Technological Pedagogical Knowledge (TPK) mediated** these links — evidence that the "from proficiency to pedagogy" move matters: translating GenAI skill into sound classroom use runs through pedagogical-technological integration knowledge, not tool familiarity alone.
+- **In higher education, content expertise does not transfer to GenAI integration.** [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo, Chowdhury & Liu (2026)]] adapted the [[ai-literacy|TPACK-21]] instrument to survey **127 faculty** at a U.S. research university on using GenAI to teach 21st-century skills. Faculty reported strong CK (M = 5.15) and PCK (M = 4.70) but low technology-integrated knowledge — TPK (M = 2.62), TCK (M = 2.75), and overall TPACK (M = 2.55, the lowest domain) — and CK showed **no significant correlation with TK or any technology-integrated domain** (r = .11–.15, ns). The three technology-integrated domains inter-correlated so strongly (r = .81–.91) that they may function as a single GenAI-integration factor. The result reinforces the *training the intersections* design principle: [[educational-development|faculty development]] must deliberately build GenAI-integration knowledge through [[discipline-specific-aied|discipline-specific]] activities rather than assume subject-matter expertise will carry over, and treat the technology-integrated domains as a shared GenAI-literacy foundation.
 
 ## Why It Matters in AI Education
 
@@ -98,4 +99,5 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 - [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
 
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty self-perceived TPACK-21 knowledge for GenAI in higher education (Sutedjo, Chowdhury & Liu 2026)
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
