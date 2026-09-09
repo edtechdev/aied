@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-09
 
-Articles: 1123 | Concepts: 186 | FAQs: 17
+Articles: 1124 | Concepts: 186 | FAQs: 17
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -922,6 +922,7 @@ Articles: 1123 | Concepts: 186 | FAQs: 17
 - [[pbl-biomedical-engineering-genai-2026]] — 'Advancing Problem-Based Learning in Biomedical Engineering in the Era of Generative AI'
 - [[pbl-structural-conditions-ai-2026]] — 'Problem-Based Learning and the Structural Conditions for Productive AI Integration'
 - [[pchl-he-framework-genai-content-creation-2026]] — From Prompts to Verified Loops: The PCHL-HE Framework for Generative AI-Assisted Educational and Research Content Creation in Higher Education
+- [[perrotta-zero-shot-governance-2026]] — Zero-Shot Governance: General-Purpose AI in Policy
 - [[pearls-epistemic-verification-2026]] — From Plausibility to Verifiability: The PEARLS Framework for Developing Epistemic Agency in Generative AI-Mediated Higher Education
 - [[pecuchova-automated-grading-open-ended-genai-2026]] — Automated Grading of Open-Ended Questions in Higher Education Using GenAI Models
 - [[pedagogical-agent]] — Pedagogical Agent

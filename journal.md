@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-09 | Total entries: 1309
+Last updated: 2026-09-09 | Total entries: 1310
 
 ## 2026-09-09
+- 📄 [[perrotta-zero-shot-governance-2026]] — Zero-Shot Governance: General-Purpose AI in Policy
 - 📄 [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty Self-Perceived Knowledge in Using Generative AI to Teach 21st-Century Skills
 - 📄 [[genai-cognitive-tutor-programming-2026]] — Beyond Immediate Resolution: Generative AI as an Informal Cognitive Tutor in Novice Programming Learning
 - 📄 [[emancipatory-ai-learner-flourishing-2026]] — An Emancipatory Vision for Designing (Generative) AI for Learner Flourishing

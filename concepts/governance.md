@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-08T02:41:30-04:00"
+updated: "2026-09-09T19:18:07-04:00"
 type: concept
 tags: [educational-policy-ai, ethics, higher-ed, change-management, privacy, regulation, ai-education]
 level: [higher ed]
@@ -21,7 +21,9 @@ confidence: high
 
 ## Introduction
 
-AI governance in education is increasingly urgent because [[generative-ai|generative AI]] introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, [[agency|learner agency]], [[assessment]] validity, and the [[teacher-role|role of educators]] as epistemic authorities. Governance addresses questions of [[academic-integrity|academic integrity]] (what counts as acceptable AI use), [[privacy|data privacy]] and security, [[bias-mitigation|algorithmic bias]] and fairness, transparency and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the knowledge base's [[research-methods-aied|research]] is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
+AI governance in education is increasingly urgent because [[generative-ai|generative AI]] introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, [[agency|learner agency]], [[assessment]] validity, and the [[teacher-role|role of educators]] as epistemic authorities. Governance addresses questions of [[academic-integrity|academic integrity]] (what counts as acceptable AI use), [[privacy|data privacy]] and security, [[bias-mitigation|algorithmic bias]] and fairness, [[explainable-ai|transparency]] and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the knowledge base's [[research-methods-aied|research]] is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
+
+- **Zero-shot governance as a structural condition of platformisation.** [[perrotta-zero-shot-governance-2026|Perrotta (2026)]] develops the concept of **zero-shot governance** — domain-agnostic [[generative-ai|generative AI]] intervening in policy decisions — through a code-level analysis of **Redbox**, a discontinued UK civil-service prototype built on off-the-shelf [[llm|LLMs]]. Reading its architecture (an invisible system prompt + a thin Python wrapper over a [[rag]] retrieve→format→generate pipeline and a provider-agnostic cloud stack), the article argues that the general-purpose nature of foundation models is a *structural feature* of platformisation that can be mitigated but never ruled out: [[agentic-ai|agentic AI]] does not interrupt the monopolistic, rentier logic of platforms, and the same probabilistic mechanism that generates novelty also produces [[hallucination-risk|hallucinations]]. For governance, the implication is that oversight of general-purpose AI must treat aberrant output as an irreducible, only-mitigable risk rather than a fixable bug — a caution that applies equally to [[educational-policy-ai|education policy]] reasoning.
 
 - **[[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi]]** [[meta-analysis-systematic-review|scoping review]] frames AI governance in higher education through anticipatory-governance and leadership lenses.
 - **Student co-design of policy:** [[guided-inquiry-genai-course-policy-2026|Hingle & Johri]] show how a guided inquiry activity in which students co-designed a GenAI course policy surfaced student values — prioritizing training, standardized [[ai-use-disclosure|disclosure]] procedures, stronger institutional support, and greater involvement in decision-making. This positions students as partners in governance rather than passive subjects, complementing institutional-level policy with bottom-up student voice.
@@ -134,3 +136,4 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
+- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy (Perrotta 2026)
