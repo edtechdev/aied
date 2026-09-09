@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-09T09:05:09-04:00"
+updated: "2026-09-09T19:18:07-04:00"
 type: concept
 tags: [regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics]
 audience: [administrators, instructors, faculty development]
@@ -27,7 +27,7 @@ confidence: high
 ## Policy levels
 
 - **Institutional policy:** [[genai-policies-higher-ed-computing|Institutional policy analysis]] compares how universities develop AI policies. [[institutional-change-framework-ai|Institutional change frameworks]] provide models for policy development.
-- **Government policy:**  and [[ai-lifelong-learning-policy|lifelong learning policy]] examine regulatory approaches at national and regional levels.
+- **Government policy:**  and [[ai-lifelong-learning-policy|lifelong learning policy]] examine regulatory approaches at national and regional levels. A critical, infra-level view of AI in government policy-making is [[perrotta-zero-shot-governance-2026|Perrotta (2026)]], whose analysis of the UK Redbox civil-service [[llm]] prototype shows how general-purpose AI enters the professional toolkit of policy through "zero-shot governance" — domain-agnostic foundation models intervening in decisions, wrapped in thin [[discipline-specific-aied|domain-specific]] [[scaffolding|scaffolds]].
 - **K-12 policy:**  and [[stanford-evidence-base-ai-k12-2026|Stanford evidence reviews]] inform K-12 AI policy.
 - **Assessment policy:** [[ai-assessment-scale-reform|Assessment reform policies]] and [[authentic-assessment]] frameworks represent policy-level responses to [[academic-integrity|AI-enabled cheating]]. The choice of summative assessment format — oral, proctored, closed-book — is itself an assessment-policy decision (see [[summative-assessment]]).
 
@@ -126,3 +126,4 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
+- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy (Perrotta 2026)

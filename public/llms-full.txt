@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 186 concepts, 1123 articles, and 17 FAQs.
+> Complete text of 186 concepts, 1124 articles, and 17 FAQs.
 
 # Concepts
 
@@ -15683,7 +15683,7 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 ## Policy levels
 
 - **Institutional policy:** [[genai-policies-higher-ed-computing|Institutional policy analysis]] compares how universities develop AI policies. [[institutional-change-framework-ai|Institutional change frameworks]] provide models for policy development.
-- **Government policy:**  and [[ai-lifelong-learning-policy|lifelong learning policy]] examine regulatory approaches at national and regional levels.
+- **Government policy:**  and [[ai-lifelong-learning-policy|lifelong learning policy]] examine regulatory approaches at national and regional levels. A critical, infra-level view of AI in government policy-making is [[perrotta-zero-shot-governance-2026|Perrotta (2026)]], whose analysis of the UK Redbox civil-service [[llm]] prototype shows how general-purpose AI enters the professional toolkit of policy through "zero-shot governance" — domain-agnostic foundation models intervening in decisions, wrapped in thin [[discipline-specific-aied|domain-specific]] [[scaffolding|scaffolds]].
 - **K-12 policy:**  and [[stanford-evidence-base-ai-k12-2026|Stanford evidence reviews]] inform K-12 AI policy.
 - **Assessment policy:** [[ai-assessment-scale-reform|Assessment reform policies]] and [[authentic-assessment]] frameworks represent policy-level responses to [[academic-integrity|AI-enabled cheating]]. The choice of summative assessment format — oral, proctored, closed-book — is itself an assessment-policy decision (see [[summative-assessment]]).
 
@@ -15782,6 +15782,7 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
+- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy (Perrotta 2026)
 
 ---
 
@@ -15800,7 +15801,9 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 
 ## Introduction
 
-AI governance in education is increasingly urgent because [[generative-ai|generative AI]] introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, [[agency|learner agency]], [[assessment]] validity, and the [[teacher-role|role of educators]] as epistemic authorities. Governance addresses questions of [[academic-integrity|academic integrity]] (what counts as acceptable AI use), [[privacy|data privacy]] and security, [[bias-mitigation|algorithmic bias]] and fairness, transparency and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the knowledge base's [[research-methods-aied|research]] is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
+AI governance in education is increasingly urgent because [[generative-ai|generative AI]] introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, [[agency|learner agency]], [[assessment]] validity, and the [[teacher-role|role of educators]] as epistemic authorities. Governance addresses questions of [[academic-integrity|academic integrity]] (what counts as acceptable AI use), [[privacy|data privacy]] and security, [[bias-mitigation|algorithmic bias]] and fairness, [[explainable-ai|transparency]] and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the knowledge base's [[research-methods-aied|research]] is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
+
+- **Zero-shot governance as a structural condition of platformisation.** [[perrotta-zero-shot-governance-2026|Perrotta (2026)]] develops the concept of **zero-shot governance** — domain-agnostic [[generative-ai|generative AI]] intervening in policy decisions — through a code-level analysis of **Redbox**, a discontinued UK civil-service prototype built on off-the-shelf [[llm|LLMs]]. Reading its architecture (an invisible system prompt + a thin Python wrapper over a [[rag]] retrieve→format→generate pipeline and a provider-agnostic cloud stack), the article argues that the general-purpose nature of foundation models is a *structural feature* of platformisation that can be mitigated but never ruled out: [[agentic-ai|agentic AI]] does not interrupt the monopolistic, rentier logic of platforms, and the same probabilistic mechanism that generates novelty also produces [[hallucination-risk|hallucinations]]. For governance, the implication is that oversight of general-purpose AI must treat aberrant output as an irreducible, only-mitigable risk rather than a fixable bug — a caution that applies equally to [[educational-policy-ai|education policy]] reasoning.
 
 - **[[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi]]** [[meta-analysis-systematic-review|scoping review]] frames AI governance in higher education through anticipatory-governance and leadership lenses.
 - **Student co-design of policy:** [[guided-inquiry-genai-course-policy-2026|Hingle & Johri]] show how a guided inquiry activity in which students co-designed a GenAI course policy surfaced student values — prioritizing training, standardized [[ai-use-disclosure|disclosure]] procedures, stronger institutional support, and greater involvement in decision-making. This positions students as partners in governance rather than passive subjects, complementing institutional-level policy with bottom-up student voice.
@@ -15913,6 +15916,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
+- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy (Perrotta 2026)
 
 ---
 
@@ -59860,6 +59864,44 @@ As a scoping review, its aim was to map available evidence rather than assess qu
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
 ## Citation
 Martinez-Roig, R., Aragonés-González, M., & Cazorla, M. (2026). [*Exploring the implementation of the Pepper social robot in formal education: A scoping review*](https://doi.org/10.1007/s44322-026-00072-1). *Journal of New Approaches in Educational Research*, 15, 22.
+
+---
+
+## [Zero-Shot Governance: General-Purpose AI in Policy](https://edtechdev.github.io/aied/articles/perrotta-zero-shot-governance-2026/)
+
+> **Perrotta (2026)** advances the concept of **zero-shot governance** — the scenario in which domain-agnostic [[generative-ai|generative AI]] foundation models intervene in policy decisions — through a critical infrastructural analysis of **Redbox**, a discontinued UK civil-service prototype built on off-the-shelf [[llm|LLMs]]. Reading Redbox's codebase through intersecting technical, political, and cultural lenses, the article argues that the general-purpose nature of LLMs is a structural feature of the technology that can be *mitigated but never ruled out* — a conclusion with direct implications for [[educational-policy-ai|education policy]] and [[governance|AI governance]].
+
+## Key Findings
+
+- **The "world model" principle underlies zero-shot governance.** Building on Amoore et al.'s "zero-shot politics," the article argues that the general-purpose potential of foundation models — their ability to produce a usable response to almost any prompt, with few or no examples — extends the anticipatory-governance paradigm toward a probabilistic "world of experimentation, generalisation, and the capacity to act in all unencountered situations." This casts [[agentic-ai|autonomous agents]] as potential policy "actors" that reason beyond immediate data.
+- **Redbox is a proof of concept for LLMs in the professional toolkit of policy.** An infrastructural analysis of Redbox's codebase (its `poetry.lock` and `redbox.py`) reveals it is essentially an invisible system prompt plus a thin Python wrapper on a pre-existing platform stack: AWS compute (Elastic module), a [[rag]] pipeline (retrieve → format → generate) that transforms the user's prompt against a predefined governance framework, and a provider-agnostic commitment to OpenAI, Google, and Anthropic.
+- **Agentic AI does not interrupt the platform political economy.** Redbox's reliance on a few LLM providers and cloud infrastructure confirms that agentic AI continues the monopolistic, rentier logic of platforms — proprietary assets hired out, with many tool variations sharing the same general-purpose foundations. The shift from generic Redbox to tailored agents (e.g., DBT Assist) was "agile yet impressionistic," driven more by a "vibe" than by principled design.
+- **The general-purpose nature of LLMs is structural and cannot be ruled out.** Probabilistic generality is policed through internal system prompts and prior "sources of truth," but recent [[research-methods-aied|research]] shows general-purpose models increasingly evade [[guardrails]] toward "misaligned" objectives, requiring nested containment/sandboxing architectures. Hallucination and the ability to generate novelty share the same structural principle — so aberrant behavior is never zero-risk.
+- **Implications for oversight: humans are "peering over the loop," not in it.** Zero-shot governance risks encouraging a "gambler's delusion" and epistemological amateurism — trusting a superhuman "attention" mechanism to discover latent patterns across heterogeneous datasets, while probabilistic outputs remain grounded in [[prior-knowledge|prior knowledge]] and bias. The article calls for clearer articulation of the possibilities and dangers of agentic AI for education governance and the polity.
+
+## Synthesis
+
+The article's distinctive contribution is to give a concrete, code-level account of how general-purpose AI becomes a governance actor: not through any novel capability, but through an agile wrapping of off-the-shelf LLMs in a thin [[discipline-specific-aied|domain-specific]] [[scaffolding|scaffold]] (a system prompt + RAG). Zero-shot governance is therefore best understood not as a distinct technology but as a *structural condition* of platformisation — the general-purpose orientation of foundation models is what makes rapid, "zero-shot" repurposing into policy tools possible at all, and it is this same orientation that makes aberrant, hallucinated output a permanent, only-mitigable risk. For education, the article cautions against treating the world-model rhetoric as a reliable epistemic foundation for [[agency|policy reasoning]], and insists that oversight of such tools must assume the probabilistic brittleness is irreducible.
+
+## Connected Concepts
+
+- [[governance]]
+- [[educational-policy-ai]]
+- [[generative-ai]]
+- [[llm]]
+- [[agency]]
+- [[ai-literacy]]
+
+## Connected Articles
+
+- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI in higher education
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents
+- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
+- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+
+## Citation
+
+Perrotta, C. (2026). [Zero-shot governance](https://doi.org/10.1080/02680939.2026.2730191). *Journal of Education Policy*. Advance online publication.
 
 ---
 
