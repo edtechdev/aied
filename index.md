@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-09
 
-Articles: 1125 | Concepts: 186 | FAQs: 17
+Articles: 1126 | Concepts: 186 | FAQs: 17
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -1158,6 +1158,7 @@ Articles: 1125 | Concepts: 186 | FAQs: 17
 - [[suacode-african-students-motivations]] — 'Why SuaCode?": Understanding African Students'' Motivations for Taking a Smartphone-Based Online Coding Course'
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)
 - [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Agentic AI Ecosystems in Higher Education: A Perspective on Emerging Inclusive Agentic Multi-Agent AI Frameworks for Learning, Teaching and Institutional Intelligence
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty Self-Perceived Knowledge in Using Generative AI to Teach 21st-Century Skills
 - [[summative-assessment]] — Summative Assessment
 - [[sun-llm-nursing-education-professional-identity-2026]] — When the Algorithm Enters the Classroom: LLMs, Nursing Education Structural Gaps, and the Reconstitution of Professional Identity
 - [[supplynet-visual-exploratory-learning]] — SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation
