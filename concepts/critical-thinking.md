@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-09T01:46:17-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
 level: [higher ed]
@@ -31,6 +31,8 @@ The knowledge base's articles explore critical thinking through design-based and
 - **Higher-order cognitive engagement in student-AI chat.** Chang and Li (2026) find that ~62% of student prompts to AI encode higher-order cognitive demand, with Bloom-level profiles varying by discipline ([[stem-education|STEM]] Apply-prevalent 20.8%, language Understand-prevalent 31.7%, social science Create-prevalent 33.8%). Their within-person design shows the same students produce significantly more higher-order prompts in social science than STEM courses (p < .001), indicating that disciplinary context shapes critical and higher-order engagement with AI.
 
 - **AI as a catalyst for critical media literacy in children.** Demir and Akar (2026) evaluate an 18-hour, 5E-model critical media literacy program for fourth-grade Turkish students in which [[generative-ai|generative AI]] (ChatGPT, Grammarly) acted as a [[pedagogical-agent|pedagogical agent]] embedded phase-by-phase rather than an add-on. Paired-samples comparisons showed large gains in media reading (+3.50), writing (+1.67), and total media literacy (+5.17, all p < .01), with between-group post-test effect sizes of Cohen's *d* = 1.12 (reading), 1.18 (writing), and 1.31 (total literacy) favoring the AI-supported group. [[qualitative-research|Qualitative]] analysis (interviews, student posters/drawings/slogans, classroom observation) surfaced six domains of critical media literacy growth — digital self-protection and [[privacy|data privacy]], purposeful and responsible media use, safe communication and boundary awareness, critical evaluation and misinformation awareness, online risk awareness, and media [[ethics]]/digital citizenship — indicating that deliberately interrogating AI-mediated content can cultivate critical analysis and reflection in young learners.
+
+- **Dimension-specific critical-thinking gains in primary multimodal writing.** [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] followed 60 [[k-12|Grade 5]] students through an eight-week conversational-AI-supported multimodal writing practice in which they turned narratives into AI-generated images and short videos. Repeated-measures analysis across six critical-thinking dimensions found sustained gains (T1→T2 and T1→T3) in interpretation, analysis, evaluation, and explanation, a short-lived self-regulation gain, and **no change in inference** — an uneven, dimension-level pattern that an aggregate critical-thinking score would have hidden. The authors argue the AI-generated visuals *externalized* meaning and thereby lowered the inferential demand writing normally imposes, while [[collaborative-learning|peer collaboration]] (peer questions that forced inferring others' interpretations) supplied the occasions for inference the solo AI interaction did not. The design lesson: [[multimodal|multimodal AI]] composing supports several critical-thinking facets but should be paired with continued [[scaffolding]] and structured peer exchange to preserve inference and [[self-regulated-learning|self-regulation]].
 
 ### Connections to other concepts
 
@@ -93,3 +95,4 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
 - [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children
+- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Dimension-specific critical-thinking gains in AI-supported multimodal writing (Lu et al. 2027)

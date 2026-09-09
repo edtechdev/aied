@@ -1,6 +1,9 @@
 # Journal
 
-Last updated: 2026-09-08 | Total entries: 1304
+Last updated: 2026-09-09 | Total entries: 1305
+
+## 2026-09-09
+- 📄 [[lu-ai-multimodal-writing-critical-thinking-2026]] — Critical Thinking Gains in Conversational AI-Supported Multimodal Writing
 
 ## 2026-09-08
 - 📄 [[ko-hughes-vsd-student-centered-its-2026]] — Value-Sensitive Design in Action: Designing Student-Centered Intelligent Tutoring Systems with Community College Students and Instructors

@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-09T01:46:17-04:00"
 type: concept
 tags: [ai-education, generative-ai, multimodal, llm, intelligent-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
 research_method: [educational measurement]
@@ -36,6 +36,7 @@ Multimodal AI enables learners to produce and engage with content across text, i
 - **[[ai-literacy|AI literacy]] in multimodal contexts** is layered: basic awareness of multimodal platforms, intermediate co-creation and [[critical-thinking|critical evaluation]] of outputs, and advanced design of multimodal activities and assessments.([[multimodal-learning-genai]])
 - **Multimodal prompting** is itself a demanding epistemic practice. Students who prompt for images as well as text discover that "prompt literacy is different between prompting for text than it is for pictures" — translating abstract meaning into machine-readable multimodal prompts requires a precise visual vocabulary and exposes system limitations and bias.([[multimodal-prompting-ai-literacy]])
 - **Multimodal assessment** shifts from essays to artefacts combining text, image, audio, and video, with educators using AI to [[scaffolding|scaffold]] creation and feedback rather than replace the learner's own production.([[multimodal-learning-genai]])
+- **Learner multimodal composing as a critical-thinking scaffold carries a trade-off.** [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] show that having upper-primary students turn written narratives into AI-generated images and short videos supported sustained gains in interpretation, analysis, evaluation, and explanation — but not inference. Because the visuals made story meaning explicit, students reported less need to infer implicit meaning from text alone; peer collaboration, not the multimodal tool, restored occasions for inference. Multimodal AI's value as a meaning-making partner is thus dimension-specific and depends on instructional design that deliberately re-introduces the inferential and self-regulatory work the externalization can short-circuit.
 
 ### 2. Multimodal tutoring and the capability boundary
 
@@ -129,4 +130,5 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
+- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
