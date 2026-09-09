@@ -138,4 +138,3 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[an-goel-self-directed-modeling-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
-- [[early-warning-mtss-k12-2026]] — Framework integrating Early Warning Systems with MTSS in K-12

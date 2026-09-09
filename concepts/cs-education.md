@@ -159,4 +159,3 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[zhang-ml-student-progress-programming-2026]]
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in a software PBL course; throughput vs. comprehension
 - [[genai-cognitive-tutor-programming-2026]] — GenAI as informal cognitive tutor in novice programming learning
-- [[helix-human-centered-data-science-2026]] — HELIX framework for embedding human-centered data science in computing courses

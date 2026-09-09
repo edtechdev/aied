@@ -126,4 +126,3 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[early-warning-mtss-k12-2026]] — EWS-MTSS integration framework for K-12 decision-making

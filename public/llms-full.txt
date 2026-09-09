@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 186 concepts, 1126 articles, and 17 FAQs.
+> Complete text of 186 concepts, 1123 articles, and 17 FAQs.
 
 # Concepts
 
@@ -322,8 +322,6 @@ These refutations are deliberately written in the [[refutation-text|refutation-t
 - [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
 - [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
-
-- [[circututor-dc-circuit-tutoring-2026]] — CircuTutor: maps answer discrepancies to likely circuit misconceptions and generates adaptive exercises
 
 ---
 
@@ -2620,7 +2618,6 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[helix-human-centered-data-science-2026]] — HELIX framework: embedding human-centered data science in a graduate programming course
 
 ---
 
@@ -8676,7 +8673,6 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] (dash
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
-- [[early-warning-mtss-k12-2026]] — Risk-classification framework connecting EWS identification to MTSS action
 
 ---
 
@@ -8980,7 +8976,6 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 - **Outcome-based knowledge tracing for OBE tutors.** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] trace student mastery of Outcome-Based-Education course outcomes with a recurrent model that replaces learned concept relations with [[curriculum-design|curriculum]]-validated OBE "affinity mappings" between course and program outcomes and adds a Memory Augmented Neural Network for cross-outcome impact. It reached 89.81% AUC on live engineering-program data, beating DKT, DKVMN, EKT, and SimpleKT baselines — a mastery signal aligned to a program's own outcomes that can drive adaptive problem selection in outcome-based tutoring.
 - **Validate mastery models on future sessions, not retrospective fit.** The mastery estimates an ITS uses to select problems may not generalize across time: [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, and Carvalho (2025)]] found that BKT, BKT-with-Forgetting, and AFM reproduce learning trends only when fit retroactively to all sessions of a successive-relearning dataset — but under **time-based cross-validation** (training on one session to predict the next, the actual tutoring setting) they overestimate performance by 47–58%, fail to capture the spacing effect, and can mis-order practice conditions. Tutors relying on such tracers should be evaluated walk-forward and consider retention interval and between-session forgetting rather than assuming mastery persists.
 - **Diagnosing mistakes on unstructured, handwritten-solution problems.** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Arthur (Yin et al. 2026)]] extends ITS-style feedback to Calculated Formula Questions in an Engineering Economics course, a domain where pen-and-paper solutions lack the structured digital data that previous AI tutoring work relied on. Rather than a general-purpose LLM, each question gets its own dedicated [[machine-learning|XGBoost]] "solution diagnosis backbone" — trained on curated, random-masking-augmented graded submissions to predict instructor rubric mistake labels from students' submitted numbers alone (precision 0.81, recall 0.79) — paired with a dialogue-based interaction that iteratively requests intermediate answers only when diagnosis confidence drops below a 0.8 threshold. It is a concrete case of the knowledge base's principle that a knowledge-grounded classifier can handle solution diagnosis even where full written solutions are unavailable.
-- **CircuTutor (2026):** [[circututor-dc-circuit-tutoring-2026|Luo, Ma, Chen & Chen (2026)]] convert static DC-circuit problems into a state-driven tutoring workflow — [[multimodal]] problem parsing, a SPICE-compatible solver, before/after state animations, causal reasoning chains, misconception diagnosis, and adaptive follow-up exercises — and find improved conceptual learning and learning gains versus control, a concrete instance of simulation-backed, misconception-driven ITS design.
 
 - **Prompt-based micro-personalization of an LLM tutor (2026):** [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] personalize the Jill Watson [[llm|LLM]]/[[rag|RAG]] [[teacher-role|teaching]] assistant at the level of individual questions entirely through prompt engineering — conditioning responses on six learner dimensions ([[metacognition|metacognitive]] self-assessment, abstraction, verbosity, perception, processing, understanding) and classifying each query's cognitive demand with a [[cognitive-diagnosis|Bloom's Taxonomy]] classifier, yielding 96 learner profiles with no model retraining. NLP analysis of 2,910 responses and a human study found measurable, perceptible differences in response abstraction, verbosity, complexity, and processing style aligned with intended effects. It demonstrates response-form (rather than content) adaptation as a scalable, modular route to [[adaptive-learning|adaptive behavior]] in a deployed tutor.
 
@@ -9118,7 +9113,6 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[circututor-dc-circuit-tutoring-2026]] — CircuTutor: state-driven DC-circuit tutoring (causal reasoning chain, misconception diagnosis)
 
 ---
 
@@ -9898,7 +9892,6 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[an-goel-self-directed-modeling-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
-- [[early-warning-mtss-k12-2026]] — Framework integrating Early Warning Systems with MTSS in K-12
 
 ---
 
@@ -10221,8 +10214,6 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 
-- [[circututor-dc-circuit-tutoring-2026]] — CircuTutor: circuit-state-driven intelligent tutoring of DC concepts
-
 ---
 
 ## [Chemistry Education](https://edtechdev.github.io/aied/concepts/chemistry-education/)
@@ -10527,7 +10518,6 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[zhang-ml-student-progress-programming-2026]]
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in a software PBL course; throughput vs. comprehension
 - [[genai-cognitive-tutor-programming-2026]] — GenAI as informal cognitive tutor in novice programming learning
-- [[helix-human-centered-data-science-2026]] — HELIX framework for embedding human-centered data science in computing courses
 
 ---
 
@@ -11477,7 +11467,6 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[breideband-community-builder-cobi-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[early-warning-mtss-k12-2026]] — Data-driven framework integrating EWS and MTSS
 
 ---
 
@@ -15793,7 +15782,6 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[early-warning-mtss-k12-2026]] — EWS-MTSS integration framework for K-12 decision-making
 
 ---
 
@@ -17485,7 +17473,6 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision for generative AI design toward learner flourishing
-- [[helix-human-centered-data-science-2026]] — HELIX: embedding human-centered data science ethics in computing courses
 
 ---
 
@@ -33290,50 +33277,6 @@ Chudziak, J. A., & Kostka, A. (2025). [*AI-Powered Math Tutoring: Platform for P
 
 ---
 
-## [CircuTutor: Transforming Static Circuit Problems into Intelligent and Dynamic Tutoring](https://edtechdev.github.io/aied/articles/circututor-dc-circuit-tutoring-2026/)
-
-> **Synthesis:** CircuTutor is a circuit-state-driven [[intelligent-tutoring|intelligent tutoring]] system that converts static DC-circuit textbook problems into an interactive tutoring workflow: [[multimodal]] problem parsing extracts the question, topology, and parameters; a SPICE-compatible solver computes physically consistent states; then learners explore the circuit, submit answers, and receive a before-and-after state animation, a causal reasoning chain, a diagnosis of likely [[misconceptions]], and adaptive follow-up exercises. A between-subjects study with 30 students found CircuTutor improved conceptual learning, learning gains, and experience versus a control, with generated support and diagnostic accuracy rated highest by experts. The framework shows how simulated circuit states can generalize to other [[stem-education|STEM]] domains.
-
-## How CircuTutor Works
-
-Learning direct current circuit concepts requires learners to connect invisible physical quantities (current, voltage, resistance, power) with observable outcomes such as bulb brightness. Conventional textbook materials and general-purpose [[simulation|circuit simulators]] support [[problem-solving|problem solving]] and exploration but offer little support for explaining *why* circuit behavior changes or for diagnosing the reasoning behind incorrect answers. CircuTutor addresses this with a [[cognitive-psychology|state-driven]] workflow:
-
-1. **Multimodal problem parsing** extracts the textbook question, circuit topology, component parameters, switch states, and answer options into a structured task, validated through circuit simulation.
-2. **Interactive exploration** lets learners change parameters and submit answers while a SPICE-compatible solver computes physically consistent circuit states.
-3. **Post-submission [[feedback]]** presents a before-and-after circuit-state animation, organizes the simulated state changes into a causal reasoning chain, maps answer discrepancies to likely [[misconceptions]], and generates adaptive follow-up exercises targeted at the diagnosed misconception.
-
-This embodies [[intelligent-tutoring|intelligent tutoring]] principles of immediate, task-specific feedback and [[scaffolding]] that adapts to the learner's current understanding.
-
-## Evaluation
-
-Two complementary evaluations were run:
-
-1. **[[learning-gains|Learning outcomes]] and experience.** A between-subjects controlled evaluation (n=30 students with introductory [[physics-education|physics]] background) compared CircuTutor against a control condition using ANCOVA on post-test and transfer-test scores, with pre-test score as covariate. Task-level first-attempt correctness used mixed-effects logistic regression.
-2. **Tutoring support quality.** Expert review and learner feedback assessed the generated support.
-
-Learners rated the adaptive follow-up exercise highest (M=3.87), followed by misconception diagnosis (M=3.80) and circuit state feedback. Generated support was rated highest by experts (M=4.46, 93.1% rated ≥4), diagnostic accuracy second (M=3.92), while remedial relevance scored lowest (M=3.05). The system improved conceptual learning and overall experience versus control.
-
-## Connected Concepts
-- [[intelligent-tutoring]]
-- [[physics-education]]
-- [[misconceptions]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[learning-gains]]
-- [[scaffolding]]
-- [[student-modeling]]
-- [[feedback]]
-
-## Connected Articles
-- [[curiobot-llm-tutoring-exploratory-learning]] — CurioBot: LLM-Based Exploratory Learning
-- [[structrag-diagram-reasoning-ai-tutoring]] — StructRAG: Diagram Reasoning in AI Tutoring
-- [[icap-cognitive-engagement-llm-agents]] — ICAP Cognitive Engagement in LLM Agents
-
-## Citation
-Luo, Z., Ma, X., Chen, L., & Chen, X. (2026). [*CircuTutor: Transforming Static Circuit Problems into Intelligent and Dynamic Tutoring*](https://arxiv.org/abs/2609.08254). arXiv:2609.08254 [cs.AI].
-
----
-
 ## [AI-Generated Lesson Plans in Civic Education](https://edtechdev.github.io/aied/articles/civic-education-ai-lesson-plans/)
 
 > An analysis of 310 AI-generated lesson plans (2,230 individual activities) produced by ChatGPT (GPT-4o), Gemini (1.5 Flash), and Copilot (GPT-4 based) for all 53 Massachusetts eighth-grade civics standards. Each standard received two prompts: a basic "write a lesson plan" and a "highly interactive" variant.
@@ -38552,46 +38495,6 @@ By grounding analysis in real user discourse rather than controlled experiments,
 ## Citation
 
 Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026). [DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums](https://arxiv.org/abs/2606.27619). Artificial Intelligence (cs.AI).
-
----
-
-## [From Early Warning to Action: A Data-Driven Framework for Integrating Early Warning Systems and MTSS in K-12 Education](https://edtechdev.github.io/aied/articles/early-warning-mtss-k12-2026/)
-
-> **Synthesis:** Ramirez presents a data-driven framework that integrates [[learning-analytics|Early Warning Systems]] (EWS) with Multi-Tiered Systems of Support (MTSS) in [[k-12]] education through a closed-loop process connecting student-risk identification to intervention, progress monitoring, and decision-making. The architecture combines three risk domains ([[learning-gains|academic performance]], attendance, behavior) with transparent risk-classification rules, organizing results into a decision layer (business-intelligence dashboard) and an action layer (role-specific operational workbooks), plus a response-to-intervention monitoring component. Demonstrated with sanitized mock data, the framework establishes an operational bridge from EWS identification to MTSS intervention, though it makes no causal claims about student outcomes.
-
-## The EWS-MTSS Integration Problem
-
-K-12 schools increasingly collect academic, attendance, behavioral, and other student information to identify students who may require additional support. Early Warning Systems (EWS) provide a structured approach for identifying students who demonstrate indicators associated with adverse educational outcomes, while Multi-Tiered Systems of Support (MTSS) organize increasingly intensive supports according to student need. Although both rely heavily on data-based decision-making, they are frequently implemented as separate systems — so identifying student risk does not necessarily result in coordinated intervention, progress-monitoring, and decision-making.
-
-## The Framework Architecture
-
-The framework combines three primary risk domains — academic performance, attendance, and behavior — and applies transparent risk-classification rules to identify students requiring different support levels. Information is organized into:
-
-- **Decision layer** — visual summaries through a business-intelligence dashboard.
-- **Action layer** — role-specific information distributed through structured operational workbooks.
-- **Response-to-intervention monitoring** — documents intervention implementation and reviews student response over time.
-
-The resulting operational pathway is: data collection → risk classification → MTSS review → intervention assignment → progress monitoring → intervention evaluation → adjustment. The framework integrates school-level, content-area, course-level, and teacher-level views, with separate operational pathways for academic, attendance, and behavioral intervention.
-
-## Contributions and Limits
-
-The demonstration establishes the technical feasibility of connecting an EWS decision layer with an MTSS action and monitoring layer, showing how educational data analytics can be organized around decisions and actions rather than information display alone. It makes no causal claims about student outcomes. Future [[research-methods-aied|research]] should examine predictive validity, implementation fidelity, intervention effectiveness, [[equity-in-ai-education|equity]], [[usability-research|usability]], and student outcomes using governed real-world data. This connects to [[educational-policy-ai]] and [[student-modeling]] concerns about turning [[learning-analytics|analytics]] into action.
-
-## Connected Concepts
-- [[learning-analytics]]
-- [[k-12]]
-- [[student-modeling]]
-- [[educational-policy-ai]]
-- [[stakeholders]]
-- [[visualization]]
-- [[governance]]
-
-## Connected Articles
-- [[mind-the-student-engagement-prediction-2026]] — Mind the Student: Automated Engagement Prediction
-- [[causal-modelling-competency-assessment-2026]] — Causal Modelling of Support Interventions
-
-## Citation
-Ramirez, K. (2026). [*From Early Warning to Action: A Data-Driven Framework for Integrating Early Warning Systems and MTSS in K-12 Education*](https://osf.io/preprints/edarxiv/3bpwm). EdArXiv preprint.
 
 ---
 
@@ -46483,44 +46386,6 @@ This work illustrates a path from [[simulation]] and [[agentic-ai|agentic AI]] t
 ## Citation
 
 Xu, R., Barasa, K., Kumal, M., Liu, X., Zhou, W., & Qian, X. (2026). [*Agentic AI-driven immersive simulation: A knowledge-aware virtual training platform for high dose rate (HDR) brachytherapy*](https://arxiv.org/abs/2608.08163).
-
----
-
-## [Embedded Human-Centered Data Science in a Graduate Programming Course: A Framework and Case Study](https://edtechdev.github.io/aied/articles/helix-human-centered-data-science-2026/)
-
-> **Synthesis:** Chui et al. present the Human-Centered Education for Learning in Information and eXplainable Computing (HELIX) framework for embedding societal-impact and [[ethics]] content into computing courses, organized around three iterative pillars — knowledge building, decision-making, and empowerment — with concrete actions for instructors and students. In a graduate introductory programming course pilot (n=22), the framework used readings, algorithmic design activities, and scenario-based reflections to examine changes in students' knowledge acquisition, decision-making, and self-reflection regarding human-centered perspectives in data science. Findings suggest HELIX is feasible in information science contexts, with design tensions around workload, assessment, and relevance, and the authors call for comparative survey assessment to strengthen causal inferences.
-
-## The HELIX Framework
-
-As [[generative-ai|AI]] and data-driven systems pervade practice, there is an imperative to embed societal-impact and ethics content into computing courses. HELIX is organized around three iterative pillars:
-
-1. **Knowledge building** — developing understanding of how data-driven systems operate and their societal implications.
-2. **Decision-making** — practicing the human-centered judgments involved in designing and using such systems.
-3. **Empowerment** — building the confidence and [[agency]] to shape systems responsibly.
-
-The framework was applied in a graduate introductory programming course using readings, algorithmic design activities, and scenario-based reflections. The authors release an anonymized materials kit (survey, assignments, analysis code) to support adoption.
-
-## Pilot Findings
-
-The pilot (n=22) examined changes in students' knowledge acquisition, decision-making processes, and self-reflection on human-centered perspectives in data science. Findings suggest the framework is feasible in information science contexts, connecting to [[explainable-ai]] and [[human-in-the-loop-ai]] perspectives. The authors discuss design tensions — workload, assessment, and relevance to diverse information science learners — and provide guidelines for integrating human-centered content without overwhelming technical outcomes. They recommend future work using comparative survey assessment to strengthen causal inferences.
-
-## Connected Concepts
-- [[cs-education]]
-- [[ethics]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[explainable-ai]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[agency]]
-
-## Connected Articles
-- [[cost-of-ethics-crisis-cs-ethics-education]] — The Cost of the Ethics Crisis in CS Ethics Education
-- [[ai-ethics-education-public-discourse]] — AI Ethics Education and Public Discourse
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI Ethics Education
-
-## Citation
-Chui, V., McConvey, K., Chui, D., Bernstein, M., & Guha, S. (2026). [*Embedded Human-Centered Data Science in a Graduate Programming Course: A Framework and Case Study*](https://arxiv.org/abs/2609.08982). arXiv:2609.08982 [cs.HC].
 
 ---
 
