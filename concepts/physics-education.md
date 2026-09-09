@@ -97,4 +97,3 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 
-- [[circututor-dc-circuit-tutoring-2026]] — CircuTutor: circuit-state-driven intelligent tutoring of DC concepts
