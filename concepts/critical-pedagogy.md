@@ -1,7 +1,7 @@
 ---
 title: Critical Pedagogy
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-09T09:05:09-04:00"
 type: concept
 tags: [critical-pedagogy, equity-in-ai-education, critical-thinking, ai-literacy, agency, ethics, reducing-ai-misuse]
 confidence: high
@@ -61,3 +61,4 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
 
+- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision for designing generative AI toward learner flourishing

@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-03T09:12:00-04:00"
+updated: "2026-09-09T09:05:09-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 audience: [learners]
@@ -25,6 +25,8 @@ confidence: high
 Agency matters because learning is most effective when learners are active, intentional participants rather than passive recipients. AI systems — whether tutoring agents, [[educational-robotics|robots]], or [[llm|chatbots]] — shape how much control learners retain over their learning process. Preserving agency is therefore a key design principle in responsible AI in education, alongside supporting [[self-efficacy]], building [[trust]], and avoiding [[cognitive-offloading|Over-Reliance]].
 
 **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** frame control vs. agency as the essential, recurring tension in AI in education — from early ITS to today's [[generative-ai|generative AI]] — making learner agency the enduring axis of the field's debates.
+
+**A zero-sum view of agency with agentic tools:** [[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]] argue that the more agency educational AI tools are given, the less learners retain — that agency is effectively a zero-sum game, and that current human-centered design approaches (e.g., value-sensitive design) are insufficient because over-reliance and isolation are driven by wider systemic factors and the human tendency to take the easiest path. Their emancipatory design vision, oriented toward learner flourishing within complex systems, treats preserving and cultivating learner agency as the central goal of generative AI design rather than an afterthought.
 
 ## How agency appears in the knowledge base's research
 
@@ -54,7 +56,7 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 - **Agency is enacted; identity is inhabited.** Agency is the [[situated-learning|situated]] capacity to act intentionally and direct one's learning *now* — a variable, interactional property. Identity is the more durable, narrative sense of who one *is* and is *becoming* as a learner. Agency is a *process*; identity is a *state of being* that accumulates from it.
 - **Identity is internalized agency.** Repeated agentic acts — choosing, authoring, persisting — are how a learner comes to see themselves as an agentic, competent person. Identity is the sediment of agency across time, reinforced by recognition and belonging.
 - **Distinct failure modes.** Agency is eroded by [[cognitive-offloading|over-reliance]] and passive acceptance (the learner stops directing reasoning); identity is eroded by authorship loss and competence threat (the learner stops feeling the output is theirs, or that they belong in the domain). [[jin-emergent-learner-agency-implicit-hai-2026|Implicit AI redistribution of epistemic labour]] is chiefly an agency concern; the [[t2i-competence-paradox-2026|competence paradox]] in creative fields is chiefly an identity concern.
-- **Both must be designed for.** Agency-oriented design preserves control and choice (bounded [[desirable-difficulties|friction]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, transparency); identity-oriented design protects authorship and recognition ([[authentic-assessment|authentic assessment]], clear attribution of AI vs. human contribution, tasks that let learners claim a domain). Protecting agency without protecting authorship keeps control but not self-worth — and vice versa.
+- **Both must be designed for.** Agency-oriented design preserves control and choice (bounded [[desirable-difficulties|friction]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, [[explainable-ai|transparency]]); identity-oriented design protects authorship and recognition ([[authentic-assessment|authentic assessment]], clear attribution of AI vs. human contribution, tasks that let learners claim a domain). Protecting agency without protecting authorship keeps control but not self-worth — and vice versa.
 
 ## The Ecological Co-Agency Framework: agency as an epistemic design problem
 
@@ -140,3 +142,5 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
 
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
+- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision: agency as zero-sum with tool agency
+- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: co-creativity and agency in socio-technical networks

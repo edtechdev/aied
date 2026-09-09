@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-08T09:07:05-04:00"
+updated: "2026-09-09T09:05:09-04:00"
 type: concept
 tags: [cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 audience: [learners]
@@ -72,7 +72,8 @@ The knowledge base's articles document cognitive offloading across multiple dime
 
 **Over-reliance** is the excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. It is the behavioral manifestation of excessive cognitive offloading: when offloading becomes the default rather than a strategic choice. Over-reliance is not simply about using AI too much — it is about using AI in ways that substitute for rather than complement learning processes. Conceptual work urges keeping this educational over-reliance distinct from relational attachment and [[medical-education|clinical]] dependence: [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] shows that trust, reliance, over-reliance, attachment, and problematic use are routinely conflated in the conversational-AI literature, and that frequent delegation should not be labelled dependence without impaired control or harm.
 
-The knowledge base's research documents over-reliance as one of the 
+- **Novice programming: task-resolution confidence without conceptual transfer:** [[genai-cognitive-tutor-programming-2026|Aquino Vara & Encarnación Valentín (2026)]] surveyed 38 novice programming students in [[professional-training|vocational training]] who used [[generative-ai|generative AI]] as an informal tutor, finding a strong self-reported correlation between GenAI use and perceived learning (rs=0.802) yet the lowest scores on autonomous progress without instructor support (M=3.84) — an "illusion of competence" gap in which students resolve immediate tasks fluently but do not convert that into independent conceptual mastery. The authors frame this as a form of uncritical offloading and call for calibrated scaffolding that avoids "epistemic debt."
+
 - **Agentic coding offloads comprehension in the field:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] report that undergraduates using [[agentic-ai|AI agents]] in a software project course wrote more code year-over-year but showed comprehension dips under heavy use - recoverable through one-on-one instructor verification of AI-generated code.
 most consequential risks of AI in education:
 
@@ -176,3 +177,4 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Documents effort-substitution harm from unguarded AI access
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - AI-agent code generation and comprehension offloading in a PBL course
+- [[genai-cognitive-tutor-programming-2026]] — GenAI as informal tutor: illusion of competence and epistemic debt in novice programming
