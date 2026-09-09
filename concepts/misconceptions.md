@@ -123,4 +123,3 @@ These refutations are deliberately written in the [[refutation-text|refutation-t
 - [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 
-- [[circututor-dc-circuit-tutoring-2026]] — CircuTutor: maps answer discrepancies to likely circuit misconceptions and generates adaptive exercises

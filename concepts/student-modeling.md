@@ -133,4 +133,3 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] (dash
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
-- [[early-warning-mtss-k12-2026]] — Risk-classification framework connecting EWS identification to MTSS action

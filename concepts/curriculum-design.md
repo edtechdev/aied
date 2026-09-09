@@ -107,4 +107,3 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[helix-human-centered-data-science-2026]] — HELIX framework: embedding human-centered data science in a graduate programming course

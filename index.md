@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-09
 
-Articles: 1126 | Concepts: 186 | FAQs: 17
+Articles: 1123 | Concepts: 186 | FAQs: 17
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -304,7 +304,6 @@ Articles: 1126 | Concepts: 186 | FAQs: 17
 - [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — Analyzing teacher-AI interaction patterns across teacher experience and AI proficiency in student-centered lesson design
 - [[chudziak-ai-math-tutoring-platform]] — AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education
-- [[circututor-dc-circuit-tutoring-2026]] — CircuTutor: Transforming Static Circuit Problems into Intelligent and Dynamic Tutoring
 - [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
 - [[claassen-learning-analytics-genai-learning-design-2026]] — Understanding the Role of Learning Analytics and Generative Artificial Intelligence on Decision-Making and Learning Design Practice in Higher Education
 - [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy
@@ -432,7 +431,6 @@ Articles: 1126 | Concepts: 186 | FAQs: 17
 - [[dynamic-skill-matching-capstone-teams]] — Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment
 - [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
 - [[early-childhood-elementary-ai-education]] — Early Childhood Education
-- [[early-warning-mtss-k12-2026]] — From Early Warning to Action: A Data-Driven Framework for Integrating Early Warning Systems and MTSS in K-12 Education
 - [[ecnuclaw-k12-personalized-companion]] — ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education
 - [[edtech-design-time-generative-ui]] — The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization
 - [[edtech-platform]] — Edtech Platform
@@ -617,7 +615,6 @@ Articles: 1126 | Concepts: 186 | FAQs: 17
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring
 - [[hcap-human-centric-ai-pedagogy-framework-2026]] — Human-Centric Artificial Intelligence Pedagogy (HCAP) framework developed from TPACK through integration of artificial intelligence literacy and competency
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform for High Dose Rate (HDR) Brachytherapy
-- [[helix-human-centered-data-science-2026]] — Embedded Human-Centered Data Science in a Graduate Programming Course: A Framework and Case Study
 - [[help-seeking]] — Help-Seeking
 - [[higher-ed]] — AI in Higher Education
 - [[hingle-collaborative-ai-literacy-2025]] — Systematic Review of Collaborative Learning Activities for Promoting AI Literacy

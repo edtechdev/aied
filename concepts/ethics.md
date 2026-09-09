@@ -139,4 +139,3 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision for generative AI design toward learner flourishing
-- [[helix-human-centered-data-science-2026]] — HELIX: embedding human-centered data science ethics in computing courses

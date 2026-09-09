@@ -1,17 +1,14 @@
 # Journal
 
 
-Last updated: 2026-09-09 | Total entries: 1312
+Last updated: 2026-09-09 | Total entries: 1309
 
 ## 2026-09-09
 - 📄 [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty Self-Perceived Knowledge in Using Generative AI to Teach 21st-Century Skills
 - 📄 [[genai-cognitive-tutor-programming-2026]] — Beyond Immediate Resolution: Generative AI as an Informal Cognitive Tutor in Novice Programming Learning
 - 📄 [[emancipatory-ai-learner-flourishing-2026]] — An Emancipatory Vision for Designing (Generative) AI for Learner Flourishing
-- 📄 [[early-warning-mtss-k12-2026]] — From Early Warning to Action: A Data-Driven Framework for Integrating Early Warning Systems and MTSS in K-12 Education
-- 📄 [[helix-human-centered-data-science-2026]] — Embedded Human-Centered Data Science in a Graduate Programming Course: A Framework and Case Study
 - 📄 [[lu-ai-multimodal-writing-critical-thinking-2026]] — Critical Thinking Gains in Conversational AI-Supported Multimodal Writing
 - 📄 [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: The Trivalence Model of Potential Co-Creativity in Socio-Technical Networks
-- 📄 [[circututor-dc-circuit-tutoring-2026]] — CircuTutor: Transforming Static Circuit Problems into Intelligent and Dynamic Tutoring
 
 ## 2026-09-08
 - 📄 [[chain-behind-claim-warrantability-2026]] — The Chain Behind the Claim: Warrantability in AI-Assisted Qualitative Research
