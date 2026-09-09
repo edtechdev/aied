@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-06T08:30:00-04:00"
+updated: "2026-09-09T09:05:09-04:00"
 type: concept
 tags: [student-experience, social-emotional-learning, ethics, ai-literacy, higher-ed, motivation]
 audience: [learners]
@@ -73,3 +73,4 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 
 
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
+- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision oriented toward learner flourishing

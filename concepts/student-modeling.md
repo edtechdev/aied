@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-07T10:15:00-04:00"
+updated: "2026-09-09T09:05:09-04:00"
 type: concept
 tags: [student-modeling, knowledge-tracing, cognitive-diagnosis, simulating-students, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring, llm]
 confidence: high
@@ -133,3 +133,4 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] (dash
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
+- [[early-warning-mtss-k12-2026]] — Risk-classification framework connecting EWS identification to MTSS action
