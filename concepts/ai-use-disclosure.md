@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-10T05:52:33-04:00"
 type: concept
 tags: [ai-use-disclosure, academic-integrity, ethics, trust, generative-ai, higher-ed, assessment, educational-policy-ai]
 level: [higher ed]
@@ -28,7 +28,7 @@ AI use declarations require or invite students to state whether and how they use
 
 ## Why disclosure matters for AI in education
 
-Disclosure is the mechanism that makes AI-assisted work *visible* and therefore governable — the counterpart to [[academic-integrity]] and the precondition for [[trust]] between students and instructors. Without transparency about AI use, educators cannot distinguish legitimate support from misconduct, calibrate [[feedback|feedback]], or detect equity gaps. But the research reveals that disclosure is also an **[[affective-computing|affective]] and social process**, not just a policy one.
+Disclosure is the mechanism that makes AI-assisted work *visible* and therefore governable — the counterpart to [[academic-integrity]] and the precondition for [[trust]] between students and instructors. Without transparency about AI use, educators cannot distinguish legitimate support from misconduct, calibrate [[feedback]], or detect equity gaps. But the research reveals that disclosure is also an **[[affective-computing|affective]] and social process**, not just a policy one.
 
 ## What the research shows
 
@@ -37,6 +37,12 @@ Disclosure is the mechanism that makes AI-assisted work *visible* and therefore 
 - **Disclosure has psychological costs — and hidden costs.** Students view declarations as self-incrimination, and some believe AI use is private like using a calculator. [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] found students who "always" disclosed had over 3× the odds of being accused — transparency can invite suspicion. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] found worry redirects disclosure toward peers rather than suppressing it, cutting students off from instructor feedback.
 - **Disclosure is entangled with self-regulated learning.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] interpret teacher-directed disclosure as adaptive help-seeking — making assistance visible and inviting external calibration — while concealment (especially among heavy AI users) resembles maladaptive regulation. Structured, formative disclosure can promote the [[metacognition|metacognitive]] reflection and ethical reasoning that characterize effective self-regulation.
 - **Disclosure norms vary by discipline, language, and context.** Education, social-science, and [[stem-education|STEM]]/Health students disclose more than Business students; monolingual students may disclose less than [[multilingual-learning|multilingual]] students. International students in one study disclosed less, raising [[equity-in-ai-education|equity]] concerns. Disclosure norms do not develop automatically with academic progression.
+
+### Disclosure is not a detection mechanism
+
+A recurring institutional error is to treat declarations as a way to catch prohibited use. They cannot serve that function: they depend on candour, and enforcing them runs back into the same undetectability, since an institution generally cannot prove that an undeclared use occurred. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] locates their real value elsewhere — in visible integrity commitments embedded in a culture of [[trust]], and in transparency, shared expectations, and student reflection rather than enforcement. The educational mechanism is normative, not forensic.
+
+The modelling work of [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] supplies the condition under which disclosure works, expressed as a design threshold rather than a hope: disclosed use beats hidden use only when the [[academic-misconduct-procedures|cost of honesty]] stays below the deterrent it buys. Because that bound rises with detection credibility, detection and disclosure safety reinforce each other — but only if the false-positive risk of being flagged falls on honest and dishonest responses alike, in which case honesty keeps its comparative protection. Their design implication is direct: treat a declared AI use as context rather than a confession, which keeps the cost of honesty low precisely in the settings where monitoring is strongest, and read disclosure as a demonstration of [[evaluative-judgement|evaluative judgement]] rather than an admission. Permission and disclosure are separate levers — permission changes the formal boundary of acceptable use, disclosure changes visibility — and success at one says nothing about the other.
 
 ## Designing effective disclosure
 
@@ -76,3 +82,5 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Declarations as education rather than detection
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — The cost of honesty as a design threshold in assessment
