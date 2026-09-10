@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-10T09:35:54-04:00"
+updated: "2026-09-10T09:52:01-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity-in-ai-education]
 audience: [instructors, learners, faculty development, administrators]
@@ -73,7 +73,7 @@ How AI supports teaching and learning is the heart of the field. Key concepts in
 
 The [[ai-technologies|Technologies]] page is the umbrella for the technical layer:
 
-- **Models and techniques:** [[generative-ai|generative AI]], [[llm|large language models]], [[rag|retrieval-augmented generation]], [[multimodal|multimodal models]], [[educational-nlp|educational NLP]], [[reinforcement-learning|reinforcement learning]], [[knowledge-graph|knowledge graphs]], [[educational-robotics|robots in education]], [[conversational-ai|conversational AI]], [[simulation]], and [[pedagogical-llm-training|training pedagogical LLMs]]. Newer interaction styles belong here too — most prominently [[vibe-coding|vibe coding]], the natural-language-driven workflow in which the user specifies a program by prompting an LLM and judges the resulting behavior rather than reading or editing source, which reframes [[cs-education|programming]] as an act of expression and verification and lowers the barrier to [[teacher-role|end users]] building their own tools.
+- **Models and techniques:** [[generative-ai|generative AI]], [[llm|large language models]], [[rag|retrieval-augmented generation]], [[multimodal|multimodal models]], [[educational-nlp|educational NLP]], [[reinforcement-learning|reinforcement learning]], [[knowledge-graph|knowledge graphs]], [[educational-robotics|robots in education]], [[conversational-ai|conversational AI]], [[simulation]], and [[pedagogical-llm-training|training pedagogical LLMs]]. Newer interaction styles belong here too — most prominently [[vibe-coding|vibe coding]], the natural-language-driven workflow in which the user specifies a program by prompting an LLM and judges the resulting behavior rather than reading or editing source, which reframes [[cs-education|programming]] as an act of expression and verification and lowers the barrier to [[teacher-role|end users]] building their own tools. Integration-depth frameworks such as [[samr-model|SAMR]] and adoption theories such as [[technology-acceptance-model|TAM]] classify how deeply AI is taken up and how much it transforms the task.
 - **Learner modeling and adaptive systems:** the technical systems that represent and adapt to the learner are grouped under the [[student-modeling|Learner Modeling and Adaptive Instruction]] umbrella — [[knowledge-tracing|knowledge tracing]], [[cognitive-diagnosis|cognitive diagnosis]], [[simulating-students|simulating students]], [[intelligent-tutoring|intelligent tutoring]], [[adaptive-learning|adaptive learning]], [[personalized-learning|personalized learning]], [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], and [[learning-analytics|learning analytics]]. These sit at the technical layer because they are the AI systems themselves, distinct from the pedagogies they enact.
 
 ## AI in the disciplines
@@ -159,6 +159,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[educational-robotics]] — Robots in education
 - [[change-management]] — Change management and institutional reform
 - [[machine-learning]] — Machine learning as the technical foundation
+- [[samr-model]] — The SAMR model of technology integration
 - [[vibe-coding]] — Vibe coding
 - [[problem-solving]] — Problem solving with and without AI
 - [[mastery-learning]] — Mastery learning and adaptive instruction

@@ -12,7 +12,7 @@ confidence: high
 
 ## Introduction
 
-The paper addresses a gap: existing AI-literacy research treats the construct as an educational or technical concept rather than a systemic governance mechanism that ensures ethical alignment across all seventeen [[sustainability|Sustainable Development Goals]]. By linking [[ai-literacy]] to [[ethics]] and [[governance]], the authors position literate publics as a precondition for responsible AI deployment.
+The paper addresses a gap: existing AI-literacy [[research-methods-aied|research]] treats the construct as an educational or technical concept rather than a systemic governance mechanism that ensures ethical alignment across all seventeen [[sustainability|Sustainable Development Goals]]. By linking [[ai-literacy]] to [[ethics]] and [[governance]], the authors position literate publics as a precondition for responsible AI deployment.
 
 ## The AIRE Taxonomy and AI–SDG Nexus
 

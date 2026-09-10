@@ -33,7 +33,7 @@ The paper's analytical core is a set of propositions about which response each m
 
 ## How the model works
 
-Students compare three responses across five elements: the grade or performance benefit; the learning value; the effort cost; and two cost terms — the cost of honesty or concealment, and the expected penalty from hidden use, which combines perceived detection probability with sanction severity. Four analytical conditions isolate the mechanisms: prohibition-centred, monitoring-centred, permission-with-disclosure, and assessment-redesign.
+Students compare three responses across five elements: the grade or performance benefit; the learning value; the effort cost; and two cost terms — the cost of honesty or concealment, and the expected penalty from hidden use, which combines perceived [[ai-detection|detection]] probability with sanction severity. Four analytical conditions isolate the mechanisms: prohibition-centred, monitoring-centred, permission-with-disclosure, and assessment-redesign.
 
 | Assessment condition | Dominant mechanism | Design effect | Main risk |
 |---|---|---|---|

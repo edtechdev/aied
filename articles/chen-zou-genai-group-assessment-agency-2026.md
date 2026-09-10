@@ -61,7 +61,7 @@ In three groups, the group setting changed nothing. Work was partitioned into di
 - **Make the negotiation an assessable outcome.** Units with group work should require teams to collectively justify and document how GenAI will and will not be used, rather than leaving the norm to emerge from peer pressure or risk perception.
 - **Build peer interaction into the process.** [[peer-review|Peer review]] and [[feedback]] as smaller tasks leading to the final product create the interactions through which norms are actually negotiated — aligning [[group-work|group assessment]] with process-oriented learning.
 - **Do not assume capability becomes collective.** If the assessment permits a divide-and-conquer structure, individually capable students may never pool what they know; the collaboration has to be designed for, not merely required in the rubric.
-- **Read restraint carefully.** Students who avoid GenAI may be exercising normative self-regulation — or guarding against risk and unfamiliarity. The two call for different instructor responses.
+- **Read restraint carefully.** Students who avoid GenAI may be exercising normative self-[[regulation]] — or guarding against risk and unfamiliarity. The two call for different instructor responses.
 
 ## Connected Concepts
 
