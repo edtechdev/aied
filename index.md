@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-10
 
-Articles: 1130 | Concepts: 189 | FAQs: 17
+Articles: 1131 | Concepts: 189 | FAQs: 17
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -1272,6 +1272,7 @@ Articles: 1130 | Concepts: 189 | FAQs: 17
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education
 - [[walton-bearman-assessment-judgement-2025]] — How university students work on assessment tasks with generative AI: matters of judgement
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered
+- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Assessing ChatGPT-Generated Comments for Video-Based Learning Content to Enhance Knowledge and Emotional Support Based on Scaffolding Theory
 - [[wang-goal-setting-ai-engagement-2026]] — Explaining learning engagement in AI-assisted learning through teacher support and achievement goals: insights from goal-setting theory
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
 - [[wang-teacher-ai-co-design-review-2026]] — Reimagining teacher-AI co-design in learning task design: trends and perspectives
