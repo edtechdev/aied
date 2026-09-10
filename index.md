@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-10
 
-Articles: 1129 | Concepts: 188 | FAQs: 17
+Articles: 1129 | Concepts: 189 | FAQs: 17
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -13,7 +13,7 @@ Articles: 1129 | Concepts: 188 | FAQs: 17
 - [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — A Comprehensive Review of the Changing Landscape of Academic Dishonesty in Automated Proctoring in the Era of Artificial Intelligence
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic Erasure: The Disappearance of Complexity Under AI-Supported Writing
-- [[academic-integrity]] — Evaluative Judgement
+- [[academic-integrity]] — Academic Integrity
 - [[academic-league-of-ai-2026]] — Academic League of Artificial Intelligence: An Integrative Perspective of Teaching, Research, and Extension
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
 - [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education: Psychological Correlates Across Disciplinary and Proficiency Groups
@@ -1054,6 +1054,7 @@ Articles: 1129 | Concepts: 188 | FAQs: 17
 - [[sahab-model-genai-constructivist-id-2026]] — Evaluating the Effectiveness of Generative AI in Empowering Teachers for Constructivist Instructional Design: A Case Study of the SAHAB Model
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Uncovering adoption personas for generative AI in higher education: a clustering-based segmentation approach
 - [[same-ai-different-pathways]] — Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts
+- [[samr-model]] — SAMR Model
 - [[san-orhan-karsak-ai-cognition-micro-credentials-2026]] — Knowing Its Name, Not Its Nature: Word Association Mapping of Student AI Cognition and Evidence-Based Micro-Credential Design in Turkish Higher Education
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — Faculty Readiness for AI-Supported Teaching and Scalable Online Program Delivery in Higher Education: The EPIQ-AI Framework for Epistemic Integrity
 - [[savvy-student-attention-video-learning]] — SAVVY: Student Attention Visualization for Video-based Learning Analysis

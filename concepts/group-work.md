@@ -87,7 +87,7 @@ A second line of research treats AI as a participant rather than a tool, and its
 - **Balance efficiency against self-regulation.** Collaborative AI that maximises task efficiency can undercut learners' regulatory engagement; design should deliberately protect space for concerted interpretation.
 - **Prefer an argumentative partner over an answer-giver.** Structure AI to surface disagreement rather than smooth it over, so group work preserves the cognitive conflict that builds understanding.
 - **Accommodate [[neurodiversity|neurodivergent]] learners.** Structured assignments, small consistent teams, and explicit role definitions are requirements AI collaboration tools must support.
-- **Read restraint carefully.** Students who avoid AI in groups may be exercising normative self-regulation — or guarding against risk and unfamiliarity. The two call for different instructor responses.
+- **Read restraint carefully.** Students who avoid AI in groups may be exercising normative self-regulation — or guarding against risk and unfamiliarity. The two call for different [[teacher-role|instructor]] responses.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 # Journal
 
 
-Last updated: 2026-09-10 | Total entries: 1317
+Last updated: 2026-09-10 | Total entries: 1318
 
 ## 2026-09-10
 - 📄 [[ai-literacy-sdg-governance-framework-2026]] — Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework
@@ -11,6 +11,7 @@ Last updated: 2026-09-10 | Total entries: 1317
 - 📘 [[evaluative-judgement]] — Evaluative Judgement
 - 📄 [[chen-zou-genai-group-assessment-agency-2026]] — Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emergent Perspective
 - 📘 [[group-work]] — Group Work
+- 📘 [[samr-model]] — SAMR Model
 
 ## 2026-09-09
 - 📄 [[perrotta-zero-shot-governance-2026]] — Zero-Shot Governance: General-Purpose AI in Policy
