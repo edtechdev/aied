@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 188
+**Total concepts:** 189
 
 - slug: early-childhood-elementary-ai-education
   title: Early Childhood Education
@@ -482,6 +482,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`teacher-role`** — Teaching
 - **`technology-acceptance-model`** — Technology Adoption Models
 - **`tpack`** — Technological Pedagogical Content Knowledge (TPACK)
+- **`samr-model`** — SAMR Model — phrases: SAMR; SAMR model; Substitution Augmentation Modification Redefinition; technology integration levels; enhancement vs transformation
 - **`transfer-of-learning`** — Transfer of Learning
 - **`trust-calibration`** — Trust Calibration
 - **`trust`** — Trust

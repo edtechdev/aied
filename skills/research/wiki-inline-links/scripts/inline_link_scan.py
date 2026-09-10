@@ -56,6 +56,7 @@ ALIASES = {
                     'responsible ai use', 'conscious ai use', 'ai competence'],
     'problem-based-learning': ['problem-based learning', 'problem based learning', 'pbl'],
     'project-based-learning': ['project-based learning', 'project based learning'],
+    'samr-model': ['SAMR', 'SAMR model', 'SAMR framework', 'Substitution Augmentation Modification Redefinition'],
     'self-directed-learning': ['self-directed learning', 'self directed learning', 'self-directed'],
     'self-regulated-learning': ['self-regulated learning', 'self regulated learning', 'self-regulation',
                                 'self regulated', 'strategic regulation'],
