@@ -1,7 +1,7 @@
 ---
 title: "Adult Learners' Perspectives of AI Applications in Supporting Andragogy"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-08-23T10:00:00-04:00"
+updated: "2026-09-10T04:57:34-04:00"
 type: article
 tags: [adult-learning, generative-ai, human-in-the-loop-ai, affective-computing, personalized-learning, ai-education, agency, self-directed-learning]
 research_method: [qualitative, interviews]
@@ -15,6 +15,30 @@ confidence: high
 ## Core Finding
 
 Adult learners perceive AI as supporting every facet of [[adult-learning|andragogy]] — involvement, experience, problem-centered learning, and relevance — and view it as a *[[collaborative-learning|collaborative learning agent]]* that helps them solve complex problems, share knowledge, deepen understanding, and hone [[critical-thinking|higher-order thinking]]. For [[learning-design|design]], they do not want perfect, zero-error AI; they want systems that are [[human-in-the-loop-ai|human-in-the-loop]], emotionally attuned, and continuously adaptive. Because the study centers on perceptions rather than outcome measures, it contributes design-direction evidence rather than direct [[learning-gains|learning-gain]] claims.
+
+## How the study worked
+
+Sixty [[adult-learning|adult learners]] from three universities in the eastern United States were screened on [[online-teaching-and-learning|online learning]] experience, education level, gender, discipline, and the kinds of AI they had used; twenty were then interviewed in depth. The interviews were anchored in **eleven AI-application scenarios** — presented as storyboards and paper prototypes developed with 24 graduate students — so that learners reacted to concrete tools rather than to "AI" in the abstract. Each scenario was deliberately tied to one component of Knowles' andragogy, and the AI type was left open ([[intelligent-tutoring|intelligent tutoring systems]], exploratory learning environments, [[learning-analytics|AI-powered dashboards]], [[automated-assessment|automatic writing evaluation]], and [[conversational-ai|chatbots]]).
+
+| Andragogical principle | Component | Scenario prototype | AI type exercised |
+|---|---|---|---|
+| Involvement | Intentionally motivated to learn | AI tutor offering immediate [[personalized-learning|personalized]] [[feedback]], progress tracking, celebration of achievement | [[intelligent-tutoring]] |
+| Involvement | Intentionally motivated to learn | AI-powered teachable agent that the learner must teach | [[learning-by-teaching|teachable agents]] |
+| Autonomy | Autonomous learning | Monitoring tools giving [[assessment|adaptive assessment]] and data-driven insight into progress | [[learning-analytics]] |
+| Involvement | Self-assessment | Systems that analyze work, generate [[assessment|rubrics]], and track ongoing performance | [[automated-assessment]] |
+| Experience | Transformative learning | Empathetic chatbot holding emotionally grounded conversations about different perspectives | [[affective-computing]], [[conversational-ai]] |
+| Experience | [[experiential-learning|Experiential learning]] | [[simulation|AI simulations]] (VR/AR) for risk-free practice with complex scenarios | [[intelligent-tutoring]] |
+| Problem-centered | Contextual learning | AI case library that generates and critiques realistic customized case studies | [[problem-based-learning]] |
+| Problem-centered | [[critical-thinking|Critical thinking]] | Interactive dashboard for exploring and analyzing information | [[learning-analytics]] |
+| Problem-centered | [[critical-thinking|Critical thinking]] | Higher-order question generator that prompts introspection and multiple perspectives | [[generative-ai]] |
+| Relevance | Goal orientation | AI planner that breaks large goals into actionable steps and schedules them | [[self-directed-learning]] |
+| Relevance | Personal/professional relevance | AI career coach offering career-path exploration and tailored advice | [[pedagogical-agent]] |
+
+The scenario set is itself a design contribution: it shows how each andragogical principle can be operationalized as a concrete AI affordance, and it gives designers a checklist that maps tools to adult-learning aims rather than to generic "[[student-engagement|engagement]]."
+
+### Limits of the evidence
+
+The sample is twenty degree-seeking students at East Coast U.S. universities, so non-degree-holding adults and learners in other cultural and socioeconomic contexts are unrepresented. The data are perceptions collected with prototyped scenarios, not measured [[learning-gains|learning outcomes]], and no authentic deployed system was studied over time. The authors therefore frame their three design principles as design direction for developers and [[teacher-role|educators]] rather than as validated effects, and they call explicitly for empirical outcome studies and for work on the [[ethics|ethical]] dimensions — data [[privacy]], [[bias-mitigation|algorithmic bias]], [[trust]] — that the interviews did not probe.
 
 ## AI as a collaborative learning agent
 
@@ -46,7 +70,7 @@ AI supports **relevance** through goal orientation — real-time progress monito
 
 ## Relevance to the knowledge base
 
-This paper is the companion to the knowledge base's [[kim-ai-productive-failure-adult-2026]] entry (same author group), and together they form a cohesive picture of how adult learners want AI to *[[scaffolding|scaffold]]* rather than substitute for learning. Here the lens is **andragogy** specifically: it operationalizes Knowles' principles (involvement, experience, problem-centered, relevance) into concrete AI affordances and design guidance. It strongly anchors the [[adult-learning]], [[human-in-the-loop-ai]], and [[affective-computing]] concepts, and connects AI design to [[self-directed-learning|autonomy]], [[self-directed-learning]], and [[learning-theories]]. Its finding that learners resist over-prescriptive, answer-giving AI reinforces the knowledge base-wide theme of preserving learner agency and judgment in [[human-ai-collaboration|human-AI collaboration]].
+This paper is the companion to the knowledge base's [[kim-ai-productive-failure-adult-2026]] entry (same author group), and together they form a cohesive picture of how adult learners want AI to *[[scaffolding|scaffold]]* rather than substitute for learning. Here the lens is **andragogy** specifically: it operationalizes Knowles' principles (involvement, experience, problem-centered, relevance) into concrete AI affordances and design guidance. It strongly anchors the [[adult-learning]], [[human-in-the-loop-ai]], and [[affective-computing]] concepts, and connects AI design to [[self-directed-learning|autonomy]] and [[learning-theories]]. Its finding that learners resist over-prescriptive, answer-giving AI reinforces the knowledge base-wide theme of preserving learner agency and judgment in [[human-ai-collaboration|human-AI collaboration]].
 
 ## Connected Concepts
 
@@ -71,7 +95,6 @@ This paper is the companion to the knowledge base's [[kim-ai-productive-failure-
 - [[higher-ed]]
 - [[lifelong-learning]]
 - [[self-directed-learning|autonomy]]
-- [[self-directed-learning]]
 - [[trust]]
 
 ## Connected Articles
