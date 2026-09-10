@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-10T09:20:36-04:00"
+updated: "2026-09-10T15:24:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -71,6 +71,7 @@ The knowledge base documents a paradigm shift: from AI as an integrity threat to
 - **Task-specific AI-use declarations:** [[genai-declaration-frameworks-higher-education|Domain-specific declaration frameworks]] replace generic "I used AI" checkboxes with structured declarations mapping use to cognitive stages (e.g., structural planning vs. content generation), forcing reflection and shifting focus from policing to professional practice.
 - **Process-transparent assessment:** architectures such as [[credential-cognitive-stewardship-ai-assessment|cognitive stewardship]], staged submissions, oral defences, and the [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|AI Viva]] (a [[conversational-ai|conversational agent]] probing whether students understand their submissions) make human judgement, verification, and responsibility visible.
 - **[[reducing-ai-misuse|Reducing misuse]]:** integrity sits alongside [[ai-misuse-learning-harm]] (the learning cost of misuse) and [[reducing-ai-misuse]] (the interventions that prevent it), tying honesty to genuine learning rather than rule-following.
+- **Transparency as an integrity strategy, not just a courtesy:** [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case treats the *rationale* for each allowed or unallowed GenAI use as the integrity mechanism itself. Students interviewed after ignoring a prohibition policy explained that they did not see themselves as behaving dishonestly, which reframes the failure as ambiguity rather than noncompliance — so the redesign answered it by justifying every restriction with the specific [[assessment]] it protects, and by designing for McCabe's "20-60-20" persuadable middle rather than the determined few. The case also names the equity cost of vague policy: expectations that are unclear and uneven across instructors are what convert policy failure into disciplinary action ([[equity-in-ai-education]]).
 - **Assessment redesign must be paired with cultural support.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] argue that in the generative AI era traditional, [[summative-assessment|summative]]-heavy and norm-referenced grading undermines integrity as well as deep learning, [[well-being]], and equity, and that [[authentic-assessment|authentic assessment]] — tasks mirroring real professional problems such as live consulting projects and dashboards with executive briefings — can support integrity-preserving alternatives to exam-centered assessment. Yet they caution that implementation is resisted by instructors and students alike, so integrity-preserving redesign requires incremental experimentation and dialogue spanning [[assessment-validity|validity]], assurance of learning, and stakeholders such as accreditation bodies and employers.
 
 ### Connections
@@ -118,6 +119,7 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[k-12]]
 
 ## Connected Articles
+- [[mccorkle-aligned-genai-course-policy-2025]] — Aligned GenAI course policy: assessment-derived permissions, transparent rationale (McCorkle 2025)
 - [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)
 - [[varia-construct-equivalent-assessment-variant-generation-2026]] — Construct-equivalent assessment variant generation (Lee 2026)
 - [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines

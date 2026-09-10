@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-10 | Total entries: 1318
+Last updated: 2026-09-10 | Total entries: 1319
 
 ## 2026-09-10
+- 📄 [[mccorkle-aligned-genai-course-policy-2025]] — Designing an Aligned Generative AI Course Policy: An Equitable and Transparent Learner-Centered Approach
 - 📄 [[ai-literacy-sdg-governance-framework-2026]] — Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework
 - 📄 [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: A Kitchen Machine Analogy for Applications of Generative AI in Education
 - 📄 [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment Design Under Imperfect Information: Generative AI, Disclosure, and Student Response in Higher Education
