@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-10T05:36:05-04:00"
+updated: "2026-09-10T09:40:51-04:00"
 type: concept
 tags: [collaborative-learning, ai-education, student-experience, scaffolding, equity-in-ai-education, k-12, higher-ed]
 audience: [learners]
@@ -23,6 +23,8 @@ confidence: high
 ## Introduction
 
 Collaborative learning is grounded in [[sociocultural-learning|sociocultural theories]] of learning that position knowledge construction as fundamentally social. AI introduces new dynamics: AI can serve as a peer, a facilitator, or a participant in collaborative processes. The articles in this knowledge base explore how AI-mediated collaboration affects [[learning-gains|learning outcomes]], epistemic engagement, and [[equity-in-ai-education|equity]] — and how collaborative structures must be designed to accommodate diverse learners.
+
+**Collaboration as a construct vs. group work as a structure.** Collaborative learning is the broader theory: knowledge is co-constructed through joint activity and dialogue. [[group-work|Group work]] is its most concrete formal implementation — a team producing a shared outcome, and often a shared grade. The two are closely related but not identical: a group can operate without genuine collaboration (task partitioned into independent parts, work merely merged), and collaboration can happen without formal groups (pairs, whole-class dialogue, or human–AI interaction). AI presses hardest on exactly this gap — [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found groups whose individual GenAI practice never became collective capability because the task never required joint work, alongside groups where the shared grade made GenAI use a coordination problem. The [[group-work|group work]] page examines these dynamics in depth; this page keeps the wider lens on collaborative learning as a whole.
 
 **AI as collaborative partner** explores AI's role in group learning. **[[polished-artifacts-fragile-engagement-2026|Kimmerle]]** conceptualizes the risk of reduced epistemic effort when learners use AI to produce polished knowledge artifacts, advocating for AI structured as an argumentative partner that preserves cognitive conflict. Testing this at classroom scale, [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] had introductory social-science students (n = 154) write argumentative essays, receive critiques from [[llm|LLMs]] such as ChatGPT, Gemini, or Claude, and then incorporate or rebut them; blind coders found reflection in 92.7% and active rebuttal of LLM claims in 87.8% of responses (inter-rater κs = 0.81–0.89), evidence that learners behaved as [[critical-thinking|critical]] consumers who preserved rather than surrendered the cognitive conflict of critique. **[[epistemic-emotions-collaborative-problem-solving]]** examines how emotions shape collaborative [[problem-solving]] with AI. **[[hingle-collaborative-ai-literacy-2025]]** explores collaborative approaches to [[ai-literacy|AI literacy]] development.
 
@@ -62,6 +64,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
+- [[group-work]] — Group work
 
 - [[problem-based-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
