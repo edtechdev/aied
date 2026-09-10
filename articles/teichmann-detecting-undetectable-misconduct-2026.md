@@ -78,7 +78,6 @@ None of this requires an AI-proof assessment or a retreat to mass invigilation. 
 ## Connected Concepts
 
 - [[academic-integrity]]
-- [[academic-integrity]]
 - [[ai-detection]]
 - [[assessment-validity]]
 - [[ai-use-disclosure]]
