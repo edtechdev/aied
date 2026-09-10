@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 186 concepts, 1124 articles, and 17 FAQs.
+> Complete text of 187 concepts, 1125 articles, and 17 FAQs.
 
 # Concepts
 
@@ -51,7 +51,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 ## Foundations of AI in education
 
-The field's cross-cutting and foundational concepts anchor the knowledge base's coverage and appear first in the sidebar. They open with an **Essentials** group — the concepts every reader should start with: the umbrella itself, [[misconceptions|misconceptions about AI]], [[ai-literacy|AI literacy]], [[agentic-ai|agentic AI]], [[cognitive-offloading|cognitive offloading]], [[framing-ai-use-for-students|how AI use is framed for students]], [[reducing-ai-misuse|reducing AI misuse]], [[academic-integrity|academic integrity]], [[teacher-role|teaching]], [[learning-design|learning design]], and [[educational-development|educational development]]. The **field** strand then covers [[history-of-aied|the field's history]], the [[limitations-in-aied-research|cross-cutting limitations of the evidence base]], [[philosophy-of-ai-in-education|its philosophy]], and [[theory-development-aied|theory development]]. The cross-cutting themes — [[human-ai-collaboration|human–AI collaboration]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[critical-thinking|critical thinking]], [[sustainability|sustainability]], and [[computational-thinking|computational thinking]] — cut across every strand, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]].
+The field's cross-cutting and foundational concepts anchor the knowledge base's coverage and appear first in the sidebar. They open with an **Essentials** group — the concepts every reader should start with: the umbrella itself, [[misconceptions|misconceptions about AI]], [[ai-literacy|AI literacy]], [[agentic-ai|agentic AI]], [[cognitive-offloading|cognitive offloading]], [[framing-ai-use-for-students|how AI use is framed for students]], [[reducing-ai-misuse|reducing AI misuse]], [[academic-integrity|academic integrity]], [[teacher-role|teaching]], [[learning-design|learning design]], and [[educational-development|educational development]]. The **field** strand then covers [[history-of-aied|the field's history]], the [[limitations-in-aied-research|cross-cutting limitations of the evidence base]], [[philosophy-of-ai-in-education|its philosophy]], and [[theory-development-aied|theory development]]. The cross-cutting themes — [[human-ai-collaboration|human–AI collaboration]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[critical-thinking|critical thinking]], [[sustainability]], and [[computational-thinking|computational thinking]] — cut across every strand, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]].
 
 ## Learning and instruction
 
@@ -133,6 +133,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[research-methods-aied]] — Efficacy research methods
 - [[limitations-in-aied-research]] — Limitations of the AIED evidence base
 - [[assessment]] — Assessment
+- [[group-assessment]] — Group assessment and GenAI
 - [[feedback]] — Feedback
 - [[learning-analytics]] — Learning analytics
 - [[personalized-learning]] — Personalized learning
@@ -1150,6 +1151,8 @@ Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; t
 
 [[ethical-ai-higher-ed-game-theory|A coordination-game framework]] provides a mechanism-level account of why policy pronouncements rarely change behavior: students' AI use is a **coordination problem**, where individual choices depend on peer expectations and assessment design. The model's key finding is **non-linear threshold dynamics** — small, well-calibrated changes to reflective-assessment incentives can trigger rapid cohort-wide shifts toward responsible use, while weak or misaligned incentives let opportunistic practice persist. In practical terms, modest redesign (e.g., requiring students to reflect on their AI interactions) can have disproportionate effects where abstract rules have none.
 
+Peer accountability does not always point toward integrity, as [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found in graded [[group-assessment|group assessment]]: seven of fifteen student groups deliberately reduced their GenAI use partly to avoid free-riding on groupmates, since group consequences were shared rather than self-contained, yet in five groups a permissive collective climate — "everyone in my group is using GenAI" — lowered the perceived [[ai-misuse-learning-harm|risk of misuse]] and inverted the very accountability mechanism group work is meant to create. The same study found students reframing originality as faithfulness to the understanding their classmates built together, and its practical recommendation follows directly: make the negotiation of acceptable AI use an explicit, documented, and assessable outcome rather than leaving the norm to emerge from peer pressure or perceived risk.
+
 ### The socio-emotional dimension
 
 Integrity enforcement has a neglected emotional cost. [[shame-guilt-ai-regulation-computing-education|Shame-and-guilt research]] with students shows these emotions regulate when and how AI use becomes visible, producing **hiding behaviors and selective disclosure** — and that they coexist with continued use, creating cycles of reduced agency and moral tension rather than behavior change. Students even describe their AI use in language of addiction. The implication: detection-heavy, surveillance-oriented policy risks **driving [[ai-misuse-learning-harm|misuse]] underground** rather than addressing it, undermining the candid negotiation that productive use requires.
@@ -1290,6 +1293,7 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[human-capability-test-learning-outcomes-ai-2026]] — A human capability test: what students must demonstrate, verify, and defend in the AI era (Saleh 2026)
 - [[aarc-ai-research-competency-2026]] — AI-Assisted Research Competency: authorship and responsible knowledge production (Beau, Flaquière & Lazar 2026)
+- [[chen-zou-genai-group-assessment-agency-2026]] — Peer accountability and originality in GenAI-mediated group assessment
 
 ---
 
@@ -2269,6 +2273,8 @@ Learner agency is not only a static individual trait — it is also an **emergen
 - **The [[affective-computing|affective]] cost of friction.** Contrarian AI reduced teamwork satisfaction and psychological safety *without* yielding creative performance gains, decoupling epistemic stimulation from experiential [[sustainability]]. This cautions that "productive" discourse structures should be interpreted alongside their emotional consequences — agency flourishes only in a psychologically safe climate.
 - **Implicit AI participation is invisible governance.** Because the personas worked even without AI disclosure, the study positions persona design as a form of invisible governance over collaborative processes — a finding with direct implications for writing assistants, [[peer-review]] systems, and teamwork platforms that may shape contributions without announcing their presence.
 
+- **Three patterns of agency in [[group-assessment|group-based assessment]].** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] interviewed 15 focus groups of pre-service teachers about an authentic group presentation and found agency operating in three directions at once: five groups *intensified* GenAI use as coordination infrastructure (cooperation-oriented agency — decoding peers' sections, aligning parts, protecting a shared grade), seven *restrained* it (normative agency — boundaries drawn to protect authenticity, fairness, originality, and diversity of perspectives), and three never changed practice from individual work (non-enacted agency, where individual capability was never mobilised collectively). Their distinction matters because restraint here was normative [[self-regulated-learning|self-regulation]] rather than compliance or disengagement, and because capability alone did not produce collective agency. Group membership also inverted the accountability that group work is supposed to create: a permissive collective climate lowered the perceived [[ai-misuse-learning-harm|risk of misuse]] instead of raising commitment.
+
 For collaborative settings, this reframes the design question: not *whether* AI can participate as a teammate, but *how* its patterned participation balances epistemic rigour, emotional safety, and learners' sense of ownership. Bounded friction (constrained challenge, paired with integrative and repair moves) and explicit meta-collaborative literacy are the recommended safeguards.
 
 ## Agency vs. learner identity
@@ -2366,6 +2372,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision: agency as zero-sum with tool agency
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: co-creativity and agency in socio-technical networks
+- [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of agency in GenAI-mediated group assessment: intensified, restrained, and not enacted
 
 ---
 
@@ -3142,6 +3149,8 @@ Collaborative learning is grounded in [[sociocultural-learning|sociocultural the
 
 **GenAI as agent and space in small groups — mode matters.** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]] observe that *how* a team accesses GenAI shapes collaboration: with a single shared interface in synchronous work, teams co-construct "collective prompts," run a surface–evaluate–embed cycle, and treat the chat as shared memory; in asynchronous work, private prompting and output "de-labelling" fragment transparency and raise the cost of sustaining a shared cognitive model. Their GenAI-Supported Cooperative Work (GSCW) lens frames GenAI as a configurable agent (individual assistant to team member) and an interactive collaborative space — connecting access configuration directly to the [[icap-framework|ICAP]]-relevant quality of interactive engagement.
 
+**GenAI as group coordination infrastructure — and the risk of flattened cooperation.** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] show how fifteen pre-service teacher groups handled GenAI in a graded group presentation, and the split runs against the usual assumption that group pressure increases AI reliance. Five groups intensified use to solve a familiar collaboration problem — not knowing what peers' sections contained — feeding that work into a chatbot to make it intelligible and align their own part, with one group rebuilding its cycle as *discussion → externalisation to GenAI → collective review → re-discussion*. The authors read this as more than [[cognitive-offloading|cognitive offloading]], since students kept judgement while the tool absorbed coordination, but flag that the smoother workflow may bypass the disagreement through which cohesion is conventionally built, making relational labour the open question. Seven groups cut their GenAI use instead, protecting the situated knowledge built in shared classrooms ("AI only knows that moment when you type"), fairness to groupmates, originality across groups, and the diversity of perspectives the group already held. Three groups saw no change at all: with the task partitioned into independent sections, individually sophisticated GenAI practice never became a collective capability, even though coherence was an explicit criterion. The pattern suggests group norms, not the tool, decide what a group does with AI — and that collective adoption can lower the perceived [[ai-misuse-learning-harm|risk of misuse]] rather than raise commitment.
+
 **Collaboration as the object of instruction.** [[golrang-propact-pair-programming-2026|ProPACT]] is an AI-driven adaptive tutor for pair programming that treats the *dyad* — not the individual — as the unit of analysis, modeling joint visual attention, joint mental effort, and pupil-based signals in real time to predict collaborative breakdowns up to 30 seconds in advance and intervene before they occur. Dyads receiving proactive feedback achieved substantially higher debugging success and completed tasks more efficiently, and showed sustained gains in collaborative regulation afterward — evidence that AI can teach collaboration itself, not just support a task. Measuring collaborative competence poses the complementary challenge of assessing collaborative problem-solving (CPS) skill at scale, which traditionally requires manually coding process data from simulated tasks into CPS behaviours — time-consuming and impractical at scale; [[prompt-engineering|context-aware prompting]] of pre-trained language models automates this coding by modelling contextual dependencies and fusing cognitive and social abilities, achieving superior performance over strong baselines.
 
 **AI as a neutral mediator — and the tension when it stops being neutral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] is a Discord-based [[llm]] probe that mediates disciplinary boundaries in interdisciplinary student teams by surfacing implicit assumptions and returning anonymized syntheses to shared discussion. Students valued it as both cognitive support and a relational buffer, but a central tension emerged: AI's perceived neutrality was load-bearing, and eroded once the AI moved from neutral mediator to advisor or challenger — a key design constraint for [[pedagogical-agent|agents]] that mediate collaboration while preserving [[human-ai-collaboration]] and [[trust-calibration]].
@@ -3229,6 +3238,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[breideband-community-builder-cobi-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
+- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI as coordination infrastructure in student groups: intensified, restrained, and non-enacted use
 
 ---
 
@@ -12696,6 +12706,7 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 - [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] argues for assessing computational methods and process rather than tool-specific outputs, using oral defense and verification.
 - [[fenton-oral-exams-ai-authentic-assessment-2025|Reconsidering oral exams]] positions the oral exam/assessment as a low-tech authentic alternative that is inherently AI-resistant — its real-time, interactive dialogue tests comprehension, [[critical-thinking|critical thinking]], and reasoning (not memorization), mirrors professional practice, and prevents students from using AI to generate and memorize answers. It offers a concrete set of practical recommendations (clear rubrics, standardized content, assessor training, [[prompt-engineering|prompting]] guidelines, [[bias-mitigation|bias mitigation]]) for reintroducing oral assessment across high school and higher education.
 - [[eportfolio|E-portfolio assessment]] is another authentic, process-based form that resists AI fabrication: [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du (2025)]] identify social contribution portfolios among the authentic forms most robust to generative AI, and [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] recommends annotated portfolios and recorded walkthroughs that probe reasoning in real time. [[ni-lam-multiliteracies-ai-portfolio-2026|Ni & Lam (2026)]] and [[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]] show generative AI can assist the portfolio process — feedback, drafting, reflection — while the portfolio's reasoning traces and drafts preserve authenticity.
+- **Authenticity criteria can themselves restrain AI use.** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found that a rubric requiring students to ground a group presentation in their own first-hand teaching experience, and to reflect on shared classroom observations, led seven of fifteen student groups to *deliberately reduce* their GenAI use. Students argued the tool could not meet the epistemic demand — "AI only knows that moment when you type" — because it lacked the longitudinal, situated knowledge their classmates and teacher had. Both layers mattered: the authenticity of the task and the relational authenticity of contributing one's own thinking to a group, which reframed heavy AI use as free-riding on peers. The design implication is that authentic, experience-grounded criteria do evaluative work even without enforcement — they supply a reason for restraint that policy statements cannot.
 
 ## Connections to learning theory
 
@@ -12764,6 +12775,91 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[mesny-innovative-assessment-grading-management-2026]]
+- [[chen-zou-genai-group-assessment-agency-2026]] — Authenticity criteria that led student groups to reduce GenAI use
+
+---
+
+## [Group Assessment](https://edtechdev.github.io/aied/concepts/group-assessment/)
+
+> **Group assessment** — graded work produced and submitted by a team rather than an individual, used to develop collaboration, communication, and shared responsibility while also generating a grade for each member. It is the setting where [[assessment|assessment design]] and [[collaborative-learning|collaborative learning]] meet, and it inherits the tensions of both: free-riding and social loafing, unequal contributions, conflict avoidance, and the problem of attributing collective output to individual learning. [[generative-ai|Generative AI]] adds a further layer, because teams must now negotiate whose and what kind of AI [[student-engagement|engagement]] counts as acceptable — a negotiation that [[agency]] [[research-methods-aied|research]] shows can go in opposite directions within the same cohort.
+
+## Questions to Consider
+
+- What is a group assessment actually measuring — the group's output, each member's learning, or their ability to collaborate? If those three can diverge, which one does your grading claim to warrant?
+- Think of a group project you have been part of. Who did the work, who decided what counted as good work, and who stayed quiet? How much of that was the task design rather than the people?
+- Research on group work finds students often decline to hold free-riders accountable in order to protect relationships. When a group member uses [[generative-ai|GenAI]] to produce their section, is that free-riding — or is the judgment more complicated than the word suggests?
+- If every group in a cohort prompts the same [[conversational-ai|chatbot]] with the same brief, what happens to originality and to the diversity of perspectives that group work is supposed to produce?
+- A collective permissive climate can make heavy AI use feel safer than in individual work, because the risk is shared. What does that tell you about using group norms as a way to encourage [[ai-literacy|responsible AI use]]?
+- If an AI tool mediated your group's discussion — summarising, synthesising, or challenging your ideas — would that deepen the collaboration or replace the difficult parts of it? How would you tell the difference?
+
+## Introduction
+
+Group assessment occupies a distinctive place in [[higher-ed|higher education]] and [[professional-training|professional training]]: it is valued for building collaboration, communication, and a sense of shared responsibility, and it is pedagogically central in professionally oriented programmes such as [[teacher-education|teacher education]]. Its promise is not automatically realised, however. Both [[teacher-role|teachers]] and students report obstacles to effective collaboration, and the graded group product has to carry two different kinds of claim at once — about what the group accomplished and about what each individual learned. AI, and [[generative-ai|generative AI]] in particular, presses on both claims: it changes how work can be divided, how easily contributions can be fused, and how each member's thinking can be distinguished from a tool's output.
+
+## Why group assessment is difficult by design
+
+- **Free-riding and social loafing.** Some members reduce their contribution and the workload is redistributed onto more engaged peers. Task scope, group size, and [[writing-education|composition]] raise the likelihood; accountability mechanisms and group efficacy reduce it.
+- **Accountability is relational as well as structural.** Research in Hong Kong, where the study below was conducted, found undergraduates often chose *not* to report free-riding in order to protect interpersonal relationships — completing the work themselves instead of confronting the problem. Students' [[agency]] can therefore take the form of pursuing the grade while avoiding the conflict.
+- **The collaboration has to be designed, not assumed.** Where a task can be partitioned into independent subtasks, students take that route, and the group becomes a submission format rather than a joint intellectual endeavour.
+- **Process versus product.** Group assessment is strongest when the process is assessed as well as the output, which requires [[peer-review|peer review]] or other visible intermediates rather than a single final artefact.
+- **[[equity-in-ai-education|Equity]] and [[inclusive-learning|inclusion]].** Contribution norms, language, and confidence distribute unequally inside groups; assessments that reward the loudest coordinator rather than the collective reasoning reproduce those inequalities.
+
+## What AI changes in group assessment
+
+Research on AI in group work has mostly addressed the technical layer — algorithmic group formation, AI-generated feedback for groups, [[learning-analytics|analytics]] that help teachers spot struggling groups, personalised assessment to lift group performance. A smaller, newer body of work examines what students actually do, and it complicates the assumption that AI simply makes group work easier or more dishonest.
+
+**Three patterns of agency instead of one spectrum.** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] interviewed 15 focus groups (52 pre-service teachers) about an authentic group presentation in a multicultural education course, and found three distinct patterns rather than a single enthusiasm-to-avoidance axis:
+
+| Pattern | Groups | Practice | Rationale |
+|---|---|---|---|
+| Cooperation-oriented agency | 5 | Intensified GenAI use | Coherence, performance, shared norms lowering perceived risk |
+| Normative agency | 7 | Deliberately restrained use | Authenticity, [[bias-mitigation|fairness]], originality, diversity of perspectives |
+| Non-enacted agency | 3 | Unchanged from individual work | Task partitioned; collective interaction viewed as costly |
+
+- **GenAI as coordination infrastructure.** Students intensified use to bridge a familiar [[collaborative-learning|collaboration]] problem: not knowing what peers' sections contained. Feeding those sections into a chatbot to decode and align them made distributed knowledge mutually intelligible, and one group rebuilt its workflow as "discussion → externalisation to GenAI → collective review → re-discussion." The authors read this as going beyond [[cognitive-offloading|cognitive offloading]] — judgement stayed with students while the tool absorbed coordination work — while warning that the smoother workflow may bypass the disagreement through which cohesion is built.
+- **Group norms can invert accountability.** A permissive collective climate lowered the perceived risk of [[ai-misuse-learning-harm|misuse]] ("it is more comfortable because besides me, everyone in my group is using GenAI"), turning shared norms into shared risk management rather than commitment to learning.
+- **Restraint is also agentic.** Students who cut their GenAI use did so to protect the task's [[situated-learning|situated]] knowledge ("AI only knows that moment when you type"), to avoid effectively free-riding on their groupmates, to preserve the originality that distinguishes groups from one another, and to keep the diversity of perspectives the group already had. The authors distinguish this normative [[self-regulated-learning|self-regulation]] from mere compliance or risk avoidance, and caution that both look similar from outside.
+- **Capability does not become collective on its own.** In three groups, GenAI practice never changed from individual work; individually capable students never pooled what they knew, even when coherence was an explicit assessment criterion.
+- **AI as mediator of group process.** Beyond the tool's content role, AI systems increasingly mediate group interaction itself — surfacing assumptions in interdisciplinary teams, tracking dyadic state in pair programming, or producing non-evaluative classroom-level views of discourse quality — which raises the question of whether machine mediation substitutes for or [[scaffolding|scaffolds]] the relational labour group assessment is meant to develop.
+
+## Design implications
+
+- **Make the AI-use negotiation an assessable outcome.** Requiring teams to justify and document how GenAI will and will not be used turns an implicit peer norm into explicit, gradeable reasoning, instead of leaving it to perceived risk.
+- **Assess process, not only product.** [[peer-review|Peer review]], intermediate deliverables, and reflective contributions create the interactions through which norms and shared understanding are actually constructed.
+- **Do not rely on a coherence criterion alone.** A rubric line demanding integration does not by itself produce collaboration if the task structure still permits divide-and-conquer; the workflow has to require joint work.
+- **Recognise that heavier AI use is not automatically less learning.** In the study above, intensified use coexisted with retained student judgement, while not using AI was sometimes caution rather than engagement. Read the pattern, not the volume.
+- **Design for how students read the assessment, not only what it says.** The same instruction was read as permission, as a warning, and as evidence that AI was ineffective, and those readings shaped practice more than the policy text.
+
+## Connected Concepts
+
+- [[ai-education]] — AI in education (umbrella)
+- [[assessment]]
+- [[collaborative-learning]]
+- [[peer-review]]
+- [[academic-integrity]]
+- [[agency]]
+- [[authentic-assessment]]
+- [[ai-use-disclosure]]
+- [[higher-ed]]
+- [[teacher-education]]
+- [[formative-assessment]]
+- [[student-engagement]]
+- [[learning-design]]
+
+## Connected Articles
+
+- [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of student agency in GenAI-mediated group assessment
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency when AI joins a group: supportive vs. contrarian personas
+- [[xu-genai-collaborative-space-2026]] — Shared versus private GenAI access across a team
+- [[genai-counter-learner-groupthink-2025]] — GenAI countering groupthink in collaborative problem-solving
+- [[hao-human-ai-collaborative-problem-solving-cognition]] — Collaboration modes and the task-performance versus self-regulation trade-off
+- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — GenAI-supported peer feedback in collaborative argumentation
+- [[golrang-propact-pair-programming-2026]] — ProPACT: treating the dyad as the unit of analysis in pair programming
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — AI mediation of assumption-surfacing in interdisciplinary student teams
+- [[breideband-community-builder-cobi-2026]] — Classroom-level discourse analytics for group collaboration
+- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI as pedagogical mediator of collaboration
+- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in the AI era
+- [[genai-chinese-higher-education-integrity-2026]] — Integrity and engagement in GenAI-era higher education
 
 ---
 
@@ -32972,6 +33068,96 @@ For [[teacher-education|teacher education]] and [[educational-development]], thi
 ## Citation
 
 Chen, P.-H., Lee, H.-Y., Huang, Y.-M., & Wu, T.-T. (2026). [*Unpacking the heterogeneity of pre-service teachers' ChatGPT acceptance: a latent profile analysis across STEM and non-STEM disciplines*](https://doi.org/10.1186/s40594-026-00634-x). *International Journal of STEM Education*, 13, 33.
+
+---
+
+## [Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emergent Perspective](https://edtechdev.github.io/aied/articles/chen-zou-genai-group-assessment-agency-2026/)
+
+> **Synthesis:** Chen and Zou (2026) ask how students exercise [[agency]] when [[generative-ai|GenAI]] enters an authentic [[group-assessment|group-based assessment]]. Drawing on 15 focus group interviews with 52 pre-service teachers in a multicultural education course, plus an interview with the instructor, they identify three patterns rather than one enthusiasm-to-avoidance spectrum: **cooperation-oriented agency** (five groups intensified GenAI use to hold the group's work together and protect its performance), **normative agency** (seven groups deliberately restrained use to protect authenticity, [[bias-mitigation|fairness]], originality, and diversity of perspectives), and **non-enacted agency** (three groups whose GenAI practice never changed from individual work). Because all three patterns were negotiated, not simply caused by the tool, the authors argue the negotiation of acceptable GenAI use should itself become an explicit, assessable learning outcome.
+
+## Why group assessment is a distinct case
+
+Most GenAI-in-assessment [[research-methods-aied|research]] examines individual work, and the group setting changes the problem in ways that matter. [[group-assessment|Group-based assessment]] is valued for building collaboration, communication, and responsibility, and it is pedagogically central in professionally oriented programmes such as [[teacher-education|teacher education]] — but it also forces members to negotiate *whose* and *what kind* of GenAI [[student-engagement|engagement]] counts as acceptable. That negotiation is an [[agency]] question, not a tool question, and it sits inside a web of prior group experiences, peer relations, [[learning-design|assessment design]], and the instructor's framing.
+
+The study's setting is deliberately authentic: an undergraduate multicultural education course in a five-year teacher education programme, in which groups of three to five designed and delivered a presentation based on case studies drawn from real [[teacher-role|teaching]] scenarios, worth 30% of the final grade. The instructor used the [[governance|institutional]] "Use only with explicit acknowledgement" policy and explicitly permitted [[generative-ai|GenAI]] for idea generation, language polishing, visual layout, material development, and presentation scripting. The [[authentic-assessment|authenticity]] was load-bearing: the rubric required integration and coherence under a multicultural theme, each member's reflective insight tied to their own classroom contribution, and demonstrated group collaboration. Theoretically, the authors treat agency as **ecological-emergent** — achieved through the interplay of personal capacity, social relations, and structural setting (Biesta and Tedder; Priestley et al.) — and add a capability-based lens (what learners are genuinely able to be and do) and an epistemic lens (what students treat as legitimate knowledge and knowing). Their definition is worth keeping: agency as the emergent capacity to navigate and negotiate socio-material structures and convert available resources into capabilities for valued individual and collective intellectual work over time.
+
+## Three patterns of agency
+
+| Pattern | Groups | What students did with GenAI | Rationale |
+|---|---|---|---|
+| Cooperation-oriented agency | 5 | Intensified GenAI use in the group | Coherence, performance, perceived safety in shared norms |
+| Normative agency | 7 | Deliberately restrained GenAI use | Authenticity, fairness, originality, diversity of perspectives |
+| Non-enacted agency | 3 | Left practice unchanged from individual work | Divide-and-conquer task partitioning; anticipated interaction as costly |
+
+### Cooperation-oriented agency: GenAI as coordination infrastructure
+
+For five groups, intensified use was a deliberate conversion of GenAI's affordances into collective achievement. The dominant rationale was **coherence**: with limited shared knowledge of each other's sections, students fed peers' contributions into a [[conversational-ai|chatbot]] to decode them and to align their own part ("I have to put it into AI, and then help me understand what their parts are about," RG5). GenAI here worked as an artefact-in-transaction that restructured communication conditions, making fragmented distributed knowledge mutually intelligible. One group rebuilt its workflow entirely around the tool — "discussion → externalisation to GenAI → collective review → re-discussion" (RG13) — a [[situated-learning|situated]] achievement under time pressure. Two further rationales appeared: **performance**, where students read assessment criteria and peer [[benchmark|benchmarks]] and intensified use to protect their part of a shared grade, and **perceived safety through norms**, where a permissive collective climate ("It is more comfortable because besides me, everyone in my group is using GenAI," RG1) lowered the felt risk of [[ai-misuse-learning-harm|misuse]].
+
+Both halves of this pattern are double-edged. On one side, the authors argue it goes beyond [[cognitive-offloading|cognitive offloading]]: students retained judgement while the tool absorbed parts of the coordination work, and heavier use did not mean less intellectual engagement — complicating the common assumption that more GenAI equals less thinking. On the other, the fluency of the workflow may bypass the disagreements through which genuine cooperation is built, and the group setting can invert the accountability that collaborative assessment is designed to create — a normative micro-ecology in which collective adoption replaces commitment to shared learning with shared risk management.
+
+### Normative agency: students as gatekeepers
+
+Seven groups reduced their GenAI use — the counterintuitive direction, since group projects are more demanding and more time-constrained than individual work, conditions that usually increase reliance. Four rationales emerged.
+
+- **Authenticity.** Students judged that the task demanded situated, relational knowledge built from shared classroom experience, which GenAI could not access: "we are classmates, we have the same problem, we have the same learning process… But AI only knows that moment when you type" (RG6). GenAI's lack of longitudinal situational awareness and personal touch made it a poor fit for an assessment that spanned a term and valued coherence between members' contributions.
+- **Fairness and integrity.** Group membership created relational obligations: "If I generate my part in AI… it's just like I'm not involved in the project… [It would be] not fair to other groupmates" (RG2). Students who accepted [[ai-misuse-learning-harm|risk]] in individual work — where consequences were self-contained — refused it in group work, where risk was distributed. The authors read this as peer accountability extending from contribution norms into technology use, and note the tension with the instructor's intention: students equated GenAI use in the group with social loafing.
+- **Originality.** Students anticipated that similarly prompted groups would converge: "if we rely too much on it… this will make us, maybe, similar to different groups" (RG7). Originality was reframed as faithfulness to understandings developed by human classmates together — a projective, future-oriented act of agency.
+- **Diversity of perspectives.** Groups already contained diverse viewpoints, making GenAI redundant, and several feared the tool would flatten the diversity they valued.
+
+The authors are careful to keep this pattern at some distance: restraint may also reflect unfamiliarity with the tool, assessment-driven risk avoidance, or an intuition that caution is the more defensible position — and the equation of group GenAI use with loafing is debatable. They distinguish agency as compliance with norms from agency as normative [[self-regulated-learning|self-regulation]], placing these students in the latter: boundary-drawing driven by values.
+
+### Non-enacted agency: capabilities that never reach the group
+
+In three groups, the group setting changed nothing. Work was partitioned into discrete subtasks ("We usually divide into different parts… it's the same [as individual work]… because we work on individual platforms," RG10), and while individual students described sophisticated GenAI use, they never contributed those capabilities to the group. Because the instructor had made coherence an explicit criterion and it still did not mobilise collective practice, the authors argue that individual capability does not produce [[agency|collective agency]] on its own — and that how students perceive and have experienced prior collaboration is a prior condition that the GenAI literature has largely skipped.
+
+## What the study adds
+
+- **The enthusiasm–avoidance axis is too coarse.** Both intensified use and restraint contained negotiation: students agentically evaluated their resources and the assessment ecology before deciding what to do. Treating either as evidence of engagement or disengagement misses the reasoning inside it.
+- **Assessment design is a constitutive force, not a backdrop.** The authenticity criterion and the coherence criterion shaped what students did with GenAI — but the coherence criterion alone did not produce coherence, and some groups read the instruction to engage critically with GenAI as evidence that GenAI was ineffective.
+- **Instructors' intentions and students' practices diverge in both directions.** Students used GenAI uncritically where collective adoption lowered perceived risk, and avoided it where they read the task as demanding situated knowledge. The study joins a growing line of work arguing that both perspectives must be examined together in [[group-assessment|group assessment]].
+- **The relational question is new.** Whether GenAI-mediated collaboration weakens or eases the relational labour through which group cohesion is conventionally built had not previously been posed in group-work research.
+
+## Implications for practice
+
+- **Make the negotiation an assessable outcome.** Units with group work should require teams to collectively justify and document how GenAI will and will not be used, rather than leaving the norm to emerge from peer pressure or risk perception.
+- **Build peer interaction into the process.** [[peer-review|Peer review]] and [[feedback]] as smaller tasks leading to the final product create the interactions through which norms are actually negotiated — aligning [[group-assessment|group assessment]] with process-oriented learning.
+- **Do not assume capability becomes collective.** If the assessment permits a divide-and-conquer structure, individually capable students may never pool what they know; the collaboration has to be designed for, not merely required in the rubric.
+- **Read restraint carefully.** Students who avoid GenAI may be exercising normative self-regulation — or guarding against risk and unfamiliarity. The two call for different instructor responses.
+
+## Connected Concepts
+
+- [[agency]]
+- [[group-assessment]]
+- [[assessment]]
+- [[authentic-assessment]]
+- [[academic-integrity]]
+- [[collaborative-learning]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[teacher-education]]
+- [[ai-use-disclosure]]
+- [[ai-education]]
+- [[student-experience]]
+- [[learning-design]]
+
+## Connected Articles
+
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency when AI joins a group: supportive vs. contrarian personas
+- [[xu-genai-collaborative-space-2026]] — How team access to GenAI (shared vs. private) shapes collaboration
+- [[genai-counter-learner-groupthink-2025]] — GenAI countering learner groupthink in collaborative tasks
+- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — GenAI-supported peer feedback in collaborative argumentation
+- [[hao-human-ai-collaborative-problem-solving-cognition]] — Collaboration modes and the task-performance vs. self-regulation trade-off
+- [[polished-artifacts-fragile-engagement-2026]] — Polished artifacts, fragile epistemic engagement
+- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning
+- [[genai-chinese-higher-education-integrity-2026]] — GenAI in Chinese higher education: integrity and engagement
+- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in the AI era
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: designing authentic assessment
+- [[chirikov-regulate-ai-syllabi-2026]] — Task-level regulation of AI in course syllabi
+- [[ai-assessment-scale-reform]] — Rethinking assessment in the generative AI era
+
+## Citation
+
+Chen, J. X. J., & Zou, T. X. P. (2026). [*Students' agency in GenAI-mediated group assessment: An ecological-emergent perspective*](https://doi.org/10.1080/02602938.2026.2730644). *Assessment & Evaluation in Higher Education*, advance online publication.
 
 ---
 

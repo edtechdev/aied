@@ -1,7 +1,11 @@
 # Journal
 
 
-Last updated: 2026-09-09 | Total entries: 1310
+Last updated: 2026-09-10 | Total entries: 1312
+
+## 2026-09-10
+- 📘 [[group-assessment]] — Group Assessment
+- 📄 [[chen-zou-genai-group-assessment-agency-2026]] — Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emergent Perspective
 
 ## 2026-09-09
 - 📄 [[perrotta-zero-shot-governance-2026]] — Zero-Shot Governance: General-Purpose AI in Policy

@@ -67,6 +67,8 @@ ALIASES = {
     'student-engagement': ['student engagement', 'engagement', 'learner engagement'],
     'feedback': ['feedback', 'feedback loop', 'feedback loops'],
     'assessment': ['assessment', 'assessments', 'take-home assessments'],
+    'group-assessment': ['group assessment', 'group-based assessment', 'group assessments',
+                         'team-based assessment', 'collaborative assessment'],
     'authentic-assessment': ['authentic assessment', 'authentic evaluation', 'authentic tasks'],
     'formative-assessment': ['formative assessment', 'formative'],
     'summative-assessment': ['summative assessment', 'summative'],
