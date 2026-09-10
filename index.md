@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-10
 
-Articles: 1129 | Concepts: 189 | FAQs: 17
+Articles: 1130 | Concepts: 189 | FAQs: 17
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -832,6 +832,7 @@ Articles: 1129 | Concepts: 189 | FAQs: 17
 - [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Five Guiding Principles for Navigating Artificial Intelligence in Students as Partners Practice to Preserve Pedagogical Trust
 - [[maybee-disruptive-partnerships-sap-2025]] — Disruptive Partnerships: Collaborating with Students to Create Empowering Learning Experiences in Information Studies
 - [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing
+- [[mccorkle-aligned-genai-course-policy-2025]] — Designing an Aligned Generative AI Course Policy: An Equitable and Transparent Learner-Centered Approach
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — From Mechanical Compliance to Human Flourishing: A Socialist Humanist Approach to Asynchronous AI Literacy and Fair Use in Higher Education
 - [[mechanical-engineering-ai-curriculum-2026]] — Giving Mechanical Engineers Intelligent Tools: A Project-Based AI Education Curriculum in Thermal Engineering

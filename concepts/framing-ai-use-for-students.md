@@ -1,7 +1,7 @@
 ---
 title: Framing AI Use for Students
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-10T15:22:00-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, student-experience, motivation, educational-policy-ai, higher-ed, k-12, collaborative-learning, governance]
 audience: [learners]
@@ -9,12 +9,12 @@ level: [higher ed, k 12]
 confidence: high
 ---
 
-> **Framing AI use for students** — the persuasive and communicative craft of shaping how learners understand the value, purpose, and boundaries of AI tools and policies, so that they adopt productive and [[ethics|ethical]] use rather than rejecting, avoiding, or gaming it. It is the "buy-in" lever that [[reducing-ai-misuse]]'s educative interventions depend on: structural guardrails change the environment, but [[scaffolding]], literacy training, and AI-use policies only take hold when students are actually convinced of their point.
+> **Framing AI use for students** — the persuasive and communicative craft of shaping how learners understand the value, purpose, and boundaries of AI tools and policies, so that they adopt productive and [[ethics|ethical]] use rather than rejecting, avoiding, or gaming it. It is the "buy-in" lever that [[reducing-ai-misuse]]'s educative interventions depend on: structural [[guardrails]] change the environment, but [[scaffolding]], literacy training, and AI-use policies only take hold when students are actually convinced of their point.
 
 ## Questions to Consider
 
 - Simply making AI available to students was associated with ineffective or even unethical use, while explicitly framing and embedding appropriate use improved outcomes. If the presence of the tool matters less than how it's framed, what does that suggest about the emphasis on simply 'giving students AI'?
-- Students' knowledge of institutional AI rules shows only weak links to what they actually do — most use generative AI, many are unsure if their usage complies, and they lean on privately accessed tools. Why do rules fail to change behavior, and what might persuade instead of just inform?
+- Students' knowledge of [[governance|institutional]] AI rules shows only weak links to what they actually do — most use generative AI, many are unsure if their usage complies, and they lean on privately accessed tools. Why do rules fail to change behavior, and what might persuade instead of just inform?
 - When institutions respond to AI with fear and condemnation, students may hide or rationalize their use rather than learn to use it well. Have you seen a 'moral panic' response push students into secrecy? What would a reframed, opportunity-focused approach look like?
 - Anxiety about AI isn't purely a barrier: students who worried about accuracy and plagiarism were *more* likely to verify and revise AI output rather than accept it uncritically. How might productive anxiety be channeled into evaluative competence instead of being suppressed?
 - Students construct their own sense of what's acceptable through 'sites' — faculty intentions, course documents, peer norms, and institutional messages — that often diverge. When those messages conflict, which one do you think actually wins, and how does framing close that gap?
@@ -25,27 +25,31 @@ The concept sits between two more familiar ones. Where [[technology-acceptance-m
 
 ## Why framing matters
 
-Framing matters because **policy and rules do not reliably change behavior on their own**. Survey research on regulatory awareness finds that students' knowledge of institutional GenAI rules shows only weak-to-moderate associations with what they actually do — most students use [[generative-ai|generative AI]] tools, over half are unsure whether their usage complies with institutional regulations, and they lean on privately accessed tools rather than institutionally provided ones.([[student-regulatory-awareness-genai]]) Knowing the rules is necessary but not sufficient; the message has to *persuade*, not just inform.
+Framing matters because **policy and rules do not reliably change behavior on their own**. Survey [[research-methods-aied|research]] on [[regulation|regulatory]] awareness finds that students' knowledge of institutional GenAI rules shows only weak-to-moderate associations with what they actually do — most students use [[generative-ai|generative AI]] tools, over half are unsure whether their usage complies with institutional regulations, and they lean on privately accessed tools rather than institutionally provided ones.([[student-regulatory-awareness-genai]]) Knowing the rules is necessary but not sufficient; the message has to *persuade*, not just inform.
 
-The frame also shapes whether students experience AI as a **threat to be avoided or evaded** versus a **resource to be used deliberately**. When institutions respond to AI with fear and condemnation — what one line of work calls a recurring "moral panic" — they push students into hiding or rationalizing their use rather than learning to use it well.([[moral-panic-genai-classroom]]) Reframing anxiety and condemnation into structured opportunity changes the whole dynamic of student engagement with AI.
+The frame also shapes whether students experience AI as a **threat to be avoided or evaded** versus a **resource to be used deliberately**. When institutions respond to AI with fear and condemnation — what one line of work calls a recurring "moral panic" — they push students into hiding or rationalizing their use rather than learning to use it well.([[moral-panic-genai-classroom]]) Reframing anxiety and condemnation into structured opportunity changes the whole dynamic of [[student-engagement|student engagement]] with AI.
 
 ## Strategies and evidence
 
 ### Frame AI as a productive tool, not a threat to be banned
 
-The most directly tested framing intervention in the knowledge base is a six-year natural experiment tracking a data-visualization course across three conditions: pre-GenAI, GenAI-available (present but unintegrated), and GenAI-integrated (explicit instruction + encouragement to use AI on applied work, banned only on the knowledge-check portion). The finding: simply *making* AI available was associated with students using it ineffectively or unethically, while *explicitly framing and embedding* its appropriate use recovered and improved outcomes on applied questions.([[moral-panic-genai-classroom]]) The lesson is that the framing (how AI is positioned and taught) matters as much as the tool's presence — encouraging appropriate use beats condemning or ignoring it.
+The most directly tested framing intervention in the knowledge base is a six-year natural experiment tracking a data-[[visualization]] course across three conditions: pre-GenAI, GenAI-available (present but unintegrated), and GenAI-integrated (explicit instruction + encouragement to use AI on applied work, banned only on the knowledge-check portion). The finding: simply *making* AI available was associated with students using it ineffectively or unethically, while *explicitly framing and embedding* its appropriate use recovered and improved outcomes on applied questions.([[moral-panic-genai-classroom]]) The lesson is that the framing (how AI is positioned and taught) matters as much as the tool's presence — encouraging appropriate use beats condemning or ignoring it.
 
 ### Message expectations clearly and repeatedly — and design around students
 
 Because rule-awareness alone does not shift behavior, effective framing pairs clear expectations with structural reinforcement. Students construct their own sense of what is acceptable through what one interview study calls the "sites" where AI policy is interpreted — faculty intentions, course documents, peer norms, and institutional messages often diverge, producing rationalizations like "copying AI text is victimless."([[student-rationalization-ai-writing]]) Framing must therefore close the gap between what faculty intend and what students infer, and acknowledge the social and emotional context — shame and guilt regulate when and how students make AI use visible, driving hiding behaviors and selective disclosure rather than honest engagement.([[shame-guilt-ai-regulation-computing-education]])
 
+### Say why, not just what
+
+The most direct framing lever in the knowledge base is supplying the *reason* for a boundary task by task, composed as though speaking to students ("you will…", "we will…"). [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case documents the mechanism: after office-hour conversations revealed that students who had read a prohibition did not believe it applied to them, she rebuilt the policy so that every allowed or unallowed use of GenAI was justified by the specific [[assessment]] it protects — for example, GenAI help with learning objectives is unallowed because "I am assessing your ability to compose learning objectives that are specific, measurable, and at an appropriate level" — and delivered that rationale both in the syllabus and as just-in-time reminders inside assignment instructions. Framing by rationale is an [[equity-in-ai-education|equity]] move as much as a persuasive one: it assumes less shared background knowledge about authorship, originality, and attribution, and it turns policy into a dialogue rather than a verdict ([[academic-integrity]]).
+
 ### Reframe anxiety and uncertainty into evaluative competence
 
-A mixed-methods study of academic [[writing-education|writing]] found that AI anxiety is not simply a barrier: students who worried about accuracy and plagiarism were *more* likely to verify, cross-check, and revise AI output rather than accept it uncritically. The study frames AI literacy less as acceptance and more as **regulatory competence** — the capacity to question outputs, revise selectively, and maintain authorship responsibility.([[ai-anxiety-strategic-regulation-writing-2026]]) Framing AI use for students means channeling productive anxiety toward evaluation, not suppressing it.
+A [[mixed-methods-research|mixed-methods]] study of academic [[writing-education|writing]] found that AI anxiety is not simply a barrier: students who worried about accuracy and plagiarism were *more* likely to verify, cross-check, and revise AI output rather than accept it uncritically. The study frames [[ai-literacy|AI literacy]] less as acceptance and more as **regulatory competence** — the capacity to question outputs, revise selectively, and maintain authorship responsibility.([[ai-anxiety-strategic-regulation-writing-2026]]) Framing AI use for students means channeling productive anxiety toward evaluation, not suppressing it.
 
 ### Use targeted messages to shape specific behaviors
 
-Small, well-designed messages can shift behavior. An **inoculation message** about ChatGPT's fallibility increased students' intentions to verify AI-provided information and their actual verification behavior.([[chatgpt-inoculation-training-verification-2026]]) Likewise, simply warning students about AI fallibility increased help-seeking in an [[intelligent-tutoring|intelligent tutoring]] system — a frame of *calibrated caution* rather than blanket distrust.([[ai-fallibility-warning-help-seeking]]) These point to a general principle: frame the tool's limits honestly, and students calibrate their behavior accordingly rather than either over-trusting or rejecting it.
+Small, well-designed messages can shift behavior. An **inoculation message** about ChatGPT's fallibility increased students' intentions to verify AI-provided information and their actual verification behavior.([[chatgpt-inoculation-training-verification-2026]]) Likewise, simply warning students about AI fallibility increased [[help-seeking]] in an [[intelligent-tutoring|intelligent tutoring]] system — a frame of *calibrated caution* rather than blanket distrust.([[ai-fallibility-warning-help-seeking]]) These point to a general principle: frame the tool's limits honestly, and students calibrate their behavior accordingly rather than either over-trusting or rejecting it.
 
 ### Secure buy-in and take-up, not just access
 
@@ -84,6 +88,7 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 
 ## Connected Articles
 
+- [[mccorkle-aligned-genai-course-policy-2025]] — Transparent rationale for each allowed and unallowed GenAI use, task by task (McCorkle 2025)
 - [[moral-panic-genai-classroom]] — Encouraging appropriate use of GenAI rather than condemning it as disruption
 - [[student-rationalization-ai-writing]] — The "five sites" where students rationalize AI use in academic writing
 - [[student-regulatory-awareness-genai]] — Knowing the rules is not enough: regulatory awareness and actual use

@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-09T19:18:07-04:00"
+updated: "2026-09-10T15:20:00-04:00"
 type: concept
 tags: [regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics]
 audience: [administrators, instructors, faculty development]
@@ -36,6 +36,8 @@ confidence: high
 The knowledge base documents that institutional AI policies [[genai-policies-higher-ed-computing|lag behind actual AI use]]. [[educational-development]] programs, [[teacher-ai-competency]] frameworks, and [[regulation]] all require coherent policy foundations. Large-scale field evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] shows that the learning losses from homework outsourcing go largely unnoticed because individual subject teachers and students rarely connect the decline to AI use — a gap that evidence-informed policy (e.g., weighting closed-book assessment, informing students of long-run costs, monitoring inputs rather than outputs) can address.
 
 **Task-level regulation is the emerging pattern.** A large-scale longitudinal study of 31,000+ course syllabi (2021–2025) at a large public research university ([[chirikov-regulate-ai-syllabi-2026|Chirikov 2026]]) shows how instructors actually regulate AI in practice: explicit AI regulation grew from near zero to 55% of courses by Fall 2025, but the direction shifted from restrictive toward permissive, and instructors increasingly **differentiated by task type** — restricting AI for drafting/reasoning (displacement-risk tasks) while permitting it for editing/proofreading and study support (augmentation tasks). Framing also shifted from academic integrity (63%→49% of syllabi) toward learning impact (1%→29%). This task-based pattern — built on the labor-economics mechanisms of task displacement, augmentation, and reinstatement — offers a more granular alternative to blanket adoption-or-ban policies and is a direct empirical anchor for the policy-vs-governance distinction above.
+
+**Instructor-level policy design as an alignment exercise.** Task-level regulation has a design counterpart below the syllabus. [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case derives a course's allowed and unallowed GenAI uses from "what, specifically, am I assessing?" — inventorying every task in a project, mapping each task to a learning objective, pairing each with an emerging GenAI workforce competency ([[career-development-and-readiness]]), and then deciding which concern takes priority: the need to assess student performance or the value of building the competency. The resulting policy differs task by task inside a single project — brainstorming topics and curating images permitted, composing learning objectives and designing slides not — with the [[framing-ai-use-for-students|rationale written directly to students]]. The case also documents why blanket prohibitions fail in practice: students who do not see themselves as dishonest read a prohibition as not applying to them, and the policy becomes inequitable ([[equity-in-ai-education]]) when expectations are left implicit. It complements the top-down policy levels above by showing how a policy's *content* can be generated from [[assessment]] alignment at the course and assignment level.
 
 **The boundary–evidence gap in assessment policy.** A 30-university audit of public [[generative-ai|GenAI]] assessment guidance ([[credential-cognitive-stewardship-ai-assessment|Yao 2026]]) finds that institutional policies are better at *classifying* AI use than at explaining what evidence of learning remains valid under each class: the mean delegation-boundary score (2.47/4) exceeded the mean evidence-standard score (1.89/4), safeguards were sparse (2.75 of 8), and guidance was clearest for final-output substitution. The framework of *cognitive stewardship* argues that policies must make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions protect fair evidence — rather than merely monitor AI use.
 
@@ -81,6 +83,7 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 ## Connected Articles
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
+- [[mccorkle-aligned-genai-course-policy-2025]] — Deriving allowed and unallowed GenAI uses task by task from what is assessed (McCorkle 2025)
 - [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi (Chirikov 2026)
 - [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
