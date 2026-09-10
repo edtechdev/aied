@@ -87,7 +87,7 @@ The model is deliberately stylised: a single representative student, normalised 
 - [[academic-integrity]]
 - [[assessment-validity]]
 - [[remote-proctoring]]
-- [[academic-misconduct-procedures]]
+- [[academic-integrity]]
 - [[ai-use-disclosure]]
 - [[ai-detection]]
 - [[assessment]]
