@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 187 concepts, 1125 articles, and 17 FAQs.
+> Complete text of 189 concepts, 1127 articles, and 17 FAQs.
 
 # Concepts
 
@@ -145,6 +145,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[equity-in-ai-education]] — Equity in AI education
 - [[ethics]] — AI ethics
 - [[ai-use-disclosure]] — AI use and disclosure statements
+- [[academic-misconduct-procedures]] — Misconduct procedures and enforcement
 - [[governance]] — AI governance
 - [[educational-policy-ai]] — Educational AI policy
 - [[educational-robotics]] — Robots in education
@@ -1153,6 +1154,8 @@ Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; t
 
 Peer accountability does not always point toward integrity, as [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found in graded [[group-assessment|group assessment]]: seven of fifteen student groups deliberately reduced their GenAI use partly to avoid free-riding on groupmates, since group consequences were shared rather than self-contained, yet in five groups a permissive collective climate — "everyone in my group is using GenAI" — lowered the perceived [[ai-misuse-learning-harm|risk of misuse]] and inverted the very accountability mechanism group work is meant to create. The same study found students reframing originality as faithfulness to the understanding their classmates built together, and its practical recommendation follows directly: make the negotiation of acceptable AI use an explicit, documented, and assessable outcome rather than leaving the norm to emerge from peer pressure or perceived risk.
 
+Procedures matter as much as policies, and their evidentiary basis has collapsed for AI. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] argues that the [[academic-misconduct-procedures|misconduct procedure]] universities imported from plagiarism rests on a premise generative AI dismantled: that prohibited use can be detected and proved. Unlike text-matching software, which can point to a copied source, AI-text classifiers identify no source because none exists — they output a probabilistic judgement about style that degrades under paraphrase, misclassifies non-native speakers systematically, and cannot be explained or cross-examined, while skilled or lightly edited use leaves no trace at all. Persisting anyway reverses the [[academic-misconduct-procedures|burden of proof]] (the student is asked to prove a negative), strains every element of procedural justice, and lands the harm of false accusation hardest on the already disadvantaged. The proposed remedy is twofold: publish an evidentiary standard under which detector output alone never grounds a finding, with graduated education-first responses, and move institutional effort into validity-centred and authentic assessment design. [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] supply the mechanism-level counterpart from the student's side: because each assessment environment makes some response most attractive, prohibition leaves concealment attractive when verification is thin, monitoring makes hidden use costlier without making disclosure safe, and only redesign — lowering the payoff from outsourcing while raising the value of visible reasoning — moves students toward responsible use. Their sharpest result is that deterrence runs through a detector's discrimination between hidden use and legitimate work rather than its catch rate, so when false positives rise faster than true positives, stronger monitoring can make concealment relatively more attractive.
+
 ### The socio-emotional dimension
 
 Integrity enforcement has a neglected emotional cost. [[shame-guilt-ai-regulation-computing-education|Shame-and-guilt research]] with students shows these emotions regulate when and how AI use becomes visible, producing **hiding behaviors and selective disclosure** — and that they coexist with continued use, creating cycles of reduced agency and moral tension rather than behavior change. Students even describe their AI use in language of addiction. The implication: detection-heavy, surveillance-oriented policy risks **driving [[ai-misuse-learning-harm|misuse]] underground** rather than addressing it, undermining the candid negotiation that productive use requires.
@@ -1294,6 +1297,104 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[human-capability-test-learning-outcomes-ai-2026]] — A human capability test: what students must demonstrate, verify, and defend in the AI era (Saleh 2026)
 - [[aarc-ai-research-competency-2026]] — AI-Assisted Research Competency: authorship and responsible knowledge production (Beau, Flaquière & Lazar 2026)
 - [[chen-zou-genai-group-assessment-agency-2026]] — Peer accountability and originality in GenAI-mediated group assessment
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Detection’s evidentiary collapse and the case for procedural justice, proportionality, and design
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Deterrence, disclosure, and redesign as an assessment-design problem under imperfect information
+
+---
+
+## [Academic Misconduct Procedures](https://edtechdev.github.io/aied/concepts/academic-misconduct-procedures/)
+
+> **Academic misconduct procedures** — the [[governance|institutional]] machinery through which suspected breaches of [[academic-integrity|academic integrity]] are investigated, judged, and sanctioned: how allegations are raised, what evidence is required, who decides, and what follows. Historically built around text-matching evidence, these procedures assume that prohibited use can be detected and proved. [[generative-ai|Generative AI]] dismantled that premise — AI use that is skilled or lightly edited leaves no reliable trace — so the procedure now faces a choice between accusing students on evidence that cannot bear the weight and contracting to the narrow set of cases it can adjudicate justly. Understanding the machinery matters for [[ai-detection|detection]] policy, [[ai-use-disclosure|disclosure]] requirements, [[assessment-validity|assessment validity]], and [[equity-in-ai-education|equity]], because the harm of a false allegation is not distributed evenly.
+
+## Questions to Consider
+
+- What has to be true about the evidence before an institution should accuse a student of misconduct? Try to state the standard in a sentence, then ask whether a percentage from a commercial classifier meets it.
+- Text-matching software could point to a copied source. AI-text detectors identify no source because none exists — only a probabilistic judgement about style. What does a procedure lose when it imports the habits of the first case into the second?
+- When an allegation rests on a detector score, the student is effectively asked to prove a negative: that she did not use a prohibited tool. Who does that burden fall on hardest, and why does that matter beyond [[bias-mitigation|fairness]] to individuals?
+- [[research-methods-aied|Research]] on procedural justice finds that compliance depends more on perceived fairness of process than on outcomes. If that is right, what does a detection-led procedure corrode even when it reaches the "correct" verdict?
+- Procedural fairness depends on voice, neutrality, respectful treatment, and trustworthy motives. Which of these survives when the "case" is an uninspectable score that neither the student nor the panel can explain?
+- Conscientious non-use — declining AI on environmental, political-economic, or [[pedagogy|pedagogical]] grounds — is a real position among students and staff. What does a well-designed regime owe it, and where does that obligation sit in a policy that mostly discusses prohibition?
+- If a procedure cannot know whether AI was used, is punishing the cases it can prove a principled compromise or a lottery that falls on the careless-but-honest?
+
+## Introduction
+
+Misconduct procedures sit between two literatures that rarely meet: work evaluating [[ai-detection|detection tools]], and work developing assessment redesign for the generative AI era. Each presupposes an account of what the procedure itself may legitimately do, and that account is usually left implicit. The knowledge base's evidence suggests it should not be, because the procedure is where the consequences land — for students facing an allegation, for staff asked to investigate an unwinnable case, and for the [[trust]] on which voluntary compliance depends.
+
+The concept covers the procedure's evidentiary basis, the fairness requirements it inherits from administrative justice, the proportionality constraints on institutional response, and the shift of effort from enforcement toward [[learning-design|assessment design]]. It connects directly to [[assessment-validity|assessment validity]], since the deepest problem with a detector-driven allegation is that it cannot warrant the inference being drawn, and to [[ai-use-disclosure|AI use disclosure]], which is often mistaken for a detection mechanism.
+
+## The evidentiary collapse
+
+Plagiarism procedures evolved alongside a technology that could often substantiate an allegation: text-matching software can show that a passage coincided with a source. Procedures imported for generative AI assume an equivalent evidentiary base, and it does not exist, because the two [[ai-technologies|technologies]] differ in kind.
+
+- **Text-matching (similarity) software** compares a submission against existing sources and can point to a matching passage. Plagiarism is tractable because it leaves a referent: the copied text exists somewhere.
+- **AI-text detectors** are classifiers. They output a probabilistic judgement that a passage was machine-generated, identify no source because none exists, and cannot be independently replicated or cross-examined.
+
+Four properties of detectors bear directly on whether a finding can be sustained. Accuracy is low and unstable, degrading sharply under paraphrase or light editing, which is exactly what a student using AI competently produces. Error is asymmetric: simple evasion roughly halves already modest accuracy, so the careless-but-honest are caught more readily than the deliberately dishonest. Judgement is opaque: proprietary thresholds and unexplained percentage outputs mean a case cannot be explained, answered, or weighed. And bias is systematic: writing by non-native speakers is disproportionately misclassified, because the features detectors treat as signals of AI also characterise competent second-language writing. Human judgement does not fill the gap — [[teacher-role|teachers]], expert and novice alike, cannot reliably distinguish AI-generated from student-written prose and are overconfident when wrong, and stylistic unease is how many allegations begin.
+
+Underneath these limitations is a structural one. Where a student uses the tool with skill or edits its output, there is no reliable trace to find. Use also spans a spectrum from wholly machine-generated work through assisted-then-edited writing to brainstorming or grammar-checking, and a procedure has no means of locating a submission along that continuum after the fact. A regime that can neither distinguish outsourcing from assistance nor prove where a piece falls cannot adjudicate guilt.
+
+## What procedural fairness requires
+
+Procedural justice theory holds that willingness to accept decisions and comply with rules depends less on outcomes than on the perceived fairness of the procedures producing them, through four elements: **voice** (an opportunity to present one's case), **neutrality** (transparent and consistently applied decision rules), **respectful treatment**, and **trustworthy motives**. A detector-driven allegation strains all four at once — the case is a number the student cannot inspect and the panel often cannot explain, the opportunity to answer is hollow because a probabilistic claim about style cannot be disproved, suspicion displaces respectful treatment, and the institution's motives read as self-protective. The proceeding wears the forms of due process while lacking its substance.
+
+Three commitments follow for the cases that are genuinely pursued:
+
+- **Burden and standard of proof rest with the institution**, calibrated to the evidence: detector output alone never establishes misconduct, and a finding requires corroborating evidence, process artefacts, or an interview.
+- **A genuine opportunity to understand and answer the case**, which is impossible where the "evidence" is an unexplained score.
+- **Graduated rather than binary response**, following the educational integrity enforcement pyramid: a conversation for minor undeclared use, formal proceedings reserved for serious and well-evidenced cases, education as the default in between.
+
+The uncertainty also does harm before any allegation is made. Fear of accusation is the deterrent to legitimate AI use that students cite most often in national surveys, so a detection-led regime suppresses permitted practice along with prohibited practice.
+
+## Proportionality and the surveillance temptation
+
+Proportionality asks that an institutional response pursue a legitimate aim, be suitable and necessary for achieving it, and impose no burdens excessive in relation to the benefit obtained. Tested against it, escalation fails on several counts. Monitoring that cannot discriminate between prohibited and legitimate work is not suitable for the aim; the burden of intrusion falls on everyone; and the documented trajectory of [[remote-proctoring|remote proctoring]] — rapid adoption, student distress, contested accuracy — is the cautionary precedent. Each escalation also imposes its own [[equity-in-ai-education|equity]] costs, pushing enforcement further into students' lives in a way that falls hardest on those least able to absorb it.
+
+Secure, supervised assessment retains a legitimate but bounded role: it is warranted where an individual competence must be certified to a third party, and should be deployed deliberately at those points rather than reflexively across a programme. Used reflexively as a panicked substitute for redesign, supervised assessment reintroduces the adversarial atmosphere that redesign is meant to dispel.
+
+## Deciding what the procedure is for
+
+The productive move is to change the question the institution asks. The forensic question — did the student cheat? — invites a hunt for traces that, for AI, are not there. A validity question — did the assessment measure what the student can do? — is answerable, and it relocates the institutional response to [[learning-design|assessment design]]: programme-level assessment across linked tasks rather than a single submissible artefact, oral and supervised elements where verified individual capability must be certified, and assessment of process as well as product. Detection tries to verify that a fixed, AI-vulnerable task was completed without help; design changes the task so that help is either irrelevant or itself part of what is assessed.
+
+The procedure then retains a real but narrow role: impersonation and third-party production of work, demonstrable fabrication, admitted or directly witnessed breaches, and cases supported by corroborating evidence beyond a score. For those it should operate with full procedural fairness and proportionate, graduated sanctions. What it should not be is the routine response to the undetectable general case. The narrowing is not a retreat from integrity but a more defensible way of securing it.
+
+## Implementation conditions
+
+- **Equity of access to permitted tools.** Acceptable-use design presupposes that students can use what is permitted, and access is stratified by subscription, device, connectivity, and prior exposure. Where an assessed task rewards fluent use of a premium tool, permission becomes a regressive subsidy; institutions should therefore provision tools where AI use is integral, or ensure tasks are completable to full standard with freely available tools.
+- **Conscientious non-use must be protected.** Declining AI on environmental, political-economic, or pedagogical grounds is a defensible position. Acceptable use must mean permitted, not required: wherever AI use is invited, an AI-free route to the same outcomes, assessed to the same standard, should remain available.
+- **Workload.** The status quo is not costless — detector-driven proceedings consume staff time in triage, hearings, and appeals, and that time polices rather than teaches. Selective short orals used on a sampled basis scale at programme level, and iterative designs need not multiply marking events if checkpoints are light-touch and replace rather than add to [[summative-assessment|summative]] volume. An institution unwilling to resource design is choosing, by default, to resource policing.
+- **Monitoring and reporting as governance.** Auditing allegation volumes and their demographic distribution is itself an equity control, because detector bias is systematic rather than random.
+
+## Connected Concepts
+
+- [[ai-education]] — AI in education (umbrella)
+- [[academic-integrity]]
+- [[ai-detection]]
+- [[ai-use-disclosure]]
+- [[assessment-validity]]
+- [[remote-proctoring]]
+- [[equity-in-ai-education]]
+- [[governance]]
+- [[educational-policy-ai]]
+- [[ethics]]
+- [[assessment]]
+- [[higher-ed]]
+- [[authentic-assessment]]
+- [[evaluative-judgement]]
+
+## Connected Articles
+
+- [[teichmann-detecting-undetectable-misconduct-2026]] — The evidentiary collapse of AI misconduct procedures, and the case for procedural justice and design
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Deterrence, discrimination, and disclosure modelled as assessment design
+- [[karr-ai-detection-humanization-2026]] — Why AI detection fails, and the humanisation arms race
+- [[luo-dawson-value-judgements-grading-2026]] — Value judgements in grading GenAI-assisted work, and two-way transparency
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Non-compliance with mandatory AI-use declarations
+- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: fear of retribution chills honest reporting
+- [[automated-online-exam-proctoring-decade-review-2026]] — A decade of automated proctoring: accuracy, distress, and equity
+- [[conijn-fear-big-brother-proctored-exams-2022]] — Fear of the big brother: student experience of proctored exams
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authenticity redesigned rather than policed
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for the age of generative AI
+- [[biology-grade-vulnerability-genai-2026]] — How structurally vulnerable current grading is to AI-mediated dishonesty
+- [[chirikov-regulate-ai-syllabi-2026]] — Syllabi shifting from integrity framing to task-level regulation
 
 ---
 
@@ -12109,6 +12210,97 @@ The constructive question in the knowledge base's assessment literature is not "
 
 ---
 
+## [Evaluative Judgement](https://edtechdev.github.io/aied/concepts/evaluative-judgement/)
+
+> **Evaluative judgement** — the capacity to make sound judgements about the quality of one's own work and the work of others, against criteria that must be understood rather than merely applied. In the [[generative-ai|generative AI]] era it has moved from a desirable graduate attribute to a load-bearing capability: when a tool can produce plausible finished work, the capability that distinguishes a competent learner is the ability to appraise that output — to decide what is good, what is wrong, what to accept, what to reject, and why. This makes evaluative judgement a legitimate object of [[assessment]] in its own right, and the practical pivot for moving institutions from [[ai-detection|detection]] toward [[assessment-validity|validity-centred]] and [[authentic-assessment|authentic]] assessment design.
+
+## Questions to Consider
+
+- Think of something you can judge well — your own field's work, a craft, a sport. How did you learn that judgement? Was it taught explicitly, or absorbed by making and comparing, and what does that imply for how it should be assessed?
+- Criteria can be applied mechanically or understood. If a student follows a rubric correctly but cannot say why one piece of work is better than another, which capability has the assessment actually measured?
+- When AI generates a plausible draft, the learner's remaining work is largely judgement: what to keep, what to fix, what to discard. Is that a diminished form of the task, or a more demanding one than producing the draft?
+- A student can accept an AI suggestion because it reads well, or because it survives their own scrutiny. From the outside, the submitted work may be identical. What would let an assessor see the difference?
+- Internal feedback — the comparisons learners make between their work and reference points — is where judgement develops. If AI supplies instant comparative feedback, does that accelerate the development of judgement or substitute for the effort that builds it?
+- Evaluative judgement is often associated with peer [[peer-review|review]] and self-assessment. Both can become performative when graded. How would you design assessment so that exercising judgement is required rather than performed?
+- If critical appraisal of AI output is the capability that matters most, should it be a stated learning outcome — and what happens to courses that keep it implicit?
+
+## Introduction
+
+Assessments that ask students to produce work presume they can tell good work from poor work, first in others' output and eventually in their own. That presumption has become unreliable. When [[llm|large language models]] can produce competent prose, code, and analysis on demand, the ability to generate a product is no longer a strong signal of learning; the ability to judge a product is. Evaluative judgement names that ability, and it is the capability the knowledge base's assessment scholarship keeps arriving at when it asks what remains assessable and worth assessing.
+
+The concept sits at the intersection of [[feedback]] and [[formative-assessment]], because judgement is developed by comparing work against standards and acting on the difference, and of [[self-regulated-learning]], because the same comparison loops underpin monitoring and adjustment. It is closely tied to [[feedback-literacy|feedback literacy]], and in the AI era it is what makes [[critical-thinking|critical]] [[student-engagement|engagement]] with AI output possible rather than aspirational.
+
+## What the construct is
+
+Evaluative judgement is the capacity to appraise quality — one's own work, peers' work, and increasingly the work of an AI system — using criteria one can reason about rather than recite. Three features distinguish it from adjacent ideas.
+
+- **It is about quality, not correctness.** Answering a question correctly requires knowledge; judging whether an answer is good requires standards, and standards are what a generator cannot supply on the learner's behalf.
+- **It is developed, not transmitted.** Judgement grows through repeated acts of comparison — comparing a draft against exemplars, against explicit criteria, against peers' differing approaches — which is why exemplars, calibration exercises, and peer review are its natural pedagogies.
+- **It is domain-[[situated-learning|situated]].** Judgement is exercised inside a discipline's standards of evidence and argument, so it cannot be assessed generically any more than [[transfer-of-learning|transfer]] can be assumed.
+
+The construct is closely related to, but not identical with, the broader ideal of authenticity in assessment. Whereas [[authentic-assessment|authentic assessment]] asks whether a task resembles worthwhile real-world work, evaluative judgement asks whether the learner can tell good work from poor work — a capability that underlies any professional standard they will later be held to.
+
+## Why generative AI made it central
+
+Four arguments converge.
+
+- **The product stops being evidence.** Completion of a task no longer demonstrates the capability the task was designed to certify, because a tool can complete much of it. What remains is the reasoning that produces, checks, and accounts for the product — judgement, in short.
+- **It is the capability that governs AI use.** Deciding whether an AI suggestion is worth accepting, adapting, or rejecting *is* evaluative judgement applied to machine output. Courses that cannot make it visible cannot tell responsible use from substitution, which is why [[academic-integrity|integrity]] scholars increasingly treat critical AI use as an assessable outcome rather than a rule to be policed.
+- **It is the pivot from enforcement to design.** Where prohibited use cannot be detected reliably, the [[governance|institutional]] response that survives scrutiny is to depend less on assessments whose integrity requires detection. That shift runs through validity-centred and authentic tasks and through making evaluative judgement an explicit object of assessment — one of the three design strands that the knowledge base's policy scholarship identifies.
+- **It converts disclosure from confession to evidence.** When a task asks students to explain what they used AI for, which suggestions they accepted or rejected, and how the final submission reflects their own judgement, the declaration becomes a demonstration of judgement rather than an admission to be interpreted punitively — which is what lowers the cost of honesty that otherwise drives disclosure underground.
+
+## How it develops, and what undermines it
+
+Development runs through comparison and calibration: producing work, comparing it against exemplars and criteria, receiving feedback, and revising. The [[research-methods-aied|research]] in this knowledge base documents both the mechanism and its limits.
+
+- **AI-supported internal feedback can expand what students notice.** In a 14-week study with 28 pre-service [[teacher-role|teachers]], AI-generated strong, average, and weak exemplars anchored iterative comparison; students' evaluation focus broadened from surface language features toward content, organisation, and coherence — but their evaluative reasoning stayed thin, with example-based justification rising while the most sophisticated comparative reasoning remained rare. Judgement can be scaffolded into existence; it does not appear on demand.
+- **Feedback engagement frameworks locate it inside self-[[regulation]].** Feedback is most useful when learners elicit, process, and enact it; [[feedback-literacy|feedback literacy]] is what determines whether that happens, and [[ai-feedback-quality|AI feedback]] changes the balance of those stages rather than replacing them.
+- **Displacement is the standing risk.** If the tool supplies the rubric, the feedback, and the monitoring, the learner's [[metacognition|metacognitive]] and evaluative practice may be displaced rather than supported — the assessment becomes a performance of judgement the student never exercised. This is the same failure mode as [[cognitive-offloading|cognitive offloading]], expressed in the assessment register rather than the learning one.
+- **Grading pressure can make it performative.** Where self-assessment or reflection on AI use is graded, students can produce the reflection the rubric wants. Designing for genuine judgement rather than performed judgement requires making the exercise consequential — a decision that shows up in later work, an oral explanation, a documented rationale that is itself examined.
+
+## Implications for practice
+
+- **State it as an outcome.** If appraising work quality — including AI output — is what matters, say so in the [[learning-gains|learning outcomes]] and assess it, rather than leaving it as a by-product of the task.
+- **Assess the decision, not only the artefact.** Asking students to justify what they kept, changed, or rejected turns the thinking into evidence and makes substitution visible without surveillance.
+- **Use exemplars and calibration deliberately.** Comparative judgement against strong, average, and weak exemplars is the mechanism the evidence supports; AI makes generating those exemplars cheap, which is one of its clearest [[pedagogy|pedagogical]] uses.
+- **Pair it with process and orals.** Process artefacts and short oral explanations show judgement in action where a final product cannot.
+- **Do not let AI supply the whole evaluative loop.** Where the tool sets the standard, judges the work, and monitors progress, the learner's judgement has nothing to do — support should be designed to require the student's own appraisal.
+- **Guard against performative reflection.** Make the exercise consequential enough that performing it is not a viable substitute for doing it.
+
+## Connected Concepts
+
+- [[ai-education]] — AI in education (umbrella)
+- [[assessment-validity]]
+- [[feedback]]
+- [[feedback-literacy]]
+- [[formative-assessment]]
+- [[authentic-assessment]]
+- [[academic-integrity]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[critical-thinking]]
+- [[assessment]]
+- [[ai-detection]]
+- [[academic-misconduct-procedures]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[ai-internal-feedback-evaluative-judgments]] — How AI-supported internal feedback develops evaluative judgments, and where reasoning stays thin
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Evaluative judgement as one of the design strands replacing detection-led enforcement
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Making visible reasoning and judgement the thing the rubric rewards
+- [[zhan-boud-dawson-genai-feedback-engagement]] — Feedback engagement, self-regulation, and AI feedback as an enabler rather than a substitute
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authenticity redesigned rather than policed
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Six-dimensional authentic assessment design model
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for the age of generative AI
+- [[du-yuan-epistemic-dependence-2026]] — Contestability, recoverability, and the criteria separating reliance from dependence
+- [[learner-centered-feedback-ai]] — Learner-centred feedback design with AI
+- [[genai-feedback-design-multisite-experiment]] — Experimental evidence on GenAI feedback design
+- [[pairr-ai-peer-review-2025]] — AI-supported peer review and peer assessment
+- [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy for AI-assisted writing
+
+---
+
 ## [Feedback](https://edtechdev.github.io/aied/concepts/feedback/)
 
 > **Feedback** — information provided to a learner about their performance or understanding that is intended to close the gap between current and desired performance. In [[ai-education|AI in education]], feedback has become a central and rapidly transforming theme: AI systems now generate, deliver, and even teach students how to use feedback, reshaping every stage of the feedback process.
@@ -13350,6 +13542,12 @@ Assessment validity connects to [[authentic-assessment]], [[automated-assessment
 
 AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption-transformation-2026|Hathcoat, Slotnick & Miller (2026)]] argue that when LLMs serve as test-takers, test-makers, raters, and analysts, the interpretive chain becomes opaque and the object of measurement loses definition — reframing validity as requiring AI-fluent "cyborg" judgment, and [[can-ai-evaluate-assessment-llm-meta-assessment-2026|Green et al. (2026)]] show AI scores can align with human raters (87% checklist) while the underlying rationale diverges, especially on measurement quality and weak reports.
 
+## Validity under imperfect information
+
+The sharpest recent reframing treats the generative AI problem as an evidentiary one. The student knows how a piece of work was produced; the institution observes the artefact and, at best, partial traces of the process — a product–process gap that [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] formalise as assessment validity under imperfect information. On this account the question is not whether a rule was broken but whether the assessment still generates credible evidence of student reasoning, effort, and judgement, and each institutional mechanism — prohibition, monitoring, disclosure, redesign — is evaluated by which student response it makes most attractive. The validity lens also dissolves a false separation: integrity and validity are the same problem seen from different ends, because a finding of misconduct is itself a validity claim about what the work evidences.
+
+[[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] draws the procedural consequence: where prohibited use cannot be detected, a regime that still accuses on detector scores cannot warrant the inference it draws, and so produces unfairness without effectiveness. He argues for replacing the forensic question — did the student use AI? — with a validity question — did the student demonstrate the capability the task was designed to certify? — which relocates institutional effort into programme-level assessment across linked tasks, oral and supervised elements at certification points, and [[evaluative-judgement|evaluative judgement]] as an explicit object of assessment.
+
 ## Connected Concepts
 
 - [[authentic-assessment]]
@@ -13406,6 +13604,8 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[luo-dawson-value-judgements-grading-2026]] — Value judgements in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
+- [[teichmann-detecting-undetectable-misconduct-2026]] — The misconduct procedure as a validity problem
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment validity under imperfect information: a response-region model
 
 ---
 
@@ -13708,6 +13908,12 @@ Research consistently cautions against standalone reliance on detection:
 
 Bassett et al. conclude that AI detection is an unworkable solution to a problem that cannot be solved through surveillance and punishment: the focus must move to [[assessment|assessment design]] that recognises AI's role in learning and the reality that unsupervised assessments cannot be secured. This consolidates the knowledge base's [[beyond-detection-authentic-assessment-ai-2025|beyond-detection]] stance with a direct, evidence-based argument for retiring detection tools.
 
+### Detector bias and the mechanism of the arms race
+
+Detection is not merely imprecise; its errors are patterned. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] assembles the accumulated case against treating a detector score as evidence: no tool in the most comprehensive early benchmark reached 80% accuracy; simple paraphrasing or "humanising" roughly halves even that; false positives at realistic base rates exceed true ones; and non-native English speakers are misclassified systematically because the features detectors treat as signals of AI also characterise competent second-language writing. Judgement by humans does not fill the gap — expert and novice markers alike fail to distinguish AI from student prose and are confident when wrong — and the asymmetry of error means the careless-but-honest are caught while the deliberately dishonest evade, since detectors are also opaque (no thresholds, no training data, no independent replication) and therefore cannot be answered or cross-examined in a hearing.
+
+Two further points sharpen the practical stakes. First, the underlying statistical signal shrinks as models are optimised toward human prose, so the arms race is one an institution cannot win. Second, the empirical limit case is stark: in a covert field study, 94% of wholly AI-generated submissions passed unnoticed through a live online examination system across five psychology modules, and the AI work on average outscored real students. [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] add the counter-intuitive corollary that determines when monitoring pays at all: because sensitivity raises false positives along with true positives, the rational deterrent is discrimination — the gap between flagging hidden use and flagging legitimate work. Where extra sensitivity creates more new false positives than new true positives, more monitoring makes concealment relatively more attractive, penalising honest students faster than it identifies hidden users. The design consequence is that detectors, rules, and disclosure procedures should not be built separately.
+
 ## Beyond detection: assessment redesign
 
 A key theme in the knowledge base is that detection should be a **limited, situational tool — not a strategy of first resort**. [[beyond-detection-authentic-assessment-ai-2025|Kickbusch et al. (2025)]] argue that surveillance and detection **misdiagnose the problem**: in an AI-mediated world, authenticity cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, and offer discipline-agnostic design-for-learning patterns that position AI as a collaborator rather than a cheating application. This connects detection to [[authentic-assessment]], [[assessment-validity]], [[responsible-assessment-ai-era-stanford-2026|responsible assessment]], and [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|coauthorship integrity]].
@@ -13752,6 +13958,8 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[socially-fluent-ai-identity-detection]] — Socially Fluent AI Identity Detection
 - [[ssaho-ai-academic-integrity-review-2025]] — Review of AI-based plagiarism/AI-content detection reliability
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Why detector output cannot ground a misconduct finding
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Discrimination rather than catch rate, and when monitoring backfires
 
 ---
 
@@ -17679,7 +17887,7 @@ AI use declarations require or invite students to state whether and how they use
 
 ## Why disclosure matters for AI in education
 
-Disclosure is the mechanism that makes AI-assisted work *visible* and therefore governable — the counterpart to [[academic-integrity]] and the precondition for [[trust]] between students and instructors. Without transparency about AI use, educators cannot distinguish legitimate support from misconduct, calibrate [[feedback|feedback]], or detect equity gaps. But the research reveals that disclosure is also an **[[affective-computing|affective]] and social process**, not just a policy one.
+Disclosure is the mechanism that makes AI-assisted work *visible* and therefore governable — the counterpart to [[academic-integrity]] and the precondition for [[trust]] between students and instructors. Without transparency about AI use, educators cannot distinguish legitimate support from misconduct, calibrate [[feedback]], or detect equity gaps. But the research reveals that disclosure is also an **[[affective-computing|affective]] and social process**, not just a policy one.
 
 ## What the research shows
 
@@ -17688,6 +17896,12 @@ Disclosure is the mechanism that makes AI-assisted work *visible* and therefore 
 - **Disclosure has psychological costs — and hidden costs.** Students view declarations as self-incrimination, and some believe AI use is private like using a calculator. [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] found students who "always" disclosed had over 3× the odds of being accused — transparency can invite suspicion. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] found worry redirects disclosure toward peers rather than suppressing it, cutting students off from instructor feedback.
 - **Disclosure is entangled with self-regulated learning.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] interpret teacher-directed disclosure as adaptive help-seeking — making assistance visible and inviting external calibration — while concealment (especially among heavy AI users) resembles maladaptive regulation. Structured, formative disclosure can promote the [[metacognition|metacognitive]] reflection and ethical reasoning that characterize effective self-regulation.
 - **Disclosure norms vary by discipline, language, and context.** Education, social-science, and [[stem-education|STEM]]/Health students disclose more than Business students; monolingual students may disclose less than [[multilingual-learning|multilingual]] students. International students in one study disclosed less, raising [[equity-in-ai-education|equity]] concerns. Disclosure norms do not develop automatically with academic progression.
+
+### Disclosure is not a detection mechanism
+
+A recurring institutional error is to treat declarations as a way to catch prohibited use. They cannot serve that function: they depend on candour, and enforcing them runs back into the same undetectability, since an institution generally cannot prove that an undeclared use occurred. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] locates their real value elsewhere — in visible integrity commitments embedded in a culture of [[trust]], and in transparency, shared expectations, and student reflection rather than enforcement. The educational mechanism is normative, not forensic.
+
+The modelling work of [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] supplies the condition under which disclosure works, expressed as a design threshold rather than a hope: disclosed use beats hidden use only when the [[academic-misconduct-procedures|cost of honesty]] stays below the deterrent it buys. Because that bound rises with detection credibility, detection and disclosure safety reinforce each other — but only if the false-positive risk of being flagged falls on honest and dishonest responses alike, in which case honesty keeps its comparative protection. Their design implication is direct: treat a declared AI use as context rather than a confession, which keeps the cost of honesty low precisely in the settings where monitoring is strongest, and read disclosure as a demonstration of [[evaluative-judgement|evaluative judgement]] rather than an admission. Permission and disclosure are separate levers — permission changes the formal boundary of acceptable use, disclosure changes visibility — and success at one says nothing about the other.
 
 ## Designing effective disclosure
 
@@ -17727,6 +17941,8 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Declarations as education rather than detection
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — The cost of honesty as a design threshold in assessment
 
 ---
 
@@ -56583,6 +56799,113 @@ Julius Gabelmann, Felix Jahn, Kevin Baum, Sophie van Rossum, Emely Wuenscher, Ti
 
 ---
 
+## [Assessment Design Under Imperfect Information: Generative AI, Disclosure, and Student Response in Higher Education](https://edtechdev.github.io/aied/articles/mohamed-temimi-assessment-imperfect-information-disclosure-2026/)
+
+> **Synthesis:** Mohamed and Temimi (2026) reframe [[generative-ai|generative AI]] in assessment as a problem of [[assessment-validity|assessment validity]] under **imperfect information** rather than of [[academic-integrity]] alone. Because the student knows how the work was produced and the university observes only the artefact and partial traces, the design question is not whether to prohibit, monitor, permit, or redesign in the abstract but *which student response each assessment environment makes most attractive*. Their response-region model compares three choices — no AI use, [[ai-use-disclosure|disclosed AI use]], and hidden AI use — and shows that rules, monitoring, disclosure, and redesign operate through different channels and succeed only when they align the most attractive response with the assessment's purpose. The sharpest result concerns imperfect detection: deterrence runs through a detector's **discrimination** between hidden use and legitimate work, not its raw catch rate, and when false positives rise faster than true positives, stronger monitoring can make concealment relatively *more* attractive.
+
+## The product–process gap as the core problem
+
+Assessment in [[higher-ed|higher education]] rests on an evidentiary claim: a submitted product should support a defensible inference about what a student knows, understands, and can do. Generative AI weakens that inference because the same final product may represent learning, guided revision, strategic editing, or the wholesale outsourcing of the reasoning the assessment was intended to elicit. This is a **product–process gap** — the university grades the product while the student knows the process — and the authors place it in the economics of asymmetric information rather than in a moral frame: one side holds private information, the other must design rules under uncertainty. The [[teacher-role|instructor]] observes only the submission and partial signals such as writing style, drafts, metadata, oral explanation, process logs, or revision history.
+
+This is why the problem belongs centrally to assessment and evaluation, and why the validity question and the integrity question are not separate. Each [[governance|institutional]] mechanism — a ban, monitoring, [[ai-use-disclosure|disclosure]], redesign — is an assessment-design choice that changes what students perceive as useful, risky, fair, or worthwhile *before* the work is produced.
+
+## Six propositions
+
+The paper's analytical core is a set of propositions about which response each mechanism makes attractive.
+
+1. **Rule-setting and concealment.** A rule-setting regime reduces hidden AI use only when the rule is credible. When hidden use offers a large grade or effort advantage and perceived detection is low, prohibition can make concealment *more* attractive than compliance.
+2. **Monitoring and [[explainable-ai|transparency]].** Monitoring lowers the attractiveness of hidden use by raising its expected cost, but it does not necessarily increase disclosure. Students move towards disclosure only when honest reporting is safer or more valuable than no use or continued concealment.
+3. **Disclosure and [[trust]].** Disclosure-centred conditions increase visible AI use when students perceive disclosure as clear, safe, and fairly evaluated. When disclosure is ambiguous, punitive, or reputationally risky, students may avoid it even when AI use is formally permitted.
+4. **Redesign and responsible learning.** Redesign moves students towards responsible use when it lowers the value of hidden outsourcing and raises the value of visible reasoning, process evidence, and student judgement.
+5. **Mechanism complementarity.** Rules define the boundary, monitoring makes hidden violation risky, disclosure makes honesty viable, and redesign changes what the task rewards. When one mechanism is weak, the same bundle can produce an unintended response.
+6. **Imperfect detection and the discrimination threshold.** See below — the least anticipated result.
+
+## How the model works
+
+Students compare three responses across five elements: the grade or performance benefit; the learning value; the effort cost; and two cost terms — the cost of honesty or concealment, and the expected penalty from hidden use, which combines perceived detection probability with sanction severity. Four analytical conditions isolate the mechanisms: prohibition-centred, monitoring-centred, permission-with-disclosure, and assessment-redesign.
+
+| Assessment condition | Dominant mechanism | Design effect | Main risk |
+|---|---|---|---|
+| Prohibition-centred | Defines the rule boundary | Makes AI use formally unacceptable | Hidden use stays attractive if detection is weak |
+| Monitoring-centred | Raises detection risk | Makes hidden use more costly | Students become cautious without becoming transparent |
+| Permission with disclosure | Makes AI use visible | Makes honest reporting more viable | Disclosure avoided if it feels risky |
+| Assessment redesign | Changes the task | Hidden outsourcing less useful, visible reasoning more valuable | Redesign stays cosmetic if process is not rewarded |
+
+The illustrative payoffs make the logic concrete. Under prohibition the hidden-use payoff dominates; under monitoring hidden use falls but remains most attractive, because detection stays below threshold and disclosure stays costly; under permission disclosed use becomes most attractive because the disclosure cost falls to zero; under redesign disclosed use reaches its highest payoff and hidden use its lowest. Two thresholds do the explanatory work. **Deterrence:** hidden use stops beating no AI use when the perceived detection probability falls below roughly 2/F, the ratio of the grade advantage of concealment to the sanction — so severe penalties carry limited force when students see detection as remote. **Disclosure:** disclosed use beats hidden use when the cost of honesty stays below 1 + qF, so detection and disclosure safety reinforce each other. The authors stress these are conceptual thresholds from illustrative, normalised values, not empirical estimates: what carries the argument is the direction and ranking of the comparisons.
+
+## The monitoring backfire: discrimination, not catch rate
+
+The most consequential result relaxes the assumption that detection affects only hidden use. Real detectors also implicate legitimate work, and sensitivity is not free: as an institution tries to catch more hidden use, it may also wrongly flag more honest work, so the false-positive rate rises with the true-positive rate. Deterrence therefore depends not on the raw catch rate but on **discrimination**, the gap between correctly flagging hidden use and wrongly flagging legitimate work.
+
+Three conclusions follow. First, the deterrent operates through discrimination; the earlier threshold is the special case of a perfect detector. Second, when false-positive risk falls equally on the discloser and on the student who uses no AI, detection sensitivity leaves the choice between disclosure and no use unchanged, so that margin is settled by the cost of honesty alone — disclosure is protected relative to abstention. Third, and least intuitively, **stronger monitoring can weaken deterrence** when extra sensitivity creates more new false positives than new true positives: honest students are penalised faster than hidden users are identified, and concealment becomes relatively more attractive. Under the illustrative operating curve the payoff gap between hiding and disclosing is U-shaped in detector sensitivity — disclosure is most attractive only in a middle band, with too little discrimination below it and rising false positives above it. The practical implication: before scaling monitoring across a programme, an institution should ask how well the process separates hidden use from legitimate work at the threshold it actually uses, and detectors, rules, and disclosure procedures should not be designed separately.
+
+## Matching mechanisms to assessment purpose
+
+The framework converts the debate from policy labels to a design question. Diagnose the response region first: if the final product carries most of the grade, AI can produce it effectively, and detection is weak, the task sits close to the hidden-use region, and a ban may change the language of the rule while leaving concealment attractive. If students view disclosure as risky, permission alone has limited force. If the task asks for process evidence while the rubric still rewards mainly the final answer, redesign remains shallow.
+
+| Assessment purpose | Where the task pulls students | Rules and monitoring | Disclosure and process evidence | What the rubric rewards |
+|---|---|---|---|---|
+| Foundational fluency (core writing, basic procedures, introductory coding syntax) | Towards hidden use | Restrict AI for the graded core; verify through supervised or in-class work and a short oral check | No disclosure needed; the rule is simply no use | Unaided performance |
+| Reflective writing | Towards hidden use | Permit as a drafting aid; avoid aggressive detectors that wrongly flag honest work | Declare AI as a drafting aid; anchor the reflection in personal or course detail AI cannot supply | Specificity, self-insight, and links to lived experience |
+| [[research-methods-aied|Research]] synthesis and argumentation | Towards hidden use | Permit within limits; read disclosed use as context rather than suspicion so honesty stays protected | Declare sources and AI assistance; flag what was checked; show a draft-to-final trail | Verification, original argument, and critique of sources |
+
+Two cautions attach to the table. It describes a representative student, while real cohorts vary by discipline, language background, prior AI experience, and willingness to take risks — so the same task can pull different students in different directions. The practical rule is to design for the student most tempted to conceal rather than the most conscientious one, since a bundle that keeps honesty attractive for the former will comfortably hold for the latter. And treating a declared AI use as context rather than a confession is one of the few design choices that makes stronger detection work for transparency rather than against it.
+
+## What the study adds
+
+- **A shift from labels to incentive structures.** Rather than asking whether universities should ban, detect, permit, or redesign, the model asks which response each assessment environment encourages — a question assessment designers can answer about a specific task.
+- **A sharper criterion for detection policy.** Discrimination, not catch rate, is the design variable, which gives institutions a measurable thing to interrogate before deploying monitoring at scale.
+- **A mechanism-level account of why disclosure fails.** Disclosure succeeds only when the cost of honesty is low enough, which requires clear expectations, fair consequences, and a link to assessment criteria rather than treatment as a confession — converging with the empirical [[ai-use-disclosure|disclosure literature]] from the modelling side.
+- **Complementarity rather than a silver bullet.** Each mechanism is strongest where the others are weak, and bundles fail when one mechanism raises the cost of the response the others are trying to make attractive.
+
+## Limitations
+
+The model is deliberately stylised: a single representative student, normalised illustrative payoffs, and abstraction from disciplinary variation, student heterogeneity, and institutional culture. The authors present the propositions as testable rather than as findings to apply unchanged, and note that the disclosure cost is measurable, as are the discrimination margins, which makes the framework empirically tractable rather than merely conceptual.
+
+## Implications for practice
+
+- **Start from the assessment purpose.** A task certifying foundational fluency justifies tight limits plus credible verification; a task developing argumentation or professional reasoning calls for permission with meaningful disclosure and process evidence.
+- **Design for the most tempted student, not the average one.** Bundles that keep honesty attractive for the student most inclined to conceal will hold for everyone else.
+- **Treat disclosure as context, not confession.** Lowering the expected cost of being flagged for students who reported honestly is what lets monitoring support transparency instead of suppressing it.
+- **Make process evidence count in the rubric.** Redesign stays cosmetic if the grading system still rewards mainly the final answer — the misalignment is the failure mode.
+- **Interrogate discrimination before scaling monitoring.** If false positives rise faster than true positives, more enforcement is not only unfair but counterproductive.
+- **Recognise that permission and disclosure are different levers.** Permission changes the formal boundary of acceptable use; disclosure changes visibility. Success at one does not imply the other.
+
+## Connected Concepts
+
+- [[academic-integrity]]
+- [[assessment-validity]]
+- [[remote-proctoring]]
+- [[academic-misconduct-procedures]]
+- [[ai-use-disclosure]]
+- [[ai-detection]]
+- [[assessment]]
+- [[authentic-assessment]]
+- [[evaluative-judgement]]
+- [[higher-ed]]
+- [[formative-assessment]]
+
+## Connected Articles
+
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Detection's evidentiary collapse and the case for procedural justice and design
+- [[ethical-ai-higher-ed-game-theory]] — Coordination-game account of why policy pronouncements rarely change AI behaviour
+- [[karr-ai-detection-humanization-2026]] — Why AI detection fails, and the humanisation arms race
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Non-compliance with mandatory AI declarations
+- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: fear of retribution chills honest reporting
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Disclosure as help-seeking, redirected by anxiety toward peers
+- [[luo-dawson-value-judgements-grading-2026]] — Teacher value judgements and the two-way transparency problem
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authenticity redesigned rather than policed
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — VARIA: task variation as a no-surveillance integrity mechanism
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for the age of generative AI
+- [[chirikov-regulate-ai-syllabi-2026]] — Syllabi shifting from integrity framing to task-level regulation
+- [[chen-zou-genai-group-assessment-agency-2026]] — Group norms and the negotiation of acceptable AI use
+
+## Citation
+
+Mohamed, B. H. R., & Temimi, A. (2026). [*Assessment design under imperfect information: generative AI, disclosure, and student response in higher education*](https://doi.org/10.1080/02602938.2026.2729791). *Assessment & Evaluation in Higher Education*, advance online publication.
+
+---
+
 ## [From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents](https://edtechdev.github.io/aied/articles/mooc-to-maic/)
 
 > **Synthesis:** MAIC (Massive AI-empowered Course) proposes a new paradigm for [[online-teaching-and-learning|online education]] that replaces the MOOC's "one video for N students" broadcast with an LLM-driven multi-agent classroom of "N agents for 1 student." By building all agents on a unified [[llm|LLM]] foundation, MAIC balances scalability with adaptivity — and collapses course-production cost from roughly **$25,000 and 60 hours** per MOOC to **under $2 and 30 minutes**. Piloted at Tsinghua University across two courses with **100,000+ learning records from 500+ students**, it deploys specialized Teacher, Assistant, Classmate, and Analyzer agents and is released [[open-source|open source]] as **OpenMAIC**.
@@ -70749,6 +71072,110 @@ The work demonstrates how technology enhancement can close the gap between profe
 ## Citation
 
 Jan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026). [Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned](https://arxiv.org/abs/2607.28179).
+
+---
+
+## [Detecting the Undetectable? Reassessing Academic Misconduct Procedures in the Era of Generative AI](https://edtechdev.github.io/aied/articles/teichmann-detecting-undetectable-misconduct-2026/)
+
+> **Synthesis:** Teichmann (2026) argues that the [[academic-misconduct-procedures|misconduct procedure]] many universities reached for after [[generative-ai|generative AI]] rests on a premise the technology has dismantled: that prohibited use can be detected and proved. Detectors are unreliable, systematically biased, and opaque; skilled or lightly edited AI use is undetectable in the general case; and a procedure built on detecting it produces unfairness without effectiveness — students accused on scores they cannot interrogate, a quietly reversed [[academic-misconduct-procedures|burden of proof]], and false-accusation harm that falls hardest on the already disadvantaged. Drawing on procedural justice theory and proportionality, he proposes a reassessment in two movements: make the procedure procedurally fair, evidence-calibrated, and proportionate where allegations are genuinely warranted, and move [[governance|institutional]] effort from policing undetectable use to [[assessment-validity|validity-centred]], authentic, and acceptable-use [[learning-design|assessment design]]. His conclusion is that the answer to undetectable AI is better assessment, not better surveillance.
+
+## The detection premise and why it has collapsed
+
+Misconduct procedures for [[academic-integrity|plagiarism]] evolved alongside a technology that could often substantiate an allegation: text-matching software could show that a passage coincided with a source. The procedures imported for generative AI assume an equivalent evidentiary base, and it does not exist. Teichmann separates two [[ai-technologies|technologies]] that policy language routinely conflates — text-matching (similarity) software, which points to a matching source, and AI-text detectors, which are classifiers that output a probabilistic judgement that a passage was machine-generated and identify no source, because none exists. His critique concerns the latter.
+
+Four limitations compound one another.
+
+- **Low, unstable accuracy.** In the most comprehensive early [[benchmark]], none of fourteen tools reached 80% accuracy, and performance degraded sharply once text was paraphrased or manually edited. Simple adversarial techniques — paraphrasing, "humanising" services, minor editing — roughly halve detectors' already modest accuracy. At realistic base rates, most positive findings will be false.
+- **Systematic bias.** Detectors misclassify the writing of non-native English speakers because the features they treat as signals of AI also characterise competent second-language writing — so the harm of misclassification lands on an already disadvantaged group.
+- **Asymmetric error.** Even a small error rate brands a substantial absolute number of innocent students across a large cohort, while the determined are precisely those most able to evade. The errors fall on the careless-but-honest rather than the deliberately dishonest.
+- **Opacity.** Commercial tools disclose neither training data nor thresholds, output a percentage without reasons, and cannot be independently replicated or cross-examined by student, marker, or panel. A case that cannot be explained cannot be answered.
+
+Human judgement does not fill the gap: teachers, novice and expert alike, could not reliably distinguish AI-generated from student-written essays and were confident in their wrong judgements — and stylistic "gut feeling" is how many allegations begin. Nor is this a gap that better tooling closes. As models are optimised to close the distance from human writing, the statistical signal available to any detector shrinks, and formal analyses suggest that for sufficiently capable models reliable detection may be impossible in principle. An institution that builds its procedure on detector output is relying on an instrument that is becoming weaker while presenting a spurious air of objectivity.
+
+**Undetectability in the general case.** The deeper difficulty is not that detection is imperfect but that the conduct is, in the central cases, undetectable in principle. Generative AI can perform the very tasks much assessment sets — write the essay, answer the take-home examination, pass the multiple-choice examination that was supposed to be more robust. Where a student uses the tool with any skill or lightly edits its output, there is no reliable trace to find. In a covert field study, [[research-methods-aied|researchers]] injected wholly AI-generated submissions into a live online examinations system across five psychology modules: 94% went undetected, and the AI work on average outscored real students. Teichmann notes the difficulty is not unprecedented — contract cheating likewise leaves no matchable trace and was handled poorly for the same reason — but generative AI has universalised a problem the procedure never solved. Use also spans a spectrum from wholly machine-generated work through gradations of assisted-then-edited writing to mere brainstorming or grammar-checking, and the procedure has no means of locating a submission along that continuum after the fact. A regime that can neither distinguish outsourcing from assistance nor prove where on the continuum a piece falls cannot adjudicate guilt.
+
+**Declarations do not close the gap.** [[ai-use-disclosure|Declarations]] have real educative value, but they are not a detection mechanism: they depend on candour, and enforcing them runs back into the same undetectability, since an institution generally cannot prove that an undeclared use occurred. The evidence locates their value elsewhere — in visible integrity commitments embedded in a culture of trust, and in [[explainable-ai|transparency]], shared expectations, and student reflection rather than enforcement. A misconduct procedure premised on detecting and proving prohibited use, he concludes, is built on sand.
+
+**The surveillance escalation.** Faced with undetectability, some institutions have escalated toward ever more intrusive monitoring — lockdown browsers, [[remote-proctoring|remote proctoring]], keystroke and writing-process monitoring — in an attempt to reconstruct the conditions under which detection might work. Each measure pushes enforcement further into the student's work and life, deepens suspicion, and imposes its own [[equity-in-ai-education|equity]] costs; the trajectory of online proctoring (rapid adoption, documented distress, contested accuracy) is the cautionary precedent. The escalation is the detection premise refusing to die.
+
+## The fairness problem
+
+Persisting with detection-driven proceedings does not merely fail; it works injustice. Where an allegation rests on a detector's output, the student must answer a case she cannot interrogate; the burden of proof is quietly reversed, since she is required to prove a negative — that she did not use a prohibited tool — precisely the proof undetectability makes impossible; and the harm of false accusation falls hardest on those most likely to be misclassified and least equipped to contest the charge. Procedural justice research shows that willingness to accept decisions and comply with rules depends less on outcomes than on the perceived [[bias-mitigation|fairness]] of the procedures producing them, and detector-driven allegations strain every one of its four elements at once: voice is idle, neutrality is compromised by an unvalidated instrument applied without consistent rules, respectful treatment gives way to presumptive suspicion, and the institution's motives read as self-protective. The uncertainty also chills legitimate practice — in successive national surveys, fear of accusation is the deterrent to legitimate AI use students cite most often.
+
+Three commitments would make the procedure fair where allegations are genuinely pursued:
+
+1. The burden and standard of proof must rest with the institution and be calibrated to the evidence: a detector's output cannot by itself establish misconduct, and a finding requires corroborating evidence, process artefacts, or an interview.
+2. The student must have a genuine opportunity to understand and answer the case, which is impossible where the "evidence" is an unexplained score.
+3. Responses should be graduated rather than binary, following the educational integrity enforcement pyramid: a conversation for minor undeclared use, formal proceedings reserved for wholesale outsourcing, education as the default in between.
+
+Underlying these commitments is a reorientation of the question asked. The forensic question — did the student cheat? — invites a hunt for traces that, for AI, are not there. A more defensible question asks whether the assessment validly measured what the student can do: [[assessment-validity|validity]] matters more than cheating.
+
+## From policing to design
+
+If prohibited use cannot be detected, the rational institutional response is to depend less on assessments whose integrity requires detecting it. Superficial adjustments — a warning here, a declaration there — leave the vulnerability intact; what is needed is structural change to assessment. Three strands of scholarship indicate the direction: validity-centred and [[authentic-assessment|authentic assessment]] that reorients tasks towards capacities a generator of generic prose cannot supply; the cultivation of [[evaluative-judgement|evaluative judgement]], which equips students to appraise AI output critically and is itself a legitimate object of assessment; and a move from prohibition to articulated permission, specifying acceptable uses rather than drawing, and then failing to police, an absolute line.
+
+Concrete design moves raise the cost of wholesale outsourcing without depending on detection: programmatic assessment across linked tasks rather than a single submissible artefact; oral and supervised elements where verified individual capability must be certified; and assessment of process as well as product, valuing the drafts and justifications a student can account for in person. The contrast with the detection reflex is exact — detection tries to verify that a fixed, AI-vulnerable task was completed without help, whereas design changes the task so that help is either irrelevant or itself part of what is assessed. The former fights the technology and loses; the latter absorbs it. Converting the central question from "did the student use AI?", which cannot be answered, into "did the student demonstrate the capability the task was designed to certify?", which can, resolves the problem the misconduct procedure was failing to solve.
+
+None of this requires an AI-proof assessment or a retreat to mass invigilation. Secure, supervised assessment has a real but bounded role: warranted where an individual competence must be certified to a third party, and deployed deliberately at those points rather than reflexively across a programme.
+
+## Implementation challenges
+
+- **Equity of access to permitted tools.** Acceptable-use design presupposes that students can use what is permitted, and access is stratified — the most capable models sit behind subscriptions, and effective use depends on unevenly distributed devices, connectivity, and prior exposure. If an assessed task rewards fluent use of a premium tool, "permission" becomes a regressive subsidy. Responses: provision the tool where AI use is integral; otherwise ensure tasks are completable to full standard with freely available tools and that marking criteria do not covertly reward premium-model output; and record which tool and access tier were used so equity is reviewable.
+- **Conscientious non-use.** A regime that in practice compelled AI use would mirror the coercion criticised in [[ai-detection|detection]]. Acceptable use must mean permitted, not required: wherever AI use is invited, programmes should maintain an AI-free route to the same outcomes, assessed to the same standard.
+- **Workload.** The status quo is not costless — detector-driven proceedings consume substantial staff time in triage, hearings, and appeals, and that time polices rather than teaches. Oral formats scale when deployed selectively on a sampled basis, and process-based designs need not multiply marking events if checkpoints are light-touch and [[formative-assessment|formative]] and programmatic approaches replace rather than add to existing [[summative-assessment|summative]] volume. An institution unwilling to resource design is choosing, by default, to resource policing.
+- **A staged pathway.** Audit the [[eportfolio|portfolio]] for AI vulnerability and publish the evidentiary standard; train staff on the error evidence and procedurally fair case handling; redesign programme by programme, prioritising assessments that certify capability to third parties; and review allegation volumes, their demographic distribution, and workload effects each cycle.
+
+## What the study adds
+
+- **A normative account of the procedure itself.** One literature evaluates detection tools; another develops assessment redesign. Neither supplies a sustained account of the misconduct machinery that sits between them, and Teichmann's contribution is to bring procedural justice and proportionality to bear on AI-era enforcement — yielding a legitimacy-based explanation of why detection-led procedures fail and design-led responses succeed.
+- **A testable evidentiary standard.** Detector output alone never grounds a finding; allegations require corroboration. This is a rule institutions can publish and panels can apply, and it is deliberately transferable across the institutional variety that policy reviews document.
+- **The counterexample already in practice.** Vanderbilt University, unable to validate its licensed detector's advertised 1% false-positive rate — which implied some 750 mislabelled students among 75,000 annual submissions — disabled the tool and explained the decision publicly, redirecting staff towards transparent expectations and redesign. One case documents the failure of detection under realistic conditions; the other shows an institution acting on that knowledge.
+- **Rejection of technological determinism.** Institutions facing the same technology have chosen markedly different responses, from detection-led enforcement to redesign-led integration, so the problem is one of institutional choice under normative constraints rather than of the technology.
+
+## Implications for practice
+
+- **Never base an allegation on a detector score or a stylistic impression alone.** Treat a score, at most, as a prompt for a conversation about the work, and require corroboration beyond style or scores.
+- **Publish the evidentiary standard.** Fixing and publishing the threshold allegations must meet — including that detector output never suffices — is a preparation-stage action that constrains everything downstream.
+- **Monitor the demographic pattern of allegations.** Detector bias is systematic, not random, so allegation distributions are themselves an equity signal to be audited.
+- **Reserve formal proceedings for the serious and the genuinely evidenced** — impersonation, demonstrable fabrication, admitted or witnessed breaches, and cases with corroborating evidence — and meet lesser matters with education and graduated response.
+- **Shift effort to design, and resource it.** The narrowing of the misconduct procedure is not a retreat from integrity but a more defensible way of securing it, and it requires recognition in workload models.
+
+## Connected Concepts
+
+- [[academic-integrity]]
+- [[academic-misconduct-procedures]]
+- [[ai-detection]]
+- [[assessment-validity]]
+- [[ai-use-disclosure]]
+- [[authentic-assessment]]
+- [[remote-proctoring]]
+- [[evaluative-judgement]]
+- [[equity-in-ai-education]]
+- [[assessment]]
+- [[higher-ed]]
+- [[educational-policy-ai]]
+- [[governance]]
+
+## Connected Articles
+
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Deterrence, disclosure, and redesign modelled as an assessment-design problem
+- [[karr-ai-detection-humanization-2026]] — Why AI detection fails, and the humanisation arms race
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authenticity redesigned rather than policed
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for the age of generative AI
+- [[luo-dawson-value-judgements-grading-2026]] — Value judgements in grading GenAI-assisted work, and two-way transparency
+- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: fear of retribution chills honest reporting
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Non-compliance with mandatory AI declarations
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Disclosure as a help-seeking and self-regulation decision
+- [[automated-online-exam-proctoring-decade-review-2026]] — A decade of automated proctoring: accuracy, distress, and equity
+- [[conijn-fear-big-brother-proctored-exams-2022]] — Fear of the big brother: student experience of proctored exams
+- [[biology-grade-vulnerability-genai-2026]] — How structurally vulnerable current grading is to AI-mediated dishonesty
+- [[chirikov-regulate-ai-syllabi-2026]] — Syllabi shifting from integrity framing to task-level regulation
+- [[chen-zou-genai-group-assessment-agency-2026]] — Peer accountability and the negotiation of acceptable AI use in groups
+- [[ai-assessment-scale-reform]] — Rethinking assessment in the generative AI era
+
+## Citation
+
+Teichmann, F. M. (2026). [*Detecting the undetectable? Reassessing academic misconduct procedures in the era of generative AI*](https://doi.org/10.1080/02602938.2026.2728036). *Assessment & Evaluation in Higher Education*, advance online publication.
 
 ---
 

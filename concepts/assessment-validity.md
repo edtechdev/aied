@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-07T09:09:07-04:00"
+updated: "2026-09-10T05:52:33-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education]
@@ -50,6 +50,12 @@ The knowledge base argues that maintaining assessment validity requires redesign
 Assessment validity connects to [[authentic-assessment]], [[automated-assessment|Automated Grading]], [[automated-assessment|Confidence Aware AI Assessment]], [[formative-assessment]], [[academic-integrity]], and [[rct]] (which relies on valid outcome measures).
 
 AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption-transformation-2026|Hathcoat, Slotnick & Miller (2026)]] argue that when LLMs serve as test-takers, test-makers, raters, and analysts, the interpretive chain becomes opaque and the object of measurement loses definition — reframing validity as requiring AI-fluent "cyborg" judgment, and [[can-ai-evaluate-assessment-llm-meta-assessment-2026|Green et al. (2026)]] show AI scores can align with human raters (87% checklist) while the underlying rationale diverges, especially on measurement quality and weak reports.
+
+## Validity under imperfect information
+
+The sharpest recent reframing treats the generative AI problem as an evidentiary one. The student knows how a piece of work was produced; the institution observes the artefact and, at best, partial traces of the process — a product–process gap that [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] formalise as assessment validity under imperfect information. On this account the question is not whether a rule was broken but whether the assessment still generates credible evidence of student reasoning, effort, and judgement, and each institutional mechanism — prohibition, monitoring, disclosure, redesign — is evaluated by which student response it makes most attractive. The validity lens also dissolves a false separation: integrity and validity are the same problem seen from different ends, because a finding of misconduct is itself a validity claim about what the work evidences.
+
+[[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] draws the procedural consequence: where prohibited use cannot be detected, a regime that still accuses on detector scores cannot warrant the inference it draws, and so produces unfairness without effectiveness. He argues for replacing the forensic question — did the student use AI? — with a validity question — did the student demonstrate the capability the task was designed to certify? — which relocates institutional effort into programme-level assessment across linked tasks, oral and supervised elements at certification points, and [[evaluative-judgement|evaluative judgement]] as an explicit object of assessment.
 
 ## Connected Concepts
 
@@ -107,3 +113,5 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[luo-dawson-value-judgements-grading-2026]] — Value judgements in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
+- [[teichmann-detecting-undetectable-misconduct-2026]] — The misconduct procedure as a validity problem
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment validity under imperfect information: a response-region model

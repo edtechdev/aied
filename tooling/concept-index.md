@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 187
+**Total concepts:** 189
 
 - slug: early-childhood-elementary-ai-education
   title: Early Childhood Education
@@ -312,6 +312,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: well-being; wellbeing; student wellbeing; mental health
     - phrases: writing education; writing; writing instruction; composition; academic writing
 - **`academic-integrity`** — Academic Integrity
+- **`academic-misconduct-procedures`** — Academic Misconduct Procedures — phrases: misconduct procedure; academic misconduct procedure; misconduct policy; misconduct investigation; misconduct hearing; academic dishonesty procedure; enforcement; procedural justice; burden of proof; standard of proof; evidentiary standard; proportionality; graduated response; false accusation
 - **`inclusive-learning`** — Accessible Learning
 - **`accessibility`** — Accessibility
 - **`active-learning`** — Active Learning
@@ -378,6 +379,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`equity-in-ai-education`** — Equity
 - **`ethics`** — Ethics
 - **`experiential-learning`** — Experiential Learning
+- **`evaluative-judgement`** — Evaluative Judgement — phrases: evaluative judgement; evaluative judgment; appraising quality; judging quality of work; calibrating judgement; standards of quality; criteria-based judgement; peer calibration
 - **`explainable-ai`** — Explainable AI — phrases: explainable AI; XAI; explainability; interpretability; interpretable AI; transparent AI; model explanation; explanation of AI decisions; why did the AI; explainable AI in education; XAI in education; transparent models; glass-box; post-hoc explanation; counterfactual explanation; feature importance
 - **`feedback-literacy`** — Feedback Literacy
 - **`feedback`** — Feedback

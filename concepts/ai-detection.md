@@ -1,7 +1,7 @@
 ---
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-08T01:59:05-04:00"
+updated: "2026-09-10T05:52:33-04:00"
 type: concept
 tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, cognitive-offloading, assessment, educational-policy-ai, llm, assessment-validity, equity-in-ai-education]
 audience: [learners]
@@ -58,6 +58,12 @@ Research consistently cautions against standalone reliance on detection:
 
 Bassett et al. conclude that AI detection is an unworkable solution to a problem that cannot be solved through surveillance and punishment: the focus must move to [[assessment|assessment design]] that recognises AI's role in learning and the reality that unsupervised assessments cannot be secured. This consolidates the knowledge base's [[beyond-detection-authentic-assessment-ai-2025|beyond-detection]] stance with a direct, evidence-based argument for retiring detection tools.
 
+### Detector bias and the mechanism of the arms race
+
+Detection is not merely imprecise; its errors are patterned. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] assembles the accumulated case against treating a detector score as evidence: no tool in the most comprehensive early benchmark reached 80% accuracy; simple paraphrasing or "humanising" roughly halves even that; false positives at realistic base rates exceed true ones; and non-native English speakers are misclassified systematically because the features detectors treat as signals of AI also characterise competent second-language writing. Judgement by humans does not fill the gap — expert and novice markers alike fail to distinguish AI from student prose and are confident when wrong — and the asymmetry of error means the careless-but-honest are caught while the deliberately dishonest evade, since detectors are also opaque (no thresholds, no training data, no independent replication) and therefore cannot be answered or cross-examined in a hearing.
+
+Two further points sharpen the practical stakes. First, the underlying statistical signal shrinks as models are optimised toward human prose, so the arms race is one an institution cannot win. Second, the empirical limit case is stark: in a covert field study, 94% of wholly AI-generated submissions passed unnoticed through a live online examination system across five psychology modules, and the AI work on average outscored real students. [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] add the counter-intuitive corollary that determines when monitoring pays at all: because sensitivity raises false positives along with true positives, the rational deterrent is discrimination — the gap between flagging hidden use and flagging legitimate work. Where extra sensitivity creates more new false positives than new true positives, more monitoring makes concealment relatively more attractive, penalising honest students faster than it identifies hidden users. The design consequence is that detectors, rules, and disclosure procedures should not be built separately.
+
 ## Beyond detection: assessment redesign
 
 A key theme in the knowledge base is that detection should be a **limited, situational tool — not a strategy of first resort**. [[beyond-detection-authentic-assessment-ai-2025|Kickbusch et al. (2025)]] argue that surveillance and detection **misdiagnose the problem**: in an AI-mediated world, authenticity cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, and offer discipline-agnostic design-for-learning patterns that position AI as a collaborator rather than a cheating application. This connects detection to [[authentic-assessment]], [[assessment-validity]], [[responsible-assessment-ai-era-stanford-2026|responsible assessment]], and [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|coauthorship integrity]].
@@ -102,5 +108,5 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[socially-fluent-ai-identity-detection]] — Socially Fluent AI Identity Detection
 - [[ssaho-ai-academic-integrity-review-2025]] — Review of AI-based plagiarism/AI-content detection reliability
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-
-
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Why detector output cannot ground a misconduct finding
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Discrimination rather than catch rate, and when monitoring backfires

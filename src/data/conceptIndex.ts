@@ -23,7 +23,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Foundations of AI in education',
     blurb: 'The umbrella view of the field itself — what AI in education is, how it evolved, and the cross-cutting themes (AI literacy, human–AI collaboration, agency) that shape every other strand.',
     groups: [
-      { label: 'Essentials', items: ['ai-education', 'misconceptions', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'teacher-role', 'learning-design', 'educational-development'] },
+      { label: 'Essentials', items: ['ai-education', 'misconceptions', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'academic-misconduct-procedures', 'teacher-role', 'learning-design', 'educational-development'] },
       { label: 'The field', items: ['history-of-aied', 'limitations-in-aied-research', 'philosophy-of-ai-in-education', 'theory-development-aied'] },
       { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'critical-thinking', 'sustainability', 'computational-thinking'] },
     ],
@@ -57,7 +57,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Assessment, evaluation, and measurement',
     blurb: 'How AI both assesses learners and reshapes how we evaluate AI systems and their impact.',
     groups: [
-      { label: 'Assessment and feedback', items: ['assessment', 'feedback', 'feedback-literacy', 'ai-feedback-quality', 'formative-assessment', 'summative-assessment', 'authentic-assessment', 'group-assessment', 'eportfolio', 'peer-review', 'automated-assessment', 'automated-essay-scoring', 'automated-question-generation'] },
+      { label: 'Assessment and feedback', items: ['assessment', 'evaluative-judgement', 'feedback', 'feedback-literacy', 'ai-feedback-quality', 'formative-assessment', 'summative-assessment', 'authentic-assessment', 'group-assessment', 'eportfolio', 'peer-review', 'automated-assessment', 'automated-essay-scoring', 'automated-question-generation'] },
       { label: 'Measurement and validity', items: ['assessment-validity', 'psychometrically-aware-ai', 'educational-measurement', 'item-response-theory', 'ai-detection', 'remote-proctoring'] },
       { label: 'Evaluation of AI systems', items: ['ai-ed-evaluation', 'benchmark', 'research-methods-aied', 'qualitative-research', 'quantitative-research', 'mixed-methods-research', 'design-based-research', 'usability-research', 'rct', 'learning-gains', 'meta-analysis-systematic-review', 'network-analysis'] },
     ],
