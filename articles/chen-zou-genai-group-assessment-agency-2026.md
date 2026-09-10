@@ -3,7 +3,7 @@ title: "Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emerg
 created: "2026-09-10T05:34:38-04:00"
 updated: "2026-09-10T05:34:38-04:00"
 type: article
-tags: [agency, group-assessment, assessment, academic-integrity, collaborative-learning, generative-ai, higher-ed, teacher-education]
+tags: [agency, group-work, assessment, academic-integrity, collaborative-learning, generative-ai, higher-ed, teacher-education]
 research_method: [qualitative, interviews, thematic analysis]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
@@ -12,11 +12,11 @@ sources: ['raw/papers/chen-zou-genai-group-assessment-agency-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Chen and Zou (2026) ask how students exercise [[agency]] when [[generative-ai|GenAI]] enters an authentic [[group-assessment|group-based assessment]]. Drawing on 15 focus group interviews with 52 pre-service teachers in a multicultural education course, plus an interview with the instructor, they identify three patterns rather than one enthusiasm-to-avoidance spectrum: **cooperation-oriented agency** (five groups intensified GenAI use to hold the group's work together and protect its performance), **normative agency** (seven groups deliberately restrained use to protect authenticity, [[bias-mitigation|fairness]], originality, and diversity of perspectives), and **non-enacted agency** (three groups whose GenAI practice never changed from individual work). Because all three patterns were negotiated, not simply caused by the tool, the authors argue the negotiation of acceptable GenAI use should itself become an explicit, assessable learning outcome.
+> **Synthesis:** Chen and Zou (2026) ask how students exercise [[agency]] when [[generative-ai|GenAI]] enters an authentic [[group-work|group-based assessment]]. Drawing on 15 focus group interviews with 52 pre-service teachers in a multicultural education course, plus an interview with the instructor, they identify three patterns rather than one enthusiasm-to-avoidance spectrum: **cooperation-oriented agency** (five groups intensified GenAI use to hold the group's work together and protect its performance), **normative agency** (seven groups deliberately restrained use to protect authenticity, [[bias-mitigation|fairness]], originality, and diversity of perspectives), and **non-enacted agency** (three groups whose GenAI practice never changed from individual work). Because all three patterns were negotiated, not simply caused by the tool, the authors argue the negotiation of acceptable GenAI use should itself become an explicit, assessable learning outcome.
 
 ## Why group assessment is a distinct case
 
-Most GenAI-in-assessment [[research-methods-aied|research]] examines individual work, and the group setting changes the problem in ways that matter. [[group-assessment|Group-based assessment]] is valued for building collaboration, communication, and responsibility, and it is pedagogically central in professionally oriented programmes such as [[teacher-education|teacher education]] — but it also forces members to negotiate *whose* and *what kind* of GenAI [[student-engagement|engagement]] counts as acceptable. That negotiation is an [[agency]] question, not a tool question, and it sits inside a web of prior group experiences, peer relations, [[learning-design|assessment design]], and the instructor's framing.
+Most GenAI-in-assessment [[research-methods-aied|research]] examines individual work, and the group setting changes the problem in ways that matter. [[group-work|Group-based assessment]] is valued for building collaboration, communication, and responsibility, and it is pedagogically central in professionally oriented programmes such as [[teacher-education|teacher education]] — but it also forces members to negotiate *whose* and *what kind* of GenAI [[student-engagement|engagement]] counts as acceptable. That negotiation is an [[agency]] question, not a tool question, and it sits inside a web of prior group experiences, peer relations, [[learning-design|assessment design]], and the instructor's framing.
 
 The study's setting is deliberately authentic: an undergraduate multicultural education course in a five-year teacher education programme, in which groups of three to five designed and delivered a presentation based on case studies drawn from real [[teacher-role|teaching]] scenarios, worth 30% of the final grade. The instructor used the [[governance|institutional]] "Use only with explicit acknowledgement" policy and explicitly permitted [[generative-ai|GenAI]] for idea generation, language polishing, visual layout, material development, and presentation scripting. The [[authentic-assessment|authenticity]] was load-bearing: the rubric required integration and coherence under a multicultural theme, each member's reflective insight tied to their own classroom contribution, and demonstrated group collaboration. Theoretically, the authors treat agency as **ecological-emergent** — achieved through the interplay of personal capacity, social relations, and structural setting (Biesta and Tedder; Priestley et al.) — and add a capability-based lens (what learners are genuinely able to be and do) and an epistemic lens (what students treat as legitimate knowledge and knowing). Their definition is worth keeping: agency as the emergent capacity to navigate and negotiate socio-material structures and convert available resources into capabilities for valued individual and collective intellectual work over time.
 
@@ -53,20 +53,20 @@ In three groups, the group setting changed nothing. Work was partitioned into di
 
 - **The enthusiasm–avoidance axis is too coarse.** Both intensified use and restraint contained negotiation: students agentically evaluated their resources and the assessment ecology before deciding what to do. Treating either as evidence of engagement or disengagement misses the reasoning inside it.
 - **Assessment design is a constitutive force, not a backdrop.** The authenticity criterion and the coherence criterion shaped what students did with GenAI — but the coherence criterion alone did not produce coherence, and some groups read the instruction to engage critically with GenAI as evidence that GenAI was ineffective.
-- **Instructors' intentions and students' practices diverge in both directions.** Students used GenAI uncritically where collective adoption lowered perceived risk, and avoided it where they read the task as demanding situated knowledge. The study joins a growing line of work arguing that both perspectives must be examined together in [[group-assessment|group assessment]].
+- **Instructors' intentions and students' practices diverge in both directions.** Students used GenAI uncritically where collective adoption lowered perceived risk, and avoided it where they read the task as demanding situated knowledge. The study joins a growing line of work arguing that both perspectives must be examined together in [[group-work|group assessment]].
 - **The relational question is new.** Whether GenAI-mediated collaboration weakens or eases the relational labour through which group cohesion is conventionally built had not previously been posed in group-work research.
 
 ## Implications for practice
 
 - **Make the negotiation an assessable outcome.** Units with group work should require teams to collectively justify and document how GenAI will and will not be used, rather than leaving the norm to emerge from peer pressure or risk perception.
-- **Build peer interaction into the process.** [[peer-review|Peer review]] and [[feedback]] as smaller tasks leading to the final product create the interactions through which norms are actually negotiated — aligning [[group-assessment|group assessment]] with process-oriented learning.
+- **Build peer interaction into the process.** [[peer-review|Peer review]] and [[feedback]] as smaller tasks leading to the final product create the interactions through which norms are actually negotiated — aligning [[group-work|group assessment]] with process-oriented learning.
 - **Do not assume capability becomes collective.** If the assessment permits a divide-and-conquer structure, individually capable students may never pool what they know; the collaboration has to be designed for, not merely required in the rubric.
 - **Read restraint carefully.** Students who avoid GenAI may be exercising normative self-regulation — or guarding against risk and unfamiliarity. The two call for different instructor responses.
 
 ## Connected Concepts
 
 - [[agency]]
-- [[group-assessment]]
+- [[group-work]]
 - [[assessment]]
 - [[authentic-assessment]]
 - [[academic-integrity]]

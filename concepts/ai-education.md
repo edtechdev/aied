@@ -141,7 +141,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[research-methods-aied]] — Efficacy research methods
 - [[limitations-in-aied-research]] — Limitations of the AIED evidence base
 - [[assessment]] — Assessment
-- [[group-assessment]] — Group assessment and GenAI
+- [[group-work]] — Group assessment and GenAI
 - [[feedback]] — Feedback
 - [[learning-analytics]] — Learning analytics
 - [[personalized-learning]] — Personalized learning
