@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-10T05:36:05-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, assessment, assessment-validity, formative-assessment, self-regulated-learning, academic-integrity, generative-ai, higher-ed, metacognition]
@@ -46,6 +46,7 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 - [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] argues for assessing computational methods and process rather than tool-specific outputs, using oral defense and verification.
 - [[fenton-oral-exams-ai-authentic-assessment-2025|Reconsidering oral exams]] positions the oral exam/assessment as a low-tech authentic alternative that is inherently AI-resistant — its real-time, interactive dialogue tests comprehension, [[critical-thinking|critical thinking]], and reasoning (not memorization), mirrors professional practice, and prevents students from using AI to generate and memorize answers. It offers a concrete set of practical recommendations (clear rubrics, standardized content, assessor training, [[prompt-engineering|prompting]] guidelines, [[bias-mitigation|bias mitigation]]) for reintroducing oral assessment across high school and higher education.
 - [[eportfolio|E-portfolio assessment]] is another authentic, process-based form that resists AI fabrication: [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du (2025)]] identify social contribution portfolios among the authentic forms most robust to generative AI, and [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] recommends annotated portfolios and recorded walkthroughs that probe reasoning in real time. [[ni-lam-multiliteracies-ai-portfolio-2026|Ni & Lam (2026)]] and [[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]] show generative AI can assist the portfolio process — feedback, drafting, reflection — while the portfolio's reasoning traces and drafts preserve authenticity.
+- **Authenticity criteria can themselves restrain AI use.** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found that a rubric requiring students to ground a group presentation in their own first-hand teaching experience, and to reflect on shared classroom observations, led seven of fifteen student groups to *deliberately reduce* their GenAI use. Students argued the tool could not meet the epistemic demand — "AI only knows that moment when you type" — because it lacked the longitudinal, situated knowledge their classmates and teacher had. Both layers mattered: the authenticity of the task and the relational authenticity of contributing one's own thinking to a group, which reframed heavy AI use as free-riding on peers. The design implication is that authentic, experience-grounded criteria do evaluative work even without enforcement — they supply a reason for restraint that policy statements cannot.
 
 ## Connections to learning theory
 
@@ -114,3 +115,4 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[mesny-innovative-assessment-grading-management-2026]]
+- [[chen-zou-genai-group-assessment-agency-2026]] — Authenticity criteria that led student groups to reduce GenAI use

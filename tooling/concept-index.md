@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 186
+**Total concepts:** 187
 
 - slug: early-childhood-elementary-ai-education
   title: Early Childhood Education
@@ -385,6 +385,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`framing-ai-use-for-students`** — Framing AI Use for Students
 - **`game-based-learning`** — Game-Based Learning
 - **`generative-ai`** — Generative AI
+- **`group-assessment`** — Group Assessment — phrases: group assessment; group-based assessment; team-based assessment; collaborative assessment; group assessment design; assessment in groups
 - **`global-south`** — Global South
 - **`governance`** — AI Governance
 - **`guardrails`** — Guardrails

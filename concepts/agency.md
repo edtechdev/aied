@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-09T09:05:09-04:00"
+updated: "2026-09-10T05:36:05-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 audience: [learners]
@@ -46,6 +46,8 @@ Learner agency is not only a static individual trait — it is also an **emergen
 - **AI personas as discourse-governance mechanisms.** Contrarian personas externalized the burden of *challenging* (redistributing epistemic labour toward critique), while supportive personas externalized *affirmation* and consensus maintenance. The study identified six emergent agency profiles — notably, **reflective [[regulation]] was uniquely human** (AI externalized critique/affirmation but not meta-level monitoring).
 - **The [[affective-computing|affective]] cost of friction.** Contrarian AI reduced teamwork satisfaction and psychological safety *without* yielding creative performance gains, decoupling epistemic stimulation from experiential [[sustainability]]. This cautions that "productive" discourse structures should be interpreted alongside their emotional consequences — agency flourishes only in a psychologically safe climate.
 - **Implicit AI participation is invisible governance.** Because the personas worked even without AI disclosure, the study positions persona design as a form of invisible governance over collaborative processes — a finding with direct implications for writing assistants, [[peer-review]] systems, and teamwork platforms that may shape contributions without announcing their presence.
+
+- **Three patterns of agency in [[group-assessment|group-based assessment]].** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] interviewed 15 focus groups of pre-service teachers about an authentic group presentation and found agency operating in three directions at once: five groups *intensified* GenAI use as coordination infrastructure (cooperation-oriented agency — decoding peers' sections, aligning parts, protecting a shared grade), seven *restrained* it (normative agency — boundaries drawn to protect authenticity, fairness, originality, and diversity of perspectives), and three never changed practice from individual work (non-enacted agency, where individual capability was never mobilised collectively). Their distinction matters because restraint here was normative [[self-regulated-learning|self-regulation]] rather than compliance or disengagement, and because capability alone did not produce collective agency. Group membership also inverted the accountability that group work is supposed to create: a permissive collective climate lowered the perceived [[ai-misuse-learning-harm|risk of misuse]] instead of raising commitment.
 
 For collaborative settings, this reframes the design question: not *whether* AI can participate as a teammate, but *how* its patterned participation balances epistemic rigour, emotional safety, and learners' sense of ownership. Bounded friction (constrained challenge, paired with integrative and repair moves) and explicit meta-collaborative literacy are the recommended safeguards.
 
@@ -144,3 +146,4 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision: agency as zero-sum with tool agency
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: co-creativity and agency in socio-technical networks
+- [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of agency in GenAI-mediated group assessment: intensified, restrained, and not enacted

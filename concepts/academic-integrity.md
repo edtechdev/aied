@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-07T09:09:07-04:00"
+updated: "2026-09-10T05:36:05-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -43,6 +43,8 @@ Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; t
 ### Why policy alone fails: the coordination problem
 
 [[ethical-ai-higher-ed-game-theory|A coordination-game framework]] provides a mechanism-level account of why policy pronouncements rarely change behavior: students' AI use is a **coordination problem**, where individual choices depend on peer expectations and assessment design. The model's key finding is **non-linear threshold dynamics** — small, well-calibrated changes to reflective-assessment incentives can trigger rapid cohort-wide shifts toward responsible use, while weak or misaligned incentives let opportunistic practice persist. In practical terms, modest redesign (e.g., requiring students to reflect on their AI interactions) can have disproportionate effects where abstract rules have none.
+
+Peer accountability does not always point toward integrity, as [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found in graded [[group-assessment|group assessment]]: seven of fifteen student groups deliberately reduced their GenAI use partly to avoid free-riding on groupmates, since group consequences were shared rather than self-contained, yet in five groups a permissive collective climate — "everyone in my group is using GenAI" — lowered the perceived [[ai-misuse-learning-harm|risk of misuse]] and inverted the very accountability mechanism group work is meant to create. The same study found students reframing originality as faithfulness to the understanding their classmates built together, and its practical recommendation follows directly: make the negotiation of acceptable AI use an explicit, documented, and assessable outcome rather than leaving the norm to emerge from peer pressure or perceived risk.
 
 ### The socio-emotional dimension
 
@@ -184,3 +186,4 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[human-capability-test-learning-outcomes-ai-2026]] — A human capability test: what students must demonstrate, verify, and defend in the AI era (Saleh 2026)
 - [[aarc-ai-research-competency-2026]] — AI-Assisted Research Competency: authorship and responsible knowledge production (Beau, Flaquière & Lazar 2026)
+- [[chen-zou-genai-group-assessment-agency-2026]] — Peer accountability and originality in GenAI-mediated group assessment
