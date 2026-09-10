@@ -1,7 +1,7 @@
 ---
 title: Adult Learners
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-10T04:58:13-04:00"
 type: concept
 tags: [adult-learning, learning-design, ai-education, usability-research, edtech-platform, higher-ed, professional-training]
 research_method: [system development]
@@ -46,7 +46,8 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - **Make transparency and community features first-class.** Data-practice transparency and social/community features are among the most neglected yet most valued dimensions of adult AI tools.
 - **Treat technical and structural reliability as a precondition.** Engagement depends as much on stable, inclusive infrastructure as on pedagogical quality — unstable or exclusionary platforms undermine otherwise sound design.
 
-- **AI design principles for andragogy.** [[kim-ai-andragogy-2026|Kim et al. (2026)]] find adult learners value AI as a collaborative learning agent and derive three AI design principles for andragogy: human-in-the-loop (shared mental models, human-AI co-creation), emotional design (calibrating AI reliance, empathetic communication), and adaptability (continuous adaptation, interoperability).
+- **AI design principles for andragogy.** [[kim-ai-andragogy-2026|Kim et al. (2026)]] find adult learners value AI as a collaborative learning agent and derive three AI design principles for andragogy: human-in-the-loop (shared mental models, human-AI co-creation), emotional design (calibrating AI reliance, empathetic communication), and adaptability (continuous adaptation, interoperability). Their eleven scenario prototypes also map each andragogical principle onto a concrete AI affordance: [[intelligent-tutoring|AI tutors]] and [[learning-by-teaching|teachable agents]] for involvement, monitoring and [[learning-analytics|analytics tools]] for autonomy and self-assessment, empathetic [[conversational-ai|chatbots]] and [[simulation|simulations]] for experience, case libraries and higher-order question generators for problem-centered work, and AI planners and career coaches for relevance.
+
 ## Connected Concepts
 
 - [[self-directed-learning]]
