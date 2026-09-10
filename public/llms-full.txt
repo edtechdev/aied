@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 189 concepts, 1130 articles, and 17 FAQs.
+> Complete text of 189 concepts, 1131 articles, and 17 FAQs.
 
 # Concepts
 
@@ -3856,7 +3856,7 @@ The [[research-methods-aied|research]] above converges on a few reusable pattern
 - **Conceptual scaffolds:** [[concept-catalyst-engineering-scaffolds|Concept Catalyst]] and [[rethinking-scaffolding-llm-tutors|LLM tutor rethinking]] explore design patterns for cognitive support.
 - **"Scaffold, do not substitute" as a design principle:** [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al. (2026)]] argue that the central risk of AI in education is misalignment — AI that substitutes for human effort erodes the capacities education is meant to build — and derive a single design principle, *scaffold, do not substitute*. Scaffolding must be a first-class capability of AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. Their analysis of student essays shows learners themselves converge on this — asking for AI that "does not provide any solutions for you, you still learn as you have to find the correct answer yourself." The principle positions scaffolding as the alternative to a self-reinforcing harm cycle of substitution across cognition, agency, emotion, and [[ethics]].
 
-#
+- **Scaffolding embedded in the medium, not bolted on:** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du and Jin (2026)]] operationalize four scaffolding principles inside a video player — [[sociocultural-learning|ZPD]]-based adjustment of comment depth, *fading* scaffolding (knowledge support thins over the timeline), *distributed* scaffolding (every comment is either knowledge or emotional support), and cognitive-load-derived **timing** — by computing frame-level video entropy and inserting comments only in low-information intervals. Their four-condition ablation with 20 learners found the entropy-timing module produced the strongest and most robust effect on perceived quality when removed (Z = −2.85, r = 0.45, p = .004), which makes the *scheduling* of scaffolding a measurable design variable rather than a packaging detail. The study also carries a warning for automated scaffolding: ChatGPT-generated comments were consistently harder to read, less lexically diverse, and less topically aligned than instructor comments, with the largest relevance gap in emotional support ([[ai-feedback-quality|feedback quality]]).
 - **Preferred scaffolding is not always the most effective:** [[preferred-scaffolding-ai-mathematical-modelling|Zhu, Yang and Yang (2026)]] found in a within-subjects experiment that students performed best with Peer and Teaching Assistant AI roles (which foster [[collaborative-learning|collaborative]] reasoning) yet preferred the more directive Tutor and Excellent Student roles — a divergence between preference and performance that cautions against equating learner preference with effective scaffolding in AI-supported mathematical modelling.
 
 ## The ZPD connection
@@ -3894,6 +3894,7 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Entropy-timed AI comments as in-video knowledge and emotional scaffolding (Wang, Du & Jin 2026)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[guided-llm-scaffolding-independent-learning]] — Guided LLM prompting as a structured learning intervention
 - [[scaffolding-critical-engagement-genai-minority-students]] — Culturally responsive critical-engagement scaffolding with GenAI
@@ -4429,35 +4430,36 @@ Online learning is particularly vulnerable: the medium already distances learner
 
 ## [Video in Education](https://edtechdev.github.io/aied/concepts/video-education/)
 
-> **Video in education** — the use of video as a medium for teaching and learning, and how [[generative-ai|generative AI]] is reshaping it: AI-generated and AI-[[personalized-learning|personalized]] instructional videos, AI avatars and presenters, adaptive video generation, video-based [[learning-analytics|learning analytics]] and attention/engagement sensing, and AI support for lecture-video consumption. The knowledge base treats video as both an established online-learning medium and a rapidly evolving site of AI innovation, spanning [[online-teaching-and-learning|online]], hybrid, and in-person teaching.
+> **Video in education** — the use of video as a medium for [[teacher-role|teaching]] and learning, and how [[generative-ai|generative AI]] is reshaping it: AI-generated and AI-[[personalized-learning|personalized]] instructional videos, AI avatars and presenters, adaptive video generation, video-based [[learning-analytics|learning analytics]] and attention/[[student-engagement|engagement]] sensing, and AI support for lecture-video consumption. The knowledge base treats video as both an established online-learning medium and a rapidly evolving site of AI innovation, spanning [[online-teaching-and-learning|online]], hybrid, and in-person teaching.
 
 ## Questions to Consider
 
-- Educational video has long been a "one-size-fits-all" resource — identical content for every learner. Generative AI now makes per-learner video feasible, and research suggests students value that personalization highly. What does personalization add beyond relevance — and what might it cost?
+- Educational video has long been a "one-size-fits-all" resource — identical content for every learner. Generative AI now makes per-learner video feasible, and [[research-methods-aied|research]] suggests students value that personalization highly. What does personalization add beyond relevance — and what might it cost?
 - Students often say they still value a human instructor's presence and authenticity in video. Yet in head-to-head preference, personalized AI video can beat generic human-recorded lectures. What tradeoffs are learners actually making, and how durable are they?
-- AI avatars cloned from instructors can generate video at scale — but they can also trigger "uncanny valley" discomfort and ethical objections (environmental impact, labor, academic integrity). When is an AI presenter acceptable, and when does it cross a line that no technical fix addresses?
-- Much video research relies on students' preferences and self-report. How well do stated preferences predict actual learning outcomes — and when might a video that "feels good" teach less well than one that does not?
-- Video analytics can detect attention, engagement, and dropout points. What are the pedagogical and [[privacy|privacy]] implications of instrumenting video learning this closely?
+- AI avatars cloned from instructors can generate video at scale — but they can also trigger "uncanny valley" discomfort and [[ethics|ethical]] objections (environmental impact, labor, academic integrity). When is an AI presenter acceptable, and when does it cross a line that no technical fix addresses?
+- Much video research relies on students' preferences and self-report. How well do stated preferences predict actual [[learning-gains|learning outcomes]] — and when might a video that "feels good" teach less well than one that does not?
+- Video analytics can detect attention, engagement, and dropout points. What are the [[pedagogy|pedagogical]] and [[privacy]] implications of instrumenting video learning this closely?
 
 ## Introduction
 
-Video is a cornerstone of contemporary education — especially [[online-teaching-and-learning|online and hybrid learning]] — prized for its flexibility, scalability, and consistency. Yet conventional instructional video is produced as a one-size-fits-all artifact, presenting identical content to every learner regardless of their interests, background, or prior knowledge. Generative AI is shifting video from a static broadcast medium to a dynamic, individually tailored one, and is also generating new questions about presence, [[trust]], [[privacy]], and measurement.
+Video is a cornerstone of contemporary education — especially [[online-teaching-and-learning|online and hybrid learning]] — prized for its flexibility, scalability, and consistency. Yet conventional instructional video is produced as a one-size-fits-all artifact, presenting identical content to every learner regardless of their interests, background, or [[prior-knowledge|prior knowledge]]. Generative AI is shifting video from a static broadcast medium to a dynamic, individually tailored one, and is also generating new questions about presence, [[trust]], [[privacy]], and measurement.
 
 ### How the knowledge base's research clusters
 
 - **AI-generated and personalized instructional video.** A central thread asks whether students accept AI-produced video and how it compares to human-recorded content. [[ai-generated-instructional-videos-computing-ed|Student surveys in computing education]] probe perceptions and preferences for AI-generated instructional video. In a large field deployment, [[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]] found that students preferred AI-generated *personalized* videos over non-personalized human-recorded lectures — a preference in which the personalization effect outweighed the value placed on a human presenter. [[ai-video-dual-gatekeeping-2026|Dual gatekeeping research]] shows how instructor oversight ("gatekeeping") across two stages of AI video production yields more pedagogically grounded output, connecting to [[human-in-the-loop-ai|human-in-the-loop]] design.
 - **Adaptive and structured video generation.** [[courseblueprint-adaptive-video-generation|CourseBlueprint]] offers a structured pipeline that generates adaptive pedagogical video grounded in course corpora, showing that explicit pedagogical structure — not just AI fluency — drives effective AI video.
 - **Video learning analytics and attention.** Instrumenting video reveals how learners engage. [[engagement-assessment-video|Engagement assessment in video learning]] and [[savvy-student-attention-video-learning|SAVVY]] visualize student attention during video-based learning, supporting [[learning-analytics|learning analytics]], [[self-regulated-learning|self-regulation]], and early-warning for disengagement. Segmentation work (e.g., [[adhd-video-segmentation-computing-education|temporal video segmentation]]) tailors video to individual differences.
-- **Avatars and presence.** AI avatars — virtual presenters and pedagogical agents — raise questions about identity, social presence, and trust. [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Avatar identity and epistemic trust]] examines how a presenter's apparent identity shapes learners' trust, while [[ai-psychotherapy-training-avatars|AI avatars in training]] extend the pattern to professional practice.
+- **Avatars and presence.** AI avatars — virtual presenters and pedagogical agents — raise questions about identity, [[community-of-inquiry|social presence]], and trust. [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Avatar identity and epistemic trust]] examines how a presenter's apparent identity shapes learners' trust, while [[ai-psychotherapy-training-avatars|AI avatars in training]] extend the pattern to professional practice.
+- **In-video scaffolding comments — and what AI still gets wrong.** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du and Jin (2026)]] generate *i-Comments*, [[scaffolding]] messages rendered inside the video frame and synchronized to the content, by computing frame-level entropy and inserting support only in low-information intervals. Benchmarked against 120 comments from experienced instructors, ChatGPT's 1,000 comments were denser, far less structurally varied (POS 3-gram diversity 5.5–6.2% vs. 25.1–38.5%), harder to read on every readability index, and less topically aligned (emotional-support BERTScore 0.317 vs. 0.574); 40 learners rated the human comments significantly higher on timing and helpfulness, although a newer model narrowed that gap. The argument is a design argument as much as an automation one: support embedded in the media avoids the attention and cognitive cost of pausing to query a separate [[conversational-ai|chatbot]] ([[ai-feedback-quality|feedback quality]], [[social-emotional-learning|emotional support]]).
 - **AI support for lecture-video consumption.** Beyond generation, AI helps learners and teachers work with existing video: [[bilingual-llm-lecture-companion-srl-2026|bilingual LLM lecture companions]] support self-regulated learning with recorded lectures, and [[gemini-lualatex-physics-video-transcription-2026|transcription pipelines]] convert lecture video into accessible text.
 
 ### Personalization versus human presence
 
-A recurring tension is whether the value of [[personalized-learning|personalization]] can outweigh the value of a visible human instructor. [[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]] frame personalization and social presence as *partially substitutable signals of instructional care*: human delivery enhances affective experience and authenticity, while personalization enhances relevance — and students are willing to trade one for the other. Their large-course ranking data (88.4% preferred some personalized video; only 73.8% preferred human-recorded) suggest personalization is now often the more influential factor, pointing toward a complementary model where human instructors supply expertise and social connection while AI extends their reach with individually tailored media.
+A recurring tension is whether the value of [[personalized-learning|personalization]] can outweigh the value of a visible human instructor. [[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]] frame personalization and social presence as *partially substitutable signals of instructional care*: human delivery enhances [[affective-computing|affective]] experience and authenticity, while personalization enhances relevance — and students are willing to trade one for the other. Their large-course ranking data (88.4% preferred some personalized video; only 73.8% preferred human-recorded) suggest personalization is now often the more influential factor, pointing toward a complementary model where human instructors supply expertise and social connection while AI extends their reach with individually tailored media.
 
 ### Design, ethics, and measurement
 
-Producing effective AI video requires pedagogical structure and human oversight, and it raises distinct concerns: AI presenters may evoke discomfort or distrust (the "uncanny valley"); generative video risks factual inaccuracy that learners may not catch; scaling personalization requires collecting or inferring learner attributes, with attendant [[privacy]], bias, and governance concerns; and a subset of learners object to AI-generated instruction on principled grounds (environmental impact, labor, automation, [[academic-integrity|academic integrity]]). Measurement is likewise in flux — much evidence rests on stated preference and perceived value rather than objective learning outcomes, so preference data must be read alongside (often forthcoming) outcome data.
+Producing effective AI video requires pedagogical structure and human oversight, and it raises distinct concerns: AI presenters may evoke discomfort or distrust (the "uncanny valley"); generative video risks factual inaccuracy that learners may not catch; scaling personalization requires collecting or inferring learner attributes, with attendant [[privacy]], bias, and [[governance]] concerns; and a subset of learners object to AI-generated instruction on principled grounds (environmental impact, labor, automation, [[academic-integrity|academic integrity]]). Measurement is likewise in flux — much evidence rests on stated preference and perceived value rather than objective learning outcomes, so preference data must be read alongside (often forthcoming) outcome data.
 
 ## Connected Concepts
 
@@ -4473,6 +4475,7 @@ Producing effective AI video requires pedagogical structure and human oversight,
 - [[trust]] — learner trust in AI presenters and content
 
 ## Connected Articles
+- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT-generated in-video comments: entropy timing, quality gaps vs. human comments (Wang, Du & Jin 2026)
 
 - [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
 - [[ai-generated-instructional-videos-computing-ed]] — Student perceptions/preferences of AI-generated instructional video in computing education
@@ -12483,7 +12486,7 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 
 ### How AI feedback quality appears in the research
 
-- **Comparability to human feedback:** [[ai-generated-feedback-higher-ed|Studies in higher education]] find that AI-generated feedback is experienced as acceptable and supportive — comparable to teacher feedback. But acceptability does not guarantee learning effectiveness. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) likewise finds LLM grading and feedback quality to be task-contingent — matching human raters on short, well-structured answers with detailed rubrics but degrading on complex, open-ended, or multilingual work, with feedback sometimes too generic or misaligned with the grade — and identifies prompt quality, rubric detail, model version, and assessment language as the dominant determinants of grading and feedback quality ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
+- **Comparability to human feedback:** [[ai-generated-feedback-higher-ed|Studies in higher education]] find that AI-generated feedback is experienced as acceptable and supportive — comparable to teacher feedback. But acceptability does not guarantee learning effectiveness. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) likewise finds [[llm]] grading and feedback quality to be task-contingent — matching human raters on short, well-structured answers with detailed rubrics but degrading on complex, open-ended, or [[multilingual-learning|multilingual]] work, with feedback sometimes too generic or misaligned with the grade — and identifies prompt quality, rubric detail, model version, and assessment language as the dominant determinants of grading and feedback quality ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
 
 - **Feedback classification [[benchmark|benchmarks]]:** [[teaching-feedback-classification-benchmark|Cross-language feedback benchmarks]] assess whether feedback quality classification transfers across languages and educational contexts, connecting to [[ai-ed-evaluation]].
 
@@ -12495,7 +12498,7 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 
 - **Discretionary feedback provision:** [[ai-assistance-discretionary-feedback|Research on AI-assisted feedback in higher education]] examines whether AI increases the quantity and quality of feedback instructors provide.
 
-- **Reliable provision, not inherent superiority, drives AI's edge:** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long field experiment found GPT-4 feedback beat peer feedback because it was *consistently* delivered — nearly all AIF respondents (369/398) received textual plus numeric feedback while under two-thirds of peer-feedback students received none, and much peer feedback was non-targeted praise. When high-quality textual peer feedback *was* received, peer outcomes matched AI's — indicating the AI advantage is reliability, not quality at the margin. Students also rated peer feedback slightly higher on perceived validity and emotion (mild [[trust|algorithm aversion]]) yet still activated and learned more from AI, showing perceived quality and behavioral outcomes can diverge.
+- **Reliable provision, not inherent superiority, drives AI's edge:** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long field experiment found GPT-4 feedback beat [[peer-review|peer feedback]] because it was *consistently* delivered — nearly all AIF respondents (369/398) received textual plus numeric feedback while under two-thirds of peer-feedback students received none, and much peer feedback was non-targeted praise. When high-quality textual peer feedback *was* received, peer outcomes matched AI's — indicating the AI advantage is reliability, not quality at the margin. Students also rated peer feedback slightly higher on perceived validity and emotion (mild [[trust|algorithm aversion]]) yet still activated and learned more from AI, showing perceived quality and behavioral outcomes can diverge.
 
 - **Feedback literacy as the uptake-side boundary:** [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] validate an **AI Feedback Literacy (AIFL) scale** (16 items, Attitudes/Practices factors) that predicts students' actual uptake of AI feedback, and [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show [[feedback-literacy|feedback literacy]] moderates whether AI feedback improves [[self-regulated-learning]] — high literacy yields benefit, low literacy yields minimal or even negative effects. Feedback quality and feedback literacy are two sides of one system: even high-quality AI feedback is inert without a literate recipient.
 
@@ -12503,7 +12506,9 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 
 - **Sycophancy as a feedback failure:** [[ai-sycophancy|Sycophantic]] feedback conflates support with agreement — an AI that validates a student's answer rather than challenging it undermines feedback's corrective function, degrading quality even when it feels affirming. [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] shows tutors withholding corrective feedback under social pressure, and [[contextual-sycophancy-ai-literacy|contextual sycophancy]] propagates errors into subsequent advice; effective feedback must sometimes challenge the learner.
 
-- **Diagnostic accuracy only partly determines feedback quality — and LLM self-evaluation misaligns with human judgment:** [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] found GPT-4 produced error-targeted hints ~66% of the time in a College Algebra tutor, yet ~35% were too general, incorrect, or gave away the answer; even when diagnosis was wrong the model often recovered with relevant, general-but-correct feedback, though almost all incorrect feedback followed a misdiagnosis. Their simulated-student automated quality checks passed only 21.4% of hints on both tests, rejected targeted feedback ~70% of the time, and favored hints that simply revealed the answer — a stark demonstration that automated [[ai-ed-evaluation|evaluation]] can diverge sharply from human judgments of helpfulness and must be calibrated against them.
+- **Diagnostic accuracy only partly determines feedback quality — and LLM self-evaluation misaligns with [[human-in-the-loop-ai|human judgment]]:** [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] found GPT-4 produced error-targeted hints ~66% of the time in a College Algebra tutor, yet ~35% were too general, incorrect, or gave away the answer; even when diagnosis was wrong the model often recovered with relevant, general-but-correct feedback, though almost all incorrect feedback followed a misdiagnosis. Their simulated-student automated quality checks passed only 21.4% of hints on both tests, rejected targeted feedback ~70% of the time, and favored hints that simply revealed the answer — a stark demonstration that automated [[ai-ed-evaluation|evaluation]] can diverge sharply from human judgments of helpfulness and must be calibrated against them.
+
+- **Linguistic and perceptual quality of AI instructional comments:** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du and Jin (2026)]] assess ChatGPT-generated in-video scaffolding comments against instructor comments on part-of-speech composition, 3-gram diversity, Zipf's law conformity, readability, topical relevance (TF-IDF and BERTScore), and learner ratings. The generated comments were *more* complex and adjective-rich but *less* varied and less readable, and trailed human comments on topical alignment (0.607 vs. 0.747 BERTScore for knowledge support) and on perceived timing and helpfulness — evidence that AI feedback quality must be judged on linguistic [[accessibility]] and [[affective-computing|affective]] fit, not relevance alone. Their analytic battery is offered as a reusable [[learning-analytics]] pipeline for auditing AI-generated instructional content.
 
 ### Quality dimensions
 
@@ -12536,6 +12541,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[trust-calibration]]
 
 ## Connected Articles
+- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Assessing ChatGPT in-video comments: linguistic, semantic, and perceptual quality (Wang, Du & Jin 2026)
 - [[luo-eaton-ai-student-feedback-ethics-2026]]
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[coach-not-crutch-ai-writing]] — AI writing feedback outperformed human editors on practice letters (Lira et al. 2025)
@@ -74064,6 +74070,94 @@ Wang (2026) connects the knowledge base's [[ai-anxiety-and-stress]] and career-r
 ## Citation
 
 Wang, X. (2026). [*The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered*](https://doi.org/10.3389/fpsyg.2026.1767791). *Frontiers in Psychology*, 17, 1767791.
+
+---
+
+## [Assessing ChatGPT-Generated Comments for Video-Based Learning Content to Enhance Knowledge and Emotional Support Based on Scaffolding Theory](https://edtechdev.github.io/aied/articles/wang-chatgpt-comments-video-learning-scaffolding-2026/)
+
+> **ChatGPT-generated in-video comments as scaffolding** — Wang, Du and Jin (2026) design and evaluate a framework that generates *i-Comments*: short support messages displayed inside an educational video, scrolling in sync with the content, so learners receive [[scaffolding]] without pausing or switching interfaces. The framework translates [[scaffolding|scaffolding theory]], Vygotsky's [[sociocultural-learning|ZPD]], [[cognitive-offloading|cognitive load]] theory, and multimedia [[learning-theories|learning theory]] into technical components — [[multimodal]] video analysis, an **entropy-based timing** mechanism that places comments in low-information intervals, comment-type definition, and [[prompt-engineering|prompt engineering]]. Across two studies the authors find ChatGPT-generated comments to be **more complex, more adjective-heavy, less lexically diverse, and less topically aligned to the video than human comments** — a gap that is widest for [[social-emotional-learning|emotional support]] — while an ablation study shows each theory-derived prompt module contributes measurably to perceived quality and that a newer model narrows the human advantage on timing and helpfulness.
+
+## Overview
+
+[[video-education|Video-based learning]] dominates online education, but it weakens the [[online-teaching-and-learning|online]] learner's sense of connection, offers few opportunities for immediate [[feedback]], and strains sustained attention. Existing GenAI support in this space — [[intelligent-tutoring|tutoring systems]] and [[conversational-ai|chatbot]] companions — typically requires learners to pause the video, switch interfaces, and formulate a query, which adds extraneous cognitive load and breaks the learning flow. Prior work by the same group proposed **i-Comments**, real-time individually addressed comments rendered inside the video frame; the bottleneck was that they had to be generated manually, which does not scale.
+
+This study asks whether [[generative-ai|generative AI]] can generate them instead, and whether the result matches human equivalents. Three research objectives structure the work: translate learning theory into operational design principles, validate generation quality against human comments on linguistic, [[pedagogy|pedagogical]], and perceptual dimensions, and draw out implications for [[agentic-ai|agentic]] educational support systems.
+
+## Translating theory into a pipeline
+
+The framework's central claim is [[research-methods-aied|methodological]]: pedagogical theory is systematically converted into technical components rather than invoked as framing.
+
+- **Cognitive load theory** → an **entropy analysis** mechanism. Frame-level visual entropy is smoothed into a complexity trajectory; intervals below the sequence's mean entropy are treated as low-load windows where a comment will not compete with the primary content. In the illustrative 360-second video (mean entropy 6.730 bits) it detected 15 low-entropy periods.
+- **Vygotsky's ZPD** → an **individual information setting** that would adjust comment depth to learners' [[prior-knowledge|prior knowledge]] (specified but not activated in this study, since pre-test scores and prior experience did not differ across participants).
+- **Fading scaffolding** → a **comment attribute setting** that reduces the frequency of knowledge support over the video timeline as learners gain competence.
+- **Distributed scaffolding** → **content categories** splitting every comment into *knowledge support* (explanation, supplement, hint, key point) or *emotional support* (encouragement, empathy, motivation).
+- **Multimedia learning theory** → **customized display** options (font, size, display speed) intended to optimize processing.
+
+The authors also describe how the pipeline would extend to a [[pedagogical-agent|multi-agent]] system: a monitoring agent capturing behavioural signals (repeated viewing, perceived difficulty, fatigue), a decision agent choosing support type and timing, a support agent retrieving or generating the comment, and a validation agent checking alignment with instructional purpose.
+
+## Study 1 — ChatGPT comments versus instructor comments
+
+Using structured prompts that specified comment type and target video segment, ChatGPT (GPT-3.5) produced **1,000 comments across 20 sessions** for a six-minute instructional clip (500 knowledge, 500 emotional); experienced instructors of Japanese history generated **120 comments** in real time while watching the same clip (75 knowledge, 45 emotional).
+
+- **Part-of-speech [[writing-education|composition]].** ChatGPT leaned on nouns (30.75% of knowledge-support tokens) and used markedly more adjectives than humans (13.99% vs. 6.92% in knowledge support; 12.90% vs. 7.21% in emotional support), while humans used pronouns more evenly across both categories.
+- **Structural diversity.** Human comments showed a POS 3-gram diversity ratio of 25.1–38.5%; ChatGPT's was only 5.5–6.2%. ChatGPT produced roughly 7–14× more 3-grams in total but only about 1.5–2× as many unique ones — it reuses the same linguistic structures.
+- **Naturalness of word frequency.** Both comment sets conformed to Zipf's law (R² > 0.95), but ChatGPT showed larger average deviations.
+- **Readability.** ChatGPT scored higher on every readability index (Flesch-Kincaid, Gunning Fog, SMOG, ARI, Coleman-Liau) in both categories — that is, its comments were harder to understand, a mismatch with learners' comprehension levels that the authors flag as especially consequential for novices.
+- **Topical relevance.** Human comments aligned more closely with video content on both measures. Knowledge support: human 0.747 BERTScore / 0.864 TF-IDF vs. ChatGPT 0.607 / 0.771. Emotional support: human 0.574 / 0.753 vs. ChatGPT 0.317 / 0.457. The human advantage was larger for emotional support than for knowledge support, indicating weaker handling of emotionally nuanced content.
+- **Learner perception.** Forty undergraduates and graduate students (aged 19–23) watched the same NHK high-school Japanese-history video in both conditions and rated comments on naturalness, consistency, timing, and helpfulness (5-point Likert; Mann–Whitney U tests). Human comments held a statistically significant advantage on **timing** (r = 0.32) and **helpfulness** (p = .003, r = 0.46, approaching a large effect), with no significant differences on naturalness (p = .114) or consistency.
+
+## Study 2 — ablation and model update
+
+A four-condition ablation (P0 full prompt; P1 without comment-type definition; P2 without entropy-based timing; P3 without content examples) was run with a newer model (GPT-5.4) on 20 new participants, each watching four six-minute videos rated on the same criteria plus an overall preference.
+
+- **Model version matters.** P0 (GPT-5.4, full prompt) beat the original GPT-3.5 condition on all four criteria, with the biggest gains precisely on the two dimensions where humans had won: timing (M 3.65 → 4.35) and helpfulness (3.95 → 4.40), plus naturalness (3.85 → 4.40) and a smaller consistency gain (4.70 → 4.85).
+- **Every theory-derived module contributes.** Removing the comment-type definition significantly lowered helpfulness (Z = −2.53, r = 0.40, p = .011) and consistency (p = .039); removing entropy-based timing lowered perceived timing (Z = −2.85, r = 0.45, p = .004) — the strongest effect in the study; removing content examples lowered naturalness (p = .027) and timing (p = .021). Because each module instantiates one pedagogical principle, the authors read these results as empirical support for the theory-to-implementation mapping itself, not just for a prompt recipe.
+- **Overall.** Beyond the ablation, the framework's [[learning-analytics|analytics]] combination — linguistic metrics (POS, 3-gram diversity, Zipf conformity), semantic metrics (BERTScore, TF-IDF), readability, and learner perception — is offered as a reusable pipeline for judging AI-generated instructional content.
+
+## Implications
+
+- **Timing is a pedagogical variable, not a packaging detail.** Converting cognitive load theory into an entropy threshold turns "when should support appear" into a computable scheduling decision — and the ablation shows it is the module learners notice most when it is removed.
+- **AI comments are not yet a drop-in replacement for instructor comments.** The generated text is denser and more uniformly structured, less topically anchored, and weakest exactly where empathy matters; the honest reading of the study is that current models need domain calibration and learner-adaptive control before deployment. The authors also note the human advantage was measured with an older model and partly reflects model capability.
+- **Emotional support is the harder target.** The larger relevance gap in emotional support (and the model's preference for generic, adjective-heavy phrasing) suggests that [[affective-computing|affective]] [[scaffolding]] is where design and evaluation effort should concentrate — a recurring theme in work on [[social-emotional-learning|SEL]] and AI.
+- **Scaffolding can be distributed and faded automatically.** Knowledge and emotional support are generated as distinct categories and knowledge support thins over the timeline, showing how fading scaffolding and distributed scaffolding can be operationalized at scale rather than planned by hand.
+- **The path forward is multi-agent and individualized.** The individual-information component was deliberately not activated here, so [[personalized-learning|personalization]] remains untested; the proposed monitoring–decision–support–validation agent architecture is the authors' route to real-time adaptivity.
+- **Limitations to carry forward.** A single domain (Japanese history), a six-minute clip, small samples, a pre-proof single-family model comparison (GPT-3.5 vs. GPT-5.4), and reliance on perception rather than [[learning-gains|learning outcome]] measures all constrain generalization.
+
+## Connected Concepts
+
+- [[scaffolding]]
+- [[video-education]]
+- [[generative-ai]]
+- [[feedback]]
+- [[ai-feedback-quality]]
+- [[online-teaching-and-learning]]
+- [[student-engagement]]
+- [[motivation]]
+- [[multimodal]]
+- [[learning-analytics]]
+- [[agentic-ai]]
+- [[prompt-engineering]]
+- [[social-emotional-learning]]
+- [[sociocultural-learning]]
+- [[conversational-ai]]
+- [[intelligent-tutoring]]
+- [[pedagogical-agent]]
+
+## Connected Articles
+
+- [[ai-guided-learning-audiovideo-2026]] — How students guide AI in audio/video learning support
+- [[engagement-assessment-video]] — Engagement assessment in video learning
+- [[rethinking-scaffolding-llm-tutors]] — Design patterns for scaffolding in LLM tutors
+- [[guided-llm-scaffolding-independent-learning]] — Guided LLM prompting as a structured learning intervention
+- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over human-recorded ones
+- [[ai-video-dual-gatekeeping-2026]] — Dual gatekeeping for pedagogically grounded AI video creation
+- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: adaptive pedagogical video generation
+- [[yasir-llm-tutoring-agents-2026]] — LLM tutoring feedback: accurate diagnosis ≠ actionable feedback
+- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM lecture companion supporting self-regulated learning
+
+## Citation
+
+Wang, J., Du, Y., & Jin, Q. (2026). [Assessing ChatGPT-Generated Comments for Video-Based Learning Content to Enhance Knowledge and Emotional Support Based on Scaffolding Theory](https://doi.org/10.1016/j.caeai.2026.100676). *Computers and Education: Artificial Intelligence*, 100676.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-10T15:34:00-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor]
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
@@ -31,7 +31,7 @@ confidence: high
 - **Conceptual scaffolds:** [[concept-catalyst-engineering-scaffolds|Concept Catalyst]] and [[rethinking-scaffolding-llm-tutors|LLM tutor rethinking]] explore design patterns for cognitive support.
 - **"Scaffold, do not substitute" as a design principle:** [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al. (2026)]] argue that the central risk of AI in education is misalignment — AI that substitutes for human effort erodes the capacities education is meant to build — and derive a single design principle, *scaffold, do not substitute*. Scaffolding must be a first-class capability of AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. Their analysis of student essays shows learners themselves converge on this — asking for AI that "does not provide any solutions for you, you still learn as you have to find the correct answer yourself." The principle positions scaffolding as the alternative to a self-reinforcing harm cycle of substitution across cognition, agency, emotion, and [[ethics]].
 
-#
+- **Scaffolding embedded in the medium, not bolted on:** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du and Jin (2026)]] operationalize four scaffolding principles inside a video player — [[sociocultural-learning|ZPD]]-based adjustment of comment depth, *fading* scaffolding (knowledge support thins over the timeline), *distributed* scaffolding (every comment is either knowledge or emotional support), and cognitive-load-derived **timing** — by computing frame-level video entropy and inserting comments only in low-information intervals. Their four-condition ablation with 20 learners found the entropy-timing module produced the strongest and most robust effect on perceived quality when removed (Z = −2.85, r = 0.45, p = .004), which makes the *scheduling* of scaffolding a measurable design variable rather than a packaging detail. The study also carries a warning for automated scaffolding: ChatGPT-generated comments were consistently harder to read, less lexically diverse, and less topically aligned than instructor comments, with the largest relevance gap in emotional support ([[ai-feedback-quality|feedback quality]]).
 - **Preferred scaffolding is not always the most effective:** [[preferred-scaffolding-ai-mathematical-modelling|Zhu, Yang and Yang (2026)]] found in a within-subjects experiment that students performed best with Peer and Teaching Assistant AI roles (which foster [[collaborative-learning|collaborative]] reasoning) yet preferred the more directive Tutor and Excellent Student roles — a divergence between preference and performance that cautions against equating learner preference with effective scaffolding in AI-supported mathematical modelling.
 
 ## The ZPD connection
@@ -69,6 +69,7 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Entropy-timed AI comments as in-video knowledge and emotional scaffolding (Wang, Du & Jin 2026)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[guided-llm-scaffolding-independent-learning]] — Guided LLM prompting as a structured learning intervention
 - [[scaffolding-critical-engagement-genai-minority-students]] — Culturally responsive critical-engagement scaffolding with GenAI
