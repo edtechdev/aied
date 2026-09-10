@@ -79,7 +79,7 @@ Development runs through comparison and calibration: producing work, comparing i
 - [[critical-thinking]]
 - [[assessment]]
 - [[ai-detection]]
-- [[academic-misconduct-procedures]]
+- [[academic-integrity]]
 - [[higher-ed]]
 
 ## Connected Articles

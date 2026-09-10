@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 189 concepts, 1127 articles, and 17 FAQs.
+> Complete text of 188 concepts, 1129 articles, and 17 FAQs.
 
 # Concepts
 
@@ -145,7 +145,6 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[equity-in-ai-education]] — Equity in AI education
 - [[ethics]] — AI ethics
 - [[ai-use-disclosure]] — AI use and disclosure statements
-- [[academic-misconduct-procedures]] — Misconduct procedures and enforcement
 - [[governance]] — AI governance
 - [[educational-policy-ai]] — Educational AI policy
 - [[educational-robotics]] — Robots in education
@@ -358,6 +357,8 @@ Frameworks increasingly trace how these dimensions are enacted in practice: [[da
 
 **Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity-in-ai-education]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[educational-development]], and [[governance|governance frameworks]] — institutional AI literacy is a matter of [[educational-policy-ai|policy]] as much as pedagogy. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
 
+- **AI literacy as a governance capacity for sustainable development.** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] reconceptualize AI literacy as a governance-oriented capacity rather than a purely educational or technical skill, linking it to all seventeen UN Sustainable Development Goals. Their six-level **AIRE Taxonomy** (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) extends Bloom's hierarchy by adding ethical synthesis and strategic foresight, positioning advanced competencies (Analyze–Govern) as the pathway from foundational literacy to institutional and policy-level governance — an "18th SDG" heuristic that treats literacy as a cross-cutting cognitive and ethical bridge. A survey of 300 professionals in a national context found strong technical awareness but limited ethical and governance readiness, with **ethical reasoning and reflective thinking the strongest predictors of sustainable, trustworthy AI use** and governance literacy the strongest predictor of AI–SDG nexus awareness (β = 0.64). This empirically grounds the knowledge base's emphasis on critical-use literacy and ties AI literacy directly to [[sustainability]] and [[educational-policy-ai|policy]] integration.
+
 ### How AI literacy is developed
 
 Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] position AI literacy as more than applied skill: in their AI×Ed framework the learner is a distinct end user of AI (accessed through AI literacy and AI education), and they argue for renewed AI-literacy work that encourages reflection on learning itself — treating literacy as a route back into "AI as an analogy to human intelligence" research on how people learn, a strand the field largely abandoned. The [[icap-framework|ICAP framework]] (Interactive → Constructive → Active → Passive) provides a useful taxonomy of cognitive engagement: students learn AI literacy best when they co-construct knowledge rather than passively receive information. Designers should select the mode that fits the learning goal and favor the deeper (constructive and interactive) modes where possible. Practical activities — designing prompts, evaluating outputs in groups, debating AI [[ethics]] — outperform lectures.
@@ -463,6 +464,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[higher-ed]] — university-level literacy
 
 ## Connected Articles
+- [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)
 - [[ai-intuition-ai-literacy-k12-2026]] — dual framework of AI literacy and experiential AI intuition for K-12
 - [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines
 - [[san-orhan-karsak-ai-cognition-micro-credentials-2026]] — Word Association Mapping of Student AI Cognition and Evidence-Based Micro-Credential Design
@@ -802,6 +804,8 @@ The knowledge base's articles document cognitive offloading across multiple dime
 - **Offloading changes the threshold to respond, not just capacity.** [[ai-advice-suppresses-ikt-suspension-2026|Marcoccia et al. (2026)]] show that merely having access to AI advice nearly eliminated people's willingness to say "I don't know" — even when the advice was wrong — while nearly doubling confidence and cutting accuracy to a third; incentives restored accuracy (by reducing reliance) but not suspension.
 - **The Safety Gap as the cost of offloading struggle.** [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] formalize the divergence between a student's AI-assisted performance and their unassisted capability as the "Safety Gap" — the epistemic risk when AI does the cognitive work and the learner cannot reproduce it. [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] and [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show [[productive-failure]] design (withholding answers, preserving struggle) is the countermeasure.
 
+- **The ICAP/SAMR spectrum frames offloading as a continuum of modes, not a binary.** [[thermomix-genai-education-analogy-2026|Rummel, Nachtigall, and Panadero (2026)]] map the Thermomix kitchen-machine analogy onto learning with [[generative-ai|generative AI]] within the [[icap-framework|ICAP]] and [[active-learning|SAMR]] frameworks, showing four scenarios that progress from **passive substitution** (fully outsourcing assignments — the offloading end, risking skill loss and limited [[creativity]]) to **interactive redefinition** (AI as a [[pedagogical-agent|dialogue partner]] providing real-time [[feedback|adaptive feedback]] and co-construction — the engaged end). This reframes offloading's harm as conditional on *mode of use* rather than mere frequency, converging with the pervasive "scaffold vs. substitute" boundary: whether AI use sits at the substitution/Substitution or redefinition/Redefinition end of the spectrum determines whether it displaces or supports the cognition that builds learning.
+
 ## Over-reliance: when offloading becomes harmful
 
 **Over-reliance** is the excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. It is the behavioral manifestation of excessive cognitive offloading: when offloading becomes the default rather than a strategic choice. Over-reliance is not simply about using AI too much — it is about using AI in ways that substitute for rather than complement learning processes. Conceptual work urges keeping this educational over-reliance distinct from relational attachment and [[medical-education|clinical]] dependence: [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] shows that trust, reliance, over-reliance, attachment, and problematic use are routinely conflated in the conversational-AI literature, and that frequent delegation should not be labelled dependence without impaired control or harm.
@@ -855,6 +859,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: a kitchen-machine analogy for generative AI in education (Rummel, Nachtigall & Panadero 2026)
 - [[cognitive-washout-ai-skill-decay-2026]] — cognitive washout: post-withdrawal dynamics of AI-induced skill decay
 - [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
@@ -1154,7 +1159,7 @@ Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; t
 
 Peer accountability does not always point toward integrity, as [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found in graded [[group-work|group assessment]]: seven of fifteen student groups deliberately reduced their GenAI use partly to avoid free-riding on groupmates, since group consequences were shared rather than self-contained, yet in five groups a permissive collective climate — "everyone in my group is using GenAI" — lowered the perceived [[ai-misuse-learning-harm|risk of misuse]] and inverted the very accountability mechanism group work is meant to create. The same study found students reframing originality as faithfulness to the understanding their classmates built together, and its practical recommendation follows directly: make the negotiation of acceptable AI use an explicit, documented, and assessable outcome rather than leaving the norm to emerge from peer pressure or perceived risk.
 
-Procedures matter as much as policies, and their evidentiary basis has collapsed for AI. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] argues that the [[academic-misconduct-procedures|misconduct procedure]] universities imported from plagiarism rests on a premise generative AI dismantled: that prohibited use can be detected and proved. Unlike text-matching software, which can point to a copied source, AI-text classifiers identify no source because none exists — they output a probabilistic judgement about style that degrades under paraphrase, misclassifies non-native speakers systematically, and cannot be explained or cross-examined, while skilled or lightly edited use leaves no trace at all. Persisting anyway reverses the [[academic-misconduct-procedures|burden of proof]] (the student is asked to prove a negative), strains every element of procedural justice, and lands the harm of false accusation hardest on the already disadvantaged. The proposed remedy is twofold: publish an evidentiary standard under which detector output alone never grounds a finding, with graduated education-first responses, and move institutional effort into validity-centred and authentic assessment design. [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] supply the mechanism-level counterpart from the student's side: because each assessment environment makes some response most attractive, prohibition leaves concealment attractive when verification is thin, monitoring makes hidden use costlier without making disclosure safe, and only redesign — lowering the payoff from outsourcing while raising the value of visible reasoning — moves students toward responsible use. Their sharpest result is that deterrence runs through a detector's discrimination between hidden use and legitimate work rather than its catch rate, so when false positives rise faster than true positives, stronger monitoring can make concealment relatively more attractive.
+Procedures matter as much as policies, and their evidentiary basis has collapsed for AI. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] argues that the misconduct procedure universities imported from plagiarism rests on a premise generative AI dismantled: that prohibited use can be detected and proved. Unlike text-matching software, which can point to a copied source, AI-text classifiers identify no source because none exists — they output a probabilistic judgement about style that degrades under paraphrase, misclassifies non-native speakers systematically, and cannot be explained or cross-examined, while skilled or lightly edited use leaves no trace at all. Persisting anyway reverses the burden of proof (the student is asked to prove a negative), strains every element of procedural justice, and lands the harm of false accusation hardest on the already disadvantaged. The proposed remedy is twofold: publish an evidentiary standard under which detector output alone never grounds a finding, with graduated education-first responses, and move institutional effort into validity-centred and authentic assessment design. [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] supply the mechanism-level counterpart from the student's side: because each assessment environment makes some response most attractive, prohibition leaves concealment attractive when verification is thin, monitoring makes hidden use costlier without making disclosure safe, and only redesign — lowering the payoff from outsourcing while raising the value of visible reasoning — moves students toward responsible use. Their sharpest result is that deterrence runs through a detector's discrimination between hidden use and legitimate work rather than its catch rate, so when false positives rise faster than true positives, stronger monitoring can make concealment relatively more attractive.
 
 ### The socio-emotional dimension
 
@@ -1299,102 +1304,6 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[chen-zou-genai-group-assessment-agency-2026]] — Peer accountability and originality in GenAI-mediated group assessment
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Detection’s evidentiary collapse and the case for procedural justice, proportionality, and design
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Deterrence, disclosure, and redesign as an assessment-design problem under imperfect information
-
----
-
-## [Academic Misconduct Procedures](https://edtechdev.github.io/aied/concepts/academic-misconduct-procedures/)
-
-> **Academic misconduct procedures** — the [[governance|institutional]] machinery through which suspected breaches of [[academic-integrity|academic integrity]] are investigated, judged, and sanctioned: how allegations are raised, what evidence is required, who decides, and what follows. Historically built around text-matching evidence, these procedures assume that prohibited use can be detected and proved. [[generative-ai|Generative AI]] dismantled that premise — AI use that is skilled or lightly edited leaves no reliable trace — so the procedure now faces a choice between accusing students on evidence that cannot bear the weight and contracting to the narrow set of cases it can adjudicate justly. Understanding the machinery matters for [[ai-detection|detection]] policy, [[ai-use-disclosure|disclosure]] requirements, [[assessment-validity|assessment validity]], and [[equity-in-ai-education|equity]], because the harm of a false allegation is not distributed evenly.
-
-## Questions to Consider
-
-- What has to be true about the evidence before an institution should accuse a student of misconduct? Try to state the standard in a sentence, then ask whether a percentage from a commercial classifier meets it.
-- Text-matching software could point to a copied source. AI-text detectors identify no source because none exists — only a probabilistic judgement about style. What does a procedure lose when it imports the habits of the first case into the second?
-- When an allegation rests on a detector score, the student is effectively asked to prove a negative: that she did not use a prohibited tool. Who does that burden fall on hardest, and why does that matter beyond [[bias-mitigation|fairness]] to individuals?
-- [[research-methods-aied|Research]] on procedural justice finds that compliance depends more on perceived fairness of process than on outcomes. If that is right, what does a detection-led procedure corrode even when it reaches the "correct" verdict?
-- Procedural fairness depends on voice, neutrality, respectful treatment, and trustworthy motives. Which of these survives when the "case" is an uninspectable score that neither the student nor the panel can explain?
-- Conscientious non-use — declining AI on environmental, political-economic, or [[pedagogy|pedagogical]] grounds — is a real position among students and staff. What does a well-designed regime owe it, and where does that obligation sit in a policy that mostly discusses prohibition?
-- If a procedure cannot know whether AI was used, is punishing the cases it can prove a principled compromise or a lottery that falls on the careless-but-honest?
-
-## Introduction
-
-Misconduct procedures sit between two literatures that rarely meet: work evaluating [[ai-detection|detection tools]], and work developing assessment redesign for the generative AI era. Each presupposes an account of what the procedure itself may legitimately do, and that account is usually left implicit. The knowledge base's evidence suggests it should not be, because the procedure is where the consequences land — for students facing an allegation, for staff asked to investigate an unwinnable case, and for the [[trust]] on which voluntary compliance depends.
-
-The concept covers the procedure's evidentiary basis, the fairness requirements it inherits from administrative justice, the proportionality constraints on institutional response, and the shift of effort from enforcement toward [[learning-design|assessment design]]. It connects directly to [[assessment-validity|assessment validity]], since the deepest problem with a detector-driven allegation is that it cannot warrant the inference being drawn, and to [[ai-use-disclosure|AI use disclosure]], which is often mistaken for a detection mechanism.
-
-## The evidentiary collapse
-
-Plagiarism procedures evolved alongside a technology that could often substantiate an allegation: text-matching software can show that a passage coincided with a source. Procedures imported for generative AI assume an equivalent evidentiary base, and it does not exist, because the two [[ai-technologies|technologies]] differ in kind.
-
-- **Text-matching (similarity) software** compares a submission against existing sources and can point to a matching passage. Plagiarism is tractable because it leaves a referent: the copied text exists somewhere.
-- **AI-text detectors** are classifiers. They output a probabilistic judgement that a passage was machine-generated, identify no source because none exists, and cannot be independently replicated or cross-examined.
-
-Four properties of detectors bear directly on whether a finding can be sustained. Accuracy is low and unstable, degrading sharply under paraphrase or light editing, which is exactly what a student using AI competently produces. Error is asymmetric: simple evasion roughly halves already modest accuracy, so the careless-but-honest are caught more readily than the deliberately dishonest. Judgement is opaque: proprietary thresholds and unexplained percentage outputs mean a case cannot be explained, answered, or weighed. And bias is systematic: writing by non-native speakers is disproportionately misclassified, because the features detectors treat as signals of AI also characterise competent second-language writing. Human judgement does not fill the gap — [[teacher-role|teachers]], expert and novice alike, cannot reliably distinguish AI-generated from student-written prose and are overconfident when wrong, and stylistic unease is how many allegations begin.
-
-Underneath these limitations is a structural one. Where a student uses the tool with skill or edits its output, there is no reliable trace to find. Use also spans a spectrum from wholly machine-generated work through assisted-then-edited writing to brainstorming or grammar-checking, and a procedure has no means of locating a submission along that continuum after the fact. A regime that can neither distinguish outsourcing from assistance nor prove where a piece falls cannot adjudicate guilt.
-
-## What procedural fairness requires
-
-Procedural justice theory holds that willingness to accept decisions and comply with rules depends less on outcomes than on the perceived fairness of the procedures producing them, through four elements: **voice** (an opportunity to present one's case), **neutrality** (transparent and consistently applied decision rules), **respectful treatment**, and **trustworthy motives**. A detector-driven allegation strains all four at once — the case is a number the student cannot inspect and the panel often cannot explain, the opportunity to answer is hollow because a probabilistic claim about style cannot be disproved, suspicion displaces respectful treatment, and the institution's motives read as self-protective. The proceeding wears the forms of due process while lacking its substance.
-
-Three commitments follow for the cases that are genuinely pursued:
-
-- **Burden and standard of proof rest with the institution**, calibrated to the evidence: detector output alone never establishes misconduct, and a finding requires corroborating evidence, process artefacts, or an interview.
-- **A genuine opportunity to understand and answer the case**, which is impossible where the "evidence" is an unexplained score.
-- **Graduated rather than binary response**, following the educational integrity enforcement pyramid: a conversation for minor undeclared use, formal proceedings reserved for serious and well-evidenced cases, education as the default in between.
-
-The uncertainty also does harm before any allegation is made. Fear of accusation is the deterrent to legitimate AI use that students cite most often in national surveys, so a detection-led regime suppresses permitted practice along with prohibited practice.
-
-## Proportionality and the surveillance temptation
-
-Proportionality asks that an institutional response pursue a legitimate aim, be suitable and necessary for achieving it, and impose no burdens excessive in relation to the benefit obtained. Tested against it, escalation fails on several counts. Monitoring that cannot discriminate between prohibited and legitimate work is not suitable for the aim; the burden of intrusion falls on everyone; and the documented trajectory of [[remote-proctoring|remote proctoring]] — rapid adoption, student distress, contested accuracy — is the cautionary precedent. Each escalation also imposes its own [[equity-in-ai-education|equity]] costs, pushing enforcement further into students' lives in a way that falls hardest on those least able to absorb it.
-
-Secure, supervised assessment retains a legitimate but bounded role: it is warranted where an individual competence must be certified to a third party, and should be deployed deliberately at those points rather than reflexively across a programme. Used reflexively as a panicked substitute for redesign, supervised assessment reintroduces the adversarial atmosphere that redesign is meant to dispel.
-
-## Deciding what the procedure is for
-
-The productive move is to change the question the institution asks. The forensic question — did the student cheat? — invites a hunt for traces that, for AI, are not there. A validity question — did the assessment measure what the student can do? — is answerable, and it relocates the institutional response to [[learning-design|assessment design]]: programme-level assessment across linked tasks rather than a single submissible artefact, oral and supervised elements where verified individual capability must be certified, and assessment of process as well as product. Detection tries to verify that a fixed, AI-vulnerable task was completed without help; design changes the task so that help is either irrelevant or itself part of what is assessed.
-
-The procedure then retains a real but narrow role: impersonation and third-party production of work, demonstrable fabrication, admitted or directly witnessed breaches, and cases supported by corroborating evidence beyond a score. For those it should operate with full procedural fairness and proportionate, graduated sanctions. What it should not be is the routine response to the undetectable general case. The narrowing is not a retreat from integrity but a more defensible way of securing it.
-
-## Implementation conditions
-
-- **Equity of access to permitted tools.** Acceptable-use design presupposes that students can use what is permitted, and access is stratified by subscription, device, connectivity, and prior exposure. Where an assessed task rewards fluent use of a premium tool, permission becomes a regressive subsidy; institutions should therefore provision tools where AI use is integral, or ensure tasks are completable to full standard with freely available tools.
-- **Conscientious non-use must be protected.** Declining AI on environmental, political-economic, or pedagogical grounds is a defensible position. Acceptable use must mean permitted, not required: wherever AI use is invited, an AI-free route to the same outcomes, assessed to the same standard, should remain available.
-- **Workload.** The status quo is not costless — detector-driven proceedings consume staff time in triage, hearings, and appeals, and that time polices rather than teaches. Selective short orals used on a sampled basis scale at programme level, and iterative designs need not multiply marking events if checkpoints are light-touch and replace rather than add to [[summative-assessment|summative]] volume. An institution unwilling to resource design is choosing, by default, to resource policing.
-- **Monitoring and reporting as governance.** Auditing allegation volumes and their demographic distribution is itself an equity control, because detector bias is systematic rather than random.
-
-## Connected Concepts
-
-- [[ai-education]] — AI in education (umbrella)
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[ai-use-disclosure]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[ethics]]
-- [[assessment]]
-- [[higher-ed]]
-- [[authentic-assessment]]
-- [[evaluative-judgement]]
-
-## Connected Articles
-
-- [[teichmann-detecting-undetectable-misconduct-2026]] — The evidentiary collapse of AI misconduct procedures, and the case for procedural justice and design
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Deterrence, discrimination, and disclosure modelled as assessment design
-- [[karr-ai-detection-humanization-2026]] — Why AI detection fails, and the humanisation arms race
-- [[luo-dawson-value-judgements-grading-2026]] — Value judgements in grading GenAI-assisted work, and two-way transparency
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Non-compliance with mandatory AI-use declarations
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: fear of retribution chills honest reporting
-- [[automated-online-exam-proctoring-decade-review-2026]] — A decade of automated proctoring: accuracy, distress, and equity
-- [[conijn-fear-big-brother-proctored-exams-2022]] — Fear of the big brother: student experience of proctored exams
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authenticity redesigned rather than policed
-- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for the age of generative AI
-- [[biology-grade-vulnerability-genai-2026]] — How structurally vulnerable current grading is to AI-mediated dishonesty
-- [[chirikov-regulate-ai-syllabi-2026]] — Syllabi shifting from integrity framing to task-level regulation
 
 ---
 
@@ -12281,7 +12190,7 @@ Development runs through comparison and calibration: producing work, comparing i
 - [[critical-thinking]]
 - [[assessment]]
 - [[ai-detection]]
-- [[academic-misconduct-procedures]]
+- [[academic-integrity]]
 - [[higher-ed]]
 
 ## Connected Articles
@@ -16159,6 +16068,8 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 
 - **Policy ambiguity and student experience:** [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Students' engagement with GenAI]] found 12/23 students noted the lack of explicit institutional AI policies ("University doesn't have a clear and unified policy yet"), arguing governance ambiguity shapes students' practices, norms, and [[self-regulated-learning|self-regulation]] — supporting a shift toward transparent institutional guidance.
 
+- **AI literacy as a governance capacity ("the 18th SDG"):** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] reconceptualize AI literacy as a systemic governance mechanism rather than a classroom skill, proposing a six-level AIRE Taxonomy (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) that extends Bloom's hierarchy with ethical synthesis and strategic foresight, and an AI–SDG Nexus mapping literacy competencies onto all seventeen Sustainable Development Goals. Framing AI literacy as an "18th SDG" heuristic — a cross-cutting capacity that channels learning into governance and sustainable development — the study's survey of 300 professionals found governance literacy the strongest predictor of AI–SDG nexus awareness (β = 0.64, r = 0.67 with nexus awareness) and identified ethical reasoning and reflective thinking as the strongest predictors of trustworthy AI use. This ties institutional governance to the cultivation of public [[ai-literacy]], echoing the knowledge base's finding that responsible AI alignment requires policymakers and citizens who can critically interpret algorithmic systems, not merely compliance-oriented technical control.
+
 - **Academic integrity and assessment:** Governance is central to how institutions handle AI-related [[academic-integrity]] concerns and redesign [[assessment]] — moving from prohibition/policing toward guidance, AI literacy, and process-oriented designs, as seen in research on [[student-rationalization-ai-writing|student rationalization]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
 
 - **Ethics, privacy, and bias:** Governance mechanisms operationalize the ethical principles ([[ethics]], [[privacy]], [[bias-mitigation]]) that are often recognized but not enforced, connecting to responsible AI and [[regulation|regulatory]] debates in education.
@@ -16213,6 +16124,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)
 - [[tan-aigem-ai-educational-management-2026]] — AIGEM framework for AI governance in educational management
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
@@ -17936,7 +17848,7 @@ Disclosure is the mechanism that makes AI-assisted work *visible* and therefore 
 
 A recurring institutional error is to treat declarations as a way to catch prohibited use. They cannot serve that function: they depend on candour, and enforcing them runs back into the same undetectability, since an institution generally cannot prove that an undeclared use occurred. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] locates their real value elsewhere — in visible integrity commitments embedded in a culture of [[trust]], and in transparency, shared expectations, and student reflection rather than enforcement. The educational mechanism is normative, not forensic.
 
-The modelling work of [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] supplies the condition under which disclosure works, expressed as a design threshold rather than a hope: disclosed use beats hidden use only when the [[academic-misconduct-procedures|cost of honesty]] stays below the deterrent it buys. Because that bound rises with detection credibility, detection and disclosure safety reinforce each other — but only if the false-positive risk of being flagged falls on honest and dishonest responses alike, in which case honesty keeps its comparative protection. Their design implication is direct: treat a declared AI use as context rather than a confession, which keeps the cost of honesty low precisely in the settings where monitoring is strongest, and read disclosure as a demonstration of [[evaluative-judgement|evaluative judgement]] rather than an admission. Permission and disclosure are separate levers — permission changes the formal boundary of acceptable use, disclosure changes visibility — and success at one says nothing about the other.
+The modelling work of [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] supplies the condition under which disclosure works, expressed as a design threshold rather than a hope: disclosed use beats hidden use only when the [[academic-integrity|cost of honesty]] stays below the deterrent it buys. Because that bound rises with detection credibility, detection and disclosure safety reinforce each other — but only if the false-positive risk of being flagged falls on honest and dishonest responses alike, in which case honesty keeps its comparative protection. Their design implication is direct: treat a declared AI use as context rather than a confession, which keeps the cost of honesty low precisely in the settings where monitoring is strongest, and read disclosure as a demonstration of [[evaluative-judgement|evaluative judgement]] rather than an admission. Permission and disclosure are separate levers — permission changes the formal boundary of acceptable use, disclosure changes visibility — and success at one says nothing about the other.
 
 ## Designing effective disclosure
 
@@ -25746,6 +25658,68 @@ For education, the argument shifts the goal of AI literacy instruction from comp
 ## Citation
 
 Brady D. Lund, Zoë Abbie Teel (2026). [AI Literacy: An Exercise in Power-Knowledge](https://arxiv.org/abs/2607.27547).
+
+---
+
+## [Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework](https://edtechdev.github.io/aied/articles/ai-literacy-sdg-governance-framework-2026/)
+
+> **Synthesis:** Islam, Morshed, and Islam reconceptualize [[ai-literacy]] not merely as an educational or technical skill but as a [[governance]] capacity that supports all 17 UN Sustainable Development Goals. They introduce a six-level AIRE (Artificial Intelligence Reasoning and Ethics) Taxonomy extending Bloom's hierarchy with ethical judgment and strategic foresight, plus an AI–SDG Nexus Framework that maps literacy competencies onto each goal. A survey of 300 professionals in a national context found strong technical awareness but limited ethical and [[governance|governance]] readiness, with ethical reasoning, reflective thinking, and governance literacy emerging as the strongest predictors of sustainable and trustworthy AI use.
+
+## Introduction
+
+The paper addresses a gap: existing AI-literacy research treats the construct as an educational or technical concept rather than a systemic governance mechanism that ensures ethical alignment across all seventeen [[sustainability|Sustainable Development Goals]]. By linking [[ai-literacy]] to [[ethics]] and [[governance]], the authors position literate publics as a precondition for responsible AI deployment.
+
+## The AIRE Taxonomy and AI–SDG Nexus
+
+The study's central contribution is the **AIRE Taxonomy**, a six-level model extending [[critical-thinking|Bloom's learning hierarchy]] with ethical reasoning and strategic foresight:
+
+1. **Recognize – Awareness**: identify AI concepts, common tools, and use cases.
+2. **Comprehend – Understanding**: explain how AI systems function, their data structures, and limits.
+3. **Apply – Responsible Use**: use AI tools effectively and ethically.
+4. **Analyze – Critical Evaluation**: evaluate AI outputs for accuracy, [[bias-mitigation|bias]], and appropriateness.
+5. **Integrate – Ethical Synthesis**: combine ethical judgment with technical understanding.
+6. **Govern – Strategic Foresight**: align AI use with institutional and societal goals.
+
+The **AI–SDG Nexus Framework** systematically maps these AI-literacy competencies onto all seventeen SDGs, and the authors describe AI literacy as an integrative, cross-cutting "18th SDG" heuristic — a cognitive and ethical bridge that channels learning into governance and sustainable development. They distinguish foundational literacy (Recognize–Apply) from advanced competency (Analyze–Govern), preserving the conventional meaning of literacy while extending it into a structured developmental pathway that supports [[curriculum-design]] and institutional policy.
+
+## Empirical Findings
+
+A survey of 300 participants from diverse professional backgrounds within a national context measured AI-literacy readiness across four domains (Technical & Cognitive, Ethical & Reflective, Socio-Civic & Governance, Sustainability & Risk). Key results:
+
+- Technical awareness of AI was relatively strong, but ethical reasoning and [[governance]] literacy remained limited — revealing gaps in public capacity to manage AI responsibly.
+- Ethical reasoning and reflective thinking were the **strongest predictors** of sustainable and trustworthy AI use.
+- In regression analysis, governance literacy was the strongest predictor of nexus awareness (β = 0.64, p < 0.01), followed by ethical and technical literacy.
+- Governance literacy showed the strongest association with Nexus Awareness (r = 0.67, p < 0.01).
+- [[stakeholders|Stakeholders]] prioritized actions aligned with SDG 16 (public awareness 24.5%, government policy 18.8%), SDG 4 (curriculum training 21.5%), and SDG 9 (industry partnerships and innovation labs).
+
+The authors conclude that literacy-based competencies should be embedded into [[curriculum-design|curricula]], institutional policies, and governance mechanisms to accelerate equitable and responsible progress toward the [[sustainability|Sustainable Development Goals]].
+
+## Implications
+
+The framework extends [[ai-literacy]] from a classroom-based competency into a systemic driver of responsible AI governance, connecting directly to [[ethics]], [[equity-in-ai-education]], and [[educational-policy-ai|policy]]. Its emphasis on ethical reasoning and reflective thinking as predictors of trustworthy use reinforces the field's move beyond operational skill toward critical and ethical dispositions.
+
+## Connected Concepts
+- [[ai-literacy]]
+- [[governance]]
+- [[ethics]]
+- [[sustainability]]
+- [[ai-education]]
+- [[higher-ed]]
+- [[critical-thinking]]
+- [[curriculum-design]]
+- [[equity-in-ai-education]]
+- [[educational-policy-ai]]
+
+## Connected Articles
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
+- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — AI literacy as a metacognitive social practice
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework
+- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy and fair use
+
+## Citation
+Islam, M. M., Morshed, M. N., & Islam, M. S. (2026). [Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework](https://arxiv.org/abs/2609.10489). arXiv preprint arXiv:2609.10489.
 
 ---
 
@@ -56911,7 +56885,7 @@ The model is deliberately stylised: a single representative student, normalised 
 - [[academic-integrity]]
 - [[assessment-validity]]
 - [[remote-proctoring]]
-- [[academic-misconduct-procedures]]
+- [[academic-integrity]]
 - [[ai-use-disclosure]]
 - [[ai-detection]]
 - [[assessment]]
@@ -71112,7 +71086,7 @@ Jan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026). [Techno
 
 ## [Detecting the Undetectable? Reassessing Academic Misconduct Procedures in the Era of Generative AI](https://edtechdev.github.io/aied/articles/teichmann-detecting-undetectable-misconduct-2026/)
 
-> **Synthesis:** Teichmann (2026) argues that the [[academic-misconduct-procedures|misconduct procedure]] many universities reached for after [[generative-ai|generative AI]] rests on a premise the technology has dismantled: that prohibited use can be detected and proved. Detectors are unreliable, systematically biased, and opaque; skilled or lightly edited AI use is undetectable in the general case; and a procedure built on detecting it produces unfairness without effectiveness — students accused on scores they cannot interrogate, a quietly reversed [[academic-misconduct-procedures|burden of proof]], and false-accusation harm that falls hardest on the already disadvantaged. Drawing on procedural justice theory and proportionality, he proposes a reassessment in two movements: make the procedure procedurally fair, evidence-calibrated, and proportionate where allegations are genuinely warranted, and move [[governance|institutional]] effort from policing undetectable use to [[assessment-validity|validity-centred]], authentic, and acceptable-use [[learning-design|assessment design]]. His conclusion is that the answer to undetectable AI is better assessment, not better surveillance.
+> **Synthesis:** Teichmann (2026) argues that the [[academic-integrity|misconduct procedure]] many universities reached for after [[generative-ai|generative AI]] rests on a premise the technology has dismantled: that prohibited use can be detected and proved. Detectors are unreliable, systematically biased, and opaque; skilled or lightly edited AI use is undetectable in the general case; and a procedure built on detecting it produces unfairness without effectiveness — students accused on scores they cannot interrogate, a quietly reversed [[academic-integrity|burden of proof]], and false-accusation harm that falls hardest on the already disadvantaged. Drawing on procedural justice theory and proportionality, he proposes a reassessment in two movements: make the procedure procedurally fair, evidence-calibrated, and proportionate where allegations are genuinely warranted, and move [[governance|institutional]] effort from policing undetectable use to [[assessment-validity|validity-centred]], authentic, and acceptable-use [[learning-design|assessment design]]. His conclusion is that the answer to undetectable AI is better assessment, not better surveillance.
 
 ## The detection premise and why it has collapsed
 
@@ -71178,7 +71152,7 @@ None of this requires an AI-proof assessment or a retreat to mass invigilation. 
 ## Connected Concepts
 
 - [[academic-integrity]]
-- [[academic-misconduct-procedures]]
+- [[academic-integrity]]
 - [[ai-detection]]
 - [[assessment-validity]]
 - [[ai-use-disclosure]]
@@ -71514,6 +71488,63 @@ The Delphi study had a modest fully-completed response rate in Round 1 (17 respo
 ## Citation
 
 MacCallum, K., Parsons, D., & Mohaghegh, M. (2026). [*The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education*](https://doi.org/10.1016/j.caeai.2026.100584). *Computers and Education: Artificial Intelligence*.
+
+---
+
+## [With a Thermomix You Lose the Ability to Cook: A Kitchen Machine Analogy for Applications of Generative AI in Education](https://edtechdev.github.io/aied/articles/thermomix-genai-education-analogy-2026/)
+
+> **Synthesis:** Rummel, Nachtigall, and Panadero use the analogy of the Thermomix — a smart kitchen appliance whose guided cooking mode provokes the same enthusiasm and critique as [[generative-ai|generative AI]] in education — to show that the central question is not *whether* learners use AI but *how* that use shapes their learning. Mapping four cooking scenarios onto learning-with-AI cases within the ICAP and SAMR frameworks, they illustrate a progression from passive substitution ([[cognitive-offloading|full delegation]]) to interactive redefinition (AI as a [[pedagogical-agent|dialogue partner]] for [[student-engagement|engagement]] and co-construction). The paper argues against polarized media-comparison designs and urges researchers to disentangle the specific conditions under which generative AI fosters — or hinders — productive learning.
+
+## Introduction
+
+The paper opens by noting that, just as cooking lies on a continuum between preparing a meal entirely from scratch and ordering fast food, learning with AI spans a spectrum between doing all the work unaided and relying entirely on the tool. The Thermomix provides a culturally resonant, emotionally charged analogy that moves the debate away from "AI good or bad" toward how tool use shapes learning processes, identity, and agency.
+
+## The ICAP and SAMR frameworks
+
+Two established frameworks organize the paper's four scenarios. The [[icap-framework|ICAP framework]] (Chi & Wylie, 2014) distinguishes four modes of [[student-engagement|cognitive engagement]] — Passive, Active, Constructive, and Interactive — with higher modes assumed to produce superior [[learning-gains|learning outcomes]]. The [[active-learning|SAMR model]] (Puentedura, 2006) distinguishes Substitution, Augmentation, Modification, and Redefinition — the extent to which technology enhances and transforms learning.
+
+## Four scenarios of use
+
+The paper pairs four Thermomix uses with corresponding learning-with-generative-AI cases:
+
+1. **"With a Thermomix you lose the ability to cook"** — Guided cooking and fully outsourcing assignments without revision or [[critical-thinking|critical engagement]]. Aligns with ICAP *Passive* and SAMR *Substitution*; risks [[cognitive-offloading|skill loss, limited creativity, and over-reliance]] (e.g. novice writers who revise AI-produced text only superficially).
+2. **"As a cook I can alter or add ingredients to some extent"** — Users with [[prior-knowledge|prior knowledge]] adapt recipes; students [[prompt-engineering|refine prompts]], cross-verify AI outputs with sources, and revise text based on prior knowledge. Aligns with ICAP *Active* and SAMR *Augmentation*; requires [[prior-knowledge|prerequisite knowledge]] and [[self-regulated-learning|self-regulation]].
+3. **"I have become a more creative and versatile cook"** — Experienced users employ manual functions; students use AI to brainstorm, outline, evaluate, and build original work, fostering [[creativity|creativity]] and reflection. Aligns with ICAP *Constructive* and SAMR *Modification*; positions AI as a [[pedagogical-agent|"sparring partner"]] for meaning-making.
+4. **"A new way of cooking"** — Online Thermomix communities and [[collaborative-learning|co-construction]]; students interact with AI as a dialogue partner providing real-time feedback and [[feedback|adaptive feedback]]. Aligns with ICAP *Interactive* and SAMR *Redefinition*; enables [[adaptive-learning|personalized, adaptive learning]] at scale.
+
+## Identity, agency, and evaluation
+
+A key contribution is the reflection on what makes someone a cook — or a learner. Does authentic competence require carrying all knowledge internally, or can it include mobilizing external resources including [[generative-ai|generative AI]]? Drawing on Cox (2024), the paper suggests AI may shift learners from *makers* of their own knowledge to *managers* of externally provided knowledge, requiring complex cognitive skills to understand, evaluate, and organize information. It also raises [[agency|agency]] and [[assessment|assessment]] questions: [[teacher-role|educators]], like diners judging a meal, often evaluate the final product without insight into how much AI contributed — prompting calls for [[assessment|assessment methods]] integrated into learning with AI.
+
+## Conclusion
+
+The authors argue the key is not whether students use AI but how that use shapes the learners they become. They critique media-comparison designs for confounding factors and limited insight, and urge future research toward a deeper understanding of the specific conditions under which generative AI fosters productive learning processes — moving beyond polarized narratives toward nuance.
+
+## Connected Concepts
+- [[generative-ai]]
+- [[ai-education]]
+- [[cognitive-offloading]]
+- [[student-engagement]]
+- [[active-learning]]
+- [[icap-framework]]
+- [[prompt-engineering]]
+- [[critical-thinking]]
+- [[self-regulated-learning]]
+- [[pedagogical-agent]]
+- [[agency]]
+- [[creativity]]
+- [[feedback]]
+- [[teacher-role]]
+
+## Connected Articles
+- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI literacy, self-efficacy and dependency
+- [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed
+- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines
+
+## Citation
+Rummel, N., Nachtigall, V., & Panadero, E. (2026). [With a Thermomix You Lose the Ability to Cook: A Kitchen Machine Analogy for Applications of Generative AI in Education](https://arxiv.org/abs/2609.09856). arXiv preprint arXiv:2609.09856.
 
 ---
 

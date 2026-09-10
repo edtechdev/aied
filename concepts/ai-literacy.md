@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-08T09:07:05-04:00"
+updated: "2026-09-10T09:03:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, educational-development, academic-integrity]
 audience: [faculty development, instructors, learners]
@@ -38,6 +38,8 @@ Frameworks increasingly trace how these dimensions are enacted in practice: [[da
 **Critical evaluation:** The capacity to assess AI outputs for accuracy, bias, and appropriateness. [[ai-literacy-assessment-misalignment|Research on literacy assessment]] shows a 40% gap between self-reported and performance-based AI literacy — people consistently overestimate their evaluation skills. This connects to [[cognitive-offloading|Over-Reliance]] research showing that students who [[trust]] AI uncritically learn less. Recent conceptual work pushes evaluation toward *verification*: the [[pearls-epistemic-verification-2026|PEARLS framework]] (Wang) treats AI output as a provisional knowledge claim whose warrant must be assembled and examined across six dimensions (Process, Evidence, Access, Reproducibility, Legitimacy, Source), and advances **verification-driven learning** as the mechanism by which learners build expertise while checking AI claims. Complementing this, the [[student-centered-genai-responsible-framework-2026|student-centered responsible-use framework]] (Alsammani) offers ten student-facing guidelines across Learning and Growth, Ethics and Integrity, and Awareness and Safety pillars that externalize [[metacognition|metacognitive]] prompts at the point of decision. For [[k-12|secondary]] learners, the [[aarc-ai-research-competency-2026|AI-Assisted Research Competency (AARC) framework]] (Beau, Flaquière & Lazar 2026) grounds this in virtue epistemology and AI intuition, defining research literacy as conducting inquiry with AI without surrendering [[agency|authorship]], judgment, verification, or responsibility — operationalized as an analytic rubric and a verify–cite–reflect commitment routine. At the [[assessment]] end, [[human-capability-test-learning-outcomes-ai-2026|Saleh (2026)]] proposes a *human capability test* that turns evaluation into a design principle: ask what a student must demonstrate independently, what can be strengthened through AI augmentation, and what the student must verify, defend, and take responsibility for.
 
 **Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity-in-ai-education]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[educational-development]], and [[governance|governance frameworks]] — institutional AI literacy is a matter of [[educational-policy-ai|policy]] as much as pedagogy. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
+
+- **AI literacy as a governance capacity for sustainable development.** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] reconceptualize AI literacy as a governance-oriented capacity rather than a purely educational or technical skill, linking it to all seventeen UN Sustainable Development Goals. Their six-level **AIRE Taxonomy** (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) extends Bloom's hierarchy by adding ethical synthesis and strategic foresight, positioning advanced competencies (Analyze–Govern) as the pathway from foundational literacy to institutional and policy-level governance — an "18th SDG" heuristic that treats literacy as a cross-cutting cognitive and ethical bridge. A survey of 300 professionals in a national context found strong technical awareness but limited ethical and governance readiness, with **ethical reasoning and reflective thinking the strongest predictors of sustainable, trustworthy AI use** and governance literacy the strongest predictor of AI–SDG nexus awareness (β = 0.64). This empirically grounds the knowledge base's emphasis on critical-use literacy and ties AI literacy directly to [[sustainability]] and [[educational-policy-ai|policy]] integration.
 
 ### How AI literacy is developed
 
@@ -144,6 +146,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[higher-ed]] — university-level literacy
 
 ## Connected Articles
+- [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)
 - [[ai-intuition-ai-literacy-k12-2026]] — dual framework of AI literacy and experiential AI intuition for K-12
 - [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines
 - [[san-orhan-karsak-ai-cognition-micro-credentials-2026]] — Word Association Mapping of Student AI Cognition and Evidence-Based Micro-Credential Design

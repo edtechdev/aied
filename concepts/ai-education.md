@@ -153,7 +153,6 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[equity-in-ai-education]] — Equity in AI education
 - [[ethics]] — AI ethics
 - [[ai-use-disclosure]] — AI use and disclosure statements
-- [[academic-misconduct-procedures]] — Misconduct procedures and enforcement
 - [[governance]] — AI governance
 - [[educational-policy-ai]] — Educational AI policy
 - [[educational-robotics]] — Robots in education

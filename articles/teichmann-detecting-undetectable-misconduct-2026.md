@@ -3,7 +3,7 @@ title: "Detecting the Undetectable? Reassessing Academic Misconduct Procedures i
 created: "2026-09-10T05:52:45-04:00"
 updated: "2026-09-10T05:52:45-04:00"
 type: article
-tags: [academic-integrity, ai-detection, academic-misconduct-procedures, assessment-validity, ai-use-disclosure, equity-in-ai-education, higher-ed, educational-policy-ai]
+tags: [academic-integrity, ai-detection, assessment-validity, ai-use-disclosure, equity-in-ai-education, higher-ed, educational-policy-ai]
 research_method: [policy analysis, theoretical analysis]
 level: [higher ed]
 audience: [administrators, instructors, policymakers]
@@ -12,7 +12,7 @@ sources: ['raw/papers/teichmann-detecting-undetectable-misconduct-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Teichmann (2026) argues that the [[academic-misconduct-procedures|misconduct procedure]] many universities reached for after [[generative-ai|generative AI]] rests on a premise the technology has dismantled: that prohibited use can be detected and proved. Detectors are unreliable, systematically biased, and opaque; skilled or lightly edited AI use is undetectable in the general case; and a procedure built on detecting it produces unfairness without effectiveness — students accused on scores they cannot interrogate, a quietly reversed [[academic-misconduct-procedures|burden of proof]], and false-accusation harm that falls hardest on the already disadvantaged. Drawing on procedural justice theory and proportionality, he proposes a reassessment in two movements: make the procedure procedurally fair, evidence-calibrated, and proportionate where allegations are genuinely warranted, and move [[governance|institutional]] effort from policing undetectable use to [[assessment-validity|validity-centred]], authentic, and acceptable-use [[learning-design|assessment design]]. His conclusion is that the answer to undetectable AI is better assessment, not better surveillance.
+> **Synthesis:** Teichmann (2026) argues that the [[academic-integrity|misconduct procedure]] many universities reached for after [[generative-ai|generative AI]] rests on a premise the technology has dismantled: that prohibited use can be detected and proved. Detectors are unreliable, systematically biased, and opaque; skilled or lightly edited AI use is undetectable in the general case; and a procedure built on detecting it produces unfairness without effectiveness — students accused on scores they cannot interrogate, a quietly reversed [[academic-integrity|burden of proof]], and false-accusation harm that falls hardest on the already disadvantaged. Drawing on procedural justice theory and proportionality, he proposes a reassessment in two movements: make the procedure procedurally fair, evidence-calibrated, and proportionate where allegations are genuinely warranted, and move [[governance|institutional]] effort from policing undetectable use to [[assessment-validity|validity-centred]], authentic, and acceptable-use [[learning-design|assessment design]]. His conclusion is that the answer to undetectable AI is better assessment, not better surveillance.
 
 ## The detection premise and why it has collapsed
 
@@ -78,7 +78,7 @@ None of this requires an AI-proof assessment or a retreat to mass invigilation. 
 ## Connected Concepts
 
 - [[academic-integrity]]
-- [[academic-misconduct-procedures]]
+- [[academic-integrity]]
 - [[ai-detection]]
 - [[assessment-validity]]
 - [[ai-use-disclosure]]
