@@ -57,7 +57,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Assessment, evaluation, and measurement',
     blurb: 'How AI both assesses learners and reshapes how we evaluate AI systems and their impact.',
     groups: [
-      { label: 'Assessment and feedback', items: ['assessment', 'evaluative-judgement', 'feedback', 'feedback-literacy', 'ai-feedback-quality', 'formative-assessment', 'summative-assessment', 'authentic-assessment', 'group-assessment', 'eportfolio', 'peer-review', 'automated-assessment', 'automated-essay-scoring', 'automated-question-generation'] },
+      { label: 'Assessment and feedback', items: ['assessment', 'evaluative-judgement', 'feedback', 'feedback-literacy', 'ai-feedback-quality', 'formative-assessment', 'summative-assessment', 'authentic-assessment', 'group-work', 'eportfolio', 'peer-review', 'automated-assessment', 'automated-essay-scoring', 'automated-question-generation'] },
       { label: 'Measurement and validity', items: ['assessment-validity', 'psychometrically-aware-ai', 'educational-measurement', 'item-response-theory', 'ai-detection', 'remote-proctoring'] },
       { label: 'Evaluation of AI systems', items: ['ai-ed-evaluation', 'benchmark', 'research-methods-aied', 'qualitative-research', 'quantitative-research', 'mixed-methods-research', 'design-based-research', 'usability-research', 'rct', 'learning-gains', 'meta-analysis-systematic-review', 'network-analysis'] },
     ],

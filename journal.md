@@ -8,7 +8,7 @@ Last updated: 2026-09-10 | Total entries: 1316
 - 📘 [[academic-misconduct-procedures]] — Academic Misconduct Procedures
 - 📄 [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment Design Under Imperfect Information: Generative AI, Disclosure, and Student Response in Higher Education
 - 📄 [[teichmann-detecting-undetectable-misconduct-2026]] — Detecting the Undetectable? Reassessing Academic Misconduct Procedures in the Era of Generative AI
-- 📘 [[group-assessment]] — Group Assessment
+- 📘 [[group-work]] — Group Work
 - 📄 [[chen-zou-genai-group-assessment-agency-2026]] — Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emergent Perspective
 
 ## 2026-09-09

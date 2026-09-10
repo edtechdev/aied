@@ -387,7 +387,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`framing-ai-use-for-students`** — Framing AI Use for Students
 - **`game-based-learning`** — Game-Based Learning
 - **`generative-ai`** — Generative AI
-- **`group-assessment`** — Group Assessment — phrases: group assessment; group-based assessment; team-based assessment; collaborative assessment; group assessment design; assessment in groups
+- **`group-work`** — Group Work — phrases: group work; groupwork; group project; group assessment; group-based assessment; team-based assessment; team project; collaborative assessment; group work design; working in groups; small-group learning
 - **`global-south`** — Global South
 - **`governance`** — AI Governance
 - **`guardrails`** — Guardrails
