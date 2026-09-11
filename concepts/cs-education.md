@@ -1,7 +1,7 @@
 ---
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-09T09:05:09-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, cs-education]
 discipline: [stem education]
@@ -30,6 +30,7 @@ confidence: high
 - **Debugging support:** [[debugtracker-classroom-debugging|Debugging tools]], [[chat-debugging-human-ai-collaboration-circuits|human-AI debugging collaboration]], and [[golrang-propact-pair-programming-2026|dyadic pair-programming modeling]] leverage AI for error identification and repair.
 - **Automated assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]], [[llm-automated-grading-programming-comparison-2026|a large-scale 18-model grading comparison]], and [[llm-intervention-design-cs-review|LLM intervention review]] evaluate automated code assessment.
 - **AI-generated learning media:** [[ai-generated-traces-novice-programmers|Generated Animated Traces]] show that AI-generated visualizations can aid immediate learning but must be personalized — mid-engagement students experienced a performance decrement consistent with the expertise-reversal effect.
+- **GenAI analogy critique as an instructional asset:** [[student-reception-genai-analogies-computing-2026|Bernstein & Sibia (2026)]] ground GenAI analogy reception in CS2: ten students who had already completed CS2 audited GenAI-generated analogies for linked lists and recursion and rejected mappings that failed structural correspondence — an island-route analogy that mapped to a circular rather than a singly linked list, or a badminton rally offered for recursion despite having no guaranteed shrinking input, with one student proposing golf instead. The work argues that analogy critique is itself a check on concept understanding, making flawed AI analogies a usable instructional asset rather than a hazard to filter out, and recommends assigning them as objects to inspect and repair.
 - **[[misconceptions|Misconception]] modeling:** [[student-misconceptions-conditionals-loops-taxonomy|a taxonomy of conditionals/loops misconceptions]] gives automated systems a precise vocabulary for diagnosing novice errors.
 - **[[authentic-assessment]] performance:** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] show 2026 [[generative-ai|GenAI]] systems outscore the average student cohort on authentic introductory OOP assessments and frequently earn full marks on longer programming tasks, yet still struggle with interfaces, abstract classes, inheritance, and image-based questions — recurring error patterns instructors can exploit when designing assessments.
 - **Predictive modeling for at-risk support:** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] show that intrinsically interpretable decision trees trained on content-interaction log features accurately predict module-level progress in large-scale online programming courses (85–91% accuracy across four K-12 courses) and flag "No submission" dropout outcomes, giving educators a 7–8 day window to [[teacher-role|intervene]] with struggling and disengaged learners before module deadlines — complementing the automated-grading and attrition-prediction work above.
@@ -159,3 +160,4 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[zhang-ml-student-progress-programming-2026]]
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in a software PBL course; throughput vs. comprehension
 - [[genai-cognitive-tutor-programming-2026]] — GenAI as informal cognitive tutor in novice programming learning
+- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education

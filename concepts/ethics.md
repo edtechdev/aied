@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-09T09:05:09-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
@@ -56,6 +56,7 @@ A major theoretical shift in the knowledge base is the critique of universalist,
 - **Situated AI ethics.** [[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]] fuse Bronfenbrenner's ecological systems theory with Cultural-Historical [[activity-theory-aied|Activity Theory]] to frame AI as a non-neutral socio-technical assemblage whose ethical implications are historically produced and locally negotiated. Across seven national cases, teachers are positioned as moral gatekeepers of AI use while lacking structural, institutional, and epistemic support — and the framework extends [[ai-education|AI literacy]] beyond technical skills toward critical, political, and ecological agency, including resistance to surveillance capitalism and environmental harm.
 - **The shift toward situated practice.** [[ai-ethics-bibliometric-2026|A bibliometric analysis of 282 articles]] shows that AI ethics discourse post-2021 increasingly frames ethics around professional judgement, trust, [[human-ai-collaboration|human-AI collaboration]], and interpretive practice rather than only technical compliance — with education a conceptually important context.
 - **A cultural-historical account of responsibility.** This reframing connects ethics to [[learning-theories]] and [[teacher-ai-competency]]: responsible AI use is treated as context-sensitive, collective, and transformative agency rather than individual compliance with checklists.
+- **An ontological reframing of ethical obligation.** Xie (2026) pushes the situated-ethics critique further by relocating it in ontology: where much scholarship treats equity, power asymmetries and environmental costs as externalities to be managed, a Daoist relational self makes them internal to who we are, so that "being left behind" becomes ontologically untenable rather than merely unfair. The ethical task is then not detached optimization but Wuwei (无为) — non-forced action aligned with naturalness — set against the Youwei (有为) of algorithmic monoculture, cognitive offloading and extractive infrastructure, applied across three domains: knowledge (epistemic monoculture and synthetic misinformation), knowing (offloading that degrades [[critical-thinking|critical thought]]) and impact (environmental costs and Global North–South asymmetries).([[daoism-ai-education-philosophy-2026]])
 
 ## Ethics in practice
 
@@ -106,6 +107,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[cost-of-ethics-crisis-cs-ethics-education]] — Cost-of-ethics crisis in the job searches of CS students
 - [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
 - [[xai-education-framework]] — Explainable AI in education (XAI-ED)
+- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[ai-tutor-safety-harms]] — AI tutor safety and pedagogical harms
 - [[ai-uk-higher-education-policy-2026]] — AI in UK higher education policy and institutional decision making
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of opportunities and challenges

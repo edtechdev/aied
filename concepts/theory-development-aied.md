@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [learning-theories, ai-education, limitations-in-aied-research, research-methods-aied]
 research_method: [literature review, research methods]
@@ -50,6 +50,8 @@ Other work extends existing theory into the AI context rather than founding new 
 
 A further framework contribution is [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi's AI×Ed typology]], which extends Kahn's (1977) original "three interactions" along two axes — the role of AI (applied tool vs. analogy to human intelligence) and the end user (researcher to learner) — to locate any AIED project. Beyond categorizing the field, it argues for reviving the "AI as an analogy to human intelligence" strand of theory and research, using computational and agent-based models of learning (e.g., their own computational model of the [[icap-framework|ICAP framework]]) to bridge contemporary [[learning-theories|learning theory]] and computational modeling — a methodological direction the field largely abandoned when it turned toward applied, data-driven work.
 
+**Comparative philosophy as a route to theoretical pluralism.** Xie (2026) models a different route to theory development: instead of theorizing AI in education from within one tradition, the paper stages a comparative dialogue in which each tradition "renders visible what the other obscures," explicitly declining to synthesize them into a single framework — an approach that treats theoretical pluralism as a methodological position rather than an unresolved disagreement. He argues non-Western traditions can do more than diversify debates; they can reshape the conceptual foundations of AIED theory, reconstructing Daoist "Dao nature" (道性), self-cultivation (修道) and the "Zhenren" (真人) as resources for rethinking [[agency|agency]], the epistemic aims of education and [[ethics|ethical]] action under AI-mediated conditions. He also states the limits plainly: the contribution is single-author, non-empirical, and warns that such translation requires contextualization to avoid romanticization and Orientalism.([[daoism-ai-education-philosophy-2026]])
+
 ## The theory-use problem in AIEd
 
 The field's theorizing is uneven. [[limitations-in-aied-research|Limitations in AIEd research]] documents that AIEd studies frequently use theory weakly or uncritically — a recurring methodological weakness alongside reproducibility and measurement gaps. Reviews find many AIEd papers apply theory superficially or not at all (e.g., [[llm-critical-thinking-teamwork-review|literature reviews]] noting few studies ground interventions in learning theory). This makes theory *development* — and theory *use* — a quality concern as much as a scholarly output, connecting to [[research-methods-aied|research methods]] and [[ai-ed-evaluation]].
@@ -97,3 +99,4 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
+- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education

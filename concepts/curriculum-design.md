@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-09-09T09:05:09-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [curriculum-design, learning-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
 discipline: [stem education]
@@ -39,6 +39,8 @@ Curriculum design addresses the *what* of education at the program level, comple
 **[[governance|Institutional]] frameworks** address curriculum change at scale. **[[finkelstein-principled-ai-education-2025]]** and **[[principled-ai-education]]** provide principles for integrating AI across educational programs. **[[ai-adoption-training-public-sector]]** examines barriers to AI curriculum adoption in public sector education.
 
 **Sequencing AI across the programme.** [[refrain-amplify-genai-curriculum-2026|Torres-Sahli et al.]] propose a "refrain, then amplify" framework that sequences generative AI at the programme level: withhold a generative tool while a capacity is forming, then restore it to amplify that capacity once the student can direct it and judge its returns. Governed by a forming-versus-offloading criterion (whether a stretch of work builds a capacity or merely passes it through the tool), the framework links curriculum design to [[cognitive-offloading]], [[self-regulated-learning]], and [[academic-integrity]], with hard-to-fake checkpoints at each refrain-to-amplify hinge.
+
+**Whole-course alignment when generative AI is permitted.** A 2026 redesign of an introductory nuclear and particle [[physics-education|physics]] course ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al.]]) integrated three activity types with distinct roles — lectures for concepts and notation, tutorials for standard analytic practice, and homework as an exploratory "[[research-methods-aied|research]]-shaped" component of unusually difficult, multi-method problems. The reported friction (an undeclared programming prerequisite, insufficient time to understand rather than merely obtain answers, and misalignment among lectures, tutorials, homework and examination) illustrates that permitting generative AI forces curriculum alignment work across the whole course rather than a change to one assignment type; their recommended structure keeps the AI-permitted exploratory work as bonus-bearing advanced tasks while the unaided written exam determines the grade.
 
 **Generating curriculum-aligned modelling tasks.** AI-powered platforms can address teachers' lack of time and resources for designing high-quality [[math-education|mathematical modelling]] tasks by generating curriculum-aligned problems and pedagogical recommendations grounded in design principles and [[rag|retrieval-augmented]] generation — an approach illustrated with direct variation in secondary school mathematics ([[ai-modelling-problem-generation-platform-2026]]).
 
@@ -107,3 +109,4 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modelling problems (ADDIE, RAG)
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
+- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills

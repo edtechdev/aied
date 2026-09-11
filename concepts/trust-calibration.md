@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-07T10:15:00-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [ai-literacy, cognitive-offloading, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
 audience: [learners]
@@ -42,10 +42,10 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 - **Overreliance and calibration as population processes (2026):** A complex-adaptive-system model of AI reliance shows that task difficulty and AI quality set a baseline for both overreliance and calibration regret, while network connectivity and social proof shape whether reliance cascades. This suggests calibration is not only an individual trait but is modulated by the social and informational environment ([[ai-overreliance-complex-adaptive-system-2026]]).
 - **Calibration as an explicit objective of ML education (2026):** [[icet-ml-education-trust-2026|ICE-T]] argues that appropriate reliance on AI is itself a taught outcome of [[machine-learning]] education. It integrates intermodal transfer (Bruner's enactive–iconic–symbolic modes), [[computational-thinking]] via the Use-Modify-Create progression, and explanatory thinking, giving learners the representational models and error-contextualization needed to calibrate trust and counter both [[cognitive-offloading|over-reliance]] and algorithm aversion — positioning ML instruction as a calibration intervention, not just skill training.
-- **[[discipline-specific-aied|Domain-specific]] explanations can support teachers' calibration (2025):** In a within-subject experiment with in-service [[chemistry-education|chemistry]] teachers using an AI recommendation tool, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found that explainability helped teachers calibrate trust indirectly by making system performance more *understandable*, and that domain-driven explanations in [[curriculum-design|curricular]] language raised learned trust and acceptance significantly more than data-driven feature-importance ones. Yet several teachers still said real classroom experience was needed before they would fully rely on the tool — underscoring that calibration is ultimately validated through [[situated-learning|situated]] use and practice, not conferred by explanation alone.
+- **[[discipline-specific-aied|Domain-specific]] explanations can support teachers' calibration (2025):** In a within-subject experiment with in-service [[chemistry-education|chemistry]] teachers using an AI recommendation tool, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found that [[explainable-ai|explainability]] helped teachers calibrate trust indirectly by making system performance more *understandable*, and that domain-driven explanations in [[curriculum-design|curricular]] language raised learned trust and acceptance significantly more than data-driven feature-importance ones. Yet several teachers still said real classroom experience was needed before they would fully rely on the tool — underscoring that calibration is ultimately validated through [[situated-learning|situated]] use and practice, not conferred by explanation alone.
+- **[[personalized-learning|Personalization]] does not move trust monotonically; expertise predicts auditing (2026):** In [[student-reception-genai-analogies-computing-2026|Bernstein & Sibia (2026)]], trust in [[generative-ai|GenAI]] explanations moved in no single direction under personalization: one participant reported trusting a tailored analogy more and scrutinizing it less, another reported trusting it less precisely because it was heavily personalized. What consistently predicted auditing was domain expertise, not relevance — supporting the view that calibrated reliance depends on knowledge the learner can bring to the check rather than on how relatable the output feels, and that expertise should be split into source-domain and target-domain knowledge.
 
-## Connected Conceptsnot conferred by explanation alone.
-- **Conditional trust: feedback utility vs. evaluative authority (2026):** [[who-should-grade-my-work-ai-writing-assessment-2026|AlGhamdi (2026)]] shows that when Saudi computing students know ChatGPT generated their writing score, they draw a sharp line between accepting AI feedback and ceding grading authority to AI — accepting the former for surface-level revision while consistently reserving evaluative authority for the human instructor. This "feedback utility / evaluative authority" distinction is a concrete case of calibration in the assessment context: students match trust to the *function* of the AI (useful feedback vs. consequential grading) rather than accepting or rejecting it wholesale, and transparency about AI involvement appears to activate this more calibrated, critical stance.
+- **Conditional trust: feedback utility vs. evaluative authority (2026):** [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] shows that when Saudi computing students know ChatGPT generated their writing score, they draw a sharp line between accepting [[ai-feedback-quality|AI feedback]] and ceding grading authority to AI — accepting the former for surface-level revision while consistently reserving evaluative authority for the human instructor. This "feedback utility / evaluative authority" distinction is a concrete case of calibration in the assessment context: students match trust to the *function* of the AI (useful feedback vs. consequential grading) rather than accepting or rejecting it wholesale, and transparency about AI involvement appears to activate this more calibrated, critical stance.
 
 ## Connected Concepts
 
@@ -61,7 +61,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[pedagogical-safety]]
 
 ## Connected Articles
-- [[who-should-grade-my-work-ai-writing-assessment-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
+- [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Six diagnostic criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
@@ -77,3 +77,4 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[xai-teachers-trust-edtech-recommendations-2026]]
+- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
