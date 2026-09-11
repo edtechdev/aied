@@ -1,7 +1,7 @@
 ---
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-09T02:58:00-04:00"
+updated: "2026-09-11T13:20:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design]
@@ -22,6 +22,8 @@ confidence: high
 - Consider a low-tech 'metaphor workshop' where faculty, staff, and students articulate whether AI feels like a Swiss army knife, a helper, a black box, or a competitor. Could surfacing fears (including the fear that AI will replace teaching roles) do more for adoption than more technical training?
 
 ## Introduction
+
+Educational development is the professional and institutional work through which faculty build the capability to design, teach and assess well — and in the AI era it has become a precondition for any pedagogical change to take effect. The concept spans the individual (AI literacy, confidence, [[teacher-ai-competency|competency]], attitudes) and the institutional (standards, policy, quality assurance, and alignment between stated AI expectations and actual assessment design). A recurring finding across this knowledge base is that the evidence for effective practice substantially leads what most institutions have implemented, which makes development work — not more primary research — the binding constraint.
 
 ## Educational development in the AI era
 

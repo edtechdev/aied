@@ -1,7 +1,7 @@
 ---
 title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-11T13:20:00-04:00"
 type: concept
 tags: ['learning-theories', 'cognitive-psychology', 'metacognition', 'knowledge-tracing', 'intelligent-tutoring', 'generative-ai']
 confidence: high
@@ -13,18 +13,20 @@ confidence: high
 
 - When you think about 'learning,' do you picture a change in what someone does, or a change in what they know and can retrieve? How might that distinction change how you judge whether an AI tutoring tool actually works?
 - AI tutoring is built on a 'computer metaphor' — treating the mind as an information-processing system with memory limits. Where does that metaphor feel powerful, and where might it miss something important about how humans learn?
-- An AI tool makes a task feel effortless: it explains the next step, reduces friction, and the learner performs beautifully while using it. Does that count as successful teaching? How would you know whether the learner can now do it without the tool?
+- An AI tool makes a task feel effortless: it explains the next step, reduces friction, and the learner performs beautifully while using it. Does that count as successful [[teacher-role|teaching]]? How would you know whether the learner can now do it without the tool?
 - Cognitive Load Theory distinguishes intrinsic, extraneous, and germane load. If you were designing an AI assistant, which type of load would you deliberately try to reduce, and which would you be careful NOT to remove?
 - If a learner knows they can offload memory and reasoning to an AI, when is that a smart strategy and when is it a shortcut that quietly prevents learning? What determines the difference?
 - Cognitivism assumes knowledge can be broken into components and tracked over time. What might get lost when we reduce a learner's understanding to a set of traceable knowledge components?
 
 ## Introduction
 
+Cognitive psychology is the learning-theory tradition that treats learning as a change in internal mental representations — concepts, schemas and procedures held in memory — rather than as a change in observable behaviour. Its information-processing vocabulary (attention, encoding, retrieval, bounded working memory) supplied both the diagnostic language for learning difficulty and the architecture behind [[intelligent-tutoring]] and [[knowledge-tracing]]: systems that infer a learner's internal state and adapt to it. It remains the reference frame for [[metacognition]], [[desirable-difficulties]] and [[self-regulated-learning]] across this knowledge base.
+
 ## Core ideas
 
 - **Learning is a change in internal mental representations.** Cognitivism holds that learning involves the acquisition, storage, and reorganization of knowledge in memory — concepts, schemas, and procedures — rather than just a change in observable response. What a learner *knows and can retrieve* matters, not just what they do.
 - **The information-processing (computer) metaphor.** The mind is treated as an information-processing system with capacities and bottlenecks — [[item-response-theory|measurement]] of latent ability, working-memory limits, encoding and retrieval — which is precisely the model that made AI tutoring (a computer program that models and adapts to learner cognition) a natural fit.
-- **Attention and memory are bounded.** Working memory has limited capacity; durable learning requires encoding into long-term memory through rehearsal, elaboration, and retrieval practice. This connects cognitivism to research on [[cognitive-offloading]] (delegating memory/processing to external tools) and to the "performance–learning gap" when AI bypasses retrieval and practice.
+- **Attention and memory are bounded.** Working memory has limited capacity; durable learning requires encoding into long-term memory through rehearsal, elaboration, and retrieval practice. This connects cognitivism to [[research-methods-aied|research]] on [[cognitive-offloading]] (delegating memory/processing to external tools) and to the "performance–learning gap" when AI bypasses retrieval and practice.
 - **Metacognition regulates cognition.** [[metacognition]] — monitoring and controlling one's own thinking — is a distinctly cognitivist construct, and it explains why learners' calibration of when to rely on AI matters for learning (see [[cognitive-offloading]] and [[self-regulated-learning]]).
 - **Knowledge is decomposable and traceable.** Cognitivist AIED assumes learner knowledge can be represented as components and tracked over time — the foundation of [[knowledge-tracing]], [[cognitive-diagnosis]], and [[item-response-theory]].
 

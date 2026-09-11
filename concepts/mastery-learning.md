@@ -5,7 +5,7 @@ tags: [mastery-learning, personalized-learning, adaptive-learning, assessment]
 category: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-11T13:20:00-04:00"
 ---
 
 > **Mastery learning** — a [[pedagogy|pedagogical]] framework, formalized by Benjamin Bloom, in which learners advance only after demonstrating a defined threshold of competence on each unit, rather than moving on a fixed class schedule. It rests on the premise that most students can reach mastery given sufficient time, feedback, and instruction tailored to their current state. AI tutoring and adaptive systems are increasingly operationalizing this model by continuously modeling learner knowledge, selecting tasks, and sustaining practice until competence is demonstrated.
@@ -19,6 +19,8 @@ updated: "2026-09-03T15:00:00-04:00"
 - If an AI declares you have 'mastered' a topic, what would you want it to check before you believe it — beyond getting a few answers right?
 
 ## Introduction
+
+Mastery learning holds that achievement should be held constant while time and support vary: learners work through small, well-sequenced units and receive corrective feedback until they meet a mastery criterion, instead of being moved on regardless of what they have learned. Bloom's reframing makes frequent [[formative-assessment]] and an explicit definition of competence central to instruction, and it is exactly that combination — diagnosis, feedback, adaptive pacing — that [[adaptive-learning]] and [[intelligent-tutoring]] automate. AI therefore widens the feasibility of mastery approaches and sharpens the question of whether generated feedback is calibrated well enough to certify it.
 
 ## Origins and Core Idea
 
@@ -38,7 +40,7 @@ Mastery also depends on durable retention, not merely a single correct performan
 
 Finally, the evidence warns against assuming AI-generated support is uniformly beneficial. In a multi-[[governance|institutional]] study of AI-generated animated traces for novice programmers, benefits were context-dependent and short-term, and mid-[[student-engagement|engagement]] learners experienced a performance decrement attributed to coordination costs — an expertise-reversal-style effect that underscores the need to personalize support to the learner's current state rather than blanket-apply a tool. Likewise, a developmental continuum of [[ai-literacy|AI literacy]] in [[higher-ed|higher education]] positions mastery as not merely adopting AI tools fluently but progressing through stages of informed and critical use, each with its own [[formative-assessment]] strategies. Together these findings frame AI-enabled mastery learning as a system that must be calibrated to individual learners, sustainably spaced, and assessed for genuine competence rather than fluent output.
 
-Standards-based grading is the assessment counterpart to mastery learning, and [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] identify it among five innovative practices aligned with "assessment for learning" that higher-education educators could adopt — but they find it virtually absent from management-education discourse. They attribute this to normative barriers: norm-referenced "grading on a curve," external signaling (rankings, internships, accreditation), and students' instrumental mindset all resist mastery-oriented, gradeless approaches. Their recommendation is incremental experimentation — for example, introducing standards-based rubrics for a single task before scaling — supported by program-level coordination and documented Scholarship of Teaching and Learning evidence.
+Standards-based grading is the assessment counterpart to mastery learning, and [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] identify it among five innovative practices aligned with "assessment for learning" that higher-education educators could adopt — but they find it virtually absent from management-education discourse. They attribute this to normative barriers: norm-referenced "grading on a curve," external signaling (rankings, internships, accreditation), and students' instrumental mindset all resist mastery-oriented, gradeless approaches. Their recommendation is incremental experimentation — for example, introducing standards-based rubrics for a single task before scaling — supported by program-level coordination and documented Scholarship of [[teacher-role|Teaching]] and Learning evidence.
 
 ## Connected Concepts
 
