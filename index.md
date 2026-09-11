@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-11
 
-Articles: 1132 | Concepts: 189 | FAQs: 17
+Articles: 1133 | Concepts: 189 | FAQs: 17
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -651,6 +651,7 @@ Articles: 1132 | Concepts: 189 | FAQs: 17
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA Framework for Metacognitively Regulated GenAI Use in Higher Education: Development and Exploratory Pilot Evidence
 - [[ikram-ai-personalized-learning-review-2026]] — Artificial Intelligence in Education: A Systematic Review of Personalized Learning Trends and Future Directions
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems
+- [[ilieva-agentic-genai-higher-education-2026]] — Agentic Generative AI in Higher Education: Perceived Benefits, Risks, and Implications for Learning
 - [[inclusive-learning]] — Inclusive Learning
 - [[informal-learning-everyday-human-llm-interaction]] — Informal Learning Emerges in Everyday Human-LLM Interaction
 - [[inquiry-based-learning]] — Inquiry-Based Learning
