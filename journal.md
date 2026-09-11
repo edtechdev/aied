@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-11 | Total entries: 1321
+Last updated: 2026-09-11 | Total entries: 1322
 
 ## 2026-09-11
+- 📄 [[ilieva-agentic-genai-higher-education-2026]] — Agentic Generative AI in Higher Education: Perceived Benefits, Risks, and Implications for Learning
 - 📄 [[wang-teacher-student-centered-agents-physics-2026]] — Comparing teacher-centered and student-centered agents based on prompt engineering: Effects on learning performance, cognitive load, flow experience, and empathy perception in physics learning
 
 ## 2026-09-10
