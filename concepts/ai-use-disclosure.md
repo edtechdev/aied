@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-11T13:20:00-04:00"
 type: concept
 tags: [ai-use-disclosure, academic-integrity, ethics, trust, generative-ai, higher-ed, assessment, educational-policy-ai]
 level: [higher ed]
@@ -21,6 +21,8 @@ confidence: high
 - Disclosure norms vary by discipline, language background, and context — with equity implications when some students are more likely to be penalized for concealing than others. If you were designing a disclosure policy, how would you prevent it from placing an uneven burden on already-marginalized learners?
 
 ## Introduction
+
+AI use and disclosure statements are the declarations through which students report whether and how they used generative AI in an assignment — from a checkbox on a coversheet to structured formats recording the model, the input, the purpose, and how the output was evaluated. Systems differ in kind as well as detail: some operate as mandatory compliance mechanisms with penalties for non-disclosure, others as [[formative-assessment|formative]] practices that treat disclosure as an instrument for developing [[ai-literacy]], transparency and ethical judgement. The design question that decides which they become is whether disclosure is used to catch or to teach, which places the concept squarely inside [[academic-integrity]] and [[educational-policy-ai]].
 
 ## What AI use disclosure statements are
 
