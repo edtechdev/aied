@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-09-10T16:14:00-04:00"
+updated: "2026-09-11T00:52:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [intelligent-tutoring, llm, student-ai-interaction, scaffolding, higher-ed, generative-ai, student-experience, k-12, stem-education, personalized-learning]
