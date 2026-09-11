@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-11T11:52:00-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education]
@@ -56,6 +56,8 @@ Assessment validity connects to [[authentic-assessment]], [[automated-assessment
 
 AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption-transformation-2026|Hathcoat, Slotnick & Miller (2026)]] argue that when LLMs serve as test-takers, test-makers, raters, and analysts, the interpretive chain becomes opaque and the object of measurement loses definition — reframing validity as requiring AI-fluent "cyborg" judgment, and [[can-ai-evaluate-assessment-llm-meta-assessment-2026|Green et al. (2026)]] show AI scores can align with human raters (87% checklist) while the underlying rationale diverges, especially on measurement quality and weak reports.
 
+**When AI generates the assessable artefact.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong (2026)]] give the validity problem its sharpest disciplinary case: in computing education the AI produces the artefact being graded — the source code — so tool use, learning and assessment fuse into a single interaction, and a submitted codebase no longer separates learning from delegation. Across 72 studies they find efficiency gains that do not transfer to unaided performance (21 studies), [[prior-knowledge|prior knowledge]] moderating whether AI help becomes skill (6 studies), and detection research effectively absent from the evidence base (3 studies) while assessment redesign is comparatively well evidenced (25 studies). Their conclusion for practice is construct-specific and low-tech: add an oral component or other process-visible element to at least one high-stakes assessment per course — the single highest-leverage intervention in the review — and require critical [[student-engagement|engagement]] with AI output as a graded, observable component rather than an optional disposition ([[academic-integrity]], [[assessment]]).
+
 ## Validity under imperfect information
 
 The sharpest recent reframing treats the generative AI problem as an evidentiary one. The student knows how a piece of work was produced; the institution observes the artefact and, at best, partial traces of the process — a product–process gap that [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] formalise as assessment validity under imperfect information. On this account the question is not whether a rule was broken but whether the assessment still generates credible evidence of student reasoning, effort, and judgement, and each [[governance|institutional]] mechanism — prohibition, monitoring, disclosure, redesign — is evaluated by which student response it makes most attractive. The validity lens also dissolves a false separation: integrity and validity are the same problem seen from different ends, because a finding of misconduct is itself a validity claim about what the work evidences.
@@ -77,6 +79,7 @@ The sharpest recent reframing treats the generative AI problem as an evidentiary
 - [[feedback]]
 
 ## Connected Articles
+- [[kumar-genai-computing-education-systematic-review-2026]] — When AI generates the graded artefact: computing education's validity problem and redesign evidence
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Take-home exams: assess the qualitative phase, move recall in-class (Brunnström & Palmqvist 2026)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
 - [[varia-construct-equivalent-assessment-variant-generation-2026]] — Construct-equivalent assessment variant generation (Lee 2026)

@@ -1,7 +1,7 @@
 ---
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-11T11:50:00-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, cs-education]
 discipline: [stem education]
@@ -85,6 +85,8 @@ Because programming is where AI assistance is most powerful, it is also where th
 
 CS education connects to [[computational-thinking]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where [[ai-education|AIED]] tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
 
+**A 72-study synthesis and the VIE framework.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong (2026)]] reviewed the empirical literature on generative AI in computing and programming education (January 2022 – April 2026, 72 studies, 33 venues) and foreground exactly the structural feature that makes the discipline distinctive: the AI generates the assessable artefact itself, so using the tool, learning the skill and being assessed collapse into one keystroke. Their synthesis of 14 themes finds the field's most replicated effect — short-term efficiency and completion gains (36 studies) — is also its most misleading: those gains do not transfer to unaided performance (21 studies), and [[prior-knowledge|prior knowledge]] moderates whether assistance becomes durable skill or a crutch. Detection research is thin (3 studies) while course redesign is comparatively well evidenced (25 studies), and the review consolidates the corpus into three interdependent design requirements — Verification, Implementation and Equity — where critical engagement with AI output must be a graded, observable component of student work rather than an aspiration left to student discretion ([[scaffolding]], [[assessment-validity]]).
+
 ## Implications for computing instructors
 
 - **Design assessments AI cannot coast through.** Exploit GenAI's recurring failure patterns (interfaces, abstract classes, inheritance, image-based tasks) instead of banning tools outright — [[genai-oop-programming-assessments-2026|GenAI systems still struggle there]].
@@ -117,6 +119,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[teacher-education]]
 
 ## Connected Articles
+- [[kumar-genai-computing-education-systematic-review-2026]] — Systematic review of 72 studies: efficiency gains that do not transfer, and the VIE framework
 - [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
  [[tutortrace-learner-behavioral-states-2026]]
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering

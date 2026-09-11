@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-11T11:56:00-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 discipline: [language learning]
@@ -51,6 +51,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 
 - **The interaction-management gap.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]] reach an ambivalent conclusion about GenAI as a leveller: because productive use requires recognising an over-abstract answer, requesting simplification, and structuring a session around small goals, unguided GenAI "may be most beneficial to already advantaged students" — those with strong study habits and confidence in directing an AI — while students with weaker study skills or lower academic [[self-efficacy]] meet added complexity and frustration. Rather than substituting for missing academic conversation partners, the tool introduces a new competence whose acquisition creates its own gap; the authors conclude the responsibility for teaching it cannot rest with the student alone ([[ai-literacy]], [[self-regulated-learning]]).
 
+- **Skill-gap and resource-gap mechanisms are not the same problem.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong (2026)]] separate two mechanisms their [[meta-analysis-systematic-review|systematic review]] of 72 computing-education studies found the literature tends to conflate. The **skill gap** operates within a single classroom: students with stronger [[prior-knowledge|prior knowledge]] convert AI assistance into durable skill while struggling students use it as a crutch that removes [[desirable-difficulties|productive struggle]], widening the competence distribution by semester's end — addressed by graduated access tied to demonstrated competence. The **resource gap** operates across institutions and national contexts: reliable internet and paid API subscriptions sustain more capable tool use than students without them — addressed by institutional investment in shared tool access and policies that do not assume universal availability. Equity is the thinnest of the review's three framework requirements (six studies), and the authors read that thinness as the finding: the absence of equity-focused intervention research is itself the equity problem ([[assessment-validity]], [[scaffolding]]).
 ## Linguistic, cultural, and disability inclusion
 
 - **Language:** Most AI tools prioritize English, marginalizing [[multilingual-learning|multilingual]] learners. [[genai-linguistic-diversity-academic-writing|Linguistic diversity in academic writing]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages]], and [[language-learning]] research address this.
@@ -93,6 +94,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[kumar-genai-computing-education-systematic-review-2026]] — Skill-gap vs resource-gap: two equity mechanisms requiring different remedies
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Unguided GenAI may widen gaps: the interaction-management competence (Brunnström & Palmqvist 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
 - [[du-yuan-epistemic-dependence-2026]] — Epistemic plurality and justice in AI-mediated learning (Du & Yuan 2026)

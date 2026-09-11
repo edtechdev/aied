@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 189 concepts, 1140 articles, and 17 FAQs.
+> Complete text of 189 concepts, 1141 articles, and 17 FAQs.
 
 # Concepts
 
@@ -1236,6 +1236,8 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - **AI humanizers expose the performative cycle of detection.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] catalog 55 AI-humanizer websites that alter AI-generated text to evade detection, framed through Goffman's dramaturgy. Humanizers make misconduct discursively absent and perform legitimacy, demonstrating that the detection-vs-circumvention arms race is structurally unending — reinforcing the shift from [[ai-detection|policing]] to assessment design and [[ai-literacy]].
 - **Ghost students and the agentic-AI verification gap.** [[bozkurt-ghost-students-agentic-ai-2026|Bozkurt, Crompton & Fell Kurban (2026)]] introduce the **"ghost student"**: a digital surrogate created by coupling LLMs (the "mind") with agentic AI browsers (the "body") that can navigate LMS, engage content, and complete assessments with human-like mimicry, making the actual learner's presence optional. This creates a **verification gap** that traditional proctoring and detection are structurally unable to close — an integrity threat that grows as AI becomes [[agentic-ai|agentic]] rather than merely generative.
 
+The clearest disciplinary case for redesign over detection comes from computing education. A [[meta-analysis-systematic-review|systematic review]] of 72 studies of generative AI in computing and [[cs-education|programming education]] ([[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong 2026]]) found only **three** studies examining AI-detection mechanisms — the thinnest evidence base of the 14 themes it consolidated — while course and assessment redesign was supported by 25. The review treats the imbalance as diagnostic rather than incidental: institutions have largely updated policy documents without redesigning assessments, and most instructors sit at a *tolerance* rather than *transformation* level of integration, with 70% of one national faculty sample explicitly requesting training on AI-resistant assessment design. Its recommended response is concrete: add an oral component or other process-visible element to at least one high-stakes assessment per course, and make critical engagement with AI output (reading, testing, modifying, explaining, critiquing) a graded, observable component of student work rather than an aspiration left to student discretion ([[assessment-validity]]).
+
 ## Connected Concepts
 - [[ai-use-disclosure]] — AI use and disclosure statements
 
@@ -1257,6 +1259,7 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[k-12]]
 
 ## Connected Articles
+- [[kumar-genai-computing-education-systematic-review-2026]] — Detection evidence is thin (3 studies of 72); redesign carries the weight
 - [[mccorkle-aligned-genai-course-policy-2025]] — Aligned GenAI course policy: assessment-derived permissions, transparent rationale (McCorkle 2025)
 - [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)
 - [[varia-construct-equivalent-assessment-variant-generation-2026]] — Construct-equivalent assessment variant generation (Lee 2026)
@@ -3915,6 +3918,8 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 
 - **AI that scaffolds productive struggle.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles (non-directive support, reflective design, [[human-in-the-loop-ai|human-in-the-loop]]) that keep scaffolding in the productive-struggle zone rather than collapsing to answer-giving; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show [[llm]] tutors can be steered to give help only when strictly necessary — scaffolding that preserves the learner's own effort.
 
+**Scaffold withdrawal as the enforcement mechanism for verification.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong (2026)]] synthesise 72 computing-education studies and locate scaffold withdrawal, alongside guardrail tools and [[self-regulated-learning|self-regulated learning]] designs, as one of three ways courses enforce critical engagement with AI output — structurally (constraining what the tool returns), procedurally (reflection logs, self-testing) and temporally (progressively restoring conditions under which independent reasoning is required). Their evidence is that efficiency gains under AI assistance do not transfer to unaided performance, and that the failure mode — the *pseudo-apprenticeship* pattern, where students watch AI generate code without performing the task — is exactly modelling without whole-task practice. Graduated access therefore functions as a fading schedule for a powerful new form of support, and the review grounds it in 4C/ID: assistance helps only when the learner already has enough schema to engage critically with it (the zone of proximal development, [[cognitive-offloading]]).
+
 ## Rule-Guided vs. Ad-Hoc Scaffolding
 
 - **Rule-guided vs. ad-hoc scaffolding.** Looi, Liu, and Sun (2026) formalize a distinction central to scaffolding design: **rule-guided scaffolding**, in which tutoring is governed by an auditable three-layer architecture (diagnosis → intent selection → constrained response generation), versus **ad-hoc scaffolding**, where helpful moves are difficult to audit and replicate. Their primary-school math study showed rule-guided scaffolding improves interactional consistency, reduces premature answer-giving and early closure, and sustains cognitive [[student-engagement|engagement]] — evidence that explicitness and auditability of scaffold moves matter for both consistency and learning in procedural domains.
@@ -3936,6 +3941,7 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[kumar-genai-computing-education-systematic-review-2026]] — Scaffold withdrawal as the mechanism enforcing verification (VIE framework)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Entropy-timed AI comments as in-video knowledge and emotional scaffolding (Wang, Du & Jin 2026)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
@@ -10573,6 +10579,8 @@ Because programming is where AI assistance is most powerful, it is also where th
 
 CS education connects to [[computational-thinking]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where [[ai-education|AIED]] tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
 
+**A 72-study synthesis and the VIE framework.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong (2026)]] reviewed the empirical literature on generative AI in computing and programming education (January 2022 – April 2026, 72 studies, 33 venues) and foreground exactly the structural feature that makes the discipline distinctive: the AI generates the assessable artefact itself, so using the tool, learning the skill and being assessed collapse into one keystroke. Their synthesis of 14 themes finds the field's most replicated effect — short-term efficiency and completion gains (36 studies) — is also its most misleading: those gains do not transfer to unaided performance (21 studies), and [[prior-knowledge|prior knowledge]] moderates whether assistance becomes durable skill or a crutch. Detection research is thin (3 studies) while course redesign is comparatively well evidenced (25 studies), and the review consolidates the corpus into three interdependent design requirements — Verification, Implementation and Equity — where critical engagement with AI output must be a graded, observable component of student work rather than an aspiration left to student discretion ([[scaffolding]], [[assessment-validity]]).
+
 ## Implications for computing instructors
 
 - **Design assessments AI cannot coast through.** Exploit GenAI's recurring failure patterns (interfaces, abstract classes, inheritance, image-based tasks) instead of banning tools outright — [[genai-oop-programming-assessments-2026|GenAI systems still struggle there]].
@@ -10605,6 +10613,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[teacher-education]]
 
 ## Connected Articles
+- [[kumar-genai-computing-education-systematic-review-2026]] — Systematic review of 72 studies: efficiency gains that do not transfer, and the VIE framework
 - [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
  [[tutortrace-learner-behavioral-states-2026]]
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
@@ -13629,6 +13638,8 @@ Assessment validity connects to [[authentic-assessment]], [[automated-assessment
 
 AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption-transformation-2026|Hathcoat, Slotnick & Miller (2026)]] argue that when LLMs serve as test-takers, test-makers, raters, and analysts, the interpretive chain becomes opaque and the object of measurement loses definition — reframing validity as requiring AI-fluent "cyborg" judgment, and [[can-ai-evaluate-assessment-llm-meta-assessment-2026|Green et al. (2026)]] show AI scores can align with human raters (87% checklist) while the underlying rationale diverges, especially on measurement quality and weak reports.
 
+**When AI generates the assessable artefact.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong (2026)]] give the validity problem its sharpest disciplinary case: in computing education the AI produces the artefact being graded — the source code — so tool use, learning and assessment fuse into a single interaction, and a submitted codebase no longer separates learning from delegation. Across 72 studies they find efficiency gains that do not transfer to unaided performance (21 studies), [[prior-knowledge|prior knowledge]] moderating whether AI help becomes skill (6 studies), and detection research effectively absent from the evidence base (3 studies) while assessment redesign is comparatively well evidenced (25 studies). Their conclusion for practice is construct-specific and low-tech: add an oral component or other process-visible element to at least one high-stakes assessment per course — the single highest-leverage intervention in the review — and require critical [[student-engagement|engagement]] with AI output as a graded, observable component rather than an optional disposition ([[academic-integrity]], [[assessment]]).
+
 ## Validity under imperfect information
 
 The sharpest recent reframing treats the generative AI problem as an evidentiary one. The student knows how a piece of work was produced; the institution observes the artefact and, at best, partial traces of the process — a product–process gap that [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] formalise as assessment validity under imperfect information. On this account the question is not whether a rule was broken but whether the assessment still generates credible evidence of student reasoning, effort, and judgement, and each [[governance|institutional]] mechanism — prohibition, monitoring, disclosure, redesign — is evaluated by which student response it makes most attractive. The validity lens also dissolves a false separation: integrity and validity are the same problem seen from different ends, because a finding of misconduct is itself a validity claim about what the work evidences.
@@ -13650,6 +13661,7 @@ The sharpest recent reframing treats the generative AI problem as an evidentiary
 - [[feedback]]
 
 ## Connected Articles
+- [[kumar-genai-computing-education-systematic-review-2026]] — When AI generates the graded artefact: computing education's validity problem and redesign evidence
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Take-home exams: assess the qualitative phase, move recall in-class (Brunnström & Palmqvist 2026)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
 - [[varia-construct-equivalent-assessment-variant-generation-2026]] — Construct-equivalent assessment variant generation (Lee 2026)
@@ -16969,6 +16981,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 
 - **The interaction-management gap.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]] reach an ambivalent conclusion about GenAI as a leveller: because productive use requires recognising an over-abstract answer, requesting simplification, and structuring a session around small goals, unguided GenAI "may be most beneficial to already advantaged students" — those with strong study habits and confidence in directing an AI — while students with weaker study skills or lower academic [[self-efficacy]] meet added complexity and frustration. Rather than substituting for missing academic conversation partners, the tool introduces a new competence whose acquisition creates its own gap; the authors conclude the responsibility for teaching it cannot rest with the student alone ([[ai-literacy]], [[self-regulated-learning]]).
 
+- **Skill-gap and resource-gap mechanisms are not the same problem.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong (2026)]] separate two mechanisms their [[meta-analysis-systematic-review|systematic review]] of 72 computing-education studies found the literature tends to conflate. The **skill gap** operates within a single classroom: students with stronger [[prior-knowledge|prior knowledge]] convert AI assistance into durable skill while struggling students use it as a crutch that removes [[desirable-difficulties|productive struggle]], widening the competence distribution by semester's end — addressed by graduated access tied to demonstrated competence. The **resource gap** operates across institutions and national contexts: reliable internet and paid API subscriptions sustain more capable tool use than students without them — addressed by institutional investment in shared tool access and policies that do not assume universal availability. Equity is the thinnest of the review's three framework requirements (six studies), and the authors read that thinness as the finding: the absence of equity-focused intervention research is itself the equity problem ([[assessment-validity]], [[scaffolding]]).
 ## Linguistic, cultural, and disability inclusion
 
 - **Language:** Most AI tools prioritize English, marginalizing [[multilingual-learning|multilingual]] learners. [[genai-linguistic-diversity-academic-writing|Linguistic diversity in academic writing]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages]], and [[language-learning]] research address this.
@@ -17011,6 +17024,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[kumar-genai-computing-education-systematic-review-2026]] — Skill-gap vs resource-gap: two equity mechanisms requiring different remedies
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Unguided GenAI may widen gaps: the interaction-management competence (Brunnström & Palmqvist 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
 - [[du-yuan-epistemic-dependence-2026]] — Epistemic plurality and justice in AI-mediated learning (Du & Yuan 2026)
@@ -51134,6 +51148,115 @@ Kostopoulos, G., Gkamas, V., Rigou, M., & Kotsiantis, S. (2025). [*Agentic AI in
 ## Citation
 
 Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang, Yang Zhang (2026). [KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing](https://arxiv.org/abs/2605.23933). arXiv preprint.
+
+---
+
+## [Generative AI in computing education: A systematic review and a framework for responsible integration](https://edtechdev.github.io/aied/articles/kumar-genai-computing-education-systematic-review-2026/)
+
+> **Synthesis:** Kumar, Wongsirichot and Nanthaamornphong (2026) synthesise **72 peer-reviewed empirical studies** from **33 venues** (January 2022 – April 2026) on [[generative-ai|generative AI]] in [[cs-education|computing education]] across four questions — effects on learning, [[cognitive-offloading|over-reliance]], assessment and integrity, and [[pedagogy]] — and consolidate them into 14 themes. The most robustly replicated finding is also the most misleading: GenAI reliably raises short-term completion and reduces time-on-task (36 studies, strongest evidence in the corpus), yet those efficiency gains "do not transfer to independent performance" (21 studies) — students complete more while understanding less unless critical [[student-engagement|engagement]] with the output is structurally required. Benefit also depends on [[prior-knowledge|prior knowledge]], with well-prepared students converting AI help into durable skill while under-prepared students risk using it as a crutch. The review's integrative contribution is the **VIE Framework** — Verification, Implementation, and Equity — three interdependent design requirements, each with documented failure modes when treated in isolation.
+
+## Overview
+
+The review argues that computing education is a structurally distinctive setting for GenAI, and that this distinction grounds the whole analysis. In most disciplines AI assistance is mediated by a separate artefact — a history student still has to write the essay, a [[math-education|mathematics]] student still has to work a fresh problem. In computing, the AI generates the assessable artefact itself: the source code. Tool use, learning, and assessment therefore collapse into a single keystroke, since "the act of using the tool, the act of learning, and the act of being assessed are not sequential phases of study but a single, fused activity." Three consequences follow: instructors cannot infer skill acquisition from the submitted artefact, students themselves often cannot tell when they are practising a skill versus outsourcing it, and code-based assessments can no longer distinguish learning from delegation.
+
+The authors also note the scale and speed of adoption — surveys from 2023–2024 found 60–80% of computing students using at least one GenAI tool in coursework, typically without explicit instructor sanction — and locate the gap their review fills: no prior review covered effects, over-reliance, integrity, and pedagogy jointly, even though practitioners face them simultaneously and the dimensions interact.
+
+## Method
+
+The review follows Kitchenham and Charters (2007) guidelines with Wohlin's (2014) snowballing procedure and reports against PRISMA 2020. Scope: formal computing and programming education, primarily [[higher-ed|higher education]] (introductory through advanced), restricted to peer-reviewed empirical studies published January 2022 – April 2026. The corpus contains 72 studies spanning 2022 (3), 2023 (26), 2024 (29), 2025 (13) and 2026 (1), drawn from 33 venues, with two-thirds of studies appearing in A* or A-tier CORE venues. Methodologically it spans controlled and quasi-experiments (23), surveys (14), [[mixed-methods-research|mixed methods]] (9), tool evaluations (7), case studies (6), observation (4), design science (2) and interviews (2).
+
+Two distributional features matter for interpreting the findings. First, courses covered are predominantly introductory/CS1 (30) or mixed-level (34), with few intermediate (5) or advanced (3). Second, evidence is concentrated in North America (21), Northern Europe (12) and Australasia (10), with international/unspecified (16), Asia (7) and other (6) contexts behind — a skew the authors treat as both a [[equity-in-ai-education|limitation and an equity finding]]. Tool coverage centres on ChatGPT/GPT-3.5/GPT-4 (33), GitHub Copilot (12) and Codex (9), with 30 studies examining multiple tools.
+
+## Findings
+
+### Effects on learning and skill (RQ1)
+
+- **Short-term efficiency gains are the corpus's most robust result (36 studies, strong).** GenAI raises task completion and reduces time-on-task across tools, levels and continents: Codex access doubled correctly completed tasks in a supervised session (Kazemitabaar et al. 2023), Copilot improved completion and time-to-completion on brownfield tasks (Shihab et al. 2025), and an Argentinian CS1 cohort showed reduced NASA-TLX workload and higher [[self-efficacy]] alongside better performance (Gardella et al. 2024). Not a single study documents a negative effect on immediate task performance when AI is available.
+- **Those gains do not transfer (21 studies, strong).** The comprehension–completion trade-off is the review's central warning: Codex-assisted students completed twice as many tasks during learning yet performed no better than controls on post-tests without AI. Benefits also shrink for tasks requiring complex algorithmic design or multi-component architecture, compared with isolated single-function exercises.
+- **Prior knowledge moderates everything (6 studies, moderate).** Well-prepared students convert AI assistance into durable skill; under-prepared students risk a crutch that removes productive struggle.
+- **Capability evidence and assessment vulnerability are the same evidence base.** The review merges the AI-[[benchmark]] and assessment-vulnerability themes (T-A, 13 studies) because the same studies demonstrate both what the tools can do and what that implies for [[assessment-validity|assessment validity]].
+
+### Over-reliance (RQ2)
+
+The consolidated theme (T-B, 24 studies) joins behavioural taxonomies of passive AI use with their psychological predictors. Two patterns recur: **passive acceptance** of first suggestions, and the **pseudo-apprenticeship** pattern (Hak et al. 2025), in which students watch AI generate code without ever performing the task themselves — the long-recognised failure of modelling without whole-task practice. Strategic-use interventions and AI-literacy curricula (T-C, 26 studies) merge here because they target the same mechanism.
+
+### Assessment and integrity (RQ3)
+
+- **Detection is the thinnest area in the review (3 studies).** [[ai-detection]] mechanisms are substantially under-investigated relative to their prominence in [[governance|institutional]] debate, and the review's overall posture favours redesign over detection.
+- **[[educational-policy-ai|Institutional policy]] has moved faster than practice.** Most instructors operate at a *tolerance* rather than *transformation* level of integration; most institutions have updated policy documents without redesigning assessments; a majority of faculty report no structured [[educational-development|professional development]], with 70% of one national sample explicitly requesting training on AI-resistant assessment design.
+- **Redesign is feasible and highest-leverage.** Oral defence and iterative [[eportfolio|portfolio]] templates were rated implementable by faculty in workshops, and the review singles out adding an oral or process-visible element to at least one high-stakes assessment per course as the single most effective intervention.
+
+### Pedagogy (RQ4)
+
+- **Graduated access.** Avouris et al. (2025) structured an introductory Greek programming course into AI-free foundations (weeks 1–5), guided Copilot use with mandatory code-explanation tasks (weeks 6–9), and reflective AI critique (weeks 10–14), reporting substantially lower passive-acceptance rates than courses granting unrestricted access from week one.
+- **[[ai-literacy|AI literacy]] must be taught, not assumed.** A single explicit prompt-engineering session (n = 54) significantly raised correct solution rates and produced iterative, verification-oriented behaviour rather than first-suggestion acceptance.
+- **Error analysis is a distinct competence.** Students performed significantly *worse* on correcting [[llm]]-generated code than on traditional programming exam tasks — evidence that evaluating and repairing AI output does not transfer automatically from general programming skill, and that without instruction students risk resubmitting incorrect code uncritically.
+- **Course redesign has the second-strongest evidence base (25 studies)** after productivity gains, suggesting the field has moved from documenting effects to proposing structured responses.
+
+## The VIE Framework
+
+The review's integrative contribution names three interdependent requirements for responsible integration, each grounded in evidence spanning [[research-methods-aied|research]] questions:
+
+- **Verification** — the family of activities through which students critically engage AI output: reading, testing, modifying, explaining, critiquing. It is "the common mechanism linking every effective intervention in the corpus": guardrail tools enforce it structurally by constraining output, [[self-regulated-learning|self-regulated learning]] designs enforce it procedurally through reflection logs and self-testing, and [[scaffolding|scaffold]] withdrawal enforces it temporally by restoring conditions requiring independent reasoning. It is satisfied when critical engagement is a **graded, observable component** of student work, not an aspiration left to discretion.
+- **Implementation** — a coordinated institutional response across faculty development, policy clarity, and assessment redesign. This is the framework's systemic claim: the pedagogy evidence substantially leads what institutions have implemented, and partial implementation (AI literacy in one course, no assessment redesign elsewhere) produces an incoherent regime that the evidence suggests reproduces rather than reduces over-reliance. Closing this gap is "a distinct investment in institutional capacity", not more primary research.
+- **Equity** — two mechanisms the literature tends to conflate: a **skill-gap** mechanism (high-prior-knowledge students convert assistance into durable gains while struggling students substitute AI for productive struggle, widening competence within one classroom) and a **resource-gap** mechanism (reliable internet and paid API access sustaining more capable tool use across institutions and national contexts). The remedies differ: graduated access tied to demonstrated competence for the first, institutional investment in shared tool access and non-assuming policies for the second. Equity is the thinnest of the three (six studies directly engage it), and the authors treat that thinness as itself a finding — "the absence of equity-focused intervention research is the equity problem."
+
+The requirements are presented as bidirectional: verification practices fail without implementation capacity; implementation fails without equity-aware design; equity-aware design is impossible without verification practices that work for under-prepared learners.
+
+## Theoretical grounding
+
+The authors connect the requirements to three instructional-design traditions, answering the recurrent criticism that GenAI course-design proposals are under-theorised. **4C/ID** (van Merriënboer and Kirschner) grounds Verification and graduated access most directly: graduated AI access is a fading schedule applied to a powerful new form of support, and scaffold withdrawal is precisely the diminishing-support principle the model predicts is necessary for transfer — while the pseudo-apprenticeship pattern is the long-recognised limitation of modelling without whole-task practice. The **[[desirable-difficulties]]** framework (Bjork and Bjork) and the **[[sociocultural-learning|zone of proximal development]]** (Vygotsky) explain the prior-knowledge moderation: AI assistance helps only when the learner already has enough schema to engage critically with the output.
+
+## Implications for practice
+
+1. **Introduce GenAI gradually and only after foundational competence is demonstrated.** The evidence from the comprehension–completion trade-off, prior-knowledge moderation, and graduated access is strong enough that the authors recommend this as a default rather than an experiment.
+2. **Teach AI literacy explicitly** — [[prompt-engineering|prompt engineering]], output verification, and AI error analysis are teachable skills that do not develop through exposure alone.
+3. **Redesign at least one high-stakes assessment per course** to include an oral component or other process-visible element — described as the highest-leverage single intervention, supported both by the vulnerability evidence and by the demonstrated feasibility of oral and authentic strategies.
+
+The review also notes that generative AI in computing education sits at the centre of a broader [[student-ai-interaction|human–AI interaction]] research agenda: how students learn alongside tools that perform the very tasks they are being taught to do, what [[assessment-validity|assessment validity]] means when AI systems pass the same examinations as students, and which redesigns preserve learning when the tools are simultaneously instrument, tutor and threat.
+
+## Limitations
+
+A single reflective synthesis carries two kinds of caveat here. The corpus skews toward introductory courses, English-instruction contexts, and North America, Northern Europe and Australasia, limiting generalisation to advanced courses and the [[global-south|global South]]; detection research is thin (3 studies) and equity research thinner (6) — the review's own framing is that these absences are findings, but they also bound what the framework can claim. Methodologically the synthesis combines heterogeneous designs without [[meta-analysis-systematic-review|meta-analytic]] effect pooling, and the authors mark the corpus counts as subject to re-tallying after a supplementary 2025–2026 search. This ingested version is an Elsevier **journal pre-proof** (accepted 9 September 2026), so pagination and copy-edited wording may change in the version of record.
+
+## Connected Concepts
+
+- [[cs-education]]
+- [[assessment-validity]]
+- [[academic-integrity]]
+- [[equity-in-ai-education]]
+- [[scaffolding]]
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[cognitive-offloading]]
+- [[self-regulated-learning]]
+- [[self-efficacy]]
+- [[higher-ed]]
+- [[assessment]]
+- [[summative-assessment]]
+- [[evaluative-judgement]]
+- zone of proximal development
+- desirable difficulties
+- cognitive load
+- [[student-ai-interaction]]
+
+## Connected Articles
+
+- [[ai-generated-traces-novice-programmers]] — Traces of AI-generated code in novice programmers' work
+- [[ai-writes-code-student-writes-model-2026]] — Who learns when AI writes the code
+- [[buggy-genai-code-student-responses]] — How students respond to buggy GenAI-generated code
+- [[chatgpt-programming-education-text-mining]] — Text mining the ChatGPT-in-programming-education literature
+- [[assessment-team-problem-solving-computing-education]] — Assessing team problem solving in computing education
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment as the response to AI
+- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessment as an AI-resistant format
+- [[ai-literacy-equity-programming-policy]] — AI literacy, equity and programming-education policy
+- [[ai-agents-complete-lms-assessment-validity-2026]] — When agents complete LMS assessments: validity consequences
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning
+- [[du-yuan-epistemic-dependence-2026]] — Differentiating productive reliance from harmful dependence
+
+## Citation
+
+Kumar, A., Wongsirichot, T., & Nanthaamornphong, A. (2026). [Generative AI in computing education: A systematic review and a framework for responsible integration](https://doi.org/10.1016/j.caeai.2026.100677). *Computers and Education: Artificial Intelligence*.
 
 ---
 
