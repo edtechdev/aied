@@ -1,7 +1,7 @@
 ---
 title: "Community of Inquiry"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-11T13:20:00-04:00"
 type: concept
 tags: [online-teaching-and-learning, higher-ed, generative-ai, pedagogy, critical-thinking]
 level: [higher ed]
@@ -19,6 +19,8 @@ confidence: high
 - This framework suggests presences are 'sociotechnical accomplishments' of human-and-AI working together rather than purely human activity. Does that reframe who you hold accountable when an online discussion goes shallow or goes well?
 
 ## Introduction
+
+The Community of Inquiry framework describes a worthwhile online learning experience as the product of three interacting presences: cognitive presence (learners constructing and confirming meaning through sustained reflection and discourse), social presence (participants projecting themselves socially and emotionally), and teaching presence (design, facilitation and direction of the process). Grounded in [[constructivist]] and Deweyan traditions, it treats inquiry as social and iterative, and it now serves as a design and evaluation lens for AI-mediated courses — where a [[pedagogical-agent]] may support one presence while quietly eroding another.
 
 ## The three presences
 

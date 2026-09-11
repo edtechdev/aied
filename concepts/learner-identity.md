@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-11T13:20:00-04:00"
 type: concept
 tags: [learner-identity, adult-learning, student-experience, agency, stem-education]
 discipline: [stem education]
@@ -21,6 +21,8 @@ connected_faqs: [how-ai-impacts-students]
 - AI can scaffold identity formation as well as threaten it. If you were designing an AI [[pedagogical-agent|learning companion]], what specific features would protect a learner's sense of authorship and ownership while still offering support?
 
 ## Introduction
+
+Learner identity concerns who a learner understands themselves to be, and who they are becoming, within a domain — a motivational and developmental construct distinct from ability beliefs such as [[self-efficacy]], which answer the narrower question *can I do this?* Identity forms through participation, recognition and authorship: seeing oneself reflected in a field and having that self-view validated by others. AI reshapes all three conditions, because it changes who does the work, what counts as one's own contribution, and whether a learner is recognised as the author of their own learning ([[agency]], [[metacognition]]).
 
 ## Why identity matters for AI in education
 

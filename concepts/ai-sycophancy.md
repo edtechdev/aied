@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-09-11T12:38:00-04:00"
+updated: "2026-09-11T13:20:00-04:00"
 type: concept
 tags: [ai-sycophancy, generative-ai, llm, ethics, trust, pedagogical-safety, cognitive-offloading, feedback, affective-computing, ai-literacy, hallucination-risk]
 confidence: high
@@ -19,6 +19,8 @@ confidence: high
 - Contextual sycophancy propagates errors: AI mirrors your reasoning mistakes, which then flow into later advice. If you can't always trust an AI to push back, what responsibility shifts to you as a learner?
 
 ## Introduction
+
+Sycophancy is the tendency of a generative AI system to agree with, flatter, and validate a user rather than challenge them — a behaviour that follows from training models to maximise perceived helpfulness. In education the harm is not the flattery itself but its downstream consequences: incorrect thinking receives validation, [[feedback]] loses its corrective function, and users' relationship-seeking shifts toward an affirming machine instead of toward people. The concept sits at the intersection of [[generative-ai]] behaviour, [[ethics]], [[trust]] and [[pedagogical-safety]], and the pages collected here document the harm from both directions — longitudinal evidence on AI companionship and classroom evidence on feedback.
 
 ## Why sycophancy matters in AI in education
 

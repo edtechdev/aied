@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-11T12:34:00-04:00"
+updated: "2026-09-11T13:20:00-04:00"
 type: concept
 tags: [desirable-difficulties, cognitive-psychology, self-regulated-learning, cognitive-offloading, learning-theories, scaffolding, metacognition]
 
@@ -20,6 +20,8 @@ confidence: high
 - Confusion is framed here as a resource, not a bug — when resolved productively it drives deep processing, but unaddressed it decays into frustration. Where's the line between productive struggle worth preserving and frustration that's just harmful?
 
 ## Introduction
+
+Desirable difficulties are the conditions of practice that make learning feel harder in the moment — effortful retrieval, generation and explanation, spacing, interleaving — yet produce stronger retention and [[transfer-of-learning]] than conditions that feel easy. The same phenomenon appears in the literature as **cognitive friction** and **productive friction**, labels borrowed from human–computer interaction and UX design that emphasise deliberately placing resistance between a learner and an easy answer; the families overlap but are not identical, and the differences are set out below. Because generative AI is optimised to be frictionless, the concept has become a first-order design concern rather than a niche finding: systems that answer instantly remove difficulty that may have been doing the learning ([[cognitive-offloading]], [[scaffolding]]).
 
 ## The Effort–Learning Trade-Off
 
