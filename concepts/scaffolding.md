@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-11T11:58:00-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor]
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
@@ -49,6 +49,8 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 
 - **AI that scaffolds productive struggle.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles (non-directive support, reflective design, [[human-in-the-loop-ai|human-in-the-loop]]) that keep scaffolding in the productive-struggle zone rather than collapsing to answer-giving; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show [[llm]] tutors can be steered to give help only when strictly necessary — scaffolding that preserves the learner's own effort.
 
+**Scaffold withdrawal as the enforcement mechanism for verification.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong (2026)]] synthesise 72 computing-education studies and locate scaffold withdrawal, alongside guardrail tools and [[self-regulated-learning|self-regulated learning]] designs, as one of three ways courses enforce critical engagement with AI output — structurally (constraining what the tool returns), procedurally (reflection logs, self-testing) and temporally (progressively restoring conditions under which independent reasoning is required). Their evidence is that efficiency gains under AI assistance do not transfer to unaided performance, and that the failure mode — the *pseudo-apprenticeship* pattern, where students watch AI generate code without performing the task — is exactly modelling without whole-task practice. Graduated access therefore functions as a fading schedule for a powerful new form of support, and the review grounds it in 4C/ID: assistance helps only when the learner already has enough schema to engage critically with it (the zone of proximal development, [[cognitive-offloading]]).
+
 ## Rule-Guided vs. Ad-Hoc Scaffolding
 
 - **Rule-guided vs. ad-hoc scaffolding.** Looi, Liu, and Sun (2026) formalize a distinction central to scaffolding design: **rule-guided scaffolding**, in which tutoring is governed by an auditable three-layer architecture (diagnosis → intent selection → constrained response generation), versus **ad-hoc scaffolding**, where helpful moves are difficult to audit and replicate. Their primary-school math study showed rule-guided scaffolding improves interactional consistency, reduces premature answer-giving and early closure, and sustains cognitive [[student-engagement|engagement]] — evidence that explicitness and auditability of scaffold moves matter for both consistency and learning in procedural domains.
@@ -70,6 +72,7 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[kumar-genai-computing-education-systematic-review-2026]] — Scaffold withdrawal as the mechanism enforcing verification (VIE framework)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Entropy-timed AI comments as in-video knowledge and emotional scaffolding (Wang, Du & Jin 2026)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-11 | Total entries: 1329
+Last updated: 2026-09-11 | Total entries: 1330
 
 ## 2026-09-11
+- 📄 [[kumar-genai-computing-education-systematic-review-2026]] — Generative AI in computing education: A systematic review and a framework for responsible integration
 - 📄 [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI-interaction literacy: reflections on how generative AI might be used to support self-regulated learning in higher education
 - 📄 [[ilieva-agentic-genai-higher-education-2026]] — Agentic Generative AI in Higher Education: Perceived Benefits, Risks, and Implications for Learning
 - 📄 [[wang-teacher-student-centered-agents-physics-2026]] — Comparing teacher-centered and student-centered agents based on prompt engineering: Effects on learning performance, cognitive load, flow experience, and empathy perception in physics learning

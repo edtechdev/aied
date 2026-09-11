@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-11T11:54:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -99,6 +99,8 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - **AI humanizers expose the performative cycle of detection.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] catalog 55 AI-humanizer websites that alter AI-generated text to evade detection, framed through Goffman's dramaturgy. Humanizers make misconduct discursively absent and perform legitimacy, demonstrating that the detection-vs-circumvention arms race is structurally unending — reinforcing the shift from [[ai-detection|policing]] to assessment design and [[ai-literacy]].
 - **Ghost students and the agentic-AI verification gap.** [[bozkurt-ghost-students-agentic-ai-2026|Bozkurt, Crompton & Fell Kurban (2026)]] introduce the **"ghost student"**: a digital surrogate created by coupling LLMs (the "mind") with agentic AI browsers (the "body") that can navigate LMS, engage content, and complete assessments with human-like mimicry, making the actual learner's presence optional. This creates a **verification gap** that traditional proctoring and detection are structurally unable to close — an integrity threat that grows as AI becomes [[agentic-ai|agentic]] rather than merely generative.
 
+The clearest disciplinary case for redesign over detection comes from computing education. A [[meta-analysis-systematic-review|systematic review]] of 72 studies of generative AI in computing and [[cs-education|programming education]] ([[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong 2026]]) found only **three** studies examining AI-detection mechanisms — the thinnest evidence base of the 14 themes it consolidated — while course and assessment redesign was supported by 25. The review treats the imbalance as diagnostic rather than incidental: institutions have largely updated policy documents without redesigning assessments, and most instructors sit at a *tolerance* rather than *transformation* level of integration, with 70% of one national faculty sample explicitly requesting training on AI-resistant assessment design. Its recommended response is concrete: add an oral component or other process-visible element to at least one high-stakes assessment per course, and make critical engagement with AI output (reading, testing, modifying, explaining, critiquing) a graded, observable component of student work rather than an aspiration left to student discretion ([[assessment-validity]]).
+
 ## Connected Concepts
 - [[ai-use-disclosure]] — AI use and disclosure statements
 
@@ -120,6 +122,7 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[k-12]]
 
 ## Connected Articles
+- [[kumar-genai-computing-education-systematic-review-2026]] — Detection evidence is thin (3 studies of 72); redesign carries the weight
 - [[mccorkle-aligned-genai-course-policy-2025]] — Aligned GenAI course policy: assessment-derived permissions, transparent rationale (McCorkle 2025)
 - [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)
 - [[varia-construct-equivalent-assessment-variant-generation-2026]] — Construct-equivalent assessment variant generation (Lee 2026)
