@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-07T08:45:00-04:00"
+updated: "2026-09-11T06:15:00-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 discipline: [language learning]
@@ -49,6 +49,8 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - **Psychological vs. cognitive equity:** [[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]] found a year of school AI instruction in Hong Kong secondary schools **narrowed psychological AI-readiness gaps (confidence, motivation, [[ethics|ethical]] awareness) but not cognitive ones** — objective [[ai-literacy]] gaps between self-initiated ("high-agency") learners and their peers persisted, a Matthew-effect pattern where curricula "raised the floor but did not level the playing field." Access to a curriculum alone, without sustained self-initiated [[student-engagement|engagement]], may foster psychological but not full cognitive parity.
 - **Prompt privilege:** [[prompt-privilege-equitable-ai-access-2026|Jin et al.]] document "prompt privilege" — users who phrase requests skillfully systematically obtain better LLM output than users expressing the same intent less adroitly — making [[prompt-engineering|prompting]] skill a silently uneven resource. Their Prompt Equity Transformer shifts prompt optimization into the system, treating equitable output as an accessibility property rather than demanding expert prompting from novices.
 
+- **The interaction-management gap.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]] reach an ambivalent conclusion about GenAI as a leveller: because productive use requires recognising an over-abstract answer, requesting simplification, and structuring a session around small goals, unguided GenAI "may be most beneficial to already advantaged students" — those with strong study habits and confidence in directing an AI — while students with weaker study skills or lower academic [[self-efficacy]] meet added complexity and frustration. Rather than substituting for missing academic conversation partners, the tool introduces a new competence whose acquisition creates its own gap; the authors conclude the responsibility for teaching it cannot rest with the student alone ([[ai-literacy]], [[self-regulated-learning]]).
+
 ## Linguistic, cultural, and disability inclusion
 
 - **Language:** Most AI tools prioritize English, marginalizing [[multilingual-learning|multilingual]] learners. [[genai-linguistic-diversity-academic-writing|Linguistic diversity in academic writing]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages]], and [[language-learning]] research address this.
@@ -90,6 +92,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Unguided GenAI may widen gaps: the interaction-management competence (Brunnström & Palmqvist 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
 - [[du-yuan-epistemic-dependence-2026]] — Epistemic plurality and justice in AI-mediated learning (Du & Yuan 2026)
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
