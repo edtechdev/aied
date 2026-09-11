@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-11 | Total entries: 1322
+Last updated: 2026-09-11 | Total entries: 1323
 
 ## 2026-09-11
+- 📄 [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI-interaction literacy: reflections on how generative AI might be used to support self-regulated learning in higher education
 - 📄 [[ilieva-agentic-genai-higher-education-2026]] — Agentic Generative AI in Higher Education: Perceived Benefits, Risks, and Implications for Learning
 - 📄 [[wang-teacher-student-centered-agents-physics-2026]] — Comparing teacher-centered and student-centered agents based on prompt engineering: Effects on learning performance, cognitive load, flow experience, and empathy perception in physics learning
 

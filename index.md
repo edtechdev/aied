@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-11
 
-Articles: 1133 | Concepts: 189 | FAQs: 17
+Articles: 1134 | Concepts: 189 | FAQs: 17
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -262,6 +262,7 @@ Articles: 1133 | Concepts: 189 | FAQs: 17
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning
 - [[breideband-community-builder-cobi-2026]] — A Feasibility and Implementation Integrity Study of the Community Builder (CoBi): An AI-based Collaboration Support System in K-12 Classrooms
 - [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+- [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI-interaction literacy: reflections on how generative AI might be used to support self-regulated learning in higher education
 - [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Can EdTech Close Learning Gaps? Global Evidence from Digital Interventions
 - [[business-education]] — Business Education
