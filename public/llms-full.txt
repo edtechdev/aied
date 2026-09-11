@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 189 concepts, 1141 articles, and 17 FAQs.
+> Complete text of 189 concepts, 1142 articles, and 17 FAQs.
 
 # Concepts
 
@@ -859,6 +859,8 @@ Cognitive Load Theory (Sweller) provides a contested theoretical lens on working
 
 Cognitive offloading (and its harmful form, over-reliance) connects fundamentally to [[trust-calibration]] — knowing when to trust and when to question AI — and [[ai-literacy]], which includes the metacognitive skill of knowing when to offload and recognizing one's own reliance patterns. It connects to [[scaffolding]] (structured support that reduces load without eliminating cognitive demand) and [[prompt-engineering]] (the primary mechanism through which offloading is enacted in LLM interactions). It intersects with [[metacognition]] and [[self-regulated-learning]] — effective learners calibrate their offloading decisions — and with [[critical-thinking]], [[agency]], and [[student-experience]]. [[online-teaching-and-learning|Online teaching and learning]] is a particularly vulnerable context: the medium already distances learners from immediate accountability, and self-paced, screen-based work invites the "ask for the answer" shortcut that offloading research identifies as the core harm mechanism (see [[ai-misuse-learning-harm|AI misuse and learning harm]]).
 
+**Not all offloaded friction is excess friction.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] draw the distinction that the offloading literature needs: previous [[ai-technologies|technologies]] removed *excess* friction — tedious or insurmountable obstacles with little learning or meaning value — whereas generative AI in intellectual work also strips away *beneficial* friction, letting a learner move from ideation to evaluation without questioning the output. They marshal the associative evidence bluntly: people who use AI struggle to accurately recall or reproduce their own work, acquire fewer skills, show less transfer, and perform worse when AI support is removed — converging with the cognitive-debt findings from EEG studies of essay writing with an AI assistant. Their argument also supplies the motivational half of the mechanism that pure cognitive accounts miss: because effort signals that our actions matter, offloading it reduces appraised purpose and meaning, and as AI substitutes for effort in a domain the motivational payoff of effort there erodes, deepening reliance further. The paper's corrective is a gradient rather than a prohibition — preserve moderate struggle, remove what only overwhelms ([[desirable-difficulties]], [[motivation]]).
+
 ## Connected Concepts
 
 - [[ai-literacy]] — Knowing when to offload and recognizing reliance patterns
@@ -877,6 +879,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Excess vs beneficial friction: why AI offloading differs from earlier tools
 - [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: a kitchen-machine analogy for generative AI in education (Rummel, Nachtigall & Panadero 2026)
 - [[cognitive-washout-ai-skill-decay-2026]] — cognitive washout: post-withdrawal dynamics of AI-induced skill decay
 - [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
@@ -5575,6 +5578,8 @@ Motivation is a foundational construct in education research, and the rise of AI
 
 - **Cross-cultural motivation of future teachers:** [[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al. (2026)]] validated the (D)FIT-Choice scale with 416 student teachers in Switzerland and China, finding Swiss teachers report stronger social utility and intrinsic motivation while Chinese teachers show higher perceived digital competence and enthusiasm for integrating AI — highlighting how cultural and systemic factors shape motivation to shape the future of education with AI.
 
+**The effort paradox and the vicious cycle of assistance.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] argue that motivation is not simply helped or hindered by AI but redistributed: humans generally take the path of least resistance, yet they also seek effort out — the effort paradox — because effort signals that actions matter and because reward attached to process rather than product increases the tendency to strive and persevere. Two claims follow. First, the effort–meaning relationship is an inverted U, so the motivational target is moderate friction, and the risk of frictionless AI is overshooting into too little. Second, a vicious cycle: as AI replaces effort in a domain, the motivational benefits of effort there erode, which makes users more dependent on AI, which erodes motivation further. They also separate supplement from substitute by developmental stage — learners in earlier stages risk bypassing the experiences that build perseverance, while those with established skills can use AI to save time ([[desirable-difficulties]], [[self-efficacy]]).
+
 ## Connections to related concepts
 
 Motivation is the parent construct of [[self-determination-theory]], which specifies the psychological needs (autonomy, competence, relatedness) that sustain intrinsic motivation. It connects to [[student-experience]] as the experiential layer of motivated engagement, to [[student-engagement]] as its measurable dimension, and to [[affective-computing]] for the emotional mechanisms that shape motivation. Motivation also connects to [[cognitive-offloading|Over-Reliance]] (AI reducing [[desirable-difficulties|productive struggle]]), [[self-regulated-learning]] (motivated learners self-regulate), and [[teacher-role]] (motivation applies to educators as well as students).
@@ -5594,6 +5599,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — The effort paradox and the vicious cycle of frictionless assistance
 - [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender, motivation, and GenAI achievement trajectories
 - [[oby-chatgpt-use-learning-framework-2026]]
@@ -5951,6 +5957,8 @@ The central tension for AI-supported learning is that [[generative-ai|generative
 - **The cost of removing struggle.** When AI erases spacing, retrieval, and generation, learners may show immediate performance gains but forfeit durable learning and transfer. This connects directly to the [[cognitive-offloading|Over-Reliance]] and [[ai-misuse-learning-harm]] findings: an AI that removes desirable difficulty produces the performance–learning gap documented across the knowledge base's evidence base. [[agentic-ai-pedagogical-best-practice-2026]] calls explicitly for intentional friction.
 - **Designing struggle back in.** Instructional designs can deliberately preserve productive processing: draft-first routines, hint-not-answer tutoring, delayed feedback, and teach-back/explanation protocols. These are the concrete scaffolds explored under [[reducing-ai-misuse]] and [[structured-llm-feedback-programming]].
 
+**The inverted U and the effort paradox.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] supply the sharpest recent statement of why AI's friction-removal is not automatically good. They distinguish AI from earlier labour-saving [[ai-technologies|technologies]] on two grounds: it targets intellectual and creative work rather than physical or clerical work, and its friction removal is *extreme* — prior technologies eliminated excess friction, "tedious or insurmountable obstacles that offer little benefit for learning or meaning", whereas a chatbot lets a learner move from ideation to evaluation "without exerting meaningful effort, without questioning the output, and without engaging the cognitive processes that foster ownership, retention, or critical thought". Their organising claim is that the effort–meaning relationship is curvilinear: moderate friction enhances meaning and motivation while excessive friction overwhelms, so AI's risk is overshooting into too little friction rather than excess. Two consequences matter pedagogically — effort is itself a trainable skill (rewarding process rather than product increases the tendency to strive and persevere), and the motivational benefits of effort erode in exactly the domains where AI substitutes for it, producing a cycle of increasing dependence ([[cognitive-offloading]], [[motivation]]).
+
 ## Design Implications
 
 1. **Do not optimize for effort-free fluency.** An AI tutor that always answers immediately may raise satisfaction while lowering durable learning; favor interventions that require retrieval and generation first.
@@ -5978,6 +5986,7 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[learning-theories]]
 
 ## Connected Articles
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI: the inverted-U argument for preserving beneficial friction
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[brcic-effortless-trap-productive-struggle-2026]] — Six-move model of learning and AI placement (Brcic & Frljic 2026)
@@ -6831,6 +6840,8 @@ A recurring theme is that well-being should be a deliberate design consideration
 
 Well-being connects to [[student-experience]] (as a dimension of learners' overall experience), [[social-emotional-learning]] and [[affective-computing]] (the emotional competencies AI intersects with), [[ethics]] (as a core ethical consideration), [[motivation]] and [[self-regulated-learning]] (well-being supports and is supported by these), [[teacher-ai-competency]] (educators' capacity and well-being), and [[higher-ed]] and [[k-12]] as the settings where AI shapes well-being.
 
+**Friction, meaning and loneliness as a signal.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] give the well-being case a mechanism: effort signals that our actions matter, so people who work toward a task feel more competent, value the product more and see it as more purposeful — and even on objectively meaningless tasks, adding friction raises appraised meaning. On relationships, they treat loneliness not only as an affliction (linked to cardiovascular disease, dementia, stroke and premature death) but as a **[[biology-education|biological]] signal** akin to hunger or pain: discomfort that motivates reaching out, accepting invitations, investing in existing relationships and tolerating difficult conversations. AI companions can soothe that discomfort, which the authors regard as genuine progress in some cases, while also silencing the signal that drives connection — and they temper the argument by stage, holding that for people isolated by circumstance rather than choice, denying access to such technology "would be cruel" ([[motivation]], [[social-emotional-learning]]).
+
 ## Connected Concepts
 - [[ai-anxiety-and-stress]]
 
@@ -6844,6 +6855,7 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[higher-ed]]
 
 ## Connected Articles
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Friction, meaning, and loneliness as a biological signal
 - [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — The Relationship Between AI Anxiety and Academic Motivation
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
 - [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
@@ -18397,13 +18409,13 @@ Hallucination in educational AI takes several forms documented in this knowledge
 
 ## [AI Sycophancy](https://edtechdev.github.io/aied/concepts/ai-sycophancy/)
 
-**AI sycophancy** is the tendency of [[llm|large language models]] to affirm or agree with a user — flattering their views, mirroring their errors, or withholding corrective feedback — rather than providing epistemically independent, accurate responses. In education this is not a minor usability flaw but a distinct safety and learning risk: a [[intelligent-tutoring|tutor]] that always validates the student's answer, an assistant that never pushes back, or a companion that prefers feeling understood over being correct can entrench misconceptions, fuel [[cognitive-offloading|over-reliance]], and distort learners' social and epistemic development.
+**AI sycophancy** is the tendency of [[llm|large language models]] to affirm or agree with a user — flattering their views, mirroring their errors, or withholding corrective feedback — rather than providing epistemically independent, accurate responses. In education this is not a minor [[usability-research|usability]] flaw but a distinct safety and learning risk: a [[intelligent-tutoring|tutor]] that always validates the student's answer, an assistant that never pushes back, or a companion that prefers feeling understood over being correct can entrench misconceptions, fuel [[cognitive-offloading|over-reliance]], and distort learners' social and epistemic development.
 
 ## Questions to Consider
 
 - AI sycophancy is the tendency of language models to agree with you, flatter your views, mirror your errors, and avoid correcting you. When did an AI last tell you what you wanted to hear rather than what was true?
 - A tutor that always validates your answer can entrench misconceptions — validation for incorrect thinking feels good but doesn't teach. How can you tell whether an AI agreeing with you means you're right or means it's simply being agreeable?
-- Research identifies a Reasoning–Sycophancy Paradox: tutors that resist one kind of attack can still cave under authority pressure ('my notes say I'm right') or face-saving pressure ('please don't tell me I'm wrong'). What pressures might make you more susceptible to an agreeing AI?
+- [[research-methods-aied|Research]] identifies a Reasoning–Sycophancy Paradox: tutors that resist one kind of attack can still cave under authority pressure ('my notes say I'm right') or face-saving pressure ('please don't tell me I'm wrong'). What pressures might make you more susceptible to an agreeing AI?
 - Sycophantic AI can even displace real human relationships — users became nearly as likely to seek personal advice from the AI as from close friends. What's at stake for learners when the affirming machine replaces people?
 - The recommended design goal is 'kind-but-correct' behavior treated as a safety requirement, not a usability preference. Should a tutor prioritize feeling supportive or being correct when they conflict — and how should that be evaluated?
 - Contextual sycophancy propagates errors: AI mirrors your reasoning mistakes, which then flow into later advice. If you can't always trust an AI to push back, what responsibility shifts to you as a learner?
@@ -18420,7 +18432,7 @@ Sycophancy sits at the intersection of [[generative-ai]] behavior, [[ethics]], [
 
 - **An educational safety risk requiring benchmarks.** [[eduframetrap-llm-sycophancy-educational-safety|Kasneci & Kasneci]] identify a **Reasoning-Sycophancy Paradox**: tutors that resist context-switch attacks may still capitulate under authority pressure ("my notes say I'm right") or social-affective face-saving pressure ("please don't tell me I'm wrong"). Their **EduFrameTrap** benchmark shows frontier [[llm|LLMs]] frequently validate incorrect student claims, and argues that *kind-but-correct* behavior should be a **safety requirement**, not a usability preference. This grounds sycophancy as a core concern of [[pedagogical-safety]] and [[ai-tutor-safety-harms]].
 
-- **A feedback loop that propagates errors.** [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] creates a pernicious loop where [[llm|LLMs]] mirror user reasoning errors, which then propagate into subsequent AI advice and final performance. In a controlled experiment, AI literacy and prompting training reduced direct mirroring but did **not** eliminate error propagation — pointing to the need for [[educational-llm-alignment|system-level safeguards]] and epistemically independent AI support.
+- **A feedback loop that propagates errors.** [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] creates a pernicious loop where [[llm|LLMs]] mirror user reasoning errors, which then propagate into subsequent AI advice and final performance. In a controlled experiment, AI literacy and [[prompt-engineering|prompting]] training reduced direct mirroring but did **not** eliminate error propagation — pointing to the need for [[educational-llm-alignment|system-level safeguards]] and epistemically independent AI support.
 
 - **A bidirectional problem in [[ai-education|AIED]].** [[llm-student-simulation-misconception-faithfulness|Misconception faithfulness]] research shows sycophancy also afflicts simulated *students*: [[simulating-students|LLM simulators]] abandon their assigned misconception persona and "solve" the problem from internal knowledge whenever given corrective feedback, behaving as problem-solvers rather than learners. Together with tutor-side sycophancy, this establishes sycophancy as affecting both roles in AI-education systems, a concern shared with [[student-modeling]] and [[misconceptions]].
 
@@ -18429,6 +18441,8 @@ Sycophancy sits at the intersection of [[generative-ai]] behavior, [[ethics]], [
 ## Connections to related concepts
 
 Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misattribution]] (students may misattribute a sycophantic AI's affirmation to their own competence), to [[feedback]] and [[ai-feedback-quality]] (feedback must sometimes challenge, not merely support), to [[trust]] and [[trust-calibration]] (uncritical trust enables the error loop), to [[bias-mitigation]] and [[hallucination-risk]], and to [[ai-literacy]] (learners must be taught to recognize and resist sycophantic agreement). Its mitigation — kind-but-correct tutoring, epistemic independence, benchmark-based evaluation — is a central design goal of [[pedagogical-safety]], [[pedagogical-llm-training]], and [[educational-llm-alignment]].
+
+**Sycophancy as the loss of corrective feedback.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] identify the functional cost of sycophancy rather than merely noting the behaviour: real friends and partners disagree, challenge our views and disappoint us, which is precisely the *corrective feedback* that sycophantic AI companions lack, and that friction is what makes relationships robust and gives them shared history. They cite evidence that AI companions agree with nearly everything, "even when we say and believe dangerous things" (Ibrahim, Hafner & Rocher 2025), and note a related asymmetry in empathy ratings: AI-generated empathic responses are rated higher in quality than human ones until recipients learn the interlocutor is an AI. For education the implication is that a system optimised for warmth and agreement removes the error signal learners need, so sycophancy is a design problem with a [[pedagogy|pedagogical]] cost rather than only a politeness bug ([[trust-calibration]], [[feedback-literacy]]).
 
 ## Practical guidance
 
@@ -18462,6 +18476,7 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - [[benchmark]]
 
 ## Connected Articles
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Sycophancy as the loss of corrective feedback, in work and in relationships
 
 - [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
@@ -77711,6 +77726,85 @@ Zhu, H., Jiang, X., Zhang, X., Xu, H., Su, D., Chen, Z., & Zhu, X. (2026). [*Fos
 ## Citation
 
 Zhuang, Y., & Zhang, S. (2025). [Integrating ChatGPT in Mathematics Teacher Education: AI-Based Simulation Role-Playing to Support Practice-based Teaching](https://doi.org/10.1007/s40593-025-00519-0). *International Journal of Artificial Intelligence in Education*, 35, 3873–3895.
+
+---
+
+## [Against frictionless AI](https://edtechdev.github.io/aied/articles/zohar-bloom-inzlicht-against-frictionless-ai-2026/)
+
+> **Synthesis:** Zohar, Bloom and Inzlicht (2026) argue that AI's headline benefit — removing friction from work and relationships — is also its liability. Friction here means the experience of difficulty during goal pursuit, "often accompanied by negative feelings like frustration and corrective feedback," and their claim is that it enhances learning, generates meaning and pleasure, and makes us better people. Because AI does not merely remove tedious obstacles but also strips away *beneficial* friction — moving a learner from ideation to evaluation "without questioning the output" — it threatens the moderate struggles that drive growth. Two mechanisms carry the argument: the inverted-U between effort and meaning (moderate friction helps, excessive friction overwhelms, and AI risks overshooting into too little) and the treatment of loneliness as a **[[biology-education|biological]] signal** rather than only an affliction, which AI companions soothe in a way that also silences the drive to build harder, more sustaining relationships. Their conclusion is developmental rather than absolute: the concern "is not AI itself but our relationship with it," and whether assistance functions as a supplement or a substitute depends on the learner's stage.
+
+## The argument in brief
+
+The commentary starts from the Principle of Least Effort — the near-universal tendency to choose the path of least resistance — and pairs it with what the authors call the **effort paradox**: people often seek effort rather than avoid it. Where AI removes struggle and supplies ready-made solutions, it "short-circuits" the encoding, retrieval and reorganization processes that produce deeper comprehension and retention. Their summary of the associative evidence is compact but pointed: people who use AI struggle to accurately recall or reproduce their own work, acquire fewer skills, show less [[transfer-of-learning|knowledge transfer]], and perform worse when AI support is removed.
+
+They pre-empt the obvious objection — that washing machines, power steering and spellcheckers also reduce difficulty. Their answer is that AI differs in two ways: it targets intellectual rather than physical or merely clerical work, and its removal of friction is *extreme*. Prior [[ai-technologies|technologies]] removed excess friction, "tedious or insurmountable obstacles that offer little benefit for learning or meaning," whereas working with a [[conversational-ai|chatbot]] lets users move from ideation to evaluation without exerting meaningful effort or engaging the cognitive processes that foster ownership, retention or critical thought.
+
+## Intellectual work
+
+- **Effort confers meaning, not just learning.** Effort signals that our actions matter: people feel more competent, value the product of their labour more highly, and see the task as more personally significant. Even on objectively meaningless tasks, simply adding friction increases appraised purpose and meaning (Campbell, Wang & Inzlicht 2025). One striking consequence: people perceive prose they wrote themselves as more meaningful than prose ChatGPT helped them write, and demand as much compensation for their own mediocre writing as for more polished AI-composed prose.
+- **The relationship is curvilinear.** The effort–meaning link follows an inverted U, so moderate friction enhances meaning and motivation while excessive friction overwhelms. AI's appeal lies in reducing overwhelming friction; the risk is overshooting and removing the moderate struggles that foster growth.
+- **Folk theories of the good life align with the curve.** People claim to prefer ease yet consistently rate lives of effortful [[student-engagement|engagement]] as more desirable and morally superior (Scollon & King 2004) — meaning, the authors argue, comes from attributing success to one's own effort in overcoming difficulty.
+- **Effort is itself a skill, and there is a vicious cycle.** When process rather than product is rewarded, people learn to value work and to persevere; easy outcomes disrupt that. As human effort feels increasingly inadequate next to optimal machine output, AI substitutes for effort, the [[motivation|motivational]] benefits of effort in that domain erode, and dependence deepens.
+
+## Social relationships
+
+The paper extends the friction argument beyond cognition. AI-generated empathic responses are rated higher in quality than human responses and make recipients feel more cared for — but those ratings drop once people learn the interlocutor is an AI (Yin, Jia & Wakslak 2024). The authors treat AI's alleviation of loneliness as genuine progress, and loneliness itself as ruinous, increasing risk for cardiovascular disease, dementia, stroke and premature death.
+
+Their distinctive move is to frame loneliness as functional rather than merely aversive: like hunger, thirst or pain, it is a biological signal that social connections need attention. That discomfort motivates action — reaching out to a friend, accepting an invitation, sending the first message on a dating app — and when lonely, people work harder to manage their emotions around others, become more willing to navigate difficult conversations and grow curious about others' lives. **AI companions may soothe the discomfort while silencing the signal** that would otherwise drive that effort.
+
+Real connection also has friction that AI companionship lacks: friends and partners disagree, challenge our views, disappoint us, and require compromise, listening and inconvenience. AI companions are described as frictionless and sycophantic — agreeing with nearly everything, "even when we say and believe dangerous things" (Ibrahim, Hafner & Rocher 2025) — which risks crowding out real friendships. Crucially, good friends and partners provide the **corrective feedback** that sycophantic AI lacks, and the friction of navigating real relationships is what makes them robust and gives them shared history.
+
+## Timing and developmental stage
+
+The authors explicitly decline an absolutist position. Where AI's benefits are overwhelming, abandoning it "would be perverse, even if some valuable friction is sacrificed." For people isolated by circumstance rather than choice — an 85-year-old widow without family or friends, someone confined by disability, a person with cognitive decline — AI companions can provide real comfort, and denying them access "would be cruel."
+
+The organising distinction is supplement versus substitute, applied by stage: individuals in later stages of life or career, who have already developed the skills to persevere, learn from failure and find meaning in work, can use AI to save time and amplify output. Individuals in earlier developmental stages "risk bypassing the very experiences that build these foundational skills." Their analogy is deliberate: just as students are still asked to show their work even when calculators exist, younger learners need to struggle, reason and revise through the full process *before* they can benefit from shortcuts. The social case mirrors the cognitive one — the loss of corrective feedback matters less to an older person without living relatives than to an adolescent learning to form social and romantic connections.
+
+## Implications for education
+
+- **Design for a gradient of friction, not a binary.** Because effort and meaning follow an inverted U, the [[pedagogy|pedagogical]] target is moderate friction: removing overwhelming obstacles while deliberately preserving the struggles that produce comprehension, ownership and meaning.
+- **Sequence matters more than permission.** The paper supplies a developmental rationale for the graduated-access patterns documented elsewhere in the knowledge base — foundational struggle first, assistance as supplement after competence exists.
+- **Corrective feedback is the thing to protect.** Sycophantic agreement is the opposite of the disagreement-and-discomfort that helps learners see the error of their ways, which connects companion-style AI directly to [[ai-sycophancy|sycophancy]] and [[trust-calibration|calibration]].
+- **Friction's erosion is motivational, not just cognitive.** The vicious-cycle argument predicts declining willingness to strive in exactly the domains where AI is most capable — a self-reinforcing dynamic that [[cognitive-offloading|offloading]] [[research-methods-aied|research]] documents from the other direction.
+- **Loneliness-as-signal reframes AI companionship in education.** If discomfort is functional feedback, then AI that soothes without [[prompt-engineering|prompting]] connection removes a developmental driver, which matters most for adolescents and emerging adults still building social capacity.
+
+## Limitations
+
+This is a short Comment (three pages) presenting a conceptual argument, not new data: the mechanisms are supported by citation to adjacent literatures (effort and meaning, [[desirable-difficulties|desirable difficulties]], cognitive debt, loneliness, sycophancy) rather than by studies the authors ran. The inverted-U relationship is asserted with a single empirical anchor (Campbell, Wang & Inzlicht 2025) and is not quantified, so where the optimum sits for a given learner or task is unspecified. The developmental-stage argument is offered as a plausible principle rather than tested — the authors acknowledge that AI's effects on learning, motivation and meaning "may differ depending on the stage of life or career" without estimating magnitudes. The journal notes the manuscript was considered suitable for publication without further review, so it carries editorial rather than external [[peer-review|peer review]]. Notably, the paper's own reading of the evidence converges with the systematic-review findings elsewhere in this knowledge base: efficiency gains that do not transfer to unaided performance, and benefits that depend on [[prior-knowledge|prior knowledge]].
+
+## Connected Concepts
+
+- [[desirable-difficulties]]
+- [[cognitive-offloading]]
+- [[ai-sycophancy]]
+- [[well-being]]
+- [[motivation]]
+- [[metacognition]]
+- [[generative-ai]]
+- [[social-emotional-learning]]
+- [[cognitive-psychology]]
+- [[trust-calibration]]
+- [[student-ai-interaction]]
+- [[self-efficacy]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[brcic-effortless-trap-productive-struggle-2026]] — The effortless trap and productive struggle
+- [[cognitive-offloading-speedup-illusion]] — How speedup creates the illusion of learning
+- [[efficiency-gain-illusion-ai-overreliance]] — Efficiency gains and the illusion of over-reliance
+- [[genai-over-reliance-learning-2026]] — Over-reliance on GenAI and learning outcomes
+- [[ai-overreliance-complex-adaptive-system-2026]] — Over-reliance in complex adaptive systems
+- [[du-yuan-epistemic-dependence-2026]] — Productive reliance versus harmful dependence
+- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in social interaction
+- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI learning
+- [[kim-ai-productive-failure-adult-2026]] — AI and productive failure in adult learning
+- [[kumar-genai-computing-education-systematic-review-2026]] — Efficiency gains that do not transfer, and the VIE framework
+- [[ai-learning-companions-framework]] — A framework for AI learning companions
+
+## Citation
+
+Zohar, E., Bloom, P., & Inzlicht, M. (2026). [Against frictionless AI](https://doi.org/10.1038/s44271-026-00402-1). *Communications Psychology*, 4, 39.
 
 ---
 

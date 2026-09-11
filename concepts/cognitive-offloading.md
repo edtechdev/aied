@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-11T12:36:00-04:00"
 type: concept
 tags: [cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 audience: [learners]
@@ -107,6 +107,8 @@ Cognitive Load Theory (Sweller) provides a contested theoretical lens on working
 
 Cognitive offloading (and its harmful form, over-reliance) connects fundamentally to [[trust-calibration]] — knowing when to trust and when to question AI — and [[ai-literacy]], which includes the metacognitive skill of knowing when to offload and recognizing one's own reliance patterns. It connects to [[scaffolding]] (structured support that reduces load without eliminating cognitive demand) and [[prompt-engineering]] (the primary mechanism through which offloading is enacted in LLM interactions). It intersects with [[metacognition]] and [[self-regulated-learning]] — effective learners calibrate their offloading decisions — and with [[critical-thinking]], [[agency]], and [[student-experience]]. [[online-teaching-and-learning|Online teaching and learning]] is a particularly vulnerable context: the medium already distances learners from immediate accountability, and self-paced, screen-based work invites the "ask for the answer" shortcut that offloading research identifies as the core harm mechanism (see [[ai-misuse-learning-harm|AI misuse and learning harm]]).
 
+**Not all offloaded friction is excess friction.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] draw the distinction that the offloading literature needs: previous [[ai-technologies|technologies]] removed *excess* friction — tedious or insurmountable obstacles with little learning or meaning value — whereas generative AI in intellectual work also strips away *beneficial* friction, letting a learner move from ideation to evaluation without questioning the output. They marshal the associative evidence bluntly: people who use AI struggle to accurately recall or reproduce their own work, acquire fewer skills, show less transfer, and perform worse when AI support is removed — converging with the cognitive-debt findings from EEG studies of essay writing with an AI assistant. Their argument also supplies the motivational half of the mechanism that pure cognitive accounts miss: because effort signals that our actions matter, offloading it reduces appraised purpose and meaning, and as AI substitutes for effort in a domain the motivational payoff of effort there erodes, deepening reliance further. The paper's corrective is a gradient rather than a prohibition — preserve moderate struggle, remove what only overwhelms ([[desirable-difficulties]], [[motivation]]).
+
 ## Connected Concepts
 
 - [[ai-literacy]] — Knowing when to offload and recognizing reliance patterns
@@ -125,6 +127,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Excess vs beneficial friction: why AI offloading differs from earlier tools
 - [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: a kitchen-machine analogy for generative AI in education (Rummel, Nachtigall & Panadero 2026)
 - [[cognitive-washout-ai-skill-decay-2026]] — cognitive washout: post-withdrawal dynamics of AI-induced skill decay
 - [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
