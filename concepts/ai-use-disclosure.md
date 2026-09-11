@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-09-10T05:52:33-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [ai-use-disclosure, academic-integrity, ethics, trust, generative-ai, higher-ed, assessment, educational-policy-ai]
 level: [higher ed]
@@ -9,7 +9,7 @@ category: [assessment]
 confidence: high
 ---
 
-> **AI use and disclosure statements** — the policies, declarations, and practices through which learners are asked (or choose) to disclose their use of [[generative-ai|generative AI]] in academic work. Also known as AI use declarations, AI disclosure statements, or transparency statements, these mechanisms sit at the intersection of [[academic-integrity]], [[ethics]], [[trust]], and [[assessment]] in the AI era. The knowledge base's [[research-methods-aied|research]] shows that disclosure is far from a neutral administrative formality: it is shaped by fear of penalties, ambiguous policies, inconsistent enforcement, peer norms, stigma, and the psychological costs of self-incrimination — and it is deeply entangled with [[self-regulated-learning]] and [[help-seeking]].
+> **AI use and disclosure statements** — the policies, declarations, and practices through which learners are asked (or choose) to disclose their use of [[generative-ai|generative AI]] in academic work. Also known as AI use declarations, AI disclosure statements, or [[explainable-ai|transparency]] statements, these mechanisms sit at the intersection of [[academic-integrity]], [[ethics]], [[trust]], and [[assessment]] in the AI era. The knowledge base's [[research-methods-aied|research]] shows that disclosure is far from a neutral administrative formality: it is shaped by fear of penalties, ambiguous policies, inconsistent enforcement, peer norms, stigma, and the psychological costs of self-incrimination — and it is deeply entangled with [[self-regulated-learning]] and [[help-seeking]].
 
 ## Questions to Consider
 
@@ -43,6 +43,8 @@ Disclosure is the mechanism that makes AI-assisted work *visible* and therefore 
 A recurring institutional error is to treat declarations as a way to catch prohibited use. They cannot serve that function: they depend on candour, and enforcing them runs back into the same undetectability, since an institution generally cannot prove that an undeclared use occurred. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] locates their real value elsewhere — in visible integrity commitments embedded in a culture of [[trust]], and in transparency, shared expectations, and student reflection rather than enforcement. The educational mechanism is normative, not forensic.
 
 The modelling work of [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] supplies the condition under which disclosure works, expressed as a design threshold rather than a hope: disclosed use beats hidden use only when the [[academic-integrity|cost of honesty]] stays below the deterrent it buys. Because that bound rises with detection credibility, detection and disclosure safety reinforce each other — but only if the false-positive risk of being flagged falls on honest and dishonest responses alike, in which case honesty keeps its comparative protection. Their design implication is direct: treat a declared AI use as context rather than a confession, which keeps the cost of honesty low precisely in the settings where monitoring is strongest, and read disclosure as a demonstration of [[evaluative-judgement|evaluative judgement]] rather than an admission. Permission and disclosure are separate levers — permission changes the formal boundary of acceptable use, disclosure changes visibility — and success at one says nothing about the other.
+
+[[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] offers a suggestive test of the disclosure effect itself. The same course ran a blinded study (AlGhamdi 2024) and a transparent one, and only the transparent cohort explicitly bounded AI's role and questioned evaluative authority. Because the cohorts and years differ, the author calls the contrast suggestive rather than causal, but argues that disclosure operated as an instructional prompt rather than a disclaimer — transforming feedback from a taken-for-granted act into an object of reflection, with no sign of disengagement or resistance.
 
 ## Designing effective disclosure
 
@@ -84,3 +86,4 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Declarations as education rather than detection
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — The cost of honesty as a design threshold in assessment
+- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education

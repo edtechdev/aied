@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-07T08:45:00-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [global-south, equity-in-ai-education, generative-ai, higher-ed, k-12, culturally-relevant-pedagogy, ai-literacy]
 level: [higher ed, k 12]
@@ -32,6 +32,7 @@ Mainstream AI and educational-technology research has historically been dominate
 - **Institutional integration and structural inequality:** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]]'s comparative content analysis of 45 Nigerian universities (federal/state/private) found that AI integration is predicted by institution age and geographic location — not governance type — and that international and industry network ties reinforce one another (r = 0.74), so well-connected institutions compound advantage while others fall further behind. It locates [[digital-divide|digital inequality]] not just at the learner level but in the structural capacity of [[higher-ed|higher-education]] institutions themselves.
 - **Epistemic marginalization:** [[genai-minoritized-knowledges-disability|Tali-Otmani]] argues that Western-centric training data marginalizes non-Western and disability-centered knowledges — connecting Global South concerns to [[equity-in-ai-education]] and [[culturally-relevant-pedagogy]].
 - **Disability and [[inclusive-learning|inclusion]] in the Global South:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates across three Palestinian universities — found GenAI bridges digital, geographic, and socioeconomic divides for disabled learners, extending [[technology-acceptance-model|technology-acceptance]] research to disability contexts where [[usability-research|usability]], affordability, and [[accessibility]] are mutually reinforcing.
+- **Designing for local stressors under resource constraints:** Bashir and Afzal (2026) build [[culturally-aware-student-stress-chatbot-2026|Sukoon]] as a Global South design response to a documented mismatch — mental-health [[conversational-ai|chatbots]] trained mostly on Western datasets and overwhelmingly English-language, while Pakistani students face academic, financial, familial, and relational stressors simultaneously and often cannot raise emotional difficulties with parents, teachers, or peers because of stigma. The authors' practical constraints are as instructive as their model: a free-access [[open-source]] [[llm]] through a hosted API for low resource requirements, a lightweight Flask deployment for regional universities, "tools are available but often expensive" listed as a barrier, and unequal access to paid models flagged as a general dependency risk. They also note the classifier was trained on a publicly available dataset not representative of Pakistani students, and commit to locally collected DASS-21 data before drawing population conclusions.
 
 ### Implications
 
@@ -63,3 +64,4 @@ Attending to Global South contexts requires moving beyond assuming Western model
 
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
+- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning

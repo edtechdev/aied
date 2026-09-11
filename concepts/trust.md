@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-11T02:58:00-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [trust, ai-literacy, educational-robotics, human-ai-collaboration, critical-thinking, intelligent-tutoring]
 confidence: high
@@ -31,6 +31,8 @@ The [[ai-overreliance-complex-adaptive-system-2026|modeling of AI overreliance a
 How explainable a system is — and in what terms — also shapes whether teachers trust its recommendations. In a within-subject experiment with 41 in-service [[chemistry-education|chemistry]] teachers using the AI grouping-recommendation tool [[xai-teachers-trust-edtech-recommendations-2026|GrouPer]], [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found that [[explainable-ai|explainable AI]] builds trust indirectly by increasing the *understandability* of the system's performance, and that **domain-driven** explanations framed in [[curriculum-design|curricular]]/pedagogical language fostered significantly greater understandability and learned trust than purely **data-driven** (feature-importance) explanations. Notably, understandability alone was insufficient for some teachers — they reported needing real classroom experience with the tool before fully relying on it — reinforcing that trust in AI is dynamic and validated through [[situated-learning|situated]] use, not granted by explanation alone.
 
 **Risk perception and trust are not opposites.** A 130-student perception study of [[agentic-ai|agentic]] GenAI in [[higher-ed|higher education]] found perceived risk moderately elevated (M = 3.33, SD 0.89) alongside more favourable trust and adoption intention (M = 3.62, SD 0.81), and — contrary to a simple deterrence expectation — a *positive* association between perceived risk and continued-use intention (Spearman's ρ = 0.317, p < 0.001) ([[ilieva-agentic-genai-higher-education-2026|Ilieva et al. 2026]]). The authors read this as informed adoption rather than indifference: engaged or experienced users recognize both the value and the limits of the technology, and only 45.4% said they trusted agents under instructor guidance. For [[trust-calibration]], the implication is that awareness of risk is not the absence of trust — it can be a component of it — while the cross-sectional design leaves awareness, exposure, and self-selection indistinguishable.
+
+[[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] supports a **function-specific rather than global** account of trust in algorithms: neither algorithm aversion nor algorithm appreciation described these 13 students, who simultaneously trusted ChatGPT for surface-level feedback and distrusted it as a grader. Their trust was conditional on instructor oversight, and their scepticism stemmed from the AI's contextual limits — misreading scanned handwriting ("it spelt my last name wrong and it thinks I made mistakes in my spelling when I didn't"), not knowing the instructor's rating system, and chronic positivity — rather than from technophobia, suggesting trust measures should be decomposed by the function an AI performs and the stakes attached to it.
 
 ## Interpersonal trust in education
 
@@ -86,3 +88,4 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
+- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education

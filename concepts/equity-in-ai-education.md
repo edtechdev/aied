@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-11T06:15:00-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 discipline: [language learning]
@@ -56,6 +56,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - **Language:** Most AI tools prioritize English, marginalizing [[multilingual-learning|multilingual]] learners. [[genai-linguistic-diversity-academic-writing|Linguistic diversity in academic writing]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages]], and [[language-learning]] research address this.
 - **Culture:** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]] and [[culturally-aware-aied-community-learning|community-centered AIED]] call for AI that reflects learners' cultural contexts rather than imposing dominant norms.
 - **Disability and neurodiversity:** [[inclusive-learning|Accessible learning]], [[universal-design-for-learning|universal design]], [[neurodiversity]], and [[special-education|special education]] research examines how AI can support or exclude learners with disabilities — [[neurodivergent-computing-students|neurodivergent computing students]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[inclusive-learning|accessible educational materials]] are illustrative.
+- **Language, culture, and cost together:** Bashir and Afzal (2026) frame equitable design in [[well-being|wellbeing]] AI as a single question of language, culture, and cost — English-only tools fail students who express distress in Urdu or Roman Urdu, Western datasets fail to capture locally salient stressors, and expensive commercial systems fail less well-equipped universities ([[culturally-aware-student-stress-chatbot-2026|Sukoon]]). Their response combined an [[open-source]] multilingual LLM accessed through a hosted API for low resource requirements, a bilingual assessment interface, and a classifier trained on a validated 20-feature instrument — while acknowledging that the training data is not representative of the target population, that "some areas... tools are available but often expensive," and that the adaptation is prompt-level rather than validated with students, a candid account of the gap between equitable intent and demonstrated equity.
 
 ## Special populations and global equity
 
@@ -140,3 +141,4 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[all-girls-genai-makerspace-gender-equity-2026]] — All-girls GenAI makerspace workshops and gender equity in computing
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review: integration evidence heavily skewed to North America/Asia, minimal Global South representation
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
+- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning

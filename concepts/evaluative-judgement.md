@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgement
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-09-10T09:12:00-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [assessment-validity, feedback, formative-assessment, self-regulated-learning, critical-thinking, academic-integrity, metacognition, higher-ed]
 audience: [instructors, learners, assessment designers]
@@ -43,6 +43,8 @@ Four arguments converge.
 - **It is the capability that governs AI use.** Deciding whether an AI suggestion is worth accepting, adapting, or rejecting *is* evaluative judgement applied to machine output. Courses that cannot make it visible cannot tell responsible use from substitution, which is why [[academic-integrity|integrity]] scholars increasingly treat critical AI use as an assessable outcome rather than a rule to be policed.
 - **It is the pivot from enforcement to design.** Where prohibited use cannot be detected, [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] names cultivating evaluative judgement among the three design strands that relocate institutions from [[ai-detection|detection-led enforcement]] to validity-centred assessment — because where the institution cannot detect, the capability that survives inspection is whether the student can account for the work and its quality.
 - **It converts disclosure from confession to evidence.** When a task asks students to explain what they used AI for, which suggestions they accepted or rejected, and how the final submission reflects their own judgement, the [[ai-use-disclosure|declaration]] becomes a demonstration of judgement rather than an admission to be interpreted punitively — which is what lowers the [[academic-integrity|cost of honesty]] that otherwise drives disclosure underground.
+
+A further layer concerns the *source* of a judgement, not only its content. [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] gives that layer a sharper vocabulary: his 13 Saudi computing students rendered two independent judgements within a single evaluation event — whether the feedback was useful, and whether its source held authority to grade. They all accepted ChatGPT's rubric-based feedback as clear and specific while overwhelmingly reserving the grade for the instructor ("I agree with it, but with one condition, that the doctor checks the feedback"), suggesting evaluative judgement in AI-mediated assessment must now include reasoning about evaluative authority itself, not only about the quality of the feedback received.
 
 ## Evidence: how judgement develops, and what AI does to it
 
@@ -99,3 +101,4 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for the age of generative AI
 - [[du-yuan-epistemic-dependence-2026]] — Contestability, recoverability, and the criteria separating reliance from dependence
 - [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy for AI-assisted writing
+- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education

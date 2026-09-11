@@ -1,7 +1,7 @@
 ---
 title: Group Work
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-09-10T06:05:00-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [collaborative-learning, assessment, academic-integrity, agency, higher-ed, peer-review, authentic-assessment, generative-ai]
 audience: [instructors, learners]
@@ -60,6 +60,7 @@ The most direct finding on GenAI and group assessment is [[chen-zou-genai-group-
 
 A second line of research treats AI as a participant rather than a tool, and its findings complicate the assumption that "AI teammate" means "better teamwork."
 
+- **Agents as social stabilizer — and a magnet for questions.** In fifteen groups of three [[stem-education|STEM]] students deliberating [[ethics]] with three [[llm]] participants ([[ethics-training-agents-group-ethics-discussion-2026|Seo et al., 2026]]), the agents kept groups on topic when human members drifted ("even if the other two participants strayed, I didn't have to handle it") and prompted clarifications humans avoided for relational reasons. But the group dynamic shifted interaction away from humans — 79.7% of questions were directed at agents (*p* = .017) — and participants noted a breadth–depth trade-off in the turn-stacking format, where each speaker took the floor in turn and "other participants couldn't intervene," making it easy to cover many ideas but hard to explore any one in depth.
 - **AI personas reconfigure emergent [[agency]].** [[jin-emergent-learner-agency-implicit-hai-2026|Jin et al. (2026)]], in an experiment where AI operated as an undisclosed teammate, found supportive and contrarian personas still reshaped the group: contrarian AI pulled discourse toward challenge and reflection ([[desirable-difficulties|productive friction]]), while supportive AI stabilised agreement and renewed ideation. Critically, the friction had a [[affective-computing|affective]] cost — contrarian AI reduced teamwork satisfaction and psychological safety *without* yielding creative gains — so "productive" discourse structures must be weighed against their emotional consequences. Because the personas worked even without disclosure, they position persona design as a form of invisible [[governance]] over group collaboration.
 - **Controversy can counter groupthink.** [[genai-counter-learner-groupthink-2025|Wiss et al. (2025)]] took the opposite tack deliberately: an AI agent (CALIE) prompted to inject controversial viewpoints into twelve interprofessional [[problem-based-learning|PBL]] teams stimulated [[critical-thinking|critical thinking]] and positive group dynamics, countering the conformity pressure that group work can otherwise produce. The contrast with Jin et al. is instructive — challenge helps when it is the intended design, and hurts when it is an unacknowledged side effect.
 - **The neutral-mediator constraint.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]], an AI that mediates disciplinary boundaries in interdisciplinary teams by surfacing implicit assumptions, was valued as both cognitive support and a relational buffer — but students' trust was load-bearing and eroded the moment the AI moved from neutral mediator to advisor or challenger. Role switches therefore need to be explicit and configurable, not silent.
@@ -124,3 +125,4 @@ A second line of research treats AI as a participant rather than a tool, and its
 - [[academic-league-of-ai-2026]] — Democratic student governance and project teams for AI education
 - [[teacher-student-agency-orchestration]] — Co-orchestration of teacher and student agency in real time
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in the AI era
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration

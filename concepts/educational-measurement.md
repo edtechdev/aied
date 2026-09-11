@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing, ai-literacy]
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
@@ -66,6 +66,7 @@ The knowledge base's evidence repeatedly shows that **how** a construct is measu
 Educational measurement is powerful but fallible. Understanding its failure modes is essential to reading AI-in-education evidence critically — and to recognizing where an apparent learning gain or construct claim may be an artifact of measurement rather than a real effect.
 
 - **Reliability limits.** Measurement is never perfectly reliable; error variance is always present. When instruments have low internal consistency or test–retest stability, observed differences may be noise. In AI contexts, new failure modes compound this: LLM-generated responses can be scored with high machine agreement yet diverge from human scoring ([[icap-cognitive-engagement-llm-agents]]), and automated scoring can be *internally* consistent while systematically wrong — precision without validity. The [[limitations-in-aied-research|measurement limitations]] of AIEd research document unreliable instruments as a cross-cutting weakness.
+- **Rater agreement sets the practical ceiling.** A large-scale validation on Uruguay's [[human-in-the-loop-ai-scoring-national-assessment-2026|*Acredita EB*]] found that human rater agreement itself sets the practical ceiling for AI scoring: among ten experts independently scoring 50 texts, no rubric item reached unanimous agreement with consensus, the most divergent rater typically fell below 80% agreement while the best exceeded 90%, and Cohen's Kappa was only slight or fair for several skewed items that almost all responses satisfy. The authors therefore judge automated scores against a reference standard that is itself imperfect — ten raters, a single operational score for most responses, and several items in the conventional 70% acceptability zone — a caution for any measurement claim built on single-rater operational labels.
 - **Validity — measuring the wrong thing.** Validity asks whether an instrument measures the construct it claims to. Common failures include **construct under-representation** (an AI-literacy test that samples only technical knowledge, missing ethics) and **construct-irrelevant variance** (an item that rewards reading fluency rather than the target skill). [[ai-scoring-language-bias-physics|AI scoring and language bias]] shows how surface features — language, phrasing, style — can drive automated scores in ways unrelated to the intended construct. [[assessment-validity]] is the guardrail against these threats.
 - **The self-report gap.** Self-report measures capture *perceived* competence, not actual competence. The knowledge base repeatedly shows self-reported AI literacy diverging sharply from performance-based measures ([[ai-literacy-assessment-misalignment]], ~40% overestimation by teachers) and that self-report fails to predict real AI-assisted performance where performance tests succeed ([[jin-glat-genai-literacy-assessment|GLAT]]). Measures that rely on self-report can systematically overstate constructs and conceal true skill gaps.
 - **Constructs that don't transfer across populations.** [[assessment-latent-structure-human-llm-2026|Strugatski et al.]] show assessment instruments can have a *different factor structure* for humans and LLMs — meaning the same items may not measure the same latent construct across populations. Even within humans, instruments validated on one group (e.g., Western, resourced [[higher-ed]]) may not generalize to others ([[global-south]]), a concern for the generalizability of AI-in-education measures.
@@ -101,6 +102,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[benchmark]]
 
 ## Connected Articles
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[causal-modelling-competency-assessment-2026]] — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
