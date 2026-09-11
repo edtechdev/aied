@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-10 | Total entries: 1320
+Last updated: 2026-09-10 | Total entries: 1321
 
 ## 2026-09-10
+- 📄 [[wang-teacher-student-centered-agents-physics-2026]] — Comparing teacher-centered and student-centered agents based on prompt engineering: Effects on learning performance, cognitive load, flow experience, and empathy perception in physics learning
 - 📄 [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Assessing ChatGPT-Generated Comments for Video-Based Learning Content to Enhance Knowledge and Emotional Support Based on Scaffolding Theory
 - 📄 [[mccorkle-aligned-genai-course-policy-2025]] — Designing an Aligned Generative AI Course Policy: An Equitable and Transparent Learner-Centered Approach
 - 📄 [[ai-literacy-sdg-governance-framework-2026]] — Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework
