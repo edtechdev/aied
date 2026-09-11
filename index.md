@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-11
 
-Articles: 1141 | Concepts: 189 | FAQs: 17
+Articles: 1142 | Concepts: 189 | FAQs: 17
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -1334,4 +1334,5 @@ Articles: 1141 | Concepts: 189 | FAQs: 17
 - [[zhou-constructive-alignment-genai-business-2026]] — From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive Alignment
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — Integrating ChatGPT in Mathematics Teacher Education: AI-Based Simulation Role-Playing to Support Practice-based Teaching
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI
 - [[zuo-instructor-power-genai-writing-2026]] — \"Will AI Steal My Glory?\": Power Relations Perceived by College Instructors When Grappling with Generative AI

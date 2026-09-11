@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-11T12:40:00-04:00"
 type: concept
 tags: [student-experience, social-emotional-learning, ethics, ai-literacy, higher-ed, motivation]
 audience: [learners]
@@ -46,6 +46,8 @@ A recurring theme is that well-being should be a deliberate design consideration
 
 Well-being connects to [[student-experience]] (as a dimension of learners' overall experience), [[social-emotional-learning]] and [[affective-computing]] (the emotional competencies AI intersects with), [[ethics]] (as a core ethical consideration), [[motivation]] and [[self-regulated-learning]] (well-being supports and is supported by these), [[teacher-ai-competency]] (educators' capacity and well-being), and [[higher-ed]] and [[k-12]] as the settings where AI shapes well-being.
 
+**Friction, meaning and loneliness as a signal.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] give the well-being case a mechanism: effort signals that our actions matter, so people who work toward a task feel more competent, value the product more and see it as more purposeful — and even on objectively meaningless tasks, adding friction raises appraised meaning. On relationships, they treat loneliness not only as an affliction (linked to cardiovascular disease, dementia, stroke and premature death) but as a **[[biology-education|biological]] signal** akin to hunger or pain: discomfort that motivates reaching out, accepting invitations, investing in existing relationships and tolerating difficult conversations. AI companions can soothe that discomfort, which the authors regard as genuine progress in some cases, while also silencing the signal that drives connection — and they temper the argument by stage, holding that for people isolated by circumstance rather than choice, denying access to such technology "would be cruel" ([[motivation]], [[social-emotional-learning]]).
+
 ## Connected Concepts
 - [[ai-anxiety-and-stress]]
 
@@ -59,6 +61,7 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[higher-ed]]
 
 ## Connected Articles
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Friction, meaning, and loneliness as a biological signal
 - [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — The Relationship Between AI Anxiety and Academic Motivation
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
 - [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
