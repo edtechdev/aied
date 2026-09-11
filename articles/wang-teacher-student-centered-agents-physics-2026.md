@@ -1,7 +1,7 @@
 ---
 title: "Comparing teacher-centered and student-centered agents based on prompt engineering: Effects on learning performance, cognitive load, flow experience, and empathy perception in physics learning"
-created: "2026-09-10T16:02:00-04:00"
-updated: "2026-09-10T16:02:00-04:00"
+created: "2026-09-11T00:40:00-04:00"
+updated: "2026-09-11T00:53:00-04:00"
 type: article
 tags: [physics-education, pedagogical-agent, prompt-engineering, generative-ai, llm, intelligent-tutoring, motivation, student-engagement, affective-computing, student-ai-interaction]
 research_method: [experiment, quantitative]
