@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-10
 
-Articles: 1131 | Concepts: 189 | FAQs: 17
+Articles: 1132 | Concepts: 189 | FAQs: 17
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -1276,6 +1276,7 @@ Articles: 1131 | Concepts: 189 | FAQs: 17
 - [[wang-goal-setting-ai-engagement-2026]] — Explaining learning engagement in AI-assisted learning through teacher support and achievement goals: insights from goal-setting theory
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
 - [[wang-teacher-ai-co-design-review-2026]] — Reimagining teacher-AI co-design in learning task design: trends and perspectives
+- [[wang-teacher-student-centered-agents-physics-2026]] — Comparing teacher-centered and student-centered agents based on prompt engineering: Effects on learning performance, cognitive load, flow experience, and empathy perception in physics learning
 - [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise
 - [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI in higher education: how dual cognitive pathways paradoxically enable transformative learning
 - [[wei-perkins-genai-student-collaboration-scoping-2026]] — Generative AI and Student Collaboration: A Scoping Review of Group Work Processes, Outcomes, and Risks
