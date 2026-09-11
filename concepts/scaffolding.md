@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-10T15:34:00-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor]
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
@@ -27,6 +27,7 @@ confidence: high
 - **Prompt-based scaffolding:** [[guided-llm-scaffolding-independent-learning|Guided LLM scaffolding]] teaches structured [[prompt-engineering|prompting]] as a learning intervention. [[scaffolding-critical-engagement-genai-minority-students|Critical engagement scaffolding]] uses [[culturally-relevant-pedagogy|culturally responsive]] approaches.
 - **Socratic scaffolding:** [[socratic-method|Socratic AI dialogue]] withholds direct answers, using questions to guide discovery — a form of [[desirable-difficulties]] scaffolding.
 - **Adaptive fading:** [[intelligent-tutoring|Intelligent tutoring systems]] adjust scaffolding based on [[knowledge-tracing]] estimates, providing more support for unmastered concepts and less for known ones.
+- **Need-triggered adaptive scaffolding in [[medical-education|clinical]] interview training:** the MeduAI-SP [[rct|randomized trial]] ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al., 2026]]; N = 100 third-year medical students) operationalized scaffolding as adaptive, need-triggered support: a turn-level evaluator agent flagged when a learner was stuck, omitted key history, risked premature closure, or impaired rapport, and only then did a tutor agent issue a [[socratic-method|Socratic]] prompt. Expert annotation of 207 consultations showed that scaffolding need was strongly phase-dependent, rising from about 16.1% of student utterances early in the encounter to 34.8% late (24.1% flagged overall) — empirical evidence that novice consultation support is most needed during integration and diagnostic reasoning, not initial information gathering. The scaffolding condition outperformed a structured progressive-disclosure control on the final OSCE-aligned examination (71.8% vs. 55.6%; β = 16.4 percentage points; P = 3.30e-4), with the largest gain in communication (Hedges' g = −0.79).
 - **Hint systems:** [[correct-answer-trap-ai-tutor|AI tutor hint research]] examines when hints help versus when they encourage [[cognitive-offloading|Over-Reliance]].
 - **Conceptual scaffolds:** [[concept-catalyst-engineering-scaffolds|Concept Catalyst]] and [[rethinking-scaffolding-llm-tutors|LLM tutor rethinking]] explore design patterns for cognitive support.
 - **"Scaffold, do not substitute" as a design principle:** [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al. (2026)]] argue that the central risk of AI in education is misalignment — AI that substitutes for human effort erodes the capacities education is meant to build — and derive a single design principle, *scaffold, do not substitute*. Scaffolding must be a first-class capability of AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. Their analysis of student essays shows learners themselves converge on this — asking for AI that "does not provide any solutions for you, you still learn as you have to find the correct answer yourself." The principle positions scaffolding as the alternative to a self-reinforcing harm cycle of substitution across cognition, agency, emotion, and [[ethics]].
@@ -69,6 +70,7 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Entropy-timed AI comments as in-video knowledge and emotional scaffolding (Wang, Du & Jin 2026)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[guided-llm-scaffolding-independent-learning]] — Guided LLM prompting as a structured learning intervention

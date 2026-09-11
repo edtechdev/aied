@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-09T09:05:09-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, metacognition, cognitive-offloading, academic-integrity, generative-ai, student-experience, teacher-role]
 audience: [learners, instructors]
@@ -70,6 +70,8 @@ Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process t
 
 For misconceptions about AI, this means correction should combine **direct confrontation** (refutation-style materials that name and rebut specific myths) with **scaffolded practice** — using [[ai-literacy]] instruction and [[metacognition]] to help people see both the false belief and the correct model. The evidence cautions that the *format* matters: personalised, interactive correction is more engaging and initially more effective, but needs reinforcement to persist; and the outcome measured (knowledge vs. attitudes vs. skills) shapes how large a correction effect appears. Because misconceptions span learners and the adults who shape learning, effective correction must reach [[teacher-role|teachers]], [[administrator|administrators]], and [[educational-policy-ai|policymakers]] as much as students.
 
+Bernstein and Sibia (2026) show that [[generative-ai|GenAI]]-generated analogies introduce structural misconceptions that only source-domain knowledge can catch ([[student-reception-genai-analogies-computing-2026]]): a circular-route analogy for a linked list implies a loop back to the start, and a badminton-rally analogy for recursion carries no guaranteed shrinking input. Students who knew the source domain identified these flaws and proposed repairs, while participants noted that a flawed analogy may still be memorable — indicating that a familiar analogy source can help learners detect, rather than absorb, an AI-produced misconception, and that framing flaws as deliberate artefacts for critique turns the risk into an assessment opportunity.
+
 ### Refutation-style corrections for common AI misconceptions
 
 Because misconceptions are actively held and resistant, the most direct way to address them — including on this page — is the [[refutation-text|refutation-text]] structure: **name the misconception, explicitly refute it, and state the correct conception.** The entries below apply that structure to the most consequential misconceptions about AI and about learning, teaching, and education:
@@ -122,4 +124,4 @@ These refutations are deliberately written in the [[refutation-text|refutation-t
 - [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
 - [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
-
+- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education

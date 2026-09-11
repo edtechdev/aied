@@ -1,7 +1,7 @@
 ---
 title: Psychometrically Aware AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, llm]
 research_method: [educational measurement]
@@ -27,9 +27,10 @@ As AI systems increasingly score responses, predict difficulty, and provide [[fe
 ### How psychometrically aware AI appears in the research
 
 - **Calibration and confidence:** [[automated-assessment|Confidence-aware assessment]] and [[llm-psychometric-calibration-cdp|LLM psychometric calibration]] ensure that AI reports meaningful, uncertainty-aware scores rather than overconfident point estimates.
-- **Difficulty prediction:** [[llm-item-difficulty-prediction|Item-difficulty prediction]] shows how LLM-based estimates must be validated against psychometric models (see [[item-response-theory]]). [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] provide a large-scale demonstration: across 5,170 K-5 math and reading items calibrated under the Rasch IRT model, GPT-4o's zero-shot difficulty ratings correlated moderately-to-strongly with true difficulties (r = 0.83 math, r = 0.81 reading) but were uneven across grades, while a feature-based approach (LLM-extracted features into tree-based models) reached correlations up to r = 0.87. The study's interpretable feature importance (grade level and word count top predictors) and its practical seven-step workflow illustrate how psychometrically aware AI can be operationalized — while its early-grade range-restriction finding and generalizability caveats underscore the need to validate LLM estimates against fitted psychometric parameters.
+- **Difficulty prediction:** [[llm-item-difficulty-prediction|Item-difficulty prediction]] shows how LLM-based estimates must be validated against psychometric models (see [[item-response-theory]]). [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] provide a large-scale demonstration: across 5,170 K-5 math and reading items calibrated under the Rasch IRT model, GPT-4o's zero-shot difficulty ratings correlated moderately-to-strongly with true difficulties (r = 0.83 math, r = 0.81 reading) but were uneven across grades, while a feature-based approach (LLM-extracted features into tree-based models) reached correlations up to r = 0.87. The study's interpretable [[explainable-ai|feature importance]] (grade level and word count top predictors) and its practical seven-step workflow illustrate how psychometrically aware AI can be operationalized — while its early-grade range-restriction finding and generalizability caveats underscore the need to validate LLM estimates against fitted psychometric parameters.
 - **Measurement validity:** The concept connects to [[assessment-validity]] and [[educational-measurement]], the frameworks that define what valid, reliable AI assessment looks like.
 - **Latent-structure validity:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] show that a psychometrically aware stance must also verify that an assessment measures the *same latent construct* in LLMs as in humans. Because LLM and human response factor structures diverge on the same instruments, even well-scoring models may not be measuring the construct the exam purports to measure — a caveat for any AI assessment that borrows human validity evidence.
+- **Latent-ability pipelines and standard setting:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] provide a concrete template for psychometrically aware scoring in a national exam: rubric item scores are never summed directly but fed into an [[item-response-theory|IRT]] model whose latent-ability estimates are cut with the Bookmark standard-setting method into Proficient / Close to Proficiency / Insufficient, with passing requiring at least two Proficient sections and the remaining one at least Close to Proficiency. The authors reproduced that pipeline in automated form (a 67% probability of answering at least 7 rubric items correctly for the lower cut and at least 10 for the upper), letting AI and human item scores be compared against identical decision criteria rather than on raw agreement alone.
 
 ### Connections
 
@@ -46,6 +47,7 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration

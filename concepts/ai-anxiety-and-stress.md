@@ -1,7 +1,7 @@
 ---
 title: AI Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-09-03T12:30:00-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [well-being, remote-proctoring, social-emotional-learning, affective-computing, academic-integrity, student-experience, adult-learning]
 audience: [learners]
@@ -60,6 +60,7 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[ai-campus-wellbeing-tools|AI campus well-being tools]] span prevention (improved feedback collection) and intervention (advancing mental-health detection).
 - [[affective-text-wearable-student-health|Affective text + wearable sensing]] (a year-long study of 458 students with Oura rings) shows ultra-brief naturalistic text can complement wearable physiological sensing for longitudinal student health monitoring — a concrete AI-enabled stress-detection pathway.
 - This links to [[affective-computing]] and [[affective-tutoring]], where AI reads and responds to emotional state.
+- **Which stressors the model weighs — and why context matters.** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] offer a [[machine-learning]] window on which stressors actually drive student distress in a non-Western context. Feature-importance analysis on 1,100 survey responses put blood pressure first (15.6%) and **teacher-student relationship second (10.0%)** — ahead of sleep quality (9.3%), depression (8.3%) and social support (7.6%) — while anxiety level ranked ninth at 4.8%, which the authors read as evidence that student stress is multi-dimensional rather than driven by a single psychological indicator. They attribute the salience of the teacher-student relationship to the comparatively hierarchical educational environment in Pakistan and present it as a hypothesis for locally collected data, underlining that stress models and their feature weights are context-dependent and cannot be assumed to transfer across student populations.
 
 ## Why this is distinct from well-being
 
@@ -110,3 +111,4 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences
 
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
+- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning

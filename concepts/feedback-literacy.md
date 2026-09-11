@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-11T06:15:00-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [feedback-literacy, feedback, ai-feedback-quality, formative-assessment, self-regulated-learning, ai-literacy, peer-review, writing-education]
 discipline: [writing education]
@@ -31,6 +31,7 @@ Feedback literacy is widely framed as a set of interrelated capabilities — the
 - **Sense-making** — interpreting feedback in relation to task goals and criteria, and understanding what it implies for improvement.
 - **Managing affect** — engaging productively with feedback without being discouraged or over-inflated by it.
 - **Acting on feedback** — translating feedback into concrete revisions or changes in approach ([[feedback|Feedback Loop]], [[self-regulated-learning]]).
+- **Judging evaluative authority** — a further capacity proposed by [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]]: alongside appreciating feedback, making judgements, managing affect and taking action, students reasoning about AI-produced feedback needed to judge *which source holds evaluative authority*, separately from judging feedback quality. Because participants were told ChatGPT generated both score and feedback, their feedback literacy was exercised on the source and legitimacy of the evaluation, not only its content, and it produced demands for instructor validation rather than passive acceptance.
 
 ### How feedback literacy appears in the research
 
@@ -97,4 +98,5 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 - [[feedback-futures-genai]] — Feedback futures with GenAI
 - [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
 - [[repeated-ai-writing-feedback-semester]] — Repeated AI writing feedback across a semester
+- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
 

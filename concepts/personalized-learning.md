@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-07T09:09:07-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 audience: [learners]
@@ -66,7 +66,9 @@ Personalization and [[assessment]] are tightly coupled in AI-driven learning. Ad
 
 Reinforcement learning is a distinct mechanism for personalization, and [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] map its empirical track record: their PRISMA review of 89 RL-in-education studies finds RL personalization concentrated in [[higher-ed]] and [[math-education]], with adaptation implemented mainly as content scheduling (n = 53) or guidance-related personalization such as hints and feedback (n = 36). They report that RL policies beat non-adaptive baselines most often on guidance-related adaptation and on [[affective-computing|affective]] variables (63% of tested studies), and that learning gain — especially normalized learning gain — was the most effective reward source — practical guidance for designing reward signals that personalize toward genuine learning rather than [[student-engagement|engagement]].
 
-## Terminological ambiguity### Prompt-conditioned micro-personalization
+Bernstein and Sibia (2026) sharpen a distinction between interest personalization and expertise personalization: interest-matched GenAI analogies were reported as more engaging and memorable but not uniformly more trusted, and some students preferred the generic technical explanation even when the analogy matched their stated interest, for self-sufficiency and completeness ([[student-reception-genai-analogies-computing-2026]]). Their design recommendation is to personalize through source-domain structure and to ask students what they already know, not only what interests them, since familiarity with a source domain is what lets a learner inspect the analogy — and to give learners control over personalization through a menu of analogies, opt-in, or offering generic and personalized versions together.
+
+## Prompt-conditioned micro-personalization
 
 [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] show that the gap between system and perceived personalization can be addressed at the response level. Their framework for the Jill Watson [[llm|LLM]]/[[rag|RAG]] tutor combines learner-selected preferences (abstraction, verbosity, perception, processing, understanding) with system-inferred cognitive demand ([[cognitive-diagnosis|Bloom's Taxonomy]]) to produce 96 micro-profiles adapted at each interaction via [[prompt-engineering|structured prompt conditioning]] — no retraining, no [[discipline-specific-aied|domain-specific]] authoring. This is a hybrid of [[adaptive-learning|adaptability]] (learner-driven preference selection) and adaptivity (system-driven cognitive assessment), showing that personalization of *how* content is presented can be both scalable and perceptible to learners.
 
@@ -132,3 +134,4 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review: adaptive pathways & recommenders are a top AI integration use case in higher ed
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
+- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education

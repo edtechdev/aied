@@ -1,7 +1,7 @@
 ---
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-09T01:46:17-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 discipline: [language learning, writing education]
@@ -27,7 +27,7 @@ Writing is not merely output but a cognitive, social, and rhetorical process. Th
 
 ### How AI in writing education appears in the research
 
-- **Automated essay scoring:** [[automated-essay-scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] and [[aiawe-automated-writing-evaluation|AIAWE]] evaluate student writing at scale, raising questions about [[assessment-validity|construct validity]] and the reduction of writing to measurable features.
+- **Automated essay scoring:** [[automated-essay-scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] and [[aiawe-automated-writing-evaluation|AIAWE]] evaluate student writing at scale, raising questions about [[assessment-validity|construct validity]] and the reduction of writing to measurable features. For short argumentative writing (about 150–200 words) in Spanish, AI scoring agreement varies sharply by rubric dimension ([[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al., 2026]]): structure- and register-oriented items — introduction, conclusion, register, nominal agreement, subject–verb agreement — reached moderate chance-corrected agreement with human raters in the 2025 edition, while micro-level linguistic items (vocabulary, syntax, punctuation, connectors, argumentation) stayed in the fair-to-slight range. This suggests LLM assistance is most defensible for macro-level discourse features, and that low-level language conventions should keep deterministic tooling or [[human-in-the-loop-ai|human review]].
 
 - **Writing feedback:** [[ai-feedback-quality|AI feedback quality]] research ([[genai-teacher-feedback-comparison|GenAI vs. teacher feedback]], [[care-full-feedback-genai|care-full feedback]], [[repeated-ai-writing-feedback-semester|repeated AI feedback]]) examines whether AI feedback improves writing and how it compares to human feedback. The PAIRR model ([[pairr-ai-peer-review-2025|Peer and AI Review + Reflection]]) combines AI with [[peer-review]] and finds AI feedback is most useful in a human-centered process.
 
@@ -47,11 +47,11 @@ Because writing is a cognitive process, AI-in-writing research connects to [[cog
 
 [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] sharpens this with a **layer-sensitive** account of [[cognitive-offloading|cognitive offloading]] in GenAI-assisted academic writing: delegating *deeper* layers (reasoning, argumentative logic) carries a stronger negative association with independent no-AI writing quality and [[critical-thinking|higher-order thinking]] than delegating surface layers (grammar, vocabulary). Open AI collaboration yielded the best supported product but the worst independent outcomes, while bounded support with reflection preserved competence — evidence that GenAI writing support is not uniformly harmful but its effect depends on which cognitive layer students delegate.
 
-[[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] extend this thinking to *multimodal* composing by younger writers. Having 60 [[k-12|Grade 5]] students externalize their narratives as AI-generated images and short videos produced sustained self-reported gains in interpretation, analysis, evaluation, and explanation — the facets multimodal resemiotisation exercises — but **no gain in inference**. Making meaning visually explicit lowered the demand to infer implicit meaning from text, exactly the offloading mechanism Chen describes; only structured peer discussion restored occasions for inference. The study cautions that multimodal AI composing helps young writers reflect on clarity and coherence while potentially skimming off the inferential work that text-only writing preserves — a design consideration for writing instructors pairing AI [[visualization|visuals]] with peer [[peer-review|feedback]].
+[[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] extend this thinking to *multimodal* composing by younger writers. Having 60 [[k-12|Grade 5]] students externalize their narratives as AI-generated images and short videos produced sustained self-reported gains in interpretation, analysis, evaluation, and explanation — the facets multimodal resemiotisation exercises — but **no gain in inference**. Making meaning visually explicit lowered the demand to infer implicit meaning from text, exactly the offloading mechanism Chen describes; only structured peer discussion restored occasions for inference. The study cautions that [[multimodal|multimodal AI]] composing helps young writers reflect on clarity and coherence while potentially skimming off the inferential work that text-only writing preserves — a design consideration for writing instructors pairing AI [[visualization|visuals]] with peer [[peer-review|feedback]].
 
 ### Designing AI writing support: coaching, not composing
 
-Because writing has no single correct answer, AI writing tools require a different design from answer-verifiable tutors. The knowledge base's design guidance (see the worked **AI writing coach** example in the FAQ on [[developing-ai-tutor|Designing an AI Tutor]]) centers on preserving authorship and evaluative judgment rather than producing finished text:
+Because writing has no single correct answer, AI writing tools require a different design from answer-verifiable tutors. The knowledge base's design guidance (see the worked **AI writing coach** example in the FAQ on [[developing-ai-tutor|Designing an AI Tutor]]) centers on preserving authorship and [[evaluative-judgement|evaluative judgment]] rather than producing finished text:
 
 - **Track writing capabilities, not just essay scores.** A writing coach's [[student-modeling|learner model]] can track argument (thesis specificity, claim–evidence alignment, counterargument), organization, evidence integration, revision, and style — so feedback targets capabilities that persist across essays.
 - **Ground feedback in the assignment.** Retrieve the actual prompt, rubric, course readings, citation and genre conventions, and AI-use policy so feedback references the specific assignment rather than inventing generic expectations.
@@ -95,6 +95,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[english-education]]
 
 ## Connected Articles
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]

@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-11T00:52:00-04:00"
+updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [physics-education, stem-education, intelligent-tutoring, generative-ai, higher-ed, student-experience, ai-literacy, socratic-method]
 discipline: [physics education, stem education]
@@ -40,6 +40,8 @@ Physics education [[research-methods-aied|research]] has become a proving ground
 
 **Instructional-design frameworks for AI-augmented instruction.** **[[airis-cognitively-activated-ai-physics-2026|Kuhn et al.]]** propose the **AIRIS** framework (Activate–Inquire–Reflect with Intelligent Support) — a three-phase structure for cognitively activated AI use in physics: students predict and sketch expected outcomes before AI (Activate), delegate computational and representational steps to AI while critically comparing output to their own predictions (Inquire), and interpret, check consistency across representations, and reflect on what the AI contributed afterward (Reflect). Grounded in [[self-regulated-learning]], [[cognitive-offloading|Cognitive Load]] Theory, multiple external representations, and [[human-ai-collaboration]], it frames the central challenge as [[learning-design|instructional design]] rather than cheating or tool choice, and calls for "withdrawal condition" experiments testing whether learning survives the removal of AI support.
 
+**Assisted performance vs. unaided knowledge in a redesigned course.** A 2026 redesign of the introductory nuclear and particle physics course at Ruhr University Bochum (Mikhasenko et al.) allowed [[generative-ai|generative AI]] on ten deliberately AI-resistant, research-shaped homework sheets designed so that naive [[prompt-engineering|prompting]] would not suffice. [[student-engagement|Engagement]] and ambition were high — 24 of 42 students earned credit on all ten sheets, and one derivation filled more than two metres of blackboard — but an unaided 90-minute written exam was a "serious warning": a mean of 20.6/80, with only two of 27 examinees reaching 40. The authors conclude that assisted performance and independently retrievable knowledge are distinct achievements that cannot be assumed to train or demonstrate each other, and that physics courses must reserve some practice for unaided work — reinforcing the knowledge base's broader [[transfer-of-learning|transfer]] evidence.
+
 **Agent role design as an instructional variable.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] hold the model (DeepSeek R1), platform, and temperature constant and vary only the prompt-specified role: a teacher-centered agent answering authoritatively from a bounded textbook knowledge source, versus a student-centered agent configured as an empathic teacher with knowledge of students' understanding, scripted to diagnose the cause of [[misconceptions]], name the relevant concept, and transfer to an analogous phenomenon. Across 59 high-school graduates working two conceptual items, the student-centered agent produced higher post-test scores (9.67 vs. 7.93; r = 0.38), lower extraneous and higher germane cognitive load, stronger flow experience (d = 0.92), and higher empathy perception (r = 0.53) — evidence that role framing, not just answer accuracy, is what makes a physics agent instructionally effective ([[pedagogical-agent]], [[prompt-engineering]]).
 
 ### Connections to related concepts
@@ -53,6 +55,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - **Structure AI use cognitively, not just permissively.** [[airis-cognitively-activated-ai-physics-2026|AIRIS]] (Activate–Inquire–Reflect) shows the value of having students predict/outline before AI, delegate computational steps while comparing output critically, and reflect afterward — treat AI integration as an instructional-design problem, and test whether learning survives AI removal.
 - **Guard against scoring bias.** [[ai-scoring-language-bias-physics|AI scoring]] systematically underestimates linguistically weaker students' explanations; use language-aware or human-moderated scoring for conceptual assessment.
 - **Use simulated classrooms for teacher preparation.** [[multiagent-classroom-dual-process-physics-teachers-2026|Simulated multi-agent classrooms]] give prospective teachers rare practice responding to authentic student reasoning — a low-cost complement to live microteaching.
+- **Reserve unaided practice and assessment.** The Bochum redesign ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al. 2026]]) shows AI-permitted, research-shaped homework completed with high engagement can leave students far behind on an unaided exam (mean 20.6/80) — treat assisted performance and independently retrievable knowledge as distinct, and build deliberate unaided practice and a written exam into the course.
 
 ## Connected Concepts
 
@@ -99,4 +102,4 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
-
+- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
