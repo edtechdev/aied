@@ -1,7 +1,7 @@
 ---
 title: Affective Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-03T09:00:00-04:00"
+updated: "2026-09-10T16:16:00-04:00"
 type: concept
 tags: [student-experience, higher-ed, llm, generative-ai, learning-analytics, k-12, cognitive-offloading, adaptive-learning, personalized-learning, intelligent-tutoring]
 audience: [learners]
@@ -27,7 +27,7 @@ confidence: medium
 
 Affective computing aims to make AI systems emotionally aware so they can respond to how learners feel, not just what they do. In education this means sensing frustration, confusion, confidence, boredom, or engagement and adapting instruction accordingly. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] demonstrates the approach by modeling affect from two modalities — conversational text and real-time facial expression — and mapping aggregated emotional state to [[pedagogy|pedagogical]] strategies before [[prompt-engineering|prompting]] the tutor.
 
-- **Emotional and reflective LLM support in middle-school math:** [[mindful-llm-math-tutoring-2026|Rief et al. (2026)]] layered mindfulness onto an algebra [[intelligent-tutoring|tutor]] for 7th graders via dynamic chats, breathing exercises, and mindful error-feedback language. In a small classroom RCT (42 completers of 252 participants) the mindful version reached similar algebra learning in less time and with fewer requested hints than cognitive support alone — higher learning efficiency and more balanced help-seeking — though state-math-anxiety reduction did not differ significantly between conditions.
+- **Emotional and reflective LLM support in middle-school math:** [[mindful-llm-math-tutoring-2026|Rief et al. (2026)]] layered mindfulness onto an algebra [[intelligent-tutoring|tutor]] for 7th graders via dynamic chats, breathing exercises, and mindful error-feedback language. In a small classroom [[rct]] (42 completers of 252 participants) the mindful version reached similar algebra learning in less time and with fewer requested hints than cognitive support alone — higher learning efficiency and more balanced [[help-seeking]] — though state-math-anxiety reduction did not differ significantly between conditions.
 
 ### The benefits and the risks
 
@@ -43,6 +43,7 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - **Real-time, edge-based classroom emotion monitoring.** [[emotion-aware-classroom-iot-monitoring-2026|Nguyen et al. (2026)]] build an emotion-aware classroom quality assessment system that pushes affective computing into authentic, large-scale settings. Tailored for **IoT/edge devices**, the system addresses load balancing and latency while coordinating multiple agents to capture students' emotional and engagement patterns in real time. It was evaluated on the **Classroom Emotion Dataset** (1,500 labeled images and 300 classroom videos from real Vietnamese K–12 classrooms) with a focus on multi-person, in-the-wild affective interaction — a demonstration of scaling emotion recognition from lab models to deployable classroom monitoring, alongside the privacy and [[pedagogical-safety]] considerations such monitoring raises.
 
 - **Emotionally intelligent assessment agents.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], an [[llm]]-augmented emotionally intelligent [[conversational-ai|conversational agent]], reduced student anxiety and social pressure during performance-based assessments while preserving [[usability-research|usability]].
+- **Empathy engineered through prompt design, not sensing.** Affective support does not require affect detection: [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] obtained a large difference in *empathy perception* (21.27 vs. 18.24; r = 0.53) between two LLM [[physics-education|physics]] agents that differed only in prompt-specified role and conversational moves — perspective-taking openings ("You have this question because…"), [[misconceptions|misconception]] diagnosis, and a comprehension check at the end of each round — while model, platform, and temperature were held constant. This is a useful counterweight to sensor-driven affective computing: the perceived emotional quality of a [[pedagogical-agent]] can be designed into the interaction script, while also reminding designers that perceived empathy is a self-report construct rather than evidence of genuine affective understanding ([[student-ai-interaction]]).
 ## Connected Concepts
 - [[ai-anxiety-and-stress]]
 
@@ -59,6 +60,7 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[pedagogical-llm-training]]
 - [[ai-sycophancy]]
 ## Connected Articles
+- [[wang-teacher-student-centered-agents-physics-2026]] — Empathy perception from prompt-designed agent roles in physics learning (Wang et al. 2026)
 
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning

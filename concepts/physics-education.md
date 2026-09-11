@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-09T09:05:09-04:00"
+updated: "2026-09-10T16:12:00-04:00"
 type: concept
 tags: [physics-education, stem-education, intelligent-tutoring, generative-ai, higher-ed, student-experience, ai-literacy, socratic-method]
 discipline: [physics education, stem education]
@@ -34,11 +34,13 @@ Physics education [[research-methods-aied|research]] has become a proving ground
 
 **Assessment and computational thinking** examines how AI can evaluate physics learning. **[[llm-computational-thinking-physics-2026|Savage et al.]]** used LLMs to assess [[computational-thinking|computational thinking]] growth in introductory physics, finding LLMs can scale CT assessment but struggle with complex constructs like Systems Thinking. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** demonstrated that AI scoring systematically underestimates linguistically weak students' physics explanations — a finding that connects to [[assessment-validity]], [[bias-mitigation]], and [[equity-in-ai-education]].
 
-**Benchmarking multimodal AI on authentic physics problems.** [[omniphys-multimodal-physics-benchmark-2026|Chen et al. (2026)]] introduce **OmniPhys**, a large-scale [[multimodal|multimodal]] [[benchmark]] (15,246 questions, 19,850 images) spanning middle-school through university-level physics from Chinese educational corpora. Unusually, it evaluates not just multimodal *input* comprehension but multimodal *output* generation — whether models can synthesize structured physics diagrams, a core component of authentic problem solving. Extensive evaluations reveal critical gaps in current multimodal LLMs, especially in complex reasoning and visual generation. This complements [[probing-ai-generated-physics-solutions-2026|probing AI-generated physics solutions]] and extends the knowledge base's evidence that AI systems struggle on the high-level, diagram-heavy reasoning characteristic of authentic physics — informing realistic expectations for [[intelligent-tutoring|tutoring]] and [[automated-assessment|automated assessment]].
+**Benchmarking multimodal AI on authentic physics problems.** [[omniphys-multimodal-physics-benchmark-2026|Chen et al. (2026)]] introduce **OmniPhys**, a large-scale [[multimodal]] [[benchmark]] (15,246 questions, 19,850 images) spanning middle-school through university-level physics from Chinese educational corpora. Unusually, it evaluates not just multimodal *input* comprehension but multimodal *output* generation — whether models can synthesize structured physics diagrams, a core component of authentic problem solving. Extensive evaluations reveal critical gaps in current multimodal LLMs, especially in complex reasoning and visual generation. This complements [[probing-ai-generated-physics-solutions-2026|probing AI-generated physics solutions]] and extends the knowledge base's evidence that AI systems struggle on the high-level, diagram-heavy reasoning characteristic of authentic physics — informing realistic expectations for [[intelligent-tutoring|tutoring]] and [[automated-assessment|automated assessment]].
 
 **Teacher preparation and simulation** uses AI to train physics teachers. **[[multiagent-classroom-dual-process-physics-teachers-2026|Tufino]]** created a simulated multi-agent classroom where five AI students enact dual-process theory reasoning hazards, giving prospective physics teachers rare practice in responding to authentic student reasoning. This connects to [[professional-training]], Dual-Process Theory, and [[simulation]]-based learning.
 
 **Instructional-design frameworks for AI-augmented instruction.** **[[airis-cognitively-activated-ai-physics-2026|Kuhn et al.]]** propose the **AIRIS** framework (Activate–Inquire–Reflect with Intelligent Support) — a three-phase structure for cognitively activated AI use in physics: students predict and sketch expected outcomes before AI (Activate), delegate computational and representational steps to AI while critically comparing output to their own predictions (Inquire), and interpret, check consistency across representations, and reflect on what the AI contributed afterward (Reflect). Grounded in [[self-regulated-learning]], [[cognitive-offloading|Cognitive Load]] Theory, multiple external representations, and [[human-ai-collaboration]], it frames the central challenge as [[learning-design|instructional design]] rather than cheating or tool choice, and calls for "withdrawal condition" experiments testing whether learning survives the removal of AI support.
+
+**Agent role design as an instructional variable.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] hold the model (DeepSeek R1), platform, and temperature constant and vary only the prompt-specified role: a teacher-centered agent answering authoritatively from a bounded textbook knowledge source, versus a student-centered agent configured as an empathic teacher with knowledge of students' understanding, scripted to diagnose the cause of [[misconceptions]], name the relevant concept, and transfer to an analogous phenomenon. Across 59 high-school graduates working two conceptual items, the student-centered agent produced higher post-test scores (9.67 vs. 7.93; r = 0.38), lower extraneous and higher germane cognitive load, stronger flow experience (d = 0.92), and higher empathy perception (r = 0.53) — evidence that role framing, not just answer accuracy, is what makes a physics agent instructionally effective ([[pedagogical-agent]], [[prompt-engineering]]).
 
 ### Connections to related concepts
 
@@ -76,6 +78,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[wang-teacher-student-centered-agents-physics-2026]] — Teacher-centered vs. student-centered prompt-engineered physics agents (Wang et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
 
