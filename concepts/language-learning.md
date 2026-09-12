@@ -1,7 +1,7 @@
 ---
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-06T08:30:00-04:00"
+updated: "2026-09-12T09:05:00-04:00"
 type: concept
 tags: [language-learning, ai-education, generative-ai, writing-education, higher-ed, k-12, equity-in-ai-education]
 discipline: [language learning, writing education]
@@ -33,6 +33,8 @@ Language learning has emerged as a significant AI in education domain because la
 **[[accessibility]] for language learners** connects to [[inclusive-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners use AI for literacy support, and **[[ai-tools-arab-english-classrooms]]** explored AI tools in Arabic-English classroom contexts. These studies connect language learning to [[equity-in-ai-education]] and [[special-education]].
 
 **Motivational mechanisms in AI-assisted language learning** examine why learners engage with AI for language practice. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** used goal-setting theory with 758 Chinese university English learners to show that **teacher support** enhances engagement in AI-assisted learning through students' mastery-approach and performance-approach goals (not avoidance goals) — evidence that the pedagogical and social context, not just the AI tool, determines whether learners stay engaged with AI-assisted language practice. This connects language learning to [[motivation]] and [[student-engagement]].
+
+**GenAI-supported writing at the primary level.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] ran a nine-week opinion-writing program with 301 Grade 5 and 6 learners in Eastern China, with eight intact classes randomly assigned to the program or to conventional instruction. The program raised learners' ideal L2 writing self (adjusted mean difference 0.20) and academic buoyancy (0.17), and lifted behavioural and emotional engagement, but it did not move growth mindset, cognitive or metacognitive engagement, or rubric-scored organization — among writing dimensions only language use improved. Two features of the design matter for language teachers: prompting was taught explicitly, through a categorised bank of prompts tied to specific writing goals, and GenAI feedback was used alongside comparison with teacher feedback and repeated revision. The authorship gains learners reported rested on that instructional structure rather than on the tool by itself, and the authors name reduced self-monitoring and shortcut-oriented strategies as the standing risks.
 
 ## Implications for language instructors
 
@@ -95,3 +97,4 @@ Language learning has emerged as a significant AI in education domain because la
 - [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
+- [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 learners (Lu et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-12T08:50:00-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 discipline: [language learning, writing education]
@@ -35,11 +35,11 @@ Writing is not merely output but a cognitive, social, and rhetorical process. Th
 
 - **Posthumanist perspectives:** [[posthumanist-ai-literacy-2025|A posthumanist approach to AI literacy]] reframes writing as a human-AI entanglement in which [[agency]] is distributed, challenging both uncritical anthropomorphization of AI and its dismissal as a mere tool — a relational rather than transactional view of AI literacy.
 
-- **L2 / [[multilingual-learning|multilingual]] writing:** [[self-referential-l2-writing-llm-assessment|L2 writing assessment]], [[genai-linguistic-diversity-academic-writing|linguistic diversity research]], and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] address how AI supports (or constrains) second-language and multilingual writers, including the risk of reinforcing Standard Academic English norms.
+- **L2 / [[multilingual-learning|multilingual]] writing:** [[self-referential-l2-writing-llm-assessment|L2 writing assessment]], [[genai-linguistic-diversity-academic-writing|linguistic diversity research]], and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] address how AI supports (or constrains) second-language and multilingual writers, including the risk of reinforcing Standard Academic English norms. The knowledge base's youngest L2 sample comes from a nine-week GenAI-supported opinion-writing program with 301 Grade 5 and 6 students in Eastern China ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]), which raised ideal L2 writing self and academic buoyancy and improved rubric-scored language use while leaving organization and total scores unchanged — AI support moved specific dimensions of writing rather than writing ability as a whole.
 
 - **Bias in personalized feedback (Marked Pedagogies):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] show that [[llm]] writing-feedback tools are not language-neutral: personalizing feedback with a student's race, ethnicity, ELL designation, learning disability, achievement, or motivation systematically shifts feedback in stereotype-aligned ways — including positive feedback bias and feedback withholding bias (overuse of praise, less substantive critique, assumptions of limited ability) for students marked by race, language, or disability, even when the essay is identical. This makes "[[personalized-learning|personalization]]" itself a bias vector that writing-feedback tools must audit and control.
 
-- **Academic integrity:** [[academic-integrity]] and [[student-rationalization-ai-writing|student rationalization studies]] examine how students justify AI use, moving the conversation from plagiarism policing toward building AI literacy and [[ethics|ethical]] use.
+- **Academic integrity:** [[academic-integrity]] and [[student-rationalization-ai-writing|student rationalization studies]] examine how students justify AI use, moving the conversation from plagiarism policing toward building AI literacy and [[ethics|ethical]] use. Survey evidence complicates the policing frame directly: among 504 sociology students ([[student-genai-use-views-writing|Kuznetsov et al., 2026]]), 65 percent had used GenAI for coursework but only 3 percent to generate assignment text and 2 percent to produce a full draft, while fear of an academic offence was the second most common concern (28 percent) and roughly a quarter reported no guidance at all (19 percent) or guidance they found unclear. On this evidence the writing-education problem is ambiguity about permitted use, not widespread text generation.
 
 ### Writing as thinking
 
@@ -48,6 +48,8 @@ Because writing is a cognitive process, AI-in-writing research connects to [[cog
 [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] sharpens this with a **layer-sensitive** account of [[cognitive-offloading|cognitive offloading]] in GenAI-assisted academic writing: delegating *deeper* layers (reasoning, argumentative logic) carries a stronger negative association with independent no-AI writing quality and [[critical-thinking|higher-order thinking]] than delegating surface layers (grammar, vocabulary). Open AI collaboration yielded the best supported product but the worst independent outcomes, while bounded support with reflection preserved competence — evidence that GenAI writing support is not uniformly harmful but its effect depends on which cognitive layer students delegate.
 
 [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] extend this thinking to *multimodal* composing by younger writers. Having 60 [[k-12|Grade 5]] students externalize their narratives as AI-generated images and short videos produced sustained self-reported gains in interpretation, analysis, evaluation, and explanation — the facets multimodal resemiotisation exercises — but **no gain in inference**. Making meaning visually explicit lowered the demand to infer implicit meaning from text, exactly the offloading mechanism Chen describes; only structured peer discussion restored occasions for inference. The study cautions that [[multimodal|multimodal AI]] composing helps young writers reflect on clarity and coherence while potentially skimming off the inferential work that text-only writing preserves — a design consideration for writing instructors pairing AI [[visualization|visuals]] with peer [[peer-review|feedback]].
+
+A dimension-specific pattern recurs across this literature, and it is a useful diagnostic. In the primary-level L2 writing program, emotional and behavioural [[student-engagement|engagement]] rose while cognitive and metacognitive engagement did not, and the authors name diminished self-monitoring during writing as an explicit risk of GenAI support ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]). Enjoyment and on-task activity are therefore not evidence that deeper processing is happening — the same distinction the offloading research draws when it asks which layer of cognitive work a student has delegated.
 
 ### Designing AI writing support: coaching, not composing
 
@@ -126,3 +128,5 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)
+- [[student-genai-use-views-writing]] — Student use of and views on GenAI for writing (Kuznetsov, Sheely & Baker 2026)
+- [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 motivation, engagement and performance (Lu et al. 2026)

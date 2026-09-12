@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-11T12:42:00-04:00"
+updated: "2026-09-12T09:05:00-04:00"
 type: concept
 tags: [motivation, student-experience, student-engagement, affective-computing, self-determination-theory, ai-education]
 audience: [learners]
@@ -31,6 +31,8 @@ Motivation is a foundational construct in education research, and the rise of AI
 **AI effects on student motivation** is the most direct line of research. **[[ai-availability-student-motivation]]** examines how the availability of AI assistance affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] research on motivation erosion when AI does the work. **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explores mobile [[conversational-ai|chatbot]] journaling as a motivational intervention. **[[ai-learning-tools-engineering-education-needs]]** examines what motivates students to adopt AI learning tools in [[engineering-education|engineering education]].
 
 **Motivation in AI-mediated engagement** examines how motivational quality (not just quantity) changes with AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined self-determination theory with [[network-analysis|epistemic network analysis]] to study engagement with [[generative-ai|generative AI]]. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** traced motivation developmentally via latent transition analysis of **2,086 secondary students** in a year-long AI curriculum, finding three stable profiles (Disengaged, Developing, Self-Determined) and that reaching the Self-Determined profile predicted the largest [[ai-literacy]] gains. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** used goal-setting theory with **758 university English learners**, showing that **teacher support** drives AI-assisted engagement primarily through mastery-approach and performance-approach goals (the approach, not avoidance, goal orientations). Together these studies show that motivation in AI contexts is both developmental and socially scaffolded — it shifts over time and responds to teacher support and goal framing, not just tool design.
+
+**Motivation gains are construct-specific, not general.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] found that a nine-week GenAI-supported writing program for 301 Grade 5 and 6 learners raised their ideal L2 writing self and academic buoyancy — the aspirational and the resilience components of motivation — while leaving growth mindset unchanged; the only growth-mindset gain appeared in the control group and did not survive correction for multiple comparisons. Students attributed the shift to seeing fluent text built from vocabulary they already knew, which made successful writing feel attainable. So motivation is not a single dial that AI turns up: what improved was the belief that one *can* write well, not the belief that ability grows with effort.
 
 **Teacher motivation and persistence** examines motivation among educators. **[[framing-5-percent-problem-teachers-persistence|Framing the 5 Percent Problem]]** studies teacher persistence with AI tools, and **[[teacher-education-ai-literacy-sdt-2026|Chiu et al.]]** found need-supportive [[educational-development|professional development]] fosters sustained behavioral engagement in professional learning communities.
 
@@ -91,3 +93,4 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
+- [[genai-writing-program-primary-l2-motivation-engagement]] — Construct-specific motivation gains in a primary L2 GenAI writing program (Lu et al. 2026)

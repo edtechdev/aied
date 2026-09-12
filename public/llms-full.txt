@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 189 concepts, 1144 articles, and 17 FAQs.
+> Complete text of 189 concepts, 1145 articles, and 17 FAQs.
 
 # Concepts
 
@@ -1200,6 +1200,8 @@ Integrity enforcement has a neglected emotional cost. [[shame-guilt-ai-regulatio
 
 [[ai-use-disclosure|AI use and disclosure statements]] are the concrete mechanism through which integrity expectations are operationalized — and the research shows they often fail when treated as neutral compliance forms. [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] found 74% of students failed to declare AI use on a mandatory coursework coversheet, driven by fear of penalties, guideline ambiguity, inconsistent enforcement, and peer norms. [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]] and [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] confirm that fear of retribution and unclear policy chill disclosure — and that transparent students can even draw suspicion. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] reframe disclosure as a [[help-seeking]]/[[self-regulated-learning|self-regulation]] behavior that anxiety redirects toward peers. The collective lesson: disclosure policies must address the [[affective-computing|affective]] and social barriers, be clear and consistent, and treat disclosure as [[formative-assessment|formative]] pedagogy rather than surveillance. **[[luo-dawson-value-judgements-grading-2026|Luo & Dawson (2026)]]** add the teacher-side of the equation: teachers' grading of GenAI-assisted work is driven by value judgements about student honesty, diligence, and trust, and many teachers penalise (or are tempted to penalise) students who disclose GenAI use — even when the work quality is strong. This is the "two-way [[explainable-ai|transparency]]" problem: students are expected to declare use, but teachers rarely clarify how that declaration will affect grades, so honest disclosure can carry an unstated grading penalty. The study grounds the disclosure problem in the value-laden reality of teacher grading and argues that transparency must run both directions.
 
+Students' own reports quantify how badly that message is landing. In a survey of 504 sociology undergraduates, 81 percent said their instructors or teaching assistants had given guidance on AI use, yet only 46 percent called those instructions very clear; 19 percent reported receiving no guidance at all and the rest described it as at best somewhat clear ([[student-genai-use-views-writing|Kuznetsov, Sheely & Baker, 2026]]). Fear of committing an academic offence was the second most common concern students raised (28 percent) — a cost imposed by ambiguity rather than by enforcement, since only 3 percent reported using GenAI to generate assignment text and 2 percent to produce a full draft. The practical implication is that clarity of communication is itself an integrity mechanism, and that a student who cannot tell what is permitted bears a risk the institution never intended to impose.
+
 ### Cultural and contextual variation
 
 Policy text does not equal policy perception. [[cross-cultural-student-perceptions-genai-computing|Cross-national research]] found that, despite functionally identical institutional policies, students at different universities rated the same AI-assisted practices differently — **culture, not policy wording, drove perceived wrongness**. Policy harmonization does not produce perception harmonization, so culturally diverse cohorts interpret the same rules differently, an equity concern for enforcement and grading that argues for scenario-based clarification over abstract rule statements.
@@ -1342,6 +1344,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Detection’s evidentiary collapse and the case for procedural justice, proportionality, and design
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Deterrence, disclosure, and redesign as an assessment-design problem under imperfect information
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
+- [[student-genai-use-views-writing]] — Student use of and views on GenAI for writing: the guidance gap in students' own reports (Kuznetsov, Sheely & Baker 2026)
 
 ---
 
@@ -1393,6 +1396,7 @@ Recent work expands the orchestration metaphor into richer role conceptualizatio
 - **Facilitator, co-investigator, [[ethics|ethical]] supervisor.** In science learning, teachers' roles shift from knowledge transmitters to facilitators and co-investigators, and gain new responsibilities as ethical supervisors of students' responsible AI use.([[li-ai-science-situated-learning-teachers-2025]])
 - **Mediator of learning principles.** Educators operationalize age-old learning principles (experiential, situated, and distributed cognition) through AI, treating AI as a tool that enhances rather than replaces the educator's guiding role.([[fowlin-operationalizing-learning-principles-ai]])
 - **Unsettled and vulnerable professional identity.** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] document the *emotional* side of role reconfiguration: 24 Swedish university teachers experienced GAI's emergence as alarming and overwhelming, reporting a "state of vulnerability" (low confidence, insecurity, fear of "not being ahead of students") and feeling "stuck" between utopian and dystopian discourses. GAI prompted them to re-evaluate their priorities — cultivating [[critical-thinking|critical thinking]], [[evaluative-judgement|evaluative judgement]], and ethical GAI use — and to question their own and the university's future role in a landscape that felt "out of control." This frames the teacher-role shift as identity-level and emotionally charged, not merely a skills or workflow change.
+- **Principled selectivity instead of adoption or resistance.** [[ai-integrated-teaching-identity-tensions|Adiozaman and Segar (2026)]] interviewed two academics with more than ten years' experience three times across a single semester and found identity work organised around three interrelated tensions — pedagogy versus platform, educator versus facilitator, and care versus compliance — which resolved not into a settled position but into *principled selectivity*: context-sensitive decisions guided by pedagogical values, ethical commitment and professional judgement. They describe a trajectory from implicit orientation, through mid-semester strategies such as asking students to explain their thinking and redesigning tasks and assessment, to stances that stayed deliberately open rather than fixed, with refusal of a particular use treated as a legitimate exercise of judgement rather than a failure to adopt. This supplies the constructive counterpart to the vulnerability documented above: what the role shift demands is judgement, so institutional responses built around tool training address the wrong problem.
 - **Teachers as value-laden graders.** [[luo-dawson-value-judgements-grading-2026|Luo & Dawson (2026)]] show that grading GenAI-assisted work is not a neutral, criteria-based act but a value judgement shaped by teachers' conjecture about who the student is (honesty, diligence), what they are capable of (independence, GenAI skill, disciplinary mastery), how they relate to others (trust), and whether the decision leads to good outcomes ([[bias-mitigation|fairness]], beneficence). Teachers often lack awareness of the value orientations underlying their grading, and these vary by discipline ([[humanities-education|humanities]] more critical of GenAI use; hard/applied sciences fewer grading challenges) and epistemological stance (absolutist/multiplist/evaluativist). This positions the teacher as an evaluative professional whose judgement — not just tool use — must be supported and made transparent.
 - **Teacher as the arbiter of pedagogically meaningful explanations.** Because teachers' trust in AI recommendations rises when explanations are framed in *their* curricular/pedagogical language rather than in raw model internals, effective tools must "speak" the teacher's domain. In a within-subject experiment, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found domain-driven explanations of an AI grouping tool were trusted and accepted far more than data-driven feature-importance ones, positioning the teacher's pedagogical vocabulary as the interface through which AI earns trust and use — and their judgment of whether an explanation is pedagogically sound as a deciding factor in adoption.
 
@@ -1566,6 +1570,7 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
+- [[ai-integrated-teaching-identity-tensions]] — Identity tensions and principled selectivity in AI-integrated teaching (Adiozaman & Segar 2026)
 
 ---
 
@@ -2321,6 +2326,7 @@ Agency matters because learning is most effective when learners are active, inte
 - **Critical [[student-engagement|engagement]]:** [[cognitive-offloading|Cognitive offloading]] research shows how students who delegate interpretation to AI can lose agency over their own reasoning; critical and [[metacognition|metacognitive]] approaches aim to protect it.
 - **Design for agency:** Knowledge-based design for [[educational-robotics|generative social robots]] ([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]]) addresses risks like overreliance that undermine learner agency.
 - **Prior agency predicts who benefits:** [[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]], drawing on Bandura's Social Cognitive Theory, showed that students' **prior self-initiated AI learning** (a behavioral manifestation of agency) predicted how much they gained from a year of school AI instruction — high-agency learners entered with the strongest readiness, while school curricula narrowed psychological gaps but left cognitive ones intact. Structured instruction and prior agency-related learning worked *synergistically*, not as substitutes.
+- **Principled selectivity as teacher agency under technological change:** [[ai-integrated-teaching-identity-tensions|Adiozaman and Segar (2026)]] interviewed two experienced academics three times across a semester and found they navigated AI-mediated teaching neither by adopting nor by resisting wholesale, but through deliberate, context-sensitive decisions guided by pedagogical values, ethical commitment and professional judgement — a pattern the authors call *principled selectivity*, in which refusal of a particular use counts as judgement rather than as failed adoption. It is the teacher-side counterpart to the learner findings above: uneven AI use can be an exercise of agency, not evidence of its absence.
 
 Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|Over-Reliance]], and [[metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[intelligent-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
 
@@ -2436,6 +2442,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision: agency as zero-sum with tool agency
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: co-creativity and agency in socio-technical networks
 - [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of agency in GenAI-mediated group assessment: intensified, restrained, and not enacted
+- [[ai-integrated-teaching-identity-tensions]] — Principled selectivity as teacher agency in AI-integrated teaching (Adiozaman & Segar 2026)
 
 ---
 
@@ -5586,6 +5593,8 @@ Motivation is a foundational construct in education research, and the rise of AI
 
 **Motivation in AI-mediated engagement** examines how motivational quality (not just quantity) changes with AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined self-determination theory with [[network-analysis|epistemic network analysis]] to study engagement with [[generative-ai|generative AI]]. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** traced motivation developmentally via latent transition analysis of **2,086 secondary students** in a year-long AI curriculum, finding three stable profiles (Disengaged, Developing, Self-Determined) and that reaching the Self-Determined profile predicted the largest [[ai-literacy]] gains. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** used goal-setting theory with **758 university English learners**, showing that **teacher support** drives AI-assisted engagement primarily through mastery-approach and performance-approach goals (the approach, not avoidance, goal orientations). Together these studies show that motivation in AI contexts is both developmental and socially scaffolded — it shifts over time and responds to teacher support and goal framing, not just tool design.
 
+**Motivation gains are construct-specific, not general.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] found that a nine-week GenAI-supported writing program for 301 Grade 5 and 6 learners raised their ideal L2 writing self and academic buoyancy — the aspirational and the resilience components of motivation — while leaving growth mindset unchanged; the only growth-mindset gain appeared in the control group and did not survive correction for multiple comparisons. Students attributed the shift to seeing fluent text built from vocabulary they already knew, which made successful writing feel attainable. So motivation is not a single dial that AI turns up: what improved was the belief that one *can* write well, not the belief that ability grows with effort.
+
 **Teacher motivation and persistence** examines motivation among educators. **[[framing-5-percent-problem-teachers-persistence|Framing the 5 Percent Problem]]** studies teacher persistence with AI tools, and **[[teacher-education-ai-literacy-sdt-2026|Chiu et al.]]** found need-supportive [[educational-development|professional development]] fosters sustained behavioral engagement in professional learning communities.
 
 - **Cross-cultural motivation of future teachers:** [[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al. (2026)]] validated the (D)FIT-Choice scale with 416 student teachers in Switzerland and China, finding Swiss teachers report stronger social utility and intrinsic motivation while Chinese teachers show higher perceived digital competence and enthusiasm for integrating AI — highlighting how cultural and systemic factors shape motivation to shape the future of education with AI.
@@ -5645,6 +5654,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
+- [[genai-writing-program-primary-l2-motivation-engagement]] — Construct-specific motivation gains in a primary L2 GenAI writing program (Lu et al. 2026)
 
 ---
 
@@ -6515,6 +6525,8 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 
 - **Learner characteristics moderate TTS dialogue-based lessons (2026):** In LLM+TTS-generated teacher–student, student–student, and teacher–teacher dialogue lessons, [[experiential-learning]] style and critical-thinking disposition significantly interacted with dialogue format for ARCS-based motivation, indicating that AI-generated dialogue content is differentially motivating depending on learner profile ([[tts-dialogue-lessons-learner-characteristics-2026]]).
 
+- **Dimension-specific gains at the primary level (2026):** A nine-week GenAI-supported L2 writing program with 301 Grade 5 and 6 students raised behavioural and emotional engagement but left cognitive and metacognitive engagement unchanged, and its authors name reduced self-monitoring during writing as a standing risk ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]). The pattern is a concrete instance of the engagement-versus-learning distinction above: more activity and more enjoyment did not translate into deeper processing.
+
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[community-of-inquiry]] — Community of Inquiry (agentic engagement as a CoI dimension)
@@ -6587,6 +6599,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
 - [[gpt4-feedback-student-activation-2026]]
+- [[genai-writing-program-primary-l2-motivation-engagement]] — Dimension-specific engagement gains at the primary level (Lu et al. 2026)
 
 ---
 
@@ -10969,11 +10982,11 @@ Writing is not merely output but a cognitive, social, and rhetorical process. Th
 
 - **Posthumanist perspectives:** [[posthumanist-ai-literacy-2025|A posthumanist approach to AI literacy]] reframes writing as a human-AI entanglement in which [[agency]] is distributed, challenging both uncritical anthropomorphization of AI and its dismissal as a mere tool — a relational rather than transactional view of AI literacy.
 
-- **L2 / [[multilingual-learning|multilingual]] writing:** [[self-referential-l2-writing-llm-assessment|L2 writing assessment]], [[genai-linguistic-diversity-academic-writing|linguistic diversity research]], and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] address how AI supports (or constrains) second-language and multilingual writers, including the risk of reinforcing Standard Academic English norms.
+- **L2 / [[multilingual-learning|multilingual]] writing:** [[self-referential-l2-writing-llm-assessment|L2 writing assessment]], [[genai-linguistic-diversity-academic-writing|linguistic diversity research]], and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] address how AI supports (or constrains) second-language and multilingual writers, including the risk of reinforcing Standard Academic English norms. The knowledge base's youngest L2 sample comes from a nine-week GenAI-supported opinion-writing program with 301 Grade 5 and 6 students in Eastern China ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]), which raised ideal L2 writing self and academic buoyancy and improved rubric-scored language use while leaving organization and total scores unchanged — AI support moved specific dimensions of writing rather than writing ability as a whole.
 
 - **Bias in personalized feedback (Marked Pedagogies):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] show that [[llm]] writing-feedback tools are not language-neutral: personalizing feedback with a student's race, ethnicity, ELL designation, learning disability, achievement, or motivation systematically shifts feedback in stereotype-aligned ways — including positive feedback bias and feedback withholding bias (overuse of praise, less substantive critique, assumptions of limited ability) for students marked by race, language, or disability, even when the essay is identical. This makes "[[personalized-learning|personalization]]" itself a bias vector that writing-feedback tools must audit and control.
 
-- **Academic integrity:** [[academic-integrity]] and [[student-rationalization-ai-writing|student rationalization studies]] examine how students justify AI use, moving the conversation from plagiarism policing toward building AI literacy and [[ethics|ethical]] use.
+- **Academic integrity:** [[academic-integrity]] and [[student-rationalization-ai-writing|student rationalization studies]] examine how students justify AI use, moving the conversation from plagiarism policing toward building AI literacy and [[ethics|ethical]] use. Survey evidence complicates the policing frame directly: among 504 sociology students ([[student-genai-use-views-writing|Kuznetsov et al., 2026]]), 65 percent had used GenAI for coursework but only 3 percent to generate assignment text and 2 percent to produce a full draft, while fear of an academic offence was the second most common concern (28 percent) and roughly a quarter reported no guidance at all (19 percent) or guidance they found unclear. On this evidence the writing-education problem is ambiguity about permitted use, not widespread text generation.
 
 ### Writing as thinking
 
@@ -10982,6 +10995,8 @@ Because writing is a cognitive process, AI-in-writing research connects to [[cog
 [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] sharpens this with a **layer-sensitive** account of [[cognitive-offloading|cognitive offloading]] in GenAI-assisted academic writing: delegating *deeper* layers (reasoning, argumentative logic) carries a stronger negative association with independent no-AI writing quality and [[critical-thinking|higher-order thinking]] than delegating surface layers (grammar, vocabulary). Open AI collaboration yielded the best supported product but the worst independent outcomes, while bounded support with reflection preserved competence — evidence that GenAI writing support is not uniformly harmful but its effect depends on which cognitive layer students delegate.
 
 [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] extend this thinking to *multimodal* composing by younger writers. Having 60 [[k-12|Grade 5]] students externalize their narratives as AI-generated images and short videos produced sustained self-reported gains in interpretation, analysis, evaluation, and explanation — the facets multimodal resemiotisation exercises — but **no gain in inference**. Making meaning visually explicit lowered the demand to infer implicit meaning from text, exactly the offloading mechanism Chen describes; only structured peer discussion restored occasions for inference. The study cautions that [[multimodal|multimodal AI]] composing helps young writers reflect on clarity and coherence while potentially skimming off the inferential work that text-only writing preserves — a design consideration for writing instructors pairing AI [[visualization|visuals]] with peer [[peer-review|feedback]].
+
+A dimension-specific pattern recurs across this literature, and it is a useful diagnostic. In the primary-level L2 writing program, emotional and behavioural [[student-engagement|engagement]] rose while cognitive and metacognitive engagement did not, and the authors name diminished self-monitoring during writing as an explicit risk of GenAI support ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]). Enjoyment and on-task activity are therefore not evidence that deeper processing is happening — the same distinction the offloading research draws when it asks which layer of cognitive work a student has delegated.
 
 ### Designing AI writing support: coaching, not composing
 
@@ -11060,6 +11075,8 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)
+- [[student-genai-use-views-writing]] — Student use of and views on GenAI for writing (Kuznetsov, Sheely & Baker 2026)
+- [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 motivation, engagement and performance (Lu et al. 2026)
 
 ---
 
@@ -11089,6 +11106,8 @@ Language learning has emerged as a significant AI in education domain because la
 **[[accessibility]] for language learners** connects to [[inclusive-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners use AI for literacy support, and **[[ai-tools-arab-english-classrooms]]** explored AI tools in Arabic-English classroom contexts. These studies connect language learning to [[equity-in-ai-education]] and [[special-education]].
 
 **Motivational mechanisms in AI-assisted language learning** examine why learners engage with AI for language practice. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** used goal-setting theory with 758 Chinese university English learners to show that **teacher support** enhances engagement in AI-assisted learning through students' mastery-approach and performance-approach goals (not avoidance goals) — evidence that the pedagogical and social context, not just the AI tool, determines whether learners stay engaged with AI-assisted language practice. This connects language learning to [[motivation]] and [[student-engagement]].
+
+**GenAI-supported writing at the primary level.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] ran a nine-week opinion-writing program with 301 Grade 5 and 6 learners in Eastern China, with eight intact classes randomly assigned to the program or to conventional instruction. The program raised learners' ideal L2 writing self (adjusted mean difference 0.20) and academic buoyancy (0.17), and lifted behavioural and emotional engagement, but it did not move growth mindset, cognitive or metacognitive engagement, or rubric-scored organization — among writing dimensions only language use improved. Two features of the design matter for language teachers: prompting was taught explicitly, through a categorised bank of prompts tied to specific writing goals, and GenAI feedback was used alongside comparison with teacher feedback and repeated revision. The authorship gains learners reported rested on that instructional structure rather than on the tool by itself, and the authors name reduced self-monitoring and shortcut-oriented strategies as the standing risks.
 
 ## Implications for language instructors
 
@@ -11151,6 +11170,7 @@ Language learning has emerged as a significant AI in education domain because la
 - [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
+- [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 learners (Lu et al. 2026)
 
 ---
 
@@ -45889,6 +45909,67 @@ The study provides rare large-scale evidence on how students actually use GenAI 
 
 ## Citation
 Chung, J., Henderson, M., Slade, C., Liang, Y., Pepperell, N., Corbin, T., et al. (2026). [The use and usefulness of GenAI in higher education: Student experience and perspectives](https://doi.org/10.1016/j.caeo.2026.100347). *Computers and Education Open, 10*, 100347.
+
+---
+
+## [Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement, and performance](https://edtechdev.github.io/aied/articles/genai-writing-program-primary-l2-motivation-engagement/)
+
+> **Synthesis:** Lu and colleagues (2026) ran a nine-week GenAI-supported opinion-writing program with 301 Grade 5 and 6 students in Eastern China, randomly assigning eight intact classes to the program or to conventional instruction. The program raised students' ideal L2 writing self, academic buoyancy, and behavioural and emotional engagement, and improved language use — but it did not move growth mindset, cognitive or metacognitive engagement, or organization, and the effects were small. The value of the study lies in that pattern: it shows which dimensions of young learners' writing development a GenAI program can shift, and it names the risks — over-reliance, shortcut-seeking, and diminished self-monitoring — that come with it.
+
+## Overview
+
+Most research on generative AI in second-language writing has been conducted with university students. Upper-primary learners are a distinct case: they are still building the writing strategies and self-regulation that older students are assumed to have, so a tool that produces fluent text can scaffold their development or bypass it, depending on how it is used. The paper's rationale is that this population needs developmentally informed investigation rather than extrapolation from higher education.
+
+The study therefore asks what changes when a GenAI-supported writing program is embedded in a primary English curriculum, and how students experience those changes. It examines three groups of constructs: writing [[motivation]] (growth mindset, ideal L2 writing self, academic buoyancy), [[student-engagement|engagement]] (cognitive, behavioural, emotional, metacognitive), and writing performance across opinion and content, organization, and language use. Using mixed methods is a deliberate choice: the quantitative design establishes which constructs moved, and interviews explain the processes behind the pattern.
+
+## Study Design & Method
+
+- **Participants and design.** Four intact classes per grade in Grades 5 and 6 at one primary school in Eastern China. Classes were randomly assigned at the class level to GenAI-supported or conventional instruction to avoid contamination between conditions: the experimental group had 151 students (75 Grade 5, 76 Grade 6) and the control group 150 (74 Grade 5, 76 Grade 6). The final analytic sample was 301 students — 149 in Grade 5 and 152 in Grade 6, 47.5 percent male, ages 10 to 13 (M = 10.82, SD = 0.75). Consent came from students, parents or guardians, and instructors.
+- **Baseline equivalence.** Because assignment was by class, the authors checked baseline writing performance using the most recent grade-level standardised English exam. The two groups were statistically indistinguishable (experimental M = 5.23, SD = 0.92; control M = 5.21, SD = 0.99; t(299) = 0.175, p = .86, d = 0.02), and gender and age were balanced (all p > .20). Grade-level baselines were also compared after standardising across the full sample (Grade 5 M = −0.09; Grade 6 M = 0.09; t(299) = 1.55, p = .12, d = 0.18), which supported pooling the grades. Both grades wrote opinion prompts scored with the same rubric.
+- **The program.** Nine weeks, one 40-minute session per week, integrated into the school-based curriculum, delivered with standardised lesson plans under both conditions. Week 1 served as kickoff and pre-test: students received a printed handbook with exemplar opinion texts, an analytic rubric and a GenAI user guide containing operational instructions, ethical-use principles and a categorised bank of sample prompts for idea development, structure analysis, language enhancement, quality evaluation, feedback and revision. Weeks 2–3 focused on expressing and supporting opinions, Weeks 4–5 on text structure through GenAI-supported analysis, paragraph reordering and semi-guided writing with AI feedback, Week 6 on collaborative draft revision for language, Week 7 on comparing teacher and AI feedback on anonymised drafts, and Week 8 on revisiting pre-test drafts for peer and AI evaluation followed by individual revision. Students worked in small groups with shared tablets in the collaborative weeks and individually with one tablet each during feedback-intensive weeks. Prompting was bilingual (Chinese and English) and pitched at Grade 5/6 language level.
+- **Measures and analysis.** Motivation, engagement and performance were assessed at pre-test (Week 1) and post-test (Week 9). One-way MANCOVA tested between-group differences controlling for pre-test scores, with partial η² for effect size, followed by paired-samples t-tests for within-group change (Cohen's d, Bonferroni-adjusted α = .017). Semi-structured interviews were conducted with 12 students from the experimental group, sampled across high, medium and low pre-test writing groups (interviewed subsample pre-test M = 5.20, SD = 0.96), and thematically analysed with counts of how many interviewed students reported each observation.
+
+## Key Findings
+
+- **Motivation improved selectively.** The multivariate group effect was significant, F(3, 294) = 3.067, p = .028, Wilks' Λ = 0.970, partial η² = 0.030. Follow-up analyses showed the experimental group outperformed controls on ideal L2 writing self (F(1, 296) = 6.707, p = .010, partial η² = 0.022, adjusted Mdiff = 0.20 [95% CI 0.05, 0.35]) and academic buoyancy (F(1, 296) = 5.593, p = .019, partial η² = 0.019, adjusted Mdiff = 0.17 [95% CI 0.03, 0.32]). Growth mindset showed no significant difference (p = .239).
+- **Within-group gains followed the same pattern.** In the experimental group, ideal L2 writing self rose (Mdiff = 0.24, t(150) = 3.218, p = .002, d = 0.26) and academic buoyancy rose (Mdiff = 0.20, t(150) = 2.90, p = .004, d = 0.24), both surviving Bonferroni correction. Growth mindset did not (p = .079, d = 0.14), and the control group's modest growth-mindset gain (p = .018, d = 0.20) did not survive correction.
+- **Engagement moved in two of four dimensions.** The engagement MANCOVA was significant, F(4, 292) = 8.392, p < .001, Wilks' Λ = 0.897, partial η² = 0.103, with group effects on behavioural engagement (F(1, 295) = 3.910, p = .049, partial η² = 0.013) and emotional engagement (F(1, 295) = 4.310, p = .039, partial η² = 0.014). Cognitive engagement did not reach significance (p = .056, partial η² = 0.012), nor did metacognitive engagement (p = .492). Within-group gains appeared for emotional (Mdiff = 0.23, t(150) = 2.721, p = .007, d = 0.22) and behavioural engagement, but not cognitive (p = .157, d = 0.12) or metacognitive (p = .390, d = 0.07).
+- **Performance improved on language use, less clearly on opinion and content.** The performance MANCOVA was significant, F(3, 294) = 2.841, p = .038, Wilks' Λ = 0.972, partial η² = 0.028, with a group effect on language use (F(1, 296) = 4.246, p = .040, partial η² = 0.014) and a near-significant effect on opinion and content (p = .054, partial η² = 0.013) tending to favour the experimental group. Organization (p = .898) and total scores (p = .104) showed no group differences.
+- **Students' accounts explain the motivational shift.** Eight of the 12 interviewees said that seeing GenAI produce fluent text with vocabulary they already knew made successful writing feel attainable — "many of the words were ones we had already learned… seeing its writing made me feel that I could also write a good piece" (S11, low group). Six reported a sense of achievement from concrete improvements, and five described a stronger awareness of authorship: S1 (high group) reported rewriting the handbook prompts in their own words, selecting and revising ideas rather than copying output, a claim the authors triangulated against the recorded interaction and draft comparisons.
+- **Academic buoyancy showed up as manageability.** Nine interviewees described the process as smoother and described more confidence with tasks they had previously found difficult.
+- **The authors report cautionary roles alongside the gains.** Their synthesis lists five risks: reinforcing reliance on the tool instead of personal effort, shortcut-oriented strategies that hinder gradual skill development, constrained independent problem-solving, reduced use of previously taught writing strategies, and diminished self-monitoring during writing.
+
+## Implications for AI in Education
+
+The paper's most usable lesson is that GenAI support does not lift a construct like "writing development" uniformly — it moves specific dimensions and leaves others untouched, and the pattern is diagnostic. Motivation improved through the aspirational self and resilience rather than through growth mindset, which suggests that simply handing students an impressive tool does not teach them that ability grows with effort; the authors recommend designing activities around the sequence of challenge, effort and progress so that the tool reads as support rather than shortcut. Likewise, engagement improved emotionally and behaviourally while cognitive and metacognitive engagement did not, which is a warning that enjoyment and activity are not the same as deeper processing, and that students may be doing less self-monitoring when the tool is available.
+
+For [[scaffolding]] and assessment design, the program's structure is instructive. It paired a [[feedback]]-rich sequence — comparing teacher and AI feedback on anonymised drafts, revisiting pre-test drafts for peer and AI evaluation, individual revision — with explicit instruction in how to prompt, including a bank of prompts tied to writing goals. Where [[writing-education|writing education]] aims at discourse-level skills such as organization, this study offers little comfort: those were exactly the dimensions that did not move, so tasks that use AI to analyse and reorder structure still need deliberate design if organisation is the target.
+
+The authors also flag how much the setting mattered. Students had routine access to GenAI-enabled tablets and were already fluent with digital tools, and teachers provided real-time support, so participation required no additional training. Where infrastructure, familiarity or teachers' pedagogical awareness of AI-supported instruction are lower — particularly in many developing countries — the authors expect substantially different results, and they ask that findings be read as context-specific rather than globally generalisable.
+
+**Limitations.** The sample came from upper grades in a single primary school in China. Motivation and engagement were measured mainly by self-report, which may not capture observable classroom behaviour; the authors suggest classroom observation or multi-method designs. Both Grades 5 and 6 were included but developmental differences between the grades were not examined, and the study analysed outcome change without modelling the relationships among motivation, engagement and performance over time.
+
+## Connected Concepts
+
+- [[writing-education]]
+- [[language-learning]]
+- [[student-engagement]]
+- [[motivation]]
+- [[scaffolding]]
+- [[feedback]]
+- [[k-12]]
+- [[generative-ai]]
+
+## Connected Articles
+
+- [[elementary-writing-genai-systematic-review-2026]]
+- [[dai-chatbots-problem-posing-primary-2026]]
+- [[student-genai-use-views-writing]]
+- [[ai-feedback-critical-thinking-writing-2026]]
+
+## Citation
+
+Lu, Q., Wang, M., Yao, Y., Zhu, X., Xiao, L., & Yin, H. (2026). [Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement, and performance: A mixed methods study](https://doi.org/10.1016/j.learninstruc.2026.102451). *Learning and Instruction*, 106, 102451.
 
 ---
 
