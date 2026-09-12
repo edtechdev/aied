@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-10T15:26:00-04:00"
+updated: "2026-09-12T16:00:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
@@ -61,6 +61,8 @@ The constructive question in the knowledge base's assessment literature is not "
 - **Production as a competency** — evaluating learners' ability to direct tools and produce professional-standard work ([[competency-based-education-genai-production-2026]])
 - **Assessing the interaction process, not just the artifact** — the [[assessing-student-drive-framework-2025|DRIVE framework]] (Directive Reasoning Interaction + Visible Expertise) treats the quality of a student's *engagement with GenAI* as the assessed construct. It distinguishes surface consumption from deep, reflective interaction by looking at whether students steer prompts strategically (DRI) and integrate and develop their own disciplinary ideas through the exchange (VE), grounding process-focused criteria in theories of [[self-directed-learning|self-directed learning]] and cognitive engagement along the lines of the [[icap-framework|ICAP]] hierarchy. This makes DRIVE an example of *AI-mediated authentic assessment* — a rubric for evaluating how learners partner with GenAI rather than a detection tool.
 
+A proposal in this literature pushes past redesign-within-the-current-frame. [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma (2026)]] argue that reform organized around preventing misconduct or detecting AI use narrows the educational imagination to control and compliance, and propose **joyful assessment** instead: assessment that is safe, emotionally responsive, empowering and supportive of student [[agency|student agency]], with safety as the load-bearing condition because without it emotional attunement becomes performance, empowerment becomes pressure and agency becomes risk. Their framing inverts the detection agenda — integrity becomes a consequence of designing assessment students want to engage in rather than its starting point — and they position instructor-built AI agents (custom GPTs, Gems, Copilot Studio agents) as a low-stakes rehearsal space where students practise before judgement, with the claim that the AI organizes evidence while the instructor interprets it.
+
 ## Implications for AI in education
 
 - **Assessment and learning are inseparable:** good AI assessment should support learning ([[feedback|formative feedback]]) as much as it evaluates it.
@@ -91,6 +93,7 @@ The constructive question in the knowledge base's assessment literature is not "
 - [[eportfolio]] — Process-based e-portfolio assessment
 
 ## Connected Articles
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[mccorkle-aligned-genai-course-policy-2025]] — Task-level AI permissions derived from what is assessed (McCorkle 2025)
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation

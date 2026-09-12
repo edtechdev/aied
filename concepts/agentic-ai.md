@@ -1,7 +1,7 @@
 ---
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-12T16:00:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop-ai, agency, cognitive-offloading]
@@ -85,6 +85,8 @@ When designed well, agentic AI offers substantial benefits:
 - **Productive friction.** Agents designed to challenge rather than agree can push learners toward deeper reconsideration. [[ai-agents-constructive-conflict-design-education-2026|Research on adversarial design agents]] shows that constructive-conflict agents prompted significantly more design iterations, broader exploration, and higher-rated final designs (N=48) — a form of [[desirable-difficulties|desirable difficulty]].
 - **Scalable practice and simulation.** Agent-based simulations (simulated students, [[medical-education|clinical]] scenarios) let learners practise in low-risk environments before real-world application, as in [[hdr-brachytherapy-agentic-ai-simulation-2026|clinical simulation]] and [[simulating-students|simulated learners]].
 - **Evidence-aware scaffolding.** Well-grounded agents can apply [[learning-theories|learning theory]] and known pedagogy in their interactions, and [[benchmark|benchmarks]] show theory-grounded agents outperform raw prompting.
+
+A narrower, instructor-built class of agents gets a distinct argument in [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma's third-space proposal]]: custom GPTs, Gems and Copilot Studio agents designed by instructors for a specific pedagogical purpose and explicitly **not** autonomous systems. Their claimed value is as low-stakes rehearsal space — an oral-exam simulator, a clinical-communication simulation, an ESL pronunciation avatar — where students practise before judgement while the instructor's evaluative role stays intact, with the agent outside the social hierarchies students navigate with peers and instructors. Two boundaries are worth noting: the authors exclude agent-based *grading* from scope by design, and they argue assessment must remain relational — the instructor role cannot be substituted by a machine, though it can be extended and made more sustainable through careful design.
 
 ## Negative implications and risks of AI agents for education
 
@@ -180,6 +182,7 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[educational-policy-ai]]
 
 ## Connected Articles
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ilieva-agentic-genai-higher-education-2026]] — The AGAI-HE framework: bounded, human-supervised agentic GAI in higher education (Ilieva et al. 2026)
 - [[beyond-agent-label-agentic-ai-governance-2026]] — critical integrative review introducing the AOE evidence/oversight framework
 - [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspective on inclusive agentic multi-agent AI ecosystems in higher education

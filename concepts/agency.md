@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-12T09:05:00-04:00"
+updated: "2026-09-12T16:00:00-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 audience: [learners]
@@ -54,6 +54,8 @@ Learner agency is not only a static individual trait — it is also an **emergen
 
 For collaborative settings, this reframes the design question: not *whether* AI can participate as a teammate, but *how* its patterned participation balances epistemic rigour, emotional safety, and learners' sense of ownership. Bounded friction (constrained challenge, paired with integrative and repair moves) and explicit meta-collaborative literacy are the recommended safeguards.
 
+A structural reading of agency appears in [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma's joyful assessment framework]], where agency is treated as a design property rather than motivation: students choose the order of tasks, set the pace, and signal when an interaction ends, so support is available while responsibility for the work stays with the learner. The mechanism they name is appraisal — rehearsing without an audience and choosing when to begin shifts what a task means, from verdict to something a student can shape — and they argue repeated experience of that shift is what settles occasional feelings of efficacy into an everyday stance toward assessment.
+
 ## Agency vs. learner identity
 
 [[learner-identity|Learner identity]] and learner agency are easy to conflate, yet they name different things — and both are reshaped by AI.
@@ -95,6 +97,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)

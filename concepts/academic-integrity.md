@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-12T08:55:00-04:00"
+updated: "2026-09-12T16:00:00-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -77,6 +77,8 @@ The knowledge base documents a paradigm shift: from AI as an integrity threat to
 - **Assessment redesign must be paired with cultural support.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] argue that in the generative AI era traditional, [[summative-assessment|summative]]-heavy and norm-referenced grading undermines integrity as well as deep learning, [[well-being]], and equity, and that [[authentic-assessment|authentic assessment]] — tasks mirroring real professional problems such as live consulting projects and dashboards with executive briefings — can support integrity-preserving alternatives to exam-centered assessment. Yet they caution that implementation is resisted by instructors and students alike, so integrity-preserving redesign requires incremental experimentation and dialogue spanning [[assessment-validity|validity]], assurance of learning, and stakeholders such as accreditation bodies and employers.
 - **Design, not detection: the Bochum case.** The Ruhr University Bochum redesign of introductory nuclear and particle [[physics-education|physics]] ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) linked its AI policy to a practical integrity failure rather than to detection: because tutorial problems were disclosed in advance, some students prepared AI-generated solutions and copied them onto the blackboard without engaging in the intended reasoning. The authors treat this as a design problem — moving tutorial problems to prepared in-class discussion and making a written exam the grade determinant — rather than a policing problem, while explicitly permitting AI in study, explaining why verification is the student's responsibility, and noting that open-ended AI-permitted homework also raised dependence, uneven access to paid models, and teaching-assistant workload.
 
+The clearest statement of the pedagogical inversion comes from [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma (2026)]], who argue that reform starting from suspicion narrows the educational imagination to control, compliance and surveillance, and that integrity should be a **consequence** of assessment designed for engagement rather than its starting point. Their supporting observation is a mechanism already visible elsewhere in this knowledge base: disengagement is one of the conditions under which dishonesty becomes more likely, so agendas that stress-test assessments or constrain AI use without addressing engagement leave part of the problem untouched.
+
 ### Connections
 
 Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[ai-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]], and [[equity-in-ai-education]]. It is the ethical dimension of [[ai-education|AI in education]], inseparable from [[cognitive-offloading|Over-Reliance]] and the broader question of how [[generative-ai]] reshapes [[higher-ed]] and [[k-12]] learning.
@@ -124,6 +126,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[k-12]]
 
 ## Connected Articles
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[kumar-genai-computing-education-systematic-review-2026]] — Detection evidence is thin (3 studies of 72); redesign carries the weight
 - [[mccorkle-aligned-genai-course-policy-2025]] — Aligned GenAI course policy: assessment-derived permissions, transparent rationale (McCorkle 2025)
 - [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)

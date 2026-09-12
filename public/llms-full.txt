@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 190 concepts, 1147 articles, and 18 FAQs.
+> Complete text of 190 concepts, 1148 articles, and 18 FAQs.
 
 # Concepts
 
@@ -616,6 +616,8 @@ When designed well, agentic AI offers substantial benefits:
 - **Scalable practice and simulation.** Agent-based simulations (simulated students, [[medical-education|clinical]] scenarios) let learners practise in low-risk environments before real-world application, as in [[hdr-brachytherapy-agentic-ai-simulation-2026|clinical simulation]] and [[simulating-students|simulated learners]].
 - **Evidence-aware scaffolding.** Well-grounded agents can apply [[learning-theories|learning theory]] and known pedagogy in their interactions, and [[benchmark|benchmarks]] show theory-grounded agents outperform raw prompting.
 
+A narrower, instructor-built class of agents gets a distinct argument in [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma's third-space proposal]]: custom GPTs, Gems and Copilot Studio agents designed by instructors for a specific pedagogical purpose and explicitly **not** autonomous systems. Their claimed value is as low-stakes rehearsal space — an oral-exam simulator, a clinical-communication simulation, an ESL pronunciation avatar — where students practise before judgement while the instructor's evaluative role stays intact, with the agent outside the social hierarchies students navigate with peers and instructors. Two boundaries are worth noting: the authors exclude agent-based *grading* from scope by design, and they argue assessment must remain relational — the instructor role cannot be substituted by a machine, though it can be extended and made more sustainable through careful design.
+
 ## Negative implications and risks of AI agents for education
 
 The same autonomy that enables these benefits also creates significant risks:
@@ -710,6 +712,7 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[educational-policy-ai]]
 
 ## Connected Articles
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ilieva-agentic-genai-higher-education-2026]] — The AGAI-HE framework: bounded, human-supervised agentic GAI in higher education (Ilieva et al. 2026)
 - [[beyond-agent-label-agentic-ai-governance-2026]] — critical integrative review introducing the AOE evidence/oversight framework
 - [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspective on inclusive agentic multi-agent AI ecosystems in higher education
@@ -1218,6 +1221,8 @@ The knowledge base documents a paradigm shift: from AI as an integrity threat to
 - **Assessment redesign must be paired with cultural support.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] argue that in the generative AI era traditional, [[summative-assessment|summative]]-heavy and norm-referenced grading undermines integrity as well as deep learning, [[well-being]], and equity, and that [[authentic-assessment|authentic assessment]] — tasks mirroring real professional problems such as live consulting projects and dashboards with executive briefings — can support integrity-preserving alternatives to exam-centered assessment. Yet they caution that implementation is resisted by instructors and students alike, so integrity-preserving redesign requires incremental experimentation and dialogue spanning [[assessment-validity|validity]], assurance of learning, and stakeholders such as accreditation bodies and employers.
 - **Design, not detection: the Bochum case.** The Ruhr University Bochum redesign of introductory nuclear and particle [[physics-education|physics]] ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) linked its AI policy to a practical integrity failure rather than to detection: because tutorial problems were disclosed in advance, some students prepared AI-generated solutions and copied them onto the blackboard without engaging in the intended reasoning. The authors treat this as a design problem — moving tutorial problems to prepared in-class discussion and making a written exam the grade determinant — rather than a policing problem, while explicitly permitting AI in study, explaining why verification is the student's responsibility, and noting that open-ended AI-permitted homework also raised dependence, uneven access to paid models, and teaching-assistant workload.
 
+The clearest statement of the pedagogical inversion comes from [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma (2026)]], who argue that reform starting from suspicion narrows the educational imagination to control, compliance and surveillance, and that integrity should be a **consequence** of assessment designed for engagement rather than its starting point. Their supporting observation is a mechanism already visible elsewhere in this knowledge base: disengagement is one of the conditions under which dishonesty becomes more likely, so agendas that stress-test assessments or constrain AI use without addressing engagement leave part of the problem untouched.
+
 ### Connections
 
 Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[ai-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]], and [[equity-in-ai-education]]. It is the ethical dimension of [[ai-education|AI in education]], inseparable from [[cognitive-offloading|Over-Reliance]] and the broader question of how [[generative-ai]] reshapes [[higher-ed]] and [[k-12]] learning.
@@ -1265,6 +1270,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[k-12]]
 
 ## Connected Articles
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[kumar-genai-computing-education-systematic-review-2026]] — Detection evidence is thin (3 studies of 72); redesign carries the weight
 - [[mccorkle-aligned-genai-course-policy-2025]] — Aligned GenAI course policy: assessment-derived permissions, transparent rationale (McCorkle 2025)
 - [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)
@@ -2347,6 +2353,8 @@ Learner agency is not only a static individual trait — it is also an **emergen
 
 For collaborative settings, this reframes the design question: not *whether* AI can participate as a teammate, but *how* its patterned participation balances epistemic rigour, emotional safety, and learners' sense of ownership. Bounded friction (constrained challenge, paired with integrative and repair moves) and explicit meta-collaborative literacy are the recommended safeguards.
 
+A structural reading of agency appears in [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma's joyful assessment framework]], where agency is treated as a design property rather than motivation: students choose the order of tasks, set the pace, and signal when an interaction ends, so support is available while responsibility for the work stays with the learner. The mechanism they name is appraisal — rehearsing without an audience and choosing when to begin shifts what a task means, from verdict to something a student can shape — and they argue repeated experience of that shift is what settles occasional feelings of efficacy into an everyday stance toward assessment.
+
 ## Agency vs. learner identity
 
 [[learner-identity|Learner identity]] and learner agency are easy to conflate, yet they name different things — and both are reshaped by AI.
@@ -2388,6 +2396,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
@@ -12231,6 +12240,8 @@ The constructive question in the knowledge base's assessment literature is not "
 - **Production as a competency** — evaluating learners' ability to direct tools and produce professional-standard work ([[competency-based-education-genai-production-2026]])
 - **Assessing the interaction process, not just the artifact** — the [[assessing-student-drive-framework-2025|DRIVE framework]] (Directive Reasoning Interaction + Visible Expertise) treats the quality of a student's *engagement with GenAI* as the assessed construct. It distinguishes surface consumption from deep, reflective interaction by looking at whether students steer prompts strategically (DRI) and integrate and develop their own disciplinary ideas through the exchange (VE), grounding process-focused criteria in theories of [[self-directed-learning|self-directed learning]] and cognitive engagement along the lines of the [[icap-framework|ICAP]] hierarchy. This makes DRIVE an example of *AI-mediated authentic assessment* — a rubric for evaluating how learners partner with GenAI rather than a detection tool.
 
+A proposal in this literature pushes past redesign-within-the-current-frame. [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma (2026)]] argue that reform organized around preventing misconduct or detecting AI use narrows the educational imagination to control and compliance, and propose **joyful assessment** instead: assessment that is safe, emotionally responsive, empowering and supportive of student [[agency|student agency]], with safety as the load-bearing condition because without it emotional attunement becomes performance, empowerment becomes pressure and agency becomes risk. Their framing inverts the detection agenda — integrity becomes a consequence of designing assessment students want to engage in rather than its starting point — and they position instructor-built AI agents (custom GPTs, Gems, Copilot Studio agents) as a low-stakes rehearsal space where students practise before judgement, with the claim that the AI organizes evidence while the instructor interprets it.
+
 ## Implications for AI in education
 
 - **Assessment and learning are inseparable:** good AI assessment should support learning ([[feedback|formative feedback]]) as much as it evaluates it.
@@ -12261,6 +12272,7 @@ The constructive question in the knowledge base's assessment literature is not "
 - [[eportfolio]] — Process-based e-portfolio assessment
 
 ## Connected Articles
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[mccorkle-aligned-genai-course-policy-2025]] — Task-level AI permissions derived from what is assessed (McCorkle 2025)
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
@@ -12489,6 +12501,8 @@ The "assessment for learning" paradigm reframes feedback as an overarching philo
 
 The knowledge base's core feedback insight is that **feedback quality and feedback literacy are two sides of one system**: high-quality feedback is inert without a literate recipient, and a literate student gains little from poor feedback. [[ai-feedback-quality]] covers the provision side (is the feedback accurate, timely, actionable?), while [[feedback-literacy]] covers the uptake side (can the student judge and act on it?). The feedback loop is what connects them — the mechanism by which quality feedback, received by a literate learner, closes the gap. Designing effective AI feedback therefore means designing both the system and the student.
 
+A two-layer model shows how the pairing can be organized around a machine without delegating judgement to it. In [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma's worked example]], an agent produces a draft rubric-based evidence report on each transcript with every rating tied to quoted excerpts, and the instructor then reviews the report, leads a debrief and decides what the evidence means for that student — a division the authors summarise as the AI organizing evidence while the instructor interprets it. Their claim about uptake is appraisal-based: feedback and iteration outside the social hierarchies students navigate with peers and instructors are easier to attempt, and rehearsal at the student's own pace is what they argue turns occasional confidence into a settled habit of engaging with feedback.
+
 ### Why feedback matters for AI in education
 
 Feedback is one of the most consequential and best-evidenced mechanisms in education, and AI both amplifies and complicates it. Well-architected AI feedback can match or exceed human feedback and scale across cohorts, but it demands new learner capabilities ([[feedback-literacy]], [[ai-literacy]]) and carries risks (uncritical acceptance, [[cognitive-offloading|Over-Reliance]]). As AI-generated feedback becomes ubiquitous, the knowledge base frames feedback as a whole system — quality, loop, literacy, and assessment context working together — rather than as any single component.
@@ -12511,6 +12525,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[writing-education]]
 
 ## Connected Articles
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
@@ -13709,6 +13724,8 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - **Decision-oriented validity for AI scoring at scale:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] illustrate a decision-oriented view of validity in the Acredita EB national writing assessment: rather than asking only whether [[automated-assessment|AI scores]] agree with humans, they ask whether AI errors can change a certification decision. Automated [[item-response-theory|IRT/Bookmark]] cut scores closely reproduced the operational cut scores, and systematic AI under-grading was neutralised by routing failing AI results to [[human-in-the-loop-ai|human review]] — notably against a reference standard that is itself contested, since ten expert raters scoring the same 50 texts never reached unanimity on any rubric item.
 - **Student-side validity concerns about AI as grader:** [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] adds the learner's voice to the validity question: 13 computing students whose handwritten writing task was scored by ChatGPT questioned whether an AI scorer can validly interpret intent, effort and institutional grading norms — one asking pointedly, "If ChatGPT [is] checking the exams, why are we going to university?"
 
+A conceptual proposal raises a validity boundary that applies to every AI-mediated assessment on this page: [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma (2026)]] argue that speed is not validity, and that AI-generated prompts, examples and transcript-based reports still have to be tested for accuracy, cultural responsiveness, accessibility, interpretability and alignment with course outcomes. They also widen what counts as evidence: where dialogue becomes the assessed artefact, the transcript is a process record in which judgement, empathy, clarification and shared decision-making unfold in context, and the design question becomes whether that evidence supports the inference drawn from it — the same question automated scoring faces, answered by alignment among task, feedback and evidence of learning rather than by technological novelty.
+
 ### Redesign over detection
 
 The knowledge base argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not [[ai-detection|detecting AI use]]. A parallel validity problem runs through research measurement: many AI-in-education claims rest on [[self-report-measures|self-report data]], which cannot support an inference about learning or competence however well the instrument itself is validated. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[assessment]] represent validity-forward thinking.
@@ -13749,6 +13766,7 @@ The sharpest recent reframing treats the generative AI problem as an evidentiary
 - [[self-report-measures]]
 
 ## Connected Articles
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[kumar-genai-computing-education-systematic-review-2026]] — When AI generates the graded artefact: computing education's validity problem and redesign evidence
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Take-home exams: assess the qualitative phase, move recall in-class (Brunnström & Palmqvist 2026)
@@ -23391,6 +23409,95 @@ The authors draw a clear design agenda for adversarial agents in [[ai-education|
 ## Citation
 
 Han, H. Z., & Martelaro, N. (2026). *[Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers](https://arxiv.org/abs/2608.04166)*. Human-Agent Interaction (HAI) 2026.
+
+---
+
+## [AI Agents, Joyful Assessment, and Third Space](https://edtechdev.github.io/aied/articles/ai-agents-joyful-assessment-third-space-2026/)
+
+> **Synthesis:** El Khoury and Ma (2026) argue that assessment reform in the generative AI era has been too defensive — organized around preventing misconduct and detecting AI use rather than asking what assessment could become. They propose **joyful assessment**: assessment that is safe, emotionally responsive, empowering, and supportive of student [[agency]], with safety as the foundation the other three rest on. Their second move is to position instructor-built AI agents (custom GPTs, Gems, Copilot Studio agents — tools designed for specific pedagogical purposes, not autonomous systems) as a **third space** between the formal curriculum and students' interests and experiences, where students can rehearse, explore, and practise before judgement. The paper is explicit that this is a conceptual proposal, not evidence: its worked example is offered as a design illustration, and the authors flag ethics, reliability, equity, and the thin evidence base as open problems.
+
+## Overview
+
+The paper starts from a problem the knowledge base documents repeatedly: since ChatGPT, students can produce fluent academic work with minimal authorial effort, and most institutional responses have asked whether assessments can still support defensible claims about learning. Reviews of the field describe this as a "wicked problem" balancing validity, [[academic-integrity|integrity]], equity, workload and learning. El Khoury and Ma accept that framing but argue it is incomplete, because much of the work remains directed at preventing or detecting AI use rather than asking what assessment might become.
+
+They point to a parallel literature that answers a different question. Compassionate assessment foregrounds trauma-informed, flexible, care-oriented practice; assessment for inclusion attends to equity and social justice in how diverse learners demonstrate learning; relational approaches reframe assessment as an ethical interaction between teacher and student rather than a measure of individual performance. Read alongside the GenAI debate, those traditions suggest the question: what would assessment look like if it were designed primarily to support engagement, agency and learning, with integrity as a *consequence* of that design rather than its starting point? The authors give that question practical urgency by noting that disengagement is one of the conditions under which academic dishonesty becomes more likely, while reform agendas focused on stress-testing assessments or constraining AI use leave engagement untouched.
+
+Worth noting for readers in this knowledge base: the paper builds directly on existing scholarship rather than coining its framework from nothing. The four characteristics are drawn from prior work, and the pedagogy of joy comes from White et al.'s (2026) call for collaboration, belonging, and the freedom to learn without fear of failure; what is new here is the claim that AI agents can carry such a pedagogy into assessment practice.
+
+**Definition of AI agents used here.** Custom AI assistants designed by instructors for specific educational purposes — Gems, custom GPTs, or Copilot Studio agents across platforms — built to support and scaffold specific learning tasks **rather than to operate autonomously**. That definition matters because it is much narrower than the [[agentic-ai|agentic AI]] usually discussed in this knowledge base, and it is what makes the paper's claims about instructor authority coherent.
+
+## The Framework: Four Characteristics
+
+Joyful assessment is defined as a rigorous yet humanizing approach that supports learning through emotional attunement, agency, and confidence, and interactivity. The authors are careful about what it is not: not entertaining assessment, not easier assessment, not assessment without standards. Their aim is the conditions under which meaningful challenge becomes possible — conditions that hold space for students' emotional, personal, creative and relational experience alongside the cognitive one.
+
+- **Safe (and foundational).** A safe assessment is one where students do not feel their grades, mental health or sense of self are at stake every time they attempt something — where early attempts are not harshly judged, peer competition is not constant, and students can ask the questions they actually need to ask. The authors make safety load-bearing: without it, emotional attunement becomes performance, empowerment becomes pressure, and agency becomes risk.
+- **Emotionally responsive.** Drawing on work on emotions in assessment for learning, on hope and pride in assessment contexts, and on the argument that higher education should attend to the emotional dimensions of assessment beyond anxiety alone, the paper treats affect as pedagogy rather than background noise — noting that ignoring it falls hardest on students whose prior assessment histories involved exclusion or marginalisation.
+- **Empowering.** Empowerment is treated as a design quality rather than motivational rhetoric: assessment that helps students feel more capable *in the doing*, not only in the grading. The cited example is learner-generated podcasts produced in pairs, where confidence grows from sustained supported engagement with material students helped shape.
+- **Supporting student agency.** Assessment connects to students' interests, experiences and identities, as in blogging assessments where students define aspects of their own content and explore topics they care about — assessment as a site of participation rather than only evaluation. Agency here is structural, not an add-on: students engage as learners with identities, not only as candidates for grading.
+
+## How AI Agents Are Claimed to Support It
+
+The review deliberately excludes studies where AI agents primarily **grade** student work, on the stated grounds that automated grading sits outside the paper's scope. The authors' position is that assessment must remain relational — the instructor role cannot be substituted by a machine, but it can be extended and made more sustainable through careful design. The four clusters:
+
+- **Safe spaces for rehearsal.** A generative AI oral exam simulator lets students rehearse responses, work with prompts, and become familiar with the structure and expectations of a high-stakes assessment before encountering it for marks; an engineering-education agent customizes preparation activities and responds to individual needs ahead of summative evaluation. The unifying move is lowering the perceived stakes of attempting unfamiliar work, so students arrive at formal assessment having practised in private — the instructor's evaluative role intact, the conditions under which students arrive changed.
+- **Emotional responsiveness through appraisal.** Because agents sit outside the social hierarchies students navigate with peers and instructors, and remain available whenever a student is ready to try again, they can offer feedback without the perceived risk of peer pressure or instructor judgement, support iteration without the cost of looking unprepared, and prompt students to notice how learning feels alongside what it produces. The mechanism named is appraisal: when students can rehearse without an audience, set their own pace, and decide when to begin, a task that felt like a verdict can start to feel like a conversation they can shape. Repeated interaction is claimed to convert occasional feelings of [[self-efficacy]] and agency into a settled, everyday part of students' approach to assessment.
+- **Empowerment through repeated formative practice.** An AI student assistant designed into the instructional workflow helps educators identify where students struggle and design more targeted preparation, [[scaffolding]] and feedback. Nursing education's AISimBot lets students practise clinical communication through realistic scenarios before being assessed on those skills; in language education, real-time AI avatars give ESL students low-pressure pronunciation rehearsal and feedback. On feedback specifically, an agent used in a large online class supported students' generation and uptake of feedback where timely individualised feedback would otherwise be prohibitive, and a custom GPT delivering formative feedback on first-year physics lab reports was valued for structure, consistency and speed alongside human assessors.
+- **Agency by making richer formats feasible.** The access argument: multimodal, authentic and practice-based assessment supports deeper learning but is time-intensive to design and manage, so agents that help generate scenarios, adapt materials, build practice tasks and manage process-oriented evidence make those designs more feasible. Here AI does not reduce assessment to automation — it opens room for students to choose how they demonstrate what they know.
+
+### The third space claim
+
+Read across those clusters, the authors argue agents are most valuable when they **extend rather than replace** relational practice, and that where design choices are made well the agent functions as a third space: a hybrid pedagogical zone, after Bhabha and Gutiérrez, between the formal curriculum and students' interests, experiences and ways of knowing. Their framing is emphatic that none of this happens automatically — each affordance requires deliberate design grounded in the instructor's judgement about what the assessment is for.
+
+## Worked Example: GACSS
+
+The Generative AI Clinical Stakeholder Simulation is a custom GPT for a health communication course in a rural Appalachian context, offered as an **illustrative design example rather than evidence of measured impact**. Students hold three separate conversations with AI-played personas, pause for structured reflection between encounters, and receive a rubric-aligned evidence report in which every score links to quoted excerpts from their transcript.
+
+- **Safety through rehearsal.** Students practise difficult, culturally situated clinical conversations before meeting similar demands in clinical or community settings. The personas include a retired manual labourer with respiratory symptoms who mistrusts physicians and downplays his condition, and a parent managing cost barriers and time pressure at a sliding-scale clinic. The authors insist such personas be developed with local knowledge and reviewed for cultural accuracy, so the simulation does not treat communities as homogeneous or reduce them to fixed traits. Because the instructor frames it as formative rehearsal, anxiety becomes pedagogically useful.
+- **Agency through sequencing and pacing.** Students choose the order of the three personas, calibrating challenge themselves; each conversation continues until the student signals its end; a coaching pause offers a strategic prompt without leaving the scenario — help is available, but the student still decides how to proceed.
+- **A different artefact of learning.** Dialogue, not written prose, becomes the primary medium of demonstration, and the transcript becomes the assessment artefact. The authors do not claim this removes integrity concerns; they argue it shifts evidence away from a detached product toward an interactional record in which judgement, empathy, clarification and shared decision-making unfold in context.
+- **Two-layer feedback.** The agent produces a draft rubric-based evidence report on empathy and validation, patient education and clarity, and shared decision-making, each rating supported by exact transcript excerpts; the instructor then reviews the report, leads a debrief, and determines what the evidence means for that student. Their summary of the division of labour is the clearest statement of the paper's position: **the AI organizes evidence; the instructor interprets it.**
+
+## Implications and Open Problems
+
+The paper's research agenda is more cautious than its framing, and several items are stated in terms this knowledge base can act on.
+
+- **Multimodality is not automatically better.** Noting the shift toward agents that respond through language, images, audio and embodied action, the authors cite evidence that multimodal conversational support improved learning outcomes and experience in a visually rich biology task, while text-only support increased perceived ease and engagement **without the same learning benefit**. The design implication: value depends on alignment among modality, task, feedback and evidence of learning, not technological novelty.
+- **Speed is not validity.** AI agents can supply rapid prompts, examples and transcript-based reports, but the authors say researchers should test whether that feedback is accurate, culturally responsive, accessible, interpretable and aligned with course outcomes — with hallucination, bias and overreliance treated as core threats to the trustworthiness of evidence rather than technical side issues.
+- **Ethics as a condition, not a safeguard.** Transparency, student consent, data protection, bias review, accessibility, human oversight and equitable access are framed as conditions of the framework itself, following UNESCO's guidance on human-centred, ethical and equitable GenAI use. An agent cannot support joyful assessment, they argue, if it makes students feel monitored, misrepresented, excluded, or unable to contest the feedback they receive.
+- **Relationships and invisible labour.** The strongest use of agents may be to make better *human* judgement possible — richer evidence, more focused debriefing, more rehearsal, more timely formative support — which requires designs including student voice, instructor interpretation and social context. The authors add that instructor workload needs measuring, because a tool that improves student experience while intensifying invisible labour may not be sustainable.
+- **Differences that matter.** Future work should examine how, for whom and under what conditions these benefits hold, attending to student groups, disciplines, levels of study, linguistic backgrounds, disability status and technology access.
+
+**Limitations.** This is a conceptual paper, and the authors say so: it is offered as "a first conceptual step" rather than empirical evidence. The GACSS example is explicitly an illustration, not measured impact. The AI-agent literature reviewed sits mostly in the formative and relational space because studies of agents that grade work were excluded by design, so the paper says nothing about automated scoring. The authors acknowledge upfront that agents raise legitimate concerns about ethics, reliability, equity and the strength of available evidence, and note that the framework's own characteristics — safety, emotional responsiveness, empowerment, agency — are asserted rather than measured.
+
+## Connected Concepts
+
+- [[assessment]]
+- [[academic-integrity]]
+- [[agentic-ai]]
+- [[agency]]
+- [[assessment-validity]]
+- [[feedback]]
+- [[ethics]]
+- [[scaffolding]]
+- [[authentic-assessment]]
+- [[self-efficacy]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment in the AI era
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Oral exams as authentic assessment with AI
+- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessment
+- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-supported authentic assessment and metacognition
+- [[anastasia-shared-agency-partnership-framework-2026]] — Shared agency and partnership framework
+- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI, group assessment and student agency
+- [[lo-co-creating-custom-gpts-sap-2026]] — Co-creating custom GPTs for a teaching programme
+- [[epistemic-emotions-collaborative-problem-solving]] — Epistemic emotions in collaborative problem solving
+- [[aivaluate-anxiety-assessment-2026]] — Anxiety in performance-based assessment with an AI tool
+
+## Citation
+
+El Khoury, E., & Ma, X. (2026). [AI Agents, Joyful Assessment, and Third Space: Rethinking Assessment in the GenAI Era](https://doi.org/10.22329/jtl.v20i4.11850). *Journal of Teaching and Learning*, 20(4), 230–241.
 
 ---
 
