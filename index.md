@@ -626,7 +626,7 @@ Articles: 1142 | Concepts: 189 | FAQs: 17
 - [[hcap-human-centric-ai-pedagogy-framework-2026]] — Human-Centric Artificial Intelligence Pedagogy (HCAP) framework developed from TPACK through integration of artificial intelligence literacy and competency
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform for High Dose Rate (HDR) Brachytherapy
 - [[help-seeking]] — Help-Seeking
-- [[higher-ed]] — AI in Higher Education
+- [[higher-ed]] — Higher Education
 - [[hingle-collaborative-ai-literacy-2025]] — Systematic Review of Collaborative Learning Activities for Promoting AI Literacy
 - [[history-aware-student-simulation]] — Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues
 - [[history-of-aied]] — History of AI in Education

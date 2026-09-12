@@ -392,7 +392,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`guardrails`** — Guardrails
 - **`hallucination-risk`** — Hallucination Risk
 - **`help-seeking`** — Help-Seeking
-- **`higher-ed`** — AI in Higher Education
+- **`higher-ed`** — Higher Education
 - **`history-of-aied`** — History of AI in Education
 - **`human-ai-collaboration`** — Human AI Collaboration
 - **`human-in-the-loop-ai`** — Human-in-the-Loop
