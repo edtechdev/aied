@@ -1,7 +1,7 @@
 ---
 title: Student Use of and Views on GenAI for Writing
 created: "2026-09-12T08:05:00-04:00"
-updated: "2026-09-12T08:28:00-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: article
 tags: [student-ai-interaction, writing-education, academic-integrity, assessment, ai-literacy, teacher-role, feedback, higher-ed]
 research_method: [mixed methods, survey, interviews]
@@ -60,6 +60,7 @@ That last point reframes the whole issue. Practices reported here — practice q
 - [[feedback]]
 - [[teacher-role]]
 - [[higher-ed]]
+- [[self-report-measures]]
 
 ## Connected Articles
 

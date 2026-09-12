@@ -1,7 +1,7 @@
 ---
 title: "Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration"
 created: "2026-08-08T04:33:04-04:00"
-updated: "2026-08-24T19:40:00-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: article
 tags: [physics-education, trust-calibration, ai-literacy, student-experience, higher-ed, stem-education, change-management]
 research_method: [mixed methods]
@@ -31,6 +31,8 @@ A [[mixed-methods-research|mixed-methods]] survey of 81 introductory [[physics-e
 - [[student-experience]]
 - [[higher-ed]]
 - [[stem-education]]
+- [[self-report-measures]]
+
 ## Connected Articles
 
 - [[becker-chatgpt-typology-physics-2026]]

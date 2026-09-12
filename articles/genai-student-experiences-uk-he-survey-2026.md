@@ -1,7 +1,7 @@
 ---
 title: "\"It is a temptation to get it to do the work…\" Student Experiences of Navigating the Generative AI Landscape in UK Higher Education: A Cross-Institutional Survey with International Comparison"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-08-24T05:04:31-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: article
 tags: [student-experience, higher-ed, generative-ai, academic-integrity, equity-in-ai-education, ethics, educational-policy-ai]
 research_method: [survey]
@@ -78,6 +78,7 @@ The demographic patterns carry [[equity-in-ai-education]] implications, particul
 - [[ethics]]
 - [[educational-policy-ai]]
 - [[motivation]]
+- [[self-report-measures]]
 
 ## Connected Articles
 

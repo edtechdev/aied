@@ -459,6 +459,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`self-determination-theory`** — Self-Determination Theory
 - **`self-directed-learning`** — Self-Directed Learning
 - **`self-efficacy`** — Self-Efficacy
+- **`self-report-measures`** — Self-Report Measures — phrases: self-report; self-reported; self-report measures; self-report data; self-report bias; questionnaire; questionnaires; survey instrument; survey measures; perceived learning; satisfaction survey
 - **`self-regulated-learning`** — Self-Regulated Learning
 - **`simulating-students`** — Simulating Students
 - **`simulation`** — Simulation

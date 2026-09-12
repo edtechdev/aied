@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-12T09:05:00-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, student-engagement]
 audience: [learners]
@@ -26,7 +26,7 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 
 ### How student engagement appears in the research
 
-- **Engagement as an outcome of AI design:** [[genai-motivation-engagement-2026|GenAI motivation research]] shows that engagement in [[generative-ai]]-supported learning follows the satisfaction of basic psychological needs ([[self-determination-theory|autonomy, competence, relatedness]]) — engagement is the downstream result of motivational support, not of technology availability alone.
+- **Engagement as an outcome of AI design:** [[genai-motivation-engagement-2026|GenAI motivation research]] shows that engagement in [[generative-ai]]-supported learning follows the satisfaction of basic psychological needs ([[self-determination-theory|autonomy, competence, relatedness]]) — engagement is the downstream result of motivational support, not of technology availability alone. Engagement is often measured by [[self-report-measures|self-report]] while behavioral engagement comes from interaction logs, and the two are not interchangeable.
 
 - **Quality over quantity:** [[critical-engagement-code-completion|Critical engagement in AI code completion]], [[icap-cognitive-engagement-llm-agents|cognitive-engagement discourse analysis]], and [[scaffolding-critical-engagement-genai-minority-students|scaffolding critical engagement]] show that *deep* (cognitive) engagement with AI predicts learning, while *shallow* (behavioral) engagement predicts the [[cognitive-offloading|Over-Reliance]] and learning displacement that dominate the knowledge base's risk literature.
 
@@ -92,6 +92,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[higher-ed]]
 - [[framing-ai-use-for-students]]
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation

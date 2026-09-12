@@ -165,6 +165,9 @@ ALIASES = {
                        'academic performance', 'student achievement', 'learning achievement',
                        'prior achievement', 'achievement gap', 'achievement gaps'],
     'research-methods-aied': ['research methods', 'methodological', 'study design', 'research', 'researcher', 'researchers'],
+    'self-report-measures': ['self-report', 'self-reported', 'self-report measures', 'self-report data',
+                             'self-report bias', 'questionnaire', 'questionnaires', 'survey instrument',
+                             'perceived learning'],
     'limitations-in-aied-research': ['limitations', 'limitation'],
     'meta-analysis-systematic-review': ['systematic review', 'meta-analysis', 'meta-analytic', 'systematically review',
                                         'scoping review', 'literature review'],
@@ -294,7 +297,7 @@ AUTO_APPLY_DENYLIST = {
     'instructors', 'instructor', 'faculty', 'teachers', 'educators', 'secondary',
     'undergraduate', 'undergraduates', 'college students', 'tertiary', 'university',
     'universities', 'college', 'primary school', 'elementary', 'high school',
-    'achievement', 'stakeholder', 'stakeholders', 'administrators', 'admin',
+    'achievement', 'survey', 'surveys', 'stakeholder', 'stakeholders', 'administrators', 'admin',
 }
 
 # (matched phrase, target slug) pairs that are semantically WRONG: never link them,

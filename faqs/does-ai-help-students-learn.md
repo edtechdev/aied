@@ -1,9 +1,9 @@
 ---
 title: "Does Using AI Actually Help My Students Learn?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-05T13:30:00-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 weight: 90
-tags: [ai-literacy, cognitive-offloading, active-learning, ai-ed-evaluation, assessment]
+tags: [ai-literacy, cognitive-offloading, active-learning, ai-ed-evaluation, assessment, self-report-measures]
 category: [evaluation, assessment]
 ---
 
@@ -29,7 +29,7 @@ The clearest caution comes from [[generative-ai-guardrails-harm-learning|Generat
 
 In this randomized field experiment with nearly 1,000 students, a general-purpose-style AI interface increased assisted practice scores by **48% relative to the control group**, but students subsequently scored **17% lower on unassisted exams**. A tutor configured with teacher-designed guidance and hints largely avoided that penalty. Crucially, it **did not produce a statistically significant improvement in unassisted exam performance over the control group**. Avoiding harm is not the same as demonstrating additional learning. These percentages describe this particular intervention and setting, not universal effects of AI use.
 
-The implication is practical: judging an AI tool by completed homework, correct practice answers, or student satisfaction can give a misleading picture of its educational value.
+The implication is practical: judging an AI tool by completed homework, correct practice answers, or student satisfaction can give a misleading picture of its educational value. Satisfaction and perceived learning are [[self-report-measures|self-report measures]], and the knowledge base documents how far they can drift from measured learning.
 
 ### Access and safeguards are not enough
 

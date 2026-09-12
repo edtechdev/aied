@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: concept
 tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing, ai-literacy]
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
@@ -38,7 +38,7 @@ A central function of educational measurement is the development, validation, an
 
 ### AI / GenAI literacy instruments
 
-AI literacy is the construct with the richest instrument coverage in the knowledge base. Two broad families exist: **performance-based tests** (objective, less susceptible to self-report bias) and **self-report scales** (subjective, capturing perceived competence).
+AI literacy is the construct with the richest instrument coverage in the knowledge base. Two broad families exist: **performance-based tests** (objective, less susceptible to self-report bias) and **self-report scales** (subjective, capturing perceived competence). The trade-offs of that second family are the subject of [[self-report-measures]]: self-report reaches attitudes and perceptions cheaply, but it cannot carry a claim about competence or behavior, and the knowledge base documents a 40% overestimation gap when parallel self-report and performance measures are compared.
 
 - **Performance-based (objective) measures.** The flagship is [[jin-glat-genai-literacy-assessment|GLAT (Generative AI Literacy Assessment Test)]], a 20-item multiple-choice instrument built on a 25-concept blueprint across four dimensions (Know & Understand, Use & Apply, Evaluate & Create, [[ethics]]) and validated with CTT + 2PL IRT on 355 students (RMSEA = 0.03, CFI = 0.97, α = 0.80, ω = 0.81). Critically, GLAT scores predicted AI-assisted task performance where self-report did not — evidence that **performance-based measurement outperforms self-report** for AI literacy. Related work in [[ai-literacy-assessment-misalignment]] quantifies the gap between self-reported and performance-based AI literacy (teachers overestimate by ~40%), and [[tracing-genai-literacy-interaction-patterns]] traces actual student–AI interaction patterns rather than relying on reported use.
 - **Self-report scales.** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]] operationalizes AI literacy across three domains (AI Concepts; Application and Technical Skills; AI Digital Citizenship) and four scaffolded levels; [[ai-literacy-heptagon-2026|the AI Literacy Heptagon]] structures seven dimensions (technical, application, [[critical-thinking|critical thinking]], ethics, social impact, integration, legal/[[regulation|regulatory]]) with four Bloom-aligned proficiency levels. [[genai-skill-bypass-literacy]] maps divergent AI-literacy pathways for students vs. staff, and [[panciroli-ai-literacy-episodes-situated-learning]] grounds literacy assessment in [[situated-learning|situated learning]] episodes.
@@ -100,6 +100,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[technology-acceptance-model]]
 - [[self-efficacy]]
 - [[benchmark]]
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
