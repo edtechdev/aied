@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-12T09:18:00-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 audience: [learners]
@@ -48,7 +48,7 @@ Across the knowledge base's [[rct|RCTs]], [[meta-analysis-systematic-review|meta
 - **Well-designed [[intelligent-tutoring|AI tutors]] produce real gains.** A two-year cluster RCT ([[one-click-away-khanmigo-two-year-school-experiment-2026|Khanmigo]]) found AI tutoring raised math achievement ~1.3 national percentile ranks per term (~0.06–0.08 SD/school year, ~0.14 SD for a full year), gains resembling practice without AI — demonstrating that *engagement*, not model capability, is the binding constraint. [[making-ai-tutoring-productive-mastery-math-2026|NUMI]] showed AI support improved next-attempt correctness after mistakes with more time per question — a "productive slowdown" that builds durable mastery. [[virtual-tutoring-computer-assisted-learning-takeup-2026|Virtual tutoring]] found the binding constraint is take-up and sustained participation, not tutor quality.
 - **AI can match human help.** [[chatgpt-hints-human-tutor-learning-gains-2024|ChatGPT-generated help]] produces learning gains equivalent to human tutor-authored help on [[math-education|mathematics]] skills — evidence that generative AI can be as efficacious as human [[scaffolding]] when used appropriately.
 - **Unguarded AI can harm learning.** The guardrail RCT ([[generative-ai-guardrails-harm-learning|PNAS 2025]]) found an unguarded ChatGPT-style tutor raised assisted practice +48% but *reduced* unassisted exam scores −17%, while a guardrailed (hint-not-answer) tutor eliminated the harm. This is the sharpest demonstration that **learning efficacy is design-contingent**: the same class of tool can be a strong learning gain or a net harm depending on how it is configured.
-- **Perceived vs. actual efficacy diverge.** [[ai-literacy-assessment-misalignment|Self-reported performance misaligns with measured performance]], and [[absent-cognitive-baseline-2026|the absent cognitive baseline]] shows AI-native students overestimate their learning — so efficacy claims based on self-report are unreliable without objective outcome measures.
+- **Perceived vs. actual efficacy diverge.** [[ai-literacy-assessment-misalignment|Self-reported performance misaligns with measured performance]], and [[absent-cognitive-baseline-2026|the absent cognitive baseline]] shows AI-native students overestimate their learning — so efficacy claims based on self-report are unreliable without objective outcome measures. [[self-report-measures]] collects the cases where reported and measured outcomes come apart.
 
 **Takeaway:** the weight of evidence supports **modest, conditional, and design-dependent learning gains** from AI — real when AI is structured to coach rather than answer, guardrailed, and paired with unassisted outcome measures, and absent or negative when it substitutes for the learner's own effort. This is why learning gains as an outcome must be measured with valid, AI-resistant instruments and why [[ai-ed-evaluation]] pairs efficacy claims with [[research-methods-aied|methodological]] scrutiny.
 
@@ -107,6 +107,8 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[human-in-the-loop-ai]]
 - [[affective-tutoring]]
 - [[theory-development-aied]] — Theory Development in AI in Education
+- [[self-report-measures]]
+
 ## Connected Articles
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning

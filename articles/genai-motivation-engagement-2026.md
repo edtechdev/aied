@@ -1,7 +1,7 @@
 ---
 title: "Examining the Impact of Generative AI on Student Motivation and Engagement: The Mediating Role of Autonomy-Support and Autonomous Motivation in Education"
 created: "2026-08-13T05:23:56-04:00"
-updated: "2026-08-23T09:20:00-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: article
 tags: [generative-ai, motivation, self-determination-theory, student-engagement, higher-ed, personalized-learning, student-experience, ai-education]
 research_method: [survey]
@@ -43,6 +43,7 @@ The cross-sectional design limits causal inference, and the sample is drawn from
 - [[higher-ed]]
 - [[personalized-learning]]
 - [[student-experience]]
+- [[self-report-measures]]
 
 ## Connected Articles
 

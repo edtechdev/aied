@@ -1,7 +1,7 @@
 ---
 title: "Fostering self-regulated learning through adaptive learning technology: A differentiated perspective on the role of feedback"
 created: "2026-08-24T17:00:00-04:00"
-updated: "2026-08-24T17:00:00-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: article
 tags: [self-regulated-learning, adaptive-learning, feedback, feedback-literacy, higher-ed, metacognition, motivation, self-efficacy, learning-analytics]
 research_method: [survey]
@@ -36,6 +36,7 @@ This study contributes directly to the knowledge base's [[self-regulated-learnin
 - [[learning-analytics]] — trace-data methodology
 - [[cognitive-offloading]] — the cognitive-load risk of transformative feedback
 - [[higher-ed]] — the study context (stochastics course)
+- [[self-report-measures]]
 
 ## Connected Articles
 

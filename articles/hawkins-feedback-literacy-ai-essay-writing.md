@@ -1,7 +1,7 @@
 ---
 title: "Summarise, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-21T13:20:39-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: article
 tags: [feedback, ai-feedback-quality, self-regulated-learning, formative-assessment, writing-education, ai-literacy, higher-ed]
 audience: [learners, instructors]
@@ -44,6 +44,7 @@ Hawkins, Taylor-Griffiths & Lodge (2026) investigate how university students use
 - [[academic-integrity]]
 - [[generative-ai]]
 - [[feedback-literacy]]
+- [[self-report-measures]]
 
 ## Connected Articles
 

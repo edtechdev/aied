@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, well-being]
 level: [higher ed, k 12]
@@ -23,7 +23,7 @@ confidence: high
 
 ### How student experience is studied
 
-- **Large-scale surveys:** [[ai-in-the-wild-college|AI in the Wild]] analyzes authentic interactions of thousands of college students, while [[genai-availability-grades-satisfaction|availability and satisfaction studies]] correlate AI access with student outcomes.
+- **Large-scale surveys:** [[ai-in-the-wild-college|AI in the Wild]] analyzes authentic interactions of thousands of college students, while [[genai-availability-grades-satisfaction|availability and satisfaction studies]] correlate AI access with student outcomes. These are [[self-report-measures|self-report measures]]: they capture perceptions and intentions well and behavior only approximately.
 - **Interaction patterns:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] maps how students engage with AI across assignments. [[misiejuk-cognitive-offloading-prompting-2026|Prompting analysis]] reveals cognitive engagement levels through prompt structure.
 - **Motivation and agency:** [[ai-availability-student-motivation|AI availability and motivation]] examines whether knowing AI is available changes student effort. [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames [[agency]] and [[motivation]] as central challenges.
 - **Perceptions and attitudes:** [[genai-usage-design-students-survey|GenAI usage surveys]] and [[student-mental-models-genai|mental model studies]] investigate how students understand and trust AI.
@@ -95,6 +95,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[framing-ai-use-for-students]]
 - [[academic-integrity]]
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use

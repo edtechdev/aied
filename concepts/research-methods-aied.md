@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-09-05T12:15:00-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: concept
 tags: [ai-education, educational-measurement, rct, benchmark, ai-ed-evaluation, higher-ed]
 research_method: [educational measurement, experiment, randomized controlled trial, benchmark, research methods]
@@ -44,6 +44,8 @@ Cross-sectional surveys measure self-reported attitudes, perceptions, motivation
 
 - **Strengths:** large samples; broad, low-cost coverage; can test complex mediational models of psychological mechanisms; feasible for studying attitudes that are hard to observe.
 - **Limitations:** cross-sectional data cannot establish causation; common-method/self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation.
+
+The instrument itself deserves separate scrutiny. What a questionnaire, interview, or diary can and cannot establish — and the documented gap between what people report and what they do — is gathered on [[self-report-measures]].
 - **Exemplars:** [[acceptance-ai-english-tools-2026]], [[genai-motivation-engagement-2026]], [[ai-autonomous-learning-accomplishment-2026]], [[genai-over-reliance-learning-2026]], [[ai-use-critical-thinking-medical-students-2026]].
 
 ### Qualitative methods
@@ -175,6 +177,8 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 - [[mixed-methods-research]] — Mixed-Methods Research
 - [[design-based-research]] — Design-Based Research
 - [[usability-research]] — Usability Research
+- [[self-report-measures]]
+
 ## Connected Articles
 
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring

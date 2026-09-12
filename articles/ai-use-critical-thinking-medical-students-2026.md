@@ -1,7 +1,7 @@
 ---
 title: "From AI Use to Critical Thinking Among Medical Students: A Moderated Mediation Perspective on Cognitive Load and Self-Regulated Learning"
 created: "2026-08-13T05:14:23-04:00"
-updated: "2026-08-13"
+updated: "2026-09-12T11:20:00-04:00"
 type: article
 tags: [critical-thinking, self-regulated-learning, generative-ai, higher-ed, ai-literacy, cognitive-offloading, medical-education]
 audience: [learners]
@@ -42,6 +42,7 @@ The cross-sectional, non-experimental design limits causal inference despite the
 - [[higher-ed]]
 - [[cognitive-offloading]]
 - [[ai-literacy]]
+- [[self-report-measures]]
 
 ## Connected Articles
 

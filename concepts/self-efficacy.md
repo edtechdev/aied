@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-02T09:10:56-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: concept
 tags: [self-efficacy, motivation, assessment, self-regulated-learning, student-experience, ai-literacy]
 audience: [learners]
@@ -33,7 +33,7 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 - **Feedback and confidence:** [[ai-feedback-quality|AI feedback]] and [[intelligent-tutoring|tutoring]] can build learner self-efficacy by providing actionable, supportive feedback.
 - **Empowerment in AI [[problem-solving]]:** Zhu and Kong (2026) find that students' empowerment in using AI for problem solving mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. In their SEM analysis of 1,027 students, PBL fostered conditions that empowered students to use AI for problem solving, which in turn drove course satisfaction — evidence that building students' confidence and capability with AI is a key mechanism of effective AI literacy education.
 
-Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student-experience]], [[ai-literacy]], [[agency]], and [[educational-robotics]]. Building self-efficacy is a key mechanism through which AI supports engagement and learning.
+Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student-experience]], [[ai-literacy]], [[agency]], and [[educational-robotics]]. Building self-efficacy is a key mechanism through which AI supports engagement and learning. Self-efficacy is measured almost entirely by [[self-report-measures|self-report]], so its associations with observed behavior deserve the usual caution.
 
 ## Connected Concepts
 
@@ -44,6 +44,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[ai-literacy]]
 - [[agency]]
 - [[educational-robotics]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
