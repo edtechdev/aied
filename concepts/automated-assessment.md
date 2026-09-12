@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-12T14:25:00-04:00"
 type: concept
 tags: [automated-assessment, assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 audience: [instructors]
@@ -77,6 +77,12 @@ A central design goal within automated assessment is **confidence awareness**: A
 
 Automated assessment quality depends on [[assessment-validity]] and [[bias-mitigation]]. [[ai-scoring-language-bias-physics|Language bias]] research shows that automated scoring can systematically disadvantage certain student populations.
 
+### Deployment scenarios and what each one requires
+
+How much alignment an institution should demand depends on what the system is allowed to decide. In a mixed-methods study of [[opraise-automated-marking-ai-assessment-2026|761 authentic undergraduate essays at three UK universities]], three frontier models with 27 prompt configurations each reached only 35–65 percent agreement with human markers on the degree band, and accuracy did not transfer between institutions — so the report treats candidate uses as distinct scenarios rather than one decision. **Quality assurance of human marking**, where AI marks in parallel and significant differences trigger human review, is the most conservative. **A marking assistant**, ranking or categorising submissions by predicted quality or uncertainty, triaging complex cases, or expanding brief human comments into fuller feedback, is a genuine middle ground. **AI as primary marker**, with human review of a sample or of mark distributions, was judged acceptable only if system performance improves, and no stakeholder group endorsed AI as a sole marker.
+
+Three requirements follow for any of them. Because alignment is model- and institution-specific, validation must be local and continuous — headline accuracy from elsewhere is not evidence of readiness. Because marks were compressed toward the middle, AI was least accurate at the grade boundaries and for the strongest and weakest submissions, which is where assessment decisions carry the most consequence. And because disagreement between an AI and a human mark reflects different judgement rather than mere error, discrepancies should trigger human interpretation rather than algorithmic override, with final authority over the mark retained by people. Adoption also carries governance obligations the technical metrics do not capture: a right to explanation under GDPR Article 22 where automated decisions affect students, Equality Act duties once attainment level and language use are shown to influence marks, revised appeal processes for errors that are not easily caught, and an irreversibility risk — once staffing and investment shift, an institution may struggle to keep collecting the human marking it would need to return to.
+
 ### Connections
 
 Automated assessment connects to [[assessment-validity]] (quality assurance), [[formative-assessment]] (use context), [[bias-mitigation]] and [[equity-in-ai-education]] (fairness), [[teacher-role]] (how automation changes instructor work), and [[ai-feedback-quality]] (grading without useful feedback has limited educational value). Confidence-aware assessment is a specific mechanism within the broader agenda of [[psychometrically-aware-ai]] and a contributor to [[trust-calibration|calibrated trust]].
@@ -115,6 +121,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
