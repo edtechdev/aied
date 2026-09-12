@@ -179,6 +179,100 @@ const recentConceptItems = recentConcepts.map(c => ({
   <link rel="stylesheet" href="/aied/vendor/pico.min.css" />
   <link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
   <style>
+    /* === Typography ===
+       Self-hosted Atkinson Hyperlegible Next (Braille Institute), a typeface designed
+       for low-vision readers: distinct letterforms (I/l/1, O/0), open counters, wider
+       spacing. Licensed SIL OFL 1.1 — the license text ships with the font files at
+       /fonts/OFL.txt and must stay alongside them.
+
+       Files live in public/fonts/ rather than being fetched from fonts.googleapis.com
+       so that (a) the site makes no third-party request and (b) the service worker
+       precaches them: generate-sw.mjs globPatterns already includes woff2/woff/ttf, so
+       the PWA renders correctly offline. Each file is a variable font on the wght
+       axis (200-800), hence one file per style+subset instead of one per weight. */
+    @font-face {
+      font-family: 'Atkinson Hyperlegible Next';
+      font-style: normal;
+      font-weight: 200 800;
+      font-display: swap;
+      src: url('/aied/fonts/atkinson-hyperlegible-next-latin.woff2') format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+        U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+        U+FEFF, U+FFFD;
+    }
+    @font-face {
+      font-family: 'Atkinson Hyperlegible Next';
+      font-style: normal;
+      font-weight: 200 800;
+      font-display: swap;
+      src: url('/aied/fonts/atkinson-hyperlegible-next-latin-ext.woff2') format('woff2');
+      unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
+        U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0,
+        U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    @font-face {
+      font-family: 'Atkinson Hyperlegible Next';
+      font-style: italic;
+      font-weight: 200 800;
+      font-display: swap;
+      src: url('/aied/fonts/atkinson-hyperlegible-next-italic-latin.woff2') format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+        U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+        U+FEFF, U+FFFD;
+    }
+    @font-face {
+      font-family: 'Atkinson Hyperlegible Next';
+      font-style: italic;
+      font-weight: 200 800;
+      font-display: swap;
+      src: url('/aied/fonts/atkinson-hyperlegible-next-italic-latin-ext.woff2') format('woff2');
+      unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
+        U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0,
+        U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    /* Symbol supplement. Neither the latin nor the latin-ext subset of Atkinson
+       Hyperlegible Next contains the characters this knowledge base leans on most:
+       arrows (→, 619 uses), Greek letters (β, κ, η, χ, Δ — method and statistic
+       notation), and relations (≈, ≥, ≤, ≠). Without a supplement those fall back
+       per-glyph to whatever system face the reader has, so a single sentence can
+       render in two typefaces. This face is a Noto Sans Math subset (SIL OFL 1.1,
+       /fonts/OFL-NotoSansMath.txt) carrying only the codepoints Atkinson lacks, so
+       it can never shadow the primary face: font matching picks it up strictly for
+       the listed ranges — Greek and the arrows/operators blocks, ~33 KB. The browser
+       only downloads it on pages that actually render one of those characters, and
+       generate-sw.mjs precaches it, so symbol-heavy pages still work offline. */
+    @font-face {
+      font-family: 'Atkinson Hyperlegible Next';
+      font-style: normal;
+      font-weight: 200 800;
+      font-display: swap;
+      src: url('/aied/fonts/atkinson-symbols-supplement.woff2') format('woff2');
+      unicode-range: U+0391-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03DC-03DD, U+03F0-03F1,
+        U+03F4-03F6, U+2190-22FF, U+2605-2606, U+2713, U+27DC, U+299B, U+29A0, U+29A3, U+29B8,
+        U+29F5, U+2ADE, U+2AE3-2AE5, U+2AEE, U+2BFE, U+1D45D, U+1D4A5, U+1D6A4-1D6A5, U+1D712;
+    }
+    @font-face {
+      font-family: 'Atkinson Hyperlegible Next';
+      font-style: italic;
+      font-weight: 200 800;
+      font-display: swap;
+      src: url('/aied/fonts/atkinson-symbols-supplement.woff2') format('woff2');
+      unicode-range: U+0391-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03DC-03DD, U+03F0-03F1,
+        U+03F4-03F6, U+2190-22FF, U+2605-2606, U+2713, U+27DC, U+299B, U+29A0, U+29A3, U+29B8,
+        U+29F5, U+2ADE, U+2AE3-2AE5, U+2AEE, U+2BFE, U+1D45D, U+1D4A5, U+1D6A4-1D6A5, U+1D712;
+    }
+    /* Pico v1 reads --font-family, and our stylesheet loads after pico.min.css. Setting
+       the variable (not just font-family) is what carries the face into form controls
+       and buttons, which Pico styles with font-family: var(--font-family). Pico keeps
+       code/kbd/pre/samp on its own monospace variable, which is untouched here. */
+    :root,
+    html,
+    body {
+      --font-family: 'Atkinson Hyperlegible Next', system-ui, -apple-system, 'Segoe UI', Roboto,
+        'Ubuntu', 'Cantarell', 'Noto Sans', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+      font-family: var(--font-family);
+    }
+
     /* Force a dark theme with a light, high-contrast accent (sky blue, not purple).
        Match Pico v1's theme-variable specificity so the override actually wins. */
     [data-theme=dark] {
