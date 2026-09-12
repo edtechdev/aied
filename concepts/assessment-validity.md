@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-11T11:52:00-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education]
@@ -46,7 +46,7 @@ confidence: high
 
 ### Redesign over detection
 
-The knowledge base argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not [[ai-detection|detecting AI use]]. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[assessment]] represent validity-forward thinking.
+The knowledge base argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not [[ai-detection|detecting AI use]]. A parallel validity problem runs through research measurement: many AI-in-education claims rest on [[self-report-measures|self-report data]], which cannot support an inference about learning or competence however well the instrument itself is validated. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[assessment]] represent validity-forward thinking.
 
 **Take-home products and the [[qualitative-research|qualitative]]/quantitative split.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]] give the redesign argument a specific proposal grounded in the SOLO taxonomy. Working through a cognitive-science take-home exam question with a [[conversational-ai|chatbot]], they find GenAI is strongest exactly where the taxonomy is lowest — producing comprehensive, fluent, factoid-type content at the *quantitative* (multistructural) level — while the *qualitative* level (relating, evaluating, generalising) emerged only through repeated learner-driven calibration. Their recommendation is therefore differentiated by construct: take-home assessments should emphasise evidence of qualitative understanding, while quantitative recall-based knowledge is better assessed in class where GenAI is unavailable. The demonstration also underlines that a polished submitted artefact is weak evidence in either direction, and that valid redesign must account for how demanding legitimate AI-supported learning turns out to be ([[summative-assessment]], [[academic-integrity]]).
 
@@ -77,6 +77,7 @@ The sharpest recent reframing treats the generative AI problem as an evidentiary
 - [[educational-measurement]]
 - [[llm]]
 - [[feedback]]
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[kumar-genai-computing-education-systematic-review-2026]] — When AI generates the graded artefact: computing education's validity problem and redesign evidence

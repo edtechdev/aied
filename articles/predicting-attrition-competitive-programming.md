@@ -1,7 +1,7 @@
 ---
 title: "Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs"
 created: "2026-09-02T09:00:00-04:00"
-updated: "2026-09-02T09:10:56-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: article
 tags: [cs-education, learning-analytics, motivation, self-efficacy, student-engagement, personalized-learning, assessment]
 sources: ['raw/papers/predicting-attrition-competitive-programming.md']
@@ -31,6 +31,7 @@ Applied as a proof-of-concept Early Warning System, the survey-trained model ide
 - [[assessment]]
 - [[personalized-learning]]
 - [[student-modeling]]
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[ai-writes-code-student-writes-model-2026]] — AI Writes Code, Student Writes Model

@@ -1,7 +1,7 @@
 ---
 title: "Toward Convergence in Student-LLM Interactions: A Rapid Scoping Review and Taxonomy for Learning-Oriented Use"
 created: "2026-08-14T09:17:22-04:00"
-updated: "2026-08-24T10:30:00-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: article
 tags: [llm, generative-ai, student-ai-interaction, learning-analytics, higher-ed, self-regulated-learning, assessment, ai-feedback-quality, research-methods-aied]
 research_method: [systematic review, research methods]
@@ -56,6 +56,7 @@ The review carries several implications for research and design. Methodologicall
 - [[self-regulated-learning]]
 - [[assessment]]
 - [[ai-feedback-quality]]
+- [[self-report-measures]]
 
 ## Connected Articles
 

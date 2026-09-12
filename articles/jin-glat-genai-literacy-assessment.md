@@ -1,7 +1,7 @@
 ---
 title: "GLAT: The Generative AI Literacy Assessment Test"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-08-15"
+updated: "2026-09-12T11:20:00-04:00"
 type: article
 tags: [ai-literacy, generative-ai, educational-measurement, item-response-theory, assessment-validity, higher-ed, ai-ed-evaluation, llm]
 audience: [researchers, instructors]
@@ -49,6 +49,7 @@ The authors note important scope limits: GLAT was validated only with higher edu
 - [[higher-ed]]
 - [[ai-ed-evaluation]]
 - [[llm]]
+- [[self-report-measures]]
 
 ## Connected Articles
 

@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-12
 
-Articles: 1145 | Concepts: 189 | FAQs: 18
+Articles: 1145 | Concepts: 190 | FAQs: 18
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -1085,6 +1085,7 @@ Articles: 1145 | Concepts: 189 | FAQs: 18
 - [[self-directed-learning]] — Self-Directed Learning
 - [[self-efficacy]] — Self-Efficacy
 - [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice
+- [[self-report-measures]] — Self-Report Measures
 - [[self-referential-l2-writing-llm-assessment]] — Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
 - [[self-regulated-learning]] — Self-Regulated Learning
 - [[semantic-variability-llm-conversation-assessment-2026]] — Semantic Variability of LLM-Generated Replies Across LLMs: Implications for Designing Conversation-Based Assessment

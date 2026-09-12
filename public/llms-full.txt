@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 189 concepts, 1145 articles, and 18 FAQs.
+> Complete text of 190 concepts, 1145 articles, and 18 FAQs.
 
 # Concepts
 
@@ -359,7 +359,7 @@ Frameworks increasingly trace how these dimensions are enacted in practice: [[da
 
 **Practical competence:** The ability to use AI tools effectively — from [[prompt-engineering]] to interpreting outputs. Studies of [[genai-usage-design-students-survey|student GenAI usage patterns]] reveal that tool access alone doesn't produce competence; structured practice and [[scaffolding]] are essential. The [[gaide-vibe-coding-k12-teachers|vibe coding framework]] shows how [[k-12|K-12 teachers]] can develop practical AI literacy through guided tool creation.
 
-**Critical evaluation:** The capacity to assess AI outputs for accuracy, bias, and appropriateness. [[ai-literacy-assessment-misalignment|Research on literacy assessment]] shows a 40% gap between self-reported and performance-based AI literacy — people consistently overestimate their evaluation skills. This connects to [[cognitive-offloading|Over-Reliance]] research showing that students who [[trust]] AI uncritically learn less. Recent conceptual work pushes evaluation toward *verification*: the [[pearls-epistemic-verification-2026|PEARLS framework]] (Wang) treats AI output as a provisional knowledge claim whose warrant must be assembled and examined across six dimensions (Process, Evidence, Access, Reproducibility, Legitimacy, Source), and advances **verification-driven learning** as the mechanism by which learners build expertise while checking AI claims. Complementing this, the [[student-centered-genai-responsible-framework-2026|student-centered responsible-use framework]] (Alsammani) offers ten student-facing guidelines across Learning and Growth, Ethics and Integrity, and Awareness and Safety pillars that externalize [[metacognition|metacognitive]] prompts at the point of decision. For [[k-12|secondary]] learners, the [[aarc-ai-research-competency-2026|AI-Assisted Research Competency (AARC) framework]] (Beau, Flaquière & Lazar 2026) grounds this in virtue epistemology and AI intuition, defining research literacy as conducting inquiry with AI without surrendering [[agency|authorship]], judgment, verification, or responsibility — operationalized as an analytic rubric and a verify–cite–reflect commitment routine. At the [[assessment]] end, [[human-capability-test-learning-outcomes-ai-2026|Saleh (2026)]] proposes a *human capability test* that turns evaluation into a design principle: ask what a student must demonstrate independently, what can be strengthened through AI augmentation, and what the student must verify, defend, and take responsibility for.
+**Critical evaluation:** The capacity to assess AI outputs for accuracy, bias, and appropriateness. [[ai-literacy-assessment-misalignment|Research on literacy assessment]] shows a 40% gap between self-reported and performance-based AI literacy — people consistently overestimate their evaluation skills. That divergence is the clearest case in the knowledge base of a [[self-report-measures|self-report measure]] failing to track the competence it names. This connects to [[cognitive-offloading|Over-Reliance]] research showing that students who [[trust]] AI uncritically learn less. Recent conceptual work pushes evaluation toward *verification*: the [[pearls-epistemic-verification-2026|PEARLS framework]] (Wang) treats AI output as a provisional knowledge claim whose warrant must be assembled and examined across six dimensions (Process, Evidence, Access, Reproducibility, Legitimacy, Source), and advances **verification-driven learning** as the mechanism by which learners build expertise while checking AI claims. Complementing this, the [[student-centered-genai-responsible-framework-2026|student-centered responsible-use framework]] (Alsammani) offers ten student-facing guidelines across Learning and Growth, Ethics and Integrity, and Awareness and Safety pillars that externalize [[metacognition|metacognitive]] prompts at the point of decision. For [[k-12|secondary]] learners, the [[aarc-ai-research-competency-2026|AI-Assisted Research Competency (AARC) framework]] (Beau, Flaquière & Lazar 2026) grounds this in virtue epistemology and AI intuition, defining research literacy as conducting inquiry with AI without surrendering [[agency|authorship]], judgment, verification, or responsibility — operationalized as an analytic rubric and a verify–cite–reflect commitment routine. At the [[assessment]] end, [[human-capability-test-learning-outcomes-ai-2026|Saleh (2026)]] proposes a *human capability test* that turns evaluation into a design principle: ask what a student must demonstrate independently, what can be strengthened through AI augmentation, and what the student must verify, defend, and take responsibility for.
 
 **Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity-in-ai-education]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[educational-development]], and [[governance|governance frameworks]] — institutional AI literacy is a matter of [[educational-policy-ai|policy]] as much as pedagogy. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
 
@@ -470,6 +470,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[trust-calibration]] — calibrating appropriate trust
 - [[k-12]] — school-level literacy
 - [[higher-ed]] — university-level literacy
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI-interaction literacy: the competence of steering, evaluating and learning from GenAI dialogue (Brunnström & Palmqvist 2026)
@@ -5684,7 +5685,7 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 - **Feedback and confidence:** [[ai-feedback-quality|AI feedback]] and [[intelligent-tutoring|tutoring]] can build learner self-efficacy by providing actionable, supportive feedback.
 - **Empowerment in AI [[problem-solving]]:** Zhu and Kong (2026) find that students' empowerment in using AI for problem solving mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. In their SEM analysis of 1,027 students, PBL fostered conditions that empowered students to use AI for problem solving, which in turn drove course satisfaction — evidence that building students' confidence and capability with AI is a key mechanism of effective AI literacy education.
 
-Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student-experience]], [[ai-literacy]], [[agency]], and [[educational-robotics]]. Building self-efficacy is a key mechanism through which AI supports engagement and learning.
+Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student-experience]], [[ai-literacy]], [[agency]], and [[educational-robotics]]. Building self-efficacy is a key mechanism through which AI supports engagement and learning. Self-efficacy is measured almost entirely by [[self-report-measures|self-report]], so its associations with observed behavior deserve the usual caution.
 
 ## Connected Concepts
 
@@ -5695,6 +5696,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[ai-literacy]]
 - [[agency]]
 - [[educational-robotics]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
@@ -6481,7 +6483,7 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 
 ### How student engagement appears in the research
 
-- **Engagement as an outcome of AI design:** [[genai-motivation-engagement-2026|GenAI motivation research]] shows that engagement in [[generative-ai]]-supported learning follows the satisfaction of basic psychological needs ([[self-determination-theory|autonomy, competence, relatedness]]) — engagement is the downstream result of motivational support, not of technology availability alone.
+- **Engagement as an outcome of AI design:** [[genai-motivation-engagement-2026|GenAI motivation research]] shows that engagement in [[generative-ai]]-supported learning follows the satisfaction of basic psychological needs ([[self-determination-theory|autonomy, competence, relatedness]]) — engagement is the downstream result of motivational support, not of technology availability alone. Engagement is often measured by [[self-report-measures|self-report]] while behavioral engagement comes from interaction logs, and the two are not interchangeable.
 
 - **Quality over quantity:** [[critical-engagement-code-completion|Critical engagement in AI code completion]], [[icap-cognitive-engagement-llm-agents|cognitive-engagement discourse analysis]], and [[scaffolding-critical-engagement-genai-minority-students|scaffolding critical engagement]] show that *deep* (cognitive) engagement with AI predicts learning, while *shallow* (behavioral) engagement predicts the [[cognitive-offloading|Over-Reliance]] and learning displacement that dominate the knowledge base's risk literature.
 
@@ -6547,6 +6549,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[higher-ed]]
 - [[framing-ai-use-for-students]]
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
@@ -9983,7 +9986,7 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 - **Enablers of LA-based educational interventions (2026).** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify and prioritize seven enablers of trustworthy LA-based educational interventions via Delphi + AHP + SNAP: [[governance|institutional]] strategic orientation, pedagogical & other [[research-methods-aied|research]] foundations, available resources, pedagogical support, ethics & data governance, stakeholder engagement, and quality assurance. Institutional strategic orientation ranked highest (and most influential on other enablers), with available resources second. [[trust|Trustworthiness]] (ethical compliance, transparent/unbiased algorithms, pedagogical validity) is framed as the prerequisite without which LA-based interventions are not meaningful.
 - **LLM interaction depth predicts task quality but not recall (2026).** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] links turn-level LLM conversational telemetry (Depth/Volume/Pacing) to [[learning-gains|learning outcomes]]: explanation-seeking "depth" predicted independently marked task quality (β = 6.27) but not immediate recall — a dissociation between elaboration-driven comprehension and retrieval-driven consolidation that has implications for how [[llm|LLM]] interaction is measured and evaluated in LA.
 - **Simulating collaborative discourse for learning analytics.** [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] uses fine-tuned participant-specific LLM agents to reproduce collaborative problem solving dialogues, validated with Epistemic Network Analysis (ENA distance 0.17, permutation p = 0.65). The approach offers learning-analytics researchers a scalable way to generate authentic collaborative discourse for studying interaction dynamics, turn-taking, and thematic code trajectories without collecting new human data.
-- **Open, reproducible data and trace-ready analytics.** [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] releases a synthetic [[benchmark]] with a trace-ready schema (N=540; 360 sessions; 1,440 episodes) for analysing interaction and participation balance in collaborative programming. Separately, an exploratory ML framework with SHAP analysis identified the learning-related constructs most associated with intended academic ChatGPT use among university students, prioritising [[explainable-ai|interpretability]] ([[determinants-chatgpt-use-higher-education-2026]]).
+- **Open, reproducible data and trace-ready analytics.** [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] releases a synthetic [[benchmark]] with a trace-ready schema (N=540; 360 sessions; 1,440 episodes) for analysing interaction and participation balance in collaborative programming. Log and trace data are the natural counterweight to [[self-report-measures|self-report]] in this literature: the same construct is often measured twice, once by asking and once by observing, and the two do not always agree. Separately, an exploratory ML framework with SHAP analysis identified the learning-related constructs most associated with intended academic ChatGPT use among university students, prioritising [[explainable-ai|interpretability]] ([[determinants-chatgpt-use-higher-education-2026]]).
 
 ### Connections
 
@@ -10004,6 +10007,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[k-12]]
 - [[llm]]
 - [[simulating-students]]
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
@@ -13692,7 +13696,7 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 
 ### Redesign over detection
 
-The knowledge base argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not [[ai-detection|detecting AI use]]. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[assessment]] represent validity-forward thinking.
+The knowledge base argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not [[ai-detection|detecting AI use]]. A parallel validity problem runs through research measurement: many AI-in-education claims rest on [[self-report-measures|self-report data]], which cannot support an inference about learning or competence however well the instrument itself is validated. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[assessment]] represent validity-forward thinking.
 
 **Take-home products and the [[qualitative-research|qualitative]]/quantitative split.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]] give the redesign argument a specific proposal grounded in the SOLO taxonomy. Working through a cognitive-science take-home exam question with a [[conversational-ai|chatbot]], they find GenAI is strongest exactly where the taxonomy is lowest — producing comprehensive, fluent, factoid-type content at the *quantitative* (multistructural) level — while the *qualitative* level (relating, evaluating, generalising) emerged only through repeated learner-driven calibration. Their recommendation is therefore differentiated by construct: take-home assessments should emphasise evidence of qualitative understanding, while quantitative recall-based knowledge is better assessed in class where GenAI is unavailable. The demonstration also underlines that a polished submitted artefact is weak evidence in either direction, and that valid redesign must account for how demanding legitimate AI-supported learning turns out to be ([[summative-assessment]], [[academic-integrity]]).
 
@@ -13723,6 +13727,7 @@ The sharpest recent reframing treats the generative AI problem as an evidentiary
 - [[educational-measurement]]
 - [[llm]]
 - [[feedback]]
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[kumar-genai-computing-education-systematic-review-2026]] — When AI generates the graded artefact: computing education's validity problem and redesign evidence
@@ -13863,7 +13868,7 @@ A central function of educational measurement is the development, validation, an
 
 ### AI / GenAI literacy instruments
 
-AI literacy is the construct with the richest instrument coverage in the knowledge base. Two broad families exist: **performance-based tests** (objective, less susceptible to self-report bias) and **self-report scales** (subjective, capturing perceived competence).
+AI literacy is the construct with the richest instrument coverage in the knowledge base. Two broad families exist: **performance-based tests** (objective, less susceptible to self-report bias) and **self-report scales** (subjective, capturing perceived competence). The trade-offs of that second family are the subject of [[self-report-measures]]: self-report reaches attitudes and perceptions cheaply, but it cannot carry a claim about competence or behavior, and the knowledge base documents a 40% overestimation gap when parallel self-report and performance measures are compared.
 
 - **Performance-based (objective) measures.** The flagship is [[jin-glat-genai-literacy-assessment|GLAT (Generative AI Literacy Assessment Test)]], a 20-item multiple-choice instrument built on a 25-concept blueprint across four dimensions (Know & Understand, Use & Apply, Evaluate & Create, [[ethics]]) and validated with CTT + 2PL IRT on 355 students (RMSEA = 0.03, CFI = 0.97, α = 0.80, ω = 0.81). Critically, GLAT scores predicted AI-assisted task performance where self-report did not — evidence that **performance-based measurement outperforms self-report** for AI literacy. Related work in [[ai-literacy-assessment-misalignment]] quantifies the gap between self-reported and performance-based AI literacy (teachers overestimate by ~40%), and [[tracing-genai-literacy-interaction-patterns]] traces actual student–AI interaction patterns rather than relying on reported use.
 - **Self-report scales.** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]] operationalizes AI literacy across three domains (AI Concepts; Application and Technical Skills; AI Digital Citizenship) and four scaffolded levels; [[ai-literacy-heptagon-2026|the AI Literacy Heptagon]] structures seven dimensions (technical, application, [[critical-thinking|critical thinking]], ethics, social impact, integration, legal/[[regulation|regulatory]]) with four Bloom-aligned proficiency levels. [[genai-skill-bypass-literacy]] maps divergent AI-literacy pathways for students vs. staff, and [[panciroli-ai-literacy-episodes-situated-learning]] grounds literacy assessment in [[situated-learning|situated learning]] episodes.
@@ -13925,6 +13930,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[technology-acceptance-model]]
 - [[self-efficacy]]
 - [[benchmark]]
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
@@ -14028,6 +14034,142 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
+
+---
+
+## [Self-Report Measures](https://edtechdev.github.io/aied/concepts/self-report-measures/)
+
+> **Self-report measures** — instruments in which the person being studied is also the source of the data: questionnaires and surveys, interviews, diaries, self-assessed competence, self-estimated usage, perceived learning, and satisfaction. They are the workhorse of [[ai-education|AI in education]] research — in this knowledge base 139 article pages carry a survey method tag, more than any design except experiment and [[benchmark]] — and they are the only practical way to reach attitudes, beliefs, intentions, and [[self-efficacy]]. Their limit is categorical rather than statistical: a self-report cannot measure behavior or learning, only what someone says about behavior or learning, and the two come apart in this research base often enough to be a finding in its own right.
+
+## Questions to Consider
+
+- If a study says students "reported high engagement," what exactly was measured — and what would you need to see to conclude they actually engaged?
+- Teachers estimated their own [[ai-literacy|AI literacy]] 40% higher on average than a parallel performance measure found. Where would your own self-assessment most likely diverge from a test of the same skill, and why?
+- Satisfaction is easy to measure and easy to improve — a system tuned to please users will score well on it. Why might that make satisfaction a poor outcome measure for learning, and what would you measure instead?
+- "Nearly all students use AI for coursework" comes from asking students. What could asking rather than logging get wrong in either direction?
+- A survey gets 112 responses at a 31% response rate, or 90 responses from 572 invitations. Before accepting its percentages, what do you want to know about who did not answer?
+- When a study correlates two self-reported variables measured at one moment, how many separate explanations can you generate for the correlation — and what design would rule them out?
+- If you were advising someone on a small evaluation, which claims would you let them support with a survey, and which would you insist need log, performance, or observational evidence?
+
+## Introduction
+
+Self-report spans far more than the questionnaire. It includes [[quantitative-research|cross-sectional surveys]] using Likert and other rating formats, interviews and focus groups conducted by [[qualitative-research|qualitative researchers]], diaries and experience sampling, self-assessed skill or confidence, recalled estimates of how often a tool was used, and perceived learning or satisfaction treated as outcomes. What unites them is the epistemic position of the respondent: they are reporting on themselves rather than being observed.
+
+This is not a weakness to be apologized for. Many constructs of interest — motivation, anxiety, [[trust-calibration|trust]], perceived usefulness, [[student-engagement|engagement]] intentions — are internal states that no log file records, and asking is the only defensible way to reach them. The problem arises when a self-report is used to support a claim it cannot carry, which is a validity question at heart: whether the instrument measures the construct it names, and whether the claim being made is about the sort of thing self-report can see. That concern belongs with [[educational-measurement]] and [[assessment-validity]]; this page is about what happens when AI in education research leans on self-report specifically, and where the evidence base shows it breaking down.
+
+**How this page relates to its neighbours.** [[research-methods-aied]] catalogs designs and their strengths and limitations, including survey and SEM studies. [[quantitative-research]] covers the numerical methods family. [[educational-measurement]] covers instrument development, [[item-response-theory]], and psychometric validation. This page is the narrower slice those pages point at: the measurement instrument and data source itself — what self-report can and cannot establish, the recurring gap between what people report and what they do, and how to read a self-report finding critically.
+
+## What self-report can and cannot establish
+
+Self-report is well suited to attitudes, beliefs, intentions, perceptions of a tool, affective states, and self-judged confidence or difficulty. It is poorly suited to behavior, and it cannot measure learning at all: a person's belief that they learned something is itself a perception, and the knowledge base treats perceived learning as a distinct quantity from [[learning-gains|learning gains]].
+
+The consequence is a set of claims that look similar in a results section but differ in strength:
+
+- "Students found the tutor useful" — a perception, appropriately measured by asking.
+- "Students used the tutor regularly" — a behavior, only approximated by asking.
+- "Students learned more with the tutor" — an outcome, not establishable by asking at all.
+- "Teachers are confident using AI" — a self-belief, not evidence of competence.
+
+Two implications follow for anyone reading or designing this research. First, whether a self-report instrument is even measuring its named construct is an empirical question, answered by validation rather than by the plausibility of the items. Second, the direction of the temptation in AI in education is consistent: tools are evaluated by how users feel about them, and feeling is precisely the part that self-report captures most cheaply.
+
+## The perception–behavior gap
+
+The strongest self-report finding in this knowledge base is not that self-report is biased in general but that reported and observed behavior diverge in specific, documented ways.
+
+[[ai-literacy-assessment-misalignment|A study that built parallel self-report and objective measures of teacher AI literacy]] found teachers **overestimate their AI skills by 40% on average**, with confirmatory factor analysis supporting the construct validity of both measures while showing a **low correlation between the self-report and objective factors**. The two instruments were credible; they simply measured different things. The same study found performance-based scores correlated with classroom AI integration at r = 0.72 while self-reports correlated at r = 0.31.
+
+[[jin-glat-genai-literacy-assessment|GLAT]] reaches the same conclusion from the other direction: its 20-item performance-based test predicted performance on [[generative-ai|GenAI]]-supported learning tasks in a within-subject study of 83 students, **while self-reported ChatGPT literacy did not**. The authors' framing is blunt — instruments in this area overwhelmingly rely on self-reported surveys, "which capture perceived rather than actual competence and are prone to bias and overestimation."
+
+Behavioral estimates show the same split. [[predicting-attrition-competitive-programming|A large-scale competitive-programming study]] reported a **disconnect between self-reported confidence and actual practice behavior**, the former a poor proxy for the latter. [[engagement-intensity-learner-modeling|A learner-modeling study]] is candid that usage frequency was self-reported on a Never-to-Daily scale rather than observed, and that with predictors and outcomes both self-reported, response styles such as acquiescence or extremity bias could produce the associations.
+
+Sometimes asking and observing are set up head to head. [[student-llm-interaction-taxonomy-review-2026|A scoping review of 46 categorizations from 33 studies]] found the literature split about evenly between self-report and interaction-log data, and concluded that categories "often reflect the measurement approach as much as the interaction itself" — with self-report studies capturing perceptions and intentions while log-based studies capture observable conversational behavior, and the two rarely integrated. [[tracing-genai-literacy-interaction-patterns|Process-data work on GenAI literacy]] makes the constructive version of the point: whether a student prompts iteratively, refines output, and manages [[hallucination-risk|hallucinations]] is observable in interaction logs and not in a questionnaire.
+
+## Satisfaction and perceived learning as outcomes
+
+Satisfaction is the most frequently self-reported outcome in this corpus, appearing on 63 article pages. It is also the weakest as a proxy for learning, and the knowledge base contains explicit arguments to that effect.
+
+- [[sequenced-ai-feedback-learning|Work on sequenced AI feedback]] states the design principle directly: user satisfaction and behavioral engagement are not reliable proxies for learning gains, so learning must be measured directly.
+- [[puech-pedagogical-steering-llm-productive-failure-2025|On pedagogical steering]] notes that current language models are instruction-tuned to be helpful assistants that maximize user satisfaction, while a tutor's goal is to maximize learning — the two objectives can conflict, which makes satisfaction a potentially misleading target rather than merely a weak one.
+- [[preferred-scaffolding-ai-mathematical-modelling|A scaffolding study]] argues that perceived usefulness, ease of use, and immediate satisfaction should not be treated as sufficient indicators of [[scaffolding]] effectiveness.
+- [[llm-student-modeling-memory|On personality-aligned student modeling]] observes that optimizing for user satisfaction is not the same as optimizing for learning outcomes, and that the two can come apart.
+
+The pattern worth carrying away: satisfaction is responsive to the wrong things when learning is the goal. A system that answers quickly, agrees readily, and reduces effort will be rated highly, and those same properties are the ones the knowledge base associates with reduced [[cognitive-offloading|productive struggle]] and inflated performance on AI-assisted work. Reported satisfaction and measured learning are not enemies; they are simply not substitutes, and treating the first as evidence of the second is the most common slippage this page documents.
+
+## What makes a self-report instrument credible
+
+Four properties separate a survey that can support a claim from one that cannot.
+
+- **Construct validity.** Items must be shown to measure the named construct, ideally with factor analysis. The parallel-measure study above validated both its instruments and still found they diverged — validity of an instrument says nothing about whether it captures behavior.
+- **Reliability and structure.** Factor-validated instruments recur in this corpus, from [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy measures grounded in self-determination theory]] to acceptance scales modeled with [[technology-acceptance-model|TAM]] and SEM in [[acceptance-ai-english-tools-2026|studies of AI-assisted language tools]].
+- **Invariance, when groups are compared.** A scale that behaves differently across populations cannot support a comparison. [[same-ai-different-pathways|Multigroup SEM work]] reports measurement invariance testing (configural, metric, scalar) alongside its indirect effects, and [[genai-thoughtless-use-self-directed-learning-2026|a Switzerland–China comparison]] found only intrinsic value reached metric invariance and not scalar invariance — a limitation stated rather than hidden, and one that constrains what its cross-country differences can mean.
+- **A performance alternative where competence is the construct.** GLAT's 20 multiple-choice items exist precisely because self-report cannot carry a competence claim.
+
+## Sampling, response, and non-response
+
+Because surveys are cheap to administer, the sampling problems are usually where the generalizability claim fails. This corpus reports them explicitly and instructively:
+
+- [[genai-student-experiences-uk-he-survey-2026|A UK survey of student GenAI use]] reports a convenience sample at 7 institutions, sharply varying [[governance|institutional]] response rates, and non-response bias that may skew toward students with strong views — and notes that ~32% of respondents described conduct that arguably broke policy, in a format where social desirability and contextual pressure make **under-reporting** the likely error direction.
+- [[ai-assisted-instructor-supervised-grading-feedback|A study of AI-assisted grading feedback]] rests on 112 responses, a 31% response rate.
+- [[ai-pedagogical-orientation|A faculty study]] draws on 90 STEM faculty from 572 invited awardees — 16%.
+- [[student-genai-use-views-writing|A sociology survey]] obtained 504 respondents from 844 invitees, and the authors note response rates varied by question.
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|A Delphi study]] completed its first round with 17 respondents, a limitation it states plainly.
+
+Self-selection compounds this. [[chatgpt-inoculation-training-verification-2026|An inoculation study]] recruited 782 participants and retained 100 valid cases from a convenience sample of self-reported ChatGPT users; [[genai-assisted-problem-posing-physics-2026|a physics study]] had students self-select into an extra-credit task, plausibly skewing views toward the agreeable and excluding skeptics.
+
+Two further self-report-specific errors recur. **Introspection limits and social desirability bias** are named as intrinsic to self-report in [[engagement-assessment-video|work on engagement assessment]] and in [[ccct-cooperative-learning-technique|studies whose qualitative data rely on self-report]]. **Common-method variance** arises when predictors and outcomes come from the same respondents at the same time: [[ai-use-critical-thinking-medical-students-2026|a moderated-mediation study of AI use and critical thinking]] operationalized usage, cognitive load, and [[self-regulated-learning|self-regulated learning]] all through standardized self-report instruments at a single time point, and raises common-method bias as a consequence; [[genai-motivation-engagement-2026|a PLS-SEM study of motivation and engagement]] likewise rests entirely on self-report and cannot establish temporal ordering among its mediators.
+
+## Remedy: adding non-self-report evidence
+
+The knowledge base's constructive answers are consistent, and none of them requires abandoning surveys.
+
+- **Pair self-report with trace or log data.** [[mejeh-fromm-srl-adaptive-learning-feedback-2026|A 194-student, eight-week study of adaptive learning technology]] combined self-report with trace data under hierarchical linear modeling, which is what allowed it to follow self-regulated learning phases as they unfolded rather than as recalled.
+- **Observe practice directly when the claim is about practice.** [[hawkins-feedback-literacy-ai-essay-writing|A screen-recorded assessment task plus video-stimulated interviews]] bridged the gap between self-reported AI use and observed practice, capturing [[metacognition|metacognitive]] awareness the survey could not.
+- **Score behavior against a rubric rather than asking about it.** [[adaptive-pretesting-retention|Retention work]] treats practice effort as a behavioral indicator derived from interaction logs, explicitly not a measure of internal [[motivation|motivational]] state.
+- **Triangulate.** [[genai-over-reliance-learning-2026|Mixed-method designs]] and [[mixed-methods-research|mixed-methods research]] generally trade sample size for the ability to check one data source against another; [[ai-vocational-education-training-review|a systematic review of vocational education]] is instructive for the imbalance, noting that among the quantitative studies it examined, 2 relied exclusively on self-report while 5 used only objective measures.
+- **Measure the outcome you care about.** If the claim is about learning, [[learning-gains|learning gains]] must be measured, not inferred from satisfaction.
+
+## How to read a self-report claim
+
+- Ask what kind of claim it is. Perceptions are fair game; behavior is approximated; learning and competence are not reachable this way.
+- Check who answered and who did not. Response rate, sampling frame, and self-selection decide what the percentages describe — a study of one institution's students describes that setting, not students in general.
+- Check the instrument. Was it validated for this construct and population, and if groups are compared, was invariance tested?
+- Watch for single-source designs. If predictors and outcomes both come from the same questionnaire at one time point, the associations are consistent with common-method variance as well as with the theory proposed.
+- Treat satisfaction as a design signal, not a learning outcome. High satisfaction plus untested learning is the standard configuration in AI tool evaluation, and this corpus shows the two diverging.
+- Prefer studies that show their working: stated response rates, stated limitations, and at least one source of evidence that does not come from asking.
+
+## Connected Concepts
+
+- [[educational-measurement]]
+- [[research-methods-aied]]
+- [[quantitative-research]]
+- [[qualitative-research]]
+- [[mixed-methods-research]]
+- [[assessment-validity]]
+- [[item-response-theory]]
+- [[ai-literacy]]
+- [[trust-calibration]]
+- [[learning-gains]]
+- [[student-engagement]]
+- [[self-efficacy]]
+- [[learning-analytics]]
+
+## Connected Articles
+
+- [[ai-literacy-assessment-misalignment]] — Parallel self-report and objective measures of teacher AI literacy
+- [[jin-glat-genai-literacy-assessment]] — GLAT: a performance-based alternative to self-report
+- [[genai-student-experiences-uk-he-survey-2026]] — Student GenAI use surveyed across UK institutions
+- [[student-llm-interaction-taxonomy-review-2026]] — Taxonomies shaped by whether data came from self-report or logs
+- [[tracing-genai-literacy-interaction-patterns]] — Process data characterizing GenAI literacy
+- [[engagement-intensity-learner-modeling]] — Self-reported usage as a learner-modeling signal
+- [[predicting-attrition-competitive-programming]] — Self-reported confidence versus practice behavior
+- [[ai-use-critical-thinking-medical-students-2026]] — Common-method bias in a single-source mediation model
+- [[genai-motivation-engagement-2026]] — Self-report-only PLS-SEM of motivation and engagement
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — Survey of 81 physics undergraduates on AI use and trust
+- [[hawkins-feedback-literacy-ai-essay-writing]] — Screen recording and stimulated recall as a self-report remedy
+- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Self-report plus trace data on self-regulated learning
+- [[adaptive-pretesting-retention]] — Behavioral effort indicators derived from logs
+- [[ai-vocational-education-training-review]] — Review reporting the self-report/objective-measure imbalance
+- [[student-genai-use-views-writing|Student use of and views on GenAI for writing]] — Survey plus interviews in one sociology department
 
 ---
 
@@ -14419,6 +14561,8 @@ Cross-sectional surveys measure self-reported attitudes, perceptions, motivation
 
 - **Strengths:** large samples; broad, low-cost coverage; can test complex mediational models of psychological mechanisms; feasible for studying attitudes that are hard to observe.
 - **Limitations:** cross-sectional data cannot establish causation; common-method/self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation.
+
+The instrument itself deserves separate scrutiny. What a questionnaire, interview, or diary can and cannot establish — and the documented gap between what people report and what they do — is gathered on [[self-report-measures]].
 - **Exemplars:** [[acceptance-ai-english-tools-2026]], [[genai-motivation-engagement-2026]], [[ai-autonomous-learning-accomplishment-2026]], [[genai-over-reliance-learning-2026]], [[ai-use-critical-thinking-medical-students-2026]].
 
 ### Qualitative methods
@@ -14550,6 +14694,8 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 - [[mixed-methods-research]] — Mixed-Methods Research
 - [[design-based-research]] — Design-Based Research
 - [[usability-research]] — Usability Research
+- [[self-report-measures]]
+
 ## Connected Articles
 
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
@@ -14594,7 +14740,7 @@ Qualitative research is not a single method but a family organized by *what* the
 ## Major qualitative approaches
 
 ### Thematic analysis
-Thematic analysis identifies, codes, and interprets patterns ("themes") across qualitative data — typically interview or focus-group transcripts, open-ended survey responses, or documents. It is the most widely used approach in the knowledge base's qualitative studies. [[fouad-bentley-trust-utility-gap-physics-2026|A study of the trust–utility gap in physics]] uses thematic analysis of student interview data to surface [[discipline-specific-aied|domain-specific]] skepticism and adoption preferences; [[genai-teacher-feedback-comparison|a comparison of GenAI vs. teacher feedback]] analyzes student perceptions of usefulness and trustworthiness; and [[ai-adult-learning-guidelines-dis2026|guidelines for adult AI learning]] derive design principles from thematic coding of expert and learner input. [[ai-changing-teaching-workflows|How AI changes teaching workflows]] relies on thematic analysis of educator accounts.
+Thematic analysis identifies, codes, and interprets patterns ("themes") across qualitative data — typically interview or focus-group transcripts, open-ended survey responses, or documents. It is the most widely used approach in the knowledge base's qualitative studies. Interviews and open-ended responses are themselves [[self-report-measures|self-report data]], so they share the limits on what can be claimed about behavior — see that page for where self-report evidence is strong and where it breaks down. [[fouad-bentley-trust-utility-gap-physics-2026|A study of the trust–utility gap in physics]] uses thematic analysis of student interview data to surface [[discipline-specific-aied|domain-specific]] skepticism and adoption preferences; [[genai-teacher-feedback-comparison|a comparison of GenAI vs. teacher feedback]] analyzes student perceptions of usefulness and trustworthiness; and [[ai-adult-learning-guidelines-dis2026|guidelines for adult AI learning]] derive design principles from thematic coding of expert and learner input. [[ai-changing-teaching-workflows|How AI changes teaching workflows]] relies on thematic analysis of educator accounts.
 
 ### Grounded theory
 Grounded theory builds a theory *from the data* rather than testing an a priori framework, using iterative coding (open → axial → selective) until theoretical saturation. It is ideal for constructing new theory about emergent AI-in-education phenomena. [[liu-tool-tutor-crutch-programming-2026|Liu et al.]] develop a grounded theory of *tool, tutor, or crutch* — a three-mode typology of how students cognitively [[scaffolding|scaffold]] or offload onto AI in [[cs-education|programming education]] — directly theorizing [[cognitive-offloading]]. [[favero-critical-ai-tutors-empower-enslave-2025|A grounded-theory study of critical AI tutors]] examines whether such tutors empower or enslave learners. [[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] uses grounded analysis across a multisite study. See also [[theory-development-aied]] for how such grounded theories feed the field's theory building.
@@ -14647,6 +14793,7 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 - [[trust]]
 - [[agency]]
 - [[cognitive-offloading]]
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[chain-behind-claim-warrantability-2026]] — warrantability standard for AI-assisted qualitative analysis
@@ -14695,7 +14842,7 @@ Quantitative research spans descriptive designs (measuring prevalence and patter
 Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, [[self-efficacy]], and technology acceptance, often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the knowledge base's corpus, particularly for acceptance, motivation, and psychological-mechanism questions. [[acceptance-ai-english-tools-2026|Acceptance of AI-assisted English tools]] builds on the [[technology-acceptance-model|TAM]] with SEM; [[tian-genai-learning-adoption-pathways-2026|GenAI adoption pathways]] uses PLS-SEM, fsQCA, and importance-performance mapping; [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy]] uses factor-validated surveys grounded in [[self-determination-theory]].
 
 - **Strengths:** large samples; broad, low-cost coverage; tests complex mediational models; feasible for attitudes that are hard to observe.
-- **Limitations:** cross-sectional data cannot establish causation; self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation.
+- **Limitations:** cross-sectional data cannot establish causation; self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation. See [[self-report-measures]] for the instrument-side treatment of these limits.
 
 ### Experimental and quasi-experimental research
 Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes. **Randomized controlled trials ([[rct]]s)** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
@@ -14734,6 +14881,7 @@ Quantitative and [[qualitative-research|qualitative]] methods are complements �
 - [[student-engagement]]
 - [[self-efficacy]]
 - [[technology-acceptance-model]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
@@ -15015,6 +15163,8 @@ For the fuller treatment of experimental design in AI in education — including
 
 Learning gains are the ultimate test of any educational technology. In the knowledge base's research, they appear as dependent variables in [[rct|randomized controlled trials]], pre-post comparisons in quasi-experimental studies, and correlational analyses linking AI tool usage to academic outcomes.
 
+**Terminology.** The *outcome* sense of achievement — student achievement, academic achievement, learning achievement, prior achievement, achievement gaps — is treated as a synonym for learning gains here, and those phrases link to this page. The *felt* sense ("a sense of achievement") is a motivational experience rather than a measured outcome; see [[motivation]] and [[self-efficacy]]. Achievement-goal theory ("achievement goals", goal orientations) is likewise a motivational construct and links to [[motivation]].
+
 Key findings from the knowledge base:
 
 - **[[adaptive-pretesting-retention|Adaptive pretesting]]** research examines whether [[generative-ai|GenAI-enabled]] pretesting produces durable learning gains that persist beyond immediate testing.
@@ -15036,7 +15186,7 @@ Across the knowledge base's [[rct|RCTs]], [[meta-analysis-systematic-review|meta
 - **Well-designed [[intelligent-tutoring|AI tutors]] produce real gains.** A two-year cluster RCT ([[one-click-away-khanmigo-two-year-school-experiment-2026|Khanmigo]]) found AI tutoring raised math achievement ~1.3 national percentile ranks per term (~0.06–0.08 SD/school year, ~0.14 SD for a full year), gains resembling practice without AI — demonstrating that *engagement*, not model capability, is the binding constraint. [[making-ai-tutoring-productive-mastery-math-2026|NUMI]] showed AI support improved next-attempt correctness after mistakes with more time per question — a "productive slowdown" that builds durable mastery. [[virtual-tutoring-computer-assisted-learning-takeup-2026|Virtual tutoring]] found the binding constraint is take-up and sustained participation, not tutor quality.
 - **AI can match human help.** [[chatgpt-hints-human-tutor-learning-gains-2024|ChatGPT-generated help]] produces learning gains equivalent to human tutor-authored help on [[math-education|mathematics]] skills — evidence that generative AI can be as efficacious as human [[scaffolding]] when used appropriately.
 - **Unguarded AI can harm learning.** The guardrail RCT ([[generative-ai-guardrails-harm-learning|PNAS 2025]]) found an unguarded ChatGPT-style tutor raised assisted practice +48% but *reduced* unassisted exam scores −17%, while a guardrailed (hint-not-answer) tutor eliminated the harm. This is the sharpest demonstration that **learning efficacy is design-contingent**: the same class of tool can be a strong learning gain or a net harm depending on how it is configured.
-- **Perceived vs. actual efficacy diverge.** [[ai-literacy-assessment-misalignment|Self-reported performance misaligns with measured performance]], and [[absent-cognitive-baseline-2026|the absent cognitive baseline]] shows AI-native students overestimate their learning — so efficacy claims based on self-report are unreliable without objective outcome measures.
+- **Perceived vs. actual efficacy diverge.** [[ai-literacy-assessment-misalignment|Self-reported performance misaligns with measured performance]], and [[absent-cognitive-baseline-2026|the absent cognitive baseline]] shows AI-native students overestimate their learning — so efficacy claims based on self-report are unreliable without objective outcome measures. [[self-report-measures]] collects the cases where reported and measured outcomes come apart.
 
 **Takeaway:** the weight of evidence supports **modest, conditional, and design-dependent learning gains** from AI — real when AI is structured to coach rather than answer, guardrailed, and paired with unassisted outcome measures, and absent or negative when it substitutes for the learner's own effort. This is why learning gains as an outcome must be measured with valid, AI-resistant instruments and why [[ai-ed-evaluation]] pairs efficacy claims with [[research-methods-aied|methodological]] scrutiny.
 
@@ -15095,6 +15245,8 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[human-in-the-loop-ai]]
 - [[affective-tutoring]]
 - [[theory-development-aied]] — Theory Development in AI in Education
+- [[self-report-measures]]
+
 ## Connected Articles
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
@@ -15487,7 +15639,7 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 
 ### How student experience is studied
 
-- **Large-scale surveys:** [[ai-in-the-wild-college|AI in the Wild]] analyzes authentic interactions of thousands of college students, while [[genai-availability-grades-satisfaction|availability and satisfaction studies]] correlate AI access with student outcomes.
+- **Large-scale surveys:** [[ai-in-the-wild-college|AI in the Wild]] analyzes authentic interactions of thousands of college students, while [[genai-availability-grades-satisfaction|availability and satisfaction studies]] correlate AI access with student outcomes. These are [[self-report-measures|self-report measures]]: they capture perceptions and intentions well and behavior only approximately.
 - **Interaction patterns:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] maps how students engage with AI across assignments. [[misiejuk-cognitive-offloading-prompting-2026|Prompting analysis]] reveals cognitive engagement levels through prompt structure.
 - **Motivation and agency:** [[ai-availability-student-motivation|AI availability and motivation]] examines whether knowing AI is available changes student effort. [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames [[agency]] and [[motivation]] as central challenges.
 - **Perceptions and attitudes:** [[genai-usage-design-students-survey|GenAI usage surveys]] and [[student-mental-models-genai|mental model studies]] investigate how students understand and trust AI.
@@ -15559,6 +15711,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[framing-ai-use-for-students]]
 - [[academic-integrity]]
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
@@ -17048,7 +17201,7 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[e
 
 ## Questions to Consider
 
-- Providing AI tools to a school or classroom does not automatically close achievement gaps — in fact, access alone can widen them. If 'access is not enough,' what else has to be in place for AI to actually serve all learners fairly?
+- Providing AI tools to a school or classroom does not automatically close [[learning-gains|achievement gaps]] — in fact, access alone can widen them. If 'access is not enough,' what else has to be in place for AI to actually serve all learners fairly?
 - Even the data used to *simulate* learners carries bias: when LLMs generated student vignettes, different models produced more Global North or Global South profiles and gendered pronouns. How much should we trust AI-generated representations of learners when the models themselves encode uneven priors?
 - Equity in AI education is often framed around three concerns: who gets the tools (access), who is represented in them (representation), and who benefits (outcomes). Can you think of a situation where a group gets access but still doesn't benefit? What explains the gap?
 - Research on 'structural silence' argues that speakers of underrepresented languages are disadvantaged by AI infrastructure — training corpora, tokenization, benchmarks — *before any model is even trained*. If the disadvantage is baked into the infrastructure, where does fixing it start?
@@ -18691,7 +18844,7 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 
 ## Introduction
 
-A language model's fluent, confident prose reads as trustworthy whether or not it is. Trust calibration is the counterweight to that illusion — the practice of evaluating AI output against its verifiability and the stakes of the task, rather than accepting it on the strength of its presentation.
+A language model's fluent, confident prose reads as trustworthy whether or not it is. Trust calibration is the counterweight to that illusion — the practice of evaluating AI output against its verifiability and the stakes of the task, rather than accepting it on the strength of its presentation. Because trust is usually measured by asking, calibration claims inherit the limits of [[self-report-measures]] — reported trust and observed verification behavior can diverge, as [[fouad-bentley-trust-utility-gap-physics-2026|a physics study]] found.
 
 ### Why trust needs calibrating
 
@@ -18727,6 +18880,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[misconceptions]]
 - [[reducing-ai-misuse]]
 - [[pedagogical-safety]]
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
@@ -20191,7 +20345,7 @@ The clearest caution comes from [[generative-ai-guardrails-harm-learning|Generat
 
 In this randomized field experiment with nearly 1,000 students, a general-purpose-style AI interface increased assisted practice scores by **48% relative to the control group**, but students subsequently scored **17% lower on unassisted exams**. A tutor configured with teacher-designed guidance and hints largely avoided that penalty. Crucially, it **did not produce a statistically significant improvement in unassisted exam performance over the control group**. Avoiding harm is not the same as demonstrating additional learning. These percentages describe this particular intervention and setting, not universal effects of AI use.
 
-The implication is practical: judging an AI tool by completed homework, correct practice answers, or student satisfaction can give a misleading picture of its educational value.
+The implication is practical: judging an AI tool by completed homework, correct practice answers, or student satisfaction can give a misleading picture of its educational value. Satisfaction and perceived learning are [[self-report-measures|self-report measures]], and the knowledge base documents how far they can drift from measured learning.
 
 ### Access and safeguards are not enough
 
@@ -20294,7 +20448,7 @@ Finally, combine quantitative and qualitative evidence. Disaggregated quantitati
 
 # What Measures and Research Methods Can an Instructor Use to Evaluate AI-Related Interventions?
 
-**Match the method to the claim.** If you want to know whether students *liked* an AI activity, a survey can help. If you want to know whether they *learned*, use performance measures. If you want to know whether the AI *caused* an improvement, you need a credible comparison condition and preferably random assignment.
+**Match the method to the claim.** If you want to know whether students *liked* an AI activity, a survey can help. If you want to know whether they *learned*, use performance measures. A survey is a [[self-report-measures|self-report measure]] — the right instrument for attitudes and the wrong one for learning, for the reasons collected on that page. If you want to know whether the AI *caused* an improvement, you need a credible comparison condition and preferably random assignment.
 
 ## Method options
 
@@ -25958,6 +26112,7 @@ The low correlation between self-reported and objective-based factors is a stron
 - [[k-12]]
 - [[educational-development]]
 - [[learning-analytics]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
@@ -27649,7 +27804,7 @@ Yim, K.-H., & Lui, M. Y. (2026). [Supporting undergraduate students' learning in
 
 The study addressed a gap in [[teacher-education|teacher education]] research: most work on AI focuses on [[ai-literacy|AI literacy]], attitudes, and self-assessed competence, whereas [[discipline-specific-aied|discipline-specific]] interventions that engage pre-service teachers in generating, evaluating, and communicating scientific evidence are rarer. Photosynthesis and cellular respiration were chosen as contexts because both require coordinating matter-and-energy transformations across molecular, cellular, organismal, and ecosystem levels, and because [[teacher-education|pre-service teachers]] persistently struggle to distinguish respiration from breathing and to move beyond input–output descriptions of photosynthesis.
 
-Using [[inquiry-based-learning|guided inquiry]], the [[research-methods-aied|researcher]] designed an integrated instructional environment in which AI supported disciplinary reasoning rather than serving as a standalone tool. Participants were drawn from two intact classes of a General Biology II course via purposive sampling; the higher-achieving section was assigned to the control condition to avoid giving the experimental group an initial advantage, though the authors note that class membership, prior achievement, and intervention effects cannot be fully separated. Outcome instruments included the Artificial Intelligence Literacy Scale, the Computational Thinking Skills Scale (self-report, hence "self-perceived computational thinking skills," SPCTS), and researcher-developed photosynthesis and respiration concept tests scored with a four-level rubric (91% inter-rater agreement).
+Using [[inquiry-based-learning|guided inquiry]], the [[research-methods-aied|researcher]] designed an integrated instructional environment in which AI supported disciplinary reasoning rather than serving as a standalone tool. Participants were drawn from two intact classes of a General Biology II course via purposive sampling; the higher-achieving section was assigned to the control condition to avoid giving the experimental group an initial advantage, though the authors note that class membership, [[learning-gains|prior achievement]], and intervention effects cannot be fully separated. Outcome instruments included the Artificial Intelligence Literacy Scale, the Computational Thinking Skills Scale (self-report, hence "self-perceived computational thinking skills," SPCTS), and researcher-developed photosynthesis and respiration concept tests scored with a four-level rubric (91% inter-rater agreement).
 
 ## Intervention
 
@@ -28472,6 +28627,7 @@ The cross-sectional, non-experimental design limits causal inference despite the
 - [[higher-ed]]
 - [[cognitive-offloading]]
 - [[ai-literacy]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
@@ -28628,6 +28784,7 @@ The review restricted its search to English-language, peer-reviewed journal arti
 - [[simulation]]
 - [[meta-analysis-systematic-review]]
 - [[rct]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
@@ -41488,6 +41645,7 @@ The cross-sectional design does not establish directionality: engagement may sha
 - [[ethics]]
 - [[higher-ed]]
 - [[student-engagement]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
@@ -43155,6 +43313,8 @@ A [[mixed-methods-research|mixed-methods]] survey of 81 introductory [[physics-e
 - [[student-experience]]
 - [[higher-ed]]
 - [[stem-education]]
+- [[self-report-measures]]
+
 ## Connected Articles
 
 - [[becker-chatgpt-typology-physics-2026]]
@@ -45078,6 +45238,7 @@ The cross-sectional design limits causal inference, and the sample is drawn from
 - [[higher-ed]]
 - [[personalized-learning]]
 - [[student-experience]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
@@ -45753,6 +45914,7 @@ The demographic patterns carry [[equity-in-ai-education]] implications, particul
 - [[ethics]]
 - [[educational-policy-ai]]
 - [[motivation]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
@@ -47839,6 +48001,7 @@ Hawkins, Taylor-Griffiths & Lodge (2026) investigate how university students use
 - [[academic-integrity]]
 - [[generative-ai]]
 - [[feedback-literacy]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
@@ -50675,6 +50838,7 @@ The authors note important scope limits: GLAT was validated only with higher edu
 - [[higher-ed]]
 - [[ai-ed-evaluation]]
 - [[llm]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
@@ -57429,6 +57593,7 @@ This study contributes directly to the knowledge base's [[self-regulated-learnin
 - [[learning-analytics]] — trace-data methodology
 - [[cognitive-offloading]] — the cognitive-load risk of transformative feedback
 - [[higher-ed]] — the study context (stochastics course)
+- [[self-report-measures]]
 
 ## Connected Articles
 
@@ -62896,6 +63061,7 @@ Applied as a proof-of-concept Early Warning System, the survey-trained model ide
 - [[assessment]]
 - [[personalized-learning]]
 - [[student-modeling]]
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[ai-writes-code-student-writes-model-2026]] — AI Writes Code, Student Writes Model
@@ -70222,6 +70388,7 @@ That last point reframes the whole issue. Practices reported here — practice q
 - [[feedback]]
 - [[teacher-role]]
 - [[higher-ed]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
@@ -70283,6 +70450,7 @@ The review carries several implications for research and design. Methodologicall
 - [[self-regulated-learning]]
 - [[assessment]]
 - [[ai-feedback-quality]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
@@ -73941,6 +74109,7 @@ The study demonstrates that process data can characterize GenAI literacy in ways
 - [[agentic-ai]]
 - [[learning-analytics]]
 - [[writing-education]]- [[network-analysis]]
+- [[self-report-measures]]
 
 ## Connected Articles
 

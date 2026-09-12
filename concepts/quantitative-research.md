@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: concept
 tags: [quantitative-research, research-methods-aied, educational-measurement]
 research_method: [survey, research methods, educational measurement, experiment]
@@ -29,7 +29,7 @@ Quantitative research spans descriptive designs (measuring prevalence and patter
 Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, [[self-efficacy]], and technology acceptance, often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the knowledge base's corpus, particularly for acceptance, motivation, and psychological-mechanism questions. [[acceptance-ai-english-tools-2026|Acceptance of AI-assisted English tools]] builds on the [[technology-acceptance-model|TAM]] with SEM; [[tian-genai-learning-adoption-pathways-2026|GenAI adoption pathways]] uses PLS-SEM, fsQCA, and importance-performance mapping; [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy]] uses factor-validated surveys grounded in [[self-determination-theory]].
 
 - **Strengths:** large samples; broad, low-cost coverage; tests complex mediational models; feasible for attitudes that are hard to observe.
-- **Limitations:** cross-sectional data cannot establish causation; self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation.
+- **Limitations:** cross-sectional data cannot establish causation; self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation. See [[self-report-measures]] for the instrument-side treatment of these limits.
 
 ### Experimental and quasi-experimental research
 Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes. **Randomized controlled trials ([[rct]]s)** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
@@ -68,6 +68,7 @@ Quantitative and [[qualitative-research|qualitative]] methods are complements â€
 - [[student-engagement]]
 - [[self-efficacy]]
 - [[technology-acceptance-model]]
+- [[self-report-measures]]
 
 ## Connected Articles
 

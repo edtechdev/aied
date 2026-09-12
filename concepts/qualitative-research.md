@@ -1,7 +1,7 @@
 ---
 title: Qualitative Research
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-09-08T09:07:05-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: concept
 tags: [qualitative-research, research-methods-aied]
 research_method: [qualitative, research methods, interviews, case study]
@@ -26,7 +26,7 @@ Qualitative research is not a single method but a family organized by *what* the
 ## Major qualitative approaches
 
 ### Thematic analysis
-Thematic analysis identifies, codes, and interprets patterns ("themes") across qualitative data — typically interview or focus-group transcripts, open-ended survey responses, or documents. It is the most widely used approach in the knowledge base's qualitative studies. [[fouad-bentley-trust-utility-gap-physics-2026|A study of the trust–utility gap in physics]] uses thematic analysis of student interview data to surface [[discipline-specific-aied|domain-specific]] skepticism and adoption preferences; [[genai-teacher-feedback-comparison|a comparison of GenAI vs. teacher feedback]] analyzes student perceptions of usefulness and trustworthiness; and [[ai-adult-learning-guidelines-dis2026|guidelines for adult AI learning]] derive design principles from thematic coding of expert and learner input. [[ai-changing-teaching-workflows|How AI changes teaching workflows]] relies on thematic analysis of educator accounts.
+Thematic analysis identifies, codes, and interprets patterns ("themes") across qualitative data — typically interview or focus-group transcripts, open-ended survey responses, or documents. It is the most widely used approach in the knowledge base's qualitative studies. Interviews and open-ended responses are themselves [[self-report-measures|self-report data]], so they share the limits on what can be claimed about behavior — see that page for where self-report evidence is strong and where it breaks down. [[fouad-bentley-trust-utility-gap-physics-2026|A study of the trust–utility gap in physics]] uses thematic analysis of student interview data to surface [[discipline-specific-aied|domain-specific]] skepticism and adoption preferences; [[genai-teacher-feedback-comparison|a comparison of GenAI vs. teacher feedback]] analyzes student perceptions of usefulness and trustworthiness; and [[ai-adult-learning-guidelines-dis2026|guidelines for adult AI learning]] derive design principles from thematic coding of expert and learner input. [[ai-changing-teaching-workflows|How AI changes teaching workflows]] relies on thematic analysis of educator accounts.
 
 ### Grounded theory
 Grounded theory builds a theory *from the data* rather than testing an a priori framework, using iterative coding (open → axial → selective) until theoretical saturation. It is ideal for constructing new theory about emergent AI-in-education phenomena. [[liu-tool-tutor-crutch-programming-2026|Liu et al.]] develop a grounded theory of *tool, tutor, or crutch* — a three-mode typology of how students cognitively [[scaffolding|scaffold]] or offload onto AI in [[cs-education|programming education]] — directly theorizing [[cognitive-offloading]]. [[favero-critical-ai-tutors-empower-enslave-2025|A grounded-theory study of critical AI tutors]] examines whether such tutors empower or enslave learners. [[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] uses grounded analysis across a multisite study. See also [[theory-development-aied]] for how such grounded theories feed the field's theory building.
@@ -79,6 +79,7 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 - [[trust]]
 - [[agency]]
 - [[cognitive-offloading]]
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[chain-behind-claim-warrantability-2026]] — warrantability standard for AI-assisted qualitative analysis

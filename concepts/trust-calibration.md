@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-12T11:20:00-04:00"
 type: concept
 tags: [ai-literacy, cognitive-offloading, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
 audience: [learners]
@@ -23,7 +23,7 @@ connected_faqs: [addressing-common-misconceptions-ai-education]
 
 ## Introduction
 
-A language model's fluent, confident prose reads as trustworthy whether or not it is. Trust calibration is the counterweight to that illusion — the practice of evaluating AI output against its verifiability and the stakes of the task, rather than accepting it on the strength of its presentation.
+A language model's fluent, confident prose reads as trustworthy whether or not it is. Trust calibration is the counterweight to that illusion — the practice of evaluating AI output against its verifiability and the stakes of the task, rather than accepting it on the strength of its presentation. Because trust is usually measured by asking, calibration claims inherit the limits of [[self-report-measures]] — reported trust and observed verification behavior can diverge, as [[fouad-bentley-trust-utility-gap-physics-2026|a physics study]] found.
 
 ### Why trust needs calibrating
 
@@ -59,6 +59,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[misconceptions]]
 - [[reducing-ai-misuse]]
 - [[pedagogical-safety]]
+- [[self-report-measures]]
 
 ## Connected Articles
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)

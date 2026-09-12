@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness"
 created: "2026-08-01T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-12T11:20:00-04:00"
 type: article
 tags: [professional-training, intelligent-tutoring, generative-ai, adaptive-learning, simulation, regulation, constructivist]
 research_method: [experiment]
@@ -52,6 +52,7 @@ The review restricted its search to English-language, peer-reviewed journal arti
 - [[simulation]]
 - [[meta-analysis-systematic-review]]
 - [[rct]]
+- [[self-report-measures]]
 
 ## Connected Articles
 
