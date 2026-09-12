@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-12T09:05:00-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 audience: [learners]
@@ -35,6 +35,7 @@ Agency matters because learning is most effective when learners are active, inte
 - **Critical [[student-engagement|engagement]]:** [[cognitive-offloading|Cognitive offloading]] research shows how students who delegate interpretation to AI can lose agency over their own reasoning; critical and [[metacognition|metacognitive]] approaches aim to protect it.
 - **Design for agency:** Knowledge-based design for [[educational-robotics|generative social robots]] ([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]]) addresses risks like overreliance that undermine learner agency.
 - **Prior agency predicts who benefits:** [[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]], drawing on Bandura's Social Cognitive Theory, showed that students' **prior self-initiated AI learning** (a behavioral manifestation of agency) predicted how much they gained from a year of school AI instruction — high-agency learners entered with the strongest readiness, while school curricula narrowed psychological gaps but left cognitive ones intact. Structured instruction and prior agency-related learning worked *synergistically*, not as substitutes.
+- **Principled selectivity as teacher agency under technological change:** [[ai-integrated-teaching-identity-tensions|Adiozaman and Segar (2026)]] interviewed two experienced academics three times across a semester and found they navigated AI-mediated teaching neither by adopting nor by resisting wholesale, but through deliberate, context-sensitive decisions guided by pedagogical values, ethical commitment and professional judgement — a pattern the authors call *principled selectivity*, in which refusal of a particular use counts as judgement rather than as failed adoption. It is the teacher-side counterpart to the learner findings above: uneven AI use can be an exercise of agency, not evidence of its absence.
 
 Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|Over-Reliance]], and [[metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[intelligent-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
 
@@ -150,3 +151,4 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision: agency as zero-sum with tool agency
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: co-creativity and agency in socio-technical networks
 - [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of agency in GenAI-mediated group assessment: intensified, restrained, and not enacted
+- [[ai-integrated-teaching-identity-tensions]] — Principled selectivity as teacher agency in AI-integrated teaching (Adiozaman & Segar 2026)
