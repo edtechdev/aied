@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-12
 
-Articles: 1145 | Concepts: 189 | FAQs: 17
+Articles: 1145 | Concepts: 189 | FAQs: 18
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
