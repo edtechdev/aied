@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-12 | Total entries: 1336
+Last updated: 2026-09-12 | Total entries: 1337
 
 ## 2026-09-12
+- 📄 [[opraise-automated-marking-ai-assessment-2026]] — AI in University Assessment: Evaluating the Opportunities and Risks of Automated Marking
 - 📄 [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review of processes, strategies, and effects
 - 📘 [[self-report-measures]] — Self-Report Measures
 - 📄 [[genai-writing-program-primary-l2-motivation-engagement]] — Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement, and performance

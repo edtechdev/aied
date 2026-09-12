@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-12T14:25:00-04:00"
 type: concept
 tags: [assessment, automated-assessment, writing-education, generative-ai, llm, prompt-engineering, ai-literacy, higher-ed, k-12]
 discipline: [writing education]
@@ -43,6 +43,8 @@ Automated Essay Scoring has a long history in educational technology, from early
 
 **High-stakes deployment evidence.** Field evidence from a real high-stakes deployment ([[human-in-the-loop-ai-scoring-national-assessment-2026|Uruguay's *Acredita EB*, 2024–2025; Curi et al.]]) shows prompt-engineered GPT-5 reaching 60–80% agreement with trained human raters across a 15-item analytic Spanish rubric, roughly five percentage points below human inter-rater agreement for most items and never more than 15 points below, with run-to-run consistency above 90% for almost all items. Vocabulary, syntax and spelling were the weakest dimensions, and the spelling item had to be handed to a deterministic grammar checker (LanguageTool, 68% accuracy, 100% consistency) because token-level orthography is where the model is least stable. Prompts built for one exam edition transferred to the next with only topic-specific edits, and the AI was systematically stricter than humans — under-grading rather than over-grading. For AES design, the lesson is that prompting-based scoring can approach human agreement even in a national exam, while its remaining weakness sits at the level of low-level language conventions rather than holistic [[writing-education|writing]] quality.
 
+**The human benchmark, and what it can and cannot license.** [[opraise-automated-marking-ai-assessment-2026|The OpRaise study]] is the strongest test in this knowledge base of whether LLM marking is ready for routine use, and its answer turns on the benchmark rather than the model. It compared three frontier systems (Claude Opus 4.6, GPT-5.4, Gemini 3 Flash), each under 27 prompt configurations crossing rubric specificity, calibration and scoring strategy, against the moderated marks of 761 authentic Psychology essays from 125 students at three UK universities. Human marks were adopted as ground truth because academic judgement is the socially accepted standard, and the authors note that human markers agree only moderately with each other — which bounds how strong AI–human agreement could reasonably be demanded to be. Against that benchmark, agreement on the UK degree band ranged from **35 to 65 percent by institution** (63 percent at Cambridge, 53 percent at Nottingham, 35 percent at Manchester Metropolitan) and did not transfer between them, so the report's central recommendation is local validation on an institution's own assessment materials. Two findings generalise beyond this corpus. First, reliability and agreement pull apart: every model re-marked nearly identically (ICC 1.00, 1.00, 0.97) and the models agreed with each other more closely than with humans (three-model ICC 0.91), yet all three agreed on the degree band for only **56 percent** of submissions — self-consistency is not validity. Second, AI marks compressed toward the middle of the scale (a compression score of 0.47–0.82, with the crossover where AI and human agree on average sitting in the upper 50s to low 60s), making AI least accurate precisely at the grade boundaries that separate Firsts from Upper Seconds and passes from fails. Vocabulary range, connectives, sentence complexity and text length predicted AI marks with small but significant effects while their relationship with human marks was broadly negligible — a direct demonstration of the [[ai-scoring-language-bias-physics|linguistic-bias]] concern, and one that no prompting strategy tested removed.
+
 ### Connections to related concepts
 
 AES sits at the intersection of [[automated-assessment]], [[writing-education]], and [[generative-ai]]. It connects to [[formative-assessment]] when used for feedback rather than grading, to [[feedback|Feedback Loop]] when integrated into iterative writing processes, and to [[ai-literacy]] when educators understand and calibrate AES tools. The [[assessment-validity]] and [[educational-measurement]] concepts are essential for ensuring AES scores are meaningful and fair.
@@ -60,6 +62,7 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[ai-literacy]]
 - [[assessment-validity]]
 ## Connected Articles
+- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
 

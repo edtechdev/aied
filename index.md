@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-12
 
-Articles: 1146 | Concepts: 190 | FAQs: 18
+Articles: 1147 | Concepts: 190 | FAQs: 18
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -926,6 +926,7 @@ Articles: 1146 | Concepts: 190 | FAQs: 18
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-Based Layered Hybrid AI-Driven Knowledge Model for Personalized E-Learning
 - [[open-source]] — Open Source
+- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise Report on Automated Marking of University Essays
 - [[oppenheimer-llms-collaborative-learning-partners-2026]] — You've Got AI Friend in Me: LLMs as Collaborative Learning Partners
 - [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Chat or cheat? Academic dishonesty, risk perceptions, and ChatGPT usage in higher education students
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach to Formative Assessment
