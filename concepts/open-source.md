@@ -1,7 +1,7 @@
 ---
-title: Open Source and Open Education
+title: Open Source
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-12T01:15:00-04:00"
+updated: "2026-09-12T02:05:00-04:00"
 type: concept
 tags: [llm, open-source, intelligent-tutoring, adaptive-learning, edtech-platform, generative-ai, ai-education, curriculum-design, privacy, benchmark, agentic-ai, automated-assessment, writing-education]
 audience: [software developers, instructors, administrators, researchers]
@@ -10,7 +10,7 @@ category: [curriculum design]
 confidence: medium
 ---
 
-> **Open Source and Open Education** — the use of openly licensed *models, code, data, and content* in [[ai-education|AI in education]]. Openness is the knowledge base's main counterweight to vendor lock-in and [[privacy|data exposure]]: open-weight models can run on campus hardware to satisfy FERPA, GDPR, and EU AI Act obligations, openly licensed corpora can be indexed and fine-tuned without publisher permission, and open benchmark and dataset releases make [[research-methods-aied|research]] replicable. The burdens are equally real: infrastructure and [[pedagogical-safety|safety]] assurance, maintenance that outlives the grant, and quality that openness does not by itself guarantee.
+> **Open Source** — the use of openly licensed *models, code, data, and content* in [[ai-education|AI in education]]. Openness is the knowledge base's main counterweight to vendor lock-in and [[privacy|data exposure]]: open-weight models can run on campus hardware to satisfy FERPA, GDPR, and EU AI Act obligations, openly licensed corpora can be indexed and fine-tuned without publisher permission, and open benchmark and dataset releases make [[research-methods-aied|research]] replicable. The burdens are equally real: infrastructure and [[pedagogical-safety|safety]] assurance, maintenance that outlives the grant, and quality that openness does not by itself guarantee.
 
 ## Questions to Consider
 
@@ -44,8 +44,6 @@ Several contributions here are open *evaluation infrastructure* rather than syst
 [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] is the knowledge base's only article in which **open educational resources are the central object** rather than a passing reference. They build an on-premise AI knowledge-base assistant for [[cs-education|computer science education]] from 82 OER documents on consumer-grade hardware (an RTX 3060 with 12 GB VRAM), combining structured extraction, [[rag|retrieval-augmented generation]], and NF4 4-bit quantization-aware fine-tuning. Fine-tuning added real value beyond retrieval (Qwen-7B 69.8%, +3.2 pp, p = 0.031; DeepSeek-MoE 78.6%, +12.0 pp, p < 0.001, including 82.3% on multi-hop reasoning); quantization-aware tuning held the 4-bit accuracy gap to 1.7 and 1.2 pp while cutting VRAM by ~38% and energy to 1.8 mWh per query (43.8% below baseline); and quantization-inflated [[hallucination-risk|hallucination]] was partly recovered by fine-tuning (DeepSeek-MoE 10.4% → 8.1%), measured by a two-stage NLI procedure against retrieved OER chunks. The analytical point is generalizable: an openly licensed corpus can be indexed, adapted, and served without publisher permissions, and grounding an assistant in retrieved OER gives a checkable provenance trail — which is exactly what a proprietary textbook corpus cannot offer.
 
 Openness of content and openness of models are complements elsewhere too. OATutor curates CC BY OpenStax textbooks into a system whose code is MIT-licensed, so the licence terms of code and content have to be kept compatible by design. [[egai-power-systems-education|An open, executable module library for power systems AI]] lowers the entry barrier with Jupyter notebooks that run locally or in Colab, delivered through an IEEE online course. And a project-based [[engineering-education|mechanical engineering]] curriculum publishes its syllabus, data, and code in open-access repositories so other institutions can adopt it ([[mechanical-engineering-ai-curriculum-2026]]). Adjacent to OER, open *course* delivery is where the economics are shifting fastest: [[mooc-to-maic|MAIC]] reports collapsing MOOC production from roughly $25,000 and 60 hours per course to under $2 and 30 minutes with LLM-driven multi-agent generation. If content production becomes nearly free, the OER argument moves away from production cost and toward licensing freedom, verifiability, and quality assurance — which is a different proposition from the one OER advocacy was built on.
-
-The honest limit: the knowledge base contains **no article on open pedagogy or open educational practices as such**, and mentions of "open access" elsewhere in the wiki refer to publication access rather than OER. The evidence base for this section is one strong article plus licensing notes inside system papers.
 
 ### Benefits and burdens
 
