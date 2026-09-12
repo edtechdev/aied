@@ -78,8 +78,8 @@ def ungrounded(slug):
             continue
         if re.search(r'(?<![\d.])' + re.escape(value) + r'(?![\d])', raw_n):
             continue
-        if re.search(r'(?<![\d.])\.' + re.escape(value.lstrip('0') or value) + r'(?![\d])', raw_n):
-            continue
+        if re.search(r'(?<![\d.])\.' + re.escape(value) + r'(?![\d])', raw_n):
+            continue   # leading-dot form, e.g. "p < .001" written as "001" in the body
         if len(value) >= 4 and value in squeezed:   # survives PDF line-wrap artefacts
             continue
         misses.append(value)
