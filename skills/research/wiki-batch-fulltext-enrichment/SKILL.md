@@ -11,6 +11,13 @@ Use when the user asks to **enrich a backlog of thin/abstract-only wiki articles
 ## Hard gate (standing rule, 2026-08-24)
 **Never create or enrich a wiki article page unless you can download and save the full text.** If full text cannot be fetched (paywall/CAPTCHA/publisher block), add the article to `AIED-BACKLOG.md` under its journal section, list it in the report's FULL_TEXT_PENDING, update the backlog total, and notify the maintainer so they can supply the PDF. Do NOT create abstract-only pages. Save full text as `raw/papers/<id>.md` (gitignored, local-only, never committed).
 
+## Preserve the original PDF (standing rule, 2026-09-12)
+When a PDF arrives in chat, **immediately copy it to `pdf-sources/<article-slug>.pdf` (or `<arXiv-id>.pdf`) before doing anything else**, and leave it there permanently.
+- The chat document cache is transient — it rotates to a handful of recent files, and PDFs sent weeks ago are simply gone. A batch of publisher-locked sources became unrecoverable this way.
+- `pdf-sources/` is gitignored, so nothing lands in the repository; verify with `git status --short` that it never appears.
+- **Never delete the original PDF** after ingest. The extracted `raw/papers/<id>.md` is a derived artifact; the PDF is the only copy of the source once the cache clears.
+- Downloaded PDFs on the way to ingest (`/tmp/*.pdf`, cache copies) should be moved into `pdf-sources/` as part of the same step, not left in a scratch directory.
+
 ## Batch workflow (validated on 84 arXiv papers, 2026-08-24)
 
 ### 1. Audit which articles are thin
