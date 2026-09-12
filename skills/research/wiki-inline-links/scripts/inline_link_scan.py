@@ -245,7 +245,7 @@ ALIASES = {
     'rct': ['randomized controlled trial', 'randomised controlled trial', 'randomized trial', 'rcts', 'rct'],
     'usability-research': ['usability', 'user experience', 'ux'],
     'edtech-platform': ['edtech platform', 'platform', 'lms'],
-    'open-source': ['open source', 'open-source', 'open access'],
+    'open-source': ['open source', 'open-source', 'open educational resources', 'oer', 'oers', 'open education', 'open textbook', 'open textbooks', 'open courseware', 'open weights'],
     'benchmark': ['benchmark', 'benchmarks'],
     'feedback-literacy': ['feedback literacy'],
     'ai-feedback-quality': ['feedback quality', 'ai feedback'],
