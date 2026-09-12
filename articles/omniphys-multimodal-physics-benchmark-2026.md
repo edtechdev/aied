@@ -12,7 +12,7 @@ sources: ['raw/papers/2608.25398.md']
 confidence: high
 ---
 
-> **Synthesis:** Chen et al. (2026) introduce **OmniPhys**, a large-scale [[multimodal|multimodal]] benchmark for [[physics-education|physics]] understanding and reasoning built from Chinese educational corpora, spanning middle-school through university-level problems. The benchmark comprises 15,246 questions and 19,850 images with fine-grained annotations supporting analysis of reasoning processes and knowledge usage, and — unusually — systematically evaluates multimodal *output* generation, including models' ability to synthesize structured physics diagrams. Extensive evaluations reveal critical gaps in current [[llm|multimodal LLMs]], especially in complex reasoning and visual generation, positioning OmniPhys as a foundational resource for advancing multimodal intelligence in physics and for informing [[automated-assessment|automated]] physics [[assessment]].
+> **Synthesis:** Chen et al. (2026) introduce **OmniPhys**, a large-scale [[multimodal]] benchmark for [[physics-education|physics]] understanding and reasoning built from Chinese educational corpora, spanning middle-school through university-level problems. The benchmark comprises 15,246 questions and 19,850 images with fine-grained annotations supporting analysis of reasoning processes and knowledge usage, and — unusually — systematically evaluates multimodal *output* generation, including models' ability to synthesize structured physics diagrams. Extensive evaluations reveal critical gaps in current [[llm|multimodal LLMs]], especially in complex reasoning and visual generation, positioning OmniPhys as a foundational resource for advancing multimodal intelligence in physics and for informing [[automated-assessment|automated]] physics [[assessment]].
 
 ## Why physics needs a unified multimodal benchmark
 
@@ -24,7 +24,7 @@ OmniPhys is a Chinese benchmark designed to assess physics mastery from secondar
 
 - **15,246 questions** and **19,850 images**, with detailed annotations supporting fine-grained analysis of reasoning processes and knowledge usage.
 - A **multimodal output generation subset** that assesses MLLMs' capabilities in physics diagram understanding and editing — a fundamental component of authentic physics [[problem-solving|problem solving]] that most [[benchmark|benchmarks]] omit.
-- Coverage spanning question types from multiple-choice to open-ended problem solving, grounded in authentic [[assessment|assessment]] material.
+- Coverage spanning question types from multiple-choice to open-ended problem solving, grounded in authentic [[assessment]] material.
 
 ## Evaluation findings
 

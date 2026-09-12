@@ -22,7 +22,7 @@ The review's central claim is that [[agency]] is not a property conferred by a n
 The review insists educational evidence be separated by outcome level, because a favorable result at one level does not license a claim at another:
 
 - **Artifact outcomes** — answer accuracy, rubric alignment, feedback style. Necessary but *not sufficient* evidence of learning benefit.
-- **Learner outcomes** — knowledge, transfer, [[metacognition|metacognition]], [[motivation]], cognitive demand.
+- **Learner outcomes** — knowledge, transfer, [[metacognition]], [[motivation]], cognitive demand.
 - **Educator outcomes** — time savings, workload redistribution, professional judgment, adoption.
 - **Institutional outcomes** — admissions, progression, resource assignment, compliance, cost.
 

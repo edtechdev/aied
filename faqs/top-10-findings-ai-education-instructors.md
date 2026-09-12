@@ -19,7 +19,7 @@ Across the knowledge base's synthesis of current research, the most important me
 
 **Teaching implication:** Include some opportunities where students must retrieve, explain, solve, or defend ideas without AI.
 
-**2. AI is more educationally valuable as a tutor than as an answer machine.** Decades of [[intelligent-tutoring|intelligent-tutoring research]] point toward [[scaffolding]]: diagnose understanding, ask questions, give graduated hints, elicit explanations, and provide feedback rather than immediately supplying solutions. Contemporary [[pedagogical-agent|pedagogical-agent]] research reinforces the distinction between *teaching behavior* and mere *answer production*.
+**2. AI is more educationally valuable as a tutor than as an answer machine.** Decades of [[intelligent-tutoring|intelligent-tutoring research]] point toward [[scaffolding]]: diagnose understanding, ask questions, give graduated hints, elicit explanations, and provide feedback rather than immediately supplying solutions. Contemporary [[pedagogical-agent]] research reinforces the distinction between *teaching behavior* and mere *answer production*.
 
 **Teaching implication:** Tell students to prompt AI with "give me one hint," "ask me questions," or "critique my reasoning" rather than "solve this."
 
@@ -35,7 +35,7 @@ Across the knowledge base's synthesis of current research, the most important me
 
 **Teaching implication:** Design AI activities around self-explanation, retrieval, comparison, argumentation, teaching, or critique—not merely content generation.
 
-**6. [[assessment|Assessment]] should shift from detecting AI toward establishing valid evidence of learning.** AI detectors have important reliability and fairness limitations. More fundamentally, a polished take-home product no longer necessarily demonstrates that its submitter possesses the underlying competence. The knowledge base frames this as an [[assessment-validity|assessment-validity]] problem, not merely a cheating problem.
+**6. [[assessment|Assessment]] should shift from detecting AI toward establishing valid evidence of learning.** AI detectors have important reliability and fairness limitations. More fundamentally, a polished take-home product no longer necessarily demonstrates that its submitter possesses the underlying competence. The knowledge base frames this as an [[assessment-validity]] problem, not merely a cheating problem.
 
 **Teaching implication:** Assess processes as well as products—drafts, reasoning, critiques, oral defenses, demonstrations, reflections, or conversations about submitted work.
 
