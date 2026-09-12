@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-12T09:00:00-04:00"
+updated: "2026-09-12T13:25:00-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
@@ -47,7 +47,7 @@ The abstraction "orchestrator" is easier to grasp through concrete, day-to-day s
 
 ### The orchestration metaphor
 
-The dominant metaphor in the knowledge base is *orchestration*: teachers coordinate human learners, [[intelligent-tutoring|AI tutors]], and curriculum resources. This contrasts with replacement narratives — AI augments rather than substitutes for human teaching. Empirical evidence supports this stance: a PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 studies (2023–2025) found LLMs match human raters on short, well-structured tasks but that performance declines on longer, multilingual, and nuanced work — concluding LLMs cannot fully replace teachers and that hybrid, human-in-the-loop assessment systems achieve the highest grading effectiveness ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). The orchestration lens reframes the instructor's core skill as *judgment*: deciding when a human, an AI, or a designed learning activity is the right instrument for a given learner and moment.
+The dominant metaphor in the knowledge base is *orchestration*: teachers coordinate human learners, [[intelligent-tutoring|AI tutors]], and curriculum resources. This contrasts with replacement narratives — AI augments rather than substitutes for human teaching. Empirical evidence supports this stance: a PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 studies (2023–2025) found LLMs match human raters on short, well-structured tasks but that performance declines on longer, multilingual, and nuanced work — concluding LLMs cannot fully replace teachers and that hybrid, human-in-the-loop assessment systems achieve the highest grading effectiveness ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). The orchestration lens reframes the instructor's core skill as *judgment*: deciding when a human, an AI, or a designed learning activity is the right instrument for a given learner and moment. A 2026 PRISMA review of 29 studies of [[teacher-intervention-k12-ai-based-instruction-2026|teacher intervention in K-12 AI-based instruction]] sharpens the metaphor into a four-phase cycle — monitoring, judgment, intervention, orchestration — and shows why no phase can be assumed. Teachers preferred shared control, accepting, modifying, rejecting or overriding AI suggestions; some deferred intervention deliberately so students could struggle productively first; and dashboards that expanded awareness could also overload attention or exceed what one teacher could physically act on. Its three strategies — pedagogical translation of AI output, design of learning support, and reconstruction of interaction structures — describe the work as recontextualization rather than approval, which places the teacher closer to mediator than to the human-in-the-loop reviewer role.
 
 ### Evolving and critical teacher roles
 
@@ -233,3 +233,4 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[ai-integrated-teaching-identity-tensions]] — Identity tensions and principled selectivity in AI-integrated teaching (Adiozaman & Segar 2026)
+- [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review

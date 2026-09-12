@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-12
 
-Articles: 1145 | Concepts: 190 | FAQs: 18
+Articles: 1146 | Concepts: 190 | FAQs: 18
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -1202,6 +1202,7 @@ Articles: 1145 | Concepts: 190 | FAQs: 18
 - [[teacher-education]] — Professional Development
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective
 - [[teacher-role]] — Teaching
+- [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher Intervention in K-12 AI-Based Instruction
 - [[teacher-student-agency-orchestration]] — Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing
 - [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Beyond operational skills: Teachers' AI knowledge and interactions with generative AI in lesson planning
 - [[teachers-collaborative-evaluation-ai-content-2026]] — Teachers' Collaborative Evaluation of AI-Generated Content: Insights from a Professional Development Workshop
