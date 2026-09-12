@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-12 | Total entries: 1333
+Last updated: 2026-09-12 | Total entries: 1334
 
 ## 2026-09-12
+- 📄 [[genai-writing-program-primary-l2-motivation-engagement]] — Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement, and performance
 - 📄 [[student-genai-use-views-writing]] — Student Use of and Views on GenAI for Writing
 - 📄 [[ai-integrated-teaching-identity-tensions]] — ‘Resistance is futile?’: identity tensions and principled selectivity in AI-integrated teaching
 
