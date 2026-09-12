@@ -56,11 +56,17 @@ function fmtDateTime(s: string | undefined | null): string {
   return s.split('T')[0];
 }
 
-// Recent articles (reverse chronological)
-const recentArticles = articles
-  .slice()
-  .sort((a, b) => (b.data.created || '').localeCompare(a.data.created || ''))
-  .slice(0, 12);
+// Recently added pages (articles, concepts, and FAQs merged, reverse
+// chronological by created) — mirrors the journal page's ordering so the
+// sidebar teaser and /aied/journal agree.
+const recentPages = [
+  ...articles.map(a => ({ kind: 'article' as const, entry: a })),
+  ...concepts.map(c => ({ kind: 'concept' as const, entry: c })),
+  ...faqs.map(f => ({ kind: 'faq' as const, entry: f })),
+]
+  .filter(p => p.entry.data.created)
+  .sort((a, b) => (b.entry.data.created || '').localeCompare(a.entry.data.created || ''))
+  .slice(0, 15);
 
 // Recently updated concepts (reverse chronological by updated, then created
 // as tiebreaker so concepts updated in the same bulk commit are not listed
@@ -78,10 +84,16 @@ const recentConcepts = concepts
   .slice(0, 15);
 
 // Formatted item arrays for the RecentActivity component
-const recentArticleItems = recentArticles.map(a => ({
-  title: a.data.title,
-  url: `/aied/articles/${a.id.replace('.md', '')}/`,
-  date: fmtDateTime(a.data.created),
+const SECTIONS: Record<'article' | 'concept' | 'faq', string> = {
+  article: 'articles',
+  concept: 'concepts',
+  faq: 'faqs',
+};
+const recentPageItems = recentPages.map(p => ({
+  kind: p.kind,
+  title: p.entry.data.title,
+  url: `/aied/${SECTIONS[p.kind]}/${p.entry.id.replace('.md', '')}/`,
+  date: fmtDateTime(p.entry.data.created),
 }));
 const recentConceptItems = recentConcepts.map(c => ({
   title: c.data.title,
@@ -1245,7 +1257,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       <aside class="right-col" aria-label={toc.length > 0 ? "On this page" : "Recent activity"}>
         {toc.length > 0 && <TableOfContents headings={toc} variant="desktop" pageTitle={title} />}
         <div class="recent-rail">
-          <RecentActivity articles={recentArticleItems} concepts={recentConceptItems} />
+          <RecentActivity pages={recentPageItems} concepts={recentConceptItems} />
         </div>
       </aside>
     </div>

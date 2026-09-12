@@ -1,9 +1,13 @@
 ---
 /**
- * RecentActivity.astro — the "Recently Added Articles" and "Recently Updated
+ * RecentActivity.astro — the "Recently Added Pages" and "Recently Updated
  * Concepts" sidebar lists. Rendered once in BaseLayout's right rail, after the
  * on-this-page TOC when present. On mobile the right rail stacks below the page
  * content (single-column grid), so this shows below the article/concept page.
+ *
+ * "Recently Added Pages" merges articles, concepts, and FAQs in one
+ * reverse-chronological list (newest created first), with the same type icons
+ * the journal page uses, so the sidebar reads like a teaser for /aied/journal.
  */
 interface Item {
   title: string;
@@ -11,12 +15,33 @@ interface Item {
   date: string;
 }
 
+interface PageItem extends Item {
+  kind: 'article' | 'concept' | 'faq';
+}
+
 interface Props {
-  articles: Item[];
+  pages: PageItem[];
   concepts: Item[];
 }
 
-const { articles, concepts } = Astro.props;
+const { pages, concepts } = Astro.props;
+
+// Lucide icons, identical to the journal page's per-type markers:
+// file-text (article), lightbulb (concept), circle-help (FAQ).
+const ICONS: Record<PageItem['kind'], string> = {
+  article:
+    '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M16 13H8"></path><path d="M16 17H8"></path><path d="M10 9H8"></path></svg>',
+  concept:
+    '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><line x1="9" y1="18" x2="15" y2="18"></line><line x1="10" y1="22" x2="14" y2="22"></line><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5.76.76 1.23 1.52 1.41 2.5z"></path></svg>',
+  faq:
+    '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>',
+};
+
+const KIND_LABEL: Record<PageItem['kind'], string> = {
+  article: 'Article',
+  concept: 'Concept',
+  faq: 'FAQ',
+};
 ---
 
 <style>
@@ -51,6 +76,8 @@ const { articles, concepts } = Astro.props;
     line-height: 1.35;
   }
   .recent-list a:hover { color: var(--primary); }
+  .recent-list a svg { color: var(--muted-color); }
+  .recent-list a:hover svg { color: var(--primary); }
   .recent-date {
     display: block;
     font-size: 0.75rem;
@@ -61,17 +88,17 @@ const { articles, concepts } = Astro.props;
   .recent-more a { font-size: 0.82rem; }
 </style>
 
-<details class="recent-block" open data-state-key="recent:articles">
-  <summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.35rem;"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M16 13H8"></path><path d="M16 17H8"></path><path d="M10 9H8"></path></svg>Recently Added Articles</summary>
+<details class="recent-block" open data-state-key="recent:pages">
+  <summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.35rem;"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M16 13H8"></path><path d="M16 17H8"></path><path d="M10 9H8"></path></svg>Recently Added Pages</summary>
   <ul class="recent-list">
-    {articles.map(a => (
+    {pages.map(p => (
       <li>
-        <a href={a.url}>{a.title}</a>
-        <span class="recent-date">{a.date}</span>
+        <a href={p.url} title={`${KIND_LABEL[p.kind]}: ${p.title}`} set:html={`${ICONS[p.kind]}${p.title}`}></a>
+        <span class="recent-date">{p.date}</span>
       </li>
     ))}
   </ul>
-  <p class="recent-more"><a href="/aied/journal">View all articles →</a></p>
+  <p class="recent-more"><a href="/aied/journal">View all pages →</a></p>
 </details>
 
 <details class="recent-block" open data-state-key="recent:concepts">
