@@ -50,7 +50,7 @@ import os, re, yaml
 from collections import defaultdict
 from datetime import date
 
-WIKI = "<WIKI>"          # or /home/doug/wiki
+WIKI = "<WIKI>"          # repo root; the installed copy uses its real local path
 EM = "\u2014"            # em dash — DO NOT use a hyphen
 TODAY = date.today().isoformat()
 
@@ -159,4 +159,4 @@ Non-negotiables:
 - **Always diff against the previous commit's format** before committing, so a format regression (truncated headers / quoted titles / two-line drift) is caught.
 
 ## Repository mirror
-This skill is mirrored in the AI Ed Wiki repo at `skills/research/wiki-journal-update/`. Keep the installed copy (`~/.hermes/skills/research/wiki-journal-update/`) and the repo copy in sync after every edit (they differ only in path literals: the repo copy uses `<WIKI>` placeholders; the installed copy uses `/home/doug/wiki`).
+This skill is mirrored in the AI Ed Wiki repo at `skills/research/wiki-journal-update/`. Keep the installed copy (`~/.hermes/skills/research/wiki-journal-update/`) and the repo copy in sync after every edit (they differ only in path literals: the repo copy uses `<WIKI>` placeholders; the installed copy uses an absolute local path).

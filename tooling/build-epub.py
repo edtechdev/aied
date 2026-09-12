@@ -2,10 +2,10 @@
 """Build aied.epub of the AI Ed Wiki: home intro + use-with-AI + all concepts
 (organized into chapters by the umbrella groups) + FAQs.
 
-Metadata: title "AI in Education Knowledge Base", edited by Doug Holton,
-CC0 public-domain dedication, and the generation date. Wiki [[wikilinks]]
-that resolve to concepts/FAQs present in the EPUB become internal anchors so
-navigation works inside the reader.
+Metadata: title from site.config.json, the editor name from site.config.json
+(never hardcoded here), CC0 public-domain dedication, and the generation date.
+Wiki [[wikilinks]] that resolve to concepts/FAQs present in the EPUB become
+internal anchors so navigation works inside the reader.
 """
 import os, re, glob, subprocess, datetime, json
 
