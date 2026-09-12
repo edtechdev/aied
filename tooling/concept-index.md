@@ -253,7 +253,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: multimodal; multimodal AI; multimodal learning analytics; multimodal learning
     - phrases: neurodiversity; neurodivergent; neurodivergence; autism; ADHD
     - phrases: online teaching; online learning; online education; e-learning; distance learning; distance education; MOOC; online courses; virtual learning; remote learning
-    - phrases: open source; open-source; OSS; open educational resources; open models
+    - phrases: open source; open-source; OSS; open models; open weights; open educational resources; OER; OERs; open education; open textbooks; open pedagogy; open content; open courseware
     - phrases: pedagogical agent; virtual agent; learning agent; animated pedagogical agent; tutor agent
     - phrases: pedagogical safety; safety in tutoring; AI safety in education; safe tutoring
     - phrases: pedagogy; pedagogies; teaching strategies; teaching methods; instructional strategies
@@ -425,7 +425,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`neurodiversity`** — Neurodiversity
 - **`network-analysis`** — Network Analysis
 - **`online-teaching-and-learning`** — Online Teaching and Learning
-- **`open-source`** — Open Source
+- **`open-source`** — Open Source and Open Education
 - **`pedagogical-agent`** — Pedagogical Agent
 - **`pedagogical-llm-training`** — Training Pedagogical LLMs for Tutoring
 - **`pedagogical-partnerships`** — Pedagogical Partnerships — phrases: students as partners; pedagogical partnership; student partnership; co-creation; co-design; student co-design; students co-create; student voice in design
