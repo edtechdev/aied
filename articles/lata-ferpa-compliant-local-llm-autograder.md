@@ -5,7 +5,7 @@ updated: "2026-09-12T03:05:00-04:00"
 type: article
 tags: [automated-assessment, higher-ed, stem-education, llm, generative-ai, feedback, assessment-validity, formative-assessment, open-source]
 audience: [instructors, software developers]
-research_method: [program evaluation]
+research_method: [design and evaluation study, quasi-experiment]
 discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2605.05410.md']
