@@ -12,7 +12,7 @@ sources: ['raw/papers/lu-ai-multimodal-writing-critical-thinking-2026.md']
 confidence: high
 ---
 
-> **Lu et al. (2027)** use an eight-week intervention with 60 [[k-12|Grade 5]] students in a Chinese primary school to examine how [[conversational-ai|conversational AI bots]] support critical thinking during multimodal writing. Students transformed their narratives into AI-generated images and short videos, and the study tracked six [[critical-thinking|critical-thinking]] dimensions at pre-, post-, and one-month-follow-up. Gains were uneven: interpretation, analysis, evaluation, and explanation rose and held, [[self-regulated-learning|self-regulation]] improved only short-term, and inference did not change — suggesting the multimodal [[visualization|externalization]] of meaning can reduce the inferential demand that writing usually carries.
+> **Lu et al. (2027)** use an eight-week intervention with 60 [[k-12|Grade 5]] students in a Chinese primary school to examine how [[conversational-ai|conversational AI bots]] support critical thinking during multimodal writing. Students transformed their narratives into AI-generated images and short videos, and the study tracked six [[critical-thinking]] dimensions at pre-, post-, and one-month-follow-up. Gains were uneven: interpretation, analysis, evaluation, and explanation rose and held, [[self-regulated-learning|self-regulation]] improved only short-term, and inference did not change — suggesting the multimodal [[visualization|externalization]] of meaning can reduce the inferential demand that writing usually carries.
 
 ## Key Findings
 
@@ -24,7 +24,7 @@ confidence: high
 
 ## Synthesis
 
-The study contributes a rare upper-primary, multimodal test of conversational AI bots as learning partners in [[writing-education|writing]]. Its core insight is a trade-off: externalizing meaning across visual and audiovisual modes scaffolds several [[critical-thinking|critical-thinking]] dimensions and suits young learners whose cognitive and [[metacognition|metacognitive]] capacities are still developing, but it can simultaneously lower the inferential load that text-only writing imposes. The design implication is that multimodal AI composing should be paired with continued [[scaffolding]] and structured [[collaborative-learning|peer collaboration]] that deliberately restore occasions for inference and sustain self-regulatory reflection, rather than relying on the bot alone. Methodologically, dimension-level analysis — not an aggregate critical-thinking score — was essential to revealing this uneven pattern.
+The study contributes a rare upper-primary, multimodal test of conversational AI bots as learning partners in [[writing-education|writing]]. Its core insight is a trade-off: externalizing meaning across visual and audiovisual modes scaffolds several [[critical-thinking]] dimensions and suits young learners whose cognitive and [[metacognition|metacognitive]] capacities are still developing, but it can simultaneously lower the inferential load that text-only writing imposes. The design implication is that multimodal AI composing should be paired with continued [[scaffolding]] and structured [[collaborative-learning|peer collaboration]] that deliberately restore occasions for inference and sustain self-regulatory reflection, rather than relying on the bot alone. Methodologically, dimension-level analysis — not an aggregate critical-thinking score — was essential to revealing this uneven pattern.
 
 ## Connected Concepts
 

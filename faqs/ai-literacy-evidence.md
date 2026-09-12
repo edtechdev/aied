@@ -30,7 +30,7 @@ Source: [[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative 
 
 ## Embedding AI literacy in disciplinary work
 
-Beck and Brodersen's economics approach has students first solve or interpret an authentic economics problem themselves, then obtain ChatGPT's response, compare the two, critique the AI, reflect, and discuss with peers. The intervention combines AI literacy with existing [[active-learning|active-learning]] techniques such as Think-Pair-Share.
+Beck and Brodersen's economics approach has students first solve or interpret an authentic economics problem themselves, then obtain ChatGPT's response, compare the two, critique the AI, reflect, and discuss with peers. The intervention combines AI literacy with existing [[active-learning]] techniques such as Think-Pair-Share.
 
 Its principal contribution is a transferable [[learning-design|instructional design]] rather than strong experimental evidence of learning effects.
 
@@ -54,7 +54,7 @@ Source: [[hingle-collaborative-ai-literacy-2025|Systematic Review of Collaborati
 
 ## Teacher education: confidence versus demonstrated competence
 
-Le et al.'s design-based GenAI-literacy intervention, piloted with 14 master's students and evaluated with 29 [[teacher-education|teacher-education]] students, increased reported AI-competency [[self-efficacy|self-efficacy]] and produced shifts toward more critical pedagogical consideration of GenAI.
+Le et al.'s design-based GenAI-literacy intervention, piloted with 14 master's students and evaluated with 29 [[teacher-education]] students, increased reported AI-competency [[self-efficacy]] and produced shifts toward more critical pedagogical consideration of GenAI.
 
 However, ethics gains became only marginally significant, and the small design-based research study means that conclusions about objective competence remain limited.
 

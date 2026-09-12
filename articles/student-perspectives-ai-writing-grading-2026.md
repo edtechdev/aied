@@ -33,7 +33,7 @@ Inductive analysis produced four themes, presented separately but interwoven in 
 - **Conditional trust (7 explicit, 2 partial):** the analytically distinctive pattern, in which students affirm AI feedback and reject AI grading within the same evaluation event—"I agree with it, but with one condition, that the doctor checks the feedback to edit any mistakes."
 - **The instructor's [[governance|institutional]] role (5 explicit, 2 partial):** reasons why a human evaluator must remain, including student knowledge, dialogue, and the purpose of the university itself.
 
-At the contextual level, students identified limitations that went beyond error correction. One pointed to a misalignment with the local [[assessment|assessment]] regime: "The AI rating had one problem, which is the AI doesn't know [the instructor's] rating system." Another raised the system's relentless positivity: "AI always tries to be positive, but that doesn't mean it's unable to use. I think we can use it as initial feedback." The paper reads these as objections to AI's grasp of context, intent, effort, and institutional norms rather than complaints about fluency.
+At the contextual level, students identified limitations that went beyond error correction. One pointed to a misalignment with the local [[assessment]] regime: "The AI rating had one problem, which is the AI doesn't know [the instructor's] rating system." Another raised the system's relentless positivity: "AI always tries to be positive, but that doesn't mean it's unable to use. I think we can use it as initial feedback." The paper reads these as objections to AI's grasp of context, intent, effort, and institutional norms rather than complaints about fluency.
 
 ## Trust, transparency, and assessment legitimacy
 

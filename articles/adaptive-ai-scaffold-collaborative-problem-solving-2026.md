@@ -23,7 +23,7 @@ confidence: high
 
 ## Implications
 
-This work connects [[adaptive-learning|adaptive learning]], [[scaffolding|scaffolding]], and [[collaborative-learning|collaborative learning]] for [[k-12|secondary-school]] students, using [[learning-analytics|process-mining learning analytics]] to move adaptive scaffolding from static/aggregate rules toward individualized, sequence-based intervention. The finding that maximal scaffolding boosts on-task performance but increases scripting behaviours is a nuance for [[student-engagement|engagement]] and [[agentic-ai|agency]] debates: scaffolding that keeps students on-task may also script their interactions. The proposed adaptive scaffold — prompting capable students to ask questions during problem identification — offers a concrete, process-grounded design for AI-assisted collaborative learning in [[stem-education|mathematics]].
+This work connects [[adaptive-learning|adaptive learning]], [[scaffolding]], and [[collaborative-learning|collaborative learning]] for [[k-12|secondary-school]] students, using [[learning-analytics|process-mining learning analytics]] to move adaptive scaffolding from static/aggregate rules toward individualized, sequence-based intervention. The finding that maximal scaffolding boosts on-task performance but increases scripting behaviours is a nuance for [[student-engagement|engagement]] and [[agentic-ai|agency]] debates: scaffolding that keeps students on-task may also script their interactions. The proposed adaptive scaffold — prompting capable students to ask questions during problem identification — offers a concrete, process-grounded design for AI-assisted collaborative learning in [[stem-education|mathematics]].
 
 ## Connected Concepts
 

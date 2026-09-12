@@ -33,7 +33,7 @@ The single most cited empirical demonstration is the [[generative-ai-guardrails-
 
 ### 1. Prompt-level guardrails (the "hint-not-answer" pattern)
 
-The [[generative-ai-guardrails-harm-learning|Bastani]] GPT Tutor design shows the foundational pattern: the prompt instructs the model to **give hints, not answers**, and is seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) so its hints are accurate and checkable. Related: [[socratic-method|Socratic]] dialogue and step-by-step [[scaffolding]] requirements that force student articulation before revealing output. This is a [[prompt-engineering|prompt-engineering]] strategy that preserves [[desirable-difficulties|productive struggle]].
+The [[generative-ai-guardrails-harm-learning|Bastani]] GPT Tutor design shows the foundational pattern: the prompt instructs the model to **give hints, not answers**, and is seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) so its hints are accurate and checkable. Related: [[socratic-method|Socratic]] dialogue and step-by-step [[scaffolding]] requirements that force student articulation before revealing output. This is a [[prompt-engineering]] strategy that preserves [[desirable-difficulties|productive struggle]].
 
 ### 2. Knowledge grounding (RAG)
 

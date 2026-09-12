@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.27396.md']
 confidence: high
 ---
 
-> **Synthesis:** Nama (2026) names **agentic literacy debt** — the accumulating societal deficit that grows when [[agentic-ai|agentic AI]] systems are deployed at scale without corresponding [[ai-literacy|literacy infrastructure]]. Existing AI literacy frameworks were built for a world of *tools* where humans evaluate outputs and decide; autonomous AI agents instead *plan, decide, and act* without step-by-step approval, breaking the three assumptions (evaluation, reversibility, control) every current literacy model depends on. The debt compounds through three reinforcing channels (normalization of opaque delegation, multi-agent ecosystem complexity, institutional path dependence), is **incurred by deploying organizations but paid by users, patients, and citizens**, and demands reframing AI literacy from an *evaluative* competency to a *[[governance|governance]]* capability.
+> **Synthesis:** Nama (2026) names **agentic literacy debt** — the accumulating societal deficit that grows when [[agentic-ai|agentic AI]] systems are deployed at scale without corresponding [[ai-literacy|literacy infrastructure]]. Existing AI literacy frameworks were built for a world of *tools* where humans evaluate outputs and decide; autonomous AI agents instead *plan, decide, and act* without step-by-step approval, breaking the three assumptions (evaluation, reversibility, control) every current literacy model depends on. The debt compounds through three reinforcing channels (normalization of opaque delegation, multi-agent ecosystem complexity, institutional path dependence), is **incurred by deploying organizations but paid by users, patients, and citizens**, and demands reframing AI literacy from an *evaluative* competency to a *[[governance]]* capability.
 
 ## From Tool to Agent: The Assumptions That Break
 
@@ -44,7 +44,7 @@ The gap is structural because deployment speed (product cycles in months) far ou
 
 ## The Governance Reframing
 
-The EU AI Act Article 4 creates the world's first binding [[ai-literacy|AI literacy]] obligation, yet its guidance doesn't specify what literacy means in agentic contexts. Nama argues literacy must shift from evaluative to [[governance|governance]] — from "can you spot AI errors?" to "do you understand what you've delegated, and can you contest it?" This requires new **principal-side competencies**:
+The EU AI Act Article 4 creates the world's first binding [[ai-literacy|AI literacy]] obligation, yet its guidance doesn't specify what literacy means in agentic contexts. Nama argues literacy must shift from evaluative to [[governance]] — from "can you spot AI errors?" to "do you understand what you've delegated, and can you contest it?" This requires new **principal-side competencies**:
 
 - **Delegation** — understanding what authority one is granting
 - **Oversight** — monitoring and constraining agent actions
