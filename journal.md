@@ -1,7 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-11 | Total entries: 1331
+Last updated: 2026-09-12 | Total entries: 1332
+
+## 2026-09-12
+- 📄 [[ai-integrated-teaching-identity-tensions]] — ‘Resistance is futile?’: identity tensions and principled selectivity in AI-integrated teaching
 
 ## 2026-09-11
 - 📄 [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI
