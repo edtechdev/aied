@@ -425,7 +425,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`neurodiversity`** — Neurodiversity
 - **`network-analysis`** — Network Analysis
 - **`online-teaching-and-learning`** — Online Teaching and Learning
-- **`open-source`** — Open Source and Open Education
+- **`open-source`** — Open Source
 - **`pedagogical-agent`** — Pedagogical Agent
 - **`pedagogical-llm-training`** — Training Pedagogical LLMs for Tutoring
 - **`pedagogical-partnerships`** — Pedagogical Partnerships — phrases: students as partners; pedagogical partnership; student partnership; co-creation; co-design; student co-design; students co-create; student voice in design
