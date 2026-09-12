@@ -1,7 +1,7 @@
 ---
 title: "Translating UNESCO Artificial Intelligence Guidelines to Chemical Education and Its Intersection with Sustainable Development Goals"
 created: "2026-08-19T12:42:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-12T00:27:00-04:00"
 type: article
 tags: [chemistry-education, educational-policy-ai, ethics, ai-literacy, higher-ed, science-education]
 audience: [instructors]
@@ -24,7 +24,7 @@ The authors synthesize recent (2024–2025) research into four pillars:
 
 ## Translating UNESCO guidance to chemistry
 
-UNESCO's *Recommendation on the Ethics of AI* (2021, adopted by 193 Member States) and its education guidance (AI and Education: Guidance for Policy-Makers; Harnessing [[higher-ed|AI in Higher Education]]; ChatGPT and Higher Education) establish global standards for [[bias-mitigation|fairness]], transparency, and [[human-in-the-loop-ai|human oversight]]. The authors translate these into chemistry-specific action:
+UNESCO's *Recommendation on the Ethics of AI* (2021, adopted by 193 Member States) and its education guidance (AI and Education: Guidance for Policy-Makers; *Harnessing AI in Higher Education*; *ChatGPT and Higher Education*) establish global standards for [[bias-mitigation|fairness]], transparency, and [[human-in-the-loop-ai|human oversight]]. The authors translate these into chemistry-specific action:
 
 - **Human-centered [[pedagogy]]** — AI should serve learning and human reasoning, not replace scientific judgment.
 - **Teacher training** — STEM/chemistry [[teacher-role|educators]] must be equipped to use AI effectively in teaching.
