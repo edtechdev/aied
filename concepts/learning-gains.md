@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-05T12:10:00-04:00"
+updated: "2026-09-12T09:18:00-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 audience: [learners]
@@ -24,6 +24,8 @@ confidence: high
 ## Introduction
 
 Learning gains are the ultimate test of any educational technology. In the knowledge base's research, they appear as dependent variables in [[rct|randomized controlled trials]], pre-post comparisons in quasi-experimental studies, and correlational analyses linking AI tool usage to academic outcomes.
+
+**Terminology.** The *outcome* sense of achievement — student achievement, academic achievement, learning achievement, prior achievement, achievement gaps — is treated as a synonym for learning gains here, and those phrases link to this page. The *felt* sense ("a sense of achievement") is a motivational experience rather than a measured outcome; see [[motivation]] and [[self-efficacy]]. Achievement-goal theory ("achievement goals", goal orientations) is likewise a motivational construct and links to [[motivation]].
 
 Key findings from the knowledge base:
 
