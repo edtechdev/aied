@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 190 concepts, 1146 articles, and 18 FAQs.
+> Complete text of 190 concepts, 1147 articles, and 18 FAQs.
 
 # Concepts
 
@@ -13404,6 +13404,12 @@ A central design goal within automated assessment is **confidence awareness**: A
 
 Automated assessment quality depends on [[assessment-validity]] and [[bias-mitigation]]. [[ai-scoring-language-bias-physics|Language bias]] research shows that automated scoring can systematically disadvantage certain student populations.
 
+### Deployment scenarios and what each one requires
+
+How much alignment an institution should demand depends on what the system is allowed to decide. In a mixed-methods study of [[opraise-automated-marking-ai-assessment-2026|761 authentic undergraduate essays at three UK universities]], three frontier models with 27 prompt configurations each reached only 35–65 percent agreement with human markers on the degree band, and accuracy did not transfer between institutions — so the report treats candidate uses as distinct scenarios rather than one decision. **Quality assurance of human marking**, where AI marks in parallel and significant differences trigger human review, is the most conservative. **A marking assistant**, ranking or categorising submissions by predicted quality or uncertainty, triaging complex cases, or expanding brief human comments into fuller feedback, is a genuine middle ground. **AI as primary marker**, with human review of a sample or of mark distributions, was judged acceptable only if system performance improves, and no stakeholder group endorsed AI as a sole marker.
+
+Three requirements follow for any of them. Because alignment is model- and institution-specific, validation must be local and continuous — headline accuracy from elsewhere is not evidence of readiness. Because marks were compressed toward the middle, AI was least accurate at the grade boundaries and for the strongest and weakest submissions, which is where assessment decisions carry the most consequence. And because disagreement between an AI and a human mark reflects different judgement rather than mere error, discrepancies should trigger human interpretation rather than algorithmic override, with final authority over the mark retained by people. Adoption also carries governance obligations the technical metrics do not capture: a right to explanation under GDPR Article 22 where automated decisions affect students, Equality Act duties once attainment level and language use are shown to influence marks, revised appeal processes for errors that are not easily caught, and an irreversibility risk — once staffing and investment shift, an institution may struggle to keep collecting the human marking it would need to return to.
+
 ### Connections
 
 Automated assessment connects to [[assessment-validity]] (quality assurance), [[formative-assessment]] (use context), [[bias-mitigation]] and [[equity-in-ai-education]] (fairness), [[teacher-role]] (how automation changes instructor work), and [[ai-feedback-quality]] (grading without useful feedback has limited educational value). Confidence-aware assessment is a specific mechanism within the broader agenda of [[psychometrically-aware-ai]] and a contributor to [[trust-calibration|calibrated trust]].
@@ -13442,6 +13448,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
@@ -13533,6 +13540,8 @@ Automated Essay Scoring has a long history in educational technology, from early
 
 **High-stakes deployment evidence.** Field evidence from a real high-stakes deployment ([[human-in-the-loop-ai-scoring-national-assessment-2026|Uruguay's *Acredita EB*, 2024–2025; Curi et al.]]) shows prompt-engineered GPT-5 reaching 60–80% agreement with trained human raters across a 15-item analytic Spanish rubric, roughly five percentage points below human inter-rater agreement for most items and never more than 15 points below, with run-to-run consistency above 90% for almost all items. Vocabulary, syntax and spelling were the weakest dimensions, and the spelling item had to be handed to a deterministic grammar checker (LanguageTool, 68% accuracy, 100% consistency) because token-level orthography is where the model is least stable. Prompts built for one exam edition transferred to the next with only topic-specific edits, and the AI was systematically stricter than humans — under-grading rather than over-grading. For AES design, the lesson is that prompting-based scoring can approach human agreement even in a national exam, while its remaining weakness sits at the level of low-level language conventions rather than holistic [[writing-education|writing]] quality.
 
+**The human benchmark, and what it can and cannot license.** [[opraise-automated-marking-ai-assessment-2026|The OpRaise study]] is the strongest test in this knowledge base of whether LLM marking is ready for routine use, and its answer turns on the benchmark rather than the model. It compared three frontier systems (Claude Opus 4.6, GPT-5.4, Gemini 3 Flash), each under 27 prompt configurations crossing rubric specificity, calibration and scoring strategy, against the moderated marks of 761 authentic Psychology essays from 125 students at three UK universities. Human marks were adopted as ground truth because academic judgement is the socially accepted standard, and the authors note that human markers agree only moderately with each other — which bounds how strong AI–human agreement could reasonably be demanded to be. Against that benchmark, agreement on the UK degree band ranged from **35 to 65 percent by institution** (63 percent at Cambridge, 53 percent at Nottingham, 35 percent at Manchester Metropolitan) and did not transfer between them, so the report's central recommendation is local validation on an institution's own assessment materials. Two findings generalise beyond this corpus. First, reliability and agreement pull apart: every model re-marked nearly identically (ICC 1.00, 1.00, 0.97) and the models agreed with each other more closely than with humans (three-model ICC 0.91), yet all three agreed on the degree band for only **56 percent** of submissions — self-consistency is not validity. Second, AI marks compressed toward the middle of the scale (a compression score of 0.47–0.82, with the crossover where AI and human agree on average sitting in the upper 50s to low 60s), making AI least accurate precisely at the grade boundaries that separate Firsts from Upper Seconds and passes from fails. Vocabulary range, connectives, sentence complexity and text length predicted AI marks with small but significant effects while their relationship with human marks was broadly negligible — a direct demonstration of the [[ai-scoring-language-bias-physics|linguistic-bias]] concern, and one that no prompting strategy tested removed.
+
 ### Connections to related concepts
 
 AES sits at the intersection of [[automated-assessment]], [[writing-education]], and [[generative-ai]]. It connects to [[formative-assessment]] when used for feedback rather than grading, to [[feedback|Feedback Loop]] when integrated into iterative writing processes, and to [[ai-literacy]] when educators understand and calibrate AES tools. The [[assessment-validity]] and [[educational-measurement]] concepts are essential for ensuring AES scores are meaningful and fair.
@@ -13550,6 +13559,7 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[ai-literacy]]
 - [[assessment-validity]]
 ## Connected Articles
+- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
 
@@ -13719,6 +13729,10 @@ The sharpest recent reframing treats the generative AI problem as an evidentiary
 
 [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] draws the procedural consequence: where prohibited use cannot be detected, a regime that still accuses on detector scores cannot warrant the inference it draws, and so produces unfairness without effectiveness. He argues for replacing the forensic question — did the student use AI? — with a validity question — did the student demonstrate the capability the task was designed to certify? — which relocates institutional effort into programme-level assessment across linked tasks, oral and supervised elements at certification points, and [[evaluative-judgement|evaluative judgement]] as an explicit object of assessment.
 
+### The human-marking benchmark and its ceiling
+
+[[opraise-automated-marking-ai-assessment-2026|The OpRaise comparison of three frontier models against 761 authentic essays across three UK universities]] makes the benchmark part of the validity argument. Human marks were used as ground truth on the explicit ground that academic judgement is the socially accepted standard, while the authors acknowledge that human markers agree only moderately with one another — which caps the AI–human agreement that could reasonably be demanded, and means a correlation cannot be read as ready-or-not without a reference point. Within that frame the failures appeared as systematic structure rather than random error: marks compressed toward the middle of the scale, so the best and worst essays were misjudged most; agreement was weakest at grade boundaries; and AI marks tracked vocabulary range, connectives and sentence complexity while human marks were broadly insensitive to them. The practical lesson is double-edged, because the same study found reliability to be excellent — identical re-marks across time and high agreement between models. A validity case for automated marking therefore cannot rest on stability or on average agreement; it has to show the absence of systematic deviation, which is exactly what this evidence did not find.
+
 ## Connected Concepts
 
 - [[authentic-assessment]]
@@ -13735,6 +13749,7 @@ The sharpest recent reframing treats the generative AI problem as an evidentiary
 - [[self-report-measures]]
 
 ## Connected Articles
+- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[kumar-genai-computing-education-systematic-review-2026]] — When AI generates the graded artefact: computing education's validity problem and redesign evidence
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Take-home exams: assess the qualitative phase, move recall in-class (Brunnström & Palmqvist 2026)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
@@ -17240,6 +17255,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - **Fairness regularizers may not generalize to new learners:** [[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]] added gender- and age-targeted error-gap regularization to a [[multimodal]] transformer predicting real-time student attention, and found it narrowed demographic disparities on *validation* data but these gains did not consistently transfer to held-out subjects or repeated subject-level splits (the regularized model reduced the gap in only 4 of 10 training runs). Certified fairness on a single split can therefore evaporate on genuinely new learners — educational AI needs leave-subjects-out, repeated-seed evaluation rather than aggregate metrics alone.
 - **Student agency:** ensuring AI empowers rather than replaces student voice and [[agency]], especially for historically marginalized learners.
 - **Psychological vs. cognitive equity:** [[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]] found a year of school AI instruction in Hong Kong secondary schools **narrowed psychological AI-readiness gaps (confidence, motivation, [[ethics|ethical]] awareness) but not cognitive ones** — objective [[ai-literacy]] gaps between self-initiated ("high-agency") learners and their peers persisted, a Matthew-effect pattern where curricula "raised the floor but did not level the playing field." Access to a curriculum alone, without sustained self-initiated [[student-engagement|engagement]], may foster psychological but not full cognitive parity.
+- **Automated marking, attainment and language.** [[opraise-automated-marking-ai-assessment-2026|The OpRaise comparison of three frontier models on 761 authentic essays]] found that AI–human disagreement varied with students' attainment level and with surface language features (vocabulary range, connectives, sentence complexity) in ways human marking did not, and that accuracy differed across three UK institutions whose cohorts differ — the authors connect this directly to institutions' duties under the UK Equality Act, on the reasoning that some student groups may be affected more than others, and note a right to explanation under GDPR Article 22 where automated marking decisions affect students. Because AI marks compressed toward the middle of the distribution, the students most exposed are those at the top and bottom of the attainment range.
 - **Prompt privilege:** [[prompt-privilege-equitable-ai-access-2026|Jin et al.]] document "prompt privilege" — users who phrase requests skillfully systematically obtain better LLM output than users expressing the same intent less adroitly — making [[prompt-engineering|prompting]] skill a silently uneven resource. Their Prompt Equity Transformer shifts prompt optimization into the system, treating equitable output as an accessibility property rather than demanding expert prompting from novices.
 
 - **The interaction-management gap.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]] reach an ambivalent conclusion about GenAI as a leveller: because productive use requires recognising an over-abstract answer, requesting simplification, and structuring a session around small goals, unguided GenAI "may be most beneficial to already advantaged students" — those with strong study habits and confidence in directing an AI — while students with weaker study skills or lower academic [[self-efficacy]] meet added complexity and frustration. Rather than substituting for missing academic conversation partners, the tool introduces a new competence whose acquisition creates its own gap; the authors conclude the responsibility for teaching it cannot rest with the student alone ([[ai-literacy]], [[self-regulated-learning]]).
@@ -17287,6 +17303,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[kumar-genai-computing-education-systematic-review-2026]] — Skill-gap vs resource-gap: two equity mechanisms requiring different remedies
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Unguided GenAI may widen gaps: the interaction-management competence (Brunnström & Palmqvist 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
@@ -61281,6 +61298,77 @@ Ivanova, T. (2026). *[Ontology-based layered hybrid AI-driven knowledge model fo
 ## Citation
 
 Oppenheimer, D. M., Cash, T. N., & Connell Pensky, A. E. (2025). [You've Got AI Friend in Me: LLMs as Collaborative Learning Partners](https://doi.org/10.1007/s40593-025-00521-6). *International Journal of Artificial Intelligence in Education*, 35, 3896–3921.
+
+---
+
+## [OpRaise Report on Automated Marking of University Essays](https://edtechdev.github.io/aied/articles/opraise-automated-marking-ai-assessment-2026/)
+
+> **Synthesis:** The OpRaise project tested whether [[automated-essay-scoring|AI could mark]] authentic undergraduate essays as well as routine human marking does, using 761 Psychology essays from 125 students across three UK universities and three frontier models with 27 prompt configurations each. Its verdict is that the systems are impressive but not "good enough": agreement on degree classification band ranged from **35 percent to 65 percent** by institution, AI marks were systematically compressed toward the middle so that the best and worst essays were marked least accurately, AI was measurably more sensitive to linguistic features than human markers were, and the three models agreed with each other far more than any of them agreed with humans. The report's central argument is not that AI marking fails, but that **evidence collected in one context does not transfer to another**, and that the decision to adopt it belongs to institutions willing to validate locally and to keep final authority with people.
+
+## Overview
+
+The report, from the OpRaise project at the University of Cambridge and funded by ai@cam, opens with the pressure that makes its question urgent: generative AI has disrupted the sector, students already seek essay feedback from LLMs, and universities under workload pressure may soon adopt AI marking as a matter of course. Rather than argue the ethics of that in the abstract, the project built a benchmark against real assessment practice.
+
+That benchmark choice is the report's methodological foundation and its most transferable idea. The mark a submission received in routine examination is not a perfect measure of its quality, and assessors of long-form essays do not perfectly align with each other because academic judgement legitimately varies. The authors adopt human marks as the benchmark anyway, on the grounds that academic judgement is the socially accepted gold standard in higher education — and they are explicit that human–human agreement is itself only moderate, which puts a logical ceiling on how strongly AI marks can reasonably correlate with human marks. Judgements about AI marking therefore have to be made against the human-human baseline rather than against perfect agreement.
+
+The evaluation separates three questions that are often conflated: **accuracy** (does AI give the same or a reasonably close mark?), **reliability** (do the same and different models give consistent marks for the same submission?), and **validity** (are there systematic deviations between human and AI marks?). The report's most striking result is that a system can perform extremely well on the second while failing the first and third.
+
+## Study Design & Method
+
+- **Corpus.** 125 students at the University of Cambridge, the University of Nottingham and Manchester Metropolitan University volunteered **761 authentic long-form undergraduate Psychology essays** — 133, 172 and 456 respectively — submitted for formal assessment between 2022 and 2025, spanning 50 modules and 87 distinct assignments across all years of study, including coursework, open-book at-home examinations and invigilated examinations. Marks were moderated 0–100 scores produced by expert human assessors through routine institutional processes.
+- **Models.** Three frontier systems from different providers, chosen on the principle that different families exhibit different biases and failure modes: **Claude Opus 4.6** (Anthropic), **GPT-5.4** (OpenAI) and **Gemini 3 Flash** (Google), all accessed through native APIs at temperature 0. Selection was constrained by the strictest privacy protections, since the dataset is sensitive; the authors note that model updates mean the results describe these specific models.
+- **Prompting.** Rather than settle on one prompt, the project crossed three dimensions — rubric specificity (none, grade boundaries only, or full analytic rubric), calibration intervention (none, base-rate distributional information, or that plus an explicit debiasing instruction) and scoring strategy (holistic direct, analytic-decomposed, or holistic-deliberative band-then-mark) — for **27 prompt configurations per model**. The best prompt per model was selected on a 20 percent calibration subset (n = 153) and then applied to the full corpus.
+- **Ensemble.** Compare four aggregation rules and report the winner, an inverse-RMSE weighted mean that scales each model's contribution by its calibration accuracy, on the reasoning that no single marker is reliably best.
+- **Qualitative strand.** Nine semi-structured focus groups of about an hour with **25 participants** (14 staff, mean age 37.48; 11 students, mean age 21.5), covering general GenAI use in academia and specifically assessment and marking, with human- and AI-produced feedback samples shown to participants; thematic analysis identified three themes.
+
+## Key Findings
+
+- **Band accuracy was moderate at best, and varied by institution.** AI and human agreed on the UK degree band (First, Upper Second, Lower Second, Third, Fail) **63 percent** of the time at Cambridge, **53 percent** at Nottingham and only **35 percent** at Manchester Metropolitan — an overall range of 35–65 percent that the report says falls short of any threshold normally considered appropriate for adopting AI marking. Mean mark differences were 5.2, 5.2 and 8.3 points, with quadratic weighted kappa of 0.61, 0.42 and 0.33 and Spearman's rho of 0.65, 0.50 and 0.36.
+- **Performance did not generalise across contexts.** Accuracy differed substantially between institutions in ways the authors attribute to assessment design, module, course, student body and institutional culture. Headline accuracy figures from one context cannot be taken as evidence that AI marking is ready elsewhere — the report's headline recommendation is therefore local validation on the institution's own materials before any deployment.
+- **Reliability was excellent — and that is not the reassuring result it looks like.** Re-scoring 100 essays over five days gave intra-class correlations of 1.00 for Gemini, 1.00 for Claude and 0.97 for GPT-5.4, with identical marks in 99, 98 and 84 percent of cases. Cross-model agreement was high too (QWK above 0.74 for all three pairs; three-model ICC = 0.91), and in over 99 percent of cases at least two models awarded the same band, with disagreements almost always confined to adjacent bands. But requiring all three models to agree on the band succeeded for only **56 percent** of submissions, and — crucially — **AI marks agreed with other AI marks more closely than with human marks**. The focus groups also found that variability among human assessors is tolerated and sometimes welcomed, while comparable variability in an AI system is not.
+- **Marks were compressed toward the middle.** Every system, and the ensemble, marked the tails least accurately: an essay a human marked 75 was on average scored several points lower by every AI system, an essay marked 50 several points higher, with the crossover where AI and human agree on average sitting in the upper 50s to low 60s. Quantified as a compression score where 1.0 would preserve the human spread, results ran from **0.47** (Cambridge, Gemini) to **0.82** (Nottingham, Claude). Prompting strategies designed to counter the bias did not remove it, and ensembling does not correct it because it is a systematic property of current-generation LLM scoring. The practical consequence is that AI is least accurate precisely at the boundaries that separate Firsts from Upper Seconds and passes from fails.
+- **AI was oversensitive to linguistic features.** Across six feature categories — vocabulary range (type-token ratio, Guiraud's index, Herdan's C, Maas's a², Dugast's U), idea connection (connectives, entity continuity), sentence complexity (parse depth, clause ratio, sentence and word length, passive ratio) and text length — relationships with AI marks were small but statistically significant, while relationships with human marks were broadly negligible. Vocabulary range was the most robust predictor of ensemble marks, with a small-to-medium effect, driven more by Gemini and Claude than by GPT.
+- **Feedback volume is not quality.** Human feedback averaged **100–200 words**; AI feedback was **three to eight times longer**. When comments were constrained to the same length, focus-group participants found it difficult to tell whether a human or a model had written them, and disagreed about whether longer feedback was better — some wanted it, others said it would put them off.
+- **Stakeholders drew a line at authority.** The advisory board agreed that final authority over marking must remain human regardless of how extensively AI is used, a position endorsed by staff, students and board members alike. AI was accepted for quality assurance, moderation, triage, feedback support, consistency checks and error detection — as a "second pair of eyes" supporting, informing or scrutinising human judgement — and rejected as the final decision-maker. Disagreements between AI and human marks were framed as signals requiring human interpretation, with large discrepancies triggering human review rather than AI override.
+
+## Implications for AI in Education
+
+**The report names three adoption scenarios and grades them.** *Quality assurance of human marking*, where AI marks in parallel and significant differences trigger review, is the most conservative. *Marking assistant*, where AI ranks or categorises submissions by predicted quality or uncertainty — triaging complex cases, ordering submissions by human preference, or expanding brief human comments into learning-oriented feedback — is a genuine middle ground. *AI as primary marker*, with human review of a sample or of distributions, is judged acceptable only if system performance improves, and stakeholders did not endorse AI as a sole marker in any form.
+
+**Assessment is a social contract, not only a marking function.** The qualitative strand found an implicit contract of respect, shared learning goals, fairness and mutual support, in which marking is where academics engage with students' thinking and students feel seen. Participants reported they would feel "cheated" by AI marking; staff worried that losing marking experience would erode skill development and job satisfaction; both groups saw the risk that reduced human contact would affect attendance and retention. The advisory board's framing — that assessment is "how students feel seen, how standards are enacted, how trust is maintained, and how institutions reproduce their own values" — is the report's answer to the efficiency case: faster marking is a real gain, but the report argues it is not a substitute for the relationship it displaces.
+
+**Governance and legal exposure follow directly from the validity findings.** Because marks depend on attainment level and language use, some student groups may be affected more than others, which the report ties to institutions' duties under the UK Equality Act; under GDPR Article 22 students have a right to explanation with greater implications in some scenarios; and because model errors may not be easily caught, appeal processes may need revision. The authors also flag an **irreversibility risk**: AI performance is model- and institution-specific, so continued review is essential, but once staffing and investment have shifted, institutions may find it hard to keep collecting high-quality human marking and to return to it even if they wish to.
+
+The recommended conditions for any deployment are evidence of stability, alignment with human judgement, and the absence of systematic bias — plus AI literacy training for all staff and students, particularly those involved in institutional decision-making.
+
+**Limitations.** The study covers a single discipline, Psychology, deliberately chosen because essays drive degree outcomes there and the discipline assesses research judgement rather than fixed results — but that focus limits generalisability to other fields and assessment types. Three UK institutions is a narrow sample of assessment cultures. The models are those available at the time of study, and the authors warn that model updates create instability, so the results describe these systems only. Model selection was constrained by privacy requirements. The qualitative sample of 25 focus-group participants is small, and the report is a project report rather than a peer-reviewed study.
+
+## Connected Concepts
+
+- [[automated-essay-scoring]]
+- [[automated-assessment]]
+- [[assessment-validity]]
+- [[bias-mitigation]]
+- [[feedback]]
+- [[teacher-role]]
+- [[ethics]]
+- [[higher-ed]]
+- [[ai-literacy]]
+
+## Connected Articles
+
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
+- [[llm-essay-scoring-feature-weighting-2026]] — Feature weighting patterns in LLM-based essay scoring
+- [[ai-scoring-language-bias-physics]] — AI scoring and language bias in physics explanations
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Human-in-the-loop AI scoring in a national assessment
+- [[llm-essay-assessment-framework-reliability-2026]] — Framework for evaluating LLMs in essay assessment
+- [[choi-anchor-aes-prompting-2025]] — Anchor-based prompting for accessible AES
+- [[gpt-human-rater-essay-assessment-2026]] — Comparing GPT and human raters in essay assessment
+- [[aivaluate-anxiety-assessment-2026]] — Student anxiety in performance-based assessments using AIvaluate
+
+## Citation
+
+OpRaise project team (2026). [AI in University Assessment: Evaluating the Opportunities and Risks of Automated Marking](https://www.emotional-cognition.psychol.cam.ac.uk/sites/default/files/OpRaise%20Report_DIGITAL.pdf). OpRaise project report, University of Cambridge, supported by ai@cam. (Project report; not peer reviewed.)
 
 ---
 
