@@ -854,7 +854,7 @@ Last updated: 2026-09-11 | Total entries: 1331
 - 📘 [[knowledge-graph]] — Knowledge Graph
 - 📘 [[benchmark]] — Benchmark
 - 📘 [[learning-gains]] — Learning Gains
-- 📘 [[higher-ed]] — AI in Higher Education
+- 📘 [[higher-ed]] — Higher Education
 - 📘 [[educational-policy-ai]] — Educational AI Policy
 - 📘 [[adaptive-learning]] — Adaptive Learning
 - 📘 [[ethics]] — Ethics

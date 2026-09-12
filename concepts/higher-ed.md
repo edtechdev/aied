@@ -1,7 +1,7 @@
 ---
-title: AI in Higher Education
+title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-12T00:27:00-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, educational-development, student-experience, academic-integrity]
 audience: [learners, instructors, faculty development, administrators]
@@ -11,7 +11,7 @@ confidence: high
 
 ---
 
-> **AI in Higher Education** — the integration of artificial intelligence into university [[teacher-role|teaching]], learning, assessment, and [[administrator|administration]]. Higher education is the most-studied context in the knowledge base, with over 100 articles examining how AI transforms college-level instruction, [[educational-policy-ai|institutional policy]], and [[student-experience|student experience]]. AI in higher education is both the dominant setting for [[ai-education|AIED]] [[research-methods-aied|research]] and the site where its tensions are most visible — between [[generative-ai|generative AI]]'s promise of scalable [[personalized-learning|personalization]] and its risks to [[academic-integrity|integrity]], [[cognitive-offloading|learning]], [[privacy]], and [[equity-in-ai-education|equity]].
+> **Higher Education** — the integration of artificial intelligence into university [[teacher-role|teaching]], learning, assessment, and [[administrator|administration]]. Higher education is the most-studied context in the knowledge base, with over 100 articles examining how AI transforms college-level instruction, [[educational-policy-ai|institutional policy]], and [[student-experience|student experience]]. AI in higher education is both the dominant setting for [[ai-education|AIED]] [[research-methods-aied|research]] and the site where its tensions are most visible — between [[generative-ai|generative AI]]'s promise of scalable [[personalized-learning|personalization]] and its risks to [[academic-integrity|integrity]], [[cognitive-offloading|learning]], [[privacy]], and [[equity-in-ai-education|equity]]. It encompasses both undergraduate and graduate study, including professional programs such as [[medical-education|medicine]] and [[business-education|business]].
 
 ## Questions to Consider
 
