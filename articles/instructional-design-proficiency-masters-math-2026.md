@@ -1,7 +1,7 @@
 ---
 title: "Improving Instructional Design Proficiency of Master's Students in Mathematics Education Through Intelligent Educational Technologies"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-01T12:00:00-04:00"
+updated: "2026-09-12T00:40:00-04:00"
 type: article
 sources: ["raw/papers/instructional-design-proficiency-masters-math-2026.md"]
 tags: ["learning-design", "math-education", "teacher-education", "educational-development", "intelligent-tutoring"]
@@ -35,6 +35,7 @@ Zhu and colleagues address a gap in [[learning-design]] for [[discipline-specifi
 - [[teacher-education]]
 - [[educational-development]]
 - [[intelligent-tutoring]]
+- [[higher-ed]]
 
 ## Connected Articles
 
