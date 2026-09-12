@@ -5,7 +5,7 @@
 > **Policy (2026-08-23):** an article is only added to this backlog (never ingested as an abstract-only wiki page) when its **full text cannot be retrieved** — e.g. the publisher blocks scraping with CAPTCHA, or the fetch times out. The maintainer downloads the PDF and sends it for full-text ingestion.
 
 **Last updated:** 2026-09-12
-**Total backlog:** 0 new articles · 62 truncated source texts awaiting PDFs
+**Total backlog:** 0 new articles · 54 truncated source texts awaiting PDFs
 
 ## Computers and Education: Artificial Intelligence (CAEAI)
 
@@ -114,27 +114,6 @@ cap and enrich the page from the recovered text.
 - **RACES: reward-aligned consistent essay scoring with large language models** — `zhang-races-consistent-essay-scoring-llms-2026` (html_failed)
   - https://doi.org/10.1186/s41239-026-00607-8
 
-### arxiv.org
-
-_Retried against the arXiv PDF: the retrieved text is the same length or shorter, so only the reference list is cut off. No PDF needed._
-
-- **2605.05958** — `2605.05958` (not attempted)
-  - https://arxiv.org/abs/2605.05958
-- **2605.21361** — `2605.21361` (not attempted)
-  - https://arxiv.org/abs/2605.21361
-- **2605.26769** — `2605.26769` (not attempted)
-  - https://arxiv.org/abs/2605.26769
-- **2606.16428** — `2606.16428` (not attempted)
-  - https://arxiv.org/abs/2606.16428
-- **2606.26579** — `2606.26579` (not attempted)
-  - https://arxiv.org/abs/2606.26579
-- **2607.08698** — `2607.08698` (not attempted)
-  - https://arxiv.org/abs/2607.08698
-- **2608.03531** — `2608.03531` (not attempted)
-  - https://arxiv.org/abs/2608.03531
-- **2608.04166** — `2608.04166` (not attempted)
-  - https://arxiv.org/abs/2608.04166
-
 ### ASEE conference proceedings
 
 - **Artificial Intelligence (AI) and the Future of the Engineering and Computing Workforce: A Systematic Review of Grey Literature and Document Analysis of U.S. Reports (2020–2025)** — `ai-engineering-computing-workforce-grey-literature-2026` (not attempted)
@@ -174,3 +153,21 @@ _Retried against the arXiv PDF: the retrieved text is the same length or shorter
 
 - **Fostering collaborative futures: Multidisciplinary approaches to AI integration in educational ecosystems** — `fostering-collaborative-futures-ai-ecosystems-2026` (html_failed)
   - 10.1016/j.caeo.2026.100405
+
+## Checked — no further text available
+
+arXiv copies of these were fetched and extracted; the retrieved text is the same
+length or shorter than what is stored, so nothing is missing beyond the tail of the
+reference list. The last three were supplied directly as PDFs and are now stored in full.
+
+- `2605.05958` — https://arxiv.org/abs/2605.05958
+- `2605.21361` — https://arxiv.org/abs/2605.21361
+- `2605.26769` — https://arxiv.org/abs/2605.26769
+- `2606.16428` — https://arxiv.org/abs/2606.16428
+- `2606.26579` — https://arxiv.org/abs/2606.26579
+- `2607.08698` — https://arxiv.org/abs/2607.08698
+- `2608.03531` — https://arxiv.org/abs/2608.03531
+- `2608.04166` — https://arxiv.org/abs/2608.04166
+- `2605.05598` — supplied as a PDF; stored text completed and verified
+- `2605.21613` — supplied as a PDF; the supplied version carried less text than the copy already stored, so the longer stored copy was kept
+- `2607.11873` — supplied as a PDF; stored text completed and verified
