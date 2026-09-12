@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-07T09:09:07-04:00"
+updated: "2026-09-12T16:00:00-04:00"
 type: concept
 tags: [feedback, ai-feedback-quality, feedback-literacy, formative-assessment, peer-review, automated-assessment, assessment]
 connected_faqs: [developing-ai-tutor]
@@ -81,6 +81,8 @@ The "assessment for learning" paradigm reframes feedback as an overarching philo
 
 The knowledge base's core feedback insight is that **feedback quality and feedback literacy are two sides of one system**: high-quality feedback is inert without a literate recipient, and a literate student gains little from poor feedback. [[ai-feedback-quality]] covers the provision side (is the feedback accurate, timely, actionable?), while [[feedback-literacy]] covers the uptake side (can the student judge and act on it?). The feedback loop is what connects them — the mechanism by which quality feedback, received by a literate learner, closes the gap. Designing effective AI feedback therefore means designing both the system and the student.
 
+A two-layer model shows how the pairing can be organized around a machine without delegating judgement to it. In [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma's worked example]], an agent produces a draft rubric-based evidence report on each transcript with every rating tied to quoted excerpts, and the instructor then reviews the report, leads a debrief and decides what the evidence means for that student — a division the authors summarise as the AI organizing evidence while the instructor interprets it. Their claim about uptake is appraisal-based: feedback and iteration outside the social hierarchies students navigate with peers and instructors are easier to attempt, and rehearsal at the student's own pace is what they argue turns occasional confidence into a settled habit of engaging with feedback.
+
 ### Why feedback matters for AI in education
 
 Feedback is one of the most consequential and best-evidenced mechanisms in education, and AI both amplifies and complicates it. Well-architected AI feedback can match or exceed human feedback and scale across cohorts, but it demands new learner capabilities ([[feedback-literacy]], [[ai-literacy]]) and carries risks (uncritical acceptance, [[cognitive-offloading|Over-Reliance]]). As AI-generated feedback becomes ubiquitous, the knowledge base frames feedback as a whole system — quality, loop, literacy, and assessment context working together — rather than as any single component.
@@ -103,6 +105,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[writing-education]]
 
 ## Connected Articles
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)

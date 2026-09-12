@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-12T14:25:00-04:00"
+updated: "2026-09-12T16:00:00-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education]
@@ -44,6 +44,8 @@ confidence: high
 - **Decision-oriented validity for AI scoring at scale:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] illustrate a decision-oriented view of validity in the Acredita EB national writing assessment: rather than asking only whether [[automated-assessment|AI scores]] agree with humans, they ask whether AI errors can change a certification decision. Automated [[item-response-theory|IRT/Bookmark]] cut scores closely reproduced the operational cut scores, and systematic AI under-grading was neutralised by routing failing AI results to [[human-in-the-loop-ai|human review]] — notably against a reference standard that is itself contested, since ten expert raters scoring the same 50 texts never reached unanimity on any rubric item.
 - **Student-side validity concerns about AI as grader:** [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] adds the learner's voice to the validity question: 13 computing students whose handwritten writing task was scored by ChatGPT questioned whether an AI scorer can validly interpret intent, effort and institutional grading norms — one asking pointedly, "If ChatGPT [is] checking the exams, why are we going to university?"
 
+A conceptual proposal raises a validity boundary that applies to every AI-mediated assessment on this page: [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma (2026)]] argue that speed is not validity, and that AI-generated prompts, examples and transcript-based reports still have to be tested for accuracy, cultural responsiveness, accessibility, interpretability and alignment with course outcomes. They also widen what counts as evidence: where dialogue becomes the assessed artefact, the transcript is a process record in which judgement, empathy, clarification and shared decision-making unfold in context, and the design question becomes whether that evidence supports the inference drawn from it — the same question automated scoring faces, answered by alignment among task, feedback and evidence of learning rather than by technological novelty.
+
 ### Redesign over detection
 
 The knowledge base argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not [[ai-detection|detecting AI use]]. A parallel validity problem runs through research measurement: many AI-in-education claims rest on [[self-report-measures|self-report data]], which cannot support an inference about learning or competence however well the instrument itself is validated. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[assessment]] represent validity-forward thinking.
@@ -84,6 +86,7 @@ The sharpest recent reframing treats the generative AI problem as an evidentiary
 - [[self-report-measures]]
 
 ## Connected Articles
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[kumar-genai-computing-education-systematic-review-2026]] — When AI generates the graded artefact: computing education's validity problem and redesign evidence
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Take-home exams: assess the qualitative phase, move recall in-class (Brunnström & Palmqvist 2026)
