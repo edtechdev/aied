@@ -2,7 +2,7 @@
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-12T08:55:00-04:00"
-connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
+connected_faqs: [writing-instruction-ai-best-practices, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
 level: [higher ed, k 12]

@@ -6,7 +6,7 @@ type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 discipline: [language learning, writing education]
 level: [higher ed]
-connected_faqs: [developing-ai-tutor]
+connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 ---
 

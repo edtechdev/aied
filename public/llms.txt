@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base
-> A comprehensive knowledge base of 189 concepts, 1145 research articles, and 17 FAQs covering AI in education — frameworks, methodologies, and papers.
+> A comprehensive knowledge base of 189 concepts, 1145 research articles, and 18 FAQs covering AI in education — frameworks, methodologies, and papers.
 
 ## Concepts
 
@@ -212,6 +212,7 @@
 - [How Can I Reduce AI Cheating in My Course?](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/): **The strongest direction in the knowledge base is to rely less on detection and more on structural assessment design, explicit expectations, learning verification, and ai-literacy.** The academic-integrity synthesis reports substantial limitations in AI-text detection and argues that academic integrity in the generative-ai era is increasingly an assessment-design problem rather than simply a dete
 - [What are notable gaps in the research literature on AI in Education?](https://edtechdev.github.io/aied/faqs/research-gaps-aied/): The most consequential gaps in AI in Education (AIED) concern **whether particular educational designs produce durable benefits, for whom, through which mechanisms, and under what conditions—not simply whether AI can perform educational tasks**. The knowledge base documents promising interventions alongside persistent weaknesses in measurement, causal inference, generalizability, implementation, a
 - [What are the Top 10 Findings from AI in Education Research That Instructors Should Know About?](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): Across the knowledge base's synthesis of current research, the most important message for college instructors is not simply "use AI" or "ban AI." **How AI is embedded in the learning activity determines whether it amplifies thinking or replaces it.** The evidence is also uneven: many GenAI studies are recent, short-term, and context-specific, so these are best read as high-value findings rather th
+- [What Are Best Practices for Writing Instruction in the Context of AI?](https://edtechdev.github.io/aied/faqs/writing-instruction-ai-best-practices/): This FAQ is written for instructors who have to decide, course by course and assignment by assignment, what AI should be allowed to do in student writing. It draws on the AI in Education knowledge base, especially its syntheses of writing-education, cognitive-offloading, ai-feedback-quality, feedback-literacy, and academic-integrity.
 
 ## Articles
 
