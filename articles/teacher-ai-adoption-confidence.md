@@ -1,7 +1,7 @@
 ---
 title: "AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes"
 created: "2026-05-14T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-12T02:30:00-04:00"
 type: article
 tags: [teacher-role, educational-development, k-12, ai-literacy, teacher-ai-competency, higher-ed, change-management]
 research_method: [survey]
@@ -11,15 +11,35 @@ sources: ['raw/papers/2605.00343.md']
 confidence: high
 ---
 
-A study of 260 Filipino teachers examined how [[governance|institutional]] support, teacher confidence, and teacher concerns influence AI adoption attitudes:
+> **Synthesis:** A survey of 260 teachers in Pampanga, the Philippines, finds that [[governance|institutional]] support predicts both teacher confidence and positive attitudes toward AI adoption, and that confidence *fully mediates* the support–attitude link: support shapes attitudes mainly by building confidence rather than directly. Teacher concerns neither moderated nor directly predicted either outcome.
 
-- **Institutional support significantly predicted both teacher confidence and positive attitudes toward AI adoption.**
-- **Teacher concerns did NOT moderate these relationships** — concerns didn't weaken or strengthen the effect of support.
-- **Full mediation**: The effect of institutional support on AI adoption attitudes worked entirely through increased teacher confidence.
+## Overview
 
-## Practical Implications
+AI tools are entering classrooms, but teachers differ in how ready they are to adopt them. This study examines how institutional support, teacher confidence, concerns and attitudes influence AI adoption in education. Grounded in the Unified Theory of Acceptance and Use of Technology (UTAUT), it treats institutional support as a facilitating condition, confidence as self-efficacy, concerns as inhibitors, and attitudes as behavioural intention.
 
-This paper provides empirical clarity for [[teacher-role]] policy: institutional support matters, but it only helps if it builds teacher confidence. Simply providing tools or mandates without confidence-building will not shift attitudes. The finding that concerns did not moderate the relationships suggests that addressing concerns directly may be less effective than building confidence through support, aligning with [[educational-development]] on the importance of hands-on experience.
+The problem: many teachers struggle with adoption because of limited training, unreliable access to technology, and concerns about ethics and data privacy, yet few studies examine how support, confidence and concerns interact to shape attitudes toward AI. The paper therefore tests whether teacher concerns weaken or change the effect of institutional support on confidence and attitudes, and whether confidence explains how support produces more positive attitudes. Clarifying these relationships is meant to show where schools should focus to raise [[teacher-ai-competency|teacher readiness]].
+
+## Study Design & Method
+
+- **Design.** Quantitative, cross-sectional survey analysed with moderated multiple regression, followed by a mediation analysis using the Baron and Kenny method and the Sobel test to evaluate the indirect effect. Analysis was conducted in Python and Jupyter Notebook.
+- **Sample.** Purposive sampling produced 260 teachers from Pampanga, Philippines: 52 elementary, 161 secondary and 47 college educators, spanning educational levels and teaching disciplines. Over 75% of participants were female and approximately 80% were licensed professional teachers; ages ranged from 22 to 59 years and teaching experience from 1 to 36 years.
+- **Instrument.** A 35-item survey measured the four constructs on a five-point Likert scale (1 = strongly disagree to 5 = strongly agree). Two educational technology experts assessed content validity against the theoretical constructs, and reliability analysis confirmed strong internal consistency across all constructs (α > 0.70).
+- **Procedure.** Data were collected through pen-and-paper surveys and Google Forms, with permissions secured from school heads and supervisors beforehand.
+
+## Key Findings
+
+- Teachers reported strongly positive attitudes toward AI (mean = 4.92, SD = 0.86), low concern about adoption (mean = 2.14, SD = 0.89) and high confidence in using AI tools (mean = 4.72, SD = 0.89); confidence in handling technical issues was comparatively lower.
+- Perceived institutional support was strong (mean = 4.32, SD = 1.08), particularly access to devices, software and ethical guidelines, while support for internet reliability and infrastructure was only moderate.
+- **Support drove confidence.** Institutional support had a strong, significant positive effect on confidence (β = 0.537, p < 0.001); the model accounted for 47.6% of the variance in confidence (R² = 0.476) with strong overall fit (F = 87.35, p < 0.001).
+- **Concerns did not moderate.** Concerns did not significantly moderate the support–confidence relationship (β = 0.021, p = 0.661) and had no direct effect on confidence (β = −0.104, p = 0.625).
+- **Attitudes were driven by confidence, not support.** Confidence had a strong positive effect on attitudes (β = 0.855, p < 0.001); the direct effect of support on attitudes was not significant (β = 0.128, p = 0.106). Concerns neither predicted attitudes (β = 0.220, p = 0.151) nor moderated the support–attitude relationship (β = −0.047, p = 0.173). The model explained 74.2% of the variance in attitudes (R² = 0.742, F = 205.9, p < 0.001).
+- **Full mediation.** In the mediation model, support predicted confidence (β = 0.58, p < .001) and confidence predicted attitudes (β = 0.85, p < .001), but with confidence in the model the direct effect of support on attitudes became non-significant (β = 0.03, p = .385). The indirect effect through confidence (a × b = 0.4961) was significant on the Sobel test (z = 12.63, p < .001).
+
+## Implications
+
+For instructors and faculty developers, the practical reading is that support is necessary but not sufficient: it improves attitudes chiefly by raising confidence, so structured professional development, mentoring and technical assistance matter more than tool provision or mandates alone. Because concerns neither moderated nor directly drove the relationships, addressing apprehension head-on may be less productive than building [[self-efficacy]] through hands-on experience — a point of contact with [[educational-development]] and [[ai-literacy]].
+
+For institutions and policy, the authors argue that resistance to AI often reflects systemic support gaps rather than individual reluctance, and recommend embedding AI literacy in [[teacher-education]] programmes. A limitation worth noting for readers is that the findings come from one Philippine province, so generalization to other contexts is a hypothesis rather than a result.
 
 ## Connected Concepts
 
