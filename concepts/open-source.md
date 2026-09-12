@@ -10,7 +10,7 @@ category: [curriculum design]
 confidence: medium
 ---
 
-> **Open Source and Open Education** — the use of openly licensed *models, code, data, and content* in [[ai-education|AI in education]]. Openness is the knowledge base's main counterweight to vendor lock-in and [[privacy|data exposure]]: open-weight models can run on campus hardware to satisfy FERPA, GDPR, and EU AI Act obligations ([[lata-ferpa-compliant-local-llm-autograder]], [[programming-its]]), openly licensed corpora can be indexed and fine-tuned without publisher permission ([[shen-sustainable-ai-knowledge-base-cs-education-2026]]), and open benchmark and dataset releases make [[research-methods-aied|research]] replicable ([[astra-multi-agent-tutoring-benchmark-2026]], [[stanbkt-bayesian-knowledge-tracing]]). The burdens are equally real: infrastructure and [[pedagogical-safety|safety]] assurance, maintenance that outlives the grant, and quality that openness does not by itself guarantee.
+> **Open Source and Open Education** — the use of openly licensed *models, code, data, and content* in [[ai-education|AI in education]]. Openness is the knowledge base's main counterweight to vendor lock-in and [[privacy|data exposure]]: open-weight models can run on campus hardware to satisfy FERPA, GDPR, and EU AI Act obligations, openly licensed corpora can be indexed and fine-tuned without publisher permission, and open benchmark and dataset releases make [[research-methods-aied|research]] replicable. The burdens are equally real: infrastructure and [[pedagogical-safety|safety]] assurance, maintenance that outlives the grant, and quality that openness does not by itself guarantee.
 
 ## Questions to Consider
 
