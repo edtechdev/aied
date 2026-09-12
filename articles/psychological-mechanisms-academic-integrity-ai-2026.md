@@ -23,7 +23,7 @@ confidence: high
 
 ## Implications
 
-- AI-assisted [[academic-integrity|academic dishonesty]] should be addressed psychologically, not treated only as a technological or disciplinary issue; interventions should target procrastination, helplessness, and [[self-efficacy|self-efficacy]].
+- AI-assisted [[academic-integrity|academic dishonesty]] should be addressed psychologically, not treated only as a technological or disciplinary issue; interventions should target procrastination, helplessness, and [[self-efficacy]].
 - Because AI use amplifies dishonest tendencies, simply restricting AI tools may be insufficient; building academic self-efficacy and [[self-regulated-learning|self-regulation]] is protective.
 - Supporting students' sense of control and reducing learned helplessness may reduce substitutive, dependency-producing AI use.
 - [[governance|Institutional]] integrity efforts should attend to social norms, peer behaviour, and expectations, and invest in [[ethics|ethical and moral education]] as a protective factor.

@@ -11,7 +11,7 @@ source_url: 'https://doi.org/10.3389/feduc.2026.1826174'
 confidence: high
 ---
 
-> **Student AI disclosure is not only a matter of policy compliance — it is an [[affective-computing|affective]] process intertwined with [[self-regulated-learning|self-regulated learning]].** Chang, Lin, Huang, and Ryoo (2026), studying 78 [[higher-ed|undergraduates]], find that students' worries about judgment, stigma, dependence, and replacement are associated with greater concealment and peer-only disclosure, while teacher-directed disclosure is consistent with adaptive [[help-seeking]]. A key finding: **anxiety does not suppress disclosure wholesale — it redirects it** toward safer peer outlets, cutting students off from the instructor [[feedback|feedback]] that could calibrate their AI use. Disclosure norms vary by discipline and language, and do not develop automatically with academic progression.
+> **Student AI disclosure is not only a matter of policy compliance — it is an [[affective-computing|affective]] process intertwined with [[self-regulated-learning|self-regulated learning]].** Chang, Lin, Huang, and Ryoo (2026), studying 78 [[higher-ed|undergraduates]], find that students' worries about judgment, stigma, dependence, and replacement are associated with greater concealment and peer-only disclosure, while teacher-directed disclosure is consistent with adaptive [[help-seeking]]. A key finding: **anxiety does not suppress disclosure wholesale — it redirects it** toward safer peer outlets, cutting students off from the instructor [[feedback]] that could calibrate their AI use. Disclosure norms vary by discipline and language, and do not develop automatically with academic progression.
 
 ## Key Findings
 

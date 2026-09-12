@@ -74,7 +74,7 @@ Bernstein and Sibia (2026) show that [[generative-ai|GenAI]]-generated analogies
 
 ### Refutation-style corrections for common AI misconceptions
 
-Because misconceptions are actively held and resistant, the most direct way to address them — including on this page — is the [[refutation-text|refutation-text]] structure: **name the misconception, explicitly refute it, and state the correct conception.** The entries below apply that structure to the most consequential misconceptions about AI and about learning, teaching, and education:
+Because misconceptions are actively held and resistant, the most direct way to address them — including on this page — is the [[refutation-text]] structure: **name the misconception, explicitly refute it, and state the correct conception.** The entries below apply that structure to the most consequential misconceptions about AI and about learning, teaching, and education:
 
 **"AI is always right."** *That's a misconception.* AI output is a probabilistic completion, not a verified fact. *The correction:* LLMs generate plausible-sounding text based on statistical patterns; they can [[hallucination-risk|hallucinate]], be biased, and be confidently wrong. Treat output as a draft to be checked against sources, not an authority to be accepted. This is the core of [[trust-calibration]] and why "always verify" beats "always trust."
 
@@ -86,13 +86,13 @@ Because misconceptions are actively held and resistant, the most direct way to a
 
 **"AI understands like a person."** *That's a misconception.* Models have no intent, memory of you, or genuine understanding of your context. *The correction:* anthropomorphising AI leads to over-trust and reliance on explanations the model cannot actually ground. Keep the boundary clear: AI is a powerful tool, not a mind.
 
-**"AI will transform education automatically."** *That's a misconception.* Technology alone does not change learning; it is the pedagogy around it that does. *The correction:* AI's benefits depend on intentional [[learning-design|instructional design]], teacher preparation, and institutional support — not on simply deploying the tool. This is why [[ai-ed-evaluation|evidence]] and [[research-methods-aied|rigorous evaluation]] matter, and why the knowledge base frames responsible AI use as a [[governance|governance]] and [[educational-policy-ai|policy]] question rather than a purely technical one.
+**"AI will transform education automatically."** *That's a misconception.* Technology alone does not change learning; it is the pedagogy around it that does. *The correction:* AI's benefits depend on intentional [[learning-design|instructional design]], teacher preparation, and institutional support — not on simply deploying the tool. This is why [[ai-ed-evaluation|evidence]] and [[research-methods-aied|rigorous evaluation]] matter, and why the knowledge base frames responsible AI use as a [[governance]] and [[educational-policy-ai|policy]] question rather than a purely technical one.
 
 **"One prompt should give me the answer."** *That's a misconception.* Output is non-deterministic and prompt-sensitive. *The correction:* expect to iterate, refine, and cross-check; the "prompting gap" — mistaking shallow first results for the tool's ceiling — is a skill problem, not a tool limit. Developing this is part of [[prompt-engineering]].
 
 **"It's not cheating if a person didn't write it."** *That's a misconception.* Academic integrity is about the honest, attributable production of work, not just about not copying a person. *The correction:* undisclosed AI-generated submission can violate [[academic-integrity]] even when no human was copied; the question is whether the work is genuinely the learner's. When in doubt, disclose and check your institution's policy.
 
-These refutations are deliberately written in the [[refutation-text|refutation-text]] form so they can themselves be used (or adapted into interactive [[conversational-ai|AI dialogue]]) to confront and correct misconceptions about AI — and about learning, teaching, and education more broadly.
+These refutations are deliberately written in the [[refutation-text]] form so they can themselves be used (or adapted into interactive [[conversational-ai|AI dialogue]]) to confront and correct misconceptions about AI — and about learning, teaching, and education more broadly.
 
 ## Connected Concepts
 
