@@ -1062,7 +1062,7 @@ Last updated: 2026-09-11 | Total entries: 1331
 - 📘 [[prompt-engineering]] — Prompt Engineering
 - 📘 [[educational-nlp]] — Educational NLP
 - 📘 [[item-response-theory]] — Item Response Theory
-- 📘 [[open-source]] — Open Source and Open Education
+- 📘 [[open-source]] — Open Source
 - 📘 [[affective-computing]] — Affective Computing
 - 📘 [[reinforcement-learning]] — Reinforcement Learning
 - 📘 [[desirable-difficulties]] — Desirable Difficulties
