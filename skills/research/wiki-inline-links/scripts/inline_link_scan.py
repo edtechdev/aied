@@ -294,6 +294,28 @@ AUTO_APPLY_DENYLIST = {
     'achievement', 'stakeholder', 'stakeholders', 'administrators', 'admin',
 }
 
+# (matched phrase, target slug) pairs that are semantically WRONG: never link them,
+# in report mode or apply mode. Matching is purely lexical, so a word can appear in a
+# sense that has nothing to do with the concept page it maps to; each entry below was
+# an actual false positive found on a real page. Add a pair whenever a link has to be
+# hand-reverted, so the same mistake cannot recur in a later batch.
+REJECTED_HITS = []  # populated during a scan; reported so suppressed matches stay visible
+
+REJECT_PAIRS = {
+    ('research', 'research-methods-aied'),           # "a public research university"
+    ('researchers', 'research-methods-aied'),        # "for researchers, the study argues"
+    ('teaching', 'teacher-role'),                    # verb sense: "teaching feedback evaluation"
+    ('evaluation', 'ai-ed-evaluation'),              # "peer and AI evaluation" != evaluating AI
+    ('ai evaluation', 'ai-ed-evaluation'),
+    ('achievement', 'learning-gains'),               # "a sense of achievement"
+    ('bilingual', 'multilingual-learning'),          # prompt language, not learner population
+    ('transparency', 'explainable-ai'),              # institutional transparency, not XAI
+    ('engagement', 'student-engagement'),            # "active engagement with GenAI" (academics)
+    ('active engagement', 'student-engagement'),
+    ('situated', 'situated-learning'),               # adjectival: "identity is situated"
+    ('framing ai', 'framing-ai-use-for-students'),   # teacher framing AI, not guidance design
+}
+
 def build_term2slug(concepts, slug):
     term2slug = {}
     for tgt, terms in ALIASES.items():
@@ -325,6 +347,14 @@ def find_mentions(nar, slug, concepts, apply_mode=False):
     for term in sorted(term2slug, key=lambda x: -len(x)):
         tgt = term2slug[term]
         if tgt == slug or tgt in linked:
+            continue
+        if (term, tgt) in REJECT_PAIRS:
+            # Known semantic false positive: record it for the report, never link it.
+            for m in re.finditer(r'(?<![a-zA-Z])' + re.escape(term) + r'(?![a-zA-Z])', nar, re.I):
+                if line_has_heading_at(nar, m.start()) or is_in_link(nar, m.start()):
+                    continue
+                REJECTED_HITS.append((term, tgt))
+                break
             continue
         if apply_mode and term in AUTO_APPLY_DENYLIST:
             continue
@@ -405,6 +435,7 @@ def main():
     total_applied = 0
     for slug, d in pages:
         path = f'{wiki}/{d}/{slug}.md'
+        del REJECTED_HITS[:]
         try:
             n, edits, _ = apply_links(path, slug, concepts, dry_run=not apply_mode)
         except Exception as e:
@@ -419,6 +450,9 @@ def main():
                 seen = {}
                 for pos, length, new, disp, tgt in edits:
                     print(f"  -> [[{tgt}]]  from: {disp}")
+            if REJECTED_HITS:
+                print(f"  (suppressed by REJECT_PAIRS: " +
+                      ', '.join(f"'{t}'->{g}" for t, g in sorted(set(REJECTED_HITS))) + ")")
     if apply_mode:
         print(f"\nTotal links applied across {len(pages)} page(s): {total_applied}")
 
