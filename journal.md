@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-12 | Total entries: 1332
+Last updated: 2026-09-12 | Total entries: 1333
 
 ## 2026-09-12
+- 📄 [[student-genai-use-views-writing]] — Student Use of and Views on GenAI for Writing
 - 📄 [[ai-integrated-teaching-identity-tensions]] — ‘Resistance is futile?’: identity tensions and principled selectivity in AI-integrated teaching
 
 ## 2026-09-11
