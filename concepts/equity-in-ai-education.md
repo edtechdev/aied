@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-11T11:56:00-04:00"
+updated: "2026-09-12T09:15:00-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 discipline: [language learning]
@@ -15,7 +15,7 @@ connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-e
 
 ## Questions to Consider
 
-- Providing AI tools to a school or classroom does not automatically close achievement gaps — in fact, access alone can widen them. If 'access is not enough,' what else has to be in place for AI to actually serve all learners fairly?
+- Providing AI tools to a school or classroom does not automatically close [[learning-gains|achievement gaps]] — in fact, access alone can widen them. If 'access is not enough,' what else has to be in place for AI to actually serve all learners fairly?
 - Even the data used to *simulate* learners carries bias: when LLMs generated student vignettes, different models produced more Global North or Global South profiles and gendered pronouns. How much should we trust AI-generated representations of learners when the models themselves encode uneven priors?
 - Equity in AI education is often framed around three concerns: who gets the tools (access), who is represented in them (representation), and who benefits (outcomes). Can you think of a situation where a group gets access but still doesn't benefit? What explains the gap?
 - Research on 'structural silence' argues that speakers of underrepresented languages are disadvantaged by AI infrastructure — training corpora, tokenization, benchmarks — *before any model is even trained*. If the disadvantage is baked into the infrastructure, where does fixing it start?

@@ -1,7 +1,7 @@
 ---
 title: "AI-Supported Inquiry-Based Learning in Photosynthesis and Respiration: Implications for Sustainable Science Teacher Education"
 created: "2026-08-24T08:46:00-04:00"
-updated: "2026-08-24T08:46:00-04:00"
+updated: "2026-09-12T09:15:00-04:00"
 type: article
 tags: [inquiry-based-learning, teacher-education, science-education, computational-thinking, ai-literacy, biology-education, generative-ai]
 audience: [instructors, faculty development]
@@ -25,7 +25,7 @@ confidence: medium
 
 The study addressed a gap in [[teacher-education|teacher education]] research: most work on AI focuses on [[ai-literacy|AI literacy]], attitudes, and self-assessed competence, whereas [[discipline-specific-aied|discipline-specific]] interventions that engage pre-service teachers in generating, evaluating, and communicating scientific evidence are rarer. Photosynthesis and cellular respiration were chosen as contexts because both require coordinating matter-and-energy transformations across molecular, cellular, organismal, and ecosystem levels, and because [[teacher-education|pre-service teachers]] persistently struggle to distinguish respiration from breathing and to move beyond input–output descriptions of photosynthesis.
 
-Using [[inquiry-based-learning|guided inquiry]], the [[research-methods-aied|researcher]] designed an integrated instructional environment in which AI supported disciplinary reasoning rather than serving as a standalone tool. Participants were drawn from two intact classes of a General Biology II course via purposive sampling; the higher-achieving section was assigned to the control condition to avoid giving the experimental group an initial advantage, though the authors note that class membership, prior achievement, and intervention effects cannot be fully separated. Outcome instruments included the Artificial Intelligence Literacy Scale, the Computational Thinking Skills Scale (self-report, hence "self-perceived computational thinking skills," SPCTS), and researcher-developed photosynthesis and respiration concept tests scored with a four-level rubric (91% inter-rater agreement).
+Using [[inquiry-based-learning|guided inquiry]], the [[research-methods-aied|researcher]] designed an integrated instructional environment in which AI supported disciplinary reasoning rather than serving as a standalone tool. Participants were drawn from two intact classes of a General Biology II course via purposive sampling; the higher-achieving section was assigned to the control condition to avoid giving the experimental group an initial advantage, though the authors note that class membership, [[learning-gains|prior achievement]], and intervention effects cannot be fully separated. Outcome instruments included the Artificial Intelligence Literacy Scale, the Computational Thinking Skills Scale (self-report, hence "self-perceived computational thinking skills," SPCTS), and researcher-developed photosynthesis and respiration concept tests scored with a four-level rubric (91% inter-rater agreement).
 
 ## Intervention
 
