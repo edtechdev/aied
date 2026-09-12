@@ -86,7 +86,8 @@ ALIASES = {
     'ai-detection': ['plagiarism detection', 'ai text detection', 'detection', 'ai detection'],
     'ethics': ['ethical', 'ethical considerations', 'ethics'],
     'agency': ['learner agency', 'student agency', 'agency', 'user agency'],
-    'motivation': ['motivation', 'motivational', 'intrinsic motivation', 'extrinsic motivation'],
+    'motivation': ['motivation', 'motivational', 'intrinsic motivation', 'extrinsic motivation',
+                   'achievement goals', 'achievement goal', 'goal orientation', 'goal orientations'],
     'metacognition': ['metacognitive', 'metacognition', 'meta-cognition', 'meta-cognitive'],
     'higher-ed': ['higher education', 'higher-ed', 'university', 'universities', 'postsecondary',
                   'post-secondary', 'college', 'undergraduate', 'undergraduates', 'college students', 'tertiary'],
@@ -160,7 +161,9 @@ ALIASES = {
     'teacher-education': ['teacher training', 'teacher education', 'preservice teachers', 'preservice',
                           'initial teacher'],
     'professional-training': ['professional training', 'vocational training'],
-    'learning-gains': ['learning gains', 'learning outcomes', 'achievement', 'academic achievement', 'academic performance'],
+    'learning-gains': ['learning gains', 'learning outcomes', 'achievement', 'academic achievement',
+                       'academic performance', 'student achievement', 'learning achievement',
+                       'prior achievement', 'achievement gap', 'achievement gaps'],
     'research-methods-aied': ['research methods', 'methodological', 'study design', 'research', 'researcher', 'researchers'],
     'limitations-in-aied-research': ['limitations', 'limitation'],
     'meta-analysis-systematic-review': ['systematic review', 'meta-analysis', 'meta-analytic', 'systematically review',
@@ -307,7 +310,9 @@ REJECT_PAIRS = {
     ('teaching', 'teacher-role'),                    # verb sense: "teaching feedback evaluation"
     ('evaluation', 'ai-ed-evaluation'),              # "peer and AI evaluation" != evaluating AI
     ('ai evaluation', 'ai-ed-evaluation'),
-    ('achievement', 'learning-gains'),               # "a sense of achievement"
+    ('sense of achievement', 'learning-gains'),      # a felt sense, not a measured outcome
+    ('feeling of achievement', 'learning-gains'),
+    ('feelings of achievement', 'learning-gains'),
     ('bilingual', 'multilingual-learning'),          # prompt language, not learner population
     ('transparency', 'explainable-ai'),              # institutional transparency, not XAI
     ('engagement', 'student-engagement'),            # "active engagement with GenAI" (academics)
@@ -339,6 +344,23 @@ def line_has_heading_at(nar, pos):
     le = len(nar) if le == -1 else le
     return nar[ls:le].lstrip().startswith('#')
 
+def context_rejected(nar, s, e, tgt):
+    """True if a REJECT_PAIRS phrase *covering this span* maps to the same slug.
+
+    A rejected phrase can be longer than the term that matched it: with
+    ('sense of achievement', 'learning-gains') rejected, the bare term 'achievement'
+    still matches inside "a sense of achievement" and would otherwise be reported (or
+    linked) as if it were the outcome sense. Checking the surrounding span makes the
+    reject list work no matter which of the two terms the scanner happened to match.
+    """
+    for term, slug in REJECT_PAIRS:
+        if slug != tgt:
+            continue
+        for m in re.finditer(r'(?<![a-zA-Z])' + re.escape(term) + r'(?![a-zA-Z])', nar, re.I):
+            if m.start() <= s and e <= m.end():
+                return True
+    return False
+
 def find_mentions(nar, slug, concepts, apply_mode=False):
     term2slug = build_term2slug(concepts, slug)
     linked = set(re.findall(r'\[\[([^\]|]+)', nar))
@@ -364,6 +386,9 @@ def find_mentions(nar, slug, concepts, apply_mode=False):
             if is_in_link(nar, m.start()):
                 continue
             s, e = m.start(), m.end()
+            if context_rejected(nar, s, e, tgt):
+                REJECTED_HITS.append((term, tgt))
+                break
             # Skip if this match overlaps a range already claimed by a longer term
             # (e.g. "pedagogical" inside "pedagogical agent", "ai" inside "ai tutor").
             # Without this, two overlapping links get applied and mangle the text.
