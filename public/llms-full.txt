@@ -8915,6 +8915,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
 - [[schuetze-knowledge-tracing-forgetting-2026]]
+- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
 
 ---
 
@@ -9100,6 +9101,7 @@ Simulation also extends beyond individual learners to reproducing the social dyn
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a single describing agent beats simulating a distribution of students for predicting dropout and design critique
+- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
 
 ---
 
@@ -9281,6 +9283,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
+- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
 
 ---
 
@@ -68244,59 +68247,78 @@ Simon, P. D., Zeng, L. M., & Fryer, L. K. (2026). [A systematic review of studen
 
 ## [Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning](https://edtechdev.github.io/aied/articles/simulating-learner-task-selection/)
 
-> **Synthesis:** Noh et al. (2026) build a simulation framework, grounded in the logged interaction data of 261 students solving equations and interpreting graphs, to test how different learner task-selection strategies shape the efficiency of mastery-based tutoring — and whether system constraints can repair the damage. Risk-averse strategies (prioritising the skills a learner already knows best) produce dramatically more overpractice than weakness-targeting or interleaving, but a targeted, choice-preserving constraint cuts that waste by an order of magnitude without penalising learners who already practise efficiently. It is a low-cost, pre-deployment methodology for identifying *when and for whom* shared-control guardrails are worth imposing.
+> **Synthesis:** Noh, Chowdhary, Ooge, Aleven and Borchers (2026) ask what happens when the shared control that [[intelligent-tutoring|intelligent tutoring systems]] increasingly grant learners collides with the efficiency that [[mastery-learning|mastery-based progression]] is supposed to deliver. Rather than run the experiment on students, they simulate it: [[simulating-students|simulated learners]] driven by models fitted to two real tutoring datasets choose their own skills a thousand times over, under eight task-selection strategies and four system constraints. One strategy — Minimize Worst Case Loss, which picks whichever skill risks the least — produced roughly **thirty times** the overpractice of the others. A constraint that narrows the choice to skills just below mastery cut that by an order of magnitude, and left efficient learners untouched. The paper's case is methodological as much as empirical: simulation over logged interaction data is a cheap way to find out *when and for whom* guardrails on learner choice are worth the autonomy they cost.
 
 ## Overview
 
-[[intelligent-tutoring|Intelligent Tutoring Systems]] commonly advance learners only after they demonstrate mastery of prerequisite skills, using performance-based criteria. This guarantees competence, but it is not free: mastery-based systems can overpractice some skills while neglecting others, and because problems in multi-step domains carry several skills at once, a problem chosen for one mastered skill often drags in redundant practice of others. Overpractice is the resulting inefficiency — extra time on task without proportional learning benefit, and slower progression.
+Mastery learning is a promise about competence: a learner advances only after demonstrating they know a prerequisite. [[intelligent-tutoring|Intelligent tutoring systems]] operationalise it with performance-based criteria, and the cost is cumulative and easy to miss. Because a multi-step problem exercises several skills at once — the equation problems in this study average 5.67 skills each, the graph problems 8.57 — a problem chosen to practise one already-mastered skill drags redundant practice of others along with it. The paper calls the resulting waste **overpractice**: time on task that produces no proportional learning.
 
-Against this, ITS increasingly grant learners shared control, letting them pick which skill or problem to practise. That autonomy is motivated by self-determination theory and brings documented motivational and metacognitive benefits — engagement, perceived autonomy, reflection on progress, persistence. The open question is what happens when learners' own task-selection strategies meet a system that ranks tasks by estimated knowledge. Prior work shows learners adopt diverse and often maladaptive strategies (Strength Targeting, Weakness Targeting, Interleaving, Blocking), and that some choices — avoiding challenge, playing it safe — can systematically delay progression. Testing corrective constraints in real classrooms is costly, slow, and risks exposing students to suboptimal conditions, so this paper asks: **how do different learner task-selection strategies, combined with system constraints, affect the efficiency of mastery-based learning?**
+Set against that, ITS increasingly hand learners shared control over what to practise next. The motivation is well established, drawing on [[self-determination-theory|self-determination theory]] and supported by documented gains in [[student-engagement|engagement]], perceived autonomy, [[metacognition|metacognitive]] reflection and persistence. But prior research also shows that learners adopt a diversity of strategies — targeting their strengths, targeting their weaknesses, interleaving across skills, or blocking on one skill until it is done — and that some of these choices delay progression systematically. A choice architecture that is good for autonomy in general therefore need not be good for efficiency in particular.
+
+The awkward question is what to do about that, and the authors note it is expensive to answer the obvious way. Testing corrective constraints in real classrooms is slow, risks exposing students to worse conditions, and requires re-running an intervention per constraint. So the paper substitutes [[simulation|simulation instead of live deployment]]: fit learner models to real interaction logs, let simulated learners make the same choices real ones make, and watch which strategies and constraints produce waste. The framing question is deliberately two-sided — how do different task-selection strategies affect mastery-based efficiency, and can system constraints repair the damage without harming the learners who were already fine?
 
 ## Study Design & Method
 
-- **Two real datasets.** The equation-solving dataset comes from PSLC DataShop (sets #5549, #5604), IRB-approved middle-school studies using the APTA ITS for linear equations: grades 6–8 across two public schools in the eastern United States, over 10,000 step-level interactions, averaging 5.67 ± 2.47 skills per problem. The graph-interpretation dataset is DataShop #5360, classroom transaction data from the Mathtutor ITS with 97 ninth-grade students in a U.S. high school who alternated paper practice with Mathtutor across three units on linear graphs; it contains 31 problems and 13 skills, with a denser 8.57 ± 8.41 skills per problem. The two domains differ deliberately in problem length and skill composition, giving the framework a cross-domain test of generalisability.
-- **Learner models.** Step-level performance is simulated with the Additive Factors Model (AFM), which predicts correctness as a logistic function of student ability plus additive skill difficulty and practice effects. Knowledge evolution is tracked with Bayesian Knowledge Tracing (BKT), a hidden Markov model over a binary learned/unlearned state, updated by Bayes' rule after each response using prior knowledge, learning rate, guess rate and slip rate. Both models are fitted to the real datasets and the fitted parameters drive the simulation; a skill counts as mastered once the posterior exceeds a 95% threshold. BKT defaults follow TutorShop: pinit = 0.25, plearn = 0.22, pguess = 0.2, pslip = 0.1.
-- **The simulation loop.** Each run lets 1,000 learners progress through a set of skills until mastery. The cycle mirrors a shared-control ITS: between problems the learner selects a skill via a predefined strategy (optionally narrowed by a system constraint), the system then selects a problem using that skill, the learner attempts the multi-step problem with per-step performance sampled from AFM, and BKT mastery estimates update after each step. Learners choose only between problems, not within them. Code is open-source.
-- **Eight strategies.** Four baseline strategies come from prior work — Strength Targeting (favour skills near mastery), Weakness Targeting (favour lowest mastery), Interleaving (alternate across skills), Blocking (stay on one skill to mastery) — plus Random as a control. Three outcome-informed rules were added: Maximize Usual Case Improvement, Maximize Usual Case Outcome (both pick the highest projected post-practice mastery), and Minimize Worst Case Loss, a risk-averse rule selecting the skill with the smallest potential mastery loss.
-- **Two constraint families.** Task-selection constraints narrow the selectable skill pool without prescribing a choice: *closer-to-mastery* restricts to skills just below the threshold, *further-from-mastery* to lower-proficiency skills. Problem-selection constraints bias which problem is delivered after a skill is chosen: *prefer-easier* weights lower-difficulty problems, *prefer-harder* weights higher-difficulty ones, sampled from a normalised multinomial. An unconstrained baseline is included, and each strategy is applied consistently across all conditions.
-- **Metric.** Overpractice — continued practice of already-mastered skills, aggregated across all simulated learners and skills — is the primary outcome, compared across conditions using means, standard deviations, and Cohen's d.
+**Two datasets, two domains.** Both come from PSLC DataShop, and both are real classroom data rather than synthetic corpora. The equation-solving corpus (sets #5549 and #5604) is IRB-approved middle-school data from the APTA tutoring system for linear equations: grades six to eight across two public schools in the eastern United States, 261 students, over 10,000 step-level interactions, averaging 5.67 ± 2.47 skills per problem. The graph-interpretation corpus (#5360) is classroom transaction data from the Mathtutor system, 97 ninth-grade students in a U.S. high school who alternated paper practice with Mathtutor across three units on linear graphs: 31 problems, 13 skills, and a denser 8.57 ± 8.41 skills per problem. The two differ deliberately in problem length and skill composition, which gives the framework a cross-domain test of whether a result is a property of the model or of the domain.
+
+**Two learner models.** Step-level performance is generated by the Additive Factors Model, which predicts correctness as a logistic function of student ability plus additive skill difficulty and practice effects — the standard [[educational-measurement|educational data mining]] view of learning in tutoring logs. Knowledge state is tracked with Bayesian [[knowledge-tracing|knowledge tracing]], a hidden Markov model over a binary learned/unlearned state updated by Bayes' rule after each response from prior knowledge, learning rate, guess rate and slip rate. Both are fitted to the real datasets, and the fitted parameters drive everything the simulated learners do; a skill counts as mastered once the posterior passes a 95 percent threshold. BKT defaults follow TutorShop: pinit = 0.25, plearn = 0.22, pguess = 0.2, pslip = 0.1. This is [[student-modeling|student modeling]] used in reverse — not to predict what students will do, but to generate plausible students who then make choices the researchers want to study.
+
+**The simulation loop.** Each run lets 1,000 simulated learners progress through the skill set until mastery, in a cycle that mirrors a shared-control tutor: between problems the learner selects a skill according to a strategy (optionally narrowed by a constraint), the system selects a problem exercising that skill, the learner attempts the multi-step problem with per-step performance sampled from the model, and knowledge tracing updates after every step. Learners choose between problems but never within them — a boundary that matters for interpreting the whole study.
+
+**Eight strategies and four constraints.** Four strategies come from the prior literature (Strength Targeting, Weakness Targeting, Interleaving, Blocking) plus Random as a control. Three outcome-informed rules were added: Maximize Usual Case Improvement and Maximize Usual Case Outcome, which both pick the highest projected post-practice mastery, and Minimize Worst Case Loss, a risk-averse rule selecting the skill with the smallest possible mastery loss. Constraints come in two families. Task-selection constraints narrow the selectable pool without prescribing a choice — *closer-to-mastery* restricts learners to skills just under the threshold, *further-from-mastery* to lower-proficiency skills. Problem-selection constraints bias which problem is delivered once a skill is chosen: *prefer-easier* weights lower-difficulty problems, *prefer-harder* weights higher-difficulty ones, sampled from a normalised multinomial. Everything is compared against an unconstrained baseline, and the simulation and analysis code is [[open-source|open source]].
+
+**Outcome.** Overpractice — continued practice of already-mastered skills, aggregated across all simulated learners and skills — is the primary metric, compared across conditions with means, standard deviations and Cohen's d.
 
 ## Key Findings
 
-- **Risk-averse learners are the outlier.** Without constraints, Minimize Worst Case Loss produced overpractice of **30.28×** in equation-solving and **28.93×** in graph-interpretation, versus an average of **1.733 ± 0.383** and **3.223 ± 0.050** for the other seven strategies combined. The authors explain it structurally: problems covering a learner's stronger skills sit closer to mastery and so are more likely to induce redundant practice.
-- **Weakness targeting is efficient.** In the equation-solving dataset, Weakness Targeting and Maximize Usual Case Improvement produced the lowest overpractice, **1.26×** and **1.29×**. Strength Targeting was the second-worst strategy for equation-solving.
-- **Task-selection constraints sharply reduce the worst case.** Guiding loss-averse learners towards skills closer to mastery cut overpractice from **30.28 → 1.83** (equation-solving, Cohen's d = 1.87) and **28.93 → 3.22** (graph-interpretation, d = 1.86). The further-from-mastery variant still helped substantially, to **12.88** and **14.46**.
-- **Problem-selection constraints work too.** With the Prefer Harder constraint, Minimize Worst Case Loss fell from **30.28 → 1.98** (d = 1.86) in equation-solving — levelling it with strategies that needed no constraint at all — by increasing exposure to more challenging problems.
-- **Constraints are selective, not universal.** Blocking, Interleaving, Strength Targeting and Weakness Targeting held stable overpractice levels across all constraint conditions. The corrective effect is concentrated on maladaptive behaviour.
-- **Domain structure matters.** The multi-step, highly recursive equation-solving dataset — where problems admit multiple solution paths and repeat skills heavily — showed greater overpractice variability and a stronger corrective response to the Prefer Harder constraint than graph-interpretation.
+**One risk-averse strategy is the outlier, and it is not close.** Unconstrained, Minimize Worst Case Loss produced overpractice of **30.28×** in equation-solving and **28.93×** in graph-interpretation, against means of **1.733 ± 0.383** and **3.223 ± 0.050** across the other seven strategies. The authors' explanation is structural rather than motivational: skills a learner already knows best sit closer to the mastery threshold, so choosing the safest-looking option repeatedly steers practice into territory where redundancy is most likely.
+
+**Weakness targeting is the efficient default.** In the equation-solving domain, Weakness Targeting and Maximize Usual Case Improvement produced the lowest overpractice, **1.26×** and **1.29×**. Strength Targeting was the second-worst strategy there — a useful reminder that "practise what you are good at" and "practise what you are bad at" are not symmetric choices in a system that sequences by mastery estimates.
+
+**Constraints repair the worst case.** Guiding loss-averse learners toward skills closer to mastery reduced overpractice from **30.28 to 1.83** in equation-solving (Cohen's d = 1.87) and from **28.93 to 3.22** in graph-interpretation (d = 1.86) — bringing the worst strategy down to the level of the good ones. The further-from-mastery variant still helped substantially, to **12.88** and **14.46**, but plainly less. Problem-selection constraints worked as well: under Prefer Harder, Minimize Worst Case Loss fell from **30.28 to 1.98** (d = 1.86), again levelling it with strategies that needed no constraint at all, by raising exposure to more challenging problems.
+
+**The repair is selective, which is the design point.** Blocking, Interleaving, Strength Targeting and Weakness Targeting held their overpractice levels steady across every constraint condition. The corrective effect lands on maladaptive behaviour and nowhere else — so a system could apply the constraint without degrading the learners who were already choosing well, which is exactly the property a real [[adaptive-learning|adaptive]] guardrail would need.
+
+**Domain structure shapes the result.** The equation-solving domain — multi-step, highly recursive, with problems admitting multiple solution paths and heavy skill repetition — showed greater variability in overpractice and a stronger response to Prefer Harder than graph interpretation did. Whatever the framework measures, part of it is a property of how the domain's problems decompose into skills.
 
 ## Implications for AI in Education
 
-- **Designers:** a shared-control system need not choose between autonomy and efficiency. Early indicators suggest the right move is *conditionally* bounding the choice set — flagging learners whose behaviour matches a risk-averse pattern and narrowing their skill pool, rather than applying one control policy to everyone.
-- **Methodologically:** simulation grounded in real interaction logs and standard educational-data-mining models offers a cheap, reproducible way to pre-test algorithmic constraints across multiple domains before any learner is exposed to them — a bridge between data analysis and system redesign.
-- **Instructors and researchers:** the motivational case for learner control stands, but its benefits are unevenly distributed. Constraint design should account for strategy diversity, since uniform constraint assumptions likely over- or under-serve different learners.
-- **Caveats.** The study models a limited, static set of strategies driven by prior empirical work and deliberately excludes motivational, metacognitive and affective factors; it assumes a task-selection-first paradigm and does not model direct problem selection, multi-task selection, or fully system-driven sequencing. Whether learners *perceive* differing constraint levels, and whether salient constraints erode the autonomy benefits of control, remain open questions for future work.
+**A shared-control system need not choose between autonomy and efficiency.** The practical proposal is *conditional* bounding rather than a uniform policy: detect the risk-averse pattern in a learner's choices and narrow their skill pool, instead of constraining everyone. That keeps the [[agency|learner agency]] and motivational arguments for learner control intact for learners who benefit from them, while intervening where the evidence says the cost is real. It also reframes the constraint as something closer to a [[human-in-the-loop-ai|human-in-the-loop]] design decision than a hard system rule.
+
+**Methodologically, this is a template.** Fitting standard models to logged interaction data and then simulating at scale lets designers pre-test sequencing and constraint policies across more than one domain before any student meets them — a bridge between [[learning-analytics|learning analytics]] and system redesign that costs a simulation run rather than a semester. The [[simulating-students|simulated learners]] here are statistical rather than [[llm|LLM]]-based agents, which is worth noting as the two strands of learner simulation develop in parallel: this one buys interpretability and parameter grounding, where generative agents buy behavioural richness.
+
+**The autonomy literature still stands, but its benefits are uneven.** Because strategy diversity is real and consequential, constraint design has to be built around the distribution of learner behaviour rather than an average learner — and the paper's own caveats point the same way.
+
+**Limitations.** The strategy set is limited and static, drawn from prior empirical work; motivational, [[metacognition|metacognitive]] and affective factors are deliberately excluded, so the model has no way to represent a learner who gives up, gets bored, or becomes more confident. The framework assumes a task-selection-first paradigm and does not model direct problem selection, multi-task selection or fully system-driven sequencing. And two questions the study cannot answer are exactly the ones that decide real implementations: whether learners *perceive* differing constraint levels, and whether visible constraints erode the autonomy benefits that motivated shared control in the first place.
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[simulation]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[student-engagement]]
 - [[simulating-students]]
+- [[intelligent-tutoring]]
+- [[mastery-learning]]
+- [[adaptive-learning]]
+- [[knowledge-tracing]]
+- [[student-modeling]]
+- [[agency]]
+- [[simulation]]
+- [[self-determination-theory]]
+- [[metacognition]]
+- [[learning-analytics]]
+- [[student-engagement]]
+- [[k-12]]
+
 ## Connected Articles
 
-- [[engagement-forecasting-its]]
-- [[neural-symbolic-knowledge-tracing]]
-- [[genai-tutor-engagement-patterns]]
-- [[llm-student-modeling-memory]]
-- [[simulating-students-llm-review-2026]]
-- [[valid-student-simulation-llm-2026]]
+- [[simulating-students-llm-review-2026]] — Review of LLM-based student simulation
+- [[valid-student-simulation-llm-2026]] — Validity of LLM student simulation
+- [[llm-student-modeling-memory]] — Memory in LLM-based student modeling
+- [[engagement-forecasting-its]] — Forecasting engagement in intelligent tutoring systems
+- [[neural-symbolic-knowledge-tracing]] — Neural-symbolic knowledge tracing
+- [[genai-tutor-engagement-patterns]] — Engagement patterns with a GenAI tutor
+
 ## Citation
 
-Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers (2026). [Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning](https://arxiv.org/abs/2605.21613). EDM 2026 (short paper).
+Noh, H., Chowdhary, A., Ooge, J., Aleven, V., & Borchers, C. (2026). [Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning](https://arxiv.org/abs/2605.21613). arXiv preprint (v2, 25 May 2026).
 
 ---
 

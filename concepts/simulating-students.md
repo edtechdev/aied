@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-09-05T00:10:31-04:00"
+updated: "2026-09-12T17:05:00-04:00"
 type: concept
 tags: [simulation, student-modeling, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, generative-ai, llm, teacher-role]
 audience: [instructors]
@@ -105,3 +105,4 @@ Simulation also extends beyond individual learners to reproducing the social dyn
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a single describing agent beats simulating a distribution of students for predicting dropout and design critique
+- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
