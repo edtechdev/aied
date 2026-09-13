@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-13
 
-Articles: 1153 | Concepts: 191 | FAQs: 18
+Articles: 1156 | Concepts: 191 | FAQs: 18
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -40,6 +40,7 @@ Articles: 1153 | Concepts: 191 | FAQs: 18
 - [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
 - [[affective-tutoring]] — Affective Tutoring
 - [[agarwal-ethical-values-norms-aied-2026]] — Identifying the ethical values and norms for artificial intelligence in education: A systematic literature review
+- [[age-tiered-ai-literacy-guidebooks-2026]] — Measuring Acceptance of Age-Tiered AI Literacy Guidebooks: A Developmentally Informed Study of K-12 Students and Teachers
 - [[agency]] — Learner Agency
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
 - [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
@@ -167,6 +168,7 @@ Articles: 1153 | Concepts: 191 | FAQs: 18
 - [[ai-tpack-mathematics-teacher-education-2026]] — Assessing AI-TPACK readiness in mathematics teacher education: The role of self-efficacy and teaching beliefs
 - [[ai-tpack-preservice-math-teachers]] — AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design
+- [[ai-training-science-teacher-tpack-distance-2026]] — AI training and science student teachers’ TPACK in campus-based and distance education: a comparative study
 - [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
@@ -741,6 +743,7 @@ Articles: 1153 | Concepts: 191 | FAQs: 18
 - [[learning-design]] — Learning Design
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
 - [[learning-gains]] — Learning Gains
+- [[learning-paths-patterns-learning-design-2026]] — Learning paths and patterns in learning design: Insights from 500+ courses
 - [[learning-theories]] — Learning Theories
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Learning-to-learn in the age of generative AI: A scoping review and conceptual framework
 - [[learning-to-prompt-adaptive-tutoring]] — Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring

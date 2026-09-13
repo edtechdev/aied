@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-13T10:14:50-04:00"
+updated: "2026-09-13T12:25:00-04:00"
 type: concept
 tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing, ai-literacy]
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
@@ -59,7 +59,7 @@ AI literacy is the construct with the richest instrument coverage in the knowled
 
 ### Measurement approach matters
 
-The knowledge base's evidence repeatedly shows that **how** a construct is measured changes the conclusions. Self-reported AI literacy diverges sharply from performance-based measures ([[ai-literacy-assessment-misalignment]]); LLM annotation of engagement diverges from trained human coding ([[icap-cognitive-engagement-llm-agents]]); and latent structures differ between humans and LLMs ([[assessment-latent-structure-human-llm-2026]]). Rigorous instrument validation — reliability, structural validity, external/predictive validity — is therefore not a formality but the foundation of trustworthy AI-in-education evidence, connecting to [[assessment-validity]] and [[psychometrically-aware-ai]].
+The knowledge base's evidence repeatedly shows that **how** a construct is measured changes the conclusions. Self-reported AI literacy diverges sharply from performance-based measures ([[ai-literacy-assessment-misalignment]]); LLM annotation of engagement diverges from trained human coding ([[icap-cognitive-engagement-llm-agents]]); and latent structures differ between humans and LLMs ([[assessment-latent-structure-human-llm-2026]]). Rigorous instrument validation — reliability, structural validity, external/predictive validity — is therefore not a formality but the foundation of trustworthy AI-in-education evidence, connecting to [[assessment-validity]] and [[psychometrically-aware-ai]]. A recent material-level study shows how much validation work sits behind a simple acceptance claim: [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang and Wu (2026)]] used a split-half design (EFA on a development sample, CFA on a held-out half) for two age-tiered AI literacy guidebooks, reporting KMO = .820, 67.3% variance explained, acceptable student fit (CFI = .943, RMSEA = .059, SRMR = .059), composite reliability of .84 to .90, and measurement invariance across editions — then documenting where the instrument strains, with HTMT values up to .950 and a constrained playfulness-intention correlation that had to be tested for unity. Their supplementary checks for differential item functioning are a model of the honesty this page argues for: invariance held, but low-variation response patterns among younger students meant one group difference weakened once those respondents were excluded, and the paper reports that alongside the headline result rather than instead of it.
 
 ## Issues and limitations: what measurement can miss or get wrong
 
@@ -140,3 +140,4 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
+- [[age-tiered-ai-literacy-guidebooks-2026]] — Split-half EFA/CFA validation with invariance, HTMT and DIF checks, including an honest account of playfulness-intention construct overlap
