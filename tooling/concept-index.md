@@ -115,7 +115,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`reinforcement-learning`** — Reinforcement Learning — phrases: reinforcement learning; reward model; RLHF
 - **`simulation`** — Simulation — phrases: simulation; simulation-based learning; simulations; simulator; virtual lab; virtual laboratory; virtual patient
 - **`vibe-coding`** — Vibe Coding — phrases: building software by prompting; end user development; end-user development; natural language programming; natural-language programming; prompt-driven programming; vibe coding; vibe-coding
-- **`virtual-and-augmented-reality`** — Virtual and Augmented Reality — phrases: augmented reality; extended reality; head mounted display; head-mounted display; immersive; immersive learning; metaverse; mixed reality; virtual environment; virtual reality
+- **`virtual-and-augmented-reality`** — Virtual and Augmented Reality — phrases: augmented reality; extended reality; head mounted display; head-mounted display; immersive environment; immersive learning; immersive simulation; metaverse; mixed reality; virtual environment; virtual reality
 - **`visualization`** — Visualization — phrases: dashboards; data visualization; visual analytics; visual representations; visualisation; visualization
 
 ### Learner modeling and adaptive systems

@@ -18,7 +18,7 @@ confidence: high
 ## Key Findings
 
 1. **PRISMA-guided synthesis of 197 studies.** The review examined articles published 2016–2024, selecting 197 relevant studies from 5 databases and 2 journals, using a Mentefacto Map to identify keywords and define replicable inclusion/exclusion criteria.
-2. **Four opportunity domains.** GAI offers significant potential to personalize learning, motivate students, improve assessment methods, and introduce innovative, [[virtual-and-augmented-reality|immersive]] teaching practices.
+2. **Four opportunity domains.** GAI offers significant potential to personalize learning, motivate students, improve assessment methods, and introduce innovative, immersive teaching practices.
 3. **ChatGPT as the flagship case.** Adoption of [[conversational-ai|ChatGPT]] in educational environments exemplifies GAI's capacity to make learning more engaging and tailored to individual needs.
 4. **Persistent integration challenges.** These center on the need for continuous, targeted [[teacher-education|teacher training]] on ICT and the development of ministerial guidelines that address [[ethics|ethical]] and [[privacy]] concerns.
 5. **A discipline-imbalance gap.** The literature concentrates on [[stem-education|STEM]], neglecting the arts/[[humanities-education|humanities]] and creative subjects where many experiments could be conducted.
