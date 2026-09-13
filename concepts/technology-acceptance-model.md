@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-13T12:25:00-04:00"
+updated: "2026-09-13T12:55:00-04:00"
 type: concept
 tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied]
 research_method: [research methods]
@@ -31,7 +31,7 @@ confidence: high
 Proposed by Davis (1989), TAM explains adoption through two core beliefs — **Perceived Usefulness (PU)** and **Perceived Ease of Use (PEOU)** — which shape users' **Attitude (ATT)**, then **Behavioral Intention (BI)**, then actual usage. Grounded in information-systems theory (adapted from the Theory of Reasoned Action), TAM has become the dominant framework for [[generative-ai|GenAI]] adoption in education. In educational GenAI research it is frequently extended with [[ai-literacy]], [[trust]], social influence, [[self-determination-theory|self-determination]], and **critical use** to capture adoption complexity beyond simple uptake.
 
 ### UTAUT / UTAUT2 / UTAUT3
-The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). The knowledge base applies UTAUT across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[amponsah-ai-acceptance-science-teachers-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] extend UTAUT2 with explainable AI (Random Forest, SHAP, NCA, IPMA, K-Means) for 522 university students, finding **habit** the strongest predictor of ChatGPT intention and showing that **effort expectancy is a necessary condition rather than a linear driver** — a result only visible when XAI complements the regression.
+The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). The knowledge base applies UTAUT across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[pre-service-science-teachers-ai-perceptions-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] extend UTAUT2 with explainable AI (Random Forest, SHAP, NCA, IPMA, K-Means) for 522 university students, finding **habit** the strongest predictor of ChatGPT intention and showing that **effort expectancy is a necessary condition rather than a linear driver** — a result only visible when XAI complements the regression.
 
 ### Theory of Planned Behavior (TPB)
 TPB explains intention through attitude, subjective norms, and perceived behavioral control. It is frequently paired with TAM/UTAUT in AI-adoption studies — e.g. [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] integrate TAM, TPB, UTAUT, and the FATE ([[bias-mitigation|Fairness]], Accountability, Transparency, Ethics) framework to model the behavioral and [[ethics|ethical]] drivers of student ChatGPT adoption.
@@ -96,7 +96,7 @@ TAM's cognitive focus also under-captures emotional and relational dimensions of
 - [[acceptance-ai-english-tools-2026]] — Acceptance of AI English tools
 - [[genai-chatgpt-adoption-ethics-students-2026]] — Behavioral and ethical drivers of student ChatGPT adoption
 - [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT and teacher chatbot motivation
-- [[amponsah-ai-acceptance-science-teachers-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
+- [[pre-service-science-teachers-ai-perceptions-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
 - [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)

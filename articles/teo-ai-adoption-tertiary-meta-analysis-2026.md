@@ -1,7 +1,7 @@
 ---
 title: "Factors Associated with Students' Adoption of Artificial Intelligence Technology in Tertiary Education: A Meta-Analytic Review"
 created: "2026-08-24T12:33:00-04:00"
-updated: "2026-08-24T14:35:00-04:00"
+updated: "2026-09-13T12:55:00-04:00"
 type: article
 tags: [technology-acceptance-model, higher-ed, meta-analysis-systematic-review, student-experience, ai-technologies, change-management]
 research_method: [meta-analysis]
@@ -39,7 +39,7 @@ The review's theoretical contribution is its critique of the field's reliance on
 - [[ai-adoption-training-public-sector|ai-adoption]] — related adoption research
 - [[tam-critical-use-genai-engineering-2026]] — TAM applied to critical GenAI use in engineering
 - [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — GenAI acceptance among Chinese university students
-- [[amponsah-ai-acceptance-science-teachers-2026]] — AI acceptance among science teachers
+- [[pre-service-science-teachers-ai-perceptions-2026]] — AI acceptance among science teachers
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas in higher ed
 
 ## Citation

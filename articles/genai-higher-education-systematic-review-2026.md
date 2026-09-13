@@ -1,7 +1,7 @@
 ---
 title: "Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-09-13T12:55:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, meta-analysis-systematic-review, assessment, personalized-learning, ai-literacy, academic-integrity, equity-in-ai-education, ethics]
 audience: [researchers, administrators, instructors]
@@ -81,7 +81,7 @@ For policy and practice, the review underscores that the faculty-readiness gap a
 - [[pchl-he-framework-genai-content-creation-2026]] — PCHL-HE framework
 - [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs framework
 - [[elementary-writing-genai-systematic-review-2026]] — Elementary writing GenAI review
-- [[amponsah-ai-acceptance-science-teachers-2026]] — AI acceptance science teachers
+- [[pre-service-science-teachers-ai-perceptions-2026]] — AI acceptance science teachers
 
 ## Citation
 
