@@ -4,6 +4,10 @@ Copy this prompt when creating the daily AI agent cron job.
 Replace `[YOUR_WIKI_PATH]` with the absolute path to your wiki repo.
 Replace `[YOUR_WIKI_TITLE]` with your wiki's display title.
 
+**All scan parameters — sources, categories, keywords, listing fallbacks and the
+relevance filter — come from `wiki.config.yaml`.** This prompt describes the
+*workflow*; the config describes *what* is scanned, so it is edited in one place.
+
 ---
 
 Search for new papers in [YOUR DOMAIN] across multiple sources. Use the `research-wiki` skill for the full ingestion pipeline.
@@ -18,26 +22,27 @@ Search window: start from the day AFTER that date, end today ([TODAY]). If no pr
 
 ## Sources to Query
 
-### 1. arXiv API (primary)
-Query these categories via `execute_code` + Python `urllib` (see `references/arxiv-api-query-pattern.md`):
+**Read the source list from `wiki.config.yaml` → `scan.sources`** (categories,
+keywords, `max_results`, and the listing-page fallbacks). Do not restate or
+hardcode them here — the config file is the single source of truth, so a new
+category or journal is added in one place.
 
-- **cs.CY, cs.HC, cs.CL, cs.AI** (education-relevant): max_results=20 per category
-- **physics.ed-ph** (physics education): max_results=10
+Use `python3 tooling/scripts/wiki_config.py --get scan.sources` to print the
+current list.
 
-Use keyword filter on title: `education OR learning OR student OR teacher OR classroom OR tutor OR school OR curriculum OR pedagog OR grading OR feedback OR literacy OR assessment OR metacognit`
+### arXiv API
+Query each `type: arxiv_api` source from the config via `execute_code` + Python
+`urllib` (see `references/arxiv-api-query-pattern.md`), filtering titles with the
+source's `keywords`.
 
 Query format:
 ```
 cat:cs.CY AND (ti:education OR ti:learning OR ...) AND submittedDate:[START TO END]
 ```
 
-### 2. EdArXiv (secondary)
-Search the EdArXiv preprint server via `web_extract` or `web_search`:
-`https://osf.io/preprints/edarxiv/discover`
-Query for recent AI-in-education preprints (AI, LLM, generative, tutoring, assessment).
-
-### 3. Fallback: web search
-If API sources fail or return nothing, use `web_search` with date-anchored queries (see `references/web-search-fallback.md`).
+### Other sources
+Query every other source in the config by its `type` (`web_search` for EdArXiv,
+etc.) and `url`.
 
 ## Ingestion Workflow
 
@@ -74,31 +79,25 @@ For each new relevant paper:
    python3 [YOUR_WIKI_PATH]/tooling/scripts/generate-llms-files.py
    ```
 
-9. **Build and deploy the Astro site:**
+9. **Build the site** (and commit):
    ```bash
    cd [YOUR_WIKI_PATH]
-   python3 tooling/build-epub.py # regenerate public/aied.epub + public/aied.pdf (offline versions)
+   python3 tooling/scripts/check_concepts.py                        # concept registry gate
+   python3 tooling/scripts/generate-llms-files.py                   # llms.txt + llms-full.txt
    npm run build        # builds dist/ with pagefind search + sitemap
    git add -A
    git commit -m "scan: [TODAY] — N new papers on [TOPIC SUMMARY]"
-   git push             # GitHub Actions deploys dist/ to GitHub Pages
    ```
+   **Do NOT rebuild `public/aied.epub` / `public/aied.pdf` here.** They are local
+   committed artefacts, rebuilt only on explicit request (they are slow and are
+   not produced by CI). Pushing is a separate, explicitly approved step — never
+   push as part of an automatic scan unless the user has approved this run.
 
 ## Relevance Filtering
 
-**INGEST** (any of these in title/abstract):
-- AI/LLM/genAI applied to education, learning, teaching
-- Intelligent tutoring systems, AI feedback, automated grading
-- AI literacy, AI in classrooms, student-AI interaction
-- Learning analytics, knowledge tracing, student modeling
-- AI-generated educational content or assessment
-
-**SKIP** (unless education context is explicit):
-- Pure CS/ML without education application
-- General AI fairness/ethics without education
-- Non-AI education research
-
-**When uncertain: INGEST.** Broad interpretation preferred.
+**Read the include/exclude lists and the tie-break policy from `wiki.config.yaml`
+→ `scan.relevance_filter`.** When the call is genuinely close, the config's
+`default_policy` (currently `ingest`) wins. Do not restate the lists here.
 
 ## Deliverable
 

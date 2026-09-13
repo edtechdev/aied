@@ -46,10 +46,13 @@ def load_concepts(wiki):
         concepts[slug] = m.group(1) if m else slug
     return concepts
 
-# term -> slug alias table (extend as concepts grow; slug must exist to be used).
-# Kept deliberately broad with conceptually-similar phrases so the scanner links
-# not just exact concept names but the phrasings authors actually use.
-ALIASES = {
+# term -> slug alias table. FALLBACK ONLY: the scanner reads the wiki's concept
+# registry (concepts.registry.yaml -> `concepts: <slug>: aliases:`) by default,
+# because that file is the single source of truth for the concept vocabulary.
+# This embedded copy is used only when the registry or PyYAML is unavailable, so
+# the script still works when copied on its own. Do not hand-edit it as the
+# primary path - add phrases to the registry instead.
+EMBEDDED_ALIASES = {
     'critical-thinking': ['critical thinking', 'critical analysis', 'critical evaluation',
                           'higher-order thinking', 'higher order thinking', 'analytical thinking', 'reasoning'],
     'ai-literacy': ['ai literacy', 'artificial intelligence literacy', 'digital literacy',
@@ -283,6 +286,8 @@ def is_in_link(nar, pos):
     before = nar[:pos]
     return before.rfind('[[') > before.rfind(']]')
 
+ALIASES = EMBEDDED_ALIASES  # replaced at run time by the registry, see load_registry_aliases()
+
 # Ambiguous generic terms that need human judgment in context. These are still
 # REPORTED in default mode (so the agent can decide) but are NOT auto-applied by
 # --apply, to avoid wrong links (e.g. "reasoning" usually ≠ critical-thinking;
@@ -298,6 +303,7 @@ AUTO_APPLY_DENYLIST = {
     'undergraduate', 'undergraduates', 'college students', 'tertiary', 'university',
     'universities', 'college', 'primary school', 'elementary', 'high school',
     'achievement', 'survey', 'surveys', 'stakeholder', 'stakeholders', 'administrators', 'admin',
+    'school', 'schools', 'attention', 'memory', 'engineering', 'programming', 'measurement',
 }
 
 # (matched phrase, target slug) pairs that are semantically WRONG: never link them,
@@ -323,6 +329,26 @@ REJECT_PAIRS = {
     ('situated', 'situated-learning'),               # adjectival: "identity is situated"
     ('framing ai', 'framing-ai-use-for-students'),   # teacher framing AI, not guidance design
 }
+
+def load_registry_aliases(wiki):
+    """Alias table from the wiki's concept registry (single source of truth).
+
+    Falls back to the embedded EMBEDDED_ALIASES copy when the registry (or
+    PyYAML) is unavailable, so the scanner still works when copied standalone.
+    """
+    path = os.path.join(wiki, 'concepts.registry.yaml')
+    if not os.path.exists(path):
+        print(f"note: {path} not found — using the embedded alias table", file=sys.stderr)
+        return EMBEDDED_ALIASES
+    try:
+        import yaml
+    except ImportError:
+        print("note: PyYAML missing — using the embedded alias table", file=sys.stderr)
+        return EMBEDDED_ALIASES
+    with open(path, encoding='utf-8') as fh:
+        reg = yaml.safe_load(fh) or {}
+    return {slug: (entry.get('aliases') or []) for slug, entry in (reg.get('concepts') or {}).items()}
+
 
 def build_term2slug(concepts, slug):
     term2slug = {}
@@ -439,6 +465,8 @@ def main():
     if len(sys.argv) < 3:
         print(__doc__); sys.exit(1)
     wiki = sys.argv[1]
+    global ALIASES
+    ALIASES = load_registry_aliases(wiki)
     concepts = load_concepts(wiki)
     args = sys.argv[2:]
     apply_mode = '--apply' in args

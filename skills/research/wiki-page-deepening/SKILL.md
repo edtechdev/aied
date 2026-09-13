@@ -68,7 +68,7 @@ Deepen the answer with concrete specifics from the underlying sources, and link 
 4. **Cross-linking is bidirectional and precise.** Link the **most precise** matching concept (not the umbrella). Link SPECIFIC concepts, not umbrella pages. Both directions (article↔concept/article) must agree. Prefer `[[wikilinks]]` in Connected lists; inline links in body prose are fine when they add navigational value.
 5. **Concept pages REQUIRED sections**: `## Questions to Consider` (single contiguous bulleted list, 2-7 open pre-reading questions) then `## Introduction`. If enriching a concept, refresh Questions if content changed substantially.
 6. **Bump `updated`** (full ISO timestamp) in frontmatter on any significant edit — the maintainer flags stale `updated` dates.
-7. **Public-repo privacy**: the repo is public. No personal names, `/home/` paths, `~/.ai-agent`, or branding in tracked files or commit messages. Use neutral "the maintainer". (The `git-personal-info-scrub` skill has the full list.)
+7. **Public-repo privacy**: the repo is public. No personal names, `/home/` paths, `<SKILLS_DIR>`, or branding in tracked files or commit messages. Use neutral "the maintainer". (The `git-personal-info-scrub` skill has the full list.)
 
 ## Step 4 — HARD GATE before build
 
@@ -86,7 +86,7 @@ The scanner's denylist suggestions are report-only, not defects. Apply only high
 1. Regenerate the llms files if page content changed: `python3 tooling/scripts/generate-llms-files.py`.
 2. `npm run build` (workdir the wiki repo root) — confirm `0 errors` / `Complete`.
 3. Spot-check rendered HTML for the key new content.
-4. Privacy-scrub the diff: `git diff | grep -iE '/home/|~/.ai-agent|@gmail|mastodon'` → empty (except intended path-placeholder lines).
+4. Privacy-scrub the diff: `git diff | grep -iE '/home/|<SKILLS_DIR>|@gmail|mastodon'` → empty (except intended path-placeholder lines).
 5. Commit + push; watch CI (Build + Deploy) to green; `curl -s -o /dev/null -w "%{http_code}"` each touched live URL → 200.
 
 ## Pitfalls

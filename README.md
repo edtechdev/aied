@@ -169,9 +169,16 @@ Want to set up an automated research knowledge base for a different domain? Ever
 - **`tooling/SCHEMA.md`** — Domain, tag taxonomy, and page conventions
 - **`tooling/scripts/`** — RSS fetcher (`fetch-rss-feeds.py`), llms generator (`generate-llms-files.py`), backlink tool (`add-backlinks.py`), readfile-corruption checker
 - **`tooling/references/`** — Pipeline architecture, filtering strategies, recovery procedures
+- **`tooling/scripts/wiki_config.py`** — config loader/validator (`--check`, `--get`, `--cap`)
+- **`tooling/scripts/check_concepts.py`** — validates the concept registry against `concepts/` and the generated views
+- **`tooling/scripts/gen-concept-artifacts.py`** — regenerates the concept views from the registry
+- **`tooling/scripts/run-gates.py`** — runs every HARD GATE declared in `wiki.config.yaml` (also `npm run verify`)
+- **`tooling/scripts/sync-skills.py`** — reports/refreshes drift between the repo's `skills/` mirrors and the agent's installed copies
 - **`tooling/cron/`** — Cron job prompt templates (daily scan, weekly RSS scan), each enforcing the **inline-link HARD GATE** (run the `wiki-inline-links` pass + verification before build/deploy) and the **list-formatting HARD GATE** (run `check_list_formatting.py` before build)
 - **`tooling/example/`** — Starter knowledge-base files to get going quickly
-- **`tooling/config.example.yaml`** — Scan configuration for customization
+- **`wiki.config.yaml`** (repo root) — The pipeline configuration: content paths, build + gate commands, scan sources, journal feeds, relevance filter, and an `agent:` block that maps the pipeline's capabilities onto your AI agent's tools. Add or remove a journal or arXiv category here, in one place.
+- **`concepts.registry.yaml`** (repo root) — The concept vocabulary: every concept slug with its title and synonym phrases, the sidebar sections, the merge/redirect map and the never-link list. `tooling/concept-index.md`, `src/data/conceptIndex.ts` and `src/data/conceptRedirects.ts` are **generated** from it.
+- **`site.config.json`** (repo root) — Site identity: name, brand, URL, base path, repo/issues links, editor credit, licence, theme colours.
 
 The mirrored **AI agent skills** live in [`skills/research/`](skills/research/) and encode the editorial conventions the agents must follow:
 
@@ -182,7 +189,7 @@ The mirrored **AI agent skills** live in [`skills/research/`](skills/research/) 
 - **`wiki-page-deepening`** — how to genuinely deepen/enrich/enhance a concept, article, or FAQ page (mine raw sources for specifics, weave into the narrative, add practical tips/examples/implications, cross-link, gate, ship).
 - **`wiki-astro-frontend`** — editing the Astro frontend (homepage, concept map, icons).
 
-> **Two copies, one role — why these files live in two places.** The `skills/research/` copies in this repo are **scrubbed, public-safe mirrors** of the agent's own installed skills, which live in the agent's home-directory skill store rather than in this repo. The installed copies are the working, full-detail originals and may contain environment-specific detail (paths, install notes). Because this repo is **public**, the mirrors must stay free of personal or machine-specific information — no names, machine-specific paths, or agent branding. When a skill changes, sync **only public-safe wording** from the installed original into the repo mirror; never overwrite a mirror wholesale with a local copy (that leaks private detail into public history). Keep the two in lock-step so a reader of the repo and the working agent follow the same procedures. The canonical `research-wiki` skill that drives ingestion/export lives in [`tooling/`](tooling/) (see below), not under `skills/`.
+> **Two copies, one role — why these files live in two places.** The `skills/research/` copies in this repo are **scrubbed, public-safe mirrors** of the agent's own installed skills, which live in the agent's home-directory skill store rather than in this repo. The installed copies are the working, full-detail originals and may contain environment-specific detail (paths, install notes). Because this repo is **public**, the mirrors must stay free of personal or machine-specific information — no names, machine-specific paths, or agent branding. When a skill changes, sync **only public-safe wording** from the installed original into the repo mirror; never overwrite a mirror wholesale with a local copy (that leaks private detail into public history). `python3 tooling/scripts/sync-skills.py --check` normalizes the sanctioned differences (absolute paths, the agent's name, personal identifiers) and reports only real content drift; `--to-repo` refreshes the mirrors with the redaction applied. The canonical `research-wiki` skill that drives ingestion/export lives in [`tooling/`](tooling/) (see below), not under `skills/`.
 
 The repo's [`AGENTS.md`](AGENTS.md) documents the page-structure rules and the inline-link HARD GATE that agents must follow on every ingestion.
 

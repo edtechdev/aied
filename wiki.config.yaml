@@ -1,0 +1,188 @@
+# Wiki pipeline configuration - the single source of truth for THIS knowledge
+# base's tooling: what the scanners search, which journals are polled, how the
+# site is built, and which AI agent runs the scheduled jobs.
+#
+# Site identity (name, URL, base path, editor, licence, theme) lives in
+# `site.config.json`, which the Astro build also reads. Do not duplicate it here.
+#
+# Read by:
+#   tooling/scripts/wiki_config.py     loader + validator (--check, --get, --cap)
+#   tooling/scripts/fetch-rss-feeds.py journal feeds
+#   tooling/cron/*.md                  the scheduled job prompts
+# Validate with: python3 tooling/scripts/wiki_config.py --check
+
+version: 1
+
+# Site identity (name, short name, brand, URL, base path, repo URL, editor,
+# licence, theme colours) lives in this file, which the Astro build also reads.
+site:
+  metadata: site.config.json
+
+# ---------------------------------------------------------------------------
+# Where the content lives
+# ---------------------------------------------------------------------------
+paths:
+  articles: articles
+  concepts: concepts
+  faqs: faqs
+  raw_papers: raw/papers          # gitignored: raw full text of each source
+  pdf_sources: pdf-sources        # gitignored: original PDFs, never deleted
+  registry: concepts.registry.yaml   # concept vocabulary (slug, title, aliases)
+  scan_state: log.md              # `scan-complete` anchors that bound each scan
+  backlog: AIED-BACKLOG.md        # sources awaiting full text
+
+# ---------------------------------------------------------------------------
+# Commands (paths relative to the repo root)
+# ---------------------------------------------------------------------------
+build:
+  # HARD GATES - run in this order before every build/commit. A green build is
+  # not a substitute for either gate.
+  gates:
+    - python3 tooling/scripts/check_concepts.py
+    - python3 skills/research/wiki-inline-links/scripts/inline_link_scan.py . --all
+    - python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py . --all
+  site: npm run build             # Astro + Pagefind + PWA service worker
+  llms: python3 tooling/scripts/generate-llms-files.py
+  # Offline books are LOCAL committed artefacts, rebuilt ONLY on explicit
+  # request - never automatically after content edits.
+  epub: python3 tooling/build-epub.py
+  kdp_epub: python3 tooling/build-kdp-epub.py
+
+# ---------------------------------------------------------------------------
+# The AI agent that runs the pipeline. Everything agent-specific is confined to
+# this block so the rest of the tooling stays portable.
+# ---------------------------------------------------------------------------
+agent:
+  name: Hermes                    # e.g. Hermes, Claude Code, Codex, Aider...
+  skills_dir: ~/.hermes/skills    # where this agent installs skills (sync target)
+  # The pipeline is described in terms of capabilities, never tool names. Map
+  # each capability onto the tool YOUR agent provides.
+  capabilities:
+    run_python: execute_code      # run a Python snippet and read its output
+    read_file: read_file
+    write_file: write_file
+    shell: terminal               # run a shell command / script
+    fetch_url: web_extract        # fetch a URL as markdown/text
+    search_web: web_search
+    delegate: delegate_task       # spawn an isolated sub-agent
+    schedule: cronjob_manage      # create/update a recurring job
+
+# ---------------------------------------------------------------------------
+# Daily new-paper scan
+# ---------------------------------------------------------------------------
+scan:
+  schedule: "0 9 * * 1-5"         # weekdays 09:00 (repo-local timezone)
+  window:
+    default_days: 3               # used when no scan-complete anchor exists
+    state_key: last_arxiv_scan_date
+  sources:
+    - name: arXiv CS + education
+      type: arxiv_api
+      url: "https://export.arxiv.org/api/query"
+      categories: [cs.CY, cs.HC, cs.CL, cs.AI]
+      keywords: [education, learning, student, teacher, classroom, tutor, school,
+                 curriculum, pedagog, grading, feedback, literacy, assessment,
+                 metacognit]
+      max_results: 20
+      # Listing pages to scrape when the API rate-limits or returns nothing.
+      listing_fallback: ["https://arxiv.org/list/cs.CY/recent",
+                         "https://arxiv.org/list/cs.HC/recent",
+                         "https://arxiv.org/list/cs.CL/recent",
+                         "https://arxiv.org/list/cs.AI/recent"]
+    - name: arXiv physics.ed-ph
+      type: arxiv_api
+      url: "https://export.arxiv.org/api/query"
+      categories: [physics.ed-ph]
+      keywords: [AI, LLM, chatbot, generative, machine learning]
+      max_results: 10
+      listing_fallback: ["https://arxiv.org/list/physics.ed-ph/recent"]
+    - name: EdArXiv
+      type: web_search
+      url: "https://osf.io/preprints/edarxiv/discover"
+      query: "AI OR LLM OR generative education learning teaching tutoring"
+      max_results: 20
+  # Applied after retrieval; default_policy wins whenever the call is close.
+  relevance_filter:
+    include:
+      - AI/LLM/generative AI applied to education, learning, or teaching
+      - Intelligent tutoring systems, AI feedback, automated grading
+      - AI literacy, AI in classrooms, student-AI interaction
+      - Learning analytics, knowledge tracing, student modelling
+      - AI-generated educational content or assessment
+      - AI safety or harms in educational contexts
+    exclude:
+      - Pure CS/ML research with no education application
+      - General AI fairness/ethics without an education context
+      - Non-AI education research
+      - AI-detection tools without an education context
+    default_policy: ingest
+  deduplication: doi_or_arxiv_id
+  rate_limiting:
+    strategy: exponential_backoff
+    base_delay: 2
+    max_retries: 5
+    backoff_multiplier: 2
+
+# ---------------------------------------------------------------------------
+# Weekly open-access journal scan
+# ---------------------------------------------------------------------------
+journal_scan:
+  schedule: "0 8 * * 0"           # Sundays 08:00
+  fetcher_script: tooling/scripts/fetch-rss-feeds.py   # reads the feeds below
+  # Each feed: id (stable key used in the report), parser (which XML shape the
+  # feed uses - see tooling/scripts/fetch-rss-feeds.py), url, open_access
+  # (true | false | check_per_article) and the freshness cutoff.
+  feeds:
+    - id: caeai
+      name: "Computers and Education: Artificial Intelligence"
+      url: "https://rss.sciencedirect.com/publication/science/2666920X"
+      parser: parse_caeai
+      journal: "Computers and Education: Artificial Intelligence"
+      doi_prefix: caeai
+      open_access: true
+      max_age_days: 90
+    - id: ceao
+      name: Computers and Education Open
+      url: "https://rss.sciencedirect.com/publication/science/26665573"
+      parser: parse_caeai
+      journal: Computers and Education Open
+      doi_prefix: caeo
+      open_access: true
+      max_age_days: 90
+    - id: bjet
+      name: British Journal of Educational Technology
+      url: "https://bera-journals.onlinelibrary.wiley.com/feed/14678535/most-recent"
+      parser: parse_bjet
+      open_access: check_per_article   # hybrid journal - verify before ingesting
+      max_age_days: 30
+    - id: frontiers
+      name: Frontiers in Psychology
+      url: "https://www.frontiersin.org/journals/psychology/rss"
+      parser: parse_frontiers
+      open_access: true
+      max_age_days: 30
+    - id: ijethel
+      name: International Journal of Educational Technology in Higher Education
+      url: "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=41239"
+      parser: parse_springer
+      journal: International Journal of Educational Technology in Higher Education
+      doi_prefix: ijethel
+      open_access: true
+      max_age_days: 90
+    - id: ijaied
+      name: International Journal of Artificial Intelligence in Education
+      url: "https://rss.sciencedirect.com/publication/science/15604292"
+      parser: parse_caeai
+      journal: International Journal of Artificial Intelligence in Education
+      doi_prefix: ijaied
+      open_access: true
+      max_age_days: 90
+
+citation_format: APA
+
+# ---------------------------------------------------------------------------
+# Where the scheduled jobs report back
+# ---------------------------------------------------------------------------
+notification:
+  platform: telegram     # or: local (write to the cron output dir only)
+  delivery: origin       # deliver to the chat that created the job
