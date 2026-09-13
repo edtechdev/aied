@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-13T08:06:24-04:00"
+updated: "2026-09-13T12:25:00-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback]
 category: [engagement, evaluation]
@@ -52,6 +52,8 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 - **Sequence + Markov-chain analysis of self-directed behavior.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] combined activity sequence analysis, hierarchical clustering, and Markov chain models on the clickstreams of 315 online learners who built 822 ecological models in VERA, distilling nine fine-grained, transition-based behavioral clusters into three broader patterns (Observation, Construction, Exploration). Their work demonstrates that combining sequence analysis with Markov chain modeling can uncover meaningful behavior in unstructured, [[self-directed-learning|self-directed]] tasks even in the complete absence of demographic or contextual data.
 
 - **LA and GenAI shape learning design differently (2026).** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used ENA on 11 instructor focus groups to compare how learning analytics versus [[generative-ai|generative AI]] inform [[learning-design|learning design]] decision-making. LA discussions centered on contextual information, course-level design, and creative [[problem-solving]] (LA for diagnosing engagement and targeting support), while GenAI discussions centered on assessment design and designing for student [[self-determination-theory|self-determination]] (GenAI for ideation and assessment development). Context and [[creativity]] were central across both — a reminder that analytics inform design only within [[pedagogy|pedagogical]] context and instructor autonomy.
+
+- **Design analytics: mining planned activity sequences rather than traces (2026).** [[learning-paths-patterns-learning-design-2026|Divjak, Svetec and Horvat (2026)]] applied Markov chains and sequential pattern mining to the *designed* sequence of 29,064 teaching and learning activities across 554 courses planned in an open learning-design tool. The transition matrix peaked at Assessment to Discussion (0.332), self-transitions dominated Practice (0.317) and Acquisition (0.292), and the strongest consecutive rule was Acquisition to Assessment to Practice to Practice (confidence 0.743, lift 1.449), while the most frequent four-step path was Acquisition, Practice, Practice, Assessment (120 occurrences). Discussion and Assessment were the most reachable types and Production the most distant and sporadic. The study is a reminder that learning analytics need not begin with LMS traces: design-time data can expose the pedagogical grammar of a course before any student arrives, though the authors stress that resemblance to flipped, inquiry-based or [[project-based-learning|project-based]] designs is not evidence of intent.
 
 - **Self-explaining distilled LLMs (2026):** A two-stage pipeline distills a black-box learning-analytics estimator and its post-hoc interpretation into a small, open-weight [[llm]] that returns both an individual-level estimate and a natural-language explanation. A faithfulness-first audit evaluates whether narrations match the attributions they describe; [[simulation]] shows near-lossless recovery (r > .90) with an oracle mentor, offering a more transparent, deployable path for analytics ([[distilling-self-explaining-lm-learning-analytics-2026]]).
 
@@ -142,3 +144,4 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[an-goel-self-directed-modeling-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
+- [[learning-paths-patterns-learning-design-2026]] — Markov chain and pattern mining of 29,064 planned activities in 554 courses, revealing a design grammar led by Acquisition and consolidating Practice

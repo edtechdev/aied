@@ -1,9 +1,12 @@
 # Journal
 
 
-Last updated: 2026-09-13 | Total entries: 1344
+Last updated: 2026-09-13 | Total entries: 1347
 
 ## 2026-09-13
+- 📄 [[age-tiered-ai-literacy-guidebooks-2026]] — Measuring Acceptance of Age-Tiered AI Literacy Guidebooks: A Developmentally Informed Study of K-12 Students and Teachers
+- 📄 [[ai-training-science-teacher-tpack-distance-2026]] — AI training and science student teachers’ TPACK in campus-based and distance education: a comparative study
+- 📄 [[learning-paths-patterns-learning-design-2026]] — Learning paths and patterns in learning design: Insights from 500+ courses
 - 📄 [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting: Patterns and Performance
 - 📄 [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation: A Serial Mediation Model of Self-Efficacy and Learning Motivation
 - 📄 [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI: A Self-Determination Theory Synthesis

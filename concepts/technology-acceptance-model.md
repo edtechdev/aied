@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-08T02:41:30-04:00"
+updated: "2026-09-13T12:25:00-04:00"
 type: concept
 tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied]
 research_method: [research methods]
@@ -56,6 +56,7 @@ Adoption models are applied across the knowledge base to model student and [[tea
 - **ML determinants of ChatGPT adoption:** An exploratory ML approach examined how students' perceptions and demographics relate to intended academic ChatGPT use, using SHAP analysis to identify key learning-related constructs — prioritizing educational meaning over maximizing algorithmic performance ([[determinants-chatgpt-use-higher-education-2026]]).
 - **XAI-augmented UTAUT2:** [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] combine UTAUT2 with Random Forest, SHAP, NCA, IPMA, and K-Means for 522 students, finding habit the strongest predictor and identifying four adoption profiles (Resistant, Late, Pragmatic, Technology Enthusiasts) — demonstrating that explainability techniques reveal necessary conditions and heterogeneity that linear models miss.
 - **Explainability and domain relevance as acceptance levers for teachers:** Adapting trust-in-automation theory to teacher acceptance of AI recommendations, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found that understandability (raised by explainable AI) correlated positively with both trust and acceptance of an AI grouping tool, and that domain-driven explanations in curricular language outperformed data-driven feature-importance ones on all three. Acceptance was additionally driven by pedagogical alignment and workload-reduction potential — situational factors beyond trust that standard TAM/UTAUT constructs rarely capture, reinforcing the case for extending adoption models with context and explainability.
+- **Acceptance measured at the level of instructional materials (2026).** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang and Wu (2026)]] operationalized Performance Expectancy, Effort Expectancy, Perceived Playfulness, and Behavioral Intention for two age-tiered AI literacy guidebooks used by 794 K-12 students and 37 teachers, validating the four-factor structure with split-sample EFA and CFA and supporting measurement invariance across the 9-12 and 13-18 editions. Younger learners reported higher levels on all four constructs, and playfulness was the strongest correlate of intention in both cohorts — with the standardized playfulness-to-intention coefficient exceeding 1.00 in the younger group and an HTMT of .950 between the two constructs. The authors read that as construct overlap and possible suppression rather than a giant effect, a useful reminder that acceptance instruments applied to materials can produce empirically entangled factors that complicate structural interpretation.
 
 ## Limits and extensions
 
@@ -103,3 +104,4 @@ TAM's cognitive focus also under-captures emotional and relational dimensions of
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
+- [[age-tiered-ai-literacy-guidebooks-2026]] — Material-level PE/EE/playfulness/intention model for age-tiered AI literacy guidebooks, with documented playfulness-intention construct overlap

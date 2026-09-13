@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-09-06T12:48:50-04:00"
+updated: "2026-09-13T12:25:00-04:00"
 type: concept
 tags: [online-teaching-and-learning, pedagogy, learning-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
 level: [higher ed]
@@ -33,7 +33,7 @@ The rise of generative AI lands directly in this context. Online learners alread
 Online teaching and learning takes several related forms that share the medium but differ in reach and structure:
 
 - **Blended and hybrid learning.** Models that combine in-person and online components, intentionally integrating digital activities, materials, and interactions with face-to-face teaching. Blended formats ask instructors to decide what is best done synchronously vs. asynchronously and online vs. in person — decisions that [[learning-design]] principles organize and that AI both supports and complicates. In the blended context, AI tools offer opportunities for [[personalized-learning|personalization]] and always-on support while raising integrity and offloading risks that span both the online and in-person portions. [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] illustrate this in two blended settings — flipped university classrooms and reflective writing in vocational education — where a learning analytics dashboard (DashED) communicated ML-derived [[self-regulated-learning|self-regulated learning]] profiles to teachers. Adoption concerns diverged by context: flipped-classroom (university) teachers worried most about data anonymization and student opt-out, whereas reflective-writing (vocational) teachers feared misuse of the tool by fellow educators and stressed the need to contextualize data. In use, flipped-classroom teachers followed a sequential exploration and favored course-level adaptation and showing dashboards in class, while vocational teachers revisited summary pages and used the tool mainly for individual coaching sessions — evidence that blended analytics design must be context-aware.
-- **Distance education.** Programs designed for learners who study remotely, often at scale and across regions (e.g., the Open University's 200K+ learners). Distance learning is where 24/7, context-embedded AI support and the impossibility of in-person invigilation are most salient.
+- **Distance education.** Programs designed for learners who study remotely, often at scale and across regions (e.g., the Open University's 200K+ learners). Distance learning is where 24/7, context-embedded AI support and the impossibility of in-person invigilation are most salient. Comparative evidence from South African teacher preparation shows the medium itself is associated with preparedness: [[ai-training-science-teacher-tpack-distance-2026|Mnguni et al. (2026)]] found self-reported TPACK for AI-integrated science teaching higher among final-year student teachers at a campus-based university (64.0%) than at a distance education university (47.4%), with the weakest reported domain in both settings being Pedagogical Knowledge. The pattern warns that distance programmes cannot assume that the same AI training produces the same readiness, and that the design of the training, not its presence, is what differs.
 
 ## Opportunities and benefits of AI for online teaching and learning
 
@@ -153,3 +153,4 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[zhang-ml-student-progress-programming-2026]]
 - [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
+- [[ai-training-science-teacher-tpack-distance-2026]] — Campus-based student teachers reported higher TPACK for AI-integrated science teaching than distance education peers (64.0% versus 47.4%)
