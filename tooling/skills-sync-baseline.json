@@ -1,0 +1,58 @@
+{
+  "skills/research/wiki-article-quality/SKILL.md": {
+    "installed": "5055eeb264495863",
+    "repo": "a0e1821f6fc69f9b"
+  },
+  "skills/research/wiki-astro-frontend/SKILL.md": {
+    "installed": "a61ece755ec2ec79",
+    "repo": "155c8de2699a7a5b"
+  },
+  "skills/research/wiki-astro-frontend/references/concept-slug-rename-2026-08-31.md": {
+    "installed": "863b945452c4af5c",
+    "repo": "17cc4a66bf1baa9c"
+  },
+  "skills/research/wiki-astro-frontend/references/frontend-refinements.md": {
+    "installed": "989fc2de171d6601",
+    "repo": "79dfc41cc6257e73"
+  },
+  "skills/research/wiki-astro-frontend/references/maintainer-iteration-process.md": {
+    "installed": "b2cbdb9137cf2d06",
+    "repo": "6bf9920bd2e6b713"
+  },
+  "skills/research/wiki-astro-frontend/references/mobile-header-and-midturn-steering.md": {
+    "installed": "dbf98ae1e1d67ff6",
+    "repo": "954ccab0e08fd5ca"
+  },
+  "skills/research/wiki-astro-frontend/references/sidebar-and-chrome-patterns.md": {
+    "installed": "13d00f67cbe0abf0",
+    "repo": "b25e8b250470d7d3"
+  },
+  "skills/research/wiki-astro-frontend/references/sidebar-tabs-and-prevnext-2026-08-31.md": {
+    "installed": "566c3e9b43bf79e4",
+    "repo": "31d4bf84f44cdecc"
+  },
+  "skills/research/wiki-batch-fulltext-enrichment/SKILL.md": {
+    "installed": "61c0bac4ff80bb1c",
+    "repo": "6b07941a2ee5af83"
+  },
+  "skills/research/wiki-concept-narrative/SKILL.md": {
+    "installed": "a12ab9aff0ae2a02",
+    "repo": "4db72097b35d708e"
+  },
+  "skills/research/wiki-concept-page-design/SKILL.md": {
+    "installed": "b90e018991acb89a",
+    "repo": "6e7efc0deac3600b"
+  },
+  "skills/research/wiki-faq-pages/SKILL.md": {
+    "installed": "206c125e0fc49480",
+    "repo": "da3546b45a442e23"
+  },
+  "skills/research/wiki-page-deepening/SKILL.md": {
+    "installed": "504408176fd65dd5",
+    "repo": "64ef73325870faa9"
+  },
+  "tooling/SKILL.md": {
+    "installed": "92baa2e5fc55dd90",
+    "repo": "9a481a56d4ca84ca"
+  }
+}

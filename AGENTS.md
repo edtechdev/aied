@@ -107,6 +107,20 @@ are curated answers, not paper summaries. Their narrative follows the same inlin
 articles/concepts (link every concept mention). To surface a FAQ on a concept/article page, add the
 FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs** section).
 
+### Sources of truth
+
+- **Site identity** (name, URL, base path, editor, licence, theme): `site.config.json`.
+- **Pipeline + scan settings** (paths, gate/build commands, arXiv sources, journal
+  feeds, relevance filter, agent tool mapping): `wiki.config.yaml`. Read it with
+  `python3 tooling/scripts/wiki_config.py` — never hardcode a path, journal, arXiv
+  category or agent tool name in a prompt or script.
+- **Concept vocabulary** (slug, title, synonym phrases, sidebar sections, redirects):
+  `concepts.registry.yaml`. `tooling/concept-index.md`, `src/data/conceptIndex.ts`
+  and `src/data/conceptRedirects.ts` are **generated** from it by
+  `python3 tooling/scripts/gen-concept-artifacts.py` — never hand-edit them. A new
+  concept needs a `concepts:` entry (title + at least one alias) AND a place in a
+  `sections:` group, then `python3 tooling/scripts/check_concepts.py` must pass.
+
 ### Rules
 - NO duplicate H1 headings in body (template adds the title)
 - NO duplicate sections (one Connected Concepts, one Connected Articles)
@@ -121,8 +135,18 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
 - Tags: tags in frontmatter are **concept slugs** (each value is a real concept page); they render as **clickable chips linking to their concept pages**. Optional structured metadata fields (`level`, `audience`, `discipline`, `category`, `research_method`) hold natural-language values used as PageFind search facets — see `tooling/SCHEMA.md`.
 - Citation: single APA line with hyperlinked title, NO "Full text" blocks, NO bullet prefix
 - Delete stub pages with < 300 chars of real body content
-- After ANY page change: run `npm run build`, then `git add -A && git commit -m "..." && git push origin main`
-- **Offline EPUB/PDF (build-related):** the site also publishes `public/aied.epub` and `public/aied.pdf` (concepts + FAQs, with a Notice page and clickable TOC). After content changes, regenerate them with `python3 tooling/build-epub.py` and commit them too (they are committed artifacts served from `/aied/aied.epub` and `/aied/aied.pdf`). Requires `pandoc` and, for the PDF, `weasyprint`.
+- After ANY page change: run the HARD GATES (`python3 tooling/scripts/run-gates.py` or `npm run verify`), then `npm run build`, then `git add -A && git commit -m "..."`. **Never push without explicit per-occurrence approval** — commit locally, then ask.
+- **Offline EPUB/PDF (build-related):** the site also publishes `public/aied.epub` and `public/aied.pdf` (concept + FAQ pages, with a Notice page and a clickable TOC). These are **local committed artefacts rebuilt ONLY on explicit request** — never automatically after content edits, and never by CI. Regenerate with `python3 tooling/build-epub.py` (requires `pandoc` and, for the PDF, `weasyprint`) and commit the result.
 
-### Cron job
-Weekdays 9am ET: scans arXiv cs+education and physics.ed-ph for new papers, creates articles + updates concepts, builds site, commits and pushes.
+### Cron jobs
+
+Two scheduled jobs, both driven by the settings in `wiki.config.yaml`:
+
+- **Daily new-paper scan** (weekdays 09:00): reads `scan.sources` (arXiv categories,
+  keywords, listing fallbacks) and `scan.relevance_filter`; ingests new papers,
+  updates concepts, runs the HARD GATES, builds the site and commits.
+- **Weekly journal RSS scan** (Sundays 08:00): reads `journal_scan.feeds`; ingests
+  new open-access journal articles and commits.
+
+Neither job pushes: a push requires explicit per-occurrence approval. Offline
+EPUB/PDF artefacts are rebuilt only on explicit request, never by a scan.

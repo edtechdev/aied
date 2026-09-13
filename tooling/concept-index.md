@@ -34,7 +34,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`computational-thinking`** — Computational Thinking — phrases: computational skills; computational thinking
 - **`critical-thinking`** — Critical Thinking — phrases: analytical thinking; critical analysis; critical evaluation; critical reasoning; critical thinking; higher order thinking; higher-order thinking; reasoning
 - **`curriculum-design`** — Curriculum Design — phrases: curricular; curriculum; curriculum alignment; curriculum design; curriculum development
-- **`design-thinking`** — Design Thinking — phrases: design process; design thinking; design-based
+- **`design-thinking`** — Design Thinking — phrases: design process; design thinking
 - **`human-ai-collaboration`** — Human AI Collaboration — phrases: co-pilot; human collaboration; human-ai collaboration; human-ai interaction; human-AI teaming; human-computer interaction; human-machine collaboration; hybrid intelligence
 - **`learner-identity`** — Learner Identity — phrases: identity development; identity work; learner identity; professional identity; student identity
 - **`sustainability`** — Sustainability — phrases: education for sustainable development; green skills; SDGs; sustainability; sustainable development; sustainable development goals
@@ -111,7 +111,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`multimodal`** — Multimodal AI — phrases: multi-modal; multimodal; multimodal AI; multimodal learning; multimodal learning analytics
 - **`pedagogical-llm-training`** — Training Pedagogical LLMs for Tutoring — phrases: fine-tuning tutors; llm training; LLM training for tutoring; model training; pedagogical fine-tuning; pedagogical LLM; pedagogical training; training pedagogical LLMs
 - **`prompt-engineering`** — Prompt Engineering — phrases: prompt design; prompt engineering; prompt literacy; prompting; prompting strategies; prompting strategy
-- **`rag`** — RAG (Retrieval-Augmented Generation) — phrases: rag; retrieval; retrieval augmentation; retrieval augmented; retrieval-augmented; retrieval-augmented generation
+- **`rag`** — RAG (Retrieval-Augmented Generation) — phrases: rag; retrieval augmentation; retrieval augmented; retrieval-augmented; retrieval-augmented generation
 - **`reinforcement-learning`** — Reinforcement Learning — phrases: reinforcement learning; reward model; RLHF
 - **`simulation`** — Simulation — phrases: augmented reality; immersive; simulation; simulation-based learning; simulations; simulator; virtual environment; virtual lab; virtual laboratory; virtual patient; virtual reality
 - **`vibe-coding`** — Vibe Coding — phrases: building software by prompting; end user development; end-user development; natural language programming; natural-language programming; prompt-driven programming; vibe coding; vibe-coding
@@ -194,7 +194,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 - **`ai-ed-evaluation`** — AI Ed Evaluation — phrases: ai evaluation; AI system evaluation; aied evaluation; assessment of AI systems; efficacy evaluation; evaluating AI; evaluation; evaluation of ai
 - **`benchmark`** — Benchmark — phrases: benchmark; benchmark dataset; benchmark suite; benchmarking; benchmarks; evaluation benchmark
-- **`design-based-research`** — Design-Based Research — phrases: dbr; design based research; design-based research
+- **`design-based-research`** — Design-Based Research — phrases: dbr; design based research; design-based; design-based research
 - **`learning-gains`** — Learning Gains — phrases: academic achievement; academic performance; achievement; achievement gap; achievement gaps; learning achievement; learning effectiveness; learning gains; learning outcomes; prior achievement; student achievement
 - **`meta-analysis-systematic-review`** — Meta-Analysis and Systematic Review — phrases: literature review; meta-analysis; meta-analytic; PRISMA; scoping review; systematic review; systematically review
 - **`mixed-methods-research`** — Mixed-Methods Research — phrases: mixed methods; mixed-methods
@@ -211,7 +211,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 - **`ai-anxiety-and-stress`** — AI Anxiety and Stress — phrases: AI anxiety; AI stress; AI-induced anxiety; productive AI anxiety; remote proctoring anxiety; surveillance stress; test anxiety
 - **`career-development-and-readiness`** — Career Development and Readiness — phrases: AI career anxiety; career adapt-abilities; career adaptability; career development; career readiness; employability; workforce readiness
-- **`stakeholders`** — Stakeholders — phrases: audiences; instructional designers; policymakers; stakeholder; stakeholders; students
+- **`stakeholders`** — Stakeholders — phrases: instructional designers; policymakers; stakeholder; stakeholders
 - **`student-experience`** — Student Experience — phrases: learner experience; student accountability; student experience; student experiences; student voice
 
 ### Instructors
