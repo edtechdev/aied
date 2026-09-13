@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-12T19:23:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education]
@@ -84,6 +84,12 @@ The sharpest recent reframing treats the generative AI problem as an evidentiary
 - [[llm]]
 - [[feedback]]
 - [[self-report-measures]]
+- [[end-of-assessment-ai-disruption-transformation-2026]]
+- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
+- [[kumar-genai-computing-education-systematic-review-2026]]
+- [[prior-knowledge]]
+- [[student-engagement]]
+- [[assessment]]
 
 ## Connected Articles
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space

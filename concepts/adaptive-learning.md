@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
@@ -50,10 +50,6 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - **Correctness-based adaptivity can stop practice too early.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] found that adaptive systems inferring mastery from correctness risk terminating practice before learners encounter contexts where the learned action should be withheld — leaving deceptive overgeneralization undetected. They recommend including "do-not-act" detector tasks before mastery stopping rules trigger, so adaptation tests conditional understanding (knowing when to withhold an action), not only correctness.
 
 - **Engagement profiles as adaptation targets.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] traced 315 online learners building 822 models in VERA and classified their engagement into Observation, Construction, and Exploration profiles, finding that learners tend to progress from construction-focused behavior toward fuller, hypothesis-driven Exploration while Observation persists across phases. They argue adaptive and personalized design should recognize these profiles and target feedback (e.g., recommending similar models or supporting deeper conceptual understanding) to move surface-level observers toward more integrative, full-cycle modeling.
-
-### Connections
-
-Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[personalized-learning]] (the goal), [[intelligent-tutoring]] (the platform), [[cognitive-diagnosis]] (fine-grained [[assessment]]), and [[scaffolding]] (adaptation as dynamic scaffolding).
 
 ## Connected Concepts
 

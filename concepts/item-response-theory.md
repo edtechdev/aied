@@ -1,7 +1,7 @@
 ---
 title: Item Response Theory
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai]
 research_method: [educational measurement]
@@ -50,6 +50,7 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[adaptive-learning]]
 - [[automated-assessment]]
 - [[intelligent-tutoring]]
+- [[llm-difficulty-calibration-programming-exams-2026]]
 
 ## Connected Articles
 - [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)

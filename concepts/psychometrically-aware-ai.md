@@ -1,7 +1,7 @@
 ---
 title: Psychometrically Aware AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, llm]
 research_method: [educational measurement]
@@ -45,6 +45,7 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[ai-ed-evaluation]]
 - [[llm]]
 - [[limitations-in-aied-research]]
+- [[ai-education]]
 
 ## Connected Articles
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment

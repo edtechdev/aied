@@ -1,7 +1,7 @@
 ---
 title: Cognitive Diagnosis
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-04T09:30:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [student-modeling, educational-measurement, knowledge-tracing, assessment, intelligent-tutoring, learning-analytics, psychometrically-aware-ai]
 research_method: [educational measurement]
@@ -47,7 +47,7 @@ Cognitive diagnosis sits at the heart of the [[intelligent-tutoring]] architectu
 - **LLM-era diagnosis.** [[llm|LLMs]] extend diagnosis from multiple-choice responses to open-ended, handwritten, and conversational work, identifying the specific [[misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning). [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept-tree construction and hierarchical proficiency inference, bridging diagnosis and tracing. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et al. (2026)]] push this further by federating diagnosis across multiple commercial LLM APIs with ε-local differential privacy, showing that accurate, privacy-preserving diagnosis is feasible without any model seeing raw student data.
 - **Separating diagnosis from feedback is a design principle.** LLM tutors reliably confirm correct steps but over-reject valid reasoning and over-validate errors — and accurate diagnosis does not reliably yield actionable [[feedback]]. ITS design should therefore separate a diagnostic component from the feedback/scaffolding component ([[yasir-llm-tutoring-agents-2026]]).
 
-### Connections
+## Connections
 
 Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]], and [[assessment]]. Its insights feed [[intelligent-tutoring]] and [[adaptive-learning]], and LLM-era work links it to misconception identification in [[intelligent-tutoring|AI Tutoring]].
 

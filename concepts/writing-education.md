@@ -1,7 +1,7 @@
 ---
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-12T08:50:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 discipline: [language learning, writing education]
@@ -95,6 +95,8 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[feedback]]
 - [[discipline-specific-aied]]
 - [[english-education]]
+- [[assessment]]
+- [[agency]]
 
 ## Connected Articles
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
@@ -124,7 +126,6 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
-
 
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)

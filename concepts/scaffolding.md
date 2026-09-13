@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-11T11:58:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor]
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
@@ -70,6 +70,9 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[help-seeking]] — Scaffolding shapes when and how learners request help
 - [[teacher-role]] — Teachers scaffold, then fade as competence grows
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[agentic-ai-pedagogical-best-practice-2026]]
+- [[agentic-ai]]
+- [[zhang-tutormoments-2026]]
 
 ## Connected Articles
 - [[kumar-genai-computing-education-systematic-review-2026]] — Scaffold withdrawal as the mechanism enforcing verification (VIE framework)
