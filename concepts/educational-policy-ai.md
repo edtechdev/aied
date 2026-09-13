@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics]
 audience: [administrators, instructors, faculty development]
@@ -54,11 +54,6 @@ Policy and governance are closely related but distinct, and keeping them apart m
 - **They are interdependent.** Policy without governance is unenforced — a written rule no one owns, monitors, or updates. Governance without policy lacks direction — structures that administer nothing in particular. The knowledge base's research repeatedly shows that the two must be built together: a policy that only *classifies* AI use without governance to specify evidence, safeguards, and revision processes remains weak in practice ([[credential-cognitive-stewardship-ai-assessment|the cognitive-stewardship audit]]), and governance that merely monitors without clear policy risks surveillance without [[bias-mitigation|fairness]] (see [[governance|AI governance]]).
 
 The practical test that separates them: a policy can be read on paper, but governance is observed in whether the rule is implemented, enforced, and adapted. This is why [[governance]] extends [[regulation]] and policy into institutions, and why the knowledge base treats assessment-format choices ([[summative-assessment]]) as *policy* decisions that only become effective through *governance* structures like review boards, declaration frameworks, and appeal routes.
-
-### Connections
-
-Educational AI policy connects to [[regulation]] (legal framework), [[governance]] (institutional implementation), [[educational-development]] (policy implementation through training), [[equity-in-ai-education]] (policy impacts on access), and [[higher-ed]] / [[k-12]] (context-specific policy).
-
 
 ### The policy deficit in AI × SEL research
 
@@ -125,7 +120,6 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-
 
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)

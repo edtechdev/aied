@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: []
 confidence: medium
@@ -77,6 +77,8 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[creativity]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
+- [[human-in-the-loop-ai]] — oversight
+- [[agentic-ai]] — autonomy
 
 ## Connected Articles
 - [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: first RCT of human-AI scaling expertise to novice tutors

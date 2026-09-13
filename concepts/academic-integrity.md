@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-12T19:23:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -124,6 +124,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[generative-ai]]
 - [[higher-ed]]
 - [[k-12]]
+- [[ai-education]]
 
 ## Connected Articles
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space

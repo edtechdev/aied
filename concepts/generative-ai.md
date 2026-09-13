@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk]
 
@@ -46,10 +46,6 @@ Content generation likewise reaches beyond [[math-education|mathematics]] into c
 ### Generative AI in specialized domains: dyslexia support
 
 A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-guided, 2018–2024, n=72) finds that **generative AI is under-utilized in the dyslexia-support domain**. GAI research (all from 2024) clusters into intelligent [[conversational-ai|chatbots]], [[teacher-role|teacher training]] support, and exploratory studies, and is rapidly overtaking classical [[machine-learning|ML]] as the tool of choice — yet rigorous experimentation and real-world validation remain largely absent. The review's future-trends analysis points to GAI-powered personalized materials and real-time adaptive feedback, [[multimodal|multi-modal]] diagnostic models integrating eye-tracking, EEG, and behavioral analytics, NLP-driven [[intelligent-tutoring|intelligent tutoring systems]] and conversational agents, and educator-facing support tools. This illustrates both the promise of generative AI for content generation and interactive support in a specialized, high-need domain and the risk that its adoption outpaces the evidence base.
-
-### Connections
-
-Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how outputs are shaped), [[rag]] (retrieval-augmented grounding), and [[ai-literacy]] (the competency needed to use it effectively).
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, well-being]
 level: [higher ed, k 12]
@@ -70,7 +70,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 
 **Overall:** the same AI tool can support or undermine students depending on design and use. The guardrail throughout is to keep the learner doing the cognitively important work while using AI for support ([[scaffolding|scaffold, do not substitute]]), and to attend to the full range of impacts — not just performance.
 
-### Connections
+## Connections
 
 Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders|Stakeholders]] umbrella, and the home for summarizing all the ways AI impacts students.
 
@@ -96,6 +96,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[academic-integrity]]
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 - [[self-report-measures]]
+- [[student-engagement]] — how AI systems measure and respond to student behavior
 
 ## Connected Articles
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use

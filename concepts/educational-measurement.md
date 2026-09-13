@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing, ai-literacy]
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
@@ -101,6 +101,9 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[self-efficacy]]
 - [[benchmark]]
 - [[self-report-measures]]
+- [[motivation]]
+- [[student-engagement]]
+- [[causal-modelling-competency-assessment-2026]]
 
 ## Connected Articles
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment

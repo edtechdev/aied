@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-13T09:31:55-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, pedagogical-llm-training, pedagogical-safety]
 
@@ -30,11 +30,6 @@ confidence: high
 ### RAG vs fine-tuning
 
 RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up-to-date, domain-specific grounding without retraining, while fine-tuning embeds pedagogical behaviors. The knowledge base's research explores both approaches and their combination.
-
-### Connections
-
-RAG connects to [[llm]] (the generation component), [[knowledge-graph]] (structured knowledge for retrieval), [[hallucination-risk]] (the primary problem RAG addresses), and [[edtech-platform]] (RAG powers production educational systems).
-
 
 ## Connected Concepts
 

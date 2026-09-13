@@ -1,7 +1,7 @@
 ---
 title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [inclusive-learning, equity-in-ai-education, special-education, learning-design, student-experience]
 audience: [learners]
@@ -81,6 +81,9 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 - [[student-experience]]
 - [[generative-ai]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[bias-mitigation]]
+- [[reducing-ai-misuse]]
+- [[k-12]]
 
 ## Connected Articles
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
