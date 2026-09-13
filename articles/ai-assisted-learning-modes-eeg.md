@@ -16,7 +16,7 @@ This study investigates how different modes of [[student-ai-interaction|AI inter
 
 The use of [[affective-computing|electroencephalography (EEG)]] provides a neurophysiological dimension to understanding AI's impact on learning. Though EEG results did not reach statistical significance, descriptive patterns suggested differences in neural activity across the three AI interaction modes. This connects to broader debates about [[student-experience|student-AI interaction]] design in [[k-12]] classrooms.
 
-The finding that full automation reduces cognitive engagement echoes the [[cognitive-offloading|Over-Reliance]] concerns documented in prior research on AI tutoring systems. The study's framework for categorizing AI interaction modes (Auto, Interactive, Manual) provides a replicable methodology for future [[human-ai-collaboration|human-AI interaction]] research in educational settings.
+The finding that full automation reduces cognitive engagement echoes the [[cognitive-offloading|Over-Reliance]] concerns documented in prior research on [[intelligent-tutoring|AI tutoring]] systems. The study's framework for categorizing AI interaction modes (Auto, Interactive, Manual) provides a replicable methodology for future [[human-ai-collaboration|human-AI interaction]] research in educational settings.
 
 ## Connected Concepts
 

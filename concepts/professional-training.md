@@ -1,7 +1,7 @@
 ---
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-13T09:58:46-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm]
 audience: [instructors, administrators, learners]
@@ -15,7 +15,7 @@ confidence: high
 ## Questions to Consider
 
 - Think of a skill you learned on the job rather than in a classroom. What made that workplace learning effective, and how might an AI coach replicate or improve it?
-- The page's Workforce Readiness Level framework suggests the highest competency stages are 'gated by industry-embedded experience rather than coursework.' What does that imply for how we should train people—and for the limits of AI simulation?
+- The page's [[career-development-and-readiness|Workforce Readiness]] Level framework suggests the highest competency stages are 'gated by industry-embedded experience rather than coursework.' What does that imply for how we should train people—and for the limits of AI simulation?
 - Virtual patients and training simulators let professionals practice safely. What kinds of judgment and interpersonal skills might a simulator struggle to capture, no matter how realistic?
 - The 'Dual Train Problem' is the tension between rapidly changing AI skills and the slower pace of policy and [[curriculum-design|curriculum]]. If you could choose durable competencies to prioritize for learners today, what would they be?
 - Adult learners balance work and study, often through screens. How might AI-powered professional training both enable and complicate that balancing act—especially around data, trust, and time?
@@ -25,7 +25,7 @@ confidence: high
 ### AI in professional training
 
 - **Skill development:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-coaching-rl-skill-development|RL-based skill coaching]] demonstrate AI-driven professional development.
-- **Simulation and practice:** [[adaptive-virtual-patient-psychotherapy-training|Virtual patient training]] and [[astra-atco-training-simulator|ATCO training simulators]] create AI-powered professional practice environments. In [[teacher-education|teacher education]], AI role-play simulation extends this into practice-based teaching: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Student GPT]] simulated a misconception-holding middle-school math student so preservice teachers could practice diagnosing and remediating student errors, aligning with the "approximations of practice" of practice-based teacher learning as an affordable complement to costly platforms like TeachLivE.
+- **Simulation and practice:** [[adaptive-virtual-patient-psychotherapy-training|Virtual patient training]] and [[astra-atco-training-simulator|ATCO training simulators]] create AI-powered professional practice environments. In [[teacher-education|teacher education]], AI role-play simulation extends this into practice-based teaching: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Student GPT]] simulated a [[misconceptions|misconception]]-holding middle-school math student so preservice teachers could practice diagnosing and remediating student errors, aligning with the "approximations of practice" of practice-based [[teacher-role|teacher]] learning as an affordable complement to costly platforms like TeachLivE.
 - **Lifelong learning integration:** [[lifelong-learning]] and [[adult-learning]] [[research-methods-aied|research]] connect professional training to continuous education.
 - **Public sector:** [[ai-adoption-training-public-sector|Public sector AI adoption]] examines training in government contexts.
 - **Workforce readiness frameworks:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] propose a Workforce Readiness Level (WRL) framework that adapts the Technology Readiness Level scale into nine competency stages scored across four pillars (digital/AI literacy, cyber-physical fluency, [[human-ai-collaboration|human-machine collaboration]], data-driven decision making), under a "no-thin-pillar" rule. Evidence from smart-manufacturing capstones shows the highest readiness stages are gated by industry-embedded experience rather than coursework — pointing to work-integrated learning as essential to professional AI training.
@@ -43,7 +43,6 @@ Professional training differs from academic education in its focus on applied sk
 Professional training connects to [[lifelong-learning]], [[adult-learning]], [[educational-development]] (the academic parallel), [[simulation]], and [[ai-literacy]] (workplace [[teacher-ai-competency|AI competency]]).
 
 ## Connected Concepts
-
 - [[lifelong-learning]]
 - [[adult-learning]]
 - [[educational-development]]
@@ -54,6 +53,7 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[e
 - [[llm]]
 - [[adaptive-learning]]
 - [[personalized-learning]]
+- [[virtual-and-augmented-reality]] — where immersive practice is most established
 
 ## Connected Articles
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce

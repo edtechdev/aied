@@ -18,7 +18,7 @@ confidence: high
 ## Key Findings
 
 1. **PRISMA-guided synthesis of 197 studies.** The review examined articles published 2016–2024, selecting 197 relevant studies from 5 databases and 2 journals, using a Mentefacto Map to identify keywords and define replicable inclusion/exclusion criteria.
-2. **Four opportunity domains.** GAI offers significant potential to personalize learning, motivate students, improve assessment methods, and introduce innovative, [[simulation|immersive]] teaching practices.
+2. **Four opportunity domains.** GAI offers significant potential to personalize learning, motivate students, improve assessment methods, and introduce innovative, [[virtual-and-augmented-reality|immersive]] teaching practices.
 3. **ChatGPT as the flagship case.** Adoption of [[conversational-ai|ChatGPT]] in educational environments exemplifies GAI's capacity to make learning more engaging and tailored to individual needs.
 4. **Persistent integration challenges.** These center on the need for continuous, targeted [[teacher-education|teacher training]] on ICT and the development of ministerial guidelines that address [[ethics|ethical]] and [[privacy]] concerns.
 5. **A discipline-imbalance gap.** The literature concentrates on [[stem-education|STEM]], neglecting the arts/[[humanities-education|humanities]] and creative subjects where many experiments could be conducted.
@@ -26,7 +26,7 @@ confidence: high
 
 ## Background and Method
 
-Following the launch of ChatGPT — the first user-friendly large language model — Generative AI has transformed human–machine interaction and promised to reshape [[k-12]] education, but it raises complex ethical and knowledge-related issues for students and teachers, especially at a sensitive age level with more specific, individualized needs. The review argues that although empirical evidence attests to the effectiveness of emerging educational technologies, the literature lacks comprehensive guidance on access to resources, content creation, and methodologies that combine pedagogy with advanced tools.
+Following the launch of ChatGPT — the first user-friendly [[llm|large language model]] — Generative AI has transformed human–machine interaction and promised to reshape [[k-12]] education, but it raises complex ethical and knowledge-related issues for students and teachers, especially at a sensitive age level with more specific, individualized needs. The review argues that although empirical evidence attests to the effectiveness of emerging educational technologies, the literature lacks comprehensive guidance on access to resources, content creation, and methodologies that combine pedagogy with advanced tools.
 
 Methodologically, the review followed the [[meta-analysis-systematic-review|PRISMA]] method. It examined articles published between 2016 and 2024, selecting 197 relevant studies from 5 databases and 2 journals. The Mentefacto Map structured keyword identification and the definition of inclusion and exclusion criteria, ensuring a systematic and replicable approach.
 
@@ -54,7 +54,7 @@ An innovative contribution of the review is its identification of eight specific
 
 This review provides a comprehensive landscape of [[generative-ai]] in [[k-12]] education, complementing the knowledge base's higher-education GenAI synthesis with a school-level perspective. Its eight-gap framework and four-question structure offer a useful organizing structure for the KB's K-12 GenAI coverage, and its emphasis on [[teacher-education|teacher training]], [[ai-literacy]], [[ethics]], and [[privacy]] connects directly to [[teacher-ai-competency]], [[educational-policy-ai]], and [[equity-in-ai-education]] threads.
 
-The identified risks of excessive AI reliance and its impact on self-regulation and creativity align with the KB's [[cognitive-offloading]] and [[productive-failure]] discussions, while the call for discipline-balanced, inclusive experiments supports [[inclusive-learning]] and [[special-education]] considerations. For policy and practice, the review underscores that continuous teacher training and ministerial guidelines remain the binding constraints on responsible GAI integration in schools.
+The identified risks of excessive AI reliance and its impact on self-[[regulation]] and creativity align with the KB's [[cognitive-offloading]] and [[productive-failure]] discussions, while the call for discipline-balanced, inclusive experiments supports [[inclusive-learning]] and [[special-education]] considerations. For policy and practice, the review underscores that continuous teacher training and ministerial guidelines remain the binding constraints on responsible GAI integration in schools.
 
 ## Connected Concepts
 

@@ -23,7 +23,7 @@ The paper situates [[ai-education|AI education]] within the broader evolution of
 The proposal is anchored in existing European frameworks:
 - The **EU Digital Education Action Plan (2021-2027)** identifies digital skills for "literacy, including combating misinformation, teaching computer literacy, [and] knowledge of data-intensive [[ai-technologies|technologies]]."
 - **de la Higuera's five pillars** for building an AI curriculum: (1) Data Awareness, (2) Uncertainty and Randomness, (3) Coding and [[computational-thinking|Computational Thinking]], (4) [[critical-thinking|Critical Thinking]], and (5) **Post-AI Humanism** — the idea that AI forces reconsideration of fundamental truths about the human being (Truth, Experience, [[creativity]], Intelligence).
-- **DigComp 2.2** (Italian Digital Agency, 2022), which addresses new and emerging AI technologies including personal data, interaction with AI systems, IoT, environmental [[sustainability]], new forms of work, virtual/[[simulation|augmented reality]], and robotisation.
+- **DigComp 2.2** (Italian Digital Agency, 2022), which addresses new and emerging AI technologies including personal data, interaction with AI systems, IoT, environmental [[sustainability]], new forms of work, virtual/[[virtual-and-augmented-reality|augmented reality]], and robotisation.
 
 ## Two levels of AI in education
 

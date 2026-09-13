@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-13
 
-Articles: 1153 | Concepts: 190 | FAQs: 18
+Articles: 1153 | Concepts: 191 | FAQs: 18
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -1285,6 +1285,7 @@ Articles: 1153 | Concepts: 190 | FAQs: 18
 - [[videla-embodied-ai-education-choreography]] — \"If You Can't Dance Your Program, You Can't Write It\": Challenges and Implications for AI in Education
 - [[video-education]] — Video in Education
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and Explainable Learning Analytics for Privacy-Preserving Academic Risk Modeling Across Heterogeneous Educational Institutions
+- [[virtual-and-augmented-reality]] — Virtual and Augmented Reality
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual Tutoring with Computer-Assisted Learning: An Experiment in Take-Up and Learning
 - [[vismatic-secure-sandbox-cs-education]] — VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring
 - [[visual-query-tracer-declarative-logic-learning]] — Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming

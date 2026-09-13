@@ -10,7 +10,7 @@ sources: ['raw/papers/zhang-ai-students-disabilities-meta-analysis-2024.md']
 confidence: high
 ---
 
-> **Synthesis:** The first [[meta-analysis-systematic-review|meta-analysis]] of AI-based interventions for [[special-education|students with disabilities]] (SWDs), synthesizing 29 (quasi-)experimental studies conducted globally and analyzed through the lens of cultural-historical [[activity-theory-aied|activity theory]] (CHAT). AI-based interventions produced a statistically significant **medium overall effect on SWDs' learning outcomes (Hedge's g = 0.588)** across [[educational-robotics|robots]], computer software (speech recognition, intelligent tutoring systems, expert systems), and intelligent VR systems — operating as social-emotional coaches, instructional/learning tools, and teachable agents. Notably, no participant-, AI-, interaction-, intervention-, or methodology-related moderator was statistically significant. The paper advances [[inclusive-learning]] and [[accessibility]] by documenting that AI *works* for SWDs, and calls for a shift from ensuring mere **access** toward positioning SWDs in **agentic** roles — contributing to [[agentic-ai]] and [[agency]]. As a medium effect on SWD learning outcomes, it is a key evidence base for the [[learning-gains]] concept.
+> **Synthesis:** The first [[meta-analysis-systematic-review|meta-analysis]] of AI-based interventions for [[special-education|students with disabilities]] (SWDs), synthesizing 29 (quasi-)experimental studies conducted globally and analyzed through the lens of cultural-historical [[activity-theory-aied|activity theory]] (CHAT). AI-based interventions produced a statistically significant **medium overall effect on SWDs' learning outcomes (Hedge's g = 0.588)** across [[educational-robotics|robots]], computer software (speech recognition, intelligent tutoring systems, expert systems), and intelligent VR systems — operating as social-emotional coaches, instructional/learning tools, and [[learning-by-teaching|teachable agents]]. Notably, no participant-, AI-, interaction-, intervention-, or methodology-related moderator was statistically significant. The paper advances [[inclusive-learning]] and [[accessibility]] by documenting that AI *works* for SWDs, and calls for a shift from ensuring mere **access** toward positioning SWDs in **agentic** roles — contributing to [[agentic-ai]] and [[agency]]. As a medium effect on SWD learning outcomes, it is a key evidence base for the [[learning-gains]] concept.
 
 ## Core Finding
 
@@ -33,7 +33,7 @@ The authors employ second-generation cultural-historical activity theory (CHAT, 
 The meta-analysis identifies three AI types and three AI roles:
 
 - **AI types:** robots (70.0% of studies, mostly humanoid robots for students with ASD, often human-operated via the Wizard of Oz method), computer software (speech recognition, expert systems, intelligent tutoring systems), and intelligent VR systems.
-- **AI roles:** social-emotional coaches/companions (n = 19), instructional/learning tools (n = 8), and teachable agents (n = 2). Teachable agents showed the largest effect (g = 1.100) — the rare arrangement where SWDs take an active, even teacher-like, role.
+- **AI roles:** social-emotional coaches/companions (n = 19), instructional/learning tools (n = 8), and teachable agents (n = 2). Teachable agents showed the largest effect (g = 1.100) — the rare arrangement where SWDs take an active, even [[teacher-role|teacher]]-like, role.
 
 ## From Access to Agency
 
@@ -45,7 +45,7 @@ Consistent with CHAT, the paper foregrounds community, rules, and division of la
 
 ## Relevance to the Knowledge Base
 
-This is a **landmark contribution to [[special-education]], [[inclusive-learning]], [[accessibility]], [[educational-robotics]], and [[learning-gains]]**. As the first meta-analysis of AI for SWDs, it provides the strongest [[quantitative-research|quantitative]] evidence that AI-based interventions yield a **medium positive effect on SWD learning outcomes**, directly supporting the [[learning-gains]] concept's evidence base for [[special-education]]. It is the clearest empirical anchor for the knowledge base's distinction between [[accessibility]] (ensuring access) and [[agentic-ai]]/[[agency]] (agentic participation) — explicitly recommending AI that promotes SWDs' agentic roles. It also synthesizes evidence on [[educational-robotics]] (robot-assisted instruction for ASD), [[simulation|virtual reality]] (intelligent VR), [[intelligent-tutoring]] (ITS), and [[student-engagement]], with implications for [[k-12]] (all studies were PK-12) and [[equity-in-ai-education]] (cultural-historical, strengths-based, anti-deficit framing). Notably, most interventions relied on [[generative-ai|less-advanced]] rule-based AI and human-operated robots rather than modern [[generative-ai]]; the authors flag advanced AI techniques as underexplored for SWDs.
+This is a **landmark contribution to [[special-education]], [[inclusive-learning]], [[accessibility]], [[educational-robotics]], and [[learning-gains]]**. As the first meta-analysis of AI for SWDs, it provides the strongest [[quantitative-research|quantitative]] evidence that AI-based interventions yield a **medium positive effect on SWD learning outcomes**, directly supporting the [[learning-gains]] concept's evidence base for [[special-education]]. It is the clearest empirical anchor for the knowledge base's distinction between [[accessibility]] (ensuring access) and [[agentic-ai]]/[[agency]] (agentic participation) — explicitly recommending AI that promotes SWDs' agentic roles. It also synthesizes evidence on [[educational-robotics]] (robot-assisted instruction for ASD), [[virtual-and-augmented-reality|virtual reality]] (intelligent VR), [[intelligent-tutoring]] (ITS), and [[student-engagement]], with implications for [[k-12]] (all studies were PK-12) and [[equity-in-ai-education]] (cultural-historical, strengths-based, anti-deficit framing). Notably, most interventions relied on [[generative-ai|less-advanced]] rule-based AI and human-operated robots rather than modern [[generative-ai]]; the authors flag advanced [[ai-technologies|AI techniques]] as underexplored for SWDs.
 
 ## Connected Concepts
 
@@ -59,7 +59,7 @@ This is a **landmark contribution to [[special-education]], [[inclusive-learning
 - [[equity-in-ai-education]]
 - [[ai-education]]
 - [[intelligent-tutoring]]
-- [[simulation|virtual reality]]
+- [[virtual-and-augmented-reality|virtual reality]]
 - [[student-engagement]]
 - [[k-12]]
 - [[universal-design-for-learning]]

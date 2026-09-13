@@ -22,7 +22,7 @@ confidence: high
 
 **Improved writing quality (large effect).** Writing [[learning-gains|achievement]] rose from a pre-test mean of 77.13 to 81.40 (t = −5.26, p < .001, Cohen's d = −0.83, 95% CI [−1.19, −0.47]; strong pre–post correlation r = 0.75, p < .001), with gains in content completeness, language expression, and organisational structure. Improvement in [[creativity]] and originality was comparatively limited, indicating AI most strongly boosts technical writing skills.
 
-**Flow experience improved (medium effect).** Average flow rose from 3.15 to 3.60 (t = −2.86, p = .007, Cohen's d = −0.45). Students readily entered flow during the revision phase, describing an "[[simulation|immersive]] interactive experience"; however, some reported decreased flow when excessive AI support reduced the perceived challenge and sense of full immersion.
+**Flow experience improved (medium effect).** Average flow rose from 3.15 to 3.60 (t = −2.86, p = .007, Cohen's d = −0.45). Students readily entered flow during the revision phase, describing an "immersive interactive experience"; however, some reported decreased flow when excessive AI support reduced the perceived challenge and sense of full immersion.
 
 **Situational vs. general motivation.** General writing motivation did not change significantly (2.93 → 3.00, t = −0.59, p = .560; pre–post correlation 0.00), while qualitative data showed task-specific engagement and situational motivation surged, especially during revision — pointing to the context-dependence of AI's motivational effects and aligning with [[self-determination-theory]] Theory.
 
