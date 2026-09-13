@@ -89,11 +89,16 @@ After creating/enriching all article and concept pages, load the `wiki-inline-li
 ### 4d. Run the list-formatting check (mandatory, HARD GATE)
 Run `python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py <WIKI> --all` and fix every reported page by removing the blank line between consecutive ordered-list items (blank-line-separated items render each as `1.`). Verify 0 defects before proceeding to build. A green build does NOT catch this.
 
-### 5. Build and push
+### 5. Gates, build and commit
 ```
-cd [YOUR_WIKI_PATH] && python3 tooling/scripts/generate-llms-files.py && python3 tooling/build-epub.py && npm run build && git add -A && git commit -m "Weekly journal RSS ingestion: X new articles" && git push origin main
+cd [YOUR_WIKI_PATH]
+python3 tooling/scripts/run-gates.py     # concept registry + inline-link + list-formatting gates
+python3 tooling/scripts/generate-llms-files.py
+npm run build
+git add -A
+git commit -m "Weekly journal RSS ingestion: X new articles"
 ```
-(`python3 tooling/build-epub.py` regenerates the offline `public/aied.epub` and `public/aied.pdf`; requires `pandoc` and `weasyprint`.)
+**Do NOT rebuild `public/aied.epub` / `public/aied.pdf` here** — they are local committed artefacts, rebuilt only on explicit request (they are slow and CI does not build them). **Do NOT push**: a push needs explicit per-occurrence approval from the maintainer; commit locally and say the commit is ready to push.
 
 ### 6. Report
 Count articles checked, already existing, paywalled/skipped, and new articles ingested (with titles). List paywalled articles separately.

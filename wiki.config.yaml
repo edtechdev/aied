@@ -39,6 +39,7 @@ build:
   # not a substitute for either gate.
   gates:
     - python3 tooling/scripts/check_concepts.py
+    - python3 tooling/scripts/gen-concept-artifacts.py --check   # generated views in sync
     - python3 skills/research/wiki-inline-links/scripts/inline_link_scan.py . --all
     - python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py . --all
   site: npm run build             # Astro + Pagefind + PWA service worker
@@ -115,6 +116,17 @@ scan:
       - General AI fairness/ethics without an education context
       - Non-AI education research
       - AI-detection tools without an education context
+      # The weekly journal scan has historically been stricter than the daily
+      # arXiv scan; these entries come from its live prompt so the config matches
+      # what is actually practised.
+      - VR/AR without an AI component
+      - Metaverse applications without AI
+      - Mobile learning and general ed-tech adoption (TAM) without AI
+      - Digital competence or literacy work with no AI component
+    # NOTE: the daily arXiv scan ingests when the call is close; the weekly
+    # journal scan has said "when in doubt, exclude". They disagree on purpose
+    # (arXiv preprints are cheap to be broad about). Record the rule you want
+    # here per source, or leave this as the tie-break for both.
     default_policy: ingest
   deduplication: doi_or_arxiv_id
   rate_limiting:
