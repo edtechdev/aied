@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 191 concepts, 1156 articles, and 18 FAQs.
+> Complete text of 191 concepts, 1155 articles, and 18 FAQs.
 
 # Concepts
 
@@ -16893,7 +16893,7 @@ Change management is the institutional complement to classroom-level integration
 Proposed by Davis (1989), TAM explains adoption through two core beliefs — **Perceived Usefulness (PU)** and **Perceived Ease of Use (PEOU)** — which shape users' **Attitude (ATT)**, then **Behavioral Intention (BI)**, then actual usage. Grounded in information-systems theory (adapted from the Theory of Reasoned Action), TAM has become the dominant framework for [[generative-ai|GenAI]] adoption in education. In educational GenAI research it is frequently extended with [[ai-literacy]], [[trust]], social influence, [[self-determination-theory|self-determination]], and **critical use** to capture adoption complexity beyond simple uptake.
 
 ### UTAUT / UTAUT2 / UTAUT3
-The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). The knowledge base applies UTAUT across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[amponsah-ai-acceptance-science-teachers-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] extend UTAUT2 with explainable AI (Random Forest, SHAP, NCA, IPMA, K-Means) for 522 university students, finding **habit** the strongest predictor of ChatGPT intention and showing that **effort expectancy is a necessary condition rather than a linear driver** — a result only visible when XAI complements the regression.
+The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). The knowledge base applies UTAUT across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[pre-service-science-teachers-ai-perceptions-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] extend UTAUT2 with explainable AI (Random Forest, SHAP, NCA, IPMA, K-Means) for 522 university students, finding **habit** the strongest predictor of ChatGPT intention and showing that **effort expectancy is a necessary condition rather than a linear driver** — a result only visible when XAI complements the regression.
 
 ### Theory of Planned Behavior (TPB)
 TPB explains intention through attitude, subjective norms, and perceived behavioral control. It is frequently paired with TAM/UTAUT in AI-adoption studies — e.g. [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] integrate TAM, TPB, UTAUT, and the FATE ([[bias-mitigation|Fairness]], Accountability, Transparency, Ethics) framework to model the behavioral and [[ethics|ethical]] drivers of student ChatGPT adoption.
@@ -16958,7 +16958,7 @@ TAM's cognitive focus also under-captures emotional and relational dimensions of
 - [[acceptance-ai-english-tools-2026]] — Acceptance of AI English tools
 - [[genai-chatgpt-adoption-ethics-students-2026]] — Behavioral and ethical drivers of student ChatGPT adoption
 - [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT and teacher chatbot motivation
-- [[amponsah-ai-acceptance-science-teachers-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
+- [[pre-service-science-teachers-ai-perceptions-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
 - [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
@@ -17417,7 +17417,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 ## Special populations and global equity
 
 - **Special populations:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[inclusive-learning|learners with disabilities]] represent groups whose needs are often overlooked in AI system design.
-- **Global South perspectives:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[amponsah-ai-acceptance-science-teachers-2026|Ghanaian teacher acceptance]] provide Global South perspectives often absent from Western-centric AIED research. At the institutional level, [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] show AI integration across 45 Nigerian universities is driven by institution age and geography rather than governance type, with reinforcing network ties letting well-connected institutions compound advantage — evidence that equity gaps are reproduced structurally, not just through individual access.
+- **Global South perspectives:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[pre-service-science-teachers-ai-perceptions-2026|Ghanaian teacher acceptance]] provide Global South perspectives often absent from Western-centric AIED research. At the institutional level, [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] show AI integration across 45 Nigerian universities is driven by institution age and geography rather than governance type, with reinforcing network ties letting well-connected institutions compound advantage — evidence that equity gaps are reproduced structurally, not just through individual access.
 - **Global capacity:**  documents how generative AI benefits are distributed unevenly across countries and institutions, and [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] addresses structural socioeconomic gradients.
 - **Disability and Global South intersection:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates across three Palestinian universities — shows GenAI bridging digital, geographic, and socioeconomic divides while extending [[technology-acceptance-model|technology acceptance models]] to disability contexts, where [[usability-research|usability]], affordability, and accessibility are mutually reinforcing.
 - **Gender equity in computing:** equity-oriented uses of [[generative-ai|GenAI]] remain underexplored. [[all-girls-genai-makerspace-gender-equity-2026|An all-girls GenAI makerspace initiative in Europe]] combined two GenAI tools with feminist pedagogy to address persistent gender inequities in girls' representation in computing, with practitioners enacting specific steps to support girls' participation and engagement — an example of equity-focused GenAI design. Deliberately gendered AI can also function as the *intervention itself*: [[ada-female-coded-chatbot-gender-stereotypes-2026|Rücker and Becker-Genschow (2026)]] showed that a female-coded, [[discipline-specific-aied|domain-specific]] math [[conversational-ai|chatbot]] modeled on Ada Lovelace's persona (and deployed as both a role model and a [[intelligent-tutoring|learning assistant]]) significantly reduced gender-stereotypical beliefs about mathematical ability and [[math-education|mathematics]] as a male domain among ninth graders — in *both* genders, with high and gender-neutral technological acceptance. This reframes representation as a design lever, not just a bias to audit: systematically designed AI personas can counter, rather than merely avoid reproducing, [[gender-bias-transfer-llm-writing|gender bias]].
@@ -17484,7 +17484,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[paternalistic-filter-llm-history-education]] — Paternalistic filtering in LLM-based history education
 - [[connected-ai-lesson-planning-vietnam]] — Connected AI lesson planning in Vietnam
 - [[dyslexlens-dyslexic-learners-ai]] — DyslexLens: AI support for dyslexic learners
-- [[amponsah-ai-acceptance-science-teachers-2026]] — Ghanaian science teachers' AI acceptance
+- [[pre-service-science-teachers-ai-perceptions-2026]] — Ghanaian science teachers' AI acceptance
 - [[ground-truth-reliability-aied]] — Ground-truth reliability in AIED
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned feedback bias across student attributes
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
@@ -22228,7 +22228,7 @@ The study relies on publicly observable documentary/web indicators that may capt
 
 - [[nguyen-genai-global-south-review-2026]] — Systematic review of GenAI in Global South education
 - [[multilingual-adaptive-learning-nigeria-2026]] — Adaptive learning in the Nigerian higher education context
-- [[amponsah-ai-acceptance-science-teachers-2026]] — AI acceptance among Ghanaian science teachers
+- [[pre-service-science-teachers-ai-perceptions-2026]] — AI acceptance among Ghanaian science teachers
 
 ## Citation
 
@@ -29035,7 +29035,7 @@ The review also connects to broader debates about [[ethics]] and learner efficac
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
 - [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs framework
 - [[pchl-he-framework-genai-content-creation-2026]] — PCHL-HE framework
-- [[amponsah-ai-acceptance-science-teachers-2026]] — AI acceptance science teachers
+- [[pre-service-science-teachers-ai-perceptions-2026]] — AI acceptance science teachers
 
 ## Citation
 
@@ -30221,49 +30221,6 @@ This paper anchors the [[sustainability|sustainable AI in education]] concept pa
 
 ## Citation
 Alsuhami, A. O., & Atallah, F. A. (2026). [*Sustainable Education in the Age of Artificial Intelligence and Digitalization: A Value-Critical Approach*](https://doi.org/10.3390/su18031257). *Sustainability*, 18(3), 1257.
-
----
-
-## [Perceptions And Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers](https://edtechdev.github.io/aied/articles/amponsah-ai-acceptance-science-teachers-2026/)
-
-> **Synthesis:** Amponsah, Adu-Boahen, Commey-Mintah, Kumassah, Ayittey & Nketsiah (2026) survey 380 pre-service science teachers in Ghana using [[technology-acceptance-model|UTAUT]] and TPB frameworks, finding generally positive AI perceptions but a gap between intention and actual classroom use. ChatGPT emerged as the most used AI tool, with [[research-methods-aied|research]], content explanation, and lesson planning as primary purposes.
-
-## Key Findings
-
-- **380 pre-service science teachers** surveyed from Ghana [[stem-education|science education]] programmes
-- **ChatGPT most used AI tool**, primarily for research, content explanation, and lesson planning
-- **Positive attitudes and intentions** toward AI adoption, but actual classroom use remains moderate
-- **UTAUT + TPB frameworks** guided the study (Unified Theory of Acceptance and Use of Technology; Theory of Planned Behaviour)
-- **Key barriers:** insufficient digital infrastructure, need for professional development, lack of [[governance|institutional]] policies
-- **Gap identified:** positive behavioral intentions do not translate to consistent classroom AI integration without systemic support
-
-## Implications
-
-This study provides a [[global-south|Global South]] perspective on [[ai-literacy]] and teacher AI adoption, complementing research primarily from Western contexts. The intention-practice gap mirrors findings in [[teacher-ai-adoption-confidence]], where institutional support was found to build teacher confidence. For [[educational-development]] and [[professional-training]], the study underscores that AI tool access alone is insufficient — targeted professional development and digital infrastructure investment are prerequisites for meaningful classroom integration.
-
-The finding that ChatGPT dominates pre-service teacher AI use echoes broader trends identified in [[genai-usage-design-students-survey]] and suggests that [[ai-literacy]] curricula should address responsible and critical use of general-purpose AI tools rather than focusing on education-specific platforms.
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[professional-training]]
-- [[educational-development]]
-- [[stem-education]]
-- [[k-12]]
-- [[ai-education]]
-- [[teacher-ai-competency]]
-
-- [[tpack]]
-## Connected Articles
-
-- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
-- [[genai-usage-design-students-survey]] — A Study of GenAI Usage by Design Students
-- [[ai-tpack-preservice-math-teachers]] — AI-TPACK for Preservice Math Teachers
-- [[connected-ai-lesson-planning-vietnam]] — Connected AI Lesson Planning in Vietnam
-
-## Citation
-
-Amponsah, K. D., Adu-Boahen, J., Commey-Mintah, P., Kumassah, E. K., Ayittey, R. F., & Nketsiah, J. (2026). [*Perceptions And Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers*](https://doi.org/10.35542/osf.io/7yqbe_v1). EdArXiv. doi:10.35542/osf.io/7yqbe_v1. (Published in *Advances in Research*, doi:10.31014/aior.1993.09.03.724).
 
 ---
 
@@ -45292,7 +45249,7 @@ For policy and practice, the review underscores that the faculty-readiness gap a
 - [[pchl-he-framework-genai-content-creation-2026]] — PCHL-HE framework
 - [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs framework
 - [[elementary-writing-genai-systematic-review-2026]] — Elementary writing GenAI review
-- [[amponsah-ai-acceptance-science-teachers-2026]] — AI acceptance science teachers
+- [[pre-service-science-teachers-ai-perceptions-2026]] — AI acceptance science teachers
 
 ## Citation
 
@@ -53913,7 +53870,7 @@ Shang Li (2025) presents a [[qualitative-research|qualitative]] study grounding 
 
 ## Connected Articles
 
-- [[amponsah-ai-acceptance-science-teachers-2026]]
+- [[pre-service-science-teachers-ai-perceptions-2026]]
 - [[benzion-ai-physics-simulations-virtual-lab]]
 - [[genai-ar-physics-simulation-prompt-2026]]
 
@@ -65304,7 +65261,7 @@ The authors acknowledge several limitations: nonrandom group assignment within a
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[amponsah-ai-acceptance-science-teachers-2026]] — Perceptions And Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
+- [[pre-service-science-teachers-ai-perceptions-2026]] — Perceptions And Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
 - [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy
 - [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?
 - [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
@@ -74291,7 +74248,7 @@ The review's theoretical contribution is its critique of the field's reliance on
 - [[ai-adoption-training-public-sector|ai-adoption]] — related adoption research
 - [[tam-critical-use-genai-engineering-2026]] — TAM applied to critical GenAI use in engineering
 - [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — GenAI acceptance among Chinese university students
-- [[amponsah-ai-acceptance-science-teachers-2026]] — AI acceptance among science teachers
+- [[pre-service-science-teachers-ai-perceptions-2026]] — AI acceptance among science teachers
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas in higher ed
 
 ## Citation

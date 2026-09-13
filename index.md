@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-13
 
-Articles: 1156 | Concepts: 191 | FAQs: 18
+Articles: 1155 | Concepts: 191 | FAQs: 18
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -200,7 +200,6 @@ Articles: 1156 | Concepts: 191 | FAQs: 18
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming Nursing Education with Artificial Intelligence: A Systematic Review (2010–2025)
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping artificial intelligence integration in higher education: A systematic review using the FACETS and SAMR frameworks
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Sustainable Education in the Age of Artificial Intelligence and Digitalization: A Value-Critical Approach
-- [[amponsah-ai-acceptance-science-teachers-2026]] — Perceptions And Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
 - [[an-goel-self-directed-modeling-2026]] — How Online Learners Engage in Self-Directed Modeling: A Behavioral Analysis
 - [[anastasia-shared-agency-partnership-framework-2026]] — Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration
 - [[andragogy-cognitive-delegation-genai-2026]] — What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning

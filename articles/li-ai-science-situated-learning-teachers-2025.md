@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-25T17:30:00-04:00"
+updated: "2026-09-13T12:55:00-04:00"
 type: article
 tags: [situated-learning, science-education, stem-education, teacher-role, k-12, constructivist, simulation]
 research_method: [qualitative, interviews]
@@ -34,7 +34,7 @@ Shang Li (2025) presents a [[qualitative-research|qualitative]] study grounding 
 
 ## Connected Articles
 
-- [[amponsah-ai-acceptance-science-teachers-2026]]
+- [[pre-service-science-teachers-ai-perceptions-2026]]
 - [[benzion-ai-physics-simulations-virtual-lab]]
 - [[genai-ar-physics-simulation-prompt-2026]]
 
