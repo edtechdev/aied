@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-09-11T13:20:00-04:00"
+updated: "2026-09-13T08:06:42-04:00"
 type: concept
 tags: [learner-identity, adult-learning, student-experience, agency, stem-education]
 discipline: [stem education]
@@ -39,6 +39,8 @@ Identity is a motivational and developmental construct distinct from (but connec
 - **Post-human and hybrid identity:** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]** theorize the **post-human learner**, whose cognition is genuinely hybrid and distributed across [[biology-education|biological]] and artificial systems — a reframing of identity formation itself in the age of cognitive AI.
 - **Student and academic identity:** **[[zhan-boud-du-authentic-assessment-scoping-review-2025|authentic assessment]]** [[research-methods-aied|research]] connects to identity because assessment tasks that call for authentic, personal performance help students see themselves as capable practitioners; **[[paternalistic-filter-llm-history-education|history-education research]]** shows how paternalistic AI use can shape how students construct their identity as disciplinary inquirers.
 
+- **Guarded adoption: selective AI use as identity protection.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] surveyed 484 students at one Australian university and found that higher-achieving students reported *lower* active [[generative-ai|generative AI]] engagement, lower positive affect toward AI, lower perceived learning impact and lower AI-related disengagement, with the strongest associations at rho = -0.395 for perceived learning impact and rho = -0.359 for positive affect. Their open-ended responses described use that was selective (clarification, summarisation, workflow support), verified, and held subordinate to their own judgment, and item-level results showed greater agreement that reliance on AI hinders [[critical-thinking]] and independent problem solving. The authors read this as identity work: for students whose sense of themselves as successful learners rests on their own effort and judgement, bounding AI use defends the [[agency|epistemic agency]] the identity depends on — which also means the pattern is neither technophobia nor low engagement.
+
 ## Relationship to learner agency
 
 Learner agency and learner identity are closely related but distinct constructs that are easy to conflate — and both are central to how AI affects learning.
@@ -74,6 +76,7 @@ Learner identity connects to [[agency]] (identity is enacted through agentic aut
 - [[generative-ai]]
 
 ## Connected Articles
+- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
 
 - [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use

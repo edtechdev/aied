@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-12T13:25:00-04:00"
+updated: "2026-09-13T08:06:42-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
@@ -63,6 +63,8 @@ Recent work expands the orchestration metaphor into richer role conceptualizatio
 - **Teacher as the arbiter of pedagogically meaningful explanations.** Because teachers' trust in AI recommendations rises when explanations are framed in *their* curricular/pedagogical language rather than in raw model internals, effective tools must "speak" the teacher's domain. In a within-subject experiment, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found domain-driven explanations of an AI grouping tool were trusted and accepted far more than data-driven feature-importance ones, positioning the teacher's pedagogical vocabulary as the interface through which AI earns trust and use — and their judgment of whether an explanation is pedagogically sound as a deciding factor in adoption.
 
 These roles connect teacher work to [[distributed-cognition]], [[situated-learning]], [[embodied-learning]], and [[critical-pedagogy]], and reframe the teacher as a designer and ethical guide of AI-mediated learning rather than merely a user.
+
+- **AI-supported decisions cluster where behavioural data is available.** [[ai-supported-lecturer-decision-making-2026|Köroğlu et al. (2026)]] reviewed 27 empirical studies (2016–2025) and identified eight lecturer decision types, finding AI support concentrated on instructional, [[feedback]] and [[assessment]] decisions while curriculum, learning-environment, emotional, ethical and administrative decisions were rarely supported. Learning Analytics Dashboards were the most common system, processing text and log data into behavioural indicators of performance and engagement; multimodal and interaction-based data, agentic systems and cognitive, metacognitive, motivational and affective outcomes were all comparatively rare in the reviewed corpus. The practical reading for instructors is that the decision space an AI tool opens is bounded by the data it displays, so tool selection is also a choice about which teaching decisions are being resourced.
 
 ## How instructors should adapt their teaching practices to AI
 
@@ -150,6 +152,7 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi; task-level regulation (Chirikov 2026)

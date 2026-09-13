@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-13T08:06:24-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback]
 category: [engagement, evaluation]
@@ -64,6 +64,8 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 
 Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the [[ethics|ethical]] constraint), and [[edtech-platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation.
 
+- **What dashboards make visible decides what teachers act on.** [[ai-supported-lecturer-decision-making-2026|Köroğlu et al. (2026)]] reviewed 27 empirical studies (2016–2025) and built a socio-technical taxonomy of AI-supported lecturer decision-making across eight decision types: instructional, curriculum, assessment, feedback, learning-environment, emotional, administrative and ethical. Learning Analytics Dashboards were the most frequently reported system, and the coding shows support concentrated in the instructional, feedback and assessment decisions that behavioural text and log data can inform, while emotional, ethical, curriculum and learning-environment decisions were rarely supported. The authors read this as an attention effect rather than a capability limit: because the systems rendered behavioural student data visible and actionable, motivation, [[metacognition]], emotion and environment concerns fell outside what the data invited lecturers to consider.
+
 ## Connected Concepts
 
 - [[explainable-ai]]
@@ -82,6 +84,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[self-report-measures]]
 
 ## Connected Articles
+- [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning

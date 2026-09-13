@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-11T12:36:00-04:00"
+updated: "2026-09-13T08:06:16-04:00"
 type: concept
 tags: [cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 audience: [learners]
@@ -109,6 +109,8 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 
 **Not all offloaded friction is excess friction.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] draw the distinction that the offloading literature needs: previous [[ai-technologies|technologies]] removed *excess* friction — tedious or insurmountable obstacles with little learning or meaning value — whereas generative AI in intellectual work also strips away *beneficial* friction, letting a learner move from ideation to evaluation without questioning the output. They marshal the associative evidence bluntly: people who use AI struggle to accurately recall or reproduce their own work, acquire fewer skills, show less transfer, and perform worse when AI support is removed — converging with the cognitive-debt findings from EEG studies of essay writing with an AI assistant. Their argument also supplies the motivational half of the mechanism that pure cognitive accounts miss: because effort signals that our actions matter, offloading it reduces appraised purpose and meaning, and as AI substitutes for effort in a domain the motivational payoff of effort there erodes, deepening reliance further. The paper's corrective is a gradient rather than a prohibition — preserve moderate struggle, remove what only overwhelms ([[desirable-difficulties]], [[motivation]]).
 
+- **Dependent versus autonomous offloading — the distinction that sets the outcome:** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]] organise the GenAI evidence around a sharpened version of this boundary, drawing on a three-wave study of 589 students and early-career knowledge workers: *dependent* offloading delegates core thinking to the tool and was associated with transferred [[agency]], lower intrinsic motivation and poorer perceived cognitive outcomes, while *autonomous* offloading keeps epistemic agency with the learner and showed the opposite pattern. The finding that matters most for detection is that immediate performance benefits did not differ between the two modes, so a learner resolving tasks fluently on any given day gives no signal about which mode they are in. The same review records the wider split in the evidence — a three-level [[meta-analysis-systematic-review|meta-analysis]] of moderate overall benefit (g = 0.499; g = 0.669 for comprehension, cognition and creativity) against associations between dependence, fatigue and weaker [[critical-thinking]] — and traces maladaptive use to externalised self-regulation rather than to technology addiction.
+
 ## Connected Concepts
 
 - [[ai-literacy]] — Knowing when to offload and recognizing reliance patterns
@@ -127,6 +129,8 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
+- [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Excess vs beneficial friction: why AI offloading differs from earlier tools
 - [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: a kitchen-machine analogy for generative AI in education (Rummel, Nachtigall & Panadero 2026)
 - [[cognitive-washout-ai-skill-decay-2026]] — cognitive washout: post-withdrawal dynamics of AI-induced skill decay

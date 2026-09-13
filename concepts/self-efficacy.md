@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-13T08:06:24-04:00"
 type: concept
 tags: [self-efficacy, motivation, assessment, self-regulated-learning, student-experience, ai-literacy]
 audience: [learners]
@@ -35,6 +35,8 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 
 Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student-experience]], [[ai-literacy]], [[agency]], and [[educational-robotics]]. Building self-efficacy is a key mechanism through which AI supports engagement and learning. Self-efficacy is measured almost entirely by [[self-report-measures|self-report]], so its associations with observed behavior deserve the usual caution.
 
+- **AIGC self-efficacy as the pivot between tool and learning.** [[aigc-affordance-student-self-regulation-2026|Liang et al. (2026)]] find that perceived affordances of AI-generated content raise AIGC self-efficacy (beta = 0.583), which then mediates the paths to learning motivation (indirect effect 0.329) and to self-regulated learning (0.145), with the serial path affordance to self-efficacy to motivation to self-regulation also significant (0.173). The contrast that makes the finding useful is that the quality of AI assessment feedback did *not* predict self-efficacy (beta = 0.131, n.s.) even though it strongly predicted satisfaction — confidence with the tool is built by directing it, not by receiving good output from it.
+
 ## Connected Concepts
 
 - [[self-directed-learning]]
@@ -47,6 +49,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[self-report-measures]]
 
 ## Connected Articles
+- [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
 
 - [[oby-chatgpt-use-learning-framework-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
