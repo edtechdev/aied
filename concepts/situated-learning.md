@@ -1,7 +1,7 @@
 ---
 title: Situated Learning
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-13T09:58:46-04:00"
 type: concept
 tags: [situated-learning, experiential-learning, constructivist, learning-theories, sociocultural-learning, learning-design, ai-education]
 category: [instructional design]
@@ -22,7 +22,7 @@ confidence: high
 
 Situated learning is one of the activity-and-context theories within the knowledge base's [[learning-theories]] strand. It takes up Vygotskian themes of social construction but adds a strong emphasis on the intimate integration of "doing" and "learning" and on the importance of communities of practice. As an educational stance it confronts traditional, standardized schooling by foregrounding the learner's [[sociocultural-learning|sociocultural]] context as a key element for acquiring skills and appropriating knowledge relevant to their reality.
 
-In the [[ai-education|AI-in-education]] literature, situated learning matters because it provides a design lens for AI: [[adaptive-learning|adaptive systems]], [[intelligent-tutoring|intelligent tutoring]] in authentic scenarios, and immersive [[simulation|simulations]] can ground AI-driven education in real-world contexts, while situated learning in turn offers AI a meaningful anchor in authentic practice and complexity. The two are widely treated as complementary, with human guidance remaining essential for [[ethics|ethical]] grounding.
+In the [[ai-education|AI-in-education]] literature, situated learning matters because it provides a design lens for AI: [[adaptive-learning|adaptive systems]], [[intelligent-tutoring|intelligent tutoring]] in authentic scenarios, and [[virtual-and-augmented-reality|immersive]] [[simulation|simulations]] can ground AI-driven education in real-world contexts, while situated learning in turn offers AI a meaningful anchor in authentic practice and complexity. The two are widely treated as complementary, with human guidance remaining essential for [[ethics|ethical]] grounding.
 
 ### Situated learning as a design lens for AI
 
@@ -30,15 +30,15 @@ The knowledge base's research treats situated learning not merely as an abstract
 
 - **Opportunities and obstacles.** A PRISMA [[meta-analysis-systematic-review|systematic review]] of 60 articles (three decades) finds that AI can augment situated learning — through adaptive systems tailored to students' evolving needs, intelligent tutoring situated in authentic scenarios, automation of administrative tasks, and data-driven teacher support — while the main obstacles are the traditional school's one-way passive learning, an over-emphasis on predefined outcomes, and teachers' limited contextual knowledge. Human guidance remains essential for ethical grounding.([[vargas-situated-learning-ai-review-2024]])
 - **AI as a catalyst connecting education to reality.** AI can act as a *catalyst* for situated learning by connecting education with reality and authentic contexts, enabling learning grounded in real-world scenarios.([[vargas-ai-catalyst-situated-learning-2026]])
-- **Mediational artifacts in authentic inquiry.** In science learning, AI tools (virtual labs, simulations, intelligent tutoring) function as "mediational artifacts" that extend situated learning by enabling digital communities of practice and boundary-crossing between school, real-world, and interdisciplinary contexts — transforming students from "knowledge learners" into "scientific practitioners."([[li-ai-science-situated-learning-teachers-2025]])
+- **Mediational artifacts in authentic inquiry.** In [[science-education|science learning]], AI tools (virtual labs, simulations, intelligent tutoring) function as "mediational artifacts" that extend situated learning by enabling digital communities of practice and boundary-crossing between school, real-world, and interdisciplinary contexts — transforming students from "knowledge learners" into "scientific practitioners."([[li-ai-science-situated-learning-teachers-2025]])
 - **Situated [[curriculum-design|curriculum]] devices.** [[ai-literacy|AI literacy]] can be developed through *Episodes of Situated Learning* — active [[teacher-role|teaching]] instruments (anticipate, produce, reflect) that build AI competencies through real-world [[problem-solving]] rather than abstract instruction.([[panciroli-ai-literacy-episodes-situated-learning]])
-- **Situated evaluation in design-based learning.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] grounded their study in situated-learning theory and iterative design [[pedagogy]], evaluating 80 student design posters across instructor, peer-reviewer, and grant-reviewer roles. Role-aware [[prompt-engineering|prompting]] produced qualitatively different evaluative feedback — instructors encouraging and process-oriented, peers supportive and conversational, grant reviewers formal and outcomes-oriented — differences that were epistemic, not merely stylistic, foregrounding different aspects of design practice. This shows how situated, role-specific evaluation can be emulated by an [[llm|LLM]] when scaffolded with a semantically precise rubric, and how assessment in design-based learning emerges from the authentic task and its roles rather than being separated from them.
+- **Situated evaluation in [[design-based-research|design-based]] learning.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] grounded their study in situated-learning theory and iterative design [[pedagogy]], evaluating 80 student design posters across instructor, peer-reviewer, and grant-reviewer roles. Role-aware [[prompt-engineering|prompting]] produced qualitatively different evaluative feedback — instructors encouraging and process-oriented, peers supportive and conversational, grant reviewers formal and outcomes-oriented — differences that were epistemic, not merely stylistic, foregrounding different aspects of design practice. This shows how situated, role-specific evaluation can be emulated by an [[llm|LLM]] when scaffolded with a semantically precise rubric, and how assessment in design-based learning emerges from the authentic task and its roles rather than being separated from them.
 - **Situated AI ethics.** Ethical reasoning about AI is itself best treated as *situated* — grounded in cultural-historical and ecological context rather than abstract principles.([[raffaghelli-situated-ai-ethics-2026]])
 
 Situated learning connects closely to [[embodied-learning]] (both stress the grounding of cognition in context and action), [[distributed-cognition]] (learning distributed across people, tools, and contexts), [[experiential-learning]], and [[constructivist]] theory. In AI education it grounds the critique of decontextualized, disembodied learning: AI design that keeps learners anchored in authentic practice preserves the situatedness that durable learning requires.
 
 ## Connected Concepts
-- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
+ [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[learning-theories]]
 - [[constructivist]]
@@ -51,6 +51,7 @@ Situated learning connects closely to [[embodied-learning]] (both stress the gro
 - [[teacher-role]]
 - [[learning-design]]
 - [[ai-education]]
+- [[virtual-and-augmented-reality]] — immersive environments as a route to authentic context
 
 ## Connected Articles
 

@@ -59,7 +59,7 @@ Before AI dominated educational technology, online platforms transformed access.
 
 ### AI-Based Training: Tools, Opportunities, Limits
 
-A [[meta-analysis-systematic-review|systematic review]] by Sánchez-Jara et al. spans virtual and [[simulation|augmented reality]] to assistive [[ai-technologies|technologies]], with four consequential areas for teaching:
+A [[meta-analysis-systematic-review|systematic review]] by Sánchez-Jara et al. spans virtual and [[virtual-and-augmented-reality|augmented reality]] to assistive [[ai-technologies|technologies]], with four consequential areas for teaching:
 
 - **[[personalized-learning]] and [[intelligent-tutoring]]:** [[adaptive-learning|adaptive systems]] adjust difficulty, pacing, and content in real time. Research by Ou et al. found AI-assisted practice applications improved performance, [[self-efficacy]], and [[self-regulated-learning]]. Tools like SmartMusic, Tonara, and Violin by Trala (over 400,000 users) provide the feedback loop practice requires even without a teacher.
 - **[[automated-assessment]] and [[feedback]]:** historically limited to pitch accuracy and rhythmic precision, current research pushes toward assessing expressive qualities like phrasing and dynamics. AI-powered [[learning-analytics]] dashboards let teachers monitor many students simultaneously, shifting the [[teacher-role|teacher's role]] toward supervision and interpretation.

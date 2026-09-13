@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 190
+**Total concepts:** 191
 
 ## Foundations of AI in education
 
@@ -113,8 +113,9 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`prompt-engineering`** — Prompt Engineering — phrases: prompt design; prompt engineering; prompt literacy; prompting; prompting strategies; prompting strategy
 - **`rag`** — RAG (Retrieval-Augmented Generation) — phrases: rag; retrieval augmentation; retrieval augmented; retrieval-augmented; retrieval-augmented generation
 - **`reinforcement-learning`** — Reinforcement Learning — phrases: reinforcement learning; reward model; RLHF
-- **`simulation`** — Simulation — phrases: augmented reality; immersive; simulation; simulation-based learning; simulations; simulator; virtual environment; virtual lab; virtual laboratory; virtual patient; virtual reality
+- **`simulation`** — Simulation — phrases: simulation; simulation-based learning; simulations; simulator; virtual lab; virtual laboratory; virtual patient
 - **`vibe-coding`** — Vibe Coding — phrases: building software by prompting; end user development; end-user development; natural language programming; natural-language programming; prompt-driven programming; vibe coding; vibe-coding
+- **`virtual-and-augmented-reality`** — Virtual and Augmented Reality — phrases: augmented reality; extended reality; head mounted display; head-mounted display; immersive; immersive learning; metaverse; mixed reality; virtual environment; virtual reality
 - **`visualization`** — Visualization — phrases: dashboards; data visualization; visual analytics; visual representations; visualisation; visualization
 
 ### Learner modeling and adaptive systems

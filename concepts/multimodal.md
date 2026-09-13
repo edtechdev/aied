@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-09T01:46:17-04:00"
+updated: "2026-09-13T09:58:46-04:00"
 type: concept
 tags: [ai-education, generative-ai, multimodal, llm, intelligent-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
 research_method: [educational measurement]
@@ -12,7 +12,7 @@ category: [assessment]
 confidence: high
 ---
 
-> **Multimodal AI** — AI systems that process, understand, or generate content across multiple modalities — text, images, audio, video, and structured data — and the educational questions these systems raise. In [[ai-education|AI in education]], multimodal AI appears in three distinct roles: as the *learning content* learners create and engage with ([[multimodal-learning-genai|multimodal learning]]), as the *capability boundary* of tutoring systems that must interpret diagrams and graphs ([[syal-multimodal-dialogue-stem-2026|multimodal tutoring]]), and as the *assessment signal* used to evaluate understanding ([[multimodal-item-parameter-estimation-2026|multimodal measurement]]).
+> **Multimodal AI** — [[ai-technologies|AI systems]] that process, understand, or generate content across multiple modalities — text, images, audio, video, and structured data — and the educational questions these systems raise. In [[ai-education|AI in education]], multimodal AI appears in three distinct roles: as the *learning content* learners create and engage with ([[multimodal-learning-genai|multimodal learning]]), as the *capability boundary* of tutoring systems that must interpret diagrams and graphs ([[syal-multimodal-dialogue-stem-2026|multimodal tutoring]]), and as the *assessment signal* used to evaluate understanding ([[multimodal-item-parameter-estimation-2026|multimodal measurement]]).
 
 ## Questions to Consider
 
@@ -36,7 +36,7 @@ Multimodal AI enables learners to produce and engage with content across text, i
 - **[[ai-literacy|AI literacy]] in multimodal contexts** is layered: basic awareness of multimodal platforms, intermediate co-creation and [[critical-thinking|critical evaluation]] of outputs, and advanced design of multimodal activities and assessments.([[multimodal-learning-genai]])
 - **Multimodal prompting** is itself a demanding epistemic practice. Students who prompt for images as well as text discover that "prompt literacy is different between prompting for text than it is for pictures" — translating abstract meaning into machine-readable multimodal prompts requires a precise visual vocabulary and exposes system limitations and bias.([[multimodal-prompting-ai-literacy]])
 - **Multimodal assessment** shifts from essays to artefacts combining text, image, audio, and video, with educators using AI to [[scaffolding|scaffold]] creation and feedback rather than replace the learner's own production.([[multimodal-learning-genai]])
-- **Learner multimodal composing as a critical-thinking scaffold carries a trade-off.** [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] show that having upper-primary students turn written narratives into AI-generated images and short videos supported sustained gains in interpretation, analysis, evaluation, and explanation — but not inference. Because the visuals made story meaning explicit, students reported less need to infer implicit meaning from text alone; peer collaboration, not the multimodal tool, restored occasions for inference. Multimodal AI's value as a meaning-making partner is thus dimension-specific and depends on instructional design that deliberately re-introduces the inferential and self-regulatory work the externalization can short-circuit.
+- **Learner multimodal composing as a critical-thinking scaffold carries a trade-off.** [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] show that having upper-primary students turn written narratives into AI-generated images and short videos supported sustained gains in interpretation, analysis, evaluation, and explanation — but not inference. Because the visuals made story meaning explicit, students reported less need to infer implicit meaning from text alone; peer collaboration, not the multimodal tool, restored occasions for inference. Multimodal AI's value as a meaning-making partner is thus dimension-specific and depends on [[learning-design|instructional design]] that deliberately re-introduces the inferential and [[self-regulated-learning|self-regulatory]] work the externalization can short-circuit.
 
 ### 2. Multimodal tutoring and the capability boundary
 
@@ -56,7 +56,7 @@ Multimodal AI broadens both the *content* of assessment and the *signal* used to
 - **Multimodal feedback systems** integrate structured text, slide references, and streaming audio narration. In one study, [[ai-feedback-quality|AI multimodal feedback]] matched educator feedback for learning while *significantly outperforming* it on student perceptions.([[multimodal-ai-feedback-learning]])
 - **Multimodal item response estimation** uses fine-tuned multimodal LLMs to reconstruct item characteristic curves (IRT / 3PL) directly from predicted option probabilities on image-and-text items, connecting multimodal AI to [[educational-measurement]] and [[item-response-theory]].([[multimodal-item-parameter-estimation-2026]])
 - **Educational vision-language model evaluation** and [[mllm-scientific-visualization-literacy|multimodal LLM literacy]] extend the field's evaluation toolkit to multimodal reasoning and [[visualization]].([[drawedumath-vlm-struggling-students-2026]])([[mllm-scientific-visualization-literacy]])
-- **Multimodal grading of handwritten chemistry exposes a format-dependent capability boundary:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] graded a 296-student handwritten general-chemistry final page-by-page against rubric images with a multimodal, reasoning LLM, scoring textual answers and chemical-reaction equations reliably (normed F1 highest) but drawing and graphing *worse than random* — background grids visually distract AI vision and scientific diagrams/chemical structures remain hard to interpret — reinforcing that multimodal AI's vision is not robust to representation-heavy work and is best deployed with [[human-in-the-loop-ai|human deferral]] of graphical items ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
+- **Multimodal grading of handwritten [[chemistry-education|chemistry]] exposes a format-dependent capability boundary:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] graded a 296-student handwritten general-chemistry final page-by-page against rubric images with a multimodal, reasoning LLM, scoring textual answers and chemical-reaction equations reliably (normed F1 highest) but drawing and graphing *worse than random* — background grids visually distract AI vision and scientific diagrams/chemical structures remain hard to interpret — reinforcing that multimodal AI's vision is not robust to representation-heavy work and is best deployed with [[human-in-the-loop-ai|human deferral]] of graphical items ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 
 ## Multimodal AI for language and accessible learning
 
@@ -71,7 +71,6 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 5. **Watch equity and privacy.** Unreliable support on image-rich problems and the data demands of multimodal sensing both carry equity and privacy implications.([[syal-multimodal-dialogue-stem-2026]])([[privacy-aware-classroom-incident-recognition-2026]])
 
 ## Connected Concepts
-
 - [[generative-ai]]
 - [[llm]]
 - [[educational-nlp]]
@@ -95,6 +94,7 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[stem-education]]
 - [[inclusive-learning]]
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
+- [[virtual-and-augmented-reality]] — gesture, voice and spatial input as learning channels
 
 ## Connected Articles
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation

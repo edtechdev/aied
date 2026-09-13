@@ -1,14 +1,14 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-13T09:58:46-04:00"
 type: concept
 tags: [experiential-learning, active-learning, higher-ed, project-based-learning, embodied-learning]
 level: [higher ed]
 confidence: high
 ---
 
-> **Experiential learning** — learning through direct experience, reflection, and the application of knowledge in authentic or hands-on contexts ("learning by doing"). Drawing on Kolb's experiential learning cycle (concrete experience, reflective observation, abstract conceptualization, active experimentation), experiential approaches emphasize that learners learn most deeply when they act, observe the results, and reflect. In AI education, experiential learning includes hands-on labs, project-based work, [[educational-robotics|robotics]], [[simulation|simulations]], and real-world problem solving.
+> **Experiential learning** — learning through direct experience, reflection, and the application of knowledge in authentic or hands-on contexts ("learning by doing"). Drawing on Kolb's experiential learning cycle (concrete experience, reflective observation, abstract conceptualization, active experimentation), experiential approaches emphasize that learners learn most deeply when they act, observe the results, and reflect. In [[ai-education|AI education]], experiential learning includes hands-on labs, project-based work, [[educational-robotics|robotics]], [[simulation|simulations]], and real-world [[problem-solving|problem solving]].
 
 ## Questions to Consider
 
@@ -23,14 +23,13 @@ Experiential learning is closely related to [[active-learning]], [[project-based
 
 ### How experiential learning appears in the knowledge base's research
 
-- **Cybersecurity labs:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|LLM-assisted cybersecurity instruction]] integrates a generative-AI instructional assistant into a virtual lab platform, supporting hands-on experiential skill building.
+- **Cybersecurity labs:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|LLM-assisted cybersecurity instruction]] integrates a [[generative-ai]] instructional assistant into a virtual lab platform, supporting hands-on experiential skill building.
 - **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] uses a project-based, hands-on approach to teach robotics, addressing the lack of practical experience in classic programs.
 - **Simulation and embodied learning:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners experiment with simulated robots, and [[embodied-learning|embodied]] robot interaction grounds learning in direct experience.
 
 Experiential learning connects to [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]], and [[higher-ed]] professional preparation.
 
 ## Connected Concepts
-
 - [[active-learning]]
 - [[project-based-learning]]
 - [[embodied-learning]]
@@ -39,6 +38,7 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[higher-ed]]
 - [[learning-theories]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[virtual-and-augmented-reality]] — immersive practice as deliberate experience
 
 ## Connected Articles
 - [[ying-genai-journalism-assessment-2026]]
