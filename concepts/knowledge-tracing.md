@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-12T17:05:00-04:00"
 type: concept
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, adaptive-learning, student-modeling, personalized-learning, student-experience, llm]
 audience: [learners]
@@ -79,3 +79,4 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
 - [[schuetze-knowledge-tracing-forgetting-2026]]
+- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)

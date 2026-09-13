@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-12T17:05:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 tags: [intelligent-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
@@ -186,3 +186,4 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
+- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
