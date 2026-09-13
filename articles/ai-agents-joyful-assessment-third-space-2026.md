@@ -1,7 +1,7 @@
 ---
 title: AI Agents, Joyful Assessment, and Third Space
-created: "2026-09-12T15:40:00-04:00"
-updated: "2026-09-12T15:40:00-04:00"
+created: "2026-09-12T19:15:00-04:00"
+updated: "2026-09-12T19:23:00-04:00"
 type: article
 tags: [assessment, academic-integrity, agentic-ai, agency, assessment-validity, feedback, ethics, scaffolding, authentic-assessment, generative-ai, higher-ed]
 research_method: [position paper, literature review]
