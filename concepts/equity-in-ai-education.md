@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-12T14:25:00-04:00"
+updated: "2026-09-13T12:55:00-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 discipline: [language learning]
@@ -63,7 +63,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 ## Special populations and global equity
 
 - **Special populations:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[inclusive-learning|learners with disabilities]] represent groups whose needs are often overlooked in AI system design.
-- **Global South perspectives:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[amponsah-ai-acceptance-science-teachers-2026|Ghanaian teacher acceptance]] provide Global South perspectives often absent from Western-centric AIED research. At the institutional level, [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] show AI integration across 45 Nigerian universities is driven by institution age and geography rather than governance type, with reinforcing network ties letting well-connected institutions compound advantage — evidence that equity gaps are reproduced structurally, not just through individual access.
+- **Global South perspectives:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[pre-service-science-teachers-ai-perceptions-2026|Ghanaian teacher acceptance]] provide Global South perspectives often absent from Western-centric AIED research. At the institutional level, [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] show AI integration across 45 Nigerian universities is driven by institution age and geography rather than governance type, with reinforcing network ties letting well-connected institutions compound advantage — evidence that equity gaps are reproduced structurally, not just through individual access.
 - **Global capacity:**  documents how generative AI benefits are distributed unevenly across countries and institutions, and [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] addresses structural socioeconomic gradients.
 - **Disability and Global South intersection:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates across three Palestinian universities — shows GenAI bridging digital, geographic, and socioeconomic divides while extending [[technology-acceptance-model|technology acceptance models]] to disability contexts, where [[usability-research|usability]], affordability, and accessibility are mutually reinforcing.
 - **Gender equity in computing:** equity-oriented uses of [[generative-ai|GenAI]] remain underexplored. [[all-girls-genai-makerspace-gender-equity-2026|An all-girls GenAI makerspace initiative in Europe]] combined two GenAI tools with feminist pedagogy to address persistent gender inequities in girls' representation in computing, with practitioners enacting specific steps to support girls' participation and engagement — an example of equity-focused GenAI design. Deliberately gendered AI can also function as the *intervention itself*: [[ada-female-coded-chatbot-gender-stereotypes-2026|Rücker and Becker-Genschow (2026)]] showed that a female-coded, [[discipline-specific-aied|domain-specific]] math [[conversational-ai|chatbot]] modeled on Ada Lovelace's persona (and deployed as both a role model and a [[intelligent-tutoring|learning assistant]]) significantly reduced gender-stereotypical beliefs about mathematical ability and [[math-education|mathematics]] as a male domain among ninth graders — in *both* genders, with high and gender-neutral technological acceptance. This reframes representation as a design lever, not just a bias to audit: systematically designed AI personas can counter, rather than merely avoid reproducing, [[gender-bias-transfer-llm-writing|gender bias]].
@@ -130,7 +130,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[paternalistic-filter-llm-history-education]] — Paternalistic filtering in LLM-based history education
 - [[connected-ai-lesson-planning-vietnam]] — Connected AI lesson planning in Vietnam
 - [[dyslexlens-dyslexic-learners-ai]] — DyslexLens: AI support for dyslexic learners
-- [[amponsah-ai-acceptance-science-teachers-2026]] — Ghanaian science teachers' AI acceptance
+- [[pre-service-science-teachers-ai-perceptions-2026]] — Ghanaian science teachers' AI acceptance
 - [[ground-truth-reliability-aied]] — Ground-truth reliability in AIED
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned feedback bias across student attributes
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts

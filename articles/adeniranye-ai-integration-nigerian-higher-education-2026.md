@@ -1,7 +1,7 @@
 ---
 title: "Institutional Structures, Digital Inequality, and AI Integration in Higher Education"
 created: "2026-09-07T08:45:00-04:00"
-updated: "2026-09-07T08:45:00-04:00"
+updated: "2026-09-13T12:55:00-04:00"
 type: article
 tags: [equity-in-ai-education, digital-divide, global-south, educational-policy-ai, governance, higher-ed, ai-education]
 research_method: [secondary analysis]
@@ -53,7 +53,7 @@ The study relies on publicly observable documentary/web indicators that may capt
 
 - [[nguyen-genai-global-south-review-2026]] — Systematic review of GenAI in Global South education
 - [[multilingual-adaptive-learning-nigeria-2026]] — Adaptive learning in the Nigerian higher education context
-- [[amponsah-ai-acceptance-science-teachers-2026]] — AI acceptance among Ghanaian science teachers
+- [[pre-service-science-teachers-ai-perceptions-2026]] — AI acceptance among Ghanaian science teachers
 
 ## Citation
 

@@ -1,7 +1,7 @@
 # Journal
 
 
-Last updated: 2026-09-13 | Total entries: 1347
+Last updated: 2026-09-13 | Total entries: 1346
 
 ## 2026-09-13
 - 📄 [[age-tiered-ai-literacy-guidebooks-2026]] — Measuring Acceptance of Age-Tiered AI Literacy Guidebooks: A Developmentally Informed Study of K-12 Students and Teachers
@@ -897,7 +897,6 @@ Last updated: 2026-09-13 | Total entries: 1347
 - 📄 [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
 - 📄 [[tzirides-thinking-through-ai-2025]] — Thinking Through AI: Advancing Cognitive and Collaborative Research for AI in Education
 - 📄 [[raza-farooq-aied-review-2020-2025]] — Review of Artificial Intelligence in Education from 2020 to 2025
-- 📄 [[amponsah-ai-acceptance-science-teachers-2026]] — Perceptions And Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
 - 📄 [[talebzadeh-ai-green-education-2026]] — The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints
 - 📄 [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
 - 📘 [[math-education]] — Math Education

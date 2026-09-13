@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-08-24T05:06:37-04:00"
+updated: "2026-09-13T12:55:00-04:00"
 type: article
 tags: [educational-policy-ai, higher-ed, governance, ethics, equity-in-ai-education, meta-analysis-systematic-review, change-management, administrator]
 research_method: [systematic review]
@@ -63,7 +63,7 @@ The review also connects to broader debates about [[ethics]] and learner efficac
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
 - [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs framework
 - [[pchl-he-framework-genai-content-creation-2026]] — PCHL-HE framework
-- [[amponsah-ai-acceptance-science-teachers-2026]] — AI acceptance science teachers
+- [[pre-service-science-teachers-ai-perceptions-2026]] — AI acceptance science teachers
 
 ## Citation
 
