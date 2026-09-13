@@ -17,7 +17,33 @@ with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', '
     SITE = json.load(_cfg)
 SITE_URL = SITE['url']
 
-FEEDS = {
+def load_feeds():
+    """Journal feeds from wiki.config.yaml (single source of truth).
+
+    Falls back to the embedded FEEDS copy when the config is unavailable, so the
+    script still runs when copied on its own.
+    """
+    here = os.path.dirname(os.path.abspath(__file__))
+    wiki = os.path.dirname(os.path.dirname(here))
+    cfg_path = os.path.join(wiki, 'wiki.config.yaml')
+    if not os.path.exists(cfg_path):
+        print(f"# note: {cfg_path} not found - using the embedded feed list", file=sys.stderr)
+        return EMBEDDED_FEEDS
+    try:
+        import yaml
+    except ImportError:
+        print("# note: PyYAML missing - using the embedded feed list", file=sys.stderr)
+        return EMBEDDED_FEEDS
+    with open(cfg_path, encoding='utf-8') as fh:
+        cfg = yaml.safe_load(fh) or {}
+    out = {}
+    for feed in ((cfg.get('journal_scan') or {}).get('feeds') or []):
+        key = feed.get('id') or feed['name']
+        out[key] = {k: v for k, v in feed.items() if k != 'id'}
+    return out or EMBEDDED_FEEDS
+
+
+EMBEDDED_FEEDS = {
     "caeai": {
         "name": "Computers and Education: Artificial Intelligence",
         "url": "https://rss.sciencedirect.com/publication/science/2666920X",
@@ -352,10 +378,23 @@ def parse_springer(root, cutoff, journal_name='International Journal of Educatio
 
     return articles
 
+PARSERS = {
+    'parse_caeai': lambda root, cutoff, feed: parse_caeai(
+        root, cutoff,
+        journal_name=feed.get('journal', feed['name']),
+        doi_prefix=feed.get('doi_prefix', 'caeai')),
+    'parse_frontiers': lambda root, cutoff, feed: parse_frontiers(root, cutoff),
+    'parse_springer': lambda root, cutoff, feed: parse_springer(
+        root, cutoff, journal_name=feed.get('journal', feed['name'])),
+    'parse_bjet': lambda root, cutoff, feed: parse_bjet(root, cutoff),
+}
+
+
 def main():
     all_articles = []
-    
-    for key, feed in FEEDS.items():
+    feeds = load_feeds()
+
+    for key, feed in feeds.items():
         try:
             req = Request(feed['url'], headers={
                 'User-Agent': f'Mozilla/5.0 (AIEdWiki/1.0; +{SITE_URL})',
@@ -368,18 +407,17 @@ def main():
             max_age = feed['max_age_days']
             cutoff = datetime.now() - timedelta(days=max_age)
             
-            if key in ('caeai', 'ceao', 'ijaied'):
-                articles = parse_caeai(
-                    root, cutoff,
-                    journal_name=feed.get('journal', 'Computers and Education: Artificial Intelligence'),
-                    doi_prefix=feed.get('doi_prefix', 'caeai'),
-                )
-            elif key == 'frontiers':
-                articles = parse_frontiers(root, cutoff)
-            elif key == 'ijethel':
-                articles = parse_springer(root, cutoff, journal_name=feed.get('journal', 'International Journal of Educational Technology in Higher Education'))
-            else:
-                articles = parse_bjet(root, cutoff)
+            parser_name = feed.get('parser')
+            if parser_name is None:
+                # legacy embedded list has no `parser:` field
+                parser_name = {'caeai': 'parse_caeai', 'ceao': 'parse_caeai',
+                               'ijaied': 'parse_caeai', 'frontiers': 'parse_frontiers',
+                               'ijethel': 'parse_springer'}.get(key, 'parse_bjet')
+            parse = PARSERS.get(parser_name)
+            if parse is None:
+                print(f"# ERROR unknown parser {parser_name!r} for {feed['name']}", file=sys.stderr)
+                continue
+            articles = parse(root, cutoff, feed)
             
             print(f"# {feed['name']}: {len(articles)} recent articles (last {max_age}d)", file=sys.stderr)
             all_articles.extend(articles)

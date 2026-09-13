@@ -1,0 +1,180 @@
+#!/usr/bin/env python3
+"""Generate the concept views from concepts.registry.yaml.
+
+The registry is the single source of truth; these files are VIEWS and must never
+be hand-edited:
+
+    tooling/concept-index.md          human-readable manifest (slug, title, phrases,
+                                      merge map, never-link list)
+    src/data/conceptIndex.ts          sidebar sections/groups used by the Astro site
+    src/data/conceptRedirects.ts      old slug -> canonical slug 301 redirects
+
+Usage:
+    python3 tooling/scripts/gen-concept-artifacts.py            # write
+    python3 tooling/scripts/gen-concept-artifacts.py --check    # fail if out of date
+"""
+import os, sys, re
+
+try:
+    import yaml
+except ImportError:
+    sys.exit("PyYAML is required: pip install pyyaml")
+
+WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+REGISTRY = os.path.join(WIKI, 'concepts.registry.yaml')
+
+CONCEPT_INDEX = os.path.join(WIKI, 'tooling', 'concept-index.md')
+CONCEPT_INDEX_TS = os.path.join(WIKI, 'src', 'data', 'conceptIndex.ts')
+REDIRECTS_TS = os.path.join(WIKI, 'src', 'data', 'conceptRedirects.ts')
+
+TS_HEADER = """// Shared concept index data for the site-wide navigation sidebar.
+// Every concept appears exactly once. Links only render for slugs that exist,
+// so coverage stays safe if a concept is renamed or removed.
+//
+// GENERATED FILE - do not edit by hand.
+// Source: concepts.registry.yaml
+// Regenerate: python3 tooling/scripts/gen-concept-artifacts.py
+//
+// Organization of the sidebar sections lives in the registry's `sections:` block.
+
+export interface ConceptSection {
+  heading: string;
+  blurb?: string;
+  groups: { label: string; items: string[] }[];
+}
+
+export const conceptIndex: ConceptSection[] = ["""
+
+REDIRECTS_HEADER = """// Canonical destination for merged/absorbed concept slugs.
+// Each key is an old slug that no longer has its own page; visiting
+// concepts/<key>/ on the site redirects (301) to the canonical destination
+// instead of 404. Keys here must be concept slugs, never article slugs.
+//
+// GENERATED FILE - do not edit by hand.
+// Source: concepts.registry.yaml (the `redirects:` block)
+
+export const CONCEPT_REDIRECTS: Record<string, string> = {"""
+
+
+def load_registry(path=REGISTRY):
+    with open(path, encoding='utf-8') as fh:
+        return yaml.safe_load(fh)
+
+
+def render_index_md(reg):
+    concepts = reg['concepts']
+    lines = [
+        '# Concept Index (generated)',
+        '',
+        'Canonical reference for inline `[[slug]]` linking. Generated from',
+        '`concepts.registry.yaml` — **edit the registry, never this file**.',
+        '',
+        f"**Total concepts:** {len(concepts)}",
+        '',
+    ]
+    for section in reg.get('sections', []):
+        lines.append(f"## {section['heading']}")
+        lines.append('')
+        for group in section['groups']:
+            lines.append(f"### {group['label']}")
+            lines.append('')
+            for slug in sorted(group['items']):
+                entry = concepts.get(slug)
+                if entry is None:
+                    continue
+                phrases = '; '.join(entry.get('aliases') or [])
+                lines.append(f"- **`{slug}`** — {entry['title']} — phrases: {phrases}")
+            lines.append('')
+    ungrouped = sorted(set(concepts) - {s for sec in reg.get('sections', [])
+                                        for g in sec['groups'] for s in g['items']})
+    if ungrouped:
+        lines += ['## Ungrouped (not in any sidebar section)', '']
+        lines += [f"- **`{s}`** — {concepts[s]['title']}" for s in ungrouped]
+        lines.append('')
+    redirects = reg.get('redirects') or {}
+    if redirects:
+        lines += ['## Merged / absorbed (redirects to the canonical page)', '']
+        lines += [f"- `{old}` → **`{new}`**" for old, new in sorted(redirects.items())]
+        lines.append('')
+    never = reg.get('never_link') or []
+    if never:
+        lines += ['## Never linked (no page — mention as plain text)', '']
+        lines += [f"- `{slug}`" for slug in never]
+        lines.append('')
+    return '\n'.join(lines).rstrip('\n') + '\n'
+
+
+def render_concept_index_ts(reg):
+    out = [TS_HEADER]
+    for section in reg.get('sections', []):
+        out.append('  {')
+        out.append(f"    heading: {ts_str(section['heading'])},")
+        if section.get('blurb'):
+            out.append(f"    blurb: {ts_str(section['blurb'])},")
+        out.append('    groups: [')
+        for group in section['groups']:
+            items = ', '.join(f"'{s}'" for s in group['items'])
+            out.append(f"      {{ label: {ts_str(group['label'])}, items: [{items}] }},")
+        out.append('    ],')
+        out.append('  },')
+    out.append('];')
+    return '\n'.join(out) + '\n'
+
+
+def render_redirects_ts(reg):
+    out = [REDIRECTS_HEADER]
+    for old, new in sorted((reg.get('redirects') or {}).items()):
+        out.append(f"  '{old}': '{new}',")
+    out.append('};')
+    return '\n'.join(out) + '\n'
+
+
+def ts_str(s):
+    # Preserve existing \uXXXX escapes in the source text verbatim (they are part
+    # of the TS string literal); escape only real backslashes.
+    out, i = [], 0
+    while i < len(s):
+        ch = s[i]
+        if ch == '\\' and re.match(r'\\u[0-9a-fA-F]{4}', s[i:i + 6]):
+            out.append(s[i:i + 6])
+            i += 6
+        elif ch == '\\':
+            out.append('\\\\')
+            i += 1
+        elif ch == "'":
+            out.append("\\'")
+            i += 1
+        else:
+            out.append(ch)
+            i += 1
+    return "'" + ''.join(out) + "'"
+
+
+def main():
+    check = '--check' in sys.argv
+    reg = load_registry()
+    targets = {
+        CONCEPT_INDEX: render_index_md(reg),
+        CONCEPT_INDEX_TS: render_concept_index_ts(reg),
+        REDIRECTS_TS: render_redirects_ts(reg),
+    }
+    stale = []
+    for path, content in targets.items():
+        current = open(path, encoding='utf-8').read() if os.path.exists(path) else None
+        if current == content:
+            continue
+        stale.append(path)
+        if check:
+            continue
+        with open(path, 'w', encoding='utf-8') as fh:
+            fh.write(content)
+    for path in targets:
+        rel = os.path.relpath(path, WIKI)
+        print(f"{'STALE' if path in stale else 'ok   '}  {rel}")
+    if check and stale:
+        sys.exit(f"\n{len(stale)} generated file(s) out of date — run: "
+                 f"python3 tooling/scripts/gen-concept-artifacts.py")
+
+
+if __name__ == '__main__':
+    main()

@@ -203,7 +203,7 @@ python3 scripts/generate-static-site.py \
   --output-path static-site \
   --wiki-title 'AI Ed Wiki'
 ```
-Run from `~/.ai-agent/skills/research-wiki/` (the skill directory). If you get `No such file or directory`, the workdir is wrong — search for the script with `search_files(pattern='generate-static-site.py', target='files', path='~/.ai-agent')` to resolve the correct path. Do NOT use `wiki-static-export` as the workdir — that directory does not exist.
+Run from `<SKILLS_DIR>/research-wiki/` (the skill directory). If you get `No such file or directory`, the workdir is wrong — search for the script with `search_files(pattern='generate-static-site.py', target='files', path='<SKILLS_DIR>')` to resolve the correct path. Do NOT use `wiki-static-export` as the workdir — that directory does not exist.
 
 The static site is served at `http://localhost:8080` via Python http.server. In interactive sessions, start with:
 ```bash

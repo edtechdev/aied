@@ -1,10 +1,19 @@
 # Repository skills
 
-These skills mirror the ones installed locally under `~/.hermes/skills/research/`.
-The two copies differ **only** in path literals:
+These skills mirror the ones the agent actually runs, installed under the
+`agent.skills_dir` named in `wiki.config.yaml` (currently `~/.hermes/skills`).
+The two copies differ **only** in the sanctioned ways:
 
-- the **repo copy** (this directory) uses the placeholder `<WIKI>` for the repository root
-- the **installed copy** substitutes the real absolute local path
+- the **repo copy** (this directory) uses the placeholder `<WIKI>` for the repository root and `<SKILLS_DIR>` for the installed skill store
+- the **installed copy** substitutes the real absolute paths
+- the **repo copy** names no person and no agent product ("the maintainer", "the AI agent")
+
+Everything else — every rule, example, command and pitfall — must be identical.
+`python3 tooling/scripts/sync-skills.py --check` normalizes those sanctioned
+differences and reports only real content drift; `--diff <skill>` prints it and
+`--to-repo <skill>` refreshes the mirror with the redaction applied. The installed
+copy is authoritative for behaviour; the repo copy is the public-safe mirror, so
+reconcile by hand rather than overwriting wholesale in either direction.
 
 Syncing must follow that direction: when copying **installed → repo**, replace the
 absolute path with `<WIKI>`; when copying **repo → installed**, substitute the real
@@ -36,6 +45,12 @@ This applies to commit messages as well as file contents.
 - Site-wide metadata (name, editor, URL, base path, licence) comes from
   `site.config.json` via `src/config/siteConfig.ts` in the Astro code and by
   loading that JSON in the Python tooling. Never restate it in a script.
+- Pipeline settings (paths, gates, scan sources, journal feeds, the agent's name
+  and tool mapping) come from `wiki.config.yaml` — load it with
+  `tooling/scripts/wiki_config.py` instead of hardcoding a path, journal or tool
+  name. The concept vocabulary comes from `concepts.registry.yaml`; never
+  hand-maintain a second alias list in a script (the inline-link scanner reads
+  the registry, and its embedded table is only a standalone fallback).
 - `~/.hermes/...` is acceptable for the installed skill location: it names the
   tool's own directory, not the person.
 - Attribute a standing preference to "the maintainer" (or state it plainly with no

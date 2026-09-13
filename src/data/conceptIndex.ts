@@ -2,15 +2,11 @@
 // Every concept appears exactly once. Links only render for slugs that exist,
 // so coverage stays safe if a concept is renamed or removed.
 //
-// Organization (reorganized 2026-08-28):
-//  - Foundations of AI in education (cross-cutting umbrella concepts first)
-//  - Learning and instruction
-//  - AI technologies and techniques (learner modeling + adaptive systems are
-//    grouped under the technical layer, alongside models and methods)
-//  - AI in the disciplines (subject areas + educational levels)
-//  - Assessment, evaluation, and measurement
-//  - People: learners, teachers, and institutions
-//  - Equity, ethics, and responsible use
+// GENERATED FILE - do not edit by hand.
+// Source: concepts.registry.yaml
+// Regenerate: python3 tooling/scripts/gen-concept-artifacts.py
+//
+// Organization of the sidebar sections lives in the registry's `sections:` block.
 
 export interface ConceptSection {
   heading: string;

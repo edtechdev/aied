@@ -1,0 +1,2013 @@
+# Concept registry - the single source of truth for this knowledge base's
+# concept vocabulary. Edit HERE, never in the generated views.
+#
+#   concepts   slug -> title + synonym phrases used by the inline-link pass
+#   sections   sidebar structure (also drives EPUB/PDF chapter grouping)
+#   redirects  old slug -> canonical slug (merged/renamed concepts)
+#   never_link slugs with no page that must stay plain text, never a wikilink
+#
+# The inline-link scanner refuses bare ambiguous words in --apply mode
+# (see AUTO_APPLY_DENYLIST in the wiki-inline-links skill); keep aliases
+# here to phrases whose meaning is unambiguous.
+#
+# Generated from this file by tooling/scripts/gen-concept-artifacts.py:
+#   tooling/concept-index.md, src/data/conceptIndex.ts, src/data/conceptRedirects.ts
+# Validate with: python3 tooling/scripts/check_concepts.py
+version: 1
+concepts:
+  academic-integrity:
+    title: Academic Integrity
+    aliases:
+    - academic dishonesty
+    - academic integrity
+    - authorship
+    - contract cheating
+    - plagiarism
+    - scientific integrity
+  accessibility:
+    title: Accessibility
+    aliases:
+    - accessibility
+    - accessible
+    - accessible design
+    - accessible education
+    - accessible learning
+    - inclusive design
+  active-learning:
+    title: Active Learning
+    aliases:
+    - active engagement
+    - active learning
+  activity-theory-aied:
+    title: Activity Theory
+    aliases:
+    - activity systems
+    - activity theory
+    - contradictions in activity systems
+    - third generation activity theory
+  adaptive-learning:
+    title: Adaptive Learning
+    aliases:
+    - adaptive instruction
+    - adaptive learning
+    - adaptive system
+    - adaptive systems
+    - adaptive testing
+    - adaptivity
+  administrator:
+    title: Administrators
+    aliases:
+    - admin
+    - administration
+    - administrator
+    - administrator perspective
+    - administrators
+    - edtech administrator
+    - education administrator
+    - institutional leader
+  adult-learning:
+    title: Adult Learners
+    aliases:
+    - adult education
+    - adult learning
+    - andragogy
+    - continuing education
+    - lifelong learner
+  affective-computing:
+    title: Affective Computing
+    aliases:
+    - affective
+    - affective computing
+    - emotion AI
+    - emotion detection
+    - emotion recognition
+    - sentiment analysis
+  affective-tutoring:
+    title: Affective Tutoring
+    aliases:
+    - affect-sensitive tutoring
+    - affective tutoring
+    - emotion-aware
+    - emotion-aware AI tutor
+    - emotion-aware tutoring
+  agency:
+    title: Learner Agency
+    aliases:
+    - agency
+    - autonomy
+    - epistemic agency
+    - learner agency
+    - learner control
+    - student agency
+    - user agency
+  agentic-ai:
+    title: Agentic AI
+    aliases:
+    - agent
+    - agent-based AI
+    - agentic
+    - agentic ai
+    - agents
+    - ai agent
+    - AI agentic systems
+    - ai agents
+    - autonomous agents
+    - multi-agent
+  ai-anxiety-and-stress:
+    title: AI Anxiety and Stress
+    aliases:
+    - AI anxiety
+    - AI stress
+    - AI-induced anxiety
+    - productive AI anxiety
+    - remote proctoring anxiety
+    - surveillance stress
+    - test anxiety
+  ai-detection:
+    title: AI Detection
+    aliases:
+    - ai detection
+    - AI plagiarism detection
+    - ai text detection
+    - AI-generated text detection
+    - authorship detection
+    - detection
+    - plagiarism detection
+  ai-ed-evaluation:
+    title: AI Ed Evaluation
+    aliases:
+    - ai evaluation
+    - AI system evaluation
+    - aied evaluation
+    - assessment of AI systems
+    - efficacy evaluation
+    - evaluating AI
+    - evaluation
+    - evaluation of ai
+  ai-education:
+    title: AI in Education
+    aliases:
+    - ai education
+    - ai in education
+    - aied
+    - artificial intelligence in education
+  ai-feedback-quality:
+    title: AI Feedback Quality
+    aliases:
+    - ai feedback
+    - AI feedback quality
+    - automated feedback
+    - feedback quality
+    - quality of AI feedback
+  ai-literacy:
+    title: AI Literacy
+    aliases:
+    - ai competence
+    - ai competency
+    - AI fluency
+    - ai literacy
+    - AI skills
+    - artificial intelligence literacy
+    - conscious ai use
+    - digital literacy
+    - responsible ai use
+  ai-misuse-learning-harm:
+    title: AI Misuse and Learning Harm
+    aliases:
+    - ai misuse
+    - AI-induced learning harm
+    - harmful AI use
+    - learning harm
+    - misuse of ai
+  ai-sycophancy:
+    title: AI Sycophancy
+    aliases:
+    - affirmation bias
+    - agreeable AI
+    - AI sycophancy
+    - flattering AI
+    - sycophancy
+    - sycophantic
+    - sycophantic AI
+  ai-technologies:
+    title: Technologies
+    aliases:
+    - AI systems
+    - AI techniques
+    - AI technologies
+  ai-use-disclosure:
+    title: AI Use and Disclosure Statements
+    aliases:
+    - AI acknowledgment
+    - AI use disclosure
+    - AI use statement
+    - declaring AI use
+    - disclosure of AI use
+    - transparency about AI use
+  assessment:
+    title: Assessment
+    aliases:
+    - assessment
+    - assessment design
+    - assessments
+    - educational assessment
+    - student assessment
+    - take-home assessments
+  assessment-validity:
+    title: Assessment Validity
+    aliases:
+    - assessment validity
+    - construct validity
+    - measurement validity
+    - test validity
+    - validation
+    - validity
+  assistive-technology:
+    title: Assistive Technology
+    aliases:
+    - assistive tech
+    - assistive technology
+    - AT tools
+    - braille
+    - screen reader
+    - speech to text
+    - text to speech
+  authentic-assessment:
+    title: Authentic Assessment
+    aliases:
+    - authentic assessment
+    - authentic evaluation
+    - authentic learning tasks
+    - authentic tasks
+    - real-world assessment
+  automated-assessment:
+    title: Automated Assessment
+    aliases:
+    - ai grading
+    - auto-scoring
+    - autograding
+    - automated assessment
+    - automated grading
+    - automated scoring
+    - automatic assessment
+    - automatic grading
+    - confidence-aware AI assessment
+    - confidence-aware assessment
+  automated-essay-scoring:
+    title: Automated Essay Scoring
+    aliases:
+    - AES
+    - automated essay scoring
+    - automated writing evaluation
+    - automatic essay evaluation
+    - awe
+    - essay grading
+    - essay scoring
+  automated-question-generation:
+    title: Automated Question Generation
+    aliases:
+    - AI question generation
+    - AQG
+    - auto-generated questions
+    - automated question generation
+    - item generation
+    - item writing
+    - question generation
+  behaviorism:
+    title: Behaviorism
+    aliases:
+    - behavioral learning theory
+    - behaviorism
+    - behaviourism
+  benchmark:
+    title: Benchmark
+    aliases:
+    - benchmark
+    - benchmark dataset
+    - benchmark suite
+    - benchmarking
+    - benchmarks
+    - evaluation benchmark
+  bias-mitigation:
+    title: Bias Mitigation
+    aliases:
+    - algorithmic bias
+    - algorithmic fairness
+    - bias
+    - bias mitigation
+    - de-biasing
+    - debiasing
+    - fairness
+  biology-education:
+    title: Biology Education
+    aliases:
+    - biological
+    - biological education
+    - biology
+    - biology education
+    - biology laboratory
+    - biology learning
+    - life sciences
+  business-education:
+    title: Business Education
+    aliases:
+    - business degree
+    - business education
+    - business school
+    - business schools
+    - economics education
+    - management education
+  career-development-and-readiness:
+    title: Career Development and Readiness
+    aliases:
+    - AI career anxiety
+    - career adapt-abilities
+    - career adaptability
+    - career development
+    - career readiness
+    - employability
+    - workforce readiness
+  change-management:
+    title: Change Management
+    aliases:
+    - change management
+    - educational reform
+    - implementation of AI
+    - institutional change
+    - leading change
+    - organizational change
+  chemistry-education:
+    title: Chemistry Education
+    aliases:
+    - chemical education
+    - chemistry
+    - chemistry education
+    - chemistry laboratory
+    - chemistry learning
+  cognitive-diagnosis:
+    title: Cognitive Diagnosis
+    aliases:
+    - cognitive diagnosis
+    - cognitive diagnostic
+    - cognitive diagnostic assessment
+    - cognitive modeling
+    - diagnostic inference
+    - misconception diagnosis
+  cognitive-offloading:
+    title: Cognitive Offloading
+    aliases:
+    - cognitive delegation
+    - cognitive load
+    - cognitive offloading
+    - cognitive outsourcing
+    - cognitive-load theory
+    - mental offloading
+    - offloading cognition
+    - over reliance
+    - over-reliance
+    - overreliance
+  cognitive-psychology:
+    title: Cognitive Psychology
+    aliases:
+    - attention
+    - cognitive processing
+    - cognitive psychology
+    - cognitive science
+    - human cognition
+    - memory
+    - working memory
+  collaborative-learning:
+    title: Collaborative Learning
+    aliases:
+    - collaboration
+    - collaborative
+    - collaborative learning
+    - cooperative learning
+    - group learning
+    - interprofessional
+    - peer learning
+  community-of-inquiry:
+    title: Community of Inquiry
+    aliases:
+    - cognitive presence
+    - coi
+    - community of inquiry
+    - community of inquiry framework
+    - social presence
+    - teaching presence
+  computational-thinking:
+    title: Computational Thinking
+    aliases:
+    - computational skills
+    - computational thinking
+  constructivist:
+    title: Constructivism
+    aliases:
+    - constructionism
+    - constructivism
+    - constructivist
+    - constructivist learning
+    - constructivist theory
+  conversational-ai:
+    title: Conversational AI
+    aliases:
+    - chatbot
+    - chatbots
+    - conversational agent
+    - conversational agents
+    - conversational ai
+    - dialogue system
+    - dialogue systems
+    - dialogue-based tutoring
+  creativity:
+    title: Creativity
+    aliases:
+    - creative
+    - creative skills
+    - creative thinking
+    - creativity
+    - divergent thinking
+  critical-pedagogy:
+    title: Critical Pedagogy
+    aliases:
+    - critical education
+    - critical educational theory
+    - critical pedagogy
+    - critical theory
+  critical-thinking:
+    title: Critical Thinking
+    aliases:
+    - analytical thinking
+    - critical analysis
+    - critical evaluation
+    - critical reasoning
+    - critical thinking
+    - higher order thinking
+    - higher-order thinking
+    - reasoning
+  cs-education:
+    title: CS Education
+    aliases:
+    - block coding
+    - block programming
+    - block-based programming
+    - coding education
+    - computer science
+    - computer science education
+    - computing education
+    - CS education
+    - CS1
+    - introductory programming
+    - programming
+    - programming education
+    - Scratch
+    - visual programming
+  culturally-relevant-pedagogy:
+    title: Culturally Relevant Pedagogy
+    aliases:
+    - culturally relevant
+    - culturally relevant pedagogy
+    - culturally responsive
+    - culturally responsive pedagogy
+    - culturally responsive teaching
+    - culturally sustaining
+    - culturally sustaining pedagogy
+  curriculum-design:
+    title: Curriculum Design
+    aliases:
+    - curricular
+    - curriculum
+    - curriculum alignment
+    - curriculum design
+    - curriculum development
+  design-based-research:
+    title: Design-Based Research
+    aliases:
+    - dbr
+    - design based research
+    - design-based
+    - design-based research
+  design-thinking:
+    title: Design Thinking
+    aliases:
+    - design process
+    - design thinking
+  desirable-difficulties:
+    title: Desirable Difficulties
+    aliases:
+    - cognitive friction
+    - desirable difficulties
+    - desirable difficulty
+    - productive friction
+    - productive struggle
+  digital-divide:
+    title: Digital Divide
+    aliases:
+    - access gap
+    - digital access
+    - digital divide
+    - digital inequality
+    - technology gap
+  discipline-specific-aied:
+    title: AIEd in the Disciplines
+    aliases:
+    - AI in the disciplines
+    - disciplinary education
+    - discipline-specific
+    - discipline-specific AIEd
+    - domain-specific
+    - domain-specific AIED
+    - subject-specific
+    - subject-specific AIED
+  distributed-cognition:
+    title: Distributed Cognition
+    aliases:
+    - distributed cognition
+    - distributed intelligence
+    - extended cognition
+  early-childhood-elementary-ai-education:
+    title: Early Childhood Education
+    aliases:
+    - AI toys
+    - child development
+    - early childhood
+    - elementary education
+    - kindergarten
+    - primary education
+    - young children
+  edtech-platform:
+    title: Edtech Platform
+    aliases:
+    - edtech
+    - edtech platform
+    - educational platform
+    - learning management system
+    - learning platform
+    - lms
+    - platform
+  educational-development:
+    title: Educational Development
+    aliases:
+    - educator development
+    - faculty development
+    - professional development
+    - staff development
+    - teacher development
+  educational-measurement:
+    title: Educational Measurement
+    aliases:
+    - assessment theory
+    - educational measurement
+    - educational testing
+    - measurement
+    - measurement practice
+    - measurement theory
+    - psychometric modeling
+    - psychometrics
+    - test theory
+  educational-nlp:
+    title: Educational NLP
+    aliases:
+    - educational NLP
+    - language technologies in education
+    - natural language processing
+    - natural language processing in education
+    - nlp
+    - NLP in education
+    - text analysis
+  educational-policy-ai:
+    title: Educational AI Policy
+    aliases:
+    - AI in education policy
+    - ai policies
+    - ai policy
+    - education policy
+    - educational AI policy
+    - educational policy
+    - genai policy
+    - institutional policy
+    - policy
+    - policy for AI
+  educational-robotics:
+    title: Robots in Education
+    aliases:
+    - educational robotics
+    - human-robot
+    - robot
+    - robotics
+    - robotics in education
+    - robots
+    - robots in education
+    - teaching robots
+  embodied-learning:
+    title: Embodied Learning
+    aliases:
+    - body-based learning
+    - embodied
+    - embodied cognition
+    - embodied learning
+    - embodiment
+    - gesture-based learning
+  engineering-education:
+    title: Engineering Education
+    aliases:
+    - biomedical engineering
+    - engineering
+    - engineering education
+  english-education:
+    title: English Education (EAP / EFL / ESL)
+    aliases:
+    - english as a foreign language
+    - english education
+  eportfolio:
+    title: E-Portfolio
+    aliases:
+    - e-portfolio
+    - eportfolio
+    - portfolio
+    - portfolio assessment
+    - portfolios
+  equity-in-ai-education:
+    title: Equity
+    aliases:
+    - AI equity
+    - educational equity
+    - equitable
+    - equity
+    - equity concerns
+  ethics:
+    title: Ethics
+    aliases:
+    - AI ethics
+    - AI ethics education
+    - ethical
+    - ethical AI
+    - ethical considerations
+    - ethics
+    - ethics of AI
+    - responsible AI
+  evaluative-judgement:
+    title: Evaluative Judgement
+    aliases:
+    - appraising quality
+    - calibrating judgement
+    - evaluative judgement
+    - evaluative judgements
+    - evaluative judgment
+    - evaluative judgments
+  experiential-learning:
+    title: Experiential Learning
+    aliases:
+    - experiential learning
+    - hands-on learning
+    - learning by doing
+  explainable-ai:
+    title: Explainable AI
+    aliases:
+    - black-box model
+    - counterfactual explanation
+    - explainability
+    - explainable ai
+    - explainable artificial intelligence
+    - explaining the system
+    - explanation quality
+    - feature importance
+    - glass-box
+    - interpretability
+    - interpretable ai
+    - model explanation
+    - post-hoc explanation
+    - transparency
+    - transparent ai
+    - xai
+  feedback:
+    title: Feedback
+    aliases:
+    - assessment feedback
+    - feedback
+    - feedback cycle
+    - feedback loop
+    - feedback loops
+    - learner feedback
+  feedback-literacy:
+    title: Feedback Literacy
+    aliases:
+    - feedback competency
+    - feedback literacy
+    - feedback skills
+  formative-assessment:
+    title: Formative Assessment
+    aliases:
+    - assessment for learning
+    - formative
+    - formative assessment
+  framing-ai-use-for-students:
+    title: Framing AI Use for Students
+    aliases:
+    - ai use framing
+    - communicating AI policy
+    - convincing students of AI
+    - framing ai
+    - framing AI for students
+    - framing AI use
+    - persuading students about AI
+    - student buy-in
+  game-based-learning:
+    title: Game-Based Learning
+    aliases:
+    - game-based learning
+    - games
+    - games for learning
+    - gamification
+    - gamified
+    - gaming
+    - GBL
+    - serious games
+  generative-ai:
+    title: Generative AI
+    aliases:
+    - ChatGPT
+    - gai
+    - genai
+    - generative ai
+    - generative artificial intelligence
+    - generative model
+  global-south:
+    title: Global South
+    aliases:
+    - developing countries
+    - developing country
+    - global south
+    - low-income countries
+    - low-resource context
+    - majority world
+    - non-Western context
+  governance:
+    title: AI Governance
+    aliases:
+    - AI governance
+    - governance
+    - governance framework
+    - institutional
+  group-work:
+    title: Group Work
+    aliases:
+    - collaborative assessment
+    - group assessment
+    - group assessments
+    - group project
+    - group projects
+    - group work
+    - group-based assessment
+    - groupwork
+    - team-based assessment
+  guardrails:
+    title: Guardrails
+    aliases:
+    - AI guardrails
+    - content guardrails
+    - guardrailed tutor
+    - guardrails
+    - hint-not-answer
+    - pedagogical guardrails
+    - safety guardrails
+  hallucination-risk:
+    title: Hallucination Risk
+    aliases:
+    - AI hallucination
+    - hallucination
+    - hallucination risk
+    - hallucinations
+    - LLM hallucination
+  help-seeking:
+    title: Help-Seeking
+    aliases:
+    - help avoidance
+    - help seeking
+    - help seeking behavior
+    - help-seeking
+    - hint seeking
+  higher-ed:
+    title: Higher Education
+    aliases:
+    - college
+    - college students
+    - higher education
+    - higher-ed
+    - post-secondary
+    - postsecondary
+    - tertiary
+    - undergraduate
+    - undergraduates
+    - universities
+    - university
+  history-of-aied:
+    title: History of AI in Education
+    aliases:
+    - decade
+    - history of ai in education
+    - history of aied
+  human-ai-collaboration:
+    title: Human AI Collaboration
+    aliases:
+    - co-pilot
+    - human collaboration
+    - human-ai collaboration
+    - human-ai interaction
+    - human-AI teaming
+    - human-computer interaction
+    - human-machine collaboration
+    - hybrid intelligence
+  human-in-the-loop-ai:
+    title: Human-in-the-Loop
+    aliases:
+    - HITL
+    - human in the loop
+    - human judgment
+    - human moderation
+    - human oversight
+    - human review
+    - human-in-the-loop
+    - human-in-the-loop AI
+  humanities-education:
+    title: Humanities and Social Science Education
+    aliases:
+    - HSS education
+    - humanities
+    - humanities and social science education
+    - humanities education
+    - liberal arts education
+  icap-framework:
+    title: ICAP Framework
+    aliases:
+    - icap
+    - ICAP framework
+    - interactive-constructive-active-passive
+  inclusive-learning:
+    title: Inclusive Learning
+    aliases:
+    - inclusion
+    - inclusive
+    - inclusive learning
+  inquiry-based-learning:
+    title: Inquiry-Based Learning
+    aliases:
+    - inquiry based learning
+    - inquiry learning
+    - inquiry-based learning
+  intelligent-tutoring:
+    title: Intelligent Tutoring
+    aliases:
+    - adaptive tutor
+    - ai tutor
+    - AI tutoring
+    - ai tutors
+    - intelligent tutoring
+    - intelligent tutoring system
+    - intelligent tutoring systems
+    - ITS
+    - tutoring system
+    - tutors
+  item-response-theory:
+    title: Item Response Theory
+    aliases:
+    - classical test theory
+    - ctt
+    - irt
+    - item difficulty
+    - item response theory
+  k-12:
+    title: K-12
+    aliases:
+    - eighth grade
+    - elementary
+    - high school
+    - junior high
+    - k-12
+    - K-12 education
+    - middle school
+    - primary school
+    - school
+    - secondary
+    - secondary education
+    - secondary school
+  knowledge-graph:
+    title: Knowledge Graph
+    aliases:
+    - graph-based knowledge
+    - knowledge graph
+    - knowledge graph construction
+  knowledge-tracing:
+    title: Knowledge Tracing
+    aliases:
+    - bayesian knowledge tracing
+    - knowledge modeling
+    - knowledge tracing
+    - student knowledge modeling
+  language-learning:
+    title: Language Learning
+    aliases:
+    - efl
+    - english
+    - esl
+    - foreign language
+    - foreign language learning
+    - language acquisition
+    - language education
+    - language learning
+    - second language
+    - second language acquisition
+    - SLA
+    - tefl
+  learner-identity:
+    title: Learner Identity
+    aliases:
+    - identity development
+    - identity work
+    - learner identity
+    - professional identity
+    - student identity
+  learning-analytics:
+    title: Learning Analytics
+    aliases:
+    - analytics
+    - educational data mining
+    - learning analytics
+  learning-by-teaching:
+    title: Learning by Teaching
+    aliases:
+    - learning by teaching
+    - peer teaching
+    - teach-back
+    - teachable agents
+  learning-design:
+    title: Learning Design
+    aliases:
+    - course design
+    - course design decisions
+    - instructional design
+    - instructional development
+    - learning design
+  learning-gains:
+    title: Learning Gains
+    aliases:
+    - academic achievement
+    - academic performance
+    - achievement
+    - achievement gap
+    - achievement gaps
+    - learning achievement
+    - learning effectiveness
+    - learning gains
+    - learning outcomes
+    - prior achievement
+    - student achievement
+  learning-theories:
+    title: Learning Theories
+    aliases:
+    - learning science
+    - learning theories
+    - learning theory
+    - theories of learning
+  lifelong-learning:
+    title: Lifelong Learning
+    aliases:
+    - continuous learning
+    - life-long learning
+    - lifelong learning
+    - lifelong learning and AI
+    - upskilling
+  limitations-in-aied-research:
+    title: Limitations in AIEd Research
+    aliases:
+    - AIED limitations
+    - limitation
+    - limitations
+    - limitations in AIEd research
+    - research limitations
+    - validity of AIEd research
+  llm:
+    title: Large Language Models (LLMs)
+    aliases:
+    - foundation model
+    - GPT
+    - language model
+    - large language model
+    - large language models
+    - LLM
+  machine-learning:
+    title: Machine Learning
+    aliases:
+    - deep learning
+    - machine learning
+    - ML model
+    - neural network
+    - neural networks
+    - predictive modeling
+    - supervised learning
+  mastery-learning:
+    title: Mastery Learning
+    aliases:
+    - mastery learning
+    - mastery-based learning
+    - mastery-based progression
+    - retrieval practice
+    - spaced practice
+  math-education:
+    title: Math Education
+    aliases:
+    - math education
+    - mathematics
+    - mathematics education
+  medical-education:
+    title: Medical and Health Professions Education
+    aliases:
+    - clinical
+    - clinical education
+    - health professions
+    - health professions education
+    - medical and health education
+    - medical education
+    - medical school
+    - medicine
+  meta-analysis-systematic-review:
+    title: Meta-Analysis and Systematic Review
+    aliases:
+    - literature review
+    - meta-analysis
+    - meta-analytic
+    - PRISMA
+    - scoping review
+    - systematic review
+    - systematically review
+  metacognition:
+    title: Metacognition
+    aliases:
+    - meta-cognition
+    - meta-cognitive
+    - metacognition
+    - metacognitive
+    - self-monitoring
+  misconceptions:
+    title: Misconceptions about AI
+    aliases:
+    - AI misconceptions
+    - learner misconceptions
+    - misconception
+    - misconceptions
+    - misconceptions about AI
+    - student misconceptions about AI
+  mixed-methods-research:
+    title: Mixed-Methods Research
+    aliases:
+    - mixed methods
+    - mixed-methods
+  motivation:
+    title: Motivation
+    aliases:
+    - achievement goal
+    - achievement goals
+    - extrinsic motivation
+    - goal orientation
+    - goal orientations
+    - intrinsic motivation
+    - learner motivation
+    - motivation
+    - motivational
+    - student motivation
+  multilingual-learning:
+    title: Multilingual Learning
+    aliases:
+    - bilingual
+    - language diversity
+    - low-resource language
+    - multilingual
+    - multilingual education
+    - multilingual learners
+    - multilingual learning
+    - multilingualism
+  multimodal:
+    title: Multimodal AI
+    aliases:
+    - multi-modal
+    - multimodal
+    - multimodal AI
+    - multimodal learning
+    - multimodal learning analytics
+  network-analysis:
+    title: Network Analysis
+    aliases:
+    - ena
+    - epistemic network
+    - epistemic network analysis
+    - network analysis
+    - sna
+    - social network
+    - social network analysis
+    - tna
+    - transition network
+    - transition network analysis
+  neurodiversity:
+    title: Neurodiversity
+    aliases:
+    - adhd
+    - autism
+    - neurodivergence
+    - neurodivergent
+    - neurodiversity
+  online-teaching-and-learning:
+    title: Online Teaching and Learning
+    aliases:
+    - distance education
+    - distance learning
+    - e learning
+    - e-learning
+    - MOOC
+    - online courses
+    - online education
+    - online learning
+    - online teaching
+    - remote learning
+    - virtual learning
+  open-source:
+    title: Open Source
+    aliases:
+    - oer
+    - oers
+    - open content
+    - open courseware
+    - open education
+    - open educational resources
+    - open models
+    - open pedagogy
+    - open source
+    - open textbook
+    - open textbooks
+    - open weights
+    - open-source
+    - OSS
+  pedagogical-agent:
+    title: Pedagogical Agent
+    aliases:
+    - animated pedagogical agent
+    - learning agent
+    - learning companion
+    - learning partner
+    - pedagogical agent
+    - tutor agent
+    - virtual agent
+  pedagogical-llm-training:
+    title: Training Pedagogical LLMs for Tutoring
+    aliases:
+    - fine-tuning tutors
+    - llm training
+    - LLM training for tutoring
+    - model training
+    - pedagogical fine-tuning
+    - pedagogical LLM
+    - pedagogical training
+    - training pedagogical LLMs
+  pedagogical-partnerships:
+    title: Pedagogical Partnerships
+    aliases:
+    - co-creation with students
+    - pedagogical partnership
+    - pedagogical partnerships
+    - student partnership
+    - student-staff partnership
+    - students as partners
+  pedagogical-safety:
+    title: Pedagogical Safety
+    aliases:
+    - AI safety in education
+    - pedagogical safety
+    - safe tutoring
+    - safety in tutoring
+  pedagogy:
+    title: Pedagogies and Teaching Strategies
+    aliases:
+    - instructional strategies
+    - pedagogical
+    - pedagogies
+    - pedagogy
+    - teaching methods
+    - teaching practice
+    - teaching practices
+    - teaching strategies
+  peer-review:
+    title: Peer Review
+    aliases:
+    - peer assessment
+    - peer feedback
+    - peer review
+  personalized-learning:
+    title: Personalized Learning
+    aliases:
+    - adaptive learning path
+    - individualized learning
+    - personalisation
+    - personalised learning
+    - personalization
+    - personalized learning
+  philosophy-of-ai-in-education:
+    title: Philosophy of AI in Education
+    aliases:
+    - philosophical
+    - philosophy of ai
+    - philosophy of AI in education
+    - philosophy of education
+  physics-education:
+    title: Physics Education
+    aliases:
+    - physics
+    - physics education
+    - physics teaching
+  prior-knowledge:
+    title: Prior Knowledge
+    aliases:
+    - activate prior knowledge
+    - activation of prior knowledge
+    - prior knowledge
+    - prior knowledge activation
+    - prior knowledge state
+    - prior-knowledge
+  privacy:
+    title: Privacy
+    aliases:
+    - data privacy
+    - data protection
+    - privacy
+    - student privacy
+  problem-based-learning:
+    title: Problem-Based Learning
+    aliases:
+    - pbl
+    - problem based learning
+    - problem-based learning
+  problem-solving:
+    title: Problem Solving
+    aliases:
+    - collaborative problem solving
+    - computational problem solving
+    - creative problem solving
+    - problem solving
+    - problem-solving
+  productive-failure:
+    title: Productive Failure
+    aliases:
+    - productive failure
+    - productive persistence
+  professional-training:
+    title: Workplace Learning
+    aliases:
+    - professional education
+    - professional training
+    - reskilling
+    - vocational training
+    - workforce development
+  project-based-learning:
+    title: Project-Based Learning
+    aliases:
+    - project based learning
+    - project-based
+    - project-based learning
+  prompt-engineering:
+    title: Prompt Engineering
+    aliases:
+    - prompt design
+    - prompt engineering
+    - prompt literacy
+    - prompting
+    - prompting strategies
+    - prompting strategy
+  psychometrically-aware-ai:
+    title: Psychometrically Aware AI
+    aliases:
+    - psychometric AI
+    - psychometric awareness
+    - psychometrically aligned AI
+    - psychometrically aware
+    - psychometrically aware AI
+  qualitative-research:
+    title: Qualitative Research
+    aliases:
+    - qualitative
+    - qualitative research
+  quantitative-research:
+    title: Quantitative Research
+    aliases:
+    - quantitative
+    - quantitative research
+  rag:
+    title: RAG (Retrieval-Augmented Generation)
+    aliases:
+    - rag
+    - retrieval augmentation
+    - retrieval augmented
+    - retrieval-augmented
+    - retrieval-augmented generation
+  rct:
+    title: RCT
+    aliases:
+    - controlled trial
+    - randomised controlled trial
+    - randomized controlled experiment
+    - randomized controlled trial
+    - randomized trial
+    - rct
+    - rcts
+  reducing-ai-misuse:
+    title: Reducing AI Misuse
+    aliases:
+    - ai misuse prevention
+    - AI misuse reduction
+    - mitigating AI misuse
+    - preventing AI misuse
+    - reduce ai misuse
+    - reducing ai misuse
+  refutation-text:
+    title: Refutation Text
+    aliases:
+    - refutation text
+    - refutation texts
+    - refutational text
+  regulation:
+    title: AI Regulation in Education
+    aliases:
+    - AI regulation
+    - regulation
+    - regulatory
+    - regulatory framework
+  reinforcement-learning:
+    title: Reinforcement Learning
+    aliases:
+    - reinforcement learning
+    - reward model
+    - RLHF
+  remote-proctoring:
+    title: Remote Proctoring
+    aliases:
+    - AI proctoring
+    - automated proctoring
+    - e-proctoring
+    - exam proctoring
+    - online invigilation
+    - online proctoring
+    - remote proctoring
+  research-methods-aied:
+    title: Research Methods in AIED
+    aliases:
+    - AIED methodology
+    - AIED research methods
+    - methodological
+    - research
+    - research design
+    - research methods
+    - research methods in AIED
+    - researcher
+    - researchers
+    - study design
+  samr-model:
+    title: SAMR Model
+    aliases:
+    - SAMR
+    - SAMR framework
+    - SAMR model
+    - Substitution Augmentation Modification Redefinition
+  scaffolding:
+    title: Scaffolding
+    aliases:
+    - adaptive scaffolding
+    - fading
+    - instructional scaffolding
+    - scaffold
+    - scaffolding
+    - scaffolds
+  science-education:
+    title: Science Education
+    aliases:
+    - science classrooms
+    - science education
+    - science inquiry
+    - science learning
+    - science teaching
+  self-determination-theory:
+    title: Self-Determination Theory
+    aliases:
+    - autonomy competence relatedness
+    - SDT
+    - self determination
+    - self-determination theory
+  self-directed-learning:
+    title: Self-Directed Learning
+    aliases:
+    - SDL
+    - self directed learning
+    - self-directed
+    - self-directed learning
+  self-efficacy:
+    title: Self-Efficacy
+    aliases:
+    - academic self-efficacy
+    - self confidence
+    - self efficacy
+    - self-confidence
+    - self-efficacy
+  self-regulated-learning:
+    title: Self-Regulated Learning
+    aliases:
+    - self regulated
+    - self regulated learning
+    - self-regulated learning
+    - self-regulation
+    - SRL
+    - strategic regulation
+  self-report-measures:
+    title: Self-Report Measures
+    aliases:
+    - perceived learning
+    - questionnaire
+    - questionnaires
+    - self-report
+    - self-report bias
+    - self-report data
+    - self-report measures
+    - self-reported
+    - survey instrument
+  simulating-students:
+    title: Simulating Students
+    aliases:
+    - AI students
+    - simulate learners
+    - simulated learners
+    - simulated students
+    - simulating students
+    - student simulation
+    - synthetic students
+  simulation:
+    title: Simulation
+    aliases:
+    - augmented reality
+    - immersive
+    - simulation
+    - simulation-based learning
+    - simulations
+    - simulator
+    - virtual environment
+    - virtual lab
+    - virtual laboratory
+    - virtual patient
+    - virtual reality
+  situated-learning:
+    title: Situated Learning
+    aliases:
+    - authentic context learning
+    - situated
+    - situated cognition
+    - situated learning
+  social-emotional-learning:
+    title: Social-Emotional Learning
+    aliases:
+    - emotional learning
+    - sel
+    - social emotional
+    - social emotional learning
+    - social-emotional learning
+  sociocultural-learning:
+    title: Sociocultural Learning
+    aliases:
+    - apprenticeship
+    - community of practice
+    - cultural-historical activity theory
+    - mediated learning
+    - mediation
+    - more knowledgeable other
+    - socio-cultural
+    - sociocultural
+    - sociocultural learning
+    - sociocultural theory
+    - Vygotsky
+    - zone of proximal development
+    - zpd
+  socratic-method:
+    title: Socratic Method
+    aliases:
+    - socratic
+    - socratic dialogue
+    - socratic method
+    - socratic questioning
+    - Socratic tutoring
+  special-education:
+    title: Special Education
+    aliases:
+    - exceptional learners
+    - special education
+    - special needs
+    - special needs education
+  stakeholders:
+    title: Stakeholders
+    aliases:
+    - instructional designers
+    - policymakers
+    - stakeholder
+    - stakeholders
+  stem-education:
+    title: STEM Education
+    aliases:
+    - stem
+    - stem education
+  storytelling-in-education:
+    title: Storytelling in Education
+    aliases:
+    - digital storytelling
+    - narrative learning
+    - story-based learning
+    - storytelling
+    - storytelling in education
+  student-ai-interaction:
+    title: Student-AI Interaction
+    aliases:
+    - ai interaction
+    - interactions with AI
+    - learner-AI interaction
+    - student ai interaction
+    - student AI use
+    - student prompting
+    - student questions to AI
+    - student-AI dialogue
+    - student-ai interaction
+  student-engagement:
+    title: Student Engagement
+    aliases:
+    - behavioral engagement
+    - engagement
+    - engagement indicators
+    - engagement measurement
+    - engagement metrics
+    - learner engagement
+    - student engagement
+  student-experience:
+    title: Student Experience
+    aliases:
+    - learner experience
+    - student accountability
+    - student experience
+    - student experiences
+    - student voice
+  student-modeling:
+    title: Learner Modeling and Adaptive Instruction
+    aliases:
+    - learner model
+    - learner modeling
+    - learner modeling and adaptive instruction
+    - student model
+    - student modeling
+  summative-assessment:
+    title: Summative Assessment
+    aliases:
+    - closed-book exam
+    - examination
+    - final exam
+    - high-stakes test
+    - oral exam
+    - proctored exam
+    - summative
+    - summative assessment
+  sustainability:
+    title: Sustainability
+    aliases:
+    - education for sustainable development
+    - green skills
+    - SDGs
+    - sustainability
+    - sustainable development
+    - sustainable development goals
+  teacher-ai-competency:
+    title: Teacher AI Competency
+    aliases:
+    - teacher ai competence
+    - teacher ai competency
+    - teacher AI readiness
+    - teacher digital competence
+  teacher-education:
+    title: Professional Development
+    aliases:
+    - initial teacher
+    - preservice
+    - preservice teacher education
+    - preservice teachers
+    - teacher education
+    - teacher training
+  teacher-role:
+    title: Teaching
+    aliases:
+    - educator role
+    - educators
+    - faculty
+    - instructor
+    - instructors
+    - role of educators
+    - teacher
+    - teacher agency
+    - teacher role
+    - teachers
+    - teaching role
+  technology-acceptance-model:
+    title: Technology Adoption Models
+    aliases:
+    - adoption model
+    - diffusion of innovation
+    - perceived ease of use
+    - perceived usefulness
+    - TAM
+    - technology acceptance
+    - technology acceptance model
+    - technology adoption
+    - technology adoption model
+    - technology organisation environment
+    - theory of planned behavior
+    - utaut
+  theory-development-aied:
+    title: Theory Development in AI in Education
+    aliases:
+    - theory building
+    - theory development
+  tpack:
+    title: Technological Pedagogical Content Knowledge (TPACK)
+    aliases:
+    - technological pedagogical content knowledge
+    - tpack
+  transfer-of-learning:
+    title: Transfer of Learning
+    aliases:
+    - far transfer
+    - knowledge transfer
+    - learning transfer
+    - transfer
+    - transfer of learning
+  trust:
+    title: Trust
+    aliases:
+    - trust
+    - trust in AI
+    - trustworthiness
+  trust-calibration:
+    title: Trust Calibration
+    aliases:
+    - appropriate trust
+    - calibrated trust
+    - over-trust
+    - overtrust
+    - trust calibration
+  universal-design-for-learning:
+    title: Universal Design for Learning
+    aliases:
+    - udl
+    - universal design
+    - universal design for learning
+  usability-research:
+    title: Usability Research
+    aliases:
+    - usability
+    - user experience
+  vibe-coding:
+    title: Vibe Coding
+    aliases:
+    - building software by prompting
+    - end user development
+    - end-user development
+    - natural language programming
+    - natural-language programming
+    - prompt-driven programming
+    - vibe coding
+    - vibe-coding
+  video-education:
+    title: Video in Education
+    aliases:
+    - ai video
+    - ai-generated instructional video
+    - ai-generated instructional videos
+    - ai-generated video
+    - ai-generated videos
+    - educational media
+    - educational video
+    - educational videos
+    - generated instructional videos
+    - instructional video
+    - instructional video generation
+    - instructional videos
+    - lecture video
+    - lecture videos
+    - video content
+    - video generation
+    - video learning
+    - video lectures
+    - video lesson
+    - video lessons
+    - video-based
+    - video-based instruction
+    - video-based learning
+  visualization:
+    title: Visualization
+    aliases:
+    - dashboards
+    - data visualization
+    - visual analytics
+    - visual representations
+    - visualisation
+    - visualization
+  well-being:
+    title: Well-Being
+    aliases:
+    - mental health
+    - student wellbeing
+    - well being
+    - well-being
+    - wellbeing
+  writing-education:
+    title: Writing
+    aliases:
+    - academic writing
+    - composition
+    - writing
+    - writing education
+    - writing instruction
+    - writing quality
+sections:
+- heading: Foundations of AI in education
+  blurb: The umbrella view of the field itself — what AI in education is, how it evolved, and the cross-cutting
+    themes (AI literacy, human–AI collaboration, agency) that shape every other strand.
+  groups:
+  - label: Essentials
+    items:
+    - ai-education
+    - misconceptions
+    - ai-literacy
+    - agentic-ai
+    - cognitive-offloading
+    - framing-ai-use-for-students
+    - reducing-ai-misuse
+    - academic-integrity
+    - teacher-role
+    - learning-design
+    - educational-development
+  - label: The field
+    items:
+    - history-of-aied
+    - limitations-in-aied-research
+    - philosophy-of-ai-in-education
+    - theory-development-aied
+  - label: Cross-cutting themes
+    items:
+    - human-ai-collaboration
+    - agency
+    - learner-identity
+    - design-thinking
+    - curriculum-design
+    - critical-thinking
+    - sustainability
+    - computational-thinking
+- heading: Learning and instruction
+  blurb: How AI supports teaching and learning — the pedagogies, learning theories, and learner-facing
+    processes AI operates within.
+  groups:
+  - label: Core pedagogies
+    items:
+    - pedagogy
+    - active-learning
+    - collaborative-learning
+    - project-based-learning
+    - problem-based-learning
+    - productive-failure
+    - inquiry-based-learning
+    - experiential-learning
+    - game-based-learning
+    - learning-by-teaching
+    - scaffolding
+    - socratic-method
+    - critical-pedagogy
+    - pedagogical-partnerships
+    - storytelling-in-education
+    - online-teaching-and-learning
+    - video-education
+  - label: Learning theories and processes
+    items:
+    - learning-theories
+    - behaviorism
+    - constructivist
+    - cognitive-psychology
+    - sociocultural-learning
+    - distributed-cognition
+    - situated-learning
+    - embodied-learning
+    - community-of-inquiry
+    - self-regulated-learning
+    - self-determination-theory
+    - motivation
+    - self-efficacy
+    - self-directed-learning
+    - metacognition
+    - desirable-difficulties
+    - transfer-of-learning
+    - prior-knowledge
+    - icap-framework
+    - refutation-text
+    - activity-theory-aied
+  - label: Learner engagement and experience
+    items:
+    - student-engagement
+    - help-seeking
+    - social-emotional-learning
+    - well-being
+    - creativity
+    - student-ai-interaction
+    - problem-solving
+    - mastery-learning
+- heading: AI technologies and techniques
+  blurb: 'The technical layer: the AI models and methods that power education technology, and the learner-modeling
+    and tutoring systems built on them.'
+  groups:
+  - label: Models and techniques
+    items:
+    - ai-technologies
+    - machine-learning
+    - generative-ai
+    - llm
+    - rag
+    - prompt-engineering
+    - vibe-coding
+    - multimodal
+    - visualization
+    - educational-nlp
+    - reinforcement-learning
+    - knowledge-graph
+    - educational-robotics
+    - conversational-ai
+    - simulation
+    - pedagogical-llm-training
+  - label: Learner modeling and adaptive systems
+    items:
+    - student-modeling
+    - knowledge-tracing
+    - cognitive-diagnosis
+    - simulating-students
+    - intelligent-tutoring
+    - adaptive-learning
+    - personalized-learning
+    - pedagogical-agent
+    - affective-tutoring
+    - affective-computing
+    - human-in-the-loop-ai
+    - learning-analytics
+- heading: AI in the disciplines
+  blurb: How AI is applied across academic subjects and educational levels — the field\u2019s subject-area
+    coverage.
+  groups:
+  - label: Subject areas
+    items:
+    - discipline-specific-aied
+    - math-education
+    - physics-education
+    - chemistry-education
+    - biology-education
+    - cs-education
+    - engineering-education
+    - stem-education
+    - science-education
+    - writing-education
+    - language-learning
+    - english-education
+    - business-education
+    - humanities-education
+    - medical-education
+  - label: Levels and contexts
+    items:
+    - k-12
+    - early-childhood-elementary-ai-education
+    - higher-ed
+    - adult-learning
+    - special-education
+    - teacher-education
+- heading: Assessment, evaluation, and measurement
+  blurb: How AI both assesses learners and reshapes how we evaluate AI systems and their impact.
+  groups:
+  - label: Assessment and feedback
+    items:
+    - assessment
+    - evaluative-judgement
+    - feedback
+    - feedback-literacy
+    - ai-feedback-quality
+    - formative-assessment
+    - summative-assessment
+    - authentic-assessment
+    - group-work
+    - eportfolio
+    - peer-review
+    - automated-assessment
+    - automated-essay-scoring
+    - automated-question-generation
+  - label: Measurement and validity
+    items:
+    - assessment-validity
+    - psychometrically-aware-ai
+    - educational-measurement
+    - item-response-theory
+    - self-report-measures
+    - ai-detection
+    - remote-proctoring
+  - label: Evaluation of AI systems
+    items:
+    - ai-ed-evaluation
+    - benchmark
+    - research-methods-aied
+    - qualitative-research
+    - quantitative-research
+    - mixed-methods-research
+    - design-based-research
+    - usability-research
+    - rct
+    - learning-gains
+    - meta-analysis-systematic-review
+    - network-analysis
+- heading: 'People: learners, teachers, and institutions'
+  blurb: AI changes the role of every stakeholder in education — learners, teachers, and the institutions
+    that support them.
+  groups:
+  - label: Learners
+    items:
+    - stakeholders
+    - student-experience
+    - career-development-and-readiness
+    - ai-anxiety-and-stress
+  - label: Instructors
+    items:
+    - teacher-ai-competency
+    - tpack
+    - samr-model
+    - pedagogical-safety
+  - label: Institutions and systems
+    items:
+    - administrator
+    - educational-policy-ai
+    - governance
+    - change-management
+    - technology-acceptance-model
+    - regulation
+    - open-source
+    - edtech-platform
+    - lifelong-learning
+    - professional-training
+- heading: Equity, ethics, and responsible use
+  blurb: Fairness, access, and responsibility are central to AI in education.
+  groups:
+  - label: Equity and access
+    items:
+    - equity-in-ai-education
+    - digital-divide
+    - bias-mitigation
+    - culturally-relevant-pedagogy
+    - multilingual-learning
+    - inclusive-learning
+    - accessibility
+    - assistive-technology
+    - neurodiversity
+    - universal-design-for-learning
+    - global-south
+  - label: Ethics and responsibility
+    items:
+    - ethics
+    - ai-misuse-learning-harm
+    - ai-use-disclosure
+    - guardrails
+    - privacy
+    - hallucination-risk
+    - ai-sycophancy
+    - trust
+    - trust-calibration
+    - explainable-ai
+redirects:
+  accessible-learning: inclusive-learning
+  ai-tutoring: intelligent-tutoring
+  automated-grading: automated-assessment
+  blended-learning: online-teaching-and-learning
+  block-programming: cs-education
+  cognitive-load-theory: cognitive-offloading
+  confidence-aware-ai-assessment: automated-assessment
+  dual-process-theory: critical-thinking
+  engagement-metrics: student-engagement
+  faculty-development: educational-development
+  feedback-loop: feedback
+  gamification: game-based-learning
+  human-robot-interaction: educational-robotics
+  instructional-design: learning-design
+  mooc: online-teaching-and-learning
+  over-reliance: cognitive-offloading
+  plagiarism-detection: ai-detection
+  programming-education: cs-education
+  social-robots: educational-robotics
+  student-misconceptions-ai: misconceptions
+  zone-of-proximal-development: sociocultural-learning
+never_link:
+- cognitive-load-theory
+- dual-process-theory
