@@ -29,12 +29,31 @@ except ImportError:
 
 WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 CONFIG_PATH = os.path.join(WIKI, 'wiki.config.yaml')
+# Per-machine overrides (host/port and similar). Gitignored: a clone that has one
+# is configured for that machine, a clone that has none still works.
+LOCAL_PATH = os.path.join(WIKI, 'wiki.config.local.yaml')
+
+
+def _deep_merge(base, override):
+    for key, value in override.items():
+        if isinstance(value, dict) and isinstance(base.get(key), dict):
+            _deep_merge(base[key], value)
+        else:
+            base[key] = value
+    return base
 
 
 def load_config(path=CONFIG_PATH):
-    """Load wiki.config.yaml, adding the resolved repo root under paths.root."""
+    """Load wiki.config.yaml (+ wiki.config.local.yaml if present).
+
+    Adds the resolved repo root under paths.root.
+    """
     with open(path, encoding='utf-8') as fh:
         cfg = yaml.safe_load(fh) or {}
+    if os.path.exists(LOCAL_PATH):
+        with open(LOCAL_PATH, encoding='utf-8') as fh:
+            cfg = _deep_merge(cfg, yaml.safe_load(fh) or {})
+        cfg['local_override'] = os.path.basename(LOCAL_PATH)
     cfg.setdefault('paths', {})['root'] = WIKI
     return cfg
 
@@ -97,6 +116,17 @@ def validate(cfg):
             errors.append(f"scan source {src.get('name')!r} has no categories")
     if not get(cfg, 'journal_scan.feeds'):
         warnings.append("journal_scan.feeds is empty — the weekly scan would find nothing")
+    mode = get(cfg, 'preview.mode', 'dev')
+    if mode not in ('dev', 'preview'):
+        errors.append(f"preview.mode must be 'dev' or 'preview', not {mode!r}")
+    port = get(cfg, 'preview.port', 4321)
+    if not isinstance(port, int) or not 1 <= port <= 65535:
+        errors.append(f"preview.port must be a port number, not {port!r}")
+    if not get(cfg, 'preview.host'):
+        errors.append("preview.host is not set")
+    if cfg.get('local_override'):
+        warnings.append(f"per-machine overrides applied from {cfg['local_override']} "
+                        f"(host={get(cfg, 'preview.host')}, port={get(cfg, 'preview.port')})")
     for name in feeds(cfg):
         if not feeds(cfg)[name].get('url'):
             errors.append(f"journal feed {name!r} has no url")
@@ -133,6 +163,9 @@ def main():
           f"{len(get(cfg, 'journal_scan.feeds', []) or [])} feed(s)")
     print(f"gates:       {len(get(cfg, 'build.gates', []) or [])} check(s), "
           f"build: {get(cfg, 'build.site')}")
+    print(f"preview:     {get(cfg, 'preview.mode')} on "
+          f"{get(cfg, 'preview.host')}:{get(cfg, 'preview.port')}"
+          + (f"  (from {cfg['local_override']})" if cfg.get('local_override') else ""))
 
 
 if __name__ == '__main__':

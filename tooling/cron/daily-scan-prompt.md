@@ -87,7 +87,17 @@ For each new relevant paper:
    npm run build        # builds dist/ with pagefind search + sitemap
    git add -A
    git commit -m "scan: [TODAY] — N new papers on [TOPIC SUMMARY]"
+   python3 tooling/scripts/refresh-preview.py   # restart the live preview if stale
    ```
+   **Refresh the live preview, or the new pages will 404 for the reader.** The
+   preview is a long-running `astro dev` process started before this scan; it
+   does not notice content written by it, so its content cache goes stale and
+   the new article pages return 404 until it restarts. `refresh-preview.py`
+   compares the newest content mtime with the server's sync time, restarts only
+   when it is stale, and waits for HTTP 200. Host, port and mode come from
+   `wiki.config.yaml` → `preview:` (per-machine values live in the gitignored
+   `wiki.config.local.yaml`). If it reports a failure, say so in the report —
+   do not silently leave the preview broken.
    **Do NOT rebuild `public/aied.epub` / `public/aied.pdf` here.** They are local
    committed artefacts, rebuilt only on explicit request (they are slow and are
    not produced by CI). Pushing is a separate, explicitly approved step — never
@@ -105,4 +115,4 @@ After completion, send a summary with:
 - Source status (API results per source)
 - Papers ingested (title + article page slug for each)
 - Concepts created/updated
-- Build/push status
+- Build/commit status, and whether the preview was refreshed

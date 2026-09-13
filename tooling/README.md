@@ -221,14 +221,41 @@ Two files at the repo root drive everything — edit these, not the code:
 Check them with:
 
 ```bash
-python3 tooling/scripts/wiki_config.py --check     # paths, gates, sources, agent block
+python3 tooling/scripts/wiki_config.py --check     # paths, gates, sources, preview, agent block
 python3 tooling/scripts/check_concepts.py          # registry vs concepts/ vs generated views
+```
+
+Machine-specific settings (the preview's host and port, for example) go in
+`wiki.config.local.yaml`, which is gitignored and merged over `wiki.config.yaml` —
+so a clone stays portable and each machine keeps its own addresses:
+
+```yaml
+# wiki.config.local.yaml
+preview:
+  host: 192.168.1.50      # e.g. a LAN or Tailscale address to preview from a phone
 ```
 
 Nothing else should hardcode a site name, base path, journal, or agent path. When
 you point the tooling at a different knowledge base, these two files plus
 `site.config.json` are the whole customisation surface. `tooling/scripts/sync-skills.py`
 keeps the repo's `skills/` mirrors in step with the agent's installed copies.
+
+### Keeping the live preview in step
+
+If you keep an `astro dev` preview running, it will not notice content written by a
+scheduled scan — its content cache goes stale and the new pages 404 until it
+restarts. `tooling/scripts/refresh-preview.py` compares the newest content timestamp
+with the server's sync time, restarts the server only when it is stale, and waits
+for HTTP 200:
+
+```bash
+python3 tooling/scripts/refresh-preview.py --check   # status only (exit 1 if stale)
+python3 tooling/scripts/refresh-preview.py           # restart if stale
+python3 tooling/scripts/refresh-preview.py --quiet   # silent unless it acts (watchdog)
+```
+
+The scan prompts call it as their last step, and it also works well as a
+script-only cron watchdog (no LLM, silent while the preview is fresh).
 
 ## Dependencies
 

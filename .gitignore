@@ -13,6 +13,9 @@ raw/
 # Wiki log (local-only, not committed)
 log.md
 
+# Per-machine config overrides (host/port etc.) - never committed
+wiki.config.local.yaml
+
 # Obsidian
 .obsidian/
 
