@@ -100,7 +100,19 @@ git commit -m "Weekly journal RSS ingestion: X new articles"
 ```
 **Do NOT rebuild `public/aied.epub` / `public/aied.pdf` here** — they are local committed artefacts, rebuilt only on explicit request (they are slow and CI does not build them). **Do NOT push**: a push needs explicit per-occurrence approval from the maintainer; commit locally and say the commit is ready to push.
 
-### 6. Report
+### 6. Refresh the live preview
+```
+cd [YOUR_WIKI_PATH] && python3 tooling/scripts/refresh-preview.py
+```
+The preview is a long-running `astro dev` process that started before this scan, so
+it does not notice content written by the scan: its content cache goes stale and the
+new article pages return 404 until it restarts. The script compares the newest
+content mtime with the server's sync time, restarts only if stale, and waits for
+HTTP 200. Host/port/mode come from `wiki.config.yaml` → `preview:` (per-machine
+values in the gitignored `wiki.config.local.yaml`). Report a failure rather than
+leaving the preview broken.
+
+### 7. Report
 Count articles checked, already existing, paywalled/skipped, and new articles ingested (with titles). List paywalled articles separately.
 
 **CRITICAL — report any article whose full text could not be retrieved.** For each one, include: the article title, the wiki article slug/URL, the DOI, and the publisher page link, formatted so the maintainer can click through and download the PDF:

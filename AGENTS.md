@@ -150,3 +150,11 @@ Two scheduled jobs, both driven by the settings in `wiki.config.yaml`:
 
 Neither job pushes: a push requires explicit per-occurrence approval. Offline
 EPUB/PDF artefacts are rebuilt only on explicit request, never by a scan.
+
+Both jobs finish by running `python3 tooling/scripts/refresh-preview.py`: the
+preview is a long-running server started before the scan, so it never notices the
+content the scan wrote and serves stale (or 404) pages until it restarts. The
+script restarts it only when the content is newer than what the server has synced,
+and it reports failure instead of leaving the preview broken. Host, port and mode
+come from `wiki.config.yaml` → `preview:`; per-machine values belong in the
+gitignored `wiki.config.local.yaml`.
