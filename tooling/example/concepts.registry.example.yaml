@@ -1,0 +1,32 @@
+# Concept registry - THE single source of truth for a knowledge base's concept
+# vocabulary. Copy this file to your repo root as `concepts.registry.yaml` and
+# replace the entries with your own concepts.
+#
+#   concepts   slug -> title + synonym phrases used by the inline-link pass
+#   sections   sidebar structure (also drives EPUB/PDF chapter grouping)
+#   redirects  old slug -> canonical slug (merged/renamed concepts)
+#   never_link slugs with no page that must stay plain text, never a wikilink
+#
+# Every entry here needs a matching concepts/<slug>.md page. Validate with:
+#   python3 tooling/scripts/check_concepts.py
+# Regenerate the views after editing:
+#   python3 tooling/scripts/gen-concept-artifacts.py
+version: 1
+concepts:
+  example-concept:
+    title: Example Concept
+    aliases:
+      - example concept
+      - example topic
+      - example idea
+sections:
+  - heading: Example section
+    blurb: One line shown above this group in the sidebar.
+    groups:
+      - label: Example group
+        items:
+          - example-concept
+redirects:
+  example-old-slug: example-concept
+never_link:
+  - example-retired-topic

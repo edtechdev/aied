@@ -13,6 +13,33 @@ metadata:
 
 # Wiki Inline-Link Pass
 
+> **Pitfall — never run `inline_link_scan.py --apply` against a wiki root that is a
+> symlink farm.** The scanner writes to `<wiki>/<collection>/<slug>.md`; if
+> `<wiki>/concepts` is a symlink to the real content directory, `--apply` rewrites
+> the real pages (that is how a "dry run" in a temp dir once modified 176 concept
+> files, caught only by `git status`). For a safe trial, COPY the pages into a scratch dir, or just run report mode (no
+> `--apply`) and review the suggestions.
+> After any `--apply`, always diff: `git status --short concepts/ articles/`.
+
+
+> **Concept vocabulary: one source (2026-09-13).** Every concept slug, title and
+> synonym phrase now lives in **`concepts.registry.yaml`** at the repo root, together
+> with the sidebar `sections`, the `redirects` merge map and the `never_link` list.
+> `tooling/concept-index.md`, `src/data/conceptIndex.ts` and
+> `src/data/conceptRedirects.ts` are **generated** from it — never hand-edit them.
+> The inline-link scanner reads the registry directly (its embedded alias table is
+> a standalone fallback only), so **new phrases go in the registry, not in a
+> script.** Commands: `python3 tooling/scripts/gen-concept-artifacts.py`
+> (regenerate), `python3 tooling/scripts/check_concepts.py` (validate: missing
+> pages, title drift, alias claimed twice, stale views), `python3
+> tooling/scripts/run-gates.py` (all HARD GATES). Pipeline settings (paths, scan
+> sources, journal feeds, agent tool mapping) live in **`wiki.config.yaml`** —
+> load it via `tooling/scripts/wiki_config.py` rather than hardcoding a path,
+> journal or tool name. Historical notes below that reference
+> `tooling/concept-index.md` as hand-maintained, or `config.example.yaml` /
+> `arxiv-scan-config.yaml` (both deleted), are superseded by this.
+
+
 Adds and fixes inline `[[wikilinks]]` in the **body narratives** of wiki article and concept pages. Load this skill **after every article/concept page is created or enriched** — whether ingested manually or by a cron job — and **BEFORE any build/commit/push/deploy**. It is a **HARD GATE**: the wiki maintainer expects aggressive linking (not just obvious concept names, but **conceptually-similar terms and phrases** that map to existing concept pages), and a green `npm run build` does NOT substitute for running this pass.
 
 > Pair with `research-wiki` (Phase 1 ingestion + Phase 2 Astro export). This skill is the editorial linking pass that runs on top of every newly created/enriched page.

@@ -4,6 +4,9 @@ Copy this prompt when creating the weekly journal RSS ingestion cron job.
 Replace `[YOUR_WIKI_PATH]` with the absolute path to your wiki repo.
 Replace `[YOUR_DOMAIN]` with your wiki's research domain.
 
+**The journal list lives in `wiki.config.yaml` → `journal_scan.feeds`**, not in
+this prompt and not in the fetcher script.
+
 ---
 
 You are ingesting new open-access [YOUR_DOMAIN] journal articles from RSS feeds into the wiki at [YOUR_WIKI_PATH].
@@ -15,7 +18,10 @@ Run the fetcher script:
 ```
 cd [YOUR_WIKI_PATH] && python3 tooling/scripts/fetch-rss-feeds.py > /tmp/rss-articles.json 2>/tmp/rss-errors.log
 ```
-This pulls from the journals configured in `tooling/config.example.yaml` (`journal_rss.feeds`). Edit the script's `FEEDS` dict to add/remove journals.
+This pulls from the journals configured in `wiki.config.yaml` → `journal_scan.feeds`
+(the single source of truth). To add or remove a journal, edit that list — each
+feed needs an `id`, `name`, `url`, `parser`, `open_access` and `max_age_days`.
+See the current list with `python3 tooling/scripts/wiki_config.py --get journal_scan.feeds`.
 
 The fetcher filters out corrigenda, retractions, errata, and issue info — only original research articles remain.
 

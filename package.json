@@ -6,6 +6,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro check && astro build && node generate-sw.mjs",
+    "verify": "python3 tooling/scripts/run-gates.py",
     "preview": "astro preview"
   },
   "dependencies": {

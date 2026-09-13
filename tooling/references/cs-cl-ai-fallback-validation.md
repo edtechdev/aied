@@ -5,7 +5,7 @@ Session: Cron daily scan, combined primary sources yielded 1 non-AIED paper acro
 
 ## When This Fallback Fires
 
-Triggered when `cs.CY + cs.HC` combined produce fewer than 5 potentially relevant papers (per config `arxiv-scan-config.yaml`). The fallback searches:
+Triggered when `cs.CY + cs.HC` combined produce fewer than 5 potentially relevant papers (per the `scan.sources` block in `wiki.config.yaml`). The fallback searches:
 
 - `cat:cs.CL` (Computation & Language) — where LLM-pedagogy papers often appear when cross-listed
 - `cat:cs.AI` (Artificial Intelligence) — where education-with-AI papers may land

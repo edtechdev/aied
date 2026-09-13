@@ -14,6 +14,19 @@ cp -r tooling/example/raw/papers/* raw/papers/
 
 Then replace the placeholder dates and content with your own.
 
+Finally create your concept vocabulary — copy the starter registry to the repo
+root and edit it (every entry needs a matching `concepts/<slug>.md` page):
+
+```bash
+cp tooling/example/concepts.registry.example.yaml concepts.registry.yaml
+python3 tooling/scripts/check_concepts.py            # validate
+python3 tooling/scripts/gen-concept-artifacts.py     # regenerate the views
+```
+
+The site's sidebar, the generated `tooling/concept-index.md` and the inline-link
+pass all read that one file, so adding a concept means editing it in a single
+place.
+
 ## Page types
 
 - **`articles/<slug>.md`** — one page per paper: synthesis → Key Findings → Connected Concepts → Connected Articles → Citation

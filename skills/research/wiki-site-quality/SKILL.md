@@ -337,4 +337,4 @@ Canonical concept-page structure to verify against: synthesis blockquote → `##
 7. **No quoted dates**: `grep '## "' journal.md` should return nothing
 8. **No stale tag pages**: `diff <(ls tags/ | sed 's/.html$//' | sort) <(grep -rh '^tags:' concepts/ | grep -oP '\[\K[^\]]+' | tr ',' '\n' | sed "s/^ *'//;s/'$//;s/^ *\"//;s/\"$//" | sort -u)` should show no orphaned tag files
 9. **Tables render**: `grep -l '<table>' pages/*.html | wc -l` -- any page with `|...|` in its source should have `<table>` in its HTML
-10. **No private data**: `grep -rn '/home/' README.md arxiv-scan-config.yaml` should return nothing
+10. **No private data**: `grep -rn '/home/' README.md wiki.config.yaml concepts.registry.yaml` should return nothing

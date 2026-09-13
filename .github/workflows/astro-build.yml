@@ -16,6 +16,14 @@ jobs:
           node-version: 22
           cache: 'npm'
       - run: npm ci
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pyyaml
+      - name: Validate config and concept registry
+        run: |
+          python3 tooling/scripts/wiki_config.py --check
+          python3 tooling/scripts/check_concepts.py
       - run: npm run build
       - name: Verify output
         run: |
