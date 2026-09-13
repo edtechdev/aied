@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-12T19:23:00-04:00"
+updated: "2026-09-13T08:06:42-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 audience: [learners]
@@ -38,6 +38,8 @@ Agency matters because learning is most effective when learners are active, inte
 - **Principled selectivity as teacher agency under technological change:** [[ai-integrated-teaching-identity-tensions|Adiozaman and Segar (2026)]] interviewed two experienced academics three times across a semester and found they navigated AI-mediated teaching neither by adopting nor by resisting wholesale, but through deliberate, context-sensitive decisions guided by pedagogical values, ethical commitment and professional judgement — a pattern the authors call *principled selectivity*, in which refusal of a particular use counts as judgement rather than as failed adoption. It is the teacher-side counterpart to the learner findings above: uneven AI use can be an exercise of agency, not evidence of its absence.
 
 Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|Over-Reliance]], and [[metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[intelligent-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
+
+- **Bounded use as epistemic control, not reluctance.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] reports that higher-achieving students in a 484-response university survey showed lower active AI engagement and lower perceived learning impact while *also* reporting lower AI-related disengagement, and described their own use as verification-intensive: outputs checked, then subordinated to their own reasoning. Read as agency rather than avoidance, the pattern is a deliberate retention of judgement — students keeping authorship of the conclusion while using the tool for clarification and summarisation.
 
 ## Agency as an emergent, interactional phenomenon
 
@@ -97,6 +99,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)

@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-13T08:06:51-04:00"
 type: concept
 tags: [self-determination-theory, motivation, student-experience, affective-computing, teacher-ai-competency, ai-education]
 audience: [learners]
@@ -35,6 +35,8 @@ SDT is increasingly used in AI in education [[research-methods-aied|research]] a
 
 **SDT applied to instructors' own AI-mediated practice.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used SDT as the interpretive lens on how instructors integrate [[learning-analytics|learning analytics]] and generative AI into [[learning-design|learning design]] — finding that supporting instructors' basic needs (autonomy, competence, relatedness) fosters the creative [[problem-solving]] their design work requires. In their ENA analysis, GenAI use was associated with designing for student self-determination (e.g., co-creating assessment rubrics with students), extending SDT from learners to the educators who build need-supportive AI-mediated environments.
 
+**Autonomy support as the frame for children's GenAI use.** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]] relocate the question of responsible use from restriction to need support, arguing that the distinction that matters is whether adults around a child support autonomy rather than control it, and distinguishing dependent from autonomous [[cognitive-offloading]] within SDT terms: dependent offloading transfers [[agency]] and lowers intrinsic motivation, autonomous offloading scaffolds while the learner retains epistemic control. Two features of the review are directly relevant to SDT application: it insists that autonomy support is not permissiveness, and it treats the family-school coordination that current guidance assumes as an untested hypothesis, formalising additive, synergistic and compensatory versions that only a factorial trial contrasting family-only, school-only, coordinated and usual-practice guidance could discriminate.
+
 ## Connections to related concepts
 
 SDT connects directly to [[motivation]] as its parent construct, to [[affective-computing]] and [[affective-tutoring]] for emotion-aware AI design, and to [[student-experience]] for how learners experience AI-mediated environments. The theory's emphasis on autonomy connects to [[self-regulated-learning]], while its competence dimension connects to [[self-efficacy-tutoring-learning]] and [[teacher-ai-competency]]. SDT is particularly relevant to [[professional-training]] and [[educational-development]] because need-supportive design is a transferable principle for preparing educators to use AI.
@@ -54,6 +56,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[ai-education]]
 - [[learning-theories]]
 ## Connected Articles
+- [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
 - [[dual-ai-learning-pathways-sdt-2026]] — High-school pressure/autonomy support and dual AI learning pathways (Shen & Arunrugstichai 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making

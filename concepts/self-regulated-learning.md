@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-11T06:15:00-04:00"
+updated: "2026-09-13T08:06:24-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 audience: [learners]
@@ -75,6 +75,8 @@ AI tools can enter this loop at different points:
 
 **The interaction itself as an object of regulation.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]] document the same regulation demand from the other direction: in an eight-round demonstration using a chatbot to prepare a take-home examination answer, the AI's default output stayed at the *[[quantitative-research|quantitative]]*, multistructural end of the SOLO taxonomy — polished, submission-ready and pedagogically thin — and reached a usable three-step learning loop only after repeated meta-level interventions ("this is overwhelming, can you condense it?"). Their conclusion is that productive use required "the very self-regulatory skills the tool was expected to support": the learner must set incremental goals, request difficulty adjustments, and reflect on what is not yet understood, on top of the disciplinary content itself. They name this capacity [[ai-literacy|AI-interaction literacy]] and treat disengaging from the tool as a legitimate regulatory decision rather than a failure of persistence ([[metacognition]]).
 
+- **Satisfaction is not self-regulation.** [[aigc-affordance-student-self-regulation-2026|Liang et al. (2026)]] surveyed 689 undergraduates in industry-education programmes and tested a serial mediation model in which the perceived affordances of AI-generated content raise AIGC [[self-efficacy]] (beta = 0.583) and, through it, learning [[motivation]] (beta = 0.565) and self-regulated learning (beta = 0.250), with motivation the heaviest single predictor of SRL (beta = 0.527). The load-bearing negative results sit alongside those paths: the quality of AI assessment feedback predicted satisfaction strongly (beta = 0.712) but not self-efficacy (beta = 0.131), and satisfaction had no significant effect on self-regulated learning (beta = 0.032). A well-liked, well-functioning assistant is therefore not evidence that regulation improved — the mechanism runs through confidence and motivation, not through the learner's experience of the tool.
+
 ## Relationship to Tutoring-Specific Designcritical from uncritical AI use.
 
 ### GenAI-aware reflection as SRL
@@ -141,6 +143,7 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[llm]] — the underlying model of AI tools
 
 ## Connected Articles
+- [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI-interaction literacy: steering a chatbot demanded the SRL it was meant to support (Brunnström & Palmqvist 2026)
 - [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)

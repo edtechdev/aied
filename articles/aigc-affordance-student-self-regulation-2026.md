@@ -1,0 +1,52 @@
+---
+title: "AIGC Affordance and Student Self-Regulation: A Serial Mediation Model of Self-Efficacy and Learning Motivation"
+type: article
+tags: [self-regulated-learning, self-efficacy, motivation, generative-ai, higher-ed, feedback]
+sources: ['raw/papers/aigc-affordance-student-self-regulation-2026.md']
+confidence: medium
+research_method: [survey, mixed methods, structural equation modeling]
+discipline: [business education]
+audience: [instructors, researchers, learning designers]
+level: [higher ed]
+category: [framework]
+created: "2026-09-13T08:04:29-04:00"
+updated: "2026-09-13T08:04:29-04:00"
+---
+
+> **Synthesis:** A pragmatic [[mixed-methods-research|mixed-methods]] study of 689 [[higher-ed|undergraduates]] in industry-education integration programmes at a private Chinese university, plus interviews with 8 instructors, tested how the affordances of AI-generated content (AIGC) tools translate into [[self-regulated-learning|self-regulated learning]]. Using partial least squares structural equation modelling, the authors found that perceived AIGC affordance raised AIGC [[self-efficacy]] (beta = 0.583) and self-regulated learning directly (beta = 0.316), and that self-efficacy in turn lifted [[motivation|learning motivation]] (beta = 0.565) and self-[[regulation]] (beta = 0.250). [[ai-feedback-quality|Feedback quality]] strongly predicted satisfaction (beta = 0.712) but did not improve self-efficacy or self-regulation, and satisfaction had no significant effect on self-regulation. The headline claim is that AIGC works as a psychological catalyst rather than a productivity tool: benefits run through confidence and motivation, not through the tool itself.
+
+## Key Findings
+1. Perceived AIGC affordance significantly increased AIGC self-efficacy (beta = 0.583, p < 0.001) and self-regulated learning (beta = 0.316, p < 0.05), supporting the affordance-actualisation premise of the model.
+2. Self-efficacy was the pivotal mediator: it predicted learning motivation (beta = 0.565) and self-regulated learning (beta = 0.250), and it significantly mediated the path from affordance to motivation (indirect effect 0.329) and from affordance to self-regulation (0.145).
+3. Motivation carried the strongest weight on self-regulation (beta = 0.527, p < 0.01), and the serial path affordance to self-efficacy to motivation to self-regulation was significant (0.173).
+4. The quality of AIGC [[feedback|assessment feedback]] predicted satisfaction strongly (beta = 0.712) but not self-efficacy (beta = 0.131, n.s.); satisfaction in turn had no significant effect on self-regulated learning (beta = 0.032, n.s.).
+5. [[qualitative-research|Qualitative]] interviews documented systemic implementation gaps in the industry-education programmes: [[curriculum-design|curriculum]]-industry misalignment, limited project diversity and weak enterprise engagement.
+
+## Why satisfaction is not self-regulation
+The non-significant paths are the analytical core of the paper. Good AI feedback made students happier without making them better self-regulators, and feeling satisfied did not translate into planning, monitoring or adjusting their own learning. The authors read this as a warning against evaluating AIGC integration by [[student-experience|satisfaction]] metrics alone: positive affect is a weak proxy for the cognitive and motivational mechanisms that actually drive [[self-regulated-learning|self-regulation]]. Their proposed design implication is to target activities at building students' confidence with the tool and at making the motivational payoff of using it explicit, rather than assuming that a pleasant, well-functioning assistant will produce [[machine-learning|deep learning]].
+
+Measurement quality was high by conventional standards — factor loadings 0.891 to 0.933, Cronbach's alpha 0.895 to 0.936, composite reliability 0.925 to 0.954, average variance extracted 0.813 to 0.848, SRMR 0.058 for the estimated model, and 10,000 bootstrap resamples. The design remains cross-sectional and single-institution, however, so the directional [[sociocultural-learning|mediation]] claims rest on theory rather than on temporal ordering.
+
+## Implications for teaching with generative AI
+- Design for confidence first: the strongest lever on motivation and self-regulation in this model was AIGC self-efficacy, which is shaped by how much students feel able to direct the tool.
+- Do not treat well-received AI feedback as evidence of [[learning-gains|learning gains]]; satisfaction and self-regulation were statistically unrelated here.
+- Address programme-level conditions (project variety, industry alignment, enterprise involvement) alongside tool-level design, because the interviews show the tool operates inside weak structures.
+- Treat these estimates as provisional: the sample is one institution, the model is cross-sectional, and the constructs are [[self-report-measures|self-reported]].
+
+## Connected Concepts
+- [[self-regulated-learning]] — the outcome the model explains
+- [[self-efficacy]] — the strongest mediator in the model
+- [[motivation]] — the second mediating mechanism
+- [[generative-ai]] — AIGC tools as the affordance source
+- [[feedback]] — feedback quality as a predictor of satisfaction but not of regulation
+- [[higher-ed]] — private undergraduate industry-education programmes
+
+## Connected Articles
+- [[liang-ai-learning-motivation-sdt-2026]] — AI and learning motivation through self-determination theory
+- [[genai-motivation-engagement-2026]] — Generative AI, motivation and engagement
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Dependency, AI literacy and self-efficacy
+- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut in GenAI-supported self-regulated learning
+- [[ai-perceptions-students-teachers-motivation-2026]] — Student and teacher motivation and self-efficacy with AI
+
+## Citation
+Liang, S.-Z., Li, Z.-C., Hsu, Y.-M., & Xu, J.-L. (2026). [AIGC affordance and student self-regulation in private undergraduate education: a serial mediation model of self-efficacy and learning motivation](https://doi.org/10.3389/fpsyg.2026.1800950). *Frontiers in Psychology, 17*, 1800950.

@@ -4,13 +4,38 @@
 >
 > **Policy (2026-08-23):** an article is only added to this backlog (never ingested as an abstract-only wiki page) when its **full text cannot be retrieved** — e.g. the publisher blocks scraping with CAPTCHA, or the fetch times out. The maintainer downloads the PDF and sends it for full-text ingestion.
 
-**Last updated:** 2026-09-12
-**Total backlog:** 0 new articles · 54 truncated source texts awaiting PDFs
+**Last updated:** 2026-09-13
+**Total backlog:** 25 new articles · 54 truncated source texts awaiting PDFs
 
 ## Computers and Education: Artificial Intelligence (CAEAI)
 
+- [AI-mediated research agency formation in higher education: Autonomy, self-efficacy and innovation in early-career scientific training](https://www.sciencedirect.com/science/article/pii/S2666920X26001360) — [DOI: 10.1016/j.caeai.2026.100674](https://doi.org/10.1016/j.caeai.2026.100674)
+- [Applying psychometric methods to distinguish between human and generative AI responses to multiple-choice assessments](https://www.sciencedirect.com/science/article/pii/S2666920X2600130X) — [DOI: 10.1016/j.caeai.2026.100668](https://doi.org/10.1016/j.caeai.2026.100668)
+- [Standardized assessment of LLM English proficiency](https://www.sciencedirect.com/science/article/pii/S2666920X26001189) — [DOI: 10.1016/j.caeai.2026.100656](https://doi.org/10.1016/j.caeai.2026.100656)
+- [Artificial intelligence ethical awareness of university students in Ghana: A network and latent profile analyses](https://www.sciencedirect.com/science/article/pii/S2666920X26001141) — [DOI: 10.1016/j.caeai.2026.100652](https://doi.org/10.1016/j.caeai.2026.100652)
+- [A socio-technical framework for educational excellence: Empirical validation of artificial intelligence and Jidoka integration in accounting pedagogy within emerging financial markets](https://www.sciencedirect.com/science/article/pii/S2666920X26001098) — [DOI: 10.1016/j.caeai.2026.100647](https://doi.org/10.1016/j.caeai.2026.100647)
+- [AI adoption readiness among Ukrainian education managers: Barriers, typologies, and policy implications](https://www.sciencedirect.com/science/article/pii/S2666920X26001104) — [DOI: 10.1016/j.caeai.2026.100648](https://doi.org/10.1016/j.caeai.2026.100648)
+- [Enhancing domain adaptation of LLM via model composition in solving medical exam questions](https://www.sciencedirect.com/science/article/pii/S2666920X26001001) — [DOI: 10.1016/j.caeai.2026.100638](https://doi.org/10.1016/j.caeai.2026.100638)
+- [Creating an AI-powered platform for generating modelling problems: A case study on direct variation in secondary school mathematics](https://www.sciencedirect.com/science/article/pii/S2666920X26001025) — [DOI: 10.1016/j.caeai.2026.100640](https://doi.org/10.1016/j.caeai.2026.100640)
+- [When the algorithm enters the classroom: A critical integrative review of large language models, nursing education structural gaps, and the reconstitution of professional identity](https://www.sciencedirect.com/science/article/pii/S2666920X26001372) — [DOI: 10.1016/j.caeai.2026.100675](https://doi.org/10.1016/j.caeai.2026.100675)
+- [A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities, and insights from the frontier agent paradigm, exemplified by OpenClaw](https://www.sciencedirect.com/science/article/pii/S2666920X26001153) — [DOI: 10.1016/j.caeai.2026.100653](https://doi.org/10.1016/j.caeai.2026.100653)
+- [Measuring Acceptance of Age-Tiered AI Literacy Guidebooks: A Developmentally Informed Study of K-12 Students and Teachers](https://www.sciencedirect.com/science/article/pii/S2666920X26001232) — [DOI: 10.1016/j.caeai.2026.100661](https://doi.org/10.1016/j.caeai.2026.100661)
+- [Bridging the domain gap for VLMs: A scientific fine-tuning framework for precision and pedagogy in astronomical image understanding](https://www.sciencedirect.com/science/article/pii/S2666920X26001359) — [DOI: 10.1016/j.caeai.2026.100673](https://doi.org/10.1016/j.caeai.2026.100673)
+- [Federated learning for privacy-preserving at-risk student prediction in health professional education: A multi-scenario evaluation of FedAvg and FedProx](https://www.sciencedirect.com/science/article/pii/S2666920X26001220) — [DOI: 10.1016/j.caeai.2026.100660](https://doi.org/10.1016/j.caeai.2026.100660)
+- [ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring and participation-balanced collaboration in introductory programming](https://www.sciencedirect.com/science/article/pii/S2666920X26000950) — [DOI: 10.1016/j.caeai.2026.100633](https://doi.org/10.1016/j.caeai.2026.100633)
+- [Personalized neural cognitive architecture search: AutoML-driven diagnostic model generation for heterogeneous learner profiles](https://www.sciencedirect.com/science/article/pii/S2666920X26000822) — [DOI: 10.1016/j.caeai.2026.100620](https://doi.org/10.1016/j.caeai.2026.100620)
 ## Computers and Education Open (CEAO)
 
+- [Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics](https://www.sciencedirect.com/science/article/pii/S2666557326000911) — [DOI: 10.1016/j.caeo.2026.100420](https://doi.org/10.1016/j.caeo.2026.100420)
+- [Exploring basic school leaders' AI readiness: The role of professional development](https://www.sciencedirect.com/science/article/pii/S2666557326000807) — [DOI: 10.1016/j.caeo.2026.100409](https://doi.org/10.1016/j.caeo.2026.100409)
+- [Rethinking data privacy for AI Adoption in African Higher Education: A meta-synthesis of stakeholder perceptions and policy implications](https://www.sciencedirect.com/science/article/pii/S2666557326000790) — [DOI: 10.1016/j.caeo.2026.100408](https://doi.org/10.1016/j.caeo.2026.100408)
+- [AI training and science student teachers' TPACK in campus-based and distance education: a comparative study](https://doi.org/10.1016/j.caeo.2026.100410) — [DOI: 10.1016/j.caeo.2026.100410](https://doi.org/10.1016/j.caeo.2026.100410)
+- [Temporal dynamics of online learning interactions: A learning analytics study within the CoI framework](https://www.sciencedirect.com/science/article/pii/S2666557326000698) — [DOI: 10.1016/j.caeo.2026.100398](https://doi.org/10.1016/j.caeo.2026.100398)
+- [Levels of AI awareness and pedagogical skills among Nigerian teachers: The differentials of gender and teachers' experience](https://doi.org/10.1016/j.caeo.2026.100401) — [DOI: 10.1016/j.caeo.2026.100401](https://doi.org/10.1016/j.caeo.2026.100401)
+- [Evaluating AI-based visual privacy through Cartoonification: Impact on expressive participation and consent for data retention](https://www.sciencedirect.com/science/article/pii/S2666557326000649) — [DOI: 10.1016/j.caeo.2026.100393](https://doi.org/10.1016/j.caeo.2026.100393)
+- [A pilot educational framework for AI-enhanced digital manufacturing and reflective skill development](https://www.sciencedirect.com/science/article/pii/S2666557326000133) — [DOI: 10.1016/j.caeo.2026.100342](https://doi.org/10.1016/j.caeo.2026.100342)
+- [Junior high school student perspectives on the use of ChatGPT in music education](https://www.sciencedirect.com/science/article/pii/S2666557326000583) — [DOI: 10.1016/j.caeo.2026.100387](https://doi.org/10.1016/j.caeo.2026.100387)
+- [Learning paths and patterns in learning design: Insights from 500+ courses](https://www.sciencedirect.com/science/article/pii/S2666557326000832) — [DOI: 10.1016/j.caeo.2026.100412](https://doi.org/10.1016/j.caeo.2026.100412)
 ## British Journal of Educational Technology (BJET)
 
 ## Ingested pages whose source text is truncated (PDF needed)

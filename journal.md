@@ -1,7 +1,15 @@
 # Journal
 
 
-Last updated: 2026-09-13 | Total entries: 1338
+Last updated: 2026-09-13 | Total entries: 1344
+
+## 2026-09-13
+- 📄 [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting: Patterns and Performance
+- 📄 [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation: A Serial Mediation Model of Self-Efficacy and Learning Motivation
+- 📄 [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI: A Self-Determination Theory Synthesis
+- 📄 [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education: A Socio-Technical Perspective
+- 📄 [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education: High-Achieving Students, Successful-Student Identity and Epistemic Agency
+- 📄 [[kafa-knowledge-augmented-form-filling-agent-2026]] — KAFA: A Knowledge-Augmented Form-Filling Agent for Higher Education Services
 
 ## 2026-09-12
 - 📄 [[ai-agents-joyful-assessment-third-space-2026]] — AI Agents, Joyful Assessment, and Third Space: Rethinking Assessment in the GenAI Era
