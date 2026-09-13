@@ -9,7 +9,6 @@ Last updated: 2026-09-13 | Total entries: 1344
 - 📄 [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI: A Self-Determination Theory Synthesis
 - 📄 [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education: A Socio-Technical Perspective
 - 📄 [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education: High-Achieving Students, Successful-Student Identity and Epistemic Agency
-- 📄 [[kafa-knowledge-augmented-form-filling-agent-2026]] — KAFA: A Knowledge-Augmented Form-Filling Agent for Higher Education Services
 
 ## 2026-09-12
 - 📄 [[ai-agents-joyful-assessment-third-space-2026]] — AI Agents, Joyful Assessment, and Third Space: Rethinking Assessment in the GenAI Era
