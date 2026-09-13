@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-03T09:14:00-04:00"
+updated: "2026-09-13T08:06:42-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 audience: [learners]
@@ -48,6 +48,8 @@ When AI is designed to support reflection rather than replace it, metacognition 
 - **Learning journals** are a classic metacognitive practice: by reflecting on learning processes, students increase awareness of their cognition
 - **Structured prompts** that ask students to self-explain, evaluate strategies, or identify knowledge gaps preserve metacognitive demand
 - The **example-based course** in Scheu et al.'s [[conversational-ai|chatbot]] increased **perceived competence** (a metacognitive self-evaluation) even when the [[llm]] assistant alone did not
+
+- **Surfacing interaction patterns that learners cannot see.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li and Weng (2026)]] tracked eye movements, note-taking and speech while 22 interpreting trainees worked with a speech-recognition and machine-translation system, and found that the way students divided attention between AI output and their own notes was invisible to them: 58.3% changed profile between task stages, and the heaviest readers of AI output scored lowest on delivery fluency and target language quality. The pedagogical consequence is that reflection has to be scaffolded by external evidence, because a learner's strategy is not introspectable — the authors argue for guiding students to describe and evaluate why they worked a given way at each stage.
 
 ## The Engagement–Motivation Distinction
 
@@ -105,6 +107,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[student-experience]]
 - [[learning-theories]]
 ## Connected Articles
+- [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
 - [[du-yuan-epistemic-dependence-2026]] — Epistemic dependence in AI-mediated learning (Du & Yuan 2026)
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
 - [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)

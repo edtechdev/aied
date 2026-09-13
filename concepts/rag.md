@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-13T08:06:42-04:00"
 type: concept
 tags: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, pedagogical-llm-training, pedagogical-safety]
 
@@ -35,6 +35,8 @@ RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up
 
 RAG connects to [[llm]] (the generation component), [[knowledge-graph]] (structured knowledge for retrieval), [[hallucination-risk]] (the primary problem RAG addresses), and [[edtech-platform]] (RAG powers production educational systems).
 
+- **Tri-source retrieval over structured, vector and graph knowledge.** [[kafa-knowledge-augmented-form-filling-agent-2026|Sang et al. (2026)]] combine structured, vector and graph representations in one retrieval layer for a form-filling agent, reporting that the combination is what carries field-naming variation and semantic ambiguity that keyword and selector matching cannot handle — F1 rose from 0.7125 to 0.9558 and end-to-end correctness from 0.5755 to 0.9166 against a rule-based baseline. The design point generalises beyond forms: when the knowledge to be retrieved is heterogeneous in type (profile facts, free text, relational structure), a single index is the weak link.
+
 ## Connected Concepts
 
 - [[llm]]
@@ -50,6 +52,7 @@ RAG connects to [[llm]] (the generation component), [[knowledge-graph]] (structu
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[kafa-knowledge-augmented-form-filling-agent-2026]] — KAFA: A Knowledge-Augmented Form-Filling Agent
 
 - [[eduguard-safe-rag-llm-tutor]]
 - [[eduzone-llm-safety-k12]]

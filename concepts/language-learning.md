@@ -1,7 +1,7 @@
 ---
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-12T09:05:00-04:00"
+updated: "2026-09-13T08:06:16-04:00"
 type: concept
 tags: [language-learning, ai-education, generative-ai, writing-education, higher-ed, k-12, equity-in-ai-education]
 discipline: [language learning, writing education]
@@ -46,6 +46,8 @@ Language learning has emerged as a significant AI in education domain because la
 - **Educators value GenAI for preparatory work, not live classroom use.** A [[li-language-educators-genai-review-2026|PRISMA systematic review of 23 studies]] (Li et al. 2026) finds language educators most value GenAI for behind-the-scenes preparation — [[curriculum-design|lesson planning]], materials creation, and writing support/feedback — yet remain hesitant about direct, classroom-facing implementation, reflecting a theory–practice gap between approving AI in principle and using it live. Adoption is shaped by professional-identity, pedagogical, technical, [[governance|institutional]], and [[academic-integrity]] factors, with educators falling on a spectrum from non-adoption to comprehensive integration; attitudes tend to evolve from initial insecurity toward confident, selective use with exposure.
 - **Prepare language teachers' [[ai-literacy|AI literacy]].** [[governing-unseen-ai-literacy-language-teachers-2026|Systematic reviews]] find AI literacy among language teachers is a key gap — invest in teacher [[educational-development|professional development]] alongside tool adoption. As AI reshapes language education, AI literacy is also crucial for teachers to engage critically with the technology: the Teachers' AI Literacy Scale (TAILS) was developed for language [[teacher-education|teacher education]], operationalising the six-dimension ED-AI framework (knowledge, evaluation, collaboration, contextualization, autonomy, [[ethics]]) and validated with preservice English language teachers.
 
+- **Four interaction profiles in a high-pressure bilingual task.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li and Weng (2026)]] used eye-tracking, pen-recording and voice-recording with 22 interpreting trainees to show that students divide attention between AI output and their own note-taking in four distinct ways — Intensive Engagers, Fast Scanners, Traditionalists and Frequent Switchers — and that 58.3% of stage-level observations changed profile between the comprehension and production stages of the same task. Only comprehension-stage patterns predicted product quality, and the AI-heaviest cluster scored lowest on fluency of delivery and target language quality, which makes the case for teaching learners to describe and reflect on their own strategy rather than prescribing one way of working with the tool.
+
 ## Connected Concepts
 
 - [[eportfolio]]
@@ -65,6 +67,7 @@ Language learning has emerged as a significant AI in education domain because la
 - [[english-education]]
 
 ## Connected Articles
+- [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
 - [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang, Weng & Yang 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning GPT for L2 listening item generation (Aryadoust & Wong 2026)
