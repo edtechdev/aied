@@ -1,7 +1,7 @@
 ---
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-09-13T08:06:42-04:00"
+updated: "2026-09-13T09:31:55-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop-ai, agency, cognitive-offloading]
@@ -66,7 +66,6 @@ A step beyond orchestrating a few specialised agents is the **full agentic multi
 - **Participant-specific LLM agents for collaborative problem solving.** Fang (2026) fine-tunes individual LLM agents on real participants' dialogue data to represent each participant in collaborative problem solving simulations, with probabilistic speaker and thematic-code selection and sliding-window plus summarised memory. Validated with [[network-analysis|Epistemic Network Analysis]], the simulated dialogues are statistically indistinguishable from real ones (ENA distance 0.17, permutation p = 0.65) — a demonstration of agentic AI reproducing authentic collaborative discourse.
 - **Socially intelligent multi-agent tutoring.** Socially intelligent multi-agent tutoring prototypes such as ASTRA study how learners coordinate with AI in dyads, using differentiated Tutor and Facilitator agents to prompt coordination and balanced participation. The framework's trace-based evaluation enables reproducible analysis of interaction, participation balance, and verification in introductory programming.
 
-- **Administrative agents as a distinct deployment class.** [[kafa-knowledge-augmented-form-filling-agent-2026|Sang et al. (2026)]] present KAFA, a knowledge-augmented agent that fills institutional web forms by combining an [[llm]] with Chrome DevTools Protocol parsing of the live page, a personal knowledge base, tri-source [[rag|retrieval]] over structured, vector and graph stores, trajectory reuse and adaptive error correction. Against a rule-based baseline it raised end-to-end correctness from 0.5755 to 0.9166 and F1 from 0.7125 to 0.9558 on public recruitment forms that share profile-oriented structure with university service forms. The clearest lesson for the field is architectural: the baseline kept 98.97% precision but collapsed to 0.4552 recall on complex dynamic forms, so deterministic matching works best as a precision anchor inside a model-driven system rather than as the whole system. Its reliance on a personal profile store also makes the privacy surface explicit, and submission is designed as a human-verified step rather than fully autonomous.
 
 ## The central tension: automation vs. learning
 
@@ -184,7 +183,6 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[educational-policy-ai]]
 
 ## Connected Articles
-- [[kafa-knowledge-augmented-form-filling-agent-2026]] — KAFA: A Knowledge-Augmented Form-Filling Agent
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ilieva-agentic-genai-higher-education-2026]] — The AGAI-HE framework: bounded, human-supervised agentic GAI in higher education (Ilieva et al. 2026)
 - [[beyond-agent-label-agentic-ai-governance-2026]] — critical integrative review introducing the AOE evidence/oversight framework
