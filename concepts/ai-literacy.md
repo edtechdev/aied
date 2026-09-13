@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-13T12:25:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, educational-development, academic-integrity]
 audience: [faculty development, instructors, learners]
@@ -105,6 +105,8 @@ The knowledge base's frameworks and empirical studies converge on a set of pract
 ### Measuring AI literacy
 
 A distinct research thread treats AI literacy not only as a target for instruction but as a construct to be measured. The knowledge base's assessment strand distinguishes **self-reported** from **performance-based** literacy: self-reports diverge sharply from demonstrated competence (teachers overestimate by ~40%), and performance-based measures predict classroom AI integration far better than confidence surveys (r≈0.72 vs 0.31). Validated instruments are emerging to close this gap — the [[jin-glat-genai-literacy-assessment|GLAT]] provides a psychometrically validated generative-AI literacy assessment, and diagnostic profiles (overestimators vs. true novices) let designers target support where it is needed. For design and research, this ties AI literacy to [[educational-measurement]] and to [[assessment]] broadly: a literacy framework is only as useful as the instruments used to track growth, and stage-based continua require reliable measurement to place learners along them.
+
+A complementary strand measures how learners and teachers receive AI literacy *materials* rather than their literacy itself. [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang and Wu (2026)]] had 794 students and 37 teachers rate two guidebook editions built to UNESCO's age threshold (ages 9-12 and 13-18) after roughly 30 minutes of guided classroom exposure. Acceptance held a four-factor structure (Performance Expectancy, Effort Expectancy, Perceived Playfulness, Behavioral Intention) with measurement invariance supported across the two student editions, younger learners scored higher on all four constructs, and perceived playfulness carried the largest association with intention in both cohorts. The authors are explicit about what this is not: perceived acceptance of an age-tiered resource is not AI literacy achievement, [[ethics|ethical]] reasoning, adoption or sustained use, and material-level acceptance should not be read as evidence that literacy improved.
 
 Measurement also extends to the educators who mediate learners' engagement with AI. Most AI-literacy assessments target students or general users, leaving a gap in [[teacher-education|teacher]] education — a gap the [[language-teachers-ai-literacy-edai-2026|Teachers' AI Literacy Scale (TAILS)]] addresses: grounded in the ED-AI framework with six dimensions (knowledge, evaluation, collaboration, contextualization, autonomy, and ethics), it was validated through exploratory and confirmatory factor analysis with [[language-learning|preservice language teachers]]. Such instruments support measuring and developing the AI literacy of the educators who mediate learners' engagement with AI.
 
@@ -212,3 +214,4 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[aarc-ai-research-competency-2026]] — AI-Assisted Research Competency (AARC) for secondary education (Beau, Flaquière & Lazar 2026)
 - [[human-capability-test-learning-outcomes-ai-2026]] — A human capability test for learning outcomes in the AI era (Saleh 2026)
+- [[age-tiered-ai-literacy-guidebooks-2026]] — Age-tiered AI literacy guidebooks evaluated with 794 students and 37 teachers: four-factor acceptance structure invariant across the 9-12 and 13-18 editions, with younger learners higher on every construct
