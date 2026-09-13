@@ -1,7 +1,7 @@
 ---
 title: Administrators
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [administrator, educational-policy-ai, higher-ed, generative-ai, llm, student-experience, ai-literacy, stem-education, scaffolding, learning-analytics]
 discipline: [stem education]
@@ -49,6 +49,9 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 - [[generative-ai]]
 - [[student-experience]]
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+- [[educational-development]]
+- [[teacher-role]]
+- [[ai-literacy]]
 
 ## Connected Articles
 - [[sposato-ai-educational-leadership-taxonomy-2025]] — AI in educational leadership: comprehensive taxonomy

@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-13T08:06:42-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 audience: [instructors, faculty development, learners]
@@ -106,10 +106,6 @@ Teaching and [[learning-design|learning design]] are two sides of the same coin 
 - **Learning-design principles govern AI pedagogy.** The same [[learning-design]] principles — clear objectives, aligned assessment, [[scaffolding]], and [[feedback]] — determine whether AI helps or harms. [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]] empirically validates that grounding AI design in formal instructional-design models beats theory-free [[prompt-engineering|prompting]].
 - **Design for the teacher's orchestration.** Effective AI learning environments are designed *with the teacher in mind* — the tools [[prezenski-human-centered-ai-aided-learning|human-centered AI]] provide should reduce teacher workload and augment judgment, not add another opaque black box. When instructors co-design AI learning activities ([[activity-theory-teachers-adoption-ai-sem-2026|activity-theory perspectives]]), adoption and quality both improve.
 
-## Connections
-
-Teacher role connects to [[educational-development]] (how teachers are prepared), [[ai-literacy]] (teacher AI competency), [[k-12]] and [[higher-ed]] (context-specific implications), [[scaffolding]] (how teachers scaffold AI use for students), and [[learning-design]] (the designed experience teachers execute).
-
 ## Relationship to learner identity
 
 Teacher role and [[learner-identity|learner identity]] are reciprocal faces of the same human process, and AI reshapes both.
@@ -118,7 +114,6 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - **They are causally coupled.** Teachers who experience identity disruption (uncertainty about their professional purpose amid [[generative-ai|GenAI]]) are less able to support their students' identity development — a teacher who doubts their role struggles to validate students' emerging sense of self in the same domain. Conversely, teachers who sustain a confident professional identity are better positioned to scaffold students' belonging and authorship.
 - **Distinct failure modes.** Teacher identity is threatened by *role obsolescence* and *purpose* (the "what's the point of teaching?" question). Learner identity is threatened by *authorship loss* and *competence* (the "is this really mine / am I good enough?" question). Both are identity-level (not just skills-level) responses to AI.
 - **Both are professional-development and [[pedagogy|pedagogical]] concerns.** Supporting teacher identity belongs to [[educational-development]] and [[teacher-ai-competency]]; supporting learner identity belongs to [[student-experience]], [[authentic-assessment]], and [[agency]]. A well-designed AI-integrated system attends to both — because the teacher's identity is the condition under which learners' identities form.
-
 
 ## Teacher Co-Design of Early AI Literacy
 

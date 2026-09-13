@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-09-13T08:06:42-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [learner-identity, adult-learning, student-experience, agency, stem-education]
 discipline: [stem education]
@@ -74,6 +74,8 @@ Learner identity connects to [[agency]] (identity is enacted through agentic aut
 - [[authentic-assessment]]
 - [[teacher-role]]
 - [[generative-ai]]
+- [[higher-ed]]
+- [[k-12]]
 
 ## Connected Articles
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education

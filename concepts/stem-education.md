@@ -1,7 +1,7 @@
 ---
 title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 discipline: [cs education, math education, physics education]
@@ -51,10 +51,6 @@ A concentrated batch of 2026 *International Journal of STEM Education* studies s
 - **Teacher acceptance is heterogeneous and discipline-shaped.** A latent profile analysis of 128 pre-service teachers ([[chen-preservice-teachers-chatgpt-lpa-2026]]) found four ChatGPT-acceptance profiles (Pragmatic Evaluators, Technology Pioneers, Resistant Skeptics, Environmental Observers), with STEM teachers concentrated in Technology Pioneers and non-STEM teachers in resistant profiles — and Resistant Skeptics showing high ease of use but low intention, demanding differentiated [[ai-literacy]] training.
 
 - **Assessment and cognitive processes in AI-integrated STEM.** The [[zhang-ct-ai-training-test-2026|CTAT]] (34-item, IRT-validated) provides a valid instrument for assessing [[computational-thinking]] within AI-training contexts, revealing students struggle most with data representation, logical-operator sequencing, and loop structures. A grounded-theory study of AI-assisted programming ([[liu-tool-tutor-crutch-programming-2026]]) shows learners oscillate between "Domain Mastery" and "Tool Mastery" through [[scaffolding]] and Offloading loops, with attenuated [[metacognition|metacognitive]] calibration under routine offloading — a process-level account of the performance-learning tension.
-
-### Connections
-
-STEM education connects to [[cs-education]], [[math-education]], [[physics-education]], [[computational-thinking]], [[k-12]], [[higher-ed]], and [[intelligent-tutoring|AI Tutoring]] — it is the domain context for much of the knowledge base's tutoring and assessment research.
 
 ## Implications for STEM instructors
 

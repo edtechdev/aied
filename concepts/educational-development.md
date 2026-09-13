@@ -1,7 +1,7 @@
 ---
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-11T13:20:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design]
@@ -49,10 +49,6 @@ On this account, faculty asking "what's the point of teaching in a GenAI world?"
 **Design implication:** complement (don't replace) skill building with **identity-supporting practices** — open sessions with identity questions rather than technical demos, run ongoing [[discipline-specific-aied|discipline-specific]] cohorts where faculty explore what GenAI means for their field's purpose, create peer-mentoring structures that honor different transformation timelines, and distinguish fear-based hesitation (which benefits from support) from principled non-adoption grounded in legitimate disciplinary values (which deserves respect).([[laidlaw-genai-identity-crisis-faculty-2026]]) The metaphor-workshop model above is one concrete instantiation of this: rather than starting from technical upskilling, it opens with the interpretive, identity-laden question of what GenAI means to participants.
 
 **Empirical support for the identity-work framing.** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] provide direct [[qualitative-research|qualitative]] evidence for this account: 24 Swedish university teachers described GAI's emergence as alarming and overwhelming, reporting a "state of vulnerability" (low confidence, insecurity, fear of "not being ahead of students") and feeling "stuck" between utopian and dystopian discourses. Their limited knowledge and experience, alongside feelings of vulnerability, highlight teachers' lack of readiness to navigate, assess, and adopt GAI — and the authors argue institutions must provide **designated spaces and time** for teachers to experiment with GAI, exchange ideas, and collaboratively develop practices and guidelines at institutional, departmental, and course levels. This grounds the identity-work and support-oriented approach in teachers' own reported experience rather than only in theory.
-
-### Connections
-
-Educational development connects to [[teacher-ai-competency]] (the outcome), [[teacher-role]] (how AI changes instructional work), [[ai-literacy]] (faculty must model AI literacy for students), and [[educational-policy-ai]] (institutional policies that enable or constrain development).
 
 ### Practical guidance for program designers
 

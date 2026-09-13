@@ -1,7 +1,7 @@
 ---
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-11T11:50:00-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, cs-education]
 discipline: [stem education]
@@ -69,6 +69,7 @@ Because programming is where AI assistance is most powerful, it is also where th
 - **The duality of building what you use:** CS students' unique position creates both [[metacognition|meta-cognitive]] awareness of AI limitations and real risk of [[cognitive-offloading|Over-Reliance]] on AI-generated code. [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this tension directly.
 
 - **Agentic coding and comprehension in team PBL:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] introduced Spec-Driven Development with [[agentic-ai|AI agents]] into an undergraduate software-engineering project course and found that implementation throughput (added LOC) rose across 2022-2025 while heavy AI use coincided with code-comprehension dips that only recovered after one-on-one instructor checks - direct evidence that throughput gains do not guarantee understanding, and that [[cognitive-offloading|over-reliance]] in AI-assisted coding is amenable to instructional monitoring.
+
 ### Equity, culture, and who gets into computing
 
 - **Broadening participation:** [[suacode-african-students-motivations|SuaCode]] documents motivations for smartphone-based coding among African students (fewer than 1% of secondary-school leavers have fundamental coding skills), informing accessible AI-supported MOOCs for [[equity-in-ai-education|low-resource contexts]].
@@ -117,6 +118,13 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
 - [[teacher-education]]
+- [[professional-training]]
+- [[ai-education]]
+- [[collaborative-learning]]
+- [[kumar-genai-computing-education-systematic-review-2026]]
+- [[prior-knowledge]]
+- [[scaffolding]]
+- [[assessment-validity]]
 
 ## Connected Articles
 - [[kumar-genai-computing-education-systematic-review-2026]] — Systematic review of 72 studies: efficiency gains that do not transfer, and the VIE framework

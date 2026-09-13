@@ -1,7 +1,7 @@
 ---
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-13T09:58:46-04:00"
+updated: "2026-09-13T10:14:50-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm]
 audience: [instructors, administrators, learners]
@@ -37,10 +37,6 @@ confidence: high
 Professional training differs from academic education in its focus on applied skills, immediate workplace relevance, and adult learner characteristics. [[adult-learning]] theory and [[adult-learning]] principles inform professional AI training design.
 
 **Expertise regeneration as a training concern.** The Cognitive Commons framework ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) argues that HRD must move beyond organizational reskilling to profession-level stewardship: eliminating entry-level developmental positions in AI-exposed sectors can deplete the shared expertise pool on which all organizations depend, with a time-delayed effect that appears only after 5–20 years. This reframes professional training from individual competency development to collective commons maintenance.
-
-### Connections
-
-Professional training connects to [[lifelong-learning]], [[adult-learning]], [[educational-development]] (the academic parallel), [[simulation]], and [[ai-literacy]] (workplace [[teacher-ai-competency|AI competency]]).
 
 ## Connected Concepts
 - [[lifelong-learning]]
