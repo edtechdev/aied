@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-14T09:18:34-04:00"
+updated: "2026-09-14T06:55:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 tags: [intelligent-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
@@ -80,7 +80,7 @@ For instructors deploying AI tutors and developers building them, the knowledge 
 **Guard against answer disclosure.** The central failure mode of LLM tutoring is giving the answer away, which inflates immediate performance while undermining durable learning. Use Socratic prompting, calibrated hints, and non-disclosive scaffolding — and measure outcomes on unassisted, [[transfer-of-learning|transfer]] tasks, not just in-tool performance.([[measuring-llm-tutors-teach-vs-solve]])([[socratic-method]])
 
 **Separate diagnosis from feedback.** LLM tutors reliably confirm correct steps but over-reject valid-but-suboptimal reasoning and over-validate incorrect solutions — and accurate diagnosis does not reliably yield actionable feedback.([[yasir-llm-tutoring-agents-2026]]) The coupling also cuts the other way: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig et al. (2025)]] found GPT-4 still crafted relevant, general-but-correct feedback ~74% of the time even after misdiagnosing an error (by restating the concept or expected answer format), yet almost all factually incorrect feedback followed a wrong diagnosis — so error identification remains the crux of actionable tutoring. A hybrid architecture works best: let a knowledge-grounded classifier handle solution diagnosis while the LLM focuses on open-ended scaffolding and dialogue.
-- **Fairness auditing and selection bounds are becoming part of tutor evaluation.** Two 2026 studies extend what counts as evidence about a tutor. EduFair-Bench holds the simulated student fixed and varies only demographic attributes, showing that tutoring quality is not uniform across learners and that reward-tuning pedagogy does not automatically remove those differences ([[edufair-bench-pedagogical-fairness-llm-tutors-2026]]). An econometric re-analysis of El Salvador's national AI-tutoring pilot asks a prior question: how much student selection would be needed to reproduce the reported result if the programme had produced no learning at all. Against the German [[benchmark]], selection of only 5.5% in mathematics, 11.7% in science and 17.2% in reading would suffice, while the pilot assessed 7.0 students per school against 25.4 in the national PISA 2025 sample — so a headline learning claim of 1.29 SD, about 6.45 years of schooling in one year, cannot be separated from sampling without the baseline and protocol ([[el-salvador-ai-tutoring-selection-bias-2026]]).
+- **Fairness auditing is becoming part of tutor evaluation.** EduFair-Bench holds the simulated student fixed and varies only demographic attributes, showing that tutoring quality is not uniform across learners and that reward-tuning pedagogy does not automatically remove those differences ([[edufair-bench-pedagogical-fairness-llm-tutors-2026]]).
 
 ### AI tutoring as a spectrum of relational intensity
 
