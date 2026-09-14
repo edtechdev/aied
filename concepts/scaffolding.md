@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-14T09:18:31-04:00"
+updated: "2026-09-14T11:14:33-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor]
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
@@ -37,7 +37,7 @@ confidence: high
 
 ## The ZPD connection
 
-[[sociocultural-learning|Vygotsky's Zone of Proximal Development]] provides the theoretical foundation: scaffolding targets the space between what learners can do independently and what they can achieve with support. AI tools should operate in this zone — enough support to enable progress, not so much that learning is bypassed.
+[[sociocultural-learning|Vygotsky's Zone of Proximal Development]] provides the theoretical foundation: scaffolding targets the space between what learners can do independently and what they can achieve with support. AI tools should operate in this zone — enough support to enable progress, not so much that learning is bypassed. A configuration that inverts the usual direction of adaptation appears in Sidorkin's (2026) graduate course, where the learner rather than the system set the support level: weekly readings were generated on demand and students dialed comprehension level through iterative prompting (pacing, definitions, vocabulary density, depth). Analysis of three reading logs found definitional markers 3.4x to 8.7x more frequent in AI responses following comprehension-oriented prompts than in baseline explanatory text, with the clearest cases building a definitional layer and then a numbered procedural one, which makes scaffold density a measurable property of the learner's request rather than only of a system's mastery estimate. Requiring at least three follow-up questions per reading made that dialing routine, turning the text into an interaction that surfaced comprehension gaps the instructor otherwise would not see.
 
 ### Connections
 
@@ -118,3 +118,4 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
+- [[sidorkin-ai-generated-course-readings-2026]] — Comprehension prompts as a scaffold dial in AI-generated course readings (Sidorkin 2026)

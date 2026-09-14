@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-11T00:52:00-04:00"
+updated: "2026-09-14T11:14:50-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, generative-ai, scaffolding, llm, student-experience, prompt-engineering]
 audience: [learners]
@@ -22,7 +22,7 @@ confidence: high
 
 ## Introduction
 
-Prompt engineering is central to effective [[generative-ai]] use in education. Unlike traditional programming interfaces, LLMs respond to natural language — but the quality, accuracy, and [[pedagogy|pedagogical]] value of those responses depend heavily on prompt design. Research in this knowledge base reveals that prompting is not a neutral act: it reflects how students think, plan, and allocate cognitive effort.
+Prompt engineering is central to effective [[generative-ai]] use in education. Unlike traditional programming interfaces, LLMs respond to natural language — but the quality, accuracy, and [[pedagogy|pedagogical]] value of those responses depend heavily on prompt design. Research in this knowledge base reveals that prompting is not a neutral act: it reflects how students think, plan, and allocate cognitive effort. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]] sharpen what the term covers by distinguishing prompt engineering, the technical optimisation of inputs for performance, from prompt literacy, the rhetorical, ethical and reflective work of clarifying purpose, reading output critically and revising with stated reasons. Their Prompt Literacy Cycle (Clarify Purpose, Craft the Prompt, Engage with Output, Refine the Prompt, Reflect) and a sample process rubric make the distinction teachable, and they argue that instruction which optimises outputs alone leaves the ethical and epistemological dimensions of LLM use untouched.
 
 ### How prompt engineering appears in the research
 
@@ -110,3 +110,4 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
+- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompt engineering vs prompt literacy: a five-phase human-centered GenAI engagement framework with a five-step Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
