@@ -44,7 +44,7 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 - **Establish the evidence base** — determining whether AI tools (tutoring, feedback, assessment, [[conversational-ai|chatbots]]) produce [[learning-gains|learning gains]], and how large those gains are.
 - **Map the field and its gaps** — a scoping review documents what has been studied, where the evidence is concentrated, and where it is missing (e.g., workplace settings, non-English work, failure cases).([[ai-vocational-education-training-review]])
 - **Identify moderators and conditions** — meta-analysis tests whether effects differ by learner population, domain, AI system type, or study design, revealing for whom and under what conditions a tool works.
-- **Expose methodological quality** — reviews routinely find that the field relies on underpowered, pre-experimental, or quasi-experimental designs and immediate post-tests, tempering conclusions.([[ai-vocational-education-training-review]])([[zerkouk-comprehensive-review-its-2025]]) The appraisal can also cut the other way: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] scored all 59 of their included studies between 8 and 15 on a six-criterion rubric and excluded none on quality grounds, so a review may validate a field's study quality while locating its real limitation in heterogeneous focus and evaluation protocols rather than in weak design.
+- **Expose methodological quality** — reviews routinely find that the field relies on underpowered, pre-experimental, or quasi-experimental designs and immediate post-tests, tempering conclusions.([[ai-vocational-education-training-review]])([[zerkouk-comprehensive-review-its-2025]])
 
 ### Examples from the knowledge base
 
@@ -106,7 +106,6 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 2. **Follow a transparent protocol.** PRISMA-guided search, screening, and appraisal make reviews reproducible and defensible.
 3. **Interpret pooled effects cautiously.** Attend to heterogeneity, publication bias, and the quality of included studies before drawing strong conclusions.
 4. **Use reviews to set the agenda.** Reviews' documented gaps (failure cases, workplace settings, non-English and non-indexed work, long-term outcomes) should guide where new primary research is needed.([[ai-vocational-education-training-review]])
-
 
 ## GenAI in Healthcare Scenario Learning
 
