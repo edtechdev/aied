@@ -1,7 +1,7 @@
 # Journal
 
 
-Last updated: 2026-09-14 | Total entries: 1365
+Last updated: 2026-09-14 | Total entries: 1364
 
 ## 2026-09-14
 - 📄 [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — EduFair-Bench: Evaluating Pedagogical Fairness of LLM Tutors Across Student Demographics
@@ -13,7 +13,6 @@ Last updated: 2026-09-14 | Total entries: 1365
 - 📄 [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
 - 📄 [[ai-supported-oral-assessment-tvet-2026]] — Designing AI-Supported Oral Assessment in TVET
 - 📄 [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
-- 📄 [[el-salvador-ai-tutoring-selection-bias-2026]] — How much selection would be enough? Bounding the learning claim of El Salvador's artificial intelligence tutoring pilot
 - 📄 [[burriss-multimodal-composition-critical-ai-literacy-2026]] — "Young Scholar[s] on the Beat": Multimodal Composition as a Form of Critical AI Literacy Pedagogy
 - 📄 [[nash-preservice-teachers-classroom-ai-policies-2026]] — Writing the Rules for Generative Machines: Tensions and Entanglements in Preservice Teachers' Classroom AI Policies
 - 📄 [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Human-Centered Design of LLM-Powered Educational Chatbots: A Study with Secondary Teachers
