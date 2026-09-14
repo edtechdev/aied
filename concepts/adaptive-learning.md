@@ -117,3 +117,4 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review: adaptive pathways among the leading higher-ed AI integration use cases
 - [[an-goel-self-directed-modeling-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
+- [[el-salvador-ai-tutoring-selection-bias-2026]] — How much selection would be enough? Bounding the learning claim of El Salvador's artificial intelligence tutoring pilot

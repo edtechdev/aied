@@ -106,4 +106,5 @@ The purpose of this knowledge base is to help close that gap — to make it easi
 - [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (media-comparison critique)
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: publication-bias-adjusted AI effects ~1/3 of reported size
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
-
+- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews
+- [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks

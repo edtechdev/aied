@@ -1,7 +1,7 @@
 ---
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-13T10:14:50-04:00"
+updated: "2026-09-14T09:18:34-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm]
 audience: [instructors, administrators, learners]
@@ -15,7 +15,7 @@ confidence: high
 ## Questions to Consider
 
 - Think of a skill you learned on the job rather than in a classroom. What made that workplace learning effective, and how might an AI coach replicate or improve it?
-- The page's [[career-development-and-readiness|Workforce Readiness]] Level framework suggests the highest competency stages are 'gated by industry-embedded experience rather than coursework.' What does that imply for how we should train people—and for the limits of AI simulation?
+- The page's [[career-development-and-readiness|Workforce Readiness]] Level framework suggests the highest competency stages are 'gated by industry-embedded experience rather than coursework.' What does that imply for how we should train people—and for the limits of AI [[simulation]]?
 - Virtual patients and training simulators let professionals practice safely. What kinds of judgment and interpersonal skills might a simulator struggle to capture, no matter how realistic?
 - The 'Dual Train Problem' is the tension between rapidly changing AI skills and the slower pace of policy and [[curriculum-design|curriculum]]. If you could choose durable competencies to prioritize for learners today, what would they be?
 - Adult learners balance work and study, often through screens. How might AI-powered professional training both enable and complicate that balancing act—especially around data, trust, and time?
@@ -24,13 +24,14 @@ confidence: high
 
 ### AI in professional training
 
-- **Skill development:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-coaching-rl-skill-development|RL-based skill coaching]] demonstrate AI-driven professional development.
+- **Skill development:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-coaching-rl-skill-development|RL-based skill coaching]] demonstrate AI-driven [[educational-development|professional development]].
 - **Simulation and practice:** [[adaptive-virtual-patient-psychotherapy-training|Virtual patient training]] and [[astra-atco-training-simulator|ATCO training simulators]] create AI-powered professional practice environments. In [[teacher-education|teacher education]], AI role-play simulation extends this into practice-based teaching: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Student GPT]] simulated a [[misconceptions|misconception]]-holding middle-school math student so preservice teachers could practice diagnosing and remediating student errors, aligning with the "approximations of practice" of practice-based [[teacher-role|teacher]] learning as an affordable complement to costly platforms like TeachLivE.
 - **Lifelong learning integration:** [[lifelong-learning]] and [[adult-learning]] [[research-methods-aied|research]] connect professional training to continuous education.
 - **Public sector:** [[ai-adoption-training-public-sector|Public sector AI adoption]] examines training in government contexts.
-- **Workforce readiness frameworks:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] propose a Workforce Readiness Level (WRL) framework that adapts the Technology Readiness Level scale into nine competency stages scored across four pillars (digital/AI literacy, cyber-physical fluency, [[human-ai-collaboration|human-machine collaboration]], data-driven decision making), under a "no-thin-pillar" rule. Evidence from smart-manufacturing capstones shows the highest readiness stages are gated by industry-embedded experience rather than coursework — pointing to work-integrated learning as essential to professional AI training.
+- **Workforce readiness frameworks:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] propose a Workforce Readiness Level (WRL) framework that adapts the Technology Readiness Level scale into nine competency stages scored across four pillars (digital/[[ai-literacy|AI literacy]], cyber-physical fluency, [[human-ai-collaboration|human-machine collaboration]], data-driven decision making), under a "no-thin-pillar" rule. Evidence from smart-manufacturing capstones shows the highest readiness stages are gated by industry-embedded experience rather than coursework — pointing to work-integrated learning as essential to professional AI training.
 - **[[discipline-specific-aied|Domain-specific]] PD evidence is thin.** A [[li-language-educators-genai-review-2026|systematic review of language educators]] (Li et al. 2026) found only three of 23 studies reported structured professional development, yet those that did converged on gains in knowledge, confidence, and identity — evidence that structured, domain-specific training (pairing technical skill with practical wisdom) is both scarce and effective, and that PD should move from awareness-raising and ethics through hands-on tool mastery to co-design of AI-enhanced lessons.
 - **Workforce forecasting:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending that [[higher-ed|higher education]] prioritize durable AI competencies, [[ethics]] and [[governance]], and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, [[educational-policy-ai|AI policy]]) to sustain human-centered work in an automated economy.
+- **Oral assessment for workplace capability.** A TVET design study addresses a long-standing mismatch between text-heavy assessment and the verbal, situational capabilities that professional qualifications certify, using an [[llm]] to support interactive oral assessment. Across four cohorts the voice format was rated realistic by 21 of 33 learners with no dissenting response on its advantage over a written [[eportfolio|portfolio]], and the system ran fully offline on one laptop for up to 12 simultaneous learners, deleting recordings after 90 days and leaving scoring to assessors ([[ai-supported-oral-assessment-tvet-2026]]). It is a concrete example of AI widening the range of assessable competence in professional-training rather than only automating existing written formats.
 
 ### Distinct from academic education
 

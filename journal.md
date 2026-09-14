@@ -1,9 +1,19 @@
 # Journal
 
 
-Last updated: 2026-09-14 | Total entries: 1355
+Last updated: 2026-09-14 | Total entries: 1365
 
 ## 2026-09-14
+- 📄 [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — EduFair-Bench: Evaluating Pedagogical Fairness of LLM Tutors Across Student Demographics
+- 📄 [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
+- 📄 [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks
+- 📄 [[llm-qualitative-coding-consensus-2026]] — How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding
+- 📄 [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews
+- 📄 [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving
+- 📄 [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
+- 📄 [[ai-supported-oral-assessment-tvet-2026]] — Designing AI-Supported Oral Assessment in TVET
+- 📄 [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
+- 📄 [[el-salvador-ai-tutoring-selection-bias-2026]] — How much selection would be enough? Bounding the learning claim of El Salvador's artificial intelligence tutoring pilot
 - 📄 [[burriss-multimodal-composition-critical-ai-literacy-2026]] — "Young Scholar[s] on the Beat": Multimodal Composition as a Form of Critical AI Literacy Pedagogy
 - 📄 [[nash-preservice-teachers-classroom-ai-policies-2026]] — Writing the Rules for Generative Machines: Tensions and Entanglements in Preservice Teachers' Classroom AI Policies
 - 📄 [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Human-Centered Design of LLM-Powered Educational Chatbots: A Study with Secondary Teachers
