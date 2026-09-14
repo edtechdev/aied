@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-13T09:58:46-04:00"
+updated: "2026-09-14T06:30:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, multimodal, llm, intelligent-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
 research_method: [educational measurement]
@@ -37,6 +37,7 @@ Multimodal AI enables learners to produce and engage with content across text, i
 - **Multimodal prompting** is itself a demanding epistemic practice. Students who prompt for images as well as text discover that "prompt literacy is different between prompting for text than it is for pictures" — translating abstract meaning into machine-readable multimodal prompts requires a precise visual vocabulary and exposes system limitations and bias.([[multimodal-prompting-ai-literacy]])
 - **Multimodal assessment** shifts from essays to artefacts combining text, image, audio, and video, with educators using AI to [[scaffolding|scaffold]] creation and feedback rather than replace the learner's own production.([[multimodal-learning-genai]])
 - **Learner multimodal composing as a critical-thinking scaffold carries a trade-off.** [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] show that having upper-primary students turn written narratives into AI-generated images and short videos supported sustained gains in interpretation, analysis, evaluation, and explanation — but not inference. Because the visuals made story meaning explicit, students reported less need to infer implicit meaning from text alone; peer collaboration, not the multimodal tool, restored occasions for inference. Multimodal AI's value as a meaning-making partner is thus dimension-specific and depends on [[learning-design|instructional design]] that deliberately re-introduces the inferential and [[self-regulated-learning|self-regulatory]] work the externalization can short-circuit.
+- **Learner multimodal [[writing-education|composition]] as critical AI literacy.** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] analyse 22 eleventh graders' 90-second to 3-minute video public service announcements on self-chosen AI [[ethics]] issues — surveillance through school-regulated laptops and electronic "hall passes," [[privacy|informed consent]], and punitive algorithmic accusation — as [[ai-literacy|critical AI literacy]] enacted through composing across moving image, sound, text, and students' own bodies. Across all seven films harm was portrayed as emerging from human–machine entanglement rather than from the tool alone (an anthropomorphized "AI stalker" was played by a human actor in three of seven), and 15 of 18 end-of-unit responses said composing changed their understanding of AI ethics. The authors argue [[multimodal]] products both *demonstrate* and *communicate* critical competence — productive artifacts, reflections, and civic discourse can serve as [[assessment]] evidence that text-only literacy scales structurally miss.
 
 ### 2. Multimodal tutoring and the capability boundary
 
@@ -66,7 +67,7 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 
 1. **Close the multimodal gap.** Multimodal tutoring systems should include visual grounding and structured-dialogue scaffolds rather than assuming vision capabilities are robust.([[syal-multimodal-dialogue-stem-2026]])
 2. **Treat multimodal prompting as a teachable skill.** AI literacy curricula must address modality-specific prompting, coherence across modes, and critical evaluation of multimodal outputs.([[multimodal-prompting-ai-literacy]])
-3. **Preserve human meaning-making.** Multimodal AI should augment, not replace, the learner's own construction and evaluation of meaning across modes.([[multimodal-learning-genai]])
+3. **Preserve human meaning-making.** Multimodal AI should augment, not replace, the learner's own construction and evaluation of meaning across modes.([[multimodal-learning-genai]]) [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] show a low-overhead route to this that need not involve AI-generated media at all: their students composed live-action PSAs with ordinary video tools, and the authors stress that infographics, short presentations, mini-podcasts, graphic-novel-style panels, or interviews carry far less production overhead while still engaging learners in [[multimodal]] meaning-making.
 4. **Extend evaluation to multimodal validity.** [[assessment-validity|Assessment validity]], bias, and reliability must be examined when AI scores or generates multimodal artefacts.([[multimodal-item-parameter-estimation-2026]])([[ai-ed-evaluation]])
 5. **Watch equity and privacy.** Unreliable support on image-rich problems and the data demands of multimodal sensing both carry equity and privacy implications.([[syal-multimodal-dialogue-stem-2026]])([[privacy-aware-classroom-incident-recognition-2026]])
 
@@ -97,6 +98,7 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[virtual-and-augmented-reality]] — gesture, voice and spatial input as learning channels
 
 ## Connected Articles
+- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Video PSA composition on AI ethics as critical AI literacy pedagogy (Burriss et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]

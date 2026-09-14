@@ -1,9 +1,12 @@
 # Journal
 
 
-Last updated: 2026-09-14 | Total entries: 1352
+Last updated: 2026-09-14 | Total entries: 1355
 
 ## 2026-09-14
+- 📄 [[burriss-multimodal-composition-critical-ai-literacy-2026]] — "Young Scholar[s] on the Beat": Multimodal Composition as a Form of Critical AI Literacy Pedagogy
+- 📄 [[nash-preservice-teachers-classroom-ai-policies-2026]] — Writing the Rules for Generative Machines: Tensions and Entanglements in Preservice Teachers' Classroom AI Policies
+- 📄 [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Human-Centered Design of LLM-Powered Educational Chatbots: A Study with Secondary Teachers
 - 📄 [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI as a Frenemy in Teaching: Perceived Autonomy and Risks
 - 📄 [[lee-learner-question-types-ai-education-2026]] — Analysing AI utilisation in education through learner question types: A constructivist approach
 - 📄 [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Efficiency at what cost? Salvaging constructive alignment from the GenAI hype
