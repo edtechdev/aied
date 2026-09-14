@@ -1,7 +1,7 @@
 ---
 title: "What are notable gaps in the research literature on AI in Education?"
 created: "2026-08-24T14:10:00-04:00"
-updated: "2026-09-14T06:16:49-04:00"
+updated: "2026-09-14T13:43:30-04:00"
 weight: 45
 type: faq
 tags: [ai-ed-evaluation, research-methods-aied, limitations-in-aied-research, learning-gains, equity-in-ai-education, higher-ed]
@@ -140,7 +140,7 @@ Evidence synthesis requires comparable care. The [[meta-analysis-systematic-revi
 
 A single average “AI effect” can conceal the distinctions educators most need. Reviews should separate assisted performance from independent learning, distinguish intervention types and comparison conditions, and make coding and analytic decisions auditable. Null findings, failed implementations, and boundary conditions are essential contributions to this cumulative evidence base.
 
-The synthesis literature is itself a gap. [[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026) forensic audit]] of 14 high-impact [[meta-analysis-systematic-review|meta-analyses]] found that none provided a valid basis for its claims: no coherent construct (a tool treated as a single intervention and multidimensional outcomes pooled), invalid publication-bias assessment in all 14, average I² = 87.5%, and 61% of randomly vetted primary studies carrying validity concerns. Those 14 analyses had accumulated more than 2,000 citations in roughly 16 months, and a retracted meta-analysis was still cited as authoritative in 60% of post-retraction citing papers without acknowledging the retraction. Reproducibility therefore covers the integrity of the synthesis chain, not only of individual studies.
+The synthesis literature is itself a gap. [[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026) forensic audit]] of 14 high-impact [[meta-analysis-systematic-review|meta-analyses]] found that none provided a valid basis for its claims: no coherent construct (a tool treated as a single intervention and multidimensional outcomes pooled), invalid publication-bias assessment in all 14, reported I² between 77.2% and 94.4% in every analysis that reported it (12 of the 13 above 80%), and 61% of randomly vetted primary studies carrying validity concerns. Those 14 analyses had accumulated more than 2,000 citations in roughly 16 months, and a retracted meta-analysis was still cited as authoritative in 60% of post-retraction citing papers without acknowledging the retraction. Uncritical uptake is not confined to retracted work: in a sample of 14 papers citing another audited meta-analysis, whose abstract advertised a large effect of "AI education" that in fact measured teaching students about AI, only 2 cited it appropriately while 8 read it as evidence that integrating AI improves learning and 4 were incorrect in other ways. The audit's recommendations target that chain directly, asking journals to require full data transparency for meta-analyses (search protocols, coded study characteristics, extracted statistics, and analytic code), asking editors not to treat a publication record as proof of reviewing competence, and asking that retractions be made visible wherever an article is discovered, exported, or cited. Reproducibility therefore covers the integrity of the synthesis chain, not only of individual studies.
 
 Instructors who want the classroom-level version of these concerns — which measures and comparison designs to use — can follow the method guidance in [[evaluating-ai-interventions-methods]].
 
