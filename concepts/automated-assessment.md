@@ -1,8 +1,9 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-12T14:25:00-04:00"
+updated: "2026-09-14T06:35:00-04:00"
 type: concept
+connected_faqs: [ai-save-instructor-time]
 tags: [automated-assessment, assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 audience: [instructors]
 category: [assessment]

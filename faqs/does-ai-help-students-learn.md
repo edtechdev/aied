@@ -1,7 +1,7 @@
 ---
 title: "Does Using AI Actually Help My Students Learn?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-14T06:16:49-04:00"
 weight: 90
 tags: [ai-literacy, cognitive-offloading, active-learning, ai-ed-evaluation, assessment, self-report-measures]
 category: [evaluation, assessment]
@@ -31,11 +31,19 @@ In this randomized field experiment with nearly 1,000 students, a general-purpos
 
 The implication is practical: judging an AI tool by completed homework, correct practice answers, or student satisfaction can give a misleading picture of its educational value. Satisfaction and perceived learning are [[self-report-measures|self-report measures]], and the knowledge base documents how far they can drift from measured learning.
 
+A larger, longer field study points the same way at scale. [[stromberg-generative-ai-learning-penalty-secondary-2026|The Generative AI Learning Penalty]] followed 26,811 Chinese secondary students (grades 7–12) over 30 months using staggered AI adoption. Homework scores rose **18%** and completion time fell **30%** (from 64 to 45 minutes), while closed-book monthly exam scores fell **20%** within six months and high-stakes entrance-exam scores fell **18–24%** of baseline — but only after about two years. The losses were concentrated among the roughly **81%** of AI users whose behaviour indicated homework outsourcing; users who kept homework time comparable to non-users learned about as efficiently. The divergence between homework and exam performance is the performance–learning gap written across a national cohort, and the two-year lag means short evaluations systematically underestimate the cost.
+
 ### Access and safeguards are not enough
 
-A two-year randomized school experiment, [[one-click-away-khanmigo-two-year-school-experiment-2026|One Click Away: AI Tutoring with Khanmigo]], found modest [[math-education|mathematics]] achievement gains across 18 middle schools. Yet students rarely engaged in substantive tutoring conversations. The authors noted that the gains resembled those associated with structured practice without AI. Because the intervention combined individualized practice and AI tutoring, it did not cleanly isolate the AI component’s additional contribution. A capable tutor being available is different from students using it productively.
+A two-year randomized school experiment, [[one-click-away-khanmigo-two-year-school-experiment-2026|One Click Away: AI Tutoring with Khanmigo]], found modest [[math-education|mathematics]] achievement gains across 18 middle schools. Yet students rarely engaged in substantive tutoring conversations. The authors noted that the gains resembled those associated with structured practice without AI. Because the intervention combined individualized practice and [[intelligent-tutoring|AI tutoring]], it did not cleanly isolate the AI component’s additional contribution. A capable tutor being available is different from students using it productively.
 
 The newer [[making-ai-tutoring-productive-mastery-math-2026|Making AI Tutoring Productive]] experiment offers a related lesson. Among more than 6,000 middle-school students using NUMI, AI support improved recovery after mistakes but slowed progress through questions. A three-correct-in-a-row mastery rule increased platform-defined success without, by itself, improving learning one week later. The strongest delayed-learning signal appeared when AI was embedded in the mastery workflow, but the gains were **marginally statistically significant and concentrated on particular practiced material**. This working paper provides suggestive evidence for a carefully structured approach, not a broadly proven recipe.
+
+### How students use the tool, not just access to it, determines the outcome
+
+The same technology produces different learning depending on how the interaction is structured. In [[yan-cognitive-outsourcing-genai-assessments-2026|a qualitative study of 38 undergraduates]] in unsupervised essay assessments, engagement spanned a spectrum from [[cognitive-offloading|cognitive outsourcing]] to **cognitive reallocation** — shifting effort from low-level retrieval to [[critical-thinking|critical evaluation]]. Most students (n = 31) intended to use generative AI as a learning assistant, yet **76.32%** relied on single-turn ask–get answer–stop dialogue and **78.94%** used the tool before or after drafting rather than through the task, producing an efficiency paradox: convenience gained at the cost of the cognitive work that builds schemas ("the speed at which you forget it is also very fast"). Only 8 students worked as cognitive partners through sustained, iterative dialogue.
+
+The [[pedagogy|pedagogical]] lesson is that blanket permissions or prohibitions both leave students to guess. What changed behaviour was task-specific guidance about which cognitive work students must retain and which AI assistance was appropriate — the design direction developed in [[reduce-ai-cheating]].
 
 ### Less effort does not automatically mean less learning
 
@@ -44,6 +52,10 @@ It would also be a mistake to conclude that AI helps only when it makes students
 In the preregistered experiments reported in [[coach-not-crutch-ai-writing|Coach not crutch]], adults who practiced revising cover letters with AI subsequently produced better no-AI writing than those who practiced alone, despite expending less effort. Benefits persisted at a one-day follow-up. Another experiment found that viewing an AI-revised example produced comparable benefits to practicing with the tool. These were brief, bounded writing tasks—not evidence of lasting improvement across all kinds of writing—but they show that examples can support learning rather than necessarily replace it.
 
 **The goal is therefore not maximum difficulty. It is to preserve or improve the learning activity that develops the intended capability.**
+
+### The pattern repeats in computing education
+
+[[kumar-genai-computing-education-systematic-review-2026|A systematic review of 72 studies in computing education]] finds the same structure in its most robust result. Generative AI reliably raises short-term completion and reduces time-on-task (36 studies), and not a single study in the corpus documents a negative effect on immediate performance — yet those gains "do not transfer to independent performance" (21 studies). Codex-assisted students completed twice as many tasks during learning but performed no better than controls on post-tests without AI. [[prior-knowledge|Prior knowledge]] moderates everything: well-prepared students convert assistance into durable skill, while under-prepared students risk using it as a crutch that removes the practice they need. The review's central design requirement is **verification** — reading, testing, modifying, explaining, and critiquing AI output — made a graded, observable component of the work rather than an aspiration left to discretion.
 
 ## A useful design principle: scaffold, do not substitute
 
@@ -79,6 +91,8 @@ The [[ai-ed-evaluation|AI Ed Evaluation]] page recommends separating the quality
 **Use a meaningful comparison.** Where feasible, compare the AI-supported activity with a well-designed non-AI alternative using similar content, instructional time, and practice opportunities. A simple before-and-after improvement cannot establish that AI caused the gain; students might improve through the rest of the [[teacher-role|teaching]]. For stronger causal claims, consult [[research-methods-aied|Efficacy Research Methods]] when designing the comparison.
 
 **Observe how students use the help.** Look for explanations, attempts to correct errors, justified revisions, and verification—not just logins, message counts, or completed questions. These observations can help explain a result, but should not replace a learning measure. See [[help-seeking|Help-Seeking]] and [[student-ai-interaction|Student–AI Interaction]].
+
+**Check what a dashboard actually measures.** In [[zhang-platform-scores-miss-ai-teaching-agents-2026|an evaluation of eight AI teaching agents]] in [[medical-education|medical education]], agent rankings by the platform's own score diverged from an expert-validated teaching-quality rubric — the agent ranked third by the platform ranked last on rubric quality — because the platform score tracked student performance during the interaction, not the agent's teaching behaviour. A built-in metric is a hypothesis to validate, not evidence of learning. See [[evaluating-ai-interventions-methods]] for the measures and comparison designs that make such a check credible.
 
 An important qualification is that **not every legitimate learning outcome must be demonstrated without AI**. A course may deliberately teach effective AI-supported work. In that case, assess students’ ability to select, verify, revise, and defend their use of AI, alongside whatever independent foundations the discipline requires. [[human-capability-test-learning-outcomes-ai-2026|A Human Capability Test for Learning Outcomes in the AI Era]] proposes this distinction between independent capability, AI-augmented performance, and verification responsibility. It is a conceptual assessment framework, not a validated solution for every course.
 
