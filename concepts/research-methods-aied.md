@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-14T09:18:34-04:00"
 type: concept
 tags: [ai-education, educational-measurement, rct, benchmark, ai-ed-evaluation, higher-ed]
 research_method: [educational measurement, experiment, randomized controlled trial, benchmark, research methods]
@@ -40,7 +40,7 @@ An **efficacy study** tests whether an intervention produces its intended learni
 
 ### Survey and structural-equation-modeling studies
 
-Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, [[self-efficacy]], and technology acceptance, often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the knowledge base's corpus, particularly for acceptance, motivation, and psychological-mechanism questions.
+Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, [[self-efficacy]], and [[technology-acceptance-model|technology acceptance]], often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the knowledge base's corpus, particularly for acceptance, motivation, and psychological-mechanism questions.
 
 - **Strengths:** large samples; broad, low-cost coverage; can test complex mediational models of psychological mechanisms; feasible for studying attitudes that are hard to observe.
 - **Limitations:** cross-sectional data cannot establish causation; common-method/self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation.
@@ -52,7 +52,7 @@ The instrument itself deserves separate scrutiny. What a questionnaire, intervie
 
 Interviews, focus groups, and thematic analysis produce rich, contextual accounts of how students and teachers experience AI tools, the meanings they attach to them, and the tensions and harms that standardized measures miss. [[ai-tutor-safety-harms|Research on AI tutor safety]] and [[ai-changing-teaching-workflows|how AI changes teaching workflows]] rely heavily on qualitative evidence. See the dedicated [[qualitative-research]] concept page for the full treatment of qualitative approaches — thematic analysis, grounded theory, phenomenology/phenomenography, discourse analysis, observations and ethnography, case studies, and interviews/focus groups — each with knowledge base exemplars.
 
-- **Strengths:** deep ecological and conceptual insight; surfaces unexpected phenomena, risks, and mechanisms; essential for theory-building and for studying contested constructs like trust, autonomy, and authorship.
+- **Strengths:** deep ecological and conceptual insight; surfaces unexpected phenomena, risks, and mechanisms; essential for theory-building and for studying contested constructs like trust, [[agency|autonomy]], and authorship.
 - **Limitations:** limited generalizability; interpretive and researcher-dependent; small samples; weaker support for causal claims; findings can be hard to synthesize across studies.
 - **Exemplars:** [[ai-tutor-safety-harms]], [[ai-changing-teaching-workflows]], , [[scaffolding-critical-engagement-genai-minority-students]].
 
@@ -87,11 +87,12 @@ See the dedicated [[meta-analysis-systematic-review]] concept page for a fuller 
 
 ### Computational and benchmark evaluation
 
-Computational evaluation assesses AI systems directly — against benchmarks, ground-truth labels, or human judgments — rather than studying human learners. This includes [[benchmark|benchmarks]], [[cong-confidence-asag-2026|grading accuracy]], [[teachbench-llm-teaching-evaluation|teaching-ability evaluation]], and [[llm]]-as-judge approaches. This is the closest method to [[ai-ed-evaluation]] (see the distinction below).
+Computational evaluation assesses [[ai-technologies|AI systems]] directly — against benchmarks, ground-truth labels, or human judgments — rather than studying human learners. This includes [[benchmark|benchmarks]], [[cong-confidence-asag-2026|grading accuracy]], [[teachbench-llm-teaching-evaluation|teaching-ability evaluation]], and [[llm]]-as-judge approaches. This is the closest method to [[ai-ed-evaluation]] (see the distinction below).
 
 - **Strengths:** fast, scalable, reproducible; enables head-to-head comparison of models and system versions; essential for system development and quality assurance.
-- **Limitations:** measures system output, not learning — high benchmark accuracy does not entail educational effectiveness; ground-truth and rubric quality are themselves contested; can miss pedagogical quality that humans perceive. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] argue that LLMs' natural-language flexibility makes purely technical metrics insufficient, requiring human-inspired evaluation approaches — [[simulating-students|simulated students]], AI-teacher tests, and behavioral-science analyses previously reserved for human subjects — to judge learning-relevant quality, and that studying LLMs cautiously can generate insight into human learning.
+- **Limitations:** measures system output, not learning — high benchmark accuracy does not entail educational effectiveness; ground-truth and rubric quality are themselves contested; can miss pedagogical quality that humans perceive. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] argue that LLMs' natural-language flexibility makes purely technical metrics insufficient, requiring human-inspired evaluation approaches — [[simulating-students|simulated students]], AI-[[teacher-role|teacher]] tests, and behavioral-science analyses previously reserved for human subjects — to judge learning-relevant quality, and that studying LLMs cautiously can generate insight into human learning.
 - **Exemplars:** [[teachbench-llm-teaching-evaluation]], [[jeon-isd-agent-bench-2026]], [[ground-truth-reliability-aied]], [[cong-confidence-asag-2026]], [[drawedumath-vlm-struggling-students-2026]].
+- **Reporting standards for automated pipelines, and audited benchmarks.** Two 2026 papers extend methodological accountability beyond the study itself. PRISMA-LLM maps 888 review-automation papers and 14,726 annotations, finding that 38.0% of software or product papers reported no evaluation against 9.3% of LLM papers and that 52% of positive-only LLM evaluations left a high-bar concern unmet, and proposes reporting that identifies where in the review workflow automation acted ([[prisma-llm-ai-assisted-systematic-reviews-2026]]). An expert re-grading audit of six [[physics-education|physics]] benchmarks shows the same problem at the instrument level: of 250 audited rejections only 12 (4.80%) were genuine model errors, while 143 were item defects and 95 grader errors ([[frontier-models-physics-benchmark-audit-2026]]). Both argue that computational evaluations need an audited error budget before their results are read as findings about learners or models.
 
 ### Other designs: longitudinal, case, and simulation studies
 

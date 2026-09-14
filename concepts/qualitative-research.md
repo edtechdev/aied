@@ -1,7 +1,7 @@
 ---
 title: Qualitative Research
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-14T09:18:31-04:00"
 type: concept
 tags: [qualitative-research, research-methods-aied]
 research_method: [qualitative, research methods, interviews, case study]
@@ -48,7 +48,7 @@ Semi-structured **interviews** and **focus groups** are the primary data-collect
 
 ## How qualitative research appears in the knowledge base
 
-- **Mechanism and process.** Qualitative work reveals *why* AI helps or harms. [[same-ai-different-pathways]] uses qualitative strands to unpack mechanisms of AI-mediated learning across contexts; [[ai-tutor-safety-harms|AI tutor safety]] documents the specific [[pedagogy|pedagogical]] harms that quantitative outcome measures miss.
+- **Mechanism and process.** Qualitative work reveals *why* AI helps or harms. [[same-ai-different-pathways]] uses qualitative strands to unpack mechanisms of AI-[[sociocultural-learning|mediated learning]] across contexts; [[ai-tutor-safety-harms|AI tutor safety]] documents the specific [[pedagogy|pedagogical]] harms that quantitative outcome measures miss.
 - **Trust, agency, and identity.** Contested, subjective constructs are often best studied qualitatively. [[t2i-competence-paradox-2026]] surfaces how art-and-design students negotiate ease, risk, and creative identity; [[genai-runaway-object-math-higher-ed]] captures AI's role in reshaping academic identity and practice.
 - **Equity and under-represented voices.** Qualitative work centers perspectives often excluded from large surveys — [[scaffolding-critical-engagement-genai-minority-students|ethnic-minority students]], , [[becker-chatgpt-typology-physics-2026|skeptical nonusers]]. This connects to [[equity-in-ai-education]].
 - **Typology and taxonomy building.** [[becker-chatgpt-typology-physics-2026|A qualitative typology of ChatGPT adoption]] distinguishes pragmatic users from skeptical nonusers — categories that inform later survey instrument design.
@@ -58,6 +58,7 @@ Semi-structured **interviews** and **focus groups** are the primary data-collect
 A distinctive recent development is using [[llm|LLMs]] to assist qualitative coding. The knowledge base's evidence is cautionary: [[human-vs-llm-ordered-coding]] shows LLM and human coding diverge, with errors cascading through temporal analysis; [[agreement-not-quality-llm-coding-verification|Agreement Is Not Quality]] shows that human–LLM coding *agreement* is not the same as coding *quality* when human consensus is not ground truth. LLM-assisted coding can scale and accelerate qualitative analysis, but its outputs require verification against [[human-in-the-loop-ai|human judgment]] — an important intersection of qualitative research with [[educational-nlp]] and [[ai-ed-evaluation]].
 
 **The fluent-output problem and warrantability.** [[chain-behind-claim-warrantability-2026|Holster (2026)]] sharpens why accuracy and disclosure are insufficient standards for AI-assisted qualitative work. Because LLMs reorganize corpora in minutes into fluent topics, quotations, and prevalence claims, they can conceal the analytic pathway that produced them — and people tend to rate easily processed, fluent output as more true. Holster proposes **warrantability** as a complement to accuracy and disclosure: an AI-assisted interpretation is warrantable when the pathway from source data to claim remains *inspectable, contestable, and revisable*. Its constructive machinery is **semantic lenses** (documented reorganizations of a corpus across levels of abstraction) and a claim-relative repertoire of **warrant artifacts** — source-linked topic tables, lens stacks, and evidence rivers — designed into tools so that fluent analysis also produces a retraceable pathway record. This extends the field's audit-trail tradition into the generative era and gives reviewers something concrete to contest beyond a final interpretation.
+- **Reliability is not accuracy in [[agentic-ai|multi-agent]] LLM coding.** A literature-informed pipeline in which two AI coders coded independently, debated and reconciled disagreements produced inter-coder agreement above Cohen's kappa 0.85 on every dataset and label while criterion F1 ranged from 0.31 to 0.89 (mean 0.68, SD 0.16) — high agreement between agents that were both wrong. Longer codebooks (t = -11.702) and more similar excerpts (t = -9.249) reduced initial accuracy, and discussion turns correlated positively with accuracy (t = 7.997) while correctly resolved conflicts and collaborating modes correlated negatively (t = -9.720 and -8.420), so convergence is a weak proxy for correctness. The practical implication is that AI-assisted coding needs checklist-level adjudication against a human reference rather than agent-to-agent agreement as its quality signal. ([[llm-qualitative-coding-consensus-2026]])
 
 ## Strengths and limitations
 
