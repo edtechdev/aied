@@ -76,3 +76,4 @@ Business is one of the fields where generative AI adoption is fastest, so busine
 
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[mesny-innovative-assessment-grading-management-2026]]
+- [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts

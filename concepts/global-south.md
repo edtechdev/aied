@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-14T09:18:34-04:00"
 type: concept
 tags: [global-south, equity-in-ai-education, generative-ai, higher-ed, k-12, culturally-relevant-pedagogy, ai-literacy]
 level: [higher ed, k 12]
@@ -23,7 +23,7 @@ The **Global South** refers to countries in Africa, Asia, Latin America, and Oce
 
 ### Why It Matters for AIED
 
-Mainstream AI and educational-technology research has historically been dominated by Western, English-language datasets and [[governance|institutional]] contexts. This creates two problems: (1) AI systems trained on such data may underperform or misrepresent learners in Global South settings, and (2) evaluation [[benchmark|benchmarks]] built in the Global North may not reflect the educational realities, languages, or knowledge traditions of other regions. Research from Global South contexts in this knowledge base spans culturally grounded datasets, benchmarks, and technology-adoption studies, with implications for [[ai-literacy]] and [[higher-ed|higher]] and [[k-12|K-12]] education.
+Mainstream AI and educational-technology research has historically been dominated by Western, English-language datasets and [[governance|institutional]] contexts. This creates two problems: (1) [[ai-technologies|AI systems]] trained on such data may underperform or misrepresent learners in Global South settings, and (2) evaluation [[benchmark|benchmarks]] built in the Global North may not reflect the educational realities, languages, or knowledge traditions of other regions. Research from Global South contexts in this knowledge base spans culturally grounded datasets, benchmarks, and technology-adoption studies, with implications for [[ai-literacy]] and [[higher-ed|higher]] and [[k-12|K-12]] education.
 
 ### Applications in the Knowledge Base
 
@@ -33,6 +33,7 @@ Mainstream AI and educational-technology research has historically been dominate
 - **Epistemic marginalization:** [[genai-minoritized-knowledges-disability|Tali-Otmani]] argues that Western-centric training data marginalizes non-Western and disability-centered knowledges — connecting Global South concerns to [[equity-in-ai-education]] and [[culturally-relevant-pedagogy]].
 - **Disability and [[inclusive-learning|inclusion]] in the Global South:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates across three Palestinian universities — found GenAI bridges digital, geographic, and socioeconomic divides for disabled learners, extending [[technology-acceptance-model|technology-acceptance]] research to disability contexts where [[usability-research|usability]], affordability, and [[accessibility]] are mutually reinforcing.
 - **Designing for local stressors under resource constraints:** Bashir and Afzal (2026) build [[culturally-aware-student-stress-chatbot-2026|Sukoon]] as a Global South design response to a documented mismatch — mental-health [[conversational-ai|chatbots]] trained mostly on Western datasets and overwhelmingly English-language, while Pakistani students face academic, financial, familial, and relational stressors simultaneously and often cannot raise emotional difficulties with parents, teachers, or peers because of stigma. The authors' practical constraints are as instructive as their model: a free-access [[open-source]] [[llm]] through a hosted API for low resource requirements, a lightweight Flask deployment for regional universities, "tools are available but often expensive" listed as a barrier, and unequal access to paid models flagged as a general dependency risk. They also note the classifier was trained on a publicly available dataset not representative of Pakistani students, and commit to locally collected DASS-21 data before drawing population conclusions.
+- **Scale-out claims need sampling evidence, not just effect headlines.** El Salvador's AI-tutoring pilot with the World Bank is the most visible recent global-south deployment, covering 171 public schools and 1,198 volunteer students before national scaling. A bounding analysis shows the reported attainment is indistinguishable from selection of 5.5% of the [[math-education|mathematics]] distribution, and that the case in favour of expansion must therefore rest on baseline and sampling documentation rather than on the headline comparison with German and Swedish averages ([[el-salvador-ai-tutoring-selection-bias-2026]]). This is the same measurement burden [[learning-gains|learning-gain estimates]] face everywhere, but it bites hardest where a single pilot is the whole evidence base for a national programme.
 
 ### Implications
 

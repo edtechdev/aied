@@ -71,3 +71,4 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
+- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis

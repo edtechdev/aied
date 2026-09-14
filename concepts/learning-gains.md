@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-14T09:18:34-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 audience: [learners]
@@ -19,7 +19,7 @@ confidence: high
 - A core finding is that generative AI can inflate scores on AI-assisted homework while lowering scores on proctored, closed-book measures. If you were evaluating whether an AI tool really helps students learn, which outcome would you trust and why?
 - Research shows unguided reliance on AI predicts worse learning gains, while structured use predicts better ones — the same tool, opposite outcomes. What distinguishes 'structured' from 'unguided' use in a real classroom?
 - Hint buttons correlate with reduced learning: more hints, less learning. Have you ever been tempted to reach for a hint or an answer the moment you were stuck? What does that suggest about how much struggle is actually necessary for learning?
-- A large meta-analysis pooled many studies and found AI-enabled EdTech raised learning by a modest amount, with no advantage for generative AI over earlier adaptive tools. How should this cautious, pooled estimate change how you read exciting claims about a single AI product's effectiveness?
+- A large meta-analysis pooled many studies and found AI-enabled [[edtech-platform|EdTech]] raised learning by a modest amount, with no advantage for generative AI over earlier adaptive tools. How should this cautious, pooled estimate change how you read exciting claims about a single AI product's effectiveness?
 
 ## Introduction
 
@@ -34,7 +34,7 @@ Key findings from the knowledge base:
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows negative associations between hint abuse and learning gains — more hints correlate with less learning.
 - **[[instructional-guidance-genai-learning|Instructional guidance]]** studies demonstrate that learning gains depend on HOW AI is used, not just WHETHER it's available.
 - **[[burneo-can-edtech-close-learning-gaps-2026|World Bank meta-analysis]]** pools 191 effect sizes from 14 RCTs to estimate that adaptive and AI-enabled EdTech raises learning by ~0.125 sd on average — above the median for education RCTs — while finding no advantage for generative AI over earlier adaptive tools.
-- **Gains are content–treatment interactions, not constants.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] show the optimal example–problem ratio depends on knowledge content: pure retrieval practice yields higher gains for verbatim facts, while example-integrated practice (alternating worked examples and problems) yields higher gains for generalizable skills — direct evidence that "more practice" is not always better and that gains hinge on matching the training schedule to the knowledge component being learned.
+- **Gains are content–treatment interactions, not constants.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] show the optimal example–problem ratio depends on knowledge content: pure [[mastery-learning|retrieval practice]] yields higher gains for verbatim facts, while example-integrated practice (alternating worked examples and problems) yields higher gains for generalizable skills — direct evidence that "more practice" is not always better and that gains hinge on matching the training schedule to the knowledge component being learned.
 
 ### The AI-era measurement problem
 
@@ -96,6 +96,8 @@ The learning-gain numbers that dominate this page's efficacy summary — especia
 Learning gains connect to [[assessment-validity]] — if assessments fail to capture deeper understanding, learning gain measures are misleading. They also intersect with [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]], where apparent performance improvements may mask learning losses, and with [[rct]] (randomized trials as the gold-standard design for detecting causal learning gains), and with [[meta-analysis-systematic-review]] (pooling effect sizes across studies to establish the field's efficacy evidence).
 
 - **Significant pre/post gains from mistake-based AI [[pedagogy]]:** [[pedagogy-ai-mistakes|Hosseini (2026)]]'s database design course (n=13) showed large, significant learning gains on identical pre/post items (mean 4.25→6.83/7, Cohen's *d*=1.49, *p*<.001), with gains uncorrelated with prior AI or database confidence — the AI-integrated critique-refinement design benefited students regardless of initial perceptions.
+- **Attribution bounds on national learning claims.** El Salvador's public AI-tutoring pilot reported reading, mathematics and science results comparable to the 2022 averages of Germany and Sweden for 171 schools. A bounded re-analysis recovers the national standard deviation from published PISA figures and shows that, if the programme had produced no learning at all, selection of only 5.5% of the mathematics distribution (11.7% in science, 17.2% in reading) would reproduce the [[benchmark]]; the pilot assessed 7.0 students per school against 25.4 in the national PISA 2025 sample. Taken at face value the result implies a gain of 1.29 international standard deviations, roughly 6.45 years of schooling in one year and about 3.5 times the largest documented tutoring effect. The result is stable under skewness and a 20% error in the standard deviation, and the authors ask for baseline and sampling protocol to accompany claims of this magnitude. ([[el-salvador-ai-tutoring-selection-bias-2026]])
+
 ## Connected Concepts
 
 - [[rct]]
@@ -137,7 +139,6 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs general AI
 - [[jost-llm-programming-education-learning-outcomes]] — LLM reliance and grades in coding (negative correlations)
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching (RCT)
-- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base on AI in K-12
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative math performance
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI-enhanced PBL scaffolding gains
