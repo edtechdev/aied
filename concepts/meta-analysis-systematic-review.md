@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-09-12T13:25:00-04:00"
+updated: "2026-09-14T06:00:00-04:00"
 type: concept
 tags: [meta-analysis-systematic-review, research-methods-aied, ai-education, ai-ed-evaluation]
 research_method: [meta-analysis, systematic review, research methods, literature review]
@@ -44,7 +44,7 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 - **Establish the evidence base** — determining whether AI tools (tutoring, feedback, assessment, [[conversational-ai|chatbots]]) produce [[learning-gains|learning gains]], and how large those gains are.
 - **Map the field and its gaps** — a scoping review documents what has been studied, where the evidence is concentrated, and where it is missing (e.g., workplace settings, non-English work, failure cases).([[ai-vocational-education-training-review]])
 - **Identify moderators and conditions** — meta-analysis tests whether effects differ by learner population, domain, AI system type, or study design, revealing for whom and under what conditions a tool works.
-- **Expose methodological quality** — reviews routinely find that the field relies on underpowered, pre-experimental, or quasi-experimental designs and immediate post-tests, tempering conclusions.([[ai-vocational-education-training-review]])([[zerkouk-comprehensive-review-its-2025]])
+- **Expose methodological quality** — reviews routinely find that the field relies on underpowered, pre-experimental, or quasi-experimental designs and immediate post-tests, tempering conclusions.([[ai-vocational-education-training-review]])([[zerkouk-comprehensive-review-its-2025]]) The appraisal can also cut the other way: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] scored all 59 of their included studies between 8 and 15 on a six-criterion rubric and excluded none on quality grounds, so a review may validate a field's study quality while locating its real limitation in heterogeneous focus and evaluation protocols rather than in weak design.
 
 ### Examples from the knowledge base
 
@@ -63,6 +63,7 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 - **[[alsheikh-mapping-ai-integration-higher-education-2026|Mapping review of AI integration in higher education (FACETS + SAMR)]]** — a PRISMA 2020 review screening 959 records down to 22 intervention studies, illustrating how a coding framework (FACETS: Form, AI use case, Context, Education focus, Technology, [[samr-model|SAMR]]) plus an evaluative lens (SAMR) maps a fragmented literature and grades depth of transformation. Most included studies sat at SAMR Substitution/Augmentation, showing mapping reviews can reveal an integration field that is broad but shallow — an alternative to effect pooling when the aim is describing a landscape rather than estimating an effect.
 - **[[teacher-intervention-k12-ai-based-instruction-2026|Systematic review of teacher intervention in K-12 AI-based instruction]]** — Lee (2026) screened 1,565 records down to 29 studies with two independent raters at every stage (κ = 0.655 screening, κ = 0.647 eligibility) and an MMAT quality appraisal that removed one study. It is an instructive example of synthesis that deliberately stops short of pooling: because the independent effect of teacher intervention could not be separated from AI system design, instructional structure and classroom context in most of the included studies, the review reports conditional outcomes and an explanatory framework of process, strategy and effect rather than an effect size — the same limitation that separates a review from a [[meta-analysis-systematic-review|meta-analysis]].
 - **[[agarwal-ethical-values-norms-aied-2026|Systematic review of ethical values and norms in AIED]]** — Agarwal and colleagues (2026) screened 736 records across Web of Science, ERIC, IEEE CSDL, and ACM DL (plus backward snowballing) down to 25 included articles, consolidating the fragmented [[ethics|AIED ethics]] literature into six main ethical values (non-discrimination, data stewardship, [[human-in-the-loop-ai|human oversight]], goodwill, explicability, educational aptness) and mapping ethical norms onto a stakeholder-by-value matrix. The review illustrates how a systematic protocol can synthesize a conceptually fragmented, largely non-empirical literature (only three of 25 articles were methodology papers or original research) and turn it into an actionable framework — here, a foundation for [[governance]] and [[educational-policy-ai|policy]].
+- **[[xia-ai-interdisciplinary-higher-education-review-2026|Systematic review of AI in interdisciplinary higher education]]** — Xia and colleagues (2026) ran a PRISMA-guided review reporting a complete screening funnel (2,950 records retrieved, 666 duplicates removed, 2,284 titles/abstracts screened, 308 full texts assessed, 59 included) across Web of Science, Scopus, ERIC, ProQuest and PsycINFO, with three coders piloting a framework on 20 articles and reaching an inter-coder reliability of 0.85. Unusually for this literature, a six-criterion quality appraisal scored every included study between 8 and 15 and excluded none on quality grounds — evidence that a review can document acceptable study quality while still registering the field's fragmentation, and a concrete illustration of the transparent audit trail the PRISMA discussion above describes.
 
 ### Interdisciplinary review of AI for dyslexia
 
@@ -83,7 +84,7 @@ Reviews of generative-AI interventions face a distinctive challenge that the kno
 **Limitations:**
 - **Garbage-in/garbage-out** — the synthesis is only as good as the quality of included studies; weak primary designs yield weak pooled conclusions
 - **Publication bias** — null or negative results are under-published, inflating pooled effects
-- **Heterogeneity** — varied designs, outcome measures, and AI systems make direct pooling hard and can undermine the meaning of a single effect size
+- **Heterogeneity** — varied designs, outcome measures, and [[ai-technologies|AI systems]] make direct pooling hard and can undermine the meaning of a single effect size
 - **Rapid obsolescence** — the AI tool landscape changes quickly, so reviews can date fast
 - **Scope constraints** — single-database or English-only searches may miss relevant work.([[ai-collaborative-learning-systematic-review]])([[ai-vocational-education-training-review]])
 
@@ -125,6 +126,7 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - [[simulation]]
 
 ## Connected Articles
+- [[xia-ai-interdisciplinary-higher-education-review-2026]] — Systematic review of AI in interdisciplinary higher education (59 studies)
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[nguyen-genai-global-south-review-2026]]
 - [[espino-ai-business-education-review-2026]]

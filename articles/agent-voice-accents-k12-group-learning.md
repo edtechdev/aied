@@ -9,7 +9,9 @@ audience: [learners, instructors]
 level: [k 12]
 sources: ['raw/papers/2606.12805.md']
 confidence: high
----Ravi et al. investigate how the voice accent of a [[generative-ai]] conversational peer agent shapes learners' perceptions, trust, and interactional dynamics in [[k-12]] group learning. While prior work examined agent accent effects in one-to-one settings, little is known about how these effects manifest in multi-party group contexts — a critical gap as [[intelligent-tutoring|AI peer agents]] enter collaborative classrooms.
+---
+
+Ravi et al. investigate how the voice accent of a [[generative-ai]] conversational peer agent shapes learners' perceptions, trust, and interactional dynamics in [[k-12]] group learning. While prior work examined agent accent effects in one-to-one settings, little is known about how these effects manifest in multi-party group contexts — a critical gap as [[intelligent-tutoring|AI peer agents]] enter collaborative classrooms.
 
 The between-subjects mixed-methods study involved 33 teachers interacting with a GenAI voice agent in three accent conditions — British, Indian, and African American. Key findings:
 

@@ -1,7 +1,7 @@
 ---
 title: Critical Pedagogy
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-09T09:05:09-04:00"
+updated: "2026-09-14T06:00:00-04:00"
 type: concept
 tags: [critical-pedagogy, equity-in-ai-education, critical-thinking, ai-literacy, agency, ethics, reducing-ai-misuse]
 confidence: high
@@ -15,7 +15,7 @@ confidence: high
 - Critical thinking asks 'is this reasoning sound?' Critical pedagogy asks 'who does this education benefit, and whose knowledge counts?' How are those two questions different, and when does one need the other?
 - Some scholars describe generative AI's spread into education as a form of 'colonization' that extracts data, labor, and resources from marginalized communities. Does that framing feel extreme, or does it name something real?
 - Critical AI literacy can include 'resisting AI' — refusing the inevitability of tech as a solution. In what situations might strategic refusal or non-use be a more responsible choice than adoption?
-- Who gets to decide what counts as authoritative knowledge? If AI systems are positioned as authoritative, what happens to learners' own lived and community epistemologies?
+- Who gets to decide what counts as authoritative knowledge? If [[ai-technologies|AI systems]] are positioned as authoritative, what happens to learners' own lived and community epistemologies?
 - Under critical pedagogy, a teacher is not a neutral transmitter of AI skills but a facilitator who helps learners interrogate the politics of AI. How comfortable are you with that role, and what would it ask of you?
 
 ## Introduction
@@ -31,10 +31,11 @@ Critical pedagogy is distinct from [[critical-thinking]]. Critical thinking is a
 - **Resisting AI as a critical literacy practice.** Critical AI Literacy (CAIL) can encompass "resisting AI" — a stance that refuses the inevitability and techsolutionism of dominant discourse, and instead cultivates collective [[agency]] through dialogic, [[collaborative-learning|collaborative]] pedagogies that imagine alternative futures.([[li-mroziak-reorienting-critical-ai-literacy]])
 - **Redistributing epistemic authority.** Community-based AI learning grounds AI [[student-engagement|engagement]] in learners' lived and community epistemologies, challenging the positioning of AI systems as authoritative knowledge sources.([[ojeda-ramirez-community-based-ai-learning]]) This involves epistemic fine-tuning, redistribution of authority, and [[situated-learning|situated]] discernment.
 - **Situated and cultural-historical ethics.** Critical approaches also argue that AI ethics in education must be *situated* — grounded in cultural-historical and ecological context rather than abstract principles.([[raffaghelli-situated-ai-ethics-2026]])
+- **Efficiency-first alignment discourse as an erasure of context.** [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] apply Fairclough's three-dimensional model to 14 pieces of grey literature (November 2022 – April 2025) advising higher-education practitioners to use [[generative-ai|generative AI]] for constructive alignment, and find a techno-solutionist discourse in which the tool is anthropomorphised as "an educational expert and assistant" and academic staff are positioned as supplying "subject matter expertise" while the system performs the pedagogical work. The analysis names the erasure of situated, disciplinary and critical context as one of three failure modes — alongside performativity (alignment that only looks aligned) and shallow alignment that conflates the constructive dimension with the aligned one — evidence that even advice about [[learning-design|course design]], ostensibly a neutral technical matter, carries the depoliticising logic critical pedagogues critique elsewhere.
 
 ### The role of the educator
 
-Under critical pedagogy, educators are not neutral transmitters of AI skills but critical interlocutors and facilitators who help learners interrogate the politics of AI. This connects to the knowledge base's [[teacher-role]] and [[ai-literacy]] concepts, and to the broader concern with [[equity-in-ai-education]] and [[reducing-ai-misuse]]. The educator's task is to cultivate spaces where communities can collectively question, appropriate, or refuse AI — keeping education a site of imagination and social transformation.
+Under critical pedagogy, educators are not neutral transmitters of AI skills but critical interlocutors and facilitators who help learners interrogate the politics of AI. This connects to the knowledge base's [[teacher-role]] and [[ai-literacy]] concepts, and to the broader concern with [[equity-in-ai-education]] and [[reducing-ai-misuse]]. The educator's task is to cultivate spaces where communities can collectively question, appropriate, or refuse AI — keeping education a site of imagination and social transformation. Read as discourse, the GenAI-for-alignment guidance that [[curriculum-design|curriculum]] developers receive exemplifies the educator role critical pedagogy warns against: [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] show prompt recipes and numbered templates positioning the educator as the supervisor of a more efficient automated worker, so the remedy is not refusal but re-sequencing — developing enough command of the alignment framework to interrogate, redirect and reject algorithmic output — alongside an institutionally bounded [[rag|retrieval-augmented]] agent whose authority is derivative and whose escalation to human judgement on accreditation and cross-programme questions is built in.
 
 ## Connected Concepts
 
@@ -52,6 +53,7 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 
 ## Connected Articles
 
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of techno-solutionist GenAI constructive-alignment advice
 - [[benali-genai-academic-writing-2026]]
 - [[avraamidou-ai-colonization-science-education]] — Critical, feminist critique of the "AI colonization" of science education
 - [[li-mroziak-reorienting-critical-ai-literacy]] — "Resisting AI" as a community-rooted praxis of critical AI literacy
