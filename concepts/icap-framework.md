@@ -1,8 +1,9 @@
 ---
 title: ICAP Framework
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-14T06:35:00-04:00"
 type: concept
+connected_faqs: [designing-ai-into-learning]
 tags: [cognitive-psychology, learning-theories, collaborative-learning, active-learning, learning-analytics, learning-design, educational-nlp]
 category: [instructional design]
 confidence: high

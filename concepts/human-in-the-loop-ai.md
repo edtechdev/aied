@@ -1,8 +1,8 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-14T06:00:00-04:00"
-connected_faqs: [ai-agents-support-students-instructors]
+updated: "2026-09-14T06:35:00-04:00"
+connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software]
 type: concept
 tags: [human-in-the-loop-ai, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
 research_method: [benchmark]

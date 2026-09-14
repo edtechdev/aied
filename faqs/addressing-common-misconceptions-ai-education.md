@@ -1,7 +1,7 @@
 ---
 title: "How Can We Address Common Misconceptions About AI in Education?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-09-04T04:39:00-04:00"
+updated: "2026-09-14T06:18:07-04:00"
 tags: [misconceptions, refutation-text, ai-literacy, cognitive-offloading, trust-calibration, academic-integrity, ai-detection, reducing-ai-misuse, teacher-role, teacher-ai-competency, pedagogical-safety, assessment-validity, feedback-literacy, prompt-engineering, governance, equity-in-ai-education]
 weight: 95
 ---
@@ -42,7 +42,7 @@ See [[misconceptions|Misconceptions about AI]], [[ai-sycophancy|AI Sycophancy]],
 
 **Answer:** Not necessarily. A good product shows what the **human–AI system** produced. It does not automatically show what you can explain, remember, adapt, or do independently.
 
-In one field experiment involving nearly 1,000 high-school [[math-education|mathematics]] students, unrestricted generative-AI access improved performance during assisted practice but reduced later unassisted exam performance. A guardrailed version that supplied hints rather than complete answers eliminated the observed learning harm. The lesson is not that all AI use damages learning. It is that **assisted performance and durable learning are different outcomes**.
+In one field experiment involving nearly 1,000 high-school [[math-education|mathematics]] students, unrestricted generative-AI access improved performance during assisted practice but reduced later unassisted exam performance. A guardrailed version that supplied hints rather than complete answers eliminated the observed [[ai-misuse-learning-harm|learning harm]]. The lesson is not that all AI use damages learning. It is that **assisted performance and durable learning are different outcomes**.
 
 After using AI, check whether you can:
 
@@ -123,9 +123,9 @@ Iteration may improve an answer, but repeated generation is not the same as veri
 * testing the response against evidence;
 * checking whether the answer remains valid when the problem changes.
 
-Prompting is a useful skill, but it does not remove the need for subject knowledge and critical judgment.
+Prompting is a useful skill, but it does not remove the need for subject knowledge and critical judgment. A [[brunnstrom-ai-interaction-literacy-srl-2026|demonstration of a naive student using a chatbot on a take-home examination question]] shows how much interaction good use actually takes: the default output stayed "polished but pedagogically thin" at the multistructural level of the SOLO taxonomy, and reaching a usable learning loop required eight rounds of meta-level intervention—signalling overload, requesting simplification, narrowing scope. The authors name the capacity this demands **AI-interaction literacy**—steering, evaluating, and learning from iterative interaction with generative AI—and note the equity sting: because unguided use imposes an interaction-management skill that is unevenly distributed, generative AI "may be most beneficial to already advantaged students."
 
-See [[misconceptions|Misconceptions about AI]] and [[prompt-engineering|Prompt Engineering]].
+See [[misconceptions|Misconceptions about AI]], [[prompt-engineering|Prompt Engineering]], and [[brunnstrom-ai-interaction-literacy-srl-2026|AI-interaction literacy]]. For the underlying self-[[regulation]] demands, see [[developing-ai-tutor|How Do We Develop an Effective AI Tutor?]].
 
 ---
 
@@ -135,7 +135,7 @@ See [[misconceptions|Misconceptions about AI]] and [[prompt-engineering|Prompt E
 
 Undetected outsourcing can still leave you unable to explain the work, answer follow-up questions, adapt it to a new problem, or perform when AI is unavailable. It can also create a growing gap between your grades and your actual capabilities.
 
-That gap may remain hidden until a later course, examination, internship, licensure process, or workplace task requires independent performance. Academic integrity is therefore not merely about avoiding punishment. It is also about ensuring that your credentials continue to represent what you can actually do.
+That gap may remain hidden until a later course, [[summative-assessment|examination]], internship, licensure process, or workplace task requires independent performance. Academic integrity is therefore not merely about avoiding punishment. It is also about ensuring that your credentials continue to represent what you can actually do.
 
 See [[academic-integrity|Academic Integrity]], [[assessment-validity|Assessment Validity]], and [[authentic-assessment|Authentic Assessment]].
 
@@ -240,7 +240,7 @@ See [[ai-feedback-quality|AI Feedback Quality]] and [[feedback-literacy|Feedback
 
 Educators also need to understand:
 
-* what AI systems can and cannot reliably do;
+* what [[ai-technologies|AI systems]] can and cannot reliably do;
 * how to evaluate output accuracy and bias;
 * how AI affects assessment validity;
 * when student offloading becomes learning displacement;
@@ -383,6 +383,8 @@ See [[governance|AI Governance]], [[educational-policy-ai|Educational AI Policy]
 
 Detection tools can produce false positives and false negatives, and their performance changes across models, languages, tasks, and editing practices. Proctoring may add privacy, accessibility, anxiety, and equity concerns without establishing what a student has learned.
 
+The evidence is now concrete enough to state numerically. A [[teichmann-detecting-undetectable-misconduct-2026|procedural-justice analysis]] reports that none of fourteen early detector tools reached 80% accuracy, that paraphrasing or light editing roughly halves already modest accuracy, and that detectors systematically misclassify non-native English writers because the features treated as AI signals also characterise competent second-language writing. In a covert field study, 94% of wholly AI-generated submissions injected into live online examinations across five psychology modules went undetected—and the AI work on average outscored real students. Vanderbilt University disabled its licensed detector after failing to validate an advertised 1% false-positive rate that implied roughly 750 mislabelled students among 75,000 annual submissions, redirecting staff toward transparent expectations and [[assessment|assessment redesign]].
+
 A more durable institutional strategy combines:
 
 * clearly explained expectations;
@@ -395,7 +397,7 @@ A more durable institutional strategy combines:
 
 The goal is not merely to detect assistance. It is to preserve the validity of educational judgments.
 
-See [[academic-integrity|Academic Integrity]], [[ai-detection|AI Detection]], and [[remote-proctoring|Remote Proctoring]].
+See [[academic-integrity|Academic Integrity]], [[ai-detection|AI Detection]], [[remote-proctoring|Remote Proctoring]], and [[teichmann-detecting-undetectable-misconduct-2026|undetectable misconduct]]. For the design response, see [[redesign-assessment-ai-era|How Should Assessment Be Redesigned for the AI Era?]] and [[reduce-ai-cheating|How Can We Reduce AI Cheating?]].
 
 ---
 
@@ -403,7 +405,7 @@ See [[academic-integrity|Academic Integrity]], [[ai-detection|AI Detection]], an
 
 **Answer:** Sometimes, but faculty readiness is broader than technical skill.
 
-Reluctance may reflect workload, professional identity, disciplinary values, concern about assessment validity, lack of institutional support, privacy uncertainty, or a reasoned judgment that a particular AI application does not serve students.
+Reluctance may reflect workload, [[learner-identity|professional identity]], disciplinary values, concern about assessment validity, lack of institutional support, privacy uncertainty, or a reasoned judgment that a particular AI application does not serve students.
 
 Faculty development should therefore address:
 
@@ -433,7 +435,7 @@ See [[educational-development|Educational Development]], [[teacher-ai-competency
 
 **Answer:** A system that solves a problem is not necessarily a system that teaches a learner.
 
-A technically correct answer may arrive too early, disclose too much, bypass [[desirable-difficulties|productive struggle]], or prevent the learner from practicing explanation and retrieval. A tutor should be evaluated by what it causes the student to **notice, attempt, explain, revise, and eventually do independently**.
+A technically correct answer may arrive too early, disclose too much, bypass [[desirable-difficulties|desirable difficulties]], or prevent the learner from practicing explanation and retrieval. A tutor should be evaluated by what it causes the student to **notice, attempt, explain, revise, and eventually do independently**.
 
 A pedagogically stronger tutor may:
 
@@ -500,14 +502,14 @@ A larger model may solve more difficult problems while still failing to:
 * select an appropriate instructional strategy;
 * recognize when to withhold an answer;
 * adapt to developmental level;
-* preserve productive struggle;
+* preserve [[productive-failure|productive failure]];
 * communicate uncertainty;
 * avoid inappropriate emotional influence;
 * align with the instructor’s learning objectives.
 
-Pedagogical behavior should be explicitly designed, grounded in [[learning-theories|learning theory]], tested across learner groups, and monitored during sustained use. Model selection matters, but the instructional design layer remains essential.
+Pedagogical behavior should be explicitly designed, grounded in [[learning-theories|learning theory]], tested across learner groups, and monitored during sustained use. Model selection matters, but the instructional design layer remains essential. A [[reichert-human-centered-llm-chatbot-design-teachers-2026|participatory design study with six secondary teachers]] suggests safety comes from scope and oversight rather than scale: the teachers independently designed "bounded experts"—specialized capability confined to a strictly defined domain under human supervision—drawing two boundary lines (authority boundaries, because responsibility for student learning and safety cannot be delegated, and expertise boundaries, because AI lacks contextual knowledge of individual students and classroom norms) and three protective layers (domain boundaries, content filtering with standardized refusals, and teacher override). They asked for full conversation logging and real-time alerts rather than better model explanations.
 
-See [[learning-design|Learning Design]], [[pedagogical-llm-training|Pedagogical LLM Training]], and [[pedagogical-safety|Pedagogical Safety]].
+See [[learning-design|Learning Design]], [[pedagogical-llm-training|Pedagogical LLM Training]], [[pedagogical-safety|Pedagogical Safety]], and [[reichert-human-centered-llm-chatbot-design-teachers-2026|bounded-expert chatbot design]].
 
 ---
 
@@ -644,9 +646,9 @@ A system can consistently measure the wrong construct, omit important dimensions
 * whether AI output changes human decisions;
 * appeal and review procedures.
 
-High agreement is one form of evidence. It is not a complete validity argument.
+High agreement is one form of evidence. It is not a complete validity argument. A [[opraise-automated-marking-ai-assessment-2026|large UK benchmark]] shows the dissociation directly: across 761 authentic undergraduate Psychology essays, AI and human marks agreed on the degree band only 35–65% of the time (63% at one institution, 53% at a second, 35% at a third), while reliability was near-perfect (re-scoring intra-class correlations up to 1.00). The systems agreed with each other far more closely than with humans (three-model ICC = 0.91), concurring on the band for only 56% of submissions when all three models had to agree, and marks were compressed toward the middle (compression score 0.47–0.82)—so AI was least accurate exactly at the boundaries separating a First from an Upper Second or a pass from a fail. AI feedback was also three to eight times longer than the human average of 100–200 words: volume is not quality.
 
-See [[assessment-validity|Assessment Validity]], [[educational-measurement|Educational Measurement]], and [[automated-assessment|Automated Assessment]].
+See [[assessment-validity|Assessment Validity]], [[educational-measurement|Educational Measurement]], [[automated-assessment|Automated Assessment]], and [[opraise-automated-marking-ai-assessment-2026|automated marking of university essays]].
 
 ---
 
