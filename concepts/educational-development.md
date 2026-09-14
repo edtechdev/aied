@@ -1,7 +1,7 @@
 ---
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-13T10:14:50-04:00"
+updated: "2026-09-14T06:00:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design]
@@ -11,7 +11,7 @@ category: [instructional design, curriculum design]
 confidence: high
 ---
 
-> **Educational Development** (also known as *faculty development*) — the processes, programs, and [[governance|institutional]] supports that help educators develop the skills, confidence, and professional identity to teach effectively with AI. Educational development spans individual training, [[curriculum-design|curriculum]] redesign, institutional policy change, and the cultural work of making sense of what GenAI means for the academic profession.
+> **Educational Development** (also known as *faculty development*) — the processes, programs, and institutional supports that help educators develop the skills, confidence, and [[learner-identity|professional identity]] to teach effectively with AI. Educational development spans individual training, [[curriculum-design|curriculum]] redesign, [[educational-policy-ai|institutional policy]] change, and the cultural work of making sense of what GenAI means for the academic profession.
 
 ## Questions to Consider
 
@@ -23,7 +23,7 @@ confidence: high
 
 ## Introduction
 
-Educational development is the professional and institutional work through which faculty build the capability to design, teach and assess well — and in the AI era it has become a precondition for any pedagogical change to take effect. The concept spans the individual (AI literacy, confidence, [[teacher-ai-competency|competency]], attitudes) and the institutional (standards, policy, quality assurance, and alignment between stated AI expectations and actual assessment design). A recurring finding across this knowledge base is that the evidence for effective practice substantially leads what most institutions have implemented, which makes development work — not more primary research — the binding constraint.
+Educational development is the professional and institutional work through which faculty build the capability to design, teach and assess well — and in the AI era it has become a precondition for any pedagogical change to take effect. The concept spans the individual ([[ai-literacy|AI literacy]], confidence, [[teacher-ai-competency|competency]], attitudes) and the institutional (standards, policy, quality assurance, and alignment between stated AI expectations and actual assessment design). A recurring finding across this knowledge base is that the evidence for effective practice substantially leads what most institutions have implemented, which makes development work — not more primary research — the binding constraint.
 
 ## Educational development in the AI era
 
@@ -33,6 +33,7 @@ Educational development is the professional and institutional work through which
 - **Curriculum integration:** [[institutional-change-framework-ai|Institutional change frameworks]] and [[ai-assessment-scale-reform|assessment reform]] require faculty to redesign courses, not just add AI tools.
 - **Training programs:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-tpack-preservice-math-teachers|TPACK-based preservice training]] provide models for structured faculty [[ai-education|AI education]].
 - **Governance and policy:** [[genai-policies-higher-ed-computing|Institutional AI policy analysis]] documents the gap between institutional ambitions and faculty support capacity.
+- **Alignment advice as an object of scrutiny:** [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al.]] analysed 14 pieces of grey literature (November 2022 – April 2025) advising staff on GenAI for constructive alignment and found the guidance dominated by first-person efficiency claims and copy-and-paste prompt recipes, with educational developers recast as technology trainers helping faculty "acquire fluency".
 
 ### Metaphors and shared language in educational development
 
@@ -46,13 +47,13 @@ A threshold-informed view reframes GenAI integration as an **ontological transfo
 
 On this account, faculty asking "what's the point of teaching in a GenAI world?" are not deficient in competence; they are in a **liminal threshold-crossing phase** where anxiety, resistance, and confusion are necessary parts of transformation, not obstacles to eliminate. Skills-based training that answers a competence question faculty are not asking can become peripheral to the real transformation, and well-intended governance can lapse into an "enforcement illusion" — communicating rules rather than supporting change.([[laidlaw-genai-identity-crisis-faculty-2026]])
 
-**Design implication:** complement (don't replace) skill building with **identity-supporting practices** — open sessions with identity questions rather than technical demos, run ongoing [[discipline-specific-aied|discipline-specific]] cohorts where faculty explore what GenAI means for their field's purpose, create peer-mentoring structures that honor different transformation timelines, and distinguish fear-based hesitation (which benefits from support) from principled non-adoption grounded in legitimate disciplinary values (which deserves respect).([[laidlaw-genai-identity-crisis-faculty-2026]]) The metaphor-workshop model above is one concrete instantiation of this: rather than starting from technical upskilling, it opens with the interpretive, identity-laden question of what GenAI means to participants.
+**Design implication:** complement (don't replace) skill building with **identity-supporting practices** — open sessions with identity questions rather than technical demos, run ongoing [[discipline-specific-aied|discipline-specific]] cohorts where faculty explore what GenAI means for their field's purpose, create peer-mentoring structures that honor different transformation timelines, and distinguish fear-based hesitation (which benefits from support) from principled non-adoption grounded in legitimate disciplinary values (which deserves respect).([[laidlaw-genai-identity-crisis-faculty-2026]]) The metaphor-workshop model above is one concrete instantiation of this: rather than starting from technical [[lifelong-learning|upskilling]], it opens with the interpretive, identity-laden question of what GenAI means to participants.
 
 **Empirical support for the identity-work framing.** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] provide direct [[qualitative-research|qualitative]] evidence for this account: 24 Swedish university teachers described GAI's emergence as alarming and overwhelming, reporting a "state of vulnerability" (low confidence, insecurity, fear of "not being ahead of students") and feeling "stuck" between utopian and dystopian discourses. Their limited knowledge and experience, alongside feelings of vulnerability, highlight teachers' lack of readiness to navigate, assess, and adopt GAI — and the authors argue institutions must provide **designated spaces and time** for teachers to experiment with GAI, exchange ideas, and collaboratively develop practices and guidelines at institutional, departmental, and course levels. This grounds the identity-work and support-oriented approach in teachers' own reported experience rather than only in theory.
 
 ### Practical guidance for program designers
 
-For faculty developers, academic leaders, and instructional designers planning AI [[professional-training|professional development]], the knowledge base's evidence suggests:
+For faculty developers, academic leaders, and [[stakeholders|instructional designers]] planning AI [[professional-training|professional development]], the knowledge base's evidence suggests:
 
 **Address the four adoption drivers, not just knowledge.** Confidence, attitudes, support, and concerns predict whether faculty actually adopt AI — a knowledge-only workshop that ignores these is unlikely to change practice. Design development to build confidence through hands-on use, provide ongoing support (not one-shot training), and actively surface and respond to faculty concerns.([[teacher-ai-adoption-confidence]])
 
@@ -60,11 +61,13 @@ For faculty developers, academic leaders, and instructional designers planning A
 
 **Build toward curriculum redesign, not tool adoption.** The goal is faculty redesigning courses and assessment, not just adding AI tools. Ground professional development in course-level redesign work and assessment reform, and give faculty structured frameworks for doing so (e.g. [[ai-assessment-scale-reform|assessment scales]], [[institutional-change-framework-ai|institutional change frameworks]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
-**Anchor in a competency framework.** Use a structured model like [[tpack]] ([[ai-tpack-preservice-math-teachers|TPACK-based training]]) or an AI upskilling ladder ([[crewscaler-ai-upskilling-framework|AI upskilling frameworks]]) so that development is sequenced and measurable rather than ad-hoc, and so faculty can see their own progression toward [[teacher-ai-competency]]. Development should also build **pedagogical prompt literacy** — the capacity to encode pedagogical intentions into prompts — since [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] finds it is pedagogical expertise, not AI fluency, that determines the quality of teachers' AI-assisted design work.([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
+**Anchor in a competency framework.** Use a structured model like [[tpack]] ([[ai-tpack-preservice-math-teachers|TPACK-based training]]) or an AI upskilling ladder ([[crewscaler-ai-upskilling-framework|AI upskilling frameworks]]) so that development is sequenced and measurable rather than ad-hoc, and so faculty can see their own progression toward [[teacher-ai-competency]]. Development should also build **pedagogical [[prompt-engineering|prompt literacy]]** — the capacity to encode pedagogical intentions into prompts — since [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] finds it is pedagogical expertise, not AI fluency, that determines the quality of teachers' AI-assisted design work.([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
+
+**Sequence understanding before automation.** A [[qualitative-research|critical discourse analysis]] of 14 pieces of grey literature published between November 2022 and April 2025 advising practitioners on generative AI for constructive alignment finds that capability must precede tool access: because quality of engagement precedes quality of understanding in a [[constructivist]] framework, risk scales inversely with familiarity, and novices are the most exposed to plausibility-driven acceptance of plausible-looking but pedagogically thin outputs. [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] further argue that development units should resist a technicist brief — helping faculty "acquire fluency" in tools that do "the heavy lifting" of [[learning-design|course design]] — because that framing shuts developers out of a closed educator–GenAI loop and recasts values-led, relational development as a mediating mechanism for software adoption. The defensible alternative keeps educational developers as curators and rule-setters of any institutionally bounded [[rag|retrieval-augmented]] alignment assistant that poses probing questions, flags under- and over-assessment and generates alternatives but never finished artefacts, with escalation to human judgement on accreditation and cross-programme matters treated as a feature rather than an exception.
 
 **Surface and address fears and mental models.** Before redesigning teaching, use a metaphor-analysis workshop ([[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey 2025]]) to surface a team's assumptions and anxieties about GenAI — including the fear that it will replace teaching roles — and build development that responds to them rather than ignoring them.([[fear-awe-genai-metaphor-workshops-2025]])
 
-**Model AI literacy and measure real gains.** Faculty development should itself embody the practices being taught — using AI pedagogically, evaluating outputs critically — and should assess demonstrated competence rather than self-reported confidence, since self-perception reliably overestimates AI skill.([[ai-literacy-assessment-misalignment]])([[genai-pd-ai-pck-learning-gain-2026]])
+**Model AI literacy and measure real gains.** Faculty development should itself embody the practices being taught — using AI pedagogically, evaluating outputs critically — and should assess demonstrated competence rather than [[self-report-measures|self-reported]] confidence, since self-perception reliably overestimates AI skill.([[ai-literacy-assessment-misalignment]])([[genai-pd-ai-pck-learning-gain-2026]])
 
 **Do not assume subject-matter expertise carries over to GenAI.** [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo, Chowdhury & Liu (2026)]] surveyed 127 U.S. research-university faculty using the [[tpack|TPACK-21]] instrument and found content knowledge (CK) showed **no significant correlation** with technological knowledge or any technology-integrated domain (r = .11–.15, ns) — disciplinary expertise did not predict GenAI-integration knowledge. The technology-integrated domains (TPK, TCK, TPACK) inter-correlated so strongly (r = .81–.91) that they may function as a single GenAI-integration factor. Practically: build GenAI integration through **discipline-specific** activities that connect GenAI affordances to each faculty member's subject matter, and treat the technology-integrated domains as one shared GenAI-literacy foundation rather than train them as separate skills.([[sutedjo-faculty-genai-tpack-21-2026]])
 
@@ -85,6 +88,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI alignment advice: developers recast as technology trainers
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views
 - [[alharbi-ethical-genai-eap-2026]]

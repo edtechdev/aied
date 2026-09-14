@@ -328,6 +328,35 @@ REJECT_PAIRS = {
     ('active engagement', 'student-engagement'),
     ('situated', 'situated-learning'),               # adjectival: "identity is situated"
     ('framing ai', 'framing-ai-use-for-students'),   # teacher framing AI, not guidance design
+    # --- 2026-09-14, batch of AJET/Q1 articles: false positives found in the
+    # inline-link pass and hand-reverted on the pages (add one entry per revert) ---
+    ('institutional', 'governance'),                 # "institutional vacuum/culture/guidance"
+    ('mediation', 'sociocultural-learning'),         # statistical/boundary mediation
+    ('affective', 'affective-computing'),            # affect as a dimension, not the subfield
+    ('domain-specific', 'discipline-specific-aied'), # adjective, not the discipline page
+    ('cognitive load', 'cognitive-offloading'),      # CLT construct, not offloading
+    ('assessment literacy', 'assessment-validity'),  # literacy, not validity evidence
+    ('assessment literacy', 'evaluative-judgement'), # literacy, not the judgement construct
+    ('adoption', 'technology-acceptance-model'),     # bare uptake, not the model family
+    ('practice', 'teacher-role'),                    # "their future practice"
+    ('inclusion', 'inclusive-learning'),             # inclusion/exclusion criteria
+    ('learning outcomes', 'learning-gains'),         # ILO construct, not measured gains
+    ('authorship', 'academic-integrity'),            # authorship as attribution, not misconduct
+    ('science', 'science-education'),                # bare "science" as a domain word
+    ('deep learning', 'machine-learning'),           # deep learning as a model class, not ML page
+    ('predictive modeling', 'machine-learning'),
+    ('safety', 'pedagogical-safety'),
+    ('dashboard design', 'learning-design'),
+    ('gaming', 'game-based-learning'),               # cultural references, not games in teaching
+    ('interdisciplinary education', 'discipline-specific-aied'),
+    ('teacher agency', 'teacher-role'),
+    ('proctoring', 'academic-integrity'),
+    ('construct-equivalent', 'authentic-assessment'),
+    ('cognitive science', 'cognitive-psychology'),
+    ('fading', 'scaffolding'),
+    ('socio-technical lens', 'sociocultural-learning'),
+    ('programme-wide assessment redesign', 'governance'),
+    ('fairness', 'bias-mitigation'),
 }
 
 def load_registry_aliases(wiki):
