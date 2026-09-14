@@ -34,7 +34,7 @@ Natural language processing in education applies computational methods to the la
 
 ### Connection to tutoring and measurement
 
-Educational NLP underpins both the analysis of learner language ([[student-modeling]], [[knowledge-tracing]]) and the generation of adaptive instructional content ([[intelligent-tutoring]], [[scaffolding]]). [[ai-generated-interactive-fiction-education-2026]] demonstrates NLP-driven content generation for learning, while [[zerkouk-comprehensive-review-its-2025]] situates NLP within the broader [[intelligent-tutoring]] landscape. As LLM-based analysis grows, [[rct]] and [[research-methods-aied]] frameworks matter for validating that NLP-derived insights genuinely improve learning. Question classification is also a monitoring signal rather than a mere label: [[lee-learner-question-types-ai-education-2026|Lee, Atif & Kang (2026)]] propose an LMS-embedded feedback loop in which classified question types feed individualised prompts for students and aggregated topic-gap insight for [[curriculum-design|curriculum design]], closing the gap between language analysis and instructional action.
+Educational NLP underpins both the analysis of learner language ([[student-modeling]], [[knowledge-tracing]]) and the generation of adaptive instructional content ([[intelligent-tutoring]], [[scaffolding]]). [[ai-generated-interactive-fiction-education-2026]] demonstrates NLP-driven content generation for learning, while [[zerkouk-comprehensive-review-its-2025]] situates NLP within the broader [[intelligent-tutoring]] landscape. As LLM-based analysis grows, [[rct]] and [[research-methods-aied]] frameworks matter for validating that NLP-derived insights genuinely improve learning. 
 
 ## Connected Concepts
 

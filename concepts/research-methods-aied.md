@@ -54,7 +54,7 @@ Interviews, focus groups, and thematic analysis produce rich, contextual account
 
 - **Strengths:** deep ecological and conceptual insight; surfaces unexpected phenomena, risks, and mechanisms; essential for theory-building and for studying contested constructs like trust, [[agency|autonomy]], and authorship.
 - **Limitations:** limited generalizability; interpretive and researcher-dependent; small samples; weaker support for causal claims; findings can be hard to synthesize across studies.
-- **Exemplars:** [[ai-tutor-safety-harms]], [[ai-changing-teaching-workflows]], , [[scaffolding-critical-engagement-genai-minority-students]].
+- **Exemplars:** [[ai-tutor-safety-harms]], [[ai-changing-teaching-workflows]], [[scaffolding-critical-engagement-genai-minority-students]].
 
 ### Mixed-methods designs
 
@@ -87,7 +87,7 @@ See the dedicated [[meta-analysis-systematic-review]] concept page for a fuller 
 
 ### Computational and benchmark evaluation
 
-Computational evaluation assesses [[ai-technologies|AI systems]] directly — against benchmarks, ground-truth labels, or human judgments — rather than studying human learners. This includes [[benchmark|benchmarks]], [[cong-confidence-asag-2026|grading accuracy]], [[teachbench-llm-teaching-evaluation|teaching-ability evaluation]], and [[llm]]-as-judge approaches. This is the closest method to [[ai-ed-evaluation]] (see the distinction below).
+Computational evaluation assesses [[ai-technologies|AI systems]] directly — against benchmarks, ground-truth labels, or human judgments — rather than studying human learners. This includes [[benchmark|benchmarks]], [[llm]]-as-judge approaches. This is the closest method to [[ai-ed-evaluation]] (see the distinction below).
 
 - **Strengths:** fast, scalable, reproducible; enables head-to-head comparison of models and system versions; essential for system development and quality assurance.
 - **Limitations:** measures system output, not learning — high benchmark accuracy does not entail educational effectiveness; ground-truth and rubric quality are themselves contested; can miss pedagogical quality that humans perceive. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] argue that LLMs' natural-language flexibility makes purely technical metrics insufficient, requiring human-inspired evaluation approaches — [[simulating-students|simulated students]], AI-[[teacher-role|teacher]] tests, and behavioral-science analyses previously reserved for human subjects — to judge learning-relevant quality, and that studying LLMs cautiously can generate insight into human learning.
@@ -104,7 +104,7 @@ The Delphi method is a structured technique for establishing **expert consensus*
 
 - **Strengths:** produces consensus from a diverse expert panel without in-person group pressures (anonymity reduces dominance effects); well-suited to defining constructs, competencies, and frameworks when no validated measure exists; iterative rounds let experts refine and converge; feasible where full experiments or large samples are impractical.
 - **Limitations:** consensus reflects expert judgment, not empirical evidence — it establishes agreement, not effect; results depend on panel [[writing-education|composition]] and the (subjective) consensus threshold; can be slow across multiple rounds; a single panel's judgement may not generalize.
-- **Exemplars:** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|the SAIL framework study]] (three rounds, 17 experts, refining AI-literacy competency levels), [[hcap-human-centric-ai-pedagogy-framework-2026|the HCAP framework study]] (three rounds, 30 teachers, defining 25 AI-teacher competencies), [[ai-literacy-heptagon-2026|the AI Literacy Heptagon]] (which used expert input/consensus alongside a PRISMA-guided review), and .
+- **Exemplars:** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|the SAIL framework study]] (three rounds, 17 experts, refining AI-literacy competency levels), [[hcap-human-centric-ai-pedagogy-framework-2026|the HCAP framework study]] (three rounds, 30 teachers, defining 25 AI-teacher competencies), [[ai-literacy-heptagon-2026|the AI Literacy Heptagon]] (which used expert input/consensus alongside a PRISMA-guided review), and.
 
 Delphi is often combined with other methods — for example, expert consensus can be used to validate a framework (as in SAIL and HCAP) that is then tested or implemented via design-based research or survey studies. It sits alongside qualitative and expert-judgment approaches and contributes to the [[educational-measurement|validity]] of framework-based instruments.
 

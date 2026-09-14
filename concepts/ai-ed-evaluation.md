@@ -34,11 +34,7 @@ AI-ed evaluation spans several distinct objects of assessment. It can evaluate t
 
 - **Automated grading and scoring:** [[cong-confidence-asag-2026|LLM short-answer grading]], [[cong-confidence-asag-2026|confidence-aware ASAG]], [[cotal-formative-assessment-scoring-2026|CoTAL human-in-the-loop prompt engineering]], and [[llm-cognitive-diagnosis-handwritten-math|cognitive-diagnosis of handwritten math]] show that LLMs can grade and diagnose, but that reliability depends on [[human-in-the-loop-ai|human oversight]], domain-specific grounding, and confidence calibration rather than raw model size.
 
-- **Benchmarking and domain specificity:** [[teachbench-llm-teaching-evaluation|TeachBench]] evaluates LLM teaching ability, [[jeon-isd-agent-bench-2026|ISD Agent Benchmark]] evaluates agentic instructional-design agents, [[drawedumath-vlm-struggling-students-2026|educational VLM evaluation]] assesses [[multimodal]] models, and [[tool-invariant-framework-agentic-ai|a tool-invariant framework]] assesses computational-method competency. These share a warning: generic benchmarks mislead, and evaluation must be tailored to the specific educational task and context.
-
 - **Pedagogical quality and alignment:** [[machines-misread-pedagogical-quality|Why machines misread pedagogical quality]] documents human–machine misalignment in judging what makes instruction good, and [[tutoring-effectiveness-index|the Tutoring Effectiveness Index]] predicts tutor quality from teaching behavior. [[responsible-assessment-ai-era-stanford-2026|Responsible assessment in the AI era]] and [[authentic-products-authenticated-processes-2026|authenticated processes]] argue that evaluation must reach beyond correct answers to whether assessment remains authentic, valid, and defensible when AI can produce the "products" of learning.
-
-- **Evaluating learning outcomes and agents:** [[zerkouk-comprehensive-review-its-2025|the ITS systematic review]], [[llm-difficulty-calibration-programming-exams-2026|LLM-difficulty calibration]], [[socratic-tests-conversational-assessment|Socratic conversational tests]], and [[valid-student-simulation-llm-2026|valid student simulation]] broaden evaluation to [[learning-gains|learning gains]], test validity, and whether [[simulating-students|simulated students]] are a valid proxy for real learners.
 
 ### Why evaluation is hard in AI-ed
 
