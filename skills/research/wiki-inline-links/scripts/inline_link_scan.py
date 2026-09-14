@@ -357,6 +357,13 @@ REJECT_PAIRS = {
     ('socio-technical lens', 'sociocultural-learning'),
     ('programme-wide assessment redesign', 'governance'),
     ('fairness', 'bias-mitigation'),
+    ('curricular', 'curriculum-design'),             # "co-curricular STEM program", "curricular assumptions"
+    ('plagiarism-detection', 'academic-integrity'),  # surveillance/detection, not academic misconduct policy
+    ('cognitive work', 'cognitive-offloading'),      # "divide cognitive work", not offloading
+    ('policy research', 'research-methods-aied'),    # the field of policy research, not method guidance
+    ('teacher preparation', 'teacher-role'),         # preparation programmes, not the role page
+    ('teacher-facing', 'teacher-role'),              # adjectival: "teacher-facing interactions"
+    ('baseline prompt', 'prompt-engineering'),       # a task prompt, not a prompting technique
 }
 
 def load_registry_aliases(wiki):

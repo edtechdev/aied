@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Safety
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-03T09:00:00-04:00"
+updated: "2026-09-14T06:30:00-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor]
 type: concept
 tags: [hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading]
@@ -14,10 +14,10 @@ confidence: high
 
 ## Questions to Consider
 
-- Safety for chatbots usually means refusing harmful content and resisting jailbreaks. Why might that be 'necessary but not sufficient' for an educational tutor? Can a tutor be safe yet still harm learning?
+- Safety for [[conversational-ai|chatbots]] usually means refusing harmful content and resisting jailbreaks. Why might that be 'necessary but not sufficient' for an educational tutor? Can a tutor be safe yet still harm learning?
 - The page describes a 'quiet' failure: a tutor that answers correctly yet erodes learning, or refuses evenly yet entrenches inequality. Have you seen a well-intentioned guardrail have an unequal or harmful side effect?
 - Harm rates rose from ~18% on single-turn evaluations to ~78% on multi-turn ones. What does that tell you about testing AI tutors with one-shot questions versus real extended conversations?
-- The 'Paternalistic Filter' audit found refusals and softened answers patterned by student identity. How might over-cautious safety policies reproduce epistemic injustice even while 'protecting'?
+- The 'Paternalistic Filter' audit found refusals and softened answers patterned by [[learner-identity|student identity]]. How might over-cautious safety policies reproduce epistemic injustice even while 'protecting'?
 - If simulated students are themselves sycophantic—abandoning their assigned misconceptions at any correction—what might that hide about how real learners actually respond to a tutor?
 
 ## Introduction
@@ -28,6 +28,7 @@ Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and cont
 
 - **Education-specific risk frameworks:** [[eduzone-llm-safety-k12|EduZone]] generates adversarial student- and teacher-facing interactions across six risk categories and 28 subcategories, finding that models are *more* vulnerable to education-specific harms and dynamic multi-turn conversations than existing [[guardrails]] address. [[eduguard-safe-rag-llm-tutor|EduGuard]] and [[rag|retrieval-augmented generation]] ground responses in verified content to reduce fabrication.
 - **Guardrails are not neutral:** the [[paternalistic-filter-llm-history-education|Paternalistic Filter]] audit of 1,800 history-tutor responses shows refusals and softened answers are patterned by student identity and topic sensitivity, reproducing epistemic injustice even while "protecting." Safe guardrails must be audited for differential treatment, not just aggregate harm — a direct case for [[bias-mitigation]] in [[governance]] and [[equity-in-ai-education]].
+- **Teachers design their own safety architecture, not just consume it:** [[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert et al. (2026)]] asked six secondary teachers to paper-prototype LLM chatbots for their classrooms and found they independently built a three-layer protective architecture rather than relying on model-level moderation. Domain boundaries confined the bot to lesson-specific content (one to Emperor Qin Shi Huang within an ancient China unit, another to Python variables, data structures, and functions) and added an "information quota" requiring a minimum number of facts or problems before the conversation progressed. Content filtering produced standardised refusals — "Sorry, this is not part of my knowledge base" — that simultaneously alerted the teacher. Teacher override handled ambiguous cases: a question about human reproduction was judged legitimate within its unit and routed to a person rather than auto-rejected. Teachers further preferred *behavioural* transparency (visible limits, uncertainty cues such as "Is the visual aid helpful?") over algorithmic explanation, and wanted complete conversation logs with real-time alerts so generated content could be checked for accuracy and student use supervised. A safety layer teachers can see, understand, and override is part of the mechanism, not a concession from it.
 - **Model-level content controls:** the [[llm-unlearning-math-privacy|math-unlearning]] work applies gradient-based unlearning to strip personally identifying information and harmful content from math tutors (PII output down to 0.1%, toxic rates to 0.0%) while preserving downstream math utility and [[privacy]]. [[llm-children-reading-story-generation|Children's reading-story generation]] shows supervised fine-tuning of compact models can enforce controllable difficulty and safety for [[k-12]] content.
 
 ### Interaction and harm taxonomies
@@ -39,16 +40,17 @@ Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and cont
 ### RL and alignment approaches to safety
 
 - [[pedagogical-safety-rl|Pedagogical safety in RL]] formalizes the problem: as [[reinforcement-learning]] personalizes instruction, poorly specified rewards invite "reward hacking" — test-score inflation, [[student-engagement|engagement]] gaming, and short-term gains. It proposes a four-layer model (structural, progress, engagement, outcome) and detection via discrepancy auditing, policy inversion, and long-term tracking.
-- [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses DAPO RL plus synthetic SFT to train 32B open models that prioritize guided learning over answer-giving, targeting the [[misconceptions|correct-answer trap]]; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] aligns post-training to a tutor-strategy taxonomy via GRPO so models scaffold rather than merely respond. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] extends this to [[medical-education|clinical]] training, aligning rewards to safety and reducing missed red-flag rates by 31% — evidence that [[pedagogical-llm-training|pedagogical LLM training]] can bake safety into behavior.
+- [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses DAPO RL plus synthetic SFT to train 32B [[open-source|open models]] that prioritize guided learning over answer-giving, targeting the [[misconceptions|correct-answer trap]]; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] aligns post-training to a tutor-strategy taxonomy via GRPO so models scaffold rather than merely respond. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] extends this to [[medical-education|clinical]] training, aligning rewards to safety and reducing missed red-flag rates by 31% — evidence that [[pedagogical-llm-training|pedagogical LLM training]] can bake safety into behavior.
 
 ### Sycophancy and manipulation risks
 
 - [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] identifies a reasoning–[[ai-sycophancy|sycophancy]] paradox: tutors that resist context-switch attacks still capitulate under authority pressure ("my notes say I'm right") and social-[[affective-computing|affective]] pressure ("don't tell me I'm wrong"), withholding corrective feedback. It argues "kind-but-correct" behavior is a safety requirement, and that effective tutoring needs corrective friction to drive conceptual change — otherwise [[cognitive-offloading|over-reliance]] is reinforced and misconceptions are validated.
-- [[favero-critical-ai-tutors-empower-enslave-2025|Critical AI Tutors]] warns that unchecked tutors cause cognitive atrophy, loss of agency, and dependency, reframing pedagogical safety to ask not just what a tutor does but what kind of learner it produces. [[sec-ai-literacy-narrative-review-2026|SEC-and-AI-literacy]] adds that technical proficiency alone is insufficient; [[ai-literacy]] and [[social-emotional-learning]] must be integrated so students can navigate AI-mediated learning with [[ethics|ethical]] and relational awareness.
+- [[favero-critical-ai-tutors-empower-enslave-2025|Critical AI Tutors]] warns that unchecked tutors cause cognitive atrophy, loss of agency, and dependency, reframing pedagogical safety to ask not just what a tutor does but what kind of learner it produces. [[sec-ai-literacy-narrative-review-2026|SEC-and-AI-literacy]] adds that technical proficiency alone is insufficient; [[ai-literacy]] and [[social-emotional-learning]] must be integrated so students can navigate AI-[[sociocultural-learning|mediated learning]] with [[ethics|ethical]] and relational awareness.
 
 ### Practical guidance
 
 Design pedagogical safety as a measurable, discipline-aware requirement rather than an afterthought. Evaluate with multi-turn, [[discipline-specific-aied|subject-specific]] [[benchmark|benchmarks]] and unfair-treatment audits, not single-turn toxicity screens; ground responses with [[rag|RAG]]; prefer [[pedagogical-llm-training|alignment methods]] that reward guidance and scaffolding over answer-giving; and require [[human-in-the-loop-ai|teacher-in-the-loop]] QA before deployment. For [[k-12]] especially, treat [[ai-sycophancy|sycophancy]], differential refusal, and [[cognitive-offloading|over-reliance]] as first-class safety concerns alongside content and [[hallucination-risk|hallucination]]. Design frameworks make this concrete: [[ssail-safe-sound-ai-learning-2026|SSAIL]] (Rahimi, 2026) reframes safety around the learner's own competencies — Learning Safety protects the development, maintenance, and valid demonstration of valued human abilities (reasoning, epistemic dispositions, [[agency]]) from foreseeable harm, while Learning Soundness ensures the tool genuinely supports that development — and operationalizes both through evidence-centered design by deliberately allocating what the learner must do versus what AI may do as the learner develops.
+ Teacher-facing scoping is also a safety control in its own right: in the [[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert et al. (2026)]] study every participant, regardless of subject, made lesson-content restriction the first requirement, treating domain boundaries as an instructional need (avoiding distraction, overwhelm, and access to unrelated or inappropriate material) rather than only a [[hallucination-risk|hallucination]] patch.
 
 ### Connections to related concepts
 
@@ -85,6 +87,7 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[social-emotional-learning]]
 
 ## Connected Articles
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teacher-designed safety layers: domain boundaries, filtering, and override
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 

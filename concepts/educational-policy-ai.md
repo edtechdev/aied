@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-13T10:14:50-04:00"
+updated: "2026-09-14T06:30:00-04:00"
 type: concept
 tags: [regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics]
 audience: [administrators, instructors, faculty development]
@@ -10,7 +10,7 @@ confidence: high
 
 ---
 
-> **Educational AI policy** — the formal and informal rules governing AI use in educational institutions, from national legislation to classroom guidelines. Policy [[research-methods-aied|research]] in the knowledge base spans institutional governance, [[curriculum-design|curriculum]] mandates, and teacher preparation requirements.
+> **Educational AI policy** — the formal and informal rules governing AI use in educational institutions, from national legislation to classroom guidelines. Policy research in the knowledge base spans institutional governance, [[curriculum-design|curriculum]] mandates, and teacher preparation requirements.
 
 ## Questions to Consider
 
@@ -22,13 +22,13 @@ confidence: high
 
 ## Introduction
 
-- **[[crompton-governing-genai-higher-ed-delphi-2026|Crompton et al.]]** global Delphi converges on policy and practice principles for governing generative AI in higher education.
+- **[[crompton-governing-genai-higher-ed-delphi-2026|Crompton et al.]]** global Delphi converges on policy and practice principles for governing generative AI in [[higher-ed|higher education]].
 
 ## Policy levels
 
 - **Institutional policy:** [[genai-policies-higher-ed-computing|Institutional policy analysis]] compares how universities develop AI policies. [[institutional-change-framework-ai|Institutional change frameworks]] provide models for policy development.
 - **Government policy:**  and [[ai-lifelong-learning-policy|lifelong learning policy]] examine regulatory approaches at national and regional levels. A critical, infra-level view of AI in government policy-making is [[perrotta-zero-shot-governance-2026|Perrotta (2026)]], whose analysis of the UK Redbox civil-service [[llm]] prototype shows how general-purpose AI enters the professional toolkit of policy through "zero-shot governance" — domain-agnostic foundation models intervening in decisions, wrapped in thin [[discipline-specific-aied|domain-specific]] [[scaffolding|scaffolds]].
-- **K-12 policy:**  and [[stanford-evidence-base-ai-k12-2026|Stanford evidence reviews]] inform K-12 AI policy.
+- **[[k-12]] policy:**  and [[stanford-evidence-base-ai-k12-2026|Stanford evidence reviews]] inform K-12 AI policy.
 - **Assessment policy:** [[ai-assessment-scale-reform|Assessment reform policies]] and [[authentic-assessment]] frameworks represent policy-level responses to [[academic-integrity|AI-enabled cheating]]. The choice of summative assessment format — oral, proctored, closed-book — is itself an assessment-policy decision (see [[summative-assessment]]).
 
 ### Policy maturity gap
@@ -38,6 +38,8 @@ The knowledge base documents that institutional AI policies [[genai-policies-hig
 **Task-level regulation is the emerging pattern.** A large-scale longitudinal study of 31,000+ course syllabi (2021–2025) at a large public research university ([[chirikov-regulate-ai-syllabi-2026|Chirikov 2026]]) shows how instructors actually regulate AI in practice: explicit AI regulation grew from near zero to 55% of courses by Fall 2025, but the direction shifted from restrictive toward permissive, and instructors increasingly **differentiated by task type** — restricting AI for drafting/reasoning (displacement-risk tasks) while permitting it for editing/proofreading and study support (augmentation tasks). Framing also shifted from academic integrity (63%→49% of syllabi) toward learning impact (1%→29%). This task-based pattern — built on the labor-economics mechanisms of task displacement, augmentation, and reinstatement — offers a more granular alternative to blanket adoption-or-ban policies and is a direct empirical anchor for the policy-vs-governance distinction above.
 
 **Instructor-level policy design as an alignment exercise.** Task-level regulation has a design counterpart below the syllabus. [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case derives a course's allowed and unallowed GenAI uses from "what, specifically, am I assessing?" — inventorying every task in a project, mapping each task to a learning objective, pairing each with an emerging GenAI workforce competency ([[career-development-and-readiness]]), and then deciding which concern takes priority: the need to assess student performance or the value of building the competency. The resulting policy differs task by task inside a single project — brainstorming topics and curating images permitted, composing learning objectives and designing slides not — with the [[framing-ai-use-for-students|rationale written directly to students]]. The case also documents why blanket prohibitions fail in practice: students who do not see themselves as dishonest read a prohibition as not applying to them, and the policy becomes inequitable ([[equity-in-ai-education]]) when expectations are left implicit. It complements the top-down policy levels above by showing how a policy's *content* can be generated from [[assessment]] alignment at the course and assignment level.
+
+**Classroom-level policy writing as the bottom rung of the policy stack.** The same permit-where-safe/restrict-where-thinking pattern reappears one level below the syllabus, in the classroom policies that preservice secondary English teachers wrote for their future 6–12 classrooms. [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] analyzed 27 such policies, written in a capstone teacher-education course in a state with no state-level AI guidance: 26 of the 27 permitted some AI use, almost always confined to teacher-specified tasks, times, and places, and only one prohibited it outright on ethical grounds tied to labor practices and copyright. The task split mirrors the syllabus-level data above — ideation and brainstorming were the most broadly permitted use (22 of 27), while composing sentences, paragraphs, or papers was disallowed or left unclear by 22 of 27 — but the authors read the resulting ambiguity as a policy defect rather than a neutral choice: policies simultaneously barred submitting AI-generated text and held students responsible for the AI-generated content they submit, leaving students unable to comply and reproducing, rather than resolving, the conflicting signals of school, district, and societal discourse.
 
 **The boundary–evidence gap in assessment policy.** A 30-university audit of public [[generative-ai|GenAI]] assessment guidance ([[credential-cognitive-stewardship-ai-assessment|Yao 2026]]) finds that institutional policies are better at *classifying* AI use than at explaining what evidence of learning remains valid under each class: the mean delegation-boundary score (2.47/4) exceeded the mean evidence-standard score (1.89/4), safeguards were sparse (2.75 of 8), and guidance was clearest for final-output substitution. The framework of *cognitive stewardship* argues that policies must make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions protect fair evidence — rather than merely monitor AI use.
 
@@ -54,6 +56,8 @@ Policy and governance are closely related but distinct, and keeping them apart m
 - **They are interdependent.** Policy without governance is unenforced — a written rule no one owns, monitors, or updates. Governance without policy lacks direction — structures that administer nothing in particular. The knowledge base's research repeatedly shows that the two must be built together: a policy that only *classifies* AI use without governance to specify evidence, safeguards, and revision processes remains weak in practice ([[credential-cognitive-stewardship-ai-assessment|the cognitive-stewardship audit]]), and governance that merely monitors without clear policy risks surveillance without [[bias-mitigation|fairness]] (see [[governance|AI governance]]).
 
 The practical test that separates them: a policy can be read on paper, but governance is observed in whether the rule is implemented, enforced, and adapted. This is why [[governance]] extends [[regulation]] and policy into institutions, and why the knowledge base treats assessment-format choices ([[summative-assessment]]) as *policy* decisions that only become effective through *governance* structures like review boards, declaration frameworks, and appeal routes.
+
+**Classroom policy as the interpretive frontier of governance.** The machinery of governance does not stop at the institutional document; the teachers who read and adapt it are the last link in the chain, and [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] show what that link looks like in practice. Their [[teacher-education|preservice teachers]] expected to work in districts with AI policies yet still had to author classroom-specific rules for their own students — an essential adaptation skill — and the authors argue that teachers can decline to adopt AI for specific reading and writing tasks without ignoring it, with principled refusal distinguishable from uncritical rejection. Keeping that distinction viable is itself a governance task: districts and preparation programs need the guidance, [[educational-development|professional development]], and policy infrastructure that let teachers refuse particular uses without being framed as behind the times.
 
 ### The policy deficit in AI × SEL research
 
@@ -78,6 +82,7 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers' classroom AI policies: what they permitted, limited, and banned (Nash & Burriss 2026)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
