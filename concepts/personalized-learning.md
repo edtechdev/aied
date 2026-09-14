@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-14T11:13:59-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 audience: [learners]
@@ -66,7 +66,7 @@ Personalization and [[assessment]] are tightly coupled in AI-driven learning. Ad
 
 Reinforcement learning is a distinct mechanism for personalization, and [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] map its empirical track record: their PRISMA review of 89 RL-in-education studies finds RL personalization concentrated in [[higher-ed]] and [[math-education]], with adaptation implemented mainly as content scheduling (n = 53) or guidance-related personalization such as hints and feedback (n = 36). They report that RL policies beat non-adaptive baselines most often on guidance-related adaptation and on [[affective-computing|affective]] variables (63% of tested studies), and that learning gain — especially normalized learning gain — was the most effective reward source — practical guidance for designing reward signals that personalize toward genuine learning rather than [[student-engagement|engagement]].
 
-Bernstein and Sibia (2026) sharpen a distinction between interest personalization and expertise personalization: interest-matched GenAI analogies were reported as more engaging and memorable but not uniformly more trusted, and some students preferred the generic technical explanation even when the analogy matched their stated interest, for self-sufficiency and completeness ([[student-reception-genai-analogies-computing-2026]]). Their design recommendation is to personalize through source-domain structure and to ask students what they already know, not only what interests them, since familiarity with a source domain is what lets a learner inspect the analogy — and to give learners control over personalization through a menu of analogies, opt-in, or offering generic and personalized versions together.
+Bernstein and Sibia (2026) sharpen a distinction between interest personalization and expertise personalization: interest-matched GenAI analogies were reported as more engaging and memorable but not uniformly more trusted, and some students preferred the generic technical explanation even when the analogy matched their stated interest, for self-sufficiency and completeness ([[student-reception-genai-analogies-computing-2026]]). Their design recommendation is to personalize through source-domain structure and to ask students what they already know, not only what interests them, since familiarity with a source domain is what lets a learner inspect the analogy — and to give learners control over personalization through a menu of analogies, opt-in, or offering generic and personalized versions together. Sidorkin (2026) documents a further pairing at the level of course materials rather than individual explanations: weekly readings generated on demand for a graduate educational leadership course were tailored at once along interest (sector, professional role, local examples) and comprehension level (pacing, definitions, depth), and the resulting logs shared a common backbone (TF-IDF cosine similarity of 0.50 to 0.61), which he reads as a template with adjustable dials rather than a wholesale rewrite per learner. The same corpus shows that tailoring was structural but uneven in intensity: artifact-level tailoring markers averaged 52.24 per 10,000 words and ranged from 38.74 to 74.29 across logs, while comprehension-oriented prompts produced 3.4x to 8.7x more definitional scaffolding than baseline explanatory text.
 
 ## Prompt-conditioned micro-personalization
 
@@ -135,3 +135,4 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
+- [[sidorkin-ai-generated-course-readings-2026]] — Dual tailoring of AI-generated course readings along interest and comprehension dimensions (Sidorkin 2026)

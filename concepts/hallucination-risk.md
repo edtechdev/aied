@@ -1,7 +1,7 @@
 ---
 title: Hallucination Risk
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-14T11:14:33-04:00"
 type: concept
 tags: [hallucination-risk, ai-ed-evaluation, generative-ai, llm, pedagogical-safety, human-in-the-loop-ai, cognitive-offloading]
 category: [evaluation]
@@ -22,13 +22,13 @@ confidence: high
 
 ## Introduction
 
-Hallucination in educational AI takes several forms documented in this knowledge base's articles: fabricated evidence in student assessment, over-confident misdiagnosis of learner knowledge, and plausible-sounding but incorrect explanations that students accept as truth. The risk is amplified in education because the asymmetry of knowledge between AI and learner means the learner is poorly positioned to verify AI outputs.
+Hallucination in educational AI takes several forms documented in this knowledge base's articles: fabricated evidence in student assessment, over-confident misdiagnosis of learner knowledge, and plausible-sounding but incorrect explanations that students accept as truth. The risk is amplified in education because the asymmetry of knowledge between AI and learner means the learner is poorly positioned to verify AI outputs. A further setting is AI-generated course readings that stand in for a textbook: in a graduate course that replaced its commercial text this way, only about 0.80 percent of 4,487 logged pages carried an APA-style in-text citation and DOI strings were essentially absent, so most claims could not be audited from within the artifact (Sidorkin, 2026). That traceability gap is distinct from a wrong answer, because the text reads as authoritative while offering limited internal means of confirmation.
 
 **Assessment hallucination** is particularly damaging. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** found that LLMs fabricate evidence quotes not present in student handwriting when diagnosing cognitive skills, with 58.5% of incorrect diagnoses accompanied by false claims of evidential confidence. **[[llm-fallacy-misattribution]]** documented systematic over-attribution of evidence in LLM reasoning — models claim evidential support where none exists. Both connect to [[ai-ed-evaluation]] and [[knowledge-tracing]] concerns about [[assessment-validity]].
 
 **Tutoring hallucination** affects learning directly. **[[llm-tutoring-feedback-diagnosis-gap]]** found LLMs over-validated incorrect solutions while over-rejecting valid-but-suboptimal reasoning — systemic failures that would mislead both students and teachers. **[[eduframetrap-llm-sycophancy-educational-safety]]** and **[[eduguard-safe-rag-llm-tutor]]** address safety mechanisms for educational LLMs. These risks connect to [[pedagogical-safety]] and [[human-in-the-loop-ai]] requirements.
 
-**Mitigation approaches** include [[human-in-the-loop-ai]] designs where AI supports rather than replaces teacher judgment, evidence-aware architectures that calibrate confidence based on evidential quality (as advocated by MathCog), and [[rag]]-based grounding that constrains LLM outputs to verified sources. The [[cognitive-offloading|Over-Reliance]] concept is closely related — hallucination is most dangerous when users trust AI outputs uncritically.
+**Mitigation approaches** include [[human-in-the-loop-ai]] designs where AI supports rather than replaces teacher judgment, evidence-aware architectures that calibrate confidence based on evidential quality (as advocated by MathCog), and [[rag]]-based grounding that constrains LLM outputs to verified sources. The [[cognitive-offloading|Over-Reliance]] concept is closely related — hallucination is most dangerous when users trust AI outputs uncritically. Sidorkin (2026) adds a failure mode the mitigation stack does not fully cover: over-specific institutional claims, with roughly 1.03 percent of logged pages pairing a named campus such as "Sacramento State" with assertive policy verbs about revised retention, tenure and promotion rules or CSU Executive Orders, none of them verifiable from the text. Specificity is what makes this costly, since a fabricated local detail looks exact enough to survive a reader's plausibility check, and the remedy the study proposes is procedural rather than technical: treat generation as draft production under instructor review, then curate sources into a retrieval-augmented design.
 
 ## Connected Concepts
 
@@ -55,5 +55,6 @@ Hallucination in educational AI takes several forms documented in this knowledge
 - [[genai-higher-education-systematic-review-2026]]
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 - [[productive-failure]]
+- [[sidorkin-ai-generated-course-readings-2026]]
 
 

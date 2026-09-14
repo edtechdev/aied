@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-13T08:06:42-04:00"
+updated: "2026-09-14T11:14:50-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 audience: [learners]
@@ -28,7 +28,7 @@ Metacognition in education refers to learners' awareness, monitoring, and [[regu
 
 Within [[self-regulated-learning]] frameworks, metacognition is the central mechanism that enables learners to adapt strategies, recognize confusion, and seek help appropriately.([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
-How learners actually deploy metacognition around AI is shaped by more than the tool itself: [[cui-motivation-roles-metacognitive-genai-2026|Cui et al.]] find that student motivation and the interaction role they adopt shape their metacognitive [[student-engagement|engagement]] with [[generative-ai|GenAI]] — meaning whether AI use is metacognitively rich depends on the learner's stance as much as on the technology.
+How learners actually deploy metacognition around AI is shaped by more than the tool itself: [[cui-motivation-roles-metacognitive-genai-2026|Cui et al.]] find that student motivation and the interaction role they adopt shape their metacognitive [[student-engagement|engagement]] with [[generative-ai|GenAI]] — meaning whether AI use is metacognitively rich depends on the learner's stance as much as on the technology. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]] add the AI interaction itself as an object of that reflection: the closing step of their Prompt Literacy Cycle asks learners to examine what the process revealed about how prompts function and what assumptions shaped the response, and they make reflection and revision the phase in which authorship and critical judgment develop.
 
 ## How AI Tools Affect Metacognition
 
@@ -148,4 +148,5 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Reflection on the prompting process and authorship development in the Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
 
