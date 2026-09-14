@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-13T10:14:50-04:00"
+updated: "2026-09-14T11:14:33-04:00"
 type: concept
 tags: [ai-literacy, cognitive-offloading, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
 audience: [learners]
@@ -38,7 +38,7 @@ Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without 
 
 ### Connections
 
-Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai-misuse]] as a skill-based intervention: students [[ai-misuse-learning-harm|misuse]] AI less when they can judge when its output deserves trust. It is also a design goal — [[pedagogical-safety]] and transparency tools aim to make AI's reliability legible so learners can calibrate more accurately.
+Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai-misuse]] as a skill-based intervention: students [[ai-misuse-learning-harm|misuse]] AI less when they can judge when its output deserves trust. It is also a design goal — [[pedagogical-safety]] and transparency tools aim to make AI's reliability legible so learners can calibrate more accurately. Calibration can also be pushed elsewhere when the artifact itself offers nothing to check: in Sidorkin's (2026) graduate course, where AI generated the weekly readings, in-text citations appeared on only about 0.80 percent of pages, only about 2.7 percent of 837 recorded student turns contained a risk-aware move such as correcting an AI assumption or demanding a checkable case, and the bounded trust reported in survey comments came with four of 24 respondents using dependence language and one naming the need for "teacher oversight." An unauditable artifact therefore transfers the verification duty to whoever can audit it, and the study's design response is to institutionalize that oversight rather than assume a critical stance will arise on its own.
 
 - **Overreliance and calibration as population processes (2026):** A complex-adaptive-system model of AI reliance shows that task difficulty and AI quality set a baseline for both overreliance and calibration regret, while network connectivity and social proof shape whether reliance cascades. This suggests calibration is not only an individual trait but is modulated by the social and informational environment ([[ai-overreliance-complex-adaptive-system-2026]]).
 - **Calibration as an explicit objective of ML education (2026):** [[icet-ml-education-trust-2026|ICE-T]] argues that appropriate reliance on AI is itself a taught outcome of [[machine-learning]] education. It integrates intermodal transfer (Bruner's enactive–iconic–symbolic modes), [[computational-thinking]] via the Use-Modify-Create progression, and explanatory thinking, giving learners the representational models and error-contextualization needed to calibrate trust and counter both [[cognitive-offloading|over-reliance]] and algorithm aversion — positioning ML instruction as a calibration intervention, not just skill training.
@@ -80,3 +80,4 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
+- [[sidorkin-ai-generated-course-readings-2026]] — Bounded trust and instructor oversight in AI-generated course readings (Sidorkin 2026)

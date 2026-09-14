@@ -1,9 +1,11 @@
 # Journal
 
 
-Last updated: 2026-09-14 | Total entries: 1364
+Last updated: 2026-09-14 | Total entries: 1366
 
 ## 2026-09-14
+- 📄 [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompts to Practice: A Pedagogical Framework for Human-Centered AI Engagement
+- 📄 [[sidorkin-ai-generated-course-readings-2026]] — From One-Size Texts to Tailored Readings: Student Experiences with AI-Generated Course Materials
 - 📄 [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — EduFair-Bench: Evaluating Pedagogical Fairness of LLM Tutors Across Student Demographics
 - 📄 [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
 - 📄 [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks

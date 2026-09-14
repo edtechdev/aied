@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-14T06:00:00-04:00"
+updated: "2026-09-14T11:13:59-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -77,7 +77,7 @@ Policy text does not equal policy perception. [[cross-cultural-student-perceptio
 The knowledge base documents a paradigm shift: from AI as an integrity threat to be policed, to AI as a tool whose appropriate use must be taught. This is the ethical dimension of [[ai-literacy]] and is [[embodied-learning|embodied]] in practical design:
 
 - **Task-specific AI-use declarations:** [[genai-declaration-frameworks-higher-education|Domain-specific declaration frameworks]] replace generic "I used AI" checkboxes with structured declarations mapping use to cognitive stages (e.g., structural planning vs. content generation), forcing reflection and shifting focus from policing to professional practice.
-- **Process-transparent assessment:** architectures such as [[credential-cognitive-stewardship-ai-assessment|cognitive stewardship]], staged submissions, oral defences, and the [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|AI Viva]] (a [[conversational-ai|conversational agent]] probing whether students understand their submissions) make human judgement, verification, and responsibility visible.
+- **Process-transparent assessment:** architectures such as [[credential-cognitive-stewardship-ai-assessment|cognitive stewardship]], staged submissions, oral defences, and the [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|AI Viva]] (a [[conversational-ai|conversational agent]] probing whether students understand their submissions) make human judgement, verification, and responsibility visible. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]] push the same logic down to the prompt itself: their sample rubric grades iterative refinement, critical interpretation of output, and reflective revision, so what is assessed is the student's engagement with the tool rather than the artefact it produced, and they argue that teaching students only to optimise output leaves the ethical and epistemological dimensions of use untouched.
 - **[[reducing-ai-misuse|Reducing misuse]]:** integrity sits alongside [[ai-misuse-learning-harm]] (the learning cost of misuse) and [[reducing-ai-misuse]] (the interventions that prevent it), tying honesty to genuine learning rather than rule-following.
 - **Transparency as an integrity strategy, not just a courtesy:** [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case treats the *rationale* for each allowed or unallowed GenAI use as the integrity mechanism itself. Students interviewed after ignoring a prohibition policy explained that they did not see themselves as behaving dishonestly, which reframes the failure as ambiguity rather than noncompliance — so the redesign answered it by justifying every restriction with the specific [[assessment]] it protects, and by designing for McCabe's "20-60-20" persuadable middle rather than the determined few. The case also names the equity cost of vague policy: expectations that are unclear and uneven across instructors are what convert policy failure into disciplinary action ([[equity-in-ai-education]]).
 
@@ -216,3 +216,4 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Deterrence, disclosure, and redesign as an assessment-design problem under imperfect information
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[student-genai-use-views-writing]] — Student use of and views on GenAI for writing: the guidance gap in students' own reports (Kuznetsov, Sheely & Baker 2026)
+- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompt literacy and process-oriented assessment of AI engagement (Miles, Haber-Curran & Arar 2026)

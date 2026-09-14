@@ -1,7 +1,7 @@
 ---
 title: Critical Pedagogy
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-14T06:30:00-04:00"
+updated: "2026-09-14T11:13:59-04:00"
 type: concept
 tags: [critical-pedagogy, equity-in-ai-education, critical-thinking, ai-literacy, agency, ethics, reducing-ai-misuse]
 confidence: high
@@ -36,7 +36,7 @@ Critical pedagogy is distinct from [[critical-thinking]]. Critical thinking is a
 
 ### The role of the educator
 
-Under critical pedagogy, educators are not neutral transmitters of AI skills but critical interlocutors and facilitators who help learners interrogate the politics of AI. This connects to the knowledge base's [[teacher-role]] and [[ai-literacy]] concepts, and to the broader concern with [[equity-in-ai-education]] and [[reducing-ai-misuse]]. The educator's task is to cultivate spaces where communities can collectively question, appropriate, or refuse AI — keeping education a site of imagination and social transformation.  [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] add a practical condition to that role: open-ended critical AI literacy work does not require educators to arrive as AI experts, only to be willing to explore alongside students — a joint student–teacher investigation of one specific system, electronic "hall passes" (not all of which are AI), surfaced and worked through [[misconceptions]] while deepening technical knowledge. 
+Under critical pedagogy, educators are not neutral transmitters of AI skills but critical interlocutors and facilitators who help learners interrogate the politics of AI. This connects to the knowledge base's [[teacher-role]] and [[ai-literacy]] concepts, and to the broader concern with [[equity-in-ai-education]] and [[reducing-ai-misuse]]. The educator's task is to cultivate spaces where communities can collectively question, appropriate, or refuse AI — keeping education a site of imagination and social transformation.  [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] add a practical condition to that role: open-ended critical AI literacy work does not require educators to arrive as AI experts, only to be willing to explore alongside students — a joint student–teacher investigation of one specific system, electronic "hall passes" (not all of which are AI), surfaced and worked through [[misconceptions]] while deepening technical knowledge. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]] give that role a constructionist, ethics-of-care shape: they treat [[prompt-engineering|prompt literacy]] as a rhetorical, ethical and reflective process rather than a technical optimisation skill, and the framework's closing phase has students co-design a Personal AI Use Policy with their instructor, so the norms governing classroom AI use are authored by the people they govern rather than issued to them. 
 
 ## Connected Concepts
 
@@ -66,3 +66,4 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
 
 - [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision for designing generative AI toward learner flourishing
+- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Human-centered GenAI engagement framework built on Freire, constructionism and an ethics of care

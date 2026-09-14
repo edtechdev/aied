@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-13T10:14:50-04:00"
+updated: "2026-09-14T11:14:33-04:00"
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, well-being]
 level: [higher ed, k 12]
@@ -68,7 +68,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 - **Positive:** AI can help students build transferable skills for an AI-integrated workplace — [[lodge-adaptive-capabilities-genai-future-2026|adaptive capabilities]] such as [[ai-literacy]], [[distributed-cognition]], and [[metacognition]] — and raise expectations about AI-skills readiness ([[ithaka-sr-ai-skills-college-graduates-2026|AI-skills expectations for graduates]]).
 - **Negative:** An over-reliant or unreflective AI experience can leave students less able to perform without AI, less practised at independent reasoning, and uncertain of their own capabilities (see [[ai-misuse-learning-harm|AI misuse and learning harm]]).
 
-**Overall:** the same AI tool can support or undermine students depending on design and use. The guardrail throughout is to keep the learner doing the cognitively important work while using AI for support ([[scaffolding|scaffold, do not substitute]]), and to attend to the full range of impacts — not just performance.
+**Overall:** the same AI tool can support or undermine students depending on design and use. The guardrail throughout is to keep the learner doing the cognitively important work while using AI for support ([[scaffolding|scaffold, do not substitute]]), and to attend to the full range of impacts — not just performance. One configuration shifts where the experience begins: when AI generates the course readings themselves rather than helping with homework, students become auditors of their own curriculum. In Sidorkin's (2026) graduate course, students valued the contextual specificity and adjustability of the generated texts and 75 percent agreed they learned more than in a comparable course without an AI companion, yet they had to infer source quality from context because Wikipedia links and peer-reviewed citations appeared in the same lists without labels, and four of 24 survey respondents used dependence language, including one describing themselves as "somewhat codependent on the AI for reassurance and structure."
 
 ## Connections
 
@@ -137,3 +137,4 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
 - [[genai-decision-capability-cognitive-load-2026]] — GenAI and students' perceived decision capability (cognitive-load account)
 - [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professionalization
+- [[sidorkin-ai-generated-course-readings-2026]] — Students as auditors of their own AI-generated curriculum (Sidorkin 2026)
