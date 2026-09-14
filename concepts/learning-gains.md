@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-14T06:55:00-04:00"
+updated: "2026-09-14T13:43:30-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 audience: [learners]
@@ -86,10 +86,10 @@ The knowledge base's corpus — meta-analyses, RCTs, quasi-experiments, and fiel
 The learning-gain numbers that dominate this page's efficacy summary — especially pooled effect sizes from meta-analyses — must be read with a strong caveat: a wave of meta-research shows the field's positive synthesis estimates are inflated by publication bias, construct incoherence, and methodological shortcuts.
 
 - [[bartos-ai-learning-meta-meta-analysis-2026|A study-level meta-meta-analysis of 1,840 effect sizes from 67 meta-analyses]] finds the publication-bias-adjusted average AI effect is roughly **one-third** the reported magnitude (SMD ≈ 0.196 vs. a median of 0.67), with a prediction interval spanning large harm to large benefit and no moderator producing consistent gains. Even a single extreme study contributes almost no information given the heterogeneity — meaning *more studies of the current type will not settle the question*; only high-quality, pre-registered, replication-oriented trials will.
-- [[oneill-presumed-effective-meta-analysis-2026|A forensic audit of 14 high-impact AIED meta-analyses]] finds none provided a valid basis for its pooled learning-gain claim: none had a coherent outcome construct, all had unresolved extreme heterogeneity (avg I² = 87.5%), twelve treated dependent effect sizes as independent, and none validly assessed publication bias. A majority of randomly vetted primary studies were mismatched to the meta-analytic claim.
+- [[oneill-presumed-effective-meta-analysis-2026|A forensic audit of 14 high-impact AIED meta-analyses]] finds none provided a valid basis for its pooled learning-gain claim: none had a coherent outcome construct, all had unresolved extreme heterogeneity (I² ranged from 77.2% to 94.4% across the 13 meta-analyses that reported it, and 12 of those 13 exceeded 80%), twelve treated dependent effect sizes as independent, and none validly assessed publication bias. A majority of randomly vetted primary studies were mismatched to the meta-analytic claim. The errors reached policy: two of the audited meta-analyses treated study sample size as class size and, on the strength of a miscalculated primary study, concluded that 21 to 40 students is the ideal intervention size and recommended that GenAI interventions be designed for that number.
 - [[weidlich-chatgpt-effect-search-cause-2025|A media/methods critique]] shows many "learning gains" were not measured validly — outcomes were often self-reported skills or performance measured *during* AI assistance rather than durable, unassisted learning.
 
-**Bottom line for the gains numbers above:** treat large pooled AI effect sizes as upper bounds, not point estimates. Prefer the learning-gain evidence from well-designed [[rct|RCTs]] and field studies with unassisted, standardized outcome measures (the guardrail RCT, the Khanmigo and NUMI experiments, and the World Bank EdTech meta-analysis cited above), and read meta-analytic gains as provisional and likely over-stated until synthesis quality improves. This is why the [[limitations-in-aied-research|Limitations in AIEd Research]] page now documents the meta-analytic evidence crisis in detail.
+**Bottom line for the gains numbers above:** treat large pooled AI effect sizes as upper bounds, not point estimates. Prefer the learning-gain evidence from well-designed [[rct|RCTs]] and field studies with unassisted, standardized outcome measures (the guardrail RCT, the Khanmigo and NUMI experiments, and the World Bank EdTech meta-analysis cited above), and read meta-analytic gains as provisional and likely over-stated until synthesis quality improves. The problem also outlives correction: of the papers published after one audited meta-analysis was retracted, 60% still cited it as authoritative support for large ChatGPT learning gains and none acknowledged the retraction, so a withdrawn estimate keeps propagating. This is why the [[limitations-in-aied-research|Limitations in AIEd Research]] page now documents the meta-analytic evidence crisis in detail.
 
 ### Measuring what matters
 
