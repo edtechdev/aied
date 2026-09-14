@@ -39,7 +39,6 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 
 ### Key ITS research
 
-- **[[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]]** evaluates [[pedagogical-llm-training|pedagogical LLM]] agents using [[simulating-students|simulated learners]] grounded in [[knowledge-tracing]], finding that tutoring quality depends on both the base model and adapter design.
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows that traditional ITS hint design can inadvertently enable bypass strategies, calling for more sophisticated [[scaffolding]] approaches.
 - **[[deeptutor|DeepTutor]]** provides a fully [[open-source]] agentic tutoring framework with citation-grounded tutoring and difficulty-calibrated [[automated-question-generation|question generation]].
 - **[[huang-interpretable-knowledge-tracing-2026|Interpretable Knowledge Tracing]]** addresses the opacity problem by producing interpretable cognitive quantities from LLM logits.

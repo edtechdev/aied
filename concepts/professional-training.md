@@ -24,7 +24,6 @@ confidence: high
 
 ### AI in professional training
 
-- **Skill development:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-coaching-rl-skill-development|RL-based skill coaching]] demonstrate AI-driven [[educational-development|professional development]].
 - **Simulation and practice:** [[adaptive-virtual-patient-psychotherapy-training|Virtual patient training]] and [[astra-atco-training-simulator|ATCO training simulators]] create AI-powered professional practice environments. In [[teacher-education|teacher education]], AI role-play simulation extends this into practice-based teaching: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Student GPT]] simulated a [[misconceptions|misconception]]-holding middle-school math student so preservice teachers could practice diagnosing and remediating student errors, aligning with the "approximations of practice" of practice-based [[teacher-role|teacher]] learning as an affordable complement to costly platforms like TeachLivE.
 - **Lifelong learning integration:** [[lifelong-learning]] and [[adult-learning]] [[research-methods-aied|research]] connect professional training to continuous education.
 - **Public sector:** [[ai-adoption-training-public-sector|Public sector AI adoption]] examines training in government contexts.

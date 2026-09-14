@@ -23,7 +23,6 @@ confidence: high
 
 Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education research]]. They provide standardized datasets, tasks, and metrics that allow researchers to compare models, track progress, and identify failure modes. In the knowledge base's research, benchmarks appear across multiple domains:
 
-- **[[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]]** introduces a long-horizon benchmark for pedagogical [[llm]] agents using [[simulating-students|simulated learners]] grounded in [[knowledge-tracing]].
 - **[[cstutorbench-slm-tutors|CSTutorBench]]** evaluates small language models for CS tutoring tasks.
 - **[[anvil-ai-educational-animations|ANVIL]]** benchmarks AI-generated educational animations against human-created alternatives.
 - **[[teaching-feedback-classification-benchmark|Teaching feedback benchmarks]]** assess cross-language transfer of [[ai-feedback-quality|feedback quality]] classification.
