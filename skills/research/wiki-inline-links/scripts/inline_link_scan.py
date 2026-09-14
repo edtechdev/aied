@@ -364,6 +364,9 @@ REJECT_PAIRS = {
     ('teacher preparation', 'teacher-role'),         # preparation programmes, not the role page
     ('teacher-facing', 'teacher-role'),              # adjectival: "teacher-facing interactions"
     ('baseline prompt', 'prompt-engineering'),       # a task prompt, not a prompting technique
+    ('cognitive effort', 'cognitive-offloading'),    # experienced effort, not offloading
+    ('supervised learning', 'machine-learning'),     # "human-supervised learning partners"
+    ('researcher', 'research-methods-aied'),         # a role in a role list
 }
 
 def load_registry_aliases(wiki):

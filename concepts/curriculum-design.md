@@ -1,8 +1,9 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-09-14T06:00:00-04:00"
+updated: "2026-09-14T06:35:00-04:00"
 type: concept
+connected_faqs: [incorporating-ai-literacy]
 tags: [curriculum-design, learning-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
 discipline: [stem education]
 audience: [instructors, faculty development]

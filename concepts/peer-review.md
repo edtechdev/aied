@@ -1,8 +1,9 @@
 ---
 title: Peer Review
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-14T06:35:00-04:00"
 type: concept
+connected_faqs: [writing-instruction-ai-best-practices]
 tags: [writing-education, formative-assessment, ai-feedback-quality, student-experience, collaborative-learning, self-regulated-learning, metacognition]
 discipline: [writing education]
 audience: [learners]
