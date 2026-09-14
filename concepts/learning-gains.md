@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-14T09:18:34-04:00"
+updated: "2026-09-14T06:55:00-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 audience: [learners]
@@ -96,7 +96,6 @@ The learning-gain numbers that dominate this page's efficacy summary — especia
 Learning gains connect to [[assessment-validity]] — if assessments fail to capture deeper understanding, learning gain measures are misleading. They also intersect with [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]], where apparent performance improvements may mask learning losses, and with [[rct]] (randomized trials as the gold-standard design for detecting causal learning gains), and with [[meta-analysis-systematic-review]] (pooling effect sizes across studies to establish the field's efficacy evidence).
 
 - **Significant pre/post gains from mistake-based AI [[pedagogy]]:** [[pedagogy-ai-mistakes|Hosseini (2026)]]'s database design course (n=13) showed large, significant learning gains on identical pre/post items (mean 4.25→6.83/7, Cohen's *d*=1.49, *p*<.001), with gains uncorrelated with prior AI or database confidence — the AI-integrated critique-refinement design benefited students regardless of initial perceptions.
-- **Attribution bounds on national learning claims.** El Salvador's public AI-tutoring pilot reported reading, mathematics and science results comparable to the 2022 averages of Germany and Sweden for 171 schools. A bounded re-analysis recovers the national standard deviation from published PISA figures and shows that, if the programme had produced no learning at all, selection of only 5.5% of the mathematics distribution (11.7% in science, 17.2% in reading) would reproduce the [[benchmark]]; the pilot assessed 7.0 students per school against 25.4 in the national PISA 2025 sample. Taken at face value the result implies a gain of 1.29 international standard deviations, roughly 6.45 years of schooling in one year and about 3.5 times the largest documented tutoring effect. The result is stable under skewness and a 20% error in the standard deviation, and the authors ask for baseline and sampling protocol to accompany claims of this magnitude. ([[el-salvador-ai-tutoring-selection-bias-2026]])
 
 ## Connected Concepts
 

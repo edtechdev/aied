@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-14T09:18:31-04:00"
+updated: "2026-09-14T06:55:00-04:00"
 type: concept
 tags: [assessment, automated-assessment, writing-education, generative-ai, llm, prompt-engineering, ai-literacy, higher-ed, k-12]
 discipline: [writing education]
@@ -48,7 +48,7 @@ Automated Essay Scoring has a long history in educational technology, from early
 ### Connections to related concepts
 
 AES sits at the intersection of [[automated-assessment]], [[writing-education]], and [[generative-ai]]. It connects to [[formative-assessment]] when used for feedback rather than grading, to [[feedback|Feedback Loop]] when integrated into iterative writing processes, and to [[ai-literacy]] when educators understand and calibrate AES tools. The [[assessment-validity]] and [[educational-measurement]] concepts are essential for ensuring AES scores are meaningful and fair.
-- **Agreement, error and what a hybrid scorer adds.** In a small open-ended marketing-writing corpus the LLM out-scored both deterministic rules and an equal-weight hybrid on absolute agreement with human raters (ICC(2,1) .435 versus .266 and .091), with the hybrid significantly worse than the LLM alone, while score dispersion and a single near-empty response showed how strongly such estimates depend on corpus composition ([[automated-scoring-marketing-posts-agreement-2026]]). At national scale the same caution applies to reported learning effects: bounding El Salvador's AI-tutoring pilot shows that selection of only 5.5% of the achievement distribution in [[math-education|mathematics]] reproduces a Germany-comparable result with no learning at all ([[el-salvador-ai-tutoring-selection-bias-2026]]).
+- **Agreement, error and what a hybrid scorer adds.** In a small open-ended marketing-writing corpus the LLM out-scored both deterministic rules and an equal-weight hybrid on absolute agreement with human raters (ICC(2,1) .435 versus .266 and .091), with the hybrid significantly worse than the LLM alone, while score dispersion and a single near-empty response showed how strongly such estimates depend on corpus composition ([[automated-scoring-marketing-posts-agreement-2026]]).
 
 ## Connected Concepts
 
