@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-15 | Total entries: 1379
+Last updated: 2026-09-15 | Total entries: 1380
 
 ## 2026-09-15
+- 📄 [[institutional-ai-policy-health-informatics-2026]] — Institutional approaches to artificial intelligence policy and guidance in health informatics and information management education: emerging trends and inconsistencies
 - 📄 [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science
 - 📄 [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
 - 📄 [[k12-teachers-ai-companion-literacy-2026]] — Exploring K-12 Teachers' Perceptions of Students' Relationships with AI Companions: Boundaries, Intervention Strategies, and Design Implications
