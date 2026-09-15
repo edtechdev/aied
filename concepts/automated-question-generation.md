@@ -1,7 +1,7 @@
 ---
 title: Automated Question Generation
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-15T12:56:46-04:00"
 type: concept
 tags: [automated-question-generation, llm, generative-ai, assessment, automated-assessment, formative-assessment, educational-nlp, personalized-learning, adaptive-learning, ai-ed-evaluation, educational-measurement]
 research_method: [educational measurement]
@@ -103,4 +103,3 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
-- [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation

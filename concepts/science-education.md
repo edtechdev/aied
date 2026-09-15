@@ -5,7 +5,7 @@ tags: [science-education, stem-education, inquiry-based-learning, generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-15T12:56:46-04:00"
 ---
 
 > **[[stem-education|Science education]]** — the study and practice of how students learn science and how to teach it, now being reshaped by generative AI (LLMs, simulations, virtual labs, and AI grading) across [[physics-education|physics]], chemistry, and [[biology-education|biology]]. The science-education articles in this knowledge base reveal a field negotiating a core tension: AI demonstrably supports inquiry, misconception correction, and assessment at scale, yet its value depends on instructional design, and it carries real risks of [[cognitive-offloading|over-reliance]], hallucination, and dehumanized, profit-driven learning.
@@ -69,5 +69,4 @@ Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-202
 - [[an-goel-self-directed-modeling-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[critics-lm-critical-thinking-science-education-2026]] — CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science

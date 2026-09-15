@@ -365,8 +365,6 @@ Frameworks increasingly trace how these dimensions are enacted in practice: [[da
 
 - **AI literacy as a governance capacity for sustainable development.** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] reconceptualize AI literacy as a governance-oriented capacity rather than a purely educational or technical skill, linking it to all seventeen UN Sustainable Development Goals. Their six-level **AIRE Taxonomy** (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) extends Bloom's hierarchy by adding ethical synthesis and strategic foresight, positioning advanced competencies (Analyze–Govern) as the pathway from foundational literacy to institutional and policy-level governance — an "18th SDG" heuristic that treats literacy as a cross-cutting cognitive and ethical bridge. A survey of 300 professionals in a national context found strong technical awareness but limited ethical and governance readiness, with **ethical reasoning and reflective thinking the strongest predictors of sustainable, trustworthy AI use** and governance literacy the strongest predictor of AI–SDG nexus awareness (β = 0.64). This empirically grounds the knowledge base's emphasis on critical-use literacy and ties AI literacy directly to [[sustainability]] and [[educational-policy-ai|policy]] integration.
 
-Teacher interviews in the same period propose one extension of the construct: **AI companion literacy**, which treats the companion as a relationship rather than a tool and adds knowing that a companion is a program rather than a person, what is safe to disclose, what dependence looks like, and what unmet need lies behind the turn to it. The evidence is 33 US [[k-12]] teachers' accounts of where their jurisdiction begins and ends rather than student outcomes, so the extension is a design proposal awaiting measurement ([[k12-teachers-ai-companion-literacy-2026|Xiao et al., 2026]]).
-
 ### How AI literacy is developed
 
 Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] position AI literacy as more than applied skill: in their AI×Ed framework the learner is a distinct end user of AI (accessed through AI literacy and AI education), and they argue for renewed AI-literacy work that encourages reflection on learning itself — treating literacy as a route back into "AI as an analogy to human intelligence" research on how people learn, a strand the field largely abandoned. The [[icap-framework|ICAP framework]] (Interactive → Constructive → Active → Passive) provides a useful taxonomy of cognitive engagement: students learn AI literacy best when they co-construct knowledge rather than passively receive information. Designers should select the mode that fits the learning goal and favor the deeper (constructive and interactive) modes where possible. Practical activities — designing prompts, evaluating outputs in groups, debating AI [[ethics]] — outperform lectures.
@@ -2870,7 +2868,6 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Dimension-specific critical-thinking gains in AI-supported multimodal writing (Lu et al. 2027)
 - [[critics-lm-critical-thinking-science-education-2026]] — CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education
-- [[durable-skills-measurement-ai-teammates-2026]] — Towards Scalable Measurement of Durable Skills
 
 ---
 
@@ -3398,7 +3395,6 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
 - [[chen-zou-genai-group-assessment-agency-2026]] — GenAI as coordination infrastructure in student groups: intensified, restrained, and non-enacted use
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
 - [[durable-skills-measurement-ai-teammates-2026]] — Towards Scalable Measurement of Durable Skills
 
 ---
@@ -4631,7 +4627,6 @@ Producing effective AI video requires pedagogical structure and human oversight,
 
 ## Connected Articles
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT-generated in-video comments: entropy timing, quality gaps vs. human comments (Wang, Du & Jin 2026)
-
 - [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
 - [[ai-generated-instructional-videos-computing-ed]] — Student perceptions/preferences of AI-generated instructional video in computing education
 - [[ai-video-dual-gatekeeping-2026]] — Dual gatekeeping for pedagogically grounded AI video creation
@@ -4643,7 +4638,6 @@ Producing effective AI video requires pedagogical structure and human oversight,
 - [[adhd-video-segmentation-computing-education]] — Temporal video segmentation for individual differences
 - [[ai-psychotherapy-training-avatars]] — AI avatars in psychotherapy training
 - [[gemini-lualatex-physics-video-transcription-2026]] — Transcribing physics lecture video into accessible text
-- [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation
 
 ---
 
@@ -7759,9 +7753,6 @@ A complementary line of work reframes LLMs from static graders into emulators of
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: Teaching Resources for a ChatGPT World
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[lora-finetuned-control-systems-course-qa-2026]] — LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects
 
 ---
 
@@ -8753,7 +8744,6 @@ The same logic explains why presence is not automatically good. Motion sickness,
 - [[medgame-llm-medical-education-gamification]] — gamified medical training with AI
 - [[tech-enhanced-tabletop-cybersecurity-education]] — augmented tabletop scenarios in cybersecurity education
 - [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[digital-assistive-technologies-neurodivergent-students-2026]] — Generative AI, Virtual Reality, and Beyond: Digital Assistive Technologies for Neurodivergent Students
 
 ---
 
@@ -9736,7 +9726,6 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[sidorkin-ai-generated-course-readings-2026]] — Dual tailoring of AI-generated course readings along interest and comprehension dimensions (Sidorkin 2026)
-- [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation
 
 ---
 
@@ -11019,7 +11008,6 @@ The knowledge base's engineering education coverage is still developing. Sub-are
 - [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[lora-finetuned-control-systems-course-qa-2026]] — LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects
 - [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
 
 ---
@@ -11189,7 +11177,6 @@ Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-202
 - [[an-goel-self-directed-modeling-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[critics-lm-critical-thinking-science-education-2026]] — CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science
 
 ---
@@ -13937,7 +13924,6 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
-- [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation
 
 ---
 
@@ -14843,7 +14829,6 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
 
 ---
 
@@ -15622,7 +15607,6 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (media-comparison critique of gains measures)
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: bias-adjusted AI learning-gain effects ~1/3 of reported size
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: audit of flawed AIED meta-analyses
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science
 
 ---
 
@@ -17999,9 +17983,6 @@ Multilingual concerns also affect [[automated-assessment|automated assessment]]:
 - [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
 - [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics
 
-
-- [[critics-lm-critical-thinking-science-education-2026]] — CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education
-
 ---
 
 ## [Inclusive Learning](https://edtechdev.github.io/aied/concepts/inclusive-learning/)
@@ -18339,7 +18320,6 @@ UDL rests on the insight that learner variability is the norm, not the exception
 [[generative-ai|Generative AI]] creates new opportunities and new risks for UDL. AI can personalize representation and provide alternative pathways, supporting [[personalized-learning]] and accessibility. But it can also encode bias, assume dominant communication styles, and — if it reduces learner agency — undermine the engagement principle. [[research-methods-aied|Research]] on [[ai-misuse-learning-harm]] and equity shows that AI tools must be designed with inclusive principles or they recapitulate [[equity-in-ai-education]] gaps. UDL therefore informs both how AI is deployed and how AI-literacy and assessment are designed to be fair across learner variability.
 
 Equity-by-design is one concrete way to operationalize this stance. Wenzel, Geiger, and Liening (2026) ground their CAIS-GBL framework for AI [[conversational-ai|conversational agents]] in business [[simulation]] games in an explicit **equity-by-design** approach aligned with universal design for learning, deriving meta-requirements that span cognitive, [[motivation|motivational]], [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] engagement. Their design principles and features aim to address individual learner differences in strengths, challenges, and interests — a concrete application of UDL principles to the design of adaptive, AI-supported [[game-based-learning|game-based learning]].
-
 ### Connections
 
 UDL connects to [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[learning-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational [[bias-mitigation|fairness]] and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles. Because UDL is the framework most commonly invoked in higher-education disability contexts (where "special education" is a [[k-12]] term), it is often the right page to link for college and university disabled-learner research.
