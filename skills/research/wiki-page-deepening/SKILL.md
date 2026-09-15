@@ -16,6 +16,14 @@ This skill is the end-to-end playbook. It draws on the sibling skills (`research
 - User says they want to "explore and apply the concept further" and asks for tips, examples, implications.
 - User wants a page's narrative deepened as part of ingesting an article that contributes to it.
 
+## Screen for significance before you edit (2026-09-15)
+
+Decide *whether* to edit before deciding *what* to write, whenever the trigger is a new article rather than a page the user named. Enumerate the candidate (article, concept) pairs and answer the delete test for each: if the sentences you are about to add were deleted, would the page lose something it does not already have? Enrich only the pairs that pass, and treat leaving a page alone as a normal result.
+
+Why this is a process rule and not a nicety: enriching broadly and auditing afterwards pays twice. On 2026-09-15 an automated batch enriched 35 concept pages; the follow-up audit took 10 reviewers and found 17 of 56 insertions marginal, 13 of them no more than a Connected Articles entry with none of the article's findings conveyed in prose. The screen itself is cheap: read the article's findings, read the target section, ask whether the page already says this.
+
+When the user names a specific page ("enrich this concept page"), the page choice is already made; the delete test then governs each individual sentence you add.
+
 ## The core principle: depth over volume
 
 A genuinely enriched page contains **information the reader could not get by skimming** — exact effect sizes, interaction percentages, study-design detail, the mechanism that explains a surprising result, the specific prompt that made a system work, the concrete implication for an instructor or developer. It does **not** contain generic exhortations ("AI is transforming education…") or restated summaries.
