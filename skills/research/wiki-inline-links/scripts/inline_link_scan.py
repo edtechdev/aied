@@ -339,6 +339,12 @@ REJECT_PAIRS = {
     ('assessment literacy', 'evaluative-judgement'), # literacy, not the judgement construct
     ('adoption', 'technology-acceptance-model'),     # bare uptake, not the model family
     ('practice', 'teacher-role'),                    # "their future practice"
+    # --- 2026-09-15, arXiv/EdArXiv batch: false positives found in the
+    # inline-link pass and hand-reverted on the new article pages ---
+    ('from scratch', 'cs-education'),                # "idea generation from scratch"
+    ('self-examination', 'summative-assessment'),    # the tool's own name, not an exam
+    ('examination-board', 'summative-assessment'),   # awarding-body criteria, not the construct
+    ('clinical', 'medical-education'),               # "clinical language", not medical teaching
     ('inclusion', 'inclusive-learning'),             # inclusion/exclusion criteria
     ('learning outcomes', 'learning-gains'),         # ILO construct, not measured gains
     ('authorship', 'academic-integrity'),            # authorship as attribution, not misconduct

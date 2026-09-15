@@ -1,14 +1,14 @@
 ---
 title: Special Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [special-education, inclusive-learning, equity-in-ai-education, neurodiversity, ai-education, k-12, higher-ed]
 level: [special education, k 12, higher ed]
 confidence: high
 ---
 
-> **Special Education** — the design and delivery of instruction for learners with disabilities, spanning cognitive, physical, sensory, and neurodevelopmental differences. [[ai-education|AI in education]] [[research-methods-aied|research]] in this knowledge base explores how AI tools can support diverse learner needs through [[personalized-learning|personalization]], [[scaffolding|adaptive scaffolding]], and accessible interfaces — while also examining the risks of AI systems that overlook or marginalize disabled learners.
+> **Special Education** — the design and delivery of instruction for learners with disabilities, spanning cognitive, physical, sensory, and neurodevelopmental differences. [[ai-education|AI in education]] [[research-methods-aied|research]] in this knowledge base explores how AI tools can support diverse learner needs through [[personalized-learning|personalization]], [[scaffolding|adaptive scaffolding]], and accessible interfaces — while also examining the risks of [[ai-technologies|AI systems]] that overlook or marginalize disabled learners.
 
 > ⚠️ **Special Education is primarily a [[k-12]] term.** It is rooted in the U.S. Individuals with Disabilities Education Act (IDEA) and the entitlement-based system of Individualized Education Programs (IEPs) that governs special-education services in primary and secondary schooling. In [[higher-ed|higher education]] — and increasingly in K-12 as well — the more common framing is **[[universal-design-for-learning|Universal Design for Learning]]** (a proactive design framework that benefits all learners) alongside [[accessibility]] and [[assistive-technology]] rather than "special education." A K-12 special-education article and a college UDL piece are about overlapping but distinct contexts; the knowledge base keeps both because the research literature spans both. When a source concerns higher education and disabled learners, it is usually better linked to [[universal-design-for-learning]], [[accessibility]], or [[inclusive-learning]] than to special-education.
 
@@ -71,3 +71,4 @@ Special education is a domain where AI's capacity for personalization and adapta
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 
 - [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
+- [[digital-assistive-technologies-neurodivergent-students-2026]] — Generative AI, Virtual Reality, and Beyond: Digital Assistive Technologies for Neurodivergent Students

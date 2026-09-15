@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [educational-measurement, research-methods-aied, quantitative-research, assessment-validity, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, student-experience]
 research_method: [survey, educational measurement, research methods, quantitative, qualitative]
@@ -56,6 +56,8 @@ Behavioral estimates show the same split. [[predicting-attrition-competitive-pro
 
 Sometimes asking and observing are set up head to head. [[student-llm-interaction-taxonomy-review-2026|A scoping review of 46 categorizations from 33 studies]] found the literature split about evenly between self-report and interaction-log data, and concluded that categories "often reflect the measurement approach as much as the interaction itself" — with self-report studies capturing perceptions and intentions while log-based studies capture observable conversational behavior, and the two rarely integrated. [[tracing-genai-literacy-interaction-patterns|Process-data work on GenAI literacy]] makes the constructive version of the point: whether a student prompts iteratively, refines output, and manages [[hallucination-risk|hallucinations]] is observable in interaction logs and not in a questionnaire.
 
+A 2026 structured review and exploratory [[meta-analysis-systematic-review|meta-analysis]] of measures for competent [[generative-ai|generative-AI]] use puts a pooled number on that gap from the other direction: pooling three directly reported same-sample subjective–objective correlations (combined reported N = 2,765) gave r = .055 (Hartung–Knapp 95% CI [−.047, .156]), and adding a fourth study's cross-factor correlations reached only r = .079. All three primary effects came from a single research programme, the largest contributor's reported correlation and p-value could not be reconciled, and the review concludes that self-report cannot stand in for objective performance scores — while noting that the performance instruments are themselves narrow, covering foundation knowledge rather than the oversight and reliance behaviours that matter at work ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
+
 ## Satisfaction and perceived learning as outcomes
 
 Satisfaction is the most frequently self-reported outcome in this corpus, appearing on 63 article pages. It is also the weakest as a proxy for learning, and the knowledge base contains explicit arguments to that effect.
@@ -82,7 +84,7 @@ Because surveys are cheap to administer, the sampling problems are usually where
 
 - [[genai-student-experiences-uk-he-survey-2026|A UK survey of student GenAI use]] reports a convenience sample at 7 institutions, sharply varying [[governance|institutional]] response rates, and non-response bias that may skew toward students with strong views — and notes that ~32% of respondents described conduct that arguably broke policy, in a format where social desirability and contextual pressure make **under-reporting** the likely error direction.
 - [[ai-assisted-instructor-supervised-grading-feedback|A study of AI-assisted grading feedback]] rests on 112 responses, a 31% response rate.
-- [[ai-pedagogical-orientation|A faculty study]] draws on 90 STEM faculty from 572 invited awardees — 16%.
+- [[ai-pedagogical-orientation|A faculty study]] draws on 90 [[stem-education|STEM]] faculty from 572 invited awardees — 16%.
 - [[student-genai-use-views-writing|A sociology survey]] obtained 504 respondents from 844 invitees, and the authors note response rates varied by question.
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|A Delphi study]] completed its first round with 17 respondents, a limitation it states plainly.
 
@@ -142,3 +144,5 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[adaptive-pretesting-retention]] — Behavioral effort indicators derived from logs
 - [[ai-vocational-education-training-review]] — Review reporting the self-report/objective-measure imbalance
 - [[student-genai-use-views-writing|Student use of and views on GenAI for writing]] — Survey plus interviews in one sociology department
+- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading

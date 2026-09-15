@@ -1,7 +1,7 @@
 ---
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-11T13:20:00-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [inclusive-learning, equity-in-ai-education, special-education, learning-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
 level: [special education, higher ed]
@@ -9,7 +9,7 @@ category: [instructional design]
 confidence: high
 ---
 
-> **Inclusive Learning** — the design and delivery of educational experiences that accommodate diverse learner needs, spanning physical, cognitive, sensory, and situational differences. In AI in education, inclusive learning [[research-methods-aied|research]] examines both how AI tools can remove barriers for disabled and neurodivergent learners and how AI systems themselves must be designed to avoid creating new accessibility gaps.
+> **Inclusive Learning** — the design and delivery of educational experiences that accommodate diverse learner needs, spanning physical, cognitive, sensory, and situational differences. In AI in education, inclusive learning [[research-methods-aied|research]] examines both how AI tools can remove barriers for disabled and neurodivergent learners and how [[ai-technologies|AI systems]] themselves must be designed to avoid creating new accessibility gaps.
 
 ## Questions to Consider
 
@@ -18,11 +18,11 @@ confidence: high
 - One study found AI-segmented videos with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners. How might designing for one group's needs improve learning for everyone?
 - AI systems are described as risking new accessibility gaps even as they remove old ones. What kind of learner might a text-based, visual, always-online AI tool silently exclude?
 - Inclusive assessment research exposes a tension between anti-cheating measures and accommodating learners with visual-processing needs. When security and accessibility conflict, how should the trade-off be decided — and by whom?
-- Several tools invert the assumption that edtech must be visual — e.g., voice-first companions for visually impaired learners. What assumptions about the 'default' learner might your own tools or materials be making?
+- Several tools invert the assumption that [[edtech-platform|edtech]] must be visual — e.g., voice-first companions for visually impaired learners. What assumptions about the 'default' learner might your own tools or materials be making?
 
 ## Introduction
 
-Inclusive learning is the design commitment that education should be built so that all learners can participate meaningfully, rather than adapted after the fact for those who struggle. It functions here as an umbrella over adjacent but distinct concepts — [[accessibility]] (can everyone perceive and operate the format?), [[assistive-technology]] (what tools bridge an individual's access gap?), [[universal-design-for-learning]] (how should the design anticipate variability?) — and it engages [[neurodiversity]] and [[special-education]] as design contexts rather than exceptions. AI enters as both a promise (personalisation, accommodation, translation) and a new source of exclusion (cost, data, language coverage, and the assumptions built into models).
+Inclusive learning is the design commitment that education should be built so that all learners can participate meaningfully, rather than adapted after the fact for those who struggle. It functions here as an umbrella over adjacent but distinct concepts — [[accessibility]] (can everyone perceive and operate the format?), [[assistive-technology]] (what tools bridge an individual's [[digital-divide|access gap]]?), [[universal-design-for-learning]] (how should the design anticipate variability?) — and it engages [[neurodiversity]] and [[special-education]] as design contexts rather than exceptions. AI enters as both a promise (personalisation, accommodation, translation) and a new source of exclusion (cost, data, language coverage, and the assumptions built into models).
 
 ## How the related concepts fit together
 
@@ -52,7 +52,7 @@ Inclusive learning sits at the intersection of [[equity-in-ai-education]], [[lea
 
 **[[cognitive-offloading|Cognitive offloading]] and the access-vs-development trade-off.** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]] show that for students with learning disabilities, the same GenAI that lowers barriers to reading and writing access (text leveling, summarizing, drafting support) can, if unguarded, substitute for the comprehension, planning, and monitoring practice these learners need most — an equity tension central to inclusive learning. Inclusive design must therefore consider not just whether a tool is *accessible* but whether it preserves the learner's opportunity to develop the very skills access is meant to enable.
 
-**AI for dyslexia: detection, support, and [[personalized-learning|personalized learning]].** A 2026 interdisciplinary [[meta-analysis-systematic-review|systematic review]] (Dabaghi, D'Urso & Sciarrone, PRISMA-guided, 2018–2024, n=72) finds AI supporting students with dyslexia across detection, assistive support, and personalized learning — but with these strands evolving in parallel rather than in integration, driven more by technological opportunity than by consolidated educational theory. ML-based help-education tools span five areas (specific applications, engagement, personalization, recommendation, generic support) yet emphasize technical performance and classification accuracy while overlooking ecological validity and practical classroom deployment. Detection research (EEG, eye-tracking, ML models) shows diagnostic promise for early intervention but often requires specialized equipment and controlled environments, limiting scalability and accessibility in typical school settings. Open challenges include limited experimental validation, scalability, [[ethics]]/privacy concerns with sensitive student data, limited teacher support and training, and language/cultural barriers (most research targets English-speaking populations) — underscoring that inclusive learning must pair technical capability with validated, scalable, and ethically grounded deployment.
+**AI for dyslexia: detection, support, and [[personalized-learning|personalized learning]].** A 2026 interdisciplinary [[meta-analysis-systematic-review|systematic review]] (Dabaghi, D'Urso & Sciarrone, PRISMA-guided, 2018–2024, n=72) finds AI supporting students with dyslexia across detection, assistive support, and personalized learning — but with these strands evolving in parallel rather than in integration, driven more by technological opportunity than by consolidated educational theory. ML-based help-education tools span five areas (specific applications, engagement, personalization, recommendation, generic support) yet emphasize technical performance and classification accuracy while overlooking ecological validity and practical classroom deployment. Detection research (EEG, eye-tracking, ML models) shows diagnostic promise for early intervention but often requires specialized equipment and controlled environments, limiting scalability and accessibility in typical school settings. Open challenges include limited experimental validation, scalability, [[ethics]]/privacy concerns with sensitive student data, limited [[teacher-role|teacher]] support and training, and language/cultural barriers (most research targets English-speaking populations) — underscoring that inclusive learning must pair technical capability with validated, scalable, and ethically grounded deployment.
 
 **Disability-centered AI critique** examines how AI systems can marginalize rather than include. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** argues that [[generative-ai|generative AI]] systems in higher education actively marginalize disability-centered ways of knowing due to Anglophone, Western-centric training data — connecting to [[equity-in-ai-education]] concerns about epistemic justice.
 
@@ -119,3 +119,4 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
+- [[digital-assistive-technologies-neurodivergent-students-2026]] — Generative AI, Virtual Reality, and Beyond: Digital Assistive Technologies for Neurodivergent Students

@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
 level: [higher ed]
@@ -12,7 +12,7 @@ confidence: medium
 
 ## Questions to Consider
 
-- How confident are you in your ability to spot a false or misleading AI-generated answer? Research suggests self-reported AI competence far exceeds actual evaluation ability — how would you test yourself?
+- How confident are you in your ability to spot a false or misleading AI-generated answer? Research suggests [[self-report-measures|self-reported]] AI competence far exceeds actual evaluation ability — how would you test yourself?
 - Critical thinking here appears in two forms: a skill to teach, and a safeguard against uncritical reliance on AI. Can you think of a situation where a tool that 'teaches' critical thinking is actually training its opposite?
 - One study found that having students interrogate AI-generated mistakes produced large gains in higher-order thinking. How might deliberately exposing errors — rather than hiding them — be a more powerful teaching move than you assumed?
 - Easy access to AI answers can displace critical [[student-engagement|engagement]] before students realize it. What design feature, rather than a policy or a ban, could keep the cognitive effort alive?
@@ -24,7 +24,7 @@ Critical thinking is central to [[ai-literacy]] — students who cannot critical
 
 ### Critical thinking in AI education research
 
-The knowledge base's articles explore critical thinking through design-based and empirical lenses. [[ai-agents-constructive-conflict-design-education-2026|Adversarial AI agents]] enact constructive conflict to prompt reconsideration in novice designers — a Socratic variant that forces critical re-evaluation. [[genai-can-harm-teaching-rct-2026|RCT research on GenAI in teaching]] raises the question of whether AI tools that optimize for surface-level outcomes may inadvertently suppress the critical thinking that leads to deeper learning.
+The knowledge base's articles explore critical thinking through [[design-based-research|design-based]] and empirical lenses. [[ai-agents-constructive-conflict-design-education-2026|Adversarial AI agents]] enact constructive conflict to prompt reconsideration in novice designers — a Socratic variant that forces critical re-evaluation. [[genai-can-harm-teaching-rct-2026|RCT research on GenAI in teaching]] raises the question of whether AI tools that optimize for surface-level outcomes may inadvertently suppress the critical thinking that leads to deeper learning.
 
 [[chatgpt-critical-creative-thinking-review|Reviews of ChatGPT's impact on thinking]] document mixed findings: AI can [[scaffolding|scaffold]] critical analysis when used deliberately (e.g., asking students to critique AI-generated arguments), but it can also short-circuit thinking when used as an answer engine. This tension connects to [[ai-literacy-assessment-misalignment]] research showing that self-reported AI competence far exceeds actual critical evaluation ability.
 
@@ -102,3 +102,5 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
 - [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Dimension-specific critical-thinking gains in AI-supported multimodal writing (Lu et al. 2027)
+- [[critics-lm-critical-thinking-science-education-2026]] — CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education
+- [[durable-skills-measurement-ai-teammates-2026]] — Towards Scalable Measurement of Durable Skills
