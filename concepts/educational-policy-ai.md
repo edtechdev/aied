@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-14T06:55:00-04:00"
+updated: "2026-09-15T17:03:50-04:00"
 type: concept
 tags: [regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics]
 audience: [administrators, instructors, faculty development]
@@ -32,6 +32,8 @@ confidence: high
 ### Policy maturity gap
 
 The knowledge base documents that institutional AI policies [[genai-policies-higher-ed-computing|lag behind actual AI use]]. [[educational-development]] programs, [[teacher-ai-competency]] frameworks, and [[regulation]] all require coherent policy foundations. Large-scale field evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] shows that the learning losses from homework outsourcing go largely unnoticed because individual subject teachers and students rarely connect the decline to AI use — a gap that evidence-informed policy (e.g., weighting closed-book assessment, informing students of long-run costs, monitoring inputs rather than outputs) can address.
+
+**Advisory documents outnumber binding policy.** A census of every accredited program in one professional field shows that the maturity gap is one of form as well as timing. [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] collected AI policy and guidance documents from all 48 CAHIIM-accredited health informatics and health information management master's programs in the United States and found that 40 (83%) had at least one publicly available AI-related document while 8 had none, but that the documents were mostly guidance rather than enforceable rules: 21 guidelines (53%) against 7 formal policies (18%). Their content centred on academic integrity and acceptable use, with privacy, intellectual property, and regulatory concepts (HIPAA, FERPA, research compliance) appearing far less often, and topic modelling returned the same student-conduct emphasis. Neither document type nor intended audience varied by delivery mode (Fisher's exact P = .85 and P = .71). The authors read this as evidence that academic program policy is a distinct activity from curriculum design and workforce competency development, and argue that accrediting bodies could reduce the resulting variation by providing AI policy frameworks that integrate academic integrity, data ethics, and equitable access.
 
 **Task-level regulation is the emerging pattern.** A large-scale longitudinal study of 31,000+ course syllabi (2021–2025) at a large public research university ([[chirikov-regulate-ai-syllabi-2026|Chirikov 2026]]) shows how instructors actually regulate AI in practice: explicit AI regulation grew from near zero to 55% of courses by Fall 2025, but the direction shifted from restrictive toward permissive, and instructors increasingly **differentiated by task type** — restricting AI for drafting/reasoning (displacement-risk tasks) while permitting it for editing/proofreading and study support (augmentation tasks). Framing also shifted from academic integrity (63%→49% of syllabi) toward learning impact (1%→29%). This task-based pattern — built on the labor-economics mechanisms of task displacement, augmentation, and reinstatement — offers a more granular alternative to blanket adoption-or-ban policies and is a direct empirical anchor for the policy-vs-governance distinction above.
 
@@ -89,6 +91,7 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on governing generative AI in higher education
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance for AI in higher education (scoping review)
+- [[institutional-ai-policy-health-informatics-2026]] — AI policy documents across all 48 accredited health informatics master's programs: mostly guidance, centred on academic integrity (Eldredge et al. 2026)
 
 - [[credential-cognitive-stewardship-ai-assessment]] — Cognitive stewardship for AI-mediated assessment (30-university policy audit)
 - [[adarkwah-genai-unesco-policy-2026]]

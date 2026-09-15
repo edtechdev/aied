@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-15
 
-Articles: 1188 | Concepts: 191 | FAQs: 18
+Articles: 1189 | Concepts: 191 | FAQs: 18
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -684,6 +684,7 @@ Articles: 1188 | Concepts: 191 | FAQs: 18
 - [[informal-learning-everyday-human-llm-interaction]] — Informal Learning Emerges in Everyday Human-LLM Interaction
 - [[inquiry-based-learning]] — Inquiry-Based Learning
 - [[inside-llm-student-simulator-reasoning-2026]] — INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators
+- [[institutional-ai-policy-health-informatics-2026]] — Institutional approaches to artificial intelligence policy and guidance in health informatics and information management education: emerging trends and inconsistencies
 - [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
 - [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
 - [[instructional-agents-multi-agent-course-gen]] — Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design
