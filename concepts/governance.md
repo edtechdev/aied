@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-10T09:03:00-04:00"
+updated: "2026-09-15T17:03:57-04:00"
 type: concept
 tags: [educational-policy-ai, ethics, higher-ed, change-management, privacy, regulation, ai-education]
 level: [higher ed]
@@ -42,6 +42,8 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 - **AI literacy as a governance capacity ("the 18th SDG"):** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] reconceptualize AI literacy as a systemic governance mechanism rather than a classroom skill, proposing a six-level AIRE Taxonomy (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) that extends Bloom's hierarchy with ethical synthesis and strategic foresight, and an AI–SDG Nexus mapping literacy competencies onto all seventeen Sustainable Development Goals. Framing AI literacy as an "18th SDG" heuristic — a cross-cutting capacity that channels learning into governance and sustainable development — the study's survey of 300 professionals found governance literacy the strongest predictor of AI–SDG nexus awareness (β = 0.64, r = 0.67 with nexus awareness) and identified ethical reasoning and reflective thinking as the strongest predictors of trustworthy AI use. This ties institutional governance to the cultivation of public [[ai-literacy]], echoing the knowledge base's finding that responsible AI alignment requires policymakers and citizens who can critically interpret algorithmic systems, not merely compliance-oriented technical control.
 
 - **Academic integrity and assessment:** Governance is central to how institutions handle AI-related [[academic-integrity]] concerns and redesign [[assessment]] — moving from prohibition/policing toward guidance, AI literacy, and process-oriented designs, as seen in research on [[student-rationalization-ai-writing|student rationalization]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
+
+- **The instrument mix of written-down governance:** [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] audited AI-related documents from all 48 CAHIIM-accredited health informatics and health information management master's programs in the United States. Forty of the 48 (83%) had at least one publicly available document, and across the 40 documents analyzed governance was realized mostly as guidance rather than binding rule: 21 guidelines (53%), 9 informational documents (23%), and only 7 formal policies (18%). Most documents addressed faculty and students together (20, 51%) rather than students alone (6, 15%), and neither policy type nor audience varied with delivery mode (Fisher's exact P = .85 and P = .71), suggesting the instrument mix tracks institutional habit rather than the demands of online, campus, or hybrid programs. Content clustered on academic integrity, responsible AI use, and student conduct, with little guidance covering AI use in applied learning, research, and simulated environments, precisely where curricular and data governance concerns intersect. The authors also report that regional accreditors supplied most of the corpus (Higher Learning Commission n = 14 and SACSCOC n = 13, together about 60%, with none from the WASC region) and argue accreditation is the external lever best placed to reduce variation across programs.
 
 - **Ethics, privacy, and bias:** Governance mechanisms operationalize the ethical principles ([[ethics]], [[privacy]], [[bias-mitigation]]) that are often recognized but not enforced, connecting to responsible AI and [[regulation|regulatory]] debates in education.
 
@@ -97,6 +99,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 ## Connected Articles
 - [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)
 - [[tan-aigem-ai-educational-management-2026]] — AIGEM framework for AI governance in educational management
+- [[institutional-ai-policy-health-informatics-2026]] — AI policy and guidance documents across 48 CAHIIM-accredited health informatics programs: governance as non-binding, integrity-centric guidance (Eldredge et al. 2026)
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
