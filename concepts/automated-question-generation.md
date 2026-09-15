@@ -1,7 +1,7 @@
 ---
 title: Automated Question Generation
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [automated-question-generation, llm, generative-ai, assessment, automated-assessment, formative-assessment, educational-nlp, personalized-learning, adaptive-learning, ai-ed-evaluation, educational-measurement]
 research_method: [educational measurement]
@@ -9,7 +9,7 @@ category: [assessment, evaluation]
 confidence: high
 ---
 
-> **Automated question generation (AQG)** — the use of AI, especially NLP and [[llm|large language models (LLMs)]], to generate educational assessment items (multiple-choice, short-answer, fill-in-the-blank, coding, and performance questions) automatically from source material or learning objectives. AQG enables assessment at scale — producing [[formative-assessment|formative]] quizzes, adaptive exercises, and practice items — but quality varies dramatically across item types and requires validation to avoid hallucinated or poorly calibrated questions. It is a core component of [[automated-assessment]] and a key enabler of [[adaptive-learning]] and [[personalized-learning]].
+> **Automated question generation (AQG)** — the use of AI, especially NLP and [[llm|large language models (LLMs)]], to generate [[assessment|educational assessment]] items (multiple-choice, short-answer, fill-in-the-blank, coding, and performance questions) automatically from source material or learning objectives. AQG enables assessment at scale — producing [[formative-assessment|formative]] quizzes, adaptive exercises, and practice items — but quality varies dramatically across item types and requires validation to avoid hallucinated or poorly calibrated questions. It is a core component of [[automated-assessment]] and a key enabler of [[adaptive-learning]] and [[personalized-learning]].
 
 ## Questions to Consider
 
@@ -38,6 +38,7 @@ The knowledge base's research illustrates several approaches:
 ## Validation and quality
 
 The central challenge in AQG is **quality control**:
+- **Assess the solving process, not the stem:** [[proiqa-math-item-quality-assessment-2026|ProIQA]] argues that item quality review should follow what an expert does — simulate the solution — and builds an LLM-generated reasoning tree per item, verified for mathematical correctness at 90.38–97.80%, then encodes its dependency structure with a graph [[machine-learning|neural network]] alongside a stem-only view. It reports average gains over the second-best method of 7.5% in concept assessment, 6.3% in difficulty estimation and 19.5% in competency assessment, and its error analysis names a failure mode worth watching: a logically correct but structurally shallow reasoning tree leaves a hard item looking easy.
 
 - **Hallucination risk:** LLMs can generate factually incorrect questions. [[generate-then-validate-question-gen|Generate-Then-Validate]] shows a dedicated validation phase sharply reduces this, and [[hallucination-risk|hallucination risk]] is a recognized concern throughout.
 - **Difficulty calibration:** generated questions must be calibrated to appropriate difficulty. [[llm-difficulty-calibration-programming-exams-2026|Difficulty-calibration research]] shows AI difficulty estimates correlate strongly with student performance (e.g., rho ≈ −0.87), enabling better item selection — while cautioning against high-stakes [[ai-misuse-learning-harm|misuse]]. [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] extend this to K-5 math and reading items (N = 5170) calibrated under the Rasch IRT model: GPT-4o's zero-shot difficulty ratings correlated moderately-to-strongly with true difficulties (r = 0.83 math, r = 0.81 reading) but varied by grade, while a feature-based approach — LLM-extracted cognitive and linguistic features fed into tree-based models — reached correlations up to r = 0.87. The study's structured feature extraction (e.g., syntax complexity, [[cognitive-offloading|cognitive load]], distractor trickiness) and its practical seven-step workflow offer a template for calibrating generated items, while its early-grade range-restriction finding and generalizability caveats caution against high-stakes use.
@@ -101,3 +102,5 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - [[llm-turing-test-italian-legal-exams-2026]] — LLM Turing test in legal exams
 
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
+- [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation

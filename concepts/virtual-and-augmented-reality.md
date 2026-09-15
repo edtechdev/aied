@@ -1,7 +1,7 @@
 ---
 title: Virtual and Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-09-13T09:52:00-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [generative-ai, simulation, embodied-learning, multimodal, professional-training, stem-education, accessibility, medical-education]
 confidence: high
@@ -45,9 +45,11 @@ The strongest evidence for VR/AR is comparative and [[discipline-specific-aied|d
 
 The counter-evidence is just as informative. In the first meta-analysis of AI-based interventions for [[special-education|students with disabilities]] — 29 studies, 239 effect sizes, medium overall effect g = 0.588 — intelligent VR systems produced g = 0.528, **not statistically significant**, while computer software reached 0.959 and robots 0.509. Publication bias was present and trim-and-fill reduced the overall estimate to g = 0.269. The pattern is not that immersion fails, but that its effects are small, heterogeneous, and sensitive to how the particular intervention was designed and compared.
 
+The clearest negative result in the knowledge base comes from a studio deployment rather than a comparison of modalities: in a 27-student architectural design studio, teams using a GenAI plus multi-user XR pipeline declined more in design [[self-efficacy]] confidence (β = −1.675) and outcome expectancy (β = −2.088) than teams working the normal course workflow, with no significant difference in expert panel ratings of their presentations ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). The authors explain it as phase-dependent complementarity with real friction — GenAI for externalising tentative ideas, XR for spatial and scale evaluation — alongside control, dimensional-fidelity, shared-attention and motion-comfort problems, a reminder that immersive tooling adds interaction costs as well as capability.
+
 ## Fidelity, presence and the authenticity gap
 
-Where immersive practice is used for interpersonal and procedural skill, the limiting factor is not visual fidelity but felt authenticity. A [[mixed-methods-research|mixed-methods]] review of AI-powered nursing simulation (19 studies, N = 1,253) found AI effective for cognitive knowledge and affective outcomes but inconsistent for complex psychomotor skills, and named the reason: an **authenticity gap** covering emotional resonance, nonverbal cue recognition, and tactile and physical-examination dimensions. Its practical recommendation is a **stepped simulation continuum** — AI is well suited to highly structured objectives such as foundational communication and history taking, while advanced psychomotor and emotionally complex scenarios belong with human-standardised patients and clinical placement. Technical instability compounds the problem: speech-recognition delays inject extraneous [[cognitive-offloading|cognitive load]] and anxiety, which makes stability and latency design levers rather than implementation details.
+Where immersive practice is used for interpersonal and procedural skill, the limiting factor is not visual fidelity but felt authenticity. A [[mixed-methods-research|mixed-methods]] review of AI-powered nursing simulation (19 studies, N = 1,253) found AI effective for cognitive knowledge and affective outcomes but inconsistent for complex psychomotor skills, and named the reason: an **authenticity gap** covering emotional resonance, nonverbal cue recognition, and tactile and physical-[[summative-assessment|examination]] dimensions. Its practical recommendation is a **stepped simulation continuum** — AI is well suited to highly structured objectives such as foundational communication and history taking, while advanced psychomotor and emotionally complex scenarios belong with human-standardised patients and clinical placement. Technical instability compounds the problem: speech-recognition delays inject extraneous [[cognitive-offloading|cognitive load]] and anxiety, which makes stability and latency design levers rather than implementation details.
 
 The same logic explains why presence is not automatically good. Motion sickness, UI inconsistency, hardware cost, and uneven device access decide who can use an immersive environment at all, which is why the modality's [[equity-in-ai-education|equity]] questions connect to [[accessibility]] and [[inclusive-learning]] rather than sitting apart from them.
 
@@ -86,3 +88,5 @@ The same logic explains why presence is not automatically good. Motion sickness,
 - [[vargas-ai-catalyst-situated-learning-2026]] — lack of immersive tooling as a barrier to situated learning
 - [[medgame-llm-medical-education-gamification]] — gamified medical training with AI
 - [[tech-enhanced-tabletop-cybersecurity-education]] — augmented tabletop scenarios in cybersecurity education
+- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
+- [[digital-assistive-technologies-neurodivergent-students-2026]] — Generative AI, Virtual Reality, and Beyond: Digital Assistive Technologies for Neurodivergent Students

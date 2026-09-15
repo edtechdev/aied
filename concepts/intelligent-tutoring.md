@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-14T06:55:00-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 tags: [intelligent-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
@@ -39,6 +39,7 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 
 ### Key ITS research
 
+- **Micro-randomised trials of a tutoring platform:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] ran a four-week multisite individually randomised evaluation of Medly in GCSE [[biology-education|Biology]], [[chemistry-education|Chemistry]] and [[physics-education|Physics]], with 644 of 929 students completing post-testing; allocation to the platform produced Hedges' g = 0.33 (95% CI 0.18 to 0.48) against business-as-usual [[self-directed-learning|self-directed]] revision, with positive estimates in all three subjects and no evidence of differential impact by disadvantage (Pupil Premium g = 0.28 versus non-Pupil Premium g = 0.35).
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows that traditional ITS hint design can inadvertently enable bypass strategies, calling for more sophisticated [[scaffolding]] approaches.
 - **[[deeptutor|DeepTutor]]** provides a fully [[open-source]] agentic tutoring framework with citation-grounded tutoring and difficulty-calibrated [[automated-question-generation|question generation]].
 - **[[huang-interpretable-knowledge-tracing-2026|Interpretable Knowledge Tracing]]** addresses the opacity problem by producing interpretable cognitive quantities from LLM logits.
@@ -187,3 +188,4 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science

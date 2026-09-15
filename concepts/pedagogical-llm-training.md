@@ -1,7 +1,7 @@
 ---
 title: Training Pedagogical LLMs for Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [llm, intelligent-tutoring, adaptive-learning, benchmark, ai-education, higher-ed, generative-ai, student-experience, scaffolding, k-12]
 research_method: [benchmark]
@@ -30,7 +30,7 @@ Singh et al. (2026) developed a three-stage pipeline transforming Qwen3-32B into
 
 ### Stage 1: Initial RL (EduQwen 32B-RL1)
 - **Algorithm:** DAPO (Decoupled Advantage Policy Optimization) with asymmetric clipping
-- **Reward model:** Prioritizes *guiding* responses over direct answers
+- **[[reinforcement-learning|Reward model]]:** Prioritizes *guiding* responses over direct answers
 - **Curriculum learning:** Progressive difficulty; hard-negative mining excludes questions the base model already solves perfectly
 - **Extended rollouts:** 5→8 steps to capture multi-step pedagogical decisions
 - **Result:** 94.13% (already SOTA)
@@ -83,7 +83,9 @@ Two complementary post-training strategies for embedding pedagogy into foundatio
 
 ## Rubric-guided prompting as a lightweight alternative
 
-Not all pedagogical shaping requires retraining. [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] showed that rubric-guided prompting — treating the rubric as a semantic interface between human pedagogical intent and machine inference — can push a general-purpose LLM toward human-like evaluative judgment without fine-tuning: iterative rubric co-refinement raised LLM–human agreement on student design work from 54.75% to 81.25% (Cronbach's Alpha 0.393 → 0.798), and role-aware prompting (instructor, peer-reviewer, grant-reviewer) produced distinct evaluative feedback. This complements the training-based approaches above: where TeachLM argues prompt engineering is a stopgap and authentic-data post-training is the scarce ingredient, Yaşar et al. demonstrate that a well-engineered rubric can itself be a powerful, low-cost lever for aligning LLM evaluation with pedagogical intent — though [[human-in-the-loop-ai|human-in-the-loop]] oversight remains essential, as models can still misinterpret nuance, hallucinate rationale, or blend roles. A further lightweight alternative is prompt-level role-play customization without retraining: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] used the OpenAI custom-GPT feature to simulate a misconception-holding middle-school math student, and found that a refined, literature-grounded prompt (specifying three ratio-reasoning misconceptions) elicited the target conceptual errors far more reliably than a broad algebra prompt (0.98 vs. 0.40 presence) — evidence that careful prompt design can substantially steer an off-the-shelf model toward a desired pedagogical persona, even while the simulated agent retained authenticity limitations (teacher-like tone, role confusion).
+Not all pedagogical shaping requires retraining. [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] showed that rubric-guided prompting — treating the rubric as a semantic interface between human pedagogical intent and machine inference — can push a general-purpose LLM toward human-like [[evaluative-judgement|evaluative judgment]] without fine-tuning: iterative rubric co-refinement raised LLM–human agreement on student design work from 54.75% to 81.25% (Cronbach's Alpha 0.393 → 0.798), and role-aware prompting (instructor, peer-reviewer, grant-reviewer) produced distinct evaluative feedback. This complements the training-based approaches above: where TeachLM argues prompt engineering is a stopgap and authentic-data post-training is the scarce ingredient, Yaşar et al. demonstrate that a well-engineered rubric can itself be a powerful, low-cost lever for aligning LLM evaluation with pedagogical intent — though [[human-in-the-loop-ai|human-in-the-loop]] oversight remains essential, as models can still misinterpret nuance, hallucinate rationale, or blend roles. A further lightweight alternative is prompt-level role-play customization without retraining: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] used the OpenAI custom-GPT feature to simulate a misconception-holding middle-school math student, and found that a refined, literature-grounded prompt (specifying three ratio-reasoning [[misconceptions]]) elicited the target conceptual errors far more reliably than a broad algebra prompt (0.98 vs. 0.40 presence) — evidence that careful prompt design can substantially steer an off-the-shelf model toward a desired pedagogical persona, even while the simulated agent retained authenticity limitations (teacher-like tone, role confusion).
+
+The lightest intervention in this family is not prompting but parameter-efficient adaptation. [[lora-finetuned-control-systems-course-qa-2026|Lu et al. (2026)]] built 360 system–user–assistant dialogues from a Linear Control Systems course, restructured answers into a Solution–Method–Teaching-Points format, and applied LoRA to Qwen2.5-3B and 7B at ranks 4, 8 and 16. Structured-output coverage moved from near zero at base to roughly 1.00, and the best configuration (7B, r = 16) reached ROUGE-L 0.4093 with bootstrap confidence intervals for the gain entirely above zero — but gain per million adapter parameters fell monotonically as rank rose, so course-level alignment is a scale-and-rank trade-off rather than a free upgrade. The metrics measure similarity and formatting, not derivational accuracy.
 
 ## Synthesis: What Makes Pedagogical Training Work
 
@@ -153,3 +155,4 @@ Because tutoring requires corrective friction — challenging a student's incorr
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
+- [[lora-finetuned-control-systems-course-qa-2026]] — LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects

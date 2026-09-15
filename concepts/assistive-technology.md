@@ -1,7 +1,7 @@
 ---
 title: Assistive Technology
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [assistive-technology, accessibility, special-education, inclusive-learning, equity-in-ai-education, learning-design]
 level: [special education]
@@ -29,9 +29,11 @@ Assistive technology is the concrete *tool layer* of [[accessibility]]. Where ac
 
 **Policy and provision.** **[[shin-ai-policies-sld-2026|Shin et al.]]** document that U.S. AI policy documents largely fail to address assistive technology and accommodations for students with specific learning disabilities, calling for policy guidance grounded in the Assistive Technology Act and IDEA.
 
-**AI for dyslexia across detection, support, and [[personalized-learning|personalized learning]].** A 2026 interdisciplinary [[meta-analysis-systematic-review|systematic review]] (Dabaghi, D'Urso & Sciarrone, PRISMA-guided, 2018–2024, n=72) maps AI support for students with dyslexia, finding AI used for detection, assistive support, and personalized learning — but with these strands evolving in parallel rather than in integration, driven more by technological opportunity than by consolidated educational theory. ML-based help-education tools fall into five areas (specific applications, [[student-engagement|engagement]], personalization, recommendation, generic support) yet emphasize technical performance and classification accuracy while overlooking ecological validity and practical classroom deployment. Detection research (EEG, eye-tracking, ML models) shows diagnostic promise for early intervention but often requires specialized equipment and controlled environments, limiting scalability and accessibility in typical school settings. Open challenges include limited experimental validation, scalability, [[ethics]]/privacy concerns with sensitive student data, limited teacher support and training, and language/cultural barriers (most research targets English-speaking populations) — a reminder that assistive tools must be validated, scalable, and ethically grounded to genuinely bridge access gaps.
+**AI for dyslexia across detection, support, and [[personalized-learning|personalized learning]].** A 2026 interdisciplinary [[meta-analysis-systematic-review|systematic review]] (Dabaghi, D'Urso & Sciarrone, PRISMA-guided, 2018–2024, n=72) maps AI support for students with dyslexia, finding AI used for detection, assistive support, and personalized learning — but with these strands evolving in parallel rather than in integration, driven more by technological opportunity than by consolidated educational theory. ML-based help-education tools fall into five areas (specific applications, [[student-engagement|engagement]], personalization, recommendation, generic support) yet emphasize technical performance and classification accuracy while overlooking ecological validity and practical classroom deployment. Detection research (EEG, eye-tracking, ML models) shows diagnostic promise for early intervention but often requires specialized equipment and controlled environments, limiting scalability and accessibility in typical school settings. Open challenges include limited experimental validation, scalability, [[ethics]]/privacy concerns with sensitive student data, limited [[teacher-role|teacher]] support and training, and language/cultural barriers (most research targets English-speaking populations) — a reminder that assistive tools must be validated, scalable, and ethically grounded to genuinely bridge access gaps.
 
 **The limits of assistive tools.** Assistive technology enables access but does not by itself ensure inclusive instruction or learner [[agency]]. **[[genai-minoritized-knowledges-disability|Critical research]]** and the push for [[agency|agentic]] roles for students with disabilities remind us that access must pair with meaningful participation.
+
+A 2026 scoping review of digital assistive [[ai-technologies|technologies]] for [[neurodiversity|neurodivergent]] students in [[higher-ed|higher education]] maps the decade's output: 766 records screened across five databases, 40 studies included, with AI-based tools in 15 of them and [[virtual-and-augmented-reality|virtual reality]] in 11. Its organising finding is a mismatch between what the tools target and where the barriers sit — 27 studies supported learning directly, 13 addressed reading and writing and 12 study management, while attention (n = 4) and social communication (n = 5) were comparatively neglected and only 6 addressed multiple barriers ([[digital-assistive-technologies-neurodivergent-students-2026|Rempel et al., 2026]]).
 
 ## Implications for practice
 
@@ -62,3 +64,4 @@ Assistive technology is the concrete *tool layer* of [[accessibility]]. Where ac
 
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
+- [[digital-assistive-technologies-neurodivergent-students-2026]] — Generative AI, Virtual Reality, and Beyond: Digital Assistive Technologies for Neurodivergent Students

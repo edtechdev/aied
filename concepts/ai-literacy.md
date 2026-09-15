@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-14T11:14:50-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, educational-development, academic-integrity]
 audience: [faculty development, instructors, learners]
@@ -40,6 +40,8 @@ Frameworks increasingly trace how these dimensions are enacted in practice: [[da
 **Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity-in-ai-education]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[educational-development]], and [[governance|governance frameworks]] — institutional AI literacy is a matter of [[educational-policy-ai|policy]] as much as pedagogy. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
 
 - **AI literacy as a governance capacity for sustainable development.** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] reconceptualize AI literacy as a governance-oriented capacity rather than a purely educational or technical skill, linking it to all seventeen UN Sustainable Development Goals. Their six-level **AIRE Taxonomy** (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) extends Bloom's hierarchy by adding ethical synthesis and strategic foresight, positioning advanced competencies (Analyze–Govern) as the pathway from foundational literacy to institutional and policy-level governance — an "18th SDG" heuristic that treats literacy as a cross-cutting cognitive and ethical bridge. A survey of 300 professionals in a national context found strong technical awareness but limited ethical and governance readiness, with **ethical reasoning and reflective thinking the strongest predictors of sustainable, trustworthy AI use** and governance literacy the strongest predictor of AI–SDG nexus awareness (β = 0.64). This empirically grounds the knowledge base's emphasis on critical-use literacy and ties AI literacy directly to [[sustainability]] and [[educational-policy-ai|policy]] integration.
+
+Teacher interviews in the same period propose one extension of the construct: **AI companion literacy**, which treats the companion as a relationship rather than a tool and adds knowing that a companion is a program rather than a person, what is safe to disclose, what dependence looks like, and what unmet need lies behind the turn to it. The evidence is 33 US [[k-12]] teachers' accounts of where their jurisdiction begins and ends rather than student outcomes, so the extension is a design proposal awaiting measurement ([[k12-teachers-ai-companion-literacy-2026|Xiao et al., 2026]]).
 
 ### How AI literacy is developed
 
@@ -114,6 +116,8 @@ A related question is *what* the instruments can measure at all. [[burriss-multi
 A complementary strand measures how learners and teachers receive AI literacy *materials* rather than their literacy itself. [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang and Wu (2026)]] had 794 students and 37 teachers rate two guidebook editions built to UNESCO's age threshold (ages 9-12 and 13-18) after roughly 30 minutes of guided classroom exposure. Acceptance held a four-factor structure (Performance Expectancy, Effort Expectancy, Perceived Playfulness, Behavioral Intention) with measurement invariance supported across the two student editions, younger learners scored higher on all four constructs, and perceived playfulness carried the largest association with intention in both cohorts. The authors are explicit about what this is not: perceived acceptance of an age-tiered resource is not AI literacy achievement, [[ethics|ethical]] reasoning, adoption or sustained use, and material-level acceptance should not be read as evidence that literacy improved.
 
 Measurement also extends to the educators who mediate learners' engagement with AI. Most AI-literacy assessments target students or general users, leaving a gap in [[teacher-education|teacher]] education — a gap the [[language-teachers-ai-literacy-edai-2026|Teachers' AI Literacy Scale (TAILS)]] addresses: grounded in the ED-AI framework with six dimensions (knowledge, evaluation, collaboration, contextualization, autonomy, and ethics), it was validated through exploratory and confirmatory factor analysis with [[language-learning|preservice language teachers]]. Such instruments support measuring and developing the AI literacy of the educators who mediate learners' engagement with AI.
+
+The 2026 update of that measurement literature reorganises it into four domains — knowledge and use, epistemic oversight, reliance calibration, and operational control of tool-using agents — and reports that no validated individual-level instrument in the corpus covers the full combination of scope, permissions, recovery, state isolation, independent review and evidence-based closure that [[agentic-ai|agentic]] tool use demands. Its pooled subjective–objective correlation across three same-sample effects was r = .055, consistent with the divergence described above rather than with self-ratings as a usable proxy ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
 
 ### Connections across the knowledge base
 
@@ -222,3 +226,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[human-capability-test-learning-outcomes-ai-2026]] — A human capability test for learning outcomes in the AI era (Saleh 2026)
 - [[age-tiered-ai-literacy-guidebooks-2026]] — Age-tiered AI literacy guidebooks evaluated with 794 students and 37 teachers: four-factor acceptance structure invariant across the 9-12 and 13-18 editions, with younger learners higher on every construct
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompt literacy as a foundational literacy distinct from prompt engineering: the five-phase human-centered GenAI engagement model (Miles, Haber-Curran & Arar 2026)
+- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
+- [[k12-teachers-ai-companion-literacy-2026]] — Exploring K-12 Teachers' Perceptions of Students' Relationships with AI Companions: Boundaries, Intervention Strategies, and Design Implications
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
+- [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: Teaching Resources for a ChatGPT World

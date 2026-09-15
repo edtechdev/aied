@@ -1,7 +1,7 @@
 ---
 title: RCT
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, research-methods-aied]
 research_method: [research methods, experiment]
@@ -9,15 +9,15 @@ level: [higher ed]
 confidence: high
 ---
 
-> **Randomized controlled trial (RCT)** — a research design in which participants are randomly assigned to a treatment or control condition to estimate the causal effect of an intervention on an outcome. In [[ai-education|AI in education]], RCTs are the gold standard for establishing whether an AI tool or pedagogical approach *causes* [[learning-gains|learning gains]], engagement changes, or other outcomes, rather than merely correlating with them.
+> **Randomized controlled trial (RCT)** — a research design in which participants are randomly assigned to a treatment or control condition to estimate the causal effect of an intervention on an outcome. In [[ai-education|AI in education]], RCTs are the gold standard for establishing whether an AI tool or [[pedagogy|pedagogical]] approach *causes* [[learning-gains|learning gains]], engagement changes, or other outcomes, rather than merely correlating with them.
 
 ## Questions to Consider
 
 - If a school tells you 'students who used the AI tool scored higher,' why might that still fail to prove the tool caused the gain — even if the difference is large?
 - Randomization balances known *and unknown* confounders across groups. Before you read, what does random assignment accomplish that simply comparing two intact classrooms cannot, no matter how well-matched they look?
-- The page calls the RCT the gold standard but lists real costs: artificial settings, fast-changing AI that dates trials, underpowered small samples, and ethical constraints on withholding helpful tools. Which of these trade-offs do you think is most often ignored in education research headlines?
-- An RCT with 1,174 participants found GenAI closed about three-quarters of an education-based productivity gap. But a well-run RCT can still be conducted on a narrow task in a contrived setting. What should you check about the *outcome measure* before trusting the causal claim?
-- Consider the ethics problem directly: if you had genuine reason to believe an AI tutor helps students learn, is it defensible to randomly deny it to half a classroom for a semester? How would you design an ethically sound study that still isolates the cause?
+- The page calls the RCT the gold standard but lists real costs: artificial settings, fast-changing AI that dates trials, underpowered small samples, and [[ethics|ethical]] constraints on withholding helpful tools. Which of these trade-offs do you think is most often ignored in education research headlines?
+- An RCT with 1,174 participants found [[generative-ai|GenAI]] closed about three-quarters of an education-based productivity gap. But a well-run RCT can still be conducted on a narrow task in a contrived setting. What should you check about the *outcome measure* before trusting the causal claim?
+- Consider the ethics problem directly: if you had genuine reason to believe an [[intelligent-tutoring|AI tutor]] helps students learn, is it defensible to randomly deny it to half a classroom for a semester? How would you design an ethically sound study that still isolates the cause?
 
 ## Introduction
 
@@ -25,6 +25,7 @@ Randomization is what distinguishes an RCT from other designs: by randomly assig
 
 ### How RCTs appear in the research
 
+- **Micro-RCTs as a response to fast-moving technology:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] argue that conventional large-scale trials cannot keep pace with tutoring platforms that change materially during a study, and use [[teacher-role|teacher]]-led micro-randomised controlled trials across English secondary schools (644 of 929 students completing post-testing, g = 0.33) to keep causal estimation repeatable. The trade-offs are stated in their own design: 30.7% attrition, [[curriculum-design|curriculum]]-aligned rather than independently standardised outcomes, and only four weeks of follow-up.
 - **Causal efficacy claims:** RCTs in AIED test whether an AI tutor, tool, or pedagogical treatment improves outcomes. [[generative-ai-education-productivity-gaps|A randomized experiment on generative AI]] with 1,174 participants found GenAI substantially narrows education-based productivity gaps, closing roughly three-quarters of the initial performance difference — a clear causal estimate of AI's effect.
 - **Comparison to the gold standard:** The [[research-methods-aied|research methods]] page situates RCTs as the strongest design for internal validity while noting their trade-offs — cost, artificial conditions, fast-changing AI, small underpowered samples, and ethical limits on withholding potentially helpful tools.
 
@@ -52,3 +53,4 @@ For the fuller treatment of experimental design in AI in education — including
 - [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
 - [[burneo-can-edtech-close-learning-gaps-2026]] — World Bank meta-analysis of 14 EdTech RCTs
 
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science

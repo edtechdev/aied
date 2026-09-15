@@ -1,7 +1,7 @@
 ---
 title: Group Work
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [collaborative-learning, assessment, academic-integrity, agency, higher-ed, peer-review, authentic-assessment, generative-ai]
 audience: [instructors, learners]
@@ -126,3 +126,4 @@ A second line of research treats AI as a participant rather than a tool, and its
 - [[teacher-student-agency-orchestration]] — Co-orchestration of teacher and student agency in real time
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in the AI era
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[durable-skills-measurement-ai-teammates-2026]] — Towards Scalable Measurement of Durable Skills
