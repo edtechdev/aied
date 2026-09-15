@@ -32,12 +32,12 @@
     "repo": "31d4bf84f44cdecc"
   },
   "skills/research/wiki-batch-fulltext-enrichment/SKILL.md": {
-    "installed": "61c0bac4ff80bb1c",
-    "repo": "6b07941a2ee5af83"
+    "installed": "3b8da15dc5582896",
+    "repo": "d815c81153975acc"
   },
   "skills/research/wiki-concept-narrative/SKILL.md": {
-    "installed": "a12ab9aff0ae2a02",
-    "repo": "4db72097b35d708e"
+    "installed": "9a5c9835c93da7b1",
+    "repo": "6f73184a51dd7ea9"
   },
   "skills/research/wiki-concept-page-design/SKILL.md": {
     "installed": "b90e018991acb89a",
@@ -48,11 +48,15 @@
     "repo": "da3546b45a442e23"
   },
   "skills/research/wiki-page-deepening/SKILL.md": {
-    "installed": "504408176fd65dd5",
-    "repo": "64ef73325870faa9"
+    "installed": "db78825ca44d9a47",
+    "repo": "f24d718dcdf841b7"
   },
   "tooling/SKILL.md": {
-    "installed": "92baa2e5fc55dd90",
+    "installed": "d9cc7a10e3019a8d",
     "repo": "9a481a56d4ca84ca"
+  },
+  "tooling/scripts/refresh-preview.py": {
+    "installed": "ee8dc4432b7b6abf",
+    "repo": "8a08e888dde36d7e"
   }
 }

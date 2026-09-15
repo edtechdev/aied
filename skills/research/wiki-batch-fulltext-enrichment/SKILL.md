@@ -18,6 +18,9 @@ When a PDF arrives in chat, **immediately copy it to `pdf-sources/<article-slug>
 - **Never delete the original PDF** after ingest. The extracted `raw/papers/<id>.md` is a derived artifact; the PDF is the only copy of the source once the cache clears.
 - Downloaded PDFs on the way to ingest (`/tmp/*.pdf`, cache copies) should be moved into `pdf-sources/` as part of the same step, not left in a scratch directory.
 
+## Screen significance before enriching concept pages (2026-09-15)
+When a batch also touches concept pages, run the significance screen **first**: enumerate the candidate (article, concept) pairs and apply the delete test to each before writing a single sentence, then enrich only the survivors (see `wiki-concept-narrative` step 0). Enriching the whole candidate set and auditing afterwards pays twice: the 2026-09-15 audit of 35 already-enriched pages needed 10 reviewers to remove 17 marginal insertions, 13 of them bare Connected Articles entries.
+
 ## Batch workflow (validated on 84 arXiv papers, 2026-08-24)
 
 ### 1. Audit which articles are thin
