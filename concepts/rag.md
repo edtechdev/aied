@@ -1,18 +1,18 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-13T10:14:50-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, pedagogical-llm-training, pedagogical-safety]
 
 confidence: high
 ---
 
-> **RAG (Retrieval-Augmented Generation)** — an AI architecture that combines information retrieval with text generation, allowing [[llm|LLMs]] to ground responses in external knowledge sources rather than relying solely on training data. In education, RAG addresses hallucination, enables curriculum-grounded tutoring, and powers domain-specific [[intelligent-tutoring|AI tutors]].
+> **RAG (Retrieval-Augmented Generation)** — an AI architecture that combines information retrieval with text generation, allowing [[llm|LLMs]] to ground responses in external knowledge sources rather than relying solely on training data. In education, RAG addresses hallucination, enables [[curriculum-design|curriculum]]-grounded tutoring, and powers domain-specific [[intelligent-tutoring|AI tutors]].
 
 ## Questions to Consider
 
-- You've probably seen an AI chatbot confidently state something false. What does 'grounding' a model's response in external documents change about that failure mode, and what new failure modes might it introduce?
+- You've probably seen an AI [[conversational-ai|chatbot]] confidently state something false. What does 'grounding' a model's response in external documents change about that failure mode, and what new failure modes might it introduce?
 - RAG retrieves relevant materials and feeds them to the generator. Before you read, what assumptions does this make about the quality of the retrieved content — and about whether the retrieved text is actually the right thing to teach?
 - The page contrasts RAG with fine-tuning: retrieval grounds responses in up-to-date sources without retraining, while fine-tuning embeds behaviors. If you were building a curriculum-aligned tutor, which approach would you trust for accuracy, and which for teaching style?
 - RAG is presented as the main answer to hallucination in education. But consider: if the retrieval source itself contains errors, or is outdated, can RAG still hallucinate? Where might the guarantee of 'grounded in verified content' break down in practice?
@@ -22,6 +22,7 @@ confidence: high
 
 ### How RAG is used in education
 
+- **Domain-specific retrieval with notation awareness:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indexes textbooks, 847 lecture slides, 312 solved practice problems, 156 worked proof templates and 89 complexity worksheets for theoretical [[cs-education|computer science]] courses, adding mathematical entity recognition and notation-aware re-ranking; it answered all 179 instructor-authored exam questions within a 240-second timeout (mean 38.0 seconds) but produced BLEU-4 = 0.0000 and a 0.7620 rubric score, which illustrates both the value of the architecture and the limits of the metrics used to judge it.
 - **Hallucination reduction:** [[eduguard-safe-rag-llm-tutor|EduGuard]] and [[eduzone-llm-safety-k12|EduZone]] use RAG to keep AI tutor responses grounded in verified educational content, reducing [[hallucination-risk]].
 - **Curriculum-grounded tutoring:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] retrieves relevant curriculum materials to inform tutoring responses, ensuring alignment with course content.
 - **Textbook and materials indexing:** [[book-level-synthetic-textbook-organization|Synthetic textbook organization]] indexes educational content for retrieval. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] extends retrieval to structured diagrams.
@@ -29,7 +30,7 @@ confidence: high
 
 ### RAG vs fine-tuning
 
-RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up-to-date, domain-specific grounding without retraining, while fine-tuning embeds pedagogical behaviors. The knowledge base's research explores both approaches and their combination.
+RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up-to-date, domain-specific grounding without retraining, while fine-tuning embeds [[pedagogy|pedagogical]] behaviors. The knowledge base's research explores both approaches and their combination.
 
 ## Connected Concepts
 
@@ -57,3 +58,5 @@ RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 
+- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
+- [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation

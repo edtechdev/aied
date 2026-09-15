@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-13T08:06:24-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [self-efficacy, motivation, assessment, self-regulated-learning, student-experience, ai-literacy]
 audience: [learners]
@@ -18,7 +18,7 @@ confidence: high
 - Research found that using AI to support understanding was fully mediated by academic self-efficacy in its link to performance, while shortcut use predicted worse outcomes partly independent of self-efficacy. Why would the *same* tool build confidence when used one way and fail to when used another?
 - The page distinguishes self-efficacy from the everyday word 'confidence.' Before you read, how are they different, and why would a [[research-methods-aied|researcher]] insist on the distinction rather than treating them as the same thing?
 - Robotics and embodied learning build confidence by grounding tasks in observable outcomes, and feedback can build learner self-efficacy. Think of a task where you gained real confidence only after seeing a concrete result. What does that say about what kinds of AI learning experiences are most likely to build — rather than merely report — self-efficacy?
-- Teacher self-efficacy affects adoption and integration of AI. If a teacher doesn't believe they can use AI effectively, does any amount of AI literacy fix it? What would build a teacher's confidence, and how is that different from giving them more information?
+- [[teacher-role|Teacher]] self-efficacy affects adoption and integration of AI. If a teacher doesn't believe they can use AI effectively, does any amount of AI literacy fix it? What would build a teacher's confidence, and how is that different from giving them more information?
 
 ## Introduction
 
@@ -26,16 +26,17 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 
 ### How self-efficacy appears in the knowledge base's research
 
-- **AI self-efficacy and career readiness:** [[ai-literacy-career-adaptability-business-2026|Research on AI readiness]] shows that AI self-efficacy moderates the relationship between AI literacy and AI readiness: literacy translates into readiness only when learners have confidence in using AI, and self-efficacy directly predicts career adaptability.
+- **Declines under GenAI-plus-XR studio work:** in a 27-student architectural design studio, teams using a [[generative-ai|GenAI]] and multi-user XR pipeline showed larger relative pre–post declines in design self-efficacy confidence (β = −1.675, p = 0.021) and outcome expectancy (β = −2.088, p = 0.002) than teams continuing the normal workflow, with no significant difference in blinded panel ratings of their presentations ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Tool-rich environments can depress efficacy beliefs even when the work itself is judged equivalent.
+- **AI self-efficacy and career readiness:** [[ai-literacy-career-adaptability-business-2026|Research on AI readiness]] shows that AI self-efficacy moderates the relationship between AI literacy and AI readiness: literacy translates into readiness only when learners have confidence in using AI, and self-efficacy directly predicts [[career-development-and-readiness|career adaptability]].
 - **AI use patterns and self-efficacy:** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] found that using [[generative-ai|GenAI]] to *support understanding* (evaluative integration) was fully mediated by academic self-efficacy in its association with performance — understanding-oriented AI use builds confidence — whereas shortcut use (low-verification uptake) predicted worse outcomes partly independently of self-efficacy. Self-efficacy is thus both a pathway through which productive AI use helps and a factor that shortcut use may fail to build.
-- **Robotics and hands-on learning:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]]'s robot-mediated role-play built children's self-efficacy in anti-bullying intervention; robotics and [[embodied-learning|embodied learning]] generally build confidence by grounding tasks in observable outcomes.
+- **Robotics and [[experiential-learning|hands-on learning]]:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]]'s robot-mediated role-play built children's self-efficacy in anti-bullying intervention; robotics and [[embodied-learning|embodied learning]] generally build confidence by grounding tasks in observable outcomes.
 - **Teacher self-efficacy:** [[teacher-ai-competency|Teacher AI competency]] research examines how [[educational-development|professional development]] builds teachers' confidence in using AI, which affects adoption and integration.
 - **Feedback and confidence:** [[ai-feedback-quality|AI feedback]] and [[intelligent-tutoring|tutoring]] can build learner self-efficacy by providing actionable, supportive feedback.
 - **Empowerment in AI [[problem-solving]]:** Zhu and Kong (2026) find that students' empowerment in using AI for problem solving mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. In their SEM analysis of 1,027 students, PBL fostered conditions that empowered students to use AI for problem solving, which in turn drove course satisfaction — evidence that building students' confidence and capability with AI is a key mechanism of effective AI literacy education.
 
 Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student-experience]], [[ai-literacy]], [[agency]], and [[educational-robotics]]. Building self-efficacy is a key mechanism through which AI supports engagement and learning. Self-efficacy is measured almost entirely by [[self-report-measures|self-report]], so its associations with observed behavior deserve the usual caution.
 
-- **AIGC self-efficacy as the pivot between tool and learning.** [[aigc-affordance-student-self-regulation-2026|Liang et al. (2026)]] find that perceived affordances of AI-generated content raise AIGC self-efficacy (beta = 0.583), which then mediates the paths to learning motivation (indirect effect 0.329) and to self-regulated learning (0.145), with the serial path affordance to self-efficacy to motivation to self-regulation also significant (0.173). The contrast that makes the finding useful is that the quality of AI assessment feedback did *not* predict self-efficacy (beta = 0.131, n.s.) even though it strongly predicted satisfaction — confidence with the tool is built by directing it, not by receiving good output from it.
+- **AIGC self-efficacy as the pivot between tool and learning.** [[aigc-affordance-student-self-regulation-2026|Liang et al. (2026)]] find that perceived affordances of AI-generated content raise AIGC self-efficacy (beta = 0.583), which then mediates the paths to learning motivation (indirect effect 0.329) and to self-regulated learning (0.145), with the serial path affordance to self-efficacy to motivation to self-[[regulation]] also significant (0.173). The contrast that makes the finding useful is that the quality of AI assessment feedback did *not* predict self-efficacy (beta = 0.131, n.s.) even though it strongly predicted satisfaction — confidence with the tool is built by directing it, not by receiving good output from it.
 
 ## Connected Concepts
 
@@ -70,3 +71,4 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
+- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study

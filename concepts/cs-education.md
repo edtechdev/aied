@@ -1,7 +1,7 @@
 ---
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-13T10:14:50-04:00"
+updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, cs-education]
 discipline: [stem education]
@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 ---
 
-> **CS Education** — computer science education is the most-researched STEM subfield in the knowledge base, benefiting from natural alignment between AI tools and programming tasks. Code generation, debugging assistance, and automated code review are its primary AI applications. Because students learn to build the very tools they use, CS education sits at the center of debates about AI literacy, curriculum redesign, agentic software engineering, and the boundary between genuine learning and [[cognitive-offloading|over-reliance]].
+> **CS Education** — computer [[science-education|science education]] is the most-researched STEM subfield in the knowledge base, benefiting from natural alignment between AI tools and programming tasks. Code generation, debugging assistance, and automated code review are its primary AI applications. Because students learn to build the very tools they use, CS education sits at the center of debates about AI literacy, curriculum redesign, agentic software engineering, and the boundary between genuine learning and [[cognitive-offloading|over-reliance]].
 
 ## Questions to Consider
 
@@ -26,7 +26,7 @@ confidence: high
 ### AI in CS education
 
 - **Code generation and completion:** [[code-review-genai-cs1|CS1 code review]], [[dura-llm-cs2|DURA for CS2]], and [[prompt-problems-nl-programming-mistakes|NL programming mistakes]] examine how students use AI for code generation and what they learn from it.
-- **Conversational agents for novices ([[meta-analysis-systematic-review|scoping review]]):** [[conversational-agents-novice-programmers-scoping-2025|Barzanji & Loitsch (2025)]] map 23 studies (2019–June 2024) of [[conversational-ai|conversational agents]] for novice programmers, documenting a shift from rule-based chatbots to [[llm|LLM]]- and [[rag|RAG]]-based agents (with [[rag|retrieval-augmented generation]] reducing hallucination) and personalized tutoring support (e.g., InfoBot, ProbSol-Bot, Lint Bot, Profe Alex). Notably, only 4 of 23 studies ground design in [[learning-theories|learning theory]], and 17 of 23 prototypes are English-only despite most research originating outside English-speaking countries — flagging weak [[pedagogy|pedagogical]] grounding and an inclusivity gap for future CA design in introductory programming.
+- **Conversational agents for novices ([[meta-analysis-systematic-review|scoping review]]):** [[conversational-agents-novice-programmers-scoping-2025|Barzanji & Loitsch (2025)]] map 23 studies (2019–June 2024) of [[conversational-ai|conversational agents]] for novice programmers, documenting a shift from rule-based chatbots to [[llm|LLM]]- and [[rag|RAG]]-based agents (with [[rag|retrieval-augmented generation]] reducing [[hallucination-risk|hallucination]]) and personalized tutoring support (e.g., InfoBot, ProbSol-Bot, Lint Bot, Profe Alex). Notably, only 4 of 23 studies ground design in [[learning-theories|learning theory]], and 17 of 23 prototypes are English-only despite most research originating outside English-speaking countries — flagging weak [[pedagogy|pedagogical]] grounding and an inclusivity gap for future CA design in introductory programming.
 - **Debugging support:** [[debugtracker-classroom-debugging|Debugging tools]], [[chat-debugging-human-ai-collaboration-circuits|human-AI debugging collaboration]], and [[golrang-propact-pair-programming-2026|dyadic pair-programming modeling]] leverage AI for error identification and repair.
 - **Automated assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]], [[llm-automated-grading-programming-comparison-2026|a large-scale 18-model grading comparison]], and [[llm-intervention-design-cs-review|LLM intervention review]] evaluate automated code assessment.
 - **AI-generated learning media:** [[ai-generated-traces-novice-programmers|Generated Animated Traces]] show that AI-generated visualizations can aid immediate learning but must be personalized — mid-engagement students experienced a performance decrement consistent with the expertise-reversal effect.
@@ -172,3 +172,5 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in a software PBL course; throughput vs. comprehension
 - [[genai-cognitive-tutor-programming-2026]] — GenAI as informal cognitive tutor in novice programming learning
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
+- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
+- [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: Teaching Resources for a ChatGPT World
