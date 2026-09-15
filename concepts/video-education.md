@@ -1,7 +1,7 @@
 ---
 title: Video in Education
 created: "2026-09-05T01:05:00-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-15T12:56:46-04:00"
 type: concept
 tags: [video-education, online-teaching-and-learning, generative-ai, multimodal, learning-analytics, student-engagement, personalized-learning, adaptive-learning, llm]
 audience: [instructors, learning designers]
@@ -55,7 +55,6 @@ Producing effective AI video requires pedagogical structure and human oversight,
 
 ## Connected Articles
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT-generated in-video comments: entropy timing, quality gaps vs. human comments (Wang, Du & Jin 2026)
-
 - [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
 - [[ai-generated-instructional-videos-computing-ed]] — Student perceptions/preferences of AI-generated instructional video in computing education
 - [[ai-video-dual-gatekeeping-2026]] — Dual gatekeeping for pedagogically grounded AI video creation
@@ -67,4 +66,3 @@ Producing effective AI video requires pedagogical structure and human oversight,
 - [[adhd-video-segmentation-computing-education]] — Temporal video segmentation for individual differences
 - [[ai-psychotherapy-training-avatars]] — AI avatars in psychotherapy training
 - [[gemini-lualatex-physics-video-transcription-2026]] — Transcribing physics lecture video into accessible text
-- [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation

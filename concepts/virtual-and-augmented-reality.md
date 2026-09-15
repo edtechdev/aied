@@ -1,7 +1,7 @@
 ---
 title: Virtual and Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-15T12:56:46-04:00"
 type: concept
 tags: [generative-ai, simulation, embodied-learning, multimodal, professional-training, stem-education, accessibility, medical-education]
 confidence: high
@@ -89,4 +89,3 @@ The same logic explains why presence is not automatically good. Motion sickness,
 - [[medgame-llm-medical-education-gamification]] — gamified medical training with AI
 - [[tech-enhanced-tabletop-cybersecurity-education]] — augmented tabletop scenarios in cybersecurity education
 - [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[digital-assistive-technologies-neurodivergent-students-2026]] — Generative AI, Virtual Reality, and Beyond: Digital Assistive Technologies for Neurodivergent Students

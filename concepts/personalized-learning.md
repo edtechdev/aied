@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-15T12:56:46-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 audience: [learners]
@@ -136,4 +136,3 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[sidorkin-ai-generated-course-readings-2026]] — Dual tailoring of AI-generated course readings along interest and comprehension dimensions (Sidorkin 2026)
-- [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation

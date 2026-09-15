@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-15T12:56:46-04:00"
 type: concept
 tags: [engineering-education, stem-education, ai-literacy, educational-development, professional-training, assessment, ethics, higher-ed]
 discipline: [engineering education, stem education]
@@ -85,5 +85,4 @@ The knowledge base's engineering education coverage is still developing. Sub-are
 - [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[lora-finetuned-control-systems-course-qa-2026]] — LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects
 - [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
