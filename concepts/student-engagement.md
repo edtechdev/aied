@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-16T01:05:00-04:00"
+updated: "2026-09-16T10:26:00-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, student-engagement]
 audience: [learners]
@@ -27,6 +27,8 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 ### How student engagement appears in the research
 
 - **Engagement as an outcome of AI design:** [[genai-motivation-engagement-2026|GenAI motivation research]] shows that engagement in [[generative-ai]]-supported learning follows the satisfaction of basic psychological needs ([[self-determination-theory|autonomy, competence, relatedness]]) — engagement is the downstream result of motivational support, not of technology availability alone. Engagement is often measured by [[self-report-measures|self-report]] while behavioral engagement comes from interaction logs, and the two are not interchangeable.
+
+- **Engagement gain without a learning gain, in a cluster-randomized classroom trial:** [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker and Becker-Genschow (2025)]] randomized 195 ninth-grade classes (experimental group 102 students) to a domain-specific mathematics chatbot or to conventional differentiation materials for a single lesson on the Heron method of estimating square roots. Situational interest rose substantially in the chatbot condition (M = 2.63 vs 2.43, p = 0.00005, Cohen's d = 0.63) and acceptance on all four [[technology-acceptance-model|Technology Acceptance Model]] dimensions was high, yet the pre-post performance comparison found no significant group-by-time interaction (F(1194) = 2.84, p = 0.094) and extrinsic cognitive load was slightly higher. The study is one of the few cluster-randomized tests of a customized chatbot in secondary [[math-education|mathematics]], and its split result is the point: interest and [[learning-gains|achievement]] moved on different schedules, so an engagement finding is not evidence of learning.
 
 - **Quality over quantity:** [[critical-engagement-code-completion|Critical engagement in AI code completion]], [[icap-cognitive-engagement-llm-agents|cognitive-engagement discourse analysis]], and [[scaffolding-critical-engagement-genai-minority-students|scaffolding critical engagement]] show that *deep* (cognitive) engagement with AI predicts learning, while *shallow* (behavioral) engagement predicts the [[cognitive-offloading|Over-Reliance]] and learning displacement that dominate the knowledge base's risk literature.
 
@@ -149,3 +151,4 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[gpt4-feedback-student-activation-2026]]
 - [[genai-writing-program-primary-l2-motivation-engagement]] — Dimension-specific engagement gains at the primary level (Lu et al. 2026)
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — Cognitive and behavioural engagement up, affective engagement flat, in an immersive VR PBL studio (Jin et al. 2026)
+- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Cluster-randomized secondary mathematics trial: situational interest rose with a customized chatbot while test performance did not (Rücker & Becker-Genschow 2025)
