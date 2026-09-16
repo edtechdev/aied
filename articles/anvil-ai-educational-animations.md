@@ -1,7 +1,7 @@
 ---
 title: "ANVIL: Analogies and Videos for Lecturers"
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-08-24T04:41:11-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, llm, learning-design, higher-ed, cs-education, teacher-role, multimodal, visualization]
 research_method: [system development]
@@ -13,7 +13,7 @@ sources: ['raw/papers/2605.16295.md']
 confidence: high
 ---
 
-Noviello, Birillo, and Migut (2026) present ANVIL, an end-to-end [[multimodal]] generation pipeline for educational content — one of the first systems to automate the full journey from concept definition to rendered instructional animation. The four-stage pipeline (analogy generation, screenplay compilation, animation code generation with automated repair) represents a significant advance in AI-generated [[learning-design]] materials.
+> **Synthesis:** Noviello, Birillo, and Migut (2026) present ANVIL, an end-to-end [[multimodal]] generation pipeline for educational content — one of the first systems to automate the full journey from concept definition to rendered instructional animation. The four-stage pipeline (analogy generation, screenplay compilation, animation code generation with automated repair) represents a significant advance in AI-generated [[learning-design]] materials.
 
 ANVIL's evaluation approach is methodologically notable: rather than relying solely on automated metrics, the authors ground quality assessment in teacher evaluations and then use those findings to guide scalable automated screening. The [[llm]]-based evaluator for analogy quality and fidelity-to-screenplay proxy for video assessment offer a replicable framework for evaluating [[generative-ai]] educational outputs at scale — addressing a key challenge identified in [[benchmark]] and efficacy-study literature.
 

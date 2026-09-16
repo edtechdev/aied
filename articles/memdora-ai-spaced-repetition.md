@@ -1,7 +1,7 @@
 ---
 title: "Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, adaptive-learning, mastery-learning, student-experience]
 research_method: [system development]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2607.25096.md']
 confidence: high
 ---
 
-Presents Memdora, a cross-platform AI spaced repetition system that addresses limitations of binary flip-and-rate flashcard interactions. Grounded in cognitive science evidence on retrieval practice, it enables richer interaction patterns and reduces context-switching by generating flashcards from reading material. Demonstrates improved retention compared to traditional SRS tools.
+> **Synthesis:** Presents Memdora, a cross-platform AI spaced repetition system that addresses limitations of binary flip-and-rate flashcard interactions. Grounded in cognitive science evidence on retrieval practice, it enables richer interaction patterns and reduces context-switching by generating flashcards from reading material. Demonstrates improved retention compared to traditional SRS tools.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: A Framework for Institutional Change in the Age of AI
 created: "2026-05-14T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-education, change-management, educational-development, higher-ed, pedagogy, stem-education, agentic-ai, scaffolding, student-experience]
 research_method: [theoretical analysis]
@@ -12,14 +12,8 @@ sources: ['raw/papers/2605.12757.md']
 confidence: high
 ---
 
-> Perl-Nussbaum & Finkelstein (2026) adapt [[governance|institutional]]-change models to [[generative-ai|generative AI]] as an **arrival technology** — one that entered classrooms before [[pedagogy|pedagogical]] evidence existed — yielding a six-dimension framework and design implications for leading change under uncertainty ([[educational-development]], [[higher-ed]], [[educational-policy-ai]]).
-
-## Core Contribution
-
-Perl-Nussbaum & Finkelstein (2026) propose a **six-dimension framework** for adapting institutional change models in STEM higher education to the realities of generative AI. Unlike prior reforms based on **adoption [[ai-technologies|technologies]]** (stable, evidence-based practices like Peer Instruction or PhET [[simulation|simulations]]), generative AI is an **arrival technology** — it entered classrooms before pedagogical evidence could form. The framework identifies where existing change models break down and derives actionable design implications for leading change under genuine uncertainty.
-
-Central insight: "Institutions cannot wait for best practices, but cannot responsibly scale unjustified innovations. Neither banning nor uncritical embrace is tenable."
-
+> **Synthesis:** Perl-Nussbaum & Finkelstein (2026) propose a **six-dimension framework** for adapting institutional change models in STEM higher education to the realities of generative AI. Unlike prior reforms based on **adoption [[ai-technologies|technologies]]** (stable, evidence-based practices like Peer Instruction or PhET [[simulation|simulations]]), generative AI is an **arrival technology** — it entered classrooms before pedagogical evidence could form. The framework identifies where existing change models break down and derives actionable design implications for leading change under genuine uncertainty.
+> Central insight: "Institutions cannot wait for best practices, but cannot responsibly scale unjustified innovations. Neither banning nor uncritical embrace is tenable."
 ## Six Dimensions of Reconsideration
 
 ### Tools Dimension

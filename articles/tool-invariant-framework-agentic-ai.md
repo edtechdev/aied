@@ -1,7 +1,7 @@
 ---
 title: A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [agentic-ai, ai-literacy, assessment, authentic-assessment, computational-thinking, generative-ai, higher-ed, language-learning, cognitive-offloading, ai-ed-evaluation]
 audience: [instructors]

@@ -1,7 +1,7 @@
 ---
 title: "Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes"
 created: "2026-07-30T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [higher-ed, stem-education, student-experience, affective-computing, personalized-learning, scaffolding, adaptive-learning, ai-literacy, formative-assessment, teacher-role]
 research_method: [benchmark]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2607.26338.md']
 confidence: high
 ---
 
-Survey of 206 engineering students: AI [[conversational-ai|chatbots]] provide greatest perceived benefit as relief from competence frustration, smaller benefits for autonomy, weakest for relatedness. Baseline [[motivation|motivational]] states matter more than demographics; inattention moderates how baseline competence and autonomy relate to perceived AI benefits. Offers design principles for engineering-specific AI learning tools.
+> **Synthesis:** Survey of 206 engineering students: AI [[conversational-ai|chatbots]] provide greatest perceived benefit as relief from competence frustration, smaller benefits for autonomy, weakest for relatedness. Baseline [[motivation|motivational]] states matter more than demographics; inattention moderates how baseline competence and autonomy relate to perceived AI benefits. Offers design principles for engineering-specific AI learning tools.
 
 **Relevance to [[ai-education|AI in Education]]:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
 

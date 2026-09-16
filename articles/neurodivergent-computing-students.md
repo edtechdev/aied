@@ -1,7 +1,7 @@
 ---
 title: 'I can''t read your mind": A Study of Neurodivergent Computing Students'' Experiences with Collaborative Active Learning'
 created: "2026-05-25T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [student-experience, cs-education, special-education, equity-in-ai-education, collaborative-learning, scaffolding, ai-education]
 research_method: [mixed methods]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2605.23823.md']
 confidence: high
 ---
 
-This study surveyed 24 [[neurodiversity|neurodivergent]] computing students (autistic and/or ADHD) and 20 neurotypical peers, supplemented by 4 in-depth interviews, to understand how [[collaborative-learning|collaborative active learning]] structures affect comfort and [[accessibility]]. Three key findings emerge: **(1)** Neurodivergent students experience significant discomfort with assignments that lack clear structure or have ambiguous expectations — the title quote reflects a common frustration with unspoken social norms in teamwork. **(2)** They strongly prefer **smaller teams that work together consistently**, with **explicitly defined roles**, minimizing the [[cognitive-offloading|cognitive load]] of social negotiation. **(3)** Common coping strategies include self-selecting roles and strategic self-disclosure of neurodivergence.
+> **Synthesis:** This study surveyed 24 [[neurodiversity|neurodivergent]] computing students (autistic and/or ADHD) and 20 neurotypical peers, supplemented by 4 in-depth interviews, to understand how [[collaborative-learning|collaborative active learning]] structures affect comfort and [[accessibility]]. Three key findings emerge: **(1)** Neurodivergent students experience significant discomfort with assignments that lack clear structure or have ambiguous expectations — the title quote reflects a common frustration with unspoken social norms in teamwork. **(2)** They strongly prefer **smaller teams that work together consistently**, with **explicitly defined roles**, minimizing the [[cognitive-offloading|cognitive load]] of social negotiation. **(3)** Common coping strategies include self-selecting roles and strategic self-disclosure of neurodivergence.
 
 The findings connect to broader concerns in [[equity-in-ai-education]] and [[equity-in-ai-education]]: as [[intelligent-tutoring|AI tutors]] and collaborative AI tools enter computing classrooms, their interaction models may inadvertently replicate the same structural ambiguities that disadvantage neurodivergent learners. The preference for defined roles and predictable structures mirrors themes in [[special-education]] about explicit [[scaffolding]]. For [[cs-education]], the study provides actionable design recommendations: instructors should provide structured assignments, use smaller consistent teams, and allow role self-selection. While preliminary (n=24), this is among the first studies to center neurodivergent voices in computing education [[research-methods-aied|research]], contributing to more [[student-experience|student-centered]] approaches to [[collaborative-learning]].
 

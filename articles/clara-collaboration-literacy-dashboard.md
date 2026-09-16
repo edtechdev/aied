@@ -1,7 +1,7 @@
 ---
 title: "CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy"
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-08-24T04:41:06-04:00"
+updated: "2026-09-16T15:50:31-04:00"
 type: article
 tags: [learning-analytics, generative-ai, llm, higher-ed, edtech-platform, collaborative-learning, rag, knowledge-tracing, visualization]
 research_method: [system development]
@@ -10,9 +10,10 @@ sources: ['raw/papers/2605.17259.md']
 confidence: high
 ---
 
+> **Synthesis:** LLM-generated 7C collaboration assessments fall within the range of human expert variability: overall Spearman's ρ = .701 (p < .001) between LLM and human-consensus scores, and adding the LLM as an additional analyst did not reduce inter-rater agreement (Krippendorff's α .637 → .639).
+
 ## Key Findings
 
-1. LLM-generated 7C collaboration assessments fall within the range of human expert variability: overall Spearman's ρ = .701 (p < .001) between LLM and human-consensus scores, and adding the LLM as an additional analyst did not reduce inter-rater agreement (Krippendorff's α .637 → .639).
 2. Artifact-grounded retrieval nearly doubled recall on analytical queries, from Recall@5 = .371 (transcript-only) to .739 (all artifacts), because concept maps and collaboration assessments bridge the vocabulary gap between evaluative educator queries and informal student speech.
 3. The full artifact-access agent was rated significantly higher than the transcript-only baseline on groundedness, analytical depth, and helpfulness, with an overall effect size of r = .792 (p = .001), while factual accuracy did not differ.
 4. Concept maps and 7C assessments are complementary retrieval infrastructure — combining them outperforms either alone — and both are indexed into distinct vector-database collections to support mixed-initiative, human-AI reasoning over shared representations.

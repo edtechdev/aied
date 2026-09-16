@@ -1,7 +1,7 @@
 ---
 title: Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior
 created: "2026-06-25T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [learning-analytics, student-modeling, higher-ed, student-engagement, self-regulated-learning, adaptive-learning, formative-assessment, regulation]
 research_method: [experiment]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.25308.md']
 confidence: high
 ---
 
-This study examines the [[student-modeling]] validity of **delayed start behavior** — when students begin assignments or practice sessions past a recommended start time — as a predictor of learning-gains across multiple subjects. The authors test whether a behavioral detector developed for one academic domain (e.g., [[chemistry-education|chemistry]]) can predict [[learning-gains|learning outcomes]] in another (e.g., [[physics-education|physics]] or statistics), a property they term **cross-subject predictive validity**.
+> **Synthesis:** This study examines the [[student-modeling]] validity of **delayed start behavior** — when students begin assignments or practice sessions past a recommended start time — as a predictor of learning-gains across multiple subjects. The authors test whether a behavioral detector developed for one academic domain (e.g., [[chemistry-education|chemistry]]) can predict [[learning-gains|learning outcomes]] in another (e.g., [[physics-education|physics]] or statistics), a property they term **cross-subject predictive validity**.
 
 **Key findings:**
 - Delayed start behavior shows significant predictive validity for learning outcomes across different subjects, indicating it captures a generalizable aspect of [[self-regulated-learning]] rather than being [[discipline-specific-aied|domain-specific]].

@@ -1,7 +1,7 @@
 ---
 title: Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
 created: "2026-05-31T12:17:35-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-ed-evaluation, knowledge-tracing, multimodal, benchmark, human-in-the-loop-ai, critical-thinking, hallucination-risk, k-12, llm, generative-ai, math-education]
 audience: [software developers]
@@ -13,7 +13,7 @@ confidence: high
 sources: []
 ---
 
-> **MathCog** [[benchmark]] (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop-ai|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], benchmark).
+> **Synthesis:** **MathCog** [[benchmark]] (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop-ai|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], benchmark).
 
 ## Summary
 

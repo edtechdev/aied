@@ -1,7 +1,7 @@
 ---
 title: Collaborative AI Tutoring
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, adaptive-learning, scaffolding, higher-ed, formative-assessment, learning-analytics, sociocultural-learning, affective-tutoring, metacognition]
 research_method: [system development, experiment]
@@ -10,7 +10,7 @@ sources: ['raw/papers/golrang-propact-pair-programming-2026.md']
 confidence: medium
 ---
 
-> ProPACT constructs a real-time model of pair collaboration using three signals:
+> **Synthesis:** ProPACT constructs a real-time model of pair collaboration using three signals:
 
 > Most adaptive [[learning-gains|learning]] systems are individual-centric and reactive. **ProPACT** treats **collaboration itself as the object of instruction**, intervening *before* dyadic breakdowns occur by forecasting suboptimal states up to 30 seconds in advance.([[golrang-propact-pair-programming-2026]])
 

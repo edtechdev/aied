@@ -1,7 +1,7 @@
 ---
 title: Role of Instructional Guidance in Generative AI-Assisted Learning
 created: "2026-06-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, higher-ed, scaffolding, active-learning, personalized-learning, feedback]
 research_method: [experiment]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2606.05509.md']
 confidence: high
 ---
 
-Investigates how instructional guidance shapes [[student-ai-interaction|student-AI interaction]] in [[higher-ed|construction engineering education]]. Introduces a **five-step [[prompt-engineering|prompting]] framework** grounded in Generative [[learning-gains|Learning]] Theory (GLT) to guide learner interaction during review activities. Three conditions tested in a controlled experiment: slide-based learning, unprompted AI-supported learning, and prompted AI-supported learning.
+> **Synthesis:** Investigates how instructional guidance shapes [[student-ai-interaction|student-AI interaction]] in [[higher-ed|construction engineering education]]. Introduces a **five-step [[prompt-engineering|prompting]] framework** grounded in Generative [[learning-gains|Learning]] Theory (GLT) to guide learner interaction during review activities. Three conditions tested in a controlled experiment: slide-based learning, unprompted AI-supported learning, and prompted AI-supported learning.
 
 **Key findings:** Performance differences concentrated on tasks requiring explanation and reasoning (higher-order cognitive outcomes). The prompted condition achieved significantly higher open-ended scores (≈2–3 points on 18-point scale, p<0.01). No significant differences in multiple-choice recall across conditions. Unprompted AI use did not outperform traditional slide-based review.
 

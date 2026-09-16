@@ -1,7 +1,7 @@
 ---
 title: A meta-analysis of the effect of generative AI on productivity and learning in programming
 created: "2026-05-06T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [rct, generative-ai, higher-ed, learning-gains, meta-analysis-systematic-review, regulation, writing-education, assessment-validity, llm]
 research_method: [randomized controlled trial, experiment, learning analytics, meta-analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.04779.md']
 confidence: high
 ---
 
-> Maier, Gunzenhäuser & Schweisthal (2026) conduct a **[[meta-analysis-systematic-review|meta-analysis]] synthesizing evidence** on how [[generative-ai|generative AI]] tools affect both programming productivity and [[learning-gains|learning outcomes]]. This is a **confidence: high** paper due to its synthesis design across multiple studies, addressing the central tension between short-term efficiency gains and long-term skill development.
+> **Synthesis:** Maier, Gunzenhäuser & Schweisthal (2026) conduct a **[[meta-analysis-systematic-review|meta-analysis]] synthesizing evidence** on how [[generative-ai|generative AI]] tools affect both programming productivity and [[learning-gains|learning outcomes]]. This is a **confidence: high** paper due to its synthesis design across multiple studies, addressing the central tension between short-term efficiency gains and long-term skill development.
 
 ## Core Contribution
 

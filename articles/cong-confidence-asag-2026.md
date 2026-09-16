@@ -1,7 +1,7 @@
 ---
 title: Confidence-Aware Automatic Short Answer Grading
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-26T15:35:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [assessment, automated-assessment, psychometrically-aware-ai, rag, ai-ed-evaluation]
 audience: [software developers]
@@ -12,7 +12,7 @@ sources: ['raw/papers/cong-confidence-asag-2026.md']
 confidence: medium
 ---
 
-> **Confidence-Aware ASAG** — A hybrid confidence estimation framework for Automatic Short Answer Grading with LLMs that fuses model-based confidence signals (verbalized, latent, consistency-based) with dataset-derived aleatoric uncertainty via Random Forest + Platt scaling, enabling reliable selective prediction and principled human-in-the-loop review workflows.
+> **Synthesis:** **Confidence-Aware ASAG** — A hybrid confidence estimation framework for Automatic Short Answer Grading with LLMs that fuses model-based confidence signals (verbalized, latent, consistency-based) with dataset-derived aleatoric uncertainty via Random Forest + Platt scaling, enabling reliable selective prediction and principled human-in-the-loop review workflows.
 
 ## Key Findings
 

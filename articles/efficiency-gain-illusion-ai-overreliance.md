@@ -1,7 +1,7 @@
 ---
 title: "The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks"
 created: "2026-05-23T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, cognitive-offloading, ai-literacy, student-experience, rag, ai-education]
 research_method: [experiment]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.22687.md']
 confidence: medium
 ---
 
-Across three pre-registered studies (N=2,691), this paper documents systematic miscalibration in how people perceive their own [[generative-ai|AI]] usage. The authors find that people not only use AI for cognitively simple tasks even when it provides no meaningful efficiency benefit, but also systematically misperceive both how much they use AI and how much it helps them.
+> **Synthesis:** Across three pre-registered studies (N=2,691), this paper documents systematic miscalibration in how people perceive their own [[generative-ai|AI]] usage. The authors find that people not only use AI for cognitively simple tasks even when it provides no meaningful efficiency benefit, but also systematically misperceive both how much they use AI and how much it helps them.
 
 ### Two Forms of Miscalibration
 

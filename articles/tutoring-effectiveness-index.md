@@ -1,7 +1,7 @@
 ---
 title: "The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals"
 created: "2026-06-01T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-16T15:51:16-04:00"
 type: article
 tags: [intelligent-tutoring, llm, benchmark, automated-assessment, formative-assessment, reinforcement-learning]
 audience: [software developers]
@@ -9,11 +9,10 @@ research_method: [benchmark, experiment]
 sources: ['raw/papers/2605.30666.md']
 confidence: high
 ---
-> **Authors:** Shim Jaechang, Unggi Lee (2026) — CIKM 2026
+> **Synthesis:** TEI is a **training-free, judge-free index** that selects the best [[intelligent-tutoring|tutoring]] response from multiple [[llm|LLM]] candidate outputs using only four internal conversation signals — no [[reinforcement-learning|RL]] training, no external judge model, no reward model required.
 
 ## What It Is
 
-TEI is a **training-free, judge-free index** that selects the best [[intelligent-tutoring|tutoring]] response from multiple [[llm|LLM]] candidate outputs using only four internal conversation signals — no [[reinforcement-learning|RL]] training, no external judge model, no reward model required.
 
 ## How It Works
 

@@ -1,7 +1,7 @@
 ---
 title: "Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing"
 created: "2026-06-02T04:33:04-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, higher-ed, learning-analytics, prompt-engineering, writing-education, scaffolding, agentic-ai, metacognition, curriculum-design]
 audience: [learners, instructors]
@@ -13,7 +13,7 @@ sources: ['raw/papers/2606.00040.md']
 confidence: high
 ---
 
-> Identifies interaction signatures of [[llm]] literacy using [[network-analysis|Epistemic Network Analysis]] (ENA) on logs from 162 students. High-literacy students exhibit iterative, strategic refinement and dense cognitive networking, while low-literacy students rely on direct, linear commands. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
+> **Synthesis:** Identifies interaction signatures of [[llm]] literacy using [[network-analysis|Epistemic Network Analysis]] (ENA) on logs from 162 students. High-literacy students exhibit iterative, strategic refinement and dense cognitive networking, while low-literacy students rely on direct, linear commands. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [assessment-validity, automated-assessment, bias-mitigation, equity-in-ai-education, multilingual-learning, physics-education, educational-measurement]
 research_method: [educational measurement]
@@ -10,9 +10,7 @@ discipline: [physics education]
 sources: ['raw/papers/2607.28210.md']
 confidence: high
 ---
-> **Authors:** Markus S. Feser, Paul L. Tschisgale (Leibniz Institute for Science and [[math-education|Mathematics]] Education, Kiel, Germany)
-## Key Findings
-This study examined whether AI-based scoring can assess students' conceptual understanding **independently of the linguistic quality** of their text-based explanations in [[physics-education|physics]]. The [[research-methods-aied|researchers]] compared scores from **9 [[reinforcement-learning|machine learning]] (ML) approaches and 2 large language model ([[llm]]) approaches** against human expert scores for 116 secondary-school students' physics explanations.
+> **Synthesis:** This study examined whether AI-based scoring can assess students' conceptual understanding **independently of the linguistic quality** of their text-based explanations in [[physics-education|physics]]. The [[research-methods-aied|researchers]] compared scores from **9 [[reinforcement-learning|machine learning]] (ML) approaches and 2 large language model ([[llm]]) approaches** against human expert scores for 116 secondary-school students' physics explanations.
 ### The Language Bias Problem
 - **Systematic underestimation**: Explanations of lower linguistic quality were systematically more likely to receive lower AI-generated conceptual understanding scores than experts assigned — a bias that emerged across **every single AI-based scoring approach** tested.
 - **Asymmetric effect**: Higher linguistic quality showed **no comparable link** to overestimation. The bias only runs in one direction: linguistically weak students are penalized, but linguistically strong students are not inflated.

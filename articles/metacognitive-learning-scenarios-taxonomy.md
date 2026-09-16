@@ -1,7 +1,7 @@
 ---
 title: "A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints"
 created: "2026-05-26T04:33:04-04:00"
-updated: "2026-08-24T20:30:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [metacognition, professional-training, adaptive-learning, lifelong-learning, scaffolding, self-regulated-learning, llm]
 research_method: [theoretical analysis]
@@ -9,7 +9,7 @@ sources: ['raw/papers/2605.24142.md']
 confidence: high
 ---
 
-This paper addresses a fundamental gap in [[metacognition]] [[research-methods-aied|research]]: the lack of systematic integration of metacognitive theories into scenario taxonomies capable of guiding AI-enhanced [[educational-development|professional development]]. By synthesizing four major theoretical frameworks into a six-node open systems model, the authors create a rigorous taxonomy of metacognitive learning scenarios.
+> **Synthesis:** This paper addresses a fundamental gap in [[metacognition]] [[research-methods-aied|research]]: the lack of systematic integration of metacognitive theories into scenario taxonomies capable of guiding AI-enhanced [[educational-development|professional development]]. By synthesizing four major theoretical frameworks into a six-node open systems model, the authors create a rigorous taxonomy of metacognitive learning scenarios.
 
 ## Systems Model & Scenario Generation
 The six-node open systems model (Environment, Input, Processes, Structures, Output, Feedback) was used for combinatorial enumeration, generating 216 mathematically possible learning scenarios. Four sequential constraint-based filters — psychological plausibility, educational relevance, measurement feasibility, and intervention potential — reduced this to **24 priority scenarios**.

@@ -1,7 +1,7 @@
 ---
 title: AI Tools Scaffolding Metacognition in STEM
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [metacognition, stem-education, learning-analytics, intelligent-tutoring, learning-theories, ai-literacy, human-in-the-loop-ai, adaptive-learning, rag]
 audience: [researchers, instructors]
@@ -12,7 +12,7 @@ sources: ['raw/papers/mdpi-metacognition-ai-stem-2025.md']
 confidence: high
 ---
 
-> A bibliometric–[[meta-analysis-systematic-review|systematic review]] of AI tools in [[stem-education|STEM education]]:
+> **Synthesis:** A bibliometric–[[meta-analysis-systematic-review|systematic review]] of AI tools in [[stem-education|STEM education]]:
 
 > Systematic review (2005–2025) mapping how AI tools scaffold and co-regulate [[metacognition|metacognitive]] development in STEM classrooms through bibliometric and [[qualitative-research|qualitative]] synthesis.
 

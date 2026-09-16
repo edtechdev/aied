@@ -1,7 +1,7 @@
 ---
 title: "Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study"
 created: "2026-06-26T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, lifelong-learning, equity-in-ai-education, student-experience, edtech-platform, educational-development, k-12, higher-ed]
 research_method: [case study, design-based research]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.26565.md']
 confidence: high
 ---
 
-This case study reports on a community-based participatory [[research-methods-aied|research]] project that co-designed an [[ai-literacy|AI literacy]] program for 54 adults (48 in-person and 6 virtual) in a predominantly African American community in the Midwestern United States. The program covered fundamental AI concepts, societal implications, and practical applications, using hands-on activities and concrete examples over abstract technical explanations.
+> **Synthesis:** This case study reports on a community-based participatory [[research-methods-aied|research]] project that co-designed an [[ai-literacy|AI literacy]] program for 54 adults (48 in-person and 6 virtual) in a predominantly African American community in the Midwestern United States. The program covered fundamental AI concepts, societal implications, and practical applications, using hands-on activities and concrete examples over abstract technical explanations.
 
 Key findings highlight that [[equity-in-ai-education|equity-oriented]] [[ai-education|AI education]] for underserved adult populations must address foundational digital literacy gaps, build trust around [[privacy|data privacy]], and connect AI concepts to everyday lived experiences. This challenges the dominant focus on formal [[higher-ed|higher education]] settings for AI literacy initiatives and points toward more inclusive [[lifelong-learning|lifelong learning]] models.
 

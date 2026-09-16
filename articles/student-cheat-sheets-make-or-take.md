@@ -1,7 +1,7 @@
 ---
 title: "Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets"
 created: "2026-07-28T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [assessment, metacognition, self-regulated-learning, higher-ed]
 research_method: [survey]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.24736.md']
 confidence: high
 ---
 
-Chen, Sakhnini and Istead run a three-wave longitudinal study in a senior software-requirements course where students could use instructor-provided or self-created cheat sheets in exams. Choices were shaped by trust in instructor expertise, desire for [[personalized-learning|personalization]], and preparation efficiency, and shifted over time. The make-vs-take decision is fundamentally a [[metacognition]] and [[self-regulated-learning]] question — creating a cheat sheet is itself a generative study strategy — with direct implications for exam design in [[authentic-assessment]], for optimizing preparation such as [[adaptive-pretesting-retention]], and for cognitive-structure views of exams like [[learnopt-exam-cognitive-structure]]. It also frames the trade-off AI raises: offloading artifact creation versus learning through creation, cf. [[cognitive-offloading-speedup-illusion]].
+> **Synthesis:** Chen, Sakhnini and Istead run a three-wave longitudinal study in a senior software-requirements course where students could use instructor-provided or self-created cheat sheets in exams. Choices were shaped by trust in instructor expertise, desire for [[personalized-learning|personalization]], and preparation efficiency, and shifted over time. The make-vs-take decision is fundamentally a [[metacognition]] and [[self-regulated-learning]] question — creating a cheat sheet is itself a generative study strategy — with direct implications for exam design in [[authentic-assessment]], for optimizing preparation such as [[adaptive-pretesting-retention]], and for cognitive-structure views of exams like [[learnopt-exam-cognitive-structure]]. It also frames the trade-off AI raises: offloading artifact creation versus learning through creation, cf. [[cognitive-offloading-speedup-illusion]].
 
 ## Key Findings
 

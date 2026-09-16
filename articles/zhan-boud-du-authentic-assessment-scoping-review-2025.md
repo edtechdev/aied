@@ -1,7 +1,7 @@
 ---
 title: "Designing for Authentic Assessment: A Scoping Review"
 created: "2026-05-07T19:55:03-04:00"
-updated: "2026-08-26T15:34:14-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning, pedagogical-llm-training, human-in-the-loop-ai, sociocultural-learning]
 research_method: [theoretical analysis, systematic review]
@@ -11,7 +11,7 @@ sources: ['raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md']
 confidence: high
 ---
 
-> Wiggins (1990) proposed AA as a counterbalance to standardised tests: direct examination of "student performance on worthy intellectual tasks."
+> **Synthesis:** Wiggins (1990) proposed AA as a counterbalance to standardised tests: direct examination of "student performance on worthy intellectual tasks."
 
 > [[authentic-assessment|Authentic assessment]] (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challenge by [[generative-ai|generative AI]]—which threatens the validity of any task that can be replicated à la Wiggins (1990)—makes AA's broader forms essential. Zhan, Boud & Du (2025) propose a six-dimensional design model that centres [[agency|student agency]] and social collaboration, directly relevant to how AI assessment tools should be designed.
 

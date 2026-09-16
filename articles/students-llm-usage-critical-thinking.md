@@ -1,7 +1,7 @@
 ---
 title: Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
 created: "2026-05-15T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [higher-ed, student-experience, llm, generative-ai, learning-analytics, ai-literacy, educational-development, scaffolding]
 research_method: [survey, learning analytics]
@@ -11,9 +11,7 @@ sources: ['raw/papers/2605.04534.md']
 confidence: high
 ---
 
-> Characterizing Students' [[llm]] Usage Behaviors and Their Association with Learning in [[critical-thinking|Critical Thinking]] Tasks **Park, Orozco Vasquez, & Conati (2026)** — University of British Columbia. Accepted at EDM 2026.
-
-Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
+> **Synthesis:** Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
 
 ## Summary
 

@@ -1,7 +1,7 @@
 ---
 title: "Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI"
 created: "2026-06-30T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, edtech-platform, generative-ai, k-12, teacher-role]
 research_method: [system development, user study]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.30590.md']
 confidence: high
 ---
 
-Mansi et al. (2026) introduce Concept Catalyst, a system designed around 'scrutable interfaces' — interfaces that make AI reasoning visible and editable by users. Working with K-12 teachers, the study shows that when teachers can inspect and modify how a [[generative-ai]] tool processes their inputs, they report higher trust, greater sense of control, and better alignment with their [[pedagogy|pedagogical]] goals. This directly addresses a critical gap in [[edtech-platform]] design: most teacher-facing AI tools operate as black boxes, undermining the [[teacher-role]] as a professional decision-maker. The Concept Catalyst approach empowers teachers to become co-designers of AI-assisted lesson planning, not just consumers. The work contributes to [[ai-literacy]] by demonstrating that 'scrutability' as a design principle can bridge the gap between AI capability and classroom reality. The study also has implications for [[k-12]] education policy, suggesting that AI tools adopted in schools should meet scrutability standards.
+> **Synthesis:** Mansi et al. (2026) introduce Concept Catalyst, a system designed around 'scrutable interfaces' — interfaces that make AI reasoning visible and editable by users. Working with K-12 teachers, the study shows that when teachers can inspect and modify how a [[generative-ai]] tool processes their inputs, they report higher trust, greater sense of control, and better alignment with their [[pedagogy|pedagogical]] goals. This directly addresses a critical gap in [[edtech-platform]] design: most teacher-facing AI tools operate as black boxes, undermining the [[teacher-role]] as a professional decision-maker. The Concept Catalyst approach empowers teachers to become co-designers of AI-assisted lesson planning, not just consumers. The work contributes to [[ai-literacy]] by demonstrating that 'scrutability' as a design principle can bridge the gap between AI capability and classroom reality. The study also has implications for [[k-12]] education policy, suggesting that AI tools adopted in schools should meet scrutability standards.
 
 ## Connected Concepts
 

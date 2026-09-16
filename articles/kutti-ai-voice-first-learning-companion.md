@@ -1,7 +1,7 @@
 ---
 title: "Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children"
 created: "2026-07-27T04:33:04-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [adaptive-learning, intelligent-tutoring, special-education, k-12, equity-in-ai-education, personalized-learning]
 audience: [software developers]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.22377.md']
 confidence: high
 ---
 
-Kutti AI addresses a persistent equity gap in educational technology: nearly all edtech assumes a visual interface, excluding an estimated 1.4 million blind children worldwide. The system inverts this assumption entirely, making spoken conversation the primary and sufficient learning modality — children hear [[curriculum-design|curriculum]] content, answer aloud, and receive spoken feedback with no visual dependency, positioning it within the [[special-education]] and [[accessibility]] strand of [[adaptive-learning]] [[research-methods-aied|research]].
+> **Synthesis:** Kutti AI addresses a persistent equity gap in educational technology: nearly all edtech assumes a visual interface, excluding an estimated 1.4 million blind children worldwide. The system inverts this assumption entirely, making spoken conversation the primary and sufficient learning modality — children hear [[curriculum-design|curriculum]] content, answer aloud, and receive spoken feedback with no visual dependency, positioning it within the [[special-education]] and [[accessibility]] strand of [[adaptive-learning]] [[research-methods-aied|research]].
 
 Three engineering contributions make this practical on commodity mobile hardware. First, a multi-signal struggle-detection engine fuses response latency, wrong-attempt counts, and keyword-based hesitation cues to decide in real time when to offer hints or simplify questions — a lightweight alternative to the learner-modeling machinery of full [[intelligent-tutoring]]. Second, a cross-language answer-matching pipeline (translation/transliteration, Levenshtein fuzzy matching, text normalization) ensures children are not penalized for code-switching or pronunciation variation, an important [[bias-mitigation|fairness]] property for [[multilingual-learning|multilingual]] learners and a concrete instance of [[equity-in-ai-education]]-aware design. Third, an offline-first on-device ASR pipeline removes the connectivity requirement, extending [[personalized-learning]] to low-resource settings where cloud-dependent tutors fail.
 

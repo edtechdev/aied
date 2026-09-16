@@ -1,7 +1,7 @@
 ---
 title: "The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty"
 created: "2026-07-30T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, formative-assessment, adaptive-learning, feedback, student-experience, stem-education, higher-ed, personalized-learning, ai-literacy, teacher-role]
 research_method: [benchmark]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2607.26067.md']
 confidence: high
 ---
 
-LLMs systematically underestimate the difficulty of [[misconceptions|misconception]]-driven items ('The Easy Trap'). While [[llm]] ratings show moderate rank correlation with empirical student difficulty (rho=0.52-0.70), they misclassify several fraction items as easy that are among the hardest for students (e.g., 34% correct). LLMs approximate [[curriculum-design|curricular]] rather than cognitive difficulty.
+> **Synthesis:** LLMs systematically underestimate the difficulty of [[misconceptions|misconception]]-driven items ('The Easy Trap'). While [[llm]] ratings show moderate rank correlation with empirical student difficulty (rho=0.52-0.70), they misclassify several fraction items as easy that are among the hardest for students (e.g., 34% correct). LLMs approximate [[curriculum-design|curricular]] rather than cognitive difficulty.
 
 **Relevance to [[ai-education|AI in Education]]:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
 

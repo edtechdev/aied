@@ -1,7 +1,7 @@
 ---
 title: "Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio"
 created: "2026-07-14T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [project-based-learning, k-12, higher-ed, active-learning, stem-education, scaffolding, teacher-role]
 research_method: [system development]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2607.11129.md']
 confidence: high
 ---
 
-Presents FORAP (Framework for Organizing Reusable and Adaptable [[project-based-learning|Project-Based Learning]] projects) and a [[eportfolio|portfolio]] of 14 adoption-ready PjBL packages for computing education. The framework addresses the gap between PjBL's known benefits and its slow classroom adoption by making projects reusable, adaptable, and scalable across contexts.
+> **Synthesis:** Presents FORAP (Framework for Organizing Reusable and Adaptable [[project-based-learning|Project-Based Learning]] projects) and a [[eportfolio|portfolio]] of 14 adoption-ready PjBL packages for computing education. The framework addresses the gap between PjBL's known benefits and its slow classroom adoption by making projects reusable, adaptable, and scalable across contexts.
 
 Anchors in [[active-learning]] and [[active-learning]] practice for [[k-12]] and [[higher-ed]], connecting to [[cs-education]] and [[stem-education]] implementation. It complements [[scaffolding]] approaches by providing structures teachers can adopt without rebuilding from scratch, lowering barriers to [[teacher-role]] adoption of hands-on computing [[pedagogy]].
 

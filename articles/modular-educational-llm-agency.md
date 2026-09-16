@@ -1,7 +1,7 @@
 ---
 title: Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance
 created: "2026-05-29T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, intelligent-tutoring, scaffolding, teacher-role, cognitive-offloading, learning-analytics, student-experience, ai-literacy]
 research_method: [system development, theoretical analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.30187.md']
 confidence: high
 ---
 
-The widespread adoption of AI [[conversational-ai|chatbots]] in education will drastically change learning, making responsible deployment a critical concern. While [[llm|large language models (LLMs)]] might have access to sources discussing insights from educational sciences, they are not particularly inclined to adhere to [[pedagogy|pedagogical]] concepts, risking negative effects on the learning process, such as a loss of transfer capabilities, [[critical-thinking|critical thinking]], or [[creativity]]. In this paper, we introduce an [[agentic-ai|agentic AI]] chatbot architecture assisting students with exercise solving, specifically designed to contribute to more [[ai-literacy|responsible AI use]] in education. We base our conceptual development on the identification of several desiderata for responsible LLM-based educational systems, argue for the structural shortcomings inherent in monolithic, out-of-the-box solutions, and instead suggest modularizing the agentic architecture.
+> **Synthesis:** The widespread adoption of AI [[conversational-ai|chatbots]] in education will drastically change learning, making responsible deployment a critical concern. While [[llm|large language models (LLMs)]] might have access to sources discussing insights from educational sciences, they are not particularly inclined to adhere to [[pedagogy|pedagogical]] concepts, risking negative effects on the learning process, such as a loss of transfer capabilities, [[critical-thinking|critical thinking]], or [[creativity]]. In this paper, we introduce an [[agentic-ai|agentic AI]] chatbot architecture assisting students with exercise solving, specifically designed to contribute to more [[ai-literacy|responsible AI use]] in education. We base our conceptual development on the identification of several desiderata for responsible LLM-based educational systems, argue for the structural shortcomings inherent in monolithic, out-of-the-box solutions, and instead suggest modularizing the agentic architecture.
 
 - **Modular over monolithic:** Gabelmann et al. argue that monolithic, out-of-the-box LLM solutions structurally impede responsible deployment in education because LLMs lack inherent pedagogical discipline. They propose modularizing the agentic architecture into stage-specific components for exercise solving, each capable of incorporating targeted pedagogical advice.
 - **Pedagogical desiderata:** The paper derives formal requirements (desiderata) for responsible LLM-based educational systems, arguing that systems must be controllable, transparent, and overseeable. This directly addresses [[cognitive-offloading|Over-Reliance]] risks identified in studies showing that brief AI assistance impairs independent performance.

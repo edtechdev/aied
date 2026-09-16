@@ -1,7 +1,7 @@
 ---
 title: "Systematic Review of Collaborative Learning Activities for Promoting AI Literacy"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-26T05:46:39-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, collaborative-learning, learning-design, k-12, llm, higher-ed]
 audience: [instructors, researchers]
@@ -12,7 +12,7 @@ sources: ['raw/papers/hingle-collaborative-ai-literacy-2025.md']
 confidence: high
 ---
 
-> **[[meta-analysis-systematic-review|Systematic review]] of collaborative learning for AI literacy** — SEFI 2025. A theory-driven, PRISMA-guided systematic review of 9 studies (2015–2023) examining how [[collaborative-learning|collaborative learning]] (CL) approaches can be harnessed to build [[ai-literacy]]. Using the [[icap-framework|ICAP framework]] (Interactive–Constructive–Active–Passive) as an analytical lens, the review finds that CL effectively increases AI literacy across a range of activities, settings, and learner groups, and that successful interventions engaged learners at multiple ICAP modes.
+> **Synthesis:** **[[meta-analysis-systematic-review|Systematic review]] of collaborative learning for AI literacy** — SEFI 2025. A theory-driven, PRISMA-guided systematic review of 9 studies (2015–2023) examining how [[collaborative-learning|collaborative learning]] (CL) approaches can be harnessed to build [[ai-literacy]]. Using the [[icap-framework|ICAP framework]] (Interactive–Constructive–Active–Passive) as an analytical lens, the review finds that CL effectively increases AI literacy across a range of activities, settings, and learner groups, and that successful interventions engaged learners at multiple ICAP modes.
 
 ## Background: why collaborative learning for AI literacy
 

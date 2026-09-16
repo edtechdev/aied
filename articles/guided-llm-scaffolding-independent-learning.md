@@ -1,7 +1,7 @@
 ---
 title: "Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics"
 created: "2026-06-02T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, scaffolding, higher-ed, metacognition, prompt-engineering, agentic-ai, ai-literacy, curriculum-design, llm]
 audience: [learners, instructors]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2606.01375.md']
 confidence: high
 ---
 
-> Experimental study comparing Guided vs. Unrestricted [[llm]] access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and self-assessment calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
+> **Synthesis:** Experimental study comparing Guided vs. Unrestricted [[llm]] access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and self-assessment calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
 
 ## Key Findings
 

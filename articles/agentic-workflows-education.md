@@ -1,7 +1,7 @@
 ---
 title: Agentic Workflows in Education
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [agentic-ai, ai-education, benchmark, intelligent-tutoring, pedagogical-llm-training, human-in-the-loop-ai, adaptive-learning]
 audience: [software developers]

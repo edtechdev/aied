@@ -1,7 +1,7 @@
 ---
 title: "Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use"
 created: "2026-06-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, k-12, self-regulated-learning, metacognition, student-experience, scaffolding, help-seeking]
 research_method: [experiment, survey]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.08568.md']
 confidence: high
 ---
 
-Examines how 98 Grade-9 students across three German Gymnasium schools regulated their use of a Mistral-Large [[generative-ai|GenAI]] tutor while preparing for a math exam. Despite overwhelmingly selecting scaffolded support before the session, students' actual interactions were dominated by instrumental requests (asking for answers) with almost no explicit monitoring or evaluation of their own learning.
+> **Synthesis:** Examines how 98 Grade-9 students across three German Gymnasium schools regulated their use of a Mistral-Large [[generative-ai|GenAI]] tutor while preparing for a math exam. Despite overwhelmingly selecting scaffolded support before the session, students' actual interactions were dominated by instrumental requests (asking for answers) with almost no explicit monitoring or evaluation of their own learning.
 
 **Critical finding:** Post-test performance was significantly lower than pre-test, and higher extraneous cognitive load predicted lower post-[[learning-gains|test scores]] after controlling for [[prior-knowledge|prior knowledge]]. This reveals an **intention-behavior gap** — students intend to use AI for learning but default to answer-seeking, undermining [[self-regulated-learning|self-regulated learning]] processes.
 

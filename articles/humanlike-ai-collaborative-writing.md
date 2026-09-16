@@ -1,7 +1,7 @@
 ---
 title: 'It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent'
 created: "2026-05-26T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, writing-education, student-experience, llm, higher-ed]
 research_method: [user study]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2605.24729.md']
 confidence: high
 ---
 
-This comparative user study (n=48) examines how the temporal and visual dimensions of AI collaboration shape the experience of [[writing-education|writing tasks]], revealing that humanlike design features in [[agentic-ai|AI agents]] create both positive social expectations and unexpected social costs.
+> **Synthesis:** This comparative user study (n=48) examines how the temporal and visual dimensions of AI collaboration shape the experience of [[writing-education|writing tasks]], revealing that humanlike design features in [[agentic-ai|AI agents]] create both positive social expectations and unexpected social costs.
 
 ## The Humanlike-to-Machinelike Spectrum
 Three AI-assisted text editor variants were tested along two dimensions:

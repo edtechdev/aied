@@ -1,7 +1,7 @@
 ---
 title: 'Why SuaCode?": Understanding African Students'' Motivations for Taking a Smartphone-Based Online Coding Course'
 created: "2026-07-28T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [cs-education, equity-in-ai-education, online-teaching-and-learning, global-south, ai-literacy, ai-education]
 audience: [learners]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.22940.md']
 confidence: high
 ---
 
-Addo, Munagah, Kumbol, Uchidiuno and Boateng study why African students enroll in SuaCode, a smartphone-based online coding course (from the team behind the Kwame AI [[teacher-role|teaching]] assistant) addressing the fact that under 1% of African secondary-school leavers have fundamental coding skills. Understanding learner motivations informs the design of accessible, AI-supported MOOCs for low-resource contexts. The work speaks directly to [[equity-in-ai-education]] and [[inclusive-learning]], to broadening participation in [[cs-education]], and to policy questions in [[ai-literacy-equity-programming-policy]]; outcome evidence for AI-supported programming learning connects to [[genai-meta-analysis-programming-learning]].
+> **Synthesis:** Addo, Munagah, Kumbol, Uchidiuno and Boateng study why African students enroll in SuaCode, a smartphone-based online coding course (from the team behind the Kwame AI [[teacher-role|teaching]] assistant) addressing the fact that under 1% of African secondary-school leavers have fundamental coding skills. Understanding learner motivations informs the design of accessible, AI-supported MOOCs for low-resource contexts. The work speaks directly to [[equity-in-ai-education]] and [[inclusive-learning]], to broadening participation in [[cs-education]], and to policy questions in [[ai-literacy-equity-programming-policy]]; outcome evidence for AI-supported programming learning connects to [[genai-meta-analysis-programming-learning]].
 
 ## Key Findings
 

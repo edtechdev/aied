@@ -1,7 +1,7 @@
 ---
 title: Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [learning-analytics, edtech-platform, higher-ed, student-engagement, student-experience, rag, llm, k-12, machine-learning]
 research_method: [benchmark]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2606.14960.md']
 confidence: medium
 ---
 
-> Investigates ML models to predict exam outcomes from physiological data (electrodermal activity, heart rate, skin temperature) collected during exams. Evaluates logistic regression, random forest, SVM, transformers, LSTM, and GRU. Random forest often outperformed deep learning models while offering interpretability. Highlights value of physiological data for understanding student stress and real-time intervention potential.
+> **Synthesis:** Investigates ML models to predict exam outcomes from physiological data (electrodermal activity, heart rate, skin temperature) collected during exams. Evaluates logistic regression, random forest, SVM, transformers, LSTM, and GRU. Random forest often outperformed deep learning models while offering interpretability. Highlights value of physiological data for understanding student stress and real-time intervention potential.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2"
 created: "2026-07-02T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, higher-ed, student-experience, academic-integrity, stem-education, generative-ai, ai-literacy, rag]
 research_method: [system development]
@@ -12,11 +12,7 @@ sources: ['raw/papers/2606.30908.md']
 confidence: high
 ---
 
-> **Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, Naren Ramakrishnan** — SIGCSE Virtual 2026, submitted 29 Jun 2026
-
-**Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, Naren Ramakrishnan** — SIGCSE Virtual 2026, submitted 29 Jun 2026
-
-DURA framework (Demystify-Use-Reflect-Assess) for structured [[llm]] integration in CS2 courses shows students value instructional guidance alongside LLM access, with increased office hours attendance.
+> **Synthesis:** Ellis and colleagues (2026) report, as an experience report, the **DURA framework** — Demystify, Use, Reflect, Assess — and the materials they used to restructure a CS2 course to permit [[llm]] use. They first demystified LLMs, then gave guidance on use with required attribution, added reflections on LLM use at three points through the semester to encourage student [[metacognition]] around the tools, and increased the value of proctored assessments in tandem with allowing retakes and including questions that explicitly assess skills from programming assignments. Students reported using LLMs to clarify course concepts, debug, understand assignment guidelines and determine test cases, but also continued to seek help through office hours and [[teacher-role|teaching assistants]], monitor the course forum and review course content. The authors present the approach as an alternative to policies that restrict or monitor LLM use: students are allowed to use the tools, while assessment design provides guardrails against [[cognitive-offloading|over-reliance]]. The authors also report that students articulated thoughtful and strategic approaches to LLM use and valued instructional content and guidance alongside access.
 
 ## Key Contributions
 
@@ -31,7 +27,6 @@ This paper contributes to the growing body of [[research-methods-aied|research]]
 - [[llm]]
 - [[generative-ai]]
 - [[scaffolding]]
-
 - [[ai-education]]
 - [[intelligent-tutoring]]
 - [[equity-in-ai-education]]

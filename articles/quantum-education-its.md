@@ -1,7 +1,7 @@
 ---
 title: Quantum Education Intelligent Tutoring
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-24T13:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [adaptive-learning, higher-ed, intelligent-tutoring, knowledge-tracing, stem-education, knowledge-graph, agentic-ai, llm, scaffolding]
 research_method: [system development, experiment]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2604.24807.md']
 confidence: high
 ---
 
-> **ITAS (Intelligent Teaching Assistant System)** — Elhaimeur & Chrisochoides (2026) describe a multi-agent, knowledge-graph-augmented tutoring system for quantum computing education that bridges the gap between dense mathematical formalism and limited qualified instructors. Building on an earlier knowledge-graph-augmented prototype with two specialized [[llm]] agents (a Teaching Agent and a Lesson Planning Agent), ITAS scales this into a production-grade system with four contributions: a five-module QIS curriculum grounded in an information-first framework, a Spoke-and-Wheel teaching architecture with quantum-specialized agents, production cloud infrastructure, and a conversational analytics layer. Piloted in a real quantum computing course at Old Dominion University, the deployment answered the three questions the prototype left open — whether agent specialization solves the reliability problem, whether the system can run in a real course, and whether the instructor gains actionable intelligence.
+> **Synthesis:** **ITAS (Intelligent Teaching Assistant System)** — Elhaimeur & Chrisochoides (2026) describe a multi-agent, knowledge-graph-augmented tutoring system for quantum computing education that bridges the gap between dense mathematical formalism and limited qualified instructors. Building on an earlier knowledge-graph-augmented prototype with two specialized [[llm]] agents (a Teaching Agent and a Lesson Planning Agent), ITAS scales this into a production-grade system with four contributions: a five-module QIS curriculum grounded in an information-first framework, a Spoke-and-Wheel teaching architecture with quantum-specialized agents, production cloud infrastructure, and a conversational analytics layer. Piloted in a real quantum computing course at Old Dominion University, the deployment answered the three questions the prototype left open — whether agent specialization solves the reliability problem, whether the system can run in a real course, and whether the instructor gains actionable intelligence.
 
 Quantum education faces a compounding problem: quantum concepts are counterintuitive, the mathematical formalism is dense, and qualified faculty are scarce outside a small number of well-resourced institutions. ITAS addresses all three by combining a structured [[knowledge-graph]] representation of quantum concepts with specialized [[agentic-ai|AI agents]], making [[intelligent-tutoring|intelligent tutoring]] viable in a technically demanding domain. Its design lessons extend well beyond quantum — they speak to how [[agentic-ai]] tutors scale from prototype to production in any discipline with scarce [[teacher-role|subject expertise]].
 

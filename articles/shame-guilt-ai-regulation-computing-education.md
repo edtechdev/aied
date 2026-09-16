@@ -1,7 +1,7 @@
 ---
 title: 'Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education'
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [student-experience, higher-ed, academic-integrity, cognitive-offloading, hallucination-risk, learning-analytics, llm, k-12]
 research_method: [qualitative, interviews]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2606.14920.md']
 confidence: high
 ---
 
-> An interview study with 19 computing students through a functionalist perspective of shame and guilt. Findings show these emotions regulate when and how students make their AI use visible, engaging in hiding behaviors and selective disclosure. Students described shaming themselves, peers, and faculty for using AI. Shame and guilt coexist with continued AI use, creating cycles of reduced agency and moral tension rather than promoting behavior change. Students used language and metaphors of addiction. Highlights need to consider socio-emotional aspects of AI use in policy and classroom practice.
+> **Synthesis:** An interview study with 19 computing students through a functionalist perspective of shame and guilt. Findings show these emotions regulate when and how students make their AI use visible, engaging in hiding behaviors and selective disclosure. Students described shaming themselves, peers, and faculty for using AI. Shame and guilt coexist with continued AI use, creating cycles of reduced agency and moral tension rather than promoting behavior change. Students used language and metaphors of addiction. Highlights need to consider socio-emotional aspects of AI use in policy and classroom practice.
 
 ## Key Findings
 

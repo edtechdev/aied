@@ -1,7 +1,7 @@
 ---
 title: Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-26T15:33:55-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [self-regulated-learning, generative-ai, higher-ed, student-experience, student-engagement, scaffolding, metacognition, llm]
 research_method: [experiment]
@@ -12,10 +12,7 @@ sources: ['raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md']
 confidence: high
 ---
 
-## Summary
-
-A **randomized 2×2 full-factorial field experiment** (N = 179 German university students, 22 days of app use, 12-week follow-up) testing two design principles for a **mobile [[conversational-ai|chatbot]]-based [[self-regulated-learning|learning journaling]] system** aimed at keeping students motivated to maintain reflective learning journals — a known pain point (rapid decline in [[motivation]]/[[student-engagement|engagement]] after brief use). The two principles: (1) an **example-based built-in course** (7 days, one SRL topic per day, time-gated, modeled example responses) and (2) an **[[llm|LLM]]-based journaling assistant** (GPT-3.5-turbo-1106) that [[scaffolding|scaffolds]] entries by summarizing drafts, asking clarifying follow-up questions, and generating alternative first-person formulations.
-
+> **Synthesis:** A **randomized 2×2 full-factorial field experiment** (N = 179 German university students, 22 days of app use, 12-week follow-up) testing two design principles for a **mobile [[conversational-ai|chatbot]]-based [[self-regulated-learning|learning journaling]] system** aimed at keeping students motivated to maintain reflective learning journals — a known pain point (rapid decline in [[motivation]]/[[student-engagement|engagement]] after brief use). The two principles: (1) an **example-based built-in course** (7 days, one SRL topic per day, time-gated, modeled example responses) and (2) an **[[llm|LLM]]-based journaling assistant** (GPT-3.5-turbo-1106) that [[scaffolding|scaffolds]] entries by summarizing drafts, asking clarifying follow-up questions, and generating alternative first-person formulations.
 ## Design & method
 
 - **Groups:** Baseline (B, n=53) | Assistant (A, n=53) | Course (C, n=52) | Course+Assistant (CA, n=52); stratified randomization (gender, age, LIST-K SRL scales).

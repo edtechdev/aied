@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs"
 created: "2026-05-15T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, regulation, hallucination-risk, student-experience, pedagogical-safety]
 research_method: [benchmark, system development]
@@ -10,13 +10,7 @@ sources: ['raw/papers/2605.06669.md']
 confidence: medium
 ---
 
-> Evaluating Prompt Injection Defenses for Educational [[llm]] Tutors: Security-[[usability-research|Usability]]-Latency Trade-offs **Maiorano (2026)** — arXiv cs.CR/cs.AI.
-
-Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs
-
-## Summary
-
-This paper addresses a fundamental tension in educational LLM deployment: tutors must be both **secure** (resist prompt injection attacks) and **usable** (not block legitimate educational interactions). The author presents a systematic evaluation methodology using a **480-query benchmark** (369 injection, 111 benign) with statistically rigorous comparison.
+> **Synthesis:** This paper addresses a fundamental tension in educational LLM deployment: tutors must be both **secure** (resist prompt injection attacks) and **usable** (not block legitimate educational interactions). The author presents a systematic evaluation methodology using a **480-query benchmark** (369 injection, 111 benign) with statistically rigorous comparison.
 
 **Defense methods compared:**
 

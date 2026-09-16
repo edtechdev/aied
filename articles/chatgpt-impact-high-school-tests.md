@@ -1,7 +1,7 @@
 ---
 title: Little Impact of ChatGPT Availability on High School Student Test Score Performance
 created: "2026-05-14T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:48:59-04:00"
 type: article
 tags: [generative-ai, k-12, cognitive-offloading, academic-integrity, student-experience, rag, ai-education]
 research_method: [experiment]
@@ -12,9 +12,10 @@ sources: ['raw/papers/2605.08812.md']
 confidence: medium
 ---
 
+> **Synthesis:** This paper uses a clever identification strategy: measure the **seasonal drop in ChatGPT activity during non-school summer months** (2023 and 2024). Areas with larger summer dropoffs have heavier school-related AI use. The author then examines whether higher AI-use areas show different test score trends.
+
 ## Research Design
 
-This paper uses a clever identification strategy: measure the **seasonal drop in ChatGPT activity during non-school summer months** (2023 and 2024). Areas with larger summer dropoffs have heavier school-related AI use. The author then examines whether higher AI-use areas show different test score trends.
 
 ## Key Finding: Null Result
 

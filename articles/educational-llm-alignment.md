@@ -1,7 +1,7 @@
 ---
 title: Educational LLM Alignment
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-24T21:00:00-04:00"
+updated: "2026-09-16T15:49:45-04:00"
 type: article
 tags: [llm, benchmark, bias-mitigation, teacher-role, pedagogical-llm-training, educational-development, ai-literacy, ethics]
 research_method: [benchmark, experiment]
@@ -10,9 +10,7 @@ sources: ['raw/papers/hardy-knowledge-without-wisdom-llm-misalignment-2026.md']
 confidence: medium
 ---
 
-> Hardy & Kim (2026) identify a **cascading proxy** problem in AI-for-education evaluation:
-
-> The gap between what LLMs are *capable* of and what actually *benefits learners* — benchmark performance, downstream task quality, and intended educational impact are three distinct and often-misaligned levels.
+> **Synthesis:** The gap between what LLMs are *capable* of and what actually *benefits learners* — benchmark performance, downstream task quality, and intended educational impact are three distinct and often-misaligned levels.
 
 ## The Three-Layer Alignment Problem
 

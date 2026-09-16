@@ -1,7 +1,7 @@
 ---
 title: Generative AI (GenAI) as a mindtool that supports generative learning (GL)
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-07T09:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [learning-theories, generative-ai, higher-ed, learning-design, scaffolding]
 research_method: [theoretical analysis]

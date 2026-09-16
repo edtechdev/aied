@@ -1,7 +1,7 @@
 ---
 title: "Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations"
 created: "2026-06-10T07:38:00-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [automated-assessment, assessment, higher-ed, generative-ai, formative-assessment, llm, student-experience, ai-literacy, scaffolding, stem-education]
 research_method: [system development]
@@ -14,7 +14,7 @@ confidence: high
 sources: []
 ---
 
-**Hartwig Grabowski, Michael Canz** — cs.AI, cs.CV, cs.CY
+> **Synthesis:** **Hartwig Grabowski, Michael Canz** — cs.AI, cs.CV, cs.CY
 
 This paper identifies the didactic narrowing caused by fully digital e-assessment (overuse of closed question formats) and proposes a hybrid approach that retains paper-based, problem-oriented examination tasks while enabling semi-automated grading. The core technical innovation is applying vision-capable LLMs to recognize handwritten characters in structured answer fields under realistic exam conditions, combined with a two-pass validation principle and comparison against a solution key to reduce misclassifications. The approach addresses organizational, technical, and legal constraints that become relevant in large student cohorts. This work connects [[automated-assessment|Automated Grading]] [[research-methods-aied|research]] to real-world assessment practice by acknowledging that fully digital assessment often degrades assessment quality, even as institutions push for scalability. The hybrid approach could inform [[formative-assessment]] redesign in large-enrollment [[stem-education|STEM]] courses.
 

@@ -1,7 +1,7 @@
 ---
 title: Multimodal Dialogue in STEM Education
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, multimodal, socratic-method, stem-education, llm, scaffolding, metacognition]
 research_method: [benchmark]
@@ -11,7 +11,7 @@ sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']
 confidence: medium
 ---
 
-> **The Multimodal Interference Effect** describes a systemic accuracy drop when LLMs encounter image-rich [[stem-education|STEM]] problems: from ~96% on text-only [[physics-education|physics]] problems to ~74% on multimodal ones. A simple three-step structured dialogue intervention — eliciting visual descriptions, correcting observable misreadings without giving away physics, and re-prompting — corrects 82% of all errors and 100% of visual processing errors, restoring accuracy to 95%.
+> **Synthesis:** **The Multimodal Interference Effect** describes a systemic accuracy drop when LLMs encounter image-rich [[stem-education|STEM]] problems: from ~96% on text-only [[physics-education|physics]] problems to ~74% on multimodal ones. A simple three-step structured dialogue intervention — eliciting visual descriptions, correcting observable misreadings without giving away physics, and re-prompting — corrects 82% of all errors and 100% of visual processing errors, restoring accuracy to 95%.
 
 **Syal, Prince, Gultepe, Brown & Sridhar (2026)** · arXiv: 2605.04131
 

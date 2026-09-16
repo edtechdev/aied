@@ -1,7 +1,7 @@
 ---
 title: "Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, writing-education, equity-in-ai-education, higher-ed, language-learning]
 research_method: [qualitative, theoretical analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.28505.md']
 confidence: high
 ---
 
-Structured scholarly dialogue among five sociolinguists examining how [[generative-ai|GenAI]] tools influence academic writing practices, reinforce or disrupt linguistic hierarchies, and impact the legitimacy of diverse English varieties in global scholarly communication. Raises concerns about linguistic homogenization and the marginalization of World Englishes.
+> **Synthesis:** Structured scholarly dialogue among five sociolinguists examining how [[generative-ai|GenAI]] tools influence academic writing practices, reinforce or disrupt linguistic hierarchies, and impact the legitimacy of diverse English varieties in global scholarly communication. Raises concerns about linguistic homogenization and the marginalization of World Englishes.
 
 ## Key Findings
 

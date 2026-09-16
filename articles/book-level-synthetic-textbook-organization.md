@@ -1,7 +1,7 @@
 ---
 title: "Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, llm, personalized-learning, learning-theories]
 audience: [software developers]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2607.28109.md']
 confidence: medium
 ---
 
-Studies how organizing synthetic content into coherent book-level documents affects language [[pedagogical-llm-training|model training]], moving beyond local rewriting. Presents a scalable synthesis pipeline that retrieves source material, clusters it into topical units, and plans hierarchical textbook structures. Shows book-level organization significantly outperforms isolated content generation for educational knowledge acquisition in LLMs.
+> **Synthesis:** Studies how organizing synthetic content into coherent book-level documents affects language [[pedagogical-llm-training|model training]], moving beyond local rewriting. Presents a scalable synthesis pipeline that retrieves source material, clusters it into topical units, and plans hierarchical textbook structures. Shows book-level organization significantly outperforms isolated content generation for educational knowledge acquisition in LLMs.
 
 ## Key Findings
 

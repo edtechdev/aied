@@ -1,7 +1,7 @@
 ---
 title: Explainable Artificial Intelligence in Education (XAI-ED)
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-09-07T10:15:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, learning-analytics, bias-mitigation, equity-in-ai-education, privacy, metacognition, teacher-role, student-experience, adaptive-learning, ai-literacy]
 research_method: [theoretical analysis]
@@ -10,10 +10,7 @@ sources: ['raw/papers/khosravi-xai-education-2022.md']
 confidence: high
 ---
 
-## Core Contribution
-
-This paper introduces **XAI-ED**, a framework for explainable AI that is purpose-built for education. It argues that while XAI in education shares common ground with broader XAI (accountability, fairness, privacy), education has *distinctive needs*: learning data is noisy at many levels, explanations can directly support metacognition and self-regulated learning, and different stakeholders need fundamentally different kinds of explanations.
-
+> **Synthesis:** This paper introduces **XAI-ED**, a framework for explainable AI that is purpose-built for education. It argues that while XAI in education shares common ground with broader XAI (accountability, fairness, privacy), education has *distinctive needs*: learning data is noisy at many levels, explanations can directly support metacognition and self-regulated learning, and different stakeholders need fundamentally different kinds of explanations.
 ## The XAI-ED Framework — Six Aspects
 
 ### 1. Stakeholders
