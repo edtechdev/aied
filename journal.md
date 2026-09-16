@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-16 | Total entries: 1381
+Last updated: 2026-09-16 | Total entries: 1382
 
 ## 2026-09-16
+- 📄 [[raise-framework-ai-education-reporting-2026]] — RAISE the Standard: A Framework for Transparent Reporting of Artificial Intelligence Studies in Education
 - 📄 [[ai-ive-pbl-vocational-design-creativity-2026]] — Cultivating Design Creativity of Vocational Students: A Model of Project-Based Learning in AI-Enabled Immersive Virtual Environments
 
 ## 2026-09-15
