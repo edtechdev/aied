@@ -1,7 +1,7 @@
 ---
 title: "Are Students Dependent on AI in Writing Courses? Analyzing Factors Influencing Dependence on Generative AI Through the I-PACE Model"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T11:00:00-04:00"
+updated: "2026-09-16T13:40:00-04:00"
 type: article
 tags: [cognitive-offloading, academic-integrity, writing-education, ai-literacy, higher-ed, ai-education]
 audience: [researchers, instructors, administrators]
@@ -10,7 +10,7 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1905037.md']
 confidence: high
 ---
 
-> **Synthesis:** Liu, Zhuang, and Wang (2026) apply the I-PACE model of problematic use to [[generative-ai|generative AI]] dependence in college [[writing-education|academic writing]]. In a [[mixed-methods-research|mixed-methods]] study of 266 Chinese college students (survey + SEM) and eight in-depth interviews, they find that academic stress, [[ai-literacy]], and perceived trust significantly predict AI dependence; [[technology-acceptance-model|perceived usefulness]] mediates between academic [[self-efficacy]] and academic stress, while perceived trust mediates between social influence and dependence. Qualitatively, students are aware of AI risks yet report academic stress, peer influence, tool efficiency, and policy ambiguity as incentives for strategic AI use — revealing a strong psychological connection to AI dependence.
+> **Synthesis:** Liu, Zhuang, and Wang (2026) apply the I-PACE model of problematic use to [[generative-ai|generative AI]] dependence in college [[writing-education|academic writing]]. In a [[mixed-methods-research|mixed-methods]] study of 266 Chinese [[higher-ed|college students]] (survey + SEM) and eight in-depth interviews, they find that academic stress, [[ai-literacy]], and [[trust|perceived trust]] significantly predict AI dependence; [[technology-acceptance-model|perceived usefulness]] mediates between academic [[self-efficacy]] and academic stress, while perceived trust mediates between social influence and dependence. Qualitatively, students are aware of AI risks yet report academic stress, peer influence, tool efficiency, and policy ambiguity as incentives for strategic AI use — revealing a strong psychological connection to AI dependence.
 
 ## Key Findings
 

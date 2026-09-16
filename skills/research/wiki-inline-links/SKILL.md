@@ -21,6 +21,36 @@ metadata:
 > `--apply`) and review the suggestions.
 > After any `--apply`, always diff: `git status --short concepts/ articles/`.
 
+> **Pitfall — `--apply` alone is an INCOMPLETE pass (2026-09-16, maintainer-caught).**
+> `AUTO_APPLY_DENYLIST` (in the script) deliberately keeps ambiguous generic words —
+> `trust`, `motivation`, `feedback`, `assessment`, `policy`, `agency`, `privacy`,
+> `bias`, `platform`, `validity`, `engineering`, `reasoning`, `achievement`, `school`, ...
+> **report-only**: they appear in report mode but are NEVER auto-applied. So a run that
+> ends at `--apply` leaves genuinely missing links behind and still looks "clean".
+> The maintainer noticed exactly this: a Hypothesis & Theory article *about* trust
+> calibration (`trust-calibration-chatbots-design-problem-2026`) had no inline
+> `[[trust-calibration]]` or `[[trust]]` link in its narrative, despite ~12 occurrences
+> of "calibrat*" and 15 of "trust". Two compounding causes: (a) bare `calibration` /
+> `miscalibration` are not aliases of `trust-calibration` in the alias table, and
+> (b) `trust` is denylisted, so `--apply` silently skipped it.
+>
+> **Mandatory closing step of EVERY inline-link pass**: after `--apply`, re-run the
+> scanner in default **report mode** over the same slugs and hand-apply the denylisted
+> suggestions that are right *in context*. For each reported candidate, inspect the
+> actual sentence; a term is only linkable when it is used in the concept's sense.
+> Worked judgments from that pass: `trust` in a study where "perceived trust" is the
+> model mediator -> link; `motivation to verify` (a typology dimension) -> do NOT link
+> to `[[motivation]]`; "AI teaching assistants" -> do NOT link to `[[teacher-role]]`;
+> "ethi**cs education**" -> false positive for `[[cs-education]]`; `platform` / `bias` /
+> `validity` / `measurement` -> leave unlinked.
+>
+> Also check the two systematic gaps that report mode surfaces as a class:
+> (1) an article whose slug shares a word with the concept it is about (self-reference)
+> is never auto-linked — verify that concept IS linked inline;
+> (2) `[[higher-ed]]` from "undergraduates"/"college students"/"university" —
+> `[[higher-ed|...]]` is the dominant corpus convention (~47% of articles link it),
+> so add it once to any higher-education study that lacks it.
+
 
 > **Concept vocabulary: one source (2026-09-13).** Every concept slug, title and
 > synonym phrase now lives in **`concepts.registry.yaml`** at the repo root, together

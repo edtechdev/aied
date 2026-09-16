@@ -1,7 +1,7 @@
 ---
 title: "Generative AI as a Didactic-Pedagogical Mediator: Rethinking Human Roles and Pedagogical Design in Higher Education"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T11:00:00-04:00"
+updated: "2026-09-16T13:40:00-04:00"
 type: article
 tags: [generative-ai, pedagogy, learning-design, higher-ed, teacher-role, ai-literacy, assessment, governance, agency]
 research_method: [theoretical analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/10.3389_feduc.2026.1856839.md']
 confidence: high
 ---
 
-> **Synthesis:** Moganadas and colleagues (2026) argue that [[generative-ai|generative AI]] in [[higher-ed|higher education]] cannot be understood through the traditional dyadic instructor–[[student-modeling|student model]], because GenAI now participates directly in explanation, feedback, and knowledge construction rather than serving as an external supplement or threat. They propose a nested **instructor–student–GenAI triadic model** that positions GenAI as a bounded *didactic-pedagogical mediator* operating within a shared didactic mediation space, governed by institutions and wider stakeholders. The framework translates into five researchable propositions covering learning mediation, [[teacher-role|instructor role]] transformation, developmental [[ai-literacy|AI literacy]] and learner [[agency]], AI-transparent process-oriented [[assessment]], and institutional [[governance]].
+> **Synthesis:** Moganadas and colleagues (2026) argue that [[generative-ai|generative AI]] in [[higher-ed|higher education]] cannot be understood through the traditional dyadic instructor–[[student-modeling|student model]], because GenAI now participates directly in explanation, [[feedback]], and knowledge construction rather than serving as an external supplement or threat. They propose a nested **instructor–student–GenAI triadic model** that positions GenAI as a bounded *didactic-pedagogical mediator* operating within a shared didactic mediation space, governed by institutions and wider stakeholders. The framework translates into five researchable propositions covering learning mediation, [[teacher-role|instructor role]] transformation, developmental [[ai-literacy|AI literacy]] and learner [[agency]], AI-transparent process-oriented [[assessment]], and institutional [[governance]].
 
 ## Key Findings
 
@@ -24,7 +24,7 @@ confidence: high
 
 ## Conceptual Framework
 
-The study adopts a focused integrative interdisciplinary synthesis — drawing on higher education, educational technology, learning sciences, instructional design, [[human-ai-collaboration|human-computer interaction]], [[cognitive-psychology|cognitive psychology]], policy, ethics, and institutional governance — rather than an exhaustive [[meta-analysis-systematic-review|systematic review]]. It uses inductive and deductive [[qualitative-research|qualitative]] synthesis to construct a nested, multi-level conceptual model organized into three interdependent layers:
+The study adopts a focused integrative interdisciplinary synthesis — drawing on higher education, educational technology, learning sciences, [[learning-design|instructional design]], [[human-ai-collaboration|human-computer interaction]], [[cognitive-psychology|cognitive psychology]], policy, ethics, and institutional governance — rather than an exhaustive [[meta-analysis-systematic-review|systematic review]]. It uses inductive and deductive [[qualitative-research|qualitative]] synthesis to construct a nested, multi-level conceptual model organized into three interdependent layers:
 
 - **Instructional triad and shared didactic mediation space.** The student, instructor, and GenAI are arranged around a central *shared didactic mediation space*, the arena where task design, prompting, GenAI outputs, feedback, verification, revision, reflection, and assessment are enacted. Within this space, interaction, negotiation, [[self-regulated-learning|co-regulation]], and production operate as interconnected processes; knowledge construction emerges from students' active meaning-making across human participants, AI outputs, disciplinary criteria, and institutional expectations.
 - **Institutional governance layer.** HEIs enable, constrain, legitimize, and regulate the triad through [[curriculum-design|curriculum]] and assessment structures, policies, infrastructure, [[educational-development|professional development]], procurement, [[privacy|data protection]], and accountability — operating adaptively (responsive to emergent risks) and principle-based (anchored in institutional aims), especially because student GenAI use often occurs beyond managed platforms.

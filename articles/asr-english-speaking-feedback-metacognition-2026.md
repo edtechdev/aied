@@ -1,7 +1,7 @@
 ---
 title: "ASR Technology in College English Speaking Instruction: The Role of Feedback Internalization and Metacognitive Strategies"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T11:00:00-04:00"
+updated: "2026-09-16T13:40:00-04:00"
 type: article
 tags: [language-learning, feedback, metacognition, self-regulated-learning, intelligent-tutoring, ai-education]
 audience: [instructors, researchers, software developers]
@@ -31,7 +31,7 @@ For [[language-learning]] and [[intelligent-tutoring]], the study shows ASR's va
 ## Limitations
 
 - **Cross-sectional design** precludes causal inference; experimental and longitudinal designs are needed.
-- **Single-university Chinese sample** limits generalizability to other cultural/educational contexts.
+- **Single-[[higher-ed|university]] Chinese sample** limits generalizability to other cultural/educational contexts.
 - **ASR treated partly as monolithic** rather than isolating the unique contributions of specific design elements.
 
 ## Connected Concepts
