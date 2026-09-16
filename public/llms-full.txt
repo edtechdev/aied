@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 191 concepts, 1189 articles, and 18 FAQs.
+> Complete text of 191 concepts, 1190 articles, and 18 FAQs.
 
 # Concepts
 
@@ -3402,7 +3402,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 ## [Project-Based Learning](https://edtechdev.github.io/aied/concepts/project-based-learning/)
 
-> **Project-based learning (PBL)** — an active, learner-centred [[pedagogy]] in which students learn by engaging in extended, real-world projects that require inquiry, problem solving, and the application of knowledge to produce tangible outcomes. PBL emphasizes student autonomy, collaboration, and [[authentic-assessment|authentic tasks]], and is widely used with technology — including [[educational-robotics|educational robotics]] and AI — to give learners hands-on, meaningful projects. It contrasts with purely theoretical or lecture-based instruction.
+> **Project-based learning (PBL)** — an active, learner-centred [[pedagogy]] in which students learn by engaging in extended, real-world projects that require inquiry, problem solving, and the application of knowledge to produce tangible outcomes. PBL emphasizes student [[agency|autonomy]], collaboration, and [[authentic-assessment|authentic tasks]], and is widely used with technology — including [[educational-robotics|educational robotics]] and AI — to give learners hands-on, meaningful projects. It contrasts with purely theoretical or lecture-based instruction.
 
 ## Questions to Consider
 
@@ -3422,10 +3422,11 @@ Project-based learning is closely related to — but distinct from — [[problem
 ### How PBL appears in the knowledge base's research
 
 - **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] presents an agile, semester-spanning project-based approach to teach robotics in an applied [[cs-education|computer science]] program, addressing the theory-practice gap.
-- **The Project Approach in early childhood with AI agents:** [[creative-project-approach-ai-early-childhood-2025|Yang, Li and Lee (2025)]] extend PBL's foundational form — the Project Approach (Katz & Chard), an extended collaborative investigation of a real-world topic — into [[early-childhood-elementary-ai-education|early childhood]], proposing a five-step **Creative Project Approach** that integrates [[agentic-ai|AI agents]] and [[educational-robotics|robots]] (coding robots and generative social robots) into projects to foster young children's [[creativity|creative learning]]. The five steps — identify learning needs, facilitate teacher-guided child–robot interaction, situate AI in contexts, calibrate the automation/creativity balance, and evaluate outcomes — keep the teacher as a facilitator guiding inquiry, positioning PBL as the natural vehicle for developmentally appropriate AI use with the youngest learners.
+- **The Project Approach in early childhood with AI agents:** [[creative-project-approach-ai-early-childhood-2025|Yang, Li and Lee (2025)]] extend PBL's foundational form — the Project Approach (Katz & Chard), an extended collaborative investigation of a real-world topic — into [[early-childhood-elementary-ai-education|early childhood]], proposing a five-step **Creative Project Approach** that integrates [[agentic-ai|AI agents]] and [[educational-robotics|robots]] (coding robots and generative social robots) into projects to foster young children's [[creativity|creative learning]]. The five steps — identify learning needs, facilitate [[teacher-role|teacher]]-guided child–robot interaction, situate AI in contexts, calibrate the automation/creativity balance, and evaluate outcomes — keep the teacher as a facilitator guiding inquiry, positioning PBL as the natural vehicle for developmentally appropriate AI use with the youngest learners.
 - **Gamification coupling:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] found [[game-based-learning|Gamification]] in robotics education strongly favored project-based learning (p = .009).
 - **AI literacy and co-design:** PBL underlies many [[ai-literacy|AI literacy]] and [[teacher-education]] interventions, where learners co-create AI tools or resources.
 - **AI-agent-supported software PBL:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] embedded Spec-Driven Development with [[agentic-ai|AI agents]] into a team-based undergraduate software PBL course, structuring projects into investigation, planning, implementation, and review phases paired with instructor-run comprehension checks.
+- **Immersive VR studios with an embedded teaching agent:** [[ai-ive-pbl-vocational-design-creativity-2026|Jin et al. (2026)]] specify the **AI-IVE-PBL** model for vocational design education, pairing PBL with an AI-enabled immersive virtual environment ([[virtual-and-augmented-reality|VR]] headsets plus an [[llm]]-backed teaching assistant). PBL's customary constraints for vocational learners — limited equipment, hard-to-replicate scenarios, delayed teacher [[scaffolding]] — are absorbed by immersion plus an in-session agent, and the model is stated as a five-phase loop (discovery, envisioning, modeling, communication, refinement) with a named actor and artefact per phase, driven by sustained idea-developing discourse. In a 12-week quasi-experiment (n = 63) the condition raised design ability and creative ability and lifted cognitive and behavioural [[student-engagement|engagement]], while leaving ideational novelty (innovative thinking) and affective engagement unchanged — a reminder that the design-specific and the ideational parts of a project's value do not move together.
 PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-learning]], [[educational-robotics]], [[game-based-learning]], [[computational-thinking]], and [[higher-ed]]/[[k-12]] pedagogy.
 
 - **PBL supports AI-powered robotics learning.** [[educational-robotics-pathways-2026|Pathways research]] shows project-based robotics+AI curricula let high school students learn through engagement in real-world practice, designing, and playful creative expression.
@@ -3470,6 +3471,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: AI agents and robotics within the Project Approach in early childhood (Yang, Li & Lee 2025)
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in team software PBL
+- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: an immersive VR design studio with an embedded teaching agent, evaluated against traditional PBL (Jin et al. 2026)
 
 ---
 
@@ -6575,7 +6577,7 @@ For designers and educators, activity theory counsels looking beyond the AI tool
 - Think of a moment you were deeply cognitively engaged in something — truly wrestling with an idea. What was different about it compared to times you were merely busy or entertained, and could an AI tool reliably create that state?
 - Engagement is broken into behavioral, cognitive, and affective dimensions that can diverge. Why do you think researchers insist on treating these separately rather than as one thing, and what would you measure to tell them apart?
 - The research suggests deep cognitive engagement with AI predicts learning, while shallow engagement predicts over-reliance. If a tool is 'engaging' but shallow, who is at fault — the design, the task, or the learner?
-- How might an AI tool satisfy autonomy, competence, and relatedness (the needs behind engagement) without those features turning into shallow entertainment that displaces real learning?
+- How might an AI tool satisfy [[agency|autonomy]], competence, and relatedness (the needs behind engagement) without those features turning into shallow entertainment that displaces real learning?
 
 ## Introduction
 
@@ -6595,9 +6597,9 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 
 - **Discipline-associated cognitive engagement in student-AI chat.** [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] show that student prompts to AI encode ~62% higher-order cognitive demand on average, but Bloom-level engagement profiles differ sharply by discipline ([[stem-education|STEM]] Apply-prevalent 20.8%, language Understand-prevalent 31.7%, social science Create-prevalent 33.8%). Using a within-person design, they found the same students produced significantly more higher-order prompts in social science than STEM courses (p < .001), with course-level variation exceeding student-level variation — evidence that cognitive engagement with AI is shaped by disciplinary context, not just individual style.
 
-- **AI feedback sustains behavioral activation.** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long lab-in-the-field experiment found that students receiving individual GPT-4 feedback on open-ended tasks sustained the highest participation across eight weekly tasks (~50% by the last, vs ~30% for lecturer- or peer-feedback groups) and wrote ~29 more characters per answer — individual AI feedback activated engagement on both the extensive margin (participation) and the intensive margin (effort per response), even though students rated the peer feedback slightly higher.
+- **[[ai-feedback-quality|AI feedback]] sustains behavioral activation.** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long lab-in-the-field experiment found that students receiving individual GPT-4 feedback on open-ended tasks sustained the highest participation across eight weekly tasks (~50% by the last, vs ~30% for lecturer- or peer-feedback groups) and wrote ~29 more characters per answer — individual AI feedback activated engagement on both the extensive margin (participation) and the intensive margin (effort per response), even though students rated the [[peer-review|peer feedback]] slightly higher.
 
-- **Predicting academic AI use from learning constructs.** An exploratory [[reinforcement-learning|machine learning]] framework analysed survey data from 166 university students to identify learning-related constructs associated with intended academic ChatGPT use, using SHAP analysis to maintain interpretability. Findings inform how engagement, learning support, and other constructs shape students' incorporation of AI tools into academic work.
+- **Predicting academic AI use from learning constructs.** An exploratory [[reinforcement-learning|machine learning]] framework analysed survey data from 166 university students to identify learning-related constructs associated with intended academic ChatGPT use, using SHAP analysis to maintain [[explainable-ai|interpretability]]. Findings inform how engagement, learning support, and other constructs shape students' incorporation of AI tools into academic work.
 
 ### Measuring engagement: the metric-choice problem
 
@@ -6615,7 +6617,7 @@ The choice of metric is definitional: a study that measures engagement as *time-
 
 ### Engagement vs. learning
 
-A central theme in the knowledge base's research is that engagement and learning must be distinguished. AI tools that generate high engagement (time on task, interaction volume) may not produce learning if that engagement is passive or substitutes for the [[cognitive-offloading|cognitive work]] of understanding — see [[genai-performance-vs-learning|performance vs. learning]]. Conversely, productive struggle and [[desirable-difficulties|desirable difficulty]] can produce learning even when surface engagement feels lower. Engagement is therefore best treated as a *mechanism* — valuable insofar as it reflects or enables meaningful cognitive processing — rather than a terminal outcome.
+A central theme in the knowledge base's research is that engagement and learning must be distinguished. AI tools that generate high engagement (time on task, interaction volume) may not produce learning if that engagement is passive or substitutes for the [[cognitive-offloading|cognitive work]] of understanding — see [[genai-performance-vs-learning|performance vs. learning]]. Conversely, productive struggle and [[desirable-difficulties|desirable difficulty]] can produce learning even when surface engagement feels lower. Engagement is therefore best treated as a *mechanism* — valuable insofar as it reflects or enables meaningful [[cognitive-psychology|cognitive processing]] — rather than a terminal outcome.
 
 ### Pedagogy mediates AI's effect on engagement
 
@@ -6628,6 +6630,8 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - **Learner characteristics moderate TTS dialogue-based lessons (2026):** In LLM+TTS-generated teacher–student, student–student, and teacher–teacher dialogue lessons, [[experiential-learning]] style and critical-thinking disposition significantly interacted with dialogue format for ARCS-based motivation, indicating that AI-generated dialogue content is differentially motivating depending on learner profile ([[tts-dialogue-lessons-learner-characteristics-2026]]).
 
 - **Dimension-specific gains at the primary level (2026):** A nine-week GenAI-supported L2 writing program with 301 Grade 5 and 6 students raised behavioural and emotional engagement but left cognitive and metacognitive engagement unchanged, and its authors name reduced self-monitoring during writing as a standing risk ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]). The pattern is a concrete instance of the engagement-versus-learning distinction above: more activity and more enjoyment did not translate into deeper processing.
+
+- **The dissociation can run the other way (2026):** In a 12-week vocational interior-design course, an immersive VR studio with an embedded LLM teaching assistant raised cognitive (d = 0.90) and behavioural (d = 0.75) engagement over traditional [[project-based-learning|project-based]] instruction while affective engagement did not differ significantly (d = 0.38) — the inverse of the L2 writing case above ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). Cognitive and behavioural gains here came with *lower* reported cognitive load, which the authors attribute to the assistant absorbing search and cross-disciplinary integration effort. Read against the writing case, the two studies suggest that which engagement dimension an AI-supported intervention moves is a property of the design — discourse-heavy immersive collaboration versus solo writing support — rather than of AI assistance in general, and that an affective advantage cannot be assumed from high-fidelity or intelligent feedback.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -6703,6 +6707,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
 - [[gpt4-feedback-student-activation-2026]]
 - [[genai-writing-program-primary-l2-motivation-engagement]] — Dimension-specific engagement gains at the primary level (Lu et al. 2026)
+- [[ai-ive-pbl-vocational-design-creativity-2026]] — Cognitive and behavioural engagement up, affective engagement flat, in an immersive VR PBL studio (Jin et al. 2026)
 
 ---
 
@@ -8695,6 +8700,10 @@ The second direction is where AI stops authoring and starts teaching inside the 
 
 Its gaps define the current frontier of the pattern. Evaluation was objective metrics plus a single domain-expert user, not learners; there was no automated [[assessment]] or [[adaptive-learning|adaptive feedback]]; and the assistant cannot exceed the documents it was given, so institution-specific protocols and rare scenarios sit outside its competence. In other words, the tutoring intelligence inside immersive environments is still mostly **guidance**, not measurement — and the same platform architecture, with [[llm|model inference]] offloaded to a local GPU backend, is what makes hands-free guidance fast enough to be usable at all.
 
+The clearest attempt to date at that missing measurement comes from a vocational design studio rather than a clinical setting. In a 12-week interior-design course, a VR environment (headsets plus a 3D modelling tool) with an LLM-backed assistant rendered as a digital human was compared against conventional [[project-based-learning|project-based]] instruction, with the assistant assigned a distinct role per phase — resource recommendation and task decomposition, layered questioning with knowledge maps, simulated design effects and flaw detection, then discourse logging for the teacher ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). Across 63 valid responses the immersive-plus-agent condition produced significantly higher design ability (η²p = .138) and creative ability (η²p = .111), cognitive (d = 0.90) and behavioural (d = 0.75) [[student-engagement|engagement]], and motivation (d = 0.74) and satisfaction (d = 0.69) — with reported [[cognitive-offloading|cognitive load]] *lower*, not higher (d = −0.52), which the authors credit to the assistant cutting search and cross-disciplinary integration effort. Two limits keep this from settling the question: ideational novelty and [[affective-computing|affective]] engagement did not move, and every outcome is [[self-report-measures|self-report]], with no artefact ratings or headset logs.
+
+The contrast with a comparable design-education deployment is instructive. An architectural studio using a [[generative-ai|GenAI]] plus multi-user XR pipeline found *declining* design [[self-efficacy]] confidence for the teams that used it and no advantage in blinded panel ratings. The difference between the two is less the hardware than the orchestration: the vocational study fixed the phase structure, the assistant's role in each phase, and the evaluation rubric before the intervention, and measured productive ability separately from ideational novelty.
+
 ## What the evidence shows
 
 The strongest evidence for VR/AR is comparative and [[discipline-specific-aied|discipline-specific]]. A [[meta-analysis-systematic-review|meta-analysis]] of 33 experimental and quasi-experimental studies (N = 3,181) of emerging [[ai-technologies|technologies]] in teaching [[english-education|English as a foreign language]] found a small-to-moderate overall effect (g = 0.38) and, within it, the **largest effects for VR/AR**, with gains rising by educational level and favouring productive skills (speaking, writing) over receptive ones.
@@ -8745,6 +8754,7 @@ The same logic explains why presence is not automatically good. Motion sickness,
 - [[medgame-llm-medical-education-gamification]] — gamified medical training with AI
 - [[tech-enhanced-tabletop-cybersecurity-education]] — augmented tabletop scenarios in cybersecurity education
 - [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
+- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersive VR design studio with an LLM-backed teaching assistant, evaluated against traditional PBL (Jin et al. 2026)
 
 ---
 
@@ -26537,6 +26547,76 @@ This paper adds an **experiential/epistemological dimension** to the [[ai-litera
 ## Citation
 
 Beau, M., & Lazar, M. (2026). [*From AI intuition to AI literacy: A dual framework for K-12 education*](https://doi.org/10.52358/mm.vi25.576). *EdArXiv preprint*.
+
+---
+
+## [Cultivating Design Creativity of Vocational Students: A Model of Project-Based Learning in AI-Enabled Immersive Virtual Environments](https://edtechdev.github.io/aied/articles/ai-ive-pbl-vocational-design-creativity-2026/)
+
+> **Synthesis:** This study proposes and tests an instructional model — **AI-IVE-PBL** — that combines [[project-based-learning|project-based learning]] with an AI-enabled immersive virtual environment ([[virtual-and-augmented-reality|VR]] headsets, a 3D modelling tool, and an [[llm]]-backed AI teaching assistant rendered as a digital human) in a first-year vocational interior design course. The model is specified as four dimensions (teachers, students, agents, teaching phases) driving a five-phase closed loop — discovery, envisioning, modeling, communication, refinement — with *sustained idea-developing discourse* (SIDD) as the cognitive engine. In a 12-week two-group quasi-experiment (63 valid responses; AI-IVE-PBL n = 31 vs. traditional PBL n = 32), the immersive-plus-agent condition raised design ability (η²p = .138) and creative ability (η²p = .111) under ANCOVA, lifted cognitive (d = 0.90) and behavioural (d = 0.75) [[student-engagement|engagement]], raised [[motivation]] (d = 0.74) and satisfaction (d = 0.69), and *lowered* reported [[cognitive-offloading|cognitive load]] (d = −0.52). Two outcomes moved in the hypothesised direction without reaching significance: innovative thinking and [[affective-computing|affective]] engagement. All outcomes are [[self-report-measures|self-report]].
+
+## Key Findings
+
+1. **A four-dimension, five-phase model rather than a platform.** The authors separate the environment (*AI-IVE*) from the instructional model implemented inside it (*AI-IVE-PBL*), and state explicitly that the experiment evaluates the model's implementation, not the platform in isolation. The model aligns immersive affordances (stereoscopic immersion, [[embodied-learning|embodied]] engagement, intelligent interaction, [[feedback|real-time feedback]]) with PBL's inquiry, [[collaborative-learning|collaboration]] and active participation, organised around teachers, students, agents, and teaching phases.
+2. **The five phases are a design-thinking loop.** Discovery (task definition and motivation activation), envisioning (embodied experience and solution conceptualisation), modeling (immersive exploration and unconstrained creation), communication (project presentation and peer interaction), and refinement (critical reflection and iterative revision) — framed as divergence-to-convergence movement driven by SIDD, and explicitly inspired by the IDEO [[design-thinking]] model and design-based learning.
+3. **Design and creative ability improved; innovative thinking did not.** With pretest design [[creativity]] as covariate, the AI-IVE-PBL group scored significantly higher on design ability (M = 3.98 vs. 3.62; F(1, 60) = 9.630, p = .003, η²p = .138) and creative ability (M = 4.00 vs. 3.73; F(1, 60) = 7.465, p = .008, η²p = .111). The advantage in innovative thinking (M = 4.05 vs. 3.85) was not significant (F(1, 60) = 2.570, p = .114, η²p = .041).
+4. **Engagement gains were cognitive and behavioural, not affective.** Cognitive engagement reached M = 4.66 vs. 4.29 (t(61) = 3.882, p < .001, d = 0.90) and behavioural engagement M = 4.60 vs. 4.22 (t(61) = 3.227, p = .002, d = 0.75); affective engagement showed a positive but non-significant trend (M = 4.58 vs. 4.34; t(61) = 1.662, p = .102, d = 0.38).
+5. **The learning experience improved on all three subscales, including cognitive load — in the favourable direction.** Motivation M = 4.30 vs. 3.84 (t(61) = 3.071, p = .003, d = 0.74), satisfaction M = 4.27 vs. 3.89 (t(61) = 2.900, p = .005, d = 0.69), and cognitive load M = 3.83 vs. 4.66 (t(61) = −2.127, p = .038, d = −0.52). The authors attribute the load reduction to the assistant's semantic analysis and [[knowledge-graph]] recommendations cutting information-retrieval effort, plus conveniences such as a preset furniture library and one-click material switching.
+6. **The AI assistant plays four distinct roles across the cycle.** It recommends resources and decomposes tasks from learning data in discovery; runs layered Bloom-aligned questioning and generates interdisciplinary knowledge maps in envisioning; simulates design effects and flags flaws in modeling; and logs discussion for the [[teacher-role|teacher]] in communication and refinement. The teacher keeps scenario construction, grouping, critique facilitation, and rubric-based evaluation.
+7. **The null results are treated as substantive.** The authors explain the flat innovative-thinking result as a ceiling on short-term change in entrenched cognitive patterns, compounded by a brief self-report subscale with limited response range, and by novice learners defaulting to execution-oriented strategies (imitating reference examples, prioritising task completion). They recommend explicit ideation and [[metacognition|metacognitive]] scaffolding — deliberate divergence–convergence cycles, justification prompts, reflective critique.
+8. **Collaboration quality is not guaranteed by the technology.** In the literature framing the authors concede that social loafing, unequal participation and limited accountability persist in immersive settings, and that [[prior-knowledge]] differences and emerging [[misconceptions]] still constrain shared understanding — so immersive affordances need deliberate process scaffolding, not just fidelity.
+
+## Study Design & Method
+
+A two-group [[quasi-experiment]] over **12 weeks** in the Public Space Interior Design course of a first-year Interior Art Design programme at Fuzhou Software Technology Vocational College, China. Two parallel classes of first-year students were selected on entrance-examination scores and self-reported design-learning experience, then randomly assigned to conditions: control n = 33 (traditional PBL, AutoCAD-based drafting, multimedia references, offline presentations) and experimental n = 31. One instructor taught both groups; two researchers documented delivery. Instruments were administered in Chinese using forward–back translation with a 15-student pilot.
+
+The AI-IVE condition combined PICO 4 VR headsets, SketchUp, and an AI teaching assistant built on iFLYTEK's Xinghuo cognitive large model, presented through a digital human with synthesised facial expressions and voice. The course ran three thematic projects (Aviation Exhibition Hall Design, Memorial Hall Design, Construction Drawing Deepening Design), each split into sub-projects.
+
+Instruments were three 12-item, five-point scales — design creativity (innovative thinking, design ability, creative ability; KMO = .85, 66.53% variance explained), learning engagement (cognitive, behavioural, affective; KMO = .86, 70.42%), and learning experience (motivation, satisfaction, nine-point cognitive load; KMO = .89, 75.05%) — with Cronbach's alphas from .788 to .937. 64 questionnaires were collected and 63 retained (98.44%). ANCOVA tested design-creativity differences with pretest scores as covariate; independent-samples t-tests tested engagement and experience. Data analysts and outcome evaluators were blinded to group labels while analysts and evaluators were not involved in delivery.
+
+## Why the Immersive-Agent Pairing Matters for PBL
+
+The authors' core argument is that [[project-based-learning|PBL]]'s known constraints for vocational learners — limited equipment, difficulty replicating realistic scenarios, delayed teacher scaffolding, weak [[self-regulated-learning|self-regulation]] and lower motivation — are exactly the constraints that a [[generative-ai|generative]] assistant inside a headset can absorb. Immersion supplies the authentic, risk-free context where students manipulate spatial elements and test arrangements; the [[agentic-ai|agent]] supplies [[scaffolding|scaffolding]] that is precise and timely rather than queued behind the teacher's attention, and it does so in the middle of the design act rather than after it. The mechanism they name for the resulting learning is **SIDD** — sustained idea-developing discourse, borrowed from knowledge-building research — which is proposed as the bridge between immersive affordance and measurable creativity.
+
+This places the study close to a broader line in the knowledge base on where AI belongs in design [[pedagogy]]. An exploratory architectural studio study of a [[generative-ai|GenAI]] plus multi-user XR pipeline found, by contrast, *declining* design [[self-efficacy]] confidence for teams using the pipeline, and no advantage in blinded panel ratings ([[genai-xr-architectural-design-education-2026]]) — its authors' explanation was that the two technologies are complementary per phase but carry real interaction costs. The AI-IVE-PBL study is the more favourable counterpart: an orchestrating model with a named assistant role per phase, a teacher who pre-builds the scenario and controls the rubric, and outcome measures that distinguish productive ability from ideational novelty. Read together, they suggest the difference between an XR-and-GenAI win and loss is less about the hardware than about who holds the phase structure and the evaluation criteria.
+
+For [[professional-training|vocational and professional education]], the model's interest lies in its specification as a *teaching workflow* rather than a tool list — the five phases, the responsible actor in each, and the artefact that moves between them are all stated, which is what makes it portable to other design and technical courses and testable in replicating studies.
+
+## Limitations
+
+The study relies exclusively on [[self-report-measures|self-report]] questionnaires, with no performance artefacts, log data, or expert ratings of student designs. The innovative-thinking subscale is brief with a limited response range, which the authors concede may attenuate detectable effects over a 12-week intervention. Measurement was confined to a single course, limiting generalisability, and the design lacks participant and instructor blinding, which the limitations section flags without fully analysing the biases it introduces. Group sizes are small (31 and 32), and the significant results rest on a small number of comparisons with substantial effect sizes, so replication in other courses, institutions and regions is required — alongside longer interventions, mixed-method triangulation, and an explicit treatment of [[ethics|ethical]] issues such as [[privacy|data privacy]], [[bias-mitigation|algorithmic bias]], and dependence on immersive technology.
+
+## Connected Concepts
+
+- [[project-based-learning]]
+- [[virtual-and-augmented-reality]]
+- [[creativity]]
+- [[student-engagement]]
+- [[design-thinking]]
+- [[embodied-learning]]
+- [[simulation]]
+- [[agentic-ai]]
+- [[pedagogical-agent]]
+- [[collaborative-learning]]
+- [[scaffolding]]
+- [[professional-training]]
+- [[self-report-measures]]
+- [[situated-learning]]
+
+## Connected Articles
+
+- [[genai-xr-architectural-design-education-2026]] — GenAI plus multi-user XR in an architectural design studio: the counter-case, with declining design self-efficacy
+- [[ai-interior-design-malaysia-2026]] — AI transforming interior design practice, pedagogy and professional regulation
+- [[genai-architectural-design-studios]] — Development and applications of generative AI in architectural design studios
+- [[multi-site-vr-immersive-learning]] — Real-time multi-site immersive learning system; usability and VR-sickness outcomes
+- [[mixed-reality-engineering-learning]] — Mixed reality and physical toolkits in engineering mechanics: engagement up, complex visualisation still hard
+- [[ai-vocational-education-training-review]] — Systematic review of AI in vocational education and training
+- [[educators-engagement-ai-pbl-review-2026]] — Educators' engagement with AI in project-based learning
+- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art and design education in the AI era
+- [[rana-genai-design-thinking-2025]] — Generative AI in design thinking pedagogy: creativity, critical thinking and ethical reasoning
+
+## Citation
+
+Jin, S., Zhong, Z., Cao, X., & Zhang, W. (2027). [Cultivating design creativity of vocational students: A model of project-based learning in AI-enabled immersive virtual environments](https://doi.org/10.58459/rptel.2027.22029). *Research and Practice in Technology Enhanced Learning, 22*(1), 29.
 
 ---
 
