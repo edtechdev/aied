@@ -1,7 +1,7 @@
 ---
 title: "Designing for Authentic Assessment: A Scoping Review"
 created: "2026-05-07T19:55:03-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning, pedagogical-llm-training, human-in-the-loop-ai, sociocultural-learning]
 research_method: [theoretical analysis, systematic review]

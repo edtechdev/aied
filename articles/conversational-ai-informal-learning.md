@@ -1,7 +1,7 @@
 ---
 title: "Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning"
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, lifelong-learning, llm, student-experience]
 research_method: [survey]

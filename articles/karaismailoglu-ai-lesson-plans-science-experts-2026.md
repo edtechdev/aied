@@ -1,14 +1,14 @@
 ---
 title: "Suitability of Artificial Intelligence Supported Lesson Plans from the Perspective of Science Education Experts"
 created: "2026-09-03T14:30:55-04:00"
-updated: "2026-09-03T14:30:55-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [science-education, curriculum-design, teacher-role, generative-ai, teacher-education, k-12, qualitative-research, stem-education]
 sources: ['raw/papers/karaismailoglu-ai-lesson-plans-science-experts-2026.md']
 confidence: high
 ---
 
-> **Suitability of Artificial Intelligence Supported Lesson Plans from the Perspective of Science Education Experts** — Karaismailoglu, Surmeli, and Yildirim (2026) evaluate the instructional quality of [[generative-ai|AI]]-generated lesson plans for sixth-grade [[science-education|science]] through the expert judgment of eleven Turkish science education specialists, using a qualitative case study with descriptive quantitative elements. Two platforms — a general-purpose model (ChatGPT-4) and an education-focused tool (Teacher's Buddy) — each produced a plan for a "Sustainable Living and Biodiversity" unit aligned to the [[k-12|sixth-grade]] Engineering Design-Based Learning (EDBL) model and four skill domains of Turkey's revised [[curriculum-design|curriculum]]. Experts found both tools support key competencies (conceptual, domain-specific, literacy, and social-emotional skills) but fall short of fully capturing EDBL's iterative, reflective, and process-oriented stages, positioning AI-generated plans as useful drafts that demand pedagogical adaptation and [[teacher-role|teacher judgment]].
+> **Synthesis:** **Suitability of Artificial Intelligence Supported Lesson Plans from the Perspective of Science Education Experts** — Karaismailoglu, Surmeli, and Yildirim (2026) evaluate the instructional quality of [[generative-ai|AI]]-generated lesson plans for sixth-grade [[science-education|science]] through the expert judgment of eleven Turkish science education specialists, using a qualitative case study with descriptive quantitative elements. Two platforms — a general-purpose model (ChatGPT-4) and an education-focused tool (Teacher's Buddy) — each produced a plan for a "Sustainable Living and Biodiversity" unit aligned to the [[k-12|sixth-grade]] Engineering Design-Based Learning (EDBL) model and four skill domains of Turkey's revised [[curriculum-design|curriculum]]. Experts found both tools support key competencies (conceptual, domain-specific, literacy, and social-emotional skills) but fall short of fully capturing EDBL's iterative, reflective, and process-oriented stages, positioning AI-generated plans as useful drafts that demand pedagogical adaptation and [[teacher-role|teacher judgment]].
 
 ## Key Findings
 

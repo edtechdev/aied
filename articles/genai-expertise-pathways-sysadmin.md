@@ -1,7 +1,7 @@
 ---
 title: Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, professional-training, cognitive-offloading, lifelong-learning, human-in-the-loop-ai, human-ai-collaboration, ai-education]
 research_method: [interviews]
@@ -9,8 +9,6 @@ research_method: [interviews]
 sources: ['raw/papers/2607.28650.md']
 confidence: high
 ---
-
-> **Rana Abou Khamis, Hala Assal, Ashraf Matrawy** — arXiv preprint (2026).
 
 > **Synthesis:** Drawing on 14 semi-structured interviews with IT professionals, this study explores how [[generative-ai|GenAI]] integration reshapes professional practice in system [[administrator|administration]] — troubleshooting, scripting, and system verification — extending concerns about [[cognitive-offloading]] and skill decay from classrooms to professional practice.
 

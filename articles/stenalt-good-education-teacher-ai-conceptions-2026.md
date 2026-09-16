@@ -1,7 +1,7 @@
 ---
 title: "Understanding what good education is: a phenomenographic investigation of university teachers' understandings of AI"
 created: "2026-08-25T07:58:00-04:00"
-updated: "2026-08-25T11:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [teacher-role, higher-ed, ai-literacy, curriculum-design, qualitative-research, teacher-ai-competency, pedagogy, learning-theories]
 research_method: [qualitative]
@@ -12,7 +12,7 @@ sources: ['raw/papers/stenalt-good-education-teacher-ai-conceptions-2026.md']
 confidence: high
 ---
 
-> **Understanding what good education is** — a phenomenographic study interviewing 16 teachers in Danish higher education to map how they understand and frame AI in teaching and student learning. It identifies **three qualitatively different ways of understanding the relationship between teaching and AI**, **three ways of understanding the relationship between learning and AI**, and **four approaches to designing for student learning experiences around AI** — highlighting the plurality and messiness of educational practice, and the need to attend to **agency and teachers' labour**.
+> **Synthesis:** **Understanding what good education is** — a phenomenographic study interviewing 16 teachers in Danish higher education to map how they understand and frame AI in teaching and student learning. It identifies **three qualitatively different ways of understanding the relationship between teaching and AI**, **three ways of understanding the relationship between learning and AI**, and **four approaches to designing for student learning experiences around AI** — highlighting the plurality and messiness of educational practice, and the need to attend to **agency and teachers' labour**.
 
 Stenalt (2026) shifts focus from students and tools to **teachers' conceptions** of AI — what teachers believe counts as good education in an AI-integrated context. Rather than prescribing how AI should be used, it surfaces the variation in how educators themselves conceptualize AI's role, which shapes how they design AI into learning experiences.
 

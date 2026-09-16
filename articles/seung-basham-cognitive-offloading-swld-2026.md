@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?"
 created: "2026-08-27T08:50:00-04:00"
-updated: "2026-08-27T08:55:36.300729-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [cognitive-offloading, special-education, inclusive-learning, ai-literacy, self-regulated-learning, metacognition, accessibility, generative-ai]
 audience: [learners, instructors]
@@ -12,7 +12,7 @@ source_url: 'https://doi.org/10.1177/07319487261439132'
 confidence: high
 ---
 
-> **[[generative-ai|GenAI]] has transformed [[cognitive-offloading|cognitive offloading]] from a peripheral study aid into a delegation of higher-order cognitive processes** — with especially consequential implications for students with learning disabilities (SWLDs). Seung and Basham's (2026) conceptual review, in a *Learning Disability Quarterly* special series on AI for students with LD, synthesizes cognitive science, [[special-education|special education]], and educational technology to reframe GenAI use through the cognitive-offloading lens. The central claim: GenAI can function either as a **compensatory aid** or a **shortcut** depending on how offloading decisions interact with SWLDs' cognitive and [[motivation|motivational]] profiles and with [[learning-design|instructional design]]. This is not a question of whether GenAI is inherently good or bad, but an instructional design challenge requiring intentional [[guardrails]].
+> **Synthesis:** **[[generative-ai|GenAI]] has transformed [[cognitive-offloading|cognitive offloading]] from a peripheral study aid into a delegation of higher-order cognitive processes** — with especially consequential implications for students with learning disabilities (SWLDs). Seung and Basham's (2026) conceptual review, in a *Learning Disability Quarterly* special series on AI for students with LD, synthesizes cognitive science, [[special-education|special education]], and educational technology to reframe GenAI use through the cognitive-offloading lens. The central claim: GenAI can function either as a **compensatory aid** or a **shortcut** depending on how offloading decisions interact with SWLDs' cognitive and [[motivation|motivational]] profiles and with [[learning-design|instructional design]]. This is not a question of whether GenAI is inherently good or bad, but an instructional design challenge requiring intentional [[guardrails]].
 
 ## Key Findings
 

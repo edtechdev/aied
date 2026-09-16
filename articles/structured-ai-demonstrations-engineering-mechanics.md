@@ -1,7 +1,7 @@
 ---
 title: "Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, stem-education, higher-ed, student-experience, teacher-role, scaffolding, learning-analytics]
 research_method: [experiment]
@@ -12,10 +12,7 @@ sources: ['raw/papers/2607.28710.md']
 confidence: high
 ---
 
-> **Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, Emma Lejeune** — arXiv preprint (2026).
-## Synthesis
-
-This descriptive study documents student [[llm]] use in an undergraduate engineering mechanics course (Spring 2026), responding to the lack of [[discipline-specific-aied|domain-specific]] empirical evidence for [[pedagogy|pedagogical]] policy in [[engineering-education|engineering education]].
+> **Synthesis:** This descriptive study documents student [[llm]] use in an undergraduate engineering mechanics course (Spring 2026), responding to the lack of [[discipline-specific-aied|domain-specific]] empirical evidence for [[pedagogy|pedagogical]] policy in [[engineering-education|engineering education]].
 
 The authors contribute a reproducible survey instrument capturing student AI usage patterns, attitudes, and verification practices, linked to [[learning-gains|academic performance]] metrics — an open [[research-methods-aied|methodological]] framework for other instructors.
 

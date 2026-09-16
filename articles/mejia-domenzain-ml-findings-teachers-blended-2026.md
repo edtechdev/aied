@@ -1,7 +1,7 @@
 ---
 title: Making machine learning findings accessible to teachers in blended classrooms
 created: "2026-09-03T13:38:51-04:00"
-updated: "2026-09-03T13:38:51-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ['learning-analytics', 'teacher-role', 'trust', 'visualization', 'self-regulated-learning', 'online-teaching-and-learning', 'machine-learning', 'privacy', 'mixed-methods-research', 'higher-ed']
 research_method: [mixed methods]
@@ -10,7 +10,7 @@ sources: ['raw/papers/mejia-domenzain-ml-findings-teachers-blended-2026.md']
 confidence: high
 ---
 
-> **Making [[reinforcement-learning|machine learning]] findings accessible to teachers in blended classrooms.** Using a teacher-centered, mixed-method approach, this study designs, evaluates, and instantiates [[visualization|visualizations]] and a learning analytics dashboard (DashED) that communicate ML-derived [[self-regulated-learning|self-regulated learning]] profiles to teachers in two [[online-teaching-and-learning|blended learning]] contexts — flipped university classrooms and reflective writing in vocational education. A 100-teacher study examined how visualization literacy shapes interpretation and which visual designs teachers find clear, appealing, and actionable, while interviews with 19 teachers probed concerns, [[trust]], and adoption. Findings reveal that teachers prefer simple, familiar charts (bar plots, pie charts) yet derive richer insights from more complex designs, and that teachers' visualization preferences, concerns, and intended uses differ markedly across learning contexts.
+> **Synthesis:** **Making [[reinforcement-learning|machine learning]] findings accessible to teachers in blended classrooms.** Using a teacher-centered, mixed-method approach, this study designs, evaluates, and instantiates [[visualization|visualizations]] and a learning analytics dashboard (DashED) that communicate ML-derived [[self-regulated-learning|self-regulated learning]] profiles to teachers in two [[online-teaching-and-learning|blended learning]] contexts — flipped university classrooms and reflective writing in vocational education. A 100-teacher study examined how visualization literacy shapes interpretation and which visual designs teachers find clear, appealing, and actionable, while interviews with 19 teachers probed concerns, [[trust]], and adoption. Findings reveal that teachers prefer simple, familiar charts (bar plots, pie charts) yet derive richer insights from more complex designs, and that teachers' visualization preferences, concerns, and intended uses differ markedly across learning contexts.
 
 ## Key Findings
 

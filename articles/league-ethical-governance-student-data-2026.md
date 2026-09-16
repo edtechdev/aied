@@ -1,7 +1,7 @@
 ---
 title: "Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics"
 created: "2026-08-05T04:33:04-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [learning-analytics, privacy, equity-in-ai-education, ethics, regulation, higher-ed, change-management]
 connected_faqs: [institutional-ai-policy]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2608.03968.md']
 confidence: high
 ---
 
-> **Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics** — Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, [[educational-policy-ai|educational policy]], v... [[learning-analytics]] [[privacy]] [[equity-in-ai-education]] [[ethics]] [[regulation]] [[higher-ed]]
+> **Synthesis:** **Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics** — Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, [[educational-policy-ai|educational policy]], v... [[learning-analytics]] [[privacy]] [[equity-in-ai-education]] [[ethics]] [[regulation]] [[higher-ed]]
 
 Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, educational policy, value-sensitive design, and capability-oriented approaches to educational justice. Demonstrates practical value through an illustrative early-alert case study showing how institutions can review LA practices in a more transparent and educationally meaningful way.
 

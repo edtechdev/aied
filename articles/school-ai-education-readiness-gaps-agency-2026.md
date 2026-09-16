@@ -1,7 +1,7 @@
 ---
 title: "Does School-Based AI Education Narrow Readiness Gaps?"
 created: "2026-08-30T03:27:22-04:00"
-updated: "2026-08-30T03:27:22-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [equity-in-ai-education, ai-education, ai-literacy, agency, k-12, digital-divide, motivation]
 research_method: [longitudinal study]
@@ -12,7 +12,7 @@ sources: ['raw/papers/school-ai-education-readiness-gaps-agency-2026.md']
 confidence: high
 ---
 
-> Liang, Yau, Meng, Chiu, King, Yam & Chai (2026) followed 752 Hong Kong junior-secondary students across a year of school-based [[ai-education|AI instruction]] and found that structured curricula **narrowed psychological AI-readiness gaps (confidence, motivation, [[ethics|ethical]] awareness) but not cognitive ones** — objective [[ai-literacy|AI-literacy]] gaps between high-agency learners and their peers persisted. Guided by [[agency|Social Cognitive Theory]], prior **self-initiated AI learning** predicted who benefited most, so school AI education acts as a psychological catalyst but not a full cognitive equalizer.
+> **Synthesis:** Liang, Yau, Meng, Chiu, King, Yam & Chai (2026) followed 752 Hong Kong junior-secondary students across a year of school-based [[ai-education|AI instruction]] and found that structured curricula **narrowed psychological AI-readiness gaps (confidence, motivation, [[ethics|ethical]] awareness) but not cognitive ones** — objective [[ai-literacy|AI-literacy]] gaps between high-agency learners and their peers persisted. Guided by [[agency|Social Cognitive Theory]], prior **self-initiated AI learning** predicted who benefited most, so school AI education acts as a psychological catalyst but not a full cognitive equalizer.
 
 ## The study
 

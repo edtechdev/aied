@@ -1,7 +1,7 @@
 ---
 title: Why AI Detection Fails for Academic Integrity
 created: "2026-09-08T01:59:05-04:00"
-updated: "2026-09-08T01:59:05-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-detection, academic-integrity, equity-in-ai-education, language-learning, writing-education, assessment, generative-ai, llm, higher-ed, educational-policy-ai]
 sources: ['raw/papers/2608.11256.md']
@@ -13,7 +13,7 @@ category: [assessment]
 confidence: high
 ---
 
-In a controlled study of 642 published English abstracts across four domains and two time periods (2013–15 vs. 2023–25), two commercial AI detectors at τ=0.50 flagged guideline-compliant light AI editing at 38–80%, flagged unmodified 2023–25 originals at 9–15% (non-STEM far above STEM, p<0.001), and after Undetectable AI humanization caught fewer than 4% of AI-labeled rewrites (FNR >96%). Detector scores therefore punished honest AI-assistance while enabling humanizer-assisted evasion — an "integrity catch-22" the authors argue should bar detector scores from serving as standalone misconduct evidence.
+> **Synthesis:** In a controlled study of 642 published English abstracts across four domains and two time periods (2013–15 vs. 2023–25), two commercial AI detectors at τ=0.50 flagged guideline-compliant light AI editing at 38–80%, flagged unmodified 2023–25 originals at 9–15% (non-STEM far above STEM, p<0.001), and after Undetectable AI humanization caught fewer than 4% of AI-labeled rewrites (FNR >96%). Detector scores therefore punished honest AI-assistance while enabling humanizer-assisted evasion — an "integrity catch-22" the authors argue should bar detector scores from serving as standalone misconduct evidence.
 
 **Relevance to [[ai-education|AI in Education]]:** This study supplies controlled, quantitative evidence for the conceptual critiques already in this knowledge base — [[bassett-ai-detectors-education-2026|Bassett et al.'s]] argument that detectors are unworkable, and the [[ai-detection|detection-reliability]] concerns running across [[academic-integrity]] research. It uniquely quantifies the field-bias and humanizer-evasion problem, reinforcing the shift toward [[authentic-assessment|assessment redesign]] over surveillance.
 

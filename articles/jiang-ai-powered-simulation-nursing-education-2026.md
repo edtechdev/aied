@@ -1,14 +1,14 @@
 ---
 title: "AI-Powered Simulation for Nursing Education: Mixed Methods Systematic Review"
 created: "2026-09-05T12:30:00-04:00"
-updated: "2026-09-05T12:30:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [medical-education, simulation, generative-ai, llm, self-efficacy, student-experience, meta-analysis-systematic-review]
 sources: ['raw/papers/jiang-ai-powered-simulation-nursing-education-2026.md']
 confidence: high
 ---
 
-> **AI-Powered Simulation for Nursing Education: [[mixed-methods-research|Mixed Methods]] [[meta-analysis-systematic-review|Systematic Review]]** — A PRISMA-guided mixed-methods systematic review by Jiang et al. (2026) synthesizing 19 studies (N = 1,253, mostly prelicensure nursing students) on AI-powered [[simulation|simulations]] in nursing education. Evidence from the three [[rct|RCTs]] and controlled quasi-experimental studies shows significant gains in cognitive knowledge and [[affective-computing|affective]] outcomes ([[self-efficacy]], communication confidence), but inconsistent effects on complex psychomotor skills — one RCT even found AI-assisted simulation *inferior* to standardized-patient simulation. [[qualitative-research|Qualitative]] meta-aggregation reveals learners value safe, repeatable, nonjudgmental practice that bridges the theory–practice gap, while persistent "authenticity gap" frustrations (robotic dialogue, missing nonverbal cues, technical instability) mean AI should be a **complement to — not a replacement for** — traditional simulation and [[medical-education|clinical]] placement.
+> **Synthesis:** **AI-Powered Simulation for Nursing Education: [[mixed-methods-research|Mixed Methods]] [[meta-analysis-systematic-review|Systematic Review]]** — A PRISMA-guided mixed-methods systematic review by Jiang et al. (2026) synthesizing 19 studies (N = 1,253, mostly prelicensure nursing students) on AI-powered [[simulation|simulations]] in nursing education. Evidence from the three [[rct|RCTs]] and controlled quasi-experimental studies shows significant gains in cognitive knowledge and [[affective-computing|affective]] outcomes ([[self-efficacy]], communication confidence), but inconsistent effects on complex psychomotor skills — one RCT even found AI-assisted simulation *inferior* to standardized-patient simulation. [[qualitative-research|Qualitative]] meta-aggregation reveals learners value safe, repeatable, nonjudgmental practice that bridges the theory–practice gap, while persistent "authenticity gap" frustrations (robotic dialogue, missing nonverbal cues, technical instability) mean AI should be a **complement to — not a replacement for** — traditional simulation and [[medical-education|clinical]] placement.
 
 ## Key Findings
 

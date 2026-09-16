@@ -1,14 +1,14 @@
 ---
 title: "Knowing Its Name, Not Its Nature: Word Association Mapping of Student AI Cognition and Evidence-Based Micro-Credential Design in Turkish Higher Education"
 created: "2026-09-06T08:10:00-04:00"
-updated: "2026-09-06T08:10:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-literacy, higher-ed, generative-ai, ethics, governance, curriculum-design, assessment, metacognition, student-experience]
 sources: ['raw/papers/10.1186_s41239-026-00621-w.md']
 confidence: high
 ---
 
-İsmail Şan and Hakan Orhan Karsak (2026) used the psycholinguistic Word Association Test (WAT) to map the cognitive representations of AI held by 436 Turkish university undergraduates, producing a needs assessment for designing [[ai-literacy]] [[higher-ed|micro-credential]] programmes grounded in learners' actual knowledge structures. Across a seven-stage analytical protocol (1376 coded responses, inter-rater reliability κ=0.87), the authors found students' associative networks were dominated by utilitarian concepts — convenience, speed, and technology — while algorithmic transparency, ethical governance, and technical mechanisms were structurally absent. [[network-analysis|Network analysis]] revealed strong polarisation between a positive-utility cluster and a negative-risk cluster (τ=−0.819), indicating a pervasive "black-box" orientation toward AI. The findings ground an Ethical AI and Workforce Readiness micro-credential framework that deliberately bridges students' experiential, instrumental knowledge of AI and the [[ethics|ethical]] and [[governance]] frameworks needed for responsible use.
+> **Synthesis:** İsmail Şan and Hakan Orhan Karsak (2026) used the psycholinguistic Word Association Test (WAT) to map the cognitive representations of AI held by 436 Turkish university undergraduates, producing a needs assessment for designing [[ai-literacy]] [[higher-ed|micro-credential]] programmes grounded in learners' actual knowledge structures. Across a seven-stage analytical protocol (1376 coded responses, inter-rater reliability κ=0.87), the authors found students' associative networks were dominated by utilitarian concepts — convenience, speed, and technology — while algorithmic transparency, ethical governance, and technical mechanisms were structurally absent. [[network-analysis|Network analysis]] revealed strong polarisation between a positive-utility cluster and a negative-risk cluster (τ=−0.819), indicating a pervasive "black-box" orientation toward AI. The findings ground an Ethical AI and Workforce Readiness micro-credential framework that deliberately bridges students' experiential, instrumental knowledge of AI and the [[ethics|ethical]] and [[governance]] frameworks needed for responsible use.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "AI-interaction literacy: reflections on how generative AI might be used to support self-regulated learning in higher education"
 created: "2026-09-11T06:10:00-04:00"
-updated: "2026-09-11T06:17:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-literacy, self-regulated-learning, metacognition, generative-ai, assessment, assessment-validity, feedback-literacy, higher-ed, student-ai-interaction, equity-in-ai-education, prompt-engineering]
 research_method: [theoretical analysis, qualitative]
@@ -12,7 +12,7 @@ sources: ['raw/papers/brunnstrom-ai-interaction-literacy-srl-2026.md']
 confidence: high
 ---
 
-> **AI-interaction literacy** — Brunnström and Palmqvist (2026) run an eight-round demonstration in which they take the role of a naive student using a [[generative-ai|GenAI]] [[conversational-ai|chatbot]] on a take-home examination question ("Do machines think?"), then analyse the *interaction itself* with the SOLO taxonomy rather than grading the AI's answer. The default output stayed at the [[quantitative-research|quantitative]], multistructural phase — "polished but pedagogically thin" text that a novice could submit without understanding — and reaching the [[qualitative-research|qualitative]] phase required repeated meta-level interventions from the learner ("simplify", "this is overwhelming, can you condense it?"). Their central claim: productive GenAI use demanded *the very [[self-regulated-learning|self-regulatory skills]] the tool was expected to support*, so the interaction itself became an object of [[regulation]]. The paper names this capacity **AI-interaction literacy** — the ability to steer, evaluate, and learn from iterative interaction with GenAI — and proposes that [[assessment|take-home assessments]] emphasise the qualitative phase while recall-based knowledge moves to in-class formats.
+> **Synthesis:** **AI-interaction literacy** — Brunnström and Palmqvist (2026) run an eight-round demonstration in which they take the role of a naive student using a [[generative-ai|GenAI]] [[conversational-ai|chatbot]] on a take-home examination question ("Do machines think?"), then analyse the *interaction itself* with the SOLO taxonomy rather than grading the AI's answer. The default output stayed at the [[quantitative-research|quantitative]], multistructural phase — "polished but pedagogically thin" text that a novice could submit without understanding — and reaching the [[qualitative-research|qualitative]] phase required repeated meta-level interventions from the learner ("simplify", "this is overwhelming, can you condense it?"). Their central claim: productive GenAI use demanded *the very [[self-regulated-learning|self-regulatory skills]] the tool was expected to support*, so the interaction itself became an object of [[regulation]]. The paper names this capacity **AI-interaction literacy** — the ability to steer, evaluate, and learn from iterative interaction with GenAI — and proposes that [[assessment|take-home assessments]] emphasise the qualitative phase while recall-based knowledge moves to in-class formats.
 
 ## Overview
 

@@ -1,14 +1,14 @@
 ---
 title: "Innovative assessment and grading practices in higher education: A critical exploration for management educators"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [assessment, authentic-assessment, formative-assessment, summative-assessment, higher-ed, business-education, mastery-learning, academic-integrity, feedback]
 sources: ['raw/papers/mesny-innovative-assessment-grading-management-2026.md']
 confidence: high
 ---
 
-> **Innovative assessment and grading practices in higher education: A critical exploration for management educators** — The paper argues that [[assessment]] and grading are among the most influential factors shaping learning in [[higher-ed]], yet traditional, [[summative-assessment|summative]]-heavy and norm-referenced approaches undermine deep learning, well-being, equity, and academic integrity in the [[generative-ai|generative AI]] era. Synthesizing the wider higher-education literature, it identifies five innovative practices aligned with the "assessment for learning" ([[formative-assessment]]) paradigm — [[authentic-assessment|authentic assessment]], self- and peer-assessment, reassessment, [[mastery-learning|standards-based grading]], and ungrading — and reviews their uptake across 58 articles from four leading management education journals. It finds self- and peer-assessment dominate that discourse while the other practices remain marginal, and urges [[business-education|management educators]] to engage more actively and reciprocally with assessment and grading innovation.
+> **Synthesis:** **Innovative assessment and grading practices in higher education: A critical exploration for management educators** — The paper argues that [[assessment]] and grading are among the most influential factors shaping learning in [[higher-ed]], yet traditional, [[summative-assessment|summative]]-heavy and norm-referenced approaches undermine deep learning, well-being, equity, and academic integrity in the [[generative-ai|generative AI]] era. Synthesizing the wider higher-education literature, it identifies five innovative practices aligned with the "assessment for learning" ([[formative-assessment]]) paradigm — [[authentic-assessment|authentic assessment]], self- and peer-assessment, reassessment, [[mastery-learning|standards-based grading]], and ungrading — and reviews their uptake across 58 articles from four leading management education journals. It finds self- and peer-assessment dominate that discourse while the other practices remain marginal, and urges [[business-education|management educators]] to engage more actively and reciprocally with assessment and grading innovation.
 
 ## Key Findings
 

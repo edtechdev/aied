@@ -1,7 +1,7 @@
 ---
 title: "AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [cognitive-offloading, critical-thinking, ai-literacy, digital-divide, higher-ed, student-experience, trust]
 connected_faqs: [reducing-over-reliance]
@@ -12,9 +12,7 @@ sources: ['raw/papers/gerlich-ai-tools-cognitive-offloading-critical-thinking.md
 confidence: medium
 ---
 
-## Summary
-
-Gerlich (2025) investigates whether frequent use of AI tools erodes [[critical-thinking|critical thinking]], using [[cognitive-offloading|cognitive offloading]] as the proposed mediating mechanism. Using a mixed-method design with 666 valid UK participants (convenience + purposive sampling across age groups, educational backgrounds, and occupations) plus 50 semi-structured interviews, the study combined a 23-item questionnaire (drawing on the Halpern Critical Thinking Assessment and Terenzini's self-reported measures) with thematic analysis. Both [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] analyses converge on a central finding: heavier AI tool usage is associated with lower critical thinking, and cognitive offloading — delegating memory, decision-making, and information retrieval to external systems — significantly mediates this negative relationship. The results were robust across ANOVA, correlation, multiple regression, and random forest regression, and were corroborated by interview themes of AI Dependence, Cognitive [[student-engagement|Engagement]], and [[ethics|Ethical]] Concerns.
+> **Synthesis:** Gerlich (2025) investigates whether frequent use of AI tools erodes [[critical-thinking|critical thinking]], using [[cognitive-offloading|cognitive offloading]] as the proposed mediating mechanism. Using a mixed-method design with 666 valid UK participants (convenience + purposive sampling across age groups, educational backgrounds, and occupations) plus 50 semi-structured interviews, the study combined a 23-item questionnaire (drawing on the Halpern Critical Thinking Assessment and Terenzini's self-reported measures) with thematic analysis. Both [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] analyses converge on a central finding: heavier AI tool usage is associated with lower critical thinking, and cognitive offloading — delegating memory, decision-making, and information retrieval to external systems — significantly mediates this negative relationship. The results were robust across ANOVA, correlation, multiple regression, and random forest regression, and were corroborated by interview themes of AI Dependence, Cognitive [[student-engagement|Engagement]], and [[ethics|Ethical]] Concerns.
 
 ## Key Findings
 

@@ -1,16 +1,14 @@
 ---
 title: "Creating an AI-Powered Platform for Generating Modelling Problems"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/ai-modelling-problem-generation-platform-2026.md"]
 tags: ["math-education", "generative-ai", "learning-design", "curriculum-design", "intelligent-tutoring"]
 confidence: medium
 ---
 
-## Overview
-
-This study reports the design, development, and evaluation of an AI-powered platform that generates mathematical modelling problems and accompanying [[pedagogy|pedagogical]] recommendations for secondary school mathematics. The work addresses two practical gaps: teachers' shortage of suitable modelling resources and the tendency of existing [[generative-ai]] tools to produce conventional word problems or routine exercises rather than application-oriented tasks that build modelling competencies. The platform is grounded in the ADDIE (Analysis, Design, Development, Implementation, Evaluation) instructional-design model and combines seven established design principles for mathematical modelling instruction with [[rag|retrieval-augmented generation]] over expert-crafted exemplar tasks. The topic of direct variation served as an accessible case for an in-depth mixed-methods case study ([[mixed-methods-research]]).
+> **Synthesis:** This study reports the design, development, and evaluation of an AI-powered platform that generates mathematical modelling problems and accompanying [[pedagogy|pedagogical]] recommendations for secondary school mathematics. The work addresses two practical gaps: teachers' shortage of suitable modelling resources and the tendency of existing [[generative-ai]] tools to produce conventional word problems or routine exercises rather than application-oriented tasks that build modelling competencies. The platform is grounded in the ADDIE (Analysis, Design, Development, Implementation, Evaluation) instructional-design model and combines seven established design principles for mathematical modelling instruction with [[rag|retrieval-augmented generation]] over expert-crafted exemplar tasks. The topic of direct variation served as an accessible case for an in-depth mixed-methods case study ([[mixed-methods-research]]).
 
 The platform gives teachers a unified workspace: a central panel to specify generation requests (question type, free-text theme, and output language such as English, Chinese, or [[multilingual-learning|bilingual]]), a history panel for reusing prior resources, and an embedded conversational assistant with "chat" and "generate" modes. Text generation uses GPT-4.1 for curriculum-aligned problems and teacher guides, while DALL-E 3 produces contextually appropriate illustrations. A focal teaching intervention with 49 secondary students (Grades 10–12, Hong Kong) and an evaluation study with 36 in-service teachers generated both [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] evidence. The authors frame the platform as a human–AI co-design partner that reduces teachers' preparation workload while still requiring professional judgement to refine cognitive demand and classroom use of AI-generated content.
 

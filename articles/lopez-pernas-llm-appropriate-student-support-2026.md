@@ -1,7 +1,7 @@
 ---
 title: "Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation"
 created: "2026-08-27T04:34:11-04:00"
-updated: "2026-08-27T04:45:04.088676-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [learning-analytics, llm, equity-in-ai-education, human-in-the-loop-ai, ai-feedback-quality, higher-ed]
 audience: [software developers]
@@ -11,7 +11,7 @@ sources: ['raw/papers/lopez-pernas-llm-appropriate-student-support-2026.md']
 confidence: high
 ---
 
-> **López-Pernas et al. (2026)** generated 4,500 [[simulating-students|synthetic student]] vignettes with three LLMs (GPT-5-mini, Mistral-Medium-2508, Qwen-Plus) to test whether current large language models can act as *prescriptive* [[learning-analytics]] tools — adaptively recommending the level, duration, and type of academic support matched to student need. They find that LLMs show **limited sensitivity** to LA indicators of student need and **considerable inconsistency across models**, concluding that current LLMs are not yet reliable as prescriptive models for student support at scale.
+> **Synthesis:** **López-Pernas et al. (2026)** generated 4,500 [[simulating-students|synthetic student]] vignettes with three LLMs (GPT-5-mini, Mistral-Medium-2508, Qwen-Plus) to test whether current large language models can act as *prescriptive* [[learning-analytics]] tools — adaptively recommending the level, duration, and type of academic support matched to student need. They find that LLMs show **limited sensitivity** to LA indicators of student need and **considerable inconsistency across models**, concluding that current LLMs are not yet reliable as prescriptive models for student support at scale.
 
 ## Key Findings
 

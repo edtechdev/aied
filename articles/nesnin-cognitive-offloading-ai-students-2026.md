@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Offloading in the Age of AI: Are Students Thinking Less or Learning Differently?"
 created: "2026-08-27T08:55:00-04:00"
-updated: "2026-08-27T08:55:36.300729-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [cognitive-offloading, critical-thinking, generative-ai, student-experience, ai-literacy, self-regulated-learning]
 research_method: [literature review, theoretical analysis]
@@ -11,7 +11,7 @@ source_url: 'https://doi.org/10.64823/ijter.2621031'
 confidence: medium
 ---
 
-> **AI is not necessarily making students think less — it is transforming the way they learn.** Nesnin et al.'s (2026) analytical review of recent [[research-methods-aied|research]] weighs the two dominant perspectives on AI-assisted learning and [[cognitive-offloading]]: AI as a supportive [[pedagogical-agent|learning companion]] that enhances personalization, [[accessibility]], and efficiency versus AI as a driver of excessive dependence that weakens deep learning, independent reasoning, and long-term memory retention. The conclusion is conditional: AI's educational impact depends on *how* it is used — whether it supports cognitive [[student-engagement|engagement]] or replaces independent thinking.
+> **Synthesis:** **AI is not necessarily making students think less — it is transforming the way they learn.** Nesnin et al.'s (2026) analytical review of recent [[research-methods-aied|research]] weighs the two dominant perspectives on AI-assisted learning and [[cognitive-offloading]]: AI as a supportive [[pedagogical-agent|learning companion]] that enhances personalization, [[accessibility]], and efficiency versus AI as a driver of excessive dependence that weakens deep learning, independent reasoning, and long-term memory retention. The conclusion is conditional: AI's educational impact depends on *how* it is used — whether it supports cognitive [[student-engagement|engagement]] or replaces independent thinking.
 
 ## Key Findings
 

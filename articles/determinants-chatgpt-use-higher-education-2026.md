@@ -1,16 +1,14 @@
 ---
 title: "An Exploratory Machine Learning Approach to Understanding Determinants of Future ChatGPT Use in Higher Education"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/determinants-chatgpt-use-higher-education-2026.md"]
 tags: ["higher-ed", "learning-analytics", "student-engagement", "technology-acceptance-model", "educational-measurement"]
 confidence: medium
 ---
 
-## Overview
-
-This study uses an exploratory machine learning (ML) framework to identify which educational, perceptual, and demographic factors are associated with university students' intended future use of ChatGPT for academic work. Survey data were collected from 166 students (final analytical sample of 111 after conservative outlier removal), and the analysis deliberately prioritizes educational interpretation over raw algorithmic performance. The authors position their contribution not in new algorithms but in a pedagogically grounded operationalization of established adoption theories.
+> **Synthesis:** This study uses an exploratory machine learning (ML) framework to identify which educational, perceptual, and demographic factors are associated with university students' intended future use of ChatGPT for academic work. Survey data were collected from 166 students (final analytical sample of 111 after conservative outlier removal), and the analysis deliberately prioritizes educational interpretation over raw algorithmic performance. The authors position their contribution not in new algorithms but in a pedagogically grounded operationalization of established adoption theories.
 
 The work integrates four complementary theoretical lenses: the Technology–Organization–Environment (TOE) framework as the primary contextual structure; the Technology Acceptance Model (TAM) and the Unified Theory of Acceptance and Use of Technology (UTAUT) to operationalize individual perception constructs such as perceived usefulness, ease of use, and facilitating conditions; and Self-Determination Theory (SDT) with connectivist principles to interpret learner [[motivation]], engagement, and networked knowledge practices. Survey items were specified a priori and mapped to these theories before analysis.
 

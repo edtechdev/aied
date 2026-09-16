@@ -1,7 +1,7 @@
 ---
 title: "Learner Agency Across Scales: An Integrative Perspective on Self-Regulated Learning in Algorithmically Mediated Environments"
 created: "2026-08-27T06:30:00-04:00"
-updated: "2026-08-27T06:30:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [self-regulated-learning, agency, learning-analytics, critical-pedagogy, theory-development-aied, generative-ai]
 research_method: [theoretical analysis]
@@ -10,7 +10,7 @@ source_url: 'https://doi.org/10.20851/ll.v7.75'
 confidence: high
 ---
 
-> **[[agency|Learner agency]] across scales** — a theoretical/integrative paper proposing an account of learner agency that extends [[self-regulated-learning|SRL]] beyond task-focused [[regulation]] by connecting it with complex systems science and Freirean [[critical-pedagogy|critical pedagogy]]. It foregrounds three dimensions of learner agency — **regulation, integration, and positioning** — and a cross-scale [[scaffolding|scaffold]] supporting learners to move between them in algorithmically mediated environments.
+> **Synthesis:** **[[agency|Learner agency]] across scales** — a theoretical/integrative paper proposing an account of learner agency that extends [[self-regulated-learning|SRL]] beyond task-focused [[regulation]] by connecting it with complex systems science and Freirean [[critical-pedagogy|critical pedagogy]]. It foregrounds three dimensions of learner agency — **regulation, integration, and positioning** — and a cross-scale [[scaffolding|scaffold]] supporting learners to move between them in algorithmically mediated environments.
 
 ## Key Findings
 

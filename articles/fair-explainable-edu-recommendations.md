@@ -1,7 +1,7 @@
 ---
 title: Fair and explainable educational recommendations with a hybrid Graph-GRU framework
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-education, bias-mitigation, learning-analytics, personalized-learning]
 audience: [software developers]

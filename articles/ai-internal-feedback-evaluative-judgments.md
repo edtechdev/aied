@@ -1,7 +1,7 @@
 ---
 title: "Unravelling undergraduates' development of evaluative judgments through AI-supported internal feedback"
 created: "2026-08-11T06:10:03-04:00"
-updated: "2026-08-11"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, feedback, higher-ed, writing-education, self-regulated-learning, assessment, scaffolding]
 research_method: [qualitative]

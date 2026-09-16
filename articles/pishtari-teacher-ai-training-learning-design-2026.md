@@ -1,7 +1,7 @@
 ---
 title: "When Teachers Use AI Chatbots and Are Trained for It: Impact on Learning Design Quality and Cognitive Effort"
 created: "2026-09-08T02:38:58-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [learning-design, teacher-role, teacher-education, educational-development, higher-ed, generative-ai, prompt-engineering]
 connected_faqs: [faculty-development-ai]
@@ -13,7 +13,7 @@ category: [instructional design]
 confidence: high
 ---
 
-In a within-subjects study, 13 higher-education teachers designed learning activities across three conditions — no AI, with a chatbot, and with a chatbot after receiving training on pedagogically grounded AI-interaction strategies. AI access significantly improved design quality (most clearly by raising attainment of higher-order Bloom's tasks) and lowered perceived cognitive effort; the training did not further improve design quality but slightly increased cognitive effort, likely reflecting deliberate application of newly learned strategies. Teachers rated the training as useful and reported strong adoption intentions.
+> **Synthesis:** In a within-subjects study, 13 higher-education teachers designed learning activities across three conditions — no AI, with a chatbot, and with a chatbot after receiving training on pedagogically grounded AI-interaction strategies. AI access significantly improved design quality (most clearly by raising attainment of higher-order Bloom's tasks) and lowered perceived cognitive effort; the training did not further improve design quality but slightly increased cognitive effort, likely reflecting deliberate application of newly learned strategies. Teachers rated the training as useful and reported strong adoption intentions.
 
 **Relevance to [[ai-education|AI in Education]]:** This study empirically examines whether and how AI support and guidance shift teachers' [[learning-design]] quality and the cognitive effort behind it, operationalizing a teacher-AI [[human-ai-collaboration|complementarity]] question. It speaks to [[teacher-role]] and teacher training ([[teacher-education]]), [[prompt-engineering|prompting]], and the risk of [[cognitive-offloading]] as teachers offload pedagogical decisions to chatbots.
 

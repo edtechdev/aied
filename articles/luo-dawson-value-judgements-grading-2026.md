@@ -1,7 +1,7 @@
 ---
 title: "Exploring value judgements in grading: will teachers mark down student work assisted by GenAI, and should they?"
 created: "2026-09-03T12:45:00-04:00"
-updated: "2026-09-03T12:45:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ['assessment', 'assessment-validity', 'academic-integrity', 'teacher-role', 'higher-ed', 'generative-ai', 'trust']
 research_method: [qualitative, interviews]
@@ -11,7 +11,7 @@ sources: ['raw/papers/luo-dawson-value-judgements-grading-2026.md']
 confidence: high
 ---
 
-> **Exploring value judgements in grading** — a [[qualitative-research|qualitative]] scenario-based interview study of 33 university teachers in the Greater Bay Area of China ([[higher-ed|higher education]], junior/teaching-track roles across [[humanities-education|humanities]], social, applied, and natural sciences) investigating how they grade student work that may have been assisted by [[generative-ai|GenAI]]. The authors find that teachers make value judgements that extend beyond the assignment itself to encompass conjecture about *who the student is* (person-oriented values: honesty, diligence), *what they are capable of* (capability-oriented values: independence, GenAI skill, disciplinary mastery), *how they relate to others* (relation-oriented values: trust), and *whether the grading decision leads to good outcomes* (justice-oriented values: [[bias-mitigation|fairness]], beneficence). They foreground [[assessment-validity|validity]] as a pathway forward and call for greater transparency about how students' GenAI use will be factored into grading decisions, moving beyond the binary "is it cheating?" debate toward the subjectivities of grading in the age of GenAI.
+> **Synthesis:** **Exploring value judgements in grading** — a [[qualitative-research|qualitative]] scenario-based interview study of 33 university teachers in the Greater Bay Area of China ([[higher-ed|higher education]], junior/teaching-track roles across [[humanities-education|humanities]], social, applied, and natural sciences) investigating how they grade student work that may have been assisted by [[generative-ai|GenAI]]. The authors find that teachers make value judgements that extend beyond the assignment itself to encompass conjecture about *who the student is* (person-oriented values: honesty, diligence), *what they are capable of* (capability-oriented values: independence, GenAI skill, disciplinary mastery), *how they relate to others* (relation-oriented values: trust), and *whether the grading decision leads to good outcomes* (justice-oriented values: [[bias-mitigation|fairness]], beneficence). They foreground [[assessment-validity|validity]] as a pathway forward and call for greater transparency about how students' GenAI use will be factored into grading decisions, moving beyond the binary "is it cheating?" debate toward the subjectivities of grading in the age of GenAI.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills"
 created: "2026-08-05T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [privacy, agentic-ai, student-ai-interaction, bias-mitigation, personalized-learning, benchmark, rag]
 audience: [software developers]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2608.03700.md']
 confidence: high
 ---
 
-> **When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills** — Introduces AntiSkillBench with 7,500 persona-grounded dialogue traces from 50 behaviorally rich profiles. Evaluates skill-level privacy leakage, agent-level attribute disclosure, and behavioral impersonation across three skill-distillation strategies... [[privacy]] [[agentic-ai]] [[student-experience]] [[bias-mitigation]] [[personalized-learning]] [[benchmark]]
+> **Synthesis:** **When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills** — Introduces AntiSkillBench with 7,500 persona-grounded dialogue traces from 50 behaviorally rich profiles. Evaluates skill-level privacy leakage, agent-level attribute disclosure, and behavioral impersonation across three skill-distillation strategies... [[privacy]] [[agentic-ai]] [[student-experience]] [[bias-mitigation]] [[personalized-learning]] [[benchmark]]
 
 Introduces AntiSkillBench with 7,500 persona-grounded dialogue traces from 50 behaviorally rich profiles. Evaluates skill-level privacy leakage, agent-level attribute disclosure, and behavioral impersonation across three skill-distillation strategies. Experiments across three frontier agents show persona-skill risks persist across agent backbones and distillation protocols, extending from explicit attributes to communication styles and personality traits. Existing defenses exhibit limited and distillation-dependent effectiveness, failing to generalize across risk and distillation strategies.
 

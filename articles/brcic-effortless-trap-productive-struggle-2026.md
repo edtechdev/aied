@@ -1,7 +1,7 @@
 ---
 title: "The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning"
 created: "2026-08-15T15:53:50-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [desirable-difficulties, cognitive-offloading, self-regulated-learning, scaffolding, reducing-ai-misuse, k-12, learning-gains]
 connected_faqs: [reducing-over-reliance]
@@ -11,9 +11,7 @@ sources: ['raw/papers/brcic-effortless-trap-productive-struggle-2026.md']
 confidence: high
 ---
 
-## Summary
-
-Brcic & Frljic (2026) argue that the "allow or ban AI" framing is a false dichotomy; the relevant design question is **placement**. Used well, AI scales [[feedback]], examples, practice, and individualized support; used poorly, it replaces the cognitive work learning requires and leaves an "illusion of learning" — a confident [[self-efficacy|sense of mastery]] that collapses on the unaided task. The strongest causal evidence shows the outcome flips on design: an unguarded AI helper left [[k-12|high-school]] students ~17% worse on an unaided exam than peers with no tool, while the same model rebuilt to withhold answers erased the harm, and a well-engineered [[intelligent-tutoring|tutor]] roughly doubled learning. The authors give educators a graspable six-move frame (Prime, Probe, Point, Attach, Strengthen, Test) for placing the tool, with a one-line diagnostic: *if letting AI in makes the task feel effortless, it is in the wrong place.*
+> **Synthesis:** Brcic & Frljic (2026) argue that the "allow or ban AI" framing is a false dichotomy; the relevant design question is **placement**. Used well, AI scales [[feedback]], examples, practice, and individualized support; used poorly, it replaces the cognitive work learning requires and leaves an "illusion of learning" — a confident [[self-efficacy|sense of mastery]] that collapses on the unaided task. The strongest causal evidence shows the outcome flips on design: an unguarded AI helper left [[k-12|high-school]] students ~17% worse on an unaided exam than peers with no tool, while the same model rebuilt to withhold answers erased the harm, and a well-engineered [[intelligent-tutoring|tutor]] roughly doubled learning. The authors give educators a graspable six-move frame (Prime, Probe, Point, Attach, Strengthen, Test) for placing the tool, with a one-line diagnostic: *if letting AI in makes the task feel effortless, it is in the wrong place.*
 
 ## Key Findings
 

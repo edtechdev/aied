@@ -1,7 +1,7 @@
 ---
 title: "To disclose or not to disclose: Peer influence and psychological factors in students' use of generative artificial intelligence"
 created: "2026-08-25T09:50:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [academic-integrity, generative-ai, higher-ed, trust, learning-theories]
 connected_faqs: [ai-guidance-children-under-13, course-ai-policy]
@@ -12,7 +12,7 @@ sources: ['raw/papers/qu-wang-disclose-or-not-genai-2026.md']
 confidence: high
 ---
 
-> **To disclose or not to disclose** — a [[mixed-methods-research|mixed-methods]] study of 409 Singaporean undergraduates examining why students conceal their [[generative-ai]] use despite [[governance|institutional]] disclosure mandates. Guided by Bandura's Social Cognitive Theory, it finds disclosure is primarily predicted by *relational and social* variables — perceived peer disclosure and comfort with instructors were the strongest predictors, while moral disengagement had weaker effects. Non-disclosure reflects strategic adaptation to perceived peer norms and low interpretive trust in instructors, not moral negligence.
+> **Synthesis:** **To disclose or not to disclose** — a [[mixed-methods-research|mixed-methods]] study of 409 Singaporean undergraduates examining why students conceal their [[generative-ai]] use despite [[governance|institutional]] disclosure mandates. Guided by Bandura's Social Cognitive Theory, it finds disclosure is primarily predicted by *relational and social* variables — perceived peer disclosure and comfort with instructors were the strongest predictors, while moral disengagement had weaker effects. Non-disclosure reflects strategic adaptation to perceived peer norms and low interpretive trust in instructors, not moral negligence.
 
 Qu & Wang (2026) reframe GenAI non-disclosure in [[higher-ed|higher education]] as a *relationally embedded* practice rather than simple cheating. Despite mandates, students frequently conceal their GenAI use, reflecting [[ethics|ethical]] uncertainty and relational risk. The study moves the focus from compliance toward the social environments that make transparency possible.
 

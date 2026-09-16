@@ -1,7 +1,7 @@
 ---
 title: "Making sense of AI feedback: how students' feedback literacy moderates the link between ChatGPT acceptance and self-regulated learning"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-feedback-quality, self-regulated-learning, feedback, formative-assessment, ai-literacy, trust-calibration, generative-ai, metacognition, k-12]
 audience: [learners, instructors]
@@ -12,9 +12,10 @@ sources: ['raw/papers/mendoza-ai-feedback-feedback-literacy-srl.md']
 confidence: high
 ---
 
+> **Synthesis:** **[[feedback-literacy|Feedback literacy]] — specifically, students' ability to make sense of AI-generated [[ai-feedback-quality|feedback]] — is the boundary condition that determines whether ChatGPT acceptance translates into perceived [[self-regulated-learning|self-regulated learning]] benefits.**
+
 ## Core Finding
 
-**[[feedback-literacy|Feedback literacy]] — specifically, students' ability to make sense of AI-generated [[ai-feedback-quality|feedback]] — is the boundary condition that determines whether ChatGPT acceptance translates into perceived [[self-regulated-learning|self-regulated learning]] benefits.**
 
 In a survey of 211 Hong Kong secondary students (Grades 7–9), Mendoza, Xiong and Yan found that all five [[technology-acceptance-model|Technology Acceptance Model]] (TAM) components (perceived usefulness, perceived ease of use, attitude, intention to use, actual use) positively predicted self-reflection. But every one of these links was **moderated by feedback sense-making**: students with stronger feedback-processing skills reported greater self-[[regulation|regulatory]] benefits from ChatGPT use, while those with weaker skills showed minimal or even negative associations.
 

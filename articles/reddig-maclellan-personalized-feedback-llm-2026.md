@@ -1,14 +1,14 @@
 ---
 title: "Generating In-Context, Personalized Feedback for Intelligent Tutors with Large Language Models"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, intelligent-tutoring, feedback, personalized-learning, ai-feedback-quality, generative-ai]
 sources: ['raw/papers/reddig-maclellan-personalized-feedback-llm-2026.md']
 confidence: high
 ---
 
-> **Generating In-Context, Personalized Feedback for Intelligent Tutors with Large Language Models** — Reddig, Arora & MacLellan (2025) run three studies evaluating whether GPT-4 can diagnose student errors and generate corrective feedback within an [[intelligent-tutoring]] system, the Apprentice Tutor College Algebra platform. Across 6,926 logged transactions, GPT-4 diagnosed student errors with 87.8% accuracy when given rich problem context, though accuracy fell sharply for multi-step problems and responses containing more than one error. The authors find that roughly a third of generated hints were too general, incorrect, or prematurely gave away the answer, and that LLM-based automated evaluation methods for feedback quality were misaligned with human judgment — signaling that [[generative-ai|LLM]]-generated [[feedback]] requires robust validation and [[human-in-the-loop-ai|human oversight]] before unsupervised deployment.
+> **Synthesis:** **Generating In-Context, Personalized Feedback for Intelligent Tutors with Large Language Models** — Reddig, Arora & MacLellan (2025) run three studies evaluating whether GPT-4 can diagnose student errors and generate corrective feedback within an [[intelligent-tutoring]] system, the Apprentice Tutor College Algebra platform. Across 6,926 logged transactions, GPT-4 diagnosed student errors with 87.8% accuracy when given rich problem context, though accuracy fell sharply for multi-step problems and responses containing more than one error. The authors find that roughly a third of generated hints were too general, incorrect, or prematurely gave away the answer, and that LLM-based automated evaluation methods for feedback quality were misaligned with human judgment — signaling that [[generative-ai|LLM]]-generated [[feedback]] requires robust validation and [[human-in-the-loop-ai|human oversight]] before unsupervised deployment.
 
 ## Key Findings
 

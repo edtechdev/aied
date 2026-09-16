@@ -1,7 +1,7 @@
 ---
 title: "Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-21T07:49:51-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, stem-education, llm, generative-ai, automated-assessment, feedback, scaffolding, rag, visualization]
 audience: [software developers]
@@ -12,7 +12,7 @@ sources: ['raw/papers/sle-2026-structrag-diagram-reasoning.md']
 confidence: high
 ---
 
-Presents **StructRAG**, a pattern-aware framework that improves how [[intelligent-tutoring|AI tutoring systems]] interpret **complex engineering diagrams** (circuit schematics, network topologies, block flowcharts) in [[stem-education|STEM]]. Current AI systems fail on diagrammatic questions because they cannot reliably extract spatial relationships and structural connectivity from noisy real-world diagrams (curved lines, overlapping elements, occluded labels). StructRAG shifts from surface-level visual recognition to **pattern-level structural reasoning**: convert the diagram to a [[knowledge-graph|graph]], retrieve structurally similar canonical patterns, and prompt an [[llm|LLM]] to validate plausibility and completeness — enabling detection of missing connections and [[scaffolding|structure-aware feedback]].
+> **Synthesis:** Presents **StructRAG**, a pattern-aware framework that improves how [[intelligent-tutoring|AI tutoring systems]] interpret **complex engineering diagrams** (circuit schematics, network topologies, block flowcharts) in [[stem-education|STEM]]. Current AI systems fail on diagrammatic questions because they cannot reliably extract spatial relationships and structural connectivity from noisy real-world diagrams (curved lines, overlapping elements, occluded labels). StructRAG shifts from surface-level visual recognition to **pattern-level structural reasoning**: convert the diagram to a [[knowledge-graph|graph]], retrieve structurally similar canonical patterns, and prompt an [[llm|LLM]] to validate plausibility and completeness — enabling detection of missing connections and [[scaffolding|structure-aware feedback]].
 
 ## Architecture (four components)
 

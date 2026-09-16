@@ -1,16 +1,14 @@
 ---
 title: "In the AI era: A project-based digital storytelling framework for art and design education"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/project-based-digital-storytelling-art-design-2026.md"]
 tags: ["project-based-learning", "storytelling-in-education", "generative-ai", "creativity", "higher-ed"]
 confidence: medium
 ---
 
-## Overview
-
-As [[generative-ai]] increasingly automates technical production in the creative industries, this study asks how art and design education should evolve to preserve and cultivate the deeply human capacities—emotional resonance, cultural interpretation, and narrative meaning-making—that AI lacks. The authors propose and evaluate a Project-Based Digital Storytelling (PBL-DS) [[pedagogy]] that positions AI as a supportive resource inside a structured creative process rather than an autonomous source of creativity.
+> **Synthesis:** As [[generative-ai]] increasingly automates technical production in the creative industries, this study asks how art and design education should evolve to preserve and cultivate the deeply human capacities—emotional resonance, cultural interpretation, and narrative meaning-making—that AI lacks. The authors propose and evaluate a Project-Based Digital Storytelling (PBL-DS) [[pedagogy]] that positions AI as a supportive resource inside a structured creative process rather than an autonomous source of creativity.
 
 The model is grounded in an integrative theoretical framework: [[constructivist]] learning (Vygotsky), Dewey's [[experiential-learning]], and Amabile's Componential Model of Creativity, operationalized through the four-stage digital storytelling production process (pre-production, production, post-production, distribution). It was implemented and studied as an embedded case study of the 15-week "Creative Shanzhou" capstone project, run by the School of Art and Design at a Chinese university in partnership with the local Cultural and Tourism Bureau, in which 426 final-year undergraduates (guided by 48 mentors, ~1:9 ratio) translated local cultural heritage into [[multimodal]] narratives. The [[research-methods-aied|research]] used a case-based, multi-method design combining expert evaluation of creative products, pre/post creative-thinking [[assessment]], and [[qualitative-research|qualitative]] project analysis.
 

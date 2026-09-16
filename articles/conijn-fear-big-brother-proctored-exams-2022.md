@@ -1,7 +1,7 @@
 ---
 title: "The fear of Big Brother: The potential negative side-effects of proctored exams"
 created: "2026-08-25T07:42:00-04:00"
-updated: "2026-08-25T10:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [remote-proctoring, ai-anxiety-and-stress, academic-integrity, social-emotional-learning, higher-ed, assessment, privacy, equity-in-ai-education]
 research_method: [survey]
@@ -11,7 +11,7 @@ sources: ['raw/papers/conijn-fear-big-brother-proctored-exams-2022.md']
 confidence: high
 ---
 
-> **The fear of Big Brother** — a large-scale four-wave study of 1,760 students across 105 courses during pandemic-era remote exams finds that online [[remote-proctoring|proctoring]] significantly **increases test anxiety**, even though it has no effect on the temptation to cheat, perceived exam difficulty, or performance. The study quantifies which student and contextual factors reduce or amplify that anxiety, and argues that the decision to use online proctoring must weigh its undesirable side-effect on test anxiety.
+> **Synthesis:** **The fear of Big Brother** — a large-scale four-wave study of 1,760 students across 105 courses during pandemic-era remote exams finds that online [[remote-proctoring|proctoring]] significantly **increases test anxiety**, even though it has no effect on the temptation to cheat, perceived exam difficulty, or performance. The study quantifies which student and contextual factors reduce or amplify that anxiety, and argues that the decision to use online proctoring must weigh its undesirable side-effect on test anxiety.
 
 Conijn, Kleingeld, Matzat, & Snijders (2022) provide the strongest empirical evidence to date on the "Big Brother" concern with proctored exams: surveillance raises anxiety without deterring cheating. The title captures the central finding — students' fear of being watched is a real, measurable negative side-effect of [[remote-proctoring|online proctoring]].
 

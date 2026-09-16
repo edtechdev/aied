@@ -1,7 +1,7 @@
 ---
 title: "Metacognitive Training Facilitates Optimal Cognitive Offloading"
 created: "2026-08-16T21:20:00-04:00"
-updated: "2026-08-16T21:20:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [cognitive-offloading, metacognition, feedback, self-regulated-learning, student-experience, generative-ai]
 research_method: [experiment]
@@ -11,7 +11,7 @@ sources: ['raw/papers/metacognitive-training-optimal-cognitive-offloading-2026.m
 confidence: high
 ---
 
-> Ngai & Gilbert (2026) show that a brief metacognitive training intervention — just five practice trials pairing [[learning-gains|performance]] prediction with feedback — improves metacognitive calibration and makes people's [[cognitive-offloading]] strategy choices measurably more optimal, resolving earlier mixed findings about whether metacognitive training translates into actual offloading behavior.
+> **Synthesis:** Ngai & Gilbert (2026) show that a brief metacognitive training intervention — just five practice trials pairing [[learning-gains|performance]] prediction with feedback — improves metacognitive calibration and makes people's [[cognitive-offloading]] strategy choices measurably more optimal, resolving earlier mixed findings about whether metacognitive training translates into actual offloading behavior.
 
 Ngai and Gilbert (2026) report two preregistered experiments testing whether a brief metacognitive intervention can reduce systematic biases in [[cognitive-offloading]]. People are known to offload suboptimally — most commonly over-using external reminders even when internal memory would earn more reward — a bias linked to miscalibrated [[metacognition|metacognitive confidence]]. Prior attempts to shift offloading via metacognitive interventions produced inconsistent results, so this study tested a tightly-specified training recipe under conditions designed to isolate metacognitive effects.
 

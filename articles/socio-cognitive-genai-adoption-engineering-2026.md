@@ -1,7 +1,7 @@
 ---
 title: "Social and Cognitive Drivers of Generative AI Adoption: A Unified Socio-Cognitive Model for Engineering Education"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [technology-acceptance-model, generative-ai, engineering-education, higher-ed, student-experience, global-south, ai-literacy, equity-in-ai-education, change-management]
 research_method: [survey]
@@ -12,7 +12,7 @@ sources: ['raw/papers/10.1016_j.caeai.2026.100614.md']
 confidence: high
 ---
 
-Mazen Abdulwahab Asag & Md Abdullah Al Mamun (2026) investigated [[engineering-education|engineering]] students' adoption of [[generative-ai|generative AI]] by integrating the [[technology-acceptance-model|Technology Acceptance Model (TAM)]] with the Unified Theory of Acceptance and Use of Technology (UTAUT) to develop a unified socio-cognitive framework.
+> **Synthesis:** Mazen Abdulwahab Asag & Md Abdullah Al Mamun (2026) investigated [[engineering-education|engineering]] students' adoption of [[generative-ai|generative AI]] by integrating the [[technology-acceptance-model|Technology Acceptance Model (TAM)]] with the Unified Theory of Acceptance and Use of Technology (UTAUT) to develop a unified socio-cognitive framework.
 
 ## Key Findings
 

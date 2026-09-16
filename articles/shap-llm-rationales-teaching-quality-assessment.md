@@ -1,7 +1,7 @@
 ---
 title: "From Scoring to Explanations: SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [automated-assessment, educational-nlp, llm, feedback, teacher-role, ai-ed-evaluation, learning-analytics]
 research_method: [benchmark]
@@ -11,7 +11,7 @@ confidence: high
 sources: [raw/papers/2606.05180.md]
 ---
 
-> **For rubric-based scoring of classroom transcripts, model-agnostic SHAP attributions are more faithful and transferable than LLM-generated rationales.** This paper proposes a general framework for sentence-level interpretability of rubric-based scoring, combining Shapley-value attributions with [[llm|LLM]]-generated rationales, and instantiates it on the Quality of Feedback (QoF) dimension of the CLASS framework using the NCTE corpus (~6k annotated transcript segments). Across models, fine-tuned pretrained language models (PLMs) outperform prompted LLMs in prediction accuracy but exhibit label compression toward mid-scale scores. Deletion-based faithfulness tests show SHAP identifies sentences that reliably drive predictions — producing larger, more coherent prediction shifts than LLM rationales — and SHAP attributions transfer robustly across architectures, whereas LLM rationales exert limited and inconsistent influence. The work offers a principled basis for evaluating both scoring models and their explanations in high-stakes educational settings and other rubric-based language assessment.
+> **Synthesis:** **For rubric-based scoring of classroom transcripts, model-agnostic SHAP attributions are more faithful and transferable than LLM-generated rationales.** This paper proposes a general framework for sentence-level interpretability of rubric-based scoring, combining Shapley-value attributions with [[llm|LLM]]-generated rationales, and instantiates it on the Quality of Feedback (QoF) dimension of the CLASS framework using the NCTE corpus (~6k annotated transcript segments). Across models, fine-tuned pretrained language models (PLMs) outperform prompted LLMs in prediction accuracy but exhibit label compression toward mid-scale scores. Deletion-based faithfulness tests show SHAP identifies sentences that reliably drive predictions — producing larger, more coherent prediction shifts than LLM rationales — and SHAP attributions transfer robustly across architectures, whereas LLM rationales exert limited and inconsistent influence. The work offers a principled basis for evaluating both scoring models and their explanations in high-stakes educational settings and other rubric-based language assessment.
 
 ## Key Findings
 

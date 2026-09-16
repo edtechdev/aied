@@ -1,7 +1,7 @@
 ---
 title: "Feedback futures: beyond the limits of human and GenAI capacities"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, feedback, higher-ed, ai-literacy, learning-theories, equity-in-ai-education, human-in-the-loop-ai, rag, ai-education]
 connected_faqs: [ai-feedback-at-scale]
@@ -13,9 +13,7 @@ sources: ['raw/papers/tandf-2026-feedback-futures-genai.md']
 confidence: high
 ---
 
-## Summary
-
-This editorial synthesises the seven papers of the AEHE 51(5) special issue on feedback in the age of [[generative-ai|generative AI]]. Its central claim: the question is **not whether GenAI feedback is useful, but how human and GenAI feedback can be combined to sustainably support learning rather than merely improve immediate performance**. Teacher and student [[feedback-literacy|feedback literacy]] are necessary but not sufficient — what is also required is deliberate pedagogic design, [[governance|institutional]] conditions that prioritise learning over efficiency, and the purposeful development of human judgement that cannot be delegated to the tool.
+> **Synthesis:** This editorial synthesises the seven papers of the AEHE 51(5) special issue on feedback in the age of [[generative-ai|generative AI]]. Its central claim: the question is **not whether GenAI feedback is useful, but how human and GenAI feedback can be combined to sustainably support learning rather than merely improve immediate performance**. Teacher and student [[feedback-literacy|feedback literacy]] are necessary but not sufficient — what is also required is deliberate pedagogic design, [[governance|institutional]] conditions that prioritise learning over efficiency, and the purposeful development of human judgement that cannot be delegated to the tool.
 
 The issue's papers include four also ingested into this knowledge base: [[learner-centered-feedback-ai]], [[chatgpt-feedback-engagement-genai]], [[genai-teacher-feedback-comparison]], and [[care-full-feedback-genai]].
 

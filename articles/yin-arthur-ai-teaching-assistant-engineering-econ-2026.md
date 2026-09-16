@@ -1,14 +1,14 @@
 ---
 title: "Arthur: An artificial intelligence powered teaching assistant system for Engineering Economics class"
 created: "2026-09-03T14:00:00-04:00"
-updated: "2026-09-03T14:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, formative-assessment, feedback, machine-learning, higher-ed, engineering-education]
 sources: ['raw/papers/yin-arthur-ai-teaching-assistant-engineering-econ-2026.md']
 confidence: high
 ---
 
-> **Arthur: An artificial intelligence powered teaching assistant system for Engineering Economics class** — Yin, Karakaya, Bass, and Cai (2026) introduce Arthur, an AI-powered [[intelligent-tutoring|teaching assistant]] that delivers real-time, personalized [[feedback]] on Calculated Formula Questions (CFQs) in an undergraduate Engineering Economics course, a domain where handwritten, unstructured solutions have previously blocked AI support. The authors propose a full life-cycle framework spanning data curation, data augmentation, model training, and student-facing deployment, training an [[machine-learning|XGBoost]] "solution diagnosis backbone" per CFQ to predict likely mistakes from students' submitted numerical answers. A dialogue-based interaction scheme and question-bank web interface operationalize the system to balance feedback accuracy against collection efficiency within [[higher-ed|higher education]] [[engineering-education|engineering courses]].
+> **Synthesis:** **Arthur: An artificial intelligence powered teaching assistant system for Engineering Economics class** — Yin, Karakaya, Bass, and Cai (2026) introduce Arthur, an AI-powered [[intelligent-tutoring|teaching assistant]] that delivers real-time, personalized [[feedback]] on Calculated Formula Questions (CFQs) in an undergraduate Engineering Economics course, a domain where handwritten, unstructured solutions have previously blocked AI support. The authors propose a full life-cycle framework spanning data curation, data augmentation, model training, and student-facing deployment, training an [[machine-learning|XGBoost]] "solution diagnosis backbone" per CFQ to predict likely mistakes from students' submitted numerical answers. A dialogue-based interaction scheme and question-bank web interface operationalize the system to balance feedback accuracy against collection efficiency within [[higher-ed|higher education]] [[engineering-education|engineering courses]].
 
 ## Key Findings
 
