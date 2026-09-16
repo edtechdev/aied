@@ -1,7 +1,7 @@
 ---
 title: "EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation"
 created: "2026-06-10T12:17:35-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [intelligent-tutoring, student-experience, llm, higher-ed, scaffolding, generative-ai, ai-literacy, k-12, stem-education, learning-analytics]
 research_method: [system development]
@@ -12,9 +12,7 @@ confidence: high
 sources: []
 ---
 
-> **Synthesis:** **Jingzhe Lin, Hengbin Yu, Yongdan Zeng, Fangwei Zhong** — ICML 2026 — cs.MA, cs.CY
-
-EduMirror introduces a multi-agent simulator for studying educational social dynamics, addressing the dilemma that observational studies lack causal power while controlled experiments face [[ethics|ethical]] constraints. The simulator features value-driven agents grounded in psychological needs and social value orientation, with a dual-track measurement protocol quantifying both observable behaviors and latent psychological states. Validation through case studies on school bullying and group cooperation, plus broader evaluations across diverse educational scenarios, shows the simulator generates realistic, theory-consistent dynamics measurable by empirical criteria. This enables structured in silico educational [[research-methods-aied|research]] for hypothesis testing and counterfactual intervention analysis. The approach connects to [[student-modeling]] by modeling latent psychological states and to [[learning-analytics]] by providing a sandbox for testing interventions before deployment in real classrooms.
+> **Synthesis:** EduMirror introduces a multi-agent simulator for studying educational social dynamics, addressing the dilemma that observational studies lack causal power while controlled experiments face [[ethics|ethical]] constraints. The simulator features value-driven agents grounded in psychological needs and social value orientation, with a dual-track measurement protocol quantifying both observable behaviors and latent psychological states. Validation through case studies on school bullying and group cooperation, plus broader evaluations across diverse educational scenarios, shows the simulator generates realistic, theory-consistent dynamics measurable by empirical criteria. This enables structured in silico educational [[research-methods-aied|research]] for hypothesis testing and counterfactual intervention analysis. The approach connects to [[student-modeling]] by modeling latent psychological states and to [[learning-analytics]] by providing a sandbox for testing interventions before deployment in real classrooms.
 
 ## Connected Concepts
 

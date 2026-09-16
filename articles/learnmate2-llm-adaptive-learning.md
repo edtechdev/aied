@@ -1,7 +1,7 @@
 ---
 title: "LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning"
 created: "2026-05-15T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [personalized-learning, adaptive-learning, llm, generative-ai, higher-ed, scaffolding, agentic-ai, metacognition]
 audience: [software developers]
@@ -11,11 +11,7 @@ sources: ['raw/papers/2605.06257.md']
 confidence: medium
 ---
 
-> **Synthesis:** LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-
-## Summary
-
-LearnMate^2 addresses the **personalization gap** in online learning: while online platforms offer widespread access, they lack the personalized guidance that characterizes effective [[intelligent-tutoring]] systems. The system provides three core capabilities:
+> **Synthesis:** LearnMate^2 addresses the **personalization gap** in online learning: while online platforms offer widespread access, they lack the personalized guidance that characterizes effective [[intelligent-tutoring]] systems. The system provides three core capabilities:
 
 1. **Personalized study plans** — tailored learning paths based on individual learner profiles
 2. **Real-time contextual assistance** — in-context support during learning sessions via [[conversational-ai-tutors-framework]]

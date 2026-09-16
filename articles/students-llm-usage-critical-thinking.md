@@ -1,7 +1,7 @@
 ---
 title: Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
 created: "2026-05-15T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [higher-ed, student-experience, llm, generative-ai, learning-analytics, ai-literacy, educational-development, scaffolding]
 research_method: [survey, learning analytics]
@@ -11,11 +11,7 @@ sources: ['raw/papers/2605.04534.md']
 confidence: high
 ---
 
-> **Synthesis:** Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
-
-## Summary
-
-This study extends prior work on student LLM use by analyzing data from **two offerings** of a [[research-methods-aied|research]]-oriented course where students learn to read, reason about, and critique academic papers — a setting that moves beyond the [[problem-solving]] domains that dominate existing research. Crucially, students had **no restrictions** on LLM usage, providing ecological validity.
+> **Synthesis:** This study extends prior work on student LLM use by analyzing data from **two offerings** of a [[research-methods-aied|research]]-oriented course where students learn to read, reason about, and critique academic papers — a setting that moves beyond the [[problem-solving]] domains that dominate existing research. Crucially, students had **no restrictions** on LLM usage, providing ecological validity.
 
 **Key contributions:**
 

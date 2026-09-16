@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI Tutoring in STEM
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T17:12:51-04:00"
 type: article
 tags: [llm, intelligent-tutoring, stem-education, higher-ed, k-12, equity-in-ai-education, affective-tutoring, scaffolding, agentic-ai, visualization]
 research_method: [benchmark]
@@ -11,13 +11,12 @@ sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']
 confidence: medium
 ---
 
-> **Synthesis:** When LLMs process [[stem-education|STEM]] problems that require interpreting diagrams, graphs, or schematics alongside text, their accuracy degrades substantially. This effect is:
+> **Synthesis:** When LLMs process STEM problems that require interpreting diagrams, graphs, or schematics alongside text, their accuracy degrades substantially. This effect is:
 
 > General-purpose LLMs achieve near-ceiling accuracy (~96%) on text-only [[physics-education|physics]] problems, but accuracy drops to **~74%** on image-rich [[multimodal]] problems due to the **Multimodal Interference Effect**. A simple structured dialogue intervention—requiring no retraining—recovers performance to **95%**.([[syal-multimodal-dialogue-stem-2026]])
 
 ## The Multimodal Interference Effect
 
-When LLMs process STEM problems that require interpreting diagrams, graphs, or schematics alongside text, their accuracy degrades substantially. This effect is:
 
 - **Consistent across models:** Claude, Gemini, and ChatGPT all showed the drop
 - **Dominantly visual:** Visual Processing Errors were the most prevalent failure mode
