@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-09-14T13:43:30-04:00"
+updated: "2026-09-16T03:20:00-04:00"
 type: concept
 tags: [research-methods-aied, ai-education, assessment-validity, educational-measurement, ai-ed-evaluation, learning-theories, benchmark]
 research_method: [research methods, benchmark, educational measurement, literature review]
@@ -16,7 +16,7 @@ connected_faqs: [research-gaps-aied]
 
 - How much would you trust a headline like 'AI tutoring boosts learning by 30%' if you learned it came from 30 students in one course at one institution? The page flags generalizability and small samples as recurring limits — what would you want to know before acting on any single finding?
 - A striking limitation is the 'speed problem': AI evolves faster than findings get published, so a study of one model generation may already describe an obsolete system. How should this change the confidence you place in AI education research?
-- Many studies rely on self-reported attitudes and usage, which are biased — people overestimate their competence and under-report misuse. Have you ever answered a survey about your own skills or behavior in a way that didn't match reality? Why do perception-based measures so often diverge from objective performance?
+- Many studies rely on [[self-report-measures|self-reported]] attitudes and usage, which are biased — people overestimate their competence and under-report misuse. Have you ever answered a survey about your own skills or behavior in a way that didn't match reality? Why do perception-based measures so often diverge from objective performance?
 - The page notes that familiar frameworks like Bloom's taxonomy are often misread as strict ladders, and that even widely used theories like [[cognitive-offloading|cognitive load]] theory have been challenged. When have you seen a theory invoked as settled truth in a context where its own evidence was actually contested?
 - Most AI research depends on proprietary, opaque models whose data and updates you cannot inspect. If you cannot verify exactly what model produced a result, how much can you trust claims built on it — and what would make findings more reproducible?
 - If you are an instructor or designer without time to read primary research, how do you decide which AI claims are trustworthy enough to change your practice — given that the literature is fragmented, provisional, and written for researchers?
@@ -44,7 +44,7 @@ Several limitations concern the conduct and infrastructure of the research itsel
 
 - **Lack of reproducibility.** Studies often do not report enough detail (prompts, model versions, hyperparameters, data, analysis code) for others to reproduce or verify results — a particular problem given how sensitive LLM output is to prompts and settings.
 - **FAIR research practices.** Open and reproducible practice — **F**indable, **A**ccessible, **I**nteroperable, **R**eusable data and code, pre-registration, and shared benchmarks — is unevenly adopted in AIED. Weak adherence to FAIR principles makes it harder to reuse, compare, and build on studies.
-- **Proprietary tools and models.** Much research depends on closed, proprietary AI systems whose internal behavior, training data, and model updates are opaque and may change without notice. This limits reproducibility, makes exact replication impossible, and can tie findings to a vendor's roadmap. It also raises questions about evaluation independence (see [[ai-ed-evaluation]]).
+- **Proprietary tools and models.** Much research depends on closed, proprietary [[ai-technologies|AI systems]] whose internal behavior, training data, and model updates are opaque and may change without notice. This limits reproducibility, makes exact replication impossible, and can tie findings to a vendor's roadmap. It also raises questions about evaluation independence (see [[ai-ed-evaluation]]).
 
 ## Weak or limited theory use
 
@@ -57,6 +57,8 @@ A recurring criticism is that many empirical articles have **limited or outdated
 - **Overlook contested theories.** Some theories used widely in AIED have themselves been challenged. **Cognitive load theory**, for example, has been criticized and its empirical claims refuted or disputed in prior studies, yet it continues to be invoked as a settled foundation in new AIED work.
 
 The implication is not that theories and frameworks are useless, but that they should be used with attention to their actual evidence base, their intended scope, and their known criticisms — rather than as self-evident [[scaffolding|scaffolds]] or rigid procedural sequences.
+
+**How widespread the gap is, measured.** [[topali-aied-k12-authentic-settings-review-2025|Topali et al. (2025)]] coded 28 empirical studies of AI used as a learning tool in authentic [[k-12]] settings against the learning-theory taxonomies of Leonard (2002) and Zhou and Brown (2015) and found that **only 15 of the 28 reported any [[learning-theories|learning theory]] or pedagogical model guiding the design or use of the tool**, and that just 11 (39.29%) contextualised the tool to concrete course conditions — 7 through [[curriculum-design|curriculum]]-tied learning objectives and only 3 through learning-design aspects such as activity type and difficulty. Where theory was present, it clustered in [[constructivist]] approaches (N = 10, including [[game-based-learning|game-based learning]] at N = 6), with cognitive models at N = 4, [[sociocultural-learning|sociocultural]] theories at N = 3 and [[motivation|motivational]] theories at N = 2. Their explanation of the cost is concrete: a teacher-facing dashboard that flags struggling students by quiz attempts alone treats an ambiguous number as a diagnosis, because a high attempt count on a difficult task can be [[desirable-difficulties|productive struggle]] rather than difficulty, so decontextualised metrics generate false alerts and erode teacher [[trust-calibration|trust]]. The same corpus shows how narrow outcome measurement remains — 14 of 28 studies reported learning-outcome effects, 10 affective and 10 [[metacognition|metacognitive]], only 3 relational, and a single study examined effects on [[teacher-role|teachers]] at all — which is the [[quantitative-research|quantitative]] form of the performance-versus-learning problem this page documents.
 
 ## The meta-analytic evidence crisis
 
@@ -74,7 +76,7 @@ Taken together, these limitations argue for a critical, multi-signal reading of 
 
 ## From research to practice
 
-A further, practical limitation is the **challenge of applying research to [[teacher-role|teaching]] and instructional design**. Practitioners — instructors, instructional designers, and faculty developers — often lack the time or specialized expertise to read, appraise, and translate primary research into concrete classroom decisions. The literature is large, fragmented, and written for researchers; findings are reported with statistical and methodological detail that is not immediately actionable; and because claims are provisional (see the speed problem above), a practitioner cannot simply take a single study at face value. This creates a gap between what the evidence supports and what actually reaches [[pedagogy|teaching practice]].
+A further, practical limitation is the **challenge of applying research to [[teacher-role|teaching]] and instructional design**. Practitioners — instructors, [[stakeholders|instructional designers]], and faculty developers — often lack the time or specialized expertise to read, appraise, and translate primary research into concrete classroom decisions. The literature is large, fragmented, and written for researchers; findings are reported with statistical and methodological detail that is not immediately actionable; and because claims are provisional (see the speed problem above), a practitioner cannot simply take a single study at face value. This creates a gap between what the evidence supports and what actually reaches [[pedagogy|teaching practice]].
 
 The purpose of this knowledge base is to help close that gap — to make it easier to keep up with, interpret, and apply AI-in-education research to practice — by curating open-access findings into structured, accessible summaries, connecting related work through [[ai-education|concept pages]], and flagging the limitations readers should weigh. It aims to support evidence-informed practice in teaching and instructional design, and in doing so to also surface gaps and questions that can inform new research and development. Understanding the limits of the research is therefore not an end in itself: it is what lets practitioners apply findings appropriately and lets researchers design stronger studies that better serve practice.
 
@@ -108,3 +110,4 @@ The purpose of this knowledge base is to help close that gap — to make it easi
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
 - [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews
 - [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks
+- [[topali-aied-k12-authentic-settings-review-2025]] — 28 K-12 authentic-setting studies: only 15 grounded in learning theory, 39% contextualised to course design (Topali et al. 2025)
