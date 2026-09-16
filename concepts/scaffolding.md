@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-14T11:14:33-04:00"
+updated: "2026-09-16T10:00:00-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor]
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
@@ -55,6 +55,7 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 
 - **Rule-guided vs. ad-hoc scaffolding.** Looi, Liu, and Sun (2026) formalize a distinction central to scaffolding design: **rule-guided scaffolding**, in which tutoring is governed by an auditable three-layer architecture (diagnosis → intent selection → constrained response generation), versus **ad-hoc scaffolding**, where helpful moves are difficult to audit and replicate. Their primary-school math study showed rule-guided scaffolding improves interactional consistency, reduces premature answer-giving and early closure, and sustains cognitive [[student-engagement|engagement]] — evidence that explicitness and auditability of scaffold moves matter for both consistency and learning in procedural domains.
 - **Scaffolding as the constrained pathway between bypass and offloading.** The Neuroplasticity-[[student-ai-interaction|AI Interaction]] Model names scaffolding as the third of three pathways for LLM help, alongside direct bypass and cognitive offloading, and defines it by whether the model preserves the effortful processing the task is meant to train ([[naim-bypass-offload-scaffold-llm-learning-2026]]). The model's calibration evidence is a natural experiment in scaffold constraint: unrestricted GPT-4 access in a study of nearly 1,000 high-school [[math-education|mathematics]] students produced a 48% practice gain but a 17% deficit on the unassisted exam, while hint-constrained GPT Tutor produced a 127% practice gain with the exam deficit largely eliminated. The design lesson matches the rule-guided versus ad-hoc distinction above at a coarser grain: it is the constraint on what the tutor is allowed to supply, not the presence of a tutor, that determines whether the scaffold is removed successfully.
+- **A correctly constrained scaffold still fails if the constraint is not administered.** [[ai-literacy-tool-design-programming-education-2026|Azimi (2026)]] built what the distinction above prescribes — a budget of 25 hints per session, a 15-minute cap on AI use, a required end-of-session reflection, and no generated code — and randomised 33 master's students between it and unrestricted [[generative-ai|generative AI]] use across seven weeks. Assignment performance and concept-inventory gains did not differ between conditions. The hint budget did not act as a rationing mechanism: some students spent most of it on the first problems and had none left for the demanding ones, others finished with most unused, and within the Coach condition it was the students who already had a deliberate strategy for spending a hint who scored higher. The constraint raised reported [[self-efficacy|confidence]] and followed students out of the classroom as a self-questioning habit (whether a question was worth asking the tool), but it rewarded existing self-governance rather than developing it. Auditability of a scaffold and a learner's capacity to use it are separate conditions.
 
 ## Connected Concepts
 - [[problem-based-learning]] — PBL embeds fading scaffolds around ill-structured problems
@@ -119,3 +120,4 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[sidorkin-ai-generated-course-readings-2026]] — Comprehension prompts as a scaffold dial in AI-generated course readings (Sidorkin 2026)
+- [[ai-literacy-tool-design-programming-education-2026]] — A hint-budgeted AI Study Coach: scaffolded vs unrestricted GenAI use, and why the constraint alone did not produce learning (Azimi 2026)

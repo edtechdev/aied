@@ -1,7 +1,7 @@
 ---
 title: Virtual and Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-09-16T01:05:00-04:00"
+updated: "2026-09-16T10:00:00-04:00"
 type: concept
 tags: [generative-ai, simulation, embodied-learning, multimodal, professional-training, stem-education, accessibility, medical-education]
 confidence: high
@@ -42,6 +42,8 @@ Its gaps define the current frontier of the pattern. Evaluation was objective me
 The clearest attempt to date at that missing measurement comes from a vocational design studio rather than a clinical setting. In a 12-week interior-design course, a VR environment (headsets plus a 3D modelling tool) with an LLM-backed assistant rendered as a digital human was compared against conventional [[project-based-learning|project-based]] instruction, with the assistant assigned a distinct role per phase — resource recommendation and task decomposition, layered questioning with knowledge maps, simulated design effects and flaw detection, then discourse logging for the teacher ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). Across 63 valid responses the immersive-plus-agent condition produced significantly higher design ability (η²p = .138) and creative ability (η²p = .111), cognitive (d = 0.90) and behavioural (d = 0.75) [[student-engagement|engagement]], and motivation (d = 0.74) and satisfaction (d = 0.69) — with reported [[cognitive-offloading|cognitive load]] *lower*, not higher (d = −0.52), which the authors credit to the assistant cutting search and cross-disciplinary integration effort. Two limits keep this from settling the question: ideational novelty and [[affective-computing|affective]] engagement did not move, and every outcome is [[self-report-measures|self-report]], with no artefact ratings or headset logs.
 
 The contrast with a comparable design-education deployment is instructive. An architectural studio using a [[generative-ai|GenAI]] plus multi-user XR pipeline found *declining* design [[self-efficacy]] confidence for the teams that used it and no advantage in blinded panel ratings. The difference between the two is less the hardware than the orchestration: the vocational study fixed the phase structure, the assistant's role in each phase, and the evaluation rubric before the intervention, and measured productive ability separately from ideational novelty.
+
+The instructor-facing version of the same pattern is younger and more fragile. [[luminote-llm-vr-stage-lighting-education-2026|Liang et al. (2026)]] let a stage-lighting instructor speak their intent into a VR scene with a laser pointer as the spatial anchor, and had an [[llm]] turn it into instructor-reviewable spatial annotations, executable lighting demonstrations and on-demand jargon explanations. Over 55 prompts and 531 generated actions, assistance was strongest on expressive, under-specified goals (212 of 245 visual-effect actions applied, 86.5%) and weakest on fixture-level requests, where 26 of the 28 rejected actions traced to directional references such as "left light" that the model resolved to the wrong fixture — grounding in the scene's spatial reference frame, not executability, was the binding constraint. Instructors used suggestions as a [[human-in-the-loop-ai|controllable refinement process]] rather than an answer: 127 of the 147 rejected or modified actions (86.4%) were followed by a new prompt, and only one by manual adjustment. The study's most cautionary result is representational — annotations that externalised expert reasoning did not reliably align with what novices understood, so immersive AI instruction carries both the grounding problem of the tutoring cases above and a second one, that instructor competence and learner comprehension are not the same target.
 
 ## What the evidence shows
 
@@ -94,3 +96,4 @@ The same logic explains why presence is not automatically good. Motion sickness,
 - [[tech-enhanced-tabletop-cybersecurity-education]] — augmented tabletop scenarios in cybersecurity education
 - [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersive VR design studio with an LLM-backed teaching assistant, evaluated against traditional PBL (Jin et al. 2026)
+- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: LLM-assisted multimodal instruction in VR stage lighting education, and where grounding broke down (Liang et al. 2026)

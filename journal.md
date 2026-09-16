@@ -1,13 +1,22 @@
 # Journal
 
 
-Last updated: 2026-09-16 | Total entries: 1387
+Last updated: 2026-09-16 | Total entries: 1396
 
 ## 2026-09-16
+- 📄 [[pulla-parsons-problem-tool-2026]] — Pulla: A Parsons Problem Tool for Fine-Grained Behavioral Tracing and Instructor-Facing Problem-Solving Analysis
+- 📄 [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: LLM-Assisted Multimodal Instruction for VR Stage Lighting Education
+- 📄 [[llm-common-modelling-mistakes-formalisms-2026]] — Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs
+- 📄 [[demographic-signals-llm-student-assessment-2026]] — The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment
+- 📄 [[citation-errors-hallucinations-computing-education-2026]] — Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature
+- 📄 [[ai-literacy-warning-political-persuasion-2026]] — A light-touch AI literacy intervention helps protect against AI political persuasion
+- 📄 [[ai-literacy-tool-design-programming-education-2026]] — AI literacy over tool design: a mixed-methods study of scaffolded versus unrestricted generative AI in programming education
+- 📄 [[domain-specific-chatbot-stem-enthusiasm-2025]] — Enhancing enthusiasm for STEM education with AI: Domain-specific chatbot as personalized learning assistant
+- 📄 [[ai-supported-instruction-stem-meta-analysis-2026]] — The Impact of Artificial Intelligence-Supported Instruction on Student Learning in STEM: A Systematic Review and Meta-Analysis
 - 📄 [[teaching-with-robots-five-types-perspective-2026]] — Theoretical Perspectives on Teaching with Robots: From Interdisciplinary Prerequisites and Necessities in Today's Classrooms to Five Different Types of Robots
-- 📄 [[teacher-educators-ai-integration-preservice-2026]] — Pioneering Teacher Educators Navigating AI Integration in Pre-Service Teacher Preparation: Strategies and Challenges
 - 📄 [[ai-personas-fieldwork-experiential-learning-2026]] — AI Personas: Can LLMs Replace Fieldwork in Experiential Learning?
 - 📄 [[trust-in-ai-psychological-profiles-ml-2026]] — Psychological Profiles Associated with Trust in Artificial Intelligence Among University Students: A Machine Learning Clustering Approach
+- 📄 [[teacher-educators-ai-integration-preservice-2026]] — Pioneering Teacher Educators Navigating AI Integration in Pre-Service Teacher Preparation: Strategies and Challenges
 - 📄 [[tripartite-feedback-framework-ai-assessment-2026]] — A Tripartite Feedback Framework for AI-Assisted Assessment of Complex Reports in Higher Education
 - 📄 [[raise-framework-ai-education-reporting-2026]] — RAISE the Standard: A Framework for Transparent Reporting of Artificial Intelligence Studies in Education
 - 📄 [[ai-ive-pbl-vocational-design-creativity-2026]] — Cultivating Design Creativity of Vocational Students: A Model of Project-Based Learning in AI-Enabled Immersive Virtual Environments
