@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Higher Education: From Fixed Curricula to Learnity Graphs"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-08-11"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [curriculum-design, lifelong-learning, higher-ed, knowledge-graph, personalized-learning, generative-ai, student-modeling, learning-design]
 research_method: [theoretical analysis]
@@ -41,7 +41,7 @@ The proposal also has an implicit [[equity-in-ai-education]] dimension: graph-ba
 - [[self-regulated-learning]]
 - [[student-modeling]]
 - [[transfer-of-learning]]
-
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 
 - [[ai-uk-higher-education-policy-2026]] — AI in UK higher education policy

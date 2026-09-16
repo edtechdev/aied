@@ -1,7 +1,7 @@
 ---
 title: "AICoFE: AI-Powered Feedback System"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-26T15:35:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [ai-ed-evaluation, feedback, student-experience, human-in-the-loop-ai, higher-ed, learning-analytics, formative-assessment]
 research_method: [system development]
@@ -53,6 +53,7 @@ For [[higher-ed]] institutions facing growing assessment loads, AICoFE models a 
 - [[student-experience]]
 - [[ai-feedback-quality]]
 - [[feedback]]
+- [[peer-assessment]]
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions

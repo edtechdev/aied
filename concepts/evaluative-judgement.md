@@ -30,7 +30,7 @@ Assessments that ask students to produce work presume they can tell good work fr
 Evaluative judgement is the capacity to appraise quality — one's own work, peers' work, and increasingly the work of an AI system — using criteria one can reason about rather than recite. Three features distinguish it from adjacent ideas.
 
 - **It is about quality, not correctness.** Answering correctly requires knowledge; judging whether an answer is good requires standards a generator cannot supply on the learner's behalf.
-- **It is developed, not transmitted.** Judgement grows through repeated acts of comparison — against exemplars, explicit criteria, and peers' differing approaches — which is why exemplars, calibration exercises, and [[peer-review|peer review]] are its natural pedagogies.
+- **It is developed, not transmitted.** Judgement grows through repeated acts of comparison — against exemplars, explicit criteria, and peers' differing approaches — which is why exemplars, calibration exercises, and [[peer-assessment|peer assessment]] are its natural pedagogies.
 - **It is domain-[[situated-learning|situated]].** It is exercised inside a discipline's standards of evidence and argument, so it cannot be assessed generically any more than [[transfer-of-learning|transfer]] can be assumed.
 
 It is closely related to, but narrower than, authenticity in assessment: [[authentic-assessment|authentic assessment]] asks whether a task resembles worthwhile real-world work; evaluative judgement asks whether the learner can tell good work from poor work.

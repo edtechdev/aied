@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence as Catalyst and Contested Terrain: Transforming Interior Design Practice, Pedagogy, and Professional Regulation in Malaysia"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-08-24T13:00:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [generative-ai, higher-ed, curriculum-design, professional-training, teacher-role, equity-in-ai-education, educational-policy-ai]
 research_method: [theoretical analysis]
@@ -60,7 +60,7 @@ The analysis also speaks to [[higher-ed]] and [[educational-policy-ai]]: institu
 - [[equity-in-ai-education]]
 - [[ai-education]]
 - [[educational-policy-ai]]
-
+- [[arts-design-and-media-education]]
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI changes teaching workflows

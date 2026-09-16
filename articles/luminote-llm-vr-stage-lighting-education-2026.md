@@ -3,7 +3,7 @@ title: "LumiNote: LLM-Assisted Multimodal Instruction for VR Stage Lighting Educ
 type: article
 tags: [virtual-and-augmented-reality, generative-ai, llm, multimodal, teacher-role, human-in-the-loop-ai, learning-design, experiential-learning, professional-training]
 created: "2026-09-16T09:40:00-04:00"
-updated: "2026-09-16T09:40:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 sources: ['raw/papers/luminote-llm-vr-stage-lighting-education-2026.md']
 confidence: high
 research_method: [system development, user study]
@@ -64,7 +64,7 @@ The sharpest finding is a mismatch between expert-facing and learner-facing repr
 - [[embodied-learning]] — spatial scale, viewpoint, and physical pointing in the venue
 - [[situated-learning]] — explanation anchored in the current scene state
 - [[scaffolding]] — jargon explanations and demonstrations that hold instructional flow
-
+- [[arts-design-and-media-education]]
 ## Connected Articles
 
 - [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study

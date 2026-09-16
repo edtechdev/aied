@@ -3,7 +3,7 @@ title: "Scaffolding Self-Regulated Feedback with GenAI vs. Human Peers for Feedb
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-15"
 type: article
-tags: [self-regulated-learning, ai-feedback-quality, feedback, formative-assessment, peer-review, scaffolding, ai-literacy, generative-ai, metacognition, cognitive-offloading, writing-education]
+tags: [self-regulated-learning, ai-feedback-quality, feedback, formative-assessment, peer-assessment, scaffolding, ai-literacy, generative-ai, metacognition, cognitive-offloading, writing-education]
 audience: [learners, instructors]
 research_method: [mixed methods, experiment]
 discipline: [writing education]
@@ -35,7 +35,7 @@ The authors recommend strategically integrating GenAI into [[formative-assessmen
 - **[[self-regulated-learning]]**: This paper is a direct empirical test of scaffolding SRL processes to improve feedback literacy, showing how GenAI supports goal setting, planning, critical evaluation, and immediate self-reflection.
 - **[[ai-feedback-quality]]**: Provides evidence on students' evaluation of GenAI feedback accuracy and clarity, including instances of verifying and challenging AI output.
 - **[[feedback|Feedback Loop]]**: GenAI's immediate, iterative feedback loop enabling rapid confirmation of improvement and self-reflection is a central mechanism.
-- **[[peer-review]]**: Offers a rigorous comparison against traditional peer review, detailing its interpersonal barriers (friendship bias, social anxiety) and unique value for evaluative judgment.
+- **[[peer-assessment]]**: Offers a rigorous comparison against traditional peer review, detailing its interpersonal barriers (friendship bias, social anxiety) and unique value for evaluative judgment.
 - **[[scaffolding]] / [[formative-assessment]]**: Demonstrates concrete scaffolding tools (prompt guidelines, worksheets, training) for embedding GenAI in assessment for learning.
 
 ## Methodological Notes
@@ -48,7 +48,7 @@ Strengths include the mixed-methods design pairing a controlled quasi-experiment
 - [[ai-feedback-quality]]
 - [[feedback]]
 - [[formative-assessment]]
-- [[peer-review]]
+- [[peer-assessment]]
 - [[scaffolding]]
 - [[ai-literacy]]
 - [[generative-ai]]

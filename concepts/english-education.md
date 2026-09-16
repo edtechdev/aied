@@ -53,7 +53,7 @@ The two overlap heavily (most English learning is also L2 acquisition), but Engl
 |-----------|----------------------|-----------------------------------|
 | Scope | Writing in general (any language, any genre) | English as target language + academic English register |
 | Signature concern | Composition, revision, [[agency]], authorship | EAP genre, academic register, L2/EFL writing, [[feedback-literacy|feedback literacy]] in English |
-| Assessment angle | [[automated-essay-scoring|Automated essay scoring]], writing feedback broadly | English-specific assessment (EAP writing, EFL [[peer-review|peer feedback]], L2 writing evaluation) |
+| Assessment angle | [[automated-essay-scoring|Automated essay scoring]], writing feedback broadly | English-specific assessment (EAP writing, EFL [[peer-assessment|peer feedback]], L2 writing evaluation) |
 | Equity angle | Bias in writing feedback | Bias + the English-dominance/multilingual tension (World Englishes) |
 
 Many writing-education articles are English-first (e.g., [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]), but they are framed as general writing research; English education re-centers the **English-as-target** and **academic-English** dimensions that generic writing and generic language-learning pages underemphasize.

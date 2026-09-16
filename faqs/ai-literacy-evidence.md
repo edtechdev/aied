@@ -22,7 +22,7 @@ Two implications matter for practitioners: (1) the outcome you measure shapes th
 
 ## Critiquing AI rather than merely operating it
 
-In undergraduate psychology, Richmond and Nicholls had students grade a [[generative-ai|ChatGPT]]-generated media release against their course rubric, identify errors, and revise it. Students generally recognized that the output was stylistically polished but weak in accurately representing research aims, methods, and findings. Compared with the previous [[peer-review]] cohort, the AI-critique cohort performed modestly better on the subsequent script revision (*d* = 0.36), although there was **no significant advantage on the final video**.
+In undergraduate psychology, Richmond and Nicholls had students grade a [[generative-ai|ChatGPT]]-generated media release against their course rubric, identify errors, and revise it. Students generally recognized that the output was stylistically polished but weak in accurately representing research aims, methods, and findings. Compared with the previous [[peer-assessment]] cohort, the AI-critique cohort performed modestly better on the subsequent script revision (*d* = 0.36), although there was **no significant advantage on the final video**.
 
 This provides encouraging evidence for critique-based AI literacy, but the historical comparison prevents a strong causal conclusion.
 

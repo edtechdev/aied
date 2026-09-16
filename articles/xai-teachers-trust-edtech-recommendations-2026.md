@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Explainable AI on Teachers' Trust and Acceptance of AI EdTech Recommendations: The Power of Domain-specific Explanations"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [trust, teacher-role, ai-education, teacher-ai-competency, trust-calibration, edtech-platform, technology-acceptance-model, machine-learning, science-education, qualitative-research, mixed-methods-research]
 audience: [instructors, researchers, edtech designers]
@@ -33,7 +33,7 @@ confidence: high
 - [[technology-acceptance-model]]
 - [[edtech-platform]]
 - [[ai-education]]
-
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 
 - [[intelligent-tpack-ethics-teachers-trust-distrust-2026]]

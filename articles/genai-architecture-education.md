@@ -1,7 +1,7 @@
 ---
 title: "Gen-AI-tecture: using generative AI to support architectural students in design tasks"
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-08-24T10:30:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, critical-thinking, ai-literacy, personalized-learning, equity-in-ai-education, professional-training, educational-measurement, constructivist]
 research_method: [educational measurement]
@@ -72,6 +72,7 @@ Students developed procedural confidence — "Seeing the mask, prompt and seed t
 - [[higher-ed]]
 - [[student-experience]]
 - [[design-thinking]]
+- [[arts-design-and-media-education]]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]

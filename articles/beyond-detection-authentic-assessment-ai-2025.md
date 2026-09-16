@@ -35,7 +35,7 @@ Stage-appropriate authenticity: early units get constrained, well-[[scaffolding|
 - **Critique, adapt, verify AI outputs**: business students interrogate a [[conversational-ai|chatbot]]-generated market analysis; pre-service teachers evaluate AI-produced lesson plans for inclusivity and [[pedagogy|pedagogical]] soundness; journalism students edit an AI news brief to identify bias; health students appraise AI diagnostic recommendations
 - **Process transparency artefacts**: process logs, AI prompt records, drafts showing iterations — "behind the scenes" evidence submitted alongside the final output
 - **Reflective commentaries**: explain key decisions, justify tool use, account for changes, with explicit criteria for depth, criticality, and ethical awareness
-- **Oral defences / annotated [[eportfolio|portfolios]] / recorded walkthroughs**: probe reasoning in real time, mirroring professional practices like pitching and [[peer-review|peer review]]
+- **Oral defences / annotated [[eportfolio|portfolios]] / recorded walkthroughs**: probe reasoning in real time, mirroring professional practices like pitching and [[peer-assessment|peer assessment]]
 - **Self-critique and peer feedback** for [[feedback-literacy|feedback literacy]] (Boud & Molloy 2012)
 - **Progressive release across a programme**: transparency artefacts + short defences → collaboration and negotiated briefs → capstones with external stakeholders and negotiated criteria
 

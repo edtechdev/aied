@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-09-13T00:56:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, adaptive-learning, student-modeling, personalized-learning, student-experience, llm]
 audience: [learners]
@@ -56,6 +56,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[cognitive-offloading]]
 - [[llm]]
 - [[simulating-students]]
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[multimodal-item-parameter-estimation-2026]]

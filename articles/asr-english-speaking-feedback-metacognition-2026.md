@@ -1,7 +1,7 @@
 ---
 title: "ASR Technology in College English Speaking Instruction: The Role of Feedback Internalization and Metacognitive Strategies"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [language-learning, feedback, metacognition, self-regulated-learning, intelligent-tutoring, ai-education]
 audience: [instructors, researchers, software developers]
@@ -45,7 +45,7 @@ For [[language-learning]] and [[intelligent-tutoring]], the findings show ASR's 
 - [[personalized-learning]] — proficiency-based adaptation of feedback complexity
 - [[adaptive-learning]] — scaffolding that changes with learner readiness
 - [[student-engagement]] — intrinsic motivation as a sustaining mechanism
-
+- [[speech-and-voice-technologies]]
 ## Connected Articles
 
 - [[ai-interlocutor-l2-spoken-dialogue]] — AI interlocutors for L2 spoken dialogue practice

@@ -1,7 +1,7 @@
 ---
 title: "Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias"
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [automated-assessment, llm, assessment-validity, higher-ed, ai-ed-evaluation, rag]
 audience: [software developers]
@@ -39,7 +39,7 @@ Operational use requires strategy-specific calibration, dimension-level validati
 - [[assessment-validity]]
 - [[higher-ed]]
 - [[educational-measurement]]
-
+- [[arts-design-and-media-education]]
 ## Connected Articles
 
 - [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education

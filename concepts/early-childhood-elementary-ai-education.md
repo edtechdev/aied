@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-09-05T00:20:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [early-childhood-elementary-ai-education, k-12, ai-literacy, computational-thinking, ai-education, well-being]
 level: [k 12]
@@ -65,7 +65,7 @@ Because young learners are more vulnerable and less able to self-regulate their 
 - [[trust-calibration]]
 - [[equity-in-ai-education]]
 - [[digital-divide]]
-
+- [[parents-and-families]]
 ## Connected Articles
 
 - [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' behavioral intention to use AI in early childhood settings (Duan et al. 2026)

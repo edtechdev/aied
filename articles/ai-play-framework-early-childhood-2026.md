@@ -1,7 +1,7 @@
 ---
 title: "AI-Play: A Framework for Teaching Artificial Intelligence Concepts through Unplugged Activities in Early Childhood Education"
 created: "2026-08-17T10:30:00-04:00"
-updated: "2026-08-25T13:45:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [ai-literacy, k-12, computational-thinking, game-based-learning, cs-education, learning-theories]
 audience: [instructors]
@@ -56,7 +56,7 @@ AI-Play was implemented through a family-centered **Hour of Code** event using u
 - [[learning-theories]]
 - [[ai-education]]
 - [[equity-in-ai-education]]
-
+- [[parents-and-families]]
 ## Connected Articles
 
 - [[aaai2026-prompting-literacy-k12]] — Teaching Responsible Use of AI Chatbots to K-12 Students

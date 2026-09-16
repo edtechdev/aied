@@ -1,9 +1,13 @@
 # Journal
 
 
-Last updated: 2026-09-16 | Total entries: 1421
+Last updated: 2026-09-16 | Total entries: 1425
 
 ## 2026-09-16
+- 📘 [[arts-design-and-media-education]] — Arts, Design and Media Education
+- 📘 [[parents-and-families]] — Parents and Families
+- 📘 [[recommender-systems-and-learning-paths]] — Recommender Systems and Learning Paths
+- 📘 [[speech-and-voice-technologies]] — Speech and Voice Technologies
 - 📄 [[ai-literacy-learning-engagement-psych-capital-2026]] — The impact of artificial intelligence literacy on learning engagement among university students: the mediating role of psychological capital and the moderating role of professional identity
 - 📄 [[risk-perception-genai-perceived-benefits-2026]] — The impact of risk perception on perceived benefits of generative artificial intelligence users—an empirical study based on university students
 - 📄 [[personalization-paradox-adaptive-learning-emotions-2026]] — The Personalization Paradox: AI-Adaptive Learning Environments, Academic Emotions, and Self-Regulated Learning
@@ -848,7 +852,7 @@ Last updated: 2026-09-16 | Total entries: 1421
 - 📄 [[gift-ai-pairr-business-writing-2025]] — GIFT-AI: Teaching the Game and Leveling the Field: Peer and AI Review + Reflection in a Business Writing Course
 - 📄 [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach to Formative Assessment
 - 📄 [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
-- 📘 [[peer-review]] — Peer Review
+- 📘 [[peer-assessment]] — Peer Assessment
 - 📄 [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education
 - 📄 [[ai-feedback-enactment-workflow-2026]] — Making AI-Generated Feedback Matter: From Provision to Student Enactment
 - 📄 [[ai-generated-smartphone-circular-motion-lab-2026]] — Studying Circular Motion with an AI-Generated Smartphone Physics Lab

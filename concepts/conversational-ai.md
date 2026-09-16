@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [conversational-ai, intelligent-tutoring, generative-ai, llm, pedagogical-agent, human-ai-collaboration, ai-literacy]
 confidence: medium
@@ -72,7 +72,8 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[hallucination-risk]]
 - [[equity-in-ai-education]]
 - [[reducing-ai-misuse]]
-
+- [[speech-and-voice-technologies]]
+- [[parents-and-families]]
 ## Connected Articles
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
 - [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang et al. 2026)

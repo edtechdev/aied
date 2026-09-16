@@ -1,7 +1,7 @@
 ---
 title: "Bayesian cognitive diagnosis optimizes personalized learning paths via mediation of cognitive load and Hidden Markov Model state transitions"
 created: "2026-08-23T08:07:04-04:00"
-updated: "2026-08-23T15:00:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [cognitive-diagnosis, personalized-learning, adaptive-learning, learning-analytics]
 research_method: [system development, experiment]
@@ -38,7 +38,7 @@ A Hidden Markov Model tracked the dynamic evolution of knowledge states, computi
 - [[learning-gains]]
 - [[motivation]]
 - [[self-regulated-learning]]
-
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 
 - [[llm-cognitive-diagnosis-handwritten-math]] — LLM cognitive diagnosis of handwritten math

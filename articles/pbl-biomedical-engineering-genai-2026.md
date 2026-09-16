@@ -16,7 +16,7 @@ confidence: medium
 
 ## Key Findings
 
-- **Modularized PBL+AI framework:** The design comprises four interdependent modules—problem formation via authentic biomedical problem briefs with curated deidentified datasets, AI-supported knowledge inquiry, [[problem-solving]] with robustness and reproducibility evaluation, and presentation through written reports, oral demos, and [[peer-review|peer review]].
+- **Modularized PBL+AI framework:** The design comprises four interdependent modules—problem formation via authentic biomedical problem briefs with curated deidentified datasets, AI-supported knowledge inquiry, [[problem-solving]] with robustness and reproducibility evaluation, and presentation through written reports, oral demos, and [[peer-assessment|peer assessment]].
 - **Grade distribution shift:** Post-integration cohorts (2021–2023) showed higher A-rates (66.4% vs. 39.1% control, Δ = +27.3 points, p = 0.042) and fewer low grades (6.1% vs. 22.4%), a trend that persisted after excluding the COVID-19-affected year (A-rate 67.4% vs. 39.1%, p = 0.037).
 - **Coding fluency as an enabler:** Students with more coding experience performed better (exploratory OLS β ≈ +1.88 points per year, p = 0.022), suggesting foundational coding readiness enables productive GenAI use for ideation and code assistance.
 - **High [[research-methods-aied|research]] productivity:** Implementation-focused PBL yielded 16 student-authored peer-reviewed publications addressing biomedical AI problems (e.g., wearable COVID-19 detection, graph-based single-cell RNA severity classification, synthetic augmentation for transplant-rejection imaging).

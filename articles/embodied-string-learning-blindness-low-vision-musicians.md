@@ -1,7 +1,7 @@
 ---
 title: "Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision"
 created: "2026-07-22T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [special-education, equity-in-ai-education, professional-training, higher-ed]
 research_method: [qualitative, design-based research]
@@ -36,6 +36,7 @@ This design study exemplifies [[embodied-learning]] and the principle that inclu
 - [[experiential-learning]]
 - [[professional-training]]
 - [[neurodiversity]]
+- [[arts-design-and-media-education]]
 ## Connected Articles
 
 - [[neurodivergent-computing-students]]

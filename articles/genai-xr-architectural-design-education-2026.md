@@ -1,7 +1,7 @@
 ---
 title: "Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-15T10:30:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [generative-ai, virtual-and-augmented-reality, collaborative-learning, design-thinking, creativity, self-efficacy, higher-ed, engineering-education, student-experience]
 sources: ['raw/papers/genai-xr-architectural-design-education-2026.md']
@@ -71,7 +71,7 @@ Future work proposed is to refine GenARch on interaction [[usability-research|us
 - [[group-work]]
 - [[visualization]]
 - [[embodied-learning]]
-
+- [[arts-design-and-media-education]]
 ## Connected Articles
 
 - [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios

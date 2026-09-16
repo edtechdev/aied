@@ -1,7 +1,7 @@
 ---
 title: "Associations Between Generative AI–Based Pronunciation Feedback and Willingness to Communicate in English: The Mediating Role of English Pronunciation Self-Efficacy"
 created: "2026-08-13T05:14:23-04:00"
-updated: "2026-08-13"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [language-learning, generative-ai, ai-feedback-quality, self-regulated-learning, motivation, teacher-role, feedback, personalized-learning]
 research_method: [survey]
@@ -27,7 +27,7 @@ The authors used a cross-sectional survey design with a convenience sample of 1,
 
 ## Implications for AI in Education
 
-The findings position GenAI-based pronunciation feedback as a promising, low-pressure supplement to traditional teacher and [[peer-review|peer feedback]] for [[language-learning]], particularly in contexts (like China) where limited authentic English interaction and "mute English" make pronunciation anxiety a barrier to speaking. Because GenAI feedback is immediate, repeatable, personalized, and perceived as less judgmental, it may build learners' pronunciation self-efficacy and, through it, their readiness to speak. For practitioners, this supports integrating AI pronunciation tools as ongoing speaking practice that complements — not replaces — classroom feedback, while the partial mediation highlights that confidence and psychological safety, not just accuracy, are central to why such feedback helps learners communicate.
+The findings position GenAI-based pronunciation feedback as a promising, low-pressure supplement to traditional teacher and [[peer-assessment|peer feedback]] for [[language-learning]], particularly in contexts (like China) where limited authentic English interaction and "mute English" make pronunciation anxiety a barrier to speaking. Because GenAI feedback is immediate, repeatable, personalized, and perceived as less judgmental, it may build learners' pronunciation self-efficacy and, through it, their readiness to speak. For practitioners, this supports integrating AI pronunciation tools as ongoing speaking practice that complements — not replaces — classroom feedback, while the partial mediation highlights that confidence and psychological safety, not just accuracy, are central to why such feedback helps learners communicate.
 
 ## Limitations
 
@@ -42,7 +42,7 @@ The cross-sectional design precludes causal inference, and the convenience sampl
 - [[motivation]]
 - [[feedback]]
 - [[personalized-learning]]
-
+- [[speech-and-voice-technologies]]
 ## Connected Articles
 
 - [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition

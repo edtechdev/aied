@@ -3,7 +3,7 @@ title: "GIFT-AI: Teaching the Game and Leveling the Field: Peer and AI Review + 
 created: "2026-08-13T17:57:54-04:00"
 updated: "2026-08-13"
 type: article
-tags: [ai-feedback-quality, writing-education, ai-literacy, student-experience, peer-review, multilingual-learning, self-regulated-learning, metacognition, equity-in-ai-education]
+tags: [ai-feedback-quality, writing-education, ai-literacy, student-experience, peer-assessment, multilingual-learning, self-regulated-learning, metacognition, equity-in-ai-education]
 research_method: [case study]
 discipline: [writing education]
 audience: [learners]
@@ -27,7 +27,7 @@ This is a Brief [[research-methods-aied|Research]] Report presenting the PAIRR m
 
 ## Implications for AI in Education
 
-The article offers a tested, evidence-based [[curriculum-design|curricular]] model for integrating AI into [[writing-education|professional writing]] instruction — directly relevant to [[peer-review]] and [[formative-assessment]]. It addresses workforce demands (employers rank written communication and [[problem-solving]] highly; AI literacy is now a required "technical skill") by building students' [[ai-literacy]] and communication skills in tandem. For [[student-experience|educational equity]], it argues that underprepared students are less likely to use AI and more likely to misuse it, and that guided AI literacy instruction can "level the playing field" while "teaching the game" of appropriate AI collaboration. It positions AI as a machine tutor (not a teacher replacement), re-centering [[human-in-the-loop-ai|human-in-the-loop]] writing instruction and human relationships, consistent with findings on [[cognitive-offloading|Over-Reliance]] risk, and connects to multilingual writing, linguistic justice, and [[academic-integrity]] in the AI era.
+The article offers a tested, evidence-based [[curriculum-design|curricular]] model for integrating AI into [[writing-education|professional writing]] instruction — directly relevant to [[peer-assessment]] and [[formative-assessment]]. It addresses workforce demands (employers rank written communication and [[problem-solving]] highly; AI literacy is now a required "technical skill") by building students' [[ai-literacy]] and communication skills in tandem. For [[student-experience|educational equity]], it argues that underprepared students are less likely to use AI and more likely to misuse it, and that guided AI literacy instruction can "level the playing field" while "teaching the game" of appropriate AI collaboration. It positions AI as a machine tutor (not a teacher replacement), re-centering [[human-in-the-loop-ai|human-in-the-loop]] writing instruction and human relationships, consistent with findings on [[cognitive-offloading|Over-Reliance]] risk, and connects to multilingual writing, linguistic justice, and [[academic-integrity]] in the AI era.
 
 ## Limitations
 
@@ -39,7 +39,7 @@ As a Brief Research Report focused on one course, the study's findings are large
 - [[writing-education]]
 - [[ai-literacy]]
 - [[student-experience]]
-- [[peer-review]]
+- [[peer-assessment]]
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[academic-integrity]]

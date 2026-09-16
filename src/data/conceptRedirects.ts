@@ -23,6 +23,7 @@ export const CONCEPT_REDIRECTS: Record<string, string> = {
   'instructional-design': 'learning-design',
   'mooc': 'online-teaching-and-learning',
   'over-reliance': 'cognitive-offloading',
+  'peer-review': 'peer-assessment',
   'plagiarism-detection': 'ai-detection',
   'programming-education': 'cs-education',
   'social-robots': 'educational-robotics',

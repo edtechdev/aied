@@ -1,7 +1,7 @@
 ---
 title: Explainable AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-09-08T13:30:42-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, learning-analytics, automated-assessment, bias-mitigation, intelligent-tutoring, human-in-the-loop-ai, pedagogical-safety, metacognition, student-modeling]
 audience: [learners, researchers, designers, educators]
@@ -77,7 +77,7 @@ Explanation quality also has an equity dimension: an explanation that is technic
 - [[cognitive-offloading]]
 - [[privacy]]
 - [[regulation]]
-
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (collaborative vs. raw explanations)
 - [[xai-education-framework]] — XAI-ED: the foundational framework for explainable AI in education (Khosravi et al. 2022)

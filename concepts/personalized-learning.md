@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-16T14:40:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 audience: [learners]
@@ -92,7 +92,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[edtech-platform]] — Platforms that deliver personalized learning at scale
 - [[higher-ed]] — Higher-education context for personalization
 - [[online-teaching-and-learning]] — Online Teaching and Learning
-
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)

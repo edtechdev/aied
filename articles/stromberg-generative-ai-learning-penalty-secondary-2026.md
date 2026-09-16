@@ -1,7 +1,7 @@
 ---
 title: "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education"
 created: "2026-08-19T17:12:00-04:00"
-updated: "2026-08-20T03:52:04-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [generative-ai, cognitive-offloading, reducing-ai-misuse, k-12, assessment, learning-gains, active-learning, rct, equity-in-ai-education]
 research_method: [learning analytics, randomized controlled trial]
@@ -43,7 +43,7 @@ This is a working paper (SSRN preprint) and not yet peer-reviewed. The differenc
 - [[equity-in-ai-education]]
 - [[ai-ed-evaluation]]
 - [[educational-policy-ai]]
-
+- [[parents-and-families]]
 ## Connected Articles
 
 - [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity review

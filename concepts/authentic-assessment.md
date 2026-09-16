@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-09-16T09:58:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, assessment, assessment-validity, formative-assessment, self-regulated-learning, academic-integrity, generative-ai, higher-ed, metacognition]
@@ -83,7 +83,7 @@ The knowledge base argues that authenticity must be designed rather than policed
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
-
+- [[arts-design-and-media-education]]
 ## Connected Articles
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education

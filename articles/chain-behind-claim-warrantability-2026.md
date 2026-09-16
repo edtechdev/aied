@@ -11,7 +11,7 @@ confidence: medium
 sources: ['raw/papers/chain-behind-claim-warrantability-2026.md']
 ---
 
-> **Synthesis:** This essay (Holster, EdArXiv 2026) takes on the credibility problem created when [[llm|large language models]] let education researchers reorganize qualitative corpora in minutes, producing fluent topics, quotations, and prevalence claims whose analytic pathway is concealed. Extending the field's evidence debates and the [[qualitative-research|audit-trail]] tradition into the generative era, it proposes **warrantability** as a standard that complements accuracy and disclosure: an AI-assisted interpretation is warrantable when the pathway from source data to claim remains *inspectable, contestable, and revisable*. To make that concrete it introduces **semantic lenses** — documented reorganizations of a corpus across levels of abstraction — and a claim-relative repertoire of warrant artifacts, from source-linked topic tables to lens stacks and evidence rivers, designed into research tools so that different inferential moves become available for examination, strengthen [[peer-review|peer review]], and widen access to accountable AI-assisted inquiry.
+> **Synthesis:** This essay (Holster, EdArXiv 2026) takes on the credibility problem created when [[llm|large language models]] let education researchers reorganize qualitative corpora in minutes, producing fluent topics, quotations, and prevalence claims whose analytic pathway is concealed. Extending the field's evidence debates and the [[qualitative-research|audit-trail]] tradition into the generative era, it proposes **warrantability** as a standard that complements accuracy and disclosure: an AI-assisted interpretation is warrantable when the pathway from source data to claim remains *inspectable, contestable, and revisable*. To make that concrete it introduces **semantic lenses** — documented reorganizations of a corpus across levels of abstraction — and a claim-relative repertoire of warrant artifacts, from source-linked topic tables to lens stacks and evidence rivers, designed into research tools so that different inferential moves become available for examination, strengthen [[peer-assessment|peer assessment]], and widen access to accountable AI-assisted inquiry.
 
 ## From Boyle's air-pump to the fluent summary
 
@@ -45,7 +45,7 @@ This essay adds a **procedural epistemology** for AI-assisted [[qualitative-rese
 - [[llm]] — the tool class that enables fluent corpus reorganization
 - [[generative-ai]] — the broader technology
 - [[trust-calibration]] — knowing when to trust AI-assisted output
-- [[peer-review]] — strengthened by warrant artifacts
+- [[peer-assessment]] — strengthened by warrant artifacts
 - [[academic-integrity]] — rigor in AI-assisted scholarship
 - [[ethics]] — accountable AI-assisted inquiry
 - [[learning-analytics]] — the data-rich context where such corpora arise

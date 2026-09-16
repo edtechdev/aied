@@ -44,7 +44,7 @@ confidence: high
 ## Connected Concepts
 
 - [[automated-assessment]]
-- [[peer-review]]
+- [[peer-assessment]]
 - [[assessment]]
 - [[feedback]]
 - [[conversational-ai]]

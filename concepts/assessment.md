@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
@@ -92,7 +92,8 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 - [[ai-detection]] — Detecting AI-generated text
 - [[ai-ed-evaluation]] — Methods and benchmarks for evaluating automated assessors
 - [[eportfolio]] — Process-based e-portfolio assessment
-
+- [[speech-and-voice-technologies]]
+- [[peer-assessment]]
 ## Connected Articles
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[mccorkle-aligned-genai-course-policy-2025]] — Task-level AI permissions derived from what is assessed (McCorkle 2025)

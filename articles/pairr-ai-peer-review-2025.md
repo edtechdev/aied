@@ -3,7 +3,7 @@ title: "Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach to Fo
 created: "2026-08-13T17:54:24-04:00"
 updated: "2026-08-13"
 type: article
-tags: [ai-feedback-quality, writing-education, formative-assessment, ai-literacy, student-experience, peer-review, self-regulated-learning, academic-integrity, metacognition]
+tags: [ai-feedback-quality, writing-education, formative-assessment, ai-literacy, student-experience, peer-assessment, self-regulated-learning, academic-integrity, metacognition]
 research_method: [survey]
 discipline: [writing education]
 audience: [learners]
@@ -11,7 +11,7 @@ sources: ['raw/papers/10.1016_j.compcom.2025.102921.md']
 confidence: high
 ---
 
-> **Synthesis:** Sperber et al. (2025) present the Peer and AI Review + Reflection (PAIRR) model, a human-centered approach to formative assessment that combines peer review best practices with AI review while emphasizing [[agency|student agency]] and reflection. In the largest study of college students' use of AI feedback to date (N = 654 across 10 writing courses and three writing-intensive [[stem-education|STEM]] courses at UC Davis), they found that AI feedback is most useful when combined with peer review: the majority of students preferred combined feedback, found the similarity between AI and [[peer-review|peer feedback]] reassuring, valued their complementary perspectives, and developed AI literacy by critically assessing AI outputs.
+> **Synthesis:** Sperber et al. (2025) present the Peer and AI Review + Reflection (PAIRR) model, a human-centered approach to formative assessment that combines peer review best practices with AI review while emphasizing [[agency|student agency]] and reflection. In the largest study of college students' use of AI feedback to date (N = 654 across 10 writing courses and three writing-intensive [[stem-education|STEM]] courses at UC Davis), they found that AI feedback is most useful when combined with peer review: the majority of students preferred combined feedback, found the similarity between AI and [[peer-assessment|peer feedback]] reassuring, valued their complementary perspectives, and developed AI literacy by critically assessing AI outputs.
 
 ## Key Findings
 
@@ -43,7 +43,7 @@ The study's focus was on student perceptions of AI feedback utility, so it did n
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[academic-integrity]]
-- [[peer-review]]
+- [[peer-assessment]]
 
 ## Connected Articles
 
