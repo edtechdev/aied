@@ -1,9 +1,10 @@
 ---
 title: "Writing the Rules for Generative Machines: Tensions and Entanglements in Preservice Teachers' Classroom AI Policies"
 created: "2026-09-14T06:10:00-04:00"
-updated: "2026-09-14T06:10:00-04:00"
+updated: "2026-09-16T15:13:06-04:00"
 type: article
 tags: [generative-ai, educational-policy-ai, teacher-education, writing-education, english-education, critical-thinking, academic-integrity, ai-literacy]
+connected_faqs: [ai-guidance-children-under-13]
 research_method: [qualitative, case study]
 discipline: [english education, writing education]
 level: [secondary, teacher training]

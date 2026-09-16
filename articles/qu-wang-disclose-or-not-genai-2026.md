@@ -1,9 +1,10 @@
 ---
 title: "To disclose or not to disclose: Peer influence and psychological factors in students' use of generative artificial intelligence"
 created: "2026-08-25T09:50:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:13:06-04:00"
 type: article
 tags: [academic-integrity, generative-ai, higher-ed, trust, learning-theories]
+connected_faqs: [ai-guidance-children-under-13]
 research_method: [mixed methods, survey]
 level: [higher ed]
 category: [assessment]
