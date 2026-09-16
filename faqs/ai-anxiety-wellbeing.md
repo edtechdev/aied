@@ -1,7 +1,7 @@
 ---
 title: "How Does AI Affect Student Anxiety and Wellbeing, and What Can We Do?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T16:00:38-04:00"
 weight: 60
 type: faq
 tags: [ai-anxiety-and-stress, well-being, social-emotional-learning, motivation, self-efficacy, student-experience]
@@ -27,7 +27,7 @@ This page answers the practitioner question. For the concept treatment of the em
 
 Two findings complicate the negative-force framing. In a survey of 1,484 Chinese undergraduates, [[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang, Shi and Lu (2026)]] found AI anxiety negatively correlated with emotion regulation (r = −0.172) and academic [[motivation]] (r = −0.175), while emotion regulation correlated positively with motivation (r = 0.457), all p < 0.001; bootstrap analysis confirmed a negative indirect path from anxiety to motivation through emotion regulation (indirect effect = −0.076, 95% CI −0.108 to −0.047), with the direct path still significant. Gender moderated the regulation–motivation link, which was stronger among male students, and daily AI use duration correlated only weakly with motivation (r = 0.053) — a caution against reading time on tool as quality of [[student-engagement|engagement]].
 
-Second, anxiety and engagement can move together. Work summarised on the [[ai-anxiety-and-stress]] concept page finds AI anxiety positively associated with verification and revision behaviours (β = .24, p < .01) and evaluative capacity predicting active engagement (β = .46, p < .001), with students sorting into regulatory types from uncritical reliance to strategic rejection ([[ai-anxiety-strategic-regulation-writing-2026|the strategic-regulation writing study]]). Anxious students who are taught to scrutinise output may therefore become more deliberate users rather than more avoidant ones. Relatedly, a private always-available agent is attractive to students who do not raise distress with parents, teachers or peers — the stigma-driven disclosure pattern [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] describe for Pakistani university students.
+Second, anxiety and engagement can move together. In a survey of 107 students, [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] finds higher AI anxiety positively associated with verification and revision behaviour (β = .24, p < .01) and evaluative capacity predicting active engagement (β = .46, p < .001), sorting students into four regulatory types from uncritical reliance (18.7%) through selective integration (34.6%) and evaluative transformation (31.8%) to strategic rejection (14.9%). The practical implication runs against anxiety-reduction as the goal: teaching scrutiny and evaluative judgement turns anxious students into more deliberate users of [[generative-ai|generative AI]] rather than more avoidant ones, which connects this page to [[verify-ai-output|teaching students to verify AI output]] and to [[ai-literacy]]. Anxious students who are taught to scrutinise output may therefore become more deliberate users rather than more avoidant ones. Relatedly, a private always-available agent is attractive to students who do not raise distress with parents, teachers or peers — the stigma-driven disclosure pattern [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] describe for Pakistani university students.
 
 ## The levers with evidence behind them
 
