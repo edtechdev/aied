@@ -1,16 +1,14 @@
 ---
 title: "Designing Large Language Model-Based Agents with the 5E Framework for ESL Learners' Grammar Acquisition"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/llm-agents-5e-esl-grammar-2026.md"]
 tags: ['llm', 'language-learning', 'inquiry-based-learning', 'agentic-ai']
 confidence: medium
 ---
 
-## Overview
-
-Yang, Weng, and Yang investigate how LLM-based agents can support English as a Second Language (ESL) learners in acquiring grammar. They designed two [[agentic-ai|AI agents]] — one acting as a **conventional English teacher** and another using the **5E framework** (engage, explore, explain, elaborate, evaluate) for inquiry-based learning. **Thirty-seven ESL students** were randomly divided between the two agent conditions, with pre- and post-tests and interviews used to examine [[motivation|intrinsic motivation]], cognitive change, and performance.
+> **Synthesis:** Yang, Weng, and Yang investigate how LLM-based agents can support English as a Second Language (ESL) learners in acquiring grammar. They designed two [[agentic-ai|AI agents]] — one acting as a **conventional English teacher** and another using the **5E framework** (engage, explore, explain, elaborate, evaluate) for inquiry-based learning. **Thirty-seven ESL students** were randomly divided between the two agent conditions, with pre- and post-tests and interviews used to examine [[motivation|intrinsic motivation]], cognitive change, and performance.
 
 ## Key Findings
 

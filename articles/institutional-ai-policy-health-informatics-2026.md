@@ -1,7 +1,7 @@
 ---
 title: "Institutional approaches to artificial intelligence policy and guidance in health informatics and information management education: emerging trends and inconsistencies"
 created: "2026-09-15T17:05:00-04:00"
-updated: "2026-09-15T17:05:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [academic-integrity, educational-policy-ai, governance, higher-ed, medical-education, privacy, professional-training, curriculum-design, generative-ai, ethics]
 sources: ['raw/papers/institutional-ai-policy-health-informatics-2026.md']
@@ -13,7 +13,7 @@ category: [policy, curriculum design, equity]
 confidence: high
 ---
 
-> **Institutional approaches to AI policy and guidance in health informatics and information management education** — A convergent [[mixed-methods-research|mixed-methods]] environmental scan of all 48 CAHIIM-accredited health informatics (HI) and health information management (HIM) master's programs in the United States found that 40 programs (83%) published at least one AI-related document, but most of those documents function as advisory guidance rather than formal policy. Content clusters tightly around [[academic-integrity]] and responsible student conduct, while [[privacy]], intellectual property, health-data [[regulation]], and equitable access appear far less often, and health-data terms such as electronic health records are absent entirely. Latent Dirichlet Allocation topic modeling identified four themes: academic integrity and student AI use, student use of [[generative-ai|generative AI]] tools, AI and data tools in university research, and student engagement with ChatGPT. The authors argue that [[educational-policy-ai|academic AI policy]] in HI and HIM education has been separated from [[curriculum-design]] and from healthcare [[governance]] competencies, leaving [[professional-training|professional preparation]] for AI governance outside the reach of the documents that students actually receive.
+> **Synthesis:** **Institutional approaches to AI policy and guidance in health informatics and information management education** — A convergent [[mixed-methods-research|mixed-methods]] environmental scan of all 48 CAHIIM-accredited health informatics (HI) and health information management (HIM) master's programs in the United States found that 40 programs (83%) published at least one AI-related document, but most of those documents function as advisory guidance rather than formal policy. Content clusters tightly around [[academic-integrity]] and responsible student conduct, while [[privacy]], intellectual property, health-data [[regulation]], and equitable access appear far less often, and health-data terms such as electronic health records are absent entirely. Latent Dirichlet Allocation topic modeling identified four themes: academic integrity and student AI use, student use of [[generative-ai|generative AI]] tools, AI and data tools in university research, and student engagement with ChatGPT. The authors argue that [[educational-policy-ai|academic AI policy]] in HI and HIM education has been separated from [[curriculum-design]] and from healthcare [[governance]] competencies, leaving [[professional-training|professional preparation]] for AI governance outside the reach of the documents that students actually receive.
 
 ## Key Findings
 

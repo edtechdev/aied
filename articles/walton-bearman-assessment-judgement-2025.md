@@ -1,7 +1,7 @@
 ---
 title: "How university students work on assessment tasks with generative AI: matters of judgement"
 created: "2026-08-25T14:00:00-04:00"
-updated: "2026-08-25T14:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [assessment, academic-integrity, generative-ai, higher-ed, ai-literacy, cognitive-offloading, student-experience]
 research_method: [qualitative, interviews]
@@ -12,7 +12,7 @@ sources: ['raw/papers/walton-bearman-assessment-judgement-2025.md']
 confidence: high
 ---
 
-> **How university students work on assessment tasks with [[generative-ai|generative AI]]: matters of judgement** — a [[qualitative-research|qualitative]] [[multimodal]] study of **26 Australian university students** using a scroll-back interview approach to reconstruct how students exercise **judgement** as they work with GenAI on assessment tasks. Walton, Bearman, Crawford, Tai & Boud (2025) identify **six categories of judgement events**, revealing a wide spectrum — from critically evaluating GenAI knowledge to uncritically submitting AI content.
+> **Synthesis:** **How university students work on assessment tasks with [[generative-ai|generative AI]]: matters of judgement** — a [[qualitative-research|qualitative]] [[multimodal]] study of **26 Australian university students** using a scroll-back interview approach to reconstruct how students exercise **judgement** as they work with GenAI on assessment tasks. Walton, Bearman, Crawford, Tai & Boud (2025) identify **six categories of judgement events**, revealing a wide spectrum — from critically evaluating GenAI knowledge to uncritically submitting AI content.
 
 Walton et al. (2025) shift the assessment debate from *whether* students use GenAI to *how* they judge their way through working with it. Using the scroll-back method (revisiting students' actual historical GenAI interactions during interviews), the study offers a fine-grained account of student decision-making in real assessment contexts — spanning responsible, critical use and problematic shortcuts.
 

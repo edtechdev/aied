@@ -1,14 +1,14 @@
 ---
 title: What differentiates educational literature? A multimodal fusion approach of transformers and computational linguistics
 created: "2026-09-03T13:40:00-04:00"
-updated: "2026-09-03T13:40:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [educational-nlp, english-education, multimodal, llm, machine-learning, k-12, curriculum-design, learning-analytics]
 sources: ['raw/papers/bird-multimodal-educational-literature-2026.md']
 confidence: high
 ---
 
-> **What differentiates educational literature? A multimodal fusion approach of transformers and computational linguistics** — Bird (2026) proposes a [[multimodal]] framework that fuses transformer-based text classification with computational-linguistics feature analysis to align English literature with UK Key Stages for readability. Late fusion of a fine-tuned ELECTRA transformer with a searched deep neural network reached an F1 of 0.996, far surpassing every unimodal model, and the approach is packaged into a stakeholder-facing web application for educators. The work advances [[educational-nlp]] and [[english-education]] by making scalable, data-driven readability and [[curriculum-design|curriculum]] alignment accessible to non-technical teachers.
+> **Synthesis:** **What differentiates educational literature? A multimodal fusion approach of transformers and computational linguistics** — Bird (2026) proposes a [[multimodal]] framework that fuses transformer-based text classification with computational-linguistics feature analysis to align English literature with UK Key Stages for readability. Late fusion of a fine-tuned ELECTRA transformer with a searched deep neural network reached an F1 of 0.996, far surpassing every unimodal model, and the approach is packaged into a stakeholder-facing web application for educators. The work advances [[educational-nlp]] and [[english-education]] by making scalable, data-driven readability and [[curriculum-design|curriculum]] alignment accessible to non-technical teachers.
 
 ## Key Findings
 

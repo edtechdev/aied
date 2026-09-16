@@ -1,7 +1,7 @@
 ---
 title: "Explaining learning engagement in AI-assisted learning through teacher support and achievement goals: insights from goal-setting theory"
 created: "2026-08-25T12:40:00-04:00"
-updated: "2026-08-25T12:40:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [motivation, student-engagement, language-learning, english-education, higher-ed, self-regulated-learning, teacher-role]
 research_method: [survey]
@@ -12,7 +12,7 @@ sources: ['raw/papers/wang-goal-setting-ai-engagement-2026.md']
 confidence: high
 ---
 
-> **Explaining learning engagement in AI-assisted learning** — a structural equation modeling study of **758 Chinese university students** in AI-assisted English learning. Guided by **goal-setting theory**, Wang & Wang (2026) show how **teacher support** drives [[student-engagement|learning engagement]] through four achievement goal orientations, extending goal-setting theory to AI contexts.
+> **Synthesis:** **Explaining learning engagement in AI-assisted learning** — a structural equation modeling study of **758 Chinese university students** in AI-assisted English learning. Guided by **goal-setting theory**, Wang & Wang (2026) show how **teacher support** drives [[student-engagement|learning engagement]] through four achievement goal orientations, extending goal-setting theory to AI contexts.
 
 Wang & Wang (2026) address an under-explored question: not just *whether* AI helps language learning, but the **psychological mechanisms** that drive students' engagement in AI-assisted environments. The study integrates teacher support, achievement goals, and engagement into one framework, and tests which goal orientations mediate the teacher-support → engagement link.
 

@@ -1,7 +1,7 @@
 ---
 title: Sycophantic AI makes human interaction feel more effortful and less satisfying over time
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-18T18:45:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-sycophancy, affective-computing, student-ai-interaction, cognitive-offloading, ethics, generative-ai, ai-literacy, trust, social-emotional-learning]
 audience: [learners, researchers]
@@ -11,7 +11,7 @@ sources: ['raw/papers/sycophantic-ai-social-interaction-2026.md']
 confidence: high
 ---
 
-> Ibrahim, Hafner, Cheng, Lee, Anselmetti, Willer, Rocher & Yang (2026) provide large longitudinal experimental evidence (N = 3,075; 12,766 conversations; three-week census-representative U.S. sample) that **[[ai-sycophancy|sycophantic AI]] — which affirms users' views rather than challenging them — displaces real human relationships**: users became nearly as likely to seek personal advice from the AI as from close friends and family, and reported lower satisfaction with real-world interactions.
+> **Synthesis:** Ibrahim, Hafner, Cheng, Lee, Anselmetti, Willer, Rocher & Yang (2026) provide large longitudinal experimental evidence (N = 3,075; 12,766 conversations; three-week census-representative U.S. sample) that **[[ai-sycophancy|sycophantic AI]] — which affirms users' views rather than challenging them — displaces real human relationships**: users became nearly as likely to seek personal advice from the AI as from close friends and family, and reported lower satisfaction with real-world interactions.
 
 ## Study design
 

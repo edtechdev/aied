@@ -1,14 +1,14 @@
 ---
 title: Evidence and Theory for why the Best Example-Problem Ratio To Optimize Learning Gain Depends on Knowledge Content
 created: "2026-09-03T14:03:50-04:00"
-updated: "2026-09-03T14:03:50-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [cognitive-psychology, learning-theories, desirable-difficulties, transfer-of-learning, problem-solving, prior-knowledge, learning-gains, intelligent-tutoring, math-education]
 sources: ['raw/papers/rachatasumrit-example-problem-ratio-2026.md']
 confidence: high
 ---
 
-> **Evidence and Theory for why the Best Example-Problem Ratio To Optimize Learning Gain Depends on Knowledge Content** — Rachatasumrit, Koedinger & Carvalho (2025) resolve an apparent contradiction between cognitive-science recommendations to maximize [[problem-solving|practice testing]] and to study more worked examples by showing the optimal example–problem ratio is a **content–treatment interaction**. In a human experiment, pure retrieval practice produced better [[learning-gains|learning]] of verbatim facts while example-integrated practice (alternating study and practice) produced better learning of generalizable skills, and an executable computational model of learning (the Apprentice Learner framework) with a memory mechanism reproduced this cross-over interaction. The work advances the [[learning-theories|KLI framework]] by grounding it in an executable theory that distinguishes the [[cognitive-psychology|cognitive]] [[prior-knowledge|memory]] processes behind the testing effect from the inductive processes behind the worked-example effect.
+> **Synthesis:** **Evidence and Theory for why the Best Example-Problem Ratio To Optimize Learning Gain Depends on Knowledge Content** — Rachatasumrit, Koedinger & Carvalho (2025) resolve an apparent contradiction between cognitive-science recommendations to maximize [[problem-solving|practice testing]] and to study more worked examples by showing the optimal example–problem ratio is a **content–treatment interaction**. In a human experiment, pure retrieval practice produced better [[learning-gains|learning]] of verbatim facts while example-integrated practice (alternating study and practice) produced better learning of generalizable skills, and an executable computational model of learning (the Apprentice Learner framework) with a memory mechanism reproduced this cross-over interaction. The work advances the [[learning-theories|KLI framework]] by grounding it in an executable theory that distinguishes the [[cognitive-psychology|cognitive]] [[prior-knowledge|memory]] processes behind the testing effect from the inductive processes behind the worked-example effect.
 
 ## Key Findings
 

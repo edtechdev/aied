@@ -1,7 +1,7 @@
 ---
 title: Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-education, stem-education, curriculum-design, open-source, professional-training, llm, rag]
 research_method: [survey]
@@ -11,9 +11,7 @@ sources: ['raw/papers/2608.02599.md']
 confidence: high
 ---
 
-> **An open, executable module library for engineering-grounded AI (EGAI) in power systems education lowers the entry barrier for newcomers, with a progressive difficulty ladder from DNN templates to [[physics-education|physics]]-informed neural networks, delivered via IEEE online course and PES webinars.**
-
-**Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li** — arXiv (cs.AI / eess.SY) preprint, 2026 (University of Tennessee, IEEE PES).
+> **Synthesis:** **Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li** — arXiv (cs.AI / eess.SY) preprint, 2026 (University of Tennessee, IEEE PES).
 
 ## Synthesis
 

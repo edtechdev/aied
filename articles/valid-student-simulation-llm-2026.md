@@ -1,7 +1,7 @@
 ---
 title: "Towards Valid Student Simulation with Large Language Models"
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-08-24T04:56:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [simulating-students, llm, student-modeling, cognitive-psychology, ai-ed-evaluation, generative-ai, adaptive-learning, ethics]
 audience: [software developers]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2601.05473.md']
 confidence: high
 ---
 
-> Yuan et al. (2026) present a conceptual and [[research-methods-aied|methodological]] framework for valid LLM-based [[simulating-students|student simulation]]. They identify the **competence paradox** — broadly capable LLMs asked to emulate partially knowledgeable learners produce unrealistic error patterns and learning dynamics — and reframe student simulation as a constrained generation problem governed by an explicit **Epistemic State Specification (ESS)** that defines what a simulated learner can access, how its errors are structured, and how its state evolves over time. The paper argues for **epistemic fidelity over surface realism** as a prerequisite for using simulated students as reliable scientific and pedagogical instruments.
+> **Synthesis:** Yuan et al. (2026) present a conceptual and [[research-methods-aied|methodological]] framework for valid LLM-based [[simulating-students|student simulation]]. They identify the **competence paradox** — broadly capable LLMs asked to emulate partially knowledgeable learners produce unrealistic error patterns and learning dynamics — and reframe student simulation as a constrained generation problem governed by an explicit **Epistemic State Specification (ESS)** that defines what a simulated learner can access, how its errors are structured, and how its state evolves over time. The paper argues for **epistemic fidelity over surface realism** as a prerequisite for using simulated students as reliable scientific and pedagogical instruments.
 
 ## Key Findings
 

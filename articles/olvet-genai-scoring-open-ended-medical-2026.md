@@ -1,7 +1,7 @@
 ---
 title: Can Generative Artificial Intelligence Reliably Score Open-Ended Question Assessments in Undergraduate Medical Education?
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ['generative-ai', 'automated-assessment', 'medical-education', 'assessment', 'llm']
 sources:
@@ -9,7 +9,7 @@ sources:
 confidence: high
 ---
 
-> **Can Generative Artificial Intelligence Reliably Score Open-Ended Question Assessments in Undergraduate Medical Education?** — This study tested whether [[generative-ai]] (GPT-4) could reliably score [[automated-assessment|open-ended question]] exams in [[medical-education|undergraduate medical education]]. Across three iterations of [[prompt-engineering|rubric engineering]] at two US medical schools, inter-rater reliability between AI and faculty reached substantial-to-almost-perfect levels (weighted kappa up to 0.94) for three of four questions. The authors argue generative AI can [[automated-assessment|score OEQs]] reliably when humans remain in the loop to iteratively refine scoring rubrics based on error pattern analysis.
+> **Synthesis:** **Can Generative Artificial Intelligence Reliably Score Open-Ended Question Assessments in Undergraduate Medical Education?** — This study tested whether [[generative-ai]] (GPT-4) could reliably score [[automated-assessment|open-ended question]] exams in [[medical-education|undergraduate medical education]]. Across three iterations of [[prompt-engineering|rubric engineering]] at two US medical schools, inter-rater reliability between AI and faculty reached substantial-to-almost-perfect levels (weighted kappa up to 0.94) for three of four questions. The authors argue generative AI can [[automated-assessment|score OEQs]] reliably when humans remain in the loop to iteratively refine scoring rubrics based on error pattern analysis.
 
 ## Key Findings
 

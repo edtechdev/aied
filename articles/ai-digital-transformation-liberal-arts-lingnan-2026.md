@@ -1,16 +1,14 @@
 ---
 title: "AI for Education: The Digital Transformation of a Liberal Arts Institution — Implementation at Lingnan University"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-01T12:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/ai-digital-transformation-liberal-arts-lingnan-2026.md"]
 tags: ["higher-ed", "generative-ai", "human-in-the-loop-ai", "humanities-education", "change-management", "curriculum-design"]
 confidence: medium
 ---
 
-## Overview
-
-Qin offers a position paper and [[governance|institutional]] case analysis of how Lingnan University — Hong Kong's longest-established [[higher-ed|higher education]] institution — is strategically transforming itself into a "[[research-methods-aied|Research]]-Intensive Liberal Arts Institution in the Digital Era" without relinquishing its [[humanities-education|humanistic]] foundations. Framed through sociotechnical systems (STS) theory, the analysis spans four interrelated dimensions: upgrading [[ai-education|instructional practice]] through AI, prioritizing irreplaceable human competencies, renewing [[curriculum-design|curricula]], and retaining [[ethics|ethical]] and cultural value systems. The paper argues that the [[generative-ai|GenAI]] revolution constitutes an intellectual rather than a technocentric transformation, positioning digital fluency as a core liberal arts competency and proposing a [[human-in-the-loop-ai|human-in-the-loop]] educational model as a blueprint for harmonizing technological innovation with enduring moral and intellectual aims.
+> **Synthesis:** Qin offers a position paper and [[governance|institutional]] case analysis of how Lingnan University — Hong Kong's longest-established [[higher-ed|higher education]] institution — is strategically transforming itself into a "[[research-methods-aied|Research]]-Intensive Liberal Arts Institution in the Digital Era" without relinquishing its [[humanities-education|humanistic]] foundations. Framed through sociotechnical systems (STS) theory, the analysis spans four interrelated dimensions: upgrading [[ai-education|instructional practice]] through AI, prioritizing irreplaceable human competencies, renewing [[curriculum-design|curricula]], and retaining [[ethics|ethical]] and cultural value systems. The paper argues that the [[generative-ai|GenAI]] revolution constitutes an intellectual rather than a technocentric transformation, positioning digital fluency as a core liberal arts competency and proposing a [[human-in-the-loop-ai|human-in-the-loop]] educational model as a blueprint for harmonizing technological innovation with enduring moral and intellectual aims.
 
 ## Key Findings
 

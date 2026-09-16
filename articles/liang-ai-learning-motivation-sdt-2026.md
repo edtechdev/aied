@@ -1,7 +1,7 @@
 ---
 title: "From disengaged to self-determined: a latent transition analysis of students' AI learning motivation"
 created: "2026-08-25T12:20:00-04:00"
-updated: "2026-08-25T12:20:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [self-determination-theory, motivation, ai-literacy, k-12, student-engagement]
 audience: [instructors, learners]
@@ -11,7 +11,7 @@ sources: ['raw/papers/liang-ai-learning-motivation-sdt-2026.md']
 confidence: high
 ---
 
-> **From disengaged to self-determined** — a year-long study of **2,086 secondary students across 53 schools** in an AI curriculum, using Latent Transition Analysis to map students' [[motivation|AI learning motivation]] over time. Grounded in [[self-determination-theory|Self-Determination Theory]], it identifies **three motivational profiles (Disengaged, Developing, Self-Determined)** at both pre- and post-test, shows most students maintaining or advancing toward higher profiles, and finds that those who reached or stayed in the Self-Determined profile showed the **greatest gains in [[ai-literacy|AI literacy]]**.
+> **Synthesis:** **From disengaged to self-determined** — a year-long study of **2,086 secondary students across 53 schools** in an AI curriculum, using Latent Transition Analysis to map students' [[motivation|AI learning motivation]] over time. Grounded in [[self-determination-theory|Self-Determination Theory]], it identifies **three motivational profiles (Disengaged, Developing, Self-Determined)** at both pre- and post-test, shows most students maintaining or advancing toward higher profiles, and finds that those who reached or stayed in the Self-Determined profile showed the **greatest gains in [[ai-literacy|AI literacy]]**.
 
 Liang, Chiu, Yau, Meng, Yam, Chai & King (2026) extend Self-Determination Theory to the emerging context of **[[ai-education|AI education]]**, moving beyond short-term AI-literacy snapshots to study how students' motivation develops across a sustained curriculum. The central message is that **supporting students' psychological needs** — competence, relatedness, and autonomy — drives sustained [[student-engagement|engagement]] and stronger AI-[[learning-gains|learning outcomes]].
 

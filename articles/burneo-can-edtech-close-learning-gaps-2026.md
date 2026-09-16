@@ -1,7 +1,7 @@
 ---
 title: "Can EdTech Close Learning Gaps? Global Evidence from Digital Interventions"
 created: "2026-08-24T11:55:00-04:00"
-updated: "2026-08-24T11:55:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [meta-analysis-systematic-review, rct, learning-gains, intelligent-tutoring, adaptive-learning, generative-ai, k-12, equity-in-ai-education, ai-ed-evaluation]
 research_method: [meta-analysis, systematic review, randomized controlled trial, learning analytics]
@@ -11,7 +11,7 @@ sources: ['raw/papers/burneo-can-edtech-close-learning-gaps-2026.md']
 confidence: high
 ---
 
-> **In brief:** A World Bank [[meta-analysis-systematic-review|systematic review]] and meta-analysis pools 191 effect sizes from 14 randomized trials across ten economies to estimate that adaptive and AI-enabled educational technology raises student learning by an average of **0.125 standard deviations** relative to traditional instruction — above the median effect for education RCTs and within the range Kraft (2020) calls "large" for field experiments. Crucially, the newer generative-AI tools show **no advantage over the adaptive software that preceded them**, and gains are driven less by which technology is used than by whether it is embedded in a sound instructional strategy.
+> **Synthesis:** **In brief:** A World Bank [[meta-analysis-systematic-review|systematic review]] and meta-analysis pools 191 effect sizes from 14 randomized trials across ten economies to estimate that adaptive and AI-enabled educational technology raises student learning by an average of **0.125 standard deviations** relative to traditional instruction — above the median effect for education RCTs and within the range Kraft (2020) calls "large" for field experiments. Crucially, the newer generative-AI tools show **no advantage over the adaptive software that preceded them**, and gains are driven less by which technology is used than by whether it is embedded in a sound instructional strategy.
 
 The review brings two "generations" of adaptive educational technology into a common framework under common [[inclusive-learning|inclusion]] criteria and on a common effect-size scale: first-generation tools that select from content authored in advance ([[adaptive-learning|adaptive computer-assisted learning]], [[intelligent-tutoring|intelligent tutoring systems]] such as Mindspark), and second-generation [[generative-ai|generative AI]] tools that generate instructional content at the point of use (Rori in Ghana, GPT-based tutors in Türkiye). Using robust variance estimation (RVE) meta-regression, the authors retain every extracted outcome per study rather than one estimate each — a [[research-methods-aied|methodological]] choice that matters because within-study variation across outcome measures is as wide as variation across studies.
 

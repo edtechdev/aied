@@ -1,7 +1,7 @@
 ---
 title: "OATutor: An Open-source Adaptive Tutoring System and Curated Content Library for Learning Sciences Research"
 created: "2026-08-12T21:26:01-04:00"
-updated: "2026-08-25T17:30:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, adaptive-learning, open-source, knowledge-tracing, math-education, higher-ed, personalized-learning, edtech-platform]
 audience: [software developers]
@@ -13,7 +13,7 @@ sources: ['raw/papers/oatutor-open-source-adaptive-tutor-2023.md']
 confidence: high
 ---
 
-> OATutor (Open Adaptive Tutor) is the first open-source adaptive tutoring system built on Intelligent Tutoring System (ITS) principles, developed at UC Berkeley's CAHL Lab. It combines an MIT-licensed, fully engineered codebase with a Creative Commons (CC BY) algebra content library, knowledge tracing, A/B testing infrastructure, and LTI support — designed to democratize adaptive learning research by removing the barrier to replicating and extending experiments that proprietary platforms create.
+> **Synthesis:** OATutor (Open Adaptive Tutor) is the first open-source adaptive tutoring system built on Intelligent Tutoring System (ITS) principles, developed at UC Berkeley's CAHL Lab. It combines an MIT-licensed, fully engineered codebase with a Creative Commons (CC BY) algebra content library, knowledge tracing, A/B testing infrastructure, and LTI support — designed to democratize adaptive learning research by removing the barrier to replicating and extending experiments that proprietary platforms create.
 
 Despite decades of validated tutoring principles, no adaptive tutoring system had been both fully featured and open-sourced to the research community. This absence forced adaptive learning research onto a small number of proprietary platforms, raising the barrier to entry for [[research-methods-aied|researchers]] wanting to replicate, extend, or field adaptive-learning experiments. OATutor addresses this gap, delivering a system that others can fork, experiment with, and A/B test component-by-component.
 

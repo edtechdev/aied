@@ -1,7 +1,7 @@
 ---
 title: "Beyond a single role: Justifying a role-adaptive framework for AI companions through a comparative study in elementary book talk"
 created: "2026-09-02T09:45:00-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ['conversational-ai', 'pedagogical-agent', 'human-ai-collaboration', 'k-12', 'generative-ai']
 connected_faqs: [ai-guidance-children-under-13]
@@ -14,7 +14,7 @@ confidence: high
 
 ---
 
-> **Beyond a single role.** A formative within-subjects study by Chang-Yen Liao (2026) comparing how 19 elementary students in Taiwan talk about books with a **single-role AI companion** (fixed "student peer") versus an **experienced human teacher**. The AI sustained **significantly longer interactions** but did so at the cost of **student [[agency]]** — students contributed a markedly lower proportion of words and sentences (Grade 5 less than a third of teacher-led sessions). The AI was effective at eliciting **factual recall** ("Facts" in the 4F framework) but significantly weaker than the teacher at prompting **emotional ("Feelings") and future-oriented ("Future") reflection** — an "[[affective-computing|affective ceiling]]." These gaps empirically justify a **Role-Adaptive AI Companion Framework**: a Modular Adaptive Agent, inspired by multi-agent systems, that can switch between Student Peer, Teacher Assistant, and Parent Advisor roles.
+> **Synthesis:** **Beyond a single role.** A formative within-subjects study by Chang-Yen Liao (2026) comparing how 19 elementary students in Taiwan talk about books with a **single-role AI companion** (fixed "student peer") versus an **experienced human teacher**. The AI sustained **significantly longer interactions** but did so at the cost of **student [[agency]]** — students contributed a markedly lower proportion of words and sentences (Grade 5 less than a third of teacher-led sessions). The AI was effective at eliciting **factual recall** ("Facts" in the 4F framework) but significantly weaker than the teacher at prompting **emotional ("Feelings") and future-oriented ("Future") reflection** — an "[[affective-computing|affective ceiling]]." These gaps empirically justify a **Role-Adaptive AI Companion Framework**: a Modular Adaptive Agent, inspired by multi-agent systems, that can switch between Student Peer, Teacher Assistant, and Parent Advisor roles.
 
 ## Overview
 

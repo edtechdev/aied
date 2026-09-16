@@ -1,14 +1,14 @@
 ---
 title: "Assisting the grading of a handwritten general chemistry exam with artificial intelligence"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [automated-assessment, chemistry-education, llm, multimodal, summative-assessment, human-in-the-loop-ai, item-response-theory, educational-measurement, trust]
 sources: ['raw/papers/cvengros-grading-handwritten-chemistry-ai-2026.md']
 confidence: high
 ---
 
-> **Assisting the grading of a handwritten general chemistry exam with artificial intelligence** — Cvengros and Kortemeyer report a case study in which a multimodal, reasoning-capable [[llm|LLM]] graded a 296-student, handwritten general chemistry final exam page-by-page against rubric images, finding high agreement with human teaching-assistant scores for textual answers and chemical reaction equations but unreliable performance for drawing and graphing tasks. The authors develop confidence-filtering strategies — partial-credit thresholds, [[item-response-theory|IRT]]-based risk thresholds, and problem-type exclusion — that convert raw AI scoring into a selective accept/deferral policy for [[human-in-the-loop-ai|human oversight]]. The work demonstrates a practical path toward [[automated-assessment]] of open-ended, [[multimodal]] handwritten work in [[chemistry-education|chemistry]] and, more broadly, [[science-education]].
+> **Synthesis:** **Assisting the grading of a handwritten general chemistry exam with artificial intelligence** — Cvengros and Kortemeyer report a case study in which a multimodal, reasoning-capable [[llm|LLM]] graded a 296-student, handwritten general chemistry final exam page-by-page against rubric images, finding high agreement with human teaching-assistant scores for textual answers and chemical reaction equations but unreliable performance for drawing and graphing tasks. The authors develop confidence-filtering strategies — partial-credit thresholds, [[item-response-theory|IRT]]-based risk thresholds, and problem-type exclusion — that convert raw AI scoring into a selective accept/deferral policy for [[human-in-the-loop-ai|human oversight]]. The work demonstrates a practical path toward [[automated-assessment]] of open-ended, [[multimodal]] handwritten work in [[chemistry-education|chemistry]] and, more broadly, [[science-education]].
 
 ## Key Findings
 

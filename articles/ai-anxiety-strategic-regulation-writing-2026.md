@@ -1,7 +1,7 @@
 ---
 title: "From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI into a Strategic Learning Resource"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-25T10:10:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, ai-literacy, higher-ed, student-experience, ethics, academic-integrity, self-regulated-learning, metacognition, critical-thinking]
 research_method: [mixed methods]
@@ -11,7 +11,7 @@ sources: ['raw/papers/10.1016_j.caeai.2026.100622.md']
 confidence: high
 ---
 
-Eunjeo Kim (2026) examined how university students engage with [[generative-ai|generative AI]] as a strategic learning resource in [[writing-education|academic writing]] tasks, focusing on the role of AI anxiety — a central construct of the knowledge base's [[ai-anxiety-and-stress]] concept. Using an explanatory sequential [[mixed-methods-research|mixed-methods]] design, the study collected survey data and post-task written reflections from 107 university students.
+> **Synthesis:** Eunjeo Kim (2026) examined how university students engage with [[generative-ai|generative AI]] as a strategic learning resource in [[writing-education|academic writing]] tasks, focusing on the role of AI anxiety — a central construct of the knowledge base's [[ai-anxiety-and-stress]] concept. Using an explanatory sequential [[mixed-methods-research|mixed-methods]] design, the study collected survey data and post-task written reflections from 107 university students.
 
 ## Key Findings
 

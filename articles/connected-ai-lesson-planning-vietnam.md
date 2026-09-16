@@ -1,7 +1,7 @@
 ---
 title: "ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, generative-ai, k-12, curriculum-design, teacher-role, global-south]
 research_method: [system development]
@@ -12,10 +12,7 @@ sources: ['raw/papers/2607.28647.md']
 confidence: high
 ---
 
-> **Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy** — arXiv preprint (2026).
-## Synthesis
-
-ConnectED is a [[human-in-the-loop-ai|human-centered]] AI system supporting the full instructional lifecycle in Vietnamese education: [[curriculum-design|curriculum-aligned lesson design]], interactive student learning, and [[feedback|feedback-driven refinement]], built on VietEduQwen, a Vietnamese educational [[llm]] trained with SFT and DPO.
+> **Synthesis:** ConnectED is a [[human-in-the-loop-ai|human-centered]] AI system supporting the full instructional lifecycle in Vietnamese education: [[curriculum-design|curriculum-aligned lesson design]], interactive student learning, and [[feedback|feedback-driven refinement]], built on VietEduQwen, a Vietnamese educational [[llm]] trained with SFT and DPO.
 
 The system operationalizes the ADDIE framework through structured prompt templates aligned with Vietnam's Official Dispatch No. 5512/BGDDT-GDTrH, where each phase is both a generation step and a [[teacher-role|teacher validation]] gate — keeping teachers in the loop.
 

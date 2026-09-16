@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking the Pedagogical Knowledge of Large Language Models"
 created: "2026-08-15T15:31:07-04:00"
-updated: "2026-09-12T01:20:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [benchmark, ai-ed-evaluation, educational-measurement, llm, teacher-role, teacher-ai-competency, professional-training, k-12, special-education]
 research_method: [benchmark, educational measurement]
@@ -12,9 +12,7 @@ sources: ['raw/papers/cdpk-pedagogy-benchmark-llms.md']
 confidence: high
 ---
 
-## Summary
-
-Lelièvre et al. (2025) introduce **[The Pedagogy Benchmark](https://www.fab-ai.org/initiatives/ai-for-education/edtech-quality/benchmarks?benchmark=CDPK)**, two multiple-choice [[benchmark|benchmarks]] that evaluate [[llm|large language models]] on their understanding of *[[pedagogy|teaching]]* rather than content knowledge: **Cross-Domain Pedagogical Knowledge (CDPK)** and **[[special-education|Special Educational Needs & Disability]] (SEND)** pedagogy. Both are built on a curated set of questions from professional [[teacher-ai-competency|teacher-development]] exams by the Chilean Ministry of Education's Education Quality Agency and CP EIP, translated from Spanish. Across **97 models**, CDPK accuracy ranged from 28% (Llama-3.2 1B) to 89% (Gemini 2.5 Pro). The authors analyze accuracy vs. inference cost (the Pareto "value frontier") and vs. model size, charting rapid progress over 18 months, and provide online leaderboards for interactive exploration.
+> **Synthesis:** Lelièvre et al. (2025) introduce **[The Pedagogy Benchmark](https://www.fab-ai.org/initiatives/ai-for-education/edtech-quality/benchmarks?benchmark=CDPK)**, two multiple-choice [[benchmark|benchmarks]] that evaluate [[llm|large language models]] on their understanding of *[[pedagogy|teaching]]* rather than content knowledge: **Cross-Domain Pedagogical Knowledge (CDPK)** and **[[special-education|Special Educational Needs & Disability]] (SEND)** pedagogy. Both are built on a curated set of questions from professional [[teacher-ai-competency|teacher-development]] exams by the Chilean Ministry of Education's Education Quality Agency and CP EIP, translated from Spanish. Across **97 models**, CDPK accuracy ranged from 28% (Llama-3.2 1B) to 89% (Gemini 2.5 Pro). The authors analyze accuracy vs. inference cost (the Pareto "value frontier") and vs. model size, charting rapid progress over 18 months, and provide online leaderboards for interactive exploration.
 
 ## Key Findings
 

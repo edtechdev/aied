@@ -1,7 +1,7 @@
 ---
 title: Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-09-08T01:30:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [vibe-coding, cs-education, prompt-engineering, writing-education, computational-thinking, higher-ed, ai-literacy, generative-ai]
 sources: ['raw/papers/2603.14133.md']
@@ -13,7 +13,7 @@ category: [evaluation]
 confidence: high
 ---
 
-In a preregistered cross-sectional study (N = 100 [[higher-ed|tertiary]] students), both [[writing-education|written-communication proficiency]] (r = .29) and computer-science achievement (r = .39) significantly predicted GUI-oriented "vibe coding" performance, with CS achievement remaining a significant predictor after controlling for domain-general cognitive skills — a finding that links prose skill to [[llm]]-driven development; in a joint model CS achievement contributed roughly twice the unique variance of writing skills, though both added independent predictive value, and prompt quality mediated the link from writing skill to vibe-coding success. Findings speak to tool and curriculum design — when to emphasize prompt-writing versus CS fundamentals.
+> **Synthesis:** In a preregistered cross-sectional study (N = 100 [[higher-ed|tertiary]] students), both [[writing-education|written-communication proficiency]] (r = .29) and computer-science achievement (r = .39) significantly predicted GUI-oriented "vibe coding" performance, with CS achievement remaining a significant predictor after controlling for domain-general cognitive skills — a finding that links prose skill to [[llm]]-driven development; in a joint model CS achievement contributed roughly twice the unique variance of writing skills, though both added independent predictive value, and prompt quality mediated the link from writing skill to vibe-coding success. Findings speak to tool and curriculum design — when to emphasize prompt-writing versus CS fundamentals.
 
 **Relevance to [[ai-education|AI in Education]]:** This study reframes writing as a primary programming skill in the era of LLM-native software creation, connecting directly to [[prompt-engineering]] research, the construct of [[vibe-coding|vibe coding]], [[cs-education]] curriculum redesign, and the predictors of who succeeds when AI handles implementation. It provides controlled, preregistered evidence that complements the practice-oriented vibe-coding papers already in this knowledge base.
 

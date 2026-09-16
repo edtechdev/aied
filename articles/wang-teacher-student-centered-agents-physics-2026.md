@@ -1,7 +1,7 @@
 ---
 title: "Comparing teacher-centered and student-centered agents based on prompt engineering: Effects on learning performance, cognitive load, flow experience, and empathy perception in physics learning"
 created: "2026-09-11T00:40:00-04:00"
-updated: "2026-09-11T00:53:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [physics-education, pedagogical-agent, prompt-engineering, generative-ai, llm, intelligent-tutoring, motivation, student-engagement, affective-computing, student-ai-interaction]
 research_method: [experiment, quantitative]
@@ -13,7 +13,7 @@ sources: ['raw/papers/wang-teacher-student-centered-agents-physics-2026.md']
 confidence: high
 ---
 
-> **Teacher-centered versus student-centered LLM agents in physics learning** — Wang et al. (2026) build two prompt-engineered agents on the Coze platform (both powered by DeepSeek R1 at temperature 0.3) and compare them in a two-question conceptual physics task. The **teacher-centered agent** answers as an authoritative expert working from a bounded textbook knowledge source; the **student-centered agent** is configured as an empathic [[teacher-role|teacher]] with [[pedagogy|pedagogical]] content knowledge, diagnosing [[misconceptions]], explaining from the student's perspective, and closing each round by checking comprehension. The student-centered condition produced higher post-test scores (9.67 vs. 7.93), lower extraneous [[cognitive-offloading|cognitive load]] (8.33 vs. 10.76) and higher germane load (14.27 vs. 12.62), stronger flow experience (43.73 vs. 37.97), and higher empathy perception (21.27 vs. 18.24) — evidence that **agent role design, not just model capability, shapes learning and affect** in AI-supported science learning.
+> **Synthesis:** **Teacher-centered versus student-centered LLM agents in physics learning** — Wang et al. (2026) build two prompt-engineered agents on the Coze platform (both powered by DeepSeek R1 at temperature 0.3) and compare them in a two-question conceptual physics task. The **teacher-centered agent** answers as an authoritative expert working from a bounded textbook knowledge source; the **student-centered agent** is configured as an empathic [[teacher-role|teacher]] with [[pedagogy|pedagogical]] content knowledge, diagnosing [[misconceptions]], explaining from the student's perspective, and closing each round by checking comprehension. The student-centered condition produced higher post-test scores (9.67 vs. 7.93), lower extraneous [[cognitive-offloading|cognitive load]] (8.33 vs. 10.76) and higher germane load (14.27 vs. 12.62), stronger flow experience (43.73 vs. 37.97), and higher empathy perception (21.27 vs. 18.24) — evidence that **agent role design, not just model capability, shapes learning and affect** in AI-supported science learning.
 
 ## Overview
 

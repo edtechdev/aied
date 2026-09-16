@@ -1,14 +1,14 @@
 ---
 title: "Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines: Insights From Postgraduate Students"
 created: "2026-09-06T08:12:00-04:00"
-updated: "2026-09-06T08:12:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-literacy, academic-integrity, ethics, higher-ed, generative-ai, llm, governance, self-regulated-learning]
 sources: ['raw/papers/10.1186_s41239-026-00609-6.md']
 confidence: high
 ---
 
-Wei Dai and Cecilia K. Y. Chan (2026) examined how 28 postgraduate research (PGR) students across seven focus groups enacted [[ai-literacy]] in their use of [[generative-ai|generative AI]] for research, arguing that responsible-use guidance must extend beyond [[teacher-role|teaching]] and assessment into the ethically more complex research process. Analysing practices through a four-dimensional AI literacy framework, the study found students' awareness of GenAI's capabilities, limitations, and risks reflected the "Know & Understand" dimension; their diverse, [[discipline-specific-aied|discipline-specific]] applications across the research workflow reflected "Use & Apply"; their self-defined boundaries between ethical and unethical use reflected "Evaluate & Create"; and concerns about output accuracy, originality, [[privacy|data privacy]], and skill degradation reflected the "AI Ethics" dimension. Building on these insights, the authors proposed researcher-oriented GenAI guidelines that foreground each AI literacy dimension across research tasks, positioning the guidelines less as rule enforcement and more as a developmental scaffold for [[higher-ed|researchers']] sustained AI literacy growth.
+> **Synthesis:** Wei Dai and Cecilia K. Y. Chan (2026) examined how 28 postgraduate research (PGR) students across seven focus groups enacted [[ai-literacy]] in their use of [[generative-ai|generative AI]] for research, arguing that responsible-use guidance must extend beyond [[teacher-role|teaching]] and assessment into the ethically more complex research process. Analysing practices through a four-dimensional AI literacy framework, the study found students' awareness of GenAI's capabilities, limitations, and risks reflected the "Know & Understand" dimension; their diverse, [[discipline-specific-aied|discipline-specific]] applications across the research workflow reflected "Use & Apply"; their self-defined boundaries between ethical and unethical use reflected "Evaluate & Create"; and concerns about output accuracy, originality, [[privacy|data privacy]], and skill degradation reflected the "AI Ethics" dimension. Building on these insights, the authors proposed researcher-oriented GenAI guidelines that foreground each AI literacy dimension across research tasks, positioning the guidelines less as rule enforcement and more as a developmental scaffold for [[higher-ed|researchers']] sustained AI literacy growth.
 
 ## Key Findings
 

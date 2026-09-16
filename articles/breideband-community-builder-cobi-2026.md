@@ -1,7 +1,7 @@
 ---
 title: "A Feasibility and Implementation Integrity Study of the Community Builder (CoBi): An AI-based Collaboration Support System in K-12 Classrooms"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags:
   - collaborative-learning
@@ -19,7 +19,7 @@ sources:
 confidence: high
 ---
 
-> **A Feasibility and Implementation Integrity Study of the Community Builder (CoBi): An AI-based Collaboration Support System in K-12 Classrooms** — This paper introduces the Community Builder (CoBi), a classroom-wide AI system that uses speech recognition and language understanding to create non-evaluative, privacy-preserving visualizations of uplifting small-group student discourse, intended to support students' [[collaborative-learning]] skills and community building. Through an interview study with three middle school teachers and 12 students plus two classroom pilots with 61 students across six [[k-12]] classrooms, the authors establish broad student and teacher buy-in, technical feasibility in noisy real-world classrooms, and the central finding that high-integrity use depends on substantial [[professional-training]] for teachers. The work surfaces transferable design principles around [[teacher-role]] facilitation, [[human-in-the-loop-ai]] orchestration, and navigating tensions between privacy, surveillance, and student agency.
+> **Synthesis:** **A Feasibility and Implementation Integrity Study of the Community Builder (CoBi): An AI-based Collaboration Support System in K-12 Classrooms** — This paper introduces the Community Builder (CoBi), a classroom-wide AI system that uses speech recognition and language understanding to create non-evaluative, privacy-preserving visualizations of uplifting small-group student discourse, intended to support students' [[collaborative-learning]] skills and community building. Through an interview study with three middle school teachers and 12 students plus two classroom pilots with 61 students across six [[k-12]] classrooms, the authors establish broad student and teacher buy-in, technical feasibility in noisy real-world classrooms, and the central finding that high-integrity use depends on substantial [[professional-training]] for teachers. The work surfaces transferable design principles around [[teacher-role]] facilitation, [[human-in-the-loop-ai]] orchestration, and navigating tensions between privacy, surveillance, and student agency.
 
 ## Key Findings
 

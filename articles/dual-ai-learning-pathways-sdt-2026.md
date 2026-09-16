@@ -1,16 +1,14 @@
 ---
 title: "How High-School Pressure and Autonomy Support Are Linked to Dual AI Learning Pathways: A Cross-Contextual SEM Analysis"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/dual-ai-learning-pathways-sdt-2026.md"]
 tags: ['generative-ai', 'self-determination-theory', 'quantitative-research']
 confidence: medium
 ---
 
-## Overview
-
-Shen and Arunrugstichai propose a **dual-pathway framework** explaining why students' [[generative-ai|GenAI]] use ranges from constructive support to compulsive dependence. Drawing on **Self-Determination Theory (SDT)** and the **Hook model**, they examine how retrospective reports of high-school learning climate relate to university students' GenAI-use patterns and perceived AI-supported learning quality. Using cross-sectional survey data (**overall N = 508**; China-HS n = 305, non-China-HS n = 203; China-Uni n = 193, Thailand-Uni n = 315), they test the model with structural equation modeling and multi-group analysis.
+> **Synthesis:** Shen and Arunrugstichai propose a **dual-pathway framework** explaining why students' [[generative-ai|GenAI]] use ranges from constructive support to compulsive dependence. Drawing on **Self-Determination Theory (SDT)** and the **Hook model**, they examine how retrospective reports of high-school learning climate relate to university students' GenAI-use patterns and perceived AI-supported learning quality. Using cross-sectional survey data (**overall N = 508**; China-HS n = 305, non-China-HS n = 203; China-Uni n = 193, Thailand-Uni n = 315), they test the model with structural equation modeling and multi-group analysis.
 
 ## Key Findings
 

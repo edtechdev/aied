@@ -1,7 +1,7 @@
 ---
 title: "TeachLM: Post-Training LLMs for Education Using Authentic Learning Data"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [pedagogical-llm-training, llm, simulating-students, privacy, generative-ai, intelligent-tutoring, student-modeling, project-based-learning]
 audience: [software developers]
@@ -10,7 +10,7 @@ confidence: high
 sources: [raw/papers/2510.05087.md]
 ---
 
-> **Post-training an [[llm|LLM]] on *authentic* one-on-one learning data, rather than [[prompt-engineering|prompt engineering]] or synthetic-only data, substantially improves [[pedagogy|pedagogical]] and conversational quality.** TeachLM is fine-tuned (parameter-efficiently) on 100,000 hours of longitudinal, one-on-one student–tutor interactions from the Polygence platform, carefully anonymized for [[privacy]] and consent. The team first trains a high-fidelity **authentic [[student-modeling|student model]]** that generates realistic synthetic student–tutor dialogues, which then enables a novel multi-turn evaluation protocol for benchmarking tutor behavior at scale. Against off-the-shelf models, TeachLM approximately **doubles student talk time**, improves questioning style, increases dialogue turns by 50%, and delivers greater [[personalized-learning|personalization]] of instruction. The work is a direct counterpoint to the paper's finding that elaborate prompt engineering (their earlier "PolyPilot" tutor) could not close the gap with human tutoring.
+> **Synthesis:** **Post-training an [[llm|LLM]] on *authentic* one-on-one learning data, rather than [[prompt-engineering|prompt engineering]] or synthetic-only data, substantially improves [[pedagogy|pedagogical]] and conversational quality.** TeachLM is fine-tuned (parameter-efficiently) on 100,000 hours of longitudinal, one-on-one student–tutor interactions from the Polygence platform, carefully anonymized for [[privacy]] and consent. The team first trains a high-fidelity **authentic [[student-modeling|student model]]** that generates realistic synthetic student–tutor dialogues, which then enables a novel multi-turn evaluation protocol for benchmarking tutor behavior at scale. Against off-the-shelf models, TeachLM approximately **doubles student talk time**, improves questioning style, increases dialogue turns by 50%, and delivers greater [[personalized-learning|personalization]] of instruction. The work is a direct counterpoint to the paper's finding that elaborate prompt engineering (their earlier "PolyPilot" tutor) could not close the gap with human tutoring.
 
 ## Key Findings
 

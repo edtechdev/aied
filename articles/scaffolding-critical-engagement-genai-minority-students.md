@@ -1,7 +1,7 @@
 ---
 title: "Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, scaffolding, equity-in-ai-education, multilingual-learning, prompt-engineering, ai-literacy, k-12, metacognition]
 audience: [learners, instructors]
@@ -11,9 +11,7 @@ sources: ['raw/papers/2607.28630.md']
 confidence: high
 ---
 
-> **Deliang Wang, Cunling Bian** — [[ai-education|AIED]] 2026 (accepted full paper).
-
-**Deliang Wang, Cunling Bian** — AIED 2026 (accepted full paper).
+> **Synthesis:** **Deliang Wang, Cunling Bian** — AIED 2026 (accepted full paper).
 
 ## Synthesis
 

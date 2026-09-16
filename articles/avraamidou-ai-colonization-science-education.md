@@ -1,7 +1,7 @@
 ---
 title: "Can we disrupt the momentum of the AI colonization of science education?"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [critical-pedagogy, science-education, equity-in-ai-education, ethics, ai-education]
 research_method: [theoretical analysis]
@@ -10,7 +10,7 @@ sources: ['raw/papers/avraamidou-ai-colonization-science-education.md']
 confidence: high
 ---
 
-> Avraamidou (2024) critical COMMENT in the *Journal of [[research-methods-aied|Research]] in Science [[teacher-role|Teaching]]*: the uncritical uptake of [[generative-ai]] in science education amounts to an "AI colonization" — extraction of data without consent, algorithmic monoculture, dehumanized learning, and profit-centered reform. She calls for a critical, feminist, values-based disruption toward a human-centered AI that prioritizes justice over profit.
+> **Synthesis:** Avraamidou (2024) critical COMMENT in the *Journal of [[research-methods-aied|Research]] in Science [[teacher-role|Teaching]]*: the uncritical uptake of [[generative-ai]] in science education amounts to an "AI colonization" — extraction of data without consent, algorithmic monoculture, dehumanized learning, and profit-centered reform. She calls for a critical, feminist, values-based disruption toward a human-centered AI that prioritizes justice over profit.
 
 Lucy Avraamidou (2024) writes an explicitly critical **COMMENT** arguing that science education is being *colonized* by the generative AI industry. She contends that educational institutions are "buying into generative AI promises and [[hallucination-risk|hallucinations]]" as a **silver bullet**, and that this uncritical momentum reproduces colonial patterns of exploitation and extraction. The piece is a techno-utopia critique grounded in [[equity-in-ai-education|equity]], accountability, and feminist values, aimed at the science education research community.
 

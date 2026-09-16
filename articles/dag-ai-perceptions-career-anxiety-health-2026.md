@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence perceptions and career anxiety among health sciences students"
 created: "2026-08-25T07:48:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-anxiety-and-stress, adult-learning, social-emotional-learning, higher-ed, medical-education, ai-literacy]
 connected_faqs: [ai-anxiety-wellbeing]
@@ -12,7 +12,7 @@ sources: ['raw/papers/dag-ai-perceptions-career-anxiety-health-2026.md']
 confidence: high
 ---
 
-> **AI perceptions and career anxiety among health sciences students** — a cross-sectional study of **821 health sciences students** across Turkish universities showing a moderate, positive, significant correlation (r = 0.233, p < 0.001) between **AI anxiety and job search anxiety**; AI anxiety remained a significant predictor of job search anxiety even after controlling socio-demographic variables (β = 0.234, p < 0.001).
+> **Synthesis:** **AI perceptions and career anxiety among health sciences students** — a cross-sectional study of **821 health sciences students** across Turkish universities showing a moderate, positive, significant correlation (r = 0.233, p < 0.001) between **AI anxiety and job search anxiety**; AI anxiety remained a significant predictor of job search anxiety even after controlling socio-demographic variables (β = 0.234, p < 0.001).
 
 Dağ, Nal, Topuz, Kılınç, Demir, & Bektaş (2026) extend the career-anxiety evidence base to **[[medical-education|health professions]]**, showing that AI anxiety is not merely an attitude toward technology but a psychological factor shaping students' perceptions of their professional futures and fear of unemployment. This is the fourth empirical career-anxiety study linked to the [[career-development-and-readiness]] concept.
 

@@ -1,16 +1,14 @@
 ---
 title: "Context-aware prompting for collaborative problem solving skill identification"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/context-aware-prompting-cps-skill-identification-2026.md"]
 tags: ["problem-solving", "collaborative-learning", "prompt-engineering", "learning-analytics", "educational-measurement"]
 confidence: medium
 ---
 
-## Overview
-
-Collaborative problem solving (CPS) is a dual-faceted [[problem-solving]] competence spanning a cognitive dimension (individual reasoning about the problem) and a social dimension (coordinating and communicating with others). To assess CPS, [[research-methods-aied|researchers]] typically collect process data from computer-mediated [[collaborative-learning]] tasks and code each logged behavior into predefined CPS skills. Traditional manual coding is labor-intensive and unsuitable for large-scale or real-time analysis, prompting a body of automated coding work. However, most existing automated methods treat each utterance as an isolated instance and overlook the natural dependencies among behaviors in a CPS dialogue — yet the same message can map to different skills depending on context (e.g., "What should we do?" is coded as goal discovery or action-communication depending on the conversation phase).
+> **Synthesis:** Collaborative problem solving (CPS) is a dual-faceted [[problem-solving]] competence spanning a cognitive dimension (individual reasoning about the problem) and a social dimension (coordinating and communicating with others). To assess CPS, [[research-methods-aied|researchers]] typically collect process data from computer-mediated [[collaborative-learning]] tasks and code each logged behavior into predefined CPS skills. Traditional manual coding is labor-intensive and unsuitable for large-scale or real-time analysis, prompting a body of automated coding work. However, most existing automated methods treat each utterance as an isolated instance and overlook the natural dependencies among behaviors in a CPS dialogue — yet the same message can map to different skills depending on context (e.g., "What should we do?" is coded as goal discovery or action-communication depending on the conversation phase).
 
 To address this, the authors propose **CAP4CPS** (Context-Aware Prompting for CPS), an automated coding framework built on [[prompt-engineering]] and [[machine-learning]] that explicitly models contextual dependencies. CAP4CPS comprises three modules: a **Context Extraction (CE)** module that separately pulls the cognitive context (a speaker's own recent dialogue, window size `w_c`) and social context (recent dialogue from other participants, window size `w_s`); a **Context-Infused Prompting (CIP)** module that concatenates these contexts with a manually designed, fixed-prompt [[llm]] template and feeds them into BERT, using the `[MASK]`-token embedding as the ability representation; and an **Ability Fusion (AF)** module that applies multi-head attention to fuse cognitive and social ability embeddings into a unified CPS competency representation used for skill prediction. The model is evaluated on two CPS datasets (Three-Resistor and Mondrian Geometric Fantasy), annotated respectively with the CPS ontology of Andrews-Todd & Kerr and the PISA 2015 framework — linking this work to [[educational-measurement]] and [[educational-nlp]].
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Student Dependency on AI: The Role of AI Literacy, Academic Self-Efficacy, and Resource Management Strategies"
 created: "2026-08-21T13:05:00-04:00"
-updated: "2026-08-21T13:05:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, ai-literacy, self-efficacy, self-regulated-learning, cognitive-offloading, student-engagement, higher-ed, help-seeking, motivation]
 audience: [learners]
@@ -11,9 +11,10 @@ sources: ['raw/papers/student-dependency-on-ai-literacy-self-efficacy-2026.md']
 confidence: medium
 ---
 
+> **Synthesis:** Among 478 Israeli higher-education students, AI literacy is a **double-edged factor**: its skill-based dimensions (using/understanding AI) were *positively* associated with reported AI dependency, while **self-efficacy** (both academic and AI-specific) and **effort [[regulation]]** were *negatively* associated. AI literacy alone does not protect against overreliance — it can even enable it. Self-efficacy beliefs and [[self-regulated-learning|self-regulated learning]] practices appear at least as important as technical skill for balanced, intentional AI [[student-engagement|engagement]].
+
 ## Core Finding
 
-Among 478 Israeli higher-education students, AI literacy is a **double-edged factor**: its skill-based dimensions (using/understanding AI) were *positively* associated with reported AI dependency, while **self-efficacy** (both academic and AI-specific) and **effort [[regulation]]** were *negatively* associated. AI literacy alone does not protect against overreliance — it can even enable it. Self-efficacy beliefs and [[self-regulated-learning|self-regulated learning]] practices appear at least as important as technical skill for balanced, intentional AI [[student-engagement|engagement]].
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents"
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-08-24T05:00:50-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [simulating-students, generative-ai, llm, student-modeling, knowledge-graph, cognitive-diagnosis, agentic-ai, computational-thinking]
 audience: [software developers]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2505.19997.md']
 confidence: high
 ---
 
-> Wu et al. (2025, ACL) tackle the core challenge of [[simulating-students]]: LLMs trained as "helpful assistants" produce overly perfect answers and fail to model the natural imperfections and varied cognitive levels of real learners. They propose a training-free framework that builds a cognitive prototype of each student from a [[knowledge-graph]], predicts performance on new tasks, and iteratively refines simulated solutions via beam search to reproduce realistic mistakes — achieving a 100% improvement in simulation accuracy on a new Student_100 dataset.
+> **Synthesis:** Wu et al. (2025, ACL) tackle the core challenge of [[simulating-students]]: LLMs trained as "helpful assistants" produce overly perfect answers and fail to model the natural imperfections and varied cognitive levels of real learners. They propose a training-free framework that builds a cognitive prototype of each student from a [[knowledge-graph]], predicts performance on new tasks, and iteratively refines simulated solutions via beam search to reproduce realistic mistakes — achieving a 100% improvement in simulation accuracy on a new Student_100 dataset.
 
 A central obstacle to valid student simulation is that LLMs are optimized to generate correct, polished responses. Real students, however, vary in cognitive level and make characteristic mistakes. Simulated students that answer too well — or too randomly — are not faithful models of learners. This paper addresses that gap directly.
 

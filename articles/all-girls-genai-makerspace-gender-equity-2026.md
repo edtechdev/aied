@@ -1,7 +1,7 @@
 ---
 title: "Beyond 'Painting in Pink'"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/all-girls-genai-makerspace-gender-equity-2026.md"]
 tags: ["equity-in-ai-education", "k-12", "generative-ai", "ai-literacy"]
@@ -9,9 +9,7 @@ connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 ---
 
-## Overview
-
-This critical case study examines an all-girls initiative run by a European urban makerspace that integrated two generative AI (GenAI) tools — Playground (a free image generator) and Deforum (a free animation platform) — into workshops about climate change. The initiative was part of a two-year, research-practice partnership across six makerspaces in five countries foregrounding equity and social justice in STEM. The authors analyse [[qualitative-research|qualitative]], [[multimodal]] data including 15 interviews with girls, parents, and practitioners, four reflective sessions, two observation fieldnotes, and 44 GenAI-generated images, interpreted through Harding's (1986) multi-level framework (symbolic, structural, individual) extended by a social level (Sultan et al., 2024) and feminist pedagogy.
+> **Synthesis:** This critical case study examines an all-girls initiative run by a European urban makerspace that integrated two generative AI (GenAI) tools — Playground (a free image generator) and Deforum (a free animation platform) — into workshops about climate change. The initiative was part of a two-year, research-practice partnership across six makerspaces in five countries foregrounding equity and social justice in STEM. The authors analyse [[qualitative-research|qualitative]], [[multimodal]] data including 15 interviews with girls, parents, and practitioners, four reflective sessions, two observation fieldnotes, and 44 GenAI-generated images, interpreted through Harding's (1986) multi-level framework (symbolic, structural, individual) extended by a social level (Sultan et al., 2024) and feminist pedagogy.
 
 While stakeholders generally viewed the all-girls format positively as a safer, more relaxed space, the study argues that the workshops fell short of gender-transformative practice. Practitioners enacted three steps — representation (symbolic), relationship building (social), and a responsive approach (individual) — but persistent challenges revealed the marginalisation of girls' voices, agency, and assets. The paper distinguishes superficial *girlification* ("painting in pink") from genuinely *centring girls*, and proposes a girl-centred, multi-level [[pedagogy|pedagogical]] framework to move equity interventions beyond symbolic-level changes.
 

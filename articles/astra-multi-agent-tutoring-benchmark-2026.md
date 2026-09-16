@@ -1,16 +1,14 @@
 ---
 title: "ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/astra-multi-agent-tutoring-benchmark-2026.md"]
 tags: ["simulation", "agentic-ai", "learning-analytics", "collaborative-learning", "benchmark"]
 confidence: medium
 ---
 
-## Overview
-
-Oyelere introduces **ASTRA (Adaptive Socially-intelligent Team Reasoning Agents)**, a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated [[agentic-ai|AI agents]]. Because research-participant access was not yet available, the paper releases an open **synthetic benchmark dataset** that mirrors ASTRA's logging schema and a prespecified between-subjects design (N = 540 participants; 360 sessions; 1,440 task episodes) across a bank of 20 short Python programming tasks. ASTRA supports three collaboration configurations: *alone_tutor* (one learner with a Tutor agent), *pair_tutor* (two learners with a Tutor agent), and *pair_multiagent* (two learners with both Tutor and Facilitator agents, where the Facilitator prompts coordination and balanced participation).
+> **Synthesis:** Oyelere introduces **ASTRA (Adaptive Socially-intelligent Team Reasoning Agents)**, a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated [[agentic-ai|AI agents]]. Because research-participant access was not yet available, the paper releases an open **synthetic benchmark dataset** that mirrors ASTRA's logging schema and a prespecified between-subjects design (N = 540 participants; 360 sessions; 1,440 task episodes) across a bank of 20 short Python programming tasks. ASTRA supports three collaboration configurations: *alone_tutor* (one learner with a Tutor agent), *pair_tutor* (two learners with a Tutor agent), and *pair_multiagent* (two learners with both Tutor and Facilitator agents, where the Facilitator prompts coordination and balanced participation).
 
 The framework formalises collaborative programming as a partially observable multi-agent process built on a **CASM (Cognitive–[[affective-computing|Affective]]–Social Model)** latent state, decomposed into cognitive (Kₜ), [[metacognition|metacognitive]] (Mₜ), socio-emotional (Sₜ), and group-[[regulation]] (Gₜ) components. Role-differentiated agents — a [[pedagogy|Pedagogical]] Tutor Agent (PTA) focused on conceptual and metacognitive support and a Collaborative Group Agent (CGA)/Facilitator focused on participation and social regulation — condition their policies on an inferred belief state over this latent state, jointly optimising a multi-objective reward over task progress, metacognitive quality, and participation-oriented equity proxies. The prototype is a Streamlit web application backed by an OpenAI [[llm]] client (gpt-4o-mini), with turn- and task-level logging to JSON Lines files and a human marker interface for grading.
 

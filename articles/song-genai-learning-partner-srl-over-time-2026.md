@@ -1,7 +1,7 @@
 ---
 title: "GenAI as a Learning Partner: Supporting Self-Regulated Learning Over Time Without Replacing Effort"
 created: "2026-08-27T06:30:00-04:00"
-updated: "2026-08-27T06:30:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [self-regulated-learning, generative-ai, learning-analytics, higher-ed, metacognition]
 research_method: [survey]
@@ -11,7 +11,7 @@ source_url: 'https://doi.org/10.20851/ll.v8.73'
 confidence: high
 ---
 
-> **[[generative-ai|GenAI]] as a [[pedagogical-agent|learning partner]]** — a longitudinal study of 75 first-year university students across a full semester showing that SRL is both a stable aptitude and a dynamically fluctuating state. Individual baselines were consistent, but [[metacognition|metacognitive]] knowledge and [[well-being|wellbeing]] declined systemically over the term, driven by [[curriculum-design|curriculum]] demands (e.g., major assessment deadlines). A proof-of-concept demonstrated that giving an [[llm]] personal, temporal, and contextual information enables it to identify tailored SRL support directions.
+> **Synthesis:** **[[generative-ai|GenAI]] as a [[pedagogical-agent|learning partner]]** — a longitudinal study of 75 first-year university students across a full semester showing that SRL is both a stable aptitude and a dynamically fluctuating state. Individual baselines were consistent, but [[metacognition|metacognitive]] knowledge and [[well-being|wellbeing]] declined systemically over the term, driven by [[curriculum-design|curriculum]] demands (e.g., major assessment deadlines). A proof-of-concept demonstrated that giving an [[llm]] personal, temporal, and contextual information enables it to identify tailored SRL support directions.
 
 ## Key Findings
 

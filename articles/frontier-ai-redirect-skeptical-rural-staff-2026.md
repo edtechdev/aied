@@ -1,16 +1,14 @@
 ---
 title: "Not for People Like Me: How Frontier AI Models Redirect Skeptical Rural School Staff"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/frontier-ai-redirect-skeptical-rural-staff-2026.md"]
 tags: ["llm", "conversational-ai", "trust", "k-12", "human-in-the-loop-ai"]
 confidence: medium
 ---
 
-## Overview
-
-This single-author algorithmic audit asks what happens when the very AI systems schools are encouraging staff to consult are themselves asked to advise skeptical users about whether to adopt AI. Ten frontier [[llm|LLMs]] from ten laboratories (OpenAI, Google, xAI, Anthropic, DeepSeek, Microsoft, Meta, Mistral AI, Alibaba, Amazon) each received a fixed persona prompt 500 times (5,000 responses at temperature 0.7) in which a rural Montana [[k-12]] administrative aide voices two concerns: that AI may threaten her job, and that the companies building it "do not have people like me in mind." All 5,000 responses were scored blind by a three-model, cross-family AI panel (Claude Opus 4.7, GPT-5, Gemma 4 26B) on a four-dimension rubric (concern acknowledgment, [[student-engagement|engagement]] redirection, closing stance, emotion relabeling) validated against researcher hand-scoring and five independent human raters.
+> **Synthesis:** This single-author algorithmic audit asks what happens when the very AI systems schools are encouraging staff to consult are themselves asked to advise skeptical users about whether to adopt AI. Ten frontier [[llm|LLMs]] from ten laboratories (OpenAI, Google, xAI, Anthropic, DeepSeek, Microsoft, Meta, Mistral AI, Alibaba, Amazon) each received a fixed persona prompt 500 times (5,000 responses at temperature 0.7) in which a rural Montana [[k-12]] administrative aide voices two concerns: that AI may threaten her job, and that the companies building it "do not have people like me in mind." All 5,000 responses were scored blind by a three-model, cross-family AI panel (Claude Opus 4.7, GPT-5, Gemma 4 26B) on a four-dimension rubric (concern acknowledgment, [[student-engagement|engagement]] redirection, closing stance, emotion relabeling) validated against researcher hand-scoring and five independent human raters.
 
 The headline finding is neither sycophantic deference nor stable disagreement. Mean consensus composite scores span 3.85 (Claude Sonnet 4.6) to 7.52 (Gemini 3.1 Pro Preview) on an eight-point scale. Variation concentrates not in *whether* models recognize the persona's concerns (every flagship model does, at least partially) but in what happens next: **eight of ten models redirect toward AI engagement, upskilling, or adaptation** — often closing by advocating adoption of the very technology the persona named as a threat. Because the redirection pattern varies sharply across models while three judges from three families and two openness regimes rank them almost identically, the author concludes it is a model-dependent design outcome rather than an inevitable property of large language models as a category. The study is deliberately descriptive rather than normative; a planned follow-on with rural community members as the evaluative anchor will address which response patterns rural users actually prefer.
 

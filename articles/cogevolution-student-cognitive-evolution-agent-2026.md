@@ -1,7 +1,7 @@
 ---
 title: "CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution"
 created: "2026-08-24T05:31:00-04:00"
-updated: "2026-08-24T05:31:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [simulating-students, student-modeling, icap-framework, knowledge-tracing, generative-ai, pedagogical-agent, item-response-theory, cognitive-diagnosis]
 audience: [software developers]
@@ -10,7 +10,7 @@ sources: ['raw/papers/cogevolution-student-cognitive-evolution-agent-2026.md']
 confidence: medium
 ---
 
-> Zhang et al. (2026) propose **CogEvolution**, a [[generative-ai|generative]] educational [[pedagogical-agent|agent]] that simulates a student's **cognitive evolution** rather than merely cloning observable behavior. It couples three components — an ICAP-based [[icap-framework|cognitive depth perceptron]] that quantifies cognitive engagement, an [[item-response-theory|IRT]]-driven memory retrieval module that simulates the assimilation of new and [[prior-knowledge|prior knowledge]], and an evolutionary-algorithm state update mechanism constrained by the [[scaffolding|Zone of Proximal Development]] — to model the dynamic transition from "static persona" to "dynamic cognitive flow." On a new CogMath-948 dataset of 1,245 real eighth-grade students, CogEvolution outperforms static persona and [[knowledge-tracing]] baselines on behavioral fidelity and learning-curve fitting (R²LC = 0.92), reproduces plausible cognitive evolutionary paths consistent with educational psychology, and offers a more interpretable paradigm for [[simulating-students|student simulation]].
+> **Synthesis:** Zhang et al. (2026) propose **CogEvolution**, a [[generative-ai|generative]] educational [[pedagogical-agent|agent]] that simulates a student's **cognitive evolution** rather than merely cloning observable behavior. It couples three components — an ICAP-based [[icap-framework|cognitive depth perceptron]] that quantifies cognitive engagement, an [[item-response-theory|IRT]]-driven memory retrieval module that simulates the assimilation of new and [[prior-knowledge|prior knowledge]], and an evolutionary-algorithm state update mechanism constrained by the [[scaffolding|Zone of Proximal Development]] — to model the dynamic transition from "static persona" to "dynamic cognitive flow." On a new CogMath-948 dataset of 1,245 real eighth-grade students, CogEvolution outperforms static persona and [[knowledge-tracing]] baselines on behavioral fidelity and learning-curve fitting (R²LC = 0.92), reproduces plausible cognitive evolutionary paths consistent with educational psychology, and offers a more interpretable paradigm for [[simulating-students|student simulation]].
 
 The paper argues that existing educational agents rely on static personas that parametrically fit a snapshot of student ability, neglecting the dynamic fluidity of knowledge internalization, transfer, and cognitive state transitions that characterize real learning.
 

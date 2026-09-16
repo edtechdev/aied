@@ -1,7 +1,7 @@
 ---
 title: The care-full craft of feedback in an age of generative AI
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-26T15:34:14-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, feedback, higher-ed, learning-theories, equity-in-ai-education, teacher-role, human-in-the-loop-ai, ethics, ai-education]
 research_method: [theoretical analysis]
@@ -12,9 +12,7 @@ sources: ['raw/papers/tandf-2026-care-full-feedback-genai.md']
 confidence: high
 ---
 
-## Summary
-
-A conceptual/position paper arguing that feedback in an age of [[generative-ai|GenAI]] must be understood as **"matters of care"** — [[ethics|ethical]], relational practices rather than information transmission. It builds on a ten-principle **Manifesto for Feedback in the Age of GenAI** (Winstone et al. 2025, Copenhagen Feedback Symposium) and distils **four core values** for integrating GenAI into a [[multimodal]] feedback landscape: (1) feedback processes should support **meaning-making**, (2) build **educative relationships**, (3) be **trustworthy**, and (4) be respected as a **professional craft**.
+> **Synthesis:** A conceptual/position paper arguing that feedback in an age of [[generative-ai|GenAI]] must be understood as **"matters of care"** — [[ethics|ethical]], relational practices rather than information transmission. It builds on a ten-principle **Manifesto for Feedback in the Age of GenAI** (Winstone et al. 2025, Copenhagen Feedback Symposium) and distils **four core values** for integrating GenAI into a [[multimodal]] feedback landscape: (1) feedback processes should support **meaning-making**, (2) build **educative relationships**, (3) be **trustworthy**, and (4) be respected as a **professional craft**.
 
 ## Core arguments
 

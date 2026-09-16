@@ -1,7 +1,7 @@
 ---
 title: "LearnLens: Personalised, Curriculum-Grounded AI Feedback with Educators in the Loop"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-08-24T20:50:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-feedback-quality, feedback, llm, generative-ai, stem-education, student-modeling, human-in-the-loop-ai, curriculum-design, teacher-role, educational-nlp]
 research_method: [system development]
@@ -13,9 +13,10 @@ sources: ['raw/papers/zhao-learnlens-feedback-educators-loop.md']
 confidence: high
 ---
 
+> **Synthesis:** **LearnLens is a modular, LLM-based system that generates personalised, curriculum-aligned feedback in science education by combining error-aware assessment, a topic-linked memory chain, and an educator-in-the-loop interface.** Zhao et al. (2025) report that this architecture produces high-quality scoring (MSE 3.19, 8–13% below any baseline) while keeping latency (~11.4s) and cost ($0.0099/request) competitive, and that teachers rated it strongly for [[usability-research|usability]], curriculum relevance (4.4/5), and scientific accuracy (4.3/5).
+
 ## Core Finding
 
-**LearnLens is a modular, LLM-based system that generates personalised, curriculum-aligned feedback in science education by combining error-aware assessment, a topic-linked memory chain, and an educator-in-the-loop interface.** Zhao et al. (2025) report that this architecture produces high-quality scoring (MSE 3.19, 8–13% below any baseline) while keeping latency (~11.4s) and cost ($0.0099/request) competitive, and that teachers rated it strongly for [[usability-research|usability]], curriculum relevance (4.4/5), and scientific accuracy (4.3/5).
 
 ## Three Core Components
 

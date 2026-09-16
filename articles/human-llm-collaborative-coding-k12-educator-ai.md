@@ -1,7 +1,7 @@
 ---
 title: Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, generative-ai, research-methods-aied, teacher-ai-competency, human-ai-collaboration]
 research_method: [qualitative, research methods]
@@ -12,10 +12,7 @@ sources: ['raw/papers/2607.28889.md']
 confidence: high
 ---
 
-> **Alex Liu, Min Sun, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He** — arXiv preprint (2026).
-## Synthesis
-
-A multi-phase human-[[llm|LLM]] collaborative pipeline adapted open, axial, and selective coding to build a hierarchical codebook from 45,000 messages exchanged between [[k-12|K-12 educators]] and a [[generative-ai|generative AI]] platform — an instance of LLMs as analytic assistants at a scale manual coding cannot match.
+> **Synthesis:** A multi-phase human-[[llm|LLM]] collaborative pipeline adapted open, axial, and selective coding to build a hierarchical codebook from 45,000 messages exchanged between [[k-12|K-12 educators]] and a [[generative-ai|generative AI]] platform — an instance of LLMs as analytic assistants at a scale manual coding cannot match.
 
 LLMs generated candidate labels and structured annotations at scale across three phases, while human [[research-methods-aied|researchers]] retained conceptual authority over category definitions, merging decisions, and interpretive frameworks — a [[human-in-the-loop-ai|human-in-the-loop]] division of labor.
 

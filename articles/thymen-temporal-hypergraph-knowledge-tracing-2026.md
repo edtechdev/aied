@@ -1,7 +1,7 @@
 ---
 title: "Augmenting Knowledge Tracing Through Modeling Dynamic Higher-Order Concept Interactions: A Temporal Hypergraph Memory Network"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-24T21:10:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [knowledge-tracing, student-modeling, adaptive-learning, learning-analytics, educational-nlp, llm, formative-assessment, intelligent-tutoring]
 audience: [software developers]
@@ -10,7 +10,7 @@ sources: ['raw/papers/10.1016_j.caeai.2026.100616.md']
 confidence: high
 ---
 
-Mehrnoush Mohammadi, Kamal Berahmand, Shazia Sadiq, & Hassan Khosravi (2026) propose **THyMeN (Temporal Hypergraph Memory Network)**, a hybrid model that augments memory-based [[knowledge-tracing|knowledge tracing]] with temporal hypergraph reasoning to capture dynamic higher-order concept interactions.
+> **Synthesis:** Mehrnoush Mohammadi, Kamal Berahmand, Shazia Sadiq, & Hassan Khosravi (2026) propose **THyMeN (Temporal Hypergraph Memory Network)**, a hybrid model that augments memory-based [[knowledge-tracing|knowledge tracing]] with temporal hypergraph reasoning to capture dynamic higher-order concept interactions.
 
 ## Key Findings
 

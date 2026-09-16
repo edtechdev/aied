@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Large Language Models on Programming Education and Student Learning Outcomes"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-08-24T16:30:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, cs-education, cognitive-offloading, generative-ai]
 research_method: [experiment]
@@ -10,9 +10,7 @@ sources: ['raw/papers/jost-llm-programming-education-learning-outcomes.md']
 confidence: high
 ---
 
-## Summary
-
-Jošt, Taneski, and Karakatič (2024) conducted a ten-week experiment with 32 second-year undergraduate students learning React to examine how informal (unrestricted but not explicitly encouraged) use of [[llm|large language models (LLMs)]] such as ChatGPT and Copilot relates to learning outcomes in [[cs-education|programming education]]. Students used LLMs freely across four assignments over nine weeks, then completed a controlled-phase assignment in week ten in which LLM use was prohibited (Google and official React documentation were allowed). Reported LLM use was captured via a post-grade questionnaire on a five-point Likert scale, and performance was measured by final assignment grade. Using one-sided non-parametric Spearman's correlation tests with bootstrap confidence intervals, the authors found a significant negative correlation between overall average LLM use and final grades (rho = −0.347, p = 0.026). Breaking usage down by task, reliance on LLMs for code generation (rho = −0.305, p = 0.045) and for debugging (rho = −0.360, p = 0.021) were both significantly negatively associated with grades, whereas use for seeking additional explanations was not significantly correlated (rho = −0.201, p = 0.135). The authors conclude that LLMs serve best as supplementary learning aids and that their use for [[critical-thinking]]-intensive tasks can undermine the independent [[problem-solving]] skills central to programming education.
+> **Synthesis:** Jošt, Taneski, and Karakatič (2024) conducted a ten-week experiment with 32 second-year undergraduate students learning React to examine how informal (unrestricted but not explicitly encouraged) use of [[llm|large language models (LLMs)]] such as ChatGPT and Copilot relates to learning outcomes in [[cs-education|programming education]]. Students used LLMs freely across four assignments over nine weeks, then completed a controlled-phase assignment in week ten in which LLM use was prohibited (Google and official React documentation were allowed). Reported LLM use was captured via a post-grade questionnaire on a five-point Likert scale, and performance was measured by final assignment grade. Using one-sided non-parametric Spearman's correlation tests with bootstrap confidence intervals, the authors found a significant negative correlation between overall average LLM use and final grades (rho = −0.347, p = 0.026). Breaking usage down by task, reliance on LLMs for code generation (rho = −0.305, p = 0.045) and for debugging (rho = −0.360, p = 0.021) were both significantly negatively associated with grades, whereas use for seeking additional explanations was not significantly correlated (rho = −0.201, p = 0.135). The authors conclude that LLMs serve best as supplementary learning aids and that their use for [[critical-thinking]]-intensive tasks can undermine the independent [[problem-solving]] skills central to programming education.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "How Human-Centered Is AI-Aided Learning in Education?"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [adaptive-learning, intelligent-tutoring, ethics, equity-in-ai-education, teacher-role, higher-ed]
 research_method: [literature review]
@@ -12,9 +12,7 @@ sources: ['raw/papers/prezenski-human-centered-ai-aided-learning.md']
 confidence: high
 ---
 
-## Summary
-
-A **narrative [[meta-analysis-systematic-review|literature review]]** by Sabine Prezenski (Institute for Innovation and Technology, Berlin) that asks how human-centered AI-aided learning actually is in education. It distinguishes **data-driven** from **rule-based** AI, reviews how AI fosters (or undermines) learning from cognitive and societal perspectives, and proposes steps to make AI a genuinely supportive tool rather than a hollowing force. The organizing device is the story of **"Maya,"** a student whose AI maths tutor boosts quiz scores but steadily erodes her independence, collaboration, empathy, and privacy — a cautionary frame for evaluating the whole field.
+> **Synthesis:** A **narrative [[meta-analysis-systematic-review|literature review]]** by Sabine Prezenski (Institute for Innovation and Technology, Berlin) that asks how human-centered AI-aided learning actually is in education. It distinguishes **data-driven** from **rule-based** AI, reviews how AI fosters (or undermines) learning from cognitive and societal perspectives, and proposes steps to make AI a genuinely supportive tool rather than a hollowing force. The organizing device is the story of **"Maya,"** a student whose AI maths tutor boosts quiz scores but steadily erodes her independence, collaboration, empathy, and privacy — a cautionary frame for evaluating the whole field.
 
 ## Data-driven vs. rule-based AI
 

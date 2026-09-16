@@ -1,7 +1,7 @@
 ---
 title: "Faculty Self-Perceived Knowledge in Using Generative AI to Teach 21st-Century Skills"
 created: "2026-09-09T02:58:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [tpack, higher-ed, generative-ai, educational-development, self-efficacy, teacher-role]
 connected_faqs: [faculty-development-ai]
@@ -13,7 +13,7 @@ sources: ['raw/papers/sutedjo-faculty-genai-tpack-21-2026.md']
 confidence: high
 ---
 
-> **Sutedjo, Chowdhury & Liu (2026)** survey 127 faculty members at a large U.S. [[research-methods-aied|research]] university, using the validated TPACK-21 instrument adapted for [[generative-ai|generative AI]], to map self-perceived knowledge for [[teacher-role|teaching]] 21st-century skills with GenAI. They find strong traditional knowledge ([[pedagogy|pedagogical]], content, and pedagogical content knowledge) but a pronounced deficit in the technology-integrated domains — technological pedagogical knowledge (TPK), technological content knowledge (TCK), and holistic [[tpack|TPACK]] — with overall TPACK the lowest of the seven domains.
+> **Synthesis:** **Sutedjo, Chowdhury & Liu (2026)** survey 127 faculty members at a large U.S. [[research-methods-aied|research]] university, using the validated TPACK-21 instrument adapted for [[generative-ai|generative AI]], to map self-perceived knowledge for [[teacher-role|teaching]] 21st-century skills with GenAI. They find strong traditional knowledge ([[pedagogy|pedagogical]], content, and pedagogical content knowledge) but a pronounced deficit in the technology-integrated domains — technological pedagogical knowledge (TPK), technological content knowledge (TCK), and holistic [[tpack|TPACK]] — with overall TPACK the lowest of the seven domains.
 
 ## Key Findings
 

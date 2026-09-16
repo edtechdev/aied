@@ -1,7 +1,7 @@
 ---
 title: "Exploring Factors Influencing Preschool Teachers' Behavioral Intention to Use AI Technologies in Early Childhood Settings"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/preschool-teachers-ai-behavioral-intention-2026.md"]
 tags: ['teacher-education', 'technology-acceptance-model', 'early-childhood-elementary-ai-education', 'quantitative-research', 'ai-anxiety-and-stress', 'self-efficacy']
@@ -9,9 +9,7 @@ connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 ---
 
-## Overview
-
-Duan, Shan, and Gong examine what shapes preschool teachers' willingness to adopt AI in early childhood classrooms. Grounded in an extended **Technology Acceptance Model (TAM)**, the study uses structural equation modeling to test how **perceived usefulness (PU)**, **perceived ease of use (PEOU)**, **subjective norm (SN)**, **AI anxiety (AIA)**, and **AI [[self-efficacy]] (AISE)** influence preschool teachers' behavioral intention to use AI.
+> **Synthesis:** Duan, Shan, and Gong examine what shapes preschool teachers' willingness to adopt AI in early childhood classrooms. Grounded in an extended **Technology Acceptance Model (TAM)**, the study uses structural equation modeling to test how **perceived usefulness (PU)**, **perceived ease of use (PEOU)**, **subjective norm (SN)**, **AI anxiety (AIA)**, and **AI [[self-efficacy]] (AISE)** influence preschool teachers' behavioral intention to use AI.
 
 ## Key Findings
 

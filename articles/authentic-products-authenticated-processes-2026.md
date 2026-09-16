@@ -1,7 +1,7 @@
 ---
 title: "From authentic products to authenticated processes: authentic assessment in AI-rich higher education"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-26T15:34:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [authentic-assessment, assessment, assessment-validity, ai-ed-evaluation, generative-ai, academic-integrity, higher-ed, ai-literacy, formative-assessment, llm]
 audience: [instructors]
@@ -12,7 +12,7 @@ sources: ['raw/papers/authentic-products-authenticated-processes-2026.md']
 confidence: high
 ---
 
-> [[generative-ai|Generative AI]] has not created the need for [[authentic-assessment|authentic assessment]] — it has made weaknesses in assessment design harder to ignore. Polished products can now be generated or substantially mediated by tools, so **product resemblance is an increasingly unreliable signal of capability**. Tsiligkiris calls this risk **construct substitution**: an AI-generated or AI-mediated product is attributed to the st
+> **Synthesis:** [[generative-ai|Generative AI]] has not created the need for [[authentic-assessment|authentic assessment]] — it has made weaknesses in assessment design harder to ignore. Polished products can now be generated or substantially mediated by tools, so **product resemblance is an increasingly unreliable signal of capability**. Tsiligkiris calls this risk **construct substitution**: an AI-generated or AI-mediated product is attributed to the st
 
 > Tsiligkiris (2026) reframes authentic assessment as an *evidential and validity-oriented design problem* in AI-rich [[higher-ed|higher education]]. His central distinction — **authentic products vs. authenticated processes** — argues that [[assessment-validity|assessment validity]] under generative AI depends not on realistic outputs alone but on architectures that make human judgement, verification, and responsibility visible. A systematic conceptual review of 37 sources yields a six-dimension framework for redesigning assessment briefs at module and programme level.
 

@@ -1,7 +1,7 @@
 ---
 title: "A Systematic Review of Emerging Technology Applications for Teaching English as a Foreign Language Across Different Educational Levels"
 created: "2026-08-24T12:36:00-04:00"
-updated: "2026-08-24T14:35:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [language-learning, english-education, meta-analysis-systematic-review, generative-ai, k-12, higher-ed, simulation]
 research_method: [systematic review, meta-analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/liu-emerging-tech-tefl-review-2026.md']
 confidence: high
 ---
 
-> **In brief:** Liu, Hashim, and Sulaiman [[meta-analysis-systematic-review|systematically review]] and meta-analyze 33 experimental and quasi-experimental studies (N = 3,181) on emerging [[ai-technologies|technologies]] for [[teacher-role|teaching]] [[english-education|English as a foreign language]] (TEFL) across primary, secondary, and tertiary education. They find a small-to-moderate positive overall effect (Hedges' g = 0.38, 95% CI [0.26, 0.50]) with substantial heterogeneity; effect sizes rose with educational level (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44) and were largest for VR/AR, with productive skills (speaking, writing) showing greater gains than receptive skills.
+> **Synthesis:** **In brief:** Liu, Hashim, and Sulaiman [[meta-analysis-systematic-review|systematically review]] and meta-analyze 33 experimental and quasi-experimental studies (N = 3,181) on emerging [[ai-technologies|technologies]] for [[teacher-role|teaching]] [[english-education|English as a foreign language]] (TEFL) across primary, secondary, and tertiary education. They find a small-to-moderate positive overall effect (Hedges' g = 0.38, 95% CI [0.26, 0.50]) with substantial heterogeneity; effect sizes rose with educational level (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44) and were largest for VR/AR, with productive skills (speaking, writing) showing greater gains than receptive skills.
 
 This systematic review and meta-analysis examines the applications, effectiveness, and challenges of emerging technologies for TEFL. The technologies investigated span mobile-assisted [[language-learning|language learning]] apps, AI-powered tools ([[conversational-ai|chatbots]], [[automated-essay-scoring|automated writing evaluation]], [[intelligent-tutoring|intelligent tutoring systems]]), virtual and [[virtual-and-augmented-reality|augmented reality]] environments, [[game-based-learning|gamification]] platforms, and social media tools. Following PRISMA 2020 guidelines, 33 studies (N = 3,181) from Web of Science, Scopus, and ERIC (2015–2024) were analyzed with a random-effects meta-analysis.
 

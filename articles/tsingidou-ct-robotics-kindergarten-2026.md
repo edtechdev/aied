@@ -1,7 +1,7 @@
 ---
 title: "Fostering Computational Thinking Through Robotics in Kindergarten: A Systematic Review of Learning Strategies, Frameworks, and Assessment"
 created: "2026-08-24T12:31:00-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [computational-thinking, educational-robotics, k-12, meta-analysis-systematic-review, assessment, stem-education, early-childhood-elementary-ai-education]
 connected_faqs: [ai-guidance-children-under-13]
@@ -13,7 +13,7 @@ sources: ['raw/papers/tsingidou-ct-robotics-kindergarten-2026.md']
 confidence: high
 ---
 
-> **In brief:** Tsingidou and Sapounidis [[meta-analysis-systematic-review|systematically review]] 53 of 2,306 studies (2015–March 2026, 7 databases) on robot-mediated [[computational-thinking|computational thinking]] (CT) development in kindergarten. Problem-based learning, [[storytelling-in-education|storytelling]], and scaffolding are the most frequently used learning strategies; most studies do not specify a CT framework; CT concepts and practices are most frequently examined while CT perspectives remain underexplored; and Total CT, sequencing, debugging, and algorithmic design are the most-assessed CT skills. TechCheck-K is the most widely used assessment tool, though many tools are developed ad hoc without formal validation.
+> **Synthesis:** **In brief:** Tsingidou and Sapounidis [[meta-analysis-systematic-review|systematically review]] 53 of 2,306 studies (2015–March 2026, 7 databases) on robot-mediated [[computational-thinking|computational thinking]] (CT) development in kindergarten. Problem-based learning, [[storytelling-in-education|storytelling]], and scaffolding are the most frequently used learning strategies; most studies do not specify a CT framework; CT concepts and practices are most frequently examined while CT perspectives remain underexplored; and Total CT, sequencing, debugging, and algorithmic design are the most-assessed CT skills. TechCheck-K is the most widely used assessment tool, though many tools are developed ad hoc without formal validation.
 
 This systematic review documents how educational robotics is used to foster CT in the earliest formal education setting. Across 53 included studies, the authors categorize the learning strategies, CT frameworks, CT skills, and assessment tools employed in kindergarten robotics activities. They find that [[problem-based-learning]], storytelling, and scaffolding are the most frequently employed strategies in robot-mediated CT learning — aligning with the age-appropriate, play-based, and [[scaffolding]]-rich ways young children engage with [[educational-robotics]].
 

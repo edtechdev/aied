@@ -1,7 +1,7 @@
 ---
 title: "One Click Away: AI Tutoring with Khanmigo in a Two-Year School Experiment"
 created: "2026-08-17T17:57:00-04:00"
-updated: "2026-08-21T05:12:55-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, help-seeking, student-engagement, math-education, k-12, edtech-platform, adaptive-learning, learning-gains, equity-in-ai-education]
 research_method: [learning analytics]
@@ -12,7 +12,7 @@ confidence: high
 sources: [raw/papers/one-click-away-khanmigo-two-year-school-experiment-2026.md]
 ---
 
-> **[[student-engagement|Engagement]], not model capability, is the binding constraint on [[intelligent-tutoring|AI tutoring]].** In a two-year cluster [[rct|randomized trial]] across 18 Tennessee [[k-12|middle schools]], randomly assigned students used Khan Academy with its AI tutor **Khanmigo** — configured to coach rather than give answers (a [[scaffolding|scaffolded]] guided-help design) — during existing daily remedial [[math-education|math]] sessions. Assignment raised math achievement by 1.3 national percentile ranks per term (~0.06–0.08 SD per school year; an implied ~0.14 SD for a full year of active participation), [[learning-gains|gains]] resembling those of Khan Academy practice **without** AI assistance. The reason: 96% of students tried Khanmigo at least once, but the median student messaged it on only about a third of practice days and in only 17% of the exercise sessions in which they made a mistake — and most messages were bare answers or clicks on suggested prompts, with just ~14.5% containing a genuine mathematical question or reasoning step. "Making AI effective for learning appears to be as much a behavioral challenge as a technological one": realized [[help-seeking]], not access, is what limits [[llm|LLM]] tutoring in routine school settings.
+> **Synthesis:** **[[student-engagement|Engagement]], not model capability, is the binding constraint on [[intelligent-tutoring|AI tutoring]].** In a two-year cluster [[rct|randomized trial]] across 18 Tennessee [[k-12|middle schools]], randomly assigned students used Khan Academy with its AI tutor **Khanmigo** — configured to coach rather than give answers (a [[scaffolding|scaffolded]] guided-help design) — during existing daily remedial [[math-education|math]] sessions. Assignment raised math achievement by 1.3 national percentile ranks per term (~0.06–0.08 SD per school year; an implied ~0.14 SD for a full year of active participation), [[learning-gains|gains]] resembling those of Khan Academy practice **without** AI assistance. The reason: 96% of students tried Khanmigo at least once, but the median student messaged it on only about a third of practice days and in only 17% of the exercise sessions in which they made a mistake — and most messages were bare answers or clicks on suggested prompts, with just ~14.5% containing a genuine mathematical question or reasoning step. "Making AI effective for learning appears to be as much a behavioral challenge as a technological one": realized [[help-seeking]], not access, is what limits [[llm|LLM]] tutoring in routine school settings.
 
 ## Key Findings
 
