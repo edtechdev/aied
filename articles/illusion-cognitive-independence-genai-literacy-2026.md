@@ -1,7 +1,7 @@
 ---
 title: "The Illusion of Cognitive Independence in the Age of Generative AI: Unpacking GenAI Literacy and Learner Profiles"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T13:40:00-04:00"
+updated: "2026-09-16T14:10:00-04:00"
 type: article
 tags: [ai-literacy, cognitive-offloading, higher-ed, student-engagement, self-regulated-learning]
 audience: [instructors, researchers, learning designers]
@@ -10,53 +10,51 @@ sources: ['raw/papers/10.3389_feduc.2026.1861548.md']
 confidence: high
 ---
 
-> **Synthesis:** In a survey of 848 academic learners, [[generative-ai|GenAI]] literacy—particularly critical-[[ethics|ethical]] awareness—functions as a dual-pathway mechanism that simultaneously promotes critical monitoring of GenAI outputs and enables strategic reliance on GenAI as a cognitive shortcut. Cluster analysis revealed three learner profiles whose patterns point to an "illusion of cognitive independence," in which learners report high independent thinking even while offloading core cognitive work to the machine.
+> **Synthesis:** In a survey of 848 academic learners recruited internationally, the researchers examined how [[generative-ai|GenAI]] literacy shapes the way students actually engage with AI tools. GenAI literacy—particularly critical-[[ethics|ethical]] awareness—worked through a dual pathway: it promoted critical monitoring of GenAI outputs while also enabling strategic reliance on GenAI as a cognitive shortcut. Cluster analysis distinguished three learner profiles whose patterns revealed an "illusion of cognitive independence," in which learners report strong independent thinking even while offloading core cognitive work to the machine.
 
 ## Key Findings
 
-- **Three learner profiles emerged from cluster analysis:** *Engaged and Literate users* (n = 355), who combine high GenAI use with high operational and conceptual [[ai-literacy]] and moderate critical-ethical awareness; *Uncritical Reliant users* (n = 244), who show moderate use and reliance but low critical and conceptual literacy; and *Skeptical Minimal users* (n = 224), who use GenAI very little but show high reliance when they do engage.
-- **Critical-ethical awareness plays a dual role.** It was the strongest positive predictor of GenAI critical monitoring (β = .41, p < .001), yet it also positively predicted GenAI shortcut reliance (β = .15, p < .001)—challenging the assumption that greater awareness uniformly reduces reliance.
-- **The "illusion of cognitive independence."** Uncritical Reliant users, who reported the lowest monitoring and literacy, nevertheless reported the highest preservation of independent thinking (M = 3.12), while the highly literate Engaged and Literate profile reported the lowest (M = 2.79). This mismatch between self-perceived [[agency|autonomy]] and actual [[cognitive-offloading]] persisted after controlling for baseline [[self-efficacy|academic self-efficacy]] in an ANCOVA.
-- **Skeptical Minimal users showed the highest shortcut reliance** (M = 3.32) when they did use GenAI, suggesting low familiarity may lead to unverified reliance rather than abstention.
-- **Engaged and Literate users outperformed other profiles** on [[problem-solving|problem solving]] and task execution and cognitive endurance, consistent with GenAI functioning as a scaffold when paired with critical monitoring.
-- **Conceptual literacy played a limited role** in predicting immediate usage behaviors, indicating that critical-ethical awareness is more behaviorally consequential than technical understanding.
-- **Gender differences were small but systematic:** male learners reported higher use frequency and operational/conceptual literacy, while female learners reported higher critical literacy and monitoring.
+- **Three distinct learner profiles emerged.** Cluster analysis grouped users into *Engaged and Literate*, *Uncritical Reliant*, and *Skeptical Minimal*. The first combined heavy GenAI use with strong operational and conceptual [[ai-literacy]] and moderate critical-ethical awareness; the second showed moderate use but low critical and conceptual literacy; the third used GenAI rarely yet relied on it heavily when they did engage.
+- **Critical-ethical awareness played a dual, counterintuitive role.** It was the strongest predictor of critical monitoring of GenAI outputs, yet it also predicted greater shortcut reliance—that is, using GenAI to bypass independent cognitive effort. Greater awareness did not uniformly reduce reliance on the tool.
+- **The "illusion of cognitive independence."** Uncritical Reliant users, who monitored least and scored lowest on literacy, nevertheless reported the highest preservation of independent thinking, while highly literate Engaged and Literate users reported the lowest. This mismatch between self-perceived [[agency|autonomy]] and actual [[cognitive-offloading]] persisted even after controlling for baseline [[self-efficacy|academic self-efficacy]].
+- **Skeptical Minimal users leaned on shortcuts.** Despite barely using GenAI, they showed the highest shortcut reliance when they did engage, suggesting that low familiarity may produce unverified dependence rather than abstention.
+- **Literacy paired with monitoring predicted stronger outcomes.** Engaged and Literate users reported the best [[problem-solving|problem solving]], task execution, and cognitive endurance, consistent with GenAI functioning as a scaffold when matched with critical oversight.
+- **Conceptual literacy played a limited role in immediate behavior**, while critical-ethical awareness proved far more behaviorally consequential—technical understanding mattered less than the inclination to evaluate and verify outputs.
+- **Gender differences were modest but systematic,** with male learners reporting higher use frequency and operational/conceptual literacy and female learners reporting higher critical literacy and monitoring.
 
 ## Study Design & Method
 
-- **Participants:** Large, diverse international sample of 848 academic learners (ages 18–50) recruited via the Prolific platform across 50 countries, after excluding 38 participants who reported no GenAI use.
-- **Instrument:** A structured online [[self-report-measures|questionnaire]] with mostly five-point Likert items, developed with a two-step expert content-validation process and assessed via exploratory factor analysis (EFA). Constructs included GenAI use frequency, critical monitoring, critical verification, reliance, shortcut reliance, and self-perceived academic skills (problem solving and task execution, cognitive endurance, independent thinking).
-- **Analysis:** To address the primary research question, hierarchical multiple regression (RQ1) examined how GenAI literacy dimensions predict immediate usage behaviors; cluster analysis (RQ2) identified learner profiles. Harman's single-factor test (first factor = 18.10% variance) indicated common method bias was unlikely.
+The study drew on an online [[self-report-measures|questionnaire]] completed by 848 academic learners aged 18–50, recruited through the Prolific platform across dozens of countries after excluding respondents who reported no GenAI use. Participants rated their GenAI use frequency, their literacy across operational, conceptual, and critical-ethical dimensions, their usage behaviors (critical monitoring, general reliance, and shortcut reliance), and their self-perceived academic skills such as problem solving, task execution, cognitive endurance, and independent thinking. Hierarchical multiple regression examined how the literacy dimensions predicted immediate usage behaviors, while cluster analysis identified the learner profiles; follow-up comparisons then tested how the profiles differed on the skill outcomes.
 
-## Implications for AI in Education
+## Implications
 
-- **GenAI literacy should be treated as a [[regulation|regulatory]] mechanism rather than an adoption driver.** Because literacy shapes how learners combine monitoring with reliance—rather than simply reducing reliance—[[higher-ed]] institutions should foster reflective, regulated use rather than focusing solely on increasing [[technology-acceptance-model|technology adoption]].
-- **Promote critical monitoring and verification** as explicit practices, especially for learners most at risk of unverified reliance (Uncritical Reliant and Skeptical Minimal profiles).
-- **Address the "illusion of cognitive independence"** by helping learners calibrate their perceived versus actual cognitive contribution, since learners may experience AI-supported performance as their own independent thinking.
-- **Differentiated support by learner profile:** Engaged and Literate users may benefit from pushing [[evaluative-judgement|evaluative judgment]] on delegation, while Uncritical Reliant users need [[scaffolding]] for [[critical-thinking|critical evaluation]] and monitoring.
-- **Design for calibrated reliance** consistent with [[self-regulated-learning]] frameworks: strategic delegation paired with epistemic oversight, rather than uncritical dependence.
+- **Treat GenAI literacy as a [[regulation|regulatory]] mechanism, not just an adoption driver.** Because literacy shapes how learners combine monitoring with reliance rather than simply reducing reliance, [[higher-ed]] institutions should cultivate reflective, regulated use rather than focusing only on boosting [[technology-acceptance-model|technology adoption]].
+- **Teach critical monitoring and verification as explicit practices**, especially for learners most at risk of unverified reliance—the Uncritical Reliant and Skeptical Minimal profiles.
+- **Address the illusion of cognitive independence** by helping learners calibrate their perceived versus actual cognitive contribution, since students may experience AI-supported performance as their own independent thinking.
+- **Differentiate support by learner profile.** Engaged and Literate users may benefit from sharper [[evaluative-judgement|evaluative judgment]] about what to delegate, while Uncritical Reliant users need [[scaffolding]] for [[critical-thinking|critical evaluation]] and monitoring.
+- **Design for calibrated reliance** consistent with [[self-regulated-learning]]: strategic delegation paired with epistemic oversight rather than uncritical dependence.
 
 ## Limitations
 
-- Self-reported measures of usage and perceived academic skills; relationships may not reflect actual behavior or skill change.
-- Cross-sectional design precludes causal inference about how literacy shapes behavior or skill outcomes over time.
-- The instrument was largely novel, developed for this study, with one variable showing a reliability coefficient of 0.63.
-- The sample skewed toward graduate students (57.9% master's), limiting generalizability across educational levels.
+- Self-reported measures of perceived skills and usage behavior mean the relationships may not reflect actual behavior or skill change—especially relevant given the illusion depends on self-perception.
+- The cross-sectional design precludes causal claims about how literacy shapes behavior or skills over time.
+- The instrument was largely novel and developed for this study, with one scale showing relatively low reliability.
+- The sample skewed toward graduate students and toward Southern and Eastern Europe, limiting generalizability across educational levels and cultural contexts.
 
 ## Connected Concepts
 
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[higher-ed]]
-- [[student-engagement]]
+- [[ai-literacy]] — the competency profile the study decomposes into operational, conceptual, and critical-ethical dimensions.
+- [[cognitive-offloading]] — the delegation of mental effort that underlies the illusion of cognitive independence.
+- [[self-regulated-learning]] — the framework positioning GenAI literacy as a regulatory mechanism of human-AI interaction.
+- [[higher-ed]] — the setting and target population for the profile-based findings.
+- [[student-engagement]] — how patterns of GenAI use and monitoring reflect different modes of cognitive engagement.
 
 ## Connected Articles
 
 - [[seung-basham-cognitive-offloading-swld-2026|Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?]]
 - [[reclaiming-epistemic-agency-co-agency-2026|Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education]]
 - [[aigc-affordance-student-self-regulation-2026|AIGC Affordance and Student Self-Regulation: A Serial Mediation Model of Self-Efficacy and Learning Motivation]]
-- [[learner-ai-interaction-patterns-oop|Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course]]
+- [[learner-ai-interaction-patterns-oop|Patterns of Learner-AI Interaction and Performance in an Object-Oriented Programming Course]]
 
 ## Citation
 

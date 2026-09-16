@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-09-16T13:00:00-04:00"
+updated: "2026-09-16T14:45:00-04:00"
 type: concept
 tags: [tpack, ai-literacy, teacher-ai-competency, educational-development, generative-ai, teacher-role, learning-design, curriculum-design]
 audience: [faculty development, instructors]
@@ -53,14 +53,14 @@ The AI era has pushed the framework toward a technology-with-intelligence readin
 **AI-TPACK as the mediator between literacy and classroom integration.** A structural equation model of Chinese pre-service
 science teachers ([[ai-literacy-ai-integrated-inquiry-science-teaching-2026|Zou, Li, Wang & Du, 2026]]) positions AI-TPACK not as a
 parallel competency but as the transmission mechanism through which general [[ai-literacy]] becomes teaching practice. AI literacy
-predicted AI-TPACK with a large effect (β = 0.570, f² = 0.482), AI-TPACK predicted [[science-education|science teaching]] [[self-efficacy]] (β = 0.454,
-f² = 0.221), and teaching self-efficacy predicted the intention to teach through AI-integrated [[inquiry-based-learning|inquiry]]
-(β = 0.361, the strongest single predictor of intention). The full serial chain (AI literacy → AI-TPACK → self-efficacy → intention)
-was significant (β = 0.093, 95% CI [0.070, 0.121]), as were the separate indirect routes through AI-TPACK (0.110) and self-efficacy
-(0.080), giving a total indirect effect of 0.283 out of a total association of 0.433 — a majority-mediated relationship (R² = 0.355
-for intention), robust to controls for gender, year, major, and AI use frequency (Δβ ≤ 0.008). The model's practical claim is a
-sequence with an entry point: AI literacy is necessary but insufficient, and the work of integration happens where technological,
-pedagogical, and content knowledge are combined — which is also where teachers' confidence in teaching the subject is built.
+predicted AI-TPACK strongly, AI-TPACK in turn predicted [[science-education|science teaching]] [[self-efficacy]], and teaching
+self-efficacy was the strongest single predictor of the intention to teach through AI-integrated [[inquiry-based-learning|inquiry]].
+The full serial chain (AI literacy → AI-TPACK → self-efficacy → intention) was significant, as were the separate indirect routes
+through AI-TPACK and through self-efficacy; taken together, most of AI literacy's association with intention ran through these
+mediators rather than directly, and the result held after controlling for gender, year of study, major, and AI use frequency. The
+model's practical claim is a sequence with an entry point: AI literacy is necessary but insufficient, and the work of integration
+happens where technological, pedagogical, and content knowledge are combined — which is also where teachers' confidence in teaching
+the subject is built.
 
 ## Why It Matters in AI Education
 

@@ -1,7 +1,7 @@
 ---
 title: "Are Students Dependent on AI in Writing Courses? Analyzing Factors Influencing Dependence on Generative AI Through the I-PACE Model"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T13:40:00-04:00"
+updated: "2026-09-16T14:10:00-04:00"
 type: article
 tags: [cognitive-offloading, academic-integrity, writing-education, ai-literacy, higher-ed, ai-education]
 audience: [researchers, instructors, administrators]
@@ -10,42 +10,46 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1905037.md']
 confidence: high
 ---
 
-> **Synthesis:** Liu, Zhuang, and Wang (2026) apply the I-PACE model of problematic use to [[generative-ai|generative AI]] dependence in college [[writing-education|academic writing]]. In a [[mixed-methods-research|mixed-methods]] study of 266 Chinese [[higher-ed|college students]] (survey + SEM) and eight in-depth interviews, they find that academic stress, [[ai-literacy]], and [[trust|perceived trust]] significantly predict AI dependence; [[technology-acceptance-model|perceived usefulness]] mediates between academic [[self-efficacy]] and academic stress, while perceived trust mediates between social influence and dependence. Qualitatively, students are aware of AI risks yet report academic stress, peer influence, tool efficiency, and policy ambiguity as incentives for strategic AI use — revealing a strong psychological connection to AI dependence.
+> **Synthesis:** Liu, Zhuang, and Wang (2026) apply the I-PACE model of problematic use to [[generative-ai|generative AI]] dependence in undergraduate [[writing-education|academic writing]]. In a [[mixed-methods-research|mixed-methods]] study at two Chinese universities — a survey analysed with structural equation modelling plus eight interviews — academic stress emerges as the strongest predictor of dependence, [[ai-literacy]] as a protective factor, and social influence as consequential only through perceived [[trust]]. Students knew AI's risks yet kept using it strategically, citing efficiency, peer pressure, and ambiguous institutional rules.
 
 ## Key Findings
 
-- **Academic stress is the strongest predictor** of generative AI dependence in academic writing: high-stress students increasingly seek quick AI-generated content to alleviate pressure, and may struggle to separate academic tasks from AI assistance.
-- **AI literacy is a protective factor.** Learners with lower AI literacy are more prone to psychological dependence; AI literacy cultivates technical understanding and psychological resilience, reducing blind trust and enabling more autonomous, informed interaction with AI.
-- **Perceived trust drives dependence even amid known risks.** Students who acknowledge AI's errors and [[hallucination-risk|hallucinations]] still over-trust its output — perceived trust mediates the path from social influence to dependence.
-- **Social influence operates through trust.** Peer norms ("everyone is using AI") predict dependence behavior specifically via perceived trust, extending the I-PACE path of traits → cognitive/emotional processing → behavior.
-- **No direct academic self-efficacy → stress link.** Contrary to prior work, self-efficacy relates to academic stress only indirectly through perceived usefulness.
-- **Strategic, policy-ambiguous use.** Students report confident strategies (mixing tools, reordering output to evade [[ai-detection|plagiarism detection]]) and cite the absence of clear rules about what counts as compliant use.
+- **Academic stress is the strongest driver of dependence.** Students under the heaviest workload pressure were most likely to lean on AI to produce writing, and had trouble separating the academic task from the assistance.
+- **AI literacy is a protective factor.** Students who understood how AI works, its limits, and its social consequences were less prone to dependence, apparently because literacy supported critical distance.
+- **Trust, not usefulness, is the pathway to dependence.** Students who could name AI's failures still trusted its output and depended on it more; awareness of error did not become scepticism in practice.
+- **Peer influence acts through trust, not directly.** Social influence had no significant direct effect on dependence, but strongly predicted perceived trust, which in turn predicted dependence — conformity matters mainly by making AI feel credible.
+- **Academic self-efficacy does not by itself reduce stress.** Contrary to prior work, confidence in one's academic ability was unrelated to stress until perceived usefulness entered the picture; the buffering effect appeared only for students who saw AI as useful.
+- **Students use AI strategically and call it defensible.** Interviewees described mixing tools and rewriting output to evade [[ai-detection|detection]], framed as responsible use, and blamed the absence of any clear institutional definition of compliant AI use.
 
 ## Study Design & Method
 
-The study used a sequential mixed-methods design in Chinese college academic-writing courses. [[quantitative-research|Quantitative]]: 266 participants recruited by purposive sampling completed an online [[self-report-measures|questionnaire]] measuring academic self-efficacy, AI literacy, academic stress, perceived trust, social influence, and perceived usefulness; relationships were modeled with structural equation modeling (5,000-bootstrap correction). [[qualitative-research|Qualitative]]: eight participants selected for heterogeneity took part in semi-structured interviews analyzed via thematic analysis, covering experience of AI use, motivations for excessive use, and perceptions of dependence.
+A sequential mixed-methods design in a required research-methods writing course for journalism majors. In the quantitative phase, 266 undergraduates at universities in Fujian and Guangdong completed an online questionnaire; after screening for incomplete, straight-line, and implausibly fast responses, 229 were analysed. The survey measured academic self-efficacy, AI literacy, academic stress, perceived trust, social influence, and perceived usefulness with adapted five-point Likert scales, back-translated and pre-tested. Relationships were estimated through structural equation modelling, with bootstrapping for non-normal data and a common-method-bias check.
 
-## Implications for AI in Education
+The qualitative phase drew on open-ended survey responses and semi-structured interviews with eight volunteers selected for heterogeneity in academic performance. Interviews covered their experience of AI-assisted writing, motives for heavy use, and their sense of dependence; transcripts were analysed thematically by two researchers who coded independently.
 
-For [[ai-education|AI in education]] practice, the findings argue for addressing both protective and risk factors together: strengthening students' [[ai-literacy]] while reducing excessive academic stress and clarifying [[academic-integrity|policy]] expectations around AI use. Because dependence forms through a social-influence → trust → behavior pathway, interventions must target peer norms and [[trust-calibration|trust calibration]], not just individual tool skills. Institutions should define concrete, unambiguous rules about compliant AI use rather than leaving students to improvise strategies that erode academic integrity.
+## Implications
+
+- **Address risk and protection together.** Curbing dependence means lowering excessive academic stress while building [[ai-literacy]] — stress drives use, literacy restrains it.
+- **Target peer norms and [[trust-calibration|trust calibration]], not just tool skills.** Because dependence forms through a social-influence to trust to behaviour route, prompting workshops miss the mechanism that produces it.
+- **Write explicit AI-use rules.** Students filled the policy vacuum with improvised, self-justifying strategies; clear definitions of compliant use, and assessment that makes responsible use the easier option, would remove that ambiguity.
 
 ## Limitations
 
 - **Cross-sectional, single-culture sample** of Chinese college students in academic writing courses; causal claims and generalizability to other settings are limited.
-- **Self-reported measures** of dependence, stress, and literacy; objective usage data were not collected.
-- **Small qualitative sample** (n = 8), limiting the breadth of thematic claims.
-- **I-PACE was designed for hedonic apps**; its extension to academic-tool dependence carries conceptual assumptions.
+- **Self-reported measures** of dependence, stress, and literacy; no objective usage data, so dependence is measured as perception rather than behaviour.
+- **Small qualitative sample** of eight interviewees, limiting the breadth of thematic claims.
+- **I-PACE was designed for hedonic apps** such as gaming and social media; extending it to a study tool carries assumptions about what dependence means in academic work.
 
 ## Connected Concepts
 
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[ai-detection]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[teacher-role]]
+- [[cognitive-offloading]] — dependence is framed as habitual offloading of core writing work to AI.
+- [[academic-integrity]] — policy ambiguity let students rationalize strategic AI use as compliant.
+- [[writing-education]] — the study setting is an undergraduate academic-writing course.
+- [[ai-literacy]] — the protective factor against dependence in the model.
+- [[ai-detection]] — students rewrote output specifically to evade detection.
+- [[self-efficacy]] — academic self-efficacy failed to predict stress directly, against expectation.
+- [[higher-ed]] — the population studied, and the policy context of the findings.
+- [[teacher-role]] — instructors' guidance and enforcement shaped students' reading of the rules.
 
 ## Connected Articles
 
