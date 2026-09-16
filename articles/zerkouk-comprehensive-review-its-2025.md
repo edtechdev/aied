@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review of Intelligent Tutoring Systems
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-26T15:34:24-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, adaptive-learning, pedagogical-llm-training, educational-nlp, pedagogical-agent, scaffolding]
 research_method: [literature review]
@@ -9,7 +9,7 @@ sources: ['raw/papers/zerkouk-comprehensive-review-its-2025.md']
 confidence: medium
 ---
 
-> **Comprehensive Review of Intelligent Tutoring Systems** — Journal of Computers in Education (2025). A systematic literature review covering 2010–2025 that analyzes the deployment and effectiveness of Intelligent Tutoring Systems (ITS) in real educational settings. The review examines the full landscape of ITS research — [[pedagogy|pedagogical]] strategies, natural language processing, adaptive learning mechanisms, student modeling approaches, and [[discipline-specific-aied|domain-specific]] applications — and arrives at a nuanced verdict: the evidence for ITS effectiveness is mixed, revealing a complex landscape of genuine advancements alongside persistent challenges in scientific rigor and real-world impact.
+> **Synthesis:** **Comprehensive Review of Intelligent Tutoring Systems** — Journal of Computers in Education (2025). A systematic literature review covering 2010–2025 that analyzes the deployment and effectiveness of Intelligent Tutoring Systems (ITS) in real educational settings. The review examines the full landscape of ITS research — [[pedagogy|pedagogical]] strategies, natural language processing, adaptive learning mechanisms, student modeling approaches, and [[discipline-specific-aied|domain-specific]] applications — and arrives at a nuanced verdict: the evidence for ITS effectiveness is mixed, revealing a complex landscape of genuine advancements alongside persistent challenges in scientific rigor and real-world impact.
 
 ## Key Findings
 

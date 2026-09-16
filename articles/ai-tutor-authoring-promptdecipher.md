@@ -1,7 +1,7 @@
 ---
 title: "PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions"
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-08-24T04:50:09-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, llm, teacher-role, educational-development, edtech-platform, ai-literacy, agentic-ai]
 research_method: [system development, design-based research]
@@ -10,9 +10,7 @@ sources: ['raw/papers/2605.16605.md']
 confidence: high
 ---
 
-## Synthesis
-PromptDecipher addresses a critical gap in AI tutor deployment: teacher quality assurance. A [[formative-assessment|formative]] study of 121 chatbots created by instructors in an "AI for Educators" MOOC revealed that educators authoring AI tutoring chatbots virtually never systematically test them before student deployment — a finding with serious implications for [[ai-tutor-safety-harms]] and educational quality, particularly for K–12 learners. The system shifts the authoring paradigm from abstract system-prompt writing to direct correction-based interaction: teachers edit undesirable bot responses in a live simulated chat, and an automated pipeline analyzes the correction, infers the [[pedagogy|pedagogical]] intent, proposes a targeted [[prompt-engineering|system prompt]] rewrite, and validates it across previously passed test scenarios. This bridges the [[teacher-role]] gap between classroom practitioner and AI system designer — a tension also explored in [[ai-tpack-teacher-multi-agent-workflow]], which found that effective AI integration requires systems thinking beyond simple tool use. By embedding testing directly into the authoring workflow, PromptDecipher scaffolds teachers in roles they would otherwise skip, resonating with the [[agentic-ai]] paradigm of AI-scaffolded work. The design also mitigates the kind of diagnostic failures identified in [[llm-tutoring-feedback-diagnosis-gap]], where LLMs struggle precisely where feedback matters most.
-
+> **Synthesis:** PromptDecipher addresses a critical gap in AI tutor deployment: teacher quality assurance. A [[formative-assessment|formative]] study of 121 chatbots created by instructors in an "AI for Educators" MOOC revealed that educators authoring AI tutoring chatbots virtually never systematically test them before student deployment — a finding with serious implications for [[ai-tutor-safety-harms]] and educational quality, particularly for K–12 learners. The system shifts the authoring paradigm from abstract system-prompt writing to direct correction-based interaction: teachers edit undesirable bot responses in a live simulated chat, and an automated pipeline analyzes the correction, infers the [[pedagogy|pedagogical]] intent, proposes a targeted [[prompt-engineering|system prompt]] rewrite, and validates it across previously passed test scenarios. This bridges the [[teacher-role]] gap between classroom practitioner and AI system designer — a tension also explored in [[ai-tpack-teacher-multi-agent-workflow]], which found that effective AI integration requires systems thinking beyond simple tool use. By embedding testing directly into the authoring workflow, PromptDecipher scaffolds teachers in roles they would otherwise skip, resonating with the [[agentic-ai]] paradigm of AI-scaffolded work. The design also mitigates the kind of diagnostic failures identified in [[llm-tutoring-feedback-diagnosis-gap]], where LLMs struggle precisely where feedback matters most.
 ## Key Findings
 1. In a formative study of 121 teacher-authored chatbots, nearly all instructors successfully specified learning content but virtually none systematically tested their bots before publishing them to students.
 2. PromptDecipher repositions the core authoring activity: instead of writing an abstract system prompt, teachers directly edit undesirable bot responses in a live [[simulating-students|simulated student chat]].

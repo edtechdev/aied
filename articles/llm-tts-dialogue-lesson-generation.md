@@ -1,7 +1,7 @@
 ---
 title: "A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential"
 created: "2026-07-15T04:33:04-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, generative-ai, personalized-learning, scaffolding, active-learning, pedagogical-llm-training]
 audience: [software developers]

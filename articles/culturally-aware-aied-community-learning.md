@@ -1,7 +1,7 @@
 ---
 title: Culturally-Aware AI for Cross-Boundary Community Learning
 created: "2026-06-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [higher-ed, ai-literacy, equity-in-ai-education, student-experience, teacher-role, intelligent-tutoring]
 research_method: [case study]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.09041.md']
 confidence: medium
 ---
 
-Reports on cross-boundary Community-Based Learning where undergraduate students develop AI-enabled solutions for cultural heritage preservation and sustainable development. The paper argues that AIED [[research-methods-aied|research]] often lacks human-centered grounding and adequate attention to cultural context, and that Community-Based Learning — a [[pedagogy]] rooted in social work — remains underrepresented in AIED, particularly within Asia-Pacific contexts.
+> **Synthesis:** Reports on cross-boundary Community-Based Learning where undergraduate students develop AI-enabled solutions for cultural heritage preservation and sustainable development. The paper argues that AIED [[research-methods-aied|research]] often lacks human-centered grounding and adequate attention to cultural context, and that Community-Based Learning — a [[pedagogy]] rooted in social work — remains underrepresented in AIED, particularly within Asia-Pacific contexts.
 
 **Contributions:** Examines how community-engaged computing operationalizes human-centered [[intelligent-tutoring|AIED]] across three dimensions: education, technology, and culture. Proposes a collaborative framework for [[ai-literacy|culturally-aware AIED]] that fosters multi-stakeholder collaboration while widening participation by dissolving disciplinary silos between social work and computational science.
 

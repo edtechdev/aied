@@ -1,7 +1,7 @@
 ---
 title: "AI Literacy Assessment: Self-Reported vs Performance Misalignment"
 created: "2026-05-08T07:38:00-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, assessment, assessment-validity, k-12, self-regulated-learning, educational-development, higher-ed, generative-ai, llm, student-experience]
 research_method: [survey, educational measurement]
@@ -11,7 +11,7 @@ category: [assessment]
 confidence: high
 sources: ['raw/papers/2601.06101.md']
 ---
->Highlights critical misalignment between self-reported [[ai-literacy|AI literacy]] and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessments correlate better (r=0.72) with classroom AI integration than self-reports (r=0.31).
+> **Synthesis:** Highlights critical misalignment between self-reported [[ai-literacy|AI literacy]] and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessments correlate better (r=0.72) with classroom AI integration than self-reports (r=0.31).
 
 ## Key Findings
 

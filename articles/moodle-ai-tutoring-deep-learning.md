@@ -1,7 +1,7 @@
 ---
 title: "From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle"
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, higher-ed, edtech-platform, llm, scaffolding, adaptive-learning, metacognition, formative-assessment]
 research_method: [system development]
@@ -10,12 +10,7 @@ sources: ['raw/papers/2605.06963.md']
 confidence: medium
 ---
 
-> Ostrowska, Kukla & Majstrak (2026) present an AI tutoring system **integrated into the Moodle LMS** designed to scaffold students from surface-level fact recall to deep conceptual understanding through adaptive questioning and feedback.
-
-## Core Contribution
-
-Ostrowska, Kukla & Majstrak (2026) present an AI tutoring system **integrated into the Moodle LMS** designed to scaffold students from surface-level fact recall to deep conceptual understanding through adaptive questioning and feedback.
-
+> **Synthesis:** Ostrowska, Kukla & Majstrak (2026) present an AI tutoring system **integrated into the Moodle LMS** designed to scaffold students from surface-level fact recall to deep conceptual understanding through adaptive questioning and feedback.
 ## How It Works
 
 The system operates within Moodle's existing infrastructure, using [[llm]]-based tutoring to:

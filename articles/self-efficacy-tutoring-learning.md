@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice
 created: "2026-06-17T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:50:31-04:00"
 type: article
 tags: [intelligent-tutoring, personalized-learning, higher-ed, student-experience, self-regulated-learning]
 research_method: [experiment]
@@ -11,11 +11,10 @@ sources: ['raw/papers/2606.17470.md']
 confidence: high
 ---
 
-> **Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, Paulo F. Carvalho** (2026). EC-TEL 2026
+> **Synthesis:** Students with lower baseline [[self-efficacy]] achieved greater learning gains regardless of practice format.
 
 ## Key Findings
 
-- Students with lower baseline [[self-efficacy]] achieved greater learning gains regardless of practice format.
 - Among students with lower baseline self-efficacy, greater favorability toward the tutor was associated with greater learning gains during tutor practice, whereas the pattern differed in paper-based practice.
 - Intelligent Tutoring System (ITS)-based practice did not significantly improve post-training self-efficacy relative to paper-based methods.
 - The benefits of tutor- and paper-based practice varied with baseline self-efficacy and favorability, so no single format dominated for all learners.

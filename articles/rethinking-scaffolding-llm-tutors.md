@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments"
 created: "2026-06-17T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:50:31-04:00"
 type: article
 tags: [scaffolding, intelligent-tutoring, llm, benchmark, student-experience, help-seeking]
 research_method: [benchmark, experiment]
@@ -10,11 +10,10 @@ sources: ['raw/papers/2606.15766.md']
 confidence: high
 ---
 
-> **Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson** (2026). Pluralistic Alignment Workshop @ ICML 2026
+> **Synthesis:** Alignment and evaluation methods for embedding [[scaffolding]] behaviour into [[conversational-ai|chatbots]] rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation.
 
 ## Key Findings
 
-- Alignment and evaluation methods for embedding [[scaffolding]] behaviour into [[conversational-ai|chatbots]] rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation.
 - The paper introduces an evaluation pipeline around two metrics — Chatbot Scaffolding and Student Uptake — applied across nine datasets of 9,490 chats spanning AI tutor benchmarks and real-world deployments of educational chatbots.
 - While benchmarks assume a high-scaffolding, high-student-uptake environment, students in real-world settings exhibit lower levels of uptake overall, frequently bypassing the chatbot's [[pedagogy|pedagogical]] framing to drive the interaction toward their own learning goals at little interpersonal cost.
 - Bypassing scaffolding is not necessarily detrimental; it frequently highlights a mismatch between a chatbot's pedagogical framing and the student's learning goals.

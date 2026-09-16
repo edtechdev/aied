@@ -1,7 +1,7 @@
 ---
 title: "Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability"
 created: "2026-05-27T07:38:00-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, special-education, equity-in-ai-education, bias-mitigation, llm, student-experience, ai-literacy, scaffolding, stem-education]
 research_method: [theoretical analysis]
@@ -12,10 +12,7 @@ confidence: high
 sources: []
 ---
 
-## Overview
-
-This paper argues that [[generative-ai]] systems in [[higher-ed]] are not epistemically neutral — they actively marginalize non-hegemonic ways of knowing. Drawing on educational sciences, critical technology studies, and disability studies, Tali-Otmani demonstrates how predominantly Anglophone and Western-centric training data reinforces epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration, where technological architectures confine them to reductive stereotypes or exclude them from the design process entirely.
-
+> **Synthesis:** This paper argues that [[generative-ai]] systems in [[higher-ed]] are not epistemically neutral — they actively marginalize non-hegemonic ways of knowing. Drawing on educational sciences, critical technology studies, and disability studies, Tali-Otmani demonstrates how predominantly Anglophone and Western-centric training data reinforces epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration, where technological architectures confine them to reductive stereotypes or exclude them from the design process entirely.
 ## Double Marginalization
 
 The paper identifies a **double marginalization** for disabled learners: first, their epistemologies are underrepresented in AI training data; second, they are excluded from the design process that shapes AI tools used in education. This compounds existing [[equity-in-ai-education]] challenges documented in [[digital-literacy-illusion]] research, where surface-level AI proficiency masks deeper exclusion. The concept extends [[equity-in-ai-education]] frameworks by focusing on knowledge production rather than just access.

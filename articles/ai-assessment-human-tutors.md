@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice"
 created: "2026-06-18T04:33:04-04:00"
-updated: "2026-08-22T19:20:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, automated-assessment, feedback, teacher-role, simulation, formative-assessment]
 research_method: [experiment]

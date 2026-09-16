@@ -1,7 +1,7 @@
 ---
 title: "Stop Writing for Me: Generative Refusal in AI Tools for Thought"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, writing-education, scaffolding, learning-theories, cognitive-offloading]
 research_method: [theoretical analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.24751.md']
 confidence: medium
 ---
 
-Position paper exploring "Generative Refusal" — AI tools that strategically withhold text generation to demand user articulation, functioning as a Maieutic Partner rather than a cognitive offloading tool. Argues that in domains where the labor of articulation is central to craft, AI should enhance rather than bypass human cognition.
+> **Synthesis:** Position paper exploring "Generative Refusal" — AI tools that strategically withhold text generation to demand user articulation, functioning as a Maieutic Partner rather than a cognitive offloading tool. Argues that in domains where the labor of articulation is central to craft, AI should enhance rather than bypass human cognition.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring"
 created: "2026-06-19T04:33:04-04:00"
-updated: "2026-08-14"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, llm, k-12, personalized-learning, scaffolding, adaptive-learning, student-experience, prompt-engineering]
 research_method: [system development, benchmark]
@@ -11,11 +11,7 @@ sources: ['raw/papers/2606.20138.md']
 confidence: high
 ---
 
-> **Chang, P.-C., Hogan, N., Plaat, A., & van der Meer, M. T.** (2026). arXiv cs.AI preprint.
-
-## Overview
-
-Adaptive [[llm]] tutoring with subject-aware prompt routing based on 14 [[pedagogy|pedagogical]] features. An A/B test on 656 conversations from 359 Dutch high-school students showed [[simulation]]-to-real transfer. A stochastic router achieved 28.1% exercise conversion rate vs 19.6% baseline, reducing interaction turns by ~3 (p=0.007) while maintaining pedagogical quality.
+> **Synthesis:** Adaptive [[llm]] tutoring with subject-aware prompt routing based on 14 [[pedagogy|pedagogical]] features. An A/B test on 656 conversations from 359 Dutch high-school students showed [[simulation]]-to-real transfer. A stochastic router achieved 28.1% exercise conversion rate vs 19.6% baseline, reducing interaction turns by ~3 (p=0.007) while maintaining pedagogical quality.
 
 ## Key Findings
 

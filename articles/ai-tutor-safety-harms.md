@@ -1,7 +1,7 @@
 ---
 title: AI Tutor Safety and Pedagogical Harms
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [pedagogical-safety, intelligent-tutoring, adaptive-learning, k-12, higher-ed, llm, bias-mitigation, pedagogical-llm-training, self-regulated-learning, educational-development]
 research_method: [theoretical analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/hazra-safetutors-pedagogical-safety-2026.md']
 confidence: high
 ---
 
-> Conventional [[llm]] safety [[benchmark|benchmarks]] focus on toxic outputs, jailbreaks, and bias. In education, the primary risks are quieter:
+> **Synthesis:** Conventional [[llm]] safety [[benchmark|benchmarks]] focus on toxic outputs, jailbreaks, and bias. In education, the primary risks are quieter:
 
 > "Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different." SafeTutors exposes that **all tested models show broad [[pedagogy|pedagogical]] harm**, with failures escalating from **17.7% in single-turn to 77.8% in multi-turn** student-tutor dialogue.([[hazra-safetutors-pedagogical-safety-2026]])
 

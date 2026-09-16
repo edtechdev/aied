@@ -1,7 +1,7 @@
 ---
 title: Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
 created: "2026-05-13T04:33:04-04:00"
-updated: "2026-08-24T10:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [knowledge-tracing, learning-analytics, personalized-learning, intelligent-tutoring, student-experience]
 research_method: [benchmark]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2605.05958.md']
 confidence: medium
 ---
 
-> Zhan et al. reframe Knowledge Tracing as a problem of selection bias: educational logs are recorded non-randomly because students skip questions they deem too hard, too easy, or boring, so standard empirical-risk training fits the selection policy rather than the true knowledge state. Their **Temporal Smoothness Doubly Robust (TSDR)** framework combines a doubly robust estimator (a propensity model plus an error imputation model) with a temporal smoothness regularizer, deriving a generalization bound that shows the smoothness constraint controls the variance term that destabilizes sequential training. Across nine real-world benchmarks and controlled MNAR [[simulation|simulations]], TSDR consistently improves six state-of-the-art KT backbones while remaining "safe" even when selection bias is minimal.
+> **Synthesis:** Zhan et al. reframe Knowledge Tracing as a problem of selection bias: educational logs are recorded non-randomly because students skip questions they deem too hard, too easy, or boring, so standard empirical-risk training fits the selection policy rather than the true knowledge state. Their **Temporal Smoothness Doubly Robust (TSDR)** framework combines a doubly robust estimator (a propensity model plus an error imputation model) with a temporal smoothness regularizer, deriving a generalization bound that shows the smoothness constraint controls the variance term that destabilizes sequential training. Across nine real-world benchmarks and controlled MNAR [[simulation|simulations]], TSDR consistently improves six state-of-the-art KT backbones while remaining "safe" even when selection bias is minimal.
 
 ## Key Findings
 

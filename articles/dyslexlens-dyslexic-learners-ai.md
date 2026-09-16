@@ -1,7 +1,7 @@
 ---
 title: "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums"
 created: "2026-06-29T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [special-education, llm, ai-literacy, equity-in-ai-education, student-experience, language-learning, k-12, higher-ed]
 research_method: [system development, mixed methods]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2606.27619.md']
 confidence: high
 ---
 
-DysLexLens is a low-resource [[llm]] framework designed to analyze how [[special-education|dyslexic learners]] experience AI tools by mining online forum discussions. The framework employs dictionary-driven filtering to construct focused corpora from Reddit, integrates LLM-assisted [[knowledge-graph|knowledge graph]] reasoning, and generates verifiable query responses about learners' lived experiences with AI for reading, writing, and study tasks.
+> **Synthesis:** DysLexLens is a low-resource [[llm]] framework designed to analyze how [[special-education|dyslexic learners]] experience AI tools by mining online forum discussions. The framework employs dictionary-driven filtering to construct focused corpora from Reddit, integrates LLM-assisted [[knowledge-graph|knowledge graph]] reasoning, and generates verifiable query responses about learners' lived experiences with AI for reading, writing, and study tasks.
 
 The [[research-methods-aied|research]] reveals that while dyslexic learners find value in AI tools for [[ai-literacy|supporting literacy]], they face significant [[inclusive-learning|accessibility barriers]] including inconsistent output quality and lack of [[equity-in-ai-education|equitable]] accommodations. This has direct implications for [[student-experience|student-AI interaction]] design and suggests that inclusive [[ai-education|AI education]] must address [[language-learning|language and literacy support]] across both [[k-12|K-12]] and [[higher-ed|higher education]] settings.
 

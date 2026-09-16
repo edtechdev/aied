@@ -1,7 +1,7 @@
 ---
 title: 'Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming'
 created: "2026-06-30T04:33:04-04:00"
-updated: "2026-08-12"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [academic-integrity, higher-ed, llm, cognitive-offloading, student-experience]
 research_method: [experiment, survey]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2606.30480.md']
 confidence: high
 ---
 
-**Tran, Harper & Price (2026)** examine a pressing motivational paradox in contemporary computing education: the ready availability of AI tools that can complete programming assignments undermines students' willingness to invest effort in developing their own skills. Drawing on self-determination theory, the study identifies how the perception of AI as a 'shortcut' reduces autonomous motivation and fosters a transactional orientation toward learning. The findings resonate with existing work on [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]], suggesting that easy access to AI-generated code may erode the very persistence that produces deep learning.
+> **Synthesis:** **Tran, Harper & Price (2026)** examine a pressing motivational paradox in contemporary computing education: the ready availability of AI tools that can complete programming assignments undermines students' willingness to invest effort in developing their own skills. Drawing on self-determination theory, the study identifies how the perception of AI as a 'shortcut' reduces autonomous motivation and fosters a transactional orientation toward learning. The findings resonate with existing work on [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]], suggesting that easy access to AI-generated code may erode the very persistence that produces deep learning.
 
 ## The motivational paradox
 

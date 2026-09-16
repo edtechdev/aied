@@ -1,7 +1,7 @@
 ---
 title: "AI Literacy: An Exercise in Power-Knowledge"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, equity-in-ai-education, learning-theories, generative-ai]
 audience: [instructors]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2607.27547.md']
 confidence: high
 ---
 
-Argues existing AI literacy frameworks, dominated by technical competency and responsible-use principles, enforce a consumer orientation toward AI rather than fostering genuine epistemic agency. Draws on Foucault's power-knowledge framework to propose a critical AI literacy that empowers learners to shape and challenge AI systems rather than merely use them.
+> **Synthesis:** Argues existing AI literacy frameworks, dominated by technical competency and responsible-use principles, enforce a consumer orientation toward AI rather than fostering genuine epistemic agency. Draws on Foucault's power-knowledge framework to propose a critical AI literacy that empowers learners to shape and challenge AI systems rather than merely use them.
 
 ## Key Findings
 

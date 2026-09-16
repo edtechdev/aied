@@ -1,7 +1,7 @@
 ---
 title: "Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact"
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, llm, feedback, scaffolding, benchmark, learning-analytics, student-experience, agentic-ai, k-12]
 research_method: [benchmark]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2606.16206.md']
 confidence: high
 ---
 
-Studies whether public [[llm]] tutoring benchmarks distinguish learning-supportive behavior from mere answer production. Proposes a lightweight diagnostic based on the gap between solving-oriented and [[pedagogy]]-oriented benchmark performance. Using MathTutorBench, shows correlation between solving and pedagogy composites is only r=0.421 across 8 models, with several models shifting rank when evaluated on pedagogy. Benchmarks reward guiding questions, calibrated hints, and non-disclosive scaffolding. Recommends reporting solving and pedagogy scores separately.
+> **Synthesis:** Studies whether public [[llm]] tutoring benchmarks distinguish learning-supportive behavior from mere answer production. Proposes a lightweight diagnostic based on the gap between solving-oriented and [[pedagogy]]-oriented benchmark performance. Using MathTutorBench, shows correlation between solving and pedagogy composites is only r=0.421 across 8 models, with several models shifting rank when evaluated on pedagogy. Benchmarks reward guiding questions, calibrated hints, and non-disclosive scaffolding. Recommends reporting solving and pedagogy scores separately.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence and feedback in university education: effectiveness and student perceptions"
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-08-26T15:33:47-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, feedback, higher-ed, student-experience, learning-gains, formative-assessment, ai-literacy, rag, scaffolding, llm]
 research_method: [learning analytics]
@@ -12,10 +12,7 @@ sources: ['raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md']
 confidence: high
 ---
 
-## Summary
-
-This quasi-experimental study directly compares **AI-generated feedback** (two LLMs: **GPT-o4-mini** and **DeepSeek R1**) with **expert human-teacher feedback** in a project-based university course (Assessment & Learning, third-year Primary [[teacher-education|Teacher Education]], University of Padua). The central question is not "is AI feedback worse?" but *under what [[pedagogy|pedagogical]] conditions* AI feedback can be a credible, educationally meaningful component of formative assessment. The answer the authors land on: **feedback effectiveness depends less on its source than on the pedagogical architecture in which it is embedded** — strong assessment literacy and explicit, shared criteria make AI feedback comparable to teacher feedback.
-
+> **Synthesis:** This quasi-experimental study directly compares **AI-generated feedback** (two LLMs: **GPT-o4-mini** and **DeepSeek R1**) with **expert human-teacher feedback** in a project-based university course (Assessment & Learning, third-year Primary [[teacher-education|Teacher Education]], University of Padua). The central question is not "is AI feedback worse?" but *under what [[pedagogy|pedagogical]] conditions* AI feedback can be a credible, educationally meaningful component of formative assessment. The answer the authors land on: **feedback effectiveness depends less on its source than on the pedagogical architecture in which it is embedded** — strong assessment literacy and explicit, shared criteria make AI feedback comparable to teacher feedback.
 ## Method (key parameters)
 - **Design:** 47 student groups (N = 238; 146 attending, 92 non-attending) randomly assigned to one of three feedback conditions — DeepSeek R1 (16 groups), expert human teacher (16), GPT-o4-mini (15). Unit of analysis = group (4–5 students each) to preserve independence.
 - **Task:** Two-stage project (PRE then POST), evaluated with a shared analytic rubric (0–30 points) co-constructed with students.

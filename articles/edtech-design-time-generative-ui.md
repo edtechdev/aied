@@ -1,7 +1,7 @@
 ---
 title: "The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization"
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [personalized-learning, adaptive-learning, edtech-platform, student-experience, equity-in-ai-education, learning-analytics, llm, k-12]
 research_method: [theoretical analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.15902.md']
 confidence: medium
 ---
 
-> Argues the dominant paradigm of runtime GenUI adaptation in EdTech is insufficient. Proposes design-time card-based GenUI where educational content is encoded as modality-agnostic semantic units and [[generative-ai|GenAI]] produces multiple interface representations (interactive, audio, simplified text, low-bandwidth) at design time for instructor verification. Embeds [[universal-design-for-learning|Universal Design for Learning]] into authoring workflow and eliminates per-learner inference costs.
+> **Synthesis:** Argues the dominant paradigm of runtime GenUI adaptation in EdTech is insufficient. Proposes design-time card-based GenUI where educational content is encoded as modality-agnostic semantic units and [[generative-ai|GenAI]] produces multiple interface representations (interactive, audio, simplified text, low-bandwidth) at design time for instructor verification. Embeds [[universal-design-for-learning|Universal Design for Learning]] into authoring workflow and eliminates per-learner inference costs.
 
 - Proposes design-time (not runtime) generative UI for EdTech to embed UDL principles and eliminate per-learner inference costs.
 

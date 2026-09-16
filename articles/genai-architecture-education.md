@@ -1,7 +1,7 @@
 ---
 title: "Gen-AI-tecture: using generative AI to support architectural students in design tasks"
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, critical-thinking, ai-literacy, personalized-learning, equity-in-ai-education, professional-training, educational-measurement, constructivist]
 research_method: [educational measurement]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.21361.md']
 confidence: high
 ---
 
-Kapsalis (2026) presents one of the first empirical studies of generative AI integration in architectural design education, using a locally executed, [[discipline-specific-aied|discipline-specific]] tool within a [[mixed-methods-research|mixed-methods]] focus-group design. The study addresses three objectives: [[creativity]] impact, inclusivity enhancement, and employability preparation. Results showed enhanced creative fluency, broadened participation across diverse learner profiles, and strengthened student confidence in AI-supported workflows.
+> **Synthesis:** Kapsalis (2026) presents one of the first empirical studies of generative AI integration in architectural design education, using a locally executed, [[discipline-specific-aied|discipline-specific]] tool within a [[mixed-methods-research|mixed-methods]] focus-group design. The study addresses three objectives: [[creativity]] impact, inclusivity enhancement, and employability preparation. Results showed enhanced creative fluency, broadened participation across diverse learner profiles, and strengthened student confidence in AI-supported workflows.
 
 This work extends the [[generative-ai]] education literature beyond text-based domains (coding, writing) into visual-spatial design disciplines. The finding that gen-AI tools broadened participation is particularly significant for [[equity-in-ai-education]] [[research-methods-aied|research]] — students who traditionally struggled with manual drafting or 3D modeling gained new entry points. This connects to [[ai-literacy]] discussions about AI as an [[accessibility]] tool and [[personalized-learning]] frameworks that emphasize multiple pathways to competence.
 

@@ -1,7 +1,7 @@
 ---
 title: LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
 created: "2026-07-14T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [project-based-learning, generative-ai, formative-assessment, stem-education, higher-ed, scaffolding, llm]
 research_method: [survey, mixed methods]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.11032.md']
 confidence: high
 ---
 
-Introduces 'design problems' (DPs): concise, scenario-based prompts that require applying knowledge in transfer contexts, generated with LLMs to assess [[critical-thinking|higher-order thinking]] (HOT) in [[project-based-learning|project-based learning]]. Traditional PjBL assessments often fail to capture HOT, especially transfer; DPs target that gap.
+> **Synthesis:** Introduces 'design problems' (DPs): concise, scenario-based prompts that require applying knowledge in transfer contexts, generated with LLMs to assess [[critical-thinking|higher-order thinking]] (HOT) in [[project-based-learning|project-based learning]]. Traditional PjBL assessments often fail to capture HOT, especially transfer; DPs target that gap.
 
 Bridges [[generative-ai]] generation with [[formative-assessment]] and [[active-learning]], linking to [[scaffolding]] of complex tasks and [[higher-ed]]/[[cs-education]] contexts. It contributes a concrete method for scaling HOT assessment and informs [[generative-ai]] used for evaluation rather than just content delivery.
 

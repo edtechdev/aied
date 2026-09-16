@@ -1,7 +1,7 @@
 ---
 title: "Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [stem-education, k-12, higher-ed, active-learning, scaffolding, personalized-learning, project-based-learning, intelligent-tutoring, agentic-ai]
 research_method: [case study]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2605.05144.md']
 confidence: medium
 ---
 
-> A [[pedagogy|pedagogical]] model where human mentors and AI tools jointly support student learning in project-based contexts. Human mentors provide conceptual guidance, debugging, and problem formulation support; AI tools accelerate execution, code generation, and rapid iteration. Demonstrated by Chawla et al. (2026) in a ten-week financial forecasting project with high-school and early-undergraduate students, the model produced accelerated progress, instructive failure modes, and a clear division of labor: AI handled tactical execution while human mentors retained strategic judgment.
+> **Synthesis:** A [[pedagogy|pedagogical]] model where human mentors and AI tools jointly support student learning in project-based contexts. Human mentors provide conceptual guidance, debugging, and problem formulation support; AI tools accelerate execution, code generation, and rapid iteration. Demonstrated by Chawla et al. (2026) in a ten-week financial forecasting project with high-school and early-undergraduate students, the model produced accelerated progress, instructive failure modes, and a clear division of labor: AI handled tactical execution while human mentors retained strategic judgment.
 
 ## Definition
 A pedagogical model where [[human-ai-collaboration|human mentors and AI tools]] jointly support student learning in [[project-based-learning|project-based contexts]]. Human mentors provide conceptual guidance, debugging, and problem formulation support; AI tools accelerate execution, code generation, and rapid iteration. Demonstrated by Chawla et al. (2026) in a financial forecasting project with [[k-12|high-school]] students, the model positions AI as a complement to—rather than a replacement for—human mentorship, with each side covering the other's limits.

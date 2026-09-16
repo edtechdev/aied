@@ -1,7 +1,7 @@
 ---
 title: Neural-Symbolic Knowledge Tracing
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, learning-analytics, adaptive-learning, pedagogical-safety, mastery-learning, pedagogical-llm-training, student-experience, rag, machine-learning]
 research_method: [benchmark]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2604.08263.md']
 confidence: medium
 ---
 
-> Key limitations exist in both [[llm]]-based tutoring and conventional Deep Knowledge Tracing (DKT):
+> **Synthesis:** Key limitations exist in both [[llm]]-based tutoring and conventional Deep Knowledge Tracing (DKT):
 
 > Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable [[student-modeling|learner modeling]] in [[intelligent-tutoring|intelligent tutoring systems]].
 

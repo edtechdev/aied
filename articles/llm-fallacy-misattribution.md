@@ -1,7 +1,7 @@
 ---
 title: The LLM Fallacy and Misattribution of Competence
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [metacognition, cognitive-offloading, llm, k-12, higher-ed, academic-integrity, self-regulated-learning, generative-ai, rag, scaffolding]
 research_method: [theoretical analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/kim-llm-fallacy-misattribution-2026.md']
 confidence: high
 ---
 
-> Three system properties enable the fallacy via two cognitive mediators:
+> **Synthesis:** Three system properties enable the fallacy via two cognitive mediators:
 
 > The [[llm]] fallacy is a **cognitive attribution error** in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between **perceived and actual capability** (∆C). It is independent of output correctness — it persists whether the AI is accurate or hallucinating.
 

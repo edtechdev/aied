@@ -1,7 +1,7 @@
 ---
 title: Building AI Companions that Prioritise Learning over Performance
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-08-26T09:57:51-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, personalized-learning, adaptive-learning, metacognition, student-experience, self-regulated-learning, scaffolding]
 research_method: [theoretical analysis]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2605.04816.md']
 confidence: high
 ---
 
-> A design framework for [[llm]]-powered educational agents that prioritize durable learning over short-term task performance. Introduced by Khosravi et al. (2026), AI learning companions are defined as adaptive, pedagogically informed agents integrated into learning environments — distinct from both task-oriented LLMs and simple prompted tutors. The framework rests on three interrelated foundations ([[pedagogy|pedagogical]], adaptive, and responsible design) and argues that the LLMs now entering education were "built for work, not for learning," requiring a fundamental reconceptualisation rather than a tweak to [[prompt-engineering|prompting strategy]].
+> **Synthesis:** A design framework for [[llm]]-powered educational agents that prioritize durable learning over short-term task performance. Introduced by Khosravi et al. (2026), AI learning companions are defined as adaptive, pedagogically informed agents integrated into learning environments — distinct from both task-oriented LLMs and simple prompted tutors. The framework rests on three interrelated foundations ([[pedagogy|pedagogical]], adaptive, and responsible design) and argues that the LLMs now entering education were "built for work, not for learning," requiring a fundamental reconceptualisation rather than a tweak to [[prompt-engineering|prompting strategy]].
 
 ## Definition
 A design framework for LLM-powered educational agents that prioritize durable learning over short-term task performance. Introduced by Khosravi et al. (2026), AI learning companions are defined as adaptive, pedagogically informed agents integrated into learning environments — distinct from both task-oriented LLMs and simple prompted tutors. The framework is built on three interrelated foundations: a pedagogical foundation (how students learn *with* AI), an adaptive foundation (how AI learns *about* students), and a responsible design foundation (transparency, accountability, inclusivity, security).

@@ -1,7 +1,7 @@
 ---
 title: Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition
 created: "2026-05-26T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, metacognition, student-experience, cognitive-offloading, self-regulated-learning, scaffolding]
 research_method: [experiment]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.25856.md']
 confidence: high
 ---
 
-This preregistered between-subjects study (N=559) provides the first rigorous evidence that [[llm]] reasoning traces — increasingly common in AI interfaces — do not improve performance and can actively impair it. More critically, they create a dangerous [[metacognition|metacognitive]] blind spot: participants substantially overestimate their performance regardless of trace format.
+> **Synthesis:** This preregistered between-subjects study (N=559) provides the first rigorous evidence that [[llm]] reasoning traces — increasingly common in AI interfaces — do not improve performance and can actively impair it. More critically, they create a dangerous [[metacognition|metacognitive]] blind spot: participants substantially overestimate their performance regardless of trace format.
 
 ## Key Findings
 - **Summary traces** preserved task performance at the no-trace baseline while elevating trust and hedonic appeal — changing how users *feel* without helping them perform.

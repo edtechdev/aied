@@ -1,7 +1,7 @@
 ---
 title: Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [higher-ed, llm, automated-assessment, student-experience, stem-education, learning-analytics, k-12]
 research_method: [benchmark]
@@ -13,7 +13,7 @@ sources: ['raw/papers/2606.15919.md']
 confidence: high
 ---
 
-Investigates [[llm]] [[conversational-ai|chatbots]]' performance on 70 MCQs for a university CS lecture on interactive visual data analysis, comparing with [[learning-gains|student performance]]. GPT-4o and GPT-5 significantly outperformed smaller models. A user study in two courses showed that presenting ChatGPT answers with explanations did NOT generally improve student performance.
+> **Synthesis:** Investigates [[llm]] [[conversational-ai|chatbots]]' performance on 70 MCQs for a university CS lecture on interactive visual data analysis, comparing with [[learning-gains|student performance]]. GPT-4o and GPT-5 significantly outperformed smaller models. A user study in two courses showed that presenting ChatGPT answers with explanations did NOT generally improve student performance.
 
 ## Key Findings
 

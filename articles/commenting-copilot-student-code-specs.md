@@ -1,7 +1,7 @@
 ---
 title: "Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications"
 created: "2026-07-14T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, student-experience, stem-education, higher-ed, cs-education, ai-literacy, rag]
 research_method: [interviews]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2607.10674.md']
 confidence: high
 ---
 
-Analyzes how students specify intended behavior in natural language to AI code tools (Copilot) across multiple years, deriving a taxonomy of code-generation specifications expressed through comments. As AI tools shift emphasis from writing code to specifying behavior, the study documents what students actually ask of these systems.
+> **Synthesis:** Analyzes how students specify intended behavior in natural language to AI code tools (Copilot) across multiple years, deriving a taxonomy of code-generation specifications expressed through comments. As AI tools shift emphasis from writing code to specifying behavior, the study documents what students actually ask of these systems.
 
 Situates in [[llm]]-assisted [[programming-its]] and [[student-experience]] within [[cs-education]] and [[higher-ed]], extending [[reshaping-cs-education-genai]] by characterizing the new 'specification' literacy. It informs [[ai-literacy]] for coding and the design of tools that [[scaffolding|scaffold]] rather than replace student reasoning.
 

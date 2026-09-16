@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning"
 created: "2026-07-02T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [stem-education, higher-ed, personalized-learning, active-learning, online-teaching-and-learning, generative-ai, student-experience, rag, llm]
 research_method: [mixed methods, user study]
@@ -12,9 +12,7 @@ sources: ['raw/papers/2607.00979.md']
 confidence: medium
 ---
 
-> **Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman** — submitted 1 Jul 2026
-
-**Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman** — submitted 1 Jul 2026
+> **Synthesis:** **Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman** — submitted 1 Jul 2026
 
 User study with 24 participants comparing classroom instruction, mixed-reality apps, and physical toolkits for Engineering Mechanics reveals [[multimodal]] learning improves [[student-engagement|engagement]] but complex visualizations remain challenging.
 

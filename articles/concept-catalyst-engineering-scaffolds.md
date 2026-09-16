@@ -1,7 +1,7 @@
 ---
 title: Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, scaffolding, k-12, stem-education, teacher-role, generative-ai, learning-design]
 research_method: [system development, case study]
@@ -13,7 +13,7 @@ sources: ['raw/papers/2605.20511.md']
 confidence: high
 ---
 
-> Concept Catalyst is a web-based [[llm]] tool that helps [[k-12]] teachers rapidly build scaffolding questions for Engineering Design Challenges without the open-endedness of a chat interface. It walks teachers through three non-linear stages — **Summarize** (decompose a design challenge into a paragraph), **Conceptualize** (highlight, drag, and connect key concepts in a visual graph), and **Synthesize** (attach concepts to question groups and generate five editable scaffold questions each). The tool is entirely teacher-facing: it keeps every decision with the teacher, using the LLM only to generate suggestions that teachers can accept, reject, or modify, thereby reducing preparation time and [[cognitive-offloading|cognitive load]] while preserving [[teacher-role|teacher agency]] and supporting reflective practice around the Engineering Design Process.
+> **Synthesis:** Concept Catalyst is a web-based [[llm]] tool that helps [[k-12]] teachers rapidly build scaffolding questions for Engineering Design Challenges without the open-endedness of a chat interface. It walks teachers through three non-linear stages — **Summarize** (decompose a design challenge into a paragraph), **Conceptualize** (highlight, drag, and connect key concepts in a visual graph), and **Synthesize** (attach concepts to question groups and generate five editable scaffold questions each). The tool is entirely teacher-facing: it keeps every decision with the teacher, using the LLM only to generate suggestions that teachers can accept, reject, or modify, thereby reducing preparation time and [[cognitive-offloading|cognitive load]] while preserving [[teacher-role|teacher agency]] and supporting reflective practice around the Engineering Design Process.
 
 ## Key Findings
 

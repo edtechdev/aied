@@ -1,7 +1,7 @@
 ---
 title: "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most"
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-08-24T13:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, benchmark, scaffolding, feedback, hallucination-risk, ai-literacy]
 audience: [researchers, software developers]

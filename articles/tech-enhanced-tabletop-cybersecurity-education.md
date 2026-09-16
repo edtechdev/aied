@@ -1,7 +1,7 @@
 ---
 title: "Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [edtech-platform, stem-education, higher-ed, professional-training, active-learning]
 research_method: [system development, case study]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.28179.md']
 confidence: high
 ---
 
-Innovative practice paper examining the integration of technology-enhanced tabletop exercises into cybersecurity curricula. Addresses the gap between professional TTX practice and university adoption, presenting lessons learned from implementation in computing education contexts.
+> **Synthesis:** Innovative practice paper examining the integration of technology-enhanced tabletop exercises into cybersecurity curricula. Addresses the gap between professional TTX practice and university adoption, presenting lessons learned from implementation in computing education contexts.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: Archetypes or ability? Clustering for modelling student mathematical competence
 created: "2026-07-30T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [personalized-learning, stem-education, learning-analytics, student-experience, adaptive-learning, k-12, higher-ed, knowledge-tracing, ai-literacy, formative-assessment]
 research_method: [benchmark]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2607.26063.md']
 confidence: high
 ---
 
-On 119,034 students across 13 UK national exams, Bernoulli Mixture Models found few distinct skill clusters — overall ability dominates. A simple explainable model achieved 78% accuracy, competitive with complex approaches. Small personalization gains are possible by accounting for individual question-level strengths, but students don't develop strongly divergent ability profiles across topics.
+> **Synthesis:** On 119,034 students across 13 UK national exams, Bernoulli Mixture Models found few distinct skill clusters — overall ability dominates. A simple explainable model achieved 78% accuracy, competitive with complex approaches. Small personalization gains are possible by accounting for individual question-level strengths, but students don't develop strongly divergent ability profiles across topics.
 
 **Relevance to [[ai-education|AI in Education]]:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
 

@@ -1,7 +1,7 @@
 ---
 title: "DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education"
 created: "2026-05-29T19:01:35-04:00"
-updated: "2026-08-13"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-education, ai-literacy, design-thinking, higher-ed, human-in-the-loop-ai, change-management, open-source, teacher-role]
 research_method: [survey]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2605.29041.md']
 confidence: high
 ---
 
-A 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how [[higher-ed|higher education]] practitioners think about and use AI in [[teacher-role|teaching]], grounded in the **DOT Framework** — a synthesis of [[design-thinking]] and open-systems-theory.
+> **Synthesis:** A 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how [[higher-ed|higher education]] practitioners think about and use AI in [[teacher-role|teaching]], grounded in the **DOT Framework** — a synthesis of [[design-thinking]] and open-systems-theory.
 
 ## Core Findings
 

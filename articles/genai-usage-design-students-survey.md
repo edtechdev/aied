@@ -1,7 +1,7 @@
 ---
 title: "A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026"
 created: "2026-07-22T04:33:04-04:00"
-updated: "2026-09-12T03:30:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, ai-literacy, academic-integrity, writing-education]
 research_method: [survey, mixed methods]

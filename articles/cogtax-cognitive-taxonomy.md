@@ -1,7 +1,7 @@
 ---
 title: "CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education"
 created: "2026-07-02T04:33:04-04:00"
-updated: "2026-08-24T20:30:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, formative-assessment, stem-education, scaffolding, higher-ed, generative-ai, rag]
 research_method: [benchmark]
@@ -11,9 +11,7 @@ sources: ['raw/papers/2607.00140.md']
 confidence: medium
 ---
 
-> **Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira** — Universidade de Vigo, submitted 30 Jun 2026
-
-**Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira** — Universidade de Vigo, submitted 30 Jun 2026
+> **Synthesis:** **Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira** — Universidade de Vigo, submitted 30 Jun 2026
 
 Proposes CogTax, a four-level cognitive taxonomy for command-line computing education that integrates Bloom's Revised Taxonomy with operational impact dimensions, achieving 89% accuracy in automated classification.
 

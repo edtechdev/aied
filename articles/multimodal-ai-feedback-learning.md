@@ -1,7 +1,7 @@
 ---
 title: LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:48:59-04:00"
 type: article
 tags: [multimodal, feedback, generative-ai, llm, student-experience, learning-analytics, automated-assessment, human-in-the-loop-ai, formative-assessment, rag]
 research_method: [experiment, survey]
@@ -11,9 +11,10 @@ sources: ['raw/papers/2601.15280.md']
 confidence: high
 ---
 
+> **Synthesis:** **AI multimodal feedback matches educator feedback for learning while significantly outperforming it on student perceptions.**
+
 ## Core Finding
 
-**AI multimodal feedback matches educator feedback for learning while significantly outperforming it on student perceptions.**
 
 The authors built a real-time AI-facilitated multimodal feedback system integrating structured text, relevant slide references, and streaming AI audio narration. In a crowdsourced experiment, they compared it against fixed "business-as-usual" educator feedback.
 

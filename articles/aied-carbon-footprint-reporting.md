@@ -1,7 +1,7 @@
 ---
 title: "The Environmental Cost of LLMs in AIED: Reporting and Practices"
 created: "2026-06-11T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, generative-ai, educational-policy-ai, privacy, ethics, open-source, ai-education]
 research_method: [experiment]
@@ -9,9 +9,7 @@ sources: ['raw/papers/2606.11215.md']
 confidence: high
 ---
 
-> **Sabrina C. Eimler, Lukas Erle, Daniel Flood, Aditi Haiman, Luca Häckert, André Helgert, Lachlan McGinness, Büsra Yapici**
-
-**Sabrina C. Eimler, Lukas Erle, Daniel Flood, Aditi Haiman, Luca Häckert, André Helgert, Lachlan McGinness, Büsra Yapici**
+> **Synthesis:** **Sabrina C. Eimler, Lukas Erle, Daniel Flood, Aditi Haiman, Luca Häckert, André Helgert, Lachlan McGinness, Büsra Yapici**
 
 ## Summary
 

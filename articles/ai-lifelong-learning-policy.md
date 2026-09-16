@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy"
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-08-24T13:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [lifelong-learning, educational-policy-ai, equity-in-ai-education, intelligent-tutoring, ai-literacy, learning-analytics, bias-mitigation, regulation]
 audience: [administrators]
@@ -11,7 +11,7 @@ confidence: medium
 
 ---
 
-Theodora and Tselios (2026) provide a policy-oriented synthesis of AI's dual role in adult and [[lifelong-learning]] contexts — as both an enabler of personalized, scalable education and a source of significant equity and governance challenges. Drawing on international policy frameworks, the paper argues that AI integration in [[adult-learning]] requires balanced policies promoting inclusion, transparency, and human-centered pedagogy.
+> **Synthesis:** Theodora and Tselios (2026) provide a policy-oriented synthesis of AI's dual role in adult and [[lifelong-learning]] contexts — as both an enabler of personalized, scalable education and a source of significant equity and governance challenges. Drawing on international policy frameworks, the paper argues that AI integration in [[adult-learning]] requires balanced policies promoting inclusion, transparency, and human-centered pedagogy.
 
 The paper fills a notable gap in the [[stanford-evidence-base-ai-k12-2026]] and related literature, which has predominantly focused on [[k-12]] and [[higher-ed|higher education]]. Adult learners face distinct challenges: they are more likely to be affected by the [[equity-in-ai-education]], have less institutional support than traditional students, and often engage in [[self-directed-learning]] where AI tools may operate with minimal [[human-in-the-loop-ai|human oversight]]. The paper's emphasis on [[educational-policy-ai]] responsibilities connects to broader [[regulation]] discussions.
 

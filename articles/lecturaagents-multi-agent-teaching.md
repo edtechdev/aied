@@ -1,7 +1,7 @@
 ---
 title: "LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching"
 created: "2026-06-17T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:52:49-04:00"
 type: article
 tags: [llm, generative-ai, personalized-learning, higher-ed, intelligent-tutoring, pedagogical-llm-training, rag]
 audience: [software developers]
@@ -11,9 +11,7 @@ sources: ['raw/papers/2606.16428.md']
 confidence: high
 ---
 
-> **Jaward Sesay, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Borje F. Karlsson** (2026). arXiv cs.CL
-
-**Jaward Sesay, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Borje F. Karlsson** (2026). arXiv cs.CL
+> **Synthesis:** **Jaward Sesay, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Borje F. Karlsson** (2026). arXiv cs.CL
 
 ## Key Findings
 

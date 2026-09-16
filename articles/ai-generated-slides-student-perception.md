@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated Slides: Are They Good? Can Students Tell?"
 created: "2026-05-14T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, educational-development, ai-literacy, scaffolding, automated-question-generation, llm]
 research_method: [system development]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.13532.md']
 confidence: medium
 ---
 
-This study evaluated five [[generative-ai|generative AI]] tools for creating instructional slides from instructor-authored course notes: NotebookLM, Claude, M365 Copilot, Cursor, and Claude Code. Educators assessed slides for accuracy, completeness, and [[pedagogy|pedagogical]] soundness.
+> **Synthesis:** This study evaluated five [[generative-ai|generative AI]] tools for creating instructional slides from instructor-authored course notes: NotebookLM, Claude, M365 Copilot, Cursor, and Claude Code. Educators assessed slides for accuracy, completeness, and [[pedagogy|pedagogical]] soundness.
 
 - **Coding assistants (Cursor, Claude Code) produced the best slides** — most accurate, complete, and pedagogically sound.
 - **Students rated AI-generated slides as similar in quality to instructor-created slides.**

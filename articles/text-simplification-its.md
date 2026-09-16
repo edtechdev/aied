@@ -1,7 +1,7 @@
 ---
 title: Text Simplification for Intelligent Tutoring
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-24T13:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, language-learning, adaptive-learning, human-in-the-loop-ai, generative-ai, sociocultural-learning, ai-literacy]
 audience: [researchers, software developers]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2604.08947.md']
 confidence: medium
 ---
 
-> **MuTSE** (Roscan et al., 2026) tackles a critical [[research-methods-aied|methodological]] gap in text simplification for **Intelligent Tutoring Systems (ITS)** and language-learning applications: how to systematically evaluate **[[llm]]**-generated simplifications across many prompting strategies and model architectures without drowning researchers in high-dimensional comparisons. It pairs an asynchronous **P × M** generation pipeline with a novel tiered **semantic alignment** engine — biased by a real-time linearity heuristic (λ) — so evaluators can visually trace how each source sentence is transformed across every prompt–model permutation, then score the results on custom, pedagogically meaningful criteria.
+> **Synthesis:** **MuTSE** (Roscan et al., 2026) tackles a critical [[research-methods-aied|methodological]] gap in text simplification for **Intelligent Tutoring Systems (ITS)** and language-learning applications: how to systematically evaluate **[[llm]]**-generated simplifications across many prompting strategies and model architectures without drowning researchers in high-dimensional comparisons. It pairs an asynchronous **P × M** generation pipeline with a novel tiered **semantic alignment** engine — biased by a real-time linearity heuristic (λ) — so evaluators can visually trace how each source sentence is transformed across every prompt–model permutation, then score the results on custom, pedagogically meaningful criteria.
 
 ## Key Findings
 1. **Parallel comparison workflow:** MuTSE executes `P` prompts × `M` models concurrently (bounded by the slowest model's latency, ~O(max(tᵢ))) and presents all outputs in a unified, side-by-side, toggleable matrix — removing the need to run or orchestrate inference manually.

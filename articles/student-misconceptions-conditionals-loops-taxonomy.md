@@ -1,7 +1,7 @@
 ---
 title: How Students (Mis)understand Conditionals and Loops -- A Taxonomy
 created: "2026-05-27T07:38:00-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [cs-education, stem-education, student-experience, higher-ed, benchmark, llm, generative-ai, ai-literacy, scaffolding, intelligent-tutoring]
 research_method: [benchmark]
@@ -12,10 +12,7 @@ confidence: high
 sources: []
 ---
 
-## Overview
-
-This paper presents a fine-grained taxonomy categorizing novice programmers' difficulties with reading and understanding control flow constructs — specifically conditionals (selection) and loops (iteration). Developed through the Extended Taxonomy Design Process (ETDP), the taxonomy integrates prior research with new empirical data from student quizzes and interviews. It provides a harmonized framework for [[cs-education]] [[research-methods-aied|researchers]] to classify and analyze student errors systematically.
-
+> **Synthesis:** This paper presents a fine-grained taxonomy categorizing novice programmers' difficulties with reading and understanding control flow constructs — specifically conditionals (selection) and loops (iteration). Developed through the Extended Taxonomy Design Process (ETDP), the taxonomy integrates prior research with new empirical data from student quizzes and interviews. It provides a harmonized framework for [[cs-education]] [[research-methods-aied|researchers]] to classify and analyze student errors systematically.
 ## Key Contributions
 
 The taxonomy distinguishes between qualitatively different types of student misunderstandings. Instead of treating all errors as one category, it separates difficulties in tracing conditional branches from difficulties in understanding loop iteration semantics. This granularity offers [[scaffolding]] designers precise targets for intervention. The framework connects naturally to [[programming-its]] research, where [[intelligent-tutoring|intelligent tutoring systems]] need fine-grained misconception models to provide targeted feedback.

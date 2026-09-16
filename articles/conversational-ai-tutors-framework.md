@@ -1,7 +1,7 @@
 ---
 title: "The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents"
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-08-24T18:15:00-04:00"
+updated: "2026-09-16T15:49:45-04:00"
 type: article
 tags: [intelligent-tutoring, generative-ai, llm, scaffolding, personalized-learning, feedback, adaptive-learning]
 research_method: [literature review]
@@ -9,8 +9,7 @@ sources: ['raw/papers/2602.19303.md']
 confidence: high
 ---
 
-> **Authors:** Kirk Vanacore, Ryan S. Baker, Avery H. Closser, Jeremy Roschelle **Year:** 2026 **Venue:** arXiv (cs.HC)
-> Synthesizes intelligent tutoring systems research and generative AI into a keep/change/center/study framework for conversational tutoring systems, arguing proven ITS [[ai-technologies|technologies]] should anchor generative tutors while centering student meaning-making and agency.
+> **Synthesis:** Synthesizes intelligent tutoring systems research and generative AI into a keep/change/center/study framework for conversational tutoring systems, arguing proven ITS [[ai-technologies|technologies]] should anchor generative tutors while centering student meaning-making and agency.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: Multimodal Learning with Generative AI
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-education, higher-ed, generative-ai, multimodal, active-learning, scaffolding, feedback, assessment, pedagogical-llm-training, self-regulated-learning]
 research_method: [literature review]
@@ -11,7 +11,7 @@ sources: ['raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-202
 confidence: high
 ---
 
-> The guide adopts a middle way between "techno-fixing" and rejecting AI as an existential threat. It argues that:
+> **Synthesis:** The guide adopts a middle way between "techno-fixing" and rejecting AI as an existential threat. It argues that:
 
 > A comprehensive educator's guide to integrating [[generative-ai|Generative AI]] into [[multimodal]] [[teacher-role|teaching]], learning, and assessment across [[higher-ed|higher education]]. Built on Kress's social semiotic theory of multimodality, the guide positions GenAI as a 'cyber-social' partner that complements—but cannot replace—human meaning-making. It proposes the **MMLD-AI** unifying model (UDL + ABC [[learning-design|Learning Design]]) and the **Dual-Track Cyber-Social Learning Model** for designing effective [[human-ai-collaboration|human-AI collaboration]].^varga-atkins-educators-guide-multimodal-learning-genai-2025
 

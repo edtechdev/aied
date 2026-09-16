@@ -1,7 +1,7 @@
 ---
 title: When Should Teachers Control AI Generation for Mathematics Visuals?
 created: "2026-05-12T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [teacher-role, stem-education, generative-ai, curriculum-design, pedagogy, agentic-ai, ai-education, math-education]
 research_method: [case study]
@@ -12,12 +12,8 @@ sources: ['raw/papers/2605.10672.md']
 confidence: high
 ---
 
-## Key Findings
-
-Generative AI can help teachers rapidly create classroom-ready visual materials, particularly in [[math-education|mathematics]] where diagrams and visual representations must be **pedagogically meaningful and instructionally correct**. This paper investigates when and how teachers should control AI generation of mathematical visuals.
-
-The study identifies key decision points where teacher input is essential: ensuring [[pedagogy|pedagogical]] correctness of visual representations, alignment with [[curriculum-design|curriculum]] goals, and appropriateness for student levels. The authors propose a framework for teacher-AI collaboration in visual material creation that balances AI efficiency with pedagogical control.
-
+> **Synthesis:** Generative AI can help teachers rapidly create classroom-ready visual materials, particularly in [[math-education|mathematics]] where diagrams and visual representations must be **pedagogically meaningful and instructionally correct**. This paper investigates when and how teachers should control AI generation of mathematical visuals.
+> The study identifies key decision points where teacher input is essential: ensuring [[pedagogy|pedagogical]] correctness of visual representations, alignment with [[curriculum-design|curriculum]] goals, and appropriateness for student levels. The authors propose a framework for teacher-AI collaboration in visual material creation that balances AI efficiency with pedagogical control.
 ## Connections to AIED
 
 This work connects to [[teacher-role]] by showing how teachers remain essential as pedagogical validators of AI-generated content. It intersects with [[stem-education]] since mathematics visual generation is a core need in STEM teaching.

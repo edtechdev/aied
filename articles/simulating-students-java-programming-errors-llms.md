@@ -1,7 +1,7 @@
 ---
 title: Simulating Students' Java Programming Errors with Large Language Models
 created: "2026-06-15T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, stem-education, student-experience, intelligent-tutoring, learning-analytics]
 research_method: [experiment]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.14113.md']
 confidence: high
 ---
 
-This paper investigates whether [[llm|large language models]] can serve as scalable proxies for students by simulating realistic logical errors in code submissions. Using the CodeWorkout dataset of 74,000+ unique student Java submissions across 37 problems, the authors evaluate five LLMs under three [[prompt-engineering|prompting]] strategies: Input-Output (IO), Chain-of-Thought (CoT), and iterative Self-Refine.
+> **Synthesis:** This paper investigates whether [[llm|large language models]] can serve as scalable proxies for students by simulating realistic logical errors in code submissions. Using the CodeWorkout dataset of 74,000+ unique student Java submissions across 37 problems, the authors evaluate five LLMs under three [[prompt-engineering|prompting]] strategies: Input-Output (IO), Chain-of-Thought (CoT), and iterative Self-Refine.
 
 - **Diversity vs. Alignment trade-off**: LLMs generate diverse error patterns, but alignment with authentic student errors varies significantly by model. Claude Sonnet 4 achieves the most balanced performance across both dimensions.
 - **Functional indistinguishability**: A blinded expert annotation study (N=401) found that synthetic errors are functionally indistinguishable from authentic student errors.

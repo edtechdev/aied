@@ -1,7 +1,7 @@
 ---
 title: "Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China"
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-08-24T04:54:13-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, scaffolding, human-in-the-loop-ai, pedagogical-safety, ai-literacy, student-experience, teacher-role, k-12]
 research_method: [system development, experiment]

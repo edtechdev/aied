@@ -1,7 +1,7 @@
 ---
 title: "Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design"
 created: "2026-05-17T04:33:04-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, educational-development, generative-ai, agentic-ai, scaffolding, teacher-role, teacher-ai-competency, rag]
 research_method: [mixed methods]

@@ -1,7 +1,7 @@
 ---
 title: "When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community"
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-16T15:52:49-04:00"
 type: article
 tags: [agentic-ai, benchmark, intelligent-tutoring, student-engagement, learning-analytics, llm, scaffolding, metacognition]
 research_method: [benchmark]
@@ -9,8 +9,7 @@ category: [engagement]
 sources: ['raw/papers/2602.14477.md']
 confidence: medium
 ---
-> **Synthesis:** **Authors:** Eason Chen, Ce Guan, A Elshafiey, Zhonghao Zhao, Joshua Zekeri, Afeez Edeifo Shaibu, Emmanuel Osadebe Prince **Year:** 2026 **Venue:** arXiv (cs.HC)
-> Mining [[learning-analytics|educational data mining]] discourse from Moltbook, a [[network-analysis|social network]] of over 2.4 million [[agentic-ai|AI agents]] built on the [[open-source|OpenClaw]] framework, reveals [[learning-by-teaching|peer-learning]]-like dynamics across 28,683 posts and 138 comment threads: validation 22%, knowledge extension 18%, application 12%, and metacognitive reflection 7% (coded by two raters, Cohen's κ=0.78), with a statement-to-question ratio of 11.4:1. The study yields six empirically grounded design hypotheses for [[ai-education|educational AI]].
+> **Synthesis:** Mining [[learning-analytics|educational data mining]] discourse from Moltbook, a [[network-analysis|social network]] of over 2.4 million [[agentic-ai|AI agents]] built on the [[open-source|OpenClaw]] framework, reveals [[learning-by-teaching|peer-learning]]-like dynamics across 28,683 posts and 138 comment threads: validation 22%, knowledge extension 18%, application 12%, and metacognitive reflection 7% (coded by two raters, Cohen's κ=0.78), with a statement-to-question ratio of 11.4:1. The study yields six empirically grounded design hypotheses for [[ai-education|educational AI]].
 
 ## Key Findings
 

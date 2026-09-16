@@ -1,7 +1,7 @@
 ---
 title: "Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education"
 created: "2026-07-02T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [special-education, equity-in-ai-education, adaptive-learning, k-12, higher-ed, generative-ai, ai-literacy, rag, llm, visualization]
 audience: [researchers, instructors]
@@ -11,11 +11,7 @@ sources: ['raw/papers/2607.01214.md']
 confidence: high
 ---
 
-> **Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, Sampath Jayarathna** — IEEE IRI 2026, submitted 1 Jul 2026
-
-**Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, Sampath Jayarathna** — IEEE IRI 2026, submitted 1 Jul 2026
-
-Three-layer JavaScript pipeline (1500 lines) generates tactile 3D-printed statistical graphs for blind/low-vision students in under 250ms, with optional [[llm]]-based chart extraction from images.
+> **Synthesis:** Obiuwevwi and colleagues (2026) treat classroom-scale production of **tactile statistical graphics** as a software problem rather than a specialist CAD task. Their three-layer, roughly 1500-line JavaScript pipeline derives tactile design parameters automatically from plate dimensions using tactile-perception research, provides shared chart scaffolding with five modular builders (scatter, bar, histogram, line and box plots), and optionally uses a multimodal [[llm]] to extract structured chart specifications from uploaded images — with mandatory teacher review before print generation. The pipeline produces print-ready binary STL files in under 250 milliseconds, with all five chart types completing in under 60 ms, and it combines research-grounded parameter derivation with single-pass Braille-and-English labelling. The authors present it as the first open-source pipeline that automatically generates 3D-printed tactile statistical graphs from either typed data or chart images, addressing a bottleneck that keeps [[accessibility|accessible]] statistical visualisation rare in classrooms.
 
 ## Key Contributions
 

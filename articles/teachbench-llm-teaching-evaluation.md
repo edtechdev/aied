@@ -1,7 +1,7 @@
 ---
 title: TeachBench - Evaluating LLM Teaching Ability
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, benchmark, formative-assessment, personalized-learning, feedback, ai-literacy, agentic-ai]
 audience: [researchers, instructors, software developers]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2601.21375.md']
 confidence: high
 ---
 
-> While LLMs are increasingly used as [[teacher-role|teaching]] assistants, their teaching capability remains insufficiently evaluated — a critical gap in current [[ai-education|AIED]] [[research-methods-aied|research]].
+> **Synthesis:** While LLMs are increasingly used as [[teacher-role|teaching]] assistants, their teaching capability remains insufficiently evaluated — a critical gap in current [[ai-education|AIED]] [[research-methods-aied|research]].
 
 > Syllabus-grounded framework for measuring [[llm]] teaching capability via student performance improvement after multi-turn instruction.
 

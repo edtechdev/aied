@@ -1,7 +1,7 @@
 ---
 title: "ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time"
 created: "2026-06-17T04:33:04-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-16T15:52:49-04:00"
 type: article
 tags: [intelligent-tutoring, scaffolding, k-12, personalized-learning, llm]
 connected_faqs: [ai-guidance-children-under-13]
@@ -11,15 +11,14 @@ sources: ['raw/papers/2606.18030.md']
 confidence: high
 ---
 
-> **Lan Luo, Anqi Wang, Muzhi Zhou, Junhua Zhu, Jie Cai, Ao Yu, Hui Pan** (2026). arXiv cs.HC
+> **Synthesis:** - Effective parent–child tutoring depends on preserving distinct, asymmetric roles: parents guide the learning process while children remain actively engaged in understanding and reasoning.
+> - Recurring challenges include parents struggling to understand problem structure, lacking sufficient knowledge to provide support, and encountering communication difficulties that disrupt shared understanding.
+> - Generic [[llm]] assistance tends to reduce the parent's tutoring role; ParaTutor better preserves parent-led support and sustains children's participation in reasoning through role-separated [[scaffolding]].
+> - In multi-user learning, the value of LLM support depends not only on model capability but on how support is distributed across users with different roles.
+> - Emotionally supportive language — gentle reminders, positive reinforcement, neutral phrasing such as "let's try a different way" — enhances persistence, reduces frustration, and fosters learner confidence.
 
 ## Key Findings
 
-- Effective parent–child tutoring depends on preserving distinct, asymmetric roles: parents guide the learning process while children remain actively engaged in understanding and reasoning.
-- Recurring challenges include parents struggling to understand problem structure, lacking sufficient knowledge to provide support, and encountering communication difficulties that disrupt shared understanding.
-- Generic [[llm]] assistance tends to reduce the parent's tutoring role; ParaTutor better preserves parent-led support and sustains children's participation in reasoning through role-separated [[scaffolding]].
-- In multi-user learning, the value of LLM support depends not only on model capability but on how support is distributed across users with different roles.
-- Emotionally supportive language — gentle reminders, positive reinforcement, neutral phrasing such as "let's try a different way" — enhances persistence, reduces frustration, and fosters learner confidence.
 
 ## Study Design & Method
 
