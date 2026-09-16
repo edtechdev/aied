@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-16T10:56:19-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, learning-analytics, generative-ai, ai-education, intelligent-tutoring, curriculum-design, llm]
 category: [curriculum design]
@@ -36,6 +36,7 @@ Knowledge graphs are a recurring structural mechanism across the knowledge base'
 - **Prerequisite-relation learning:** [[proprl-prerequisite-relation-learning|ProPrL]] learns prerequisite relations among concepts, formalizing the edges that knowledge graphs encode.
 - **Knowledge-gap detection:** [[knowledge-gap-detection-ai-tas|Knowledge gap detection]] uses graph-based reasoning in AI teaching assistants to identify where learners are missing foundational concepts.
 - **[[multimodal]] and explainable reasoning:** [[multimodal-knowledge-graph-educational-reasoning|multimodal knowledge graphs]] extend graph structure across content modalities; [[fair-explainable-edu-recommendations|fair and explainable recommendations]] combine knowledge-graph embeddings with sequential modeling (a hybrid HKG-GRU framework).
+- **Instructionally structured graphs for resource recommendation:** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun & Song (2026)]] decompose each teaching-resource entity into four instructional dimensions (teaching context, cognitive level, technological feature, cultural adaptability), compute user-dependent semantic similarity over those dimensions, and fuse it with collaborative filtering via an ability- and progress-aware coefficient — encoding pedagogical structure directly into the recommendation signal rather than treating resources as consumption items.
 - **Ontology-based knowledge bases:** [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova (2026)]] proposes a layered, hybrid knowledge-base architecture grounded in description logic that replaces the classic ITS single-ontology models with **systems of mapped ontologies** — adding procedural (rule-based), probabilistic/fuzzy, and ML-extracted implicit knowledge — plus a metadata framework for describing, discovering, and reusing educational ontologies.
 - **[[scaffolding|Scaffolding]] and writing:** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]] and [[visual-query-tracer-declarative-logic-learning|visual query tracing]] apply graph-based structure to narrative drafting and declarative-logic learning.
 
@@ -76,6 +77,7 @@ Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curr
 - [[visual-query-tracer-declarative-logic-learning]] — Visual query tracer for declarative logic learning
 - [[learnopt-exam-cognitive-structure]] — LearnOpt: exam cognitive structure
 - [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
+- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Hybrid CF–KG cross-domain recommendation for multimodal teaching resources
 - [[concept-catalyst-engineering-scaffolds]] — Concept Catalyst engineering scaffolds
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-driven cognitive diagnosis
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
