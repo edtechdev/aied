@@ -1,9 +1,13 @@
 # Journal
 
 
-Last updated: 2026-09-16 | Total entries: 1383
+Last updated: 2026-09-16 | Total entries: 1387
 
 ## 2026-09-16
+- 📄 [[teaching-with-robots-five-types-perspective-2026]] — Theoretical Perspectives on Teaching with Robots: From Interdisciplinary Prerequisites and Necessities in Today's Classrooms to Five Different Types of Robots
+- 📄 [[teacher-educators-ai-integration-preservice-2026]] — Pioneering Teacher Educators Navigating AI Integration in Pre-Service Teacher Preparation: Strategies and Challenges
+- 📄 [[ai-personas-fieldwork-experiential-learning-2026]] — AI Personas: Can LLMs Replace Fieldwork in Experiential Learning?
+- 📄 [[trust-in-ai-psychological-profiles-ml-2026]] — Psychological Profiles Associated with Trust in Artificial Intelligence Among University Students: A Machine Learning Clustering Approach
 - 📄 [[tripartite-feedback-framework-ai-assessment-2026]] — A Tripartite Feedback Framework for AI-Assisted Assessment of Complex Reports in Higher Education
 - 📄 [[raise-framework-ai-education-reporting-2026]] — RAISE the Standard: A Framework for Transparent Reporting of Artificial Intelligence Studies in Education
 - 📄 [[ai-ive-pbl-vocational-design-creativity-2026]] — Cultivating Design Creativity of Vocational Students: A Model of Project-Based Learning in AI-Enabled Immersive Virtual Environments

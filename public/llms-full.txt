@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 191 concepts, 1192 articles, and 18 FAQs.
+> Complete text of 191 concepts, 1196 articles, and 18 FAQs.
 
 # Concepts
 
@@ -3755,6 +3755,8 @@ Experiential learning is closely related to [[active-learning]], [[project-based
 
 ### How experiential learning appears in the knowledge base's research
 
+- **Emergency substitution, with a rubric for how far it gets you.** [[ai-personas-fieldwork-experiential-learning-2026|Elhajj et al. (2026)]] document a substitution forced by the 2024 conflict in Lebanon: students in a graduate Experiential Learning course at the American University of Beirut, unable to reach communities for needs assessments, interviewed ChatGPT-generated stakeholder personas instead. Two raters scored all ten group prompts and found the split instructive — alignment with educational goals (mean 5.00) and diversity of perspectives (4.90) were strong, while authenticity and realism (4.38) and especially group dynamics and coherence (3.80, with one 30-persona focus group collapsing into sequential interviews) and limitations and gaps (3.20) were weak, the last because emotional flatness, absent contradiction and thin cultural specificity recurred in every context. The authors' conclusion is a boundary rather than a verdict: personas work as rehearsal and as a stopgap where access is impossible or unsafe, but not where emotional complexity, cultural specificity and interpersonal dynamics *are* the learning objective. Their mitigation is structural — pair simulated role-play with real interviews so students can compare, and train students to interrogate persona output for bias and generalisation instead of treating it as field evidence.
+
 - **Cybersecurity labs:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|LLM-assisted cybersecurity instruction]] integrates a [[generative-ai]] instructional assistant into a virtual lab platform, supporting hands-on experiential skill building.
 - **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] uses a project-based, hands-on approach to teach robotics, addressing the lack of practical experience in classic programs.
 - **Simulation and embodied learning:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners experiment with simulated robots, and [[embodied-learning|embodied]] robot interaction grounds learning in direct experience.
@@ -3791,6 +3793,7 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[educasim-cs1-instructional-practice]] — EducaSim: role play with simulated students for teacher training
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[ai-personas-fieldwork-experiential-learning-2026]] — AI personas substituting for community fieldwork, with a five-indicator rubric for where the substitution fails (Elhajj et al. 2026)
 
 ---
 
@@ -8407,6 +8410,8 @@ Two strands shape the social side of robotics in education.
 
 ### How robots are used in education
 
+[[teaching-with-robots-five-types-perspective-2026|Christ et al. (2026)]] add a role typology rather than a technology list: their five workshop-derived types of classroom robot differ by *pedagogical function and abstraction level*, not by hardware. Type a runs a non-interactive demonstration of generic social patterns (a scripted emotion theatre followed by discussion of dynamics such as escalation or misunderstanding); type b is a touch-reactive interactive robot supporting participative physical theatre, [[embodied-learning|embodied learning]], boundary awareness and emotion regulation; type c is a spoken-language partner that shows empathy and remembers interactions with a single pupil, creating a protected one-to-one setting for self-disclosure; type d is externally guided by a hidden specialist like a puppet with extra degrees of freedom, aimed at flattening social hierarchy; and type e is a non-interactive robot replaying actions recently observed in the school so pupils can reflect on situated behaviour — the contrast with type a being exactly its context-specific rather than generalised abstraction. The typology is explicit about being an unvalidated design space grounded in one national mental-health programme, so it is a menu for designing and evaluating robot roles, not evidence that any of them works.
+
 - **Computational thinking and programming:** Programmable robots (e.g., LEGO, block-based platforms) help learners connect code to real outcomes. [[computational-thinking-educational-robotics-secondary-2026|Valls i Pou]] links computational thinking to secondary STEAM curricula, and [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] combines block programming with a [[conversational-ai|conversational AI]] agent and embodied robot feedback. [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners control simulated robots with natural language.
 
 - **Tutoring and knowledge delivery:** [[knowledge-based-design-generative-social-robots-2026|Knowledge-based design research]] and [[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]] develop LLM-powered generative social robots that tutor higher-education students, addressing risks like misinformation and [[cognitive-offloading|overreliance]]. [[task-context-trust-educational-hri-2026|Research on trust]] shows that what a robot does (task context) shapes learner trust more than its appearance, with the highest trust during instructional tasks.
@@ -8484,6 +8489,7 @@ A defining theme is that robots are effective when they support genuine learning
 
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: integrating coding and generative social robots into early-childhood projects (Yang, Li & Lee 2025)
+- [[teaching-with-robots-five-types-perspective-2026]] — Five functionally distinct types of classroom robot, from scripted demonstration to one-to-one empathic dialogue (Christ et al. 2026)
 
 ---
 
@@ -13284,9 +13290,11 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 - [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] argues for assessing computational methods and process rather than tool-specific outputs, using oral defense and verification.
 - [[fenton-oral-exams-ai-authentic-assessment-2025|Reconsidering oral exams]] positions the oral exam/assessment as a low-tech authentic alternative that is inherently AI-resistant — its real-time, interactive dialogue tests comprehension, [[critical-thinking|critical thinking]], and reasoning (not memorization), mirrors professional practice, and prevents students from using AI to generate and memorize answers. It offers a concrete set of practical recommendations (clear rubrics, standardized content, assessor training, [[prompt-engineering|prompting]] guidelines, [[bias-mitigation|bias mitigation]]) for reintroducing oral assessment across high school and higher education.
 - [[eportfolio|E-portfolio assessment]] is another authentic, process-based form that resists AI fabrication: [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du (2025)]] identify social contribution portfolios among the authentic forms most robust to generative AI, and [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] recommends annotated portfolios and recorded walkthroughs that probe reasoning in real time. [[ni-lam-multiliteracies-ai-portfolio-2026|Ni & Lam (2026)]] and [[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]] show generative AI can assist the portfolio process — feedback, drafting, reflection — while the portfolio's reasoning traces and drafts preserve authenticity.
-- **Authenticity criteria can themselves restrain AI use.** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found that a rubric requiring students to ground a group presentation in their own first-hand teaching experience, and to reflect on shared classroom observations, led seven of fifteen student groups to *deliberately reduce* their GenAI use. Students argued the tool could not meet the epistemic demand — "AI only knows that moment when you type" — because it lacked the longitudinal, situated knowledge their classmates and teacher had. Both layers mattered: the authenticity of the task and the relational authenticity of contributing one's own thinking to a group, which reframed heavy AI use as free-riding on peers. The design implication is that authentic, experience-grounded criteria do evaluative work even without enforcement — they supply a reason for restraint that policy statements cannot.
+- **Authenticity criteria can themselves restrain AI use.** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found that a rubric requiring students to ground a group presentation in their own first-hand teaching experience, and to reflect on shared classroom observations, led seven of fifteen student groups to *deliberately reduce* their GenAI use. Students argued the tool could not meet the epistemic demand — "AI only knows that moment when you type" — because it lacked the longitudinal, situated knowledge their classmates and [[teacher-role|teacher]] had. Both layers mattered: the authenticity of the task and the relational authenticity of contributing one's own thinking to a group, which reframed heavy AI use as free-riding on peers. The design implication is that authentic, experience-grounded criteria do evaluative work even without enforcement — they supply a reason for restraint that policy statements cannot.
 
-## Connections to learning theory
+## When practitioners retreat to the policed formats
+
+The knowledge base argues that authenticity must be designed rather than policed, and [[teacher-educators-ai-integration-preservice-2026|Goldstein, Marae-Haj and Zidan (2026)]] supply the counter-evidence from practice: after a trust crisis in which pre-service teachers submitted raw AI-generated work as their own, teacher educators in seven Israeli colleges redesigned assessment around process evidence (prompts, document version history, monitored group contributions) and in-class performance — but several also described falling back, as a last resort, on supervised examinations and anticipated oral defences on theses, one participant calling the return to exams personally painful yet unavoidable. Read against the design-first position, the finding marks a failure mode rather than a solution: where authenticity is not redesigned in advance, the practical response to unassessable submitted work is reinstated control — surveillance by another name — which reintroduces the very formats the authentic-assessment literature tries to move beyond. It also shows the felt cost of the alternative: participants reported their take-home written assessments could no longer evidence learning at all, and that process documentation took real work to establish.
 
 - **Self-regulated learning:** student agency in authentic assessment (choice, self-reflection, co-design) mirrors the [[self-regulated-learning|forethought → performance → self-reflection]] cycle, though graded reflection risks becoming performative.
 - **Metacognition:** [[metacognition|Metacognition]] is required for students to evaluate their work against co-designed rubrics; when AI supplies the rubric, feedback, and monitoring, the student's metacognitive practice may be displaced.
@@ -13295,10 +13303,10 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 ## Implications for AI in education
 
 - **AI-proof assessment types:** in-vivo demonstrations, social-contribution portfolios, co-created artefacts with auditable provenance, and real-time [[embodied-learning|embodied]] interaction are more resilient to generative AI than take-home essays or MCQs.
-- **Co-design at scale:** AI tools could enable rubric co-design and student co-creation of assessment parameters at classroom or MOOC scale — though machine-mediated agency must be designed carefully.
+- **Co-design at scale:** AI tools could enable rubric co-design and student co-creation of assessment parameters at classroom or [[online-teaching-and-learning|MOOC]] scale — though machine-mediated agency must be designed carefully.
 - **Address the social-authenticity gap:** only 3/37 studies addressed social issues; AI assessment tools should help students contribute to societal transformation, not merely simulate it.
 - **Sustainable feedback:** [[ai-feedback-quality|AI feedback]] should be designed to transfer to future contexts, not just provide reactive, momentary corrections.
-- **Authentic assessment suits practice-oriented fields.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] find authentic assessment especially well-suited to [[business-education|management education]]: tasks mirroring real professional problems (live consulting projects, dashboards with executive briefings) align with the field's practice-oriented, employability focus and can support inclusive, integrity-preserving alternatives to exam-centered assessment in the generative AI era. In their review of 58 articles from four management-education journals, however, authentic assessment appeared mainly via technology-mediated [[simulation|simulations]] and was often conflated with [[experiential-learning|experiential learning]] — a terminology gap that can obscure its broader value and uptake.
+- **Authentic assessment suits practice-oriented fields.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] find authentic assessment especially well-suited to [[business-education|management education]]: tasks mirroring real professional problems (live consulting projects, dashboards with executive briefings) align with the field's practice-oriented, [[career-development-and-readiness|employability]] focus and can support inclusive, integrity-preserving alternatives to exam-centered assessment in the generative AI era. In their review of 58 articles from four management-education journals, however, authentic assessment appeared mainly via technology-mediated [[simulation|simulations]] and was often conflated with [[experiential-learning|experiential learning]] — a terminology gap that can obscure its broader value and uptake.
 
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
@@ -13354,6 +13362,7 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[chen-zou-genai-group-assessment-agency-2026]] — Authenticity criteria that led student groups to reduce GenAI use
+- [[teacher-educators-ai-integration-preservice-2026]] — The AI trust crisis that pushed teacher educators back toward supervised exams and oral defences (Goldstein et al. 2026)
 
 ---
 
@@ -19124,7 +19133,7 @@ Trust in AI is shaped by perceived competence, transparency, consistency, and wh
 
 [[research-methods-aied|Research]] in this knowledge base examines when learners appropriately trust AI-generated guidance. [[ai-fallibility-warning-help-seeking|Warnings about AI fallibility]] can improve calibration: a simple transparency intervention telling students an AI tutor may make mistakes increased [[help-seeking]] in a math ITS, suggesting that honest limits foster rather than undermine appropriate reliance. [[calibrating-trustworthiness-llm-education-2026|Co-designing trustworthiness metrics]] with learning engineers shows that trust is best built on observable, agreed-upon criteria rather than assumed capability. [[fouad-bentley-trust-utility-gap-physics-2026|Physics]] and [[t2i-competence-paradox-2026|image-generation]] studies reveal a persistent *trust-utility gap* — users must weigh a tool's apparent competence against its actual reliability in a task. Among the youngest users, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] found that 52% of children (ages 6–14) generally trusted an age-tailored chatbot and 35% trusted it like a teacher or friend, with about a third willing to confide in it; children also actively tested its credibility with known-answer questions, and trust showed no statistically significant grade-level differences — illustrating how early trust can form ahead of critical evaluation.
 
-The [[ai-overreliance-complex-adaptive-system-2026|modeling of AI overreliance as a complex adaptive system]] reframes trust as a population-level process: whether people trust an assistant when it is right and check it when it is wrong depends on social dynamics and feedback loops, not just individual judgment. Sycophancy threatens calibration from the other direction — [[ai-sycophancy|an AI that always agrees]] can feel trustworthy precisely because it never challenges the user, inviting uncritical acceptance ([[contextual-sycophancy-ai-literacy|contextual sycophancy]] and [[sycophantic-ai-social-interaction-2026|sycophantic AI in social interaction]]). In [[embodied-learning|embodied]] contexts like [[educational-robotics]], trust is shaped more by what the robot does than what it looks like ([[task-context-trust-educational-hri-2026|task context and trust in educational HRI]]), and [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|avatar identity]] shapes the epistemic trust learners place in AI content. Trust in analytics tools is also context-dependent. [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] found that teachers' concerns and adoption barriers diverged sharply by learning context: flipped-classroom (university) teachers worried most about data anonymization and student opt-out, whereas reflective-writing (vocational) teachers feared misuse of the tool by fellow educators and stressed the need to contextualize data — even though both groups reported similar [[self-efficacy]] and perceived benefits in a trust in AI survey. The finding that trust in the tool is decoupled from trust in its data governance and social use underscores that building appropriate trust in analytics requires attending to context-specific concerns, not just the system's apparent competence.
+The [[ai-overreliance-complex-adaptive-system-2026|modeling of AI overreliance as a complex adaptive system]] reframes trust as a population-level process: whether people trust an assistant when it is right and check it when it is wrong depends on social dynamics and feedback loops, not just individual judgment. Sycophancy threatens calibration from the other direction — [[ai-sycophancy|an AI that always agrees]] can feel trustworthy precisely because it never challenges the user, inviting uncritical acceptance ([[contextual-sycophancy-ai-literacy|contextual sycophancy]] and [[sycophantic-ai-social-interaction-2026|sycophantic AI in social interaction]]). In [[embodied-learning|embodied]] contexts like [[educational-robotics]], trust is shaped more by what the robot does than what it looks like ([[task-context-trust-educational-hri-2026|task context and trust in educational HRI]]), and [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|avatar identity]] shapes the epistemic trust learners place in AI content. Trust in [[learning-analytics|analytics]] tools is also context-dependent. [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] found that teachers' concerns and adoption barriers diverged sharply by learning context: flipped-classroom (university) teachers worried most about data anonymization and student opt-out, whereas reflective-writing (vocational) teachers feared misuse of the tool by fellow educators and stressed the need to contextualize data — even though both groups reported similar [[self-efficacy]] and perceived benefits in a trust in AI survey. The finding that trust in the tool is decoupled from trust in its data governance and social use underscores that building appropriate trust in analytics requires attending to context-specific concerns, not just the system's apparent competence.
 
 How explainable a system is — and in what terms — also shapes whether teachers trust its recommendations. In a within-subject experiment with 41 in-service [[chemistry-education|chemistry]] teachers using the AI grouping-recommendation tool [[xai-teachers-trust-edtech-recommendations-2026|GrouPer]], [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found that [[explainable-ai|explainable AI]] builds trust indirectly by increasing the *understandability* of the system's performance, and that **domain-driven** explanations framed in [[curriculum-design|curricular]]/pedagogical language fostered significantly greater understandability and learned trust than purely **data-driven** (feature-importance) explanations. Notably, understandability alone was insufficient for some teachers — they reported needing real classroom experience with the tool before fully relying on it — reinforcing that trust in AI is dynamic and validated through [[situated-learning|situated]] use, not granted by explanation alone.
 
@@ -19132,9 +19141,13 @@ How explainable a system is — and in what terms — also shapes whether teache
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] supports a **function-specific rather than global** account of trust in algorithms: neither algorithm aversion nor algorithm appreciation described these 13 students, who simultaneously trusted ChatGPT for surface-level feedback and distrusted it as a grader. Their trust was conditional on instructor oversight, and their scepticism stemmed from the AI's contextual limits — misreading scanned handwriting ("it spelt my last name wrong and it thinks I made mistakes in my spelling when I didn't"), not knowing the instructor's rating system, and chronic positivity — rather than from technophobia, suggesting trust measures should be decomposed by the function an AI performs and the stakes attached to it.
 
+## Trust in AI tracks psychological state, not demographic category
+
+[[trust-in-ai-psychological-profiles-ml-2026|Kumar et al. (2026)]] clustered 107 students at a public HBCU on resilience, perceived stress and AI trust, and found three profiles in which **trust in AI dissociated from confidence in oneself**: a high-resilience low-stress group with favourable AI trust, a moderately stressed group holding the *highest* AI trust of the three despite strain, and a psychologically resilient group that was nearly as resilient as the adopters but markedly lower in AI trust. Stress and AI trust separated the clusters most strongly (partial eta squared 0.528 and 0.521 against 0.315 for resilience), and gender was the only demographic variable significantly associated with membership, with [[stem-education|STEM]] affiliation, academic level, employment status and age group all non-significant. Two implications matter for this page: first, low trust in AI is not a proxy for low confidence or low technical familiarity, since the sceptics were the most resilient and the most STEM-heavy group, which the authors read as calibrated scepticism rather than resistance; second, because the clusters were only weakly separated (silhouette 0.288, with the Calinski-Harabasz index preferring two clusters) they should be treated as overlapping profiles rather than distinct student types. The findings come from one institution and a cross-sectional [[self-report-measures|self-report]] survey, so they establish that trust varies with psychological state, not why.
+
 ## Interpersonal trust in education
 
-Trust is also fundamentally relational. The classroom trust gap is documented in [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|teacher-student views on control and agency in K-12 AI]]: students want greater autonomy and flexibility while teachers prioritize oversight and monitoring, a misalignment that both sides must navigate for AI adoption to succeed. [[qu-wang-disclose-or-not-genai-2026|Why students disclose or conceal their AI use]] shows that disclosure is driven less by policy than by relational factors — perceived peer norms and **comfort with instructors** are the strongest predictors, pointing to low interpretive trust in [[governance|institutional]] settings. [[vetter-hidden-cost-disclosure-genai-2026|The hidden costs of disclosure]] add nuance about when honesty is socially costly.
+Trust is also fundamentally relational. The classroom trust gap is documented in [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|teacher-student views on control and agency in K-12 AI]]: students want greater [[agency|autonomy]] and flexibility while teachers prioritize oversight and monitoring, a misalignment that both sides must navigate for AI adoption to succeed. [[qu-wang-disclose-or-not-genai-2026|Why students disclose or conceal their AI use]] shows that disclosure is driven less by policy than by relational factors — perceived peer norms and **comfort with instructors** are the strongest predictors, pointing to low interpretive trust in [[governance|institutional]] settings. [[vetter-hidden-cost-disclosure-genai-2026|The hidden costs of disclosure]] add nuance about when honesty is socially costly.
 
 Feedback is a key site of interpersonal trust. [[genai-teacher-feedback-comparison|Students' perceptions of GenAI versus teacher feedback]] find the two serve different needs — complementary but not interchangeable — with students trusting teacher feedback for relational, personalized judgment and [[generative-ai|GenAI]] for speed and [[accessibility]]. [[care-full-feedback-genai|A "care-full" account of feedback]] argues that trustworthy feedback is an [[ethics|ethical]], relational practice: it builds educative relationships and is respected as a professional craft, values an AI cannot simply replicate. This is why teacher-student trust — built on care and professional judgment — remains central even as AI enters the feedback loop.
 
@@ -19187,6 +19200,7 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
+- [[trust-in-ai-psychological-profiles-ml-2026]] — Three student profiles in which AI trust tracks resilience and stress rather than demographics (Kumar et al. 2026)
 
 ---
 
@@ -28040,6 +28054,71 @@ Atherton, T. J., Descamps, I., Holmes, T. R., Vizcarra, C. L., Sui, N., Webel, M
 ## Citation
 
 Baez, C., Buchner, J., Ullrich, A.-L., & Schallert-Vallaster, S. (2026). [*Exploring AI perceptions in education: unveiling the role of student and teacher motivation and self-efficacy*](https://doi.org/10.1016/j.caeo.2026.100346). *Computers and Education Open*, 100346. https://doi.org/10.1016/j.caeo.2026.100346
+
+---
+
+## [AI Personas: Can LLMs Replace Fieldwork in Experiential Learning?](https://edtechdev.github.io/aied/articles/ai-personas-fieldwork-experiential-learning-2026/)
+
+> **Synthesis:** Elhajj et al. (2026) report an emergency [[pedagogy|pedagogical]] substitution: when the 2024 war in Lebanon made community [[experiential-learning|fieldwork]] impossible for the HEHI 303 Experiential Learning course at the American University of Beirut, student groups interviewed ChatGPT-generated [[pedagogical-agent|AI personas]] instead of real stakeholders in needs assessment interviews and focus group discussions. Two HEI raters scored all 10 group prompts on five indicators, and [[conversational-ai|AI dialogue]] came out strongest where schooling normally wins anyway. Educational alignment (mean 5.00) and diversity of perspectives (4.90) topped the rubric, while group dynamics (3.80) and limitations (3.20) were weakest, where flat emotion, over-polished phrasing, absent disagreement and thin cultural specificity ran through every context. The authors conclude that AI personas are a useful complement and a crisis stopgap, not a replacement for real fieldwork.
+
+## Key Findings
+
+1. The study analyses all 10 AI persona prompts developed by 10 student groups out of the 63 students enrolled in the graduate HEHI 303 Experiential Learning course, each group working a distinct humanitarian case, with all personas built using ChatGPT 4.0.
+2. Prompts were rated on a five-indicator rubric: Authenticity and Realism, Diversity of Perspectives, Alignment with Educational Goals, Group Dynamics & Coherence, and Limitations and Gaps, on a 1 to 5 scale, each scored independently by two HEI research assistants and averaged.
+3. Educational Alignment was the strongest indicator, reaching a perfect mean of 5.00 across all ten prompts: regardless of context, personas produced usable material for stakeholder mapping, needs assessment, thematic coding and systems thinking.
+4. Diversity of Perspectives scored a mean of 4.90, with nine of ten prompts generating broad demographic, occupational and geographic variation. The exception was Prompt 2, whose women's focus group produced near-identical answers, a pattern the authors warn risks reinforcing stereotypes about displaced women.
+5. Authenticity and Realism averaged 4.38 and was highest where prompts were most locally specific (WASH professionals in Lebanon, Maasai women in Kenya, climate professionals in Ethiopia) and lower for broad or complex settings where responses drifted toward polished generality.
+6. Persona register mattered: authority figures such as a Ministry of Education official returned bullet-point policy prose that "reads as a policy document rather than spoken dialogue", while youth, elderly and other vulnerable personas produced the most conversational, emotionally expressive exchanges.
+7. Group Dynamics & Coherence was the most variable indicator (mean 3.80, range 2.5 to 4). Its lowest score came from Prompt 4, where 30 simultaneous Syrian women personas exceeded ChatGPT's capacity for group interaction and the output became a set of sequential interviews rather than a discussion.
+8. Limitations and Gaps recorded the lowest scores everywhere (mean 3.20), a cross-cutting weakness the authors read as a structural property of current LLMs rather than a prompt-design failure: emotional flatness, repetition, no contradiction or hesitation, and little cultural specificity in every one of the ten contexts.
+9. Inter-rater reliability was high overall: 84% exact agreement with a mean absolute difference of 0.15 points. Educational Alignment and Diversity of Perspectives reached 100% exact agreement, Authenticity and Realism 80% exact and 90% within ±0.5, Group Dynamics & Coherence 80%, and Limitations and Gaps only 60%, a gap the authors say means that indicator should be used alongside instructor reflection and student debriefing, not as a standalone metric.
+10. Student groups were trained on a seven-step persona routine: specify the task, define role and context, request detailed background, state the role-play, state the aim of the interview, provide an interview guide, and ask for a conversational tone.
+11. Specificity drove quality. More contextually detailed prompts produced richer, more differentiated responses, while vague prompts produced generic, culturally thin output, consistent with prior findings on prompt sensitivity in [[simulation|simulated]] interview training.
+12. The cross-case conclusion is blunt: AI personas perform best against educational and diversity objectives and worst at reproducing the dynamic, unpredictable, emotionally layered nature of real fieldwork.
+
+## Study Design & Method
+
+This is a qualitative case study of a single bounded context: the HEHI 303 Experiential Learning course of the Humanitarian Engineering Initiative at AUB during the 2024 conflict, when students could not reach communities for needs assessments. The design is descriptive rather than comparative. Each group wrote one prompt to generate personas for simulated stakeholder interviews and [[qualitative-research|focus group discussions]], and the unit of analysis is the resulting prompt-and-dialogue set, not the students. The paper frames the work as analysing student reflections alongside AI-generated dialogue, but the reported Results are the prompt-by-prompt and aggregated ratings; no separate student-perception survey or reflection scores are presented. Data collection is dated to December 2024, anonymised before analysis and granted a retrospective IRB exemption because the activity was originally course assessment, not research.
+
+## Implications for Teaching Practice
+
+The authors' recommendations are conditional rather than enthusiastic. AI personas are appropriate when physical access to communities is impossible or unsafe, and as low-stakes rehearsal before real fieldwork, for practising interview guides, stakeholder dynamics and question sequencing. They should not be treated as equivalent substitutes where emotional complexity, cultural specificity and interpersonal dynamics are themselves the learning objective. The suggested mitigation is structural: pair AI role-play with real interviews so students can compare, and train students to interrogate AI output for inconsistency, bias and cultural generalisation rather than accept it as evidence. [[human-in-the-loop-ai|Instructor oversight]] is load-bearing throughout, because over-generalised or inaccurate persona claims (for instance, assuming all students had online access) can pass into student analysis unchecked.
+
+## Limitations
+
+The paper's own stated limitations are substantial and it is candid about them. The study is a single descriptive case inside one course at one institution during one conflict, and it reports no learning-outcome data, so it cannot show that persona practice produced better competencies than fieldwork would have. The evaluation rubric was applied only to AI-generated dialogue; traditional FGDs and interviews were used informally during prompt development rather than scored as a matched comparison dataset. The two raters were HEI research assistants actively involved in the course, and their agreement was weakest on exactly the indicator that matters most here, Limitations and Gaps at 60% exact agreement, which the authors concede reflects genuine ambiguity in those judgements. They also flag that the rubric measures response quality, not student learning, and that emotion, contradiction and cultural texture were consistently underplayed regardless of geographic setting. Finally, the practical limitations they list for wider adoption are technical accuracy, training-data bias, privacy exposure through personalisation, resource intensity, and the risk that over-dependence on AI erodes the interpersonal skills that [[social-emotional-learning|social and emotional learning]] depends on.
+
+## Connected Concepts
+
+- [[experiential-learning]] — the course model AI personas were tested against
+- [[simulation]] — AI role-play standing in for community interviews and FGDs
+- [[conversational-ai]] — ChatGPT 4.0 as the persona engine
+- [[prompt-engineering]] — the seven-step persona prompt routine taught to students
+- [[pedagogical-agent]] — personas cast as stakeholders rather than tutors
+- [[qualitative-research]] — needs assessment, thematic coding and focus group method being taught
+- [[human-in-the-loop-ai]] — instructor guidance required to contextualise inaccurate output
+- [[human-ai-collaboration]] — the complement-not-replace framing the paper ends on
+- [[culturally-relevant-pedagogy]] — the cultural specificity gap in AI dialogue
+- [[social-emotional-learning]] — emotional nuance as the consistently missing element
+- [[global-south]] — fragile, low-resource and conflict-affected educational settings
+- [[limitations-in-aied-research]] — single-case, rater-based evaluation and its reliability ceiling
+
+## Connected Articles
+
+- [[adversarial-stress-testing-role-playing-agents]] — Stress-testing role-playing LLM agents
+- [[conversational-agents-business-simulation-gaming-2026]] — Conversational agents in business simulation
+- [[genai-simulate-patient-history-pbl-2026]] — Simulated patient histories for problem-based learning
+- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing education
+- [[llm-qualitative-coding-consensus-2026]] — LLMs for qualitative coding and consensus
+- [[human-vs-llm-ordered-coding]] — Human versus LLM coding of qualitative data
+- [[empathy-coaching-chatbot]] — Chatbot coaching of empathy
+- [[culturally-aware-aied-community-learning]] — Culturally aware AI in community learning
+- [[human-ai-complementarity-social-emotional-learning-2026]] — Human-AI complementarity in social-emotional learning
+- [[prompting-teachability-novice-personas-lbt-2026]] — Prompting teachability in novice personas
+
+## Citation
+
+Elhajj, I., Germani, A., Farah, J. M., Sabbagh, D., & Hajj Hassan, J. (2026). [AI Personas: Can LLMs Replace Fieldwork in Experiential Learning?](https://doi.org/10.3390/aieduc2030030). *AI in Education, 2*(3), 30.
 
 ---
 
@@ -38875,19 +38954,19 @@ A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, B
 
 ## Method highlights
 
-- **Critical use of genAI** measured with a newly developed 10-item scale (α = .78) covering validation behaviours (cross-checking outputs, verifying factual accuracy, comparing with literature).
-- **Knowledge measured two ways** — the study's key [[research-methods-aied|methodological]] contribution: *self-reported* (18 SNAIL items, α = .90) AND *objective/performance-based* (12 items from Köhler & Hartig's ChatGPT scale + Hornberger et al.'s AI literacy test), each objective item paired with a certainty rating to compute a **misconception score** (correctness × certainty; Eitel/Hefter procedure).
-- Dispositions: epistemic orientation (5 items, α = .70), intellectual values (14 fictive-person items, α = .90), plus need for cognition (NFC, 4-item short scale, α = .54).
+- **Critical use of genAI** measured with a newly developed 10-item scale (α = 0.78) covering validation behaviours (cross-checking outputs, verifying factual accuracy, comparing with literature).
+- **Knowledge measured two ways** — the study's key [[research-methods-aied|methodological]] contribution: *self-reported* (18 SNAIL items, α = 0.90) AND *objective/performance-based* (12 items from Köhler & Hartig's ChatGPT scale + Hornberger et al.'s AI literacy test), each objective item paired with a certainty rating to compute a **misconception score** (correctness × certainty; Eitel/Hefter procedure).
+- Dispositions: epistemic orientation (5 items, α = 0.70), intellectual values (14 fictive-person items, α = 0.90), plus need for cognition (NFC, 4-item short scale, α = 0.54).
 
 ## Key findings
 
 ### H1 — GenAI knowledge predicts critical use: SUPPORTED
-- Self-reported knowledge: r = .55, p < .001; **objective knowledge: r = .31, p = .011** — both significant.
+- Self-reported knowledge: r = 0.55, p < 0.001; **objective knowledge: r = 0.31, p = 0.011** — both significant.
 - The stronger self-report correlation likely reflects common-method bias (both self-report Likert scales) rather than a substantive difference — the objective test cross-validates the finding.
 
 ### H2 — Critical-thinking disposition predicts critical use: SUPPORTED
-- Multiple regression: F(2,64) = 17.19, p < .001, **R² = .33** — a third of the variance in critical GenAI use.
-- Epistemic orientation β = .36, p < .001; **intellectual values β = .40, p < .001**; low multicollinearity (VIF = 1.05), Durbin-Watson 2.23.
+- Multiple regression: F(2, 64) = 17.19, p < 0.001, **R² = 0.33** — a third of the variance in critical GenAI use.
+- Epistemic orientation β = 0.36, p < 0.001; **intellectual values β = 0.40, p < 0.001**; low multicollinearity (VIF = 1.05), Durbin-Watson 2.23.
 
 ### Exploratory — misconceptions are narrow but real
 - Only **9% of participants** had misconception scores below zero; just 3 of 12 items showed actual [[misconceptions]] (incorrect + high confidence).
@@ -38895,9 +38974,9 @@ A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, B
 - Most students correctly and confidently knew GenAI "may provide content that is not based on facts" (score 2.91, highest).
 
 ### Exploratory — need for cognition (NFC)
-- Actual genAI use correlated only with **interest** (r = .54) and **perceived usefulness** (r = .58) — not with knowledge or dispositions.
-- **Perceived usefulness negatively correlated with NFC** (r = −.27, p = .027): high-NFC students view GenAI utility more sceptically.
-- **NFC positively correlated with critical use** (r = .25, p = .044): the [[motivation|motivational]] drive to invest cognitive effort bridges AI literacy and actual critical behaviour.
+- Actual genAI use correlated only with **interest** (r = 0.54) and **perceived usefulness** (r = 0.58) — not with knowledge or dispositions.
+- **Perceived usefulness negatively correlated with NFC** (r = −0.27, p = 0.027): high-NFC students view GenAI utility more sceptically.
+- **NFC positively correlated with critical use** (r = 0.25, p = 0.044): the [[motivation|motivational]] drive to invest cognitive effort bridges AI literacy and actual critical behaviour.
 
 ## Implications
 
@@ -75973,6 +76052,71 @@ Chiu, T. K. F., Bali, S., Tondeur, J., Howard, S., & Chan, K. K. H. (2026). [*Te
 
 ---
 
+## [Pioneering Teacher Educators Navigating AI Integration in Pre-Service Teacher Preparation: Strategies and Challenges](https://edtechdev.github.io/aied/articles/teacher-educators-ai-integration-preservice-2026/)
+
+> **Synthesis:** This qualitative interpretive phenomenological study interviewed 13 pioneering teacher educators (seven [[pedagogy|pedagogical]] advisors and six lecturers) in seven Israeli teacher training institutions about how they prepare pre-service teachers for [[ai-literacy|AI literacy]] and AI-integrated teaching, using semi-structured interviews analysed through human [[qualitative-research|thematic analysis]] combined with AI-assisted dialogic analysis. Participants saw themselves as agents of change who must model critical AI use, reported a crisis of trust when students submitted unprocessed AI outputs, and redesigned assessment around process and classroom evidence. They also raised epistemic concerns about cognitive atrophy and the erosion of expertise, plus policy gaps, ethics and privacy worries, and cultural and economic barriers. The authors read these findings through post-digital theory and argue that AI-era [[teacher-education]] requires redefining literacy, pedagogy, and human agency rather than adding a technical module.
+
+## Key Findings
+
+1. Participants defined their role as preparing pre-service teachers for informed AI use, describing themselves as agents of change who model pedagogical innovation rather than transmit knowledge; Orna argued that teacher educators who do not integrate AI cannot expect students to, and Yair that lecturers must demonstrate [[ethics|responsible AI]] use in class.
+2. Epistemic concerns were central. Galit described a shift in conceptions in which AI forces a redefinition of what learning, knowledge acquisition, and inquiry mean, and warned that [[cognitive-offloading|over-reliance]] diminishes intellectual curiosity and the joy of learning.
+3. Iris warned that using AI before professional mastery erodes expertise, and insisted students learn the classical approach to text adaptation first; Yaakov reported watching seminar students let AI do the work and "simply did not develop," naming this his fear of cognitive atrophy, since "AI delivers products but not processes."
+4. Rivka proposed reorienting from knowledge acquisition to skills acquisition, since knowledge is now universally accessible and the value of education lies in the critical, accurate, dialogic skills used to engage it.
+5. A crisis of trust emerged when students submitted raw AI-generated outputs, sometimes without reading or editing them. Riham described losing trust in students displaying skills they did not expect, and Iris called the discovery that thinking tasks had not been attempted "really frustrating."
+6. Orna recounted a case study submitted in the name of a pupil from an entirely different cultural background, with the AI tool's address in the first line, which she called one of the hardest confrontations she has had with students.
+7. Participants named an "authenticity crisis": take-home written work could no longer reliably evidence learning, [[prompt-engineering|prompting]] the question of how to assess students authentically in the age of AI.
+8. Strategies included moving work into class (flipped classroom, presentations, [[learning-by-teaching|peer teaching]], elevator pitches, in-class visual models) and process-based assessment such as examining prompts, Google Docs version history, and DocWiz monitoring of group contributions.
+9. Some returned to non-digital evidence (reflective "journey journals" in physical notebooks, handwritten reflective paragraphs) and, as a last resort, to supervised examinations and anticipated oral thesis defences; Orna described returning to exams as personally painful but unavoidable.
+10. In field experience, pre-service teachers used AI for differentiated lesson planning: five interviewees directed students to build teaching units with AI and two guided adaptation to specific pupil profiles including [[special-education|special needs]], and students produced digital games, podcasts, visual aids, theorist "bots" they had to train, and [[early-childhood-elementary-ai-education|kindergarten]] learning-corner [[simulation|simulations]].
+11. [[student-experience|Student experiences]] ranged from heightened [[self-efficacy]] to frustration when tools failed complex pedagogic demands; Sarit reported students concluding "I am the teacher, and AI helps me," and Rivka noted AI's value in easing the isolation of student teachers alone in the field.
+12. Institutional support varied widely: workshops sequenced by study year, techno-pedagogical units working inside classes, and [[self-directed-learning|self-directed]] modules such as the six-unit Prizma module, but no formal AI literacy course in most institutions, which Mira attributed to rapid change and a scarcity of qualified lecturers.
+13. Persistent challenges included the "tsunami" pace of technological change, absent unified policy (Talia noted that what one lecturer allows another forbids), student deficits in [[critical-thinking|critical evaluation]] of outputs, cultural and religious variation in technology exposure, and economics: nine of thirteen participants funded advanced AI tools from their own pockets, warning this could deepen the [[digital-divide]] among students.
+
+## Study Design & Method
+
+The study adopts a qualitative interpretive phenomenological approach in the tradition of Smith et al. (2021), examining seven Israeli teacher education colleges through the lived experience of 13 participants: seven [[teacher-role|pedagogical advisors]] and six lecturers (11 females, two males). Five institutions belong to the state-Jewish stream, one to the state-religious stream, and one to the Arab stream, and participants were purposively selected for high proficiency in AI integration on the recommendation of institutional leaders. Data came from semi-structured in-depth interviews of 45–60 minutes, audio-recorded and transcribed verbatim. Analysis combined human thematic analysis in ATLAS.ti (Version 26) following Grounded Theory coding, with the first six interviews generating the coding system, and an independent AI-assisted analysis in NotebookLM, followed by systematic comparison of themes. Trustworthiness followed Lincoln and Guba (1985) and Tracy (2010): triangulation of method and investigators, a reflexive journal, an audit trail, and member checking with five interviewees across educational streams. Ethics approval came from the Ethics Committee of Levinsky-Wingate Academic College (protocol 08-081225, 8 December 2025), with informed consent covering AI-assisted analysis.
+
+## Implications
+
+The authors read the trust and authenticity crisis through Mezirow's transformative [[learning-theories|learning theory]] as a disorienting dilemma, and the most successful participants as moving from excluding AI toward redesigning practice around human–AI entanglement, in Fawns's (2022) sense of entangled pedagogy. They argue for redefining AI literacy from tool proficiency to critical, ethical, and epistemological competence, for making human–AI processes visible and evaluable, and for cultivating critical AI agency: the capacity to evaluate outputs, resist the colonization of professional judgment, and keep a clear professional identity. Because AI literacy demands differ across disciplines and communities, they hold that curricular responses must be situated rather than universal. Practically, they call for formalizing AI literacy as a curricular requirement comparable to [[writing-education|academic writing]] literacy, delivered by specialists combining pedagogical and technological expertise, plus institutional funding for professional tools and coherent cross-college policy. They also cite OECD (2026) evidence that [[generative-ai|generative AI]] supports learning under clear pedagogical principles but otherwise yields a "mirage of false mastery," including a finding that students using AI were 48% more successful at tasks while performance dropped by 17% when assistance was withdrawn.
+
+## Limitations
+
+The authors acknowledge five limitations. The 13 participants were selected precisely for their pioneering engagement, so findings reflect early adopters and cannot be generalized to teacher educators in Israel or beyond; sceptical faculty are not represented. The data rest entirely on [[self-report-measures|self-reported]] accounts, with the student voice absent. The study captures a specific moment in a rapidly evolving technological and policy landscape, limiting temporal transferability. Although the sample spans seven institutions across three educational streams, the small number of participants per institution limits systematic institutional comparison. Finally, the hybrid human plus AI-assisted analysis is still an emerging practice in qualitative research, and its interpretive complexity needs further methodological attention.
+
+## Connected Concepts
+
+- [[ai-literacy]] — the core construct participants reframe from tool proficiency to critical and ethical competence
+- [[teacher-education]] — the institutional setting whose AI-era reimagining the paper argues for
+- [[teacher-ai-competency]] — teacher educators developing their own AI literacy while fostering students'
+- [[generative-ai]] — the tool set reshaping lesson planning, materials, and assessment
+- [[academic-integrity]] — the trust and authenticity crisis behind assessment redesign
+- [[authentic-assessment]] — in-class, process-based, and non-digital evidence of learning
+- [[cognitive-offloading]] — participants' fear of cognitive atrophy and lost expertise
+- [[critical-thinking]] — the deficit participants saw in students' uncritical use of outputs
+- [[digital-divide]] — economic barriers and unequal access to quality AI tools
+- [[educational-policy-ai]] — absent unified institutional policy and national frameworks discussed
+- [[assessment]] — shifts toward process documentation, examinations, and oral defences
+- [[teacher-role]] — pedagogical advisors and lecturers as agents of change and epistemic mediators
+
+## Connected Articles
+
+- [[human-centered-ai-teacher-educators-2026]] — teacher educators' perspectives on human-centred AI integration
+- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — conceptual work on preparing pre-service teachers for AI
+- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in teacher education programmes
+- [[sutedjo-faculty-genai-tpack-21-2026]] — faculty GenAI knowledge through a TPACK lens
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — faculty identity tensions around generative AI
+- [[beyond-detection-authentic-assessment-ai-2025]] — redesigning assessment when detection fails
+- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — authenticity and integrity in AI-era assessment
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — teachers navigating uncertainty with generative AI
+- [[science-educators-ai-literacy-postqualification-2026]] — AI literacy development among educators in practice
+
+## Citation
+
+Goldstein, O., Marae-Haj, N., & Zidan, W. (2026). [Pioneering Teacher Educators Navigating AI Integration in Pre-Service Teacher Preparation: Strategies and Challenges](https://doi.org/10.3390/aieduc2030029). *AI in Education, 2*(3), 29.
+
+---
+
 ## [Teacher Intervention in K-12 AI-Based Instruction](https://edtechdev.github.io/aied/articles/teacher-intervention-k12-ai-based-instruction-2026/)
 
 > **Synthesis:** Lee (2026) synthesizes 29 studies of [[k-12|K-12]] AI-based instruction and finds that teacher intervention is the mechanism that turns AI output into teaching. Alerts, dashboards, automated scores and chatbot feedback do not constitute pedagogical action on their own; they become action only through a four-phase cycle of monitoring, judgment, intervention and orchestration, and every link in that cycle can fail. Three strategies organize the work — pedagogically translating AI outputs, designing learning support, and reconstructing interaction structures — and the reported effects on student performance, participation and confidence are positive but conditional on five factors: how interpretable the AI information is, intervention timing, the level targeted, teachers' implementation feasibility, and students' autonomy. The review's sharpest correction is that more AI information is not better, and more teacher support is not better either.
@@ -76532,6 +76676,73 @@ Lin, Y.-C., Guo, Y.-K., Chen, S.-C., Feng, B.-H., Hsu, Y.-M., Hsieh, H., Lin, Y.
 ## Citation
 
 Ó Ceallaigh, T. J., & Murphy, S. (2026). [*Teaching the teachers: A systematic review of genAI-specific technological pedagogical knowledge (TPK) in teacher education*](https://doi.org/10.1016/j.caeo.2026.100367). *Computers and Education Open*, 100367. https://doi.org/10.1016/j.caeo.2026.100367
+
+---
+
+## [Theoretical Perspectives on Teaching with Robots: From Interdisciplinary Prerequisites and Necessities in Today’s Classrooms to Five Different Types of Robots](https://edtechdev.github.io/aied/articles/teaching-with-robots-five-types-perspective-2026/)
+
+> **Synthesis:** Christ, Riedl, Schmid, Zürcher and Thilo (2026) argue that [[educational-robotics|social robots]] can act as embodied [[pedagogy|pedagogical]] partners in post-pandemic European classrooms, where rising child and adolescent mental-health problems coincide with shortages of teachers, school psychologists and [[special-education]] staff. The paper is conceptual and reports no new data: it synthesises research on [[embodied-learning|embodied cognition]], touch and physical play, [[social-emotional-learning]], and child–robot interaction into a 4E cognition heuristic (embodied, embedded, enacted, extended), then uses design-thinking workshops with a seven-expert team to derive five types of classroom robots anchored in the Swiss MindMatters mental-health programme. The five types run from non-interactive demonstration to one-on-one empathic dialogue, each mapped onto competence domains and paired with [[ethics|ethical safeguards]]. The contribution is a generative design space for future evaluation, not evidence of effectiveness.
+
+## Key Findings
+
+1. The authors tie the argument to converging pressures: the German COPSY study (Ravens-Sieberer et al., 2022) reports that the prevalence of psychological problems in children rose from 17.6% before the pandemic to over 30% during subsequent lockdown phases, and UNESCO (2025) projects a shortfall of over 4.8 million teachers in Europe and North America by 2030, of which [[k-12|secondary education]] would require 3.1 million.
+2. Staff shortages reach psychological support: recommended ratios of one school psychologist per 500–1000 students are rarely met, with a German estimate as high as 1:9482 (Jimerson et al., 2009) against 1:800 to 1:1200 in Finland (OECD, 2025).
+3. Current classroom technologies give only partial relief. Learning management systems, behaviour apps such as ClassDojo, digital mental-health platforms, interactive whiteboards and peer-tutoring platforms help with communication and behaviour, but bring screen fatigue, data-privacy and surveillance concerns (Manolev et al., 2019), uneven participation (Topping, 2005), and cost or training burdens.
+4. 4E cognition is used as a heuristic rather than a tested model, with each dimension mapped onto robot design features: embodied cognition onto physical and sensorimotor engagement, embedded cognition onto integration into the classroom setting, enacted cognition onto real-time co-construction of meaning, and [[distributed-cognition|extended cognition]] onto robots as external cognitive and social partners.
+5. A chapter on touch and physical play grounds the argument developmentally: Field (2010) on tactile experience in brain maturation, Carozza and Leong (2021) on synaptogenesis, Pellegrini and Smith (1998) on rough-and-tumble play for negotiation and conflict resolution, and Diamond (2013) on physical activity and executive functions.
+6. Reviewed empirical work consistently reports that educational robots raise engagement and motivation. Ouyang and Xu (2024) find gains in conceptual understanding and [[problem-solving]] in [[stem-education|STEM]], Huang (2024) finds robot-assisted learning most effective in small-group settings, Wang et al. (2024) conclude via [[tpack]] that robots are facilitators and not replacements that work best when teachers mediate, and Schulz et al. (2020) report reduced stress and better vocabulary and pronunciation in [[language-learning|language learning]]. Reviewers repeatedly call for longitudinal study of retention and sustained impact.
+7. The pedagogical functions are tied to concrete [[ai-technologies|AI technologies]]: natural-language processing for dialogue, [[affective-computing|affective computing]] for emotion recognition and expression, [[reinforcement-learning|reinforcement learning]] for adaptive behaviour, and behaviour-prediction models for [[personalized-learning|personalisation]], framed as [[human-ai-collaboration|hybrid intelligence]] in which human and machine capabilities co-evolve rather than as [[teacher-role|teacher]] substitution.
+8. The typology came from a team of seven experts, six researchers in health sciences, robotics, [[cs-education|computer science]], [[math-education|mathematics]] and design plus one specialist in evidence-based mental-health modules for Swiss schools, who ran five workshops of two hours each using the inspiration and ideation phases of Brown’s (2008) [[design-thinking]] model with think–pair–share and Metaplan methods. No real robots were used in the workshops.
+9. Robot type a performs a non-interactive demonstration of generic social patterns, a pre-programmed automated theatre of emotions shown to a group and then discussed, illustrating generalisable dynamics such as escalation or misunderstanding.
+10. Robot type b is an interactive robot that reacts to touching with programmed human responses, enabling a participative physical theatre with peer role-play in which pupils need not take unpleasant roles; cited work includes studies with autistic children and children with visual impairment.
+11. Robot type c is a spoken-language interactive partner that shows empathic behaviour and memorises interactions with single students, creating a one-to-one setting that can reduce pupils’ fear of sharing secrets with real people.
+12. Robot type d is an externally guided performative agent, steered by an invisible pedagogical intervention specialist and functioning like a puppet with greater degrees of freedom, intended to minimise social hierarchies and raise interest in the learning content.
+13. Robot type e is a non-interactive robot programmed to mimic actions that recently occurred in the school setting, creating a stage for situated reflection; the authors suggest it may later be guided by AI that extracts behavioural patterns from videos, and contrast its context-specific abstraction with the generalised level of type a.
+14. Competence domains and safeguards are mapped explicitly: types a and e support reflection and perspective-taking, type b supports embodied learning, boundary awareness and emotion regulation, type c supports self-disclosure and [[trust]] in a protected one-to-one setting, and type d supports critical engagement with hierarchies and agency; the ethical section requires data minimisation, on-device processing where feasible, retention limits such as immediate deletion or storage for 24–72 h, prohibitions on secondary use for discipline or ranking, framing robots as tools rather than confidants, planned end-of-intervention transitions, and disclosure of control modes with teacher override and incident review. Earlier iterations produced seven categories which were merged in a consensus process.
+
+## Study Design & Method
+
+This is a Perspective paper, not an empirical study. The authors state that it offers a theoretical perspective rather than an empirical investigation, that no new data were created or analysed, and that they use a narrative, concept-driven [[meta-analysis-systematic-review|literature review]] rather than a systematic search. The typology is a design exercise: five documented workshops with an interdisciplinary expert team, situated in the Swiss implementation of the MindMatters mental-health programme, which has been used in Swiss primary and secondary schools since 2003. The workshops targeted pupils aged eight to fifteen because of their verbal maturity and their exposure to bullying and stress. The typology is presented as a heuristic design space rather than an empirically validated classification, and the reported next step is teacher focus groups on feasibility, practicality, risks and ethical considerations.
+
+## Implications
+
+For educators the paper argues that robots complement rather than replace teachers and therapists, and that their use requires a concrete pedagogical setting and situated robot design instead of generic deployment. The claimed advantage across the use cases is twofold: physical presence beyond multimedia animation, and machine abstraction that lets pupils rehearse scenarios impossible with real peers. For designers, the five types mark functionally distinct roles that can be probed separately, with emotional learning, conflict mediation and exam or job-interview practice as recurring scenarios.
+
+## Limitations
+
+The authors state that the framework and use cases are anchored in the Swiss context and in the logic of MindMatters, and that practical realisation through robots is highly sensitive to regional, cultural and institutional factors, including norms of physical interaction and emotional disclosure, [[privacy|data protection]] rules and support infrastructure. They do not claim long-term effectiveness or sustained impact, and they flag unresolved questions about durability of effects beyond novelty phases, the evolution of children’s emotional relationships with robotic agents, and institutional [[sustainability]]. The typology is explicitly not empirically validated, and the evidence cited comes from [[educational-robotics]] research that reviewers already describe as short on longitudinal and retention data.
+
+## Connected Concepts
+
+- [[educational-robotics]] — social robots as classroom pedagogical partners
+- [[embodied-learning]] — 4E cognition and physical interaction as a basis for learning
+- [[social-emotional-learning]] — emotional regulation, empathy and conflict skills targeted by the use cases
+- [[situated-learning]] — cognition distributed across bodies, tools and classroom contexts
+- [[teacher-role]] — robots as facilitators that teachers must mediate, never replacements
+- [[design-thinking]] — the workshop process used to derive the five robot types
+- [[well-being]] — school-based mental-health promotion as the paper’s purpose
+- [[ethics]] — privacy, surveillance, attachment and accountability safeguards
+- [[affective-computing]] — emotion recognition and expression underpinning adaptive robot behaviour
+- [[special-education]] — touch-based and humanoid robot work with autistic and visually impaired children
+- [[theory-development-aied]] — conceptual synthesis offered ahead of systematic evidence aggregation
+- [[pedagogy]] — role types defined by pedagogical function rather than technology
+
+## Connected Articles
+
+- [[pepper-social-robot-formal-education-scoping-review-2026]] — scoping review of social robot use in formal education
+- [[robobuddy-llm-social-robots-classroom-2025]] — LLM-driven social robots in classroom settings
+- [[knowledge-based-design-generative-social-robots-2026]] — design approaches for generative social robots
+- [[remind-robot-mediated-roleplay-antibullying-2026]] — robot-mediated role-play against bullying
+- [[robot-assisted-language-learning-meta-analysis-2026]] — robot assistance for language learning outcomes
+- [[social-robot-study-companions]] — robots as study companions for learners
+- [[educational-robotics-pathways-2026]] — pathways and open questions in educational robotics
+- [[human-ai-complementarity-social-emotional-learning-2026]] — human–AI complementarity in social-emotional learning
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — embodied and multimodal accounts of learning
+- [[ai-campus-wellbeing-tools]] — digital well-being support in educational settings
+
+## Citation
+
+Christ, O., Riedl, R., Schmid, J., Zürcher, P., & Thilo, F. (2026). [Theoretical Perspectives on Teaching with Robots: From Interdisciplinary Prerequisites and Necessities in Today's Classrooms to Five Different Types of Robots](https://doi.org/10.3390/aieduc2030028). *AI in Education, 2*(3), 28.
 
 ---
 
@@ -77749,6 +77960,86 @@ The paper is deliberately conceptual and reports **no empirical validation and n
 ## Citation
 
 Venetsanos, D. T. (2026). [A Tripartite Feedback Framework for AI-Assisted Assessment of Complex Reports in Higher Education](https://doi.org/10.3390/aieduc2030026). *AI in Education, 2*(3), 26.
+
+---
+
+## [Psychological Profiles Associated with Trust in Artificial Intelligence Among University Students: A Machine Learning Clustering Approach](https://edtechdev.github.io/aied/articles/trust-in-ai-psychological-profiles-ml-2026/)
+
+> **Synthesis:** Kumar, Anand, Butler & Bista (2026) surveyed 107 students at a public historically Black university ([[higher-ed|HBCU]]) in the Mid-Atlantic United States and applied [[machine-learning|K-means clustering]] to three [[self-report-measures|self-report measures]]: psychological resilience, perceived stress, and [[trust]] in AI. Three profiles emerged: "Moderately Stressed AI-Positive Students," "High-Resilience Low-Stress AI-Adopters," and "Psychologically Resilient AI Skeptics." All three psychological variables differed significantly across the profiles, with stress and AI trust separating them most strongly, while only gender was significantly tied to profile membership. The authors read this as evidence that trust in AI tracks psychological state more than demographic category, so students should be treated as a heterogeneous population rather than a single average, an argument they connect to [[trust-calibration|calibrated reliance]] instead of blanket acceptance.
+
+## Key Findings
+
+1. K-means clustering identified three psychological profiles among the 107 students in the final analytic sample: "Moderately Stressed AI-Positive Students" (n = 39), "High-Resilience Low-Stress AI-Adopters" (n = 47), and "Psychologically Resilient AI Skeptics" (n = 21).
+2. Cluster selection was a judgment call rather than a clean statistical winner. Across K = 2 to K = 7 the silhouette coefficient was highest at K = 3 (0.288), but the Calinski–Harabasz index preferred K = 2 (45.43) over K = 3 (43.35); the authors kept three clusters for [[explainable-ai|interpretability]] while calling the separation weak or borderline.
+3. The solution was stable. Repeating K-means with 100 different random initializations produced a mean adjusted Rand index of 0.989 (SD = 0.077), indicating highly reproducible cluster assignments.
+4. All three clustering variables differed significantly across the profiles: psychological resilience (F = 23.88), AI trust (F = 56.51), and stress (F = 58.28), each p < 0.001.
+5. Stress and AI trust showed the largest effects, with partial eta squared of 0.528 and 0.521 respectively against 0.315 for resilience. Emotional strain and attitudes toward AI, not resilience, separated student profiles most sharply.
+6. The "High-Resilience Low-Stress AI-Adopters" combined the highest resilience (M = 4.18), lowest stress (M = 1.55), and favorable AI trust (M = 2.96).
+7. The "Moderately Stressed AI-Positive Students" reported the highest AI trust of any group (M = 3.21) despite elevated stress (M = 2.29) and only moderate resilience (M = 3.52), suggesting strained students may still see AI as a support or coping tool.
+8. The "Psychologically Resilient AI Skeptics" were almost as resilient as the adopters (M = 3.91) but far lower in AI trust (M = 1.97), with moderate stress (M = 2.15). This is the study's central evidence that confidence in one's own ability and confidence in AI are partially independent.
+9. Gender was the only demographic variable significantly associated with cluster membership (χ2 = 10.34, p = 0.006); the AI Skeptics cluster was 90.5% female.
+10. [[stem-education|STEM]] affiliation, academic level, employment status, and age group were not significantly associated with cluster membership (χ2 = 3.24, p = 0.198; 3.56, p = 0.469; 0.86, p = 0.930; 0.69, p = 0.709).
+11. The AI Skeptics also had the highest share of STEM students (85.7%) and upper-level undergraduates (71.4%) among the clusters, so technical familiarity did not imply higher trust in AI.
+12. Scale reliabilities were acceptable for an exploratory study: Cronbach's alpha of 0.69 for psychological resilience, 0.69 for AI trust, and 0.81 for perceived stress.
+13. The sample was predominantly female (69.2%), STEM-affiliated (73.8%), aged 18–25 (84.1%), and senior-level (54.2%), with mean scores of 3.89 (SD = 0.53) for resilience, 2.86 (SD = 0.63) for AI trust, and 1.94 (SD = 0.48) for stress.
+14. The authors interpret low AI trust among otherwise resilient students as potentially calibrated skepticism rather than resistance, framing it through appropriate reliance theory (Lee & See, 2004) and the idea that effective human–[[student-ai-interaction|AI interaction]] requires calibrated reliance instead of unconditional acceptance.
+
+## Study Design & Method
+
+- Cross-sectional [[quantitative-research|survey design]] with an interpretable ML pipeline, run in Python 3.12.
+- Online questionnaire distributed through academic networks at one public HBCU; participation voluntary, all responses self-reported. 109 students responded, and case-wise deletion of missing or outlier values reduced the analytic sample to 107.
+- Psychological resilience used items informed by the Mental Toughness Questionnaire framework (Dagnall et al., 2019); the appendix lists six five-point items on calm under pressure, perceived control, persistence, growth framing, confidence in success, and social ease.
+- AI trust was adapted from prior AI trust and technology acceptance work (Choung et al., 2023) and the [[technology-acceptance-model|technology acceptance model]]; the appendix lists five items on trusting AI decisions, perceived fairness and bias, openness to AI, recommending AI services, and concern about AI-related job displacement (reverse coded).
+- Perceived stress adapted the stress dimension of the Depression Anxiety Stress Scale (Parkitny & McAuley, 2010), with six four-point items on strain and agitation during the previous week.
+- All features were z-standardized so resilience, AI trust, and stress carried equal weight; K-means partitioned students by Euclidean distance, with K evaluated from 2 to 7 via silhouette and Calinski–Harabasz indices plus stability checks. PCA reduced the feature space to two components for [[visualization]] only, not for clustering.
+- Cluster differences were characterized with one-way ANOVA and partial eta squared, and demographics with chi-square. Sparse cells forced minor adjustments: the "prefer not to say" gender category (n = 2) was dropped, age was collapsed to 18–25 versus 26+, and academic level was grouped into lower undergraduate, senior, and graduate. Alpha was 0.05.
+
+## Implications
+
+- Students should not be addressed as a psychologically homogeneous audience for AI rollouts. The three profiles imply different starting points: students who are resilient and receptive, students under strain who may lean on AI for support, and confident students who remain skeptical of [[ai-technologies|AI systems]].
+- Lower AI trust should not be read as unreadiness. The skeptics profile was the most resilient and the most STEM-heavy, which the authors treat as consistent with [[critical-thinking|critical evaluation]] rather than resistance to technology.
+- Institutions implementing AI-supported learning may need to attend to students' confidence, control, stress, and trust alongside technical access, and the authors argue for explainable, human-centered AI: students low in AI trust may benefit from transparent information about how systems work, their limits, and appropriate contexts for use rather than from persuasion to adopt.
+- The findings are framed as especially relevant to Minority Serving Institutions and HBCUs, where AI adoption research remains thin despite national emphasis on expanding AI research capacity, connecting the study to questions of [[equity-in-ai-education|equity in AI education]].
+
+## Limitations
+
+- All measures were self-reported, leaving room for social desirability bias, recall bias, and subjective interpretation of items.
+- The sample was modest and drawn from a single public HBCU, and was predominantly female and STEM-enrolled. The authors state the profiles are context-specific and may not represent students at Predominantly White Institutions, other MSIs, or institutions outside the United States.
+- Although the solution was stable across random initializations, the weak silhouette coefficient means the clusters should be read as meaningful but partially overlapping psychological profiles rather than fully distinct groups.
+- Different internal validation indices favored different solutions (K = 2 versus K = 3), which the authors attribute to the inherent difficulty of identifying subgroup structure in moderate-sized psychological datasets.
+- The cross-sectional design prevents causal inference: the study cannot say whether psychological characteristics shape AI trust or whether AI experiences shape psychological functioning.
+- The authors call for larger multi-institution datasets, longitudinal designs tracking profiles over time, alternative clustering approaches such as hierarchical clustering or Gaussian mixture models, and tests of whether the profiles relate to outcomes such as [[learning-gains|academic performance]].
+
+## Connected Concepts
+
+- [[trust]] — the outcome construct at the center of the study, measured as confidence in and acceptance of AI systems.
+- [[trust-calibration]] — the paper reads resilient students' low AI trust as calibrated skepticism rather than blanket rejection.
+- [[ai-anxiety-and-stress]] — perceived stress was one of the two strongest differentiators of the student profiles.
+- [[well-being]] — psychological resilience and stress are treated as indicators of students' psychological functioning.
+- [[self-efficacy]] — confidence in one's own abilities is the resilience-related theme that coexists with AI skepticism.
+- [[machine-learning]] — K-means clustering with internal validation metrics and stability analysis is the analytic core.
+- [[technology-acceptance-model]] — the AI trust scale was adapted from AI trust and technology acceptance literature.
+- [[higher-ed]] — the study population is university students at a US HBCU.
+- [[self-report-measures]] — all constructs came from voluntary Likert-scale questionnaire items.
+- [[equity-in-ai-education]] — the institutional framing is HBCU and MSI AI research capacity.
+- [[learning-analytics]] — the paper sits in the space of statistical and ML profiling of educational survey data.
+
+## Connected Articles
+
+- [[trust-reliance-ai-education-2026]] — trust and appropriate reliance in AI-assisted problem solving
+- [[icet-ml-education-trust-2026]] — machine learning applied to trust in education
+- [[human-ai-collaboration-trust-expectations]] — expectation effects on trust in human–AI collaboration
+- [[task-context-trust-educational-hri-2026]] — task context and trust in educational human–robot interaction
+- [[student-mental-models-genai]] — how learners model generative AI systems
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — dependence on AI alongside literacy and self-efficacy
+- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — student personas in higher education generative AI adoption
+- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI anxiety, motivation, and emotion in academic settings
+- [[student-math-competence-clustering]] — clustering students from survey and competence data
+- [[xai-teachers-trust-edtech-recommendations-2026]] — explainability and trust in AI-driven educational recommendations
+
+## Citation
+
+Kumar, V., Anand, A., Butler, R., & Bista, K. (2026). [Psychological Profiles Associated with Trust in Artificial Intelligence Among University Students: A Machine Learning Clustering Approach](https://doi.org/10.3390/aieduc2030031). *AI in Education, 2*(3), 31.
 
 ---
 
