@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-16T12:00:00-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 tags: [pedagogy, learning-design, ai-education, higher-ed, k-12]
@@ -29,7 +29,7 @@ Pedagogy and teaching strategy concern *how* educators teach — the activities,
 The knowledge base documents a rich set of individual teaching strategies and pedagogies, organized into families:
 
 - **Student-centered and active approaches.** [[active-learning]] (students engaged in doing and thinking rather than passively receiving), [[project-based-learning]] (learning through extended projects), [[experiential-learning]] (learning through direct experience), and [[learning-by-teaching]] (learning by explaining to others).
-- **Collaborative and social approaches.** [[collaborative-learning]] (learning through group work), [[sociocultural-learning]] (learning through social participation and mediation), and [[socratic-method|Socratic questioning]] (learning through guided dialogue and questioning).
+- **Collaborative and social approaches.** [[collaborative-learning]] (learning through [[group-work|group work]]), [[sociocultural-learning]] (learning through social participation and mediation), and [[socratic-method|Socratic questioning]] (learning through guided dialogue and questioning).
 - **Experience-based approaches.** [[experiential-learning]] (learning through direct experience and reflection), [[situated-learning]] (learning in authentic contexts), and [[embodied-learning]] (learning through physical/embodied interaction).
 - **Structured and guided approaches.** [[scaffolding]] (temporary, fading support), [[learning-design]] (systematic design of instruction), [[self-regulated-learning]] (learners directing their own learning), and [[sociocultural-learning]] (including structured, teacher-guided sociocultural support).
 - **Online and distance pedagogies.** [[online-teaching-and-learning|Online teaching and learning]] is itself a pedagogical context, not just a delivery channel: the medium shapes which strategies are viable ([[active-learning]] rethought for asynchronous forums, [[collaborative-learning]] via digital discussion, [[intelligent-tutoring|tutoring agents]] replacing face-to-face interaction). In this medium, AI raises both new opportunities (scalable [[personalized-learning|personalization]], always-on support) and new risks ([[academic-integrity|academic integrity]], [[cognitive-offloading|cognitive offloading]]), making pedagogical intent decisive.
@@ -40,7 +40,7 @@ The knowledge base documents a rich set of individual teaching strategies and pe
 
 The knowledge base's [[research-methods-aied|research]] examines pedagogy at the intersection of AI and teaching in several ways:
 
-- **AI as a pedagogical agent.** AI tools embody pedagogies — a [[intelligent-tutoring|tutor]] built on [[socratic-method|Socratic questioning]] prompts learners to reason, while an answer-generating chatbot may default to direct provision (see [[reducing-ai-misuse]] on why the pedagogical stance matters). The [[agentic-ai|agentic AI]] literature shows that grounding agents in instructional-design theory outperforms raw [[prompt-engineering|prompting]].
+- **AI as a pedagogical agent.** AI tools embody pedagogies — a [[intelligent-tutoring|tutor]] built on [[socratic-method|Socratic questioning]] prompts learners to reason, while an answer-generating chatbot may default to direct provision (see [[reducing-ai-misuse]] on why the pedagogical stance matters). The [[agentic-ai|agentic AI]] literature shows that grounding agents in instructional-design theory outperforms raw [[prompt-engineering|prompting]]. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] reframe this role formally: rather than a dyadic instructor–[[student-modeling|student model]] with GenAI as an external supplement or threat, they propose a nested **instructor–student–GenAI triadic model** in which GenAI operates as a bounded *didactic-pedagogical mediator* within a shared didactic mediation space governed by institutions and stakeholders — yielding five researchable propositions on learning mediation, instructor-role transformation, AI literacy and learner agency, AI-transparent process-oriented assessment, and institutional [[governance]].
 - **Pedagogy determines AI's effect.** A recurring finding is that *how* AI is used matters as much as *whether* it is used. [[instructional-guidance-genai-learning|Instructional-guidance research]] and [[generative-ai-guardrails-harm-learning|guardrailed-tutor RCTs]] show the same AI can harm or help depending on the pedagogical wrapper (hints vs. answers, structured vs. open use).
 - **Teaching strategies for AI literacy.** Teaching students *to use AI well* is itself a pedagogical task — [[ai-literacy]] and [[reducing-ai-misuse]] research develops strategies (think-first/AI-second/reflect, AI-declaration, calibration training) that belong to this umbrella.
 - **Pedagogy in teacher practice.** [[teacher-role]] and [[teacher-ai-competency]] examine how teachers adopt AI within their existing pedagogical repertoire, and [[pedagogical-llm-training]] / [[pedagogical-agent]] study AI tools trained to follow pedagogical principles.
@@ -54,7 +54,7 @@ Pedagogies and learning theories are closely linked: each pedagogy operationaliz
 Different pedagogical strategies produce different kinds and sizes of [[learning-gains|learning gains]], and the knowledge base's evidence lets us compare them:
 
 - **Active and experiential strategies** generally produce stronger durable learning than passive reception, though they feel more effortful — [[active-learning]], [[experiential-learning]], [[project-based-learning]], and [[learning-by-teaching]] build understanding through doing. [[generative-ai-reduced-study-time-math|Research]] shows that strategies preserving effortful practice (rather than AI shortcutting it) protect [[learning-gains]].
-- **Structured, guided strategies** ([[scaffolding]], [[self-regulated-learning]], [[learning-design]]) produce reliable but more modest gains — the guardrail evidence ([[generative-ai-guardrails-harm-learning|PNAS 2025]]) shows hint-not-answer scaffolding preserves learning that unguarded answer-giving destroys.
+- **Structured, guided strategies** ([[scaffolding]], [[self-regulated-learning]], [[learning-design]]) produce reliable but more modest gains — the guardrail evidence ([[generative-ai-guardrails-harm-learning|PNAS 2025]]) shows [[guardrails|hint-not-answer]] scaffolding preserves learning that unguarded answer-giving destroys.
 - **[[game-based-learning|Game-based learning]]** produces engagement and skill gains that are real but often modest and context-dependent — [[genai-educational-outcomes-meta-analysis|meta-analytic evidence]] finds game-assisted GenAI shows no significant added benefit over other formats, so games are best used for motivation and practice, not as a shortcut to gains.
 - **Collaborative and sociocultural strategies** ([[collaborative-learning]], [[sociocultural-learning]]) show gains mediated by interaction quality, increasingly studied with AI as a partner or peer.
 - **Socratic and dialogue-based strategies** ([[socratic-method]]) target higher-order thinking and reasoning — gains that are harder to measure than skill gains but central to [[critical-thinking]].
@@ -95,6 +95,7 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 - [[k-12]]
 
 ## Connected Articles
+- [[genai-didactic-pedagogical-mediator-2026]] — GenAI as didactic-pedagogical mediator: instructor–student–GenAI triadic model (Moganadas et al. 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'Pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)
 - [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI

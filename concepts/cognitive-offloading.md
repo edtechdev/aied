@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-16T11:00:00-04:00"
 type: concept
 tags: [cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 audience: [learners]
@@ -49,6 +49,8 @@ The knowledge base's articles document cognitive offloading across multiple dime
 - **Fatigue and cognitive burden:** [[ai-fatigue-academic-contexts|AI fatigue research]] documents how constant [[student-ai-interaction|AI interaction]] creates its own cognitive burden, a paradox where offloading one task increases cognitive load from managing AI outputs.
 
 - **The metacognitive beliefs-vs-experiences framework:** [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]] apply Nelson and Naren's dynamic metacognitive model to reconcile the field's contradictory intervention findings. They distinguish metacognitive *beliefs* (stable, self-referential self-conceptions that anchor offloading choices pre-task) from metacognitive *experiences* (dynamic, task-specific feelings that drive belief updating during-task), yielding the principle of **timing-component matching**: belief-targeting feedback is most effective before a task, while experience-targeting feedback (immediate correctness indicators) is most effective during it. They also formalize **substitutive offloading** (replacing internal processing with external aids) vs. **duplicative offloading** (supplementing it) — when external stores vanish, substitutive offloaders decline sharply while duplicative offloaders retain accuracy — and use **reminder bias** to quantify deviation from optimal offloading. This converges with the "coach vs. crutch" boundary: offloading that scaffolds preserves skill; offloading that substitutes risks decay.
+
+- **A formal problematic-use model for AI dependence in academic writing (I-PACE):** [[ai-dependence-academic-writing-ipace-2026|Liu, Zhuang & Wang (2026)]] extend the I-PACE model of addictive-technology use to generative AI dependence in college [[writing-education|academic writing]]. In a [[mixed-methods-research|mixed-methods]] Chinese sample, academic stress is the strongest predictor of AI dependence, [[ai-literacy]] is a protective factor (lower literacy → more psychological dependence), and perceived trust mediates the path from social influence to dependence — so dependence forms through a social-influence → trust → behavior pathway, not just individual tool use. Their [[qualitative-research|qualitative]] data add a policy dimension: students report strategic evasion of [[ai-detection|plagiarism detection]] and cite ambiguous rules about what counts as compliant AI use as an incentive to improvise, connecting offloading to [[academic-integrity]].
 
 - **Cognitive debt and the episodic–habitual offloading distinction:** [[critical-thinking-paradox-genai-learning-2026|Lin & Al-Hada (2026)]] formalise the "critical-thinking paradox" — improved products alongside reduced cognitive engagement — through a differentiated three-level framework (surface/intermediate/deep AI roles) and the construct of *cognitive debt*: a potential cumulative decline in metacognitive calibration and unaided higher-order performance that persists beyond an AI-assisted episode. Their key conceptual advance is distinguishing **episodic offloading** (deliberate, task-specific delegation with retained awareness) from **habitual offloading** (routine, weakly monitored reliance), predicting that the latter on deep-processing tasks yields a product–process dissociation — higher-rated assignments but lower unaided delayed transfer.
 
@@ -196,3 +198,4 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[genai-cognitive-tutor-programming-2026]] — GenAI as informal tutor: illusion of competence and epistemic debt in novice programming
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
+- [[ai-dependence-academic-writing-ipace-2026]] — I-PACE model of generative-AI dependence in academic writing

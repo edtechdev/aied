@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-16
 
-Articles: 1206 | Concepts: 191 | FAQs: 18
+Articles: 1218 | Concepts: 191 | FAQs: 18
 
 ## Concepts
 
@@ -84,6 +84,7 @@ Articles: 1206 | Concepts: 191 | FAQs: 18
 - [[ai-collaborative-learning-systematic-review]] — A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade
 - [[ai-communities-of-inquiry-2026]] — 'Artificial Intelligence and Communities of Inquiry: Reimagining Educational Experiences'
 - [[ai-decision-support-online-learning-assessment-2026]] — 'Architecting an AI-Driven Decision Support System for Enhanced Online Learning and Assessment'
+- [[ai-dependence-academic-writing-ipace-2026]] — Are Students Dependent on AI in Writing Courses? Analyzing Factors Influencing Dependence on Generative AI Through the I-PACE Model
 - [[ai-detection]] — AI Detection
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — AI for Education: The Digital Transformation of a Liberal Arts Institution — Implementation at Lingnan University
 - [[ai-disruption-engineering-education-chat-2026]] — The AI Disruption in Engineering Education: Changing Student Norms Through CHAT
@@ -91,6 +92,8 @@ Articles: 1206 | Concepts: 191 | FAQs: 18
 - [[ai-divide-ses-personality-primary-education-2026]] — Decoding Divides: The Role of Socioeconomic Status and Personality Traits in AI Divides and Educational Inequality
 - [[ai-ed-evaluation]] — AI Ed Evaluation
 - [[ai-education]] — AI in Education
+- [[ai-educational-reform-computer-majors-2026]] — AI-Driven Educational Reform: Enhancing Talent Cultivation in Computer-Related Majors for the Digital Era
+- [[ai-emotional-intelligence-teacher-development-2026]] — Artificial and Emotional Intelligence: Two Key Forces for Teachers' Professional Development in an Era of Uncertainty
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — Artificial Intelligence (AI) and the Future of the Engineering and Computing Workforce: A Systematic Review of Grey Literature and Document Analysis of U.S. Reports (2020–2025)
 - [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
@@ -103,6 +106,7 @@ Articles: 1206 | Concepts: 191 | FAQs: 18
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-Generated Feedback Matter: From Provision to Student Enactment
 - [[ai-feedback-quality]] — AI Feedback Quality
 - [[ai-gamification-security-education-2026]] — Security Education in Higher Education through AI-Powered Gamification
+- [[ai-gamified-adaptive-learning-efl-2026]] — Acceptance of AI-Gamified Adaptive Learning in EFL: Bifactor Evidence for Essential Unidimensionality and the Limits of Subscale Scoring
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[ai-generated-instructional-videos-computing-ed]] — Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
 - [[ai-generated-interactive-fiction-education-2026]] — AI-Generated Interactive Fiction for Educational Use: A Pilot Study of Perceived Comprehensibility, Coherence, and Engagement
@@ -160,12 +164,14 @@ Articles: 1206 | Concepts: 191 | FAQs: 18
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ai-stem-bibliometric-trends]] — Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
 - [[ai-student-engagement-online-learning-review-2025]] — Artificial Intelligence and Student Engagement in Online Learning: A Literature Review
+- [[ai-supported-ementoring-efl-preservice-2026]] — An AI-supported E-mentoring model to develop EFL pre-service teachers' self-efficacy and emotional intelligence
 - [[ai-supported-experimental-design-chemistry-2026]] — Supporting Undergraduate Students' Learning in Practical Chemistry Courses through AI-Supported Experimental Design
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-Supported Inquiry-Based Learning in Photosynthesis and Respiration: Implications for Sustainable Science Teacher Education
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — The Impact of Artificial Intelligence-Supported Instruction on Student Learning in STEM: A Systematic Review and Meta-Analysis
 - [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education: A Socio-Technical Perspective
 - [[ai-supported-oral-assessment-tvet-2026]] — Designing AI-Supported Oral Assessment in TVET
 - [[ai-sycophancy]] — AI Sycophancy
+- [[ai-teaching-innovation-ai-tpack-2026]] — AI Teaching Innovation Behavior Among College Teachers: A Structural Equation Modeling Analysis Based on the AI-TPACK Framework, Teaching Self-Efficacy, Professional Identity, and AI Literacy
 - [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design
 - [[ai-teammate-task-distribution-medical-training-2026]] — AI as Teammate: Rethinking Task Distribution in Medical Training
 - [[ai-technologies]] — Technologies
@@ -216,6 +222,7 @@ Articles: 1206 | Concepts: 191 | FAQs: 18
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — Motivational Ergonomics in Gamified and Artificial Intelligence-Supported Learning: An ARCS Study with Implications for Workplace Training
 - [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
+- [[asr-english-speaking-feedback-metacognition-2026]] — ASR Technology in College English Speaking Instruction: The Role of Feedback Internalization and Metacognitive Strategies
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study
 - [[assessing-student-drive-framework-2025]] — Assessing students' DRIVE: A framework to evaluate learning through interactions with generative AI
 - [[assessment]] — Assessment
@@ -563,6 +570,7 @@ Articles: 1206 | Concepts: 191 | FAQs: 18
 - [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
 - [[genai-assessment-governance]] — Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment
+- [[genai-assessment-literacy-scale-2026]] — Generative AI Assessment Literacy Scale for Higher Education Students
 - [[genai-assisted-problem-posing-physics-2026]] — Exploring Students' Perceptions of Using Generative AI-Assisted Problem Posing
 - [[genai-availability-grades-satisfaction]] — Generative AI Availability, Grades, and Student Satisfaction at a Large University
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
@@ -573,6 +581,7 @@ Articles: 1206 | Concepts: 191 | FAQs: 18
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-Assisted Instruction
 - [[genai-decision-capability-cognitive-load-2026]] — Modelling Generative AI's Influence on Students' Perceived Decision Capability: A Cognitive Load and Decision Augmentation Approach
 - [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education
+- [[genai-didactic-pedagogical-mediator-2026]] — Generative AI as a Didactic-Pedagogical Mediator: Rethinking Human Roles and Pedagogical Design in Higher Education
 - [[genai-differentiated-eap-reading-materials-2026]] — From Unified to Differentiated Materials: Generative AI–Supported Adaptation of EAP Reading Materials
 - [[genai-educational-outcomes-meta-analysis]] — Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches
 - [[genai-expertise-pathways-sysadmin]] — Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
@@ -690,6 +699,7 @@ Articles: 1206 | Concepts: 191 | FAQs: 18
 - [[ikram-ai-personalized-learning-review-2026]] — Artificial Intelligence in Education: A Systematic Review of Personalized Learning Trends and Future Directions
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems
 - [[ilieva-agentic-genai-higher-education-2026]] — Agentic Generative AI in Higher Education: Perceived Benefits, Risks, and Implications for Learning
+- [[illusion-cognitive-independence-genai-literacy-2026]] — The Illusion of Cognitive Independence in the Age of Generative AI: Unpacking GenAI Literacy and Learner Profiles
 - [[inclusive-learning]] — Inclusive Learning
 - [[informal-learning-everyday-human-llm-interaction]] — Informal Learning Emerges in Everyday Human-LLM Interaction
 - [[inquiry-based-learning]] — Inquiry-Based Learning
@@ -1021,6 +1031,7 @@ Articles: 1206 | Concepts: 191 | FAQs: 18
 - [[pre-service-science-teachers-ai-perceptions-2026]] — Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
 - [[precision-education-student-digital-twins-2026]] — From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs
+- [[predictors-ethical-genai-use-higher-ed-2026]] — Predictors of the ethical use of generative AI in higher education
 - [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred Scaffolding Does Not Lead to Better Learning Performance: Empirical Evidence from AI-Supported Mathematical Modelling
 - [[preschool-teachers-ai-behavioral-intention-2026]] — Exploring Factors Influencing Preschool Teachers' Behavioral Intention to Use AI Technologies in Early Childhood Settings
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-Service Teachers' Agency During Their Interactions with Generative AI While Designing for Learning
@@ -1194,6 +1205,7 @@ Articles: 1206 | Concepts: 191 | FAQs: 18
 - [[stanford-evidence-base-ai-k12-2026]] — The Evidence Base on AI in K-12: A 2026 Review
 - [[stem-education]] — STEM Education
 - [[stenalt-good-education-teacher-ai-conceptions-2026]] — Understanding what good education is: a phenomenographic investigation of university teachers' understandings of AI
+- [[still-emerging-genai-use-higher-ed-2026]] — Still Emerging: Understanding Generative AI Use in Higher Education
 - [[storytelling-in-education]] — Storytelling in Education
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The Generative AI Learning Penalty: Evidence from Chinese Secondary Education
 - [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
