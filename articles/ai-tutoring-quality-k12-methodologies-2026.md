@@ -1,7 +1,7 @@
 ---
 title: "Methodologies for Improving the Quality of AI Tutoring in K-12 Education"
 created: "2026-08-13T09:28:20-04:00"
-updated: "2026-08-24T04:41:04-04:00"
+updated: "2026-09-16T03:20:00-04:00"
 type: article
 tags: [intelligent-tutoring, k-12, llm, personalized-learning, student-engagement, edtech-platform]
 research_method: [experiment]
@@ -76,6 +76,7 @@ For researchers and practitioners, this paper reframes AI tutoring quality as a 
 - [[oatutor-open-source-adaptive-tutor-2023]]
 - [[genai-tutor-engagement-patterns]]
 - [[measuring-llm-tutors-teach-vs-solve]]
+- [[topali-aied-k12-authentic-settings-review-2025]] — Systematic review of AI tools in authentic K-12 settings: methods, automation levels and reported effects (Topali et al. 2025)
 - [[correct-answer-trap-ai-tutor]]
 - [[from-answer-generators-to-reasoning-facilitators-ai-tutors]]
 - [[access-not-enough-ai-tutoring-2026]]
