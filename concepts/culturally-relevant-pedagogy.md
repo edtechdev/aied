@@ -1,7 +1,7 @@
 ---
 title: Culturally Relevant Pedagogy
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-16T15:41:27-04:00"
 type: concept
 tags: [equity-in-ai-education, curriculum-design, inclusive-learning, k-12, ai-literacy, higher-ed, generative-ai, llm, student-experience, intelligent-tutoring]
 audience: [learners]
@@ -10,7 +10,7 @@ category: [curriculum design]
 confidence: high
 ---
 
-Culturally Relevant Pedagogy (CRP), introduced by Gloria Ladson-Billings (1995), centers marginalized students' cultural references in [[curriculum-design|curriculum design]]. It rests on three pillars: **academic success** (rigorous standards that honor cultural identity), **cultural competence** (critical consciousness about culture and power), and **[[critical-pedagogy|sociopolitical consciousness]]** (empowering students to challenge inequitable systems). As AI tools enter classrooms, CRP has become a central lens for evaluating whether [[generative-ai|AI]] amplifies or erases non-dominant cultural knowledge.
+> **Culturally relevant pedagogy** — introduced by Gloria Ladson-Billings (1995), centers marginalized students' cultural references in [[curriculum-design|curriculum design]]. It rests on three pillars: **academic success** (rigorous standards that honor cultural identity), **cultural competence** (critical consciousness about culture and power), and **[[critical-pedagogy|sociopolitical consciousness]]** (empowering students to challenge inequitable systems). As AI tools enter classrooms, CRP has become a central lens for evaluating whether [[generative-ai|AI]] amplifies or erases non-dominant cultural knowledge.
 
 ## Questions to Consider
 

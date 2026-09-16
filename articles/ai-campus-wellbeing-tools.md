@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention"
 created: "2026-05-16T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [higher-ed, llm, generative-ai, student-experience, affective-computing, edtech-platform, administrator, ai-literacy]
 research_method: [system development]
@@ -12,16 +12,10 @@ confidence: medium
 
 ---
 
-## Synthesis
-
-This dissertation presents an integrated AI framework for campus [[well-being]] spanning prevention (improving feedback collection) and intervention (advancing mental health detection). It represents an important application of [[llm]] and [[generative-ai]] [[ai-technologies|technologies]] to [[student-experience]] that extends beyond academic learning to holistic student support in [[higher-ed]].
-
-On the prevention side, **TigerGPT** — a personalized survey [[conversational-ai|chatbot]] grounded in conversational design and [[student-engagement|engagement]] theory — achieved 75% [[usability-research|usability]] and 81% satisfaction, demonstrating that AI-mediated feedback collection can improve on traditional survey instruments. **AURA**, an adaptive follow-up question framework using [[reinforcement-learning|reinforcement learning]], dynamically selects question types (validate, specify, reflect, probe) to deepen responses, achieving a +0.12 mean quality gain (p=0.044, d=0.66).
-
-On the intervention side, **PsychoGPT** provides explainable mental health assessment built on DSM-5 and PHQ-8 guidelines — a [[affective-computing]] application that prioritizes [[medical-education|clinical]] grounding and [[explainable-ai|interpretability]] over black-box classification. The **Stacked Multi-Model Reasoning (SMMR)** architecture reduces [[hallucination-risk|hallucination risk]] by layering expert models: early layers handle localized subtasks while later layers reconcile findings, outperforming single-model solutions on the DAIC-WOZ [[benchmark]].
-
-The integrated framework — where adaptive survey insights flow into specialized mental health detection models — represents a novel [[edtech-platform]] architecture for campus well-being. For the [[administrator]] perspective, this work provides a concrete roadmap for universities seeking to deploy AI tools that monitor student satisfaction and detect mental health risks — areas where many institutions currently lack effective methods.
-
+> **Synthesis:** This dissertation presents an integrated AI framework for campus [[well-being]] spanning prevention (improving feedback collection) and intervention (advancing mental health detection). It represents an important application of [[llm]] and [[generative-ai]] [[ai-technologies|technologies]] to [[student-experience]] that extends beyond academic learning to holistic student support in [[higher-ed]].
+> On the prevention side, **TigerGPT** — a personalized survey [[conversational-ai|chatbot]] grounded in conversational design and [[student-engagement|engagement]] theory — achieved 75% [[usability-research|usability]] and 81% satisfaction, demonstrating that AI-mediated feedback collection can improve on traditional survey instruments. **AURA**, an adaptive follow-up question framework using [[reinforcement-learning|reinforcement learning]], dynamically selects question types (validate, specify, reflect, probe) to deepen responses, achieving a +0.12 mean quality gain (p=0.044, d=0.66).
+> On the intervention side, **PsychoGPT** provides explainable mental health assessment built on DSM-5 and PHQ-8 guidelines — a [[affective-computing]] application that prioritizes [[medical-education|clinical]] grounding and [[explainable-ai|interpretability]] over black-box classification. The **Stacked Multi-Model Reasoning (SMMR)** architecture reduces [[hallucination-risk|hallucination risk]] by layering expert models: early layers handle localized subtasks while later layers reconcile findings, outperforming single-model solutions on the DAIC-WOZ [[benchmark]].
+> The integrated framework — where adaptive survey insights flow into specialized mental health detection models — represents a novel [[edtech-platform]] architecture for campus well-being. For the [[administrator]] perspective, this work provides a concrete roadmap for universities seeking to deploy AI tools that monitor student satisfaction and detect mental health risks — areas where many institutions currently lack effective methods.
 ## Connected Concepts
 
 - [[llm]]

@@ -1,7 +1,7 @@
 ---
 title: "Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach"
 created: "2026-07-30T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, formative-assessment, adaptive-learning, student-experience, benchmark, higher-ed, knowledge-tracing, personalized-learning, ai-literacy]
 research_method: [benchmark]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.26317.md']
 confidence: high
 ---
 
-Proposes [[cognitive-diagnosis|Cognitive Diagnostic]] Profiling (CDP), a zero-shot framework that dramatically improves [[llm]]-simulated examinee alignment with human test-takers. With CDP, IRT difficulty Spearman correlations rose from 0.24 to 0.90, and RMSE fell from 6.31 to 0.90. Makes LLM-simulated examinees practical for operational test development.
+> **Synthesis:** Proposes [[cognitive-diagnosis|Cognitive Diagnostic]] Profiling (CDP), a zero-shot framework that dramatically improves [[llm]]-simulated examinee alignment with human test-takers. With CDP, IRT difficulty Spearman correlations rose from 0.24 to 0.90, and RMSE fell from 6.31 to 0.90. Makes LLM-simulated examinees practical for operational test development.
 
 **Relevance to [[ai-education|AI in Education]]:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
 

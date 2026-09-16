@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Critical and Creative Thinking: Systematic Review"
 created: "2026-05-16T04:33:04-04:00"
-updated: "2026-08-26T15:34:14-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, generative-ai, cognitive-offloading, critical-thinking, higher-ed, learning-design, metacognition, scaffolding]
 audience: [instructors, researchers]
@@ -12,9 +12,7 @@ sources: ['raw/papers/chatgpt-critical-creative-thinking-review.md']
 confidence: high
 ---
 
-> Li, Cui & Hagedorn (2026) PRISMA-review **67 empirical studies (2022–2025)** on ChatGPT and university students' [[critical-thinking|critical]] and [[creativity|creative thinking]]: effects are contingent on **[[pedagogy|pedagogical]] framing**, not the tool itself ([[generative-ai]]).
-
-Li, Cui, and Hagedorn (2026) conducted a PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of **67 empirical studies** (2022–2025) examining how ChatGPT influences university students' critical and creative thinking. Using a dual-lens framework — convergent (critical thinking) and divergent (creative thinking) processes — the review reveals that ChatGPT's cognitive effects are fundamentally contingent on **pedagogical framing**, not the tool itself.
+> **Synthesis:** Li, Cui, and Hagedorn (2026) conducted a PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of **67 empirical studies** (2022–2025) examining how ChatGPT influences university students' critical and creative thinking. Using a dual-lens framework — convergent (critical thinking) and divergent (creative thinking) processes — the review reveals that ChatGPT's cognitive effects are fundamentally contingent on **pedagogical framing**, not the tool itself.
 
 ## Theoretical Framework
 

@@ -1,7 +1,7 @@
 ---
 title: When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, learning-theories, cognitive-offloading, student-experience, ai-literacy]
 research_method: [theoretical analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.28041.md']
 confidence: high
 ---
 
-Argues that as AI systems become capable of producing the artifacts through which institutions recognize competence, existing ethical frameworks centered on AI failures become insufficient. Develops the concept of "post-instrumental learning" and warns that each technical improvement appears to weaken the case for human learning itself, risking "capacity dissolution."
+> **Synthesis:** Argues that as AI systems become capable of producing the artifacts through which institutions recognize competence, existing ethical frameworks centered on AI failures become insufficient. Develops the concept of "post-instrumental learning" and warns that each technical improvement appears to weaken the case for human learning itself, risking "capacity dissolution."
 
 ## Key Findings
 

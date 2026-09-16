@@ -1,7 +1,7 @@
 ---
 title: Co-Creating Buildable and Open Social Robot Study Companions with University Students
 created: "2026-06-17T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:50:31-04:00"
 type: article
 tags: [k-12, higher-ed, intelligent-tutoring, student-experience, stem-education, human-ai-collaboration]
 research_method: [system development, user study]
@@ -12,11 +12,10 @@ sources: ['raw/papers/2606.15239.md']
 confidence: high
 ---
 
-> **Farnaz Baksh, Matevz B. Zorec, Feiazie Baksh, Karl Kruusamae** (2026). ICSR + ART 2026, London
+> **Synthesis:** Design for Assembly (DfA) and Design for Disassembly (DfD) interventions reshape how a build feels before they shorten how long it takes.
 
 ## Key Findings
 
-- Design for Assembly (DfA) and Design for Disassembly (DfD) interventions reshape how a build feels before they shorten how long it takes.
 - Across two studies with developers and first-time builders, system [[usability-research|usability]] climbed from Poor to Excellent (SUS 59.4 → 89.4).
 - Perceived workload trended downward (NASA-TLX 4.29 → 4.00), and mean assembly time trended downward (21.4 → 13.7 minutes, with a learning effect among junior builders).
 - Perceived workload, not completion time, appears to govern whether students take up open hardware.

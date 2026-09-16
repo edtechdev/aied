@@ -1,7 +1,7 @@
 ---
 title: Understanding Student Effort Using Response-Time Propensities During Problem Solving
 created: "2026-05-12T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [adaptive-learning, assessment, student-engagement, learning-analytics, student-experience, computational-thinking]
 research_method: [benchmark]
@@ -11,12 +11,8 @@ sources: ['raw/papers/2605.08943.md']
 confidence: high
 ---
 
-## Key Findings
-
-Adaptive learning systems produce substantial [[learning-gains|learning gains]], yet many students engage too briefly or superficially to benefit. This paper addresses the central challenge of **measuring student effort** during multi-step [[problem-solving|problem solving]] using response-time propensities.
-
-The authors develop models that infer student effort from response-time patterns, finding that common log-based proxies like time-on-task are insufficient. They propose response-time propensity modeling as a more nuanced approach to identifying when students are superficially engaging versus deeply working through problems.
-
+> **Synthesis:** Adaptive learning systems produce substantial [[learning-gains|learning gains]], yet many students engage too briefly or superficially to benefit. This paper addresses the central challenge of **measuring student effort** during multi-step [[problem-solving|problem solving]] using response-time propensities.
+> The authors develop models that infer student effort from response-time patterns, finding that common log-based proxies like time-on-task are insufficient. They propose response-time propensity modeling as a more nuanced approach to identifying when students are superficially engaging versus deeply working through problems.
 ## Connections to AIED
 
 This work directly connects to [[learning-analytics]] by providing a validated method for inferring effort from interaction logs. It has implications for [[adaptive-learning]] that could use early effort detection to intervene before students disengage.

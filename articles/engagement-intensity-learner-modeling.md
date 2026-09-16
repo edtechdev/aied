@@ -1,7 +1,7 @@
 ---
 title: Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
 created: "2026-06-18T04:33:04-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [personalized-learning, adaptive-learning, ai-literacy, higher-ed, student-engagement, student-experience, ethics, llm]
 research_method: [survey, learning analytics]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2606.18548.md']
 confidence: medium
 ---
 
-> [[student-engagement|Engagement]] intensity during AI [[ethics]] instruction serves as an effective learner-modeling signal for [[student-modeling|adaptive instruction]]; prior [[llm]] experience influences engagement patterns.
+> **Synthesis:** [[student-engagement|Engagement]] intensity during AI [[ethics]] instruction serves as an effective learner-modeling signal for [[student-modeling|adaptive instruction]]; prior [[llm]] experience influences engagement patterns.
 
 ## Synthesis
 

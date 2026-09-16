@@ -1,7 +1,7 @@
 ---
 title: "Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education"
 created: "2026-06-12T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, educational-policy-ai, regulation, academic-integrity, ai-literacy]
 research_method: [randomized controlled trial]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.12436.md']
 confidence: high
 ---
 
-Bischof et al. investigate how students' awareness of [[generative-ai]] regulations relates to their perceived compliance and actual usage behavior in [[higher-ed]]. While previous [[research-methods-aied|research]] mainly examines adoption rates and attitudes, students' awareness of [[governance|institutional]] regulations and their perceived compliance have remained unexplored — an important gap as institutions create and apply [[educational-policy-ai|AI policies]].
+> **Synthesis:** Bischof et al. investigate how students' awareness of [[generative-ai]] regulations relates to their perceived compliance and actual usage behavior in [[higher-ed]]. While previous [[research-methods-aied|research]] mainly examines adoption rates and attitudes, students' awareness of [[governance|institutional]] regulations and their perceived compliance have remained unexplored — an important gap as institutions create and apply [[educational-policy-ai|AI policies]].
 
 The study surveyed 151 undergraduate students in Business Information Systems and E-Government programs at Hochschule Hannover (Germany). Key findings:
 

@@ -1,7 +1,7 @@
 ---
 title: "Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [automated-assessment, formative-assessment, llm, benchmark, human-in-the-loop-ai, assessment-validity, open-source]
 research_method: [benchmark, experiment]
@@ -10,12 +10,7 @@ sources: ['raw/papers/2605.07647.md']
 confidence: medium
 ---
 
-> Schleifer, Ariely & Klebanov (2026) investigate a critical gap in [[automated-assessment|Automated Grading]]: **how scoring quality degrades for mid-range student responses**. Most ASAS evaluations focus on clearly correct or incorrect answers, but real classrooms are dominated by partially correct responses where scoring is most challenging.
-
-## Core Contribution
-
-Schleifer, Ariely & Klebanov (2026) investigate a critical gap in [[automated-assessment|Automated Grading]]: **how scoring quality degrades for mid-range student responses**. Most ASAS evaluations focus on clearly correct or incorrect answers, but real classrooms are dominated by partially correct responses where scoring is most challenging.
-
+> **Synthesis:** Schleifer, Ariely & Klebanov (2026) investigate a critical gap in [[automated-assessment|Automated Grading]]: **how scoring quality degrades for mid-range student responses**. Most ASAS evaluations focus on clearly correct or incorrect answers, but real classrooms are dominated by partially correct responses where scoring is most challenging.
 ## Key Findings
 
 The paper reveals that automated short answer scoring (ASAS) systems show significant **quality degradation in the mid-range** — exactly where teacher judgment is most needed. This connects directly to [[cong-confidence-asag-2026]] [[research-methods-aied|research]] on confidence-aware [[llm]] grading with epistemic uncertainty quantification. The finding that task-specific adaptation can mitigate this degradation provides a practical path forward.

@@ -1,7 +1,7 @@
 ---
 title: "Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education"
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-16T15:48:59-04:00"
 type: article
 tags: [benchmark, learning-analytics, generative-ai, llm, automated-assessment, human-in-the-loop-ai, ai-literacy]
 audience: [researchers]
@@ -10,9 +10,10 @@ sources: ['raw/papers/2603.29141.md']
 confidence: high
 ---
 
+> **Synthesis:** The [[ai-education|AIED]] community over-relies on **inter-rater reliability (IRR)** — typically a single Cohen's κ coefficient — as a mechanical gatekeeper for "ground truth." This practice is insufficient and potentially misleading for the complex, noisy realities of educational data. The authors propose **four practical shifts** to strengthen the [[assessment-validity|validity]] and reliability of the evidence base of labeled AIED datasets.
+
 ## Core Argument
 
-The [[ai-education|AIED]] community over-relies on **inter-rater reliability (IRR)** — typically a single Cohen's κ coefficient — as a mechanical gatekeeper for "ground truth." This practice is insufficient and potentially misleading for the complex, noisy realities of educational data. The authors propose **four practical shifts** to strengthen the [[assessment-validity|validity]] and reliability of the evidence base of labeled AIED datasets.
 
 ## The Problem
 

@@ -1,7 +1,7 @@
 ---
 title: A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
 created: "2026-07-09T04:33:04-04:00"
-updated: "2026-09-08T01:40:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [k-12, teacher-role, ai-literacy, generative-ai, educational-development, active-learning, llm]
 research_method: [design-based research]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.05406.md']
 confidence: high
 ---
 
-Large language models generate code from natural language prompts, enabling vibe coding, which allows non-programmers to develop computational solutions. Vibe coding for teachers amplifies the teachers-as-designers paradigm, improving technology integration while fostering AI literacy. However, structured guidance on supporting this process is lacking. We propose GAIDE (A Guiding Framework for AI-Integrated Design for Educators), a framework that supports K-12 teachers in creating AI-powered learning [[ai-technologies|technologies]] through vibe coding. The initial framework, built on [[design-thinking|Design Thinking]] and INTERACT, was validated through a CORDTRA interaction analysis of three teachers and four faculty mentors in an eight-week workshop to derive the final framework. Additionally, the [[qualitative-research|qualitative]] analysis of pre- and post-interviews found an enhancement of teachers' AI literacy. Findings highlight the potential of learning-by-creating for professional development.
+> **Synthesis:** Large language models generate code from natural language prompts, enabling vibe coding, which allows non-programmers to develop computational solutions. Vibe coding for teachers amplifies the teachers-as-designers paradigm, improving technology integration while fostering AI literacy. However, structured guidance on supporting this process is lacking. We propose GAIDE (A Guiding Framework for AI-Integrated Design for Educators), a framework that supports K-12 teachers in creating AI-powered learning [[ai-technologies|technologies]] through vibe coding. The initial framework, built on [[design-thinking|Design Thinking]] and INTERACT, was validated through a CORDTRA interaction analysis of three teachers and four faculty mentors in an eight-week workshop to derive the final framework. Additionally, the [[qualitative-research|qualitative]] analysis of pre- and post-interviews found an enhancement of teachers' AI literacy. Findings highlight the potential of learning-by-creating for professional development.
 
 GAIDE, a Design-Thinking-based framework, supports K-12 teachers (non-programmers) in building AI-powered learning tools via vibe coding; an eight-week workshop raised participating teachers' AI literacy, showing learning-by-creating as a professional-development model.
 

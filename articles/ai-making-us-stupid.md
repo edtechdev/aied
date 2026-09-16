@@ -1,7 +1,7 @@
 ---
 title: Is AI making us stupid?
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [cognitive-offloading, generative-ai, metacognition, learning-gains, ai-literacy, self-regulated-learning, rag, higher-ed]
 audience: [instructors]
@@ -12,10 +12,7 @@ sources: ['raw/papers/cell-2026-ai-making-us-stupid.md']
 confidence: high
 ---
 
-## Summary
-
-A 3-page **perspective** (opinion/review, not an empirical study) addressing whether AI use erodes human cognition. The authors' answer: **not inherently — but the risk is real and follows the [[cognitive-psychology]] principle of *cognitive offloading*.** When people delegate reasoning, writing, memory, or [[problem-solving]] to AI, they forgo the mental practice that builds and maintains those capacities. The threat is **use-dependent**, not intrinsic to the technology: AI that *augments* thinking preserves the underlying processes; AI that *replaces* them outsources exactly the practice that builds expertise.
-
+> **Synthesis:** A 3-page **perspective** (opinion/review, not an empirical study) addressing whether AI use erodes human cognition. The authors' answer: **not inherently — but the risk is real and follows the [[cognitive-psychology]] principle of *cognitive offloading*.** When people delegate reasoning, writing, memory, or [[problem-solving]] to AI, they forgo the mental practice that builds and maintains those capacities. The threat is **use-dependent**, not intrinsic to the technology: AI that *augments* thinking preserves the underlying processes; AI that *replaces* them outsources exactly the practice that builds expertise.
 ## Core distinction: skills vs. basic cognitive abilities
 
 The article's organizing framework separates two facets of our cognitive systems:

@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations"
 created: "2026-07-03T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, formative-assessment, learning-analytics, higher-ed, llm, automated-assessment, scaffolding, ai-literacy, k-12]
 audience: [instructors, researchers, software developers]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.31012.md']
 confidence: high
 ---
 
-While [[llm]]s now enable rapid generation of learning materials like [[generative-ai]], evaluating the [[pedagogy|pedagogical]] quality of these materials remains an open challenge. This paper proposes an [[automated-assessment|automated assessment]] framework for evaluating interactivity in AI-generated explorable explanations — dynamic, learner-driven content that students can manipulate to discover concepts. The framework addresses the gap between content generation speed and quality assurance, providing metrics for [[formative-assessment]] of learning designs. This connects to [[learning-analytics]] approaches for understanding how students engage with AI-produced educational content in [[higher-ed]] settings.
+> **Synthesis:** While [[llm]]s now enable rapid generation of learning materials like [[generative-ai]], evaluating the [[pedagogy|pedagogical]] quality of these materials remains an open challenge. This paper proposes an [[automated-assessment|automated assessment]] framework for evaluating interactivity in AI-generated explorable explanations — dynamic, learner-driven content that students can manipulate to discover concepts. The framework addresses the gap between content generation speed and quality assurance, providing metrics for [[formative-assessment]] of learning designs. This connects to [[learning-analytics]] approaches for understanding how students engage with AI-produced educational content in [[higher-ed]] settings.
 
 ## Key Findings
 

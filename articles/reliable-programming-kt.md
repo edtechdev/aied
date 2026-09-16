@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols"
 created: "2026-05-13T04:33:04-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [knowledge-tracing, automated-assessment, benchmark, learning-analytics]
 audience: [software developers]
@@ -10,10 +10,7 @@ sources: ['raw/papers/2605.04727.md']
 confidence: medium
 ---
 
-## Synthesis
-
-> This ITS 2026 study re-evaluates attention-augmented Programming Knowledge Tracing (PKT) models on the CodeWorkout dataset and argues that many reported performance gains are artifacts of flawed experimental protocols rather than genuine architectural superiority. The authors identify three systemic biases in prior work — a causally invalid Softmax dimension in attention-based code representation, temporal causality violations from ignoring ServerTimestamp during sequence construction, and hyperparameter leakage across cross-validation folds — and show that once these are rectified, the performance gap between attention-enhanced models and the standard DKT baseline narrows dramatically, with architectural complexity failing to translate consistently into better prediction.
-
+> **Synthesis:** > This ITS 2026 study re-evaluates attention-augmented Programming Knowledge Tracing (PKT) models on the CodeWorkout dataset and argues that many reported performance gains are artifacts of flawed experimental protocols rather than genuine architectural superiority. The authors identify three systemic biases in prior work — a causally invalid Softmax dimension in attention-based code representation, temporal causality violations from ignoring ServerTimestamp during sequence construction, and hyperparameter leakage across cross-validation folds — and show that once these are rectified, the performance gap between attention-enhanced models and the standard DKT baseline narrows dramatically, with architectural complexity failing to translate consistently into better prediction.
 ## Key Findings
 
 1. Attention-augmented PKT models (Code-DKT, ECKT) report gains over DKT largely because of causal flaws in their evaluation: the Softmax in attention-based code representation normalizes across the time dimension (dim=1) rather than the path dimension (dim=2), introducing look-ahead leakage.

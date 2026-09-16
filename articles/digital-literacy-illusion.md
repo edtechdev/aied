@@ -1,7 +1,7 @@
 ---
 title: "The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students"
 created: "2026-05-26T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [k-12, ai-literacy, student-experience, equity-in-ai-education]
 research_method: [experiment]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.26010.md']
 confidence: high
 ---
 
-This multicenter study (N=243 European secondary students) systematically challenges the 'Digital Native' paradigm by demonstrating a severe confidence-competence gap in digital and AI literacy. Students report near-maximum [[self-efficacy]] in passive digital consumption (browsing, social media) but exhibit a sharp decline when evaluated on active technological creation and algorithmic logic — a collective Dunning-Kruger effect.
+> **Synthesis:** This multicenter study (N=243 European secondary students) systematically challenges the 'Digital Native' paradigm by demonstrating a severe confidence-competence gap in digital and AI literacy. Students report near-maximum [[self-efficacy]] in passive digital consumption (browsing, social media) but exhibit a sharp decline when evaluated on active technological creation and algorithmic logic — a collective Dunning-Kruger effect.
 
 ## The AI Paradox
 A particularly striking finding is the 'AI Paradox': students significantly [[cognitive-offloading|overestimate]] their critical awareness of deepfakes and algorithmic biases compared to their operational AI skills. This creates a false sense of invulnerability against modern misinformation — students believe they can detect fakes but lack the practical skills to do so. This directly connects to emerging [[research-methods-aied|research]] on [[cognitive-offloading-speedup-illusion|cognitive offloading and AI-induced miscalibration]].

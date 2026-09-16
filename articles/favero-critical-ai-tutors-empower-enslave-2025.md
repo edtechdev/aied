@@ -1,7 +1,7 @@
 ---
 title: "Critical AI Tutors: Empower or Enslave?"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-26T15:33:47-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, critical-thinking, cognitive-offloading, student-experience, regulation]
 research_method: [theoretical analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md']
 confidence: medium
 ---
 
-> **Critical AI Tutors: Empower or Enslave?** — A position paper presented at the [[ai-education|AIED]] 2025 workshop that issues a stark warning: unchecked use of AI tutors risks creating a generation of cognitively atrophied learners who have traded genuine understanding for the illusion of competence. Drawing on cognitive science and [[pedagogy|pedagogical]] theory, the authors argue that AI tutors without intentional [[guardrails]] lead to cognitive atrophy, loss of agency, emotional risks, and serious [[ethics|ethical]] concerns around privacy and academic integrity. The paper advocates for critically informed, transparent AI use that empowers rather than diminishes the learner, and calls for student perspectives to be centered in the design and deployment of AI tutoring systems.
+> **Synthesis:** **Critical AI Tutors: Empower or Enslave?** — A position paper presented at the [[ai-education|AIED]] 2025 workshop that issues a stark warning: unchecked use of AI tutors risks creating a generation of cognitively atrophied learners who have traded genuine understanding for the illusion of competence. Drawing on cognitive science and [[pedagogy|pedagogical]] theory, the authors argue that AI tutors without intentional [[guardrails]] lead to cognitive atrophy, loss of agency, emotional risks, and serious [[ethics|ethical]] concerns around privacy and academic integrity. The paper advocates for critically informed, transparent AI use that empowers rather than diminishes the learner, and calls for student perspectives to be centered in the design and deployment of AI tutoring systems.
 
 ## Key Findings
 

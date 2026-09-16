@@ -1,7 +1,7 @@
 ---
 title: "Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study"
 created: "2026-05-27T07:38:00-04:00"
-updated: "2026-08-24T17:45:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, generative-ai, higher-ed, agentic-ai, educational-development, learning-analytics, student-experience, intelligent-tutoring, ai-literacy, scaffolding]
 research_method: [case study]
@@ -10,10 +10,7 @@ level: [higher ed]
 confidence: high
 sources: []
 ---
-## Overview
-
-This is the first empirical study of what happens when AI agents are embedded **persistently** in a real academic research environment — with durable memory, local files, external tools, scheduled routines, delegated roles, and explicit safety protocols. Over 96 active days (January 31 to May 25, 2026), the [[research-methods-aied|researcher]]-agent ecosystem generated 75,671 de-duplicated telemetry records, 23,710 assistant messages, and 73.95 million tokens (82.9% cache reads). The study introduces **PARE-M** (Persistent Agentic Research Environment Measurement), a framework covering architecture, utilization, artifact production, resource use, reproducibility, and governance.
-
+> **Synthesis:** This is the first empirical study of what happens when AI agents are embedded **persistently** in a real academic research environment — with durable memory, local files, external tools, scheduled routines, delegated roles, and explicit safety protocols. Over 96 active days (January 31 to May 25, 2026), the [[research-methods-aied|researcher]]-agent ecosystem generated 75,671 de-duplicated telemetry records, 23,710 assistant messages, and 73.95 million tokens (82.9% cache reads). The study introduces **PARE-M** (Persistent Agentic Research Environment Measurement), a framework covering architecture, utilization, artifact production, resource use, reproducibility, and governance.
 ## Key Findings
 
 The workflow was overwhelmingly **cache-dominant** (82.9% cache reads), suggesting that persistent agentic environments shift the economic unit from **cost per token** to **cost per completed artifact**. With 17 configured agents, 502 memory-related files, and 57 skill files, the ecosystem resembles the [[agentic-ai]] vision but at the individual-investigator scale.

@@ -1,7 +1,7 @@
 ---
 title: "Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study"
 created: "2026-05-15T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [k-12, ai-literacy, stem-education, scaffolding, personalized-learning, computational-thinking, metacognition, ai-education]
 audience: [learners, instructors]
@@ -12,13 +12,7 @@ sources: ['raw/papers/2605.14330.md']
 confidence: high
 ---
 
-> Computational Thinking Development in [[agentic-ai|AI Agent]] Creation: A [[mixed-methods-research|Mixed-Methods]] Study **Sun et al. (2026)** — Multiple institutions. arXiv cs.CY.
-
-Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study
-
-## Summary
-
-This mixed-methods study examines how **93 pre-high school students** develop [[computational-thinking]] skills through a five-day AI agent creation workshop using CocoFlow, a no-code platform. The study integrates pre-post assessments, behavioral logs, and interviews to trace learning trajectories.
+> **Synthesis:** This mixed-methods study examines how **93 pre-high school students** develop [[computational-thinking]] skills through a five-day AI agent creation workshop using CocoFlow, a no-code platform. The study integrates pre-post assessments, behavioral logs, and interviews to trace learning trajectories.
 
 **Key [[quantitative-research|quantitative]] findings:**
 - **Abstract thinking:** significant improvement (d = 0.71)

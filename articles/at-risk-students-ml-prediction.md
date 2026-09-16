@@ -1,7 +1,7 @@
 ---
 title: Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms
 created: "2026-06-23T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [learning-analytics, higher-ed, student-modeling, rct, llm, machine-learning]
 research_method: [randomized controlled trial]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2606.20617.md']
 confidence: medium
 ---
 
-Gheisari and Salarian (2026) apply supervised [[reinforcement-learning|machine learning]] classification to identify at-risk students before they withdraw from higher education programs. The study evaluates Logistic Regression, Random Forest, Support Vector Machines (SVM), and K-Nearest Neighbors (KNN) using [[learning-gains|academic performance]], demographic data, and enrollment records. Logistic Regression and linear SVM achieved the highest predictive accuracy, demonstrating ML's capability to detect at-risk students for proactive intervention. This [[learning-analytics]] [[research-methods-aied|research]] contributes to [[student-modeling]] for dropout-reduction in [[higher-ed]] contexts, providing a data-driven foundation for strategic retention decisions and connecting to the broader [[ai-adoption-training-public-sector]] discussion on AI-supported institutional decision-making.
+> **Synthesis:** Gheisari and Salarian (2026) apply supervised [[reinforcement-learning|machine learning]] classification to identify at-risk students before they withdraw from higher education programs. The study evaluates Logistic Regression, Random Forest, Support Vector Machines (SVM), and K-Nearest Neighbors (KNN) using [[learning-gains|academic performance]], demographic data, and enrollment records. Logistic Regression and linear SVM achieved the highest predictive accuracy, demonstrating ML's capability to detect at-risk students for proactive intervention. This [[learning-analytics]] [[research-methods-aied|research]] contributes to [[student-modeling]] for dropout-reduction in [[higher-ed]] contexts, providing a data-driven foundation for strategic retention decisions and connecting to the broader [[ai-adoption-training-public-sector]] discussion on AI-supported institutional decision-making.
 
 ## Key Findings
 

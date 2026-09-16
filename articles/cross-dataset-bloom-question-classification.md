@@ -1,7 +1,7 @@
 ---
 title: "Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs"
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [automated-assessment, llm, formative-assessment, higher-ed, teacher-role, learning-analytics, student-experience, k-12]
 research_method: [benchmark]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.13684.md']
 confidence: high
 ---
 
-Evaluates cross-dataset generalization of ML/DL methods and LLMs for automatic Bloom's taxonomy classification of assessment questions across five datasets. Supervised ML/DL models degraded substantially on unseen datasets, while LLMs with tailored prompting (in-context examples + course-specific action verbs) showed stable performance. A lightweight UI was developed for instructors to classify large question banks, with [[usability-research|usability]] study indicating low workload and high usability.
+> **Synthesis:** Evaluates cross-dataset generalization of ML/DL methods and LLMs for automatic Bloom's taxonomy classification of assessment questions across five datasets. Supervised ML/DL models degraded substantially on unseen datasets, while LLMs with tailored prompting (in-context examples + course-specific action verbs) showed stable performance. A lightweight UI was developed for instructors to classify large question banks, with [[usability-research|usability]] study indicating low workload and high usability.
 
 - LLMs with tailored prompting generalize better than supervised models for cross-dataset Bloom's taxonomy classification of assessment questions.
 

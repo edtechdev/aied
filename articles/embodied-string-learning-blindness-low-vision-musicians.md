@@ -1,7 +1,7 @@
 ---
 title: "Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision"
 created: "2026-07-22T04:33:04-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [special-education, equity-in-ai-education, professional-training, higher-ed]
 research_method: [qualitative, design-based research]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2607.18598.md']
 confidence: high
 ---
 
-Bowed string performance depends on fine bodily coordination usually taught through visual demonstration, creating persistent barriers for musicians with blindness and low-vision (BLV). This design study worked with four advanced BLV string musicians and three instructors using practice-video analysis, lesson observation, and expert reflection to surface embodied, non-visual learning strategies.
+> **Synthesis:** Bowed string performance depends on fine bodily coordination usually taught through visual demonstration, creating persistent barriers for musicians with blindness and low-vision (BLV). This design study worked with four advanced BLV string musicians and three instructors using practice-video analysis, lesson observation, and expert reflection to surface embodied, non-visual learning strategies.
 
 The work extends [[special-education]] and special-education-ai by centring disability-led, embodied design rather than retrofitted [[accessibility]]. It complements [[inclusive-learning]] and [[neurodivergent-computing-students]] [[research-methods-aied|research]] on inclusive interfaces, and frames the instructor role through [[equity-in-ai-education]] in one-on-one music training, with implications for [[higher-ed]] and pre-professional contexts where tactile and kinesthetic cues must substitute for demonstration.
 

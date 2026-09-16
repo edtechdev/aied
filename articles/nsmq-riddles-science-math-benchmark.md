@@ -1,7 +1,7 @@
 ---
 title: "NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [benchmark, stem-education, k-12, llm, pedagogical-llm-training, automated-question-generation, ai-education]
 audience: [software developers]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2605.07051.md']
 confidence: medium
 ---
 
-> Boateng et al. (2026) introduce **NSMQ Riddles**, a benchmark of 1.8K scientific and mathematical riddles drawn from 11 years of Ghana's **National Science and Maths Quiz** — a live TV competition for senior [[k-12|secondary school]] students. This is one of the first AI [[benchmark|benchmarks]] originating from the **[[global-south|Global South]]** for educational evaluation.
+> **Synthesis:** Boateng et al. (2026) introduce **NSMQ Riddles**, a benchmark of 1.8K scientific and mathematical riddles drawn from 11 years of Ghana's **National Science and Maths Quiz** — a live TV competition for senior [[k-12|secondary school]] students. This is one of the first AI [[benchmark|benchmarks]] originating from the **[[global-south|Global South]]** for educational evaluation.
 
 ## Core Contribution
 

@@ -1,7 +1,7 @@
 ---
 title: "AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation"
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [personalized-learning, scaffolding, k-12, higher-ed, hallucination-risk, equity-in-ai-education, learning-analytics, student-experience, llm]
 research_method: [theoretical analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.16822.md']
 confidence: high
 ---
 
-Argues that epistemic vigilance — the human [[ai-ed-evaluation|evaluation of AI]] output calibrated to how far a fallible source can be trusted — is the binding constraint on productive augmentation. AI's fluent, confident prose reads as trustworthy whether or not it is, making evaluation harder. Vigilance sets how deeply a claim is processed and is thus the precondition for learning with AI. Design factors (prompts, feedback, scaffolding) matter only through whether they engage the learner's evaluation. Because vigilance is unevenly distributed, uniform AI integration risks widening achievement gaps.
+> **Synthesis:** Argues that epistemic vigilance — the human [[ai-ed-evaluation|evaluation of AI]] output calibrated to how far a fallible source can be trusted — is the binding constraint on productive augmentation. AI's fluent, confident prose reads as trustworthy whether or not it is, making evaluation harder. Vigilance sets how deeply a claim is processed and is thus the precondition for learning with AI. Design factors (prompts, feedback, scaffolding) matter only through whether they engage the learner's evaluation. Because vigilance is unevenly distributed, uniform AI integration risks widening achievement gaps.
 
 ## Key Findings
 

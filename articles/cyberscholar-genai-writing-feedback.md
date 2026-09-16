@@ -1,7 +1,7 @@
 ---
 title: "Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar"
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T15:50:31-04:00"
 type: article
 tags: [generative-ai, llm, writing-education, k-12, formative-assessment, feedback, teacher-role, human-in-the-loop-ai, rag]
 research_method: [mixed methods, system development]
@@ -13,8 +13,9 @@ sources: ['raw/papers/2605.17055.md']
 confidence: high
 ---
 
+> **Synthesis:** Across five U.S. middle and high schools (N=143 students, grades 7–11), rubric-grounded RAG feedback from CyberScholar supported students' writing revision, with most students reporting improvements in organization, elaboration, and style.
+
 ## Key Findings
-1. Across five U.S. middle and high schools (N=143 students, grades 7–11), rubric-grounded RAG feedback from CyberScholar supported students' writing revision, with most students reporting improvements in organization, elaboration, and style.
 2. Students valued the detailed, criterion-specific feedback and the tool's interactive, iterative qualities, which fostered revision and reduced reliance on teacher feedback.
 3. Automated star ratings were inconsistent — some students at one site received different scores for the same unchanged submission — and occasionally misaligned with assignment expectations, underscoring the need for human oversight.
 4. Teachers reported that the tool saved time on feedback and supported more targeted, higher-order instructional practices, while some worried that overly specific suggestions could limit students' critical thinking.

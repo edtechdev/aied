@@ -1,7 +1,7 @@
 ---
 title: How AI Is Changing Teaching Workflows
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-08-26T15:33:47-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, teacher-role, educational-development, rct, k-12, higher-ed, student-experience, equity-in-ai-education, ai-literacy]
 research_method: [experiment, randomized controlled trial]
@@ -11,10 +11,7 @@ sources: ['raw/papers/ai-changing-teaching-workflows-2026-05-21.md']
 confidence: high
 ---
 
-## Core Thesis
-
-AI saves teachers roughly 30% of lesson preparation time with no measurable quality loss — but whether that *reduces burnout* depends entirely on where the freed-up time goes. The key mechanism is **reallocation, not reduction**: teachers redirect saved hours toward higher-value instructional activities rather than simply pocketing time. This article synthesizes evidence from multiple controlled trials, large-scale conversation analysis, and [[qualitative-research|qualitative]] teacher studies to map the current state of AI in teaching workflows.
-
+> **Synthesis:** AI saves teachers roughly 30% of lesson preparation time with no measurable quality loss — but whether that *reduces burnout* depends entirely on where the freed-up time goes. The key mechanism is **reallocation, not reduction**: teachers redirect saved hours toward higher-value instructional activities rather than simply pocketing time. This article synthesizes evidence from multiple controlled trials, large-scale conversation analysis, and [[qualitative-research|qualitative]] teacher studies to map the current state of AI in teaching workflows.
 ## The Evidence Base
 
 ### EEF Randomized Trial (England)

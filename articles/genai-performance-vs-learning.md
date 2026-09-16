@@ -1,7 +1,7 @@
 ---
 title: Distinguishing performance gains from learning when using generative AI
 created: "2026-05-14T04:33:04-04:00"
-updated: "2026-08-25T08:00:00-04:00"
+updated: "2026-09-16T15:48:59-04:00"
 type: article
 tags: [generative-ai, metacognition, cognitive-offloading, higher-ed, scaffolding, self-regulated-learning, rag, llm]
 research_method: [theoretical analysis]
@@ -11,9 +11,10 @@ sources: ['raw/papers/2605.13731.md']
 confidence: high
 ---
 
+> **Synthesis:** This *Nature Reviews Psychology* piece draws a critical distinction that has been under-theorized in [[ai-education|AIED]] [[research-methods-aied|research]]:
+
 ## Core Argument
 
-This *Nature Reviews Psychology* piece draws a critical distinction that has been under-theorized in [[ai-education|AIED]] [[research-methods-aied|research]]:
 
 - **Performance gains** — immediate improvements in task completion, efficiency, or output quality when using AI tools.
 - **Learning** — durable understanding that requires deep cognitive processing (elaboration, [[critical-thinking|critical analysis]]) and [[metacognition|metacognitive]] processing (planning, monitoring, reflection).

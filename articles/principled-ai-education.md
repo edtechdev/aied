@@ -1,7 +1,7 @@
 ---
 title: Principled AI in Education
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-26T15:34:20-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-education, higher-ed, pedagogy, scaffolding, educational-policy-ai, active-learning, self-regulated-learning, human-in-the-loop-ai, educational-development, metacognition]
 research_method: [theoretical analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
 confidence: high
 ---
 
-> The framework rests on three interconnected anchors that must be addressed *before* selecting tools:
+> **Synthesis:** The framework rests on three interconnected anchors that must be addressed *before* selecting tools:
 
 > Rejecting the binary promise-vs-peril discourse and the rush to immediate implementation, Finkelstein (2025) proposes a principled framework anchored in three questions: What are our educational goals? What do we know about human learning? How can [[ai-technologies|technologies]] serve those goals and models?([[finkelstein-principled-ai-education-2025]])
 

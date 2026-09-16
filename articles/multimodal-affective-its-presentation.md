@@ -1,7 +1,7 @@
 ---
 title: An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-08-24T10:00:00-04:00"
+updated: "2026-09-16T15:51:16-04:00"
 type: article
 tags: [intelligent-tutoring, affective-computing, multimodal, higher-ed, professional-training, learning-analytics, rag, llm]
 research_method: [experiment]
@@ -10,11 +10,7 @@ sources: ['raw/papers/2605.17468.md']
 confidence: high
 ---
 
-## Key Finding
-
-## Synthesis
-
-> Suen & Hung (2026) present one of the most comprehensive closed-loop [[intelligent-tutoring]] systems for soft-skill training, targeting asynchronous on-camera oral presentation at scale. The system operationalizes a seven-dimensional Behaviorally Anchored Rating Scale (BARS) across facial, vocal, textual, and oculomotor inputs, using an [[llm]]-agnostic XGBoost backbone for interpretable scoring that approaches expert-rater reliability (Spearman's ρ = 0.69–0.78). A three-layer feedback architecture — rubric-aligned scoring, audience-expressive diagnostics, and [[rag]] conversational coaching — creates a complete deliberate-practice loop. With 204 [[adult-learning|adult learners]] and Cohen's d of 0.39–0.90 across all seven dimensions over a 30-day window, this is among the stronger efficacy signals in ITS research. The explicit interpretability requirement (feedback traceable to observable cues) directly addresses concerns raised in [[educational-llm-alignment]] about opaque [[ai-feedback-quality|AI feedback]], while the [[multimodal]] approach extends beyond text-only systems like [[cyberscholar-genai-writing-feedback]]. The closed-loop architecture shares [[philosophy-of-ai-in-education|philosophical]] ground with [[ai-tutor-behavioral-evaluation]]'s call for behavioral feedback loops, and the retrieval-augmented coaching component parallels [[retrieval-augmented-tutoring-algorithm-kite]]'s approach to grounded tutoring.
+> **Synthesis:** Suen & Hung (2026) present one of the most comprehensive closed-loop [[intelligent-tutoring]] systems for soft-skill training, targeting asynchronous on-camera oral presentation at scale. The system operationalizes a seven-dimensional Behaviorally Anchored Rating Scale (BARS) across facial, vocal, textual, and oculomotor inputs, using an [[llm]]-agnostic XGBoost backbone for interpretable scoring that approaches expert-rater reliability (Spearman's ρ = 0.69–0.78). A three-layer feedback architecture — rubric-aligned scoring, audience-expressive diagnostics, and [[rag]] conversational coaching — creates a complete deliberate-practice loop. With 204 [[adult-learning|adult learners]] and Cohen's d of 0.39–0.90 across all seven dimensions over a 30-day window, this is among the stronger efficacy signals in ITS research. The explicit interpretability requirement (feedback traceable to observable cues) directly addresses concerns raised in [[educational-llm-alignment]] about opaque [[ai-feedback-quality|AI feedback]], while the [[multimodal]] approach extends beyond text-only systems like [[cyberscholar-genai-writing-feedback]]. The closed-loop architecture shares [[philosophy-of-ai-in-education|philosophical]] ground with [[ai-tutor-behavioral-evaluation]]'s call for behavioral feedback loops, and the retrieval-augmented coaching component parallels [[retrieval-augmented-tutoring-algorithm-kite]]'s approach to grounded tutoring.
 
 ## Key Findings
 

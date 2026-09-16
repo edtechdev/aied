@@ -1,7 +1,7 @@
 ---
 title: Is Solving Better Than Evaluating GenAI Solutions?
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, stem-education, higher-ed, student-experience]
 research_method: [experiment]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2607.27586.md']
 confidence: high
 ---
 
-Randomized A/B crossover study (N=220) in a junior-level algorithms course comparing solution evaluation/critique tasks against traditional solution generation. Finds that evaluation-centered tasks produce comparable [[learning-gains|learning outcomes]] with a localized homework advantage that does not transfer to [[summative-assessment|summative]] performance, suggesting evaluation tasks are a viable [[pedagogy|pedagogical]] response to the availability of [[generative-ai|GenAI]] code generation tools.
+> **Synthesis:** Randomized A/B crossover study (N=220) in a junior-level algorithms course comparing solution evaluation/critique tasks against traditional solution generation. Finds that evaluation-centered tasks produce comparable [[learning-gains|learning outcomes]] with a localized homework advantage that does not transfer to [[summative-assessment|summative]] performance, suggesting evaluation tasks are a viable [[pedagogy|pedagogical]] response to the availability of [[generative-ai|GenAI]] code generation tools.
 
 ## Key Findings
 

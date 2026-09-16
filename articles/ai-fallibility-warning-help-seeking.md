@@ -1,7 +1,7 @@
 ---
 title: Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, student-experience, hallucination-risk, trust-calibration, llm, help-seeking]
 research_method: [experiment]

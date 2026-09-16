@@ -1,7 +1,7 @@
 ---
 title: "Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption"
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-09-16T15:13:06-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, authentic-assessment, cognitive-offloading, ai-literacy, assessment, rag]
 connected_faqs: [ai-guidance-children-under-13]
@@ -14,16 +14,10 @@ sources: ['raw/papers/tandf-2026-moral-panic-genai.md']
 confidence: high
 ---
 
-> **Jennifer M. Krebsbach & Victoria L. Cross (University of California, Davis)** — *Assessment & Evaluation in [[higher-ed|Higher Education]]* (Taylor & Francis). [[open-source|Open Access]], CC BY 4.0. doi:10.1080/02602938.2026.2686727.
-
-**Jennifer M. Krebsbach & Victoria L. Cross (University of California, Davis)** — *Assessment & Evaluation in Higher Education* (Taylor & Francis). Open Access, CC BY 4.0. doi:10.1080/02602938.2026.2686727.
-
-## Summary
-
-A **natural-experiment / design-based study** tracking eight iterations of a lower-division *Data Visualisation in the Social Sciences* course (n = 921 across six years) to test whether — and how — [[generative-ai|GenAI]] changes student [[learning-gains|learning]]. The authors frame faculty anxiety about GenAI as the latest in a series of "moral panics" (calculators, word processors, search engines, [[online-teaching-and-learning|e-learning]]) and argue the productive response is to **teach and embed GenAI use**, not ban it. They compare three instructional conditions on two quiz types (knowledge vs. applied):
-- **pre-GenAI** (2019–2020, n = 3 cohorts)
-- **GenAI-available** (2023–2024, n = 3) — GenAI present but no [[pedagogy|pedagogical]] adaptation; some students used it, often ineffectively/unethically
-- **GenAI-integrated** (2025, n = 2) — explicit instruction + encouragement to use GenAI on the *applied* portion; GenAI banned on the *knowledge* portion (paper quiz)
+> **Synthesis:** A **natural-experiment / design-based study** tracking eight iterations of a lower-division *Data Visualisation in the Social Sciences* course (n = 921 across six years) to test whether — and how — [[generative-ai|GenAI]] changes student [[learning-gains|learning]]. The authors frame faculty anxiety about GenAI as the latest in a series of "moral panics" (calculators, word processors, search engines, [[online-teaching-and-learning|e-learning]]) and argue the productive response is to **teach and embed GenAI use**, not ban it. They compare three instructional conditions on two quiz types (knowledge vs. applied):
+> - **pre-GenAI** (2019–2020, n = 3 cohorts)
+> - **GenAI-available** (2023–2024, n = 3) — GenAI present but no [[pedagogy|pedagogical]] adaptation; some students used it, often ineffectively/unethically
+> - **GenAI-integrated** (2025, n = 2) — explicit instruction + encouragement to use GenAI on the *applied* portion; GenAI banned on the *knowledge* portion (paper quiz)
 
 ## Method (key design)
 - Quizzes 3–6 analysed (first two dropped as orientation; Quiz 7 dropped as low-stakes). Item-level performance (% correct = difficulty; SD = variability) from the LMS.

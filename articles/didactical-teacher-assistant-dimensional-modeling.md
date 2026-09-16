@@ -1,7 +1,7 @@
 ---
 title: A didactical-driven teacher assistant for a dimensional modeling course
 created: "2026-07-28T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, intelligent-tutoring, higher-ed, pedagogy, rag, scaffolding]
 research_method: [system development]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2607.22598.md']
 confidence: high
 ---
 
-Brisson, Segarra and Smits present a didactically-driven [[llm]] teacher assistant for a university dimensional modeling (data warehousing) course. Unlike most educational [[conversational-ai|chatbots]] that delegate [[pedagogy|pedagogical]] decisions implicitly to the LLM, their system makes content selection and didactic structuring explicit and traceable: tutoring strategy is encoded in an external didactic layer that the LLM executes, so tutoring behavior can be evaluated and reproduced. The design responds directly to the opacity critique raised in [[rethinking-scaffolding-llm-tutors]] and complements retrieval-grounded designs such as [[retrieval-augmented-tutoring-algorithm-kite]] and safety-layered tutors like [[eduguard-safe-rag-llm-tutor]]. As an instructor-facing [[pedagogical-agent|pedagogical agent]] it sits alongside [[teachingcoach-chatbot-instructor-guidance]], and its explicit didactic structuring exemplifies principled [[learning-design]] applied to LLM tutoring in [[cs-education]].
+> **Synthesis:** Brisson, Segarra and Smits present a didactically-driven [[llm]] teacher assistant for a university dimensional modeling (data warehousing) course. Unlike most educational [[conversational-ai|chatbots]] that delegate [[pedagogy|pedagogical]] decisions implicitly to the LLM, their system makes content selection and didactic structuring explicit and traceable: tutoring strategy is encoded in an external didactic layer that the LLM executes, so tutoring behavior can be evaluated and reproduced. The design responds directly to the opacity critique raised in [[rethinking-scaffolding-llm-tutors]] and complements retrieval-grounded designs such as [[retrieval-augmented-tutoring-algorithm-kite]] and safety-layered tutors like [[eduguard-safe-rag-llm-tutor]]. As an instructor-facing [[pedagogical-agent|pedagogical agent]] it sits alongside [[teachingcoach-chatbot-instructor-guidance]], and its explicit didactic structuring exemplifies principled [[learning-design]] applied to LLM tutoring in [[cs-education]].
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States"
 created: "2026-05-12T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-education, cs-education, ethics, regulation, educational-development, teacher-ai-competency, equity-in-ai-education, ai-literacy, pedagogical-safety]
 research_method: [survey]
@@ -11,14 +11,9 @@ sources: ['raw/papers/2605.09680.md']
 confidence: high
 ---
 
-## Key Findings
-
-This study examines the disconnect between **ethics education** and real-world decision-making among 129 [[cs-education|computer science]] students and recent graduates during their job searches. Despite receiving contemporary CS ethics education, most students prioritize compensation, location, and workplace culture over [[ethics|ethical]] and social concerns when choosing employers.
-
-Even when expressing ethical concerns, respondents justified taking contradictory actions through shared explanations: desire to make money or perceived inability to avoid unethical workplaces. This highlights a critical gap in how CS ethics education translates to actual behavioral change.
-
-The findings have significant implications for **AI safety in education**: [[teacher-role|teaching]] ethical reasoning about autonomous systems without connecting to students' material circumstances may be insufficient. This connects to broader debates about [[pedagogical-safety-rl]], [[teacher-ai-competency]], and [[equity-in-ai-education]] in shaping student values.
-
+> **Synthesis:** This study examines the disconnect between **ethics education** and real-world decision-making among 129 [[cs-education|computer science]] students and recent graduates during their job searches. Despite receiving contemporary CS ethics education, most students prioritize compensation, location, and workplace culture over [[ethics|ethical]] and social concerns when choosing employers.
+> Even when expressing ethical concerns, respondents justified taking contradictory actions through shared explanations: desire to make money or perceived inability to avoid unethical workplaces. This highlights a critical gap in how CS ethics education translates to actual behavioral change.
+> The findings have significant implications for **AI safety in education**: [[teacher-role|teaching]] ethical reasoning about autonomous systems without connecting to students' material circumstances may be insufficient. This connects to broader debates about [[pedagogical-safety-rl]], [[teacher-ai-competency]], and [[equity-in-ai-education]] in shaping student values.
 ## Connections to AIED
 
 The ethics education gap identified here suggests that [[ai-literacy|AI literacy]] curricula face a similar risk: students may understand AI ethics principles theoretically while still choosing to use AI tools unethically in practice. This mirrors findings on [[academic-integrity]] and [[cognitive-offloading|Over-Reliance]] patterns in student AI use.

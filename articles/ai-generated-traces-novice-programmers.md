@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study"
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [cs-education, llm, scaffolding, personalized-learning, ai-literacy, mastery-learning, visualization]
 audience: [learners, instructors]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.03288.md']
 confidence: high
 ---
 
-Multi-[[governance|institutional]] study on Generated Animated Traces (GATs) for CS1. Found that mid-engagement students may experience a performance decrement due to coordination costs (Expertise-Reversal Effect). [[cs-education]], [[scaffolding]], [[personalized-learning]], [[stem-education]], [[adaptive-learning]].
+> **Synthesis:** Multi-[[governance|institutional]] study on Generated Animated Traces (GATs) for CS1. Found that mid-engagement students may experience a performance decrement due to coordination costs (Expertise-Reversal Effect). [[cs-education]], [[scaffolding]], [[personalized-learning]], [[stem-education]], [[adaptive-learning]].
 
 ## Key Findings
 

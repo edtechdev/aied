@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design"
 created: "2026-06-10T12:17:35-04:00"
-updated: "2026-08-25T14:30:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [active-learning, ai-education, higher-ed, learning-analytics, teacher-role, generative-ai, llm, student-experience, ai-literacy, stem-education]
 research_method: [system development, survey]
@@ -12,7 +12,7 @@ confidence: high
 sources: ['raw/papers/2606.09831.md']
 ---
 
-**Yuchen Liu, Roberto Martinez-Maldonado, Riordan Alfredo, Paola Mejia-Domenzain, Dwi Rahayu, Sadia Nawaz** — [[ai-education|AIED]] 2026 — cs.HC, cs.AI
+> **Synthesis:** **Yuchen Liu, Roberto Martinez-Maldonado, Riordan Alfredo, Paola Mejia-Domenzain, Dwi Rahayu, Sadia Nawaz** — [[ai-education|AIED]] 2026 — cs.HC, cs.AI
 
 This paper presents an AI-based speech processing approach to analyze classroom talk in team-teaching settings, grounded in spatial pedagogy theory. Analyzing 36 recorded undergraduate and postgraduate sessions involving 12 teachers, the study extracts acoustic features (voice quality, intonation, loudness) and codes spatial pedagogy behaviors. Results reveal systematic differences most notably in loudness dynamics: high-experience teachers, undergraduate classes, and [[collaborative-learning]] tasks exhibited greater loudness variation, suggesting more frequent modulation of volume to foreground key information and support [[student-engagement|engagement]]. This is the first large-scale automated analysis of acoustic patterns in team-teaching, demonstrating that AI can scalably capture meaningful teaching-talk features across experience, cohort, and task design. The work contributes to [[learning-analytics]] by extending classroom sensing beyond student-focused clickstream data to teacher vocal behavior, and to [[teacher-role]] [[research-methods-aied|research]] by showing how AI can provide [[formative-assessment|formative]] feedback on [[pedagogy|teaching practice]].
 

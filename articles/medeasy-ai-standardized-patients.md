@@ -1,7 +1,7 @@
 ---
 title: "MedEasy: Designing AI Standardized Patients for Clinical Consultation Training"
 created: "2026-06-18T04:33:04-04:00"
-updated: "2026-08-22T19:20:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, generative-ai, higher-ed, active-learning, feedback, simulation, professional-training]
 audience: [software developers]

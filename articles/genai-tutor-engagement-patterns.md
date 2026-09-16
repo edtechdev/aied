@@ -1,7 +1,7 @@
 ---
 title: "Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use"
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:49:45-04:00"
 type: article
 tags: [generative-ai, intelligent-tutoring, student-experience, student-engagement, higher-ed, learning-analytics, rag, llm]
 research_method: [case study]
@@ -12,8 +12,7 @@ sources: ['raw/papers/2602.00447.md']
 confidence: high
 ---
 
-> **Authors:** Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević **Year:** 2026 **Venue:** arXiv (cs.CY)
-> Large-scale analysis (N=11,406 students, 200 classes, 10 institutions) of [[generative-ai|GenAI]] tutor [[student-engagement|engagement]] identifies four session-level engagement types — Deep, Shallow, Routine-[[learning-gains|Learning]], and Exam-Driven — with 10.4% of sessions being shallow copy-paste use and deeper engagement more common at selective institutions.
+> **Synthesis:** Large-scale analysis (N=11,406 students, 200 classes, 10 institutions) of [[generative-ai|GenAI]] tutor [[student-engagement|engagement]] identifies four session-level engagement types — Deep, Shallow, Routine-[[learning-gains|Learning]], and Exam-Driven — with 10.4% of sessions being shallow copy-paste use and deeper engagement more common at selective institutions.
 
 ## Summary
 

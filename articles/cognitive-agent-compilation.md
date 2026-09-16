@@ -1,7 +1,7 @@
 ---
 title: Cognitive Agent Compilation for Explicit Problem Solver Modeling
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:48:11-04:00"
 type: article
 tags: [intelligent-tutoring, llm, adaptive-learning, personalized-learning, pedagogical-llm-training, rag, problem-solving]
 audience: [software developers]
@@ -10,9 +10,10 @@ sources: ['raw/papers/2605.07040.md']
 confidence: medium
 ---
 
+> **Synthesis:** **Cognitive Agent Compilation (CAC)** is a framework that uses a strong teacher [[llm]] to compile [[problem-solving]] knowledge into an explicit, inspectable target agent. Unlike end-to-end LLM tutoring approaches, CAC separates the agent into three components:
+
 ## Core Idea
 
-**Cognitive Agent Compilation (CAC)** is a framework that uses a strong teacher [[llm]] to compile [[problem-solving]] knowledge into an explicit, inspectable target agent. Unlike end-to-end LLM tutoring approaches, CAC separates the agent into three components:
 
 1. **Knowledge representation** — explicit, structured representation of domain knowledge (skills, [[misconceptions]], strategies)
 2. **Problem-solving policy** — how the agent applies knowledge to solve problems

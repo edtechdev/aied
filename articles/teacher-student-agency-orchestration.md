@@ -1,7 +1,7 @@
 ---
 title: "Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing"
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, teacher-role, student-experience, k-12, human-in-the-loop-ai, collaborative-learning, self-regulated-learning, scaffolding]
 research_method: [design-based research]

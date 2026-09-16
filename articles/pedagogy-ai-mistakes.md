@@ -1,7 +1,7 @@
 ---
 title: "The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [higher-ed, ai-literacy, metacognition, stem-education, active-learning, socratic-method, rag, llm, intelligent-tutoring]
 audience: [learners, instructors]

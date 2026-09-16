@@ -1,7 +1,7 @@
 ---
 title: "Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing"
 created: "2026-06-17T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:52:49-04:00"
 type: article
 tags: [llm, generative-ai, bias-mitigation, writing-education, higher-ed, student-experience]
 research_method: [experiment, survey]
@@ -12,15 +12,14 @@ sources: ['raw/papers/2606.15914.md']
 confidence: high
 ---
 
-> **Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque** (2026). arXiv cs.CL
+> **Synthesis:** - In a controlled study with **N = 123 participants**, students wrote career plan essays for paired biographical profiles differing only in gender under three conditions: **no AI assistance, neutral [[llm]] assistance, or gender-biased LLM assistance**.
+> - Students in the biased condition produced essays with a **significantly larger agentic gap and more gender-stereotypic occupation suggestions** than those in the control and neutral conditions.
+> - Bias transfer was **asymmetric**: agency was suppressed in female-target essays while male-target writing remained largely unaffected.
+> - A verification study of **N = 1,600 LLM-generated essays** (two-way ANOVA, R² = .399) confirmed that a gender-biased prompt induces gender-differentiated language while a neutral prompt does not, with significant main effects of biography gender, prompt condition, and their interaction.
+> - The authors frame the findings as evidence of **bias propagation in AI-assisted writing**, calling for fairness-aware design in educational AI tools.
 
 ## Key Findings
 
-- In a controlled study with **N = 123 participants**, students wrote career plan essays for paired biographical profiles differing only in gender under three conditions: **no AI assistance, neutral [[llm]] assistance, or gender-biased LLM assistance**.
-- Students in the biased condition produced essays with a **significantly larger agentic gap and more gender-stereotypic occupation suggestions** than those in the control and neutral conditions.
-- Bias transfer was **asymmetric**: agency was suppressed in female-target essays while male-target writing remained largely unaffected.
-- A verification study of **N = 1,600 LLM-generated essays** (two-way ANOVA, R² = .399) confirmed that a gender-biased prompt induces gender-differentiated language while a neutral prompt does not, with significant main effects of biography gender, prompt condition, and their interaction.
-- The authors frame the findings as evidence of **bias propagation in AI-assisted writing**, calling for fairness-aware design in educational AI tools.
 
 ## Study Design & Method
 

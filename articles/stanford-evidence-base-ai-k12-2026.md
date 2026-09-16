@@ -1,7 +1,7 @@
 ---
 title: "The Evidence Base on AI in K-12: A 2026 Review"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-25T07:30:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [k-12, ai-literacy, sociocultural-learning, intelligent-tutoring, scaffolding]
 audience: [instructors, administrators, researchers]
@@ -13,7 +13,7 @@ confidence: medium
 
 ---
 
-> **Stanford Evidence Base: AI in K-12 Education** — A 2026 [[meta-analysis-systematic-review|systematic review]] from the Stanford SCALE Initiative analyzing 818 papers on AI in K-12 education. The central finding is that [[learning-gains|learning outcomes]] studies provide strong causal evidence for only 20 of 818 papers, and zero high-quality causal studies examine U.S. K-12 student settings. The evidence that exists reveals a consistent pattern — AI improves performance during use but gains frequently fail to persist or transfer, and general-purpose AI tools can actively harm learning outcomes compared to pedagogically designed alternatives.
+> **Synthesis:** **Stanford Evidence Base: AI in K-12 Education** — A 2026 [[meta-analysis-systematic-review|systematic review]] from the Stanford SCALE Initiative analyzing 818 papers on AI in K-12 education. The central finding is that [[learning-gains|learning outcomes]] studies provide strong causal evidence for only 20 of 818 papers, and zero high-quality causal studies examine U.S. K-12 student settings. The evidence that exists reveals a consistent pattern — AI improves performance during use but gains frequently fail to persist or transfer, and general-purpose AI tools can actively harm learning outcomes compared to pedagogically designed alternatives.
 
 **Stanford SCALE Initiative, AI Hub for Education** — Published 2026. Analysis of repository spanning through October 2025.
 

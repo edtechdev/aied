@@ -1,7 +1,7 @@
 ---
 title: "VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring"
 created: "2026-06-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [edtech-platform, academic-integrity, stem-education, higher-ed, formative-assessment, scaffolding]
 research_method: [system development]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2606.05929.md']
 confidence: high
 ---
 
-Addresses a critical tension in [[stem-education|CS education]]: the widespread adoption of [[generative-ai|generative AI]] makes it impossible to distinguish authentic student effort from AI code synthesis by evaluating final submissions alone. The paper presents **VISMATIC**, a rootless containerized framework that pairs robust environment isolation with explicit user-interaction tracking at the API level.
+> **Synthesis:** Addresses a critical tension in [[stem-education|CS education]]: the widespread adoption of [[generative-ai|generative AI]] makes it impossible to distinguish authentic student effort from AI code synthesis by evaluating final submissions alone. The paper presents **VISMATIC**, a rootless containerized framework that pairs robust environment isolation with explicit user-interaction tracking at the API level.
 
 **Key innovation:** VISMATIC captures macro-level behavioral metrics (keystroke patterns, command execution timing, copy-paste behavior) that successfully flag statistical anomalies indicative of automated or off-platform workflows — while preserving student anonymity. Unlike JupyterHub, which exposes the host system to arbitrary shell commands, VISMATIC's rootless containers prevent lateral movement and host compromise.
 

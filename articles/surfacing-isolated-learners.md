@@ -1,7 +1,7 @@
 ---
 title: Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI
 created: "2026-06-01T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-16T15:51:16-04:00"
 type: article
 tags: [learning-analytics, teacher-role, higher-ed, student-experience, feedback, ai-literacy, help-seeking]
 research_method: [system development]
@@ -12,11 +12,10 @@ sources: ['raw/papers/2605.29240.md']
 confidence: medium
 ---
 
-> **Authors:** Junsoo Park, Youssef Medhat, Htet Phyo Wai, Ploy Thajchayapong, Ashok K. Goel (2026) — Georgia Tech
+> **Synthesis:** An **interpretable decision layer** that ranks course topics needing instructor attention without using grades or post-hoc outcome labels. The system combines three process-level signals to identify which topics (and which students) need intervention before formal [[assessment|assessments]].
 
 ## What It Is
 
-An **interpretable decision layer** that ranks course topics needing instructor attention without using grades or post-hoc outcome labels. The system combines three process-level signals to identify which topics (and which students) need intervention before formal [[assessment|assessments]].
 
 ## How It Works
 

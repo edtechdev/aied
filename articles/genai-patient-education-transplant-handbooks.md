@@ -1,7 +1,7 @@
 ---
 title: "Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks"
 created: "2026-07-28T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, medical-education, equity-in-ai-education, simulation, llm, ai-education]
 research_method: [interviews]
@@ -9,7 +9,7 @@ sources: ['raw/papers/2607.22606.md']
 confidence: high
 ---
 
-Li, Padman and Krishnan audit 102 US transplant-center patient handbooks that serve as grounding corpora for [[generative-ai|generative AI]] patient-education assistants. They show large [[governance|institutional]] heterogeneity in the underlying education materials, undermining the premise that grounding a genAI assistant in local content yields consistent guidance: patients at different institutions can receive materially different AI-mediated answers to the same question. The study extends grounding-quality concerns familiar from [[retrieval-augmented-tutoring-algorithm-kite]] into health education, and connects to AI-driven medical training work such as [[medeasy-ai-standardized-patients]], [[adaptive-virtual-patient-psychotherapy-training]] and [[medgame-llm-medical-education-gamification]]. The equity implication (institution-dependent quality of AI-mediated education) parallels [[equity-in-ai-education]].
+> **Synthesis:** Li, Padman and Krishnan audit 102 US transplant-center patient handbooks that serve as grounding corpora for [[generative-ai|generative AI]] patient-education assistants. They show large [[governance|institutional]] heterogeneity in the underlying education materials, undermining the premise that grounding a genAI assistant in local content yields consistent guidance: patients at different institutions can receive materially different AI-mediated answers to the same question. The study extends grounding-quality concerns familiar from [[retrieval-augmented-tutoring-algorithm-kite]] into health education, and connects to AI-driven medical training work such as [[medeasy-ai-standardized-patients]], [[adaptive-virtual-patient-psychotherapy-training]] and [[medgame-llm-medical-education-gamification]]. The equity implication (institution-dependent quality of AI-mediated education) parallels [[equity-in-ai-education]].
 
 ## Key Findings
 

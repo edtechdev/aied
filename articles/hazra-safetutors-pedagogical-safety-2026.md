@@ -1,7 +1,7 @@
 ---
 title: "SafeTutors: Pedagogical Safety in AI Tutoring"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-26T15:33:55-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [pedagogical-safety, k-12, intelligent-tutoring, llm, scaffolding, regulation]
 audience: [software developers]
@@ -12,7 +12,7 @@ sources: ['raw/papers/hazra-safetutors-pedagogical-safety-2026.md']
 confidence: medium
 ---
 
-> **SafeTutors** is a benchmark that jointly evaluates safety and pedagogy in AI tutoring systems across [[math-education|mathematics]], [[physics-education|physics]], and [[chemistry-education|chemistry]]. It argues that **tutoring safety is fundamentally different from conventional [[llm]] safety**: the primary risk is not toxic content but the quiet erosion of learning through answer over-disclosure, [[misconceptions|misconception]] reinforcement, and the abdication of [[scaffolding]].
+> **Synthesis:** **SafeTutors** is a benchmark that jointly evaluates safety and pedagogy in AI tutoring systems across [[math-education|mathematics]], [[physics-education|physics]], and [[chemistry-education|chemistry]]. It argues that **tutoring safety is fundamentally different from conventional [[llm]] safety**: the primary risk is not toxic content but the quiet erosion of learning through answer over-disclosure, [[misconceptions|misconception]] reinforcement, and the abdication of [[scaffolding]].
 
 ## Key Findings
 

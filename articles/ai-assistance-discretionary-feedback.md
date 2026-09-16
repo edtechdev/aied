@@ -1,7 +1,7 @@
 ---
 title: "AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education"
 created: "2026-06-04T04:33:04-04:00"
-updated: "2026-08-24T13:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [automated-assessment, feedback, higher-ed, llm, teacher-role, rct, scaffolding]
 research_method: [randomized controlled trial, experiment]
@@ -12,10 +12,7 @@ sources: ['raw/papers/2606.03095.md']
 confidence: high
 ---
 
-## Synthesis
-
-> AI assistance does not only make *required* work faster or more accurate — it can increase the amount of *optional but beneficial* work that actually gets done. In a semester-long randomized field experiment across a 300-level [[reinforcement-learning|machine learning]] course, teaching assistants shown an AI-generated feedback draft after grading were significantly more likely to provide feedback (+10.81 percentage points) and produced longer comments (+39.79 characters), without spending more time per character or degrading students' usefulness ratings. Drafts acted as editable scaffolds that lowered the barrier to *initiating* feedback rather than eliminating the effort of producing it, and TAs stayed fully in control — able to use, edit, or ignore every draft. The study reframes AI's role from a productivity tool to an intervention that changes whether discretionary, socially valuable work happens at all.
-
+> **Synthesis:** > AI assistance does not only make *required* work faster or more accurate — it can increase the amount of *optional but beneficial* work that actually gets done. In a semester-long randomized field experiment across a 300-level [[reinforcement-learning|machine learning]] course, teaching assistants shown an AI-generated feedback draft after grading were significantly more likely to provide feedback (+10.81 percentage points) and produced longer comments (+39.79 characters), without spending more time per character or degrading students' usefulness ratings. Drafts acted as editable scaffolds that lowered the barrier to *initiating* feedback rather than eliminating the effort of producing it, and TAs stayed fully in control — able to use, edit, or ignore every draft. The study reframes AI's role from a productivity tool to an intervention that changes whether discretionary, socially valuable work happens at all.
 ## Key Findings
 
 1. AI-assisted feedback drafts increased feedback **provision** by +10.81 percentage points (SE = 1.10, p < 0.001) in a setting where giving feedback was optional, not required.

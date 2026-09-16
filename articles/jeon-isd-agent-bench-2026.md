@@ -1,7 +1,7 @@
 ---
 title: ISD Agent Benchmark
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [agentic-ai, ai-ed-evaluation, benchmark, rag, llm, ai-education]
 audience: [software developers]
@@ -11,7 +11,7 @@ sources: ['raw/papers/jeon-isd-agent-bench-2026.md']
 confidence: medium
 ---
 
-> **ISD-Agent-Bench** is a comprehensive [[benchmark]] for evaluating LLM-based instructional design agents, comprising **25,795 scenarios** generated via a Context Matrix framework that combines 51 contextual variables with 33 ISD sub-steps from the ADDIE model. It employs a multi-judge evaluation protocol to mitigate [[ai-ed-evaluation|LLM-as-judge bias]]. It is a direct contribution to the study of [[learning-design|instructional design]] as it applies to AI — providing the first standardized, theory-grounded way to evaluate whether AI agents can perform the systematic work of analyzing needs, designing, developing, implementing, and evaluating instruction.
+> **Synthesis:** **ISD-Agent-Bench** is a comprehensive [[benchmark]] for evaluating LLM-based instructional design agents, comprising **25,795 scenarios** generated via a Context Matrix framework that combines 51 contextual variables with 33 ISD sub-steps from the ADDIE model. It employs a multi-judge evaluation protocol to mitigate [[ai-ed-evaluation|LLM-as-judge bias]]. It is a direct contribution to the study of [[learning-design|instructional design]] as it applies to AI — providing the first standardized, theory-grounded way to evaluate whether AI agents can perform the systematic work of analyzing needs, designing, developing, implementing, and evaluating instruction.
 
 ## Connection to instructional design
 

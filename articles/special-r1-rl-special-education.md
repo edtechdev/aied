@@ -1,7 +1,7 @@
 ---
 title: "Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training"
 created: "2026-06-01T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-16T15:51:16-04:00"
 type: article
 tags: [intelligent-tutoring, llm, special-education, personalized-learning, reinforcement-learning, k-12, scaffolding]
 audience: [software developers]
@@ -10,11 +10,10 @@ level: [special education, k 12]
 sources: ['raw/papers/2605.30670.md']
 confidence: high
 ---
-> **Authors:** Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang (2026)
+> **Synthesis:** Special-R1 is a framework that extends [[pedagogy|pedagogical]] [[reinforcement-learning|reinforcement learning]] (RL) to [[special-education|special education]]. While prior RL-based tutor alignment methods targeted only generic math learners, Special-R1 explicitly models cognitive and communicative diversity across five disability profiles.
 
 ## What It Is
 
-Special-R1 is a framework that extends [[pedagogy|pedagogical]] [[reinforcement-learning|reinforcement learning]] (RL) to [[special-education|special education]]. While prior RL-based tutor alignment methods targeted only generic math learners, Special-R1 explicitly models cognitive and communicative diversity across five disability profiles.
 
 ## How It Works
 

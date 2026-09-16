@@ -1,7 +1,7 @@
 ---
 title: Socially fluent AI decouples conversational signals from source identity in online interaction
 created: "2026-05-25T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, cognitive-offloading, student-experience, llm, affective-computing, rag, intelligent-tutoring]
 research_method: [experiment, survey]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2605.23426.md']
 confidence: high
 ---
 
-This study embedded undisclosed [[agentic-ai|AI agents]] as teammates in synchronous text-based group interactions across analytical, creative, and [[ethics|ethical]] tasks with 786 participants making 1,572 identity judgments. The central finding is striking: **humans cannot distinguish AI from human teammates above chance levels**. This failure is not due to a lack of identity-relevant information — computational models could accurately classify AI vs. human from conversational behavior — but because participants relied on **flawed suspicion heuristics** (response speed, fluency, perceived scriptedness) that were only weakly correlated with actual identity.
+> **Synthesis:** This study embedded undisclosed [[agentic-ai|AI agents]] as teammates in synchronous text-based group interactions across analytical, creative, and [[ethics|ethical]] tasks with 786 participants making 1,572 identity judgments. The central finding is striking: **humans cannot distinguish AI from human teammates above chance levels**. This failure is not due to a lack of identity-relevant information — computational models could accurately classify AI vs. human from conversational behavior — but because participants relied on **flawed suspicion heuristics** (response speed, fluency, perceived scriptedness) that were only weakly correlated with actual identity.
 
 The implications for education are significant. As AI agents increasingly participate in [[student-experience|student group work]], online discussions, and peer learning environments, students may interact with AI without awareness. This creates vulnerabilities explored in [[eduframetrap-llm-sycophancy-educational-safety]] — if students cannot detect AI teammates, [[ai-sycophancy|sycophantic]] AI could reinforce [[misconceptions]] unchallenged. The findings also complicate [[hybrid-human-ai-tutoring-differentiated]] models that rely on transparent role differentiation. The work underscores the urgent need for [[ai-literacy]] curricula that teach not just how to use AI, but how to recognize when one is interacting with it. The dissociation between behavioral truth and human perception suggests that [[cognitive-offloading|Over-Reliance]] on AI may be exacerbated when source identity is concealed.
 

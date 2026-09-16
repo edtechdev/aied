@@ -1,7 +1,7 @@
 ---
 title: LLM Student Modeling and Long-Term Memory Architecture
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, personalized-learning, adaptive-learning, intelligent-tutoring, generative-ai, lifelong-learning, pedagogical-llm-training, self-regulated-learning, metacognition, rag]
 research_method: [theoretical analysis]
@@ -9,7 +9,7 @@ sources: ['raw/papers/nie-personavlm-long-term-personalization-2026.md']
 confidence: medium
 ---
 
-> Current AI tutoring systems treat each session as independent. [[adaptive-learning|Adaptive systems]] use real-time [[knowledge-tracing|knowledge tracing]] (e.g., [[huang-interpretable-knowledge-tracing-2026|IRT-based models]]) but rarely retain a longitudinal [[student-modeling|student model]] that evolves across semesters. Longitudinal [[personalized-learning|personalization]] is essential for effective [[scaffolding]] because:
+> **Synthesis:** Current AI tutoring systems treat each session as independent. [[adaptive-learning|Adaptive systems]] use real-time [[knowledge-tracing|knowledge tracing]] (e.g., [[huang-interpretable-knowledge-tracing-2026|IRT-based models]]) but rarely retain a longitudinal [[student-modeling|student model]] that evolves across semesters. Longitudinal [[personalized-learning|personalization]] is essential for effective [[scaffolding]] because:
 
 > PersonaVLM demonstrates a general-purpose framework for long-term user personalization—chronological memory extraction, evolving personality inference, and persona-aligned response generation—that maps directly onto the challenge of building AI tutoring systems that remember a student's learning history across months or years.([[nie-personavlm-long-term-personalization-2026]])
 

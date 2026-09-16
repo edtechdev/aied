@@ -1,7 +1,7 @@
 ---
 title: What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education
 created: "2026-07-23T04:33:04-04:00"
-updated: "2026-08-22T16:30:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, educational-policy-ai, formative-assessment, llm, assessment-validity, rag]
 research_method: [theoretical analysis, interviews]

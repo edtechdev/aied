@@ -1,7 +1,7 @@
 ---
 title: "Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [writing-education, scaffolding, ai-literacy, higher-ed, formative-assessment, metacognition, socratic-method, llm, intelligent-tutoring]
 audience: [learners, instructors]
@@ -13,10 +13,7 @@ sources: ['raw/papers/2605.05598.md']
 confidence: medium
 ---
 
-## Synthesis
-
-> Prober.ai is a web-based writing environment that inverts the conventional AI-tutoring paradigm: rather than generating or rewriting student text, it constrains an LLM — OpenAI GPT-5.6 accessed through the Responses API with schema-constrained Structured Outputs — to produce only targeted, inquiry-based questions about argumentative weaknesses. A two-phase Challenge → Unlock interaction architecture implements a [[pedagogy|pedagogical]] friction mechanism in which revision suggestions are gated behind an intelligent reflection gate: the student's written defense is first assessed for substance and, if thin, coached rather than answered, so that cognitive effort provably precedes support. Grounded in Toulmin's argumentation theory, [[research-methods-aied|research]] on peer feedforward questioning, and evidence on AI-induced [[cognitive-offloading|cognitive debt]], the system positions the constrained LLM as a "cognitive catalyst" rather than a cognitive replacement, with a fully instrumented pipeline for controlled classroom study.
-
+> **Synthesis:** > Prober.ai is a web-based writing environment that inverts the conventional AI-tutoring paradigm: rather than generating or rewriting student text, it constrains an LLM — OpenAI GPT-5.6 accessed through the Responses API with schema-constrained Structured Outputs — to produce only targeted, inquiry-based questions about argumentative weaknesses. A two-phase Challenge → Unlock interaction architecture implements a [[pedagogy|pedagogical]] friction mechanism in which revision suggestions are gated behind an intelligent reflection gate: the student's written defense is first assessed for substance and, if thin, coached rather than answered, so that cognitive effort provably precedes support. Grounded in Toulmin's argumentation theory, [[research-methods-aied|research]] on peer feedforward questioning, and evidence on AI-induced [[cognitive-offloading|cognitive debt]], the system positions the constrained LLM as a "cognitive catalyst" rather than a cognitive replacement, with a fully instrumented pipeline for controlled classroom study.
 ## Key Findings
 
 1. Prober.ai inverts AI-tutoring by constraining GPT-5.6 to ask only inquiry-based questions about argumentative weaknesses, never generating or rewriting student text.

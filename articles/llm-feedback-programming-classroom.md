@@ -1,7 +1,7 @@
 ---
 title: "LLM-Generated Feedback in Introductory Programming: A Classroom Study"
 created: "2026-06-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, formative-assessment, feedback, stem-education, higher-ed, automated-assessment, rag]
 research_method: [system development]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2606.08807.md']
 confidence: high
 ---
 
-Presents a **large-scale classroom study** (N=215 students, 6,693 submissions across 17 labs) deploying AI-generated feedback through a randomized protocol in an introductory Python programming course. Students received one of three conditions: natural language hints, AI-generated failing test cases, or no AI feedback (control). The resulting dataset, **ProgFeed**, captures fine-grained temporal learning trajectories.
+> **Synthesis:** Presents a **large-scale classroom study** (N=215 students, 6,693 submissions across 17 labs) deploying AI-generated feedback through a randomized protocol in an introductory Python programming course. Students received one of three conditions: natural language hints, AI-generated failing test cases, or no AI feedback (control). The resulting dataset, **ProgFeed**, captures fine-grained temporal learning trajectories.
 
 **Key findings:** Natural language feedback is significantly associated with higher completion rates and faster convergence to correct solutions. Test case feedback shows heterogeneous effects that depend critically on feedback validity. The form of [[ai-feedback-quality|AI-generated feedback]] matters — evaluating feedback quality, not just its presence, is essential for understanding [[pedagogy|pedagogical]] impact.
 

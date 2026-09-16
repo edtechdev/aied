@@ -1,7 +1,7 @@
 ---
 title: "Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs"
 created: "2026-05-05T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [automated-assessment, writing-education, llm, ai-education, higher-ed, human-in-the-loop-ai, automated-question-generation, personalized-learning]
 audience: [software developers]
@@ -12,10 +12,7 @@ level: [higher ed]
 sources: ['raw/papers/2605.04298.md']
 confidence: medium
 ---
-> Bannò, Knill & Gales (2026) propose a paradigm shift in [[automated-essay-scoring|automated essay scoring]]: from **inter-learner ranking** to **intra-learner profiling**. Instead of asking "how does this essay rank against others?", their self-referential framework asks "what are this specific learner's strengths and weaknesses?"
-
-## Core Contribution
-Bannò, Knill & Gales (2026) propose a paradigm shift in automated essay scoring: from **inter-learner ranking** to **intra-learner profiling**. Instead of asking "how does this essay rank against others?", their self-referential framework asks "what are this specific learner's strengths and weaknesses?"
+> **Synthesis:** Bannò, Knill & Gales (2026) propose a paradigm shift in automated essay scoring: from **inter-learner ranking** to **intra-learner profiling**. Instead of asking "how does this essay rank against others?", their self-referential framework asks "what are this specific learner's strengths and weaknesses?"
 ## Key Findings
 Using the ICNALE GRA dataset annotated by up to 80 trained raters and calibrated with two-facet Rasch modeling:
 - **LLMs outperform single human raters** at identifying relative weaknesses (negative feedback) across proficiency aspects

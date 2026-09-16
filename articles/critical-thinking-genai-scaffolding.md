@@ -1,7 +1,7 @@
 ---
 title: Scaffolding Critical Thinking with Generative AI
 created: "2026-05-10T04:33:04-04:00"
-updated: "2026-08-26T16:50:00-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, scaffolding, self-regulated-learning, educational-development, metacognition, ai-literacy]
 research_method: [theoretical analysis]
@@ -11,9 +11,7 @@ sources: ['raw/papers/critical-thinking-genai-scaffolding.md']
 confidence: medium
 ---
 
-> Vendrell & Johnston (2026) propose a design-oriented framework for [[llm]] use in [[higher-ed|higher education]] that strengthens rather than displaces [[critical-thinking]], countering [[cognitive-offloading]] and metacognitive disengagement ([[metacognition]], [[scaffolding]]).
-
-Vendrell & Johnston (2026) propose a design-oriented [[pedagogy|pedagogical]] framework for integrating LLMs into higher education in ways that strengthen rather than displace critical thinking. Drawing from [[cognitive-psychology|cognitive psychology]], educational theory, and AI ethics, the framework addresses the risk that unstructured LLM use leads to cognitive offloading, metacognitive disengagement, and reduced [[metacognition|epistemic agency]].
+> **Synthesis:** Vendrell & Johnston (2026) propose a design-oriented [[pedagogy|pedagogical]] framework for integrating LLMs into higher education in ways that strengthen rather than displace critical thinking. Drawing from [[cognitive-psychology|cognitive psychology]], educational theory, and AI ethics, the framework addresses the risk that unstructured LLM use leads to cognitive offloading, metacognitive disengagement, and reduced [[metacognition|epistemic agency]].
 
 ## The Problem: Unstructured LLM Use
 

@@ -1,7 +1,7 @@
 ---
 title: Development and applications of Generative AI in architectural design studios
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, active-learning]
 research_method: [qualitative, case study]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.24752.md']
 confidence: medium
 ---
 
-Examines the integration of deep generative models into architectural design education. The findings, based on students' views and observations in design studios, suggest that [[generative-ai|GenAI]] supports the exploration of creative ideas — serving as visual stimuli and inspirational resources in early design stages — while also highlighting the competencies students need to differentiate between GenAI models and use them effectively.
+> **Synthesis:** Examines the integration of deep generative models into architectural design education. The findings, based on students' views and observations in design studios, suggest that [[generative-ai|GenAI]] supports the exploration of creative ideas — serving as visual stimuli and inspirational resources in early design stages — while also highlighting the competencies students need to differentiate between GenAI models and use them effectively.
 
 ## Key Findings
 
