@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-16T10:26:00-04:00"
+updated: "2026-09-16T12:45:00-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, student-engagement]
 audience: [learners]
@@ -75,6 +75,9 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - **Dimension-specific gains at the primary level (2026):** A nine-week GenAI-supported L2 writing program with 301 Grade 5 and 6 students raised behavioural and emotional engagement but left cognitive and metacognitive engagement unchanged, and its authors name reduced self-monitoring during writing as a standing risk ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]). The pattern is a concrete instance of the engagement-versus-learning distinction above: more activity and more enjoyment did not translate into deeper processing.
 
 - **The dissociation can run the other way (2026):** In a 12-week vocational interior-design course, an immersive VR studio with an embedded LLM teaching assistant raised cognitive (d = 0.90) and behavioural (d = 0.75) engagement over traditional [[project-based-learning|project-based]] instruction while affective engagement did not differ significantly (d = 0.38) — the inverse of the L2 writing case above ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). Cognitive and behavioural gains here came with *lower* reported cognitive load, which the authors attribute to the assistant absorbing search and cross-disciplinary integration effort. Read against the writing case, the two studies suggest that which engagement dimension an AI-supported intervention moves is a property of the design — discourse-heavy immersive collaboration versus solo writing support — rather than of AI assistance in general, and that an affective advantage cannot be assumed from high-fidelity or intelligent feedback.
+
+
+- **AI literacy works on engagement through psychological resources (2026):** A moderated mediation study of 1,198 undergraduates in Zhengzhou, China ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]) modelled engagement as an outcome of [[ai-literacy]] rather than a by-product of tool use. AI literacy predicted learning engagement directly (β = 0.668, R² = 0.446) and also indirectly by building psychological capital (AI literacy → PsyCap β = 0.712; PsyCap → engagement β = 0.459), with the indirect path carrying 48.5% of the effect (β = 0.327, 95% CI [0.289, 0.365]) — partial mediation, so a technological competency converts into engagement only partly through the psychological resources it generates. Professional commitment (an identity-based variable) moderated the PsyCap → engagement link (β = 0.134, t = 5.288) with no main effect of its own (β = 0.011, ns), and the slope of PsyCap on engagement was 83.0% steeper at one SD above the mean commitment than below it. The pattern is the clearest available instance of the engagement section's point that learner characteristics condition how AI affects engagement: the same psychological resources translate into markedly more engagement for students who see themselves as headed into the profession.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -152,3 +155,4 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[genai-writing-program-primary-l2-motivation-engagement]] — Dimension-specific engagement gains at the primary level (Lu et al. 2026)
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — Cognitive and behavioural engagement up, affective engagement flat, in an immersive VR PBL studio (Jin et al. 2026)
 - [[domain-specific-chatbot-stem-enthusiasm-2025]] — Cluster-randomized secondary mathematics trial: situational interest rose with a customized chatbot while test performance did not (Rücker & Becker-Genschow 2025)
+- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI literacy drives engagement directly and through psychological capital, amplified by professional commitment (Wang 2026)

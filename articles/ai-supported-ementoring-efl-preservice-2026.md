@@ -1,7 +1,7 @@
 ---
 title: "An AI-supported E-mentoring model to develop EFL pre-service teachers' self-efficacy and emotional intelligence"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T11:00:00-04:00"
+updated: "2026-09-16T13:40:00-04:00"
 type: article
 tags: [teacher-education, self-efficacy, language-learning, social-emotional-learning, ai-literacy]
 audience: [teacher educators, researchers, instructors]
@@ -48,7 +48,7 @@ The theoretical [[scaffolding]] combines Bandura's Social Cognitive Theory (mast
 - **Adequately powered only for large effects.** The sensitivity analysis put the minimum detectable effect at d = 0.81, so smaller but meaningful effects may have gone undetected.
 - **All participants were female**, a consequence of gender-segregated school placements and the ~80% female English cohort; gender representation and cross-context generalizability are limited.
 - **Clustering not modelled.** Randomization at the school level means participants within a school are not fully independent; this clustering was not modelled statistically, and multilevel modelling is recommended for future work with more schools.
-- **Short, single-semester intervention** restricts claims about long-term sustainability of gains past the practicum.
+- **Short, single-semester intervention** restricts claims about long-term [[sustainability]] of gains past the practicum.
 - **Causal attribution is bounded.** The intervention was multi-component, so the authors caution that improvements cannot be attributed solely to AI tools; the control condition also differed in being face-to-face, less structured, and without reflective cycles.
 - **Data richness constraints.** Some participants were initially hesitant to record or document classroom activities, slightly limiting the observational and reflective data.
 - **Stage-specific population.** Findings concern second-year pre-service teachers at the preparatory stage and may not transfer to more advanced or in-service teachers.

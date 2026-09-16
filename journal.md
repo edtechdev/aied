@@ -1,9 +1,21 @@
 # Journal
 
 
-Last updated: 2026-09-16 | Total entries: 1409
+Last updated: 2026-09-16 | Total entries: 1421
 
 ## 2026-09-16
+- 📄 [[ai-literacy-learning-engagement-psych-capital-2026]] — The impact of artificial intelligence literacy on learning engagement among university students: the mediating role of psychological capital and the moderating role of professional identity
+- 📄 [[risk-perception-genai-perceived-benefits-2026]] — The impact of risk perception on perceived benefits of generative artificial intelligence users—an empirical study based on university students
+- 📄 [[personalization-paradox-adaptive-learning-emotions-2026]] — The Personalization Paradox: AI-Adaptive Learning Environments, Academic Emotions, and Self-Regulated Learning
+- 📄 [[trust-calibration-chatbots-design-problem-2026]] — Why we believe chatbots: trust calibration as a design problem
+- 📄 [[verification-quality-reliance-calibration-genai-2026]] — Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education
+- 📄 [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — Empowerment over enforcement: unpacking the psychological drivers of AI-assisted deep revision in EFL writing
+- 📄 [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — From AI literacy to AI-integrated inquiry-based science teaching: the serial mediating roles of AI-TPACK and science teaching self-efficacy among Chinese pre-service science teachers
+- 📄 [[trust-fairness-motivation-ai-teaching-assistants-2026]] — How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants: a three-wave within-person longitudinal study
+- 📄 [[hands-on-learning-necessity-age-of-ai-review-2026]] — Is hands-on learning still necessary in the age of AI? A thematic review
+- 📄 [[school-support-ai-learning-anxiety-control-value-2026]] — Multidimensional perceived school support and AI learning anxiety among university students: the mediating roles of control-value appraisals
+- 📄 [[faculty-development-centers-genai-training-optimization-2026]] — Research on the optimization of the training system of university faculty development centers in the context of GenAI: a comparative analysis based on Chinese and Kazakhstani universities
+- 📄 [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — The dark side of AI in education: AI dependency as a mediator linking academic self-efficacy and teacher support to learning burnout among university students
 - 📄 [[ai-supported-ementoring-efl-preservice-2026]] — An AI-supported E-mentoring model to develop EFL pre-service teachers' self-efficacy and emotional intelligence
 - 📄 [[ai-educational-reform-computer-majors-2026]] — AI-driven educational reform: enhancing talent cultivation in computer-related majors for the digital era
 - 📄 [[illusion-cognitive-independence-genai-literacy-2026]] — The illusion of cognitive independence in the age of generative AI: unpacking GenAI literacy and learner profiles

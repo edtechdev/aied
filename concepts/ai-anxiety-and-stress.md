@@ -1,7 +1,7 @@
 ---
 title: AI Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-16T13:00:00-04:00"
 type: concept
 tags: [well-being, remote-proctoring, social-emotional-learning, affective-computing, academic-integrity, student-experience, adult-learning]
 audience: [learners]
@@ -42,6 +42,18 @@ Beyond proctoring, AI use itself generates anxiety — about being replaced, abo
 - **Moral panic and educator anxiety:** [[moral-panic-genai-classroom|the moral-panic framing]] shows faculty anxiety about GenAI mirrors earlier panics (calculators, search engines) — a [[teacher-role|teacher]]-side stress response that shapes classroom policy.
 - **Teachers' "state of vulnerability" and feeling "stuck."** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] capture the *educator* side of AI anxiety directly: 24 Swedish university teachers described the emergence of GAI as alarming and overwhelming, and reported a **state of vulnerability** — low confidence, insecurity, and discomfort driven by limited knowledge of GAI's capabilities, limited exposure, and fear of "not being ahead of students." Teachers felt "stuck" between utopian and dystopian discourses, burdened by amplified responsibility for [[bias-mitigation|fairness]] and quality, and worried about feeling incompetent when assessing student work potentially (co-)produced with AI. This frames teacher AI anxiety as a genuine emotional and professional response to role reconfiguration — not mere resistance — and argues for supporting teacher confidence and well-being, not just tool training.
 
+**Institutional support works on anxiety through appraisals, not reassurance.** A two-wave survey of 547 Chinese undergraduates
+ ([[school-support-ai-learning-anxiety-control-value-2026|Jiang, Chen & Chen, 2026]]) traced how perceived school support relates to
+ AI learning anxiety through control-value appraisals — the learner's sense of competence (control) and of the tool's usefulness
+ (value). Support predicted lower anxiety directly (β = −0.160) but the indirect routes carried 69.5% of the total association
+ (−0.364 of −0.524), running through AI learning self-efficacy (−0.207), [[technology-acceptance-model|perceived usefulness]] (−0.083), and the sequential
+ self-efficacy → usefulness path (−0.103); self-efficacy also fed usefulness (β = 0.587). A first-order model showed the support
+ *dimensions* were not independently doing the work — only informational support retained a significant path to self-efficacy
+ (β = 0.288) — and an artificial neural network cross-validation ranked self-efficacy (relative importance 100.0) and perceived
+ usefulness (63.6) as the most stable predictors of anxiety. The implication is that institutional encouragement aimed at anxiety
+ only lands if it changes what students believe about their own capability and the tool's usefulness; general reassurance does not
+ alter the appraisals that generate the anxiety.
+
 This direction connects AI anxiety to [[motivation]], [[ai-literacy]], [[student-experience]], and [[self-regulated-learning]].
 
 ## Career-related AI anxiety
@@ -60,7 +72,7 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[ai-campus-wellbeing-tools|AI campus well-being tools]] span prevention (improved feedback collection) and intervention (advancing mental-health detection).
 - [[affective-text-wearable-student-health|Affective text + wearable sensing]] (a year-long study of 458 students with Oura rings) shows ultra-brief naturalistic text can complement wearable physiological sensing for longitudinal student health monitoring — a concrete AI-enabled stress-detection pathway.
 - This links to [[affective-computing]] and [[affective-tutoring]], where AI reads and responds to emotional state.
-- **Which stressors the model weighs — and why context matters.** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] offer a [[machine-learning]] window on which stressors actually drive student distress in a non-Western context. Feature-importance analysis on 1,100 survey responses put blood pressure first (15.6%) and **teacher-student relationship second (10.0%)** — ahead of sleep quality (9.3%), depression (8.3%) and social support (7.6%) — while anxiety level ranked ninth at 4.8%, which the authors read as evidence that student stress is multi-dimensional rather than driven by a single psychological indicator. They attribute the salience of the teacher-student relationship to the comparatively hierarchical educational environment in Pakistan and present it as a hypothesis for locally collected data, underlining that stress models and their feature weights are context-dependent and cannot be assumed to transfer across student populations.
+- **Which stressors the model weighs — and why context matters.** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] offer a [[machine-learning]] window on which stressors actually drive student distress in a [[global-south|non-Western context]]. Feature-importance analysis on 1,100 survey responses put blood pressure first (15.6%) and **teacher-student relationship second (10.0%)** — ahead of sleep quality (9.3%), depression (8.3%) and social support (7.6%) — while anxiety level ranked ninth at 4.8%, which the authors read as evidence that student stress is multi-dimensional rather than driven by a single psychological indicator. They attribute the salience of the teacher-student relationship to the comparatively hierarchical educational environment in Pakistan and present it as a hypothesis for locally collected data, underlining that stress models and their feature weights are context-dependent and cannot be assumed to transfer across student populations.
 
 ## Why this is distinct from well-being
 
@@ -112,3 +124,4 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
 - [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
+- [[school-support-ai-learning-anxiety-control-value-2026]] — Perceived school support lowers AI learning anxiety mainly through control-value appraisals (69.5% mediated); ANN cross-validation (Jiang, Chen & Chen 2026)

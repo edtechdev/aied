@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-16T09:58:00-04:00"
+updated: "2026-09-16T13:00:00-04:00"
 type: concept
 tags: [experiential-learning, active-learning, higher-ed, project-based-learning, embodied-learning]
 level: [higher ed]
@@ -28,6 +28,20 @@ Experiential learning is closely related to [[active-learning]], [[project-based
 - **Cybersecurity labs:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|LLM-assisted cybersecurity instruction]] integrates a [[generative-ai]] instructional assistant into a virtual lab platform, supporting hands-on experiential skill building.
 - **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] uses a project-based, hands-on approach to teach robotics, addressing the lack of practical experience in classic programs.
 - **Simulation and embodied learning:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners experiment with simulated robots, and [[embodied-learning|embodied]] robot interaction grounds learning in direct experience.
+
+### Two forms of hands-on learning in an AI-supported curriculum
+
+A thematic review of 32 peer-reviewed studies of hands-on learning in AI-supported design education
+([[hands-on-learning-necessity-age-of-ai-review-2026|Yu, Liu & Zhu, 2026]]) argues that AI reorganizes rather than replaces
+experiential learning, and draws a distinction the knowledge base's other sources tend to collapse: *Embodied Hands-on*, which
+depends on bodily action, tools, and materials, and *Cognitive Hands-on*, which develops through continued operation, judgement,
+and adjustment of AI-generated outputs. Both run the same action–feedback–reflection–refinement cycle, but they draw feedback from
+different sources — real-world material resistance in the first case, language and visual outcomes in the second — so they should
+not be treated as equivalent or as substitutes. The review's caution is that generation efficiency can compress the exploratory
+phase: several included studies report reduced exploratory sketching and gradual trial-and-error, so more iterations enabled by AI
+need not mean greater iterative depth, and students can miss the failure and material-constraint encounters that make hands-on work
+educative. Consistent with this, [[prompt-engineering|prompting]] alone did not raise [[creativity]] in the reviewed work, whereas multi-step operations
+(generate, modify, select) did — again locating the learning in the learner's judgement rather than in the generation.
 
 Experiential learning connects to [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]], and [[higher-ed]] professional preparation.
 
@@ -62,3 +76,4 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[educasim-cs1-instructional-practice]] — EducaSim: role play with simulated students for teacher training
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[ai-personas-fieldwork-experiential-learning-2026]] — AI personas substituting for community fieldwork, with a five-indicator rubric for where the substitution fails (Elhajj et al. 2026)
+- [[hands-on-learning-necessity-age-of-ai-review-2026]] — Thematic review distinguishing Embodied Hands-on from Cognitive Hands-on in AI-supported design education (Yu, Liu & Zhu 2026)

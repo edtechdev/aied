@@ -1,7 +1,7 @@
 ---
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-14T06:30:00-04:00"
+updated: "2026-09-16T13:00:00-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 discipline: [language learning, writing education]
@@ -19,7 +19,7 @@ confidence: high
 - Research found that delegating *deeper* layers of writing — reasoning and argumentative logic — harms your independent writing more than delegating surface layers like grammar. Think about your last AI-assisted piece of writing. Which layer did you actually delegate, and what does that predict about what you can now do on your own?
 - The page warns that AI writing feedback is not language-neutral: personalizing feedback with a student's race, language, or disability can shift it in stereotype-aligned ways — such as overpraising or withholding critique. If you've received or given 'personalized' AI feedback, how would you detect that a tool was softening its critique for some learners?
 - The design guidance here is 'coaching, not composing' — have AI ask questions and critique outlines, but require the learner to produce prose first. Why might letting the learner draft before the AI intervenes protect ownership and judgment in ways a tool that writes the draft could not?
-- One finding: students often say 'it's OK because…' to rationalize AI use, moving the issue from plagiarism policing toward ethics and AI literacy. If you were designing a writing course, how would you build honesty and ethical judgment about AI into it, rather than relying on detection or punishment?
+- One finding: students often say 'it's OK because…' to rationalize AI use, moving the issue from plagiarism policing toward ethics and AI literacy. If you were designing a writing course, how would you build honesty and [[ethics|ethical]] judgment about AI into it, rather than relying on detection or punishment?
 
 ## Introduction
 
@@ -39,7 +39,7 @@ Writing is not merely output but a cognitive, social, and rhetorical process. Th
 
 - **Bias in personalized feedback (Marked Pedagogies):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] show that [[llm]] writing-feedback tools are not language-neutral: personalizing feedback with a student's race, ethnicity, ELL designation, learning disability, achievement, or motivation systematically shifts feedback in stereotype-aligned ways — including positive feedback bias and feedback withholding bias (overuse of praise, less substantive critique, assumptions of limited ability) for students marked by race, language, or disability, even when the essay is identical. This makes "[[personalized-learning|personalization]]" itself a bias vector that writing-feedback tools must audit and control.
 
-- **Academic integrity:** Survey evidence complicates the policing frame directly: among 504 sociology students ([[student-genai-use-views-writing|Kuznetsov et al., 2026]]), 65 percent had used GenAI for coursework but only 3 percent to generate assignment text and 2 percent to produce a full draft, while fear of an academic offence was the second most common concern (28 percent) and roughly a quarter reported no guidance at all (19 percent) or guidance they found unclear. On this evidence the writing-education problem is ambiguity about permitted use, not widespread text generation. [[nash-preservice-teachers-classroom-ai-policies-2026|Nash and Burriss (2026)]] show how such ambiguity is produced at the classroom level. Coding 27 preservice English language arts teachers' own classroom [[educational-policy-ai|AI policies]], they found that 26 of 27 permitted some [[generative-ai|generative AI]] use but overwhelmingly on teacher-specified terms, with 22 of 27 allowing AI for ideation and brainstorming while disallowing AI composition of sentences, paragraphs or papers. Limits were rarely operationalized — one participant allowed AI "to get your thinking started" and declared "this is where the line should be drawn" without saying where — and many policies simultaneously prohibited submitting AI text and held students responsible for the AI text they submitted, a contradiction that leaves students unable to comply. Twenty-two of the 27 policies were silent on reading altogether, ceding AI-supported comprehension work to no guidance at all.
+- **Academic integrity:** Survey evidence complicates the policing frame directly: among 504 sociology students ([[student-genai-use-views-writing|Kuznetsov et al., 2026]]), 65 percent had used GenAI for coursework but only 3 percent to generate assignment text and 2 percent to produce a full draft, while fear of an academic offence was the second most common concern (28 percent) and roughly a quarter reported no guidance at all (19 percent) or guidance they found unclear. On this evidence the writing-education problem is ambiguity about permitted use, not widespread text generation. [[nash-preservice-teachers-classroom-ai-policies-2026|Nash and Burriss (2026)]] show how such ambiguity is produced at the classroom level. Coding 27 [[teacher-education|preservice]] English language arts teachers' own classroom [[educational-policy-ai|AI policies]], they found that 26 of 27 permitted some [[generative-ai|generative AI]] use but overwhelmingly on teacher-specified terms, with 22 of 27 allowing AI for ideation and brainstorming while disallowing AI composition of sentences, paragraphs or papers. Limits were rarely operationalized — one participant allowed AI "to get your thinking started" and declared "this is where the line should be drawn" without saying where — and many policies simultaneously prohibited submitting AI text and held students responsible for the AI text they submitted, a contradiction that leaves students unable to comply. Twenty-two of the 27 policies were silent on reading altogether, ceding AI-supported comprehension work to no guidance at all.
 
 ### Writing as thinking
 
@@ -73,6 +73,16 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - **Use AI feedback within a human-centered process.** [[pairr-ai-peer-review-2025|PAIRR]] finds AI feedback is most useful combined with peer review and reflection; design feedback loops that keep the instructor and peer audience central.
 - **Audit automated feedback for bias.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] shows LLM feedback shifts in stereotype-aligned ways when personalized with student attributes — monitor for positive/withholding bias, and be explicit that personalization can be a bias vector.
 - **Guard the cognitive work of writing.** Watch for [[cognitive-offloading|over-reliance]] that bypasses planning, revision, and self-assessment; use AI at chosen stages ([[ai-writing-support-stage-ownership-2026|stage-based ownership]]) to protect student agency.
+
+- **Design for empowerment rather than enforcement.** A PLS-SEM study of 327 Chinese EFL undergraduates
+  ([[empowerment-ai-assisted-deep-revision-efl-writing-2026|Li & Zhang, 2026]]) tested the two levers writing instructors actually
+  hold and found only one of them works. AI [[prompt-engineering|prompting]] literacy strongly predicted perceived competence (β = 0.636), psychological
+  safety (β = 0.657), and [[motivation|intrinsic motivation]] (β = 0.439), and all three psychological needs partially mediated its link to deep
+  revision engagement (indirect effects 0.139, 0.119, and 0.197 respectively), with intrinsic motivation the strongest direct driver
+  of deep revision (β = 0.448, f² = 0.251) in a model explaining 50.0% of the variance. External mandates had no direct effect at all
+  (β = −0.013, p = 0.869, f² = 0.000). The practical translation is that requiring deep revision does not produce it — the
+  enforcing requirement may be needed to make revision happen at all, but the depth comes from building students' prompting
+  capability and the intrinsic motivation and psychological safety that follow from it.
 
 - **Address academic integrity constructively.** Move from policing AI use toward building [[ai-literacy]] and ethical-use framing that lets students use AI without unintentional misconduct.
 
@@ -134,3 +144,4 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[student-genai-use-views-writing]] — Student use of and views on GenAI for writing (Kuznetsov, Sheely & Baker 2026)
 - [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 motivation, engagement and performance (Lu et al. 2026)
 - [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
+- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — Prompting literacy and intrinsic motivation drive deep revision while external mandates have no direct effect (Li & Zhang 2026)
