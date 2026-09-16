@@ -1,7 +1,7 @@
 ---
 title: Assistive Technology
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [assistive-technology, accessibility, special-education, inclusive-learning, equity-in-ai-education, learning-design]
 level: [special education]
@@ -51,7 +51,7 @@ A 2026 scoping review of digital assistive [[ai-technologies|technologies]] for 
 - [[educational-policy-ai]]
 - [[neurodiversity]]
 - [[learning-design]]
-
+- [[speech-and-voice-technologies]]
 ## Connected Articles
 
 - [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities

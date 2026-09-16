@@ -1,7 +1,7 @@
 ---
 title: Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
 created: "2026-06-10T07:38:00-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [knowledge-tracing, llm, student-modeling, higher-ed, learning-analytics, generative-ai, student-experience, intelligent-tutoring, ai-literacy, scaffolding]
 research_method: [system development]
@@ -31,6 +31,7 @@ Curricula that deploy AI teaching assistants generate a byproduct — student in
 - [[generative-ai]] — powering the underlying language models
 - [[intelligent-tutoring]] — conversational AI teaching assistants
 - [[scaffolding]] — diagnostic support for instructor decision-making
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 
 - [[huang-interpretable-knowledge-tracing-2026]]

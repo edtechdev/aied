@@ -1,7 +1,7 @@
 ---
 title: "A Hybrid Collaborative Filtering and Knowledge Graph-Based Cross-Domain Recommendation Method for Multimodal Teaching Resources"
 created: "2026-09-16T10:56:19-04:00"
-updated: "2026-09-16T10:56:19-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [knowledge-graph, multimodal, personalized-learning, adaptive-learning, learning-analytics, ai-education]
 audience: [software developers, researchers]
@@ -46,7 +46,7 @@ For [[personalized-learning]] and [[adaptive-learning]] systems, the paper demon
 - [[student-modeling]]
 - [[curriculum-design]]
 - [[intelligent-tutoring]]
-
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 
 - [[fair-explainable-edu-recommendations]] — A related CAEAI hybrid (Graph-GRU) recommender for course materials, sharing the CF-plus-structured-semantics design

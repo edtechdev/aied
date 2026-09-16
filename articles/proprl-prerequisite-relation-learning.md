@@ -1,7 +1,7 @@
 ---
 title: "ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs"
 created: "2026-08-09T07:09:19-04:00"
-updated: "2026-08-24T09:30:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [adaptive-learning, knowledge-tracing, student-modeling, ai-education, personalized-learning, llm]
 research_method: [literature review]
@@ -60,6 +60,7 @@ ProPRL's property-aware approach — respecting directional irreversibility, agg
 - [[knowledge-tracing]]
 - [[personalized-learning]]
 - [[student-modeling]]
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis

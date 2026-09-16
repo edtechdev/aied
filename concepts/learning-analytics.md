@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-16T10:00:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback]
 category: [engagement, evaluation]
@@ -86,7 +86,7 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[llm]]
 - [[simulating-students]]
 - [[self-report-measures]]
-
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 - [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)

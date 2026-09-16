@@ -1,7 +1,7 @@
 ---
 title: Project-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-16T01:05:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [project-based-learning, active-learning, collaborative-learning, educational-robotics, higher-ed, k-12]
 level: [higher ed, k 12]
@@ -56,7 +56,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
+- [[arts-design-and-media-education]]
 ## Connected Articles
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
 

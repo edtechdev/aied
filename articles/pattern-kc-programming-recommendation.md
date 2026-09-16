@@ -1,7 +1,7 @@
 ---
 title: Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
 created: "2026-07-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [knowledge-tracing, personalized-learning, adaptive-learning, intelligent-tutoring, rag, generative-ai]
 audience: [software developers]
@@ -23,6 +23,7 @@ This work connects to core knowledge base themes: [[knowledge-tracing]] [[person
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
 - [[cs-education]]
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 
 - [[programming-its]]

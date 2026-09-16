@@ -1,7 +1,7 @@
 ---
 title: "How to Train Your Dragon: Evaluating Prompting and Fine-Tuning for GPT-Based Item Generation in L2 Listening Assessment"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 sources: ["raw/papers/gpt-item-generation-l2-listening-2026.md"]
 tags: ['educational-measurement', 'prompt-engineering', 'llm', 'language-learning']
@@ -31,7 +31,7 @@ Aryadoust and Wong compare **prompting vs. fine-tuning** for advancing automatic
 - [[language-learning]]
 - [[assessment-validity]]
 - [[prompt-engineering]]
-
+- [[speech-and-voice-technologies]]
 ## Connected Articles
 
 - [[llm-item-difficulty-prediction]] — LLM-based item difficulty prediction

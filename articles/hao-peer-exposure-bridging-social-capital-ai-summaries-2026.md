@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Peer Exposure and Creating Opportunities for Bridging Social Capital Through an AI-Generated Summary-Driven Learning Design in Online Discussion Forums"
 created: "2026-09-06T12:48:50-04:00"
-updated: "2026-09-06T12:48:50-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [generative-ai, online-teaching-and-learning, collaborative-learning, scaffolding, student-engagement, llm]
 research_method: [design-based research, mixed methods]
@@ -37,6 +37,7 @@ The study shifts attention from posting to the **viewing/attentional behaviours*
 - [[student-engagement]]
 - [[learning-analytics]]
 - [[community-of-inquiry]]
+- [[peer-assessment]]
 ## Connected Articles
 
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the Age of Generative AI

@@ -9,7 +9,7 @@ audience: [instructors, researchers, administrators]
 level: [k 12, early childhood]
 category: [framework]
 created: "2026-09-13T08:04:43-04:00"
-updated: "2026-09-13T08:04:43-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 ---
 
 > **Synthesis:** This mini review argues that the question of children's [[generative-ai|generative AI]] use is the wrong frame, and that the productive question is whether the adults around them support autonomy rather than control. Organising a scattered literature through [[self-determination-theory]], the authors distinguish dependent from autonomous [[cognitive-offloading]], map the psychological pathways from AI use to learning engagement and to [[academic-integrity]], and set out a developmental research agenda. Their central analytical move is to treat the family-school coordination that most guidance assumes as an untested hypothesis: two literatures on non-overlapping samples have never been tested together, and the review specifies three competing models — additive, synergistic and compensatory — that would discriminate between them.
@@ -34,7 +34,7 @@ The research agenda also names the conditions that make blanket advice unsafe. C
 - [[k-12]] — the developmental populations in scope
 - [[academic-integrity]] — moral cognition, self-evaluation and policy clarity as pathways
 - [[motivation]] — need satisfaction, enjoyment and retained cognitive agency
-
+- [[parents-and-families]]
 ## Connected Articles
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student dependency, AI literacy and self-efficacy
 - [[cognitive-offloading-metacognitive-review-2026]] — Cognitive offloading and metacognition review

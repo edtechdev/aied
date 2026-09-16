@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-09-16T10:56:19-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, learning-analytics, generative-ai, ai-education, intelligent-tutoring, curriculum-design, llm]
 category: [curriculum design]
@@ -63,7 +63,7 @@ Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curr
 - [[rag]]
 - [[agentic-ai]]
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 

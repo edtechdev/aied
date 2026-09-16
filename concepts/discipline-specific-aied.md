@@ -1,7 +1,7 @@
 ---
 title: "AIEd in the Disciplines"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-09-14T06:00:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [ai-education, discipline-specific-aied, stem-education, math-education, physics-education, cs-education, language-learning, writing-education, medical-education, humanities-education, business-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education]
@@ -108,7 +108,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[feedback]]
 - [[assessment]]
 - [[equity-in-ai-education]]
-
+- [[arts-design-and-media-education]]
 ## Connected Articles
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — Systematic review of AI in interdisciplinary higher education (59 studies)
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching

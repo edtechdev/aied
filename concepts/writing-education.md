@@ -3,7 +3,7 @@ title: Writing
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-16T14:45:00-04:00"
 type: concept
-tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
+tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-assessment]
 discipline: [language learning, writing education]
 level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
@@ -29,7 +29,7 @@ Writing is not merely output but a cognitive, social, and rhetorical process. Th
 
 - **Automated essay scoring:** [[automated-essay-scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] and [[aiawe-automated-writing-evaluation|AIAWE]] evaluate student writing at scale, raising questions about [[assessment-validity|construct validity]] and the reduction of writing to measurable features. For short argumentative writing (about 150–200 words) in Spanish, AI scoring agreement varies sharply by rubric dimension ([[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al., 2026]]): structure- and register-oriented items — introduction, conclusion, register, nominal agreement, subject–verb agreement — reached moderate chance-corrected agreement with human raters in the 2025 edition, while micro-level linguistic items (vocabulary, syntax, punctuation, connectors, argumentation) stayed in the fair-to-slight range. This suggests LLM assistance is most defensible for macro-level discourse features, and that low-level language conventions should keep deterministic tooling or [[human-in-the-loop-ai|human review]].
 
-- **Writing feedback:** [[ai-feedback-quality|AI feedback quality]] research ([[genai-teacher-feedback-comparison|GenAI vs. teacher feedback]], [[care-full-feedback-genai|care-full feedback]], [[repeated-ai-writing-feedback-semester|repeated AI feedback]]) examines whether AI feedback improves writing and how it compares to human feedback. The PAIRR model ([[pairr-ai-peer-review-2025|Peer and AI Review + Reflection]]) combines AI with [[peer-review]] and finds AI feedback is most useful in a human-centered process.
+- **Writing feedback:** [[ai-feedback-quality|AI feedback quality]] research ([[genai-teacher-feedback-comparison|GenAI vs. teacher feedback]], [[care-full-feedback-genai|care-full feedback]], [[repeated-ai-writing-feedback-semester|repeated AI feedback]]) examines whether AI feedback improves writing and how it compares to human feedback. The PAIRR model ([[pairr-ai-peer-review-2025|Peer and AI Review + Reflection]]) combines AI with [[peer-assessment]] and finds AI feedback is most useful in a human-centered process.
 
 - **Writing process support and agency:** [[agency-gap-ai-writing|Agency gap research]] and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] explore how AI changes the writing process from planning to revision, and how students' [[agency]] is affected when AI participates at different stages.
 
@@ -47,7 +47,7 @@ Because writing is a cognitive process, AI-in-writing research connects to [[cog
 
 [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] sharpens this with a **layer-sensitive** account of [[cognitive-offloading|cognitive offloading]] in GenAI-assisted academic writing: delegating *deeper* layers (reasoning, argumentative logic) carries a stronger negative association with independent no-AI writing quality and [[critical-thinking|higher-order thinking]] than delegating surface layers (grammar, vocabulary). Open AI collaboration yielded the best supported product but the worst independent outcomes, while bounded support with reflection preserved competence — evidence that GenAI writing support is not uniformly harmful but its effect depends on which cognitive layer students delegate.
 
-[[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] extend this thinking to *multimodal* composing by younger writers. Having 60 [[k-12|Grade 5]] students externalize their narratives as AI-generated images and short videos produced sustained [[self-report-measures|self-reported]] gains in interpretation, analysis, evaluation, and explanation — the facets multimodal resemiotisation exercises — but **no gain in inference**. Making meaning visually explicit lowered the demand to infer implicit meaning from text, exactly the offloading mechanism Chen describes; only structured peer discussion restored occasions for inference. The study cautions that [[multimodal|multimodal AI]] composing helps young writers reflect on clarity and coherence while potentially skimming off the inferential work that text-only writing preserves — a design consideration for writing instructors pairing AI [[visualization|visuals]] with peer [[peer-review|feedback]].
+[[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] extend this thinking to *multimodal* composing by younger writers. Having 60 [[k-12|Grade 5]] students externalize their narratives as AI-generated images and short videos produced sustained [[self-report-measures|self-reported]] gains in interpretation, analysis, evaluation, and explanation — the facets multimodal resemiotisation exercises — but **no gain in inference**. Making meaning visually explicit lowered the demand to infer implicit meaning from text, exactly the offloading mechanism Chen describes; only structured peer discussion restored occasions for inference. The study cautions that [[multimodal|multimodal AI]] composing helps young writers reflect on clarity and coherence while potentially skimming off the inferential work that text-only writing preserves — a design consideration for writing instructors pairing AI [[visualization|visuals]] with peer [[peer-assessment|feedback]].
 
 A dimension-specific pattern recurs across this literature, and it is a useful diagnostic. In the primary-level L2 writing program, emotional and behavioural [[student-engagement|engagement]] rose while cognitive and metacognitive engagement did not, and the authors name diminished self-monitoring during writing as an explicit risk of GenAI support ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]). Enjoyment and on-task activity are therefore not evidence that deeper processing is happening — the same distinction the offloading research draws when it asks which layer of cognitive work a student has delegated.
 
@@ -65,7 +65,7 @@ This coaching-not-composing stance is the writing-domain expression of the knowl
 
 ### Connections
 
-Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality]], [[academic-integrity]], [[cognitive-offloading]], [[ai-literacy]], [[language-learning]], [[formative-assessment]], [[peer-review]], [[metacognition]], [[self-regulated-learning]], and [[higher-ed]]. It is a domain where AI's capabilities and risks are both highly visible, making it a rich site for studying how AI transforms pedagogy, [[assessment]], and the very nature of authorship and [[agency]].
+Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality]], [[academic-integrity]], [[cognitive-offloading]], [[ai-literacy]], [[language-learning]], [[formative-assessment]], [[peer-assessment]], [[metacognition]], [[self-regulated-learning]], and [[higher-ed]]. It is a domain where AI's capabilities and risks are both highly visible, making it a rich site for studying how AI transforms pedagogy, [[assessment]], and the very nature of authorship and [[agency]].
 
 ## Implications for writing instructors
 
@@ -98,7 +98,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[llm]]
 - [[generative-ai]]
 - [[formative-assessment]]
-- [[peer-review]]
+- [[peer-assessment]]
 - [[self-regulated-learning]]
 - [[student-experience]]
 - [[feedback-literacy]]

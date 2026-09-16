@@ -111,7 +111,7 @@ The **boundary object** function — ChatGPT's interpretive flexibility across d
 3. **Design tasks that co-activate CT and CrT through recursive inquiry** — Open-ended case studies, argumentative writing with multi-perspective AI dialogue, project-based tasks requiring both generation and analytical reflection. This is the practical implementation of the dual-lens framework.
 4. **Implement reflection protocols for cognitive [[regulation]]** — Guided prompts after each interaction: "What was most useful/misleading?", "How did this shape your thinking?", "What would you change in your next prompt?" Reinforces [[metacognition|metacognitive monitoring]].
 5. **Leverage ChatGPT as a connective node for interdisciplinary thinking** — Cross-domain tasks that draw on ChatGPT's broad knowledge while critically examining disciplinary assumptions. Supports [[ai-learning-companions-framework|dialogic partner]] and connectivist learning.
-6. **Position feedback as a multi-source process** — Triangulate [[ai-feedback-quality|AI feedback]] with [[peer-review|peer review]], instructor input, and self-assessment. Creates [[feedback|multi-source feedback loops]] that mitigate overreliance.
+6. **Position feedback as a multi-source process** — Triangulate [[ai-feedback-quality|AI feedback]] with [[peer-assessment|peer assessment]], instructor input, and self-assessment. Creates [[feedback|multi-source feedback loops]] that mitigate overreliance.
 
 ## Limitations of the Review
 

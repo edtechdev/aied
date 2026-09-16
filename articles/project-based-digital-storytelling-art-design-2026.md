@@ -1,7 +1,7 @@
 ---
 title: "In the AI era: A project-based digital storytelling framework for art and design education"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 sources: ["raw/papers/project-based-digital-storytelling-art-design-2026.md"]
 tags: ["project-based-learning", "storytelling-in-education", "generative-ai", "creativity", "higher-ed"]
@@ -44,7 +44,7 @@ The model is grounded in an integrative theoretical framework: [[constructivist]
 - [[human-ai-collaboration]]
 - [[design-thinking]]
 - [[agency]]
-
+- [[arts-design-and-media-education]]
 ## Connected Articles
 
 - [[motibo-digital-storytelling-robots-motivation-2026]] — shares digital storytelling as a motivating pedagogical medium (with social robots), complementing this study's PBL-DS framing.

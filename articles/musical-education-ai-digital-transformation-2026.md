@@ -1,7 +1,7 @@
 ---
 title: "Challenges for Musical Education in the Age of AI and Digital Transformation"
 created: "2026-08-10T09:10:02-04:00"
-updated: "2026-08-24T12:30:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [humanities-education, generative-ai, curriculum-design, ai-literacy, ai-education]
 audience: [instructors]
@@ -81,7 +81,7 @@ The challenges are real, deep, and interconnected, and cannot be addressed by ad
 - [[curriculum-design]]
 - [[generative-ai]]
 - [[ai-education]]
-
+- [[arts-design-and-media-education]]
 ## Connected Articles
 
 - [[ai-enabled-serious-games]]

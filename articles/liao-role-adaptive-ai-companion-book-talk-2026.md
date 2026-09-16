@@ -1,7 +1,7 @@
 ---
 title: "Beyond a single role: Justifying a role-adaptive framework for AI companions through a comparative study in elementary book talk"
 created: "2026-09-02T09:45:00-04:00"
-updated: "2026-09-02T09:45:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: ['conversational-ai', 'pedagogical-agent', 'human-ai-collaboration', 'k-12', 'generative-ai']
 research_method: [mixed methods, quantitative, qualitative]
@@ -44,7 +44,7 @@ confidence: high
 - [[pedagogical-agent]] — the AI companion as an agent whose role can be adapted
 - [[human-ai-collaboration]] — AI as a complementary, role-adaptive partner rather than replacement
 - [[learning-design]] — designing for the multi-stakeholder book-talk ecosystem
-
+- [[parents-and-families]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — framework for AI learning companions

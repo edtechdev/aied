@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-16T10:00:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 discipline: [language learning]
@@ -96,7 +96,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[governance]] — Oversight and accountability for equitable AI
 - [[agency]] — Ensuring AI empowers rather than replaces student voice
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
-
+- [[parents-and-families]]
 ## Connected Articles
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[kumar-genai-computing-education-systematic-review-2026]] — Skill-gap vs resource-gap: two equity mechanisms requiring different remedies

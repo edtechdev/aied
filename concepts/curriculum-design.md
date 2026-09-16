@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-09-14T11:13:59-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 tags: [curriculum-design, learning-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
@@ -71,7 +71,7 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[metacognition]]
 - [[prompt-engineering]]
 - [[collaborative-learning]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI-for-constructive-alignment guidance (McInnes et al. 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective

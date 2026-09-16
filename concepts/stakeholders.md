@@ -1,7 +1,7 @@
 ---
 title: Stakeholders
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [stakeholders, teacher-role, student-experience, administrator, learning-design, higher-ed, k-12, ai-literacy]
 audience: [instructors, learners, administrators]
@@ -78,7 +78,7 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 - [[higher-ed]]
 - [[k-12]]
 - [[adult-learning]]
-
+- [[parents-and-families]]
 ## Connected Articles
 
 - [[genai-student-experiences-uk-he-survey-2026]] — Student experiences of GenAI in UK higher education

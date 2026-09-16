@@ -3,7 +3,7 @@ title: "Presumed Effective: The Manufacturing of an Evidence Base for AI-in-Educ
 created: "2026-09-05T12:00:00-04:00"
 updated: "2026-09-14T13:40:55-04:00"
 type: article
-tags: [research-methods-aied, meta-analysis-systematic-review, limitations-in-aied-research, ai-ed-evaluation, ai-education, generative-ai, learning-gains, educational-policy-ai, peer-review, academic-integrity, assessment-validity]
+tags: [research-methods-aied, meta-analysis-systematic-review, limitations-in-aied-research, ai-ed-evaluation, ai-education, generative-ai, learning-gains, educational-policy-ai, peer-assessment, academic-integrity, assessment-validity]
 research_method: [secondary analysis, meta-analysis, research methods]
 level: [k 12, higher ed, adult learning]
 category: [synthesis, evaluation, policy]
@@ -32,7 +32,7 @@ confidence: high
 - Heterogeneity statistics should be read with their limits in mind: an I² value alone does not establish the dispersion of true effects, so pooled AI effects reported without τ² and a prediction interval should not be treated as a stable description of what AI does in classrooms.
 - Institutions, funders, and policymakers should treat AIED meta-analyses as claims requiring independent methodological vetting, especially when they feed procurement, grant priorities, or [[educational-policy-ai|national AI education policy]], given that the audited corpus had 2,467 citations and was produced in high-impact venues.
 - Journals and editors should require full data transparency for meta-analyses and statistical review competence, since none of the 14 audited studies would have failed had reviewers been able to reproduce effect-size extraction, dependence handling, heterogeneity, and bias tests.
-- [[peer-review|Reviewers]] should be tasked with checking a sample of primary studies against inclusion criteria, a practice that flagged fabricated references attributed to a real researcher in the audited corpus.
+- [[peer-assessment|Reviewers]] should be tasked with checking a sample of primary studies against inclusion criteria, a practice that flagged fabricated references attributed to a real researcher in the audited corpus.
 - Retraction is necessary but insufficient: post-retraction citations continued uncorrected in 60% of sampled papers, so indexes, citation exports, and the citing literature need explicit retraction flags and notes.
 - Researchers and students should be trained to distinguish a coherent intervention-outcome relationship from a pooled average of unlike outcomes, and to question whether a tool name such as ChatGPT can carry the causal weight that a meta-analysis places on it.
 - Claims about "[[ai-education|AI in education]]" should be reframed from whether a product category works to whether a designed learning activity works, which is the question policy and practice can actually act on.

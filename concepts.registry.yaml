@@ -204,6 +204,19 @@ concepts:
     - declaring AI use
     - disclosure of AI use
     - transparency about AI use
+  arts-design-and-media-education:
+    title: Arts, Design and Media Education
+    aliases:
+    - architectural design education
+    - architecture education
+    - art education
+    - arts education
+    - design studio
+    - interior design education
+    - media arts
+    - music education
+    - studio pedagogy
+    - visual arts education
   assessment:
     title: Assessment
     aliases:
@@ -1146,6 +1159,16 @@ concepts:
     - open weights
     - open-source
     - OSS
+  parents-and-families:
+    title: Parents and Families
+    aliases:
+    - caregivers
+    - families
+    - family engagement
+    - home learning
+    - parent involvement
+    - parental involvement
+    - parents
   pedagogical-agent:
     title: Pedagogical Agent
     aliases:
@@ -1194,11 +1217,13 @@ concepts:
     - teaching practice
     - teaching practices
     - teaching strategies
-  peer-review:
-    title: Peer Review
+  peer-assessment:
+    title: Peer Assessment
     aliases:
     - peer assessment
     - peer feedback
+    - peer grading
+    - peer evaluation
     - peer review
   personalized-learning:
     title: Personalized Learning
@@ -1316,6 +1341,18 @@ concepts:
     - randomized trial
     - rct
     - rcts
+  recommender-systems-and-learning-paths:
+    title: Recommender Systems and Learning Paths
+    aliases:
+    - course sequencing
+    - curriculum sequencing
+    - learning path
+    - learning paths
+    - learning pathways
+    - prerequisite relations
+    - recommendation engine
+    - recommender system
+    - recommender systems
   reducing-ai-misuse:
     title: Reducing AI Misuse
     aliases:
@@ -1500,6 +1537,17 @@ concepts:
     - special education
     - special needs
     - special needs education
+  speech-and-voice-technologies:
+    title: Speech and Voice Technologies
+    aliases:
+    - automatic speech recognition
+    - oral assessment
+    - pronunciation feedback
+    - speech recognition
+    - spoken dialogue
+    - text-to-speech
+    - voice assistant
+    - voice-first
   stakeholders:
     title: Stakeholders
     aliases:
@@ -1850,6 +1898,7 @@ sections:
     - prompt-engineering
     - vibe-coding
     - multimodal
+    - speech-and-voice-technologies
     - visualization
     - educational-nlp
     - reinforcement-learning
@@ -1868,6 +1917,7 @@ sections:
     - intelligent-tutoring
     - adaptive-learning
     - personalized-learning
+    - recommender-systems-and-learning-paths
     - pedagogical-agent
     - affective-tutoring
     - affective-computing
@@ -1893,6 +1943,7 @@ sections:
     - english-education
     - business-education
     - humanities-education
+    - arts-design-and-media-education
     - medical-education
   - label: Levels and contexts
     items:
@@ -1917,7 +1968,7 @@ sections:
     - authentic-assessment
     - group-work
     - eportfolio
-    - peer-review
+    - peer-assessment
     - automated-assessment
     - automated-essay-scoring
     - automated-question-generation
@@ -1954,6 +2005,9 @@ sections:
     - student-experience
     - career-development-and-readiness
     - ai-anxiety-and-stress
+  - label: Families and communities
+    items:
+    - parents-and-families
   - label: Instructors
     items:
     - teacher-ai-competency
@@ -2002,6 +2056,7 @@ sections:
     - explainable-ai
 redirects:
   accessible-learning: inclusive-learning
+  peer-review: peer-assessment
   ai-tutoring: intelligent-tutoring
   automated-grading: automated-assessment
   blended-learning: online-teaching-and-learning

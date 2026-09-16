@@ -38,7 +38,7 @@ Improved work while using AI is not necessarily evidence of learning that persis
 
 “AI-supported learning” often combines several changes: new feedback, additional reflection, peer discussion, different task sequences, and altered assessment incentives. A successful package does not establish which components are necessary or which mechanism produced the benefit.
 
-The multisite experiment [[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design in higher education]] provides a useful advance. Among 1,176 first-year undergraduates, reflective and hybrid feedback designs outperformed direct [[ai-feedback-quality|AI feedback]] on delayed AI-free transfer. The hybrid condition combined self-evaluation, [[peer-review|peer feedback]], and AI critique. This supports investigating how feedback is organized and used, rather than treating access as the intervention.
+The multisite experiment [[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design in higher education]] provides a useful advance. Among 1,176 first-year undergraduates, reflective and hybrid feedback designs outperformed direct [[ai-feedback-quality|AI feedback]] on delayed AI-free transfer. The hybrid condition combined self-evaluation, [[peer-assessment|peer feedback]], and AI critique. This supports investigating how feedback is organized and used, rather than treating access as the intervention.
 
 Further studies should isolate the contribution and timing of initial independent attempts, self-explanation, peer input, corrective feedback, hints, and fading assistance. They should test how those components interact with [[prior-knowledge|prior knowledge]] and task difficulty.
 

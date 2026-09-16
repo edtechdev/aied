@@ -1,7 +1,7 @@
 ---
 title: "The Competence Paradox: Negotiating Ease, Risk, and Creative Identity in Text-to-Image Generative AI Use Among Art and Design Students"
 created: "2026-08-13T05:23:56-04:00"
-updated: "2026-08-13"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [generative-ai, creativity, ai-literacy, student-experience, higher-ed, trust-calibration, assessment-validity, teacher-role]
 research_method: [theoretical analysis]
@@ -42,7 +42,7 @@ The study draws on a single institution's art and design students and faculty, b
 - [[higher-ed]]
 - [[trust-calibration]]
 - [[assessment-validity]]
-
+- [[arts-design-and-media-education]]
 ## Connected Articles
 
 - [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse

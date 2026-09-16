@@ -1,7 +1,7 @@
 ---
 title: "Transforming clicks into critical thinking: An AI-based media literacy program for children"
 created: "2026-09-03T13:40:00-04:00"
-updated: "2026-09-03T13:40:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [critical-thinking, ai-literacy, early-childhood-elementary-ai-education, k-12, mixed-methods-research, generative-ai, curriculum-design, ethics]
 research_method: [mixed methods, quasi-experiment]
@@ -20,7 +20,7 @@ confidence: high
 - **Between-group comparisons confirmed the effect**: post-test differences favored the experimental group with large effect sizes — Cohen's d = 1.12 (reading), 1.18 (writing), and 1.31 (total literacy) — positioning AI-supported instruction as a catalyst for analytical, productive, and reflective [[critical-thinking|media skills]].
 - **Qualitative themes revealed multidimensional development**: analysis of interviews, student artifacts (posters, drawings, slogans), and classroom observations surfaced four themes — positive uses of media, awareness of negative aspects, contributions to critical media literacy, and student feedback on AI-supported instruction — showing cognitive, attitudinal, and behavioral transformation.
 - **Six domains of critical media literacy growth emerged**: digital self-protection and [[privacy|data privacy]], purposeful and responsible media use, safe communication and boundary awareness, critical evaluation and [[ai-literacy|misinformation]] awareness, online risk awareness, and media ethics and [[k-12|digital citizenship]].
-- **The 5E model operationalized AI as a [[pedagogical-agent|pedagogical agent]]**: AI tools were embedded phase-by-phase (e.g., ChatGPT for reflective questions and Q&A, Grammarly and Canva AI for content refinement, Padlet for [[peer-review|peer feedback]]) rather than used as isolated add-ons, with activities aligned to the Turkish Language and Social Studies curricula for [[curriculum-design|curricular]] coherence.
+- **The 5E model operationalized AI as a [[pedagogical-agent|pedagogical agent]]**: AI tools were embedded phase-by-phase (e.g., ChatGPT for reflective questions and Q&A, Grammarly and Canva AI for content refinement, Padlet for [[peer-assessment|peer feedback]]) rather than used as isolated add-ons, with activities aligned to the Turkish Language and Social Studies curricula for [[curriculum-design|curricular]] coherence.
 
 ## Connected Concepts
 
@@ -30,7 +30,7 @@ confidence: high
 - [[k-12]]
 - [[mixed-methods-research]]
 - [[generative-ai]]
-
+- [[parents-and-families]]
 ## Connected Articles
 
 - [[li-mroziak-reorienting-critical-ai-literacy]] — Critical AI literacy reoriented toward community-rooted praxis

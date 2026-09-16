@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-14T06:30:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [ai-education, generative-ai, multimodal, llm, intelligent-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
 research_method: [educational measurement]
@@ -96,7 +96,8 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[inclusive-learning]]
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 - [[virtual-and-augmented-reality]] — gesture, voice and spatial input as learning channels
-
+- [[speech-and-voice-technologies]]
+- [[arts-design-and-media-education]]
 ## Connected Articles
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Video PSA composition on AI ethics as critical AI literacy pedagogy (Burriss et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation

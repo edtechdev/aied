@@ -19,7 +19,7 @@ Ateş conducted a multisite, cluster-randomized, longitudinal field experiment i
 - **1,176 first-year undergraduates** from 48 course sections across 4 universities
 - **3 science domains** — [[biology-education|biology]], [[chemistry-education|chemistry]], [[physics-education|physics]]
 - **4 feedback conditions** randomized at the section level:
-  1. [[peer-review|Peer feedback]] only (control)
+  1. [[peer-assessment|Peer feedback]] only (control)
   2. Direct GenAI-supported feedback — AI critique delivered to students
   3. Reflective GenAI-supported feedback — self-evaluation first, then AI critique
   4. Hybrid design — self-evaluation → peer feedback → GenAI critique
@@ -62,7 +62,7 @@ g revision.**
 - [[self-regulated-learning]]
 - [[agency]]
 - [[feedback]]
-- [[peer-review]]
+- [[peer-assessment]]
 - [[transfer-of-learning]]
 
 ## Connected Articles

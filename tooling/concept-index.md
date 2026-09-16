@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 191
+**Total concepts:** 195
 
 ## Foundations of AI in education
 
@@ -114,6 +114,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`rag`** — RAG (Retrieval-Augmented Generation) — phrases: rag; retrieval augmentation; retrieval augmented; retrieval-augmented; retrieval-augmented generation
 - **`reinforcement-learning`** — Reinforcement Learning — phrases: reinforcement learning; reward model; RLHF
 - **`simulation`** — Simulation — phrases: simulation; simulation-based learning; simulations; simulator; virtual lab; virtual laboratory; virtual patient
+- **`speech-and-voice-technologies`** — Speech and Voice Technologies — phrases: automatic speech recognition; oral assessment; pronunciation feedback; speech recognition; spoken dialogue; text-to-speech; voice assistant; voice-first
 - **`vibe-coding`** — Vibe Coding — phrases: building software by prompting; end user development; end-user development; natural language programming; natural-language programming; prompt-driven programming; vibe coding; vibe-coding
 - **`virtual-and-augmented-reality`** — Virtual and Augmented Reality — phrases: augmented reality; extended reality; head mounted display; head-mounted display; immersive environment; immersive learning; immersive simulation; metaverse; mixed reality; virtual environment; virtual reality
 - **`visualization`** — Visualization — phrases: dashboards; data visualization; visual analytics; visual representations; visualisation; visualization
@@ -130,6 +131,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`learning-analytics`** — Learning Analytics — phrases: analytics; educational data mining; learning analytics
 - **`pedagogical-agent`** — Pedagogical Agent — phrases: animated pedagogical agent; learning agent; learning companion; learning partner; pedagogical agent; tutor agent; virtual agent
 - **`personalized-learning`** — Personalized Learning — phrases: adaptive learning path; individualized learning; personalisation; personalised learning; personalization; personalized learning
+- **`recommender-systems-and-learning-paths`** — Recommender Systems and Learning Paths — phrases: course sequencing; curriculum sequencing; learning path; learning paths; learning pathways; prerequisite relations; recommendation engine; recommender system; recommender systems
 - **`simulating-students`** — Simulating Students — phrases: AI students; simulate learners; simulated learners; simulated students; simulating students; student simulation; synthetic students
 - **`student-modeling`** — Learner Modeling and Adaptive Instruction — phrases: learner model; learner modeling; learner modeling and adaptive instruction; student model; student modeling
 
@@ -137,6 +139,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ### Subject areas
 
+- **`arts-design-and-media-education`** — Arts, Design and Media Education — phrases: architectural design education; architecture education; art education; arts education; design studio; interior design education; media arts; music education; studio pedagogy; visual arts education
 - **`biology-education`** — Biology Education — phrases: biological; biological education; biology; biology education; biology laboratory; biology learning; life sciences
 - **`business-education`** — Business Education — phrases: business degree; business education; business school; business schools; economics education; management education
 - **`chemistry-education`** — Chemistry Education — phrases: chemical education; chemistry; chemistry education; chemistry laboratory; chemistry learning
@@ -178,7 +181,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`feedback-literacy`** — Feedback Literacy — phrases: feedback competency; feedback literacy; feedback skills
 - **`formative-assessment`** — Formative Assessment — phrases: assessment for learning; formative; formative assessment
 - **`group-work`** — Group Work — phrases: collaborative assessment; group assessment; group assessments; group project; group projects; group work; group-based assessment; groupwork; team-based assessment
-- **`peer-review`** — Peer Review — phrases: peer assessment; peer feedback; peer review
+- **`peer-assessment`** — Peer Assessment — phrases: peer assessment; peer feedback; peer grading; peer evaluation; peer review
 - **`summative-assessment`** — Summative Assessment — phrases: closed-book exam; examination; final exam; high-stakes test; oral exam; proctored exam; summative; summative assessment
 
 ### Measurement and validity
@@ -214,6 +217,10 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`career-development-and-readiness`** — Career Development and Readiness — phrases: AI career anxiety; career adapt-abilities; career adaptability; career development; career readiness; employability; workforce readiness
 - **`stakeholders`** — Stakeholders — phrases: instructional designers; policymakers; stakeholder; stakeholders
 - **`student-experience`** — Student Experience — phrases: learner experience; student accountability; student experience; student experiences; student voice
+
+### Families and communities
+
+- **`parents-and-families`** — Parents and Families — phrases: caregivers; families; family engagement; home learning; parent involvement; parental involvement; parents
 
 ### Instructors
 
@@ -262,7 +269,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`hallucination-risk`** — Hallucination Risk — phrases: AI hallucination; hallucination; hallucination risk; hallucinations; LLM hallucination
 - **`privacy`** — Privacy — phrases: data privacy; data protection; privacy; student privacy
 - **`trust`** — Trust — phrases: trust; trust in AI; trustworthiness
-- **`trust-calibration`** — Trust Calibration — phrases: appropriate trust; calibrated trust; over-trust; overtrust; trust calibration
+- **`trust-calibration`** — Trust Calibration — phrases: appropriate trust; calibrated trust; over-trust; overtrust; trust calibration; miscalibration; miscalibrated trust; miscalibration of trust
 
 ## Merged / absorbed (redirects to the canonical page)
 
@@ -282,6 +289,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - `instructional-design` → **`learning-design`**
 - `mooc` → **`online-teaching-and-learning`**
 - `over-reliance` → **`cognitive-offloading`**
+- `peer-review` → **`peer-assessment`**
 - `plagiarism-detection` → **`ai-detection`**
 - `programming-education` → **`cs-education`**
 - `social-robots` → **`educational-robotics`**
