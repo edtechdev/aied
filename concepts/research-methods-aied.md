@@ -1,14 +1,14 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-09-16T01:55:00-04:00"
+updated: "2026-09-16T14:48:35-04:00"
 type: concept
 tags: [ai-education, educational-measurement, rct, benchmark, ai-ed-evaluation, higher-ed]
 research_method: [educational measurement, experiment, randomized controlled trial, benchmark, research methods]
 level: [higher ed]
 category: [evaluation]
 confidence: high
-connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
+connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 ---
 
 > **Research methods in AIED** — the set of empirical designs, data-collection strategies, and analytic techniques researchers use to study [[ai-education|AI in education]]: whether and how AI tools support (or harm) learning, and under what conditions. The knowledge base's corpus spans experimental, survey, qualitative, design-based, computational-benchmark, and review methods. Each has distinct strengths and limitations, and choosing among them involves trade-offs among internal validity (confidence in causal claims), external validity (generalizability), ecological validity (real-world authenticity), and the feasibility of studying fast-moving AI tools.

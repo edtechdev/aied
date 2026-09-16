@@ -1,9 +1,10 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-15T12:56:46-04:00"
+updated: "2026-09-16T14:48:35-04:00"
 type: concept
 tags: [ai-ed-evaluation, assessment, llm, generative-ai, benchmark]
+connected_faqs: [reporting-interpreting-aied-research]
 research_method: [benchmark]
 category: [evaluation, assessment]
 confidence: high
