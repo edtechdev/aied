@@ -1,7 +1,7 @@
 ---
 title: "Generative AI Assessment Literacy Scale for Higher Education Students"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T13:40:00-04:00"
+updated: "2026-09-16T14:10:00-04:00"
 type: article
 tags: [ai-literacy, assessment, feedback, academic-integrity, educational-measurement, higher-ed]
 audience: [educators, assessment designers, institutions]
@@ -10,35 +10,39 @@ sources: [raw/papers/10.3389_feduc.2026.1934632.md]
 confidence: high
 ---
 
-> **Synthesis:** This psychometric study develops and validates the [[generative-ai|Generative AI]] Assessment Literacy Scale (GAA-LS), an 18-item, five-factor measure of higher education students' capacity to use GenAI responsibly in assessed work. Validation across two samples supports its reliability and [[assessment-validity|construct validity]], and links GAA-LS scores positively to feedback engagement and academic integrity intention, with feedback engagement partly accounting for the association.
+> **Synthesis:** This study develops and validates the Generative AI Assessment Literacy Scale (GAA-LS), an 18-item measure of how well higher education students can use [[generative-ai|generative AI]] responsibly in assessed work. Validation across two samples supports its five-dimension structure, its reliability, and its [[assessment-validity|construct validity]]. GAA-LS scores rise with feedback engagement, academic integrity intention, and responsible AI use intention, and the association with academic integrity intention runs partly through feedback engagement.
 
 ## Key Findings
 
-- The final GAA-LS comprises **18 items** across **five dimensions**: assessment criteria awareness (4 items), AI–task appropriateness judgment (4 items), verification and evidence checking (4 items), ethical attribution and academic integrity (3 items), and feedback uptake and revision literacy (3 items). Items use a five-point Likert scale.
-- Construct development was integrative: the measure captures the assessment-specific junction where general [[ai-literacy]], [[assessment]] literacy, [[feedback]] literacy, and [[academic-integrity]] are jointly activated, rather than replacing any of them.
-- **Reliability** was satisfactory to strong: Cronbach's alpha ranged .83–.88 across subscales and .93 for the total scale; McDonald's omega ranged .84–.88 (total .94); composite reliability .84–.89.
-- **Validity** evidence was strong: convergent validity was supported (AVE .60–.66), discriminant validity held (HTMT .54–.76, below the .85 threshold; factor correlations .46–.63), and [[educational-measurement]] invariance held across gender, discipline, and AI-use frequency groups.
-- GAA-LS total scores correlated with feedback engagement (r = .60), academic integrity intention (r = .51), and [[ethics|responsible AI]] use intention (r = .59). A structural model found a significant indirect association with academic integrity intention through feedback engagement (β = .21, 95% CI [.15, .28]), accounting for 31% of variance in feedback engagement and 36% in academic integrity intention.
+- **The scale defines GenAI assessment literacy as five related judgments.** Assessment criteria awareness, AI–task appropriateness judgment, verification and evidence checking, ethical attribution and academic integrity, and feedback uptake and revision literacy, each measured by a short Likert-scale subscale.
+- **It is an integrative construct rather than a replacement for existing literacies.** The scale targets the point where general [[ai-literacy]], [[assessment]] literacy, [[feedback]] literacy, and [[academic-integrity]] are jointly required: judging whether AI support fits the task, checking whether AI output can be trusted, disclosing assistance, and revising work without surrendering authorship.
+- **Reliability was strong.** Internal consistency was satisfactory to strong across every subscale and for the total scale, and composite reliability and average variance extracted supported the measurement model.
+- **The five-factor structure held, with broad validity support.** The hypothesised model fitted an independent confirmatory sample well and clearly outperformed higher-order, three-factor, and single-factor alternatives, with an ordinal-estimator check reaching the same conclusion. Convergent, discriminant, criterion-related, and known-group validity evidence were all obtained.
+- **The scale behaves comparably across student groups.** Measurement invariance held across gender, discipline, and AI-use frequency, so the instrument can be used to compare these groups with reasonable confidence.
+- **Higher literacy travelled with more feedback engagement and stronger integrity intentions.** Total scores correlated positively with feedback engagement, academic integrity intention, and responsible AI use intention, most strongly with feedback engagement. Subscale patterns were theoretically coherent — the feedback-uptake dimension tracked feedback engagement most closely, and the ethical-attribution dimension tracked academic integrity intention most closely.
+- **Feedback engagement partly explains the integrity link.** In the structural model, GenAI assessment literacy was associated with academic integrity intention both directly and indirectly through feedback engagement. Because the data are cross-sectional, this is evidence of indirect association rather than causal mediation.
+- **Experience and instructional support accompany stronger literacy.** Students reporting frequent AI use, prior AI training, or course-level disclosure rules scored higher than their counterparts, by small to moderate margins.
 
 ## Study Design & Method
 
-- **Design:** Two-study cross-sectional scale development and validation, following established instrument-development guidance. An initial pool of **30 items** was reduced through expert review (8 experts) to 26, after pilot testing with 48 students to 23, and through exploratory factor analysis to the final 18.
-- **Sample:** 1,386 [[self-report-measures|questionnaires]] returned from students at six higher education institutions in China; 1,284 valid responses retained (92.6%). Study 1 (n = 486) conducted item analysis and exploratory factor analysis; Study 2 (n = 798) conducted confirmatory factor analysis, validity testing, [[educational-measurement]] invariance, and structural modeling.
-- **Analyses:** EFA used principal axis factoring with oblimin rotation (KMO = .931; Bartlett χ²(153) = 4,862.17, p < .001; five-factor solution explaining 67.82% of variance; loadings .63–.84). CFA tested the five-factor correlated model against higher-order, three-factor, and one-factor alternatives (χ²(125) = 344.72, χ²/df = 2.76, CFI = .954, TLI = .944, RMSEA = .047, SRMR = .042), with an ordinal WLSMV robustness check supporting stability. Effects were estimated with 5,000 bootstrap samples.
-- **Measures:** GAA-LS plus feedback engagement (9 items, α = .89), academic integrity intention (6 items, α = .87), and responsible AI use intention (5 items, α = .88).
+The study is a two-study cross-sectional scale development and validation project, following established instrument-development guidance. An initial item pool drawn from the literature on assessment literacy, AI-supported assessment, feedback engagement, and academic integrity was refined through review by an eight-member expert panel, cognitive interviews and pilot testing with students, and exploratory factor analysis, leaving a final version of 18 items with five dimensions and at least three items per dimension. Every item is written to refer explicitly to course assignments, rubrics, feedback, disclosure rules, or revision decisions; no GenAI platform was evaluated by name, and no AI system generated responses or made psychometric decisions.
 
-## Implications for AI in Education
+Questionnaires were returned by students at six higher education institutions in China, and 1,284 valid responses were retained and randomly split. The exploratory subsample (486) carried the item analysis and exploratory factor analysis, run as principal axis factoring with oblimin rotation. The confirmatory subsample (798) carried confirmatory factor analysis and model comparison, reliability testing, convergent and discriminant validity, measurement invariance testing across gender, discipline, and AI-use frequency, criterion-related and known-group validity checks, and structural equation modelling in which the indirect association through feedback engagement was estimated by bootstrapping. Alongside the GAA-LS, participants completed short measures of feedback engagement, academic integrity intention, and responsible AI use intention. Common-method bias was examined through procedural design plus Harman's single-factor test, a one-factor confirmatory comparison, and a common-latent-factor sensitivity check, treated as diagnostic rather than conclusive.
 
-- The GAA-LS offers a diagnostic tool for instructors to identify where students need targeted support (e.g., disclosure rules vs. evidence checking vs. feedback uptake) rather than broad warnings about AI use — informing instruction in [[higher-ed]] settings.
-- For assessment design, the scale signals that assessment briefs should make explicit: [[assessment]] criteria, permitted and prohibited AI support, expectations for checking outputs, acknowledgement rules, and feedback use in revision.
-- For institutions, it provides a measurable way to gauge whether AI-use and disclosure policies translate into usable student knowledge, particularly when introducing disclosure rules or redesigning assessment tasks. Its grounding in [[self-regulated-learning]] and [[evaluative-judgement|evaluative judgment]] underscores the connection between understanding criteria, monitoring work quality, and acting responsibly on feedback.
+## Implications
+
+- **The scale is a diagnostic, not a verdict.** Its five subscales let instructors locate where a class is weak — disclosure rules, evidence checking, criteria interpretation, or feedback uptake — and teach to that gap instead of issuing blanket warnings about AI.
+- **Assessment briefs should make the expectation set explicit.** Criteria, permitted and prohibited AI support, expectations for checking AI output, acknowledgement rules, and how feedback should feed revision all need to be visible to students, and the scale names exactly those elements.
+- **Institutions gain a way to test whether policy becomes usable knowledge.** The instrument can be used when introducing disclosure rules or redesigning tasks to check whether students actually understand how to comply, rather than assuming that publishing a rule is enough.
+- **The framing connects assessment literacy, feedback literacy, and academic integrity in one framework.** Its grounding in [[self-regulated-learning]] and [[evaluative-judgement|evaluative judgment]] links understanding criteria, monitoring the quality of one's own work, and acting responsibly on feedback, which is where AI-supported assessment in [[higher-ed]] is most exposed.
 
 ## Limitations
 
-- Cross-sectional, self-reported data, so associations are interpreted rather than causal; longitudinal and experimental work is needed.
-- Self-report scales are open to social desirability and common-method variance; although Harman's single-factor test, a one-factor CFA, and a common-latent-factor check found no dominant method factor, these cannot fully rule out bias.
-- Academic integrity intention may not fully predict actual behavior, and the ethical attribution/academic integrity dimension is conceptually close to the integrity criterion.
-- The sample came from one national (China) higher education context and was not nationally representative; cross-cultural and cross-institution [[educational-measurement]] invariance, test-retest reliability, and incremental validity beyond existing AI literacy or assessment literacy measures remain untested.
+- Cross-sectional and self-reported, so the associations are not causal; longitudinal and experimental work is needed to test whether GenAI assessment literacy predicts later feedback behaviour, disclosure, and assessment outcomes.
+- Self-report measures are open to social desirability and common-method variance; the statistical checks found no dominant method factor, but they cannot rule bias out.
+- Academic integrity intention may not fully predict actual behaviour, and the ethical-attribution subscale is conceptually close to that criterion, so those correlations are better read as proximal validity evidence than as proof of construct separation.
+- The sample came from one national context and was not designed to be nationally representative; cross-cultural and cross-institution invariance, test-retest reliability, and invariance across separately sampled undergraduate and postgraduate groups remain untested.
+- The validation did not include established AI literacy or assessment literacy instruments, so incremental validity beyond those adjacent constructs is still unknown; behavioural indicators such as revision logs or disclosure statements would strengthen ecological validity.
 
 ## Connected Concepts
 

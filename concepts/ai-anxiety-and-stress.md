@@ -1,7 +1,7 @@
 ---
 title: AI Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-09-16T13:00:00-04:00"
+updated: "2026-09-16T14:45:00-04:00"
 type: concept
 tags: [well-being, remote-proctoring, social-emotional-learning, affective-computing, academic-integrity, student-experience, adult-learning]
 audience: [learners]
@@ -45,14 +45,13 @@ Beyond proctoring, AI use itself generates anxiety — about being replaced, abo
 **Institutional support works on anxiety through appraisals, not reassurance.** A two-wave survey of 547 Chinese undergraduates
  ([[school-support-ai-learning-anxiety-control-value-2026|Jiang, Chen & Chen, 2026]]) traced how perceived school support relates to
  AI learning anxiety through control-value appraisals — the learner's sense of competence (control) and of the tool's usefulness
- (value). Support predicted lower anxiety directly (β = −0.160) but the indirect routes carried 69.5% of the total association
- (−0.364 of −0.524), running through AI learning self-efficacy (−0.207), [[technology-acceptance-model|perceived usefulness]] (−0.083), and the sequential
- self-efficacy → usefulness path (−0.103); self-efficacy also fed usefulness (β = 0.587). A first-order model showed the support
- *dimensions* were not independently doing the work — only informational support retained a significant path to self-efficacy
- (β = 0.288) — and an artificial neural network cross-validation ranked self-efficacy (relative importance 100.0) and perceived
- usefulness (63.6) as the most stable predictors of anxiety. The implication is that institutional encouragement aimed at anxiety
- only lands if it changes what students believe about their own capability and the tool's usefulness; general reassurance does not
- alter the appraisals that generate the anxiety.
+ (value). Support predicted lower anxiety directly, but most of its association ran through the appraisals rather than around them:
+ via AI learning self-efficacy, via [[technology-acceptance-model|perceived usefulness]], and via a sequential route in which
+ self-efficacy fed usefulness, which in turn lowered anxiety. A first-order model showed the support *dimensions* were not
+ independently doing the work — only informational support retained a significant path to self-efficacy — and an artificial neural
+ network cross-validation ranked self-efficacy and perceived usefulness as the most stable predictors of anxiety. The implication is
+ that institutional encouragement aimed at anxiety only lands if it changes what students believe about their own capability and the
+ tool's usefulness; general reassurance does not alter the appraisals that generate the anxiety.
 
 This direction connects AI anxiety to [[motivation]], [[ai-literacy]], [[student-experience]], and [[self-regulated-learning]].
 

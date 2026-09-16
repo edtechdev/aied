@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-16T13:00:00-04:00"
+updated: "2026-09-16T14:40:00-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students]
 type: concept
 tags: [cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, generative-ai]
@@ -46,16 +46,15 @@ The core concept, articulated in [[genai-performance-vs-learning]], is that gene
 
 Misuse harms more than achievement. A survey of 276 Chinese undergraduates
 ([[ai-dependency-self-efficacy-teacher-support-burnout-2026|Huang et al., 2026]]) modelled AI dependency as the mediator between
-protective learner resources and learning burnout, and found it carried the entire effect: [[self-efficacy|academic self-efficacy]] negatively
-predicted AI dependency (β = −0.424, R² = 0.180) and [[teacher-role|teacher]] support did so more weakly (β = −0.217, R² = 0.047), while dependency
-in turn predicted burnout (β = 0.451, R² = 0.203). Both indirect paths were significant and *full* mediation — −0.239 (84.2%
-mediated) for self-efficacy and −0.143 (71.5%) for teacher support — with the direct effects becoming non-significant once dependency
-entered the model (B = −0.045, p = 0.559 and B = −0.089, p = 0.171). Read alongside the performance–learning gap above, the result
-extends the cost of misuse from degraded durable knowledge to learner exhaustion and disengagement, and it locates the mechanism in
-dependency itself rather than in AI use as such: the resources that protect against misuse appear to work by preventing dependency,
-not by counteracting its effects afterwards. The authors flag a measurement caveat — their AI Dependency Scale is adapted from the
-Internet Addiction Test and its content validity for AI has not been established — so the pathway is better treated as a
-well-modelled hypothesis than a settled effect size.
+protective learner resources and learning burnout, and found it carried the entire effect: [[self-efficacy|academic self-efficacy]]
+and, more weakly, [[teacher-role|teacher]] support both reduced AI dependency, which in turn predicted burnout. Both indirect paths
+were significant and fully mediating — the direct effects became non-significant once dependency entered the model — with
+self-efficacy's path the stronger of the two. Read alongside the performance–learning gap above, the result extends the cost of
+misuse from degraded durable knowledge to learner exhaustion and disengagement, and it locates the mechanism in dependency itself
+rather than in AI use as such: the resources that protect against misuse appear to work by preventing dependency, not by
+counteracting its effects afterwards. The authors flag a measurement caveat — their AI Dependency Scale is adapted from the Internet
+Addiction Test and its content validity for AI has not been established — so the pathway is better treated as a well-modelled
+hypothesis than a settled effect size.
 
 ### The assessment-dependent nature of harm
 

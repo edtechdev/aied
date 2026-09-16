@@ -1,7 +1,7 @@
 ---
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-16T13:00:00-04:00"
+updated: "2026-09-16T14:45:00-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 discipline: [language learning, writing education]
@@ -76,13 +76,12 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 
 - **Design for empowerment rather than enforcement.** A PLS-SEM study of 327 Chinese EFL undergraduates
   ([[empowerment-ai-assisted-deep-revision-efl-writing-2026|Li & Zhang, 2026]]) tested the two levers writing instructors actually
-  hold and found only one of them works. AI [[prompt-engineering|prompting]] literacy strongly predicted perceived competence (β = 0.636), psychological
-  safety (β = 0.657), and [[motivation|intrinsic motivation]] (β = 0.439), and all three psychological needs partially mediated its link to deep
-  revision engagement (indirect effects 0.139, 0.119, and 0.197 respectively), with intrinsic motivation the strongest direct driver
-  of deep revision (β = 0.448, f² = 0.251) in a model explaining 50.0% of the variance. External mandates had no direct effect at all
-  (β = −0.013, p = 0.869, f² = 0.000). The practical translation is that requiring deep revision does not produce it — the
-  enforcing requirement may be needed to make revision happen at all, but the depth comes from building students' prompting
-  capability and the intrinsic motivation and psychological safety that follow from it.
+  hold and found only one of them works. AI [[prompt-engineering|prompting]] literacy strongly predicted perceived competence,
+  psychological safety, and [[motivation|intrinsic motivation]], and all three psychological needs partially mediated its link to
+  deep revision engagement, with intrinsic motivation the strongest single driver of deep revision. External mandates had no direct
+  effect at all. The practical translation is that requiring deep revision does not produce it — the enforcing requirement may be
+  needed to make revision happen at all, but the depth comes from building students' prompting capability and the intrinsic
+  motivation and psychological safety that follow from it.
 
 - **Address academic integrity constructively.** Move from policing AI use toward building [[ai-literacy]] and ethical-use framing that lets students use AI without unintentional misconduct.
 

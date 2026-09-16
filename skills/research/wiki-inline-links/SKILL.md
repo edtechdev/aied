@@ -20,6 +20,32 @@ metadata:
 > files, caught only by `git status`). For a safe trial, COPY the pages into a scratch dir, or just run report mode (no
 > `--apply`) and review the suggestions.
 > After any `--apply`, always diff: `git status --short concepts/ articles/`.
+> **Pitfall — never re-run `--apply` over pages you have already hand-corrected
+> (2026-09-16).** `--apply` is deterministic: it re-inserts every link it proposed the
+> first time, including the ones you deliberately reverted. Re-running a batch pass over
+> already-corrected pages silently restored wrong links such as
+> `[[writing-education|composition]]`, `[[stakeholders|policymakers]]`, and
+> `[[quantitative-research|quantitative]]` (from "quantitative propositions"), undoing a
+> hand-review. If you must re-run for a new page, pass only the NEW slugs — never the
+> whole batch — and diff the previously corrected pages afterwards.
+>
+> **Supplementary check for mis-applied links.** Grep the narrative for a list of the
+> display texts you previously rejected and confirm none came back, e.g.:
+> `grep -nE '\[\[(writing-education|stakeholders|quantitative-research|higher-ed|self-efficacy|metacognition)\|' articles/*.md`
+> then read each hit's sentence.
+
+
+> **Pitfall — never insert inline links above the closing `---` of the frontmatter
+> (2026-09-16, maintainer-caught).** A hand-rolled "link the first mention" helper that
+> searches the whole page up to `## Connected Concepts` will happily rewrite the YAML
+> `title:` field, producing titles like
+> `"Why we believe chatbots: [[trust]] calibration as a design problem"`, which then
+> render as broken text at the top of the page. Four pages were corrupted this way in one
+> pass. When linking by hand: compute the frontmatter end (`raw.split('---', 2)`), restrict
+> the search to the **body only**, and re-check afterwards that
+> `'[[' not in raw.split('---', 2)[1]` for every page you touched. A wiki-wide sweep is
+> cheap: loop `articles/`, `concepts/`, `faqs/` and assert no `[[` appears in the
+> frontmatter of any page.
 
 > **Pitfall — `--apply` alone is an INCOMPLETE pass (2026-09-16, maintainer-caught).**
 > `AUTO_APPLY_DENYLIST` (in the script) deliberately keeps ambiguous generic words —
