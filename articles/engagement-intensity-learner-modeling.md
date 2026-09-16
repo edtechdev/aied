@@ -1,7 +1,7 @@
 ---
 title: Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
 created: "2026-06-18T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [personalized-learning, adaptive-learning, ai-literacy, higher-ed, student-engagement, student-experience, ethics, llm]
 research_method: [survey, learning analytics]
@@ -12,11 +12,7 @@ sources: ['raw/papers/2606.18548.md']
 confidence: medium
 ---
 
-> **Synthesis:** [[student-engagement|Engagement]] intensity during AI [[ethics]] instruction serves as an effective learner-modeling signal for [[student-modeling|adaptive instruction]]; prior [[llm]] experience influences engagement patterns.
-
-## Synthesis
-
-This study investigates whether simple intake measures can serve as learner-modeling signals for adaptive AI ethics instruction. Drawing on data from 93 bioscience graduate and postdoctoral trainees enrolled in a required [[research-methods-aied|research]] ethics course, the authors compare three candidate intake features — self-reported LLM usage frequency, self-rated LLM familiarity, and prior [[ai-education|AI education]] — against five baseline perception outcomes: accuracy trust, evaluation capability, complex-task trust, [[cognitive-offloading|over-reliance]] risk, and training interest. The results position simple behavioral engagement measures as promising, lightweight inputs for profiling learners before instruction begins, with direct relevance for [[personalized-learning]] and [[adaptive-learning]] design.
+> **Synthesis:** This study investigates whether simple intake measures can serve as learner-modeling signals for adaptive AI ethics instruction. Drawing on data from 93 bioscience graduate and postdoctoral trainees enrolled in a required [[research-methods-aied|research]] ethics course, the authors compare three candidate intake features — self-reported LLM usage frequency, self-rated LLM familiarity, and prior [[ai-education|AI education]] — against five baseline perception outcomes: accuracy trust, evaluation capability, complex-task trust, [[cognitive-offloading|over-reliance]] risk, and training interest. The results position simple behavioral engagement measures as promising, lightweight inputs for profiling learners before instruction begins, with direct relevance for [[personalized-learning]] and [[adaptive-learning]] design.
 
 ## Key Findings
 

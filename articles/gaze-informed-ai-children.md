@@ -1,7 +1,7 @@
 ---
 title: Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
 created: "2026-07-02T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [generative-ai, k-12, student-experience, affective-computing, adaptive-learning, rag, llm]
 research_method: [experiment]
@@ -11,9 +11,7 @@ sources: ['raw/papers/2607.00445.md']
 confidence: high
 ---
 
-> **Synthesis:** **Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, Anna Maria Feit** — submitted 1 Jul 2026
-
-Ollie, a gaze-informed AI assistant for children's picture exploration, uses eye-tracking to trigger [[llm]] narrative descriptions; within-subject experiment shows gaze-informed assistance keeps children's attention longer and guides exploration effectively.
+> **Synthesis:** Ollie, a gaze-informed AI assistant for children's picture exploration, uses eye-tracking to trigger [[llm]] narrative descriptions; within-subject experiment shows gaze-informed assistance keeps children's attention longer and guides exploration effectively.
 
 ## Key Contributions
 
