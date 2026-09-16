@@ -1,7 +1,7 @@
 ---
 title: "The Role of Artificial Intelligence Anxiety and Attitudes Toward Artificial Intelligence in University Students' Job Finding Anxiety"
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-anxiety-and-stress, adult-learning, social-emotional-learning, higher-ed, technology-acceptance-model]
 connected_faqs: [ai-anxiety-wellbeing]
@@ -11,7 +11,7 @@ sources: ['raw/papers/ustun-ai-anxiety-job-finding-anxiety-2026.md']
 confidence: high
 ---
 
-> **AI anxiety, attitudes, and job-finding anxiety** — a large correlational survey of **1,057 university students across 35 Turkish universities** showing that higher AI anxiety and **negative attitudes toward AI are positively associated with job-finding anxiety**. Female students, social-science majors, and second-year students reported higher anxiety levels.
+> **Synthesis:** **AI anxiety, attitudes, and job-finding anxiety** — a large correlational survey of **1,057 university students across 35 Turkish universities** showing that higher AI anxiety and **negative attitudes toward AI are positively associated with job-finding anxiety**. Female students, social-science majors, and second-year students reported higher anxiety levels.
 
 Üstün & Danacıoğlu (2026) scale up the career-anxiety evidence base, linking AI-related anxiety and attitudes directly to post-graduation **job-finding anxiety**. It complements the mechanism-focused studies ([[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]], [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang et al.]]) with population-level correlational breadth and demographic patterning.
 

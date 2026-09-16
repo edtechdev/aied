@@ -1,7 +1,7 @@
 ---
 title: "Scaffold or Shortcut? Postgraduate IT Students' Use of Generative AI and Self-Regulated Learning"
 created: "2026-08-27T06:30:00-04:00"
-updated: "2026-08-27T06:30:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [self-regulated-learning, cognitive-offloading, generative-ai, higher-ed, mixed-methods-research, ai-literacy, engineering-education]
 audience: [learners, instructors]
@@ -13,7 +13,7 @@ source_url: 'https://doi.org/10.20851/ll.v8.63'
 confidence: high
 ---
 
-> **Scaffold or shortcut?** — a [[mixed-methods-research|mixed-methods]] study of 267 postgraduate IT students in Australia showing that [[generative-ai|GenAI]] plays a dual role in [[self-regulated-learning|SRL]]: it can act as a cognitive scaffold that supports goal setting, monitoring, and self-evaluation, or a cognitive shortcut that displaces them. Whether it [[scaffolding|scaffolds]] or short-circuits depends less on the tool than on how students regulate its use.
+> **Synthesis:** **Scaffold or shortcut?** — a [[mixed-methods-research|mixed-methods]] study of 267 postgraduate IT students in Australia showing that [[generative-ai|GenAI]] plays a dual role in [[self-regulated-learning|SRL]]: it can act as a cognitive scaffold that supports goal setting, monitoring, and self-evaluation, or a cognitive shortcut that displaces them. Whether it [[scaffolding|scaffolds]] or short-circuits depends less on the tool than on how students regulate its use.
 
 ## Key Findings
 

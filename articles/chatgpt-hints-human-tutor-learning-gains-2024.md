@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills"
 created: "2026-08-12T21:26:01-04:00"
-updated: "2026-08-24T16:30:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, llm, intelligent-tutoring, scaffolding, math-education, learning-gains, hallucination-risk, adaptive-learning, feedback]
 research_method: [learning analytics]
@@ -11,7 +11,7 @@ sources: ['raw/papers/chatgpt-hints-human-tutor-learning-gains-2024.md']
 confidence: high
 ---
 
-> Pardos & Bhandari (2024) report a randomized efficacy study (N=274) comparing ChatGPT-generated hints to human tutor-authored hints and a no-help control across four [[math-education|mathematics]] subject areas. Only the ChatGPT condition produced statistically significant [[learning-gains|learning gains]] versus control, with no significant difference between ChatGPT and human-authored hints — and ChatGPT's 32% raw hint-error rate was reducible to near zero (algebra) or 13% (statistics) using the self-consistency hallucination-mitigation technique.
+> **Synthesis:** Pardos & Bhandari (2024) report a randomized efficacy study (N=274) comparing ChatGPT-generated hints to human tutor-authored hints and a no-help control across four [[math-education|mathematics]] subject areas. Only the ChatGPT condition produced statistically significant [[learning-gains|learning gains]] versus control, with no significant difference between ChatGPT and human-authored hints — and ChatGPT's 32% raw hint-error rate was reducible to near zero (algebra) or 13% (statistics) using the self-consistency hallucination-mitigation technique.
 
 Authoring help content for educational [[ai-technologies|technologies]] is labor-intensive and costly — a full-time employee may take a year to produce a textbook's worth of material. If LLMs can generate hints with sufficiently low error and sufficient learning efficacy, they could alleviate the most time- and cost-intensive component of tutoring-system development and enable scaling to many domains. This study evaluates whether ChatGPT-generated worked-solution hints can do so.
 

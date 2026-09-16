@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Roles in AI-Designed Group Activities: A comparative inductive analysis of novice and experienced teachers' differentiated instruction within the IAT framework"
 created: "2026-09-02T09:55:00-04:00"
-updated: "2026-09-02T09:55:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ['teacher-ai-competency', 'learning-design', 'teacher-role', 'human-ai-collaboration', 'personalized-learning', 'educational-development', 'generative-ai']
 research_method: [qualitative]
@@ -13,7 +13,7 @@ confidence: medium
 
 ---
 
-> **The architecture of roles in AI-designed group activities.** A comparative qualitative study by Hossein Talebzadeh (2026) analyzing how **89 Iranian teachers (38 novice, 51 experienced)** assigned roles in **178 AI-designed group activities** within the Integrated AI Triad (IAT) framework. Using reflexive thematic analysis, the study introduces three constructs — **Role Richness, Role Synergy, and Level-Role Alignment** — and finds experienced teachers produced significantly richer, more interdependent, and more precisely ZPD-aligned role architectures, while novices often collapsed integrated projects into conventional assessments lacking product integration. The paper introduces **"pedagogical prompt literacy"** as a portable construct: AI output quality is fundamentally contingent on teachers' capacity to encode pedagogical intentions through Pedagogical Content Knowledge.
+> **Synthesis:** **The architecture of roles in AI-designed group activities.** A comparative qualitative study by Hossein Talebzadeh (2026) analyzing how **89 Iranian teachers (38 novice, 51 experienced)** assigned roles in **178 AI-designed group activities** within the Integrated AI Triad (IAT) framework. Using reflexive thematic analysis, the study introduces three constructs — **Role Richness, Role Synergy, and Level-Role Alignment** — and finds experienced teachers produced significantly richer, more interdependent, and more precisely ZPD-aligned role architectures, while novices often collapsed integrated projects into conventional assessments lacking product integration. The paper introduces **"pedagogical prompt literacy"** as a portable construct: AI output quality is fundamentally contingent on teachers' capacity to encode pedagogical intentions through Pedagogical Content Knowledge.
 
 ## Overview
 

@@ -1,16 +1,14 @@
 ---
 title: "From simulation to flight: Simulation-assisted drone learning with teacher-AI co-designed scaffolds for secondary students' STEM knowledge and competencies"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/simulation-assisted-drone-learning-stem-2026.md"]
 tags: ["simulation", "stem-education", "generative-ai", "intelligent-tutoring", "teacher-role"]
 confidence: medium
 ---
 
-## Overview
-
-This quasi-experimental study investigates whether drone-based STEM instruction supported by teacher-AI co-designed simulations yields superior [[learning-gains|learning outcomes]] to the same hands-on drone curriculum delivered without simulations. It responds to a persistent challenge in drone-based STEM education ("dronagogy"): the scarcity of teacher-verified, curriculum-aligned interactive simulations, and the tendency of GenAI-produced resources to lack [[pedagogy|pedagogical]] validity. Using a pretest–posttest control group design with 30 secondary students (aged 13–17, Grades 8–11) in an eight-lesson after-school enrichment program, the study compared a Simulation-Assisted Group (SA-Group, n = 14) that additionally engaged with five interactive simulations against a Drone-Only Group (DO-Group, n = 16) that completed non-simulation versions of the same lessons. Both groups shared the same instructor, DJI Tello drone platform, hands-on tasks, and [[assessment|assessments]], differing only in the form of scaffolding.
+> **Synthesis:** This quasi-experimental study investigates whether drone-based STEM instruction supported by teacher-AI co-designed simulations yields superior [[learning-gains|learning outcomes]] to the same hands-on drone curriculum delivered without simulations. It responds to a persistent challenge in drone-based STEM education ("dronagogy"): the scarcity of teacher-verified, curriculum-aligned interactive simulations, and the tendency of GenAI-produced resources to lack [[pedagogy|pedagogical]] validity. Using a pretest–posttest control group design with 30 secondary students (aged 13–17, Grades 8–11) in an eight-lesson after-school enrichment program, the study compared a Simulation-Assisted Group (SA-Group, n = 14) that additionally engaged with five interactive simulations against a Drone-Only Group (DO-Group, n = 16) that completed non-simulation versions of the same lessons. Both groups shared the same instructor, DJI Tello drone platform, hands-on tasks, and [[assessment|assessments]], differing only in the form of scaffolding.
 
 The five simulations — Satellite Positioning, Virtual Flight, QuadPhysics, Dronography Angle-of-View, and Code Performance simulators — were co-developed through an iterative teacher-AI co-design process in which an experienced teacher (with no prior programming background) specified curricular objectives, target [[misconceptions]], and disciplinary constraints while a GenAI [[conversational-ai|chatbot]] (o1-mini) handled rapid prototyping. The authors frame teacher-AI co-design as the enabling means of resource production rather than the independent variable under study, which was the presence or absence of simulation-assisted scaffolding. Grounded in Kolb's experiential learning cycle, the simulations served as low-stakes pre-flight and reflective scaffolds that rendered causal flight mechanisms visible, reduced [[cognitive-offloading|cognitive load]], supported hypothesis testing, and enhanced learning visibility for teachers.
 

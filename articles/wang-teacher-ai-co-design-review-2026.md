@@ -1,7 +1,7 @@
 ---
 title: "Reimagining teacher-AI co-design in learning task design: trends and perspectives"
 created: "2026-09-02T09:50:00-04:00"
-updated: "2026-09-02T09:50:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ['teacher-ai-competency', 'learning-design', 'human-ai-collaboration', 'teacher-role', 'meta-analysis-systematic-review', 'generative-ai']
 research_method: [systematic review]
@@ -13,7 +13,7 @@ confidence: high
 
 ---
 
-> **Teacher-AI co-design in learning task design.** A systematic review by Zongran Wang, Liu Mingzhuo & A.Y.M. Atiquil Islam (2026) synthesizing **28 empirical studies (2015–2025)** on how teachers collaborate with AI — including generative AI — to design learning tasks. GenAI is predominantly used to support **lesson planning, prompt generation, and creative ideation**, while traditional AI is used for **[[learning-analytics|learning analytics]] and [[feedback]] design**. The dominant collaboration mode is **AI as assistant/content generator**, with AI as a fuller co-designer or dialogic partner much rarer. Four pedagogical affordances recur — **efficiency, responsiveness, [[creativity]], and [[equity-in-ai-education|equity]]** — and the review argues these form a functional-affordance framework for guiding teacher design work with AI.
+> **Synthesis:** **Teacher-AI co-design in learning task design.** A systematic review by Zongran Wang, Liu Mingzhuo & A.Y.M. Atiquil Islam (2026) synthesizing **28 empirical studies (2015–2025)** on how teachers collaborate with AI — including generative AI — to design learning tasks. GenAI is predominantly used to support **lesson planning, prompt generation, and creative ideation**, while traditional AI is used for **[[learning-analytics|learning analytics]] and [[feedback]] design**. The dominant collaboration mode is **AI as assistant/content generator**, with AI as a fuller co-designer or dialogic partner much rarer. Four pedagogical affordances recur — **efficiency, responsiveness, [[creativity]], and [[equity-in-ai-education|equity]]** — and the review argues these form a functional-affordance framework for guiding teacher design work with AI.
 
 ## Overview
 

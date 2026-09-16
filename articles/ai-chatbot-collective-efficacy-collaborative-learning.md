@@ -1,7 +1,7 @@
 ---
 title: "AI chatbot design principles to enhance the collective efficacy in collaborative learning"
 created: "2026-08-11T06:15:03-04:00"
-updated: "2026-08-11"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [collaborative-learning, generative-ai, higher-ed, design-based-research, scaffolding]
 research_method: [design-based research]

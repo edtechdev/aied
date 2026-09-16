@@ -1,7 +1,7 @@
 ---
 title: Generative AI Can Harm Teaching
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-26T15:33:47-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [educational-development, teacher-role, generative-ai, k-12, student-experience, cognitive-offloading, rct, teacher-ai-competency, rag]
 research_method: [randomized controlled trial]
@@ -12,7 +12,7 @@ sources: ['raw/papers/genai-can-harm-teaching-rct-2026.md']
 confidence: high
 ---
 
-> The null average performance effect masks strong offsetting heterogeneity — and the exam had severe ceiling compression (control mean 89.2/100, 47% ≥ 95), which also limits power. The belief reversal is striking: it contradicts "familiarity breeds acceptance" and suggests an arc from initial awe at AI's instant responses to awareness of its unintended effects.
+> **Synthesis:** The null average performance effect masks strong offsetting heterogeneity — and the exam had severe ceiling compression (control mean 89.2/100, 47% ≥ 95), which also limits power. The belief reversal is striking: it contradicts "familiarity breeds acceptance" and suggests an arc from initial awe at AI's instant responses to awareness of its unintended effects.
 
 > Sungu, Lira & Duckworth (2026) ran one of the first large-scale [[rct|RCTs]] of a teacher-facing [[generative-ai|generative AI]] tool and found it can *harm* students: providing teachers an AI [[teacher-role|teaching]] assistant **reduced student [[motivation|intrinsic motivation]] by 0.11 SD** and — among lower-performing teachers — **cut student achievement by 0.13 SD**. The pattern is a **principal–agent problem**: teachers (agents) gain labor savings from AI delegation while students (principals) bear the cost of displaced relational teaching and [[scaffolding]].
 

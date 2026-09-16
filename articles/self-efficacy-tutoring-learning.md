@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice
 created: "2026-06-17T04:33:04-04:00"
-updated: "2026-09-16T15:50:31-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, personalized-learning, higher-ed, student-experience, self-regulated-learning]
 research_method: [experiment]

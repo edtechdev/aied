@@ -1,7 +1,7 @@
 ---
 title: "Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-26T15:33:55-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, feedback, student-experience, higher-ed, ai-literacy, student-engagement]
 research_method: [mixed methods]
@@ -13,9 +13,7 @@ sources: ['raw/papers/tandf-2026-genai-teacher-feedback-comparison.md']
 confidence: high
 ---
 
-## Summary
-
-The largest study in the AEHE 51(5) special issue: a **cross-sectional survey across four Australian universities** (≈192,000 invited; 10,132 volunteered; this paper analyses **6,960 students** who answered the feedback items). It combines [[quantitative-research|quantitative]] comparison of perceived helpfulness/[[trust|trustworthiness]] of [[generative-ai|GenAI]] vs teacher feedback with **thematic analysis of 8,642 open-ended responses** (11,903 coded instances, 48 codes). Core conclusion: **GenAI and teacher feedback serve different needs — complementary but not interchangeable**.
+> **Synthesis:** The largest study in the AEHE 51(5) special issue: a **cross-sectional survey across four Australian universities** (≈192,000 invited; 10,132 volunteered; this paper analyses **6,960 students** who answered the feedback items). It combines [[quantitative-research|quantitative]] comparison of perceived helpfulness/[[trust|trustworthiness]] of [[generative-ai|GenAI]] vs teacher feedback with **thematic analysis of 8,642 open-ended responses** (11,903 coded instances, 48 codes). Core conclusion: **GenAI and teacher feedback serve different needs — complementary but not interchangeable**.
 
 ## Quantitative findings
 

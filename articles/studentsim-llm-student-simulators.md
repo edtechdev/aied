@@ -1,14 +1,14 @@
 ---
 title: "StudentSim: Training LLM-based Student Simulators"
 created: "2026-09-02T09:00:00-04:00"
-updated: "2026-09-02T09:10:56-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [simulating-students, intelligent-tutoring, llm, personalized-learning, reinforcement-learning, student-modeling, generative-ai]
 sources: ['raw/papers/studentsim-llm-student-simulators.md']
 confidence: high
 ---
 
-A training framework for per-student AI [[simulating-students|student simulation]] built on two joint requirements: **behavioral fidelity (F)** — how well the simulator matches a student's own responses — and **guidance responsiveness (R)** — how reliably it updates toward where tutor guidance leads. The accompanying [[benchmark]], StudentSimEval, casts public learner corpora (chess, second-language English writing, mathematics) into a standardized per-student protocol, then fits and scores any simulator on the same held-out records.
+> **Synthesis:** A training framework for per-student AI [[simulating-students|student simulation]] built on two joint requirements: **behavioral fidelity (F)** — how well the simulator matches a student's own responses — and **guidance responsiveness (R)** — how reliably it updates toward where tutor guidance leads. The accompanying [[benchmark]], StudentSimEval, casts public learner corpora (chess, second-language English writing, mathematics) into a standardized per-student protocol, then fits and scores any simulator on the same held-out records.
 
 ### Two-stage pooled-then-specialized pipeline
 

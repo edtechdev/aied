@@ -1,16 +1,14 @@
 ---
 title: "From Literature to Research-Based Learning: An AI-Powered Information Extraction System to Enhance Undergraduate Thesis Completion"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-01T12:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/ai-information-extraction-undergraduate-thesis-2026.md"]
 tags: ["higher-ed", "stem-education", "inquiry-based-learning", "self-directed-learning", "knowledge-graph", "generative-ai"]
 confidence: medium
 ---
 
-## Overview
-
-An and colleagues design and evaluate an AI-powered information extraction system that converts unstructured research publications into structured, traceable, and comparable datasets to support literature-driven comparison and [[stem-education|undergraduate thesis]] completion in [[higher-ed]]. Grounded in [[inquiry-based-learning]], [[cognitive-offloading|cognitive load]] theory, and digital [[scaffolding]], the system is positioned as an epistemic scaffold that lets students inspect evidence–claim relationships through source traceability and structured comparison while reducing low-level data-handling demands. A [[mixed-methods-research|mixed-methods]] pilot with 20 undergraduates and four supervisors suggests the system shifts students from isolated reading toward cross-study comparison and evidence-based justification, with implications for [[self-directed-learning]], [[knowledge-graph|structured knowledge organization]], and the responsible use of [[generative-ai|generative AI]] as a learning scaffold rather than a shortcut.
+> **Synthesis:** An and colleagues design and evaluate an AI-powered information extraction system that converts unstructured research publications into structured, traceable, and comparable datasets to support literature-driven comparison and [[stem-education|undergraduate thesis]] completion in [[higher-ed]]. Grounded in [[inquiry-based-learning]], [[cognitive-offloading|cognitive load]] theory, and digital [[scaffolding]], the system is positioned as an epistemic scaffold that lets students inspect evidence–claim relationships through source traceability and structured comparison while reducing low-level data-handling demands. A [[mixed-methods-research|mixed-methods]] pilot with 20 undergraduates and four supervisors suggests the system shifts students from isolated reading toward cross-study comparison and evidence-based justification, with implications for [[self-directed-learning]], [[knowledge-graph|structured knowledge organization]], and the responsible use of [[generative-ai|generative AI]] as a learning scaffold rather than a shortcut.
 
 ## Key Findings
 

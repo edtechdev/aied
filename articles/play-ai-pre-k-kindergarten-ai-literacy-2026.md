@@ -1,7 +1,7 @@
 ---
 title: "Play With AI (PL-AI): A Play-Centered, Design-Based Curriculum for AI Literacy in Pre-K and Kindergarten"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/play-ai-pre-k-kindergarten-ai-literacy-2026.md"]
 tags: ["ai-literacy", "early-childhood-elementary-ai-education", "design-based-research", "educational-robotics", "game-based-learning"]
@@ -9,9 +9,7 @@ connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 ---
 
-## Overview
-
-This [[design-based-research|design-based research]] study reports on the design, implementation, and refinement of Play With AI (PL-AI), a developmentally appropriate curriculum introducing foundational [[ai-literacy|AI literacy]] concepts to pre-kindergarten and kindergarten children. Two pre-K and two kindergarten teachers co-designed, piloted, and refined seven sequenced activities that progress from unplugged play (e.g., composing and testing "how-to" algorithms), to tangible coding (programming Bee-Bot or Ozobot), to guided dialogue with a social AI robot (Miko). Drawing on [[educational-robotics|educational robotics]], [[game-based-learning|play-based learning]], and the AI4K12 "Big Ideas" aligned with NAEYC's developmentally appropriate practice, PL-AI positions AI as a human-designed, instruction-following system rather than something autonomous or magical, embedding concepts like algorithms, data, and [[bias-mitigation|fairness]] within familiar centers, [[storytelling-in-education|storytelling]], and movement routines.
+> **Synthesis:** This [[design-based-research|design-based research]] study reports on the design, implementation, and refinement of Play With AI (PL-AI), a developmentally appropriate curriculum introducing foundational [[ai-literacy|AI literacy]] concepts to pre-kindergarten and kindergarten children. Two pre-K and two kindergarten teachers co-designed, piloted, and refined seven sequenced activities that progress from unplugged play (e.g., composing and testing "how-to" algorithms), to tangible coding (programming Bee-Bot or Ozobot), to guided dialogue with a social AI robot (Miko). Drawing on [[educational-robotics|educational robotics]], [[game-based-learning|play-based learning]], and the AI4K12 "Big Ideas" aligned with NAEYC's developmentally appropriate practice, PL-AI positions AI as a human-designed, instruction-following system rather than something autonomous or magical, embedding concepts like algorithms, data, and [[bias-mitigation|fairness]] within familiar centers, [[storytelling-in-education|storytelling]], and movement routines.
 
 ## Key Findings
 

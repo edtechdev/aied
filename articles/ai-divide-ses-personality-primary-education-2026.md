@@ -1,16 +1,14 @@
 ---
 title: "Decoding Divides: The Role of Socioeconomic Status and Personality Traits in AI Divides and Educational Inequality"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/ai-divide-ses-personality-primary-education-2026.md"]
 tags: ['digital-divide', 'equity-in-ai-education']
 confidence: medium
 ---
 
-## Overview
-
-Wang and colleagues investigate whether integrating AI into primary education deepens the digital divide and educational inequality, and whether socioeconomic status (SES) or personality traits matter more for that risk. Using survey and national registry data from **4,497 Grade 6 students** in the Netherlands, the study models the mediating roles of AI usage and digital literacy in the links between student background, personality, and [[learning-gains|academic performance]].
+> **Synthesis:** Wang and colleagues investigate whether integrating AI into primary education deepens the digital divide and educational inequality, and whether socioeconomic status (SES) or personality traits matter more for that risk. Using survey and national registry data from **4,497 Grade 6 students** in the Netherlands, the study models the mediating roles of AI usage and digital literacy in the links between student background, personality, and [[learning-gains|academic performance]].
 
 ## Key Findings
 

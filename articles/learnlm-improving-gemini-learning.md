@@ -1,7 +1,7 @@
 ---
 title: "LearnLM: Improving Gemini for Learning"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, pedagogical-llm-training, generative-ai, intelligent-tutoring, reinforcement-learning, prompt-engineering, teacher-role, student-ai-interaction]
 research_method: [system development]
@@ -10,7 +10,7 @@ confidence: high
 sources: [raw/papers/2412.16429.md]
 ---
 
-> **Reframes improving [[llm|LLMs]] for learning as *[[pedagogy|pedagogical]] instruction following*** — training and evaluation examples carry system-level instructions that describe the specific pedagogical behavior desired or present in subsequent turns, rather than committing the model to any single definition of pedagogy. This lets teachers or developers specify the tutoring behavior they want while the model improves on general instruction-following and other capabilities. The resulting **LearnLM** model (based on Gemini 1.5 Pro, available on Google AI Studio) was substantially preferred by education experts across diverse learning scenarios, with average preference strengths of **+31% over GPT-4o, +11% over Claude 3.5 Sonnet, and +13% over the base Gemini 1.5 Pro**. Because pedagogical data is mixed directly into Gemini's post-training (SFT, reward-model, and RL stages) rather than applied as post-hoc fine-tuning, the improvements can be carried into future Gemini releases.
+> **Synthesis:** **Reframes improving [[llm|LLMs]] for learning as *[[pedagogy|pedagogical]] instruction following*** — training and evaluation examples carry system-level instructions that describe the specific pedagogical behavior desired or present in subsequent turns, rather than committing the model to any single definition of pedagogy. This lets teachers or developers specify the tutoring behavior they want while the model improves on general instruction-following and other capabilities. The resulting **LearnLM** model (based on Gemini 1.5 Pro, available on Google AI Studio) was substantially preferred by education experts across diverse learning scenarios, with average preference strengths of **+31% over GPT-4o, +11% over Claude 3.5 Sonnet, and +13% over the base Gemini 1.5 Pro**. Because pedagogical data is mixed directly into Gemini's post-training (SFT, reward-model, and RL stages) rather than applied as post-hoc fine-tuning, the improvements can be carried into future Gemini releases.
 
 ## Key Findings
 

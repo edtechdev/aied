@@ -1,7 +1,7 @@
 ---
 title: "The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-26T15:34:24-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equity-in-ai-education, student-experience, scaffolding, rag, regulation]
 research_method: [experiment]
@@ -12,9 +12,7 @@ sources: ['raw/papers/caeai-2026-agency-gap-ai-writing.md']
 confidence: high
 ---
 
-## Summary
-
-A randomized experiment (n = 79 medical/nursing students) examining how the **initiative design** of an AI writing agent shapes reasoning, agency, and immediate independent performance. Students completed two [[multimodal]] analytical writing tasks (interpreting healthcare-[[simulation]] data visualisations: bar chart, network diagram, ward heatmap) with either a **reactive agent** (responds only when prompted, n = 39) or a **proactive agent** (initiates sequenced questions and feedback, n = 40). [[generative-ai|GenAI]] literacy was measured with the validated 20-item **GLAT**. The study introduces the **agency gap**: a relational mismatch between the initiative an AI agent demands and the learner's capacity to initiate, monitor, evaluate, and internalise AI-supported reasoning — neither an individual deficit nor a fixed property of the system.
+> **Synthesis:** A randomized experiment (n = 79 medical/nursing students) examining how the **initiative design** of an AI writing agent shapes reasoning, agency, and immediate independent performance. Students completed two [[multimodal]] analytical writing tasks (interpreting healthcare-[[simulation]] data visualisations: bar chart, network diagram, ward heatmap) with either a **reactive agent** (responds only when prompted, n = 39) or a **proactive agent** (initiates sequenced questions and feedback, n = 40). [[generative-ai|GenAI]] literacy was measured with the validated 20-item **GLAT**. The study introduces the **agency gap**: a relational mismatch between the initiative an AI agent demands and the learner's capacity to initiate, monitor, evaluate, and internalise AI-supported reasoning — neither an individual deficit nor a fixed property of the system.
 
 ## Key findings
 

@@ -1,7 +1,7 @@
 ---
 title: "Same tool, different work: patterns of generative AI use and academic outcomes"
 created: "2026-08-25T14:00:00-04:00"
-updated: "2026-08-25T14:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, ai-literacy, self-efficacy, cognitive-offloading, student-experience]
 research_method: [survey]
@@ -11,7 +11,7 @@ sources: ['raw/papers/stamatoulis-genai-use-patterns-2026.md']
 confidence: high
 ---
 
-> **Same tool, different work: patterns of [[generative-ai|generative AI]] use and academic outcomes** — a survey study of **157 undergraduates** showing that *how* students use GenAI matters more for academic outcomes than *how often* they use it. Stamatoulis et al. (2026) identify two distinct patterns of use — **evaluative integration (EI)**, using GenAI to support understanding, and **low-verification uptake (LVU)**, using it as a shortcut — with opposite associations with performance.
+> **Synthesis:** **Same tool, different work: patterns of [[generative-ai|generative AI]] use and academic outcomes** — a survey study of **157 undergraduates** showing that *how* students use GenAI matters more for academic outcomes than *how often* they use it. Stamatoulis et al. (2026) identify two distinct patterns of use — **evaluative integration (EI)**, using GenAI to support understanding, and **low-verification uptake (LVU)**, using it as a shortcut — with opposite associations with performance.
 
 The study argues that [[research-methods-aied|research]] on students' GenAI use has relied too heavily on **frequency**, which captures exposure but not *how* students engage. Using exploratory factor analysis of items developed from pilot data, it isolates two qualitatively different use patterns and shows that their associations with performance diverge sharply — while frequency predicts neither performance nor academic self-efficacy.
 

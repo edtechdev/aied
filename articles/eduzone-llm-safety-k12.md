@@ -1,7 +1,7 @@
 ---
 title: "EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers"
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, k-12, pedagogical-safety, benchmark, governance]
 audience: [software developers]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2608.02024.md']
 confidence: high
 ---
 
-> **EduZone is an automated evaluation framework that generates contextually grounded adversarial interactions to probe [[llm|LLM]] safety in [[k-12|K-12 education]], revealing that models are more vulnerable to education-specific harms and dynamic multi-turn conversations than existing [[guardrails]] address.**
+> **Synthesis:** **EduZone is an automated evaluation framework that generates contextually grounded adversarial interactions to probe [[llm|LLM]] safety in [[k-12|K-12 education]], revealing that models are more vulnerable to education-specific harms and dynamic multi-turn conversations than existing [[guardrails]] address.**
 
 **Junyeong Park, Jieun Han, Haneul Yoo, So-Yeon Ahn, Jinsung Yoon, Alice Oh** — arXiv (cs.CY / cs.AI) preprint, 2026 (KAIST, Google Cloud AI [[research-methods-aied|Research]], NYU).
 

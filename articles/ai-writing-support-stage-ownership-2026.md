@@ -1,7 +1,7 @@
 ---
 title: "From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [writing-education, student-experience, generative-ai, metacognition, llm]
 research_method: [experiment]
@@ -11,7 +11,7 @@ sources: ['raw/papers/ai-writing-support-stage-ownership-2026.md']
 confidence: high
 ---
 
-> Gero, Long, Schnitzler & Dhillon (2026, DIS '26) ran a between-subjects essay study (n = 253) showing that **where** AI support enters the [[writing-education|writing process]] determines how much students feel they [[agency|own the work]]: any AI assistance decreased ownership, but planning support cost the least while drafting support cost the most. The mechanism is AI-contributed text and ideas — and there is a genuine **quality–ownership trade-off**.
+> **Synthesis:** Gero, Long, Schnitzler & Dhillon (2026, DIS '26) ran a between-subjects essay study (n = 253) showing that **where** AI support enters the [[writing-education|writing process]] determines how much students feel they [[agency|own the work]]: any AI assistance decreased ownership, but planning support cost the least while drafting support cost the most. The mechanism is AI-contributed text and ideas — and there is a genuine **quality–ownership trade-off**.
 
 ## The experiment
 

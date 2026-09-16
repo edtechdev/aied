@@ -1,7 +1,7 @@
 ---
 title: "Assessing ChatGPT-Generated Comments for Video-Based Learning Content to Enhance Knowledge and Emotional Support Based on Scaffolding Theory"
 created: "2026-09-10T15:16:00-04:00"
-updated: "2026-09-10T15:16:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, scaffolding, video-education, online-teaching-and-learning, feedback, motivation, student-engagement, multimodal, learning-analytics, agentic-ai, prompt-engineering]
 research_method: [experiment, user study]
@@ -12,7 +12,7 @@ sources: ['raw/papers/wang-chatgpt-comments-video-learning-scaffolding-2026.md']
 confidence: high
 ---
 
-> **ChatGPT-generated in-video comments as scaffolding** — Wang, Du and Jin (2026) design and evaluate a framework that generates *i-Comments*: short support messages displayed inside an educational video, scrolling in sync with the content, so learners receive [[scaffolding]] without pausing or switching interfaces. The framework translates [[scaffolding|scaffolding theory]], Vygotsky's [[sociocultural-learning|ZPD]], [[cognitive-offloading|cognitive load]] theory, and multimedia [[learning-theories|learning theory]] into technical components — [[multimodal]] video analysis, an **entropy-based timing** mechanism that places comments in low-information intervals, comment-type definition, and [[prompt-engineering|prompt engineering]]. Across two studies the authors find ChatGPT-generated comments to be **more complex, more adjective-heavy, less lexically diverse, and less topically aligned to the video than human comments** — a gap that is widest for [[social-emotional-learning|emotional support]] — while an ablation study shows each theory-derived prompt module contributes measurably to perceived quality and that a newer model narrows the human advantage on timing and helpfulness.
+> **Synthesis:** **ChatGPT-generated in-video comments as scaffolding** — Wang, Du and Jin (2026) design and evaluate a framework that generates *i-Comments*: short support messages displayed inside an educational video, scrolling in sync with the content, so learners receive [[scaffolding]] without pausing or switching interfaces. The framework translates [[scaffolding|scaffolding theory]], Vygotsky's [[sociocultural-learning|ZPD]], [[cognitive-offloading|cognitive load]] theory, and multimedia [[learning-theories|learning theory]] into technical components — [[multimodal]] video analysis, an **entropy-based timing** mechanism that places comments in low-information intervals, comment-type definition, and [[prompt-engineering|prompt engineering]]. Across two studies the authors find ChatGPT-generated comments to be **more complex, more adjective-heavy, less lexically diverse, and less topically aligned to the video than human comments** — a gap that is widest for [[social-emotional-learning|emotional support]] — while an ablation study shows each theory-derived prompt module contributes measurably to perceived quality and that a newer model narrows the human advantage on timing and helpfulness.
 
 ## Overview
 

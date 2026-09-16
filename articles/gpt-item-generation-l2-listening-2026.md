@@ -1,16 +1,14 @@
 ---
 title: "How to Train Your Dragon: Evaluating Prompting and Fine-Tuning for GPT-Based Item Generation in L2 Listening Assessment"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/gpt-item-generation-l2-listening-2026.md"]
 tags: ['educational-measurement', 'prompt-engineering', 'llm', 'language-learning']
 confidence: medium
 ---
 
-## Overview
-
-Aryadoust and Wong compare **prompting vs. fine-tuning** for advancing automatic item generation (AIG) in L2 listening assessment. Recognizing that iterative prompt refinement eventually plateaus while outputs remain inconsistent or misaligned with assessment constructs, they first refined an instruction design over three successive iterations to produce an optimized prompt, then **fine-tuned GPT-4.1** using the same prompt to isolate the effect of model adaptation. They generated **40 tests and 240 multiple-choice items** for evaluation.
+> **Synthesis:** Aryadoust and Wong compare **prompting vs. fine-tuning** for advancing automatic item generation (AIG) in L2 listening assessment. Recognizing that iterative prompt refinement eventually plateaus while outputs remain inconsistent or misaligned with assessment constructs, they first refined an instruction design over three successive iterations to produce an optimized prompt, then **fine-tuned GPT-4.1** using the same prompt to isolate the effect of model adaptation. They generated **40 tests and 240 multiple-choice items** for evaluation.
 
 ## Key Findings
 

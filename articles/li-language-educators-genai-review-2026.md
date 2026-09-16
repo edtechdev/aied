@@ -1,14 +1,14 @@
 ---
 title: "A Systematic Review of Language Educators' Practices and Development with GenAI"
 created: "2026-09-03T13:40:00-04:00"
-updated: "2026-09-03T13:40:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ["generative-ai", "language-learning", "teacher-role", "teacher-education", "professional-training", "english-education", "teacher-ai-competency", "meta-analysis-systematic-review"]
 sources: ["raw/papers/li-language-educators-genai-review-2026.md"]
 confidence: high
 ---
 
-> **A systematic review of language educators' practices and development with GenAI** — Li, Exter, Feng, Tang and Xu (2026) report a PRISMA-aligned [[meta-analysis-systematic-review|systematic review]] of 23 SSCI-indexed empirical studies (December 2022–September 2024) on how language educators across pre-service, in-service, and [[higher-ed|higher-education]] contexts perceive, adopt, and learn to integrate [[generative-ai|GenAI]]. Synthesizing findings through the Aristotelian knowledge typology of episteme (theoretical understanding), techne (practical skill), and phronesis (practical wisdom), the review finds cautious, selective adoption weighted toward behind-the-scenes preparation, persistent competency gaps, and only three structured professional-development interventions that nonetheless signal gains in knowledge, confidence, and identity.
+> **Synthesis:** **A systematic review of language educators' practices and development with GenAI** — Li, Exter, Feng, Tang and Xu (2026) report a PRISMA-aligned [[meta-analysis-systematic-review|systematic review]] of 23 SSCI-indexed empirical studies (December 2022–September 2024) on how language educators across pre-service, in-service, and [[higher-ed|higher-education]] contexts perceive, adopt, and learn to integrate [[generative-ai|GenAI]]. Synthesizing findings through the Aristotelian knowledge typology of episteme (theoretical understanding), techne (practical skill), and phronesis (practical wisdom), the review finds cautious, selective adoption weighted toward behind-the-scenes preparation, persistent competency gaps, and only three structured professional-development interventions that nonetheless signal gains in knowledge, confidence, and identity.
 
 ## Key Findings
 

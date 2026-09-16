@@ -1,7 +1,7 @@
 ---
 title: "Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking"
 created: "2026-08-27T06:30:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [self-regulated-learning, help-seeking, llm, higher-ed, stem-education, qualitative-research]
 connected_faqs: [reducing-over-reliance, study-with-ai]
@@ -13,7 +13,7 @@ source_url: 'https://doi.org/10.20851/ll.v8.60'
 confidence: high
 ---
 
-> **Efficiency vs. effectiveness** — a [[qualitative-research|qualitative]] study of 20 [[stem-education|STEM]] university students in Sweden showing that [[llm]] [[conversational-ai|chatbots]] are woven into a layered, context-dependent [[help-seeking]] ecosystem rather than replacing human support. Students follow a four-stage process — deciding whether help is needed, choosing whom to ask, determining the type of help, and judging the help received — favoring instrumental over executive help-seeking to retain control of [[problem-solving]].
+> **Synthesis:** **Efficiency vs. effectiveness** — a [[qualitative-research|qualitative]] study of 20 [[stem-education|STEM]] university students in Sweden showing that [[llm]] [[conversational-ai|chatbots]] are woven into a layered, context-dependent [[help-seeking]] ecosystem rather than replacing human support. Students follow a four-stage process — deciding whether help is needed, choosing whom to ask, determining the type of help, and judging the help received — favoring instrumental over executive help-seeking to retain control of [[problem-solving]].
 
 ## Key Findings
 

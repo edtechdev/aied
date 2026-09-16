@@ -1,7 +1,7 @@
 ---
 title: "Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment"
 created: "2026-08-15T15:16:58-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-ed-evaluation, educational-measurement, assessment-validity, automated-assessment, ai-feedback-quality, llm, teacher-role, educational-development, professional-training]
 research_method: [educational measurement, interviews, benchmark]
@@ -11,9 +11,7 @@ sources: ['raw/papers/melo-llm-classroom-observation-teach-2026.md']
 confidence: high
 ---
 
-## Summary
-
-Melo, de la Maza and Recabarren (2026) empirically validate whether [[llm|large language models]] can act as [[automated-assessment|automated classroom observers]] using the World Bank's **TEACH Primary** framework — a high-inference observation instrument normally requiring trained human evaluators. Using 12 primary classroom videos, they compared **8,618 AI-generated evaluations from eight LLM endpoints** against consensus-based ratings from certified TEACH experts. Each model produced **10 independent evaluations per video–element pair** to quantify stochastic variability. Reliability was measured with dispersion/consistency indicators (SD, entropy, ICC); accuracy against experts with exact agreement (EA), MAE, RMSE, and concordance (CCC). The core finding: substantial stochastic variability across repetitions, moderate-at-best expert agreement, and — critically — **[[assessment-validity|reliability]] and accuracy did not co-vary**, with LLMs systematically privileging explicit verbal cues over implicit [[pedagogy|pedagogical]] evidence.
+> **Synthesis:** Melo, de la Maza and Recabarren (2026) empirically validate whether [[llm|large language models]] can act as [[automated-assessment|automated classroom observers]] using the World Bank's **TEACH Primary** framework — a high-inference observation instrument normally requiring trained human evaluators. Using 12 primary classroom videos, they compared **8,618 AI-generated evaluations from eight LLM endpoints** against consensus-based ratings from certified TEACH experts. Each model produced **10 independent evaluations per video–element pair** to quantify stochastic variability. Reliability was measured with dispersion/consistency indicators (SD, entropy, ICC); accuracy against experts with exact agreement (EA), MAE, RMSE, and concordance (CCC). The core finding: substantial stochastic variability across repetitions, moderate-at-best expert agreement, and — critically — **[[assessment-validity|reliability]] and accuracy did not co-vary**, with LLMs systematically privileging explicit verbal cues over implicit [[pedagogy|pedagogical]] evidence.
 
 ## Key Findings
 

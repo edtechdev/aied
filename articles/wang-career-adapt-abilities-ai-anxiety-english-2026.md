@@ -1,7 +1,7 @@
 ---
 title: "The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered"
 created: "2026-08-25T07:45:00-04:00"
-updated: "2026-08-25T10:20:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-anxiety-and-stress, adult-learning, self-efficacy, higher-ed, ai-literacy, well-being]
 audience: [learners]
@@ -11,7 +11,7 @@ sources: ['raw/papers/wang-career-adapt-abilities-ai-anxiety-english-2026.md']
 confidence: high
 ---
 
-> **Career adapt-abilities and AI anxiety** — a study of 444 English-major undergraduates at four Chinese universities (July–August 2025) showing that **career adapt-abilities significantly and negatively predict AI anxiety**, with **core self-evaluations partially mediating** this relationship. Latent profile analysis identified three career adapt-abilities subgroups (low, medium, high): the **low group showed the highest AI anxiety**, the high group the lowest. This is direct empirical evidence that career-related readiness is a protective factor against AI anxiety.
+> **Synthesis:** **Career adapt-abilities and AI anxiety** — a study of 444 English-major undergraduates at four Chinese universities (July–August 2025) showing that **career adapt-abilities significantly and negatively predict AI anxiety**, with **core self-evaluations partially mediating** this relationship. Latent profile analysis identified three career adapt-abilities subgroups (low, medium, high): the **low group showed the highest AI anxiety**, the high group the lowest. This is direct empirical evidence that career-related readiness is a protective factor against AI anxiety.
 
 Wang (2026) connects the knowledge base's [[ai-anxiety-and-stress]] and career-readiness threads: students who feel more adaptable and prepared for their careers experience less AI anxiety. It positions career development as a buffer against the fear that AI will displace or devalue one's professional future.
 

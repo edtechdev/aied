@@ -1,7 +1,7 @@
 ---
 title: "Access is Not Enough: Human Support Improves Engagement with AI Tutoring"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-25T17:30:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, equity-in-ai-education, student-engagement, k-12, ai-literacy, student-experience, rct, rag]
 research_method: [randomized controlled trial]
@@ -12,7 +12,7 @@ sources: ['raw/papers/access-not-enough-ai-tutoring-2026.md']
 confidence: high
 ---
 
-> Robinson, Gormley, Ribeiro & Loeb (2026) ran two [[rct|RCTs]] showing that [[intelligent-tutoring|AI tutoring]]'s binding constraint is **take-up, not capability**: despite dedicated session time, nearly half of students never used the platform and users averaged only 2–5 minutes per week. An in-person engagement tutor (not direct instruction) raised usage by 1–4 minutes/week and engagement by 71–80% — but dosage stayed far below the level needed for reading gains, and achievement did not improve.
+> **Synthesis:** Robinson, Gormley, Ribeiro & Loeb (2026) ran two [[rct|RCTs]] showing that [[intelligent-tutoring|AI tutoring]]'s binding constraint is **take-up, not capability**: despite dedicated session time, nearly half of students never used the platform and users averaged only 2–5 minutes per week. An in-person engagement tutor (not direct instruction) raised usage by 1–4 minutes/week and engagement by 71–80% — but dosage stayed far below the level needed for reading gains, and achievement did not improve.
 
 ## The two RCTs
 

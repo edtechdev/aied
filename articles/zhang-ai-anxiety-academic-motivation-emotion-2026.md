@@ -1,7 +1,7 @@
 ---
 title: "The Relationship Between AI Anxiety and Academic Motivation Among University Students: The Mediating Role of Emotion Regulation and the Moderating Role of Gender"
 created: "2026-09-06T08:16:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [motivation, well-being, higher-ed, generative-ai, self-efficacy, metacognition, student-experience]
 connected_faqs: [ai-anxiety-wellbeing]
@@ -12,7 +12,7 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1918525.md']
 confidence: high
 ---
 
-Yuanchang Zhang, Yantao Shi, and Jing Lu (2026) examined whether AI anxiety constitutes a psychological barrier to university students' motivational adaptation to AI-supported learning, using a cross-sectional survey of 1,484 Chinese undergraduates analysed with moderated-mediation models. [[generative-ai|Generative AI]] is increasingly embedded in students' writing, information retrieval, and knowledge organisation, yet the psychological responses to that integration remain under-studied relative to educational affordances and [[ethics|ethical]] challenges. The study found AI anxiety negatively associated with both emotion [[regulation]] and academic motivation, while emotion regulation was positively associated with academic motivation; bootstrap analyses confirmed a significant negative indirect path from AI anxiety to academic motivation through emotion regulation. Gender moderated the emotion-regulation–motivation link, with a stronger positive association among male students.
+> **Synthesis:** Yuanchang Zhang, Yantao Shi, and Jing Lu (2026) examined whether AI anxiety constitutes a psychological barrier to university students' motivational adaptation to AI-supported learning, using a cross-sectional survey of 1,484 Chinese undergraduates analysed with moderated-mediation models. [[generative-ai|Generative AI]] is increasingly embedded in students' writing, information retrieval, and knowledge organisation, yet the psychological responses to that integration remain under-studied relative to educational affordances and [[ethics|ethical]] challenges. The study found AI anxiety negatively associated with both emotion [[regulation]] and academic motivation, while emotion regulation was positively associated with academic motivation; bootstrap analyses confirmed a significant negative indirect path from AI anxiety to academic motivation through emotion regulation. Gender moderated the emotion-regulation–motivation link, with a stronger positive association among male students.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis"
 created: "2026-08-01T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T17:23:24-04:00"
 type: article
 tags: [automated-assessment, learning-theories, learning-analytics, llm, generative-ai, educational-nlp]
 research_method: [benchmark]
@@ -10,7 +10,7 @@ sources: ['raw/papers/caeai-human-llm-coding.md']
 confidence: high
 ---
 
-> **Authors:** Kamila Misiejuk, Sonsoles López-Pernas, Eduardo Araujo Oliveira, Brendan Eagan, Mohammed Saqr **Source:** Computers and Education: AI, Vol 11 — [[open-source|Open Access]] (CC BY 4.0)
+> **Synthesis:** Misiejuk and colleagues (2026) test whether a modern generative [[llm|LLM]] can automate **ordered** coding of learner text, where a single utterance may carry several codes and the assignment order matters — a case classic language models such as BERT cannot handle. Coded by two researchers and by gemini-2.5-flash under a sliding five-message context window, **6,013 Discord messages** from three master's-level courses reveal systematic, statistically significant differences between machine and human coding across structural, transitional and code-level metrics (χ2(7) = 1427, p < 0.001): the model over-assigned Reaction (2,107 vs. 823) and Discussion (1,092 vs. 756) while humans produced far more Monitoring (1,185 vs. 283) and CoRegulation (1,352 vs. 770), binary accuracy stayed at 0.693–0.888 with very low recall for Feedback (0.131) and Monitoring (0.100), and the model detected far more multi-step transition patterns than its human counterparts. The paper contributes two [[ai-ed-evaluation|evaluation]] approaches for ordered coding and a consistent-context prompting method.
 
 ## Key Findings
 

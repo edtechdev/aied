@@ -1,16 +1,14 @@
 ---
 title: "Pedagogy First, Technology Second: Cross-Level Relationships Between Teacher Professional Knowledge and Student Learning"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/pedagogy-first-technology-second-teacher-knowledge-2026.md"]
 tags: ['tpack', 'k-12', 'quantitative-research', 'ai-education', 'pedagogy']
 confidence: medium
 ---
 
-## Overview
-
-Shen and colleagues examine how teacher professional knowledge shapes student learning in K-12 AI education, drawing on social cognitive theory and the [[tpack|TPACK]] framework. Using a multilevel structural equation model, they analyzed data from **46 secondary school [[teacher-role|teachers]] and 2,832 students** to test cross-level effects of two knowledge components: teacher AI knowledge (TAIK, the technological/technical side) and teacher pedagogical AI knowledge (TPAIK, the pedagogical side).
+> **Synthesis:** Shen and colleagues examine how teacher professional knowledge shapes student learning in K-12 AI education, drawing on social cognitive theory and the [[tpack|TPACK]] framework. Using a multilevel structural equation model, they analyzed data from **46 secondary school [[teacher-role|teachers]] and 2,832 students** to test cross-level effects of two knowledge components: teacher AI knowledge (TAIK, the technological/technical side) and teacher pedagogical AI knowledge (TPAIK, the pedagogical side).
 
 ## Key Findings
 

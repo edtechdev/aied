@@ -1,7 +1,7 @@
 ---
 title: "Nursing Students' and Faculty Experiences with Artificial Intelligence in Education: A Qualitative Study Using the Technology Acceptance Model"
 created: "2026-09-08T02:39:31-04:00"
-updated: "2026-09-08T02:39:31-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [medical-education, technology-acceptance-model, ai-literacy, well-being, generative-ai, higher-ed, professional-training, equity-in-ai-education]
 sources: ['raw/papers/akbaba-nursing-ai-experiences-tam-2026.md']
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 ---
 
-A COREQ-guided descriptive qualitative study of AI experiences in nursing education: semi-structured interviews with 28 participants (16 nursing students, 12 faculty) across two universities, analyzed deductively through the Technology Acceptance Model (TAM) with inductive extension. Four TAM-aligned categories emerged (perceived ease of use, perceived usefulness, behavioural intention, actual use). Students used AI mainly for presentations, visual content, and clinical case analysis; faculty for course materials, academic writing, and administration. Notably, AI was also described as a source of cognitive, instructional, and psychosocial support — a relational dimension TAM does not explicitly capture. Concerns included reduced critical thinking, misinformation, plagiarism, and unequal access.
+> **Synthesis:** A COREQ-guided descriptive qualitative study of AI experiences in nursing education: semi-structured interviews with 28 participants (16 nursing students, 12 faculty) across two universities, analyzed deductively through the Technology Acceptance Model (TAM) with inductive extension. Four TAM-aligned categories emerged (perceived ease of use, perceived usefulness, behavioural intention, actual use). Students used AI mainly for presentations, visual content, and clinical case analysis; faculty for course materials, academic writing, and administration. Notably, AI was also described as a source of cognitive, instructional, and psychosocial support — a relational dimension TAM does not explicitly capture. Concerns included reduced critical thinking, misinformation, plagiarism, and unequal access.
 
 **Relevance to [[ai-education|AI in Education]]:** This study adds qualitative, discipline-specific depth to [[technology-acceptance-model|TAM]]-based AI adoption research in [[medical-education|health-professions education]], and surfaces an underexplored psychosocial/emotional dimension of AI use with implications for [[ai-literacy]], student [[well-being]], and [[equity-in-ai-education|equitable access]].
 

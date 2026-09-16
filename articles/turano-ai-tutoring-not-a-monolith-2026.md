@@ -1,7 +1,7 @@
 ---
 title: "AI Tutoring is Not a Monolith: What We Actually Know"
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-08-27T08:07:41.879764-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, k-12, educational-policy-ai, guardrails, privacy, learning-gains, pedagogical-safety]
 research_method: [learning analytics]
@@ -11,7 +11,7 @@ source_url: 'https://scale.stanford.edu/'
 confidence: high
 ---
 
-> **AI tutoring is not a monolith** — a Stanford SCALE / National Student Support Accelerator (NSSA) policy brief (August 2026) mapping AI tutoring models along a "relational intensity" spectrum and weighing them against the evidence base for high-impact tutoring. The brief's core message: high-impact tutoring remains defined by live human-led instruction with strong student-tutor relationships; AI is best used to *enhance tutor effectiveness and educator capacity*, not to replace human-led high-impact tutoring. AI-led software offers potential for supplemental practice but does not yet meet the evidence base or definition of high-impact tutoring — and its effectiveness depends as much on integration (teachers in classrooms, parents at home) as on software quality.
+> **Synthesis:** **AI tutoring is not a monolith** — a Stanford SCALE / National Student Support Accelerator (NSSA) policy brief (August 2026) mapping AI tutoring models along a "relational intensity" spectrum and weighing them against the evidence base for high-impact tutoring. The brief's core message: high-impact tutoring remains defined by live human-led instruction with strong student-tutor relationships; AI is best used to *enhance tutor effectiveness and educator capacity*, not to replace human-led high-impact tutoring. AI-led software offers potential for supplemental practice but does not yet meet the evidence base or definition of high-impact tutoring — and its effectiveness depends as much on integration (teachers in classrooms, parents at home) as on software quality.
 
 ## Key Findings
 

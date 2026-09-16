@@ -1,7 +1,7 @@
 ---
 title: "EducaSim: Interactive Simulacra for CS1 Instructional Practice"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [simulating-students, teacher-education, experiential-learning, agentic-ai, pedagogical-agent, cs-education, simulation, online-teaching-and-learning]
 research_method: [system development]
@@ -10,7 +10,7 @@ confidence: high
 sources: [raw/papers/2603.11444.md]
 ---
 
-> **Generative agents that simulate a small-group classroom section offer low-cost, scalable, experiential [[pedagogy|teaching practice]] for instructors — especially in massive online courses.** EducaSim implements diverse pedagogical-based student personas, actual course material, and agent-based architectures so teachers-in-training can practice instruction through role play without the trained-facilitator overhead that makes live role play hard to scale. Deployed as an optional preparation tool in a six-week CS1 course supporting ~20,000 students (focused on 150 of 1,300 volunteer teachers), it logged 254 sessions with a mean duration of ~16 minutes, and teachers who engaged generally found it a positive experience. The framework is designed to fix three weaknesses of prior student [[simulation|simulations]]: lack of in-context domain knowledge, inconsistent agent behavior, and missing feedback/self-reflection.
+> **Synthesis:** **Generative agents that simulate a small-group classroom section offer low-cost, scalable, experiential [[pedagogy|teaching practice]] for instructors — especially in massive online courses.** EducaSim implements diverse pedagogical-based student personas, actual course material, and agent-based architectures so teachers-in-training can practice instruction through role play without the trained-facilitator overhead that makes live role play hard to scale. Deployed as an optional preparation tool in a six-week CS1 course supporting ~20,000 students (focused on 150 of 1,300 volunteer teachers), it logged 254 sessions with a mean duration of ~16 minutes, and teachers who engaged generally found it a positive experience. The framework is designed to fix three weaknesses of prior student [[simulation|simulations]]: lack of in-context domain knowledge, inconsistent agent behavior, and missing feedback/self-reflection.
 
 ## Key Findings
 

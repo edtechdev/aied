@@ -1,7 +1,7 @@
 ---
 title: "Navigating uncertainty: university teachers' experiences and perceptions of generative AI in teaching and learning"
 created: "2026-09-03T12:22:25-04:00"
-updated: "2026-09-03T12:22:25-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ['teacher-role', 'higher-ed', 'generative-ai', 'academic-integrity', 'assessment', 'equity-in-ai-education', 'ai-anxiety-and-stress', 'educational-development', 'theory-development-aied', 'qualitative-research']
 research_method: [qualitative]
@@ -11,7 +11,7 @@ sources: ['raw/papers/farazouli-navigating-uncertainty-teachers-genai-2026.md']
 confidence: high
 ---
 
-> **Navigating uncertainty** — a [[qualitative-research|qualitative]] study of 24 Swedish university teachers ([[higher-ed|higher education]], disciplines centered on long-form [[writing-education|writing]]: philosophy, law, sociology, education) who took part in assessment workshops with [[generative-ai|GAI]] outputs followed by focus-group interviews. Drawing on **postphenomenology and technological mediation theory**, the authors find that the emergence of GAI was experienced as *alarming and overwhelming*, inducing a *state of vulnerability* and *ethical challenges* (fairness, unequal access, bias), while [[prompt-engineering|prompting]] teachers to *rethink assessment*, *re-evaluate teaching priorities* (especially [[critical-thinking|critical thinking]]), and worry that *student learning is at risk* (weakening of skills, desocialisation of learning). The study contributes a technology-mediation account of how [[teacher-role|teachers' roles]] and confidence are unsettled when GAI enters established educational practice.
+> **Synthesis:** **Navigating uncertainty** — a [[qualitative-research|qualitative]] study of 24 Swedish university teachers ([[higher-ed|higher education]], disciplines centered on long-form [[writing-education|writing]]: philosophy, law, sociology, education) who took part in assessment workshops with [[generative-ai|GAI]] outputs followed by focus-group interviews. Drawing on **postphenomenology and technological mediation theory**, the authors find that the emergence of GAI was experienced as *alarming and overwhelming*, inducing a *state of vulnerability* and *ethical challenges* (fairness, unequal access, bias), while [[prompt-engineering|prompting]] teachers to *rethink assessment*, *re-evaluate teaching priorities* (especially [[critical-thinking|critical thinking]]), and worry that *student learning is at risk* (weakening of skills, desocialisation of learning). The study contributes a technology-mediation account of how [[teacher-role|teachers' roles]] and confidence are unsettled when GAI enters established educational practice.
 
 ## Key Findings
 

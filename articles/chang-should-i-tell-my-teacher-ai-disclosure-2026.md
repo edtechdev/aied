@@ -1,7 +1,7 @@
 ---
 title: "\"Should I Tell My Teacher?\" Student AI Disclosure Practices, Stigma, and Self-Regulated Learning in Higher Education"
 created: "2026-08-27T11:15:00-04:00"
-updated: "2026-08-27T11:38:38.333597-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-use-disclosure, self-regulated-learning, help-seeking, academic-integrity, higher-ed, generative-ai, social-emotional-learning]
 research_method: [survey]
@@ -11,7 +11,7 @@ source_url: 'https://doi.org/10.3389/feduc.2026.1826174'
 confidence: high
 ---
 
-> **Student AI disclosure is not only a matter of policy compliance — it is an [[affective-computing|affective]] process intertwined with [[self-regulated-learning|self-regulated learning]].** Chang, Lin, Huang, and Ryoo (2026), studying 78 [[higher-ed|undergraduates]], find that students' worries about judgment, stigma, dependence, and replacement are associated with greater concealment and peer-only disclosure, while teacher-directed disclosure is consistent with adaptive [[help-seeking]]. A key finding: **anxiety does not suppress disclosure wholesale — it redirects it** toward safer peer outlets, cutting students off from the instructor [[feedback]] that could calibrate their AI use. Disclosure norms vary by discipline and language, and do not develop automatically with academic progression.
+> **Synthesis:** **Student AI disclosure is not only a matter of policy compliance — it is an [[affective-computing|affective]] process intertwined with [[self-regulated-learning|self-regulated learning]].** Chang, Lin, Huang, and Ryoo (2026), studying 78 [[higher-ed|undergraduates]], find that students' worries about judgment, stigma, dependence, and replacement are associated with greater concealment and peer-only disclosure, while teacher-directed disclosure is consistent with adaptive [[help-seeking]]. A key finding: **anxiety does not suppress disclosure wholesale — it redirects it** toward safer peer outlets, cutting students off from the instructor [[feedback]] that could calibrate their AI use. Disclosure norms vary by discipline and language, and do not develop automatically with academic progression.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "Fostering Generative AI Literacy in Economics: A Hands-on Approach"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-literacy, generative-ai, critical-thinking, higher-ed, student-engagement, learning-design, active-learning, reducing-ai-misuse]
 audience: [learners, instructors]
@@ -12,7 +12,7 @@ sources: ['raw/papers/beck-genai-literacy-economics-hands-on.md']
 confidence: high
 ---
 
-> **A five-step, active-learning framework for building AI literacy in economics courses.** Beck & Brodersen (2025) present a hands-on approach in which students analyze real-world scenarios (song lyrics, news articles), generate ChatGPT responses to the same questions, and then critically evaluate the AI output against their own answers. The approach deepens economic concept understanding while fostering engagement, critical thinking, and [[ai-literacy]].
+> **Synthesis:** **A five-step, active-learning framework for building AI literacy in economics courses.** Beck & Brodersen (2025) present a hands-on approach in which students analyze real-world scenarios (song lyrics, news articles), generate ChatGPT responses to the same questions, and then critically evaluate the AI output against their own answers. The approach deepens economic concept understanding while fostering engagement, critical thinking, and [[ai-literacy]].
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Literacy Interventions in Education: A Meta-Analysis of Effects and Moderators"
 created: "2026-08-24T12:34:00-04:00"
-updated: "2026-09-02T03:28:16-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-literacy, meta-analysis-systematic-review, ai-ed-evaluation, pedagogy, assessment, higher-ed, k-12]
 audience: [instructors, faculty development, researchers]
@@ -12,7 +12,7 @@ sources: ['raw/papers/liu-ai-literacy-interventions-meta-analysis-2026.md']
 confidence: high
 ---
 
-> **In brief:** Liu, Lin, Ng, Yang, and Dai conduct a three-level [[meta-analysis-systematic-review|meta-analysis]] of 59 empirical studies (172 effect sizes, 7,211 participants) on [[ai-literacy|AI literacy]] interventions. They find a large, statistically significant overall effect (g = 0.837, p < .001) with substantial heterogeneity; moderator analyses show interventions in East Asia and Europe outperformed those in North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or [[ethics]]. They conclude AI literacy education should move beyond knowledge toward skills, practices, [[ethics]], and attitudes, supported by integrated and reflective [[pedagogy|pedagogies]] and [[generative-ai|GenAI]]-supported tools.
+> **Synthesis:** **In brief:** Liu, Lin, Ng, Yang, and Dai conduct a three-level [[meta-analysis-systematic-review|meta-analysis]] of 59 empirical studies (172 effect sizes, 7,211 participants) on [[ai-literacy|AI literacy]] interventions. They find a large, statistically significant overall effect (g = 0.837, p < .001) with substantial heterogeneity; moderator analyses show interventions in East Asia and Europe outperformed those in North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or [[ethics]]. They conclude AI literacy education should move beyond knowledge toward skills, practices, [[ethics]], and attitudes, supported by integrated and reflective [[pedagogy|pedagogies]] and [[generative-ai|GenAI]]-supported tools.
 
 This meta-analysis answers the question of how — and under what conditions — AI literacy interventions support student development. Synthesizing 172 effect sizes from 59 studies and 7,211 participants, it estimates a large overall effect (g = 0.837) but with a wide 95% prediction interval [−0.292,1.966], indicating effectiveness varies considerably across settings. Moderator analyses identify geographical region and learning-outcome focus as significant: interventions in East Asia and Europe yielded stronger effects than North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics.
 

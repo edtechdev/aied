@@ -1,16 +1,14 @@
 ---
 title: "Improving Instructional Design Proficiency of Master's Students in Mathematics Education Through Intelligent Educational Technologies"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-12T00:40:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/instructional-design-proficiency-masters-math-2026.md"]
 tags: ["learning-design", "math-education", "teacher-education", "educational-development", "intelligent-tutoring"]
 confidence: medium
 ---
 
-## Overview
-
-Zhu and colleagues address a gap in [[learning-design]] for [[discipline-specific-aied|discipline-specific]] smart education by proposing and testing a smart classroom model for Master of Education (M.Ed.) programs, using mathematics instructional design as a case study. Rather than an algorithmic approach, they take a pedagogically oriented route grounded in a three-dimensional framework (learning effectiveness, ICT, and classroom organization) and build the **D–T–E Model** (Disciplinary Demand–Technological Empowerment–Evaluation Loop). A quasi-experimental study with 68 mathematics education M.Ed. students showed the model significantly improves the precision and professionalism of their instructional objective design, offering a transferable template for [[teacher-education]] and [[educational-development]].
+> **Synthesis:** Zhu and colleagues address a gap in [[learning-design]] for [[discipline-specific-aied|discipline-specific]] smart education by proposing and testing a smart classroom model for Master of Education (M.Ed.) programs, using mathematics instructional design as a case study. Rather than an algorithmic approach, they take a pedagogically oriented route grounded in a three-dimensional framework (learning effectiveness, ICT, and classroom organization) and build the **D–T–E Model** (Disciplinary Demand–Technological Empowerment–Evaluation Loop). A quasi-experimental study with 68 mathematics education M.Ed. students showed the model significantly improves the precision and professionalism of their instructional objective design, offering a transferable template for [[teacher-education]] and [[educational-development]].
 
 ## Key Findings
 

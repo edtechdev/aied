@@ -1,7 +1,7 @@
 ---
 title: "Students' Perceptions of Generative AI-Powered Learning Analytics in the Feedback Process: A Feedback Literacy Perspective"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [feedback, learning-analytics, ai-feedback-quality, formative-assessment, self-regulated-learning, ai-literacy, higher-ed, student-experience]
 research_method: [case study]
@@ -12,9 +12,7 @@ sources: ['raw/papers/jin-genai-learning-analytics-feedback-literacy.md']
 confidence: high
 ---
 
-## Summary
-
-Jin, Maheshi, Lai, Li, Gasevic, Chen, Charwat, Chan, Martinez-Maldonado, Gašević & Tsai (2025) examine how [[generative-ai|generative AI]] (GenAI) can support students' [[student-engagement|engagement]] with feedback through a [[feedback-literacy|feedback literacy]] lens. They piloted **PolyFeed**, a student-facing [[learning-analytics|learning analytics]] feedback tool whose two GenAI features (both running ChatGPT 3.5) were: a ChatGPT **explanation function** that reformats or explains specific educator feedback in simpler, bullet-pointed language (capped at two attempts per item), and a GenAI-powered **dashboard** visualizing common strengths and weaknesses across assessments and units, derived from students' own feedback annotations and inductive thematic coding. Data came from 18 higher-education students across information technology, education, business/economics, and engineering, spanning three phases: introductory lab sessions, in-semester trace-data use, and post hoc interviews.
+> **Synthesis:** Jin, Maheshi, Lai, Li, Gasevic, Chen, Charwat, Chan, Martinez-Maldonado, Gašević & Tsai (2025) examine how [[generative-ai|generative AI]] (GenAI) can support students' [[student-engagement|engagement]] with feedback through a [[feedback-literacy|feedback literacy]] lens. They piloted **PolyFeed**, a student-facing [[learning-analytics|learning analytics]] feedback tool whose two GenAI features (both running ChatGPT 3.5) were: a ChatGPT **explanation function** that reformats or explains specific educator feedback in simpler, bullet-pointed language (capped at two attempts per item), and a GenAI-powered **dashboard** visualizing common strengths and weaknesses across assessments and units, derived from students' own feedback annotations and inductive thematic coding. Data came from 18 higher-education students across information technology, education, business/economics, and engineering, spanning three phases: introductory lab sessions, in-semester trace-data use, and post hoc interviews.
 
 The central finding is a **discrepancy between initial perceptions and actual usage**. During the introductory lab sessions, students reacted overwhelmingly positively — all 18 reacted positively to ChatGPT explanations and 16 to the visualizations, seeing them as aids to sense-making, reflection, and acting on feedback. Yet in-semester trace data showed only modest engagement: just half used the ChatGPT explanation function (mean rating 3.23/4), and [[visualization]] access ranged 50–67% per graph. Post hoc interviews revealed three drivers of the drop: a mismatch between students' expectations and GenAI outputs, a lack of relevance across varied disciplines, and a sense that the features were redundant when educator feedback was already clear. The authors argue GenAI can help close the [[feedback|feedback loop]] and shift students from passive recipients to active participants, but call for adaptive, [[discipline-specific-aied|discipline-specific]], explainable designs that set realistic expectations and give learners control over AI interactions.
 

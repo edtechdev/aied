@@ -1,7 +1,7 @@
 ---
 title: "What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education"
 created: "2026-09-08T02:39:20-04:00"
-updated: "2026-09-08T02:39:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [medical-education, pedagogical-agent, ai-ed-evaluation, assessment, intelligent-tutoring, generative-ai, llm, simulation]
 sources: ['raw/papers/zhang-platform-scores-miss-ai-teaching-agents-2026.md']
@@ -13,7 +13,7 @@ category: [evaluation]
 confidence: high
 ---
 
-Eight AI teaching agents covering an endocrinology curriculum were deployed across four role-play paradigms (patient, student, expert, family) on a commercial platform. Twenty-two medical students generated 167 dialogues scored both by the platform's undisclosed algorithm and by an independently applied, expert-validated 8-dimension teaching-quality rubric (100 points). Platform and rubric rankings diverged for most agents — the agent ranked third by the platform ranked last on rubric quality, and the fourth-ranked rose to first — indicating platform scores index student performance, not agent teaching quality. Agents differed most on knowledge dimensions and shared a weakness in adaptive difficulty calibration; an empathic agent attained high role-play quality yet the lowest knowledge coverage.
+> **Synthesis:** Eight AI teaching agents covering an endocrinology curriculum were deployed across four role-play paradigms (patient, student, expert, family) on a commercial platform. Twenty-two medical students generated 167 dialogues scored both by the platform's undisclosed algorithm and by an independently applied, expert-validated 8-dimension teaching-quality rubric (100 points). Platform and rubric rankings diverged for most agents — the agent ranked third by the platform ranked last on rubric quality, and the fourth-ranked rose to first — indicating platform scores index student performance, not agent teaching quality. Agents differed most on knowledge dimensions and shared a weakness in adaptive difficulty calibration; an empathic agent attained high role-play quality yet the lowest knowledge coverage.
 
 **Relevance to [[ai-education|AI in Education]]:** This is a direct demonstration that the metric an educator happens to have at hand can mislead which [[pedagogical-agent|AI teaching agents]] get adopted or refined. It contributes a transparent, reusable evaluation framework and cautions against treating [[ai-ed-evaluation|platform-generated scores]] as proxies for teaching quality, connecting to [[assessment-validity]] and LLM-as-evaluator concerns.
 

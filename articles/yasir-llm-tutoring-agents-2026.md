@@ -1,7 +1,7 @@
 ---
 title: "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most"
 created: "2026-08-15T15:53:50-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, student-modeling, knowledge-graph, knowledge-tracing, ai-feedback-quality, ai-ed-evaluation, educational-measurement]
 audience: [software developers]
@@ -12,9 +12,7 @@ sources: ['raw/papers/yasir-llm-tutoring-agents-2026.md']
 confidence: high
 ---
 
-## Summary
-
-Yasir et al. (2026) [[benchmark]] seven [[llm|LLM]] [[feedback]] agents as step-level [[intelligent-tutoring|tutors]] in propositional logic, using **[[knowledge-graph]]-derived ground truth** across 10,836 solution–feedback pairs and three feedback conditions. Their core finding: models achieve near-ceiling performance on optimal steps but **systematically over-reject valid-but-suboptimal reasoning and over-validate incorrect solutions** — precisely where [[intelligent-tutoring|adaptive tutoring]] matters most. These failures persist across models and solution contexts (suggesting architectural rather than informational limits), and accurate diagnosis does not reliably produce pedagogically actionable [[feedback]]. The authors conclude LLMs are better suited to hybrid architectures where [[knowledge-graph|KG-grounded]] models handle diagnosis while LLMs support open-ended [[scaffolding]] and dialogue.
+> **Synthesis:** Yasir et al. (2026) [[benchmark]] seven [[llm|LLM]] [[feedback]] agents as step-level [[intelligent-tutoring|tutors]] in propositional logic, using **[[knowledge-graph]]-derived ground truth** across 10,836 solution–feedback pairs and three feedback conditions. Their core finding: models achieve near-ceiling performance on optimal steps but **systematically over-reject valid-but-suboptimal reasoning and over-validate incorrect solutions** — precisely where [[intelligent-tutoring|adaptive tutoring]] matters most. These failures persist across models and solution contexts (suggesting architectural rather than informational limits), and accurate diagnosis does not reliably produce pedagogically actionable [[feedback]]. The authors conclude LLMs are better suited to hybrid architectures where [[knowledge-graph|KG-grounded]] models handle diagnosis while LLMs support open-ended [[scaffolding]] and dialogue.
 
 ## Key Findings
 

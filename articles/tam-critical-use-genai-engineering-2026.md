@@ -1,7 +1,7 @@
 ---
 title: "Factors Influencing University Students' Intention to Use and Reliance on Generative AI: An Extended Technology Acceptance Model with Critical Use"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [technology-acceptance-model, generative-ai, higher-ed, student-experience, cs-education, engineering-education, ai-literacy, critical-thinking, ethics, cognitive-offloading]
 research_method: [literature review, theoretical analysis]
@@ -12,7 +12,7 @@ sources: ['raw/papers/10.1016_j.caeai.2026.100618.md']
 confidence: high
 ---
 
-Trang H. Nguyen, Long T. Truong, & Nhu H.T. Nguyen (2026) investigated factors influencing university students' intention to use and reliance on [[generative-ai|generative AI]] among [[engineering-education|Engineering]] and [[cs-education|Computer Science/IT]] (CS/IT) students. Drawing on an extended [[technology-acceptance-model|Technology Acceptance Model (TAM)]], the study integrates the construct of **critical use** and conceptualizes reliance across four functional domains relevant to engineering and CS/IT education.
+> **Synthesis:** Trang H. Nguyen, Long T. Truong, & Nhu H.T. Nguyen (2026) investigated factors influencing university students' intention to use and reliance on [[generative-ai|generative AI]] among [[engineering-education|Engineering]] and [[cs-education|Computer Science/IT]] (CS/IT) students. Drawing on an extended [[technology-acceptance-model|Technology Acceptance Model (TAM)]], the study integrates the construct of **critical use** and conceptualizes reliance across four functional domains relevant to engineering and CS/IT education.
 
 ## Key Findings
 

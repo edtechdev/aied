@@ -1,7 +1,7 @@
 ---
 title: "Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI"
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [simulating-students, generative-ai, llm, student-modeling, agentic-ai, learning-design, teacher-role, adaptive-learning]
 research_method: [literature review, interviews]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2511.06078.md']
 confidence: high
 ---
 
-> Marquez-Carpintero, Lopez-Sellers & Cazorla (2025) present a thematic review of empirical and [[research-methods-aied|methodological]] studies using LLMs to [[simulating-students|simulate student behavior]] in education. They synthesize evidence on how LLM-based agents emulate learner archetypes, respond to instructional inputs, and interact in multi-agent classroom scenarios, and examine implications for curriculum development, instructional evaluation, and teacher training — while flagging persistent concerns around algorithmic bias, evaluation reliability, and alignment with educational objectives. The review frames simulated students as a valuable methodological tool for evaluating pedagogy and modeling diverse learner profiles, and identifies it as the first literature review dedicated specifically to simulating student roles and mechanisms with [[llm|LLMs]].
+> **Synthesis:** Marquez-Carpintero, Lopez-Sellers & Cazorla (2025) present a thematic review of empirical and [[research-methods-aied|methodological]] studies using LLMs to [[simulating-students|simulate student behavior]] in education. They synthesize evidence on how LLM-based agents emulate learner archetypes, respond to instructional inputs, and interact in multi-agent classroom scenarios, and examine implications for curriculum development, instructional evaluation, and teacher training — while flagging persistent concerns around algorithmic bias, evaluation reliability, and alignment with educational objectives. The review frames simulated students as a valuable methodological tool for evaluating pedagogy and modeling diverse learner profiles, and identifies it as the first literature review dedicated specifically to simulating student roles and mechanisms with [[llm|LLMs]].
 
 ## Key Findings
 

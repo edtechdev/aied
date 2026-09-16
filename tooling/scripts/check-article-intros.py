@@ -10,13 +10,19 @@ renders as a page with no summary at the top.
 Read-only: this script never edits a page. It reports the pages that need a
 human normalisation, so a bulk pass can be reviewed before it runs.
 
+Defects (exit 1): no blockquote at all, an unlabelled blockquote, a venue/author
+line presented as the synthesis, synthesis text repeated later in the body.
+Advisory (does not fail the run unless --strict): a synthesis under 25 words.
+A short lead can be a perfectly good summary, so it is reported separately.
+
 Usage:
     python3 tooling/scripts/check-article-intros.py              # all articles
     python3 tooling/scripts/check-article-intros.py --since 2026-07
     python3 tooling/scripts/check-article-intros.py --json
     python3 tooling/scripts/check-article-intros.py --quiet       # summary only
+    python3 tooling/scripts/check-article-intros.py --strict      # short leads fail too
 
-Exit status: 0 clean, 1 findings.
+Exit status: 0 clean, 1 findings (defects, plus advisories under --strict).
 """
 import argparse
 import glob
@@ -80,6 +86,8 @@ def main():
     ap.add_argument('--since', help='only pages created on/after this prefix, e.g. 2026-07')
     ap.add_argument('--json', action='store_true')
     ap.add_argument('--quiet', action='store_true')
+    ap.add_argument('--strict', action='store_true',
+                    help='count a synthesis shorter than 25 words as a defect')
     ap.add_argument('paths', nargs='*', default=['articles/*.md'])
     a = ap.parse_args()
 
@@ -87,6 +95,7 @@ def main():
     for pat in a.paths:
         files.extend(sorted(glob.glob(pat)))
     findings = []
+    advisory = []
     checked = 0
     for f in files:
         raw = open(f, encoding='utf-8').read()
@@ -106,20 +115,29 @@ def main():
             else:
                 issues.append('blockquote is not labelled as synthesis')
         elif len(text.split()) < MIN_WORDS:
-            issues.append(f'synthesis under {MIN_WORDS} words ({len(text.split())})')
+            if a.strict:
+                issues.append(f'synthesis under {MIN_WORDS} words ({len(text.split())})')
+            else:
+                advisory.append({'page': f, 'issue': f'short synthesis ({len(text.split())} words)',
+                                 'lead': text[:110]})
         if text and len(text.split()) > MIN_WORDS and text in after:
             issues.append('synthesis text repeated later in the body')
         if issues:
             findings.append({'page': f, 'issues': issues, 'lead': text[:110]})
 
     if a.json:
-        print(json.dumps({'checked': checked, 'findings': findings}, indent=2))
+        print(json.dumps({'checked': checked, 'findings': findings, 'advisory': advisory}, indent=2))
     else:
         if not a.quiet:
             for x in findings:
                 print(f'{x["page"]}: {"; ".join(x["issues"])}')
                 print(f'    {x["lead"]}')
-        print(f'\nChecked {checked} page(s); {len(findings)} with a problem lead.')
+        if advisory and not a.quiet:
+            print(f'\nShort leads (advisory, {len(advisory)}):')
+            for x in advisory:
+                print(f'{x["page"]}: {x["issue"]}')
+        print(f'\nChecked {checked} page(s); {len(findings)} defect(s), '
+              f'{len(advisory)} short lead(s) reported as advisory.')
     return 1 if findings else 0
 
 

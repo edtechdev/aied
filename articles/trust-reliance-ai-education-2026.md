@@ -1,7 +1,7 @@
 ---
 title: "Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-26T15:34:14-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-literacy, cognitive-offloading, cs-education, student-ai-interaction, metacognition, rag, llm, agentic-ai]
 audience: [learners, instructors]
@@ -12,7 +12,7 @@ sources: ['raw/papers/trust-reliance-ai-education-2026.md']
 confidence: high
 ---
 
-> Pitts, Rani & Mildort (2026, [[ai-education|AIED]]) show with 432 undergraduates that **higher [[trust]] in an AI assistant is associated with lower appropriate reliance**: students who trusted the assistant more were worse at discriminating correct from misleading AI suggestions during [[cs-education|Python problem-solving]]. The relationship is non-linear and **moderated by [[ai-literacy|AI literacy]] and [[metacognition|need for cognition]]** — trust is not a safe proxy for appropriate use.
+> **Synthesis:** Pitts, Rani & Mildort (2026, [[ai-education|AIED]]) show with 432 undergraduates that **higher [[trust]] in an AI assistant is associated with lower appropriate reliance**: students who trusted the assistant more were worse at discriminating correct from misleading AI suggestions during [[cs-education|Python problem-solving]]. The relationship is non-linear and **moderated by [[ai-literacy|AI literacy]] and [[metacognition|need for cognition]]** — trust is not a safe proxy for appropriate use.
 
 ## The experiment
 

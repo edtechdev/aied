@@ -1,7 +1,7 @@
 ---
 title: Students' multimodal prompting practices as epistemic work in AI literacy development
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-literacy, prompt-engineering, higher-ed, generative-ai, multimodal]
 audience: [learners, instructors]

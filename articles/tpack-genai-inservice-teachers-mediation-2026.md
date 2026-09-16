@@ -1,16 +1,14 @@
 ---
 title: "From Proficiency to Pedagogy: A Mixed-Methods Study of In-Service Teachers' TPACK-GenAI and the Mediating Role of Pedagogical Knowledge"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/tpack-genai-inservice-teachers-mediation-2026.md"]
 tags: ['tpack', 'teacher-ai-competency', 'generative-ai', 'educational-development', 'mixed-methods-research']
 confidence: medium
 ---
 
-## Overview
-
-Mohebi and ElSayary examine how in-service teachers build the knowledge needed to integrate [[generative-ai|generative AI]] into classroom practice, framed through **TPACK-GenAI** — an extension of Technological Pedagogical Content Knowledge for generative AI. Using an explanatory sequential mixed-methods design, they surveyed **325 in-service teachers across 26 countries** and conducted in-depth interviews with seven teachers.
+> **Synthesis:** Mohebi and ElSayary examine how in-service teachers build the knowledge needed to integrate [[generative-ai|generative AI]] into classroom practice, framed through **TPACK-GenAI** — an extension of Technological Pedagogical Content Knowledge for generative AI. Using an explanatory sequential mixed-methods design, they surveyed **325 in-service teachers across 26 countries** and conducted in-depth interviews with seven teachers.
 
 ## Key Findings
 

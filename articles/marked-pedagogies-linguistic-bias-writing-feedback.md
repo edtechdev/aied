@@ -1,7 +1,7 @@
 ---
 title: "Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [writing-education, automated-assessment, bias-mitigation, equity-in-ai-education, feedback, personalized-learning, generative-ai, k-12, ai-feedback-quality]
 audience: [software developers]
@@ -12,7 +12,7 @@ confidence: high
 sources: [raw/papers/2603.12471.md]
 ---
 
-> **LLM-powered personalized [[feedback]] is not language-neutral: it reproduces stereotype-aligned biases that change how feedback is written depending on presumed student attributes — even when the essay is identical.** "Marked Pedagogies" names the systematic instructional orientations four widely used [[llm|LLMs]] (GPT-4o, GPT-3.5-turbo, Llama-3.3 70B, Llama-3.1 8B) adopt when feedback is conditioned on gender, race/ethnicity, learning needs, achievement, or [[motivation]]. Using 600 eighth-grade persuasive essays from the PERSUADE dataset, the authors generated feedback under contrastive prompt conditions and adapted the Marked Words framework to detect lexical shifts. Feedback for students marked by race, language, or disability often exhibited **positive feedback bias** (overuse of praise) and **feedback withholding bias** (less substantive critique, assumptions of limited ability). Across attributes, models tailored not just what content was emphasized but also how writing was judged and how students were addressed — echoing long-documented patterns of teacher bias.
+> **Synthesis:** **LLM-powered personalized [[feedback]] is not language-neutral: it reproduces stereotype-aligned biases that change how feedback is written depending on presumed student attributes — even when the essay is identical.** "Marked Pedagogies" names the systematic instructional orientations four widely used [[llm|LLMs]] (GPT-4o, GPT-3.5-turbo, Llama-3.3 70B, Llama-3.1 8B) adopt when feedback is conditioned on gender, race/ethnicity, learning needs, achievement, or [[motivation]]. Using 600 eighth-grade persuasive essays from the PERSUADE dataset, the authors generated feedback under contrastive prompt conditions and adapted the Marked Words framework to detect lexical shifts. Feedback for students marked by race, language, or disability often exhibited **positive feedback bias** (overuse of praise) and **feedback withholding bias** (less substantive critique, assumptions of limited ability). Across attributes, models tailored not just what content was emphasized but also how writing was judged and how students were addressed — echoing long-documented patterns of teacher bias.
 
 ## Key Findings
 

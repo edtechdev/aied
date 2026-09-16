@@ -1,7 +1,7 @@
 ---
 title: "The impact of AI anxiety on career decisions of college students"
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-anxiety-and-stress, adult-learning, self-efficacy, higher-ed, ai-literacy, social-emotional-learning]
 connected_faqs: [ai-anxiety-wellbeing]
@@ -12,7 +12,7 @@ sources: ['raw/papers/duan-ai-anxiety-career-decisions-college-2026.md']
 confidence: high
 ---
 
-> **AI anxiety and career decisions** — a structural equation modeling study of 315 Chinese college students (grounded in Career Construction Theory) showing that **AI anxiety directly and negatively predicts career decisions**, and also exerts an adverse indirect effect by undermining **career adaptability** — with the mediating effect accounting for **63.35% of the total effect**. However, the moderating effect of [[self-efficacy]] was insignificant, indicating limited buffering capacity.
+> **Synthesis:** **AI anxiety and career decisions** — a structural equation modeling study of 315 Chinese college students (grounded in Career Construction Theory) showing that **AI anxiety directly and negatively predicts career decisions**, and also exerts an adverse indirect effect by undermining **career adaptability** — with the mediating effect accounting for **63.35% of the total effect**. However, the moderating effect of [[self-efficacy]] was insignificant, indicating limited buffering capacity.
 
 Duan, Li, Lin, & Chen (2026) provide direct empirical evidence that career-related AI anxiety — fear of job displacement, diminished employability, and skill obsolescence — impairs students' career confidence, goal clarity, and decision-making. This is a core empirical anchor for the [[career-development-and-readiness]] concept's link to [[ai-anxiety-and-stress]].
 

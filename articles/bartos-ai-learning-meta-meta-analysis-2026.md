@@ -1,7 +1,7 @@
 ---
 title: "Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis"
 created: "2026-09-05T12:00:00-04:00"
-updated: "2026-09-16T14:48:35-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, llm, research-methods-aied, meta-analysis-systematic-review, limitations-in-aied-research, ai-ed-evaluation, learning-gains, critical-thinking]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -9,7 +9,7 @@ sources: ['raw/papers/bartos-ai-learning-meta-meta-analysis-2026.md']
 confidence: high
 ---
 
-> **Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis** — A study-level meta-meta-analysis by Bartoš, Bujak, Martinková, and Wagenmakers (2026) that re-analyzes 1,840 effect sizes from 67 published [[meta-analysis-systematic-review|meta-analyses]] of AI/[[llm]] effects on learning. Using publication-bias-adjusted robust Bayesian model-averaging, they find strong evidence of severe [[limitations-in-aied-research|publication bias]] and extreme between-study heterogeneity, and estimate the bias-adjusted average effect at roughly one-third the magnitude reported in the literature (SMD = 0.196), with prediction intervals spanning large negative to large positive effects. They conclude that broad claims of generalized [[learning-gains|learning gains]] from AI/LLMs are premature and the evidence is insufficient to support policy or practice recommendations.
+> **Synthesis:** **Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis** — A study-level meta-meta-analysis by Bartoš, Bujak, Martinková, and Wagenmakers (2026) that re-analyzes 1,840 effect sizes from 67 published [[meta-analysis-systematic-review|meta-analyses]] of AI/[[llm]] effects on learning. Using publication-bias-adjusted robust Bayesian model-averaging, they find strong evidence of severe [[limitations-in-aied-research|publication bias]] and extreme between-study heterogeneity, and estimate the bias-adjusted average effect at roughly one-third the magnitude reported in the literature (SMD = 0.196), with prediction intervals spanning large negative to large positive effects. They conclude that broad claims of generalized [[learning-gains|learning gains]] from AI/LLMs are premature and the evidence is insufficient to support policy or practice recommendations.
 
 ## Key Findings
 

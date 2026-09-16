@@ -1,7 +1,7 @@
 ---
 title: "An Empirical Study of ChatGPT Use in Engineering Education: Prompting and Performance"
 created: "2026-08-24T12:35:00-04:00"
-updated: "2026-08-24T14:35:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [prompt-engineering, higher-ed, engineering-education, generative-ai, student-ai-interaction, learning-analytics]
 research_method: [survey, mixed methods]
@@ -11,7 +11,7 @@ sources: ['raw/papers/isaza-chatgpt-engineering-prompting-2026.md']
 confidence: high
 ---
 
-> **In brief:** Isaza Dominguez, Robles-Gómez, and Pastor-Vargas study how prompting behaviors influence the [[learning-gains|academic performance]] of 128 fourth-year engineering students using ChatGPT across a 16-week semester with rotating task types (case analysis, engineering design, multi-step [[problem-solving]], experimental data analysis). AI Query Efficiency (how effectively students crafted clear, well-structured prompts) and AI-Driven Problem-Solving (how strategically they integrated AI output into their reasoning) were the strongest predictors of academic success — even after accounting for cumulative GPA.
+> **Synthesis:** **In brief:** Isaza Dominguez, Robles-Gómez, and Pastor-Vargas study how prompting behaviors influence the [[learning-gains|academic performance]] of 128 fourth-year engineering students using ChatGPT across a 16-week semester with rotating task types (case analysis, engineering design, multi-step [[problem-solving]], experimental data analysis). AI Query Efficiency (how effectively students crafted clear, well-structured prompts) and AI-Driven Problem-Solving (how strategically they integrated AI output into their reasoning) were the strongest predictors of academic success — even after accounting for cumulative GPA.
 
 This empirical study connects prompting behavior to learning outcomes in engineering education. Using a Python-based interface connecting students to ChatGPT-4o via the API, the [[research-methods-aied|researchers]] logged all interactions and implemented stratified randomization of AI access across the semester. Ten metrics captured student behaviors — eight focusing on prompting (AI Query Count, Query Depth and Structure, Query Efficiency, Prompt Refinement Depth, Response Utility, Response Complexity, Response Reliance, AI-Driven Problem-Solving) and two assessing [[writing-education|writing quality]] (Structural Complexity Score, Content Richness and Information Density). Written assignments were used for both grading and analyzing AI content integration.
 

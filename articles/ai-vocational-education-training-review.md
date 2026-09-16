@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness"
 created: "2026-08-01T04:33:04-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [professional-training, intelligent-tutoring, generative-ai, adaptive-learning, simulation, regulation, constructivist]
 research_method: [experiment]
@@ -9,8 +9,7 @@ sources: ['raw/papers/caeai-ai-vet-review.md']
 confidence: high
 ---
 
-> **Authors:** Viola Deutscher, Herbert Thomann, Olga Zlatkin-Troitschanskaia, Ulrike Weyland, Stephan Abele, Amory H. Danek, Samuel Greiff, Andreas Rausch, Susan Seeber, Jürgen Seifried, Esther Winther **Source:** Computers and Education: Artificial Intelligence, Vol 11, 100628 — [[open-source|Open Access]] (CC BY 4.0)
-> First [[meta-analysis-systematic-review|systematic review]] of AI in vocational education and training, identifying 26 empirical studies (2015–2026) via ERIC, Web of Science, and Elicit, analyzed with a theory-informed coding scheme under PRISMA guidelines.
+> **Synthesis:** First [[meta-analysis-systematic-review|systematic review]] of AI in vocational education and training, identifying 26 empirical studies (2015–2026) via ERIC, Web of Science, and Elicit, analyzed with a theory-informed coding scheme under PRISMA guidelines.
 
 ## Key Findings
 

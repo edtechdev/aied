@@ -1,14 +1,14 @@
 ---
 title: A Machine Learning Approach for Predicting Student Progress in Online Programming Education
 created: "2026-09-03T13:50:00-04:00"
-updated: "2026-09-03T13:50:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [cs-education, learning-analytics, machine-learning, student-modeling, online-teaching-and-learning, k-12]
 sources: ['raw/papers/zhang-ml-student-progress-programming-2026.md']
 confidence: high
 ---
 
-> **A Machine Learning Approach for Predicting Student Progress in Online Programming Education.** Zhang, Jeffries and Koprinska propose an [[machine-learning]] approach that predicts student progress at the *module* level in large-scale [[online-teaching-and-learning|online]] [[cs-education|programming]] courses: an intrinsically interpretable [[student-modeling|decision-tree model]] predicts a student's performance on the final problem of a module from content-interaction features derived from their [[learning-analytics|log data]]. Across four large-scale K-12 programming courses (~35,000 students), the glass-box decision trees delivered competitive accuracy (85–91%) against black-box models such as random forests and SVMs, while producing interpretable tree-based [[visualization|visualisations]] and slide rankings that educators found useful for intervening with at-risk learners and improving course design.
+> **Synthesis:** **A Machine Learning Approach for Predicting Student Progress in Online Programming Education.** Zhang, Jeffries and Koprinska propose an [[machine-learning]] approach that predicts student progress at the *module* level in large-scale [[online-teaching-and-learning|online]] [[cs-education|programming]] courses: an intrinsically interpretable [[student-modeling|decision-tree model]] predicts a student's performance on the final problem of a module from content-interaction features derived from their [[learning-analytics|log data]]. Across four large-scale K-12 programming courses (~35,000 students), the glass-box decision trees delivered competitive accuracy (85–91%) against black-box models such as random forests and SVMs, while producing interpretable tree-based [[visualization|visualisations]] and slide rankings that educators found useful for intervening with at-risk learners and improving course design.
 
 ## Key Findings
 

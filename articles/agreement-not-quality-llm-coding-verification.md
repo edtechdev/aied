@@ -1,7 +1,7 @@
 ---
 title: "Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T14:48:35-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, equity-in-ai-education, research-methods-aied, human-ai-collaboration, ai-literacy]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -13,10 +13,7 @@ sources: ['raw/papers/2607.28890.md']
 confidence: high
 ---
 
-> **Alex Liu, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He, Min Sun** — arXiv preprint (2026).
-## Synthesis
-
-This study challenges the standard practice of evaluating [[llm|LLM]] [[qualitative-research|qualitative]] coding by agreement with human coders, using data from a [[k-12|K-12]] AI platform: five LLM systems and three trained human coders applied a 72-item hierarchical codebook to 2,560 educator messages.
+> **Synthesis:** This study challenges the standard practice of evaluating [[llm|LLM]] [[qualitative-research|qualitative]] coding by agreement with human coders, using data from a [[k-12|K-12]] AI platform: five LLM systems and three trained human coders applied a 72-item hierarchical codebook to 2,560 educator messages.
 
 An independent domain expert judged 855 pairwise code-set comparisons blind to source, treating human and machine outputs symmetrically. Human-LLM agreement (mean Jaccard 0.30) fell well below human-human agreement (0.52), yet the blind verifier preferred human and LLM coding at indistinguishable rates (51.5% vs 48.5%, p = 0.537).
 

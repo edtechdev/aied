@@ -1,7 +1,7 @@
 ---
 title: "A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade"
 created: "2026-08-11T06:15:03-04:00"
-updated: "2026-08-11"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [collaborative-learning, generative-ai, higher-ed, meta-analysis-systematic-review, learning-analytics]
 research_method: [systematic review]

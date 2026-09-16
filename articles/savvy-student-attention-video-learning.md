@@ -1,7 +1,7 @@
 ---
 title: "SAVVY: Student Attention Visualization for Video-based Learning Analysis"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-23T09:20:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [learning-analytics, multimodal, student-experience, student-engagement, higher-ed, edtech-platform, visualization]
 research_method: [system development]
@@ -11,8 +11,6 @@ category: [engagement]
 sources: ['raw/papers/2607.29413.md']
 confidence: high
 ---
-
-> **Shixian Zhou, Minghuan Shen, Xiaolin Wen, Zijun Qiu, Yongliang Jiang, Xiangyang Wu, Fei Wu, Yong Wang, Zhiguang Zhou** — arXiv preprint (2026).
 
 > **Synthesis:** SAVVY is an interactive visual analytics system for [[video-education|video-based learning]] that integrates visual and auditory attention signals from multimodal brain data to support top-down exploration of student attention variation across instructional videos, connecting AI-based attention estimation to instructional-design practice.
 

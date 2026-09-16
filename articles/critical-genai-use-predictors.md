@@ -1,7 +1,7 @@
 ---
 title: GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T08:40:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-literacy, higher-ed, student-experience, cognitive-offloading, learning-theories, metacognition]
 research_method: [survey, quantitative]
@@ -12,7 +12,7 @@ sources: ['raw/papers/mdpi-2026-critical-genai-use-predictors.md']
 confidence: high
 ---
 
-A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, Bielefeld University) testing two **protective factors against uncritical [[generative-ai|GenAI]] [[cognitive-offloading|overreliance]]**: (1) **knowledge about genAI** and (2) the **disposition to engage in [[critical-thinking|critical thinking]]** — operationalised via Kuhn's framework as *epistemic orientation* (tendency away from absolutist toward evaluativist beliefs) and *intellectual values* (viewing intellectual [[student-engagement|engagement]] as worthwhile). Both factors are framed as components of [[ai-literacy|AI literacy]] and both are trainable, motivating intervention recommendations.
+> **Synthesis:** A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, Bielefeld University) testing two **protective factors against uncritical [[generative-ai|GenAI]] [[cognitive-offloading|overreliance]]**: (1) **knowledge about genAI** and (2) the **disposition to engage in [[critical-thinking|critical thinking]]** — operationalised via Kuhn's framework as *epistemic orientation* (tendency away from absolutist toward evaluativist beliefs) and *intellectual values* (viewing intellectual [[student-engagement|engagement]] as worthwhile). Both factors are framed as components of [[ai-literacy|AI literacy]] and both are trainable, motivating intervention recommendations.
 
 ## Method highlights
 

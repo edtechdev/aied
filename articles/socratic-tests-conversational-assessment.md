@@ -1,7 +1,7 @@
 ---
 title: "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, generative-ai, assessment, automated-assessment, assessment-validity, scaffolding, learning-theories, sociocultural-learning, intelligent-tutoring]
 research_method: [theoretical analysis]
@@ -10,10 +10,7 @@ sources: ['raw/papers/2607.29624.md']
 confidence: high
 ---
 
-> **Ilya Mikhelson** — Submitted to Computers and Education: Artificial Intelligence (2026).
-## Synthesis
-
-The [[socratic-method|Socratic Test]] is an automated, computer-mediated [[assessment|conversational assessment]] that replaces static, deficit-based grading with a dynamic, additive model. It integrates Dynamic Assessment principles, [[multimodal]] workspaces, Bloom's Taxonomy for real-time proctoring, and the SOLO Taxonomy for structural evaluation.
+> **Synthesis:** The [[socratic-method|Socratic Test]] is an automated, computer-mediated [[assessment|conversational assessment]] that replaces static, deficit-based grading with a dynamic, additive model. It integrates Dynamic Assessment principles, [[multimodal]] workspaces, Bloom's Taxonomy for real-time proctoring, and the SOLO Taxonomy for structural evaluation.
 
 [[scaffolding|Graduated scaffolding]] is formalized to quantify a student's [[sociocultural-learning|Zone of Proximal Development]] (ZPD): the assessment actively maps cognitive boundaries by adapting question difficulty and support in real time, so measurement targets what a student can achieve with assistance rather than only unaided performance.
 

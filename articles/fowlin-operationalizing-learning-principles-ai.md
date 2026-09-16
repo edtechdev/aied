@@ -1,7 +1,7 @@
 ---
 title: "Empowering Educators: Operationalizing Age-Old Learning Principles Using AI"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [teacher-role, experiential-learning, situated-learning, distributed-cognition, adaptive-learning, higher-ed, medical-education, learning-design]
 research_method: [theoretical analysis]
@@ -13,7 +13,7 @@ sources: ['raw/papers/fowlin-operationalizing-learning-principles-ai.md']
 confidence: high
 ---
 
-> **Empowering Educators: Operationalizing Age-Old Learning Principles Using AI** — A theoretical framework helping educators navigate AI integration while preserving the core principles of effective teaching and learning. The authors examine Dewey's experiential learning, situated cognition, and [[distributed-cognition|distributed cognition]] through four lenses (inputs, methods, conditions, outcomes), showing how AI operationalizes each at scale, and argue AI is a tool that enhances rather than replaces the educator's role. Grounded in [[medical-education|health professions]] education at the Medical University of South Carolina (MUSC), the paper also offers the Four-Step AI Response Continuum framework (ignore, address, redesign, redefine) to meet educators at their varying levels of readiness.
+> **Synthesis:** **Empowering Educators: Operationalizing Age-Old Learning Principles Using AI** — A theoretical framework helping educators navigate AI integration while preserving the core principles of effective teaching and learning. The authors examine Dewey's experiential learning, situated cognition, and [[distributed-cognition|distributed cognition]] through four lenses (inputs, methods, conditions, outcomes), showing how AI operationalizes each at scale, and argue AI is a tool that enhances rather than replaces the educator's role. Grounded in [[medical-education|health professions]] education at the Medical University of South Carolina (MUSC), the paper also offers the Four-Step AI Response Continuum framework (ignore, address, redesign, redefine) to meet educators at their varying levels of readiness.
 
 **Julaine Fowlin, Denzil Coleman, Shane Ryan, Carina Gallo, Elza Soares & NiAsia Hazelton** — Education Sciences, 15(3), 393.
 

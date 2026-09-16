@@ -1,7 +1,7 @@
 ---
 title: "When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education"
 created: "2026-08-05T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, higher-ed, pedagogy, learning-design, teacher-role, professional-training, ethics]
 research_method: [mixed methods]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2608.03973.md']
 confidence: high
 ---
 
-> **When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education** — Uses multipronged analysis (syllabi review, educator survey, [[qualitative-research|qualitative]] interviews) and Role Theory + [[community-of-inquiry|Community of Inquiry]] model to propose three [[generative-ai|GAI]] roles in [[business-education|marketing education]]: tutor (grasping theoretical concepts), teammate (brainstorming and [[problem-solving]]), and tool. Each role influences [[teacher-role|teaching]], social, and cognitive presence differently. Identifies [[ethics|ethical considerations]]: data [[privacy]], [[ai-detection|plagiarism]], AI dependency, and [[assessment|assessment fairness]]. Provides concrete examples for GAI integration in courses.
+> **Synthesis:** **When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education** — Uses multipronged analysis (syllabi review, educator survey, [[qualitative-research|qualitative]] interviews) and Role Theory + [[community-of-inquiry|Community of Inquiry]] model to propose three [[generative-ai|GAI]] roles in [[business-education|marketing education]]: tutor (grasping theoretical concepts), teammate (brainstorming and [[problem-solving]]), and tool. Each role influences [[teacher-role|teaching]], social, and cognitive presence differently. Identifies [[ethics|ethical considerations]]: data [[privacy]], [[ai-detection|plagiarism]], AI dependency, and [[assessment|assessment fairness]]. Provides concrete examples for GAI integration in courses.
 
 Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three [[generative-ai|GAI]] roles in [[business-education|marketing education]]: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solving), and tool. Each role influences teaching, social, and cognitive presence differently. Identifies [[ethics|ethical considerations]]: data [[privacy]], [[ai-detection|plagiarism]], AI dependency, and [[assessment|assessment fairness]]. Provides concrete examples for GAI integration in courses.
 

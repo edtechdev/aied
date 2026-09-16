@@ -1,14 +1,14 @@
 ---
 title: "Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change"
 created: "2026-09-02T09:00:00-04:00"
-updated: "2026-09-02T09:10:56-04:00"
+updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [science-education, inquiry-based-learning, critical-thinking, generative-ai, assessment, situated-learning, student-engagement]
 sources: ['raw/papers/ai-assisted-inquiry-ssi-climate.md']
 confidence: high
 ---
 
-A three-group quasi-experimental pretest-posttest study examining whether [[generative-ai|AI-assisted]] [[inquiry-based-learning|inquiry]] strengthens students' decision-making on a climate-change socio-scientific issue (SSI). Climate change is a quintessential SSI — it rests on science but cannot be settled by science alone, forcing learners to weigh costs, values, and competing interests under uncertainty.
+> **Synthesis:** A three-group quasi-experimental pretest-posttest study examining whether [[generative-ai|AI-assisted]] [[inquiry-based-learning|inquiry]] strengthens students' decision-making on a climate-change socio-scientific issue (SSI). Climate change is a quintessential SSI — it rests on science but cannot be settled by science alone, forcing learners to weigh costs, values, and competing interests under uncertainty.
 
 ### Design
 
