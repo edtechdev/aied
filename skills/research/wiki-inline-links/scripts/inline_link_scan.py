@@ -373,6 +373,14 @@ REJECT_PAIRS = {
     ('cognitive effort', 'cognitive-offloading'),    # experienced effort, not offloading
     ('supervised learning', 'machine-learning'),     # "human-supervised learning partners"
     ('researcher', 'research-methods-aied'),         # a role in a role list
+
+    # --- 2026-09-16, arXiv batch: false positives auto-applied and hand-reverted ---
+    ('self-governance', 'governance'),               # governance of one's own AI use, not institutional governance
+    ('data analytics', 'learning-analytics'),        # a course subject, not the field
+    ('data-analytics', 'learning-analytics'),
+    ('examination systems', 'summative-assessment'), # proctored exam infrastructure, not the assessment construct
+    ('ai systems', 'ai-technologies'),               # generic 'conversational AI systems'
+    ('instructor autonomy', 'agency'),               # teacher autonomy, not the agency construct
 }
 
 def load_registry_aliases(wiki):
