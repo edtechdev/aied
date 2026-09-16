@@ -1,10 +1,10 @@
 ---
 title: "Generative Artificial Intelligence Policy: A Qualitative UNESCO Framework Analysis"
 created: "2026-08-20T08:20:00-04:00"
-updated: "2026-09-16T15:13:06-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [generative-ai, educational-policy-ai, governance, higher-ed, academic-integrity]
-connected_faqs: [ai-guidance-children-under-13]
+connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 research_method: [system development, experiment]
 level: [higher ed]
 sources: ['raw/papers/adarkwah-genai-unesco-policy-2026.md']

@@ -1,9 +1,10 @@
 ---
 title: "AI Teaching Innovation Behavior Among College Teachers: A Structural Equation Modeling Analysis Based on the AI-TPACK Framework, Teaching Self-Efficacy, Professional Identity, and AI Literacy"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [teacher-role, teacher-education, ai-literacy, technology-acceptance-model, higher-ed, ai-education]
+connected_faqs: [faculty-development-ai]
 audience: [researchers, administrators, edtech designers]
 research_method: [survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1834827.md']

@@ -1,9 +1,10 @@
 ---
 title: "LUDIA: A Design and Evidence Statement"
 created: "2026-08-10T09:10:02-04:00"
-updated: "2026-08-24T13:00:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [universal-design-for-learning, accessibility, teacher-education, ai-education, learning-design, edtech-platform, equity-in-ai-education]
+connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [system development]
 level: [teacher training]
 category: [instructional design]

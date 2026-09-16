@@ -1,9 +1,10 @@
 ---
 title: "When Teachers Use AI Chatbots and Are Trained for It: Impact on Learning Design Quality and Cognitive Effort"
 created: "2026-09-08T02:38:58-04:00"
-updated: "2026-09-08T02:38:58-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [learning-design, teacher-role, teacher-education, educational-development, higher-ed, generative-ai, prompt-engineering]
+connected_faqs: [faculty-development-ai]
 sources: ['raw/papers/pishtari-teacher-ai-training-learning-design-2026.md']
 research_method: [experiment, mixed methods]
 audience: [instructors, faculty development, researchers, learning designers]

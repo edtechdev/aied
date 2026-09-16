@@ -1,10 +1,10 @@
 ---
 title: "Heads We Win, Tails You Lose: AI Detectors in Education"
 created: "2026-08-22T19:50:00-04:00"
-updated: "2026-09-16T15:13:06-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [ai-detection, academic-integrity, generative-ai, higher-ed, assessment-validity, trust, writing-education, authentic-assessment, educational-policy-ai, governance]
-connected_faqs: [ai-guidance-children-under-13]
+connected_faqs: [ai-guidance-children-under-13, course-ai-policy, verify-ai-output]
 research_method: [theoretical analysis]
 discipline: [writing education]
 level: [higher ed]

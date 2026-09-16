@@ -1,9 +1,10 @@
 ---
 title: "An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning"
 created: "2026-09-11T09:35:00-04:00"
-updated: "2026-09-11T09:35:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [well-being, ai-anxiety-and-stress, conversational-ai, machine-learning, culturally-relevant-pedagogy, global-south, equity-in-ai-education, ethics, higher-ed]
+connected_faqs: [ai-anxiety-wellbeing]
 sources: ['raw/papers/2609.11199.md']
 confidence: medium
 ---

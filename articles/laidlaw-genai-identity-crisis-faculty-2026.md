@@ -1,9 +1,10 @@
 ---
 title: "When faculty ask, 'what's the point of teaching?': GenAI as identity crisis, not skills gap"
 created: "2026-08-15T07:40:37-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [educational-development, ai-literacy, teacher-role, generative-ai, higher-ed, teacher-ai-competency, learning-theories, adult-learning, academic-integrity, educational-policy-ai]
+connected_faqs: [faculty-development-ai]
 research_method: [interviews]
 audience: [faculty development, instructors]
 level: [higher ed]

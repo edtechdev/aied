@@ -1,9 +1,10 @@
 ---
 title: Assistive Technology
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [assistive-technology, accessibility, special-education, inclusive-learning, equity-in-ai-education, learning-design]
+connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 category: [instructional design]
 confidence: high

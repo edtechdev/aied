@@ -1,8 +1,8 @@
 ---
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-14T06:00:00-04:00"
-connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
+updated: "2026-09-16T15:58:20-04:00"
+connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design]
 audience: [faculty development, instructors]

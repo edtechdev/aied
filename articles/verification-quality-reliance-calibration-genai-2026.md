@@ -1,9 +1,10 @@
 ---
 title: "Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [trust-calibration, cognitive-offloading, ai-literacy, metacognition, self-regulated-learning, higher-ed, generative-ai]
+connected_faqs: [verify-ai-output, study-with-ai]
 audience: [researchers, instructors, administrators, assessment designers]
 research_method: [literature review]
 sources: ['raw/papers/10.3389_fpsyg.2026.1965371.md']

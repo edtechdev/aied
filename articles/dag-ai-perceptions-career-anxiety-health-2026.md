@@ -1,9 +1,10 @@
 ---
 title: "Artificial intelligence perceptions and career anxiety among health sciences students"
 created: "2026-08-25T07:48:00-04:00"
-updated: "2026-08-25T10:35:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [ai-anxiety-and-stress, adult-learning, social-emotional-learning, higher-ed, medical-education, ai-literacy]
+connected_faqs: [ai-anxiety-wellbeing]
 audience: [learners]
 research_method: [survey]
 level: [higher ed]

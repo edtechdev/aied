@@ -1,9 +1,10 @@
 ---
 title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-15T12:56:46-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [inclusive-learning, equity-in-ai-education, special-education, learning-design, student-experience]
+connected_faqs: [ai-disabled-neurodivergent-learners]
 audience: [learners]
 level: [special education]
 category: [instructional design]

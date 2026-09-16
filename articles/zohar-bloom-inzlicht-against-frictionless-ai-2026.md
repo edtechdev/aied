@@ -1,9 +1,10 @@
 ---
 title: "Against frictionless AI"
 created: "2026-09-11T12:20:00-04:00"
-updated: "2026-09-11T12:30:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [desirable-difficulties, cognitive-offloading, ai-sycophancy, well-being, motivation, generative-ai, metacognition, social-emotional-learning, higher-ed, cognitive-psychology]
+connected_faqs: [reducing-over-reliance]
 research_method: [position paper]
 audience: [researchers, educators, policymakers]
 category: [framework]

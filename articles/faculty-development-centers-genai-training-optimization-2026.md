@@ -1,9 +1,10 @@
 ---
 title: "Research on the optimization of the training system of university faculty development centers in the context of GenAI: a comparative analysis based on Chinese and Kazakhstani universities"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [professional-training, teacher-ai-competency, teacher-education, prompt-engineering, higher-ed]
+connected_faqs: [faculty-development-ai]
 audience: [faculty development, instructors, administrators, teacher educators, researchers]
 research_method: [mixed methods, quasi-experiment, survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1890508.md']

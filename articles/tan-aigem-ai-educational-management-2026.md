@@ -1,9 +1,10 @@
 ---
 title: "Artificial Intelligence in Educational Management: Opportunities, Challenges, and Future Directions"
 created: "2026-09-08T02:39:41-04:00"
-updated: "2026-09-08T02:39:41-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [educational-policy-ai, governance, administrator, change-management, human-ai-collaboration, ai-literacy, higher-ed, professional-training]
+connected_faqs: [institutional-ai-policy]
 sources: ['raw/papers/tan-aigem-ai-educational-management-2026.md']
 research_method: [theoretical analysis, policy analysis]
 audience: [administrators, policymakers, researchers]

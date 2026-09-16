@@ -1,9 +1,10 @@
 ---
 title: "Summarise, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [feedback, ai-feedback-quality, self-regulated-learning, formative-assessment, writing-education, ai-literacy, higher-ed]
+connected_faqs: [ai-feedback-at-scale]
 audience: [learners, instructors]
 research_method: [qualitative, interviews]
 discipline: [writing education]

@@ -1,9 +1,10 @@
 ---
 title: "Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics"
 created: "2026-08-05T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [learning-analytics, privacy, equity-in-ai-education, ethics, regulation, higher-ed, change-management]
+connected_faqs: [institutional-ai-policy]
 research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/2608.03968.md']

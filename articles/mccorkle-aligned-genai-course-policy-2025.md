@@ -1,9 +1,10 @@
 ---
 title: "Designing an Aligned Generative AI Course Policy: An Equitable and Transparent Learner-Centered Approach"
 created: "2026-09-10T15:08:00-04:00"
-updated: "2026-09-10T15:08:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [generative-ai, educational-policy-ai, academic-integrity, assessment, curriculum-design, higher-ed, career-development-and-readiness, educational-development, framing-ai-use-for-students, authentic-assessment]
+connected_faqs: [course-ai-policy]
 research_method: [design-based research]
 audience: [instructors, faculty development, instructional designers, curriculum designers]
 level: [higher ed]
