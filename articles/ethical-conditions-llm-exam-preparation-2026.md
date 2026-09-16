@@ -1,9 +1,10 @@
 ---
 title: "Ethical Conditions for University Students' Adoption of Large Language Models in Exam Preparation Contexts"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-01T09:11:26-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: ["ethics", "academic-integrity", "generative-ai", "higher-ed", "technology-acceptance-model", "ai-use-disclosure"]
+connected_faqs: [study-with-ai]
 research_method: [survey, quantitative]
 audience: [instructors, students, administrators]
 level: [higher ed]

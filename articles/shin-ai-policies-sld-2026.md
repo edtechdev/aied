@@ -1,9 +1,10 @@
 ---
 title: "Addressing the Void of AI Policies in Education for Students With Specific Learning Disabilities"
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-08-23T12:00:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [special-education, inclusive-learning, accessibility, educational-policy-ai, equity-in-ai-education]
+connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [mixed methods, delphi]
 level: [special education]
 sources: ['raw/papers/shin-ai-policies-sld-2026.md']

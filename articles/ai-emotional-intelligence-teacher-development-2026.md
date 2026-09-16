@@ -1,9 +1,10 @@
 ---
 title: "Artificial and Emotional Intelligence: Two Key Forces for Teachers' Professional Development in an Era of Uncertainty"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [teacher-role, teacher-education, well-being, ethics, ai-education]
+connected_faqs: [faculty-development-ai]
 audience: [researchers, administrators, policymakers]
 research_method: [theoretical analysis]
 sources: ['raw/papers/10.3389_fpsyg.2026.1935683.md']

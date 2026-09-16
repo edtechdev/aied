@@ -1,9 +1,10 @@
 ---
 title: "Generative artificial intelligence as an enabler of student feedback engagement: a framework"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [generative-ai, feedback, self-regulated-learning, ai-literacy, higher-ed, teacher-role, cognitive-offloading, prompt-engineering, formative-assessment, metacognition, academic-integrity, student-engagement]
+connected_faqs: [ai-feedback-at-scale]
 research_method: [theoretical analysis]
 audience: [instructors, learners]
 level: [higher ed]

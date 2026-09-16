@@ -1,9 +1,10 @@
 ---
 title: "AI as an Agent and Collaborative Space: Exploring the role of generative AI in small group synchronous and asynchronous collaborative dynamics"
 created: "2026-09-02T10:00:00-04:00"
-updated: "2026-09-02T10:00:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [collaborative-learning, distributed-cognition, human-ai-collaboration, conversational-ai, higher-ed, generative-ai, student-experience]
+connected_faqs: [group-work-ai]
 research_method: [qualitative]
 audience: [instructors, learning designers, researchers]
 level: [higher ed]

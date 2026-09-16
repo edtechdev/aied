@@ -1,9 +1,10 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-13T08:06:42-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
+connected_faqs: [group-work-ai]
 audience: [learners]
 
 confidence: high

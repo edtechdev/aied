@@ -1,9 +1,10 @@
 ---
 title: "AICoFE: AI-Powered Feedback System"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [ai-ed-evaluation, feedback, student-experience, human-in-the-loop-ai, higher-ed, learning-analytics, formative-assessment]
+connected_faqs: [ai-feedback-at-scale]
 research_method: [system development]
 audience: [learners]
 level: [higher ed]

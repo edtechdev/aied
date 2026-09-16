@@ -1,8 +1,8 @@
 ---
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
-connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research]
+updated: "2026-09-16T15:58:20-04:00"
+connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 tags: [accessibility, inclusive-learning, special-education, universal-design-for-learning, assistive-technology, equity-in-ai-education, learning-design]
 level: [special education]

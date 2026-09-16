@@ -1,9 +1,10 @@
 ---
 title: "A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies"
 created: "2026-08-31T09:06:11-04:00"
-updated: "2026-08-31T09:36:03-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [generative-ai, ai-education, governance, agency, higher-ed, ai-literacy, teacher-role, student-engagement, ethics, curriculum-design]
+connected_faqs: [course-ai-policy]
 sources: ['raw/papers/2608.28501.md']
 confidence: high
 ---

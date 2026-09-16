@@ -1,9 +1,10 @@
 ---
 title: "The AI Writes the Code, the Student Writes the Model: A Theory and Measurement Programme for Learning by Construction with Generative AI"
 created: "2026-08-24T05:31:00-04:00"
-updated: "2026-08-24T05:31:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [generative-ai, constructivist, computational-thinking, self-regulated-learning, assessment, educational-measurement, curriculum-design, theory-development-aied]
+connected_faqs: [verify-ai-output]
 research_method: [educational measurement]
 category: [assessment, curriculum design]
 sources: ['raw/papers/ai-writes-code-student-writes-model-2026.md']

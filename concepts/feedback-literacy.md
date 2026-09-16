@@ -1,9 +1,9 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-14T06:35:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
-connected_faqs: [writing-instruction-ai-best-practices]
+connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 tags: [feedback-literacy, feedback, ai-feedback-quality, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, writing-education]
 discipline: [writing education]
 

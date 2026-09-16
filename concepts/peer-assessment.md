@@ -1,9 +1,9 @@
 ---
 title: Peer Assessment
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-09-16T14:29:36-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
-connected_faqs: [writing-instruction-ai-best-practices]
+connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 tags: [writing-education, formative-assessment, ai-feedback-quality, student-experience, collaborative-learning, self-regulated-learning, metacognition, group-work]
 confidence: high
 discipline: [writing education]

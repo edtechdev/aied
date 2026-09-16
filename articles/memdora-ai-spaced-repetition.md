@@ -1,9 +1,10 @@
 ---
 title: "Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [generative-ai, adaptive-learning, mastery-learning, student-experience]
+connected_faqs: [study-with-ai]
 research_method: [system development]
 audience: [learners, software developers]
 sources: ['raw/papers/2607.25096.md']

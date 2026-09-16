@@ -1,9 +1,10 @@
 ---
 title: "Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-09-13T12:55:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [educational-policy-ai, higher-ed, governance, ethics, equity-in-ai-education, meta-analysis-systematic-review, change-management, administrator]
+connected_faqs: [institutional-ai-policy]
 research_method: [systematic review]
 audience: [administrators]
 level: [higher ed]

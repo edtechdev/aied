@@ -1,9 +1,10 @@
 ---
 title: "The Relationship Between AI Anxiety and Academic Motivation Among University Students: The Mediating Role of Emotion Regulation and the Moderating Role of Gender"
 created: "2026-09-06T08:16:00-04:00"
-updated: "2026-09-06T08:16:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [motivation, well-being, higher-ed, generative-ai, self-efficacy, metacognition, student-experience]
+connected_faqs: [ai-anxiety-wellbeing]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]

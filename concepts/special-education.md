@@ -1,9 +1,10 @@
 ---
 title: Special Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-15T12:56:46-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [special-education, inclusive-learning, equity-in-ai-education, neurodiversity, ai-education, k-12, higher-ed]
+connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Meta-Cognitive Insights into Cognitive Offloading: Mechanisms, Interventions, and Educational Implications"
 created: "2026-08-16T20:47:13-04:00"
-updated: "2026-08-16T20:47:13-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [cognitive-offloading, metacognition, self-regulated-learning, ai-literacy, generative-ai, student-experience, higher-ed]
+connected_faqs: [reducing-over-reliance]
 research_method: [literature review]
 audience: [researchers, instructors]
 level: [higher ed]

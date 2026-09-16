@@ -1,9 +1,10 @@
 ---
 title: "Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education"
 created: "2026-07-28T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [inclusive-learning, cs-education, learning-design, neurodiversity, llm]
+connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [experiment]
 discipline: [cs education]
 category: [instructional design]

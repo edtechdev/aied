@@ -1,8 +1,8 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-11T09:40:00-04:00"
-connected_faqs: [equity-ethics-pedagogical-safety-research]
+updated: "2026-09-16T15:58:20-04:00"
+connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 tags: [equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
 confidence: high

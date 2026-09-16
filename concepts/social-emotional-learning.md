@@ -1,10 +1,10 @@
 ---
 title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [ai-literacy, affective-computing, well-being, teacher-ai-competency, student-experience, ethics, self-regulated-learning, higher-ed]
-connected_faqs: [ai-guidance-children-under-13]
+connected_faqs: [ai-guidance-children-under-13, ai-anxiety-wellbeing]
 audience: [learners]
 level: [higher ed]
 confidence: high

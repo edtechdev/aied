@@ -1,9 +1,10 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-11T13:20:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [desirable-difficulties, cognitive-psychology, self-regulated-learning, cognitive-offloading, learning-theories, scaffolding, metacognition]
+connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
 ---

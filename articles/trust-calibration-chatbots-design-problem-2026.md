@@ -1,9 +1,10 @@
 ---
 title: "Why we believe chatbots: trust calibration as a design problem"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [trust-calibration, trust, ai-literacy, conversational-ai, generative-ai, explainable-ai, hallucination-risk, llm]
+connected_faqs: [verify-ai-output]
 audience: [researchers, designers, instructors, policymakers]
 research_method: [theoretical analysis]
 sources: ['raw/papers/10.3389_fpsyg.2026.1935527.md']

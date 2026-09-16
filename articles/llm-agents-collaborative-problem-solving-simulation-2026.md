@@ -1,10 +1,11 @@
 ---
 title: "Modelling Individual Participants as LLM Agents in Collaborative Problem Solving Simulations"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-01T12:00:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 sources: ["raw/papers/llm-agents-collaborative-problem-solving-simulation-2026.md"]
 tags: ["llm", "agentic-ai", "problem-solving", "network-analysis", "simulating-students", "learning-analytics"]
+connected_faqs: [group-work-ai]
 confidence: medium
 ---
 

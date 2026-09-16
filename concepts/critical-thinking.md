@@ -1,9 +1,10 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-15T12:56:46-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
+connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 ---

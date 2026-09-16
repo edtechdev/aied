@@ -1,9 +1,10 @@
 ---
 title: "Using the Pepper Robot to Support Sign Language Communication"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [educational-robotics, multimodal, inclusive-learning, accessibility, special-education]
+connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [survey]
 level: [special education]
 sources: ['raw/papers/bolla-pepper-robot-sign-language-2025.md']
