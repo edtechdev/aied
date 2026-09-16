@@ -1,9 +1,10 @@
 ---
 title: "Assessment Design Under Imperfect Information: Generative AI, Disclosure, and Student Response in Higher Education"
 created: "2026-09-10T05:52:45-04:00"
-updated: "2026-09-10T05:52:45-04:00"
+updated: "2026-09-16T15:13:06-04:00"
 type: article
 tags: [assessment, academic-integrity, ai-use-disclosure, assessment-validity, ai-detection, generative-ai, higher-ed, authentic-assessment]
+connected_faqs: [ai-guidance-children-under-13]
 research_method: [theoretical analysis, research methods]
 level: [higher ed]
 audience: [assessment designers, instructors, researchers, administrators]

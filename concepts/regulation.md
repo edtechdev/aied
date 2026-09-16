@@ -1,9 +1,10 @@
 ---
 title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-16T15:13:06-04:00"
 type: concept
 tags: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed]
+connected_faqs: [ai-guidance-children-under-13]
 level: [higher ed]
 confidence: high
 ---

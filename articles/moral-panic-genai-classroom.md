@@ -1,9 +1,10 @@
 ---
 title: "Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption"
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:13:06-04:00"
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, authentic-assessment, cognitive-offloading, ai-literacy, assessment, rag]
+connected_faqs: [ai-guidance-children-under-13]
 audience: [researchers, instructors]
 research_method: [theoretical analysis]
 level: [higher ed]
