@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-16
 
-Articles: 1191 | Concepts: 191 | FAQs: 18
+Articles: 1192 | Concepts: 191 | FAQs: 18
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -1283,6 +1283,7 @@ Articles: 1191 | Concepts: 191 | FAQs: 18
 - [[transfer-of-learning]] — Transfer of Learning
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: The Trivalence Model of Potential Co-Creativity in Socio-Technical Networks
 - [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
+- [[tripartite-feedback-framework-ai-assessment-2026]] — A Tripartite Feedback Framework for AI-Assisted Assessment of Complex Reports in Higher Education
 - [[trust]] — Trust
 - [[trust-calibration]] — Trust Calibration
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators
