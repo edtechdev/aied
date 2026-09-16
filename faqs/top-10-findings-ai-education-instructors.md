@@ -1,7 +1,7 @@
 ---
-title: "What are the Top 10 Findings from AI in Education Research That Instructors Should Know About?"
+title: "What Are the Top 10 Findings from AI in Education Research That Instructors Should Know About?"
 created: "2026-08-24T09:42:00-04:00"
-updated: "2026-09-14T06:18:07-04:00"
+updated: "2026-09-16T14:53:00-04:00"
 weight: 100
 tags: [teacher-role, ai-education, cognitive-offloading, ai-literacy, assessment]
 research_method: [literature review]
@@ -9,7 +9,7 @@ audience: [instructors]
 category: [assessment]
 ---
 
-# What are the Top 10 Findings from AI in Education Research That Instructors Should Know About?
+# What Are the Top 10 Findings from AI in Education Research That Instructors Should Know About?
 
 Across the knowledge base's synthesis of current research, the most important message for college instructors is not simply "use AI" or "ban AI." **How AI is embedded in the learning activity determines whether it amplifies thinking or replaces it.** The evidence is also uneven: many GenAI studies are recent, short-term, and context-specific, so these are best read as high-value findings rather than settled universal laws.
 

@@ -1,14 +1,14 @@
 ---
-title: "How should I incorporate AI literacy into my course?"
+title: "How Should I Incorporate AI Literacy into My Course?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-09-14T06:18:39-04:00"
+updated: "2026-09-16T14:53:00-04:00"
 weight: 86
 tags: [ai-literacy, learning-design, higher-ed, cognitive-offloading, assessment]
 level: [higher ed]
 category: [instructional design, assessment]
 ---
 
-# How should I incorporate AI literacy into my course?
+# How Should I Incorporate AI Literacy into My Course?
 
 The strongest approach is to treat **[[ai-literacy|AI literacy]] as part of disciplinary learning**, not as a standalone lesson on how to use ChatGPT. Students develop more useful AI literacy when they repeatedly **use, question, verify, critique, and make decisions about AI in authentic course tasks** rather than simply learning prompting techniques or attending a one-off orientation. Effective instruction combines practical competence with critical evaluation, ethical awareness, [[metacognition]], and attention to when AI should *not* be trusted or used.
 

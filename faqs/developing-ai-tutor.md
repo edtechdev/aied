@@ -1,7 +1,7 @@
 ---
-title: "What are best practices for developing an effective AI tutor?"
+title: "What Are Best Practices for Developing an Effective AI Tutor?"
 created: "2026-08-29T20:36:43-04:00"
-updated: "2026-09-14T06:15:37-04:00"
+updated: "2026-09-16T14:53:00-04:00"
 weight: 74
 type: faq
 tags: [intelligent-tutoring, scaffolding, feedback, pedagogical-safety, ai-ed-evaluation, learner-identity, math-education, writing-education]
