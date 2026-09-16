@@ -2,9 +2,10 @@
 
 Last updated: 2026-09-16
 
-Articles: 1205 | Concepts: 191 | FAQs: 18
+Articles: 1206 | Concepts: 191 | FAQs: 18
 
 ## Concepts
+
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
@@ -56,7 +57,7 @@ Articles: 1205 | Concepts: 191 | FAQs: 18
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-advice-suppresses-ikt-suspension-2026]] — AI Advice Suppresses People's Willingness to Say "I Don't Know", Even When the Advice Is Wrong and Accuracy Is Incentivized
+- [[ai-advice-suppresses-ikt-suspension-2026]] — AI Advice Suppresses People's Willingness to Say \"I Don't Know\", Even When the Advice Is Wrong and Accuracy Is Incentivized
 - [[ai-agents-complete-lms-assessment-validity-2026]] — AI Agents Can Now Navigate and Complete LMS Tasks: A Call for Pedagogical Innovation
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI Agents, Joyful Assessment, and Third Space
@@ -281,7 +282,7 @@ Articles: 1205 | Concepts: 191 | FAQs: 18
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI-interaction literacy: reflections on how generative AI might be used to support self-regulated learning in higher education
 - [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Can EdTech Close Learning Gaps? Global Evidence from Digital Interventions
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — "Young Scholar[s] on the Beat": Multimodal Composition as a Form of Critical AI Literacy Pedagogy
+- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — \"Young Scholar[s] on the Beat\": Multimodal Composition as a Form of Critical AI Literacy Pedagogy
 - [[business-education]] — Business Education
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance
@@ -296,7 +297,7 @@ Articles: 1205 | Concepts: 191 | FAQs: 18
 - [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students' ethical reasoning
 - [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing AI with youth partners: Enabling ideal classroom relationships through a novel AI relational privacy ethical framework
 - [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Leveraging generative AI to facilitate peer feedback in collaborative argumentation learning
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — "Should I Tell My Teacher?" Student AI Disclosure Practices, Stigma, and Self-Regulated Learning in Higher Education
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — \"Should I Tell My Teacher?\" Student AI Disclosure Practices, Stigma, and Self-Regulated Learning in Higher Education
 - [[change-management]] — Change Management
 - [[chat-anchored-learning-analytics-ai-literacy-2026]] — A CHAT-Anchored Learning Analytics Pipeline for AI Literacy Education
 - [[chat-debugging-human-ai-collaboration-circuits]] — Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits
@@ -500,7 +501,7 @@ Articles: 1205 | Concepts: 191 | FAQs: 18
 - [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning
 - [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
 - [[engineering-education]] — Engineering Education
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — It's Like "X": How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding in Engineering Education
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — It's Like \"X\": How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding in Engineering Education
 - [[english-education]] — English Education (EAP / EFL / ESL)
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement
 - [[enright-staff-perspectives-genai-2026]] — 'AI Should Help Them Learn, Not Learn for Them': University Staff Perspectives on the Role of Generative AI in Education
@@ -602,7 +603,7 @@ Articles: 1205 | Concepts: 191 | FAQs: 18
 - [[genai-scenario-based-healthcare-education-2026]] — Generative AI in Scenario-Based Healthcare Education: A Systematic Review of Applications, Validation Practices, and Pedagogical Integration
 - [[genai-simulate-patient-history-pbl-2026]] — 'Using Generative AI to Simulate Patient History-Taking in a Problem-Based Learning Tutorial: A Mixed-Methods Study'
 - [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy
-- [[genai-student-experiences-uk-he-survey-2026]] — "It is a temptation to get it to do the work…" Student Experiences of Navigating the Generative AI Landscape in UK Higher Education: A Cross-Institutional Survey with International Comparison
+- [[genai-student-experiences-uk-he-survey-2026]] — \"It is a temptation to get it to do the work…\" Student Experiences of Navigating the Generative AI Landscape in UK Higher Education: A Cross-Institutional Survey with International Comparison
 - [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless Use of Generative Artificial Intelligence and College Students' Self-Directed Learning: A Multi-Group SEM Analysis of Gender Differences
 - [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
@@ -675,6 +676,7 @@ Articles: 1205 | Concepts: 191 | FAQs: 18
 - [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis
 - [[humanities-education]] — Humanities and Social Science Education
 - [[humanlike-ai-collaborative-writing]] — 'It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent'
+- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — A Hybrid Collaborative Filtering and Knowledge Graph-Based Cross-Domain Recommendation Method for Multimodal Teaching Resources
 - [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
 - [[hybrid-human-ai-tutoring-differentiated]] — Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs
 - [[hypergamification-game-engine-lms]] — Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game
@@ -1268,7 +1270,7 @@ Articles: 1205 | Concepts: 191 | FAQs: 18
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
 - [[teaching-monster-pck-benchmark-2026]] — Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents
 - [[teaching-the-teachers-genai-tpk-review-2026]] — Teaching the teachers: A systematic review of genAI-specific technological pedagogical knowledge (TPK) in teacher education
-- [[teaching-with-robots-five-types-perspective-2026]] — Theoretical Perspectives on Teaching with Robots: From Interdisciplinary Prerequisites and Necessities in Today's Classrooms to Five Different Types of Robots
+- [[teaching-with-robots-five-types-perspective-2026]] — Theoretical Perspectives on Teaching with Robots: From Interdisciplinary Prerequisites and Necessities in Today’s Classrooms to Five Different Types of Robots
 - [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors
 - [[teachlm-post-training-llms-education]] — TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education
@@ -1331,7 +1333,7 @@ Articles: 1205 | Concepts: 191 | FAQs: 18
 - [[vibe-coding-writing-cs-achievement-2026]] — Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency
 - [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking
-- [[videla-embodied-ai-education-choreography]] — "If You Can't Dance Your Program, You Can't Write It": Challenges and Implications for AI in Education
+- [[videla-embodied-ai-education-choreography]] — \"If You Can't Dance Your Program, You Can't Write It\": Challenges and Implications for AI in Education
 - [[video-education]] — Video in Education
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and Explainable Learning Analytics for Privacy-Preserving Academic Risk Modeling Across Heterogeneous Educational Institutions
 - [[virtual-and-augmented-reality]] — Virtual and Augmented Reality
@@ -1399,5 +1401,5 @@ Articles: 1205 | Concepts: 191 | FAQs: 18
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — Integrating ChatGPT in Mathematics Teacher Education: AI-Based Simulation Role-Playing to Support Practice-based Teaching
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — "Is this a trap?": Student teachers' perceptions and adoption of GenAI in assessments in three teacher education courses
-- [[zuo-instructor-power-genai-writing-2026]] — "Will AI Steal My Glory?": Power Relations Perceived by College Instructors When Grappling with Generative AI
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — \"Is this a trap?\": Student teachers' perceptions and adoption of GenAI in assessments in three teacher education courses
+- [[zuo-instructor-power-genai-writing-2026]] — \"Will AI Steal My Glory?\": Power Relations Perceived by College Instructors When Grappling with Generative AI

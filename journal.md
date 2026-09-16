@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-16 | Total entries: 1396
+Last updated: 2026-09-16 | Total entries: 1397
 
 ## 2026-09-16
+- 📄 [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — A Hybrid Collaborative Filtering and Knowledge Graph-Based Cross-Domain Recommendation Method for Multimodal Teaching Resources
 - 📄 [[pulla-parsons-problem-tool-2026]] — Pulla: A Parsons Problem Tool for Fine-Grained Behavioral Tracing and Instructor-Facing Problem-Solving Analysis
 - 📄 [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: LLM-Assisted Multimodal Instruction for VR Stage Lighting Education
 - 📄 [[llm-common-modelling-mistakes-formalisms-2026]] — Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs
