@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-16
 
-Articles: 1191 | Concepts: 191 | FAQs: 18
+Articles: 1192 | Concepts: 191 | FAQs: 18
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -1276,6 +1276,7 @@ Articles: 1191 | Concepts: 191 | FAQs: 18
 - [[tian-genai-learning-adoption-pathways-2026]] — Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study
 - [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
 - [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
+- [[topali-aied-k12-authentic-settings-review-2025]] — Pedagogical considerations in the automation era: A systematic literature review of AIEd in K-12 authentic settings
 - [[tpack]] — Technological Pedagogical Content Knowledge (TPACK)
 - [[tpack-genai-inservice-teachers-mediation-2026]] — From Proficiency to Pedagogy: A Mixed-Methods Study of In-Service Teachers' TPACK-GenAI and the Mediating Role of Pedagogical Knowledge
 - [[trace-course-grade-prediction-2026]] — Jointly Predicting Courses and Grades Using a Transformer-Based Model (TRACE)
