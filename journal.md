@@ -1,7 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-15 | Total entries: 1380
+Last updated: 2026-09-16 | Total entries: 1381
+
+## 2026-09-16
+- 📄 [[ai-ive-pbl-vocational-design-creativity-2026]] — Cultivating Design Creativity of Vocational Students: A Model of Project-Based Learning in AI-Enabled Immersive Virtual Environments
 
 ## 2026-09-15
 - 📄 [[institutional-ai-policy-health-informatics-2026]] — Institutional approaches to artificial intelligence policy and guidance in health informatics and information management education: emerging trends and inconsistencies

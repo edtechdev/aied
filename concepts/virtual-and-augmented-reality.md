@@ -1,7 +1,7 @@
 ---
 title: Virtual and Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-09-15T12:56:46-04:00"
+updated: "2026-09-16T01:05:00-04:00"
 type: concept
 tags: [generative-ai, simulation, embodied-learning, multimodal, professional-training, stem-education, accessibility, medical-education]
 confidence: high
@@ -38,6 +38,10 @@ The pilot is encouraging and preliminary in equal measure. With 29 second-year m
 The second direction is where AI stops authoring and starts teaching inside the headset, and it is where [[rag|retrieval grounding]] becomes load-bearing. An agentic immersive training platform for high dose rate brachytherapy built a digital twin of the treatment suite — anatomically precise patient models, catheters, afterloaders, applicators — so trainees could see an applicator's spatial orientation relative to organs at risk, without a shielding room, a live radioactive source, or the privacy hazards of a physical pelvic exam. A knowledge-aware assistant grounded in [[medical-education|clinical]] guidelines supplied hands-free guidance through a three-tier voice interface (headset microphone to backend transcription and intent analysis to spatialised speech), which removes controller dependency during intricate manoeuvres. Technically it worked: 3–5 second end-to-end latency across 50 Monte Carlo runs, context recall above 0.93 and answer relevance 0.87 on 52 expert-authored question-answer pairs, with a medical embedding model improving answer completeness.
 
 Its gaps define the current frontier of the pattern. Evaluation was objective metrics plus a single domain-expert user, not learners; there was no automated [[assessment]] or [[adaptive-learning|adaptive feedback]]; and the assistant cannot exceed the documents it was given, so institution-specific protocols and rare scenarios sit outside its competence. In other words, the tutoring intelligence inside immersive environments is still mostly **guidance**, not measurement — and the same platform architecture, with [[llm|model inference]] offloaded to a local GPU backend, is what makes hands-free guidance fast enough to be usable at all.
+
+The clearest attempt to date at that missing measurement comes from a vocational design studio rather than a clinical setting. In a 12-week interior-design course, a VR environment (headsets plus a 3D modelling tool) with an LLM-backed assistant rendered as a digital human was compared against conventional [[project-based-learning|project-based]] instruction, with the assistant assigned a distinct role per phase — resource recommendation and task decomposition, layered questioning with knowledge maps, simulated design effects and flaw detection, then discourse logging for the teacher ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). Across 63 valid responses the immersive-plus-agent condition produced significantly higher design ability (η²p = .138) and creative ability (η²p = .111), cognitive (d = 0.90) and behavioural (d = 0.75) [[student-engagement|engagement]], and motivation (d = 0.74) and satisfaction (d = 0.69) — with reported [[cognitive-offloading|cognitive load]] *lower*, not higher (d = −0.52), which the authors credit to the assistant cutting search and cross-disciplinary integration effort. Two limits keep this from settling the question: ideational novelty and [[affective-computing|affective]] engagement did not move, and every outcome is [[self-report-measures|self-report]], with no artefact ratings or headset logs.
+
+The contrast with a comparable design-education deployment is instructive. An architectural studio using a [[generative-ai|GenAI]] plus multi-user XR pipeline found *declining* design [[self-efficacy]] confidence for the teams that used it and no advantage in blinded panel ratings. The difference between the two is less the hardware than the orchestration: the vocational study fixed the phase structure, the assistant's role in each phase, and the evaluation rubric before the intervention, and measured productive ability separately from ideational novelty.
 
 ## What the evidence shows
 
@@ -89,3 +93,4 @@ The same logic explains why presence is not automatically good. Motion sickness,
 - [[medgame-llm-medical-education-gamification]] — gamified medical training with AI
 - [[tech-enhanced-tabletop-cybersecurity-education]] — augmented tabletop scenarios in cybersecurity education
 - [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
+- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersive VR design studio with an LLM-backed teaching assistant, evaluated against traditional PBL (Jin et al. 2026)
