@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-09-16T03:20:00-04:00"
+updated: "2026-09-16T05:40:00-04:00"
 type: concept
 tags: [research-methods-aied, ai-education, assessment-validity, educational-measurement, ai-ed-evaluation, learning-theories, benchmark]
 research_method: [research methods, benchmark, educational measurement, literature review]
@@ -58,8 +58,6 @@ A recurring criticism is that many empirical articles have **limited or outdated
 
 The implication is not that theories and frameworks are useless, but that they should be used with attention to their actual evidence base, their intended scope, and their known criticisms — rather than as self-evident [[scaffolding|scaffolds]] or rigid procedural sequences.
 
-**How widespread the gap is, measured.** [[topali-aied-k12-authentic-settings-review-2025|Topali et al. (2025)]] coded 28 empirical studies of AI used as a learning tool in authentic [[k-12]] settings against the learning-theory taxonomies of Leonard (2002) and Zhou and Brown (2015) and found that **only 15 of the 28 reported any [[learning-theories|learning theory]] or pedagogical model guiding the design or use of the tool**, and that just 11 (39.29%) contextualised the tool to concrete course conditions — 7 through [[curriculum-design|curriculum]]-tied learning objectives and only 3 through learning-design aspects such as activity type and difficulty. Where theory was present, it clustered in [[constructivist]] approaches (N = 10, including [[game-based-learning|game-based learning]] at N = 6), with cognitive models at N = 4, [[sociocultural-learning|sociocultural]] theories at N = 3 and [[motivation|motivational]] theories at N = 2. Their explanation of the cost is concrete: a teacher-facing dashboard that flags struggling students by quiz attempts alone treats an ambiguous number as a diagnosis, because a high attempt count on a difficult task can be [[desirable-difficulties|productive struggle]] rather than difficulty, so decontextualised metrics generate false alerts and erode teacher [[trust-calibration|trust]]. The same corpus shows how narrow outcome measurement remains — 14 of 28 studies reported learning-outcome effects, 10 affective and 10 [[metacognition|metacognitive]], only 3 relational, and a single study examined effects on [[teacher-role|teachers]] at all — which is the [[quantitative-research|quantitative]] form of the performance-versus-learning problem this page documents.
-
 ## The meta-analytic evidence crisis
 
 A growing body of meta-research — reviews that scrutinize the reviews — argues that the field's headline claims of AI-driven learning gains rest on an evidence base that is far weaker than it appears. Three complementary critiques make the case with unusual force:
@@ -110,4 +108,3 @@ The purpose of this knowledge base is to help close that gap — to make it easi
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
 - [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews
 - [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks
-- [[topali-aied-k12-authentic-settings-review-2025]] — 28 K-12 authentic-setting studies: only 15 grounded in learning theory, 39% contextualised to course design (Topali et al. 2025)
