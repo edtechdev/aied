@@ -1,14 +1,14 @@
 ---
-title: "What is the evidence on AI literacy interventions in higher education?"
+title: "What Is the Evidence on AI Literacy Interventions in Higher Education?"
 created: "2026-08-24T09:52:00-04:00"
-updated: "2026-09-14T06:18:39-04:00"
+updated: "2026-09-16T14:53:00-04:00"
 weight: 50
 tags: [ai-literacy, higher-ed, educational-measurement]
 research_method: [educational measurement, literature review]
 level: [higher ed]
 ---
 
-# What is the evidence on AI literacy interventions in higher education?
+# What Is the Evidence on AI Literacy Interventions in Higher Education?
 
 The evidence on **[[ai-literacy|AI literacy]] interventions in [[higher-ed|higher education]] is promising, but still methodologically immature**. Across the knowledge base, the strongest recurring finding is that AI literacy develops more effectively through **active, contextualized practice with AI—especially critique, comparison, reflection, and collaboration—than through tool demonstrations or lectures alone**. At the same time, relatively few studies measure durable, independently demonstrated competence; many rely on [[self-regulated-learning|self-report]], short interventions, observational comparisons, or [[design-based-research|design-based research]].
 

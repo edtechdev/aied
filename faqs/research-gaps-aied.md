@@ -1,7 +1,7 @@
 ---
-title: "What are notable gaps in the research literature on AI in Education?"
+title: "What Are Notable Gaps in the Research Literature on AI in Education?"
 created: "2026-08-24T14:10:00-04:00"
-updated: "2026-09-14T13:43:30-04:00"
+updated: "2026-09-16T14:53:00-04:00"
 weight: 45
 type: faq
 tags: [ai-ed-evaluation, research-methods-aied, limitations-in-aied-research, learning-gains, equity-in-ai-education, higher-ed]
@@ -10,7 +10,7 @@ level: [higher ed]
 category: [evaluation]
 ---
 
-# What are notable gaps in the research literature on AI in Education?
+# What Are Notable Gaps in the Research Literature on AI in Education?
 
 The most consequential gaps in AI in Education (AIED) concern **whether particular educational designs produce durable benefits, for whom, through which mechanisms, and under what conditions—not simply whether AI can perform educational tasks**. The knowledge base documents promising interventions alongside persistent weaknesses in measurement, causal inference, generalizability, implementation, and reproducibility. These are often gaps in the *strength, specificity, or applicability* of evidence rather than a complete absence of research. See [[limitations-in-aied-research|Limitations in AIEd Research]]. 
 
