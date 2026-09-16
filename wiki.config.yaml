@@ -64,7 +64,7 @@ build:
 #       host: 192.168.1.50
 # ---------------------------------------------------------------------------
 preview:
-  mode: dev                  # dev = `astro dev` (hot reload) | preview = serves dist/
+  mode: preview              # preview = serves dist/ (static, no file watching) | dev = `astro dev` (hot reload)
   host: 127.0.0.1            # override per machine in wiki.config.local.yaml
   port: 4321
   base_path: /aied           # from site.config.json; informational
