@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-09-16T05:40:00-04:00"
+updated: "2026-09-16T10:26:00-04:00"
 type: concept
 tags: [research-methods-aied, ai-education, assessment-validity, educational-measurement, ai-ed-evaluation, learning-theories, benchmark]
 research_method: [research methods, benchmark, educational measurement, literature review]
@@ -30,6 +30,7 @@ AI in education is a fast-moving, heterogeneous field, and its evidence base car
 The knowledge base's [[research-methods-aied|research methods]] page details the strengths and limitations of each design. Several limits recur across designs and deserve particular attention:
 
 - **Generalizability.** Findings from a single course, institution, discipline, or national context may not transfer. Small, convenience, or single-institution samples limit external validity; results from one AI tool rarely extend to a different tool or context.
+- **Synthesis-level rigor is a separate axis from primary-study rigor.** A meta-analysis can satisfy its own inclusion criteria and still pool studies that differ in design, implementation fidelity and outcome measure without weighting any of that: [[ai-supported-instruction-stem-meta-analysis-2026|Doğan and colleagues (2026)]] state plainly that they used no formal quality appraisal tool and treated the inclusion criteria as the rigor threshold, so a quasi-experimental study and a randomized one contributed equally to the pooled [[stem-education|STEM]] estimate. The same review shows a related reporting hazard: its heterogeneity is quoted as I² = 82.98% under a fixed-effect model and I² = 15.75% under the random-effects model, meaning readers who lift a single heterogeneity figure without its model cannot tell how inconsistent the corpus actually is. Appraise a synthesis on how it handled dependent effect sizes, quality, and heterogeneity, not only on whether it followed a search protocol.
 - **Small sample sizes.** Many AIED studies are underpowered — too few participants to reliably detect meaningful effects or to support the strong claims sometimes drawn from them.
 - **Validity and measurement.** [[assessment-validity|Construct validity]] is often thin: proxies for "learning," "[[student-engagement|engagement]]," or "literacy" vary widely, and instruments are not always validated for the population or construct being studied. [[benchmark|Benchmark]] accuracy does not equal educational effectiveness.
 - **Self-report and survey data.** A large share of the corpus relies on self-reported attitudes, motivation, and usage. Self-report is subject to bias — respondents overestimate competence, under-report [[ai-misuse-learning-harm|misuse]], and misjudge their own behavior — so perception-based measures frequently diverge from objective performance (see [[ai-literacy-assessment-misalignment]] and [[educational-measurement]]).
@@ -108,3 +109,5 @@ The purpose of this knowledge base is to help close that gap — to make it easi
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
 - [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews
 - [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks
+- [[ai-supported-instruction-stem-meta-analysis-2026]] — Inclusion criteria used as the rigor threshold, and a heterogeneity figure that changes with the model (Doğan et al. 2026)
+- [[domain-specific-chatbot-stem-enthusiasm-2025]] — A cluster-randomized classroom trial whose performance outcome did not reach significance (Rücker & Becker-Genschow 2025)
