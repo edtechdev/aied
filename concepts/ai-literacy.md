@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-15T12:56:46-04:00"
+updated: "2026-09-16T10:00:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, educational-development, academic-integrity]
 audience: [faculty development, instructors, learners]
@@ -126,6 +126,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - **Critique of AI output as a literacy practice:** [[pedagogy-ai-mistakes|Hosseini (2026)]] treats evaluating AI-generated errors as a core AI-literacy skill, using failure-mode analysis and iterative prompt refinement in a database design course. The study found students overestimated their AI abilities (self-reported literacy weakly, negatively correlated with objective competency), and that critique-based learning strengthened calibration.
 
 - **Socialist humanist AI literacy (2026):** A literature review critiques compliance-oriented AI literacy and proposes a socialist-humanist framing of asynchronous AI literacy and fair use in higher education, linking the historical digital divide to modern AI literacy and calling for approaches that serve human flourishing and equity rather than mechanical policy compliance ([[mechanical-compliance-human-flourishing-ai-literacy-2026]]).
+- **Cheap, light-touch warnings blunt AI persuasion — without costing general trust.** [[ai-literacy-warning-political-persuasion-2026|Orchinik and Rand (2026)]] preregistered two experiments (total N = 3,208 US adults) in which participants conversed with an [[llm|LLM]] instructed to shift their views on political topics. A single brief warning — that models can be prompted to persuade and may present information selectively — cut belief change by roughly one half (-48.1%, 95% CI [-59.5%, -36.8]) relative to control, and adding specific persuasion-technique warnings produced no further benefit. The property that matters for teaching is on the other side of the effect: general trust in [[generative-ai|generative AI]] did not fall, so the intervention builds [[trust-calibration|calibrated trust]] rather than blanket skepticism. It is a one-paragraph, no-facilitation intervention, which is a rare cost profile for an AI literacy design.
+- **Learner governance of AI matters more than the design of the tool.** [[ai-literacy-tool-design-programming-education-2026|Azimi (2026)]] randomised 33 students in a master's data-analytics course between a scaffolded AI Study Coach embedded in the notebooks (n = 16) and unrestricted use of any [[generative-ai|generative AI]] tools they chose (n = 17) for seven weeks. Assignment performance and concept-inventory gains were indistinguishable; the Coach condition reported higher [[self-efficacy|confidence]] instead. What separated students was AI literacy in practice: those who had formulated their own rules for when to use AI scored higher in both conditions, and the students with the deepest model understanding — every one of them self-taught — prompted most deliberately. The design implication runs against the control reflex: teach the [[self-regulated-learning|self-regulatory]] and model-understanding components of AI literacy rather than constrain tools.
 
 ## Connected Concepts
 - [[explainable-ai]]
@@ -228,3 +230,5 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[k12-teachers-ai-companion-literacy-2026]] — Exploring K-12 Teachers' Perceptions of Students' Relationships with AI Companions: Boundaries, Intervention Strategies, and Design Implications
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
 - [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: Teaching Resources for a ChatGPT World
+- [[ai-literacy-warning-political-persuasion-2026]] — A one-paragraph AI literacy warning halves AI political persuasion without lowering trust (Orchinik & Rand 2026)
+- [[ai-literacy-tool-design-programming-education-2026]] — AI literacy over tool design: scaffolded vs unrestricted GenAI in programming education (Azimi 2026)
