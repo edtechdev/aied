@@ -1,9 +1,10 @@
 ---
 title: "Beyond a single role: Justifying a role-adaptive framework for AI companions through a comparative study in elementary book talk"
 created: "2026-09-02T09:45:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: ['conversational-ai', 'pedagogical-agent', 'human-ai-collaboration', 'k-12', 'generative-ai']
+connected_faqs: [ai-guidance-children-under-13]
 research_method: [mixed methods, quantitative, qualitative]
 audience: [instructors, learning designers, researchers]
 level: [k 12]

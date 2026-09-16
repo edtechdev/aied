@@ -1,9 +1,10 @@
 ---
 title: Robots in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-16T09:58:00-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: concept
 tags: [educational-robotics, computational-thinking, stem-education, k-12, higher-ed, cs-education, embodied-learning]
+connected_faqs: [ai-guidance-children-under-13]
 discipline: [stem education]
 level: [k 12, higher ed]
 confidence: high

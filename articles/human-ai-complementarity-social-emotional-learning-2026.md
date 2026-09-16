@@ -1,9 +1,10 @@
 ---
 title: "An Experimental Study Exploring Human–AI Complementarity in Early Social-Emotional Learning"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-01T09:11:26-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: ["social-emotional-learning", "pedagogical-agent", "human-ai-collaboration", "early-childhood-elementary-ai-education", "affective-computing", "generative-ai"]
+connected_faqs: [ai-guidance-children-under-13]
 research_method: [experiment]
 audience: [researchers, teachers]
 level: [early childhood, elementary]

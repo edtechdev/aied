@@ -1,8 +1,8 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-09-16T14:32:03-04:00"
-connected_faqs: [equity-ethics-pedagogical-safety-research]
+updated: "2026-09-16T15:03:07-04:00"
+connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 tags: [equity-in-ai-education, ai-literacy, accessibility, ai-education]
 confidence: high
