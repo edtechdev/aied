@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-09-07T08:45:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity-in-ai-education, ai-literacy, accessibility, ai-education]
@@ -54,7 +54,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[ai-education]]
 - [[higher-ed]]
 - [[student-experience]]
-
+- [[parents-and-families]]
 ## Connected Articles
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)

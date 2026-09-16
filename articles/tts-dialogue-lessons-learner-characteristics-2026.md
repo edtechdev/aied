@@ -1,7 +1,7 @@
 ---
 title: "Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-08-24T09:10:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [language-learning, student-engagement, motivation, critical-thinking, experiential-learning, generative-ai]
 research_method: [experiment]
@@ -55,7 +55,7 @@ Limitations include self-report-only learning outcomes (no objective or retentio
 - [[self-determination-theory]]
 - [[higher-ed]]
 - [[active-learning]]
-
+- [[speech-and-voice-technologies]]
 ## Connected Articles
 
 - [[ai-guided-learning-audiovideo-2026]] — AI-guided audio/video learning systems and learner adaptation

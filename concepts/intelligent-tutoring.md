@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 tags: [intelligent-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
@@ -134,7 +134,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[educational-policy-ai]]
 - [[guardrails]]
 - [[k-12]]
-
+- [[speech-and-voice-technologies]]
 ## Connected Articles
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS in community college developmental math

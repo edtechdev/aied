@@ -1,7 +1,7 @@
 ---
 title: "Learning paths and patterns in learning design: Insights from 500+ courses"
 created: "2026-09-13T11:05:00-04:00"
-updated: "2026-09-13T11:05:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [learning-design, learning-analytics, curriculum-design, assessment, active-learning, constructivist, student-engagement, quantitative-research]
 research_method: [quantitative, secondary analysis, learning analytics]
@@ -68,7 +68,7 @@ The limitations bound how far the numbers travel. The sample is large but comes 
 - [[inquiry-based-learning]] — sequence shapes resembling its phases
 - [[project-based-learning]] — the culminating, Production-heavy pattern
 - [[higher-ed]] — the presumed main context of the sampled course designs
-
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 
 - [[pishtari-teacher-ai-training-learning-design-2026]] — When Teachers Use AI Chatbots and Are Trained for It: Impact on Learning Design Quality and Cognitive Effort

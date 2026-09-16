@@ -1,7 +1,7 @@
 ---
 title: "Designing AI-Supported Oral Assessment in TVET"
 created: "2026-09-14T09:12:54-04:00"
-updated: "2026-09-14T09:12:54-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [authentic-assessment, assessment, accessibility, multilingual-learning, human-in-the-loop-ai, privacy, design-thinking, professional-training, inclusive-learning, llm]
 sources: ['raw/papers/ai-supported-oral-assessment-tvet-2026.md']
@@ -62,7 +62,7 @@ What the work contributes is nonetheless specific: a method for voice assessment
 - [[llm]]
 - [[culturally-relevant-pedagogy]]
 - [[regulation]]
-
+- [[speech-and-voice-technologies]]
 ## Connected Articles
 
 - [[ai-vocational-education-training-review]] — Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness

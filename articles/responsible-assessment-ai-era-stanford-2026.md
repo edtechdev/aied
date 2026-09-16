@@ -28,7 +28,7 @@ The report synthesizes a future-focused convening (January 29, 2026) on how asse
 ## Connections to the Knowledge Base
 
 - **[[assessment-validity|Assessment validity]] & AI scoring** — the report's catalog of validity threats (construct-irrelevant variance, underrepresentation, generalization, calibration) is a policy-level complement to the knowledge base's empirical evidence on [[automated-assessment|Automated Grading]] failures (e.g., [[llm-handwritten-math-grading]], [[ai-scoring-language-bias-physics]], [[machines-misread-pedagogical-quality]]).
-- **Formative assessment** — the call to extend [[formative-assessment]] with AI ([[peer-review|peer feedback]] vs. [[ai-feedback-quality|AI feedback]], culturally responsive tools) connects to [[ai-generated-feedback-higher-ed]] and [[feedback|Feedback Loop]] research.
+- **Formative assessment** — the call to extend [[formative-assessment]] with AI ([[peer-assessment|peer feedback]] vs. [[ai-feedback-quality|AI feedback]], culturally responsive tools) connects to [[ai-generated-feedback-higher-ed]] and [[feedback|Feedback Loop]] research.
 - **Conversation-based assessment** — ECD-based AI-agent dialogue assessment aligns with [[socratic-tests-conversational-assessment]] and [[intelligent-tutoring]] design.
 - **Construct definitions** — the underdefined AI literacy / durable-skills problem echoes [[ai-literacy]] debates and educational-theory work on what AI-era competencies mean operationally.
 - **Equity & trust** — sociocultural responsiveness, bias in AI scoring, and human accountability map to [[equity-in-ai-education]], [[human-in-the-loop-ai]], and [[ai-ed-evaluation]].

@@ -37,15 +37,15 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'AI technologies and techniques',
     blurb: 'The technical layer: the AI models and methods that power education technology, and the learner-modeling and tutoring systems built on them.',
     groups: [
-      { label: 'Models and techniques', items: ['ai-technologies', 'machine-learning', 'generative-ai', 'llm', 'rag', 'prompt-engineering', 'vibe-coding', 'multimodal', 'visualization', 'educational-nlp', 'reinforcement-learning', 'knowledge-graph', 'educational-robotics', 'conversational-ai', 'simulation', 'virtual-and-augmented-reality', 'pedagogical-llm-training'] },
-      { label: 'Learner modeling and adaptive systems', items: ['student-modeling', 'knowledge-tracing', 'cognitive-diagnosis', 'simulating-students', 'intelligent-tutoring', 'adaptive-learning', 'personalized-learning', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai', 'learning-analytics'] },
+      { label: 'Models and techniques', items: ['ai-technologies', 'machine-learning', 'generative-ai', 'llm', 'rag', 'prompt-engineering', 'vibe-coding', 'multimodal', 'speech-and-voice-technologies', 'visualization', 'educational-nlp', 'reinforcement-learning', 'knowledge-graph', 'educational-robotics', 'conversational-ai', 'simulation', 'virtual-and-augmented-reality', 'pedagogical-llm-training'] },
+      { label: 'Learner modeling and adaptive systems', items: ['student-modeling', 'knowledge-tracing', 'cognitive-diagnosis', 'simulating-students', 'intelligent-tutoring', 'adaptive-learning', 'personalized-learning', 'recommender-systems-and-learning-paths', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai', 'learning-analytics'] },
     ],
   },
   {
     heading: 'AI in the disciplines',
     blurb: 'How AI is applied across academic subjects and educational levels — the field\u2019s subject-area coverage.',
     groups: [
-      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'business-education', 'humanities-education', 'medical-education'] },
+      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'business-education', 'humanities-education', 'arts-design-and-media-education', 'medical-education'] },
       { label: 'Levels and contexts', items: ['k-12', 'early-childhood-elementary-ai-education', 'higher-ed', 'adult-learning', 'special-education', 'teacher-education'] },
     ],
   },
@@ -53,7 +53,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Assessment, evaluation, and measurement',
     blurb: 'How AI both assesses learners and reshapes how we evaluate AI systems and their impact.',
     groups: [
-      { label: 'Assessment and feedback', items: ['assessment', 'evaluative-judgement', 'feedback', 'feedback-literacy', 'ai-feedback-quality', 'formative-assessment', 'summative-assessment', 'authentic-assessment', 'group-work', 'eportfolio', 'peer-review', 'automated-assessment', 'automated-essay-scoring', 'automated-question-generation'] },
+      { label: 'Assessment and feedback', items: ['assessment', 'evaluative-judgement', 'feedback', 'feedback-literacy', 'ai-feedback-quality', 'formative-assessment', 'summative-assessment', 'authentic-assessment', 'group-work', 'eportfolio', 'peer-assessment', 'automated-assessment', 'automated-essay-scoring', 'automated-question-generation'] },
       { label: 'Measurement and validity', items: ['assessment-validity', 'psychometrically-aware-ai', 'educational-measurement', 'item-response-theory', 'self-report-measures', 'ai-detection', 'remote-proctoring'] },
       { label: 'Evaluation of AI systems', items: ['ai-ed-evaluation', 'benchmark', 'research-methods-aied', 'qualitative-research', 'quantitative-research', 'mixed-methods-research', 'design-based-research', 'usability-research', 'rct', 'learning-gains', 'meta-analysis-systematic-review', 'network-analysis'] },
     ],
@@ -63,6 +63,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'AI changes the role of every stakeholder in education — learners, teachers, and the institutions that support them.',
     groups: [
       { label: 'Learners', items: ['stakeholders', 'student-experience', 'career-development-and-readiness', 'ai-anxiety-and-stress'] },
+      { label: 'Families and communities', items: ['parents-and-families'] },
       { label: 'Instructors', items: ['teacher-ai-competency', 'tpack', 'samr-model', 'pedagogical-safety'] },
       { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'governance', 'change-management', 'technology-acceptance-model', 'regulation', 'open-source', 'edtech-platform', 'lifelong-learning', 'professional-training'] },
     ],

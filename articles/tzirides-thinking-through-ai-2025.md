@@ -35,7 +35,7 @@ Combining think-alouds with behavioral observation provides a robust, qualitativ
 
 ## Cyber-Social Research
 
-The cyber-social research approach treats humans and digital systems as mutually constitutive, emphasizing the active involvement of educators, learners, and developers in the co-design and co-evolution of AI-driven systems. Drawing inspiration from agile software development, it favors short, incremental cycles of design and refinement over the linear "waterfall" model typical of traditional education research. The approach is notable for its commitment to inclusivity, valuing the input of outliers and edge cases in the design of contextually relevant AI tools. It has been applied across the CGScholar ecosystem, where [[peer-review]], [[formative-assessment]], and reflexive pedagogy are supported by iterative learning experiences.
+The cyber-social research approach treats humans and digital systems as mutually constitutive, emphasizing the active involvement of educators, learners, and developers in the co-design and co-evolution of AI-driven systems. Drawing inspiration from agile software development, it favors short, incremental cycles of design and refinement over the linear "waterfall" model typical of traditional education research. The approach is notable for its commitment to inclusivity, valuing the input of outliers and edge cases in the design of contextually relevant AI tools. It has been applied across the CGScholar ecosystem, where [[peer-assessment]], [[formative-assessment]], and reflexive pedagogy are supported by iterative learning experiences.
 
 ## Alaska Case Study
 
@@ -43,7 +43,7 @@ The study was a one-time implementation at a rural middle school in Alaska, a "m
 
 ## The CGScholar AI Helper
 
-The CGScholar AI Helper is a cloud-based web application with a split-screen interface: a [[multimodal]] text editor on the left and an AI/teacher/peer feedback pane on the right. The writing workflow moves through drafting with rubric-guided support, AI feedback with automatic version tracking, revision, optional [[peer-review]], reflection, and publication to [[eportfolio|portfolios]]. AI feedback is delivered one rubric criterion at a time using [[prompt-engineering]] and chain-of-thought approaches, while [[rag|Retrieval-Augmented Generation (RAG)]] prioritizes teacher-approved knowledge-base materials over the foundation [[llm|large language models]] for factual accuracy. The system supports multiple LLMs (Meta Llama 3.3 70B, GPT-4, Claude 3.5 Sonnet, Gemini Experimental), with all interactions anonymized to protect [[privacy|student data]].
+The CGScholar AI Helper is a cloud-based web application with a split-screen interface: a [[multimodal]] text editor on the left and an AI/teacher/peer feedback pane on the right. The writing workflow moves through drafting with rubric-guided support, AI feedback with automatic version tracking, revision, optional [[peer-assessment]], reflection, and publication to [[eportfolio|portfolios]]. AI feedback is delivered one rubric criterion at a time using [[prompt-engineering]] and chain-of-thought approaches, while [[rag|Retrieval-Augmented Generation (RAG)]] prioritizes teacher-approved knowledge-base materials over the foundation [[llm|large language models]] for factual accuracy. The system supports multiple LLMs (Meta Llama 3.3 70B, GPT-4, Claude 3.5 Sonnet, Gemini Experimental), with all interactions anonymized to protect [[privacy|student data]].
 
 ## Findings
 

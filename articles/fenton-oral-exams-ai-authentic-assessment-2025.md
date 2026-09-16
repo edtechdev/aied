@@ -1,7 +1,7 @@
 ---
 title: "Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future"
 created: "2026-08-19T17:10:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [assessment, authentic-assessment, academic-integrity, generative-ai, higher-ed, k-12, critical-thinking, feedback]
 research_method: [literature review]
@@ -41,7 +41,7 @@ As a review/essay, it does not provide new empirical evidence. The author notes 
 - [[higher-ed]]
 - [[k-12]]
 - [[educational-policy-ai]]
-
+- [[speech-and-voice-technologies]]
 ## Connected Articles
 
 - [[ssaho-ai-academic-integrity-review-2025]] — AI and Academic Integrity review

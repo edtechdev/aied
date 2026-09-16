@@ -1,7 +1,7 @@
 ---
 title: Development and applications of Generative AI in architectural design studios
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, active-learning]
 research_method: [qualitative, case study]
@@ -38,7 +38,7 @@ For [[design-thinking]]-oriented disciplines, the results suggest GenAI is best 
 - [[generative-ai]]
 - [[creativity]]
 - [[student-experience]]
-
+- [[arts-design-and-media-education]]
 ## Connected Articles
 
 - [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion

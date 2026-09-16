@@ -1,7 +1,7 @@
 ---
 title: Design Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 audience: [learners]
@@ -64,7 +64,7 @@ Design thinking in AI education is deeply entangled with [[human-ai-collaboratio
 - [[professional-training]]
 - [[academic-integrity]]
 - [[open-source]]
-
+- [[arts-design-and-media-education]]
 ## Connected Articles
 
 - [[rana-genai-design-thinking-2025]]

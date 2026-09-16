@@ -3,7 +3,7 @@ title: "Positioning Generative AI in EFL Peer Feedback: Training Feedback Litera
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [feedback, ai-feedback-quality, peer-review, formative-assessment, self-regulated-learning, writing-education, language-learning, ai-literacy]
+tags: [feedback, ai-feedback-quality, peer-assessment, formative-assessment, self-regulated-learning, writing-education, language-learning, ai-literacy]
 audience: [learners, instructors]
 research_method: [theoretical analysis, design-based research]
 discipline: [writing education, language learning]
@@ -14,7 +14,7 @@ confidence: high
 
 ## Summary
 
-Irwin & Muller (2026) offer a conceptual, theory-informed design framework for positioning [[generative-ai|generative AI]] (GenAI) within EFL/ESL [[peer-review|peer feedback]] on speaking, targeting the twin bottlenecks of peer feedback **production** (variable, generic, or criterion-misaligned comments) and **uptake** (cognitive overload from interpreting multiple, sometimes contradictory peer messages). Grounded in student [[feedback-literacy|feedback literacy]] (Carless & Boud, 2018) and a cyclical, [[self-regulated-learning|self-regulated]] model of GenAI-enabled feedback [[student-engagement|engagement]] (forethought–control–retrospect; Zhan et al., 2025), the paper proposes two complementary GenAI roles: a **Trainer** that supports feedback givers through exemplar-based calibration, rubric-guided practice, and feedback-on-feedback; and a **Synthesizer** that supports feedback receivers by aggregating peer comments into concise, prioritized, criteria-linked uptake reports. Speaking tasks are argued to impose distinct constraints — time pressure, fleeting performances, and heightened affect — that make real-time peer feedback promising yet pedagogically challenging. The proposal is deliberately scoped to performative speaking [[formative-assessment|assessment]] in [[higher-ed|higher education]], positions GenAI as [[scaffolding|scaffold]] rather than evaluator (teachers remain in the loop; no [[automated-assessment|automated grading]]), and concludes with four design principles, [[governance]] considerations, eight testable theoretical expectations, and a future [[research-methods-aied|research]] agenda.
+Irwin & Muller (2026) offer a conceptual, theory-informed design framework for positioning [[generative-ai|generative AI]] (GenAI) within EFL/ESL [[peer-assessment|peer feedback]] on speaking, targeting the twin bottlenecks of peer feedback **production** (variable, generic, or criterion-misaligned comments) and **uptake** (cognitive overload from interpreting multiple, sometimes contradictory peer messages). Grounded in student [[feedback-literacy|feedback literacy]] (Carless & Boud, 2018) and a cyclical, [[self-regulated-learning|self-regulated]] model of GenAI-enabled feedback [[student-engagement|engagement]] (forethought–control–retrospect; Zhan et al., 2025), the paper proposes two complementary GenAI roles: a **Trainer** that supports feedback givers through exemplar-based calibration, rubric-guided practice, and feedback-on-feedback; and a **Synthesizer** that supports feedback receivers by aggregating peer comments into concise, prioritized, criteria-linked uptake reports. Speaking tasks are argued to impose distinct constraints — time pressure, fleeting performances, and heightened affect — that make real-time peer feedback promising yet pedagogically challenging. The proposal is deliberately scoped to performative speaking [[formative-assessment|assessment]] in [[higher-ed|higher education]], positions GenAI as [[scaffolding|scaffold]] rather than evaluator (teachers remain in the loop; no [[automated-assessment|automated grading]]), and concludes with four design principles, [[governance]] considerations, eight testable theoretical expectations, and a future [[research-methods-aied|research]] agenda.
 
 ## Key Findings
 
@@ -37,7 +37,7 @@ Irwin & Muller (2026) offer a conceptual, theory-informed design framework for p
 
 - [[feedback]]
 - [[ai-feedback-quality]]
-- [[peer-review]]
+- [[peer-assessment]]
 - [[formative-assessment]]
 - [[self-regulated-learning]]
 - [[writing-education]]

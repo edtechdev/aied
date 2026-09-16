@@ -1,7 +1,7 @@
 ---
 title: "To disclose or not to disclose: Peer influence and psychological factors in students' use of generative artificial intelligence"
 created: "2026-08-25T09:50:00-04:00"
-updated: "2026-08-25T09:50:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [academic-integrity, generative-ai, higher-ed, trust, learning-theories]
 research_method: [mixed methods, survey]
@@ -45,7 +45,7 @@ Qu & Wang (2026) reframe GenAI non-disclosure in [[higher-ed|higher education]] 
 - [[ai-anxiety-and-stress]]
 - [[ai-literacy]]
 - [[student-engagement]]
-
+- [[peer-assessment]]
 ## Connected Articles
 
 - [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — academic dishonesty, risk perceptions, and ChatGPT usage

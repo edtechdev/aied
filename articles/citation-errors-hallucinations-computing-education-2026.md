@@ -3,7 +3,7 @@ title: "Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucina
 created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-16T09:40:00-04:00"
 type: article
-tags: [academic-integrity, hallucination-risk, llm, generative-ai, cs-education, peer-review, meta-analysis-systematic-review, quantitative-research]
+tags: [academic-integrity, hallucination-risk, llm, generative-ai, cs-education, peer-assessment, meta-analysis-systematic-review, quantitative-research]
 sources: ['raw/papers/citation-errors-hallucinations-computing-education-2026.md']
 confidence: high
 research_method: [bibliometric, quantitative]
@@ -13,7 +13,7 @@ audience: [researchers, instructors]
 category: [synthesis]
 ---
 
-> **Synthesis:** Denny et al. (2026) audit reference integrity across the entire ACM Digital Library — 723,930 publications and 15,872,533 references — to ask whether [[hallucination-risk|hallucinated references]] have arrived in the [[cs-education|computing education]] literature. Tracing 113,588 references from 5,225 computing education papers published since 2021, they manually verify 828 suspicious records and identify 30 references containing verifiably fabricated bibliographic information across 14 papers, all from 2025 and 2026. At the SIGCSE Technical Symposium alone the count rises from 3 in 2025 to 17 in 2026, appearing in 2.3% of 2026 proceedings papers, and hallucinated references appear across five SIGCSE-sponsored or in-cooperation venues in 2025. The authors stress that most suspicious references turn out to be ACM metadata mismatches or valid variants rather than fabrications, that their count is a deliberate lower bound, and that the burden this places on [[peer-review]] cannot be met by reviewers alone — [[academic-integrity]] here becomes a shared responsibility of authors using [[generative-ai]] [[llm|writing tools]], reviewers, and publishers.
+> **Synthesis:** Denny et al. (2026) audit reference integrity across the entire ACM Digital Library — 723,930 publications and 15,872,533 references — to ask whether [[hallucination-risk|hallucinated references]] have arrived in the [[cs-education|computing education]] literature. Tracing 113,588 references from 5,225 computing education papers published since 2021, they manually verify 828 suspicious records and identify 30 references containing verifiably fabricated bibliographic information across 14 papers, all from 2025 and 2026. At the SIGCSE Technical Symposium alone the count rises from 3 in 2025 to 17 in 2026, appearing in 2.3% of 2026 proceedings papers, and hallucinated references appear across five SIGCSE-sponsored or in-cooperation venues in 2025. The authors stress that most suspicious references turn out to be ACM metadata mismatches or valid variants rather than fabrications, that their count is a deliberate lower bound, and that the burden this places on [[peer-assessment]] cannot be met by reviewers alone — [[academic-integrity]] here becomes a shared responsibility of authors using [[generative-ai]] [[llm|writing tools]], reviewers, and publishers.
 
 ## The dataset: the ACM Digital Library at scale
 
@@ -21,7 +21,7 @@ The study rests on a unique corpus obtained with ACM's support on 1 April 2026: 
 
 ## Publication and reference trends (RQ1)
 
-Publication volume in CS Ed venues has grown substantially since the mid-1990s, and reference lists have lengthened over the same period; the increase is less pronounced than in the broader ACM corpus but the upward trend is clear. The visible dip around 2010 is an artefact — until 2009, SIGCSE Technical Symposium records appeared both as conference proceedings entries and as SIGCSE Bulletin entries with distinct DOIs and venue records. The authors frame this as a compounding problem: as both publication volumes and reference-list lengths grow, so does the number of citations that authors, [[peer-review|reviewers]], and publishers must verify. Rising volume is therefore not just a scale nuisance but the mechanism by which fabricated references become harder to catch.
+Publication volume in CS Ed venues has grown substantially since the mid-1990s, and reference lists have lengthened over the same period; the increase is less pronounced than in the broader ACM corpus but the upward trend is clear. The visible dip around 2010 is an artefact — until 2009, SIGCSE Technical Symposium records appeared both as conference proceedings entries and as SIGCSE Bulletin entries with distinct DOIs and venue records. The authors frame this as a compounding problem: as both publication volumes and reference-list lengths grow, so does the number of citations that authors, [[peer-assessment|reviewers]], and publishers must verify. Rising volume is therefore not just a scale nuisance but the mechanism by which fabricated references become harder to catch.
 
 ## A taxonomy of bibliographic errors (RQ2)
 
@@ -64,13 +64,13 @@ The response the paper advocates is explicitly collective rather than technologi
 
 ## Relevance to the knowledge base
 
-This is a field-level integrity audit rather than a study of learning or teaching, and its value for the knowledge base is as a check on the evidentiary substrate of everything else. Research syntheses on [[generative-ai]] in [[cs-education|computing education]], [[meta-analysis-systematic-review|systematic reviews]], and [[peer-review]]-mediated evidence all depend on references that can be traced to real publications; a 2.3% rate of fabricated references in a flagship proceedings, concentrated in the very recent, [[llm|LLM]]-era window, means downstream syntheses inherit a small but growing contamination risk. The paper also underscores a design lesson for AI-assisted research workflows already documented in the knowledge base: [[hallucination-risk]] is not a conversational curiosity but a bibliographic one, and the most fragile field — authorship — is exactly the one that carries credit and accountability. It pairs naturally with work on [[academic-integrity]] and [[ai-detection]] in assessment, extending the integrity conversation from student work to the published scholarship that instructors and researchers themselves produce.
+This is a field-level integrity audit rather than a study of learning or teaching, and its value for the knowledge base is as a check on the evidentiary substrate of everything else. Research syntheses on [[generative-ai]] in [[cs-education|computing education]], [[meta-analysis-systematic-review|systematic reviews]], and [[peer-assessment]]-mediated evidence all depend on references that can be traced to real publications; a 2.3% rate of fabricated references in a flagship proceedings, concentrated in the very recent, [[llm|LLM]]-era window, means downstream syntheses inherit a small but growing contamination risk. The paper also underscores a design lesson for AI-assisted research workflows already documented in the knowledge base: [[hallucination-risk]] is not a conversational curiosity but a bibliographic one, and the most fragile field — authorship — is exactly the one that carries credit and accountability. It pairs naturally with work on [[academic-integrity]] and [[ai-detection]] in assessment, extending the integrity conversation from student work to the published scholarship that instructors and researchers themselves produce.
 
 ## Connected Concepts
 
 - [[academic-integrity]]
 - [[hallucination-risk]]
-- [[peer-review]]
+- [[peer-assessment]]
 - [[llm]]
 - [[generative-ai]]
 - [[cs-education]]

@@ -1,7 +1,7 @@
 ---
 title: "Beyond 'Painting in Pink'"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-01T15:00:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 sources: ["raw/papers/all-girls-genai-makerspace-gender-equity-2026.md"]
 tags: ["equity-in-ai-education", "k-12", "generative-ai", "ai-literacy"]
@@ -44,7 +44,7 @@ While stakeholders generally viewed the all-girls format positively as a safer, 
 - [[stem-education]]
 - [[digital-divide]]
 - [[bias-mitigation]]
-
+- [[parents-and-families]]
 ## Connected Articles
 
 - [[informal-learning-everyday-human-llm-interaction]] — explores informal, out-of-school AI interaction, the same setting type (informal learning) that this study argues remains under-researched for equity-oriented GenAI.

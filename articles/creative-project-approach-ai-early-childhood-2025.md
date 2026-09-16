@@ -1,7 +1,7 @@
 ---
 title: "Tailoring AI Agents for Early Learning: The Creative Project Approach"
 created: "2026-09-05T00:20:00-04:00"
-updated: "2026-09-05T00:20:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [early-childhood-elementary-ai-education, educational-robotics, project-based-learning, generative-ai, agentic-ai, creativity, computational-thinking, social-emotional-learning, k-12]
 research_method: [theoretical analysis]
@@ -34,7 +34,7 @@ confidence: high
 - [[social-emotional-learning]] — supported by generative social robots and co-creation activities
 - [[embodied-learning]] — why physical agents are preferred over screens for young children
 - [[ai-literacy]] — teachers and children need critical AI literacy to evaluate tools
-
+- [[parents-and-families]]
 ## Connected Articles
 
 - [[ai-play-framework-early-childhood-2026]] — an AI-Play framework teaching early-childhood AI concepts through unplugged play

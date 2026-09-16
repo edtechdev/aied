@@ -1,7 +1,7 @@
 ---
 title: "Exploring K-12 Teachers' Perceptions of Students' Relationships with AI Companions: Boundaries, Intervention Strategies, and Design Implications"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-15T10:30:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [ai-literacy, k-12, teacher-role, student-ai-interaction, well-being, conversational-ai, pedagogical-safety, ethics, human-in-the-loop-ai]
 sources: ['raw/papers/k12-teachers-ai-companion-literacy-2026.md']
@@ -66,7 +66,7 @@ The limitations are stated openly: 33 US teachers recruited through Prolific ske
 - [[stakeholders]]
 - [[governance]]
 - [[pedagogical-partnerships]]
-
+- [[parents-and-families]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

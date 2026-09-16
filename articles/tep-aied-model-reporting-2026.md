@@ -36,7 +36,7 @@ confidence: high
 - The ethical dimension is framed as design work rather than compliance paperwork: data governance, mitigation of bias, hallucination, harmful outputs, and overreliance, plus equity and accessibility measures that cover language, disability support, and access gaps, and a justification when such measures are judged not applicable.
 - Pedagogy carries the most weight in the model. Because AI is treated as a tool whose value depends on instructional embedding, an AIED study has to show objectives, theory, and the AI's assigned role, and it has to show that learners were oriented toward acceptable and unacceptable practices and toward verifying and reflecting on AI output. That orientation step is where [[ai-literacy]], [[metacognition]], and [[cognitive-offloading]] concerns become measurable study components rather than background commentary.
 - Outcome vocabulary matters: distinguishing performance effects from retention and transfer follows directly from the critiques of Weidlich et al. (2025) and Yan et al. (2025), and it bears on [[assessment-validity]], [[transfer-of-learning]], and how [[learning-gains]] are claimed.
-- Reviewers, editors, and journal policy can operationalize the model cheaply, since it asks for a named Method subsection and for explanations when code, data, or benchmarks cannot be shared. This gives [[peer-review]] a checklist that fits inside existing article structures instead of a separate reporting instrument.
+- Reviewers, editors, and journal policy can operationalize the model cheaply, since it asks for a named Method subsection and for explanations when code, data, or benchmarks cannot be shared. This gives [[peer-assessment]] a checklist that fits inside existing article structures instead of a separate reporting instrument.
 - Scope limits should be respected: the authors present TEP-AIED as most applicable to experimental and intervention-based studies, and as informative rather than directly prescriptive for qualitative, design-based, and system-development research, where the same dimensions may need different evidence.
 
 ## Connected Concepts
@@ -60,7 +60,7 @@ confidence: high
 - [[ai-literacy]]
 - [[benchmark]]
 - [[open-source]]
-- [[peer-review]]
+- [[peer-assessment]]
 
 ## Connected Articles
 

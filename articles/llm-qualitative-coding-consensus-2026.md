@@ -61,7 +61,7 @@ The limitations are stated plainly and are load-bearing for how the findings sho
 - [[educational-nlp]]
 - [[automated-assessment]]
 - [[educational-measurement]]
-- [[peer-review]]
+- [[peer-assessment]]
 - [[bias-mitigation]]
 - [[metacognition]]
 

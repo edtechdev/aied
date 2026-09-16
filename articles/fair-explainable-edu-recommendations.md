@@ -1,7 +1,7 @@
 ---
 title: Fair and explainable educational recommendations with a hybrid Graph-GRU framework
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [ai-education, bias-mitigation, learning-analytics, personalized-learning]
 audience: [software developers]
@@ -47,7 +47,7 @@ For [[personalized-learning]] platforms, the work demonstrates that fairness, di
 - [[knowledge-graph]]
 - [[bias-mitigation]]
 - [[learning-analytics]]
-
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis

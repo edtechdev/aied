@@ -1,7 +1,7 @@
 ---
 title: "Asynchronous Oral Assessments: Enhancing Integrity, Engagement, and Communication in the AI Era"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-08-23T10:00:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [assessment, authentic-assessment, academic-integrity, student-engagement, higher-ed]
 research_method: [experiment]
@@ -55,7 +55,7 @@ This paper is a significant empirical contribution to the knowledge base's [[ass
 - [[generative-ai]]
 - [[educational-development|professional development]]
 - [[learning-gains]]
-
+- [[speech-and-voice-technologies]]
 ## Connected Articles
 
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment in an AI-mediated world

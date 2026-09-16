@@ -3,7 +3,7 @@ title: Group Work
 created: "2026-09-10T05:34:38-04:00"
 updated: "2026-09-15T11:40:00-04:00"
 type: concept
-tags: [collaborative-learning, assessment, academic-integrity, agency, higher-ed, peer-review, authentic-assessment, generative-ai]
+tags: [collaborative-learning, assessment, academic-integrity, agency, higher-ed, peer-assessment, authentic-assessment, generative-ai]
 audience: [instructors, learners]
 level: [higher ed]
 category: [assessment]
@@ -31,7 +31,7 @@ Group work occupies a distinctive place in [[higher-ed|higher education]] and [[
 - **Free-riding and social loafing.** Some members reduce their contribution and the workload is redistributed onto more engaged peers. Task scope, group size, and [[writing-education|composition]] raise the likelihood; accountability mechanisms and group efficacy reduce it.
 - **Accountability is relational as well as structural.** In Hong Kong — where one of the knowledge base's group-assessment studies was conducted — undergraduates often chose *not* to report free-riding to protect interpersonal relationships, completing the work themselves instead of confronting the problem. Students' [[agency]] can therefore take the form of pursuing the grade while avoiding the conflict.
 - **The collaboration has to be designed, not assumed.** Where a task can be partitioned into independent subtasks, students take that route and the group becomes a submission format rather than a joint intellectual endeavour. [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found three of their fifteen groups doing exactly this — dividing the work, working on "individual platforms," and never pooling their individual GenAI capabilities even when coherence was an explicit assessment criterion.
-- **Process versus product.** Group work is strongest when the process is assessed alongside the output, which requires [[peer-review|peer review]] or other visible intermediates rather than a single final artefact.
+- **Process versus product.** Group work is strongest when the process is assessed alongside the output, which requires [[peer-assessment|peer assessment]] or other visible intermediates rather than a single final artefact.
 - **[[equity-in-ai-education|Equity]] and [[inclusive-learning|inclusion]].** Contribution norms, language, and confidence distribute unequally inside groups. [[neurodivergent-computing-students|Neurodivergent students]] report needing structured assignments, small consistent teams, and explicitly defined roles — requirements that AI collaboration tools, often built for the "average" learner, routinely fail to accommodate.
 
 ## How AI changes group work
@@ -81,7 +81,7 @@ A second line of research treats AI as a participant rather than a tool, and its
 ## Design implications
 
 - **Make the AI-use negotiation an assessable outcome.** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] argue teams should justify and document how GenAI will and will not be used, turning an implicit peer norm into explicit, gradeable reasoning rather than leaving it to perceived risk.
-- **Assess process, not only product.** [[peer-review|Peer review]], intermediate deliverables, and reflective contributions create the interactions through which norms and shared understanding are actually constructed.
+- **Assess process, not only product.** [[peer-assessment|Peer assessment]], intermediate deliverables, and reflective contributions create the interactions through which norms and shared understanding are actually constructed.
 - **Do not rely on a coherence criterion alone.** A rubric line demanding integration does not produce collaboration if the task structure still permits divide-and-conquer; the workflow has to require joint work.
 - **Design access deliberately.** Whether the group shares one AI interface or each member prompts privately changes the transparency of the collaboration and the cost of sustaining a shared cognitive model.
 - **Decide, visibly, what the AI's role is.** A neutral mediator is trusted; an advisor or challenger is not, unless that role is explicit and intended. A contrarian persona can counter groupthink, but only as a designed feature with its psychological-safety costs acknowledged.
@@ -95,7 +95,7 @@ A second line of research treats AI as a participant rather than a tool, and its
 - [[ai-education]] — AI in education (umbrella)
 - [[collaborative-learning]]
 - [[assessment]]
-- [[peer-review]]
+- [[peer-assessment]]
 - [[academic-integrity]]
 - [[agency]]
 - [[authentic-assessment]]

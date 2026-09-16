@@ -1,7 +1,7 @@
 ---
 title: "How High-School Pressure and Autonomy Support Are Linked to Dual AI Learning Pathways: A Cross-Contextual SEM Analysis"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-01T10:00:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: article
 sources: ["raw/papers/dual-ai-learning-pathways-sdt-2026.md"]
 tags: ['generative-ai', 'self-determination-theory', 'quantitative-research']
@@ -30,7 +30,7 @@ Shen and Arunrugstichai propose a **dual-pathway framework** explaining why stud
 - [[self-determination-theory]]
 - [[student-engagement]]
 - [[motivation]]
-
+- [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 
 - [[liang-ai-learning-motivation-sdt-2026]] — AI learning and motivation from an SDT lens

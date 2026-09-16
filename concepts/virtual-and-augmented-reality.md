@@ -1,7 +1,7 @@
 ---
 title: Virtual and Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-09-16T10:00:00-04:00"
+updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [generative-ai, simulation, embodied-learning, multimodal, professional-training, stem-education, accessibility, medical-education]
 confidence: high
@@ -81,7 +81,7 @@ The same logic explains why presence is not automatically good. Motion sickness,
 - [[trust-calibration]] — fidelity, and the learner's awareness of its limits
 - [[cognitive-offloading]] — latency and instability as extraneous load
 - [[edtech-platform]] — synchronisation, latency and multi-site presence
-
+- [[arts-design-and-media-education]]
 ## Connected Articles
 
 - [[genai-ar-physics-simulation-prompt-2026]] — four-element prompt generating hand-controlled AR physics simulations; 29-student pilot, perception-only evidence
