@@ -1,7 +1,7 @@
 ---
 title: "Artificial and Emotional Intelligence: Two Key Forces for Teachers' Professional Development in an Era of Uncertainty"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T11:00:00-04:00"
+updated: "2026-09-16T13:40:00-04:00"
 type: article
 tags: [teacher-role, teacher-education, well-being, ethics, ai-education]
 audience: [researchers, administrators, policymakers]
@@ -10,7 +10,7 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1935683.md']
 confidence: high
 ---
 
-> **Synthesis:** Aponte, Vargas Sánchez, Chiappe, and Martínez-Pérez (2026) offer a conceptual and critical synthesis arguing that AI supports teachers' socio-emotional [[educational-development|professional development]] only when it functions as relational infrastructure rather than a symbolic substitute for human accompaniment. They introduce relational densification as an evaluative criterion for whether AI-supported initiatives strengthen the professional relationships tied to teacher wellbeing — trust, mentoring, peer support, collaboration, psychological safety, and reduced isolation — and distinguish among AI-mediated functions (coordination, recommendation, [[learning-analytics|analytics]], [[conversational-ai|conversational agents]], emotional AI) by their differentiated ethical and [[pedagogy|pedagogical]] risks.
+> **Synthesis:** Aponte, Vargas Sánchez, Chiappe, and Martínez-Pérez (2026) offer a conceptual and critical synthesis arguing that AI supports teachers' socio-emotional [[educational-development|professional development]] only when it functions as relational infrastructure rather than a symbolic substitute for human accompaniment. They introduce relational densification as an evaluative criterion for whether AI-supported initiatives strengthen the professional relationships tied to teacher wellbeing — [[trust]], mentoring, peer support, collaboration, psychological safety, and reduced isolation — and distinguish among AI-mediated functions (coordination, recommendation, [[learning-analytics|analytics]], [[conversational-ai|conversational agents]], emotional AI) by their differentiated ethical and [[pedagogy|pedagogical]] risks.
 
 ## Key Findings
 

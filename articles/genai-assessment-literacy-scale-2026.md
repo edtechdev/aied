@@ -1,7 +1,7 @@
 ---
 title: "Generative AI Assessment Literacy Scale for Higher Education Students"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T11:00:00-04:00"
+updated: "2026-09-16T13:40:00-04:00"
 type: article
 tags: [ai-literacy, assessment, feedback, academic-integrity, educational-measurement, higher-ed]
 audience: [educators, assessment designers, institutions]

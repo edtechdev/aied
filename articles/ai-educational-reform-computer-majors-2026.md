@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Educational Reform: Enhancing Talent Cultivation in Computer-Related Majors for the Digital Era"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T11:00:00-04:00"
+updated: "2026-09-16T13:40:00-04:00"
 type: article
 tags: [cs-education, higher-ed, curriculum-design, learning-design, personalized-learning]
 audience: [institutions, instructors]
@@ -10,7 +10,7 @@ sources: [raw/papers/10.3389_fpsyg.2026.1790916.md]
 confidence: high
 ---
 
-> **Synthesis:** Grounded in China's "new engineering" educational philosophy, this study designs and pilots an AI-integrated talent-cultivation reform for computer-related majors that embeds AI across curriculum, teaching, practice, and assessment. A pre/post cohort comparison across four undergraduate programs reports gains in programming completion, algorithmic reasoning, teamwork, and teaching effectiveness, though the single-institution, non-experimental design limits generalization.
+> **Synthesis:** Grounded in China's "new engineering" educational philosophy, this study designs and pilots an AI-integrated talent-cultivation reform for computer-related majors that embeds AI across curriculum, teaching, [[assessment|practice, and assessment]]. A pre/post cohort comparison across four [[higher-ed|undergraduate]] programs reports gains in programming completion, algorithmic reasoning, teamwork, and teaching effectiveness, though the single-institution, non-experimental design limits generalization.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Teaching Innovation Behavior Among College Teachers: A Structural Equation Modeling Analysis Based on the AI-TPACK Framework, Teaching Self-Efficacy, Professional Identity, and AI Literacy"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T11:00:00-04:00"
+updated: "2026-09-16T13:40:00-04:00"
 type: article
 tags: [teacher-role, teacher-education, ai-literacy, technology-acceptance-model, higher-ed, ai-education]
 audience: [researchers, administrators, edtech designers]
@@ -10,7 +10,7 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1834827.md']
 confidence: high
 ---
 
-> **Synthesis:** Bai and Hsieh (2026) use the AI-[[tpack|Technological Pedagogical Content Knowledge]] (AI-TPACK) framework, Social Cognitive Theory, and professional identity theory to model AI teaching innovation behavior among college teachers. In an SEM analysis of 898 Chinese university teachers, all AI-TPACK dimensions except AI technological knowledge and integrative knowledge were significantly associated with AI teaching innovation behavior. Professional identity and [[ai-literacy]] partially mediated the competence→innovation relationship, while teaching [[self-efficacy]]'s mediating role received only partial support; the professional-identity→innovation link was stronger among teachers with lower [[generative-ai|GenAI]] use frequency.
+> **Synthesis:** Bai and Hsieh (2026) use the AI-[[tpack|Technological Pedagogical Content Knowledge]] (AI-TPACK) framework, Social Cognitive Theory, and [[learner-identity|professional identity]] theory to model AI teaching innovation behavior among college teachers. In an SEM analysis of 898 Chinese university teachers, all AI-TPACK dimensions except AI technological knowledge and integrative knowledge were significantly associated with AI teaching innovation behavior. Professional identity and [[ai-literacy]] partially mediated the competence→innovation relationship, while teaching [[self-efficacy]]'s mediating role received only partial support; the professional-identity→innovation link was stronger among teachers with lower [[generative-ai|GenAI]] use frequency.
 
 ## Key Findings
 

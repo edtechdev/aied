@@ -1,7 +1,7 @@
 ---
 title: "Predictors of the ethical use of generative AI in higher education"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T11:00:00-04:00"
+updated: "2026-09-16T13:40:00-04:00"
 type: article
 tags: [academic-integrity, ethics, ai-literacy, higher-ed, ai-education, critical-thinking, privacy, generative-ai, governance]
 audience: [learners, instructors, administrators]
@@ -14,7 +14,7 @@ confidence: high
 
 ## Key Findings
 
-**Academic integrity and transparency dominate.** Of the six predictors, academic integrity and transparency had the strongest standardized effect on ethical GenAI use (β = 0.231; B = 0.332, p < 0.001), followed by ethical and technical [[ai-literacy|AI literacy]] (β = 0.181), [[critical-thinking|critical thinking]] and content verification (β = 0.177), institutional guidance and ethics education (β = 0.159), self-regulation and academic responsibility (β = 0.119), and data protection, [[privacy]], and risk management (β = 0.114). All six structural paths were positive and statistically significant, and no 95% confidence interval included zero, supporting H1–H6.
+**Academic integrity and transparency dominate.** Of the six predictors, academic integrity and transparency had the strongest standardized effect on ethical GenAI use (β = 0.231; B = 0.332, p < 0.001), followed by ethical and technical [[ai-literacy|AI literacy]] (β = 0.181), [[critical-thinking|critical thinking]] and content verification (β = 0.177), institutional guidance and ethics education (β = 0.159), self-[[regulation]] and academic responsibility (β = 0.119), and data protection, [[privacy]], and risk management (β = 0.114). All six structural paths were positive and statistically significant, and no 95% confidence interval included zero, supporting H1–H6.
 
 **Six predictors explain 44% of the variance.** The six exogenous constructs jointly explained R² = 0.440 of the variance in the endogenous construct, leaving 56.0% unexplained — the authors read this as meaningful but explicitly non-exhaustive explanatory capacity, with other individual, [[pedagogy|pedagogical]], technological and contextual factors still at work.
 

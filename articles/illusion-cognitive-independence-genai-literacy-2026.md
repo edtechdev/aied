@@ -1,7 +1,7 @@
 ---
 title: "The Illusion of Cognitive Independence in the Age of Generative AI: Unpacking GenAI Literacy and Learner Profiles"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T11:00:00-04:00"
+updated: "2026-09-16T13:40:00-04:00"
 type: article
 tags: [ai-literacy, cognitive-offloading, higher-ed, student-engagement, self-regulated-learning]
 audience: [instructors, researchers, learning designers]

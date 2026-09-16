@@ -1,7 +1,7 @@
 ---
 title: "Acceptance of AI-Gamified Adaptive Learning in EFL: Bifactor Evidence for Essential Unidimensionality and the Limits of Subscale Scoring"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T11:00:00-04:00"
+updated: "2026-09-16T13:40:00-04:00"
 type: article
 tags: [language-learning, game-based-learning, adaptive-learning, technology-acceptance-model, educational-measurement]
 audience: [researchers, instructors]

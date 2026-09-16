@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-16T13:00:00-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students]
 type: concept
 tags: [cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, generative-ai]
@@ -15,7 +15,7 @@ confidence: high
 ## Questions to Consider
 
 - A student can perform better in the moment while learning less over time — AI can raise assisted performance while degrading later, unassisted achievement. When have you felt you 'learned' something that vanished the moment the tool was gone?
-- The central finding is a performance–learning gap: students who used an unguarded AI tutor scored 48% higher on practice but 17% lower on closed-book exams. How does that change how you'd interpret a strong grade earned with AI help?
+- The central finding is a performance–learning gap: students who used an unguarded [[intelligent-tutoring|AI tutor]] scored 48% higher on practice but 17% lower on closed-book exams. How does that change how you'd interpret a strong grade earned with AI help?
 - Misuse is about substitution — delegating the drafting, recall, or analysis that builds durable understanding — rather than using AI as a complement. Where would you draw the line between AI helping you learn and AI learning for you?
 - Students in the harmed group did not perceive they learned less. If learners can't tell they're being harmed, what should an instructor watch for instead of trusting student self-reports?
 - The harm is selective by assessment type: it shows up on proctored, closed-book measures but can be hidden when coursework can't distinguish AI-assisted from independent work. What kind of assessment would actually reveal whether students learned?
@@ -38,9 +38,24 @@ The core concept, articulated in [[genai-performance-vs-learning]], is that gene
 
 ### The evidence base
 
-- **Causal field RCT (≈1,000 high-school math students):** an unguarded ChatGPT-style tutor raised assisted practice performance **+48%** but reduced unassisted, closed-book exam scores **−17%** — students who never had AI access outperformed those who did. A guardrailed "hint-not-answer" tutor eliminated the harm. Notably, students in the harmed arm did not perceive they learned less.
+- **Causal field RCT (≈1,000 high-school math students):** an unguarded ChatGPT-style tutor raised assisted practice performance **+48%** but reduced unassisted, [[summative-assessment|closed-book exam]] scores **−17%** — students who never had AI access outperformed those who did. A guardrailed "hint-not-answer" tutor eliminated the harm. Notably, students in the harmed arm did not perceive they learned less.
 - **Population-scale behavioral data (3.2M ALEKS interactions):** study time on AI-susceptible problems fell **−26.9%** cumulatively for college students (high school −31.3%) after ChatGPT's release, with a **−25% decline in odds of a correct response on proctored retention items**. The effect vanished entirely under proctoring, pinning it on off-platform AI use.
 - **A large null result:** exploiting the seasonal drop in ChatGPT use over summer showed **no net change in high-school standardized test averages** — likely because misuse harm is offset in aggregate by productive AI use. This does not contradict the causal harm to durable learning; it cautions against over-generalizing from aggregate test scores.
+
+### Dependency as a pathway to burnout
+
+Misuse harms more than achievement. A survey of 276 Chinese undergraduates
+([[ai-dependency-self-efficacy-teacher-support-burnout-2026|Huang et al., 2026]]) modelled AI dependency as the mediator between
+protective learner resources and learning burnout, and found it carried the entire effect: [[self-efficacy|academic self-efficacy]] negatively
+predicted AI dependency (β = −0.424, R² = 0.180) and [[teacher-role|teacher]] support did so more weakly (β = −0.217, R² = 0.047), while dependency
+in turn predicted burnout (β = 0.451, R² = 0.203). Both indirect paths were significant and *full* mediation — −0.239 (84.2%
+mediated) for self-efficacy and −0.143 (71.5%) for teacher support — with the direct effects becoming non-significant once dependency
+entered the model (B = −0.045, p = 0.559 and B = −0.089, p = 0.171). Read alongside the performance–learning gap above, the result
+extends the cost of misuse from degraded durable knowledge to learner exhaustion and disengagement, and it locates the mechanism in
+dependency itself rather than in AI use as such: the resources that protect against misuse appear to work by preventing dependency,
+not by counteracting its effects afterwards. The authors flag a measurement caveat — their AI Dependency Scale is adapted from the
+Internet Addiction Test and its content validity for AI has not been established — so the pathway is better treated as a
+well-modelled hypothesis than a settled effect size.
 
 ### The assessment-dependent nature of harm
 
@@ -49,7 +64,7 @@ The most important practical nuance is that the harm is **selective by assessmen
 ### Implications and remedies
 
 - **[[guardrails]] over raw access:** hint-not-answer [[prompt-engineering|prompting]] and teacher-authored [[scaffolding]] neutralize the crutch effect (see [[generative-ai-guardrails-harm-learning]]).
-- **Assessment design:** AI-resistant and proctored/unassisted assessments are needed to surface — and discourage — misuse.
+- **[[assessment|Assessment design]]:** AI-resistant and proctored/unassisted assessments are needed to surface — and discourage — misuse.
 - **Literacy and metacognition:** [[ai-literacy]] and [[self-regulated-learning]] training that helps students recognize reliance patterns and the cost of bypassing their own cognitive work.
 
 ## Connected Concepts
@@ -86,4 +101,4 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
-
+- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency fully mediates the path from self-efficacy and teacher support to learning burnout (Huang et al. 2026)

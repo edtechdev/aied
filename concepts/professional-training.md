@@ -1,7 +1,7 @@
 ---
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-14T09:18:34-04:00"
+updated: "2026-09-16T13:00:00-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm]
 audience: [instructors, administrators, learners]
@@ -28,9 +28,22 @@ confidence: high
 - **Lifelong learning integration:** [[lifelong-learning]] and [[adult-learning]] [[research-methods-aied|research]] connect professional training to continuous education.
 - **Public sector:** [[ai-adoption-training-public-sector|Public sector AI adoption]] examines training in government contexts.
 - **Workforce readiness frameworks:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] propose a Workforce Readiness Level (WRL) framework that adapts the Technology Readiness Level scale into nine competency stages scored across four pillars (digital/[[ai-literacy|AI literacy]], cyber-physical fluency, [[human-ai-collaboration|human-machine collaboration]], data-driven decision making), under a "no-thin-pillar" rule. Evidence from smart-manufacturing capstones shows the highest readiness stages are gated by industry-embedded experience rather than coursework — pointing to work-integrated learning as essential to professional AI training.
-- **[[discipline-specific-aied|Domain-specific]] PD evidence is thin.** A [[li-language-educators-genai-review-2026|systematic review of language educators]] (Li et al. 2026) found only three of 23 studies reported structured professional development, yet those that did converged on gains in knowledge, confidence, and identity — evidence that structured, domain-specific training (pairing technical skill with practical wisdom) is both scarce and effective, and that PD should move from awareness-raising and ethics through hands-on tool mastery to co-design of AI-enhanced lessons.
+- **[[discipline-specific-aied|Domain-specific]] PD evidence is thin.** A [[li-language-educators-genai-review-2026|systematic review of language educators]] (Li et al. 2026) found only three of 23 studies reported structured [[educational-development|professional development]], yet those that did converged on gains in knowledge, confidence, and identity — evidence that structured, domain-specific training (pairing technical skill with practical wisdom) is both scarce and effective, and that PD should move from awareness-raising and ethics through hands-on tool mastery to co-design of AI-enhanced lessons.
 - **Workforce forecasting:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending that [[higher-ed|higher education]] prioritize durable AI competencies, [[ethics]] and [[governance]], and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, [[educational-policy-ai|AI policy]]) to sustain human-centered work in an automated economy.
 - **Oral assessment for workplace capability.** A TVET design study addresses a long-standing mismatch between text-heavy assessment and the verbal, situational capabilities that professional qualifications certify, using an [[llm]] to support interactive oral assessment. Across four cohorts the voice format was rated realistic by 21 of 33 learners with no dissenting response on its advantage over a written [[eportfolio|portfolio]], and the system ran fully offline on one laptop for up to 12 simultaneous learners, deleting recordings after 90 days and leaving scoring to assessors ([[ai-supported-oral-assessment-tvet-2026]]). It is a concrete example of AI widening the range of assessable competence in professional-training rather than only automating existing written formats.
+
+- **Institutional conditions, not national context, explain readiness gaps.** A comparative survey of 568 university faculty in
+  Chinese (n = 340) and Kazakhstani (n = 228) faculty development centres ([[faculty-development-centers-genai-training-optimization-2026|Bi, Araily, Lyu & Xiu, 2026]])
+  found Kazakhstani faculty ahead on all seven [[generative-ai|GenAI]] readiness dimensions at baseline, with the largest gaps in disciplinary transfer
+  (d = −0.480), prompt design (d = −0.462), and AI-supported assessment (d = −0.406). Hierarchical regression dismantled the
+  national explanation: the country coefficient fell from B = 0.205 to B = 0.092 once prior GenAI use and recent training entered,
+  then to a non-significant B = 0.041 when institutional support (B = 0.083), perceived permission to experiment (B = 0.094),
+  [[multilingual-learning|multilingual]] resource access (B = 0.068), policy clarity, and risk sensitivity were added — an 80.0% reduction with R² rising from
+  0.057 to 0.442. Exposure was unevenly distributed (56.6% of Kazakhstani versus 27.9% of Chinese faculty had AI training in the past
+  six months), and Chinese faculty reported both higher policy clarity (d = 0.23) and higher risk sensitivity (d = 0.53). Structured
+  prompt-task training outperformed conventional GenAI familiarisation on post-test prompt design by a wide margin
+  (difference = 1.049, d = 1.996, η² = 0.502; group × time F(2,316) = 220.45, η² = 0.582). Faculty readiness, on this evidence, is
+  produced by provision and permission — what a centre offers and what it allows — rather than by the national system it sits in.
 
 ### Distinct from academic education
 
@@ -74,3 +87,4 @@ Professional training differs from academic education in its focus on applied sk
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
+- [[faculty-development-centers-genai-training-optimization-2026]] — Comparative survey showing institutional conditions, not national context, explain faculty GenAI readiness gaps (Bi et al. 2026)

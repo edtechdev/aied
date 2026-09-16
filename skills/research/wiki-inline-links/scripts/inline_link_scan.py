@@ -260,7 +260,8 @@ EMBEDDED_ALIASES = {
     'ai-feedback-quality': ['feedback quality', 'ai feedback'],
     'human-in-the-loop-ai': ['human oversight', 'human in the loop', 'human-in-the-loop', 'human review',
                              'human moderation', 'human judgment'],
-    'trust-calibration': ['trust calibration', 'calibrated trust', 'over-trust', 'overtrust'],
+    'trust-calibration': ['trust calibration', 'calibrated trust', 'over-trust', 'overtrust',
+                          'miscalibration', 'miscalibrated trust', 'miscalibration of trust'],
     'educational-robotics': ['educational robotics', 'robotics', 'robots', 'human-robot', 'robot'],
 }
 
