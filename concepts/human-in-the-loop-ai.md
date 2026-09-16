@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-14T06:35:00-04:00"
+updated: "2026-09-16T07:10:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software]
 type: concept
 tags: [human-in-the-loop-ai, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
@@ -49,7 +49,7 @@ Strategic insight: Human effort should be concentrated where instructional judgm
 
 ## MAIC: Human-in-the-Loop Script Generation
 
-Yu et al. (2024) deployed a multi-agent classroom (Teacher Agent, TA Agent, classmate archetypes) at Tsinghua University with >500 students and >100,000 learning records. Human instructors participate in script generation and oversight, ensuring that mass-scale AI augmentation does not displace pedagogical expertise.
+Yu et al. (2024) deployed a multi-agent classroom ([[teacher-role|Teacher]] Agent, TA Agent, classmate archetypes) at Tsinghua University with >500 students and >100,000 learning records. Human instructors participate in script generation and oversight, ensuring that mass-scale AI augmentation does not displace pedagogical expertise.
 
 ## PedaCo: Dual Gatekeeping for AI Video Generation
 
@@ -63,6 +63,7 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 - **Learner agency.** Keeping a human in the loop preserves [[agency]] and supports [[self-regulated-learning]], countering the [[cognitive-offloading|over-reliance]] that fully autonomous assistance can induce.
 - **Trust and calibration.** Transparent human oversight supports [[trust-calibration]] — learners and instructors know a qualified human stands behind the system.
 - **Bounded agency as an architecture, not a disclaimer.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al.'s (2026)]] AGAI-HE framework for [[agentic-ai|agentic]] learning support builds supervision into the model itself, as a third layer alongside the pedagogical-workflow and agentic-support layers: it defines acceptable AI use, pedagogical boundaries, [[privacy]] rules, [[ai-use-disclosure|disclosure requirements]], source verification, instructor checkpoints, [[academic-integrity|integrity]] mechanisms, and final human accountability, and requires every agentic function to trace to a learning requirement, assessment purpose, or governance control. It is a concrete instantiation of the principle that HITL is a system-design property rather than a policy statement — and the authors' 130-student perception study is a reminder that adding agentic orchestration under that oversight did not, by itself, register as better learning support than a chatbot.
+- **How often the human looks is itself a design decision.** [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] separates the *frequency* of oversight from its placement: high-frequency HITL, reviewing every AI output before it reaches students, buys quality control, rapid error detection, accountability and ongoing calibration but can cancel out the efficiency that motivated automation and bottleneck peak marking periods; low-frequency HITL, spot-checking samples and reviewing only flagged cases, scales and shortens turnaround but risks errors propagating undetected across submissions, weakens accountability, and creates an [[equity-in-ai-education|equity]] problem if some students receive more thorough human review than others. Rather than prescribing a universal answer, the framework requires the trade-off to be made explicitly against disciplinary error tolerances, whether the assessment is [[formative-assessment|formative]] or [[summative-assessment|summative]], cohort size and institutional resources — and sets a default in the opposite direction from the usual efficiency argument: begin with high-frequency oversight and scale it back only when substantial evidence demonstrates acceptable reliability, security and fairness, so the burden of proof rests on showing that *less* oversight is safe. The paper also warns that the principles behind such oversight may shift staff effort rather than reduce it, leaving net efficiency gains an open empirical question.
 
 ## Where HITL appears in the knowledge base's research
 - **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[cong-confidence-asag-2026]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and [[automated-essay-scoring|essay scoring]] ([[psyscore-essay-scoring-zpd-feedback]]). [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] instantiate this in high-stakes, handwritten general-[[chemistry-education|chemistry]] grading: because a [[multimodal]] LLM's reliability varies by response format (textual and chemical-reaction answers are reliable while drawing and graphing score worse than random) and false positives go undetected by students, they convert raw AI scores into a selective accept/deferral policy using confidence filters — partial-credit thresholds, an [[item-response-theory|IRT]]-based risk threshold, and problem-type exclusion — deferring uncertain and graphical items to humans, an approach the authors tie to [[regulation|regulatory]] frameworks that designate AI in [[assessment|educational assessment]] as high-risk and mandate documented human oversight.
@@ -151,3 +152,4 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
+- [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)
