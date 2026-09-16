@@ -1,13 +1,13 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-16T14:48:35-04:00"
 type: concept
 tags: [educational-measurement, research-methods-aied, quantitative-research, assessment-validity, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, student-experience]
 research_method: [survey, educational measurement, research methods, quantitative, qualitative]
 audience: [researchers, instructors]
 category: [evaluation]
-connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-learn]
+connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-learn, reporting-interpreting-aied-research]
 confidence: high
 ---
 

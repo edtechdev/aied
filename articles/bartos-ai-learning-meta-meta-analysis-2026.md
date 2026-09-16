@@ -1,9 +1,10 @@
 ---
 title: "Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis"
 created: "2026-09-05T12:00:00-04:00"
-updated: "2026-09-05T12:00:00-04:00"
+updated: "2026-09-16T14:48:35-04:00"
 type: article
 tags: [generative-ai, llm, research-methods-aied, meta-analysis-systematic-review, limitations-in-aied-research, ai-ed-evaluation, learning-gains, critical-thinking]
+connected_faqs: [reporting-interpreting-aied-research]
 sources: ['raw/papers/bartos-ai-learning-meta-meta-analysis-2026.md']
 confidence: high
 ---
