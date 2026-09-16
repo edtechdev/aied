@@ -1,7 +1,7 @@
 ---
 title: What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
 created: "2026-05-20T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [language-learning, llm, generative-ai, benchmark, scaffolding, formative-assessment, writing-education, rag, open-source, k-12]
 research_method: [benchmark]
@@ -11,11 +11,7 @@ sources: ['raw/papers/2605.14257.md']
 confidence: high
 ---
 
-> **Synthesis:** 🔗 [Code](https://github.com/adno/vocabulary-difficulty)
-
-## Overview
-
-This paper presents two complementary approaches to predicting vocabulary difficulty for language learners, achieving state-of-the-art results in the BEA 2026 Shared Task. The work advances both the accuracy and explainability of NLP systems for educational applications.
+> **Synthesis:** This paper presents two complementary approaches to predicting vocabulary difficulty for language learners, achieving state-of-the-art results in the BEA 2026 Shared Task. The work advances both the accuracy and explainability of NLP systems for educational applications.
 
 ## Key Findings
 

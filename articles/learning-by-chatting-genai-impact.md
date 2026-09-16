@@ -1,7 +1,7 @@
 ---
 title: Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
 created: "2026-06-11T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [generative-ai, llm, cognitive-offloading, student-experience, metacognition, higher-ed, self-regulated-learning, scaffolding, pedagogical-agent, ai-literacy]
 research_method: [experiment]
@@ -12,11 +12,7 @@ sources: ['raw/papers/2606.11669.md']
 confidence: high
 ---
 
-> **Synthesis:** **Shravika Mittal, Su Lin Blodgett, Q. Vera Liao**
-
-## Summary
-
-In an 8-day field experiment comparing ChatGPT vs. Google Search for informal learning, participants using ChatGPT experienced diminished agency, offloaded information selection to AI, and suffered greater [[metacognition|meta-cognitive]] load — resulting in worse [[learning-gains|learning outcomes]], particularly for higher-order [[critical-thinking|critical thinking]]. The study identifies two key distortions in ChatGPT-mediated information access: output bias toward solution-oriented artifacts over principled knowledge, and a conversational interaction paradigm that reduces exploration of the broader knowledge space.
+> **Synthesis:** In an 8-day field experiment comparing ChatGPT vs. Google Search for informal learning, participants using ChatGPT experienced diminished agency, offloaded information selection to AI, and suffered greater [[metacognition|meta-cognitive]] load — resulting in worse [[learning-gains|learning outcomes]], particularly for higher-order [[critical-thinking|critical thinking]]. The study identifies two key distortions in ChatGPT-mediated information access: output bias toward solution-oriented artifacts over principled knowledge, and a conversational interaction paradigm that reduces exploration of the broader knowledge space.
 
 ## Key Findings
 

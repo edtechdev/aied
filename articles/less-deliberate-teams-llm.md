@@ -1,7 +1,7 @@
 ---
 title: "Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work"
 created: "2026-07-02T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [llm, student-experience, collaborative-learning, higher-ed, student-engagement, generative-ai, rag]
 research_method: [system development]
@@ -12,9 +12,7 @@ sources: ['raw/papers/2606.30860.md']
 confidence: high
 ---
 
-> **Synthesis:** **Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, Khyati Goyal** — ACM SIGCSE Virtual 2026, submitted 29 Jun 2026
-
-Semester-long study of 96 CS students shows [[llm]] usage dropped 42.7 percentage points when students moved from individual to team work; team context reduces deliberate LLM [[student-engagement|engagement]].
+> **Synthesis:** Semester-long study of 96 CS students shows [[llm]] usage dropped 42.7 percentage points when students moved from individual to team work; team context reduces deliberate LLM [[student-engagement|engagement]].
 
 ## Key Contributions
 
