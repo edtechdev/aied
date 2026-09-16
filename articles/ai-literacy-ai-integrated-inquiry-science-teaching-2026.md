@@ -1,7 +1,7 @@
 ---
 title: "From AI literacy to AI-integrated inquiry-based science teaching: the serial mediating roles of AI-TPACK and science teaching self-efficacy among Chinese pre-service science teachers"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-16T13:40:00-04:00"
+updated: "2026-09-16T14:10:00-04:00"
 type: article
 tags: [ai-literacy, tpack, inquiry-based-learning, self-efficacy, science-education, teacher-ai-competency, teacher-education, teacher-role, pedagogy]
 audience: [researchers, teacher educators, teachers, policymakers]
@@ -10,36 +10,37 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1911909.md']
 confidence: high
 ---
 
-> **Synthesis:** A survey of 548 Chinese pre-service science teachers tested how [[ai-literacy|AI literacy]] translates into intention to integrate AI into inquiry-based science teaching. Using PLS-SEM, the study found a serial mediating chain in which [[ai-literacy|AI literacy]] strengthens [[tpack|AI-TPACK]], which in turn builds [[self-efficacy|science teaching self-efficacy]], and ultimately predicts AI integration intention — indicating that general AI literacy is a necessary but not sufficient foundation for AI-integrated [[inquiry-based-learning|inquiry-based]] science teaching.
+> **Synthesis:** A survey of 548 Chinese pre-service science teachers tested how [[ai-literacy|AI literacy]] becomes the intention to teach science through inquiry with AI. The study found a serial chain in which AI literacy strengthens [[tpack|AI-TPACK]], AI-TPACK in turn builds [[self-efficacy|science teaching self-efficacy]], and that confidence predicts the intention to integrate AI — suggesting that general AI literacy is a necessary but not sufficient foundation for AI-integrated [[inquiry-based-learning|inquiry-based]] science teaching.
 
 ## Key Findings
 
-- **AI literacy strongly predicts AI-TPACK** (β = 0.570, 95% CI [0.513, 0.624], p < 0.001), a large effect (f² = 0.482) — teachers must understand and evaluate AI tools before they can integrate them with science content and pedagogy.
-- **AI-TPACK positively predicts science teaching self-efficacy** (β = 0.454, 95% CI [0.374, 0.533]), a medium effect (f² = 0.221), suggesting AI-integrated [[pedagogy|pedagogical]] knowledge acts as a cognitive source of teaching confidence.
-- **Science teaching self-efficacy predicts AI integration intention** (β = 0.361, 95% CI [0.282, 0.438], f² = 0.127), the largest predictor of intention among the constructs.
-- **The serial mediation pathway (AI literacy → AI-TPACK → self-efficacy → intention) was significant** (β = 0.093, 95% CI [0.070, 0.121]), supported as complementary partial mediation along with separate indirect paths through AI-TPACK (β = 0.110) and self-efficacy (β = 0.080).
-- **Total indirect effect of AI literacy on intention was 0.283** (95% CI [0.227, 0.344]) of a total association of 0.433 — intention is substantially mediated rather than directly driven.
-- **Model explained 35.5% of variance** in AI integration intention, 32.5% in AI-TPACK, and 37.0% in science teaching self-efficacy, with all Q² values above zero indicating predictive relevance.
-- **Robustness held after controls:** direction and significance of all focal paths were unchanged (Δβ ≤ 0.008) after controlling for gender, year of study, major, AI use frequency, AI training, and teaching practicum.
+- **AI literacy is a strong foundation for AI-TPACK.** Pre-service teachers who could understand, evaluate and use AI tools also saw themselves as more able to combine AI with science content and inquiry pedagogy; this was the strongest single link in the model.
+- **AI-TPACK builds science teaching confidence.** Participants who felt able to align AI with content and pedagogy reported higher [[self-efficacy|science teaching self-efficacy]], so AI-related pedagogical knowledge works as a source of confidence rather than only as a technical skill.
+- **Confidence, not AI knowledge, is the strongest predictor of intent to integrate AI.** Of the constructs tested, science teaching self-efficacy had the largest direct association with the intention to use AI in future inquiry-based science lessons.
+- **AI literacy acts mostly through professional knowledge and confidence.** The serial pathway from AI literacy through AI-TPACK and self-efficacy to integration intention was significant, alongside separate indirect routes through each mediator, with a smaller direct link also remaining.
+- **Background differences did not change the picture.** Adding gender, year of study, major, university type, AI use frequency, AI training and teaching practicum experience as controls left every focal path essentially unchanged, and none of the controls directly predicted integration intention.
+- **Teachers felt capable but hesitant.** Science teaching self-efficacy had the highest average score of the four constructs, while intention to integrate AI into inquiry-based science teaching had the lowest — capability beliefs alone do not turn into a commitment to use AI in the classroom.
 
 ## Study Design & Method
 
-The study surveyed 548 Chinese pre-service science teachers (176 men, 372 women) from normal and comprehensive [[higher-ed|universities]], covering majors in science, [[physics-education|physics]], [[chemistry-education|chemistry]], [[biology-education|biology]], and geography education. Data were collected via convenience sampling through the Wenjuanxing platform. The four focal constructs — AI literacy (7 items), AI-TPACK (10 items), science teaching self-efficacy (7 items, adapted from the STEBI-B Personal Science Teaching Efficacy Belief subscale), and intention to integrate AI into inquiry-based science teaching (6 items) — were measured on seven-point Likert scales, translated into Chinese via translation/back-translation with expert content validity review (S-CVI > 0.90). Analysis used partial least squares structural equation modeling (PLS-SEM) with 5,000 bias-corrected bootstrap samples. Reliability was strong (Cronbach's α 0.920–0.948; composite reliability 0.938–0.955), AVE exceeded 0.50 (0.680–0.715), and HTMT values (0.468–0.619) supported discriminant validity. Harman's single-factor test (first factor 44.71%) and full-collinearity VIFs (all < 3.30) indicated no serious common method bias.
+A total of 548 Chinese pre-service science teachers, mostly second- to fourth-year undergraduates at normal and comprehensive [[higher-ed|universities]], completed an online questionnaire distributed through the Wenjuanxing platform by convenience sampling. Their majors covered science education, [[physics-education|physics education]], [[chemistry-education|chemistry education]], [[biology-education|biology education]] and geography education, and most had already taken educational technology, science teaching methods or subject-specific pedagogy courses. Four constructs were measured on seven-point Likert scales: AI literacy, AI-TPACK, science teaching self-efficacy (adapted from the STEBI-B personal science teaching efficacy subscale) and intention to integrate AI into inquiry-based science teaching. The original English scales were translated and back-translated into Chinese, reviewed by three experts for content validity, and piloted with 30 students before the main survey.
+
+The data were analysed with partial least squares structural equation modelling, chosen to explain variance in the endogenous constructs and to test multiple direct and serial indirect paths; the model accounted for roughly 35% of the variance in integration intention. Measurement quality was established first, with loadings, reliability and convergent and discriminant validity meeting conventional thresholds, and with common-method and collinearity diagnostics showing no serious threat. Background variables were then entered as controls in a robustness step to confirm that the findings were not driven by prior AI or teaching experience.
 
 ## Implications
 
-- [[teacher-role|Teacher]] educators should embed AI training within science pedagogy and inquiry-based teaching rather than limiting it to general tool operation — e.g., using AI to design inquiry questions, evaluate AI-generated scientific models, and judge the scientific accuracy of AI content.
-- Universities should incorporate AI-TPACK into science [[teacher-education|teacher education]] curricula through specialized modules (concept [[visualization]], experimental [[simulation]], data interpretation, explanation construction) rather than treating AI only in generic educational technology courses.
-- For [[stakeholders|policymakers]], [[change-management|implementation of AI]]-enabled education reform should extend beyond general AI literacy or digital literacy training to include curricula and assessment that address teachers' capacity to apply AI within scientific inquiry, model-based reasoning, and [[ethics|ethical]] classroom practice.
-- AI literacy alone is insufficient preparation for AI-supported [[science-education|science education]]; building confidence through contextualized, [[discipline-specific-aied|subject-specific]] AI-integrated knowledge is essential.
+- Teacher educators should embed AI training within science pedagogy and inquiry-based teaching rather than limiting it to general tool operation — for example, guiding pre-service teachers to design inquiry questions with AI, evaluate AI-generated scientific models, judge the scientific accuracy of AI content, and identify ethical risks and biases.
+- University [[teacher-education|teacher education]] programmes in science should build AI-TPACK through subject-specific modules on concept visualisation, experimental simulation, data interpretation and explanation construction, instead of addressing AI only in generic educational technology courses.
+- For policymakers, AI-enabled education reform should extend beyond general AI or digital literacy training: curricula and assessment need to address whether pre-service teachers can apply AI within scientific inquiry, model-based reasoning and [[ethics|ethical]] classroom practice.
+- AI literacy alone is not sufficient preparation for AI-supported [[science-education|science education]]; the study argues that contextualised, [[discipline-specific-aied|subject-specific]] knowledge and the confidence it supports are what connect literacy to teaching intention.
 
 ## Limitations
 
-- Cross-sectional design precludes strong causal inference; findings reflect associations rather than a demonstrated developmental sequence.
-- Self-report [[self-report-measures|questionnaire]] data may be affected by social desirability and subjective perceptions rather than actual integration competence or classroom performance.
-- Sample comprised only Chinese pre-service science teachers, limiting generalizability to other countries, regions, or teacher education institutions.
-- AI-TPACK was treated as a first-order construct measuring perceived AI-integrated pedagogical knowledge; it did not capture DPACK's [[sociocultural-learning|sociocultural]] knowledge or DiKoLAN AI's subject-specific competencies (data processing, simulation and modeling, scientific information evaluation).
-- Generalizability across science disciplines (physics, chemistry, biology, earth science) was not tested; future multigroup comparisons are needed.
+- The cross-sectional design precludes strong causal inference: the serial chain is a theoretically grounded association, not a demonstrated developmental sequence.
+- Data come from [[self-report-measures|self-report]] questionnaires, so social desirability and subjective perception may shape responses; no classroom observation or design-task evidence was collected.
+- The sample comprised only Chinese pre-service science teachers, limiting generalisability to other countries, regions or types of teacher education institution.
+- AI-TPACK was measured as a first-order construct of perceived AI-integrated pedagogical knowledge; it did not capture the sociocultural dimension of digitality emphasised by DPACK, nor DiKoLAN AI's subject-specific competencies in data processing, simulation and modelling, and scientific information evaluation.
+- Generalisability across science disciplines (physics, chemistry, biology, earth science) was not tested; future multigroup comparisons are needed.
 
 ## Connected Concepts
 

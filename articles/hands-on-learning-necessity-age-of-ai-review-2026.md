@@ -1,7 +1,7 @@
 ---
 title: "Is hands-on learning still necessary in the age of AI? A thematic review"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-16T13:40:00-04:00"
+updated: "2026-09-16T14:10:00-04:00"
 type: article
 tags: [experiential-learning, active-learning, embodied-learning, creativity, human-ai-collaboration, design-thinking, metacognition, pedagogy, ai-education, higher-ed]
 audience: [researchers, instructors, curriculum designers, policymakers]
@@ -15,16 +15,16 @@ confidence: high
 ## Key Findings
 
 - **AI reorganizes rather than replaces hands-on learning.** The reviewed literature shows sketching, model making, material experimentation, and prototyping remain core activities, while AI-supported generation, comparison, and selection become a second, cognitive form of practice.
-- **Two distinct forms emerge from the review.** *Embodied Hands-on* relies on bodily action, tools, and materials; *Cognitive Hands-on* develops through continued operation, judgement, and adjustment of AI-generated outcomes — a distinction synthesized from coding rather than predetermined.
+- **Two distinct forms emerge from the review.** *Embodied Hands-on* relies on bodily action, tools, and materials; *Cognitive Hands-on* develops through continued operation, judgement, and adjustment of AI-generated outcomes — a distinction that emerged from the coding rather than being predetermined.
 - **Both forms share one process structure.** Action, feedback, reflection, and refinement are the common cycle, but the two depend on different sources of feedback (real-world material resistance vs. language and visual outcomes) and should not be treated as equivalent.
 - **Rapid generation may compress learning processes.** Fleischmann (2025, 2026) and others report that generation efficiency can reduce exploratory sketching and gradual trial-and-error, lowering opportunities for students to encounter failure and material constraints; more iterations enabled by AI do not necessarily mean greater iterative depth.
 - **AI use alone does not directly improve creativity.** Zhu et al. (2025a) found that [[prompt-engineering|prompting]] without further steps did not raise creativity, whereas multi-step operations (generation, modification, selection) were positively associated with the creativity of final work.
 - **Cognitive Hands-on elevates metacognition and language.** Students must translate design intentions into prompts, judge alignment between outputs and goals, and reflect on their own judgement processes — but language cannot replace material feedback, and over-evaluation may narrow tolerance for uncertainty and risk-taking.
-- **Design literacy is being redefined.** The review proposes that design literacy increasingly involves [[critical-thinking|critical evaluation]], metacognitive [[regulation]], and decision-making within human–AI collaboration, centered on [[agency|learner agency]].
+- **Design literacy is being redefined.** The review proposes that design literacy increasingly involves [[critical-thinking|critical evaluation]], metacognitive regulation, and decision-making within human–AI collaboration, centered on [[agency|learner agency]].
 
 ## Study Design & Method
 
-The study used an inductive thematic review approach to examine how the role of hands-on learning is changing in AI-supported design education. Literature was identified through Web of Science (Topic/TS field) and Scopus (TITLE-ABS-KEY), with two search pathways: practice-based/studio learning traditions (2005–2020) and AI-supported design learning (2019–2026). Three principal searches returned 77 initial records; relevance screening kept 36, and after removing 4 duplicates the final review corpus comprised 32 peer-reviewed studies. Analysis followed Braun and Clarke's (2006) thematic analysis in three stages — open coding, focused coding, and theme development — conducted in ATLAS.ti 25, with first-author-led coding and partial review by the third author; inter-coder reliability was not computed. Study quality was appraised using MMAT principles, and the [[meta-analysis-systematic-review|PRISMA]] 2020 framework supported transparent reporting of identification and screening.
+The study used an inductive thematic review approach to examine how the role of hands-on learning is changing in AI-supported design education. Literature was identified through Web of Science and Scopus, with two search pathways: practice-based/studio learning traditions and AI-supported design learning. Screening narrowed an initial pool of records to a final corpus of 32 peer-reviewed studies. Analysis followed Braun and Clarke's (2006) thematic analysis in three stages — open coding, focused coding, and theme development — conducted in ATLAS.ti, with first-author-led coding and partial review by the third author; inter-coder reliability was not computed. Study quality was appraised using MMAT principles, and the [[meta-analysis-systematic-review|PRISMA]] 2020 framework supported transparent reporting of identification and screening.
 
 ## Implications
 
