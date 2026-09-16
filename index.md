@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-16
 
-Articles: 1192 | Concepts: 191 | FAQs: 18
+Articles: 1196 | Concepts: 191 | FAQs: 18
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
@@ -146,6 +146,7 @@ Articles: 1192 | Concepts: 191 | FAQs: 18
 - [[ai-pedagogical-accompaniment-amico]] — Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China
 - [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
 - [[ai-perceptions-students-teachers-motivation-2026]] — Exploring AI perceptions in education: unveiling the role of student and teacher motivation and self-efficacy
+- [[ai-personas-fieldwork-experiential-learning-2026]] — AI Personas: Can LLMs Replace Fieldwork in Experiential Learning?
 - [[ai-play-framework-early-childhood-2026]] — AI-Play: A Framework for Teaching Artificial Intelligence Concepts through Unplugged Activities in Early Childhood Education
 - [[ai-powered-materials-discovery-ai-literacy]] — Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment
 - [[ai-powered-personalized-learning-elementary-fractions-2026]] — Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning
@@ -1246,6 +1247,7 @@ Articles: 1192 | Concepts: 191 | FAQs: 18
 - [[teacher-control-ai-generation-math-visuals]] — When Should Teachers Control AI Generation for Mathematics Visuals?
 - [[teacher-education]] — Professional Development
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective
+- [[teacher-educators-ai-integration-preservice-2026]] — Pioneering Teacher Educators Navigating AI Integration in Pre-Service Teacher Preparation: Strategies and Challenges
 - [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher Intervention in K-12 AI-Based Instruction
 - [[teacher-role]] — Teaching
 - [[teacher-student-agency-orchestration]] — Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing
@@ -1257,6 +1259,7 @@ Articles: 1192 | Concepts: 191 | FAQs: 18
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
 - [[teaching-monster-pck-benchmark-2026]] — Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents
 - [[teaching-the-teachers-genai-tpk-review-2026]] — Teaching the teachers: A systematic review of genAI-specific technological pedagogical knowledge (TPK) in teacher education
+- [[teaching-with-robots-five-types-perspective-2026]] — Theoretical Perspectives on Teaching with Robots: From Interdisciplinary Prerequisites and Necessities in Today's Classrooms to Five Different Types of Robots
 - [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors
 - [[teachlm-post-training-llms-education]] — TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education
@@ -1286,6 +1289,7 @@ Articles: 1192 | Concepts: 191 | FAQs: 18
 - [[tripartite-feedback-framework-ai-assessment-2026]] — A Tripartite Feedback Framework for AI-Assisted Assessment of Complex Reports in Higher Education
 - [[trust]] — Trust
 - [[trust-calibration]] — Trust Calibration
+- [[trust-in-ai-psychological-profiles-ml-2026]] — Psychological Profiles Associated with Trust in Artificial Intelligence Among University Students: A Machine Learning Clustering Approach
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Fostering Computational Thinking Through Robotics in Kindergarten: A Systematic Review of Learning Strategies, Frameworks, and Assessment
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons
