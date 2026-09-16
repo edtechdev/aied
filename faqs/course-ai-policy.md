@@ -1,0 +1,71 @@
+---
+title: "How Do I Write a Course AI Policy and Communicate It to Students?"
+created: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-16T15:58:20-04:00"
+weight: 70
+type: faq
+tags: [ai-use-disclosure, academic-integrity, framing-ai-use-for-students, educational-policy-ai, assessment, reducing-ai-misuse]
+research_method: [literature review, qualitative, survey]
+audience: [instructors, educators, curriculum designers]
+level: [higher ed, secondary]
+category: [policy]
+---
+
+# How Do I Write a Course AI Policy and Communicate It to Students?
+
+A course AI policy has to say what students may do with [[generative-ai|generative AI]] task by task, survive contact with students who read it differently than you intended, and remain something you can actually enforce. The research base cannot say which policy produces the most learning, but it shows how course policies are in fact written, which design choices make use or concealment more attractive, why detection-based enforcement fails as a foundation, and what makes a policy usable.
+
+This page covers the course-level document for one module, course or programme strand. Institution-level questions — what a university or district mandates, procures and governs — sit with [[educational-policy-ai]] and [[governance]]. Rebuilding the assessment so a grade still supports a defensible inference sits with [[redesign-assessment-ai-era]]; the assumption here is that you have decided what you are assessing, and the question is how to say so and make it stick.
+
+## What course-level policies actually look like
+
+Course policies are improvised locally and tend to be stricter than the guidance above them. A content analysis of **116 institutional GenAI policies** from 131 US R1 universities and **98 computer-science syllabi** from 54 of them found institutions broadly pro-use — 63% encourage GenAI use, 41% offer detailed classroom guidance, 27% discourage it — while **half the syllabi (50%) outright prohibit it**, 41% permit partial use for specified activities and 7% communicate encouragement. [[genai-policies-higher-ed-computing|Ganguly et al. (2026)]] call this the top-down versus bottom-up gap: 92% of syllabi give explicit guidelines, but instructors write local rules that may not align with institutional guidance, and only 47 institutions had both levels detectable. Citation is the one thing both levels agree on, required by 83% of syllabi.
+
+[[chirikov-regulate-ai-syllabi-2026|Chirikov (2026)]] tracked over 31,000 syllabi at a large public research university in Texas from 2021 to 2025: regulation rose from near zero before ChatGPT to 55% of courses by Fall 2025, while the share of fully restrictive policies fell about 5 percentage points a year. By Fall 2025 instructors most commonly restricted drafting and revising (79%) and reasoning and [[problem-solving]] (65%), and most commonly permitted editing and proofreading (83%), study support and synthesis (80%) and coding (75%); ideation was the most contested use (46% permit, 54% restrict). Academic-integrity mentions fell from 63% to 49%, while references to AI's impact on learning rose from 1% to 29% and attribution requirements from 16% to 43%.
+
+[[nash-preservice-teachers-classroom-ai-policies-2026|Nash and Burriss (2026)]] analysed 27 classroom AI policies written by preservice English language arts teachers: **26 of 27 permitted some AI use**, almost always on teacher-specified terms, times and places, and one prohibited it entirely. Ideation was the most broadly permitted use (22 of 27) and the most ambiguous; 22 disallowed or left unclear the AI composition of sentences, paragraphs or papers; 16 permitted grammar checking and proofreading while 16 prohibited producing large AI-generated text; and **22 of 27 did not address reading at all**. The recurring failure was operationalisation: one policy allowed AI "to get your thinking started" and declared "this is where the line should be drawn" without saying where. That ambiguity is a defect: it leaves students unable to comply and instructors unable to apply a consistent standard.
+
+## Four design options and what each makes attractive to students
+
+[[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] model assessment as a problem of imperfect information: the student knows how the work was produced and the institution sees only the artefact and partial traces. Their response-region model compares three responses — no AI use, [[ai-use-disclosure|disclosed]] use, and hidden use — and asks which each mechanism makes most attractive. Prohibition defines the formal boundary but leaves hidden use attractive when students perceive detection as weak. Monitoring raises the expected cost of hidden use without increasing disclosure; students become cautious without becoming transparent. Permission with disclosure makes honest reporting viable only when the cost of honesty is low. Redesign changes what the task rewards, and stays cosmetic if the rubric still grades mainly the final product.
+
+Two results bear on wording. Deterrence runs through a detector's **discrimination** between hidden use and legitimate work, not its raw catch rate, so when extra sensitivity produces more new false positives than new true positives, **stronger monitoring can make concealment relatively more attractive** — honest students are penalised faster than hidden users are identified. And permission and disclosure are different levers: permission moves the boundary of acceptable use, disclosure changes visibility. The practical instruction is to diagnose where your task pulls the student most tempted to conceal, and design for that student rather than the most conscientious one.
+
+[[teaching-intro-ai-course-redesign-bill-of-rights-2026|Pisan (2026)]] shows the options made explicit and graduated by level. AI use is barred in the introductory programming course, because outsourcing the first loops removes the thing being taught; encouraged on projects in data structures (Copilot permitted) but barred from pen-and-paper examinations; a study and review aid in the upper-division systems course; and **required** in the AI course itself, where one boundary carried most of the weight — the model may write code, but reflections must be the student's own voice. Assessment moved onto work a model cannot quietly ghost-write, with examinations removed entirely.
+
+## Why detector-based enforcement is not a defensible basis for wording
+
+[[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] argue AI detection should not be used in education at all, on three grounds that bear on policy wording directly. Detector output is a probabilistic estimate that cannot be independently verified, because real-world text origin is unknown, so validation runs on circular reasoning. Detector scores do not meet the balance-of-probabilities standard an [[academic-integrity|integrity]] investigation requires. And the human-versus-AI dichotomy is meaningless for work created *with* rather than *by* AI. Their conclusion is that detection "does not safeguard academic integrity; it undermines it." They also name a drafting problem every policy writer meets: rules restricting AI use "in assessment" fail to specify when an assessment begins, so AI-assisted research, planning or editing may or may not be a violation depending on who is reading.
+
+Do not write a rule whose only enforcement route is a detector score. Write rules that name a process you can evidence — a submitted prompt and interaction log, an in-class exercise produced in the room, an oral explanation — and treat a declared AI use as context rather than a confession. Where your institution runs a detector, the same authors' warnings about data storage, retention and commercial use of student work apply; the [[privacy]] objection two preservice teachers raised is the objection your students will raise.
+
+## How students actually behave under norms and disclosure rules
+
+Disclosure rules do not operate as compliance mechanisms. In a mixed-methods study of 409 undergraduates, [[qu-wang-disclose-or-not-genai-2026|Qu and Wang (2026)]] found non-disclosure was **strategic adaptation to perceived peer norms and low interpretive [[trust]] in instructors**, not moral negligence: perceived peer disclosure and comfort with instructors were the strongest predictors of students' own disclosure, while moral disengagement had weaker effects. Relational climate is a designable variable, and mandates alone are insufficient.
+
+[[student-rationalization-ai-writing|Kim et al. (2026)]] identified **five distinct sites** where a course's real policy lives — faculty intention, formal policy, student interpretation, student self-policy and student practice — with systemic gaps between them, plus **23 rationalizations in six classes** students used to justify AI use in academic writing, from "no human victim" to "instructor indifference." Those rationalizations were ad hoc and post hoc: students explained behaviour that had already happened rather than reasoning beforehand, which is why clearer wording and harsher detection do not close the gap by themselves. One participant who wanted to obey a strict no-AI rule kept using AI and reported the prohibition "is creating conflict for me, because I'm breaking the rules" — the ban intensified moral conflict rather than preventing use.
+
+The communication lesson appears in Pisan's course evaluations. Because most assignments disclosed the prompt used to generate them, one student read transparency as **permission**: "the dependency on ai from the teacher for grading and creating assignments also made it difficult to not use ai for assignments in the same way." Modelling a norm is part of the policy as students experience it, whatever the syllabus says.
+
+## Communicating a policy students can actually follow
+
+The clearest worked method here is [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]], who replaced a blanket prohibition students did not believe applied to them. The problem was misalignment, not defiance: students did not see themselves as behaving dishonestly. The method was to inventory every task in the semester project, ask of each "what, specifically, am I assessing?", pair each task with a plausible professional GenAI use, and decide task by task, weighing the need to assess a capability against the value of building a workforce competency. The resulting policy is deliberately uneven: brainstorming permitted but composing specific and measurable learning objectives not, image curation permitted but slide-level message design not, scripts and narration permitted with required evaluation of the AI output.
+
+What made it usable was the writing: a rationale addressed to students in the second person, naming the assessment that justifies each restriction, with a syllabus summary plus assignment-level call-outs where one summary is too coarse. [[guided-inquiry-genai-course-policy-2026|Hingle and Johri (2026)]] reached a similar place from the student side — students who co-designed a course policy through guided inquiry prioritised training for students and instructors, **standardised disclosure procedures**, stronger institutional support and greater involvement in decisions about AI. That is a usable specification for the communication half of your policy: say how, where and in what form a student declares AI use, and say it once. Pisan's equivalent move was to make the prompt log the graded artefact: when a model does the production, the prompt and interaction log are the thing worth versioning.
+
+## Equity and workload: writing rules you can enforce
+
+Opaque policies assume shared background knowledge about authorship, attribution and the norms of academic work, so they fall hardest on students who arrive without it. McCorkle's argument is that transparency is an [[equity-in-ai-education|equity]] move: it dismantles part of the hidden curriculum and reduces the chance that a policy failure becomes a disciplinary matter. Nash and Burriss conclude that institutions must equip teachers to resist as well as adopt, providing the guidance and [[educational-development|professional development]] that let an instructor decline a specific AI use without being framed as behind the times — their participants' technodeterminism contradicted their own [[pedagogy|pedagogical]] commitments.
+
+Enforcement capacity is the workload constraint. A rule requiring per-task monitoring, or a judgement call about when an assessment "begins", will be applied inconsistently, and inconsistency is itself an equity problem. Detector-based regimes bring a surveillance cost that lands unevenly and raise [[remote-proctoring|proctoring]] and data-retention questions. Chirikov's finding of substantial disciplinary and task variation argues for frameworks that grant instructors autonomy within their domain rather than one-size-fits-all mandates. The cheapest version is fewer and more specific rules — the tasks you assess, the uses permitted for each, the disclosure mechanics, and the consequence of a crossed boundary — with the reason for each boundary stated, because a policy that explains itself is doing assessment design and communication work at once.
+
+Institution-level questions — governance structures, data policy, procurement and review cycles — are covered in [[institutional-ai-policy|How Do We Write and Implement an Institutional AI Policy?]].
+
+## A short checklist for writing and communicating a course AI policy
+
+- Inventory the tasks in the graded work and ask, for each, what specifically you are assessing, before deciding anything about AI.
+- Decide task by task, and check which response that makes most attractive to the student most tempted to conceal.
+- Do not make a detector the enforcement mechanism; name process evidence you can observe instead, such as logs, in-class work, or an oral check.
+- Say how and where students declare AI use, in one standard place, and treat a declaration as context rather than a confession.
+- State each rule as a rationale to students, naming the assessment it serves, with assignment-level reminders on complex projects.
+- Write only rules you can apply consistently across a marking cycle, and cut the ones you cannot.

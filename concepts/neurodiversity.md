@@ -1,10 +1,10 @@
 ---
 title: Neurodiversity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [special-education, inclusive-learning, student-experience, equity-in-ai-education, neurodiversity]
-connected_faqs: [ai-guidance-children-under-13]
+connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
 audience: [learners]
 level: [special education]
 confidence: high

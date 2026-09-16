@@ -1,9 +1,10 @@
 ---
 title: Administrators
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-09-13T10:14:50-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [administrator, educational-policy-ai, higher-ed, generative-ai, llm, student-experience, ai-literacy, stem-education, scaffolding, learning-analytics]
+connected_faqs: [institutional-ai-policy]
 discipline: [stem education]
 audience: [administrators, instructors]
 level: [higher ed]

@@ -1,9 +1,10 @@
 ---
 title: "AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [cognitive-offloading, critical-thinking, ai-literacy, digital-divide, higher-ed, student-experience, trust]
+connected_faqs: [reducing-over-reliance]
 research_method: [mixed methods]
 audience: [learners]
 level: [higher ed]

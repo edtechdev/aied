@@ -1,9 +1,10 @@
 ---
 title: "Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emergent Perspective"
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-09-10T05:34:38-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [agency, group-work, assessment, academic-integrity, collaborative-learning, generative-ai, higher-ed, teacher-education]
+connected_faqs: [group-work-ai]
 research_method: [qualitative, interviews, thematic analysis]
 level: [higher ed]
 audience: [instructors, researchers, administrators]

@@ -1,9 +1,10 @@
 ---
 title: "Multidimensional perceived school support and AI learning anxiety among university students: the mediating roles of control-value appraisals"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [ai-anxiety-and-stress, self-efficacy, motivation, higher-ed, student-experience, technology-acceptance-model, well-being]
+connected_faqs: [ai-anxiety-wellbeing]
 audience: [researchers, instructors, administrators]
 research_method: [structural equation modeling, survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1951992.md']

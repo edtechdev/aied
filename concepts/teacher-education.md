@@ -1,9 +1,10 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-14T06:30:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
+connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher training, k 12]
 confidence: high

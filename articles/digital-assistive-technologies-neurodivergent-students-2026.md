@@ -1,9 +1,10 @@
 ---
 title: "Generative AI, Virtual Reality, and Beyond: Digital Assistive Technologies for Neurodivergent Students"
 created: "2026-09-15T11:05:00-04:00"
-updated: "2026-09-15T11:05:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [neurodiversity, assistive-technology, accessibility, inclusive-learning, higher-ed, universal-design-for-learning, generative-ai, virtual-and-augmented-reality, equity-in-ai-education, limitations-in-aied-research]
+connected_faqs: [ai-disabled-neurodivergent-learners]
 sources: ['raw/papers/digital-assistive-technologies-neurodivergent-students-2026.md']
 confidence: high
 research_method: [systematic review, qualitative]

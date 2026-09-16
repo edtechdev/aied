@@ -1,9 +1,10 @@
 ---
 title: "Scaffolding Self-Regulated Feedback with GenAI vs. Human Peers for Feedback Literacy"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-15"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [self-regulated-learning, ai-feedback-quality, feedback, formative-assessment, peer-assessment, scaffolding, ai-literacy, generative-ai, metacognition, cognitive-offloading, writing-education]
+connected_faqs: [ai-feedback-at-scale]
 audience: [learners, instructors]
 research_method: [mixed methods, experiment]
 discipline: [writing education]

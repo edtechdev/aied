@@ -1,9 +1,10 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [change-management, ai-education, higher-ed]
+connected_faqs: [institutional-ai-policy, faculty-development-ai]
 level: [higher ed]
 confidence: medium
 ---

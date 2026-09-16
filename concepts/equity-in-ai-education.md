@@ -1,14 +1,14 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
 ---
 
 > **Equity** — the principle that AI should serve all learners fairly, and the study of systemic disparities in access to, representation within, and benefits from AI educational tools. Equity [[research-methods-aied|research]] in the knowledge base examines access gaps and the digital divide, bias and fairness in [[ai-technologies|AI systems]], culturally responsive and linguistically inclusive design, accessibility for learners with disabilities, and the distribution of AI's benefits and harms across groups. It connects the technical (bias mitigation, fair algorithms) with the structural (infrastructure, policy) and the [[pedagogy|pedagogical]] (culturally relevant [[teacher-role|teaching]]).

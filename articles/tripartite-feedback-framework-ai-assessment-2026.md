@@ -1,9 +1,10 @@
 ---
 title: "A Tripartite Feedback Framework for AI-Assisted Assessment of Complex Reports in Higher Education"
 created: "2026-09-16T06:55:00-04:00"
-updated: "2026-09-16T06:55:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [feedback, automated-assessment, human-in-the-loop-ai, feedback-literacy, assessment-validity, academic-integrity, rag, higher-ed, equity-in-ai-education, generative-ai]
+connected_faqs: [verify-ai-output]
 sources: ['raw/papers/tripartite-feedback-framework-ai-assessment-2026.md']
 confidence: high
 research_method: [theoretical analysis]

@@ -1,9 +1,10 @@
 ---
 title: Group Work
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [collaborative-learning, assessment, academic-integrity, agency, higher-ed, peer-assessment, authentic-assessment, generative-ai]
+connected_faqs: [group-work-ai]
 audience: [instructors, learners]
 level: [higher ed]
 category: [assessment]

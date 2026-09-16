@@ -1,9 +1,10 @@
 ---
 title: "Faculty Self-Perceived Knowledge in Using Generative AI to Teach 21st-Century Skills"
 created: "2026-09-09T02:58:00-04:00"
-updated: "2026-09-09T02:58:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [tpack, higher-ed, generative-ai, educational-development, self-efficacy, teacher-role]
+connected_faqs: [faculty-development-ai]
 research_method: [survey, quantitative]
 discipline: [learning sciences]
 audience: [faculty development, institutions, instructors]

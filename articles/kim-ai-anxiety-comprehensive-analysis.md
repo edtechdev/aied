@@ -1,9 +1,10 @@
 ---
 title: "AI Anxiety: A Comprehensive Analysis of Psychological Factors and Interventions"
 created: "2026-08-25T07:45:00-04:00"
-updated: "2026-08-25T11:10:00-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [ai-anxiety-and-stress, generative-ai, well-being, privacy, ethics, ai-literacy, adult-learning, governance, regulation]
+connected_faqs: [ai-anxiety-wellbeing]
 audience: [researchers, instructors]
 research_method: [literature review]
 sources: ['raw/papers/kim-ai-anxiety-comprehensive-analysis.md']

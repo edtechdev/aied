@@ -1,10 +1,10 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [ai-use-disclosure, academic-integrity, ethics, trust, generative-ai, higher-ed, assessment, educational-policy-ai]
-connected_faqs: [reporting-interpreting-aied-research, ai-guidance-children-under-13]
+connected_faqs: [reporting-interpreting-aied-research, ai-guidance-children-under-13, course-ai-policy]
 level: [higher ed]
 category: [assessment]
 confidence: high
