@@ -1,9 +1,21 @@
 # Journal
 
 
-Last updated: 2026-09-16 | Total entries: 1397
+Last updated: 2026-09-16 | Total entries: 1409
 
 ## 2026-09-16
+- 📄 [[ai-supported-ementoring-efl-preservice-2026]] — An AI-supported E-mentoring model to develop EFL pre-service teachers' self-efficacy and emotional intelligence
+- 📄 [[ai-educational-reform-computer-majors-2026]] — AI-driven educational reform: enhancing talent cultivation in computer-related majors for the digital era
+- 📄 [[illusion-cognitive-independence-genai-literacy-2026]] — The illusion of cognitive independence in the age of generative AI: unpacking GenAI literacy and learner profiles
+- 📄 [[predictors-ethical-genai-use-higher-ed-2026]] — Predictors of the ethical use of generative artificial intelligence in higher education
+- 📄 [[genai-didactic-pedagogical-mediator-2026]] — Generative AI as a didactic-pedagogical mediator: rethinking human roles and pedagogical design in higher education
+- 📄 [[still-emerging-genai-use-higher-ed-2026]] — Still emerging: understanding Generative AI use in Higher Education
+- 📄 [[genai-assessment-literacy-scale-2026]] — Development and validation of the generative AI assessment literacy scale for higher education students
+- 📄 [[ai-gamified-adaptive-learning-efl-2026]] — Acceptance of AI-gamified adaptive learning in EFL: bifactor evidence for essential unidimensionality and the limits of subscale scoring
+- 📄 [[ai-dependence-academic-writing-ipace-2026]] — Are Students Dependent on AI in Writing Courses? Analyzing Factors Influencing Dependence on Generative AI Through the I-PACE Model
+- 📄 [[asr-english-speaking-feedback-metacognition-2026]] — ASR Technology in College English Speaking Instruction: The Role of Feedback Internalization and Metacognitive Strategies
+- 📄 [[ai-teaching-innovation-ai-tpack-2026]] — AI Teaching Innovation Behavior Among College Teachers: A Structural Equation Modeling Analysis Based on the AI-TPACK Framework, Teaching Self-Efficacy, Professional Identity, and AI Literacy
+- 📄 [[ai-emotional-intelligence-teacher-development-2026]] — Artificial and Emotional Intelligence: Two Key Forces for Teachers' Professional Development in an Era of Uncertainty
 - 📄 [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — A Hybrid Collaborative Filtering and Knowledge Graph-Based Cross-Domain Recommendation Method for Multimodal Teaching Resources
 - 📄 [[pulla-parsons-problem-tool-2026]] — Pulla: A Parsons Problem Tool for Fine-Grained Behavioral Tracing and Instructor-Facing Problem-Solving Analysis
 - 📄 [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: LLM-Assisted Multimodal Instruction for VR Stage Lighting Education
