@@ -1,9 +1,10 @@
 ---
 title: "Exploring K-12 Teachers' Perceptions of Students' Relationships with AI Companions: Boundaries, Intervention Strategies, and Design Implications"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: [ai-literacy, k-12, teacher-role, student-ai-interaction, well-being, conversational-ai, pedagogical-safety, ethics, human-in-the-loop-ai]
+connected_faqs: [ai-guidance-children-under-13]
 sources: ['raw/papers/k12-teachers-ai-companion-literacy-2026.md']
 confidence: high
 research_method: [qualitative, interviews, thematic analysis]

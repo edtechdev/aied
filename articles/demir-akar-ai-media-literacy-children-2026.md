@@ -1,9 +1,10 @@
 ---
 title: "Transforming clicks into critical thinking: An AI-based media literacy program for children"
 created: "2026-09-03T13:40:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: [critical-thinking, ai-literacy, early-childhood-elementary-ai-education, k-12, mixed-methods-research, generative-ai, curriculum-design, ethics]
+connected_faqs: [ai-guidance-children-under-13]
 research_method: [mixed methods, quasi-experiment]
 audience: []
 level: [k 12]

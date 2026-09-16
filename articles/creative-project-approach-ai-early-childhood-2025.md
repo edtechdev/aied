@@ -1,9 +1,10 @@
 ---
 title: "Tailoring AI Agents for Early Learning: The Creative Project Approach"
 created: "2026-09-05T00:20:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: [early-childhood-elementary-ai-education, educational-robotics, project-based-learning, generative-ai, agentic-ai, creativity, computational-thinking, social-emotional-learning, k-12]
+connected_faqs: [ai-guidance-children-under-13]
 research_method: [theoretical analysis]
 audience: [instructors, learning designers, teacher educators]
 level: [k 12]

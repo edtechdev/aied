@@ -1,9 +1,10 @@
 ---
 title: "Fostering Computational Thinking Through Robotics in Kindergarten: A Systematic Review of Learning Strategies, Frameworks, and Assessment"
 created: "2026-08-24T12:31:00-04:00"
-updated: "2026-08-25T13:45:00-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: [computational-thinking, educational-robotics, k-12, meta-analysis-systematic-review, assessment, stem-education, early-childhood-elementary-ai-education]
+connected_faqs: [ai-guidance-children-under-13]
 research_method: [systematic review]
 discipline: [stem education]
 level: [early childhood, k 12]
