@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-16T12:00:00-04:00"
 type: concept
 tags: [self-efficacy, motivation, assessment, self-regulated-learning, student-experience, ai-literacy]
 audience: [learners]
@@ -30,7 +30,7 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 - **AI self-efficacy and career readiness:** [[ai-literacy-career-adaptability-business-2026|Research on AI readiness]] shows that AI self-efficacy moderates the relationship between AI literacy and AI readiness: literacy translates into readiness only when learners have confidence in using AI, and self-efficacy directly predicts [[career-development-and-readiness|career adaptability]].
 - **AI use patterns and self-efficacy:** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] found that using [[generative-ai|GenAI]] to *support understanding* (evaluative integration) was fully mediated by academic self-efficacy in its association with performance — understanding-oriented AI use builds confidence — whereas shortcut use (low-verification uptake) predicted worse outcomes partly independently of self-efficacy. Self-efficacy is thus both a pathway through which productive AI use helps and a factor that shortcut use may fail to build.
 - **Robotics and [[experiential-learning|hands-on learning]]:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]]'s robot-mediated role-play built children's self-efficacy in anti-bullying intervention; robotics and [[embodied-learning|embodied learning]] generally build confidence by grounding tasks in observable outcomes.
-- **Teacher self-efficacy:** [[teacher-ai-competency|Teacher AI competency]] research examines how [[educational-development|professional development]] builds teachers' confidence in using AI, which affects adoption and integration.
+- **Teacher self-efficacy:** [[teacher-ai-competency|Teacher AI competency]] research examines how [[educational-development|professional development]] builds teachers' confidence in using AI, which affects adoption and integration. [[ai-supported-ementoring-efl-preservice-2026|Ismael, Luo & Li (2026)]] add quasi-experimental evidence that an AI-supported e-mentoring model raises EFL pre-service teachers' self-efficacy and emotional intelligence in the practicum: the experimental group gained more than controls on the TSES (89.76→112.40 vs 88.92→102.16; Time×Group F(1,48)=32.7, p<.001, ηp²=.41; between-group d=1.04, within d=1.84) with subdomain ηp² of .37/.33/.29, and on the TEIQue (121.84→135.60 vs 120.96→124.32; F=22.4, ηp²=.32) — mentoring AI-mediated within structured reflective cycles, not the AI alone, drove the gains.
 - **Feedback and confidence:** [[ai-feedback-quality|AI feedback]] and [[intelligent-tutoring|tutoring]] can build learner self-efficacy by providing actionable, supportive feedback.
 - **Empowerment in AI [[problem-solving]]:** Zhu and Kong (2026) find that students' empowerment in using AI for problem solving mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. In their SEM analysis of 1,027 students, PBL fostered conditions that empowered students to use AI for problem solving, which in turn drove course satisfaction — evidence that building students' confidence and capability with AI is a key mechanism of effective AI literacy education.
 
@@ -50,6 +50,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[self-report-measures]]
 
 ## Connected Articles
+- [[ai-supported-ementoring-efl-preservice-2026]] — AI-supported e-mentoring raises EFL pre-service teachers' self-efficacy and emotional intelligence (quasi-experimental)
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
 
 - [[oby-chatgpt-use-learning-framework-2026]]
