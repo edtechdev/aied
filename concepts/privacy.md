@@ -1,8 +1,8 @@
 ---
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-07T08:25:00-04:00"
-connected_faqs: [equity-ethics-pedagogical-safety-research]
+updated: "2026-09-16T15:03:07-04:00"
+connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai]
 level: [k 12]

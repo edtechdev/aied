@@ -1,9 +1,10 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: concept
 tags: [early-childhood-elementary-ai-education, k-12, ai-literacy, computational-thinking, ai-education, well-being]
+connected_faqs: [ai-guidance-children-under-13]
 level: [k 12]
 confidence: high
 ---

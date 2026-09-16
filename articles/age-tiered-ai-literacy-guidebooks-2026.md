@@ -1,9 +1,10 @@
 ---
 title: "Measuring Acceptance of Age-Tiered AI Literacy Guidebooks: A Developmentally Informed Study of K-12 Students and Teachers"
 created: "2026-09-13T11:05:00-04:00"
-updated: "2026-09-13T11:05:00-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: [ai-literacy, generative-ai, k-12, technology-acceptance-model, educational-measurement, curriculum-design, equity-in-ai-education, adaptive-learning, teacher-role]
+connected_faqs: [ai-guidance-children-under-13]
 research_method: [instrument development, survey, quantitative, mixed methods]
 discipline: [stem education]
 audience: [educators, teachers, curriculum designers, researchers, policymakers, learning designers]

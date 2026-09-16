@@ -1,10 +1,11 @@
 ---
 title: "Play With AI (PL-AI): A Play-Centered, Design-Based Curriculum for AI Literacy in Pre-K and Kindergarten"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-01T12:00:00-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: article
 sources: ["raw/papers/play-ai-pre-k-kindergarten-ai-literacy-2026.md"]
 tags: ["ai-literacy", "early-childhood-elementary-ai-education", "design-based-research", "educational-robotics", "game-based-learning"]
+connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 ---
 

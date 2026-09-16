@@ -1,10 +1,11 @@
 ---
 title: "Beyond 'Painting in Pink'"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: article
 sources: ["raw/papers/all-girls-genai-makerspace-gender-equity-2026.md"]
 tags: ["equity-in-ai-education", "k-12", "generative-ai", "ai-literacy"]
+connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 ---
 

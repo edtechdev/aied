@@ -1,9 +1,10 @@
 ---
 title: "Rethinking Elementary Education's Writing Instruction in The Age of Generative AI: A Systematic Review"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-08-25T13:45:00-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: [writing-education, k-12, generative-ai, ai-literacy, meta-analysis-systematic-review, creativity, assessment]
+connected_faqs: [ai-guidance-children-under-13]
 audience: [instructors]
 research_method: [systematic review]
 discipline: [writing education]

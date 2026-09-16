@@ -1,9 +1,10 @@
 ---
 title: "Young People, Learning, and Generative AI: A Rapid Literature Review and Implications for PreK-12 Education"
 created: "2026-08-19T12:00:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: [k-12, generative-ai, cognitive-offloading, self-regulated-learning, metacognition, ai-literacy, reducing-ai-misuse, assessment, educational-policy-ai, equity-in-ai-education, teacher-education, student-engagement]
+connected_faqs: [ai-guidance-children-under-13]
 audience: [learners, instructors]
 research_method: [literature review]
 level: [k 12]

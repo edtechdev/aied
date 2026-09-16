@@ -1,9 +1,10 @@
 ---
 title: "Artificial Intelligence in Toys: Implications for Child Development and Play"
 created: "2026-08-25T09:52:34-04:00"
-updated: "2026-08-25T13:45:00-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: [educational-robotics, k-12, agency, pedagogical-agent, well-being, generative-ai, early-childhood-elementary-ai-education, cognitive-psychology]
+connected_faqs: [ai-guidance-children-under-13]
 research_method: [literature review]
 level: [early childhood, k 12]
 sources: ['raw/papers/ai-toys-child-development-2026.md']

@@ -1,9 +1,10 @@
 ---
 title: "AI-Play: A Framework for Teaching Artificial Intelligence Concepts through Unplugged Activities in Early Childhood Education"
 created: "2026-08-17T10:30:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: [ai-literacy, k-12, computational-thinking, game-based-learning, cs-education, learning-theories]
+connected_faqs: [ai-guidance-children-under-13]
 audience: [instructors]
 research_method: [literature review]
 discipline: [cs education]
