@@ -51,10 +51,6 @@
     "installed": "db78825ca44d9a47",
     "repo": "f24d718dcdf841b7"
   },
-  "tooling/SKILL.md": {
-    "installed": "d9cc7a10e3019a8d",
-    "repo": "9a481a56d4ca84ca"
-  },
   "tooling/scripts/refresh-preview.py": {
     "installed": "ee8dc4432b7b6abf",
     "repo": "8a08e888dde36d7e"

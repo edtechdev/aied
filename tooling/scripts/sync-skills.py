@@ -337,7 +337,11 @@ def main():
             if text is None:
                 print(f"  skip (unreadable): {src}")
                 continue
-            text = normalize(text, pairs_conf, reverse=to_repo)
+            # src is the installed copy when going repo-ward, so the placeholder
+            # substitution runs forward (real name -> "the maintainer") in both
+            # directions; `reverse` only applies when the destination is the
+            # installed copy.
+            text = normalize(text, pairs_conf, reverse=not to_repo)
             os.makedirs(os.path.dirname(dst), exist_ok=True)
             with open(dst, 'w', encoding='utf-8') as fh:
                 fh.write(text)
