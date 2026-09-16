@@ -1,14 +1,14 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-16T14:48:35-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop-ai, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 research_method: [benchmark, educational measurement]
 audience: [researchers, instructors, administrators]
 level: [higher ed]
 category: [assessment]
-connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods]
+connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods, reporting-interpreting-aied-research]
 confidence: high
 
 ---

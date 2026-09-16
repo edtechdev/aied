@@ -1,9 +1,10 @@
 ---
 title: "Presenting Your AI in Education Research with Rigor: The TEP-AIED Model"
 created: "2026-09-01T09:45:00-04:00"
-updated: "2026-09-16T01:55:00-04:00"
+updated: "2026-09-16T14:48:35-04:00"
 type: article
 tags: [research-methods-aied, ai-ed-evaluation, generative-ai, ethics, theory-development-aied, limitations-in-aied-research, ai-use-disclosure, assessment-validity]
+connected_faqs: [reporting-interpreting-aied-research]
 research_method: [theoretical analysis]
 audience: [researchers]
 level: [higher ed]

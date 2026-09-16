@@ -1,9 +1,10 @@
 ---
 title: "Presumed Effective: The Manufacturing of an Evidence Base for AI-in-Education Through Flawed Meta-Analysis"
 created: "2026-09-05T12:00:00-04:00"
-updated: "2026-09-14T13:40:55-04:00"
+updated: "2026-09-16T14:48:35-04:00"
 type: article
 tags: [research-methods-aied, meta-analysis-systematic-review, limitations-in-aied-research, ai-ed-evaluation, ai-education, generative-ai, learning-gains, educational-policy-ai, peer-assessment, academic-integrity, assessment-validity]
+connected_faqs: [reporting-interpreting-aied-research]
 research_method: [secondary analysis, meta-analysis, research methods]
 level: [k 12, higher ed, adult learning]
 category: [synthesis, evaluation, policy]
