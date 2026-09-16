@@ -1,7 +1,7 @@
 ---
 title: Robots in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-05T00:20:00-04:00"
+updated: "2026-09-16T09:58:00-04:00"
 type: concept
 tags: [educational-robotics, computational-thinking, stem-education, k-12, higher-ed, cs-education, embodied-learning]
 discipline: [stem education]
@@ -30,6 +30,8 @@ Two strands shape the social side of robotics in education.
 **Human–robot interaction (HRI)** is the interdisciplinary study of how people and robots interact, encompassing perception, communication, collaboration, and the social, cognitive, and [[ethics|ethical]] dynamics of that interaction. In education, HRI underlies how learners perceive, trust, and learn with robots — whether programming a robot, conversing with a tutoring robot, or rehearsing social scenarios. HRI [[research-methods-aied|research]] examines how robot appearance, behaviour, task context, and embodiment shape [[usability-research|user experience]], trust, agency, and learning. Key concerns in educational HRI include preserving human [[agency]], building [[trust]], supporting [[self-efficacy]], and ensuring that interaction with robots supports rather than undermines autonomy and social learning. It connects robotics to [[human-ai-collaboration]] and [[social-emotional-learning]].
 
 ### How robots are used in education
+
+[[teaching-with-robots-five-types-perspective-2026|Christ et al. (2026)]] add a role typology rather than a technology list: their five workshop-derived types of classroom robot differ by *pedagogical function and abstraction level*, not by hardware. Type a runs a non-interactive demonstration of generic social patterns (a scripted emotion theatre followed by discussion of dynamics such as escalation or misunderstanding); type b is a touch-reactive interactive robot supporting participative physical theatre, [[embodied-learning|embodied learning]], boundary awareness and emotion regulation; type c is a spoken-language partner that shows empathy and remembers interactions with a single pupil, creating a protected one-to-one setting for self-disclosure; type d is externally guided by a hidden specialist like a puppet with extra degrees of freedom, aimed at flattening social hierarchy; and type e is a non-interactive robot replaying actions recently observed in the school so pupils can reflect on situated behaviour — the contrast with type a being exactly its context-specific rather than generalised abstraction. The typology is explicit about being an unvalidated design space grounded in one national mental-health programme, so it is a menu for designing and evaluating robot roles, not evidence that any of them works.
 
 - **Computational thinking and programming:** Programmable robots (e.g., LEGO, block-based platforms) help learners connect code to real outcomes. [[computational-thinking-educational-robotics-secondary-2026|Valls i Pou]] links computational thinking to secondary STEAM curricula, and [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] combines block programming with a [[conversational-ai|conversational AI]] agent and embodied robot feedback. [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners control simulated robots with natural language.
 
@@ -108,3 +110,4 @@ A defining theme is that robots are effective when they support genuine learning
 
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: integrating coding and generative social robots into early-childhood projects (Yang, Li & Lee 2025)
+- [[teaching-with-robots-five-types-perspective-2026]] — Five functionally distinct types of classroom robot, from scripted demonstration to one-to-one empathic dialogue (Christ et al. 2026)

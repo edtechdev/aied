@@ -1,10 +1,10 @@
 ---
 title: GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-26T15:34:14-04:00"
+updated: "2026-09-16T08:40:00-04:00"
 type: article
 tags: [ai-literacy, higher-ed, student-experience, cognitive-offloading, learning-theories, metacognition]
-research_method: [system development, user study]
+research_method: [survey, quantitative]
 audience: [learners]
 level: [higher ed]
 
@@ -16,19 +16,19 @@ A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, B
 
 ## Method highlights
 
-- **Critical use of genAI** measured with a newly developed 10-item scale (α = .78) covering validation behaviours (cross-checking outputs, verifying factual accuracy, comparing with literature).
-- **Knowledge measured two ways** — the study's key [[research-methods-aied|methodological]] contribution: *self-reported* (18 SNAIL items, α = .90) AND *objective/performance-based* (12 items from Köhler & Hartig's ChatGPT scale + Hornberger et al.'s AI literacy test), each objective item paired with a certainty rating to compute a **misconception score** (correctness × certainty; Eitel/Hefter procedure).
-- Dispositions: epistemic orientation (5 items, α = .70), intellectual values (14 fictive-person items, α = .90), plus need for cognition (NFC, 4-item short scale, α = .54).
+- **Critical use of genAI** measured with a newly developed 10-item scale (α = 0.78) covering validation behaviours (cross-checking outputs, verifying factual accuracy, comparing with literature).
+- **Knowledge measured two ways** — the study's key [[research-methods-aied|methodological]] contribution: *self-reported* (18 SNAIL items, α = 0.90) AND *objective/performance-based* (12 items from Köhler & Hartig's ChatGPT scale + Hornberger et al.'s AI literacy test), each objective item paired with a certainty rating to compute a **misconception score** (correctness × certainty; Eitel/Hefter procedure).
+- Dispositions: epistemic orientation (5 items, α = 0.70), intellectual values (14 fictive-person items, α = 0.90), plus need for cognition (NFC, 4-item short scale, α = 0.54).
 
 ## Key findings
 
 ### H1 — GenAI knowledge predicts critical use: SUPPORTED
-- Self-reported knowledge: r = .55, p < .001; **objective knowledge: r = .31, p = .011** — both significant.
+- Self-reported knowledge: r = 0.55, p < 0.001; **objective knowledge: r = 0.31, p = 0.011** — both significant.
 - The stronger self-report correlation likely reflects common-method bias (both self-report Likert scales) rather than a substantive difference — the objective test cross-validates the finding.
 
 ### H2 — Critical-thinking disposition predicts critical use: SUPPORTED
-- Multiple regression: F(2,64) = 17.19, p < .001, **R² = .33** — a third of the variance in critical GenAI use.
-- Epistemic orientation β = .36, p < .001; **intellectual values β = .40, p < .001**; low multicollinearity (VIF = 1.05), Durbin-Watson 2.23.
+- Multiple regression: F(2, 64) = 17.19, p < 0.001, **R² = 0.33** — a third of the variance in critical GenAI use.
+- Epistemic orientation β = 0.36, p < 0.001; **intellectual values β = 0.40, p < 0.001**; low multicollinearity (VIF = 1.05), Durbin-Watson 2.23.
 
 ### Exploratory — misconceptions are narrow but real
 - Only **9% of participants** had misconception scores below zero; just 3 of 12 items showed actual [[misconceptions]] (incorrect + high confidence).
@@ -36,9 +36,9 @@ A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, B
 - Most students correctly and confidently knew GenAI "may provide content that is not based on facts" (score 2.91, highest).
 
 ### Exploratory — need for cognition (NFC)
-- Actual genAI use correlated only with **interest** (r = .54) and **perceived usefulness** (r = .58) — not with knowledge or dispositions.
-- **Perceived usefulness negatively correlated with NFC** (r = −.27, p = .027): high-NFC students view GenAI utility more sceptically.
-- **NFC positively correlated with critical use** (r = .25, p = .044): the [[motivation|motivational]] drive to invest cognitive effort bridges AI literacy and actual critical behaviour.
+- Actual genAI use correlated only with **interest** (r = 0.54) and **perceived usefulness** (r = 0.58) — not with knowledge or dispositions.
+- **Perceived usefulness negatively correlated with NFC** (r = −0.27, p = 0.027): high-NFC students view GenAI utility more sceptically.
+- **NFC positively correlated with critical use** (r = 0.25, p = 0.044): the [[motivation|motivational]] drive to invest cognitive effort bridges AI literacy and actual critical behaviour.
 
 ## Implications
 
