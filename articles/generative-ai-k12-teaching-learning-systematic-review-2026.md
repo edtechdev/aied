@@ -1,7 +1,7 @@
 ---
 title: "Generative AI in K-12 Teaching and Learning: A Systematic Review"
 created: "2026-09-01T16:00:00-04:00"
-updated: "2026-09-16T03:20:00-04:00"
+updated: "2026-09-16T05:40:00-04:00"
 type: article
 tags: [generative-ai, k-12, meta-analysis-systematic-review, ai-literacy, teacher-education, ethics, personalized-learning, assessment]
 audience: [researchers, administrators, instructors]
@@ -78,7 +78,6 @@ The identified risks of excessive AI reliance and its impact on self-[[regulatio
 - [[elementary-writing-genai-systematic-review-2026]] — Elementary writing GenAI systematic review
 - [[sec-ai-literacy-narrative-review-2026]] — Secondary AI literacy narrative review
 - [[niri-steam-ai-literacy-review-2026]] — STEAM AI literacy review
-- [[topali-aied-k12-authentic-settings-review-2025]] — Pedagogical grounding, automation levels and effects across 28 K-12 AIEd studies (Topali et al. 2025)
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI literacy interventions meta-analysis
 
 ## Citation
