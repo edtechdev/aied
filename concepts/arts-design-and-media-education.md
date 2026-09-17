@@ -1,7 +1,7 @@
 ---
 title: Arts, Design and Media Education
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T14:13:57-04:00"
 type: concept
 tags: [creativity, design-thinking, project-based-learning, multimodal, authentic-assessment, embodied-learning, higher-ed]
 foundations: [design-thinking]
@@ -28,7 +28,7 @@ level: [higher ed]
 
 What these disciplines share is the studio or the rehearsal room as the site of learning, with a made artifact and the process behind it as the object of assessment. AI enters in several shapes: an image generator in the architecture and interior design studio, a composition and analysis tool in music, a spatial partner inside immersive environments, an automated scorer of written analysis, and — in stage lighting — an instructor-facing aid that turns spoken teaching intent into executable demonstrations. The sections below trace what the studies report, then draw out the cross-cutting questions of craft, assessment and access.
 
-This page is the discipline home for studio and performing-arts subjects, and it is narrower than its neighbors. [[discipline-specific-aied]] holds the general argument that [[ai-education|AI in education]] research must be domain-aware across all subjects; this page is about what is specific to making. [[creativity]] covers the cognitive construct wherever it appears — divergent thinking, the homogenization risk of single-model assistance, protecting the learner's generative act — including in [[math-education|mathematics]] and creative coding; this page covers the disciplines in which creative production *is* the [[curriculum-design|curriculum]]. [[design-thinking]] covers ideation and user-centered problem framing as a general pedagogy; this page covers the studios where that process is taught, supervised and judged. [[humanities-education|Humanities and social science education]] treats interpretation, authorship and argument in text-centered fields and lists the arts among its constituent areas; here the arts and media are lifted out of that interpretive frame and centered on material, spatial, sonic and performative practice.
+This page is the discipline home for studio and performing-arts subjects, and it is narrower than its neighbors. [[discipline-specific-aied]] holds the general argument that [[ai-education|AI in education]] research must be domain-aware across all subjects; this page is about what is specific to making. [[creativity]] covers the cognitive construct wherever it appears — divergent thinking, the homogenization risk of single-model assistance, protecting the learner's generative act — including in [[math-education|mathematics]] and creative coding; this page covers the disciplines in which creative production *is* the [[curriculum-design|curriculum]]. [[design-thinking]] covers ideation and user-centered problem framing as a general pedagogy; this page covers the studios where that process is taught, supervised and judged. [[humanities-education|Humanities and social science education]] treats interpretation, authorship and argument in text-centered fields and lists the arts among its constituent areas; here the arts and media are lifted out of that interpretive frame and centered on material, spatial, sonic and performative practice. [[design-education]] carves the professional half out of this same territory: this page spans the studio and performing arts whose shared feature is making, while design education follows the narrower formation pipeline for product, service, interaction, interior and architectural designers — portfolio assessment, accreditation expectations, employability — and treats the studio process behind an artifact rather than the artifact itself as the object of assessment.
 
 ## Studio Pedagogy and the Critique Under Generative AI
 
@@ -86,6 +86,7 @@ Two other findings complicate any simple story of generative tools as an equalis
 - [[equity-in-ai-education]]
 - [[virtual-and-augmented-reality]]
 - [[discipline-specific-aied]]
+- [[design-education]]
 
 ## Connected Articles
 

@@ -12,7 +12,6 @@ research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/2608.03968.md']
 confidence: high
-discipline: [learning analytics]
 audience: [administrators, institutions, policymakers]
 category: [policy, framework]
 ---

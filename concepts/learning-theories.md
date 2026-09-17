@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T14:18:00-04:00"
 type: concept
 tags: [learning-theories, behaviorism, self-regulated-learning, metacognition, learning-design, generative-ai, higher-ed]
 foundations: [learning-design]
@@ -27,7 +27,7 @@ connected_faqs: [research-gaps-aied]
 
 ## Introduction
 
-This is the umbrella concept for the knowledge base's learning-theory strand. Learning theories sit at the heart of AI in education because every AI tutor, adaptive system, and feedback tool embeds assumptions about how people learn — whether the designers state them or not. The knowledge base documents these theories individually and treats them as the conceptual lens through which AI's design and effects are evaluated.
+This is the umbrella concept for the knowledge base's learning-theory strand. Learning theories sit at the heart of AI in education because every AI tutor, adaptive system, and feedback tool embeds assumptions about how people learn — whether the designers state them or not. The knowledge base documents these theories individually and treats them as the conceptual lens through which AI's design and effects are evaluated. The research field that tests those frameworks is a separate page: [[learning-sciences|the learning sciences]] study learning empirically — experiments, classroom trials and design-based research — and treat a theory as something to be confirmed or falsified, whereas this page collects the frameworks themselves; the two phrases are kept distinct in this knowledge base, the singular "learning science" naming this theory strand.
 
 ### The learning-theory landscape
 
@@ -95,6 +95,7 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 - [[embodied-learning]]
 - [[cognitive-offloading]]
 - [[learning-design]]
+- [[learning-sciences]]
 - [[philosophy-of-ai-in-education]]
 - [[critical-pedagogy]]
 - [[ai-education]]

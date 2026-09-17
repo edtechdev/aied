@@ -2,10 +2,9 @@
 
 Last updated: 2026-09-17
 
-Articles: 1241 | Concepts: 195 | FAQs: 31
+Articles: 1241 | Concepts: 200 | FAQs: 32
 
 ## Concepts
-
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
@@ -450,6 +449,7 @@ Articles: 1241 | Concepts: 195 | FAQs: 31
 - [[demir-akar-ai-media-literacy-children-2026]] — Transforming clicks into critical thinking: An AI-based media literacy program for children
 - [[demographic-signals-llm-student-assessment-2026]] — The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment
 - [[design-based-research]] — Design-Based Research
+- [[design-education]] — Design Education
 - [[design-thinking]] — Design Thinking
 - [[designing-ai-professional-development-itpack-2026]] — Designing effective AI professional development: A framework grounded in intelligent-TPACK
 - [[desirable-difficulties]] — Desirable Difficulties
@@ -714,6 +714,7 @@ Articles: 1241 | Concepts: 195 | FAQs: 31
 - [[illusion-cognitive-independence-genai-literacy-2026]] — The Illusion of Cognitive Independence in the Age of Generative AI: Unpacking GenAI Literacy and Learner Profiles
 - [[inclusive-learning]] — Inclusive Learning
 - [[informal-learning-everyday-human-llm-interaction]] — Informal Learning Emerges in Everyday Human-LLM Interaction
+- [[information-technology]] — Information Technology Education
 - [[inquiry-based-learning]] — Inquiry-Based Learning
 - [[inside-llm-student-simulator-reasoning-2026]] — INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators
 - [[institutional-ai-policy-health-informatics-2026]] — Institutional approaches to artificial intelligence policy and guidance in health informatics and information management education: emerging trends and inconsistencies
@@ -791,6 +792,7 @@ Articles: 1241 | Concepts: 195 | FAQs: 31
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
 - [[learning-gains]] — Learning Gains
 - [[learning-paths-patterns-learning-design-2026]] — Learning paths and patterns in learning design: Insights from 500+ courses
+- [[learning-sciences]] — Learning Sciences
 - [[learning-theories]] — Learning Theories
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Learning-to-learn in the age of generative AI: A scoping review and conceptual framework
 - [[learning-to-prompt-adaptive-tutoring]] — Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring
@@ -985,6 +987,7 @@ Articles: 1241 | Concepts: 195 | FAQs: 31
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA) for long-horizon classroom discourse analysis: Mitigating dialect bias via counterfactual preference optimization
 - [[nuclear-diffusion-text-to-image-learning-2026]] — NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts
+- [[nursing-education]] — Nursing Education
 - [[oatutor-open-source-adaptive-tutor-2023]] — OATutor: An Open-source Adaptive Tutoring System and Curated Content Library for Learning Sciences Research
 - [[oby-chatgpt-use-learning-framework-2026]] — Beyond Task Completion: A Theoretical Integration and Framework for Guiding Students' ChatGPT Use for Learning
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
@@ -1381,6 +1384,7 @@ Articles: 1241 | Concepts: 195 | FAQs: 31
 - [[visual-query-tracer-declarative-logic-learning]] — Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
 - [[visualization]] — Visualization
 - [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
+- [[vocational-education]] — Vocational Education and Training
 - [[voice-text-prompt-problems-computing-education]] — Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education
 - [[walton-bearman-assessment-judgement-2025]] — How university students work on assessment tasks with generative AI: matters of judgement

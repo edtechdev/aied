@@ -1032,6 +1032,38 @@ concepts:
     - math education
     - mathematics
     - mathematics education
+  design-education:
+    title: Design Education
+    aliases:
+    - design pedagogy
+    - design learning
+    - design studio education
+    - industrial design education
+  information-technology:
+    title: Information Technology Education
+    aliases:
+    - IT education
+    - information systems education
+    - applied computing education
+  learning-sciences:
+    title: Learning Sciences
+    aliases:
+    - the learning sciences
+    - learning sciences research
+    - education research field
+  nursing-education:
+    title: Nursing Education
+    aliases:
+    - nurse education
+    - nurse training
+    - nursing curricula
+  vocational-education:
+    title: Vocational Education and Training
+    aliases:
+    - VET
+    - TVET
+    - technical and vocational education and training
+    - vocational colleges
   medical-education:
     title: Medical and Health Professions Education
     aliases:
@@ -1944,13 +1976,20 @@ sections:
     - business-education
     - humanities-education
     - arts-design-and-media-education
+    - design-education
     - medical-education
+    - nursing-education
+    - information-technology
+  - label: Research fields
+    items:
+    - learning-sciences
   - label: Levels and contexts
     items:
     - k-12
     - early-childhood-elementary-ai-education
     - higher-ed
     - adult-learning
+    - vocational-education
     - special-education
     - teacher-education
 - heading: Assessment, evaluation, and measurement

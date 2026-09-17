@@ -7,12 +7,11 @@ tags: [learning-analytics, k-12, higher-ed, qualitative-research, edtech-platfor
 technology: [learning-analytics, visualization]
 assessment: [qualitative-research]
 stakeholders: [administrator, edtech-platform, student-experience]
-research_method: [qualitative]
+research_method: [qualitative, learning analytics]
 audience: [learners, administrators]
 level: [k 12, higher ed]
 sources: ['raw/papers/2606.18692.md']
 confidence: medium
-discipline: [learning analytics]
 category: [evaluation, framework]
 
 ---

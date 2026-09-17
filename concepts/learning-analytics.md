@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-17T14:07:13-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback]
 pedagogy: [student-engagement]
@@ -154,3 +154,9 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[zhang-ml-student-progress-programming-2026]]
 - [[learning-paths-patterns-learning-design-2026]] — Markov chain and pattern mining of 29,064 planned activities in 554 courses, revealing a design grammar led by Acquisition and consolidating Practice
 - [[pulla-parsons-problem-tool-2026]] — Pulla: process-level behavioral tracing and instructor-facing difficulty analysis in Parsons problems (Prol et al. 2026)
+- [[a4l-analytics-pipeline]]
+- [[huang-interpretable-knowledge-tracing-2026]]
+- [[human-vs-llm-ordered-coding]]
+- [[league-ethical-governance-student-data-2026]]
+- [[precision-education-student-digital-twins-2026]]
+- [[savvy-student-attention-video-learning]]
