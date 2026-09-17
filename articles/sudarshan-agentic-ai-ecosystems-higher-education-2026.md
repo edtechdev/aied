@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI Ecosystems in Higher Education: A Perspective on Emerging Inclusive Agentic Multi-Agent AI Frameworks for Learning, Teaching and Institutional Intelligence"
 created: "2026-09-04T15:37:39-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-17T02:43:50-04:00"
 type: article
 tags: [agentic-ai, higher-ed, special-education, inclusive-learning, equity-in-ai-education, universal-design-for-learning, human-in-the-loop-ai, learning-analytics, intelligent-tutoring, llm, assistive-technology, neurodiversity]
 research_method: [position paper, thematic analysis]
@@ -33,9 +33,9 @@ Where most agentic-AI syntheses treat inclusion as a footnote, this paper makes 
 
 - **Cognitive support:** personalized pacing, simplified explanations, [[scaffolding]], reinforcement strategies for learners with comprehension, memory, or attention difficulties.
 - **Sensory support:** accessible multimodal learning via text-to-speech, speech-to-text, visual enhancement, and alternative content representations — aligned with [[universal-design-for-learning|universal design]] principles.
-- **Emotional and mental-health support:** [[well-being|wellbeing]] agents monitoring [[affective-computing|emotional/engagement]] state and intervening.
+- **Emotional and mental-health support:** [[well-being|well-being]] agents monitoring [[affective-computing|emotional/engagement]] state and intervening.
 
-Inclusion is achieved not by a single assistive tool but by **coordinating specialized agents** — accessibility (interface/modality adaptation), cognitive-support (scaffolding), wellbeing (monitoring), and learning (content/assessment) agents working together in real time. This "equitable personalization" embeds inclusivity in the architecture rather than bolting it on.
+Inclusion is achieved not by a single assistive tool but by **coordinating specialized agents** — accessibility (interface/modality adaptation), cognitive-support (scaffolding), well-being (monitoring), and learning (content/assessment) agents working together in real time. This "equitable personalization" embeds inclusivity in the architecture rather than bolting it on.
 
 ## Challenges
 

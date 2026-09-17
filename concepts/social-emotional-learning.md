@@ -1,7 +1,7 @@
 ---
 title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T02:43:50-04:00"
 type: concept
 tags: [ai-literacy, affective-computing, well-being, teacher-ai-competency, student-experience, ethics, self-regulated-learning, higher-ed]
 connected_faqs: [ai-guidance-children-under-13, ai-anxiety-wellbeing]
@@ -53,7 +53,7 @@ Emotional regulation is a key SEL competency with direct learning consequences, 
 Emotions regulate *how* students make AI use visible. [[shame-guilt-ai-regulation-computing-education|"Stuck in a Spiral"]] (19 computing students) found that shame and guilt act as social regulators of AI use, driving hiding behaviors and selective disclosure and creating cycles of reduced agency. [[ai-anxiety-strategic-regulation-writing-2026|AI anxiety]] can be transformed into strategic regulation of AI as a learning resource. These connect SEL's social awareness and self-management to [[academic-integrity]] and responsible AI use.
 
 ### Trust and belonging
-SEL supports relational learning and social cohesion. [[finkelstein-principled-ai-education-2025|Principled AI education]] and [[ai-chatbot-collective-efficacy-collaborative-learning|AI chatbots for collaborative learning]] connect to **belonging** and collective efficacy — the shared belief in a team's ability to accomplish tasks. The Brookings premortem emphasizes that overreliance on AI threatens social-emotional wellbeing, teacher-peer relationships, and student [[privacy]]/safety — dimensions of belonging and connectedness. [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|Teacher-student trust]] is central to whether AI is perceived as supportive.
+SEL supports relational learning and social cohesion. [[finkelstein-principled-ai-education-2025|Principled AI education]] and [[ai-chatbot-collective-efficacy-collaborative-learning|AI chatbots for collaborative learning]] connect to **belonging** and collective efficacy — the shared belief in a team's ability to accomplish tasks. The Brookings premortem emphasizes that overreliance on AI threatens social-emotional well-being, teacher-peer relationships, and student [[privacy]]/safety — dimensions of belonging and connectedness. [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|Teacher-student trust]] is central to whether AI is perceived as supportive.
 
 ### Persistence, mindset, and productive struggle
 SEL overlaps with the effortful dimension of learning. [[framing-5-percent-problem-teachers-persistence|Framing the 5% problem]] identifies low student persistence as a recurring challenge in educational technology, shaped by motivation/buy-in, cognitive roadblocks, resilience under challenge, and connection. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] warn that AI that substitutes for effort erodes the very capacities education builds — aligning with [[metacognition]] and the value of productive struggle over [[cognitive-offloading|over-reliance]].
@@ -73,7 +73,7 @@ SEL overlaps with the effortful dimension of learning. [[framing-5-percent-probl
 - **Self-efficacy moderates gains.** [[self-efficacy-tutoring-learning|Cen et al.]] found lower-baseline-self-efficacy students achieved the *largest* learning gains, and that tutor-favorability predicted gains in tutor-based practice — showing motivational profiles shape who benefits from which format.
 - **Well-being and engagement as intermediate outcomes.** SEL-related outcomes (motivation, [[well-being]], belonging, engagement, self-efficacy) often function as mediators of downstream achievement, and AI research increasingly measures them alongside — or in some cases instead of — raw test scores.
 - **Effects are conditional, not universal.** Research cautions that SEL-oriented interventions may help some learners (by profile/proficiency) and not others, so claims about SEL-based learning gains should be examined for moderator effects.
-- **The harm side of the ledger.** The  cautions that AI-driven [[cognitive-offloading|overreliance]] threatens social-emotional wellbeing, relationships, and belonging — outcomes that, if eroded, can undermine the very foundations of long-term learning and achievement.
+- **The harm side of the ledger.** The  cautions that AI-driven [[cognitive-offloading|overreliance]] threatens social-emotional well-being, relationships, and belonging — outcomes that, if eroded, can undermine the very foundations of long-term learning and achievement.
 
 ### Connections to related concepts
 

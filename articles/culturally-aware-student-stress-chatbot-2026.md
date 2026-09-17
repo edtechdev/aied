@@ -1,7 +1,7 @@
 ---
 title: "An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning"
 created: "2026-09-11T09:35:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T02:43:50-04:00"
 type: article
 tags: [well-being, ai-anxiety-and-stress, conversational-ai, machine-learning, culturally-relevant-pedagogy, global-south, equity-in-ai-education, ethics, higher-ed]
 connected_faqs: [ai-anxiety-wellbeing]
@@ -9,9 +9,9 @@ sources: ['raw/papers/2609.11199.md']
 confidence: medium
 ---
 
-> **Synthesis:** Bashir and Afzal describe *Sukoon*, a hybrid system that pairs a [[machine-learning]] stress classifier with a culturally adapted [[conversational-ai|conversational]] chatbot for Pakistani university students. A Random Forest model trained on 1,100 survey responses across 20 features reaches 89.09% accuracy over three stress levels, and its output drives a Stepped Care response architecture in which an [[open-source]] [[llm]] delivers tiered wellness guidance in English, Urdu and Roman Urdu. The most culturally significant finding is that teacher-student relationship was the second-strongest predictor of [[ai-anxiety-and-stress|student stress]] (10.0%), behind blood pressure — evidence, the authors argue, that [[global-south|region-specific]] [[well-being|wellbeing]] support cannot be imported from Western tools. The paper is a system-and-pipeline contribution evaluated on classification accuracy and simulated conversations rather than on student outcomes.
+> **Synthesis:** Bashir and Afzal describe *Sukoon*, a hybrid system that pairs a [[machine-learning]] stress classifier with a culturally adapted [[conversational-ai|conversational]] chatbot for Pakistani university students. A Random Forest model trained on 1,100 survey responses across 20 features reaches 89.09% accuracy over three stress levels, and its output drives a Stepped Care response architecture in which an [[open-source]] [[llm]] delivers tiered wellness guidance in English, Urdu and Roman Urdu. The most culturally significant finding is that teacher-student relationship was the second-strongest predictor of [[ai-anxiety-and-stress|student stress]] (10.0%), behind blood pressure — evidence, the authors argue, that [[global-south|region-specific]] [[well-being|well-being]] support cannot be imported from Western tools. The paper is a system-and-pipeline contribution evaluated on classification accuracy and simulated conversations rather than on student outcomes.
 
-## Why culturally grounded wellbeing support
+## Why culturally grounded well-being support
 
 The authors frame the problem as a mismatch between available digital [[well-being|mental health]] tools and the students who would use them. Existing chatbots are built and trained on Western datasets and are overwhelmingly English-language, yet students in Pakistan often think, feel and express distress in Urdu or Roman Urdu. They also describe a *compounded* stress profile — academic, financial, familial and relational pressures simultaneously — rather than the one-or-two dominant stressors typical of the Western literature. Because open discussion of emotional difficulty carries social stigma, students frequently do not raise these issues with parents, teachers or peers, which is precisely where a private, always-available conversational agent appears attractive.
 
@@ -64,7 +64,7 @@ Because a [[machine-learning|trained classifier]] decides the support tier, seve
 - [[personalized-learning]] — tiering support to an individual's detected state
 
 ## Connected Articles
-- [[ai-campus-wellbeing-tools]] — AI Campus Wellbeing Tools
+- [[ai-campus-wellbeing-tools]] — AI Campus Well-Being Tools
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — LLMs for Appropriate Student Support
 - [[nguyen-genai-global-south-review-2026]] — Generative AI in the Global South
 - [[colbran-student-perspectives-genai-chatbots-2026]] — Student Perspectives on GenAI Chatbots
