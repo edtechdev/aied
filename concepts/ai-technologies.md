@@ -81,7 +81,6 @@ The technical strand is inseparable from the knowledge base's other themes:
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
 - [[cstutorbench-slm-tutors]] — Small language model tutoring benchmarks
 - [[educational-llm-alignment]] — Aligning LLMs for education
-- [[pedagogical-llm-training]] — Training pedagogical LLMs
 - [[eduguard-safe-rag-llm-tutor]] — Guardrailing RAG-based LLM tutors
 - [[ai-tutor-safety-harms]] — AI tutor safety and harms
 - [[elbench-education-llm-benchmark-2026]] — Education LLM benchmark

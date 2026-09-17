@@ -116,6 +116,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[behaviorism]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[theory-development-aied]] — Theory Development in AI in Education
+- [[productive-failure]]
 ## Connected Articles
 - [[lee-learner-question-types-ai-education-2026]] — Learner questions classified into three constructivist roles: transmitter, facilitator, co-learner (Lee, Atif & Kang 2026)
 - [[mishra-control-vs-agency-history-2025]] — Positions constructionism (Papert) against cognitive tutors in AIED history
@@ -146,7 +147,6 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
-- [[productive-failure]]
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution

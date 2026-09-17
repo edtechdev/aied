@@ -58,7 +58,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[teacher-role]]
 - [[ai-education]]
 - [[framing-ai-use-for-students]]
-
+- [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — The effort paradox and the vicious cycle of frictionless assistance
 - [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
@@ -78,7 +78,6 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[framing-5-percent-problem-teachers-persistence]]
 - [[self-efficacy-tutoring-learning]]- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
-- [[social-emotional-learning]] — Social-Emotional Learning
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI

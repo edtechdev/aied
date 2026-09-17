@@ -49,7 +49,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[agency]]
 - [[educational-robotics]]
 - [[self-report-measures]]
-
+- [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
 - [[ai-supported-ementoring-efl-preservice-2026]] — AI-supported e-mentoring raises EFL pre-service teachers' self-efficacy and emotional intelligence (quasi-experimental)
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
@@ -66,7 +66,6 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-- [[social-emotional-learning]] — Social-Emotional Learning
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 
 - [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic self-efficacy

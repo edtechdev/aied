@@ -18,7 +18,7 @@ sources: [raw/papers/2603.11444.md]
 - **EducaSim's agents combine personas, memory, and a decision-making framework.** Student personas capture [[student-engagement|engagement]] and speech styles (deliberately avoiding sensitive demographic traits to limit bias); a node-based memory system grounds agents in actual chronological course material with varied knowledge states; and a response framework classifies each utterance as an error or success archetype before an [[llm]] generates the final response.
 - **Extended interaction modes beyond text.** A runnable Python IDE (whose code is piped into the agent memory stream) and low-latency voice-to-text (via Whisper) support realistic practice; an LLM-as-a-judge "speech oracle" decides who speaks next, mirroring real classroom dynamics.
 - **Post-session feedback and self-reflection are built in.** The tool computes talk-time statistics and uses an LLM to identify instructional behaviors (teacher uptake, questioning quality, [[misconceptions]]), then offers structured feedback and reflective prompts.
-- **Low cost and positive uptake.** At roughly $0.05–$0.10 per session (GPT-4.1-mini + Whisper-1), with hosting under $5 for 150 users, EducaSim is inexpensive; user reactions on the teachers' forum were positive, including one teacher who improved engagement after acting on feedback.
+- **Low cost and positive uptake.** At roughly \$0.05–\$0.10 per session (GPT-4.1-mini + Whisper-1), with hosting under \$5 for 150 users, EducaSim is inexpensive; user reactions on the teachers' forum were positive, including one teacher who improved engagement after acting on feedback.
 
 ## Practical Implications
 

@@ -150,6 +150,5 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)

@@ -98,7 +98,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[human-ai-collaboration]] — shared direction of AI-mediated interaction
 - [[agentic-ai]] — autonomous AI that can redistribute agency in groups
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-
+- [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
@@ -148,7 +148,6 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[social-emotional-learning]] — Social-Emotional Learning
 
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent

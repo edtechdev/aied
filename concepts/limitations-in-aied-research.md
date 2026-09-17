@@ -91,7 +91,6 @@ The purpose of this knowledge base is to help close that gap — to make it easi
 - [[ai-education]]
 - [[icap-framework]]
 - [[learning-design]]
-- [[ai-literacy-assessment-misalignment]]
 - [[llm]]
 - [[generative-ai]]
 - [[cognitive-offloading]]
