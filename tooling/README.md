@@ -149,6 +149,17 @@ python3 tooling/scripts/generate-llms-files.py
 # Validate the concept registry against concepts/ and the generated views
 python3 tooling/scripts/check_concepts.py
 
+# Check the structured metadata fields (research_method, discipline, audience, level, category)
+# against the closed vocabularies in src/content.config.ts. Reports coverage per collection and
+# any value outside the list; the build rejects invalid values too, but this reports them in
+# seconds and names the pages. Absence is coverage, never an error: a study with no disciplinary
+# home should omit discipline.
+python3 tooling/scripts/audit-metadata.py                  # coverage + violations
+python3 tooling/scripts/audit-metadata.py --strict          # non-zero exit on a violation
+python3 tooling/scripts/audit-metadata.py --missing level   # list the pages lacking one field
+python3 tooling/scripts/audit-metadata.py --check-docs      # fail if SCHEMA.md drifted from the schema
+python3 tooling/scripts/audit-metadata.py --write-docs      # regenerate SCHEMA.md's list from the schema
+
 # Run EVERY hard gate declared in wiki.config.yaml (build.gates), in order.
 # A green build does NOT substitute for these.
 python3 tooling/scripts/run-gates.py        # or: npm run verify

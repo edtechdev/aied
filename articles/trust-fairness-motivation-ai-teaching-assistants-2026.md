@@ -8,6 +8,8 @@ audience: [researchers, instructors, designers, administrators]
 research_method: [longitudinal survey, structural equation modeling]
 sources: ['raw/papers/10.3389_fpsyg.2026.1900061.md']
 confidence: high
+level: [higher ed]
+category: [engagement, equity]
 ---
 
 > **Synthesis:** A three-wave prospective longitudinal study of 450 [[higher-ed|undergraduates]] in China used a random-intercept cross-lagged panel model to separate stable between-person differences from genuine within-person change in [[trust]], perceived fairness and learning [[motivation]] toward AI teaching assistants. Trust change consistently came temporally before fairness change, with ability trust the strongest antecedent, while the reverse fairness-to-trust paths were absent — an asymmetric pattern rather than mutual reinforcement. Perceived fairness in turn carried part of the trust effect through to motivation, and procedural justice was the fairness dimension most closely tied to intrinsic rather than extrinsic motivation, though the authors call this a graded difference rather than a confirmed dissociation. Because the design is observational, the paper offers early ability-trust building and procedural transparency as candidate design levers, not proven interventions.

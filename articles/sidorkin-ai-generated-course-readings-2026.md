@@ -9,6 +9,7 @@ level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/sidorkin-ai-generated-course-readings-2026.md']
 confidence: high
+audience: [instructors, curriculum designers]
 ---
 
 > **Synthesis:** Sidorkin (2026) documents a proof of principle in which weekly readings for a graduate educational leadership course were generated on demand by an AI "Class Companion", replacing a commercial textbook and implementing what the author calls *dual tailoring* along two dimensions at once: interest (sector, professional role, local examples) and comprehension level (pacing, definitions, [[scaffolding|scaffolded steps]]). Surveying 24 students and analyzing 4,487 pages of reading logs, the study finds that students rated the readings as useful preparation and that 75 percent agreed they learned more than in a comparable course without AI, while the artifact analysis confirms measurable, non-cosmetic differentiation between logs. The boundary conditions are equally clear: readings often lacked internal traceability, citation practice was inconsistent, and over-specific institutional claims appeared without supporting evidence, producing a stance of bounded trust rather than blanket acceptance. A secondary finding is that the workflow functioned as implicit training in [[ai-literacy|critical engagement with probabilistic text]], as students learned to request checkable evidence and to refuse explanations that exceeded their warrants.

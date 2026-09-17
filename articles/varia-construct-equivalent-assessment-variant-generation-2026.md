@@ -6,6 +6,9 @@ type: article
 tags: [assessment-validity, automated-assessment, generative-ai, llm, academic-integrity, authentic-assessment]
 sources: ['raw/papers/varia-construct-equivalent-assessment-variant-generation-2026.md']
 confidence: high
+research_method: [benchmark]
+audience: [assessment designers, researchers, institutions]
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** AI-Integrated Authentic Assessment (AIAA) frameworks propose to replace surveillance-based [[academic-integrity|proctoring]] with per-student task variation — each examinee gets a unique-but-equivalent performance task — but this "no-surveillance" integrity guarantee depends on an unverified capability: that [[llm|LLMs]] can generate variants that are simultaneously surface-distinct, [[assessment-validity|construct-equivalent]], rubric-applicable, and difficulty-matched. This paper introduces **VARIA**, a [[benchmark]] that operationalizes this presumption as four measurable properties of a generated variant set. A pilot of 600 variants across 60 condition cells found frontier models cluster tightly on a composite integrity score (joint 𝒥 = 0.81–0.88) while non-frontier references collapse to 0.50–0.55 — a large capability-tier gap — with [[prompt-engineering|prompting strategy]] selecting an operating point on the diversity-equivalence-readability surface rather than a uniformly best protocol.

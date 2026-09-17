@@ -8,6 +8,9 @@ audience: [researchers, instructors]
 research_method: [educational measurement]
 sources: ['raw/papers/10.3389_feduc.2026.1929123.md']
 confidence: high
+discipline: [language learning]
+level: [higher ed]
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** Zhorabekova et al. (2026) tested whether the commonly assumed subdimensions of [[technology-acceptance-model|acceptance]] for AI-gamified [[adaptive-learning]] in [[language-learning|EFL]] are empirically separable, using a 13-item questionnaire completed by 401 students at a Kazakhstani university. Parallel analysis, competing confirmatory models, bifactor dimensionality indices, an ordinal robustness check, and an independent held-out confirmation converge on the same answer: the scale is essentially unidimensional, dominated by a single general factor, with perceived [[game-based-learning|gamification]] the only partly distinguishable facet. The practical message is that a general total score is defensible and fine-grained subscales are not — though the general factor may be substantially method-influenced.

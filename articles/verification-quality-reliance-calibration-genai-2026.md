@@ -9,6 +9,8 @@ audience: [researchers, instructors, administrators, assessment designers]
 research_method: [literature review]
 sources: ['raw/papers/10.3389_fpsyg.2026.1965371.md']
 confidence: high
+level: [higher ed]
+category: [synthesis, framework]
 ---
 
 > **Synthesis:** This Mini Review argues that “critical” or “responsible” AI use is an over-broad label that collapses seven analytically separable measurement targets: epistemic evaluation, verification initiation, process quality, verification success, reliance decisions, immediate task performance, and independent learning. It defines [[trust-calibration|reliance calibration]] as a judgment about whether a reliance decision was appropriate given the actual quality of the AI output — an output-contingent classification, not a stage on a timeline, and not the same thing as [[trust]]. Across 493 deduplicated records and 14 priority empirical studies, no study measured verification success and the following reliance decision together against an independently adjudicated standard of output quality, and few looked past immediate performance to delayed retention or transfer.

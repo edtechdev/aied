@@ -9,6 +9,7 @@ level: [higher ed]
 category: [framework]
 sources: ['raw/papers/miles-prompt-literacy-human-centered-genai-framework-2026.md']
 confidence: high
+audience: [instructors, instructional designers, faculty development]
 ---
 
 > **Synthesis:** Miles, Haber-Curran, and Arar (2026) respond to the "ghost student" and [[cognitive-offloading|cognitive debt]] problem in higher education by shifting the debate away from prohibition and detection toward a constructionist, classroom-level pedagogy. Building on Papert's constructionism, Freire's [[critical-pedagogy|critical pedagogy]] and an ethics of care, they introduce the Instructional Model for Human-Centered Generative AI Engagement: five recursive phases running from critical and ethical awareness through [[prompt-engineering|prompt literacy]], AI-supported learning, reflection and revision, to independent ethical application. The paper's central conceptual move is the distinction between prompt engineering, a technical optimization skill, and prompt literacy, a rhetorical, ethical and reflective process, operationalized through a nested five-step Prompt Literacy Cycle and a sample process rubric. The authors position [[generative-ai|generative AI]] as a thinking partner and an object to think with, and argue that [[metacognition|metacognitive]] reflection, authorship and [[academic-integrity|academic integrity]] are built through transparency and co-constructed norms rather than compliance rules. The framework is offered as a conceptual contribution and is explicitly framed as awaiting empirical evaluation.

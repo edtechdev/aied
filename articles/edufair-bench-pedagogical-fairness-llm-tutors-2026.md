@@ -6,6 +6,11 @@ type: article
 tags: [pedagogical-safety, bias-mitigation, equity-in-ai-education, intelligent-tutoring, benchmark, ai-ed-evaluation, simulating-students, educational-nlp]
 sources: ['raw/papers/edufair-bench-pedagogical-fairness-llm-tutors-2026.md']
 confidence: high
+research_method: [benchmark]
+discipline: [math education, physics education, chemistry education]
+audience: [researchers, edtech designers]
+level: [secondary, k 12]
+category: [evaluation, equity]
 ---
 
 > **Synthesis:** EduFair-Bench is the first [[benchmark]] to score [[pedagogy|pedagogical]] quality and demographic fairness jointly, pairing a filtered [[math-education|mathematics]]/[[physics-education|physics]]/[[chemistry-education|chemistry]] question bank with a fixed [[simulating-students|simulated student]] across nine demographic levels. Auditing five tutors from 7B to 70B, the authors find that model capability and demographic fairness are largely orthogonal — the smallest tutor is the most consistent while four stronger tutors show wide gaps with no capability-to-fairness ordering. [[pedagogical-llm-training|Pedagogy-specific RL]] redistributes rather than removes bias, and language- and immigration-related cues produce larger disparities than gender or SES. Because name-only cues and deliberately mismatched demographic statements both amplify the gaps, the audit implicates tutor-side demographic processing as a major mechanism of [[bias-mitigation|biased]] [[intelligent-tutoring|tutoring]] behavior.

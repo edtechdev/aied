@@ -8,6 +8,9 @@ audience: [researchers, instructors, policymakers, administrators]
 research_method: [survey, structural equation modeling]
 sources: ['raw/papers/10.3389_fpsyg.2026.1871022.md']
 confidence: high
+discipline: [writing education, language learning]
+level: [higher ed]
+category: [engagement, assessment]
 ---
 
 > **Synthesis:** Using survey data from 327 Chinese EFL undergraduates and partial least squares structural equation modeling (PLS-SEM), this study tests whether [[ai-literacy|AI prompting literacy]] or top-down external mandates better drive deep-revision engagement in AI-assisted [[writing-education|academic writing]]. It finds that prompting literacy predicts deep revision through the parallel psychological mediators of perceived competence, intrinsic motivation, and psychological safety — while external mandates show no direct effect — reframing AI adoption from enforcement to [[motivation|internal need satisfaction]].

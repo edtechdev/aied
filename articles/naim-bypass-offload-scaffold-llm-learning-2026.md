@@ -6,6 +6,9 @@ type: article
 tags: [cognitive-offloading, productive-failure, scaffolding, metacognition, desirable-difficulties, prior-knowledge, transfer-of-learning, ai-misuse-learning-harm]
 sources: ['raw/papers/naim-bypass-offload-scaffold-llm-learning-2026.md']
 confidence: high
+research_method: [theoretical analysis]
+audience: [researchers, instructional designers, educators]
+category: [framework, instructional design]
 ---
 
 > **Synthesis:** Lee (2026) proposes the Neuroplasticity-[[student-ai-interaction|AI Interaction]] Model (NAIM), arguing that whether [[llm|LLMs]] help or harm learning depends not on the technology but on what an interaction does to the learner's generative effort on the target skill. It distinguishes three pathways — direct bypass, which eliminates that effort and lowers unassisted performance, [[cognitive-offloading]], which is predicted to harm only when the offloaded subprocess *is* the target skill, and [[scaffolding|scaffolded struggle]], which preserves generation and is predicted to protect [[transfer-of-learning]]. Grounding the account in consolidation theory, [[desirable-difficulties]], and [[productive-failure]] research, the model explains why randomized studies report both harm (a 48% practice gain paired with a 17% exam deficit) and benefit (a 127% practice gain with the exam deficit largely eliminated) from the same underlying model. Its eight propositions carry explicit falsifiers, and the author is candid that only the bypass-harm and scaffolding-benefit claims currently rest on multiple randomized studies.
