@@ -1,9 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-17 | Total entries: 1426
+Last updated: 2026-09-17 | Total entries: 1427
 
 ## 2026-09-17
+- 📄 [[lund-socially-accountable-data-science-xai-2026]] — Toward Socially Accountable Data Science Education: A Conceptual Framework for Integrating Explainable AI and Accountability Principles
 - 📄 [[clerc-ai-literacy-workshop-llm-regulation-2026]] — Teaching Students to Question the Machine: An AI Literacy Intervention Improves Students’ Regulation of LLM Use in a Science Task
 
 ## 2026-09-16
