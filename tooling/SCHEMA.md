@@ -78,7 +78,7 @@ with Foundations late, immediately before Page kind.
 
 **Method is two questions, not one.** `research_method` (rendered **Study design**) is how the page's own study was carried out - survey, experiment, case study, system development - and is a phrase field. `methods` (**Research methods**) is the set of method and evaluation CONCEPTS the page connects to: randomised controlled trials, design-based research, qualitative and quantitative research, meta-analyses, benchmarks. The two are different granularities - this study versus the methods literature - which is why both exist and why their labels differ.
 
-The seventh registry section, *AI in the disciplines*, is served by the hand-curated `discipline` field, which also covers school subjects that have no concept page yet.
+The section *AI in the disciplines* (subject areas and research fields) is served by the hand-curated `discipline` field, and *Levels and contexts* by the `level` field, which also covers school subjects that have no concept page yet.
 
 **These fields are AUTHORED, then validated.** Until 2026-09-17 they were projected from each page's tag list by `derive-facets.py`; with tags retired the fields are written directly and `tooling/scripts/validate-facets.py` enforces three things — every value is a concept filed under that field's section, no concept appears in two facet fields, and every page carries at least one typed value. It is a gate, so `npm run verify` fails on a violation. The allowed values are generated from the registry into `src/data/facetVocab.ts`, so adding a concept to a section extends the vocabulary on the next build.
 

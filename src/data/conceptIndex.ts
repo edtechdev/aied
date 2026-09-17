@@ -48,7 +48,12 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'business-education', 'humanities-education', 'arts-design-and-media-education', 'design-education', 'medical-education', 'nursing-education', 'information-technology'] },
       { label: 'Research fields', items: ['learning-sciences'] },
-      { label: 'Levels and contexts', items: ['k-12', 'early-childhood-elementary-ai-education', 'higher-ed', 'adult-learning', 'vocational-education', 'special-education', 'teacher-education'] },
+    ],
+  },
+  {
+    heading: 'Levels and contexts',
+    groups: [
+      { label: 'Levels and settings', items: ['k-12', 'early-childhood-elementary-ai-education', 'higher-ed', 'adult-learning', 'vocational-education', 'special-education', 'teacher-education'] },
     ],
   },
   {
