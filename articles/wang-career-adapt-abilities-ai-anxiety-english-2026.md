@@ -9,6 +9,7 @@ research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/wang-career-adapt-abilities-ai-anxiety-english-2026.md']
 confidence: high
+category: [well-being]
 discipline: [english education]
 ---
 
