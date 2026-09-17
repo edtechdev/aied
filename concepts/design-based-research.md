@@ -1,7 +1,7 @@
 ---
 title: Design-Based Research
 created: "2026-08-24T02:30:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-17T14:46:00-04:00"
 type: concept
 tags: [design-based-research, research-methods-aied]
 assessment: [design-based-research, research-methods-aied]
@@ -56,7 +56,7 @@ DBR trades the causal control of [[rct|experiments]] for ecological authenticity
 
 ## Relationship to other methods
 
-DBR is complementary to, not a rival of, other research methods (see [[research-methods-aied]] for the full landscape). Where [[rct|experiments]] establish causality and [[quantitative-research|surveys]] establish breadth, DBR establishes *feasibility and design knowledge* — whether an intervention can be built to work in authentic practice and what design principles support it. It frequently pairs with [[usability-research|usability evaluation]] (to refine the interface) and [[qualitative-research|qualitative methods]] (to understand how learners experience the intervention). A mature DBR program typically culminates in an [[rct|efficacy trial]] or [[educational-measurement|measurement]] study that tests the developed intervention's causal effects at scale.
+DBR is the signature method of the [[learning-sciences|learning sciences]] — the interdisciplinary field that studies learning and the design of learning environments, and that treats building an intervention and studying it as a single activity rather than two. It is complementary to, not a rival of, other research methods (see [[research-methods-aied]] for the full landscape). Where [[rct|experiments]] establish causality and [[quantitative-research|surveys]] establish breadth, DBR establishes *feasibility and design knowledge* — whether an intervention can be built to work in authentic practice and what design principles support it. It frequently pairs with [[usability-research|usability evaluation]] (to refine the interface) and [[qualitative-research|qualitative methods]] (to understand how learners experience the intervention). A mature DBR program typically culminates in an [[rct|efficacy trial]] or [[educational-measurement|measurement]] study that tests the developed intervention's causal effects at scale.
 
 ## Connected Concepts
 
@@ -71,6 +71,7 @@ DBR is complementary to, not a rival of, other research methods (see [[research-
 - [[learning-gains]]
 - [[limitations-in-aied-research]]
 - [[theory-development-aied]]
+- [[learning-sciences]]
 
 ## Connected Articles
 

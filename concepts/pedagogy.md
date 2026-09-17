@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-09-16T12:00:00-04:00"
+updated: "2026-09-17T14:46:00-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 tags: [pedagogy, learning-design, ai-education, higher-ed, k-12]
@@ -49,7 +49,7 @@ The knowledge base's [[research-methods-aied|research]] examines pedagogy at the
 
 ## Relationship to learning theories
 
-Pedagogies and learning theories are closely linked: each pedagogy operationalizes one or more theories. For example, [[project-based-learning]] operationalizes [[constructivist]] and [[experiential-learning|experiential]] theories; [[socratic-method]] draws on [[sociocultural-learning]] and [[metacognition]]; [[scaffolding]] stems from the [[sociocultural-learning|Zone of Proximal Development]]. The knowledge base treats [[learning-theories]] as the conceptual foundation and this page as the instructional-practice umbrella — see also [[learning-design]], which concerns the systematic process of selecting and sequencing strategies.
+Pedagogies and learning theories are closely linked: each pedagogy operationalizes one or more theories. For example, [[project-based-learning]] operationalizes [[constructivist]] and [[experiential-learning|experiential]] theories; [[socratic-method]] draws on [[sociocultural-learning]] and [[metacognition]]; [[scaffolding]] stems from the [[sociocultural-learning|Zone of Proximal Development]]. The knowledge base treats [[learning-theories]] as the conceptual foundation and this page as the instructional-practice umbrella — see also [[learning-design]], which concerns the systematic process of selecting and sequencing strategies. The [[learning-sciences|learning sciences]] sit one step further out again: this page covers the practice of teaching and the strategies educators choose, while the learning sciences study that practice empirically — describing, modelling and evaluating designs to establish which ones change learning.
 
 ## Learning gains across pedagogical strategies
 
@@ -75,6 +75,7 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[learning-theories]]
+- [[learning-sciences]]
 - [[learning-gains]]
 - [[learning-design]]
 - [[active-learning]]

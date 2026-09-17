@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T14:46:00-04:00"
 type: concept
 tags: [ai-education, educational-measurement, rct, benchmark, ai-ed-evaluation, higher-ed]
 foundations: [ai-education]
@@ -27,6 +27,8 @@ connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity
 ## Introduction
 
 The central tension in AIED research is that the strongest designs for causal inference — randomized experiments — are often the hardest to run with authentic AI tools in real classrooms, while the most authentic settings (field deployments, case studies, log-data analyses) offer weaker causal control. No single method resolves this; the field advances by triangulating across methods, and by being explicit about what kind of claim each design can support. Every method also carries cross-cutting limitations — generalizability, measurement validity, the fast pace of AI change, reproducibility, and weak theory use — that readers must weigh; see [[limitations-in-aied-research]].
+
+The page's subject is method rather than findings. [[learning-sciences]] is the substantive field these methods serve: where this page covers how a study should be designed, measured and reported, that page covers what the field has established about how people learn and how learning environments should be designed, and it treats design-based and mixed methods as the learning sciences' signature approaches rather than two options among many.
 
 ### Reporting rigor and the TEP-AIED model
 
@@ -183,6 +185,7 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 - [[design-based-research]] — Design-Based Research
 - [[usability-research]] — Usability Research
 - [[self-report-measures]]
+- [[learning-sciences]]
 
 ## Connected Articles
 
