@@ -12,7 +12,6 @@ level: [higher ed]
 sources: ['raw/papers/2608.12278.md']
 confidence: high
 audience: [policymakers, researchers, institutions]
-category: [equity, policy]
 ---
 
 > **Synthesis:** Roy & Roy (2026) argue that the **infrastructure of AI** — training corpora, tokenization, benchmarks, deployment architectures — systematically disadvantages speakers of underrepresented languages *before a model is trained*, reframing dataset scarcity as a structural barrier rather than an isolated technical limitation. Using Bengali as a case in AI-assisted education, they document four interlocking failures: a web-presence gap (<0.5% of global content for ~4% of the population), a 67:1 English↔Bengali training-token deficit, a tokenization penalty from the alphasyllabary script, and connectivity exclusion (36.5% rural vs 71.4% urban internet penetration). They position **offline-first design** as an equity-oriented infrastructure strategy. The work connects to [[equity-in-ai-education]], [[language-learning]], and [[digital-divide]] debates in educational AI.

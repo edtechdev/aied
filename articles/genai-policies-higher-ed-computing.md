@@ -15,8 +15,6 @@ level: [higher ed]
 sources: ['raw/papers/2607.12296.md']
 confidence: medium
 discipline: [cs education]
-category: [policy, curriculum design]
-
 ---
 
 > **Synthesis:** A comparative content analysis of institutional [[generative-ai|GenAI]] policies and computing-course syllabi in U.S. research-intensive universities, revealing a gap between broadly pro-use institutional guidance and guarded, often prohibition-heavy classroom-level uptake.

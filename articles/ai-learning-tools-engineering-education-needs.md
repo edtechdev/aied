@@ -15,7 +15,7 @@ audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2607.26338.md']
 confidence: high
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Survey of 206 engineering students: AI [[conversational-ai|chatbots]] provide greatest perceived benefit as relief from competence frustration, smaller benefits for autonomy, weakest for relatedness. Baseline [[motivation|motivational]] states matter more than demographics; inattention moderates how baseline competence and autonomy relate to perceived AI benefits. Offers design principles for engineering-specific AI learning tools.

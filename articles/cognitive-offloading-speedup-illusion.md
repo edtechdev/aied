@@ -13,7 +13,6 @@ audience: [learners]
 
 sources: ['raw/papers/2605.23177.md']
 confidence: high
-category: [ai foundations, engagement]
 ---
 
 > **Synthesis:** This preregistered large-scale study (N = 1,237) investigates whether people are well-calibrated in estimating the time savings from AI assistance on simple cognitive tasks. The key finding is a **speedup illusion**: participants accurately predict how long they'll take independently but significantly *underestimate* how long they'll take with AI assistance — despite actual completion times being equivalent between independent and AI-assisted conditions. Notably, this bias is AI-specific; the same miscalibration does not appear when participants imagine help from another human. A critical dissociation emerges between time and effort: participants report **lower subjective effort** with AI even when completion times are identical, suggesting subjective experience drives AI adoption more than objective efficiency.

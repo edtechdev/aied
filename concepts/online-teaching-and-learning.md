@@ -8,7 +8,6 @@ foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-de
 pedagogy: [online-teaching-and-learning, pedagogy]
 technology: [generative-ai]
 level: [higher ed]
-category: [instructional design]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 ---

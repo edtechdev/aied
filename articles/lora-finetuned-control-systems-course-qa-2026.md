@@ -13,7 +13,7 @@ research_method: [experiment, system development]
 discipline: engineering education
 audience: [educators, researchers]
 level: higher ed
-category: evaluation
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This study asks whether low-rank adaptation (LoRA) can align [[open-source]] instruction-tuned [[llm]] models with the response conventions of a single university course, and how that alignment interacts with model size and adapter rank. From a Linear Control Systems course the authors built 360 system-user-assistant dialogues with reference answers restructured into a Solution-Method-Teaching-Points format, then fine-tuned Qwen2.5-3B-Instruct and Qwen2.5-7B-Instruct at ranks r = 4, 8 and 16 under one fixed protocol. LoRA improved both reference-answer similarity and template stability: 7B-r16 reached ROUGE-L 0.4093 and BERTScore-F1 0.8643, and bootstrap 95% confidence intervals for the ROUGE-L gains stayed above zero. The authors are explicit that these metrics capture textual similarity and formatting consistency only, and that formula accuracy and derivational rigor in [[engineering-education]] still require expert judgment.

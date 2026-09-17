@@ -14,7 +14,7 @@ research_method: [instrument development, survey, quantitative, mixed methods]
 discipline: [stem education]
 audience: [educators, teachers, curriculum designers, researchers, policymakers, learning designers]
 level: [elementary, secondary, k 12, teacher training]
-category: [assessment, framework, curriculum design]
+page_kind: [framework]
 sources: ['raw/papers/age-tiered-ai-literacy-guidebooks-2026.md']
 confidence: high
 ---

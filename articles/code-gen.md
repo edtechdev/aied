@@ -9,7 +9,6 @@ technology: [generative-ai, human-in-the-loop-ai, llm, rag]
 assessment: [assessment, automated-assessment, automated-question-generation]
 audience: [software developers]
 research_method: [system development]
-category: [assessment]
 sources: ['raw/papers/2604.03926.md']
 confidence: high
 discipline: [cs education]

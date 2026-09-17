@@ -11,7 +11,6 @@ stakeholders: [educational-policy-ai]
 ethics: [ai-use-disclosure, ethics, trust]
 connected_faqs: [reporting-interpreting-aied-research, ai-guidance-children-under-13, course-ai-policy]
 level: [higher ed]
-category: [assessment]
 confidence: high
 ---
 

@@ -9,7 +9,6 @@ technology: [intelligent-tutoring, learning-analytics, llm, pedagogical-agent, v
 research_method: [mixed methods, case study]
 discipline: [cs education]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/interactive-learning-dashboards-engagement.md']
 confidence: high
 audience: [instructors, learning analytics designers]

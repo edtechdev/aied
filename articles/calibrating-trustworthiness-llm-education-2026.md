@@ -10,7 +10,7 @@ assessment: [ai-ed-evaluation]
 stakeholders: [edtech-platform]
 ethics: [trust-calibration]
 research_method: [design-based research]
-category: [evaluation, instructional design]
+page_kind: [evaluation]
 sources: ['raw/papers/2608.04006.md']
 confidence: high
 audience: [learning designers, edtech designers, researchers]

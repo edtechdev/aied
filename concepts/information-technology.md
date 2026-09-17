@@ -10,7 +10,6 @@ ethics: [equity-in-ai-education]
 discipline: [information technology]
 audience: [administrators, curriculum designers, educators, instructional designers, instructors, learners, policymakers]
 level: [higher ed, adult learning]
-category: [instructional design, policy, curriculum design]
 confidence: high
 ---
 

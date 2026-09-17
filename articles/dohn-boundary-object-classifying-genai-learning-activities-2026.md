@@ -11,7 +11,7 @@ assessment: [educational-measurement]
 audience: [instructors, researchers]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [instructional design, curriculum design, framework]
+page_kind: [framework]
 sources: ['raw/papers/dohn-boundary-object-classifying-genai-learning-activities-2026.md']
 confidence: high
 ---

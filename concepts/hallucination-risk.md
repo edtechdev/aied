@@ -10,8 +10,7 @@ assessment: [ai-ed-evaluation]
 stakeholders: [pedagogical-safety]
 ethics: [hallucination-risk]
 connected_faqs: [verify-ai-output]
-category: [evaluation]
-
+page_kind: [evaluation]
 confidence: high
 ---
 

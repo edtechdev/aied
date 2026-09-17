@@ -11,7 +11,7 @@ research_method: [thematic analysis]
 sources: ['raw/papers/10.3389_fpsyg.2026.1897168.md']
 confidence: high
 level: [higher ed]
-category: [synthesis, curriculum design]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** A thematic review of 32 studies argues that [[generative-ai|generative AI]] does not eliminate hands-on learning in design education but reorganizes its forms into two complementary strands: **Embodied Hands-on** (bodily action, tools, materials) and **Cognitive Hands-on** (language, judgment, and human–AI iteration). Both share a cycle of action, [[feedback]], reflection, and refinement grounded in [[experiential-learning]] and [[embodied-learning]], yet rely on different sources of feedback and are not educationally interchangeable, with rapid generation raising concerns about compressed [[creativity]] processes and growing [[human-ai-collaboration]] demands on [[evaluative-judgement|evaluative judgment]] and [[metacognition]].

@@ -13,7 +13,6 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/genai-student-experiences-uk-he-survey-2026.md']
 confidence: high
-category: [policy, equity, assessment]
 ---
 
 > **Synthesis:** The StudentXGenAI Project surveyed more than 7,000 students across 7 UK institutions (September–December 2025) on GenAI use in their studies, comparing findings with a companion Australian survey. A significant minority of students conscientiously object to GenAI use, while most users are honest most of the time and try to avoid submitting direct GenAI outputs — yet students still use GenAI throughout the entire learning and assessment process, creating a persistent tension between use and integrity.

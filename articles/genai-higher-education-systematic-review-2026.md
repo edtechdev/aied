@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education, ethics]
 audience: [researchers, administrators, instructors]
 research_method: [systematic review]
 level: [higher ed]
-category: [synthesis, framework]
+page_kind: [framework, synthesis]
 sources: ['raw/papers/genai-higher-education-systematic-review-2026.md']
 confidence: high
 

@@ -13,7 +13,7 @@ level: [special education]
 sources: ['raw/papers/zhang-ai-students-disabilities-meta-analysis-2024.md']
 confidence: high
 audience: [researchers, instructional designers, instructors]
-category: [synthesis, equity]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** The first [[meta-analysis-systematic-review|meta-analysis]] of AI-based interventions for [[special-education|students with disabilities]] (SWDs), synthesizing 29 (quasi-)experimental studies conducted globally and analyzed through the lens of cultural-historical [[activity-theory-aied|activity theory]] (CHAT). AI-based interventions produced a statistically significant **medium overall effect on SWDs' learning outcomes (Hedge's g = 0.588)** across [[educational-robotics|robots]], computer software (speech recognition, intelligent tutoring systems, expert systems), and intelligent VR systems — operating as social-emotional coaches, instructional/learning tools, and [[learning-by-teaching|teachable agents]]. Notably, no participant-, AI-, interaction-, intervention-, or methodology-related moderator was statistically significant. The paper advances [[inclusive-learning]] and [[accessibility]] by documenting that AI *works* for SWDs, and calls for a shift from ensuring mere **access** toward positioning SWDs in **agentic** roles — contributing to [[agentic-ai]] and [[agency]]. As a medium effect on SWD learning outcomes, it is a key evidence base for the [[learning-gains]] concept.

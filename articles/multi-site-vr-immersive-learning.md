@@ -12,7 +12,6 @@ research_method: [system development]
 discipline: [stem education]
 audience: [learners, instructors]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/2606.10325.md']
 confidence: medium
 ---

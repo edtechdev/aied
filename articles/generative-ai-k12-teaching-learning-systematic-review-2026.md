@@ -11,7 +11,7 @@ ethics: [ethics]
 audience: [researchers, administrators, instructors]
 research_method: [systematic review]
 level: [k 12]
-category: [synthesis]
+page_kind: [synthesis]
 sources: ['raw/papers/generative-ai-k12-teaching-learning-systematic-review-2026.md']
 confidence: high
 

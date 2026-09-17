@@ -13,7 +13,6 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.10674.md']
 confidence: high
-category: [curriculum design, ai foundations]
 ---
 
 > **Synthesis:** Analyzes how students specify intended behavior in natural language to AI code tools (Copilot) across multiple years, deriving a taxonomy of code-generation specifications expressed through comments. As AI tools shift emphasis from writing code to specifying behavior, the study documents what students actually ask of these systems.

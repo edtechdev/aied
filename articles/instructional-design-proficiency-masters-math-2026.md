@@ -12,7 +12,7 @@ research_method: [quasi-experiment]
 discipline: [math education]
 audience: [teacher educators, instructional designers]
 level: [higher ed]
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Zhu and colleagues address a gap in [[learning-design]] for [[discipline-specific-aied|discipline-specific]] smart education by proposing and testing a smart classroom model for Master of Education (M.Ed.) programs, using mathematics instructional design as a case study. Rather than an algorithmic approach, they take a pedagogically oriented route grounded in a three-dimensional framework (learning effectiveness, ICT, and classroom organization) and build the **D–T–E Model** (Disciplinary Demand–Technological Empowerment–Evaluation Loop). A quasi-experimental study with 68 mathematics education M.Ed. students showed the model significantly improves the precision and professionalism of their instructional objective design, offering a transferable template for [[teacher-education]] and [[educational-development]].

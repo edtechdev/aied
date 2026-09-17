@@ -10,7 +10,6 @@ technology: [llm]
 assessment: [assessment, assessment-validity, automated-assessment, automated-essay-scoring, formative-assessment]
 ethics: [bias-mitigation]
 audience: [instructors]
-category: [assessment]
 confidence: high
 ---
 

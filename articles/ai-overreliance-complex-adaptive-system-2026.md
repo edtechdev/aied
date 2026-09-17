@@ -12,7 +12,7 @@ research_method: [process-outcome modeling, theoretical analysis]
 sources: ['raw/papers/ai-overreliance-complex-adaptive-system-2026.md']
 confidence: high
 audience: [researchers, edtech designers, designers]
-category: [framework, ai foundations]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Biswas (2026) reframes AI reliance — whether people trust an [[llm|AI assistant]] when it is right and check it when it is wrong — as a **population process** rather than an individual, one-shot judgment. An agent-based model of `N` agents who repeatedly solve a task alone, accept the AI's answer unverified, or verify it, each updating a Bayesian (Dirichlet) belief about AI quality and, when networked, learning from peers, yields four linked results: the environment (task difficulty and AI quality) sets the baseline of [[cognitive-offloading|overreliance]] and calibration regret; social learning creates **consensus, not aggregate overreliance** (a mean-preservation theorem); visible social proof turns reliance into a **[[feedback]] cascade** that collapses verification; and feedback design can prevent that collapse. The paper frames AI reliance as a problem of computational social dynamics, where individual learning, peer observation, and feedback exposure jointly shape whether a population remains calibrated.

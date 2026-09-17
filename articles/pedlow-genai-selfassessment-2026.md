@@ -10,7 +10,6 @@ assessment: [assessment]
 ethics: [ethics]
 research_method: [survey, mixed methods]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/pedlow-genai-selfassessment-2026.md']
 confidence: medium
 audience: [educators, faculty development]

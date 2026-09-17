@@ -11,7 +11,6 @@ research_method: [system development]
 level: [special education, k 12]
 sources: ['raw/papers/2605.30670.md']
 confidence: high
-category: [equity, instructional design]
 ---
 > **Synthesis:** Special-R1 is a framework that extends [[pedagogy|pedagogical]] [[reinforcement-learning|reinforcement learning]] (RL) to [[special-education|special education]]. While prior RL-based tutor alignment methods targeted only generic math learners, Special-R1 explicitly models cognitive and communicative diversity across five disability profiles.
 

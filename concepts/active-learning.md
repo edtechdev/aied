@@ -10,7 +10,6 @@ pedagogy: [active-learning, scaffolding]
 stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed, k 12]
-category: [instructional design]
 confidence: high
 ---
 

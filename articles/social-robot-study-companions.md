@@ -13,7 +13,6 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.15239.md']
 confidence: high
-category: [design thinking, engagement]
 ---
 
 > **Synthesis:** Design for Assembly (DfA) and Design for Disassembly (DfD) interventions reshape how a build feels before they shorten how long it takes.

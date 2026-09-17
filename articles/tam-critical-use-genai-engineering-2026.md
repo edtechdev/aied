@@ -14,7 +14,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100618.md']
 confidence: high
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Trang H. Nguyen, Long T. Truong, & Nhu H.T. Nguyen (2026) investigated factors influencing university students' intention to use and reliance on [[generative-ai|generative AI]] among [[engineering-education|Engineering]] and [[cs-education|Computer Science/IT]] (CS/IT) students. Drawing on an extended [[technology-acceptance-model|Technology Acceptance Model (TAM)]], the study integrates the construct of **critical use** and conceptualizes reliance across four functional domains relevant to engineering and CS/IT education.

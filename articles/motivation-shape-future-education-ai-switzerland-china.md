@@ -12,7 +12,7 @@ level: [higher ed]
 sources: ['raw/papers/motivation-shape-future-education-ai-switzerland-china.md']
 confidence: high
 audience: [teacher educators, faculty development, researchers]
-category: [framework, equity]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Martínez-Moreno and colleagues (2026) cross-culturally validated the (D)FIT-Choice (Digital Factors Influencing Teaching Choice) scale and examined [[motivation|motivational]] differences among 416 student [[teacher-role|teachers]] in Switzerland and China. Swiss student teachers reported stronger social utility values and intrinsic motivations, while Chinese student teachers showed higher perceived digital teaching competence and greater enthusiasm for integrating AI into education. The results reveal different levels of willingness to shape the future of education with AI, highlighting how cultural and systemic factors influence the motivation of future teachers and underscoring the need to adapt teacher preparation to local contexts for the digital transformation of education.

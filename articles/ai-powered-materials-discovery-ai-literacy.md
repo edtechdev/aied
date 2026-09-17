@@ -10,7 +10,6 @@ ethics: [equity-in-ai-education]
 audience: [learners, instructors]
 research_method: [theoretical analysis]
 discipline: [stem education]
-category: [curriculum design]
 sources: ['raw/papers/2605.09624.md']
 confidence: medium
 ---

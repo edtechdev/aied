@@ -9,7 +9,7 @@ technology: [generative-ai, llm, multimodal]
 assessment: [ai-ed-evaluation, assessment-validity, benchmark]
 audience: [software developers]
 research_method: [benchmark]
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/cfes-p24-multimodal-slide-auditing-2026.md']
 confidence: high
 ---

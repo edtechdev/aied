@@ -15,7 +15,6 @@ level: [higher ed]
 
 sources: ['raw/papers/2608.11625.md']
 confidence: high
-category: [assessment, instructional design]
 ---
 
 > **Synthesis:** Alsaiari et al. (2026) report a large-scale quasi-experimental sequential cohort study (13,037 students; 51,296 student-authored resources; 70 course offerings) comparing three AI-mediated feedback workflows implemented in the RiPPLE platform. Students in the **Enacted Feedback** condition — prompted to select feedback suggestions, evaluate their relevance, and engage in targeted AI dialogue anchored to those selections — showed significantly higher uptake of AI-generated feedback (26.2% estimated probability) than **Directed Feedback** (14.1%) or **[[self-directed-learning|Self-Directed]] Feedback** (0.1%), along with higher self-assessment confidence and submitted-work quality. The finding positions **student enactment**, not comment quality, as the decisive variable in [[ai-feedback-quality|AI feedback]], connecting to [[feedback|Feedback Loop]], [[feedback-literacy]], [[self-regulated-learning]], and [[human-ai-collaboration]] [[research-methods-aied|research]].

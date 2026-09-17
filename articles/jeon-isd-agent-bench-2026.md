@@ -9,7 +9,7 @@ technology: [llm, rag]
 assessment: [ai-ed-evaluation, benchmark]
 audience: [software developers]
 research_method: [benchmark]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/jeon-isd-agent-bench-2026.md']
 confidence: medium
 ---

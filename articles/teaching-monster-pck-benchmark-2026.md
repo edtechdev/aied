@@ -9,7 +9,7 @@ technology: [generative-ai, pedagogical-agent]
 assessment: [ai-ed-evaluation, benchmark]
 audience: [software developers]
 research_method: [benchmark]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/2608.08852.md']
 confidence: high
 discipline: [stem education, science education]

@@ -12,7 +12,6 @@ ethics: [privacy]
 research_method: [literature review, experiment, systematic review]
 audience: [teachers, educators, administrators, policymakers]
 level: [early childhood, elementary]
-category: [instructional design]
 ---
 
 # How Should Parents and Teachers Approach AI with Children Under 13?

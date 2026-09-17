@@ -11,7 +11,7 @@ discipline: [chemistry education]
 level: [higher ed]
 sources: ['raw/papers/ai-supported-experimental-design-chemistry-2026.md']
 confidence: high
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 ---
 > **Synthesis:** Yim and Lui (2026) report an authentic [[pedagogy|pedagogical]] approach integrating AI [[conversational-ai|chatbots]] into an **upper-division undergraduate analytical [[chemistry-education|chemistry]] laboratory course**: students used AI to **design lab manuals** for analyzing real-world samples, then implemented them through hands-on experimentation, with the manuals reviewed by independent testing and certification professionals. Surveys and focus-group [[feedback]] indicated significantly enhanced **student confidence in conducting experiments and soft skills** — [[critical-thinking|critical thinking]], [[problem-solving]], analytical abilities, and experimental design. A key finding was the **shift in staff roles** from the traditional "cookbook" demonstration model toward guiding and advising students as they address unexpected issues from student-designed lab manuals. 
 

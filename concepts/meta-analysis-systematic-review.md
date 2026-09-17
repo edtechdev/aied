@@ -8,7 +8,7 @@ foundations: [ai-education]
 assessment: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
 connected_faqs: [reporting-interpreting-aied-research]
 research_method: [meta-analysis, systematic review, research methods, literature review]
-category: [evaluation]
+page_kind: [evaluation]
 confidence: high
 ---
 

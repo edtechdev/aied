@@ -7,8 +7,7 @@ tags: [formative-assessment, automated-assessment, human-in-the-loop-ai, prompt-
 technology: [human-in-the-loop-ai, llm, prompt-engineering]
 assessment: [ai-ed-evaluation, assessment-validity, automated-assessment, benchmark, formative-assessment]
 research_method: [benchmark]
-category: [evaluation]
-
+page_kind: [evaluation]
 sources: ['raw/papers/cotal-formative-assessment-scoring-2026.md']
 confidence: high
 audience: [assessment designers, instructors]

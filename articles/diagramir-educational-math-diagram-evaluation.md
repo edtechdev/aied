@@ -11,7 +11,7 @@ research_method: [benchmark]
 discipline: [math education]
 confidence: high
 level: [k 12]
-category: [evaluation]
+page_kind: [evaluation]
 sources: [raw/papers/2511.08283.md]
 ---
 

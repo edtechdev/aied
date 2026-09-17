@@ -9,7 +9,6 @@ assessment: [assessment, benchmark]
 audience: [software developers]
 research_method: [benchmark]
 level: [higher ed, k 12]
-category: [assessment]
 sources: ['raw/papers/2606.28186.md']
 confidence: high
 ---

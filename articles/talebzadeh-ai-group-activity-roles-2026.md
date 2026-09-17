@@ -10,7 +10,6 @@ stakeholders: [teacher-ai-competency]
 research_method: [qualitative]
 audience: [instructors, learning designers, researchers, faculty development]
 level: [k 12]
-category: [instructional design]
 sources: ['raw/papers/talebzadeh-ai-group-activity-roles-2026.md']
 confidence: medium
 

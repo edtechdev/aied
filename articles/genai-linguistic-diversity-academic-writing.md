@@ -12,7 +12,7 @@ level: [higher ed]
 sources: ['raw/papers/2607.28505.md']
 confidence: high
 audience: [instructors, researchers, policymakers]
-category: [equity, synthesis]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** Structured scholarly dialogue among five sociolinguists examining how [[generative-ai|GenAI]] tools influence academic writing practices, reinforce or disrupt linguistic hierarchies, and impact the legitimacy of diverse English varieties in global scholarly communication. Raises concerns about linguistic homogenization and the marginalization of World Englishes.

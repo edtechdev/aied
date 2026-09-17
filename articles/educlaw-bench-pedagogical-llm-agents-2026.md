@@ -9,7 +9,7 @@ technology: [intelligent-tutoring, knowledge-tracing, llm, simulation, student-m
 assessment: [ai-ed-evaluation, benchmark]
 audience: [software developers]
 research_method: [benchmark]
-category: [evaluation, curriculum design]
+page_kind: [evaluation]
 sources: ['raw/papers/2608.03206.md']
 confidence: high
 ---

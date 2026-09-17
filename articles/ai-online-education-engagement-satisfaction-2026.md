@@ -13,7 +13,7 @@ audience: [learners]
 sources: ['raw/papers/ai-online-education-engagement-satisfaction-2026.md']
 confidence: high
 level: [higher ed]
-category: [synthesis, engagement]
+page_kind: [synthesis]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

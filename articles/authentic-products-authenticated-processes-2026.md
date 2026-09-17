@@ -10,7 +10,7 @@ assessment: [ai-ed-evaluation, assessment, assessment-validity, authentic-assess
 audience: [instructors]
 research_method: [systematic review, theoretical analysis]
 level: [higher ed]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/authentic-products-authenticated-processes-2026.md']
 confidence: high
 ---

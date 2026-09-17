@@ -8,7 +8,6 @@ foundations: [design-thinking]
 technology: [educational-robotics, generative-ai, intelligent-tutoring, llm]
 research_method: [system development]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/vonschallen-teachy-mini-gsr-2026.md']
 confidence: high
 audience: [designers, edtech designers]

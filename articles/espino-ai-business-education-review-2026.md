@@ -10,7 +10,6 @@ assessment: [meta-analysis-systematic-review]
 research_method: [systematic review]
 discipline: [business education]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/espino-ai-business-education-review-2026.md']
 confidence: high
 audience: [researchers, curriculum designers, administrators]

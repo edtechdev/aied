@@ -14,7 +14,6 @@ level: [k 12]
 sources: ['raw/papers/genai-literary-assistants-writing-motivation-2026.md']
 confidence: high
 audience: [educators, instructors]
-category: [engagement, instructional design]
 ---
 
 > **Synthesis:** Wang, Wang, and Liu (2026) use a quasi-experimental, single-group pre–post [[mixed-methods-research|mixed-methods]] design to examine the multifaceted effects of integrating [[generative-ai]] (GAI) literary assistants into ninth-grade [[writing-education]] instruction, focusing on students' [[motivation|writing motivation]], flow experiences, and overall writing performance. Across a three-day GAI writing camp, students used ChatGPT to emulate the distinctive styles of four literary figures (Su Shi, Yu Kwang-Chung, Xi Murong, and Jian Zhen) through structured [[prompt-engineering]], a deliberate shift from generic AI use to literature-informed [[prompt-engineering]]. While general writing motivation showed no statistically significant increase (pre-test mean 2.93 → post-test 3.00, t = −0.59, p = .560), flow improved significantly (3.15 → 3.60, t = −2.86, p = .007, Cohen's d = −0.45) and writing performance rose markedly (77.13 → 81.40, t = −5.26, p < .001, d = −0.83). [[qualitative-research|Qualitative]] data revealed a marked surge in task-specific [[student-engagement|engagement]] and situational motivation, particularly during the revision phase. The authors also critically examine the risks of [[cognitive-offloading|Over-Reliance]] on AI, which could diminish engagement in areas requiring creative expression and [[critical-thinking]].

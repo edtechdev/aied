@@ -11,7 +11,7 @@ stakeholders: [teacher-ai-competency]
 research_method: [qualitative, research methods]
 audience: [instructors]
 level: [k 12]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/2607.28889.md']
 confidence: high
 ---

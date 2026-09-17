@@ -13,7 +13,7 @@ audience: [faculty development]
 level: [higher ed]
 sources: ['raw/papers/governing-unseen-ai-literacy-language-teachers-2026.md']
 confidence: high
-category: [synthesis, policy]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** Deng, Çelik and Duran (2026) [[meta-analysis-systematic-review|systematically review]] 32 empirical and conceptual studies (Dec 2022 – Mar 2026) on [[ai-literacy]] among language teachers in [[higher-ed]], framed by the "governing the unseen" lens that prefigures [[educational-policy-ai|institutional policy]]. Guided by PRISMA 2020 and a critical-policy/sociomaterial thematic synthesis of ERIC, British Educational Index and Web of Science records, they find [[ai-literacy]] is overwhelmingly conceptualized through competency-based, multi-dimensional models whose critical and domain-specific dimensions remain underdeveloped. [[teacher-education]] is largely unstructured, [[assessment]] leans on self-report tools, and weak institutional support plus unclear responsibility blunt gains such as confidence and innovative [[teacher-role|teaching]]. The review concludes that durable, [[equity-in-ai-education|equitable]] AI literacy demands structural [[governance]] rather than individual upskilling.

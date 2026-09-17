@@ -10,7 +10,7 @@ technology: [intelligent-tutoring]
 ethics: [digital-divide, equity-in-ai-education]
 audience: [instructors]
 research_method: [delphi]
-category: [curriculum design, framework]
+page_kind: [framework]
 sources: ['raw/papers/10.1016_j.caeai.2026.100584.md']
 confidence: high
 level: [k 12, higher ed, teacher training]

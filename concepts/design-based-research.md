@@ -6,7 +6,6 @@ type: concept
 tags: [design-based-research, research-methods-aied]
 assessment: [design-based-research, research-methods-aied]
 research_method: [design-based research, research methods, literature review]
-category: [instructional design]
 confidence: high
 ---
 

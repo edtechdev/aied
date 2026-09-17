@@ -9,7 +9,7 @@ assessment: [ai-ed-evaluation, educational-measurement]
 audience: [software developers]
 research_method: [educational measurement]
 level: [higher ed]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/2608.13409.md']
 confidence: high
 ---

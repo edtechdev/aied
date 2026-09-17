@@ -9,8 +9,6 @@ foundations: [academic-integrity, cognitive-offloading]
 pedagogy: [metacognition, motivation, self-regulated-learning]
 technology: [generative-ai]
 assessment: [assessment]
-category: [assessment]
-
 confidence: high
 ---
 

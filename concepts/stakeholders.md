@@ -8,7 +8,6 @@ foundations: [ai-literacy, learning-design, teacher-role]
 stakeholders: [administrator, stakeholders, student-experience]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
-category: [instructional design]
 confidence: high
 
 ---

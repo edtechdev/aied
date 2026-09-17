@@ -14,7 +14,7 @@ sources: ['raw/papers/raw-yang-socrates-lbt.md']
 confidence: high
 audience: [instructors, educators]
 level: [higher ed]
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Yang, Pujara, and Li (2025) present a [[pedagogy|pedagogical]] paradigm that **inverts the virtual-tutor model**: instead of an [[llm|LLM]] tutoring students, students act as instructors who must teach an LLM to solve problems. They develop strategies for designing questions with engineered knowledge gaps that only a student can bridge, and introduce **Socrates**, a system deploying this method with minimal overhead. Evaluated in an undergraduate course, the approach led to statistically significant improvements in student performance compared to historical cohorts.

@@ -13,7 +13,7 @@ audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/ai-tools-academic-work-cheating-2026.md']
 confidence: medium
-category: [assessment, synthesis]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** This PRISMA 2020 [[meta-analysis-systematic-review|systematic review]] synthesizes recent [[research-methods-aied|research]] on whether students regard AI-assisted academic work as cheating, finding that student perceptions sit on a spectrum—ranging from viewing AI as a legitimate learning resource to seeing it as misconduct—depending on task type, transparency, and assessment design. A key theme is the persistent gap between student and faculty interpretations of acceptable AI use, alongside evidence that over-dependence on AI can drive [[cognitive-offloading]], reduced independent reasoning, and altered academic behavior. The review argues that the future of [[higher-ed]] lies in concrete [[ethics|ethical]] standards, promoted [[ai-literacy]], and reshaped [[assessment]] design that fosters [[generative-ai]] collaboration without compromising originality, [[equity-in-ai-education|equity]], or intellectual growth.

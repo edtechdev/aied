@@ -10,7 +10,6 @@ stakeholders: [professional-training]
 audience: [software developers]
 research_method: [system development]
 discipline: [math education]
-category: [instructional design, curriculum design]
 sources: ['raw/papers/lin-llm-interactive-lesson-generation.md']
 confidence: high
 level: [teacher training]

@@ -9,7 +9,6 @@ pedagogy: [productive-failure]
 technology: [generative-ai, human-in-the-loop-ai, llm]
 research_method: [qualitative, interviews]
 level: [adult learning, higher ed]
-category: [instructional design]
 sources: ['raw/papers/kim-ai-productive-failure-adult-2026.md']
 confidence: high
 audience: [instructional designers, edtech designers]

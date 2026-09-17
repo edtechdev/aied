@@ -13,7 +13,7 @@ research_method: [learning analytics, survey, quantitative]
 discipline: [cs education]
 audience: [educators, learning analytics designers, institutions]
 level: [higher ed]
-category: [engagement, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** A dual-layer predictive framework for understanding student [[student-engagement|attrition]] in [[cs-education|competitive programming]], combining large-scale Codeforces behavioral logs (n = 1,816 after filtering and balancing) with a multi-institutional psychographic survey from 10 universities in Bangladesh (n = 64 for predictive modeling).

@@ -12,7 +12,6 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2604.16117.md']
 confidence: medium
-category: [instructional design, policy]
 ---
 
 > **Synthesis:** SCRIPT (Step-based Coding for [[research-methods-aied|Research]] and Intelligent Programming Tutoring) is a novel [[intelligent-tutoring]] system for **Python** programming built at Bielefeld University, targeting advanced undergraduate and early postgraduate computer-science students in data science and [[reinforcement-learning|machine learning]] courses. It is designed as a dual [[teacher-role|teaching]]-and-research platform that records keystroke-level [[learning-analytics]] data, plugs in [[llm]]-based hint mechanisms behind a modular inner/outer-loop pedagogy, and — distinctively — is engineered to conform to the demanding German/EU [[regulation|regulatory]] environment ([[privacy|GDPR]], the EU AI Act, and the German Research Foundation ethics framework). Because it self-hosts an open-weight model rather than invoking commercial LLM APIs, SCRIPT treats [[governance|regulatory compliance]], [[ethics]], and institutional deployment as first-class design constraints rather than afterthoughts.

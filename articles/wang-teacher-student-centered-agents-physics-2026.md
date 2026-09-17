@@ -10,7 +10,6 @@ research_method: [experiment, quantitative]
 discipline: [physics education]
 audience: [learners, instructors, researchers]
 level: [secondary]
-category: [instructional design]
 sources: ['raw/papers/wang-teacher-student-centered-agents-physics-2026.md']
 confidence: high
 ---

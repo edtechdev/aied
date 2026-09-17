@@ -13,7 +13,7 @@ research_method: [system development, benchmark]
 discipline: [math education]
 audience: [researchers, edtech designers, software developers]
 level: [k 12]
-category: [evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** PLCD replaces the discrete ID embeddings at the heart of [[cognitive-diagnosis|cognitive diagnosis]] with language-derived structures: LLM-generated concept schemas and exercise process graphs act as cognitive priors, while response records calibrate a learner-specific posterior through target-conditioned retrieval. Across Junyi, XES3G5M, and MOOC, this process-grounded model reaches 80.81%, 83.51%, and 87.16% accuracy respectively, outperforming strong ID-based and knowledge-enhanced baselines under a significance-tested protocol. The largest gains appear precisely where ID-centric [[student-modeling]] fails — new concepts, new exercises, and a masked Q-matrix — and [[teacher-role|teacher]] ratings of the generated process graphs support their educational plausibility. The work argues that structured language, not side information bolted onto ID vectors, can organize diagnostic representation itself.

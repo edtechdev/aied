@@ -15,7 +15,7 @@ research_method: [mixed methods, experiment]
 level: [higher ed]
 audience: [instructors, researchers]
 discipline: [cs education]
-category: [evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This seven-week [[mixed-methods-research|mixed-methods]] pilot in a master's-level data [[learning-analytics|analytics]] course randomly assigned 33 students to a scaffolded [[scaffolding|AI Study Coach]] embedded in Jupyter notebooks (n=16) or to unrestricted use of any [[generative-ai]] tools they chose (n=17), testing the institutional assumption that a controlled version of the technology serves students better than open access. Assignment performance and concept-inventory gains were indistinguishable between conditions, while the Coach condition reported higher [[self-efficacy]] over the seven weeks — the scaffold raised confidence without producing learning. The distinguishing factors were elsewhere: students who had formulated their own [[self-regulated-learning|rules]] for when to use AI scored higher in both conditions, and students with the deepest model understanding (in every case self-taught) prompted more deliberately and earned the highest scores. The study argues that the design of the tool matters less than the student's capacity to govern its use, and that institutional response should therefore be structural — [[assessment]] that grades the reasoning behind AI-assisted work and explicit, [[curriculum-design|curriculum]]-embedded [[ai-literacy]].

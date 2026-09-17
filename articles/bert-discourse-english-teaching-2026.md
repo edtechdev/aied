@@ -12,7 +12,6 @@ sources: ['raw/papers/bert-discourse-english-teaching-2026.md']
 confidence: high
 audience: [instructors, assessment designers, software developers]
 level: [higher ed]
-category: [assessment, instructional design]
 ---
 
 > **Synthesis:** Wang, Xu, Jia, and Fu (2026) built a closed-loop system for [[language-learning|English]] [[writing-education|writing]] [[assessment]] that moves beyond shallow surface features to deep discourse-level coherence. A fine-tuned BERT model (updating only the last four Transformer layers) classifies adjacent sentence pairs into causal, contrastive, progressive, or incoherent discourse relations; a joint attention-and-semantic-similarity mechanism localizes breakpoints; and a teacher-knowledge-graph-constrained generator produces editable diagnostic feedback. On 28,736 sentence pairs from 1,024 Chinese English-major essays, it achieved mean F1 ≥ 0.891 in long essays and outperformed state-of-the-art coherence models, with teacher-judged feedback adoption rates of 71.2%–88.4% and a feasible CPU-only deployment path.

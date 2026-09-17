@@ -15,8 +15,7 @@ level: [k 12]
 sources: ['raw/papers/xai-teachers-trust-edtech-recommendations-2026.md']
 confidence: high
 discipline: [chemistry education]
-category: [framework, evaluation]
-
+page_kind: [framework, evaluation]
 ---
 
 > **Synthesis:** **The Impact of Explainable AI on Teachers' Trust and Acceptance of AI EdTech Recommendations: The Power of Domain-specific Explanations** — Feldman-Maggor, Cukurova, Kent, and Alexandron (2025) adapt Hoff and Bashir's "trust in automation" model to AI in education, proposing that explainable AI (XAI) builds [[trust]] in AI [[edtech-platform|EdTech]] recommendations indirectly by increasing their *understandability*. In a mixed-methods, within-subject experiment with 41 in-service chemistry teachers using the AI [[machine-learning|recommendation tool]] GrouPer, they find that understandability, trust, and acceptance of AI recommendations are positively correlated and that *domain-driven* explanations — framed in curricular/pedagogical language — foster greater understandability and trust than purely *data-driven* (feature-importance) explanations. The authors also surface two situational factors shaping acceptance beyond trust: pedagogical alignment and workload-reduction potential.

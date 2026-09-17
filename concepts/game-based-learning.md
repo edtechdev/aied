@@ -6,7 +6,6 @@ type: concept
 tags: [game-based-learning, student-engagement, educational-robotics, motivation, active-learning]
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
-category: [engagement]
 confidence: high
 ---
 

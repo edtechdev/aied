@@ -8,7 +8,6 @@ foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
 discipline: [business education]
 level: [higher ed]
-category: [curriculum design]
 confidence: high
 ---
 

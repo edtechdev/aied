@@ -10,7 +10,6 @@ assessment: [learning-gains, self-report-measures]
 stakeholders: [student-experience]
 sources: ['raw/papers/student-perceptions-ai-study-productivity-2026.md']
 confidence: high
-category: [engagement, ai foundations]
 research_method: [survey]
 level: [higher ed]
 audience: [learners, researchers]

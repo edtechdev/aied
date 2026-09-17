@@ -9,7 +9,6 @@ technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, llm]
 stakeholders: [governance]
 ethics: [ethics]
 research_method: [literature review, position paper]
-category: [ai foundations]
 sources: ['raw/papers/kostopoulos-agentic-ai-education-2025.md']
 confidence: high
 audience: [researchers, educators, designers]

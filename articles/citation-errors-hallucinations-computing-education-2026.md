@@ -15,7 +15,7 @@ research_method: [bibliometric, quantitative]
 discipline: [cs education]
 level: [higher ed]
 audience: [researchers, instructors]
-category: [synthesis]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** Denny et al. (2026) audit reference integrity across the entire ACM Digital Library — 723,930 publications and 15,872,533 references — to ask whether [[hallucination-risk|hallucinated references]] have arrived in the [[cs-education|computing education]] literature. Tracing 113,588 references from 5,225 computing education papers published since 2021, they manually verify 828 suspicious records and identify 30 references containing verifiably fabricated bibliographic information across 14 papers, all from 2025 and 2026. At the SIGCSE Technical Symposium alone the count rises from 3 in 2025 to 17 in 2026, appearing in 2.3% of 2026 proceedings papers, and hallucinated references appear across five SIGCSE-sponsored or in-cooperation venues in 2025. The authors stress that most suspicious references turn out to be ACM metadata mismatches or valid variants rather than fabrications, that their count is a deliberate lower bound, and that the burden this places on [[peer-assessment]] cannot be met by reviewers alone — [[academic-integrity]] here becomes a shared responsibility of authors using [[generative-ai]] [[llm|writing tools]], reviewers, and publishers.

@@ -9,7 +9,6 @@ technology: [generative-ai, knowledge-graph, personalized-learning, student-mode
 stakeholders: [lifelong-learning]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [curriculum design, instructional design]
 sources: ['raw/papers/learnity-graphs-lifelong-learning-framework-2026.md']
 confidence: high
 audience: [curriculum designers, administrators, learning designers]

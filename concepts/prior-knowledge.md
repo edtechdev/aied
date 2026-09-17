@@ -7,7 +7,6 @@ tags: ['prior-knowledge', 'learning-theories', 'constructivist', 'personalized-l
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
-category: [instructional design]
 confidence: high
 ---
 

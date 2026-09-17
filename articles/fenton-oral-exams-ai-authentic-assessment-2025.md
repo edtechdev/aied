@@ -9,7 +9,6 @@ technology: [generative-ai]
 assessment: [assessment, authentic-assessment, feedback]
 research_method: [literature review]
 level: [higher ed, k 12]
-category: [assessment]
 sources: ['raw/papers/fenton-oral-exams-ai-authentic-assessment-2025.md']
 confidence: high
 audience: [instructors, assessment designers]

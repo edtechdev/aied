@@ -11,7 +11,7 @@ stakeholders: [professional-training, teacher-ai-competency]
 research_method: [benchmark, educational measurement]
 audience: [instructors, software developers]
 level: [k 12, special education]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/cdpk-pedagogy-benchmark-llms.md']
 confidence: high
 ---

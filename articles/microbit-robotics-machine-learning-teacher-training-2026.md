@@ -12,7 +12,7 @@ sources: ['raw/papers/microbit-robotics-machine-learning-teacher-training-2026.m
 confidence: high
 audience: [teacher educators, curriculum designers]
 level: [teacher training, higher ed]
-category: [curriculum design, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Sáez-López, García-Jiménez, and de Lara García-Cervigón (2026) report a quasi-experimental study of an integrated [[educational-robotics]] intervention in initial [[teacher-education]], run with 144 first-year Primary Education undergraduates from three Spanish public universities (experimental n = 105 at the University of La Laguna and the University of Oviedo; control n = 39 at the Complutense University of Madrid; 90.5% female, mean age 19.14, none with a computing/engineering background). Nine one-hour sessions (April–May 2025) combined Micro:bit with [[cs-education|MakeCode visual block programming]], the Maqueen robot, and the Nezha kit (Lego Technic) — with projects such as a dice, a light-sensitive "Light Car," and an automatic traffic-light barrier — plus an introductory [[reinforcement-learning|machine learning]] task (the "Shy Panda" supervised image-classification project in Scratch 3.0 and Machine Learning for Kids). Using the 10-item Coding, Robotics, and Machine Learning Test (CRMT) and three four-point Likert attitude scales, the experimental group significantly outperformed the control on computational-concepts knowledge (M = 6.05 vs 4.51; t = 3.401, p = .001, Cohen's d = 0.638) and reported significant gains on machine learning, [[creativity]], and perceived benefits in [[math-education]] and art. The authors conclude that coding and robotics are essential in initial teacher training, where programming exposure remains limited.

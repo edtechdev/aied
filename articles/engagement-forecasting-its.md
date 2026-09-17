@@ -10,8 +10,6 @@ assessment: [benchmark]
 audience: [software developers]
 research_method: [experiment, benchmark]
 level: [k 12]
-category: [engagement]
-
 sources: ['raw/papers/2605.12788.md']
 confidence: high
 discipline: [math education]

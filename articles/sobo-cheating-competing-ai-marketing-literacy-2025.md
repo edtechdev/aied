@@ -12,7 +12,6 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/sobo-cheating-competing-ai-marketing-literacy-2025.md']
 confidence: high
-category: [curriculum design, policy]
 ---
 
 > **Synthesis:** Using a scalable action [[research-methods-aied|research]] model, Sobo and colleagues examined how AI tools are marketed to US college students and how those students experience the promotions, collecting and analyzing 131 social media ads, 48 student interviews, and field notes from three interns at student-facing AI companies. Interviewees framed AI use as a practical necessity shaped by grading systems, peer norms, and AI's digital ubiquity; while many associated AI with [[academic-integrity|cheating]] and worried about dependency and learning forfeitures, most felt compelled to adopt it to stay competitive—an internalized [[agency|entrepreneurial imperative]] that favored product over process. The authors recommend destigmatizing legitimate AI use, enabling more open [[student-experience|student–teacher]] exchange, and [[teacher-role|teaching]] [[ai-literacy|marketing literacy]] as a regular part of AI hygiene.

@@ -11,7 +11,6 @@ audience: [administrators, instructors]
 research_method: [systematic review, interviews]
 discipline: [engineering education, stem education, cs education]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/ai-engineering-computing-workforce-grey-literature-2026.md']
 confidence: high
 

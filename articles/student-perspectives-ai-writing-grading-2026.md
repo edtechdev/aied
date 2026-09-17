@@ -13,7 +13,6 @@ research_method: [qualitative, thematic analysis]
 discipline: [writing education, cs education]
 audience: [instructors, assessment designers, institutions]
 level: [higher ed]
-category: [assessment]
 ---
 
 > **Synthesis:** AlGhamdi (2026) reports a [[qualitative-research|qualitative pedagogical inquiry]] in an undergraduate technical communication course for computing students at a Saudi public university, in which 13 male students were told explicitly that ChatGPT—not their instructor—had scored their handwritten writing and generated the [[feedback]]. All 13 judged the AI feedback clear and useful for surface-level revision, yet almost all separated "this feedback is useful" from "this system should decide my grade," a distinction the paper names as feedback utility versus evaluative authority. The study argues that [[ai-use-disclosure|transparency about AI involvement]] functions as an instructional intervention in its own right, shifting students from appraisal of [[ai-feedback-quality|feedback quality]] toward questions about [[evaluative-judgement|who holds authority to judge]] their work and the [[assessment-validity|legitimacy]] of [[automated-assessment|automated evaluation]]. Because the sample is 13 students in one course section, the findings are offered as bounded, transferable hypotheses rather than generalizable results.

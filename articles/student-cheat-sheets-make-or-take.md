@@ -8,7 +8,6 @@ pedagogy: [metacognition, self-regulated-learning]
 assessment: [assessment]
 research_method: [survey]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/2607.24736.md']
 confidence: high
 discipline: [cs education]

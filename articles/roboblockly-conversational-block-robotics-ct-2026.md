@@ -13,7 +13,7 @@ sources: ['raw/papers/li-roboblockly-conversational-block-2026.md']
 confidence: high
 discipline: [cs education]
 audience: [teachers, instructional designers]
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Li, Du, Sun, and colleagues (2026) design and evaluate RoboBlockly Studio, an integrated interactive system that combines block-based programming, a [[conversational-ai|conversational AI]] [[teacher-role|teaching]] agent, and [[embodied-learning|embodied]] robot execution to support computational thinking. Recognizing that learners and teachers face challenges connecting abstract program logic to meaningful outcomes, the system creates a tight iterative loop of authoring, running, observing, and revising. Informed by interviews with five programming teachers, the system was designed to support four goals: preserving [[agency|learner agency]], making program behavior transparent, grounding programming in embodied classroom-aligned tasks, and [[scaffolding]] reflection through AI dialogue. It was deployed with 32 high school students.

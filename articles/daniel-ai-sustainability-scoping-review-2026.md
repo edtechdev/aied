@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/daniel-ai-sustainability-scoping-review-2026.md']
 confidence: high
 audience: [administrators, institutions, policymakers]
-category: [synthesis, policy]
+page_kind: [synthesis]
 ---
 > **Synthesis:** Daniel, Podgorodnichenko, and Carr (2026) conduct a scoping review of two interconnected yet distinct pathways at the intersection of AI and sustainability in [[higher-ed|higher education]]: **AI for Sustainability** (using AI to achieve sustainability outcomes) and **sustainable AI** (reducing the direct environmental and ethical impacts of AI itself). As both users and developers of AI, universities are well-positioned to advance environmental and social goals while ensuring responsible use. The review maps how these concepts are defined, the field's evolution, and universities' actual [[student-engagement|engagement]] with AI for sustainability — finding promising examples (energy management, climate monitoring, green campus programs) but limited scale and a lack of clear ethical or environmental guidelines, with much [[research-methods-aied|research]] remaining conceptual or small-scale.
 

@@ -12,7 +12,7 @@ level: [k 12]
 sources: ['raw/papers/puech-pedagogical-steering-llm-productive-failure-2025.md']
 confidence: high
 audience: [edtech designers, researchers]
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Puech, Macina, Chatain, Sachan and Kapur (2025) introduce **[[pedagogy|Pedagogical]] Steering** — the problem of getting [[llm]]-based tutors to follow effective [[teacher-role|teaching]] strategies rather than behaving as answer-giving assistants — and present **StratL**, an algorithm that steers an LLM through a predefined multi-turn tutoring plan represented as a transition graph. In a case study, they engineer an LLM tutor for high school math that follows [[productive-failure]] pedagogy, withholding solutions and eliciting multiple solution attempts. A field study with 17 Singaporean students showed StratL significantly increased fidelity to the PF strategy, though the PF tutor was perceived as less "helpful" than a baseline — the central tension between learning effectiveness and user satisfaction.

@@ -12,7 +12,6 @@ sources: ['raw/papers/adaptive-ai-scaffold-collaborative-problem-solving-2026.md
 confidence: high
 discipline: [math education]
 audience: [instructional designers, learning analytics designers]
-category: [collaborative learning, instructional design]
 ---
 
 > **Synthesis:** Wong, Bulathwela, and Cukurova study how to design an adaptive AI scaffold for developing students' [[collaborative-learning|collaborative problem solving]] (CPS) that responds to the *dynamic* nature of individual students' processes. Unlike most adaptive-scaffolding designs — which are informed by student choice or rely on aggregated behavioral/performance indicators — they derive scaffold strategies from **sequential patterning mining** of individual students' process sequences. Using speech and task logs from 78 students (aged 14–15) working in triads on a [[math-education|mathematics]] CPS task via online video conferencing, they found that while students with a **maximal scaffold** achieved greater performance improvements and were significantly more on-task than those with a **minimal scaffold**, they also engaged in more **scripting behaviors**. The derived adaptive scaffold design informs conceptual strategies for the 'problem identification' and 'ideation, planning and decision making' phases of CPS.

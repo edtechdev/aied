@@ -12,7 +12,7 @@ audience: [learners, software developers]
 level: [higher ed]
 sources: ['raw/papers/2605.02661.md']
 confidence: high
-category: [evaluation, assessment]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** **AcademiClaw** is a bilingual [[benchmark]] of **80 complex, long-horizon tasks** sourced from university students' real academic workflows — homework, research projects, competitions, and personal projects — that they found current [[agentic-ai|AI agents]] unable to solve. It extends the OpenClaw ecosystem beyond assistant-level tasks into academic-level [[ai-ed-evaluation|agent evaluation]].

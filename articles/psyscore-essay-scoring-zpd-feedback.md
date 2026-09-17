@@ -13,7 +13,6 @@ discipline: [writing education]
 
 sources: ['raw/papers/2606.20287.md']
 confidence: high
-category: [assessment, instructional design]
 ---
 > **Synthesis:** PsyScore integrates [[assessment|diagnostic assessment]] with [[scaffolding|instructional scaffolding]] through a shared latent ability representation. Three modules: (1) Trait-Adaptive Neural IRT Scorer incorporating GPCM for precise ability estimation (QWK 0.747, besting prior SOTA 0.722); (2) ZPD-Scaffolded Feedback Generator conditioning multi-agent [[feedback]] on diagnosed ability; (3) Multi-Perspective Feedback Evaluation via pairwise preferences and simulated revisions. Demonstrates that [[psychometrically-aware-ai|psychometrically-aware]] [[automated-essay-scoring|automated essay scoring (AES)]] can transform from [[summative-assessment|summative scoring]] into [[formative-assessment|formative diagnosis]].
 ## Key Findings

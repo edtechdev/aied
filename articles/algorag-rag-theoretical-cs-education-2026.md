@@ -14,7 +14,7 @@ research_method: [system development, benchmark, design and evaluation study]
 discipline: cs education
 audience: [educators, researchers]
 level: higher ed
-category: evaluation
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** AlgoRAG is a purpose-built [[rag]] system for theoretical computer science (TCS) courses that couples a [[llm|large language model]] with a curated knowledge base of textbooks, 847 lecture slides, 312 solved practice problems, 156 worked proof templates and 89 complexity worksheets, adding mathematical entity recognition, notation-aware retrieval and [[pedagogy|pedagogical]] re-ranking. On 179 instructor-authored exam-style questions spanning seven topics it answered every item within the timeout (100% success rate) at a mean of 38.0 seconds — but that headline number measures completion, not correctness. Surface metrics were weak (BLEU-4 = 0.0000 on all 179 questions, ROUGE-1 F1 = 0.0963, semantic similarity 0.0752) while a six-criterion rubric gave pedagogical quality 0.7620, and the authors argue at length that the zero BLEU is a property of n-gram matching on mathematical proofs rather than evidence of system failure. The paper positions RAG as a viable architecture for personalized [[higher-ed]] [[cs-education]] support, while conceding that no controlled study has yet shown that its richer explanations produce [[learning-gains]].

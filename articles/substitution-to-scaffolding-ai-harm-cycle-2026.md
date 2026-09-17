@@ -13,7 +13,7 @@ research_method: [theoretical analysis, qualitative]
 sources: ['raw/papers/2608.17451.md']
 confidence: high
 level: [secondary]
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Favero, Pérez-Ortiz, Käser, and Oliver (2026) argue that the central risk of [[ai-education|AI in education]] is not technological failure but *misalignment* — AI that substitutes for human effort erodes the very capacities education is meant to build. They organize this risk into an integrative framework of four interrelated dimensions — [[cognitive-offloading|cognition]], [[agency]], emotional [[well-being]], and [[ethics]] — linked by a **self-reinforcing harm cycle** in which offloading reduces effort, weakens agency, and compounds emotional and ethical harm. Grounding the framework in an exploratory analysis of 49 International Baccalaureate essays, they find learners themselves perceive these risks (80% report AI reliance reduces thinking) while converging on the AI they want: systems that withhold immediate answers, prompt recall, and encourage reflection through questions. From this they derive a single design principle, **scaffold, do not substitute**, argued to extend beyond education to any system that mediates human thinking, and outline a research agenda for building AI that fosters enduring human capacity.

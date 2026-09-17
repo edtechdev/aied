@@ -13,7 +13,7 @@ discipline: [stem education]
 audience: [researchers, instructors, software developers]
 level: [k 12]
 confidence: high
-category: [framework, collaborative learning]
+page_kind: [framework]
 sources: []
 ---
 

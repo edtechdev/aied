@@ -11,7 +11,6 @@ assessment: [ai-detection, assessment, authentic-assessment]
 ethics: [ethics, privacy]
 research_method: [survey]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/evaluation-age-ai-output-evidence-2026.md']
 confidence: high
 audience: [educators, administrators, assessment designers]

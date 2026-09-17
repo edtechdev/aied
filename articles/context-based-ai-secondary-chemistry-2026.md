@@ -12,7 +12,6 @@ level: [k 12]
 sources: ['raw/papers/context-based-ai-secondary-chemistry-2026.md']
 confidence: high
 audience: [teachers, curriculum designers, policymakers]
-category: [engagement, curriculum design]
 ---
 > **Synthesis:** Abdikayumova and Madybekova (2026) use a [[mixed-methods-research|mixed-methods]], quasi-experimental design with **93 Grade 10 students** in three instructional groups — (a) context-based **7E instructional model** integrated with AI tools, (b) the 7E model without contextual/AI components, and (c) conventional teaching — over 12 weeks of secondary [[chemistry-education|chemistry]]. The experimental group, using **PhET interactive [[simulation|simulations]] and ChatGPT tutoring** embedded within the 7E phases, achieved **significantly higher post-test scores** (large effect size, ANCOVA) and reported the **highest [[student-engagement|engagement]]**. The authors argue that contextualization, structured inquiry, and adaptive AI act **synergistically**: contextual activities connect abstract chemistry to everyday life, the 7E cycle structures reasoning, and AI provides real-time clarification and tailored explanations. 
 

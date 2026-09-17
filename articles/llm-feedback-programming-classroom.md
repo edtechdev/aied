@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/2606.08807.md']
 confidence: high
 audience: [instructors, researchers]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Presents a **large-scale classroom study** (N=215 students, 6,693 submissions across 17 labs) deploying AI-generated feedback through a randomized protocol in an introductory Python programming course. Students received one of three conditions: natural language hints, AI-generated failing test cases, or no AI feedback (control). The resulting dataset, **ProgFeed**, captures fine-grained temporal learning trajectories.

@@ -13,7 +13,7 @@ audience: [instructors, faculty development]
 level: [k 12]
 sources: ['raw/papers/choi-teacher-ai-interaction-lesson-design-2026.md']
 confidence: high
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Choi, Jeong, Park, Kim, and Han (2026) analyze how South Korean elementary teachers interact with ChatGPT while designing student-centered lessons, using CORDTRA diagrams of ten teachers' think-aloud planning sessions to compare interaction patterns across [[teacher-role|teaching]] experience and AI proficiency. Seven distinct interaction patterns emerge — direct adoption, elaborated adoption, initial rejection, revised adoption, follow-up guided use, complex interactions, and bypassing AI — and they distribute differently by case. Experienced teachers with high AI proficiency critically adapt AI output to classroom context through re-[[prompt-engineering|prompting]] and elaboration, whereas less experienced or less AI-proficient teachers rely more heavily on AI suggestions and engage in less contextual adaptation. The findings position [[generative-ai|generative AI]] as a [[human-ai-collaboration|collaborative co-designer]] whose value depends on the interplay of teaching experience and AI proficiency, and argue for differentiated support to foster teachers' critical and reflective use of AI.

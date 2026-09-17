@@ -8,7 +8,7 @@ technology: [generative-ai, llm]
 assessment: [ai-ed-evaluation, assessment-validity, educational-measurement, item-response-theory, psychometrically-aware-ai]
 research_method: [educational measurement]
 level: [secondary, k 12]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/assessment-latent-structure-human-llm-2026.md']
 confidence: high
 discipline: [chemistry education, stem education]

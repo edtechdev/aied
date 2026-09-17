@@ -10,7 +10,7 @@ assessment: [ai-ed-evaluation, assessment, authentic-assessment]
 audience: [instructors]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/arxiv-2026-tool-invariant-framework.md']
 confidence: high
 discipline: [physics education]

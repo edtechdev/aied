@@ -10,7 +10,6 @@ ethics: [ethics]
 audience: [instructors]
 research_method: [literature review, theoretical analysis]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026.md']
 confidence: high
 ---

@@ -15,7 +15,6 @@ level: [higher ed]
 sources: ['raw/papers/bozkurt-ghost-students-agentic-ai-2026.md']
 confidence: high
 audience: [administrators, institutions, instructors]
-category: [assessment, policy]
 ---
 
 > **Synthesis:** Bozkurt, Crompton, and Fell Kurban (2026) argue that the shift from reactive [[generative-ai|generative AI]] to [[agentic-ai|agentic AI]] marks a *categorical break* in digital education, enabling "ghost students"—digital surrogates formed by coupling [[llm]] "minds" with agentic AI browser "bodies" that navigate LMSs, engage content, and complete assessments with human-like mimicry. This creates a **verification gap** that traditional proctoring and detection tools are structurally unable to close, with consequences including [[cognitive-offloading|cognitive debt]], erosion of [[trust|credential trust]], and legal vulnerabilities. The authors argue institutions must move away from output-based assessments and "design for human presence."

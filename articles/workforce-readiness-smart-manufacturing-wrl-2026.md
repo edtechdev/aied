@@ -11,7 +11,6 @@ audience: [instructors, administrators]
 research_method: [case study]
 discipline: [stem education]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/2608.11540.md']
 confidence: high
 

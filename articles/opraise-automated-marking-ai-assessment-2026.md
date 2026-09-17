@@ -10,7 +10,6 @@ ethics: [bias-mitigation, ethics]
 research_method: [mixed methods, benchmark, qualitative]
 audience: [instructors, administrators, assessment professionals, institutions, researchers]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/opraise-automated-marking-ai-assessment-2026.md']
 confidence: high
 ---

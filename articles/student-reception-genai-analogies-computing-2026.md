@@ -14,7 +14,6 @@ research_method: [interviews, qualitative, thematic analysis]
 discipline: [cs education]
 audience: [instructors, edtech designers, researchers]
 level: [higher ed]
-category: [instructional design, equity]
 ---
 
 > **Synthesis:** Bernstein and Sibia interviewed ten undergraduates who had completed CS2, using a think-aloud annotation task and a semi-structured interview grounded in the Paul-Elder [[critical-thinking]] framework, to see how students critically receive [[generative-ai|GenAI]]-generated analogies for linked lists and recursion. Students did not judge explanations holistically: they separated structural accuracy, clarity, appropriateness, and [[trust-calibration|trust]], and flagged specific breakdowns in the source-to-target mapping. Most found the [[personalized-learning|interest-personalized]] analogies more engaging and memorable than generic technical explanations, but trust moved in no single direction, and the sharpest auditors were those with deep knowledge of the analogy's *source* domain, not simply those whose interests matched. The authors name this **two-sided analogy auditing** — target-concept knowledge says which relations an analogy must preserve, source-domain knowledge says whether they hold — and argue a familiar source flips the student from learner into expert. Their design turn is to stop filtering flawed analogies out and instead assign them as objects to inspect and repair, turning the tool's least reliable property into a [[desirable-difficulties|productive difficulty]].

@@ -13,7 +13,6 @@ audience: [instructors]
 research_method: [systematic review]
 discipline: [writing education]
 level: [early childhood, k 12]
-category: [assessment]
 sources: ['raw/papers/elementary-writing-genai-systematic-review-2026.md']
 confidence: medium
 ---

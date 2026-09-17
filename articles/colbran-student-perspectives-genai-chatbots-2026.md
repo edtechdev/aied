@@ -11,7 +11,6 @@ stakeholders: [student-experience]
 research_method: [mixed methods]
 audience: [learners]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/colbran-student-perspectives-genai-chatbots-2026.md']
 confidence: high
 ---

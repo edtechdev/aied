@@ -10,7 +10,6 @@ assessment: [ai-detection, assessment, assessment-validity, authentic-assessment
 ethics: [ai-misuse-learning-harm]
 research_method: [experiment]
 level: [higher ed]
-category: [assessment, instructional design]
 sources: ['raw/papers/kofinas-generative-ai-authentic-assessment-integrity-2025.md']
 confidence: high
 audience: [assessment designers, instructors, institutions]

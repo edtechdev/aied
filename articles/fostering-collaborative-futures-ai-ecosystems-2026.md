@@ -12,7 +12,6 @@ research_method: [delphi, interviews]
 sources: ['raw/papers/fostering-collaborative-futures-ai-ecosystems-2026.md']
 confidence: high
 audience: [policymakers, administrators, researchers]
-category: [policy, equity]
 ---
 
 > **Synthesis:** Majumdar, Ifenthaler, Schumacher, Donlon, Hsu, Zagami, Heitink, and Mueller (2026) examine the impact of AI on education from the perspectives of [[research-methods-aied|researchers]], practitioners, and policymakers, adopting an ecosystem perspective on AI integration in educational ecosystems. Based on the work of a Thematic Working Group at EDUsummIT, the authors conducted a Delphi study of N = 70 international professionals from 18 countries, followed by in-depth face-to-face discussions with international experts and persona-based focus-group discussions. The three most important trends were AI-related competences for learners and [[teacher-role|educators]], automated [[formative-assessment|formative assessment]] and [[feedback]] with [[agentic-ai|AI agents]], and the evolved roles of teachers to teach with AI agents; top importance also included explainability and [[trust|trustworthiness]] of AI agents and [[accessibility]] and equal access to AI agents.

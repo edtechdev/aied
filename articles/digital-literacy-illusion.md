@@ -12,7 +12,6 @@ audience: [learners]
 level: [k 12]
 sources: ['raw/papers/2605.26010.md']
 confidence: high
-category: [equity, assessment]
 ---
 
 > **Synthesis:** This multicenter study (N=243 European secondary students) systematically challenges the 'Digital Native' paradigm by demonstrating a severe confidence-competence gap in digital and AI literacy. Students report near-maximum [[self-efficacy]] in passive digital consumption (browsing, social media) but exhibit a sharp decline when evaluated on active technological creation and algorithmic logic — a collective Dunning-Kruger effect.

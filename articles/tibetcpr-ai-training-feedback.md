@@ -13,7 +13,7 @@ audience: [learners]
 level: [adult learning]
 confidence: high
 discipline: [medical education]
-category: [instructional design, framework]
+page_kind: [framework]
 sources: []
 ---
 

@@ -11,7 +11,6 @@ assessment: [feedback]
 research_method: [experiment, user study]
 audience: [learners, instructors, learning designers, researchers]
 level: [higher ed]
-category: [instructional design, engagement]
 sources: ['raw/papers/wang-chatgpt-comments-video-learning-scaffolding-2026.md']
 confidence: high
 ---

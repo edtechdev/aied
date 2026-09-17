@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/10.3389_fpsyg.2026.1906199.md']
 confidence: high
 audience: [researchers, educators, instructional designers]
-category: [evaluation, instructional design]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Chen (2026) provides a **layer-sensitive account of [[cognitive-offloading|cognitive offloading]]** in [[generative-ai|GenAI]]-assisted [[writing-education|academic writing]], distinguishing surface, structural, idea, and reasoning offloading and separating *supported performance* (what students produce *with* AI) from *independent no-AI outcomes* (what they can do after support is removed). In an eight-week quasi-experimental study of 168 Chinese undergraduates across six intact classes, open AI collaboration produced the highest supported-writing mean (M = 4.02) but the **lowest** Week 8 independent no-AI performance — while a bounded-support condition (delegation restrictions plus compulsory reflection) showed higher independent writing quality, higher-order thinking, argument depth, and revision quality. An associative decomposition within the AI-exposed students showed deeper-layer offloading (especially reasoning) was associated with lower independent higher-order thinking, and self-regulated writing attenuated but did not eliminate that negative association.

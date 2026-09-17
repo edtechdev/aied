@@ -13,7 +13,7 @@ research_method: [randomized controlled trial, mixed methods]
 discipline: [science education]
 audience: [educators, researchers, teachers]
 level: [secondary, k 12]
-category: [evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This four-week multisite [[rct|randomized controlled evaluation]] tested Medly, an AI-powered [[intelligent-tutoring]] platform for GCSE [[science-education]] revision, against business-as-usual [[self-directed-learning|self-directed]] revision in English secondary schools. Of 929 students completing baseline assessment, 644 completed post-testing, and allocation to the platform raised attainment on [[curriculum-design|curriculum]]-aligned questions (Hedges' g = 0.33, 95% CI 0.18 to 0.48) with positive estimates in [[physics-education|Physics]], [[chemistry-education|Chemistry]] and [[biology-education|Biology]]. The authors read this as a provisional causal signal rather than a definitive effect, given 30.7% attrition and curriculum-aligned rather than standardized outcomes. Their wider argument is that practitioner-led micro-RCTs matter for [[ai-ed-evaluation]] not because they are small, but because they make causal estimation repeatable as the technology itself changes.

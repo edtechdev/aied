@@ -8,7 +8,6 @@ pedagogy: [learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai, intelligent-tutoring, llm]
 assessment: [assessment, assessment-validity, automated-assessment]
 research_method: [theoretical analysis]
-category: [assessment]
 sources: ['raw/papers/2607.29624.md']
 confidence: high
 audience: [assessment designers, assessment professionals]

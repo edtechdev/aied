@@ -10,7 +10,6 @@ assessment: [assessment, feedback]
 research_method: [mixed methods, survey, interviews]
 audience: [instructors, educators, students]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/student-genai-use-views-writing.md']
 confidence: high
 discipline: [writing education]

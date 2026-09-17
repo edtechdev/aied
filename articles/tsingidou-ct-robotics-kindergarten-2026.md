@@ -11,7 +11,6 @@ connected_faqs: [ai-guidance-children-under-13]
 research_method: [systematic review]
 discipline: [stem education]
 level: [early childhood, k 12]
-category: [assessment]
 sources: ['raw/papers/tsingidou-ct-robotics-kindergarten-2026.md']
 confidence: high
 audience: [educators, curriculum designers, researchers]

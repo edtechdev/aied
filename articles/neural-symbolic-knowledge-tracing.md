@@ -13,7 +13,7 @@ sources: ['raw/papers/2604.08263.md']
 confidence: medium
 discipline: [math education]
 level: [k 12]
-category: [evaluation, ai foundations]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Key limitations exist in both [[llm]]-based tutoring and conventional Deep Knowledge Tracing (DKT):

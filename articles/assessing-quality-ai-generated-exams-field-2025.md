@@ -8,7 +8,7 @@ technology: [generative-ai, llm]
 assessment: [ai-ed-evaluation, assessment-validity, automated-assessment, automated-question-generation, item-response-theory]
 research_method: [benchmark, educational measurement, quantitative]
 level: [higher ed]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/assessing-quality-ai-generated-exams-field-2025.md']
 confidence: high
 audience: [assessment designers, instructors, institutions]

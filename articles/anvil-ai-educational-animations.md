@@ -10,7 +10,6 @@ research_method: [system development]
 discipline: [cs education]
 audience: [instructors]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/2605.16295.md']
 confidence: high
 ---

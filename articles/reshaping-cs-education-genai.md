@@ -12,7 +12,6 @@ research_method: [system development]
 discipline: [cs education, stem education]
 audience: [instructors, learners]
 level: [higher ed]
-category: [curriculum design]
 confidence: high
 sources: []
 ---

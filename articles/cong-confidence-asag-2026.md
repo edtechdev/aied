@@ -8,8 +8,7 @@ technology: [rag]
 assessment: [ai-ed-evaluation, assessment, automated-assessment, psychometrically-aware-ai]
 audience: [software developers]
 research_method: [system development, benchmark]
-category: [assessment, evaluation]
-
+page_kind: [evaluation]
 sources: ['raw/papers/cong-confidence-asag-2026.md']
 confidence: medium
 ---

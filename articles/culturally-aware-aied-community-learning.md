@@ -13,7 +13,7 @@ audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2606.09041.md']
 confidence: medium
-category: [equity, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Reports on cross-boundary Community-Based Learning where undergraduate students develop AI-enabled solutions for cultural heritage preservation and sustainable development. The paper argues that AIED [[research-methods-aied|research]] often lacks human-centered grounding and adequate attention to cultural context, and that Community-Based Learning — a [[pedagogy]] rooted in social work — remains underrepresented in AIED, particularly within Asia-Pacific contexts.

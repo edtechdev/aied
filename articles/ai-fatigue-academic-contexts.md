@@ -14,7 +14,7 @@ level: [higher ed]
 
 sources: ['raw/papers/2605.23123.md']
 confidence: high
-category: [framework, engagement]
+page_kind: [framework]
 ---
 
 > **Synthesis:** This grounded theory study analyzed open-ended responses from 1,054 university students across three Philippine universities to define **AI fatigue** as a distinct construct — separate from technostress and digital fatigue. The analysis identified **five dimensions**, each with two indicators grounded in participant accounts: **(1) Cognitive Overload** — mental exhaustion from processing AI outputs and prompts; **(2) [[motivation|Motivational]] Disengagement** — loss of drive to engage when AI can complete tasks; **(3) Moral Unease** — [[ethics|ethical]] discomfort from AI dependency and [[academic-integrity|plagiarism]] concerns; **(4) Physical Strain** — bodily fatigue from prolonged [[student-ai-interaction|AI interaction]]; and **(5) Attentional Drift** — difficulty maintaining focus amid AI-mediated multitasking. The resulting **AI Fatigue Model** is a stage-based framework showing how these dimensions accumulate and reinforce each other across repeated AI interactions.

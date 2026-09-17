@@ -12,7 +12,6 @@ ethics: [ethics]
 research_method: [theoretical analysis]
 audience: [learners, instructors]
 level: [higher ed]
-category: [curriculum design, instructional design]
 sources: ['raw/papers/2606.00038.md']
 confidence: high
 ---

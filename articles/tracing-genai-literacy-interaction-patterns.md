@@ -11,7 +11,6 @@ audience: [learners, instructors]
 research_method: [learning analytics, survey]
 discipline: [writing education]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/2606.00040.md']
 confidence: high
 ---

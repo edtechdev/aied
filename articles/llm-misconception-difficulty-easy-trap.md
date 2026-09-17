@@ -14,7 +14,7 @@ audience: [learners, instructors, software developers]
 level: [higher ed]
 sources: ['raw/papers/2607.26067.md']
 confidence: high
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** LLMs systematically underestimate the difficulty of [[misconceptions|misconception]]-driven items ('The Easy Trap'). While [[llm]] ratings show moderate rank correlation with empirical student difficulty (rho=0.52-0.70), they misclassify several fraction items as easy that are among the hardest for students (e.g., 34% correct). LLMs approximate [[curriculum-design|curricular]] rather than cognitive difficulty.

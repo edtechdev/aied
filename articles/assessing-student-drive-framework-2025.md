@@ -10,7 +10,6 @@ assessment: [assessment, authentic-assessment, educational-measurement, formativ
 audience: [instructors]
 research_method: [educational measurement]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/assessing-student-drive-framework-2025.md']
 confidence: medium
 ---

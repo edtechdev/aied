@@ -12,7 +12,6 @@ connected_faqs: [course-ai-policy]
 research_method: [quantitative, longitudinal]
 audience: [instructors, administrators, policymakers, researchers]
 level: [higher ed]
-category: [policy]
 sources: ['raw/papers/chirikov-regulate-ai-syllabi-2026.md']
 confidence: high
 ---

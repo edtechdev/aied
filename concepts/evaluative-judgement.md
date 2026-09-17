@@ -9,7 +9,6 @@ pedagogy: [metacognition, self-regulated-learning]
 assessment: [assessment-validity, feedback, formative-assessment]
 audience: [instructors, learners, assessment designers]
 level: [higher ed]
-category: [assessment]
 confidence: high
 ---
 

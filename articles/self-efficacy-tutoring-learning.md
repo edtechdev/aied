@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/2606.17470.md']
 confidence: high
 discipline: [math education]
-category: [evaluation, instructional design]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Students with lower baseline [[self-efficacy]] achieved greater learning gains regardless of practice format.

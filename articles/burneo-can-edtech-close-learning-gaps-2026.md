@@ -9,7 +9,7 @@ assessment: [ai-ed-evaluation, learning-gains, meta-analysis-systematic-review, 
 ethics: [equity-in-ai-education]
 research_method: [meta-analysis, systematic review]
 level: [k 12]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/burneo-can-edtech-close-learning-gaps-2026.md']
 confidence: high
 audience: [policymakers, administrators, researchers]

@@ -11,8 +11,6 @@ assessment: [assessment, automated-assessment]
 research_method: [educational measurement, quantitative]
 discipline: [physics education, stem education]
 level: [higher ed]
-category: [assessment]
-
 sources: ['raw/papers/2608.06200.md']
 confidence: medium
 audience: [assessment professionals, instructors, researchers]

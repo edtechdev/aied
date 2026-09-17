@@ -9,7 +9,6 @@ technology: [generative-ai, llm]
 assessment: [assessment]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/reconceptualizing-community-inquiry-generative-ai.md']
 confidence: high
 audience: [researchers, instructional designers]

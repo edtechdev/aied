@@ -10,7 +10,6 @@ technology: [generative-ai, personalized-learning]
 research_method: [experiment]
 discipline: [language learning, writing education]
 audience: [instructors]
-category: [instructional design, curriculum design]
 sources: ['raw/papers/10.3389_fpsyg.2026.1887565.md']
 confidence: high
 level: [higher ed]

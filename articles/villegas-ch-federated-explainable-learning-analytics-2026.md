@@ -10,7 +10,7 @@ ethics: [privacy]
 research_method: [experiment, learning analytics]
 audience: [learning analytics designers, researchers, institutions, administrators]
 level: [higher ed]
-category: [evaluation, ai foundations]
+page_kind: [evaluation]
 sources: ['raw/papers/villegas-ch-federated-explainable-learning-analytics-2026.md']
 confidence: high
 ---

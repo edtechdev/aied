@@ -12,7 +12,6 @@ audience: [learners, instructors]
 research_method: [case study]
 discipline: [cs education]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/2607.20149.md']
 confidence: high
 ---

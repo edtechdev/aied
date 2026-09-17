@@ -13,7 +13,7 @@ discipline: [math education]
 
 sources: ['raw/papers/chudziak-ai-math-tutoring-platform.md']
 confidence: medium
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Chudziak and Kostka (2025) propose a multi-agent AI math tutoring platform that moves beyond the reactive answer-giving of current [[llm]] tutors toward structured, individualized, tool-assisted learning. It combines adaptive Socratic tutoring agents, dual-memory (long-term + working) [[personalized-learning|personalization]], GraphRAG-based textbook retrieval, and Directed Acyclic Graph (DAG) course planning, letting students learn new topics, target their weaknesses, revise for exams, and practice on unlimited personalized exercises. On the MathDial [[benchmark]], a pedagogically informed "Tutor Prompt" significantly beat a base prompt on guided tutoring (higher Success@N, lower Telling@N), and o3-mini(high) was selected for task creation.

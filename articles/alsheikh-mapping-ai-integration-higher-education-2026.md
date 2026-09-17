@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education]
 research_method: [systematic review]
 audience: [learners, instructors, administrators, policymakers, researchers]
 level: [higher ed]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/alsheikh-mapping-ai-integration-higher-education-2026.md']
 confidence: high
 

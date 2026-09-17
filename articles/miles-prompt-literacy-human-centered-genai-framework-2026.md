@@ -9,7 +9,7 @@ pedagogy: [constructivist, critical-pedagogy, metacognition]
 technology: [generative-ai, prompt-engineering]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [framework]
+page_kind: [framework]
 sources: ['raw/papers/miles-prompt-literacy-human-centered-genai-framework-2026.md']
 confidence: high
 audience: [instructors, instructional designers, faculty development]

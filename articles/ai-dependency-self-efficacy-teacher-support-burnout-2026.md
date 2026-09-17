@@ -12,7 +12,6 @@ research_method: [quantitative, survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1889053.md']
 confidence: high
 level: [higher ed]
-category: [engagement]
 ---
 
 > **Synthesis:** In a cross-sectional survey of 276 Chinese [[higher-ed|undergraduates]], both [[self-efficacy|academic self-efficacy]] and teacher support were negatively associated with AI dependency, while AI dependency was positively associated with learning burnout. AI dependency fully mediated both relationships, meaning the effect of each resource on burnout ran almost entirely through how dependent students had become on AI. The study frames [[ai-misuse-learning-harm|excessive AI reliance]] as a resource-depletion process that links individual and contextual resources to students' [[well-being|emotional exhaustion]] and disengagement.

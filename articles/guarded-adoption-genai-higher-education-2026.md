@@ -9,7 +9,7 @@ confidence: high
 research_method: [survey, mixed methods]
 audience: [instructors, researchers, administrators]
 level: [higher ed]
-category: [framework]
+page_kind: [framework]
 created: "2026-09-13T08:05:05-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 ---

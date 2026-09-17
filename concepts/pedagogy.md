@@ -8,7 +8,6 @@ tags: [pedagogy, learning-design, ai-education, higher-ed, k-12]
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy]
 level: [higher ed, k 12]
-category: [instructional design]
 confidence: high
 ---
 > **Pedagogies and teaching strategies** — the methods and approaches educators use to teach and facilitate learning, and the umbrella concept for the knowledge base's coverage of how teaching happens (in contrast to [[learning-theories]], which explains how learning happens). In [[ai-education|AI in education]], pedagogy is central because the choice of teaching strategy shapes how AI tools are deployed: the same generative-AI tool can be a [[scaffolding|scaffold]] under one pedagogy, a [[socratic-method|Socratic]] interlocutor under another, or an answer-generator under a third. The knowledge base documents individual pedagogies and treats them as the instructional lens through which AI's design and classroom use are evaluated.

@@ -13,7 +13,7 @@ confidence: high
 research_method: [benchmark]
 discipline: [language learning]
 audience: [researchers, edtech designers]
-category: [evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Image-based language education asks a [[multimodal|vision-language model]] to do more than name objects: it must read a painting's scene, its mood, the visual evidence behind that mood, and the cultural references an artist encoded in it. MUSE evaluates exactly those capabilities with 12 tasks over 1,174 commissioned artworks and 2,400 questions, built by an annotation-first design that decouples a reusable structured annotation of each image from rule-based [[automated-question-generation|question generation]]. Across 30 [[open-source]] and proprietary models the result is a sharply uneven profile: scene classification is near-mature (23 of 30 models above 75.0, median 81.0), while [[affective-computing|emotion interpretation]], viewpoint-dependent spatial reasoning and compositional assembly remain far below human performance, and no model resolves all three spatial dimensions of a single item correctly. Errors cascade — a mis-grounded character is then explained with a fluent, confident justification — which is precisely the failure mode an [[intelligent-tutoring|AI tutor]] cannot afford when the [[language-learning|language]] task is to make sense of an image together with a learner.

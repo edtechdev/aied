@@ -12,7 +12,7 @@ research_method: [benchmark]
 level: [higher ed]
 sources: ['raw/papers/lopez-pernas-llm-appropriate-student-support-2026.md']
 confidence: high
-category: [evaluation, equity]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** **López-Pernas et al. (2026)** generated 4,500 [[simulating-students|synthetic student]] vignettes with three LLMs (GPT-5-mini, Mistral-Medium-2508, Qwen-Plus) to test whether current large language models can act as *prescriptive* [[learning-analytics]] tools — adaptively recommending the level, duration, and type of academic support matched to student need. They find that LLMs show **limited sensitivity** to LA indicators of student need and **considerable inconsistency across models**, concluding that current LLMs are not yet reliable as prescriptive models for student support at scale.

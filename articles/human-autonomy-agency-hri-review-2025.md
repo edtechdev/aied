@@ -14,7 +14,7 @@ research_method: [systematic review]
 sources: ['raw/papers/glawe-human-autonomy-agency-hri-2025.md']
 confidence: high
 audience: [researchers, designers]
-category: [framework, evaluation]
+page_kind: [framework, evaluation]
 ---
 
 > **Synthesis:** Glawe, Schmeckel, Brauner, and Ziefle (2025) [[meta-analysis-systematic-review|systematically review]] empirical studies on human autonomy and sense of agency in human-robot interaction (HRI), aiming to bridge the gap between design frameworks and [[regulation|regulatory]] demands (e.g., the EU AI Act, IEEE Ethically Aligned Design) on one hand and available empirical evidence on the other. Using the PRISMA workflow, they queried five databases and identified 22 empirical studies published between 2011 and early 2024. Across both concepts, separate [[research-methods-aied|methodological]] strands emerged: [[self-determination-theory]]-based measures of autonomy via psychometric scales, and neuroscientific measures of agency (primarily intentional binding).

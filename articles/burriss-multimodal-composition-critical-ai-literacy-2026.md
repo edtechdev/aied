@@ -11,7 +11,6 @@ ethics: [ethics]
 research_method: [qualitative, thematic analysis]
 discipline: [english education]
 level: [secondary]
-category: [collaborative learning, engagement]
 audience: [educators, teachers]
 sources: ['raw/papers/burriss-multimodal-composition-critical-ai-literacy-2026.md']
 confidence: high

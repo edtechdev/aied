@@ -11,7 +11,6 @@ audience: [instructors, researchers]
 research_method: [systematic review]
 discipline: [stem education]
 level: [k 12]
-category: [curriculum design]
 sources: ['raw/papers/niri-steam-ai-literacy-review-2026.md']
 confidence: high
 ---

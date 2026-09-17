@@ -12,7 +12,7 @@ research_method: [benchmark]
 discipline: [writing education]
 level: [k 12]
 confidence: high
-category: [equity, evaluation, assessment]
+page_kind: [evaluation]
 sources: [raw/papers/2603.12471.md]
 ---
 

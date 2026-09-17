@@ -13,7 +13,7 @@ audience: [instructors, learners]
 level: [higher ed]
 sources: ['raw/papers/2607.24757.md']
 confidence: high
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Describes rapid development of a Thonny log visualizer using AI-assisted 'vibe coding' to make student programming processes visible to teachers. Piloted in a 160-student introductory programming course. Provides interactive timelines, session summaries, code-size graphs, and programming-process replays supporting teacher decision-making and [[academic-integrity]] clarification.

@@ -14,7 +14,6 @@ audience: [instructors, learners]
 level: [higher ed]
 sources: ['raw/papers/10.5334_jime.972.md']
 confidence: high
-category: [ai foundations, collaborative learning]
 ---
 
 > **Synthesis:** Vallis, Wilson & Casey (2025) design and evaluate a metaphor-analysis workshop for making sense of [[generative-ai|generative AI]] in [[higher-ed|higher education]], then thematically analyze the metaphors produced by students, academics, and educational support staff at a large Australian university. They map participant metaphors into four categories — *Functions* (tool-like, e.g. "Swiss army knife"), *Roles* (human-like, e.g. "helper," "frenemy"), *Qualities* (unknowable/unreliable, e.g. "black box," "slippery slope"), and *Agency* (autonomous/threatening, e.g. "competitor," "sinister robot") — surfacing persistent tensions between human versus machine agency and the known versus the unknowable. The study positions metaphor as a low-tech, [[embodied-learning|embodied]], collaborative sensemaking tool for critical [[ai-literacy]], offering a workshop model that moves [[governance|institutional]] discussion of GenAI beyond reductive "permit or prohibit" policies.

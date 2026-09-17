@@ -13,7 +13,6 @@ audience: [learners]
 sources: ['raw/papers/nesnin-cognitive-offloading-ai-students-2026.md']
 source_url: 'https://doi.org/10.64823/ijter.2621031'
 confidence: medium
-category: [ai foundations, engagement]
 ---
 
 > **Synthesis:** **AI is not necessarily making students think less — it is transforming the way they learn.** Nesnin et al.'s (2026) analytical review of recent [[research-methods-aied|research]] weighs the two dominant perspectives on AI-assisted learning and [[cognitive-offloading]]: AI as a supportive [[pedagogical-agent|learning companion]] that enhances personalization, [[accessibility]], and efficiency versus AI as a driver of excessive dependence that weakens deep learning, independent reasoning, and long-term memory retention. The conclusion is conditional: AI's educational impact depends on *how* it is used — whether it supports cognitive [[student-engagement|engagement]] or replaces independent thinking.

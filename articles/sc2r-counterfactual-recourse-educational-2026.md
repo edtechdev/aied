@@ -9,7 +9,7 @@ assessment: [ai-ed-evaluation, educational-measurement]
 ethics: [ethics]
 research_method: [system development, learning analytics]
 level: [higher ed]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/2608.17618.md']
 confidence: high
 audience: [learning analytics designers, administrators, researchers]

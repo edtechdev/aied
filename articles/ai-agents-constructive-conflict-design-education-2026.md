@@ -8,7 +8,6 @@ foundations: [agentic-ai, critical-thinking, design-thinking, human-ai-collabora
 pedagogy: [collaborative-learning, scaffolding, student-ai-interaction]
 research_method: [experiment]
 level: [higher ed]
-category: [design thinking]
 sources: ['raw/papers/2608.04166.md']
 confidence: high
 discipline: [design education]

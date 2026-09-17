@@ -11,7 +11,6 @@ ethics: [ai-use-disclosure, equity-in-ai-education]
 research_method: [policy analysis, theoretical analysis]
 level: [higher ed]
 audience: [administrators, instructors, policymakers]
-category: [assessment]
 sources: ['raw/papers/teichmann-detecting-undetectable-misconduct-2026.md']
 confidence: high
 ---

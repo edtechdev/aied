@@ -10,7 +10,6 @@ stakeholders: [career-development-and-readiness, professional-training]
 discipline: [vocational education]
 audience: [educators, instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
-category: [curriculum design, instructional design, assessment]
 confidence: high
 ---
 

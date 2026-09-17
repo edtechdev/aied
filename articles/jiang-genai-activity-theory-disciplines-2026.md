@@ -12,7 +12,6 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/jiang-genai-activity-theory-disciplines-2026.md']
 confidence: high
-category: [engagement, policy]
 ---
 
 > **Synthesis:** **[[generative-ai|Generative AI]] across the disciplines** — a multi-[[governance|institutional]] [[quantitative-research|quantitative]] study of **560 undergraduates across five academic domains** examining how academic disciplines function as **activity systems** that shape students' GenAI use and disclosure practices. Jiang, Farag, Lucia, Vetter & Silvestro interpret disciplinary differences in GenAI [[student-engagement|engagement]] through the lens of [[activity-theory-aied|activity theory]].

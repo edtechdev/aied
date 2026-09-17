@@ -13,7 +13,6 @@ audience: [faculty development, instructors]
 level: [higher ed]
 sources: ['raw/papers/2605.18140.md']
 confidence: high
-category: [policy, instructional design]
 ---
 
 > **Synthesis:** A [[mixed-methods-research|mixed-methods]] survey of 90 [[stem-education|STEM]] faculty in the RCSA Cottrell community identified a coherent latent construct — **AI [[pedagogy|pedagogical]] orientation** — that strongly predicts AI adoption across [[research-methods-aied|research]], teaching, and professional activities. This orientation reflects deep beliefs about AI's role in disciplinary thinking, learning, and expertise development — not merely positive or negative sentiment.

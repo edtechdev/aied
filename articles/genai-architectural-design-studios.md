@@ -13,7 +13,6 @@ level: [higher ed]
 sources: ['raw/papers/2607.24752.md']
 confidence: medium
 discipline: [design education]
-category: [design thinking, curriculum design]
 ---
 
 > **Synthesis:** Examines the integration of deep generative models into architectural design education. The findings, based on students' views and observations in design studios, suggest that [[generative-ai|GenAI]] supports the exploration of creative ideas — serving as visual stimuli and inspirational resources in early design stages — while also highlighting the competencies students need to differentiate between GenAI models and use them effectively.

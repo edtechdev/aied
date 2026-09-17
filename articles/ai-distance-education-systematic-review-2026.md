@@ -15,7 +15,7 @@ sources: ['raw/papers/ai-distance-education-systematic-review-2026.md']
 confidence: high
 audience: [institutions, educators]
 level: [higher ed, k 12]
-category: [synthesis, policy]
+page_kind: [synthesis]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

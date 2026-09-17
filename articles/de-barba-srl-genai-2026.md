@@ -12,7 +12,7 @@ sources: ['raw/papers/de-barba-srl-genai-2026.md']
 source_url: 'https://doi.org/10.20851/ll.v7.75'
 confidence: high
 audience: [researchers, learning analytics designers, instructional designers]
-category: [framework, ai foundations]
+page_kind: [framework]
 ---
 
 > **Synthesis:** **[[agency|Learner agency]] across scales** — a theoretical/integrative paper proposing an account of learner agency that extends [[self-regulated-learning|SRL]] beyond task-focused [[regulation]] by connecting it with complex systems science and Freirean [[critical-pedagogy|critical pedagogy]]. It foregrounds three dimensions of learner agency — **regulation, integration, and positioning** — and a cross-scale [[scaffolding|scaffold]] supporting learners to move between them in algorithmically mediated environments.

@@ -10,7 +10,6 @@ assessment: [assessment, authentic-assessment]
 ethics: [ai-use-disclosure]
 research_method: [survey, case study]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/kirsanov-beyond-detection-ai-online-assessments-2026.md']
 source_url: 'https://doi.org/10.1007/s10805-025-09691-3'
 confidence: high

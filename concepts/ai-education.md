@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-17T14:17:00-04:00"
+updated: "2026-09-17T15:42:00-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity-in-ai-education]
 foundations: [ai-education, ai-literacy, teacher-role]
@@ -11,7 +11,6 @@ stakeholders: [educational-policy-ai]
 ethics: [equity-in-ai-education]
 audience: [instructors, learners, faculty development, administrators]
 level: [higher ed, k 12]
-category: [assessment]
 connected_faqs: [top-10-findings-ai-education-instructors]
 
 confidence: high
@@ -103,6 +102,7 @@ AI in education changes the roles of every stakeholder. The knowledge base's [[s
 - **Learners:** [[student-experience|student experience]], [[career-development-and-readiness|career development and readiness]], and [[ai-anxiety-and-stress|AI anxiety and stress]] shape how students encounter AI.
 - **Instructors:** [[teacher-ai-competency|teacher AI competency]], [[tpack|technological pedagogical content knowledge (TPACK)]], [[educational-development|educational development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
 - **Institutions:** [[administrator|Administratorss]], [[educational-policy-ai|educational AI policy]], [[governance|AI governance]], [[technology-acceptance-model|technology adoption]], [[regulation|AI regulation]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[lifelong-learning|professional and lifelong learning]], and [[professional-training|professional training]] cover the institutional and societal layer.
+- **Builders:** [[educational-technology-developers]] — the product designers, software developers, learning engineers and analytics designers who turn a model capability into something an institution can procure. They are a distinct audience from the practitioners and administrators above, and they sit outside the institutions that adopt their tools, which is why defaults, co-design and post-funding maintenance appear in this knowledge base as pedagogical questions rather than commercial ones.
 
 ## Equity, ethics, and responsible use
 
@@ -175,6 +175,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[recommender-systems-and-learning-paths]]
 - [[parents-and-families]]
 - [[arts-design-and-media-education]]
+- [[educational-technology-developers]]
 ## Connected Articles
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective

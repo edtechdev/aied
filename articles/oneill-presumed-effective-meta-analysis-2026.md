@@ -11,7 +11,7 @@ stakeholders: [educational-policy-ai]
 connected_faqs: [reporting-interpreting-aied-research]
 research_method: [secondary analysis, meta-analysis, research methods]
 level: [k 12, higher ed, adult learning]
-category: [synthesis, evaluation, policy]
+page_kind: [synthesis, evaluation]
 sources: ['raw/papers/oneill-presumed-effective-meta-analysis-2026.md']
 confidence: high
 audience: [researchers, policymakers, institutions]

@@ -12,7 +12,7 @@ research_method: [case study, mixed methods]
 discipline: [design education]
 audience: [educators, curriculum designers, designers]
 level: [higher ed]
-category: [design thinking, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** As [[generative-ai]] increasingly automates technical production in the creative industries, this study asks how art and design education should evolve to preserve and cultivate the deeply human capacities—emotional resonance, cultural interpretation, and narrative meaning-making—that AI lacks. The authors propose and evaluate a Project-Based Digital Storytelling (PBL-DS) [[pedagogy]] that positions AI as a supportive resource inside a structured creative process rather than an autonomous source of creativity.

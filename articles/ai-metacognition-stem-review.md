@@ -10,7 +10,7 @@ technology: [adaptive-learning, human-in-the-loop-ai, intelligent-tutoring, lear
 audience: [researchers, instructors]
 research_method: [systematic review]
 discipline: [stem education]
-category: [synthesis]
+page_kind: [synthesis]
 sources: ['raw/papers/mdpi-metacognition-ai-stem-2025.md']
 confidence: high
 ---

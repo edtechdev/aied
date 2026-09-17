@@ -10,7 +10,7 @@ technology: [generative-ai, intelligent-tutoring, llm]
 assessment: [ai-ed-evaluation, assessment]
 stakeholders: [professional-training]
 research_method: [system development]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/2607.14044.md']
 confidence: high
 discipline: [vocational education]

@@ -14,7 +14,7 @@ level: [higher ed]
 sources: ['raw/papers/2606.05929.md']
 confidence: high
 audience: [software developers, instructors, administrators]
-category: [assessment, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Addresses a critical tension in [[stem-education|CS education]]: the widespread adoption of [[generative-ai|generative AI]] makes it impossible to distinguish authentic student effort from AI code synthesis by evaluating final submissions alone. The paper presents **VISMATIC**, a rootless containerized framework that pairs robust environment isolation with explicit user-interaction tracking at the API level.

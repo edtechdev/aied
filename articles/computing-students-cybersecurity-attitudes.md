@@ -10,7 +10,6 @@ stakeholders: [student-experience]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/2606.18541.md']
 confidence: medium
 discipline: [cs education]

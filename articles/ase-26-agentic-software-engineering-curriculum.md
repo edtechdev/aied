@@ -10,7 +10,6 @@ technology: [ai-technologies, prompt-engineering]
 audience: [instructors, learners]
 research_method: [theoretical analysis, policy analysis]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/2606.01152.md']
 confidence: high
 discipline: [cs education, engineering education]

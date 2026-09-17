@@ -12,7 +12,6 @@ audience: [instructors]
 level: [k 12]
 sources: ['raw/papers/teachers-reflective-regulators-cognition-offloading.md']
 confidence: high
-category: [ai foundations, instructional design]
 ---
 
 > **Synthesis:** Ho and Chen (2026) investigated how in-service teachers perceive, manage, and reflect on the cognitive implications of integrating [[generative-ai|generative AI]] into their professional practice. Using a collective case-[[research-methods-aied|study design]], they interviewed 18 [[teacher-role|teachers]] in mainland Chinese and Hong Kong settings and applied the [[cognitive-offloading]] framework to guide data collection and thematic coding. Three interrelated processes emerged: recognizing and evaluating the need to use GenAI, redistributing cognition between human and machine systems, and reflectively re-engaging after use. Teachers generally framed GenAI not as a substitute for thinking but as a partner in cognitive [[regulation]] shaped by [[governance|institutional]] and [[ethics|ethical]] contexts. Building on Risko and Gilbert's framework, the study proposes a *[[metacognition|metacognitive ecology]]* lens — [[situated-learning|situated]] relationships through which teachers monitor cognitive demands, evaluate GenAI as an external resource, regulate reliance, and maintain pedagogical responsibility — for understanding how cognitive monitoring, [[pedagogy|pedagogical]] interpretation, ethical boundary-setting, and institutional conditions shape GenAI-mediated cognitive redistribution.

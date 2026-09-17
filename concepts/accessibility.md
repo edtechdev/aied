@@ -8,7 +8,6 @@ tags: [accessibility, inclusive-learning, special-education, universal-design-fo
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning, universal-design-for-learning]
 level: [special education]
-category: [instructional design]
 confidence: high
 ---
 

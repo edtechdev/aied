@@ -9,7 +9,7 @@ technology: [generative-ai]
 stakeholders: [technology-acceptance-model]
 research_method: [mixed methods, survey, thematic analysis]
 level: [higher ed]
-category: [framework, policy]
+page_kind: [framework]
 audience: [educators, teachers, institutions, policymakers]
 sources: ['raw/papers/dai-genai-frenemy-teaching-autonomy-2026.md']
 confidence: high

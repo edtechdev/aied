@@ -9,7 +9,6 @@ technology: [generative-ai]
 research_method: [quasi-experiment]
 audience: [instructors, faculty development]
 level: [teacher training]
-category: [instructional design]
 sources: ['raw/papers/talebzadeh-ai-green-education-2026.md']
 confidence: medium
 ---

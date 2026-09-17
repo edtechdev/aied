@@ -8,7 +8,6 @@ foundations: [ai-education, ai-literacy, curriculum-design]
 technology: [generative-ai]
 audience: [instructors]
 research_method: [literature review]
-category: [curriculum design]
 sources: ['raw/papers/2608.05176.md']
 confidence: high
 discipline: [humanities education]

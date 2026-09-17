@@ -11,7 +11,6 @@ assessment: [assessment, group-work, peer-assessment]
 research_method: [systematic review, interviews, mixed methods]
 audience: [instructors, learning designers, assessment designers]
 level: [higher ed, secondary]
-category: [collaborative learning]
 ---
 
 # How Should I Handle AI in Group and Collaborative Assignments?

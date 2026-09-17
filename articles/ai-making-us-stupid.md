@@ -14,7 +14,7 @@ level: [higher ed]
 
 sources: ['raw/papers/cell-2026-ai-making-us-stupid.md']
 confidence: high
-category: [ai foundations, synthesis]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** A 3-page **perspective** (opinion/review, not an empirical study) addressing whether AI use erodes human cognition. The authors' answer: **not inherently — but the risk is real and follows the [[cognitive-psychology]] principle of *cognitive offloading*.** When people delegate reasoning, writing, memory, or [[problem-solving]] to AI, they forgo the mental practice that builds and maintains those capacities. The threat is **use-dependent**, not intrinsic to the technology: AI that *augments* thinking preserves the underlying processes; AI that *replaces* them outsources exactly the practice that builds expertise.

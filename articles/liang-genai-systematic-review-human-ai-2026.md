@@ -12,7 +12,7 @@ research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/liang-genai-systematic-review-human-ai-2026.md']
 confidence: high
-category: [synthesis, framework]
+page_kind: [synthesis, framework]
 ---
 
 > **Synthesis:** Liang, Yang, Sha, Gašević, Yan & Chen (2026) [[meta-analysis-systematic-review|systematically review]] 56 empirical studies on [[generative-ai|GenAI]] in education through the AIED-HCD framework, analyzing three [[human-ai-collaboration|human–AI interaction]] modes along dimensions of human control and AI automation. They find that practice remains cautious toward high-AI-automation modes, but a high-control + high-automation mode is emerging as a trend — suggesting the future is not AI replacing humans but calibrated [[human-ai-collaboration|human–AI complementarity]].

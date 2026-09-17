@@ -8,7 +8,7 @@ assessment: [ai-ed-evaluation, assessment]
 stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed, k 12]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods]
 confidence: high
 ---

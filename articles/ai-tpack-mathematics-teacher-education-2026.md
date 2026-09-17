@@ -12,7 +12,7 @@ sources: ['raw/papers/ai-tpack-mathematics-teacher-education-2026.md']
 confidence: high
 audience: [teacher educators, researchers]
 level: [teacher training, higher ed]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Xie and Luo (2026) develop and validate a [[discipline-specific-aied|domain-specific]] AI-[[tpack]] instrument tailored to the unique [[pedagogy|pedagogical]] and logical demands of [[math-education]], then survey 412 Chinese mathematics [[teacher-education]] students (MTES) across seven universities (289 female, 123 male; 262 senior undergraduates, 105 first-year and 45 second-year graduate students). Their AI-TPACK readiness is currently at a preliminary stage, with all six construct means falling in the medium range (3.76–5.33 on 7-point scales): [[teacher-role|teaching]] beliefs were highest (M = 5.24) and AI-TK lowest (M = 4.23). A structural equation model shows that [[self-efficacy]] is a significant positive predictor of AI-TK (β = 0.69), AI-TCK (β = 0.78), and AI-TPK (β = 0.73), whereas strong traditional teaching beliefs act as a weak cognitive barrier (negative paths to AI-TCK and AI-TPK), and AI-TK's influence on AI-TPACK is fully mediated through AI-TPK and AI-TCK. The findings provide empirical evidence for redesigning mathematics teacher training to address both technical proficiency and psychological readiness.

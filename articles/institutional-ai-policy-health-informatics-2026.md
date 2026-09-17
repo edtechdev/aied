@@ -13,7 +13,6 @@ audience: [administrators, curriculum designers, faculty development, institutio
 level: [higher ed]
 research_method: [mixed methods, policy analysis, quantitative, qualitative]
 discipline: [medical education, information technology]
-category: [policy, curriculum design, equity]
 confidence: high
 ---
 

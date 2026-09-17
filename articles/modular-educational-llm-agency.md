@@ -13,7 +13,7 @@ audience: [instructors, learners]
 
 sources: ['raw/papers/2605.30187.md']
 confidence: high
-category: [framework, ai foundations]
+page_kind: [framework]
 ---
 
 > **Synthesis:** The widespread adoption of AI [[conversational-ai|chatbots]] in education will drastically change learning, making responsible deployment a critical concern. While [[llm|large language models (LLMs)]] might have access to sources discussing insights from educational sciences, they are not particularly inclined to adhere to [[pedagogy|pedagogical]] concepts, risking negative effects on the learning process, such as a loss of transfer capabilities, [[critical-thinking|critical thinking]], or [[creativity]]. In this paper, we introduce an [[agentic-ai|agentic AI]] chatbot architecture assisting students with exercise solving, specifically designed to contribute to more [[ai-literacy|responsible AI use]] in education. We base our conceptual development on the identification of several desiderata for responsible LLM-based educational systems, argue for the structural shortcomings inherent in monolithic, out-of-the-box solutions, and instead suggest modularizing the agentic architecture.

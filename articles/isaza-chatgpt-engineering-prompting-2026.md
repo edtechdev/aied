@@ -12,7 +12,7 @@ level: [higher ed]
 sources: ['raw/papers/isaza-chatgpt-engineering-prompting-2026.md']
 confidence: high
 audience: [instructors, educators]
-category: [engagement, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** **In brief:** Isaza Dominguez, Robles-Gómez, and Pastor-Vargas study how prompting behaviors influence the [[learning-gains|academic performance]] of 128 fourth-year engineering students using ChatGPT across a 16-week semester with rotating task types (case analysis, engineering design, multi-step [[problem-solving]], experimental data analysis). AI Query Efficiency (how effectively students crafted clear, well-structured prompts) and AI-Driven Problem-Solving (how strategically they integrated AI output into their reasoning) were the strongest predictors of academic success — even after accounting for cumulative GPA.

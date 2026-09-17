@@ -9,8 +9,7 @@ technology: [knowledge-tracing, student-modeling]
 assessment: [ai-ed-evaluation, feedback, formative-assessment]
 stakeholders: [edtech-platform]
 ethics: [privacy]
-category: [engagement, evaluation]
-
+page_kind: [evaluation]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 ---

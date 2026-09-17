@@ -9,7 +9,6 @@ pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, intelligent-tutoring, llm, personalized-learning, rag]
 audience: [software developers]
 research_method: [system development, case study]
-category: [instructional design]
 sources: ['raw/papers/2409.03512.md']
 confidence: high
 level: [higher ed]

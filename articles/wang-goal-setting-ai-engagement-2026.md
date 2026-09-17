@@ -12,7 +12,7 @@ audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/wang-goal-setting-ai-engagement-2026.md']
 confidence: high
-category: [engagement, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** **Explaining learning engagement in AI-assisted learning** — a structural equation modeling study of **758 Chinese university students** in AI-assisted English learning. Guided by **goal-setting theory**, Wang & Wang (2026) show how **teacher support** drives [[student-engagement|learning engagement]] through four achievement goal orientations, extending goal-setting theory to AI contexts.

@@ -10,7 +10,6 @@ pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]
 assessment: [assessment, assessment-validity, authentic-assessment, formative-assessment]
 level: [higher ed]
-category: [assessment]
 confidence: high
 ---
 

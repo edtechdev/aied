@@ -13,7 +13,7 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed]
 confidence: medium
-category: [synthesis, ai foundations]
+page_kind: [synthesis]
 sources: []
 ---
 

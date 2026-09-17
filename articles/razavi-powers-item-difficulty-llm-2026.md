@@ -12,7 +12,7 @@ research_method: [educational measurement, benchmark]
 discipline: [math education, english education]
 audience: [assessment professionals, researchers, assessment designers]
 level: [elementary]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** **Estimating Item Difficulty Using Large Language Models and Tree-Based [[reinforcement-learning|Machine Learning]] Algorithms** — Razavi & Powers (2026) evaluate whether GPT-4o can estimate the difficulty of K-5 math and reading assessment items (N = 5170) calibrated under the [[item-response-theory|Rasch IRT]] model, comparing a zero-shot direct estimation approach against a feature-based strategy in which the [[llm]] extracts cognitive and linguistic features fed into [[machine-learning|tree-based models]]. The feature-based approach outperformed direct estimation (correlations up to r = 0.87), though accuracy was weaker for early-grade items, underscoring the value of structured feature extraction for [[psychometrically-aware-ai|psychometric]] prediction.

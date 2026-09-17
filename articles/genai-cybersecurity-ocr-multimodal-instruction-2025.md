@@ -12,7 +12,6 @@ level: [higher ed]
 sources: ['raw/papers/patel-genai-cybersecurity-ocr-multimodal-2025.md']
 confidence: medium
 audience: [instructors, instructional designers]
-category: [instructional design]
 ---
 
 > **Synthesis:** Patel et al. (2025) present an LLM-assisted instructional integration with a virtual cybersecurity lab platform, addressing workforce reskilling needs driven by the digital transformation of Fourth Industrial Revolution (4IR) systems. Recognizing that the workforce must be reskilled and upskilled for STEM skills such as robotics, automation, AI, and security, the authors integrated a generative-AI instructional assistant into a prior [[experiential-learning|experiential learning]] platform. The system assists trainees by acting as an instructional assistant, helping students build skill sets while performing experiential learning exercises.

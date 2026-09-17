@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/2607.11032.md']
 confidence: high
 audience: [instructors, assessment designers]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Introduces 'design problems' (DPs): concise, scenario-based prompts that require applying knowledge in transfer contexts, generated with LLMs to assess [[critical-thinking|higher-order thinking]] (HOT) in [[project-based-learning|project-based learning]]. Traditional PjBL assessments often fail to capture HOT, especially transfer; DPs target that gap.

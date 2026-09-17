@@ -29,7 +29,7 @@ SCHEMA_MD = os.path.join(ROOT, 'tooling', 'SCHEMA.md')
 BEGIN_MARKER = '<!-- BEGIN GENERATED VOCABULARIES (source: src/content.config.ts) -->'
 END_MARKER = '<!-- END GENERATED VOCABULARIES -->'
 COLLECTIONS = ('articles', 'concepts', 'faqs')
-FIELDS = ('research_method', 'discipline', 'audience', 'level', 'category')
+FIELDS = ('research_method', 'discipline', 'audience', 'level', 'page_kind')
 # Facet fields: their allowed values are the concept slugs of one registry
 # section, so they are read from the generated src/data/facetVocab.ts rather
 # than from content.config.ts (which builds them with facetList(...)).

@@ -13,7 +13,6 @@ ethics: [equity-in-ai-education]
 research_method: [randomized controlled trial]
 audience: [learners]
 level: [k 12]
-category: [engagement]
 sources: ['raw/papers/access-not-enough-ai-tutoring-2026.md']
 confidence: high
 discipline: [english education]

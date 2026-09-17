@@ -13,7 +13,6 @@ audience: [learners]
 
 sources: ['raw/papers/2604.07469.md']
 confidence: high
-category: [assessment, instructional design]
 ---
 
 > **Synthesis:** **Sequenced [[ai-feedback-quality|AI feedback]] harms learning despite boosting [[student-engagement|engagement]] and positive perceptions.**

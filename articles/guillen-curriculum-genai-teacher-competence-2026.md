@@ -9,7 +9,6 @@ pedagogy: [self-efficacy]
 technology: [generative-ai]
 stakeholders: [teacher-ai-competency]
 research_method: [survey, educational measurement]
-category: [instructional design]
 sources: ['raw/papers/guillen-curriculum-genai-teacher-competence-2026.md']
 confidence: high
 audience: [teacher educators, faculty development, institutions]

@@ -8,7 +8,6 @@ foundations: [cognitive-offloading, human-ai-collaboration, learning-design]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai, llm, prompt-engineering]
 research_method: [system development]
-category: [instructional design]
 sources: ['raw/papers/ye-arpg-real-time-coaching-llm-prompting-2026.md']
 confidence: high
 audience: [instructional designers, edtech designers, researchers]

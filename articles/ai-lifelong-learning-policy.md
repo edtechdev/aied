@@ -13,8 +13,6 @@ research_method: [policy analysis, literature review]
 sources: ['raw/papers/2605.16296.md']
 confidence: medium
 level: [adult learning]
-category: [policy, equity]
-
 ---
 
 > **Synthesis:** Theodora and Tselios (2026) provide a policy-oriented synthesis of AI's dual role in adult and [[lifelong-learning]] contexts — as both an enabler of personalized, scalable education and a source of significant equity and governance challenges. Drawing on international policy frameworks, the paper argues that AI integration in [[adult-learning]] requires balanced policies promoting inclusion, transparency, and human-centered pedagogy.

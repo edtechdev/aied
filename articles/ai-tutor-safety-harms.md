@@ -15,7 +15,7 @@ level: [k 12, higher ed]
 sources: ['raw/papers/hazra-safetutors-pedagogical-safety-2026.md']
 confidence: high
 discipline: [stem education]
-category: [evaluation, framework]
+page_kind: [evaluation, framework]
 ---
 
 > **Synthesis:** Conventional LLM safety benchmarks focus on toxic outputs, jailbreaks, and bias. In education, the primary risks are quieter:

@@ -15,7 +15,7 @@ level: [higher ed]
 
 sources: ['raw/papers/zhan-boud-dawson-genai-feedback-engagement.md']
 confidence: high
-category: [framework, engagement]
+page_kind: [framework]
 ---
 
 > **Synthesis:** A conceptual framework paper from feedback-literacy leaders Boud, Dawson and Yan arguing that [[generative-ai|GenAI]] can be an *enabler* of student feedback [[student-engagement|engagement]] — but only when positively aligned with students' [[feedback-literacy|feedback literacy]]. Analyzing feedback across three stages (eliciting, processing, enacting), it proposes a **cyclical [[self-regulated-learning|self-regulation]] feedback model** (feedback forethought → feedback control → feedback retrospect) grounded in an ecological perspective, as a pathway for students to productively engage with GenAI feedback while mitigating [[cognitive-offloading|over-reliance]] and [[academic-integrity]] risks.

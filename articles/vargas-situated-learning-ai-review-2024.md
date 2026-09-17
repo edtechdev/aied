@@ -9,7 +9,6 @@ pedagogy: [constructivist, experiential-learning, situated-learning]
 technology: [adaptive-learning, personalized-learning]
 research_method: [systematic review]
 audience: [instructors]
-category: [instructional design]
 sources: ['raw/papers/vargas-situated-learning-ai-review-2024.md']
 confidence: high
 ---

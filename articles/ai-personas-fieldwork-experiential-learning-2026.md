@@ -14,7 +14,6 @@ confidence: high
 research_method: [case study, qualitative]
 audience: [educators, instructors, curriculum designers, researchers]
 level: [higher ed]
-category: [instructional design, engagement]
 ---
 
 > **Synthesis:** Elhajj et al. (2026) report an emergency [[pedagogy|pedagogical]] substitution: when the 2024 war in Lebanon made community [[experiential-learning|fieldwork]] impossible for the HEHI 303 Experiential Learning course at the American University of Beirut, student groups interviewed ChatGPT-generated [[pedagogical-agent|AI personas]] instead of real stakeholders in needs assessment interviews and focus group discussions. Two HEI raters scored all 10 group prompts on five indicators, and [[conversational-ai|AI dialogue]] came out strongest where schooling normally wins anyway. Educational alignment (mean 5.00) and diversity of perspectives (4.90) topped the rubric, while group dynamics (3.80) and limitations (3.20) were weakest, where flat emotion, over-polished phrasing, absent disagreement and thin cultural specificity ran through every context. The authors conclude that AI personas are a useful complement and a crisis stopgap, not a replacement for real fieldwork.

@@ -11,7 +11,7 @@ stakeholders: [student-experience]
 ethics: [trust-calibration]
 research_method: [survey, educational measurement, research methods, quantitative, qualitative]
 audience: [researchers, instructors]
-category: [evaluation]
+page_kind: [evaluation]
 connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-learn, reporting-interpreting-aied-research]
 confidence: high
 ---

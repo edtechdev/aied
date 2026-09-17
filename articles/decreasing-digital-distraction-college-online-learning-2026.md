@@ -12,7 +12,6 @@ confidence: high
 research_method: [learning analytics, survey]
 audience: [educators, instructional designers]
 level: [higher ed]
-category: [engagement, instructional design]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

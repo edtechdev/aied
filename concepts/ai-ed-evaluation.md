@@ -10,7 +10,6 @@ assessment: [assessment, assessment-validity, benchmark, educational-measurement
 research_method: [benchmark, educational measurement]
 audience: [researchers, instructors, administrators]
 level: [higher ed]
-category: [assessment]
 connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods, reporting-interpreting-aied-research]
 confidence: high
 

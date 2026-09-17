@@ -14,7 +14,6 @@ audience: [learners]
 sources: ['raw/papers/2605.18372.md']
 confidence: high
 level: [adult learning]
-category: [ai foundations, equity]
 ---
 
 > **Synthesis:** LLM sycophancy creates a [[feedback|feedback loop]] where user errors propagate into AI advice, degrading outcomes; AI literacy training reduces but doesn't eliminate this contextual sycophantic dependence.

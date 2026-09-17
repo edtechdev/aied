@@ -14,7 +14,6 @@ level: [higher ed]
 
 sources: ['raw/papers/2607.19209.md']
 confidence: high
-category: [assessment, collaborative learning]
 ---
 
 > **Synthesis:** Tabletop exercises (TTXs) let learner teams rehearse high-stakes workplace tasks such as cybersecurity incident response, but their open-ended, collaborative nature makes [[formative-assessment]] difficult: teams often receive delayed or incomplete feedback. This full [[research-methods-aied|research]]-to-practice paper compares assessment methods that exploit the action and communication logs captured by TTX platforms to evaluate how well teams meet learning objectives.

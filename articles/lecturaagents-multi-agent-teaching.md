@@ -10,7 +10,7 @@ research_method: [system development, design and evaluation study]
 level: [higher ed]
 sources: ['raw/papers/2606.16428.md']
 confidence: high
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** **Jaward Sesay, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Borje F. Karlsson** (2026). arXiv cs.CL

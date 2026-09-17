@@ -12,7 +12,6 @@ ethics: [ethics]
 research_method: [mixed methods]
 audience: [instructors]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/2608.03973.md']
 confidence: high
 discipline: [business education]

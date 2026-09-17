@@ -1,7 +1,7 @@
 ---
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T14:46:00-04:00"
+updated: "2026-09-17T15:42:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design]
@@ -9,7 +9,6 @@ foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
 stakeholders: [educational-policy-ai, teacher-ai-competency]
 audience: [faculty development, instructors]
 level: [higher ed, k 12]
-category: [instructional design, curriculum design]
 confidence: high
 ---
 
@@ -25,7 +24,7 @@ confidence: high
 
 ## Introduction
 
-Educational development is the professional and institutional work through which faculty build the capability to design, teach and assess well — and in the AI era it has become a precondition for any pedagogical change to take effect. The concept spans the individual ([[ai-literacy|AI literacy]], confidence, [[teacher-ai-competency|competency]], attitudes) and the institutional (standards, policy, quality assurance, and alignment between stated AI expectations and actual assessment design). A recurring finding across this knowledge base is that the evidence for effective practice substantially leads what most institutions have implemented, which makes development work — not more primary research — the binding constraint. The [[learning-sciences|learning sciences]] produce the findings this work carries: where that field establishes empirically how people learn and which designs change outcomes, educational development is the institutional practice that moves such evidence into how faculty actually teach and assess.
+Educational development is the professional and institutional work through which faculty build the capability to design, teach and assess well — and in the AI era it has become a precondition for any pedagogical change to take effect. The concept spans the individual ([[ai-literacy|AI literacy]], confidence, [[teacher-ai-competency|competency]], attitudes) and the institutional (standards, policy, quality assurance, and alignment between stated AI expectations and actual assessment design). A recurring finding across this knowledge base is that the evidence for effective practice substantially leads what most institutions have implemented, which makes development work — not more primary research — the binding constraint. The [[learning-sciences|learning sciences]] produce the findings this work carries: where that field establishes empirically how people learn and which designs change outcomes, educational development is the institutional practice that moves such evidence into how faculty actually teach and assess. Its work, though, is bounded by an institutional edge: development builds capability in the staff inside an institution, while the tools those staff are then asked to adopt are usually built outside it by [[educational-technology-developers]], whose design and procurement decisions — defaults, configurability, what survives the funding — arrive as constraints on the programme rather than as products of it.
 
 ## Educational development in the AI era
 
@@ -87,6 +86,7 @@ For faculty developers, academic leaders, and [[stakeholders|instructional desig
 - [[professional-training]]
 - [[teacher-education]]
 - [[learning-sciences]]
+- [[educational-technology-developers]]
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles

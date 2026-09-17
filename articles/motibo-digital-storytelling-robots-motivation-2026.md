@@ -7,7 +7,6 @@ tags: [educational-robotics, storytelling-in-education, motivation, self-determi
 pedagogy: [creativity, motivation, self-determination-theory, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
 research_method: [quasi-experiment]
-category: [engagement]
 sources: ['raw/papers/fung-motibo-storytelling-robots-motivation-2026.md']
 confidence: medium
 audience: [educators, teachers]

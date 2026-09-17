@@ -10,7 +10,6 @@ research_method: [case study]
 discipline: [cs education]
 audience: [instructors, researchers]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/2608.30572.md']
 confidence: high
 ---

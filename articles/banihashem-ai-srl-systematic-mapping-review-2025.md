@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/banihashem-ai-srl-systematic-mapping-review-2025.md']
 confidence: high
 audience: [researchers, learning designers, instructional designers]
-category: [synthesis, engagement]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** Banihashem, Bond, Bergdahl, Khosravi, and Noroozi systematically map the intersection of AI and [[self-regulated-learning|self-regulated learning (SRL)]], reviewing 84 studies via a systematic mapping review across Web of Science, Scopus, IEEE Xplore, ACM Digital, EBSCOHost, Google Scholar, and OpenAlex. Using the "Who–What–How–Why" framework (stakeholders, theory, methods, objectives), they find AI–SRL research predominantly targets [[higher-ed|higher education]] students with minimal attention to primary education and educators. AI is implemented primarily as an intervention — through adaptive systems and [[personalized-learning|personalization]], prediction and profiling, [[intelligent-tutoring|intelligent tutoring systems]], and assessment and evaluation. The direct impact of AI on SRL focuses mainly on the [[metacognition|metacognitive]] and cognitive aspects, while the **motivational aspect of SRL remains underexplored**, and over one-third of studies did not specify an SRL theory.

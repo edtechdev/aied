@@ -10,7 +10,6 @@ ethics: [global-south]
 research_method: [system development]
 audience: [instructors]
 level: [k 12]
-category: [curriculum design]
 sources: ['raw/papers/2607.28647.md']
 confidence: high
 ---

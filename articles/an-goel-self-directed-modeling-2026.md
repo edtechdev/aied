@@ -11,7 +11,7 @@ confidence: high
 research_method: [learning analytics, quantitative]
 discipline: [science education]
 audience: [learning analytics designers, researchers, instructional designers]
-category: [engagement, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** **How Online Learners Engage in Self-Directed Modeling: A Behavioral Analysis** — An, Hammock & Goel (2025) analyze the clickstreams of 315 self-directed [[online-teaching-and-learning|online learners]] across 822 models built in VERA, an ecological [[simulation|modeling]] tool. Using [[learning-analytics]] techniques — activity sequence analysis, hierarchical clustering, and [[machine-learning|Markov chain]] models — they identify three behavioral patterns: Observation, Construction, and Exploration. Learners tend to progress from construction-focused behavior toward more active, hypothesis-driven Exploration, with Observation consistently present across all learning phases.

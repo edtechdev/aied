@@ -15,7 +15,6 @@ level: [k 12]
 sources: ['raw/papers/civic-education-ai-lesson-plans.md']
 confidence: medium
 discipline: [humanities education]
-category: [curriculum design, equity, assessment]
 ---
 
 > **Synthesis:** An analysis of 310 AI-generated lesson plans (2,230 individual activities) produced by ChatGPT (GPT-4o), Gemini (1.5 Flash), and Copilot (GPT-4 based) for all 53 Massachusetts eighth-grade civics standards. Each standard received two prompts: a basic "write a lesson plan" and a "highly interactive" variant.

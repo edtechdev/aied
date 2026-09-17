@@ -15,7 +15,6 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/caeai-2026-agency-gap-ai-writing.md']
 confidence: high
-category: [instructional design, equity, design thinking]
 ---
 
 > **Synthesis:** A randomized experiment (n = 79 medical/nursing students) examining how the **initiative design** of an AI writing agent shapes reasoning, agency, and immediate independent performance. Students completed two [[multimodal]] analytical writing tasks (interpreting healthcare-[[simulation]] data visualizations: bar chart, network diagram, ward heatmap) with either a **reactive agent** (responds only when prompted, n = 39) or a **proactive agent** (initiates sequenced questions and feedback, n = 40). [[generative-ai|GenAI]] literacy was measured with the validated 20-item **GLAT**. The study introduces the **agency gap**: a relational mismatch between the initiative an AI agent demands and the learner's capacity to initiate, monitor, evaluate, and internalise AI-supported reasoning — neither an individual deficit nor a fixed property of the system.
