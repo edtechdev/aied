@@ -9,6 +9,7 @@ audience: [learners]
 
 sources: ['raw/papers/metacognitive-training-optimal-cognitive-offloading-2026.md']
 confidence: high
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis:** Ngai & Gilbert (2026) show that a brief metacognitive training intervention — just five practice trials pairing [[learning-gains|performance]] prediction with feedback — improves metacognitive calibration and makes people's [[cognitive-offloading]] strategy choices measurably more optimal, resolving earlier mixed findings about whether metacognitive training translates into actual offloading behavior.

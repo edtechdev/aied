@@ -10,6 +10,7 @@ research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/duan-ai-anxiety-career-decisions-college-2026.md']
 confidence: high
+category: [well-being]
 ---
 
 > **Synthesis:** **AI anxiety and career decisions** — a structural equation modeling study of 315 Chinese college students (grounded in Career Construction Theory) showing that **AI anxiety directly and negatively predicts career decisions**, and also exerts an adverse indirect effect by undermining **career adaptability** — with the mediating effect accounting for **63.35% of the total effect**. However, the moderating effect of [[self-efficacy]] was insignificant, indicating limited buffering capacity.

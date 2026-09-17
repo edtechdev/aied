@@ -61,7 +61,7 @@ research_method: action design research | benchmark | bibliometric | case study 
 discipline: biology education | business education | chemistry education | cs education | design education | engineering education | english education | humanities education | information technology | language learning | learning analytics | learning sciences | math education | medical education | nursing education | physics education | science education | stem education | vocational education | writing education
 audience: administrators | assessment designers | assessment professionals | curriculum designers | designers | edtech designers | educators | faculty development | institutions | instructional designers | instructors | learners | learning analytics designers | learning designers | medical educators | policymakers | researchers | software developers | students | teacher educators | teachers
 level: adult learning | early childhood | elementary | higher ed | k 12 | secondary | special education | teacher training
-category: ai foundations | assessment | collaborative learning | curriculum design | design thinking | engagement | equity | evaluation | framework | instructional design | policy | synthesis
+category: ai foundations | assessment | collaborative learning | curriculum design | design thinking | engagement | equity | evaluation | framework | instructional design | policy | synthesis | well-being
 ```
 <!-- END GENERATED VOCABULARIES -->
 
