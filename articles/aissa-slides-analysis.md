@@ -9,6 +9,9 @@ level: [higher ed]
 
 sources: ['raw/papers/2605.04729.md']
 confidence: medium
+discipline: [engineering education]
+audience: [instructors, assessment designers, instructional designers]
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** A web-based system that uses [[llm|LLMs]] and [[learning-analytics|Learning Analytics]] dashboards to provide [[automated-assessment|automated, rubric-based feedback]] on student presentation slides. Developed by Becerra et al. (2026), AISSA addresses the scalability challenge of providing timely [[formative-assessment|formative feedback]] in large university courses.

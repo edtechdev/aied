@@ -4,9 +4,12 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, collaborative-learning, learning-analytics, student-ai-interaction, language-learning, intelligent-tutoring, metacognition]
-research_method: [mixed methods, experiment]
+research_method: [mixed methods, educational measurement]
 sources: ['raw/papers/2607.28651.md']
 confidence: high
+audience: [researchers, learning analytics designers]
+level: [higher ed]
+category: [evaluation, engagement]
 ---
 
 > **Synthesis:** This study applies an extended 7-point [[icap-framework|ICAP]] framework (Interactive, Constructive, Active, Passive) to characterize variation in cognitive [[student-engagement|engagement]] during collaborative [[problem-solving]], then compares how reliably trained human annotators versus [[llm]]-based labeling approaches — in-context learning (ICL), zero-shot prompting, and self-reflective agents — can code that engagement. Human interrater reliability was robust across framework-refinement stages (QWK = 0.906–0.998), far exceeding ICL-based annotation (QWK = 0.541–0.655). Crucially, the refinements that improved human agreement (ΔQWK = 0.10) gave only modest gains to LLMs (ΔQWK < 0.04), and ICL offered no advantage over zero-shot prompting. A novel self-reflective LLM agent reached substantial agent–agent agreement (QWK = 0.841) and independently revised the coding framework, but human–machine agreement remained moderate throughout.

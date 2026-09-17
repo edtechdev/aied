@@ -8,6 +8,8 @@ research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/ssho-ai-collab-learning-review.md']
 confidence: high
+audience: [educators, institutions, researchers]
+category: [synthesis, collaborative learning]
 ---
 
 > **Synthesis:** A [[meta-analysis-systematic-review|systematic review]] of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade

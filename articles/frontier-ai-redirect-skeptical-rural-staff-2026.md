@@ -6,6 +6,10 @@ type: article
 sources: ["raw/papers/frontier-ai-redirect-skeptical-rural-staff-2026.md"]
 tags: ["llm", "conversational-ai", "trust", "k-12", "human-in-the-loop-ai"]
 confidence: medium
+research_method: [benchmark, quantitative]
+audience: [administrators, policymakers, researchers]
+level: [k 12]
+category: [equity, evaluation]
 ---
 
 > **Synthesis:** This single-author algorithmic audit asks what happens when the very AI systems schools are encouraging staff to consult are themselves asked to advise skeptical users about whether to adopt AI. Ten frontier [[llm|LLMs]] from ten laboratories (OpenAI, Google, xAI, Anthropic, DeepSeek, Microsoft, Meta, Mistral AI, Alibaba, Amazon) each received a fixed persona prompt 500 times (5,000 responses at temperature 0.7) in which a rural Montana [[k-12]] administrative aide voices two concerns: that AI may threaten her job, and that the companies building it "do not have people like me in mind." All 5,000 responses were scored blind by a three-model, cross-family AI panel (Claude Opus 4.7, GPT-5, Gemma 4 26B) on a four-dimension rubric (concern acknowledgment, [[student-engagement|engagement]] redirection, closing stance, emotion relabeling) validated against researcher hand-scoring and five independent human raters.

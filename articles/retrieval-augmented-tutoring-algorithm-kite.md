@@ -4,10 +4,13 @@ created: "2026-05-16T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, scaffolding, formative-assessment, higher-ed, personalized-learning, socratic-method, rag, conversational-ai]
-research_method: [experiment]
+research_method: [system development, design and evaluation study]
 level: [higher ed]
 sources: ['raw/papers/2605.12988.md']
 confidence: high
+discipline: [cs education]
+audience: [instructors, designers, software developers]
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis:** KITE (Knowledge-Informed Tutoring Engine) introduces a [[intelligent-tutoring]] architecture that grounds its responses in course materials through a [[multimodal]] [[scaffolding|RAG pipeline]]. Unlike generic [[llm]] tutors that may drift from [[curriculum-design|curriculum]] content, KITE retrieves relevant material — lecture slides, problem sets, code examples — before generating Socratic hints, guiding questions, and progressive scaffolds tailored to the student's current error.

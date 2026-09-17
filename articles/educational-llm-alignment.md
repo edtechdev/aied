@@ -4,10 +4,13 @@ created: "2026-05-07T04:33:04-04:00"
 updated: "2026-09-16T15:49:45-04:00"
 type: article
 tags: [llm, benchmark, bias-mitigation, teacher-role, pedagogical-llm-training, educational-development, ai-literacy, ethics]
-research_method: [benchmark, experiment]
+research_method: [educational measurement, benchmark]
 audience: [researchers, instructors, software developers]
 sources: ['raw/papers/hardy-knowledge-without-wisdom-llm-misalignment-2026.md']
 confidence: medium
+discipline: [math education]
+level: [elementary, k 12]
+category: [evaluation, assessment]
 ---
 
 > **Synthesis:** The gap between what LLMs are *capable* of and what actually *benefits learners* — benchmark performance, downstream task quality, and intended educational impact are three distinct and often-misaligned levels.

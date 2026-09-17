@@ -8,6 +8,7 @@ audience: [software developers]
 research_method: [benchmark]
 sources: ['raw/papers/caeai-fair-recommendations.md']
 confidence: medium
+category: [equity, evaluation]
 ---
 
 > **Synthesis:** Fair and explainable educational recommendations with a hybrid Graph-GRU framework

@@ -7,6 +7,8 @@ tags: [personalized-learning, adaptive-learning, intelligent-tutoring, llm, gene
 research_method: [systematic review]
 sources: ['raw/papers/khalifeh-redefining-personalized-learning-ai-2026.md']
 confidence: high
+audience: [researchers, designers]
+category: [framework, synthesis]
 ---
 
 > **Synthesis:** Khalifeh, Santiago, and Palau (2026) [[meta-analysis-systematic-review|systematically review]] how AI is redefining **personalized learning** (PL) terminology from 2019–2025 across six databases. They find that PL remains a broad, conceptually ambiguous umbrella term — with adaptive learning, individualized instruction, and customized learning used interchangeably — and argue that AI-driven real-time feedback, adaptive sequencing, and intelligent tutoring have transformed PL in ways that demand a **unified framework and definition**. They also identify persistent research gaps: a disproportionate focus on older learners, limited longitudinal/inclusive/methodologically rigorous research, and insufficient attention to privacy, bias, [[ethics]], teacher preparation, and human–AI collaboration.

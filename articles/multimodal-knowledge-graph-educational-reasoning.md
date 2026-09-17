@@ -4,9 +4,12 @@ created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T10:00:00-04:00"
 type: article
 tags: [multimodal, ai-education, knowledge-graph, knowledge-tracing, student-modeling, generative-ai, adaptive-learning]
-research_method: [literature review]
+research_method: [system development]
 sources: ['raw/papers/2608.03161v1.md']
 confidence: high
+audience: [software developers, researchers]
+level: [higher ed]
+category: [ai foundations, instructional design]
 ---
 
 > **Synthesis:** This paper introduces an evidence-grounded [[multimodal]] pipeline that constructs provenance-rich [[knowledge-graph|knowledge graphs]] from [[video-education|lecture videos]] by integrating speech transcripts, slide OCR, and vision-language model analysis. Processing three neural-network lectures, the pipeline extracted 172 canonical concepts and 282 typed relationships with 90.38% endpoint coverage, achieving perfect retrieval accuracy on a preliminary test. The approach addresses a key challenge in [[ai-education|educational AI]]: converting rich multimodal lecture content into structured, queryable knowledge representations without losing the evidential provenance that makes them trustworthy.

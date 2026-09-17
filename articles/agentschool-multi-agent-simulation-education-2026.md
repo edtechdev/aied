@@ -8,6 +8,7 @@ audience: [software developers]
 research_method: [system development]
 sources: ['raw/papers/2605.30144.md']
 confidence: high
+category: [framework, evaluation]
 ---
 
 > **Synthesis:** Ye et al. (2026) introduce **AgentSchool**, an LLM-driven multi-agent [[simulating-students|simulator]] that models learning as **state transition rather than prompted behavior**. It couples cognitively growable [[student-modeling|student agents]] — equipped with weighted [[knowledge-graph|subject knowledge graphs]], thinking-workflow pools, and explicit [[misconceptions]] — with adaptive [[intelligent-tutoring|teacher agents]] that plan, [[scaffolding|scaffold]], and reflect along the [[sociocultural-learning|Zone of Proximal Development]], embedded in a configurable scenery generator and a multi-scale [[simulation|simulator]]. Across a 2×3 controlled lesson study on five backbone [[llm|LLMs]], structured student agents produce more differentiated mastery and misconception traces than a baseline simulator, while the system generates plausible classroom social dynamics ([[sociocultural-learning|peripheral participation]], clique formation, opinion-leader emergence). AgentSchool is framed both as a computational "wind tunnel" for validating [[ai-ed-evaluation|educational AI]] before real-classroom deployment and as a socially meaningful testbed for long-horizon memory and multi-agent coordination.

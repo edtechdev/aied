@@ -8,6 +8,8 @@ audience: [software developers]
 research_method: [system development, experiment]
 sources: ['raw/papers/2607.12235.md']
 confidence: medium
+level: [secondary]
+category: [instructional design, engagement]
 ---
 
 > **Synthesis:** This study presents a three-stage, human-in-the-loop pipeline in which LLMs generate slides and TTS-optimized narration (including an Expert-×-Novice dialogue format inspired by cognitive apprenticeship) while educators retain review authority at each stage. In a classroom quasi-experiment with 245 first-year high school students, replacing instructor voice with TTS audio did not degrade the core learning experience, and the dialogue format was rated significantly higher than single-speaker TTS on comprehension, cognitive engagement, and preference — at the cost of less natural audio.

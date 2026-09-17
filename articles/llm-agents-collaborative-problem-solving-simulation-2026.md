@@ -7,6 +7,10 @@ sources: ["raw/papers/llm-agents-collaborative-problem-solving-simulation-2026.m
 tags: ["llm", "agentic-ai", "problem-solving", "network-analysis", "simulating-students", "learning-analytics"]
 connected_faqs: [group-work-ai]
 confidence: medium
+research_method: [system development, benchmark]
+discipline: [learning analytics]
+audience: [researchers, learning analytics designers, edtech designers]
+category: [collaborative learning, framework]
 ---
 
 > **Synthesis:** Fang presents a framework for simulating [[problem-solving|collaborative problem solving]] (CPS) by fine-tuning large language model (LLM) agents to represent individual human participants. Each agent is personalized on real participant dialogue via parameter-efficient fine-tuning (LoRA/QLoRA) of the [[open-source]] LLaMA 3.2–3B model, capturing individual speaking style and thematic patterns, and the agents then interact in decentralised multi-agent dialogues with a memory mechanism and probabilistic turn-taking. The fidelity of these [[simulating-students|simulations]] is validated with [[network-analysis|Epistemic Network Analysis]] (ENA), a [[learning-analytics]] tool that compares the structural co-occurrence of thematic codes between real and simulated dialogues, demonstrating that participant-specific [[agentic-ai|LLM agents]] can reproduce realistic collaborative discourse.

@@ -9,6 +9,8 @@ audience: [instructors]
 
 sources: ['raw/papers/10.3389_fpsyg.2026.1844841.md']
 confidence: medium
+discipline: [humanities education]
+category: [framework, evaluation]
 ---
 
 > **Synthesis:** Li (2026) presents a conceptual Perspective arguing that AI-assisted vocal pedagogy should be evaluated not by how precisely AI measures vocal output (pitch, stability, timing) but by how AI-generated evidence becomes meaningful for human learning — how learners interpret feedback, regulate practice, sustain motivation, and develop trust in teacher-guided processes. The article proposes a three-level framework linking technical adaptation, human learning processes, and educational outcomes, with effectiveness, equity, and [[sustainability]] as outcome criteria. It concludes that AI should not be positioned as an autonomous evaluator of singing quality, but as a human-centered support for interpretation, reflection, teacher–student dialogue, and pedagogically responsible decision-making.

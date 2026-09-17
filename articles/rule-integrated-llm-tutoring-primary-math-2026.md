@@ -6,6 +6,11 @@ type: article
 sources: ["raw/papers/rule-integrated-llm-tutoring-primary-math-2026.md"]
 tags: ["intelligent-tutoring", "guardrails", "scaffolding", "prompt-engineering", "math-education", "llm"]
 confidence: medium
+research_method: [system development, design-based research, user study]
+discipline: [math education]
+audience: [edtech designers, software developers, educators]
+level: [elementary]
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis:** This design science [[research-methods-aied|research]] (DSR) develops a rule-guided [[llm|LLM]] tutoring system for primary-school mathematical word problems, addressing the inconsistency and [[pedagogy|pedagogical]] opacity of unconstrained [[intelligent-tutoring|intelligent tutors]] in a procedural domain where correctness is governed by deterministic rules. The artifact formalizes a distinction between *rule-guided scaffolding*, governed by a three-layer architecture (diagnosis → intent selection → constrained response generation), and *ad-hoc scaffolding*, where helpful moves are difficult to audit and replicate. The system constrains stochastic variability through explicit [[guardrails]] while embedding [[scaffolding]] theory, evaluated through a staged DSR approach spanning persona-based simulated dialogues and a real classroom pilot. Findings show rule-guided scaffolding improves interactional consistency, reduces premature answer-giving, and sustains [[student-engagement|cognitive engagement]] — while revealing interactional complexities that only authentic classrooms expose.

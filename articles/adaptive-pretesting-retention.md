@@ -9,6 +9,8 @@ research_method: [randomized controlled trial, learning analytics]
 level: [higher ed]
 sources: ['raw/papers/2606.22328.md']
 confidence: medium
+audience: [instructors, instructional designers]
+category: [instructional design, engagement]
 ---
 
 > **Synthesis:** Akgun and Toker (2026) ask whether the initial boost from GenAI-enabled adaptive pretesting survives to the end of the semester, and answer that it depends almost entirely on how the AI is structured to behave afterward. In a three-arm randomized study with 89 undergraduates, adaptive spaced retrieval practice produced the highest posttest scores (M = 78.19) and the highest observed practice effort (M = 0.85), both significantly ahead of learner-directed AI study (M = 67.28 and 0.49). The transferable claim is that adaptive pretesting acts as a front-loaded catalyst rather than a stand-alone intervention: it is a [[productive-failure|productive struggle]] setup, and its benefits attenuate when AI access is configured as open-ended help instead of enforced retrieval.

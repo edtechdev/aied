@@ -9,6 +9,9 @@ research_method: [benchmark]
 
 sources: ['raw/papers/2601.21375.md']
 confidence: high
+discipline: [math education, physics education, chemistry education]
+level: [secondary]
+category: [evaluation, assessment]
 ---
 
 > **Synthesis:** While LLMs are increasingly used as [[teacher-role|teaching]] assistants, their teaching capability remains insufficiently evaluated — a critical gap in current [[ai-education|AIED]] [[research-methods-aied|research]].

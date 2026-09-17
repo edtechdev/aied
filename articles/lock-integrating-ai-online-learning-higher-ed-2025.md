@@ -6,6 +6,10 @@ type: article
 tags: [online-teaching-and-learning, higher-ed, ai-literacy, generative-ai, personalized-learning, equity-in-ai-education, ai-ed-evaluation, privacy, self-regulated-learning, academic-integrity]
 sources: ['raw/papers/lock-integrating-ai-online-learning-higher-ed-2025.md']
 confidence: high
+research_method: [literature review, thematic analysis]
+audience: [institutions, instructors, policymakers]
+level: [higher ed]
+category: [synthesis, policy, equity]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

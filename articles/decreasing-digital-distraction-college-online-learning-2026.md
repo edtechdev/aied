@@ -6,6 +6,10 @@ type: article
 tags: [self-regulated-learning, higher-ed, student-engagement, learning-analytics, motivation, digital-divide]
 sources: ['raw/papers/2609.04125.md']
 confidence: high
+research_method: [learning analytics, survey]
+audience: [educators, instructional designers]
+level: [higher ed]
+category: [engagement, instructional design]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

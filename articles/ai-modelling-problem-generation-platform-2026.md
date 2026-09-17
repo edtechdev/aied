@@ -6,6 +6,11 @@ type: article
 sources: ["raw/papers/ai-modelling-problem-generation-platform-2026.md"]
 tags: ["math-education", "generative-ai", "learning-design", "curriculum-design", "intelligent-tutoring"]
 confidence: medium
+research_method: [system development, mixed methods, case study]
+discipline: [math education]
+audience: [teachers, curriculum designers, instructional designers]
+level: [secondary]
+category: [instructional design, curriculum design]
 ---
 
 > **Synthesis:** This study reports the design, development, and evaluation of an AI-powered platform that generates mathematical modeling problems and accompanying [[pedagogy|pedagogical]] recommendations for secondary school mathematics. The work addresses two practical gaps: teachers' shortage of suitable modeling resources and the tendency of existing [[generative-ai]] tools to produce conventional word problems or routine exercises rather than application-oriented tasks that build modeling competencies. The platform is grounded in the ADDIE (Analysis, Design, Development, Implementation, Evaluation) instructional-design model and combines seven established design principles for mathematical modeling instruction with [[rag|retrieval-augmented generation]] over expert-crafted exemplar tasks. The topic of direct variation served as an accessible case for an in-depth mixed-methods case study ([[mixed-methods-research]]).

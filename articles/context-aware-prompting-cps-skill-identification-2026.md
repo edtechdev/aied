@@ -6,6 +6,9 @@ type: article
 sources: ["raw/papers/context-aware-prompting-cps-skill-identification-2026.md"]
 tags: ["problem-solving", "collaborative-learning", "prompt-engineering", "learning-analytics", "educational-measurement"]
 confidence: medium
+research_method: [educational measurement, benchmark]
+audience: [assessment professionals, learning analytics designers, researchers]
+category: [assessment, collaborative learning]
 ---
 
 > **Synthesis:** Collaborative problem solving (CPS) is a dual-faceted [[problem-solving]] competence spanning a cognitive dimension (individual reasoning about the problem) and a social dimension (coordinating and communicating with others). To assess CPS, [[research-methods-aied|researchers]] typically collect process data from computer-mediated [[collaborative-learning]] tasks and code each logged behavior into predefined CPS skills. Traditional manual coding is labor-intensive and unsuitable for large-scale or real-time analysis, prompting a body of automated coding work. However, most existing automated methods treat each utterance as an isolated instance and overlook the natural dependencies among behaviors in a CPS dialogue — yet the same message can map to different skills depending on context (e.g., "What should we do?" is coded as goal discovery or action-communication depending on the conversation phase).

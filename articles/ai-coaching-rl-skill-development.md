@@ -7,6 +7,8 @@ tags: [intelligent-tutoring, personalized-learning, scaffolding, adaptive-learni
 research_method: [system development, experiment]
 sources: ['raw/papers/2606.25337.md']
 confidence: medium
+audience: [instructional designers, researchers]
+category: [instructional design, framework]
 ---
 
 > **Synthesis:** This paper explores how an [[embodied-learning|embodied]] [[agentic-ai|AI agent]] can act as a [[scaffolding|coach]] that accelerates human motor-skill development using [[adaptive-learning|reinforcement learning]]. The authors argue that effective coaching requires dynamically balancing guidance with learner autonomy — too much assistance leads to [[cognitive-offloading|Over-Reliance]] and skill atrophy, while too little leaves learners struggling.

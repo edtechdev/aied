@@ -8,6 +8,8 @@ audience: [software developers]
 research_method: [system development, benchmark]
 sources: ['raw/papers/10.1145_3770855.3817769.md']
 confidence: high
+level: [higher ed]
+category: [framework, assessment]
 ---
 
 > **Synthesis:** Xie, Yang, Zhang, Li, Wang, Yang & Gao (2026) propose HiLLM-CD, a tree-structured framework for cognitive diagnosis that represents student proficiency as node-wise values on a concept tree, enabling coarse-to-fine diagnosis. A multi-agent [[llm]] pipeline eliminates the need for expert annotations by automatically generating concept trees and exercise-concept links from educational text. Evaluated on MOOCCubeX across four subjects, HiLLM-CD improves response prediction by 11.1% AUC and proficiency reliability by 0.597 Kendall's τ under fully unannotated settings.

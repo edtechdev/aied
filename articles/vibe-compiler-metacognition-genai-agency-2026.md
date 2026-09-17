@@ -7,6 +7,8 @@ tags: [metacognition, generative-ai, critical-thinking, cognitive-offloading, hu
 research_method: [theoretical analysis]
 sources: ['raw/papers/2608.05545.md']
 confidence: medium
+audience: [researchers, instructional designers]
+category: [instructional design, framework]
 ---
 
 > **Synthesis:** This paper introduces the Synthesis-Analysis Reciprocity Model and the Vibe Compiler tool to preserve human epistemic agency during GenAI-assisted intellectual work. The model frames intellectual construction as a reciprocal interaction between Synthesis (combining components into a whole) and Analysis (decomposing a whole into components), arguing that over-reliance on AI for synthesis erodes [[metacognition|metacognitive]] capacity. Vibe Compiler implements this model by requiring users to externalise their reasoning structure — specifying components, relationships, and constraints — before AI generates any output. In preliminary trials, the tool improved users' ability to articulate, critique, and refine AI-generated reasoning, suggesting that structured metacognitive [[scaffolding]] can mitigate the cognitive offloading risks identified in [[cognitive-offloading|Over-Reliance]] research.

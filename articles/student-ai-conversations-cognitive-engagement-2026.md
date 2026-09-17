@@ -6,6 +6,10 @@ type: article
 sources: ["raw/papers/student-ai-conversations-cognitive-engagement-2026.md"]
 tags: ["student-ai-interaction", "student-engagement", "generative-ai", "critical-thinking", "higher-ed", "prompt-engineering"]
 confidence: medium
+research_method: [learning analytics, quantitative, educational measurement]
+audience: [researchers, edtech designers]
+level: [higher ed]
+category: [engagement]
 ---
 
 > **Synthesis:** This paper proposes a "Chat as Learning" measurement paradigm that treats student prompts to AI [[teacher-role|teaching]] assistants as observable externalisations of in-progress learning cognition, complementing outcome-based assessment with a process-level signal. Analyzing over 60,000 student messages from 116 courses across four universities (Semesters 3 and 4 of the Uedu platform), the authors combine automated Bloom's Taxonomy classification with a within-person, cross-discipline design in which the same students serve as their own controls across courses in different disciplines. The findings show that [[student-ai-interaction]] reflects discipline-associated cognitive engagement patterns rather than fixed individual traits, with implications for how [[generative-ai]] teaching assistants should be designed and evaluated in [[higher-ed]].
