@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-09-17T02:43:50-04:00"
+updated: "2026-09-17T14:13:57-04:00"
 type: concept
 tags: [engineering-education, stem-education, ai-literacy, educational-development, professional-training, assessment, ethics, higher-ed]
 foundations: [ai-literacy, educational-development]
@@ -27,7 +27,7 @@ confidence: high
 
 ## Introduction
 
-Engineering education research is distinctive because it sits at the intersection of professional formation and rigorous STEM content. It emphasizes [[design-thinking|design]], problem-solving, hands-on and laboratory learning, teamwork, and preparing graduates for professional practice. AI raises distinctive questions here: whether hands-on and embodied experience still matters when AI can simulate or automate design tasks; the professional and ethical stakes of AI use (engineers' decisions affect public safety, infrastructure, and [[sustainability]]); and how AI reshapes the competencies graduates need and the workforce they enter.
+Engineering education research is distinctive because it sits at the intersection of professional formation and rigorous STEM content. It emphasizes [[design-thinking|design]], problem-solving, hands-on and laboratory learning, teamwork, and preparing graduates for professional practice. Design is also the ground it shares with [[design-education]], and the two divide it by what can be checked: engineering's assessed object admits calculable artifacts and carries public-safety accountability, while design education's is the studio process behind the artifact — sketch, iteration, critique — the very evidence generative tools can now produce without the process that once generated it. AI raises distinctive questions here: whether hands-on and embodied experience still matters when AI can simulate or automate design tasks; the professional and ethical stakes of AI use (engineers' decisions affect public safety, infrastructure, and [[sustainability]]); and how AI reshapes the competencies graduates need and the workforce they enter.
 
 ## How AI appears in the knowledge base's engineering education research
 
@@ -48,7 +48,7 @@ Engineering education sits within [[stem-education]] and connects strongly to [[
 
 ## Under-covered sub-areas
 
-The knowledge base's engineering education coverage is still developing. Sub-areas that would benefit from further articles include **[[discipline-specific-aied|discipline-specific]] engineering [[pedagogy|pedagogies]]** (mechanical, civil, chemical, electrical, software, and bioengineering education), **design and maker education**, **capstone and [[project-based-learning|project-based learning]]**, and **engineering ethics education** — where AI's role is likely to be especially consequential.
+The knowledge base's engineering education coverage is still developing. Sub-areas that would benefit from further articles include **[[discipline-specific-aied|discipline-specific]] engineering [[pedagogy|pedagogies]]** (mechanical, civil, chemical, electrical, software, and bioengineering education), **[[design-education|design]] and maker education**, **capstone and [[project-based-learning|project-based learning]]**, and **engineering ethics education** — where AI's role is likely to be especially consequential.
 
 ## Implications for engineering instructors
 
@@ -63,6 +63,7 @@ The knowledge base's engineering education coverage is still developing. Sub-are
 - [[problem-based-learning]]
 - [[stem-education]]
 - [[cs-education]]
+- [[design-education]]
 - [[math-education]]
 - [[physics-education]]
 - [[professional-training]]

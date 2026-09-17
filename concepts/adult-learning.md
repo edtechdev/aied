@@ -1,7 +1,7 @@
 ---
 title: Adult Learners
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-09-10T04:58:13-04:00"
+updated: "2026-09-17T14:18:00-04:00"
 type: concept
 tags: [adult-learning, learning-design, ai-education, usability-research, edtech-platform, higher-ed, professional-training]
 foundations: [ai-education, learning-design]
@@ -37,7 +37,7 @@ Rooted in Knowles's andragogical model, adult learning assumes learners are self
 
 ## Connections to related concepts
 
-Adult learning sits at the intersection of several closely linked concepts in this knowledge base. [[higher-ed]] supplies the institutional context in which much adult and distance learning occurs, while [[professional-training]] covers its workforce and [[lifelong-learning]] its continuous-education dimension. [[online-teaching-and-learning|Online teaching and learning]] is the dominant delivery medium for adult learners — who often study at work or at home — so its affordances (24/7 access, asynchronous support) and risks ([[academic-integrity|integrity]], [[cognitive-offloading|offloading]]) are central to adult-learning design. [[self-regulated-learning]] and [[agency]] name the learner capacities that AI must protect rather than erode, and [[cognitive-offloading]] captures the mechanism by which AI can either support or undermine them. [[inclusive-learning]] and [[equity-in-ai-education]] frame the equity obligations of adult AI tools, [[human-in-the-loop-ai]] names the design pattern that keeps humans accountable, and [[scaffolding]] describes the graduated support such tools should provide.
+Adult learning sits at the intersection of several closely linked concepts in this knowledge base. [[higher-ed]] supplies the institutional context in which much adult and distance learning occurs, while [[professional-training]] covers its workforce and [[lifelong-learning]] its continuous-education dimension. [[vocational-education|Vocational education and training]] is the neighbour that names an occupation rather than a learner: adult learning describes what learners bring to any context — self-direction, prior experience, immediate practical goals — whereas VET names initial, practice-proximal preparation for a named trade or technical role, judged by demonstrated competence with equipment and framed by qualification frameworks rather than by andragogical dispositions. [[online-teaching-and-learning|Online teaching and learning]] is the dominant delivery medium for adult learners — who often study at work or at home — so its affordances (24/7 access, asynchronous support) and risks ([[academic-integrity|integrity]], [[cognitive-offloading|offloading]]) are central to adult-learning design. [[self-regulated-learning]] and [[agency]] name the learner capacities that AI must protect rather than erode, and [[cognitive-offloading]] captures the mechanism by which AI can either support or undermine them. [[inclusive-learning]] and [[equity-in-ai-education]] frame the equity obligations of adult AI tools, [[human-in-the-loop-ai]] names the design pattern that keeps humans accountable, and [[scaffolding]] describes the graduated support such tools should provide.
 
 ## Implications for adult-education instructors and designers
 
@@ -57,6 +57,7 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[higher-ed]]
 - [[professional-training]]
+- [[vocational-education]]
 - [[lifelong-learning]]
 - [[inclusive-learning]]
 - [[agency]]

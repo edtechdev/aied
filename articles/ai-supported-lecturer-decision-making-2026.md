@@ -7,7 +7,6 @@ technology: [learning-analytics]
 assessment: [assessment, feedback]
 sources: ['raw/papers/ai-supported-lecturer-decision-making-2026.md']
 confidence: high
-discipline: [learning analytics]
 research_method: [systematic review, qualitative]
 audience: [instructors, researchers, administrators, learning designers]
 level: [higher ed]

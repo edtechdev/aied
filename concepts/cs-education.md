@@ -1,7 +1,7 @@
 ---
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T14:13:57-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, cs-education]
 foundations: [ai-literacy, computational-thinking]
@@ -87,7 +87,7 @@ Because programming is where AI assistance is most powerful, it is also where th
 
 ### Connections
 
-CS education connects to [[computational-thinking]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where [[ai-education|AIED]] tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
+CS education connects to [[computational-thinking]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. Its closest applied neighbour is [[information-technology]]: CS education takes the program and the algorithm as its object, whereas IT education takes the deployed organizational system and the practitioner's judgment about it — which is why the two fields debate different AI harms, whether code generation erodes programming skill against whether AI troubleshooting erodes diagnostic skill, and ask different questions of their graduates, whether they can build a system against whether they can govern the systems they administer. It is the domain where [[ai-education|AIED]] tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
 
 **A 72-study synthesis and the VIE framework.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong (2026)]] reviewed the empirical literature on generative AI in computing and programming education (January 2022 – April 2026, 72 studies, 33 venues) and foreground exactly the structural feature that makes the discipline distinctive: the AI generates the assessable artifact itself, so using the tool, learning the skill and being assessed collapse into one keystroke. Their synthesis of 14 themes finds the field's most replicated effect — short-term efficiency and completion gains (36 studies) — is also its most misleading: those gains do not transfer to unaided performance (21 studies), and [[prior-knowledge|prior knowledge]] moderates whether assistance becomes durable skill or a crutch. Detection research is thin (3 studies) while course redesign is comparatively well evidenced (25 studies), and the review consolidates the corpus into three interdependent design requirements — Verification, Implementation and Equity — where critical engagement with AI output must be a graded, observable component of student work rather than an aspiration left to student discretion ([[scaffolding]], [[assessment-validity]]).
 
@@ -107,6 +107,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[computational-thinking]]
 - [[vibe-coding]]
 - [[stem-education]]
+- [[information-technology]]
 - [[automated-assessment]]
 - [[prompt-engineering]]
 - [[ai-literacy]]
