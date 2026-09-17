@@ -6,6 +6,11 @@ type: article
 tags: [generative-ai, medical-education, sociocultural-learning, metacognition, cognitive-offloading, human-in-the-loop-ai, intelligent-tutoring, trust-calibration, ai-education, assessment]
 sources: ['raw/papers/2608.28373.md']
 confidence: high
+research_method: [theoretical analysis]
+discipline: [medical education]
+audience: [medical educators, curriculum designers, educators]
+level: [higher ed]
+category: [framework, curriculum design, assessment]
 ---
 
 > **Synthesis:** Tsim et al. (2026) propose a conceptual reframing of AI integration in [[medical-education]]: the problem is not learner *misuse* of generative AI but *misclassification* — a mechanistic failure of real-time [[metacognition|metacognitive]] evaluation in selecting a subzone-inappropriate [[student-ai-interaction|AI interaction]] mode. They introduce the SCAN framework (Substitute, Complement, Aid, Non-Negotiable), a human-centric decision scheme for generative AI task allocation grounded in Vygotsky's Zone of Proximal Development and [[metacognition]]. The account yields testable predictions about how misclassification can be detected, mitigated, and prevented in the clinical learning environment, and it reframes skill acquisition (upskilling) and failure (de-skilling, never-skilling, mis-skilling) at the individual task level rather than via fixed-phase, cohort-wide treatments.

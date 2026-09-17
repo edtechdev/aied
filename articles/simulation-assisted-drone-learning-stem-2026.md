@@ -6,6 +6,11 @@ type: article
 sources: ["raw/papers/simulation-assisted-drone-learning-stem-2026.md"]
 tags: ["simulation", "stem-education", "generative-ai", "intelligent-tutoring", "teacher-role"]
 confidence: medium
+research_method: [quasi-experiment, mixed methods]
+discipline: [stem education]
+audience: [educators, curriculum designers, instructional designers]
+level: [secondary]
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis:** This quasi-experimental study investigates whether drone-based STEM instruction supported by teacher-AI co-designed simulations yields superior [[learning-gains|learning outcomes]] to the same hands-on drone curriculum delivered without simulations. It responds to a persistent challenge in drone-based STEM education ("dronagogy"): the scarcity of teacher-verified, curriculum-aligned interactive simulations, and the tendency of GenAI-produced resources to lack [[pedagogy|pedagogical]] validity. Using a pretest–posttest control group design with 30 secondary students (aged 13–17, Grades 8–11) in an eight-lesson after-school enrichment program, the study compared a Simulation-Assisted Group (SA-Group, n = 14) that additionally engaged with five interactive simulations against a Drone-Only Group (DO-Group, n = 16) that completed non-simulation versions of the same lessons. Both groups shared the same instructor, DJI Tello drone platform, hands-on tasks, and [[assessment|assessments]], differing only in the form of scaffolding.

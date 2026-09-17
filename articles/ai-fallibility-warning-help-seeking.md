@@ -8,6 +8,9 @@ research_method: [experiment]
 audience: [learners]
 sources: ['raw/papers/2606.03822.md']
 confidence: medium
+discipline: [math education]
+level: [k 12]
+category: [ai foundations, engagement]
 ---
 
 > **Synthesis:** This study tests whether a simple transparency intervention that warns students an AI [[pedagogical-agent|pedagogical agent]] may make mistakes affects learner behavior in a math [[intelligent-tutoring|intelligent tutoring system]]. In a classroom experiment with 252 school students, those warned about potential AI errors requested significantly more hints than a control group, even though system behavior was identical — showing that lightweight transparency interventions can influence learners' interaction strategies, with implications for [[trust-calibration|trust calibration]] and [[help-seeking]] in AI-supported learning.

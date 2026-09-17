@@ -7,6 +7,8 @@ tags: [refutation-text, misconceptions, intelligent-tutoring, generative-ai, cog
 research_method: [experiment]
 sources: ['raw/papers/10.1016_j.chb.2025.108828.md']
 confidence: high
+audience: [educators, instructional designers, researchers]
+category: [instructional design, engagement]
 ---
 
 > **Synthesis:** Corbett & Tangen (2026) test whether personalized AI dialogue can correct deeply held misconceptions ("tenacious myths") in psychology and education. In a preregistered experiment (N = 375), participants holding strong misconceptions engaged in one of three interventions: personalized **Misconception AI Dialogue** targeting their specific belief, generic **Textbook-style Refutation** (a refutation text), or **Neutral AI Dialogue** (control). Personalized Misconception AI Dialogue produced significantly larger immediate belief reductions than both Textbook Refutation and Neutral AI Dialogue; this advantage persisted at 10-day follow-up but diminished by 2 months, where Misconception AI Dialogue and Textbook Refutation converged while both remained superior to control. Both AI conditions generated significantly higher [[student-engagement|engagement]] and confidence than Textbook Refutation reading, showing the [[motivation|motivational]] benefits of conversational interaction.

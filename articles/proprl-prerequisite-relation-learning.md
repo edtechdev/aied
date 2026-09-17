@@ -4,9 +4,12 @@ created: "2026-08-09T07:09:19-04:00"
 updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [adaptive-learning, knowledge-tracing, student-modeling, ai-education, personalized-learning, llm]
-research_method: [literature review]
+research_method: [system development]
 sources: ['raw/papers/2608.03006v1.md']
 confidence: high
+audience: [researchers, software developers]
+level: [higher ed]
+category: [instructional design, framework]
 ---
 
 > **Synthesis:** ProPRL advances [[adaptive-learning|prerequisite relation learning]] by going beyond conventional link prediction to adaptively integrate complementary educational evidence from concept-resource hypergraphs and directed learning-behavior graphs. The Irreversibility Constraint — an anti-symmetry regularizer that penalizes contradictory bidirectional predictions — addresses a fundamental issue in [[knowledge-tracing|educational knowledge graphs]]: the asymmetry of prerequisite relationships. Experiments on multiple real-world educational datasets demonstrate state-of-the-art performance, with ablations confirming that multi-hop behavioral propagation, pair-conditioned fusion, and directional regularization each contribute to the gains.

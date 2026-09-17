@@ -4,9 +4,11 @@ created: "2026-07-28T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [affective-computing, human-in-the-loop-ai, learning-analytics, affective-tutoring, llm, problem-solving]
-research_method: [learning analytics, survey]
+research_method: [learning analytics]
 sources: ['raw/papers/2607.23317.md']
 confidence: high
+audience: [researchers, learning analytics designers]
+category: [collaborative learning, engagement]
 ---
 
 > **Synthesis:** Anindho, Venkatesha, Ocumpaugh and Blanchard apply Ordered [[network-analysis|Network Analysis]] to trace how epistemic emotions such as confusion and frustration persist and transition during co-[[situated-learning|situated]] collaborative [[problem-solving|problem solving]]. The work advances affect-aware [[learning-analytics|learning analytics]] by modeling the temporal ordering of emotional states rather than static frequencies, informing when interventions should trigger in [[affective-tutoring]] systems and [[multimodal]] detectors like [[multimodal-affective-its-presentation]]. It grounds affect dynamics in [[collaborative-learning]] contexts, complements sensor-based approaches like [[affective-text-wearable-student-health]] and video-based [[engagement-assessment-video]].

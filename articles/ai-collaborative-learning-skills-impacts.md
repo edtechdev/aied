@@ -8,6 +8,8 @@ research_method: [mixed methods]
 level: [higher ed]
 sources: ['raw/papers/jerap-ai-collab-skills.md']
 confidence: high
+audience: [educators, instructional designers]
+category: [collaborative learning, engagement]
 ---
 
 > **Synthesis:** Artificial Intelligence and Collaborative Learning: Impacts on [[creativity]], Critical Thinking, and [[problem-solving]]

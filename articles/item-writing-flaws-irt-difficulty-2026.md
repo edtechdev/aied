@@ -6,6 +6,10 @@ type: article
 sources: ["raw/papers/item-writing-flaws-irt-difficulty-2026.md"]
 tags: ['item-response-theory', 'educational-measurement', 'llm', 'automated-assessment', 'assessment-validity']
 confidence: medium
+research_method: [educational measurement]
+discipline: [stem education]
+audience: [assessment professionals, assessment designers, researchers]
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** Schmucker and Moore examine whether **Item-Writing Flaw (IWF) rubrics** — a domain-general, textual approach to evaluating test items without student data — have predictive validity for empirical Item Response Theory (IRT) parameters. Traditional validation relies on resource-intensive pilot testing; IWF rubrics offer a scalable pre-deployment alternative. The study analyzes **7,126 multiple-choice questions across [[stem-education|STEM]] subjects** (physical science, [[math-education|mathematics]], life/earth sciences), using an automated approach (including LLM-based coding) to annotate items.

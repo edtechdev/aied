@@ -4,10 +4,12 @@ created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [ai-education, k-12, equity-in-ai-education, simulation, meta-analysis-systematic-review, educational-policy-ai, learning-analytics]
-research_method: [systematic review]
+research_method: [system development, case study]
 level: [k 12]
 sources: ['raw/papers/2608.05427v1.md']
 confidence: high
+audience: [policymakers, administrators, institutions]
+category: [policy, framework]
 ---
 
 > **Synthesis:** This paper develops an optimization framework for school network reorganization that integrates geographic, administrative, and educational criteria into an Integer Linear Programming formulation. Applied to the complete public school network of Calabria, Italy, and extended to a hybrid quantum optimization setting, the approach identifies optimal school aggregation plans under different policy scenarios while preserving [[equity-in-ai-education]] and accessibility. The framework serves as a decision-support tool for sustainable educational planning in the era of [[ai-education|AI-enhanced operations research]].

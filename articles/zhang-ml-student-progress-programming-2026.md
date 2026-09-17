@@ -6,6 +6,11 @@ type: article
 tags: [cs-education, learning-analytics, machine-learning, student-modeling, online-teaching-and-learning, k-12]
 sources: ['raw/papers/zhang-ml-student-progress-programming-2026.md']
 confidence: high
+research_method: [benchmark, learning analytics]
+discipline: [cs education]
+audience: [learning analytics designers, instructors, educators]
+level: [k 12]
+category: [evaluation, engagement]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

@@ -7,6 +7,8 @@ tags: [llm, personalized-learning, adaptive-learning, intelligent-tutoring, gene
 research_method: [theoretical analysis]
 sources: ['raw/papers/nie-personavlm-long-term-personalization-2026.md']
 confidence: medium
+audience: [researchers, edtech designers]
+category: [framework, ai foundations]
 ---
 
 > **Synthesis:** Current AI tutoring systems treat each session as independent. [[adaptive-learning|Adaptive systems]] use real-time [[knowledge-tracing|knowledge tracing]] (e.g., [[huang-interpretable-knowledge-tracing-2026|IRT-based models]]) but rarely retain a longitudinal [[student-modeling|student model]] that evolves across semesters. Longitudinal [[personalized-learning|personalization]] is essential for effective [[scaffolding]] because:

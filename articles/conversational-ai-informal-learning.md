@@ -8,6 +8,8 @@ research_method: [survey]
 audience: [learners]
 sources: ['raw/papers/caeai-conversational-ai-informal.md']
 confidence: medium
+level: [adult learning]
+category: [engagement, instructional design]
 ---
 
 > **Synthesis:** [[conversational-ai|Conversational AI]] as a catalyst for informal learning: An empirical large-scale study on [[llm]] use in everyday learning

@@ -7,6 +7,8 @@ tags: [cognitive-diagnosis, personalized-learning, adaptive-learning, learning-a
 research_method: [system development, experiment]
 sources: ['raw/papers/bayesian-cognitive-diagnosis-personalized-learning-paths.md']
 confidence: high
+audience: [researchers, learning analytics designers]
+category: [instructional design, assessment]
 ---
 
 > **Synthesis:** Feng and Huang (2026) proposed and validated a [[personalized-learning|personalized learning]] path optimization framework that integrates Bayesian [[cognitive-diagnosis|cognitive diagnosis]], knowledge space theory, and [[cognitive-offloading|cognitive load]] theory to address the sparsity of large-scale educational data and the lack of empirical testing of the psychological mechanism behind personalized paths. In the first phase, a Bayesian DINA model was trained on the EdNet public dataset (N=5,000) with a shortest remediation path algorithm; in the second phase, a dataset of 120 students validated the algorithm's effectiveness, with Bootstrap mediation testing of cognitive load and a Hidden Markov Model (HMM) analyzing knowledge-state dynamics. The framework demonstrates how Bayesian cognitive diagnosis can optimize [[adaptive-learning|adaptive learning]] paths while making the underlying cognitive-load mechanism empirically testable — identifying cognitive load as the primary mediator (indirect effect 0.28) and [[critical-thinking|Analytical Thinking]] (A5) as the key learning bottleneck.

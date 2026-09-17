@@ -8,6 +8,7 @@ research_method: [system development, benchmark]
 audience: [learners, software developers]
 sources: ['raw/papers/2605.08697.md']
 confidence: medium
+category: [assessment]
 ---
 
 > **Synthesis:** > MBP-KT is a model-agnostic enhancement framework for [[knowledge-tracing]] that recasts collaborative signal extraction entirely at the level of learner *behavior*, not raw responses. Its key move is a **meta-behavioral sequence construction**: a small set of content-agnostic operators (`Start`, `Same`, `Diff`) transforms each learner's raw interaction log into a compressed description of *how* they learn — staying within a knowledge domain, switching domains, succeeding, or struggling — independent of the specific exercises or knowledge concepts involved. From these sequences a **parameter-free** global extraction module mines the frequently recurring behavioral patterns shared across all learners, packaging them as a compact collaborative matrix that any downstream KT model can ingest via one of several **universal injection strategies**. Because it sidesteps content-bound matching, MBP-KT is far less sensitive to the severe [[learning-analytics|data sparsity]] that disrupts prior collaborative KT methods built directly on raw response sequences. Empirically it delivers consistent gains across RNN, memory-network, Transformer, and state-space backbones, with the largest improvements concentrated precisely where they matter most: sparsely-interacting learners whose own records cannot support reliable prediction.

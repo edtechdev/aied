@@ -5,9 +5,11 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [lifelong-learning, educational-policy-ai, equity-in-ai-education, intelligent-tutoring, ai-literacy, learning-analytics, bias-mitigation, regulation]
 audience: [administrators]
-research_method: [design-based research]
+research_method: [policy analysis, literature review]
 sources: ['raw/papers/2605.16296.md']
 confidence: medium
+level: [adult learning]
+category: [policy, equity]
 
 ---
 

@@ -9,6 +9,7 @@ audience: [learners]
 
 sources: ['raw/papers/metacognitively-discordant-completion-genai-2026.md']
 confidence: medium
+category: [ai foundations, framework]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

@@ -8,6 +8,8 @@ audience: [software developers]
 research_method: [educational measurement]
 sources: ['raw/papers/2608.10154.md']
 confidence: high
+discipline: [math education]
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** This paper fine-tunes a multimodal large language model (Qwen3.5-based) to reconstruct multiple-choice model (MCM) and three-parameter logistic (3PL) item characteristic curves. By learning to reproduce students' systematic error patterns across a range of ability levels, the LLM implicitly captures underlying response probabilities and can approximate item difficulty on held-out test items directly from predicted option probabilities.

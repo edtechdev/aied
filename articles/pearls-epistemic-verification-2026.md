@@ -6,6 +6,10 @@ type: article
 tags: [generative-ai, higher-ed, ai-literacy, metacognition, trust-calibration, cognitive-offloading, assessment, critical-thinking, ethics, agency]
 sources: ['raw/papers/pearls-epistemic-verification-2026.md']
 confidence: high
+research_method: [theoretical analysis]
+audience: [educators, assessment designers, researchers]
+level: [higher ed]
+category: [framework, assessment, ai foundations]
 ---
 
 > **Synthesis:** Wang (2026) addresses the *plausibility–verifiability gap* created by [[generative-ai]]: an AI-generated artifact can display the linguistic and structural markers of expertise while the evidence, provenance, and limitations needed to warrant reliance remain difficult to inspect. The paper introduces PEARLS, an artifact-level verification protocol organized around six interdependent dimensions — Process, Evidence, Access, Reproducibility, Legitimacy, and Source — that treats AI output as a provisional knowledge claim whose warrant must be assembled and examined. It advances **verification-driven learning** as a [[pedagogy|pedagogical]] mechanism through which learners develop expertise, and it demonstrates how the relative emphasis of the six dimensions varies across disciplines.

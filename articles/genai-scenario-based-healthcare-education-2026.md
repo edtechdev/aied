@@ -6,6 +6,10 @@ type: article
 sources: ["raw/papers/genai-scenario-based-healthcare-education-2026.md"]
 tags: ["generative-ai", "medical-education", "problem-based-learning", "simulation", "meta-analysis-systematic-review", "human-ai-collaboration"]
 confidence: medium
+research_method: [systematic review, thematic analysis]
+discipline: [medical education]
+audience: [medical educators, researchers, curriculum designers]
+category: [synthesis, instructional design]
 ---
 
 > **Synthesis:** Neto and colleagues present a PRISMA 2020 systematic review synthesising **23 empirical studies** (from 1,151 initial records across five databases) on [[generative-ai]] applications in scenario-, case-, problem-, and simulation-based learning within healthcare education. Using the [[mixed-methods-research|Mixed Methods]] Appraisal Tool (MMAT) for quality appraisal and thematic synthesis, they identify six cross-cutting themes centered on a core claim: prompt design in educational contexts functions as a form of instructional specification, encoding the cognitive targets and quality criteria implicit in expert authoring. The review argues that treating prompt design as methodology, standardizing multi-stage validation, and formalizing [[human-ai-collaboration]] are the prerequisites for responsible integration of GenAI into [[medical-education]] and [[simulation]].

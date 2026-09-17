@@ -6,6 +6,11 @@ type: article
 tags: [automated-assessment, writing-education, llm, k-12, assessment-validity, equity-in-ai-education, multilingual-learning, assessment]
 sources: ['raw/papers/llm-comparative-judgment-writing-screening-2026.md']
 confidence: high
+research_method: [educational measurement, benchmark]
+discipline: [writing education]
+audience: [assessment professionals, assessment designers, educators]
+level: [elementary, k 12]
+category: [assessment, equity]
 ---
 
 > **Synthesis:** Mercer and Reed (2026) evaluate whether [[llm|large language model]]-based comparative judgment (CJ) can score informational writing for universal screening with acceptable validity. On writing assessments from 1,208 students in Grades 3–6 across three screening occasions, seven LLMs spanning different capability and cost tiers performed pairwise comparisons of writing quality. LLM-based CJ scores converged with [[research-methods-aied|researcher]] analytic-rubric scores (r = .59–.73), and single-wave CJ was comparable to researcher scoring in predicting state writing-rubric scores while generally matching or exceeding it in predicting ELA scale scores and classifying ELA proficiency. Averaging across the three screening waves substantially improved validity and classification accuracy (β = .59–.66 for state rubric, β = .68–.74 for ELA scale, AUC = .82–.86 for ELA proficiency). Predictive bias patterns for [[multilingual-learning|multilingual learners]] were similar across scoring methods, and results were consistent across LLMs, with little evidence that greater model capability or cost improved validity.

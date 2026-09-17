@@ -6,6 +6,10 @@ type: article
 sources: ["raw/papers/emotion-aware-classroom-iot-monitoring-2026.md"]
 tags: ['affective-computing']
 confidence: medium
+research_method: [system development, benchmark]
+audience: [edtech designers, educators, researchers]
+level: [k 12]
+category: [evaluation, engagement]
 ---
 
 > **Synthesis:** Nguyen and colleagues present a system-level innovation for **emotion-aware classroom quality assessment** using IoT-based, real-time student monitoring. The work emphasizes real-time deployment constraints, multi-agent coordination, and edge-based scalability in authentic classrooms, leveraging established deep-learning models. The system was evaluated on the **Classroom Emotion Dataset** — 1,500 labeled images and 300 classroom detection videos from real-world Vietnamese K–12 classrooms — focusing on multi-person, in-the-wild affective interactions. It is tailored for IoT devices, addressing load balancing and latency.

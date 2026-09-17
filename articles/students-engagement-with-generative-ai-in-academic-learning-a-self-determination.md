@@ -9,6 +9,8 @@ audience: [learners]
 
 sources: ['raw/papers/10.1016_j.caeai.2026.100606.md']
 confidence: high
+level: [higher ed]
+category: [engagement, policy]
 ---
 
 > **Synthesis:** Isaeva et al. (2026) examine undergraduate students' [[student-engagement|engagement]] with [[generative-ai|generative AI]] (GenAI) in academic learning at an English-medium university, using [[self-determination-theory|self-determination theory]] (SDT) as the interpretive framework and [[network-analysis|epistemic network analysis]] (ENA) to model the structural relationships among themes. Analysis of 23 semi-structured interviews revealed that students frequently described GenAI as supporting efficiency and conceptual understanding, yet their accounts exposed persistent tensions concerning [[creativity]], trust, and academic integrity. The ENA results showed these concerns were systematically interconnected — discussions of learning support consistently co-occurred with verification practices, reflecting a "trust-but-verify" repertoire through which students calibrated their reliance on AI while maintaining epistemic control.

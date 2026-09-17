@@ -6,6 +6,10 @@ type: article
 tags: [feedback, ai-feedback-quality, llm, higher-ed, student-engagement, learning-gains, formative-assessment, generative-ai]
 sources: ['raw/papers/gpt4-feedback-student-activation-2026.md']
 confidence: high
+research_method: [experiment]
+audience: [instructors, educators, faculty development]
+level: [higher ed]
+category: [assessment, engagement]
 ---
 
 > **Synthesis:** Geschwind, Graf Lambsdorff, Voss, and Hackl (2026) conduct a [[quantitative-research|lab-in-the-field experiment]] across one semester in undergraduate macroeconomics tutorial classes at the University of Passau, comparing three feedback conditions: group-level lecturer feedback only (LF), lecturer feedback plus individual [[feedback]] from an anonymous peer (PF), and lecturer feedback plus individual feedback from [[generative-ai|GPT-4]] (AIF). Students answered eight weekly open-ended questions and received feedback across all three Hattie & Timperley dimensions (Feed-Back, Feed-Up, Feed-Forward). The authors find that [[llm|AI-generated]] individual feedback significantly boosts [[student-engagement|student activation]] — sustaining the highest participation rates and producing the longest written answers across tasks — and yields the largest improvements in content learning, which they attribute to the higher reliability and quality of AI feedback relative to peers.

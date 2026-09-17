@@ -6,6 +6,11 @@ type: article
 tags: ['equity-in-ai-education', 'conversational-ai', 'stem-education', 'math-education', 'k-12', 'self-efficacy', 'motivation', 'student-experience', 'intelligent-tutoring']
 sources: ['raw/papers/ada-female-coded-chatbot-gender-stereotypes-2026.md']
 confidence: high
+research_method: [quasi-experiment, system development]
+discipline: [math education, stem education]
+audience: [educators, edtech designers]
+level: [secondary, k 12]
+category: [equity, engagement]
 ---
 
 > **Synthesis:** **Bridging the Gender Gap in [[stem-education|STEM Education]] with AI: Female-Coded Chatbot as Role Model and Learning Assistant** — This quasi-experimental study (*N* = 195 ninth-grade German students) tested whether ADA, a female-coded, [[discipline-specific-aied|domain-specific]] [[conversational-ai|AI chatbot]] built on GPT-4 and purpose-designed as both a digital role model and a [[intelligent-tutoring|learning assistant]], could reduce [[math-education|mathematics]] [[equity-in-ai-education|gender stereotypes]] while sustaining equitable learning outcomes. Compared with printed help cards on the Heron method, the chatbot significantly reduced gender-stereotypical beliefs about mathematical ability and mathematics as a male domain for both genders, with high and gender-neutral technological acceptance. It also raised [[student-engagement|situational interest]] for both genders without introducing gender differences in [[motivation|emotional responses]], cognitive load, or [[learning-gains|academic performance]] — evidence that deliberately gender-coded, systematically designed AI [[student-ai-interaction|chatbots]] can function as scalable [[pedagogy|pedagogical]] tools that simultaneously challenge stereotypes and promote [[self-efficacy|equitable learning efficacy]].

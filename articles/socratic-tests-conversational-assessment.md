@@ -8,6 +8,7 @@ research_method: [theoretical analysis]
 category: [assessment]
 sources: ['raw/papers/2607.29624.md']
 confidence: high
+audience: [assessment designers, assessment professionals]
 ---
 
 > **Synthesis:** The [[socratic-method|Socratic Test]] is an automated, computer-mediated [[assessment|conversational assessment]] that replaces static, deficit-based grading with a dynamic, additive model. It integrates Dynamic Assessment principles, [[multimodal]] workspaces, Bloom's Taxonomy for real-time proctoring, and the SOLO Taxonomy for structural evaluation.

@@ -7,6 +7,9 @@ tags: [collaborative-learning, agentic-ai, pedagogical-agent, meta-analysis-syst
 research_method: [systematic review]
 sources: ['raw/papers/ba-ai-agents-cscl-review-2026.md']
 confidence: high
+audience: [researchers, instructional designers]
+level: [higher ed]
+category: [collaborative learning, synthesis]
 ---
 
 > **Synthesis:** This systematic [[meta-analysis-systematic-review|literature review]] of 46 empirical studies (2014–2025) analyzes the roles and impacts of [[agentic-ai|AI agents]] within [[collaborative-learning|computer-supported collaborative learning (CSCL)]]. Guided by the [[community-of-inquiry|community of inquiry]] model and learning [[student-engagement|engagement]] theory, it finds AI agents most frequently facilitate small-group collaboration and [[problem-solving]] via text-based online platforms, with functions spanning cognitive [[scaffolding]], social facilitation, and instructional orchestration. While cognitive gains are consistently reported, effects on behavioral, social, and emotional outcomes are context-dependent.

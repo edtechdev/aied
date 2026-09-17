@@ -6,6 +6,10 @@ type: article
 sources: ["raw/papers/gpt-item-generation-l2-listening-2026.md"]
 tags: ['educational-measurement', 'prompt-engineering', 'llm', 'language-learning']
 confidence: medium
+research_method: [benchmark]
+discipline: [language learning]
+audience: [assessment professionals, assessment designers, researchers]
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** Aryadoust and Wong compare **prompting vs. fine-tuning** for advancing automatic item generation (AIG) in L2 listening assessment. Recognizing that iterative prompt refinement eventually plateaus while outputs remain inconsistent or misaligned with assessment constructs, they first refined an instruction design over three successive iterations to produce an optimized prompt, then **fine-tuned GPT-4.1** using the same prompt to isolate the effect of model adaptation. They generated **40 tests and 240 multiple-choice items** for evaluation.

@@ -7,6 +7,11 @@ tags: ['generative-ai', 'automated-assessment', 'medical-education', 'assessment
 sources:
   - raw/papers/olvet-genai-scoring-open-ended-medical-2026.md
 confidence: high
+research_method: [educational measurement, benchmark]
+discipline: [medical education]
+audience: [medical educators, assessment professionals, faculty development]
+level: [higher ed]
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** **Can Generative Artificial Intelligence Reliably Score Open-Ended Question Assessments in Undergraduate Medical Education?** — This study tested whether [[generative-ai]] (GPT-4) could reliably score [[automated-assessment|open-ended question]] exams in [[medical-education|undergraduate medical education]]. Across three iterations of [[prompt-engineering|rubric engineering]] at two US medical schools, inter-rater reliability between AI and faculty reached substantial-to-almost-perfect levels (weighted kappa up to 0.94) for three of four questions. The authors argue generative AI can [[automated-assessment|score OEQs]] reliably when humans remain in the loop to iteratively refine scoring rubrics based on error pattern analysis.

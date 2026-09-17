@@ -6,6 +6,10 @@ type: article
 tags: [tpack, higher-ed, curriculum-design, assessment, ai-literacy, teacher-education, adaptive-learning]
 sources: ['raw/papers/10.1186_s41239-026-00604-x.md']
 confidence: high
+research_method: [instrument development, quantitative]
+audience: [administrators, curriculum designers]
+level: [higher ed]
+category: [evaluation, framework]
 ---
 
 > **Synthesis:** Zijing Wu and Qiang Li (2026) developed an expert-weighted evaluation indicator system for [[higher-ed|AI certificate programs]], grounded in the [[tpack|Technological Pedagogical Content Knowledge (TPACK)]] framework, using a hybrid Analytic Hierarchy Process / Fuzzy AHP methodology with Monte Carlo [[simulation]] (N=10,000) for robustness verification and pairwise ratings from 18 domain experts across Chinese universities. Five dimensions were identified and prioritized — curriculum design, instructional implementation, faculty expertise, technological support, and cross-cultural adaptability — with a clear expert hierarchy: student [[teacher-ai-competency|AI competency]] achievement (weight 0.1438, rank stability 99.8%) and curriculum alignment with AI frontiers (0.1056, 98.5%) emerged as paramount, while cross-cultural adaptability received the lowest weight (0.0735), signaling a technology-first bias in early-stage credential development. Notably, faculty professional competence showed the largest gap between its high perceived importance (0.1976) and low current satisfaction (3.2171), challenging the assumption that technological infrastructure is the primary barrier to [[ai-education|AI education]].

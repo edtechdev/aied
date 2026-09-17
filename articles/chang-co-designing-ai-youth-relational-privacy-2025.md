@@ -6,6 +6,10 @@ type: article
 tags: [pedagogical-partnerships, generative-ai, k-12, collaborative-learning, ethics, privacy, equity-in-ai-education, agency]
 sources: ['raw/papers/chang-co-designing-ai-youth-relational-privacy-2025.md']
 confidence: high
+research_method: [qualitative]
+audience: [designers, edtech designers, educators]
+level: [secondary, k 12]
+category: [design thinking, equity, framework]
 ---
 
 > **Synthesis:** Chang et al. (2025) argue that designers carry an [[ethics|ethical]] responsibility to engage youth — especially historically minoritized [[k-12]] students — as [[pedagogical-partnerships|design partners]] in AI tools from conception, and demonstrate this through the Learning Futures Workshop, a participatory [[qualitative-research|study]] that brought 30 historically minoritized youth into conversation with education and technology experts. The workshop surfaced students' hopes for expansive, [[collaborative-learning|collaborative]] possibilities with [[generative-ai|AI]] in classrooms, alongside a central tension around the data collected when [[agentic-ai|AI agents]] mediate collaboration. Analyzing workshop findings through [[privacy|Nissenbaum's]] contextual integrity framework, the authors identify three ethical commitments and derive a novel AI Relational Privacy ethical framework to guide the equitable design of AI-supported [[human-ai-collaboration|collaboration]] tools. The framework is operationalized in Community Builder (CoBi), a tool supporting students in building customized, ideal collaborative relationships. The paper argues that tools designed without students as partners risk being untrustworthy and [[equity-in-ai-education|inequitable]].

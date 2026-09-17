@@ -8,6 +8,10 @@ research_method: [interviews]
 
 sources: ['raw/papers/2607.28650.md']
 confidence: high
+discipline: [information technology]
+audience: [institutions, instructional designers]
+level: [adult learning]
+category: [engagement]
 ---
 
 > **Synthesis:** Drawing on 14 semi-structured interviews with IT professionals, this study explores how [[generative-ai|GenAI]] integration reshapes professional practice in system [[administrator|administration]] — troubleshooting, scripting, and system verification — extending concerns about [[cognitive-offloading]] and skill decay from classrooms to professional practice.

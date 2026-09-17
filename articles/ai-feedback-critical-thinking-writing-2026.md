@@ -4,11 +4,14 @@ created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-24T04:48:25-04:00"
 type: article
 tags: [generative-ai, critical-thinking, writing-education, feedback, k-12, automated-assessment, scaffolding, ai-education]
-research_method: [experiment]
+research_method: [longitudinal, quantitative]
 level: [k 12]
 
 sources: ['raw/papers/2608.05177.md']
 confidence: high
+discipline: [writing education]
+audience: [educators, teachers, instructional designers]
+category: [assessment, instructional design]
 ---
 
 > **Synthesis:** This study developed the Writing Improvement and Smart Evaluation Agent (WISE Agent), an [[ai-feedback-quality|AI feedback]] tool targeting textual logic and perspective biases in student essays. A three-month intervention with 260 Chinese sixth-grade students found structural optimizations in critical thinking dimensions rather than a uniform increase in total scores. Lower-performing students advanced in evidence selection while higher-performing students excelled in perspective diversification, suggesting WISE Agent serves as an effective [[scaffolding|cognitive scaffold]] for incremental critical thinking development through personalized feedback loops.

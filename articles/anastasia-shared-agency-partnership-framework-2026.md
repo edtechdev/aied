@@ -6,6 +6,10 @@ type: article
 tags: [pedagogical-partnerships, agency, self-determination-theory, self-efficacy, adult-learning, motivation, teacher-role, higher-ed, trust]
 sources: ['raw/papers/anastasia-shared-agency-partnership-framework-2026.md']
 confidence: high
+research_method: [theoretical analysis]
+audience: [educators, instructors, faculty development]
+level: [higher ed, adult learning]
+category: [framework, engagement]
 ---
 
 > **Synthesis:** This conceptual paper introduces [[agency]] as *shared agency* — a relational construct that emerges not from the student or the faculty alone but from a relationship built through intentional partnership. It presents the Agency Partnership Framework, which operationalizes shared agency through eight relational, psychological, and instructional conditions: Instructor Presence, Trust, Psychological Safety, Dialogue, Voice and Choice, Meaningful Feedback, Reflection, and Shared Responsibility. The framework is grounded in the [[pedagogical-partnerships]] (Students as Partners) movement, relational agency (Edwards), co-agency (OECD), [[self-determination-theory]], [[self-efficacy]] (Bandura), [[adult-learning]] (Knowles), and Transformative Learning (Mezirow). A central argument is that offering choice alone does not create autonomy; the conditions enabling meaningful agency must be co-created with students, distinguishing supported autonomy from isolation.

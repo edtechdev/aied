@@ -5,9 +5,11 @@ updated: "2026-08-24T11:30:00-04:00"
 type: article
 tags: [rct, adult-learning, equity-in-ai-education, generative-ai, ai-education, higher-ed, llm]
 research_method: [randomized controlled trial]
-level: [higher ed]
+level: [adult learning]
 sources: ['raw/papers/2608.04198v1.md']
 confidence: high
+audience: [policymakers, researchers, institutions]
+category: [equity, policy]
 ---
 
 > **Synthesis:** In a [[rct|randomized controlled trial]] with 1,174 participants, Cruces et al. find that [[generative-ai|generative AI]] substantially narrows education-based productivity gaps, closing approximately three-quarters of the initial performance difference between higher- and lower-education workers. Critically, gains are not purely from delegation — lower-education participants retain part of their improvement after AI is removed, and follow-up performance improves when intensive AI use is combined with sustained effort. This study provides causal evidence that [[ai-education|AI tools]] can serve as productivity equalizers in workplace tasks.

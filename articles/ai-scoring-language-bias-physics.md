@@ -9,6 +9,9 @@ discipline: [physics education]
 
 sources: ['raw/papers/2607.28210.md']
 confidence: high
+audience: [assessment professionals, researchers]
+level: [secondary]
+category: [assessment, equity]
 ---
 > **Synthesis:** This study examined whether AI-based scoring can assess students' conceptual understanding **independently of the linguistic quality** of their text-based explanations in [[physics-education|physics]]. The [[research-methods-aied|researchers]] compared scores from **9 [[reinforcement-learning|machine learning]] (ML) approaches and 2 large language model ([[llm]]) approaches** against human expert scores for 116 secondary-school students' physics explanations.
 ### The Language Bias Problem
