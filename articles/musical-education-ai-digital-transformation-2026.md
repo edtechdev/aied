@@ -9,6 +9,7 @@ research_method: [literature review]
 category: [curriculum design]
 sources: ['raw/papers/2608.05176.md']
 confidence: high
+discipline: [humanities education]
 ---
 
 > **Synthesis:** This paper maps the challenges that generative AI, streaming algorithms, and digital audio workstations pose for music education. Three converging transformations are examined: the changing nature of music creation and consumption, shifts in the public for music shaped by algorithmic curation, and the democratization of music production through digital tools. The paper surveys implications for both [[curriculum-design|curricular]] content and [[pedagogy|pedagogical]] methods, arguing that music education must adapt to a landscape where AI can produce complete, stylistically coherent pieces from text prompts. Crucially, it distinguishes autonomous AI generators that position students as consumers of machine output from interactive [[writing-education|composition]] assistants that extend student [[creativity|creative agency]] — arguing that only the latter is educationally productive — and it situates the economic precarity of musicians as a crisis intensified, but not created, by [[generative-ai]].

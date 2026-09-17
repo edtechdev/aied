@@ -10,6 +10,7 @@ category: [engagement]
 
 sources: ['raw/papers/2608.11259.md']
 confidence: high
+audience: [edtech designers, software developers, researchers]
 ---
 
 > **Synthesis:** Udeshi et al. (2026), the team behind **Khanmigo** (Khan Academy's [[k-12]] AI tutor, launched 2023), describe the metrics they use to measure AI tutoring quality and student engagement, along with the live experiments that have moved those metrics. Because LLMs are opaque black boxes, they argue robust evaluation and live experimentation are essential. Grounded in a theory of action linking access to [[intelligent-tutoring|AI tutoring]] → [[student-engagement|cognitive engagement]] → skill acquisition → transfer to [[assessment|standardized assessment]], they treat quality as an engineerable property measured on a proximal-to-distal metric chain. They report that continuous "hill climbing" through live experimentation — over 40 experiments in the five months before the paper — cumulatively improved [[learning-gains|next-item correctness]] by 10% and cognitive engagement by 14%. Accepted at [[ai-education|AIED]] 2026, it connects to [[intelligent-tutoring]], [[research-methods-aied]], and [[ai-ed-evaluation]] literatures.

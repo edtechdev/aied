@@ -9,6 +9,8 @@ audience: [curriculum designers, researchers, educators]
 level: [k 12]
 sources: ["raw/papers/science-integrated-ai-literacy-curriculum-dbr-2026.md"]
 confidence: high
+discipline: [science education, stem education]
+category: [curriculum design, equity]
 
 ---
 

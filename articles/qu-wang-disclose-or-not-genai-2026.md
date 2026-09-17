@@ -10,6 +10,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/qu-wang-disclose-or-not-genai-2026.md']
 confidence: high
+audience: [instructors, administrators]
 ---
 
 > **Synthesis:** **To disclose or not to disclose** — a [[mixed-methods-research|mixed-methods]] study of 409 Singaporean undergraduates examining why students conceal their [[generative-ai]] use despite [[governance|institutional]] disclosure mandates. Guided by Bandura's Social Cognitive Theory, it finds disclosure is primarily predicted by *relational and social* variables — perceived peer disclosure and comfort with instructors were the strongest predictors, while moral disengagement had weaker effects. Non-disclosure reflects strategic adaptation to perceived peer norms and low interpretive trust in instructors, not moral negligence.

@@ -9,6 +9,8 @@ discipline: [business education]
 level: [higher ed]
 sources: ["raw/papers/conversational-agents-business-simulation-gaming-2026.md"]
 confidence: medium
+audience: [instructional designers, instructors, designers]
+category: [instructional design, equity]
 
 ---
 

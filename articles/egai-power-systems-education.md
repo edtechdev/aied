@@ -9,6 +9,8 @@ discipline: [stem education]
 category: [curriculum design]
 sources: ['raw/papers/2608.02599.md']
 confidence: high
+audience: [instructors, curriculum designers]
+level: [higher ed]
 ---
 
 > **Synthesis:** **Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li** — arXiv (cs.AI / eess.SY) preprint, 2026 (University of Tennessee, IEEE PES).

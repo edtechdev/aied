@@ -5,10 +5,11 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [metacognition, self-regulated-learning, prompt-engineering, generative-ai, higher-ed, agency, ai-literacy]
 audience: [learners, instructors]
-research_method: [experiment]
+research_method: [quasi-experiment]
 level: [higher ed]
 sources: ['raw/papers/idea-framework-metacognitive-genai-2026.md']
 confidence: high
+category: [framework, ai foundations]
 ---
 
 > **Synthesis:** Wang et al. (2026) address the risk of "performance without learning" in [[generative-ai]] use by proposing the IDEA framework — Intent, Deconstruction, Expression, and Adaptation — a theory-informed [[metacognition|metacognitive]] [[scaffolding|scaffold]] that embeds prompting within a cycle of planning, monitoring and [[regulation]] rather than treating it as an isolated technical skill. In an exploratory quasi-experimental pilot with 42 undergraduates (21 IDEA, 21 [[prompt-engineering]]), IDEA-trained students produced substantially higher-quality prompts and final AI outputs than peers given structured Role–Task–Context–Format prompt-engineering instruction across all five task categories, with interaction logs showing observable enactment of the framework's core activities. On unaided tasks five days later the IDEA group retained advantages on selected tasks. The framework reframes GenAI use from passive content outsourcing into deliberate, evaluative, learner-regulated interaction.

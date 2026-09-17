@@ -10,6 +10,7 @@ audience: [administrators]
 level: [higher ed]
 sources: ['raw/papers/baroudi-anticipatory-governance-ai-higher-ed-2026.md']
 confidence: high
+category: [policy, synthesis]
 
 ---
 

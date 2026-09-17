@@ -9,6 +9,7 @@ audience: [instructors, learners, researchers]
 level: [higher ed]
 sources: ['raw/papers/du-yuan-epistemic-dependence-2026.md']
 confidence: high
+category: [framework, synthesis]
 ---
 
 > **Synthesis:** Du and Yuan (2026) argue that the central educational question is not *whether* learners rely on [[generative-ai|AI]] but whether that reliance preserves or displaces the epistemic work through which judgment develops. A [[critical-thinking|critical]]-integrative review bridging [[ai-education|AIED]], human–[[student-ai-interaction|AI interaction]], [[metacognition|epistemic cognition]], information behavior, [[cognitive-offloading|cognitive offloading]], and social epistemology, it distinguishes **instrumental assistance** (AI helps produce output) from **judgment-bearing assistance** (AI supplies the standards by which output is assessed), and separates *productive reliance* from *harmful dependence* through six diagnostic criteria: contestability, recoverability, transfer, traceability, distributed responsibility, and epistemic plurality. Four sociotechnical pathways — fluent authority, frictionless delegation, opaque synthesis, and institutionalized dependence — link AI affordances to educational consequences, and the review proposes **relational epistemic agency** as the normative aim of AI-mediated learning, with design, [[pedagogy]], assessment, and governance implications.

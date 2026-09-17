@@ -9,6 +9,8 @@ research_method: [benchmark]
 category: [evaluation]
 sources: ['raw/papers/distilling-self-explaining-lm-learning-analytics-2026.md']
 confidence: high
+discipline: [learning analytics, math education]
+level: [secondary]
 ---
 
 > **Synthesis:** Pan, Meng, and Suk (2026) propose a two-stage fine-tuning pipeline that distills a fitted black-box ML estimator and its post hoc interpretation into a small, open-weight [[llm|LLM]], so that one model returns both an individual-level estimate and a natural-language explanation offline on a commodity laptop. The pipeline pairs the ALE-fANOVA decomposition of a causal estimator with a "mentor" narration that a small "mentee" model learns via LoRA, and it is evaluated under a **faithfulness-first** framework that audits every narration against the attribution it claims to describe rather than trusting fluent text as correct text. A [[simulation]] study separates distillation loss from estimator loss and shows the 2B-parameter mentee achieves near-lossless recovery of the oracle effect surface (r > .90), while almost all remaining error under a realistic X-learner originates upstream. The work carries direct implications for [[trust]] and the privacy-preserving deployment of [[learning-analytics]] decision support.

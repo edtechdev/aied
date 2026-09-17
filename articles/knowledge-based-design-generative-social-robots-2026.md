@@ -9,6 +9,7 @@ level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/vonschallen-knowledge-based-gsr-higher-ed-2026.md']
 confidence: high
+audience: [edtech designers, designers]
 ---
 
 > **Synthesis:** Vonschallen, Oberle, Schmiedel, and Eyssel (2026) adopt a knowledge-based design perspective to investigate what information tutoring-oriented generative social robots (GSRs) require to function responsibly and effectively in higher education. Recognizing that GSRs powered by large language models enable adaptive, conversational tutoring but introduce risks such as misinformation, [[cognitive-offloading|overreliance]], and privacy violations, they conducted twelve semi-structured interviews with university students and lecturers, identifying twelve design requirements across three knowledge types: self-knowledge, user-knowledge, and (a third type concerning the domain/context).

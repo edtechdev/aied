@@ -9,6 +9,7 @@ discipline: [language learning]
 audience: [learners]
 sources: ['raw/papers/raw-uchida-vocab-teaching-ai.md']
 confidence: high
+category: [instructional design]
 ---
 
 > **Synthesis:** Uchida et al. (2026) develop an [[llm]]-based system that lets English vocabulary learners learn by [[teacher-role|teaching]] an AI "student." The system generates dynamic, contextually relevant questions for [[learning-by-teaching]], replacing rigid template-based question generators. In a study with ten participants, learning with the system produced high learning effectiveness and improved memory retention at 3 and 7 days after learning, and the [[research-methods-aied|researchers]] identified learner traits linked to better outcomes.

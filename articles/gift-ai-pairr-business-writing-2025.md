@@ -9,6 +9,8 @@ discipline: [writing education]
 audience: [learners]
 sources: ['raw/papers/10.3389_fcomm.2025.1615752.md']
 confidence: high
+level: [higher ed]
+category: [assessment, curriculum design]
 ---
 
 > **Synthesis:** MacArthur et al. (2025) present the GIFT-AI approach — "[[teacher-role|teaching]] the game and leveling the field" — applying the Peer and AI Review + Reflection (PAIRR) model specifically to an upper-division Business Writing course (34 participating students at UC Davis in 2024). The model [[scaffolding|scaffolds]] major assignments so students receive peer review, then criteria-based [[conversational-ai|chatbot]] feedback on the same draft, reflect on and critically assess both, and revise. The article shows how PAIRR builds AI literacy and writerly agency while leveling the playing field for students with differing preparation — particularly [[multilingual-learning|multilingual]] international students — and offers detailed implementation guidance for professional writing courses.

@@ -4,11 +4,13 @@ created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [physics-education, socratic-method, pedagogical-agent, generative-ai, higher-ed, professional-training, stem-education, science-education]
-research_method: [qualitative, mixed methods]
+research_method: [qualitative, case study]
 discipline: [physics education, stem education]
 level: [higher ed]
 sources: ['raw/papers/2607.21349.md']
 confidence: high
+audience: [instructors, instructional designers]
+category: [instructional design, framework]
 ---
 
 > **Synthesis:** Tufino & Damiani (2026) explore where a language-based AI can stand within an inquiry activity without displacing embodied experience, using a Master's-level physics education course investigating the statics of fluids via the ISLE approach. In a two-phase design, students first built the buoyancy model with their own hands without AI; a purpose-configured AI assistant then facilitated applying the model to a new phenomenon. The paper discusses what a language-based facilitator cannot reach and the value of a design in which AI **complements** embodied inquiry rather than replacing it. The work connects to [[physics-education]], [[socratic-method]], and [[pedagogical-agent]] theory.

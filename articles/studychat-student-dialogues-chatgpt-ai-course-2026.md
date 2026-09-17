@@ -10,6 +10,8 @@ audience: [learners, software developers]
 
 sources: ['raw/papers/studychat-student-dialogues-chatgpt-ai-course-2026.md']
 confidence: high
+level: [higher ed]
+category: [evaluation, engagement]
 ---
 
 > **Synthesis:** McNichols, Ikram and Lan (2026) introduce **StudyChat**, a publicly available dataset capturing real-world student interactions with an [[llm]]-powered tutoring [[conversational-ai|chatbot]] in a semester-long, university-level AI course. Across two semesters (Fall 2024, Spring 2025) at UMass Amherst, 203 consenting students (of 295 enrolled) produced 2,214 student–LLM conversations totaling 16,851 utterances across 7 programming assignments, plus 924 graded submissions from 158 students. Interactions were logged via a custom web app that replicates ChatGPT's core functionality (backed by gpt-4o-mini), and every utterance was annotated with a two-level dialogue-act (DA) schema (8 broad, 31 specific labels) validated through human and LLM agreement (Cohen's κ = 0.91 broad-level). Regression and clustering analyses find that students who prompt LLMs for conceptual understanding and coding help tend to perform better on assignments and exams, while those who use LLMs to write reports and circumvent assignment learning objectives have lower exam outcomes — providing data-driven evidence for how student LLM usage relates to [[learning-gains]].

@@ -9,6 +9,8 @@ research_method: [system development, benchmark]
 discipline: [language learning]
 sources: ['raw/papers/2607.23322.md']
 confidence: medium
+level: [secondary, k 12]
+category: [curriculum design, equity]
 ---
 
 > **Synthesis:** Presents a 24,795-example [[multilingual-learning|multilingual]] instruction dataset for [[teacher-role|teaching]] LLMs to deliver educational content grounded in Indian Knowledge Systems. Spans seven languages and bridges a gap in non-Western [[pedagogy|pedagogical]] content for instruction tuning. Demonstrates that [[discipline-specific-aied|domain-specific]] educational datasets improve [[llm]] performance on culturally grounded knowledge tasks.

@@ -9,6 +9,8 @@ discipline: [math education]
 level: [k 12]
 sources: ['raw/papers/mujib-ai-ibl-creative-math-2026.md']
 confidence: high
+audience: [educators, curriculum designers]
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis:** This quasi-experimental study of secondary students (mean age 12.79) compared AI-supported [[inquiry-based-learning|inquiry-based learning]] against conventional instruction in mathematics. AI-supported IBL significantly improved students' *creative mathematical performance* and *attitudes toward mathematics* — but did **not** produce a statistically significant improvement in *critical [[problem-solving]] skills*. Multivariate analysis confirmed a significant overall group effect; the authors conclude AI-supported IBL mainly supports [[creativity]] and [[affective-computing|affective]] development, with limited effect on problem-solving.

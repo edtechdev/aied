@@ -9,6 +9,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/conijn-fear-big-brother-proctored-exams-2022.md']
 confidence: high
+audience: [administrators, assessment professionals]
 ---
 
 > **Synthesis:** **The fear of Big Brother** — a large-scale four-wave study of 1,760 students across 105 courses during pandemic-era remote exams finds that online [[remote-proctoring|proctoring]] significantly **increases test anxiety**, even though it has no effect on the temptation to cheat, perceived exam difficulty, or performance. The study quantifies which student and contextual factors reduce or amplify that anxiety, and argues that the decision to use online proctoring must weigh its undesirable side-effect on test anxiety.

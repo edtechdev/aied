@@ -9,6 +9,7 @@ audience: [researchers, educators]
 level: [higher ed]
 sources: ["raw/papers/genai-professionalization-metaphors-2026.md"]
 confidence: high
+category: [ai foundations, engagement]
 
 ---
 

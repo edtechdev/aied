@@ -10,6 +10,7 @@ research_method: [delphi]
 level: [higher ed]
 sources: ['raw/papers/crompton-governing-genai-higher-ed-delphi-2026.md']
 confidence: high
+category: [policy, framework]
 
 ---
 

@@ -9,6 +9,7 @@ level: [higher ed]
 category: [assessment, curriculum design]
 sources: ['raw/papers/competency-based-education-genai-production-2026.md']
 confidence: medium
+audience: [assessment designers, institutions, curriculum designers]
 ---
 
 > **Synthesis:** This conceptual paper proposes adding *production* — the capability to deliver professional-standard work by directing tools and other people — as a fourth attribute of competency-based education (CBE), alongside knowledge, skills, and attitudes/values. The proposal responds to a construct-validity problem: generative AI has severed the inference from a student-produced artifact to the student's own knowledge and skill, and production supplies the missing interpretation for the "open lane" of two-lane assessment architectures.

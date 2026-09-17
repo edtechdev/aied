@@ -9,6 +9,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/asynchronous-oral-assessment-2026.md']
 confidence: high
+audience: [instructors, assessment designers]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

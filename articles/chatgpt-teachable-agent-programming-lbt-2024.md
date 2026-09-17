@@ -9,6 +9,8 @@ discipline: [cs education]
 level: [higher ed]
 sources: ['raw/papers/raw-chen-lbt-chatgpt.md']
 confidence: high
+audience: [instructors, instructional designers]
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis:** Chen et al. (2024) investigate whether ChatGPT can serve as a **teachable agent** to support [[learning-by-teaching]] in [[cs-education|programming education]]. In a randomized experiment on an eight-queens/backtracking programming task, interacting with ChatGPT as a tutee improved students' knowledge gains and programming ability — especially writing readable, logically sound code — and boosted [[self-regulated-learning|self-regulated learning]] and [[self-efficacy]], but had limited impact on error-correction skills because ChatGPT tends to produce correct code, reducing debugging practice. The study's key design choice was to keep ChatGPT deliberately fallible (un-augmented) so that its mistakes become opportunities for students to teach.

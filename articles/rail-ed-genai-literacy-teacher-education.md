@@ -9,6 +9,7 @@ audience: [instructors]
 level: [k 12, higher ed]
 sources: ['raw/papers/2608.01705.md']
 confidence: high
+category: [framework, ai foundations]
 ---
 
 > **Synthesis:** **RAIL-Ed is an integrative, developmental, and dialectical framework for [[generative-ai|generative AI]] [[ai-literacy|literacy]] in [[k-12|K-12]] [[teacher-education|teacher education]], built from a [[meta-analysis-systematic-review|systematic review]] of 67 studies and specifying six interdependent pillars with a three-level maturity rubric.**

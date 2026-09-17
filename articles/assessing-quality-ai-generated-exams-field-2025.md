@@ -4,11 +4,12 @@ created: "2026-08-16T20:02:54-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [automated-question-generation, automated-assessment, item-response-theory, assessment-validity, generative-ai, llm, higher-ed, ai-ed-evaluation]
-research_method: [experiment, system development]
+research_method: [benchmark, educational measurement, quantitative]
 level: [higher ed]
 category: [evaluation]
 sources: ['raw/papers/assessing-quality-ai-generated-exams-field-2025.md']
 confidence: high
+audience: [assessment designers, instructors, institutions]
 ---
 
 > **Synthesis:** Isley, Gilbert, Kassos, Kocher, Nie, Brunskill, Domingue, Hofman, Legewie, Svoronos, Tuminelli and Goel (2025) report one of the largest field studies of AI-generated exam questions to date, evaluating an **iterative-refinement** approach to [[automated-question-generation]] in real college classrooms. Using an [[llm]] (o3-mini) in a Self-Refine-style generate→judge→revise loop tailored to each course's instructor-provided materials, they produced custom 10-question multiple-choice exams for 71 college classes (~1,200 students) and benchmarked them against human-authored 2012 AP Statistics questions in 20 further classes (~500 students), for a final analysis sample of 91 classes and 1,686 students across [[cs-education|computer science]], [[math-education|mathematics]], [[chemistry-education|chemistry]] and more. Analyzing responses with a Bayesian hierarchical [[item-response-theory|2PL IRT]] model, they find AI-generated questions performed **on par with expert-created standardized-exam questions** in both difficulty and discrimination — the AI items were somewhat easier (β̄ = −0.45 vs. 0.35) but more discriminating (ᾱ = 1.3 vs. 1.2), with higher peak test information (I_max = 3.85, reliability 0.79 vs. 2.61, 0.72). The work provides evidence that [[generative-ai|generative AI]] can make high-quality, course-tailored [[assessment-validity|psychometrically sound]] assessments more readily available.

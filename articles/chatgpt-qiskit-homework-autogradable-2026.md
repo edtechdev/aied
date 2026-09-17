@@ -9,6 +9,8 @@ discipline: [cs education]
 category: [assessment]
 sources: ['raw/papers/chatgpt-qiskit-homework-autogradable-2026.md']
 confidence: high
+audience: [instructors, assessment designers]
+level: [higher ed]
 ---
 
 > **Synthesis:** This empirical study by Kaltchenko and Tiwana (Wilfrid Laurier University) tests whether [[cs-education|introductory quantum-computing]] homework can remain [[automated-assessment|autogradable]] while still forcing students to run, review, and interpret their own results rather than banning [[generative-ai|AI]]. Three [[assessment|Qiskit assignment packages]] were built — seeded basis-state circuits, Quantum Fourier Transform (QFT) with inverse-transform recovery, and seeded Deutsch–Jozsa — each wrapped in deterrence layers (deterministic [[personalized-learning|personalization]], non-palindromic bitstrings, varied measurement maps, simulator execution, machine-readable JSON submissions, hidden references, circuit metrics, reflections, optional IBM Quantum execution). For each package a single fixed student-visible instance was tested in 50 separate ChatGPT sessions (150 total); all 150 final artifacts executed and passed the grader, giving each instance zero observed ChatGPT-resiliency under the study's operational definition. The analysis explains why the defenses failed — seeds changed parameters rather than task structure, expected results stayed derivable from visible logic, [[scaffolding]] exposed key steps, and hidden grading verified consistency rather than authorship — and argues that correct artifacts must be complemented by direct assessment of understanding (supervised modification, oral defense, prediction, transfer), a core concern for [[academic-integrity]] and [[llm]] use in [[physics-education]].

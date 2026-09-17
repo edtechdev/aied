@@ -8,6 +8,8 @@ research_method: [learning analytics]
 discipline: [math education]
 level: [k 12]
 confidence: high
+audience: [edtech designers, instructors]
+category: [evaluation, instructional design]
 sources: [raw/papers/making-ai-tutoring-productive-mastery-math-2026.md]
 ---
 

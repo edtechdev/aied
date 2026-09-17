@@ -9,6 +9,7 @@ audience: [instructors]
 level: [k 12]
 sources: ['raw/papers/2605.12934.md']
 confidence: high
+category: [framework, instructional design]
 ---
 
 > **Synthesis:** Xin et al. (2026) report a two-cycle [[formative-assessment|formative]] intervention study addressing the "low [[student-engagement|engagement]] paradox" in teacher [[educational-development|professional development]] (TPD) for [[pedagogy|pedagogical]] AI agent design — why teachers disengage from AI agent creation soon after training. Cycle 1 (N = 218) found that despite completing comprehensive TPD, **87% of teachers stopped creating agents within three weeks**; behavioral tracking and interviews identified systemic contradictions — not capacity deficits — as the source of psychological need frustration. Cycle 2 (N = 26) implemented a Cultural-Historical Activity Theory (CHAT) and [[self-determination-theory|Self-Determination Theory]] (SDT)-driven redesign directly targeting the diagnosed contradictions, achieving synchronized enhancement of both capacity and willingness. The authors reframe implementation failure as a rational response to need-thwarting systems and offer a replicable CHAT-SDT diagnostic framework.

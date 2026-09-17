@@ -10,6 +10,7 @@ level: [higher ed]
 
 sources: ['raw/papers/tandf-2026-care-full-feedback-genai.md']
 confidence: high
+category: [assessment, equity]
 ---
 
 > **Synthesis:** A conceptual/position paper arguing that feedback in an age of [[generative-ai|GenAI]] must be understood as **"matters of care"** — [[ethics|ethical]], relational practices rather than information transmission. It builds on a ten-principle **Manifesto for Feedback in the Age of GenAI** (Winstone et al. 2025, Copenhagen Feedback Symposium) and distils **four core values** for integrating GenAI into a [[multimodal]] feedback landscape: (1) feedback processes should support **meaning-making**, (2) build **educative relationships**, (3) be **trustworthy**, and (4) be respected as a **professional craft**.

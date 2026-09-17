@@ -9,6 +9,8 @@ audience: [researchers, assessment designers]
 level: [higher ed]
 sources: ["raw/papers/llm-essay-scoring-feature-weighting-2026.md"]
 confidence: high
+discipline: [writing education, language learning]
+category: [assessment, evaluation]
 
 ---
 
