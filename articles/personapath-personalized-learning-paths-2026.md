@@ -3,7 +3,6 @@ title: "PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planni
 type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
-tags: [personalized-learning, recommender-systems-and-learning-paths, knowledge-graph, adaptive-learning, student-modeling, curriculum-design, mastery-learning, item-response-theory, k-12, higher-ed]
 foundations: [curriculum-design]
 pedagogy: [mastery-learning]
 technology: [adaptive-learning, knowledge-graph, personalized-learning, recommender-systems-and-learning-paths, student-modeling]

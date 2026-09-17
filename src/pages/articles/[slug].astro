@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
 import JsonLd from '../../components/JsonLd.astro';
+import MetadataTable from '../../components/MetadataTable.astro';
 import StarButton from '../../components/StarButton.astro';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
 
@@ -16,6 +17,9 @@ const articles = await getCollection('articles');
 
 
 const concepts = await getCollection('concepts');
+const conceptTitles: Record<string, string> = Object.fromEntries(
+  concepts.map((c) => [c.id.replace('.md', ''), c.data.title]),
+);
 const faqs = await getCollection('faqs');
 
 // Tag chips use the page's own title ("Well-Being", not "well being"); long titles
@@ -39,7 +43,9 @@ const connectedFaqs = (article.data.connected_faqs || [])
   .map(s => faqById.get(s))
   .filter((f): f is NonNullable<typeof f> => Boolean(f));
 
-const { title, tags, created, updated, research_method, discipline, audience, level, page_kind, foundations, pedagogy, technology, assessment, stakeholders, ethics } = article.data;
+const { title, created, updated, research_method, discipline, audience, level, page_kind, foundations, pedagogy, technology, assessment, stakeholders, ethics } = article.data;
+// JSON-LD keywords: the typed fields, which replaced the old per-page tag list.
+const metadataKeywords: string[] = [...(research_method || []), ...(discipline || []), ...(level || []), ...(audience || []), ...(foundations || []), ...(pedagogy || []), ...(technology || []), ...(assessment || []), ...(stakeholders || []), ...(ethics || []), ...(page_kind || []),];
 // Build PageFind filter facets from the structured metadata fields.
 // Each metadata field becomes a facet group. We emit one <meta> element per
 // `name:value` pair (PageFind requires each inline filter to be its own
@@ -89,7 +95,7 @@ if (connectedFaqs.length > 0) {
     title={title}
     created={created}
     updated={updated}
-    tags={tags}
+    keywords={metadataKeywords}
     body={body}
     sources={article.data.sources}
     connectedConceptSlugs={connectedConceptSlugs}
@@ -103,9 +109,6 @@ if (connectedFaqs.length > 0) {
       <div class="page-meta" style="color:var(--muted-color);font-size:0.9rem;margin-bottom:0.75rem;">
         <StarButton slug={slug} kind="article" />
         created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
-        {(tags || []).map((tag: string, i: number) => (
-          <>{i > 0 ? ', ' : ' · '}<a class="tag-chip" href={`/aied/concepts/${tag}/`}>{tagLabel(tag)}</a></>
-        ))}
       </div>
     </div>
 
@@ -128,6 +131,7 @@ if (connectedFaqs.length > 0) {
       </section>
     )}
 
+    <MetadataTable conceptTitles={conceptTitles} data={article.data} />
     <SourceButtons filePath={`articles/${article.id}.md`} />
   </article>
 </BaseLayout>

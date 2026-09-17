@@ -3,7 +3,6 @@ title: "From Confusion to Consolidation: A Staged Conversational Workflow for Po
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-26T15:35:00-04:00"
 type: article
-tags: [conversational-ai, personalized-learning, higher-ed, learning-by-teaching, agentic-ai, scaffolding, pedagogical-agent, student-experience]
 foundations: [agentic-ai]
 pedagogy: [learning-by-teaching, scaffolding]
 technology: [conversational-ai, pedagogical-agent, personalized-learning]

@@ -3,7 +3,6 @@ title: "Explaining ChatGPT Adoption in Higher Education: Insights for AI Literac
 created: "2026-09-03T14:20:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [technology-acceptance-model, ai-literacy, higher-ed, generative-ai, trust, learning-analytics, academic-integrity, self-regulated-learning, critical-thinking, teacher-role, ethics, governance, educational-policy-ai]
 foundations: [academic-integrity, ai-literacy, critical-thinking, teacher-role]
 pedagogy: [self-regulated-learning]
 technology: [generative-ai, learning-analytics]

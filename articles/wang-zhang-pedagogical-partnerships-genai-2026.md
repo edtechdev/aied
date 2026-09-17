@@ -3,7 +3,6 @@ title: "Pedagogical partnerships with generative AI in higher education: how dua
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
-tags: [generative-ai, higher-ed, human-ai-collaboration, agency, trust, metacognition, critical-thinking, student-ai-interaction, self-regulated-learning]
 foundations: [agency, critical-thinking, human-ai-collaboration]
 pedagogy: [metacognition, self-regulated-learning, student-ai-interaction]
 technology: [generative-ai]

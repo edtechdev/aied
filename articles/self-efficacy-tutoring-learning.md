@@ -3,7 +3,6 @@ title: Self-Efficacy and Favorability Shape Learning from Tutoring Systems and P
 created: "2026-06-17T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [intelligent-tutoring, personalized-learning, higher-ed, student-experience, self-regulated-learning]
 pedagogy: [self-regulated-learning]
 technology: [intelligent-tutoring, personalized-learning]
 stakeholders: [student-experience]

@@ -3,7 +3,6 @@ title: "Generative AI across the disciplines: an activity theory perspective on 
 created: "2026-08-25T14:00:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [generative-ai, higher-ed, academic-integrity, discipline-specific-aied, student-experience, ai-literacy]
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
 stakeholders: [student-experience]

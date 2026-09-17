@@ -3,7 +3,6 @@ title: Mapping the Emerging Curriculum for AI-Assisted Software Engineering via 
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [ai-education, curriculum-design, ai-technologies, learning-design, higher-ed, generative-ai, ethics]
 foundations: [ai-education, curriculum-design, learning-design]
 technology: [ai-technologies, generative-ai]
 ethics: [ethics]

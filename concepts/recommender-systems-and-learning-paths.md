@@ -3,7 +3,6 @@ title: Recommender Systems and Learning Paths
 created: "2026-09-16T14:29:36-04:00"
 updated: "2026-09-17T15:19:42-04:00"
 type: concept
-tags: [personalized-learning, adaptive-learning, knowledge-graph, explainable-ai, learning-analytics, curriculum-design, lifelong-learning]
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
 stakeholders: [lifelong-learning]

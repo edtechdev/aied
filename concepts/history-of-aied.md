@@ -3,7 +3,6 @@ title: History of AI in Education
 created: "2026-08-23T13:00:00-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: concept
-tags: [history-of-aied, ai-education, intelligent-tutoring, constructivist, agency, learning-theories, generative-ai]
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]

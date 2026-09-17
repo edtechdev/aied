@@ -3,14 +3,13 @@ title: "Generative AI and the Productivity Divide: Human-AI Complementarities in
 created: "2026-08-08T04:33:04-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
-tags: [generative-ai, ai-literacy, equity-in-ai-education, adult-learning, higher-ed, scaffolding, rag, llm]
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, llm, rag]
 ethics: [equity-in-ai-education]
 audience: [learners]
 research_method: [experiment]
-level: [higher ed]
+level: [higher ed, adult learning]
 sources: ['raw/papers/2605.18143.md']
 confidence: high
 discipline: [engineering education]

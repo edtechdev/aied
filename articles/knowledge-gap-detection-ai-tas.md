@@ -3,7 +3,6 @@ title: Detecting Knowledge Gaps from Conversational AI Interactions Using Curric
 created: "2026-06-10T07:38:00-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [knowledge-tracing, llm, student-modeling, higher-ed, learning-analytics, generative-ai, student-experience, intelligent-tutoring, ai-literacy, scaffolding]
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]

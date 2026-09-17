@@ -3,7 +3,6 @@ title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
 updated: "2026-09-17T14:46:00-04:00"
 type: concept
-tags: [ai-education, educational-measurement, rct, benchmark, ai-ed-evaluation, higher-ed]
 foundations: [ai-education]
 assessment: [ai-ed-evaluation, benchmark, educational-measurement, rct]
 research_method: [educational measurement, experiment, randomized controlled trial, benchmark, research methods]

@@ -3,7 +3,6 @@ title: "How motivation and roles influence metacognitive engagement in student-G
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
-tags: [motivation, metacognition, student-ai-interaction, generative-ai, self-regulated-learning, agency, higher-ed]
 foundations: [agency]
 pedagogy: [metacognition, motivation, self-regulated-learning, student-ai-interaction]
 technology: [generative-ai]

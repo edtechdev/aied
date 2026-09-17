@@ -3,7 +3,6 @@ title: "Who Should Grade My Work? Student Perspectives on Transparent AI-Assiste
 created: "2026-09-11T09:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [automated-assessment, writing-education, feedback-literacy, evaluative-judgement, ai-use-disclosure, trust, student-experience, higher-ed, cs-education, assessment-validity]
 assessment: [assessment-validity, automated-assessment, evaluative-judgement, feedback-literacy]
 stakeholders: [student-experience]
 ethics: [ai-use-disclosure, trust]

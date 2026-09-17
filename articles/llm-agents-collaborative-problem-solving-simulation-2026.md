@@ -4,7 +4,6 @@ created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 sources: ["raw/papers/llm-agents-collaborative-problem-solving-simulation-2026.md"]
-tags: ["llm", "agentic-ai", "problem-solving", "network-analysis", "simulating-students", "learning-analytics"]
 foundations: [agentic-ai]
 pedagogy: [problem-solving]
 technology: [learning-analytics, llm, simulating-students]

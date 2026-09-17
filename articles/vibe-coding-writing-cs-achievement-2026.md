@@ -3,12 +3,11 @@ title: Computer Science Achievement and Writing Skills Predict Vibe Coding Profi
 created: "2026-09-08T01:30:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [vibe-coding, cs-education, prompt-engineering, writing-education, computational-thinking, higher-ed, ai-literacy, generative-ai]
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, prompt-engineering, vibe-coding]
 sources: ['raw/papers/2603.14133.md']
 research_method: [quantitative, experiment]
-discipline: [cs education]
+discipline: [cs education, writing education]
 audience: [researchers, curriculum designers, instructors, software developers]
 level: [higher ed]
 page_kind: [evaluation]

@@ -3,7 +3,6 @@ title: Bayesian Consensus Calibration of Continuously Evolving IRT Item Banks
 type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
-tags: [item-response-theory, educational-measurement, psychometrically-aware-ai, automated-question-generation, assessment-validity, llm, educational-nlp, language-learning, learning-analytics, adaptive-learning]
 technology: [adaptive-learning, educational-nlp, learning-analytics, llm]
 assessment: [assessment-validity, automated-question-generation, educational-measurement, item-response-theory, psychometrically-aware-ai]
 sources: ['raw/papers/bayesian-consensus-irt-item-banks-2026.md']

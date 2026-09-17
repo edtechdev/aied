@@ -3,11 +3,11 @@ title: "Should We Use AI Detectors?"
 created: "2026-09-17T09:21:00-04:00"
 updated: "2026-09-17T09:21:00-04:00"
 weight: 85
-tags: [ai-detection, academic-integrity, assessment-validity, equity-in-ai-education, governance, trust, higher-ed, educational-policy-ai]
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
 stakeholders: [educational-policy-ai, governance]
 ethics: [equity-in-ai-education, trust]
+level: [higher ed]
 ---
 
 # Should We Use AI Detectors?

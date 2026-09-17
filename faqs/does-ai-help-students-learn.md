@@ -3,7 +3,6 @@ title: "Does Using AI Actually Help My Students Learn?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 weight: 90
-tags: [ai-literacy, cognitive-offloading, active-learning, ai-ed-evaluation, assessment, self-report-measures]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [active-learning]
 assessment: [ai-ed-evaluation, assessment, self-report-measures]

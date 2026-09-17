@@ -3,7 +3,6 @@ title: "The Devil is in the Details: AI Agents, Ghost Students, and the Crisis o
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [agentic-ai, academic-integrity, ai-misuse-learning-harm, generative-ai, higher-ed, online-teaching-and-learning, governance, privacy, trust, cognitive-offloading, ai-detection]
 foundations: [academic-integrity, agentic-ai, cognitive-offloading]
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai]

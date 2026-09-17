@@ -3,7 +3,6 @@ title: "GenAI as a runaway object in higher education: A socio-cultural view on 
 created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [generative-ai, higher-ed, stem-education, educational-development, learning-theories, math-education]
 foundations: [educational-development]
 pedagogy: [learning-theories]
 technology: [generative-ai]

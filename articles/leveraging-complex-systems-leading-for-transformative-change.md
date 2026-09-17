@@ -3,7 +3,6 @@ title: "Leveraging complex systems: Leading for transformative change"
 created: "2026-08-10T17:08:30-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
-tags: [generative-ai, higher-ed, administrator, change-management, learning-analytics, governance, edtech-platform, educational-policy-ai]
 technology: [generative-ai, learning-analytics]
 stakeholders: [administrator, change-management, edtech-platform, educational-policy-ai, governance]
 research_method: [theoretical analysis]

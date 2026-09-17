@@ -3,7 +3,6 @@ title: "Control vs. Agency: Exploring the History of AI in Education"
 created: "2026-08-23T13:00:00-04:00"
 updated: "2026-08-23T13:00:00-04:00"
 type: article
-tags: [ai-education, history-of-aied, intelligent-tutoring, constructivist, agency, generative-ai]
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist]
 technology: [generative-ai, intelligent-tutoring]

@@ -3,7 +3,6 @@ title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T15:42:00-04:00"
 type: concept
-tags: [learning-design, curriculum-design, educational-development, scaffolding, generative-ai, ai-literacy, higher-ed, teacher-role]
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
 technology: [generative-ai]

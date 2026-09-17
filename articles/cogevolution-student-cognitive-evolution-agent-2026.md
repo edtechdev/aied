@@ -3,7 +3,6 @@ title: "CogEvolution: A Human-like Generative Educational Agent to Simulate Stud
 created: "2026-08-24T05:31:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [simulating-students, student-modeling, icap-framework, knowledge-tracing, generative-ai, pedagogical-agent, item-response-theory, cognitive-diagnosis]
 pedagogy: [icap-framework]
 technology: [cognitive-diagnosis, generative-ai, knowledge-tracing, pedagogical-agent, simulating-students, student-modeling]
 assessment: [item-response-theory]

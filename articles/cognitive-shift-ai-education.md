@@ -3,7 +3,6 @@ title: "Evidence of a Cognitive Shift in AI Education: How Students Are Rethinki
 created: "2026-05-20T04:33:04-04:00"
 updated: "2026-09-16T15:50:31-04:00"
 type: article
-tags: [ai-literacy, student-experience, higher-ed, stem-education, cognitive-offloading, educational-development, generative-ai, scaffolding]
 foundations: [ai-literacy, cognitive-offloading, educational-development]
 pedagogy: [scaffolding]
 technology: [generative-ai]

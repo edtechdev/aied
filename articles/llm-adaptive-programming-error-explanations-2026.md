@@ -3,7 +3,6 @@ title: "Beyond the Traceback: Using LLMs for Adaptive Explanations of Programmin
 created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
-tags: [cs-education, scaffolding, llm, formative-assessment, feedback, student-ai-interaction]
 pedagogy: [scaffolding, student-ai-interaction]
 technology: [llm]
 assessment: [feedback, formative-assessment]

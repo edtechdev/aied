@@ -3,7 +3,6 @@ title: "Perceived Workload Across Traditional, Gamified and Artificial Intellige
 created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-25T09:52:34-04:00"
 type: article
-tags: [game-based-learning, higher-ed, motivation, student-experience, learning-analytics, learning-design, self-regulated-learning]
 foundations: [learning-design]
 pedagogy: [game-based-learning, motivation, self-regulated-learning]
 technology: [learning-analytics]

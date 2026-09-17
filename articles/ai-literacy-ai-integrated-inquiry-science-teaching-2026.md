@@ -3,7 +3,6 @@ title: "From AI literacy to AI-integrated inquiry-based science teaching: the se
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [ai-literacy, tpack, inquiry-based-learning, self-efficacy, science-education, teacher-ai-competency, teacher-education, teacher-role, pedagogy]
 foundations: [ai-literacy, teacher-role]
 pedagogy: [inquiry-based-learning, pedagogy, self-efficacy]
 stakeholders: [teacher-ai-competency, tpack]
@@ -12,7 +11,7 @@ research_method: [structural equation modeling]
 sources: ['raw/papers/10.3389_fpsyg.2026.1911909.md']
 confidence: high
 discipline: [science education]
-level: [higher ed]
+level: [higher ed, teacher training]
 ---
 
 > **Synthesis:** A survey of 548 Chinese pre-service science teachers tested how [[ai-literacy|AI literacy]] becomes the intention to teach science through inquiry with AI. The study found a serial chain in which AI literacy strengthens [[tpack|AI-TPACK]], AI-TPACK in turn builds [[self-efficacy|science teaching self-efficacy]], and that confidence predicts the intention to integrate AI — suggesting that general AI literacy is a necessary but not sufficient foundation for AI-integrated [[inquiry-based-learning|inquiry-based]] science teaching.

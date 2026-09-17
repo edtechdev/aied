@@ -3,7 +3,6 @@ title: "Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lect
 created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T10:00:00-04:00"
 type: article
-tags: [multimodal, ai-education, knowledge-graph, knowledge-tracing, student-modeling, generative-ai, adaptive-learning]
 foundations: [ai-education]
 technology: [adaptive-learning, generative-ai, knowledge-graph, knowledge-tracing, multimodal, student-modeling]
 research_method: [system development]

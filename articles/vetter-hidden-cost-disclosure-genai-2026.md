@@ -3,7 +3,6 @@ title: "The Hidden Cost of Disclosure: A Multi-institutional Study on Undergradu
 created: "2026-08-27T11:15:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [ai-use-disclosure, trust, academic-integrity, higher-ed, generative-ai, educational-policy-ai]
 foundations: [academic-integrity]
 technology: [generative-ai]
 stakeholders: [educational-policy-ai]

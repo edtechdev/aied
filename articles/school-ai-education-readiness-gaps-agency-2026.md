@@ -3,7 +3,6 @@ title: "Does School-Based AI Education Narrow Readiness Gaps?"
 created: "2026-08-30T03:27:22-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [equity-in-ai-education, ai-education, ai-literacy, agency, k-12, digital-divide, motivation]
 foundations: [agency, ai-education, ai-literacy]
 pedagogy: [motivation]
 ethics: [digital-divide, equity-in-ai-education]

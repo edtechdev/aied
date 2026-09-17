@@ -4,7 +4,6 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/emotion-aware-classroom-iot-monitoring-2026.md"]
-tags: ['affective-computing']
 technology: [affective-computing]
 confidence: medium
 research_method: [system development, benchmark]

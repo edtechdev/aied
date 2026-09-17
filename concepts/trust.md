@@ -3,7 +3,6 @@ title: Trust
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
-tags: [trust, ai-literacy, educational-robotics, human-ai-collaboration, critical-thinking, intelligent-tutoring]
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]

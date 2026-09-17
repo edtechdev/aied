@@ -4,7 +4,6 @@ created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 sources: ["raw/papers/genai-scenario-based-healthcare-education-2026.md"]
-tags: ["generative-ai", "medical-education", "problem-based-learning", "simulation", "meta-analysis-systematic-review", "human-ai-collaboration"]
 foundations: [human-ai-collaboration]
 pedagogy: [problem-based-learning]
 technology: [generative-ai, simulation]

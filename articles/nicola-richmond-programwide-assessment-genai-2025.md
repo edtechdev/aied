@@ -3,7 +3,6 @@ title: "It Takes a Village... Program-Wide Approaches to Redesigning Assessment 
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [assessment, generative-ai, higher-ed, teacher-role, curriculum-design, educational-development]
 foundations: [curriculum-design, educational-development, teacher-role]
 technology: [generative-ai]
 assessment: [assessment]

@@ -3,7 +3,6 @@ title: "A Taxonomy of LLM-Supported Tasks for Critical AI Literacy in Journalism
 created: "2026-08-26T17:52:26-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [generative-ai, ai-literacy, prompt-engineering, writing-education, critical-thinking, ethics, human-in-the-loop-ai, higher-ed, curriculum-design]
 foundations: [ai-literacy, critical-thinking, curriculum-design]
 technology: [generative-ai, human-in-the-loop-ai, prompt-engineering]
 ethics: [ethics]
@@ -12,6 +11,7 @@ research_method: [literature review, theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026.md']
 confidence: high
+discipline: [writing education]
 ---
 
 > **Synthesis:** Dierickx, Bjerknes, Opdahl, & Lindén (2026) develop a **task-based taxonomy** for integrating [[generative-ai|large language models (LLMs)]] into journalism education, organized around the four stages of the news workflow — newsgathering, sensemaking, editing, and publication/distribution. Drawing on task definitions from [[ai-technologies|machine learning]] and [[educational-nlp|natural language processing]] alongside journalism studies, the taxonomy translates journalistic activities into computationally-informed tasks, each linked to a baseline [[prompt-engineering|prompt]] and an explicit risk-and-mitigation strategy. By framing prompting as a [[situated-learning|situated]], reflexive professional practice rather than a technical skill, the paper advances [[ai-literacy|critical AI literacy]] — foregrounding bias, hallucination, [[cognitive-offloading|overreliance]], and the enduring need for [[human-in-the-loop-ai|human editorial oversight]].

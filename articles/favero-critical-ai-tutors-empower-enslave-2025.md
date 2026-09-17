@@ -3,7 +3,6 @@ title: "Critical AI Tutors: Empower or Enslave?"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [intelligent-tutoring, critical-thinking, cognitive-offloading, student-experience, regulation]
 foundations: [cognitive-offloading, critical-thinking]
 technology: [intelligent-tutoring]
 stakeholders: [regulation, student-experience]

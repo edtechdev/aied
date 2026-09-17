@@ -3,7 +3,6 @@ title: "DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation
 created: "2026-08-21T08:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [math-education, automated-assessment, llm, multimodal, educational-nlp, benchmark, generative-ai, visualization]
 technology: [educational-nlp, generative-ai, llm, multimodal, visualization]
 assessment: [automated-assessment, benchmark]
 audience: [software developers]

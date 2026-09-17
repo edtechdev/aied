@@ -3,7 +3,6 @@ title: The Effects of Structured LLM-Generated Feedback on Programming Assignmen
 created: "2026-05-19T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [llm, generative-ai, feedback, higher-ed, scaffolding, stem-education, pedagogical-agent, desirable-difficulties, rag]
 pedagogy: [desirable-difficulties, scaffolding]
 technology: [generative-ai, llm, pedagogical-agent, rag]
 assessment: [feedback]

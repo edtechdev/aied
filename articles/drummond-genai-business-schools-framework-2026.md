@@ -3,7 +3,6 @@ title: "Generating a Student-Informed Teaching and Learning Conceptual Framework
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [generative-ai, business-education, higher-ed, curriculum-design, teacher-role, academic-integrity, student-engagement]
 foundations: [academic-integrity, curriculum-design, teacher-role]
 pedagogy: [student-engagement]
 technology: [generative-ai]

@@ -3,7 +3,6 @@ title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 type: concept
-tags: [regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics]
 foundations: [academic-integrity, educational-development]
 stakeholders: [governance, regulation]
 ethics: [equity-in-ai-education, ethics]
@@ -11,7 +10,6 @@ connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy, course-
 audience: [administrators, instructors, faculty development]
 level: [higher ed, k 12]
 confidence: high
-
 ---
 
 > **Educational AI policy** — the formal and informal rules governing AI use in educational institutions, from national legislation to classroom guidelines. Policy research in the knowledge base spans institutional governance, [[curriculum-design|curriculum]] mandates, and teacher preparation requirements.

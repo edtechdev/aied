@@ -3,7 +3,6 @@ title: Video in Education
 created: "2026-09-05T01:05:00-04:00"
 updated: "2026-09-15T12:56:46-04:00"
 type: concept
-tags: [video-education, online-teaching-and-learning, generative-ai, multimodal, learning-analytics, student-engagement, personalized-learning, adaptive-learning, llm]
 pedagogy: [online-teaching-and-learning, student-engagement, video-education]
 technology: [adaptive-learning, generative-ai, learning-analytics, llm, multimodal, personalized-learning]
 audience: [instructors, learning designers]

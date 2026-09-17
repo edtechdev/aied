@@ -3,12 +3,11 @@ title: "A study of GenAI usage by Design Students: Analysis of Survey Results an
 created: "2026-07-22T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [generative-ai, higher-ed, student-experience, ai-literacy, academic-integrity, writing-education]
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
 stakeholders: [student-experience]
 research_method: [survey, mixed methods]
-discipline: [design education]
+discipline: [design education, writing education]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.17094.md']

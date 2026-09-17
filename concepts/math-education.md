@@ -3,7 +3,6 @@ title: Math Education
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
-tags: [math-education, stem-education, intelligent-tutoring, k-12, generative-ai, higher-ed, student-experience, scaffolding]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
 stakeholders: [student-experience]

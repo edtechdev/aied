@@ -3,7 +3,6 @@ title: "TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English 
 created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T18:15:00-04:00"
 type: article
-tags: [intelligent-tutoring, scaffolding, adaptive-learning, llm, generative-ai, pedagogical-agent, language-learning, ai-education]
 foundations: [ai-education]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, pedagogical-agent]

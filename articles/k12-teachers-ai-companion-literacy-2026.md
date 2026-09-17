@@ -3,7 +3,6 @@ title: "Exploring K-12 Teachers' Perceptions of Students' Relationships with AI 
 created: "2026-09-15T10:30:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [ai-literacy, k-12, teacher-role, student-ai-interaction, well-being, conversational-ai, pedagogical-safety, ethics, human-in-the-loop-ai]
 foundations: [ai-literacy, teacher-role]
 pedagogy: [student-ai-interaction, well-being]
 technology: [conversational-ai, human-in-the-loop-ai]

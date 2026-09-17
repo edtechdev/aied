@@ -3,7 +3,6 @@ title: "ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomou
 created: "2026-06-18T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [intelligent-tutoring, adaptive-learning, professional-training, active-learning, llm, simulation]
 pedagogy: [active-learning]
 technology: [adaptive-learning, intelligent-tutoring, llm, simulation]
 stakeholders: [professional-training]

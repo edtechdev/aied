@@ -3,7 +3,6 @@ title: Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start 
 created: "2026-06-25T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [learning-analytics, student-modeling, higher-ed, student-engagement, self-regulated-learning, adaptive-learning, formative-assessment, regulation]
 pedagogy: [self-regulated-learning, student-engagement]
 technology: [adaptive-learning, learning-analytics, student-modeling]
 assessment: [formative-assessment]

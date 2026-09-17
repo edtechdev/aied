@@ -3,7 +3,6 @@ title: "MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understan
 type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
-tags: [multimodal, benchmark, language-learning, affective-computing, arts-design-and-media-education, culturally-relevant-pedagogy, situated-learning, equity-in-ai-education, llm]
 pedagogy: [situated-learning]
 technology: [affective-computing, llm, multimodal]
 assessment: [benchmark]

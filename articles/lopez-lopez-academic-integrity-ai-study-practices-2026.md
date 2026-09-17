@@ -3,7 +3,6 @@ title: "Academic Integrity in the Age of AI: University Students' Study Practice
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [academic-integrity, ai-misuse-learning-harm, generative-ai, higher-ed, ai-literacy, ai-use-disclosure, ethics, equity-in-ai-education, creativity]
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [creativity]
 technology: [generative-ai]

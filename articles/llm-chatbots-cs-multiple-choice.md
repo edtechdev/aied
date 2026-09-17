@@ -3,14 +3,13 @@ title: Are LLM-based Chatbots Good Enough to Support Computer Science Students i
 created: "2026-06-16T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [higher-ed, llm, automated-assessment, student-experience, stem-education, learning-analytics, k-12]
 technology: [learning-analytics, llm]
 assessment: [automated-assessment]
 stakeholders: [student-experience]
 research_method: [benchmark]
 discipline: [stem education]
 audience: [learners, software developers]
-level: [higher ed]
+level: [higher ed, k 12]
 
 sources: ['raw/papers/2606.15919.md']
 confidence: high

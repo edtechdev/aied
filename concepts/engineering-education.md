@@ -3,7 +3,6 @@ title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
 updated: "2026-09-17T14:13:57-04:00"
 type: concept
-tags: [engineering-education, stem-education, ai-literacy, educational-development, professional-training, assessment, ethics, higher-ed]
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
 stakeholders: [professional-training]

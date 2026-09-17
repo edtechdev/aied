@@ -3,11 +3,10 @@ title: "Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A 
 created: "2026-08-18T09:25:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
-tags: [assessment-validity, educational-measurement, psychometrically-aware-ai, item-response-theory, ai-ed-evaluation, llm, higher-ed, generative-ai]
 technology: [generative-ai, llm]
 assessment: [ai-ed-evaluation, assessment-validity, educational-measurement, item-response-theory, psychometrically-aware-ai]
 research_method: [educational measurement]
-level: [secondary, k 12]
+level: [secondary, k 12, higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/assessment-latent-structure-human-llm-2026.md']
 confidence: high

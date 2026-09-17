@@ -3,7 +3,6 @@ title: "When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-B
 created: "2026-08-26T09:00:00-04:00"
 updated: "2026-08-26T09:00:00-04:00"
 type: article
-tags: [learning-analytics, equity-in-ai-education, student-ai-interaction, sociocultural-learning, k-12, llm, multimodal]
 pedagogy: [sociocultural-learning, student-ai-interaction]
 technology: [learning-analytics, llm, multimodal]
 ethics: [equity-in-ai-education]

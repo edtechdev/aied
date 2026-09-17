@@ -3,7 +3,6 @@ title: "Nursing Education"
 created: "2026-09-17T14:04:21-04:00"
 updated: "2026-09-17T14:04:21-04:00"
 type: concept
-tags: [nursing-education, medical-education, simulation, self-efficacy, generative-ai, professional-training, learner-identity, equity-in-ai-education, higher-ed]
 foundations: [learner-identity]
 pedagogy: [self-efficacy]
 technology: [generative-ai, simulation]

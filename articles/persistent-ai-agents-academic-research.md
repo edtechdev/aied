@@ -3,7 +3,6 @@ title: "Persistent AI Agents in Academic Research: A Single-Investigator Impleme
 created: "2026-05-27T07:38:00-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [llm, generative-ai, higher-ed, agentic-ai, educational-development, learning-analytics, student-experience, intelligent-tutoring, ai-literacy, scaffolding]
 foundations: [agentic-ai, ai-literacy, educational-development]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, learning-analytics, llm]

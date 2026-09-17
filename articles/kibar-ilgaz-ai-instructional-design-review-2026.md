@@ -3,7 +3,6 @@ title: "The Intersection of Artificial Intelligence and Instructional Design Pra
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-23T10:00:00-04:00"
 type: article
-tags: [learning-design, generative-ai, human-ai-collaboration, teacher-role, pedagogy]
 foundations: [human-ai-collaboration, learning-design, teacher-role]
 pedagogy: [pedagogy]
 technology: [generative-ai]

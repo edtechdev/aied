@@ -3,7 +3,6 @@ title: "A Case Study of Integrating AI Literacy Education in a Biology Class"
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [biology-education, ai-literacy, k-12, stem-education, curriculum-design, learning-design, transfer-of-learning, ai-ed-evaluation, active-learning, machine-learning]
 foundations: [ai-literacy, curriculum-design, learning-design]
 pedagogy: [active-learning, transfer-of-learning]
 technology: [machine-learning]

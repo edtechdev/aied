@@ -3,7 +3,6 @@ title: Programming Intelligent Tutoring Systems
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [intelligent-tutoring, stem-education, higher-ed, adaptive-learning, formative-assessment, rag, llm]
 technology: [adaptive-learning, intelligent-tutoring, llm, rag]
 assessment: [formative-assessment]
 research_method: [system development]

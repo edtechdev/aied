@@ -3,14 +3,13 @@ title: LLMs for Culturally Relevant K-12 Pedagogy
 created: "2026-05-08T07:38:00-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [inclusive-learning, k-12, pedagogy, equity-in-ai-education, educational-development, curriculum-design, higher-ed, ai-literacy, generative-ai, llm]
 foundations: [ai-literacy, curriculum-design, educational-development]
 pedagogy: [pedagogy]
 technology: [generative-ai, llm]
 ethics: [equity-in-ai-education, inclusive-learning]
 research_method: [design and evaluation study, user study]
 audience: [faculty development]
-level: [k 12]
+level: [k 12, higher ed]
 confidence: high
 sources: ['raw/papers/2505.08083.md']
 ---

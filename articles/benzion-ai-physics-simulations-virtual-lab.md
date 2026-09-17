@@ -3,12 +3,11 @@ title: "Leveraging AI for Rapid Generation of Physics Simulations in Education: 
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [generative-ai, llm, physics-education, simulation, stem-education, prompt-engineering]
 technology: [generative-ai, llm, prompt-engineering, simulation]
 research_method: [design and evaluation study]
 sources: ['raw/papers/benzion-ai-physics-simulations-virtual-lab.md']
 confidence: high
-discipline: [physics education]
+discipline: [physics education, stem education]
 audience: [instructors, teachers]
 level: [higher ed]
 ---

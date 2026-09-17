@@ -3,7 +3,6 @@ title: "SAVVY: Student Attention Visualization for Video-based Learning Analysis
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [learning-analytics, multimodal, student-experience, student-engagement, higher-ed, edtech-platform, visualization]
 pedagogy: [student-engagement]
 technology: [learning-analytics, multimodal, visualization]
 stakeholders: [edtech-platform, student-experience]

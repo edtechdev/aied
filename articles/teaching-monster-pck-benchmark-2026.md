@@ -3,7 +3,6 @@ title: "Findings of the First Teaching Monster Challenge: A Benchmark of Pedagog
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T04:38:00-04:00"
 type: article
-tags: [benchmark, ai-ed-evaluation, agentic-ai, pedagogical-agent, generative-ai]
 foundations: [agentic-ai]
 technology: [generative-ai, pedagogical-agent]
 assessment: [ai-ed-evaluation, benchmark]

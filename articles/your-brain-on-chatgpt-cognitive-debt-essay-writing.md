@@ -3,7 +3,6 @@ title: "Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI A
 created: "2026-08-25T07:50:00-04:00"
 updated: "2026-08-25T07:50:00-04:00"
 type: article
-tags: [cognitive-offloading, generative-ai, writing-education, academic-integrity, student-engagement, metacognition, agency]
 foundations: [academic-integrity, agency, cognitive-offloading]
 pedagogy: [metacognition, student-engagement]
 technology: [generative-ai]

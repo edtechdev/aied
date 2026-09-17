@@ -3,7 +3,6 @@ title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
 updated: "2026-09-16T14:32:03-04:00"
 type: concept
-tags: [knowledge-tracing, student-modeling, learning-analytics, generative-ai, ai-education, intelligent-tutoring, curriculum-design, llm]
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high

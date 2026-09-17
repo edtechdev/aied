@@ -4,7 +4,6 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T09:24:00-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
-tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
 foundations: [ai-literacy]
 assessment: [ai-detection, assessment-validity, authentic-assessment]
 stakeholders: [educational-policy-ai, regulation]

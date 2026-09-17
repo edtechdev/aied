@@ -3,7 +3,6 @@ title: A review of intervention designs of LLM Integration in Undergraduate Comp
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [cs-education, generative-ai, llm, scaffolding, learning-design, prompt-engineering, higher-ed, computational-thinking]
 foundations: [computational-thinking, learning-design]
 pedagogy: [scaffolding]
 technology: [generative-ai, llm, prompt-engineering]

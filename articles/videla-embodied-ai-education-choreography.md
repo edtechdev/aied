@@ -3,7 +3,6 @@ title: "\"If You Can't Dance Your Program, You Can't Write It\": Challenges and 
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [embodied-learning, pedagogical-agent, cognitive-psychology, critical-thinking, situated-learning, human-ai-collaboration, higher-ed, philosophy-of-ai-in-education]
 foundations: [critical-thinking, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [cognitive-psychology, embodied-learning, situated-learning]
 technology: [pedagogical-agent]

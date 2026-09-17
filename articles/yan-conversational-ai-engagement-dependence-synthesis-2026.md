@@ -3,7 +3,6 @@ title: "A Critical Narrative Synthesis of Psychological Correlates, Measurement,
 created: "2026-09-06T08:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [conversational-ai, well-being, cognitive-offloading, metacognition, ethics, higher-ed, generative-ai, student-engagement]
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, student-engagement, well-being]
 technology: [conversational-ai, generative-ai]

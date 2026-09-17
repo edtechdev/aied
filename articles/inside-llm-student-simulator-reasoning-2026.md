@@ -3,7 +3,6 @@ title: "INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action 
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T09:00:00-04:00"
 type: article
-tags: [student-modeling, llm, intelligent-tutoring, learning-analytics, personalized-learning, ai-education, higher-ed]
 foundations: [ai-education]
 technology: [intelligent-tutoring, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [software developers]

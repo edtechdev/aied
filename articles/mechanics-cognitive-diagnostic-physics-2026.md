@@ -3,7 +3,6 @@ title: "Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives
 type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
-tags: [cognitive-diagnosis, physics-education, educational-measurement, item-response-theory, formative-assessment, automated-assessment, adaptive-learning, stem-education, assessment-validity]
 technology: [adaptive-learning, cognitive-diagnosis]
 assessment: [assessment-validity, automated-assessment, educational-measurement, formative-assessment, item-response-theory]
 sources: ['raw/papers/mechanics-cognitive-diagnostic-physics-2026.md']
@@ -11,7 +10,7 @@ confidence: high
 research_method: [educational measurement]
 level: [higher ed]
 audience: [assessment designers, instructors, researchers]
-discipline: [physics education]
+discipline: [physics education, stem education]
 ---
 
 > **Synthesis:** Le and colleagues build the Mechanics Cognitive Diagnostic (MCD-v2), a cognitive-diagnostic computerized adaptive test that reports student mastery of fine-grained learning objectives during instruction, and test whether the [[physics-education|physics]] assessments courses already administer can supply its item bank. Working from research-based assessments (RBAs) — the 30-item Force Concept Inventory, the 47-item Force and Motion Conceptual Evaluation and the 25-item Energy and Momentum Conceptual Survey — they defined 14 learning objectives from OpenStax textbooks and AP Physics standards under evidence-centered design, mapped items to objectives with a Q-matrix, and refined that mapping with the DINA cognitive-diagnostic model on 24,394 posttest responses drawn from 807 courses at 79 institutions. The FCI and EMCS fit the model well, the FMCE only marginally, and classification accuracy met or exceeded low-stakes [[formative-assessment|formative]] [[benchmark|benchmarks]] for 19 of the 22 objective–assessment combinations that had data. The result is a working 14-objective item bank assembled from instruments courses already use, plus a precise account of where the evidence is weakest — three nested energy objectives that share most of their items and violate the DINA model's independence assumption — and a roadmap to a 35-objective diagnostic covering a full semester at roughly two objectives per week.

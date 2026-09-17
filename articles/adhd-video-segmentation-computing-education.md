@@ -3,7 +3,6 @@ title: "Leveling the Playing Field: Temporal Video Segmentation for Individuals 
 created: "2026-07-28T04:33:04-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
-tags: [inclusive-learning, cs-education, learning-design, neurodiversity, llm]
 foundations: [learning-design]
 technology: [llm]
 ethics: [inclusive-learning, neurodiversity]

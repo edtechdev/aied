@@ -3,7 +3,6 @@ title: "CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-C
 created: "2026-08-04T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [llm, agentic-ai, rag, automated-question-generation, cs-education, human-in-the-loop-ai, assessment, automated-assessment, generative-ai]
 foundations: [agentic-ai]
 technology: [generative-ai, human-in-the-loop-ai, llm, rag]
 assessment: [assessment, automated-assessment, automated-question-generation]

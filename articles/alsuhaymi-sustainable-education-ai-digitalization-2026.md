@@ -3,7 +3,6 @@ title: "Sustainable Education in the Age of Artificial Intelligence and Digitali
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
-tags: [sustainability, ethics, ai-education, generative-ai, governance, philosophy-of-ai-in-education, critical-pedagogy, higher-ed]
 foundations: [ai-education, philosophy-of-ai-in-education, sustainability]
 pedagogy: [critical-pedagogy]
 technology: [generative-ai]

@@ -3,7 +3,6 @@ title: Hallucination Risk
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: concept
-tags: [hallucination-risk, ai-ed-evaluation, generative-ai, llm, pedagogical-safety, human-in-the-loop-ai, cognitive-offloading]
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
 assessment: [ai-ed-evaluation]

@@ -3,7 +3,6 @@ title: "Can EdTech Close Learning Gaps? Global Evidence from Digital Interventio
 created: "2026-08-24T11:55:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [meta-analysis-systematic-review, rct, learning-gains, intelligent-tutoring, adaptive-learning, generative-ai, k-12, equity-in-ai-education, ai-ed-evaluation]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 assessment: [ai-ed-evaluation, learning-gains, meta-analysis-systematic-review, rct]
 ethics: [equity-in-ai-education]

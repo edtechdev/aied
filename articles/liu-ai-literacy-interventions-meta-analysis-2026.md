@@ -3,7 +3,6 @@ title: "AI Literacy Interventions in Education: A Meta-Analysis of Effects and M
 created: "2026-08-24T12:34:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [ai-literacy, meta-analysis-systematic-review, ai-ed-evaluation, pedagogy, assessment, higher-ed, k-12]
 foundations: [ai-literacy]
 pedagogy: [pedagogy]
 assessment: [ai-ed-evaluation, assessment, meta-analysis-systematic-review]

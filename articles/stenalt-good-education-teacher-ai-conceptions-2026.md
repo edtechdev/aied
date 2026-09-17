@@ -3,7 +3,6 @@ title: "Understanding what good education is: a phenomenographic investigation o
 created: "2026-08-25T07:58:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [teacher-role, higher-ed, ai-literacy, curriculum-design, qualitative-research, teacher-ai-competency, pedagogy, learning-theories]
 foundations: [ai-literacy, curriculum-design, teacher-role]
 pedagogy: [learning-theories, pedagogy]
 assessment: [qualitative-research]

@@ -3,7 +3,6 @@ title: "An AI-supported E-mentoring model to develop EFL pre-service teachers' s
 created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [teacher-education, self-efficacy, language-learning, social-emotional-learning, ai-literacy]
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, social-emotional-learning]
 audience: [teacher educators, researchers, instructors]

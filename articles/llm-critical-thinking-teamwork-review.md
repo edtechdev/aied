@@ -3,7 +3,6 @@ title: "Can Large Language Models Foster Critical Thinking, Teamwork, and Proble
 created: "2026-08-11T06:15:03-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [collaborative-learning, generative-ai, higher-ed, critical-thinking, problem-solving, meta-analysis-systematic-review, assessment]
 foundations: [critical-thinking]
 pedagogy: [collaborative-learning, problem-solving]
 technology: [generative-ai]

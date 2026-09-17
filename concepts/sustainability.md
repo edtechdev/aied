@@ -3,12 +3,11 @@ title: Sustainability
 created: "2026-08-28T14:40:00-04:00"
 updated: "2026-08-31T06:34:37-04:00"
 type: concept
-tags: [sustainability, ethics, governance, educational-policy-ai, ai-education, higher-ed, k-12, teacher-education, generative-ai]
 foundations: [ai-education, sustainability]
 technology: [generative-ai]
 stakeholders: [educational-policy-ai, governance]
 ethics: [ethics]
-level: [higher ed, k 12]
+level: [higher ed, k 12, teacher training]
 
 confidence: high
 ---

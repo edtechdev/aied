@@ -3,7 +3,6 @@ title: "Advancing diagram-based reasoning in AI tutoring systems: a structural a
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [intelligent-tutoring, stem-education, llm, generative-ai, automated-assessment, feedback, scaffolding, rag, visualization]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm, rag, visualization]
 assessment: [automated-assessment, feedback]

@@ -3,7 +3,6 @@ title: "A Bottom-Up Taxonomy of Student Discourse with a Socratic AI Physics Tut
 created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-24T11:30:00-04:00"
 type: article
-tags: [intelligent-tutoring, physics-education, socratic-method, llm, higher-ed, ai-education]
 foundations: [ai-education]
 pedagogy: [socratic-method]
 technology: [intelligent-tutoring, llm]

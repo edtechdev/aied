@@ -3,7 +3,6 @@ title: Designing a mobile chatbot-based learning journaling system for intrinsic
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [self-regulated-learning, generative-ai, higher-ed, student-experience, student-engagement, scaffolding, metacognition, llm]
 pedagogy: [metacognition, scaffolding, self-regulated-learning, student-engagement]
 technology: [generative-ai, llm]
 stakeholders: [student-experience]

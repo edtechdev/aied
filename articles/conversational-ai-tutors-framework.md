@@ -3,7 +3,6 @@ title: "The Path to Conversational AI Tutors: Integrating Tutoring Best Practice
 created: "2026-05-11T04:33:04-04:00"
 updated: "2026-09-16T15:49:45-04:00"
 type: article
-tags: [intelligent-tutoring, generative-ai, llm, scaffolding, personalized-learning, feedback, adaptive-learning]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 assessment: [feedback]

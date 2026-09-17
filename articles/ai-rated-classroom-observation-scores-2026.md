@@ -3,7 +3,6 @@ title: "I code or AI code: A comparative evaluation of AI-rated scores in classr
 type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
-tags: [educational-measurement, automated-assessment, assessment-validity, early-childhood-elementary-ai-education, human-in-the-loop-ai, llm, ai-ed-evaluation, multimodal, teacher-role]
 foundations: [teacher-role]
 technology: [human-in-the-loop-ai, llm, multimodal]
 assessment: [ai-ed-evaluation, assessment-validity, automated-assessment, educational-measurement]

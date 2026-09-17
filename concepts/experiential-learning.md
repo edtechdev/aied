@@ -3,7 +3,6 @@ title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
-tags: [experiential-learning, active-learning, higher-ed, project-based-learning, embodied-learning]
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high

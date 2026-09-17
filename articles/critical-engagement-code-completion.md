@@ -3,7 +3,6 @@ title: "To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completio
 created: "2026-06-30T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [formative-assessment, higher-ed, llm, stem-education, student-experience]
 technology: [llm]
 assessment: [formative-assessment]
 stakeholders: [student-experience]

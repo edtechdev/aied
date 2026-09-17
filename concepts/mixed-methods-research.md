@@ -3,7 +3,6 @@ title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
 updated: "2026-08-31T06:34:37-04:00"
 type: concept
-tags: [mixed-methods-research, research-methods-aied, qualitative-research, quantitative-research]
 assessment: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 research_method: [mixed methods, research methods, qualitative, survey]
 confidence: high

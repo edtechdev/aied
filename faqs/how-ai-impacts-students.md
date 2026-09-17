@@ -3,7 +3,6 @@ title: "How Is AI Impacting Students?"
 created: "2026-08-27T07:59:08-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 weight: 82
-tags: [student-experience, cognitive-offloading, well-being, learner-identity, ai-literacy, equity-in-ai-education]
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 stakeholders: [student-experience]

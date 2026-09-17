@@ -3,7 +3,6 @@ title: "Human-centered GenAI feedback design in higher education: a multisite ex
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
-tags: [generative-ai, feedback, higher-ed, critical-thinking, self-regulated-learning, transfer-of-learning, agency, rag]
 foundations: [agency, critical-thinking]
 pedagogy: [self-regulated-learning, transfer-of-learning]
 technology: [generative-ai, rag]

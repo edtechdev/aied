@@ -60,7 +60,8 @@ title: "Full Paper Title"
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 type: article
-tags: [relevant, concept, tags]
+technology: [llm]           # typed facet fields: concept slugs from one registry section
+pedagogy: [scaffolding]
 sources: ['raw/papers/filename.md']  # or [] if no full text saved
 confidence: high
 research_method: [survey, systematic review, experiment]  # optional

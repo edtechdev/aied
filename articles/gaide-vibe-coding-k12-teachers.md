@@ -3,7 +3,6 @@ title: A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Tec
 created: "2026-07-09T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [k-12, teacher-role, ai-literacy, generative-ai, educational-development, active-learning, llm]
 foundations: [ai-literacy, educational-development, teacher-role]
 pedagogy: [active-learning]
 technology: [generative-ai, llm]

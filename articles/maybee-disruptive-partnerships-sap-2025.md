@@ -3,15 +3,6 @@ title: "Disruptive Partnerships: Collaborating with Students to Create Empowerin
 created: "2026-08-31T09:45:00-04:00"
 updated: "2026-08-31T09:58:42-04:00"
 type: article
-tags:
-  - pedagogical-partnerships
-  - ai-literacy
-  - agency
-  - teacher-role
-  - higher-ed
-  - learning-design
-  - curriculum-design
-  - equity-in-ai-education
 
 foundations: [agency, ai-literacy, curriculum-design, learning-design, teacher-role]
 pedagogy: [pedagogical-partnerships]

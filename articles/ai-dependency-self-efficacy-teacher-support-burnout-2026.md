@@ -3,7 +3,6 @@ title: "The dark side of AI in education: AI dependency as a mediator linking ac
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [ai-misuse-learning-harm, cognitive-offloading, self-efficacy, teacher-role, well-being, higher-ed, student-engagement]
 foundations: [cognitive-offloading, teacher-role]
 pedagogy: [self-efficacy, student-engagement, well-being]
 ethics: [ai-misuse-learning-harm]

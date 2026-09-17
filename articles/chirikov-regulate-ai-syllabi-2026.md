@@ -3,7 +3,6 @@ title: "How Instructors Regulate AI in College: Evidence from 31,000 Course Syll
 created: "2026-09-02T04:30:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [educational-policy-ai, regulation, governance, academic-integrity, generative-ai, higher-ed, teacher-role, assessment]
 foundations: [academic-integrity, teacher-role]
 technology: [generative-ai]
 assessment: [assessment]

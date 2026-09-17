@@ -3,7 +3,6 @@ title: "Thinking—Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoni
 created: "2026-08-22T18:45:00-04:00"
 updated: "2026-08-22T18:45:00-04:00"
 type: article
-tags: [cognitive-offloading, critical-thinking, trust, metacognition, ai-literacy, ai-misuse-learning-harm, generative-ai, human-in-the-loop-ai]
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [metacognition]
 technology: [generative-ai, human-in-the-loop-ai]

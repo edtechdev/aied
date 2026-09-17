@@ -3,7 +3,6 @@ title: Computational Thinking
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-31T06:34:37-04:00"
 type: concept
-tags: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai]
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
 discipline: [cs education, stem education]

@@ -3,7 +3,6 @@ title: A light-touch AI literacy intervention helps protect against AI political
 created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [ai-literacy, critical-thinking, trust-calibration, conversational-ai, llm, generative-ai, rct, meta-analysis-systematic-review]
 foundations: [ai-literacy, critical-thinking]
 technology: [conversational-ai, generative-ai, llm]
 assessment: [meta-analysis-systematic-review, rct]

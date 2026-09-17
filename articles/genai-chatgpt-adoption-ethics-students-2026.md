@@ -3,7 +3,6 @@ title: "Generative AI in higher education: Ethical and behavioral factors influe
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [higher-ed, ethics, generative-ai, conversational-ai, technology-acceptance-model, trust, student-experience, change-management]
 technology: [conversational-ai, generative-ai]
 stakeholders: [change-management, student-experience, technology-acceptance-model]
 ethics: [ethics, trust]

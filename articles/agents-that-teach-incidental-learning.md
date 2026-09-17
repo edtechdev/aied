@@ -3,7 +3,6 @@ title: "Agents That Teach: Designing Incidental Learning Back into AI-Assisted S
 created: "2026-07-08T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [agentic-ai, cs-education, generative-ai, higher-ed, llm, cognitive-offloading, professional-training, self-regulated-learning, ai-literacy, rag]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 pedagogy: [self-regulated-learning]
 technology: [generative-ai, llm, rag]

@@ -3,7 +3,6 @@ title: "How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analys
 created: "2026-07-10T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [ai-literacy, student-experience, academic-integrity, higher-ed, generative-ai, self-regulated-learning, llm, scaffolding, teacher-role]
 foundations: [academic-integrity, ai-literacy, teacher-role]
 pedagogy: [scaffolding, self-regulated-learning]
 technology: [generative-ai, llm]

@@ -3,7 +3,6 @@ title: "Zero-Shot Governance: General-Purpose AI in Policy"
 created: "2026-09-09T19:18:07-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [governance, educational-policy-ai, generative-ai, llm, agency]
 foundations: [agency]
 technology: [generative-ai, llm]
 stakeholders: [educational-policy-ai, governance]

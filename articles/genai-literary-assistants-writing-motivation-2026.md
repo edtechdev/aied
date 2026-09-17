@@ -3,7 +3,6 @@ title: "Role of generative AI literary assistants in enhancing ninth-grade stude
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [writing-education, generative-ai, motivation, student-engagement, k-12, cognitive-offloading]
 foundations: [cognitive-offloading]
 pedagogy: [motivation, student-engagement]
 technology: [generative-ai]

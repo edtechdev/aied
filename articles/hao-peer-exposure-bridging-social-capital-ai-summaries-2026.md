@@ -3,7 +3,6 @@ title: "Enhancing Peer Exposure and Creating Opportunities for Bridging Social C
 created: "2026-09-06T12:48:50-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: article
-tags: [generative-ai, online-teaching-and-learning, collaborative-learning, scaffolding, student-engagement, llm]
 pedagogy: [collaborative-learning, online-teaching-and-learning, scaffolding, student-engagement]
 technology: [generative-ai, llm]
 research_method: [design-based research, mixed methods]

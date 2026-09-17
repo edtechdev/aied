@@ -3,7 +3,6 @@ title: An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal A
 created: "2026-05-19T04:33:04-04:00"
 updated: "2026-09-16T15:51:16-04:00"
 type: article
-tags: [intelligent-tutoring, affective-computing, multimodal, higher-ed, professional-training, learning-analytics, rag, llm]
 technology: [affective-computing, intelligent-tutoring, learning-analytics, llm, multimodal, rag]
 stakeholders: [professional-training]
 research_method: [experiment]

@@ -3,7 +3,6 @@ title: "Is hands-on learning still necessary in the age of AI? A thematic review
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
-tags: [experiential-learning, active-learning, embodied-learning, creativity, human-ai-collaboration, design-thinking, metacognition, pedagogy, ai-education, higher-ed]
 foundations: [ai-education, design-thinking, human-ai-collaboration]
 pedagogy: [active-learning, creativity, embodied-learning, experiential-learning, metacognition, pedagogy]
 audience: [researchers, instructors, curriculum designers, policymakers]

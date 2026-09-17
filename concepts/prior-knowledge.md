@@ -3,7 +3,6 @@ title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: concept
-tags: ['prior-knowledge', 'learning-theories', 'constructivist', 'personalized-learning', 'scaffolding', 'student-modeling', 'learning-design', 'metacognition']
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]

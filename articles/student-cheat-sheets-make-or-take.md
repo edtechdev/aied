@@ -3,7 +3,6 @@ title: "Make or Take: How Students Navigate Self-Created and Instructor-Provided
 created: "2026-07-28T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [assessment, metacognition, self-regulated-learning, higher-ed]
 pedagogy: [metacognition, self-regulated-learning]
 assessment: [assessment]
 research_method: [survey]

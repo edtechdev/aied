@@ -3,7 +3,6 @@ title: "Coach not crutch: Evidence that AI can improve writing skill despite red
 created: "2026-08-15T18:32:07-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [writing-education, cognitive-offloading, self-regulated-learning, ai-feedback-quality, learning-gains, ai-literacy]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [self-regulated-learning]
 assessment: [ai-feedback-quality, learning-gains]

@@ -3,14 +3,13 @@ title: "From Answer Generators to Reasoning Facilitators: Designing AI Tutors fo
 created: "2026-07-03T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [intelligent-tutoring, llm, scaffolding, formative-assessment, higher-ed, automated-assessment, learning-analytics, ai-literacy, k-12]
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, learning-analytics, llm]
 assessment: [automated-assessment, formative-assessment]
 audience: [learners, instructors]
 research_method: [mixed methods]
-level: [secondary]
+level: [secondary, higher ed, k 12]
 
 sources: ['raw/papers/2607.01692.md']
 confidence: high

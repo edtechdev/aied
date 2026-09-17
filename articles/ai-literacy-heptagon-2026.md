@@ -3,7 +3,6 @@ title: "The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher
 created: "2026-08-13T11:50:33-04:00"
 updated: "2026-08-13"
 type: article
-tags: [ai-literacy, higher-ed, curriculum-design, ethics, educational-policy-ai, teacher-role, assessment-validity]
 foundations: [ai-literacy, curriculum-design, teacher-role]
 assessment: [assessment-validity]
 stakeholders: [educational-policy-ai]

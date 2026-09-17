@@ -3,7 +3,6 @@ title: "Teaching with Generative Artificial Intelligence: Enhancing Critical Thi
 created: "2026-08-20T08:40:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [generative-ai, writing-education, critical-thinking, ethics, academic-integrity, higher-ed]
 foundations: [academic-integrity, critical-thinking]
 technology: [generative-ai]
 ethics: [ethics]

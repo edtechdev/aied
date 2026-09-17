@@ -3,7 +3,6 @@ title: "From Learning Analytics to Educational Interventions: Enhancing Decision
 created: "2026-08-30T16:45:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: ['learning-analytics', 'learning-design', 'higher-ed', 'governance', 'ethics', 'self-regulated-learning']
 foundations: [learning-design]
 pedagogy: [self-regulated-learning]
 technology: [learning-analytics]

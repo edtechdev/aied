@@ -3,7 +3,6 @@ title: "Integrating LLM with consortium blockchain for personalized and verifiab
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
-tags: [llm, personalized-learning, online-teaching-and-learning, assessment, trust, higher-ed, privacy]
 pedagogy: [online-teaching-and-learning]
 technology: [llm, personalized-learning]
 assessment: [assessment]

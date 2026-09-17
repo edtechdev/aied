@@ -3,7 +3,6 @@ title: "Making sense of AI feedback: how students' feedback literacy moderates t
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [ai-feedback-quality, self-regulated-learning, feedback, formative-assessment, ai-literacy, trust-calibration, generative-ai, metacognition, k-12]
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]

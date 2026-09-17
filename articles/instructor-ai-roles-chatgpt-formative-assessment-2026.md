@@ -3,7 +3,6 @@ title: "Instructor and AI Roles in the Chemistry Classroom: Future Science Teach
 created: "2026-08-19T12:48:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
-tags: [chemistry-education, formative-assessment, self-regulated-learning, human-ai-collaboration, teacher-education]
 foundations: [human-ai-collaboration]
 pedagogy: [self-regulated-learning]
 assessment: [formative-assessment]

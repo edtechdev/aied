@@ -3,7 +3,6 @@ title: "AI Web Agents Can Effectively Guide Lesson Design and Predict Student Ou
 created: "2026-09-05T00:10:31-04:00"
 updated: "2026-09-05T00:10:31-04:00"
 type: article
-tags: [agentic-ai, learning-design, cs-education, simulating-students, generative-ai, online-teaching-and-learning, llm, ai-ed-evaluation, student-modeling]
 foundations: [agentic-ai, learning-design]
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, llm, simulating-students, student-modeling]

@@ -4,7 +4,6 @@ created: "2026-09-16T15:58:20-04:00"
 updated: "2026-09-17T02:50:00-04:00"
 weight: 65
 type: faq
-tags: [accessibility, assistive-technology, neurodiversity, universal-design-for-learning, inclusive-learning, equity-in-ai-education, special-education]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
 research_method: [systematic review, meta-analysis, case study]
 audience: [instructors, learning designers, designers]

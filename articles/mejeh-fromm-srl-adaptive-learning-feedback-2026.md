@@ -3,7 +3,6 @@ title: "Fostering self-regulated learning through adaptive learning technology: 
 created: "2026-08-24T17:00:00-04:00"
 updated: "2026-09-12T11:20:00-04:00"
 type: article
-tags: [self-regulated-learning, adaptive-learning, feedback, feedback-literacy, higher-ed, metacognition, motivation, self-efficacy, learning-analytics]
 pedagogy: [metacognition, motivation, self-efficacy, self-regulated-learning]
 technology: [adaptive-learning, learning-analytics]
 assessment: [feedback, feedback-literacy]

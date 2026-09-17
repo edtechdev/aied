@@ -3,7 +3,6 @@ title: "AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science
 created: "2026-09-15T10:30:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [rag, cs-education, computational-thinking, higher-ed, problem-solving, intelligent-tutoring, llm, automated-question-generation, educational-nlp, knowledge-graph]
 foundations: [computational-thinking]
 pedagogy: [problem-solving]
 technology: [educational-nlp, intelligent-tutoring, knowledge-graph, llm, rag]

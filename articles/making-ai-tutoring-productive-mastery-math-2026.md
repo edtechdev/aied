@@ -3,7 +3,6 @@ title: "Making AI Tutoring Productive: Evidence from a Mastery-Based Math Practi
 created: "2026-08-17T17:56:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [intelligent-tutoring, cognitive-offloading, math-education, k-12, edtech-platform, adaptive-learning, learning-gains, feedback, metacognition, help-seeking, formative-assessment]
 foundations: [cognitive-offloading]
 pedagogy: [help-seeking, metacognition]
 technology: [adaptive-learning, intelligent-tutoring]

@@ -3,7 +3,6 @@ title: "Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Gui
 created: "2026-06-30T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [generative-ai, higher-ed, llm, stem-education, teacher-role, ai-literacy]
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
 research_method: [experiment, system development]

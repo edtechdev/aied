@@ -3,7 +3,6 @@ title: "It's Not the Tool, It's the Task: A Framework for Cognitively Activated 
 created: "2026-08-17T09:55:00-04:00"
 updated: "2026-08-17T09:55:00-04:00"
 type: article
-tags: [physics-education, generative-ai, self-regulated-learning, learning-design, human-ai-collaboration, metacognition, scaffolding]
 foundations: [human-ai-collaboration, learning-design]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai]

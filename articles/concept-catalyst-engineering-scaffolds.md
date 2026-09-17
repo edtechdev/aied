@@ -3,7 +3,6 @@ title: Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [llm, scaffolding, k-12, stem-education, teacher-role, generative-ai, learning-design]
 foundations: [learning-design, teacher-role]
 pedagogy: [scaffolding]
 technology: [generative-ai, llm]

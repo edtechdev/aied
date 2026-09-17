@@ -3,7 +3,6 @@ title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
 updated: "2026-09-17T09:24:00-04:00"
 type: concept
-tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, cognitive-offloading, assessment, educational-policy-ai, llm, assessment-validity, equity-in-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
 assessment: [ai-detection, assessment, assessment-validity]

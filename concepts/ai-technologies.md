@@ -3,7 +3,6 @@ title: Technologies
 created: "2026-08-19T18:10:00-04:00"
 updated: "2026-09-08T01:40:00-04:00"
 type: concept
-tags: [ai-technologies, generative-ai, llm, rag, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, prompt-engineering, agentic-ai]
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high

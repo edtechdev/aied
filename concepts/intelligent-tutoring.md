@@ -4,7 +4,6 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
-tags: [intelligent-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, student-modeling]
 assessment: [feedback]

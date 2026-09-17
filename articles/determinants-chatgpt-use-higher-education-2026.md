@@ -4,7 +4,6 @@ created: "2026-09-01T14:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/determinants-chatgpt-use-higher-education-2026.md"]
-tags: ["higher-ed", "learning-analytics", "student-engagement", "technology-acceptance-model", "educational-measurement"]
 pedagogy: [student-engagement]
 technology: [learning-analytics]
 assessment: [educational-measurement]

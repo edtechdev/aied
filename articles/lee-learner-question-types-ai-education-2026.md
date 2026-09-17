@@ -3,7 +3,6 @@ title: "Analysing AI utilisation in education through learner question types: A 
 created: "2026-09-14T05:10:00-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
-tags: [constructivist, educational-nlp, generative-ai, human-in-the-loop-ai, higher-ed, personalized-learning, scaffolding, critical-thinking]
 foundations: [critical-thinking]
 pedagogy: [constructivist, scaffolding]
 technology: [educational-nlp, generative-ai, human-in-the-loop-ai, personalized-learning]

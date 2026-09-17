@@ -3,7 +3,6 @@ title: Open Source
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-09-17T15:42:00-04:00"
 type: concept
-tags: [llm, open-source, intelligent-tutoring, adaptive-learning, edtech-platform, generative-ai, ai-education, curriculum-design, privacy, benchmark, agentic-ai, automated-assessment, writing-education]
 foundations: [agentic-ai, ai-education, curriculum-design]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm]
 assessment: [automated-assessment, benchmark]

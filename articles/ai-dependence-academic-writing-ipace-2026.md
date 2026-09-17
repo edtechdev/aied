@@ -3,7 +3,6 @@ title: "Are Students Dependent on AI in Writing Courses? Analyzing Factors Influ
 created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [cognitive-offloading, academic-integrity, writing-education, ai-literacy, higher-ed, ai-education]
 foundations: [academic-integrity, ai-education, ai-literacy, cognitive-offloading]
 audience: [researchers, instructors, administrators]
 research_method: [mixed methods]

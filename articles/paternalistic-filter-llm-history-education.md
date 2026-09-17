@@ -3,7 +3,6 @@ title: "The Paternalistic Filter: Epistemic Injustice and Differential Refusal i
 created: "2026-07-14T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [llm, student-experience, equity-in-ai-education, higher-ed, bias-mitigation]
 technology: [llm]
 stakeholders: [student-experience]
 ethics: [bias-mitigation, equity-in-ai-education]

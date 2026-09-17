@@ -3,7 +3,6 @@ title: "AI-Generated Slides: Are They Good? Can Students Tell?"
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [generative-ai, higher-ed, student-experience, educational-development, ai-literacy, scaffolding, automated-question-generation, llm]
 foundations: [ai-literacy, educational-development]
 pedagogy: [scaffolding]
 technology: [generative-ai, llm]

@@ -3,7 +3,6 @@ title: "Auto-marking short answer questions in science: The foundational years o
 created: "2026-09-03T12:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [automated-assessment, automated-essay-scoring, educational-nlp, llm, science-education, assessment, formative-assessment]
 technology: [educational-nlp, llm]
 assessment: [assessment, automated-assessment, automated-essay-scoring, formative-assessment]
 sources: ['raw/papers/auto-marking-short-answer-science-2026.md']

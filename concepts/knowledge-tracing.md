@@ -3,7 +3,6 @@ title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
 updated: "2026-09-16T14:32:03-04:00"
 type: concept
-tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, adaptive-learning, student-modeling, personalized-learning, student-experience, llm]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 stakeholders: [student-experience]
 audience: [learners]

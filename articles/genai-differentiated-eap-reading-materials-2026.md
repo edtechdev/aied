@@ -3,7 +3,6 @@ title: "From Unified to Differentiated Materials: Generative AI–Supported Adap
 created: "2026-08-13T05:14:23-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
-tags: [language-learning, generative-ai, personalized-learning, learning-design, scaffolding, teacher-role, writing-education, curriculum-design]
 foundations: [curriculum-design, learning-design, teacher-role]
 pedagogy: [scaffolding]
 technology: [generative-ai, personalized-learning]

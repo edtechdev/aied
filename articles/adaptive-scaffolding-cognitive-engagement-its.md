@@ -3,7 +3,6 @@ title: "Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring
 created: "2026-08-24T05:30:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [intelligent-tutoring, icap-framework, adaptive-learning, scaffolding, student-engagement, reinforcement-learning, knowledge-tracing, personalized-learning, problem-solving]
 pedagogy: [icap-framework, problem-solving, scaffolding, student-engagement]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, personalized-learning, reinforcement-learning]
 research_method: [experiment]

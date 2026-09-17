@@ -3,7 +3,6 @@ title: "A Hybrid Reasoning Framework for Artificial Intelligence Assessment Rubr
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
-tags: [automated-assessment, formative-assessment, llm, generative-ai, cs-education, assessment]
 technology: [generative-ai, llm]
 assessment: [assessment, automated-assessment, formative-assessment]
 audience: [software developers]

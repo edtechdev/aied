@@ -3,14 +3,13 @@ title: "TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-
 created: "2026-06-10T12:17:35-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [professional-training, llm, formative-assessment, student-experience, edtech-platform, higher-ed, generative-ai, intelligent-tutoring, scaffolding, k-12]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm]
 assessment: [formative-assessment]
 stakeholders: [edtech-platform, professional-training, student-experience]
 research_method: [experiment]
 audience: [learners]
-level: [adult learning]
+level: [adult learning, higher ed, k 12]
 confidence: high
 discipline: [medical education]
 page_kind: [framework]

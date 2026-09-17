@@ -3,7 +3,6 @@ title: "Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign 
 created: "2026-08-10T09:10:02-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
-tags: [academic-integrity, ai-literacy, higher-ed, learning-design, assessment, generative-ai, ai-education, ethics]
 foundations: [academic-integrity, ai-education, ai-literacy, learning-design]
 technology: [generative-ai]
 assessment: [assessment]

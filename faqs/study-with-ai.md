@@ -4,7 +4,6 @@ created: "2026-09-16T15:58:20-04:00"
 updated: "2026-09-17T03:00:00-04:00"
 weight: 60
 type: faq
-tags: [self-regulated-learning, help-seeking, metacognition, desirable-difficulties, cognitive-offloading, trust-calibration, self-efficacy]
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, help-seeking, metacognition, self-efficacy, self-regulated-learning]
 ethics: [trust-calibration]

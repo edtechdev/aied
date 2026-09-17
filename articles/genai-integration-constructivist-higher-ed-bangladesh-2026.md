@@ -3,7 +3,6 @@ title: "Generative Artificial Intelligence Integration in Higher Education: A Co
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-01T09:11:26-04:00"
 type: article
-tags: ["constructivist", "generative-ai", "higher-ed", "global-south", "technology-acceptance-model", "educational-policy-ai"]
 pedagogy: [constructivist]
 technology: [generative-ai]
 stakeholders: [educational-policy-ai, technology-acceptance-model]

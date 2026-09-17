@@ -3,7 +3,6 @@ title: "Evaluating Interactivity: Toward Automated Assessment of AI-Generated Ex
 created: "2026-07-03T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [generative-ai, formative-assessment, learning-analytics, higher-ed, llm, automated-assessment, scaffolding, ai-literacy, k-12]
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, learning-analytics, llm]

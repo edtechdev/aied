@@ -3,7 +3,6 @@ title: "Gen-AI-tecture: using generative AI to support architectural students in
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [generative-ai, higher-ed, student-experience, critical-thinking, ai-literacy, personalized-learning, equity-in-ai-education, professional-training, educational-measurement, constructivist]
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [constructivist]
 technology: [generative-ai, personalized-learning]

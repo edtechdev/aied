@@ -3,7 +3,6 @@ title: "Designing AI-Supported Oral Assessment in TVET"
 created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [authentic-assessment, assessment, accessibility, multilingual-learning, human-in-the-loop-ai, privacy, design-thinking, professional-training, inclusive-learning, llm]
 foundations: [design-thinking]
 technology: [human-in-the-loop-ai, llm]
 assessment: [assessment, authentic-assessment]

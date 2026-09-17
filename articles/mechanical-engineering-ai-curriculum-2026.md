@@ -3,7 +3,6 @@ title: "Giving Mechanical Engineers Intelligent Tools: A Project-Based AI Educat
 created: "2026-08-27T09:10:00-04:00"
 updated: "2026-09-12T01:20:00-04:00"
 type: article
-tags: [engineering-education, curriculum-design, project-based-learning, stem-education, machine-learning, computational-thinking, ai-education, open-source]
 foundations: [ai-education, computational-thinking, curriculum-design]
 pedagogy: [project-based-learning]
 technology: [machine-learning]

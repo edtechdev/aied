@@ -3,7 +3,6 @@ title: "EduFair-Bench: Evaluating Pedagogical Fairness of LLM Tutors Across Stud
 created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [pedagogical-safety, bias-mitigation, equity-in-ai-education, intelligent-tutoring, benchmark, ai-ed-evaluation, simulating-students, educational-nlp]
 technology: [educational-nlp, intelligent-tutoring, simulating-students]
 assessment: [ai-ed-evaluation, benchmark]
 stakeholders: [pedagogical-safety]

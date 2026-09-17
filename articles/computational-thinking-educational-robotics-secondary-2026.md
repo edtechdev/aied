@@ -3,7 +3,6 @@ title: "Computational Thinking to Enhance Educational Robotics in Secondary Scho
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [computational-thinking, educational-robotics, stem-education, k-12, curriculum-design, problem-solving]
 foundations: [computational-thinking, curriculum-design]
 pedagogy: [problem-solving]
 technology: [educational-robotics]

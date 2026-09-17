@@ -3,7 +3,6 @@ title: "Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systema
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [educational-robotics, agency, meta-analysis-systematic-review, ethics, governance, well-being]
 foundations: [agency]
 pedagogy: [well-being]
 technology: [educational-robotics]

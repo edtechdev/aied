@@ -3,7 +3,6 @@ title: "The StudyChat Dataset: Analyzing Student Dialogues With ChatGPT in an Ar
 created: "2026-08-16T18:05:58-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [llm, intelligent-tutoring, learning-analytics, pedagogical-agent, cs-education, student-experience, cognitive-offloading, self-regulated-learning]
 foundations: [cognitive-offloading]
 pedagogy: [self-regulated-learning]
 technology: [intelligent-tutoring, learning-analytics, llm, pedagogical-agent]

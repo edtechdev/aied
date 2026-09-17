@@ -3,7 +3,6 @@ title: "Presumed Effective: The Manufacturing of an Evidence Base for AI-in-Educ
 created: "2026-09-05T12:00:00-04:00"
 updated: "2026-09-16T14:48:35-04:00"
 type: article
-tags: [research-methods-aied, meta-analysis-systematic-review, limitations-in-aied-research, ai-ed-evaluation, ai-education, generative-ai, learning-gains, educational-policy-ai, peer-assessment, academic-integrity, assessment-validity]
 foundations: [academic-integrity, ai-education, limitations-in-aied-research]
 technology: [generative-ai]
 assessment: [ai-ed-evaluation, assessment-validity, learning-gains, meta-analysis-systematic-review, peer-assessment, research-methods-aied]

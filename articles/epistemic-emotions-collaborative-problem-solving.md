@@ -3,7 +3,6 @@ title: Ordered Network Analysis of Epistemic Emotions during Collaborative Probl
 created: "2026-07-28T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [affective-computing, human-in-the-loop-ai, learning-analytics, affective-tutoring, llm, problem-solving]
 pedagogy: [problem-solving]
 technology: [affective-computing, affective-tutoring, human-in-the-loop-ai, learning-analytics, llm]
 research_method: [learning analytics]

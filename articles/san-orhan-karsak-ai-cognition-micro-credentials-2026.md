@@ -3,7 +3,6 @@ title: "Knowing Its Name, Not Its Nature: Word Association Mapping of Student AI
 created: "2026-09-06T08:10:00-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
-tags: [ai-literacy, higher-ed, generative-ai, ethics, governance, curriculum-design, assessment, metacognition, student-experience]
 foundations: [ai-literacy, curriculum-design]
 pedagogy: [metacognition]
 technology: [generative-ai]

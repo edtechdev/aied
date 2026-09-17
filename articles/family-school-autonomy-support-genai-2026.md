@@ -1,7 +1,6 @@
 ---
 title: "Family-School Autonomy Support for Children's Responsible Use of Generative AI: A Self-Determination Theory Synthesis"
 type: article
-tags: [self-determination-theory, cognitive-offloading, k-12, academic-integrity, motivation, equity-in-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 pedagogy: [motivation, self-determination-theory]
 ethics: [equity-in-ai-education]

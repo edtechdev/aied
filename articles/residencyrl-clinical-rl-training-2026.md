@@ -3,7 +3,6 @@ title: "ResidencyRL: Reinforcement Learning in Simulated Clinical Environments"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
-tags: [reinforcement-learning, simulation, medical-education, llm, professional-training, intelligent-tutoring, trust-calibration]
 technology: [intelligent-tutoring, llm, reinforcement-learning, simulation]
 stakeholders: [professional-training]
 ethics: [trust-calibration]

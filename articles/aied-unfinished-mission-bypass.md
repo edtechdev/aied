@@ -3,7 +3,6 @@ title: "AIED's Unfinished Mission: Centering Agency and Motivation in the Age of
 created: "2026-07-09T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [cognitive-offloading, student-experience, self-regulated-learning, metacognition, teacher-role, formative-assessment, generative-ai]
 foundations: [cognitive-offloading, teacher-role]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]

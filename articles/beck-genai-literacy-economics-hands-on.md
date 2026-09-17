@@ -3,7 +3,6 @@ title: "Fostering Generative AI Literacy in Economics: A Hands-on Approach"
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [ai-literacy, generative-ai, critical-thinking, higher-ed, student-engagement, learning-design, active-learning, reducing-ai-misuse]
 foundations: [ai-literacy, critical-thinking, learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, student-engagement]
 technology: [generative-ai]

@@ -3,7 +3,6 @@ title: Sociocultural Learning
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-09-09T09:05:09-04:00"
 type: concept
-tags: [sociocultural-learning, learning-theories, constructivist, scaffolding, agency, generative-ai, human-ai-collaboration]
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]

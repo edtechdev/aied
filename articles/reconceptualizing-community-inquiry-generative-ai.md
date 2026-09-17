@@ -3,7 +3,6 @@ title: "Reconceptualizing Community of Inquiry in the Age of Generative Artifici
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: article
-tags: [generative-ai, llm, critical-thinking, higher-ed, ai-education, assessment]
 foundations: [ai-education, critical-thinking]
 technology: [generative-ai, llm]
 assessment: [assessment]

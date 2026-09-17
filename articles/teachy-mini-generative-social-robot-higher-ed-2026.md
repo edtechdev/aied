@@ -3,7 +3,6 @@ title: "Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [educational-robotics, generative-ai, higher-ed, intelligent-tutoring, llm, design-thinking]
 foundations: [design-thinking]
 technology: [educational-robotics, generative-ai, intelligent-tutoring, llm]
 research_method: [system development]

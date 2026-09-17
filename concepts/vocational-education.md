@@ -3,7 +3,6 @@ title: "Vocational Education and Training"
 created: "2026-09-17T14:04:23-04:00"
 updated: "2026-09-17T14:04:23-04:00"
 type: concept
-tags: [vocational-education, professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai]
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
 stakeholders: [career-development-and-readiness, professional-training]

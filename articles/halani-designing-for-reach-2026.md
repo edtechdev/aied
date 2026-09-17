@@ -3,7 +3,6 @@ title: "Designing for Reach: Seven Levers and the Student Alone with AI"
 created: "2026-08-14T03:41:48-04:00"
 updated: "2026-08-17T06:50:00-04:00"
 type: article
-tags: [generative-ai, curriculum-design, assessment, formative-assessment, cognitive-offloading, help-seeking, self-regulated-learning, metacognition, math-education, higher-ed, k-12, active-learning]
 foundations: [cognitive-offloading, curriculum-design]
 pedagogy: [active-learning, help-seeking, metacognition, self-regulated-learning]
 technology: [generative-ai]
@@ -13,6 +12,7 @@ level: [higher ed, k 12]
 sources: ['raw/papers/halani-designing-for-reach-2026.md']
 confidence: high
 audience: [instructors, instructional designers]
+discipline: [math education]
 ---
 
 > **Synthesis:** Halani (2026) proposes a [[learning-design|course-design]] framework of **seven levers** through which a teacher shapes the environment in which students decide what to do with a machine that answers. The key innovation is **Reach**: which lever settings remain in force in the unsupervised moment — the student alone at night and stuck, with AI one tab away — where nearly all free choice about AI is exercised. None of the levers are new or AI-specific; what the framework adds is asking each lever how far it reaches when the teacher is absent. Three classroom configurations (think-first, direct-instruction, Harkness) illustrate coherent lever settings, and a mapping to Schoenfeld's Teaching for Robust Understanding dimensions shows the levers describe environments for thinking with or without the machine.

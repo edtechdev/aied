@@ -4,7 +4,6 @@ created: "2026-09-16T15:58:20-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 weight: 65
 type: faq
-tags: [educational-development, teacher-ai-competency, tpack, teacher-education, change-management, teacher-role]
 foundations: [educational-development, teacher-role]
 stakeholders: [change-management, teacher-ai-competency, tpack]
 research_method: [survey, mixed methods, case study]

@@ -3,7 +3,6 @@ title: "Adoption-Ready Project-Based Learning for Computing Education: The FORAP
 created: "2026-07-14T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [project-based-learning, k-12, higher-ed, active-learning, stem-education, scaffolding, teacher-role]
 foundations: [teacher-role]
 pedagogy: [active-learning, project-based-learning, scaffolding]
 research_method: [system development]

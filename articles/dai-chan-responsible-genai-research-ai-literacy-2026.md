@@ -3,7 +3,6 @@ title: "Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented G
 created: "2026-09-06T08:12:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [ai-literacy, academic-integrity, ethics, higher-ed, generative-ai, llm, governance, self-regulated-learning]
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [self-regulated-learning]
 technology: [generative-ai, llm]

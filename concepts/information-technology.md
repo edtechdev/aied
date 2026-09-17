@@ -3,11 +3,10 @@ title: "Information Technology Education"
 created: "2026-09-17T14:06:00-04:00"
 updated: "2026-09-17T14:06:00-04:00"
 type: concept
-tags: [information-technology, cs-education, higher-ed, ai-literacy, academic-integrity, governance, cognitive-offloading, professional-training, equity-in-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 stakeholders: [governance, professional-training]
 ethics: [equity-in-ai-education]
-discipline: [information technology]
+discipline: [information technology, cs education]
 audience: [administrators, curriculum designers, educators, instructional designers, instructors, learners, policymakers]
 level: [higher ed, adult learning]
 confidence: high
