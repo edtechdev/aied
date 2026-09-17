@@ -1,36 +1,40 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import siteConfig from '../config/siteConfig';
+
+const toc = [
+  { text: 'The prompt to copy', slug: 'the-prompt', depth: 2 },
+  { text: 'How to use it', slug: 'how-to-use-it', depth: 2 },
+  { text: 'Ready-made assistants', slug: 'ready-made-assistants', depth: 2 },
+  { text: 'What is in the knowledge base', slug: 'what-is-in-the-knowledge-base', depth: 2 },
+  { text: 'Questions that are already answered', slug: 'already-answered', depth: 2 },
+  { text: 'Read the knowledge base offline', slug: 'read-offline', depth: 2 },
+];
 ---
 
-<BaseLayout title="Use This Knowledge Base with Your Own AI Assistant" description={`Copy-paste prompt for using the ${siteConfig.name} with your own chatbot or agent.`}>
+<BaseLayout title="Use This Knowledge Base with Your Own AI Assistant" description={`Copy-paste prompt for using the ${siteConfig.name} with your own chatbot or agent.`} toc={toc}>
   <h1>Use This Knowledge Base with Your Own AI Assistant</h1>
 
   <p style="line-height:1.7">
-    This knowledge base is <strong>agent-ready</strong>: the full catalog and content are published as machine-readable
-    text files that any AI chatbot, coding agent, or LLM tool can ingest. Give your assistant the link below
-    and it can answer questions about AI in education research with citations back to this knowledge base.
-    Before asking, check the <a href="/aied/faq">FAQs</a> page — it may already have answers to
-    some common questions you might ask of the AI.
+    You can point ChatGPT, Claude, Gemini, Copilot, or any other AI assistant at this knowledge base so that it
+    answers from these research pages instead of guessing. The prompt below does that job. Copy it, paste it into
+    your assistant as your first message, then ask your question. You should get an answer that names the pages it
+    drew on and links to them, so you can check the sources yourself.
+  </p>
+  <p style="line-height:1.7">
+    No technical setup is involved, and nothing needs installing. If you would rather skip the setup entirely,
+    there are <a href="#ready-made-assistants">ready-made assistants</a> that already know this material.
   </p>
 
-  <h2>Quick start</h2>
+  <h2 id="the-prompt">The prompt to copy</h2>
   <p style="line-height:1.7">
-    Point your AI assistant at one of these files — most tools can read a URL directly:
+    Paste this in first, before your question. The box scrolls, and the button copies the whole thing.
   </p>
-  <ul style="line-height:1.9">
-    <li><a href="/aied/llms.txt">llms.txt</a> — complete catalog: every article and concept, one line each, with description</li>
-    <li><a href="/aied/llms-full.txt">llms-full.txt</a> — full text of every article and concept page</li>
-    <li><a href="/aied/sitemap-index.xml">Sitemap</a> — all page URLs</li>
-    <li><a href="/aied/rss.xml">RSS feed</a> — latest additions</li>
-  </ul>
-
-  <h2>Copy-paste prompt</h2>
-  <p style="line-height:1.7">
-    Paste this into your AI chatbot or agent to use the knowledge base as a research reference:
+  <p class="prompt-actions">
+    <button id="copy-prompt-btn" type="button" class="copy-btn">📋 Copy prompt to clipboard</button>
+    <span class="prompt-hint">Then paste it into your assistant and ask your question.</span>
   </p>
-  <button id="copy-prompt-btn" type="button" style="margin-bottom:0.6rem;padding:0.5rem 1rem;background:#2f6f4f;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:0.9rem;font-weight:600;">📋 Copy prompt to clipboard</button>
-  <pre id="prompt-block" style="background:#f6f6f7;border:1px solid #ddd;border-radius:8px;padding:1rem;font-size:0.85rem;line-height:1.55;overflow-x:auto;white-space:pre-wrap;"><code>You are a research assistant for AI in education. Use the AI in Education Knowledge Base (https://edtechdev.github.io/aied/) as your primary source.
+  <pre id="prompt-block" tabindex="0" aria-label="Prompt to copy"><code>You are a research assistant for AI in education. Use the AI in Education Knowledge Base (https://edtechdev.github.io/aied/) as your primary source.
 
 1. Route before you read. The FAQ index at https://edtechdev.github.io/aied/faq/ maps questions to the pages that answer them, including "what does the research show" questions. The full catalog at https://edtechdev.github.io/aied/llms.txt is about 800 KB and llms-full.txt is many megabytes, so search them or fetch parts rather than loading either whole, and do not let a failed whole-file fetch stop you.
 
@@ -46,32 +50,126 @@ Prefer the term "generative AI" over "LLM". The knowledge base is updated regula
 
 Example: "What does the research say about AI feedback for student writing?" Check the FAQ index, read the most relevant writing and feedback pages plus the studies they cite, then answer with citations and links.</code></pre>
 
-  <h2>Notes for agents</h2>
+  <h2 id="how-to-use-it">How to use it</h2>
+  <ol style="line-height:1.9">
+    <li><strong>Copy the prompt</strong> with the button above.</li>
+    <li><strong>Paste it into your assistant</strong> as the first message, and send it. It will usually reply that it understands.</li>
+    <li><strong>Ask your question</strong> in plain language, for example "what does the research say about AI feedback in large classes?" or "should we use AI detectors?"</li>
+    <li><strong>Check the links.</strong> A good answer names the pages it used. If you get confident claims with no page names, reply "which page did that come from?" and ask it to try again.</li>
+  </ol>
+  <p style="line-height:1.7">
+    This works best in assistants that can browse the web, since the prompt points them at pages to read. If yours
+    cannot open links, then instead of pasting the prompt on its own, also attach the complete text of the
+    knowledge base: <a href="/aied/llms-full.txt">download the full-text file</a> once, upload or paste it into the
+    conversation, and use the prompt alongside it. It is a single text file of roughly 11 MB.
+  </p>
+  <details style="line-height:1.8;margin-top:0.5rem">
+    <summary style="cursor:pointer;font-weight:600">Technical notes for tools that want a URL instead of a prompt</summary>
+    <ul style="line-height:1.9;margin-top:0.5rem">
+      <li><a href="/aied/llms.txt">llms.txt</a> — a catalog of every page, one line each, for tools that index a site before reading it</li>
+      <li><a href="/aied/llms-full.txt">llms-full.txt</a> — the complete text of the knowledge base in one file</li>
+      <li><a href="/aied/sitemap-index.xml">Sitemap</a> — every page address</li>
+      <li><a href="/aied/rss.xml">RSS feed</a> — new and updated pages</li>
+    </ul>
+  </details>
+
+  <h2 id="ready-made-assistants">Ready-made assistants</h2>
+  <p style="line-height:1.7">
+    If you would rather not set anything up, this knowledge base is also available as a ready-made assistant:
+  </p>
   <ul style="line-height:1.9">
-    <li>The knowledge base covers AI in education research: tutoring, assessment, feedback, AI literacy, teacher AI competency, policy, and more.</li>
-    <li>Articles include APA citations; the original paper links are in each citation.</li>
-    <li>Concept pages synthesize the related articles — start there for overviews.</li>
+    <li><strong>AI in Education Advisor</strong> — a <a href="https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing" target="_blank" rel="noopener">Gemini Gem</a> that answers from this knowledge base. Its <a href="https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk" target="_blank" rel="noopener">custom instructions</a> are public, and it was built from a <strong>static copy</strong> of the knowledge base, so it may lag behind the newest pages.</li>
+    <li><strong>NotebookLM notebook</strong> — a <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">Google NotebookLM notebook</a> built on the same material, with autogenerated reports, infographics, a podcast, slides, and <a href="https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d" target="_blank" rel="noopener">a video</a>.</li>
   </ul>
 
-  <h2>Ready-made AI assistant</h2>
+  <h2 id="what-is-in-the-knowledge-base">What is in the knowledge base</h2>
   <p style="line-height:1.7">
-    Visitors can also use this <strong>AI in Education Advisor</strong> Gemini Gem to chat with the
-    site's knowledge base: <a href="https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing" target="_blank" rel="noopener">AI in Education Advisor (Gemini Gem)</a>.
-    The <a href="https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk" target="_blank" rel="noopener">custom instructions</a> used to build this Gem are also available.
-    Note that the Gem is built on a <strong>static copy</strong> of the <a href="/aied/llms-full.txt">llms-full.txt</a> file,
-    which may not be the latest and most up-to-date version of the knowledge base.
+    Around 1,200 research summaries cover tutoring and AI tutors, assessment and feedback, academic integrity,
+    AI literacy, teacher and faculty development, equity and accessibility, privacy, policy and governance, and
+    learning science topics such as cognitive offloading and learner motivation. Every summary ends with the
+    full citation and a link to the original paper, so your assistant can pass the reference along and you can
+    follow it up.
   </p>
   <p style="line-height:1.7">
-    Visitors can also chat with this AI in Education knowledge base in a <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">Google NotebookLM notebook</a>,
-    which includes ancillary autogenerated reports, infographics, a podcast, slides, and this <a href="https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d" target="_blank" rel="noopener">video</a>.
+    Three kinds of page answer different questions: <strong>concept pages</strong> summarize what the research
+    says about one idea and link to the studies behind it, <strong>article pages</strong> cover one paper at a
+    time, and the <strong>FAQs</strong> answer practical questions from instructors and administrators. If you
+    want an overview of a topic, ask for a concept page; if you want the evidence, ask for the studies.
   </p>
 
-  <h2>Read the Knowledge Base Offline</h2>
+  <h2 id="already-answered">Questions that are already answered</h2>
   <p style="line-height:1.7">
-    Visitors can also download and read an <a href="/aied/aied.epub">EPUB version of the knowledge base</a> or a <a href="/aied/aied.pdf">PDF version</a> on an e-reader, phone, tablet, or computer.
-    Note that these contain the concept and FAQ pages — not the hundreds of article summaries.
+    Many of the questions people ask an AI first have already been answered here by hand, with the research
+    attached: <a href="/aied/faqs/course-ai-policy/">writing a course AI policy</a>,
+    <a href="/aied/faqs/reduce-ai-cheating/">reducing AI cheating</a>,
+    <a href="/aied/faqs/should-we-use-ai-detectors/">whether to use AI detectors</a>,
+    <a href="/aied/faqs/redesign-assessment-ai-era/">redesigning assessment</a>,
+    <a href="/aied/faqs/reducing-over-reliance/">over-reliance on AI</a>, and
+    <a href="/aied/faqs/institutional-ai-policy/">institutional AI policy</a> among them. The
+    <a href="/aied/faq/">full list of FAQs</a> is worth a look before you ask, and the prompt tells your
+    assistant to check that list first.
+  </p>
+
+  <h2 id="read-offline">Read the knowledge base offline</h2>
+  <p style="line-height:1.7">
+    You can also download the knowledge base as an <a href="/aied/aied.epub">EPUB</a> or
+    <a href="/aied/aied.pdf">PDF</a> for an e-reader, phone, tablet, or computer. These offline editions contain
+    the concept pages and FAQs, not the several hundred article summaries.
   </p>
 </BaseLayout>
+
+<style>
+  .prompt-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.9rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.6rem;
+  }
+  .copy-btn {
+    padding: 0.5rem 1rem;
+    background: #2f6f4f;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+  .copy-btn:hover {
+    background: #27603f;
+  }
+  .prompt-hint {
+    font-size: 0.85rem;
+    opacity: 0.75;
+  }
+  /* Keep the prompt in a scrollable box so it does not dominate the page. */
+  #prompt-block {
+    max-height: 20rem;
+    overflow-y: auto;
+    overflow-x: auto;
+    background: #f6f6f7;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    font-size: 0.85rem;
+    line-height: 1.55;
+    white-space: pre-wrap;
+    margin: 0;
+  }
+  #prompt-block:focus-visible {
+    outline: 2px solid #2f6f4f;
+    outline-offset: 2px;
+  }
+  @media (max-width: 600px) {
+    #prompt-block {
+      max-height: 16rem;
+    }
+    .prompt-hint {
+      display: none;
+    }
+  }
+</style>
 
 <script>
   const btn = document.getElementById('copy-prompt-btn') as HTMLButtonElement | null;
