@@ -4,7 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
 import JsonLd from '../../components/JsonLd.astro';
 import StarButton from '../../components/StarButton.astro';
-import { renderMarkdown } from '../../lib/markdown';
+import { renderMarkdown, smartTitle } from '../../lib/markdown';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
@@ -13,8 +13,18 @@ export async function getStaticPaths() {
 
 const { slug } = Astro.params;
 const articles = await getCollection('articles');
+
+
 const concepts = await getCollection('concepts');
 const faqs = await getCollection('faqs');
+
+// Tag chips use the page's own title ("Well-Being", not "well being"); long titles
+// are skipped so a chip stays short.
+const tagLabel = (tag: string): string => {
+  const t = allTitles[tag];
+  return t && t.length <= 28 ? t : smartTitle(tag.replace(/-/g, ' '));
+};
+
 const article = articles.find(a => a.id.replace('.md', '') === slug);
 if (!article) return Astro.redirect('/aied/');
 
@@ -54,7 +64,13 @@ const connectedConceptSlugs = (body.match(/^## Connected Concepts\s*\n([\s\S]*?)
   .map(l => l.match(/\[\[([^\]|]+)/)?.[1])
   .filter(Boolean);
 
-const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs });
+
+// slug -> display title for every page: wikilink labels and tag chips use the page's
+// own title ('Well-Being'), not a de-slugified guess ('well being').
+const allTitles: Record<string, string> = {};
+[...concepts, ...articles, ...faqs].forEach(c => { allTitles[c.id.replace('.md', '')] = c.data.title; });
+
+const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs, titles: allTitles });
 const toc = rendered.headings.filter(h => h.depth <= 3);
 if (connectedFaqs.length > 0) {
   toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
@@ -82,7 +98,7 @@ if (connectedFaqs.length > 0) {
         <StarButton slug={slug} kind="article" />
         created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
         {(tags || []).map((tag: string, i: number) => (
-          <>{i > 0 ? ', ' : ' · '}<a class="tag-chip" href={`/aied/concepts/${tag}/`}>{tag.replace(/-/g, ' ')}</a></>
+          <>{i > 0 ? ', ' : ' · '}<a class="tag-chip" href={`/aied/concepts/${tag}/`}>{tagLabel(tag)}</a></>
         ))}
       </div>
     </div>

@@ -31,6 +31,9 @@ export interface RenderOptions {
   articleSlugs: Set<string>;
   conceptSlugs: Set<string>;
   faqSlugs: Set<string>;
+  /** slug -> display title for every page, so a bare `[[slug]]` shows the page's
+   *  own title ("Well-Being") instead of a de-slugified guess ("well being"). */
+  titles?: Record<string, string>;
 }
 
 interface ElementLike {
@@ -60,7 +63,7 @@ function classNameOf(node: { properties?: Record<string, any> }): string[] {
  *  - add github-slugger heading ids + heading-anchor links and return a TOC.
  */
 export function renderMarkdown(text: string, opts: RenderOptions): { html: string; headings: Heading[] } {
-  const { pageTitle, articleSlugs, conceptSlugs, faqSlugs } = opts;
+  const { pageTitle, articleSlugs, conceptSlugs, faqSlugs, titles } = opts;
 
   // --- Preprocessing (before Sätteri) -------------------------------------
   // Drop a leading H1 that duplicates the page title.
@@ -75,7 +78,7 @@ export function renderMarkdown(text: string, opts: RenderOptions): { html: strin
     // meta-refresh redirect page, which causes a white flash on click).
     const raw = p.replace(/\.md$/, '').trim();
     const page = CONCEPT_REDIRECTS[raw] || raw;
-    const text2 = label || smartTitle(page.replace(/-/g, ' '));
+    const text2 = label || titles?.[page] || smartTitle(page.replace(/-/g, ' '));
     let base = '/aied/concepts';
     if (articleSlugs.has(page)) base = '/aied/articles';
     else if (faqSlugs.has(page)) base = '/aied/faqs';
