@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Peer Exposure and Creating Opportunities for Bridging Social Capital Through an AI-Generated Summary-Driven Learning Design in Online Discussion Forums"
 created: "2026-09-06T12:48:50-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [generative-ai, online-teaching-and-learning, collaborative-learning, scaffolding, student-engagement, llm]
 research_method: [design-based research, mixed methods]
@@ -9,6 +9,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 sources: ['raw/papers/hao-peer-exposure-bridging-social-capital-ai-summaries-2026.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 > **Synthesis:** This [[design-based-research|design-based research]] study by Hao and Cukurova evaluates an AI-generated summary-driven learning design (AI-SLD) in [[online-teaching-and-learning|online]] [[collaborative-learning|collaborative]] discussion forums with 128 university students across three design iterations (baseline, Wizard-of-Oz, and full AI). Using [[learning-analytics|social network analysis]] of viewing logs and thematic analysis of interviews, it shows that AI-generated discussion summaries significantly broadened students' exposure to peer contributions and strengthened network connectedness, functioning as navigational [[scaffolding|scaffolds]] that lowered the effort of locating meaningful posts and expanded opportunities for building the weak-tie connections social-capital theory terms *bridging* social capital. However, the support did not prevent a decline in viewing activity under rising academic workload, and the effect was moderated by discussion topic and topic familiarity.
 

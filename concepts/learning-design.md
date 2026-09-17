@@ -1,13 +1,13 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: concept
 tags: [learning-design, curriculum-design, educational-development, scaffolding, generative-ai, ai-literacy, higher-ed, teacher-role]
 audience: [instructors, faculty development]
 level: [higher ed]
 category: [instructional design, curriculum design]
-connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software]
+connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
 ---
 

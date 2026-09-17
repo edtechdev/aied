@@ -1,8 +1,8 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-17T02:26:00-04:00"
-connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students]
+updated: "2026-09-17T07:39:59-04:00"
+connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 tags: [cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, generative-ai]
 category: [assessment]

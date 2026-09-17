@@ -1,13 +1,14 @@
 ---
 title: "Ensuring Academic Integrity through Automated Online Exam Proctoring: A Decade-Long Systematic Review"
 created: "2026-08-20T04:45:00-04:00"
-updated: "2026-08-20T04:45:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [remote-proctoring, academic-integrity, online-teaching-and-learning, higher-ed, meta-analysis-systematic-review, machine-learning, privacy]
 research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/automated-online-exam-proctoring-decade-review-2026.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Malhotra & Chhabra (2026) synthesize 80 peer-reviewed articles (2014–2024) on AI-based automated proctoring systems (AIPS) for online examinations in [[higher-ed|higher education]]. They find that advanced machine- and deep-learning techniques (CNNs, RNNs, LSTMs) detect cheating more reliably than traditional methods by analyzing visual cues — eye movements, head posture, facial expressions — yet the field is marked by dataset limitations, limited generalizability, reproducibility gaps, and persistent privacy and [[bias-mitigation|fairness]] concerns. The review advocates integrating IoT and biometric [[ai-technologies|technologies]] and building hybrid, privacy-preserving, context-aware frameworks.

@@ -1,12 +1,13 @@
 ---
 title: 'Artificial Intelligence in Distance Education: A Systematic Review of Emerging Pedagogical, Cognitive and Institutional Dynamics'
 created: "2026-08-20T04:40:00-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [online-teaching-and-learning, meta-analysis-systematic-review, generative-ai, ai-education, governance, pedagogy, equity-in-ai-education]
 research_method: [systematic review]
 sources: ['raw/papers/ai-distance-education-systematic-review-2026.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** This [[meta-analysis-systematic-review|systematic review]] of 56 peer-reviewed articles (2020–2025) on AI in [[online-teaching-and-learning|distance education]] identifies four interrelated themes: AI-driven [[personalized-learning|personalization]] and adaptive support, AI-mediated [[feedback|assessment and feedback]], human–[[student-ai-interaction|AI interaction]] and [[pedagogy|pedagogical]] transformation, and AI [[governance]], [[bias-mitigation|fairness]], integrity and [[equity-in-ai-education|equity]]. Collectively the findings show that AI is not merely a tool but a participant that reorganizes relationships among learners, teachers and institutions. The evidence base remains limited by a lack of longitudinal [[research-methods-aied|research]], with most studies being short-term or cross-sectional.

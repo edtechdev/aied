@@ -1,11 +1,12 @@
 ---
 title: "Decreasing Digital Distraction in College Students: Associated Online Learning Strategies Identified by Unsupervised Data Mining"
 created: "2026-09-04T09:06:00-04:00"
-updated: "2026-09-04T09:06:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [self-regulated-learning, higher-ed, student-engagement, learning-analytics, motivation, digital-divide]
 sources: ['raw/papers/2609.04125.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Shi et al. (2026) applied unsupervised [[learning-analytics|data-mining]] techniques — association-rule mining and clustering — to survey data from 530 college students to identify the online-learning strategies most strongly associated with lower digital distraction. Self-regulated learning behaviors (goal setting, environment structuring, and time management) co-occurred most consistently with low distraction, along with learner-instructor and learner-content [[student-engagement|engagement]] and technical competencies. By contrast, reliance on peer [[help-seeking]] and learner-learner engagement appeared less often in low-distraction profiles. The study offers educators concrete levers for fostering focused [[higher-ed|college]] online-learning environments.

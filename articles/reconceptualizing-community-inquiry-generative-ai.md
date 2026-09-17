@@ -1,7 +1,7 @@
 ---
 title: "Reconceptualizing Community of Inquiry in the Age of Generative Artificial Intelligence"
 created: "2026-08-23T08:07:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [generative-ai, llm, critical-thinking, higher-ed, ai-education, assessment]
 research_method: [theoretical analysis]
@@ -9,6 +9,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/reconceptualizing-community-inquiry-generative-ai.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Ba, Gašević, Lim, and Anderson (2026) reconceptualize the [[community-of-inquiry|Community of Inquiry]] (CoI) framework for the age of [[generative-ai|generative AI]], arguing that GenAI challenges the assumption that indicators of presence can be attributed primarily to human learners and [[teacher-role|instructor]]s. Rather than framing GenAI as a mere tool, dialogic partner, or 'fourth presence,' they position GenAI as an **epistemic condition** that shapes inquiry through direct use, indirect mediation of tasks, and latent influence on how contributions are interpreted and evaluated. Drawing on sociomaterial and postdigital perspectives, they argue that CoI presences are sociotechnical accomplishments emerging through human-GenAI assemblages, and propose a configuration-based heuristic where the relationship between GenAI involvement and inquiry quality is conditional on human accountability.

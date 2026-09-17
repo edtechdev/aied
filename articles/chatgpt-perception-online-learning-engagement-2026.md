@@ -1,13 +1,14 @@
 ---
 title: "How Does Students' Perception of ChatGPT Shape Online Learning Engagement and Performance?"
 created: "2026-08-20T04:40:00-04:00"
-updated: "2026-08-20T04:40:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [conversational-ai, generative-ai, online-teaching-and-learning, student-engagement, higher-ed]
 research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/chatgpt-perception-online-learning-engagement-2026.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** This SEM-based study tested whether students' perception of ChatGPT (knowledge, willingness to use, and concerns) shapes [[online-teaching-and-learning|online learning]] [[student-engagement|engagement]] across behavioral, emotional, and cognitive dimensions, and whether engagement in turn drives [[learning-gains|academic performance]]. Using survey data from 305 graduate students in Iran, the authors found that ChatGPT perception accounts for 19.2% of variance in engagement, while perception plus engagement together explain 40.4% of variance in academic performance. Online learning engagement significantly mediates the perception→performance link, underscoring its pivotal role in translating AI adoption into academic gains.

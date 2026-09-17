@@ -1,12 +1,13 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: concept
 tags: [online-teaching-and-learning, pedagogy, learning-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
 level: [higher ed]
 category: [instructional design]
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Online teaching and learning** — the pedagogy and practice of teaching and learning that happens through digital, network-mediated environments rather than in a shared physical classroom. It spans fully online courses, Massive Open Online Courses (MOOC), blended and hybrid formats, and distance education. For the knowledge base, the central question is how [[generative-ai|generative AI]] reshapes the opportunities, challenges, and recommended practices of teaching at a distance — from scalable [[personalized-learning|personalization]] to new [[academic-integrity|academic integrity]] and [[cognitive-offloading]] risks.
