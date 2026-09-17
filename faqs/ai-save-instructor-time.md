@@ -30,7 +30,7 @@ So the safest, highest-value uses are **structured, well-specified materials you
 
 A large-scale Brazil experiment across **178 schools and ~19,000 high school seniors** tested AI-automated essay feedback:
 
-- AI feedback produced **identical [[learning-gains|learning gains]]** to human graders — who cost ~$0.85/essay and added **zero incremental benefit**.
+- AI feedback produced **identical [[learning-gains|learning gains]]** to human graders — who cost ~\$0.85/essay and added **zero incremental benefit**.
 - Students in AI classrooms had **~35% more one-on-one conversations** with teachers about writing, and wrote **30% more essays**.
 - Teacher at-home work hours dropped **20%**; teachers reporting time as "very insufficient" fell from 23% to 9%.
 - **The largest learning gains were on the most complex writing task** — precisely what AI is *least* equipped to evaluate — because AI freed teachers to focus on higher-order instruction.

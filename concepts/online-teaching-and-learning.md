@@ -47,7 +47,7 @@ Online teaching and learning takes several related forms that share the medium b
 - **Conversational, dialogic tutoring at scale.** [[conversational-ai]] tutors built on proven [[intelligent-tutoring]] technology ([[conversational-ai-tutors-framework|keep/change/center/study framework]]) promise high-quality, dialogue-based tutoring — engaging students' thoughts, questions, and [[misconceptions]] — that is far more scalable than human tutoring.
 - **Facilitation and analytics.** AI can support [[collaborative-learning|online discussions]] and [[learning-analytics]], forecasting engagement, and helping instructors allocate attention. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] add that LLM-generated discussion summaries can act as navigational [[scaffolding|scaffolds]] in large asynchronous forums — broadening students' peer exposure and the network conditions for bridging social capital without burdening students or instructors with the summarizing workload.
 - **Early-warning analytics for at-risk online learners.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] show that interpretable [[reinforcement-learning|machine learning]] on content-interaction logs predicts module-level progress and flags dropout ("No submission") outcomes in large-scale online [[cs-education|programming]] courses up to 7–8 days before module deadlines, giving online instructors a concrete window to [[teacher-role|intervene]] with disengaged students rather than discovering failure only after the fact.
-- **Affordability and speed.** AI can generate course materials at a fraction of traditional cost — MAIC reduced MOOC course production from ~$25K/60 hours to under $2/30 minutes.
+- **Affordability and speed.** AI can generate course materials at a fraction of traditional cost — MAIC reduced MOOC course production from ~\$25K/60 hours to under \$2/30 minutes.
 
 ## Challenges of online teaching in the AI era
 
@@ -115,8 +115,8 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - **Use analytics to support, not replace, teaching.** Leverage [[learning-analytics]] to forecast engagement and target support, but keep [[human-in-the-loop-ai|human oversight]] central.
 
 ## Connected Concepts
-[[assessment-validity]] — validity of the inference from submitted work to learning
-[[agentic-ai]] — autonomous systems that operate tools and platforms, including an LMS
+- [[assessment-validity]] — validity of the inference from submitted work to learning
+- [[agentic-ai]] — autonomous systems that operate tools and platforms, including an LMS
 - [[community-of-inquiry]] — Community of Inquiry
 
 - [[remote-proctoring]]

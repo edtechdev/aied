@@ -59,6 +59,7 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[open-source]]
 - [[pedagogical-llm-training]]
 - [[ai-sycophancy]]
+- [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
 - [[wang-teacher-student-centered-agents-physics-2026]] — Empathy perception from prompt-designed agent roles in physics learning (Wang et al. 2026)
 
@@ -73,10 +74,8 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[sycophantic-ai-social-interaction-2026]]
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[social-emotional-learning]] — Social-Emotional Learning
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-
 
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
 - [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning

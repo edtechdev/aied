@@ -92,6 +92,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[k-12]]
 - [[self-regulated-learning]]
 - [[learning-theories]]
+- [[productive-failure]] — Productive Failure
 ## Connected Articles
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
@@ -105,7 +106,6 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[genai-assisted-problem-posing-physics-2026]]
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Performance-learning distinction and durable transfer
-- [[productive-failure]] — Productive Failure
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[rachatasumrit-example-problem-ratio-2026]]

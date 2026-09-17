@@ -44,6 +44,7 @@ Hallucination in educational AI takes several forms documented in this knowledge
 - [[multimodal]]
 - [[generative-ai]]
 - [[llm]]
+- [[productive-failure]]
 ## Connected Articles
 
 - [[llm-cognitive-diagnosis-handwritten-math]]
@@ -55,7 +56,5 @@ Hallucination in educational AI takes several forms documented in this knowledge
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[genai-higher-education-systematic-review-2026]]
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-- [[productive-failure]]
 - [[sidorkin-ai-generated-course-readings-2026]]
-
 

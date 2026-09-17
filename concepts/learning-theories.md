@@ -97,6 +97,7 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 - [[ai-education]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[theory-development-aied]] — Theory Development in AI in Education
+- [[productive-failure]] — Productive Failure
 ## Connected Articles
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
@@ -108,8 +109,6 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 - [[self-directed-growth-generative-ai-learning-analytics]] — Self-Directed Growth and the A2PL model extending self-directed learning with GenAI
 - [[generativism-learning-theory]] — Proposes a new learning theory for the generative AI age, revisiting the classical four
 - [[ai-vocational-education-training-review]] — Documented the constructivism/behaviorism theory-practice gap in AI for VET
-- [[constructivist]] — (cross-reference) Constructivism as the knowledge base documents it
-- [[behaviorism]] — (cross-reference) Behaviorism as the knowledge base documents it
 - [[genai-educational-outcomes-meta-analysis]]
 - [[vargas-situated-learning-ai-review-2024]]
 - [[raffaghelli-situated-ai-ethics-2026]]
@@ -118,7 +117,6 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 - [[videla-embodied-ai-education-choreography]]
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
-- [[productive-failure]] — Productive Failure
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning

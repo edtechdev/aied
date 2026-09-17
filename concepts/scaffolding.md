@@ -72,10 +72,8 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[help-seeking]] — Scaffolding shapes when and how learners request help
 - [[teacher-role]] — Teachers scaffold, then fade as competence grows
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[agentic-ai-pedagogical-best-practice-2026]]
 - [[agentic-ai]]
-- [[zhang-tutormoments-2026]]
-
+- [[productive-failure]] — Productive Failure
 ## Connected Articles
 - [[kumar-genai-computing-education-systematic-review-2026]] — Scaffold withdrawal as the mechanism enforcing verification (VIE framework)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
@@ -109,7 +107,6 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
-- [[productive-failure]] — Productive Failure
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent

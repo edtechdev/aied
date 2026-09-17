@@ -101,7 +101,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[framing-ai-use-for-students]]
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 - [[self-report-measures]]
-
+- [[productive-failure]]
 ## Connected Articles
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[tutortrace-learner-behavioral-states-2026]]
@@ -137,7 +137,6 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Affective gains common but weak indicators of learning
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[productive-failure]]
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 
 - [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modeling

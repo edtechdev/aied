@@ -62,7 +62,7 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - [[cognitive-offloading]]
 - [[desirable-difficulties]]
 - [[learning-theories]]
-
+- [[productive-failure]] — Productive Failure
 ## Connected Articles
 
 - [[agentic-ai-pedagogical-best-practice-2026]] — The tension between automation and learning (prior knowledge activation risk)
@@ -73,6 +73,5 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM synthesis writing
 - [[bridging-instructional-design-framework-math]] — An instructional-design framework for math
 - [[chudziak-ai-math-tutoring-platform]] — AI math tutoring platform
-- [[productive-failure]] — Productive Failure
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[rachatasumrit-example-problem-ratio-2026]]

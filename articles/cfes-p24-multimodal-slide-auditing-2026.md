@@ -53,7 +53,7 @@ Both sham calls were correctly classified as having **no material difference**. 
 - **Recognition is easy; comparative judgment is harder.** Both models recovered every target operation, principle, repair, and evidence anchor (32/32 exact cells), but GPT-5.4 failed direction twice — returning *same* for a signaling pair and a modality pair — even while correctly describing the edit and identifying the elements, at confidence 0.95–0.98. The error lies in the decision threshold implied by *more_problematic*, not in perception of the change. Qwen3-VL selected the correct direction 4/4.
 - **Severity calibration failed entirely.** The preregistered truth assigned **S3** (global/task-blocking) to all eight target calls, while *both* models returned **S1** every time (0/8). Because the visible edits were localized, the paper interprets the eight identical S1 judgments not as eight model failures but as evidence that the original severity labels were **over-anchored** — the anchors overestimated the magnitude of the visible manipulations.
 - **The preregistered gate failed and blocked release.** With 13/14 rules passing but direction at 6/8 against the required 8/8, the frozen conjunctive policy kept all **16 holdback calls blocked**. No call was rerun and the threshold was not changed after results were known — modeling disciplined preregistration.
-- The 10 calls cost US$0.34 total (GPT-5.4 $0.30, Qwen3-VL $0.04); descriptive Wilson intervals are wide and no model ranking is claimed.
+- The 10 calls cost US\$0.34 total (GPT-5.4 \$0.30, Qwen3-VL \$0.04); descriptive Wilson intervals are wide and no model ranking is claimed.
 
 ## Implications
 

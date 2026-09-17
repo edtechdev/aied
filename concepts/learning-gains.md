@@ -110,7 +110,8 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[affective-tutoring]]
 - [[theory-development-aied]] — Theory Development in AI in Education
 - [[self-report-measures]]
-
+- [[research-methods-aied]] — Research Methods in AIED (DBR section)
+- [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
@@ -135,7 +136,6 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[ai-assisted-collaborative-learning-model-dbr]] — AI-Assisted Collaborative Learning model DBR (critical thinking +24.1%, problem-solving gains)
-- [[research-methods-aied]] — Research Methods in AIED (DBR section)
 - [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs general AI
 - [[jost-llm-programming-education-learning-outcomes]] — LLM reliance and grades in coding (negative correlations)
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching (RCT)
@@ -147,7 +147,6 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[learner-ai-interaction-patterns-oop]] — Interaction patterns and learning gains in OOP
 - [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-- [[social-emotional-learning]] — Social-Emotional Learning
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
 

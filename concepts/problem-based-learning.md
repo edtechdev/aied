@@ -64,7 +64,7 @@ Because PBL foregrounds process, collaboration, and demonstrated understanding o
 - [[medical-education]]
 - [[engineering-education]]
 - [[higher-ed]]
-
+- [[productive-failure]] — Productive Failure
 ## Connected Articles
 
 - [[pbl-structural-conditions-ai-2026]] — PBL and the structural conditions for productive AI integration (Rowe 2026)
@@ -79,10 +79,8 @@ Because PBL foregrounds process, collaboration, and demonstrated understanding o
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[productive-failure]] — Productive Failure
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-
 
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)

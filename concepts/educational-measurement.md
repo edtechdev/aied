@@ -104,7 +104,6 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[self-report-measures]]
 - [[motivation]]
 - [[student-engagement]]
-- [[causal-modelling-competency-assessment-2026]]
 
 ## Connected Articles
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
