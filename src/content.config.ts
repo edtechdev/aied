@@ -175,6 +175,7 @@ const structuredMeta = {
         'instructional design',
         'policy',
         'synthesis',
+        'well-being',
     ),
 };
 
