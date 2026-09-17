@@ -1,10 +1,10 @@
 ---
 title: "The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning"
 created: "2026-08-15T15:53:50-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T07:48:05-04:00"
 type: article
 tags: [desirable-difficulties, cognitive-offloading, self-regulated-learning, scaffolding, reducing-ai-misuse, k-12, learning-gains]
-connected_faqs: [reducing-over-reliance]
+connected_faqs: [reducing-over-reliance, asynchronous-online-courses-ai]
 research_method: [learning analytics]
 level: [k 12]
 sources: ['raw/papers/brcic-effortless-trap-productive-struggle-2026.md']
