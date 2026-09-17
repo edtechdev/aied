@@ -4,6 +4,10 @@ created: "2026-09-03T09:10:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [cognitive-offloading, agency, ai-literacy, metacognition, self-regulated-learning, theory-development-aied, ethics, generative-ai, trust-calibration, equity-in-ai-education]
+foundations: [agency, ai-literacy, cognitive-offloading, theory-development-aied]
+pedagogy: [metacognition, self-regulated-learning]
+technology: [generative-ai]
+ethics: [equity-in-ai-education, ethics, trust-calibration]
 research_method: [theoretical analysis]
 audience: [instructors, learners, researchers]
 level: [higher ed]

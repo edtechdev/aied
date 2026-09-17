@@ -4,6 +4,11 @@ created: "2026-09-12T11:05:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [educational-measurement, research-methods-aied, quantitative-research, assessment-validity, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, student-experience]
+foundations: [ai-literacy]
+pedagogy: [self-efficacy, student-engagement]
+assessment: [assessment-validity, educational-measurement, learning-gains, quantitative-research, research-methods-aied]
+stakeholders: [student-experience]
+ethics: [trust-calibration]
 research_method: [survey, educational measurement, research methods, quantitative, qualitative]
 audience: [researchers, instructors]
 category: [evaluation]

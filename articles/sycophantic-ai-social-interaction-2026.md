@@ -4,6 +4,10 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-sycophancy, affective-computing, student-ai-interaction, cognitive-offloading, ethics, generative-ai, ai-literacy, trust, social-emotional-learning]
+foundations: [ai-literacy, cognitive-offloading]
+pedagogy: [social-emotional-learning, student-ai-interaction]
+technology: [affective-computing, generative-ai]
+ethics: [ai-sycophancy, ethics, trust]
 audience: [learners, researchers]
 research_method: [experiment, survey]
 

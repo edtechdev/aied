@@ -4,6 +4,11 @@ created: "2026-09-03T09:00:00-04:00"
 updated: "2026-09-03T09:00:00-04:00"
 type: article
 tags: [learning-analytics, equity-in-ai-education, multimodal, affective-computing, student-engagement, assessment, ai-education]
+foundations: [ai-education]
+pedagogy: [student-engagement]
+technology: [affective-computing, learning-analytics, multimodal]
+assessment: [assessment]
+ethics: [equity-in-ai-education]
 sources: ['raw/papers/student-attention-estimation-fairness-2026.md']
 confidence: high
 research_method: [educational measurement, learning analytics]

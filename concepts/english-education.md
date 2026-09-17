@@ -4,6 +4,10 @@ created: "2026-08-21T12:30:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: concept
 tags: [english-education, language-learning, writing-education, higher-ed, k-12, generative-ai, ai-feedback-quality, automated-assessment, equity-in-ai-education, academic-integrity]
+foundations: [academic-integrity]
+technology: [generative-ai]
+assessment: [ai-feedback-quality, automated-assessment]
+ethics: [equity-in-ai-education]
 discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high

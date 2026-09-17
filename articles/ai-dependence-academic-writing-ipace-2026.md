@@ -4,6 +4,7 @@ created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [cognitive-offloading, academic-integrity, writing-education, ai-literacy, higher-ed, ai-education]
+foundations: [academic-integrity, ai-education, ai-literacy, cognitive-offloading]
 audience: [researchers, instructors, administrators]
 research_method: [mixed methods]
 sources: ['raw/papers/10.3389_fpsyg.2026.1905037.md']

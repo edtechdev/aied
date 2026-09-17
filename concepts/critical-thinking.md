@@ -4,6 +4,9 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
+foundations: [ai-education, ai-literacy, cognitive-offloading]
+pedagogy: [scaffolding, socratic-method]
+technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium

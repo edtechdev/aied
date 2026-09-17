@@ -4,6 +4,9 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [governance, administrator, higher-ed, educational-policy-ai, ethics, ai-education, human-ai-collaboration, educational-development, ai-literacy, trust, change-management]
+foundations: [ai-education, ai-literacy, educational-development, human-ai-collaboration]
+stakeholders: [administrator, change-management, educational-policy-ai, governance]
+ethics: [ethics, trust]
 research_method: [literature review, theoretical analysis]
 audience: [administrators, faculty development]
 level: [higher ed]

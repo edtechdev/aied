@@ -4,6 +4,11 @@ created: "2026-08-31T09:06:11-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, curriculum-design, higher-ed, assessment, cognitive-offloading, governance, agency, self-regulated-learning, teacher-role]
+foundations: [agency, cognitive-offloading, curriculum-design, teacher-role]
+pedagogy: [self-regulated-learning]
+technology: [generative-ai]
+assessment: [assessment]
+stakeholders: [governance]
 sources: ['raw/papers/refrain-amplify-genai-curriculum-2026.md']
 confidence: high
 research_method: [theoretical analysis]

@@ -4,6 +4,8 @@ created: "2026-08-24T21:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [collaborative-learning, scaffolding, adaptive-learning, learning-analytics, k-12, problem-solving]
+pedagogy: [collaborative-learning, problem-solving, scaffolding]
+technology: [adaptive-learning, learning-analytics]
 research_method: [learning analytics]
 level: [k 12]
 sources: ['raw/papers/adaptive-ai-scaffold-collaborative-problem-solving-2026.md']

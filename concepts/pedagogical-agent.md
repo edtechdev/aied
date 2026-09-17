@@ -5,6 +5,9 @@ updated: "2026-09-17T02:26:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [intelligent-tutoring, llm, student-ai-interaction, scaffolding, higher-ed, generative-ai, student-experience, k-12, stem-education, personalized-learning]
+pedagogy: [scaffolding, student-ai-interaction]
+technology: [generative-ai, intelligent-tutoring, llm, personalized-learning]
+stakeholders: [student-experience]
 discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]

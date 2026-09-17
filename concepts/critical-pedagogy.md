@@ -4,6 +4,9 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [critical-pedagogy, equity-in-ai-education, critical-thinking, ai-literacy, agency, ethics, reducing-ai-misuse]
+foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
+pedagogy: [critical-pedagogy]
+ethics: [equity-in-ai-education, ethics]
 confidence: high
 ---
 

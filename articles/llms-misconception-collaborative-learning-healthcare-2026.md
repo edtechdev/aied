@@ -4,6 +4,9 @@ created: "2026-08-26T10:07:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [refutation-text, misconceptions, collaborative-learning, llm, medical-education, generative-ai, cognitive-psychology]
+foundations: [misconceptions]
+pedagogy: [cognitive-psychology, collaborative-learning, refutation-text]
+technology: [generative-ai, llm]
 research_method: [theoretical analysis]
 discipline: [medical education]
 sources: ['raw/papers/10.2196_81875.md']

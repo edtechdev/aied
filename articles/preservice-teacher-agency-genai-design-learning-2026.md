@@ -4,6 +4,10 @@ created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-01T09:11:26-04:00"
 type: article
 tags: ['agency', 'teacher-education', 'generative-ai', 'learning-design', 'tpack', 'teacher-ai-competency', 'scaffolding']
+foundations: [agency, learning-design]
+pedagogy: [scaffolding]
+technology: [generative-ai]
+stakeholders: [teacher-ai-competency, tpack]
 research_method: [experiment]
 audience: [teacher educators, researchers]
 level: [higher ed]

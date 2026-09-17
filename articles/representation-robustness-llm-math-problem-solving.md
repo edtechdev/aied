@@ -4,6 +4,8 @@ created: "2026-07-24T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, stem-education, benchmark, assessment-validity, reinforcement-learning, rag, math-education]
+technology: [llm, rag, reinforcement-learning]
+assessment: [assessment-validity, benchmark]
 research_method: [benchmark]
 discipline: [stem education, math education]
 sources: ['raw/papers/2607.20520.md']

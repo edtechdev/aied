@@ -4,6 +4,9 @@ created: "2026-06-24T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, active-learning, professional-training, simulation, visualization]
+pedagogy: [active-learning]
+technology: [generative-ai, intelligent-tutoring, llm, simulation, visualization]
+stakeholders: [professional-training]
 research_method: [system development, user study]
 sources: ['raw/papers/2606.24694.md']
 confidence: high

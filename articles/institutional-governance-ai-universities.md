@@ -4,6 +4,8 @@ created: "2026-08-09T07:09:19-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [ai-education, higher-ed, regulation, educational-policy-ai, change-management, ai-literacy, professional-training]
+foundations: [ai-education, ai-literacy]
+stakeholders: [change-management, educational-policy-ai, professional-training, regulation]
 connected_faqs: [institutional-ai-policy]
 audience: [administrators]
 research_method: [policy analysis, quantitative]

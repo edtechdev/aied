@@ -4,6 +4,9 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [adaptive-learning, higher-ed, intelligent-tutoring, knowledge-tracing, stem-education, knowledge-graph, agentic-ai, llm, scaffolding]
+foundations: [agentic-ai]
+pedagogy: [scaffolding]
+technology: [adaptive-learning, intelligent-tutoring, knowledge-graph, knowledge-tracing, llm]
 research_method: [system development, user study]
 discipline: [stem education]
 level: [higher ed]

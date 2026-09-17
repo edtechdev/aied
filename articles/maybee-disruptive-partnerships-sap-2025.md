@@ -12,6 +12,10 @@ tags:
   - learning-design
   - curriculum-design
   - equity-in-ai-education
+
+foundations: [agency, ai-literacy, curriculum-design, learning-design, teacher-role]
+pedagogy: [pedagogical-partnerships]
+ethics: [equity-in-ai-education]
 sources:
   - 'raw/papers/maybee-disruptive-partnerships-sap-2025.md'
 confidence: high

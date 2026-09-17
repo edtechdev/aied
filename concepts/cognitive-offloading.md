@@ -4,6 +4,11 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: concept
 tags: [cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
+foundations: [ai-literacy, cognitive-offloading]
+pedagogy: [metacognition, self-regulated-learning]
+technology: [generative-ai]
+stakeholders: [student-experience]
+ethics: [trust-calibration]
 audience: [learners]
 connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students-learn, how-ai-impacts-students, addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai, asynchronous-online-courses-ai]
 confidence: high

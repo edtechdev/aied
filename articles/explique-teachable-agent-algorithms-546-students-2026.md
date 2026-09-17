@@ -4,6 +4,8 @@ created: "2026-08-14T10:45:34-04:00"
 updated: "2026-09-01T19:06:21-04:00"
 type: article
 tags: [learning-by-teaching, intelligent-tutoring, generative-ai, cs-education, cognitive-psychology, scaffolding, higher-ed]
+pedagogy: [cognitive-psychology, learning-by-teaching, scaffolding]
+technology: [generative-ai, intelligent-tutoring]
 research_method: [system development]
 discipline: [cs education]
 level: [higher ed]

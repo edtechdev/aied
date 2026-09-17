@@ -4,6 +4,8 @@ created: "2026-09-03T13:50:00-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [cs-education, learning-analytics, machine-learning, student-modeling, online-teaching-and-learning, k-12]
+pedagogy: [online-teaching-and-learning]
+technology: [learning-analytics, machine-learning, student-modeling]
 sources: ['raw/papers/zhang-ml-student-progress-programming-2026.md']
 confidence: high
 research_method: [benchmark, learning analytics]

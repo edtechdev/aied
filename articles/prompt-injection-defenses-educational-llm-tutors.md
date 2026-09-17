@@ -4,6 +4,9 @@ created: "2026-05-15T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, regulation, hallucination-risk, student-experience, pedagogical-safety]
+technology: [generative-ai, intelligent-tutoring, llm]
+stakeholders: [pedagogical-safety, regulation, student-experience]
+ethics: [hallucination-risk]
 research_method: [benchmark, system development]
 audience: [learners, software developers]
 sources: ['raw/papers/2605.06669.md']

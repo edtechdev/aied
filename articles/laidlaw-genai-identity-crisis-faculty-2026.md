@@ -4,6 +4,10 @@ created: "2026-08-15T07:40:37-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [educational-development, ai-literacy, teacher-role, generative-ai, higher-ed, teacher-ai-competency, learning-theories, adult-learning, academic-integrity, educational-policy-ai]
+foundations: [academic-integrity, ai-literacy, educational-development, teacher-role]
+pedagogy: [learning-theories]
+technology: [generative-ai]
+stakeholders: [educational-policy-ai, teacher-ai-competency]
 connected_faqs: [faculty-development-ai]
 research_method: [theoretical analysis]
 audience: [faculty development, instructors]

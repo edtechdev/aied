@@ -4,6 +4,8 @@ created: "2026-08-27T10:52:12-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: ['learning-theories', 'cognitive-psychology', 'metacognition', 'knowledge-tracing', 'intelligent-tutoring', 'generative-ai']
+pedagogy: [cognitive-psychology, learning-theories, metacognition]
+technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 ---
 

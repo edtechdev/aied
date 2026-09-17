@@ -4,6 +4,9 @@ created: "2026-05-07T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [agentic-ai, ai-education, benchmark, intelligent-tutoring, pedagogical-llm-training, human-in-the-loop-ai, adaptive-learning]
+foundations: [agentic-ai, ai-education]
+technology: [adaptive-learning, human-in-the-loop-ai, intelligent-tutoring, pedagogical-llm-training]
+assessment: [benchmark]
 audience: [software developers]
 research_method: [benchmark]
 sources: ['raw/papers/2504.20082.md']

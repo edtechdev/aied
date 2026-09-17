@@ -4,6 +4,11 @@ created: "2026-09-16T08:12:19-04:00"
 updated: "2026-09-16T08:12:19-04:00"
 type: article
 tags: [trust, trust-calibration, ai-anxiety-and-stress, well-being, self-efficacy, machine-learning, technology-acceptance-model, higher-ed, self-report-measures, equity-in-ai-education, learning-analytics]
+pedagogy: [self-efficacy, well-being]
+technology: [learning-analytics, machine-learning]
+assessment: [self-report-measures]
+stakeholders: [ai-anxiety-and-stress, technology-acceptance-model]
+ethics: [equity-in-ai-education, trust, trust-calibration]
 sources: ['raw/papers/trust-in-ai-psychological-profiles-ml-2026.md']
 confidence: high
 research_method: [survey, quantitative, learning analytics]

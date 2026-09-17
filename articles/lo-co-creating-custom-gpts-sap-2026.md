@@ -4,6 +4,10 @@ created: "2026-08-31T09:45:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [pedagogical-partnerships, generative-ai, ai-literacy, student-ai-interaction, higher-ed, agency, human-ai-collaboration, collaborative-learning, qualitative-research]
+foundations: [agency, ai-literacy, human-ai-collaboration]
+pedagogy: [collaborative-learning, pedagogical-partnerships, student-ai-interaction]
+technology: [generative-ai]
+assessment: [qualitative-research]
 sources: ['raw/papers/lo-co-creating-custom-gpts-sap-2026.md']
 confidence: high
 research_method: [qualitative, thematic analysis]

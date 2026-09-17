@@ -4,6 +4,10 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-24T18:50:00-04:00"
 type: article
 tags: [technology-acceptance-model, motivation, generative-ai, higher-ed, ai-education, student-engagement, change-management]
+foundations: [ai-education]
+pedagogy: [motivation, student-engagement]
+technology: [generative-ai]
+stakeholders: [change-management, technology-acceptance-model]
 research_method: [mixed methods, survey]
 level: [higher ed]
 sources: ['raw/papers/tian-genai-learning-adoption-pathways-2026.md']

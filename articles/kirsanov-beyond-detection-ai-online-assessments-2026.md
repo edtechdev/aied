@@ -4,6 +4,10 @@ created: "2026-08-27T11:15:00-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [ai-use-disclosure, academic-integrity, assessment, higher-ed, generative-ai, authentic-assessment]
+foundations: [academic-integrity]
+technology: [generative-ai]
+assessment: [assessment, authentic-assessment]
+ethics: [ai-use-disclosure]
 research_method: [survey, case study]
 level: [higher ed]
 category: [assessment]

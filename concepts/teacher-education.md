@@ -4,6 +4,8 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: concept
 tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
+foundations: [ai-literacy, teacher-role]
+stakeholders: [tpack]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher training, k 12]

@@ -4,6 +4,9 @@ created: "2026-08-19T08:05:00-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, student-experience, motivation, educational-policy-ai, higher-ed, k-12, collaborative-learning, governance]
+foundations: [academic-integrity, ai-literacy]
+pedagogy: [collaborative-learning, motivation]
+stakeholders: [educational-policy-ai, governance, student-experience]
 connected_faqs: [course-ai-policy]
 audience: [learners]
 level: [higher ed, k 12]

@@ -4,6 +4,8 @@ created: "2026-08-25T09:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 weight: 84
 tags: [assessment, assessment-validity, authentic-assessment, academic-integrity]
+foundations: [academic-integrity]
+assessment: [assessment, assessment-validity, authentic-assessment]
 category: [assessment]
 ---
 

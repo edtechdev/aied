@@ -4,6 +4,10 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 tags: ["bias-mitigation", "equity-in-ai-education", "generative-ai", "multimodal", "ai-literacy", "meta-analysis-systematic-review"]
+foundations: [ai-literacy]
+technology: [generative-ai, multimodal]
+assessment: [meta-analysis-systematic-review]
+ethics: [bias-mitigation, equity-in-ai-education]
 research_method: [systematic review]
 audience: [researchers, policymakers, designers]
 level: [k 12, higher ed]

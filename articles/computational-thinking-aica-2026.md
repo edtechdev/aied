@@ -4,6 +4,9 @@ created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-23T10:00:00-04:00"
 type: article
 tags: [computational-thinking, cs-education, self-regulated-learning, learning-gains, k-12]
+foundations: [computational-thinking]
+pedagogy: [self-regulated-learning]
+assessment: [learning-gains]
 research_method: [learning analytics]
 discipline: [cs education]
 level: [k 12]

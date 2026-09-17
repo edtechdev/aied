@@ -4,6 +4,9 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [teacher-education, tpack, ai-literacy, ethics, trust, k-12]
+foundations: [ai-literacy]
+stakeholders: [tpack]
+ethics: [ethics, trust]
 audience: [instructors, faculty development]
 research_method: [qualitative, case study]
 level: [k 12]

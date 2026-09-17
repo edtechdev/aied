@@ -4,6 +4,11 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [assessment, assessment-validity, formative-assessment, generative-ai, ai-ed-evaluation, learning-theories, equity-in-ai-education, human-in-the-loop-ai, automated-assessment, ai-literacy]
+foundations: [ai-literacy]
+pedagogy: [learning-theories]
+technology: [generative-ai, human-in-the-loop-ai]
+assessment: [ai-ed-evaluation, assessment, assessment-validity, automated-assessment, formative-assessment]
+ethics: [equity-in-ai-education]
 audience: [administrators, instructors]
 research_method: [theoretical analysis]
 category: [assessment, evaluation]

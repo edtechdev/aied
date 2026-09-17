@@ -4,6 +4,9 @@ created: "2026-09-16T09:14:31-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [meta-analysis-systematic-review, stem-education, learning-gains, intelligent-tutoring, adaptive-learning, personalized-learning, science-education, math-education, engineering-education, higher-ed, k-12, ai-education]
+foundations: [ai-education]
+technology: [adaptive-learning, intelligent-tutoring, personalized-learning]
+assessment: [learning-gains, meta-analysis-systematic-review]
 sources: ['raw/papers/ai-supported-instruction-stem-meta-analysis-2026.md']
 confidence: high
 research_method: [systematic review, meta-analysis]

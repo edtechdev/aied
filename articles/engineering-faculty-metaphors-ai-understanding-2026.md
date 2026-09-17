@@ -4,6 +4,9 @@ created: "2026-08-17T10:30:00-04:00"
 updated: "2026-08-26T07:45:07-04:00"
 type: article
 tags: [engineering-education, educational-development, ai-literacy, generative-ai, higher-ed, student-experience, cognitive-offloading]
+foundations: [ai-literacy, cognitive-offloading, educational-development]
+technology: [generative-ai]
+stakeholders: [student-experience]
 research_method: [qualitative, interviews]
 discipline: [engineering education]
 audience: [faculty development, learners]

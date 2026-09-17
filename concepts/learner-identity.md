@@ -4,6 +4,8 @@ created: "2026-08-27T08:10:00-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: concept
 tags: [learner-identity, adult-learning, student-experience, agency, stem-education]
+foundations: [agency, learner-identity]
+stakeholders: [student-experience]
 discipline: [stem education]
 audience: [learners]
 confidence: high

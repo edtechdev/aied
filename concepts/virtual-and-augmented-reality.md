@@ -4,6 +4,10 @@ created: "2026-09-13T09:52:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [generative-ai, simulation, embodied-learning, multimodal, professional-training, stem-education, accessibility, medical-education]
+pedagogy: [embodied-learning]
+technology: [generative-ai, multimodal, simulation]
+stakeholders: [professional-training]
+ethics: [accessibility]
 confidence: high
 ---
 

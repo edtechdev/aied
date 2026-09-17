@@ -4,6 +4,10 @@ created: "2026-08-17T10:45:00-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 type: concept
 tags: [engineering-education, stem-education, ai-literacy, educational-development, professional-training, assessment, ethics, higher-ed]
+foundations: [ai-literacy, educational-development]
+assessment: [assessment]
+stakeholders: [professional-training]
+ethics: [ethics]
 discipline: [engineering education, stem education]
 audience: [learners, instructors, faculty development]
 level: [higher ed]

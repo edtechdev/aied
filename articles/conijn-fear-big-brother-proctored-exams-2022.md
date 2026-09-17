@@ -4,6 +4,11 @@ created: "2026-08-25T07:42:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [remote-proctoring, ai-anxiety-and-stress, academic-integrity, social-emotional-learning, higher-ed, assessment, privacy, equity-in-ai-education]
+foundations: [academic-integrity]
+pedagogy: [social-emotional-learning]
+assessment: [assessment, remote-proctoring]
+stakeholders: [ai-anxiety-and-stress]
+ethics: [equity-in-ai-education, privacy]
 research_method: [survey]
 level: [higher ed]
 category: [assessment]

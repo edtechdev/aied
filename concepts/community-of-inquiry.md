@@ -4,6 +4,9 @@ created: "2026-08-23T15:30:00-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: concept
 tags: [online-teaching-and-learning, higher-ed, generative-ai, pedagogy, critical-thinking]
+foundations: [critical-thinking]
+pedagogy: [online-teaching-and-learning, pedagogy]
+technology: [generative-ai]
 level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]

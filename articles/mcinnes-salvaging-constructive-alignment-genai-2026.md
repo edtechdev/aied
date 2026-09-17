@@ -4,6 +4,10 @@ created: "2026-09-14T05:10:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, curriculum-design, assessment, higher-ed, educational-development, critical-pedagogy, teacher-role, learning-design, pedagogy]
+foundations: [curriculum-design, educational-development, learning-design, teacher-role]
+pedagogy: [critical-pedagogy, pedagogy]
+technology: [generative-ai]
+assessment: [assessment]
 research_method: [qualitative, thematic analysis]
 level: [higher ed]
 category: [curriculum design, instructional design, assessment]

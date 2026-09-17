@@ -4,6 +4,10 @@ created: "2026-06-10T12:17:35-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, llm, ai-literacy, educational-policy-ai, higher-ed, student-experience, intelligent-tutoring, scaffolding, k-12, stem-education]
+foundations: [ai-literacy]
+pedagogy: [scaffolding]
+technology: [generative-ai, intelligent-tutoring, llm]
+stakeholders: [educational-policy-ai, student-experience]
 research_method: [theoretical analysis]
 discipline: [stem education]
 audience: [learners]

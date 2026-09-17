@@ -4,6 +4,11 @@ created: "2026-08-15T09:23:09-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [cs-education, open-source, llm, rag, benchmark, privacy, ai-ed-evaluation, generative-ai, sustainability, edtech-platform]
+foundations: [sustainability]
+technology: [generative-ai, llm, rag]
+assessment: [ai-ed-evaluation, benchmark]
+stakeholders: [edtech-platform, open-source]
+ethics: [privacy]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [cs education]

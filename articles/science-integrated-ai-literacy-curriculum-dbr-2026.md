@@ -4,6 +4,9 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 tags: ["ai-literacy", "k-12", "design-based-research", "science-education", "curriculum-design", "machine-learning"]
+foundations: [ai-literacy, curriculum-design]
+technology: [machine-learning]
+assessment: [design-based-research]
 research_method: [design-based research, mixed methods]
 audience: [curriculum designers, researchers, educators]
 level: [k 12]

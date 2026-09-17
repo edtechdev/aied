@@ -4,6 +4,9 @@ created: "2026-08-11T06:15:03-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [collaborative-learning, generative-ai, higher-ed, teacher-education, mixed-methods-research]
+pedagogy: [collaborative-learning]
+technology: [generative-ai]
+assessment: [mixed-methods-research]
 research_method: [mixed methods]
 level: [higher ed]
 sources: ['raw/papers/srep-ccct-cooperative-learning.md']

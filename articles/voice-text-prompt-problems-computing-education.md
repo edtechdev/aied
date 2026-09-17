@@ -4,6 +4,9 @@ created: "2026-07-08T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, cs-education, generative-ai, llm, intelligent-tutoring, prompt-engineering, student-experience]
+foundations: [ai-literacy]
+technology: [generative-ai, intelligent-tutoring, llm, prompt-engineering]
+stakeholders: [student-experience]
 research_method: [qualitative, mixed methods]
 discipline: [cs education]
 audience: [learners]

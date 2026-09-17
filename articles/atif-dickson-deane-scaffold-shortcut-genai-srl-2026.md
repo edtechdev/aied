@@ -4,6 +4,10 @@ created: "2026-08-27T06:30:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [self-regulated-learning, cognitive-offloading, generative-ai, higher-ed, mixed-methods-research, ai-literacy, engineering-education]
+foundations: [ai-literacy, cognitive-offloading]
+pedagogy: [self-regulated-learning]
+technology: [generative-ai]
+assessment: [mixed-methods-research]
 audience: [learners, instructors]
 research_method: [mixed methods]
 discipline: [information technology]

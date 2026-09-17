@@ -4,6 +4,9 @@ created: "2026-09-17T02:58:21-04:00"
 updated: "2026-09-17T02:58:21-04:00"
 type: article
 tags: [ai-literacy, k-12, generative-ai, metacognition, self-regulated-learning, science-education, cognitive-offloading, prompt-engineering]
+foundations: [ai-literacy, cognitive-offloading]
+pedagogy: [metacognition, self-regulated-learning]
+technology: [generative-ai, prompt-engineering]
 research_method: [quasi-experiment, mixed methods]
 audience: [instructors, researchers, curriculum designers]
 level: [k 12, secondary]

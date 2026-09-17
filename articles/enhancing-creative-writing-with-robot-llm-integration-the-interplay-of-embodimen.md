@@ -4,6 +4,9 @@ created: "2026-08-10T17:08:30-04:00"
 updated: "2026-08-24T17:25:00-04:00"
 type: article
 tags: [higher-ed, collaborative-learning, student-engagement, creativity, ai-education, intelligent-tutoring, educational-robotics, embodied-learning, llm]
+foundations: [ai-education]
+pedagogy: [collaborative-learning, creativity, embodied-learning, student-engagement]
+technology: [educational-robotics, intelligent-tutoring, llm]
 research_method: [experiment]
 level: [higher ed]
 category: [engagement]

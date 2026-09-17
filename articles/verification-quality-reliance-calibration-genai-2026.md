@@ -4,6 +4,10 @@ created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [trust-calibration, cognitive-offloading, ai-literacy, metacognition, self-regulated-learning, higher-ed, generative-ai]
+foundations: [ai-literacy, cognitive-offloading]
+pedagogy: [metacognition, self-regulated-learning]
+technology: [generative-ai]
+ethics: [trust-calibration]
 connected_faqs: [verify-ai-output, study-with-ai]
 audience: [researchers, instructors, administrators, assessment designers]
 research_method: [literature review]

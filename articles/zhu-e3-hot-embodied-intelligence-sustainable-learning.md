@@ -4,6 +4,9 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-30T05:30:00-04:00"
 type: article
 tags: [embodied-learning, cognitive-psychology, critical-thinking, constructivist, educational-policy-ai, higher-ed, learning-theories, cognitive-offloading]
+foundations: [cognitive-offloading, critical-thinking]
+pedagogy: [cognitive-psychology, constructivist, embodied-learning, learning-theories]
+stakeholders: [educational-policy-ai]
 research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/zhu-e3-hot-embodied-intelligence-sustainable-learning.md']

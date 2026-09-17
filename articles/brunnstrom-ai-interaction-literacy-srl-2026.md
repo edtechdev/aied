@@ -4,6 +4,11 @@ created: "2026-09-11T06:10:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, self-regulated-learning, metacognition, generative-ai, assessment, assessment-validity, feedback-literacy, higher-ed, student-ai-interaction, equity-in-ai-education, prompt-engineering]
+foundations: [ai-literacy]
+pedagogy: [metacognition, self-regulated-learning, student-ai-interaction]
+technology: [generative-ai, prompt-engineering]
+assessment: [assessment, assessment-validity, feedback-literacy]
+ethics: [equity-in-ai-education]
 research_method: [theoretical analysis, qualitative]
 audience: [learners, instructors, assessment designers, researchers]
 level: [higher ed]

@@ -4,6 +4,9 @@ created: "2026-08-25T09:20:00-04:00"
 updated: "2026-09-14T06:18:07-04:00"
 weight: 60
 tags: [equity-in-ai-education, accessibility, privacy, ethics, pedagogical-safety, digital-divide, research-methods-aied]
+assessment: [research-methods-aied]
+stakeholders: [pedagogical-safety]
+ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy]
 research_method: [research methods]
 ---
 

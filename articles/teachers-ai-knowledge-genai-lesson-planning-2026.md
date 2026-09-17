@@ -4,6 +4,9 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
 tags: [teacher-education, tpack, generative-ai, ai-literacy, teacher-role, learning-design]
+foundations: [ai-literacy, learning-design, teacher-role]
+technology: [generative-ai]
+stakeholders: [tpack]
 research_method: [mixed methods]
 audience: [instructors]
 sources: ['raw/papers/teachers-ai-knowledge-genai-lesson-planning-2026.md']

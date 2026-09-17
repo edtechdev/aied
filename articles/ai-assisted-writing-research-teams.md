@@ -4,6 +4,9 @@ created: "2026-05-28T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, writing-education, educational-development, automated-assessment, llm, agentic-ai, ai-literacy]
+foundations: [agentic-ai, ai-literacy, educational-development]
+technology: [generative-ai, llm]
+assessment: [automated-assessment]
 research_method: [bibliometric, secondary analysis]
 discipline: [writing education]
 audience: [researchers]

@@ -5,6 +5,9 @@ updated: "2026-09-16T15:58:20-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai]
+technology: [learning-analytics, personalized-learning]
+stakeholders: [educational-policy-ai, governance, regulation]
+ethics: [equity-in-ai-education, ethics]
 level: [k 12]
 confidence: high
 ---

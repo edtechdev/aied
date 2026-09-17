@@ -4,6 +4,9 @@ created: "2026-09-09T19:18:07-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [governance, educational-policy-ai, generative-ai, llm, agency]
+foundations: [agency]
+technology: [generative-ai, llm]
+stakeholders: [educational-policy-ai, governance]
 research_method: [theoretical analysis, case study]
 discipline: [learning sciences]
 audience: [policymakers, researchers, administrators]

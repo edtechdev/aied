@@ -4,6 +4,9 @@ created: "2026-09-05T00:20:00-04:00"
 updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: [early-childhood-elementary-ai-education, educational-robotics, project-based-learning, generative-ai, agentic-ai, creativity, computational-thinking, social-emotional-learning, k-12]
+foundations: [agentic-ai, computational-thinking]
+pedagogy: [creativity, project-based-learning, social-emotional-learning]
+technology: [educational-robotics, generative-ai]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [theoretical analysis]
 audience: [instructors, learning designers, teacher educators]

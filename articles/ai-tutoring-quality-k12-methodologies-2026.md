@@ -4,6 +4,9 @@ created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-16T05:40:00-04:00"
 type: article
 tags: [intelligent-tutoring, k-12, llm, personalized-learning, student-engagement, edtech-platform]
+pedagogy: [student-engagement]
+technology: [intelligent-tutoring, llm, personalized-learning]
+stakeholders: [edtech-platform]
 research_method: [experiment]
 level: [k 12]
 category: [engagement]

@@ -5,6 +5,10 @@ updated: "2026-09-17T07:48:05-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop-ai, agency, cognitive-offloading]
+foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
+pedagogy: [scaffolding]
+technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, llm]
+stakeholders: [student-experience]
 discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]

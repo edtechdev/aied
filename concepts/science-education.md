@@ -2,6 +2,8 @@
 title: Science Education
 type: concept
 tags: [science-education, stem-education, inquiry-based-learning, generative-ai]
+pedagogy: [inquiry-based-learning]
+technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"

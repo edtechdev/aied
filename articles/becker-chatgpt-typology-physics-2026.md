@@ -4,6 +4,11 @@ created: "2026-08-08T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [physics-education, student-experience, ai-literacy, higher-ed, stem-education, trust-calibration, rag, scaffolding, change-management]
+foundations: [ai-literacy]
+pedagogy: [scaffolding]
+technology: [rag]
+stakeholders: [change-management, student-experience]
+ethics: [trust-calibration]
 research_method: [survey, qualitative]
 discipline: [physics education, stem education]
 audience: [learners]

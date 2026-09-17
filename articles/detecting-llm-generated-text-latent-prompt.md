@@ -4,6 +4,10 @@ created: "2026-08-09T07:09:19-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-detection, llm, generative-ai, academic-integrity, ai-ed-evaluation, ai-education, pedagogical-safety]
+foundations: [academic-integrity, ai-education]
+technology: [generative-ai, llm]
+assessment: [ai-detection, ai-ed-evaluation]
+stakeholders: [pedagogical-safety]
 audience: [software developers]
 research_method: [benchmark]
 category: [evaluation]

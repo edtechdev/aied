@@ -4,6 +4,9 @@ created: "2026-08-19T17:10:00-04:00"
 updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [assessment, authentic-assessment, academic-integrity, generative-ai, higher-ed, k-12, critical-thinking, feedback]
+foundations: [academic-integrity, critical-thinking]
+technology: [generative-ai]
+assessment: [assessment, authentic-assessment, feedback]
 research_method: [literature review]
 level: [higher ed, k 12]
 category: [assessment]

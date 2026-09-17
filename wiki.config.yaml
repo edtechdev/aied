@@ -39,6 +39,9 @@ build:
   # not a substitute for either gate.
   gates:
     - python3 tooling/scripts/check_concepts.py
+    # Typed facet fields must match each page's concept tags (derived from the
+    # registry). Mechanical to satisfy: python3 tooling/scripts/derive-facets.py --apply
+    - python3 tooling/scripts/derive-facets.py
     - python3 tooling/scripts/gen-concept-artifacts.py --check   # generated views in sync
     - python3 skills/research/wiki-inline-links/scripts/inline_link_scan.py . --all
     - python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py . --all

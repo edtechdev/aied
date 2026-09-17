@@ -4,6 +4,8 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:54:24-04:00"
 type: article
 tags: [automated-essay-scoring, automated-assessment, benchmark, educational-measurement, formative-assessment, higher-ed, llm, writing-education]
+technology: [llm]
+assessment: [automated-assessment, automated-essay-scoring, benchmark, educational-measurement, formative-assessment]
 audience: [software developers]
 research_method: [benchmark, educational measurement]
 discipline: [writing education]

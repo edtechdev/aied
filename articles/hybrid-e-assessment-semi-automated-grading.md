@@ -4,6 +4,11 @@ created: "2026-06-10T07:38:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [automated-assessment, assessment, higher-ed, generative-ai, formative-assessment, llm, student-experience, ai-literacy, scaffolding, stem-education]
+foundations: [ai-literacy]
+pedagogy: [scaffolding]
+technology: [generative-ai, llm]
+assessment: [assessment, automated-assessment, formative-assessment]
+stakeholders: [student-experience]
 research_method: [system development]
 discipline: [stem education]
 audience: [instructors, software developers]

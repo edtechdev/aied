@@ -4,6 +4,9 @@ created: "2026-09-14T06:10:00-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [generative-ai, educational-policy-ai, teacher-education, writing-education, english-education, critical-thinking, academic-integrity, ai-literacy]
+foundations: [academic-integrity, ai-literacy, critical-thinking]
+technology: [generative-ai]
+stakeholders: [educational-policy-ai]
 connected_faqs: [ai-guidance-children-under-13, course-ai-policy]
 research_method: [qualitative, case study]
 discipline: [english education, writing education]

@@ -4,6 +4,8 @@ created: "2026-08-12T22:10:30-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
 tags: [simulating-students, generative-ai, llm, student-modeling, agentic-ai, learning-design, teacher-role, adaptive-learning]
+foundations: [agentic-ai, learning-design, teacher-role]
+technology: [adaptive-learning, generative-ai, llm, simulating-students, student-modeling]
 research_method: [literature review]
 audience: [instructors]
 category: [instructional design]

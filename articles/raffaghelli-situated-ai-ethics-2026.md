@@ -4,6 +4,10 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-education, ethics, teacher-ai-competency, higher-ed, learning-theories, equity-in-ai-education]
+foundations: [ai-education]
+pedagogy: [learning-theories]
+stakeholders: [teacher-ai-competency]
+ethics: [equity-in-ai-education, ethics]
 research_method: [theoretical analysis, case study]
 level: [higher ed]
 sources: ['raw/papers/raffaghelli-situated-ai-ethics-2026.md']

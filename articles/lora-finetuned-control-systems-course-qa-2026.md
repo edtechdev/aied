@@ -4,6 +4,9 @@ created: "2026-09-15T10:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [llm, engineering-education, higher-ed, pedagogical-llm-training, automated-assessment, adaptive-learning, student-ai-interaction, conversational-ai, discipline-specific-aied, educational-nlp]
+pedagogy: [student-ai-interaction]
+technology: [adaptive-learning, conversational-ai, educational-nlp, llm, pedagogical-llm-training]
+assessment: [automated-assessment]
 sources: ['raw/papers/lora-finetuned-control-systems-course-qa-2026.md']
 confidence: high
 research_method: [experiment, system development]

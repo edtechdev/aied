@@ -4,6 +4,7 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [science-education, ai-literacy, teacher-education, adult-learning, stem-education]
+foundations: [ai-literacy]
 audience: [instructors, faculty development]
 research_method: [mixed methods, survey]
 discipline: [science education, stem education]

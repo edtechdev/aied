@@ -4,6 +4,10 @@ created: "2026-05-07T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, student-experience, ai-education, generative-ai, benchmark, learning-analytics, adaptive-learning, intelligent-tutoring]
+foundations: [ai-education]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm]
+assessment: [benchmark]
+stakeholders: [student-experience]
 research_method: [benchmark]
 audience: [learners, software developers]
 sources: ['raw/papers/2605.06307.md']

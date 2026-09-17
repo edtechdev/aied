@@ -4,6 +4,10 @@ created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, scaffolding, human-in-the-loop-ai, pedagogical-safety, ai-literacy, student-experience, teacher-role, k-12]
+foundations: [ai-literacy, teacher-role]
+pedagogy: [scaffolding]
+technology: [human-in-the-loop-ai, intelligent-tutoring]
+stakeholders: [pedagogical-safety, student-experience]
 research_method: [system development, mixed methods]
 audience: [learners, instructors]
 level: [k 12]

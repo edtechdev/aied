@@ -4,6 +4,10 @@ created: "2026-08-12T12:37:38-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [metacognition, self-regulated-learning, cognitive-offloading, academic-integrity, student-experience, generative-ai]
+foundations: [academic-integrity, cognitive-offloading]
+pedagogy: [metacognition, self-regulated-learning]
+technology: [generative-ai]
+stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [learners]
 

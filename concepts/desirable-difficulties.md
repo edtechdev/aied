@@ -4,6 +4,8 @@ created: "2026-07-28T10:44:35-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [desirable-difficulties, cognitive-psychology, self-regulated-learning, cognitive-offloading, learning-theories, scaffolding, metacognition]
+foundations: [cognitive-offloading]
+pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
 connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high

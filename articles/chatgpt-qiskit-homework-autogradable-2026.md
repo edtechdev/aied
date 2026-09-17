@@ -4,6 +4,9 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
 tags: [cs-education, academic-integrity, automated-assessment, generative-ai, assessment, llm]
+foundations: [academic-integrity]
+technology: [generative-ai, llm]
+assessment: [assessment, automated-assessment]
 research_method: [benchmark]
 discipline: [cs education]
 category: [assessment]

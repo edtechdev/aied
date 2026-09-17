@@ -4,6 +4,8 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [pedagogical-safety, k-12, llm, generative-ai]
+technology: [generative-ai, llm]
+stakeholders: [pedagogical-safety]
 connected_faqs: [verify-ai-output]
 audience: [software developers]
 research_method: [system development]

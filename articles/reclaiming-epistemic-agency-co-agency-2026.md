@@ -4,6 +4,11 @@ created: "2026-08-28T09:05:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [agency, generative-ai, higher-ed, self-regulated-learning, teacher-role, theory-development-aied, ethics, cognitive-offloading, tpack, equity-in-ai-education]
+foundations: [agency, cognitive-offloading, teacher-role, theory-development-aied]
+pedagogy: [self-regulated-learning]
+technology: [generative-ai]
+stakeholders: [tpack]
+ethics: [equity-in-ai-education, ethics]
 research_method: [theoretical analysis]
 audience: [instructors]
 level: [higher ed]

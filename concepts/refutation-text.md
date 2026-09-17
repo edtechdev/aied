@@ -4,6 +4,9 @@ created: "2026-08-26T10:20:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: concept
 tags: [misconceptions, cognitive-psychology, scaffolding, science-education, metacognition, generative-ai, learning-theories]
+foundations: [misconceptions]
+pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
+technology: [generative-ai]
 discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]

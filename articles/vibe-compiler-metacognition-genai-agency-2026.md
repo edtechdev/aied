@@ -4,6 +4,9 @@ created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [metacognition, generative-ai, critical-thinking, cognitive-offloading, human-in-the-loop-ai, self-regulated-learning, rag, scaffolding]
+foundations: [cognitive-offloading, critical-thinking]
+pedagogy: [metacognition, scaffolding, self-regulated-learning]
+technology: [generative-ai, human-in-the-loop-ai, rag]
 research_method: [theoretical analysis]
 sources: ['raw/papers/2608.05545.md']
 confidence: medium

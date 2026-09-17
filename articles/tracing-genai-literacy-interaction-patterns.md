@@ -4,6 +4,9 @@ created: "2026-06-02T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, higher-ed, learning-analytics, prompt-engineering, writing-education, scaffolding, agentic-ai, metacognition, curriculum-design]
+foundations: [agentic-ai, ai-literacy, curriculum-design]
+pedagogy: [metacognition, scaffolding]
+technology: [learning-analytics, prompt-engineering]
 audience: [learners, instructors]
 research_method: [learning analytics, survey]
 discipline: [writing education]

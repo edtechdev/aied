@@ -4,6 +4,11 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, feedback, student-experience, higher-ed, ai-literacy, language-learning, cognitive-offloading, metacognition, scaffolding, regulation]
+foundations: [ai-literacy, cognitive-offloading]
+pedagogy: [metacognition, scaffolding]
+technology: [generative-ai]
+assessment: [feedback]
+stakeholders: [regulation, student-experience]
 research_method: [qualitative]
 discipline: [language learning]
 audience: [learners]

@@ -4,6 +4,9 @@ created: "2026-08-22T17:45:00-04:00"
 updated: "2026-08-22T18:20:00-04:00"
 type: article
 tags: [teacher-role, writing-education, educational-development, generative-ai, higher-ed, ai-literacy, student-experience]
+foundations: [ai-literacy, educational-development, teacher-role]
+technology: [generative-ai]
+stakeholders: [student-experience]
 research_method: [qualitative, case study]
 discipline: [writing education]
 audience: [instructors, faculty development, learners]

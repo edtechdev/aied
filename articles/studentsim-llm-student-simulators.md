@@ -4,6 +4,7 @@ created: "2026-09-02T09:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [simulating-students, intelligent-tutoring, llm, personalized-learning, reinforcement-learning, student-modeling, generative-ai]
+technology: [generative-ai, intelligent-tutoring, llm, personalized-learning, reinforcement-learning, simulating-students, student-modeling]
 sources: ['raw/papers/studentsim-llm-student-simulators.md']
 confidence: high
 research_method: [system development, benchmark]

@@ -4,6 +4,10 @@ created: "2026-09-15T17:05:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [academic-integrity, educational-policy-ai, governance, higher-ed, medical-education, privacy, professional-training, curriculum-design, generative-ai, ethics]
+foundations: [academic-integrity, curriculum-design]
+technology: [generative-ai]
+stakeholders: [educational-policy-ai, governance, professional-training]
+ethics: [ethics, privacy]
 sources: ['raw/papers/institutional-ai-policy-health-informatics-2026.md']
 audience: [administrators, curriculum designers, faculty development, institutions, medical educators, policymakers, researchers]
 level: [higher ed]

@@ -4,6 +4,11 @@ created: "2026-08-23T08:15:00-04:00"
 updated: "2026-08-23T09:30:00-04:00"
 type: article
 tags: [productive-failure, cognitive-offloading, generative-ai, scaffolding, socratic-method, medical-education, student-experience, trust]
+foundations: [cognitive-offloading]
+pedagogy: [productive-failure, scaffolding, socratic-method]
+technology: [generative-ai]
+stakeholders: [student-experience]
+ethics: [trust]
 research_method: [theoretical analysis]
 discipline: [medical education]
 audience: [learners]

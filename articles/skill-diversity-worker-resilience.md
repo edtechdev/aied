@@ -4,6 +4,9 @@ created: "2026-08-09T07:09:19-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [adult-learning, professional-training, ai-education, llm, learning-analytics]
+foundations: [ai-education]
+technology: [learning-analytics, llm]
+stakeholders: [professional-training]
 research_method: [secondary analysis, longitudinal study]
 sources: ['raw/papers/2608.02102v1.md']
 confidence: high

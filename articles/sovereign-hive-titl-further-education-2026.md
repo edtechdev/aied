@@ -4,6 +4,10 @@ created: "2026-08-14T09:17:22-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, equity-in-ai-education, cognitive-offloading, metacognition, neurodiversity, adult-learning, well-being, digital-divide, ai-misuse-learning-harm]
+foundations: [cognitive-offloading]
+pedagogy: [metacognition, well-being]
+technology: [generative-ai]
+ethics: [ai-misuse-learning-harm, digital-divide, equity-in-ai-education, neurodiversity]
 research_method: [theoretical analysis]
 level: [adult learning]
 

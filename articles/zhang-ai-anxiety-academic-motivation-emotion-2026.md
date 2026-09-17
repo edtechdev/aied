@@ -4,6 +4,9 @@ created: "2026-09-06T08:16:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [motivation, well-being, higher-ed, generative-ai, self-efficacy, metacognition, student-experience]
+pedagogy: [metacognition, motivation, self-efficacy, well-being]
+technology: [generative-ai]
+stakeholders: [student-experience]
 connected_faqs: [ai-anxiety-wellbeing]
 research_method: [survey]
 audience: [learners]

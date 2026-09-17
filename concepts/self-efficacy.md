@@ -4,6 +4,10 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [self-efficacy, motivation, assessment, self-regulated-learning, student-experience, ai-literacy]
+foundations: [ai-literacy]
+pedagogy: [motivation, self-efficacy, self-regulated-learning]
+assessment: [assessment]
+stakeholders: [student-experience]
 connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 category: [assessment]

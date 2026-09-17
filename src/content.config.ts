@@ -2,6 +2,7 @@ import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { readdirSync, existsSync } from 'node:fs';
 import { resolve } from 'node:path';
+import { FACET_VOCAB } from './data/facetVocab';
 
 const articlesDir = resolve(process.cwd(), 'articles');
 const conceptsDir = resolve(process.cwd(), 'concepts');
@@ -70,7 +71,29 @@ const enumList = (...opts: string[]) => z
     message: 'value must be one of the allowed options',
   });
 
+// Facet fields: the allowed values ARE the concept slugs of one registry
+// section, imported from the generated src/data/facetVocab.ts. Adding a concept
+// to a registry section therefore extends the vocabulary automatically, with no
+// second list to maintain.
+const facetList = (facet: keyof typeof FACET_VOCAB) =>
+  enumList(...FACET_VOCAB[facet]);
+
 const structuredMeta = {
+    // Typed facet fields (2026-09-17). Each mirrors one section of
+    // concepts.registry.yaml, and its allowed values are exactly that section's
+    // concept slugs (see src/data/facetVocab.ts, generated). This is the typed
+    // layer that `tags` is being migrated onto: a tag says which concepts a page
+    // touches, a facet field says what KIND of concept it is, so the search
+    // facets can ask "show me pedagogy studies" without scanning a mixed list.
+    // Vocabulary drift is impossible in the direction that matters: a concept
+    // added to a registry section becomes a legal value on the next build, and a
+    // value of the wrong kind fails the build.
+    foundations: facetList('foundations'),
+    pedagogy: facetList('pedagogy'),
+    technology: facetList('technology'),
+    assessment: facetList('assessment'),
+    stakeholders: facetList('stakeholders'),
+    ethics: facetList('ethics'),
     research_method: enumList(
         'action design research',
         'benchmark',

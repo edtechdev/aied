@@ -4,6 +4,9 @@ created: "2026-08-14T10:37:25-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [tpack, ai-literacy, teacher-ai-competency, educational-development, generative-ai, teacher-role, learning-design, curriculum-design]
+foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
+technology: [generative-ai]
+stakeholders: [teacher-ai-competency, tpack]
 connected_faqs: [faculty-development-ai]
 audience: [faculty development, instructors]
 category: [instructional design]

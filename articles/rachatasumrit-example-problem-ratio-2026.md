@@ -4,6 +4,9 @@ created: "2026-09-03T14:03:50-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [cognitive-psychology, learning-theories, desirable-difficulties, transfer-of-learning, problem-solving, prior-knowledge, learning-gains, intelligent-tutoring, math-education]
+pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, prior-knowledge, problem-solving, transfer-of-learning]
+technology: [intelligent-tutoring]
+assessment: [learning-gains]
 sources: ['raw/papers/rachatasumrit-example-problem-ratio-2026.md']
 confidence: high
 research_method: [experiment, process-outcome modeling]

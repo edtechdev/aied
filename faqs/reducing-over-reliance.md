@@ -5,6 +5,9 @@ updated: "2026-09-17T02:50:00-04:00"
 weight: 80
 type: faq
 tags: [cognitive-offloading, self-regulated-learning, metacognition, desirable-difficulties, help-seeking, reducing-ai-misuse, trust-calibration]
+foundations: [cognitive-offloading, reducing-ai-misuse]
+pedagogy: [desirable-difficulties, help-seeking, metacognition, self-regulated-learning]
+ethics: [trust-calibration]
 research_method: [literature review, experiment, mixed methods]
 audience: [instructors, learning designers, instructional designers]
 level: [higher ed, secondary, k 12]

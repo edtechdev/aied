@@ -4,6 +4,9 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [feedback, ai-feedback-quality, generative-ai, prompt-engineering, writing-education, assessment, higher-ed, formative-assessment, student-ai-interaction]
+pedagogy: [student-ai-interaction]
+technology: [generative-ai, prompt-engineering]
+assessment: [ai-feedback-quality, assessment, feedback, formative-assessment]
 connected_faqs: [ai-feedback-at-scale]
 research_method: [experiment]
 discipline: [writing education]

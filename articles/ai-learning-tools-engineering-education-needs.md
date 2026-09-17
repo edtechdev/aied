@@ -4,6 +4,11 @@ created: "2026-07-30T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [higher-ed, stem-education, student-experience, affective-computing, personalized-learning, scaffolding, adaptive-learning, ai-literacy, formative-assessment, teacher-role]
+foundations: [ai-literacy, teacher-role]
+pedagogy: [scaffolding]
+technology: [adaptive-learning, affective-computing, personalized-learning]
+assessment: [formative-assessment]
+stakeholders: [student-experience]
 research_method: [survey, quantitative]
 discipline: [engineering education, stem education]
 audience: [learners, instructors]

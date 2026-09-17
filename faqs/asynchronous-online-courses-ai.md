@@ -5,6 +5,11 @@ updated: "2026-09-17T03:40:00-04:00"
 weight: 68
 type: faq
 tags: [online-teaching-and-learning, assessment, academic-integrity, self-regulated-learning, student-engagement, learning-design, guardrails, community-of-inquiry, generative-ai, cognitive-offloading]
+foundations: [academic-integrity, cognitive-offloading, learning-design]
+pedagogy: [community-of-inquiry, online-teaching-and-learning, self-regulated-learning, student-engagement]
+technology: [generative-ai]
+assessment: [assessment]
+ethics: [guardrails]
 research_method: [systematic review, randomized controlled trial, mixed methods, design-based research]
 audience: [instructors, learning designers, instructional designers]
 level: [higher ed, adult learning]

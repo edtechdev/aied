@@ -4,6 +4,9 @@ created: "2026-08-13T19:01:35-04:00"
 updated: "2026-08-13"
 type: article
 tags: [educational-robotics, k-12, higher-ed, teacher-role, inclusive-learning]
+foundations: [teacher-role]
+technology: [educational-robotics]
+ethics: [inclusive-learning]
 research_method: [systematic review]
 audience: [instructors]
 level: [k 12, higher ed]

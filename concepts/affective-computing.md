@@ -4,6 +4,9 @@ created: "2026-07-28T10:44:35-04:00"
 updated: "2026-09-11T00:52:00-04:00"
 type: concept
 tags: [student-experience, higher-ed, llm, generative-ai, learning-analytics, k-12, cognitive-offloading, adaptive-learning, personalized-learning, intelligent-tutoring]
+foundations: [cognitive-offloading]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
+stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed, k 12]
 

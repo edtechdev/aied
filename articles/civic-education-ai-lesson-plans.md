@@ -4,6 +4,11 @@ created: "2026-05-09T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [k-12, ai-literacy, teacher-role, formative-assessment, equity-in-ai-education, pedagogical-llm-training, generative-ai, teacher-ai-competency]
+foundations: [ai-literacy, teacher-role]
+technology: [generative-ai, pedagogical-llm-training]
+assessment: [formative-assessment]
+stakeholders: [teacher-ai-competency]
+ethics: [equity-in-ai-education]
 research_method: [quantitative, thematic analysis]
 audience: [instructors]
 level: [k 12]

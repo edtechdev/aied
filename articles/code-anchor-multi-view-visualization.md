@@ -4,6 +4,10 @@ created: "2026-06-19T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [cs-education, student-experience, scaffolding, active-learning, feedback, personalized-learning, visualization]
+pedagogy: [active-learning, scaffolding]
+technology: [personalized-learning, visualization]
+assessment: [feedback]
+stakeholders: [student-experience]
 research_method: [qualitative, interviews]
 discipline: [cs education]
 audience: [learners]

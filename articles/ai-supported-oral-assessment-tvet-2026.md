@@ -4,6 +4,11 @@ created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [authentic-assessment, assessment, accessibility, multilingual-learning, human-in-the-loop-ai, privacy, design-thinking, professional-training, inclusive-learning, llm]
+foundations: [design-thinking]
+technology: [human-in-the-loop-ai, llm]
+assessment: [assessment, authentic-assessment]
+stakeholders: [professional-training]
+ethics: [accessibility, inclusive-learning, multilingual-learning, privacy]
 sources: ['raw/papers/ai-supported-oral-assessment-tvet-2026.md']
 confidence: high
 research_method: [system development, mixed methods]

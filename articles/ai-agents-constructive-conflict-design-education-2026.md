@@ -4,6 +4,8 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, design-thinking, higher-ed, scaffolding, student-ai-interaction, collaborative-learning, human-ai-collaboration, critical-thinking]
+foundations: [agentic-ai, critical-thinking, design-thinking, human-ai-collaboration]
+pedagogy: [collaborative-learning, scaffolding, student-ai-interaction]
 research_method: [experiment]
 level: [higher ed]
 category: [design thinking]

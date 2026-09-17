@@ -4,6 +4,8 @@ created: "2026-05-11T04:33:04-04:00"
 updated: "2026-09-16T15:48:11-04:00"
 type: article
 tags: [intelligent-tutoring, llm, adaptive-learning, personalized-learning, pedagogical-llm-training, rag, problem-solving]
+pedagogy: [problem-solving]
+technology: [adaptive-learning, intelligent-tutoring, llm, pedagogical-llm-training, personalized-learning, rag]
 audience: [software developers]
 research_method: [system development]
 sources: ['raw/papers/2605.07040.md']

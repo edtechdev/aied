@@ -4,6 +4,8 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
 tags: [sociocultural-learning, learning-theories, generative-ai, constructivist, distributed-cognition, pedagogy]
+pedagogy: [constructivist, distributed-cognition, learning-theories, pedagogy, sociocultural-learning]
+technology: [generative-ai]
 research_method: [theoretical analysis]
 sources: ['raw/papers/generative-ai-mediational-agent-sociocultural-2026.md']
 confidence: high

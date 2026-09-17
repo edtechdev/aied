@@ -4,6 +4,12 @@ created: "2026-08-20T04:40:00-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [online-teaching-and-learning, meta-analysis-systematic-review, generative-ai, ai-education, governance, pedagogy, equity-in-ai-education]
+foundations: [ai-education]
+pedagogy: [online-teaching-and-learning, pedagogy]
+technology: [generative-ai]
+assessment: [meta-analysis-systematic-review]
+stakeholders: [governance]
+ethics: [equity-in-ai-education]
 research_method: [systematic review]
 sources: ['raw/papers/ai-distance-education-systematic-review-2026.md']
 confidence: high

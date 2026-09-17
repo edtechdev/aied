@@ -4,6 +4,9 @@ created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-14T09:12:54-04:00"
 type: article
 tags: [cognitive-diagnosis, student-modeling, educational-nlp, item-response-theory, knowledge-graph, llm, psychometrically-aware-ai, misconceptions, math-education, personalized-learning]
+foundations: [misconceptions]
+technology: [cognitive-diagnosis, educational-nlp, knowledge-graph, llm, personalized-learning, student-modeling]
+assessment: [item-response-theory, psychometrically-aware-ai]
 sources: ['raw/papers/process-grounded-language-cognitive-diagnosis-2026.md']
 confidence: high
 research_method: [system development, benchmark]

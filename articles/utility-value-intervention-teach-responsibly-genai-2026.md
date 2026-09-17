@@ -4,6 +4,11 @@ created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-01T09:11:26-04:00"
 type: article
 tags: ['teacher-education', 'ai-literacy', 'ethics', 'motivation', 'generative-ai', 'tpack', 'professional-training']
+foundations: [ai-literacy]
+pedagogy: [motivation]
+technology: [generative-ai]
+stakeholders: [professional-training, tpack]
+ethics: [ethics]
 research_method: [experiment]
 audience: [teacher educators, researchers]
 level: [higher ed]

@@ -4,6 +4,9 @@ created: "2026-09-13T11:05:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [tpack, teacher-education, science-education, online-teaching-and-learning, self-efficacy, teacher-ai-competency, global-south, digital-divide, equity-in-ai-education]
+pedagogy: [online-teaching-and-learning, self-efficacy]
+stakeholders: [teacher-ai-competency, tpack]
+ethics: [digital-divide, equity-in-ai-education, global-south]
 research_method: [quantitative, survey, educational measurement]
 discipline: [science education]
 audience: [teacher educators, educators, researchers, policymakers, curriculum designers, administrators]

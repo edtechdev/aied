@@ -4,6 +4,8 @@ created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, writing-education, student-experience, llm, higher-ed]
+technology: [generative-ai, llm]
+stakeholders: [student-experience]
 research_method: [user study]
 discipline: [writing education]
 audience: [learners]

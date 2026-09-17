@@ -4,6 +4,10 @@ created: "2026-07-10T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, higher-ed, student-experience, learning-analytics, personalized-learning, self-regulated-learning, generative-ai, scaffolding, ai-literacy]
+foundations: [ai-literacy]
+pedagogy: [scaffolding, self-regulated-learning]
+technology: [generative-ai, learning-analytics, llm, personalized-learning]
+stakeholders: [student-experience]
 research_method: [survey, learning analytics]
 audience: [learners]
 level: [higher ed]

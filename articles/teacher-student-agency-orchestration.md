@@ -4,6 +4,10 @@ created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, teacher-role, student-experience, k-12, human-in-the-loop-ai, collaborative-learning, self-regulated-learning, scaffolding]
+foundations: [teacher-role]
+pedagogy: [collaborative-learning, scaffolding, self-regulated-learning]
+technology: [human-in-the-loop-ai, intelligent-tutoring]
+stakeholders: [student-experience]
 research_method: [design-based research]
 audience: [instructors, learners]
 level: [k 12]

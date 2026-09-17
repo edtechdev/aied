@@ -4,6 +4,9 @@ created: "2026-09-12T14:05:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [automated-essay-scoring, automated-assessment, assessment-validity, bias-mitigation, higher-ed, academic-integrity, feedback, teacher-role, ai-literacy, ethics]
+foundations: [academic-integrity, ai-literacy, teacher-role]
+assessment: [assessment-validity, automated-assessment, automated-essay-scoring, feedback]
+ethics: [bias-mitigation, ethics]
 research_method: [mixed methods, benchmark, qualitative]
 audience: [instructors, administrators, assessment professionals, institutions, researchers]
 level: [higher ed]

@@ -4,6 +4,11 @@ created: "2026-08-17T17:55:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, human-in-the-loop-ai, math-education, k-12, edtech-platform, help-seeking, student-engagement, equity-in-ai-education, learning-gains, adaptive-learning]
+pedagogy: [help-seeking, student-engagement]
+technology: [adaptive-learning, human-in-the-loop-ai, intelligent-tutoring]
+assessment: [learning-gains]
+stakeholders: [edtech-platform]
+ethics: [equity-in-ai-education]
 research_method: [randomized controlled trial]
 discipline: [math education]
 level: [k 12]

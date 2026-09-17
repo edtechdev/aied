@@ -4,6 +4,8 @@ created: "2026-08-19T18:10:00-04:00"
 updated: "2026-09-08T01:40:00-04:00"
 type: concept
 tags: [ai-technologies, generative-ai, llm, rag, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, prompt-engineering, agentic-ai]
+foundations: [agentic-ai]
+technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 ---
 > **Technologies** — the models, architectures, and methods that power AI education systems, and the umbrella concept for the knowledge base's coverage of the technical layer. Where [[pedagogy]] and [[learning-theories]] concern *how teaching and learning happen*, and [[ai-ed-evaluation]] concerns *whether AI works*, this page anchors the *technical* strand: the AI systems ([[llm|large language models]], [[generative-ai|generative AI]], [[multimodal|multimodal models]], [[educational-robotics|robots]]) and the techniques used to build, control, and deploy them ([[prompt-engineering]], [[rag|retrieval-augmented generation]], [[reinforcement-learning]], [[educational-nlp]], [[knowledge-graph|knowledge graphs]], [[agentic-ai|agentic orchestration]]).

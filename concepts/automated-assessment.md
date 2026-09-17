@@ -5,6 +5,10 @@ updated: "2026-09-17T02:26:00-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 tags: [automated-assessment, assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
+foundations: [teacher-role]
+technology: [llm]
+assessment: [assessment, assessment-validity, automated-assessment, automated-essay-scoring, formative-assessment]
+ethics: [bias-mitigation]
 audience: [instructors]
 category: [assessment]
 confidence: high

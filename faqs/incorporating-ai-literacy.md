@@ -4,6 +4,8 @@ created: "2026-08-24T09:50:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 weight: 86
 tags: [ai-literacy, learning-design, higher-ed, cognitive-offloading, assessment]
+foundations: [ai-literacy, cognitive-offloading, learning-design]
+assessment: [assessment]
 level: [higher ed]
 category: [instructional design, assessment]
 ---

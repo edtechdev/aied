@@ -4,6 +4,12 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
 tags: [educational-robotics, agency, meta-analysis-systematic-review, ethics, governance, well-being]
+foundations: [agency]
+pedagogy: [well-being]
+technology: [educational-robotics]
+assessment: [meta-analysis-systematic-review]
+stakeholders: [governance]
+ethics: [ethics]
 research_method: [systematic review]
 sources: ['raw/papers/glawe-human-autonomy-agency-hri-2025.md']
 confidence: high

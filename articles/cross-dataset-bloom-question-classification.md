@@ -4,6 +4,10 @@ created: "2026-06-16T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [automated-assessment, llm, formative-assessment, higher-ed, teacher-role, learning-analytics, student-experience, k-12]
+foundations: [teacher-role]
+technology: [learning-analytics, llm]
+assessment: [automated-assessment, formative-assessment]
+stakeholders: [student-experience]
 research_method: [benchmark]
 audience: [instructors, learners]
 level: [higher ed, k 12]

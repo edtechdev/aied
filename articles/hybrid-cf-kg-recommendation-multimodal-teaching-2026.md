@@ -4,6 +4,8 @@ created: "2026-09-16T10:56:19-04:00"
 updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [knowledge-graph, multimodal, personalized-learning, adaptive-learning, learning-analytics, ai-education]
+foundations: [ai-education]
+technology: [adaptive-learning, knowledge-graph, learning-analytics, multimodal, personalized-learning]
 audience: [software developers, researchers]
 research_method: [benchmark]
 sources: ['raw/papers/10.1016_j.caeai.2026.100678.md']

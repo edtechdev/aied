@@ -4,6 +4,10 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-16T14:48:35-04:00"
 type: article
 tags: [research-methods-aied, ai-ed-evaluation, generative-ai, ethics, theory-development-aied, limitations-in-aied-research, ai-use-disclosure, assessment-validity]
+foundations: [limitations-in-aied-research, theory-development-aied]
+technology: [generative-ai]
+assessment: [ai-ed-evaluation, assessment-validity, research-methods-aied]
+ethics: [ai-use-disclosure, ethics]
 connected_faqs: [reporting-interpreting-aied-research]
 research_method: [theoretical analysis]
 audience: [researchers]

@@ -4,6 +4,11 @@ created: "2026-08-19T11:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [academic-integrity, ai-detection, assessment, generative-ai, ai-misuse-learning-harm, ethics, educational-policy-ai, higher-ed, meta-analysis-systematic-review]
+foundations: [academic-integrity]
+technology: [generative-ai]
+assessment: [ai-detection, assessment, meta-analysis-systematic-review]
+stakeholders: [educational-policy-ai]
+ethics: [ai-misuse-learning-harm, ethics]
 research_method: [systematic review]
 level: [higher ed]
 category: [assessment]

@@ -4,6 +4,10 @@ type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 tags: [multimodal, benchmark, language-learning, affective-computing, arts-design-and-media-education, culturally-relevant-pedagogy, situated-learning, equity-in-ai-education, llm]
+pedagogy: [situated-learning]
+technology: [affective-computing, llm, multimodal]
+assessment: [benchmark]
+ethics: [culturally-relevant-pedagogy, equity-in-ai-education]
 sources: ['raw/papers/muse-vlm-artistic-image-benchmark-2026.md']
 confidence: high
 research_method: [benchmark]

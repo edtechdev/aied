@@ -4,6 +4,9 @@ created: "2026-08-23T08:10:00-04:00"
 updated: "2026-08-23T09:30:00-04:00"
 type: article
 tags: [productive-failure, language-learning, generative-ai, metacognition, self-regulated-learning, feedback, higher-ed]
+pedagogy: [metacognition, productive-failure, self-regulated-learning]
+technology: [generative-ai]
+assessment: [feedback]
 research_method: [mixed methods]
 discipline: [language learning]
 level: [higher ed]

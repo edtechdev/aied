@@ -4,6 +4,9 @@ created: "2026-08-27T06:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [self-regulated-learning, agency, learning-analytics, critical-pedagogy, theory-development-aied, generative-ai]
+foundations: [agency, theory-development-aied]
+pedagogy: [critical-pedagogy, self-regulated-learning]
+technology: [generative-ai, learning-analytics]
 research_method: [theoretical analysis]
 sources: ['raw/papers/de-barba-srl-genai-2026.md']
 source_url: 'https://doi.org/10.20851/ll.v7.75'

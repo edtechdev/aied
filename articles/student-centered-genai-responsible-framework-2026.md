@@ -4,6 +4,11 @@ created: "2026-08-31T09:06:11-04:00"
 updated: "2026-08-31T09:06:11-04:00"
 type: article
 tags: [generative-ai, higher-ed, ai-literacy, academic-integrity, self-regulated-learning, ethics, agency, governance, trust-calibration]
+foundations: [academic-integrity, agency, ai-literacy]
+pedagogy: [self-regulated-learning]
+technology: [generative-ai]
+stakeholders: [governance]
+ethics: [ethics, trust-calibration]
 sources: ['raw/papers/student-centered-genai-responsible-framework-2026.md']
 confidence: high
 research_method: [literature review]

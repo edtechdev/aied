@@ -4,6 +4,11 @@ created: "2026-08-20T06:50:00-04:00"
 updated: "2026-08-20T07:45:00-04:00"
 type: article
 tags: [problem-based-learning, meta-analysis-systematic-review, generative-ai, teacher-role, usability-research, educational-policy-ai, higher-ed]
+foundations: [teacher-role]
+pedagogy: [problem-based-learning]
+technology: [generative-ai]
+assessment: [meta-analysis-systematic-review, usability-research]
+stakeholders: [educational-policy-ai]
 research_method: [systematic review]
 audience: [instructors]
 level: [higher ed]

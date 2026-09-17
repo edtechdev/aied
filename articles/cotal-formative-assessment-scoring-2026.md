@@ -4,6 +4,8 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [formative-assessment, automated-assessment, human-in-the-loop-ai, prompt-engineering, benchmark, ai-ed-evaluation, assessment-validity, llm]
+technology: [human-in-the-loop-ai, llm, prompt-engineering]
+assessment: [ai-ed-evaluation, assessment-validity, automated-assessment, benchmark, formative-assessment]
 research_method: [benchmark]
 category: [evaluation]
 

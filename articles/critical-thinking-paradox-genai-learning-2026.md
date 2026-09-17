@@ -4,6 +4,9 @@ created: "2026-08-16T10:19:32-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [critical-thinking, cognitive-offloading, metacognition, desirable-difficulties, generative-ai, ai-literacy, transfer-of-learning]
+foundations: [ai-literacy, cognitive-offloading, critical-thinking]
+pedagogy: [desirable-difficulties, metacognition, transfer-of-learning]
+technology: [generative-ai]
 audience: [instructors, researchers]
 research_method: [theoretical analysis]
 

@@ -4,6 +4,9 @@ created: "2026-06-18T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, automated-assessment, feedback, teacher-role, simulation, formative-assessment]
+foundations: [teacher-role]
+technology: [intelligent-tutoring, simulation]
+assessment: [automated-assessment, feedback, formative-assessment]
 research_method: [experiment]
 audience: [instructors]
 sources: ['raw/papers/2606.18617.md']

@@ -4,6 +4,9 @@ created: "2026-07-23T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, scaffolding, self-regulated-learning, metacognition, regulation]
+pedagogy: [metacognition, scaffolding, self-regulated-learning]
+technology: [generative-ai]
+stakeholders: [regulation, student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [higher ed]

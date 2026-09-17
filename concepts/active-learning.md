@@ -5,6 +5,9 @@ updated: "2026-08-31T06:34:37-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 tags: [active-learning, learning-design, student-experience, scaffolding, higher-ed, k-12, ai-education]
+foundations: [ai-education, learning-design]
+pedagogy: [active-learning, scaffolding]
+stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed, k 12]
 category: [instructional design]

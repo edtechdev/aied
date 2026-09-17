@@ -4,6 +4,9 @@ created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [feedback, ai-feedback-quality, peer-assessment, formative-assessment, self-regulated-learning, writing-education, language-learning, ai-literacy]
+foundations: [ai-literacy]
+pedagogy: [self-regulated-learning]
+assessment: [ai-feedback-quality, feedback, formative-assessment, peer-assessment]
 audience: [learners, instructors]
 research_method: [theoretical analysis, position paper]
 discipline: [writing education, language learning]

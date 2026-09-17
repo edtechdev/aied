@@ -4,6 +4,9 @@ created: "2026-09-15T11:05:00-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
 tags: [automated-question-generation, math-education, assessment, item-response-theory, knowledge-graph, educational-measurement, benchmark, k-12, problem-solving, llm]
+pedagogy: [problem-solving]
+technology: [knowledge-graph, llm]
+assessment: [assessment, automated-question-generation, benchmark, educational-measurement, item-response-theory]
 sources: ['raw/papers/proiqa-math-item-quality-assessment-2026.md']
 confidence: high
 research_method: [system development, benchmark, quantitative]

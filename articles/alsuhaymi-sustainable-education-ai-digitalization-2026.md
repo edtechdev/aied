@@ -4,6 +4,11 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [sustainability, ethics, ai-education, generative-ai, governance, philosophy-of-ai-in-education, critical-pedagogy, higher-ed]
+foundations: [ai-education, philosophy-of-ai-in-education, sustainability]
+pedagogy: [critical-pedagogy]
+technology: [generative-ai]
+stakeholders: [governance]
+ethics: [ethics]
 research_method: [theoretical analysis, qualitative]
 level: [higher ed]
 sources: ['raw/papers/alsuhaymi-sustainable-education-ai-digitalization-2026.md']

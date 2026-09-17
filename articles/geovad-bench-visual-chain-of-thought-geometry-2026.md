@@ -4,6 +4,9 @@ created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-14T09:12:54-04:00"
 type: article
 tags: [benchmark, math-education, multimodal, llm, cognitive-diagnosis, machine-learning, problem-solving, visualization, educational-measurement, stem-education]
+pedagogy: [problem-solving]
+technology: [cognitive-diagnosis, llm, machine-learning, multimodal, visualization]
+assessment: [benchmark, educational-measurement]
 sources: ['raw/papers/geovad-bench-visual-chain-of-thought-geometry-2026.md']
 confidence: high
 research_method: [benchmark, system development]

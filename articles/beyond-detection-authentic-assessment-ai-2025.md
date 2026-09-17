@@ -4,6 +4,10 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [authentic-assessment, ai-detection, academic-integrity, assessment, generative-ai, higher-ed, self-regulated-learning, metacognition, ai-literacy, assessment-validity]
+foundations: [academic-integrity, ai-literacy]
+pedagogy: [metacognition, self-regulated-learning]
+technology: [generative-ai]
+assessment: [ai-detection, assessment, assessment-validity, authentic-assessment]
 audience: [instructors, administrators]
 research_method: [theoretical analysis, position paper]
 level: [higher ed]

@@ -4,6 +4,8 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
 tags: [accessibility, physics-education, generative-ai, universal-design-for-learning, multimodal, llm]
+technology: [generative-ai, llm, multimodal]
+ethics: [accessibility, universal-design-for-learning]
 research_method: [system development]
 discipline: [physics education]
 sources: ['raw/papers/gemini-lualatex-physics-video-transcription-2026.md']

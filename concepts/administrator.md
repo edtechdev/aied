@@ -4,6 +4,10 @@ created: "2026-05-09T10:44:35-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: concept
 tags: [administrator, educational-policy-ai, higher-ed, generative-ai, llm, student-experience, ai-literacy, stem-education, scaffolding, learning-analytics]
+foundations: [ai-literacy]
+pedagogy: [scaffolding]
+technology: [generative-ai, learning-analytics, llm]
+stakeholders: [administrator, educational-policy-ai, student-experience]
 connected_faqs: [institutional-ai-policy]
 discipline: [stem education]
 audience: [administrators, instructors]

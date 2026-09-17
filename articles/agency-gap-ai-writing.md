@@ -4,6 +4,11 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equity-in-ai-education, student-experience, scaffolding, rag, regulation]
+foundations: [agentic-ai, ai-literacy]
+pedagogy: [scaffolding]
+technology: [generative-ai, rag]
+stakeholders: [regulation, student-experience]
+ethics: [equity-in-ai-education]
 research_method: [experiment]
 discipline: [writing education, medical education]
 audience: [learners]

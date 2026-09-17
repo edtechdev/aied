@@ -4,6 +4,9 @@ created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-16T09:40:00-04:00"
 type: article
 tags: [cs-education, learning-analytics, formative-assessment, automated-assessment, misconceptions, visualization, higher-ed, feedback]
+foundations: [misconceptions]
+technology: [learning-analytics, visualization]
+assessment: [automated-assessment, feedback, formative-assessment]
 sources: ['raw/papers/pulla-parsons-problem-tool-2026.md']
 confidence: high
 research_method: [system development, learning analytics]

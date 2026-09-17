@@ -4,6 +4,10 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [academic-integrity, ai-detection, assessment-validity, higher-ed, generative-ai, reducing-ai-misuse, ai-misuse-learning-harm, ethics]
+foundations: [academic-integrity, reducing-ai-misuse]
+technology: [generative-ai]
+assessment: [ai-detection, assessment-validity]
+ethics: [ai-misuse-learning-harm, ethics]
 research_method: [qualitative]
 level: [higher ed]
 sources: ['raw/papers/roe-ai-humanizers-legitimacy-assessment-2026.md']

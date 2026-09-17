@@ -4,6 +4,11 @@ created: "2026-05-28T04:33:04-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [higher-ed, academic-integrity, generative-ai, educational-policy-ai, regulation, llm, ai-literacy, formative-assessment, motivation, governance]
+foundations: [academic-integrity, ai-literacy]
+pedagogy: [motivation]
+technology: [generative-ai, llm]
+assessment: [formative-assessment]
+stakeholders: [educational-policy-ai, governance, regulation]
 connected_faqs: [institutional-ai-policy]
 audience: [administrators, instructors]
 research_method: [theoretical analysis]

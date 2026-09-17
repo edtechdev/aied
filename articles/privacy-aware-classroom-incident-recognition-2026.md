@@ -4,6 +4,9 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [k-12, privacy, multimodal, benchmark, ai-detection]
+technology: [multimodal]
+assessment: [ai-detection, benchmark]
+ethics: [privacy]
 audience: [software developers]
 research_method: [benchmark]
 level: [k 12]

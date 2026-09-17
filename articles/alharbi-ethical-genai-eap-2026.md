@@ -4,6 +4,9 @@ created: "2026-08-20T08:40:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, language-learning, ethics, higher-ed, academic-integrity, teacher-role]
+foundations: [academic-integrity, teacher-role]
+technology: [generative-ai]
+ethics: [ethics]
 research_method: [mixed methods]
 discipline: [language learning]
 audience: [instructors]

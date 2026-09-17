@@ -4,6 +4,9 @@ created: "2026-09-04T09:08:00-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [teacher-role, teacher-education, formative-assessment, critical-thinking, generative-ai, k-12]
+foundations: [critical-thinking, teacher-role]
+technology: [generative-ai]
+assessment: [formative-assessment]
 connected_faqs: [faculty-development-ai]
 sources: ['raw/papers/teachers-collaborative-evaluation-ai-content.md']
 confidence: high

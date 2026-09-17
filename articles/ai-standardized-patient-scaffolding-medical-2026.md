@@ -4,6 +4,10 @@ created: "2026-09-11T09:20:00-04:00"
 updated: "2026-09-11T09:20:00-04:00"
 type: article
 tags: [medical-education, scaffolding, generative-ai, agentic-ai, simulation, socratic-method, formative-assessment, intelligent-tutoring, human-ai-collaboration, assessment-validity]
+foundations: [agentic-ai, human-ai-collaboration]
+pedagogy: [scaffolding, socratic-method]
+technology: [generative-ai, intelligent-tutoring, simulation]
+assessment: [assessment-validity, formative-assessment]
 sources: ['raw/papers/2609.10939.md']
 confidence: high
 research_method: [randomized controlled trial, system development]

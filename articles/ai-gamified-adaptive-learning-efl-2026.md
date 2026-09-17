@@ -4,6 +4,10 @@ created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-16T14:10:00-04:00"
 type: article
 tags: [language-learning, game-based-learning, adaptive-learning, technology-acceptance-model, educational-measurement]
+pedagogy: [game-based-learning]
+technology: [adaptive-learning]
+assessment: [educational-measurement]
+stakeholders: [technology-acceptance-model]
 audience: [researchers, instructors]
 research_method: [educational measurement]
 sources: ['raw/papers/10.3389_feduc.2026.1929123.md']

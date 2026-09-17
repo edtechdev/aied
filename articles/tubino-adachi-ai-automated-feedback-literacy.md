@@ -4,6 +4,9 @@ created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, higher-ed, teacher-role, writing-education, agency, scaffolding]
+foundations: [agency, ai-literacy, teacher-role]
+pedagogy: [scaffolding, self-regulated-learning]
+assessment: [ai-feedback-quality, feedback, formative-assessment]
 connected_faqs: [ai-feedback-at-scale]
 research_method: [design-based research, case study]
 discipline: [writing education]

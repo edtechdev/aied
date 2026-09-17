@@ -4,6 +4,10 @@ created: "2026-09-11T12:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [desirable-difficulties, cognitive-offloading, ai-sycophancy, well-being, motivation, generative-ai, metacognition, social-emotional-learning, higher-ed, cognitive-psychology]
+foundations: [cognitive-offloading]
+pedagogy: [cognitive-psychology, desirable-difficulties, metacognition, motivation, social-emotional-learning, well-being]
+technology: [generative-ai]
+ethics: [ai-sycophancy]
 connected_faqs: [reducing-over-reliance]
 research_method: [position paper]
 audience: [researchers, educators, policymakers]

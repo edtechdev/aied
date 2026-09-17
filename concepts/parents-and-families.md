@@ -4,6 +4,10 @@ created: "2026-09-16T14:29:36-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [stakeholders, early-childhood-elementary-ai-education, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai]
+foundations: [ai-literacy]
+technology: [conversational-ai]
+stakeholders: [stakeholders]
+ethics: [digital-divide, equity-in-ai-education]
 connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 audience: [educators, policymakers, researchers]

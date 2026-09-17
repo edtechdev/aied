@@ -4,6 +4,8 @@ created: "2026-08-07T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [cs-education, curriculum-design, edtech-platform, student-experience, higher-ed, administrator]
+foundations: [curriculum-design]
+stakeholders: [administrator, edtech-platform, student-experience]
 research_method: [system development]
 discipline: [cs education]
 audience: [learners, administrators]

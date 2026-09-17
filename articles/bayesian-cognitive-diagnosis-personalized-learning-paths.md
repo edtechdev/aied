@@ -4,6 +4,7 @@ created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [cognitive-diagnosis, personalized-learning, adaptive-learning, learning-analytics]
+technology: [adaptive-learning, cognitive-diagnosis, learning-analytics, personalized-learning]
 research_method: [system development, experiment]
 sources: ['raw/papers/bayesian-cognitive-diagnosis-personalized-learning-paths.md']
 confidence: high

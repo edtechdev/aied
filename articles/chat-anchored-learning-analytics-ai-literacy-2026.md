@@ -4,6 +4,9 @@ created: "2026-08-26T08:10:00-04:00"
 updated: "2026-08-26T08:10:00-04:00"
 type: article
 tags: [learning-analytics, ai-literacy, activity-theory-aied, higher-ed, student-ai-interaction]
+foundations: [ai-literacy]
+pedagogy: [activity-theory-aied, student-ai-interaction]
+technology: [learning-analytics]
 audience: [instructors, researchers]
 research_method: [system development, learning analytics]
 level: [higher ed]

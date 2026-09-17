@@ -4,6 +4,9 @@ created: "2026-08-25T07:50:00-04:00"
 updated: "2026-08-25T07:50:00-04:00"
 type: article
 tags: [cognitive-offloading, generative-ai, writing-education, academic-integrity, student-engagement, metacognition, agency]
+foundations: [academic-integrity, agency, cognitive-offloading]
+pedagogy: [metacognition, student-engagement]
+technology: [generative-ai]
 research_method: [experiment]
 sources: ['raw/papers/your-brain-on-chatgpt-cognitive-debt-essay-writing.md']
 confidence: high

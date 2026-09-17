@@ -4,6 +4,9 @@ created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-24T18:50:00-04:00"
 type: article
 tags: [teacher-education, conversational-ai, generative-ai, technology-acceptance-model, ai-literacy, educational-development, stem-education, higher-ed, change-management]
+foundations: [ai-literacy, educational-development]
+technology: [conversational-ai, generative-ai]
+stakeholders: [change-management, technology-acceptance-model]
 research_method: [survey]
 discipline: [stem education]
 audience: [faculty development]

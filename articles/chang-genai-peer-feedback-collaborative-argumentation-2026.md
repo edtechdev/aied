@@ -4,6 +4,10 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [collaborative-learning, feedback, scaffolding, prompt-engineering, generative-ai, higher-ed, critical-thinking, self-regulated-learning, metacognition]
+foundations: [critical-thinking]
+pedagogy: [collaborative-learning, metacognition, scaffolding, self-regulated-learning]
+technology: [generative-ai, prompt-engineering]
+assessment: [feedback]
 research_method: [experiment]
 level: [higher ed]
 sources: ['raw/papers/chang-genai-peer-feedback-collaborative-argumentation-2026.md']

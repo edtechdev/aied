@@ -4,6 +4,9 @@ created: "2026-08-16T03:36:31-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [learning-theories, behaviorism, self-regulated-learning, metacognition, learning-design, generative-ai, higher-ed]
+foundations: [learning-design]
+pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
+technology: [generative-ai]
 level: [higher ed]
 category: [instructional design]
 

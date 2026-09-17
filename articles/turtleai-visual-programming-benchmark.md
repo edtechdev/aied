@@ -4,6 +4,8 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [benchmark, cs-education, k-12, multimodal, visualization]
+technology: [multimodal, visualization]
+assessment: [benchmark]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [cs education]

@@ -4,6 +4,9 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: concept
 tags: [learning-design, curriculum-design, educational-development, scaffolding, generative-ai, ai-literacy, higher-ed, teacher-role]
+foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
+pedagogy: [scaffolding]
+technology: [generative-ai]
 audience: [instructors, faculty development]
 level: [higher ed]
 category: [instructional design, curriculum design]

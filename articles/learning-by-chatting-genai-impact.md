@@ -4,6 +4,10 @@ created: "2026-06-11T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, llm, cognitive-offloading, student-experience, metacognition, higher-ed, self-regulated-learning, scaffolding, pedagogical-agent, ai-literacy]
+foundations: [ai-literacy, cognitive-offloading]
+pedagogy: [metacognition, scaffolding, self-regulated-learning]
+technology: [generative-ai, llm, pedagogical-agent]
+stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [higher ed]

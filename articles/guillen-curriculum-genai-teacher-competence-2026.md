@@ -4,6 +4,10 @@ created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [teacher-ai-competency, learning-design, generative-ai, self-efficacy, adult-learning]
+foundations: [learning-design]
+pedagogy: [self-efficacy]
+technology: [generative-ai]
+stakeholders: [teacher-ai-competency]
 research_method: [survey, educational measurement]
 category: [instructional design]
 sources: ['raw/papers/guillen-curriculum-genai-teacher-competence-2026.md']

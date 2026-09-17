@@ -4,6 +4,9 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
 tags: [ai-literacy, critical-pedagogy, equity-in-ai-education, ai-education, sociocultural-learning, agency, reducing-ai-misuse, ethics]
+foundations: [agency, ai-education, ai-literacy, reducing-ai-misuse]
+pedagogy: [critical-pedagogy, sociocultural-learning]
+ethics: [equity-in-ai-education, ethics]
 audience: [instructors]
 research_method: [position paper]
 sources: ['raw/papers/li-mroziak-reorienting-critical-ai-literacy.md']

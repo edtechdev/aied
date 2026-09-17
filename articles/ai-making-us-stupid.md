@@ -4,6 +4,10 @@ created: "2026-07-19T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [cognitive-offloading, generative-ai, metacognition, learning-gains, ai-literacy, self-regulated-learning, rag, higher-ed]
+foundations: [ai-literacy, cognitive-offloading]
+pedagogy: [metacognition, self-regulated-learning]
+technology: [generative-ai, rag]
+assessment: [learning-gains]
 audience: [instructors]
 research_method: [position paper, theoretical analysis]
 level: [higher ed]

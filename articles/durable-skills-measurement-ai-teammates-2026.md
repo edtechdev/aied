@@ -4,6 +4,10 @@ created: "2026-09-15T11:05:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [assessment, educational-measurement, collaborative-learning, critical-thinking, creativity, group-work, simulating-students, agentic-ai, human-ai-collaboration, ai-ed-evaluation]
+foundations: [agentic-ai, critical-thinking, human-ai-collaboration]
+pedagogy: [collaborative-learning, creativity]
+technology: [simulating-students]
+assessment: [ai-ed-evaluation, assessment, educational-measurement, group-work]
 sources: ['raw/papers/durable-skills-measurement-ai-teammates-2026.md']
 confidence: high
 research_method: [experiment, user study, quantitative]

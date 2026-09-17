@@ -4,6 +4,9 @@ created: "2026-08-12T22:10:30-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [simulating-students, agentic-ai, adaptive-learning, sociocultural-learning, knowledge-graph, intelligent-tutoring, llm]
+foundations: [agentic-ai]
+pedagogy: [sociocultural-learning]
+technology: [adaptive-learning, intelligent-tutoring, knowledge-graph, llm, simulating-students]
 audience: [software developers]
 research_method: [system development]
 sources: ['raw/papers/2605.30144.md']

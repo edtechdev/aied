@@ -4,6 +4,7 @@ created: "2026-07-09T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [knowledge-tracing, personalized-learning, adaptive-learning, intelligent-tutoring, rag, generative-ai]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, knowledge-tracing, personalized-learning, rag]
 audience: [software developers]
 research_method: [benchmark]
 sources: ['raw/papers/2607.05409.md']

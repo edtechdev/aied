@@ -4,6 +4,9 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [ethics, ai-education, higher-ed, governance, academic-integrity, privacy, student-experience, teacher-role]
+foundations: [academic-integrity, ai-education, teacher-role]
+stakeholders: [governance, student-experience]
+ethics: [ethics, privacy]
 research_method: [mixed methods]
 audience: [learners, instructors]
 level: [higher ed]

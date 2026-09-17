@@ -4,6 +4,8 @@ created: "2026-09-05T00:55:00-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: ['personalized-learning', 'generative-ai', 'online-teaching-and-learning', 'student-engagement', 'adaptive-learning', 'higher-ed', 'multimodal', 'video-education']
+pedagogy: [online-teaching-and-learning, student-engagement, video-education]
+technology: [adaptive-learning, generative-ai, multimodal, personalized-learning]
 research_method: [quantitative]
 audience: [instructors, learning designers]
 level: [higher ed]

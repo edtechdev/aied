@@ -5,6 +5,8 @@ updated: "2026-09-17T03:00:00-04:00"
 weight: 60
 type: faq
 tags: [ai-anxiety-and-stress, well-being, social-emotional-learning, motivation, self-efficacy, student-experience]
+pedagogy: [motivation, self-efficacy, social-emotional-learning, well-being]
+stakeholders: [ai-anxiety-and-stress, student-experience]
 research_method: [survey, structural equation modeling, mixed methods]
 audience: [instructors, administrators, educators]
 level: [higher ed, secondary, k 12]

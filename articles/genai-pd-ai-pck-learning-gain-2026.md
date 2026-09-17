@@ -4,6 +4,9 @@ created: "2026-08-11T13:10:53-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [adult-learning, teacher-ai-competency, generative-ai, professional-training, teacher-education, educational-development]
+foundations: [educational-development]
+technology: [generative-ai]
+stakeholders: [professional-training, teacher-ai-competency]
 connected_faqs: [faculty-development-ai]
 research_method: [quasi-experiment, instrument development, survey]
 audience: [faculty development]

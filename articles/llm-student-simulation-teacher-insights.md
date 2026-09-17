@@ -4,6 +4,9 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [llm, simulating-students, teacher-education, intelligent-tutoring, k-12, ai-ed-evaluation, community-of-inquiry, scaffolding, knowledge-tracing]
+pedagogy: [community-of-inquiry, scaffolding]
+technology: [intelligent-tutoring, knowledge-tracing, llm, simulating-students]
+assessment: [ai-ed-evaluation]
 research_method: [qualitative, interviews]
 audience: [teacher educators, researchers]
 level: [teacher training, k 12]

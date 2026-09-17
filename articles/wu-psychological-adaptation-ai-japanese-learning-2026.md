@@ -4,6 +4,8 @@ created: "2026-09-06T08:18:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [language-learning, well-being, self-efficacy, self-regulated-learning, higher-ed, generative-ai, motivation]
+pedagogy: [motivation, self-efficacy, self-regulated-learning, well-being]
+technology: [generative-ai]
 research_method: [longitudinal survey]
 audience: [learners]
 level: [higher ed]

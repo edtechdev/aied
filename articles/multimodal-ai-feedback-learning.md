@@ -4,6 +4,9 @@ created: "2026-05-11T04:33:04-04:00"
 updated: "2026-09-16T17:12:51-04:00"
 type: article
 tags: [multimodal, feedback, generative-ai, llm, student-experience, learning-analytics, automated-assessment, human-in-the-loop-ai, formative-assessment, rag]
+technology: [generative-ai, human-in-the-loop-ai, learning-analytics, llm, multimodal, rag]
+assessment: [automated-assessment, feedback, formative-assessment]
+stakeholders: [student-experience]
 research_method: [experiment, survey]
 audience: [learners]
 

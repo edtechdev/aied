@@ -4,6 +4,9 @@ created: "2026-07-15T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, equity-in-ai-education, educational-policy-ai, academic-integrity, higher-ed, governance, ethics, ai-education]
+foundations: [academic-integrity, ai-education, ai-literacy]
+stakeholders: [educational-policy-ai, governance]
+ethics: [equity-in-ai-education, ethics]
 audience: [researchers, administrators]
 research_method: [longitudinal study, quantitative]
 level: [higher ed]

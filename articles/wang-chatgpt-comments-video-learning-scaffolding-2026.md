@@ -4,6 +4,10 @@ created: "2026-09-10T15:16:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, scaffolding, video-education, online-teaching-and-learning, feedback, motivation, student-engagement, multimodal, learning-analytics, agentic-ai, prompt-engineering]
+foundations: [agentic-ai]
+pedagogy: [motivation, online-teaching-and-learning, scaffolding, student-engagement, video-education]
+technology: [generative-ai, learning-analytics, multimodal, prompt-engineering]
+assessment: [feedback]
 research_method: [experiment, user study]
 audience: [learners, instructors, learning designers, researchers]
 level: [higher ed]

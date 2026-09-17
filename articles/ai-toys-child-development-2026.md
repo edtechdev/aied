@@ -4,6 +4,9 @@ created: "2026-08-25T09:52:34-04:00"
 updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: [educational-robotics, k-12, agency, pedagogical-agent, well-being, generative-ai, early-childhood-elementary-ai-education, cognitive-psychology]
+foundations: [agency]
+pedagogy: [cognitive-psychology, well-being]
+technology: [educational-robotics, generative-ai, pedagogical-agent]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [literature review]
 level: [early childhood, k 12]

@@ -4,6 +4,9 @@ created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [automated-essay-scoring, equity-in-ai-education, bias-mitigation, assessment-validity, educational-nlp, ai-ed-evaluation, llm, formative-assessment]
+technology: [educational-nlp, llm]
+assessment: [ai-ed-evaluation, assessment-validity, automated-essay-scoring, formative-assessment]
+ethics: [bias-mitigation, equity-in-ai-education]
 sources: ['raw/papers/demographic-signals-llm-student-assessment-2026.md']
 confidence: high
 research_method: [experiment, quantitative]

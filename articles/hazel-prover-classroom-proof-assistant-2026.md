@@ -4,6 +4,9 @@ created: "2026-08-26T09:00:00-04:00"
 updated: "2026-08-26T09:00:00-04:00"
 type: article
 tags: [cs-education, math-education, scaffolding, feedback, formative-assessment, intelligent-tutoring]
+pedagogy: [scaffolding]
+technology: [intelligent-tutoring]
+assessment: [feedback, formative-assessment]
 audience: [software developers]
 research_method: [system development, design-based research]
 discipline: [cs education, math education]

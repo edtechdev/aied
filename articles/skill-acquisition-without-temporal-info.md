@@ -4,6 +4,8 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [student-modeling, knowledge-tracing, adaptive-learning, learning-analytics, formative-assessment, personalized-learning]
+technology: [adaptive-learning, knowledge-tracing, learning-analytics, personalized-learning, student-modeling]
+assessment: [formative-assessment]
 audience: [software developers]
 research_method: [benchmark]
 sources: ['raw/papers/2606.20611.md']

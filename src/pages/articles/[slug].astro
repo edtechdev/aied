@@ -39,13 +39,19 @@ const connectedFaqs = (article.data.connected_faqs || [])
   .map(s => faqById.get(s))
   .filter((f): f is NonNullable<typeof f> => Boolean(f));
 
-const { title, tags, created, updated, research_method, discipline, audience, level, category } = article.data;
+const { title, tags, created, updated, research_method, discipline, audience, level, category, foundations, pedagogy, technology, assessment, stakeholders, ethics } = article.data;
 // Build PageFind filter facets from the structured metadata fields.
 // Each metadata field becomes a facet group. We emit one <meta> element per
 // `name:value` pair (PageFind requires each inline filter to be its own
 // element — comma-joining multiple inline `name:value` filters only parses the
 // LAST one, so page_type + all facets must be separate elements).
 const metaFields: { name: string; values: string[] | undefined }[] = [
+  { name: 'foundations', values: foundations },
+  { name: 'pedagogy', values: pedagogy },
+  { name: 'technology', values: technology },
+  { name: 'assessment', values: assessment },
+  { name: 'stakeholders', values: stakeholders },
+  { name: 'ethics', values: ethics },
   { name: 'level', values: level },
   { name: 'audience', values: audience },
   { name: 'discipline', values: discipline },

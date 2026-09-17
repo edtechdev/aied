@@ -4,6 +4,9 @@ created: "2026-08-04T04:33:04-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [llm, agentic-ai, online-teaching-and-learning, personalized-learning, intelligent-tutoring, curriculum-design, rag, generative-ai]
+foundations: [agentic-ai, curriculum-design]
+pedagogy: [online-teaching-and-learning]
+technology: [generative-ai, intelligent-tutoring, llm, personalized-learning, rag]
 audience: [software developers]
 research_method: [system development, case study]
 category: [instructional design]

@@ -4,6 +4,8 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
 tags: [teacher-role, teacher-education, professional-training, educational-development, teacher-ai-competency, ai-education]
+foundations: [ai-education, educational-development, teacher-role]
+stakeholders: [professional-training, teacher-ai-competency]
 research_method: [case study]
 audience: [instructors, faculty development]
 sources: ['raw/papers/reflective-triangle-model-teacher-ai-2026.md']

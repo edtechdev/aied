@@ -4,6 +4,11 @@ created: "2026-08-26T08:14:00-04:00"
 updated: "2026-08-26T08:14:00-04:00"
 type: article
 tags: [activity-theory-aied, teacher-role, k-12, generative-ai, student-experience, qualitative-research]
+foundations: [teacher-role]
+pedagogy: [activity-theory-aied]
+technology: [generative-ai]
+assessment: [qualitative-research]
+stakeholders: [student-experience]
 research_method: [qualitative]
 audience: [instructors, learners]
 level: [k 12]

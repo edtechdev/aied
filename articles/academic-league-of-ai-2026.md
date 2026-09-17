@@ -4,6 +4,9 @@ created: "2026-08-14T09:17:22-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [ai-education, higher-ed, collaborative-learning, project-based-learning, active-learning, student-experience, curriculum-design, computational-thinking, ai-literacy, community-of-inquiry]
+foundations: [ai-education, ai-literacy, computational-thinking, curriculum-design]
+pedagogy: [active-learning, collaborative-learning, community-of-inquiry, project-based-learning]
+stakeholders: [student-experience]
 research_method: [case study]
 audience: [learners]
 level: [higher ed]

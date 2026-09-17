@@ -4,6 +4,10 @@ created: "2026-08-15T15:16:58-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-ed-evaluation, educational-measurement, assessment-validity, automated-assessment, ai-feedback-quality, llm, teacher-role, educational-development, professional-training]
+foundations: [educational-development, teacher-role]
+technology: [llm]
+assessment: [ai-ed-evaluation, ai-feedback-quality, assessment-validity, automated-assessment, educational-measurement]
+stakeholders: [professional-training]
 research_method: [educational measurement, interviews, benchmark]
 audience: [instructors, faculty development]
 category: [evaluation]

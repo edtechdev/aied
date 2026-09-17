@@ -4,6 +4,11 @@ created: "2026-09-08T02:39:31-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [medical-education, technology-acceptance-model, ai-literacy, well-being, generative-ai, higher-ed, professional-training, equity-in-ai-education]
+foundations: [ai-literacy]
+pedagogy: [well-being]
+technology: [generative-ai]
+stakeholders: [professional-training, technology-acceptance-model]
+ethics: [equity-in-ai-education]
 sources: ['raw/papers/akbaba-nursing-ai-experiences-tam-2026.md']
 research_method: [qualitative, interviews]
 discipline: [nursing education]

@@ -4,6 +4,10 @@ created: "2026-07-03T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, k-12, active-learning, ai-literacy, llm, automated-assessment, scaffolding, learning-analytics, formative-assessment, visualization]
+foundations: [ai-literacy]
+pedagogy: [active-learning, scaffolding]
+technology: [generative-ai, learning-analytics, llm, visualization]
+assessment: [automated-assessment, formative-assessment]
 audience: [instructors, learners]
 research_method: [experiment]
 level: [higher ed]

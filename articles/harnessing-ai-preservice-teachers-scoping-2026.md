@@ -4,6 +4,7 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [teacher-education, adult-learning, ai-literacy, teacher-role]
+foundations: [ai-literacy, teacher-role]
 research_method: [systematic review]
 audience: [instructors]
 level: [teacher training]

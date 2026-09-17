@@ -4,6 +4,9 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, personalized-learning, learning-theories, language-learning, open-source]
+pedagogy: [learning-theories]
+technology: [llm, personalized-learning]
+stakeholders: [open-source]
 audience: [software developers]
 research_method: [system development, benchmark]
 discipline: [language learning]

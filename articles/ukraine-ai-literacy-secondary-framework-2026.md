@@ -4,6 +4,10 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 tags: ["ai-literacy", "k-12", "teacher-ai-competency", "professional-training", "educational-development", "generative-ai", "global-south"]
+foundations: [ai-literacy, educational-development]
+technology: [generative-ai]
+stakeholders: [professional-training, teacher-ai-competency]
+ethics: [global-south]
 research_method: [mixed methods]
 audience: [teacher educators, researchers, policymakers]
 level: [k 12]

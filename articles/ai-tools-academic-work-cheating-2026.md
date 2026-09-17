@@ -4,6 +4,10 @@ created: "2026-08-20T04:40:00-04:00"
 updated: "2026-08-20T04:40:00-04:00"
 type: article
 tags: [academic-integrity, ai-misuse-learning-harm, critical-thinking, student-experience, ethics, ai-literacy, meta-analysis-systematic-review, higher-ed]
+foundations: [academic-integrity, ai-literacy, critical-thinking]
+assessment: [meta-analysis-systematic-review]
+stakeholders: [student-experience]
+ethics: [ai-misuse-learning-harm, ethics]
 research_method: [systematic review]
 audience: [learners, instructors]
 level: [higher ed]

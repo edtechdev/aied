@@ -5,6 +5,10 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/pedagogy-first-technology-second-teacher-knowledge-2026.md"]
 tags: ['tpack', 'k-12', 'quantitative-research', 'ai-education', 'pedagogy']
+foundations: [ai-education]
+pedagogy: [pedagogy]
+assessment: [quantitative-research]
+stakeholders: [tpack]
 confidence: medium
 research_method: [structural equation modeling, quantitative]
 audience: [teacher educators, faculty development, administrators]

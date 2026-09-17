@@ -4,6 +4,9 @@ created: "2026-07-28T10:44:35-04:00"
 updated: "2026-09-09T09:05:09-04:00"
 type: concept
 tags: [sociocultural-learning, learning-theories, constructivist, scaffolding, agency, generative-ai, human-ai-collaboration]
+foundations: [agency, human-ai-collaboration]
+pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
+technology: [generative-ai]
 confidence: high
 ---
 > **Sociocultural learning** — the family of theories, rooted in Vygotsky, that holds learning and development arise through social participation and are mediated by cultural tools, language, and interaction with more knowledgeable others. Cognition is distributed across people, artifacts, and environments rather than residing solely in individuals. In [[ai-education|AI in education]], sociocultural theory frames how [[generative-ai|generative AI]] functions as a new kind of *mediational agent* — a tool that both mediates activity and generates contingent contributions to interaction — and frames the design of [[scaffolding]], the Zone of Proximal Development (ZPD), apprenticeship, and communities of practice. See [[mediational-agent-genai-sociocultural-2026]].

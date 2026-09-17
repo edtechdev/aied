@@ -4,6 +4,9 @@ created: "2026-08-06T10:43:53-04:00"
 updated: "2026-09-10T04:58:13-04:00"
 type: concept
 tags: [adult-learning, learning-design, ai-education, usability-research, edtech-platform, higher-ed, professional-training]
+foundations: [ai-education, learning-design]
+assessment: [usability-research]
+stakeholders: [edtech-platform, professional-training]
 research_method: [system development]
 level: [adult learning, higher ed]
 category: [instructional design]

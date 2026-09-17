@@ -4,6 +4,10 @@ created: "2026-09-15T10:30:00-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
 tags: [generative-ai, virtual-and-augmented-reality, collaborative-learning, design-thinking, creativity, self-efficacy, higher-ed, engineering-education, student-experience]
+foundations: [design-thinking]
+pedagogy: [collaborative-learning, creativity, self-efficacy]
+technology: [generative-ai, virtual-and-augmented-reality]
+stakeholders: [student-experience]
 sources: ['raw/papers/genai-xr-architectural-design-education-2026.md']
 confidence: high
 research_method: [mixed methods, quasi-experiment, interviews, thematic analysis]

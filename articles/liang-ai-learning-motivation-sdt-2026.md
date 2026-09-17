@@ -4,6 +4,8 @@ created: "2026-08-25T12:20:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [self-determination-theory, motivation, ai-literacy, k-12, student-engagement]
+foundations: [ai-literacy]
+pedagogy: [motivation, self-determination-theory, student-engagement]
 audience: [instructors, learners]
 research_method: [survey]
 level: [k 12]

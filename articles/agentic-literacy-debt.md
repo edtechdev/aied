@@ -4,6 +4,10 @@ created: "2026-05-28T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [agentic-ai, ai-literacy, equity-in-ai-education, generative-ai, higher-ed, k-12, educational-policy-ai, llm, governance, trust-calibration, ethics]
+foundations: [agentic-ai, ai-literacy]
+technology: [generative-ai, llm]
+stakeholders: [educational-policy-ai, governance]
+ethics: [equity-in-ai-education, ethics, trust-calibration]
 audience: [researchers, instructors]
 research_method: [theoretical analysis]
 level: [higher ed, k 12]

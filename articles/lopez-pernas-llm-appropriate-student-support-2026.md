@@ -4,6 +4,9 @@ created: "2026-08-27T04:34:11-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [learning-analytics, llm, equity-in-ai-education, human-in-the-loop-ai, ai-feedback-quality, higher-ed]
+technology: [human-in-the-loop-ai, learning-analytics, llm]
+assessment: [ai-feedback-quality]
+ethics: [equity-in-ai-education]
 audience: [software developers]
 research_method: [benchmark]
 level: [higher ed]

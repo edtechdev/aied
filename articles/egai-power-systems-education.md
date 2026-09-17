@@ -4,6 +4,9 @@ created: "2026-08-04T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-education, stem-education, curriculum-design, open-source, professional-training, llm, rag]
+foundations: [ai-education, curriculum-design]
+technology: [llm, rag]
+stakeholders: [open-source, professional-training]
 research_method: [survey]
 discipline: [stem education]
 category: [curriculum design]

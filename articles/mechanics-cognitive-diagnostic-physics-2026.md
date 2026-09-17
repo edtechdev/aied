@@ -4,6 +4,8 @@ type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 tags: [cognitive-diagnosis, physics-education, educational-measurement, item-response-theory, formative-assessment, automated-assessment, adaptive-learning, stem-education, assessment-validity]
+technology: [adaptive-learning, cognitive-diagnosis]
+assessment: [assessment-validity, automated-assessment, educational-measurement, formative-assessment, item-response-theory]
 sources: ['raw/papers/mechanics-cognitive-diagnostic-physics-2026.md']
 confidence: high
 research_method: [educational measurement]
