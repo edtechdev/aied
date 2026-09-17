@@ -7,9 +7,10 @@ tags: [k-12, higher-ed, intelligent-tutoring, student-experience, stem-education
 research_method: [system development, user study]
 discipline: [stem education]
 audience: [learners]
-level: [k 12, higher ed]
+level: [higher ed]
 sources: ['raw/papers/2606.15239.md']
 confidence: high
+category: [design thinking, engagement]
 ---
 
 > **Synthesis:** Design for Assembly (DfA) and Design for Disassembly (DfD) interventions reshape how a build feels before they shorten how long it takes.

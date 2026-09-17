@@ -4,11 +4,12 @@ created: "2026-06-10T12:17:35-04:00"
 updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [active-learning, ai-education, higher-ed, learning-analytics, teacher-role, generative-ai, llm, student-experience, ai-literacy, stem-education]
-research_method: [system development, survey]
+research_method: [learning analytics, quantitative]
 discipline: [stem education]
 audience: [instructors, learners]
 level: [higher ed]
 confidence: high
+category: [evaluation, engagement]
 sources: ['raw/papers/2606.09831.md']
 ---
 

@@ -11,6 +11,7 @@ category: [engagement]
 
 sources: ['raw/papers/2605.12788.md']
 confidence: high
+discipline: [math education]
 ---
 
 > **Synthesis:** This paper tackles a core ITS challenge: predicting when students will disengage so tutors can intervene before it's too late. It introduces **[[student-engagement|engagement]] forecasting** as a supervised prediction task with two complementary targets: minutes practiced per week (effort) and new skills mastered per week (progress).

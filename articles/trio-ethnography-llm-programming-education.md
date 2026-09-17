@@ -4,12 +4,13 @@ created: "2026-07-27T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, stem-education, teacher-role, student-experience, higher-ed, scaffolding, ai-literacy, llm, regulation]
-research_method: [survey]
+research_method: [qualitative, thematic analysis]
 discipline: [stem education]
 audience: [instructors, learners]
 level: [higher ed]
 sources: ['raw/papers/2607.22463.md']
 confidence: high
+category: [instructional design]
 ---
 
 > **Synthesis:** This experience report introduces trio-ethnography — structured dialogue between two computing educators with differing [[teacher-role|teaching]] philosophies and one undergraduate CS student — as a method for surfacing how educators' interpretations of students' AI use evolve. The central finding is that much AI-supported learning is invisible from the classroom: across three conversations, the student's lived-experience narratives revealed learning processes that neither educator could infer from observable behavior, [[prompt-engineering|prompting]] both to revise assumptions about AI use, assessment design, and transparency in [[cs-education]].

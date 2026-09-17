@@ -6,9 +6,10 @@ type: article
 tags: [generative-ai, scaffolding, equity-in-ai-education, multilingual-learning, prompt-engineering, ai-literacy, k-12, metacognition]
 audience: [learners, instructors]
 research_method: [mixed methods]
-level: [k 12]
+level: [higher ed]
 sources: ['raw/papers/2607.28630.md']
 confidence: high
+category: [equity, collaborative learning]
 ---
 
 > **Synthesis:** **Deliang Wang, Cunling Bian** — AIED 2026 (accepted full paper).

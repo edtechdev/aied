@@ -10,6 +10,7 @@ level: [higher ed]
 
 sources: ['raw/papers/mdpi-2026-critical-genai-use-predictors.md']
 confidence: high
+category: [engagement, evaluation]
 ---
 
 > **Synthesis:** A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, Bielefeld University) testing two **protective factors against uncritical [[generative-ai|GenAI]] [[cognitive-offloading|overreliance]]**: (1) **knowledge about genAI** and (2) the **disposition to engage in [[critical-thinking|critical thinking]]** — operationalized via Kuhn's framework as *epistemic orientation* (tendency away from absolutist toward evaluativist beliefs) and *intellectual values* (viewing intellectual [[student-engagement|engagement]] as worthwhile). Both factors are framed as components of [[ai-literacy|AI literacy]] and both are trainable, motivating intervention recommendations.

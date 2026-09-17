@@ -4,13 +4,14 @@ created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, cs-education, cognitive-offloading, academic-integrity, formative-assessment, student-experience, metacognition, ai-literacy]
-research_method: [experiment]
+research_method: [quasi-experiment, mixed methods]
 discipline: [cs education]
 audience: [instructors, learners]
 level: [higher ed]
 
 sources: ['raw/papers/2605.21374.md']
 confidence: high
+category: [assessment, instructional design, policy]
 ---
 
 > **Synthesis.** Fowles et al. (2026) offer a harm-reduction blueprint for [[generative-ai]] in [[cs-education]]: rather than banning large language models ([[llm]]s), make students accountable for understanding whatever code they submit through weekly oral code review interviews. At [[higher-ed|Utah State University]], an [[active-learning|flipped classroom]] freed class time for one-on-one assessments, and three semesters of data showed sharply higher AI usage (paste-to-type ratios up) with no statistically significant decline in exam scores — evidence that structured oral [[formative-assessment]] can preserve [[learning-gains]] even as reliance on AI tools rises.

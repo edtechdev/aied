@@ -4,12 +4,13 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [cs-education, generative-ai, llm, scaffolding, learning-design, prompt-engineering, higher-ed, computational-thinking]
-research_method: [experiment]
+research_method: [systematic review, literature review]
 discipline: [cs education]
 level: [higher ed]
-category: [instructional design]
+category: [instructional design, synthesis]
 sources: ['raw/papers/llm-intervention-design-cs-review.md']
 confidence: high
+audience: [instructors, instructional designers, researchers]
 ---
 
 > **Synthesis:** This [[meta-analysis-systematic-review|scoping review]] analyzed **13 experimental studies** on [[llm]] integration in undergraduate [[cs-education]], examining how intervention design choices shape [[learning-gains|learning outcomes]]. The central finding: **LLM effectiveness depends less on the model itself than on [[pedagogy|pedagogical]] design**.

@@ -4,11 +4,13 @@ created: "2026-09-05T00:10:31-04:00"
 updated: "2026-09-05T00:10:31-04:00"
 type: article
 tags: [agentic-ai, learning-design, cs-education, simulating-students, generative-ai, online-teaching-and-learning, llm, ai-ed-evaluation, student-modeling]
-research_method: [quantitative, qualitative]
+research_method: [benchmark, quantitative]
 audience: [instructors, learning designers]
 level: [higher ed]
 sources: ['raw/papers/ai-web-agents-lesson-design-2025.md']
 confidence: high
+discipline: [cs education]
+category: [evaluation, instructional design, ai foundations]
 ---
 
 > **Synthesis:** Wang, Mitchell, and Piech (2025) show that a single [[multimodal]] [[llm|LLM]]-based [[agentic-ai|web agent]] can evaluate an online [[learning-design|learning experience]] *before* real students engage with it — autonomously navigating a multi-step lesson like a learner, generating a rich description of the [[student-experience|student experience]], and using that description to predict where students will drop out and to give designers actionable feedback. Validated on Code in Place, an open-access global CS1 course (6,515 students, 149 countries), agent-generated descriptions significantly improved dropout-distribution prediction (mean JSD 0.060), beating every baseline and ablations that lacked them. Notably, the authors found that a **single describing agent outperformed simulating an entire distribution of [[simulating-students|simulated student]] agents** — simulated students reproduced only ~4% of real student paths and were far more expensive, a cautionary result for the field.

@@ -11,6 +11,7 @@ audience: [learners]
 level: [special education]
 sources: ['raw/papers/2605.23823.md']
 confidence: high
+category: [equity, collaborative learning]
 ---
 
 > **Synthesis:** This study surveyed 24 [[neurodiversity|neurodivergent]] computing students (autistic and/or ADHD) and 20 neurotypical peers, supplemented by 4 in-depth interviews, to understand how [[collaborative-learning|collaborative active learning]] structures affect comfort and [[accessibility]]. Three key findings emerge: **(1)** Neurodivergent students experience significant discomfort with assignments that lack clear structure or have ambiguous expectations — the title quote reflects a common frustration with unspoken social norms in teamwork. **(2)** They strongly prefer **smaller teams that work together consistently**, with **explicitly defined roles**, minimizing the [[cognitive-offloading|cognitive load]] of social negotiation. **(3)** Common coping strategies include self-selecting roles and strategic self-disclosure of neurodivergence.

@@ -10,6 +10,7 @@ discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2607.15176.md']
 confidence: high
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** [[multimodal]] large language models (MLLMs) are increasingly used to interpret visualizations, yet most evaluations remain chart-centric and offer limited insight into **scientific [[visualization]] (SciVis) literacy**. This study [[benchmark|benchmarks]] six MLLMs (three closed-source, three [[open-source]]) on a standardized SciVis literacy assessment — 49 items spanning 18 scientific visualizations, 8 techniques, and 11 task types — and compares model performance against data from 485 human participants.

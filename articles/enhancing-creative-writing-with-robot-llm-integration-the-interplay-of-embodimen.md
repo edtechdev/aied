@@ -9,6 +9,8 @@ level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen.md']
 confidence: high
+discipline: [writing education]
+audience: [researchers, instructors, edtech designers]
 ---
 
 > **Synthesis:** Liu & Song (2026) explore the impact of robot–[[llm|LLM]] integration on [[collaborative-learning|collaborative creative writing]], focusing on how [[embodied-learning|embodiment]] and AI [[creativity]] influence creative output. With 150 undergraduate students across five collaboration conditions, they find the **Human–Robot (High-Creativity LLM)** condition significantly enhanced **originality**, while Human–Human and Human–LLM (text-based) collaborations excelled in **imagery and voice**. An **"embodiment paradox"** emerged: robot embodiment amplified creativity in high-creativity AI conditions, yet [[human-ai-collaboration|human collaboration]] remained superior in stylistic expression. Mediation analysis showed **user engagement acts as a mediator**, with embodiment compensating for low-creativity AI and amplifying the creative process with high-creativity AI.

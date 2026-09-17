@@ -10,6 +10,7 @@ discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2607.13370.md']
 confidence: high
+category: [evaluation, instructional design]
 ---
 
 > **Synthesis:** LEA (Learning [[student-engagement|Engagement]] Assistant) is an **[[agentic-ai|agentic AI]] tutoring system** that couples course-specific [[rag|retrieval-augmented]] generation (RAG) with structured [[knowledge-tracing]] / Knowledge Component (KC) models across integrated Chat, Tutor, and Quiz modes. This paper reports the first real-student classroom deployment of LEA (n = 8, STEM course CMP511) and the first empirical test of its cross-course scalability, extending a prior [[simulation]]-only validation that used synthetic learner agents.

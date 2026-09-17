@@ -10,6 +10,7 @@ discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2605.05410.md']
 confidence: high
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** LaTA is a privacy-preserving autograder that grades LaTeX homework with a locally hosted open-weight reasoning model (gpt-oss:120b on a single Mac Studio), so no student work leaves the instructor's machine — the FERPA problem that blocks most [[automated-assessment|automated grading]] deployments disappears rather than being managed. Deployed across a full 200-student mechanical-engineering course, its instructor-confirmed error rate held at roughly 0.02-0.04% per rubric line item, and the author reports better exam performance and large self-assessed confidence gains against his previous traditionally graded cohort. The paper is notable for how carefully it refuses to over-claim: the exam gain bundles three changes at once, and the author says so explicitly rather than attributing it to the autograder.

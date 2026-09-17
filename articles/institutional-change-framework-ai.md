@@ -6,10 +6,11 @@ type: article
 tags: [ai-education, change-management, educational-development, higher-ed, pedagogy, stem-education, agentic-ai, scaffolding, student-experience]
 research_method: [theoretical analysis]
 discipline: [stem education]
-audience: [faculty development, learners]
+audience: [faculty development, administrators, instructors]
 level: [higher ed]
 sources: ['raw/papers/2605.12757.md']
 confidence: high
+category: [framework, policy]
 ---
 
 > **Synthesis:** Perl-Nussbaum & Finkelstein (2026) propose a **six-dimension framework** for adapting institutional change models in STEM higher education to the realities of generative AI. Unlike prior reforms based on **adoption [[ai-technologies|technologies]]** (stable, evidence-based practices like Peer Instruction or PhET [[simulation|simulations]]), generative AI is an **arrival technology** — it entered classrooms before pedagogical evidence could form. The framework identifies where existing change models break down and derives actionable design implications for leading change under genuine uncertainty.

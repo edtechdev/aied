@@ -10,6 +10,7 @@ level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/2606.01152.md']
 confidence: high
+discipline: [cs education, engineering education]
 ---
 
 > **Synthesis:** Gorsky (2026) formalizes **Agentic Software Engineering (ASE)** as a distinct discipline and proposes a 21-module undergraduate curriculum centered on the **co-evolution of intent and build** — the evolutionary spiral in which a developer frames intent, the agent builds, and the developer judges and revises. Anchored in labor-market evidence (Anthropic classifies 79% of Claude Code interactions as automation; AI exposure covers ~75% of Computer Programmer tasks; employment for 22–25-year-olds in exposed occupations fell 13%), the curriculum teaches the practitioner discipline the industry lacks — framing, specification, context engineering, verification, multi-agent orchestration, and auditability — rather than any specific tool. It frames [[ai-literacy]] for software professionals as the ability to **manage agents, not merely prompt them**, and is designed to outlast today's model capabilities.

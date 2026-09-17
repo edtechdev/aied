@@ -4,12 +4,13 @@ created: "2026-06-16T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [learning-analytics, llm, k-12, personalized-learning, assessment, student-experience, rag]
-research_method: [benchmark, survey]
+research_method: [benchmark, learning analytics]
 audience: [learners, software developers]
 level: [k 12]
 category: [assessment]
 sources: ['raw/papers/2606.15349.md']
 confidence: high
+discipline: [stem education]
 ---
 
 > **Synthesis:** Standardized examinations are typically treated as uniform syllabus coverage problems. LearnOpt recovers stable latent cognitive structures diverging systematically from official syllabi, using [[llm]]-tagged questions and constrained optimization. Applied to 9 years of NEET questions (n=1,496) and JEE Advanced questions. Finds NEET latent skill distribution is stable within syllabus regimes (KL 0.004-0.032) but shifts significantly after syllabus rationalization (KL=0.040, p=0.0005). JEE Advanced is dominated by multi-concept integration (80.9%). Formulates study planning as a knapsack-variant optimization with Bayesian Knowledge Tracing.

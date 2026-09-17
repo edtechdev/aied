@@ -5,11 +5,12 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, k-12, scaffolding, student-experience, stem-education, self-regulated-learning, human-in-the-loop-ai, metacognition]
 research_method: [system development, design-based research]
-discipline: [stem education]
+discipline: [cs education, stem education]
 audience: [learners]
 level: [k 12]
 sources: ['raw/papers/2605.17857.md']
 confidence: medium
+category: [instructional design, engagement]
 ---
 
 > **Synthesis:** Socratic questioning, reflection prompts, misconception checks, and mandatory pauses produce better K-12 engagement than directive answer-giving AI tutors.

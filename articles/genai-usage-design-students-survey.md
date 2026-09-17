@@ -5,11 +5,12 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, ai-literacy, academic-integrity, writing-education]
 research_method: [survey, mixed methods]
-discipline: [writing education]
+discipline: [design education]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.17094.md']
 confidence: high
+category: [curriculum design, policy]
 ---
 
 > **Synthesis:** Broadbent and colleagues survey design students at the Politecnico di Milano's School of Design and pair the results with AI-use journals kept during a Masters research methods course, finding that [[generative-ai|GenAI]] use is very frequent but concentrated in the early research and writing phases of the design process, and that students' perceived project ownership and [[creativity]] are largely unaffected. The study's central tension is the research phase itself: students offload literature search, summarization and editing to AI while remaining skeptical of its outputs (65% distrust them; 85% systematically modify them), suggesting both a pragmatic, verification-driven literacy and a possible devaluing of research as a creative act.

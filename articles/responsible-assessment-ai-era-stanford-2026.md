@@ -10,6 +10,7 @@ category: [assessment, evaluation]
 
 sources: ['raw/papers/responsible-assessment-ai-era-stanford-2026.md']
 confidence: high
+level: [higher ed, k 12]
 
 ---
 

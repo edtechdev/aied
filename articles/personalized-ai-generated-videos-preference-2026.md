@@ -9,6 +9,7 @@ audience: [instructors, learning designers]
 level: [higher ed]
 sources: ['raw/papers/personalized-ai-generated-videos-preference-2026.md']
 confidence: high
+category: [instructional design, evaluation]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

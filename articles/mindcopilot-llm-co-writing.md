@@ -11,6 +11,7 @@ level: [higher ed]
 
 sources: ['raw/papers/2605.23535.md']
 confidence: high
+category: [framework, evaluation]
 ---
 
 > **Synthesis:** MindCopilot introduces a formal framework for evaluating human-LLM co-writing that shifts from output-only metrics (BLEU, ROUGE) to **interaction-aware evaluation**. The paper models co-writing as a **Human-in-the-Loop Markov Decision Process (HiL-MDP)**, where writing is a sequence of granular decisions: accept, edit, or reject each AI suggestion. The **Co-Writing Fidelity Suite** introduces two novel metrics — **Hierarchical Acceptance Rate** (quantifying acceptance across granularity levels) and **Knowledge-aware Editing Distance** (measuring cognitive effort of editing suggestions). Evaluated across 1,688 queries from 16 writing domains, with a 30-participant validation study.

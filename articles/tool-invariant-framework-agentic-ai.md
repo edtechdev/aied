@@ -10,6 +10,7 @@ level: [higher ed]
 category: [assessment, evaluation]
 sources: ['raw/papers/arxiv-2026-tool-invariant-framework.md']
 confidence: high
+discipline: [physics education]
 ---
 
 > **Synthesis:** Across the centuries-long migration of mechanical work from human to tool — fingers → pencil → calculator → Python → [[agentic-ai|agent]] — Engelhardt argues that what a learner must know is **tool-invariant**. Five pillars (inputs/outputs, method concept, terminology, sensemaking, operating the tool) stay stable while only their *content* and *weight* shift. Because AI-generated [[simulation|simulations]] are opaque **and bespoke** (validated by no community), [[critical-thinking|verification]] becomes the load-bearing skill and the artifact no longer certifies the student. The constructive response pairs **AI-free in-class coding quizzes** with **oral defenses of comment-stripped, AI-assisted work**, gated on a verification dimension — design prescriptions that largely await Fall 2026 cohort validation.

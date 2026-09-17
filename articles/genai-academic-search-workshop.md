@@ -7,8 +7,9 @@ tags: [generative-ai, llm, ai-literacy, educational-policy-ai, higher-ed, studen
 research_method: [theoretical analysis]
 discipline: [stem education]
 audience: [learners]
-level: [higher ed, k 12]
+level: [higher ed]
 confidence: medium
+category: [synthesis, ai foundations]
 sources: []
 ---
 

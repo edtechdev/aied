@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, higher-ed, academic-integrity, authentic-assessment, cognitive-offloading, ai-literacy, assessment, rag]
 connected_faqs: [ai-guidance-children-under-13]
 audience: [researchers, instructors]
-research_method: [theoretical analysis]
+research_method: [quasi-experiment, design-based research]
 level: [higher ed]
 category: [assessment]
 

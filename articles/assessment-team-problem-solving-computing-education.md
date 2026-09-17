@@ -4,13 +4,14 @@ created: "2026-07-22T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [formative-assessment, feedback, learning-analytics, stem-education, higher-ed, student-experience]
-research_method: [benchmark]
+research_method: [educational measurement, secondary analysis]
 discipline: [stem education]
 audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2607.19209.md']
 confidence: high
+category: [assessment, collaborative learning]
 ---
 
 > **Synthesis:** Tabletop exercises (TTXs) let learner teams rehearse high-stakes workplace tasks such as cybersecurity incident response, but their open-ended, collaborative nature makes [[formative-assessment]] difficult: teams often receive delayed or incomplete feedback. This full [[research-methods-aied|research]]-to-practice paper compares assessment methods that exploit the action and communication logs captured by TTX platforms to evaluate how well teams meet learning objectives.

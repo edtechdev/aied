@@ -10,6 +10,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.00979.md']
 confidence: medium
+category: [instructional design, engagement]
 ---
 
 > **Synthesis:** User study with 24 participants comparing classroom instruction, mixed-reality apps, and physical toolkits for Engineering Mechanics reveals [[multimodal]] learning improves [[student-engagement|engagement]] but complex visualizations remain challenging.

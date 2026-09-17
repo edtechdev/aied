@@ -7,10 +7,11 @@ tags: [higher-ed, llm, automated-assessment, student-experience, stem-education,
 research_method: [benchmark]
 discipline: [stem education]
 audience: [learners, software developers]
-level: [higher ed, k 12]
+level: [higher ed]
 
 sources: ['raw/papers/2606.15919.md']
 confidence: high
+category: [evaluation, assessment]
 ---
 
 > **Synthesis:** Investigates [[llm]] [[conversational-ai|chatbots]]' performance on 70 MCQs for a university CS lecture on interactive visual data analysis, comparing with [[learning-gains|student performance]]. GPT-4o and GPT-5 significantly outperformed smaller models. A user study in two courses showed that presenting ChatGPT answers with explanations did NOT generally improve student performance.

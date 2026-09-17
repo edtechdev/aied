@@ -10,6 +10,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.19699.md']
 confidence: high
+category: [equity, policy]
 ---
 
 > **Synthesis:** A scenario-based survey (Fall 2024) comparing how computing students at Canadian and South Korean universities judged the ethicality and policy compliance of AI-assisted coding practices. Despite functionally identical [[governance|institutional]] policies, Canadian students were consistently and significantly more likely to rate [[generative-ai|GenAI]] use as unethical and against the rules (Mann-Whitney U tests across nearly all scenarios). Culture, not policy text, drove the perceived wrongness of identical behaviors.
