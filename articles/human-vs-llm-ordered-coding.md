@@ -7,11 +7,10 @@ tags: [automated-assessment, learning-theories, learning-analytics, llm, generat
 pedagogy: [learning-theories]
 technology: [educational-nlp, generative-ai, learning-analytics, llm]
 assessment: [automated-assessment]
-research_method: [benchmark]
+research_method: [benchmark, learning analytics]
 
 sources: ['raw/papers/caeai-human-llm-coding.md']
 confidence: high
-discipline: [learning analytics]
 audience: [researchers, learning analytics designers]
 level: [higher ed]
 category: [evaluation, assessment]

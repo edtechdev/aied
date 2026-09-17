@@ -10,7 +10,6 @@ technology: [learning-analytics]
 stakeholders: [governance]
 ethics: [ethics]
 research_method: [delphi]
-discipline: [learning analytics]
 level: [higher ed]
 sources: ['raw/papers/10.1186_s41239-026-00620-x.md']
 confidence: high

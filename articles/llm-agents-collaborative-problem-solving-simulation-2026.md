@@ -12,7 +12,6 @@ assessment: [network-analysis]
 connected_faqs: [group-work-ai]
 confidence: medium
 research_method: [system development, benchmark]
-discipline: [learning analytics]
 audience: [researchers, learning analytics designers, edtech designers]
 category: [collaborative learning, framework]
 ---

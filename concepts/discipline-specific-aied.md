@@ -1,11 +1,11 @@
 ---
 title: "AIEd in the Disciplines"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T14:16:00-04:00"
 type: concept
-tags: [ai-education, discipline-specific-aied, stem-education, math-education, physics-education, cs-education, language-learning, writing-education, medical-education, humanities-education, business-education]
+tags: [ai-education, discipline-specific-aied, stem-education, math-education, physics-education, cs-education, language-learning, writing-education, medical-education, humanities-education, business-education, design-education, information-technology, vocational-education, nursing-education, learning-sciences]
 foundations: [ai-education]
-discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education]
+discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 ---
 
@@ -21,7 +21,7 @@ confidence: high
 
 ## Introduction
 
-AI in education manifests differently across disciplines because each field has its own signature pedagogy — the distinctive ways knowledge is constructed, practiced, and taught. AI tutors that shine in [[math-education|mathematics]] may fail in [[humanities-education|the humanities]], where interpretation and authorship matter more than right answers. This page is the umbrella map for those discipline-specific strands.
+AI in education manifests differently across disciplines because each field has its own signature pedagogy — the distinctive ways knowledge is constructed, practiced, and taught. AI tutors that shine in [[math-education|mathematics]] may fail in [[humanities-education|the humanities]], where interpretation and authorship matter more than right answers. This page is the umbrella map for those discipline-specific strands, which now run from school subjects through professional and applied training to studio practice. One member of the strand is not a taught subject at all: [[learning-sciences]] is the research field around AI in education, supplying the mechanisms AI systems operationalise and the standards by which they are judged — it takes the cross-cutting view, against this page's premise that subject matter is what changes what support should do.
 
 ## Discipline-specific concepts
 
@@ -32,12 +32,16 @@ The knowledge base has dedicated concept pages for several subject areas:
 - **[[chemistry-education]]** — AI in laboratory/experimental design, AI-mediated formative assessment, context-based and inquiry-based instruction, [[llm]] technical limits on chemistry tasks, and the philosophy of experimentation.
 - **[[biology-education]]** — AI in laboratory instruction, AI literacy embedded in biology curricula, critical thinking in the AI era, and specialized tools (species identification, bioimaging, predictive modeling).
 - **[[cs-education]]** — AI for code generation, debugging, and novice programming support.
+- **[[information-technology]]** — the applied wing of computing, preparing practitioners to select, secure, administer, and govern the deployed systems organizations run: its unit of analysis is the deployed system and the practitioner's judgment about it, where computer science education takes the program and the algorithm as its objects.
 - **[[writing-education]]** — AI-assisted composition, automated essay scoring, and writing feedback.
 - **[[language-learning]]** — AI interlocutors, pronunciation feedback, and conversational practice in second/foreign languages.
 - **[[english-education]]** — English for Academic Purposes (EAP) and English language teaching (EFL/ESL/L2): academic-English register, genre-based writing, and English-specific feedback and assessment — distinct from general language learning and general writing.
 - **[[stem-education]]** — the cross-disciplinary umbrella for science, technology, engineering, and mathematics.
 - **[[teacher-education]]** — the preparation and [[educational-development|professional development]] of teachers (pre-service and in-service), a discipline in its own right whose AI research centers on [[teacher-role|teacher]] AI literacy, intelligent-[[tpack]], and readiness to integrate AI.
 - **[[medical-education]]** — clinical simulation, reinforcement-learning training, and foundational learning principles in health-professions education.
+- **[[nursing-education]]** — the densest empirical record in the clinical strand: simulation with virtual patients, LLM reasoning support, and adaptive platforms, framed around professional-identity formation as much as competence, and narrow enough to name the boundary where AI's documented benefits stop (complex psychomotor skill and emotionally loaded interaction) rather than treating health professions as one case.
+- **[[vocational-education]]** — initial preparation for named trades and technical occupations, organized by qualification frameworks and assessed on what learners can do with equipment: it extends beyond the professional training and workplace upskilling that [[professional-training]] covers to those not yet employed, and its recurring design question is which expensive-to-staff parts of practice AI can absorb without displacing the repetition that produces competence.
+- **[[design-education]]** — studio-based professional formation in product, service, interaction, interior and architectural design, where visible process is the assessed object and where generative tools make the polished artifact cheap: it narrows the studio disciplines that [[arts-design-and-media-education]] covers to the professional design pipeline, so that critique, portfolio and regulation rather than material and performative practice carry the argument.
 - **[[engineering-education]]** — professional formation, design and [[experiential-learning|hands-on learning]], [[ethics|ethical]] use of AI, [[embodied-learning|embodied]] assessment, and workforce preparation in engineering.
 - **[[business-education]]** — AI in business, economics, and management education: student-informed GenAI frameworks, [[curriculum-design|curriculum]] integration via constructive alignment, and preparation for AI-integrated professional practice.
 - **[[humanities-education]]** — interpretive cognition, authorship, and meaning-making in humanities and social sciences.
@@ -72,7 +76,7 @@ Each discipline brings distinctive [[pedagogy|pedagogical]] traditions that AI r
 
 ## Represented disciplines in the knowledge base
 
-The knowledge base's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]** (with a distinct **[[english-education]]** strand for EAP/EFL/ESL), and more recently **[[engineering-education]]**, **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles. This concentration tracks the wider literature: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.'s (2026)]] review found STEM the most common interdisciplinary form in AI-supported higher education (n = 26), well ahead of non-STEM fields (n = 10) and STEAM (n = 2) — a discipline-level caution that AI-in-education evidence accumulates fastest where computational tooling is easiest to embed, not necessarily where AI's pedagogical value is greatest.
+The knowledge base's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]** (with a distinct **[[english-education]]** strand for EAP/EFL/ESL), and more recently **[[engineering-education]]**, **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles. This concentration tracks the wider literature: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.'s (2026)]] review found STEM the most common interdisciplinary form in AI-supported higher education (n = 26), well ahead of non-STEM fields (n = 10) and STEAM (n = 2) — a discipline-level caution that AI-in-education evidence accumulates fastest where computational tooling is easiest to embed, not necessarily where AI's pedagogical value is greatest. The most recent additions broaden the strand past academic subjects into professional and applied education — [[nursing-education|nursing]], [[information-technology|information technology]], and [[vocational-education|vocational education and training]] — where learners are assessed on demonstrated practice rather than on correctness, and where the employer and the licensing body, not only the academy, define what counts as competence.
 
 ## Underrepresented disciplines
 
@@ -81,7 +85,7 @@ Several disciplines remain thin in the knowledge base and are good candidates fo
 - **Law and legal education** — minimal coverage: [[llm-turing-test-italian-legal-exams-2026|LLMs and Italian legal exams]].
 - **Psychology and counseling** — few AI-in-education articles: [[hawkins-feedback-literacy-ai-essay-writing|AI feedback literacy]], [[critical-genai-use-predictors|critical GenAI use]], [[adaptive-virtual-patient-psychotherapy-training|virtual patient psychotherapy training]].
 - **History** — only isolated articles: [[paternalistic-filter-llm-history-education|LLMs and historical reasoning]].
-- **The arts (visual art, design, music)** — emerging coverage: [[ai-interior-design-malaysia-2026|AI in interior design education]], [[genai-architectural-design-studios|GenAI in architectural design studios]], [[ai-vocal-pedagogy-2026|AI vocal pedagogy]], [[musical-education-ai-digital-transformation-2026|AI in music education]], [[t2i-competence-paradox-2026|text-to-image competence paradox]].
+- **The arts (visual art, design, music)** — emerging coverage: [[ai-interior-design-malaysia-2026|AI in interior design education]], [[genai-architectural-design-studios|GenAI in architectural design studios]], [[ai-vocal-pedagogy-2026|AI vocal pedagogy]], [[musical-education-ai-digital-transformation-2026|AI in music education]], [[t2i-competence-paradox-2026|text-to-image competence paradox]]. The design-side studies in this list now have their own home: [[design-education]] draws the architectural, interior-design and text-to-image studio work into a page about professional design formation, leaving visual art, music and performance as the thin remainder.
 
 These underrepresented disciplines would benefit from dedicated concept pages and additional article ingestion as the knowledge base grows.
 
@@ -110,6 +114,11 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[assessment]]
 - [[equity-in-ai-education]]
 - [[arts-design-and-media-education]]
+- [[design-education]]
+- [[information-technology]]
+- [[learning-sciences]]
+- [[nursing-education]]
+- [[vocational-education]]
 ## Connected Articles
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — Systematic review of AI in interdisciplinary higher education (59 studies)
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
@@ -126,4 +135,9 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
 
 - [[jiang-genai-activity-theory-disciplines-2026]] — Activity theory: disciplinary differences in GenAI use and disclosure (560 students)
+- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing education: gains in knowledge and confidence, inconsistent effects on psychomotor skill
+- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — GenAI as scaffold or shortcut in postgraduate IT learning
+- [[ai-vocational-education-training-review]] — First systematic review of AI in vocational education and training
+- [[genai-architectural-design-studios]] — Generative models in the design studio: stimulus, solution-space expansion, and fixation
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Mastery stopping rules that certify an overgeneralised rule as competence
 
