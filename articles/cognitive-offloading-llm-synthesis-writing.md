@@ -4,11 +4,12 @@ created: "2026-06-10T12:17:35-04:00"
 updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [writing-education, llm, student-experience, higher-ed, ai-literacy, generative-ai, intelligent-tutoring, scaffolding, k-12, stem-education]
-research_method: [benchmark]
-discipline: [writing education, stem education]
+research_method: [learning analytics, quantitative]
+discipline: [writing education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
+category: [framework, assessment]
 sources: []
 ---
 

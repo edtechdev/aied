@@ -9,6 +9,7 @@ audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/10.1080_17439884.2026.2652638.md']
 confidence: high
+category: [ai foundations, policy]
 ---
 
 > **Synthesis:** Shapiro, Souto-Otero, and Watermeyer (2026) argue that conventional AI literacy frameworks anchored in functional skills acquisition fail to address the fundamental epistemological challenges posed by probabilistic, opaque algorithmic systems. They reconceptualize AI literacy as a **metacognitive social practice** that transcends individual competencies to encompass collective capacity for critical [[student-engagement|engagement]] with AI design, deployment, and governance. Drawing on case studies from higher education institutions and the Nordic financial sector, they illustrate how participatory co-design processes and experimental [[pedagogy|pedagogical]] spaces can cultivate metacognitive awareness and democratic agency — arguing that universities must evolve beyond skills transmission to become sites of collective intelligence that anchor AI literacy as a public good.

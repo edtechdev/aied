@@ -5,11 +5,12 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, k-12, computational-thinking, learning-design, machine-learning]
 audience: [instructors, learners]
-research_method: [system development]
+research_method: [mixed methods, design and evaluation study]
 level: [k 12]
 category: [instructional design]
 sources: ['raw/papers/caeai-ml-literacy-primary.md']
 confidence: medium
+discipline: [cs education]
 ---
 
 > **Synthesis:** Fostering machine learning literacy in senior primary education: Evaluating a structured [[pedagogy|pedagogical]] course design

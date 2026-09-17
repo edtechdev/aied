@@ -4,13 +4,14 @@ created: "2026-05-20T04:33:04-04:00"
 updated: "2026-09-16T15:50:31-04:00"
 type: article
 tags: [ai-literacy, student-experience, higher-ed, stem-education, cognitive-offloading, educational-development, generative-ai, scaffolding]
-research_method: [experiment]
-discipline: [stem education]
+research_method: [survey, longitudinal study]
+discipline: [cs education, stem education]
 audience: [learners, faculty development]
 level: [higher ed]
 
 sources: ['raw/papers/2605.16292.md']
 confidence: high
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis:** This paper presents a striking longitudinal finding: as AI becomes a routine educational tool, students systematically revalue **human intelligence (HI) over artificial intelligence (AI)**. Drawing on 6 years of classroom poll data (2020–2026) from 471 undergraduate and MSc [[cs-education|computer science]] students, Rekik documents a cognitive shift that progresses through four phases: hype → distrust → trust → dependency.

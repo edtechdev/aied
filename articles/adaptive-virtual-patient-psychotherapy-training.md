@@ -5,10 +5,11 @@ updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [professional-training, llm, generative-ai, intelligent-tutoring, student-experience, higher-ed, ai-literacy, scaffolding, k-12, stem-education]
 research_method: [system development]
-discipline: [stem education]
+discipline: [medical education]
 audience: [learners]
-level: [higher ed, k 12]
+level: [higher ed]
 confidence: high
+category: [instructional design]
 sources: ['raw/papers/2606.10051.md']
 ---
 

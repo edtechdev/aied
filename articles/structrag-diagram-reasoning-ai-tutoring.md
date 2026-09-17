@@ -10,6 +10,8 @@ discipline: [stem education]
 
 sources: ['raw/papers/sle-2026-structrag-diagram-reasoning.md']
 confidence: high
+level: [higher ed]
+category: [framework, assessment]
 ---
 
 > **Synthesis:** Presents **StructRAG**, a pattern-aware framework that improves how [[intelligent-tutoring|AI tutoring systems]] interpret **complex engineering diagrams** (circuit schematics, network topologies, block flowcharts) in [[stem-education|STEM]]. Current AI systems fail on diagrammatic questions because they cannot reliably extract spatial relationships and structural connectivity from noisy real-world diagrams (curved lines, overlapping elements, occluded labels). StructRAG shifts from surface-level visual recognition to **pattern-level structural reasoning**: convert the diagram to a [[knowledge-graph|graph]], retrieve structurally similar canonical patterns, and prompt an [[llm|LLM]] to validate plausibility and completeness — enabling detection of missing connections and [[scaffolding|structure-aware feedback]].

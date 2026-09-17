@@ -10,6 +10,7 @@ audience: [instructors]
 level: [k 12, higher ed]
 sources: ['raw/papers/2607.11129.md']
 confidence: high
+category: [curriculum design, instructional design]
 ---
 
 > **Synthesis:** Presents FORAP (Framework for Organizing Reusable and Adaptable [[project-based-learning|Project-Based Learning]] projects) and a [[eportfolio|portfolio]] of 14 adoption-ready PjBL packages for computing education. The framework addresses the gap between PjBL's known benefits and its slow classroom adoption by making projects reusable, adaptable, and scalable across contexts.

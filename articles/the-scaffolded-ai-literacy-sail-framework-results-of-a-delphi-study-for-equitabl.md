@@ -9,6 +9,7 @@ research_method: [delphi]
 category: [curriculum design, framework]
 sources: ['raw/papers/10.1016_j.caeai.2026.100584.md']
 confidence: high
+level: [k 12, higher ed, teacher training]
 ---
 
 > **Synthesis:** MacCallum, Parsons, and Mohaghegh (2026) report on a three-round Delphi study that created the Scaffolded AI Literacy (SAIL) framework — a broadly applicable, age-agnostic framework for developing [[equity-in-ai-education|equitable]] AI literacy across all stages of education. Unlike most existing frameworks, which aggregate older literature or focus on non-generalizable contexts, SAIL provides a scaffolded competency pathway across levels and explicitly addresses second- and third-level digital divides. Grounded in Aotearoa New Zealand education while incorporating international and Indigenous perspectives, the framework organizes AI literacy into three domains (AI Concepts; Application of AI and Technical Skills; AI Digital Citizenship) and six categories, progressing through four levels (Understand and Explore AI → Apply and Integrate AI → Evaluate and Create AI → AI++, beyond AI literacy).

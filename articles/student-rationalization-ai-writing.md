@@ -11,6 +11,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2605.29090.md']
 confidence: high
+category: [policy]
 ---
 
 > **Synthesis:** Kim, Toyama, Kim, and Carroll (2026) investigate how students make moral sense of AI use in [[writing-education|academic writing]] through semi-structured interviews (n=20), AI chat logs, and course documents. They identify **five distinct "sites" of [[educational-policy-ai|AI policy]]** — from faculty intention to students' actual practice — where interpretation diverges, and a taxonomy of **23 distinct rationalizations** (grouped into six classes) that students use to justify AI use, including conscious violations of course policies. Because these rationalizations are ad hoc and post hoc, modern AI presents a "steep, [[ethics|ethical]], slippery slope" that students conceptually slide down, landing far outside instructors' [[pedagogy|pedagogical]] goals.

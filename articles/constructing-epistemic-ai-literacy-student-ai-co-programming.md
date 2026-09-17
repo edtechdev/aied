@@ -5,11 +5,12 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, cs-education, student-ai-interaction, scaffolding, higher-ed, automated-assessment, llm, learning-analytics, formative-assessment]
 audience: [learners, instructors]
-research_method: [theoretical analysis]
+research_method: [secondary analysis, mixed methods]
 discipline: [cs education]
 level: [higher ed]
 sources: ['raw/papers/2607.00211.md']
 confidence: high
+category: [ai foundations, framework]
 ---
 
 > **Synthesis:** Epistemic thinking — understanding how knowledge is constructed and justified — plays a central role in [[ai-literacy]], particularly when students co-program with generative AI. This paper introduces a framework for detecting epistemic aims and processes in [[student-experience]] during programming activities. The analysis reveals that students engage in question construction, AI output evaluation, and solution integration as distinct epistemic processes. These findings inform [[scaffolding]] design for programming education and connect to broader discussions of [[agentic-education-coding]] where students maintain agency while leveraging AI assistance.

@@ -9,6 +9,7 @@ audience: [faculty development]
 level: [higher ed, k 12]
 sources: ['raw/papers/genai-literacy-training-teacher-education-dbr-2026.md']
 confidence: high
+category: [curriculum design, evaluation]
 ---
 
 > **Synthesis:** Le, Huynh, Dang, Pham, Nguyen, and Nguyen (2026) develop and evaluate a [[design-based-research|design-based research]] (DBR) intervention providing [[generative-ai|GenAI]] [[ai-literacy|literacy]] training for [[teacher-education|teacher education]] students. Arguing that existing AI literacy programs overemphasize technical knowledge and pre-GenAI tools, the study integrates contemporary [[teacher-ai-competency|AI competency frameworks]] into a workshop prototype. The workshop was piloted with 14 master's students and evaluated with 29 [[teacher-education|teacher education]] students. Findings indicate the intervention effectively enhanced overall AI competency [[self-efficacy]], with positive emotional responses from 87.1% of participants and shifts toward critical exploration of [[generative-ai|GenAI]] tools for teaching.

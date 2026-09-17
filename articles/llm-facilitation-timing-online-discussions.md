@@ -9,6 +9,7 @@ level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/2607.28643.md']
 confidence: high
+audience: [researchers, instructors, edtech designers]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

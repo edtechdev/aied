@@ -9,6 +9,7 @@ research_method: [benchmark]
 level: [k 12]
 sources: ['raw/papers/2608.02024.md']
 confidence: high
+category: [evaluation, policy]
 ---
 
 > **Synthesis:** **EduZone is an automated evaluation framework that generates contextually grounded adversarial interactions to probe [[llm|LLM]] safety in [[k-12|K-12 education]], revealing that models are more vulnerable to education-specific harms and dynamic multi-turn conversations than existing [[guardrails]] address.**

@@ -5,12 +5,13 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [llm, automated-assessment, cs-education, formative-assessment, higher-ed, scaffolding, learning-analytics, ai-literacy, k-12]
 audience: [instructors]
-research_method: [system development]
+research_method: [benchmark, educational measurement]
 discipline: [cs education]
-level: [higher ed, k 12]
+level: [higher ed]
 
 sources: ['raw/papers/2607.02432.md']
 confidence: high
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** Alonso-Carracedo et al. (2026) ask whether frontier LLMs can stand in for expert graders on short Linux/bash command-line answers, and return a qualified yes whose limits are predictable in advance. Testing GPT 5.2, Claude Opus 4.6, Gemini 3.0 Pro and GLM 5 on 1,200 real responses under a minimal prompt and a rubric-enhanced prompt, they report that Gemini 3.0 Pro with the rubric reaches ICC(3,1) = 0.888 against a three-instructor consensus — strong, but short of the human ceiling of 0.949 — and that agreement falls monotonically as a four-level cognitive taxonomy rises. The headline design lesson is that rubric quality moves agreement more than model choice.

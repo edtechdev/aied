@@ -10,6 +10,7 @@ level: [k 12]
 
 sources: ['raw/papers/genai-can-harm-teaching-rct-2026.md']
 confidence: high
+category: [evaluation, engagement]
 ---
 
 > **Synthesis:** The null average performance effect masks strong offsetting heterogeneity — and the exam had severe ceiling compression (control mean 89.2/100, 47% ≥ 95), which also limits power. The belief reversal is striking: it contradicts "familiarity breeds acceptance" and suggests an arc from initial awe at AI's instant responses to awareness of its unintended effects.

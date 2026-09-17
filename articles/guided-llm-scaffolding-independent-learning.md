@@ -5,11 +5,12 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, scaffolding, higher-ed, metacognition, prompt-engineering, agentic-ai, ai-literacy, curriculum-design, llm]
 audience: [learners, instructors]
-research_method: [experiment]
+research_method: [quasi-experiment, quantitative]
 level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/2606.01375.md']
 confidence: high
+discipline: [math education]
 ---
 
 > **Synthesis:** Experimental study comparing Guided vs. Unrestricted [[llm]] access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and self-assessment calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.

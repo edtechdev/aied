@@ -11,6 +11,7 @@ level: [higher ed]
 
 sources: ['raw/papers/2607.05403.md']
 confidence: high
+category: [synthesis, instructional design]
 ---
 
 > **Synthesis:** This paper aims to synthesize empirical [[research-methods-aied|research]] on AI tools used to support English as a second/foreign language (EL2) learners in Arab University classrooms (AUCs) between Jan 1st 2023 and Aug 31st 2025. We utilized 3 large datasets, namely Google Scholar, Web of Science, and Scopus as the data sources. Using PRISMA-guided searches across these well-known databases, we included only published articles. The search process results in 184 studies, but only 11 studies met the [[inclusive-learning|inclusion]] criteria. Findings unveil that EL2 learners have positive attitudes toward AI for drafting, revision, and practice. Empirical gains were most consistent for surface-level outcomes improvements in higher-order writing quality and speaking proficiency was mixed and often contingent on teacher mediation. The paper concludes by proposing a research agenda and practical guidelines for Arab universities seeking evidence-based AI integration in EL2 instruction. It also recommends scaffolded integration, [[teacher-education|teacher training]], reflective tasks to reduce over-reliance on AI tools.

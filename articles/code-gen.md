@@ -9,6 +9,8 @@ research_method: [system development]
 category: [assessment]
 sources: ['raw/papers/2604.03926.md']
 confidence: high
+discipline: [cs education]
+level: [higher ed]
 ---
 
 > **Synthesis:** CODE-GEN is a **dual-agent [[rag]]-based [[agentic-ai]] system** for generating and validating coding-comprehension multiple-choice questions, evaluated by 6 SMEs across 7 [[pedagogy|pedagogical]] dimensions (N=288 questions, 2,016 rating pairs). AI excels at criteria-matching and computational verification ([[ai-ed-evaluation|concept alignment 98.6%]], code validity 95.5%), but human expertise remains essential for distractor quality (79.9%) and pedagogically rich feedback — providing an evidence-based division of labor for [[human-in-the-loop-ai]] educational content generation. Its distinctive move is treating the automated Validator's judgment as an *empirical object of study* rather than an assumed capability.

@@ -11,6 +11,7 @@ level: [higher ed]
 
 sources: ['raw/papers/2605.24837.md']
 confidence: high
+category: [assessment, policy, framework]
 
 ---
 

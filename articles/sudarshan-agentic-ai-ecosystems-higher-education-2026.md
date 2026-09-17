@@ -9,6 +9,7 @@ audience: [administrators, instructors, researchers, instructional designers]
 level: [higher ed]
 sources: ['raw/papers/sudarshan-agentic-ai-ecosystems-higher-education-2026.md']
 confidence: medium
+category: [framework, equity, instructional design]
 ---
 
 > **Synthesis:** This position paper (Sudarshan et al., arXiv 2605.14266) argues that current [[agentic-ai|AI agents]] in [[higher-ed]] — intelligent tutoring, grading, learning analytics — are fragmented, task-specific tools that fail to handle [[governance|institutional]] complexity. It proposes a forward-looking **agentic multi-agent AI ecosystem**: interconnected, autonomous, goal-driven agents spanning learning, teaching, and institutional functions. A thematic analysis of existing literature surfaces four themes (task-specific fragmented tools; single-agent→multi-agent transition; limited cross-functional integration; insufficient inclusivity). Its distinctive contribution is weaving **[[inclusive-learning]]** into the architecture: a coordinated multi-agent platform can support diverse learners and those with [[special-education|special educational needs]] through adaptive, [[multimodal]] interventions, embedding equity "in the architecture rather than as an add-on." It closes on four future directions headlined by a **human–AI co-evolution** model that keeps [[human-in-the-loop-ai|humans in the loop]].

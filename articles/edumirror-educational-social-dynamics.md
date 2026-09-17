@@ -7,8 +7,9 @@ tags: [intelligent-tutoring, student-experience, llm, higher-ed, scaffolding, ge
 research_method: [system development]
 discipline: [stem education]
 audience: [researchers, instructors, software developers]
-level: [higher ed, k 12]
+level: [k 12]
 confidence: high
+category: [framework, collaborative learning]
 sources: []
 ---
 

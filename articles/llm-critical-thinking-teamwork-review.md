@@ -10,6 +10,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/systems-llm-skills-review.md']
 confidence: high
+audience: [instructors, administrators, policymakers]
 ---
 
 > **Synthesis:** Can Large Language Models Foster Critical Thinking, Teamwork, and [[problem-solving]] Skills in Higher Education?: A [[meta-analysis-systematic-review|Literature Review]]

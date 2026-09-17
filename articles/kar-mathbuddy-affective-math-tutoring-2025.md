@@ -10,6 +10,7 @@ discipline: [math education]
 level: [k 12]
 sources: ['raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md']
 confidence: medium
+category: [instructional design, engagement]
 ---
 
 > **Synthesis:** **MathBuddy: Affective Math Tutoring** — EMNLP 2025 Demo. An emotionally aware [[llm]]-powered mathematics tutor that dynamically models student emotions from both conversational text and facial expressions, aggregating [[multimodal]] affective signals to shape pedagogically appropriate LLM responses. Maps detected affective states to relevant [[pedagogy|pedagogical]] strategies, achieving a +23-point win rate advantage and +3-point improvement on the DAMR (Dimensions of Affective Math Response) score at the overall level. Evaluated across eight pedagogical dimensions in user studies, MathBuddy demonstrates that affective awareness substantially improves the quality of AI math tutoring.

@@ -4,12 +4,13 @@ created: "2026-06-30T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, k-12, metacognition, stem-education, student-experience, self-regulated-learning, llm, scaffolding, math-education]
-research_method: [survey]
+research_method: [process-outcome modeling, learning analytics]
 discipline: [stem education, math education]
 audience: [learners]
 level: [k 12]
 sources: ['raw/papers/2606.28472.md']
 confidence: high
+category: [engagement, instructional design]
 ---
 
 > **Synthesis:** Abdelghani, Kaiser & Murayama (2026) trace how 112 Grade-9 ([[k-12]]) students' interactions with a general-purpose [[llm|LLM]] [[intelligent-tutoring|math tutor]] evolve over a practice session, identifying a trajectory from superficial [[prompt-engineering|prompting]] toward what they term **epistemic proactivity** — the active, [[self-directed-learning|self-directed]] pursuit of conceptual understanding through AI dialogue. The key contribution is temporal: **static** summaries of AI use (whole-session prompt functions, request types, modeling stages, behavioral diversity) did *not* predict AI-free post-test performance, but **temporal** shifts toward epistemically proactive interaction *did*. This developmental framework is a significant contribution to [[ai-literacy]] [[research-methods-aied|research]], reframing productive AI use not as a binary skill but as a capacity that matures through scaffolded practice.
