@@ -6,6 +6,11 @@ type: article
 tags: [medical-education, scaffolding, generative-ai, agentic-ai, simulation, socratic-method, formative-assessment, intelligent-tutoring, human-ai-collaboration, assessment-validity]
 sources: ['raw/papers/2609.10939.md']
 confidence: high
+research_method: [randomized controlled trial, system development]
+discipline: [medical education]
+audience: [medical educators, instructional designers, researchers]
+level: [higher ed]
+category: [evaluation, instructional design]
 ---
 
 > **Synthesis:** This randomized controlled trial (N = 100 third-year medical students) tests MeduAI-SP, a [[generative-ai|generative-AI]] platform that organizes separate [[llm]] agents — a simulated patient, a [[socratic-method|Socratic]] tutor, and a turn-level evaluator — around explicit [[scaffolding]] functions for clinical interview training. Compared with a structured non-LLM progressive-disclosure control built from the same cases, the multi-agent condition produced markedly higher final examination scores (71.8% vs. 55.6%; Hedges' g = −0.81) and OSCE communication ratings (3.53 vs. 2.64 out of 5), while binary diagnostic accuracy was statistically identical (84% vs. 86%). The design deliberately withheld diagnostic answers and summative scores, an [[intelligent-tutoring]] strategy intended to support the consultation behaviors that carry clinical reasoning without substituting for the learner's own reasoning. The authors frame the result as evidence for functional complementarity: AI agents handle repetitive role-play, checklist monitoring, and Socratic [[prompt-engineering|prompting]], while human educators retain judgment, emotional interpretation, and credentialing. The study is limited by an AI-only comparator, a single [[medical-education|acute-abdominal]] case family, and no delayed transfer or patient-reported outcomes.

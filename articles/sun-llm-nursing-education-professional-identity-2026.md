@@ -5,7 +5,7 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, llm, medical-education, professional-training, learner-identity, curriculum-design, equity-in-ai-education]
 research_method: [systematic review]
-discipline: [medical education]
+discipline: [nursing education]
 audience: [medical educators, educators, curriculum designers, researchers, policymakers]
 level: [higher ed]
 category: [framework, curriculum design, synthesis]

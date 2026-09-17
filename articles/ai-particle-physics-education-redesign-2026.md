@@ -6,6 +6,11 @@ type: article
 tags: [physics-education, generative-ai, assessment, assessment-validity, academic-integrity, cognitive-offloading, curriculum-design, higher-ed, problem-solving, transfer-of-learning]
 sources: ['raw/papers/2609.05719.md']
 confidence: high
+research_method: [case study, survey]
+discipline: [physics education]
+audience: [instructors, researchers, curriculum designers]
+level: [higher ed]
+category: [assessment, curriculum design]
 ---
 
 > **Synthesis:** [[generative-ai]] can now produce correct solutions to standard [[physics-education]] homework, severing the link between a submitted answer and a student's independent capability. Reporting on a redesign of the introductory nuclear and particle physics course (KT1) at Ruhr University Bochum, Mikhasenko et al. permitted AI alongside traditional tools on unusually difficult, [[research-methods-aied|research]]-shaped assignments, and found that most of the 42 enrolled students stayed engaged and produced ambitious work — yet the course did not reliably secure its foundational objective. A mid-semester survey showed frequent [[llm]] use, low self-reported preparedness for the required computer fluency, and divided attitudes toward prompts-resistant tasks, while an unaided written examination (mean 20.6 out of 80, only two students reaching 40) gave a confounded but serious warning about [[transfer-of-learning]] to independent performance. The authors conclude that assisted performance and independently retrievable knowledge are distinct achievements, and recompute assessment priorities around unaided [[problem-solving]] and early [[ai-literacy]].

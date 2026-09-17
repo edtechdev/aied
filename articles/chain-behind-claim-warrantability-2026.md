@@ -8,6 +8,7 @@ research_method: [position paper]
 audience: [researchers]
 level: [higher ed]
 confidence: medium
+category: [framework]
 sources: ['raw/papers/chain-behind-claim-warrantability-2026.md']
 ---
 

@@ -10,6 +10,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/student-genai-use-views-writing.md']
 confidence: high
+discipline: [writing education]
 ---
 
 > **Synthesis:** Kuznetsov, Sheely and Baker (2026) surveyed 504 sociology students and interviewed 12 more to find out how students actually use [[generative-ai|generative AI]] for coursework and writing. Two thirds use it, but selectively — asking follow-up questions about course content, summarizing readings and generating practice questions dominate, while generating assignment text is rare. The sharpest finding is a guidance gap: 81 percent of students had been given some instructions about AI use, yet only 46 percent found them very clear, and about one in four reported no guidance or unclear guidance. The authors argue the fix is not detection but explicit, course-level [[educational-policy-ai|policy]] paired with [[scaffolding]] that removes the pressures pushing students toward AI.

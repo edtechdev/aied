@@ -42,7 +42,42 @@ category: [theoretical framework]  # optional
 
 **`tags` is the CONCEPT VOCABULARY (2026-08-29).** Every value in `tags` MUST be a concept slug (a file in `concepts/`). Tags are rendered as clickable links to their concept pages. If a topic isn't yet a concept, create the concept page first OR fold it into the nearest existing concept — do not invent non-concept tags. Non-concept metadata goes into the structured fields below instead.
 
-**Structured metadata fields (optional, added 2026-08-29):** `research_method`, `discipline`, `audience`, `level`, and `category` hold non-concept metadata that was formerly mixed into `tags`. These are free-form arrays of hyphenated or spaced phrases; each value should be natural language (e.g. `research_method: [systematic review]`, `discipline: [math education]`). A topic may appear BOTH as a concept tag AND in a metadata field where applicable (e.g. `systematic-review` maps to concept `meta-analysis-systematic-review` in `tags` AND `research_method: [systematic review]`). These fields are inert in the UI until surfaced as facets.
+**Structured metadata fields (optional, added 2026-08-29):** `research_method`, `discipline`, `audience`, `level`, and `category` hold non-concept metadata that was formerly mixed into `tags`. A topic may appear BOTH as a concept tag AND in a metadata field where applicable (e.g. `systematic-review` maps to concept `meta-analysis-systematic-review` in `tags` AND `research_method: [systematic review]`). These fields drive the search page filter facets.
+
+**These are CLOSED vocabularies, not free-form text.** The authoritative lists live in
+`src/content.config.ts`, and the Astro build rejects any page carrying a value outside them, so a
+typo fails the build rather than silently creating a one-page facet. The lists are reproduced
+below for convenience and checked against the schema by
+`python3 tooling/scripts/audit-metadata.py --check-docs`, which fails if this block drifts.
+
+Each field is optional and each value must be chosen from its list. **Omitting a field is the
+correct answer when nothing fits**: a study with no disciplinary home should omit `discipline`
+rather than be forced into the nearest one, and an opinion piece may have no `level`. Use 1-3
+values per field, most specific first.
+
+<!-- BEGIN GENERATED VOCABULARIES (source: src/content.config.ts) -->
+```
+research_method: action design research | benchmark | bibliometric | case study | delphi | design and evaluation study | design-based research | educational measurement | experiment | instrument development | interviews | learning analytics | literature review | longitudinal | longitudinal study | longitudinal survey | meta-analysis | mixed methods | policy analysis | position paper | process-outcome modeling | qualitative | quantitative | quasi-experiment | randomized controlled trial | research methods | secondary analysis | structural equation modeling | survey | system development | systematic review | thematic analysis | theoretical analysis | user study
+discipline: biology education | business education | chemistry education | cs education | design education | engineering education | english education | humanities education | information technology | language learning | learning analytics | learning sciences | math education | medical education | nursing education | physics education | science education | stem education | vocational education | writing education
+audience: administrators | assessment designers | assessment professionals | curriculum designers | designers | edtech designers | educators | faculty development | institutions | instructional designers | instructors | learners | learning analytics designers | learning designers | medical educators | policymakers | researchers | software developers | students | teacher educators | teachers
+level: adult learning | early childhood | elementary | higher ed | k 12 | secondary | special education | teacher training
+category: ai foundations | assessment | collaborative learning | curriculum design | design thinking | engagement | equity | evaluation | framework | instructional design | policy | synthesis
+```
+<!-- END GENERATED VOCABULARIES -->
+
+Check the current coverage and any violation without a full build:
+
+```
+python3 tooling/scripts/audit-metadata.py             # coverage per collection + violations
+python3 tooling/scripts/audit-metadata.py --strict     # non-zero exit on a violation
+python3 tooling/scripts/audit-metadata.py --missing research_method
+```
+
+`research_method`, `audience` and `level` are expected on article pages unless the article
+genuinely gives no basis; `discipline` and `category` are expected only where they clearly apply.
+Adding a new value is a deliberate act: add it to `src/content.config.ts` first, then update the
+block above, and prefer extending the list over inventing a near-duplicate of an existing value.
+
 
 `connected_faqs` (concepts and articles only, optional) lists FAQ slugs the page should link to in a
 **Connected FAQs** section at the bottom of the page. The section renders only when at least one

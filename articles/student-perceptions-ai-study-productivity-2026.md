@@ -6,6 +6,7 @@ updated: "2026-09-17T09:40:00-04:00"
 tags: [student-experience, generative-ai, higher-ed, self-report-measures, cognitive-offloading, critical-thinking, academic-integrity, learning-gains, ai-literacy]
 sources: ['raw/papers/student-perceptions-ai-study-productivity-2026.md']
 confidence: high
+category: [engagement, ai foundations]
 research_method: [survey]
 level: [higher ed]
 audience: [learners, researchers]

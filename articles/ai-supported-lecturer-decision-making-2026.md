@@ -4,6 +4,7 @@ type: article
 tags: [learning-analytics, teacher-role, assessment, feedback, learning-design, higher-ed]
 sources: ['raw/papers/ai-supported-lecturer-decision-making-2026.md']
 confidence: high
+discipline: [learning analytics]
 research_method: [systematic review, qualitative]
 audience: [instructors, researchers, administrators, learning designers]
 level: [higher ed]

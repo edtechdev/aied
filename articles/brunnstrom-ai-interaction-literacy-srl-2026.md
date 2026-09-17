@@ -10,6 +10,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/brunnstrom-ai-interaction-literacy-srl-2026.md']
 confidence: high
+discipline: [humanities education]
 ---
 
 > **Synthesis:** **AI-interaction literacy** — Brunnström and Palmqvist (2026) run an eight-round demonstration in which they take the role of a naive student using a [[generative-ai|GenAI]] [[conversational-ai|chatbot]] on a take-home examination question ("Do machines think?"), then analyze the *interaction itself* with the SOLO taxonomy rather than grading the AI's answer. The default output stayed at the [[quantitative-research|quantitative]], multistructural phase — "polished but pedagogically thin" text that a novice could submit without understanding — and reaching the [[qualitative-research|qualitative]] phase required repeated meta-level interventions from the learner ("simplify", "this is overwhelming, can you condense it?"). Their central claim: productive GenAI use demanded *the very [[self-regulated-learning|self-regulatory skills]] the tool was expected to support*, so the interaction itself became an object of [[regulation]]. The paper names this capacity **AI-interaction literacy** — the ability to steer, evaluate, and learn from iterative interaction with GenAI — and proposes that [[assessment|take-home assessments]] emphasise the qualitative phase while recall-based knowledge moves to in-class formats.

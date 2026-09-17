@@ -8,6 +8,8 @@ audience: [researchers, instructors, administrators, curriculum designers]
 research_method: [structural equation modeling, survey, quantitative]
 sources: ['raw/papers/10.3389_fpsyg.2026.1892204.md']
 confidence: high
+level: [higher ed]
+category: [engagement]
 ---
 
 > **Synthesis:** Wang (2026) tests a moderated mediation model on 1,198 [[higher-ed|undergraduates]] from four universities in Zhengzhou, China, showing that [[ai-literacy|AI literacy]] not only directly predicts [[student-engagement|learning engagement]] but also works indirectly by building psychological capital — a resource-transformation chain in which a technological cognitive resource becomes a psychological resource and then a behavioral one. Drawing on Conservation of Resources Theory with [[self-determination-theory|Self-Determination Theory]] and Broaden-and-Build as complements, the study finds that [[learner-identity|professional commitment]] does not itself drive engagement but acts as a contextual amplifier, roughly doubling the efficiency with which psychological capital converts into engagement. The finding reframes AI literacy training as necessary but insufficient: its educational payoff depends on simultaneous psychological and identity work.

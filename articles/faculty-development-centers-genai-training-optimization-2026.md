@@ -9,6 +9,8 @@ audience: [faculty development, instructors, administrators, teacher educators, 
 research_method: [mixed methods, quasi-experiment, survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1890508.md']
 confidence: high
+level: [higher ed]
+category: [instructional design]
 ---
 
 > **Synthesis:** A [[mixed-methods-research|mixed-methods]] field study compared [[generative-ai|GenAI]] pedagogical readiness among faculty at three Chinese and two Kazakhstani universities, then tested whether a structured [[prompt-engineering|prompt-task]] training cycle outperformed conventional GenAI workshops in a quasi-experimental subsample. Kazakhstani faculty reported higher baseline readiness on all seven dimensions, but that country advantage shrank to nothing once GenAI exposure, recent AI training, institutional support, perceived permission, [[multilingual-learning|multilingual resource access]], policy clarity, and risk sensitivity were taken into account. The structured group improved far more than the conventional group, especially in prompt design and critical judgment, and only the structured group's prompt-design gains held up at delayed testing. The authors frame [[educational-development|faculty development]] for GenAI as course-level [[professional-training|professional learning]] embedded in real course artifacts rather than tool familiarisation.

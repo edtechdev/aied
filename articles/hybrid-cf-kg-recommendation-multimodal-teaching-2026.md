@@ -8,6 +8,8 @@ audience: [software developers, researchers]
 research_method: [benchmark]
 sources: ['raw/papers/10.1016_j.caeai.2026.100678.md']
 confidence: high
+discipline: [language learning]
+category: [instructional design]
 ---
 
 > **Synthesis:** Liu, Sun, and Song (2026) propose a hybrid recommender that couples a pedagogically structured [[knowledge-graph]] with behavior-aware collaborative filtering to personalize [[multimodal]] [[language-learning|English]] teaching-resource recommendation. Resources, concepts, and learner attributes are organized into four instructional dimensions — teaching context, cognitive level, technological feature, and cultural adaptability — whose user-dependent similarities are fused with a feature-based collaborative-filtering prediction through an ability- and progress-aware coefficient. On the English subset of the MARS dataset the model outperforms eight baselines (including the knowledge-graph-aware RippleNet and KGAT) on NDCG, hit rate, coverage, and cross-domain accuracy, and proves robust to partial modality removal.

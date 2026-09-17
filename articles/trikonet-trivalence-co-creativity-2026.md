@@ -6,6 +6,9 @@ type: article
 tags: [creativity, pedagogical-agent, sociocultural-learning, generative-ai, agency, collaborative-learning, design-based-research]
 sources: ['raw/papers/trikonet-trivalence-co-creativity-2026.md']
 confidence: high
+research_method: [design-based research]
+audience: [researchers, designers]
+category: [framework, collaborative learning]
 ---
 
 > **Synthesis:** Ruhland introduces TriKoNet, an Actor-Network Theory-based model that conceptualizes [[creativity]] not as an individual attribute but as an emergent effect of socio-technical networks, modeling it as a processual triadic interplay of stabilization, destabilization, and re-stabilization among human and non-human actors. In an exploratory two-phase study, [[pedagogy|pedagogical]] avatars were designed within a creative network, and the analysis reconstructs how the designs emerged through problematization, interessement, enrollment, and mobilisation. TriKoNet allows diagnosing how technical artifacts — including [[generative-ai|generative AI]] systems and [[agentic-ai|AI agents]], conceptualized as equal, constitutive network participants — stabilize, destabilize, or re-stabilize creative learning processes, yielding four preliminary design principles and a modular design framework.
