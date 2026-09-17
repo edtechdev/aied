@@ -3,7 +3,6 @@ title: "Marked Pedagogies: Examining Linguistic Biases in Personalized Automated
 created: "2026-08-21T08:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [writing-education, automated-assessment, bias-mitigation, equity-in-ai-education, feedback, personalized-learning, generative-ai, k-12, ai-feedback-quality]
 technology: [generative-ai, personalized-learning]
 assessment: [ai-feedback-quality, automated-assessment, feedback]
 ethics: [bias-mitigation, equity-in-ai-education]

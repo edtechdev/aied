@@ -3,7 +3,6 @@ title: "Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated Wor
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [authentic-assessment, ai-detection, academic-integrity, assessment, generative-ai, higher-ed, self-regulated-learning, metacognition, ai-literacy, assessment-validity]
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]
@@ -13,7 +12,6 @@ research_method: [theoretical analysis, position paper]
 level: [higher ed]
 sources: ['raw/papers/beyond-detection-authentic-assessment-ai-2025.md']
 confidence: high
-
 ---
 
 > **Synthesis:** Kickbusch, Ashford-Rowe, Kemp, Boreland, and Huijser (2025) argue the dominant [[governance|institutional]] response to [[generative-ai|generative AI]] in [[assessment]] — surveillance and AI detection — **misdiagnoses the problem**: in an AI-mediated world, [[authentic-assessment|authenticity]] cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, and offer discipline-agnostic "design for learning" patterns that position AI as a collaborator rather than a cheating application.

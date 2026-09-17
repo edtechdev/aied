@@ -3,11 +3,10 @@ title: CS Education
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T14:13:57-04:00"
 type: concept
-tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, cs-education]
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
 assessment: [automated-assessment]
-discipline: [stem education]
+discipline: [stem education, cs education]
 level: [higher ed, k 12]
 
 confidence: high

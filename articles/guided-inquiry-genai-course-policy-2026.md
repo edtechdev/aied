@@ -3,7 +3,6 @@ title: "A Guided Inquiry Approach to Students Co-Designing Generative AI Course 
 created: "2026-08-31T09:06:11-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
-tags: [generative-ai, ai-education, governance, agency, higher-ed, ai-literacy, teacher-role, student-engagement, ethics, curriculum-design]
 foundations: [agency, ai-education, ai-literacy, curriculum-design, teacher-role]
 pedagogy: [student-engagement]
 technology: [generative-ai]

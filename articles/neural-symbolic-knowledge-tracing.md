@@ -3,7 +3,6 @@ title: Neural-Symbolic Knowledge Tracing
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [intelligent-tutoring, learning-analytics, adaptive-learning, pedagogical-safety, mastery-learning, pedagogical-llm-training, student-experience, rag, machine-learning]
 pedagogy: [mastery-learning]
 technology: [adaptive-learning, intelligent-tutoring, learning-analytics, machine-learning, pedagogical-llm-training, rag]
 stakeholders: [pedagogical-safety, student-experience]

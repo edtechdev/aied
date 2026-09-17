@@ -3,7 +3,6 @@ title: "Psychological Profiles Associated with Trust in Artificial Intelligence 
 created: "2026-09-16T08:12:19-04:00"
 updated: "2026-09-16T08:12:19-04:00"
 type: article
-tags: [trust, trust-calibration, ai-anxiety-and-stress, well-being, self-efficacy, machine-learning, technology-acceptance-model, higher-ed, self-report-measures, equity-in-ai-education, learning-analytics]
 pedagogy: [self-efficacy, well-being]
 technology: [learning-analytics, machine-learning]
 assessment: [self-report-measures]

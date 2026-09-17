@@ -3,7 +3,6 @@ title: "Artificial intelligence and feedback in university education: effectiven
 created: "2026-07-19T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [generative-ai, feedback, higher-ed, student-experience, learning-gains, formative-assessment, ai-literacy, rag, scaffolding, llm]
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, llm, rag]

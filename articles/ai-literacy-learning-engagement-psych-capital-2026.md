@@ -3,7 +3,6 @@ title: "The impact of artificial intelligence literacy on learning engagement am
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [ai-literacy, student-engagement, self-efficacy, motivation, learner-identity, career-development-and-readiness, higher-ed, self-determination-theory]
 foundations: [ai-literacy, learner-identity]
 pedagogy: [motivation, self-determination-theory, self-efficacy, student-engagement]
 stakeholders: [career-development-and-readiness]

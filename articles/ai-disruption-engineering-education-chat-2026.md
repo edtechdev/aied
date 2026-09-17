@@ -3,7 +3,6 @@ title: "The AI Disruption in Engineering Education: Changing Student Norms Throu
 created: "2026-08-26T08:13:00-04:00"
 updated: "2026-08-26T08:13:00-04:00"
 type: article
-tags: [activity-theory-aied, engineering-education, higher-ed, generative-ai, student-experience, teacher-role, ethics]
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied]
 technology: [generative-ai]

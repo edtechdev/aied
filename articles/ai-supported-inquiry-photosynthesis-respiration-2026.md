@@ -3,7 +3,6 @@ title: "AI-Supported Inquiry-Based Learning in Photosynthesis and Respiration: I
 created: "2026-08-24T08:46:00-04:00"
 updated: "2026-09-12T09:15:00-04:00"
 type: article
-tags: [inquiry-based-learning, teacher-education, science-education, computational-thinking, ai-literacy, biology-education, generative-ai]
 foundations: [ai-literacy, computational-thinking]
 pedagogy: [inquiry-based-learning]
 technology: [generative-ai]

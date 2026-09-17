@@ -3,7 +3,6 @@ title: "Estimating Item Difficulty Using Large Language Models and Tree-Based Ma
 created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [item-response-theory, educational-measurement, llm, machine-learning, k-12, assessment, automated-question-generation, psychometrically-aware-ai, math-education, educational-nlp]
 technology: [educational-nlp, llm, machine-learning]
 assessment: [assessment, automated-question-generation, educational-measurement, item-response-theory, psychometrically-aware-ai]
 sources: ['raw/papers/razavi-powers-item-difficulty-llm-2026.md']
@@ -11,7 +10,7 @@ confidence: high
 research_method: [educational measurement, benchmark]
 discipline: [math education, english education]
 audience: [assessment professionals, researchers, assessment designers]
-level: [elementary]
+level: [elementary, k 12]
 page_kind: [evaluation]
 ---
 

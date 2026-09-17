@@ -3,7 +3,6 @@ title: "Thoughtless Use of Generative Artificial Intelligence and College Studen
 created: "2026-08-20T06:30:00-04:00"
 updated: "2026-08-20T07:45:00-04:00"
 type: article
-tags: [generative-ai, self-directed-learning, cognitive-offloading, self-efficacy, motivation, self-regulated-learning, higher-ed, equity-in-ai-education]
 foundations: [cognitive-offloading]
 pedagogy: [motivation, self-directed-learning, self-efficacy, self-regulated-learning]
 technology: [generative-ai]

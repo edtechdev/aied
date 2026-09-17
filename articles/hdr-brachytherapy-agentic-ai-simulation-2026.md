@@ -3,7 +3,6 @@ title: "Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Traini
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
-tags: [simulation, medical-education, rag, agentic-ai, professional-training, multimodal, personalized-learning]
 foundations: [agentic-ai]
 technology: [multimodal, personalized-learning, rag, simulation]
 stakeholders: [professional-training]

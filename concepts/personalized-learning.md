@@ -3,7 +3,6 @@ title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 type: concept
-tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 foundations: [ai-education]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]

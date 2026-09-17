@@ -3,7 +3,6 @@ title: "Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Po
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
-tags: [generative-ai, adaptive-learning, mastery-learning, student-experience]
 pedagogy: [mastery-learning]
 technology: [adaptive-learning, generative-ai]
 stakeholders: [student-experience]

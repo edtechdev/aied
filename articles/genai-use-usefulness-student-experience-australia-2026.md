@@ -3,7 +3,6 @@ title: "The Use and Usefulness of GenAI in Higher Education: Student Experience 
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: ["student-experience", "generative-ai", "higher-ed", "ai-literacy", "academic-integrity", "equity-in-ai-education", "trust"]
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
 stakeholders: [student-experience]

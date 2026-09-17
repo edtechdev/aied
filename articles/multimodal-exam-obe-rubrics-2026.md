@@ -3,7 +3,6 @@ title: "Multimodal Examination Answer Data with Expert-Designed Outcome-Based Ed
 created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [automated-assessment, assessment, educational-measurement, multimodal, higher-ed, benchmark]
 technology: [multimodal]
 assessment: [assessment, automated-assessment, benchmark, educational-measurement]
 audience: [software developers]

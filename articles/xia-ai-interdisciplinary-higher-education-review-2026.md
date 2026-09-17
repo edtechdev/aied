@@ -3,7 +3,6 @@ title: "Artificial intelligence in interdisciplinary higher education: A systema
 created: "2026-09-14T05:10:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [ai-education, higher-ed, meta-analysis-systematic-review, discipline-specific-aied, human-ai-collaboration, equity-in-ai-education, stem-education, ethics]
 foundations: [ai-education, human-ai-collaboration]
 assessment: [meta-analysis-systematic-review]
 ethics: [equity-in-ai-education, ethics]
@@ -13,6 +12,7 @@ page_kind: [framework, synthesis]
 audience: [researchers, educators, policymakers]
 sources: ['raw/papers/xia-ai-interdisciplinary-higher-education-review-2026.md']
 confidence: high
+discipline: [stem education]
 ---
 
 > **Synthesis:** Xia, Zhang, Xing, Andic, and Chiu (2026) report a PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 59 studies examining how [[generative-ai|generative AI]] and other [[ai-technologies|AI technologies]] are reshaping interdisciplinary education in [[higher-ed|higher education]]. Across four research questions the review maps six forms of interdisciplinary practice, three dominant research focuses, four functional AI roles — evaluator, agent, monitor and assistant — and stakeholder-level impacts on cognition, behavior and emotion. Its central contribution is an interdisciplinary [[human-ai-collaboration|human-AI interactive learning]] model organized around boundary mediation and knowledge integration, role and capability distribution, [[equity-in-ai-education|ethical and equity governance]], and teacher agency and sustainable design. The review finds AI most often positioned as an assistant (43 of 59 studies) and an evaluator (22), yet warns that much interdisciplinary design lacks depth and contextual grounding, that AI introduces accuracy, [[bias-mitigation|bias]], [[privacy]] and [[cognitive-offloading|overreliance]] risks, and that human-centered curricular models struggle with scalability and generalisability. It concludes that integration must be institutionally guided rather than technology-driven, foregrounding [[educational-development|professional development]], equitable access and alignment with [[sustainability]] and global citizenship goals.

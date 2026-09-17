@@ -3,7 +3,6 @@ title: "Assessment Design Through Co-Creation: Student-Staff Partnership in Eval
 created: "2026-08-31T09:45:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [pedagogical-partnerships, generative-ai, assessment, formative-assessment, medical-education, higher-ed, self-regulated-learning, student-engagement]
 pedagogy: [pedagogical-partnerships, self-regulated-learning, student-engagement]
 technology: [generative-ai]
 assessment: [assessment, formative-assessment]

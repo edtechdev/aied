@@ -3,7 +3,6 @@ title: "AI Literacy in Secondary Education: Framework, Assessment, and Professio
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
-tags: ["ai-literacy", "k-12", "teacher-ai-competency", "professional-training", "educational-development", "generative-ai", "global-south"]
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai]
 stakeholders: [professional-training, teacher-ai-competency]

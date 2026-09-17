@@ -3,7 +3,6 @@ title: "The impact of risk perception on perceived benefits of generative artifi
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [technology-acceptance-model, generative-ai, higher-ed, trust, privacy, hallucination-risk]
 technology: [generative-ai]
 stakeholders: [technology-acceptance-model]
 ethics: [hallucination-risk, privacy, trust]

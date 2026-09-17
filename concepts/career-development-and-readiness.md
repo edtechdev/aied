@@ -3,10 +3,9 @@ title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
 updated: "2026-09-10T15:28:00-04:00"
 type: concept
-tags: [adult-learning, ai-anxiety-and-stress, professional-training, higher-ed, ai-literacy]
 foundations: [ai-literacy]
 stakeholders: [ai-anxiety-and-stress, professional-training]
-level: [higher ed]
+level: [higher ed, adult learning]
 confidence: high
 ---
 

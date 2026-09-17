@@ -3,7 +3,6 @@ title: "Systematic Review of Collaborative Learning Activities for Promoting AI 
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [ai-literacy, collaborative-learning, learning-design, k-12, llm, higher-ed]
 foundations: [ai-literacy, learning-design]
 pedagogy: [collaborative-learning]
 technology: [llm]

@@ -3,7 +3,6 @@ title: "ChatGPT in Education: An Effect in Search of a Cause"
 created: "2026-09-05T12:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: ['generative-ai', 'research-methods-aied', 'meta-analysis-systematic-review', 'limitations-in-aied-research', 'ai-ed-evaluation', 'llm', 'intelligent-tutoring', 'learning-gains']
 foundations: [limitations-in-aied-research]
 technology: [generative-ai, intelligent-tutoring, llm]
 assessment: [ai-ed-evaluation, learning-gains, meta-analysis-systematic-review, research-methods-aied]

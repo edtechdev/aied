@@ -3,11 +3,10 @@ title: "Reimagining the Philosophy of Experimentation in Chemistry Education: Em
 created: "2026-08-19T12:50:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
-tags: [chemistry-education, philosophy-of-ai-in-education, critical-thinking, learning-theories, human-ai-collaboration, science-education]
 foundations: [critical-thinking, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 research_method: [theoretical analysis]
-discipline: [chemistry education]
+discipline: [chemistry education, science education]
 sources: ['raw/papers/philosophy-experimentation-ai-chemistry-2026.md']
 confidence: high
 audience: [researchers, instructors]

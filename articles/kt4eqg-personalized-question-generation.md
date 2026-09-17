@@ -3,7 +3,6 @@ title: "KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing"
 created: "2026-05-28T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [adaptive-learning, automated-assessment, intelligent-tutoring, learning-analytics, llm, personalized-learning, generative-ai, higher-ed, automated-question-generation]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
 assessment: [automated-assessment, automated-question-generation]
 research_method: [benchmark, system development]

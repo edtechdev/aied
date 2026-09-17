@@ -3,7 +3,6 @@ title: "The Reflective Triangle Model: AI as a Cognitive Mediator in Teachers' P
 created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
-tags: [teacher-role, teacher-education, professional-training, educational-development, teacher-ai-competency, ai-education]
 foundations: [ai-education, educational-development, teacher-role]
 stakeholders: [professional-training, teacher-ai-competency]
 research_method: [case study]

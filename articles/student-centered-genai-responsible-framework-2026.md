@@ -3,7 +3,6 @@ title: "A Student-Centered Framework for Responsible Use of Generative AI in Hig
 created: "2026-08-31T09:06:11-04:00"
 updated: "2026-08-31T09:06:11-04:00"
 type: article
-tags: [generative-ai, higher-ed, ai-literacy, academic-integrity, self-regulated-learning, ethics, agency, governance, trust-calibration]
 foundations: [academic-integrity, agency, ai-literacy]
 pedagogy: [self-regulated-learning]
 technology: [generative-ai]

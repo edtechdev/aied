@@ -3,7 +3,6 @@ title: "Ethics Training Agents: Facilitating Group-Based Ethics Education with R
 created: "2026-09-11T09:20:00-04:00"
 updated: "2026-09-11T09:20:00-04:00"
 type: article
-tags: [ethics, collaborative-learning, group-work, pedagogical-agent, agentic-ai, simulation, human-ai-collaboration, stem-education, higher-ed]
 foundations: [agentic-ai, human-ai-collaboration]
 pedagogy: [collaborative-learning]
 technology: [pedagogical-agent, simulation]

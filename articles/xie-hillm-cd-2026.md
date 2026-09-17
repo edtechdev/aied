@@ -3,7 +3,6 @@ title: "HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis"
 created: "2026-08-09T10:38:47-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [cognitive-diagnosis, knowledge-tracing, student-modeling, llm, generative-ai, adaptive-learning, personalized-learning, ai-education, learning-analytics]
 foundations: [ai-education]
 technology: [adaptive-learning, cognitive-diagnosis, generative-ai, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [software developers]

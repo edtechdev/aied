@@ -3,7 +3,6 @@ title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: concept
-tags: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, reinforcement-learning, bias-mitigation, ai-sycophancy, k-12, llm]
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 stakeholders: [pedagogical-safety]
 ethics: [ai-sycophancy, bias-mitigation]

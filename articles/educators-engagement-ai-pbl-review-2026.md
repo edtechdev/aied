@@ -3,7 +3,6 @@ title: 'A Systematic Review of Educators'' Engagement with AI in Problem-Based L
 created: "2026-08-20T06:50:00-04:00"
 updated: "2026-08-20T07:45:00-04:00"
 type: article
-tags: [problem-based-learning, meta-analysis-systematic-review, generative-ai, teacher-role, usability-research, educational-policy-ai, higher-ed]
 foundations: [teacher-role]
 pedagogy: [problem-based-learning]
 technology: [generative-ai]

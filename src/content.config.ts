@@ -19,7 +19,8 @@ const timeField = z
   .transform(v => (v instanceof Date ? v.toISOString() : String(v)));
 
 // ==== Editorial validation (2026-09-05) ====
-// `tags` must be real concept slugs. `concepts/` is committed (unlike raw/),
+// Concept references are typed: each facet field accepts only the concept slugs of
+// one registry section. `concepts/` is committed (unlike raw/),
 // so we derive the authoritative slug set at load time from the concepts dir.
 const CONCEPT_SLUGS = new Set(
   readdirSync(conceptsDir)
@@ -57,8 +58,8 @@ const rawSourcePath = z
   });
 
 // Optional structured metadata fields (added 2026-08-29 tag migration).
-// `tags` is the concept vocabulary; these hold non-concept metadata that was
-// formerly mixed into `tags`. Normalized to a controlled vocabulary (2026-09-06):
+// These fields hold metadata that is not a concept: how the study was done, who it
+// is for, what educational level, and which kind of page this is. Normalized to a controlled vocabulary (2026-09-06):
 // audience/level/research_method/discipline/category are each restricted to a
 // fixed enum (see content.config.ts canonical arrays), mirroring the Sveltia CMS
 // select widgets. Kept lowercase space-separated so the raw token doubles as the
@@ -82,7 +83,7 @@ const structuredMeta = {
     // Typed facet fields (2026-09-17). Each mirrors one section of
     // concepts.registry.yaml, and its allowed values are exactly that section's
     // concept slugs (see src/data/facetVocab.ts, generated). This is the typed
-    // layer that `tags` is being migrated onto: a tag says which concepts a page
+    // layer that replaced the old per-page tag list: a facet value says which concepts a page
     // touches, a facet field says what KIND of concept it is, so the search
     // facets can ask "show me pedagogy studies" without scanning a mixed list.
     // Vocabulary drift is impossible in the direction that matters: a concept
@@ -197,11 +198,6 @@ const articles = defineCollection({
     title: z.string(),
     created: timeField,
     updated: timeField.optional().transform(v => v ?? ''),
-    tags: z
-      .array(z.string())
-      .refine(arr => arr.every(slug => CONCEPT_SLUGS.has(slug)), {
-        message: 'tags must be real concept slugs',
-      }),
     sources: z.array(rawSourcePath),
     confidence: z.enum(['high', 'medium', 'low']),
     source_url: z.string().optional(),
@@ -216,11 +212,6 @@ const concepts = defineCollection({
     title: z.string(),
     created: timeField,
     updated: timeField.optional().transform(v => v ?? ''),
-    tags: z
-      .array(z.string())
-      .refine(arr => arr.every(slug => CONCEPT_SLUGS.has(slug)), {
-        message: 'tags must be real concept slugs',
-      }),
     confidence: z.enum(['high', 'medium', 'low']),
     source_url: z.string().optional(),
     connected_faqs: connectedFaqs,
@@ -234,11 +225,6 @@ const faqs = defineCollection({
     title: z.string(),
     created: timeField,
     updated: timeField.optional().transform(v => v ?? ''),
-    tags: z
-      .array(z.string())
-      .refine(arr => arr.every(slug => CONCEPT_SLUGS.has(slug)), {
-        message: 'tags must be real concept slugs',
-      }),
     weight: z.number().catch(0).transform(v => Number.isFinite(v) ? v : 0).optional(),
     source_url: z.string().optional(),
     ...structuredMeta,

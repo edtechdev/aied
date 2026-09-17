@@ -3,7 +3,6 @@ title: "Acceptance of AI-Gamified Adaptive Learning in EFL: Bifactor Evidence fo
 created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-16T14:10:00-04:00"
 type: article
-tags: [language-learning, game-based-learning, adaptive-learning, technology-acceptance-model, educational-measurement]
 pedagogy: [game-based-learning]
 technology: [adaptive-learning]
 assessment: [educational-measurement]

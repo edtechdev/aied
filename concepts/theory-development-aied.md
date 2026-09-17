@@ -3,7 +3,6 @@ title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
-tags: [learning-theories, ai-education, limitations-in-aied-research, research-methods-aied]
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
 assessment: [research-methods-aied]

@@ -3,7 +3,6 @@ title: Item Response Theory
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 type: concept
-tags: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai]
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 research_method: [educational measurement]

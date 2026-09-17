@@ -3,7 +3,6 @@ title: "Designing Conversational Agents for Adaptive Instructional Support in Bu
 created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: ["conversational-ai", "game-based-learning", "business-education", "universal-design-for-learning", "self-regulated-learning", "adaptive-learning"]
 pedagogy: [game-based-learning, self-regulated-learning]
 technology: [adaptive-learning, conversational-ai]
 ethics: [universal-design-for-learning]

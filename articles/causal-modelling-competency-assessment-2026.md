@@ -3,7 +3,6 @@ title: "Causal Modelling of Support Interventions for Student Competency Assessm
 created: "2026-08-27T09:14:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [educational-measurement, student-modeling, assessment, item-response-theory, learning-analytics, adaptive-learning]
 technology: [adaptive-learning, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, item-response-theory]
 research_method: [educational measurement]

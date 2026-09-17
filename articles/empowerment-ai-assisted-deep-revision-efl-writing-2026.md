@@ -3,7 +3,6 @@ title: "Empowerment over enforcement: unpacking the psychological drivers of AI-
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [writing-education, language-learning, ai-literacy, motivation, self-efficacy, cognitive-offloading, feedback, self-regulated-learning, higher-ed]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
 assessment: [feedback]

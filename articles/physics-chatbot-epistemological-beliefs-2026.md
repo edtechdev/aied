@@ -3,13 +3,12 @@ title: "Students' Epistemological Beliefs and their Chatbot Preferences in AI-me
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T10:15:00-04:00"
 type: article
-tags: [physics-education, conversational-ai, socratic-method, ai-literacy, higher-ed, student-experience, generative-ai, stem-education, science-education]
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
 technology: [conversational-ai, generative-ai]
 stakeholders: [student-experience]
 research_method: [survey]
-discipline: [physics education, stem education]
+discipline: [physics education, stem education, science education]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.29385.md']

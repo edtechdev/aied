@@ -3,13 +3,12 @@ title: "AI-Assisted Autonomous Learning and Reduced Academic Accomplishment in V
 created: "2026-08-13T05:23:56-04:00"
 updated: "2026-08-13"
 type: article
-tags: [generative-ai, cognitive-offloading, ai-misuse-learning-harm, self-regulated-learning, higher-ed, motivation, adult-learning]
 foundations: [cognitive-offloading]
 pedagogy: [motivation, self-regulated-learning]
 technology: [generative-ai]
 ethics: [ai-misuse-learning-harm]
 research_method: [survey]
-level: [higher ed]
+level: [higher ed, adult learning]
 
 sources: ['raw/papers/10.3389_fpsyg.2026.1848291.md']
 confidence: high

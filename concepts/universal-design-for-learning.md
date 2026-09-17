@@ -3,7 +3,6 @@ title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: concept
-tags: [inclusive-learning, equity-in-ai-education, special-education, learning-design, student-experience]
 foundations: [learning-design]
 stakeholders: [student-experience]
 ethics: [equity-in-ai-education, inclusive-learning]

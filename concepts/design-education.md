@@ -3,7 +3,6 @@ title: "Design Education"
 created: "2026-09-17T14:04:29-04:00"
 updated: "2026-09-17T14:04:29-04:00"
 type: concept
-tags: [design-education, design-thinking, creativity, higher-ed, generative-ai, ai-literacy, professional-training, assessment-validity]
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity]
 technology: [generative-ai]

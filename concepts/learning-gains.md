@@ -3,7 +3,6 @@ title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
 updated: "2026-09-16T10:26:00-04:00"
 type: concept
-tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 assessment: [ai-ed-evaluation, assessment]
 stakeholders: [student-experience]
 audience: [learners]

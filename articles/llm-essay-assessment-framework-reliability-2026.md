@@ -3,7 +3,6 @@ title: "A Framework for Evaluation of Large Language Models in Essay Assessment:
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
-tags: ["automated-essay-scoring", "llm", "educational-nlp", "assessment-validity", "benchmark", "writing-education"]
 technology: [educational-nlp, llm]
 assessment: [assessment-validity, automated-essay-scoring, benchmark]
 research_method: [benchmark]

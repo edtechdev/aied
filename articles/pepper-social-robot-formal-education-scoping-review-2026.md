@@ -3,7 +3,6 @@ title: "Exploring the Implementation of the Pepper Social Robot in Formal Educat
 created: "2026-08-13T19:01:35-04:00"
 updated: "2026-08-13"
 type: article
-tags: [educational-robotics, k-12, higher-ed, teacher-role, inclusive-learning]
 foundations: [teacher-role]
 technology: [educational-robotics]
 ethics: [inclusive-learning]

@@ -3,7 +3,6 @@ title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: concept
-tags: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed]
 foundations: [academic-integrity]
 stakeholders: [educational-policy-ai, governance, pedagogical-safety]
 ethics: [equity-in-ai-education, ethics, privacy]

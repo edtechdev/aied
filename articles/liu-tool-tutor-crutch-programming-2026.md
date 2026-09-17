@@ -3,7 +3,6 @@ title: "Tool, Tutor, or Crutch?: A Grounded Theory of Cognitive Scaffolding and 
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-24T16:40:00-04:00"
 type: article
-tags: [generative-ai, cs-education, cognitive-offloading, scaffolding, metacognition, self-regulated-learning]
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai]

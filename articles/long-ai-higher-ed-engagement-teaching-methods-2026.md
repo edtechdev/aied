@@ -3,7 +3,6 @@ title: "Artificial intelligence in higher education: a systematic review of its 
 created: "2026-08-15T09:33:47-04:00"
 updated: "2026-08-24T17:20:00-04:00"
 type: article
-tags: [student-engagement, higher-ed, ai-education, active-learning, project-based-learning, scaffolding, feedback, generative-ai, digital-divide, meta-analysis-systematic-review]
 foundations: [ai-education]
 pedagogy: [active-learning, project-based-learning, scaffolding, student-engagement]
 technology: [generative-ai]

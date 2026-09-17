@@ -3,7 +3,6 @@ title: "GenAI as a Frenemy in Teaching: Perceived Autonomy and Risks"
 created: "2026-09-14T05:10:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [generative-ai, technology-acceptance-model, teacher-role, agency, human-ai-collaboration, academic-integrity, educational-development, cognitive-offloading, higher-ed]
 foundations: [academic-integrity, agency, cognitive-offloading, educational-development, human-ai-collaboration, teacher-role]
 technology: [generative-ai]
 stakeholders: [technology-acceptance-model]

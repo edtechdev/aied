@@ -3,7 +3,6 @@ title: "Opening the Blackbox of LLM-Based Automated Essay Scoring: Insights into
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
-tags: ["automated-essay-scoring", "llm", "educational-nlp", "assessment-validity", "writing-education"]
 technology: [educational-nlp, llm]
 assessment: [assessment-validity, automated-essay-scoring]
 research_method: [benchmark]

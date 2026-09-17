@@ -3,7 +3,6 @@ title: Student Use of and Views on GenAI for Writing
 created: "2026-09-12T08:05:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [student-ai-interaction, writing-education, academic-integrity, assessment, ai-literacy, teacher-role, feedback, higher-ed]
 foundations: [academic-integrity, ai-literacy, teacher-role]
 pedagogy: [student-ai-interaction]
 assessment: [assessment, feedback]

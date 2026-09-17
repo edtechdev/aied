@@ -3,7 +3,6 @@ title: "LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University"
 created: "2026-08-20T02:55:00-04:00"
 updated: "2026-08-24T05:01:00-04:00"
 type: article
-tags: [ai-literacy, higher-ed, curriculum-design, learning-design, generative-ai, human-in-the-loop-ai, agency, self-efficacy, prompt-engineering, educational-development]
 foundations: [agency, ai-literacy, curriculum-design, educational-development, learning-design]
 pedagogy: [self-efficacy]
 technology: [generative-ai, human-in-the-loop-ai, prompt-engineering]

@@ -3,12 +3,11 @@ title: "Cheating or not cheating? Rethinking AI-giarism and academic integrity t
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [academic-integrity, ai-misuse-learning-harm, ai-use-disclosure, k-12, ai-literacy, ethics, framing-ai-use-for-students, higher-ed]
 foundations: [academic-integrity, ai-literacy, framing-ai-use-for-students]
 ethics: [ai-misuse-learning-harm, ai-use-disclosure, ethics]
 audience: [learners, instructors]
 research_method: [qualitative]
-level: [secondary, k 12]
+level: [secondary, k 12, higher ed]
 sources: ['raw/papers/chan-rethinking-aigiarism-secondary-integrity-2026.md']
 confidence: high
 ---

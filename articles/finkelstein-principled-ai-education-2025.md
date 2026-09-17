@@ -3,7 +3,6 @@ title: Principled AI Education Framework
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [ai-literacy, curriculum-design, learning-design, generative-ai, sociocultural-learning, scaffolding, metacognition]
 foundations: [ai-literacy, curriculum-design, learning-design]
 pedagogy: [metacognition, scaffolding, sociocultural-learning]
 technology: [generative-ai]
@@ -11,7 +10,6 @@ audience: [instructors, administrators]
 research_method: [theoretical analysis]
 sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
 confidence: medium
-
 ---
 
 > **Synthesis:** **Principled AI Education Framework** — A principled way to think about [[ai-education|AI in education]]: guidance for educators and policy makers on action based on goals, models of human learning, and use of [[ai-technologies|technologies]]. Rather than focusing solely on the promise and peril of AI or its immediate implementation, this framework advances a third path — connecting broad educational goals to actionable practices through a set of explicit, scholarship-grounded principles.

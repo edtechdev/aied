@@ -3,7 +3,6 @@ title: "Prompts to Practice: A Pedagogical Framework for Human-Centered AI Engag
 created: "2026-09-14T11:12:30-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [prompt-engineering, ai-literacy, generative-ai, constructivist, critical-pedagogy, metacognition, human-ai-collaboration, higher-ed, academic-integrity, cognitive-offloading]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [constructivist, critical-pedagogy, metacognition]
 technology: [generative-ai, prompt-engineering]

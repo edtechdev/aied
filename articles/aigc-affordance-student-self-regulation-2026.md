@@ -1,7 +1,6 @@
 ---
 title: "AIGC Affordance and Student Self-Regulation: A Serial Mediation Model of Self-Efficacy and Learning Motivation"
 type: article
-tags: [self-regulated-learning, self-efficacy, motivation, generative-ai, higher-ed, feedback]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
 technology: [generative-ai]
 assessment: [feedback]

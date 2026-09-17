@@ -3,7 +3,6 @@ title: Training Pedagogical LLMs for Tutoring
 created: "2026-05-07T10:44:35-04:00"
 updated: "2026-09-15T11:40:00-04:00"
 type: concept
-tags: [llm, intelligent-tutoring, adaptive-learning, benchmark, ai-education, higher-ed, generative-ai, student-experience, scaffolding, k-12]
 foundations: [ai-education]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm]

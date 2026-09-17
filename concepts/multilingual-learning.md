@@ -3,7 +3,6 @@ title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
 updated: "2026-09-15T12:56:46-04:00"
 type: concept
-tags: [multilingual-learning, language-learning, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, llm]
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]

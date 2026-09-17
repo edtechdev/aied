@@ -3,7 +3,6 @@ title: "\"Young Scholar[s] on the Beat\": Multimodal Composition as a Form of Cr
 created: "2026-09-14T06:10:00-04:00"
 updated: "2026-09-14T06:10:00-04:00"
 type: article
-tags: [ai-literacy, critical-pedagogy, multimodal, ethics, agency, storytelling-in-education, student-engagement, creativity]
 foundations: [agency, ai-literacy]
 pedagogy: [creativity, critical-pedagogy, storytelling-in-education, student-engagement]
 technology: [multimodal]

@@ -3,7 +3,6 @@ title: Multimodal Learning with Generative AI
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [ai-education, higher-ed, generative-ai, multimodal, active-learning, scaffolding, feedback, assessment, pedagogical-llm-training, self-regulated-learning]
 foundations: [ai-education]
 pedagogy: [active-learning, scaffolding, self-regulated-learning]
 technology: [generative-ai, multimodal, pedagogical-llm-training]

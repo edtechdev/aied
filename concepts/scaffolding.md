@@ -4,7 +4,6 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-17T07:48:05-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
-tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, sociocultural-learning, socratic-method]
 technology: [intelligent-tutoring]

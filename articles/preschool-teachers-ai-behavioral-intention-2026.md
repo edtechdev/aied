@@ -4,7 +4,6 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/preschool-teachers-ai-behavioral-intention-2026.md"]
-tags: ['teacher-education', 'technology-acceptance-model', 'early-childhood-elementary-ai-education', 'quantitative-research', 'ai-anxiety-and-stress', 'self-efficacy']
 pedagogy: [self-efficacy]
 assessment: [quantitative-research]
 stakeholders: [ai-anxiety-and-stress, technology-acceptance-model]
@@ -12,7 +11,7 @@ connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 research_method: [survey, structural equation modeling, quantitative]
 audience: [administrators, teacher educators, edtech designers]
-level: [early childhood]
+level: [early childhood, teacher training]
 page_kind: [framework, evaluation]
 ---
 

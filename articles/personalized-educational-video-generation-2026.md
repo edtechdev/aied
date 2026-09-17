@@ -3,14 +3,13 @@ title: "Dynamic Learning Solutions: A System for Personalized Educational Video 
 created: "2026-09-15T10:30:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [personalized-learning, video-education, multimodal, rag, generative-ai, adaptive-learning, k-12, math-education, science-education, multilingual-learning]
 pedagogy: [video-education]
 technology: [adaptive-learning, generative-ai, multimodal, personalized-learning, rag]
 ethics: [multilingual-learning]
 sources: ['raw/papers/personalized-educational-video-generation-2026.md']
 confidence: high
 research_method: [system development, user study]
-discipline: science education
+discipline: [science education, math education]
 audience: [educators, learners]
 level: k 12
 ---

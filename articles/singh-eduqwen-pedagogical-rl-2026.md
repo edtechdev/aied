@@ -3,7 +3,6 @@ title: "EduQwen: Pedagogical RL"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [llm, pedagogical-safety, reinforcement-learning, pedagogical-llm-training, open-source, rag]
 technology: [llm, pedagogical-llm-training, rag, reinforcement-learning]
 stakeholders: [open-source, pedagogical-safety]
 audience: [software developers]

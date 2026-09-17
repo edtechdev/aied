@@ -3,7 +3,6 @@ title: Student Evaluation of Repeated AI Feedback Across a Semester of Writing
 created: "2026-07-20T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [generative-ai, llm, higher-ed, writing-education, feedback, cognitive-offloading, formative-assessment, ai-literacy, student-experience]
 foundations: [ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
 assessment: [feedback, formative-assessment]

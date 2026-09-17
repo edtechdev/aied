@@ -3,7 +3,6 @@ title: "ProPRL: Property-Aware Prerequisite Relation Learning in Educational Kno
 created: "2026-08-09T07:09:19-04:00"
 updated: "2026-09-16T14:32:03-04:00"
 type: article
-tags: [adaptive-learning, knowledge-tracing, student-modeling, ai-education, personalized-learning, llm]
 foundations: [ai-education]
 technology: [adaptive-learning, knowledge-tracing, llm, personalized-learning, student-modeling]
 research_method: [system development]

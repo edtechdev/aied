@@ -3,7 +3,6 @@ title: "Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writ
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [feedback, ai-feedback-quality, self-regulated-learning, formative-assessment, writing-education, ai-literacy, language-learning, higher-ed, generative-ai, simulation, scaffolding, metacognition]
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, simulation]

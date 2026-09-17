@@ -3,7 +3,6 @@ title: "Emergent Learner Agency in Implicit Human-AI Collaboration: How Supporti
 created: "2026-08-27T06:40:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [agency, human-ai-collaboration, agentic-ai, collaborative-learning, generative-ai, creativity]
 foundations: [agency, agentic-ai, human-ai-collaboration]
 pedagogy: [collaborative-learning, creativity]
 technology: [generative-ai]

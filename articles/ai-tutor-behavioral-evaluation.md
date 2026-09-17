@@ -3,7 +3,6 @@ title: "The Missing Evaluation Axis: What 10,000 Student Submissions Reveal Abou
 created: "2026-05-09T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [intelligent-tutoring, higher-ed, benchmark, student-engagement, llm, knowledge-tracing]
 pedagogy: [student-engagement]
 technology: [intelligent-tutoring, knowledge-tracing, llm]
 assessment: [benchmark]

@@ -3,7 +3,6 @@ title: Comprehensive Review of Intelligent Tutoring Systems
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [intelligent-tutoring, adaptive-learning, pedagogical-llm-training, educational-nlp, pedagogical-agent, scaffolding]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, educational-nlp, intelligent-tutoring, pedagogical-agent, pedagogical-llm-training]
 research_method: [literature review]

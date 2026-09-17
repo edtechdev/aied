@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
 import JsonLd from '../../components/JsonLd.astro';
+import MetadataTable from '../../components/MetadataTable.astro';
 import StarButton from '../../components/StarButton.astro';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
 
@@ -27,6 +28,9 @@ const allArticles = await getCollection('articles');
 
 
 const allConcepts = await getCollection('concepts');
+const conceptTitles: Record<string, string> = Object.fromEntries(
+  allConcepts.map((c) => [c.id.replace('.md', ''), c.data.title]),
+);
 
 // Tag chips show the concept's own title ("Well-Being", not "well being");
 // de-slugify only as a fallback, and skip long titles to keep chips short.
@@ -37,7 +41,9 @@ const articleSlugs = new Set(allArticles.map(a => a.id.replace('.md', '')));
 const conceptSlugs = new Set(allConcepts.map(c => c.id.replace('.md', '')));
 const faqSlugs = new Set(faqs.map(f => f.id.replace('.md', '')));
 
-const { title, tags, created, updated, research_method, discipline, audience, level, page_kind, foundations, pedagogy, technology, assessment, stakeholders, ethics } = faq.data;
+const { title, created, updated, research_method, discipline, audience, level, page_kind, foundations, pedagogy, technology, assessment, stakeholders, ethics } = faq.data;
+// JSON-LD keywords: the typed fields, which replaced the old per-page tag list.
+const metadataKeywords: string[] = [...(research_method || []), ...(discipline || []), ...(level || []), ...(audience || []), ...(foundations || []), ...(pedagogy || []), ...(technology || []), ...(assessment || []), ...(stakeholders || []), ...(ethics || []), ...(page_kind || []),];
 // Build PageFind filter facets from the structured metadata fields.
 // Emit one <meta> per name:value pair (PageFind parses only the LAST inline
 // filter in a comma-joined list, so each facet must be its own element).
@@ -76,7 +82,7 @@ const toc = rendered.headings.filter(h => h.depth <= 3);
     title={title}
     created={created}
     updated={updated}
-    tags={tags}
+    keywords={metadataKeywords}
     body={body}
   />
   <article data-pagefind-filter="page_type:faq">
@@ -87,9 +93,6 @@ const toc = rendered.headings.filter(h => h.depth <= 3);
       <div class="page-meta" style="color:var(--muted-color);font-size:0.9rem;margin-bottom:0.75rem;">
         <StarButton slug={slug} kind="faq" />
         created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
-        {(tags || []).map((tag: string, i: number) => (
-          <>{i > 0 ? ', ' : ' · '}<a class="tag-chip" href={`/aied/concepts/${tag}/`}>{tagLabel(tag)}</a></>
-        ))}
       </div>
     </div>
 
@@ -97,6 +100,7 @@ const toc = rendered.headings.filter(h => h.depth <= 3);
       <Fragment set:html={rendered.html} />
     </div>
 
+    <MetadataTable conceptTitles={conceptTitles} data={faq.data} />
     <SourceButtons filePath={`faqs/${faq.id}.md`} />
   </article>
 </BaseLayout>

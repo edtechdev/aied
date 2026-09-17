@@ -3,7 +3,6 @@ title: "Intelligent Tutoring in Dynamic Domains: A Graph-Based System for Compar
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-23T10:00:00-04:00"
 type: article
-tags: [intelligent-tutoring, adaptive-learning, knowledge-graph, self-regulated-learning, generative-ai, learning-gains]
 pedagogy: [self-regulated-learning]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, knowledge-graph]
 assessment: [learning-gains]

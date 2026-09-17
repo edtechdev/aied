@@ -3,7 +3,6 @@ title: "Incorporating Cognitive Load and Knowledge Transfer for Multi-Domain Kno
 created: "2026-08-26T09:00:00-04:00"
 updated: "2026-08-26T09:00:00-04:00"
 type: article
-tags: [knowledge-tracing, student-modeling, learning-analytics, adaptive-learning, generative-ai]
 technology: [adaptive-learning, generative-ai, knowledge-tracing, learning-analytics, student-modeling]
 research_method: [benchmark]
 sources: ['raw/papers/cognitive-load-transfer-knowledge-tracing-2026.md']

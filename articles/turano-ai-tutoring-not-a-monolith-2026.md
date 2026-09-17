@@ -3,7 +3,6 @@ title: "AI Tutoring is Not a Monolith: What We Actually Know"
 created: "2026-08-27T08:10:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [intelligent-tutoring, k-12, educational-policy-ai, guardrails, privacy, learning-gains, pedagogical-safety]
 technology: [intelligent-tutoring]
 assessment: [learning-gains]
 stakeholders: [educational-policy-ai, pedagogical-safety]

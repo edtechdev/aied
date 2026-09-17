@@ -3,7 +3,6 @@ title: "Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Less
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [edtech-platform, stem-education, higher-ed, professional-training, active-learning]
 pedagogy: [active-learning]
 stakeholders: [edtech-platform, professional-training]
 research_method: [system development, case study]

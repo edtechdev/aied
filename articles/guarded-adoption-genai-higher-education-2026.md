@@ -1,7 +1,6 @@
 ---
 title: "Guarded Adoption of Generative AI in Higher Education: High-Achieving Students, Successful-Student Identity and Epistemic Agency"
 type: article
-tags: [generative-ai, learner-identity, agency, critical-thinking, higher-ed, cognitive-offloading]
 foundations: [agency, cognitive-offloading, critical-thinking, learner-identity]
 technology: [generative-ai]
 sources: ['raw/papers/guarded-adoption-genai-higher-education-2026.md']

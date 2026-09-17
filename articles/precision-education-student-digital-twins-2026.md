@@ -3,7 +3,6 @@ title: "From Precision Medicine to Precision Education: A Vision for AI-Powered 
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
-tags: [adaptive-learning, student-modeling, personalized-learning, higher-ed, machine-learning, learning-analytics]
 technology: [adaptive-learning, learning-analytics, machine-learning, personalized-learning, student-modeling]
 research_method: [theoretical analysis]
 level: [higher ed]

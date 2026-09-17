@@ -3,13 +3,12 @@ title: "STEAM Education for AI Literacy: A Systematic Literature Review"
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [science-education, ai-literacy, k-12, meta-analysis-systematic-review, computational-thinking, ethics, stem-education, curriculum-design]
 foundations: [ai-literacy, computational-thinking, curriculum-design]
 assessment: [meta-analysis-systematic-review]
 ethics: [ethics]
 audience: [instructors, researchers]
 research_method: [systematic review]
-discipline: [stem education]
+discipline: [stem education, science education]
 level: [k 12]
 sources: ['raw/papers/niri-steam-ai-literacy-review-2026.md']
 confidence: high

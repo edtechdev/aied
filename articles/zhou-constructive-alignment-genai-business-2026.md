@@ -3,7 +3,6 @@ title: "From Experimentation to Integration: Embedding GenAI in Business Higher 
 created: "2026-08-20T08:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [generative-ai, business-education, higher-ed, curriculum-design, learning-design, assessment, change-management]
 foundations: [curriculum-design, learning-design]
 technology: [generative-ai]
 assessment: [assessment]

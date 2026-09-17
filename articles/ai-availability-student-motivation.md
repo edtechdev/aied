@@ -3,7 +3,6 @@ title: 'Why Put in This Much Effort?": How AI Availability Shapes Students’ Mo
 created: "2026-06-30T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [academic-integrity, higher-ed, llm, cognitive-offloading, student-experience]
 foundations: [academic-integrity, cognitive-offloading]
 technology: [llm]
 stakeholders: [student-experience]

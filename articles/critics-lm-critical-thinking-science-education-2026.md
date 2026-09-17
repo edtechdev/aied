@@ -3,7 +3,6 @@ title: "CRITICS - Critical Science Without Borders: Language Models to Promote C
 created: "2026-09-15T10:30:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [critical-thinking, multilingual-learning, science-education, language-learning, educational-nlp, feedback, equity-in-ai-education, digital-divide, assessment]
 foundations: [critical-thinking]
 technology: [educational-nlp]
 assessment: [assessment, feedback]
@@ -11,7 +10,7 @@ ethics: [digital-divide, equity-in-ai-education, multilingual-learning]
 sources: ['raw/papers/critics-lm-critical-thinking-science-education-2026.md']
 confidence: medium
 research_method: [position paper]
-discipline: science education
+discipline: [science education, language learning]
 audience: [researchers, educators, teachers, assessment designers]
 level: [higher ed, secondary]
 ---

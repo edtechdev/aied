@@ -3,7 +3,6 @@ title: "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where
 created: "2026-08-15T15:53:50-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [intelligent-tutoring, student-modeling, knowledge-graph, knowledge-tracing, ai-feedback-quality, ai-ed-evaluation, educational-measurement]
 technology: [intelligent-tutoring, knowledge-graph, knowledge-tracing, student-modeling]
 assessment: [ai-ed-evaluation, ai-feedback-quality, educational-measurement]
 audience: [software developers]

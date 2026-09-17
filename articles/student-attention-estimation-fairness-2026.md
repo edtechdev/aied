@@ -3,7 +3,6 @@ title: "Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Att
 created: "2026-09-03T09:00:00-04:00"
 updated: "2026-09-03T09:00:00-04:00"
 type: article
-tags: [learning-analytics, equity-in-ai-education, multimodal, affective-computing, student-engagement, assessment, ai-education]
 foundations: [ai-education]
 pedagogy: [student-engagement]
 technology: [affective-computing, learning-analytics, multimodal]

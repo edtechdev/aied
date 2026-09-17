@@ -3,7 +3,6 @@ title: "An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness
 created: "2026-09-11T09:35:00-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 type: article
-tags: [well-being, ai-anxiety-and-stress, conversational-ai, machine-learning, culturally-relevant-pedagogy, global-south, equity-in-ai-education, ethics, higher-ed]
 pedagogy: [well-being]
 technology: [conversational-ai, machine-learning]
 stakeholders: [ai-anxiety-and-stress]

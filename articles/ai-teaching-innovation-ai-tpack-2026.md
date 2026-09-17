@@ -3,7 +3,6 @@ title: "AI Teaching Innovation Behavior Among College Teachers: A Structural Equ
 created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [teacher-role, teacher-education, ai-literacy, technology-acceptance-model, higher-ed, ai-education]
 foundations: [ai-education, ai-literacy, teacher-role]
 stakeholders: [technology-acceptance-model]
 connected_faqs: [faculty-development-ai]
@@ -11,7 +10,7 @@ audience: [researchers, administrators, edtech designers]
 research_method: [survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1834827.md']
 confidence: high
-level: [higher ed]
+level: [higher ed, teacher training]
 page_kind: [framework]
 ---
 

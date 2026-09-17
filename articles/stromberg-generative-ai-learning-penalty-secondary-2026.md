@@ -3,7 +3,6 @@ title: "The Generative AI Learning Penalty: Evidence from Chinese Secondary Educ
 created: "2026-08-19T17:12:00-04:00"
 updated: "2026-09-16T15:13:06-04:00"
 type: article
-tags: [generative-ai, cognitive-offloading, reducing-ai-misuse, k-12, assessment, learning-gains, active-learning, rct, equity-in-ai-education]
 foundations: [cognitive-offloading, reducing-ai-misuse]
 pedagogy: [active-learning]
 technology: [generative-ai]

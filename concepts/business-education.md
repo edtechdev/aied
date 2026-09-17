@@ -3,7 +3,6 @@ title: Business Education
 created: "2026-08-20T09:05:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: concept
-tags: [ai-education, business-education, curriculum-design, generative-ai, higher-ed, discipline-specific-aied]
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
 discipline: [business education]

@@ -3,13 +3,12 @@ title: "Profiling cognitive offloading in LLM-mediated synthesis writing: Volume
 created: "2026-06-10T12:17:35-04:00"
 updated: "2026-09-16T17:12:13-04:00"
 type: article
-tags: [writing-education, llm, student-experience, higher-ed, ai-literacy, generative-ai, intelligent-tutoring, scaffolding, k-12, stem-education]
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm]
 stakeholders: [student-experience]
 research_method: [learning analytics, quantitative]
-discipline: [writing education]
+discipline: [writing education, stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high

@@ -3,7 +3,6 @@ title: Text Simplification for Intelligent Tutoring
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [intelligent-tutoring, language-learning, adaptive-learning, human-in-the-loop-ai, generative-ai, sociocultural-learning, ai-literacy]
 foundations: [ai-literacy]
 pedagogy: [sociocultural-learning]
 technology: [adaptive-learning, generative-ai, human-in-the-loop-ai, intelligent-tutoring]

@@ -3,7 +3,6 @@ title: "REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Tru
 created: "2026-05-28T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [automated-assessment, llm, formative-assessment, higher-ed, scaffolding, generative-ai, ai-literacy, assessment-validity]
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, llm]

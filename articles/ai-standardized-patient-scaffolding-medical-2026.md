@@ -3,7 +3,6 @@ title: Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System f
 created: "2026-09-11T09:20:00-04:00"
 updated: "2026-09-11T09:20:00-04:00"
 type: article
-tags: [medical-education, scaffolding, generative-ai, agentic-ai, simulation, socratic-method, formative-assessment, intelligent-tutoring, human-ai-collaboration, assessment-validity]
 foundations: [agentic-ai, human-ai-collaboration]
 pedagogy: [scaffolding, socratic-method]
 technology: [generative-ai, intelligent-tutoring, simulation]

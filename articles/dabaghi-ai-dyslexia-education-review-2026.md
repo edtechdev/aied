@@ -3,7 +3,6 @@ title: "Artificial intelligence to help people with dyslexia in education: An in
 created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [neurodiversity, special-education, inclusive-learning, assistive-technology, generative-ai, accessibility, meta-analysis-systematic-review, personalized-learning]
 technology: [generative-ai, personalized-learning]
 assessment: [meta-analysis-systematic-review]
 ethics: [accessibility, assistive-technology, inclusive-learning, neurodiversity]

@@ -3,7 +3,6 @@ title: "The Aftermath of DrawEduMath: Vision Language Models Underperform with S
 created: "2026-08-15T15:53:50-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [math-education, multimodal, misconceptions, ai-ed-evaluation, educational-measurement, assessment-validity, k-12, llm, equity-in-ai-education]
 foundations: [misconceptions]
 technology: [llm, multimodal]
 assessment: [ai-ed-evaluation, assessment-validity, educational-measurement]

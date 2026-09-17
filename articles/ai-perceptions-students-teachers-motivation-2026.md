@@ -3,7 +3,6 @@ title: "Exploring AI perceptions in education: unveiling the role of student and
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [student-experience, motivation, self-efficacy, k-12, ai-literacy, equity-in-ai-education]
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy]
 stakeholders: [student-experience]

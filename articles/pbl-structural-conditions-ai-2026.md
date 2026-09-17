@@ -3,13 +3,12 @@ title: 'Problem-Based Learning and the Structural Conditions for Productive AI I
 created: "2026-08-20T06:50:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [problem-based-learning, generative-ai, cognitive-offloading, assessment, adult-learning, higher-ed, learning-design]
 foundations: [cognitive-offloading, learning-design]
 pedagogy: [problem-based-learning]
 technology: [generative-ai]
 assessment: [assessment]
 research_method: [theoretical analysis]
-level: [higher ed]
+level: [higher ed, adult learning]
 sources: ['raw/papers/pbl-structural-conditions-ai-2026.md']
 confidence: high
 audience: [educators, curriculum designers, administrators]

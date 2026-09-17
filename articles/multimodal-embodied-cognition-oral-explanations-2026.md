@@ -3,7 +3,6 @@ title: "A Multimodal Framework for Embodied Cognition in Oral Explanations"
 created: "2026-08-17T10:15:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [engineering-education, embodied-learning, multimodal, math-education, assessment-validity, llm, higher-ed, stem-education]
 pedagogy: [embodied-learning]
 technology: [llm, multimodal]
 assessment: [assessment-validity]

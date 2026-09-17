@@ -3,7 +3,6 @@ title: "Bridging the Gender Gap in STEM Education with AI: Female-Coded Chatbot 
 created: "2026-09-05T06:04:05-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: ['equity-in-ai-education', 'conversational-ai', 'stem-education', 'math-education', 'k-12', 'self-efficacy', 'motivation', 'student-experience', 'intelligent-tutoring']
 pedagogy: [motivation, self-efficacy]
 technology: [conversational-ai, intelligent-tutoring]
 stakeholders: [student-experience]

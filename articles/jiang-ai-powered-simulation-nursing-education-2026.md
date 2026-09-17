@@ -3,7 +3,6 @@ title: "AI-Powered Simulation for Nursing Education: Mixed Methods Systematic Re
 created: "2026-09-05T12:30:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [medical-education, simulation, generative-ai, llm, self-efficacy, student-experience, meta-analysis-systematic-review]
 pedagogy: [self-efficacy]
 technology: [generative-ai, llm, simulation]
 assessment: [meta-analysis-systematic-review]

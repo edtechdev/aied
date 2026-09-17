@@ -3,7 +3,6 @@ title: "PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic 
 created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-16T14:48:35-04:00"
 type: article
-tags: [llm, meta-analysis-systematic-review, ai-use-disclosure, research-methods-aied, limitations-in-aied-research, human-in-the-loop-ai, rag, prompt-engineering]
 foundations: [limitations-in-aied-research]
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag]
 assessment: [meta-analysis-systematic-review, research-methods-aied]

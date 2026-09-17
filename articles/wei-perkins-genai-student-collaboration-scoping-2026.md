@@ -3,7 +3,6 @@ title: "Generative AI and Student Collaboration: A Scoping Review of Group Work 
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [collaborative-learning, higher-ed, generative-ai, critical-thinking, self-regulated-learning, human-ai-collaboration, assessment, ai-literacy]
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 pedagogy: [collaborative-learning, self-regulated-learning]
 technology: [generative-ai]

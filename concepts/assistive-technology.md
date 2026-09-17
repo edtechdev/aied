@@ -3,7 +3,6 @@ title: Assistive Technology
 created: "2026-08-23T12:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
-tags: [assistive-technology, accessibility, special-education, inclusive-learning, equity-in-ai-education, learning-design]
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]

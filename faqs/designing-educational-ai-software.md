@@ -3,7 +3,6 @@ title: "What Are Best Practices and Tips for Designing Effective Educational AI 
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 weight: 64
-tags: [pedagogical-safety, accessibility, equity-in-ai-education, learning-design, edtech-platform]
 foundations: [learning-design]
 stakeholders: [edtech-platform, pedagogical-safety]
 ethics: [accessibility, equity-in-ai-education]

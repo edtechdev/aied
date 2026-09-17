@@ -3,7 +3,6 @@ title: "Beyond the Agent Label: Evidence Maturity, Human Monitoring, and Governa
 created: "2026-09-08T09:07:05-04:00"
 updated: "2026-09-08T09:07:05-04:00"
 type: article
-tags: [agentic-ai, higher-ed, governance, human-in-the-loop-ai, regulation, generative-ai, llm, equity-in-ai-education, ethics]
 foundations: [agentic-ai]
 technology: [generative-ai, human-in-the-loop-ai, llm]
 stakeholders: [governance, regulation]

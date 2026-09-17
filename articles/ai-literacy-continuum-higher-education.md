@@ -3,7 +3,6 @@ title: "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for
 created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [ai-literacy, higher-ed, curriculum-design, ethics, learning-design, personalized-learning, scaffolding, student-experience, mastery-learning, k-12]
 foundations: [ai-literacy, curriculum-design, learning-design]
 pedagogy: [mastery-learning, scaffolding]
 technology: [personalized-learning]
@@ -11,7 +10,7 @@ stakeholders: [student-experience]
 ethics: [ethics]
 research_method: [theoretical analysis]
 audience: [learners, instructors]
-level: [higher ed]
+level: [higher ed, k 12]
 sources: ['raw/papers/2606.00038.md']
 confidence: high
 ---

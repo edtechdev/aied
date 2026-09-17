@@ -3,7 +3,6 @@ title: Speech and Voice Technologies
 created: "2026-09-16T14:29:36-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: concept
-tags: [language-learning, accessibility, assessment, generative-ai, multimodal, inclusive-learning]
 technology: [generative-ai, multimodal]
 assessment: [assessment]
 ethics: [accessibility, inclusive-learning]

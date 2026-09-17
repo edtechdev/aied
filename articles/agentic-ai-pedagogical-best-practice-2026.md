@@ -3,7 +3,6 @@ title: "Agentic AI and Pedagogical Best Practice: The Tension Between Automation
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
-tags: [agentic-ai, learning-theories, scaffolding, formative-assessment, metacognition, human-in-the-loop-ai, sociocultural-learning, desirable-difficulties, llm]
 foundations: [agentic-ai]
 pedagogy: [desirable-difficulties, learning-theories, metacognition, scaffolding, sociocultural-learning]
 technology: [human-in-the-loop-ai, llm]

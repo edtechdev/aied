@@ -3,7 +3,6 @@ title: Scaffolding Critical Thinking with Generative AI
 created: "2026-05-10T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [generative-ai, higher-ed, scaffolding, self-regulated-learning, educational-development, metacognition, ai-literacy]
 foundations: [ai-literacy, educational-development]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai]

@@ -3,7 +3,6 @@ title: Pedagogical Safety in Educational Reinforcement Learning
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [intelligent-tutoring, pedagogical-safety, adaptive-learning, reinforcement-learning, metacognition, rag, llm]
 pedagogy: [metacognition]
 technology: [adaptive-learning, intelligent-tutoring, llm, rag, reinforcement-learning]
 stakeholders: [pedagogical-safety]

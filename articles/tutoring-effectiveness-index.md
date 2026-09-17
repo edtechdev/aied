@@ -3,7 +3,6 @@ title: "The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from
 created: "2026-06-01T04:33:04-04:00"
 updated: "2026-09-16T15:51:16-04:00"
 type: article
-tags: [intelligent-tutoring, llm, benchmark, automated-assessment, formative-assessment, reinforcement-learning]
 technology: [intelligent-tutoring, llm, reinforcement-learning]
 assessment: [automated-assessment, benchmark, formative-assessment]
 audience: [software developers]

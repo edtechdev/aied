@@ -3,7 +3,6 @@ title: "Integrating Generative Artificial Intelligence into University Curricula
 created: "2026-08-20T08:40:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [generative-ai, business-education, higher-ed, curriculum-design, student-engagement, ai-literacy]
 foundations: [ai-literacy, curriculum-design]
 pedagogy: [student-engagement]
 technology: [generative-ai]

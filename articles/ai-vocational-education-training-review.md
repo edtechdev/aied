@@ -3,7 +3,6 @@ title: "Artificial intelligence in vocational education and training: A systemat
 created: "2026-08-01T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [professional-training, intelligent-tutoring, generative-ai, adaptive-learning, simulation, regulation, constructivist]
 pedagogy: [constructivist]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, simulation]
 stakeholders: [professional-training, regulation]

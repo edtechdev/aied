@@ -3,7 +3,6 @@ title: "Integrating AI Into Computational Thinking: Development and Validation o
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-24T16:40:00-04:00"
 type: article
-tags: [computational-thinking, assessment, generative-ai, higher-ed, cs-education, assessment-validity, item-response-theory]
 foundations: [computational-thinking]
 technology: [generative-ai]
 assessment: [assessment, assessment-validity, item-response-theory]

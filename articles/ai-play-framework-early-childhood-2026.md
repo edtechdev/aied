@@ -3,7 +3,6 @@ title: "AI-Play: A Framework for Teaching Artificial Intelligence Concepts throu
 created: "2026-08-17T10:30:00-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 type: article
-tags: [ai-literacy, k-12, computational-thinking, game-based-learning, cs-education, learning-theories]
 foundations: [ai-literacy, computational-thinking]
 pedagogy: [game-based-learning, learning-theories]
 connected_faqs: [ai-guidance-children-under-13]

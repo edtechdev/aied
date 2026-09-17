@@ -4,7 +4,6 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13]
 type: concept
-tags: [hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading]
 foundations: [cognitive-offloading]
 technology: [llm, rag]
 stakeholders: [governance, regulation]

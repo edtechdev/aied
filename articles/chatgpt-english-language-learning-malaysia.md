@@ -3,7 +3,6 @@ title: "Students' experiences of using ChatGPT for English language learning: a 
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
-tags: [language-learning, generative-ai, self-determination-theory, higher-ed, motivation, pedagogical-agent]
 pedagogy: [motivation, self-determination-theory]
 technology: [generative-ai, pedagogical-agent]
 research_method: [qualitative, interviews]

@@ -3,7 +3,6 @@ title: "Measuring Acceptance of Age-Tiered AI Literacy Guidebooks: A Development
 created: "2026-09-13T11:05:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [ai-literacy, generative-ai, k-12, technology-acceptance-model, educational-measurement, curriculum-design, equity-in-ai-education, adaptive-learning, teacher-role]
 foundations: [ai-literacy, curriculum-design, teacher-role]
 technology: [adaptive-learning, generative-ai]
 assessment: [educational-measurement]

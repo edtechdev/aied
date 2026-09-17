@@ -3,7 +3,6 @@ title: "The Impact of Large Language Models on Programming Education and Student
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [llm, cs-education, cognitive-offloading, generative-ai]
 foundations: [cognitive-offloading]
 technology: [generative-ai, llm]
 research_method: [experiment]

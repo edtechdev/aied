@@ -3,7 +3,6 @@ title: "ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Sca
 created: "2026-06-17T04:33:04-04:00"
 updated: "2026-09-16T15:52:49-04:00"
 type: article
-tags: [intelligent-tutoring, scaffolding, k-12, personalized-learning, llm]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm, personalized-learning]
 connected_faqs: [ai-guidance-children-under-13]

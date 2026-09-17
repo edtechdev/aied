@@ -3,7 +3,6 @@ title: "Deceptive Overgeneralization: When Adaptive Learning Enables Systematic 
 created: "2026-08-30T14:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [intelligent-tutoring, adaptive-learning, knowledge-tracing, mastery-learning, student-modeling, learning-theories, transfer-of-learning, misconceptions, feedback, k-12]
 foundations: [misconceptions]
 pedagogy: [learning-theories, mastery-learning, transfer-of-learning]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, student-modeling]

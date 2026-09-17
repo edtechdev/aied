@@ -3,7 +3,6 @@ title: "A systematic review of student engagement research in adaptive learning 
 created: "2026-08-23T15:00:00-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
-tags: [adaptive-learning, student-engagement, personalized-learning, intelligent-tutoring, motivation, online-teaching-and-learning]
 pedagogy: [motivation, online-teaching-and-learning, student-engagement]
 technology: [adaptive-learning, intelligent-tutoring, personalized-learning]
 research_method: [systematic review]

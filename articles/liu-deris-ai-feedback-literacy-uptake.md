@@ -3,7 +3,6 @@ title: "AI Feedback Literacy in Higher Education: Understanding, Measuring, and 
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [ai-feedback-quality, feedback, ai-literacy, higher-ed, writing-education, formative-assessment, self-regulated-learning, assessment, motivation]
 foundations: [ai-literacy]
 pedagogy: [motivation, self-regulated-learning]
 assessment: [ai-feedback-quality, assessment, feedback, formative-assessment]

@@ -3,7 +3,6 @@ title: "Harnessing Generative Artificial Intelligence in Computer Science Educat
 created: "2026-08-20T08:50:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [generative-ai, cs-education, assessment, ethics, higher-ed, adaptive-learning]
 technology: [adaptive-learning, generative-ai]
 assessment: [assessment]
 ethics: [ethics]

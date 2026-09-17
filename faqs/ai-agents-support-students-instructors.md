@@ -3,7 +3,6 @@ title: "How Can AI Agents Support Students and Instructors?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 weight: 66
-tags: [agentic-ai, intelligent-tutoring, pedagogical-agent, human-in-the-loop-ai, ai-literacy, cognitive-offloading]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
 ---

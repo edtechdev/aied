@@ -3,7 +3,6 @@ title: "AI Anxiety: A Comprehensive Analysis of Psychological Factors and Interv
 created: "2026-08-25T07:45:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [ai-anxiety-and-stress, generative-ai, well-being, privacy, ethics, ai-literacy, adult-learning, governance, regulation]
 foundations: [ai-literacy]
 pedagogy: [well-being]
 technology: [generative-ai]
@@ -14,6 +13,7 @@ audience: [researchers, instructors]
 research_method: [literature review]
 sources: ['raw/papers/kim-ai-anxiety-comprehensive-analysis.md']
 confidence: medium
+level: [adult learning]
 ---
 
 > **Synthesis:** **AI Anxiety: A Comprehensive Analysis** — Kim et al. define AI Anxiety as the feelings of apprehension or fear stemming from the accelerated development of AI [[ai-technologies|technologies]], and provide a wide-ranging review of its psychological underpinnings and proposed interventions. They distinguish AI Anxiety from earlier Automation Anxiety, identify the **fear of replacement by AI** as the primary contributor (alongside uncontrolled AI growth, [[privacy]] concerns, AI-generated misinformation, and AI biases), and propose multidisciplinary educational, technological, regulatory, and [[ethics|ethical]] solutions.

@@ -3,7 +3,6 @@ title: "TeachLM: Post-Training LLMs for Education Using Authentic Learning Data"
 created: "2026-08-21T08:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [pedagogical-llm-training, llm, simulating-students, privacy, generative-ai, intelligent-tutoring, student-modeling, project-based-learning]
 pedagogy: [project-based-learning]
 technology: [generative-ai, intelligent-tutoring, llm, pedagogical-llm-training, simulating-students, student-modeling]
 ethics: [privacy]

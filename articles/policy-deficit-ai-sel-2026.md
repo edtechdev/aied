@@ -3,7 +3,6 @@ title: "The Policy Deficit in AI × Social-Emotional Learning Research"
 created: "2026-09-01T09:00:00-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
-tags: [ai-education, social-emotional-learning, educational-policy-ai, governance, meta-analysis-systematic-review, ethics, regulation, equity-in-ai-education]
 foundations: [ai-education]
 pedagogy: [social-emotional-learning]
 assessment: [meta-analysis-systematic-review]

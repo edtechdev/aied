@@ -3,7 +3,6 @@ title: "A Posthumanist Approach to AI Literacy"
 created: "2026-08-13T17:54:24-04:00"
 updated: "2026-08-13"
 type: article
-tags: [ai-literacy, writing-education, student-experience, agency, generative-ai, multilingual-learning, language-learning, academic-integrity]
 foundations: [academic-integrity, agency, ai-literacy]
 technology: [generative-ai]
 stakeholders: [student-experience]

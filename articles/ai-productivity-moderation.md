@@ -3,7 +3,6 @@ title: "Position: Adopting AI in Practice Does Not Guarantee the Productivity Bo
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [generative-ai, teacher-role, higher-ed, educational-policy-ai, agentic-ai]
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai]
 stakeholders: [educational-policy-ai]

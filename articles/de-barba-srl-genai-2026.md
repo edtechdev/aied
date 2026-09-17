@@ -3,7 +3,6 @@ title: "Learner Agency Across Scales: An Integrative Perspective on Self-Regulat
 created: "2026-08-27T06:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [self-regulated-learning, agency, learning-analytics, critical-pedagogy, theory-development-aied, generative-ai]
 foundations: [agency, theory-development-aied]
 pedagogy: [critical-pedagogy, self-regulated-learning]
 technology: [generative-ai, learning-analytics]

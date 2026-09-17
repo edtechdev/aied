@@ -4,7 +4,6 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/preservice-teachers-responsible-genai-2026.md"]
-tags: ['teacher-education', 'ethics', 'ai-literacy', 'privacy', 'critical-thinking', 'generative-ai']
 foundations: [ai-literacy, critical-thinking]
 technology: [generative-ai]
 ethics: [ethics, privacy]

@@ -4,7 +4,6 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T15:42:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
-tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
 stakeholders: [educational-policy-ai, teacher-ai-competency]
 audience: [faculty development, instructors]

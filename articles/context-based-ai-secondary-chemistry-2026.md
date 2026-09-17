@@ -3,7 +3,6 @@ title: "Using Context-Based and AI-Enhanced Approaches to Improve Student Engage
 created: "2026-08-19T12:44:00-04:00"
 updated: "2026-08-19T12:44:00-04:00"
 type: article
-tags: [chemistry-education, k-12, constructivist, personalized-learning, student-engagement, motivation]
 pedagogy: [constructivist, motivation, student-engagement]
 technology: [personalized-learning]
 research_method: [quasi-experiment, mixed methods]

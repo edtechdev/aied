@@ -27,6 +27,8 @@ CONCEPT_INDEX = os.path.join(WIKI, 'tooling', 'concept-index.md')
 CONCEPT_INDEX_TS = os.path.join(WIKI, 'src', 'data', 'conceptIndex.ts')
 REDIRECTS_TS = os.path.join(WIKI, 'src', 'data', 'conceptRedirects.ts')
 FACET_VOCAB_TS = os.path.join(WIKI, 'src', 'data', 'facetVocab.ts')
+METADATA_LINKS_TS = os.path.join(WIKI, 'src', 'data', 'metadataLinks.ts')
+CONFIG_TS = os.path.join(WIKI, 'src', 'content.config.ts')
 
 # Typed metadata facets, each derived from one registry section, so the allowed
 # values of a facet field can never drift from the concept taxonomy. A concept
@@ -163,6 +165,52 @@ def render_redirects_ts(reg):
     return '\n'.join(out) + '\n'
 
 
+# Field values that are phrases rather than slugs can still have a concept page.
+# The link is generated from the registry (slug match or a registered alias), never
+# hand-written, so a renamed concept cannot leave a stale link behind. Aliases that
+# collide across ideas are excluded deliberately: 'researchers' is not research
+# methods, and 'instructional designers' is not the generic stakeholders page.
+LINK_FIELDS = ('research_method', 'discipline', 'audience', 'level')
+LINK_EXCLUDE = {
+    'audience': {'researchers', 'instructional designers', 'policymakers'},
+}
+
+
+def render_metadata_links_ts(reg):
+    src = open(CONFIG_TS, encoding='utf-8').read()
+    alias_to_slug = {}
+    for slug, entry in reg['concepts'].items():
+        for alias in (entry.get('aliases') or []):
+            alias_to_slug.setdefault(alias.lower(), slug)
+    lines = []
+    for field in LINK_FIELDS:
+        m = re.search(rf"{field}: enumList\((.*?)\n    \),", src, re.S)
+        if not m:
+            continue
+        values = re.findall(r"'([^']+)'", m.group(1))
+        pairs = {}
+        for value in values:
+            if value in LINK_EXCLUDE.get(field, set()):
+                continue
+            slug = value.replace(' ', '-')
+            if slug in reg['concepts']:
+                pairs[value] = slug
+            elif value.lower() in alias_to_slug:
+                pairs[value] = alias_to_slug[value.lower()]
+        if pairs:
+            lines.append(f"  {field}: {{")
+            for value, slug in pairs.items():
+                lines.append(f"    {ts_str(value)}: {ts_str(slug)},")
+            lines.append("  },")
+    header = ("// Field values that have a concept page, for the page metadata table.\n"
+              "// A phrase like 'cs education' or 'systematic review' links to its concept page;\n"
+              "// generated so a renamed concept cannot leave a stale link behind.\n"
+              "// GENERATED FILE - do not edit by hand.\n"
+              "// Source: src/content.config.ts (vocabularies) + concepts.registry.yaml (aliases)\n\n")
+    return (header + "export const METADATA_LINKS: Record<string, Record<string, string>> = {\n"
+            + "\n".join(lines) + "\n};\n")
+
+
 def render_facet_vocab_ts(reg):
     by_section = {}
     for section in reg.get('sections', []):
@@ -219,6 +267,7 @@ def main():
         CONCEPT_INDEX_TS: render_concept_index_ts(reg),
         REDIRECTS_TS: render_redirects_ts(reg),
         FACET_VOCAB_TS: render_facet_vocab_ts(reg),
+        METADATA_LINKS_TS: render_metadata_links_ts(reg),
     }
     stale = []
     for path, content in targets.items():

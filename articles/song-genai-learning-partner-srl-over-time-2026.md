@@ -3,7 +3,6 @@ title: "GenAI as a Learning Partner: Supporting Self-Regulated Learning Over Tim
 created: "2026-08-27T06:30:00-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: article
-tags: [self-regulated-learning, generative-ai, learning-analytics, higher-ed, metacognition]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai, learning-analytics]
 research_method: [survey]

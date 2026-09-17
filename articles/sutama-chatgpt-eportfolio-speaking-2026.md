@@ -3,7 +3,6 @@ title: "Aligning ChatGPT with E-Portfolio Assessment as EFL Learning Model: Its 
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [eportfolio, automated-assessment, generative-ai, language-learning, feedback-literacy, assessment]
 technology: [generative-ai]
 assessment: [assessment, automated-assessment, eportfolio, feedback-literacy]
 research_method: [mixed methods, quasi-experiment]

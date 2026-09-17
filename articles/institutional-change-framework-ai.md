@@ -3,7 +3,6 @@ title: A Framework for Institutional Change in the Age of AI
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [ai-education, change-management, educational-development, higher-ed, pedagogy, stem-education, agentic-ai, scaffolding, student-experience]
 foundations: [agentic-ai, ai-education, educational-development]
 pedagogy: [pedagogy, scaffolding]
 stakeholders: [change-management, student-experience]

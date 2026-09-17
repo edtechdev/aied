@@ -3,7 +3,6 @@ title: "Exploring Student Anxiety and Experience in Performance-Based Assessment
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [assessment, conversational-ai, pedagogical-agent, affective-computing, well-being, generative-ai, llm]
 pedagogy: [well-being]
 technology: [affective-computing, conversational-ai, generative-ai, llm, pedagogical-agent]
 assessment: [assessment]

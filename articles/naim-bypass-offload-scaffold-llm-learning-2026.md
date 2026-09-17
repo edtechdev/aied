@@ -3,7 +3,6 @@ title: "Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language M
 created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-14T09:12:54-04:00"
 type: article
-tags: [cognitive-offloading, productive-failure, scaffolding, metacognition, desirable-difficulties, prior-knowledge, transfer-of-learning, ai-misuse-learning-harm]
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, prior-knowledge, productive-failure, scaffolding, transfer-of-learning]
 ethics: [ai-misuse-learning-harm]

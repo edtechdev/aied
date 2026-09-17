@@ -4,7 +4,6 @@ created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/rule-integrated-llm-tutoring-primary-math-2026.md"]
-tags: ["intelligent-tutoring", "guardrails", "scaffolding", "prompt-engineering", "math-education", "llm"]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm, prompt-engineering]
 ethics: [guardrails]

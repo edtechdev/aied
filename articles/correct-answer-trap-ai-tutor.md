@@ -3,7 +3,6 @@ title: "Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots Wh
 created: "2026-05-28T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [intelligent-tutoring, automated-assessment, formative-assessment, llm, scaffolding, generative-ai, higher-ed, ai-literacy]
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm]

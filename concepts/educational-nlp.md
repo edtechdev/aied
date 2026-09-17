@@ -3,8 +3,9 @@ title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-09-14T06:00:00-04:00"
 type: concept
-tags: []
 confidence: medium
+technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
+pedagogy: [scaffolding, socratic-method]
 ---
 
 > **Educational NLP** applies language [[ai-technologies|technologies]] to learning: [[llm-item-difficulty-prediction]], [[teaching-feedback-classification-benchmark]], [[llm-sentiment-analysis-education-research]], and [[vocabulary-difficulty-prediction]] show LLMs advancing analysis of student language at scale ([[educational-measurement]], educational-nlp).

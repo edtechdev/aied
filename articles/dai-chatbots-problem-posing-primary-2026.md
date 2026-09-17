@@ -3,7 +3,6 @@ title: "Inquiry-Based Learning in STEM Education: The Impact of Generative AI-Ba
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-24T16:40:00-04:00"
 type: article
-tags: [generative-ai, conversational-ai, k-12, stem-education, inquiry-based-learning, automated-question-generation, network-analysis]
 pedagogy: [inquiry-based-learning]
 technology: [conversational-ai, generative-ai]
 assessment: [automated-question-generation, network-analysis]

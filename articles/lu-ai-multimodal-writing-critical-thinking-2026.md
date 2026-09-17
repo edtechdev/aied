@@ -3,7 +3,6 @@ title: "Critical Thinking Gains in Conversational AI-Supported Multimodal Writin
 created: "2026-09-09T01:46:17-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [critical-thinking, writing-education, k-12, collaborative-learning, self-regulated-learning, scaffolding]
 foundations: [critical-thinking]
 pedagogy: [collaborative-learning, scaffolding, self-regulated-learning]
 connected_faqs: [ai-guidance-children-under-13]

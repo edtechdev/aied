@@ -3,7 +3,6 @@ title: Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in
 created: "2026-05-16T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [intelligent-tutoring, llm, generative-ai, scaffolding, formative-assessment, higher-ed, personalized-learning, socratic-method, rag, conversational-ai]
 pedagogy: [scaffolding, socratic-method]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, personalized-learning, rag]
 assessment: [formative-assessment]

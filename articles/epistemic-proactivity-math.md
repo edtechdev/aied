@@ -3,7 +3,6 @@ title: "From Prompting to Epistemic Proactivity: Temporal Trajectories of Studen
 created: "2026-06-30T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [ai-literacy, k-12, metacognition, stem-education, student-experience, self-regulated-learning, llm, scaffolding, math-education]
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [llm]

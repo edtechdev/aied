@@ -3,7 +3,6 @@ title: Benchmarking Multimodal Large Language Models for Scientific Visualizatio
 created: "2026-07-17T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [llm, generative-ai, stem-education, ai-literacy, benchmark, higher-ed, formative-assessment, open-source, visualization]
 foundations: [ai-literacy]
 technology: [generative-ai, llm, visualization]
 assessment: [benchmark, formative-assessment]

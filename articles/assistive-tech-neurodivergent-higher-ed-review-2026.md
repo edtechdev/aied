@@ -3,7 +3,6 @@ title: "Generative AI, virtual reality, and beyond: A scoping review of digital 
 type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
-tags: [neurodiversity, assistive-technology, accessibility, inclusive-learning, higher-ed, universal-design-for-learning, generative-ai, virtual-and-augmented-reality, equity-in-ai-education, limitations-in-aied-research]
 foundations: [limitations-in-aied-research]
 technology: [generative-ai, virtual-and-augmented-reality]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]

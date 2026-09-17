@@ -3,7 +3,6 @@ title: "Assessment Design Under Imperfect Information: Generative AI, Disclosure
 created: "2026-09-10T05:52:45-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [assessment, academic-integrity, ai-use-disclosure, assessment-validity, ai-detection, generative-ai, higher-ed, authentic-assessment]
 foundations: [academic-integrity]
 technology: [generative-ai]
 assessment: [ai-detection, assessment, assessment-validity, authentic-assessment]

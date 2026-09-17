@@ -3,7 +3,6 @@ title: "A systematic mapping review at the intersection of artificial intelligen
 created: "2026-08-24T17:00:00-04:00"
 updated: "2026-08-24T21:10:00-04:00"
 type: article
-tags: [self-regulated-learning, ai-education, meta-analysis-systematic-review, higher-ed, adaptive-learning, metacognition, intelligent-tutoring, feedback, motivation]
 foundations: [ai-education]
 pedagogy: [metacognition, motivation, self-regulated-learning]
 technology: [adaptive-learning, intelligent-tutoring]

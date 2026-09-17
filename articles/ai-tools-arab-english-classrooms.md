@@ -3,7 +3,6 @@ title: "AI tools in Arab University English classrooms: Looking back and forward
 created: "2026-07-09T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [language-learning, higher-ed, writing-education, ai-literacy, cognitive-offloading, teacher-role, generative-ai, scaffolding]
 foundations: [ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [scaffolding]
 technology: [generative-ai]

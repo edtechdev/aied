@@ -3,7 +3,6 @@ title: How AI Is Changing Teaching Workflows
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [generative-ai, teacher-role, educational-development, rct, k-12, higher-ed, student-experience, equity-in-ai-education, ai-literacy]
 foundations: [ai-literacy, educational-development, teacher-role]
 technology: [generative-ai]
 assessment: [rct]

@@ -3,7 +3,6 @@ title: "Towards a philosophy of ensemble cognition: Reconceptualising agency and
 created: "2026-08-16T04:26:01-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
-tags: [learning-theories, agency, metacognition, philosophy-of-ai-in-education, ai-education, human-ai-collaboration, embodied-learning, higher-ed]
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [embodied-learning, learning-theories, metacognition]
 research_method: [theoretical analysis]

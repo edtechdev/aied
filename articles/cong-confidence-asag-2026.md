@@ -3,7 +3,6 @@ title: Confidence-Aware Automatic Short Answer Grading
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [assessment, automated-assessment, psychometrically-aware-ai, rag, ai-ed-evaluation]
 technology: [rag]
 assessment: [ai-ed-evaluation, assessment, automated-assessment, psychometrically-aware-ai]
 audience: [software developers]

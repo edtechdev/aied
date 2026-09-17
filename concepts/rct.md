@@ -3,7 +3,6 @@ title: RCT
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: concept
-tags: [ai-education, generative-ai, higher-ed, research-methods-aied]
 foundations: [ai-education]
 technology: [generative-ai]
 assessment: [research-methods-aied]

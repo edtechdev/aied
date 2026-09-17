@@ -3,7 +3,6 @@ title: "Co-designing AI with youth partners: Enabling ideal classroom relationsh
 created: "2026-08-31T09:45:00-04:00"
 updated: "2026-08-31T09:58:42-04:00"
 type: article
-tags: [pedagogical-partnerships, generative-ai, k-12, collaborative-learning, ethics, privacy, equity-in-ai-education, agency]
 foundations: [agency]
 pedagogy: [collaborative-learning, pedagogical-partnerships]
 technology: [generative-ai]

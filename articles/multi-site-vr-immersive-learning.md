@@ -3,7 +3,6 @@ title: Design and Implementation of a Real-time Multi-site Immersive Learning Sy
 created: "2026-06-10T12:17:35-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [edtech-platform, active-learning, student-experience, higher-ed, student-engagement, generative-ai, llm, ai-literacy, stem-education, scaffolding]
 foundations: [ai-literacy]
 pedagogy: [active-learning, scaffolding, student-engagement]
 technology: [generative-ai, llm]

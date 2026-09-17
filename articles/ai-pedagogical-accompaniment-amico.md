@@ -3,7 +3,6 @@ title: "Design Principles and Observable Indicators for AI-Enabled Pedagogical A
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [intelligent-tutoring, scaffolding, human-in-the-loop-ai, pedagogical-safety, ai-literacy, student-experience, teacher-role, k-12]
 foundations: [ai-literacy, teacher-role]
 pedagogy: [scaffolding]
 technology: [human-in-the-loop-ai, intelligent-tutoring]

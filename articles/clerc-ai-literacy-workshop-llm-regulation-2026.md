@@ -3,7 +3,6 @@ title: "Teaching Students to Question the Machine: An AI Literacy Intervention I
 created: "2026-09-17T02:58:21-04:00"
 updated: "2026-09-17T02:58:21-04:00"
 type: article
-tags: [ai-literacy, k-12, generative-ai, metacognition, self-regulated-learning, science-education, cognitive-offloading, prompt-engineering]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai, prompt-engineering]

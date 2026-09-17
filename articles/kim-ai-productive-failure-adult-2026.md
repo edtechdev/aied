@@ -3,7 +3,6 @@ title: "Designing AI Systems to Support Productive-Failure-Based Learning"
 created: "2026-08-23T08:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [productive-failure, generative-ai, adult-learning, learning-design, llm, human-in-the-loop-ai, higher-ed]
 foundations: [learning-design]
 pedagogy: [productive-failure]
 technology: [generative-ai, human-in-the-loop-ai, llm]

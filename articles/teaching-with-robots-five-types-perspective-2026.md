@@ -3,7 +3,6 @@ title: "Theoretical Perspectives on Teaching with Robots: From Interdisciplinary
 created: "2026-09-16T08:12:20-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
-tags: [educational-robotics, embodied-learning, social-emotional-learning, situated-learning, teacher-role, design-thinking, well-being, ethics, affective-computing, special-education, theory-development-aied, pedagogy]
 foundations: [design-thinking, teacher-role, theory-development-aied]
 pedagogy: [embodied-learning, pedagogy, situated-learning, social-emotional-learning, well-being]
 technology: [affective-computing, educational-robotics]
@@ -12,7 +11,7 @@ sources: ['raw/papers/teaching-with-robots-five-types-perspective-2026.md']
 confidence: high
 research_method: [position paper, theoretical analysis]
 audience: [educators, teachers, researchers, designers]
-level: [k 12]
+level: [k 12, special education]
 page_kind: [framework]
 ---
 

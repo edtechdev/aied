@@ -3,7 +3,6 @@ title: "Touching and Feeling the Data: A Reusable Software Pipeline for Tactile 
 created: "2026-07-02T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [special-education, equity-in-ai-education, adaptive-learning, k-12, higher-ed, generative-ai, ai-literacy, rag, llm, visualization]
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, rag, visualization]
 ethics: [equity-in-ai-education]

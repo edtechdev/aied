@@ -3,7 +3,6 @@ title: "Fostering collaborative futures: Multidisciplinary approaches to AI inte
 created: "2026-08-23T15:00:00-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
-tags: [generative-ai, llm, governance, educational-policy-ai, ai-education, ethics, learning-analytics]
 foundations: [ai-education]
 technology: [generative-ai, learning-analytics, llm]
 stakeholders: [educational-policy-ai, governance]

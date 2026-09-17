@@ -3,7 +3,6 @@ title: "From evaluation to emulation: LLMs as agents of iterative pedagogical de
 created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [llm, feedback, formative-assessment, learning-design, design-based-research, situated-learning, prompt-engineering, pedagogical-llm-training]
 foundations: [learning-design]
 pedagogy: [situated-learning]
 technology: [llm, pedagogical-llm-training, prompt-engineering]

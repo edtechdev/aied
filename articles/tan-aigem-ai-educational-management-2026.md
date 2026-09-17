@@ -3,7 +3,6 @@ title: "Artificial Intelligence in Educational Management: Opportunities, Challe
 created: "2026-09-08T02:39:41-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [educational-policy-ai, governance, administrator, change-management, human-ai-collaboration, ai-literacy, higher-ed, professional-training]
 foundations: [ai-literacy, human-ai-collaboration]
 stakeholders: [administrator, change-management, educational-policy-ai, governance, professional-training]
 connected_faqs: [institutional-ai-policy]
@@ -12,6 +11,7 @@ research_method: [theoretical analysis, policy analysis]
 audience: [administrators, policymakers, researchers]
 confidence: high
 page_kind: [framework]
+level: [higher ed]
 ---
 
 > **Synthesis:** A conceptual study that synthesizes scholarly literature, international policy reports, and global standards to develop the Artificial Intelligence Governance for Educational Management (AIGEM) Framework. AIGEM positions AI not merely as instructional technology but as a strategic organizational capability in educational management, integrating six dimensions: AI Strategic Leadership, Responsible AI Governance, AI-Driven Decision Intelligence, Human-AI Collaborative Intelligence, AI Competency Development, and Sustainable Educational Value Creation. The framework aligns responsible AI implementation with SDG 4, 8, 9, and 16, and proposes six testable theoretical propositions (P1-P6).

@@ -3,7 +3,6 @@ title: "AI Personas: Can LLMs Replace Fieldwork in Experiential Learning?"
 created: "2026-09-16T08:12:20-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [experiential-learning, simulation, conversational-ai, prompt-engineering, qualitative-research, higher-ed, pedagogical-agent, human-in-the-loop-ai, culturally-relevant-pedagogy, social-emotional-learning, global-south, limitations-in-aied-research]
 foundations: [limitations-in-aied-research]
 pedagogy: [experiential-learning, social-emotional-learning]
 technology: [conversational-ai, human-in-the-loop-ai, pedagogical-agent, prompt-engineering, simulation]

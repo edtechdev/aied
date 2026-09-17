@@ -3,7 +3,6 @@ title: "A systematic review of generative AI in education: Empirical insights fr
 created: "2026-08-08T04:33:04-04:00"
 updated: "2026-08-24T17:25:00-04:00"
 type: article
-tags: [meta-analysis-systematic-review, generative-ai, human-ai-collaboration, ai-literacy, higher-ed]
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [generative-ai]
 assessment: [meta-analysis-systematic-review]

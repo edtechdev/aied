@@ -3,7 +3,6 @@ title: "Addressing Trust in AI Systems through Education: A Didactic Perspective
 created: "2026-09-03T09:00:00-04:00"
 updated: "2026-09-03T09:00:00-04:00"
 type: article
-tags: [ai-literacy, trust-calibration, computational-thinking, k-12, curriculum-design, pedagogy, ai-education]
 foundations: [ai-education, ai-literacy, computational-thinking, curriculum-design]
 pedagogy: [pedagogy]
 ethics: [trust-calibration]

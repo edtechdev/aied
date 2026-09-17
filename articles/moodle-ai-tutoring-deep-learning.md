@@ -3,7 +3,6 @@ title: "From Surface Learning to Deep Understanding: A Grounded AI Tutoring Syst
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [intelligent-tutoring, higher-ed, edtech-platform, llm, scaffolding, adaptive-learning, metacognition, formative-assessment]
 pedagogy: [metacognition, scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, llm]
 assessment: [formative-assessment]

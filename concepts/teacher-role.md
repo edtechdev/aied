@@ -3,7 +3,6 @@ title: Teaching
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-17T14:46:00-04:00"
 type: concept
-tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 foundations: [ai-literacy, educational-development, learning-design]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring]

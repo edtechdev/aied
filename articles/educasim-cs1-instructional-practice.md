@@ -3,7 +3,6 @@ title: "EducaSim: Interactive Simulacra for CS1 Instructional Practice"
 created: "2026-08-21T08:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [simulating-students, teacher-education, experiential-learning, agentic-ai, pedagogical-agent, cs-education, simulation, online-teaching-and-learning]
 foundations: [agentic-ai]
 pedagogy: [experiential-learning, online-teaching-and-learning]
 technology: [pedagogical-agent, simulating-students, simulation]

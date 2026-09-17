@@ -3,7 +3,6 @@ title: "Fostering Self-Directed Growth with Generative AI: Toward a New Learning
 created: "2026-08-16T04:26:01-04:00"
 updated: "2026-08-16"
 type: article
-tags: [self-regulated-learning, learning-analytics, personalized-learning, agency, generative-ai, learning-theories]
 foundations: [agency]
 pedagogy: [learning-theories, self-regulated-learning]
 technology: [generative-ai, learning-analytics, personalized-learning]

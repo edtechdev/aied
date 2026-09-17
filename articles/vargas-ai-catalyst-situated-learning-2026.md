@@ -3,7 +3,6 @@ title: "Connecting Education with Reality: AI as a Catalyst for Situated Learnin
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [situated-learning, experiential-learning, authentic-assessment, ai-education, learning-design, higher-ed, teacher-role]
 foundations: [ai-education, learning-design, teacher-role]
 pedagogy: [experiential-learning, situated-learning]
 assessment: [authentic-assessment]
