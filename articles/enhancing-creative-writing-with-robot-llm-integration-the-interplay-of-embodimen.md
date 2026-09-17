@@ -9,7 +9,6 @@ pedagogy: [collaborative-learning, creativity, embodied-learning, student-engage
 technology: [educational-robotics, intelligent-tutoring, llm]
 research_method: [experiment]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen.md']
 confidence: high
 discipline: [writing education]

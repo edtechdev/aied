@@ -10,7 +10,6 @@ technology: [generative-ai]
 ethics: [ethics]
 research_method: [mixed methods]
 level: [higher ed]
-category: [design thinking]
 sources: ['raw/papers/rana-genai-design-thinking-2025.md']
 confidence: high
 discipline: [design education]

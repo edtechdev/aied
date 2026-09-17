@@ -9,7 +9,6 @@ technology: [generative-ai]
 assessment: [assessment]
 discipline: [chemistry education, stem education]
 level: [higher ed, k 12]
-category: [assessment]
 confidence: high
 ---
 > **Chemistry Education** — the study of how students learn chemistry and how to teach it more effectively, spanning [[generative-ai|GenAI]] in laboratory and experimental design, AI-mediated [[formative-assessment|formative assessment]], context-based and inquiry-based instruction, the technical accuracy of [[llm|LLMs]] on chemistry tasks, and the philosophy of experimentation in the AI age. Chemistry education research engages the discipline's distinctive demands — abstract, submicroscopic concepts, symbolic and representational notation (formulas, SMILES, spectra), and hands-on laboratory practice — which make it a rich and distinctive context for studying how AI both supports and challenges learning.

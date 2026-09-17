@@ -14,7 +14,6 @@ sources: ['raw/papers/vetter-hidden-cost-disclosure-genai-2026.md']
 source_url: 'https://doi.org/10.2139/ssrn.5755762'
 confidence: medium
 audience: [instructors, administrators, faculty development]
-category: [assessment, policy]
 ---
 
 > **Synthesis:** **Transparency about [[generative-ai|GenAI]] use carries a hidden cost: students who disclose may be more likely to be accused.** Vetter et al. (2026), a multi-[[governance|institutional]] survey of 560 [[higher-ed|undergraduates]] across four Northeastern U.S. institutions, find that nearly two-thirds of students never or rarely disclose GenAI use to [[teacher-role|instructors]], and that punitive or ambiguous course policies encourage concealment. Strikingly, students who "always" disclosed their AI use had **over three times the odds of being accused by their instructors** — an ironic pattern where greater transparency correlates with greater suspicion, revealing a fragile [[trust]] relationship and the hidden costs students incur for being honest.

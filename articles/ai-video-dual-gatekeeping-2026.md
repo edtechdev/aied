@@ -9,7 +9,6 @@ pedagogy: [pedagogy, scaffolding]
 technology: [generative-ai, human-in-the-loop-ai]
 research_method: [system development, user study]
 audience: [instructors]
-category: [instructional design]
 sources: ['raw/papers/ai-video-dual-gatekeeping-2026.md']
 confidence: high
 level: [teacher training]

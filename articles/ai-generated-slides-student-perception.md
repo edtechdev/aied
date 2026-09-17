@@ -14,7 +14,7 @@ audience: [instructors, faculty development]
 level: [higher ed]
 sources: ['raw/papers/2605.13532.md']
 confidence: medium
-category: [evaluation, instructional design]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This study evaluated five [[generative-ai|generative AI]] tools for creating instructional slides from instructor-authored course notes: NotebookLM, Claude, M365 Copilot, Cursor, and Claude Code. Educators assessed slides for accuracy, completeness, and [[pedagogy|pedagogical]] soundness.

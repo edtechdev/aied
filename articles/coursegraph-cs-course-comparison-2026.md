@@ -10,7 +10,6 @@ research_method: [system development]
 discipline: [cs education]
 audience: [learners, administrators]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/2608.05910.md']
 confidence: medium
 

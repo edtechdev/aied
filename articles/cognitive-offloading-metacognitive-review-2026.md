@@ -15,7 +15,7 @@ level: [higher ed]
 
 sources: ['raw/papers/cognitive-offloading-metacognitive-review-2026.md']
 confidence: high
-category: [synthesis, framework]
+page_kind: [synthesis, framework]
 ---
 
 > **Synthesis:** Guo & Ye (2026) provide a comprehensive review of [[cognitive-offloading]] from a [[metacognition|metacognitive]] perspective, applying the distinction between metacognitive *beliefs* and metacognitive *experiences* within Nelson & Naren's dynamic model to explain why offloading interventions work in some phases but not others — and to derive targeted strategies for AI-assisted learning environments.

@@ -6,7 +6,6 @@ weight: 88
 tags: [academic-integrity, assessment, reducing-ai-misuse, ai-literacy]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-category: [assessment]
 ---
 
 # How Can I Reduce AI Cheating in My Course?

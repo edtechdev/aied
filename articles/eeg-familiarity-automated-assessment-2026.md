@@ -9,7 +9,7 @@ technology: [cognitive-diagnosis, learning-analytics, machine-learning, student-
 assessment: [ai-ed-evaluation, automated-assessment, benchmark, educational-measurement]
 audience: [software developers]
 research_method: [benchmark, educational measurement]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/eeg-familiarity-automated-assessment-2026.md']
 confidence: high
 ---

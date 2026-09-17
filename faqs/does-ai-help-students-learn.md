@@ -7,7 +7,7 @@ tags: [ai-literacy, cognitive-offloading, active-learning, ai-ed-evaluation, ass
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [active-learning]
 assessment: [ai-ed-evaluation, assessment, self-report-measures]
-category: [evaluation, assessment]
+page_kind: [evaluation]
 ---
 
 # Does Using AI Actually Help My Students Learn?

@@ -10,7 +10,6 @@ assessment: [assessment]
 stakeholders: [student-experience]
 connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
-category: [assessment]
 confidence: high
 ---
 

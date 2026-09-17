@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/2607.11292.md']
 confidence: high
 discipline: [humanities education]
-category: [equity, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** A systematic API audit of four LLMs acting as history tutors evaluates 1,800 responses about the 1989 Romanian Revolution, exposing a 'paternalistic filter': models differentially refuse or soften answers for marginalized students, reproducing epistemic injustice. The audit reveals that [[guardrails]] and refusals are not uniform but patterned by student identity and topic sensitivity.

@@ -12,7 +12,7 @@ sources: ['raw/papers/preferred-scaffolding-ai-mathematical-modelling.md']
 confidence: high
 audience: [instructional designers, educators, edtech designers]
 level: [higher ed]
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Zhu, Yang, and Yang (2026) investigated how different [[student-ai-interaction|AI interaction]] roles function as [[pedagogical-agent|scaffolding strategies]] in AI-assisted mathematical modeling. In a randomized within-subjects experiment with 26 university students, they compared five AI roles — Tutor, [[teacher-role|Teaching]] Assistant, Peer, Excellent Student, and Struggling Student — on modeling competency, role preference, and learning experience. Students demonstrated higher modeling competency with the Peer and Teaching Assistant roles, which fostered [[collaborative-learning|collaborative]] reasoning and co-construction of ideas, yet expressed stronger preferences for the Tutor and Excellent Student roles offering explicit guidance. The study reveals a notable divergence between learning performance and role preference, highlighting the importance of balancing cognitive [[scaffolding]] with collaborative sense-making in [[math-education|mathematics]] education.

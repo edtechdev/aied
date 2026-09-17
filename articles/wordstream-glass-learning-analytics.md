@@ -12,8 +12,7 @@ audience: [learners, administrators]
 level: [k 12, higher ed]
 sources: ['raw/papers/2606.18692.md']
 confidence: medium
-category: [evaluation, framework]
-
+page_kind: [evaluation, framework]
 ---
 
 > **Synthesis:** Nguyen et al. (2026) revisit WordStream (2009) as a [[quantitative-research|quantitative]] encoding for [[qualitative-research|qualitative]] [[learning-analytics|learning analytics]], demonstrating how structured coding can surface cohort-level trends while preserving individual narrative context. WordStream, a [[visualization]] idiom for topic evolution, has been instantiated in platforms such as the Journal Data Dashboard to help instructors improve the learning environment.

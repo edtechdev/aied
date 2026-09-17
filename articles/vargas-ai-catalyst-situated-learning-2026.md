@@ -10,7 +10,6 @@ assessment: [authentic-assessment]
 research_method: [theoretical analysis]
 audience: [instructors]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/vargas-ai-catalyst-situated-learning-2026.md']
 confidence: high
 ---

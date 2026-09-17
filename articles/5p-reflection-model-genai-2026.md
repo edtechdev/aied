@@ -12,7 +12,7 @@ confidence: high
 research_method: [design-based research, theoretical analysis]
 audience: [educators, instructional designers, researchers]
 level: [higher ed]
-category: [framework, assessment]
+page_kind: [framework]
 ---
 
 > **Synthesis:** As [[generative-ai|generative AI]] makes it hard to authenticate student [[metacognition|reflection]] — a student's reflection may be authored by an AI rather than by the learner — this [[design-based-research]] paper argues that traditional reflection models (Kolb, Gibbs, DIEP, Schön, Mezirow, Boud) lack strategies for the GenAI era and proposes a GenAI-aware **5P Reflection Model** (Purpose, Process, Product, Pitfalls, Plan). The model fuses features from experiential, transformative, reflective-practitioner, emotional, and [[self-regulated-learning|self-regulated learning]] theories, embeds explicit handling of GenAI risks (hallucination, plagiarism, [[cognitive-offloading|over-reliance]], [[privacy]]), and embodies a "process over product" philosophy that documents prompts, iterations, and validation rather than just the final output. It positions structured reflection as a way to preserve authenticity, [[agency|learner agency]], and [[academic-integrity|integrity]] when learners co-create meaning with AI.

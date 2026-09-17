@@ -12,7 +12,7 @@ research_method: [design-based research, survey]
 discipline: [business education]
 audience: [learners, instructors, administrators, curriculum designers, researchers]
 level: [higher ed]
-category: [framework, policy]
+page_kind: [framework]
 sources: ['raw/papers/ilieva-agentic-genai-higher-education-2026.md']
 confidence: medium
 ---

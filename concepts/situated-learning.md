@@ -6,7 +6,6 @@ type: concept
 tags: [situated-learning, experiential-learning, constructivist, learning-theories, sociocultural-learning, learning-design, ai-education]
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
-category: [instructional design]
 confidence: high
 ---
 

@@ -13,8 +13,6 @@ research_method: [system development]
 discipline: [stem education]
 audience: [instructors, software developers]
 level: [higher ed]
-category: [assessment]
-
 confidence: high
 sources: []
 ---

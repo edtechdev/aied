@@ -9,7 +9,6 @@ ethics: [equity-in-ai-education, ethics]
 research_method: [qualitative, interviews, survey]
 audience: [instructors]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/2608.10778.md']
 confidence: medium
 ---

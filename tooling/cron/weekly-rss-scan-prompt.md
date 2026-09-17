@@ -67,7 +67,7 @@ research_method: [survey, systematic review, experiment]  # optional
 discipline: [math education, physics education]  # optional
 audience: [instructors, learners, researchers]  # optional
 level: [higher ed, k 12]  # optional
-category: [assessment, framework]  # optional
+page_kind: [framework]  # optional: framework, synthesis, evaluation
 ---
 ```
 

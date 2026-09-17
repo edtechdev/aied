@@ -14,7 +14,6 @@ research_method: [design and evaluation study]
 level: [k 12]
 audience: [educators, administrators]
 discipline: [stem education]
-category: [equity]
 ---
 
 > **Synthesis:** The barriers to [[k-12|K–12]] robotics and [[ai-education|AI education]] are usually described as problems of [[curriculum-design|curriculum]], kits or competition access, but ARC's diagnosis is narrower and more actionable: the binding constraint is sustained local technical mentorship, and it is distributed geographically. Rural FIRST LEGO League participation in Indiana fell in the 2020 remote season and never recovered, while urban participation did. ARC answers with a hubs model — colleges run a course that prepares [[higher-ed|undergraduates]] as mentors and host workshops for nearby teams, and mature school programs become secondary hubs that mentor further schools, producing a self-reinforcing loop whose reach can grow super-linearly. A one-university trial created three rural FLL teams and moved undergraduate mentoring confidence, with the largest shift in connection to the local community (1.86 to 4.00 on a five-point scale), while a spatially explicit Markov [[simulation]] of Indiana projects 992 school programs after 40 years under moderate assumptions against 161 with no ARC. The evidence is feasibility-level, not causal, but the framework's value is that it treats mentorship capacity — not equipment — as the thing to be engineered.

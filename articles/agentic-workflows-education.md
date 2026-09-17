@@ -11,7 +11,7 @@ audience: [software developers]
 research_method: [benchmark]
 sources: ['raw/papers/2504.20082.md']
 confidence: medium
-category: [framework, ai foundations]
+page_kind: [framework]
 ---
 > **Synthesis:** Kamalov et al. (2026) propose a design framework for [[ai-education|educational AI]] systems structured around four [[agentic-ai|agentic]] paradigms — **reflection**, **planning**, **tool use**, and **multi-agent [[collaborative-learning|collaboration]]** — as a taxonomy for analyzing how [[llm|LLM]]-based AI agents operate in learning environments. They contrast these modern autonomous systems with earlier [[pedagogical-agent|embodied pedagogical agents]] and demonstrate the framework through a proof-of-concept multi-agent framework for [[automated-essay-scoring|automated essay scoring]] (MASS), whose preliminary results suggest improved consistency over stand-alone LLMs while flagging interpretability and trustworthiness as open challenges.
 

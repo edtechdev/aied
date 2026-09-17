@@ -11,7 +11,6 @@ stakeholders: [teacher-ai-competency]
 research_method: [systematic review]
 audience: [instructors, learning designers, researchers, faculty development]
 level: [higher ed, k 12]
-category: [instructional design]
 sources: ['raw/papers/wang-teacher-ai-co-design-review-2026.md']
 confidence: high
 

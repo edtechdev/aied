@@ -10,7 +10,6 @@ technology: [machine-learning]
 stakeholders: [open-source]
 research_method: [system development, design and evaluation study]
 discipline: [engineering education, stem education]
-category: [curriculum design]
 sources: ['raw/papers/mechanical-engineering-ai-curriculum-2026.md']
 confidence: high
 audience: [curriculum designers, instructors, faculty development]

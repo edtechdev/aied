@@ -10,7 +10,6 @@ assessment: [usability-research]
 stakeholders: [edtech-platform, professional-training]
 research_method: [thematic analysis, qualitative]
 level: [adult learning, higher ed]
-category: [instructional design]
 sources: ['raw/papers/ai-adult-learning-guidelines-dis2026.md']
 confidence: high
 audience: [designers, instructors]

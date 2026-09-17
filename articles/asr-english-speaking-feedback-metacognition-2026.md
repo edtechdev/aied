@@ -14,7 +14,6 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1847238.md']
 confidence: high
 discipline: [language learning, english education]
 level: [higher ed]
-category: [instructional design, engagement]
 ---
 
 > **Synthesis:** Chen, Zeng, Ou, and Zhong (2026) surveyed Chinese undergraduates practicing English speaking with Automatic Speech Recognition (ASR) tools and modeled how the technology's features shape learning. They find that the quality of ASR-based [[feedback]] and well-designed reflection tasks drive both feedback internalization and reflective behavior, while frequent use chiefly boosts reflection rather than motivation, and recognition accuracy raises intrinsic [[motivation]] without directly triggering deeper reflection. Both [[self-regulated-learning|reflective behavior and motivation]] predict speaking gains, but [[language-learning|language proficiency]] strongly moderates these effects: more proficient learners internalize and benefit from ASR feedback far more effectively, while weaker learners need extra support.

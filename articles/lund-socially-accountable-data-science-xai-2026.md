@@ -11,7 +11,7 @@ research_method: [theoretical analysis]
 audience: [curriculum designers, instructors, educators, researchers]
 level: [higher ed]
 discipline: [cs education]
-category: [framework]
+page_kind: [framework]
 confidence: low
 sources: ['raw/papers/lund-socially-accountable-data-science-xai-2026.md']
 connected_faqs: [incorporating-ai-literacy, equity-ethics-pedagogical-safety-research]

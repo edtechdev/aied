@@ -10,7 +10,6 @@ stakeholders: [student-experience]
 research_method: [learning analytics, longitudinal]
 audience: [learners]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/2606.30860.md']
 confidence: high
 discipline: [cs education]

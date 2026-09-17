@@ -10,7 +10,6 @@ audience: [software developers]
 research_method: [benchmark]
 sources: ['raw/papers/2607.28109.md']
 confidence: medium
-category: [ai foundations]
 ---
 
 > **Synthesis:** Studies how organizing synthetic content into coherent book-level documents affects language [[pedagogical-llm-training|model training]], moving beyond local rewriting. Presents a scalable synthesis pipeline that retrieves source material, clusters it into topical units, and plans hierarchical textbook structures. Shows book-level organization significantly outperforms isolated content generation for educational knowledge acquisition in LLMs.

@@ -10,7 +10,6 @@ technology: [generative-ai]
 research_method: [system development]
 discipline: [stem education]
 level: [higher ed]
-category: [instructional design, curriculum design]
 sources: ['raw/papers/2608.07364.md']
 confidence: high
 audience: [instructional designers, instructors, faculty development]

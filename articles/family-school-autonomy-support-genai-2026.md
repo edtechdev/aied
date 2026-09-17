@@ -11,7 +11,7 @@ confidence: medium
 research_method: [literature review]
 audience: [instructors, researchers, administrators]
 level: [k 12, early childhood]
-category: [framework]
+page_kind: [framework]
 created: "2026-09-13T08:04:43-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 ---

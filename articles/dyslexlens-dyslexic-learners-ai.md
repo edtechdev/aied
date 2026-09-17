@@ -15,7 +15,6 @@ audience: [learners]
 level: [special education, k 12, higher ed]
 sources: ['raw/papers/2606.27619.md']
 confidence: high
-category: [equity, instructional design]
 ---
 
 > **Synthesis:** DysLexLens is a low-resource [[llm]] framework designed to analyze how [[special-education|dyslexic learners]] experience AI tools by mining online forum discussions. The framework employs dictionary-driven filtering to construct focused corpora from Reddit, integrates LLM-assisted [[knowledge-graph|knowledge graph]] reasoning, and generates verifiable query responses about learners' lived experiences with AI for reading, writing, and study tasks.

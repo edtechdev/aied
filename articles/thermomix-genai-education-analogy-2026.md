@@ -11,7 +11,7 @@ sources: ['raw/papers/2609.09856.md']
 confidence: high
 research_method: [position paper, theoretical analysis]
 audience: [educators, researchers, instructional designers]
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Rummel, Nachtigall, and Panadero use the analogy of the Thermomix — a smart kitchen appliance whose guided cooking mode provokes the same enthusiasm and critique as [[generative-ai|generative AI]] in education — to show that the central question is not *whether* learners use AI but *how* that use shapes their learning. Mapping four cooking scenarios onto learning-with-AI cases within the [[icap-framework|ICAP]] and SAMR frameworks, they illustrate a progression from passive substitution ([[cognitive-offloading|full delegation]]) to interactive redefinition (AI as a [[pedagogical-agent|dialogue partner]] for [[student-engagement|engagement]] and co-construction). The paper argues against polarized media-comparison designs and urges [[research-methods-aied|researchers]] to disentangle the specific conditions under which generative AI fosters — or hinders — productive learning.

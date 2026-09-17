@@ -15,7 +15,7 @@ research_method: [systematic review, meta-analysis, educational measurement]
 discipline: [learning sciences]
 audience: [researchers, assessment professionals, instructional designers]
 level: [adult learning, higher ed]
-category: [assessment, framework, synthesis]
+page_kind: [framework, synthesis]
 ---
 
 > **Synthesis:** This structured, seeded review updates the 2024 COSMIN-based appraisal of AI-literacy scales through 17 August 2026 and synthesises 24 focal empirical publications into four measurement domains: knowledge and use, epistemic oversight, reliance calibration, and operational control of tool-using agents. An exploratory [[meta-analysis-systematic-review|meta-analysis]] of three same-sample subjective–objective correlations yields a pooled r = .055 (Hartung-Knapp 95% CI [-.047, .156]), a result the author reads as limited alignment rather than evidence that self-ratings can stand in for performance scores. Objective instruments such as GLAT and AICOS-S are shown to assess foundation knowledge, while verification, trust and dependency measures target separate constructs. No validated individual-level instrument in the corpus covers the full combination of scope, permissions, recovery, state isolation, independent review and evidence-based closure, and the proposed four-layer workplace battery is offered as a design hypothesis rather than a validated placement protocol.

@@ -7,7 +7,7 @@ tags: [educational-measurement, ai-ed-evaluation, assessment, meta-analysis-syst
 technology: [generative-ai]
 assessment: [ai-ed-evaluation, assessment, educational-measurement, meta-analysis-systematic-review]
 research_method: [literature review, thematic analysis]
-category: [evaluation, assessment]
+page_kind: [evaluation]
 sources: ['raw/papers/xiong-ai-educational-measurement-review-2026.md']
 confidence: high
 audience: [researchers, assessment professionals]

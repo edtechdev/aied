@@ -14,7 +14,6 @@ level: [higher ed]
 sources: ['raw/papers/chatgpt-math-biology-challenge-based-learning-2025.md']
 confidence: high
 audience: [instructors, administrators]
-category: [assessment, policy]
 ---
 > **Synthesis:** Elizondo-García, Hernández-De la Cerda, Benavides-García, Caratozzolo, and Membrillo-Hernández (2025) report a pilot study using **ChatGPT within challenge-based learning (CBL)** in two higher-education digital courses — *Fundamentals of [[biology-education|Biological]] Systems* (biology) and *[[math-education|Mathematics]] and Data Science for Decision Making*. Students solved activities with ChatGPT, then verified output quality against high-quality traditional sources. Surveys and NLP topic modeling revealed that students valued ChatGPT for its **immediacy, ease, and [[accessibility]]** while raising concerns about the **veracity and depth** of its output, whether it would supplant the teacher, and whether it would erode skill and competency development. The authors call for **updated academic-integrity codes and new AI-use ethics**, and note that [[teacher-role|teachers]] should be prepared to use AI and that AI-text detectors should be available for evaluation. 
 

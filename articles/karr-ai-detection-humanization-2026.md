@@ -14,7 +14,6 @@ research_method: [experiment, quantitative]
 discipline: [cs education]
 audience: [policymakers, researchers, instructors, administrators]
 level: [higher ed]
-category: [assessment]
 confidence: high
 ---
 

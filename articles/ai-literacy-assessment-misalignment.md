@@ -12,7 +12,6 @@ stakeholders: [student-experience]
 research_method: [survey, educational measurement]
 audience: [faculty development, learners]
 level: [k 12]
-category: [assessment]
 confidence: high
 sources: ['raw/papers/2601.06101.md']
 ---

@@ -12,7 +12,6 @@ connected_faqs: [ai-guidance-children-under-13, course-ai-policy]
 research_method: [theoretical analysis, research methods]
 level: [higher ed]
 audience: [assessment designers, instructors, researchers, administrators]
-category: [assessment]
 sources: ['raw/papers/mohamed-temimi-assessment-imperfect-information-disclosure-2026.md']
 confidence: high
 ---

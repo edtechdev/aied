@@ -13,7 +13,7 @@ research_method: [system development, qualitative]
 discipline: [math education]
 audience: [teacher educators, instructional designers]
 level: [teacher training]
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** This study designed *Student GPT*, a custom ChatGPT-based chatbot that role-plays a middle school student holding common misconceptions in ratio reasoning, giving preservice secondary mathematics teachers low-risk, personalized practice-based teaching experience in [[math-education|mathematics education]]. Analyzing teacher–bot chat histories through an inductive qualitative coding framework (the Affective, Communicative, Technical "ACT" framework), the authors found the simulated student performed well on clarity, relevance, error types, knowledge, and consistency, but struggled with authentic student tone and role confusion. The work demonstrates how [[generative-ai]] can power [[simulation]] role-playing to support [[teacher-education]] practice-based teaching.

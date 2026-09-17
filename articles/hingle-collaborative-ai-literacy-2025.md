@@ -10,7 +10,6 @@ technology: [llm]
 audience: [instructors, researchers]
 research_method: [systematic review]
 level: [k 12, higher ed]
-category: [instructional design]
 sources: ['raw/papers/hingle-collaborative-ai-literacy-2025.md']
 confidence: high
 ---

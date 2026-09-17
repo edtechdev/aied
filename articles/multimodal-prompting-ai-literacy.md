@@ -11,7 +11,6 @@ research_method: [qualitative, case study]
 level: [higher ed]
 sources: ['raw/papers/caeai-multimodal-prompting.md']
 confidence: medium
-category: [instructional design, ai foundations]
 ---
 
 > **Synthesis:** Students' multimodal prompting practices as epistemic work in AI literacy development

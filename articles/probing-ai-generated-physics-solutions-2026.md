@@ -12,7 +12,6 @@ stakeholders: [student-experience]
 research_method: [research methods]
 discipline: [physics education]
 audience: [learners]
-category: [assessment]
 sources: ['raw/papers/2608.12533.md']
 confidence: high
 level: [higher ed]

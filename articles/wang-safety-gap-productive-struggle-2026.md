@@ -15,7 +15,7 @@ audience: [learners]
 sources: ['raw/papers/wang-safety-gap-productive-struggle-2026.md']
 confidence: medium
 level: [higher ed]
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Wang and Shan (2026) introduce the **"Safety Gap"** — the divergence between a student's AI-assisted performance and their internal, unassisted capability to verify that output — as a warning that overly "helpful" [[generative-ai|generative AI]] can erode the cognitive processes essential for deep learning. Writing from a medical-education perspective, they argue that educational AI should withhold direct solutions, introduce constructive cognitive friction, and prioritize process-based assessment, proposing **Socratic and Adversarial AI architectures** that preserve [[productive-failure|productive struggle]].

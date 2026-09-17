@@ -10,7 +10,6 @@ technology: [generative-ai]
 assessment: [assessment, educational-measurement]
 connected_faqs: [verify-ai-output]
 research_method: [educational measurement]
-category: [assessment, curriculum design]
 sources: ['raw/papers/ai-writes-code-student-writes-model-2026.md']
 confidence: medium
 discipline: [science education, cs education]

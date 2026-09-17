@@ -9,7 +9,7 @@ assessment: [ai-ed-evaluation, benchmark]
 ethics: [trust]
 audience: [software developers]
 research_method: [benchmark, learning analytics]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/distilling-self-explaining-lm-learning-analytics-2026.md']
 confidence: high
 discipline: [math education]

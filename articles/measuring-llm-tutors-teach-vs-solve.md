@@ -15,7 +15,7 @@ level: [k 12]
 
 sources: ['raw/papers/2606.16206.md']
 confidence: high
-category: [evaluation, framework]
+page_kind: [evaluation, framework]
 ---
 
 > **Synthesis:** Studies whether public [[llm]] tutoring benchmarks distinguish learning-supportive behavior from mere answer production. Proposes a lightweight diagnostic based on the gap between solving-oriented and [[pedagogy]]-oriented benchmark performance. Using MathTutorBench, shows correlation between solving and pedagogy composites is only r=0.421 across 8 models, with several models shifting rank when evaluated on pedagogy. Benchmarks reward guiding questions, calibrated hints, and non-disclosive scaffolding. Recommends reporting solving and pedagogy scores separately.

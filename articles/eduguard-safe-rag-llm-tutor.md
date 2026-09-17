@@ -15,7 +15,7 @@ discipline: [stem education]
 sources: ['raw/papers/2607.15738.md']
 confidence: high
 level: [higher ed]
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** EduGuard is a [[rag|retrieval-augmented]] generation (RAG) tutoring framework that directly confronts the safety and [[pedagogy|pedagogical]] failures of unrestricted [[llm]] tutors in introductory programming. Unrestricted tutors hallucinate, contradict course policy, reveal complete solutions, and foster passive dependence; EduGuard counters these with query understanding, instructor-approved course retrieval, pedagogical-strategy selection, rubric-aware generation, claim-level verification, and explicit overreliance control. The design maps onto the [[ai-tutor-safety-harms]] taxonomy and directly targets [[hallucination-risk]] and [[cognitive-offloading|Over-Reliance]] in deployed tutors.

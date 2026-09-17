@@ -10,7 +10,6 @@ ethics: [accessibility, equity-in-ai-education, universal-design-for-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [system development]
 level: [teacher training]
-category: [instructional design]
 sources: ['raw/papers/ludia-udl-ai-thought-partner-2026.md']
 confidence: high
 audience: [instructional designers, educators]

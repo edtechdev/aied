@@ -11,7 +11,7 @@ level: [higher ed]
 sources: ['raw/papers/ai-cognitive-partner-co-regulation-learning.md']
 confidence: high
 audience: [educators, researchers]
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** This conceptual analysis by S, Joseph, Jose, S. M, N, & Joseph (2026) proposes that AI should be understood not merely as an external tool but as a **cognitive partner** in the co-[[regulation]] of thinking, learning, and self-control. Drawing on executive function, [[metacognition]], [[distributed-cognition|distributed cognition]], and sociocultural development, it frames human-[[student-ai-interaction|AI interaction]] as co-regulated cognition where AI acts as a scaffold, metacognitive support, external memory system, and decision partner. The framework is argued to be most relevant in middle childhood, adolescence, and adulthood, weighing the benefits of cognitive offloading against the risks of over-reliance.

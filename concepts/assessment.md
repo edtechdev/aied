@@ -10,7 +10,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [ai-ed-evaluation, assessment, assessment-validity, automated-assessment, educational-measurement, formative-assessment]
 research_method: [educational measurement]
 level: [higher ed]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 confidence: high
 ---
 

@@ -13,7 +13,6 @@ sources: ['raw/papers/golrang-propact-pair-programming-2026.md']
 confidence: medium
 discipline: [cs education]
 audience: [instructional designers, instructors, edtech designers]
-category: [collaborative learning, instructional design]
 ---
 
 > **Synthesis:** ProPACT constructs a real-time model of pair collaboration using three signals:

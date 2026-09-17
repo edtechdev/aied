@@ -13,7 +13,7 @@ confidence: medium
 research_method: [mixed methods, survey, interviews]
 audience: [faculty development, teacher educators, teachers]
 level: [teacher training]
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Mohebi and ElSayary examine how in-service teachers build the knowledge needed to integrate [[generative-ai|generative AI]] into classroom practice, framed through **TPACK-GenAI** — an extension of Technological Pedagogical Content Knowledge for generative AI. Using an explanatory sequential mixed-methods design, they surveyed **325 in-service teachers across 26 countries** and conducted in-depth interviews with seven teachers.

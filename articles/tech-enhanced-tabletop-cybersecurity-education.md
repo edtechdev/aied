@@ -12,7 +12,7 @@ level: [higher ed]
 sources: ['raw/papers/2607.28179.md']
 confidence: high
 audience: [instructors, curriculum designers]
-category: [evaluation, curriculum design]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Innovative practice paper examining the integration of technology-enhanced tabletop exercises into cybersecurity curricula. Addresses the gap between professional TTX practice and university adoption, presenting lessons learned from implementation in computing education contexts.

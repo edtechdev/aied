@@ -9,8 +9,6 @@ pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 research_method: [theoretical analysis]
 discipline: [physics education]
-category: [instructional design]
-
 sources: ['raw/papers/2601.13812.md']
 confidence: high
 audience: [instructors, instructional designers, curriculum designers]

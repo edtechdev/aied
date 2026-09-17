@@ -14,7 +14,7 @@ research_method: [case study, qualitative, interviews]
 discipline: [stem education]
 audience: [educators, edtech designers, institutions]
 level: [k 12]
-category: [equity, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** This critical case study examines an all-girls initiative run by a European urban makerspace that integrated two generative AI (GenAI) tools — Playground (a free image generator) and Deforum (a free animation platform) — into workshops about climate change. The initiative was part of a two-year, research-practice partnership across six makerspaces in five countries foregrounding equity and social justice in STEM. The authors analyze [[qualitative-research|qualitative]], [[multimodal]] data including 15 interviews with girls, parents, and practitioners, four reflective sessions, two observation fieldnotes, and 44 GenAI-generated images, interpreted through Harding's (1986) multi-level framework (symbolic, structural, individual) extended by a social level (Sultan et al., 2024) and feminist pedagogy.

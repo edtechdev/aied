@@ -11,7 +11,6 @@ ethics: [trust]
 connected_faqs: [ai-guidance-children-under-13, course-ai-policy]
 research_method: [mixed methods, survey]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/qu-wang-disclose-or-not-genai-2026.md']
 confidence: high
 audience: [instructors, administrators]

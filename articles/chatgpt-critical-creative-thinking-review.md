@@ -10,7 +10,6 @@ technology: [generative-ai]
 audience: [instructors, researchers]
 research_method: [systematic review]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/chatgpt-critical-creative-thinking-review.md']
 confidence: high
 ---

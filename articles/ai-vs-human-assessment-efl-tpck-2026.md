@@ -9,7 +9,6 @@ assessment: [ai-feedback-quality, assessment, automated-assessment]
 stakeholders: [tpack]
 research_method: [mixed methods]
 discipline: [language learning]
-category: [assessment]
 sources: ['raw/papers/ai-vs-human-assessment-efl-tpck-2026.md']
 confidence: high
 audience: [teachers, assessment designers]

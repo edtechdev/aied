@@ -7,7 +7,6 @@ tags: [pedagogical-safety, accessibility, equity-in-ai-education, learning-desig
 foundations: [learning-design]
 stakeholders: [edtech-platform, pedagogical-safety]
 ethics: [accessibility, equity-in-ai-education]
-category: [instructional design]
 ---
 
 # What Are Best Practices and Tips for Designing Effective Educational AI Software?

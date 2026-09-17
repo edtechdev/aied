@@ -13,7 +13,7 @@ level: [k 12]
 sources: ['raw/papers/2606.08568.md']
 confidence: high
 discipline: [math education]
-category: [engagement, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Examines how 98 Grade-9 students across three German Gymnasium schools regulated their use of a Mistral-Large [[generative-ai|GenAI]] tutor while preparing for a math exam. Despite overwhelmingly selecting scaffolded support before the session, students' actual interactions were dominated by instrumental requests (asking for answers) with almost no explicit monitoring or evaluation of their own learning.

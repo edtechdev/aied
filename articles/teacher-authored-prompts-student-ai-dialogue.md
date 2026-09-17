@@ -14,7 +14,6 @@ level: [k 12]
 
 sources: ['raw/papers/2604.16738.md']
 confidence: high
-category: [instructional design, curriculum design]
 ---
 
 > **Synthesis:** Teacher-authored prompt layers function as orchestration levers that translate [[pedagogy|pedagogical]] intent into structured [[student-ai-interaction]] at classroom scale. In a Spring 2025 multi-subject pilot across 39 classrooms, teachers predominantly authored highly specific tasks targeting higher-order thinking (92% at [[critical-thinking|Depth of Knowledge]] 2–3), and deployed student-AI conversations were largely aligned with instructional intent — 71% fully on-track and fewer than 1% substantially off-track. Yet a persistent design-enactment gap emerged for cognitive demand: 38% of conversations under-reached the teacher-targeted DOK level, approaching 50% when targeting DOK 3. Prompt features measurably narrowed this gap — explicit finish lines reduced the DOK gap by 0.22 levels (p < .001), and "no direct answers" [[governance|guardrails]] cut AI final-answer rates by 8.5 percentage points. The findings position teacher-authored configuration as a promising but incomplete bridge between [[generative-ai]] capabilities and [[k-12]] classroom constraints.

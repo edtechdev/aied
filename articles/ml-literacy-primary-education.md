@@ -9,7 +9,6 @@ technology: [machine-learning]
 audience: [instructors, learners]
 research_method: [mixed methods, design and evaluation study]
 level: [k 12]
-category: [instructional design]
 sources: ['raw/papers/caeai-ml-literacy-primary.md']
 confidence: medium
 discipline: [cs education]

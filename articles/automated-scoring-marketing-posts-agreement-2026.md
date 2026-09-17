@@ -12,7 +12,7 @@ research_method: [benchmark, educational measurement]
 discipline: [business education, writing education]
 audience: [assessment designers, assessment professionals, researchers]
 level: [higher ed]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This study evaluates three [[automated-assessment|automated scoring]] procedures for student marketing posts — deterministic rules, an [[llm]], and their equal-weight hybrid — against independent human ratings within the BrandSim [[simulation]] module. On 60 student-authored posts, the LLM achieved the highest absolute agreement with the human mean (ICC(2,1) = .435) while deterministic rules reached only .091 and the hybrid .266, with mean absolute errors of 6.28, 17.22 and 10.53 points on the 0–100 scale. Giving the negative-biased rule component equal weight transferred its bias into the hybrid, pushing scores 10.53 points below the human reference and contradicting the hypothesis that combination would improve agreement. Adding 15 researcher-authored low-quality anchors raised human agreement from .338 to .902 and LLM agreement from .435 to .846 without changing any student score, showing that [[assessment-validity]] evidence for automated scoring depends on the corpus being scored. This bears directly on [[feedback]] design: the paper advocates evaluating automated scores on the student work for which they will be used and reporting score differences alongside rank ordering.

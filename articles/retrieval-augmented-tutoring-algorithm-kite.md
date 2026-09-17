@@ -13,7 +13,7 @@ sources: ['raw/papers/2605.12988.md']
 confidence: high
 discipline: [cs education]
 audience: [instructors, designers, software developers]
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** KITE (Knowledge-Informed Tutoring Engine) introduces a [[intelligent-tutoring]] architecture that grounds its responses in course materials through a [[multimodal]] [[scaffolding|RAG pipeline]]. Unlike generic [[llm]] tutors that may drift from [[curriculum-design|curriculum]] content, KITE retrieves relevant material — lecture slides, problem sets, code examples — before generating Socratic hints, guiding questions, and progressive scaffolds tailored to the student's current error.

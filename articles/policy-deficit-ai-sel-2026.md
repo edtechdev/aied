@@ -14,7 +14,7 @@ sources: ['raw/papers/policy-deficit-ai-sel-2026.md']
 confidence: high
 research_method: [systematic review]
 audience: [policymakers, researchers, institutions]
-category: [policy, synthesis, equity]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** A [[meta-analysis-systematic-review|systematic review]] of 65 peer-reviewed papers at the intersection of [[ai-education|AI]] and [[social-emotional-learning|social-emotional learning (SEL)]] finds a substantial "policy deficit": nearly three-quarters of studies make no mention of policy implications at all, and those that do often lack the actor-specific detail needed for evidence-informed policymaking. Using a "WH-question" framework (Who, What, Why, When/Where, How), the authors show that policy [[student-engagement|engagement]] correlates with publication venue, reflecting academic incentives that favor technical novelty over [[governance]] and [[regulation]]. They warn of a "techno-solutionist" trap and call for a shift from "implication-as-afterthought" to "implication-as-methodology," offering guidelines for [[research-methods-aied|researchers]], editors, reviewers, and policymakers.

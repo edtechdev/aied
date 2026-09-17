@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.27586.md']
 confidence: high
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Randomized A/B crossover study (N=220) in a junior-level algorithms course comparing solution evaluation/critique tasks against traditional solution generation. Finds that evaluation-centered tasks produce comparable [[learning-gains|learning outcomes]] with a localized homework advantage that does not transfer to [[summative-assessment|summative]] performance, suggesting evaluation tasks are a viable [[pedagogy|pedagogical]] response to the availability of [[generative-ai|GenAI]] code generation tools.

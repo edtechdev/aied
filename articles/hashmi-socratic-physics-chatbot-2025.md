@@ -14,7 +14,7 @@ sources: ['raw/papers/hashmi-socratic-physics-chatbot-2025.md']
 confidence: medium
 audience: [instructors, researchers]
 level: [higher ed]
-category: [evaluation, engagement]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** A custom Socratic AI [[conversational-ai|chatbot]] deployed in a large-enrollment introductory mechanics course with 150 first-year STEM majors, demonstrating that AI-driven Socratic dialogue can foster expert-like reasoning while generating fine-grained learning analytics for physics education [[research-methods-aied|research]].

@@ -11,7 +11,6 @@ stakeholders: [student-experience]
 ethics: [hallucination-risk, trust-calibration]
 research_method: [case study, mixed methods, thematic analysis]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/sidorkin-ai-generated-course-readings-2026.md']
 confidence: high
 audience: [instructors, curriculum designers]

@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/learn-framework-responsible-genai-pbl-2026.md']
 confidence: medium
 audience: [instructional designers, educators, assessment designers]
-category: [framework, assessment, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Uden and Hwang (2026) propose the **LEARN framework** — [[lifelong-learning|Lifelong Learning]], [[student-engagement|Engagement]], Active Processing, Reflection, and Neuro-based Design — as a neuroscience-informed conceptual model for the [[ethics|ethical]], pedagogically grounded integration of [[generative-ai|generative AI]] (GAI) into [[problem-based-learning|problem-based learning]] (PBL) [[assessment]]. Responding to students using GAI as their *primary* means of completing assessments, the framework positions GAI as a **cognitive [[scaffolding|scaffold]] rather than a cognitive substitute**, encouraging [[critical-thinking|critical evaluation]], reflective judgment, and ethical [[self-regulated-learning|self-regulation]]. It synthesises educational neuroscience, [[constructivist|constructivist/PBL]] theory, and emerging [[research-methods-aied|research]] on ethical AI use to redesign assessment toward process-based learning, moving beyond both instrument adoption and prohibition.

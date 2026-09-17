@@ -11,7 +11,6 @@ stakeholders: [educational-policy-ai]
 ethics: [ai-misuse-learning-harm, ethics]
 research_method: [systematic review]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/ssaho-ai-academic-integrity-review-2025.md']
 confidence: high
 audience: [administrators, institutions, educators]

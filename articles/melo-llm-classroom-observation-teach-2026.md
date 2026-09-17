@@ -10,7 +10,7 @@ assessment: [ai-ed-evaluation, ai-feedback-quality, assessment-validity, automat
 stakeholders: [professional-training]
 research_method: [educational measurement, interviews, benchmark]
 audience: [instructors, faculty development]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/melo-llm-classroom-observation-teach-2026.md']
 confidence: high
 level: [elementary]

@@ -14,7 +14,7 @@ level: [adult learning]
 sources: ['raw/papers/sovereign-hive-titl-further-education-2026.md']
 confidence: high
 audience: [educators, policymakers, institutions]
-category: [equity, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Herron (2026) introduces a conceptual framework developed through practitioner-led inquiry in an Irish Youthreach setting, centering marginalized Further Education and Training (FET) learners. The paper uses a 'Mars Gravity' metaphor to describe the intensified pressure of overlapping neurodivergent, social, and psychological burdens; when these exceed available resources, learners enter 'Barren Mars Gravity' (BMG), a state of cognitive and relational collapse. In response, the 'Sovereign Hive' is proposed as a relational learning environment functioning as an atmospheric regulator, operationalized by the Tutor-in-the-Loop (TITL) framework. Through the shame-proof 'Abditory' and a Mars Zone of Proximal Development, learners are moved from BMG toward Emancipated Mars Gravity (EMG). The work reframes [[generative-ai]] [[equity-in-ai-education|equity]] as atmospheric [[regulation]] rather than mere tool access, connecting [[cognitive-offloading]], [[metacognition]], [[neurodiversity]], and [[human-in-the-loop-ai]] in [[adult-learning]] contexts, and argues that systemic parity for educators is the condition that makes this restorative work possible.

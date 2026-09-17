@@ -10,7 +10,6 @@ ethics: [digital-divide, equity-in-ai-education, global-south]
 research_method: [secondary analysis]
 audience: [policymakers, institutions, administrators, researchers]
 level: [higher ed]
-category: [equity, policy]
 sources: ['raw/papers/adeniranye-ai-integration-nigerian-higher-education-2026.md']
 confidence: high
 ---

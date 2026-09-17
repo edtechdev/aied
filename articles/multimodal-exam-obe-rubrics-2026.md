@@ -9,7 +9,6 @@ assessment: [assessment, automated-assessment, benchmark, educational-measuremen
 audience: [software developers]
 research_method: [educational measurement, benchmark]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/multimodal-exam-obe-rubrics-2026.md']
 confidence: high
 ---

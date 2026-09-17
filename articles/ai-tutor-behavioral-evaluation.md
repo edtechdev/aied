@@ -9,8 +9,6 @@ technology: [intelligent-tutoring, knowledge-tracing, llm]
 assessment: [benchmark]
 research_method: [experiment, benchmark]
 level: [higher ed]
-category: [engagement]
-
 sources: ['raw/papers/2605.05648.md']
 confidence: high
 discipline: [cs education]

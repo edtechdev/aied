@@ -16,7 +16,6 @@ level: [higher ed]
 sources: ['raw/papers/10.3389_fpsyg.2026.1858187.md']
 confidence: high
 discipline: [design education]
-category: [ai foundations, curriculum design]
 ---
 
 > **Synthesis:** Liu, Meng, and Zhang (2026) examined technology acceptance of text-to-image (T2I) generative AI in art and design education from both educators' and students' perspectives, using a modified exploratory sequential [[mixed-methods-research|mixed-methods]] design (QUAL-QUAN-qual). Based on instructor focus groups, a survey of 417 college students, and semi-structured interviews, they found that performance expectancy, social influence, novelty value, and creative competence positively influence behavioral intention, while the negative effects of effort expectancy and facilitating conditions reflect students' shortcut-oriented use in coursework. They identify a competence paradox: although creative competence supports behavioral intention, it may also lead to more selective or restrained actual use as students negotiate authorship, originality, and skill preservation.

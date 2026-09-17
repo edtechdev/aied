@@ -10,7 +10,7 @@ technology: [human-in-the-loop-ai, pedagogical-llm-training]
 assessment: [ai-ed-evaluation, assessment, formative-assessment]
 research_method: [theoretical analysis, systematic review]
 level: [higher ed]
-category: [evaluation, assessment]
+page_kind: [evaluation]
 sources: ['raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md']
 confidence: high
 audience: [assessment designers, instructors, curriculum designers]

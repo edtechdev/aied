@@ -11,7 +11,7 @@ research_method: [theoretical analysis]
 sources: ['raw/papers/self-directed-growth-generative-ai-learning-analytics.md']
 confidence: high
 audience: [learning analytics designers, designers]
-category: [framework, equity]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Mao (2025) proposes a conceptual framework that integrates [[generative-ai|Generative AI]] (GAI) and [[learning-analytics|learning analytics]] to cultivate **Self-Directed Growth** — a competency enabling learners to iteratively drive their own developmental pathways across contexts. At its core is the **Aspire to Potentials for Learners (A2PL)** model, which reconceptualizes learner aspirations, complex thinking, and [[summative-assessment|summative]] self-assessment within GAI-supported environments. The paper argues that sustainable learner [[agency]] and [[equity-in-ai-education|educational equity]] depend less on access than on building the Capacity to Aspire and clear developmental pathways, positioning GAI as a non-prescriptive collaborative [[scaffolding|scaffold]] rather than a content provider.

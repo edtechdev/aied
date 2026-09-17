@@ -13,7 +13,7 @@ sources: ['raw/papers/prisma-llm-ai-assisted-systematic-reviews-2026.md']
 confidence: high
 research_method: [bibliometric, secondary analysis]
 audience: [researchers]
-category: [framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Zabaleta and Lin analyze SciLitBench, a corpus of 888 review-automation papers carrying 14,726 annotation items, to show that [[meta-analysis-systematic-review|systematic review]] automation has shifted toward [[llm|LLM]]- and software-facing workflows while the information needed to audit those workflows is reported unevenly. Their central finding is a persistent accountability gap: since 2023, 38.0% of software/product papers reported no evaluation at all, compared with 9.3% of LLM papers, and [[generative-ai|generative AI]] adoption in [[biology-education|life sciences]] and [[medical-education|medicine]] approached 60% in recent months. A second finding is that favorable assessments and unmet reliability requirements routinely coexist — 52% of the 118 positive-only LLM papers still reported at least one concern that the workflow fell below the bar required for its intended role. From these patterns the authors derive PRISMA-LLM, a three-layer framework that separates implementation disclosure from consequence-sensitive evaluation, and treat its five levels as disclosure tiers rather than risk tiers — a position that speaks directly to [[ai-use-disclosure|AI use disclosure]], [[human-in-the-loop-ai|human-in-the-loop AI]], and the wider problem of [[limitations-in-aied-research|reporting limitations]] in AI-assisted research.

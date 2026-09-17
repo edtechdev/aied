@@ -8,7 +8,6 @@ technology: [generative-ai]
 assessment: [assessment, automated-assessment, eportfolio, feedback-literacy]
 research_method: [mixed methods, quasi-experiment]
 discipline: [language learning]
-category: [assessment]
 sources: ['raw/papers/sutama-chatgpt-eportfolio-speaking-2026.md']
 confidence: high
 audience: [instructors, assessment designers]

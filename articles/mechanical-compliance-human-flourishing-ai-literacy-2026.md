@@ -12,7 +12,7 @@ research_method: [literature review]
 level: [higher ed]
 sources: ['raw/papers/mechanical-compliance-human-flourishing-ai-literacy-2026.md']
 confidence: high
-category: [framework, equity]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Rose (2026) is a [[meta-analysis-systematic-review|literature review]] that reframes [[ai-literacy|AI literacy]] in [[higher-ed|higher education]] from a compliance exercise into a humanist practice, synthesizing the historical evolution of the [[digital-divide|digital divide]] with current AI literacy needs through the [[philosophy-of-ai-in-education|philosophical]] and [[pedagogy|pedagogical]] lenses of Erich Fromm's socialist humanism, Malcolm Knowles' [[adult-learning|andragogy]], and Jack Mezirow's transformative learning. The review argues that successful AI literacy programs must bridge technical understanding with social advocacy, environmental awareness, and psychological safety, and it identifies four research gaps — transcending functional training, establishing psychological safety, pursuing sustainable implementation, and preserving human [[agency]] — each mapped to a core tenet of the proposed framework. The central thesis is that [[ethics|ethical]], [[equity-in-ai-education|equitable]] AI education must place human flourishing, not administrative efficiency or compliance, at the center of the academic experience.

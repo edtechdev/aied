@@ -12,7 +12,6 @@ research_method: [benchmark, educational measurement, secondary analysis]
 discipline: [writing education]
 audience: [assessment professionals, policymakers, institutions]
 level: [secondary]
-category: [assessment, policy]
 ---
 
 > **Synthesis:** This study designs and validates a [[human-in-the-loop-ai|human-in-the-loop]] (HITL) framework for [[automated-essay-scoring|AI-assisted scoring]] of ~150–200-word Spanish argumentative texts in *Acredita EB*, Uruguay's national lower-secondary accreditation exam, using two years of operational data (~5,000–6,000 candidates per edition). A prompt-engineered GPT-5 model scored the 15-item analytic rubric at 60–80% agreement with expert raters — about 5% below human inter-rater agreement for most items — with 90%+ run-to-run consistency, while the spelling item was delegated to a deterministic grammar checker. The model's errors were systematically conservative: it under-graded, producing human-pass/AI-fail discrepancies in 15.3% (2024) and 16.5% (2025) of cases but almost never the reverse, which makes an asymmetric decision flow viable — AI-passing results are accepted, AI-failing results are routed to expert review. The authors estimate this reduces the responses needing full human scoring by at least 50% while preserving decision quality, though the claim rests on treating variable human ratings as [[assessment-validity|valid]] ground truth and on an untested [[simulation]] rather than a live deployment.

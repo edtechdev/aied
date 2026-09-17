@@ -10,8 +10,6 @@ assessment: [assessment, educational-measurement]
 research_method: [educational measurement]
 discipline: [stem education]
 level: [higher ed]
-category: [assessment]
-
 confidence: high
 ---
 

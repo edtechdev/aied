@@ -12,7 +12,6 @@ level: [k 12]
 sources: ['raw/papers/educational-robotics-pathways-2026.md']
 confidence: high
 audience: [educators, curriculum designers]
-category: [engagement, equity]
 ---
 
 > **Synthesis:** A [[qualitative-research|qualitative]] study of 15 high school students in a semester-long, [[project-based-learning|project-based]] robotics + AI [[curriculum-design|curriculum]] (mBot kits + image recognition ML) reveals that students develop understanding of [[educational-robotics]] and AI through three epistemically plural pathways — engaging in real-world robotics practices (troubleshooting hardware, sensors, and physical conditions), designing (building and iterating costumes for their robots), and playful/creative expression (personalizing code and exploring AI features). Grounded in [[constructivist]] theory and epistemological pluralism, the study argues these diverse forms of engagement are legitimate ways of knowing in computing — not mere stepping stones toward "real" coding — and offers alternative entry points for broadening participation in [[k-12]] [[cs-education]].

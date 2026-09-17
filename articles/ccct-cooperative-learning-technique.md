@@ -12,7 +12,6 @@ level: [higher ed]
 sources: ['raw/papers/srep-ccct-cooperative-learning.md']
 confidence: high
 audience: [teacher educators, educators, instructional designers]
-category: [instructional design, collaborative learning]
 ---
 
 > **Synthesis:** Artificial intelligence assisted design of a novel cooperative learning technique for higher education

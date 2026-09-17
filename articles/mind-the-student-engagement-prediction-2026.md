@@ -10,7 +10,7 @@ assessment: [ai-ed-evaluation]
 audience: [software developers]
 research_method: [system development, benchmark]
 level: [higher ed]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/mind-the-student-engagement-prediction-2026.md']
 confidence: high
 ---

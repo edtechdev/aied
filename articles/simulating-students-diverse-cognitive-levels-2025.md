@@ -11,7 +11,7 @@ research_method: [system development, benchmark]
 sources: ['raw/papers/2505.19997.md']
 confidence: high
 discipline: [cs education]
-category: [framework, evaluation]
+page_kind: [framework, evaluation]
 ---
 
 > **Synthesis:** Wu et al. (2025, ACL) tackle the core challenge of [[simulating-students]]: LLMs trained as "helpful assistants" produce overly perfect answers and fail to model the natural imperfections and varied cognitive levels of real learners. They propose a training-free framework that builds a cognitive prototype of each student from a [[knowledge-graph]], predicts performance on new tasks, and iteratively refines simulated solutions via beam search to reproduce realistic mistakes — achieving a 100% improvement in simulation accuracy on a new Student_100 dataset.

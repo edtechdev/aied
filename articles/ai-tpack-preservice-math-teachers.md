@@ -11,7 +11,7 @@ audience: [faculty development]
 level: [higher ed]
 sources: ['raw/papers/caeai-ai-tpack-math.md']
 confidence: medium
-category: [assessment, framework, evaluation]
+page_kind: [framework, evaluation]
 ---
 
 > **Synthesis:** [[ai-literacy|AI literacy]]-related domains and AI-[[tpack]] readiness among preservice mathematics teachers: A factor-informed structural equation modeling study

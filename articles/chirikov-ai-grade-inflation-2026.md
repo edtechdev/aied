@@ -10,7 +10,6 @@ assessment: [assessment, assessment-validity, automated-assessment, educational-
 research_method: [quantitative, quasi-experiment]
 audience: [instructors, administrators, researchers, policymakers]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/chirikov-ai-grade-inflation-2026.md']
 confidence: high
 

@@ -8,7 +8,6 @@ foundations: [academic-integrity]
 technology: [generative-ai, llm]
 assessment: [assessment, item-response-theory]
 research_method: [benchmark]
-category: [assessment]
 sources: ['raw/papers/irt-human-genai-mcq-responses.md']
 confidence: high
 discipline: [chemistry education]

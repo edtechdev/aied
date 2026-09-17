@@ -13,7 +13,7 @@ audience: [instructors, assessment professionals, administrators]
 level: [higher ed]
 sources: ['raw/papers/ai-agents-complete-lms-assessment-validity-2026.md']
 confidence: high
-category: [assessment, evaluation, policy]
+page_kind: [evaluation]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

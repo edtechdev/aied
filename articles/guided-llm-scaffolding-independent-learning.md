@@ -10,7 +10,6 @@ technology: [intelligent-tutoring, llm, prompt-engineering]
 audience: [learners, instructors]
 research_method: [quasi-experiment, quantitative]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/2606.01375.md']
 confidence: high
 discipline: [math education]

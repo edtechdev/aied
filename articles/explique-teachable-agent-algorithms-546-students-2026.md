@@ -12,7 +12,7 @@ level: [higher ed]
 sources: ['raw/papers/raw-wang-epfl-explique.md']
 confidence: high
 audience: [instructors, instructional designers]
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Wang et al. (2026) present **Explique**, a platform integrating an AI teachable agent (Algorithm Apprentice) into an undergraduate algorithms course to operationalize [[learning-by-teaching]] (LBT) at scale. In an 11-week field deployment with **546 students** and 3,809 student–agent LBT dialogues, they find that explanation-oriented dialogue behaviors (elaboration, showing reasoning) are associated with fewer incorrect quiz submissions, while external-content reuse is associated with more repeated attempts. The LBT condition corresponded to a modest reduction in expected quiz attempts versus a baseline reading activity — the largest longitudinal, in-situ evidence to date that LLM teachable agents can sustain learning-by-[[teacher-role|teaching]] in a real high-enrollment course.

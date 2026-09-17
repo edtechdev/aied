@@ -11,7 +11,6 @@ assessment: [assessment]
 audience: [researchers, instructors]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/10.1016_j.caeai.2026.100573.md']
 confidence: high
 ---

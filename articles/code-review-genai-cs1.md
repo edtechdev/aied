@@ -16,7 +16,6 @@ level: [higher ed]
 
 sources: ['raw/papers/2605.21374.md']
 confidence: high
-category: [assessment, instructional design, policy]
 ---
 
 > **Synthesis.** Fowles et al. (2026) offer a harm-reduction blueprint for [[generative-ai]] in [[cs-education]]: rather than banning large language models ([[llm]]s), make students accountable for understanding whatever code they submit through weekly oral code review interviews. At [[higher-ed|Utah State University]], an [[active-learning|flipped classroom]] freed class time for one-on-one assessments, and three semesters of data showed sharply higher AI usage (paste-to-type ratios up) with no statistically significant decline in exam scores — evidence that structured oral [[formative-assessment]] can preserve [[learning-gains]] even as reliance on AI tools rises.

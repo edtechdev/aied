@@ -11,7 +11,7 @@ level: [higher ed]
 sources: ['raw/papers/ai-student-engagement-online-learning-review-2025.md']
 confidence: high
 audience: [instructional designers, educators, learning analytics designers]
-category: [engagement, synthesis]
+page_kind: [synthesis]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

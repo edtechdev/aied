@@ -13,7 +13,7 @@ confidence: high
 research_method: [quasi-experiment]
 discipline: [science education]
 audience: [educators, curriculum designers, researchers]
-category: [evaluation, engagement]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** A three-group quasi-experimental pretest-posttest study examining whether [[generative-ai|AI-assisted]] [[inquiry-based-learning|inquiry]] strengthens students' decision-making on a climate-change socio-scientific issue (SSI). Climate change is a quintessential SSI — it rests on science but cannot be settled by science alone, forcing learners to weigh costs, values, and competing interests under uncertainty.

@@ -14,7 +14,6 @@ discipline: [stem education]
 audience: [learners, instructors]
 level: [higher ed, special education]
 confidence: high
-category: [equity, policy]
 sources: []
 ---
 

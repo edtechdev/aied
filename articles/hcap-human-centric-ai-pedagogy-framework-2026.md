@@ -10,7 +10,6 @@ stakeholders: [teacher-ai-competency]
 ethics: [ethics]
 research_method: [delphi]
 audience: [faculty development]
-category: [instructional design]
 sources: ['raw/papers/10.1080_10494820.2026.2615818.md']
 confidence: high
 level: [teacher training]

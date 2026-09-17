@@ -12,7 +12,6 @@ ethics: [equity-in-ai-education]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [quasi-experiment, secondary analysis]
 level: [k 12]
-category: [assessment]
 sources: ['raw/papers/stromberg-generative-ai-learning-penalty-secondary-2026.md']
 confidence: high
 audience: [policymakers, educators, administrators]

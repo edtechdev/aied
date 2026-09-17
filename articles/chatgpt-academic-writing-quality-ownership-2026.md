@@ -12,7 +12,6 @@ level: [higher ed]
 sources: ['raw/papers/chatgpt-academic-writing-quality-ownership-2026.md']
 confidence: high
 audience: [educators, instructors]
-category: [instructional design, engagement]
 ---
 
 > **Synthesis:** Bauer, Fütterer, Brucker, and Gerjets (2026) test whether [[generative-ai|ChatGPT]] promotes students' [[writing-education]] skills — especially when writing without ChatGPT after having used it. In an ABA-within-subjects experiment lasting three hours, 21 first-year international fashion-design students in Berlin (admitted via IELTS/TOEFL performance, mean English proficiency 4.67/6) wrote introductions to three scientific papers on permuted fashion-related topics: first without AI, second with ChatGPT (via a GPT-3.5 API embedded in the experiment interface), and third again without assistance, each in 35–50 minutes. ChatGPT produced statistically significant gains in writing quality both during use (examiner total text scores d = 1.18, p < .001; readability d = 1.09; cohesion d = 0.88; grammar mistakes reduced d = −1.12) and immediately after use (examiner total d = 1.12; cohesion d = 0.49), while also improving the subjective writing experience (lower Cognitive Load Theory d = −1.59; greater perceived ease d = 1.04). Notably, while students' sense of ownership dropped during ChatGPT use (d = −0.52), their perceived ownership increased after writing again unaided, with the "substantial contributions" item improving significantly (d = 0.64, p = .004), suggesting a nuanced [[academic-integrity|authorship]]–ownership relationship.

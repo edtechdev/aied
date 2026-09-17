@@ -11,7 +11,7 @@ research_method: [benchmark, experiment]
 sources: ['raw/papers/2605.30666.md']
 confidence: high
 discipline: [math education]
-category: [evaluation, assessment]
+page_kind: [evaluation]
 ---
 > **Synthesis:** TEI is a **training-free, judge-free index** that selects the best [[intelligent-tutoring|tutoring]] response from multiple [[llm|LLM]] candidate outputs using only four internal conversation signals — no [[reinforcement-learning|RL]] training, no external judge model, no reward model required.
 

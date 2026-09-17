@@ -10,7 +10,6 @@ assessment: [assessment]
 audience: [software developers]
 research_method: [instrument development, educational measurement]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/llm-pedagogical-behavior-ai-tutoring-2026.md']
 confidence: high
 discipline: [cs education]

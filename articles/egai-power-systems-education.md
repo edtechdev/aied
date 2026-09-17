@@ -9,7 +9,6 @@ technology: [llm, rag]
 stakeholders: [open-source, professional-training]
 research_method: [survey]
 discipline: [stem education]
-category: [curriculum design]
 sources: ['raw/papers/2608.02599.md']
 confidence: high
 audience: [instructors, curriculum designers]

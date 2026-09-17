@@ -9,7 +9,6 @@ assessment: [assessment, automated-assessment, benchmark]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [physics education, stem education]
-category: [assessment]
 sources: ['raw/papers/2608.25398.md']
 confidence: high
 level: [secondary, higher ed]

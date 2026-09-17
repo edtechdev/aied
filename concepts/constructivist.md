@@ -7,7 +7,6 @@ tags: [learning-theories, active-learning, scaffolding, self-regulated-learning,
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
-category: [instructional design]
 confidence: high
 ---
 

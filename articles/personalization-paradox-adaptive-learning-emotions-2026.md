@@ -12,7 +12,6 @@ research_method: [longitudinal survey, structural equation modeling]
 sources: ['raw/papers/10.3389_fpsyg.2026.1915839.md']
 confidence: high
 level: [higher ed]
-category: [engagement]
 ---
 
 > **Synthesis:** This three-wave longitudinal study of 486 Chinese [[higher-ed|undergraduates]] found that perceiving one's [[adaptive-learning|AI-adaptive learning environment]] as highly personalized was negatively associated with [[self-regulated-learning|self-regulated learning]], evidencing the "[[personalized-learning|personalization]] paradox." Changes in academic emotions—reduced enjoyment and increased anxiety and boredom—mediated more than half of this effect, while [[ai-literacy|AI literacy]] buffered the emotional harm, moderating the first stage of the pathway.

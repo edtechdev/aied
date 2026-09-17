@@ -13,7 +13,7 @@ sources: ['raw/papers/liu-tool-tutor-crutch-programming-2026.md']
 confidence: high
 audience: [instructors, educators, instructional designers]
 level: [higher ed]
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** This [[constructivist]] grounded-theory study (N = 24 AI-enabled + 17 contrast undergraduates in Java programming) builds a process-level model of how learners navigate the tension between "Domain Mastery" (conceptualization, explanation, evaluation) and "Tool Mastery" (procedural efficiency with AI) through two recurrent loops — **[[scaffolding]]** and **Offloading** — interpreted through cognitive load theory and [[self-determination-theory|self-determination theory]]. It explains how performance and affect gains can co-occur with thinner germane processing and attenuated [[metacognition|metacognitive calibration]] under routine offloading.

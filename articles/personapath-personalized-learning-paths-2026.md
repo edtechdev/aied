@@ -13,7 +13,7 @@ confidence: high
 research_method: [benchmark]
 level: [k 12, higher ed]
 audience: [researchers, instructional designers]
-category: [evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Most [[recommender-systems-and-learning-paths|learning path recommendation]] infers the next step from item-level interaction logs, which means two learners with identical correctness records get identical advice even when their goals differ. PersonaPath reframes the task as Knowledge-Centric planning: given an explicit learner persona, a mastery state and a stated target unit, decide which textbook, unit and concept to study next so that [[curriculum-design|prerequisite structure]] is respected and the goal is actually reached. The benchmark pairs 2,000 synthetic personas with a hierarchical [[knowledge-graph|knowledge graph]] of 347 textbooks, 1,751 units and 4,092 concepts across 77 subjects, and the results are sobering — the best model reaches a 29.5% final pass rate in Basic Education and no model exceeds 44.7% on adaptivity, even though several score above 90% on structural validity. The ablations locate the failure precisely: [[mastery-learning|mastery information]] and step-by-step feedback are what models cannot do without, and the prevailing pattern is a planner that produces a defensible curriculum and ignores the learner it was given.

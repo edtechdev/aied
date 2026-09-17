@@ -9,7 +9,6 @@ technology: [generative-ai]
 assessment: [assessment, authentic-assessment, automated-assessment, feedback, formative-assessment]
 discipline: [language learning]
 level: [higher ed]
-category: [assessment]
 confidence: high
 ---
 

@@ -13,7 +13,7 @@ audience: [learners, software developers]
 
 sources: ['raw/papers/2607.28128.md']
 confidence: high
-category: [evaluation, assessment]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Pre-registered study auditing whether general-purpose helpfulness rubrics can distinguish direct answer-giving from [[pedagogy|pedagogical]] guidance in [[llm]] tutors. Uses deterministic detectors for answer leakage and next-turn independent work across three tutor models. Finds that helpfulness ratings conflate genuine pedagogical [[scaffolding]] with simply giving correct answers.

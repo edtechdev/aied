@@ -12,7 +12,7 @@ ethics: [ethics]
 research_method: [position paper, literature review]
 audience: [instructors, educators, assessment professionals, administrators, researchers]
 level: [higher ed]
-category: [assessment, framework]
+page_kind: [framework]
 sources: ['raw/papers/ai-agents-joyful-assessment-third-space-2026.md']
 confidence: medium
 ---

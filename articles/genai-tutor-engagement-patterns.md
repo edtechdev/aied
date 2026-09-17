@@ -10,7 +10,6 @@ stakeholders: [student-experience]
 research_method: [learning analytics, secondary analysis]
 audience: [learners]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/2602.00447.md']
 confidence: high
 ---

@@ -14,8 +14,7 @@ audience: [instructors, students, administrators]
 level: [higher ed]
 sources: ["raw/papers/10.1016_j.caeo.2026.100323.md"]
 confidence: high
-category: [assessment, evaluation]
-
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Pérez-Portabella, Arias-Oliva, Padilla-Castillo, and de Andrés-Sánchez (2026) use the Multidimensional Ethics Scale with 151 Spanish [[higher-ed|undergraduates]] to test whether [[ethics|ethical]] perceptions shape intention to use large language models for exam preparation and, in turn, actual use. Necessary Condition Analysis shows all three ethical dimensions (moral [[equity-in-ai-education|equity]], consequentialism, deontology) are necessary conditions for intention to use, while PLS-SEM finds only consequentialist and deontological judgments are sufficient predictors; intention is both a necessary and a strong sufficient predictor of actual use. The results position ethical reasoning as central to responsible [[llm]] adoption in assessment contexts.

@@ -11,7 +11,7 @@ discipline: [chemistry education]
 sources: ['raw/papers/philosophy-experimentation-ai-chemistry-2026.md']
 confidence: high
 audience: [researchers, instructors]
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 > **Synthesis:** Reyes and Regala (2026) offer a philosophical examination of how **AI reshapes the epistemology, ontology, and methodology of experimentation in [[chemistry-education|chemistry education]]**. AI-driven methods challenge the traditional realism/positivism of the chemistry laboratory, placing AI predictions in a **"liminal ontological space"** — neither wholly hypothetical nor fully real until empirically proven. The authors trace **ontological shifts** (e.g., AI-predicted compounds and titration curves blur the virtual/physical boundary), **[[agency|agency shift]]** (AI's role in decision-making raises questions about the locus of scientific [[creativity]]), and the risk of **over-reliance** on AI that automates routine tasks and alters how experiments are conceived. They argue for a **balanced human–AI framework** that maximizes AI's benefits while preserving the essential elements of scientific reasoning, intuition, creativity, and discovery. 
 

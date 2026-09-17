@@ -11,7 +11,6 @@ assessment: [assessment]
 ethics: [ethics]
 research_method: [mixed methods, case study]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/ying-genai-journalism-assessment-2026.md']
 confidence: medium
 discipline: [writing education]

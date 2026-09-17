@@ -12,7 +12,6 @@ level: [higher ed]
 sources: ['raw/papers/2607.18864.md']
 confidence: high
 audience: [instructors, learners]
-category: [instructional design]
 ---
 
 > **Synthesis:** Nemo Explain Visualizer (nev) is an interactive visual query tracer and builder for the Datalog reasoner Nemo. Although built for expert users, the authors conducted a [[qualitative-research|qualitative]] study with 14 participants at varying levels of involvement in a university [[knowledge-graph]] course to assess whether such tools help students learn declarative logic programming.

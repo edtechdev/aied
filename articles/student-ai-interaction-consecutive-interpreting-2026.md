@@ -11,7 +11,7 @@ research_method: [experiment, quantitative]
 discipline: [language learning]
 audience: [instructors, researchers]
 level: [higher ed]
-category: [framework]
+page_kind: [framework]
 created: "2026-09-13T08:04:21-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 ---

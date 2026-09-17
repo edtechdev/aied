@@ -14,7 +14,6 @@ level: [k 12]
 sources: ['raw/papers/2605.18761.md']
 confidence: high
 discipline: [math education]
-category: [collaborative learning, instructional design]
 ---
 
 > **Synthesis.** Yang et al. (2026) use participatory speed dating with 17 teachers and 13 students to map how control and [[agency]] should be distributed across the three stages of *dynamic pairing* — before, during, and after pairing students between individual and [[collaborative-learning]] modes. They frame findings within a hybrid-control design space and recommend **structured teacher guidance early, with progressively increasing student autonomy as activities unfold**. Neither teachers nor students wanted full control: both groups favored *shared* decision-making, converging on a "ready to collaborate" mechanism for timing and on teacher-led pairing with limited student role/partner input. The result is an actionable principle for human–AI co-orchestration tools in K-12 classrooms.

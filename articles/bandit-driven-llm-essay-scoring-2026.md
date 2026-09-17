@@ -10,7 +10,6 @@ stakeholders: [edtech-platform]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [writing education]
-category: [assessment]
 sources: ['raw/papers/bandit-driven-llm-essay-scoring-2026.md']
 confidence: high
 ---

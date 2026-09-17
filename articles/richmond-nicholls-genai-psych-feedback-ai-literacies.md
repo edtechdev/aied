@@ -11,8 +11,6 @@ audience: [learners, instructors]
 research_method: [case study]
 discipline: [writing education]
 level: [higher ed]
-category: [assessment]
-
 sources: ['raw/papers/richmond-nicholls-genai-psych-feedback-ai-literacies.md']
 confidence: high
 ---

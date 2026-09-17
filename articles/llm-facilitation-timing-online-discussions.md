@@ -9,7 +9,6 @@ pedagogy: [collaborative-learning, student-ai-interaction, student-engagement]
 technology: [human-in-the-loop-ai, learning-analytics, llm]
 research_method: [benchmark]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/2607.28643.md']
 confidence: high
 audience: [researchers, instructors, edtech designers]

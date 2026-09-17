@@ -16,7 +16,7 @@ level: [higher ed]
 
 sources: ['raw/papers/tandf-2026-feedback-futures-genai.md']
 confidence: high
-category: [synthesis, assessment, policy]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** This editorial synthesises the seven papers of the AEHE 51(5) special issue on feedback in the age of [[generative-ai|generative AI]]. Its central claim: the question is **not whether GenAI feedback is useful, but how human and GenAI feedback can be combined to sustainably support learning rather than merely improve immediate performance**. Teacher and student [[feedback-literacy|feedback literacy]] are necessary but not sufficient — what is also required is deliberate pedagogic design, [[governance|institutional]] conditions that prioritize learning over efficiency, and the purposeful development of human judgment that cannot be delegated to the tool.

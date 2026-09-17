@@ -15,7 +15,7 @@ audience: [instructors]
 sources: ['raw/papers/10.3389_fpsyg.2026.1918980.md']
 confidence: high
 level: [higher ed]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Lu et al. (2026) examined, through the lens of Social Cognitive Theory, whether Chinese university EFL learners' perceptions of [[generative-ai]]-based pronunciation feedback relate to their willingness to communicate (WTC) in English, with English pronunciation [[self-efficacy]] as a hypothesized mediator. Using a cross-sectional survey of 1,701 learners, covariance-based structural equation modeling, and bias-corrected bootstrapping, they found that positive perceptions of GenAI pronunciation feedback were significantly associated with greater WTC in English, and that pronunciation self-efficacy partially mediated this relationship — the indirect effect accounted for 69.9% of the total effect while the direct effect remained significant.

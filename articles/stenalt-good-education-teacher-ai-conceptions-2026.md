@@ -11,7 +11,6 @@ stakeholders: [teacher-ai-competency]
 research_method: [qualitative]
 audience: [instructors]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/stenalt-good-education-teacher-ai-conceptions-2026.md']
 confidence: high
 ---

@@ -12,7 +12,7 @@ research_method: [systematic review]
 discipline: [nursing education]
 audience: [medical educators, educators, curriculum designers, researchers, policymakers]
 level: [higher ed]
-category: [framework, curriculum design, synthesis]
+page_kind: [framework, synthesis]
 sources: ['raw/papers/sun-llm-nursing-education-professional-identity-2026.md']
 confidence: high
 ---

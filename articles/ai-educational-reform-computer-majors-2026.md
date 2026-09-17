@@ -12,7 +12,6 @@ sources: [raw/papers/10.3389_fpsyg.2026.1790916.md]
 confidence: high
 discipline: [cs education]
 level: [higher ed]
-category: [curriculum design, instructional design]
 ---
 
 > **Synthesis:** Grounded in China's "new engineering" educational philosophy, this study designs and pilots an AI-integrated talent-cultivation reform for computer-related majors that embeds AI across curriculum, teaching, practice, and [[authentic-assessment|assessment]]. A pre/post cohort comparison across four [[higher-ed|undergraduate]] programs reports clear gains in programming completion, algorithmic reasoning, teamwork, and teaching effectiveness, though the single-institution, non-experimental design limits generalization.

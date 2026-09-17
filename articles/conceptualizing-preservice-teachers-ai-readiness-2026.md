@@ -10,7 +10,6 @@ stakeholders: [tpack]
 audience: [instructors, faculty development]
 research_method: [survey]
 level: [teacher training]
-category: [assessment]
 sources: ['raw/papers/conceptualizing-preservice-teachers-ai-readiness-2026.md']
 confidence: high
 ---

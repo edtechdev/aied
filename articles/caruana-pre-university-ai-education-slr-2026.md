@@ -11,7 +11,6 @@ ethics: [digital-divide, equity-in-ai-education]
 research_method: [systematic review]
 audience: [instructors]
 level: [k 12]
-category: [curriculum design]
 sources: ['raw/papers/caruana-pre-university-ai-education-slr-2026.md']
 confidence: high
 ---

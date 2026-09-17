@@ -11,7 +11,6 @@ connected_faqs: [faculty-development-ai]
 research_method: [design-based research]
 audience: [faculty development, instructors, administrators]
 level: [higher ed]
-category: [instructional design, curriculum design]
 sources: ['raw/papers/crompton-faculty-technology-integration-standards-2026.md']
 confidence: high
 

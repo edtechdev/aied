@@ -8,7 +8,6 @@ foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
-category: [instructional design]
 confidence: high
 ---
 

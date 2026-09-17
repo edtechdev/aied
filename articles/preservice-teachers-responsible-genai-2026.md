@@ -12,7 +12,6 @@ confidence: medium
 research_method: [interviews, qualitative]
 audience: [teacher educators, curriculum designers]
 level: [teacher training]
-category: [curriculum design]
 ---
 
 > **Synthesis:** Kohnke and colleagues investigate what pre-service teachers should learn about generative AI by **backtracking from anticipated classroom dilemmas to teacher-education design needs**. Through [[qualitative-research|qualitative]] interviews with **17 pre-service teachers at a [[higher-ed|university]]**, the study explores perspectives on integrating AI into education, focusing on ethical concerns and [[pedagogy|pedagogical]] strategies within an interpretivist paradigm.

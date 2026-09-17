@@ -12,7 +12,7 @@ research_method: [benchmark, educational measurement]
 discipline: [cs education]
 audience: [assessment professionals, educators, researchers]
 level: [higher ed]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Pecuchova, Benko, and Drlik (2025) systematically benchmark eleven state-of-the-art GenAI and sentence embedding models against two expert human graders for the [[automated-assessment|automated grading]] of 1,885 open-ended student responses to 24 questions from a software engineering course in [[higher-ed|higher education]]. Using inter-rater agreement metrics (Fleiss' Kappa, Krippendorff's Alpha, QWK) and classification error analysis, they find that GPTo1 achieves almost-perfect agreement with human graders, followed closely by Claude3 and PaLM2, while reference-based sentence embedding models such as [[llm|BERT]], RoBERTa, and T5 struggle with the diverse, context-sensitive phrasing students use. The work advances [[generative-ai|generative AI]]-driven [[assessment]] and [[educational-nlp]] by showing that context-sensitive [[llm|models]] outperform similarity-based approaches for grading open-ended [[assessment|responses]].

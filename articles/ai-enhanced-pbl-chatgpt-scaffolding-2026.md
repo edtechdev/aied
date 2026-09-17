@@ -12,7 +12,7 @@ level: [k 12]
 sources: ['raw/papers/ai-enhanced-pbl-chatgpt-scaffolding-2026.md']
 confidence: medium
 audience: [teachers, educators, instructional designers]
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** La Sunra, Amaliah, & Radhiyani (2026) examine an AI-Enhanced [[problem-based-learning|Problem-Based Learning]] (AIPBL) framework that integrates ChatGPT as [[scaffolding|adaptive scaffolding]] to improve [[critical-thinking|critical thinking]] and support [[personalized-learning|personalized learning]]. Using an explanatory sequential [[mixed-methods-research|mixed-methods]] design with 120 [[k-12|eighth-grade]] students across four junior high schools in Makassar, they find a large, significant improvement in critical thinking — from 60.3 (SD 9.7) to 73.5 (SD 10.4), t(119) = 9.64, p < .001, d = 1.00 — with notable gains in analysis, inference, and bias detection. [[qualitative-research|Qualitative]] analysis shows ChatGPT supported idea exploration, strengthened verification habits, and enhanced reflection and [[metacognition|metacognitive monitoring]], without producing [[cognitive-offloading|passive dependence]].

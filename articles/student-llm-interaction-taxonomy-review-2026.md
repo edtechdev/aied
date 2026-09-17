@@ -9,7 +9,6 @@ technology: [generative-ai, learning-analytics, llm]
 assessment: [ai-feedback-quality, assessment, research-methods-aied]
 research_method: [systematic review, research methods]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/student-llm-interaction-taxonomy-review-2026.md']
 confidence: high
 audience: [researchers, learning analytics designers]

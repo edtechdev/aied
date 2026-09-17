@@ -11,7 +11,7 @@ sources: ['raw/papers/2609.10842.md']
 confidence: high
 research_method: [theoretical analysis]
 audience: [researchers, educators, curriculum designers]
-category: [framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** In this comparative philosophy of education paper, Qin Xie argues that the [[philosophy-of-ai-in-education]] debate is over-determined by a shared Western architecture that treats [[agency]] as a property of discrete subjects, frames knowledge representationally, and locates human–AI relations within a subject–object dualism. Reading classical Daoist sources alongside contemporary AI-in-education scholarship, Xie reconstructs three resources for [[theory-development-aied]]: "Dao nature" (道性) as an epistemic aim that attunes inquiry to a reality exceeding conceptual grasp, "self-cultivation" (修道) as the disciplined, non-outsourceable practice of knowing, and the "Zhenren" (真人) as a counter-ideal to the passively algorithm-managed learner. The result is not "Eastern content" added to an unchanged framework but a pluralistic foundation that reframes [[ethics]], [[critical-thinking]], and what [[well-being]] might mean in an AI-mediated education.

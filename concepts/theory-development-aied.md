@@ -8,7 +8,7 @@ foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
 assessment: [research-methods-aied]
 research_method: [literature review, research methods]
-category: [framework]
+page_kind: [framework]
 confidence: medium
 ---
 

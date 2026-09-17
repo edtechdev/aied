@@ -9,7 +9,6 @@ technology: [generative-ai]
 assessment: [assessment, automated-assessment, eportfolio, feedback]
 research_method: [qualitative, thematic analysis]
 discipline: [language learning]
-category: [assessment]
 sources: ['raw/papers/ni-lam-multiliteracies-ai-portfolio-2026.md']
 confidence: medium
 audience: [instructors, assessment designers]

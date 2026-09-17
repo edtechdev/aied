@@ -14,7 +14,7 @@ sources: ['raw/papers/conversational-agents-novice-programmers-scoping-2025.md']
 confidence: high
 audience: [educators, instructional designers, software developers]
 level: [higher ed]
-category: [synthesis, instructional design, equity]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** This PRISMA-ScR [[meta-analysis-systematic-review|scoping review]] (23 studies, 2019–June 2024) maps [[conversational-ai|conversational agents]] for novice programmers, finding the field shifting from rule-based chatbots toward [[llm|LLM]]- and [[rag|RAG]]-based agents — yet only 4 of 23 studies ground design in [[scaffolding|learning theory]]. It flags a major [[equity-in-ai-education|inclusivity]] gap (17 of 23 prototypes English-only despite most [[research-methods-aied|research]] originating outside English-speaking countries) and weak, non-standardized evaluation, and offers design recommendations for [[cs-education|introductory programming education]].

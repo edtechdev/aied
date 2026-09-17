@@ -13,7 +13,6 @@ ethics: [guardrails]
 research_method: [systematic review, randomized controlled trial, mixed methods, design-based research]
 audience: [instructors, learning designers, instructional designers]
 level: [higher ed, adult learning]
-category: [instructional design]
 ---
 
 # How Should We Design and Facilitate Asynchronous Online Courses When AI Can Do the Work?

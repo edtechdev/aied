@@ -13,7 +13,6 @@ discipline: [stem education]
 level: [k 12]
 sources: ['raw/papers/2605.14330.md']
 confidence: high
-category: [instructional design, engagement]
 ---
 
 > **Synthesis:** This mixed-methods study examines how **93 pre-high school students** develop [[computational-thinking]] skills through a five-day AI agent creation workshop using CocoFlow, a no-code platform. The study integrates pre-post assessments, behavioral logs, and interviews to trace learning trajectories.

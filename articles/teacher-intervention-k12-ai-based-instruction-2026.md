@@ -11,7 +11,7 @@ assessment: [feedback, meta-analysis-systematic-review]
 research_method: [systematic review, thematic analysis]
 audience: [teachers, teacher educators, designers, researchers, administrators]
 level: [k 12]
-category: [framework, instructional design]
+page_kind: [framework]
 sources: ['raw/papers/teacher-intervention-k12-ai-based-instruction-2026.md']
 confidence: high
 ---

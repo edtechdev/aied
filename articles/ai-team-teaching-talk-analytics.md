@@ -13,7 +13,7 @@ discipline: [stem education]
 audience: [instructors, learners]
 level: [higher ed]
 confidence: high
-category: [evaluation, engagement]
+page_kind: [evaluation]
 sources: ['raw/papers/2606.09831.md']
 ---
 

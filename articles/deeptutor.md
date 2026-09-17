@@ -12,7 +12,7 @@ research_method: [system development, benchmark]
 sources: ['raw/papers/2604.26962.md']
 confidence: high
 level: [higher ed]
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** DeepTutor is a fully [[open-source]] [[agentic-ai]] tutoring framework that closes the loop between citation-grounded problem tutoring and difficulty-calibrated [[automated-question-generation|question generation]] through a **hybrid personalization engine** coupling Static Knowledge Grounding (SKG) with Dynamic Personal Memory (DPM). The engine's **trace forest** — a three-level hierarchical memory distilled by specialized agents into an evolving learner profile — captures *how* a student errs, not just what they got wrong. Evaluated via a new student-centric benchmark (TutorBench) across five university disciplines, DeepTutor improves personalized metrics by **10.8%** on average and strengthens general agentic reasoning across five backbone models by **29.4%**. It addresses a root cause both prior tutoring and question-generation systems share: a lack of a fine-grained, evolving model of the learner.

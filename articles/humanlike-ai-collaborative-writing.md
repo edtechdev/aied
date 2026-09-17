@@ -12,7 +12,6 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2605.24729.md']
 confidence: high
-category: [engagement, instructional design]
 ---
 
 > **Synthesis:** This comparative user study (n=48) examines how the temporal and visual dimensions of AI collaboration shape the experience of [[writing-education|writing tasks]], revealing that humanlike design features in [[agentic-ai|AI agents]] create both positive social expectations and unexpected social costs.

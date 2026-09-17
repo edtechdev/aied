@@ -12,7 +12,7 @@ research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/strydom-human-gai-paradigms-2026.md']
 confidence: high
-category: [framework, ai foundations]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Strydom (2026) introduces seven **human–[[generative-ai]] (GAI) [[student-engagement|engagement]] paradigms** grounded in personal epistemological beliefs, addressing what the author calls the "theory deficit" in educational technology. The conceptual, theory-building paper differentiates five epistemological dimensions (source, certainty, organization, control, and speed of knowledge acquisition) and uses them to theorise seven enacted paradigms of human-GAI engagement: guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, and equity. Rather than fixed traits, the paradigms are **enacted patterns of engagement** that emerge across disciplinary, socio-technical, and institutional contexts — with direct implications for [[teacher-role|teaching]], assessment, [[educational-development|professional development]], and AI governance. This is a significant [[theory-development-aied|theory-building]] contribution to the knowledge base's [[ai-education]] foundational strand.

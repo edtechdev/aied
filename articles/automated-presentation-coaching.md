@@ -15,7 +15,7 @@ discipline: [language learning]
 
 sources: ['raw/papers/2606.27380.md']
 confidence: high
-category: [synthesis, framework]
+page_kind: [synthesis, framework]
 ---
 
 > **Synthesis:** This survey provides the first [[meta-analysis-systematic-review|systematic review]] of automated presentation coaching systems, organizing them along a five-dimensional task taxonomy: segmental pronunciation, lexical stress, suprasegmental prosody, pacing, and content faithfulness. The authors review systems spanning pronunciation tutors, fluency and prosody coaches, [[multimodal]] trainers, and conference Q&A practice tools, identifying coverage gaps in pacing and content feedback dimensions.

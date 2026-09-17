@@ -11,7 +11,6 @@ research_method: [survey]
 level: [k 12]
 sources: ['raw/papers/liang-ai-learning-motivation-sdt-2026.md']
 confidence: high
-category: [engagement, equity]
 ---
 
 > **Synthesis:** **From disengaged to self-determined** — a year-long study of **2,086 secondary students across 53 schools** in an AI curriculum, using Latent Transition Analysis to map students' [[motivation|AI learning motivation]] over time. Grounded in [[self-determination-theory|Self-Determination Theory]], it identifies **three motivational profiles (Disengaged, Developing, Self-Determined)** at both pre- and post-test, shows most students maintaining or advancing toward higher profiles, and finds that those who reached or stayed in the Self-Determined profile showed the **greatest gains in [[ai-literacy|AI literacy]]**.

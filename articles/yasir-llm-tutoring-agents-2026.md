@@ -8,8 +8,7 @@ technology: [intelligent-tutoring, knowledge-graph, knowledge-tracing, student-m
 assessment: [ai-ed-evaluation, ai-feedback-quality, educational-measurement]
 audience: [software developers]
 research_method: [benchmark]
-category: [evaluation]
-
+page_kind: [evaluation]
 sources: ['raw/papers/yasir-llm-tutoring-agents-2026.md']
 confidence: high
 ---

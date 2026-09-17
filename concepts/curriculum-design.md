@@ -11,7 +11,6 @@ technology: [generative-ai]
 discipline: [stem education]
 audience: [instructors, faculty development]
 level: [higher ed]
-category: [curriculum design, instructional design]
 confidence: high
 ---
 

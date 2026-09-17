@@ -11,7 +11,6 @@ audience: [instructors, researchers, software developers]
 research_method: [benchmark]
 discipline: [writing education]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/2606.18257.md']
 confidence: high
 ---

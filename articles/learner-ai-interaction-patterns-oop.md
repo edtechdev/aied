@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.24755.md']
 confidence: high
-category: [engagement, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Examines how different forms of learner-[[student-ai-interaction|AI interaction]] relate to learning outcomes in object-oriented programming courses. Identifies distinct patterns of [[generative-ai|GenAI]] use among students and correlates them with [[learning-gains|academic performance]], finding that certain interaction patterns (seeking explanation rather than code generation) are associated with stronger learning outcomes.

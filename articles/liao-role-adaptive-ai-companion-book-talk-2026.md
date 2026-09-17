@@ -10,7 +10,6 @@ connected_faqs: [ai-guidance-children-under-13]
 research_method: [mixed methods, quantitative, qualitative]
 audience: [instructors, learning designers, researchers]
 level: [k 12]
-category: [instructional design]
 sources: ['raw/papers/liao-role-adaptive-ai-companion-book-talk-2026.md']
 confidence: high
 

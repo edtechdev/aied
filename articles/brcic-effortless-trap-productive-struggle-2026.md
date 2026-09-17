@@ -13,7 +13,7 @@ level: [k 12]
 sources: ['raw/papers/brcic-effortless-trap-productive-struggle-2026.md']
 confidence: high
 audience: [educators, administrators]
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Brcic & Frljic (2026) argue that the "allow or ban AI" framing is a false dichotomy; the relevant design question is **placement**. Used well, AI scales [[feedback]], examples, practice, and individualized support; used poorly, it replaces the cognitive work learning requires and leaves an "illusion of learning" — a confident [[self-efficacy|sense of mastery]] that collapses on the unaided task. The strongest causal evidence shows the outcome flips on design: an unguarded AI helper left [[k-12|high-school]] students ~17% worse on an unaided exam than peers with no tool, while the same model rebuilt to withhold answers erased the harm, and a well-engineered [[intelligent-tutoring|tutor]] roughly doubled learning. The authors give educators a graspable six-move frame (Prime, Probe, Point, Attach, Strengthen, Test) for placing the tool, with a one-line diagnostic: *if letting AI in makes the task feel effortless, it is in the wrong place.*

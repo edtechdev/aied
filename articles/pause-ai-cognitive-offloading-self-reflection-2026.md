@@ -15,7 +15,7 @@ research_method: [position paper, system development]
 discipline: [learning sciences]
 audience: [educators, designers, researchers]
 level: [adult learning]
-category: [framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Alam describes PAUSE (Patterns of AI Use: Self-Examination), a privacy-by-design web tool that converts the 2023–2026 empirical literature on AI-associated [[cognitive-offloading]] into a short, non-diagnostic self-check organized around four everyday domains: reasoning and critical thinking, [[creativity]] and originality, research and learning, and social and communicative capacity. The tool scores reverse-coded behavioral items plus two timed behavioral probes entirely in the browser, returns descriptive domain-aware reflections, and deliberately offers no overall composite. It is framed throughout as a reflection aid rather than a validated psychological instrument: the paper presents no reliability or validity evidence and states that readings must not justify any consequential decision about a person. The contribution is therefore a design pattern — item-level citation grounding, deliberate [[metacognition|self-reflection]] prompts, and refusal to diagnose — rather than a measurement result.

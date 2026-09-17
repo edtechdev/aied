@@ -9,7 +9,6 @@ technology: [generative-ai, llm]
 audience: [instructors, learners]
 research_method: [benchmark]
 discipline: [cs education]
-category: [instructional design]
 sources: ['raw/papers/soft-barriers-copying-ai-programming-2026.md']
 confidence: high
 ---

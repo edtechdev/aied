@@ -11,7 +11,7 @@ audience: [researchers]
 research_method: [position paper, theoretical analysis]
 sources: ['raw/papers/2603.29141.md']
 confidence: high
-category: [evaluation, framework]
+page_kind: [evaluation, framework]
 ---
 
 > **Synthesis:** The [[ai-education|AIED]] community over-relies on **inter-rater reliability (IRR)** — typically a single Cohen's κ coefficient — as a mechanical gatekeeper for "ground truth." This practice is insufficient and potentially misleading for the complex, noisy realities of educational data. The authors propose **four practical shifts** to strengthen the [[assessment-validity|validity]] and reliability of the evidence base of labeled AIED datasets.

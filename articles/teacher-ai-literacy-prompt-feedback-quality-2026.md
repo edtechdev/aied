@@ -13,7 +13,7 @@ confidence: high
 research_method: [quasi-experiment, quantitative]
 level: [teacher training, higher ed]
 audience: [teacher educators, researchers, faculty development]
-category: [evaluation, framework]
+page_kind: [evaluation, framework]
 ---
 
 > **Synthesis:** Two quasi-experimental studies with 153 German pre-service teachers tested which aspects of [[prompt-engineering|prompt design]] and which [[llm|language model]] produce high-quality [[ai-feedback-quality|AI feedback]] on the learning goals students had written for their own lesson plans. Across 240 feedbacks in Study 1, model choice alone explained 26.9% of the variance in rated feedback quality and adding prompt design lifted the model to 42.8%; in Study 2, replicating with the best-performing combinations, model alone explained 18.4% and prompt design added a further 5.7%. The sharpest single result is negative in form: removing domain-specific technical language from the prompt significantly lowered feedback quality (β = −0.412), while adding concrete examples and dispensing with chain-of-thought instructions made no significant difference in Study 1. The authors read this as evidence that [[ai-literacy]] for teachers has an instrumental core — knowing what models do well and how to phrase a task so the model can act on subject knowledge — and that prompt engineering belongs in [[teacher-education|teacher education]] as a reflexive competency at the junction of AI literacy and [[feedback-literacy|feedback literacy]], not as a bag of technical tricks.

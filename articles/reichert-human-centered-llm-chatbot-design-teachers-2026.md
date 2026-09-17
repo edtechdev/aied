@@ -13,7 +13,6 @@ ethics: [guardrails]
 research_method: [qualitative, thematic analysis, user study]
 discipline: [learning sciences]
 level: [secondary]
-category: [design thinking, instructional design]
 audience: [teachers, designers, edtech designers]
 sources: ['raw/papers/reichert-human-centered-llm-chatbot-design-teachers-2026.md']
 confidence: high

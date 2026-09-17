@@ -7,7 +7,6 @@ tags: [student-modeling, educational-measurement, knowledge-tracing, assessment,
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 research_method: [educational measurement]
-category: [assessment]
 confidence: high
 ---
 

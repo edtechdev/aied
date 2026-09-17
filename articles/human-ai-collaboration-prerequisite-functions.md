@@ -13,7 +13,7 @@ audience: [learners, instructors]
 level: [k 12]
 sources: ['raw/papers/2606.15509.md']
 confidence: high
-category: [framework, collaborative learning]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Asks what is gained and lost when 'collaboration' is applied freely to human-[[student-ai-interaction|AI interaction]]. Argues true collaboration requires symmetric/negotiated relationship, shared goals, low and shifting division of labor, interactive exchange, and mutual modeling. Introduces a 5-level diagnostic taxonomy: Transactional, Situational, Operational, Praxical, and Synergistic. Only Synergistic satisfies full collaborative conditions. Most current human-AI interaction is consultation, [[governance]], delegation, or instruction.

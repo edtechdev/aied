@@ -13,7 +13,7 @@ level: [k 12]
 sources: ['raw/papers/valls-computational-thinking-educational-robotics.md']
 confidence: medium
 audience: [curriculum designers, educators]
-category: [curriculum design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Valls i Pou (2026) examines how computational thinking can enhance the effective integration of educational robotics into secondary school curricula. Arguing that educational robotics is a strong resource for fostering [[problem-solving|problem solving]], [[critical-thinking|critical thinking]], and STEAM subjects, the paper relates the theoretical framework of computational thinking to 21st-century skills and secondary-school [[curriculum-design|curriculum]] knowledge linked to STEAM. Through a literature analysis, it connects computational-thinking concepts and skills with curricular content, and proposes a concrete approach for linking computational-thinking concepts from the theoretical framework into official secondary curricula to guide robotics education.

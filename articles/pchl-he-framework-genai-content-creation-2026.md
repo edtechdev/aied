@@ -10,7 +10,7 @@ assessment: [ai-ed-evaluation]
 audience: [instructors, researchers]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/pchl-he-framework-genai-content-creation-2026.md']
 confidence: medium
 ---

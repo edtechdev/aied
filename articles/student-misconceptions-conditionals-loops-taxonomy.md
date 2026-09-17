@@ -14,7 +14,7 @@ discipline: [cs education, stem education]
 audience: [instructors, learners]
 level: [higher ed]
 confidence: high
-category: [synthesis, assessment]
+page_kind: [synthesis]
 sources: []
 ---
 

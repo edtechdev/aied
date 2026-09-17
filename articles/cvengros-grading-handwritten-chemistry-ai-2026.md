@@ -13,7 +13,7 @@ research_method: [educational measurement, case study]
 discipline: [chemistry education]
 audience: [assessment professionals, instructors, faculty development]
 level: [higher ed]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** **Assisting the grading of a handwritten general chemistry exam with artificial intelligence** — Cvengros and Kortemeyer report a case study in which a multimodal, reasoning-capable [[llm|LLM]] graded a 296-student, handwritten general chemistry final exam page-by-page against rubric images, finding high agreement with human teaching-assistant scores for textual answers and chemical reaction equations but unreliable performance for drawing and graphing tasks. The authors develop confidence-filtering strategies — partial-credit thresholds, [[item-response-theory|IRT]]-based risk thresholds, and problem-type exclusion — that convert raw AI scoring into a selective accept/deferral policy for [[human-in-the-loop-ai|human oversight]]. The work demonstrates a practical path toward [[automated-assessment]] of open-ended, [[multimodal]] handwritten work in [[chemistry-education|chemistry]] and, more broadly, [[science-education]].

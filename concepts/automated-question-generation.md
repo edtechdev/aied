@@ -7,7 +7,7 @@ tags: [automated-question-generation, llm, generative-ai, assessment, automated-
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [ai-ed-evaluation, assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
 research_method: [educational measurement]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 confidence: high
 ---
 

@@ -11,7 +11,7 @@ research_method: [theoretical analysis, policy analysis]
 sources: ['raw/papers/mishra-control-vs-agency-history-2025.md']
 confidence: high
 audience: [researchers, educators]
-category: [framework, ai foundations]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Mishra, Henriksen, Woo and Oster (2025) trace the history of [[ai-education|AI in education]] from cybernetics and the 1956 Dartmouth conference through the cognitive revolution and [[intelligent-tutoring|Intelligent Tutoring Systems]] to today's [[generative-ai|GenAI]], arguing that a seemingly mundane 1955 naming decision—John McCarthy choosing "artificial intelligence" over "cybernetics"—shaped the field's trajectory for decades. The paper frames the field's evolution as an "essential tension" between **control** and **agency**, [[embodied-learning|embodied]] in the contrast between John Anderson's structured cognitive tutors and Seymour Papert's [[constructivist|constructionist]] approach emphasizing creative learner agency. This tension recurs with each new technology wave and now resurfaces in debates about whether GenAI will reinforce traditional structures or promote greater learner agency and creativity.

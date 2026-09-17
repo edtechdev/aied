@@ -13,7 +13,6 @@ research_method: [system development, benchmark, quantitative]
 discipline: [math education]
 level: [elementary, k 12]
 audience: [researchers, assessment designers, software developers]
-category: [assessment]
 ---
 
 > **Synthesis:** Automatic item generation promises [[personalized-learning|personalized practice]] at scale, but the bottleneck has moved from producing items to judging whether they are any good — and ProIQA argues that judging quality from the question text alone is a category error. The framework builds a hierarchical reasoning tree for each item with an [[llm]], verifies the tree's mathematical correctness, encodes its dependency structure with a graph [[machine-learning|neural network]], and fuses that deep "solving" view with a surface [[stem-education|stem]] representation. On [[k-12]] [[math-education|mathematics]] [[benchmark|benchmarks]] it reports average gains over the second-best method of 7.5% in concept assessment, 6.3% in difficulty estimation and 19.5% in competency assessment, with reasoning-tree verification accuracy between 90.38% and 97.80%. The paper's most instructive result is a two-item case study in which a zero-shot LLM baseline mislabels the [[misconceptions|conceptual category]], inverts the competency level and reverses the difficulty ordering — the failure mode that [[automated-assessment|automated assessment]] built on surface features inherits.

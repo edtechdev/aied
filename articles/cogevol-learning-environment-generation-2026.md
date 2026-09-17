@@ -11,7 +11,6 @@ sources: ['raw/papers/cogevol-learning-environment-generation-2026.md']
 confidence: high
 research_method: [system development, benchmark]
 audience: [edtech designers, software developers, instructional designers]
-category: [instructional design, curriculum design, ai foundations]
 ---
 
 > **Synthesis:** CogEvol is a family of [[llm|large language models]] trained specifically for **learning environment generation** — turning a course brief into a finished learning artifact (structured-JSON slides or self-contained interactive HTML pages) in a single pass. Across 220k production requests, it completes a slide in a median of 17 seconds and an interactive page in 59, replacing minutes-long multi-turn [[agentic-ai|agent]] [[scaffolding]]. Reliability is enforced through a production-grounded pipeline that converts real failures into verified SFT samples and a hybrid rule-plus-VLM reward driving GRPO-based reinforcement learning, hardened after a reward-hacking episode. CogEvol-27B scores 83.7 on slide quality and 63.7 on an interactive-HTML benchmark with 26.9× fewer parameters than flagship coding models, and the 4B model is released openly under Apache 2.0.

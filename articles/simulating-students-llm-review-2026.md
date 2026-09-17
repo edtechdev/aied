@@ -8,7 +8,6 @@ foundations: [agentic-ai, learning-design, teacher-role]
 technology: [adaptive-learning, generative-ai, llm, simulating-students, student-modeling]
 research_method: [literature review]
 audience: [instructors]
-category: [instructional design]
 sources: ['raw/papers/2511.06078.md']
 confidence: high
 ---

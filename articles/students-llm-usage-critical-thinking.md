@@ -13,7 +13,7 @@ audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2605.04534.md']
 confidence: high
-category: [engagement, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This study extends prior work on student LLM use by analyzing data from **two offerings** of a [[research-methods-aied|research]]-oriented course where students learn to read, reason about, and critique academic papers — a setting that moves beyond the [[problem-solving]] domains that dominate existing research. Crucially, students had **no restrictions** on LLM usage, providing ecological validity.

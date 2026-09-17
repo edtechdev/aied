@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2608.04030.md']
 confidence: high
-category: [evaluation, framework]
+page_kind: [evaluation, framework]
 ---
 
 > **Synthesis:** Radaideh et al. (2026) test whether fine-tuning open-source text-to-image models on nuclear imagery makes [[generative-ai|generative AI]] usable for a safety-critical engineering domain, and find the answer depends on the architecture rather than the parameter count. Curating 1,000 captioned nuclear images and fine-tuning Stable Diffusion XL, SD-v3.5-Medium, and the flow-matching Flux.1 model, they report that fine-tuning substantially improves SDXL, gives limited gains for SD-v3.5-Medium, and produces no measurable improvement for Flux.1 at all — and that human judgment, not embedding-based metrics, was the only reliable way to rank checkpoints. The study's most transferable contribution for [[discipline-specific-aied|domain-specific AIED]] is its methodological warning: standard text-image metrics (CLIP, KID, CMMD) disagreed with each other and with expert assessment on unfamiliar, specialized imagery.

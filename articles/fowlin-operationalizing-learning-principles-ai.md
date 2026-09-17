@@ -11,7 +11,6 @@ research_method: [theoretical analysis]
 discipline: [medical education]
 audience: [instructors]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/fowlin-operationalizing-learning-principles-ai.md']
 confidence: high
 ---

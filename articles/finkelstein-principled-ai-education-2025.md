@@ -9,7 +9,6 @@ pedagogy: [metacognition, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 audience: [instructors, administrators]
 research_method: [theoretical analysis]
-category: [curriculum design, instructional design]
 sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
 confidence: medium
 

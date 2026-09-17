@@ -14,7 +14,6 @@ level: [higher ed]
 
 sources: ['raw/papers/2607.05871.md']
 confidence: high
-category: [assessment]
 ---
 
 > **Synthesis:** Debugging exercises are usually graded from final code and test outcomes, which hide *how* students reproduced failures, formed hypotheses, inspected evidence, edited code, and verified fixes. The authors present **DebugTracker**, a Visual Studio Code extension that records lightweight debugging-process evidence for classroom tasks. It separates uncoached Evaluation Mode traces from coached Training Mode traces, stores append-only JSONL events, and exports timeline and Markdown reports for [[human-in-the-loop-ai|human review]], capturing test commands, debugger metadata, student checkpoints, source snapshots, optional image evidence, human labels, and optional AI-assisted practice feedback. The largely language-agnostic prototype was validated across Python, TypeScript, and Java with 16 automated checks and an 11-case manual trial matrix spanning packaged VSIX installation on three operating systems.

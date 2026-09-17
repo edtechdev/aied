@@ -10,7 +10,6 @@ stakeholders: [edtech-platform, student-experience]
 research_method: [benchmark]
 audience: [learners]
 level: [higher ed, k 12]
-category: [engagement]
 sources: ['raw/papers/2606.14960.md']
 confidence: medium
 ---

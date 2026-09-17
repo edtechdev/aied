@@ -13,7 +13,7 @@ discipline: [stem education]
 level: [k 12]
 sources: ['raw/papers/2606.09598.md']
 confidence: medium
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Introduces a novel core concept, **"Awareness of Technological Isomorphism,"** defined as a student's [[metacognition|metacognitive]] realization that their own mathematical cognitive operations (observing trends, inducing patterns, making predictions) share an underlying logical structure with AI technical operations (pattern recognition, predictive modeling). This awareness facilitates [[transfer-of-learning|cognitive transfer from disciplinary mathematics to AI comprehension]].

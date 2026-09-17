@@ -12,7 +12,7 @@ research_method: [system development]
 sources: ['raw/papers/2604.08947.md']
 confidence: medium
 discipline: [language learning]
-category: [evaluation, instructional design]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** **MuTSE** (Roscan et al., 2026) tackles a critical [[research-methods-aied|methodological]] gap in text simplification for **Intelligent Tutoring Systems (ITS)** and language-learning applications: how to systematically evaluate **[[llm]]**-generated simplifications across many prompting strategies and model architectures without drowning researchers in high-dimensional comparisons. It pairs an asynchronous **P × M** generation pipeline with a novel tiered **semantic alignment** engine — biased by a real-time linearity heuristic (λ) — so evaluators can visually trace how each source sentence is transformed across every prompt–model permutation, then score the results on custom, pedagogically meaningful criteria.

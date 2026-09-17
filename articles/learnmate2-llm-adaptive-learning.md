@@ -12,7 +12,7 @@ research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/2605.06257.md']
 confidence: medium
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** LearnMate^2 addresses the **personalization gap** in online learning: while online platforms offer widespread access, they lack the personalized guidance that characterizes effective [[intelligent-tutoring]] systems. The system provides three core capabilities:

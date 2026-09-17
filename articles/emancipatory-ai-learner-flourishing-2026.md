@@ -12,7 +12,7 @@ sources: ['raw/papers/2609.07715.md']
 confidence: high
 research_method: [position paper]
 audience: [designers, edtech designers, researchers]
-category: [framework, design thinking]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Prieto and Dimitriadis argue that current [[generative-ai|generative AI]] educational design, oriented toward workforce productivity, pushes learners toward individualism, isolation, [[cognitive-offloading|over-reliance]], and dependence — driven by wider systemic factors and the human tendency to take the easiest path. They contend that [[ethics|human-centered design]] approaches like value-sensitive design are insufficient because they ignore these systemic drivers, and that [[agency]] is effectively a zero-sum game: the more agency bestowed on tools, the less learners retain. The paper proposes an emancipatory vision oriented toward learner flourishing that considers the wider complex systems learners inhabit, offering tentative design principles and an overall design methodology, while acknowledging many open questions remain.

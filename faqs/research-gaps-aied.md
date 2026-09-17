@@ -10,7 +10,7 @@ assessment: [ai-ed-evaluation, learning-gains, research-methods-aied]
 ethics: [equity-in-ai-education]
 research_method: [research methods, literature review, learning analytics]
 level: [higher ed]
-category: [evaluation]
+page_kind: [evaluation]
 ---
 
 # What Are Notable Gaps in the Research Literature on AI in Education?

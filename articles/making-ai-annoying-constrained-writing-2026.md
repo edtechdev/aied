@@ -14,8 +14,6 @@ level: [secondary]
 sources: ["raw/papers/10.1016_j.caeo.2026.100343.md"]
 confidence: high
 discipline: [writing education]
-category: [instructional design, engagement]
-
 ---
 
 > **Synthesis:** Konradt, Boote, and Taub (2026) report a design-based study in which four high-school students used a constrained AI writing system of teacher-delimited [[conversational-ai|chatbots]] designed to ask questions rather than generate text, oriented through the TRACE model (Target, Refine, Assess, Cycle, Extend) over a nine-week argumentative-writing unit. Students evolved from passive AI consumers to strategic evaluators who pushed back on AI outputs, developed 'prompt literacy,' and strengthened counterargument development and evidence integration, suggesting that strategic constraint — not unrestricted generativity — was associated with greater self-[[regulation]] and sustained [[student-engagement|engagement]].

@@ -14,7 +14,6 @@ level: [k 12]
 
 sources: ['raw/papers/2605.17055.md']
 confidence: high
-category: [assessment, instructional design]
 ---
 
 > **Synthesis:** Across five U.S. middle and high schools (N=143 students, grades 7–11), rubric-grounded RAG feedback from CyberScholar supported students' writing revision, with most students reporting improvements in organization, elaboration, and style.

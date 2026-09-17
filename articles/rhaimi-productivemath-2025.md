@@ -11,7 +11,6 @@ research_method: [mixed methods]
 discipline: [math education]
 audience: [instructors]
 level: [k 12]
-category: [instructional design]
 sources: ['raw/papers/rhaimi-productivemath-2025.md']
 confidence: medium
 ---

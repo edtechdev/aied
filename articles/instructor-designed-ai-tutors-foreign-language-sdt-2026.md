@@ -14,7 +14,6 @@ level: [higher ed]
 
 sources: ['raw/papers/higheredu-05-00078.md']
 confidence: high
-category: [instructional design, engagement]
 ---
 
 > **Synthesis:** Lee and Kwon (2026) report a [[mixed-methods-research|mixed-methods]] study of an instructor-designed, customized Japanese-language GPT tutor in a South Korean university general-education course, drawing on [[self-determination-theory|self-determination theory]] (SDT) and the noticing hypothesis. With 74 undergraduates, they find that continuous use of the instructor-built [[intelligent-tutoring|AI tutor]] was associated with high satisfaction of autonomy and relatedness needs, three distinct cognitive-noticing experiences, and learner perceptions of the tool as a structured learning environment rather than a convenience tool. The central claim is that the educational effectiveness of [[generative-ai|generative AI]] in [[language-learning|foreign language learning]] depends less on frequency of use than on the quality of [[pedagogy|pedagogical]] design underlying its deployment.

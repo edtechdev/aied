@@ -10,7 +10,6 @@ technology: [generative-ai]
 stakeholders: [teacher-ai-competency]
 research_method: [mixed methods, quasi-experiment]
 audience: [instructors]
-category: [instructional design]
 sources: ['raw/papers/sahab-model-genai-constructivist-id-2026.md']
 confidence: high
 level: [teacher training]

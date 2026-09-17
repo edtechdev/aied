@@ -12,7 +12,7 @@ research_method: [benchmark, system development]
 discipline: [english education]
 audience: [educators, edtech designers, researchers]
 level: [k 12, secondary]
-category: [curriculum design, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** **What differentiates educational literature? A multimodal fusion approach of transformers and computational linguistics** — Bird (2026) proposes a [[multimodal]] framework that fuses transformer-based text classification with computational-linguistics feature analysis to align English literature with UK Key Stages for readability. Late fusion of a fine-tuned ELECTRA transformer with a searched deep neural network reached an F1 of 0.996, far surpassing every unimodal model, and the approach is packaged into a stakeholder-facing web application for educators. The work advances [[educational-nlp]] and [[english-education]] by making scalable, data-driven readability and [[curriculum-design|curriculum]] alignment accessible to non-technical teachers.

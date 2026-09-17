@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/tian-genai-learning-adoption-pathways-2026.md']
 confidence: high
 audience: [administrators, policymakers, instructors]
-category: [engagement, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** This multi-method study of 842 students in Lesotho's low-resource [[higher-ed|higher education]] system integrates [[technology-acceptance-model|UTAUT3]] and Keller's ARCS motivation model to explain [[generative-ai|GenAI]] adoption. Using PLS-SEM, fsQCA, and importance-performance mapping, the authors find that cognitive beliefs (performance expectancy, effort expectancy, social influence, hedonic motivation, habit) explain intention, while ARCS motivational dimensions are stronger determinants of actual use. Multiple equifinal configurational pathways lead to high adoption, with motivation, enjoyment, and habit as core conditions. The study advances a hybrid logic of adoption — cognitive beliefs enable acceptance, motivational experiences sustain engagement, and habit normalizes use — and highlights the contextual sensitivity of acceptance theory in resource-constrained settings.

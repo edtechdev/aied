@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/multimodal-embodied-cognition-oral-explanations-2026.md']
 confidence: high
 audience: [researchers, assessment designers, edtech designers]
-category: [assessment, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Morphew, Mehrabi, Bennett, and Majmundar (2026) present an automated multimodal framework that integrates computer-vision gesture tracking with [[llm|large language model]] analysis of spoken discourse to study how [[engineering-education|engineering students']] conceptual understanding of statistics is expressed through both speech and gesture. Grounded in [[embodied-learning|embodied cognition]] and McNeill's gesture–speech unity hypothesis, the framework builds a [[discipline-specific-aied|domain-specific]] gesture library, classifies hand movements with a k-nearest-neighbors model, aligns gesture episodes to transcribed speech, and uses an LLM "meaning agent" to annotate each episode with statistical concepts and gesture–speech relations. Two undergraduate engineering students explaining linear regression and descriptive statistics showed that high-confidence explanatory gestures cluster around specific concepts (especially the mean), and that close gesture–speech coordination accompanies coherent conceptual talk while divergence marks developing ideas. The authors argue that [[assessment-validity|assessing only speech]] misses embodied evidence of understanding and release an [[open-source]] pipeline to bring embodied evidence into [[multimodal|multimodal learning analytics]] and oral assessment at scale.

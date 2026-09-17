@@ -7,7 +7,7 @@ tags: [technology-acceptance-model, tpack, ai-technologies, learning-design, tea
 foundations: [educational-development, learning-design]
 technology: [ai-technologies]
 stakeholders: [teacher-ai-competency, technology-acceptance-model, tpack]
-category: [framework]
+page_kind: [framework]
 audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high

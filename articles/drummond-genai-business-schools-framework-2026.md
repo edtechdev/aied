@@ -11,7 +11,6 @@ research_method: [case study, mixed methods]
 discipline: [business education]
 audience: [instructors]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/drummond-genai-business-schools-framework-2026.md']
 confidence: medium
 ---

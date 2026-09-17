@@ -12,7 +12,6 @@ ethics: [ethics]
 research_method: [survey, quantitative]
 audience: [researchers, instructors]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/2606.18548.md']
 confidence: medium
 ---

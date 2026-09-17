@@ -12,7 +12,6 @@ research_method: [system development, secondary analysis]
 audience: [researchers, designers, instructors]
 level: [k 12]
 discipline: [math education]
-category: [instructional design]
 sources: ['raw/papers/2605.21613.md']
 confidence: high
 ---

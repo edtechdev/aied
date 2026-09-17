@@ -9,8 +9,6 @@ technology: [generative-ai, llm, prompt-engineering]
 assessment: [assessment, automated-assessment]
 discipline: [writing education]
 level: [higher ed, k 12]
-category: [assessment]
-
 confidence: high
 ---
 

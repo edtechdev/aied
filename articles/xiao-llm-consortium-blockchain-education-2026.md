@@ -11,7 +11,6 @@ ethics: [privacy, trust]
 audience: [software developers]
 research_method: [system development, benchmark]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/xiao-llm-consortium-blockchain-education-2026.md']
 confidence: high
 ---

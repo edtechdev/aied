@@ -9,7 +9,7 @@ technology: [educational-nlp, learning-analytics, llm]
 assessment: [ai-ed-evaluation, automated-assessment, feedback]
 research_method: [benchmark]
 audience: [instructors]
-category: [evaluation]
+page_kind: [evaluation]
 confidence: high
 sources: [raw/papers/2606.05180.md]
 ---

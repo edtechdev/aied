@@ -12,7 +12,7 @@ discipline: [stem education]
 sources: ['raw/papers/2607.05412.md']
 confidence: high
 audience: [researchers, policymakers]
-category: [synthesis, ai foundations]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** STEM education faces challenges in [[personalized-learning|personalization]] and interdisciplinary integration. AI technology has brought new possibilities, but the mechanisms by which AI reshapes the STEM education ecosystem require systematic investigation. This study employs bibliometric methods to analyze 242 publications from 2015-2025, constructing knowledge maps to reveal the evolutionary trajectory. The findings show that the field has transformed from intelligent tutoring systems to [[inquiry-based-learning|inquiry-based learning]] and [[computational-thinking|computational thinking]] cultivation driven by LLMs. AI's key contribution lies in providing intelligent scaffolding that lowers the threshold for understanding knowledge. In this sense, AI is a core driving force promoting its shift from knowledge transmission to capability development.

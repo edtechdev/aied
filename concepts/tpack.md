@@ -9,7 +9,6 @@ technology: [generative-ai]
 stakeholders: [teacher-ai-competency, tpack]
 connected_faqs: [faculty-development-ai]
 audience: [faculty development, instructors]
-category: [instructional design]
 confidence: high
 ---
 

@@ -13,7 +13,7 @@ level: [k 12]
 sources: ['raw/papers/bin-bakheet-adaptive-ai-stem-deep-learning-2026.md']
 confidence: medium
 audience: [teachers, instructional designers]
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This concurrent [[mixed-methods-research|mixed-methods]], cluster-randomized posttest-only pilot (N = 30 sixth-graders in a female-only primary school) evaluated an adaptive AI-based STEM instructional program (personalized content, rule-based mastery, real-time feedback) for developing deep learning in science. [[quantitative-research|Quantitative]] results favored the experimental group across explanation, interpretation, application, and idea generation (large within-sample effect sizes), corroborated by teacher interviews — though the two-intact-classroom design warrants cautious interpretation.

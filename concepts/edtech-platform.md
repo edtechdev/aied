@@ -1,7 +1,7 @@
 ---
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-17T15:42:00-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 tags: [edtech-platform, ai-education, online-teaching-and-learning, generative-ai, llm, adaptive-learning, personalized-learning, k-12, higher-ed, equity-in-ai-education]
@@ -26,7 +26,7 @@ confidence: high
 
 ## Introduction
 
-The platform sits between an AI model or capability and the learner. It is the container that packages tutoring, assessment, feedback, and administration into something usable — and, critically, it shapes learning outcomes through its design choices, its accessibility, and its underlying business model. The concept spans learning management systems like Moodle, large-scale online platforms like MOOCs, dedicated [[intelligent-tutoring|intelligent tutoring]] systems, and emerging agentic or AI-native course platforms.
+The platform sits between an AI model or capability and the learner. It is the container that packages tutoring, assessment, feedback, and administration into something usable — and, critically, it shapes learning outcomes through its design choices, its accessibility, and its underlying business model. The concept spans learning management systems like Moodle, large-scale online platforms like MOOCs, dedicated [[intelligent-tutoring|intelligent tutoring]] systems, and emerging agentic or AI-native course platforms. Naming the container is not the same as naming its authors: the platform is the deployed system, while the stakeholder that decides what it does is [[educational-technology-developers]] — which matters here because the take-up, equity-skew and procurement findings below are usually consequences of design choices made before a platform ever reached a classroom.
 
 ## What a platform does in AI in education
 
@@ -88,6 +88,7 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[governance]]
 - [[culturally-relevant-pedagogy]]
 - [[stem-education]]
+- [[educational-technology-developers]]
 
 ## Connected Articles
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning

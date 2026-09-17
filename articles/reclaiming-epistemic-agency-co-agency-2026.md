@@ -14,7 +14,7 @@ audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/2608.26937.md']
 confidence: high
-category: [framework, equity]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Poudyal (2026) argues that [[generative-ai|generative AI]] in education does more than add a new tool: it reassigns epistemological authority from teachers to students to machines, redistributing [[agency]] across humans and non-human systems in a process the paper terms *co-agency*. After evaluating Distributed Agency, [[self-determination-theory|Self-Determination Theory]], Society 5.0, and integration frameworks such as [[tpack]] and SAMR — none of which address equitable power, data ownership, or accountability — the paper introduces the **Ecological Co-Agency Framework**, defining agency through relational, [[regulation|regulatory]], and [[pedagogy|pedagogical]] processes bounded by a non-negotiable condition of human epistemic accountability. The framework offers educators and policymakers a more precise vocabulary than "balance" for deciding how tasks, evaluation, and responsibility are distributed between learners and AI in [[higher-ed|higher education]].

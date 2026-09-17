@@ -10,8 +10,6 @@ assessment: [benchmark]
 stakeholders: [open-source, professional-training]
 audience: [software developers]
 research_method: [benchmark]
-category: [engagement]
-
 sources: ['raw/papers/2607.21570.md']
 confidence: high
 discipline: [medical education]

@@ -12,7 +12,7 @@ level: [higher ed]
 sources: ['raw/papers/oby-chatgpt-use-learning-framework-2026.md']
 confidence: high
 audience: [educators, instructional designers, faculty development]
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Øby (2026) develops an explanatory framework for students' ChatGPT use grounded in [[learning-theories|learning theory]], integrating [[cognitive-offloading|cognitive load theory]] and goal orientation ([[motivation]]) with [[self-efficacy]] and task relevance as mediating constructs. The core claim is that [[generative-ai|generative AI]] can either support learning or enable superficial task completion depending on how it is integrated into academic work. Four perspectives — cognitive demands, motivational orientations, perceived competence, and perceived task value — shape students' decisions about when and how to rely on [[generative-ai|genAI]], determining whether it functions as a [[scaffolding|scaffold]] supporting thinking and knowledge construction or a shortcut that bypasses essential cognitive processes.

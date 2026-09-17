@@ -9,7 +9,6 @@ pedagogy: [learning-theories, scaffolding]
 technology: [generative-ai]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/caeai-genai-mindtool.md']
 confidence: medium
 audience: [instructional designers, faculty development, educators]

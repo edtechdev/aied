@@ -11,7 +11,6 @@ ethics: [equity-in-ai-education]
 research_method: [theoretical analysis]
 audience: [instructors]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/ai-interior-design-malaysia-2026.md']
 confidence: medium
 discipline: [design education]

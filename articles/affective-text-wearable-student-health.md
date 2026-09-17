@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2605.14360.md']
 confidence: medium
-category: [evaluation, engagement]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** > A year-long study of 458 university students (3,610 person-waves) wearing Oura rings tested whether **ultra-brief naturalistic concern text** — median three-word answers to a bimonthly "what concerns you most?" prompt — could add psychological context that passive physiological sensing alone cannot recover. Comparing dictionary-based (SEANCE), general pretrained (RoBERTa-base), and domain-adapted (MentalRoBERTa) NLP pipelines against nine sleep and physical-activity outcomes in within-person mixed-effects models, the authors found that **emotional register, not topical content, carries the physiologically relevant signal**: weeks dominated by academic concern framing tracked lower physical activity, and emotional-exhaustion language tracked poorer sleep quality and lower heart rate variability. Zero-shot classification of concern topics produced no significant associations, while affective dimensions were consistently predictive across all three NLP methods. General pretrained embeddings generally outperformed domain-adapted models, which showed a relative advantage only for autonomic outcomes. The result is a design argument: low-burden affective text prompts can meaningfully enrich the interpretability of passive physiological data at negligible participant cost.

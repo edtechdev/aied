@@ -10,7 +10,7 @@ research_method: [theoretical analysis]
 sources: ['raw/papers/niari-ai-pedagogical-mediator-collaborative-learning.md']
 confidence: high
 audience: [researchers, instructional designers]
-category: [collaborative learning, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Niari (2026) advances a conceptual framework that reconceptualizes AI as a **[[pedagogy|pedagogical]] mediator** in [[collaborative-learning|collaborative learning]] — not a tool, tutor, peer, or automated orchestrator. Drawing on [[sociocultural-learning|socio-cultural]] theory, [[distributed-cognition|distributed cognition]], connectivist perspectives, and sociomaterial/posthuman theory, the paper argues that AIED's dominant instrumental and individualistic framings are theoretically misaligned with collaboration understood as a socially mediated, co-regulated process. The framework distinguishes three overlapping layers of AI mediation — **interactional, epistemic, and regulatory** — and contends that agency, authority, and responsibility are dynamically redistributed across human and non-human actors without displacing learner or [[agency|teacher agency]].

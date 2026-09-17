@@ -8,7 +8,6 @@ pedagogy: [creativity, motivation, storytelling-in-education, student-engagement
 technology: [educational-robotics]
 discipline: [language learning]
 level: [k 12]
-category: [engagement]
 confidence: high
 ---
 

@@ -14,7 +14,7 @@ confidence: high
 research_method: [literature review, thematic analysis]
 audience: [institutions, instructors, policymakers]
 level: [higher ed]
-category: [synthesis, policy, equity]
+page_kind: [synthesis]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

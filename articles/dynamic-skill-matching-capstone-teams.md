@@ -12,7 +12,6 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.15572.md']
 confidence: medium
-category: [collaborative learning, instructional design]
 ---
 
 > **Synthesis:** Pardi et al. (2026) introduce a three-stage methodology for dynamic student team formation that integrates student preferences with project skill requirements. Students complete a survey, an [[llm|LLM]] analyzes project descriptions to extract skills, and a dynamic assignment algorithm matches students to projects. Preliminary evaluations show higher skill coverage and preference satisfaction than random or manual assignment, overcoming limitations of CATME Team-Maker — addressing a core problem in [[collaborative-learning|team-based]] [[stem-education|engineering and computing]] education.

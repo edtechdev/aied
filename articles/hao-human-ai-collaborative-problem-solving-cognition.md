@@ -12,7 +12,6 @@ level: [higher ed]
 sources: ['raw/papers/hao-human-ai-collaborative-problem-solving-cognition.md']
 confidence: high
 audience: [researchers, instructional designers]
-category: [collaborative learning, engagement]
 ---
 
 > **Synthesis:** This empirical study by Hao, Liu, Fan, Long, Yu, Chen & Zhang (Tsinghua University) adopts an integrated [[distributed-cognition|distributed cognition]] and co-[[regulation]] perspective to examine how college students collaborate with [[agentic-ai|AI agents]] on complex [[problem-solving]] tasks. Through dialogue coding and cluster analysis of 173 students, it identifies three collaborative problem-solving modes — **Delegated Reasoning (DR), Concerted Interpretation (CI), and Delegated Elaboration (DE)** — and shows that the DR mode achieves the highest task performance but the lowest regulatory [[student-engagement|engagement]], while the CI mode engages learners most deeply in [[self-regulated-learning|self-regulation]]. The work exposes a core tension between the efficiency of the distributed human-AI system and the depth of learners' cognitive and regulatory involvement.

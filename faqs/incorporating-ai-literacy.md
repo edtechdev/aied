@@ -7,7 +7,6 @@ tags: [ai-literacy, learning-design, higher-ed, cognitive-offloading, assessment
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
-category: [instructional design, assessment]
 ---
 
 # How Should I Incorporate AI Literacy into My Course?

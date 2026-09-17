@@ -9,7 +9,6 @@ technology: [generative-ai]
 assessment: [assessment, assessment-validity, automated-assessment]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [assessment, curriculum design]
 sources: ['raw/papers/competency-based-education-genai-production-2026.md']
 confidence: medium
 audience: [assessment designers, institutions, curriculum designers]

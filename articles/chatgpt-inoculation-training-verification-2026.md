@@ -15,7 +15,7 @@ level: [higher ed]
 
 sources: ['raw/papers/chatgpt-inoculation-training-verification-2026.md']
 confidence: high
-category: [engagement, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Vu, Cummings, and Park (2026) investigate whether an inoculation message can enhance students' intentions to verify ChatGPT-provided information and encourage actual verification behavior. Using a mixed factorial design (2×2×2: domestic vs. international [[language-learning]] student status × inoculated vs. non-inoculated × pre-test vs. post-test, with a 48-hour gap between parts) with 100 U.S.-based students (40 domestic, 60 international EFL; mean age 20.86, SD = 2.75; 57% Asian), a generic forewarning inoculation message (relying on the [[motivation|motivational]]-threat mechanism rather than detailed refutations, to avoid reactance) was shown immediately before two tasks — an academic-source-summary task (find a scholarly article on social media and mental health) and a [[math-education]] quiz exposing ChatGPT's known weaknesses in exponentiation and large-number multiplication. Screen-recorded verification behavior showed that inoculated students were significantly more likely to verify the academic-source-summary task (M = 0.34 vs. 0.18; F(1,96) = 4.85, p = .030, partial η² = .05), even though self-reported verification intentions (7-point scales) were not significantly affected by inoculation (F(1,88) = 0.12, p = .732), highlighting a gap between stated intention and enacted behavior.

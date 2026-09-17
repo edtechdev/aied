@@ -10,7 +10,6 @@ stakeholders: [professional-training]
 audience: [instructors, administrators]
 research_method: [survey]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/ithaka-sr-ai-skills-college-graduates-2026.md']
 confidence: high
 

@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/nguyen-genai-global-south-review-2026.md']
 confidence: high
 audience: [policymakers, researchers, institutions]
-category: [synthesis, equity, policy]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** Nguyen and Perkins (2026) conduct a [[meta-analysis-systematic-review|scoping review]] of 75 papers (2022–2025) synthesising current perceptions of [[generative-ai|Generative AI]] in [[higher-ed|higher education]] across the [[global-south|Global South]]. Following the PRISMA-ScR methodology, they categorize findings into five areas: GenAI acceptance and adoption, implications and challenges, [[academic-integrity|academic integrity]] considerations, educational practices, and [[equity-in-ai-education|equity]] concerns. GenAI offers transformative possibilities for [[personalized-learning|personalized learning]], research support, and administrative efficiency, yet its implementation is hampered by infrastructure limitations, human capital deficiencies, ethical concerns, inadequate policy frameworks, and contextual challenges. Notably, equity has received the least research attention despite its critical importance to inclusive education. The review identifies substantial gaps — limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes — and urges equity-centered, context-specific, interdisciplinary research.

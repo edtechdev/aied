@@ -11,7 +11,6 @@ ethics: [equity-in-ai-education, inclusive-learning]
 research_method: [design and evaluation study, user study]
 audience: [faculty development]
 level: [k 12]
-category: [curriculum design]
 confidence: high
 sources: ['raw/papers/2505.08083.md']
 ---

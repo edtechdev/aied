@@ -12,7 +12,7 @@ ethics: [ethics]
 research_method: [qualitative, thematic analysis, interviews]
 audience: [educators, teacher educators, faculty development]
 level: [higher ed]
-category: [framework]
+page_kind: [framework]
 sources: ['raw/papers/ai-integrated-teaching-identity-tensions.md']
 confidence: high
 ---

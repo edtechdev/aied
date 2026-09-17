@@ -14,7 +14,7 @@ sources: ['raw/papers/hardy-knowledge-without-wisdom-llm-misalignment-2026.md']
 confidence: medium
 discipline: [math education]
 level: [elementary, k 12]
-category: [evaluation, assessment]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** The gap between what LLMs are *capable* of and what actually *benefits learners* — benchmark performance, downstream task quality, and intended educational impact are three distinct and often-misaligned levels.

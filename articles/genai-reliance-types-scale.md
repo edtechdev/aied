@@ -14,7 +14,6 @@ level: [higher ed]
 
 sources: ['raw/papers/2607.14301.md']
 confidence: high
-category: [assessment, equity]
 ---
 
 > **Synthesis:** As generative AI (GenAI) becomes embedded in undergraduate academic writing, *how* students rely on these tools — not merely whether they use them — has emerged as a core question for [[academic-integrity]], [[student-experience]], and [[equity-in-ai-education|educational equity]]. This study develops and validates the **Generative AI Reliance Types Scale (GenAI-RTS)**, a 20-item instrument measuring four theoretically derived reliance types: **Strategic**, **Instrumental**, **Dependent**, and **Dialogic**. Confirmatory factor analysis supports a five-factor structure in which Strategic Reliance splits into *Deliberate Use* and *[[critical-thinking|Critical Evaluation]]* (CFI = .92, RMSEA = .08; DWLS CFI = .98, RMSEA = .07), with subscale reliability (ω) ranging .75–.90.

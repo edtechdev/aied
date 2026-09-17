@@ -10,7 +10,7 @@ assessment: [ai-ed-evaluation]
 ethics: [ethics]
 audience: [software developers]
 research_method: [theoretical analysis]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/2601.05473.md']
 confidence: high
 ---

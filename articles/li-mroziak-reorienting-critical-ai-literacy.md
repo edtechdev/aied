@@ -12,7 +12,6 @@ research_method: [position paper]
 sources: ['raw/papers/li-mroziak-reorienting-critical-ai-literacy.md']
 confidence: high
 level: [k 12, higher ed]
-category: [ai foundations, equity]
 ---
 
 > **Synthesis:** Li & Mroziak (2026) propose adding "Resisting AI" as a necessary stance within Critical AI Literacy (CAIL). Critiquing a dominant discourse that assumes AI inevitability and techsolutionism — and whose productivist, extractivist logic renders communities powerless — they argue CAIL should build collective agency through dialogic, collaborative, community-rooted pedagogies. Drawing on Freirean praxis, grassroots and transnational organizing, and the roles of educators and community organizers, they position education as a space where communities imagine and build alternative technological futures.

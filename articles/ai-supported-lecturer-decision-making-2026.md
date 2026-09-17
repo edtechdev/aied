@@ -10,7 +10,7 @@ confidence: high
 research_method: [systematic review, qualitative]
 audience: [instructors, researchers, administrators, learning designers]
 level: [higher ed]
-category: [framework]
+page_kind: [framework]
 created: "2026-09-13T08:04:56-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 ---

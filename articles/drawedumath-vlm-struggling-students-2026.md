@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education]
 research_method: [benchmark]
 discipline: [math education]
 level: [k 12]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/drawedumath-vlm-struggling-students-2026.md']
 confidence: high
 audience: [researchers, edtech designers]

@@ -13,7 +13,7 @@ confidence: high
 research_method: [position paper]
 audience: [instructors, faculty development, institutions]
 level: [higher ed]
-category: [framework, engagement]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Matthews (2025), in an editorial for the *International Journal for Students as Partners*, argues that [[trust]] is fundamental to [[pedagogy|pedagogical]] relationships and therefore to [[pedagogical-partnerships|students-as-partners]] practice in the age of [[generative-ai|AI]]. She warns that AI advances have amplified deficit views of students as cheaters or victims, a framing that risks fracturing learner–teacher relationships — especially when 83% of students in a large multi-[[governance|institutional]] study (8,000+ respondents) reported using AI. Against the rise of "AI shame" and surveillance, she advocates **pedagogical trust** — a confident, reciprocal learning relationship open to uncertainty and co-navigated through dialogic decision-making and shared sense-making. To guide practice, she offers five principles for navigating GenAI together with students: (1) cultivate open and curious conversations; (2) acknowledge the emotional and vulnerable lived experiences of AI use; (3) make the role of AI visible and negotiable in learning activities; (4) create consistent opportunities for shared learning and reflection; and (5) ground ethical norms in shared values and a collective moral compass. Each principle pairs with questions for educators and students to explore together, positioning [[agency|partnership]] as a counter to AI shame and surveillance.

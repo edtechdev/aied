@@ -12,7 +12,7 @@ audience: [learners]
 sources: ['raw/papers/2606.14113.md']
 confidence: high
 level: [higher ed]
-category: [evaluation, instructional design]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This paper investigates whether [[llm|large language models]] can serve as scalable proxies for students by simulating realistic logical errors in code submissions. Using the CodeWorkout dataset of 74,000+ unique student Java submissions across 37 problems, the authors evaluate five LLMs under three [[prompt-engineering|prompting]] strategies: Input-Output (IO), Chain-of-Thought (CoT), and iterative Self-Refine.

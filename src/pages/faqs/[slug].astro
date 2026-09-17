@@ -37,7 +37,7 @@ const articleSlugs = new Set(allArticles.map(a => a.id.replace('.md', '')));
 const conceptSlugs = new Set(allConcepts.map(c => c.id.replace('.md', '')));
 const faqSlugs = new Set(faqs.map(f => f.id.replace('.md', '')));
 
-const { title, tags, created, updated, research_method, discipline, audience, level, category, foundations, pedagogy, technology, assessment, stakeholders, ethics } = faq.data;
+const { title, tags, created, updated, research_method, discipline, audience, level, page_kind, foundations, pedagogy, technology, assessment, stakeholders, ethics } = faq.data;
 // Build PageFind filter facets from the structured metadata fields.
 // Emit one <meta> per name:value pair (PageFind parses only the LAST inline
 // filter in a comma-joined list, so each facet must be its own element).
@@ -51,7 +51,7 @@ const metaFields: { name: string; values: string[] | undefined }[] = [
   { name: 'level', values: level },
   { name: 'audience', values: audience },
   { name: 'discipline', values: discipline },
-  { name: 'category', values: category },
+  { name: 'page_kind', values: page_kind },
   { name: 'research_method', values: research_method },
 ];
 const pagefindFilterPairs: string[] = metaFields

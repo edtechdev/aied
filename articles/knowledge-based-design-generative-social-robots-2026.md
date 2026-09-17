@@ -9,7 +9,6 @@ technology: [educational-robotics, generative-ai, intelligent-tutoring]
 ethics: [ethics, privacy]
 research_method: [qualitative, interviews]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/vonschallen-knowledge-based-gsr-higher-ed-2026.md']
 confidence: high
 audience: [edtech designers, designers]

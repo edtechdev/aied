@@ -10,7 +10,6 @@ stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md']
 confidence: high
 ---

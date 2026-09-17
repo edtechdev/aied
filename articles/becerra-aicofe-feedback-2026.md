@@ -11,8 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 research_method: [system development]
 audience: [learners]
 level: [higher ed]
-category: [evaluation]
-
+page_kind: [evaluation]
 sources: ['raw/papers/becerra-aicofe-feedback-2026.md']
 confidence: medium
 ---

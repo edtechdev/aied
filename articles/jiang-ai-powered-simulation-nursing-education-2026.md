@@ -14,7 +14,7 @@ research_method: [systematic review, mixed methods]
 discipline: [nursing education, medical education]
 audience: [medical educators, instructional designers]
 level: [higher ed]
-category: [synthesis]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** **AI-Powered Simulation for Nursing Education: [[mixed-methods-research|Mixed Methods]] [[meta-analysis-systematic-review|Systematic Review]]** — A PRISMA-guided mixed-methods systematic review by Jiang et al. (2026) synthesizing 19 studies (N = 1,253, mostly prelicensure nursing students) on AI-powered [[simulation|simulations]] in nursing education. Evidence from the three [[rct|RCTs]] and controlled quasi-experimental studies shows significant gains in cognitive knowledge and [[affective-computing|affective]] outcomes ([[self-efficacy]], communication confidence), but inconsistent effects on complex psychomotor skills — one RCT even found AI-assisted simulation *inferior* to standardized-patient simulation. [[qualitative-research|Qualitative]] meta-aggregation reveals learners value safe, repeatable, nonjudgmental practice that bridges the theory–practice gap, while persistent "authenticity gap" frustrations (robotic dialogue, missing nonverbal cues, technical instability) mean AI should be a **complement to — not a replacement for** — traditional simulation and [[medical-education|clinical]] placement.

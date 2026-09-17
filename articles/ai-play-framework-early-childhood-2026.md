@@ -13,7 +13,7 @@ discipline: [cs education]
 level: [early childhood, k 12]
 sources: ['raw/papers/ai-play-framework-early-childhood-2026.md']
 confidence: high
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Malallah and colleagues (2026) introduce **AI-Play**, a play-based, unplugged framework for [[teacher-role|teaching]] AI concepts to young children (Pre-K–K2), responding to a gap in developmentally grounded [[ai-literacy|AI literacy]] guidance for early childhood. Synthesizing widely referenced standards and frameworks (AI4K12 Five Big Ideas, Long & Magerko, Digital Promise, CSTA, UNESCO, OECD, EU, TeachAI), they organize AI literacy into four play-based components — **AI Body** (AI as a system built from parts), **AI Food** (AI learns from examples), **AI Brain** (AI improves through patterns and feedback), and a **Pre/Post-AI ethical lens** emphasizing human responsibility, [[bias-mitigation|fairness]], and agency. Implemented through Hour of Code family activities, child reflections and parent surveys indicated high [[student-engagement|engagement]] and emerging understanding that AI learns from examples, demonstrating the framework's translation into practical, developmentally appropriate lessons for non-technical educators and families.

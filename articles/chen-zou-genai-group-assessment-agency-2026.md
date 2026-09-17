@@ -12,7 +12,6 @@ connected_faqs: [group-work-ai]
 research_method: [qualitative, interviews, thematic analysis]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
-category: [assessment]
 sources: ['raw/papers/chen-zou-genai-group-assessment-agency-2026.md']
 confidence: high
 ---

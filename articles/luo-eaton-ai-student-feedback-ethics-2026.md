@@ -13,7 +13,6 @@ audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/luo-eaton-ai-student-feedback-ethics-2026.md']
 confidence: medium
-category: [assessment, policy]
 ---
 > **Synthesis:** Luo and Eaton (2026) examine whether it is ethical for [[teacher-role|teachers]] to use AI to provide [[feedback]] to students, an important yet time-consuming part of teachers' work now increasingly automatable through [[generative-ai]]. Addressing a gap in empirical [[research-methods-aied|research]] on the [[ethics|ethical]] implications of this practice, the authors draw on a diverse dataset — university AI policy reviews from 50 leading institutions, Reddit social media posts, and interviews with university [[teacher-role|teachers]] and students in Southern China — to extrapolate **eight key areas of [[ethics|ethical]] consideration** for teachers' use of AI for feedback. Rather than offering a simple binary answer, they call for a nuanced understanding that weighs contextual complexities such as assessment purposes, assignment types, and the kinds of feedback being automated, and emphasize designing AI-enabled feedback activities that preserve the care, trust, and human connections central to effective feedback processes in [[higher-ed|higher education]].
 

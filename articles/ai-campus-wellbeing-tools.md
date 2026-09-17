@@ -13,8 +13,7 @@ audience: [learners, administrators]
 level: [higher ed]
 sources: ['raw/papers/2605.10804.md']
 confidence: medium
-category: [framework, evaluation]
-
+page_kind: [framework, evaluation]
 ---
 
 > **Synthesis:** This dissertation presents an integrated AI framework for campus [[well-being]] spanning prevention (improving feedback collection) and intervention (advancing mental health detection). It represents an important application of [[llm]] and [[generative-ai]] [[ai-technologies|technologies]] to [[student-experience]] that extends beyond academic learning to holistic student support in [[higher-ed]].

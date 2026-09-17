@@ -10,7 +10,6 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-essay-scoring, formative-assessment]
 research_method: [experiment]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/10.1016_j.caeai.2026.100574.md']
 confidence: high
 discipline: [cs education, engineering education]

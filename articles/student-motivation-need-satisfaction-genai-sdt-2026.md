@@ -11,8 +11,7 @@ audience: [teachers, researchers]
 level: [secondary]
 sources: ["raw/papers/10.1016_j.caeo.2026.100348.md"]
 confidence: high
-category: [engagement, evaluation]
-
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Schweder, Hagenauer, and Raufelder (2026) use a cross-sectional sample of 2464 lower-secondary students (grades 7–8) to compare rubric-based self-regulated competency-based learning (CBL) with and without ChatGPT integration and teacher-directed learning, combining person-centered latent profile analysis with variable-centered mean comparisons. ChatGPT use in CBL was associated with higher autonomy support and competence satisfaction but also a greater proportion of low-quality motivational profiles; those profiles nonetheless showed higher intrinsic and identified motivation than comparable profiles elsewhere, while relatedness was less pronounced in the ChatGPT-supported context.
