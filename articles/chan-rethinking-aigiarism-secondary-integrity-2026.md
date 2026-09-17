@@ -6,9 +6,10 @@ type: article
 tags: [academic-integrity, ai-misuse-learning-harm, ai-use-disclosure, k-12, ai-literacy, ethics, framing-ai-use-for-students, higher-ed]
 audience: [learners, instructors]
 research_method: [qualitative]
-level: [k 12, higher ed]
+level: [secondary, k 12]
 sources: ['raw/papers/chan-rethinking-aigiarism-secondary-integrity-2026.md']
 confidence: high
+category: [assessment, equity, policy]
 ---
 
 > **Synthesis:** Chan (2026) qualitatively analyzed open-ended responses from 133 Hong Kong secondary students (aged 14–16) to show that reasoning about the ethicality of [[generative-ai|generative AI]] in homework resists simple "cheating or not cheating" binaries. Applying Waltzer and Dahl's moral-developmental framework, the study found students engage in *conditional, context-sensitive* ethical reasoning about purpose of use, learning impact, intent, and [[bias-mitigation|fairness]], positioning themselves as active moral agents rather than passive rule-followers. The findings challenge fixed notions of AI-giarism and argue that [[academic-integrity]], [[assessment]] design, and [[ai-literacy]] education must foreground [[ethics|ethical reasoning]], transparency, and [[agency|student agency]].

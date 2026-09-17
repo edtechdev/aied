@@ -9,6 +9,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025.md']
 confidence: high
+category: [assessment]
 ---
 
 > **Synthesis:** **Chat or cheat?** — a survey of 468 undergraduates examining how students' Perception of Academic Dishonesty (PAD) and their perceptions of the risks of ChatGPT are linked to reduced use frequency and intention to use the tool. Findings show a negative relationship between perceived risk and ChatGPT usage, with perceived risk mediating the PAD–usage link: students who perceive academic dishonesty as a serious problem are more aware of ChatGPT's risks and consequently use it less.

@@ -10,6 +10,8 @@ category: [instructional design]
 
 sources: ['raw/papers/2601.13812.md']
 confidence: high
+audience: [instructors, instructional designers, curriculum designers]
+level: [higher ed]
 ---
 
 > **Synthesis:** Kuhn, Küchemann, Rakestraw, and Vogt (2026) argue that the central challenge of AI in [[physics-education|physics education]] is not cheating or tool selection but [[learning-design|instructional design]]. Responding to Kortemeyer's "boiling frog problem" — the risk that incremental accommodations to AI quietly erode students' [[student-engagement|engagement]] in epistemic practice — they propose **AIRIS** (Activate–Inquire–Reflect with Intelligent Support), a three-phase framework that structures student work before, during, and after AI use. Grounded in [[self-regulated-learning]], [[cognitive-offloading|Cognitive Load]] Theory, multiple external representations, and [[human-ai-collaboration|hybrid intelligence]], AIRIS keeps prediction, interpretation, and evaluation as non-delegable human tasks while allowing procedural computation to be delegated to AI. The authors illustrate the framework with a smartphone-acceleration elevator investigation and call for "withdrawal condition" experiments to test whether AIRIS-structured learning survives the removal of AI support.

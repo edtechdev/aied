@@ -9,6 +9,8 @@ research_method: [system development, case study]
 discipline: [cs education]
 sources: ['raw/papers/2608.26184.md']
 confidence: high
+level: [higher ed]
+category: [evaluation, framework]
 ---
 
 > **Synthesis:** Barron et al. (2026) present **TutorTrace**, a dataset and behavioral-abstraction pipeline that makes learners' behavioral context visible and computable in real time from low-level IDE telemetry during AI-assisted [[cs-education|programming education]]. Across four deployments in two introductory Python courses (N=480), the system captures ~180K telemetry events, 13,633 behavioral segments, and 27 continuously computed metrics, from which it derives a taxonomy of learner activity before the first AI query, between consecutive queries, and across the full session. In a preliminary classroom evaluation, behavior-aware prompts reduced intervals between queries with no independent work from 50.0% to 20.7%, and the data support held-out prediction of imminent queries (AUROC=.726) and guided versus dependent [[help-seeking]] (AUROC=.717). The work shows how behavioral context can enable adaptive [[intelligent-tutoring|AI tutoring]] at scale.

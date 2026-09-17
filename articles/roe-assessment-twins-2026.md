@@ -9,6 +9,7 @@ research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/roe-assessment-twins-2026.md']
 confidence: high
+category: [assessment, framework]
 
 connected_faqs: [asynchronous-online-courses-ai]
 ---

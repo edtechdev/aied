@@ -9,6 +9,7 @@ audience: [administrators, faculty development]
 level: [higher ed]
 sources: ['raw/papers/sposato-ai-educational-leadership-taxonomy-2025.md']
 confidence: high
+category: [framework, policy]
 
 ---
 

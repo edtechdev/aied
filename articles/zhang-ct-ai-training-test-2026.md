@@ -4,11 +4,13 @@ created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-24T16:40:00-04:00"
 type: article
 tags: [computational-thinking, assessment, generative-ai, higher-ed, cs-education, assessment-validity, item-response-theory]
-research_method: [design-based research]
+research_method: [instrument development, educational measurement]
 discipline: [cs education]
 level: [higher ed]
 sources: ['raw/papers/zhang-ct-ai-training-test-2026.md']
 confidence: high
+audience: [assessment designers, researchers]
+category: [assessment]
 ---
 
 > **Synthesis:** This study develops and validates the Computational Thinking in AI Training Test (CTAT) — a 34-item multiple-choice instrument built with the Evidence-Centered Design framework and validated via expert review, cognitive interviews, and a field test with 461 higher-education students (analyzed with [[item-response-theory|IRT]]). CTAT shows robust psychometric properties for assessing [[computational-thinking]] within AI-training contexts, and reveals that students struggle most with data representation, logical-operator sequencing, and loop structures.

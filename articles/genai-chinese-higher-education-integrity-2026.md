@@ -9,6 +9,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/genai-chinese-higher-education-integrity-2026.md']
 confidence: high
+category: [policy, curriculum design]
 ---
 
 > **Synthesis:** Bai and Costa (2026) use a [[qualitative-research|qualitative]] design — semi-structured interviews with 33 staff and students in Jiangxi Province, China — to explore how Gen-AI is reshaping [[teacher-role|teaching]], learning and thinking in Chinese [[higher-ed]]. Drawing on Bourdieu's field and habitus and Arendt's view of thinking as an inward, untransferable activity, they identify two principal tensions: the erosion of independent, critical and [[creativity|creative thinking]], and the destabilisation of established understandings of [[academic-integrity]]. While Gen-AI tools save time and offer emotional support, they risk fostering cognitive passivity that undermines the intellectual processes fundamental to higher education. The authors call for critical curricular reform and a redefinition of intellectual [[agency]] in an increasingly AI-mediated academic environment.

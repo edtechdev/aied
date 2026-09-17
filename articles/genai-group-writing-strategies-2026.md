@@ -10,6 +10,8 @@ discipline: [writing education]
 level: [higher ed]
 sources: ['raw/papers/genai-group-writing-strategies-2026.md']
 confidence: high
+audience: [instructors, researchers]
+category: [collaborative learning, instructional design]
 ---
 
 > **Synthesis:** Korchak, Costley, and Fanguy (2026) explore how university students use [[generative-ai]] (Gen-AI) during the preparation of a group [[writing-education]] assignment in a scientific writing course at a large Korean university. Semi-structured interviews were conducted with 10 postgraduate students (ages 23–39, M = 27.7) majoring in AI [[research-methods-aied|research]], and the data were analyzed using Braun and Clarke's (2006) thematic analysis, with two independent coders working in QDA Miner Lite software and a third coder resolving disagreements. Triangulating interview data with students' written self-reflection notes and their group writing documents (Introduction and Discussion sections of an academic paper), the analysis revealed three interconnected themes: (1) group strategy, (2) strategy characteristics, and (3) strategy considerations. The findings reveal that groups used Gen-AI either through pre-planned strategies or spontaneous, individually driven interactions coordinated through shared documents, and that Gen-AI supported not only language and ideation but also integration, helping merge parallel sections into coherent text — underscoring the need for coordination and verification in [[collaborative-learning]].

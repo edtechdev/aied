@@ -5,10 +5,12 @@ updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [ai-education, critical-thinking, metacognition, agency, humanities-education, higher-ed, ai-literacy, philosophy-of-ai-in-education]
 audience: [learners, instructors]
-research_method: [theoretical analysis]
-level: [higher ed]
+research_method: [qualitative, theoretical analysis]
+level: [secondary]
 sources: ['raw/papers/voicu-ai-interpretive-cognition-ssh-2026.md']
 confidence: high
+discipline: [humanities education]
+category: [framework, instructional design]
 ---
 
 > **Synthesis:** Voicu (2026) conceptualizes [[generative-ai|generative AI]] not as a neutral tool but as an *epistemic mediator* that fundamentally restructures interpretive cognition in Social Sciences and [[humanities-education|Humanities]] (SSH) education. Using a [[qualitative-research|qualitative]], conceptually driven design — systematic interdisciplinary synthesis combined with structured classroom observation of 42 interactional episodes across six sessions with 27 lower-secondary students — the paper identifies three macro-transformations (externalization of interpretive cognition, hybridization of authorship, and emergence of distributed [[agency|epistemic agency]]) and maps them onto three developmental trajectories of AI-mediated interpretation (AI-dependent, AI-enhanced, AI-critical). In response it proposes a six-checkpoint developmental-critical [[pedagogy|pedagogical]] model [[scaffolding]] critical [[ai-literacy|AI literacy]], epistemic responsibility, and interpretive autonomy, arguing that AI integration must preserve rather than erode the dialogic, [[situated-learning|situated]] nature of humanistic meaning-making.

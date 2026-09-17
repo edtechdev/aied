@@ -9,6 +9,7 @@ audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/enright-staff-perspectives-genai-2026.md']
 confidence: medium
+category: [policy, assessment]
 ---
 
 > **Synthesis:** Cross-sectional survey of 76 [[higher-ed|academic staff]] at an Australian university (conducted August 2023–June 2024) exploring [[teacher-role|educators']] perspectives, attitudes, and experiences with [[generative-ai|generative AI]] in [[higher-ed|learning and teaching]]. While staff saw clear productivity gains — streamlined [[administrator|administration]], curriculum and [[assessment]] design, and student-centered activities — they voiced substantial concerns about [[academic-integrity|academic integrity]], [[ethics|ethical]] implications, the erosion of core skills such as [[critical-thinking|critical thinking]] and [[creativity]], and widening [[equity-in-ai-education|equity]] gaps in student access and [[digital-divide|digital proficiency]]. A recurring refrain — that AI "should help them learn, not learn for them" — points to an urgent need for [[governance|governance frameworks]], [[professional-training|structured professional training]], interdisciplinary collaboration, and the active [[inclusive-learning|inclusion]] of student perspectives. Published in the *Journal of University Teaching and Learning Practice*, DOI https://doi.org/10.53761/d5n2yh02. (CC BY-ND license — see log.)

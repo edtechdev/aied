@@ -9,6 +9,8 @@ discipline: []
 level: [higher ed]
 sources: ['raw/papers/10.1186_s41239-026-00617-6.md']
 confidence: high
+audience: [educators, researchers, instructional designers]
+category: [evaluation, instructional design]
 ---
 
 > **Synthesis:** Tsiligkiris (2026) examines how the *depth* of students' [[llm]] interaction relates to task quality and immediate recall. In a controlled session, 22 postgraduate students completed a pre-test, an LLM-assisted neuroeconomics case task, and an immediate post-test, with fine-grained interaction logs capturing Depth (proportion of "why/how/explain" prompts), Volume, and Pacing. Students showed large immediate learning gains (Cohen's dz = 2.12), and interaction *depth* was positively associated with independently marked task quality (β = 6.27) — what students ask matters more than how much they ask. However, depth was *not* associated with immediate recall; gain scores were driven by baseline knowledge. This dissociation between performance quality and short-term recall aligns with the distinction between elaboration-driven comprehension and retrieval-driven consolidation.

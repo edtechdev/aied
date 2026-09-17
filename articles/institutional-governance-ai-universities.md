@@ -6,10 +6,12 @@ type: article
 tags: [ai-education, higher-ed, regulation, educational-policy-ai, change-management, ai-literacy, professional-training]
 connected_faqs: [institutional-ai-policy]
 audience: [administrators]
-research_method: [survey]
+research_method: [policy analysis, quantitative]
 level: [higher ed]
 sources: ['raw/papers/2608.03584v1.md']
 confidence: high
+discipline: [business education]
+category: [policy]
 
 ---
 

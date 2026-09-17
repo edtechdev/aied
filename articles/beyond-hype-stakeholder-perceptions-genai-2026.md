@@ -9,6 +9,7 @@ audience: [administrators, instructors, researchers]
 level: [higher ed]
 sources: ["raw/papers/10.1016_j.caeo.2026.100381.md"]
 confidence: high
+category: [policy, framework]
 
 ---
 

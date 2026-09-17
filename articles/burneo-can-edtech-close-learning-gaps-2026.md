@@ -4,11 +4,12 @@ created: "2026-08-24T11:55:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [meta-analysis-systematic-review, rct, learning-gains, intelligent-tutoring, adaptive-learning, generative-ai, k-12, equity-in-ai-education, ai-ed-evaluation]
-research_method: [meta-analysis, systematic review, randomized controlled trial, learning analytics]
+research_method: [meta-analysis, systematic review]
 level: [k 12]
 category: [evaluation]
 sources: ['raw/papers/burneo-can-edtech-close-learning-gaps-2026.md']
 confidence: high
+audience: [policymakers, administrators, researchers]
 ---
 
 > **Synthesis:** **In brief:** A World Bank [[meta-analysis-systematic-review|systematic review]] and meta-analysis pools 191 effect sizes from 14 randomized trials across ten economies to estimate that adaptive and AI-enabled educational technology raises student learning by an average of **0.125 standard deviations** relative to traditional instruction — above the median effect for education RCTs and within the range Kraft (2020) calls "large" for field experiments. Crucially, the newer generative-AI tools show **no advantage over the adaptive software that preceded them**, and gains are driven less by which technology is used than by whether it is embedded in a sound instructional strategy.

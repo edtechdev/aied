@@ -4,11 +4,12 @@ created: "2026-08-19T11:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [academic-integrity, ai-detection, assessment, generative-ai, ai-misuse-learning-harm, ethics, educational-policy-ai, higher-ed, meta-analysis-systematic-review]
-research_method: [meta-analysis]
+research_method: [systematic review]
 level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/ssaho-ai-academic-integrity-review-2025.md']
 confidence: high
+audience: [administrators, institutions, educators]
 ---
 
 > **Synthesis:** Balalle and Pannilage (2025) present a [[meta-analysis-systematic-review|PRISMA]]-based systematic literature review (25 studies from 1,443 records across Scopus, PubMed, DOAJ, and BASE) examining the impact of artificial intelligence on [[academic-integrity|academic integrity]] in [[higher-ed|higher education]]. The review finds a genuine **[[research-methods-aied|research]] gap** — AI and academic integrity sit in the same keyword cluster but few studies cover both — and documents that AI functions as both a **threat** to integrity (AI-generated [[writing-education|writing]], paraphrasing tools, contract cheating) and a **tool for detection** (Turnitin AI/similarity scoring). Its central call is for institutions to build a **culture of academic integrity** through clear policy, assessment redesign, and ethics training, rather than relying on detection software alone. 

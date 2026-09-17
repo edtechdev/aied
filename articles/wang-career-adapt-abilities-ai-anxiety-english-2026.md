@@ -9,6 +9,7 @@ research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/wang-career-adapt-abilities-ai-anxiety-english-2026.md']
 confidence: high
+discipline: [english education]
 ---
 
 > **Synthesis:** **Career adapt-abilities and AI anxiety** — a study of 444 English-major undergraduates at four Chinese universities (July–August 2025) showing that **career adapt-abilities significantly and negatively predict AI anxiety**, with **core self-evaluations partially mediating** this relationship. Latent profile analysis identified three career adapt-abilities subgroups (low, medium, high): the **low group showed the highest AI anxiety**, the high group the lowest. This is direct empirical evidence that career-related readiness is a protective factor against AI anxiety.

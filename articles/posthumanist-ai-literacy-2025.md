@@ -9,6 +9,8 @@ discipline: [writing education, language learning]
 audience: [instructors, learners]
 sources: ['raw/papers/10.1016_j.compcom.2025.102933.md']
 confidence: high
+level: [higher ed]
+category: [framework, ai foundations]
 ---
 
 > **Synthesis:** Wang and Wang (2025) argue for a posthumanist reframing of AI literacy, moving beyond the humanistic view of AI as a discrete "tool" used by autonomous human agents toward understanding AI literacy as an understanding of how meaning emerges through the entanglement of human and AI agencies. Through a case study of two [[multilingual-learning|multilingual]] undergraduate students (Zhimo and Asuka) in US writing courses, they document a productive tension between students' experiments with posthumanist literacy and their entrenched humanistic assumptions, showing how posthumanism offers a relational approach to cultivating AI literacy in language and literacy education.

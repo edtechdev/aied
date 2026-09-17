@@ -9,6 +9,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/knowloop-confusion-to-consolidation-2026.md']
 confidence: high
+category: [instructional design, engagement]
 ---
 
 > **Synthesis:** KnowLoop, a dual-agent conversational system for post-lecture review, structures learning around three stages—Recognize (mark in-situ confusion during lectures), Resolve ([[teacher-role|Teaching]] Assistant provides context-grounded clarification), and Consolidate (Peer [[scaffolding|scaffolds]] reflective [[learning-by-teaching|teach-back]]). A 22-participant study shows confusion points serve as [[personalized-learning|personalized]] review anchors, lecture-grounded clarification enables more targeted support than general-purpose AI, and teach-back prompts learners to reveal conceptual gaps and connect ideas across the lecture.

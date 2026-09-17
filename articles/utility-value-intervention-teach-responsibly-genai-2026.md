@@ -9,6 +9,7 @@ audience: [teacher educators, researchers]
 level: [higher ed]
 sources: ["raw/papers/10.1016_j.caeo.2026.100324.md"]
 confidence: high
+category: [instructional design, evaluation]
 
 ---
 

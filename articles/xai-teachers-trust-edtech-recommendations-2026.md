@@ -9,6 +9,8 @@ research_method: [mixed methods, experiment]
 level: [k 12]
 sources: ['raw/papers/xai-teachers-trust-edtech-recommendations-2026.md']
 confidence: high
+discipline: [chemistry education]
+category: [framework, evaluation]
 
 ---
 

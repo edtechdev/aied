@@ -9,6 +9,8 @@ discipline: [learning sciences]
 level: [higher ed, k 12]
 sources: ['raw/papers/10.1002_jcal.70311.md']
 confidence: high
+audience: [researchers, instructional designers, edtech designers]
+category: [framework, instructional design]
 ---
 
 > **Synthesis:** An, McLaren, and Stamper (2026) introduce and empirically test **deceptive overgeneralization** — a learning phenomenon in which learners acquire a skill with an incomplete subset of its necessary conditions, omitting a critical application constraint, yet still produce correct actions. Because observed correctness looks like mastery, [[adaptive-learning]] systems that infer mastery from correct performance risk prematurely stopping practice before learners encounter cases where the action should be *withheld*, leaving the overgeneralization undetected. Across 11 experiments (N = 192) with Intelligent Tutoring Systems for Riichi Mahjong, learners systematically misapplied learned actions on first "do-not-act" detector items (61.5%–100% across skills and cohorts), far exceeding the error rates predicted by Bayesian Knowledge Tracing. Tailored "do-not-act" practice with feedback that names the missing constraint reduced misapplication to near-floor levels. A secondary analysis of K-12 *Decimal Point* data shows the framework also accounts for whole-number bias, suggesting it generalizes beyond adaptive systems to traditional instruction.

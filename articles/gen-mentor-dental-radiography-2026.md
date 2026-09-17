@@ -9,6 +9,8 @@ audience: [medical educators, researchers, designers]
 level: [higher ed]
 sources: ["raw/papers/gen-mentor-dental-radiography-2026.md"]
 confidence: high
+discipline: [medical education]
+category: [instructional design, framework]
 
 ---
 

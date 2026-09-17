@@ -9,6 +9,8 @@ discipline: [language learning]
 level: [higher ed]
 sources: ['raw/papers/lukesova-clue-before-correction-2026.md']
 confidence: high
+audience: [instructors, curriculum designers]
+category: [instructional design]
 ---
 
 > **Synthesis:** Lukešová and Jennings (2026) present a generative-AI-supported revision task that promotes learner autonomy and metacognitive [[student-engagement|engagement]] in L2 writing through a **"clue before correction"** strategy: learners receive guided hints and must infer correct solutions rather than being given direct error correction by ChatGPT. With 58 university students (CEFR A1–B1), they found ChatGPT provided structured, adaptive feedback that reduced cognitive load and supported personalized revision — a design that operationalizes learning-from-errors and productive-failure principles with AI.

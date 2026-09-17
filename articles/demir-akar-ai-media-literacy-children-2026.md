@@ -10,6 +10,7 @@ audience: []
 level: [k 12]
 sources: ['raw/papers/demir-akar-ai-media-literacy-children-2026.md']
 confidence: high
+category: [ai foundations, curriculum design]
 
 ---
 

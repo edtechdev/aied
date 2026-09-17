@@ -10,6 +10,7 @@ research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/dag-ai-perceptions-career-anxiety-health-2026.md']
 confidence: high
+discipline: [medical education, nursing education]
 ---
 
 > **Synthesis:** **AI perceptions and career anxiety among health sciences students** — a cross-sectional study of **821 health sciences students** across Turkish universities showing a moderate, positive, significant correlation (r = 0.233, p < 0.001) between **AI anxiety and job search anxiety**; AI anxiety remained a significant predictor of job search anxiety even after controlling socio-demographic variables (β = 0.234, p < 0.001).

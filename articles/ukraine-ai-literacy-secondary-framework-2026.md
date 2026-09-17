@@ -9,6 +9,7 @@ audience: [teacher educators, researchers, policymakers]
 level: [k 12]
 sources: ["raw/papers/ukraine-ai-literacy-secondary-framework-2026.md"]
 confidence: high
+category: [ai foundations, framework, evaluation]
 
 ---
 

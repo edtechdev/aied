@@ -9,6 +9,7 @@ audience: [administrators]
 level: [higher ed]
 sources: ['raw/papers/alrahmi-org-drivers-ai-adoption-he-2026.md']
 confidence: medium
+category: [policy, framework]
 
 ---
 

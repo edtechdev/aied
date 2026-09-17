@@ -9,6 +9,7 @@ research_method: [theoretical analysis, policy analysis]
 level: [higher ed]
 sources: ['raw/papers/lodge-adaptive-capabilities-genai-future-2026.md']
 confidence: high
+category: [policy, framework]
 
 ---
 

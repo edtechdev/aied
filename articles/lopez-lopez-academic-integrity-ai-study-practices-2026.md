@@ -9,6 +9,7 @@ research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/lopez-lopez-academic-integrity-ai-study-practices-2026.md']
 confidence: high
+category: [assessment, policy]
 ---
 
 > **Synthesis:** López-López, Bru-Cordero, and Correa-Álvarez (2026) analyzed survey data from 357 undergraduates across 14 programs at a Colombian public university to examine how students interpret [[academic-integrity|academic integrity]] in relation to [[generative-ai|AI]]. They found AI use is routine and usually perceived as helpful for understanding content, yet students' [[ethics|ethical]] judgments remain divided—a slight majority rejected the idea that AI use is fraud, over one-third were undecided, and a smaller group endorsed it. The authors introduce the concept of **pragmatic ambiguity** to describe how students negotiate AI use between academic usefulness, uncertain [[governance|institutional]] boundaries, and concerns about authorship and intellectual contribution.

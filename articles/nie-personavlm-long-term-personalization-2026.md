@@ -6,10 +6,10 @@ type: article
 tags: [personalized-learning, intelligent-tutoring, student-modeling, llm, affective-tutoring, rag, k-12]
 audience: [software developers]
 research_method: [system development, benchmark]
-level: [k 12]
 
 sources: ['raw/papers/nie-personavlm-long-term-personalization-2026.md']
 confidence: medium
+category: [ai foundations, framework]
 ---
 
 > **Synthesis:** **PersonaVLM** introduces an agent framework for long-term personalization of [[multimodal]] LLMs, enabling AI tutors to remember, reason about, and align with a learner's evolving preferences across hundreds of interaction turns. Tested on 2,000+ curated cases across 200 personas in the Persona-MME [[benchmark]], the framework outperforms GPT-4o by 5.2% in personalization accuracy while operating entirely without proprietary API dependencies — preserving user privacy.

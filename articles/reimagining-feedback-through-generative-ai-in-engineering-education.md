@@ -9,6 +9,8 @@ level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/10.1016_j.caeai.2026.100574.md']
 confidence: high
+discipline: [cs education, engineering education]
+audience: [instructors, assessment designers]
 ---
 
 > **Synthesis:** Pecuchova, Benko, and Drlik (2026) investigate the capacity of a large language model (GPTo1) to generate formative feedback for student-created UML diagrams in a university software engineering course. Across two cohorts (N = 262), AI-generated, teacher-generated, and no-feedback conditions were compared, analyzing student perceptions, [[learning-gains|learning outcomes]], and grading reliability. Results show that while students rated [[generative-ai|GenAI]] feedback as beneficial and often comparable to human comments, teacher feedback remained more effective in supporting performance gains, especially in complex modeling tasks. Linguistic analysis revealed GenAI feedback was more repetitive and less pedagogically rich than human feedback.

@@ -9,6 +9,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/pbl-structural-conditions-ai-2026.md']
 confidence: high
+audience: [educators, curriculum designers, administrators]
 ---
 
 > **Synthesis:** This conceptual essay (method: conceptual synthesis, producing theoretical warrant rather than empirical proof) argues that the structural features of [[problem-based-learning|problem-based learning]] — problem-driven inquiry, [[collaborative-learning|collaborative]] knowledge construction, facilitation over instruction, and [[metacognition|metacognitive]] reflection — are the same conditions under which [[generative-ai|AI]] integration is educationally productive rather than substitutive. AI breaks the artifact-as-proxy for learning but not learning itself, and [[student-engagement|engagement]] remains the surviving observable proxy. The alignment is structural (PBL's founding rationale predates AI), AI raises the ceiling on problem complexity to widen access to wicked problems, and the analysis generalizes to any [[pedagogy]] sharing these features.

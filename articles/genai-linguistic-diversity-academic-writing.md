@@ -4,11 +4,13 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, writing-education, equity-in-ai-education, higher-ed, language-learning]
-research_method: [qualitative, theoretical analysis]
+research_method: [theoretical analysis]
 discipline: [writing education, language learning]
 level: [higher ed]
 sources: ['raw/papers/2607.28505.md']
 confidence: high
+audience: [instructors, researchers, policymakers]
+category: [equity, synthesis]
 ---
 
 > **Synthesis:** Structured scholarly dialogue among five sociolinguists examining how [[generative-ai|GenAI]] tools influence academic writing practices, reinforce or disrupt linguistic hierarchies, and impact the legitimacy of diverse English varieties in global scholarly communication. Raises concerns about linguistic homogenization and the marginalization of World Englishes.
