@@ -1,7 +1,7 @@
 ---
 title: "Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-08-24T05:04:50-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [metacognition, self-regulated-learning, cognitive-offloading, academic-integrity, student-experience, generative-ai]
 research_method: [theoretical analysis]
@@ -9,6 +9,7 @@ audience: [learners]
 
 sources: ['raw/papers/metacognitively-discordant-completion-genai-2026.md']
 confidence: medium
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** This theoretical paper names a state it calls *metacognitively discordant completion* (MDC): a learner submits correct, complete work while holding a first-person awareness that understanding has not actually arrived. Arguing that no existing literature holds the three defining conditions together under one name, the author builds the construct by inheritance from [[metacognition]] [[research-methods-aied|research]] and by boundary against related concepts, framing [[generative-ai|GenAI]]'s role as amplification rather than invention.

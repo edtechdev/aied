@@ -1,7 +1,7 @@
 ---
 title: "Asynchronous Oral Assessments: Enhancing Integrity, Engagement, and Communication in the AI Era"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [assessment, authentic-assessment, academic-integrity, student-engagement, higher-ed]
 research_method: [experiment]
@@ -9,6 +9,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/asynchronous-oral-assessment-2026.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Pentland, Lowenthal & Krier (2026) evaluate Asynchronous Oral [[assessment|Assessments]] (AOAs) — web-based assessments in which prompts are delivered just-in-time, students record brief, time-limited webcam responses that cannot be revisited, and instructors grade against embedded rubrics with auto-generated transcripts. Across two studies (intermediate accounting pilot; data analytics course), students scored higher on AOAs than on in-person multiple-choice exams (Study 2, significant; Study 1, positive but non-significant trends), with moderate cross-format correlations supporting convergent [[assessment-validity|validity]]. Students reported preparing differently for AOAs, using more active study strategies, and perceiving AOAs as professionally relevant and cognitively engaging. The paper positions AOAs as an administratively scalable complement to traditional [[assessment]] that preserves the authenticity and communication value of oral exams while addressing [[academic-integrity|integrity]] concerns in the [[generative-ai|AI]] era.

@@ -1,7 +1,10 @@
 # Journal
 
 
-Last updated: 2026-09-16 | Total entries: 1425
+Last updated: 2026-09-17 | Total entries: 1426
+
+## 2026-09-17
+- 📄 [[clerc-ai-literacy-workshop-llm-regulation-2026]] — Teaching Students to Question the Machine: An AI Literacy Intervention Improves Students’ Regulation of LLM Use in a Science Task
 
 ## 2026-09-16
 - 📘 [[arts-design-and-media-education]] — Arts, Design and Media Education

@@ -1,13 +1,14 @@
 ---
 title: 'Artificial Intelligence in Online Education: A Systematic Review of Its Impact on Learner Engagement and Satisfaction'
 created: "2026-08-20T04:40:00-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [online-teaching-and-learning, student-engagement, student-experience, meta-analysis-systematic-review, conversational-ai, intelligent-tutoring]
 research_method: [systematic review, learning analytics]
 audience: [learners]
 sources: ['raw/papers/ai-online-education-engagement-satisfaction-2026.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** This [[meta-analysis-systematic-review|systematic literature review]] (30 peer-reviewed studies, 2020–2025) examines how AI [[ai-technologies|technologies]]—chatbots, [[intelligent-tutoring|intelligent tutoring systems]] (ITS), [[affective-computing|sentiment analysis]], gaze tracking, and predictive analytics—support [[student-engagement|learner engagement]] and satisfaction in [[higher-ed|higher education]] online courses across cognitive, emotional, behavioral, and social dimensions. Guided by three research questions, the review finds that [[adaptive-learning|adaptive learning]], real-time [[feedback]], and [[affective-tutoring|emotion-aware]] systems contribute positively to [[personalized-learning|personalized learning]] and [[motivation]], while persistent concerns around [[privacy|data privacy]], [[bias-mitigation|algorithmic bias]], [[cognitive-offloading|over-reliance]] on automation, and system [[usability-research|usability]] temper these gains. Experimental and quasi-experimental designs, [[reinforcement-learning|machine learning]], [[mixed-methods-research|mixed methods]], and surveys dominate the methodological landscape.

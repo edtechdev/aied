@@ -1,7 +1,7 @@
 ---
 title: "From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents"
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [llm, agentic-ai, online-teaching-and-learning, personalized-learning, intelligent-tutoring, curriculum-design, rag, generative-ai]
 audience: [software developers]
@@ -9,6 +9,7 @@ research_method: [system development, case study]
 category: [instructional design]
 sources: ['raw/papers/2409.03512.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** MAIC (Massive AI-empowered Course) proposes a new paradigm for [[online-teaching-and-learning|online education]] that replaces the MOOC's "one video for N students" broadcast with an LLM-driven multi-agent classroom of "N agents for 1 student." By building all agents on a unified [[llm]] foundation, MAIC balances scalability with adaptivity — and collapses course-production cost from roughly **$25,000 and 60 hours** per MOOC to **under $2 and 30 minutes**. Piloted at Tsinghua University across two courses with **100,000+ learning records from 500+ students**, it deploys specialized Teacher, Assistant, Classmate, and Analyzer agents and is released [[open-source|open source]] as **OpenMAIC**.
