@@ -22,7 +22,7 @@ confidence: high
 5. The study used UTAUT and Theory of Planned Behavior as a combined lens, and reports reliability/validity metrics (Cronbach's alpha and composite reliability above 0.70).
 
 ## Discussion
-The study extends the [[technology-acceptance-model|technology adoption]] literature to the [[global-south|Ghanaian]] [[science-education]] context, where teacher readiness and perceptions are decisive for successful educational-technology implementation. Its contribution is to foreground the gap between favorable attitudes and moderate actual use — a finding that complicates simple "acceptance" narratives and points to [[teacher-ai-competency|teacher competency]] and [[governance|institutional]] support as the real levers for AI integration. For the knowledge base, it connects [[teacher-education|teacher education]], [[ai-literacy|AI literacy]], and technology-adoption theory, and reinforces the recurring theme that initial [[teacher-role|teacher]] enthusiasm must be matched by sustained [[educational-development|professional development]] and facilitating conditions to translate into classroom practice.
+The study extends the [[technology-acceptance-model|technology adoption]] literature to the [[global-south|Ghanaian]] [[science-education]] context, where teacher readiness and perceptions are decisive for successful educational-technology implementation. Its contribution is to foreground the gap between favorable attitudes and moderate actual use — a finding that complicates simple "acceptance" narratives and points to [[teacher-ai-competency|teacher competency]] and [[governance|institutional]] support as the real levers for AI integration. For the knowledge base, it connects [[teacher-education|teacher education]], [[ai-literacy]], and technology-adoption theory, and reinforces the recurring theme that initial [[teacher-role|teacher]] enthusiasm must be matched by sustained [[educational-development|professional development]] and facilitating conditions to translate into classroom practice.
 
 ## Connected Concepts
 - [[stem-education|science education]]
@@ -36,7 +36,6 @@ The study extends the [[technology-acceptance-model|technology adoption]] litera
 - [[generative-ai]]
 
 ## Connected Articles
-- [[technology-acceptance-model]] — Technology Adoption Models
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty Technology Integration Standards
 - [[espino-ai-business-education-review-2026]] — AI in Business Education Review
 - [[genai-pd-ai-pck-learning-gain-2026]] — GenAI Professional Development and AI-PCK

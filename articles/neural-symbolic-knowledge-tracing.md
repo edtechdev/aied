@@ -74,7 +74,7 @@ Real-world 6th-grade Maths from Opiq: 167 students, 21,471 interactions, 13 skil
 
 Traditional **Knowledge Tracing (KT)** methods:
 
-- **IRT-based** ([[item-response-theory|Item Response Theory]]): [[huang-interpretable-knowledge-tracing-2026]] — interpretable difficulty parameters but limited sequential modeling.
+- **IRT-based** ([[item-response-theory]]): [[huang-interpretable-knowledge-tracing-2026]] — interpretable difficulty parameters but limited sequential modeling.
 - **BKT** ([[knowledge-tracing|Bayesian Knowledge Tracing]]): Explicit prerequisite structures; interpretable but rigid.
 - **DeepKT** (LSTM/Transformer): High predictive capacity but opaque.
 - **Neural-symbolic KT** bridges the gap: retains interpretability of symbolic approaches while leveraging neural networks' representational power.
@@ -84,11 +84,11 @@ Traditional **Knowledge Tracing (KT)** methods:
 The paper positions this under **responsible AI** (Goellner et al., 2024: "human-centered approach fostering user trust through [[ethics|ethical]] decision-making, explainable outcomes, and privacy-preserving implementation"):
 
 1. **Transparency:** Symbolic components make learner state *auditable* — critical for [[ai-tutor-safety-harms|safety auditing]].
-2. **Pedagogical validity:** Updates follow educational theory ([[mastery-learning|mastery learning]], repeated-failure signals), not just data patterns.
+2. **Pedagogical validity:** Updates follow educational theory ([[mastery-learning]], repeated-failure signals), not just data patterns.
 3. **Data efficiency:** Practical in real educational settings where large labeled datasets are rare.
 4. **Temporal [[trust|trustworthiness]]:** Predictions don't oscillate wildly — a key requirement for [[student-experience|student trust]] and instructor decision-making.
 
-This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tutoring alignment]] and demonstrates a path toward [[principled-ai-education|principled AI in education]] — augment, don't displace, pedagogical reasoning.
+This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tutoring alignment]] and demonstrates a path toward [[principled-ai-education]] — augment, don't displace, pedagogical reasoning.
 
 ## Open Questions
 
@@ -107,6 +107,8 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
 - [[educational-measurement]]
+
+
 ## Connected Articles
 
 - [[huang-interpretable-knowledge-tracing-2026]]
@@ -115,7 +117,8 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 - [[llm-student-modeling-memory]]
 - [[stanbkt-bayesian-knowledge-tracing]]
 - [[explainable-probabilistic-kt]]
-- [[huang-interpretable-knowledge-tracing-2026]]
+
+
 ## Citation
 
 Hooshyar, D., Šír, G., Yang, Y., Kärkkäinen, T., Hämäläinen, R., Krivich, E., Cukurova, M., Gašević, D., & Azevedo, R. (2026). [*Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling*](https://arxiv.org/abs/2604.08263).

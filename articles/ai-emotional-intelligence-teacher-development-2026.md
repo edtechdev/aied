@@ -36,7 +36,7 @@ From that proposition they derive an operational framework: seven design conditi
 - **Treat governance as design.** Data minimization, purpose limitation, opt-in and opt-out, access controls, retention limits, human oversight, and contestability belong in the pedagogical architecture, alongside formal separation from employment and evaluation decisions.
 - **Protect the boundary between emotional intelligence and AI.** AI has no emotional experience, professional responsibility, or contextual accountability; its role should stay limited to coordination, access, referral, documentation, and preparation for reflective dialogue. [[human-in-the-loop-ai|Human oversight]] becomes a design requirement rather than a compliance checkbox.
 - **Expect downstream effects on students.** When teachers have collegial trust, mentoring, and institutional support, they are better able to sustain emotionally responsive pedagogical relationships and psychologically safe classrooms; individualised, monitored well-being provision can degrade those conditions instead.
-- **Acknowledge the boundary conditions.** AI cannot compensate for chronic overload, punitive accountability cultures, weak leadership, or the absence of protected time — the structural deficits that make [[teacher-education|professional development]] fail in the first place.
+- **Acknowledge the boundary conditions.** AI cannot compensate for chronic overload, punitive accountability cultures, weak leadership, or the absence of protected time — the structural deficits that make [[teacher-education]] fail in the first place.
 
 ## Limitations
 
@@ -49,7 +49,6 @@ From that proposition they derive an operational framework: seven design conditi
 ## Connected Concepts
 
 - [[teacher-role]] — reframes what AI should and should not be allowed to do in teachers' professional lives
-- [[teacher-education|professional development]] — the direct object of the paper's design thesis
 - [[well-being]] — teacher well-being is the outcome the paper is trying to protect
 - [[ethics]] — governs the ethical limits placed on symbolic substitution and affective inference
 - [[ai-literacy]] — recast here as a socio-emotional competence, not just a technical skill

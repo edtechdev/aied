@@ -11,7 +11,7 @@ sources: ['raw/papers/sudarshan-agentic-ai-ecosystems-higher-education-2026.md']
 confidence: medium
 ---
 
-> **Synthesis:** This position paper (Sudarshan et al., arXiv 2605.14266) argues that current [[agentic-ai|AI agents]] in [[higher-ed|higher education]] — intelligent tutoring, grading, learning analytics — are fragmented, task-specific tools that fail to handle [[governance|institutional]] complexity. It proposes a forward-looking **agentic multi-agent AI ecosystem**: interconnected, autonomous, goal-driven agents spanning learning, teaching, and institutional functions. A thematic analysis of existing literature surfaces four themes (task-specific fragmented tools; single-agent→multi-agent transition; limited cross-functional integration; insufficient inclusivity). Its distinctive contribution is weaving **[[inclusive-learning|inclusive learning]]** into the architecture: a coordinated multi-agent platform can support diverse learners and those with [[special-education|special educational needs]] through adaptive, [[multimodal]] interventions, embedding equity "in the architecture rather than as an add-on." It closes on four future directions headlined by a **human–AI co-evolution** model that keeps [[human-in-the-loop-ai|humans in the loop]].
+> **Synthesis:** This position paper (Sudarshan et al., arXiv 2605.14266) argues that current [[agentic-ai|AI agents]] in [[higher-ed]] — intelligent tutoring, grading, learning analytics — are fragmented, task-specific tools that fail to handle [[governance|institutional]] complexity. It proposes a forward-looking **agentic multi-agent AI ecosystem**: interconnected, autonomous, goal-driven agents spanning learning, teaching, and institutional functions. A thematic analysis of existing literature surfaces four themes (task-specific fragmented tools; single-agent→multi-agent transition; limited cross-functional integration; insufficient inclusivity). Its distinctive contribution is weaving **[[inclusive-learning]]** into the architecture: a coordinated multi-agent platform can support diverse learners and those with [[special-education|special educational needs]] through adaptive, [[multimodal]] interventions, embedding equity "in the architecture rather than as an add-on." It closes on four future directions headlined by a **human–AI co-evolution** model that keeps [[human-in-the-loop-ai|humans in the loop]].
 
 ## The core claim: from fragmented agents to an ecosystem
 
@@ -21,7 +21,7 @@ The paper's central diagnosis is fragmentation. Institutions run many capable AI
 
 The paper's unified multi-stakeholder framework (Fig. 4–5) groups agents into three functional families operating in a coordinated layered architecture (user interface → multi-agent coordination → data infrastructure):
 
-- **[[pedagogical-agent|Learning agents]]** support students: dynamically customising content to knowledge level, learning style, emotional state, and interests; answering questions, generating personalized schedules, sending study reminders, recommending resources with [[affective-computing|sentiment/affective]] adaptation; and acting as creative companions for brainstorming and outlining. In an ecosystem they extend beyond static personalization to continuously adapt to evolving learner profiles and promote [[self-regulated-learning|self-regulated learning]].
+- **[[pedagogical-agent|Learning agents]]** support students: dynamically customising content to knowledge level, learning style, emotional state, and interests; answering questions, generating personalized schedules, sending study reminders, recommending resources with [[affective-computing|sentiment/affective]] adaptation; and acting as creative companions for brainstorming and outlining. In an ecosystem they extend beyond static personalization to continuously adapt to evolving learner profiles and promote [[self-regulated-learning]].
 - **Teaching agents** are aides to educators — extending [[learning-design|instructional design]] by answering student queries, recommending resources, generating lesson plans/quizzes/video transcripts, automating [[formative-assessment|formative]] and [[summative-assessment|summative]] feedback, and providing actionable performance insights — freeing educators for higher-order work like mentoring and critical discussion. The paper stresses they are **assistive systems, not replacements**, reinforcing a [[teacher-role|human-centered]] role for educators.
 - **Institutional agents** operate at the administrative/strategic level: predictive-analytics agents that identify at-risk learners and forecast graduation; enrollment/advising agents; onboarding and real-time administrative support; and resource-scheduling agents optimizing classrooms, timetables, and exams. Within an ecosystem they are "not isolated dashboards but active participants," aligning operational decisions with pedagogical goals.
 
@@ -33,7 +33,7 @@ Where most agentic-AI syntheses treat inclusion as a footnote, this paper makes 
 
 - **Cognitive support:** personalized pacing, simplified explanations, [[scaffolding]], reinforcement strategies for learners with comprehension, memory, or attention difficulties.
 - **Sensory support:** accessible multimodal learning via text-to-speech, speech-to-text, visual enhancement, and alternative content representations — aligned with [[universal-design-for-learning|universal design]] principles.
-- **Emotional and mental-health support:** [[well-being|well-being]] agents monitoring [[affective-computing|emotional/engagement]] state and intervening.
+- **Emotional and mental-health support:** [[well-being]] agents monitoring [[affective-computing|emotional/engagement]] state and intervening.
 
 Inclusion is achieved not by a single assistive tool but by **coordinating specialized agents** — accessibility (interface/modality adaptation), cognitive-support (scaffolding), well-being (monitoring), and learning (content/assessment) agents working together in real time. This "equitable personalization" embeds inclusivity in the architecture rather than bolting it on.
 
@@ -52,7 +52,6 @@ This is a perspective/position piece, not an empirical study: the evidence is a 
 ## Connected Concepts
 
 - [[agentic-ai]] — the ecosystem construct the paper extends to multi-agent platforms
-- [[agentic-ai]] — the ecosystem construct, incl. multi-agent coordination
 - [[higher-ed]] — the deployment context
 - [[pedagogical-agent]] — learning and teaching agents
 - [[special-education]] — SEN support as a first-class design lens

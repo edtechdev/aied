@@ -40,7 +40,6 @@ sources: [raw/papers/2511.08283.md]
 ## Connected Articles
 
 - [[structrag-diagram-reasoning-ai-tutoring]] — StructRAG: structural diagram reasoning for STEM AI tutoring
-- [[math-education]] — Math Education
 
 ## Citation
 

@@ -38,6 +38,8 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 - [[item-response-theory]]
 - [[benchmark]]
 - [[ai-feedback-quality]]
+
+
 ## Connected Articles
 
 - [[cong-confidence-asag-2026]]
@@ -45,8 +47,9 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 - [[sequenced-ai-feedback-learning]]
 - [[ground-truth-reliability-aied]]
 - [[generate-then-validate-question-gen]]
-- [[cong-confidence-asag-2026]]
 - [[llm-psychometric-calibration-cdp]]
+
+
 ## Citation
 
 Schleifer, A. V. G., Ariely, M., & Klebanov, B. B. (2026). [*Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation*](https://arxiv.org/abs/2605.07647).
