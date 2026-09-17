@@ -1,7 +1,7 @@
 ---
 title: Explainable AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T08:03:09-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, learning-analytics, automated-assessment, bias-mitigation, intelligent-tutoring, human-in-the-loop-ai, pedagogical-safety, metacognition, student-modeling]
 audience: [learners, researchers, designers, educators]
@@ -60,6 +60,14 @@ A recurring lesson across the evidence: **having an explanation is not enough**;
 
 Explanation quality also has an equity dimension: an explanation that is technically present but unreadable to a given stakeholder — or that obscures the [[bias-mitigation|bias]] in a prediction — fails its purpose. This is why the design question is *quality and fit*, and why human-centered, stakeholder-specific explanation design is inseparable from the technical generation of explanations. Effective XAI is a communication act designed for the recipient's cognitive needs, not merely a technical artifact.
 
+Two cautions sharpen this further, both of which the wiki's newest contribution on the subject makes central. First, the explanation machinery is not itself neutral: post-hoc methods such as LIME and SHAP can be unfaithful to the model's actual behaviour, so a technically present explanation may mislead rather than inform ([[lund-socially-accountable-data-science-xai-2026|Lund et al. 2026]], drawing on Chuan et al. 2024). Second, **explanation is not accountability**. An account of which features drove a prediction does not reveal whether those features were appropriate to use, whether the training data was representative, or whether the system's design reflected sound judgment; explanations can create the appearance of transparency while leaving the structural conditions that produced a decision untouched (Mittelstadt et al. 2019). For education this means the question to keep asking is not whether an explanation was produced but whether the person receiving it — a student, a teacher, an advisor — could understand it, act on it, or contest the decision behind it.
+
+## Teaching explainability as accountability practice
+
+If explanation quality decides whether XAI is useful, then producing explanations has to be taught as a professional habit rather than demonstrated as a capability. [[lund-socially-accountable-data-science-xai-2026|Lund and colleagues (2026)]] propose doing this across four pillars — **answerability** (the obligation to give reasons to those affected), **responsibility** (harm anticipated across the lifecycle, not defended after the fact), **enforcement** (consequences inside the course) and **reflexivity** (documented examination of one's own assumptions) — each with its own assignments and its own classroom cost.
+
+For explainability specifically, the assignments that matter are the ones that force explanation out of the notebook: graded model cards weighted alongside accuracy metrics, and structured explanation audits in which students apply interpretability tools to their own models and then present the results to an audience without a shared technical background. Enforcement is the pillar most often missing from ethics-adjacent courses and the one that makes the rest more than symbolic — rubrics that reward responsible documentation, projects that can be returned for revision on ethical grounds, and peer review conducted against accountability criteria rather than technical ones alone. The paper is candid that the tools differ sharply in cost: model cards and positionality statements need no new software and risk only superficial compliance, whereas peer panels and stakeholder engagement require coordination and institutional buy-in, which is why it recommends a staged adoption rather than an all-or-nothing commitment. See [[curriculum-design]] for where these fit in a program.
+
 ## Connected Concepts
 - [[trust-calibration]]
 - [[trust]]
@@ -79,6 +87,7 @@ Explanation quality also has an equity dimension: an explanation that is technic
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
 ## Connected Articles
+- [[lund-socially-accountable-data-science-xai-2026]] — A four-pillar framework (answerability, responsibility, enforcement, reflexivity) for teaching XAI as accountability practice (Lund et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (collaborative vs. raw explanations)
 - [[xai-education-framework]] — XAI-ED: the foundational framework for explainable AI in education (Khosravi et al. 2022)
 - [[xai-teachers-trust-edtech-recommendations-2026]] — Domain-specific explanations build teachers' trust and acceptance (Feldman-Maggor et al. 2025)

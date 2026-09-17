@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-17
 
-Articles: 1231 | Concepts: 195 | FAQs: 31
+Articles: 1232 | Concepts: 195 | FAQs: 31
 
 ## Concepts
 
