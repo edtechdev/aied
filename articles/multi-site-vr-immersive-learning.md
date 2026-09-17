@@ -5,7 +5,7 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [active-learning, scaffolding, student-engagement]
-technology: [generative-ai, llm]
+technology: [generative-ai, llm, edtech-platform]
 stakeholders: [student-experience]
 research_method: [system development]
 discipline: [stem education]
@@ -13,7 +13,6 @@ audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2606.10325.md']
 confidence: medium
-systems: [edtech-platform]
 ---
 
 > **Synthesis:** This paper develops a VR-based immersive learning environment using Photon Fusion that allows teachers and students to be present in the same virtual space regardless of physical locations. The system enables real-time verbal communication and interaction with 3D learning materials, achieving stable real-time communication and state synchronization across multiple players. Evaluation demonstrates stable communication performance, good [[usability-research|usability]], and minimal VR sickness. This work connects to [[edtech-platform]] design for distributed education and to [[active-learning]] [[research-methods-aied|research]] by providing a technology platform for shared virtual classroom experiences. The system addresses a practical infrastructure gap in multi-site education scenarios where physical co-presence is not possible.

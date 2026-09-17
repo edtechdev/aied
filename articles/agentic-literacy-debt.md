@@ -11,7 +11,7 @@ research_method: [theoretical analysis]
 level: [higher ed, k 12]
 sources: ['raw/papers/2605.27396.md']
 confidence: high
-systems: [educational-policy-ai, governance]
+institutions: [educational-policy-ai, governance]
 ---
 
 > **Synthesis:** Nama (2026) names **agentic literacy debt** — the accumulating societal deficit that grows when [[agentic-ai|agentic AI]] systems are deployed at scale without corresponding [[ai-literacy|literacy infrastructure]]. Existing AI literacy frameworks were built for a world of *tools* where humans evaluate outputs and decide; autonomous AI agents instead *plan, decide, and act* without step-by-step approval, breaking the three assumptions (evaluation, reversibility, control) every current literacy model depends on. The debt compounds through three reinforcing channels (normalization of opaque delegation, multi-agent ecosystem complexity, institutional path dependence), is **incurred by deploying organizations but paid by users, patients, and citizens**, and demands reframing AI literacy from an *evaluative* competency to a *[[governance]]* capability.

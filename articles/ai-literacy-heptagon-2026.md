@@ -11,7 +11,7 @@ audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100540.md']
 confidence: high
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** Hackl, Müller, and Sailer (2026) present the AI Literacy Heptagon, a structured seven-dimensional framework for AI literacy (AIL) in higher education, developed through an integrative [[meta-analysis-systematic-review|literature review]] of publications from 2021–2024. The framework synthesizes seven core dimensions — technical knowledge and skills, application proficiency, [[critical-thinking|critical thinking]] ability, [[ethics|ethical]] awareness and reasoning, social impact understanding, integration skills, and legal and [[regulation|regulatory]] knowledge — and is operationalized through four Bloom's-taxonomy-aligned proficiency levels (Unaware, Beginner, Intermediate, Expert). An initial expert-led [[curriculum-design|curriculum]] mapping across an AI Engineering and a Media [[pedagogy]] program demonstrated the framework's utility for analyzing and structuring curricula, highlighting the [[discipline-specific-aied|discipline-specific]] nature of AIL implementation.

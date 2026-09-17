@@ -11,7 +11,7 @@ confidence: high
 audience: [instructional designers, researchers]
 level: [adult learning]
 page_kind: [framework]
-systems: [lifelong-learning, professional-training]
+stakeholders: [lifelong-learning, professional-training]
 ---
 
 > **Synthesis:** This paper addresses a fundamental gap in [[metacognition]] [[research-methods-aied|research]]: the lack of systematic integration of metacognitive theories into scenario taxonomies capable of guiding AI-enhanced [[educational-development|professional development]]. By synthesizing four major theoretical frameworks into a six-node open systems model, the authors create a rigorous taxonomy of metacognitive learning scenarios.

@@ -13,7 +13,7 @@ sources: ['raw/papers/educators-engagement-ai-pbl-review-2026.md']
 confidence: high
 page_kind: [synthesis, framework]
 methods: [meta-analysis-systematic-review, usability-research]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** This PRISMA 2020 [[meta-analysis-systematic-review|systematic review]] (50 peer-reviewed articles, 2015–2024) examines how educators engage with AI-driven [[problem-based-learning|Problem-Based Learning]] (PBL) tools through a [[human-ai-collaboration|Human–Computer Interaction]] (HCI) lens, aligned with SDG 4 (Quality Education). Three dominant themes emerge: AI-enhanced PBL environments strengthen educator–student collaboration via [[feedback|real-time feedback]], [[scaffolding|intelligent scaffolding]], and data-informed decisions; AI supports adaptive and [[personalized-learning|personalized learning]] that improves [[student-engagement|engagement]] and [[problem-solving]]; yet persistent [[ethics|ethical]] concerns ([[privacy|data privacy]], [[bias-mitigation|algorithmic bias]], educator autonomy) and underdeveloped AI-based [[assessment]] practices limit adoption. The authors propose an AI-Enhanced Academic Interaction Model (AEAIM) integrating the [[technology-acceptance-model|Technology Acceptance Model]], [[constructivist|Constructivist]] [[learning-theories|Learning Theory]], and Krashen's Input Hypothesis, and stress that AI must empower rather than replace educator [[agency]].

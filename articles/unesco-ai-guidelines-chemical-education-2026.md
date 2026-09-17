@@ -12,7 +12,7 @@ level: [higher ed]
 sources: ['raw/papers/unesco-ai-guidelines-chemical-education-2026.md']
 confidence: high
 page_kind: [framework]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 > **Synthesis:** Li, Tolosa, Rivas Echeverria, and Marquez (2026) — a *Perspective* in the *Journal of Chemical Education* — translate UNESCO's AI ethics and education guidance (2022–2025) into **chemical education**, arguing that responsible AI integration requires a shift from a **content-delivery model to a knowledge-creation model** guided by high-level [[ethics|ethical]] frameworks. They organize current [[generative-ai|GenAI]]-in-[[chemistry-education|chemistry]] research into four pillars — **AI chemical literacy, technical accuracy and reasoning, pedagogical principles, and ethics/epistemology** — and warn of **epistemic drift**: reliance on opaque algorithms may detach scientific inquiry from causal understanding. The article emphasizes **critical AI chemical literacy**, targeted [[teacher-education|teacher training]], human-reasoning-prioritizing assessment, and closing the global disparity where high-income institutions have adopted AI tools while low-income regions lag. 
 

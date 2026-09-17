@@ -1908,7 +1908,7 @@ sections:
     - student-ai-interaction
     - problem-solving
     - mastery-learning
-- heading: AI technologies and techniques
+- heading: Technologies and techniques
   blurb: 'The technical layer: the AI models and methods that power education technology, and the learner-modeling and tutoring
     systems built on them.'
   groups:
@@ -1947,6 +1947,11 @@ sections:
     - affective-computing
     - human-in-the-loop-ai
     - learning-analytics
+  - label: Platforms, openness and adoption
+    items:
+    - technology-acceptance-model
+    - open-source
+    - edtech-platform
 - heading: AI in the disciplines
   blurb: How AI is applied across academic subjects and educational levels — the field\u2019s subject-area coverage.
   groups:
@@ -2050,7 +2055,11 @@ sections:
   - label: Designers and developers
     items:
     - educational-technology-developers
-- heading: Institutions and systems
+  - label: Lifelong and workplace learning
+    items:
+    - lifelong-learning
+    - professional-training
+- heading: Institutions and policy
   groups:
   - label: Institutions
     items:
@@ -2059,13 +2068,6 @@ sections:
     - governance
     - change-management
     - regulation
-  - label: Systems and infrastructure
-    items:
-    - technology-acceptance-model
-    - open-source
-    - edtech-platform
-    - lifelong-learning
-    - professional-training
 - heading: Equity, ethics, and responsible use
   blurb: Fairness, access, and responsibility are central to AI in education.
   groups:

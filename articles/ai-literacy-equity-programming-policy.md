@@ -11,7 +11,7 @@ level: [secondary, k 12, higher ed]
 sources: ['raw/papers/2607.11314.md']
 confidence: high
 discipline: [cs education]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** Across 15 nations, the paper examines how secondary computer-[[stem-education|science education]] embeds AI literacy into general-track subjects (Digital Literacy, ICT, TIC, SNT) rather than specialized tracks, creating structural inequities in who develops AI capability. The comparative analysis shows that policy choices about which programming language and subject bears 'universal' AI literacy determine differential access to computational futures.

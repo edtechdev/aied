@@ -11,7 +11,8 @@ audience: [learners, administrators]
 level: [higher ed]
 sources: ['raw/papers/2608.05910.md']
 confidence: medium
-systems: [administrator, edtech-platform]
+institutions: [administrator]
+technology: [edtech-platform]
 ---
 
 > **Synthesis:** This paper presents CourseGraph, a methodology for automatically evaluating external course equivalences by modeling course content as structured knowledge graphs. Designed for student mobility programs like Erasmus+, CourseGraph extracts topics from course descriptions, maps relationships between concepts, and identifies substantive overlap vs. complementarity between courses at different universities. The system mimics the manual workflow of [[curriculum-design|curriculum]] advisors — analyzing syllabi, comparing learning objectives, and flagging redundancies — but scales to thousands of course pairs. Evaluation on CS programs across multiple European universities demonstrates that CourseGraph's overlap judgments align closely with expert advisor decisions while dramatically reducing processing time.

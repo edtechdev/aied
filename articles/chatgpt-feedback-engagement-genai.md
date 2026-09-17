@@ -15,7 +15,7 @@ level: [higher ed]
 
 sources: ['raw/papers/tandf-2026-chatgpt-feedback-engagement.md']
 confidence: high
-systems: [regulation]
+institutions: [regulation]
 ---
 
 > **Synthesis:** A [[qualitative-research|qualitative]] study of **16 undergraduates** at a Hong Kong [[teacher-education]] university who used **ChatGPT 3.5** to obtain feedback on IELTS writing tasks. Data came from unobtrusive screen-recorded observations plus stimulated-recall interviews. The study extends the traditional tripartite model of feedback [[student-engagement|engagement]] (cognitive, [[affective-computing|affective]], behavioral) to a **four-dimensional model adding [[metacognition|metacognitive]] engagement**, and asks what [[feedback-literacy|feedback literacy]] students need in a [[generative-ai|GenAI]] context.

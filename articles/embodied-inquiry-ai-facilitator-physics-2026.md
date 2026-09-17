@@ -12,7 +12,7 @@ sources: ['raw/papers/2607.21349.md']
 confidence: high
 audience: [instructors, instructional designers]
 page_kind: [framework]
-systems: [professional-training]
+stakeholders: [professional-training]
 ---
 
 > **Synthesis:** Tufino & Damiani (2026) explore where a language-based AI can stand within an inquiry activity without displacing embodied experience, using a Master's-level physics education course investigating the statics of fluids via the ISLE approach. In a two-phase design, students first built the buoyancy model with their own hands without AI; a purpose-configured AI assistant then facilitated applying the model to a new phenomenon. The paper discusses what a language-based facilitator cannot reach and the value of a design in which AI **complements** embodied inquiry rather than replacing it. The work connects to [[physics-education]], [[socratic-method]], and [[pedagogical-agent]] theory.

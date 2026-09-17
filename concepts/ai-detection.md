@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **AI detection** — the technologies and methods used to identify AI-generated content in academic submissions, and the broader question of how institutions should respond to the risk that students use large language models (LLMs) to produce work that is not their own. It spans classifier-based approaches, latent-prompt and likelihood techniques, watermarking, and stylistic analysis — and, increasingly, debates about the limits of detection and the value of redesigning assessment rather than policing it.

@@ -10,7 +10,7 @@ ethics: [ai-use-disclosure]
 research_method: [literature review, qualitative, survey]
 audience: [instructors, educators, curriculum designers]
 level: [higher ed, secondary]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 # How Do I Write a Course AI Policy and Communicate It to Students?

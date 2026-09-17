@@ -3,7 +3,7 @@ title: "Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Ran
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-technology: [human-in-the-loop-ai, llm]
+technology: [human-in-the-loop-ai, llm, open-source]
 assessment: [assessment-validity, automated-assessment, formative-assessment]
 research_method: [benchmark, experiment]
 
@@ -12,7 +12,6 @@ confidence: medium
 audience: [assessment professionals, assessment designers]
 page_kind: [evaluation]
 methods: [benchmark]
-systems: [open-source]
 ---
 
 > **Synthesis:** Schleifer, Ariely & Klebanov (2026) investigate a critical gap in [[automated-assessment|Automated Grading]]: **how scoring quality degrades for mid-range student responses**. Most ASAS evaluations focus on clearly correct or incorrect answers, but real classrooms are dominated by partially correct responses where scoring is most challenging.

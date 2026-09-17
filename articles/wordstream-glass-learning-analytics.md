@@ -3,7 +3,7 @@ title: "Through the WordStream Glass: Revisiting Quantitative Encoding for Quali
 created: "2026-06-18T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-technology: [learning-analytics, visualization]
+technology: [learning-analytics, visualization, edtech-platform]
 stakeholders: [student-experience]
 research_method: [qualitative, learning analytics]
 audience: [learners, administrators]
@@ -12,7 +12,7 @@ sources: ['raw/papers/2606.18692.md']
 confidence: medium
 page_kind: [evaluation, framework]
 methods: [qualitative-research]
-systems: [administrator, edtech-platform]
+institutions: [administrator]
 ---
 
 > **Synthesis:** Nguyen et al. (2026) revisit WordStream (2009) as a [[quantitative-research|quantitative]] encoding for [[qualitative-research|qualitative]] [[learning-analytics|learning analytics]], demonstrating how structured coding can surface cohort-level trends while preserving individual narrative context. WordStream, a [[visualization]] idiom for topic evolution, has been instantiated in platforms such as the Journal Data Dashboard to help instructors improve the learning environment.

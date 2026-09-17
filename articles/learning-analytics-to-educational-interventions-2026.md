@@ -13,7 +13,7 @@ sources: ['raw/papers/10.1186_s41239-026-00620-x.md']
 confidence: high
 audience: [institutions, administrators, learning analytics designers]
 page_kind: [framework]
-systems: [governance]
+institutions: [governance]
 ---
 
 > **Synthesis:** Svetec, Divjak, and Kadoić (2026) address the persistent gap between [[learning-analytics|learning analytics]] (LA) and actual educational interventions — the challenge of "closing the loop" between data collection and educational change. Using a group decision-making methodology (Delphi validation, Analytic Hierarchy Process, and the [[network-analysis|Social Network Analysis]] Process / SNAP), an international expert panel identified, validated, and prioritized **seven enablers of trustworthy LA-based educational interventions**: [[governance|institutional]] strategic orientation, [[pedagogy|pedagogical]] & other [[research-methods-aied|research]] foundations, available resources, pedagogical support, ethics & data governance, stakeholder [[student-engagement|engagement]], and quality assurance. Institutional strategic orientation emerged as the most important enabler overall, followed by available resources, with the study positioning [[trust|trustworthiness]] as a prerequisite without which LA-based interventions are not meaningful.

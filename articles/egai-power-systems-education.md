@@ -4,14 +4,14 @@ created: "2026-08-04T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [ai-education, curriculum-design]
-technology: [llm, rag]
+technology: [llm, rag, open-source]
 research_method: [survey]
 discipline: [stem education]
 sources: ['raw/papers/2608.02599.md']
 confidence: high
 audience: [instructors, curriculum designers]
 level: [higher ed]
-systems: [open-source, professional-training]
+stakeholders: [professional-training]
 ---
 
 > **Synthesis:** **Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li** — arXiv (cs.AI / eess.SY) preprint, 2026 (University of Tennessee, IEEE PES).

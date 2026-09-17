@@ -8,7 +8,7 @@ technology: [generative-ai, multimodal, simulation]
 ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
-systems: [professional-training]
+stakeholders: [professional-training]
 ---
 
 > **Virtual and Augmented Reality (VR/AR)** — the display and interaction layer through which learning environments are experienced: fully synthetic spaces in VR, and digital content overlaid on the physical world in AR and mixed reality. AI enters this layer in two directions. It authors it, since [[generative-ai|generative AI]] now turns a natural-language description into a working browser-based AR or VR learning tool that no longer requires a specialist developer. And it inhabits it, as [[agentic-ai|agents]], [[pedagogical-agent|pedagogical agents]] and [[rag|retrieved knowledge]] guide a learner hands-free inside the immersive environment. What the modality adds over a screen is presence and [[embodied-learning|embodiment]]; what it costs is fidelity, hardware, and a body's tolerance for being there.

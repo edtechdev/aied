@@ -4,7 +4,7 @@ created: "2026-08-10T17:08:30-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [ai-education, ai-literacy]
-technology: [generative-ai]
+technology: [generative-ai, technology-acceptance-model]
 audience: [learners]
 research_method: [survey]
 discipline: [writing education]
@@ -12,7 +12,7 @@ level: [higher ed]
 sources: ['raw/papers/will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-.md']
 confidence: high
 page_kind: [framework]
-systems: [educational-policy-ai, technology-acceptance-model]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** Yang & Huang (2026) adopt the **Will, Skill, Tool (WST)** model to explore how English-medium-instruction (EMI) students' intentions to use [[generative-ai|GenAI]] for [[writing-education|academic writing]] are shaped by AI-specific variables. Survey data from 512 university students at an EMI university in China, modeled with SEM, explained **56% of the variance** in behavioral intentions. **Will-related factors** (attitudes, perceived risks, perceived importance of policy) and the **skill factor** ([[ai-literacy|AI literacy]]) were significant antecedents, whereas the **tool component** (facilitating conditions) was **not** significant. Attitudes and perceived risks served as significant indirect pathways linking perceived-importance-of-policy and AI literacy to behavioral intentions.

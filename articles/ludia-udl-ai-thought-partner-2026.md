@@ -11,7 +11,7 @@ level: [teacher training]
 sources: ['raw/papers/ludia-udl-ai-thought-partner-2026.md']
 confidence: high
 audience: [instructional designers, educators]
-systems: [edtech-platform]
+technology: [edtech-platform]
 ---
 
 > **Synthesis:** LUDIA is a no-cost, private, multilingual AI thought partner that connects educators with the Universal Design for Learning (UDL) framework. The August 2026 relaunch was rebuilt from the ground up for privacy (no accounts, no cookies, no data collection), accessibility (WCAG 2.2 Level AA), and scale (13 languages, public-good architecture). Rather than a solution engine, LUDIA is deliberately positioned as a thought partner, and its authors read it against four 2026 guides — UNICEF's EdTech for Good Framework, the European Commission's [[ethics|ethical]] AI guidelines, the EdTech Quality Indicators, and the European EdTech Alliance's Needs-Based Evidence Mapping — while explicitly disclaiming any evidence that LUDIA improves learning. The document's central move is to replace a claim of impact with a culture of "proof of trust."

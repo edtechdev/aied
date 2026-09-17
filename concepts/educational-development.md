@@ -9,7 +9,7 @@ stakeholders: [teacher-ai-competency]
 audience: [faculty development, instructors]
 level: [higher ed, k 12]
 confidence: high
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Educational Development** (also known as *faculty development*) — the processes, programs, and institutional supports that help educators develop the skills, confidence, and [[learner-identity|professional identity]] to teach effectively with AI. Educational development spans individual training, [[curriculum-design|curriculum]] redesign, [[educational-policy-ai|institutional policy]] change, and the cultural work of making sense of what GenAI means for the academic profession.

@@ -5,7 +5,7 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [help-seeking, metacognition]
-technology: [adaptive-learning, intelligent-tutoring]
+technology: [adaptive-learning, intelligent-tutoring, edtech-platform]
 assessment: [feedback, formative-assessment, learning-gains]
 research_method: [learning analytics]
 discipline: [math education]
@@ -14,7 +14,6 @@ confidence: high
 audience: [edtech designers, instructors]
 page_kind: [evaluation]
 sources: [raw/papers/making-ai-tutoring-productive-mastery-math-2026.md]
-systems: [edtech-platform]
 ---
 
 > **Synthesis:** **Making [[intelligent-tutoring|AI tutoring]] productive depends on the structure that surrounds it** — not just the model. In a randomized field experiment with 6,000+ [[k-12|middle-school]] students using NUMI, a [[research-methods-aied|research]]-based [[edtech-platform|computer-assisted learning platform]], students assigned to AI support progressed more slowly and attempted fewer questions, but answered more accurately and — the clearest mechanism — **improved their next-attempt correctness after mistakes**, needing fewer attempts to return to a correct answer while spending more time on each structured question. This is a "productive slowdown": AI that coaches rather than gives answers takes time, but turns mistakes into learning. Notably, a mastery rule (three-correct-in-a-row) sharply increased platform-defined success without by itself improving delayed learning — a short-run streak is **not** the same as durable understanding. The strongest delayed-test evidence emerged when AI was embedded in the mastery workflow, concentrated on practiced material.

@@ -7,7 +7,7 @@ foundations: [ai-literacy, critical-thinking]
 pedagogy: [constructivist]
 technology: [generative-ai, personalized-learning]
 assessment: [educational-measurement]
-stakeholders: [student-experience]
+stakeholders: [student-experience, professional-training]
 ethics: [equity-in-ai-education]
 research_method: [mixed methods, survey, thematic analysis]
 audience: [learners]
@@ -15,7 +15,6 @@ level: [higher ed]
 sources: ['raw/papers/2605.21361.md']
 confidence: high
 discipline: [design education]
-systems: [professional-training]
 ---
 
 > **Synthesis:** Kapsalis (2026) presents one of the first empirical studies of generative AI integration in architectural design education, using a locally executed, [[discipline-specific-aied|discipline-specific]] tool within a [[mixed-methods-research|mixed-methods]] focus-group design. The study addresses three objectives: [[creativity]] impact, inclusivity enhancement, and employability preparation. Results showed enhanced creative fluency, broadened participation across diverse learner profiles, and strengthened student confidence in AI-supported workflows.

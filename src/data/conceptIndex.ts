@@ -34,11 +34,12 @@ export const conceptIndex: ConceptSection[] = [
     ],
   },
   {
-    heading: 'AI technologies and techniques',
+    heading: 'Technologies and techniques',
     blurb: 'The technical layer: the AI models and methods that power education technology, and the learner-modeling and tutoring systems built on them.',
     groups: [
       { label: 'Models and techniques', items: ['ai-technologies', 'machine-learning', 'generative-ai', 'llm', 'rag', 'prompt-engineering', 'vibe-coding', 'multimodal', 'speech-and-voice-technologies', 'visualization', 'educational-nlp', 'reinforcement-learning', 'knowledge-graph', 'educational-robotics', 'conversational-ai', 'simulation', 'virtual-and-augmented-reality', 'pedagogical-llm-training'] },
       { label: 'Learner modeling and adaptive systems', items: ['student-modeling', 'knowledge-tracing', 'cognitive-diagnosis', 'simulating-students', 'intelligent-tutoring', 'adaptive-learning', 'personalized-learning', 'recommender-systems-and-learning-paths', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai', 'learning-analytics'] },
+      { label: 'Platforms, openness and adoption', items: ['technology-acceptance-model', 'open-source', 'edtech-platform'] },
     ],
   },
   {
@@ -73,13 +74,13 @@ export const conceptIndex: ConceptSection[] = [
       { label: 'Families and communities', items: ['parents-and-families'] },
       { label: 'Instructors', items: ['teacher-ai-competency', 'tpack', 'samr-model', 'pedagogical-safety'] },
       { label: 'Designers and developers', items: ['educational-technology-developers'] },
+      { label: 'Lifelong and workplace learning', items: ['lifelong-learning', 'professional-training'] },
     ],
   },
   {
-    heading: 'Institutions and systems',
+    heading: 'Institutions and policy',
     groups: [
       { label: 'Institutions', items: ['administrator', 'educational-policy-ai', 'governance', 'change-management', 'regulation'] },
-      { label: 'Systems and infrastructure', items: ['technology-acceptance-model', 'open-source', 'edtech-platform', 'lifelong-learning', 'professional-training'] },
     ],
   },
   {

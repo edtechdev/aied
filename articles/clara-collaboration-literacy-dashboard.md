@@ -4,13 +4,12 @@ created: "2026-05-19T04:33:04-04:00"
 updated: "2026-09-16T15:50:31-04:00"
 type: article
 pedagogy: [collaborative-learning]
-technology: [generative-ai, knowledge-tracing, learning-analytics, llm, rag, visualization]
+technology: [generative-ai, knowledge-tracing, learning-analytics, llm, rag, visualization, edtech-platform]
 research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/2605.17259.md']
 confidence: high
 audience: [learning analytics designers, instructors, researchers]
-systems: [edtech-platform]
 ---
 
 > **Synthesis:** LLM-generated 7C collaboration assessments fall within the range of human expert variability: overall Spearman's ρ = .701 (p < .001) between LLM and human-consensus scores, and adding the LLM as an additional analyst did not reduce inter-rater agreement (Krippendorff's α .637 → .639).

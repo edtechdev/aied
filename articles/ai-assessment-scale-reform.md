@@ -11,7 +11,7 @@ audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/2606.26729.md']
 confidence: high
-systems: [change-management, educational-policy-ai]
+institutions: [change-management, educational-policy-ai]
 ---
 > **Synthesis:** This study examines the implementation of the Artificial Intelligence Assessment Scale (AIAS), a structured framework for redesigning [[assessment|university assessment]] in response to [[generative-ai|generative AI]]. Surveying 80 academic staff, the [[research-methods-aied|researchers]] found that while the framework's transparency and guidance were valued, implementation was hampered by departmental inconsistencies, workload pressures, and uncertainty about appropriate AI use levels.
 

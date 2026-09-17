@@ -3,7 +3,7 @@ title: "Generative AI in higher education: Ethical and behavioral factors influe
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-technology: [conversational-ai, generative-ai]
+technology: [conversational-ai, generative-ai, technology-acceptance-model]
 stakeholders: [student-experience]
 ethics: [ethics, trust]
 research_method: [survey, structural equation modeling]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/genai-chatgpt-adoption-ethics-students-2026.md']
 confidence: high
-systems: [change-management, technology-acceptance-model]
+institutions: [change-management]
 ---
 
 > **Synthesis:** Rizun, Bordean, Nikiforova, Beleiu, and Revina (2026) investigate the behavioral and ethical considerations shaping students' adoption of ChatGPT for academic tasks. By integrating the [[bias-mitigation|Fairness]], Accountability, Transparency & [[ethics]] in AI (FATE) framework with the [[technology-acceptance-model|Technology Acceptance Model]] (TAM), the Theory of Planned Behavior (TPB), and UTAUT, they developed and tested an integrated model with 17 constructs and 23 hypotheses using Partial Least Squares Structural Equation Modeling (PLS-SEM) on survey data from 344 students across four European countries (Estonia, Germany, Poland, Romania). The findings reveal that explainability and [[privacy]] are the strongest predictors of [[trust]] in ChatGPT, yet trust does not directly influence intention to use it — instead trust operates indirectly through perceived performance. Meanwhile, social influence from university professors and perceived behavioral control emerge as the strongest behavioral drivers of adoption, highlighting that ChatGPT must be both user-friendly and ethically sound in [[higher-ed]].

@@ -15,7 +15,7 @@ audience: [teacher educators, instructors, institutions]
 level: [higher ed, teacher training]
 page_kind: [framework]
 methods: [qualitative-research]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** This qualitative interpretive phenomenological study interviewed 13 pioneering teacher educators (seven [[pedagogy|pedagogical]] advisors and six lecturers) in seven Israeli teacher training institutions about how they prepare pre-service teachers for [[ai-literacy|AI literacy]] and AI-integrated teaching, using semi-structured interviews analyzed through human [[qualitative-research|thematic analysis]] combined with AI-assisted dialogic analysis. Participants saw themselves as agents of change who must model critical AI use, reported a crisis of trust when students submitted unprocessed AI outputs, and redesigned assessment around process and classroom evidence. They also raised epistemic concerns about cognitive atrophy and the erosion of expertise, plus policy gaps, ethics and privacy worries, and cultural and economic barriers. The authors read these findings through post-digital theory and argue that AI-era [[teacher-education]] requires redefining literacy, pedagogy, and human agency rather than adding a technical module.

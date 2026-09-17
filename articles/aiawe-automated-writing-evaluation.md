@@ -3,7 +3,7 @@ title: "AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA
 created: "2026-06-12T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-technology: [generative-ai, llm]
+technology: [generative-ai, llm, open-source]
 assessment: [automated-assessment]
 audience: [software developers]
 research_method: [system development, benchmark]
@@ -13,7 +13,6 @@ sources: ['raw/papers/2606.12801.md']
 confidence: high
 level: [adult learning, higher ed]
 page_kind: [evaluation]
-systems: [open-source]
 ---
 
 > **Synthesis:** Gayed presents **AiAWE**, an open-source [[automated-assessment|automated writing evaluation]] (AWE) system that scores argumentative essays using a LoRA-adapted instruction-tuned [[llm|large language model]] (Gemma-3-27B-it). Using a proprietary ETS dataset of 480 TOEFL Independent Writing essays (120 training, 360 evaluation), the system achieves:

@@ -9,7 +9,7 @@ level: [special education, higher ed]
 sources: ['raw/papers/2607.18598.md']
 confidence: high
 audience: [instructors, instructional designers]
-systems: [professional-training]
+stakeholders: [professional-training]
 ---
 
 > **Synthesis:** Bowed string performance depends on fine bodily coordination usually taught through visual demonstration, creating persistent barriers for musicians with blindness and low-vision (BLV). This design study worked with four advanced BLV string musicians and three instructors using practice-video analysis, lesson observation, and expert reflection to surface embodied, non-visual learning strategies.

@@ -10,7 +10,8 @@ level: [higher ed]
 sources: ['raw/papers/alrahmi-org-drivers-ai-adoption-he-2026.md']
 confidence: medium
 page_kind: [framework]
-systems: [administrator, change-management, educational-policy-ai, governance, technology-acceptance-model]
+institutions: [administrator, change-management, educational-policy-ai, governance]
+technology: [technology-acceptance-model]
 ---
 
 > **Synthesis:** This study empirically models the organizational, technological, and environmental determinants of [[ai-education|AI adoption in higher education]], focusing on data-driven decision support systems (DSS) and smart learning platforms in Saudi Arabian universities. Guided by the Technology–Organization–Environment (TOE) framework and Diffusion of Innovations (DOI) theory, the author surveyed 300 academic and administrative staff and used PLS-SEM. Findings show internal organizational conditions (culture, [[sustainability]] practices, waste management) strengthen social drivers, while technological attributes (compatibility, relative advantage, low complexity) shape perceived innovation attributes that catalyze intention to use and actual adoption. Government regulations and policy incentives emerged as crucial external enablers of institutional readiness, with adoption associated with improved [[teacher-role|teaching]], [[student-engagement|learner engagement]], and [[curriculum-design|curriculum]] innovation.
