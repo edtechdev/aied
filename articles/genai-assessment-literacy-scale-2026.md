@@ -8,6 +8,8 @@ audience: [educators, assessment designers, institutions]
 research_method: "instrument development"
 sources: [raw/papers/10.3389_feduc.2026.1934632.md]
 confidence: high
+level: [higher ed]
+category: [assessment]
 ---
 
 > **Synthesis:** This study develops and validates the Generative AI Assessment Literacy Scale (GAA-LS), an 18-item measure of how well higher education students can use [[generative-ai|generative AI]] responsibly in assessed work. Validation across two samples supports its five-dimension structure, its reliability, and its [[assessment-validity|construct validity]]. GAA-LS scores rise with feedback engagement, academic integrity intention, and responsible AI use intention, and the association with academic integrity intention runs partly through feedback engagement.

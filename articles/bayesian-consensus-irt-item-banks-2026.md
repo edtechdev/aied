@@ -6,6 +6,7 @@ updated: "2026-09-17T09:40:00-04:00"
 tags: [item-response-theory, educational-measurement, psychometrically-aware-ai, automated-question-generation, assessment-validity, llm, educational-nlp, language-learning, learning-analytics, adaptive-learning]
 sources: ['raw/papers/bayesian-consensus-irt-item-banks-2026.md']
 confidence: high
+level: [adult learning]
 research_method: [educational measurement]
 audience: [assessment professionals, researchers]
 discipline: [language learning]

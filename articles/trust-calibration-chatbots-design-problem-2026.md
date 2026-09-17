@@ -9,6 +9,7 @@ audience: [researchers, designers, instructors, policymakers]
 research_method: [theoretical analysis]
 sources: ['raw/papers/10.3389_fpsyg.2026.1935527.md']
 confidence: high
+category: [framework]
 ---
 
 > **Synthesis:** This Hypothesis and Theory article reframes miscalibrated [[trust-calibration|trust]] in [[llm]] [[conversational-ai|chatbots]] as a design problem, arguing that transparency alone fails because its affordances are inert and wait for the user to act. The authors build a two-dimensional user typology — ability to verify and motivation to verify — and synthesize two families of intervention: [[explainable-ai|interpretability]] affordances that make evaluation possible and engagement mechanisms that make it happen, integrated through Reason's Swiss cheese model into eight testable propositions, with [[ai-literacy]] positioned as the slowest but most durable layer of defense.

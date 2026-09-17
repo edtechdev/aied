@@ -8,6 +8,9 @@ audience: [researchers, instructors, administrators]
 research_method: [mixed methods]
 sources: ['raw/papers/10.3389_fpsyg.2026.1905037.md']
 confidence: high
+discipline: [writing education]
+level: [higher ed]
+category: [engagement, policy]
 ---
 
 > **Synthesis:** Liu, Zhuang, and Wang (2026) apply the I-PACE model of problematic use to [[generative-ai|generative AI]] dependence in undergraduate [[writing-education|academic writing]]. In a [[mixed-methods-research|mixed-methods]] study at two Chinese universities — a survey analyzed with structural equation modeling plus eight interviews — academic stress emerges as the strongest predictor of dependence, [[ai-literacy]] as a protective factor, and social influence as consequential only through perceived [[trust]]. Students knew AI's risks yet kept using it strategically, citing efficiency, peer pressure, and ambiguous institutional rules.

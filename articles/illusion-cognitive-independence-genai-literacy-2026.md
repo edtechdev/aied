@@ -8,6 +8,8 @@ audience: [instructors, researchers, learning designers]
 research_method: [survey]
 sources: ['raw/papers/10.3389_feduc.2026.1861548.md']
 confidence: high
+level: [higher ed]
+category: [engagement]
 ---
 
 > **Synthesis:** In a survey of 848 academic learners recruited internationally, the researchers examined how [[generative-ai|GenAI]] literacy shapes the way students actually engage with AI tools. GenAI literacy—particularly critical-[[ethics|ethical]] awareness—worked through a dual pathway: it promoted critical monitoring of GenAI outputs while also enabling strategic reliance on GenAI as a cognitive shortcut. Cluster analysis distinguished three learner profiles whose patterns revealed an "illusion of cognitive independence," in which learners report strong independent thinking even while offloading core cognitive work to the machine.

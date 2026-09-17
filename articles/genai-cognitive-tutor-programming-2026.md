@@ -6,6 +6,11 @@ type: article
 tags: [cs-education, generative-ai, cognitive-offloading, intelligent-tutoring, misconceptions, scaffolding, self-regulated-learning, higher-ed]
 sources: ['raw/papers/genai-cognitive-tutor-programming-2026.md']
 confidence: high
+research_method: [survey, quantitative]
+discipline: [cs education]
+audience: [instructors, curriculum designers, researchers]
+level: [higher ed]
+category: [instructional design, engagement]
 ---
 
 > **Synthesis:** Aquino Vara and Encarnación Valentín examine whether [[generative-ai|generative AI]] tools serve as an effective informal tutor or encourage uncritical [[cognitive-offloading]] in novice programming education. In a pilot study of 38 early-cycle Information Systems technical students at SENATI (Peru), a 20-item Likert questionnaire measured GenAI usage (functional and critical-reflective) and programming learning (conceptual understanding, [[problem-solving]], autonomy, confidence, global perception). Spearman rank correlation across 36 complete records found a strong, significant positive association (rs=0.802, p<0.001), with students chiefly using GenAI to untangle abstract concepts and explain compiler error messages — while indicators of independent progress scored lowest. The authors warn that the divergence between task-resolution confidence and autonomous conceptual transfer demands calibrated instructional designs that curb illusions of competence and epistemic debt.

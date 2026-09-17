@@ -8,6 +8,8 @@ audience: [learners, instructors, administrators]
 research_method: [survey, structural equation modeling, educational measurement]
 sources: ['raw/papers/10.3389_feduc.2026.1942426.md']
 confidence: high
+level: [higher ed]
+category: [assessment, policy]
 ---
 
 > **Synthesis:** Tabares-Cruz and colleagues surveyed 980 students at the State University of Milagro (Ecuador) to ask a question that adoption research tends to skip: not why students use [[generative-ai]], but what makes their use [[ethics|ethical]]. Testing six theoretically distinct predictors at once in a single [[quantitative-research|structural equation model]], they found that the six together explain 44% of the variance in ethical use, and that the strongest single contributor is not technical skill but [[academic-integrity|academic integrity]] — disclosure, authorship, and transparency. Responsible GenAI use emerges, on this evidence, from the interaction of individual [[ai-literacy|literacy]], [[critical-thinking|critical verification]], [[self-regulated-learning|self-regulation]], and institutional [[governance]] rather than from familiarity with the tools.

@@ -11,6 +11,7 @@ audience: [teachers, students, researchers]
 level: [elementary, k 12]
 sources: ['raw/papers/lu-ai-multimodal-writing-critical-thinking-2026.md']
 confidence: high
+category: [collaborative learning]
 ---
 
 > **Synthesis:** **Lu et al. (2027)** use an eight-week intervention with 60 [[k-12|Grade 5]] students in a Chinese primary school to examine how [[conversational-ai|conversational AI bots]] support critical thinking during multimodal writing. Students transformed their narratives into AI-generated images and short videos, and the study tracked six [[critical-thinking]] dimensions at pre-, post-, and one-month-follow-up. Gains were uneven: interpretation, analysis, evaluation, and explanation rose and held, [[self-regulated-learning|self-regulation]] improved only short-term, and inference did not change — suggesting the multimodal [[visualization|externalization]] of meaning can reduce the inferential demand that writing usually carries.

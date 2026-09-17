@@ -8,6 +8,7 @@ research_method: [literature review]
 audience: [administrators, researchers, instructors]
 level: [higher ed]
 confidence: high
+category: [framework, policy]
 sources: ['raw/papers/beyond-agent-label-agentic-ai-governance-2026.md']
 ---
 

@@ -9,6 +9,8 @@ audience: [researchers, administrators, policymakers]
 research_method: [theoretical analysis]
 sources: ['raw/papers/10.3389_fpsyg.2026.1935683.md']
 confidence: high
+level: [teacher training]
+category: [framework, evaluation]
 ---
 
 > **Synthesis:** Aponte, Vargas Sánchez, Chiappe, and Martínez-Pérez argue that the debate about AI and [[teacher-role|teachers]] is stuck between technocentric optimism and pre-emptive rejection, and that the better question is under what relational conditions AI can genuinely support teachers' socio-emotional [[educational-development|professional development]]. Their answer is a design thesis: AI is defensible when it works as *relational infrastructure* — expanding, protecting, and sustaining the human relationships tied to [[well-being|teacher well-being]] ([[trust]], mentoring, peer support, collaboration, psychological safety, reduced isolation) — and harmful when it acts as a symbolic substitute for human accompaniment. They introduce *relational densification* as the criterion by which AI-supported initiatives should be judged, and show how each family of AI-mediated functions (coordination, recommendation, [[learning-analytics|analytics]], [[conversational-ai|conversational agents]], and emotional AI) carries its own ethical and [[pedagogy|pedagogical]] risks.

@@ -7,6 +7,10 @@ tags: [well-being, ai-anxiety-and-stress, conversational-ai, machine-learning, c
 connected_faqs: [ai-anxiety-wellbeing]
 sources: ['raw/papers/2609.11199.md']
 confidence: medium
+research_method: [system development, benchmark]
+audience: [edtech designers, administrators, researchers]
+level: [higher ed]
+category: [equity, evaluation]
 ---
 
 > **Synthesis:** Bashir and Afzal describe *Sukoon*, a hybrid system that pairs a [[machine-learning]] stress classifier with a culturally adapted [[conversational-ai|conversational]] chatbot for Pakistani university students. A Random Forest model trained on 1,100 survey responses across 20 features reaches 89.09% accuracy over three stress levels, and its output drives a Stepped Care response architecture in which an [[open-source]] [[llm]] delivers tiered wellness guidance in English, Urdu and Roman Urdu. The most culturally significant finding is that teacher-student relationship was the second-strongest predictor of [[ai-anxiety-and-stress|student stress]] (10.0%), behind blood pressure — evidence, the authors argue, that [[global-south|region-specific]] [[well-being|well-being]] support cannot be imported from Western tools. The paper is a system-and-pipeline contribution evaluated on classification accuracy and simulated conversations rather than on student outcomes.
