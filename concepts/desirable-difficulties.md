@@ -89,7 +89,7 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[constructivist]]
 - [[motivation]]
 - [[learning-theories]]
-
+- [[productive-failure]] — Productive Failure
 ## Connected Articles
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI: the inverted-U argument for preserving beneficial friction
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
@@ -98,7 +98,6 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 
 - [[agentic-ai-pedagogical-best-practice-2026]]
 - [[finkelstein-principled-ai-education-2025]]
-- [[stanford-evidence-base-ai-k12-2026]]
 - [[structured-llm-feedback-programming]]
 - [[generative-ai-reduced-study-time-math]]
 - [[curiobot-llm-tutoring-exploratory-learning]]
@@ -114,12 +113,10 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Productive friction built into GenAI tools supports learning
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[productive-failure]] — Productive Failure
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-
 
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[rachatasumrit-example-problem-ratio-2026]]

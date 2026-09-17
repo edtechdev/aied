@@ -37,7 +37,7 @@ The dominant driver for AI adoption was **survival, not efficiency**. Teachers f
 ## The Reallocation Effect — Brazil Essay Grading RCT
 
 A large-scale experiment across **178 schools, ~19,000 high school seniors** tested AI-automated essay feedback. Key results:
-- Both AI groups produced identical improvements on Brazil's national exam — human graders at ~$0.85/essay added **zero incremental learning benefit**
+- Both AI groups produced identical improvements on Brazil's national exam — human graders at ~\$0.85/essay added **zero incremental learning benefit**
 - Students in AI classrooms had **~35% more one-on-one conversations** with teachers about writing and wrote **30% more essays**
 - Teacher at-home work hours dropped **20%**; those reporting time as "very insufficient" fell from 23% to 9%
 

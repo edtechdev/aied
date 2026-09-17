@@ -121,7 +121,6 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[professional-training]]
 - [[ai-education]]
 - [[collaborative-learning]]
-- [[kumar-genai-computing-education-systematic-review-2026]]
 - [[prior-knowledge]]
 - [[scaffolding]]
 - [[assessment-validity]]
@@ -129,7 +128,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 ## Connected Articles
 - [[kumar-genai-computing-education-systematic-review-2026]] — Systematic review of 72 studies: efficiency gains that do not transfer, and the VIE framework
 - [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
- [[tutortrace-learner-behavioral-states-2026]]
+- [[tutortrace-learner-behavioral-states-2026]]
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
 - [[zhan-chapman-genai-cs-education-2026]] — GenAI in CS education
 - [[code-review-genai-cs1]] — CS1 code review of AI-generated code

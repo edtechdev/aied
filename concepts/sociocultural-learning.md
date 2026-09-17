@@ -71,7 +71,6 @@ The sociocultural strand is tightly coupled to [[cognitive-offloading|Cognitive 
 - [[collaborative-ai-tutoring]] — Collaborative AI tutoring
 - [[finkelstein-principled-ai-education-2025]] — Principled AI education frameworks
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
-- [[stanford-evidence-base-ai-k12-2026]] — Tutoring specific vs. general AI
 - [[text-simplification-its]] — Text simplification in ITS
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation

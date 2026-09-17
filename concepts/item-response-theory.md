@@ -50,7 +50,6 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[adaptive-learning]]
 - [[automated-assessment]]
 - [[intelligent-tutoring]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
 
 ## Connected Articles
 - [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)

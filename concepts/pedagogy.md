@@ -93,7 +93,7 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 - [[curriculum-design]]
 - [[higher-ed]]
 - [[k-12]]
-
+- [[pedagogical-llm-training]] — AI tools trained to follow pedagogical principles
 ## Connected Articles
 - [[genai-didactic-pedagogical-mediator-2026]] — GenAI as didactic-pedagogical mediator: instructor–student–GenAI triadic model (Moganadas et al. 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
@@ -107,7 +107,6 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 - [[generative-ai-guardrails-harm-learning]] — Guardrailed (hint-not-answer) tutoring eliminates the exam penalty
 - [[agentic-ai-pedagogical-best-practice-2026]] — The automation-vs-learning tension in agentic AI
 - [[jeon-isd-agent-bench-2026]] — Grounding agents in instructional-design theory
-- [[pedagogical-llm-training]] — AI tools trained to follow pedagogical principles
 - [[ai-tpack-teacher-multi-agent-workflow]] — Teacher TPACK and multi-agent workflows
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[ai-learning-tools-engineering-education-needs]] — AI learning tools in engineering education
