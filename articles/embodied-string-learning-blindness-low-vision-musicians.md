@@ -3,7 +3,6 @@ title: "Designing for What Cannot Be Seen: Supporting Embodied String Learning f
 created: "2026-07-22T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [special-education, equity-in-ai-education, professional-training, higher-ed]
 stakeholders: [professional-training]
 ethics: [equity-in-ai-education]
 research_method: [qualitative, design-based research]

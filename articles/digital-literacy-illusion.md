@@ -3,7 +3,6 @@ title: "The Illusion of Competence: Self-Perceived Digital Literacy and AI Readi
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [k-12, ai-literacy, student-experience, equity-in-ai-education]
 foundations: [ai-literacy]
 stakeholders: [student-experience]
 ethics: [equity-in-ai-education]

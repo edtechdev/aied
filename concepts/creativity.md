@@ -3,13 +3,13 @@ title: Creativity
 created: "2026-08-12T21:20:35-04:00"
 updated: "2026-09-16T14:32:03-04:00"
 type: concept
-tags: [critical-thinking, student-experience, generative-ai, writing-education, constructivist, design-thinking, problem-solving, math-education, cs-education]
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
 technology: [generative-ai]
 stakeholders: [student-experience]
 audience: [learners]
 confidence: high
+discipline: [cs education, math education, writing education]
 ---
 
 > **Creativity** — the capacity to generate novel and valuable ideas, solutions, or artifacts. In the AI era, creativity is a central educational stake: [[generative-ai|generative AI]] can both amplify creative work (as a divergent-thinking partner) and undermine it (by homogenizing output and replacing the generative process).

@@ -3,7 +3,6 @@ title: "Integrating ChatGPT in Mathematics Teacher Education: AI-Based Simulatio
 created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: article
-tags: [teacher-education, math-education, simulation, generative-ai, teacher-role, pedagogical-llm-training, professional-training, simulating-students]
 foundations: [teacher-role]
 technology: [generative-ai, pedagogical-llm-training, simulating-students, simulation]
 stakeholders: [professional-training]

@@ -1,7 +1,6 @@
 ---
 title: "AI-Supported Lecturer Decision-Making in Higher Education: A Socio-Technical Perspective"
 type: article
-tags: [learning-analytics, teacher-role, assessment, feedback, learning-design, higher-ed]
 foundations: [learning-design, teacher-role]
 technology: [learning-analytics]
 assessment: [assessment, feedback]

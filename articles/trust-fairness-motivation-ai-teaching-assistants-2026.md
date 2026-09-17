@@ -3,7 +3,6 @@ title: "How trust prospectively predicts perceived fairness and learning motivat
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [trust, trust-calibration, motivation, self-determination-theory, equity-in-ai-education, pedagogical-agent, higher-ed]
 pedagogy: [motivation, self-determination-theory]
 technology: [pedagogical-agent]
 ethics: [equity-in-ai-education, trust, trust-calibration]

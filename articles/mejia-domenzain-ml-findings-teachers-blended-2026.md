@@ -3,7 +3,6 @@ title: Making machine learning findings accessible to teachers in blended classr
 created: "2026-09-03T13:38:51-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: ['learning-analytics', 'teacher-role', 'trust', 'visualization', 'self-regulated-learning', 'online-teaching-and-learning', 'machine-learning', 'privacy', 'mixed-methods-research', 'higher-ed']
 foundations: [teacher-role]
 pedagogy: [online-teaching-and-learning, self-regulated-learning]
 technology: [learning-analytics, machine-learning, visualization]

@@ -3,7 +3,6 @@ title: "Can students cheat their way to a biology degree? A case study of the vu
 type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
-tags: [academic-integrity, biology-education, assessment, assessment-validity, formative-assessment, summative-assessment, remote-proctoring, higher-ed, generative-ai]
 foundations: [academic-integrity]
 technology: [generative-ai]
 assessment: [assessment, assessment-validity, formative-assessment, remote-proctoring, summative-assessment]

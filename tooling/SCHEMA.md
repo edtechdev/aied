@@ -28,7 +28,14 @@ title: Page Title
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 type: article | concept | faq
-tags: [concept-slug-1, concept-slug-2]   # MUST be concept slugs (see below)
+research_method: [survey]                # typed fields, all optional, all closed vocabularies
+discipline: [cs education]
+level: [higher ed]
+audience: [instructors]
+page_kind: [framework]
+foundations: [ai-literacy]               # facet fields: concept slugs from one registry section
+pedagogy: [scaffolding]
+technology: [llm]
 sources: [raw/papers/source-name.md]   # articles only
 connected_faqs: [faq-slug-1, faq-slug-2]  # concepts + articles only (optional)
 confidence: high | medium | low        # how well-supported the claims are
@@ -40,7 +47,7 @@ category: [theoretical framework]  # optional
 ---
 ```
 
-**`tags` is the CONCEPT VOCABULARY (2026-08-29).** Every value in `tags` MUST be a concept slug (a file in `concepts/`). Tags are rendered as clickable links to their concept pages. If a topic isn't yet a concept, create the concept page first OR fold it into the nearest existing concept — do not invent non-concept tags. Non-concept metadata goes into the structured fields below instead.
+**Concept references are TYPED (2026-09-17, replacing the old `tags` list).** Every concept a page touches is named in one of the typed fields below, never in a free-floating list. Each facet field accepts only the concept slugs filed under its own section of `concepts.registry.yaml`, so a value of the wrong kind — a technology slug in `pedagogy` — is rejected by the build. If a topic isn't yet a concept, create the concept page first or fold it into the nearest existing concept; never invent a slug. Non-concept metadata (how the study was done, who it is for, which level, what kind of page) goes in the phrase-valued fields.
 
 **Structured metadata fields (optional, added 2026-08-29):** `research_method`, `discipline`, `audience`, `level`, and `page_kind` hold non-concept metadata.
 
@@ -48,9 +55,9 @@ category: [theoretical framework]  # optional
 design, engagement, equity, policy, curriculum design, ai foundations, collaborative learning, design thinking and well-being.
 Every one of those has a concept page, and the typed facet fields now carry them, so the topics were retired and the field was
 renamed to say what it actually holds: the kind of page this is - `framework`, `synthesis` or `evaluation`. A page that presents a
-framework is not a page about frameworks, and that distinction is the reason the field survives at all. A topic may appear BOTH as a concept tag AND in a metadata field where applicable (e.g. `systematic-review` maps to concept `meta-analysis-systematic-review` in `tags` AND `research_method: [systematic review]`). These fields drive the search page filter facets.
+framework is not a page about frameworks, and that distinction is the reason the field survives at all. These fields drive the search page filter facets and the Metadata table rendered at the foot of every page.
 
-**Typed facet fields (added 2026-09-17):** `foundations`, `pedagogy`, `technology`, `assessment`, `stakeholders`, `ethics`. `tags` names the concepts a page touches but mixes kinds together — a pedagogy, a technology, an outcome and an ethical theme sit in one flat list. Each facet field holds only concepts of one kind, so the search facets can ask "show me pedagogy studies" directly. Every facet mirrors one section of `concepts.registry.yaml`:
+**Typed facet fields (added 2026-09-17):** `foundations`, `pedagogy`, `technology`, `assessment`, `stakeholders`, `ethics`. A flat tag list mixed kinds together — a pedagogy, a technology, an outcome and an ethical theme in one list. Each facet field holds only concepts of one kind, so the search facets can ask "show me pedagogy studies" directly. Every facet mirrors one section of `concepts.registry.yaml`:
 
 - `foundations` ← Foundations of AI in education
 - `pedagogy` ← Learning and instruction (pedagogies, learning theories, learner processes)
@@ -61,9 +68,11 @@ framework is not a page about frameworks, and that distinction is the reason the
 
 The seventh registry section, *AI in the disciplines*, is served by the hand-curated `discipline` field, which also covers school subjects that have no concept page yet.
 
-**These fields are DERIVED, never hand-written.** A tag's facet is whatever section its concept is filed under, so `python3 tooling/scripts/derive-facets.py --apply` populates them mechanically from the existing tags — no judgement, no re-reading of the corpus — and `npm run verify` fails if a page's facets disagree with its tags. The allowed values are generated from the registry into `src/data/facetVocab.ts`, so adding a concept to a section extends the vocabulary on the next build, and a value of the wrong kind (a technology slug in `pedagogy`) fails the build.
+**These fields are AUTHORED, then validated.** Until 2026-09-17 they were projected from each page's tag list by `derive-facets.py`; with tags retired the fields are written directly and `tooling/scripts/validate-facets.py` enforces three things — every value is a concept filed under that field's section, no concept appears in two facet fields, and every page carries at least one typed value. It is a gate, so `npm run verify` fails on a violation. The allowed values are generated from the registry into `src/data/facetVocab.ts`, so adding a concept to a section extends the vocabulary on the next build.
 
-**Migration intent:** `tags` remains the complete concept relation for now. Once the facet fields have been in use long enough to trust, concepts that are fully covered by a facet field are to be dropped from `tags`, leaving `tags` for concepts with no typed field. Until then, a page may legitimately carry the same concept in `tags` and in a facet field.
+**`tags` was RETIRED on 2026-09-17.** Every tag value had a typed home: 83% of the 10,968 tag entries were already concepts in the six facet sections, 15% were covered by `discipline` or `level`, and the remainder were migrated by hand. The field is gone from the schema, the page templates no longer render tag chips, and the JSON-LD keywords now come from the typed fields.
+
+**The Metadata table (2026-09-17)** renders every typed field at the foot of each page, one row per field, with values hyperlinked to their concept page whenever one exists. Facet values are concept slugs and link directly; the phrase-valued fields resolve through `src/data/metadataLinks.ts`, generated from the registry so `cs education` reaches `cs-education` and `systematic review` reaches `meta-analysis-systematic-review`. The table states what a page IS. `## Connected Concepts` remains the curated, relevance-ordered list of what a page relates to beyond that — the two are complementary, and a concept already named in the table does not need repeating in the list.
 
 **These are CLOSED vocabularies, not free-form text.** The authoritative lists live in
 `src/content.config.ts`, and the Astro build rejects any page carrying a value outside them, so a
@@ -199,44 +208,9 @@ re-ingest of the same URL skip processing when content is unchanged, and flag dr
 changed. Compute over the body only (everything after the closing `---`), not the frontmatter
 itself.
 
-## Tag Taxonomy
+## Concept taxonomy
 
-Canonical tag list (reconciled 2026-08-03: 23 near-duplicate tags consolidated; taxonomy now indexes all 122 tags in use).
-
-### Systems & Technology
-- `llm`, `generative-ai`, `adaptive-learning`, `intelligent-tutoring`, `edtech-platform`, `learning-analytics`, `automated-grading`, `ai-detection`, `agentic-ai`, `multi-agent`
-- `reinforcement-learning`, `multimodal`, `prompt-engineering`, `knowledge-tracing`, `student-modeling`, `nlp-education`, `programming-its`, `architecture`, `interpretability`, `ai-generated-content`, `content-quality`, `dot-framework`, `validate-then-generate`, `verification`
-
-### Pedagogy & Practice
-- `personalized-learning`, `formative-assessment`, `feedback-loop`, `scaffolding`, `active-learning`, `blended-learning`, `mastery-learning`, `educational-theory`
-- `pedagogy`, `instructional-design`, `curriculum-design`, `assessment`, `authentic-assessment`, `portfolio-assessment`, `socratic-method`, `project-based-learning`, `problem-based-learning`, `collaborative-learning`, `collaborative-ai-tutoring`, `design-thinking`, `training-methodology`, `simulation`, `oral-defense`, `pair-programming`
-
-### Learning & Cognition
-- `metacognition`, `self-regulated-learning`, `self-directed-learning`, `cognitive-offloading`, `critical-thinking`, `creative-thinking`, `computational-thinking`, `skill-decay`, `confidence`, `student-ai-interaction`
-
-### Stakeholders
-- `k-12`, `higher-ed`, `lifelong-learning`, `teacher-role`, `student-experience`, `administrator`, `policy-maker`
-- `faculty-development`, `public-sector`, `practitioner-beliefs`, `educator-guide`
-
-### Domain Areas
-- `stem-education`, `language-learning`, `writing-education`, `special-education`, `professional-training`
-- `ai-education`, `cs-education`, `math-education`, `physics-education`, `health-education`, `mooc`, `multilingual-learning`, `neurodiversity`, `inclusive-learning`, `informal-learning`, `independent-learning`, `software-engineering`, `business-education`, `economics-education`, `management-education`
-
-### Research & Evaluation
-- `rct`, `efficacy-study`, `benchmark`, `learning-gains`, `engagement-metrics`, `dropout-reduction`, `scoping-review`, `systematic-review`
-- `ai-ed-evaluation`, `assessment-validity`, `literature-review`, `meta-analysis`, `survey`, `qualitative-research`, `research-methods`, `evidence`, `ground-truth-reliability-aied`
-
-### Ethics & Policy
-- `academic-integrity`, `bias-mitigation`, `privacy`, `equity`, `regulation`, `ai-detection`, `hallucination-risk`, `over-reliance`, `remote-proctoring`, `automated-proctoring`
-- `ethics`, `pedagogical-safety`, `misinformation`, `global-south`, `culturally-sustaining-pedagogy`, `institutional-change`
-
-### Affective & Social
-- `affective-computing`, `ai-literacy`, `human-in-the-loop`, `boundary-object`, `posthumanist`, `trust-calibration`
-
-### Meta
-- `comparison`, `timeline`, `controversy`, `prediction`, `market-analysis`, `open-source`, `stub`
-
-Rule: every tag on a page must appear in this taxonomy. If a new tag is needed, add it here first, then use it. This prevents tag sprawl.
+The taxonomy lives in `concepts.registry.yaml`, the single source of truth: every concept is filed under one of seven sections and their groups, and that filing decides which facet field accepts it. The old tag taxonomy that used to be reproduced here was retired with the `tags` field — see `tooling/concept-index.md` for the generated human-readable manifest.
 
 ## Page Thresholds
 - **Create a page** when an entity/concept appears in 2+ sources OR is central to one source

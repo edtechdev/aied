@@ -3,7 +3,6 @@ title: "Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financ
 created: "2026-05-09T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [stem-education, k-12, higher-ed, active-learning, scaffolding, personalized-learning, project-based-learning, intelligent-tutoring, agentic-ai]
 foundations: [agentic-ai]
 pedagogy: [active-learning, project-based-learning, scaffolding]
 technology: [intelligent-tutoring, personalized-learning]

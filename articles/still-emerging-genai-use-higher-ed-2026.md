@@ -3,7 +3,6 @@ title: "Still Emerging: Understanding Generative AI Use in Higher Education"
 created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [higher-ed, ai-education, student-experience, teacher-role, technology-acceptance-model, generative-ai, agency, ai-literacy]
 foundations: [agency, ai-education, ai-literacy, teacher-role]
 technology: [generative-ai]
 stakeholders: [student-experience, technology-acceptance-model]

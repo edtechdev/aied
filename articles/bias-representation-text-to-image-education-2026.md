@@ -3,7 +3,6 @@ title: "Bias and Representation in AI-Generated Text-to-Image in Education: A Sy
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
-tags: ["bias-mitigation", "equity-in-ai-education", "generative-ai", "multimodal", "ai-literacy", "meta-analysis-systematic-review"]
 foundations: [ai-literacy]
 technology: [generative-ai, multimodal]
 assessment: [meta-analysis-systematic-review]

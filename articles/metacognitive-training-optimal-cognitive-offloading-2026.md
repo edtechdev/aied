@@ -3,7 +3,6 @@ title: "Metacognitive Training Facilitates Optimal Cognitive Offloading"
 created: "2026-08-16T21:20:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [cognitive-offloading, metacognition, feedback, self-regulated-learning, student-experience, generative-ai]
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]

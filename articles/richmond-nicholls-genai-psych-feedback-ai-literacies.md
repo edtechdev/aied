@@ -3,7 +3,6 @@ title: "Using Generative AI to Promote Psychological, Feedback, and Artificial I
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [generative-ai, ai-literacy, feedback, ai-feedback-quality, assessment, critical-thinking, academic-integrity, higher-ed, writing-education]
 foundations: [academic-integrity, ai-literacy, critical-thinking]
 technology: [generative-ai]
 assessment: [ai-feedback-quality, assessment, feedback]

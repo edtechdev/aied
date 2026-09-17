@@ -3,7 +3,6 @@ title: "Artificial Intelligence in Lifelong Learning: Opportunities and Challeng
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [lifelong-learning, educational-policy-ai, equity-in-ai-education, intelligent-tutoring, ai-literacy, learning-analytics, bias-mitigation, regulation]
 foundations: [ai-literacy]
 technology: [intelligent-tutoring, learning-analytics]
 stakeholders: [educational-policy-ai, lifelong-learning, regulation]

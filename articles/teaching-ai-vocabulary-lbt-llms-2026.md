@@ -3,7 +3,6 @@ title: "Empowering Vocabulary Learning Through Teaching AI: Using LLMs as a Stud
 created: "2026-08-14T10:45:34-04:00"
 updated: "2026-08-14"
 type: article
-tags: [learning-by-teaching, intelligent-tutoring, generative-ai, language-learning, llm, student-experience]
 pedagogy: [learning-by-teaching]
 technology: [generative-ai, intelligent-tutoring, llm]
 stakeholders: [student-experience]

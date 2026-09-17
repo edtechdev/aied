@@ -3,7 +3,6 @@ title: "Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-
 created: "2026-05-19T04:33:04-04:00"
 updated: "2026-09-16T15:50:31-04:00"
 type: article
-tags: [generative-ai, llm, writing-education, k-12, formative-assessment, feedback, teacher-role, human-in-the-loop-ai, rag]
 foundations: [teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm, rag]
 assessment: [feedback, formative-assessment]

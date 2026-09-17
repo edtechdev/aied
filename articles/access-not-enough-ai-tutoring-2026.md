@@ -3,7 +3,6 @@ title: "Access is Not Enough: Human Support Improves Engagement with AI Tutoring
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [intelligent-tutoring, equity-in-ai-education, student-engagement, k-12, ai-literacy, student-experience, rct, rag]
 foundations: [ai-literacy]
 pedagogy: [student-engagement]
 technology: [intelligent-tutoring, rag]

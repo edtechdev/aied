@@ -3,7 +3,6 @@ title: "Navigating the moral panic: encouraging appropriate use of GenAI in the 
 created: "2026-07-19T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [generative-ai, higher-ed, academic-integrity, authentic-assessment, cognitive-offloading, ai-literacy, assessment, rag]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, rag]
 assessment: [assessment, authentic-assessment]

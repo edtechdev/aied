@@ -3,7 +3,6 @@ title: "AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, a
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [teacher-role, educational-development, k-12, ai-literacy, teacher-ai-competency, higher-ed, change-management]
 foundations: [ai-literacy, educational-development, teacher-role]
 stakeholders: [change-management, teacher-ai-competency]
 research_method: [survey]

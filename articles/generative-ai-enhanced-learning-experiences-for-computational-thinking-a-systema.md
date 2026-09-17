@@ -3,7 +3,6 @@ title: "Generative AI-enhanced learning experiences for computational thinking: 
 created: "2026-08-10T17:08:30-04:00"
 updated: "2026-08-24T16:35:00-04:00"
 type: article
-tags: [generative-ai, higher-ed, computational-thinking, intelligent-tutoring, meta-analysis-systematic-review, learning-design, ai-education, cs-education]
 foundations: [ai-education, computational-thinking, learning-design]
 technology: [generative-ai, intelligent-tutoring]
 assessment: [meta-analysis-systematic-review]

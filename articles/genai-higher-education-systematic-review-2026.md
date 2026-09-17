@@ -3,7 +3,6 @@ title: "Generative AI in Higher Education: A Systematic Review of Opportunities,
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-09-13T12:55:00-04:00"
 type: article
-tags: [generative-ai, higher-ed, meta-analysis-systematic-review, assessment, personalized-learning, ai-literacy, academic-integrity, equity-in-ai-education, ethics]
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai, personalized-learning]
 assessment: [assessment, meta-analysis-systematic-review]
@@ -14,7 +13,6 @@ level: [higher ed]
 page_kind: [framework, synthesis]
 sources: ['raw/papers/genai-higher-education-systematic-review-2026.md']
 confidence: high
-
 ---
 
 > **Synthesis:** This PRISMA 2020-guided systematic review synthesizes 125 peer-reviewed studies (2022–2025) on [[generative-ai]] in [[higher-ed]], documenting exponential adoption (92% student usage by 2025, up from 66% in 2024), four primary application domains, and persistent challenges around [[academic-integrity]], algorithmic [[bias-mitigation]], [[hallucination-risk]], [[educational-development]] gaps, and [[equity-in-ai-education]]/[[digital-divide]] concerns. The authors propose an integrated four-dimensional framework — [[pedagogy|pedagogical]] integration, [[ai-literacy]] development, [[ethics|ethical]] [[governance]], and systemic support — for responsible GenAI implementation, emphasizing that context-sensitive, holistic adoption matters more than technological provision alone.

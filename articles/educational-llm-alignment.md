@@ -3,7 +3,6 @@ title: Educational LLM Alignment
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-09-16T15:49:45-04:00"
 type: article
-tags: [llm, benchmark, bias-mitigation, teacher-role, pedagogical-llm-training, educational-development, ai-literacy, ethics]
 foundations: [ai-literacy, educational-development, teacher-role]
 technology: [llm, pedagogical-llm-training]
 assessment: [benchmark]

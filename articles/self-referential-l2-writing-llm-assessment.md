@@ -3,7 +3,6 @@ title: "Towards Self-Referential Analytic Assessment: A Profile-Based Approach t
 created: "2026-05-05T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [automated-assessment, writing-education, llm, ai-education, higher-ed, human-in-the-loop-ai, automated-question-generation, personalized-learning]
 foundations: [ai-education]
 technology: [human-in-the-loop-ai, llm, personalized-learning]
 assessment: [automated-assessment, automated-question-generation]

@@ -3,7 +3,6 @@ title: "Learning Sciences"
 created: "2026-09-17T14:12:00-04:00"
 updated: "2026-09-17T14:48:59-04:00"
 type: concept
-tags: [learning-sciences, learning-theories, learning-design, cognitive-psychology, pedagogy, research-methods-aied, intelligent-tutoring, learning-analytics]
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
 technology: [intelligent-tutoring, learning-analytics]

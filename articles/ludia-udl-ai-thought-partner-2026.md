@@ -3,7 +3,6 @@ title: "LUDIA: A Design and Evidence Statement"
 created: "2026-08-10T09:10:02-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [universal-design-for-learning, accessibility, teacher-education, ai-education, learning-design, edtech-platform, equity-in-ai-education]
 foundations: [ai-education, learning-design]
 stakeholders: [edtech-platform]
 ethics: [accessibility, equity-in-ai-education, universal-design-for-learning]

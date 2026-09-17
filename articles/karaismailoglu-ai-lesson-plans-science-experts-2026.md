@@ -3,16 +3,15 @@ title: "Suitability of Artificial Intelligence Supported Lesson Plans from the P
 created: "2026-09-03T14:30:55-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [science-education, curriculum-design, teacher-role, generative-ai, teacher-education, k-12, qualitative-research, stem-education]
 foundations: [curriculum-design, teacher-role]
 technology: [generative-ai]
 assessment: [qualitative-research]
 sources: ['raw/papers/karaismailoglu-ai-lesson-plans-science-experts-2026.md']
 confidence: high
 research_method: [qualitative, case study]
-discipline: [science education]
+discipline: [science education, stem education]
 audience: [teachers, teacher educators, curriculum designers]
-level: [k 12]
+level: [k 12, teacher training]
 page_kind: [evaluation]
 ---
 

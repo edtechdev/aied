@@ -3,7 +3,6 @@ title: "Educational Technology Developers"
 created: "2026-09-17T15:20:00-04:00"
 updated: "2026-09-17T15:20:00-04:00"
 type: concept
-tags: [educational-technology-developers, edtech-platform, learning-design, educational-development, design-based-research, open-source, learning-analytics]
 foundations: [educational-development, learning-design]
 technology: [learning-analytics]
 assessment: [design-based-research]

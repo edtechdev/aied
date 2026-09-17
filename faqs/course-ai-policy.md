@@ -4,7 +4,6 @@ created: "2026-09-16T15:58:20-04:00"
 updated: "2026-09-17T02:50:00-04:00"
 weight: 70
 type: faq
-tags: [ai-use-disclosure, academic-integrity, framing-ai-use-for-students, educational-policy-ai, assessment, reducing-ai-misuse]
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
 assessment: [assessment]
 stakeholders: [educational-policy-ai]

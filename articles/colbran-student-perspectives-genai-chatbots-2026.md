@@ -3,7 +3,6 @@ title: "Understanding student perspectives on generative AI chatbots: a human-ce
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [conversational-ai, student-experience, generative-ai, higher-ed, ai-literacy, academic-integrity, pedagogical-agent, student-ai-interaction, learning-design]
 foundations: [academic-integrity, ai-literacy, learning-design]
 pedagogy: [student-ai-interaction]
 technology: [conversational-ai, generative-ai, pedagogical-agent]

@@ -3,7 +3,6 @@ title: "Who grades best? Comparing ChatGPT, peer, and instructor evaluations acr
 created: "2026-09-01T10:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: ['assessment', 'automated-assessment', 'generative-ai', 'conversational-ai', 'higher-ed', 'student-experience']
 technology: [conversational-ai, generative-ai]
 assessment: [assessment, automated-assessment]
 stakeholders: [student-experience]
@@ -12,7 +11,6 @@ audience: [instructors, learning designers, researchers]
 level: [higher ed]
 sources: ['raw/papers/usher-faraon-who-grades-best-2026.md']
 confidence: high
-
 ---
 
 > **Synthesis:** **Who grades best?** A [[mixed-methods-research|mixed-methods]] study by Usher & Faraon (2026) comparing how ChatGPT, peers, and a course instructor grade the **same undergraduate group projects** across **varying levels of project quality**. With 184 students (52 groups), the study found ChatGPT's alignment with instructor grading **improved as project quality increased** — with its largest overestimation (+14 points) for low-quality work — while peer–instructor alignment was **strongest for lower-quality work**. Students' reflections revealed how they interpreted ChatGPT's grading leniency, grade–feedback alignment, algorithmic versus human judgment, and ChatGPT's dialogic interactivity.

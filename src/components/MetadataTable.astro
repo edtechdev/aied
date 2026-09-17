@@ -1,0 +1,83 @@
+---
+// The typed metadata a page carries, rendered as a table at the foot of the page.
+//
+// This is the exhaustive, categorical view: every field the page holds, grouped by
+// field. It is deliberately NOT a replacement for the curated Connected Concepts
+// list, which says what a page relates to beyond what it is about. Values link to
+// their concept page whenever one exists - facet values ARE concept slugs, and the
+// phrase-valued fields (discipline, level, research method, audience) resolve
+// through a generated value-to-slug map. Everything else renders as plain text.
+import { METADATA_LINKS } from '../data/metadataLinks';
+
+interface Props {
+  // slug -> concept page title, for readable labels
+  conceptTitles: Record<string, string>;
+  // the page's frontmatter
+  data: Record<string, any>;
+}
+
+const { conceptTitles, data } = Astro.props;
+
+const FACETS = ['foundations', 'pedagogy', 'technology', 'assessment', 'stakeholders', 'ethics'];
+const ROWS: { key: string; label: string }[] = [
+  { key: 'research_method', label: 'Research method' },
+  { key: 'discipline', label: 'Discipline' },
+  { key: 'level', label: 'Level' },
+  { key: 'audience', label: 'Audience' },
+  { key: 'foundations', label: 'Foundations' },
+  { key: 'pedagogy', label: 'Pedagogy' },
+  { key: 'technology', label: 'Technology' },
+  { key: 'assessment', label: 'Assessment' },
+  { key: 'stakeholders', label: 'People' },
+  { key: 'ethics', label: 'Ethics' },
+  { key: 'page_kind', label: 'Page kind' },
+];
+
+const titleCase = (s: string) =>
+  s.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+
+const rows = ROWS.map((row) => {
+  const values: string[] = Array.isArray(data[row.key]) ? data[row.key] : [];
+  const isFacet = FACETS.includes(row.key);
+  const items = values
+    .filter((v) => typeof v === 'string' && v.trim() !== '')
+    .map((value) => {
+      const slug = isFacet
+        ? value
+        : (METADATA_LINKS[row.key] && METADATA_LINKS[row.key][value]) || null;
+      const text = slug ? (conceptTitles[slug] || titleCase(value)) : titleCase(value);
+      return { text, slug };
+    });
+  return { label: row.label, items };
+}).filter((row) => row.items.length > 0);
+---
+
+{rows.length > 0 && (
+  <section id="metadata" style="margin-top:2.5rem;">
+    <h2 style="border-bottom:2px solid var(--primary);padding-bottom:0.5rem;">Metadata</h2>
+    <table style="width:100%;border-collapse:collapse;margin-top:0.75rem;font-size:0.95rem;">
+      <tbody>
+        {rows.map((row) => (
+          <tr>
+            <th
+              scope="row"
+              style="text-align:left;vertical-align:top;padding:0.45rem 1rem 0.45rem 0;color:var(--muted-color);font-weight:600;white-space:nowrap;"
+            >{row.label}</th>
+            <td style="padding:0.45rem 0;vertical-align:top;">
+              {row.items.map((item, i) => (
+                <>
+                  {i > 0 ? ', ' : ''}
+                  {item.slug ? (
+                    <a href={`/aied/concepts/${item.slug}/`} style="color:var(--primary);text-decoration:none;">{item.text}</a>
+                  ) : (
+                    item.text
+                  )}
+                </>
+              ))}
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </section>
+)}

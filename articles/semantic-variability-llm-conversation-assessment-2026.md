@@ -3,7 +3,6 @@ title: "Semantic Variability of LLM-Generated Replies Across LLMs: Implications 
 created: "2026-08-28T09:07:00-04:00"
 updated: "2026-08-28T09:07:00-04:00"
 type: article
-tags: [llm, conversational-ai, assessment-validity, assessment, automated-assessment, prompt-engineering, generative-ai, educational-measurement, trust-calibration]
 technology: [conversational-ai, generative-ai, llm, prompt-engineering]
 assessment: [assessment, assessment-validity, automated-assessment, educational-measurement]
 ethics: [trust-calibration]

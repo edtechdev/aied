@@ -3,7 +3,6 @@ title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
-tags: [ai-sycophancy, generative-ai, llm, ethics, trust, pedagogical-safety, cognitive-offloading, feedback, affective-computing, ai-literacy, hallucination-risk]
 foundations: [ai-literacy, cognitive-offloading]
 technology: [affective-computing, generative-ai, llm]
 assessment: [feedback]

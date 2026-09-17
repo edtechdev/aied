@@ -3,7 +3,6 @@ title: "Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Age
 created: "2026-08-14T10:45:34-04:00"
 updated: "2026-09-01T19:06:21-04:00"
 type: article
-tags: [learning-by-teaching, intelligent-tutoring, generative-ai, cs-education, self-regulated-learning, scaffolding, active-learning]
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
 research_method: [experiment]

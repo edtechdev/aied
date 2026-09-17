@@ -3,7 +3,6 @@ title: "Revisiting the Hint Button: Consistent Negative Associations Between Unp
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [intelligent-tutoring, learning-analytics, k-12, math-education, game-based-learning, student-experience, help-seeking]
 pedagogy: [game-based-learning, help-seeking]
 technology: [intelligent-tutoring, learning-analytics]
 stakeholders: [student-experience]

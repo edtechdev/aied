@@ -3,7 +3,6 @@ title: "ChatGPT-Assisted Lesson Planning for Children's STEAM Arts Education: An
 created: "2026-09-03T14:03:23-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: ["generative-ai", "prompt-engineering", "curriculum-design", "stem-education", "creativity", "teacher-role", "early-childhood-elementary-ai-education"]
 foundations: [curriculum-design, teacher-role]
 pedagogy: [creativity]
 technology: [generative-ai, prompt-engineering]

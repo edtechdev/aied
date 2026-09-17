@@ -3,7 +3,6 @@ title: "Value-Sensitive Design in Action: Designing Student-Centered Intelligent
 created: "2026-09-08T13:29:19-04:00"
 updated: "2026-09-08T13:29:19-04:00"
 type: article
-tags: [intelligent-tutoring, explainable-ai, human-in-the-loop-ai, privacy, agency, ethics, stakeholders, design-based-research, higher-ed]
 foundations: [agency]
 technology: [human-in-the-loop-ai, intelligent-tutoring]
 assessment: [design-based-research]

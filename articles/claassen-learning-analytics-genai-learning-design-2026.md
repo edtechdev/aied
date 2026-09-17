@@ -3,7 +3,6 @@ title: "Understanding the Role of Learning Analytics and Generative Artificial I
 created: "2026-08-27T12:05:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [learning-analytics, learning-design, self-determination-theory, generative-ai, higher-ed]
 foundations: [learning-design]
 pedagogy: [self-determination-theory]
 technology: [generative-ai, learning-analytics]

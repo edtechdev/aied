@@ -3,7 +3,6 @@ title: "Reorienting Critical AI Literacy: A Community-Rooted Praxis of “Resist
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
-tags: [ai-literacy, critical-pedagogy, equity-in-ai-education, ai-education, sociocultural-learning, agency, reducing-ai-misuse, ethics]
 foundations: [agency, ai-education, ai-literacy, reducing-ai-misuse]
 pedagogy: [critical-pedagogy, sociocultural-learning]
 ethics: [equity-in-ai-education, ethics]

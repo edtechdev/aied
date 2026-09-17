@@ -3,14 +3,13 @@ title: "Human-centered AI for teacher educators: Designing professional learning
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [teacher-education, ai-literacy, adult-learning, ethics, teacher-role]
 foundations: [ai-literacy, teacher-role]
 ethics: [ethics]
 research_method: [design-based research]
 audience: [instructors]
 sources: ['raw/papers/human-centered-ai-teacher-educators-2026.md']
 confidence: high
-level: [teacher training]
+level: [teacher training, adult learning]
 ---
 
 > **Synthesis:** Baran, Dilek, Ziba, and Xiao (2026) use a [[design-based-research|design-based research]] (DBR) approach, funded across 2023–2025 at a large Midwestern US [[research-methods-aied|research]] university, to examine how principles of Human-Centered AI (HCAI) and critical [[ai-literacy]] can inform the design of professional learning resources for teacher educators. Across three DBR cycles of needs analysis, prototyping, and refinement with seven teacher educators, they identified three convergent design needs: (a) improving instructional efficiency and effectiveness while preserving professional judgment, (b) modeling responsible and ethical AI integration, and (c) reforming [[teacher-education]] pedagogies with AI. These findings were translated into a five-module curriculum operationalizing critical [[ai-literacy]] competencies (foundational AI knowledge; [[ethics]] and [[bias-mitigation|algorithmic bias]]; [[pedagogy|pedagogical]] integration; implementation, guidelines, and policy; and human-centered [[ai-education|AI in education]]) through seven HCAI-informed activities, including educator-in-the-loop tasks that strengthen professional judgment, transparency, and [[equity-in-ai-education]]-oriented decision-making. The study reframes AI literacy as a design practice and positions teacher educators as designers and ethical stewards of AI integration.

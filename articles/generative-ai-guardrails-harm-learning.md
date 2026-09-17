@@ -3,7 +3,6 @@ title: "Generative AI without guardrails can harm learning: Evidence from high s
 created: "2026-07-19T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [generative-ai, cognitive-offloading, stem-education, k-12, rct, learning-gains, intelligent-tutoring, scaffolding, student-experience]
 foundations: [cognitive-offloading]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]

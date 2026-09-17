@@ -3,7 +3,6 @@ title: Situated Learning
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-13T09:58:46-04:00"
 type: concept
-tags: [situated-learning, experiential-learning, constructivist, learning-theories, sociocultural-learning, learning-design, ai-education]
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high

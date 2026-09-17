@@ -3,7 +3,6 @@ title: "AI-Assisted Research Competency in Secondary Education: A Framework for 
 created: "2026-09-04T09:07:00-04:00"
 updated: "2026-09-04T09:07:00-04:00"
 type: article
-tags: [ai-literacy, academic-integrity, agency, metacognition, generative-ai, k-12, critical-thinking]
 foundations: [academic-integrity, agency, ai-literacy, critical-thinking]
 pedagogy: [metacognition]
 technology: [generative-ai]
@@ -11,7 +10,7 @@ sources: ['raw/papers/aarc-ai-research-competency.md']
 confidence: high
 research_method: [theoretical analysis]
 audience: [teachers, curriculum designers]
-level: [secondary]
+level: [secondary, k 12]
 page_kind: [framework]
 ---
 

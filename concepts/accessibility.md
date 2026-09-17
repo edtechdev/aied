@@ -4,7 +4,6 @@ created: "2026-08-23T12:00:00-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
-tags: [accessibility, inclusive-learning, special-education, universal-design-for-learning, assistive-technology, equity-in-ai-education, learning-design]
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning, universal-design-for-learning]
 level: [special education]

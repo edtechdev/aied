@@ -3,7 +3,6 @@ title: "Beyond Task Completion: A Theoretical Integration and Framework for Guid
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [generative-ai, cognitive-offloading, self-efficacy, motivation, metacognition, student-engagement, higher-ed]
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, motivation, self-efficacy, student-engagement]
 technology: [generative-ai]

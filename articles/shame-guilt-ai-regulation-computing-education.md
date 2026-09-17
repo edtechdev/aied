@@ -3,7 +3,6 @@ title: 'Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Co
 created: "2026-06-16T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [student-experience, higher-ed, academic-integrity, cognitive-offloading, hallucination-risk, learning-analytics, llm, k-12]
 foundations: [academic-integrity, cognitive-offloading]
 technology: [learning-analytics, llm]
 stakeholders: [student-experience]

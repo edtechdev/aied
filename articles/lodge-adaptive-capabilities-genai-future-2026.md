@@ -3,7 +3,6 @@ title: "Assuring Quality Learning in a Gen AI-Integrated Future: The Role of Ada
 created: "2026-08-22T18:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [higher-ed, ai-literacy, metacognition, self-regulated-learning, lifelong-learning, adaptive-learning, generative-ai, educational-policy-ai, assessment-validity]
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [adaptive-learning, generative-ai]

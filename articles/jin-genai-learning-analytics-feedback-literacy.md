@@ -3,7 +3,6 @@ title: "Students' Perceptions of Generative AI-Powered Learning Analytics in the
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [feedback, learning-analytics, ai-feedback-quality, formative-assessment, self-regulated-learning, ai-literacy, higher-ed, student-experience]
 foundations: [ai-literacy]
 pedagogy: [self-regulated-learning]
 technology: [learning-analytics]

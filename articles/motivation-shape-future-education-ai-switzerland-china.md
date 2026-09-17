@@ -3,12 +3,11 @@ title: "Motivation to shape the future of education with Artificial Intelligence
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [motivation, teacher-education, generative-ai, higher-ed, ai-education]
 foundations: [ai-education]
 pedagogy: [motivation]
 technology: [generative-ai]
 research_method: [survey]
-level: [higher ed]
+level: [higher ed, teacher training]
 sources: ['raw/papers/motivation-shape-future-education-ai-switzerland-china.md']
 confidence: high
 audience: [teacher educators, faculty development, researchers]

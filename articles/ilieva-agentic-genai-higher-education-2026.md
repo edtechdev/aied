@@ -3,7 +3,6 @@ title: "Agentic Generative AI in Higher Education: Perceived Benefits, Risks, an
 created: "2026-09-11T02:52:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [agentic-ai, generative-ai, higher-ed, human-in-the-loop-ai, governance, academic-integrity, trust, business-education, personalized-learning, pedagogical-agent, ai-use-disclosure]
 foundations: [academic-integrity, agentic-ai]
 technology: [generative-ai, human-in-the-loop-ai, pedagogical-agent, personalized-learning]
 stakeholders: [governance]

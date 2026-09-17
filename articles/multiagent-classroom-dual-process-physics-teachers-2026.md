@@ -3,7 +3,6 @@ title: "A multi-agent AI classroom based on dual-process reasoning hazards: a pi
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [agentic-ai, physics-education, teacher-education, simulation, stem-education, higher-ed]
 foundations: [agentic-ai]
 technology: [simulation]
 research_method: [experiment]

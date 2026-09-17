@@ -3,7 +3,6 @@ title: "Meta-Cognitive Insights into Cognitive Offloading: Mechanisms, Intervent
 created: "2026-08-16T20:47:13-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [cognitive-offloading, metacognition, self-regulated-learning, ai-literacy, generative-ai, student-experience, higher-ed]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]

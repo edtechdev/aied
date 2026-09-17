@@ -3,7 +3,6 @@ title: "What Robots Do Matters More Than What They Look Like: Task Context Shape
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [educational-robotics, trust, higher-ed, learning-theories]
 pedagogy: [learning-theories]
 technology: [educational-robotics]
 ethics: [trust]

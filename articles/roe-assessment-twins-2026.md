@@ -3,7 +3,6 @@ title: "Assessment Twins: An Approach for Strengthening Assessment Validity in t
 created: "2026-08-22T17:35:00-04:00"
 updated: "2026-09-17T07:48:05-04:00"
 type: article
-tags: [assessment-validity, academic-integrity, authentic-assessment, generative-ai, higher-ed, assessment, ai-literacy]
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
 assessment: [assessment, assessment-validity, authentic-assessment]

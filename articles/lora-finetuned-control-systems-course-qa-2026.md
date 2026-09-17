@@ -3,7 +3,6 @@ title: "LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensiona
 created: "2026-09-15T10:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [llm, engineering-education, higher-ed, pedagogical-llm-training, automated-assessment, adaptive-learning, student-ai-interaction, conversational-ai, discipline-specific-aied, educational-nlp]
 pedagogy: [student-ai-interaction]
 technology: [adaptive-learning, conversational-ai, educational-nlp, llm, pedagogical-llm-training]
 assessment: [automated-assessment]

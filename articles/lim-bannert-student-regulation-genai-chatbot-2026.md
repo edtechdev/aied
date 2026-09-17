@@ -3,7 +3,6 @@ title: "How Do Students Regulate Their Learning With a GenAI Chatbot?"
 created: "2026-08-27T06:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [self-regulated-learning, generative-ai, cognitive-offloading, higher-ed, metacognition, learning-analytics]
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai, learning-analytics]

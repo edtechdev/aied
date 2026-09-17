@@ -3,7 +3,6 @@ title: Lifelong Learning
 created: "2026-05-09T10:44:35-04:00"
 updated: "2026-08-31T06:34:37-04:00"
 type: concept
-tags: [lifelong-learning, personalized-learning, professional-training, llm, intelligent-tutoring, higher-ed, generative-ai, adaptive-learning, scaffolding, k-12]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 stakeholders: [lifelong-learning, professional-training]

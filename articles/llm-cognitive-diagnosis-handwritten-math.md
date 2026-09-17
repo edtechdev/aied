@@ -3,7 +3,6 @@ title: Benchmarking Large Language Models for Diagnosing Students' Cognitive Ski
 created: "2026-05-31T12:17:35-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [ai-ed-evaluation, knowledge-tracing, multimodal, benchmark, human-in-the-loop-ai, critical-thinking, hallucination-risk, k-12, llm, generative-ai, math-education]
 foundations: [critical-thinking]
 technology: [generative-ai, human-in-the-loop-ai, knowledge-tracing, llm, multimodal]
 assessment: [ai-ed-evaluation, benchmark]

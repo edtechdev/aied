@@ -3,7 +3,6 @@ title: Unanticipated Effects of Generative AI on Expertise Pathways and Performa
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [generative-ai, professional-training, cognitive-offloading, lifelong-learning, human-in-the-loop-ai, human-ai-collaboration, ai-education]
 foundations: [ai-education, cognitive-offloading, human-ai-collaboration]
 technology: [generative-ai, human-in-the-loop-ai]
 stakeholders: [lifelong-learning, professional-training]

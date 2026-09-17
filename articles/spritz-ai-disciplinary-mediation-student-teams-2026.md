@@ -3,7 +3,6 @@ title: "Exploring AI-Supported Disciplinary Mediation in Student Project Teams' 
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-11"
 type: article
-tags: [collaborative-learning, project-based-learning, human-ai-collaboration, conversational-ai, llm, higher-ed, student-experience, qualitative-research]
 foundations: [human-ai-collaboration]
 pedagogy: [collaborative-learning, project-based-learning]
 technology: [conversational-ai, llm]

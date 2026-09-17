@@ -3,14 +3,13 @@ title: "Science educators' AI literacy and AI usage in teaching: Implications fo
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [science-education, ai-literacy, teacher-education, adult-learning, stem-education]
 foundations: [ai-literacy]
 audience: [instructors, faculty development]
 research_method: [mixed methods, survey]
 discipline: [science education, stem education]
 sources: ['raw/papers/science-educators-ai-literacy-postqualification-2026.md']
 confidence: high
-level: [secondary]
+level: [secondary, adult learning, teacher training]
 ---
 
 > **Synthesis:** Maurer, Brückner, Thyssen, Becker-Genschow, and Huwer (2026) surveyed n = 115 in-service secondary science educators from Germany and Switzerland (recruited via email to randomly selected schools; ages 25–64) using a cross-sectional [[mixed-methods-research|mixed-methods]] design with three components: a validated 30-item [[ai-literacy]] competency test (nliteracy = 64 valid completions), a 15-item AI-usage questionnaire scored on five-point frequency scales (nusage = 81 after excluding 34 inconsistent cases, analyzed at the subject level as nsubject = 115 datasets: 44 [[biology-education|biology]], 39 [[chemistry-education|chemistry]], 32 [[physics-education|physics]]), and semi-structured follow-up interviews with n = 21 teachers. Teachers showed a solid but moderate general [[ai-literacy]] (M = 16.7 of 30, SD = 4.59), yet no significant correlation emerged between AI literacy and any aspect of AI use — including usage history (all p between .109 and 1.00) and frequency of perceived usage opportunities (p = .151 in class; p = .947 for preparation). AI was used most in the general "Information Search and Evaluation" area and least in [[discipline-specific-aied|subject-specific]] areas ([[simulation]], data processing, data acquisition), and only 43% of subject datasets reported current in-class use versus 63% for lesson preparation and follow-up. The authors conclude there is a clear need for AI-related post-qualification programs that focus on subject-specific AI literacy and concrete applications, proposing two TPACKAI development pathways.

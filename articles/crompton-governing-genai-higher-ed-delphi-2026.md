@@ -3,7 +3,6 @@ title: "Governing generative AI in higher education: a global Delphi study on po
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
-tags: [governance, educational-policy-ai, generative-ai, higher-ed, academic-integrity, ai-literacy, ethics, privacy, human-in-the-loop-ai]
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai, human-in-the-loop-ai]
 stakeholders: [educational-policy-ai, governance]

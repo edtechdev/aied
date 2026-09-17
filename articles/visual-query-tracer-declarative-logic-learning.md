@@ -3,7 +3,6 @@ title: Evaluating a Visual Query Tracer and Builder for Learning Declarative Log
 created: "2026-07-22T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [stem-education, higher-ed, scaffolding, active-learning, visualization]
 pedagogy: [active-learning, scaffolding]
 technology: [visualization]
 research_method: [qualitative]

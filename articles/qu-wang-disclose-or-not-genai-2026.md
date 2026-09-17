@@ -3,7 +3,6 @@ title: "To disclose or not to disclose: Peer influence and psychological factors
 created: "2026-08-25T09:50:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [academic-integrity, generative-ai, higher-ed, trust, learning-theories]
 foundations: [academic-integrity]
 pedagogy: [learning-theories]
 technology: [generative-ai]

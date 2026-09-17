@@ -3,7 +3,6 @@ title: "Understanding Student Dependency on AI: The Role of AI Literacy, Academi
 created: "2026-08-21T13:05:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [generative-ai, ai-literacy, self-efficacy, self-regulated-learning, cognitive-offloading, student-engagement, higher-ed, help-seeking, motivation]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [help-seeking, motivation, self-efficacy, self-regulated-learning, student-engagement]
 technology: [generative-ai]

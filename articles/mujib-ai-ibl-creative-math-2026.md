@@ -3,7 +3,6 @@ title: "Evaluating the Impact of AI-Supported Inquiry-Based Learning on Students
 created: "2026-08-22T05:55:16-04:00"
 updated: "2026-09-02T08:59:42-04:00"
 type: article
-tags: [inquiry-based-learning, generative-ai, math-education, k-12, critical-thinking, creativity, cognitive-offloading, active-learning]
 foundations: [cognitive-offloading, critical-thinking]
 pedagogy: [active-learning, creativity, inquiry-based-learning]
 technology: [generative-ai]

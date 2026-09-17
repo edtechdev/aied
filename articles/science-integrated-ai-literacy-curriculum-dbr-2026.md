@@ -3,7 +3,6 @@ title: "Design of a Science-Integrated Secondary School AI Literacy Curriculum: 
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
-tags: ["ai-literacy", "k-12", "design-based-research", "science-education", "curriculum-design", "machine-learning"]
 foundations: [ai-literacy, curriculum-design]
 technology: [machine-learning]
 assessment: [design-based-research]

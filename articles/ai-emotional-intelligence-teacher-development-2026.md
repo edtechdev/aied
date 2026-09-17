@@ -3,7 +3,6 @@ title: "Artificial and Emotional Intelligence: Two Key Forces for Teachers' Prof
 created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 type: article
-tags: [teacher-role, teacher-education, well-being, ethics, ai-education]
 foundations: [ai-education, teacher-role]
 pedagogy: [well-being]
 ethics: [ethics]

@@ -3,7 +3,6 @@ title: "Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Fra
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-30T05:30:00-04:00"
 type: article
-tags: [embodied-learning, cognitive-psychology, critical-thinking, constructivist, educational-policy-ai, higher-ed, learning-theories, cognitive-offloading]
 foundations: [cognitive-offloading, critical-thinking]
 pedagogy: [cognitive-psychology, constructivist, embodied-learning, learning-theories]
 stakeholders: [educational-policy-ai]

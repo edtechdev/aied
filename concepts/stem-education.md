@@ -3,7 +3,6 @@ title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
-tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
 assessment: [automated-assessment]

@@ -3,7 +3,6 @@ title: "Beyond checking: verification quality, reliance calibration, and learnin
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [trust-calibration, cognitive-offloading, ai-literacy, metacognition, self-regulated-learning, higher-ed, generative-ai]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]

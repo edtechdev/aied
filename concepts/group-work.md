@@ -3,7 +3,6 @@ title: Group Work
 created: "2026-09-10T05:34:38-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: concept
-tags: [collaborative-learning, assessment, academic-integrity, agency, higher-ed, peer-assessment, authentic-assessment, generative-ai]
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
 technology: [generative-ai]

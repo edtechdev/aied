@@ -3,7 +3,6 @@ title: "Security Education in Higher Education through AI-Powered Gamification"
 created: "2026-08-26T09:00:00-04:00"
 updated: "2026-08-26T09:00:00-04:00"
 type: article
-tags: [game-based-learning, higher-ed, student-engagement, motivation, generative-ai]
 pedagogy: [game-based-learning, motivation, student-engagement]
 technology: [generative-ai]
 research_method: [system development]

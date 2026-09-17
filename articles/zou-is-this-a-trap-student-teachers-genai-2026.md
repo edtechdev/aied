@@ -3,7 +3,6 @@ title: "\"Is this a trap?\": Student teachers' perceptions and adoption of GenAI
 created: "2026-09-14T05:10:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [generative-ai, assessment, teacher-education, higher-ed, academic-integrity, student-engagement, ai-use-disclosure, self-efficacy, sociocultural-learning]
 foundations: [academic-integrity]
 pedagogy: [self-efficacy, sociocultural-learning, student-engagement]
 technology: [generative-ai]

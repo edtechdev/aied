@@ -3,7 +3,6 @@ title: "Supporting self-regulated learning through generative AI feedback in onl
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [self-regulated-learning, feedback, generative-ai, ai-feedback-quality, online-teaching-and-learning, higher-ed, student-ai-interaction, metacognition]
 pedagogy: [metacognition, online-teaching-and-learning, self-regulated-learning, student-ai-interaction]
 technology: [generative-ai]
 assessment: [ai-feedback-quality, feedback]

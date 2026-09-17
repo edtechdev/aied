@@ -3,7 +3,6 @@ title: "VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mi
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-11"
 type: article
-tags: [writing-education, scaffolding, generative-ai, rag, human-in-the-loop-ai, creativity, knowledge-graph, cognitive-offloading, llm]
 foundations: [cognitive-offloading]
 pedagogy: [creativity, scaffolding]
 technology: [generative-ai, human-in-the-loop-ai, knowledge-graph, llm, rag]

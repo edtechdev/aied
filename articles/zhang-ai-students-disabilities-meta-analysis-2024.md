@@ -3,7 +3,6 @@ title: "Let's Chat About Artificial Intelligence for Students With Disabilities:
 created: "2026-08-23T12:00:00-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
-tags: [special-education, inclusive-learning, accessibility, learning-gains, educational-robotics]
 technology: [educational-robotics]
 assessment: [learning-gains]
 ethics: [accessibility, inclusive-learning]

@@ -3,7 +3,6 @@ title: Biology Education
 created: "2026-08-19T13:10:00-04:00"
 updated: "2026-08-31T06:34:37-04:00"
 type: concept
-tags: [biology-education, stem-education, higher-ed, k-12, generative-ai, critical-thinking, ai-literacy, human-ai-collaboration]
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
 discipline: [biology education, stem education]

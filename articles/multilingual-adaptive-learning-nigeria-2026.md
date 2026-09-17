@@ -3,7 +3,6 @@ title: "An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource
 created: "2026-08-19T09:50:00-04:00"
 updated: "2026-08-19T09:50:00-04:00"
 type: article
-tags: [adaptive-learning, multilingual-learning, global-south, llm, equity-in-ai-education, personalized-learning, culturally-relevant-pedagogy, digital-divide, inclusive-learning]
 technology: [adaptive-learning, llm, personalized-learning]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 research_method: [system development]

@@ -3,7 +3,6 @@ title: "Predictors of the ethical use of generative AI in higher education"
 created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [academic-integrity, ethics, ai-literacy, higher-ed, ai-education, critical-thinking, privacy, generative-ai, governance]
 foundations: [academic-integrity, ai-education, ai-literacy, critical-thinking]
 technology: [generative-ai]
 stakeholders: [governance]

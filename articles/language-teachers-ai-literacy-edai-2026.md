@@ -4,7 +4,6 @@ created: "2026-09-01T14:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/language-teachers-ai-literacy-edai-2026.md"]
-tags: ["ai-literacy", "language-learning", "teacher-education", "educational-measurement", "teacher-ai-competency"]
 foundations: [ai-literacy]
 assessment: [educational-measurement]
 stakeholders: [teacher-ai-competency]

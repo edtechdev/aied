@@ -3,7 +3,6 @@ title: Multimodal Dialogue in STEM Education
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [intelligent-tutoring, multimodal, socratic-method, stem-education, llm, scaffolding, metacognition]
 pedagogy: [metacognition, scaffolding, socratic-method]
 technology: [intelligent-tutoring, llm, multimodal]
 research_method: [benchmark]

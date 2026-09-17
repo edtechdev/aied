@@ -4,7 +4,6 @@ created: "2026-09-16T15:58:20-04:00"
 updated: "2026-09-17T02:50:00-04:00"
 weight: 65
 type: faq
-tags: [hallucination-risk, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, academic-integrity]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
 ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]

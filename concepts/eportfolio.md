@@ -3,7 +3,6 @@ title: E-Portfolio
 created: "2026-08-20T09:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
-tags: [assessment, authentic-assessment, formative-assessment, feedback, generative-ai, automated-assessment, student-engagement, higher-ed, language-learning]
 pedagogy: [student-engagement]
 technology: [generative-ai]
 assessment: [assessment, authentic-assessment, automated-assessment, feedback, formative-assessment]

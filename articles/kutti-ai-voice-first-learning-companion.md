@@ -3,7 +3,6 @@ title: "Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Ti
 created: "2026-07-27T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [adaptive-learning, intelligent-tutoring, special-education, k-12, equity-in-ai-education, personalized-learning]
 technology: [adaptive-learning, intelligent-tutoring, personalized-learning]
 ethics: [equity-in-ai-education]
 audience: [software developers]

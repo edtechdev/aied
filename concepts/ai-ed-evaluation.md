@@ -3,7 +3,6 @@ title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: concept
-tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop-ai, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
 assessment: [assessment, assessment-validity, benchmark, educational-measurement, formative-assessment]
@@ -12,7 +11,6 @@ audience: [researchers, instructors, administrators]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods, reporting-interpreting-aied-research]
 confidence: high
-
 ---
 
 > **AI-ed evaluation** — the body of methods, benchmarks, and criteria used to assess whether [[ai-education|AI education]] tools ([[llm]]-based tutors, [[automated-assessment|automated graders]], feedback systems, agents) actually work — not just on headline accuracy, but on reliability, [[pedagogy|pedagogical]] quality, validity, and real learning impact. A recurring theme across the knowledge base's research is that evaluation must be domain-specific, reliability-aware, and anchored in human judgment and educational outcomes rather than single aggregate accuracy numbers.

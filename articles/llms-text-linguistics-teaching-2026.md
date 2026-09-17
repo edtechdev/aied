@@ -3,7 +3,6 @@ title: "LLMs in text linguistics teaching: An exploratory study with genAI novic
 created: "2026-08-16T10:19:32-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [llm, language-learning, prompt-engineering, metacognition, higher-ed, discipline-specific-aied]
 pedagogy: [metacognition]
 technology: [llm, prompt-engineering]
 research_method: [design-based research]

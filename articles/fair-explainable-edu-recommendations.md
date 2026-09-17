@@ -3,7 +3,6 @@ title: Fair and explainable educational recommendations with a hybrid Graph-GRU 
 created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [ai-education, bias-mitigation, learning-analytics, personalized-learning]
 foundations: [ai-education]
 technology: [learning-analytics, personalized-learning]
 ethics: [bias-mitigation]

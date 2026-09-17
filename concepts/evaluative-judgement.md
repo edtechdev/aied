@@ -3,7 +3,6 @@ title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: concept
-tags: [assessment-validity, feedback, formative-assessment, self-regulated-learning, critical-thinking, academic-integrity, metacognition, higher-ed]
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
 assessment: [assessment-validity, feedback, formative-assessment]

@@ -3,7 +3,6 @@ title: "Evaluation Indicator System for AI Certificate Programs"
 created: "2026-09-06T08:14:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [tpack, higher-ed, curriculum-design, assessment, ai-literacy, teacher-education, adaptive-learning]
 foundations: [ai-literacy, curriculum-design]
 technology: [adaptive-learning]
 assessment: [assessment]
@@ -12,7 +11,7 @@ sources: ['raw/papers/10.1186_s41239-026-00604-x.md']
 confidence: high
 research_method: [instrument development, quantitative]
 audience: [administrators, curriculum designers]
-level: [higher ed]
+level: [higher ed, teacher training]
 page_kind: [evaluation, framework]
 ---
 

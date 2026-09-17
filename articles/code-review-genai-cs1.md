@@ -3,7 +3,6 @@ title: Combating Harms of Generative AI in CS1 with Code Review Interviews and a
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [generative-ai, higher-ed, cs-education, cognitive-offloading, academic-integrity, formative-assessment, student-experience, metacognition, ai-literacy]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
 technology: [generative-ai]

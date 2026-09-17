@@ -3,14 +3,13 @@ title: "Efficacy of an Intensive Generative AI Professional Development Program 
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
-tags: [adult-learning, teacher-ai-competency, generative-ai, professional-training, teacher-education, educational-development]
 foundations: [educational-development]
 technology: [generative-ai]
 stakeholders: [professional-training, teacher-ai-competency]
 connected_faqs: [faculty-development-ai]
 research_method: [quasi-experiment, instrument development, survey]
 audience: [faculty development]
-level: [teacher training]
+level: [teacher training, adult learning]
 sources: ['raw/papers/genai-pd-ai-pck-learning-gain-2026.md']
 confidence: high
 page_kind: [evaluation]

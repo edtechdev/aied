@@ -3,14 +3,13 @@ title: "Scaffold or Shortcut? Postgraduate IT Students' Use of Generative AI and
 created: "2026-08-27T06:30:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [self-regulated-learning, cognitive-offloading, generative-ai, higher-ed, mixed-methods-research, ai-literacy, engineering-education]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [self-regulated-learning]
 technology: [generative-ai]
 assessment: [mixed-methods-research]
 audience: [learners, instructors]
 research_method: [mixed methods]
-discipline: [information technology]
+discipline: [information technology, engineering education]
 level: [higher ed]
 sources: ['raw/papers/atif-dickson-deane-scaffold-shortcut-genai-srl-2026.md']
 source_url: 'https://doi.org/10.20851/ll.v8.63'

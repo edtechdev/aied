@@ -3,7 +3,6 @@ title: "The End of Assessment? Disruption and Transformation in the Age of AI"
 created: "2026-08-21T13:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [assessment, assessment-validity, automated-assessment, ai-literacy, equity-in-ai-education, bias-mitigation, psychometrically-aware-ai, educational-measurement, human-ai-collaboration, higher-ed, ai-education]
 foundations: [ai-education, ai-literacy, human-ai-collaboration]
 assessment: [assessment, assessment-validity, automated-assessment, educational-measurement, psychometrically-aware-ai]
 ethics: [bias-mitigation, equity-in-ai-education]
@@ -12,7 +11,6 @@ research_method: [position paper, theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/end-of-assessment-ai-disruption-transformation-2026.md']
 confidence: medium
-
 ---
 
 > **Synthesis:** [[generative-ai|Generative AI]] is collapsing the long-standing boundaries between learner, test, and assessor — an **epistemic disruption** in what counts as evidence of learning. These systems can be test-takers, test-makers, test-raters, *and* analysts/reporters simultaneously. Rather than merely adding a tool, AI dissolves the field's traditional representational-measurement paradigm. The authors argue assessment must transform from static measurement into an **evidence ecosystem** centered on meaning-making, justice, and AI literacy, led by a "cyborg" assessment professional fluent in both disciplinary assessment expertise and AI.

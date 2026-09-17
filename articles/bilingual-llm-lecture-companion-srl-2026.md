@@ -3,7 +3,6 @@ title: "A Bilingual, LLM-Mediated Lecture Companion for Self-Regulated Learning:
 created: "2026-08-14T09:17:22-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [llm, self-regulated-learning, language-learning, multilingual-learning, inclusive-learning, online-teaching-and-learning, higher-ed, generative-ai, global-south]
 pedagogy: [online-teaching-and-learning, self-regulated-learning]
 technology: [generative-ai, llm]
 ethics: [global-south, inclusive-learning, multilingual-learning]

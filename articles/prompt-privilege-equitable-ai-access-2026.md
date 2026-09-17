@@ -3,7 +3,6 @@ title: "Same Question, Different Answer? Measuring and Mitigating Prompt Privile
 created: "2026-08-17T09:35:00-04:00"
 updated: "2026-08-24T11:00:00-04:00"
 type: article
-tags: [equity-in-ai-education, ai-literacy, prompt-engineering, digital-divide, llm, bias-mitigation, inclusive-learning]
 foundations: [ai-literacy]
 technology: [llm, prompt-engineering]
 ethics: [bias-mitigation, digital-divide, equity-in-ai-education, inclusive-learning]

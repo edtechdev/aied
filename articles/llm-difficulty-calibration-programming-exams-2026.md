@@ -3,7 +3,6 @@ title: "From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-11"
 type: article
-tags: [cs-education, assessment, automated-assessment, ai-ed-evaluation, educational-measurement, item-response-theory, learning-analytics]
 technology: [learning-analytics]
 assessment: [ai-ed-evaluation, assessment, automated-assessment, educational-measurement, item-response-theory]
 research_method: [educational measurement]

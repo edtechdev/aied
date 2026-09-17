@@ -3,7 +3,6 @@ title: The LLM Fallacy and Misattribution of Competence
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [metacognition, cognitive-offloading, llm, k-12, higher-ed, academic-integrity, self-regulated-learning, generative-ai, rag, scaffolding]
 foundations: [academic-integrity, cognitive-offloading]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, rag]

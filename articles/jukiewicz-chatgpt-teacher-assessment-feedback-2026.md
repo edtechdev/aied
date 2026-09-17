@@ -3,7 +3,6 @@ title: Can ChatGPT Replace the Teacher in Assessment? A Review of Research on th
 created: "2026-09-03T14:31:40-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: ['generative-ai', 'assessment', 'feedback', 'meta-analysis-systematic-review']
 technology: [generative-ai]
 assessment: [assessment, feedback, meta-analysis-systematic-review]
 sources:

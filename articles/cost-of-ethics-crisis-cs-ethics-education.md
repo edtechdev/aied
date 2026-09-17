@@ -3,7 +3,6 @@ title: "Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job
 created: "2026-05-12T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [ai-education, cs-education, ethics, regulation, educational-development, teacher-ai-competency, equity-in-ai-education, ai-literacy, pedagogical-safety]
 foundations: [ai-education, ai-literacy, educational-development]
 stakeholders: [pedagogical-safety, regulation, teacher-ai-competency]
 ethics: [equity-in-ai-education, ethics]

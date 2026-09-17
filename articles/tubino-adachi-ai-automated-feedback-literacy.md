@@ -3,7 +3,6 @@ title: "Reconnecting relationships through technology: Developing feedback liter
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, higher-ed, teacher-role, writing-education, agency, scaffolding]
 foundations: [agency, ai-literacy, teacher-role]
 pedagogy: [scaffolding, self-regulated-learning]
 assessment: [ai-feedback-quality, feedback, formative-assessment]

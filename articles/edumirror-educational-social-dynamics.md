@@ -3,7 +3,6 @@ title: "EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-
 created: "2026-06-10T12:17:35-04:00"
 updated: "2026-09-16T17:12:13-04:00"
 type: article
-tags: [intelligent-tutoring, student-experience, llm, higher-ed, scaffolding, generative-ai, ai-literacy, k-12, stem-education, learning-analytics]
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, learning-analytics, llm]
@@ -11,7 +10,7 @@ stakeholders: [student-experience]
 research_method: [system development]
 discipline: [stem education]
 audience: [researchers, instructors, software developers]
-level: [k 12]
+level: [k 12, higher ed]
 confidence: high
 page_kind: [framework]
 sources: []

@@ -3,7 +3,6 @@ title: "Toward Convergence in Student-LLM Interactions: A Rapid Scoping Review a
 created: "2026-08-14T09:17:22-04:00"
 updated: "2026-09-12T11:20:00-04:00"
 type: article
-tags: [llm, generative-ai, student-ai-interaction, learning-analytics, higher-ed, self-regulated-learning, assessment, ai-feedback-quality, research-methods-aied]
 pedagogy: [self-regulated-learning, student-ai-interaction]
 technology: [generative-ai, learning-analytics, llm]
 assessment: [ai-feedback-quality, assessment, research-methods-aied]

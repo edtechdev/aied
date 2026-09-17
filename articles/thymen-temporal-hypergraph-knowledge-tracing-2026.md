@@ -3,7 +3,6 @@ title: "Augmenting Knowledge Tracing Through Modeling Dynamic Higher-Order Conce
 created: "2026-08-18T14:55:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [knowledge-tracing, student-modeling, adaptive-learning, learning-analytics, educational-nlp, llm, formative-assessment, intelligent-tutoring]
 technology: [adaptive-learning, educational-nlp, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 assessment: [formative-assessment]
 audience: [software developers]

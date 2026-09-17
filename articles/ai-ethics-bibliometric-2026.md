@@ -3,7 +3,6 @@ title: "From Abstract Ethics to Situated Practice: A Bibliometric Analysis of AI
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [ethics, ai-education, human-in-the-loop-ai, human-ai-collaboration, trust, philosophy-of-ai-in-education]
 foundations: [ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 technology: [human-in-the-loop-ai]
 ethics: [ethics, trust]

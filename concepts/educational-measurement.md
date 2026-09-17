@@ -3,7 +3,6 @@ title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 type: concept
-tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing, ai-literacy]
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
 assessment: [assessment-validity, item-response-theory, psychometrically-aware-ai]

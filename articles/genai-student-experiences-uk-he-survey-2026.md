@@ -3,7 +3,6 @@ title: "\"It is a temptation to get it to do the work…\" Student Experiences o
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [student-experience, higher-ed, generative-ai, academic-integrity, equity-in-ai-education, ethics, educational-policy-ai]
 foundations: [academic-integrity]
 technology: [generative-ai]
 stakeholders: [educational-policy-ai, student-experience]

@@ -3,7 +3,6 @@ title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
-tags: [ai-education, generative-ai, higher-ed, student-experience, scaffolding, intelligent-tutoring, critical-thinking, rag, llm, metacognition, formative-assessment]
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm, rag]

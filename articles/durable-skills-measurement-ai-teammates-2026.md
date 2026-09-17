@@ -3,7 +3,6 @@ title: "Towards Scalable Measurement of Durable Skills"
 created: "2026-09-15T11:05:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [assessment, educational-measurement, collaborative-learning, critical-thinking, creativity, group-work, simulating-students, agentic-ai, human-ai-collaboration, ai-ed-evaluation]
 foundations: [agentic-ai, critical-thinking, human-ai-collaboration]
 pedagogy: [collaborative-learning, creativity]
 technology: [simulating-students]

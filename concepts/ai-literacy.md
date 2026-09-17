@@ -3,7 +3,6 @@ title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
 updated: "2026-09-17T02:58:14-04:00"
 type: concept
-tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, educational-development, academic-integrity]
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
 audience: [faculty development, instructors, learners]

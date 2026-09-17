@@ -3,7 +3,6 @@ title: 'From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programm
 created: "2026-07-30T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [stem-education, higher-ed, teacher-role, learning-analytics, academic-integrity, edtech-platform, adaptive-learning, student-experience, personalized-learning, ai-literacy, visualization]
 foundations: [academic-integrity, ai-literacy, teacher-role]
 technology: [adaptive-learning, learning-analytics, personalized-learning, visualization]
 stakeholders: [edtech-platform, student-experience]

@@ -4,7 +4,6 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/dual-ai-learning-pathways-sdt-2026.md"]
-tags: ['generative-ai', 'self-determination-theory', 'quantitative-research']
 pedagogy: [self-determination-theory]
 technology: [generative-ai]
 assessment: [quantitative-research]

@@ -3,7 +3,6 @@ title: Self-Directed Learning
 created: "2026-08-20T06:35:00-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: concept
-tags: [self-regulated-learning, agency, motivation, self-efficacy, higher-ed, generative-ai, lifelong-learning, adult-learning]
 foundations: [agency]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
 technology: [generative-ai]

@@ -3,13 +3,12 @@ title: "The impact of career adapt-abilities on AI anxiety among English majors:
 created: "2026-08-25T07:45:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [ai-anxiety-and-stress, adult-learning, self-efficacy, higher-ed, ai-literacy, well-being]
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, well-being]
 stakeholders: [ai-anxiety-and-stress]
 audience: [learners]
 research_method: [survey]
-level: [higher ed]
+level: [higher ed, adult learning]
 sources: ['raw/papers/wang-career-adapt-abilities-ai-anxiety-english-2026.md']
 confidence: high
 discipline: [english education]

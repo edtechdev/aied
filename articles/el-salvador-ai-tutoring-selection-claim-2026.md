@@ -3,7 +3,6 @@ title: "How much selection would be enough? Bounding the learning claim of El Sa
 type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
-tags: [educational-policy-ai, assessment-validity, educational-measurement, global-south, intelligent-tutoring, ai-ed-evaluation, equity-in-ai-education, research-methods-aied]
 technology: [intelligent-tutoring]
 assessment: [ai-ed-evaluation, assessment-validity, educational-measurement, research-methods-aied]
 stakeholders: [educational-policy-ai]

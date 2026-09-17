@@ -3,7 +3,6 @@ title: "Bots and Blocks: Presenting a Project-Based Approach for Robotics Educat
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [educational-robotics, project-based-learning, higher-ed, computational-thinking, active-learning, cs-education]
 foundations: [computational-thinking]
 pedagogy: [active-learning, project-based-learning]
 technology: [educational-robotics]

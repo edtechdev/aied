@@ -3,14 +3,13 @@ title: "Longitudinal Insights into AI in Education: Usage, Ethics, and Policy De
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-01T09:11:26-04:00"
 type: article
-tags: ["generative-ai", "teacher-education", "ai-literacy", "ethics", "educational-policy-ai", "student-experience", "academic-integrity"]
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
 stakeholders: [educational-policy-ai, student-experience]
 ethics: [ethics]
 research_method: [longitudinal survey]
 audience: [instructors, administrators]
-level: [higher ed]
+level: [higher ed, teacher training]
 sources: ["raw/papers/10.1016_j.caeo.2026.100329.md"]
 confidence: high
 ---

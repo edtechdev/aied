@@ -3,7 +3,6 @@ title: "Modeling AI Overreliance as a Complex Adaptive System"
 created: "2026-08-24T09:10:00-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
-tags: [cognitive-offloading, trust-calibration, human-ai-collaboration, agentic-ai, llm, ai-education]
 foundations: [agentic-ai, ai-education, cognitive-offloading, human-ai-collaboration]
 technology: [llm]
 ethics: [trust-calibration]

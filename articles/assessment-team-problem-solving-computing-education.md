@@ -3,7 +3,6 @@ title: Assessment in Team Problem-Solving Exercises in Computing Education
 created: "2026-07-22T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [formative-assessment, feedback, learning-analytics, stem-education, higher-ed, student-experience]
 technology: [learning-analytics]
 assessment: [feedback, formative-assessment]
 stakeholders: [student-experience]

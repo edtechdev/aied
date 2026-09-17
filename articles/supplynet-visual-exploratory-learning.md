@@ -3,7 +3,6 @@ title: "SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Co
 created: "2026-06-24T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [intelligent-tutoring, llm, generative-ai, active-learning, professional-training, simulation, visualization]
 pedagogy: [active-learning]
 technology: [generative-ai, intelligent-tutoring, llm, simulation, visualization]
 stakeholders: [professional-training]

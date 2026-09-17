@@ -3,7 +3,6 @@ title: "The Uneven Impact of Generative AI on Student Learning: Examining the Ro
 type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
-tags: [generative-ai, higher-ed, student-ai-interaction, cognitive-offloading, ai-literacy, educational-policy-ai, equity-in-ai-education, self-efficacy, critical-thinking, ai-misuse-learning-harm]
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [self-efficacy, student-ai-interaction]
 technology: [generative-ai]

@@ -3,7 +3,6 @@ title: "Social and Cognitive Drivers of Generative AI Adoption: A Unified Socio-
 created: "2026-08-18T14:55:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [technology-acceptance-model, generative-ai, engineering-education, higher-ed, student-experience, global-south, ai-literacy, equity-in-ai-education, change-management]
 foundations: [ai-literacy]
 technology: [generative-ai]
 stakeholders: [change-management, student-experience, technology-acceptance-model]

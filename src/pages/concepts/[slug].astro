@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
 import JsonLd from '../../components/JsonLd.astro';
+import MetadataTable from '../../components/MetadataTable.astro';
 import { CONCEPT_REDIRECTS } from '../../data/conceptRedirects';
 import StarButton from '../../components/StarButton.astro';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
@@ -21,6 +22,9 @@ if (CONCEPT_REDIRECTS[slug]) {
   return Astro.redirect(`/aied/concepts/${CONCEPT_REDIRECTS[slug]}/`, 301);
 }
 const allConcepts = await getCollection('concepts');
+const conceptTitles: Record<string, string> = Object.fromEntries(
+  allConcepts.map((c) => [c.id.replace('.md', ''), c.data.title]),
+);
 
 // Tag chips show the concept's own title ("Well-Being", not "well being");
 // de-slugify only as a fallback, and skip long titles to keep chips short.
@@ -50,7 +54,9 @@ const connectedFaqs = (concept.data.connected_faqs || [])
   .map(s => faqById.get(s))
   .filter((f): f is NonNullable<typeof f> => Boolean(f));
 
-const { title, tags, created, updated, research_method, discipline, audience, level, page_kind, foundations, pedagogy, technology, assessment, stakeholders, ethics } = concept.data;
+const { title, created, updated, research_method, discipline, audience, level, page_kind, foundations, pedagogy, technology, assessment, stakeholders, ethics } = concept.data;
+// JSON-LD keywords: the typed fields, which replaced the old per-page tag list.
+const metadataKeywords: string[] = [...(research_method || []), ...(discipline || []), ...(level || []), ...(audience || []), ...(foundations || []), ...(pedagogy || []), ...(technology || []), ...(assessment || []), ...(stakeholders || []), ...(ethics || []), ...(page_kind || []),];
 // Build PageFind filter facets from the structured metadata fields.
 // Emit one <meta> per name:value pair (PageFind parses only the LAST inline
 // filter in a comma-joined list, so each facet must be its own element).
@@ -98,7 +104,7 @@ if (connectedFaqs.length > 0) {
     title={title}
     created={created}
     updated={updated}
-    tags={tags}
+    keywords={metadataKeywords}
     body={body}
     connectedConceptSlugs={connectedConceptSlugs}
     connectedFaqSlugs={connectedFaqs.map((f: any) => f.id.replace('.md', ''))}
@@ -111,9 +117,6 @@ if (connectedFaqs.length > 0) {
       <div class="page-meta" style="color:var(--muted-color);font-size:0.9rem;margin-bottom:0.75rem;">
         <StarButton slug={slug} kind="concept" />
         created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
-        {(tags || []).map((tag: string, i: number) => (
-          <>{i > 0 ? ', ' : ' · '}<a class="tag-chip" href={`/aied/concepts/${tag}/`}>{tagLabel(tag)}</a></>
-        ))}
       </div>
     </div>
 
@@ -136,6 +139,7 @@ if (connectedFaqs.length > 0) {
       </section>
     )}
 
+    <MetadataTable conceptTitles={conceptTitles} data={concept.data} />
     <SourceButtons filePath={`concepts/${concept.id}.md`} />
   </article>
 </BaseLayout>

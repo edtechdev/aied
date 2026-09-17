@@ -3,7 +3,6 @@ title: "Cognitive Offloading in the Age of AI: Are Students Thinking Less or Lea
 created: "2026-08-27T08:55:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [cognitive-offloading, critical-thinking, generative-ai, student-experience, ai-literacy, self-regulated-learning]
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [self-regulated-learning]
 technology: [generative-ai]

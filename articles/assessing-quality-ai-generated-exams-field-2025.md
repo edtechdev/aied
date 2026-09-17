@@ -3,7 +3,6 @@ title: "Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study"
 created: "2026-08-16T20:02:54-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [automated-question-generation, automated-assessment, item-response-theory, assessment-validity, generative-ai, llm, higher-ed, ai-ed-evaluation]
 technology: [generative-ai, llm]
 assessment: [ai-ed-evaluation, assessment-validity, automated-assessment, automated-question-generation, item-response-theory]
 research_method: [benchmark, educational measurement, quantitative]

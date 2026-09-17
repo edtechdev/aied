@@ -1,7 +1,6 @@
 ---
 title: Mastery Learning
 type: concept
-tags: [mastery-learning, personalized-learning, adaptive-learning, assessment]
 pedagogy: [mastery-learning]
 technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]

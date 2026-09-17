@@ -3,7 +3,6 @@ title: "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Bas
 created: "2026-07-08T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [llm, intelligent-tutoring, k-12, privacy, benchmark, cs-education, feedback, scaffolding, prompt-engineering, rag]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 assessment: [benchmark, feedback]

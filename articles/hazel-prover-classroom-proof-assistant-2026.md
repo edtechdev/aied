@@ -3,7 +3,6 @@ title: "Hazel Prover: A Classroom Proof Assistant for Learning Structural Induct
 created: "2026-08-26T09:00:00-04:00"
 updated: "2026-08-26T09:00:00-04:00"
 type: article
-tags: [cs-education, math-education, scaffolding, feedback, formative-assessment, intelligent-tutoring]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring]
 assessment: [feedback, formative-assessment]

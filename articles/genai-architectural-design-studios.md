@@ -3,7 +3,6 @@ title: Development and applications of Generative AI in architectural design stu
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [generative-ai, higher-ed, student-experience, active-learning]
 pedagogy: [active-learning]
 technology: [generative-ai]
 stakeholders: [student-experience]

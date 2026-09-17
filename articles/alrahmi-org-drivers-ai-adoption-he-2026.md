@@ -3,7 +3,6 @@ title: "Exploring Organisational Drivers and Innovation Attributes of Artificial
 created: "2026-08-20T08:20:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [technology-acceptance-model, ai-education, higher-ed, governance, educational-policy-ai, administrator, change-management]
 foundations: [ai-education]
 stakeholders: [administrator, change-management, educational-policy-ai, governance, technology-acceptance-model]
 research_method: [survey]

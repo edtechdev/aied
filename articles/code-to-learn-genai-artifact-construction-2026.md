@@ -3,7 +3,6 @@ title: "Code to Learn with Generative AI: A Theoretically Grounded Framework for
 created: "2026-08-24T05:36:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [generative-ai, learning-theories, computational-thinking, self-regulated-learning, k-12, cs-education]
 foundations: [computational-thinking]
 pedagogy: [learning-theories, self-regulated-learning]
 technology: [generative-ai]

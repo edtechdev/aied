@@ -3,7 +3,6 @@ title: "New systems of learning for distance learning institutions? A six-study 
 created: "2026-08-10T17:08:30-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: article
-tags: [generative-ai, higher-ed, online-teaching-and-learning, design-based-research, governance, technology-acceptance-model, learning-analytics, privacy]
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, learning-analytics]
 assessment: [design-based-research]

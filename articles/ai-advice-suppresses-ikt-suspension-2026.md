@@ -3,7 +3,6 @@ title: "AI Advice Suppresses People's Willingness to Say \"I Don't Know\", Even 
 created: "2026-08-21T13:30:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [cognitive-offloading, metacognition, critical-thinking, ai-literacy, trust-calibration, reducing-ai-misuse, bias-mitigation, assessment, human-ai-collaboration, generative-ai]
 foundations: [ai-literacy, cognitive-offloading, critical-thinking, human-ai-collaboration, reducing-ai-misuse]
 pedagogy: [metacognition]
 technology: [generative-ai]

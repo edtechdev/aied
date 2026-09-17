@@ -4,14 +4,13 @@ created: "2026-09-16T15:25:00-04:00"
 updated: "2026-09-17T03:00:00-04:00"
 weight: 75
 type: faq
-tags: [early-childhood-elementary-ai-education, parents-and-families, k-12, ai-literacy, pedagogical-safety, privacy, social-emotional-learning, educational-policy-ai, regulation, governance]
 foundations: [ai-literacy]
 pedagogy: [social-emotional-learning]
 stakeholders: [educational-policy-ai, governance, parents-and-families, pedagogical-safety, regulation]
 ethics: [privacy]
 research_method: [literature review, experiment, systematic review]
 audience: [teachers, educators, administrators, policymakers]
-level: [early childhood, elementary]
+level: [early childhood, elementary, k 12]
 ---
 
 # How Should Parents and Teachers Approach AI with Children Under 13?

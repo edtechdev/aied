@@ -3,14 +3,13 @@ title: "Artificial intelligence perceptions and career anxiety among health scie
 created: "2026-08-25T07:48:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [ai-anxiety-and-stress, adult-learning, social-emotional-learning, higher-ed, medical-education, ai-literacy]
 foundations: [ai-literacy]
 pedagogy: [social-emotional-learning]
 stakeholders: [ai-anxiety-and-stress]
 connected_faqs: [ai-anxiety-wellbeing]
 audience: [learners]
 research_method: [survey]
-level: [higher ed]
+level: [higher ed, adult learning]
 sources: ['raw/papers/dag-ai-perceptions-career-anxiety-health-2026.md']
 confidence: high
 discipline: [medical education, nursing education]

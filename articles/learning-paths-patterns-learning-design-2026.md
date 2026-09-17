@@ -3,7 +3,6 @@ title: "Learning paths and patterns in learning design: Insights from 500+ cours
 created: "2026-09-13T11:05:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [learning-design, learning-analytics, curriculum-design, assessment, active-learning, constructivist, student-engagement, quantitative-research]
 foundations: [curriculum-design, learning-design]
 pedagogy: [active-learning, constructivist, student-engagement]
 technology: [learning-analytics]

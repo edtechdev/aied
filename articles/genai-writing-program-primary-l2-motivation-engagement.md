@@ -3,15 +3,14 @@ title: Exploring the impact of a GenAI-supported writing program on primary stud
 created: "2026-09-12T08:35:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [writing-education, language-learning, student-engagement, motivation, scaffolding, feedback, k-12, generative-ai]
 pedagogy: [motivation, scaffolding, student-engagement]
 technology: [generative-ai]
 assessment: [feedback]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [mixed methods, experiment, interviews]
 audience: [educators, teachers, curriculum designers]
-level: [elementary]
-discipline: [language learning]
+level: [elementary, k 12]
+discipline: [language learning, writing education]
 sources: ['raw/papers/genai-writing-program-primary-l2-motivation-engagement.md']
 confidence: high
 ---

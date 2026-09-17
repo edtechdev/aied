@@ -3,14 +3,13 @@ title: "Analyzing teacher-AI interaction patterns across teacher experience and 
 created: "2026-09-02T09:00:00-04:00"
 updated: "2026-09-02T09:00:00-04:00"
 type: article
-tags: [teacher-role, teacher-ai-competency, learning-design, generative-ai, human-ai-collaboration, tpack, k-12, distributed-cognition, teacher-education]
 foundations: [human-ai-collaboration, learning-design, teacher-role]
 pedagogy: [distributed-cognition]
 technology: [generative-ai]
 stakeholders: [teacher-ai-competency, tpack]
 research_method: [qualitative]
 audience: [instructors, faculty development]
-level: [k 12]
+level: [k 12, teacher training]
 sources: ['raw/papers/choi-teacher-ai-interaction-lesson-design-2026.md']
 confidence: high
 page_kind: [framework]

@@ -3,7 +3,6 @@ title: "\"Should I Tell My Teacher?\" Student AI Disclosure Practices, Stigma, a
 created: "2026-08-27T11:15:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [ai-use-disclosure, self-regulated-learning, help-seeking, academic-integrity, higher-ed, generative-ai, social-emotional-learning]
 foundations: [academic-integrity]
 pedagogy: [help-seeking, self-regulated-learning, social-emotional-learning]
 technology: [generative-ai]

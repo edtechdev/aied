@@ -3,7 +3,6 @@ title: Multimodal AI Tutoring in STEM
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [llm, intelligent-tutoring, stem-education, higher-ed, k-12, equity-in-ai-education, affective-tutoring, scaffolding, agentic-ai, visualization]
 foundations: [agentic-ai]
 pedagogy: [scaffolding]
 technology: [affective-tutoring, intelligent-tutoring, llm, visualization]

@@ -3,7 +3,6 @@ title: Learning behavior accounts for background-related advantage in AI-assiste
 created: "2026-07-14T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [generative-ai, learning-gains, personalized-learning, student-experience, equity-in-ai-education, rag]
 technology: [generative-ai, personalized-learning, rag]
 assessment: [learning-gains]
 stakeholders: [student-experience]

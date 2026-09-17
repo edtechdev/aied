@@ -3,10 +3,10 @@ title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-01T18:30:00-04:00"
 type: concept
-tags: [humanities-education, history-of-aied, philosophy-of-ai-in-education, critical-thinking, ai-literacy, higher-ed]
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
+discipline: [humanities education]
 ---
 
 > **Humanities and Social Science (SSH) Education** — the [[teacher-role|teaching]] of disciplines concerned with human culture, values, meaning, and social life, including history, philosophy, literature, languages, sociology, and the arts. AI in SSH education raises distinctive questions because these fields center on interpretation, critical judgment, authorship, and meaning-making — processes that [[generative-ai|generative AI]] both supports and disrupts. AI here functions less as a tutor of factual content and more as an epistemic mediator that reshapes how students interpret texts, construct arguments, and understand their own [[agency]] as writers and thinkers.

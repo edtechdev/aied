@@ -3,7 +3,6 @@ title: "Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated 
 created: "2026-08-27T06:30:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [self-regulated-learning, help-seeking, llm, higher-ed, stem-education, qualitative-research]
 pedagogy: [help-seeking, self-regulated-learning]
 technology: [llm]
 assessment: [qualitative-research]

@@ -3,7 +3,6 @@ title: Characterizing Students' LLM Usage Behaviors and Their Association with L
 created: "2026-05-15T04:33:04-04:00"
 updated: "2026-09-16T17:12:13-04:00"
 type: article
-tags: [higher-ed, student-experience, llm, generative-ai, learning-analytics, ai-literacy, educational-development, scaffolding]
 foundations: [ai-literacy, educational-development]
 pedagogy: [scaffolding]
 technology: [generative-ai, learning-analytics, llm]

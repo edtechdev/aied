@@ -3,7 +3,6 @@ title: "MBP-KT: Learning Global Collaborative Information from Meta-Behavioral P
 created: "2026-05-13T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [knowledge-tracing, learning-analytics, student-experience, adaptive-learning]
 technology: [adaptive-learning, knowledge-tracing, learning-analytics]
 stakeholders: [student-experience]
 research_method: [system development, benchmark]

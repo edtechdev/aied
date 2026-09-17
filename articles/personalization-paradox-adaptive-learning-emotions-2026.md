@@ -3,7 +3,6 @@ title: "The Personalization Paradox: AI-Adaptive Learning Environments, Academic
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-16T14:10:00-04:00"
 type: article
-tags: [adaptive-learning, ai-literacy, self-regulated-learning, personalized-learning, metacognition, agency, motivation]
 foundations: [agency, ai-literacy]
 pedagogy: [metacognition, motivation, self-regulated-learning]
 technology: [adaptive-learning, personalized-learning]

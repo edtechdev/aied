@@ -3,7 +3,6 @@ title: Arts, Design and Media Education
 created: "2026-09-16T14:29:36-04:00"
 updated: "2026-09-17T14:13:57-04:00"
 type: concept
-tags: [creativity, design-thinking, project-based-learning, multimodal, authentic-assessment, embodied-learning, higher-ed]
 foundations: [design-thinking]
 pedagogy: [creativity, embodied-learning, project-based-learning]
 technology: [multimodal]

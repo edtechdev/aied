@@ -3,7 +3,6 @@ title: "Transforming clicks into critical thinking: An AI-based media literacy p
 created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [critical-thinking, ai-literacy, early-childhood-elementary-ai-education, k-12, mixed-methods-research, generative-ai, curriculum-design, ethics]
 foundations: [ai-literacy, critical-thinking, curriculum-design]
 technology: [generative-ai]
 assessment: [mixed-methods-research]
@@ -11,7 +10,7 @@ ethics: [ethics]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [mixed methods, quasi-experiment]
 audience: [educators, learners]
-level: [k 12]
+level: [k 12, early childhood]
 sources: ['raw/papers/demir-akar-ai-media-literacy-children-2026.md']
 confidence: high
 ---

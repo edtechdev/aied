@@ -3,7 +3,6 @@ title: "Modelling Generative AI's Influence on Students' Perceived Decision Capa
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
-tags: ["generative-ai", "cognitive-psychology", "business-education", "technology-acceptance-model", "trust", "self-efficacy"]
 pedagogy: [cognitive-psychology, self-efficacy]
 technology: [generative-ai]
 stakeholders: [technology-acceptance-model]

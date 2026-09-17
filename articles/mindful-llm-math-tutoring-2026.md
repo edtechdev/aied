@@ -3,7 +3,6 @@ title: "Beyond Problem Solving: Large Language Models for Emotional and Reflecti
 created: "2026-09-03T09:00:00-04:00"
 updated: "2026-09-03T09:00:00-04:00"
 type: article
-tags: [intelligent-tutoring, math-education, generative-ai, pedagogical-agent, affective-computing, well-being, k-12, llm]
 pedagogy: [well-being]
 technology: [affective-computing, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 sources: ['raw/papers/mindful-llm-math-tutoring-2026.md']
@@ -11,7 +10,7 @@ confidence: high
 research_method: [experiment, quantitative]
 discipline: [math education]
 audience: [educators, edtech designers, instructional designers]
-level: [secondary]
+level: [secondary, k 12]
 ---
 
 > **Synthesis:** Rief et al. (2026) extend an [[intelligent-tutoring]] system for algebra — "Math with Matt" — beyond purely cognitive [[scaffolding]] by adding an LLM-driven socio-emotional layer that targets [[math-education|math]] anxiety. The mindful version pairs a [[pedagogical-agent]] chat with context-sensitive emotional support and guided breathing with mindful feedback and hint messages (not merely evaluative). In a classroom study with 252 seventh graders (42 retained after disruptions), the [[generative-ai|tool]] reduced executive state-math anxiety and improved learning overall, but no significant differences emerged between the mindful and cognitive-only conditions. However, students in the mindful condition reached comparable learning with less time and fewer requested hints — higher learning efficiency and more balanced problem solving — and rated the agent as more supportive and caring. The study positions [[llm|LLMs]] as a scalable, adaptive socio-emotional layer inside cognitive math tutoring, without requiring specialized instructor training.

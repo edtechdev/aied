@@ -3,14 +3,13 @@ title: "Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micr
 created: "2026-09-15T10:30:00-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
-tags: [intelligent-tutoring, rct, learning-gains, edtech-platform, science-education, chemistry-education, biology-education, physics-education, ai-ed-evaluation, assessment]
 technology: [intelligent-tutoring]
 assessment: [ai-ed-evaluation, assessment, learning-gains, rct]
 stakeholders: [edtech-platform]
 sources: ['raw/papers/ai-tutoring-micro-rct-gcse-science-2026.md']
 confidence: high
 research_method: [randomized controlled trial, mixed methods]
-discipline: [science education]
+discipline: [science education, biology education, chemistry education, physics education]
 audience: [educators, researchers, teachers]
 level: [secondary, k 12]
 page_kind: [evaluation]

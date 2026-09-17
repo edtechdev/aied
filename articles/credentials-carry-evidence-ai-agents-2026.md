@@ -3,7 +3,6 @@ title: "Credentials That Carry Their Evidence: Credential design, dynamic tierin
 created: "2026-08-24T09:10:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [assessment, academic-integrity, higher-ed, edtech-platform, generative-ai, agentic-ai]
 foundations: [academic-integrity, agentic-ai]
 technology: [generative-ai]
 assessment: [assessment]

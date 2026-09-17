@@ -3,7 +3,6 @@ title: "The Illusion of Cognitive Independence in the Age of Generative AI: Unpa
 created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-16T14:10:00-04:00"
 type: article
-tags: [ai-literacy, cognitive-offloading, higher-ed, student-engagement, self-regulated-learning]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [self-regulated-learning, student-engagement]
 audience: [instructors, researchers, learning designers]

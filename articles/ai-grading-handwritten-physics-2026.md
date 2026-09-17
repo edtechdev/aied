@@ -3,7 +3,6 @@ title: "Large Scale AI Grading of Handwritten Physics Assessments: Score Agreeme
 created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
-tags: [automated-assessment, physics-education, assessment-validity, llm, multimodal, summative-assessment]
 technology: [llm, multimodal]
 assessment: [assessment-validity, automated-assessment, summative-assessment]
 research_method: [educational measurement]

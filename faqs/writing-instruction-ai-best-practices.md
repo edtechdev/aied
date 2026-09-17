@@ -2,11 +2,11 @@
 title: "What Are Best Practices for Writing Instruction in the Context of AI?"
 created: "2026-09-12T08:13:03-04:00"
 updated: "2026-09-17T02:26:00-04:00"
-tags: [writing-education, cognitive-offloading, academic-integrity, feedback-literacy, ai-feedback-quality, ai-use-disclosure, assessment-validity, peer-assessment, humanities-education, engineering-education, multilingual-learning, evaluative-judgement]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgement, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
+discipline: [engineering education, humanities education, writing education]
 ---
 
 This FAQ is written for instructors who have to decide, course by course and assignment by assignment, what AI should be allowed to do in student writing. It draws on the [[ai-education|AI in Education]] knowledge base, especially its syntheses of [[writing-education|AI in writing education]], [[cognitive-offloading|Cognitive Offloading]], [[ai-feedback-quality|AI Feedback Quality]], [[feedback-literacy|Feedback Literacy]], and [[academic-integrity|Academic Integrity]].

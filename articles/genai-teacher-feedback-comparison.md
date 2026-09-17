@@ -3,7 +3,6 @@ title: "Comparing Generative AI and teacher feedback: student perceptions of use
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [generative-ai, feedback, student-experience, higher-ed, ai-literacy, student-engagement]
 foundations: [ai-literacy]
 pedagogy: [student-engagement]
 technology: [generative-ai]

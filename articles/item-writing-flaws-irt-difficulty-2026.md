@@ -4,7 +4,6 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/item-writing-flaws-irt-difficulty-2026.md"]
-tags: ['item-response-theory', 'educational-measurement', 'llm', 'automated-assessment', 'assessment-validity']
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium

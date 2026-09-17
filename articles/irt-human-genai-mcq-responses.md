@@ -3,7 +3,6 @@ title: "Applying IRT to distinguish between human and generative AI responses to
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
-tags: [item-response-theory, academic-integrity, generative-ai, llm, assessment]
 foundations: [academic-integrity]
 technology: [generative-ai, llm]
 assessment: [assessment, item-response-theory]

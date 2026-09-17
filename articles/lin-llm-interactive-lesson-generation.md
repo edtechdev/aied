@@ -3,7 +3,6 @@ title: "Automatic Large Language Models Creation of Interactive Learning Lessons
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [llm, generative-ai, prompt-engineering, rag, learning-design, curriculum-design, professional-training, intelligent-tutoring, math-education, human-ai-collaboration]
 foundations: [curriculum-design, human-ai-collaboration, learning-design]
 technology: [generative-ai, intelligent-tutoring, llm, prompt-engineering, rag]
 stakeholders: [professional-training]

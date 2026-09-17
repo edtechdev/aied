@@ -3,7 +3,6 @@ title: "Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach to Fo
 created: "2026-08-13T17:54:24-04:00"
 updated: "2026-08-13"
 type: article
-tags: [ai-feedback-quality, writing-education, formative-assessment, ai-literacy, student-experience, peer-assessment, self-regulated-learning, academic-integrity, metacognition]
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
 assessment: [ai-feedback-quality, formative-assessment, peer-assessment]

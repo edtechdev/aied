@@ -3,7 +3,6 @@ title: "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conve
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [llm, generative-ai, assessment, automated-assessment, assessment-validity, scaffolding, learning-theories, sociocultural-learning, intelligent-tutoring]
 pedagogy: [learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai, intelligent-tutoring, llm]
 assessment: [assessment, assessment-validity, automated-assessment]

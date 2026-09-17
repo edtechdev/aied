@@ -3,7 +3,6 @@ title: "Against frictionless AI"
 created: "2026-09-11T12:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [desirable-difficulties, cognitive-offloading, ai-sycophancy, well-being, motivation, generative-ai, metacognition, social-emotional-learning, higher-ed, cognitive-psychology]
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, metacognition, motivation, social-emotional-learning, well-being]
 technology: [generative-ai]
@@ -14,6 +13,7 @@ audience: [researchers, educators, policymakers]
 page_kind: [framework]
 sources: ['raw/papers/zohar-bloom-inzlicht-against-frictionless-ai-2026.md']
 confidence: high
+level: [higher ed]
 ---
 
 > **Synthesis:** Zohar, Bloom and Inzlicht (2026) argue that AI's headline benefit — removing friction from work and relationships — is also its liability. Friction here means the experience of difficulty during goal pursuit, "often accompanied by negative feelings like frustration and corrective feedback," and their claim is that it enhances learning, generates meaning and pleasure, and makes us better people. Because AI does not merely remove tedious obstacles but also strips away *beneficial* friction — moving a learner from ideation to evaluation "without questioning the output" — it threatens the moderate struggles that drive growth. Two mechanisms carry the argument: the inverted-U between effort and meaning (moderate friction helps, excessive friction overwhelms, and AI risks overshooting into too little) and the treatment of loneliness as a **[[biology-education|biological]] signal** rather than only an affliction, which AI companions soothe in a way that also silences the drive to build harder, more sustaining relationships. Their conclusion is developmental rather than absolute: the concern "is not AI itself but our relationship with it," and whether assistance functions as a supplement or a substitute depends on the learner's stage.

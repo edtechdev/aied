@@ -3,7 +3,6 @@ title: "Enhancing enthusiasm for STEM education with AI: Domain-specific chatbot
 created: "2026-09-16T09:14:31-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [stem-education, math-education, rct, technology-acceptance-model, personalized-learning, student-engagement, motivation, socratic-method, rag, cognitive-offloading, k-12]
 foundations: [cognitive-offloading]
 pedagogy: [motivation, socratic-method, student-engagement]
 technology: [personalized-learning, rag]

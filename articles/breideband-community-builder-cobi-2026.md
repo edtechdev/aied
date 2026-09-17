@@ -3,17 +3,6 @@ title: "A Feasibility and Implementation Integrity Study of the Community Builde
 created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags:
-  - collaborative-learning
-  - k-12
-  - human-in-the-loop-ai
-  - student-ai-interaction
-  - edtech-platform
-  - teacher-role
-  - visualization
-  - privacy
-  - design-based-research
-  - professional-training
 
 foundations: [teacher-role]
 pedagogy: [collaborative-learning, student-ai-interaction]

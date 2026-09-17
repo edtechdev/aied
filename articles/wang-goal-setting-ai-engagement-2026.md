@@ -3,7 +3,6 @@ title: "Explaining learning engagement in AI-assisted learning through teacher s
 created: "2026-08-25T12:40:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [motivation, student-engagement, language-learning, english-education, higher-ed, self-regulated-learning, teacher-role]
 foundations: [teacher-role]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
 research_method: [survey]

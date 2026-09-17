@@ -3,7 +3,6 @@ title: "When AI Wears Many Hats: The Role of Generative Artificial Intelligence 
 created: "2026-08-05T04:33:04-04:00"
 updated: "2026-09-17T07:48:05-04:00"
 type: article
-tags: [generative-ai, higher-ed, pedagogy, learning-design, teacher-role, professional-training, ethics]
 foundations: [learning-design, teacher-role]
 pedagogy: [pedagogy]
 technology: [generative-ai]

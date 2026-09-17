@@ -149,12 +149,10 @@ python3 tooling/scripts/generate-llms-files.py
 # Validate the concept registry against concepts/ and the generated views
 python3 tooling/scripts/check_concepts.py
 
-# Derive the typed facet fields (pedagogy, technology, ...) from each page's concept tags.
-# The values are concept slugs filed under a section of concepts.registry.yaml, so this is a
-# lookup, not a judgement call, and it is also a gate: `npm run verify` fails when a page's
-# facets are out of sync with its tags.
-python3 tooling/scripts/derive-facets.py            # report drift (exit 1 if any)
-python3 tooling/scripts/derive-facets.py --apply    # write the facet fields
+# Validate the typed facet fields (pedagogy, technology, ...). Each field holds concept
+# slugs filed under one section of concepts.registry.yaml, so a value of the wrong kind is
+# an error. This is a gate: `npm run verify` fails if any page disagrees with the registry.
+python3 tooling/scripts/validate-facets.py
 
 # Check the structured metadata fields (research_method, discipline, audience, level, category)
 # against the closed vocabularies in src/content.config.ts. Reports coverage per collection and

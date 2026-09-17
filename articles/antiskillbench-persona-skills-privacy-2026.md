@@ -3,7 +3,6 @@ title: "When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation
 created: "2026-08-05T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
-tags: [privacy, agentic-ai, student-ai-interaction, bias-mitigation, personalized-learning, benchmark, rag]
 foundations: [agentic-ai]
 pedagogy: [student-ai-interaction]
 technology: [personalized-learning, rag]

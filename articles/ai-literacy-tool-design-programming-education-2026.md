@@ -3,7 +3,6 @@ title: "AI literacy over tool design: a mixed-methods study of scaffolded versus
 created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [ai-literacy, scaffolding, generative-ai, cs-education, self-regulated-learning, mixed-methods-research, ai-misuse-learning-harm, higher-ed]
 foundations: [ai-literacy]
 pedagogy: [scaffolding, self-regulated-learning]
 technology: [generative-ai]

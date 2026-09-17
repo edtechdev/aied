@@ -3,7 +3,6 @@ title: "Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cogni
 created: "2026-09-04T09:05:00-04:00"
 updated: "2026-09-04T09:05:00-04:00"
 type: article
-tags: [cognitive-diagnosis, privacy, llm, trust-calibration, generative-ai, adaptive-learning]
 technology: [adaptive-learning, cognitive-diagnosis, generative-ai, llm]
 ethics: [privacy, trust-calibration]
 sources: ['raw/papers/2609.02947.md']

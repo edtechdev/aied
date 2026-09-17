@@ -3,7 +3,6 @@ title: "CourseGraph: Finding overlaps and differences in Computer Science course
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [cs-education, curriculum-design, edtech-platform, student-experience, higher-ed, administrator]
 foundations: [curriculum-design]
 stakeholders: [administrator, edtech-platform, student-experience]
 research_method: [system development]
@@ -12,7 +11,6 @@ audience: [learners, administrators]
 level: [higher ed]
 sources: ['raw/papers/2608.05910.md']
 confidence: medium
-
 ---
 
 > **Synthesis:** This paper presents CourseGraph, a methodology for automatically evaluating external course equivalences by modeling course content as structured knowledge graphs. Designed for student mobility programs like Erasmus+, CourseGraph extracts topics from course descriptions, maps relationships between concepts, and identifies substantive overlap vs. complementarity between courses at different universities. The system mimics the manual workflow of [[curriculum-design|curriculum]] advisors — analyzing syllabi, comparing learning objectives, and flagging redundancies — but scales to thousands of course pairs. Evaluation on CS programs across multiple European universities demonstrates that CourseGraph's overlap judgments align closely with expert advisor decisions while dramatically reducing processing time.

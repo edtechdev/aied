@@ -3,7 +3,6 @@ title: "Learning Engagement Assistant (LEA): Cross-Course Scalability and Classr
 created: "2026-07-16T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [llm, generative-ai, intelligent-tutoring, higher-ed, stem-education, formative-assessment, benchmark, knowledge-tracing, personalized-learning, rag]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, llm, personalized-learning, rag]
 assessment: [benchmark, formative-assessment]
 audience: [software developers]

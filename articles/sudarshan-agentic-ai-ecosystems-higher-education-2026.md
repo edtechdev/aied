@@ -3,13 +3,12 @@ title: "Agentic AI Ecosystems in Higher Education: A Perspective on Emerging Inc
 created: "2026-09-04T15:37:39-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 type: article
-tags: [agentic-ai, higher-ed, special-education, inclusive-learning, equity-in-ai-education, universal-design-for-learning, human-in-the-loop-ai, learning-analytics, intelligent-tutoring, llm, assistive-technology, neurodiversity]
 foundations: [agentic-ai]
 technology: [human-in-the-loop-ai, intelligent-tutoring, learning-analytics, llm]
 ethics: [assistive-technology, equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
 research_method: [position paper, thematic analysis]
 audience: [administrators, instructors, researchers, instructional designers]
-level: [higher ed]
+level: [higher ed, special education]
 sources: ['raw/papers/sudarshan-agentic-ai-ecosystems-higher-education-2026.md']
 confidence: medium
 page_kind: [framework]

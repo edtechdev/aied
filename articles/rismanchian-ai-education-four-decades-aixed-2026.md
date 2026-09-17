@@ -3,7 +3,6 @@ title: "The Evolution of Research on AI and Education Across Four Decades: Insig
 created: "2026-09-03T12:00:00-04:00"
 updated: "2026-09-03T12:00:00-04:00"
 type: article
-tags: [ai-education, history-of-aied, theory-development-aied, research-methods-aied, generative-ai, llm, intelligent-tutoring, ai-literacy]
 foundations: [ai-education, ai-literacy, history-of-aied, theory-development-aied]
 technology: [generative-ai, intelligent-tutoring, llm]
 assessment: [research-methods-aied]

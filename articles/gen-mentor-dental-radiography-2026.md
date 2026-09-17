@@ -3,7 +3,6 @@ title: "Gen-Mentor: A Human-in-the-Loop Instructional Framework for Dental Radio
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
-tags: ["medical-education", "generative-ai", "human-in-the-loop-ai", "discipline-specific-aied", "simulation", "llm"]
 technology: [generative-ai, human-in-the-loop-ai, llm, simulation]
 research_method: [design and evaluation study]
 audience: [medical educators, researchers, designers]

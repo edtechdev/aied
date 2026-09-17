@@ -3,7 +3,6 @@ title: "Trust and Reliance on AI in Education: AI Literacy and Need for Cognitio
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [ai-literacy, cognitive-offloading, cs-education, student-ai-interaction, metacognition, rag, llm, agentic-ai]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, student-ai-interaction]
 technology: [llm, rag]

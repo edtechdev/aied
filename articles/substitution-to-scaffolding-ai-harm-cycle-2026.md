@@ -3,7 +3,6 @@ title: "From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cyc
 created: "2026-08-19T09:30:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
-tags: [cognitive-offloading, scaffolding, agency, ethics, reducing-ai-misuse, desirable-difficulties, critical-thinking, ai-literacy, human-ai-collaboration, generative-ai]
 foundations: [agency, ai-literacy, cognitive-offloading, critical-thinking, human-ai-collaboration, reducing-ai-misuse]
 pedagogy: [desirable-difficulties, scaffolding]
 technology: [generative-ai]

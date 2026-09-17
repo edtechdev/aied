@@ -4,7 +4,6 @@ created: "2026-08-13T19:55:03-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
-tags: [authentic-assessment, assessment, assessment-validity, formative-assessment, self-regulated-learning, academic-integrity, generative-ai, higher-ed, metacognition]
 foundations: [academic-integrity]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]

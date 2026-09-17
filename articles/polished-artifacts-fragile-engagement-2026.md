@@ -3,7 +3,6 @@ title: '"Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduc
 created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-24T10:30:00-04:00"
 type: article
-tags: [generative-ai, collaborative-learning, cognitive-offloading, metacognition, critical-thinking, ai-education]
 foundations: [ai-education, cognitive-offloading, critical-thinking]
 pedagogy: [collaborative-learning, metacognition]
 technology: [generative-ai]

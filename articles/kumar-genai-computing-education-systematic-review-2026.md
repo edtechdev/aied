@@ -3,7 +3,6 @@ title: "Generative AI in computing education: A systematic review and a framewor
 created: "2026-09-11T11:35:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-tags: [cs-education, generative-ai, meta-analysis-systematic-review, assessment-validity, academic-integrity, equity-in-ai-education, scaffolding, ai-literacy, cognitive-offloading, higher-ed, assessment]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding]
 technology: [generative-ai]

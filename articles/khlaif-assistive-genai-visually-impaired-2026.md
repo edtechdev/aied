@@ -3,7 +3,6 @@ title: "Assistive Generative AI for Visually Impaired Learners: Personalization 
 created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-tags: [generative-ai, accessibility, inclusive-learning, assistive-technology, equity-in-ai-education, higher-ed, qualitative-research, global-south]
 technology: [generative-ai]
 assessment: [qualitative-research]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, global-south, inclusive-learning]

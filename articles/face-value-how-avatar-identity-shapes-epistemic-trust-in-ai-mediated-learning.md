@@ -3,7 +3,6 @@ title: "Face value: How avatar identity shapes epistemic trust in AI-mediated le
 created: "2026-08-10T17:08:30-04:00"
 updated: "2026-08-24T19:35:00-04:00"
 type: article
-tags: [bias-mitigation, agentic-ai, language-learning, agency, ai-education, intelligent-tutoring, trust-calibration, human-ai-collaboration, inclusive-learning]
 foundations: [agency, agentic-ai, ai-education, human-ai-collaboration]
 technology: [intelligent-tutoring]
 ethics: [bias-mitigation, inclusive-learning, trust-calibration]

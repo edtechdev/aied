@@ -3,14 +3,13 @@ title: Generative AI Literacy Training Improves Intelligence Analysts’ Discrim
 created: "2026-06-30T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-tags: [ai-literacy, equity-in-ai-education, generative-ai, higher-ed, professional-training, llm, regulation]
 foundations: [ai-literacy]
 technology: [generative-ai, llm]
 stakeholders: [professional-training, regulation]
 ethics: [equity-in-ai-education]
 audience: [instructors]
 research_method: [experiment, system development]
-level: [adult learning]
+level: [adult learning, higher ed]
 sources: ['raw/papers/2606.28510.md']
 confidence: high
 page_kind: [evaluation]
