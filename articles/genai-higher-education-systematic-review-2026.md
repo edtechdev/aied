@@ -7,7 +7,7 @@ tags: [generative-ai, higher-ed, meta-analysis-systematic-review, assessment, pe
 audience: [researchers, administrators, instructors]
 research_method: [systematic review]
 level: [higher ed]
-category: [assessment]
+category: [synthesis, framework]
 sources: ['raw/papers/genai-higher-education-systematic-review-2026.md']
 confidence: high
 

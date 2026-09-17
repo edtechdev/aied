@@ -10,6 +10,7 @@ discipline: [cs education]
 category: [assessment]
 sources: ['raw/papers/harmogen-ai-assessment-rubric-generation.md']
 confidence: high
+level: [higher ed]
 ---
 
 > **Synthesis:** Mendonça and colleagues (2026) introduced HARMOGEN-R (Hybrid Assessment Rubric Model Generation with Reasoning), a two-stage framework that uses reasoning-enhanced [[llm|Large Language Models]] for initial [[assessment|assessment rubric]] generation and standard models for synthesis. Using a within-subjects design, they compared four AI-generated rubrics (structured vs free-form, OpenAI vs DeepSeek) with a human-created baseline across 308 open-ended responses from three [[formative-assessment|formative]] programming assignments in an [[higher-ed|undergraduate]] [[cs-education|computer science]] course. When applied by human evaluators, all AI-generated rubrics met pooled equivalence within an operational ±5-point margin, with correlations 0.948–0.973; in automated evaluation, equivalence depended on the evaluator model (DeepSeek V3 consistent, GPT-4.1/GPT-4o systematically harsher), and open-weight rubrics matched proprietary ones in most conditions. The findings indicate AI-generated rubrics can achieve scoring comparability with human-created rubrics for technical content, though outcomes depend on rubric format, evaluator model, and context — and concern scoring comparability rather than broader rubric validity.

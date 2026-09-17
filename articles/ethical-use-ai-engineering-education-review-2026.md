@@ -10,6 +10,7 @@ audience: [faculty development]
 level: [higher ed]
 sources: ['raw/papers/ethical-use-ai-engineering-education-review-2026.md']
 confidence: high
+category: [synthesis, policy]
 ---
 
 > **Synthesis:** Osunbunmi and colleagues (2026) present a PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of empirical studies on the ethical use of AI in undergraduate engineering education, moving beyond conceptual discussions of [[ethics|AI ethics]] to examine how ethical guidance is actually enacted in instructional practice. From 2,158 records they retained 99 empirical studies, coding them for core ethical principles and identifying seven recurring forms of ethical guidance: transparency and disclosure of AI use; faculty–[[student-experience|student accountability]] and [[human-in-the-loop-ai|human oversight]]; designing for student independence and agency; privacy and data protection; [[academic-integrity]] and authorship; fairness, [[equity-in-ai-education|equity]], and [[bias-mitigation|bias mitigation]]; and beneficence. The review finds a consistent pattern — ethical AI guidance in engineering education is predominantly student-facing and compliance-oriented (centered on [[academic-integrity|academic integrity]] and disclosure), while reciprocal accountability for faculty AI use and [[governance|institutional]] responsibility remains comparatively underdeveloped — and calls for a more balanced, practice-oriented approach to responsible AI integration.

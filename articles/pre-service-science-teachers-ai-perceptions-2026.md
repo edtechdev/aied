@@ -10,6 +10,7 @@ discipline: [science education]
 level: [higher ed, teacher training]
 sources: ['raw/papers/pre-service-science-teachers-ai-perceptions-2026.md']
 confidence: high
+category: [evaluation]
 ---
 
 > **Synthesis:** Amponsah et al. (2026) examine pre-service science teachers' perceptions, acceptance, and use of [[generative-ai|artificial intelligence]] in [[stem-education|science education]] programs in Ghana, guided by the [[technology-acceptance-model|Unified Theory of Acceptance and Use of Technology (UTAUT)]] and the Theory of Planned Behavior. Drawing on questionnaire data from 380 pre-service science teachers, they find generally positive perceptions of AI — with participants recognizing its potential to improve teaching — favorable effort expectancy, and strong behavioral intentions to use AI in future lessons, yet only moderate actual classroom use. ChatGPT emerged as the most widely used tool (69% reported frequent use). The authors conclude that effective AI integration depends on closing the gap between favorable attitudes and actual practice, and on addressing [[teacher-education|teacher preparation]].

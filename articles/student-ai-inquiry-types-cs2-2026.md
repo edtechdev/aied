@@ -4,12 +4,13 @@ created: "2026-08-20T02:55:00-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [student-ai-interaction, cs-education, llm, prompt-engineering, higher-ed, student-experience, learning-analytics, generative-ai, intelligent-tutoring, cognitive-offloading, problem-solving]
-research_method: [survey, learning analytics]
+research_method: [learning analytics, quantitative]
 discipline: [cs education]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2608.17919.md']
 confidence: high
+category: [instructional design, equity]
 ---
 
 > **Synthesis:** This study analyzes the **types of questions** students ask [[generative-ai|generative AI]] systems during programming problem solving, classifying 830 interactions of CS2 students across two tasks using the Graesser et al. 18-type inquiry taxonomy via a [[llm|few-shot]] classifier. It finds that a small subset of question types — chiefly assertion, verification, and instrumental/procedural prompts — accounts for the majority of student inquiries, and that the types of questions students ask shift substantially as a task progresses, from confusion-reporting toward more directive, procedural use. A second, descriptive finding distinguishes first-generation from continuing-generation students: continuing-generation students treated the AI as an active [[problem-solving]] partner, while first-generation students adopted a more confirmatory, validation-oriented role and asked fewer questions overall. The work connects [[cs-education]], [[prompt-engineering]], and [[learning-analytics]] to the under-explored question of what students actually ask AI, with implications for [[intelligent-tutoring]] design, [[help-seeking]] scaffolds, and the cognitive character of [[cognitive-offloading|over-reliance]] on AI.

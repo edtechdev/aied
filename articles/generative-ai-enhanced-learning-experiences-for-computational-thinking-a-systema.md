@@ -10,6 +10,7 @@ level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema.md']
 confidence: high
+audience: [educators, instructional designers, researchers]
 ---
 
 > **Synthesis:** Ouaazki, Shibani, Knight, and Holzer conduct a systematic [[meta-analysis-systematic-review|scoping review]] of studies (screened from 1,198 initial results) examining how [[generative-ai|Generative AI]] is used to support the [[teacher-role|teaching]] of [[computational-thinking|computational thinking]] (CT), and derive design guidelines. The field is young but rapidly growing: most interventions target undergraduate students on basic programming tasks, often using off-the-shelf tools with limited integration. GenAI typically plays one of four roles — **coder, tutor, debugger, or ideator** — with mixed effects on [[learning-gains|learning outcomes]]. A central challenge is the tension between **overreliance by beginners**, who may offload thinking to GenAI, and **under-utilization by advanced learners** in complex projects. Seven design guidelines distill how to integrate GenAI for CT effectively while minimizing risks.

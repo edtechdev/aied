@@ -6,11 +6,12 @@ type: article
 tags: [academic-integrity, ai-literacy, higher-ed, learning-design, assessment, generative-ai, ai-education, ethics]
 connected_faqs: [course-ai-policy]
 audience: [instructors]
-research_method: [theoretical analysis]
+research_method: [case study]
 level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/2608.05175.md']
 confidence: high
+discipline: [cs education]
 ---
 
 > **Synthesis:** This experience report by Yusuf Pisan describes the redesign of CSS 382, an introductory [[ai-education|artificial intelligence]] course at the University of Washington Bothell, in response to large language models being able to complete most of its assignments. Rather than freeze the [[curriculum-design|curriculum]], the redesign retained the classical core (search, adversarial search, Markov decision processes, [[reinforcement-learning|reinforcement learning]]) and added a strand in which students build an [[llm|LLM]] from scratch, so that a tool they are required to use is also one they are required to understand. [[assessment|Assessment]] was rebuilt around work that resists unattributed automation — [[active-learning|in-class exercises]], reflective writing, and a defended team project — with [[summative-assessment|examinations]] removed entirely, and the [[educational-policy-ai|AI policy]] inverted from unmentioned in 2023 to required in 2026. The centerpiece is a participatory [[ethics]] sequence in which a cohort of students deliberated on and endorsed a "Student Bill of AI Rights" governing the [[teacher-role|instructor]]'s own use of AI, including a requirement that the instructor personally complete any AI-generated assignment before issuing it. The design, the student-authored artifacts, and the resulting tensions are reported with explicit attention to the limits of a single-cohort [[limitations-in-aied-research|experience-report]] design narrative. The work contributes to understanding of [[academic-integrity]] in [[higher-ed|educational contexts]], with implications for [[ai-literacy]], [[assessment]], and [[governance]].

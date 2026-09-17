@@ -10,6 +10,7 @@ discipline: [writing education]
 level: [k 12]
 sources: ['raw/papers/tzirides-thinking-through-ai-2025.md']
 confidence: high
+category: [framework, instructional design, engagement]
 ---
 
 > **Synthesis:** Tzirides, Galla, Cope & Kalantzis (2025) introduce the "Thinking Through AI" framework, a [[research-methods-aied|methodological]] approach that fuses cognitive labs, think-aloud protocols, and cyber-social research to study how learners engage with AI tools. Built on three core dimensions—students' cognitive engagement, educators' [[pedagogy|pedagogical]] strategies, and the concurrent design of AI tools and learning experiences via Learning Experience Research (LXR)—the framework positions educators, learners, and developers as co-creators in AI tool design. A one-time implementation of the CGScholar AI Helper with 30 [[k-12|middle school]] students at a rural Alaska school demonstrated how rubric-based [[ai-feedback-quality|AI feedback]] can enhance [[writing-education]] while actively engaging students in the refinement of AI systems rather than passively offloading cognition to them.

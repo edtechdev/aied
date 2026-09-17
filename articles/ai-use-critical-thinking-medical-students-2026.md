@@ -11,6 +11,7 @@ level: [higher ed]
 
 sources: ['raw/papers/10.3389_fpsyg.2026.1883053.md']
 confidence: high
+category: [evaluation, engagement]
 ---
 
 > **Synthesis:** Arshad et al. (2026) examined how AI-based educational technology influences critical thinking among 480 undergraduate medical students in Pakistan, using a cross-sectional design and Hayes' PROCESS Model 14. They found that AI use was positively associated with critical thinking and self-regulated learning, while cognitive load negatively related to both. Cognitive load partially mediated the AI-use→critical-thinking link, and self-regulated learning significantly moderated that indirect effect — the negative impact of cognitive load on critical thinking weakened at higher levels of self-[[regulation]]. The study argues that AI's effectiveness for higher-order thinking depends not only on the cognitive support AI provides but on learners' capacity to regulate their [[student-engagement|engagement]].

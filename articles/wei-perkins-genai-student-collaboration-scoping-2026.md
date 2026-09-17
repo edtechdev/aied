@@ -8,7 +8,7 @@ connected_faqs: [group-work-ai]
 audience: [learners, instructors]
 research_method: [systematic review]
 level: [higher ed]
-category: [assessment]
+category: [collaborative learning, synthesis]
 sources: ['raw/papers/wei-perkins-genai-student-collaboration-scoping-2026.md']
 confidence: high
 ---

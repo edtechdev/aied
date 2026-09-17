@@ -10,6 +10,7 @@ audience: [instructors]
 level: [higher ed, k 12]
 sources: ['raw/papers/white-wu-robotics-ai-education-2026.md']
 confidence: high
+category: [synthesis, policy, equity]
 ---
 
 > **Synthesis:** White & Wu (2026) critically examine the integration of AI and robotics into education, arguing that while transformative potential exists at all levels, effective and equitable integration requires sustained structural investment, coherent [[educational-policy-ai|policy]], rigorous [[teacher-ai-competency|teacher preparation]], and [[ethics|ethical]] practice. The review — grounded in peer-reviewed literature and structured around research trends, AI literacy, teaching roles, learning outcomes, STEM education, and ethics — finds that the field has moved faster than its evidence base. Research remains geographically concentrated, methodologically short-term, and insufficiently attentive to [[equity-in-ai-education|equity]], human-centered design, and the broader social implications of [[ai-technologies|automation]] in education.

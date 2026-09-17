@@ -11,6 +11,7 @@ level: [early childhood, k 12]
 category: [assessment]
 sources: ['raw/papers/tsingidou-ct-robotics-kindergarten-2026.md']
 confidence: high
+audience: [educators, curriculum designers, researchers]
 ---
 
 > **Synthesis:** **In brief:** Tsingidou and Sapounidis [[meta-analysis-systematic-review|systematically review]] 53 of 2,306 studies (2015–March 2026, 7 databases) on robot-mediated [[computational-thinking|computational thinking]] (CT) development in kindergarten. Problem-based learning, [[storytelling-in-education|storytelling]], and scaffolding are the most frequently used learning strategies; most studies do not specify a CT framework; CT concepts and practices are most frequently examined while CT perspectives remain underexplored; and Total CT, sequencing, debugging, and algorithmic design are the most-assessed CT skills. TechCheck-K is the most widely used assessment tool, though many tools are developed ad hoc without formal validation.

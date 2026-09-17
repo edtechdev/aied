@@ -5,13 +5,14 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, higher-ed, teacher-role, writing-education, agency, scaffolding]
 connected_faqs: [ai-feedback-at-scale]
-research_method: [survey]
+research_method: [design-based research, case study]
 discipline: [writing education]
 audience: [learners, instructors]
 level: [higher ed]
 
 sources: ['raw/papers/tubino-adachi-ai-automated-feedback-literacy.md']
 confidence: medium
+category: [assessment, instructional design]
 ---
 
 > **Synthesis:** **Tubino and Adachi (2022) reframe AI automated feedback tools as a vehicle for developing students' [[feedback-literacy|feedback literacy]], not merely for reducing teacher workload.** Drawing on a Deakin University-wide T&L pilot (2021) with FeedbackFruits' AI automated feedback tool across 29 units and nearly 4,000 students, they show the tool positions feedback as a student-centered activity and affords the demonstration of several dimensions of Molloy et al.'s (2020) learning-centered framework for feedback literacy. They propose making the tool student-facing and degree-wide so students decide what and when to seek feedback on, building agency and self-regulated feedback literacy without adding teacher workload.

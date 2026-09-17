@@ -10,6 +10,7 @@ audience: [instructors, faculty development, learners]
 level: [higher ed]
 sources: ['raw/papers/zuo-instructor-power-genai-writing-2026.md']
 confidence: high
+category: [policy, equity]
 ---
 
 > **Synthesis:** Zuo, Xu & Dunning (2026) present an instrumental case study of 33 college instructors (10 interviewed in depth) exploring how their perceptions of [[generative-ai|Generative AI]] as a tool for [[writing-education|student writing]] are shaped by four **polycentric power centers**: the global impact of AI, the university/department, colleagues, and students. Framed by Blommaert's notions of scale and polycentricity, the study shows how instructors navigate multiple, sometimes conflicting, centers of normativity — adjusting their teaching to retain authority and promote [[student-experience|student accountability]]. It offers direct evidence on how [[teacher-role|instructor perceptions and practices]] evolve in writing instruction under GenAI, with implications for [[educational-development|professional development]].

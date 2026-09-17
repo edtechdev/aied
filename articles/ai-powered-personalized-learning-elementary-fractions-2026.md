@@ -7,9 +7,10 @@ tags: [generative-ai, personalized-learning, k-12, math-education, adaptive-lear
 research_method: [mixed methods, experiment]
 discipline: [math education]
 audience: [learners]
-level: [early childhood, k 12]
+level: [elementary, k 12]
 sources: ['raw/papers/2608.04892.md']
 confidence: high
+category: [evaluation, engagement, instructional design]
 ---
 
 > **Synthesis:** Examines AI-powered personalized learning in elementary fraction instruction through a [[meta-analysis-systematic-review|systematic review]], [[quantitative-research|quantitative]] study (N=120), and [[qualitative-research|qualitative]] teacher interviews. Found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties compared to traditional instruction. AI personalization increased student interest and [[student-engagement|engagement]]. Teachers reported AI tools helped differentiate instruction but required [[educational-development|professional development]] for effective integration. [[adaptive-learning]], [[personalized-learning]], [[k-12]], [[math-education]], and [[generative-ai]].
