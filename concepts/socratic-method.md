@@ -1,7 +1,7 @@
 ---
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience, scaffolding, intelligent-tutoring, critical-thinking, rag, llm, metacognition, formative-assessment]
 audience: [learners]
@@ -60,7 +60,7 @@ The gap between "knowledge-based skills" (4.0/5) and "overall effectiveness" (3.
 
 Not all evidence favors constraining the AI. [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna & Maes, 2026)]], a randomized EEG study of 50 participants comparing an unrestricted ChatGPT-style bot, a Socratic hint-only mode, and an adaptive question-limited mode on a nuclear-safety learning task, found that the **unrestricted chatbot produced higher learning gains** than both constrained modes (*p* < .03, *d* > 0.80) — even though the **adaptive condition generated significantly higher EEG-measured [[student-engagement|cognitive engagement]]** (*p* = .018). The result complicates the assumption that pedagogically constrained (Socratic) interaction always yields deeper learning: on short-horizon factual acquisition, free access won, while restricting access raised measured cognitive engagement without converting it into higher immediate post-test gains. This is a useful calibration point alongside the stronger [[learning-gains|learning-outcome]] results above: constraint can boost engagement, but the engagement-to-retention translation is not automatic, and over-constraining may simply frustrate learners seeking answers.
 
-In [[medical-education|clinical]]-interview training, [[ai-standardized-patient-scaffolding-medical-2026|the MeduAI-SP trial (Yang et al., 2026)]] had the tutor agent deliver Socratic prompts only on a flagged need — missing key history, premature closure, conversational impasse, or communication breakdown — phrasing them as reflective questions such as whether the gathered information sufficed to support the leading diagnosis. Students trained under this Socratic scaffolding scored 31 percentage points higher on the observable "expressing empathy" checklist item (Holm-corrected P = 8.30e-4) and 0.90 points higher on the 1–5 OSCE communication domain (P = 4.50e-4), linking non-answer-giving questioning to measurable patient-centred communication gains rather than to diagnostic accuracy (84% vs. 86%; P = 1.000).
+In [[medical-education|clinical]]-interview training, [[ai-standardized-patient-scaffolding-medical-2026|the MeduAI-SP trial (Yang et al., 2026)]] had the tutor agent deliver Socratic prompts only on a flagged need — missing key history, premature closure, conversational impasse, or communication breakdown — phrasing them as reflective questions such as whether the gathered information sufficed to support the leading diagnosis. Students trained under this Socratic scaffolding scored 31 percentage points higher on the observable "expressing empathy" checklist item (Holm-corrected P = 8.30e-4) and 0.90 points higher on the 1–5 OSCE communication domain (P = 4.50e-4), linking non-answer-giving questioning to measurable patient-centered communication gains rather than to diagnostic accuracy (84% vs. 86%; P = 1.000).
 
 ## Research in the knowledge base
 

@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [educational-policy-ai, higher-ed, governance, ethics, equity-in-ai-education, meta-analysis-systematic-review, change-management, administrator]
 connected_faqs: [institutional-ai-policy]
@@ -28,11 +28,11 @@ This is a [[meta-analysis-systematic-review|systematic literature review]] of ho
 
 ## Framing of AI in UK Higher-Education Policy
 
-The macro-level drivers of UK policy sit at the intersection of governmental strategies and guidance from bodies such as the Department for Education, the Office for Students, and Jisc, alongside ethics-oriented position papers from UNESCO, the OECD, and the EU AI Act. The review finds that [[educational-policy-ai|OfS and Jisc guidance]] has been criticised for lacking specificity and enforcement power while failing to match institutional capabilities. The absence of clear national guidelines leads universities to interpret [[governance|AI governance]] differently, producing inconsistent pedagogical innovation and unclear ethical standards. This framing connects directly to [[ai-education|AI in education]] debates about how national policy intent maps onto institutional reality.
+The macro-level drivers of UK policy sit at the intersection of governmental strategies and guidance from bodies such as the Department for Education, the Office for Students, and Jisc, alongside ethics-oriented position papers from UNESCO, the OECD, and the EU AI Act. The review finds that [[educational-policy-ai|OfS and Jisc guidance]] has been criticized for lacking specificity and enforcement power while failing to match institutional capabilities. The absence of clear national guidelines leads universities to interpret [[governance|AI governance]] differently, producing inconsistent pedagogical innovation and unclear ethical standards. This framing connects directly to [[ai-education|AI in education]] debates about how national policy intent maps onto institutional reality.
 
 ## Institutional Governance and Disparities
 
-The translation of national policy into institutional practice occurs at the governance layer, where the presence or absence of AI taskforces, digital-strategy committees, and teaching and learning boards shapes adoption. Evidence indicates that only a minority of UK institutions maintain official AI governance plans, and that strategic planning gaps lead to policy drift and performative compliance. The review documents a persistent divide between research-intensive (Russell Group) and teaching-led (post-92) institutions: infrastructure investment and staff AI-training programmes are concentrated in the former, while the latter face capacity constraints that widen existing [[equity-in-ai-education|equity]] gaps. These differences echo broader [[digital-divide|digital divide]] concerns and the need for [[educational-development|staff preparedness]] rather than aspirational strategy documents alone.
+The translation of national policy into institutional practice occurs at the governance layer, where the presence or absence of AI taskforces, digital-strategy committees, and teaching and learning boards shapes adoption. Evidence indicates that only a minority of UK institutions maintain official AI governance plans, and that strategic planning gaps lead to policy drift and performative compliance. The review documents a persistent divide between research-intensive (Russell Group) and teaching-led (post-92) institutions: infrastructure investment and staff AI-training programs are concentrated in the former, while the latter face capacity constraints that widen existing [[equity-in-ai-education|equity]] gaps. These differences echo broader [[digital-divide|digital divide]] concerns and the need for [[educational-development|staff preparedness]] rather than aspirational strategy documents alone.
 
 ## The Layered Conceptual Framework
 
@@ -40,7 +40,7 @@ The proposed layered, inclusive framework links national policy, institutional i
 
 ## Ethics, Equity, and Inclusion
 
-The review identifies ethics, equity exclusion, and learner efficacy as central policy concerns. It highlights critical gaps in fairness auditing and inclusive design, warning that AI systems may maintain or strengthen existing structural inequalities if not deliberately governed. Because student consultation on AI policy occurs in only a minority of institutions, the review warns that policy risks becoming technocratic and eroding [[trust]] and adoption. This aligns with the broader [[ethics|ethical]] concerns in the corpus about responsible and human-centred AI deployment in [[higher-ed|higher education]].
+The review identifies ethics, equity exclusion, and learner efficacy as central policy concerns. It highlights critical gaps in fairness auditing and inclusive design, warning that AI systems may maintain or strengthen existing structural inequalities if not deliberately governed. Because student consultation on AI policy occurs in only a minority of institutions, the review warns that policy risks becoming technocratic and eroding [[trust]] and adoption. This aligns with the broader [[ethics|ethical]] concerns in the corpus about responsible and human-centered AI deployment in [[higher-ed|higher education]].
 
 ## Implications
 

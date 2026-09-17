@@ -1,7 +1,7 @@
 ---
 title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-16T10:26:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 discipline: [cs education, math education, physics education]
@@ -34,7 +34,7 @@ confidence: high
 
 ### How effective AI-supported instruction is in STEM, pooled
 
-The largest quantitative synthesis for this domain to date — 35 experimental and quasi-experimental studies published between 2005 and 2025 ([[ai-supported-instruction-stem-meta-analysis-2026|Doğan, Kılıç, Kalınkara and Talan, 2026]]) — puts AI-supported instruction in STEM at Hedges' g = 0.670 (95% CI [0.491, 0.848]), with the between-study variance handled by a random-effects model. The level breakdown is the informative part: effects were largest in high school (g = 1.099) and progressively smaller in university (0.578), elementary (0.465) and [[k-12|middle school]] (0.392), while the subject-area differences that STEM's self-image would predict — science (0.676) and mathematics (0.650) ahead of technology and engineering (0.501) — were not statistically significant (Q = 4.85, df = 2, p = 0.088). Duration did not behave as a dose: the strongest band was one to two months (g = 0.833), the shortest interventions of five hours or less still reached 0.621, and the weakest band (g = 0.256) was not significant. Read alongside the scepticism documented on [[learning-gains|Learning Gains]], the reasonable reading is that AI-supported STEM instruction produces a moderate, real but level-dependent effect, not a uniform one.
+The largest quantitative synthesis for this domain to date — 35 experimental and quasi-experimental studies published between 2005 and 2025 ([[ai-supported-instruction-stem-meta-analysis-2026|Doğan, Kılıç, Kalınkara and Talan, 2026]]) — puts AI-supported instruction in STEM at Hedges' g = 0.670 (95% CI [0.491, 0.848]), with the between-study variance handled by a random-effects model. The level breakdown is the informative part: effects were largest in high school (g = 1.099) and progressively smaller in university (0.578), elementary (0.465) and [[k-12|middle school]] (0.392), while the subject-area differences that STEM's self-image would predict — science (0.676) and mathematics (0.650) ahead of technology and engineering (0.501) — were not statistically significant (Q = 4.85, df = 2, p = 0.088). Duration did not behave as a dose: the strongest band was one to two months (g = 0.833), the shortest interventions of five hours or less still reached 0.621, and the weakest band (g = 0.256) was not significant. Read alongside the skepticism documented on [[learning-gains|Learning Gains]], the reasonable reading is that AI-supported STEM instruction produces a moderate, real but level-dependent effect, not a uniform one.
 
 ### Why STEM dominates
 

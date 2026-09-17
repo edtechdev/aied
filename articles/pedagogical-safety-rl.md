@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Safety in Educational Reinforcement Learning
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [intelligent-tutoring, pedagogical-safety, adaptive-learning, reinforcement-learning, metacognition, rag, llm]
 audience: [software developers]
@@ -73,7 +73,7 @@ This complements the [[ai-tutor-safety-harms|SafeTutors taxonomy]] which identif
 - **Misinformation** (incorrect content delivery)
 - **Bias** (demographic performance gaps)
 
-Pedagogical Safety in RL adds: **system-level safety** (how the *learning algorithm itself* can cause harm through optimization failures) — a concern orthogonal to the individual harm dimensions catalogued elsewhere.
+Pedagogical Safety in RL adds: **system-level safety** (how the *learning algorithm itself* can cause harm through optimization failures) — a concern orthogonal to the individual harm dimensions catalogd elsewhere.
 
 ## Detection Methods
 

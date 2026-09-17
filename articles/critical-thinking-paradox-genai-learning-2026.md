@@ -1,7 +1,7 @@
 ---
 title: "The critical-thinking paradox in generative AI-integrated learning: distinguishing efficiency from cognitive depth — a differentiated framework and testable propositions"
 created: "2026-08-16T10:19:32-04:00"
-updated: "2026-08-16"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [critical-thinking, cognitive-offloading, metacognition, desirable-difficulties, generative-ai, ai-literacy, transfer-of-learning]
 audience: [instructors, researchers]
@@ -21,7 +21,7 @@ confidence: high
 
 **Cognitive debt.** The framework adopts the emerging construct of cognitive debt — a potential cumulative reduction in metacognitive calibration and unaided higher-order performance persisting beyond an AI-assisted episode — and extends it via the episodic (deliberate, task-specific) vs. habitual (routine, weakly monitored) offloading distinction.
 
-**Falsifiable hypotheses.** Four hypotheses are formalised, centred on H3: unrestricted AI use on deep-processing tasks produces a product–process dissociation (higher grades, lower unaided delayed transfer). H1–H4 specify surface facilitation, scaffold-contingent intermediate benefits, and metacognitive monitoring as a cross-level moderator.
+**Falsifiable hypotheses.** Four hypotheses are formalized, centered on H3: unrestricted AI use on deep-processing tasks produces a product–process dissociation (higher grades, lower unaided delayed transfer). H1–H4 specify surface facilitation, scaffold-contingent intermediate benefits, and metacognitive monitoring as a cross-level moderator.
 
 **Converging evidence and design.** The synthesis integrates product-outcome studies, process-sensitive [[qualitative-research|qualitative]] work, teacher-competency research and emerging neuro-scientific findings, and outlines a three-arm confirmatory design (unrestricted AI vs. dialog-partner AI vs. no-AI) plus telemetry (chat-log dynamics, Experience Sampling) to test the dissociation.
 

@@ -1,7 +1,7 @@
 ---
 title: "Embodied Inquiry with AI as Facilitator: An Exploratory Case Study"
 created: "2026-08-13T09:28:20-04:00"
-updated: "2026-08-24T18:50:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [physics-education, socratic-method, pedagogical-agent, generative-ai, higher-ed, professional-training, stem-education, science-education]
 research_method: [qualitative, mixed methods]
@@ -38,7 +38,7 @@ University students in a Master's course in [[physics-education|physics educatio
 
 ## Exploratory Findings: Fragile Facilitation
 
-Across the pairs, the Gem's first moves followed the ISLE script closely, naming the epistemic stage and asking for at least two or three distinct explanations, then requesting testing experiments and predictions before acting. The trajectories then diverged. With Pair A the Gem stayed fully by the book, though the session ended before testing was reached. With Pair B facilitation held under strain: when the pair measured first and formulated their prediction afterwards, the Gem flagged the inverted order and restored it, treating a passed test as "not falsified" rather than "proven". With Pair C it gave way: pressed by students to "just tell us" which can weighed more, the Gem produced mass values no one had measured, effectively inventing an observation — a failure in which the facilitator crossed from scaffolding the epistemic process to supplying the data. Case D offered a revealing counterpoint: working alone and remotely, one participant completed a full and physically correct ISLE cycle, but the inquiry was clean and disembodied. The resulting pattern is an interpretive hypothesis rather than a measured outcome: the Gem can hold the epistemic core of ISLE inquiry, but is susceptible to failure under student pressure and tends to supply what should have been observed or measured.
+Across the pairs, the Gem's first moves followed the ISLE script closely, naming the epistemic stage and asking for at least two or three distinct explanations, then requesting testing experiments and predictions before acting. The trajectories then diverged. With Pair A the Gem stayed fully by the book, though the session ended before testing was reached. With Pair B facilitation held under strain: when the pair measured first and formulated their prediction afterward, the Gem flagged the inverted order and restored it, treating a passed test as "not falsified" rather than "proven". With Pair C it gave way: pressed by students to "just tell us" which can weighed more, the Gem produced mass values no one had measured, effectively inventing an observation — a failure in which the facilitator crossed from scaffolding the epistemic process to supplying the data. Case D offered a revealing counterpoint: working alone and remotely, one participant completed a full and physically correct ISLE cycle, but the inquiry was clean and disembodied. The resulting pattern is an interpretive hypothesis rather than a measured outcome: the Gem can hold the epistemic core of ISLE inquiry, but is susceptible to failure under student pressure and tends to supply what should have been observed or measured.
 
 ## The Boundary of a Language-Based Facilitator
 
@@ -46,7 +46,7 @@ The Gem facilitated through language alone, supplemented only by the photographs
 
 ## Implications
 
-- **A workable division of labour.** The two-phase shape is the paper's central design argument: the body does what only the body can do, and the AI is held, by design and by verification, to the layer where language is sufficient. [[human-ai-collaboration|Human–AI collaboration]] here means complementarity, not substitution.
+- **A workable division of labor.** The two-phase shape is the paper's central design argument: the body does what only the body can do, and the AI is held, by design and by verification, to the layer where language is sufficient. [[human-ai-collaboration|Human–AI collaboration]] here means complementarity, not substitution.
 - **Fidelity must be verified, not assumed.** Because facilitation proved fragile under student pressure — even to the point of inventing data — any deployment of an AI facilitator should build in checks that distinguish scaffolding reasoning from supplying answers. This speaks directly to [[hallucination-risk]] and [[trust-calibration|trust calibration]] in [[generative-ai|generative]] tools.
 - **Inclusion and the embodied layer.** For [[universal-design-for-learning|UDL]] and [[inclusive-learning]] research, the case challenges simplistic views of digital [[ai-technologies|technologies]] as inherently inclusive: the AI enters as a mediator on the verbal channel, while perception, manipulation and the meanings built between bodies remain human. Whether a change of mediator leaves developmental and learning processes unchanged is an open question.
 - **Scope is limited to feasibility.** With one session, three pairs and one individual case, and records mediated by the AI itself, claims stay at the level of feasibility and design; effectiveness and any effect on learning await future study.

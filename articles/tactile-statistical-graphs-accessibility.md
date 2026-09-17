@@ -1,7 +1,7 @@
 ---
 title: "Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education"
 created: "2026-07-02T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [special-education, equity-in-ai-education, adaptive-learning, k-12, higher-ed, generative-ai, ai-literacy, rag, llm, visualization]
 audience: [researchers, instructors]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.01214.md']
 confidence: high
 ---
 
-> **Synthesis:** Obiuwevwi and colleagues (2026) treat classroom-scale production of **tactile statistical graphics** as a software problem rather than a specialist CAD task. Their three-layer, roughly 1500-line JavaScript pipeline derives tactile design parameters automatically from plate dimensions using tactile-perception research, provides shared chart scaffolding with five modular builders (scatter, bar, histogram, line and box plots), and optionally uses a multimodal [[llm]] to extract structured chart specifications from uploaded images — with mandatory teacher review before print generation. The pipeline produces print-ready binary STL files in under 250 milliseconds, with all five chart types completing in under 60 ms, and it combines research-grounded parameter derivation with single-pass Braille-and-English labelling. The authors present it as the first open-source pipeline that automatically generates 3D-printed tactile statistical graphs from either typed data or chart images, addressing a bottleneck that keeps [[accessibility|accessible]] statistical visualisation rare in classrooms.
+> **Synthesis:** Obiuwevwi and colleagues (2026) treat classroom-scale production of **tactile statistical graphics** as a software problem rather than a specialist CAD task. Their three-layer, roughly 1500-line JavaScript pipeline derives tactile design parameters automatically from plate dimensions using tactile-perception research, provides shared chart scaffolding with five modular builders (scatter, bar, histogram, line and box plots), and optionally uses a multimodal [[llm]] to extract structured chart specifications from uploaded images — with mandatory teacher review before print generation. The pipeline produces print-ready binary STL files in under 250 milliseconds, with all five chart types completing in under 60 ms, and it combines research-grounded parameter derivation with single-pass Braille-and-English labeling. The authors present it as the first open-source pipeline that automatically generates 3D-printed tactile statistical graphs from either typed data or chart images, addressing a bottleneck that keeps [[accessibility|accessible]] statistical visualization rare in classrooms.
 
 ## Key Contributions
 
@@ -36,7 +36,7 @@ This paper contributes to the growing body of [[research-methods-aied|research]]
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
 - [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
 - [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
-- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
+- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analyzing Dyslexic Learners Insights from Online Forums
 - [[cogtax-cognitive-taxonomy]] — CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education
 
 ## Citation

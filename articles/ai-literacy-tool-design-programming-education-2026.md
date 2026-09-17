@@ -1,7 +1,7 @@
 ---
 title: "AI literacy over tool design: a mixed-methods study of scaffolded versus unrestricted generative AI in programming education"
 created: "2026-09-16T09:40:00-04:00"
-updated: "2026-09-16T09:40:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, scaffolding, generative-ai, cs-education, self-regulated-learning, mixed-methods-research, ai-misuse-learning-harm, higher-ed]
 sources: ['raw/papers/ai-literacy-tool-design-programming-education-2026.md']
@@ -21,11 +21,11 @@ The study set out to test a specific institutional bet: that a scaffolded, const
 
 Two institutional responses dominate practice, and the paper rejects the first on evidential grounds. Restriction — bans, disclosure requirements, automated detection — is undermined by detection performance: in a systematic test of fourteen tools, none reached 80 percent accuracy, and OpenAI withdrew its own classifier in the same year for low accuracy. The second response, [[edtech-platform|tool design]], is the one the pilot interrogates. Yan et al.'s [[meta-analysis-systematic-review|scoping review]] of 118 studies of [[llm|large language models]] in education classified 53 use cases across nine categories of educational task, and none of the nine concerns the student's own [[regulation]] of how the tool is used.
 
-The setting was a master's-level course teaching data analysis and [[machine-learning|machine learning]] through weekly programming laboratories in Jupyter notebooks, with students drawn from several master's programmes and therefore widely varying [[prior-knowledge]] in programming. Thirty-three students were randomly assigned: 16 to the intervention and 17 to the comparison condition. Data collection was voluntary and all data pseudonymised. The teaching team comprised the course lead and three teaching assistants.
+The setting was a master's-level course teaching data analysis and [[machine-learning|machine learning]] through weekly programming laboratories in Jupyter notebooks, with students drawn from several master's programs and therefore widely varying [[prior-knowledge]] in programming. Thirty-three students were randomly assigned: 16 to the intervention and 17 to the comparison condition. Data collection was voluntary and all data pseudonymised. The teaching team comprised the course lead and three teaching assistants.
 
 ## The AI Study Coach: Scaffold by Constraint
 
-The Coach was built into the laboratory notebooks so students could consult it without leaving the task, and it ran in two modes. In **Explainer** mode it explained analytic outputs and the design choices behind the notebook code. In **Debugger** mode it responded to a stuck student with a sequence of hints moving from a general pointer towards a more specific one, and it did not provide complete solutions or generate code.
+The Coach was built into the laboratory notebooks so students could consult it without leaving the task, and it ran in two modes. In **Explainer** mode it explained analytic outputs and the design choices behind the notebook code. In **Debugger** mode it responded to a stuck student with a sequence of hints moving from a general pointer toward a more specific one, and it did not provide complete solutions or generate code.
 
 Four constraints constituted the scaffold in every session: a budget of **25 hints**, a maximum of **15 minutes** of AI use, a short written reflection at the end of each session, and a requirement that every piece of AI-sourced code be tagged as such in the notebook. Each constraint had a purpose — the budget to make each request deliberate, the time limit to keep the student's own work central, the reflection to prompt monitoring, and the tagging to keep AI use visible to the teaching team. This is a textbook instantiation of [[scaffolding]] combined with [[metacognition]] prompts and [[ai-use-disclosure]].
 
@@ -41,7 +41,7 @@ Five data sources were collected in both conditions:
 4. Full interaction logs from the Coach — hints requested, mode used, timing of requests, and the point in the task at which help was sought.
 5. Six semi-structured interviews with students from both conditions, plus recorded informal discussion notes with students and teaching assistants.
 
-Analysis was explicitly descriptive: with 16 and 17 students per condition the pilot was not powered for inferential tests, and none are reported — an honest [[limitations-in-aied-research|limitation]] stated in the paper rather than papered over. Log data were analysed for patterns of use, particularly the distribution of the hint budget across a session; interviews and end-of-session reflections were thematically coded; and the strands were then read together so that logs and interviews interpreted the survey and score comparisons.
+Analysis was explicitly descriptive: with 16 and 17 students per condition the pilot was not powered for inferential tests, and none are reported — an honest [[limitations-in-aied-research|limitation]] stated in the paper rather than papered over. Log data were analyzed for patterns of use, particularly the distribution of the hint budget across a session; interviews and end-of-session reflections were thematically coded; and the strands were then read together so that logs and interviews interpreted the survey and score comparisons.
 
 ## Results: No Performance Difference, Higher Confidence
 
@@ -49,7 +49,7 @@ The central negative result is unambiguous. The two conditions did not differ in
 
 Confidence moved in the expected direction but decoupled from performance. In post-session surveys, Coach-condition students reported higher confidence in their own competence than unrestricted-condition students, and the gain in reported confidence across the seven weeks was larger in the Coach condition. Students in both conditions credited AI with helping them understand analytic output, debug code and clarify unfamiliar concepts, and Coach students rated its explanations positively for concept clarification.
 
-This dissociation between felt competence and demonstrated competence is the pattern the learning-sciences literature predicts: scaffolding reduces the cognitive load of individual tasks and raises confidence, which is what [[scaffolding]] is designed to do, while building the capacity to govern the tool is a different outcome entirely. Equal scores, the paper warns, concealed unequal understanding — the same structure Fan et al. report in a larger randomised study, where ChatGPT access raised essay quality without improving knowledge gain or transfer, a pattern the authors name [[cognitive-offloading|metacognitive laziness]].
+This dissociation between felt competence and demonstrated competence is the pattern the learning-sciences literature predicts: scaffolding reduces the cognitive load of individual tasks and raises confidence, which is what [[scaffolding]] is designed to do, while building the capacity to govern the tool is a different outcome entirely. Equal scores, the paper warns, concealed unequal understanding — the same structure Fan et al. report in a larger randomized study, where ChatGPT access raised essay quality without improving knowledge gain or transfer, a pattern the authors name [[cognitive-offloading|metacognitive laziness]].
 
 ## How Students Spent the Hint Budget
 

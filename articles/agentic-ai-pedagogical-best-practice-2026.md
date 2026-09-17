@@ -1,24 +1,24 @@
 ---
 title: "Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-17T02:27:38-04:00"
 type: article
 tags: [agentic-ai, learning-theories, scaffolding, formative-assessment, metacognition, human-in-the-loop-ai, sociocultural-learning, desirable-difficulties, llm]
 research_method: [theoretical analysis]
 sources: ['raw/papers/2606.04543.md']
 confidence: high
 ---
-> **Synthesis:** Education AI is shifting from passive [[conversational-ai|chatbots]] to **proactive [[agentic-ai|agents]]** that initiate and pursue goals. This offers [[personalized-learning|personalisation]] but risks undermining **learner [[agency]] and cognitive effort** and can tip into what the authors call *cognitive surrender*. The paper walks each of six [[pedagogy|pedagogical]] principles through what agentic initiative does to it, and proposes design responses — [[desirable-difficulties|intentional friction]], dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation.
+> **Synthesis:** Education AI is shifting from passive [[conversational-ai|chatbots]] to **proactive [[agentic-ai|agents]]** that initiate and pursue goals. This offers [[personalized-learning|personalization]] but risks undermining **learner [[agency]] and cognitive effort** and can tip into what the authors call *cognitive surrender*. The paper walks each of six [[pedagogy|pedagogical]] principles through what agentic initiative does to it, and proposes design responses — [[desirable-difficulties|intentional friction]], dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilization.
 
-> Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **[[desirable-difficulties|intentional friction]], dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — is a principled guardrail for the knowledge base's agentic-education literature.
+> Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **[[desirable-difficulties|intentional friction]], dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilization** — is a principled guardrail for the knowledge base's agentic-education literature.
 
 ## The tension: automation vs. learning
 
-Agentic systems, operating within the broader digital ecosystem of an educational application, exhibit three core behavioural traits: **autonomy** (functioning without continuous human intervention), **proactiveness** (initiating goal-directed actions), and **reactiveness** (adapting to changing contexts such as user input, other agents, or the digital environment). A key functional advantage is the ability to use external tools — databases, APIs, microservices — while leveraging persistent memory for cross-session continuity and multi-agent communication. While **productive cognitive offloading** (delegating routine mental tasks to external tools) can free working memory for higher-order reasoning, the authors warn it frequently shifts into **cognitive surrender**, where the learner abdicates intellectual [[agency]] and lets the AI perform the critical synthesis and analysis the student should be doing. The paper walks each of six pedagogical principles through what agentic initiative does to it:
+Agentic systems, operating within the broader digital ecosystem of an educational application, exhibit three core behavioral traits: **autonomy** (functioning without continuous human intervention), **proactiveness** (initiating goal-directed actions), and **reactiveness** (adapting to changing contexts such as user input, other agents, or the digital environment). A key functional advantage is the ability to use external tools — databases, APIs, microservices — while leveraging persistent memory for cross-session continuity and multi-agent communication. While **productive cognitive offloading** (delegating routine mental tasks to external tools) can free working memory for higher-order reasoning, the authors warn it frequently shifts into **cognitive surrender**, where the learner abdicates intellectual [[agency]] and lets the AI perform the critical synthesis and analysis the student should be doing. The paper walks each of six pedagogical principles through what agentic initiative does to it:
 
 | Principle | Agentic-AI risk |
 |---|---|
-| [[prior-knowledge|Prior knowledge activation]] | Agents pre-fetching content bypass the retrieval practice that activates prior knowledge; algorithmic generalisations may also misjudge what a learner knows |
+| [[prior-knowledge|Prior knowledge activation]] | Agents pre-fetching content bypass the retrieval practice that activates prior knowledge; algorithmic generalizations may also misjudge what a learner knows |
 | [[collaborative-learning]] | Agent initiative crowds out peer negotiation and role-taking |
 | [[problem-based-learning]] | Goal-directed agents resolve problems before learners grapple with them |
 | [[formative-assessment]] | Agent-generated [[feedback]] pre-empts learners' own [[self-regulated-learning|self-assessment]] loops |
@@ -37,14 +37,14 @@ Beyond the table, the paper flags two further risks of proactive initiative: **[
 
 ## Design recommendations
 
-1. **Intentional friction** — deliberately preserve productive struggle instead of maximising smoothness (cf. [[desirable-difficulties]]: difficulty that supports learning)
+1. **Intentional friction** — deliberately preserve productive struggle instead of maximizing smoothness (cf. [[desirable-difficulties]]: difficulty that supports learning)
 2. **Dynamic scaffolding** — [[scaffolding|scaffolds]] that adapt and fade as competence grows (cf. [[self-regulated-learning|self-regulation]])
 3. **Human-in-the-loop oversight** — learners and educators retain control over agent initiation ([[human-in-the-loop-ai]])
-4. **Considered AI utilisation** — purposeful, pedagogically justified agent use rather than maximal automation
+4. **Considered AI utilization** — purposeful, pedagogically justified agent use rather than maximal automation
 
 ## Implications for AI in Education
 
-For [[ai-education|AI in education]], the paper turns "agent initiative" from a technical feature into a [[pedagogy|pedagogical]] design question. Designers should treat automation as a dial to be turned deliberately per principle rather than a default, preserving learner [[agency]] and [[metacognition|metacognitive]] ownership. The emphasis on **dynamic fading** connects directly to classic [[scaffolding]] and [[self-regulated-learning]] theory, suggesting agentic [[intelligent-tutoring|tutors]] should withdraw support as mastery grows rather than persist it. The **cultural misalignment** risk is a warning for [[personalized-learning|personalisation]] that draws on learner profiles: context-aware retrieval must be grounded in genuinely local knowledge or it backfires. And the call for **human-in-the-loop oversight** makes the paper a useful companion to capability-gap findings (e.g., in [[agentic-ai-education-scoping-review]]) about how rarely educational agents embed [[governance]]. Together these principles provide a guardrail for deploying proactive agents in ways that support rather than supplant human learning.
+For [[ai-education|AI in education]], the paper turns "agent initiative" from a technical feature into a [[pedagogy|pedagogical]] design question. Designers should treat automation as a dial to be turned deliberately per principle rather than a default, preserving learner [[agency]] and [[metacognition|metacognitive]] ownership. The emphasis on **dynamic fading** connects directly to classic [[scaffolding]] and [[self-regulated-learning]] theory, suggesting agentic [[intelligent-tutoring|tutors]] should withdraw support as mastery grows rather than persist it. The **cultural misalignment** risk is a warning for [[personalized-learning|personalization]] that draws on learner profiles: context-aware retrieval must be grounded in genuinely local knowledge or it backfires. And the call for **human-in-the-loop oversight** makes the paper a useful companion to capability-gap findings (e.g., in [[agentic-ai-education-scoping-review]]) about how rarely educational agents embed [[governance]]. Together these principles provide a guardrail for deploying proactive agents in ways that support rather than supplant human learning.
 
 ## Connected Concepts
 

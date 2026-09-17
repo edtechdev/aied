@@ -1,7 +1,7 @@
 ---
 title: "Navigating the challenges of Gen-AI in Chinese higher education: Balancing technological innovation with academic integrity and intellectual engagement"
 created: "2026-08-16T10:19:32-04:00"
-updated: "2026-08-16"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, critical-thinking, academic-integrity, agency, philosophy-of-ai-in-education, student-experience]
 research_method: [qualitative, interviews]
@@ -17,9 +17,9 @@ confidence: high
 
 **Three themes.** Reflexive thematic analysis of 33 transcripts surfaces three themes: (1) concerns over independent, critical and creative thinking; (2) the impact of Gen-AI on educational and study practices (chiefly workload reduction); and (3) [[academic-integrity]] and ethical concerns.
 
-**Theme 1 — cognitive inertia and dependency.** Both staff and students worry that Gen-AI encourages cognitive inertia and reduces independent thinking, despite its efficiency. Participants described an "[[cognitive-offloading|Over-Reliance]] on the technology" that "makes individuals think less actively; the ability to innovate decreases," and that "excessive reliance on Gen-AI will reduce our ability to analyse independently." There is an awareness that the convenience of Gen-AI can lead to superficial [[student-engagement|engagement]] with knowledge — echoing the knowledge base's [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] concerns.
+**Theme 1 — cognitive inertia and dependency.** Both staff and students worry that Gen-AI encourages cognitive inertia and reduces independent thinking, despite its efficiency. Participants described an "[[cognitive-offloading|Over-Reliance]] on the technology" that "makes individuals think less actively; the ability to innovate decreases," and that "excessive reliance on Gen-AI will reduce our ability to analyze independently." There is an awareness that the convenience of Gen-AI can lead to superficial [[student-engagement|engagement]] with knowledge — echoing the knowledge base's [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] concerns.
 
-**Theme 2 — practical benefits vs. workload.** Despite the dependency worries, participants acknowledge Gen-AI's practical value for performative, time-consuming tasks — creating test questions and test papers, guiding student thinking, analysing learning situations, and generating work materials, summaries and reports. A reported need to reduce workload sits at the centre of these uses, illustrating the ambivalent everyday negotiation of Gen-AI in [[higher-ed]].
+**Theme 2 — practical benefits vs. workload.** Despite the dependency worries, participants acknowledge Gen-AI's practical value for performative, time-consuming tasks — creating test questions and test papers, guiding student thinking, analyzing learning situations, and generating work materials, summaries and reports. A reported need to reduce workload sits at the center of these uses, illustrating the ambivalent everyday negotiation of Gen-AI in [[higher-ed]].
 
 **Theme 3 — academic integrity and ethical concerns.** The ease with which Gen-AI generates content — including academic papers — raises questions about originality and research integrity. Participants also noted that Chinese-company-managed Gen-AI tools "do not cater for political debates or diverse views and stances on key issues," surfacing an ethical and geopolitical dimension to AI-mediated academic work.
 
@@ -27,7 +27,7 @@ confidence: high
 
 **Method.** A case-oriented, reflexive thematic approach (Braun & Clarke) was applied to 33 semi-structured interviews from Jiangxi Province, with within-case then cross-case synthesis of staff and student transcripts, reflexive memos, co-[[research-methods-aied|researcher]] coding, and an [[ethics]]-approved protocol (#EDU-2024-2716-2733).
 
-**Reform imperative.** The authors argue for critical curricular reform and reimagined practices that prioritise intellectual development, reframing [[philosophy-of-ai-in-education|the purpose of higher education]] in an AI-mediated environment. Safeguarding the humanistic aspect of higher education demands redefining intellectual agency and critical engagement with technological change, linking to [[ai-literacy]] and [[agency]].
+**Reform imperative.** The authors argue for critical curricular reform and reimagined practices that prioritize intellectual development, reframing [[philosophy-of-ai-in-education|the purpose of higher education]] in an AI-mediated environment. Safeguarding the humanistic aspect of higher education demands redefining intellectual agency and critical engagement with technological change, linking to [[ai-literacy]] and [[agency]].
 
 ## Connected Concepts
 

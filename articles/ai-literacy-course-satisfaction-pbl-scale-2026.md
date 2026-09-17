@@ -1,14 +1,14 @@
 ---
 title: "Enhancing AI Literacy Course Satisfaction Through Empowerment in AI Problem-Solving and Ethical Awareness: Development and Validation of an AI Project-Based Learning Scale"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 sources: ["raw/papers/ai-literacy-course-satisfaction-pbl-scale-2026.md"]
 tags: ["ai-literacy", "project-based-learning", "ethics", "educational-measurement", "student-engagement", "motivation"]
 confidence: medium
 ---
 
-> **Synthesis:** Zhu and Kong develop and validate a context-grounded AI project-based learning scale (AI-PBLS) for measuring students' perceived [[project-based-learning]] experiences when using AI to solve real-world problems, then test how those experiences relate to satisfaction with [[ai-literacy]] courses. Using data from 1,027 Hong Kong [[k-12|secondary]] and [[higher-ed|university]] students enrolled in an AI literacy programme — 446 with complete data for structural equation modelling (SEM) — they show that [[self-efficacy|empowerment]] in using AI for [[problem-solving]] and AI [[ethics|ethical awareness]] mediate the relationship between perceived PBL and AI literacy course satisfaction. The study positions AI literacy as multidimensional, spanning cognitive, [[metacognition|metacognitive]], [[affective-computing|affective]], and social dimensions, and grounds the mediation model in [[self-determination-theory|self-determination theory]] and [[motivation|social cognitive theory]].
+> **Synthesis:** Zhu and Kong develop and validate a context-grounded AI project-based learning scale (AI-PBLS) for measuring students' perceived [[project-based-learning]] experiences when using AI to solve real-world problems, then test how those experiences relate to satisfaction with [[ai-literacy]] courses. Using data from 1,027 Hong Kong [[k-12|secondary]] and [[higher-ed|university]] students enrolled in an AI literacy program — 446 with complete data for structural equation modeling (SEM) — they show that [[self-efficacy|empowerment]] in using AI for [[problem-solving]] and AI [[ethics|ethical awareness]] mediate the relationship between perceived PBL and AI literacy course satisfaction. The study positions AI literacy as multidimensional, spanning cognitive, [[metacognition|metacognitive]], [[affective-computing|affective]], and social dimensions, and grounds the mediation model in [[self-determination-theory|self-determination theory]] and [[motivation|social cognitive theory]].
 
 ## Key Findings
 
@@ -20,7 +20,7 @@ confidence: medium
 
 ## Implications for Practice
 
-- **Design AI literacy courses around authentic PBL projects** — including collaboration, hands-on artefact creation, and real-world problem contexts — over isolated AI tasks, allocating roughly 4–6 weeks per project cycle so students can define problems, revise ideas, and reflect on outcomes.
+- **Design AI literacy courses around authentic PBL projects** — including collaboration, hands-on artifact creation, and real-world problem contexts — over isolated AI tasks, allocating roughly 4–6 weeks per project cycle so students can define problems, revise ideas, and reflect on outcomes.
 - **Prioritize student empowerment over pure technical skill** by giving learners meaningful choices, encouraging comparison of alternative AI tools or outputs, and asking them to justify how and why AI is used at each project stage.
 - **Embed [[ethics|ethical awareness]] throughout the project process rather than as a separate topic** — for example, using prompts such as "What bias may exist in this AI output?" or "Who might be disadvantaged?" in proposals, peer discussions, reflection journals, and final presentations.
 - **For [[educational-policy-ai|policymakers]]:** promote guidelines for responsible and [[equity-in-ai-education|equitable]] AI use, and invest in [[teacher-education|professional development]] for teachers implementing PBL-based AI instruction.

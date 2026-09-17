@@ -1,7 +1,7 @@
 ---
 title: "Enhancing learner-centered feedback with AI: teachers'' practices and perceptions"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, feedback, teacher-role, higher-ed, educational-development, scaffolding, human-in-the-loop-ai, rag]
 connected_faqs: [ai-feedback-at-scale]
@@ -20,7 +20,7 @@ confidence: high
 ### ML suggestion acceptance (detection → adoption)
 - The ML model most often flagged missing **Meeting Learning Objective** (20 of 21 teachers omitted it; **16 accepted** the suggestion) and **Student–Teacher Relationship** (14 omitted; **12 accepted**).
 - **Affirmation and Encouragement** was missing in 6 cases but accepted by **all** 6 teachers (100%).
-- Teachers used professional judgement to accept or reject suggestions — the ML functioned as a diagnostic assistant, not an autopilot.
+- Teachers used professional judgment to accept or reject suggestions — the ML functioned as a diagnostic assistant, not an autopilot.
 
 ### Revision of ChatGPT-enhanced feedback
 - **12 of 21 teachers** made further sentence-level revisions; the rest left the text unchanged.
@@ -32,13 +32,13 @@ confidence: high
 
 - **Benefits:** promotes reflection (n = 14), improves language and structure (n = 11), identifies missing components (n = 10), saves time (n = 2).
 - **Challenges:** need for human editing (n = 9), inconsistent tone (n = 7), potential misinformation (n = 5), trust issues (n = 5).
-- **Experience gap:** teachers with **>5 years of experience reported more challenges** (tone, editing burden, trust, misinformation); **less-experienced teachers valued [[scaffolding]] benefits** (identifying missing components, saving time). The authors flag a developmental risk: novice teachers who defer to AI suggestions may build less independent feedback judgement.
+- **Experience gap:** teachers with **>5 years of experience reported more challenges** (tone, editing burden, trust, misinformation); **less-experienced teachers valued [[scaffolding]] benefits** (identifying missing components, saving time). The authors flag a developmental risk: novice teachers who defer to AI suggestions may build less independent feedback judgment.
 
 ## Interpretation
 
-- The tools were most valuable as **reflective prompts that surface overlooked aspects** of feedback — "making invisible gaps visible" — scaffolding teachers' evaluative judgement, rather than as providers of finalised text (an **"assist but verify"** pattern; cf. [[human-in-the-loop-ai]]).
+- The tools were most valuable as **reflective prompts that surface overlooked aspects** of feedback — "making invisible gaps visible" — scaffolding teachers' evaluative judgment, rather than as providers of finalised text (an **"assist but verify"** pattern; cf. [[human-in-the-loop-ai]]).
 - **Design implications:** adjustable tone parameters, [[discipline-specific-aied|discipline-specific]] templates, and transparency controls; without them AI adoption may *increase* rather than reduce workload and can erode teacher authority if positioned as autonomous providers.
-- The authors call for future [[research-methods-aied|research]] on **student perspectives** of AI-assisted teacher feedback and longitudinal study of whether reliance strengthens or displaces evaluative judgement.
+- The authors call for future [[research-methods-aied|research]] on **student perspectives** of AI-assisted teacher feedback and longitudinal study of whether reliance strengthens or displaces evaluative judgment.
 
 ## Connected Concepts
 

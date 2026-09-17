@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 connected_faqs: [reducing-over-reliance, study-with-ai]
@@ -143,7 +143,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner: human-AI co-regulation in learning
 - [[buggy-genai-code-student-responses]] — How students respond to buggy GenAI code
-- [[ai-learning-companions-framework]] — Building AI companions that prioritise learning over performance
+- [[ai-learning-companions-framework]] — Building AI companions that prioritize learning over performance
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors

@@ -1,7 +1,7 @@
 ---
 title: "Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education"
 created: "2026-05-22T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [learning-analytics, intelligent-tutoring, adaptive-learning, student-experience, teacher-role, ai-literacy, llm, scaffolding, visualization]
 research_method: [system development]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2605.17263.md']
 confidence: medium
 ---
 
-> **Synthesis:** Current AI-driven educational systems primarily rely on behavioural analytics and performance metrics, lacking the ability to model expert cognition used to interpret learner development and identify misconceptions. This paper introduces the Expert Cognition Dashboard (ECD), a cognition-centred reporting infrastructure for AI Twin-driven education systems.
+> **Synthesis:** Current AI-driven educational systems primarily rely on behavioral analytics and performance metrics, lacking the ability to model expert cognition used to interpret learner development and identify misconceptions. This paper introduces the Expert Cognition Dashboard (ECD), a cognition-centered reporting infrastructure for AI Twin-driven education systems.
 ## Key Findings
 
 This paper proposes a paradigm shift from Learning Analytics to Cognition Intelligence, introducing the Expert Cognition Dashboard (ECD) as a three-layer cognitive middleware for AI-driven education. The ECD architecture models expert cognition — interpretation, identity cognition, value recognition, misconception patterns, and learning tension — across individual, class, and AI Twin expert levels. Rather than treating learner behaviors as raw signals, ECD transforms student interactions into interpretable cognition structures through AI Tutor analysis and dashboard aggregation. This advances the [[learning-analytics]] paradigm beyond simple visualization toward embedded reasoning infrastructure, positioning dashboards as foundational cognition infrastructures in AI-native education systems. The framework aligns with efforts in [[explainable-probabilistic-kt]] to make learner modeling interpretable, and extends [[adaptive-learning]] by incorporating expert-like cognitive reasoning into adaptation decisions. The cognition-layer approach complements [[llm-student-modeling-memory]] architectures that store longitudinal learner states, and intersects with [[teacher-student-agency-orchestration]] by providing the cognitive infrastructure for AI Twins to support adaptive intervention and personalized scaffolding.

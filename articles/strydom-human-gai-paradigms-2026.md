@@ -1,7 +1,7 @@
 ---
 title: "Framing Human-AI Dynamics: An Epistemological Perspective on Generative AI Practices"
 created: "2026-08-22T17:10:00-04:00"
-updated: "2026-08-22T17:55:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, higher-ed, human-ai-collaboration, ai-literacy, learning-theories, ai-education, theory-development-aied, student-ai-interaction]
 audience: [instructors, researchers]
@@ -11,7 +11,7 @@ sources: ['raw/papers/strydom-human-gai-paradigms-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Strydom (2026) introduces seven **human–[[generative-ai]] (GAI) [[student-engagement|engagement]] paradigms** grounded in personal epistemological beliefs, addressing what the author calls the "theory deficit" in educational technology. The conceptual, theory-building paper differentiates five epistemological dimensions (source, certainty, organisation, control, and speed of knowledge acquisition) and uses them to theorise seven enacted paradigms of human-GAI engagement: guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, and equity. Rather than fixed traits, the paradigms are **enacted patterns of engagement** that emerge across disciplinary, socio-technical, and institutional contexts — with direct implications for [[teacher-role|teaching]], assessment, [[educational-development|professional development]], and AI governance. This is a significant [[theory-development-aied|theory-building]] contribution to the knowledge base's [[ai-education|AI-education]] foundational strand.
+> **Synthesis:** Strydom (2026) introduces seven **human–[[generative-ai]] (GAI) [[student-engagement|engagement]] paradigms** grounded in personal epistemological beliefs, addressing what the author calls the "theory deficit" in educational technology. The conceptual, theory-building paper differentiates five epistemological dimensions (source, certainty, organization, control, and speed of knowledge acquisition) and uses them to theorise seven enacted paradigms of human-GAI engagement: guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, and equity. Rather than fixed traits, the paradigms are **enacted patterns of engagement** that emerge across disciplinary, socio-technical, and institutional contexts — with direct implications for [[teacher-role|teaching]], assessment, [[educational-development|professional development]], and AI governance. This is a significant [[theory-development-aied|theory-building]] contribution to the knowledge base's [[ai-education]] foundational strand.
 
 ## Key Findings
 
@@ -26,7 +26,7 @@ confidence: high
 The paper builds on Schommer's multidimensional model of personal epistemological beliefs, differentiating among five dimensions:
 - **Source of knowledge** — whether knowledge originates externally or is constructed by the knower
 - **Certainty of knowledge** — whether knowledge is fixed or evolving
-- **Organisation of knowledge** — whether knowledge is compartmentalised or integrated
+- **Organization of knowledge** — whether knowledge is compartmentalised or integrated
 - **Control of knowledge acquisition** — whether learning is controlled by the learner or external forces
 - **Speed of knowledge acquisition** — whether learning is quick/all-or-nothing or gradual
 
@@ -34,13 +34,13 @@ Strydom contends these dimensions offer a productive lens on how individuals dif
 
 ## The seven paradigms in detail
 
-- **Possibility-focused (Optimist):** An optimistic epistemological stance acknowledging GAI's power to synthesise, organise, and identify patterns across large literatures. Uncertainties are viewed as sites of productivity, provided the source of knowledge is appropriately distributed between human and machine, with humans retaining final interpretive judgement.
-- **Pioneering (Dreamer):** Views GAI as a *participant* in knowledge creation rather than a means. Grapples with the philosophical implication that if innovation can be attributed to human-machine co-production, the origin of knowledge becomes an open matter. Associated with accelerating [[peer-assessment]], but raises speed-vs-rigour trade-offs.
-- **Augmented (Enhancer):** Views GAI as an embedded tool that becomes part of individual reasoning by changing the *organisation* of knowledge. Extends the extended-mind thesis toward an "amplified mind" — individuals actively contribute to a dynamic cognitive space while retaining interpretive [[agency]].
+- **Possibility-focused (Optimist):** An optimistic epistemological stance acknowledging GAI's power to synthesise, organize, and identify patterns across large literatures. Uncertainties are viewed as sites of productivity, provided the source of knowledge is appropriately distributed between human and machine, with humans retaining final interpretive judgment.
+- **Pioneering (Dreamer):** Views GAI as a *participant* in knowledge creation rather than a means. Grapples with the philosophical implication that if innovation can be attributed to human-machine co-production, the origin of knowledge becomes an open matter. Associated with accelerating [[peer-assessment]], but raises speed-vs-rigor trade-offs.
+- **Augmented (Enhancer):** Views GAI as an embedded tool that becomes part of individual reasoning by changing the *organization* of knowledge. Extends the extended-mind thesis toward an "amplified mind" — individuals actively contribute to a dynamic cognitive space while retaining interpretive [[agency]].
 - **Symbiotic (Collaborator):** A relational, posthumanist orientation viewing human and machine cognition as permeable and entangled; knowledge is co-created via the relationship itself, with [[agency]] distributed across the human-machine dyad rather than retained individually.
 - **Guarded (Guardian):** Foregrounds epistemic vigilance — interrogation of who makes knowledge claims, on what grounds, and their reliability before acceptance. Reflects concerns about detection accuracy, [[academic-integrity|academic integrity]], authorship, and techno-solutionism; not resistance but deliberate, slower verification.
-- **Values-based (Defender):** Prioritises [[ethics|ethical]] AI use and the ethics of knowledge creation — [[bias-mitigation|fairness]], transparency, accountability, [[privacy]]. Asks not just whether claims are true but how they were arrived at responsibly.
-- **Equity (Advocate):** Foregrounds power, ideology, and [[equity-in-ai-education|equity]]. Recognises GAI's democratising potential while attending to [[digital-divide|digital inequality]] and bias — GAI trained on English-language, Western academic sources risks reproducing hierarchies of whose knowledge counts; technology is not neutral.
+- **Values-based (Defender):** Prioritizes [[ethics|ethical]] AI use and the ethics of knowledge creation — [[bias-mitigation|fairness]], transparency, accountability, [[privacy]]. Asks not just whether claims are true but how they were arrived at responsibly.
+- **Equity (Advocate):** Foregrounds power, ideology, and [[equity-in-ai-education|equity]]. Recognizes GAI's democratizing potential while attending to [[digital-divide|digital inequality]] and bias — GAI trained on English-language, Western academic sources risks reproducing hierarchies of whose knowledge counts; technology is not neutral.
 
 ## Implications for AI in education
 

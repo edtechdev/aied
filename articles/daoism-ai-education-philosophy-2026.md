@@ -1,7 +1,7 @@
 ---
 title: "Alternative AI Philosophy: Daoism as Method for AI in Education"
 created: "2026-09-11T09:20:00-04:00"
-updated: "2026-09-11T09:20:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [philosophy-of-ai-in-education, theory-development-aied, ethics, critical-pedagogy, ai-literacy, human-ai-collaboration, critical-thinking, agency, well-being, learning-theories]
 sources: ['raw/papers/2609.10842.md']
@@ -69,7 +69,7 @@ The limits are stated plainly. The work is interpretive, not empirical, and does
 - [[cognitive-offloading]]
 
 ## Connected Articles
-- [[ensemble-cognition-philosophy-ai-education]] — Towards a philosophy of ensemble cognition: Reconceptualising agency and mind in AI-mediated educational environments
+- [[ensemble-cognition-philosophy-ai-education]] — Toward a philosophy of ensemble cognition: Reconceptualising agency and mind in AI-mediated educational environments
 - [[avraamidou-ai-colonization-science-education]] — Can we disrupt the momentum of the AI colonization of science education?
 - [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis: conceptualizing the Post-Human Learner in the age of cognitive AI

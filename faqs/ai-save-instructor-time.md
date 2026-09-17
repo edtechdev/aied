@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Save Me Time as an Instructor?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-14T06:17:10-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 weight: 78
 tags: [teacher-role, ai-feedback-quality, educational-development, ai-literacy]
 audience: [instructors, faculty development]
@@ -39,7 +39,7 @@ A large-scale Brazil experiment across **178 schools and ~19,000 high school sen
 
 ### A counterweight: the efficiency-gain illusion
 
-Time savings are easy to overestimate — including by the instructors experiencing them. [[efficiency-gain-illusion-ai-overreliance|Across three pre-registered studies (N = 2,691)]], people systematically **underestimated how often they actually used AI** and **overestimated the time and effort it saved**, believing tasks were faster and easier even when objective measures showed no difference; prior AI use in a session predicted further use, entrenching the miscalibration in a self-reinforcing loop. The practical implication is to treat [[generative-ai|generative-AI]] time savings as a claim to check against actual workflow data rather than accept from feel, and to build the [[metacognition|metacognitive]] calibration that lets you notice when a task has genuinely sped up. Not every perceived saving is illusory, though: [[pishtari-teacher-ai-training-learning-design-2026|a within-subjects study of 13 higher-education teachers]] found AI access sharply lowered the perceived cognitive effort of [[learning-design|learning design]] (median 6.33 to 3.33, p = .004) — but the [[prompt-engineering|prompting]] training layered on top did **not** further improve design quality, a reminder that effort saved is not the same as capability gained.
+Time savings are easy to overestimate — including by the instructors experiencing them. [[efficiency-gain-illusion-ai-overreliance|Across three pre-registered studies (N = 2,691)]], people systematically **underestimated how often they actually used AI** and **overestimated the time and effort it saved**, believing tasks were faster and easier even when objective measures showed no difference; prior AI use in a session predicted further use, entrenching the miscalibration in a self-reinforcing loop. The practical implication is to treat [[generative-ai]] time savings as a claim to check against actual workflow data rather than accept from feel, and to build the [[metacognition|metacognitive]] calibration that lets you notice when a task has genuinely sped up. Not every perceived saving is illusory, though: [[pishtari-teacher-ai-training-learning-design-2026|a within-subjects study of 13 higher-education teachers]] found AI access sharply lowered the perceived cognitive effort of [[learning-design|learning design]] (median 6.33 to 3.33, p = .004) — but the [[prompt-engineering|prompting]] training layered on top did **not** further improve design quality, a reminder that effort saved is not the same as capability gained.
 
 ### Automated marking: promising, but not portable
 
@@ -47,7 +47,7 @@ Automated marking is the strongest time-saving claim — and the one that needs 
 
 ### What teachers will and will not delegate
 
-[[reichert-human-centered-llm-chatbot-design-teachers-2026|Participatory design work with six secondary teachers]] found they designed [[generative-ai|generative AI]] as a **"bounded expert"** — capable within a strictly defined domain and under human supervision. They welcomed AI help for presenting content, supplying practice problems and giving [[formative-assessment|formative]] [[feedback]], but **refused to delegate objective-setting or [[summative-assessment|summative]] [[assessment]]**, and insisted on teacher override for ambiguous cases. That boundary marks where a genuine time saving ends and an unacceptable transfer of professional judgement begins — a useful test for any task you are about to hand over, and a reason to keep [[human-in-the-loop-ai|human oversight]] explicit.
+[[reichert-human-centered-llm-chatbot-design-teachers-2026|Participatory design work with six secondary teachers]] found they designed [[generative-ai|generative AI]] as a **"bounded expert"** — capable within a strictly defined domain and under human supervision. They welcomed AI help for presenting content, supplying practice problems and giving [[formative-assessment|formative]] [[feedback]], but **refused to delegate objective-setting or [[summative-assessment|summative]] [[assessment]]**, and insisted on teacher override for ambiguous cases. That boundary marks where a genuine time saving ends and an unacceptable transfer of professional judgment begins — a useful test for any task you are about to hand over, and a reason to keep [[human-in-the-loop-ai|human oversight]] explicit.
 
 ## Concrete ways to use AI to save time
 

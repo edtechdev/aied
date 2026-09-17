@@ -1,7 +1,7 @@
 ---
 title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [ai-literacy, affective-computing, well-being, teacher-ai-competency, student-experience, ethics, self-regulated-learning, higher-ed]
 connected_faqs: [ai-guidance-children-under-13, ai-anxiety-wellbeing]
@@ -22,7 +22,7 @@ confidence: high
 
 ## Introduction
 
-Social-emotional learning is closely related to, but distinct from, emotional intelligence (EI): SEL/SEC (social-emotional competencies) encompasses the ability to synchronize thoughts, emotions, and actions for positive interactions, while EI is an individual's capacity to process emotional information (conceptualized through ability models — reasoning and [[problem-solving]] — or trait models — emotional dispositions and behaviours). In the AI era, SEL matters because AI can reshape learning in ways that affect students' relational and emotional development, and because educators need both technological skill and emotional intelligence to support learners effectively.
+Social-emotional learning is closely related to, but distinct from, emotional intelligence (EI): SEL/SEC (social-emotional competencies) encompasses the ability to synchronize thoughts, emotions, and actions for positive interactions, while EI is an individual's capacity to process emotional information (conceptualized through ability models — reasoning and [[problem-solving]] — or trait models — emotional dispositions and behaviors). In the AI era, SEL matters because AI can reshape learning in ways that affect students' relational and emotional development, and because educators need both technological skill and emotional intelligence to support learners effectively.
 
 ### How SEL appears in the research
 
@@ -41,7 +41,7 @@ Social-emotional learning is closely related to, but distinct from, emotional in
 The knowledge base's research clusters SEL into several distinct subtopics, each with its own evidence base:
 
 ### Self-efficacy and confidence
-A core SEL competency (self-awareness/self-management) that strongly conditions how students interact with AI. [[student-dependency-on-ai-literacy-self-efficacy-2026|Student dependency on AI]] (478 Israeli HE students) found that while skill-based AI literacy dimensions were *positively* associated with AI dependency, both academic and AI-specific **self-efficacy** and effort [[regulation]] were *negatively* associated — meaning AI literacy alone does not protect against dependency; [[self-efficacy]] does. [[self-efficacy-tutoring-learning|Cen et al. (EC-TEL 2026)]] found that students with lower baseline self-efficacy achieved greater learning gains regardless of practice format, and that favour toward the tutor mattered more for tutor-based practice — underscoring the value of tailoring practice to motivational profiles. Connected concepts: [[self-efficacy]], [[motivation]], [[agency]].
+A core SEL competency (self-awareness/self-management) that strongly conditions how students interact with AI. [[student-dependency-on-ai-literacy-self-efficacy-2026|Student dependency on AI]] (478 Israeli HE students) found that while skill-based AI literacy dimensions were *positively* associated with AI dependency, both academic and AI-specific **self-efficacy** and effort [[regulation]] were *negatively* associated — meaning AI literacy alone does not protect against dependency; [[self-efficacy]] does. [[self-efficacy-tutoring-learning|Cen et al. (EC-TEL 2026)]] found that students with lower baseline self-efficacy achieved greater learning gains regardless of practice format, and that favor toward the tutor mattered more for tutor-based practice — underscoring the value of tailoring practice to motivational profiles. Connected concepts: [[self-efficacy]], [[motivation]], [[agency]].
 
 ### Motivation and the "AI availability" effect
 Motivation intersects with SEL's responsible-decision-making and self-management. Research on [[ai-availability-student-motivation|AI availability and student motivation]] and [[ai-perceptions-students-teachers-motivation-2026|student/teacher motivation and self-efficacy]] shows that the mere availability of AI can reshape students' motivational orientation and perceived effort — relevant to how AI might undermine or support intrinsic motivation. [[student-dependency-on-ai-literacy-self-efficacy-2026|Self-efficacy research]] frames effort regulation as the counterweight to AI dependency.
@@ -50,7 +50,7 @@ Motivation intersects with SEL's responsible-decision-making and self-management
 Emotional regulation is a key SEL competency with direct learning consequences, forming a direct SEL→[[learning-gains|achievement]] link. [[affective-computing]] tools like [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] model student emotions to shape [[pedagogy|pedagogical]] responses, and [[ai-campus-wellbeing-tools|AI campus well-being tools]] (e.g., PsychoGPT, AURA) span prevention and intervention.
 
 ### Shame, guilt, and emotional responses to AI use
-Emotions regulate *how* students make AI use visible. [[shame-guilt-ai-regulation-computing-education|"Stuck in a Spiral"]] (19 computing students) found that shame and guilt act as social regulators of AI use, driving hiding behaviours and selective disclosure and creating cycles of reduced agency. [[ai-anxiety-strategic-regulation-writing-2026|AI anxiety]] can be transformed into strategic regulation of AI as a learning resource. These connect SEL's social awareness and self-management to [[academic-integrity]] and responsible AI use.
+Emotions regulate *how* students make AI use visible. [[shame-guilt-ai-regulation-computing-education|"Stuck in a Spiral"]] (19 computing students) found that shame and guilt act as social regulators of AI use, driving hiding behaviors and selective disclosure and creating cycles of reduced agency. [[ai-anxiety-strategic-regulation-writing-2026|AI anxiety]] can be transformed into strategic regulation of AI as a learning resource. These connect SEL's social awareness and self-management to [[academic-integrity]] and responsible AI use.
 
 ### Trust and belonging
 SEL supports relational learning and social cohesion. [[finkelstein-principled-ai-education-2025|Principled AI education]] and [[ai-chatbot-collective-efficacy-collaborative-learning|AI chatbots for collaborative learning]] connect to **belonging** and collective efficacy — the shared belief in a team's ability to accomplish tasks. The Brookings premortem emphasizes that overreliance on AI threatens social-emotional wellbeing, teacher-peer relationships, and student [[privacy]]/safety — dimensions of belonging and connectedness. [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|Teacher-student trust]] is central to whether AI is perceived as supportive.
@@ -70,7 +70,7 @@ SEL overlaps with the effortful dimension of learning. [[framing-5-percent-probl
 
 ## Connections to learning gains and other measures
 
-- **Self-efficacy moderates gains.** [[self-efficacy-tutoring-learning|Cen et al.]] found lower-baseline-self-efficacy students achieved the *largest* learning gains, and that tutor-favourability predicted gains in tutor-based practice — showing motivational profiles shape who benefits from which format.
+- **Self-efficacy moderates gains.** [[self-efficacy-tutoring-learning|Cen et al.]] found lower-baseline-self-efficacy students achieved the *largest* learning gains, and that tutor-favorability predicted gains in tutor-based practice — showing motivational profiles shape who benefits from which format.
 - **Well-being and engagement as intermediate outcomes.** SEL-related outcomes (motivation, [[well-being]], belonging, engagement, self-efficacy) often function as mediators of downstream achievement, and AI research increasingly measures them alongside — or in some cases instead of — raw test scores.
 - **Effects are conditional, not universal.** Research cautions that SEL-oriented interventions may help some learners (by profile/proficiency) and not others, so claims about SEL-based learning gains should be examined for moderator effects.
 - **The harm side of the ledger.** The  cautions that AI-driven [[cognitive-offloading|overreliance]] threatens social-emotional wellbeing, relationships, and belonging — outcomes that, if eroded, can undermine the very foundations of long-term learning and achievement.

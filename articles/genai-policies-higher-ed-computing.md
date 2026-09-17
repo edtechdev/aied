@@ -1,7 +1,7 @@
 ---
 title: "A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education"
 created: "2026-07-15T04:33:04-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, educational-policy-ai, ai-literacy, equity-in-ai-education, change-management, governance, llm]
 connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
@@ -21,7 +21,7 @@ confidence: medium
 - **Institutional guidance is broadly pro-use:** a majority of universities (N = 73, 63%) encourage GenAI use, with 41% (N = 48) offering detailed classroom guidance, while just over a quarter (N = 31, 27%) discourage it. More than half (N = 64, 55%) stipulate syllabus statements using a range-of-use framing ("embrace," "limit," "prohibit").
 - **Course-level uptake is far more guarded:** almost all syllabi (92%, N = 90) give explicit use guidelines, but **half (50%, N = 49) outright prohibit GenAI use**, 41% (N = 40) permit only partial use for specified activities, and few communicate encouragement (7%, N = 7).
 - **The top-down vs. bottom-up gap:** institutions are comparatively supportive of GenAI while individual computing instructors often restrict or prohibit it, leaving instructors to improvise local policies that may not align with institutional guidance — the central coordination problem for [[governance]].
-- **Shared emphasis on transparency:** both levels stress citation and acknowledgement — 83% (N = 81) of syllabi require citing GenAI use (over two-thirds treat uncredited use as an honor-code or [[academic-integrity]] violation), and 38% (N = 44) of institutions provide formal citation guidance, most often referencing APA.
+- **Shared emphasis on transparency:** both levels stress citation and acknowledgment — 83% (N = 81) of syllabi require citing GenAI use (over two-thirds treat uncredited use as an honor-code or [[academic-integrity]] violation), and 38% (N = 44) of institutions provide formal citation guidance, most often referencing APA.
 - **Institutional guidance is uniquely curricular and [[ethics|ethical]]:** institutions, not syllabi, emphasize [[curriculum-design|curriculum design]] (50% ask instructors to reflect on [[teacher-role|teaching]] and assessment; 29% encourage GenAI for lesson planning) and ethics, including Diversity/Equity/[[inclusive-learning|Inclusion]] (52%), privacy (57%), and classroom ethics discussions (53%).
 
 ## Study Design & Method

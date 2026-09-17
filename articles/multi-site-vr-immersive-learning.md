@@ -1,7 +1,7 @@
 ---
 title: Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
 created: "2026-06-10T12:17:35-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [edtech-platform, active-learning, student-experience, higher-ed, student-engagement, generative-ai, llm, ai-literacy, stem-education, scaffolding]
 research_method: [system development]
@@ -25,7 +25,7 @@ confidence: medium
 
 ## Study Design & Evaluation
 
-The system targets support for up to twenty participants, aiming for high usability through improved operability compared with earlier systems whose complex operation methods, such as hand tracking, resulted in poor usability. The evaluation involved 10 undergraduate and graduate students from the same academic department, aged 21 to 24 (9 men, 1 woman); 3 participants had prior VR experience while 7 had none. In a one-hour experiment using the Meta Quest 3 headset, participants launched the application and entered the VR classroom to familiarize themselves with the system, took a 10-minute break, re-entered the classroom, and conducted a science experiment. Afterwards they completed the System Usability Scale (SUS) and the [[simulation]] Sickness [[self-report-measures|Questionnaire]] (SSQ), while the frame rate of the [[teacher-role|teacher]]'s device was recorded to evaluate device load.
+The system targets support for up to twenty participants, aiming for high usability through improved operability compared with earlier systems whose complex operation methods, such as hand tracking, resulted in poor usability. The evaluation involved 10 undergraduate and graduate students from the same academic department, aged 21 to 24 (9 men, 1 woman); 3 participants had prior VR experience while 7 had none. In a one-hour experiment using the Meta Quest 3 headset, participants launched the application and entered the VR classroom to familiarize themselves with the system, took a 10-minute break, re-entered the classroom, and conducted a science experiment. Afterward they completed the System Usability Scale (SUS) and the [[simulation]] Sickness [[self-report-measures|Questionnaire]] (SSQ), while the frame rate of the [[teacher-role|teacher]]'s device was recorded to evaluate device load.
 
 ## Implications for AI in Education
 

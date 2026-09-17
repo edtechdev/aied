@@ -1,7 +1,7 @@
 ---
 title: "Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents"
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [simulating-students, generative-ai, llm, student-modeling, knowledge-graph, cognitive-diagnosis, agentic-ai, computational-thinking]
 audience: [software developers]
@@ -59,7 +59,7 @@ The work underscores that **fidelity requires modeling imperfection, not just fl
 
 ## Connected Articles
 
-- [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation
+- [[valid-student-simulation-llm-2026]] — Toward Valid Student Simulation
 - [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review
 - [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation for Education
 - [[history-aware-student-simulation]] — History-Aware Profiles for Student Simulation

@@ -1,7 +1,7 @@
 ---
 title: "The IDEA Framework for Metacognitively Regulated GenAI Use in Higher Education: Development and Exploratory Pilot Evidence"
 created: "2026-08-16T10:19:32-04:00"
-updated: "2026-08-16"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [metacognition, self-regulated-learning, prompt-engineering, generative-ai, higher-ed, agency, ai-literacy]
 audience: [learners, instructors]
@@ -15,7 +15,7 @@ confidence: high
 
 ## Key Findings
 
-**The IDEA scaffold.** The framework operationalises metacognitively regulated GenAI use through four interdependent moves: articulate goals, audience, output format and constraints (Intent); break the task into modular sub-tasks and plan an interaction pathway (Deconstruction); communicate requirements through a structured prompt (Expression); and evaluate the output against task criteria and diagnose which phase to revise (Adaptation). Prompting is thereby nested inside a wider self-regulatory cycle, extending [[self-regulated-learning]] into the GenAI era. Table 1 in the paper provides a concrete instructional checklist (e.g. assign a role/persona, specify format constraints, diagnose whether a shortcoming stems from Intent, Deconstruction, Expression or the system).
+**The IDEA scaffold.** The framework operationalizes metacognitively regulated GenAI use through four interdependent moves: articulate goals, audience, output format and constraints (Intent); break the task into modular sub-tasks and plan an interaction pathway (Deconstruction); communicate requirements through a structured prompt (Expression); and evaluate the output against task criteria and diagnose which phase to revise (Adaptation). Prompting is thereby nested inside a wider self-regulatory cycle, extending [[self-regulated-learning]] into the GenAI era. Table 1 in the paper provides a concrete instructional checklist (e.g. assign a role/persona, specify format constraints, diagnose whether a shortcoming stems from Intent, Deconstruction, Expression or the system).
 
 **Design.** A quasi-experimental pilot compared IDEA-based instruction (n = 21) with structured prompt-engineering instruction (n = 21) based on the Role–Task–Context–Format approach. All participants used Tencent's Hunyuan [[llm]] (Hy3 Preview) through the Yuanbao interface, with the same model version and environment across conditions. Baseline and immediate post-instruction assessments each covered five AI-assisted tasks: lesson-plan design, cultural-activity design, behavioral-experiment design, [[meta-analysis-systematic-review|literature review]], and [[writing-education]]. Fully adjusted regression models included instructional condition, baseline score, and prior Yuanbao-client use as covariates. IDEA is best understood as an iterative process — Adaptation may send a learner back to Intent, Deconstruction or Expression — not a one-pass linear sequence.
 

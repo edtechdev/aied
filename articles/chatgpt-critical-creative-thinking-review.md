@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Critical and Creative Thinking: Systematic Review"
 created: "2026-05-16T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-literacy, generative-ai, cognitive-offloading, critical-thinking, higher-ed, learning-design, metacognition, scaffolding]
 audience: [instructors, researchers]
@@ -157,7 +157,7 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 
 - [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
 - [[critical-genai-use-predictors]] — GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritize Learning over Performance
 - [[ai-literacy-assessment-misalignment]]
 - [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
 - [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era

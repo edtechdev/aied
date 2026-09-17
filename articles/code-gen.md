@@ -1,7 +1,7 @@
 ---
 title: "CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation"
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [llm, agentic-ai, rag, automated-question-generation, cs-education, human-in-the-loop-ai, assessment, automated-assessment, generative-ai]
 audience: [software developers]
@@ -76,7 +76,7 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 
 ### Implications for AI in Education
 
-CODE-GEN offers a concrete, evidence-based map of the human-AI division of labor in educational content generation. For [[automated-question-generation]] in [[cs-education|programming education]], RAG grounding plus tool augmentation can scale the creation of context-aligned assessment banks, with AI reliably handling alignment to learning objectives and computational/code verification. But its results carry a caution for [[assessment-validity]] and [[trust|Trust]] systems: automated evaluators are not trustworthy ground truth by default, and pedagogically meaningful distractors and concept-elaborating feedback — central to measuring deep understanding and to targeting common [[misconceptions]] — remain human responsibilities. The design principle of treating a critique agent's judgment as an empirical object to be validated against experts is transferable beyond item generation, informing how [[human-in-the-loop-ai]] quality assurance should be structured across [[automated-assessment]] workflows. The system's weaker dimensions also flag where future work should focus: making automated generation and evaluation more pedagogically sophisticated rather than merely more technically fluent.
+CODE-GEN offers a concrete, evidence-based map of the human-AI division of labor in educational content generation. For [[automated-question-generation]] in [[cs-education|programming education]], RAG grounding plus tool augmentation can scale the creation of context-aligned assessment banks, with AI reliably handling alignment to learning objectives and computational/code verification. But its results carry a caution for [[assessment-validity]] and [[trust]] systems: automated evaluators are not trustworthy ground truth by default, and pedagogically meaningful distractors and concept-elaborating feedback — central to measuring deep understanding and to targeting common [[misconceptions]] — remain human responsibilities. The design principle of treating a critique agent's judgment as an empirical object to be validated against experts is transferable beyond item generation, informing how [[human-in-the-loop-ai]] quality assurance should be structured across [[automated-assessment]] workflows. The system's weaker dimensions also flag where future work should focus: making automated generation and evaluation more pedagogically sophisticated rather than merely more technically fluent.
 
 ## Connected Concepts
 
@@ -91,7 +91,7 @@ CODE-GEN offers a concrete, evidence-based map of the human-AI division of labor
 - [[misconceptions]]
 ## Connected Articles
 
-- [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
+- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
 - [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning

@@ -1,7 +1,7 @@
 ---
 title: Multimodal Learning with Generative AI
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-education, higher-ed, generative-ai, multimodal, active-learning, scaffolding, feedback, assessment, pedagogical-llm-training, self-regulated-learning]
 research_method: [literature review]
@@ -19,7 +19,7 @@ confidence: high
 
 The guide adopts a middle way between "techno-fixing" and rejecting AI as an existential threat. It argues that:
 - GenAI is already embedded in daily life; ignoring it does students a disservice
-- GenAI is **not intelligent** (no consciousness, understanding, or [[ethics|ethical]] judgement)
+- GenAI is **not intelligent** (no consciousness, understanding, or [[ethics|ethical]] judgment)
 - Human educators and learners bring vision, purpose, nuanced critique, and meaning-making that AI cannot replicate
 - Effective use requires **cyber-social partnership**: humans and machines with complementary strengths
 
@@ -30,7 +30,7 @@ The guide adopts a middle way between "techno-fixing" and rejecting AI as an exi
 | **Individual** | Privacy, data protection, [[equity-in-ai-education|equity]] of access, mental health, over-reliance | Transparent authorship; approved tools list; scaffolded critical [[student-engagement|engagement]] |
 | **Environment** | Image/video/audio generation uses significantly more energy than text | Mindful use; limit iterations; group demonstrations; digital decluttering |
 | **Knowledge** | Removes sourcing process integral to retention; short-term gains may displace deep learning | Students clarify own understanding *before* consulting AI; metacognitive [[scaffolding]] |
-| **Future Jobs** | Entry-level white-collar roles vulnerable to automation | Focus on human strengths: contextual reasoning, ethical judgement, craftsmanship |
+| **Future Jobs** | Entry-level white-collar roles vulnerable to automation | Focus on human strengths: contextual reasoning, ethical judgment, craftsmanship |
 
 ## AI Literacy in Multimodal Contexts
 
@@ -46,7 +46,7 @@ The guide adopts a middle way between "techno-fixing" and rejecting AI as an exi
 |-------|-----------|
 | **Individual** | Workshops on creative multimodal tasks; prompt crafting practice; reflective assignments documenting AI use |
 | **Module** | Embed GenAI literacy into [[learning-gains|learning outcomes]]; optional multimodal tasks with clear rubrics; creative/reflective critique components |
-| **Programme** | Cross-module policies; consistency and transparency via workshops and discussion; alignment with graduate attributes (criticality, [[creativity]], digital fluency) |
+| **Program** | Cross-module policies; consistency and transparency via workshops and discussion; alignment with graduate attributes (criticality, [[creativity]], digital fluency) |
 | **[[governance|Institutional]]** | Clear policies with checklists; vetted tools; [[privacy|data privacy]] protocols enforced; avoid rigid mandates in favor of flexible guidance |
 
 ## The MMLD-AI Unifying Model
@@ -60,7 +60,7 @@ The **Multimodal Learning Design with GenAI** model merges:
 1. **Acquisition** of information
 2. **Investigation** and/or [[research-methods-aied|research]]
 3. **Collaboration** with others
-4. **Production** of artefacts (learning, teaching, or assessment)
+4. **Production** of artifacts (learning, teaching, or assessment)
 5. **Practice** of approaches/theories/principles/skills
 6. **Discussion/discourse**, including critique/evaluation
 
@@ -74,7 +74,7 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 |---------|----------------|--------------|---------------------|
 | Knowledge & framing | Contextual understanding; [[embodied-learning|embodied]] knowledge; critical verification | Rapid data retrieval; pattern recognition; broad topical coverage | Humans define purpose and frame problems; AI generates background data and inspiration; humans filter and verify |
 | Interpretation & analysis | Causal reasoning; cultural/ethical awareness; implicit meaning | Correlation analysis; theme identification; feature extraction at scale | AI identifies statistical patterns; humans determine causality, relevance, deeper significance |
-| Application & prototyping | [[situated-learning|Situated]] judgement; adaptive [[problem-solving]]; ethical decision-making; craftsmanship | Rapid simulation; consistent rule application; code/digital artefact generation | AI generates digital prototypes; humans adapt for real-world complexity, apply physical craft, ensure ethics |
+| Application & prototyping | [[situated-learning|Situated]] judgment; adaptive [[problem-solving]]; ethical decision-making; craftsmanship | Rapid simulation; consistent rule application; code/digital artifact generation | AI generates digital prototypes; humans adapt for real-world complexity, apply physical craft, ensure ethics |
 | Synthesis & creation | Novel conceptual blending; purpose-driven integration | Cross-domain pattern integration; combinatorial exploration | AI explores possible combinations; humans evaluate, refine, and integrate meaningfully |
 
 ## Practical Integration: Three Strands
@@ -86,13 +86,13 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 - Using AI to get feedback on marking rubrics and assessment briefs
 
 ### Learning (Student-Created Content)
-- Students transform lecture notes into multimodal artefacts (visuals, podcasts, videos)
+- Students transform lecture notes into multimodal artifacts (visuals, podcasts, videos)
 - Collaborative group projects using GenAI for brainstorming and prototyping
 - [[critical-thinking|Critical evaluation]]: students annotate AI-generated outputs for accuracy, bias, coherence
 - Ethical protocols establishing clear boundaries (e.g., "do not use AI to write reflections; do use it for brainstorming visuals")
 
 ### Assessment and Feedback
-- Multimodal assessment: students submit artefacts combining text, image, audio, video
+- Multimodal assessment: students submit artifacts combining text, image, audio, video
 - AI-assisted peer and self-assessment with structured rubrics
 - Educators use GenAI to generate formative feedback at scale, then verify and personalize
 - Transparent: assessment briefs explicitly state when and how GenAI may be used
@@ -108,7 +108,7 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 | Dual-Track Cyber-Social Model | [[pedagogical-llm-training]] — Reward "guiding" over "answering"; [[human-in-the-loop-ai]] — Human verification of AI outputs |
 | Multimodal assessment redesign | [[authentic-assessment]] — Six-dimensional framework; [[formative-assessment]] — AI-generated feedback with human validation |
 | Scaffolding and metacognition | [[self-regulated-learning]] — UDL's emphasis on [[agency|student agency]]; [[metacognition]] — Cyber-social metacognitive awareness |
-| Faculty development across four scales | [[educational-development]] — CTL pragmatic transition model; this guide adds module-level and programme-level strategies |
+| Faculty development across four scales | [[educational-development]] — CTL pragmatic transition model; this guide adds module-level and program-level strategies |
 
 ## Case Study Themes from the Guide
 
@@ -123,9 +123,9 @@ The guide includes 15+ educator case studies spanning:
 
 ## Open Questions
 
-1. **Environmental cost awareness**: How can educators and students make informed trade-offs between the [[pedagogy|pedagogical]] value of multimodal GenAI artefacts and their energy costs?
+1. **Environmental cost awareness**: How can educators and students make informed trade-offs between the [[pedagogy|pedagogical]] value of multimodal GenAI artifacts and their energy costs?
 2. **Transfer across modalities**: Does competence in AI-assisted multimodal creation in one domain (e.g., visual design) transfer to another (e.g., audio production)?
-3. **[[assessment-validity|Assessment validity]]**: When students use GenAI to create multimodal assessment artefacts, how can assessors distinguish genuine human meaning-making from AI-generated polish?
+3. **[[assessment-validity|Assessment validity]]**: When students use GenAI to create multimodal assessment artifacts, how can assessors distinguish genuine human meaning-making from AI-generated polish?
 4. **Scaling the MMLD-AI model**: Can the six engagement types be operationalized as automatic learning design recommendations, or does human pedagogical judgment remain essential?
 
 ## Connected Concepts

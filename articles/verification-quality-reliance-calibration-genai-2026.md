@@ -1,7 +1,7 @@
 ---
 title: "Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [trust-calibration, cognitive-offloading, ai-literacy, metacognition, self-regulated-learning, higher-ed, generative-ai]
 connected_faqs: [verify-ai-output, study-with-ai]
@@ -11,7 +11,7 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1965371.md']
 confidence: high
 ---
 
-> **Synthesis:** This Mini Review argues that “critical” or “responsible” AI use is an over-broad label that collapses seven analytically separable measurement targets: epistemic evaluation, verification initiation, process quality, verification success, reliance decisions, immediate task performance, and independent learning. It defines [[trust-calibration|reliance calibration]] as a judgement about whether a reliance decision was appropriate given the actual quality of the AI output — an output-contingent classification, not a stage on a timeline, and not the same thing as [[trust]]. Across 493 deduplicated records and 14 priority empirical studies, no study measured verification success and the following reliance decision together against an independently adjudicated standard of output quality, and few looked past immediate performance to delayed retention or transfer.
+> **Synthesis:** This Mini Review argues that “critical” or “responsible” AI use is an over-broad label that collapses seven analytically separable measurement targets: epistemic evaluation, verification initiation, process quality, verification success, reliance decisions, immediate task performance, and independent learning. It defines [[trust-calibration|reliance calibration]] as a judgment about whether a reliance decision was appropriate given the actual quality of the AI output — an output-contingent classification, not a stage on a timeline, and not the same thing as [[trust]]. Across 493 deduplicated records and 14 priority empirical studies, no study measured verification success and the following reliance decision together against an independently adjudicated standard of output quality, and few looked past immediate performance to delayed retention or transfer.
 
 ## Key Findings
 
@@ -25,7 +25,7 @@ confidence: high
 
 ## Study Design & Method
 
-This Mini Review (Frontiers in Psychology, published 11 September 2026) pairs a targeted, non-systematic evidence synthesis with a conceptual measurement framework. The authors ran complementary topic searches in the Web of Science Core Collection (2022–2026, all editions), updated through 7 August 2026; after DOI, accession-number, and title deduplication the searches yielded 493 unique records. Two authors independently screened the corpus and reconciled their judgements, and priority was given to studies that operationalized a focal target, linked adjacent targets, or exposed a measurement boundary. The evidence set deliberately mixes small [[qualitative-research|qualitative]] studies, direct higher-education GenAI studies, adjacent AI-advice and HCI designs, and foundational or mechanistic sources.
+This Mini Review (Frontiers in Psychology, published 11 September 2026) pairs a targeted, non-systematic evidence synthesis with a conceptual measurement framework. The authors ran complementary topic searches in the Web of Science Core Collection (2022–2026, all editions), updated through 7 August 2026; after DOI, accession-number, and title deduplication the searches yielded 493 unique records. Two authors independently screened the corpus and reconciled their judgments, and priority was given to studies that operationalized a focal target, linked adjacent targets, or exposed a measurement boundary. The evidence set deliberately mixes small [[qualitative-research|qualitative]] studies, direct higher-education GenAI studies, adjacent AI-advice and HCI designs, and foundational or mechanistic sources.
 
 A focal table maps ten representative studies (Urban 2025; Choi 2025; Chen and Lou 2026; Zhang 2025; Dávila 2025; Zainuddin 2026; Hou 2025; Pudasaini 2026; Zheng 2025; Hu 2026) onto verification, reliance, and task- or learning-outcome columns, with a diagnostic implication for each. Supplementary File 1 carries the search strategies, screening and appraisal detail, operational definitions, calibration metrics, guidance on mixed-effects analysis, and reporting standards.
 

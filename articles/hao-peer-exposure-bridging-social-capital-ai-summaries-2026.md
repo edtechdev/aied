@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Peer Exposure and Creating Opportunities for Bridging Social Capital Through an AI-Generated Summary-Driven Learning Design in Online Discussion Forums"
 created: "2026-09-06T12:48:50-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, online-teaching-and-learning, collaborative-learning, scaffolding, student-engagement, llm]
 research_method: [design-based research, mixed methods]
@@ -14,7 +14,7 @@ confidence: high
 
 ## Summary
 
-Prior research on online discussion engagement has largely targeted posting and replying while overlooking the **viewing activities** that precede and enable them, and has focused on human-written rather than AI-generated summaries. This paper proposes and tests an **AI-generated summary-driven learning design (AI-SLD)** that uses [[llm|LLM]]-produced discussion summaries and example posts to lower the search cost of navigating large, poorly-titled forums and thereby broaden students' viewing breadth and access to heterogeneous peer perspectives (an opportunity condition for bridging social capital). Conducted via [[design-based-research|design-based research]] across three iterations with 128 higher-education students over an eight-week intervention, the study combines [[learning-analytics|quantitative social network analysis]] of forum log data with [[qualitative-research|qualitative thematic analysis]] of student interviews.
+Prior research on online discussion engagement has largely targeted posting and replying while overlooking the **viewing activities** that precede and enable them, and has focused on human-written rather than AI-generated summaries. This paper proposes and tests an **AI-generated summary-driven learning design (AI-SLD)** that uses [[llm]]-produced discussion summaries and example posts to lower the search cost of navigating large, poorly-titled forums and thereby broaden students' viewing breadth and access to heterogeneous peer perspectives (an opportunity condition for bridging social capital). Conducted via [[design-based-research|design-based research]] across three iterations with 128 higher-education students over an eight-week intervention, the study combines [[learning-analytics|quantitative social network analysis]] of forum log data with [[qualitative-research|qualitative thematic analysis]] of student interviews.
 
 ## Key Findings
 
@@ -26,7 +26,7 @@ Prior research on online discussion engagement has largely targeted posting and 
 
 ## Implications for AI in Education
 
-The study shifts attention from posting to the **viewing/attentional behaviours** that scaffold [[collaborative-learning|peer learning]], arguing these are observable evidence of opportunities to access diverse perspectives (the conditions for developing *bridging* social capital). For designers of [[generative-ai|AI]] support in [[online-teaching-and-learning|online learning]], it suggests AI-generated summaries can be a low-cost, scalable alternative to instructor- or student-authored summaries that preserves engagement benefits. Yet it cautions that technological affordances alone do not solve engagement decline driven by broader academic pressures: AI-SLD should be paired with socio-pedagogical strategies to sustain participation across a semester. The authors also note that log-based network analysis cannot measure the depth or quality of viewing, urging future work that connects viewing behaviour to discussion quality and cognitive engagement.
+The study shifts attention from posting to the **viewing/attentional behaviors** that scaffold [[collaborative-learning|peer learning]], arguing these are observable evidence of opportunities to access diverse perspectives (the conditions for developing *bridging* social capital). For designers of [[generative-ai|AI]] support in [[online-teaching-and-learning|online learning]], it suggests AI-generated summaries can be a low-cost, scalable alternative to instructor- or student-authored summaries that preserves engagement benefits. Yet it cautions that technological affordances alone do not solve engagement decline driven by broader academic pressures: AI-SLD should be paired with socio-pedagogical strategies to sustain participation across a semester. The authors also note that log-based network analysis cannot measure the depth or quality of viewing, urging future work that connects viewing behavior to discussion quality and cognitive engagement.
 
 ## Connected Concepts
 

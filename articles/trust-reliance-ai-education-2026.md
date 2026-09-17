@@ -1,7 +1,7 @@
 ---
 title: "Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, cognitive-offloading, cs-education, student-ai-interaction, metacognition, rag, llm, agentic-ai]
 audience: [learners, instructors]
@@ -17,13 +17,13 @@ confidence: high
 ## The experiment
 
 - 432 undergraduates solved Python output-prediction problems with recommendations + explanations from an [[llm|AI chatbot]] that included **accurate and intentionally misleading suggestions**
-- **Appropriate reliance** measured behaviourally: accepting correct suggestions, rejecting incorrect ones — a form of [[trust-calibration|calibration]]
+- **Appropriate reliance** measured behaviorally: accepting correct suggestions, rejecting incorrect ones — a form of [[trust-calibration|calibration]]
 - Surveys captured trust, AI literacy, need for cognition, programming [[self-efficacy]], programming literacy
 
 ## Findings
 
 - **Non-linear trust→reliance relationship**: higher trust → lower appropriate reliance (weaker discrimination between correct/incorrect recommendations)
-- **Moderators: [[ai-literacy|AI literacy]] and [[metacognition|need for cognition]]** significantly shaped how trust translated into reliance behaviour
+- **Moderators: [[ai-literacy|AI literacy]] and [[metacognition|need for cognition]]** significantly shaped how trust translated into reliance behavior
 - Implication: interventions should target *[[trust-calibration|calibration]]* — instructional and system supports that encourage reflective [[ai-ed-evaluation|evaluation of AI]] assistance during [[problem-solving]]
 
 ## Connected Concepts

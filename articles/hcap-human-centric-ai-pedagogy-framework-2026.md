@@ -1,7 +1,7 @@
 ---
 title: "Human-Centric Artificial Intelligence Pedagogy (HCAP) framework developed from TPACK through integration of artificial intelligence literacy and competency"
 created: "2026-08-10T17:33:14-04:00"
-updated: "2026-08-13"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, teacher-ai-competency, pedagogical-llm-training, educational-development, ai-education, ethics, learning-design]
 research_method: [delphi]
@@ -26,11 +26,11 @@ This study used a **three-round Delphi method** with a panel of 30 teachers from
 
 ## Implications for AI in Education
 
-The HCAP framework provides a concrete, empirically grounded roadmap for [[teacher-education|teacher education]] and [[educational-development]], translating a theoretical model into actionable competencies for orchestrating human-AI collaborative learning. It positions teachers not merely as tool users but as **strategic orchestrators and conductors of human-AI collaboration** who use AI ethically, critically, and productively. The five-domain structure offers a practical basis for designing future-ready teacher training programs and professional development, connecting to [[ai-literacy]], [[teacher-ai-competency]], [[teacher-role]], and [[learning-design]]. It responds to the paradigm shift from passive, deterministic digital tools to active, [[agentic-ai|agentic AI]] systems, and its ethical and collaboration domains address the human-centred concerns central to responsible [[ai-education]] in the generative AI era.
+The HCAP framework provides a concrete, empirically grounded roadmap for [[teacher-education|teacher education]] and [[educational-development]], translating a theoretical model into actionable competencies for orchestrating human-AI collaborative learning. It positions teachers not merely as tool users but as **strategic orchestrators and conductors of human-AI collaboration** who use AI ethically, critically, and productively. The five-domain structure offers a practical basis for designing future-ready teacher training programs and professional development, connecting to [[ai-literacy]], [[teacher-ai-competency]], [[teacher-role]], and [[learning-design]]. It responds to the paradigm shift from passive, deterministic digital tools to active, [[agentic-ai|agentic AI]] systems, and its ethical and collaboration domains address the human-centered concerns central to responsible [[ai-education]] in the generative AI era.
 
 ## Limitations
 
-The study's consensus was derived from a panel of 30 teachers, and the 75% agreement threshold and consensus criteria are inherently subjective (as the author notes, there are no universal standards for Delphi consensus). The knowledge items reflect a teacher-perspective view and were validated through expert consensus rather than classroom outcome data; the framework's implementation effectiveness requires empirical validation in practice. The Delphi refinement process involved renaming and restructuring items, so the final 25-item list reflects the specific panel's judgements and may not generalize to all educational contexts.
+The study's consensus was derived from a panel of 30 teachers, and the 75% agreement threshold and consensus criteria are inherently subjective (as the author notes, there are no universal standards for Delphi consensus). The knowledge items reflect a teacher-perspective view and were validated through expert consensus rather than classroom outcome data; the framework's implementation effectiveness requires empirical validation in practice. The Delphi refinement process involved renaming and restructuring items, so the final 25-item list reflects the specific panel's judgments and may not generalize to all educational contexts.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [problem-solving, critical-thinking, generative-ai, cognitive-psychology]
 confidence: medium
@@ -28,7 +28,7 @@ Yet the same tools can erode the very skill they claim to support. Research on [
 
 The knowledge base's articles approach problem solving through distinct but converging lenses. [[llm-critical-thinking-teamwork-review|A PRISMA systematic review]] finds that LLMs often produce incomplete or incorrect responses, prompting students to question, verify, and improve information — turning model imperfections into validation-and-correction cycles that strengthen [[critical-thinking|critical thinking]] and mental independence. Rather than treating problems as given, other work foregrounds *problem posing*: [[genai-assisted-problem-posing-physics-2026|training students to generate their own physics problems]] supports [[transfer-of-learning|transfer]] and self-study, and [[dai-chatbots-problem-posing-primary-2026|GenAI chatbots]] improved primary students' problem-posing quality and reduced cognitive load in [[inquiry-based-learning|inquiry-based learning]].
 
-Scaffolding and assessment are also central. [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Adaptive AI scaffolds]] derived from sequence-mining individual students' process patterns boost on-task performance in collaborative [[math-education|mathematics]] problem solving — though maximal scaffolding also increased scripting behaviour. On the measurement side, [[llm-computational-thinking-physics-2026|LLMs can mirror human raters]] in detecting growth in [[computational-thinking|computational thinking]] across large [[physics-education|physics]] courses, while [[computational-thinking-educational-robotics-secondary-2026|computational thinking]] is proposed as the explicit conceptual glue that makes [[educational-robotics|educational robotics]] foster genuine problem solving rather than isolated technical exercises.
+Scaffolding and assessment are also central. [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Adaptive AI scaffolds]] derived from sequence-mining individual students' process patterns boost on-task performance in collaborative [[math-education|mathematics]] problem solving — though maximal scaffolding also increased scripting behavior. On the measurement side, [[llm-computational-thinking-physics-2026|LLMs can mirror human raters]] in detecting growth in [[computational-thinking|computational thinking]] across large [[physics-education|physics]] courses, while [[computational-thinking-educational-robotics-secondary-2026|computational thinking]] is proposed as the explicit conceptual glue that makes [[educational-robotics|educational robotics]] foster genuine problem solving rather than isolated technical exercises.
 
 ### How AI both helps and hinders
 
@@ -49,7 +49,7 @@ Problem solving is the applied outcome of [[critical-thinking|critical thinking]
 
 ### Automated CPS Skill Coding
 
-- Measuring [[collaborative-learning|collaborative problem solving (CPS)]] competence typically requires coding behaviour from simulated-task process data into specific CPS skills. [[prompt-engineering|Context-aware prompting]] of pre-trained language models can automate this coding, modelling contextual dependencies and fusing cognitive and social abilities to achieve superior performance over strong baselines on CPS task datasets — addressing the labour-intensity of manual coding and enabling large-scale, real-time assessment.
+- Measuring [[collaborative-learning|collaborative problem solving (CPS)]] competence typically requires coding behavior from simulated-task process data into specific CPS skills. [[prompt-engineering|Context-aware prompting]] of pre-trained language models can automate this coding, modeling contextual dependencies and fusing cognitive and social abilities to achieve superior performance over strong baselines on CPS task datasets — addressing the labor-intensity of manual coding and enabling large-scale, real-time assessment.
 
 ## Connected Concepts
 

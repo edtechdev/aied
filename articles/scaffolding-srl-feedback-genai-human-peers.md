@@ -1,7 +1,7 @@
 ---
 title: "Scaffolding Self-Regulated Feedback with GenAI vs. Human Peers for Feedback Literacy"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [self-regulated-learning, ai-feedback-quality, feedback, formative-assessment, peer-assessment, scaffolding, ai-literacy, generative-ai, metacognition, cognitive-offloading, writing-education]
 connected_faqs: [ai-feedback-at-scale]
@@ -20,7 +20,7 @@ confidence: high
 
 ## The Study
 
-The study compared two parallel English classes (N = 118 first-year undergraduates in China; GenAI group n = 56, Peer group n = 62) over three self-assessment cycles across one semester. Students engaged in self-assessment activities requiring interaction with external feedback: the GenAI group used ChatGPT-4o with pre-trained rubrics and prompt guidelines, while the Peer group completed structured peer-review worksheets with a high-quality exemplar. Feedback literacy was measured with a 19-item adaptation of the Feedback Literacy Behaviour Scale (Dawson et al., 2024) targeting the receptive/processing dimensions (seek, make sense, use, manage affect), with α = 0.904. [[qualitative-research|Qualitative]] data came from semi-structured interviews (nine students per group) analyzed thematically through Zhan et al.'s (2025) self-[[regulation]] feedback model, which frames feedback interaction across forethought, control, and retrospect phases.
+The study compared two parallel English classes (N = 118 first-year undergraduates in China; GenAI group n = 56, Peer group n = 62) over three self-assessment cycles across one semester. Students engaged in self-assessment activities requiring interaction with external feedback: the GenAI group used ChatGPT-4o with pre-trained rubrics and prompt guidelines, while the Peer group completed structured peer-review worksheets with a high-quality exemplar. Feedback literacy was measured with a 19-item adaptation of the Feedback Literacy Behavior Scale (Dawson et al., 2024) targeting the receptive/processing dimensions (seek, make sense, use, manage affect), with α = 0.904. [[qualitative-research|Qualitative]] data came from semi-structured interviews (nine students per group) analyzed thematically through Zhan et al.'s (2025) self-[[regulation]] feedback model, which frames feedback interaction across forethought, control, and retrospect phases.
 
 ## Findings Across the SRL Phases
 

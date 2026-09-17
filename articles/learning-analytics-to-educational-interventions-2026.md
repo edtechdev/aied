@@ -1,7 +1,7 @@
 ---
 title: "From Learning Analytics to Educational Interventions: Enhancing Decision-Making and Learning Design"
 created: "2026-08-30T16:45:00-04:00"
-updated: "2026-08-30T16:45:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: ['learning-analytics', 'learning-design', 'higher-ed', 'governance', 'ethics', 'self-regulated-learning']
 research_method: [delphi]
@@ -27,15 +27,15 @@ The seven enablers are defined as institutional practices, capabilities, or capa
 
 - **Institutional strategic orientation** — strategic planning and leadership commitment to implementing trustworthy LA and using LA insights to inform educational interventions (e.g. student-facing LA dashboards, ML-based early-warning for at-risk students).
 - **Available resources** — investment in AI-supported institutional LA systems, teacher/student dashboards, infrastructure, and human capacity.
-- **Pedagogical & other research foundations** — LA grounded in contemporary pedagogical principles, [[learning-theories|learning theories]], and sound, student-centred [[learning-design|learning design]] based on [[learning-gains|learning outcomes]] and constructive alignment.
+- **Pedagogical & other research foundations** — LA grounded in contemporary pedagogical principles, [[learning-theories|learning theories]], and sound, student-centered [[learning-design|learning design]] based on [[learning-gains|learning outcomes]] and constructive alignment.
 - **Pedagogical support** — teacher capacity and support to ensure pedagogical soundness and correct interpretation of LA results.
 - **Ethics & data governance** — policies and practices for the ethical use of LA and AI, [[privacy|data privacy]], security, and accountability.
-- **Stakeholder engagement** — human-centred development including students, educators, decision-makers, and external stakeholders (e.g. employers).
+- **Stakeholder engagement** — human-centered development including students, educators, decision-makers, and external stakeholders (e.g. employers).
 - **Quality assurance** — procedures for regular evaluation of LA tools and the effectiveness of educational interventions.
 
 ## AI and the future of LA-based interventions
 
-The authors argue all enablers should increasingly be considered in light of AI's benefits and risks: developing LA that uses AI-based methods (LA with AI), analysing AI use in [[teacher-role|teaching]] and learning (LA of AI), and developing learning design that integrates AI as a transversal topic (LD about AI). They frame the responsibilities for trustworthy LA as distributed — institutions and educational leaders hold strategic responsibility, while teachers own pedagogical soundness and LA interpretation, and keeping the "[[human-in-the-loop-ai|human in the loop]]" requires engaging all relevant stakeholders.
+The authors argue all enablers should increasingly be considered in light of AI's benefits and risks: developing LA that uses AI-based methods (LA with AI), analyzing AI use in [[teacher-role|teaching]] and learning (LA of AI), and developing learning design that integrates AI as a transversal topic (LD about AI). They frame the responsibilities for trustworthy LA as distributed — institutions and educational leaders hold strategic responsibility, while teachers own pedagogical soundness and LA interpretation, and keeping the "[[human-in-the-loop-ai|human in the loop]]" requires engaging all relevant stakeholders.
 
 ## Connected Concepts
 

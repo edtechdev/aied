@@ -1,7 +1,7 @@
 ---
 title: "An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning"
 created: "2026-09-11T09:35:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [well-being, ai-anxiety-and-stress, conversational-ai, machine-learning, culturally-relevant-pedagogy, global-south, equity-in-ai-education, ethics, higher-ed]
 connected_faqs: [ai-anxiety-wellbeing]
@@ -37,7 +37,7 @@ The ranked second place of the teacher-student relationship is the paper's cultu
 
 ## The Stepped Care chatbot layer and pipeline
 
-Classification output is mapped onto three response tiers inspired by the Stepped Care Model, escalating tone and support intensity with detected severity: warm and encouraging at low stress, grounding and non-judgemental at high stress. Cultural specificity is carried by a system prompt that instructs the model to respond consistently with Pakistani social and cultural norms, to use Urdu and Roman Urdu expressions where appropriate, and to show sensitivity to stressors such as family expectations, financial pressure and hierarchical teacher relationships.
+Classification output is mapped onto three response tiers inspired by the Stepped Care Model, escalating tone and support intensity with detected severity: warm and encouraging at low stress, grounding and non-judgmental at high stress. Cultural specificity is carried by a system prompt that instructs the model to respond consistently with Pakistani social and cultural norms, to use Urdu and Roman Urdu expressions where appropriate, and to show sensitivity to stressors such as family expectations, financial pressure and hierarchical teacher relationships.
 
 The end-to-end pipeline is a 20-question [[multilingual-learning|bilingual]] assessment in a Flask web application, preprocessing and Random Forest classification on the backend, then an automatic hand-off to the chatbot interface with a tier-appropriate opening message. Subsequent turns run on GLM-4.5-Air through the OpenRouter API, with the full conversation history and the culturally adapted system prompt re-sent on every turn so the dialogue stays in context. Keeping the conversational layer open-source was a deliberate [[equity-in-ai-education|access]] choice for deployment in regional universities with limited resources.
 
@@ -47,7 +47,7 @@ Two evaluations are reported. The classifier is evaluated on the held-out test s
 
 The limitations are substantive and self-reported: the training data is not representative of Pakistani students, so the feature-importance conclusions are preliminary; the chatbot has not been evaluated with students on cultural appropriateness, emotional safety or satisfaction; the system is English at its core with prompted Urdu expressions rather than a genuinely bilingual NLP pipeline; and the classifier was validated on a single stratified split without k-fold confidence intervals. Future work commits to Urdu-translated DASS-21 primary data collection from Pakistani universities, particularly among students moving from FSc into undergraduate study, and to formal evaluation of the conversational layer.
 
-Because a [[machine-learning|trained classifier]] decides the support tier, several [[governance]] questions remain open rather than addressed: what happens when a student is misclassified in the harmful direction, how distress disclosures are stored and what [[privacy]] protections apply in a university setting, and how escalation to human counselling is operationalised when the high-stress tier only *asks* the model to point toward professional services. The system is explicitly not presented as a [[medical-education|clinical]] diagnostic or therapy tool, and the authors note attention to avoiding stigmatising language in high-stress responses — but the boundary between [[human-in-the-loop-ai|human oversight]] and automated encouragement is left as a design question for the deployment stage.
+Because a [[machine-learning|trained classifier]] decides the support tier, several [[governance]] questions remain open rather than addressed: what happens when a student is misclassified in the harmful direction, how distress disclosures are stored and what [[privacy]] protections apply in a university setting, and how escalation to human counselling is operationalized when the high-stress tier only *asks* the model to point toward professional services. The system is explicitly not presented as a [[medical-education|clinical]] diagnostic or therapy tool, and the authors note attention to avoiding stigmatising language in high-stress responses — but the boundary between [[human-in-the-loop-ai|human oversight]] and automated encouragement is left as a design question for the deployment stage.
 
 ## Connected Concepts
 - [[well-being]] — student mental-health support as an AI application area

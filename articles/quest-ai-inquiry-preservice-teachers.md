@@ -1,7 +1,7 @@
 ---
 title: "Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers"
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-literacy, educational-development, generative-ai, higher-ed]
 research_method: [experiment]
@@ -51,7 +51,7 @@ The authors acknowledge several limitations: nonrandom group assignment within a
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Perceptions And Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
+- [[pre-service-science-teachers-ai-perceptions-2026]] — Perceptions And Acceptance of Artificial Intelligence in Science Education Programs: Voices of Pre-Service Science Teachers
 - [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy
 - [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?
 - [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study

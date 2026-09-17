@@ -1,7 +1,7 @@
 ---
 title: "Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration"
 created: "2026-08-09T07:09:19-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-detection, llm, generative-ai, academic-integrity, ai-ed-evaluation, ai-education, pedagogical-safety]
 audience: [software developers]
@@ -65,7 +65,7 @@ Its training-free design also strengthens [[assessment-validity|assessment valid
 - [[llm-detecting-llm-generated-content-education]] — Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content
 - [[adversarial-stress-testing-role-playing-agents]] — Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
-- [[ethical-ai-higher-ed-game-theory]] — Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning
+- [[ethical-ai-higher-ed-game-theory]] — Mathematical Modeling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
 

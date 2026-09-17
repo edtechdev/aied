@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: concept
 tags: [simulation, student-modeling, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, generative-ai, llm, teacher-role]
 audience: [instructors]
@@ -65,7 +65,7 @@ Beyond evaluating pedagogy, simulated students serve as a **test harness for aud
 
 ### Simulating collaborative and social dynamics
 
-Simulation also extends beyond individual learners to reproducing the social dynamics of [[collaborative-learning|collaborative learning]]. **Participant-specific LLM agents** — [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] fine-tuned LLaMA 3.2-3B agents on individual participants' dialogue data to represent each participant in collaborative problem solving simulations, combining sliding-window memory with summarised memory embeddings to preserve both local turn-taking and thematic continuity, and probabilistically selecting speakers and thematic codes from empirical distributions. Using [[network-analysis|Epistemic Network Analysis (ENA)]], the simulated dialogues were statistically indistinguishable from real ones (ENA distance 0.17, well within the 95th-percentile null threshold; permutation p = 0.65), validating that [[agentic-ai|LLM agents]] can reproduce both turn-taking dynamics and thematic code trajectories of real [[problem-solving|collaborative problem solving]].
+Simulation also extends beyond individual learners to reproducing the social dynamics of [[collaborative-learning|collaborative learning]]. **Participant-specific LLM agents** — [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] fine-tuned LLaMA 3.2-3B agents on individual participants' dialogue data to represent each participant in collaborative problem solving simulations, combining sliding-window memory with summarized memory embeddings to preserve both local turn-taking and thematic continuity, and probabilistically selecting speakers and thematic codes from empirical distributions. Using [[network-analysis|Epistemic Network Analysis (ENA)]], the simulated dialogues were statistically indistinguishable from real ones (ENA distance 0.17, well within the 95th-percentile null threshold; permutation p = 0.65), validating that [[agentic-ai|LLM agents]] can reproduce both turn-taking dynamics and thematic code trajectories of real [[problem-solving|collaborative problem solving]].
 
 The 2026 durable-skills work inverts the usual direction of simulation. Instead of simulating the student to audit a system, the system simulates the *teammates* to assess the student: an Executive LLM generates every AI partner's turns in a 30-minute group task, holds the scoring rubric, and steers the conversation to manufacture occasions for the target skill to appear ([[durable-skills-measurement-ai-teammates-2026|Globerson et al., 2026]]). Across 373 conversations from 188 participants, skill-matched steering raised ratable evidence to 92.4% for project management and 85% for conflict resolution, significantly above unconstrained independent agents, while the AI evaluator was calibrated against two human raters whose own inter-rater Kappa was only 0.45–0.64 — a useful reminder that a simulator's ceiling is set by the agreement humans can reach on the construct.
 
@@ -96,7 +96,7 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 - [[medeasy-ai-standardized-patients]] — MedEasy: AI Standardized Patients
 - [[simulating-students-diverse-cognitive-levels-2025]] — Embracing Imperfection: Simulating Diverse Cognitive Levels
 - [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review
-- [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation
+- [[valid-student-simulation-llm-2026]] — Toward Valid Student Simulation
 - [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation for Education
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for synthetic dialogues
@@ -108,4 +108,4 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 - [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a single describing agent beats simulating a distribution of students for predicting dropout and design critique
 - [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
-- [[durable-skills-measurement-ai-teammates-2026]] — Towards Scalable Measurement of Durable Skills
+- [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills

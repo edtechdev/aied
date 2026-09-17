@@ -1,7 +1,7 @@
 ---
 title: "Who grades best? Comparing ChatGPT, peer, and instructor evaluations across varying levels of student project quality"
 created: "2026-09-01T10:20:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: ['assessment', 'automated-assessment', 'generative-ai', 'conversational-ai', 'higher-ed', 'student-experience']
 research_method: [mixed methods, quantitative, qualitative]
@@ -13,7 +13,7 @@ confidence: high
 
 ---
 
-> **Synthesis:** **Who grades best?** A [[mixed-methods-research|mixed-methods]] study by Usher & Faraon (2026) comparing how ChatGPT, peers, and a course instructor grade the **same undergraduate group projects** across **varying levels of project quality**. With 184 students (52 groups), the study found ChatGPT's alignment with instructor grading **improved as project quality increased** — with its largest overestimation (+14 points) for low-quality work — while peer–instructor alignment was **strongest for lower-quality work**. Students' reflections revealed how they interpreted ChatGPT's grading leniency, grade–feedback alignment, algorithmic versus human judgement, and ChatGPT's dialogic interactivity.
+> **Synthesis:** **Who grades best?** A [[mixed-methods-research|mixed-methods]] study by Usher & Faraon (2026) comparing how ChatGPT, peers, and a course instructor grade the **same undergraduate group projects** across **varying levels of project quality**. With 184 students (52 groups), the study found ChatGPT's alignment with instructor grading **improved as project quality increased** — with its largest overestimation (+14 points) for low-quality work — while peer–instructor alignment was **strongest for lower-quality work**. Students' reflections revealed how they interpreted ChatGPT's grading leniency, grade–feedback alignment, algorithmic versus human judgment, and ChatGPT's dialogic interactivity.
 
 ## Overview
 
@@ -21,9 +21,9 @@ confidence: high
 
 ## Method
 
-- **Design:** Sequential explanatory mixed-methods — [[quantitative-research|quantitative]] grade comparisons first, then thematic analysis of students' written reflections to contextualise the statistics.
-- **Sample:** 184 undergraduate students (147 female, 37 male) in a mandatory [[research-methods-aied|research]]-methods course, working in 52 self-organised groups to design an original educational questionnaire.
-- **Assessors:** Each project was graded by the course instructor, two anonymous peers (via Moodle), and ChatGPT (with a structured six-criterion prompt), all using the **same standardised rubric** (six criteria, scored 1–100).
+- **Design:** Sequential explanatory mixed-methods — [[quantitative-research|quantitative]] grade comparisons first, then thematic analysis of students' written reflections to contextualize the statistics.
+- **Sample:** 184 undergraduate students (147 female, 37 male) in a mandatory [[research-methods-aied|research]]-methods course, working in 52 self-organized groups to design an original educational questionnaire.
+- **Assessors:** Each project was graded by the course instructor, two anonymous peers (via Moodle), and ChatGPT (with a structured six-criterion prompt), all using the **same standardized rubric** (six criteria, scored 1–100).
 - **Quality tiers:** Projects split into low (≤80), medium (81–86), and high (≥87) quality based on the 33rd/67th percentiles of instructor grades.
 - **Analysis:** Repeated-measures ANOVA, Pearson correlations, and one-way ANOVA by quality tier; thematic analysis with inter-rater reliability (κ = 0.86–0.90).
 
@@ -34,7 +34,7 @@ confidence: high
 - **Alignment is quality-dependent.** ChatGPT's alignment with the instructor improved as project quality rose, with its **largest overestimation for low-quality work** (Mdiff = +14.2 points) shrinking to +2.45 points for high-quality projects. Peers showed the opposite gradient: strongest alignment for lower-quality work (r = 0.51 in the low tier) and slight *under*-grading of high-quality work (Mdiff = −2.61).
 - **Students perceive ChatGPT as more lenient.** 85% of students described ChatGPT as more generous than peers, mirroring the quantitative pattern and showing critical awareness of GenAI bias rather than blind acceptance.
 - **Students see a grade–feedback disconnect in ChatGPT.** 31% of students noted ChatGPT often gave high scores alongside many critical comments — a perceived inconsistency between score and feedback that peers did not show.
-- **Two contrasting evaluative logics:** Students distinguished ChatGPT's neutral, rule-based, rubric-driven scoring from peers' holistic, context- and relationship-aware judgement, and valued ChatGPT's **dialogic interactivity** (revising prompts, clarifying intent) against peers' static, anonymous, non-negotiable reviews.
+- **Two contrasting evaluative logics:** Students distinguished ChatGPT's neutral, rule-based, rubric-driven scoring from peers' holistic, context- and relationship-aware judgment, and valued ChatGPT's **dialogic interactivity** (revising prompts, clarifying intent) against peers' static, anonymous, non-negotiable reviews.
 
 ## Implications
 

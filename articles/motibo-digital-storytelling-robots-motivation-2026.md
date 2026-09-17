@@ -1,7 +1,7 @@
 ---
 title: "MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation Through Self-Determination Theory"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [educational-robotics, storytelling-in-education, motivation, self-determination-theory, student-engagement, creativity]
 research_method: [experiment]
@@ -9,16 +9,16 @@ category: [engagement]
 sources: ['raw/papers/fung-motibo-storytelling-robots-motivation-2026.md']
 confidence: medium
 ---
-> **Synthesis:** Fung and Lui (2026) examine the impact of MotiBo, an interactive digital storytelling system incorporating a human-like robot, on student engagement and creativity. Recognizing that storytelling can enhance motivation and engagement but that conventional methods often lack interactive elements, the study compares engagement across three modalities: paper-based, PowerPoint, and robot-assisted (MotiBo) storytelling. Using a quasi-experimental design with three groups of students over a five-day learning period, the study finds that students using MotiBo exhibit statistically significant improvements in behavioural and cognitive engagement compared with traditional methods.
+> **Synthesis:** Fung and Lui (2026) examine the impact of MotiBo, an interactive digital storytelling system incorporating a human-like robot, on student engagement and creativity. Recognizing that storytelling can enhance motivation and engagement but that conventional methods often lack interactive elements, the study compares engagement across three modalities: paper-based, PowerPoint, and robot-assisted (MotiBo) storytelling. Using a quasi-experimental design with three groups of students over a five-day learning period, the study finds that students using MotiBo exhibit statistically significant improvements in behavioral and cognitive engagement compared with traditional methods.
 ## Key Findings
 - **Creativity is increasingly recognized as an important skill in education**, and storytelling can enhance motivation and engagement — but conventional storytelling methods often lack interactive elements.
 - **MotiBo is an interactive digital storytelling system incorporating a human-like robot** to add interactivity.
 - A **quasi-experimental design** compared engagement across three modalities: paper-based, PowerPoint, and robot-assisted (MotiBo) storytelling, with three groups of students over a five-day learning period.
-- Students using **MotiBo showed statistically significant improvements in behavioural and cognitive engagement** compared with traditional methods.
+- Students using **MotiBo showed statistically significant improvements in behavioral and cognitive engagement** compared with traditional methods.
 ## Study Design & Method
-This is a **quasi-experimental study**. The [[research-methods-aied|researchers]] compared student engagement and creativity across three storytelling modalities: paper-based, PowerPoint-based, and robot-assisted storytelling using the MotiBo system (a human-like interactive digital storytelling robot). Three groups of students participated over a five-day learning period. The study measured behavioural and cognitive engagement, and considered creativity as an outcome, analyzing differences across the three conditions.
+This is a **quasi-experimental study**. The [[research-methods-aied|researchers]] compared student engagement and creativity across three storytelling modalities: paper-based, PowerPoint-based, and robot-assisted storytelling using the MotiBo system (a human-like interactive digital storytelling robot). Three groups of students participated over a five-day learning period. The study measured behavioral and cognitive engagement, and considered creativity as an outcome, analyzing differences across the three conditions.
 ## Implications for AI in Education
-MotiBo demonstrates how [[educational-robotics]] can enhance [[student-engagement]] and [[motivation]] in storytelling-based learning, framed through [[self-determination-theory]]. It shows that adding an interactive, [[embodied-learning|embodied]] robot to storytelling increases behavioural and cognitive engagement compared with paper and PowerPoint methods. This connects to [[educational-robotics]], [[storytelling-in-education|narrative learning]], and the promotion of [[creativity]] in education. For educators, it provides evidence that embodied, interactive digital storytelling can motivate learners, with implications for [[k-12]] and special/inclusive education settings.
+MotiBo demonstrates how [[educational-robotics]] can enhance [[student-engagement]] and [[motivation]] in storytelling-based learning, framed through [[self-determination-theory]]. It shows that adding an interactive, [[embodied-learning|embodied]] robot to storytelling increases behavioral and cognitive engagement compared with paper and PowerPoint methods. This connects to [[educational-robotics]], [[storytelling-in-education|narrative learning]], and the promotion of [[creativity]] in education. For educators, it provides evidence that embodied, interactive digital storytelling can motivate learners, with implications for [[k-12]] and special/inclusive education settings.
 ## Limitations
 The study is quasi-experimental (non-random assignment) with a five-day learning period, limiting causal inference and insight into long-term effects. The specific sample and student population are not detailed in the abstract. Findings focus on engagement measures, and the relationship to deeper [[learning-gains|learning outcomes]] and creativity requires further investigation.
 ## Connected Concepts

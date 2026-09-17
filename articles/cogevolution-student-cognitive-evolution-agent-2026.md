@@ -1,7 +1,7 @@
 ---
 title: "CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution"
 created: "2026-08-24T05:31:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [simulating-students, student-modeling, icap-framework, knowledge-tracing, generative-ai, pedagogical-agent, item-response-theory, cognitive-diagnosis]
 audience: [software developers]
@@ -40,7 +40,7 @@ The retrieval module simulates the psychological mechanism of "connecting new an
 
 ### Evolutionary Cognitive State Update
 
-Treating the current knowledge structure as the parent individual, the system triggers mutation when cognitive conflict is perceived, using the [[llm|LLM]] as a mutation operator to generate candidate hypotheses (e.g., "Is the formula wrong?" or "Is this a new question type?"). A fitness function, incorporating Vygotsky's [[scaffolding|Zone of Proximal Development]] as an effective search radius, penalizes both excessive leaps and stagnation; tournament selection picks the best hypothesis, and a Differential Evolution step integrates it into the knowledge structure scaled by the ICAP cognitive evolution rate. A Behavior-Cognition Alignment Check then measures consistency between the generated internal state and external behavior, flagging "cognitive dissonance" (e.g., low confidence but forced answers).
+Treating the current knowledge structure as the parent individual, the system triggers mutation when cognitive conflict is perceived, using the [[llm]] as a mutation operator to generate candidate hypotheses (e.g., "Is the formula wrong?" or "Is this a new question type?"). A fitness function, incorporating Vygotsky's [[scaffolding|Zone of Proximal Development]] as an effective search radius, penalizes both excessive leaps and stagnation; tournament selection picks the best hypothesis, and a Differential Evolution step integrates it into the knowledge structure scaled by the ICAP cognitive evolution rate. A Behavior-Cognition Alignment Check then measures consistency between the generated internal state and external behavior, flagging "cognitive dissonance" (e.g., low confidence but forced answers).
 
 ## CogMath-948 Dataset and Evaluation
 
@@ -78,7 +78,7 @@ CogEvolution shifts [[simulating-students|student simulation]] from surface beha
 
 - [[simulating-students-diverse-cognitive-levels-2025]] — Embracing Imperfection: Simulating Diverse Cognitive Levels
 - [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review
-- [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation
+- [[valid-student-simulation-llm-2026]] — Toward Valid Student Simulation
 - [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation for Education
 - [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
 - [[mbp-kt-meta-behavioral-knowledge-tracing]] — Meta Behavioral Knowledge Tracing

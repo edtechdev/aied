@@ -1,7 +1,7 @@
 ---
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-16T14:40:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm]
 audience: [instructors, administrators, learners]
@@ -33,7 +33,7 @@ confidence: high
 - **Oral assessment for workplace capability.** A TVET design study addresses a long-standing mismatch between text-heavy assessment and the verbal, situational capabilities that professional qualifications certify, using an [[llm]] to support interactive oral assessment. Across four cohorts the voice format was rated realistic by 21 of 33 learners with no dissenting response on its advantage over a written [[eportfolio|portfolio]], and the system ran fully offline on one laptop for up to 12 simultaneous learners, deleting recordings after 90 days and leaving scoring to assessors ([[ai-supported-oral-assessment-tvet-2026]]). It is a concrete example of AI widening the range of assessable competence in professional-training rather than only automating existing written formats.
 
 - **Institutional conditions, not national context, explain readiness gaps.** A comparative survey of 568 university faculty in
-  Chinese (n = 340) and Kazakhstani (n = 228) faculty development centres ([[faculty-development-centers-genai-training-optimization-2026|Bi, Araily, Lyu & Xiu, 2026]])
+  Chinese (n = 340) and Kazakhstani (n = 228) faculty development centers ([[faculty-development-centers-genai-training-optimization-2026|Bi, Araily, Lyu & Xiu, 2026]])
   found Kazakhstani faculty ahead on all seven [[generative-ai|GenAI]] readiness dimensions at baseline, with the largest gaps in
   disciplinary transfer, prompt design, and AI-supported assessment. Hierarchical regression dismantled the national explanation: the
   country difference fell sharply once prior GenAI use and recent training entered the model and became non-significant — an 80%
@@ -41,7 +41,7 @@ confidence: high
   policy clarity, and risk sensitivity were added. Exposure was unevenly distributed (a clear majority of Kazakhstani faculty had AI
   training in the past six months, against roughly a quarter of Chinese faculty), and Chinese faculty reported both higher policy
   clarity and higher risk sensitivity. Structured prompt-task training outperformed conventional GenAI familiarisation on post-test
-  prompt design by a wide margin. Faculty readiness, on this evidence, is produced by provision and permission — what a centre offers
+  prompt design by a wide margin. Faculty readiness, on this evidence, is produced by provision and permission — what a center offers
   and what it allows — rather than by the national system it sits in.
 
 ### Distinct from academic education

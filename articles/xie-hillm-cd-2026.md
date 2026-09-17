@@ -1,7 +1,7 @@
 ---
 title: "HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis"
 created: "2026-08-09T10:38:47-04:00"
-updated: "2026-08-24T21:10:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [cognitive-diagnosis, knowledge-tracing, student-modeling, llm, generative-ai, adaptive-learning, personalized-learning, ai-education, learning-analytics]
 audience: [software developers]
@@ -54,7 +54,7 @@ HiLLM-CD advances [[knowledge-tracing]] and [[student-modeling]] by making cogni
 ## Connected Articles
 
 - [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-- [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
+- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive ITS Review
 
 ## Citation

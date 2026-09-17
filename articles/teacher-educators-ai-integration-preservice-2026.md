@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Teacher Educators Navigating AI Integration in Pre-Service Teacher Preparation: Strategies and Challenges"
 created: "2026-09-16T08:12:19-04:00"
-updated: "2026-09-16T08:12:19-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, teacher-education, generative-ai, teacher-ai-competency, qualitative-research, academic-integrity, authentic-assessment, cognitive-offloading, digital-divide, educational-policy-ai, critical-thinking, teacher-role]
 sources: ['raw/papers/teacher-educators-ai-integration-preservice-2026.md']
@@ -12,7 +12,7 @@ level: [higher ed, teacher training]
 category: [curriculum design, framework]
 ---
 
-> **Synthesis:** This qualitative interpretive phenomenological study interviewed 13 pioneering teacher educators (seven [[pedagogy|pedagogical]] advisors and six lecturers) in seven Israeli teacher training institutions about how they prepare pre-service teachers for [[ai-literacy|AI literacy]] and AI-integrated teaching, using semi-structured interviews analysed through human [[qualitative-research|thematic analysis]] combined with AI-assisted dialogic analysis. Participants saw themselves as agents of change who must model critical AI use, reported a crisis of trust when students submitted unprocessed AI outputs, and redesigned assessment around process and classroom evidence. They also raised epistemic concerns about cognitive atrophy and the erosion of expertise, plus policy gaps, ethics and privacy worries, and cultural and economic barriers. The authors read these findings through post-digital theory and argue that AI-era [[teacher-education]] requires redefining literacy, pedagogy, and human agency rather than adding a technical module.
+> **Synthesis:** This qualitative interpretive phenomenological study interviewed 13 pioneering teacher educators (seven [[pedagogy|pedagogical]] advisors and six lecturers) in seven Israeli teacher training institutions about how they prepare pre-service teachers for [[ai-literacy|AI literacy]] and AI-integrated teaching, using semi-structured interviews analyzed through human [[qualitative-research|thematic analysis]] combined with AI-assisted dialogic analysis. Participants saw themselves as agents of change who must model critical AI use, reported a crisis of trust when students submitted unprocessed AI outputs, and redesigned assessment around process and classroom evidence. They also raised epistemic concerns about cognitive atrophy and the erosion of expertise, plus policy gaps, ethics and privacy worries, and cultural and economic barriers. The authors read these findings through post-digital theory and argue that AI-era [[teacher-education]] requires redefining literacy, pedagogy, and human agency rather than adding a technical module.
 
 ## Key Findings
 
@@ -24,7 +24,7 @@ category: [curriculum design, framework]
 6. Orna recounted a case study submitted in the name of a pupil from an entirely different cultural background, with the AI tool's address in the first line, which she called one of the hardest confrontations she has had with students.
 7. Participants named an "authenticity crisis": take-home written work could no longer reliably evidence learning, [[prompt-engineering|prompting]] the question of how to assess students authentically in the age of AI.
 8. Strategies included moving work into class (flipped classroom, presentations, [[learning-by-teaching|peer teaching]], elevator pitches, in-class visual models) and process-based assessment such as examining prompts, Google Docs version history, and DocWiz monitoring of group contributions.
-9. Some returned to non-digital evidence (reflective "journey journals" in physical notebooks, handwritten reflective paragraphs) and, as a last resort, to supervised examinations and anticipated oral thesis defences; Orna described returning to exams as personally painful but unavoidable.
+9. Some returned to non-digital evidence (reflective "journey journals" in physical notebooks, handwritten reflective paragraphs) and, as a last resort, to supervised examinations and anticipated oral thesis defenses; Orna described returning to exams as personally painful but unavoidable.
 10. In field experience, pre-service teachers used AI for differentiated lesson planning: five interviewees directed students to build teaching units with AI and two guided adaptation to specific pupil profiles including [[special-education|special needs]], and students produced digital games, podcasts, visual aids, theorist "bots" they had to train, and [[early-childhood-elementary-ai-education|kindergarten]] learning-corner [[simulation|simulations]].
 11. [[student-experience|Student experiences]] ranged from heightened [[self-efficacy]] to frustration when tools failed complex pedagogic demands; Sarit reported students concluding "I am the teacher, and AI helps me," and Rivka noted AI's value in easing the isolation of student teachers alone in the field.
 12. Institutional support varied widely: workshops sequenced by study year, techno-pedagogical units working inside classes, and [[self-directed-learning|self-directed]] modules such as the six-unit Prizma module, but no formal AI literacy course in most institutions, which Mira attributed to rapid change and a scarcity of qualified lecturers.
@@ -40,7 +40,7 @@ The authors read the trust and authenticity crisis through Mezirow's transformat
 
 ## Limitations
 
-The authors acknowledge five limitations. The 13 participants were selected precisely for their pioneering engagement, so findings reflect early adopters and cannot be generalized to teacher educators in Israel or beyond; sceptical faculty are not represented. The data rest entirely on [[self-report-measures|self-reported]] accounts, with the student voice absent. The study captures a specific moment in a rapidly evolving technological and policy landscape, limiting temporal transferability. Although the sample spans seven institutions across three educational streams, the small number of participants per institution limits systematic institutional comparison. Finally, the hybrid human plus AI-assisted analysis is still an emerging practice in qualitative research, and its interpretive complexity needs further methodological attention.
+The authors acknowledge five limitations. The 13 participants were selected precisely for their pioneering engagement, so findings reflect early adopters and cannot be generalized to teacher educators in Israel or beyond; skeptical faculty are not represented. The data rest entirely on [[self-report-measures|self-reported]] accounts, with the student voice absent. The study captures a specific moment in a rapidly evolving technological and policy landscape, limiting temporal transferability. Although the sample spans seven institutions across three educational streams, the small number of participants per institution limits systematic institutional comparison. Finally, the hybrid human plus AI-assisted analysis is still an emerging practice in qualitative research, and its interpretive complexity needs further methodological attention.
 
 ## Connected Concepts
 
@@ -54,14 +54,14 @@ The authors acknowledge five limitations. The 13 participants were selected prec
 - [[critical-thinking]] — the deficit participants saw in students' uncritical use of outputs
 - [[digital-divide]] — economic barriers and unequal access to quality AI tools
 - [[educational-policy-ai]] — absent unified institutional policy and national frameworks discussed
-- [[assessment]] — shifts toward process documentation, examinations, and oral defences
+- [[assessment]] — shifts toward process documentation, examinations, and oral defenses
 - [[teacher-role]] — pedagogical advisors and lecturers as agents of change and epistemic mediators
 
 ## Connected Articles
 
-- [[human-centered-ai-teacher-educators-2026]] — teacher educators' perspectives on human-centred AI integration
+- [[human-centered-ai-teacher-educators-2026]] — teacher educators' perspectives on human-centered AI integration
 - [[conceptualizing-preservice-teachers-ai-readiness-2026]] — conceptual work on preparing pre-service teachers for AI
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in teacher education programmes
+- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in teacher education programs
 - [[sutedjo-faculty-genai-tpack-21-2026]] — faculty GenAI knowledge through a TPACK lens
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — faculty identity tensions around generative AI
 - [[beyond-detection-authentic-assessment-ai-2025]] — redesigning assessment when detection fails

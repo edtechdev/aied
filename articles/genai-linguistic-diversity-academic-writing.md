@@ -1,7 +1,7 @@
 ---
 title: "Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, writing-education, equity-in-ai-education, higher-ed, language-learning]
 research_method: [qualitative, theoretical analysis]
@@ -16,9 +16,9 @@ confidence: high
 ## Key Findings
 
 - The article is a **structured scholarly dialogue** among five sociolinguists from World Englishes and adjacent fields, organized around **five guiding questions** covering GenAI's broad influence in academic writing and publishing (AWP), its potential biases toward dominant Englishes, [[governance|institutional]] responsibilities, [[peer-assessment|peer assessment]] practices, and [[ethics|ethical]] frameworks.
-- Contributors see potential for GenAI to **democratise writing processes**, while raising concerns that it may **homogenise linguistic styles, privilege dominant English varieties, and flatten nuance** in scholarly writing.
+- Contributors see potential for GenAI to **democratize writing processes**, while raising concerns that it may **homogenise linguistic styles, privilege dominant English varieties, and flatten nuance** in scholarly writing.
 - The dialogue foregrounds themes of **linguistic (in)justice, [[research-methods-aied|researcher]] agency, and institutional responsibility**, with contributors calling for equity-informed policies, critical AI literacy, and inclusive co-design in GenAI development.
-- Drawing on Blommaert's notion of "orders of indexicality," contributors argue that language varieties are evaluated through hierarchies of value, and that GenAI **reinforces these hierarchies by automating what counts as 'good' writing** — so apparent improvements in quality may conceal the algorithmic enforcement of standardised norms.
+- Drawing on Blommaert's notion of "orders of indexicality," contributors argue that language varieties are evaluated through hierarchies of value, and that GenAI **reinforces these hierarchies by automating what counts as 'good' writing** — so apparent improvements in quality may conceal the algorithmic enforcement of standardized norms.
 - The authors conclude that while GenAI may reinforce existing hierarchies, it **can also serve as a site of resistance**, depending on how it is designed, governed, and used within scholarly communities committed to linguistic diversity.
 
 ## Study Design & Method
@@ -27,7 +27,7 @@ Rather than an empirical study, the piece is a dialogic scholarly intervention: 
 
 ## Implications for AI in Education
 
-For [[writing-education]] and English for Research Publication Purposes, the dialogue implies that GenAI tools are not linguistically neutral: they encode standards that can marginalise minoritised varieties, so questions of [[equity-in-ai-education]] must be built into how academic writing instruction prepares students to use these tools. The calls for critical [[ai-literacy]] and inclusive co-design connect directly to curricula, suggesting students should be taught to use GenAI reflexively rather than defer to its standardising output.
+For [[writing-education]] and English for Research Publication Purposes, the dialogue implies that GenAI tools are not linguistically neutral: they encode standards that can marginalize minoritised varieties, so questions of [[equity-in-ai-education]] must be built into how academic writing instruction prepares students to use these tools. The calls for critical [[ai-literacy]] and inclusive co-design connect directly to curricula, suggesting students should be taught to use GenAI reflexively rather than defer to its standardizing output.
 
 ## Connected Concepts
 

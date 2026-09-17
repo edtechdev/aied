@@ -1,7 +1,7 @@
 ---
 title: "Purpose Before Policy: Academic Integrity, Generative AI, and Rhetorical Stance"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-08-28T14:30:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [academic-integrity, higher-ed, governance, educational-policy-ai, ethics, generative-ai, philosophy-of-ai-in-education, stakeholders]
 research_method: [interviews]
@@ -12,7 +12,7 @@ confidence: high
 
 ---
 
-> **Synthesis:** Taylor and LaCroix argue that whether [[generative-ai|generative AI]] use constitutes [[academic-integrity|misconduct]] depends on a prior question: what is the university's purpose? Drawing on an historical and rhetorical account of the Anglo-American university, they analyse mission statements from leading university networks to show that rising GenAI-related misconduct reflects *structural incoherence* in the neo-liberal university, where technological enthusiasm, corporate influence, and policy enforcement often conflict. They conclude that universities cannot credibly enforce integrity standards in the age of AI without first ensuring coherence between their stated missions, [[pedagogy|pedagogical practices]], and approaches to emerging [[ai-technologies|technologies]].
+> **Synthesis:** Taylor and LaCroix argue that whether [[generative-ai|generative AI]] use constitutes [[academic-integrity|misconduct]] depends on a prior question: what is the university's purpose? Drawing on an historical and rhetorical account of the Anglo-American university, they analyze mission statements from leading university networks to show that rising GenAI-related misconduct reflects *structural incoherence* in the neo-liberal university, where technological enthusiasm, corporate influence, and policy enforcement often conflict. They conclude that universities cannot credibly enforce integrity standards in the age of AI without first ensuring coherence between their stated missions, [[pedagogy|pedagogical practices]], and approaches to emerging [[ai-technologies|technologies]].
 
 ## Key Findings
 

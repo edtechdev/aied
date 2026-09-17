@@ -1,7 +1,7 @@
 ---
 title: "Supporting self-regulated learning through generative AI feedback in online higher education: the importance of student perceptions of the source of feedback"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-08-23T14:00:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [self-regulated-learning, feedback, generative-ai, ai-feedback-quality, online-teaching-and-learning, higher-ed, student-ai-interaction, metacognition]
 research_method: [mixed methods]
@@ -22,7 +22,7 @@ Feedback is widely recognized as critical to learning, but providing timely, per
 
 ## Self-Regulated Learning in Online Contexts
 
-Online learning increases learner autonomy while reducing direct [[teacher-role|instructor]] presence, demanding advanced self-regulated learning skills. The study operationalizes SRL using the Ye and Pennisi (2022) evidence-centred framework, mapping roughly 48,000 MOODLE trace records to six proxies — goal setting, task strategies, environment structuring, time management, [[help-seeking]], and self-evaluation. The GenAI treatment group showed significant improvement in Task Strategies, while the control group showed a lowered trend in Task Strategies and Time Management, consistent with prior findings that lower-SRL students are more prone to disengagement under inconsistent support. This demonstrates the value of trace-based indicators explicitly aligned to SRL constructs, rather than raw click counts.
+Online learning increases learner autonomy while reducing direct [[teacher-role|instructor]] presence, demanding advanced self-regulated learning skills. The study operationalizes SRL using the Ye and Pennisi (2022) evidence-centered framework, mapping roughly 48,000 MOODLE trace records to six proxies — goal setting, task strategies, environment structuring, time management, [[help-seeking]], and self-evaluation. The GenAI treatment group showed significant improvement in Task Strategies, while the control group showed a lowered trend in Task Strategies and Time Management, consistent with prior findings that lower-SRL students are more prone to disengagement under inconsistent support. This demonstrates the value of trace-based indicators explicitly aligned to SRL constructs, rather than raw click counts.
 
 ## Feedback Source Awareness
 

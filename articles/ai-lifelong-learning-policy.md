@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy"
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [lifelong-learning, educational-policy-ai, equity-in-ai-education, intelligent-tutoring, ai-literacy, learning-analytics, bias-mitigation, regulation]
 audience: [administrators]
@@ -35,7 +35,7 @@ AI integration is examined through [[adult-learning]] theory, where andragogy em
 
 The paper reviews several prominent applications. [[personalized-learning|Personalized learning]] uses adaptive algorithms to adjust content, pacing, and difficulty to individual needs, with recommendation systems helping adults navigate complex learning ecosystems — while raising questions about [[agency|learner autonomy]] and transparency of algorithmic decisions. [[intelligent-tutoring|Intelligent tutoring systems]] provide automated feedback, guidance, and assessment suited to [[self-directed-learning]] and distance environments, though they cannot fully replicate the [[pedagogy|pedagogical]] and emotional dimensions of human interaction.
 
-[[learning-analytics|Learning analytics]] enable real-time monitoring and continuous evaluation, including predictive analytics that flag adults at risk of dropping out. In [[adult-learning]], where dropout is common due to work and family demands, early-warning interventions are especially valuable, but reliance on data-driven assessment raises [[privacy]] and surveillance concerns. Finally, AI supports [[professional-training|workforce development]] by identifying skill gaps and aligning learning with labour-market demands — though the authors question whether adult education should serve primarily economic needs or broader goals of personal development and civic participation.
+[[learning-analytics|Learning analytics]] enable real-time monitoring and continuous evaluation, including predictive analytics that flag adults at risk of dropping out. In [[adult-learning]], where dropout is common due to work and family demands, early-warning interventions are especially valuable, but reliance on data-driven assessment raises [[privacy]] and surveillance concerns. Finally, AI supports [[professional-training|workforce development]] by identifying skill gaps and aligning learning with labor-market demands — though the authors question whether adult education should serve primarily economic needs or broader goals of personal development and civic participation.
 
 ## Opportunities for Adult Education Policy
 

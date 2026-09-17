@@ -1,7 +1,7 @@
 ---
 title: Automated Grading of Linux/Bash Examinations Using Large Language Models
 created: "2026-07-03T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [llm, automated-assessment, cs-education, formative-assessment, higher-ed, scaffolding, learning-analytics, ai-literacy, k-12]
 audience: [instructors]
@@ -17,12 +17,12 @@ confidence: high
 
 ## Overview
 
-Grading command-line examinations by hand does not scale to rising enrolments in computing degrees, and rule-based autograders cannot cope with partial credit, equivalent solutions, or syntactic variation. The authors frame the problem as a measurement question: can an LLM's scores be treated as interchangeable with expert judgement, and if not, for which *kinds* of question does it fail? Their answer is to make question difficulty an explicit, graded variable rather than a nuisance, via a taxonomy that predicts where automated scoring can be trusted. The work sits in [[cs-education|computing education]] and speaks to the wider [[automated-assessment|automated assessment]] and [[formative-assessment]] literature.
+Grading command-line examinations by hand does not scale to rising enrollments in computing degrees, and rule-based autograders cannot cope with partial credit, equivalent solutions, or syntactic variation. The authors frame the problem as a measurement question: can an LLM's scores be treated as interchangeable with expert judgment, and if not, for which *kinds* of question does it fail? Their answer is to make question difficulty an explicit, graded variable rather than a nuisance, via a taxonomy that predicts where automated scoring can be trusted. The work sits in [[cs-education|computing education]] and speaks to the wider [[automated-assessment|automated assessment]] and [[formative-assessment]] literature.
 
 ## Study Design & Method
 
 - **Setting and sample.** 1,200 exam responses from second-year Computer Engineering undergraduates in an Operating Systems course at a Spanish university. The instrument was a closed-book, 90-minute midterm administered after four weeks of instruction, comprising 16 independent exercises; students wrote answers directly on a shared Linux server to fix conditions and block external resources.
-- **Human baseline.** Three experienced instructors independently graded every response on a custom web platform through a blind interface, following a rubric refined over several academic terms. The rubric carried general criteria (command structure, syntax, paths, pipeline sequencing) plus question-specific guidance worth 0.25–1.25 points, and catalogued accepted alternative solutions and common errors with their deductions.
+- **Human baseline.** Three experienced instructors independently graded every response on a custom web platform through a blind interface, following a rubric refined over several academic terms. The rubric carried general criteria (command structure, syntax, paths, pipeline sequencing) plus question-specific guidance worth 0.25–1.25 points, and catalogd accepted alternative solutions and common errors with their deductions.
 - **Taxonomy.** A four-level scheme crossing cognitive complexity (drawing on Bloom's Revised Taxonomy) with operational impact: L1 information retrieval (e.g. `ls`, `cat`, `pwd`), L2 basic file manipulation, L3 structural understanding (pipelines, permissions, conditional logic), and L4 advanced system management.
 - **Models and prompt ablation.** GPT 5.2, Claude Opus 4.6, Gemini 3.0 Pro and GLM 5 were run at default settings on the same responses under two prompts: Variant 1 (no rubric; minimum context) and Variant 2 (full rubric plus a reference correct answer).
 - **Metrics.** ICC(3,1) against the human consensus, alongside Pearson and Spearman correlation, weighted kappa, mean absolute error and Bland-Altman bias, reported globally and stratified by taxonomy level.
@@ -41,7 +41,7 @@ Grading command-line examinations by hand does not scale to rising enrolments in
 
 For instructors and designers, the taxonomy is offered as an allocation rule rather than an automation switch: L1–L2 questions can be delegated to AI-assisted grading with confidence, while L3–L4 questions should route to human review or hybrid workflows. The uniform V1→V2 gains argue that rubric development is a prerequisite for automated grading rather than an optional step — a well-specified rubric raises agreement more than switching provider ecosystem, so [[prompt-engineering|prompt]] and rubric design deserve the investment first.
 
-The paper's most consequential caveat is about [[assessment-validity|validity]], not accuracy. Manual inspection found a recurring failure mode in which models penalised answers for using filenames or paths that differed from the reference solution even though the student had correctly created those artefacts in a preceding question. In sequential, task-based exams a single surface discrepancy can cascade across items and produce a categorically invalid grade for a student who demonstrated mastery. Because human graders interpret student intent — distinguishing productive approximations from genuine misconceptions — the authors conclude that frontier LLMs cannot yet substitute judgement on questions requiring structural reasoning, cross-item context, or intent recognition, and that [[human-in-the-loop-ai|human oversight]] stays necessary at the top of the taxonomy. The study's own scope limits the claim to a single course, one examination sitting and default model settings, with prompt variants and parameters such as temperature left for future work.
+The paper's most consequential caveat is about [[assessment-validity|validity]], not accuracy. Manual inspection found a recurring failure mode in which models penalised answers for using filenames or paths that differed from the reference solution even though the student had correctly created those artifacts in a preceding question. In sequential, task-based exams a single surface discrepancy can cascade across items and produce a categorically invalid grade for a student who demonstrated mastery. Because human graders interpret student intent — distinguishing productive approximations from genuine misconceptions — the authors conclude that frontier LLMs cannot yet substitute judgment on questions requiring structural reasoning, cross-item context, or intent recognition, and that [[human-in-the-loop-ai|human oversight]] stays necessary at the top of the taxonomy. The study's own scope limits the claim to a single course, one examination sitting and default model settings, with prompt variants and parameters such as temperature left for future work.
 
 ## Connected Concepts
 
@@ -56,7 +56,7 @@ The paper's most consequential caveat is about [[assessment-validity|validity]],
 - [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
 - [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
+- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
 - [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
 
 ## Citation

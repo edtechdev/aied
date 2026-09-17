@@ -1,7 +1,7 @@
 ---
 title: "An AI-supported E-mentoring model to develop EFL pre-service teachers' self-efficacy and emotional intelligence"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [teacher-education, self-efficacy, language-learning, social-emotional-learning, ai-literacy]
 audience: [teacher educators, researchers, instructors]
@@ -11,19 +11,19 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1853510.md']
 confidence: high
 ---
 
-> **Synthesis:** Ismael, Luo, and Li (2026) test a 10-week AI-supported e-mentoring model with 50 second-year [[language-learning|EFL]] pre-service teachers during their practicum in Egypt, pairing structured human mentoring, collaborative digital platforms, and AI-driven feedback via Gemini. The experimental group outperformed a conventional-practicum control group on both [[self-efficacy]] and trait [[social-emotional-learning|emotional intelligence]], with large effects, while interviews and weekly reflective logs show a move from control-oriented to student-centred, reflective practice. The authors frame AI as an augmentation of human mentoring rather than a replacement, attributing the gains to an integrated ecosystem of reflection, peer collaboration, and feedback.
+> **Synthesis:** Ismael, Luo, and Li (2026) test a 10-week AI-supported e-mentoring model with 50 second-year [[language-learning|EFL]] pre-service teachers during their practicum in Egypt, pairing structured human mentoring, collaborative digital platforms, and AI-driven feedback via Gemini. The experimental group outperformed a conventional-practicum control group on both [[self-efficacy]] and trait [[social-emotional-learning|emotional intelligence]], with large effects, while interviews and weekly reflective logs show a move from control-oriented to student-centered, reflective practice. The authors frame AI as an augmentation of human mentoring rather than a replacement, attributing the gains to an integrated ecosystem of reflection, peer collaboration, and feedback.
 
 ## Key Findings
 
 - **Self-efficacy grew substantially more in the AI-supported group.** Teachers using the e-mentoring model reported markedly stronger beliefs in their ability to manage classrooms, engage students, and apply instructional strategies, well beyond the modest gains seen in the control group.
 
-- **The gains spread across all three self-efficacy subdomains.** Student engagement, classroom management, and instructional practice all improved, signalling a broadened rather than a narrow sense of teaching competence.
+- **The gains spread across all three self-efficacy subdomains.** Student engagement, classroom management, and instructional practice all improved, signaling a broadened rather than a narrow sense of teaching competence.
 
 - **Trait emotional intelligence rose as well.** Teachers in the experimental group reported higher confidence and emotional competence, consistent with mentoring that deliberately worked on the affective side of teaching alongside the technical.
 
-- **Teachers shifted from moderate to genuinely high perceived efficacy.** They reported greater confidence in handling disruptive behaviour, sustaining engagement, and teaching independently rather than leaning on scripts or supervisor direction.
+- **Teachers shifted from moderate to genuinely high perceived efficacy.** They reported greater confidence in handling disruptive behavior, sustaining engagement, and teaching independently rather than leaning on scripts or supervisor direction.
 
-- **[[qualitative-research|Qualitative]] data show changed pedagogy.** Four themes emerged: classroom management beliefs moving from "making students silent" toward rapport-building, a shift to student-centred engagement, growth in communicative and inductive teaching practices, and a joint development of self-efficacy and emotional intelligence.
+- **[[qualitative-research|Qualitative]] data show changed pedagogy.** Four themes emerged: classroom management beliefs moving from "making students silent" toward rapport-building, a shift to student-centered engagement, growth in communicative and inductive teaching practices, and a joint development of self-efficacy and emotional intelligence.
 
 - **Three mechanisms linked the outcomes** — continuous reflective practice, collaborative peer learning, and AI-supported instructional and emotional feedback — which the authors argue produced a mutually reinforcing effect on confidence and emotional [[regulation]] rather than two separate developmental tracks.
 
@@ -31,13 +31,13 @@ confidence: high
 
 An embedded [[mixed-methods-research|mixed-methods]] design within a quasi-experimental framework anchors the study in a [[higher-ed|higher-education]] [[teacher-education]] context. Participants were 50 second-year [[english-education|EFL]] pre-service teachers at the Faculty of Education, Ain Shams University (Egypt), in the first semester of 2025-2026, placed across ten public schools. Randomization was conducted at the school level by lottery: five schools to the experimental condition and five to the control. All participants were female, reflecting gender-segregated practicum placement.
 
-The experimental group received the AI-supported e-mentoring model across pre-practicum, during-practicum, and post-practicum phases: Google Classroom for weekly tasks and resources, Nearpod for interactive content and lesson modelling, Facebook as a [[collaborative-learning|collaborative]] mentoring space for sharing teaching videos and peer [[feedback]], Padlet for anonymous reflection and scenario analysis, and Gemini for personalized, context-sensitive feedback. The control group followed standard practicum procedures — school-based supervision by the department head and cooperating [[teacher-role|teacher]], informal oral feedback, and no structured online platforms or AI tools. The intervention ran for about ten weeks, aligned to the practicum schedule.
+The experimental group received the AI-supported e-mentoring model across pre-practicum, during-practicum, and post-practicum phases: Google Classroom for weekly tasks and resources, Nearpod for interactive content and lesson modeling, Facebook as a [[collaborative-learning|collaborative]] mentoring space for sharing teaching videos and peer [[feedback]], Padlet for anonymous reflection and scenario analysis, and Gemini for personalized, context-sensitive feedback. The control group followed standard practicum procedures — school-based supervision by the department head and cooperating [[teacher-role|teacher]], informal oral feedback, and no structured online platforms or AI tools. The intervention ran for about ten weeks, aligned to the practicum schedule.
 
-Outcomes were measured with the 24-item Teachers' Sense of Efficacy Scale (TSES) and the 30-item Trait Emotional Intelligence [[self-report-measures|Questionnaire]] (TEIQue), administered before and after the intervention, with good internal consistency and no meaningful baseline differences between groups. Effects were tested with mixed (group-by-time) analyses of variance, and the qualitative strand — pre- and post-intervention semi-structured interviews plus weekly reflective inputs — was analysed thematically with a hybrid coding approach. Because the sample was set by availability rather than a priori power analysis, a sensitivity analysis indicated the design could reliably detect only relatively large effects.
+Outcomes were measured with the 24-item Teachers' Sense of Efficacy Scale (TSES) and the 30-item Trait Emotional Intelligence [[self-report-measures|Questionnaire]] (TEIQue), administered before and after the intervention, with good internal consistency and no meaningful baseline differences between groups. Effects were tested with mixed (group-by-time) analyses of variance, and the qualitative strand — pre- and post-intervention semi-structured interviews plus weekly reflective inputs — was analyzed thematically with a hybrid coding approach. Because the sample was set by availability rather than a priori power analysis, a sensitivity analysis indicated the design could reliably detect only relatively large effects.
 
 Interview data trace a shift from wanting to avoid teaching out of fear of classroom challenges toward later reports of reduced [[ai-anxiety-and-stress|anxiety]] — a change the authors read as emerging emotional regulation supported by guided reflection.
 
-The theoretical [[scaffolding]] combines Bandura's Social Cognitive Theory (mastery and vicarious experiences, social persuasion, emotional states), a Hattie-and-Timperley [[feedback]] division of labour in which AI works at the task and process levels while human mentors address [[self-regulated-learning|self-regulation]] and self-level concerns, and a trait-based conception of emotional intelligence. AI is explicitly positioned as augmenting, not replacing, the human mentor.
+The theoretical [[scaffolding]] combines Bandura's Social Cognitive Theory (mastery and vicarious experiences, social persuasion, emotional states), a Hattie-and-Timperley [[feedback]] division of labor in which AI works at the task and process levels while human mentors address [[self-regulated-learning|self-regulation]] and self-level concerns, and a trait-based conception of emotional intelligence. AI is explicitly positioned as augmenting, not replacing, the human mentor.
 
 ## Implications for AI in Education
 
@@ -59,7 +59,7 @@ The theoretical [[scaffolding]] combines Bandura's Social Cognitive Theory (mast
 
 - **All participants were female**, a consequence of gender-segregated school placements and a predominantly female English cohort; gender representation and cross-context generalizability are limited.
 
-- **Clustering not modelled.** Randomization at the school level means participants within a school are not fully independent; multilevel modelling is recommended for future work with more schools.
+- **Clustering not modeled.** Randomization at the school level means participants within a school are not fully independent; multilevel modeling is recommended for future work with more schools.
 
 - **Short, single-semester intervention** restricts claims about the long-term [[sustainability]] of gains past the practicum.
 

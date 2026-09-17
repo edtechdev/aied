@@ -1,7 +1,7 @@
 ---
 title: 'I can''t read your mind": A Study of Neurodivergent Computing Students'' Experiences with Collaborative Active Learning'
 created: "2026-05-25T04:33:04-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [student-experience, cs-education, special-education, equity-in-ai-education, collaborative-learning, scaffolding, ai-education]
 connected_faqs: [ai-disabled-neurodivergent-learners]
@@ -33,7 +33,7 @@ The findings connect to broader concerns in [[equity-in-ai-education]] and [[equ
 - [[suacode-african-students-motivations]] — Why SuaCode?": Understanding African Students'' Motivations for Taking a Smartphone-Based Online Coding Course
 - [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
 - [[embodied-string-learning-blindness-low-vision-musicians]] — Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision
-- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
+- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analyzing Dyslexic Learners Insights from Online Forums
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education
 

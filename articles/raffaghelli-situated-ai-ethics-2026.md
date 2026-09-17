@@ -1,7 +1,7 @@
 ---
 title: "Situated AI ethics: a cultural-historical and ecological framework for education"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-education, ethics, teacher-ai-competency, higher-ed, learning-theories, equity-in-ai-education]
 research_method: [theoretical analysis, case study]
@@ -10,7 +10,7 @@ sources: ['raw/papers/raffaghelli-situated-ai-ethics-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Raffaghelli, Vartiainen, Bower, Ronci, Shelton, MacCallum, Lee, Webb, Chtouki & Smith (2026) propose a **[[situated-learning|situated]] AI ethics** framework for education that fuses Bronfenbrenner's ecological systems theory with Cultural-Historical [[activity-theory-aied|Activity Theory]] (CHAT). Moving beyond universalist, principle-based ethics, they frame AI as a non-neutral socio-technical assemblage whose ethical implications are historically produced and locally negotiated. Applied as a critical-ecological activity model across five ecological levels (self, classroom/group, state/geopolitical, cultural norms, global), the framework is used to comparatively analyse seven national cases (Australia, Finland, England, France, Italy, New Zealand, South Korea). The analysis finds teachers are routinely positioned as moral gatekeepers of AI use while lacking structural, [[governance|institutional]], and epistemic support, and argues that ethical AI [[student-engagement|engagement]] requires context-sensitive, collective, and transformative agency that extends [[ai-education|AI literacy]] beyond technical skills toward critical, political, and ecological forms of action.
+> **Synthesis:** Raffaghelli, Vartiainen, Bower, Ronci, Shelton, MacCallum, Lee, Webb, Chtouki & Smith (2026) propose a **[[situated-learning|situated]] AI ethics** framework for education that fuses Bronfenbrenner's ecological systems theory with Cultural-Historical [[activity-theory-aied|Activity Theory]] (CHAT). Moving beyond universalist, principle-based ethics, they frame AI as a non-neutral socio-technical assemblage whose ethical implications are historically produced and locally negotiated. Applied as a critical-ecological activity model across five ecological levels (self, classroom/group, state/geopolitical, cultural norms, global), the framework is used to comparatively analyze seven national cases (Australia, Finland, England, France, Italy, New Zealand, South Korea). The analysis finds teachers are routinely positioned as moral gatekeepers of AI use while lacking structural, [[governance|institutional]], and epistemic support, and argues that ethical AI [[student-engagement|engagement]] requires context-sensitive, collective, and transformative agency that extends [[ai-education|AI literacy]] beyond technical skills toward critical, political, and ecological forms of action.
 
 ## Key Findings
 
@@ -18,13 +18,13 @@ confidence: high
 
 - **Ethical decision-making across five ecological levels.** The critical-ecological activity model maps AI ethics onto self, classroom/group, state/geopolitical, cultural norms, and global levels. Ethical action emerges as a negotiated, context-dependent process shaped by intersecting systems—not an isolated individual choice, and not a matter of compliance with checklists.
 
-- **Teachers as moral gatekeepers without structural support.** Across all seven national contexts, teachers are frequently positioned as moral gatekeepers of AI use while lacking adequate structural, institutional, and epistemic support to exercise ethical agency. The analysis surfaces recurring tensions: uneven teacher autonomy, [[regulation|regulatory]] overload, fragmented policy guidance, cultural anxieties about automation, and global pressures around competitiveness, labour markets, and platform dependence.
+- **Teachers as moral gatekeepers without structural support.** Across all seven national contexts, teachers are frequently positioned as moral gatekeepers of AI use while lacking adequate structural, institutional, and epistemic support to exercise ethical agency. The analysis surfaces recurring tensions: uneven teacher autonomy, [[regulation|regulatory]] overload, fragmented policy guidance, cultural anxieties about automation, and global pressures around competitiveness, labor markets, and platform dependence.
 
 - **Transnational comparative analysis.** The framework is applied to a comparative analysis of seven national cases (Australia, Finland, England, France, Italy, New Zealand, South Korea), derived from expert grey-literature analysis within the [[teacher-ai-competency|EDUsummIT Sessions (TWG5)]]. This mapping shows how situated ethical practices diverge across cultures, regulatory environments, institutional conditions, and global pressures.
 
 - **From [[ai-literacy|AI literacy]] to critical, political, ecological agency.** The paper argues that ethical engagement with AI requires context-sensitive, collective, and transformative approaches that extend [[ai-education|AI literacy]] beyond technical skills toward critical, political, and ecological forms of agency—including resistance, contestation, and the co-creation of more just digital futures.
 
-- **Critique of techno-solutionism and compliance-based ethics.** The authors reject ethics as checklists, 'ethical washing,' or compliance, and critique techno-solutionist and neoliberal framings of AI in education. They foreground global dimensions such as environmental costs, labour exploitation, surveillance capitalism, and the marginalisation of [[global-south|Global South]] knowledge.
+- **Critique of techno-solutionism and compliance-based ethics.** The authors reject ethics as checklists, 'ethical washing,' or compliance, and critique techno-solutionist and neoliberal framings of AI in education. They foreground global dimensions such as environmental costs, labor exploitation, surveillance capitalism, and the marginalization of [[global-south|Global South]] knowledge.
 
 ## Educational Significance
 

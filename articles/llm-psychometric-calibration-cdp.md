@@ -1,7 +1,7 @@
 ---
 title: "Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach"
 created: "2026-07-30T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [llm, formative-assessment, adaptive-learning, student-experience, benchmark, higher-ed, knowledge-tracing, personalized-learning, ai-literacy]
 research_method: [benchmark]
@@ -36,7 +36,7 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 ## Connected Articles
 
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
+- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
 - [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System

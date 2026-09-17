@@ -1,7 +1,7 @@
 ---
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [inclusive-learning, equity-in-ai-education, special-education, learning-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
 connected_faqs: [ai-disabled-neurodivergent-learners]
@@ -23,7 +23,7 @@ confidence: high
 
 ## Introduction
 
-Inclusive learning is the design commitment that education should be built so that all learners can participate meaningfully, rather than adapted after the fact for those who struggle. It functions here as an umbrella over adjacent but distinct concepts — [[accessibility]] (can everyone perceive and operate the format?), [[assistive-technology]] (what tools bridge an individual's [[digital-divide|access gap]]?), [[universal-design-for-learning]] (how should the design anticipate variability?) — and it engages [[neurodiversity]] and [[special-education]] as design contexts rather than exceptions. AI enters as both a promise (personalisation, accommodation, translation) and a new source of exclusion (cost, data, language coverage, and the assumptions built into models).
+Inclusive learning is the design commitment that education should be built so that all learners can participate meaningfully, rather than adapted after the fact for those who struggle. It functions here as an umbrella over adjacent but distinct concepts — [[accessibility]] (can everyone perceive and operate the format?), [[assistive-technology]] (what tools bridge an individual's [[digital-divide|access gap]]?), [[universal-design-for-learning]] (how should the design anticipate variability?) — and it engages [[neurodiversity]] and [[special-education]] as design contexts rather than exceptions. AI enters as both a promise (personalization, accommodation, translation) and a new source of exclusion (cost, data, language coverage, and the assumptions built into models).
 
 ## How the related concepts fit together
 

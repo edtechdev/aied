@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence and feedback in university education: effectiveness and student perceptions"
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, feedback, higher-ed, student-experience, learning-gains, formative-assessment, ai-literacy, rag, scaffolding, llm]
 research_method: [learning analytics]
@@ -43,7 +43,7 @@ Validated 19-item questionnaire (N = 200; scales: perceived mastery α = 0.81, p
 - Perceived mastery: M ≈ 4.14–4.22 (high)
 - Positive emotions: M ≈ 3.99–4.21
 - Negative emotions: M ≈ 1.22–1.39 (low)
-- Overall satisfaction: ~98% (DeepSeek 97.5%, teacher 94%, GPT-o4-mini 100%) — analysed descriptively due to ceiling.
+- Overall satisfaction: ~98% (DeepSeek 97.5%, teacher 94%, GPT-o4-mini 100%) — analyzed descriptively due to ceiling.
 
 AI-generated feedback was experienced as acceptable and supportive, comparable to teacher feedback.
 
@@ -56,7 +56,7 @@ The authors' core argument: **feedback works as a systemic, relational process, 
 - **No prior-AI-experience data** collected; single course / discipline (Primary Teacher Education); **student assessment literacy not measured** (treated as a hypothesis, not tested).
 
 ## Implications for the knowledge base
-- A strong, well-controlled (randomised, blind, equivalence-tested) data point that **AI-generated feedback can match expert teacher feedback** for [[project-based-learning|project-based learning]] **when criteria are explicit and assessment literacy is high** — complementing [[ai-feedback-quality]] and [[ai-learning-companions-framework]] work.
+- A strong, well-controlled (randomized, blind, equivalence-tested) data point that **AI-generated feedback can match expert teacher feedback** for [[project-based-learning|project-based learning]] **when criteria are explicit and assessment literacy is high** — complementing [[ai-feedback-quality]] and [[ai-learning-companions-framework]] work.
 - Pairs naturally with [[generative-ai-guardrails-harm-learning]] (the PNAS [[rct]]): that study shows *unguarded* AI tutoring can *harm* learning, this one shows *well-architected* AI feedback can *match* teachers — together they bracket the design-dependence of [[ai-education|AIED]] outcomes.
 - Reinforces [[formative-assessment]], [[feedback|Feedback Loop]], and [[ai-literacy]] (teacher and student) as the decisive variables, over the raw tool.
 - Connects to [[rag|retrieval-augmented generation]] as a calibration mechanism and to [[cognitive-offloading|Over-Reliance]] (the authors flag it as a risk even in a positive-result study).
@@ -81,7 +81,7 @@ The authors' core argument: **feedback works as a systemic, relational process, 
 - [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers' practices and perceptions
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
 - [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritize Learning over Performance
 - [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning: Evidence from high school mathematics
 
 ## Citation

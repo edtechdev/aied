@@ -1,7 +1,7 @@
 ---
 title: "Towards sustainable AI knowledge-base assistants in computer science education: on-premise deployment and optimization with open educational resources"
 created: "2026-08-15T09:23:09-04:00"
-updated: "2026-09-12T02:40:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [cs-education, open-source, llm, rag, benchmark, privacy, ai-ed-evaluation, generative-ai, sustainability, edtech-platform]
 audience: [software developers]
@@ -12,7 +12,7 @@ sources: ['raw/papers/shen-sustainable-ai-knowledge-base-cs-education-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Shen et al. (2026) show that an [[llm|LLM]] knowledge-base assistant for introductory [[cs-education|computer science]] can be built entirely from **openly licensed content** and run on **consumer-grade hardware** — an NVIDIA RTX 3060 with 12 GB VRAM — as an alternative to cloud-dependent [[intelligent-tutoring|AI tutors]]. Their evaluation protocol is unusually complete for this literature: it reports retrieval ablations, quantization-aware fine-tuning, VRAM and energy per query, and hallucination measured against retrieved OER chunks rather than asserted. The strongest results (DeepSeek-MoE at 78.6% overall accuracy, 1.8 mWh per query) come with the authors' own caveat that the system is a knowledge-base assistant, not a validated [[pedagogy|pedagogical]] intervention.
+> **Synthesis:** Shen et al. (2026) show that an [[llm]] knowledge-base assistant for introductory [[cs-education|computer science]] can be built entirely from **openly licensed content** and run on **consumer-grade hardware** — an NVIDIA RTX 3060 with 12 GB VRAM — as an alternative to cloud-dependent [[intelligent-tutoring|AI tutors]]. Their evaluation protocol is unusually complete for this literature: it reports retrieval ablations, quantization-aware fine-tuning, VRAM and energy per query, and hallucination measured against retrieved OER chunks rather than asserted. The strongest results (DeepSeek-MoE at 78.6% overall accuracy, 1.8 mWh per query) come with the authors' own caveat that the system is a knowledge-base assistant, not a validated [[pedagogy|pedagogical]] intervention.
 
 ## Overview
 
@@ -25,17 +25,17 @@ A second motivation is [[sustainability]]: if every student query carries a clou
 - **Corpus.** Structured knowledge extraction from 82 open-licensed Markdown documents, indexed for retrieval in a [[rag|retrieval-augmented generation]] pipeline.
 - **Models.** Qwen-7B and DeepSeek-MoE, each evaluated in a local configuration without retrieval, with retrieval but no fine-tuning, and with NF4 4-bit quantization-aware fine-tuning.
 - **Baselines.** A TF-IDF retrieval baseline and the local LLM with no retrieval, to separate the contribution of retrieval from the contribution of the language model.
-- **Metrics.** Overall and multi-hop answer accuracy against reference answers; hallucination operationalized through a two-stage natural language inference procedure against the retrieved OER chunks (κ = 0.76 agreement with expert judgement); VRAM footprint and energy in mWh per query; and a local perplexity diagnostic.
+- **Metrics.** Overall and multi-hop answer accuracy against reference answers; hallucination operationalized through a two-stage natural language inference procedure against the retrieved OER chunks (κ = 0.76 agreement with expert judgment); VRAM footprint and energy in mWh per query; and a local perplexity diagnostic.
 - **Evaluation conditions.** Multiple ablations (metadata-enriched embeddings, curriculum-specific attention masking, dynamic batching, KV caching) isolate which design decisions drive accuracy versus efficiency.
 
 ## Key Findings
 
 1. **On-premise inference is feasible on one consumer GPU.** All inference runs on institution-owned hardware without transmitting student queries to external servers, removing cloud latency, recurring cost, and the data-governance exposure of sending student questions to a vendor — and keeping the assistant available where internet access is unreliable.
-2. **Retrieval, not the model, is the first-order design decision.** The local LLM with no retrieval reached only **52.3%** accuracy, *below* the TF-IDF baseline of **55.4%**; adding [[rag|RAG]] without any fine-tuning lifted performance to **66.6%**. A generic small model grounded in nothing is worse than a classical retrieval baseline.
+2. **Retrieval, not the model, is the first-order design decision.** The local LLM with no retrieval reached only **52.3%** accuracy, *below* the TF-IDF baseline of **55.4%**; adding [[rag]] without any fine-tuning lifted performance to **66.6%**. A generic small model grounded in nothing is worse than a classical retrieval baseline.
 3. **Fine-tuning adds value beyond retrieval.** Quantization-aware fine-tuned Qwen-7B reached **69.8%** (+3.2 pp, p = 0.031) and DeepSeek-MoE reached **78.6%** (+12.0 pp, p < 0.001), the latter including 82.3% on multi-hop questions — the same open-licensed corpus supports substantially better performance once the model is adapted to it.
 4. **Quantization-aware fine-tuning contains the cost of compression.** The full-precision-to-4-bit accuracy gap fell from 4.2 pp to **1.7 pp** for Qwen-7B and from 2.9 pp to **1.2 pp** for DeepSeek-MoE, while VRAM dropped **38.7%** and **37.9%** respectively. Quantizing without fine-tuning costs more accuracy than quantizing with it.
 5. **Energy per query becomes reportable.** The most efficient configuration (fine-tuned DeepSeek-MoE) consumed **1.8 mWh per query**, a 43.8% reduction against the Qwen-7B FP16 baseline at 3.2 mWh per query. The authors convert this into a classroom figure: a class of 30 students submitting 10 queries each consumes roughly 0.54 Wh for a session.
-6. **Compression raises hallucination, fine-tuning pulls it back.** Quantization increased hallucination for Qwen-7B (8.6% → 12.3%) and DeepSeek-MoE (7.2% → 10.4%), but the fine-tuned models recovered much of it (Qwen-7B 9.8%; DeepSeek-MoE **8.1%**). Crucially, this is measured by NLI entailment against the retrieved OER chunks rather than by self-report, and the agreement with expert judgement (κ = 0.76) is reported so readers can judge the instrument.
+6. **Compression raises hallucination, fine-tuning pulls it back.** Quantization increased hallucination for Qwen-7B (8.6% → 12.3%) and DeepSeek-MoE (7.2% → 10.4%), but the fine-tuned models recovered much of it (Qwen-7B 9.8%; DeepSeek-MoE **8.1%**). Crucially, this is measured by NLI entailment against the retrieved OER chunks rather than by self-report, and the agreement with expert judgment (κ = 0.76) is reported so readers can judge the instrument.
 7. **The ablation assigns credit precisely.** Removing metadata-enriched embeddings caused the largest accuracy loss (69.8% → 65.3%), while curriculum-specific attention masking and dynamic batching mainly improved energy efficiency, and KV caching mainly reduced latency.
 
 ## Implications

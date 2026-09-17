@@ -1,14 +1,14 @@
 ---
 title: "Generative AI in Scenario-Based Healthcare Education: A Systematic Review of Applications, Validation Practices, and Pedagogical Integration"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 sources: ["raw/papers/genai-scenario-based-healthcare-education-2026.md"]
 tags: ["generative-ai", "medical-education", "problem-based-learning", "simulation", "meta-analysis-systematic-review", "human-ai-collaboration"]
 confidence: medium
 ---
 
-> **Synthesis:** Neto and colleagues present a PRISMA 2020 systematic review synthesising **23 empirical studies** (from 1,151 initial records across five databases) on [[generative-ai]] applications in scenario-, case-, problem-, and simulation-based learning within healthcare education. Using the [[mixed-methods-research|Mixed Methods]] Appraisal Tool (MMAT) for quality appraisal and thematic synthesis, they identify six cross-cutting themes centred on a core claim: prompt design in educational contexts functions as a form of instructional specification, encoding the cognitive targets and quality criteria implicit in expert authoring. The review argues that treating prompt design as methodology, standardising multi-stage validation, and formalising [[human-ai-collaboration]] are the prerequisites for responsible integration of GenAI into [[medical-education]] and [[simulation]].
+> **Synthesis:** Neto and colleagues present a PRISMA 2020 systematic review synthesising **23 empirical studies** (from 1,151 initial records across five databases) on [[generative-ai]] applications in scenario-, case-, problem-, and simulation-based learning within healthcare education. Using the [[mixed-methods-research|Mixed Methods]] Appraisal Tool (MMAT) for quality appraisal and thematic synthesis, they identify six cross-cutting themes centered on a core claim: prompt design in educational contexts functions as a form of instructional specification, encoding the cognitive targets and quality criteria implicit in expert authoring. The review argues that treating prompt design as methodology, standardizing multi-stage validation, and formalizing [[human-ai-collaboration]] are the prerequisites for responsible integration of GenAI into [[medical-education]] and [[simulation]].
 
 ## Key Findings
 
@@ -22,9 +22,9 @@ confidence: medium
 ## Implications for Practice
 
 - **Treat [[prompt-engineering|prompt design]] as a methodological element on par with instrument selection**, disclosing system prompts, refinement steps, and evaluation criteria so that [[learning-design|instructional design]] is not rendered invisible by unreported prompting.
-- **Prioritise pedagogical alignment** by specifying cognitive targets aligned with established taxonomies and structuring learning progressions explicitly before deployment, rather than treating alignment as an optional enhancement.
-- **Standardise multi-stage validation** — the proposed four-stage pipeline (automated checks, clinical expert review, pedagogical alignment, and learner pilot testing) addresses failure modes that single-point validation cannot catch.
-- **Formalise [[human-ai-collaboration]] and define educator roles across the workflow**, since hybrid co-creation consistently outperforms both full automation and minimally guided use.
+- **Prioritize pedagogical alignment** by specifying cognitive targets aligned with established taxonomies and structuring learning progressions explicitly before deployment, rather than treating alignment as an optional enhancement.
+- **Standardize multi-stage validation** — the proposed four-stage pipeline (automated checks, clinical expert review, pedagogical alignment, and learner pilot testing) addresses failure modes that single-point validation cannot catch.
+- **Formalize [[human-ai-collaboration]] and define educator roles across the workflow**, since hybrid co-creation consistently outperforms both full automation and minimally guided use.
 
 ## Connected Concepts
 

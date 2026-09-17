@@ -1,7 +1,7 @@
 ---
 title: "Generative AI across the disciplines: an activity theory perspective on undergraduate students' AI use and disclosure practices"
 created: "2026-08-25T14:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, discipline-specific-aied, student-experience, ai-literacy]
 research_method: [survey]
@@ -45,7 +45,7 @@ Jiang et al. address the under-studied question of **disciplinary differences** 
 
 ## Connected Articles
 
-- [[walton-bearman-assessment-judgement-2025]] — Judgement in students' work with GenAI on assessment
+- [[walton-bearman-assessment-judgement-2025]] — Judgment in students' work with GenAI on assessment
 - [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic outcomes
 - [[qu-wang-disclose-or-not-genai-2026]] — Disclosure and peer influence in GenAI use
 

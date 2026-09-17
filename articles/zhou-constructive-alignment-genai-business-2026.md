@@ -1,7 +1,7 @@
 ---
 title: "From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive Alignment"
 created: "2026-08-20T08:20:00-04:00"
-updated: "2026-08-21T13:20:39-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, business-education, higher-ed, curriculum-design, learning-design, assessment, change-management]
 research_method: [case study]
@@ -17,7 +17,7 @@ confidence: medium
 ## Key Findings
 
 - **Three patterns of GenAI integration emerged:** Cross-case comparison of frequency, breadth, and pedagogical [[scaffolding]] produced a typology of *ad hoc* (sporadic, unaligned use), *blended* (inconsistent incorporation across some activities or [[assessment|assessments]]), and *constructive* integration (GenAI systematically embedded across [[teacher-role|teaching]], learning, and evaluative tasks with structured student guidance). Two of 17 cases were ad hoc, nine blended, and six constructive.
-- **Constructive integration yielded the strongest benefits:** Cases with deeper, coherent embedding reported enhanced student engagement, capability development, curriculum relevance, confidence, and employability outcomes. Constructively integrated modules demonstrated a more favourable benefit-to-risk profile in the study's trade-off analysis.
+- **Constructive integration yielded the strongest benefits:** Cases with deeper, coherent embedding reported enhanced student engagement, capability development, curriculum relevance, confidence, and employability outcomes. Constructively integrated modules demonstrated a more favorable benefit-to-risk profile in the study's trade-off analysis.
 - **Ad hoc use amplified risks:** Sporadic, unscaffolded GenAI use was more vulnerable to challenges including ethical and [[academic-integrity|academic integrity]] concerns, student overreliance, inequality (e.g., access to premium tool versions), and ineffective or inappropriate outputs.
 - **GenAI enhanced existing pedagogies rather than replacing them:** Successful integration commonly occurred within established frameworks — simulation-based, project-based, or [[experiential-learning|experiential learning]] — positioning AI as a complementary enhancement and reducing the burden of curriculum redesign.
 - **External, industry-oriented motivation drove adoption:** Business educators were strongly motivated by industry expectations and employability demands, extending prior [[research-methods-aied|research]] that emphasised internal motivations; disciplinary relevance shaped how readily educators viewed GenAI as a natural extension of their teaching.
@@ -26,8 +26,8 @@ confidence: medium
 ## Study Design & Method
 
 - **Qualitative case study** of GenAI adoption at a UK Russell Group university during its first year of implementation, part of a funded project supporting staff integration of [[ai-literacy|AI literacy]] into curricula.
-- **17 academic staff participants** (lecturers, teaching-focused academics, and programme directors) selected via purposive sampling based on GenAI teaching experience and involvement in business-related modules; the unit of analysis was the individual educator and their pedagogical approach.
-- **24 business modules** spanning undergraduate and postgraduate levels (Levels 3–7) across areas such as strategic management, marketing, [[sustainability]], consumer behaviour, financial reporting, and data analytics.
+- **17 academic staff participants** (lecturers, teaching-focused academics, and program directors) selected via purposive sampling based on GenAI teaching experience and involvement in business-related modules; the unit of analysis was the individual educator and their pedagogical approach.
+- **24 business modules** spanning undergraduate and postgraduate levels (Levels 3–7) across areas such as strategic management, marketing, [[sustainability]], consumer behavior, financial reporting, and data analytics.
 - **Data collection:** Semi-structured interviews via Microsoft Teams covering module context, implementation approaches, perceived impacts, barriers and enablers, and reflections.
 - **Analysis:** Inductive thematic coding with parent themes (use of GenAI, enablers, barriers, benefits, challenges) and iterative cross-case comparison to develop the integration typology.
 

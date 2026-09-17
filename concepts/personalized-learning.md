@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 audience: [learners]
@@ -34,7 +34,7 @@ Nie et al. (2026) developed a [[multimodal]] long-term memory architecture (Pers
 
 ### Agent-Native Personalization Substrate (DeepTutor)
 
-Ma et al. (2026) design every [[deeptutor|DeepTutor]] feature to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives [[problem-solving|problem solving]], [[automated-question-generation|question generation]], and collaborative writing.
+Ma et al. (2026) design every [[deeptutor]] feature to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives [[problem-solving|problem solving]], [[automated-question-generation|question generation]], and collaborative writing.
 
 ### Multi-Agent Social Personalization (MAIC)
 
@@ -42,7 +42,7 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 
 ### AutoML for Learner Portraits
 
-Personalization is a central objective for improving educational quality, yet processing multi-source heterogeneous learning-behaviour data remains a challenge. A personalized neural cognitive architecture search framework, driven by automated [[reinforcement-learning|machine learning]], builds learner portraits and generates diagnostic models for heterogeneous learner profiles, integrating multi-modal data to move beyond static examination outcomes.
+Personalization is a central objective for improving educational quality, yet processing multi-source heterogeneous learning-behavior data remains a challenge. A personalized neural cognitive architecture search framework, driven by automated [[reinforcement-learning|machine learning]], builds learner portraits and generates diagnostic models for heterogeneous learner profiles, integrating multi-modal data to move beyond static examination outcomes.
 
 ## Relationship to adaptive learning and intelligent tutoring
 
@@ -70,7 +70,7 @@ Bernstein and Sibia (2026) sharpen a distinction between interest personalizatio
 
 ## Prompt-conditioned micro-personalization
 
-[[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] show that the gap between system and perceived personalization can be addressed at the response level. Their framework for the Jill Watson [[llm|LLM]]/[[rag|RAG]] tutor combines learner-selected preferences (abstraction, verbosity, perception, processing, understanding) with system-inferred cognitive demand ([[cognitive-diagnosis|Bloom's Taxonomy]]) to produce 96 micro-profiles adapted at each interaction via [[prompt-engineering|structured prompt conditioning]] — no retraining, no [[discipline-specific-aied|domain-specific]] authoring. This is a hybrid of [[adaptive-learning|adaptability]] (learner-driven preference selection) and adaptivity (system-driven cognitive assessment), showing that personalization of *how* content is presented can be both scalable and perceptible to learners.
+[[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] show that the gap between system and perceived personalization can be addressed at the response level. Their framework for the Jill Watson [[llm]]/[[rag]] tutor combines learner-selected preferences (abstraction, verbosity, perception, processing, understanding) with system-inferred cognitive demand ([[cognitive-diagnosis|Bloom's Taxonomy]]) to produce 96 micro-profiles adapted at each interaction via [[prompt-engineering|structured prompt conditioning]] — no retraining, no [[discipline-specific-aied|domain-specific]] authoring. This is a hybrid of [[adaptive-learning|adaptability]] (learner-driven preference selection) and adaptivity (system-driven cognitive assessment), showing that personalization of *how* content is presented can be both scalable and perceptible to learners.
 
 ## Terminological ambiguity
 

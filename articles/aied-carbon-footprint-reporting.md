@@ -1,7 +1,7 @@
 ---
 title: "The Environmental Cost of LLMs in AIED: Reporting and Practices"
 created: "2026-06-11T04:33:04-04:00"
-updated: "2026-09-16T17:12:13-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [llm, generative-ai, educational-policy-ai, privacy, ethics, open-source, ai-education]
 research_method: [experiment]
@@ -14,8 +14,8 @@ confidence: high
 ## Key Findings
 
 - **Widespread usage, invisible costs:** A review of all AIED 2025 conference papers reveals an "LLM adoption without disclosure" pattern — most projects use LLMs, but fewer than a handful report resource consumption or carbon footprint.
-- **No standardised reporting:** There is no established procedure in the AIED community for measuring or disclosing the computational expense or environmental cost of LLM-based systems.
-- **[[open-source]] methodology proposed:** The paper introduces a standardised, open-source method with two components:
+- **No standardized reporting:** There is no established procedure in the AIED community for measuring or disclosing the computational expense or environmental cost of LLM-based systems.
+- **[[open-source]] methodology proposed:** The paper introduces a standardized, open-source method with two components:
   1. **Software tools** for measuring carbon footprint on both local and cloud hardware.
   2. **An easy-to-use formula** for estimating computational expense of frontier LLMs, even when exact parameter counts are unknown (common with proprietary models).
 - **Ethical imperative:** The paper argues that failing to report environmental costs is itself an ethical concern — aligning with broader calls for [[ai-tutor-safety-harms|responsible AI]] and [[principled-ai-education|transparency]] in educational technology.

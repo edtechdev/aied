@@ -1,7 +1,7 @@
 ---
 title: "Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, feedback, student-experience, higher-ed, ai-literacy, student-engagement]
 research_method: [mixed methods]
@@ -25,9 +25,9 @@ confidence: high
 
 When comparing GenAI to teacher feedback, students said GenAI was **more**: accessible/easy (99.3% of access codes), fast, voluminous, understandable, objective (less biased), and positive in tone — and **less risky** (99.3% of relational-risk codes: less vulnerable, no loss of social status). It aided sense-making and could be used before submission.
 
-Teacher feedback was **more**: relevant, contextualised (95.2% of contextualisation codes), specific, in-depth, personal/relational, and expert — but also more frequently **negative in tone** (e.g. dismissive, insulting) and more likely to produce negative feelings (85.3% of negativity codes).
+Teacher feedback was **more**: relevant, contextualized (95.2% of contextualization codes), specific, in-depth, personal/relational, and expert — but also more frequently **negative in tone** (e.g. dismissive, insulting) and more likely to produce negative feelings (85.3% of negativity codes).
 
-The two most frequent comparison themes were the nature of the feedback **information** (54.8% of coded instances; quality, reliability, relevance, contextualisation) and feedback **processes** (22.7%; access, timing, effort, sense-making).
+The two most frequent comparison themes were the nature of the feedback **information** (54.8% of coded instances; quality, reliability, relevance, contextualization) and feedback **processes** (22.7%; access, timing, effort, sense-making).
 
 ## Why students did NOT use GenAI for feedback (n = 3,405 comments)
 
@@ -38,7 +38,7 @@ The two most frequent comparison themes were the nature of the feedback **inform
 
 ## Implications
 
-- Students already self-initiate GenAI feedback at scale, so institutions should actively support **how** students engage with it ([[feedback-literacy|feedback literacy]], evaluative judgement — cf. [[ai-literacy]]).
+- Students already self-initiate GenAI feedback at scale, so institutions should actively support **how** students engage with it ([[feedback-literacy|feedback literacy]], evaluative judgment — cf. [[ai-literacy]]).
 - The trust gap (90.5% vs 60.1%) is not simply an accuracy verdict; it partly reflects source-credibility heuristics (Lipnevich & Smith 2008; Nazaretsky et al. 2024) and may be context-dependent (language-form advice vs deeply contextual course guidance).
 - The "less risky" property makes GenAI feedback valuable for feedback seeking, especially for anxious students — complementing [[chatgpt-feedback-engagement-genai]]'s "calm, stress-free" [[affective-computing|affective]] finding — while teacher feedback retains contextual expertise and relational recognition.
 - Directly challenges replacement narratives: GenAI is an **additional source**, not a substitute for the teacher-learner relationship (cf. [[ai-generated-feedback-higher-ed]], which found equivalent *outcomes* under strong assessment architecture — outcomes and *perceptions* can diverge).

@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Generative Artificial Intelligence in Computer Science Education: Pedagogical Innovation, Ethical Responsibility, and the Future of Assessment"
 created: "2026-08-20T08:50:00-04:00"
-updated: "2026-08-20T08:50:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, cs-education, assessment, ethics, higher-ed, adaptive-learning]
 research_method: [literature review]
@@ -24,9 +24,9 @@ confidence: medium
 
 - **Algorithmic bias can perpetuate inequity in high-stakes assessment.** GenAI tools trained on large public datasets encode social, cultural, and gender biases that can systematically disadvantage underrepresented students. Mitigation requires fairness-aware [[reinforcement-learning|machine learning]] (re-weighting, counterfactual fairness, differential privacy), explainable AI, ethics-by-design frameworks, and proactive auditing — i.e., sustained [[bias-mitigation]] rather than one-off fixes.
 
-- **[[privacy|Data privacy]], surveillance, and consent are central ethical concerns.** AI-driven [[learning-analytics|learning analytics]] collect vast behavioural and performance data (keystrokes, IDE telemetry, revision histories, forum activity), risking student surveillance and opaque data environments. The paper urges GDPR-aligned consent, anonymisation pipelines, opt-out provisions, and model-explainability reports to preserve learner autonomy.
+- **[[privacy|Data privacy]], surveillance, and consent are central ethical concerns.** AI-driven [[learning-analytics|learning analytics]] collect vast behavioral and performance data (keystrokes, IDE telemetry, revision histories, forum activity), risking student surveillance and opaque data environments. The paper urges GDPR-aligned consent, anonymisation pipelines, opt-out provisions, and model-explainability reports to preserve learner autonomy.
 
-- **[[equity-in-ai-education|Equity]] and digital access condition the promise of AI-enhanced learning.** Students from lower socioeconomic, rural, or marginalised backgrounds face both hardware/software barriers and AI-literacy gaps, a dual disparity that risks compounding existing inequalities in [[cs-education|computer science education]]. Strategies include subsidised access, low-compute and [[open-source]] AI tools, inclusive [[learning-design|instructional design]], and ongoing equity audits.
+- **[[equity-in-ai-education|Equity]] and digital access condition the promise of AI-enhanced learning.** Students from lower socioeconomic, rural, or marginalized backgrounds face both hardware/software barriers and AI-literacy gaps, a dual disparity that risks compounding existing inequalities in [[cs-education|computer science education]]. Strategies include subsidised access, low-compute and [[open-source]] AI tools, inclusive [[learning-design|instructional design]], and ongoing equity audits.
 
 ## Implications for AI in Education
 

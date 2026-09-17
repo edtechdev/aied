@@ -1,7 +1,7 @@
 ---
 title: "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework"
 created: "2026-05-15T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [automated-assessment, higher-ed, stem-education, llm, generative-ai, feedback, assessment-validity, formative-assessment, open-source]
 audience: [instructors, software developers]
@@ -24,10 +24,10 @@ The paper is a deployment and program-evaluation study rather than a benchmark. 
 
 - **System architecture.** A four-stage pipeline (ingest → segment → grade → report) grading LaTeX-native submissions against YAML rubrics with binary per-item scoring and instructor-authored reference solutions. A regex segmenter splits top-level chunks and falls back to gpt-oss:20b when it cannot; the grader is gpt-oss:120b, with responses validated against a strict Pydantic schema and prompts that wrap student text in untrusted-input delimiters.
 - **Hardware and cost.** All inference ran on one Apple Mac Studio (M3 Ultra, 256 GB unified memory) in the instructor's lab, with gpt-oss:120b and gpt-oss:20b the only active models. Cost is $0 marginal per assignment; per-submission grading took 1-3 minutes, aggregating to 4-8 hours of wall-clock time per homework set for the whole cohort.
-- **Course and enrolment.** ME 373 at Oregon State University, Winter 2026: eight homework sets across weeks 1-9 with an enrolment of about 200 students. Homework submitted in LaTeX and graded end-to-end by LaTA; instructor rubric authoring took 30-60 minutes per homework once the binary decomposition was internalised.
+- **Course and enrollment.** ME 373 at Oregon State University, Winter 2026: eight homework sets across weeks 1-9 with an enrollment of about 200 students. Homework submitted in LaTeX and graded end-to-end by LaTA; instructor rubric authoring took 30-60 minutes per homework once the binary decomposition was internalised.
 - **Corrections and disputes (two tiers).** Tier 1 was a per-assignment corrections pass: 90% of students submitted corrections, and because corrections mode regrades the entire resubmission rather than a diff, a student who fixed one problem also had the rest regraded. Tier 2 was a Gradescope regrade request handled by the instructor — roughly 5-10 requests per assignment across the quarter.
 - **Evidence streams (three, deliberately triangulated).** Operational data plus a regrade audit; an anonymous post-term student survey (N = 159) with Likert items and free responses; and a quasi-experimental between-cohort exam comparison against the same instructor's Winter 2025 cohort.
-- **Comparison cohorts.** Winter 2026 enrolment 200 with 182 sitting the final exam, against Winter 2025 enrolment 181 with 157 sitting the final. Same instructor, textbook, weekly schedule, and exam structure; about two-thirds of exam problems were held identical and the replacement third was judged slightly harder, which the author treats as biasing the comparison *against* the new cohort. No inferential statistics are reported for this comparison, by design.
+- **Comparison cohorts.** Winter 2026 enrollment 200 with 182 sitting the final exam, against Winter 2025 enrollment 181 with 157 sitting the final. Same instructor, textbook, weekly schedule, and exam structure; about two-thirds of exam problems were held identical and the replacement third was judged slightly harder, which the author treats as biasing the comparison *against* the new cohort. No inferential statistics are reported for this comparison, by design.
 - **Confidence instrument.** Block 1 measured pre/post confidence on four course-level learning objectives with 5-point Likert items, collected as a single-administration *retrospective pre-test*. Because the survey was anonymous, pre and post distributions were treated as independent and tested with Mann-Whitney U rather than a paired test.
 
 ## Key Findings
@@ -46,7 +46,7 @@ Read as an existence proof rather than an effect-size estimate, the paper answer
 
 The design lesson is where the accuracy came from. LaTA is not more reliable because the model is better than a cloud API; it is reliable because the rubric is instructor-authored, binary per item, and anchored to reference solutions — the same conditions credited in [[short-answer-scoring-quality-degradation|work on where automated scoring degrades]]. The second lesson is the corrections workflow: regrading the whole resubmission rather than a diff restored partial credit but also re-exposed already-graded work to new errors, a design tension anyone building a corrections pass should anticipate.
 
-The paper is also a useful model for [[ai-ed-evaluation|evaluation]] honesty in this literature. It reports three evidence streams and then declines to attribute the headline exam gain to its own tool, naming the composite-intervention confound, the single-instructor/single-course/single-year generalisation ceiling, the retrospective instrument, the unpaired analysis, and the single-coder thematic analysis as limitations. For readers comparing it with the larger [[formative-assessment|formative feedback]] literature, that restraint is what makes the throughput and error-rate numbers the trustworthy part of the result.
+The paper is also a useful model for [[ai-ed-evaluation|evaluation]] honesty in this literature. It reports three evidence streams and then declines to attribute the headline exam gain to its own tool, naming the composite-intervention confound, the single-instructor/single-course/single-year generalization ceiling, the retrospective instrument, the unpaired analysis, and the single-coder thematic analysis as limitations. For readers comparing it with the larger [[formative-assessment|formative feedback]] literature, that restraint is what makes the throughput and error-rate numbers the trustworthy part of the result.
 
 ## Connected Concepts
 

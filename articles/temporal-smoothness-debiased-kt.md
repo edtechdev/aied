@@ -1,7 +1,7 @@
 ---
 title: Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
 created: "2026-05-13T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [knowledge-tracing, learning-analytics, personalized-learning, intelligent-tutoring, student-experience]
 research_method: [benchmark]
@@ -78,7 +78,7 @@ For [[research-methods-aied|researchers]] and practitioners, the work underscore
 - [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
 - [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
+- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
 - [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
 - [[reliable-programming-kt]]
 - [[huang-interpretable-knowledge-tracing-2026]]

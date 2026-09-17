@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-16T14:40:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, student-engagement]
 audience: [learners]
@@ -42,7 +42,7 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 
 - **[[ai-feedback-quality|AI feedback]] sustains behavioral activation.** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long lab-in-the-field experiment found that students receiving individual GPT-4 feedback on open-ended tasks sustained the highest participation across eight weekly tasks (~50% by the last, vs ~30% for lecturer- or peer-feedback groups) and wrote ~29 more characters per answer — individual AI feedback activated engagement on both the extensive margin (participation) and the intensive margin (effort per response), even though students rated the [[peer-assessment|peer feedback]] slightly higher.
 
-- **Predicting academic AI use from learning constructs.** An exploratory [[reinforcement-learning|machine learning]] framework analysed survey data from 166 university students to identify learning-related constructs associated with intended academic ChatGPT use, using SHAP analysis to maintain [[explainable-ai|interpretability]]. Findings inform how engagement, learning support, and other constructs shape students' incorporation of AI tools into academic work.
+- **Predicting academic AI use from learning constructs.** An exploratory [[reinforcement-learning|machine learning]] framework analyzed survey data from 166 university students to identify learning-related constructs associated with intended academic ChatGPT use, using SHAP analysis to maintain [[explainable-ai|interpretability]]. Findings inform how engagement, learning support, and other constructs shape students' incorporation of AI tools into academic work.
 
 ### Measuring engagement: the metric-choice problem
 
@@ -72,12 +72,12 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 
 - **Learner characteristics moderate TTS dialogue-based lessons (2026):** In LLM+TTS-generated teacher–student, student–student, and teacher–teacher dialogue lessons, [[experiential-learning]] style and critical-thinking disposition significantly interacted with dialogue format for ARCS-based motivation, indicating that AI-generated dialogue content is differentially motivating depending on learner profile ([[tts-dialogue-lessons-learner-characteristics-2026]]).
 
-- **Dimension-specific gains at the primary level (2026):** A nine-week GenAI-supported L2 writing program with 301 Grade 5 and 6 students raised behavioural and emotional engagement but left cognitive and metacognitive engagement unchanged, and its authors name reduced self-monitoring during writing as a standing risk ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]). The pattern is a concrete instance of the engagement-versus-learning distinction above: more activity and more enjoyment did not translate into deeper processing.
+- **Dimension-specific gains at the primary level (2026):** A nine-week GenAI-supported L2 writing program with 301 Grade 5 and 6 students raised behavioral and emotional engagement but left cognitive and metacognitive engagement unchanged, and its authors name reduced self-monitoring during writing as a standing risk ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]). The pattern is a concrete instance of the engagement-versus-learning distinction above: more activity and more enjoyment did not translate into deeper processing.
 
-- **The dissociation can run the other way (2026):** In a 12-week vocational interior-design course, an immersive VR studio with an embedded LLM teaching assistant raised cognitive (d = 0.90) and behavioural (d = 0.75) engagement over traditional [[project-based-learning|project-based]] instruction while affective engagement did not differ significantly (d = 0.38) — the inverse of the L2 writing case above ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). Cognitive and behavioural gains here came with *lower* reported cognitive load, which the authors attribute to the assistant absorbing search and cross-disciplinary integration effort. Read against the writing case, the two studies suggest that which engagement dimension an AI-supported intervention moves is a property of the design — discourse-heavy immersive collaboration versus solo writing support — rather than of AI assistance in general, and that an affective advantage cannot be assumed from high-fidelity or intelligent feedback.
+- **The dissociation can run the other way (2026):** In a 12-week vocational interior-design course, an immersive VR studio with an embedded LLM teaching assistant raised cognitive (d = 0.90) and behavioral (d = 0.75) engagement over traditional [[project-based-learning|project-based]] instruction while affective engagement did not differ significantly (d = 0.38) — the inverse of the L2 writing case above ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). Cognitive and behavioral gains here came with *lower* reported cognitive load, which the authors attribute to the assistant absorbing search and cross-disciplinary integration effort. Read against the writing case, the two studies suggest that which engagement dimension an AI-supported intervention moves is a property of the design — discourse-heavy immersive collaboration versus solo writing support — rather than of AI assistance in general, and that an affective advantage cannot be assumed from high-fidelity or intelligent feedback.
 
 
-- **AI literacy works on engagement through psychological resources (2026):** A moderated mediation study of 1,198 undergraduates in Zhengzhou, China ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]) modelled engagement as an outcome of [[ai-literacy]] rather than a by-product of tool use. AI literacy predicted learning engagement directly and also indirectly by building psychological capital, with the indirect route carrying roughly half of the total effect — partial mediation, so a technological competency converts into engagement only partly through the psychological resources it generates. Professional commitment, an identity-based variable, moderated the psychological-capital-to-engagement link without any direct effect of its own, and the translation of psychological capital into engagement was markedly stronger for students who saw themselves as headed into the profession. The pattern is the clearest available instance of the point above that learner characteristics condition how AI affects engagement.
+- **AI literacy works on engagement through psychological resources (2026):** A moderated mediation study of 1,198 undergraduates in Zhengzhou, China ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]) modeled engagement as an outcome of [[ai-literacy]] rather than a by-product of tool use. AI literacy predicted learning engagement directly and also indirectly by building psychological capital, with the indirect route carrying roughly half of the total effect — partial mediation, so a technological competency converts into engagement only partly through the psychological resources it generates. Professional commitment, an identity-based variable, moderated the psychological-capital-to-engagement link without any direct effect of its own, and the translation of psychological capital into engagement was markedly stronger for students who saw themselves as headed into the profession. The pattern is the clearest available instance of the point above that learner characteristics condition how AI affects engagement.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -139,7 +139,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[productive-failure]]
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 
-- [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
+- [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modeling
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
@@ -153,6 +153,6 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
 - [[gpt4-feedback-student-activation-2026]]
 - [[genai-writing-program-primary-l2-motivation-engagement]] — Dimension-specific engagement gains at the primary level (Lu et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Cognitive and behavioural engagement up, affective engagement flat, in an immersive VR PBL studio (Jin et al. 2026)
+- [[ai-ive-pbl-vocational-design-creativity-2026]] — Cognitive and behavioral engagement up, affective engagement flat, in an immersive VR PBL studio (Jin et al. 2026)
 - [[domain-specific-chatbot-stem-enthusiasm-2025]] — Cluster-randomized secondary mathematics trial: situational interest rose with a customized chatbot while test performance did not (Rücker & Becker-Genschow 2025)
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — AI literacy drives engagement directly and through psychological capital, amplified by professional commitment (Wang 2026)

@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
@@ -23,10 +23,10 @@ confidence: high
 ### Core mechanisms
 
 - **Measure-model-adapt loop:** [[knowledge-tracing]] estimates what the student knows, [[student-modeling]] represents the learner, and the system adapts difficulty, content, and [[feedback]] accordingly.
-- **Personalization at scale:** [[personalized-learning]] systems use adaptive algorithms to serve unique learning paths for each student. [[deeptutor|DeepTutor]] and [[ai-powered-personalized-learning-elementary-fractions-2026|elementary fraction tutors]] demonstrate adaptive personalization in practice.
+- **Personalization at scale:** [[personalized-learning]] systems use adaptive algorithms to serve unique learning paths for each student. [[deeptutor]] and [[ai-powered-personalized-learning-elementary-fractions-2026|elementary fraction tutors]] demonstrate adaptive personalization in practice.
 - **Content sequencing:** [[adaptive-pretesting-retention|Adaptive pretesting]] and [[adapt-adaptive-lesson-plan-transformer|lesson plan transformers]] optimize the order and type of content presented.
 - **ITS integration:** [[intelligent-tutoring|Intelligent tutoring systems]] are the canonical adaptive learning platform, combining diagnosis with adaptation.
-- **AutoML-driven profiling and diagnosis:** Traditional educational models struggle to process multi-source, heterogeneous learning-behaviour data, which limits learner profiling and diagnostic model development. A personalized neural cognitive architecture search framework driven by automated [[reinforcement-learning|machine learning]] integrates [[multimodal|multi-modal]] educational data with heterogeneous methods, generating diagnostic models tailored to heterogeneous learner profiles and supporting dynamic rather than static analysis of learning processes.
+- **AutoML-driven profiling and diagnosis:** Traditional educational models struggle to process multi-source, heterogeneous learning-behavior data, which limits learner profiling and diagnostic model development. A personalized neural cognitive architecture search framework driven by automated [[reinforcement-learning|machine learning]] integrates [[multimodal|multi-modal]] educational data with heterogeneous methods, generating diagnostic models tailored to heterogeneous learner profiles and supporting dynamic rather than static analysis of learning processes.
 
 ### Effectiveness evidence
 
@@ -34,7 +34,7 @@ The knowledge base documents mixed evidence: adaptive systems improve outcomes w
 
 ### The AI era: LLM-based adaptation and its risks
 
-[[generative-ai|Generative AI]] has expanded what adaptive systems can do — conversational [[agentic-ai|agentic]] tutors, [[rag|RAG]]-grounded content, and [[llm]]-driven [[intelligent-tutoring|tutoring]] adapt not only problem difficulty but language and explanation style (e.g., [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor|DeepTutor]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutoring]]). However, LLM-based adaptation introduces new risks: without reliable [[student-modeling|student models]], adaptation may be based on shallow signals; over-adaptation can reduce the productive struggle students need (see [[desirable-difficulties]], [[cognitive-offloading]]); and the balance between personalizing and preserving learner [[agency]] is an open design question (see [[agentic-ai|agentic AI]]). A learner-requested variant of adaptation runs without any [[student-modeling|student model]] at all: in Sidorkin's (2026) graduate course the readings adjusted only when students asked follow-up questions to reframe, deepen, simplify or localize them, and comprehension-oriented requests reliably produced denser scaffolding (3.4x to 8.7x more definitional markers than baseline text), which is why requiring at least three follow-up questions per reading turned the material into an interaction. It also relocates the adaptive burden onto the learner: adaptation here happens only if the student knows what to ask for.
+[[generative-ai|Generative AI]] has expanded what adaptive systems can do — conversational [[agentic-ai|agentic]] tutors, [[rag]]-grounded content, and [[llm]]-driven [[intelligent-tutoring|tutoring]] adapt not only problem difficulty but language and explanation style (e.g., [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutoring]]). However, LLM-based adaptation introduces new risks: without reliable [[student-modeling|student models]], adaptation may be based on shallow signals; over-adaptation can reduce the productive struggle students need (see [[desirable-difficulties]], [[cognitive-offloading]]); and the balance between personalizing and preserving learner [[agency]] is an open design question (see [[agentic-ai|agentic AI]]). A learner-requested variant of adaptation runs without any [[student-modeling|student model]] at all: in Sidorkin's (2026) graduate course the readings adjusted only when students asked follow-up questions to reframe, deepen, simplify or localize them, and comprehension-oriented requests reliably produced denser scaffolding (3.4x to 8.7x more definitional markers than baseline text), which is why requiring at least three follow-up questions per reading turned the material into an interaction. It also relocates the adaptive burden onto the learner: adaptation here happens only if the student knows what to ask for.
 
 ### Relationship to personalized learning and intelligent tutoring
 
@@ -70,7 +70,7 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[causal-modelling-competency-assessment-2026]] — Causal Modelling of Support Interventions for Student Competency Assessment
+- [[causal-modelling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[learning-context-framework-context-aware-ai-education-2026]]

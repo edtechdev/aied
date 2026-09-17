@@ -1,7 +1,7 @@
 ---
 title: "The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students"
 created: "2026-07-14T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [llm, student-experience, equity-in-ai-education, higher-ed, bias-mitigation]
 research_method: [benchmark]
@@ -13,7 +13,7 @@ confidence: high
 
 > **Synthesis:** A systematic API audit of four LLMs acting as history tutors evaluates 1,800 responses about the 1989 Romanian Revolution, exposing a 'paternalistic filter': models differentially refuse or soften answers for marginalized students, reproducing epistemic injustice. The audit reveals that [[guardrails]] and refusals are not uniform but patterned by student identity and topic sensitivity.
 
-Centers on [[llm]] tutors in [[student-experience]] and the harms catalogued under [[ai-tutor-safety-harms]], with strong links to [[bias-mitigation]] and [[equity-in-ai-education]] in [[higher-ed]]. It extends [[cognitive-offloading|Over-Reliance]] concerns by showing even refusal behavior can entrench inequality, and calls for fairness evaluations that account for differential treatment across student groups.
+Centers on [[llm]] tutors in [[student-experience]] and the harms catalogd under [[ai-tutor-safety-harms]], with strong links to [[bias-mitigation]] and [[equity-in-ai-education]] in [[higher-ed]]. It extends [[cognitive-offloading|Over-Reliance]] concerns by showing even refusal behavior can entrench inequality, and calls for fairness evaluations that account for differential treatment across student groups.
 
 ## Key Findings
 

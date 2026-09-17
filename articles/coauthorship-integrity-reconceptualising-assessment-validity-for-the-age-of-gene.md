@@ -1,7 +1,7 @@
 ---
 title: "Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-24T19:30:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, assessment, conversational-ai, assessment-validity, academic-integrity, ai-education, intelligent-tutoring, agentic-ai, llm]
 research_method: [theoretical analysis]
@@ -14,7 +14,7 @@ confidence: high
 
 ## Key Findings
 
-- **GenAI weakens the written-artefact proxy.** Historically, written artefacts served as proxies for the cognitive processes that produced them; capable LLMs weaken this proxy because students can produce fluent, contextually appropriate text with little visible evidence of the cognitive work behind it.
+- **GenAI weakens the written-artifact proxy.** Historically, written artifacts served as proxies for the cognitive processes that produced them; capable LLMs weaken this proxy because students can produce fluent, contextually appropriate text with little visible evidence of the cognitive work behind it.
 - **GenAI undermines multiple validity sources.** Adopting an assessment-validity lens, the paper shows how GenAI erodes the integrity of several forms of validity evidence — not just authenticity.
 - **Coauthorship Integrity as new validity evidence.** The paper proposes Coauthorship Integrity as a new conceptual source of validity evidence, defined by whether students understand the AI-coauthored text they submit.
 - **The "AI Viva" prototype.** A [[conversational-ai|conversational agent]] engages students in a hybrid viva voce combining comprehension questions of controllable type and complexity (across [[metacognition|Bloom's taxonomy]] levels) with [[quantitative-research|quantitative]] and [[feedback|dialogic feedback]], aiming to gather evidence of epistemic ownership at scale.
@@ -30,7 +30,7 @@ This paper reframes the [[ai-detection]] debate for [[assessment]] design: rathe
 
 - [[assessment-validity]] — the lens adopted to analyze GenAI's effects
 - [[academic-integrity]] — reframed as coauthorship integrity
-- [[generative-ai]] — the technology undermining the written-artefact proxy
+- [[generative-ai]] — the technology undermining the written-artifact proxy
 - [[agentic-ai]] — the conversational-agent basis of the AI Viva
 - [[assessment]] — the practice being reconceptualized
 - [[authentic-assessment]] — aligned verification of understanding

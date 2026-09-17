@@ -1,7 +1,7 @@
 ---
 title: "Is hands-on learning still necessary in the age of AI? A thematic review"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-17T02:27:38-04:00"
 type: article
 tags: [experiential-learning, active-learning, embodied-learning, creativity, human-ai-collaboration, design-thinking, metacognition, pedagogy, ai-education, higher-ed]
 audience: [researchers, instructors, curriculum designers, policymakers]
@@ -10,16 +10,16 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1897168.md']
 confidence: high
 ---
 
-> **Synthesis:** A thematic review of 32 studies argues that [[generative-ai|generative AI]] does not eliminate hands-on learning in design education but reorganizes its forms into two complementary strands: **Embodied Hands-on** (bodily action, tools, materials) and **Cognitive Hands-on** (language, judgement, and human–AI iteration). Both share a cycle of action, [[feedback]], reflection, and refinement grounded in [[experiential-learning]] and [[embodied-learning]], yet rely on different sources of feedback and are not educationally interchangeable, with rapid generation raising concerns about compressed [[creativity]] processes and growing [[human-ai-collaboration]] demands on [[evaluative-judgement|evaluative judgement]] and [[metacognition]].
+> **Synthesis:** A thematic review of 32 studies argues that [[generative-ai|generative AI]] does not eliminate hands-on learning in design education but reorganizes its forms into two complementary strands: **Embodied Hands-on** (bodily action, tools, materials) and **Cognitive Hands-on** (language, judgment, and human–AI iteration). Both share a cycle of action, [[feedback]], reflection, and refinement grounded in [[experiential-learning]] and [[embodied-learning]], yet rely on different sources of feedback and are not educationally interchangeable, with rapid generation raising concerns about compressed [[creativity]] processes and growing [[human-ai-collaboration]] demands on [[evaluative-judgement|evaluative judgment]] and [[metacognition]].
 
 ## Key Findings
 
 - **AI reorganizes rather than replaces hands-on learning.** The reviewed literature shows sketching, model making, material experimentation, and prototyping remain core activities, while AI-supported generation, comparison, and selection become a second, cognitive form of practice.
-- **Two distinct forms emerge from the review.** *Embodied Hands-on* relies on bodily action, tools, and materials; *Cognitive Hands-on* develops through continued operation, judgement, and adjustment of AI-generated outcomes — a distinction that emerged from the coding rather than being predetermined.
+- **Two distinct forms emerge from the review.** *Embodied Hands-on* relies on bodily action, tools, and materials; *Cognitive Hands-on* develops through continued operation, judgment, and adjustment of AI-generated outcomes — a distinction that emerged from the coding rather than being predetermined.
 - **Both forms share one process structure.** Action, feedback, reflection, and refinement are the common cycle, but the two depend on different sources of feedback (real-world material resistance vs. language and visual outcomes) and should not be treated as equivalent.
 - **Rapid generation may compress learning processes.** Fleischmann (2025, 2026) and others report that generation efficiency can reduce exploratory sketching and gradual trial-and-error, lowering opportunities for students to encounter failure and material constraints; more iterations enabled by AI do not necessarily mean greater iterative depth.
 - **AI use alone does not directly improve creativity.** Zhu et al. (2025a) found that [[prompt-engineering|prompting]] without further steps did not raise creativity, whereas multi-step operations (generation, modification, selection) were positively associated with the creativity of final work.
-- **Cognitive Hands-on elevates metacognition and language.** Students must translate design intentions into prompts, judge alignment between outputs and goals, and reflect on their own judgement processes — but language cannot replace material feedback, and over-evaluation may narrow tolerance for uncertainty and risk-taking.
+- **Cognitive Hands-on elevates metacognition and language.** Students must translate design intentions into prompts, judge alignment between outputs and goals, and reflect on their own judgment processes — but language cannot replace material feedback, and over-evaluation may narrow tolerance for uncertainty and risk-taking.
 - **Design literacy is being redefined.** The review proposes that design literacy increasingly involves [[critical-thinking|critical evaluation]], metacognitive regulation, and decision-making within human–AI collaboration, centered on [[agency|learner agency]].
 
 ## Study Design & Method
@@ -42,11 +42,11 @@ The study used an inductive thematic review approach to examine how the role of 
 
 ## Connected Concepts
 
-- [[experiential-learning]] — hands-on practice is grounded in Kolb's cycle of experience, reflection, conceptualisation, and action.
-- [[embodied-learning]] — embodied cognition theory explains why material feedback and bodily action support design judgement.
+- [[experiential-learning]] — hands-on practice is grounded in Kolb's cycle of experience, reflection, conceptualization, and action.
+- [[embodied-learning]] — embodied cognition theory explains why material feedback and bodily action support design judgment.
 - [[creativity]] — the paper examines how AI generation, comparison, and revision reshape creative thinking via the creative-cognition framework.
 - [[human-ai-collaboration]] — prompting, generation, selection, and revision constitute the cognitive strand of hands-on learning.
-- [[metacognition]] — students must monitor their own judgement of AI outputs, not merely the outputs themselves.
+- [[metacognition]] — students must monitor their own judgment of AI outputs, not merely the outputs themselves.
 - [[design-thinking]] — the study is situated in studio-based design pedagogy and designerly ways of knowing.
 - [[active-learning]] — hands-on participation via action, feedback, and iteration reflects constructivist active engagement.
 - [[pedagogy]] — findings are framed as pedagogical tensions and curriculum design guidance for design education.

@@ -1,7 +1,7 @@
 ---
 title: "A Multimodal Framework for Embodied Cognition in Oral Explanations"
 created: "2026-08-17T10:15:00-04:00"
-updated: "2026-08-17T11:15:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [engineering-education, embodied-learning, multimodal, math-education, assessment-validity, llm, higher-ed, stem-education]
 research_method: [system development, survey]
@@ -33,7 +33,7 @@ This yields three feature representations — speech-only, gesture-only, and com
 
 ## A gesture library for statistics
 
-A domain-specific gesture library catalogues the hand movements students spontaneously produce when explaining statistical ideas, each linked to a statistical concept: straight-line, slope, dot-in-air, scatter plot, coordinate plane, normal distribution, mean/median, outlier, correlation, and grouping gestures. Keeping the library small and conceptually grounded ensures detected gestures remain interpretable to instructors rather than opaque [[machine-learning]] categories.
+A domain-specific gesture library catalogs the hand movements students spontaneously produce when explaining statistical ideas, each linked to a statistical concept: straight-line, slope, dot-in-air, scatter plot, coordinate plane, normal distribution, mean/median, outlier, correlation, and grouping gestures. Keeping the library small and conceptually grounded ensures detected gestures remain interpretable to instructors rather than opaque [[machine-learning]] categories.
 
 ## Findings
 

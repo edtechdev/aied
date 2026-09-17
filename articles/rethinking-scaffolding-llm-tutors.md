@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments"
 created: "2026-06-17T04:33:04-04:00"
-updated: "2026-09-16T15:50:31-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [scaffolding, intelligent-tutoring, llm, benchmark, student-experience, help-seeking]
 research_method: [benchmark, experiment]
@@ -10,7 +10,7 @@ sources: ['raw/papers/2606.15766.md']
 confidence: high
 ---
 
-> **Synthesis:** Alignment and evaluation methods for embedding [[scaffolding]] behaviour into [[conversational-ai|chatbots]] rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation.
+> **Synthesis:** Alignment and evaluation methods for embedding [[scaffolding]] behavior into [[conversational-ai|chatbots]] rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation.
 
 ## Key Findings
 
@@ -21,11 +21,11 @@ confidence: high
 
 ## Study Design & Method
 
-Scaffolding describes how a tutor calibrates support to the learner's current state — guiding through graduated hints, posing questions rather than giving answers, and withdrawing support as the student gains competence. Delivering timely, dialogic, and scaffolded feedback to every student at every moment of struggle is difficult at scale, and [[llm]]-based chatbots have been proposed as a way to approach this challenge. However, deploying LLMs as tutors introduces a tension: they are trained to be helpful by presenting information and answering directly, rather than engaging students in guided discovery — behaviour that is at odds with scaffolding, where a tutor withholds answers to promote reasoning. The evaluation pipeline operationalizes this tension through the Chatbot Scaffolding and Student Uptake metrics, and the corpus spans both benchmark datasets and real-world chatbot deployments.
+Scaffolding describes how a tutor calibrates support to the learner's current state — guiding through graduated hints, posing questions rather than giving answers, and withdrawing support as the student gains competence. Delivering timely, dialogic, and scaffolded feedback to every student at every moment of struggle is difficult at scale, and [[llm]]-based chatbots have been proposed as a way to approach this challenge. However, deploying LLMs as tutors introduces a tension: they are trained to be helpful by presenting information and answering directly, rather than engaging students in guided discovery — behavior that is at odds with scaffolding, where a tutor withholds answers to promote reasoning. The evaluation pipeline operationalizes this tension through the Chatbot Scaffolding and Student Uptake metrics, and the corpus spans both benchmark datasets and real-world chatbot deployments.
 
 ## Relevance to AI in Education
 
-This paper contributes directly to understanding how AI systems interact with learners in authentic educational settings. It challenges benchmark assumptions about student uptake of LLM tutor scaffolding, showing that real-world learners frequently bypass pedagogical framing in favour of their own goals, and that this behaviour is often a rational response to a mismatch rather than a failure of [[student-engagement|engagement]]. For [[intelligent-tutoring|AI Tutoring]] design, the implication is that scaffolding should be adaptive to student-driven interaction patterns — including [[help-seeking]] styles — rather than presupposed by the interface. The conversational structure of tutoring normally allows students to respond, negotiate, and ask follow-up questions, building understanding iteratively and exercising agency; benchmarks that ignore this dynamic risk overestimating both the value of rigid scaffolding and the quality of LLM tutors. For the [[benchmark]] community, the work argues for evaluation designs that reward chatbots for navigating diverse learning contexts instead of assuming uptake.
+This paper contributes directly to understanding how AI systems interact with learners in authentic educational settings. It challenges benchmark assumptions about student uptake of LLM tutor scaffolding, showing that real-world learners frequently bypass pedagogical framing in favor of their own goals, and that this behavior is often a rational response to a mismatch rather than a failure of [[student-engagement|engagement]]. For [[intelligent-tutoring|AI Tutoring]] design, the implication is that scaffolding should be adaptive to student-driven interaction patterns — including [[help-seeking]] styles — rather than presupposed by the interface. The conversational structure of tutoring normally allows students to respond, negotiate, and ask follow-up questions, building understanding iteratively and exercising agency; benchmarks that ignore this dynamic risk overestimating both the value of rigid scaffolding and the quality of LLM tutors. For the [[benchmark]] community, the work argues for evaluation designs that reward chatbots for navigating diverse learning contexts instead of assuming uptake.
 
 ## Connected Concepts
 

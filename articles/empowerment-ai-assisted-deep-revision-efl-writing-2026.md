@@ -1,7 +1,7 @@
 ---
 title: "Empowerment over enforcement: unpacking the psychological drivers of AI-assisted deep revision in EFL writing"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [writing-education, language-learning, ai-literacy, motivation, self-efficacy, cognitive-offloading, feedback, self-regulated-learning, higher-ed]
 audience: [researchers, instructors, policymakers, administrators]
@@ -25,7 +25,7 @@ confidence: high
 
 The study used a cross-sectional quantitative survey of 327 Chinese EFL undergraduates recruited from two higher education institutions (an application-oriented institute of technology and a regional normal university). Questionnaires were screened for attention-check failures, implausibly fast completions, and patterned responding, and all constructs were measured with established self-report scales adapted to the AI-writing context — prompting literacy, deep revision engagement, and the three self-determination-based psychological needs — alongside a newly developed three-item scale for external mandate, piloted on a separate group of students.
 
-Data were analysed with partial least squares structural equation modeling (PLS-SEM), chosen for its suitability to an exploratory, complex parallel-mediation model and non-normal data, with significance assessed through bootstrap resampling. Because the design is cross-sectional and single-source, the authors interpret the mediation paths as model-dependent indirect associations rather than causal sequences.
+Data were analyzed with partial least squares structural equation modeling (PLS-SEM), chosen for its suitability to an exploratory, complex parallel-mediation model and non-normal data, with significance assessed through bootstrap resampling. Because the design is cross-sectional and single-source, the authors interpret the mediation paths as model-dependent indirect associations rather than causal sequences.
 
 ## Implications
 

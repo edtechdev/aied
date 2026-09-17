@@ -1,7 +1,7 @@
 ---
 title: "Assessing ChatGPT-Generated Comments for Video-Based Learning Content to Enhance Knowledge and Emotional Support Based on Scaffolding Theory"
 created: "2026-09-10T15:16:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, scaffolding, video-education, online-teaching-and-learning, feedback, motivation, student-engagement, multimodal, learning-analytics, agentic-ai, prompt-engineering]
 research_method: [experiment, user study]
@@ -30,7 +30,7 @@ The framework's central claim is [[research-methods-aied|methodological]]: pedag
 - **Distributed scaffolding** → **content categories** splitting every comment into *knowledge support* (explanation, supplement, hint, key point) or *emotional support* (encouragement, empathy, motivation).
 - **Multimedia learning theory** → **customized display** options (font, size, display speed) intended to optimize processing.
 
-The authors also describe how the pipeline would extend to a [[pedagogical-agent|multi-agent]] system: a monitoring agent capturing behavioural signals (repeated viewing, perceived difficulty, fatigue), a decision agent choosing support type and timing, a support agent retrieving or generating the comment, and a validation agent checking alignment with instructional purpose.
+The authors also describe how the pipeline would extend to a [[pedagogical-agent|multi-agent]] system: a monitoring agent capturing behavioral signals (repeated viewing, perceived difficulty, fatigue), a decision agent choosing support type and timing, a support agent retrieving or generating the comment, and a validation agent checking alignment with instructional purpose.
 
 ## Study 1 — ChatGPT comments versus instructor comments
 

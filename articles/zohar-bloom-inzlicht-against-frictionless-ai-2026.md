@@ -1,7 +1,7 @@
 ---
 title: "Against frictionless AI"
 created: "2026-09-11T12:20:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [desirable-difficulties, cognitive-offloading, ai-sycophancy, well-being, motivation, generative-ai, metacognition, social-emotional-learning, higher-ed, cognitive-psychology]
 connected_faqs: [reducing-over-reliance]
@@ -22,7 +22,7 @@ They pre-empt the obvious objection — that washing machines, power steering an
 
 ## Intellectual work
 
-- **Effort confers meaning, not just learning.** Effort signals that our actions matter: people feel more competent, value the product of their labour more highly, and see the task as more personally significant. Even on objectively meaningless tasks, simply adding friction increases appraised purpose and meaning (Campbell, Wang & Inzlicht 2025). One striking consequence: people perceive prose they wrote themselves as more meaningful than prose ChatGPT helped them write, and demand as much compensation for their own mediocre writing as for more polished AI-composed prose.
+- **Effort confers meaning, not just learning.** Effort signals that our actions matter: people feel more competent, value the product of their labor more highly, and see the task as more personally significant. Even on objectively meaningless tasks, simply adding friction increases appraised purpose and meaning (Campbell, Wang & Inzlicht 2025). One striking consequence: people perceive prose they wrote themselves as more meaningful than prose ChatGPT helped them write, and demand as much compensation for their own mediocre writing as for more polished AI-composed prose.
 - **The relationship is curvilinear.** The effort–meaning link follows an inverted U, so moderate friction enhances meaning and motivation while excessive friction overwhelms. AI's appeal lies in reducing overwhelming friction; the risk is overshooting and removing the moderate struggles that foster growth.
 - **Folk theories of the good life align with the curve.** People claim to prefer ease yet consistently rate lives of effortful [[student-engagement|engagement]] as more desirable and morally superior (Scollon & King 2004) — meaning, the authors argue, comes from attributing success to one's own effort in overcoming difficulty.
 - **Effort is itself a skill, and there is a vicious cycle.** When process rather than product is rewarded, people learn to value work and to persevere; easy outcomes disrupt that. As human effort feels increasingly inadequate next to optimal machine output, AI substitutes for effort, the [[motivation|motivational]] benefits of effort in that domain erode, and dependence deepens.
@@ -39,7 +39,7 @@ Real connection also has friction that AI companionship lacks: friends and partn
 
 The authors explicitly decline an absolutist position. Where AI's benefits are overwhelming, abandoning it "would be perverse, even if some valuable friction is sacrificed." For people isolated by circumstance rather than choice — an 85-year-old widow without family or friends, someone confined by disability, a person with cognitive decline — AI companions can provide real comfort, and denying them access "would be cruel."
 
-The organising distinction is supplement versus substitute, applied by stage: individuals in later stages of life or career, who have already developed the skills to persevere, learn from failure and find meaning in work, can use AI to save time and amplify output. Individuals in earlier developmental stages "risk bypassing the very experiences that build these foundational skills." Their analogy is deliberate: just as students are still asked to show their work even when calculators exist, younger learners need to struggle, reason and revise through the full process *before* they can benefit from shortcuts. The social case mirrors the cognitive one — the loss of corrective feedback matters less to an older person without living relatives than to an adolescent learning to form social and romantic connections.
+The organizing distinction is supplement versus substitute, applied by stage: individuals in later stages of life or career, who have already developed the skills to persevere, learn from failure and find meaning in work, can use AI to save time and amplify output. Individuals in earlier developmental stages "risk bypassing the very experiences that build these foundational skills." Their analogy is deliberate: just as students are still asked to show their work even when calculators exist, younger learners need to struggle, reason and revise through the full process *before* they can benefit from shortcuts. The social case mirrors the cognitive one — the loss of corrective feedback matters less to an older person without living relatives than to an adolescent learning to form social and romantic connections.
 
 ## Implications for education
 

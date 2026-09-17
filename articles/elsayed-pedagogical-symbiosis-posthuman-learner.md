@@ -1,7 +1,7 @@
 ---
 title: "Pedagogical Symbiosis: conceptualizing the Post-Human Learner in the age of cognitive AI"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [learning-theories, philosophy-of-ai-in-education, human-ai-collaboration, agency, ai-education, higher-ed, embodied-learning]
 research_method: [theoretical analysis]
@@ -51,7 +51,7 @@ Pedagogical Symbiosis contributes a [[philosophy-of-ai-in-education|philosophica
 ## Connected Articles
 
 - [[posthumanist-ai-literacy-2025]] — Posthumanist AI literacy
-- [[ensemble-cognition-philosophy-ai-education]] — Towards a philosophy of ensemble cognition
+- [[ensemble-cognition-philosophy-ai-education]] — Toward a philosophy of ensemble cognition
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Learning with machines: epistemic co-agency
 - [[cognitive-shift-ai-education]] — The cognitive shift in AI education
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulated learning

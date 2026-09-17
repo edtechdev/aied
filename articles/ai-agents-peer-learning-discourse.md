@@ -1,7 +1,7 @@
 ---
 title: "When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community"
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-09-16T15:52:49-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [agentic-ai, benchmark, intelligent-tutoring, student-engagement, learning-analytics, llm, scaffolding, metacognition]
 research_method: [benchmark]
@@ -50,7 +50,7 @@ For [[ai-education|AI in education]], the Moltbook analysis suggests that multi-
 
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
 - [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning
-- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualisations as engagement tools
+- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualizations as engagement tools
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
 - [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement

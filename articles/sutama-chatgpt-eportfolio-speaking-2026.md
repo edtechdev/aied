@@ -1,7 +1,7 @@
 ---
 title: "Aligning ChatGPT with E-Portfolio Assessment as EFL Learning Model: Its Effect on Students' Speaking Performance and Feedback Literacy"
 created: "2026-08-20T08:10:00-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [eportfolio, automated-assessment, generative-ai, language-learning, feedback-literacy, assessment]
 research_method: [mixed methods, experiment]
@@ -60,7 +60,7 @@ confidence: high
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
 - [[irwin-muller-efl-peer-feedback-literacy]] — Positioning Generative AI in EFL Peer Feedback: Training Feedback Literacy and Enabling Uptake in Speaking Classes
 - [[liu-deris-ai-feedback-literacy-uptake]] — AI Feedback Literacy in Higher Education: Understanding, Measuring, and Predicting Student Feedback Uptake
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Summarise, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing
+- [[hawkins-feedback-literacy-ai-essay-writing]] — Summarize, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 
 ## Citation

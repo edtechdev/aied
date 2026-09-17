@@ -1,7 +1,7 @@
 ---
 title: Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
 created: "2026-06-11T04:33:04-04:00"
-updated: "2026-09-16T17:12:13-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, llm, cognitive-offloading, student-experience, metacognition, higher-ed, self-regulated-learning, scaffolding, pedagogical-agent, ai-literacy]
 research_method: [experiment]
@@ -20,7 +20,7 @@ confidence: high
 - **Diminished agency:** ChatGPT participants offloaded information selection to the AI, reducing their sense of control over the learning process.
 - **Higher meta-cognitive load:** The reduced sense of control paradoxically increased cognitive burden, as participants had to monitor and evaluate AI-curated outputs.
 - **Two sources of distortion:**
-  1. **Output bias** — ChatGPT favours providing solution-oriented artifacts (answers, code, summaries) over principled knowledge (explanations, theory, context).
+  1. **Output bias** — ChatGPT favors providing solution-oriented artifacts (answers, code, summaries) over principled knowledge (explanations, theory, context).
   2. **Behavioral shift** — The conversational, socially-oriented interaction paradigm reduces exploration of the broader knowledge space.
 - **Worse learning outcomes:** ChatGPT group performed worse overall, especially on higher-order critical learning tasks.
 - **Core tension:** Offloading information seeking to AI for efficiency inherently conflicts with the depth of processing required for meaningful learning.
@@ -28,7 +28,7 @@ confidence: high
 ## Implications for AIED
 
 ### For AI Tutor Design
-- The finding that ChatGPT's output bias favours "solution-oriented artifacts over principled knowledge" directly parallels the challenge identified in [[tutoring-effectiveness-index|tutoring effectiveness]] — that [[intelligent-tutoring|AI tutors]] must be designed to elicit reasoning, not provide answers.
+- The finding that ChatGPT's output bias favors "solution-oriented artifacts over principled knowledge" directly parallels the challenge identified in [[tutoring-effectiveness-index|tutoring effectiveness]] — that [[intelligent-tutoring|AI tutors]] must be designed to elicit reasoning, not provide answers.
 - The PeteChat/Tutor Not Solver design principles directly address this tension through homework [[guardrails]] and SRL support.
 
 ### For Metacognition & Self-Regulated Learning
@@ -42,7 +42,7 @@ confidence: high
 
 ### For AI Literacy
 - The study highlights the need for [[ai-literacy]] curricula that teach learners when and how to use AI tools productively, and when to rely on traditional search and [[self-directed-learning|self-directed]] exploration.
-- Educators should be aware that [[conversational-ai|conversational AI]] interfaces may inadvertently narrow learning behaviours even when the content seems helpful.
+- Educators should be aware that [[conversational-ai|conversational AI]] interfaces may inadvertently narrow learning behaviors even when the content seems helpful.
 
 ## Connected Concepts
 
