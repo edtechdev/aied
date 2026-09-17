@@ -1,16 +1,17 @@
 ---
 title: "Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T07:48:05-04:00"
 type: article
 tags: [generative-ai, assessment, conversational-ai, assessment-validity, academic-integrity, ai-education, intelligent-tutoring, agentic-ai, llm]
 research_method: [theoretical analysis]
 category: [assessment]
 sources: ['raw/papers/coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
-> **Synthesis:** Ebrahimzadeh, Shibani, and Buckingham Shum consider how pervasive human/AI coauthorship challenges current notions of [[assessment-validity|assessment validity]] and [[academic-integrity|academic integrity]]. Addressing the widespread concern that students use [[generative-ai|GenAI]] to submit texts they do not understand in non-proctored contexts, they show how GenAI undermines the integrity of multiple forms of validity evidence and propose **Coauthorship Integrity** as a new conceptual source of validity evidence — violated when students submit AI-generated content they do not understand. To hold students accountable at scale, they report progress on an **"AI Viva"**, a [[agentic-ai|conversational agent]] that engages students in a hybrid viva voce with comprehension questions of controllable type and complexity, validated in depth by expert educators and assessment experts.
+> **Synthesis:** Ebrahimzadeh, Shibani, and Buckingham Shum consider how pervasive human/AI coauthorship challenges current notions of [[assessment-validity]] and [[academic-integrity]]. Addressing the widespread concern that students use [[generative-ai|GenAI]] to submit texts they do not understand in non-proctored contexts, they show how GenAI undermines the integrity of multiple forms of validity evidence and propose **Coauthorship Integrity** as a new conceptual source of validity evidence — violated when students submit AI-generated content they do not understand. To hold students accountable at scale, they report progress on an **"AI Viva"**, a [[agentic-ai|conversational agent]] that engages students in a hybrid viva voce with comprehension questions of controllable type and complexity, validated in depth by expert educators and assessment experts.
 
 ## Key Findings
 
