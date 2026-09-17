@@ -6,6 +6,10 @@ type: article
 tags: [assessment, academic-integrity, authentic-assessment, generative-ai, higher-ed]
 sources: ['raw/papers/human-capability-test-learning-outcomes-ai.md']
 confidence: high
+research_method: [theoretical analysis]
+audience: [instructors, assessment designers]
+level: [higher ed]
+category: [assessment, framework]
 ---
 
 > **Synthesis:** This paper argues that [[generative-ai|generative AI]] has broken the traditional link between submitted work and student capability, so universities can no longer assume that the quality of submitted work reliably demonstrates what a student can do. The author proposes a human capability test built around three questions: what must a student demonstrate independently, what can be strengthened through AI augmentation, and what must the student verify, defend, and take responsibility for. An engineering material-balance problem illustrates how the test operates at the level of an individual learning outcome. The framework shifts the [[assessment]] question from whether AI was used to what capability remains the learner's own.

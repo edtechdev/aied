@@ -4,9 +4,13 @@ created: "2026-08-25T07:50:00-04:00"
 updated: "2026-08-25T07:50:00-04:00"
 type: article
 tags: [cognitive-offloading, generative-ai, writing-education, academic-integrity, student-engagement, metacognition, agency]
-research_method: [benchmark]
+research_method: [experiment]
 sources: ['raw/papers/your-brain-on-chatgpt-cognitive-debt-essay-writing.md']
 confidence: high
+discipline: [writing education]
+audience: [educators, researchers, instructors]
+level: [higher ed]
+category: [engagement, ai foundations]
 ---
 
 > **Synthesis:** Kosmyna et al. (2025) use electroencephalography (EEG) to probe the neural and behavioral consequences of [[generative-ai|LLM-assisted]] essay writing. Across three sessions, 54 participants wrote essays under three conditions — **[[llm]] (ChatGPT), Search Engine, and Brain-only (no tools)** — then in a fourth session a crossover reassigned LLM users to no-tools (LLM-to-Brain) and Brain-only users to LLM (Brain-to-LLM). EEG revealed that **brain connectivity systematically scaled down with the amount of external support**: Brain-only participants showed the strongest, most distributed neural networks; Search Engine users moderate engagement; and LLM users the weakest connectivity. Over four months, LLM users consistently underperformed at neural, linguistic, and behavioral levels — the study frames this as an **accumulation of cognitive debt**. LLM users reported the lowest essay ownership and struggled to accurately quote their own work.

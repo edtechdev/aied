@@ -6,6 +6,10 @@ type: article
 tags: [automated-assessment, automated-essay-scoring, educational-nlp, llm, science-education, assessment, formative-assessment]
 sources: ['raw/papers/auto-marking-short-answer-science-2026.md']
 confidence: high
+research_method: [systematic review, literature review]
+discipline: [science education]
+audience: [assessment professionals, researchers, educators]
+category: [assessment, synthesis]
 ---
 
 > **Synthesis:** **Auto-marking short answer questions in science: The foundational years of transformer-based models from BERT to GPT-4** — Morley, Walland, and Vidal Rodeiro scoping-review the transformer-based [[automated-assessment|auto-marking]] of short-answer [[science-education|science]] questions during the foundational period 2017–early 2024, coding 21 articles under PRISMA-ScR guidelines. BERT models (and variants) dominated, peaking in 2021 before GPT-based approaches arrived, while models augmented with domain-specific data such as textbooks and [[feedback|marking rubrics]] consistently outperformed those without. The review surfaces enduring threats to reliability, explainability, and [[bias-mitigation|fairness]] and argues auto-markers should support rather than replace [[teacher-role|human examiners]].

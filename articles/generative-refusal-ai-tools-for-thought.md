@@ -9,6 +9,8 @@ discipline: [writing education]
 
 sources: ['raw/papers/2607.24751.md']
 confidence: medium
+audience: [designers, edtech designers, instructors]
+category: [instructional design, design thinking]
 ---
 
 > **Synthesis:** Position paper exploring "Generative Refusal" — AI tools that strategically withhold text generation to demand user articulation, functioning as a Maieutic Partner rather than a cognitive offloading tool. Argues that in domains where the labor of articulation is central to craft, AI should enhance rather than bypass human cognition.

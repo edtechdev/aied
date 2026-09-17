@@ -9,6 +9,8 @@ discipline: [stem education]
 
 sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']
 confidence: medium
+audience: [edtech designers, researchers]
+category: [evaluation, equity]
 ---
 
 > **Synthesis:** **The Multimodal Interference Effect** describes a systemic accuracy drop when LLMs encounter image-rich [[stem-education|STEM]] problems: from ~96% on text-only [[physics-education|physics]] problems to ~74% on multimodal ones. A simple three-step structured dialogue intervention — eliciting visual descriptions, correcting observable misreadings without giving away physics, and re-prompting — corrects 82% of all errors and 100% of visual processing errors, restoring accuracy to 95%.

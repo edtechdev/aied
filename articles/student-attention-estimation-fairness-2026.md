@@ -6,6 +6,9 @@ type: article
 tags: [learning-analytics, equity-in-ai-education, multimodal, affective-computing, student-engagement, assessment, ai-education]
 sources: ['raw/papers/student-attention-estimation-fairness-2026.md']
 confidence: high
+research_method: [educational measurement, learning analytics]
+audience: [learning analytics designers, assessment professionals, researchers]
+category: [equity, assessment]
 ---
 
 > **Synthesis:** Fragkiadakis et al. (2026) evaluate [[bias-mitigation|fairness]]-aware multimodal temporal models for real-time [[student-engagement|student-attention]] estimation on DIPSER, a naturalistic classroom dataset pairing facial images, wearable-sensor signals, attention annotations, and automatically inferred demographic metadata. Across ten training seeds, a Residual Fusion [[multimodal|Transformer]] achieved the best mean test performance (MAE 0.283) and lowest worst-group error, though its edge over a visual-only baseline was modest. Gender- and age-targeted MAE-gap regularization reduced demographic disparities on validation data, but those gains did not consistently transfer to held-out subjects or repeated subject-level splits. The authors conclude that validation-level fairness gains should not be assumed to generalize, and that robust [[equity-in-ai-education|fairness]] assessment in educational AI requires subgroup-aware evaluation, repeated subject-level validation, and larger, better-balanced demographic samples.

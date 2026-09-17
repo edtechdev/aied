@@ -9,6 +9,7 @@ research_method: [system development]
 audience: [learners, software developers]
 sources: ['raw/papers/2607.25096.md']
 confidence: high
+category: [instructional design, engagement]
 ---
 
 > **Synthesis:** Presents Memdora, a cross-platform AI spaced repetition system that addresses limitations of binary flip-and-rate flashcard interactions. Grounded in cognitive science evidence on retrieval practice, it enables richer interaction patterns and reduces context-switching by generating flashcards from reading material. Demonstrates improved retention compared to traditional SRS tools.

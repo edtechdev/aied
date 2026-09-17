@@ -7,6 +7,9 @@ tags: [online-teaching-and-learning, meta-analysis-systematic-review, generative
 research_method: [systematic review]
 sources: ['raw/papers/ai-distance-education-systematic-review-2026.md']
 confidence: high
+audience: [institutions, educators]
+level: [higher ed, k 12]
+category: [synthesis, policy]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

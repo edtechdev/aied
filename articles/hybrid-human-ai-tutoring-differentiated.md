@@ -4,10 +4,12 @@ created: "2026-05-14T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, k-12, personalized-learning, learning-gains, equity-in-ai-education, ai-education]
-research_method: [experiment, learning analytics]
+research_method: [quasi-experiment, learning analytics]
 level: [k 12]
 sources: ['raw/papers/2605.11155.md']
 confidence: high
+audience: [administrators, instructors, researchers]
+category: [equity, instructional design]
 ---
 
 > **Synthesis:** In a large-scale quasi-experiment with 635 students (grades 5-8), hybrid human-AI tutoring produced substantial gains over AI-only tutoring: +25% time on task, +36% skill proficiency, and +61% standardized academic growth.

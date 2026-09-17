@@ -4,10 +4,12 @@ created: "2026-07-23T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, educational-policy-ai, formative-assessment, llm, assessment-validity, rag]
-research_method: [theoretical analysis, interviews]
+research_method: [theoretical analysis, policy analysis]
 level: [higher ed]
 sources: ['raw/papers/2607.19988.md']
 confidence: high
+audience: [administrators, institutions, policymakers]
+category: [policy, assessment, framework]
 ---
 
 > **Synthesis:** [[generative-ai|Generative AI]] undermines a basic premise of educational assessment: that submitted work reliably evidences the human capacities a credential certifies. Yao (2026) develops **cognitive stewardship**, a framework linking four elements — the learning claim, the delegation boundary, the evidence standard, and safeguards — to reason about what remains inferable about learning once cognitive work is delegated to AI. The paper then audits verified public GenAI assessment guidance from 30 universities across five English-speaking systems, finding that institutions are getting better at *classifying* AI use than at explaining what evidence of learning remains valid under each class.

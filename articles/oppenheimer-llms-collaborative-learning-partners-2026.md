@@ -6,6 +6,11 @@ type: article
 tags: ['llm', 'collaborative-learning', 'human-ai-collaboration', 'student-ai-interaction', 'conversational-ai', 'generative-ai', 'writing-education', 'learning-gains', 'higher-ed', 'prompt-engineering', 'self-efficacy']
 sources: ['raw/papers/oppenheimer-llms-collaborative-learning-partners-2026.md']
 confidence: medium
+research_method: [quantitative, qualitative]
+discipline: [writing education]
+audience: [instructors, educators, instructional designers]
+level: [higher ed]
+category: [collaborative learning, engagement]
 ---
 
 > **Synthesis:** **You've Got AI Friend in Me: LLMs as Collaborative Learning Partners** — This exploratory classroom study (n = 154) tested whether [[llm|Large Language Models]] can serve as [[collaborative-learning|collaborative learning]] partners. Across one semester, introductory social science students wrote argumentative essays, had them critiqued by LLMs such as ChatGPT, Gemini, or Claude, and either incorporated or rebutted the critiques. Students engaged deeply with the LLMs, enjoyed the work, and showed gains in argumentative writing, [[prompt-engineering|prompt engineering]], response-to-feedback quality, and [[self-efficacy]] for working with generative AI.

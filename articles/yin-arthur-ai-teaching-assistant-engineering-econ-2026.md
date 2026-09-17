@@ -6,6 +6,10 @@ type: article
 tags: [intelligent-tutoring, formative-assessment, feedback, machine-learning, higher-ed, engineering-education]
 sources: ['raw/papers/yin-arthur-ai-teaching-assistant-engineering-econ-2026.md']
 confidence: high
+research_method: [system development, benchmark]
+audience: [instructors, edtech designers, software developers]
+level: [higher ed]
+category: [instructional design, assessment]
 ---
 
 > **Synthesis:** **Arthur: An artificial intelligence powered teaching assistant system for Engineering Economics class** — Yin, Karakaya, Bass, and Cai (2026) introduce Arthur, an AI-powered [[intelligent-tutoring|teaching assistant]] that delivers real-time, personalized [[feedback]] on Calculated Formula Questions (CFQs) in an undergraduate Engineering Economics course, a domain where handwritten, unstructured solutions have previously blocked AI support. The authors propose a full life-cycle framework spanning data curation, data augmentation, model training, and student-facing deployment, training an [[machine-learning|XGBoost]] "solution diagnosis backbone" per CFQ to predict likely mistakes from students' submitted numerical answers. A dialogue-based interaction scheme and question-bank web interface operationalize the system to balance feedback accuracy against collection efficiency within [[higher-ed|higher education]] [[engineering-education|engineering courses]].

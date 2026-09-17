@@ -6,6 +6,11 @@ type: article
 tags: [pedagogical-partnerships, generative-ai, assessment, formative-assessment, medical-education, higher-ed, self-regulated-learning, student-engagement]
 sources: ['raw/papers/williams-ingle-assessment-co-creation-ai-2025.md']
 confidence: high
+research_method: [case study, qualitative, thematic analysis]
+discipline: [medical education]
+audience: [assessment designers, educators, instructors]
+level: [higher ed]
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** Williams and Ingle (2025) report a case study of the AI Co-Creators project at University College London (UCL), a co-creation initiative in which a student partner who had completed her second year of an undergraduate medical sciences program and a staff member collaboratively evaluated [[generative-ai|ChatGPT]]-generated output in response to diverse coursework assessments. The pair co-designed seven evaluation criteria grounded in UNESCO and JISC guidance, then examined the challenges surfaced through iterative dialogue, a structured interview, and [[qualitative-research|thematic analysis]]. The partnership found that no coursework assessment was completely immune to ChatGPT interference and explored the value of the collaboration from student, staff, and [[governance|institutional]] perspectives, connecting [[pedagogical-partnerships|co-creation and students-as-partners]] practice to [[self-regulated-learning]], enhanced understanding, and [[student-engagement|student empowerment]] in assessment design.

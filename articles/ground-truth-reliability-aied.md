@@ -5,9 +5,10 @@ updated: "2026-09-16T15:48:59-04:00"
 type: article
 tags: [benchmark, learning-analytics, generative-ai, llm, automated-assessment, human-in-the-loop-ai, ai-literacy]
 audience: [researchers]
-research_method: [benchmark, experiment]
+research_method: [position paper, theoretical analysis]
 sources: ['raw/papers/2603.29141.md']
 confidence: high
+category: [evaluation, framework]
 ---
 
 > **Synthesis:** The [[ai-education|AIED]] community over-relies on **inter-rater reliability (IRR)** — typically a single Cohen's κ coefficient — as a mechanical gatekeeper for "ground truth." This practice is insufficient and potentially misleading for the complex, noisy realities of educational data. The authors propose **four practical shifts** to strengthen the [[assessment-validity|validity]] and reliability of the evidence base of labeled AIED datasets.

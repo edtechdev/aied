@@ -7,6 +7,8 @@ tags: [agentic-ai, learning-theories, scaffolding, formative-assessment, metacog
 research_method: [theoretical analysis]
 sources: ['raw/papers/2606.04543.md']
 confidence: high
+audience: [instructional designers, edtech designers]
+category: [instructional design, framework]
 ---
 > **Synthesis:** Education AI is shifting from passive [[conversational-ai|chatbots]] to **proactive [[agentic-ai|agents]]** that initiate and pursue goals. This offers [[personalized-learning|personalization]] but risks undermining **learner [[agency]] and cognitive effort** and can tip into what the authors call *cognitive surrender*. The paper walks each of six [[pedagogy|pedagogical]] principles through what agentic initiative does to it, and proposes design responses — [[desirable-difficulties|intentional friction]], dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilization.
 

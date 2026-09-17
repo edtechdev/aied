@@ -9,6 +9,8 @@ research_method: [system development, benchmark]
 
 sources: ['raw/papers/huang-interpretable-knowledge-tracing-2026.md']
 confidence: medium
+discipline: [learning analytics]
+category: [framework, evaluation]
 ---
 
 > **Synthesis:** **Interpretable Knowledge Tracing** — A novel framework for dialogue-based Knowledge Tracing that explicitly models both student ability and tutor-turn difficulty using Item Response Theory, producing interpretable cognitive quantities from [[llm]] output logits. Addresses two critical gaps in prior work: ignored question difficulty and opaque latent representations that undermine tutor trust.

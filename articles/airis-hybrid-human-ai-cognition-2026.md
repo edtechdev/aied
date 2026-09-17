@@ -7,6 +7,8 @@ tags: [metacognition, generative-ai, self-regulated-learning, agency, cognitive-
 research_method: [theoretical analysis]
 sources: ['raw/papers/airis-hybrid-human-ai-cognition-2026.md']
 confidence: high
+audience: [researchers, instructional designers, educators]
+category: [framework, ai foundations]
 ---
 
 > **Synthesis:** [[generative-ai|Generative AI]] systems are increasingly integral to epistemic processes such as hypothesis generation, explanation construction, and decision-making, yet emerging evidence reveals a [[metacognition|metacognitive]] dilemma: as external generative capacity increases, internal monitoring, calibration, and cognitive [[student-engagement|engagement]] may decline. Kuhn and colleagues propose the AIRIS (AI-Augmented Inquiry and [[regulation]] in Hybrid Systems) framework, a multi-level control allocation architecture specifying the conditions under which epistemic agency can be preserved in hybrid generative systems. Drawing on [[distributed-cognition|distributed cognition]], [[cognitive-offloading|cognitive load]] theory, multimedia learning, and [[self-regulated-learning|self-regulated learning]], it identifies seven interacting mechanisms through which hybrid cognition may become destabilized, from delegation and calibration drift to [[motivation|motivational]]-[[affective-computing|affective]] drift, and five regulatory operators (Anticipate, Interrogate, Reflect, Integrate, Synthesize) to counteract them.

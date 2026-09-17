@@ -4,10 +4,11 @@ created: "2026-05-13T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, student-experience]
-research_method: [theoretical analysis]
+research_method: [system development, benchmark]
 audience: [learners]
 sources: ['raw/papers/2605.09369.md']
 confidence: medium
+category: [assessment, framework]
 ---
 
 > **Synthesis:** **Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning** — Introduces **PLKT** (Probabilistic Logical Knowledge Tracing), an interpretable framework that reframes [[knowledge-tracing]] from sequential latent-state prediction into *goal-conditioned evidence reasoning* over a student's historical learning behaviors. PLKT replaces deterministic vector embeddings with **Beta-distributed probabilistic embeddings** that explicitly represent uncertainty in each knowledge state, extracts **multi-level behavioral patterns** (point-level and union-level) as interpretable evidence units, and aggregates them through explicit probabilistic logical conjunction. Across five public datasets PLKT achieves state-of-the-art prediction performance while producing auditable reasoning paths that link each prediction to specific past student actions.

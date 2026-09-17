@@ -8,6 +8,7 @@ research_method: [learning analytics]
 audience: [learners]
 sources: ['raw/papers/2607.10101.md']
 confidence: high
+category: [equity, engagement]
 ---
 
 > **Synthesis:** Investigates why AI-for-education shows inconsistent average effects, arguing that learning behavior explains background-related advantage: students from advantaged backgrounds engage with AI tools in ways that compound gains, while others do not. Prior ed-tech [[research-methods-aied|research]] shows average effects mask heterogeneity; this paper quantifies the behavioral mechanism.

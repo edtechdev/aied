@@ -9,6 +9,7 @@ category: [evaluation]
 
 sources: ['raw/papers/cotal-formative-assessment-scoring-2026.md']
 confidence: high
+audience: [assessment designers, instructors]
 ---
 
 > **Synthesis:** 1. **Evidence-Centered Design (ECD)** — assessments and rubrics aligned to [[curriculum-design|curriculum]] goals from the start 2. **[[human-in-the-loop-ai|Human-in-the-loop]] [[prompt-engineering|prompt engineering]]** — labeled examples and prompts refined iteratively with educators 3. **Chain-of-thought (CoT) prompting + [[active-learning|active learning]]** — teacher and student [[feedback|feedback loops]] refine questions, rubrics, and [[llm]] prompts across iterations

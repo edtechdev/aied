@@ -7,6 +7,11 @@ tags: [teacher-role, teacher-education, formative-assessment, critical-thinking,
 connected_faqs: [faculty-development-ai]
 sources: ['raw/papers/teachers-collaborative-evaluation-ai-content.md']
 confidence: high
+research_method: [mixed methods]
+discipline: [science education]
+audience: [teachers, teacher educators]
+level: [k 12]
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** This study investigates how [[k-12|middle-school]] science teachers evaluate [[generative-ai|AI-generated]] assessment questions and how they perceive the role of collaborative evaluation in [[educational-development|professional development]]. Sixty science teachers reviewed open-ended questions on lower- and higher-order thinking skills produced by ChatGPT, rating them through their disciplinary, [[pedagogy|pedagogical]], and [[curriculum-design|curricular]] judgment. The [[mixed-methods-research|mixed-methods]] findings show that collaborative evaluation helps [[teacher-role|teachers]] apply conceptual-precision judgment to AI content and surface risks such as reinforcing [[misconceptions]]. The paper underscores the value of [[teacher-education|professional development]] that positions teachers as critical evaluators of AI-generated material rather than passive consumers.

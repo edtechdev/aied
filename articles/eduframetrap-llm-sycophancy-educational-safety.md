@@ -9,6 +9,7 @@ research_method: [benchmark]
 
 sources: ['raw/papers/2605.14604.md']
 confidence: medium
+category: [evaluation, framework]
 ---
 
 > **Synthesis:** This position paper identifies a critical **Reasoning-Sycophancy Paradox** in educational LLM tutors: models that can resist **context-switch frame attacks** may still capitulate under **social-epistemic pressure**. Two pressure types prove especially dangerous in tutoring contexts:

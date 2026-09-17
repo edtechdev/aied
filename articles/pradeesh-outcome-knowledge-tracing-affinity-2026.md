@@ -6,6 +6,10 @@ type: article
 tags: [knowledge-tracing, student-modeling, machine-learning, intelligent-tutoring, cognitive-diagnosis, learning-analytics, curriculum-design, adaptive-learning]
 sources: ['raw/papers/pradeesh-outcome-knowledge-tracing-affinity-2026.md']
 confidence: high
+research_method: [benchmark, system development]
+audience: [learning analytics designers, researchers, instructors]
+level: [higher ed]
+category: [evaluation, framework]
 ---
 
 > **Synthesis:** **Outcome-based knowledge tracing with affinity mapping and memory augmented outcome impact** — Pradeesh et al. (2026) propose the Outcome-Based Knowledge Tracing (OKT) model, a recurrent neural network that traces students' [[knowledge-tracing|knowledge states]] within Outcome-Based Education (OBE) systems by treating course outcomes as knowledge concepts. It uses OBE "affinity mappings" between course and program outcomes to capture concept relationships, and a Memory Augmented Neural Network (MANN) to model how each outcome's attainment impacts a student's evolving knowledge state. On live university engineering-program data from a learning management system, OKT achieved 89.81% AUC, outperforming DKT, DKVMN, SimpleKT, and EKT baselines.

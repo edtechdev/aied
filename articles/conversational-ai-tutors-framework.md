@@ -7,6 +7,8 @@ tags: [intelligent-tutoring, generative-ai, llm, scaffolding, personalized-learn
 research_method: [literature review]
 sources: ['raw/papers/2602.19303.md']
 confidence: high
+audience: [researchers, software developers]
+category: [framework, instructional design]
 ---
 
 > **Synthesis:** Synthesizes intelligent tutoring systems research and generative AI into a keep/change/center/study framework for conversational tutoring systems, arguing proven ITS [[ai-technologies|technologies]] should anchor generative tutors while centering student meaning-making and agency.

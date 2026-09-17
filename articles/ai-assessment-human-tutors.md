@@ -8,6 +8,7 @@ research_method: [experiment]
 audience: [instructors]
 sources: ['raw/papers/2606.18617.md']
 confidence: high
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** Thomas et al. (2026) present an AI-driven system that assesses human tutor training performance and links it to real-life tutoring quality, bridging the gap between training metrics and classroom practice. Unlike platforms that train tutors without evaluating them, this system assesses both open responses during training and authentic real-life tutoring, connecting [[intelligent-tutoring|tutor training]] to [[formative-assessment|formative]] [[feedback]] and [[automated-assessment|AI-based assessment]].

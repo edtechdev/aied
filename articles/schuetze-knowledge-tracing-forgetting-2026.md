@@ -6,6 +6,9 @@ type: article
 tags: [knowledge-tracing, student-modeling, cognitive-psychology, learning-analytics, intelligent-tutoring, machine-learning]
 sources: ['raw/papers/schuetze-knowledge-tracing-forgetting-2026.md']
 confidence: high
+research_method: [secondary analysis, process-outcome modeling]
+audience: [researchers, learning analytics designers, edtech designers]
+category: [evaluation, framework]
 ---
 
 > **Synthesis:** **Capturing Session-to-Session Dynamics of Learning and Forgetting: Testing the Limits of Knowledge Tracing Models** — Using longitudinal lab data from a successive-relearning study (Rawson et al., 2018), Schuetze, Yan, and Carvalho test whether popular [[knowledge-tracing]] models — Bayesian Knowledge Tracing, Bayesian Knowledge Tracing with Forgetting, and the Additive Factors Model — actually capture human memory and learning processes across sessions. When fit retrospectively to all sessions, the models appear to capture learning trends; but under time-based cross-validation (predicting future sessions from prior data, the realistic applied use), all of them overestimate performance, fail to account for the spacing effect, and mis-order the relative benefits of practice conditions. The authors argue this stems from a misalignment between how student models are validated and how they are deployed, calling for use- and cognitive-based validation via time-based cross-validation in [[student-modeling]] research.

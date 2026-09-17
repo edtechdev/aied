@@ -6,6 +6,10 @@ type: article
 tags: ['conversational-ai', 'k-12', 'ai-literacy', 'trust']
 sources: ['raw/papers/vahedian-children-attitudes-ai-chatbot-2026.md']
 confidence: high
+research_method: [mixed methods, thematic analysis]
+audience: [designers, educators, researchers]
+level: [elementary, k 12]
+category: [ai foundations, engagement]
 ---
 
 > **Synthesis:** **Ask Me Anything: Exploring Children's Attitudes Toward an Age-tailored AI-powered Chatbot** — This exploratory study designed "Ask Me Anything" (AMA), a child-friendly, topic-bounded chatbot restricted to astronomy, sneakers and shoes, and dinosaurs, to investigate how 63 children (ages 6–14, first grade through middle school) in a U.S. public school form attitudes and trust toward [[conversational-ai|AI-powered conversational agents]]. Thematic analysis of interactions and post-surveys revealed three patterns—expressing wonder and curiosity, testing trust and developing confidence, and building relationships through anthropomorphization—alongside a broad openness to and high trust in AI as an information source, which the authors link to gaps in [[critical-thinking|critical engagement]] and [[ai-literacy]]. The study calls for age-sensitive, trust-aware design and explicitly teaching [[privacy|digital safety]] concepts to children engaging with [[generative-ai|AI systems]].

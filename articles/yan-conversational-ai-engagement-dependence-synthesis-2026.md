@@ -7,6 +7,9 @@ tags: [conversational-ai, well-being, cognitive-offloading, metacognition, ethic
 research_method: [literature review]
 sources: ['raw/papers/10.3389_fpsyg.2026.1827795.md']
 confidence: high
+audience: [researchers, educators]
+level: [higher ed]
+category: [synthesis, framework]
 ---
 
 > **Synthesis:** Deyu Yan (2026) presents a critical narrative synthesis of 51 peer-reviewed records (2021–2026) on the psychological correlates, measurement, and reported findings of [[conversational-ai|conversational AI]] engagement and dependence-related constructs. The review separates conceptual and measurement work from 22 first-order empirical records and argues that labels such as trust, reliance, attachment, problematic use, and dependence refer to different processes that are frequently conflated in a rapidly growing body of scales. Cross-sectional studies mainly associated stronger AI-engagement or dependence-oriented scores with loneliness, social anxiety, depressive symptoms, low self-esteem, attachment insecurity, academic stress, escapism, anthropomorphism, fatigue, weaker [[critical-thinking|critical thinking]], procrastination, and lower well-being — associations that do not establish prediction or consequence. The synthesis develops a provisional framework separating instrumental-cognitive from relational-emotional use and treating [[regulation]] as a distinct dimension, and it calls for careful construct separation and design-matched claims.
