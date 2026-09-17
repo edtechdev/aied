@@ -9,6 +9,8 @@ research_method: [system development, benchmark]
 level: [higher ed]
 sources: ['raw/papers/2608.10492.md']
 confidence: high
+discipline: [cs education]
+category: [framework, evaluation]
 ---
 
 > **Synthesis:** Niousha, Kang, & Norouzi (2026) introduce **INTERNAL STUDENT DIALOGUE (INSIDE)**, a student modeling framework that fine-tunes LLMs to both *act* like students and *think* like them. Two students may submit identical work for entirely different reasons, so INSIDE generates internal dialogue grounded in Bloom's Taxonomy across cognitive, [[affective-computing|affective]], and action dimensions, fine-tuning on paired think-traces and actions. Evaluated against prompting baselines, INSIDE improves action fidelity (matching real students' code generation) and reasoning alignment (up to 57.9% across models). The work advances [[student-modeling]] and [[simulating-students]] [[research-methods-aied|research]] toward cognitively faithful student simulation.

@@ -9,6 +9,7 @@ audience: [instructors, administrators, researchers]
 level: [higher ed]
 sources: ["raw/papers/jacome-vasconez-chatgpt-adoption-xai-2026.md"]
 confidence: medium
+category: [ai foundations, framework]
 ---
 
 > **Synthesis:** Jácome-Vásconez et al. (2026) propose an **explainable AI (XAI) framework** that integrates the Unified Theory of Acceptance and Use of Technology 2 ([[technology-acceptance-model|UTAUT2]]) with [[machine-learning|machine learning]] and explainability techniques to explain university students' behavioral intention to adopt ChatGPT. Survey data from 522 students at the University of Alicante were analyzed with Ordinary Least Squares regression, Random Forest, SHAP, Necessary Condition Analysis (NCA), Importance–Performance Map Analysis (IPMA), and K-Means clustering. The framework explains 67.6% of the variance in behavioral intention and identifies four distinct student adoption profiles.

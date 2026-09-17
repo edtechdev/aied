@@ -5,10 +5,11 @@ updated: "2026-08-26T08:10:00-04:00"
 type: article
 tags: [learning-analytics, ai-literacy, activity-theory-aied, higher-ed, student-ai-interaction]
 audience: [instructors, researchers]
-research_method: [interviews]
+research_method: [system development, learning analytics]
 level: [higher ed]
 sources: ['raw/papers/moon-chat-anchored-learning-analytics-aied.md']
 confidence: high
+category: [framework, engagement]
 ---
 
 > **Synthesis:** Moon (2026) develops a Cultural-Historical Activity Theory (CHAT)-anchored [[learning-analytics|learning analytics]] pipeline that couples three facets — temporal participation, discourse quality, and concept sophistication — each mapped to CHAT activity-system elements, to support early detection and social-epistemic integration in small discussion-based [[ai-literacy|AI literacy]] classes. Deployed in a five-week AI literacy course (n = 25; 438 posts), DTW-based k-medoids clustering identified two stable participation archetypes (validated via bootstrap silhouette analysis); discourse quality showed modest lexical gains while reasoning depth stagnated and overall concept sophistication declined (Δz = –1.24). An Isolation-Forest detector flagged Week 2 volatility two weeks before participation decline, and automated discourse-quality scores converged with human-coded [[icap-framework|ICAP]] levels. The study demonstrates how a theory-aware, effect-size-centered workflow delivers interpretable insights and early warnings in a single small class without network-reconstruction overhead.

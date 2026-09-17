@@ -5,11 +5,12 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-feedback-quality, self-regulated-learning, feedback, formative-assessment, ai-literacy, trust-calibration, generative-ai, metacognition, k-12]
 audience: [learners, instructors]
-research_method: [experiment]
+research_method: [survey, quantitative]
 level: [k 12]
 
 sources: ['raw/papers/mendoza-ai-feedback-feedback-literacy-srl.md']
 confidence: high
+category: [assessment, engagement]
 ---
 
 > **Synthesis:** **[[feedback-literacy|Feedback literacy]] — specifically, students' ability to make sense of AI-generated [[ai-feedback-quality|feedback]] — is the boundary condition that determines whether ChatGPT acceptance translates into perceived [[self-regulated-learning|self-regulated learning]] benefits.**

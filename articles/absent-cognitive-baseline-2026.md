@@ -9,6 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 sources: ['raw/papers/absent-cognitive-baseline-2026.md']
 confidence: high
+category: [framework, ai foundations]
 ---
 
 > **Synthesis:** Jia & Xu (2026) propose the **Absent Cognitive Baseline (ACB)** as a conceptual framework — a [[theory-development-aied|theory-building]] contribution to the knowledge base's foundational strand. Students entering [[higher-ed|college]] in 2026–27 are among the first cohorts to have completed most of their [[k-12|secondary schooling]] under pervasive [[generative-ai|generative AI]] availability. ACB names the possible structural gap that results when sustained *substitutive* AI use during the [[formative-assessment|formative]] high-school window reduces the independent cognitive encounters on which academic [[assessment|self-assessment]] depends. The construct spans three dimensions — the unknowability of one's own cognitive boundary, false calibration from AI-generated fluency, and the de-normalization of cognitive struggle — and a conceptual model identifies three groups of moderating variables (use-, learner-, and environment-level) shaping whether ACB emerges.

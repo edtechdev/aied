@@ -9,6 +9,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/dollinger-equitable-assessment-ai-2026.md']
 confidence: medium
+audience: [educators, institutions, assessment designers]
 ---
 > **Synthesis:** Dollinger and Nieminen (2026) present a conceptual paper arguing that [[generative-ai|GenAI]]'s disruption of [[assessment]] is an opportunity — not a threat — to fundamentally reimagine how student success and failure are defined in [[higher-ed|higher education]]. Rejecting the containment approaches (surveillance, invigilation, [[ai-detection]]) that dominate current [[governance|institutional]] responses, they contend that GenAI exposes what was already true: that [[assessment]] practices have long been broken, sorting and ranking students in ways that systematically disadvantage those from [[equity-in-ai-education|equity-deserving]] backgrounds. The paper proposes reimagining success along two dimensions — a shift from individualistic to **distributed** understandings of knowledge, and a move from predetermined standards toward **agentic** assessment that positions students as active participants in defining success — with profound implications for [[authentic-assessment]] and grading.
 

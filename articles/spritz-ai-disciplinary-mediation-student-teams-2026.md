@@ -9,6 +9,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/spritz-ai-disciplinary-mediation-student-teams-2026.md']
 confidence: high
+category: [collaborative learning, instructional design]
 ---
 
 > **Synthesis:** Cheng, Chung, Chiu, Lin & Liao (2026) present Spritz, a Discord-based [[llm]] technology probe that mediates disciplinary boundaries in interdisciplinary student project teams, finding that students valued AI as both cognitive support for boundary crossing and a relational buffer — while a central tension emerged when AI moved from neutral mediator to advisor or challenger.

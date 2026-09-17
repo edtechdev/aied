@@ -9,6 +9,7 @@ level: [higher ed, k 12]
 category: [assessment]
 sources: ['raw/papers/fenton-oral-exams-ai-authentic-assessment-2025.md']
 confidence: high
+audience: [instructors, assessment designers]
 ---
 > **Synthesis:** Fenton (2025) makes the case that oral exams and assessments deserve renewed attention as an **authentic assessment** strategy in the face of [[generative-ai|generative AI]]. Arguing that the real-time, interactive nature of an oral assessment prevents students from using AI to generate and memorize answers, the article reviews the history, types, benefits, challenges, and practical recommendations for oral assessments across high school and [[higher-ed|higher education]]. Key benefits include [[personalized-learning|personalization]], authenticity, work-readiness, deeper knowledge, and the preservation of [[academic-integrity]]; key challenges include scheduling, anxiety, and potential [[equity-in-ai-education|bias]].
 

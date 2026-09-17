@@ -10,6 +10,7 @@ audience: [instructors]
 level: [k 12, higher ed]
 sources: ['raw/papers/lodge-loble-cognitive-offloading-2026.md']
 confidence: high
+category: [ai foundations, synthesis]
 ---
 
 > **Synthesis:** Lodge & Loble (2026) provide a comprehensive report on the cognitive science behind AI use in education, arguing that the core risk of [[generative-ai|generative AI]] is not [[academic-integrity|plagiarism]] but [[cognitive-offloading]] — students outsourcing the mental work required for durable learning. They distinguish beneficial offloading (freeing capacity for [[critical-thinking|higher-order thinking]]) from detrimental outsourcing (bypassing [[desirable-difficulties]]), introduce the concept of **metacognitive laziness** and a new **metacognitive equity gap**, and propose [[pedagogy|pedagogical]] strategies to move from cognitive atrophy to augmentation.

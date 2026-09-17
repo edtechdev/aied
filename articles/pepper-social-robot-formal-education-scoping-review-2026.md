@@ -9,6 +9,7 @@ audience: [instructors]
 level: [k 12, higher ed]
 sources: ['raw/papers/10.1007_s44322-026-00072-1.md']
 confidence: high
+category: [synthesis]
 ---
 > **Synthesis:** Martinez-Roig, Aragonés-González, and Cazorla (2026) present a [[meta-analysis-systematic-review|scoping review]] of the use of the Pepper social robot in formal educational contexts, mapping documented forms of implementation, methodological designs, and reported findings. Following PRISMA-ScR guidelines and searching Scopus, Web of Science, ERIC-Proquest, and Dialnet (2014–2026), they selected 13 empirical studies. The review finds a concentration of research in primary education, a predominance of [[qualitative-research|qualitative]] approaches with small samples, and Pepper used mainly for tutoring, [[collaborative-learning]], and mediation in inclusive settings — with benefits in motivation, [[student-engagement|engagement]], and social skills, but also technical constraints, insufficient curricular integration, and a lack of longitudinal research. The evidence indicates effects depend largely on [[learning-design|instructional design]] and teacher mediation.
 ## Key Findings

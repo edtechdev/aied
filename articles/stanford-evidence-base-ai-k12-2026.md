@@ -5,11 +5,12 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [k-12, ai-literacy, sociocultural-learning, intelligent-tutoring, scaffolding]
 audience: [instructors, administrators, researchers]
-research_method: [literature review]
+research_method: [systematic review]
 level: [k 12]
 
 sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
 confidence: medium
+category: [synthesis, evaluation]
 
 ---
 

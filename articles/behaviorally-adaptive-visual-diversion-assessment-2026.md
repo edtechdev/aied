@@ -9,6 +9,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/2608.03531.md']
 confidence: high
+audience: [assessment designers, institutions]
 ---
 
 > **Synthesis:** **Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery** — Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (... [[assessment]] [[inclusive-learning]] [[privacy]] [[academic-integrity]] [[equity-in-ai-education]] [[adaptive-learning]]

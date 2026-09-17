@@ -10,6 +10,7 @@ audience: [instructors, students, administrators]
 level: [higher ed]
 sources: ["raw/papers/10.1016_j.caeo.2026.100323.md"]
 confidence: high
+category: [assessment, evaluation]
 
 ---
 

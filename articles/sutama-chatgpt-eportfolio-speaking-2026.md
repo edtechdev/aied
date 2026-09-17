@@ -4,11 +4,13 @@ created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [eportfolio, automated-assessment, generative-ai, language-learning, feedback-literacy, assessment]
-research_method: [mixed methods, experiment]
+research_method: [mixed methods, quasi-experiment]
 discipline: [language learning]
 category: [assessment]
 sources: ['raw/papers/sutama-chatgpt-eportfolio-speaking-2026.md']
 confidence: high
+audience: [instructors, assessment designers]
+level: [higher ed]
 ---
 
 > **Synthesis:** This quasi-experimental study (N=60, first-semester vocational EFL students at Politeknik Negeri Bali) is the first to empirically test the *combined* effect of aligning ChatGPT with e-[[eportfolio|portfolio assessment]] (the "CEA" model) on both speaking performance and feedback literacy, which prior [[research-methods-aied|research]] had studied only separately. One-way MANOVA found a large simultaneous effect (Wilks' λ = 0.476, p < .001, partial η² = 0.524): the experimental group outperformed the control on speaking performance (M = 82.733 vs 78.833) and feedback literacy (M = 79.666 vs 71.762). Thematic analysis of 27 interviews surfaced seven themes, including digital peer synergy, digital confidence [[scaffolding]], tech-enhanced autonomy, and metacognitive awareness enhancement. The authors argue that e-portfolios support speaking ability and the metacognitive ability to use feedback, and that pedagogically structured AI integration adds value beyond raw AI access.

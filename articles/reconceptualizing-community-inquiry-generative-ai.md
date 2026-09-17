@@ -9,6 +9,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/reconceptualizing-community-inquiry-generative-ai.md']
 confidence: high
+audience: [researchers, instructional designers]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

@@ -4,11 +4,13 @@ created: "2026-08-26T10:10:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [refutation-text, misconceptions, cognitive-psychology, science-education, physics-education, generative-ai, metacognition, k-12]
-research_method: [experiment]
+research_method: [quasi-experiment]
 discipline: [science education, physics education]
 level: [k 12]
 sources: ['raw/papers/akdogan-heat-temperature-conceptual-change-thesis-2025.md']
 confidence: high
+audience: [instructors, instructional designers, researchers]
+category: [evaluation, equity]
 ---
 
 > **Synthesis:** Akdoğan (2025) empirically investigates whether Generative AI improves students' conceptual understanding of heat and temperature. Using a quasi-experimental Solomon Four-Group design with 413 10th-grade students in Ankara, Türkiye, the thesis compared three interventions targeting heat/temperature misconceptions: an **expert-written conceptual change text** (CCT), an **AI-generated CCT**, and an **interactive AI dialogue with ChatGPT**. Findings reveal that both CCT interventions — expert and AI-generated — were equally and significantly more effective at reducing misconceptions than the interactive AI dialogue, which offered no significant advantage over the control group. Intervention benefits were almost exclusively limited to high-achieving students; personal epistemologies (about justification and changeability of knowledge) and metacognitive awareness of global reading strategies significantly moderated results.

@@ -9,6 +9,8 @@ research_method: [benchmark]
 category: [evaluation]
 sources: ['raw/papers/2608.08852.md']
 confidence: high
+discipline: [stem education, science education]
+level: [secondary]
 ---
 
 > **Synthesis:** Lin et al. (2026) present the **[[teacher-role|Teaching]] Monster Challenge**, the first instructional-[[video-education|video generation]] benchmark that treats the learner persona as an explicit evaluation criterion, measuring whether AI agents can adapt a lesson to a specified learner — [[tpack|Pedagogical Content Knowledge (PCK)]]. Systems receive a topic and a learner persona and must generate a complete instructional video, screened by an [[llm]]-judge, ranked by crowd pairwise voting, and finalized by an expert panel. The first edition shows systems handle content well but are far weaker at presenting and adapting it to the learner. It also exposes a limit of automatic judging: the LLM-judge separates a clear low-performing tail but ranks the strongest systems poorly and nearly identically, so its ranking does not match human preference.

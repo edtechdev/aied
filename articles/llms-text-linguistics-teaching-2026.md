@@ -9,6 +9,8 @@ discipline: [language learning]
 level: [higher ed]
 sources: ['raw/papers/llms-text-linguistics-teaching-2026.md']
 confidence: high
+audience: [instructors, teacher educators]
+category: [ai foundations, instructional design]
 ---
 
 > **Synthesis:** Brocca and Garassino (2026) use an action [[research-methods-aied|research]] design to examine how [[generative-ai]] novices in [[higher-ed|higher education]] design prompts and evaluate [[llm]] outputs in text linguistics [[teacher-role|teaching]]. Students' reports show novices refine prompts through trial and error, occasionally use in-context examples, or simplify complex instructions; end-of-term reflections reveal limited prompting competence but growing confidence in applying subject-specific knowledge. Students often attribute unsatisfactory results to the LLM rather than their own prompt formulation, and challenges such as anthropomorphising the models and overgeneralising limited outcomes emerge. The study finds that students engage in metacognitive reflection with LLMs chiefly when disciplinary knowledge is well consolidated, and concludes that limited prompt-design knowledge remains a major obstacle — signaling the need for explicit [[prompt-engineering]] instruction in [[discipline-specific-aied|disciplinary AI use]].

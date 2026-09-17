@@ -4,12 +4,13 @@ created: "2026-08-27T12:05:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [learning-analytics, learning-design, self-determination-theory, generative-ai, higher-ed]
-research_method: [survey, interviews]
+research_method: [interviews, qualitative]
 level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/claassen-learning-analytics-genai-learning-design-2026.md']
 source_url: 'https://doi.org/10.1186/s41239-026-00619-4'
 confidence: high
+audience: [instructional designers, instructors, institutions]
 ---
 
 > **Synthesis:** **Instructors use [[learning-analytics|learning analytics]] and [[generative-ai|generative AI]] differently in [[learning-design|learning design]].** Claassen et al. (2026), a [[quantitative-research|quantitative]]-ethnography study of 11 focus groups with instructors at a large Australian university using [[network-analysis|Epistemic Network Analysis]] (ENA) and [[self-determination-theory|Self-Determination Theory]] (SDT) as an interpretive lens, find that LA-informed design discussions center on context, course-level design, and creative [[problem-solving]], while GenAI discussions center on assessment design and designing for student self-determination. Across both, instructors consistently combine technological affordances with contextual considerations and creative problem-solving. Supporting instructors' basic psychological needs — autonomy, competence, relatedness — fosters creative, effective [[learning-design|learning design]].

@@ -11,6 +11,8 @@ level: [higher ed]
 sources: ['raw/papers/viberg-efficiency-effectiveness-srl-llm-help-seeking-2026.md']
 source_url: 'https://doi.org/10.20851/ll.v8.60'
 confidence: high
+audience: [instructors, instructional designers, researchers]
+category: [framework, engagement]
 ---
 
 > **Synthesis:** **Efficiency vs. effectiveness** — a [[qualitative-research|qualitative]] study of 20 [[stem-education|STEM]] university students in Sweden showing that [[llm]] [[conversational-ai|chatbots]] are woven into a layered, context-dependent [[help-seeking]] ecosystem rather than replacing human support. Students follow a four-stage process — deciding whether help is needed, choosing whom to ask, determining the type of help, and judging the help received — favoring instrumental over executive help-seeking to retain control of [[problem-solving]].

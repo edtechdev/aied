@@ -9,6 +9,7 @@ audience: [researchers, software developers]
 level: [higher ed]
 sources: ['raw/papers/2607.26317.md']
 confidence: high
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** Proposes [[cognitive-diagnosis|Cognitive Diagnostic]] Profiling (CDP), a zero-shot framework that dramatically improves [[llm]]-simulated examinee alignment with human test-takers. With CDP, IRT difficulty Spearman correlations rose from 0.24 to 0.90, and RMSE fell from 6.31 to 0.90. Makes LLM-simulated examinees practical for operational test development.

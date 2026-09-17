@@ -9,6 +9,7 @@ audience: [teachers, researchers]
 level: [secondary]
 sources: ["raw/papers/10.1016_j.caeo.2026.100348.md"]
 confidence: high
+category: [engagement, evaluation]
 
 ---
 

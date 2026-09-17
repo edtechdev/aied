@@ -6,11 +6,13 @@ type: article
 tags: [self-regulated-learning, ai-feedback-quality, feedback, formative-assessment, peer-assessment, scaffolding, ai-literacy, generative-ai, metacognition, cognitive-offloading, writing-education]
 connected_faqs: [ai-feedback-at-scale]
 audience: [learners, instructors]
-research_method: [mixed methods, experiment]
+research_method: [mixed methods, quasi-experiment]
 discipline: [writing education]
 
 sources: ['raw/papers/scaffolding-srl-feedback-genai-human-peers.md']
 confidence: high
+level: [higher ed]
+category: [assessment, collaborative learning]
 ---
 
 > **Synthesis:** **In a [[mixed-methods-research|mixed-methods]] quasi-experiment, scaffolding self-regulated feedback with [[generative-ai|GenAI]] (ChatGPT-4o) produced a small but statistically significant improvement in first-year undergraduates' [[feedback-literacy|feedback literacy]] compared to scaffolding with human peer review (ANCOVA group effect p = 0.049, η²p = 0.03).** Gu, Chen, and Yan (2026) argue the advantage operates through self-regulated [[learning-gains|learning]]: GenAI supported students' goal setting, planning, [[critical-thinking|critical evaluation]], and immediate self-reflection across the forethought, control, and retrospect phases, while peer interaction retained distinct value for evaluative judgment — suggesting the two sources are complementary rather than competing.

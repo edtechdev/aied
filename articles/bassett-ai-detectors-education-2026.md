@@ -10,6 +10,8 @@ discipline: [writing education]
 level: [higher ed]
 sources: ['raw/papers/bassett-ai-detectors-education-2026.md']
 confidence: high
+audience: [policymakers, administrators]
+category: [assessment, policy]
 ---
 
 > **Synthesis:** Bassett et al. (2026) argue that generative AI detection should not be used in education, on three grounds: [[research-methods-aied|methodological]] imperfection (unverifiable probabilistic estimates), violation of [[academic-integrity|procedural fairness]], and unverifiable outputs. Unlike [[ai-detection]], AI detection cannot be validated in real-world conditions where text origin is unknown; categorizing text as human- or AI-generated imposes a false dichotomy that ignores work created *with*, not *by*, AI. They conclude that AI detection "does not safeguard academic integrity; it undermines it" — and call for a shift from detection and enforcement toward [[assessment|assessment design]] that recognizes AI's role in learning.

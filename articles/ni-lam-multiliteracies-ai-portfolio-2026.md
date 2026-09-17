@@ -4,11 +4,13 @@ created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [eportfolio, automated-assessment, generative-ai, assessment, feedback, language-learning, student-engagement]
-research_method: [qualitative, mixed methods]
+research_method: [qualitative, thematic analysis]
 discipline: [language learning]
 category: [assessment]
 sources: ['raw/papers/ni-lam-multiliteracies-ai-portfolio-2026.md']
 confidence: medium
+audience: [instructors, assessment designers]
+level: [higher ed]
 ---
 > **Synthesis:** Ni and Lam (2026) report a 16-week [[qualitative-research|qualitative]] study in which 50 first-year Tourism Management students at a Chinese university collaboratively compiled WordPress-based e-portfolios of [[multimodal]] writing about touring-route recommendations, supported by [[generative-ai]] (GenAI) tools as direct [[feedback]] providers and as moderators/synthesizers of peer and teacher feedback. Across reflective journals, focus-group interviews, and narrative inquiries, students developed multiliteracies through three stages, transforming from passive to proactive learners while gaining multimodal awareness, confidence, metacognition, and professional readiness. Students perceived GenAI as a study companion offering instant, gentle, rubric-referenced [[feedback]], but also faced challenges including [[trust-calibration|over-trust]] in AI and information overload. The study positions GenAI-assisted [[eportfolio|portfolio assessment]] as a transformative literacy practice within [[formative-assessment]].
 

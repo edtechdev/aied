@@ -5,10 +5,12 @@ updated: "2026-09-12T09:15:00-04:00"
 type: article
 tags: [inquiry-based-learning, teacher-education, science-education, computational-thinking, ai-literacy, biology-education, generative-ai]
 audience: [instructors, faculty development]
-research_method: [experiment]
+research_method: [quasi-experiment]
 discipline: [science education, biology education]
 sources: ['raw/papers/ai-supported-inquiry-photosynthesis-respiration-2026.md']
 confidence: medium
+level: [teacher training, higher ed]
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis.** In an eight-week [[inquiry-based-learning|AI-supported guided inquiry]] intervention that integrated [[problem-based-learning|problem-based]] and design-based learning, Aydın (2026) found that 48 Turkish pre-service science teachers made significantly larger gains than a conventional-instruction control in conceptual understanding of [[biology-education|photosynthesis]] (F(1,41)=22.79, p<0.001, ηp²=0.357) and cellular respiration (F(1,44)=25.70, p<0.001, ηp²=0.369), but showed no significant change in [[ai-literacy|AI literacy]] or self-perceived [[computational-thinking|computational thinking]] skills. [[qualitative-research|Qualitative]] reflections reported benefits for conceptual learning, inquiry, collaboration, [[critical-thinking|critical evaluation]] of AI-generated outputs, and digital content creation, suggesting AI-supported inquiry can strengthen disciplinary learning even when broader competencies require longer or more explicit instruction.

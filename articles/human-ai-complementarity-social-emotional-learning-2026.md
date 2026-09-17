@@ -10,6 +10,7 @@ audience: [researchers, teachers]
 level: [early childhood, elementary]
 sources: ["raw/papers/10.1016_j.caeo.2026.100331.md"]
 confidence: high
+category: [evaluation, framework]
 
 ---
 

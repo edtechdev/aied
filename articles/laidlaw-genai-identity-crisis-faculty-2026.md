@@ -5,11 +5,12 @@ updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [educational-development, ai-literacy, teacher-role, generative-ai, higher-ed, teacher-ai-competency, learning-theories, adult-learning, academic-integrity, educational-policy-ai]
 connected_faqs: [faculty-development-ai]
-research_method: [interviews]
+research_method: [theoretical analysis]
 audience: [faculty development, instructors]
 level: [higher ed]
 sources: ['raw/papers/laidlaw-genai-identity-crisis-faculty-2026.md']
 confidence: high
+category: [policy, framework]
 ---
 
 > **Synthesis:** Laidlaw (2026), an autoethnographic "Reflections on Practice" piece from a regional Australian university, argues that GenAI integration in [[higher-ed|higher education]] is a **professional identity crisis and ontological transformation**, not a skills gap. Applying threshold concept theory (Meyer & Land), she shows that GenAI exhibits all five threshold characteristics (transformative, troublesome, irreversible, integrative, bounded) and that faculty anxiety, resistance, and confusion are *necessary components of threshold crossing*, not deficits to be corrected. She argues skills-based training fails because faculty face existential questions about purpose and relevance, and that academic developers must shift from instrumental training to identity-supporting, liminality-honoring practices.

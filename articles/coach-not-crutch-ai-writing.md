@@ -5,11 +5,13 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [writing-education, cognitive-offloading, self-regulated-learning, ai-feedback-quality, learning-gains, ai-literacy]
 audience: [learners]
-research_method: [learning analytics]
+research_method: [experiment, survey]
 discipline: [writing education]
 
 sources: ['raw/papers/coach-not-crutch-ai-writing.md']
 confidence: high
+level: [adult learning]
+category: [evaluation, framework]
 ---
 
 > **Synthesis:** Lira, Rogers, Goldstein, Ungar & Duckworth (2025) test the intuition that using AI inevitably hinders learning by sparing effort. Across pre-registered studies they find the opposite is possible: AI can reduce effort while improving the learning environment, so learners can "work less and learn more." A nationally representative Gallup survey of young adults (N = 2,472) confirmed that the public largely holds the "crutch" intuition (73% negative about AI's impact on capability). But in experiments, participants who practiced writing cover letters with an AI tool wrote higher-quality no-AI cover letters than those who practiced alone — and AI beat both googling examples and receiving personalized feedback from experienced human editors. A third experiment showed AI teaches by example: merely viewing an AI-revised letter (no further practice) produced the same gain as practicing with the tool.

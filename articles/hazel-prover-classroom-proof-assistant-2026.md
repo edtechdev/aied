@@ -9,6 +9,8 @@ research_method: [system development, design-based research]
 discipline: [cs education, math education]
 sources: ['raw/papers/hazel-prover-classroom-proof-assistant-2026.md']
 confidence: high
+level: [higher ed]
+category: [instructional design, assessment]
 ---
 
 > **Synthesis:** Proof assistants offer instant [[feedback]] and incremental proof [[scaffolding]], long-promising features for [[math-education|mathematics]] education, but have been difficult to deploy in classrooms because students struggle with full-scale tools and transfer to on-paper assessment is weak. Keenan and colleagues present Hazel Prover, a classroom proof assistant for [[teacher-role|teaching]] equational and inductive reasoning about programs, designed around criteria encompassing ease-of-use, [[student-engagement|student engagement]] with underlying mathematical ideas, [[transfer-of-learning|knowledge transfer]] to pen-and-paper proof, and classroom logistics. Through iterative design and evaluation in two classes, with fine-grained usage logs, survey data, and student work, the tool aims to support structural induction learning in computing and mathematics classrooms.

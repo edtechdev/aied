@@ -10,6 +10,8 @@ discipline: [language learning]
 
 sources: ['raw/papers/2608.03952v1.md']
 confidence: high
+level: [adult learning]
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis:** TACT (Taxonomy-Aligned Conversational Tutor) presents a human-grounded framework for training and evaluating pedagogically adaptive ESL tutors powered by [[llm|LLMs]]. Built on a Tutor-Strategy Taxonomy (13 strategies) and a Student-Move Taxonomy drawn from authentic tutoring [[research-methods-aied|research]], TACT produces TACTutor — a model that improves over its Qwen3.5-4B backbone by 20.30 points on a strategy-balanced benchmark and outperforms all evaluated proprietary baselines under the same protocol. Rather than treating tutoring as generic dialogue generation, TACT reframes post-training as an explicit [[pedagogy|pedagogical]] decision: whether a learner turn warrants intervention and which of 13 strategies to apply. The framework represents a significant advance in [[scaffolding|pedagogically grounded]] [[intelligent-tutoring|AI tutoring]], shifting the objective from imitating the next teacher utterance toward selecting and realizing an appropriate feedback action for the learner's current state.

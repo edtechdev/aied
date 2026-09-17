@@ -4,11 +4,13 @@ created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [ai-education, curriculum-design, ai-technologies, learning-design, higher-ed, generative-ai, ethics]
-research_method: [interviews]
+research_method: [qualitative, secondary analysis]
 level: [higher ed]
 category: [curriculum design, instructional design]
 sources: ['raw/papers/2608.05898.md']
 confidence: medium
+discipline: [cs education]
+audience: [curriculum designers, instructors]
 ---
 > **Synthesis:** This paper analyses 23 publicly available syllabi from upper-division, credit-bearing university courses that teach AI-assisted software development. The study identifies common curricular themes — [[prompt-engineering|prompt engineering]], code review with AI, AI-augmented testing, [[ethics|ethical considerations]] — and maps how different institutions are defining this emerging subject area. Key findings include: a strong emphasis on [[critical-thinking|critical evaluation]] of AI-generated code over pure generation speed, widespread integration of [[human-in-the-loop-ai|human-AI collaboration]] workflows, and substantial variation in how ethics and professional responsibility are addressed. The authors derive design guidance for future AI-assisted SE [[curriculum-design|curricula]], emphasising the need to balance tool fluency with foundational software engineering knowledge.
 

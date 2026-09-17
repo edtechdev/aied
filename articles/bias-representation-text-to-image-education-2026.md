@@ -9,6 +9,7 @@ audience: [researchers, policymakers, designers]
 level: [k 12, higher ed]
 sources: ["raw/papers/bias-representation-text-to-image-education-2026.md"]
 confidence: high
+category: [equity, synthesis]
 
 ---
 

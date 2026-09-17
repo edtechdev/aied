@@ -9,6 +9,8 @@ audience: [researchers, educators, institutions]
 level: [higher ed]
 sources: ["raw/papers/genai-decision-capability-cognitive-load-2026.md"]
 confidence: high
+discipline: [business education]
+category: [framework, engagement]
 
 ---
 

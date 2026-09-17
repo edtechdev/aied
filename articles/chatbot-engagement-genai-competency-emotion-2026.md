@@ -9,6 +9,7 @@ audience: [researchers, learning designers]
 level: [higher ed]
 sources: ["raw/papers/chatbot-engagement-genai-competency-emotion-2026.md"]
 confidence: high
+category: [engagement, framework]
 
 ---
 

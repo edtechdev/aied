@@ -5,7 +5,7 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, student-modeling, knowledge-graph, knowledge-tracing, ai-feedback-quality, ai-ed-evaluation, educational-measurement]
 audience: [software developers]
-research_method: [educational measurement]
+research_method: [benchmark]
 category: [evaluation]
 
 sources: ['raw/papers/yasir-llm-tutoring-agents-2026.md']

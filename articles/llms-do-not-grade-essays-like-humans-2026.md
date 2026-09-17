@@ -9,6 +9,7 @@ research_method: [benchmark]
 discipline: [writing education]
 sources: ['raw/papers/caeai-100666-llm-essay-grading.md']
 confidence: high
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** Mathew, Taher, Kundu, and Barbosa (2026) evaluate how out-of-the-box LLMs (GPT and Llama families) score essays compared with human graders on ASAP and DREsS datasets. Agreement with human scores is **weak** and varies systematically with essay quality: LLMs assign *higher* scores to short/underdeveloped essays but *lower* scores to longer essays with minor surface errors. [[llm]] scores are internally consistent with LLM feedback, but the models rely on signals that differ from human raters. The authors conclude LLMs are not yet suitable as standalone **[[summative-assessment|summative]]** graders, but are useful as a **[[formative-assessment|formative]]** first-pass [[feedback]] tool — with important [[privacy]]/consent caveats.

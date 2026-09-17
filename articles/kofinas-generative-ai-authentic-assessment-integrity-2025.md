@@ -9,6 +9,7 @@ level: [higher ed]
 category: [assessment, instructional design]
 sources: ['raw/papers/kofinas-generative-ai-authentic-assessment-integrity-2025.md']
 confidence: high
+audience: [assessment designers, instructors, institutions]
 ---
 
 > **Synthesis:** Kofinas, Tsay, and Pike (2025) ran a series of experiments across two UK universities in which experienced academic markers judged human-authored, [[generative-ai|GenAI]]-modified, and GenAI-generated assessments. They found that markers generally could not distinguish assessments with GenAI input from those without, that the presence of GenAI nonetheless affected how markers approached marking, and that the level of authenticity in an assessment had no impact on the ability to safeguard against or detect GenAI use. The authors conclude that current assessment approaches are susceptible to GenAI manipulation and that **authentic assessments alone cannot protect [[academic-integrity|academic integrity]]**; the focus must shift to assessment design favoring process-based, performative, and synchronous interpersonal forms.
