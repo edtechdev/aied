@@ -4,10 +4,13 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
 tags: [educational-robotics, project-based-learning, higher-ed, computational-thinking, active-learning, cs-education]
-research_method: [system development, theoretical analysis]
+research_method: [theoretical analysis, case study]
 level: [higher ed]
 sources: ['raw/papers/geger-bots-blocks-project-robotics-2026.md']
 confidence: medium
+discipline: [cs education]
+audience: [educators, instructional designers]
+category: [curriculum design, instructional design]
 ---
 
 > **Synthesis:** Geger, Briechle, and Rausch (2026) propose a project-based learning approach for [[teacher-role|teaching]] robotics in higher education, arguing that classic study programs often fail to prepare students for industry work because of a lack of practical experience caused by solely theoretical lecturing. They present a framework for an agile, semester-spanning project where students learn to work with robots, part of the applied computer science degree program "Digital [[ai-technologies|Technologies]]." The paper presents the framework and an exemplary project featuring the development of a disassembly software ecosystem for hardware robots.

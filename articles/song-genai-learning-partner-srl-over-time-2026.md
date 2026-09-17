@@ -9,6 +9,8 @@ level: [higher ed]
 sources: ['raw/papers/song-genai-learning-partner-srl-over-time-2026.md']
 source_url: 'https://doi.org/10.20851/ll.v8.73'
 confidence: high
+audience: [educators, instructional designers]
+category: [instructional design, engagement]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

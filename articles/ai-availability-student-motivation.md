@@ -4,12 +4,14 @@ created: "2026-06-30T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [academic-integrity, higher-ed, llm, cognitive-offloading, student-experience]
-research_method: [experiment, survey]
+research_method: [interviews, qualitative]
 audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2606.30480.md']
 confidence: high
+discipline: [cs education]
+category: [engagement, assessment]
 ---
 
 > **Synthesis:** **Tran, Harper & Price (2026)** examine a pressing motivational paradox in contemporary computing education: the ready availability of AI tools that can complete programming assignments undermines students' willingness to invest effort in developing their own skills. Drawing on self-determination theory, the study identifies how the perception of AI as a 'shortcut' reduces autonomous motivation and fosters a transactional orientation toward learning. The findings resonate with existing work on [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]], suggesting that easy access to AI-generated code may erode the very persistence that produces deep learning.

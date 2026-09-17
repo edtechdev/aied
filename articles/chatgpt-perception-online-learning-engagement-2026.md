@@ -8,6 +8,8 @@ research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/chatgpt-perception-online-learning-engagement-2026.md']
 confidence: high
+audience: [instructors, administrators]
+category: [engagement]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

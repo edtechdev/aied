@@ -10,6 +10,7 @@ research_method: [system development]
 level: [k 12]
 sources: ['raw/papers/caeai-vetting-safety.md']
 confidence: medium
+category: [framework, evaluation]
 ---
 
 > **Synthesis:** VETTING: A dual-[[llm]] framework for in-loop safety verification via policy isolation in educational AI

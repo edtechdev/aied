@@ -9,6 +9,8 @@ discipline: [stem education]
 level: [higher ed, k 12]
 sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']
 confidence: medium
+audience: [edtech designers, educators, software developers]
+category: [evaluation, equity]
 ---
 
 > **Synthesis:** When LLMs process STEM problems that require interpreting diagrams, graphs, or schematics alongside text, their accuracy degrades substantially. This effect is:

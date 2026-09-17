@@ -4,11 +4,13 @@ created: "2026-06-12T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, educational-policy-ai, ai-literacy, student-experience, regulation, rag]
-research_method: [randomized controlled trial]
+research_method: [position paper, theoretical analysis]
 audience: [administrators, instructors]
 level: [higher ed]
 sources: ['raw/papers/2606.13389.md']
 confidence: high
+discipline: [cs education]
+category: [policy, assessment]
 
 ---
 

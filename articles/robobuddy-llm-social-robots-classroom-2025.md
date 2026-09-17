@@ -8,6 +8,8 @@ research_method: [system development]
 audience: [instructors]
 sources: ['raw/papers/tozadore-robobuddy-llm-social-robots-2025.md']
 confidence: medium
+level: [k 12]
+category: [curriculum design, equity]
 ---
 
 > **Synthesis:** Tozadore, Ertug, Chaker, and Abderrahim (2025) present RoboBuddy, an intuitive interface that lets teachers create scenario-based storytelling activities from their regular [[curriculum-design|curriculum]] using LLMs and social robots. The system addresses two practical classroom challenges: the significant planning time required to create improvised scenarios for content delivery (intensified when using complex [[ai-technologies|technologies]] like social robots), and the need to embed multicultural integration into an already tight curriculum. The authors co-designed activity frameworks with four teachers and deployed the system in a week-long study with 27 students.

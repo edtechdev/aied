@@ -8,6 +8,8 @@ research_method: [experiment]
 level: [higher ed]
 sources: ['raw/papers/discobot-task-context-trust-educational-hri-2026.md']
 confidence: high
+audience: [designers, educators]
+category: [evaluation, design thinking]
 ---
 
 > **Synthesis:** This Discobot project study (2026) examines how robot appearance and task type jointly influence trust in socially assistive robots (SARs) in educational and information-sharing contexts. Using a within-subjects video-based experiment (N = 81), participants evaluated three robots with distinct appearances while performing three educationally relevant tasks: [[teacher-role|teaching]], procedural instruction, and personal-information discussion. Repeated-measures analyses showed a strong main effect of task on trust, with participants reporting the highest trust during instructional tasks — indicating that what a robot does matters more than what it looks like.

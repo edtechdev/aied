@@ -8,6 +8,9 @@ research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/ai-gamification-security-education-2026.md']
 confidence: high
+discipline: [information technology]
+audience: [educators, instructional designers]
+category: [engagement, instructional design]
 ---
 
 > **Synthesis:** Cybersecurity education faces increasing challenges as AI-driven attacks become more realistic and harder to detect, while traditional video-based training in [[higher-ed|higher education]] suffers from low [[student-engagement|engagement]] and limited effectiveness. Li and colleagues explore AI-powered [[game-based-learning|gamification]] in cybersecurity education through several short, mobile-friendly games covering topics from password security to text and phone scam recognition, incorporating quiz-based, narrative-based, and [[simulation]]-based designs as well as interactive formats such as TikTok Mini-Games. A two-tiered evaluation with 59 college students (9 technical experts and 50 general users) indicates the potential of AI-powered gamification to improve engagement and increase attention to cybersecurity topics in higher education.

@@ -4,11 +4,12 @@ created: "2026-07-24T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, learning-gains, student-experience, llm]
-research_method: [experiment, learning analytics]
+research_method: [secondary analysis, learning analytics]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.21534.md']
 confidence: high
+category: [evaluation, engagement]
 ---
 
 > **Synthesis:** This large-scale observational study tests the "GenAI substitution hypothesis" — the concern that students offload cognitive effort to [[generative-ai]] and earn inflated grades without learning. Using syllabus and administrative data from a large U.S. university (2015–2025; 156,135 students; 87,936 course offerings), the authors measure each course's GenAI susceptibility with a human-validated [[llm]] pipeline that extracts assessment types from syllabi, then apply a difference-in-differences design comparing outcomes before and after ChatGPT's release while modeling COVID-19 effects as persistent or transient. They find **no significant differential effect** of GenAI availability on grades overall or among previously lower-performing students, and no significant effect on self-reported understanding; effects on subject interest are significant only under a transient-pandemic assumption. The findings temper alarm about grade inflation and satisfaction erosion, complementing [[ai-availability-student-motivation]] and the mixed picture in [[generative-ai-reduced-study-time-math]]. The null result is notable against theoretical worries about [[cognitive-offloading]] and situates [[student-experience]] concerns in [[higher-ed]] on firmer empirical ground.

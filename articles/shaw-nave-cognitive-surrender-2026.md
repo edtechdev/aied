@@ -8,6 +8,8 @@ audience: [researchers]
 research_method: [experiment]
 sources: ['raw/papers/shaw-nave-cognitive-surrender-2026.md']
 confidence: high
+level: [adult learning]
+category: [framework, ai foundations]
 ---
 
 > **Synthesis:** Shaw & Nave (2026) introduce **Tri-System Theory**, extending dual-process accounts of reasoning (System 1 intuition, System 2 deliberation) with **System 3 — artificial cognition that operates outside the brain**. A key prediction is **cognitive surrender**: adopting AI outputs with minimal scrutiny, overriding intuition and deliberation. Across three preregistered experiments (N = 1,372; 9,593 trials), participants consulted an AI assistant on a majority of trials; accuracy rose +25 pp when AI was accurate and fell −15 pp when it erred, and engaging System 3 increased confidence even after errors. This is a foundational [[theory-development-aied|theory-building]] contribution that distinguishes cognitive surrender from [[cognitive-offloading]], and reframes the knowledge base's [[ai-misuse-learning-harm|over-reliance]] and [[critical-thinking]] threads by showing a distinct, deeper abdication of evaluative control to AI.

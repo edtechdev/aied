@@ -4,10 +4,11 @@ created: "2026-08-24T12:32:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [educational-measurement, ai-ed-evaluation, assessment, meta-analysis-systematic-review, generative-ai]
-research_method: [educational measurement, systematic review]
+research_method: [literature review, thematic analysis]
 category: [evaluation, assessment]
 sources: ['raw/papers/xiong-ai-educational-measurement-review-2026.md']
 confidence: high
+audience: [researchers, assessment professionals]
 ---
 
 > **Synthesis:** **In brief:** Xiong and Li map a decade (2015–present) of AI's impact on [[educational-measurement|educational measurement]] through a thematic review that integrates five major international conference trends with peer-reviewed literature. They identify three evolutionary eras — the [[formative-assessment|Formative]] Era (2015–2018), the Expansion Era (2019–2022), and the ongoing Generative Era (2023–present) — and organize AI's progression from an operational tool to a co-designer of assessment and learning through an Efficiency–Enhancement–Transformation framework, spanning four themes: AI on scoring and [[automated-question-generation|item generation]], psychometric modeling, assessment innovation and process data, and fairness/ethics/equity.

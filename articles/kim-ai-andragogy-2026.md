@@ -8,6 +8,8 @@ research_method: [qualitative, interviews]
 level: [adult learning]
 sources: ['raw/papers/kim-ai-andragogy-2026.md']
 confidence: high
+audience: [designers, edtech designers, instructors]
+category: [instructional design, framework]
 ---
 
 > **Synthesis:** Kim, Lin, Yu and Detrick (2026) interview 20 [[adult-learning|adult learners]] to understand how AI applications can support andragogy — adult learning theory's emphasis on involvement, experience, problem-centeredness, and relevance. Through scenario storyboards and paper prototypes, they find that learners regard AI as a **collaborative learning agent** — a reflective partner they learn *from and with* — rather than an answer-giving oracle. Three design principles emerge for [[ai-technologies|AI systems]] that support andragogy: [[human-in-the-loop-ai|human-in-the-loop]] (shared mental models and human-AI co-creation), [[affective-computing|emotional design]] (calibrating AI reliance and empathetic communication), and adaptability (continuous adaptation and interoperability).

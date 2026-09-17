@@ -9,6 +9,7 @@ audience: [learners]
 level: [k 12]
 sources: ['raw/papers/2606.15902.md']
 confidence: medium
+category: [equity, instructional design]
 ---
 
 > **Synthesis:** Argues the dominant paradigm of runtime GenUI adaptation in EdTech is insufficient. Proposes design-time card-based GenUI where educational content is encoded as modality-agnostic semantic units and [[generative-ai|GenAI]] produces multiple interface representations (interactive, audio, simplified text, low-bandwidth) at design time for instructor verification. Embeds [[universal-design-for-learning|Universal Design for Learning]] into authoring workflow and eliminates per-learner inference costs.

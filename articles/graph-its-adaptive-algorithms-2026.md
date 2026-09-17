@@ -8,6 +8,8 @@ audience: [software developers]
 research_method: [learning analytics]
 sources: ['raw/papers/graph-its-adaptive-algorithms-2026.md']
 confidence: high
+discipline: [cs education]
+category: [instructional design, evaluation]
 ---
 > **Synthesis:** Csépányi-Fürjes and Kovács implement and empirically validate **G4L**, a graph-based intelligent tutoring system for fast-changing domains. Built on the Evolving Knowledge Space Graph (EKSG) model (Neo4j) plus a relational database (MySQL) for real-time tracking, it uses **intuitionistic fuzzy logic** (IFL) to represent learner knowledge states and forgetting, and a **generative-AI assistant** to auto-generate knowledge units, prerequisite relations, and quiz questions (teacher-in-the-loop review). Three adaptive algorithms — Bayesian Network (BN), Knowledge Space Theory (KST), and the proposed Weighted Distance Dependent Induction (WDDI) — are compared in a 45-participant classroom study. The **Bayesian algorithm produced the highest knowledge gains** (0.717 → 0.887, +24%), while log analysis revealed self-regulated learning dominated system recommendations.
 

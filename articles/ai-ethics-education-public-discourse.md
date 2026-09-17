@@ -5,10 +5,11 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, equity-in-ai-education, educational-policy-ai, academic-integrity, higher-ed, governance, ethics, ai-education]
 audience: [researchers, administrators]
-research_method: [survey]
+research_method: [longitudinal study, quantitative]
 level: [higher ed]
 sources: ['raw/papers/2607.12295.md']
 confidence: medium
+category: [policy, equity]
 ---
 
 > **Synthesis:** Bagale and colleagues (2026) analyze five years of Twitter/X discourse (2019–2024) on AI ethics in education and find a public conversation that is overwhelmingly positive (81.65% of 14,201 tweets) but punctuated by four event-driven negative peaks, most decisively around the release of ChatGPT. The study argues that the public is not rejecting AI in [[ai-education|education]] so much as asking for frameworks to use it responsibly, while warning that platform algorithms amplify technically sophisticated and aspirational voices at the expense of teachers and students.

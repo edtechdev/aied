@@ -9,6 +9,7 @@ audience: [learners]
 level: [k 12]
 sources: ['raw/papers/2607.00445.md']
 confidence: high
+category: [engagement, instructional design]
 ---
 
 > **Synthesis:** Ollie, a gaze-informed AI assistant for children's picture exploration, uses eye-tracking to trigger [[llm]] narrative descriptions; within-subject experiment shows gaze-informed assistance keeps children's attention longer and guides exploration effectively.

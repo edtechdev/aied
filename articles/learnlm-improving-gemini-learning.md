@@ -7,6 +7,7 @@ tags: [llm, pedagogical-llm-training, generative-ai, intelligent-tutoring, reinf
 research_method: [system development]
 audience: [instructors, software developers]
 confidence: high
+category: [ai foundations, framework]
 sources: [raw/papers/2412.16429.md]
 ---
 

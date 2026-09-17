@@ -4,11 +4,12 @@ created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [k-12, ai-literacy, student-experience, equity-in-ai-education]
-research_method: [experiment]
+research_method: [survey, quantitative]
 audience: [learners]
 level: [k 12]
 sources: ['raw/papers/2605.26010.md']
 confidence: high
+category: [equity, assessment]
 ---
 
 > **Synthesis:** This multicenter study (N=243 European secondary students) systematically challenges the 'Digital Native' paradigm by demonstrating a severe confidence-competence gap in digital and AI literacy. Students report near-maximum [[self-efficacy]] in passive digital consumption (browsing, social media) but exhibit a sharp decline when evaluated on active technological creation and algorithmic logic — a collective Dunning-Kruger effect.

@@ -8,6 +8,9 @@ research_method: [educational measurement]
 category: [assessment]
 sources: ['raw/papers/causal-modelling-competency-assessment-2026.md']
 confidence: high
+discipline: [cs education]
+audience: [assessment designers, researchers]
+level: [k 12]
 ---
 
 > **Synthesis:** Mangili, Antonucci, and Cabañas (2026) advocate adopting a structural causal modeling approach to [[educational-measurement|educational assessment]], moving beyond probabilistic belief updating toward a framework that explicitly supports interventional and counterfactual reasoning. They propose a protocol for constructing such a model and analyze the practical relevance of forms of reasoning inaccessible to standard associative models — including explicit modeling of interventions such as hints and related counterfactual scenario analysis. Although the protocol requires structural equations to be elicited from experts, the necessary information is purely logical and does not rely on probabilistic, less-tenable assumptions. They illustrate the approach using data from an assessment employing complex tasks designed to measure compulsory-school student algorithmic skills.

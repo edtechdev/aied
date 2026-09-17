@@ -9,6 +9,7 @@ audience: [instructors, learners]
 level: [higher ed, k 12]
 sources: ['raw/papers/2606.13684.md']
 confidence: high
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** Evaluates cross-dataset generalization of ML/DL methods and LLMs for automatic Bloom's taxonomy classification of assessment questions across five datasets. Supervised ML/DL models degraded substantially on unseen datasets, while LLMs with tailored prompting (in-context examples + course-specific action verbs) showed stable performance. A lightweight UI was developed for instructors to classify large question banks, with [[usability-research|usability]] study indicating low workload and high usability.

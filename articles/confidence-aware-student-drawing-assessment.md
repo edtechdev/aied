@@ -9,6 +9,8 @@ discipline: [stem education]
 level: [k 12]
 sources: ['raw/papers/2606.20264.md']
 confidence: high
+audience: [teachers, assessment designers, researchers]
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** A Vision Transformer (ViT) with LoRA adaptation for [[automated-assessment|automated scoring]] of student-drawn scientific models on six NGSS-aligned middle school [[k-12|assessment]] items. A confidence-aware framework derives response-level confidence from test-time predictive distributions, enabling **selective automation**: high-confidence responses are auto-scored, uncertain cases are deferred for human review. Improves [[assessment-validity|scoring reliability]] while supporting a practical trade-off between automated coverage and scoring risk.

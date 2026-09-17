@@ -9,6 +9,8 @@ research_method: [experiment]
 discipline: [cs education]
 sources: ['raw/papers/2606.03288.md']
 confidence: high
+level: [higher ed]
+category: [evaluation, instructional design]
 ---
 
 > **Synthesis:** Multi-[[governance|institutional]] study on Generated Animated Traces (GATs) for CS1. Found that mid-engagement students may experience a performance decrement due to coordination costs (Expertise-Reversal Effect). [[cs-education]], [[scaffolding]], [[personalized-learning]], [[stem-education]], [[adaptive-learning]].

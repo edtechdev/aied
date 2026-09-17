@@ -4,11 +4,12 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-literacy, educational-development, generative-ai, higher-ed]
-research_method: [experiment]
+research_method: [quasi-experiment]
 audience: [faculty development]
 level: [higher ed]
 sources: ['raw/papers/caeai-quest-ai-inquiry.md']
 confidence: medium
+category: [instructional design, ai foundations]
 ---
 
 > **Synthesis:** Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with [[teacher-education|preservice teachers]]

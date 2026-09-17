@@ -9,6 +9,9 @@ research_method: [educational measurement]
 category: [assessment, curriculum design]
 sources: ['raw/papers/ai-writes-code-student-writes-model-2026.md']
 confidence: medium
+discipline: [science education, cs education]
+audience: [curriculum designers, assessment designers, teachers]
+level: [secondary]
 ---
 
 > **Synthesis:** This theoretical paper develops **Code-to-Learn with Generative AI (CtL-GenAI)**, a framework for upper-secondary students (roughly fifteen to eighteen) who build software with generative AI and are meant to learn the *subject the software models* — [[physics-education|physics]], [[chemistry-education|chemistry]], a real problem — rather than to learn coding itself. Its organizing claim is that the AI may write the code while the student must write the model. To make that slogan testable, the paper defines a **model authorship** construct (four facets × four ordered levels, with observable indicators and a partial-credit measurement model), partitions the outcome space into supported performance, unsupported performance and delayed transfer (defining the **assistance-removal gap**), recasts verification of AI output as a signal-detection problem (separating sensitivity from response criterion), audits twenty-four studies, and states six hypotheses with designs, measures and falsification criteria.

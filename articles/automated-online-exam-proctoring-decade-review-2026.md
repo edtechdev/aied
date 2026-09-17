@@ -8,6 +8,8 @@ research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/automated-online-exam-proctoring-decade-review-2026.md']
 confidence: high
+audience: [institutions, assessment professionals, administrators]
+category: [assessment, synthesis, equity]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

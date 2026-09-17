@@ -6,8 +6,10 @@ type: article
 tags: [professional-training, llm, formative-assessment, student-experience, edtech-platform, higher-ed, generative-ai, intelligent-tutoring, scaffolding, k-12]
 research_method: [experiment]
 audience: [learners]
-level: [higher ed, k 12]
+level: [adult learning]
 confidence: high
+discipline: [medical education]
+category: [instructional design, framework]
 sources: []
 ---
 

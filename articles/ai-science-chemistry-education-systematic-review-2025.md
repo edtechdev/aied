@@ -8,6 +8,9 @@ research_method: [systematic review]
 discipline: [chemistry education, science education]
 sources: ['raw/papers/ai-science-chemistry-education-systematic-review-2025.md']
 confidence: high
+audience: [researchers, teacher educators]
+level: [k 12, higher ed]
+category: [synthesis, instructional design]
 ---
 > **Synthesis:** Erümit and Özdemir Sarıalioğlu (2025) [[meta-analysis-systematic-review|systematically review]] empirical research (2014–2024) on AI applications in **science and [[chemistry-education|chemistry education]]**, finding rapid growth from 2021–2024 with **ChatGPT and [[educational-robotics|conversational robots]]** as the most-used tools. Studies predominantly target **science education** (n=11) over chemistry (n=5) and [[stem-education|STEM]] (n=2), and their effects concentrate on **learning-process outcomes** — supporting [[online-teaching-and-learning|online learning]], facilitating understanding, providing [[multimodal]] lab environments, and encouraging [[personalized-learning|personalized learning]]. [[research-methods-aied|Researchers]] consistently flag **[[ethics|ethical risks]]** — [[equity-in-ai-education|gender/racial bias]], [[hallucination-risk|hallucination]], [[academic-integrity|plagiarism]], accuracy/reliability concerns, infrastructure and language gaps, and effects on [[writing-education|writing]] and [[critical-thinking|independent thinking]]. The review calls for increased research at secondary/middle-school levels, more [[pedagogy|pedagogical]] (vs. technical) studies in chemistry, and [[teacher-education|teacher training]] to foster conscious, ethical AI use. 
 

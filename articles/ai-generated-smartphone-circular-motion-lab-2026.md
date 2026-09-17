@@ -8,6 +8,8 @@ research_method: [experiment, mixed methods]
 discipline: [physics education, stem education]
 sources: ['raw/papers/2607.28352.md']
 confidence: high
+audience: [teachers, instructors]
+category: [instructional design, framework]
 ---
 
 > **Synthesis:** Suñer et al. (2026) show that a fully customized, browser-based rotation laboratory can be generated entirely through natural-language prompting of an AI assistant, with no manual coding. Most [[physics-education|smartphone physics]] experiments rely on precompiled sensor apps whose interfaces cannot be tailored to a specific activity, and customized labs previously required programming knowledge beyond most teachers. Using the AI-generated lab with a simple rotating platform, they characterize uniform circular motion (UCM) and uniformly accelerated circular motion (UACM), validating sensor measurements against independent video analysis with Tracker. The work connects [[physics-education]], mobile learning, and [[generative-ai]] content creation.

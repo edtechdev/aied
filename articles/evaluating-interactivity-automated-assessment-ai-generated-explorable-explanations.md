@@ -9,6 +9,7 @@ research_method: [system development]
 level: [higher ed, k 12]
 sources: ['raw/papers/2606.31012.md']
 confidence: high
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** While [[llm]]s now enable rapid generation of learning materials like [[generative-ai]], evaluating the [[pedagogy|pedagogical]] quality of these materials remains an open challenge. This paper proposes an [[automated-assessment|automated assessment]] framework for evaluating interactivity in AI-generated explorable explanations — dynamic, learner-driven content that students can manipulate to discover concepts. The framework addresses the gap between content generation speed and quality assurance, providing metrics for [[formative-assessment]] of learning designs. This connects to [[learning-analytics]] approaches for understanding how students engage with AI-produced educational content in [[higher-ed]] settings.

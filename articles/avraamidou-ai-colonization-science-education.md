@@ -8,6 +8,9 @@ research_method: [theoretical analysis]
 discipline: [science education]
 sources: ['raw/papers/avraamidou-ai-colonization-science-education.md']
 confidence: high
+audience: [researchers, teacher educators]
+level: [k 12, higher ed]
+category: [equity, policy]
 ---
 
 > **Synthesis:** Avraamidou (2024) critical COMMENT in the *Journal of [[research-methods-aied|Research]] in Science [[teacher-role]]*: the uncritical uptake of [[generative-ai]] in science education amounts to an "AI colonization" — extraction of data without consent, algorithmic monoculture, dehumanized learning, and profit-centered reform. She calls for a critical, feminist, values-based disruption toward a human-centered AI that prioritizes justice over profit.

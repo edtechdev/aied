@@ -6,9 +6,11 @@ type: article
 tags: [ai-literacy, equity-in-ai-education, k-12, educational-policy-ai, higher-ed, educational-development, teacher-role]
 research_method: [policy analysis]
 audience: [administrators, instructors]
-level: [k 12, higher ed]
+level: [secondary, k 12]
 sources: ['raw/papers/2607.11314.md']
 confidence: high
+discipline: [cs education]
+category: [equity, policy]
 
 ---
 
