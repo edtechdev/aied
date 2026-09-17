@@ -10,6 +10,7 @@ discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2604.17460.md']
 confidence: medium
+category: [curriculum design, instructional design]
 ---
 
 > **Synthesis:** Naboulsi (2026) presents **cc-self-train**, a modular interactive curriculum that teaches the [[agentic-ai|agentic coding tool]] Claude Code *through Claude Code itself* — a reflexive design in which the tool being learned is simultaneously the [[pedagogy|pedagogical]] medium. Responding to the paradox that [[ai-literacy|AI coding tools]] have proliferated rapidly while pedagogical frameworks for mastering them remain scarce, the system operationalizes the [[scaffolding|Gradual Release of Responsibility]] framework as a four-stage persona progression (Guide → Collaborator → Peer → Launcher), adds an adaptive learning layer that observes engagement quality to tune scaffolding at two timescales, and ships an auto-updating design that keeps [[teacher-role|teaching]] materials current as the tool itself evolves. A 27-participant pilot reports statistically significant [[self-efficacy]] gains across all ten assessed skill areas (p < 0.001), with the largest effects on advanced features such as hooks and custom skills.

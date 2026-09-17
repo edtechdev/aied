@@ -4,13 +4,14 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [cs-education, llm, active-learning, assessment, higher-ed, automated-assessment, scaffolding]
-research_method: [experiment]
+research_method: [case study, mixed methods]
 discipline: [cs education]
 level: [higher ed]
 category: [assessment]
 
 sources: ['raw/papers/2606.23315.md']
 confidence: medium
+audience: [instructors, instructional designers, administrators]
 ---
 
 > **Synthesis:** Liu et al. (2026) report on a 13-week Test-Driven, AI-Assisted (TDAA) redesign of a Theory of Computation course at HKUST (Guangzhou). The course replaced all lectures with [[self-directed-learning|self-directed]], AI-assisted learning and weekly closed-book tests serving as high-frequency quality gates. [[agentic-ai|AI agents]] helped the instructor prepare learning paths, course websites, test drafting, grading workflows, and content repairs — all managed through a version-controlled agent workspace. Student survey data (N=18), weekly scores, and git history suggest the model preserved individual accountability while making material production and marking scalable with [[human-in-the-loop-ai|human oversight]]. The work contributes a reusable design pattern for [[ai-changing-teaching-workflows]] that integrates [[active-learning]] principles with [[llm]]-powered [[scaffolding]], and offers practical implications for [[assessment]] design in [[higher-ed]] contexts. The approach connects to broader conversations about [[automated-assessment|Automated Grading]] and [[llm-student-modeling-memory]] as enablers of scalable personalized education.

@@ -9,6 +9,7 @@ research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/10.1080_17439884.2026.2615553.md']
 confidence: high
+category: [equity, policy]
 ---
 
 > **Synthesis:** Pangrazio (2026) offers a critical editorial questioning whether AI literacy is a meaningful or even achievable goal. Tracing the history of literacy from its elite origins through mass institutionalization, she argues that AI literacy has been positioned as a "cure-all" — a solutionist, normative response to the complex and evolving phenomenon of AI. The analysis asks what "text" AI literacy actually refers to when AI is embedded, opaque, self-evolving, and deeply entangled in platforms and power structures, and whether current AI literacy discourse can move beyond instrumental skill-based framings to address the epistemological and political dimensions of AI — proposing that literacy, rights, and sovereignty responses must be developed in tandem.

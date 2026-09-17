@@ -4,12 +4,13 @@ created: "2026-07-30T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [higher-ed, stem-education, student-experience, affective-computing, personalized-learning, scaffolding, adaptive-learning, ai-literacy, formative-assessment, teacher-role]
-research_method: [benchmark]
-discipline: [stem education]
+research_method: [survey, quantitative]
+discipline: [engineering education, stem education]
 audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2607.26338.md']
 confidence: high
+category: [instructional design, framework]
 ---
 
 > **Synthesis:** Survey of 206 engineering students: AI [[conversational-ai|chatbots]] provide greatest perceived benefit as relief from competence frustration, smaller benefits for autonomy, weakest for relatedness. Baseline [[motivation|motivational]] states matter more than demographics; inattention moderates how baseline competence and autonomy relate to perceived AI benefits. Offers design principles for engineering-specific AI learning tools.

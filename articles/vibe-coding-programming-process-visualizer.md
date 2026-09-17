@@ -4,12 +4,13 @@ created: "2026-07-30T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [stem-education, higher-ed, teacher-role, learning-analytics, academic-integrity, edtech-platform, adaptive-learning, student-experience, personalized-learning, ai-literacy, visualization]
-research_method: [system development, case study]
+research_method: [system development, case study, learning analytics]
 discipline: [stem education]
 audience: [instructors, learners]
 level: [higher ed]
 sources: ['raw/papers/2607.24757.md']
 confidence: high
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis:** Describes rapid development of a Thonny log visualizer using AI-assisted 'vibe coding' to make student programming processes visible to teachers. Piloted in a 160-student introductory programming course. Provides interactive timelines, session summaries, code-size graphs, and programming-process replays supporting teacher decision-making and [[academic-integrity]] clarification.

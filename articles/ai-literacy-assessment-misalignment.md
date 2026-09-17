@@ -6,7 +6,7 @@ type: article
 tags: [ai-literacy, assessment, assessment-validity, k-12, self-regulated-learning, educational-development, higher-ed, generative-ai, llm, student-experience]
 research_method: [survey, educational measurement]
 audience: [faculty development, learners]
-level: [k 12, higher ed]
+level: [k 12]
 category: [assessment]
 confidence: high
 sources: ['raw/papers/2601.06101.md']

@@ -10,6 +10,7 @@ audience: [administrators]
 level: [higher ed]
 sources: ['raw/papers/ai-uk-higher-education-policy-2026.md']
 confidence: high
+category: [policy, equity, framework]
 
 ---
 

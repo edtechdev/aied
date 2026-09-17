@@ -6,7 +6,7 @@ type: article
 tags: [ai-literacy, higher-ed, curriculum-design, ethics, learning-design, personalized-learning, scaffolding, student-experience, mastery-learning, k-12]
 research_method: [theoretical analysis]
 audience: [learners, instructors]
-level: [higher ed, k 12]
+level: [higher ed]
 category: [curriculum design, instructional design]
 sources: ['raw/papers/2606.00038.md']
 confidence: high

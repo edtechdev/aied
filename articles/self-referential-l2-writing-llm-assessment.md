@@ -11,6 +11,7 @@ level: [higher ed]
 
 sources: ['raw/papers/2605.04298.md']
 confidence: medium
+category: [assessment, evaluation]
 ---
 > **Synthesis:** Bannò, Knill & Gales (2026) propose a paradigm shift in automated essay scoring: from **inter-learner ranking** to **intra-learner profiling**. Instead of asking "how does this essay rank against others?", their self-referential framework asks "what are this specific learner's strengths and weaknesses?"
 ## Key Findings

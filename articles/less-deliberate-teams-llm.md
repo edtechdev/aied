@@ -4,12 +4,13 @@ created: "2026-07-02T04:33:04-04:00"
 updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [llm, student-experience, collaborative-learning, higher-ed, student-engagement, generative-ai, rag]
-research_method: [system development]
+research_method: [learning analytics, longitudinal]
 audience: [learners]
 level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/2606.30860.md']
 confidence: high
+discipline: [cs education]
 ---
 
 > **Synthesis:** Semester-long study of 96 CS students shows [[llm]] usage dropped 42.7 percentage points when students moved from individual to team work; team context reduces deliberate LLM [[student-engagement|engagement]].

@@ -11,6 +11,7 @@ level: [higher ed]
 
 sources: ['raw/papers/2605.21614.md']
 confidence: medium
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** This paper presents a rigorous empirical comparison between [[llm|LLM]]-based and semantic similarity methods for [[automated-assessment|automated assessment]] of student self-explanations in [[cs-education|programming education]]. The task is framed as binary classification — determining whether a student's explanation of a worked-example step is correct or incorrect.

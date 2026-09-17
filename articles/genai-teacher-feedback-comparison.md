@@ -7,7 +7,7 @@ tags: [generative-ai, feedback, student-experience, higher-ed, ai-literacy, stud
 research_method: [mixed methods]
 audience: [learners]
 level: [higher ed]
-category: [engagement]
+category: [assessment, equity]
 
 sources: ['raw/papers/tandf-2026-genai-teacher-feedback-comparison.md']
 confidence: high

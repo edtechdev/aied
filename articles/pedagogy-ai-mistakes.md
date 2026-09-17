@@ -10,6 +10,7 @@ discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2605.05472.md']
 confidence: medium
+category: [instructional design, curriculum design]
 ---
 
 > **Synthesis:** Hosseini (2026) presents a design-oriented study reframing AI errors, [[hallucination-risk|hallucinations]], and limitations as pedagogical opportunities rather than flaws. In an undergraduate database design course, an AI-integrated syllabus deliberately leveraged AI-generated mistakes to foster higher-order thinking aligned with Bloom's taxonomy. A [[mixed-methods-research|mixed-methods]] study (n=13) found that structured interaction with AI errors supported metacognitive [[student-engagement|engagement]], reinforced disciplinary rigor, and produced significant [[learning-gains|learning gains]] in subject-matter competency (pre/post mean 4.25→6.83, Cohen's *d*=1.49, *p*<.001).

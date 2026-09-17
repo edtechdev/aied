@@ -10,6 +10,7 @@ audience: [faculty development]
 level: [higher ed]
 sources: ['raw/papers/caeai-genai-runaway-object.md']
 confidence: medium
+category: [framework, policy]
 ---
 
 > **Synthesis:** [[generative-ai|GenAI]] as a runaway object in higher education: A [[sociocultural-learning|socio-cultural]] view on AI-influenced academic practice in mathematics

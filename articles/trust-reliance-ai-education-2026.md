@@ -10,6 +10,8 @@ discipline: [cs education]
 
 sources: ['raw/papers/trust-reliance-ai-education-2026.md']
 confidence: high
+level: [higher ed]
+category: [evaluation]
 ---
 
 > **Synthesis:** Pitts, Rani & Mildort (2026, [[ai-education|AIED]]) show with 432 undergraduates that **higher [[trust]] in an AI assistant is associated with lower appropriate reliance**: students who trusted the assistant more were worse at discriminating correct from misleading AI suggestions during [[cs-education|Python problem-solving]]. The relationship is non-linear and **moderated by [[ai-literacy|AI literacy]] and [[metacognition|need for cognition]]** — trust is not a safe proxy for appropriate use.

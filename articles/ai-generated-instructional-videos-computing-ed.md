@@ -5,11 +5,12 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, student-experience, stem-education, higher-ed]
 research_method: [survey]
-discipline: [stem education]
+discipline: [cs education, stem education]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.28203.md']
 confidence: high
+category: [evaluation, engagement]
 ---
 
 > **Synthesis:** Studies student perceptions of [[video-education|AI-generated instructional videos]] in computing education. Finds students value [[personalized-learning|personalization]] and rapid production but express concerns about accuracy and the loss of instructor presence. Identifies clear preferences for hybrid approaches where AI generates draft content that instructors review and refine.

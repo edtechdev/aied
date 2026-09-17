@@ -4,12 +4,13 @@ created: "2026-06-17T04:33:04-04:00"
 updated: "2026-09-16T15:52:49-04:00"
 type: article
 tags: [llm, generative-ai, bias-mitigation, writing-education, higher-ed, student-experience]
-research_method: [experiment, survey]
+research_method: [experiment]
 discipline: [writing education]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.15914.md']
 confidence: high
+category: [equity, evaluation]
 ---
 
 > **Synthesis:** - In a controlled study with **N = 123 participants**, students wrote career plan essays for paired biographical profiles differing only in gender under three conditions: **no AI assistance, neutral [[llm]] assistance, or gender-biased LLM assistance**.

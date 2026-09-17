@@ -10,6 +10,7 @@ level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/2606.18541.md']
 confidence: medium
+discipline: [cs education]
 ---
 
 > **Synthesis:** This study examines inconsistencies in [[cs-education|computing students']] attitudes toward cybersecurity: students report confidence in their cybersecurity knowledge but do not always translate this into safe practices. Because today's young adults are the most immersed in technology — yet also report feelings of powerlessness in managing online [[privacy]] across platforms and are particularly susceptible to phishing — the paper argues educational interventions are needed to close the gap between confidence and behavior.

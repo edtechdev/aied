@@ -4,7 +4,7 @@ created: "2026-05-11T04:33:04-04:00"
 updated: "2026-09-16T15:49:45-04:00"
 type: article
 tags: [generative-ai, intelligent-tutoring, student-experience, student-engagement, higher-ed, learning-analytics, rag, llm]
-research_method: [case study]
+research_method: [learning analytics, secondary analysis]
 audience: [learners]
 level: [higher ed]
 category: [engagement]

@@ -6,9 +6,10 @@ type: article
 tags: [ai-literacy, affective-computing, teacher-ai-competency, ethics, ai-education, higher-ed, social-emotional-learning, self-regulated-learning]
 audience: [researchers, instructors]
 research_method: [literature review]
-level: [higher ed]
+level: [k 12, higher ed]
 sources: ['raw/papers/10.1007_s40692-025-00354-1.md']
 confidence: high
+category: [synthesis, framework]
 ---
 
 > **Synthesis:** Palmquist, Sigurdardottir, and Myhre (2025) conduct a narrative [[meta-analysis-systematic-review|literature review]] examining the intersection of AI literacy and social-emotional competencies (SEC) in education, proposing an integrated framework to create a supportive, technologically adept, and emotionally intelligent educational ecosystem. Grounded in the SETCOM project, the review identifies three key themes — AI's transformative potential in reshaping educational practices, its influence on educational providers and stakeholders, and the ethical considerations of AI integration — and argues that integrating AI literacy with SEC can enhance educational outcomes by promoting [[personalized-learning|personalized learning]], fostering collaboration, and addressing ethical challenges.

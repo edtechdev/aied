@@ -4,12 +4,13 @@ created: "2026-07-30T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [personalized-learning, stem-education, learning-analytics, student-experience, adaptive-learning, k-12, higher-ed, knowledge-tracing, ai-literacy, formative-assessment]
-research_method: [benchmark]
-discipline: [stem education]
+research_method: [benchmark, quantitative, educational measurement]
+discipline: [math education, stem education]
 audience: [learners]
-level: [k 12, higher ed]
+level: [secondary, k 12]
 sources: ['raw/papers/2607.26063.md']
 confidence: high
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** On 119,034 students across 13 UK national exams, Bernoulli Mixture Models found few distinct skill clusters — overall ability dominates. A simple explainable model achieved 78% accuracy, competitive with complex approaches. Small personalization gains are possible by accounting for individual question-level strengths, but students don't develop strongly divergent ability profiles across topics.
