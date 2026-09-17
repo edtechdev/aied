@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-17T14:46:00-04:00"
 type: concept
 tags: [learning-design, curriculum-design, educational-development, scaffolding, generative-ai, ai-literacy, higher-ed, teacher-role]
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
@@ -42,7 +42,7 @@ Learning design bridges AI capabilities and effective pedagogy. Where [[curricul
 
 ### Connections to related concepts
 
-Learning design is the bridge discipline of [[ai-education|AI in education]] — it connects [[curriculum-design]] (what to teach) with [[scaffolding]] (how to support learners), [[educational-development]] (how to prepare educators), and [[generative-ai]] (the tools themselves). It is tightly coupled with [[teacher-role]] because AI tools reshape what learning designers and teachers do, and with [[ai-literacy]] because effective AI integration requires educators to understand AI capabilities and limitations.
+Learning design is the bridge discipline of [[ai-education|AI in education]] — it connects [[curriculum-design]] (what to teach) with [[scaffolding]] (how to support learners), [[educational-development]] (how to prepare educators), and [[generative-ai]] (the tools themselves). It is tightly coupled with [[teacher-role]] because AI tools reshape what learning designers and teachers do, and with [[ai-literacy]] because effective AI integration requires educators to understand AI capabilities and limitations. The [[learning-sciences|learning sciences]] are the research field behind these principles: where this page covers the professional practice of creating learning experiences, the learning sciences study that practice and its designs empirically and generate the cognitive, motivational and social principles that learning design then operationalises.
 
 ### How learning design determines learning gains
 
@@ -88,6 +88,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[inclusive-learning]]
 - [[universal-design-for-learning]]
 - [[learning-theories]]
+- [[learning-sciences]]
 - [[learning-gains]]
 - [[behaviorism]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
