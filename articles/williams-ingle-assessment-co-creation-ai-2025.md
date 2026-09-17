@@ -1,14 +1,14 @@
 ---
 title: "Assessment Design Through Co-Creation: Student-Staff Partnership in Evaluating the Impact of Artificial Intelligence"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-08-31T09:58:42-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [pedagogical-partnerships, generative-ai, assessment, formative-assessment, medical-education, higher-ed, self-regulated-learning, student-engagement]
 sources: ['raw/papers/williams-ingle-assessment-co-creation-ai-2025.md']
 confidence: high
 ---
 
-> **Synthesis:** Williams and Ingle (2025) report a case study of the AI Co-Creators project at University College London (UCL), a co-creation initiative in which a student partner who had completed her second year of an undergraduate medical sciences programme and a staff member collaboratively evaluated [[generative-ai|ChatGPT]]-generated output in response to diverse coursework assessments. The pair co-designed seven evaluation criteria grounded in UNESCO and JISC guidance, then examined the challenges surfaced through iterative dialogue, a structured interview, and [[qualitative-research|thematic analysis]]. The partnership found that no coursework assessment was completely immune to ChatGPT interference and explored the value of the collaboration from student, staff, and [[governance|institutional]] perspectives, connecting [[pedagogical-partnerships|co-creation and students-as-partners]] practice to [[self-regulated-learning]], enhanced understanding, and [[student-engagement|student empowerment]] in assessment design.
+> **Synthesis:** Williams and Ingle (2025) report a case study of the AI Co-Creators project at University College London (UCL), a co-creation initiative in which a student partner who had completed her second year of an undergraduate medical sciences program and a staff member collaboratively evaluated [[generative-ai|ChatGPT]]-generated output in response to diverse coursework assessments. The pair co-designed seven evaluation criteria grounded in UNESCO and JISC guidance, then examined the challenges surfaced through iterative dialogue, a structured interview, and [[qualitative-research|thematic analysis]]. The partnership found that no coursework assessment was completely immune to ChatGPT interference and explored the value of the collaboration from student, staff, and [[governance|institutional]] perspectives, connecting [[pedagogical-partnerships|co-creation and students-as-partners]] practice to [[self-regulated-learning]], enhanced understanding, and [[student-engagement|student empowerment]] in assessment design.
 
 ## AI Co-Creators: A Students-as-Partners Assessment Project
 
@@ -37,7 +37,7 @@ The student partner described the process as highly rewarding, felt she had cont
 
 ## Staff and Institutional Perspectives
 
-From a staff perspective, the partnership gained important insights that would not have emerged independently, particularly the student's personal experience of the assessments and her effectiveness at identifying areas where ChatGPT could impact coursework. Co-creation and student-staff collaborations are argued to be ideally positioned to scrutinise [[generative-ai]] use by capitalising on differing perspectives and expertise (Bovill, 2020). At the institutional level, projects such as AI Co-Creators contribute to [[educational-policy-ai|policy]] on the use of generative AI in assessments and the classroom, benefiting existing and future student cohorts and supporting the shift from traditional hierarchical structures toward more democratic, student-voice-oriented higher education (Cook-Sather, 2006; Mercer-Mapstone & Bovill, 2020).
+From a staff perspective, the partnership gained important insights that would not have emerged independently, particularly the student's personal experience of the assessments and her effectiveness at identifying areas where ChatGPT could impact coursework. Co-creation and student-staff collaborations are argued to be ideally positioned to scrutinise [[generative-ai]] use by capitalizing on differing perspectives and expertise (Bovill, 2020). At the institutional level, projects such as AI Co-Creators contribute to [[educational-policy-ai|policy]] on the use of generative AI in assessments and the classroom, benefiting existing and future student cohorts and supporting the shift from traditional hierarchical structures toward more democratic, student-voice-oriented higher education (Cook-Sather, 2006; Mercer-Mapstone & Bovill, 2020).
 
 ## Implications
 

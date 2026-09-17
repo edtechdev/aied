@@ -1,7 +1,7 @@
 ---
 title: "ARPG+: a simulation-based study of real-time coaching for educational LLM prompting"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-08-23T14:00:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [prompt-engineering, llm, metacognition, cognitive-offloading, self-regulated-learning, generative-ai, learning-design, human-ai-collaboration]
 research_method: [system development]
@@ -18,7 +18,7 @@ Prompting is a learnable, transferable metacognitive skill, and principled real-
 
 ## Operationalizing Learning Theory
 
-ARPG+ converts abstract [[pedagogy|pedagogical]] constructs into calibratable, real-time decision variables. Cognitive load theory is instantiated through proxies for intrinsic, extraneous, and germane load aggregated into a bounded overload-risk signal; the zone of proximal development becomes a dynamic ability estimate with an uncertainty-aware moving boundary; and a normalized Struggle Index quantifies interactional friction from editing and pausing behaviours. Prompt quality is represented as a six-dimensional vector — structural completeness, semantic clarity, contextual grounding, task specificity, constraint explicitness, and output conventions — enabling fine-grained diagnosis and longitudinal tracking rather than holistic scoring.
+ARPG+ converts abstract [[pedagogy|pedagogical]] constructs into calibratable, real-time decision variables. Cognitive load theory is instantiated through proxies for intrinsic, extraneous, and germane load aggregated into a bounded overload-risk signal; the zone of proximal development becomes a dynamic ability estimate with an uncertainty-aware moving boundary; and a normalized Struggle Index quantifies interactional friction from editing and pausing behaviors. Prompt quality is represented as a six-dimensional vector — structural completeness, semantic clarity, contextual grounding, task specificity, constraint explicitness, and output conventions — enabling fine-grained diagnosis and longitudinal tracking rather than holistic scoring.
 
 ## Dual-Process Architecture and Scaffolding
 

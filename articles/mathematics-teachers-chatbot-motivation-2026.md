@@ -1,7 +1,7 @@
 ---
 title: "Talking mathematics with AI: Understanding teachers' motivation for utilizing chatbots"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-16"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [math-education, conversational-ai, teacher-role, motivation, technology-acceptance-model]
 research_method: [survey]
@@ -11,7 +11,7 @@ sources: ['raw/papers/mathematics-teachers-chatbot-motivation-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Weinhandl and colleagues (2026) examine what motivates Austrian secondary [[math-education]] teachers to use AI chatbots for [[teacher-role|teaching]], within the Unified Theory of Acceptance and Use of Technology ([[technology-acceptance-model|UTAUT]]) framework. A digital questionnaire study yielded usable data from 448 of the 625 teachers who started (retaining those who answered ≥75% of items overall and ≥2/3 per construct), measured on five-point Likert scales via a modified, German-translated UTAUT instrument (validated by forward–backward translation, expert and teacher review, piloting with 25 teachers, confirmatory factor analysis, and McDonald's ω). Structural equation modelling in lavaan 0.6.17, comparing seven candidate models by chi-squared difference test, selected the original UTAUT predictors plus Perceived Risk (PR). Model fit was acceptable (RMSEA = 0.071, SRMR = 0.067, CFI = 0.913, TLI = 0.892). Direct effects showed Performance Expectancy (PE), Effort Expectancy (EE), and Social Influence (SI) all significantly predicted Behavioral Intention (β = 0.473, 0.287, 0.398; all p < 0.001), while Behavioral Intention (β = 0.687) and Facilitating Conditions (β = 0.297) predicted actual Use Behavior; Perceived Risk was non-significant for both. Age and teaching experience did not moderate the model, but gender partially moderated the BI→UB path. The authors conclude that demonstrable instructional gains (PE) matter most, and that pragmatic factors outweigh perceived risk for this group.
+> **Synthesis:** Weinhandl and colleagues (2026) examine what motivates Austrian secondary [[math-education]] teachers to use AI chatbots for [[teacher-role|teaching]], within the Unified Theory of Acceptance and Use of Technology ([[technology-acceptance-model|UTAUT]]) framework. A digital questionnaire study yielded usable data from 448 of the 625 teachers who started (retaining those who answered ≥75% of items overall and ≥2/3 per construct), measured on five-point Likert scales via a modified, German-translated UTAUT instrument (validated by forward–backward translation, expert and teacher review, piloting with 25 teachers, confirmatory factor analysis, and McDonald's ω). Structural equation modeling in lavaan 0.6.17, comparing seven candidate models by chi-squared difference test, selected the original UTAUT predictors plus Perceived Risk (PR). Model fit was acceptable (RMSEA = 0.071, SRMR = 0.067, CFI = 0.913, TLI = 0.892). Direct effects showed Performance Expectancy (PE), Effort Expectancy (EE), and Social Influence (SI) all significantly predicted Behavioral Intention (β = 0.473, 0.287, 0.398; all p < 0.001), while Behavioral Intention (β = 0.687) and Facilitating Conditions (β = 0.297) predicted actual Use Behavior; Perceived Risk was non-significant for both. Age and teaching experience did not moderate the model, but gender partially moderated the BI→UB path. The authors conclude that demonstrable instructional gains (PE) matter most, and that pragmatic factors outweigh perceived risk for this group.
 
 ## Key Findings
 

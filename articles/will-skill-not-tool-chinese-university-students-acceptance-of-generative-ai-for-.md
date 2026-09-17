@@ -1,7 +1,7 @@
 ---
 title: "Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-24T17:25:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, ai-literacy, higher-ed, educational-policy-ai, technology-acceptance-model, ai-education, writing-education]
 audience: [learners]
@@ -12,13 +12,13 @@ sources: ['raw/papers/will-skill-not-tool-chinese-university-students-acceptance
 confidence: high
 ---
 
-> **Synthesis:** Yang & Huang (2026) adopt the **Will, Skill, Tool (WST)** model to explore how English-medium-instruction (EMI) students' intentions to use [[generative-ai|GenAI]] for [[writing-education|academic writing]] are shaped by AI-specific variables. Survey data from 512 university students at an EMI university in China, modeled with SEM, explained **56% of the variance** in behavioural intentions. **Will-related factors** (attitudes, perceived risks, perceived importance of policy) and the **skill factor** ([[ai-literacy|AI literacy]]) were significant antecedents, whereas the **tool component** (facilitating conditions) was **not** significant. Attitudes and perceived risks served as significant indirect pathways linking perceived-importance-of-policy and AI literacy to behavioural intentions.
+> **Synthesis:** Yang & Huang (2026) adopt the **Will, Skill, Tool (WST)** model to explore how English-medium-instruction (EMI) students' intentions to use [[generative-ai|GenAI]] for [[writing-education|academic writing]] are shaped by AI-specific variables. Survey data from 512 university students at an EMI university in China, modeled with SEM, explained **56% of the variance** in behavioral intentions. **Will-related factors** (attitudes, perceived risks, perceived importance of policy) and the **skill factor** ([[ai-literacy|AI literacy]]) were significant antecedents, whereas the **tool component** (facilitating conditions) was **not** significant. Attitudes and perceived risks served as significant indirect pathways linking perceived-importance-of-policy and AI literacy to behavioral intentions.
 
 ## Key Findings
 
 - **The WST model applied to EMI + GenAI.** The Will, Skill, Tool framework captures how EMI students' academic-writing AI adoption is driven more by willingness and capability than by technical access.
-- **Will and skill predict intention; tool does not.** Will-related factors (attitudes, perceived risks, perceived importance of policy) and the skill factor (AI literacy) were significant antecedents of behavioural intention, while the tool component (facilitating conditions) was not — a notable departure from models that emphasize infrastructure.
-- **56% of variance explained.** The structural equation model accounted for a substantial share of variance in EMI students' behavioural intentions.
+- **Will and skill predict intention; tool does not.** Will-related factors (attitudes, perceived risks, perceived importance of policy) and the skill factor (AI literacy) were significant antecedents of behavioral intention, while the tool component (facilitating conditions) was not — a notable departure from models that emphasize infrastructure.
+- **56% of variance explained.** The structural equation model accounted for a substantial share of variance in EMI students' behavioral intentions.
 - **Indirect pathways via attitudes and perceived risk.** Perceived importance of policy and AI literacy operated through attitudes and perceived risks to influence intention.
 - **Beyond the formal classroom.** The study addresses GenAI use for academic writing in informal settings, not just formal classroom tasks.
 

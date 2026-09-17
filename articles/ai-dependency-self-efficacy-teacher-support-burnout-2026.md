@@ -1,7 +1,7 @@
 ---
 title: "The dark side of AI in education: AI dependency as a mediator linking academic self-efficacy and teacher support to learning burnout among university students"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-misuse-learning-harm, cognitive-offloading, self-efficacy, teacher-role, well-being, higher-ed, student-engagement]
 audience: [researchers, educators, administrators, policymakers, instructors]
@@ -43,14 +43,14 @@ The authors' practical recommendations are threefold: educators should supply ti
 - The cross-sectional design cannot establish causality or capture change over time; reciprocal relationships are plausible (burnout may itself drive dependency), and longitudinal or experimental designs are needed.
 - All measures were self-report, inviting social desirability and subjective bias; the adapted AI Dependency Scale showed satisfactory reliability and construct validity but its content validity was not assessed via expert review or pilot testing.
 - The sample was limited to undergraduates at a few comprehensive universities in Chengdu, China, using convenience sampling — limiting external validity, since AI dependency may vary with [[curriculum-design|curriculum]], assessment practices, technology access, institutional [[educational-policy-ai|AI policy]], and teacher–student relationships across contexts.
-- PROCESS uses observed composite scores rather than latent variables and does not model measurement error; latent-variable structural equation modelling with bootstrapped indirect effects is recommended.
-- Other relevant antecedents (self-regulated learning, [[motivation|intrinsic motivation]], [[critical-thinking|critical thinking]], academic engagement) and boundary conditions (AI literacy, digital competence, usage frequency, discipline, personality, achievement) were not modelled; the observed group differences are not formal moderation effects.
+- PROCESS uses observed composite scores rather than latent variables and does not model measurement error; latent-variable structural equation modeling with bootstrapped indirect effects is recommended.
+- Other relevant antecedents (self-regulated learning, [[motivation|intrinsic motivation]], [[critical-thinking|critical thinking]], academic engagement) and boundary conditions (AI literacy, digital competence, usage frequency, discipline, personality, achievement) were not modeled; the observed group differences are not formal moderation effects.
 
 ## Connected Concepts
 
 - [[ai-misuse-learning-harm]] — AI dependency is framed as maladaptive reliance that shifts AI from learning aid to external regulator of cognition, with burnout as the harm
 - [[cognitive-offloading]] — Cognitive Offloading Theory explains why low-confidence students delegate demanding tasks to AI, and why habitual delegation depletes the resources that protect against burnout
-- [[self-efficacy]] — academic self-efficacy is the key individual resource that reduces AI dependency, extending self-efficacy from achievement to AI-related behaviour
+- [[self-efficacy]] — academic self-efficacy is the key individual resource that reduces AI dependency, extending self-efficacy from achievement to AI-related behavior
 - [[teacher-role]] — teacher support (Structure, Involvement, Autonomy Support) acts as a contextual resource that guides appropriate AI use and buffers dependency
 - [[well-being]] — learning burnout comprises emotional exhaustion, cynicism and diminished academic efficacy, the psychological cost of dependency
 - [[higher-ed]] — the study targets university students in AI-assisted learning environments

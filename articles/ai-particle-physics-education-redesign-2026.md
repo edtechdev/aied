@@ -1,7 +1,7 @@
 ---
 title: "AI in Particle Physics Education: Research Problems and Foundational Skills"
 created: "2026-09-11T09:20:00-04:00"
-updated: "2026-09-11T09:20:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [physics-education, generative-ai, assessment, assessment-validity, academic-integrity, cognitive-offloading, curriculum-design, higher-ed, problem-solving, transfer-of-learning]
 sources: ['raw/papers/2609.05719.md']
@@ -56,7 +56,7 @@ The experience reinforced a well-established distinction: assisted performance i
 
 The plan for the next KT1 course reflects three changes, all of which reduce the weight of the research-shaped work in grading while keeping the tasks available:
 
-1. A written examination will be the focus of the course and determine the final grade, with homework counting only toward bonus points, and multiple mock examinations offered so students can practise solving standard problems without assistance.
+1. A written examination will be the focus of the course and determine the final grade, with homework counting only toward bonus points, and multiple mock examinations offered so students can practice solving standard problems without assistance.
 2. Traditional tutorial problems will be given well in advance so students can come prepared and participate in active classroom discussion, shifting the focus from independent work toward the group discussion that preparation makes possible.
 3. Parts of the research-shaped problems may remain as advanced or bonus work with AI still available during study, accompanied by prerequisite preparation, worked examples, [[feedback]], and explicit consolidation.
 
@@ -64,7 +64,7 @@ Beyond these changes, the authors pose three broader questions for the physics c
 
 ## Limits of the Evidence
 
-The report is a single-course, single-institution reflection rather than a controlled study: one elective course, 42 active coursework records, and no comparison condition or randomisation. The mid-semester survey had 30 complete responses with an unknown eligible denominator, and it measured perceptions rather than demonstrated competence. The examination record is confounded by the incentive structure, the collaborative and resource-rich nature of homework, the novelty of the written exam, and the release of mock papers, and the key observation about students who could not complete standard calculations was not collected through a formal protocol. No systematic [[benchmark]] of named models, prompts, or access tiers was conducted, so resistance to a single prompt is reported as design experience rather than a durable property of the assignments — a limitation the authors underline by noting that model capability changed drastically within months of the course. The authors offer the mixed experience as a reference point for discussion, not as a causal estimate of an AI effect, which places the work firmly in the territory of [[limitations-in-aied-research]].
+The report is a single-course, single-institution reflection rather than a controlled study: one elective course, 42 active coursework records, and no comparison condition or randomization. The mid-semester survey had 30 complete responses with an unknown eligible denominator, and it measured perceptions rather than demonstrated competence. The examination record is confounded by the incentive structure, the collaborative and resource-rich nature of homework, the novelty of the written exam, and the release of mock papers, and the key observation about students who could not complete standard calculations was not collected through a formal protocol. No systematic [[benchmark]] of named models, prompts, or access tiers was conducted, so resistance to a single prompt is reported as design experience rather than a durable property of the assignments — a limitation the authors underline by noting that model capability changed drastically within months of the course. The authors offer the mixed experience as a reference point for discussion, not as a causal estimate of an AI effect, which places the work firmly in the territory of [[limitations-in-aied-research]].
 
 ## Connected Concepts
 - [[physics-education]]

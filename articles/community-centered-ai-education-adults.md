@@ -1,7 +1,7 @@
 ---
 title: "Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study"
 created: "2026-06-26T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-literacy, lifelong-learning, equity-in-ai-education, student-experience, edtech-platform, educational-development, k-12, higher-ed]
 research_method: [case study, design-based research]
@@ -33,7 +33,7 @@ The study contributes design considerations for [[edtech-platform|educational te
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
+- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analyzing Dyslexic Learners Insights from Online Forums
 - [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy

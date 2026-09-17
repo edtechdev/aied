@@ -1,7 +1,7 @@
 ---
 title: "Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption"
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, authentic-assessment, cognitive-offloading, ai-literacy, assessment, rag]
 connected_faqs: [ai-guidance-children-under-13]
@@ -14,13 +14,13 @@ sources: ['raw/papers/tandf-2026-moral-panic-genai.md']
 confidence: high
 ---
 
-> **Synthesis:** A **natural-experiment / design-based study** tracking eight iterations of a lower-division *Data Visualisation in the Social Sciences* course (n = 921 across six years) to test whether — and how — [[generative-ai|GenAI]] changes student [[learning-gains|learning]]. The authors frame faculty anxiety about GenAI as the latest in a series of "moral panics" (calculators, word processors, search engines, [[online-teaching-and-learning|e-learning]]) and argue the productive response is to **teach and embed GenAI use**, not ban it. They compare three instructional conditions on two quiz types (knowledge vs. applied):
+> **Synthesis:** A **natural-experiment / design-based study** tracking eight iterations of a lower-division *Data Visualization in the Social Sciences* course (n = 921 across six years) to test whether — and how — [[generative-ai|GenAI]] changes student [[learning-gains|learning]]. The authors frame faculty anxiety about GenAI as the latest in a series of "moral panics" (calculators, word processors, search engines, [[online-teaching-and-learning|e-learning]]) and argue the productive response is to **teach and embed GenAI use**, not ban it. They compare three instructional conditions on two quiz types (knowledge vs. applied):
 > - **pre-GenAI** (2019–2020, n = 3 cohorts)
 > - **GenAI-available** (2023–2024, n = 3) — GenAI present but no [[pedagogy|pedagogical]] adaptation; some students used it, often ineffectively/unethically
 > - **GenAI-integrated** (2025, n = 2) — explicit instruction + encouragement to use GenAI on the *applied* portion; GenAI banned on the *knowledge* portion (paper quiz)
 
 ## Method (key design)
-- Quizzes 3–6 analysed (first two dropped as orientation; Quiz 7 dropped as low-stakes). Item-level performance (% correct = difficulty; SD = variability) from the LMS.
+- Quizzes 3–6 analyzed (first two dropped as orientation; Quiz 7 dropped as low-stakes). Item-level performance (% correct = difficulty; SD = variability) from the LMS.
 - **3 × 4 mixed-design ANOVA**: AI-availability (between, 3 levels) × quiz number (within, 4 levels). Small per-condition N (2–3 cohorts), so effect sizes (ω²) reported as the primary evidence.
 
 ## Key Findings
@@ -28,11 +28,11 @@ confidence: high
 ### Applied questions — "available" hurt, "integrated" recovered
 - **Main effect of GenAI availability:** F(2,5) = 5.85, p = 0.049, **ω² = 0.35** (GenAI availability accounts for 35% of variance in applied-question performance).
 - In the **GenAI-available** condition, applied performance was **significantly lower** than baseline on Quizzes 4, 5, 6. Because applied questions could *not* be answered directly by GenAI, the drop indicates students were **less prepared** — either unable to use GenAI effectively or unable to critically evaluate its output.
-- In the **GenAI-integrated** condition, applied performance **returned to ~pre-GenAI levels** (and exceeded baseline on one harder quiz). [[teacher-role|Teaching]] students to use GenAI for data summarising levelled the field.
+- In the **GenAI-integrated** condition, applied performance **returned to ~pre-GenAI levels** (and exceeded baseline on one harder quiz). [[teacher-role|Teaching]] students to use GenAI for data summarizing levelled the field.
 
 ### Knowledge questions — availability masked cheating; paper quiz revealed a deficit
 - Same main effect, **ω² = 0.35**. Knowledge performance stayed at baseline during GenAI-available, then **dropped below baseline** once delivered on paper in the integrated condition.
-- The authors interpret the *stable central tendency but elevated variability* during GenAI-available as evidence that **some students unethically used GenAI** to boost knowledge scores (heterogeneous use masked underlying learning differences). Moving knowledge quizzes to paper removed that opportunity and exposed that integrated-cohort students were **less prepared** — plausibly from [[cognitive-offloading|over-reliance]] on GenAI to summarise content.
+- The authors interpret the *stable central tendency but elevated variability* during GenAI-available as evidence that **some students unethically used GenAI** to boost knowledge scores (heterogeneous use masked underlying learning differences). Moving knowledge quizzes to paper removed that opportunity and exposed that integrated-cohort students were **less prepared** — plausibly from [[cognitive-offloading|over-reliance]] on GenAI to summarize content.
 
 ### Variability — the headline signal
 - **Applied-question variability:** F(2,5) = 64.84, p < 0.001, **ω² = 0.88** — GenAI availability accounted for **88%** of variability. Variability spiked in the GenAI-available condition, returned to baseline under integration.

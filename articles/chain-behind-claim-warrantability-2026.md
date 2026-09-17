@@ -1,7 +1,7 @@
 ---
 title: "The Chain Behind the Claim: Warrantability in AI-Assisted Qualitative Research"
 created: "2026-09-08T09:07:05-04:00"
-updated: "2026-09-08T09:07:05-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [qualitative-research, research-methods-aied, llm, generative-ai, trust-calibration, learning-analytics, ethics]
 research_method: [position paper]
@@ -36,7 +36,7 @@ Two benefits follow. For **peer review**, warrant artifacts give reviewers somet
 
 ## Contribution to the knowledge base
 
-This essay adds a **procedural epistemology** for AI-assisted [[qualitative-research|qualitative research]] that complements the wiki's existing treatments of AI-in-research. Where [[research-methods-aied]] pages and reviews catalogue methods, reporting models (e.g. [[ai-detection|transparency]] frameworks), and evaluation practice, Holster supplies a concrete standard (warrantability) and concrete artifacts (semantic lenses, lens stacks, evidence rivers) for judging whether an AI-mediated interpretation is trustworthy. It connects to [[trust-calibration|trust]] (knowing when to trust an AI-assisted analysis), to [[research-methods-aied|research methods]] and reporting conventions, and to broader concerns about [[academic-integrity|integrity]] and rigor in the generative era. It is an essay/proposal rather than an empirical study, so its value is conceptual: giving the field a shared vocabulary and a design target for transparent AI-assisted qualitative tools.
+This essay adds a **procedural epistemology** for AI-assisted [[qualitative-research|qualitative research]] that complements the wiki's existing treatments of AI-in-research. Where [[research-methods-aied]] pages and reviews catalog methods, reporting models (e.g. [[ai-detection|transparency]] frameworks), and evaluation practice, Holster supplies a concrete standard (warrantability) and concrete artifacts (semantic lenses, lens stacks, evidence rivers) for judging whether an AI-mediated interpretation is trustworthy. It connects to [[trust-calibration|trust]] (knowing when to trust an AI-assisted analysis), to [[research-methods-aied|research methods]] and reporting conventions, and to broader concerns about [[academic-integrity|integrity]] and rigor in the generative era. It is an essay/proposal rather than an empirical study, so its value is conceptual: giving the field a shared vocabulary and a design target for transparent AI-assisted qualitative tools.
 
 ## Connected Concepts
 

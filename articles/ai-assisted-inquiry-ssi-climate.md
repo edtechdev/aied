@@ -1,7 +1,7 @@
 ---
 title: "Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change"
 created: "2026-09-02T09:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [science-education, inquiry-based-learning, critical-thinking, generative-ai, assessment, situated-learning, student-engagement]
 sources: ['raw/papers/ai-assisted-inquiry-ssi-climate.md']
@@ -21,7 +21,7 @@ Students' decision-making was scored against a rubric anchored in the structured
 
 ### Motivation and rationale
 
-The authors drew on [[inquiry-based-learning|inquiry]] traditions rooted in action competence and education for sustainable development, which hold that the aim is to help learners deliberate and act, not merely to know. They designed the tasks, instruments, and rubric so that students recognised the climate problem as their own, directly addressing recurring obstacles in climate education: [[misconceptions]], a sense that the problem is distant, and low feelings of [[agency]].
+The authors drew on [[inquiry-based-learning|inquiry]] traditions rooted in action competence and education for sustainable development, which hold that the aim is to help learners deliberate and act, not merely to know. They designed the tasks, instruments, and rubric so that students recognized the climate problem as their own, directly addressing recurring obstacles in climate education: [[misconceptions]], a sense that the problem is distant, and low feelings of [[agency]].
 
 ## Connected Concepts
 - [[science-education]]

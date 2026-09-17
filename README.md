@@ -178,7 +178,7 @@ Want to set up an automated research knowledge base for a different domain? Ever
 - **`tooling/example/`** — Starter knowledge-base files to get going quickly
 - **`wiki.config.yaml`** (repo root) — The pipeline configuration: content paths, build + gate commands, scan sources, journal feeds, relevance filter, and an `agent:` block that maps the pipeline's capabilities onto your AI agent's tools. Add or remove a journal or arXiv category here, in one place.
 - **`concepts.registry.yaml`** (repo root) — The concept vocabulary: every concept slug with its title and synonym phrases, the sidebar sections, the merge/redirect map and the never-link list. `tooling/concept-index.md`, `src/data/conceptIndex.ts` and `src/data/conceptRedirects.ts` are **generated** from it.
-- **`site.config.json`** (repo root) — Site identity: name, brand, URL, base path, repo/issues links, editor credit, licence, theme colours.
+- **`site.config.json`** (repo root) — Site identity: name, brand, URL, base path, repo/issues links, editor credit, license, theme colors.
 
 The mirrored **AI agent skills** live in [`skills/research/`](skills/research/) and encode the editorial conventions the agents must follow:
 

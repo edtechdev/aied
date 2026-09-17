@@ -1,7 +1,7 @@
 ---
 title: "LUDIA: A Design and Evidence Statement"
 created: "2026-08-10T09:10:02-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [universal-design-for-learning, accessibility, teacher-education, ai-education, learning-design, edtech-platform, equity-in-ai-education]
 connected_faqs: [ai-disabled-neurodivergent-learners]
@@ -44,7 +44,7 @@ The paper's most distinctive move is its refusal to claim evidence of effectiven
 
 ## Implications
 
-For educators and instructional designers, LUDIA models a form of AI use in which the tool augments rather than replaces professional judgement — a thought partner that makes its reasoning visible against a published framework and redirects attention from learner deficits to barriers in the design. It offers a concrete, verifiable template for how an AI tool can be both accessible and privacy-preserving by default, with no account, no data collection, and no engagement mechanics.
+For educators and instructional designers, LUDIA models a form of AI use in which the tool augments rather than replaces professional judgment — a thought partner that makes its reasoning visible against a published framework and redirects attention from learner deficits to barriers in the design. It offers a concrete, verifiable template for how an AI tool can be both accessible and privacy-preserving by default, with no account, no data collection, and no engagement mechanics.
 
 For the broader [[ai-education|AI-in-education]] field, the document advances a strong argument that evidence for such tools should be organized by purpose rather than by [[research-methods-aied|methodological]] prestige, and that "proof of trust" — coherence, honesty, and an account of what a tool is and is not — is a defensible standard for early-stage public-good tools where attribution of learner outcomes is not credible. It also signals a productive tension worth wider attention: a privacy architecture that holds nothing by design is the same architecture that makes it impossible for the tool to receive or act on a safeguarding disclosure.
 

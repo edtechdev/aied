@@ -1,7 +1,7 @@
 ---
 title: "Rethinking AI-assisted writing instruction: feedback literacy scripts, calibration training, and student writing development"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-feedback-quality, feedback, self-regulated-learning, formative-assessment, writing-education, ai-literacy, metacognition, higher-ed, generative-ai]
 audience: [learners, instructors]
@@ -41,7 +41,7 @@ The paper shifts attention from "whether AI can provide feedback" to "under what
 ## Connection to Existing Knowledge Base
 
 - **[[ai-feedback-quality]]**: Provides causal evidence that feedback-processing training raises effective adoption and deep revision, not just feedback volume.
-- **[[feedback|Feedback Loop]]**: FRAC's Filter–Reason–Act–Check sequence operationalises a structured feedback–revision loop.
+- **[[feedback|Feedback Loop]]**: FRAC's Filter–Reason–Act–Check sequence operationalizes a structured feedback–revision loop.
 - **[[self-regulated-learning]] / [[metacognition]]**: APCA's calibration cycle is a concrete calibration-training instantiation tied to SRL monitoring and control.
 - **[[formative-assessment]]**: Links feedback uptake and self-assessment accuracy to formative writing assessment in higher education.
 - **[[writing-education]] / [[ai-literacy]]**: Evidence that AI-assisted writing outcomes depend on training learners to evaluate and act on AI feedback.

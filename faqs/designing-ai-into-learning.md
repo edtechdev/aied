@@ -1,7 +1,7 @@
 ---
 title: "How Should AI Be Designed Into the Learning Experience?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-14T06:15:37-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 weight: 72
 tags: [pedagogy, learning-design, active-learning, scaffolding, reducing-ai-misuse]
 category: [instructional design]
@@ -31,9 +31,9 @@ The [[reducing-ai-misuse|Reducing AI Misuse]] synthesis specifically recommends 
 
 ## Sequence the design, don't just permit the tool
 
-[[learning-paths-patterns-learning-design-2026|Divjak, Svetec and Horvat]] analysed the planned sequence of 29,064 teaching and learning activities across 554 courses and found a visible design grammar: Acquisition-type activities are the most common entry point and the largest single type (above 20%), learning type tracks the intended Bloom level (Acquisition falling from ~50% at level 1 to ~20% at level 6, Production rising above 20% at levels 5–6), and the strongest transition is Assessment → Discussion (0.332). Two lessons for AI design: AI belongs where the sequence intends a specific activity type rather than bolted on at the end, and because feedback clustered with [[collaborative-learning|collaboration]], [[group-work|group work]] and [[teacher-role|teacher]] presence, peer and synchronous structures create the [[feedback]] moments AI support should plug into rather than replace.
+[[learning-paths-patterns-learning-design-2026|Divjak, Svetec and Horvat]] analyzed the planned sequence of 29,064 teaching and learning activities across 554 courses and found a visible design grammar: Acquisition-type activities are the most common entry point and the largest single type (above 20%), learning type tracks the intended Bloom level (Acquisition falling from ~50% at level 1 to ~20% at level 6, Production rising above 20% at levels 5–6), and the strongest transition is Assessment → Discussion (0.332). Two lessons for AI design: AI belongs where the sequence intends a specific activity type rather than bolted on at the end, and because feedback clustered with [[collaborative-learning|collaboration]], [[group-work|group work]] and [[teacher-role|teacher]] presence, peer and synchronous structures create the [[feedback]] moments AI support should plug into rather than replace.
 
-[[refrain-amplify-genai-curriculum-2026|Torres-Sahli and colleagues' "refrain, then amplify" framework]] pushes this to programme level: withhold a generative tool while a capacity is forming, then restore it once the student can direct it, judge what it returns, and answer for it, with a hard-to-fake checkpoint at each hinge. Devices are governed by a forming-versus-[[cognitive-offloading|offloading]] criterion — allowed where they support engaged work, excluded where they drain attention. This turns offloading decisions into a [[curriculum-design|curriculum]] and [[governance]] question that precedes, rather than follows, course-level design.
+[[refrain-amplify-genai-curriculum-2026|Torres-Sahli and colleagues' "refrain, then amplify" framework]] pushes this to program level: withhold a generative tool while a capacity is forming, then restore it once the student can direct it, judge what it returns, and answer for it, with a hard-to-fake checkpoint at each hinge. Devices are governed by a forming-versus-[[cognitive-offloading|offloading]] criterion — allowed where they support engaged work, excluded where they drain attention. This turns offloading decisions into a [[curriculum-design|curriculum]] and [[governance]] question that precedes, rather than follows, course-level design.
 
 ## Constructive alignment comes first
 
@@ -41,6 +41,6 @@ The [[reducing-ai-misuse|Reducing AI Misuse]] synthesis specifically recommends 
 
 ## The broader principle
 
-The broader principle in [[finkelstein-principled-ai-education-2025|the Principled AI Education Framework]] is that technology should augment rather than displace human capabilities that education intends to develop. See also [[learning-design|Instructional Design]], [[active-learning|Active Learning]] and [[scaffolding|Scaffolding]].
+The broader principle in [[finkelstein-principled-ai-education-2025|the Principled AI Education Framework]] is that technology should augment rather than displace human capabilities that education intends to develop. See also [[learning-design|Instructional Design]], [[active-learning|Active Learning]] and [[scaffolding]].
 
 For the pedagogical defaults that determine whether a designed interaction preserves learning, see [[reduce-ai-cheating]] and [[redesign-assessment-ai-era]]; for how the same principles constrain the software itself, see [[designing-educational-ai-software]], and for their translation into a tutor's architecture, see [[developing-ai-tutor]].

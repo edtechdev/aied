@@ -1,7 +1,7 @@
 ---
 title: "How Should I Use AI to Study and Learn Effectively?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 weight: 60
 type: faq
 tags: [self-regulated-learning, help-seeking, metacognition, desirable-difficulties, cognitive-offloading, trust-calibration, self-efficacy]
@@ -13,7 +13,7 @@ category: [instructional design]
 
 # How Should I Use AI to Study and Learn Effectively?
 
-These tools will answer almost anything you ask, which is why using them well is a skill rather than a convenience. The research collected here points to one organising idea: the same model, placed at a different point in your study process, produces opposite results. A chat that ends your thinking before it starts makes the work feel faster and leaves less behind; the same chat used to test, explain and correct something you have already attempted can support real learning.
+These tools will answer almost anything you ask, which is why using them well is a skill rather than a convenience. The research collected here points to one organizing idea: the same model, placed at a different point in your study process, produces opposite results. A chat that ends your thinking before it starts makes the work feel faster and leaves less behind; the same chat used to test, explain and correct something you have already attempted can support real learning.
 
 ## Getting help is not the same as getting the work done
 
@@ -25,7 +25,7 @@ Only 8 of the 38 worked as what the authors call cognitive partners, and their d
 
 ## What students actually do with these tools
 
-The gap between intention and behaviour is the most consistent finding in this literature. In the same study, **76.32% of students relied on an ask–get answer–stop pattern** — typically pasting the assessment title without saying what they actually needed, then resubmitting the same prompt when the answer disappointed them. Sustained, iterative dialogue appeared in only 23.68%, almost all of them cognitive partners, and 78.94% used AI either before starting or after drafting, detached from their own reading and writing.
+The gap between intention and behavior is the most consistent finding in this literature. In the same study, **76.32% of students relied on an ask–get answer–stop pattern** — typically pasting the assessment title without saying what they actually needed, then resubmitting the same prompt when the answer disappointed them. Sustained, iterative dialogue appeared in only 23.68%, almost all of them cognitive partners, and 78.94% used AI either before starting or after drafting, detached from their own reading and writing.
 
 The [[help-seeking]] research shows the same shape. [[student-ai-inquiry-types-cs2-2026|Amoozadeh and Alipour (2026)]] classified 830 prompts from 72 students across two programming tasks: assertions (reports of confusion rather than questions), verification prompts asking whether something was right, and instrumental or procedural prompts asking for the next step dominated, while comparison, prediction and feature specification stayed rare — students lingered in the same few conversational moves. [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg, Feldman-Maggor and Wong (2026)]] found a comparable pattern in interviews with 20 university STEM students, who described a four-stage process of deciding whether help was needed, choosing whom to ask, deciding what kind of help to request and judging what they got, with the model as a low-barrier first step — "first ChatGPT, then classmates, and lastly teachers". Those students deliberately preferred hints, step-by-step guidance and concept explanations over direct solutions, treating the chatbot as "a hint, an assisting tool, but not the standalone solution".
 
@@ -37,7 +37,7 @@ Specificity and iteration separate productive use from its opposite. Naming the 
 
 **Use it to explain and to quiz, not to produce.** The advantage in that study came from the agent's refusal to give direct solutions, a policy you can impose on any chatbot in a sentence: explain this as though I will be tested on it, quiz me one question at a time, do not give me the answer until I have attempted it, tell me what I got wrong and why.
 
-**Practise retrieval on a schedule.** [[memdora-ai-spaced-repetition|Zhang (2026)]] describes Memdora, an AI spaced-repetition system built on the finding that roughly **70% of newly learned material is forgotten within 24 hours** without review. It generates cards from whatever you are reading, at the point of reading, and schedules them with FSRS-6. The paper reports better retention than traditional flashcard tools, but its contribution is a design and interaction taxonomy rather than a controlled retention trial — take the spacing and retrieval as evidenced, the specific interaction design as promising.
+**Practice retrieval on a schedule.** [[memdora-ai-spaced-repetition|Zhang (2026)]] describes Memdora, an AI spaced-repetition system built on the finding that roughly **70% of newly learned material is forgotten within 24 hours** without review. It generates cards from whatever you are reading, at the point of reading, and schedules them with FSRS-6. The paper reports better retention than traditional flashcard tools, but its contribution is a design and interaction taxonomy rather than a controlled retention trial — take the spacing and retrieval as evidenced, the specific interaction design as promising.
 
 **Process corrections instead of swapping answers in.** [[verification-quality-reliance-calibration-genai-2026|Wei and Shang (2026)]] report an error-correction study in which effort during correction mattered for learning, while simple answer substitution was unlikely to deliver the same benefit. When something is fixed for you, ask what was wrong, why your version failed and what the underlying rule is — then redo the step yourself.
 
@@ -49,11 +49,11 @@ Specificity and iteration separate productive use from its opposite. Naming the 
 
 Two findings make this concrete. Dávila et al. (2025) gave learners advice that was correct about half the time and found that how much they weighted it varied with their [[prior-knowledge|prior knowledge]] and gender — trust was not tracking accuracy. Zheng et al. (2025) identified a "failed application" pattern in which correctly following guidance that was itself correct still ended in a wrong answer. And [[self-efficacy]] is not a safe guide: Rheu and Cho (2025) found that understanding how language models work was associated with more self-reported fact-checking, while some forms of confidence and feature knowledge were associated with less of it.
 
-So verify anything you will be assessed on against a source you can name. The STEM students in [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg et al. (2026)]] checked outputs against their coursework and instructors, one explaining that "I only go to the TA if we can't tell whether ChatGPT is making things up". When you genuinely cannot tell, mark the point unresolved and ask a person rather than adopting it to get the page finished. Decide your own ground rules before you need them: [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella and colleagues (2026)]] surveyed 151 undergraduates and found that ethical judgements were necessary conditions for intending to use a large language model for exam preparation, with consequentialist and deontological reasoning predicting that intention, and intention strongly predicting actual use.
+So verify anything you will be assessed on against a source you can name. The STEM students in [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg et al. (2026)]] checked outputs against their coursework and instructors, one explaining that "I only go to the TA if we can't tell whether ChatGPT is making things up". When you genuinely cannot tell, mark the point unresolved and ask a person rather than adopting it to get the page finished. Decide your own ground rules before you need them: [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella and colleagues (2026)]] surveyed 151 undergraduates and found that ethical judgments were necessary conditions for intending to use a large language model for exam preparation, with consequentialist and deontological reasoning predicting that intention, and intention strongly predicting actual use.
 
 ## Uses that help without displacing the learning
 
-Some tasks are genuinely logistics. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] built systems that adapt spoken playback to the difficulty of each segment (averaging about 1.30x) and generate multimodal video summaries that cut viewing time by 53% with no statistically significant difference in quiz scores. Summarising, translating, reformatting, generating practice cards at the point of reading and planning a study schedule are reasonable uses. Writing the analysis is not — and the students who used AI only before starting and after finishing, leaving their own reading and drafting untouched in between, were the large majority who learned least.
+Some tasks are genuinely logistics. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] built systems that adapt spoken playback to the difficulty of each segment (averaging about 1.30x) and generate multimodal video summaries that cut viewing time by 53% with no statistically significant difference in quiz scores. Summarizing, translating, reformatting, generating practice cards at the point of reading and planning a study schedule are reasonable uses. Writing the analysis is not — and the students who used AI only before starting and after finishing, leaving their own reading and drafting untouched in between, were the large majority who learned least.
 
 ## How to tell whether you are actually learning
 

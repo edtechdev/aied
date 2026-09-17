@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [self-efficacy, motivation, assessment, self-regulated-learning, student-experience, ai-literacy]
 connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
@@ -23,7 +23,7 @@ confidence: high
 
 ## Introduction
 
-Self-efficacy is distinct from actual competence: it is a belief about capability that drives behaviour. It is closely related to — and often used interchangeably with — the everyday notion of *confidence* in one's abilities. Self-efficacy connects closely to [[motivation]], [[self-regulated-learning]], and [[student-experience]]. In the AI context, AI self-efficacy (confidence in working with AI) is a distinct construct from AI literacy, and research shows it plays a crucial role in whether learners actually activate and apply AI-related knowledge.
+Self-efficacy is distinct from actual competence: it is a belief about capability that drives behavior. It is closely related to — and often used interchangeably with — the everyday notion of *confidence* in one's abilities. Self-efficacy connects closely to [[motivation]], [[self-regulated-learning]], and [[student-experience]]. In the AI context, AI self-efficacy (confidence in working with AI) is a distinct construct from AI literacy, and research shows it plays a crucial role in whether learners actually activate and apply AI-related knowledge.
 
 ### How self-efficacy appears in the knowledge base's research
 

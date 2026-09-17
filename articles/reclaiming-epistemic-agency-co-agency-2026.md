@@ -1,7 +1,7 @@
 ---
 title: "Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education"
 created: "2026-08-28T09:05:00-04:00"
-updated: "2026-08-28T09:05:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [agency, generative-ai, higher-ed, self-regulated-learning, teacher-role, theory-development-aied, ethics, cognitive-offloading, tpack, equity-in-ai-education]
 research_method: [theoretical analysis]
@@ -11,7 +11,7 @@ sources: ['raw/papers/2608.26937.md']
 confidence: high
 ---
 
-> **Synthesis:** Poudyal (2026) argues that [[generative-ai|generative AI]] in education does more than add a new tool: it reassigns epistemological authority from teachers to students to machines, redistributing [[agency]] across humans and non-human systems in a process the paper terms *co-agency*. After evaluating Distributed Agency, [[self-determination-theory|Self-Determination Theory]], Society 5.0, and integration frameworks such as [[tpack|TPACK]] and SAMR — none of which address equitable power, data ownership, or accountability — the paper introduces the **Ecological Co-Agency Framework**, defining agency through relational, [[regulation|regulatory]], and [[pedagogy|pedagogical]] processes bounded by a non-negotiable condition of human epistemic accountability. The framework offers educators and policymakers a more precise vocabulary than "balance" for deciding how tasks, evaluation, and responsibility are distributed between learners and AI in [[higher-ed|higher education]].
+> **Synthesis:** Poudyal (2026) argues that [[generative-ai|generative AI]] in education does more than add a new tool: it reassigns epistemological authority from teachers to students to machines, redistributing [[agency]] across humans and non-human systems in a process the paper terms *co-agency*. After evaluating Distributed Agency, [[self-determination-theory|Self-Determination Theory]], Society 5.0, and integration frameworks such as [[tpack]] and SAMR — none of which address equitable power, data ownership, or accountability — the paper introduces the **Ecological Co-Agency Framework**, defining agency through relational, [[regulation|regulatory]], and [[pedagogy|pedagogical]] processes bounded by a non-negotiable condition of human epistemic accountability. The framework offers educators and policymakers a more precise vocabulary than "balance" for deciding how tasks, evaluation, and responsibility are distributed between learners and AI in [[higher-ed|higher education]].
 
 ## From tool to co-agent: the epistemic shift
 
@@ -21,10 +21,10 @@ confidence: high
 
 The [[meta-analysis-systematic-review|literature review]] evaluates four theoretical traditions that have been applied to AI-mediated agency:
 
-- **Distributed Agency** and social-material views treat competency, [[creativity]], and judgement as products of relationships among student, tool, and context — yet do not address who owns the interaction data or who is accountable.
+- **Distributed Agency** and social-material views treat competency, [[creativity]], and judgment as products of relationships among student, tool, and context — yet do not address who owns the interaction data or who is accountable.
 - **[[self-determination-theory|Self-Determination Theory]]** (Ryan & Deci, 2000) identifies autonomy, competence, and relatedness as drivers of [[motivation]]; GenAI changes the circumstances under which these occur but does not resolve equity of power.
 - **Society 5.0** offers a "human-centered" model of digital–physical symbiosis, but Harari's caution that GenAI autonomously creates and assesses knowledge claims warns against assuming its equilibrium will be automatic.
-- **[[tpack|TPACK]] and SAMR** integration frameworks ([[reshaping-cs-education-genai|including contextual-knowledge extensions]] and substitution-level adoption critiques) focus on teacher knowledge and adoption levels rather than on power, data management, and ethical responsibility.
+- **[[tpack]] and SAMR** integration frameworks ([[reshaping-cs-education-genai|including contextual-knowledge extensions]] and substitution-level adoption critiques) focus on teacher knowledge and adoption levels rather than on power, data management, and ethical responsibility.
 
 None of these treats GenAI integration as a primary issue of [[agency]] or articulates the ethically justifiable conditions under which the dimensions can be combined — the gap the framework fills.
 

@@ -1,7 +1,7 @@
 ---
 title: "What Students Ask Matters: LLM Interaction Depth, Task Quality, and Immediate Recall in Higher Education"
 created: "2026-08-30T16:50:00-04:00"
-updated: "2026-08-30T16:50:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: ['llm', 'conversational-ai', 'learning-analytics', 'higher-ed', 'prompt-engineering', 'cognitive-offloading', 'self-regulated-learning', 'metacognition']
 research_method: [experiment, quantitative, process-outcome modeling]
@@ -19,7 +19,7 @@ confidence: high
 2. **Depth did not predict immediate recall.** Depth showed a null association with immediate post-test recall (β = −0.014, p = .728); gain scores were strongly associated with baseline knowledge (β = −0.161), consistent with reduced headroom among higher-baseline students.
 3. **A dissociation between performance and retention.** The pattern aligns with [[cognitive-psychology|cognitive psychology]]: explanation-seeking (elaboration) improves comprehension and applied performance, while retrieval practice — not fluent explanation — consolidates retention. In LLM-supported study without explicit retrieval demands, learners may experience high fluency with limited need to retrieve knowledge unaided.
 4. **Depth may function as a productive scaffold for applied outputs.** Depth-oriented use appears to scaffold applied task performance (aligned with constructive [[student-engagement|engagement]] and the [[icap-framework|ICAP framework]]), even when it does not translate into improved recall — a nuance on the cognitive-offloading account.
-5. **[[research-methods-aied|Methodological]] contribution.** The study demonstrates a replicable, privacy-preserving instrumentation pipeline linking turn-level conversational telemetry (Depth/Volume/Pacing) to [[learning-gains|learning outcomes]] — a process–outcome modelling approach for LLM interactions.
+5. **[[research-methods-aied|Methodological]] contribution.** The study demonstrates a replicable, privacy-preserving instrumentation pipeline linking turn-level conversational telemetry (Depth/Volume/Pacing) to [[learning-gains|learning outcomes]] — a process–outcome modeling approach for LLM interactions.
 
 ## Comprehension vs. retention in LLM-supported learning
 

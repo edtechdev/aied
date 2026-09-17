@@ -1,7 +1,7 @@
 ---
 title: OECD Digital Education Outlook 2026
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-08-24T18:15:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, pedagogy, intelligent-tutoring, teacher-role, assessment, educational-policy-ai, higher-ed, k-12, ai-literacy]
 research_method: [survey, learning analytics]
@@ -46,19 +46,19 @@ The augmentation paradigm preserves professional judgment while achieving the gr
 
 ## Purpose-Built vs General-Purpose
 
-Chapter 8 makes the case for purpose-built educational GenAI systems co-created with teachers and students. These tools would give teachers control over AI behaviour — including setting the level of "[[hallucination-risk|hallucinations]]" — and enable monitoring of student-AI interactions. The tools should align with specific curricula rather than being generic, and maintain teacher autonomy over [[learning-design|course design]] and enactment.
+Chapter 8 makes the case for purpose-built educational GenAI systems co-created with teachers and students. These tools would give teachers control over AI behavior — including setting the level of "[[hallucination-risk|hallucinations]]" — and enable monitoring of student-AI interactions. The tools should align with specific curricula rather than being generic, and maintain teacher autonomy over [[learning-design|course design]] and enactment.
 
 ## Collaborative Learning and Creativity
 
-GenAI supports [[collaborative-learning]] in four roles: information hub, personalised material generator, teacher feedback provider, and peer contributor. Studies find small-to-medium improvements in subject learning and large ones in critical thinking and teamwork (Ch.4). For [[creativity]], GenAI works best when used "slowly" for iterative exploration and reflection, not for instant content generation (Ch.5).
+GenAI supports [[collaborative-learning]] in four roles: information hub, personalized material generator, teacher feedback provider, and peer contributor. Studies find small-to-medium improvements in subject learning and large ones in critical thinking and teamwork (Ch.4). For [[creativity]], GenAI works best when used "slowly" for iterative exploration and reflection, not for instant content generation (Ch.5).
 
 ## System-Level and Assessment Applications
 
-At the [[governance|institutional]] level, GenAI enables: [[curriculum-design|curriculum]] mapping between courses/programs, admissions and career guidance analytics, standardised assessment [[automated-question-generation|item generation]], interactive writing and speaking assessments, and synthetic datasets for education [[research-methods-aied|research]] (Chs. 11–13).
+At the [[governance|institutional]] level, GenAI enables: [[curriculum-design|curriculum]] mapping between courses/programs, admissions and career guidance analytics, standardized assessment [[automated-question-generation|item generation]], interactive writing and speaking assessments, and synthetic datasets for education [[research-methods-aied|research]] (Chs. 11–13).
 
 ## Policy Recommendations
 
-Four pillars: (1) human-centred teaching and learning with GenAI; (2) investment in educational GenAI R&D grounded in [[learning-theories|learning science]]; (3) enabling policy environment for trustworthy GenAI (privacy, safety, bias testing, transparency); (4) [[equity-in-ai-education|equitable]] digital infrastructure including offline small language models for low-connectivity settings.
+Four pillars: (1) human-centered teaching and learning with GenAI; (2) investment in educational GenAI R&D grounded in [[learning-theories|learning science]]; (3) enabling policy environment for trustworthy GenAI (privacy, safety, bias testing, transparency); (4) [[equity-in-ai-education|equitable]] digital infrastructure including offline small language models for low-connectivity settings.
 
 ## Equity: AI Unplugged
 

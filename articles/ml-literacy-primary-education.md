@@ -1,7 +1,7 @@
 ---
 title: "Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design"
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, k-12, computational-thinking, learning-design, machine-learning]
 audience: [instructors, learners]
@@ -18,7 +18,7 @@ confidence: medium
 
 - The authors designed and evaluated a **six-to-eight-hour machine learning course** for **752 senior primary students** (average age 11.36) across **seven Hong Kong primary schools**, targeting conceptual ML understanding rather than tool usage.
 - **Pre- and post-test results showed significant improvement in ML understanding**: the concept-test mean rose 65% (4.57 → 7.53) and the median doubled (4.00 → 8.00), with a **Wilcoxon signed-rank effect size of r = 0.55** (Z = −14.206, p < .001) across 679 matched pairs (pre M = 4.57, SD = 1.88; post M = 7.48, SD = 3.26).
-- Students came to comprehend **supervised learning and [[reinforcement-learning|reinforcement learning]]**, including algorithms such as **k-nearest neighbours (KNN)** and **artificial neural networks (ANN)**, through **training robots in competitive circuit tasks** and **real-time algorithm [[visualization]]**. Item-level effect sizes ranged from 0.24 to 0.48, with the largest gains on items about ML paradigms, the ML workflow, and ANN structure (correctness rising from below 30% to nearly 60%); the hardest item — selecting optimal ML approaches for novel problems under resource trade-offs — reached only 36% correctness.
+- Students came to comprehend **supervised learning and [[reinforcement-learning|reinforcement learning]]**, including algorithms such as **k-nearest neighbors (KNN)** and **artificial neural networks (ANN)**, through **training robots in competitive circuit tasks** and **real-time algorithm [[visualization]]**. Item-level effect sizes ranged from 0.24 to 0.48, with the largest gains on items about ML paradigms, the ML workflow, and ANN structure (correctness rising from below 30% to nearly 60%); the hardest item — selecting optimal ML approaches for novel problems under resource trade-offs — reached only 36% correctness.
 - Thematic analysis of student interviews — 15 semi-structured focus groups with 47 randomly selected students across all seven schools — revealed that the structured pedagogical approach, blending **guided worksheets, hands-on activities, and iterative refinement** of data processing, parameter adjustment, and [[pedagogical-llm-training|model training]] within the robots' software, enhanced both conceptual learning and [[student-engagement|engagement]]; "Development of Conceptual Understanding" was the most prevalent theme (31.38% of all coded segments).
 - Surprisingly, students developed **initial reflections on distinguishing between AI and human learning**, an early [[metacognition|metacognitive]] outcome of the course.
 

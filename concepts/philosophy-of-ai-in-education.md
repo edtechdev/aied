@@ -1,13 +1,13 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [philosophy-of-ai-in-education, learning-theories, ethics, agency, human-ai-collaboration, ai-education]
 confidence: high
 ---
 
-> **Philosophy of AI in Education** — the branch of educational philosophy that examines the fundamental conceptual questions raised by artificial intelligence in [[teacher-role|teaching]] and learning: What is the nature of knowledge and thinking when machines participate in them? What is the learner when cognition is distributed across human and artificial systems? What forms of [[agency]], responsibility, and personhood apply to AI, and what does education owe learners in an AI-mediated world? Distinct from (but connected to) the knowledge base's [[learning-theories]] page, which catalogues theories of *how learning happens*, the philosophy of AI in education asks the deeper questions of *what learning, mind, and the learner fundamentally are* under AI-mediated conditions.
+> **Philosophy of AI in Education** — the branch of educational philosophy that examines the fundamental conceptual questions raised by artificial intelligence in [[teacher-role|teaching]] and learning: What is the nature of knowledge and thinking when machines participate in them? What is the learner when cognition is distributed across human and artificial systems? What forms of [[agency]], responsibility, and personhood apply to AI, and what does education owe learners in an AI-mediated world? Distinct from (but connected to) the knowledge base's [[learning-theories]] page, which catalogs theories of *how learning happens*, the philosophy of AI in education asks the deeper questions of *what learning, mind, and the learner fundamentally are* under AI-mediated conditions.
 
 ## Questions to Consider
 
@@ -33,7 +33,7 @@ This is a concept page for the philosophical and theoretical foundations of [[ai
 
 ### Relationship to learning theories
 
-The philosophy of AI in education and [[learning-theories]] are complementary lenses. Learning theories explain the mechanisms of learning (e.g., how [[feedback]], [[scaffolding]], or cognitive load shape outcomes); philosophy interrogates the presuppositions of those mechanisms — what counts as knowledge, who counts as a knower, and what the learner fundamentally is. Posthumanist and critical-philosophical work, in particular, challenges the field to move beyond instrumentalist frameworks like [[tpack|TPACK]] and SAM toward deeper ontological reorientation.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
+The philosophy of AI in education and [[learning-theories]] are complementary lenses. Learning theories explain the mechanisms of learning (e.g., how [[feedback]], [[scaffolding]], or cognitive load shape outcomes); philosophy interrogates the presuppositions of those mechanisms — what counts as knowledge, who counts as a knower, and what the learner fundamentally is. Posthumanist and critical-philosophical work, in particular, challenges the field to move beyond instrumentalist frameworks like [[tpack]] and SAM toward deeper ontological reorientation.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
 ### Relationship to theory development
 

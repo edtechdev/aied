@@ -1,7 +1,7 @@
 ---
 title: "Neuro-symbolic pedagogical alignment (NSPA) for long-horizon classroom discourse analysis: Mitigating dialect bias via counterfactual preference optimization"
 created: "2026-08-16T10:19:32-04:00"
-updated: "2026-08-16"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [educational-nlp, learning-analytics, bias-mitigation, equity-in-ai-education, ai-ed-evaluation, llm]
 audience: [software developers]
@@ -17,7 +17,7 @@ confidence: high
 
 **Beyond isolated utterances.** NSPA models entire lesson transcripts rather than classifying isolated utterances, overcoming the long-horizon dependency limits of discriminative architectures like RoBERTa (which struggle with dependencies spanning an entire lesson) and aligning with pedagogical frameworks such as Dialogic Instruction and Asset-Based Pedagogy.
 
-**Judge-Critique-Refine DPO loop.** LLMs are aligned within a Direct Preference Optimization loop — with a judge, critique and refine stage — to quantify high-inference educational constructs (Student Reasoning, Teacher Uptake), a form of [[pedagogical-llm-training]] grounded in expert pedagogical judgement rather than off-the-shelf alignment.
+**Judge-Critique-Refine DPO loop.** LLMs are aligned within a Direct Preference Optimization loop — with a judge, critique and refine stage — to quantify high-inference educational constructs (Student Reasoning, Teacher Uptake), a form of [[pedagogical-llm-training]] grounded in expert pedagogical judgment rather than off-the-shelf alignment.
 
 **Dialect-invariant debiasing.** A style-transfer-based contrastive learning objective decouples semantic reasoning from surface-level linguistic variation, mitigating the deficit framing often encoded in standard models and targeting [[bias-mitigation]] for non-standard dialects of American English.
 

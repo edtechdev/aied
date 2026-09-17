@@ -1,7 +1,7 @@
 ---
 title: "Metacognitive AI literacy: going beyond the AI skills gap agenda"
 created: "2026-08-10T17:33:14-04:00"
-updated: "2026-08-13"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, metacognition, critical-thinking, higher-ed, ethics, ai-education, teacher-role, governance]
 research_method: [theoretical analysis]
@@ -23,11 +23,11 @@ confidence: high
 
 ## Study Design & Method
 
-This is a **conceptual/argumentative article** (not an empirical study) drawing on case studies and literature analysis. It synthesizes scholarship on digital/media literacies, [[critical-pedagogy|critical pedagogy]], algorithmic governance, and higher education transformation (including Giroux, Marginson, Williamson, Pangrazio, Crawford, Eubanks, and Watermeyer). The authors present illustrative case studies of AI literacy in practice across higher education institutions (Aalborg, Aalto, Strathmore, Northeastern, Stanford) and the adult continuing training sector (a Nordic bank's agentic-AI implementation), examining how metacognitive AI literacy is operationalized across pedagogical design, organisational governance, and socio-technical experimentation.
+This is a **conceptual/argumentative article** (not an empirical study) drawing on case studies and literature analysis. It synthesizes scholarship on digital/media literacies, [[critical-pedagogy|critical pedagogy]], algorithmic governance, and higher education transformation (including Giroux, Marginson, Williamson, Pangrazio, Crawford, Eubanks, and Watermeyer). The authors present illustrative case studies of AI literacy in practice across higher education institutions (Aalborg, Aalto, Strathmore, Northeastern, Stanford) and the adult continuing training sector (a Nordic bank's agentic-AI implementation), examining how metacognitive AI literacy is operationalized across pedagogical design, organizational governance, and socio-technical experimentation.
 
 ## Implications for AI in Education
 
-The article reframes [[ai-literacy]] away from functional skills acquisition toward a **metacognitive social practice** relevant to [[higher-ed]] and [[ai-education]]. It argues that embedding AI literacy requires more than adding AI courses or tools — learning environments must enable learners to monitor and adjust their strategies in response to uncertain or opaque results, fostering scientific scepticism rather than narrow functional proficiency, connecting to [[metacognition]] and [[critical-thinking]]. It positions universities as essential infrastructure for civic resilience, demanding a fundamental reconfiguration of university missions, governance structures, and pedagogical approaches so AI literacy serves as a public good rather than a private asset. The article's case studies offer concrete models (participatory co-design, experimental pedagogical spaces, challenge-based collaboration) for cultivating metacognitive awareness and democratic agency, relevant to [[teacher-role]] and [[ethics]] and to algorithmic governance.
+The article reframes [[ai-literacy]] away from functional skills acquisition toward a **metacognitive social practice** relevant to [[higher-ed]] and [[ai-education]]. It argues that embedding AI literacy requires more than adding AI courses or tools — learning environments must enable learners to monitor and adjust their strategies in response to uncertain or opaque results, fostering scientific skepticism rather than narrow functional proficiency, connecting to [[metacognition]] and [[critical-thinking]]. It positions universities as essential infrastructure for civic resilience, demanding a fundamental reconfiguration of university missions, governance structures, and pedagogical approaches so AI literacy serves as a public good rather than a private asset. The article's case studies offer concrete models (participatory co-design, experimental pedagogical spaces, challenge-based collaboration) for cultivating metacognitive awareness and democratic agency, relevant to [[teacher-role]] and [[ethics]] and to algorithmic governance.
 
 ## Limitations
 

@@ -1,7 +1,7 @@
 ---
 title: "How Human-Centered Is AI-Aided Learning in Education?"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [adaptive-learning, intelligent-tutoring, ethics, equity-in-ai-education, teacher-role, higher-ed]
 research_method: [literature review]
@@ -50,7 +50,7 @@ Learning is social and ethical, not purely cognitive. AI can both facilitate and
 
 ## Human-Centered AI (HCAI)
 
-HCAI extends Human-Centered Design to AI. Shneiderman frames it as combining **high automation with high human control** ("augmentation over automation"); Stanford HAI embeds it in a socio-technical [[governance]] agenda; Schmager et al. define it as emphasizing **human agency**, aligning with **ethical principles**, and considering **context**. Prezenski argues that despite its rhetorical popularity, HCAI is **rarely implemented rigorously** in educational AI: UX is mistaken for human-centredness, participatory methods/value alignment/ethical reflection are often absent, educators are marginalized (Zawacki-Richter et al.), and stakeholders are consulted late if at all (Alfredo et al.).
+HCAI extends Human-Centered Design to AI. Shneiderman frames it as combining **high automation with high human control** ("augmentation over automation"); Stanford HAI embeds it in a socio-technical [[governance]] agenda; Schmager et al. define it as emphasizing **human agency**, aligning with **ethical principles**, and considering **context**. Prezenski argues that despite its rhetorical popularity, HCAI is **rarely implemented rigorously** in educational AI: UX is mistaken for human-centeredness, participatory methods/value alignment/ethical reflection are often absent, educators are marginalized (Zawacki-Richter et al.), and stakeholders are consulted late if at all (Alfredo et al.).
 
 ### Why HCAI is rare and how to advance it
 

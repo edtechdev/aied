@@ -1,7 +1,7 @@
 ---
 title: "PersonaVLM: Long-Term Personalization for AI Tutors"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [personalized-learning, intelligent-tutoring, student-modeling, llm, affective-tutoring, rag, k-12]
 audience: [software developers]
@@ -48,7 +48,7 @@ However, educators and designers should be cautious about the [[correct-answer-t
 
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalab...
 - [[ecnuclaw-k12-personalized-companion]] — ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
+- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
 - [[taklif-ai-interest-based-personalized-assignments]] — Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments
 - [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
 

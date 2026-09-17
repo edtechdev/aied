@@ -1,7 +1,7 @@
 ---
 title: "What Are the Top 10 Findings from AI in Education Research That Instructors Should Know About?"
 created: "2026-08-24T09:42:00-04:00"
-updated: "2026-09-16T14:53:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 weight: 100
 tags: [teacher-role, ai-education, cognitive-offloading, ai-literacy, assessment]
 research_method: [literature review]
@@ -35,11 +35,11 @@ Across the knowledge base's synthesis of current research, the most important me
 
 **Teaching implication:** Design AI activities around self-explanation, retrieval, comparison, argumentation, teaching, or critique—not merely content generation.
 
-**6. [[assessment|Assessment]] should shift from detecting AI toward establishing valid evidence of learning.** AI detectors have important reliability and fairness limitations. More fundamentally, a polished take-home product no longer necessarily demonstrates that its submitter possesses the underlying competence. The knowledge base frames this as an [[assessment-validity]] problem, not merely a cheating problem. Detection also carries a fairness cost independent of accuracy: in a [[zou-is-this-a-trap-student-teachers-genai-2026|mixed-methods study of 85 student teachers]], 62.4% declined permitted generative AI, 41.5% of non-adopters cited fear of being accused of [[academic-integrity|plagiarism]], and 9 of 11 interviewees read the permissive policy itself as a "trap"—evidence that detection-framed policy chills legitimate use without establishing learning.
+**6. [[assessment]] should shift from detecting AI toward establishing valid evidence of learning.** AI detectors have important reliability and fairness limitations. More fundamentally, a polished take-home product no longer necessarily demonstrates that its submitter possesses the underlying competence. The knowledge base frames this as an [[assessment-validity]] problem, not merely a cheating problem. Detection also carries a fairness cost independent of accuracy: in a [[zou-is-this-a-trap-student-teachers-genai-2026|mixed-methods study of 85 student teachers]], 62.4% declined permitted generative AI, 41.5% of non-adopters cited fear of being accused of [[academic-integrity|plagiarism]], and 9 of 11 interviewees read the permissive policy itself as a "trap"—evidence that detection-framed policy chills legitimate use without establishing learning.
 
 **Teaching implication:** Assess processes as well as products—drafts, reasoning, critiques, oral defenses, demonstrations, reflections, or conversations about submitted work.
 
-**7. There shouldn't be one AI rule for every assignment.** A useful emerging assessment framework distinguishes three cases: **restrict AI** when independent competence is the construct; **scaffold AI** when bounded assistance doesn't compromise that construct; and **require AI** when competent human–AI collaboration is itself what students need to learn. The [[zou-is-this-a-trap-student-teachers-genai-2026|student-teacher study]] shows why the conditions must be explicit and consistent: only 37.6% of students used permitted generative AI at all, adoption tracked programme culture and [[assessment|assessment design]] rather than any single course's permission, and submitted disclosure declarations under-reported actual use in every course.
+**7. There shouldn't be one AI rule for every assignment.** A useful emerging assessment framework distinguishes three cases: **restrict AI** when independent competence is the construct; **scaffold AI** when bounded assistance doesn't compromise that construct; and **require AI** when competent human–AI collaboration is itself what students need to learn. The [[zou-is-this-a-trap-student-teachers-genai-2026|student-teacher study]] shows why the conditions must be explicit and consistent: only 37.6% of students used permitted generative AI at all, adoption tracked program culture and [[assessment|assessment design]] rather than any single course's permission, and submitted disclosure declarations under-reported actual use in every course.
 
 **Teaching implication:** Put an explicit AI condition on each major assessment and explain *why* it applies.
 

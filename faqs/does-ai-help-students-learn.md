@@ -1,7 +1,7 @@
 ---
 title: "Does Using AI Actually Help My Students Learn?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-14T06:16:49-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 weight: 90
 tags: [ai-literacy, cognitive-offloading, active-learning, ai-ed-evaluation, assessment, self-report-measures]
 category: [evaluation, assessment]
@@ -31,7 +31,7 @@ In this randomized field experiment with nearly 1,000 students, a general-purpos
 
 The implication is practical: judging an AI tool by completed homework, correct practice answers, or student satisfaction can give a misleading picture of its educational value. Satisfaction and perceived learning are [[self-report-measures|self-report measures]], and the knowledge base documents how far they can drift from measured learning.
 
-A larger, longer field study points the same way at scale. [[stromberg-generative-ai-learning-penalty-secondary-2026|The Generative AI Learning Penalty]] followed 26,811 Chinese secondary students (grades 7–12) over 30 months using staggered AI adoption. Homework scores rose **18%** and completion time fell **30%** (from 64 to 45 minutes), while closed-book monthly exam scores fell **20%** within six months and high-stakes entrance-exam scores fell **18–24%** of baseline — but only after about two years. The losses were concentrated among the roughly **81%** of AI users whose behaviour indicated homework outsourcing; users who kept homework time comparable to non-users learned about as efficiently. The divergence between homework and exam performance is the performance–learning gap written across a national cohort, and the two-year lag means short evaluations systematically underestimate the cost.
+A larger, longer field study points the same way at scale. [[stromberg-generative-ai-learning-penalty-secondary-2026|The Generative AI Learning Penalty]] followed 26,811 Chinese secondary students (grades 7–12) over 30 months using staggered AI adoption. Homework scores rose **18%** and completion time fell **30%** (from 64 to 45 minutes), while closed-book monthly exam scores fell **20%** within six months and high-stakes entrance-exam scores fell **18–24%** of baseline — but only after about two years. The losses were concentrated among the roughly **81%** of AI users whose behavior indicated homework outsourcing; users who kept homework time comparable to non-users learned about as efficiently. The divergence between homework and exam performance is the performance–learning gap written across a national cohort, and the two-year lag means short evaluations systematically underestimate the cost.
 
 ### Access and safeguards are not enough
 
@@ -43,7 +43,7 @@ The newer [[making-ai-tutoring-productive-mastery-math-2026|Making AI Tutoring P
 
 The same technology produces different learning depending on how the interaction is structured. In [[yan-cognitive-outsourcing-genai-assessments-2026|a qualitative study of 38 undergraduates]] in unsupervised essay assessments, engagement spanned a spectrum from [[cognitive-offloading|cognitive outsourcing]] to **cognitive reallocation** — shifting effort from low-level retrieval to [[critical-thinking|critical evaluation]]. Most students (n = 31) intended to use generative AI as a learning assistant, yet **76.32%** relied on single-turn ask–get answer–stop dialogue and **78.94%** used the tool before or after drafting rather than through the task, producing an efficiency paradox: convenience gained at the cost of the cognitive work that builds schemas ("the speed at which you forget it is also very fast"). Only 8 students worked as cognitive partners through sustained, iterative dialogue.
 
-The [[pedagogy|pedagogical]] lesson is that blanket permissions or prohibitions both leave students to guess. What changed behaviour was task-specific guidance about which cognitive work students must retain and which AI assistance was appropriate — the design direction developed in [[reduce-ai-cheating]].
+The [[pedagogy|pedagogical]] lesson is that blanket permissions or prohibitions both leave students to guess. What changed behavior was task-specific guidance about which cognitive work students must retain and which AI assistance was appropriate — the design direction developed in [[reduce-ai-cheating]].
 
 ### Less effort does not automatically mean less learning
 
@@ -59,9 +59,9 @@ In the preregistered experiments reported in [[coach-not-crutch-ai-writing|Coach
 
 ## A useful design principle: scaffold, do not substitute
 
-The knowledge base’s [[scaffolding|Scaffolding]] and [[active-learning|Active Learning]] syntheses emphasize support that helps learners understand, practice, evaluate, and eventually perform with less assistance.
+The knowledge base’s [[scaffolding]] and [[active-learning|Active Learning]] syntheses emphasize support that helps learners understand, practice, evaluate, and eventually perform with less assistance.
 
-“Scaffold, do not substitute” is a useful principle, but it needs to be applied to the **learning objective**, not mechanically to every AI feature. A complete worked example can be something students learn from; a sequence of hints can still become something they click through without thinking. The important distinction is what the learner does with the assistance. See [[cognitive-offloading|Cognitive Offloading]] and [[help-seeking|Help-Seeking]].
+“Scaffold, do not substitute” is a useful principle, but it needs to be applied to the **learning objective**, not mechanically to every AI feature. A complete worked example can be something students learn from; a sequence of hints can still become something they click through without thinking. The important distinction is what the learner does with the assistance. See [[cognitive-offloading|Cognitive Offloading]] and [[help-seeking]].
 
 For an activity intended to develop independent capability, a reasonable starting routine is:
 
@@ -74,7 +74,7 @@ This is an instructional starting point, not a universally validated sequence. T
 
 ### Make the retained thinking explicit
 
-For mathematics, an instructor might ask students to submit their attempted solution before requesting help, then use a prompt such as: “Identify the first step I should reconsider, give me one useful hint, and ask me to try again.” The subsequent check should require a new solution and an explanation—not reproduction of the AI’s answer. This applies the guidance in [[scaffolding|Scaffolding]] and [[help-seeking|Help-Seeking]].
+For mathematics, an instructor might ask students to submit their attempted solution before requesting help, then use a prompt such as: “Identify the first step I should reconsider, give me one useful hint, and ask me to try again.” The subsequent check should require a new solution and an explanation—not reproduction of the AI’s answer. This applies the guidance in [[scaffolding]] and [[help-seeking]].
 
 For writing, an instructor might have students assess their draft against a rubric before receiving AI critique, then explain which suggestions they accepted, modified, or rejected. If argument construction is the objective, AI-generated prose should not substitute for evidence that the student can construct an argument. If evaluating alternative revisions is the objective, comparing complete examples may be appropriate. See [[writing-education|Writing Education]] and [[feedback-literacy|Feedback Literacy]].
 
@@ -90,9 +90,9 @@ The [[ai-ed-evaluation|AI Ed Evaluation]] page recommends separating the quality
 
 **Use a meaningful comparison.** Where feasible, compare the AI-supported activity with a well-designed non-AI alternative using similar content, instructional time, and practice opportunities. A simple before-and-after improvement cannot establish that AI caused the gain; students might improve through the rest of the [[teacher-role|teaching]]. For stronger causal claims, consult [[research-methods-aied|Efficacy Research Methods]] when designing the comparison.
 
-**Observe how students use the help.** Look for explanations, attempts to correct errors, justified revisions, and verification—not just logins, message counts, or completed questions. These observations can help explain a result, but should not replace a learning measure. See [[help-seeking|Help-Seeking]] and [[student-ai-interaction|Student–AI Interaction]].
+**Observe how students use the help.** Look for explanations, attempts to correct errors, justified revisions, and verification—not just logins, message counts, or completed questions. These observations can help explain a result, but should not replace a learning measure. See [[help-seeking]] and [[student-ai-interaction|Student–AI Interaction]].
 
-**Check what a dashboard actually measures.** In [[zhang-platform-scores-miss-ai-teaching-agents-2026|an evaluation of eight AI teaching agents]] in [[medical-education|medical education]], agent rankings by the platform's own score diverged from an expert-validated teaching-quality rubric — the agent ranked third by the platform ranked last on rubric quality — because the platform score tracked student performance during the interaction, not the agent's teaching behaviour. A built-in metric is a hypothesis to validate, not evidence of learning. See [[evaluating-ai-interventions-methods]] for the measures and comparison designs that make such a check credible.
+**Check what a dashboard actually measures.** In [[zhang-platform-scores-miss-ai-teaching-agents-2026|an evaluation of eight AI teaching agents]] in [[medical-education|medical education]], agent rankings by the platform's own score diverged from an expert-validated teaching-quality rubric — the agent ranked third by the platform ranked last on rubric quality — because the platform score tracked student performance during the interaction, not the agent's teaching behavior. A built-in metric is a hypothesis to validate, not evidence of learning. See [[evaluating-ai-interventions-methods]] for the measures and comparison designs that make such a check credible.
 
 An important qualification is that **not every legitimate learning outcome must be demonstrated without AI**. A course may deliberately teach effective AI-supported work. In that case, assess students’ ability to select, verify, revise, and defend their use of AI, alongside whatever independent foundations the discipline requires. [[human-capability-test-learning-outcomes-ai-2026|A Human Capability Test for Learning Outcomes in the AI Era]] proposes this distinction between independent capability, AI-augmented performance, and verification responsibility. It is a conceptual assessment framework, not a validated solution for every course.
 
@@ -100,9 +100,9 @@ An important qualification is that **not every legitimate learning outcome must 
 
 An average improvement can conceal students who receive little benefit or encounter new barriers. The [[digital-divide|Digital Divide]] synthesis distinguishes access to a tool from the skills needed to use it and the outcomes ultimately obtained.
 
-For a classroom evaluation, examine results by relevant starting points such as prior knowledge, language needs, and accessibility requirements. Provide guidance rather than assuming students already know how to obtain and evaluate useful feedback. When assessing independent learning, remove assistance that supplies the target thinking—not accommodations needed to access the task. See [[ai-literacy|AI Literacy]], [[equity-in-ai-education|Equity in AI Education]], and [[accessibility|Accessibility]].
+For a classroom evaluation, examine results by relevant starting points such as prior knowledge, language needs, and accessibility requirements. Provide guidance rather than assuming students already know how to obtain and evaluate useful feedback. When assessing independent learning, remove assistance that supplies the target thinking—not accommodations needed to access the task. See [[ai-literacy|AI Literacy]], [[equity-in-ai-education|Equity in AI Education]], and [[accessibility]].
 
-Also inspect the feedback students actually receive. A fluent response can misdiagnose their difficulty, reinforce an error, or offer an answer when a different kind of support was needed. Use course-aligned materials, retain a route to human help, and avoid collecting more student information than the activity requires. These concerns connect directly to [[ai-feedback-quality|AI Feedback Quality]], [[pedagogical-safety|Pedagogical Safety]], and [[privacy|Privacy]].
+Also inspect the feedback students actually receive. A fluent response can misdiagnose their difficulty, reinforce an error, or offer an answer when a different kind of support was needed. Use course-aligned materials, retain a route to human help, and avoid collecting more student information than the activity requires. These concerns connect directly to [[ai-feedback-quality|AI Feedback Quality]], [[pedagogical-safety|Pedagogical Safety]], and [[privacy]].
 
 ## Bottom line
 

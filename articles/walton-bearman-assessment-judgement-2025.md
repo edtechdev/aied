@@ -1,7 +1,7 @@
 ---
 title: "How university students work on assessment tasks with generative AI: matters of judgement"
 created: "2026-08-25T14:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [assessment, academic-integrity, generative-ai, higher-ed, ai-literacy, cognitive-offloading, student-experience]
 research_method: [qualitative, interviews]
@@ -12,7 +12,7 @@ sources: ['raw/papers/walton-bearman-assessment-judgement-2025.md']
 confidence: high
 ---
 
-> **Synthesis:** **How university students work on assessment tasks with [[generative-ai|generative AI]]: matters of judgement** — a [[qualitative-research|qualitative]] [[multimodal]] study of **26 Australian university students** using a scroll-back interview approach to reconstruct how students exercise **judgement** as they work with GenAI on assessment tasks. Walton, Bearman, Crawford, Tai & Boud (2025) identify **six categories of judgement events**, revealing a wide spectrum — from critically evaluating GenAI knowledge to uncritically submitting AI content.
+> **Synthesis:** **How university students work on assessment tasks with [[generative-ai|generative AI]]: matters of judgment** — a [[qualitative-research|qualitative]] [[multimodal]] study of **26 Australian university students** using a scroll-back interview approach to reconstruct how students exercise **judgment** as they work with GenAI on assessment tasks. Walton, Bearman, Crawford, Tai & Boud (2025) identify **six categories of judgment events**, revealing a wide spectrum — from critically evaluating GenAI knowledge to uncritically submitting AI content.
 
 Walton et al. (2025) shift the assessment debate from *whether* students use GenAI to *how* they judge their way through working with it. Using the scroll-back method (revisiting students' actual historical GenAI interactions during interviews), the study offers a fine-grained account of student decision-making in real assessment contexts — spanning responsible, critical use and problematic shortcuts.
 
@@ -20,24 +20,24 @@ Walton et al. (2025) shift the assessment debate from *whether* students use Gen
 
 - **Design:** Qualitative, multimodal; scroll-back interviews that revisit traces of students' historical interactions with GenAI.
 - **Sample:** 26 Australian university students.
-- **Analysis:** Holistic definition of judgement; narrative approach.
+- **Analysis:** Holistic definition of judgment; narrative approach.
 
-## Key Findings — six categories of judgement events
+## Key Findings — six categories of judgment events
 
-1. **Making judgements about knowledge** when working with GenAI — evaluating the accuracy and [[trust|trustworthiness]] of AI output.
+1. **Making judgments about knowledge** when working with GenAI — evaluating the accuracy and [[trust|trustworthiness]] of AI output.
 2. **Learning to judge GenAI through its limitations** — calibrating expectations from AI's errors and gaps.
 3. **Relying on GenAI for things they could not otherwise do** — using AI to extend capacity beyond current skill.
 4. **Adopting ideas with low levels of criticality** — accepting AI output without scrutiny.
 5. **Misjudging GenAI contributions as their own** — failing to distinguish AI-generated from self-generated work.
 6. **Submitting GenAI content in an assignment** — in some cases directly submitting AI output.
 
-The categories span a continuum from productive judgement (1–3) to problematic or unreflective use (4–6), showing that student GenAI use in assessment is heterogeneous and shaped by individual judgement capacity.
+The categories span a continuum from productive judgment (1–3) to problematic or unreflective use (4–6), showing that student GenAI use in assessment is heterogeneous and shaped by individual judgment capacity.
 
 ## Implications
 
-- **For [[assessment]] and [[academic-integrity]]:** students exercise a range of judgements, not a binary of compliant vs. dishonest use — integrity frameworks must recognize this spectrum.
-- **For [[ai-literacy]] and [[reducing-ai-misuse]]:** the findings point to judgement (evaluating AI knowledge, calibrating trust, recognizing AI's contributions) as a teachable capacity, connecting to the [[ai-misuse-learning-harm|performance–learning gap]] and [[cognitive-offloading|over-reliance]] literature.
-- **For [[authentic-assessment]]:** because AI is now embedded in everyday assessment practice, redesigning tasks to require and reward judgement is central.
+- **For [[assessment]] and [[academic-integrity]]:** students exercise a range of judgments, not a binary of compliant vs. dishonest use — integrity frameworks must recognize this spectrum.
+- **For [[ai-literacy]] and [[reducing-ai-misuse]]:** the findings point to judgment (evaluating AI knowledge, calibrating trust, recognizing AI's contributions) as a teachable capacity, connecting to the [[ai-misuse-learning-harm|performance–learning gap]] and [[cognitive-offloading|over-reliance]] literature.
+- **For [[authentic-assessment]]:** because AI is now embedded in everyday assessment practice, redesigning tasks to require and reward judgment is central.
 
 ## Connected Concepts
 

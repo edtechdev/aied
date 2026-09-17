@@ -1,7 +1,7 @@
 ---
 title: "Academic Integrity in the Age of AI: University Students' Study Practices and Ethical Judgments"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-08-28T14:30:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [academic-integrity, ai-misuse-learning-harm, generative-ai, higher-ed, ai-literacy, ai-use-disclosure, ethics, equity-in-ai-education, creativity]
 audience: [learners, instructors]
@@ -11,11 +11,11 @@ sources: ['raw/papers/lopez-lopez-academic-integrity-ai-study-practices-2026.md'
 confidence: high
 ---
 
-> **Synthesis:** López-López, Bru-Cordero, and Correa-Álvarez (2026) analysed survey data from 357 undergraduates across 14 programs at a Colombian public university to examine how students interpret [[academic-integrity|academic integrity]] in relation to [[generative-ai|AI]]. They found AI use is routine and usually perceived as helpful for understanding content, yet students' [[ethics|ethical]] judgments remain divided—a slight majority rejected the idea that AI use is fraud, over one-third were undecided, and a smaller group endorsed it. The authors introduce the concept of **pragmatic ambiguity** to describe how students negotiate AI use between academic usefulness, uncertain [[governance|institutional]] boundaries, and concerns about authorship and intellectual contribution.
+> **Synthesis:** López-López, Bru-Cordero, and Correa-Álvarez (2026) analyzed survey data from 357 undergraduates across 14 programs at a Colombian public university to examine how students interpret [[academic-integrity|academic integrity]] in relation to [[generative-ai|AI]]. They found AI use is routine and usually perceived as helpful for understanding content, yet students' [[ethics|ethical]] judgments remain divided—a slight majority rejected the idea that AI use is fraud, over one-third were undecided, and a smaller group endorsed it. The authors introduce the concept of **pragmatic ambiguity** to describe how students negotiate AI use between academic usefulness, uncertain [[governance|institutional]] boundaries, and concerns about authorship and intellectual contribution.
 
 ## Key Findings
 
-1. **AI use is routine.** Students across programs use tools like ChatGPT, Gemini, Copilot, and DeepSeek for brainstorming, explanation, translation, summarisation, coding support, feedback, and early drafting.
+1. **AI use is routine.** Students across programs use tools like ChatGPT, Gemini, Copilot, and DeepSeek for brainstorming, explanation, translation, summarization, coding support, feedback, and early drafting.
 2. **Judgments are divided, not settled.** A slight majority rejected the view that using AI in academic tasks is fraud; more than one-third were undecided; a smaller group endorsed the fraud framing.
 3. **Use and perceived value drive permissiveness.** More frequent AI use (χ² = 78.08, p < 0.001) and stronger perceived learning support were associated with more permissive integrity judgments; in ordered logistic regression, frequent use (OR = 0.669) and perceived learning support (OR = 0.581) lowered odds of stricter fraud judgments.
 4. **Perceived [[creativity]] reduction drives strictness.** Students who believed AI reduced their creativity had significantly higher odds of endorsing stricter fraud judgments (OR = 1.498, p < 0.001).
@@ -25,7 +25,7 @@ confidence: high
 
 ## Implications
 
-- The findings support a shift from a detection-centred to an authorship-centred integrity culture, orienting around disclosure, responsibility, and protecting meaningful student authorship.
+- The findings support a shift from a detection-centered to an authorship-centered integrity culture, orienting around disclosure, responsibility, and protecting meaningful student authorship.
 - **Pragmatic ambiguity** highlights the need for clearer institutional boundaries and assignment-level guidance on permissible AI use, rather than rigid prohibition.
 - Because perceived value and dependence shape judgment and consequences, [[ai-literacy|AI literacy]] education and assessment design should foster self-regulated, non-substitutive use.
 - Findings from an underrepresented Latin American public-university context broaden global understanding of how norms form unevenly in [[higher-ed|higher education]].

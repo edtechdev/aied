@@ -1,7 +1,7 @@
 ---
 title: "Exploring Student Anxiety and Experience in Performance-Based Assessments Using AIvaluate"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-08-24T17:20:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [assessment, conversational-ai, pedagogical-agent, affective-computing, well-being, generative-ai, llm]
 research_method: [experiment]
@@ -22,15 +22,15 @@ AIvaluate is an emotionally intelligent, LLM-augmented pedagogical conversationa
 
 ## Study Design & Method
 
-A counterbalanced quasi-experimental within-subjects design had 35 IBDP pre-university students (G*Power: N ≥ 34) complete both a traditional face-to-face viva voce and an AIvaluate-mediated viva with the same teacher. Data came from three sources: (1) timestamped emotional-state slider logs (weighted-mean anxiety per session, compared with paired-sample t-tests), (2) post-assessment System Usability Scale (SUS) plus four bespoke experience items, and (3) open-response reflections analysed with reflexive thematic analysis (Braun & Clarke). Notably, the study did not record or analyse formal performance scores — it measured emotional and usability outcomes only.
+A counterbalanced quasi-experimental within-subjects design had 35 IBDP pre-university students (G*Power: N ≥ 34) complete both a traditional face-to-face viva voce and an AIvaluate-mediated viva with the same teacher. Data came from three sources: (1) timestamped emotional-state slider logs (weighted-mean anxiety per session, compared with paired-sample t-tests), (2) post-assessment System Usability Scale (SUS) plus four bespoke experience items, and (3) open-response reflections analyzed with reflexive thematic analysis (Braun & Clarke). Notably, the study did not record or analyze formal performance scores — it measured emotional and usability outcomes only.
 
 ## Reduced Anxiety as an Affective Outcome
 
-Students reported significantly higher calmness (lower anxiety) during AIvaluate (M = 6.50, SD = 1.24) than face-to-face (M = 5.86, SD = 1.47), t(34) = −1.97, p = .028 (1-tailed). The bespoke item "I did not feel anxious during the assessment" also strongly favoured AIvaluate (p < .001). Thematic analysis attributed this to reduced social pressure — the absence of direct teacher observation/judgement and perceived flexible pacing. This aligns with the paper's theoretical framing that technology mediation reduces perceived social threat, and it positions AIvaluate as a potentially supportive option for learners whose [[well-being]] is threatened by anxiety that exceeds their individual zone of optimal functioning.
+Students reported significantly higher calmness (lower anxiety) during AIvaluate (M = 6.50, SD = 1.24) than face-to-face (M = 5.86, SD = 1.47), t(34) = −1.97, p = .028 (1-tailed). The bespoke item "I did not feel anxious during the assessment" also strongly favored AIvaluate (p < .001). Thematic analysis attributed this to reduced social pressure — the absence of direct teacher observation/judgment and perceived flexible pacing. This aligns with the paper's theoretical framing that technology mediation reduces perceived social threat, and it positions AIvaluate as a potentially supportive option for learners whose [[well-being]] is threatened by anxiety that exceeds their individual zone of optimal functioning.
 
 ## Usability and the "Good" Rating
 
-AIvaluate scored an overall SUS of 70.64 ("good"/"acceptable"/grade C), above face-to-face's 66.93 ("good"/"marginal"/grade D). Item-level comparisons significantly favoured AIvaluate on needing less external support, learning quickly, being less cumbersome, and confidence. However, one bespoke item went the other way: face-to-face scored significantly higher on "helped me to better understand my work" (p = .004), suggesting students felt they understood their work better through live human dialogue — a signal that reduced anxiety and perceived comprehension do not move together.
+AIvaluate scored an overall SUS of 70.64 ("good"/"acceptable"/grade C), above face-to-face's 66.93 ("good"/"marginal"/grade D). Item-level comparisons significantly favored AIvaluate on needing less external support, learning quickly, being less cumbersome, and confidence. However, one bespoke item went the other way: face-to-face scored significantly higher on "helped me to better understand my work" (p = .004), suggesting students felt they understood their work better through live human dialogue — a signal that reduced anxiety and perceived comprehension do not move together.
 
 ## Student Preferences: Reduced Pressure vs. Authentic Interaction
 

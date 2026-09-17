@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Agents Support Students and Instructors?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-14T06:17:10-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 weight: 66
 tags: [agentic-ai, intelligent-tutoring, pedagogical-agent, human-in-the-loop-ai, ai-literacy, cognitive-offloading]
 ---
@@ -19,7 +19,7 @@ The article [[agentic-workflows-education|Agentic Workflows in Education]] descr
 - **Sustained, adaptive support.** Unlike single-turn [[conversational-ai|chatbots]], agents can maintain a learning conversation over many turns — remembering what a learner knows, adapting difficulty, and sequencing multi-step [[scaffolding]]. This supports [[adaptive-learning|adaptive]] and [[personalized-learning|personalized]] learning at scale.
 - **Unburdening instructors.** Agents can draft materials, generate and validate questions (e.g., a generator + validator pairing), triage feedback, and orchestrate specialized sub-agents, freeing teachers for higher-value interaction.
 - **Rich interaction and [[desirable-difficulties|productive friction]].** Multi-agent classrooms and simulated peers create varied dynamics — peer-like discourse, constructive disagreement, role-play — that support [[collaborative-learning|collaborative learning]] and [[socratic-method|Socratic-style probing]]. Agents designed to challenge rather than agree can push learners toward deeper reconsideration (constructive-conflict agents improved design outcomes in research).
-- **Low-risk practice and simulation.** Agent-based [[simulation|simulations]] ([[simulating-students|simulated students]], [[medical-education|clinical]] scenarios) let learners practise in safe, repeatable environments before real-world application.
+- **Low-risk practice and simulation.** Agent-based [[simulation|simulations]] ([[simulating-students|simulated students]], [[medical-education|clinical]] scenarios) let learners practice in safe, repeatable environments before real-world application.
 
 ## Key risks and caveats (negative implications)
 

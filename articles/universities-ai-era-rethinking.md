@@ -1,7 +1,7 @@
 ---
 title: "The University AI Didn''t Replace: Rethinking Universities in the AI Era"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [higher-ed, teacher-role, administrator, educational-policy-ai, regulation, teacher-ai-competency, educational-development, student-experience, assessment-validity, change-management]
 research_method: [case study]
@@ -25,11 +25,11 @@ The paper's central framework describes four stages of institutional response, r
 1. **Level 0 — Defensive Containment:** AI is treated primarily as a threat to [[academic-integrity|academic integrity]]. Responses focus on restricting use (discouraged or banned in assessment, heavy reliance on invigilated exams) with little or no curriculum redesign — often creating a mismatch between policy and the reality of widespread student AI use.
 2. **Level 1 — Informal or Peripheral Adoption:** Experimentation happens largely at the level of individual educators rather than through institutional strategy, with limited or inconsistent guidance for students, no formal recognition in workload or promotion, and uneven adoption across units. Innovation thus depends on motivated individuals and can burden those leading change.
 3. **Level 2 — Strategic Integration:** Universities begin embedding AI into [[teacher-role|teaching]] policy and [[curriculum-design|curriculum design]], with clear institutional principles, curriculum redesign for AI-rich environments, professional AI development for educators, and recognition of innovation in workload or funding. Teaching increasingly focuses on reasoning, interpretation, and responsible use.
-4. **Level 3 — AI-Embedded or Transformational Universities:** AI becomes part of core educational infrastructure and the learning ecosystem — integrated into the LMS, assessment, and learning support; curricula centred on AI-supported reasoning rather than content delivery; assessments that evaluate judgment and justification in AI-rich environments; and students working with AI as a cognitive partner in authentic [[problem-solving]].
+4. **Level 3 — AI-Embedded or Transformational Universities:** AI becomes part of core educational infrastructure and the learning ecosystem — integrated into the LMS, assessment, and learning support; curricula centered on AI-supported reasoning rather than content delivery; assessments that evaluate judgment and justification in AI-rich environments; and students working with AI as a cognitive partner in authentic [[problem-solving]].
 
 ## Key Strategic Steps
 
-To move beyond Level 1, the paper recommends concrete institutional actions: **recognise AI-driven curriculum redesign in workload models** so innovation is not dependent on unrecognised effort; **embed AI-enabled teaching innovation in promotion and teaching-award criteria**; **establish clear institutional principles** for AI use in learning and assessment; **redesign assessment toward reasoning and justification** in AI-rich environments rather than merely tolerating AI; and **create institutional pilots or funded initiatives** that scale successful innovations beyond individual courses.
+To move beyond Level 1, the paper recommends concrete institutional actions: **recognize AI-driven curriculum redesign in workload models** so innovation is not dependent on unrecognised effort; **embed AI-enabled teaching innovation in promotion and teaching-award criteria**; **establish clear institutional principles** for AI use in learning and assessment; **redesign assessment toward reasoning and justification** in AI-rich environments rather than merely tolerating AI; and **create institutional pilots or funded initiatives** that scale successful innovations beyond individual courses.
 
 ## Connections to Knowledge Base
 

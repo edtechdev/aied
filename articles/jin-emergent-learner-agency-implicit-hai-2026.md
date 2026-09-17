@@ -1,7 +1,7 @@
 ---
 title: "Emergent Learner Agency in Implicit Human-AI Collaboration: How Supportive and Contrarian AI Personas Reshape Interaction"
 created: "2026-08-27T06:40:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [agency, human-ai-collaboration, agentic-ai, collaborative-learning, generative-ai, creativity]
 research_method: [experiment]
@@ -23,7 +23,7 @@ confidence: high
 ## Implications
 
 - **Treat AI personas as [[governance]] knobs for group discourse.** Use supportive personas to maintain cohesion and momentum; deploy contrarian challenge sparingly or later in the task once norms and trust are established.
-- **Balance epistemic challenge with affective climate.** If challenge is desired, implement bounded friction — constrain critique frequency/intensity, pair challenges with integrative prompts, and add repair moves (acknowledgement, summarizing, option-generation) to protect psychological safety.
+- **Balance epistemic challenge with affective climate.** If challenge is desired, implement bounded friction — constrain critique frequency/intensity, pair challenges with integrative prompts, and add repair moves (acknowledgment, summarizing, option-generation) to protect psychological safety.
 - **Build learners' meta-collaborative literacy.** When AI may influence collaboration invisibly (writing assistants, recommender systems), teach learners to interpret, accept/reject, and retain ownership of suggestions — with transparency/consent options where feasible.
 - **Rethink "productive" discourse measures.** Structural markers of productive discourse should be interpreted alongside their emotional consequences, not equated with [[learning-gains|learning gains]].
 

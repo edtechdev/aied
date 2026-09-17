@@ -1,7 +1,7 @@
 ---
 title: Explainable Artificial Intelligence in Education (XAI-ED)
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [intelligent-tutoring, learning-analytics, bias-mitigation, equity-in-ai-education, privacy, metacognition, teacher-role, student-experience, adaptive-learning, ai-literacy]
 research_method: [theoretical analysis]
@@ -37,7 +37,7 @@ The framework maps explanation approaches to model types:
 
 This taxonomy connects to the [[adaptive-learning]] literature's ongoing tension between model complexity and interpretability.
 
-### 5. Human-Centred Design
+### 5. Human-Centered Design
 Explanations are not purely technical artifacts — they are communication acts. The interface must be designed for the specific stakeholder's cognitive needs, not just optimized for technical accuracy. This aligns with [[ai-literacy]] research showing that technical transparency without pedagogical framing often fails to support actual understanding.
 
 ### 6. Potential Pitfalls

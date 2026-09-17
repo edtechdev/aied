@@ -1,7 +1,7 @@
 ---
 title: "What Are Best Practices for Writing Instruction in the Context of AI?"
 created: "2026-09-12T08:13:03-04:00"
-updated: "2026-09-14T06:17:34-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 tags: [writing-education, cognitive-offloading, academic-integrity, feedback-literacy, ai-feedback-quality, ai-use-disclosure, assessment-validity, peer-assessment, humanities-education, engineering-education, multilingual-learning, evaluative-judgement]
 weight: 80
 ---
@@ -34,11 +34,11 @@ A practical rule follows: require students to establish their own interpretation
 
 **7. Use disclosure as reflection, not as a trap.** Disclosure is not neutral: students conceal AI use when policies are ambiguous, punitive, or stigmatizing, and honesty can even attract suspicion. Disclosure works pedagogically when it makes decision-making visible — what AI was used for, what was supplied to it, which suggestions mattered, and what the student ultimately accepted or rejected ([[ai-use-disclosure|AI Use and Disclosure Statements]]; [[student-rationalization-ai-writing|student rationalization research]]). Task-specific guidance is better than a blanket "AI permitted" or "AI prohibited" rule, because the right boundary differs between brainstorming, argument development, sentence editing, source work, and final composition. State how disclosure will affect grading, or students will assume the worst.
 
-The assessment-design modelling of [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi]] supplies the mechanism: disclosure becomes the attractive option only when the cost of honesty stays low, and because a detector's false positives fall on honest students too, heavier monitoring can make concealment relatively *more* attractive. Their advice is to design for the student most tempted to conceal and to read a declared use as context rather than a confession.
+The assessment-design modeling of [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi]] supplies the mechanism: disclosure becomes the attractive option only when the cost of honesty stays low, and because a detector's false positives fall on honest students too, heavier monitoring can make concealment relatively *more* attractive. Their advice is to design for the student most tempted to conceal and to read a declared use as context rather than a confession.
 
 **8. Do not treat generic [[llm]] judgment as a substitute for your judgment, especially in [[summative-assessment|summative assessment]].** Two apparently conflicting results are compatible: carefully calibrated systems with detailed rubrics and examples can score particular tasks well, while out-of-the-box LLM grading diverges substantially from human judgment. [[llms-do-not-grade-essays-like-humans-2026|Mathew et al.]] found weak human–LLM agreement that varies systematically with essay quality — LLMs over-reward short, superficially readable essays and under-reward longer, stronger essays with minor surface errors, clustering toward the middle of the scale. AI is therefore much easier to justify for low-stakes [[formative-assessment|formative]] feedback, comment drafting, or triage than as an autonomous final grader ([[automated-essay-scoring|Automated Essay Scoring]]).
 
-Students draw a version of this line themselves. In an undergraduate technical communication course where [[generative-ai|ChatGPT]] scored handwritten writing and students were told so, all 13 participants found the feedback clear and useful for surface-level revision, yet most separated *feedback utility* from *evaluative authority* — accepting the critique while insisting that the instructor decide the grade ([[student-perspectives-ai-writing-grading-2026]]). That two-judgement pattern argues for designing [[human-in-the-loop-ai|human oversight]] in as the point at which AI output becomes a grade, rather than treating it as an optional courtesy.
+Students draw a version of this line themselves. In an undergraduate technical communication course where [[generative-ai|ChatGPT]] scored handwritten writing and students were told so, all 13 participants found the feedback clear and useful for surface-level revision, yet most separated *feedback utility* from *evaluative authority* — accepting the critique while insisting that the instructor decide the grade ([[student-perspectives-ai-writing-grading-2026]]). That two-judgment pattern argues for designing [[human-in-the-loop-ai|human oversight]] in as the point at which AI output becomes a grade, rather than treating it as an optional courtesy.
 
 ## A default workflow you can adopt or adapt
 
@@ -100,7 +100,7 @@ For each task, ask three questions:
 |---|---|
 | Is this cognitive activity itself a learning objective? | Keep substantial responsibility with the student. |
 | Will students need to perform this capability independently later? | Add independent practice and some no-AI assessment. |
-| Can AI help students evaluate, practise, or revise the capability without performing it for them? | Usually the strongest case for AI integration. |
+| Can AI help students evaluate, practice, or revise the capability without performing it for them? | Usually the strongest case for AI integration. |
 
 Applied: if the goal is argumentation, AI may challenge an argument but should not routinely supply one. If the goal is historical interpretation, AI may offer a competing reading the student critiques. If the goal is lab-report communication, AI may improve prose after the student has done the analysis and reasoning. This is the [[coach-not-crutch-ai-writing|coach-over-crutch]] boundary in practice.
 

@@ -1,7 +1,7 @@
 ---
 title: "Harnessing artificial intelligence for preservice teachers' development: A scoping review of applications, benefits, and challenges"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-16"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [teacher-education, adult-learning, ai-literacy, teacher-role]
 research_method: [systematic review]
@@ -25,7 +25,7 @@ confidence: high
 
 **Disciplinary concentration.** Among the 40 studies with a clear disciplinary context, language education was most represented (42.5%, n = 17) and [[math-education]] second (27.5%, n = 11); science and [[physics-education|physics]] each accounted for 7.5%, interdisciplinary/comprehensive 10%, and history and [[chemistry-education|chemistry]] 2.5% each — leaving limited work in the arts and [[humanities-education|humanities]].
 
-**AI as cognitive partner and practice simulator.** AI both supports reasoning and design (drafting lesson plans, resource searches, reducing extraneous Cognitive Load Theory) and offers safe, low-risk simulated classrooms in which preservice teachers refine questioning skills, responsiveness, and classroom-management behaviours — a practice–feedback–iteration loop that also boosts [[self-efficacy]].
+**AI as cognitive partner and practice simulator.** AI both supports reasoning and design (drafting lesson plans, resource searches, reducing extraneous Cognitive Load Theory) and offers safe, low-risk simulated classrooms in which preservice teachers refine questioning skills, responsiveness, and classroom-management behaviors — a practice–feedback–iteration loop that also boosts [[self-efficacy]].
 
 **Benefits across five domains.** Frequency counts showed the largest benefit clusters in enhancing subject-specific pedagogy and practical teaching skills (26 studies) and instructional design quality/efficiency (21 studies), followed by teaching reflection and critical thinking (15), teaching evaluation (5), and technology integration/pedagogical innovation (5).
 

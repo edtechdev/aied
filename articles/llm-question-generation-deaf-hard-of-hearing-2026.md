@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Design of LLM-Powered Question Generation for Deaf and Hard of Hearing Learners"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [llm, generative-ai, special-education, inclusive-learning, automated-question-generation, online-teaching-and-learning, equity-in-ai-education, k-12, higher-ed, student-experience]
 connected_faqs: [ai-disabled-neurodivergent-learners]
@@ -46,7 +46,7 @@ The study highlights the importance of considering **[[language-learning|languag
 ## Connected Articles
 
 - [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges: the case of disability
-- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners
+- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analyzing Dyslexic Learners
 - [[slidesqaqa-pedagogical-question-generation]] — SlideQAQA: Pedagogical Question Generation
 - [[generate-then-validate-question-gen]] — Generate-then-validate question generation
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Question Generation

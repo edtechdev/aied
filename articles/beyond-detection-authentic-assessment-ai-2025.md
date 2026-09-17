@@ -1,7 +1,7 @@
 ---
 title: "Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [authentic-assessment, ai-detection, academic-integrity, assessment, generative-ai, higher-ed, self-regulated-learning, metacognition, ai-literacy, assessment-validity]
 audience: [instructors, administrators]
@@ -23,8 +23,8 @@ confidence: high
 
 Not a binary but a continuum across four intersecting dimensions:
 
-1. **Task–context alignment** with contemporary professional practice — judgement, decision-making, and [[problem-solving]] under uncertainty, not superficial workplace replication
-2. **Foregrounding professional judgement and [[ethics]]** — sustainable assessment (Boud & Soler 2016), collaboration (Boud & Bearman 2024), UNESCO 2023 capability framing
+1. **Task–context alignment** with contemporary professional practice — judgment, decision-making, and [[problem-solving]] under uncertainty, not superficial workplace replication
+2. **Foregrounding professional judgment and [[ethics]]** — sustainable assessment (Boud & Soler 2016), collaboration (Boud & Bearman 2024), UNESCO 2023 capability framing
 3. **Visibility of process** — iteration, critique, rationale; polished outputs can mask superficial understanding, so assessment must reveal the "messiness" of authentic professional work
 4. **Appropriate use of tools** (including AI) within human decision-making — tools as enablers of higher-order capability, not substitutes for it
 
@@ -33,17 +33,17 @@ Stage-appropriate authenticity: early units get constrained, well-[[scaffolding|
 ## Design patterns ("design for learning moves")
 
 - **Critique, adapt, verify AI outputs**: business students interrogate a [[conversational-ai|chatbot]]-generated market analysis; pre-service teachers evaluate AI-produced lesson plans for inclusivity and [[pedagogy|pedagogical]] soundness; journalism students edit an AI news brief to identify bias; health students appraise AI diagnostic recommendations
-- **Process transparency artefacts**: process logs, AI prompt records, drafts showing iterations — "behind the scenes" evidence submitted alongside the final output
+- **Process transparency artifacts**: process logs, AI prompt records, drafts showing iterations — "behind the scenes" evidence submitted alongside the final output
 - **Reflective commentaries**: explain key decisions, justify tool use, account for changes, with explicit criteria for depth, criticality, and ethical awareness
-- **Oral defences / annotated [[eportfolio|portfolios]] / recorded walkthroughs**: probe reasoning in real time, mirroring professional practices like pitching and [[peer-assessment|peer assessment]]
+- **Oral defenses / annotated [[eportfolio|portfolios]] / recorded walkthroughs**: probe reasoning in real time, mirroring professional practices like pitching and [[peer-assessment|peer assessment]]
 - **Self-critique and peer feedback** for [[feedback-literacy|feedback literacy]] (Boud & Molloy 2012)
-- **Progressive release across a programme**: transparency artefacts + short defences → collaboration and negotiated briefs → capstones with external stakeholders and negotiated criteria
+- **Progressive release across a program**: transparency artifacts + short defenses → collaboration and negotiated briefs → capstones with external stakeholders and negotiated criteria
 
 ## Challenges and institutional responsibilities
 
-- **[[equity-in-ai-education|Equity]]**: unequal access to tools deepens divides; institutional provision (fenced AI deployments) reduces back-channel inequality; authentic formats can create *new* barriers (workload, carer/employment constraints) — mitigate with workload modelling, staged scaffolding, modality choice
-- **Ethics and bias**: tools reproduce cultural stereotypes and can be fluent yet unfaithful (Bender et al. 2021); institutions should run privacy/data-protection impact assessments (PIA/DPIA) for assessment AI, vet tools against [[privacy]]/bias/[[accessibility]] criteria, and standardise prompt-log conventions that evidence process without exposing personal data
-- **Load and feasibility**: process artefacts and defences raise workload; needs modelling and scaffolds
+- **[[equity-in-ai-education|Equity]]**: unequal access to tools deepens divides; institutional provision (fenced AI deployments) reduces back-channel inequality; authentic formats can create *new* barriers (workload, carer/employment constraints) — mitigate with workload modeling, staged scaffolding, modality choice
+- **Ethics and bias**: tools reproduce cultural stereotypes and can be fluent yet unfaithful (Bender et al. 2021); institutions should run privacy/data-protection impact assessments (PIA/DPIA) for assessment AI, vet tools against [[privacy]]/bias/[[accessibility]] criteria, and standardize prompt-log conventions that evidence process without exposing personal data
+- **Load and feasibility**: process artifacts and defenses raise workload; needs modeling and scaffolds
 - **[[educational-development|Staff development]]**: design-led collaboration rather than superficial tool training
 
 ## Connected Concepts

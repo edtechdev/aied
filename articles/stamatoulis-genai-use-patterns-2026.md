@@ -1,7 +1,7 @@
 ---
 title: "Same tool, different work: patterns of generative AI use and academic outcomes"
 created: "2026-08-25T14:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, ai-literacy, self-efficacy, cognitive-offloading, student-experience]
 research_method: [survey]
@@ -48,7 +48,7 @@ The study argues that [[research-methods-aied|research]] on students' GenAI use 
 
 ## Connected Articles
 
-- [[walton-bearman-assessment-judgement-2025]] — Judgement in students' work with GenAI on assessment
+- [[walton-bearman-assessment-judgement-2025]] — Judgment in students' work with GenAI on assessment
 - [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Scoping review of GenAI and learning
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning

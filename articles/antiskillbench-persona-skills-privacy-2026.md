@@ -1,7 +1,7 @@
 ---
 title: "When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills"
 created: "2026-08-05T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [privacy, agentic-ai, student-ai-interaction, bias-mitigation, personalized-learning, benchmark, rag]
 audience: [software developers]
@@ -34,7 +34,7 @@ Persona skills distill personal interaction histories into portable and executab
 - [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
 - [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators
-- [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
+- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
 - [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
 
 ## Citation

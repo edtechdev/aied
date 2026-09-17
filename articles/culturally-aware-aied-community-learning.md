@@ -1,7 +1,7 @@
 ---
 title: Culturally-Aware AI for Cross-Boundary Community Learning
 created: "2026-06-09T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [higher-ed, ai-literacy, equity-in-ai-education, student-experience, teacher-role, intelligent-tutoring]
 research_method: [case study]
@@ -32,7 +32,7 @@ The framework emphasizes [[equity-in-ai-education|cultural contextualization]] o
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education
-- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
+- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analyzing Dyslexic Learners Insights from Online Forums
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
 

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-09-11T13:20:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: ['learning-theories', 'cognitive-psychology', 'metacognition', 'knowledge-tracing', 'intelligent-tutoring', 'generative-ai']
 confidence: high
@@ -20,7 +20,7 @@ confidence: high
 
 ## Introduction
 
-Cognitive psychology is the learning-theory tradition that treats learning as a change in internal mental representations — concepts, schemas and procedures held in memory — rather than as a change in observable behaviour. Its information-processing vocabulary (attention, encoding, retrieval, bounded working memory) supplied both the diagnostic language for learning difficulty and the architecture behind [[intelligent-tutoring]] and [[knowledge-tracing]]: systems that infer a learner's internal state and adapt to it. It remains the reference frame for [[metacognition]], [[desirable-difficulties]] and [[self-regulated-learning]] across this knowledge base.
+Cognitive psychology is the learning-theory tradition that treats learning as a change in internal mental representations — concepts, schemas and procedures held in memory — rather than as a change in observable behavior. Its information-processing vocabulary (attention, encoding, retrieval, bounded working memory) supplied both the diagnostic language for learning difficulty and the architecture behind [[intelligent-tutoring]] and [[knowledge-tracing]]: systems that infer a learner's internal state and adapt to it. It remains the reference frame for [[metacognition]], [[desirable-difficulties]] and [[self-regulated-learning]] across this knowledge base.
 
 ## Core ideas
 

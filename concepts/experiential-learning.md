@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-16T13:00:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [experiential-learning, active-learning, higher-ed, project-based-learning, embodied-learning]
 level: [higher ed]
@@ -23,7 +23,7 @@ Experiential learning is closely related to [[active-learning]], [[project-based
 
 ### How experiential learning appears in the knowledge base's research
 
-- **Emergency substitution, with a rubric for how far it gets you.** [[ai-personas-fieldwork-experiential-learning-2026|Elhajj et al. (2026)]] document a substitution forced by the 2024 conflict in Lebanon: students in a graduate Experiential Learning course at the American University of Beirut, unable to reach communities for needs assessments, interviewed ChatGPT-generated stakeholder personas instead. Two raters scored all ten group prompts and found the split instructive — alignment with educational goals (mean 5.00) and diversity of perspectives (4.90) were strong, while authenticity and realism (4.38) and especially group dynamics and coherence (3.80, with one 30-persona focus group collapsing into sequential interviews) and limitations and gaps (3.20) were weak, the last because emotional flatness, absent contradiction and thin cultural specificity recurred in every context. The authors' conclusion is a boundary rather than a verdict: personas work as rehearsal and as a stopgap where access is impossible or unsafe, but not where emotional complexity, cultural specificity and interpersonal dynamics *are* the learning objective. Their mitigation is structural — pair simulated role-play with real interviews so students can compare, and train students to interrogate persona output for bias and generalisation instead of treating it as field evidence.
+- **Emergency substitution, with a rubric for how far it gets you.** [[ai-personas-fieldwork-experiential-learning-2026|Elhajj et al. (2026)]] document a substitution forced by the 2024 conflict in Lebanon: students in a graduate Experiential Learning course at the American University of Beirut, unable to reach communities for needs assessments, interviewed ChatGPT-generated stakeholder personas instead. Two raters scored all ten group prompts and found the split instructive — alignment with educational goals (mean 5.00) and diversity of perspectives (4.90) were strong, while authenticity and realism (4.38) and especially group dynamics and coherence (3.80, with one 30-persona focus group collapsing into sequential interviews) and limitations and gaps (3.20) were weak, the last because emotional flatness, absent contradiction and thin cultural specificity recurred in every context. The authors' conclusion is a boundary rather than a verdict: personas work as rehearsal and as a stopgap where access is impossible or unsafe, but not where emotional complexity, cultural specificity and interpersonal dynamics *are* the learning objective. Their mitigation is structural — pair simulated role-play with real interviews so students can compare, and train students to interrogate persona output for bias and generalization instead of treating it as field evidence.
 
 - **Cybersecurity labs:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|LLM-assisted cybersecurity instruction]] integrates a [[generative-ai]] instructional assistant into a virtual lab platform, supporting hands-on experiential skill building.
 - **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] uses a project-based, hands-on approach to teach robotics, addressing the lack of practical experience in classic programs.
@@ -34,14 +34,14 @@ Experiential learning is closely related to [[active-learning]], [[project-based
 A thematic review of 32 peer-reviewed studies of hands-on learning in AI-supported design education
 ([[hands-on-learning-necessity-age-of-ai-review-2026|Yu, Liu & Zhu, 2026]]) argues that AI reorganizes rather than replaces
 experiential learning, and draws a distinction the knowledge base's other sources tend to collapse: *Embodied Hands-on*, which
-depends on bodily action, tools, and materials, and *Cognitive Hands-on*, which develops through continued operation, judgement,
+depends on bodily action, tools, and materials, and *Cognitive Hands-on*, which develops through continued operation, judgment,
 and adjustment of AI-generated outputs. Both run the same action–feedback–reflection–refinement cycle, but they draw feedback from
 different sources — real-world material resistance in the first case, language and visual outcomes in the second — so they should
 not be treated as equivalent or as substitutes. The review's caution is that generation efficiency can compress the exploratory
 phase: several included studies report reduced exploratory sketching and gradual trial-and-error, so more iterations enabled by AI
 need not mean greater iterative depth, and students can miss the failure and material-constraint encounters that make hands-on work
 educative. Consistent with this, [[prompt-engineering|prompting]] alone did not raise [[creativity]] in the reviewed work, whereas multi-step operations
-(generate, modify, select) did — again locating the learning in the learner's judgement rather than in the generation.
+(generate, modify, select) did — again locating the learning in the learner's judgment rather than in the generation.
 
 Experiential learning connects to [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]], and [[higher-ed]] professional preparation.
 

@@ -1,7 +1,7 @@
 ---
 title: "Students' Perceptions of Multiliteracies Development Using AI-Assisted Portfolio Assessment"
 created: "2026-08-20T08:10:00-04:00"
-updated: "2026-08-20T08:10:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [eportfolio, automated-assessment, generative-ai, assessment, feedback, language-learning, student-engagement]
 research_method: [qualitative, mixed methods]
@@ -14,9 +14,9 @@ confidence: medium
 
 ## Key Findings
 
-- **Three-stage multiliteracies trajectory:** students moved from AI-empowered curation and redesign of multimodal artefacts, to augmented confidence in multimodal meaning-making, toward readiness for real-world multimodal communication — a shift from passive recipients of knowledge to proactive, self-regulated learners.
-- **AI-enhanced [[student-engagement]]:** the recursive create–curate–reflect–revise cycle, scaffolded by GenAI suggestions on imagery, colour schemes, and layout, deepened engagement and [[design-thinking|design thinking]] (e.g. Ella's group adopting low-saturation colours; Student 12 harmonizing a colour palette and adding a Li Bai quotation hook).
-- **Expanded usefulness of portfolios:** students gained competence in managing digital platforms (WordPress), crafted audience-aware artefacts with a global reach, and connected the project to career demands (CET certificates, video editing, multimodal self-media aesthetics).
+- **Three-stage multiliteracies trajectory:** students moved from AI-empowered curation and redesign of multimodal artifacts, to augmented confidence in multimodal meaning-making, toward readiness for real-world multimodal communication — a shift from passive recipients of knowledge to proactive, self-regulated learners.
+- **AI-enhanced [[student-engagement]]:** the recursive create–curate–reflect–revise cycle, scaffolded by GenAI suggestions on imagery, color schemes, and layout, deepened engagement and [[design-thinking|design thinking]] (e.g. Ella's group adopting low-saturation colors; Student 12 harmonizing a color palette and adding a Li Bai quotation hook).
+- **Expanded usefulness of portfolios:** students gained competence in managing digital platforms (WordPress), crafted audience-aware artifacts with a global reach, and connected the project to career demands (CET certificates, video editing, multimodal self-media aesthetics).
 - **Critical multisource feedback evaluation:** students learned to selectively integrate peer, teacher, and [[ai-feedback-quality|AI feedback]] rather than adopt it wholesale, using AI to explain or synthesize teacher comments — though many initially treated AI output as authoritative (Lucy: "I'd unconsciously trust it").
 - **[[metacognition|Metacognitive]] and confidence gains:** gradeless, feedback-rich portfolio compilation (vs. high-stakes exams) reduced writing anxiety, fostered [[agency|learner agency]], and surfaced "aha moments" where self-assessment diverged from teacher/AI feedback (e.g. FG3-S1 revising "red spirit" to "revolutionary spirit" for intercultural clarity).
 - **Co-constructed rubrics as catalysts:** rubrics jointly built with students guided self- and peer-assessment, feedback provision, and better [[prompt-engineering|prompting]] of AI for rubric-referenced feedback.
@@ -26,7 +26,7 @@ confidence: medium
 - **Design:** qualitative, interpretivist study over a 16-week semester examining students' multiliteracies development and perceptions of GenAI use in portfolio compilation; guided by two [[research-methods-aied|research]] questions on development and on perceived affordances/challenges.
 - **Participants:** 50 first-year Tourism Management majors (CEFR A1–B2) with no prior academic AI experience, in an application-oriented Chinese university.
 - **Intervention:** students worked in 11 groups to create WordPress-based individual expository + argumentative essays synthesized into a PowerPoint group portfolio on touring-route recommendations; AI feedback (e.g. ERNIE-BOT, Kimi) provided immediate feedback on language, organization, and multimodal integration, and facilitated feedback uptake and synthesis across three weekly writing cycles.
-- **Data & analysis:** 50 reflective journals, 4 focus-group interviews (~1 hour each), 6 narrative inquiries (30–45 min each), plus multimodal analysis of artefacts; iterative inductive thematic analysis conducted in Chinese and translated to English by the author team.
+- **Data & analysis:** 50 reflective journals, 4 focus-group interviews (~1 hour each), 6 narrative inquiries (30–45 min each), plus multimodal analysis of artifacts; iterative inductive thematic analysis conducted in Chinese and translated to English by the author team.
 
 ## Implications for AI in Education
 

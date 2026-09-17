@@ -1,7 +1,7 @@
 ---
 title: "Interactive learning dashboards: rethinking learning visualisations as engagement tools"
 created: "2026-08-08T04:33:04-04:00"
-updated: "2026-08-26T15:33:55-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [learning-analytics, metacognition, llm, higher-ed, student-engagement, self-regulated-learning, intelligent-tutoring, pedagogical-agent, cs-education, visualization]
 research_method: [mixed methods, case study]
@@ -12,7 +12,7 @@ sources: ['raw/papers/interactive-learning-dashboards-engagement.md']
 confidence: high
 ---
 
-> **Synthesis:** Graf et al. (2026) transformed a conventional Learning Analytics Dashboard (LAD) into an interactive ILAD by adding an [[llm]]-powered [[pedagogical-agent|pedagogical agent]] and a Judgement of Learning (JoL) self-assessment feature. In a 5-week case study with 30 CS students across three conditions (no agent, "telling" agent, "eliciting" agent), the elicit condition produced more reflection and more accurate mastery calibration. The study bridges [[learning-analytics]] dashboard design with [[intelligent-tutoring]] principles and [[metacognition]] [[research-methods-aied|research]], showing that how learners interact with their data matters more than simply seeing it.
+> **Synthesis:** Graf et al. (2026) transformed a conventional Learning Analytics Dashboard (LAD) into an interactive ILAD by adding an [[llm]]-powered [[pedagogical-agent|pedagogical agent]] and a Judgment of Learning (JoL) self-assessment feature. In a 5-week case study with 30 CS students across three conditions (no agent, "telling" agent, "eliciting" agent), the elicit condition produced more reflection and more accurate mastery calibration. The study bridges [[learning-analytics]] dashboard design with [[intelligent-tutoring]] principles and [[metacognition]] [[research-methods-aied|research]], showing that how learners interact with their data matters more than simply seeing it.
 
 ## Study Design
 
@@ -20,7 +20,7 @@ confidence: high
 - **3 conditions** randomized: no agent, "tell" agent (provides info about learner data), "elicit" agent (asks questions about learner data)
 - ILAD extended a conventional LAD with two features:
   1. **LLM-powered [[pedagogy|pedagogical]] agent** with access to learning analytics and course context
-  2. **Interactive Judgement of Learning (JoL)** — self-assessment required before viewing system metrics
+  2. **Interactive Judgment of Learning (JoL)** — self-assessment required before viewing system metrics
 
 ## Key Findings
 
@@ -37,7 +37,7 @@ The paper challenges the dominant LAD paradigm of "show data → hope for insigh
 2. **Elicitation beats telling** — asking learners to self-assess before revealing metrics drives calibration better than showing data upfront
 3. **LLMs enable scalable interactivity** — the pedagogical agent can ask personalized questions at scale, bringing ITS-style dialogue to dashboard contexts
 
-These findings connect to broader [[self-regulated-learning]] theory and the [[metacognition]] literature on judgement calibration.
+These findings connect to broader [[self-regulated-learning]] theory and the [[metacognition]] literature on judgment calibration.
 
 ## Connected Concepts
 

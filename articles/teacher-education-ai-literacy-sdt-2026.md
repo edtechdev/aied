@@ -1,7 +1,7 @@
 ---
 title: "Teacher education for artificial intelligence literacy through a self-determination theory perspective"
 created: "2026-08-10T17:33:14-04:00"
-updated: "2026-08-13"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, teacher-ai-competency, educational-development, professional-training, motivation, self-determination-theory, higher-ed, k-12]
 research_method: [mixed methods]
@@ -19,7 +19,7 @@ confidence: high
 - **Needs satisfaction significantly predicts AI literacy (β = .52), attitude (β = .68), and reduces AI anxiety (β = −.66)** — PD content alone is insufficient; *how* it is delivered (whether it supports psychological needs) determines its effectiveness in changing teachers' AI knowledge, feelings, and beliefs.
 - **AI literacy is the key cognitive gateway to sustained engagement**: among the AI [[learning-gains|learning outcomes]], only AI literacy had a significant direct effect on behavioral engagement in PLCs (β = .39, p < .001); attitude (p = .72) and anxiety (p = .18) were non-significant — teachers need a foundation of ability before actively engaging in peer-to-peer learning.
 - The theoretical contribution is a validated motivational pathway: PD needs support → needs satisfaction → cognitive (AI literacy) and [[affective-computing|affective]] (attitude, anxiety) learning → sustained behavioral engagement, with AI literacy as the primary cognitive driver.
-- **Nine design strategies** were identified: four autonomy-supportive (elective AI topic selection, collaborative AI resource development/co-design, individualised AI integration targets, non-mandatory task completion), two competence-supportive (expert-[[peer-assessment|peer feedback]] on AI learning designs, public sharing of AI [[teacher-role|teaching]] artefacts), and three relatedness-supportive (cross-disciplinary AI design teams, mentorship, mission-alignment of AI learning).
+- **Nine design strategies** were identified: four autonomy-supportive (elective AI topic selection, collaborative AI resource development/co-design, individualised AI integration targets, non-mandatory task completion), two competence-supportive (expert-[[peer-assessment|peer feedback]] on AI learning designs, public sharing of AI [[teacher-role|teaching]] artifacts), and three relatedness-supportive (cross-disciplinary AI design teams, mentorship, mission-alignment of AI learning).
 
 ## Study Design & Method
 

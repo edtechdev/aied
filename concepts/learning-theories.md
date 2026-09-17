@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [learning-theories, behaviorism, self-regulated-learning, metacognition, learning-design, generative-ai, higher-ed]
 level: [higher ed]
@@ -50,11 +50,11 @@ Learning theories matter for three reasons:
 
 ### New theoretical directions from recent AIED work
 
-Recent theoretical work extends the classical strand in several directions, each re-centring the human–AI relationship rather than treating AI as a neutral tool:
+Recent theoretical work extends the classical strand in several directions, each re-centering the human–AI relationship rather than treating AI as a neutral tool:
 
 - **Human–AI co-[[regulation]].** A developmental framework positions AI not as an external instrument but as a **cognitive partner** that co-regulates thinking, learning, and self-control across the lifespan.([[ai-cognitive-partner-co-regulation-learning]]) Drawing on executive function, [[metacognition]], distributed cognition, and sociocultural development, it casts AI in four roles — scaffold, metacognitive support, external memory / [[cognitive-offloading]] system, and decision partner — with the framework most relevant from middle childhood onward.
 - **Ensemble Cognition.** A [[philosophy-of-ai-in-education|philosophical]] framework reconceptualises thinking as emerging from dynamic interactions between human and artificial agents rather than residing solely in individual minds.([[ensemble-cognition-philosophy-ai-education]]) It challenges the "consciousness paradigm" (the autonomy, consciousness, and stability assumptions) and articulates five features — distributed agency, dynamic centrality, cognitive orchestration, multi-representational integration, and context-sensitive switching — while distinguishing AI's **functional agency** from moral responsibility.
-- **[[self-directed-learning|Self-Directed]] Growth / A2PL.** An extension of [[self-regulated-learning|self-directed learning]] integrates Generative AI with [[learning-analytics|learning analytics]] to cultivate **Self-Directed Growth**, operationalised through the Aspire to Potentials for Learners (A2PL) model.([[self-directed-growth-generative-ai-learning-analytics]]) It reconfigures learner aspirations (humanistic), complex thinking (constructivist), and self-assessment (pragmatic) into a single competency, positioning GAI as a non-prescriptive collaborative scaffold rather than a content provider.
+- **[[self-directed-learning|Self-Directed]] Growth / A2PL.** An extension of [[self-regulated-learning|self-directed learning]] integrates Generative AI with [[learning-analytics|learning analytics]] to cultivate **Self-Directed Growth**, operationalized through the Aspire to Potentials for Learners (A2PL) model.([[self-directed-growth-generative-ai-learning-analytics]]) It reconfigures learner aspirations (humanistic), complex thinking (constructivist), and self-assessment (pragmatic) into a single competency, positioning GAI as a non-prescriptive collaborative scaffold rather than a content provider.
 
 - **Deceptive overgeneralization.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] extend the ACT-R / Knowledge-Learning-Instruction tradition by theorizing when observed correctness masks incomplete conditional understanding: learners compile an overgeneralized production that omits an application constraint yet still performs correctly — a failure mode that adaptive mastery systems, and even traditional instruction, can miss unless they test *when to withhold* an action.
 - **Executable KLI theory.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] ground the Knowledge-Learning-Instruction framework in an executable computational model (the Apprentice Learner framework with an ACT-R-style memory mechanism) that reproduces a cross-over interaction in human data: pure practice aids verbatim fact memory (by delaying forgetting) while example-integrated practice aids generalizable skill induction. Because KLI ties constant (fact) knowledge to memory processes and variable (skill) knowledge to induction, the result is a predicted content–treatment interaction rather than a contradiction between testing and worked-example recommendations — and the model's success only when a memory mechanism is present demonstrates that practice and examples play distinct, complementary roles.

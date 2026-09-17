@@ -1,7 +1,7 @@
 ---
 title: "AI-Augmented Inquiry and Regulation in Hybrid Systems: A Control Allocation Architecture for Preserving Epistemic Agency"
 created: "2026-08-26T09:00:00-04:00"
-updated: "2026-08-26T09:00:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [metacognition, generative-ai, self-regulated-learning, agency, cognitive-offloading, human-in-the-loop-ai]
 research_method: [theoretical analysis]
@@ -29,7 +29,7 @@ confidence: high
 - [[learning-theories]]
 
 ## Connected Articles
-- [[ensemble-cognition-philosophy-ai-education]] — Towards a philosophy of ensemble cognition
+- [[ensemble-cognition-philosophy-ai-education]] — Toward a philosophy of ensemble cognition
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Learning with machines: Toward a theory of epistemic co-agency
 - [[ai-cognitive-partner-co-regulation-learning]] — Artificial intelligence as a cognitive partner
 - [[ai-anxiety-strategic-regulation-writing-2026]] — From AI Anxiety to Strategic Regulation

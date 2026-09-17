@@ -1,7 +1,7 @@
 ---
 title: "AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes"
 created: "2026-05-14T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [teacher-role, educational-development, k-12, ai-literacy, teacher-ai-competency, higher-ed, change-management]
 research_method: [survey]
@@ -15,13 +15,13 @@ confidence: high
 
 ## Overview
 
-AI tools are entering classrooms, but teachers differ in how ready they are to adopt them. This study examines how institutional support, teacher confidence, concerns and attitudes influence AI adoption in education. Grounded in the Unified Theory of Acceptance and Use of Technology (UTAUT), it treats institutional support as a facilitating condition, confidence as self-efficacy, concerns as inhibitors, and attitudes as behavioural intention.
+AI tools are entering classrooms, but teachers differ in how ready they are to adopt them. This study examines how institutional support, teacher confidence, concerns and attitudes influence AI adoption in education. Grounded in the Unified Theory of Acceptance and Use of Technology (UTAUT), it treats institutional support as a facilitating condition, confidence as self-efficacy, concerns as inhibitors, and attitudes as behavioral intention.
 
 The problem: many teachers struggle with adoption because of limited training, unreliable access to technology, and concerns about ethics and data privacy, yet few studies examine how support, confidence and concerns interact to shape attitudes toward AI. The paper therefore tests whether teacher concerns weaken or change the effect of institutional support on confidence and attitudes, and whether confidence explains how support produces more positive attitudes. Clarifying these relationships is meant to show where schools should focus to raise [[teacher-ai-competency|teacher readiness]].
 
 ## Study Design & Method
 
-- **Design.** Quantitative, cross-sectional survey analysed with moderated multiple regression, followed by a mediation analysis using the Baron and Kenny method and the Sobel test to evaluate the indirect effect. Analysis was conducted in Python and Jupyter Notebook.
+- **Design.** Quantitative, cross-sectional survey analyzed with moderated multiple regression, followed by a mediation analysis using the Baron and Kenny method and the Sobel test to evaluate the indirect effect. Analysis was conducted in Python and Jupyter Notebook.
 - **Sample.** Purposive sampling produced 260 teachers from Pampanga, Philippines: 52 elementary, 161 secondary and 47 college educators, spanning educational levels and teaching disciplines. Over 75% of participants were female and approximately 80% were licensed professional teachers; ages ranged from 22 to 59 years and teaching experience from 1 to 36 years.
 - **Instrument.** A 35-item survey measured the four constructs on a five-point Likert scale (1 = strongly disagree to 5 = strongly agree). Two educational technology experts assessed content validity against the theoretical constructs, and reliability analysis confirmed strong internal consistency across all constructs (α > 0.70).
 - **Procedure.** Data were collected through pen-and-paper surveys and Google Forms, with permissions secured from school heads and supervisors beforehand.
@@ -39,7 +39,7 @@ The problem: many teachers struggle with adoption because of limited training, u
 
 For instructors and faculty developers, the practical reading is that support is necessary but not sufficient: it improves attitudes chiefly by raising confidence, so structured professional development, mentoring and technical assistance matter more than tool provision or mandates alone. Because concerns neither moderated nor directly drove the relationships, addressing apprehension head-on may be less productive than building [[self-efficacy]] through hands-on experience — a point of contact with [[educational-development]] and [[ai-literacy]].
 
-For institutions and policy, the authors argue that resistance to AI often reflects systemic support gaps rather than individual reluctance, and recommend embedding AI literacy in [[teacher-education]] programmes. A limitation worth noting for readers is that the findings come from one Philippine province, so generalization to other contexts is a hypothesis rather than a result.
+For institutions and policy, the authors argue that resistance to AI often reflects systemic support gaps rather than individual reluctance, and recommend embedding AI literacy in [[teacher-education]] programs. A limitation worth noting for readers is that the findings come from one Philippine province, so generalization to other contexts is a hypothesis rather than a result.
 
 ## Connected Concepts
 

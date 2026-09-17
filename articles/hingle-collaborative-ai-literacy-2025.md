@@ -1,7 +1,7 @@
 ---
 title: "Systematic Review of Collaborative Learning Activities for Promoting AI Literacy"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-literacy, collaborative-learning, learning-design, k-12, llm, higher-ed]
 audience: [instructors, researchers]
@@ -64,7 +64,7 @@ The nine studies were implemented in heterogeneous learning contexts, making cro
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — meta-analysis of AI literacy intervention effectiveness
 - [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
 - [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritize Learning over Performance
 - [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
 - [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults
 - [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem

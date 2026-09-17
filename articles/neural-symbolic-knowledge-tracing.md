@@ -1,7 +1,7 @@
 ---
 title: Neural-Symbolic Knowledge Tracing
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [intelligent-tutoring, learning-analytics, adaptive-learning, pedagogical-safety, mastery-learning, pedagogical-llm-training, student-experience, rag, machine-learning]
 research_method: [benchmark]
@@ -81,7 +81,7 @@ Traditional **Knowledge Tracing (KT)** methods:
 
 ## Implications for Responsible AI in Education
 
-The paper positions this under **responsible AI** (Goellner et al., 2024: "human-centred approach fostering user trust through [[ethics|ethical]] decision-making, explainable outcomes, and privacy-preserving implementation"):
+The paper positions this under **responsible AI** (Goellner et al., 2024: "human-centered approach fostering user trust through [[ethics|ethical]] decision-making, explainable outcomes, and privacy-preserving implementation"):
 
 1. **Transparency:** Symbolic components make learner state *auditable* — critical for [[ai-tutor-safety-harms|safety auditing]].
 2. **Pedagogical validity:** Updates follow educational theory ([[mastery-learning|mastery learning]], repeated-failure signals), not just data patterns.

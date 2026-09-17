@@ -1,7 +1,7 @@
 ---
 title: "Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice"
 created: "2026-08-23T08:07:04-04:00"
-updated: "2026-08-23T15:00:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [cognitive-offloading, generative-ai, teacher-role, metacognition, ai-literacy, higher-ed, adult-learning]
 research_method: [qualitative, case study]
@@ -19,10 +19,10 @@ Teachers' [[student-engagement|engagement]] with [[generative-ai|GenAI]] is not 
 
 ## Three Interrelated Processes
 
-The analysis consolidated an author-developed six-stage operationalization of cognitive offloading (recognising demand → evaluating external resources → selecting tasks → enacting offloading → observing consequences → reflecting on adjustment/drift) into three broader themes.
+The analysis consolidated an author-developed six-stage operationalization of cognitive offloading (recognizing demand → evaluating external resources → selecting tasks → enacting offloading → observing consequences → reflecting on adjustment/drift) into three broader themes.
 
-1. **Recognising and evaluating the need to use GenAI** — Workload and time pressure operated as direct cognitive-demand triggers. Professional exploration (curiosity), school policy mandates, and technological readiness acted as contextual conditions that shaped teachers' metacognitive evaluation of GenAI as a legitimate, accessible, trustworthy external resource, rather than as triggers themselves.
-2. **Using GenAI for operational and cognitive redistribution** — Four forms of redistribution emerged: procedural task automation (rule-based, e.g., scheduling/formatting), linguistic/[[feedback]]/pedagogical data-analytical delegation (grammar correction, oral evaluation, error summarisation), generative design and ideation expansion (brainstorming, example generation), and — at a broader workflow level — externalization of the teaching cycle (integrating AI across planning, instruction, [[assessment]], and feedback). In all forms, teachers retained interpretive and evaluative control.
+1. **Recognizing and evaluating the need to use GenAI** — Workload and time pressure operated as direct cognitive-demand triggers. Professional exploration (curiosity), school policy mandates, and technological readiness acted as contextual conditions that shaped teachers' metacognitive evaluation of GenAI as a legitimate, accessible, trustworthy external resource, rather than as triggers themselves.
+2. **Using GenAI for operational and cognitive redistribution** — Four forms of redistribution emerged: procedural task automation (rule-based, e.g., scheduling/formatting), linguistic/[[feedback]]/pedagogical data-analytical delegation (grammar correction, oral evaluation, error summarization), generative design and ideation expansion (brainstorming, example generation), and — at a broader workflow level — externalization of the teaching cycle (integrating AI across planning, instruction, [[assessment]], and feedback). In all forms, teachers retained interpretive and evaluative control.
 3. **Reflectively re-engaging after use** — Post-use reflection varied across four orientations (procedural, value-based, [[affective-computing|affective]], identity-anchored) at three depths (surface, intermediate, meta-transformative). Depth was not determined by intensity of AI use but by metacognitive awareness and institutional or collegial support.
 
 ## The Risk of Professional Drift
@@ -41,7 +41,7 @@ Cognitive offloading varied with teaching experience, school level, school type,
 
 - **[[ai-literacy|AI literacy]] must extend beyond technical proficiency** to reflective awareness and evaluative judgment about when, why, and how to delegate cognitive tasks. Guided reflection cycles (recognition, evaluation, delegation, observation, re-engagement) can support deliberate, ethical AI use.
 - **Teachers need pedagogical data literacy** to interpret AI-generated analytics, identify what is highlighted or obscured, and translate outputs into instructional decisions without over-reliance on automated indicators.
-- **Schools should cultivate reflective ecosystems** — collaborative design labs and professional learning communities that normalise open discussion of the cognitive, ethical, and emotional challenges of AI use.
+- **Schools should cultivate reflective ecosystems** — collaborative design labs and professional learning communities that normalize open discussion of the cognitive, ethical, and emotional challenges of AI use.
 - **Policy should balance efficiency with cognitive [[well-being|wellbeing]]**, moving toward governance that monitors cognitive dependence, promotes reflective use, and safeguards teachers' attentional health (e.g., mandated reflection sessions, workload reviews, continuous ethical training).
 
 ## Connected Concepts

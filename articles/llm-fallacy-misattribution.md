@@ -1,7 +1,7 @@
 ---
 title: The LLM Fallacy and Misattribution of Competence
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [metacognition, cognitive-offloading, llm, k-12, higher-ed, academic-integrity, self-regulated-learning, generative-ai, rag, scaffolding]
 research_method: [theoretical analysis]
@@ -82,7 +82,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 ## Connected Articles
 
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritize Learning over Performance
 - [[educational-llm-alignment]] — Educational LLM Alignment
 - [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
 - [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning

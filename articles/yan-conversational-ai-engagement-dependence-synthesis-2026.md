@@ -1,7 +1,7 @@
 ---
 title: "A Critical Narrative Synthesis of Psychological Correlates, Measurement, and Reported Findings on Conversational AI Engagement and Dependence-Related Constructs"
 created: "2026-09-06T08:20:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [conversational-ai, well-being, cognitive-offloading, metacognition, ethics, higher-ed, generative-ai, student-engagement]
 research_method: [literature review]
@@ -13,11 +13,11 @@ confidence: high
 
 ## Key Findings
 
-- **Constructs are routinely conflated:** Trust (expectations about system competence), reliance (behavioural delegation), over-reliance (delegation without scrutiny), attachment/companionship (emotional closeness), and problematic use/dysregulated dependence (impaired control) refer to different processes yet are often treated as one continuum; several distinct instruments share overlapping labels without a stable object of measurement.
+- **Constructs are routinely conflated:** Trust (expectations about system competence), reliance (behavioral delegation), over-reliance (delegation without scrutiny), attachment/companionship (emotional closeness), and problematic use/dysregulated dependence (impaired control) refer to different processes yet are often treated as one continuum; several distinct instruments share overlapping labels without a stable object of measurement.
 - **Cross-sectional correlates, not causation:** Mainly cross-sectional studies linked stronger engagement or dependence-oriented scores to poorer well-being, fatigue, weaker critical thinking, procrastination, loneliness, and academic stress — but none of these findings establish prediction or consequence.
 - **Both supportive and harmful experiences are reported:** [[qualitative-research|Qualitative]] and quasi-experimental work documents both relational support (perceived disclosure, lower loneliness in some settings) and distress linked to emotionally significant use, with limited, context-dependent evidence of short-term reductions in loneliness and social anxiety.
 - **Evidence is largely low leverage:** Of 22 first-order empirical records, 16 (72.7%) provided lower-leverage evidence for directional claims and six moderate-leverage evidence; none supported a firm causal model, and direct cross-cultural and platform-comparative research remains rare.
-- **A provisional framework:** Separating use orientation (instrumental-cognitive vs. relational-emotional) from regulation offers an interpretive — not validated — way to organize the field; frequent use, reliance, or attachment should not be labelled dependence without impaired control or functional harm.
+- **A provisional framework:** Separating use orientation (instrumental-cognitive vs. relational-emotional) from regulation offers an interpretive — not validated — way to organize the field; frequent use, reliance, or attachment should not be labeled dependence without impaired control or functional harm.
 
 ## Implications for AI in Education
 

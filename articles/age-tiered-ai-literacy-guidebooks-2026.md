@@ -1,7 +1,7 @@
 ---
 title: "Measuring Acceptance of Age-Tiered AI Literacy Guidebooks: A Developmentally Informed Study of K-12 Students and Teachers"
 created: "2026-09-13T11:05:00-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, generative-ai, k-12, technology-acceptance-model, educational-measurement, curriculum-design, equity-in-ai-education, adaptive-learning, teacher-role]
 connected_faqs: [ai-guidance-children-under-13]
@@ -20,7 +20,7 @@ confidence: high
 
 1. **A four-factor acceptance structure holds across two age-tiered student editions.** Split-half exploratory and confirmatory factor analyses retained Performance Expectancy (PE), Effort Expectancy (EE), Perceived Playfulness (PP) and Behavioral Intention (BI). The EFA showed acceptable sampling adequacy (KMO = .820; Bartlett's chi-square (153) = 1450.600, p < .001), retained items loading at least .600 on their intended factors, and 67.3% of total variance explained; the student CFA fit was acceptable (chi-square (129) = 257.13, CFI = .943, TLI = .935, RMSEA = .059, SRMR = .059).
 2. **Reliability and convergent validity were strong, but playfulness and intention overlap.** Composite reliability ranged from .84 to .90 and average variance extracted from .55 to .68 for students (.87 to .94 and .72 to .78 for teachers). Discriminant validity was mostly acceptable, yet the PP-BI latent correlation was high: HTMT values ran from .680 to .950, and constraining the PP-BI correlation to unity significantly worsened fit (delta chi-square (1) = 49.33, p < .001).
-3. **The overlap is partly an item-wording artefact.** Removing two broader PP items that referenced perceived helpfulness and learning-with-AI support (PP1 and PP5) lowered the PP-BI HTMT from .950 to .902. Because the 18-item instrument was theoretically specified, the trimmed model was treated as a sensitivity check, not the primary model.
+3. **The overlap is partly an item-wording artifact.** Removing two broader PP items that referenced perceived helpfulness and learning-with-AI support (PP1 and PP5) lowered the PP-BI HTMT from .950 to .902. Because the 18-item instrument was theoretically specified, the trimmed model was treated as a sensitivity check, not the primary model.
 4. **Younger learners rated the materials higher on every construct.** Latent means were significantly lower in the Advanced group: PE delta M = -0.152 (z = -2.27, p = .023), EE delta M = -0.376 (z = -5.17, p < .001), PP delta M = -0.356 (z = -6.10, p < .001), and BI delta M = -0.264 (z = -3.92, p < .001).
 5. **Perceived playfulness carried the largest association with intention in both cohorts, and the coefficients are inflated.** The PP to BI path was the largest in both groups (Elementary beta = 1.090, p < .001; Advanced beta = .894, p < .001), with models explaining about 89.0% of PP variance and 89.1% of BI variance in the Elementary group and 83.8% and 90.5% respectively in the Advanced group. The authors note the standardized coefficient above 1.00 in the Elementary group reflects predictor intercorrelation, construct overlap or suppression, not a simple effect size.
 6. **Usefulness mattered for older learners only.** The PE to BI path was statistically significant in the Advanced cohort (beta = .159, p = .004) but nonsignificant in the Elementary cohort (beta = -.031, p = .837); the EE to BI path was nonsignificant in both (Elementary beta = -.131, p = .416; Advanced beta = -.088, p = .297), while PE and EE both fed PP in both groups.
@@ -55,7 +55,7 @@ The limitations are substantial and stated plainly: results are embedded in Taiw
 - [[equity-in-ai-education]] — age-tiered safeguarding and equitable access as design priorities
 - [[adaptive-learning]] — the national platform through which the materials are distributed
 - [[teacher-role]] — teachers as co-designers, facilitators and gatekeepers of classroom use
-- [[self-efficacy]] — the effort and performance expectancy constructs neighbouring perceived readiness
+- [[self-efficacy]] — the effort and performance expectancy constructs neighboring perceived readiness
 - [[student-engagement]] — playfulness, multimodality and visual design as engagement signals
 - [[assessment]] — the open question of measuring literacy and ethical reasoning rather than perception
 

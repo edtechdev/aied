@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: concept
 tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing, ai-literacy]
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
@@ -42,7 +42,7 @@ AI literacy is the construct with the richest instrument coverage in the knowled
 
 - **Performance-based (objective) measures.** The flagship is [[jin-glat-genai-literacy-assessment|GLAT (Generative AI Literacy Assessment Test)]], a 20-item multiple-choice instrument built on a 25-concept blueprint across four dimensions (Know & Understand, Use & Apply, Evaluate & Create, [[ethics]]) and validated with CTT + 2PL IRT on 355 students (RMSEA = 0.03, CFI = 0.97, α = 0.80, ω = 0.81). Critically, GLAT scores predicted AI-assisted task performance where self-report did not — evidence that **performance-based measurement outperforms self-report** for AI literacy. Related work in [[ai-literacy-assessment-misalignment]] quantifies the gap between self-reported and performance-based AI literacy (teachers overestimate by ~40%), and [[tracing-genai-literacy-interaction-patterns]] traces actual student–AI interaction patterns rather than relying on reported use.
 - **Self-report scales.** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]] operationalizes AI literacy across three domains (AI Concepts; Application and Technical Skills; AI Digital Citizenship) and four scaffolded levels; [[ai-literacy-heptagon-2026|the AI Literacy Heptagon]] structures seven dimensions (technical, application, [[critical-thinking|critical thinking]], ethics, social impact, integration, legal/[[regulation|regulatory]]) with four Bloom-aligned proficiency levels. [[genai-skill-bypass-literacy]] maps divergent AI-literacy pathways for students vs. staff, and [[panciroli-ai-literacy-episodes-situated-learning]] grounds literacy assessment in [[situated-learning|situated learning]] episodes.
-- **[[discipline-specific-aied|Domain-specific]] AI literacy.** [[teacher-education-ai-literacy-sdt-2026]] develops [[teacher-role|teacher]] AI-literacy measures within a [[self-determination-theory]] framework (382 teachers, factor-validated); [[conceptualizing-preservice-teachers-ai-readiness-2026]] measures pre-service [[teacher-ai-competency|teacher AI readiness]] via intelligent-[[tpack]]; [[ai-literacy-career-adaptability-business-2026]] assesses student AI readiness and [[career-development-and-readiness|career adaptability]] in [[business-education|business education]]; and [[llm-critical-thinking-teamwork-review]] reviews instruments for LLM-supported critical-thinking and teamwork outcomes. Extending into educator measurement, the Teachers' AI Literacy Scale (TAILS) operationalises the ED-AI framework's six dimensions to measure AI literacy specifically within [[teacher-education|language teacher education]] (validated with factor analysis), filling a gap in assessments that target students or general users.
+- **[[discipline-specific-aied|Domain-specific]] AI literacy.** [[teacher-education-ai-literacy-sdt-2026]] develops [[teacher-role|teacher]] AI-literacy measures within a [[self-determination-theory]] framework (382 teachers, factor-validated); [[conceptualizing-preservice-teachers-ai-readiness-2026]] measures pre-service [[teacher-ai-competency|teacher AI readiness]] via intelligent-[[tpack]]; [[ai-literacy-career-adaptability-business-2026]] assesses student AI readiness and [[career-development-and-readiness|career adaptability]] in [[business-education|business education]]; and [[llm-critical-thinking-teamwork-review]] reviews instruments for LLM-supported critical-thinking and teamwork outcomes. Extending into educator measurement, the Teachers' AI Literacy Scale (TAILS) operationalizes the ED-AI framework's six dimensions to measure AI literacy specifically within [[teacher-education|language teacher education]] (validated with factor analysis), filling a gap in assessments that target students or general users.
 
 ### Attitudes, acceptance, and motivation instruments
 
@@ -54,7 +54,7 @@ AI literacy is the construct with the richest instrument coverage in the knowled
 
 - **Automated scoring and rubric instruments.** [[harmogen-ai-assessment-rubric-generation|HARMOGEN-R]] generates assessment rubrics; [[ai-assisted-instructor-supervised-grading-feedback]] evaluates AI-grading quality against Elaborated-[[feedback]] criteria; [[ai-assessment-scale-reform]] addresses how AI disrupts traditional assessment scales.
 - **Validity-strengthening designs.** [[roe-assessment-twins-2026|assessment twins]] pair a [[generative-ai|GenAI]]-vulnerable task with a less-vulnerable equivalent assessing the same outcomes, mapping threats across Messick's six strands of validity evidence.
-- **Discourse and engagement coding.** [[icap-cognitive-engagement-llm-agents]] extends the [[icap-framework|ICAP]] framework into a 7-point cognitive-engagement coding scheme, comparing human annotation (κ = 0.906–0.998) with LLM-based labeling (κ = 0.541–0.609) — a measurement-instrument study showing automated coding still trails trained humans. Automated coding is also advancing via [[prompt-engineering|context-aware prompting]], which models contextual dependencies and fuses cognitive and social abilities to code [[collaborative-learning|collaborative problem-solving]] skills from process data at superior performance over strong baselines — enabling large-scale, real-time assessment while addressing the labour-intensity of manual coding.
+- **Discourse and engagement coding.** [[icap-cognitive-engagement-llm-agents]] extends the [[icap-framework|ICAP]] framework into a 7-point cognitive-engagement coding scheme, comparing human annotation (κ = 0.906–0.998) with LLM-based labeling (κ = 0.541–0.609) — a measurement-instrument study showing automated coding still trails trained humans. Automated coding is also advancing via [[prompt-engineering|context-aware prompting]], which models contextual dependencies and fuses cognitive and social abilities to code [[collaborative-learning|collaborative problem-solving]] skills from process data at superior performance over strong baselines — enabling large-scale, real-time assessment while addressing the labor-intensity of manual coding.
 - **Skills extraction.** [[principal-trait-analysis-human-ai-skills-2026]] derives "skills" in human–AI collaboration via principal-trait analysis — a data-driven measurement of collaboration competency.
 
 ### Measurement approach matters
@@ -83,7 +83,7 @@ In short, educational measurement can **miss** what it does not sample (process,
 ## Connections
 
 Educational measurement is the foundation for [[item-response-theory]], [[assessment-validity]], [[knowledge-tracing]], and [[student-modeling]]. It connects to [[learning-analytics]] (measurement of learning data), [[educational-nlp]] (measuring language), and [[psychometrically-aware-ai]] (AI aligned with measurement theory). Its validity and reliability concerns underpin [[ai-ed-evaluation]] and the [[limitations-in-aied-research|measurement limitations]] of the field. For the constructs it measures, it intersects with [[ai-literacy]], [[technology-acceptance-model]], [[self-efficacy]], [[motivation]], and [[student-engagement]].
-- **Causal modelling of support interventions (2026):** a structural causal modelling protocol moves educational assessment beyond associative item-response-theory belief updating toward interventional and counterfactual reasoning (e.g., the effect of hints), with structural equations elicited from experts using purely logical information — illustrated on compulsory-school algorithmic-skills tasks ([[causal-modelling-competency-assessment-2026]]).
+- **Causal modeling of support interventions (2026):** a structural causal modeling protocol moves educational assessment beyond associative item-response-theory belief updating toward interventional and counterfactual reasoning (e.g., the effect of hints), with structural equations elicited from experts using purely logical information — illustrated on compulsory-school algorithmic-skills tasks ([[causal-modelling-competency-assessment-2026]]).
 
 ## Connected Concepts
 
@@ -109,7 +109,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 ## Connected Articles
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[semantic-variability-llm-conversation-assessment-2026]]
-- [[causal-modelling-competency-assessment-2026]] — Causal Modelling of Support Interventions for Student Competency Assessment
+- [[causal-modelling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test (Jin et al. 2025)
 - [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
@@ -144,4 +144,4 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[age-tiered-ai-literacy-guidebooks-2026]] — Split-half EFA/CFA validation with invariance, HTMT and DIF checks, including an honest account of playfulness-intention construct overlap
 - [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
 - [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[durable-skills-measurement-ai-teammates-2026]] — Towards Scalable Measurement of Durable Skills
+- [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills

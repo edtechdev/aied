@@ -1,7 +1,7 @@
 ---
 title: "Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use"
 created: "2026-06-09T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [llm, k-12, self-regulated-learning, metacognition, student-experience, scaffolding, help-seeking]
 research_method: [experiment, survey]
@@ -29,7 +29,7 @@ The paper proposes a turn-level codebook combining SRL and [[metacognition|help-
 ## Connected Articles
 
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
-- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
+- [[socraticode-k12-programming-tutor]] — Toward SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[llm-reasoning-traces-metacognition]] — Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition
 - [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning

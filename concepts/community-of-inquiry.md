@@ -1,14 +1,14 @@
 ---
 title: "Community of Inquiry"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-09-11T13:20:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [online-teaching-and-learning, higher-ed, generative-ai, pedagogy, critical-thinking]
 level: [higher ed]
 confidence: high
 ---
 
-> **Community of Inquiry (CoI)** is a framework for conceptualizing a meaningful educational experience as the dynamic interplay of **cognitive presence**, **social presence**, and **teaching presence**. Originating in computer-mediated and online learning [[research-methods-aied|research]] (Garrison, Anderson & Archer, 2000), it has become one of the most widely used models for designing, evaluating, and researching [[online-teaching-and-learning|online and blended]] inquiry-based education. In the [[generative-ai|generative-AI]] era the framework is being reconceptualized: machine-produced discourse can mimic authentic presence, so presences must be understood as sociotechnical accomplishments of human–GenAI assemblages rather than purely human activity.
+> **Community of Inquiry (CoI)** is a framework for conceptualizing a meaningful educational experience as the dynamic interplay of **cognitive presence**, **social presence**, and **teaching presence**. Originating in computer-mediated and online learning [[research-methods-aied|research]] (Garrison, Anderson & Archer, 2000), it has become one of the most widely used models for designing, evaluating, and researching [[online-teaching-and-learning|online and blended]] inquiry-based education. In the [[generative-ai]] era the framework is being reconceptualized: machine-produced discourse can mimic authentic presence, so presences must be understood as sociotechnical accomplishments of human–GenAI assemblages rather than purely human activity.
 
 ## Questions to Consider
 
@@ -26,13 +26,13 @@ The Community of Inquiry framework describes a worthwhile online learning experi
 
 - **Cognitive presence** — the extent to which learners construct and confirm meaning through sustained reflection and discourse, operationalized via the *practical inquiry* model (triggering event → exploration → integration → resolution).
 - **Social presence** — the ability of participants to project themselves socially and emotionally, expressed through [[affective-computing|affective]] communication, open communication, and group cohesion.
-- **Teaching presence** — the design, facilitation, and direction of cognitive and social processes to realise personally meaningful and educationally worthwhile outcomes, including design/organization, facilitating discourse, and direct instruction.
+- **Teaching presence** — the design, facilitation, and direction of cognitive and social processes to realize personally meaningful and educationally worthwhile outcomes, including design/organization, facilitating discourse, and direct instruction.
 
 CoI is grounded in [[constructivist]] and Deweyan pragmatic traditions: inquiry is social, iterative, and driven by a felt difficulty that motivates the search for resolution.
 
 ## CoI as a framework for online teaching
 
-CoI originated in, and remains most strongly associated with, [[online-teaching-and-learning|online teaching and learning]]. It provides a vocabulary for diagnosing *why* an online course works or fails: low [[student-engagement|engagement]] and isolation in asynchronous courses are usually failures of social and teaching presence, while surface discussion often reflects weak cognitive presence. This makes CoI a practical design lens for the very conditions the online medium creates — the removal of physical co-presence, the need for deliberate community-building, and the structuring of discussion that substitutes for face-to-face contact. In the [[generative-ai|generative-AI]] era, CoI is also where online instructors confront the hardest new questions: who is "present" when [[llm|LLM]] agents post, moderate, or respond, and how to keep the three presences meaningful when machine-generated discourse can mimic them. The knowledge base's online-teaching page therefore treats Community of Inquiry as the core framework for the social-presence and community-building strand of its recommended practice.
+CoI originated in, and remains most strongly associated with, [[online-teaching-and-learning|online teaching and learning]]. It provides a vocabulary for diagnosing *why* an online course works or fails: low [[student-engagement|engagement]] and isolation in asynchronous courses are usually failures of social and teaching presence, while surface discussion often reflects weak cognitive presence. This makes CoI a practical design lens for the very conditions the online medium creates — the removal of physical co-presence, the need for deliberate community-building, and the structuring of discussion that substitutes for face-to-face contact. In the [[generative-ai]] era, CoI is also where online instructors confront the hardest new questions: who is "present" when [[llm]] agents post, moderate, or respond, and how to keep the three presences meaningful when machine-generated discourse can mimic them. The knowledge base's online-teaching page therefore treats Community of Inquiry as the core framework for the social-presence and community-building strand of its recommended practice.
 
 ## CoI under generative-AI pressure
 
@@ -40,7 +40,7 @@ GenAI destabilises the assumption that indicators of presence can be attributed 
 
 - **Inflate cognitive presence** — fluent machine-generated explanations accelerate sense-making but risk premature closure when coherence is mistaken for warrant.
 - **Mimic social presence** — machine-produced utterances can resemble empathy and responsiveness with high linguistic credibility, complicating relational accountability.
-- **Redistribute teaching presence** — design, facilitation, and direct instruction become distributed accomplishments, with instructors modelling how to interrogate generated outputs and detect hallucinated citations.
+- **Redistribute teaching presence** — design, facilitation, and direct instruction become distributed accomplishments, with instructors modeling how to interrogate generated outputs and detect hallucinated citations.
 
 Rather than a tool, a dialogic partner, or a speculative "fourth presence," GenAI is best understood as an **epistemic condition** — a pervasive influence that reconfigures how presences are enacted, interpreted, evidenced, and governed through both visible outputs and invisible training-data, algorithmic, and platform logics.
 

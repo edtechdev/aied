@@ -1,7 +1,7 @@
 ---
 title: "The Devil is in the Details: AI Agents, Ghost Students, and the Crisis of Verified Presence in an Agentic AI World"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-08-28T14:30:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [agentic-ai, academic-integrity, ai-misuse-learning-harm, generative-ai, higher-ed, online-teaching-and-learning, governance, privacy, trust, cognitive-offloading, ai-detection]
 research_method: [theoretical analysis]
@@ -20,11 +20,11 @@ confidence: high
 4. **Cognitive debt accumulates invisibly.** Because the "[[desirable-difficulties|productive struggle]]" of learning is offloaded, the agent bypasses learning itself—metrics look flawless while the student remains unchanged (echoing evidence that GPT-4 access raised practice scores 48% but lowered exam performance 17%).
 5. **Credentials erode for everyone.** When institutions cannot verify who completed the work, degree value falls for all students, including those who engaged fully; O-ODE programs face existential legitimacy risk.
 6. **Severe data-protection and security risks.** BYOA ("bring your own agent") triggers catastrophic failure of frameworks like FERPA, GDPR, and Türkiye's KVKK, which assume [[governance|institutional]] control that no longer exists; prompt-injection attacks let malicious pages hijack the agent's privileged access.
-7. **The solution is [[pedagogy|pedagogical]], not technical.** Institutions must shift from product-oriented to process-oriented, dialogic, and reflective assessments—presence-required formats such as oral defences, live presentations, and reflective [[eportfolio|portfolios]] that value "human becoming" over algorithmic proxies.
+7. **The solution is [[pedagogy|pedagogical]], not technical.** Institutions must shift from product-oriented to process-oriented, dialogic, and reflective assessments—presence-required formats such as oral defenses, live presentations, and reflective [[eportfolio|portfolios]] that value "human becoming" over algorithmic proxies.
 
 ## Implications
 
-- Assessment design should prioritise verified human presence (oral defences, live spontaneous questioning, in-person demonstrations, dialogic [[assessment]] and reflective portfolios), which remain resistant to automation.
+- Assessment design should prioritize verified human presence (oral defenses, live spontaneous questioning, in-person demonstrations, dialogic [[assessment]] and reflective portfolios), which remain resistant to automation.
 - [[educational-development|Faculty development]] at massive scale is a foundational prerequisite: instructors must understand how agentic browsers work to design against them.
 - Students should be offered explicit pedagogical choices and be asked to articulate *what they learned*, not merely what they submitted, embedding reflection into the [[curriculum-design|curriculum]].
 - Institutions must establish explicit, operationally grounded governance that names agentic browsers as distinct entities, communicates transparent risk, and addresses the loss of the "private session" under [[privacy|data-protection]] mandates.

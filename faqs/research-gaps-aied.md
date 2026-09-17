@@ -1,7 +1,7 @@
 ---
 title: "What Are Notable Gaps in the Research Literature on AI in Education?"
 created: "2026-08-24T14:10:00-04:00"
-updated: "2026-09-16T14:53:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 weight: 45
 type: faq
 tags: [ai-ed-evaluation, research-methods-aied, limitations-in-aied-research, learning-gains, equity-in-ai-education, higher-ed]
@@ -42,7 +42,7 @@ The multisite experiment [[genai-feedback-design-multisite-experiment|Human-cent
 
 Further studies should isolate the contribution and timing of initial independent attempts, self-explanation, peer input, corrective feedback, hints, and fading assistance. They should test how those components interact with [[prior-knowledge|prior knowledge]] and task difficulty.
 
-The accompanying theory gap is equally important: **naming a [[learning-theories|learning theory]] is not the same as testing it**. Research should connect a theoretical prediction to a specific system behavior and a measurable learning process. Statistical mediation can inform that explanation, but does not by itself establish a causal mechanism. See [[theory-development-aied|Theory Development in AI in Education]] and [[scaffolding|Scaffolding]].
+The accompanying theory gap is equally important: **naming a [[learning-theories|learning theory]] is not the same as testing it**. Research should connect a theoretical prediction to a specific system behavior and a measurable learning process. Statistical mediation can inform that explanation, but does not by itself establish a causal mechanism. See [[theory-development-aied|Theory Development in AI in Education]] and [[scaffolding]].
 
 ## 4. Validating measures, automated judgments, and simulated learners
 
@@ -66,7 +66,7 @@ For [[automated-assessment|automated scoring]], [[llms-do-not-grade-essays-like-
 
 A useful conceptual distinction comes from [[human-capability-test-learning-outcomes-ai-2026|A Human Capability Test for Learning Outcomes in the AI Era]]: assess what learners must do independently, what they may accomplish with AI, and what they must verify and defend. That is a proposed framework requiring empirical validation, not an established assessment solution.
 
-[[karr-ai-detection-humanization-2026|Karr et al. (2026)]] quantify why detection is a dead end. On 642 published English abstracts, two commercial AI detectors at τ = 0.50 flagged guideline-compliant light AI editing at 38–80%, flagged unmodified 2023–25 originals at 9–15% (non-[[stem-education|STEM]] far above STEM, p < 0.001), and after humanization caught fewer than 4% of AI-labelled rewrites (false-negative rate > 96%). A score that penalizes honest assistance while missing evasion cannot be the basis for a defensible conclusion about the learner; the gap it exposes is designs and process evidence that do not depend on such a score.
+[[karr-ai-detection-humanization-2026|Karr et al. (2026)]] quantify why detection is a dead end. On 642 published English abstracts, two commercial AI detectors at τ = 0.50 flagged guideline-compliant light AI editing at 38–80%, flagged unmodified 2023–25 originals at 9–15% (non-[[stem-education|STEM]] far above STEM, p < 0.001), and after humanization caught fewer than 4% of AI-labeled rewrites (false-negative rate > 96%). A score that penalizes honest assistance while missing evasion cannot be the basis for a defensible conclusion about the learner; the gap it exposes is designs and process evidence that do not depend on such a score.
 
 ## 6. Showing that AI literacy transfers into responsible behavior
 
@@ -86,7 +86,7 @@ Equity research must also distinguish access, skills, and outcomes. The [[digita
 
 For example, [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] followed 752 Hong Kong junior-secondary students. Psychological readiness gaps narrowed, while differences on an objective AI-literacy test persisted. All groups improved, but overall improvement did not eliminate inequality. Because prior-learning profiles were not randomly assigned, the study does not establish their causal effects.
 
-**The research priority is identifying which designs reduce differences in demonstrated capability, participation, and agency.** Studies should examine subgroup outcomes and burdens, not merely average gains. Accessibility research should distinguish removing barriers to participation from replacing a capability the learner is intended to develop. See [[equity-in-ai-education|Equity in AI Education]] and [[accessibility|Accessibility]].
+**The research priority is identifying which designs reduce differences in demonstrated capability, participation, and agency.** Studies should examine subgroup outcomes and burdens, not merely average gains. Accessibility research should distinguish removing barriers to participation from replacing a capability the learner is intended to develop. See [[equity-in-ai-education|Equity in AI Education]] and [[accessibility]].
 
 Capacity also varies within a single national system in ways governance categories do not capture. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] scored AI integration across 45 Nigerian universities and found only moderate overall adoption (M = 4.79, range 1.83–7.83 on a 10-point scale), with institution type failing to predict integration once age and geography were controlled (age β = 0.43; South-West location β = 0.31). Internal capabilities intercorrelated at r = 0.79–0.80 and international collaborations with industry partnerships at r = 0.74, so well-connected institutions accumulate compounding advantages. The gap is to test which capacity-building designs change outcomes at newer, less-connected institutions.
 
@@ -128,7 +128,7 @@ Comparative cost-effectiveness is another priority. Evaluations should include v
 
 The research gap concerns **which governance arrangements make a measurable difference**. Does student and teacher participation change procurement, tool design, assessment rules, or remedies after mistakes? Do human-review procedures catch consequential errors? Are alternatives to AI use genuinely available?
 
-Privacy research should similarly examine the educational value of additional data collection rather than assume that more detailed learner monitoring is justified. Studies can compare data-minimizing designs with more intrusive alternatives, assessing both learning and learner autonomy. See [[governance|AI Governance]] and [[privacy|Privacy]].
+Privacy research should similarly examine the educational value of additional data collection rather than assume that more detailed learner monitoring is justified. Studies can compare data-minimizing designs with more intrusive alternatives, assessing both learning and learner autonomy. See [[governance|AI Governance]] and [[privacy]].
 
 ## 12. Building reproducible studies and trustworthy cumulative evidence
 

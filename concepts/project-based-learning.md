@@ -1,14 +1,14 @@
 ---
 title: Project-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [project-based-learning, active-learning, collaborative-learning, educational-robotics, higher-ed, k-12]
 level: [higher ed, k 12]
 confidence: high
 ---
 
-> **Project-based learning (PBL)** — an active, learner-centred [[pedagogy]] in which students learn by engaging in extended, real-world projects that require inquiry, problem solving, and the application of knowledge to produce tangible outcomes. PBL emphasizes student [[agency|autonomy]], collaboration, and [[authentic-assessment|authentic tasks]], and is widely used with technology — including [[educational-robotics|educational robotics]] and AI — to give learners hands-on, meaningful projects. It contrasts with purely theoretical or lecture-based instruction.
+> **Project-based learning (PBL)** — an active, learner-centered [[pedagogy]] in which students learn by engaging in extended, real-world projects that require inquiry, problem solving, and the application of knowledge to produce tangible outcomes. PBL emphasizes student [[agency|autonomy]], collaboration, and [[authentic-assessment|authentic tasks]], and is widely used with technology — including [[educational-robotics|educational robotics]] and AI — to give learners hands-on, meaningful projects. It contrasts with purely theoretical or lecture-based instruction.
 
 ## Questions to Consider
 
@@ -23,7 +23,7 @@ confidence: high
 
 PBL is closely related to [[active-learning]], [[experiential-learning]], [[collaborative-learning]], and [[constructivist]] pedagogy. It is especially valuable for AI and robotics education because these fields are inherently applied: learners best understand robots, algorithms, and systems by building and testing them in project contexts. PBL also fosters [[computational-thinking]], problem solving, and [[self-regulated-learning|self-direction]].
 
-Project-based learning is closely related to — but distinct from — [[problem-based-learning|problem-based learning]]: both are learner-centered and context-driven, but problem-based learning centers on an ill-structured *problem* whose solution requires inquiry and knowledge construction, whereas project-based learning centers on producing a tangible *project* or artefact. The two are frequently conflated, and many AI-in-education frameworks draw on both (see the [[problem-based-learning|problem-based learning]] page for the AI-era treatment).
+Project-based learning is closely related to — but distinct from — [[problem-based-learning|problem-based learning]]: both are learner-centered and context-driven, but problem-based learning centers on an ill-structured *problem* whose solution requires inquiry and knowledge construction, whereas project-based learning centers on producing a tangible *project* or artifact. The two are frequently conflated, and many AI-in-education frameworks draw on both (see the [[problem-based-learning|problem-based learning]] page for the AI-era treatment).
 
 ### How PBL appears in the knowledge base's research
 
@@ -32,7 +32,7 @@ Project-based learning is closely related to — but distinct from — [[problem
 - **Gamification coupling:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] found [[game-based-learning|Gamification]] in robotics education strongly favored project-based learning (p = .009).
 - **AI literacy and co-design:** PBL underlies many [[ai-literacy|AI literacy]] and [[teacher-education]] interventions, where learners co-create AI tools or resources.
 - **AI-agent-supported software PBL:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] embedded Spec-Driven Development with [[agentic-ai|AI agents]] into a team-based undergraduate software PBL course, structuring projects into investigation, planning, implementation, and review phases paired with instructor-run comprehension checks.
-- **Immersive VR studios with an embedded teaching agent:** [[ai-ive-pbl-vocational-design-creativity-2026|Jin et al. (2026)]] specify the **AI-IVE-PBL** model for vocational design education, pairing PBL with an AI-enabled immersive virtual environment ([[virtual-and-augmented-reality|VR]] headsets plus an [[llm]]-backed teaching assistant). PBL's customary constraints for vocational learners — limited equipment, hard-to-replicate scenarios, delayed teacher [[scaffolding]] — are absorbed by immersion plus an in-session agent, and the model is stated as a five-phase loop (discovery, envisioning, modeling, communication, refinement) with a named actor and artefact per phase, driven by sustained idea-developing discourse. In a 12-week quasi-experiment (n = 63) the condition raised design ability and creative ability and lifted cognitive and behavioural [[student-engagement|engagement]], while leaving ideational novelty (innovative thinking) and affective engagement unchanged — a reminder that the design-specific and the ideational parts of a project's value do not move together.
+- **Immersive VR studios with an embedded teaching agent:** [[ai-ive-pbl-vocational-design-creativity-2026|Jin et al. (2026)]] specify the **AI-IVE-PBL** model for vocational design education, pairing PBL with an AI-enabled immersive virtual environment ([[virtual-and-augmented-reality|VR]] headsets plus an [[llm]]-backed teaching assistant). PBL's customary constraints for vocational learners — limited equipment, hard-to-replicate scenarios, delayed teacher [[scaffolding]] — are absorbed by immersion plus an in-session agent, and the model is stated as a five-phase loop (discovery, envisioning, modeling, communication, refinement) with a named actor and artifact per phase, driven by sustained idea-developing discourse. In a 12-week quasi-experiment (n = 63) the condition raised design ability and creative ability and lifted cognitive and behavioral [[student-engagement|engagement]], while leaving ideational novelty (innovative thinking) and affective engagement unchanged — a reminder that the design-specific and the ideational parts of a project's value do not move together.
 PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-learning]], [[educational-robotics]], [[game-based-learning]], [[computational-thinking]], and [[higher-ed]]/[[k-12]] pedagogy.
 
 - **PBL supports AI-powered robotics learning.** [[educational-robotics-pathways-2026|Pathways research]] shows project-based robotics+AI curricula let high school students learn through engagement in real-world practice, designing, and playful creative expression.

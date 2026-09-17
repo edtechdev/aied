@@ -1,7 +1,7 @@
 ---
 title: "How Is AI Impacting Students?"
 created: "2026-08-27T07:59:08-04:00"
-updated: "2026-09-16T14:53:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 weight: 82
 tags: [student-experience, cognitive-offloading, well-being, learner-identity, ai-literacy, equity-in-ai-education]
 audience: [learners]
@@ -21,7 +21,7 @@ audience: [learners]
 
 **4. Identity and future-readiness.** AI can help students build transferable skills for an AI-integrated world — [[ai-literacy]], [[distributed-cognition]], and [[metacognition]] (see [[lodge-adaptive-capabilities-genai-future-2026|adaptive capabilities]]) — and support [[learner-identity|identity formation]] as students come to see themselves as capable, AI-fluent practitioners.
 
-**5. Psychosocial support during stress.** Beyond cognitive help, students describe [[generative-ai|generative AI]] as a source of reassurance and a confidential space for reflection in high-stress training — a relational, emotional dimension of usefulness that adoption models do not capture. In a [[qualitative-research|qualitative]] study of 28 nursing students and faculty, several students described AI as a "companion" that provided comfort and non-judgemental space during [[medical-education|clinical]] stress ([[akbaba-nursing-ai-experiences-tam-2026|Akbaba & Calik Kus, nursing education]]). Read this alongside the dependence evidence below: the comfort is real, and it can shade into reliance.
+**5. Psychosocial support during stress.** Beyond cognitive help, students describe [[generative-ai|generative AI]] as a source of reassurance and a confidential space for reflection in high-stress training — a relational, emotional dimension of usefulness that adoption models do not capture. In a [[qualitative-research|qualitative]] study of 28 nursing students and faculty, several students described AI as a "companion" that provided comfort and non-judgmental space during [[medical-education|clinical]] stress ([[akbaba-nursing-ai-experiences-tam-2026|Akbaba & Calik Kus, nursing education]]). Read this alongside the dependence evidence below: the comfort is real, and it can shade into reliance.
 
 ## Negative impacts
 

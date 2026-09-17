@@ -1,7 +1,7 @@
 ---
 title: Assessment in Team Problem-Solving Exercises in Computing Education
 created: "2026-07-22T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [formative-assessment, feedback, learning-analytics, stem-education, higher-ed, student-experience]
 research_method: [benchmark]
@@ -15,7 +15,7 @@ confidence: high
 
 > **Synthesis:** Tabletop exercises (TTXs) let learner teams rehearse high-stakes workplace tasks such as cybersecurity incident response, but their open-ended, collaborative nature makes [[formative-assessment]] difficult: teams often receive delayed or incomplete feedback. This full [[research-methods-aied|research]]-to-practice paper compares assessment methods that exploit the action and communication logs captured by TTX platforms to evaluate how well teams meet learning objectives.
 
-The work situates team [[problem-solving]] assessment within [[cs-education]] and broader [[stem-education]] contexts, showing how logged interaction data can drive faster, richer [[feedback|Feedback Loop]]s than manual grading. By operationalising teamwork behaviours as measurable signals, it connects to [[learning-analytics]] and the [[student-experience]] of collaborative crisis-response training, with implications for [[higher-ed]] computing courses where TTXs are increasingly used but rubric reliability remains a barrier.
+The work situates team [[problem-solving]] assessment within [[cs-education]] and broader [[stem-education]] contexts, showing how logged interaction data can drive faster, richer [[feedback|Feedback Loop]]s than manual grading. By operationalizing teamwork behaviors as measurable signals, it connects to [[learning-analytics]] and the [[student-experience]] of collaborative crisis-response training, with implications for [[higher-ed]] computing courses where TTXs are increasingly used but rubric reliability remains a barrier.
 
 ## Connected Concepts
 
@@ -34,7 +34,7 @@ The work situates team [[problem-solving]] assessment within [[cs-education]] an
 - [[debugtracker-classroom-debugging]] — DebugTracker: Lightweight Process Evidence for Classroom Debugging
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
+- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
 - [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
 
