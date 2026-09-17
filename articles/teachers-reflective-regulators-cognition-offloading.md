@@ -1,7 +1,7 @@
 ---
 title: "Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice"
 created: "2026-08-23T08:07:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-17T02:43:50-04:00"
 type: article
 tags: [cognitive-offloading, generative-ai, teacher-role, metacognition, ai-literacy, higher-ed, adult-learning]
 research_method: [qualitative, case study]
@@ -42,7 +42,7 @@ Cognitive offloading varied with teaching experience, school level, school type,
 - **[[ai-literacy|AI literacy]] must extend beyond technical proficiency** to reflective awareness and evaluative judgment about when, why, and how to delegate cognitive tasks. Guided reflection cycles (recognition, evaluation, delegation, observation, re-engagement) can support deliberate, ethical AI use.
 - **Teachers need pedagogical data literacy** to interpret AI-generated analytics, identify what is highlighted or obscured, and translate outputs into instructional decisions without over-reliance on automated indicators.
 - **Schools should cultivate reflective ecosystems** — collaborative design labs and professional learning communities that normalize open discussion of the cognitive, ethical, and emotional challenges of AI use.
-- **Policy should balance efficiency with cognitive [[well-being|wellbeing]]**, moving toward governance that monitors cognitive dependence, promotes reflective use, and safeguards teachers' attentional health (e.g., mandated reflection sessions, workload reviews, continuous ethical training).
+- **Policy should balance efficiency with cognitive [[well-being|well-being]]**, moving toward governance that monitors cognitive dependence, promotes reflective use, and safeguards teachers' attentional health (e.g., mandated reflection sessions, workload reviews, continuous ethical training).
 
 ## Connected Concepts
 

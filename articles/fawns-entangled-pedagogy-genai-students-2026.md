@@ -1,7 +1,7 @@
 ---
 title: "Illuminating complex student realities of artificial intelligence through an entangled pedagogy framework"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T02:43:50-04:00"
 type: article
 tags: [pedagogical-partnerships, generative-ai, student-experience, learner-identity, student-ai-interaction, higher-ed, well-being, qualitative-research]
 sources: ['raw/papers/fawns-entangled-pedagogy-genai-students-2026.md']
@@ -20,7 +20,7 @@ confidence: high
 
 ## Implications for AI in Education
 
-The paper argues meaningful institutional response requires creating collaborative [[pedagogical-partnerships|dialogic spaces]] where students' voices are heard and educational tensions are made visible "by design" (a seamful approach), rather than resolving complexity through top-down rules or surveillance. It positions students as co-interpreters and co-designers — not passive recipients of policy or potential rule-breakers — and draws on the students-as-partners literature (Matthews et al.) to argue for cultures of openness, honesty, and vulnerability over adversarial behavioral control. The authors caution that challenges of equity, diversity, and inclusivity make it harder to ensure a "level playing field" when students must make their own contextual judgments. They call for moving beyond binary framings of AI as harmful or beneficial, and beyond "[[ai-literacy|AI literacy]]" conceived purely as technical competency, toward fostering reflective, [[ethics|ethical]], context-sensitive judgment. Notably, they frame entangled pedagogy as a flexible, reflexive starting point for analysis — with the authors using Barad's notion of agential cuts as a "viewfinder" to bound what is foregrounded — rather than an expandable model that encompasses everything. This connects to themes of [[governance|institutional governance]], [[trust|trust relations]], [[well-being|student wellbeing]], and [[equity-in-ai-education|equity]] in the knowledge base.
+The paper argues meaningful institutional response requires creating collaborative [[pedagogical-partnerships|dialogic spaces]] where students' voices are heard and educational tensions are made visible "by design" (a seamful approach), rather than resolving complexity through top-down rules or surveillance. It positions students as co-interpreters and co-designers — not passive recipients of policy or potential rule-breakers — and draws on the students-as-partners literature (Matthews et al.) to argue for cultures of openness, honesty, and vulnerability over adversarial behavioral control. The authors caution that challenges of equity, diversity, and inclusivity make it harder to ensure a "level playing field" when students must make their own contextual judgments. They call for moving beyond binary framings of AI as harmful or beneficial, and beyond "[[ai-literacy|AI literacy]]" conceived purely as technical competency, toward fostering reflective, [[ethics|ethical]], context-sensitive judgment. Notably, they frame entangled pedagogy as a flexible, reflexive starting point for analysis — with the authors using Barad's notion of agential cuts as a "viewfinder" to bound what is foregrounded — rather than an expandable model that encompasses everything. This connects to themes of [[governance|institutional governance]], [[trust|trust relations]], [[well-being|student well-being]], and [[equity-in-ai-education|equity]] in the knowledge base.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]]

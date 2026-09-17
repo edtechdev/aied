@@ -1,7 +1,7 @@
 ---
 title: "How Do I Design Faculty Development for AI That Actually Changes Practice?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-17T02:45:00-04:00"
+updated: "2026-09-17T02:43:50-04:00"
 weight: 65
 type: faq
 tags: [educational-development, teacher-ai-competency, tpack, teacher-education, change-management, teacher-role]
@@ -52,7 +52,7 @@ Two practical frictions belong in the same conversation. Continued-use intention
 
 There is a design argument for adaptation here as well. In [[ai-teaching-innovation-ai-tpack-2026|Bai and Hsieh (2026)]], professional identity predicted innovative behavior nearly twice as strongly among infrequent AI users as among daily users — a borderline result, but it suggests identity work pays off most with the people who barely touch the tools. [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo and colleagues]] argue for deliberate discipline-specific programming because expertise does not transfer; [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw]] wants discipline-specific cohorts as the setting for identity conversations; and [[ai-teaching-innovation-ai-tpack-2026|Bai and Hsieh]] suggest differentiating by experience, with limited users needing foundational guidance and frequent users getting more from interdisciplinary projects.
 
-For the anxious participant, [[ai-emotional-intelligence-teacher-development-2026|Aponte et al. (2026)]] add a governance condition rather than a motivational one: separate wellbeing support from managerial evaluation, minimize data, limit purpose, keep participation voluntary, and guarantee human oversight. Those are what make it safe to admit uncertainty in an AI-mediated space.
+For the anxious participant, [[ai-emotional-intelligence-teacher-development-2026|Aponte et al. (2026)]] add a governance condition rather than a motivational one: separate well-being support from managerial evaluation, minimize data, limit purpose, keep participation voluntary, and guarantee human oversight. Those are what make it safe to admit uncertainty in an AI-mediated space.
 
 ## Proving it worked to someone who funds it
 

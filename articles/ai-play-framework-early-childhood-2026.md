@@ -1,7 +1,7 @@
 ---
 title: "AI-Play: A Framework for Teaching Artificial Intelligence Concepts through Unplugged Activities in Early Childhood Education"
 created: "2026-08-17T10:30:00-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-17T02:43:50-04:00"
 type: article
 tags: [ai-literacy, k-12, computational-thinking, game-based-learning, cs-education, learning-theories]
 connected_faqs: [ai-guidance-children-under-13]
@@ -17,7 +17,7 @@ confidence: high
 
 ## The gap: developmentally grounded AI literacy for early childhood
 
-AI is increasingly present in young children's lives, yet most AI literacy guidance targets older students and relies on technical approaches unsuitable for early childhood. An exploratory review of 145 papers and documents (reduced to 23 key sources) confirmed that recurring AI literacy frameworks — AI4K12's Five Big Ideas (Perception, Representation & Reasoning, Learning, Natural Interaction, Societal Impact), Long & Magerko's competency framework, Digital Promise, CSTA K-12 CS Standards, UNESCO, OECD, European Commission, TeachAI, and the RITEC child-[[well-being|wellbeing]] framework — describe *what* learners should understand but provide little developmentally appropriate guidance for *how* to introduce these ideas through play to Pre-K–K2 learners.
+AI is increasingly present in young children's lives, yet most AI literacy guidance targets older students and relies on technical approaches unsuitable for early childhood. An exploratory review of 145 papers and documents (reduced to 23 key sources) confirmed that recurring AI literacy frameworks — AI4K12's Five Big Ideas (Perception, Representation & Reasoning, Learning, Natural Interaction, Societal Impact), Long & Magerko's competency framework, Digital Promise, CSTA K-12 CS Standards, UNESCO, OECD, European Commission, TeachAI, and the RITEC child-[[well-being|well-being]] framework — describe *what* learners should understand but provide little developmentally appropriate guidance for *how* to introduce these ideas through play to Pre-K–K2 learners.
 
 ## The AI-Play framework
 
