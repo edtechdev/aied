@@ -5,7 +5,7 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [authentic-assessment, ai-detection, academic-integrity, assessment, generative-ai, higher-ed, self-regulated-learning, metacognition, ai-literacy, assessment-validity]
 audience: [instructors, administrators]
-research_method: [system development]
+research_method: [theoretical analysis, position paper]
 level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/beyond-detection-authentic-assessment-ai-2025.md']

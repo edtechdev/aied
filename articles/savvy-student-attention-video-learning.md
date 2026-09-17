@@ -5,11 +5,12 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [learning-analytics, multimodal, student-experience, student-engagement, higher-ed, edtech-platform, visualization]
 research_method: [system development]
-audience: [learners]
+audience: [teachers, learning analytics designers]
 level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/2607.29413.md']
 confidence: high
+discipline: [learning analytics]
 ---
 
 > **Synthesis:** SAVVY is an interactive visual analytics system for [[video-education|video-based learning]] that integrates visual and auditory attention signals from multimodal brain data to support top-down exploration of student attention variation across instructional videos, connecting AI-based attention estimation to instructional-design practice.

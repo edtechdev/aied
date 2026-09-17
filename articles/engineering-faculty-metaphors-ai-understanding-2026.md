@@ -10,6 +10,7 @@ audience: [faculty development, learners]
 level: [higher ed]
 sources: ['raw/papers/engineering-faculty-metaphors-ai-understanding-2026.md']
 confidence: high
+category: [framework]
 ---
 
 > **Synthesis:** Gerhardt, Shiekh, Katz, and Chaback (2026) analyze the figurative language — metaphors and analogies — that engineering instructors use to describe [[generative-ai|generative AI]], drawn from 57 semi-structured interviews across 17 disciplines and seven universities. They map instructors' language onto a five-dimensional taxonomy (Ontology, Epistemology, Operation, Relationship, Power/Capability), finding that instructors overwhelmingly frame GAI either as a human-like "social being/agent" (e.g., "a PhD student," "an assistant") or as a "technical object/artifact" (e.g., a search engine or tool), with almost no framing of GAI as an environmental or systemic force. Because these metaphors both construct and constrain understanding, and because instructors within the same department often hold fundamentally different mental models, the authors argue that developing a shared language is essential for [[educational-development]] and productive departmental discussions about GAI in [[engineering-education|engineering education]].

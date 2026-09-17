@@ -5,7 +5,7 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [assessment, assessment-validity, automated-assessment, ai-literacy, equity-in-ai-education, bias-mitigation, psychometrically-aware-ai, educational-measurement, human-ai-collaboration, higher-ed, ai-education]
 audience: [administrators, instructors]
-research_method: [educational measurement]
+research_method: [position paper, theoretical analysis]
 level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/end-of-assessment-ai-disruption-transformation-2026.md']

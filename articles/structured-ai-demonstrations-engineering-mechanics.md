@@ -4,12 +4,13 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, stem-education, higher-ed, student-experience, teacher-role, scaffolding, learning-analytics]
-research_method: [experiment]
+research_method: [survey, instrument development]
 discipline: [stem education]
 audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2607.28710.md']
 confidence: high
+category: [instructional design, ai foundations]
 ---
 
 > **Synthesis:** This descriptive study documents student [[llm]] use in an undergraduate engineering mechanics course (Spring 2026), responding to the lack of [[discipline-specific-aied|domain-specific]] empirical evidence for [[pedagogy|pedagogical]] policy in [[engineering-education|engineering education]].

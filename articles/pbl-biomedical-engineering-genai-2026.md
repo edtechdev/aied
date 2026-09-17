@@ -10,6 +10,7 @@ level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/pbl-biomedical-engineering-genai-2026.md']
 confidence: medium
+audience: [curriculum designers, instructors, medical educators]
 ---
 
 > **Synthesis:** This article presents a modularized, implementation-ready [[problem-based-learning|problem-based learning]] (PBL) framework tailored to biomedical AI, positioning [[generative-ai|generative AI]] (GenAI) as a guarded knowledge-summarization and coding-support module rather than an answer engine. A three-year case study (2021–2023) across Georgia Tech and Emory University engaged 248 students in interdisciplinary teams on real biomedical AI problems, with GenAI governed by disclosure, source-anchoring, verification, and version-logging policies. The framework reframes GenAI as a [[scaffolding|scaffold]] that accelerates baseline learning and frees students for higher-order [[critical-thinking|critical thinking]] and innovation. A portable replication package (syllabi, milestones, rubrics, team procedures, and AI-usage templates) accompanies the design for adoption under variable resources.

@@ -10,6 +10,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/llm-environmental-impact-student-usage-2026.md']
 confidence: high
+category: [evaluation, engagement, policy]
 ---
 
 > **Synthesis:** Large language models' carbon and water footprints raise important [[sustainability]] concerns, particularly with adoption rates exceeding 80% among university students despite limited insight into the environmental impacts of individual usage. Kim and colleagues design and deploy an eco-feedback interface that visualizes latency-carbon trade-offs during live [[llm]] interactions, studying its use with 89 undergraduate [[cs-education|computer science]] students in a computing [[ethics]] course. They find that the likelihood of choosing the eco-feedback system is significantly shaped by sustainability awareness, providing an empirical look at how a technically sophisticated and values-oriented user population responds to sustainability-aware AI interfaces.

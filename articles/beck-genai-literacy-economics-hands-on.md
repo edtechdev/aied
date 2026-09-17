@@ -10,6 +10,7 @@ level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/beck-genai-literacy-economics-hands-on.md']
 confidence: high
+discipline: [business education]
 ---
 
 > **Synthesis:** **A five-step, active-learning framework for building AI literacy in economics courses.** Beck & Brodersen (2025) present a hands-on approach in which students analyze real-world scenarios (song lyrics, news articles), generate ChatGPT responses to the same questions, and then critically evaluate the AI output against their own answers. The approach deepens economic concept understanding while fostering engagement, critical thinking, and [[ai-literacy]].

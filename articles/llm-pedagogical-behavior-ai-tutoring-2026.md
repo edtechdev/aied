@@ -5,11 +5,12 @@ updated: "2026-08-26T09:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, llm, scaffolding, student-ai-interaction, generative-ai, higher-ed, assessment]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [instrument development, educational measurement]
 level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/llm-pedagogical-behavior-ai-tutoring-2026.md']
 confidence: high
+discipline: [cs education]
 ---
 
 > **Synthesis:** Students increasingly use large language models as on-demand [[intelligent-tutoring|tutors]] for coursework and [[problem-solving|problem solving]], yet little is known about the level of assistance these models actually provide in authentic learning interactions. Lee and colleagues operationalize this dimension as a five-level [[scaffolding]] scale, validated against human annotations, that characterizes responses by the degree of direct assistance they offer. Applied to 14,637 [[llm]] responses from 203 students in a university AI course, responses are overwhelmingly concentrated at high levels of assistance, with more than 95% classified as either Explaining or Solving. Scaffolding level is systematically associated with students' subsequent conversational behavior but provides little additional predictive information about exam performance beyond prior achievement and dialogue behavior, offering an empirical baseline for evaluating alternative tutoring designs.

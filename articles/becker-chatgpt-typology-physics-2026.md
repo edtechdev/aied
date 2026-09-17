@@ -4,12 +4,13 @@ created: "2026-08-08T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [physics-education, student-experience, ai-literacy, higher-ed, stem-education, trust-calibration, rag, scaffolding, change-management]
-research_method: [survey, interviews]
+research_method: [survey, qualitative]
 discipline: [physics education, stem education]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/becker-chatgpt-typology-physics-2026.md']
 confidence: high
+category: [framework, policy]
 ---
 
 > **Synthesis:** Becker, Bauer, Schrader, Bitzenbauer & Veith (2026) analyze 1,189 survey responses from [[physics-education|physics]] students using [[qualitative-research|qualitative]] content analysis and latent class analysis, identifying two distinct user profiles: 70% are "Pragmatic Users" who use ChatGPT for [[scaffolding]] despite awareness of inaccuracies, and 30% are "Skeptical Non-Users" who avoid it over [[cognitive-offloading|overreliance]] concerns. Both groups make calculated risk-utility trade-offs — challenging one-size-fits-all [[educational-policy-ai|AI policies]] and calling for [[pedagogy|differentiated pedagogy]].

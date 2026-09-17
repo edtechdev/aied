@@ -10,6 +10,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/10.1016_j.ijme.2026.101394.md']
 confidence: high
+discipline: [business education]
 ---
 
 > **Synthesis:** Testa, Apuzzo, and Pittaway (2026) investigate how AI-related competencies contribute to career adaptability in business and [[business-education|management education]]. Surveying 339 university students in economics, management, and business programs in Italy, they employ a moderated mediation model examining the relationships among AI literacy, AI readiness, AI [[self-efficacy]], and career adapt-abilities. Findings show AI readiness mediates the relationship between AI literacy and career adapt-abilities — with the indirect effect varying across levels of AI self-efficacy — and that AI self-efficacy positively moderates the literacy–readiness link while also directly associating with career adapt-abilities. The study positions AI readiness as a central mechanism linking AI-related learning to career-relevant outcomes, arguing that AI literacy alone does not directly translate into career adaptability.

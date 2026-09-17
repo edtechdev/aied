@@ -11,6 +11,7 @@ category: [curriculum design]
 
 sources: ['raw/papers/zhao-learnlens-feedback-educators-loop.md']
 confidence: high
+level: [secondary]
 ---
 
 > **Synthesis:** **LearnLens is a modular, LLM-based system that generates personalized, curriculum-aligned feedback in science education by combining error-aware assessment, a topic-linked memory chain, and an educator-in-the-loop interface.** Zhao et al. (2025) report that this architecture produces high-quality scoring (MSE 3.19, 8–13% below any baseline) while keeping latency (~11.4s) and cost (\$0.0099/request) competitive, and that teachers rated it strongly for [[usability-research|usability]], curriculum relevance (4.4/5), and scientific accuracy (4.3/5).
