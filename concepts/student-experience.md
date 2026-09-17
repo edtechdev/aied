@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T02:43:50-04:00"
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, well-being]
 level: [higher ed, k 12]
@@ -43,10 +43,10 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 - **Positive:** AI can raise [[motivation]] and [[student-engagement|engagement]] by providing personalized, immediate, and low-stakes support — helping students persist and feel competent (see [[self-determination-theory|self-determination]] perspectives on autonomy, competence, and relatedness).
 - **Negative:** Knowing AI is available can reduce student effort and motivation to struggle productively ([[ai-availability-student-motivation|AI availability and motivation]], [[wang-safety-gap-productive-struggle-2026|the safety gap]]). Over-reliance can erode [[agency]] and the sense of accomplishment that comes from doing work oneself.
 
-### Affective and wellbeing impacts
+### Affective and well-being impacts
 
 - **Positive:** AI can offer low-pressure, on-demand help and reduce anxiety about asking questions, supporting [[well-being]] and confidence.
-- **Negative:** AI use is associated with [[ai-anxiety-and-stress|anxiety and stress]], including fears about being replaced, uncertain assessment, and the pressure to keep up. Studies such as [[kim-ai-anxiety-comprehensive-analysis|a comprehensive analysis of AI anxiety]] and [[aivaluate-anxiety-assessment-2026|AIvaluate]] document these affective costs. [[shame-guilt-ai-regulation-computing-education|Shame and guilt]] around AI use can drive hiding and selective disclosure, harming honest engagement and [[social-emotional-learning|social-emotional]] wellbeing.
+- **Negative:** AI use is associated with [[ai-anxiety-and-stress|anxiety and stress]], including fears about being replaced, uncertain assessment, and the pressure to keep up. Studies such as [[kim-ai-anxiety-comprehensive-analysis|a comprehensive analysis of AI anxiety]] and [[aivaluate-anxiety-assessment-2026|AIvaluate]] document these affective costs. [[shame-guilt-ai-regulation-computing-education|Shame and guilt]] around AI use can drive hiding and selective disclosure, harming honest engagement and [[social-emotional-learning|social-emotional]] well-being.
 
 ### Identity impacts
 
