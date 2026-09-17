@@ -3,7 +3,7 @@ title: "Factors Associated with Students' Adoption of Artificial Intelligence Te
 created: "2026-08-24T12:33:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-technology: [ai-technologies]
+technology: [ai-technologies, technology-acceptance-model]
 stakeholders: [student-experience]
 research_method: [meta-analysis]
 audience: [learners]
@@ -12,7 +12,7 @@ sources: ['raw/papers/teo-ai-adoption-tertiary-meta-analysis-2026.md']
 confidence: high
 page_kind: [synthesis, framework]
 methods: [meta-analysis-systematic-review]
-systems: [change-management, technology-acceptance-model]
+institutions: [change-management]
 ---
 
 > **Synthesis:** **In brief:** Teo, Scherer, Fung, and Fung meta-analyze 233 correlations from 32 studies (N = 16,977) to synthesize the factors shaping [[higher-ed|post-secondary]] students' adoption of AI. A three-level model yields moderate positive correlations for individual (r = 0.57), contextual (r = 0.53), and technological (r = 0.50) factors — no single category dominates — with usage intentions the strongest specific predictor (r = 0.64). The review argues the field over-relies on traditional technology acceptance models (TAM, UTAUT) and neglects AI-specific factors such as anthropomorphism and [[ethics]].

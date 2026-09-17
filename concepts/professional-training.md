@@ -8,7 +8,7 @@ technology: [generative-ai, llm, simulation]
 audience: [instructors, administrators, learners]
 level: [adult learning, higher ed]
 confidence: high
-systems: [lifelong-learning]
+stakeholders: [lifelong-learning]
 ---
 
 > **Workplace learning** — the use of AI for workforce development, corporate learning, and professional skill acquisition. Professional training extends [[ai-education|AI in education]] beyond formal schooling into workplace and [[lifelong-learning|lifelong learning]] contexts.

@@ -12,7 +12,7 @@ discipline: [stem education]
 audience: [administrators, instructors]
 level: [higher ed]
 confidence: medium
-systems: [administrator, educational-policy-ai]
+institutions: [administrator, educational-policy-ai]
 ---
 
 > **Administrators** — the institutional, leadership, and decision-making view of AI adoption, strategy, and governance in education. Administrators and institutional leaders shape whether and how AI is adopted — through policy, funding, infrastructure, and the strategic framing of AI's role — and must weigh competing concerns about learning, [[equity-in-ai-education|equity]], risk, and organizational capacity.

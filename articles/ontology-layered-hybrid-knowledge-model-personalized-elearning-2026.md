@@ -4,12 +4,11 @@ created: "2026-08-17T18:20:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [learning-design]
-technology: [adaptive-learning, intelligent-tutoring, knowledge-graph, learning-analytics, llm, personalized-learning, student-modeling]
+technology: [adaptive-learning, intelligent-tutoring, knowledge-graph, learning-analytics, llm, personalized-learning, student-modeling, edtech-platform]
 research_method: [theoretical analysis]
 confidence: medium
 audience: [software developers, instructional designers]
 sources: [raw/papers/ontology-layered-hybrid-knowledge-model-personalized-elearning-2026.md]
-systems: [edtech-platform]
 ---
 
 > **Synthesis:** **An ontology-based, layered hybrid knowledge model for personalized [[online-teaching-and-learning|e-learning]]** — a conceptual architecture paper by Tatyana Ivanova (2026) that classifies the knowledge required for personalization and proposes a layered knowledge-base architecture grounded in description logic. Its central move is replacing the classic ITS four-model architecture (domain, student, tutoring, interface) with **systems of mapped ontologies**, while adding procedural knowledge (rules), probabilistic/fuzzy knowledge (via fuzzy/probabilistic description-logic extensions), and implicit knowledge extracted through [[learning-analytics|learning analytics]] and [[reinforcement-learning|machine learning]]. Because ontologies alone are static and handle uncertainty poorly, the paper argues personalization requires combining them with [[teacher-role|teaching]]-strategy sequencing rules, analytics, and ML — and it contributes a metadata framework for describing, discovering, and **reusing** educational ontologies.

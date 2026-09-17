@@ -11,7 +11,7 @@ sources: ['raw/papers/kostopoulos-agentic-ai-education-2025.md']
 confidence: high
 audience: [researchers, educators, designers]
 level: [higher ed]
-systems: [governance]
+institutions: [governance]
 ---
 
 > **Synthesis:** This [[meta-analysis-systematic-review|narrative synthesis]] (2015–2025) of [[agentic-ai|agentic AI]] in education provides a definitional and conceptual scaffold for a fragmented field. It **operationalizes "agentic"** via a six-criterion checklist ([[agency|autonomy]], reasoning, memory, planning, goal-directed action, learning/adaptation) requiring at least four criteria to qualify — excluding reactive [[conversational-ai|chatbots]] — and organizes the space along three axes: **pedagogical role, autonomy level (reactive → adaptive → proactive → collaborative), and embodiment** (text-based, avatar/graphical, embodied/robotic). It reviews benefits ([[personalized-learning|personalization]], [[motivation]], [[teacher-role|teacher]] assistance) against challenges ([[cognitive-offloading|over-scaffolding]], opacity, [[bias-mitigation|bias]], equity) and charts future directions toward pedagogically-aware, interoperable, explainable, and ethically governed agents — arguing agentic AI should be a human-AI [[human-ai-collaboration|co-teaching]] partner, not a teacher replacement.

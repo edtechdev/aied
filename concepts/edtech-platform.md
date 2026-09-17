@@ -6,11 +6,10 @@ connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
 pedagogy: [online-teaching-and-learning]
-technology: [adaptive-learning, generative-ai, llm, personalized-learning]
+technology: [adaptive-learning, generative-ai, llm, personalized-learning, edtech-platform]
 ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
-systems: [edtech-platform]
 ---
 
 > **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and online learning environments through which AI is delivered to learners and educators. In AI in education, the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this knowledge base examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.([[access-not-enough-ai-tutoring-2026]])([[oatutor-open-source-adaptive-tutor-2023]])

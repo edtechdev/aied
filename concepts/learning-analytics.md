@@ -4,14 +4,13 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-17T14:07:13-04:00"
 type: concept
 pedagogy: [student-engagement]
-technology: [knowledge-tracing, student-modeling]
+technology: [knowledge-tracing, student-modeling, edtech-platform]
 assessment: [feedback, formative-assessment]
 ethics: [privacy]
 page_kind: [evaluation]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
-systems: [edtech-platform]
 ---
 
 > **Learning analytics** — the measurement, collection, analysis, and reporting of data about learners and their contexts for the purpose of understanding and optimizing learning. AI has transformed learning analytics from descriptive dashboards to predictive and prescriptive systems.

@@ -3,14 +3,13 @@ title: "Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framewor
 created: "2026-08-26T09:00:00-04:00"
 updated: "2026-08-26T09:00:00-04:00"
 type: article
-technology: [llm]
+technology: [llm, edtech-platform]
 assessment: [assessment, automated-assessment, feedback]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [writing education]
 sources: ['raw/papers/bandit-driven-llm-essay-scoring-2026.md']
 confidence: high
-systems: [edtech-platform]
 ---
 
 > **Synthesis:** Large language models demonstrate strong capability in [[automated-essay-scoring|automated essay scoring]], but contemporary approaches typically employ fixed prompt selection that fails to address operational cost concerns and evolving optimal configurations. Manakina and Bogdanov propose a cost-aware multi-armed bandit controller that treats each prompt type as an arm, enabling adaptive selection of optimal [[prompt-engineering|prompting]] strategies during inference. On IELTS Writing Task 2 essays, the framework achieves comparable scoring accuracy to exhaustive grid search while reducing [[llm]] calls by 78.4%. The multi-step assessment approach with calibration examples achieves the highest accuracy, and the work produces the first cost-reliability learning curves for essay scoring.

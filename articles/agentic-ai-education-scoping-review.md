@@ -5,14 +5,13 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy]
 pedagogy: [learning-theories, scaffolding]
-technology: [generative-ai, intelligent-tutoring, llm]
+technology: [generative-ai, intelligent-tutoring, llm, open-source]
 audience: [researchers, instructors]
 research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/agentic-ai-education-scoping-review-2026.md']
 confidence: high
 page_kind: [synthesis, framework]
-systems: [open-source]
 ---
 > **Synthesis:** This scoping [[meta-analysis-systematic-review|review]] systematically maps **474 studies** (January 2020 – May 2026) of [[generative-ai|generative-AI-powered]] [[agentic-ai|agentic AI]] in [[ai-education|education]], the most comprehensive synthesis of the field to date. Analyzing publication characteristics, study designs, agent roles, model architectures, six dimensions of agentic capability, and the extent of [[learning-theories|educational theory]] integration, it finds rapid post-2025 expansion concentrated in [[higher-ed|higher education]], [[stem-education|STEM]], and text-based [[intelligent-tutoring|tutoring]], but modest capability levels: systems rarely exhibit strong tool orchestration, embedded [[governance]], or persistent memory. The review exposes a disciplinary divide — only **138 of 474 studies (29%)** drew on educational theory — and converges on priorities of longitudinal validation, stronger [[pedagogy|pedagogical]] grounding, and more governed adoption of frontier agent infrastructures.
 

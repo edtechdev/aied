@@ -13,7 +13,7 @@ audience: [instructors, learners]
 level: [higher ed]
 sources: ['raw/papers/2607.22463.md']
 confidence: high
-systems: [regulation]
+institutions: [regulation]
 ---
 
 > **Synthesis:** This experience report introduces trio-ethnography — structured dialogue between two computing educators with differing [[teacher-role|teaching]] philosophies and one undergraduate CS student — as a method for surfacing how educators' interpretations of students' AI use evolve. The central finding is that much AI-supported learning is invisible from the classroom: across three conversations, the student's lived-experience narratives revealed learning processes that neither educator could infer from observable behavior, [[prompt-engineering|prompting]] both to revise assumptions about AI use, assessment design, and transparency in [[cs-education]].

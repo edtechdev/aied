@@ -8,7 +8,7 @@ foundations: [ai-literacy]
 assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
-systems: [educational-policy-ai, regulation]
+institutions: [educational-policy-ai, regulation]
 ---
 
 > **Academic integrity** — the ethical framework governing honest academic work in the age of AI. The knowledge base documents how the concept has been reframed by [[generative-ai|generative AI]]: from a problem of [[ai-detection|detecting dishonest output]] to a design problem of making honest work visible, verifiable, and worth producing. Academic integrity [[research-methods-aied|research]] in this space has evolved from detection-focused approaches toward fundamental assessment redesign, pedagogy-led governance, and [[ai-literacy|teaching students how to use AI well]] rather than merely policing whether they do.

@@ -6,7 +6,7 @@ type: article
 foundations: [teacher-role]
 technology: [llm]
 assessment: [educational-measurement]
-stakeholders: [teacher-ai-competency]
+stakeholders: [teacher-ai-competency, professional-training]
 research_method: [benchmark, educational measurement]
 audience: [instructors, software developers]
 level: [k 12, special education]
@@ -14,7 +14,6 @@ page_kind: [evaluation]
 sources: ['raw/papers/cdpk-pedagogy-benchmark-llms.md']
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
-systems: [professional-training]
 ---
 
 > **Synthesis:** Lelièvre et al. (2025) introduce **[The Pedagogy Benchmark](https://www.fab-ai.org/initiatives/ai-for-education/edtech-quality/benchmarks?benchmark=CDPK)**, two multiple-choice [[benchmark|benchmarks]] that evaluate [[llm|large language models]] on their understanding of *[[pedagogy|teaching]]* rather than content knowledge: **Cross-Domain Pedagogical Knowledge (CDPK)** and **[[special-education|Special Educational Needs & Disability]] (SEND)** pedagogy. Both are built on a curated set of questions from professional [[teacher-ai-competency|teacher-development]] exams by the Chilean Ministry of Education's Education Quality Agency and CP EIP, translated from Spanish. Across **97 models**, CDPK accuracy ranged from 28% (Llama-3.2 1B) to 89% (Gemini 2.5 Pro). The authors analyze accuracy vs. inference cost (the Pareto "value frontier") and vs. model size, charting rapid progress over 18 months, and provide online leaderboards for interactive exploration.

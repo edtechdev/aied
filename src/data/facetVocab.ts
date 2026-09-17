@@ -90,7 +90,7 @@ export const FACET_VOCAB = {
     'video-education',
     'well-being',
   ],
-  // Technology (31 concepts) — registry section: AI technologies and techniques
+  // Technologies and techniques (34 concepts) — registry section: Technologies and techniques
   technology: [
     'adaptive-learning',
     'affective-computing',
@@ -98,6 +98,7 @@ export const FACET_VOCAB = {
     'ai-technologies',
     'cognitive-diagnosis',
     'conversational-ai',
+    'edtech-platform',
     'educational-nlp',
     'educational-robotics',
     'generative-ai',
@@ -109,6 +110,7 @@ export const FACET_VOCAB = {
     'llm',
     'machine-learning',
     'multimodal',
+    'open-source',
     'pedagogical-agent',
     'pedagogical-llm-training',
     'personalized-learning',
@@ -120,6 +122,7 @@ export const FACET_VOCAB = {
     'simulation',
     'speech-and-voice-technologies',
     'student-modeling',
+    'technology-acceptance-model',
     'vibe-coding',
     'virtual-and-augmented-reality',
     'visualization',
@@ -163,31 +166,28 @@ export const FACET_VOCAB = {
     'research-methods-aied',
     'usability-research',
   ],
-  // People (10 concepts) — registry section: People
+  // People (12 concepts) — registry section: People
   stakeholders: [
     'ai-anxiety-and-stress',
     'career-development-and-readiness',
     'educational-technology-developers',
+    'lifelong-learning',
     'parents-and-families',
     'pedagogical-safety',
+    'professional-training',
     'samr-model',
     'stakeholders',
     'student-experience',
     'teacher-ai-competency',
     'tpack',
   ],
-  // Institutions and systems (10 concepts) — registry section: Institutions and systems
-  systems: [
+  // Institutions and policy (5 concepts) — registry section: Institutions and policy
+  institutions: [
     'administrator',
     'change-management',
-    'edtech-platform',
     'educational-policy-ai',
     'governance',
-    'lifelong-learning',
-    'open-source',
-    'professional-training',
     'regulation',
-    'technology-acceptance-model',
   ],
   // Ethics and equity (21 concepts) — registry section: Equity, ethics, and responsible use
   ethics: [
@@ -218,10 +218,10 @@ export const FACET_VOCAB = {
 export const FACET_FIELDS = [
   { field: 'foundations', label: 'Foundations' },
   { field: 'pedagogy', label: 'Pedagogy and learning' },
-  { field: 'technology', label: 'Technology' },
+  { field: 'technology', label: 'Technologies and techniques' },
   { field: 'assessment', label: 'Assessment and measurement' },
   { field: 'methods', label: 'Research methods' },
   { field: 'stakeholders', label: 'People' },
-  { field: 'systems', label: 'Institutions and systems' },
+  { field: 'institutions', label: 'Institutions and policy' },
   { field: 'ethics', label: 'Ethics and equity' },
 ] as const;

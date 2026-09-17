@@ -61,14 +61,14 @@ framework is not a page about frameworks, and that distinction is the reason the
 
 - `foundations` ← Foundations of AI in education
 - `pedagogy` ← Learning and instruction (pedagogies, learning theories, learner processes)
-- `technology` ← AI technologies and techniques
+- `technology` ← Technologies and techniques (rendered **Technologies and techniques**; includes platforms, openness and technology adoption)
 - `assessment` ← Assessment and measurement (assessment, feedback, measurement and validity)
 - `methods` ← Research methods and evaluation (research methods, benchmarks, evaluation of AI systems)
-- `stakeholders` ← People (learners, families, instructors, designers and developers)
-- `systems` ← Institutions and systems (policy, governance, regulation, platforms, open source)
+- `stakeholders` ← People (learners, families, instructors, designers and developers, plus lifelong and workplace learning - adults learning in society and employees learning at work)
+- `institutions` ← Institutions and policy (policy, governance, regulation, change management, administrators)
 - `ethics` ← Equity, ethics, and responsible use
 
-**Readership is not subject matter, and the labels say so.** `audience` (rendered **Intended audience**) is who the page is written for - a role vocabulary of instructors, learners, researchers, curriculum designers, software developers - and holds no concept slugs. `stakeholders` (**People**) and `systems` (**Institutions and systems**) are subject matter: the concepts of their registry sections that the page analyses, such as student experience, teacher AI competency, AI governance, regulation and the edtech platform. A page may carry all three, and many do.
+**Readership is not subject matter, and the labels say so.** `audience` (rendered **Intended audience**) is who the page is written for - a role vocabulary of instructors, learners, researchers, curriculum designers, software developers - and holds no concept slugs. `stakeholders` (**People**) and `institutions` (**Institutions and policy**) are subject matter: the concepts of their registry sections that the page analyses, such as student experience, teacher AI competency, AI governance and regulation. A page may carry all three, and many do.
 
 **Method is two questions, not one.** `research_method` (rendered **Study design**) is how the page's own study was carried out - survey, experiment, case study, system development - and is a phrase field. `methods` (**Research methods**) is the set of method and evaluation CONCEPTS the page connects to: randomised controlled trials, design-based research, qualitative and quantitative research, meta-analyses, benchmarks. The two are different granularities - this study versus the methods literature - which is why both exist and why their labels differ.
 

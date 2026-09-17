@@ -11,7 +11,8 @@ level: [higher ed]
 sources: ['raw/papers/2608.03584v1.md']
 confidence: high
 discipline: [business education]
-systems: [change-management, educational-policy-ai, professional-training, regulation]
+institutions: [change-management, educational-policy-ai, regulation]
+stakeholders: [professional-training]
 ---
 
 > **Synthesis:** This study analyzes AI policies across higher education institutions in 34 U.S. states, using NLP to uncover a clear divergence: university-level policies emphasize [[privacy|data security]] and risk mitigation, while school-level policies (when they exist) focus on pedagogical applications and tool usage. Relatively few business schools maintain distinct AI policies, creating [[discipline-specific-aied|misalignment with discipline-specific learning objectives]]. The findings highlight the challenges of institutional AI [[governance]] and the tension between centralized [[regulation|compliance-oriented policies]] and the need for discipline-specific pedagogical guidance.

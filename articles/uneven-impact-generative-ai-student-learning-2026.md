@@ -12,7 +12,7 @@ confidence: high
 research_method: [survey, quantitative]
 level: [higher ed]
 audience: [researchers, instructors, administrators]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** Surveying 118 students across 12 AI- and data-intensive courses at an R1 university, Manikonda and colleagues show that [[generative-ai|GenAI]]'s effect on learning is not a function of how *much* students use it but of *how* they rely on it. Clustering returned four profiles in which near-identical usage levels produced different benefits, and regression separated two constructs the literature usually collapses: [[cognitive-offloading|cognitive reliance]] (organizing, evaluating, decomposing problems) predicted positive impact, while *early reliance* — consulting GenAI before independent thought, traditional search, or an instructor — predicted both academic benefit and negative impact. The study's sharpest result is a moderation: the association between early reliance and negative impact grew *stronger* as [[ai-literacy|evaluation literacy]] rose, so students who judge AI output most skilfully reported the most harm from asking it first. Perceived [[educational-policy-ai|instructor policy]] and access conditions (premium versus free, single versus multiple tools) sorted the sample further, leading the authors to argue that institutions need policies that clarify appropriate use and equalize access rather than rules that simply permit or forbid.

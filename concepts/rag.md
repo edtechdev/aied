@@ -3,11 +3,10 @@ title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-15T11:40:00-04:00"
 type: concept
-technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, pedagogical-llm-training]
+technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, pedagogical-llm-training, edtech-platform]
 stakeholders: [pedagogical-safety]
 ethics: [hallucination-risk]
 confidence: high
-systems: [edtech-platform]
 ---
 
 > **RAG (Retrieval-Augmented Generation)** — an AI architecture that combines information retrieval with text generation, allowing [[llm|LLMs]] to ground responses in external knowledge sources rather than relying solely on training data. In education, RAG addresses hallucination, enables [[curriculum-design|curriculum]]-grounded tutoring, and powers domain-specific [[intelligent-tutoring|AI tutors]].

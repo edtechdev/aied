@@ -14,7 +14,7 @@ source_url: 'https://scale.stanford.edu/'
 confidence: high
 audience: [policymakers, administrators]
 page_kind: [synthesis]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** **AI tutoring is not a monolith** — a Stanford SCALE / National Student Support Accelerator (NSSA) policy brief (August 2026) mapping AI tutoring models along a "relational intensity" spectrum and weighing them against the evidence base for high-impact tutoring. The brief's core message: high-impact tutoring remains defined by live human-led instruction with strong student-tutor relationships; AI is best used to *enhance tutor effectiveness and educator capacity*, not to replace human-led high-impact tutoring. AI-led software offers potential for supplemental practice but does not yet meet the evidence base or definition of high-impact tutoring — and its effectiveness depends as much on integration (teachers in classrooms, parents at home) as on software quality.

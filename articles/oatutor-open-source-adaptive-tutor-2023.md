@@ -3,7 +3,7 @@ title: "OATutor: An Open-source Adaptive Tutoring System and Curated Content Lib
 created: "2026-08-12T21:26:01-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, personalized-learning]
+technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, personalized-learning, edtech-platform, open-source]
 audience: [software developers]
 research_method: [system development]
 discipline: [math education]
@@ -12,7 +12,6 @@ level: [higher ed]
 sources: ['raw/papers/oatutor-open-source-adaptive-tutor-2023.md']
 confidence: high
 page_kind: [evaluation]
-systems: [edtech-platform, open-source]
 ---
 
 > **Synthesis:** OATutor (Open Adaptive Tutor) is the first open-source adaptive tutoring system built on Intelligent Tutoring System (ITS) principles, developed at UC Berkeley's CAHL Lab. It combines an MIT-licensed, fully engineered codebase with a Creative Commons (CC BY) algebra content library, knowledge tracing, A/B testing infrastructure, and LTI support — designed to democratize adaptive learning research by removing the barrier to replicating and extending experiments that proprietary platforms create.

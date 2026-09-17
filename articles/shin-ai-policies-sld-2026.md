@@ -10,7 +10,7 @@ level: [special education]
 sources: ['raw/papers/shin-ai-policies-sld-2026.md']
 confidence: high
 audience: [policymakers, administrators, teacher educators]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** Shin et al. (2026) identify the current state of AI policies in U.S. education for students with specific learning disabilities (SLD) and propose actionable policy recommendations. Combining [[llm]]-based topic modeling (structural topic modeling + Sentence-BERT embeddings) with two rounds of Delphi surveys of 17 experts, they analyze 12 U.S. AI-in-education policy documents (2015–2025) — finding that only 2 of 12 specifically address learning disabilities and that 18 policy topics present in other-disability or general AI policy (risk assessment, data protection, legal risk management, ethical guidelines, higher-education AI) are missing from SLD policy. The study produces 36 validated policy items across five themes — inclusive and [[personalized-learning]], ethics/equity/inclusion, student empowerment and AI literacy, assessment and [[research-methods-aied|research]], and educator preparation — with **student empowerment and AI literacy** ranked the most essential by experts. Grounded in the U.S. Assistive Technology Act (2004) and IDEA (2004), the paper frames AI as both assistive technology and a source of FAPE-related, privacy, equity, and accessibility risks, calling for AI policies that are evidence-based, [[accessibility|accessible]], and inclusive of [[neurodiversity|neurodiverse]] and [[multilingual-learning|multilingual]] learners.

@@ -9,7 +9,7 @@ ethics: [ethics]
 level: [higher ed, k 12, teacher training]
 
 confidence: high
-systems: [educational-policy-ai, governance]
+institutions: [educational-policy-ai, governance]
 ---
 > **Sustainability** — the intersection of two concerns: how AI can be used *for* sustainability outcomes in education (AI for sustainability, including Education for Sustainable Development and green education), and how to make AI itself *sustainable* (sustainable AI, reducing the environmental, ethical, and social footprint of AI systems in education). As both users and developers of AI, educational institutions must advance environmental and social goals while ensuring responsible, ethical AI use.
 

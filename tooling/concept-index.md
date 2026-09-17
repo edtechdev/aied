@@ -96,7 +96,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`student-engagement`** — Student Engagement — phrases: behavioral engagement; engagement; engagement indicators; engagement measurement; engagement metrics; learner engagement; student engagement
 - **`well-being`** — Well-Being — phrases: mental health; student wellbeing; well being; well-being; wellbeing
 
-## AI technologies and techniques
+## Technologies and techniques
 
 ### Models and techniques
 
@@ -134,6 +134,12 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`recommender-systems-and-learning-paths`** — Recommender Systems and Learning Paths — phrases: course sequencing; curriculum sequencing; learning path; learning paths; learning pathways; prerequisite relations; recommendation engine; recommender system; recommender systems
 - **`simulating-students`** — Simulating Students — phrases: AI students; simulate learners; simulated learners; simulated students; simulating students; student simulation; synthetic students
 - **`student-modeling`** — Learner Modeling and Adaptive Instruction — phrases: learner model; learner modeling; learner modeling and adaptive instruction; student model; student modeling
+
+### Platforms, openness and adoption
+
+- **`edtech-platform`** — Edtech Platform — phrases: edtech; edtech platform; educational platform; learning management system; learning platform; lms; platform
+- **`open-source`** — Open Source — phrases: oer; oers; open content; open courseware; open education; open educational resources; open models; open pedagogy; open source; open textbook; open textbooks; open weights; open-source; OSS
+- **`technology-acceptance-model`** — Technology Adoption Models — phrases: adoption model; diffusion of innovation; perceived ease of use; perceived usefulness; TAM; technology acceptance; technology acceptance model; technology adoption; technology adoption model; technology organisation environment; theory of planned behavior; utaut
 
 ## AI in the disciplines
 
@@ -246,7 +252,12 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 - **`educational-technology-developers`** — Educational Technology Developers — phrases: edtech designers; edtech developers; educational software developers; edtech companies
 
-## Institutions and systems
+### Lifelong and workplace learning
+
+- **`lifelong-learning`** — Lifelong Learning — phrases: continuous learning; life-long learning; lifelong learning; lifelong learning and AI; upskilling
+- **`professional-training`** — Workplace Learning — phrases: professional education; professional training; reskilling; vocational training; workforce development
+
+## Institutions and policy
 
 ### Institutions
 
@@ -255,14 +266,6 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`educational-policy-ai`** — Educational AI Policy — phrases: AI in education policy; ai policies; ai policy; education policy; educational AI policy; educational policy; genai policy; institutional policy; policy; policy for AI
 - **`governance`** — AI Governance — phrases: AI governance; governance; governance framework; institutional
 - **`regulation`** — AI Regulation in Education — phrases: AI regulation; regulation; regulatory; regulatory framework
-
-### Systems and infrastructure
-
-- **`edtech-platform`** — Edtech Platform — phrases: edtech; edtech platform; educational platform; learning management system; learning platform; lms; platform
-- **`lifelong-learning`** — Lifelong Learning — phrases: continuous learning; life-long learning; lifelong learning; lifelong learning and AI; upskilling
-- **`open-source`** — Open Source — phrases: oer; oers; open content; open courseware; open education; open educational resources; open models; open pedagogy; open source; open textbook; open textbooks; open weights; open-source; OSS
-- **`professional-training`** — Workplace Learning — phrases: professional education; professional training; reskilling; vocational training; workforce development
-- **`technology-acceptance-model`** — Technology Adoption Models — phrases: adoption model; diffusion of innovation; perceived ease of use; perceived usefulness; TAM; technology acceptance; technology acceptance model; technology adoption; technology adoption model; technology organisation environment; theory of planned behavior; utaut
 
 ## Equity, ethics, and responsible use
 

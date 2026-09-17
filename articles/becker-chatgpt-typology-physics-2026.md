@@ -15,7 +15,7 @@ level: [higher ed]
 sources: ['raw/papers/becker-chatgpt-typology-physics-2026.md']
 confidence: high
 page_kind: [framework]
-systems: [change-management]
+institutions: [change-management]
 ---
 
 > **Synthesis:** Becker, Bauer, Schrader, Bitzenbauer & Veith (2026) analyze 1,189 survey responses from [[physics-education|physics]] students using [[qualitative-research|qualitative]] content analysis and latent class analysis, identifying two distinct user profiles: 70% are "Pragmatic Users" who use ChatGPT for [[scaffolding]] despite awareness of inaccuracies, and 30% are "Skeptical Non-Users" who avoid it over [[cognitive-offloading|overreliance]] concerns. Both groups make calculated risk-utility trade-offs — challenging one-size-fits-all [[educational-policy-ai|AI policies]] and calling for [[pedagogy|differentiated pedagogy]].

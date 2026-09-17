@@ -10,7 +10,7 @@ level: [higher ed]
 sources: ['raw/papers/learnity-graphs-lifelong-learning-framework-2026.md']
 confidence: high
 audience: [curriculum designers, administrators, learning designers]
-systems: [lifelong-learning]
+stakeholders: [lifelong-learning]
 ---
 
 > **Synthesis:** Szekely, Gal-Ezer & Harel (2026) argue that AI-mediated knowledge access warrants rethinking fixed higher-education curricula, proposing "learnity graphs" — structured representations of learning as interconnected units of knowledge, skills, experience, and artifacts — as a lifelong-learning framework that integrates academic, professional, and personal learning.

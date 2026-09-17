@@ -12,7 +12,7 @@ level: [higher ed]
 sources: ['raw/papers/fekete-ethical-ai-literacy-gaps-2026.md']
 confidence: medium
 page_kind: [framework]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** Fekete (2026) synthesizes two European questionnaire studies — one with students (n = 226) and one with instructors (n = 256) — that used parallel five-point scales to measure [[ai-literacy]], motivation, [[ethics]], intention, and [[governance|institutional]] support in [[higher-ed]]. Independent-samples t-tests revealed significant group differences: students rated their [[ethics|ethical awareness]] higher than instructors, while instructors reported stronger willingness to experiment with [[generative-ai]] tools and higher behavioral intention — in part because students view [[ethics]] through their immediate coursework practices, whereas teachers interpret it through a lack of institutional clarity and treat it as a question of integrity. Cluster analysis of instructors identified three user groups differing across literacy dimensions, with the [[ethics]] scale providing the clearest distinction, and correlation analyses showed that instructors' moral awareness grows with institutional and social support while students' confidence and readiness correlate mostly with [[self-efficacy]] and collaboration rather than formal instruction.

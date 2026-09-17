@@ -4,14 +4,13 @@ created: "2026-07-28T10:44:35-04:00"
 updated: "2026-09-17T15:42:00-04:00"
 type: concept
 foundations: [agentic-ai, ai-education, curriculum-design]
-technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, edtech-platform, open-source]
 assessment: [automated-assessment]
 ethics: [privacy]
 audience: [software developers, instructors, administrators, researchers]
 discipline: [stem education, writing education]
 confidence: medium
 methods: [benchmark]
-systems: [edtech-platform, open-source]
 ---
 
 > **Open Source** — the use of openly licensed *models, code, data, and content* in [[ai-education|AI in education]]. Openness is the knowledge base's main counterweight to vendor lock-in and [[privacy|data exposure]]: open-weight models can run on campus hardware to satisfy FERPA, GDPR, and EU AI Act obligations, openly licensed corpora can be indexed and fine-tuned without publisher permission, and open benchmark and dataset releases make [[research-methods-aied|research]] replicable. The burdens are equally real: infrastructure and [[pedagogical-safety|safety]] assurance, maintenance that outlives the grant, and quality that openness does not by itself guarantee.

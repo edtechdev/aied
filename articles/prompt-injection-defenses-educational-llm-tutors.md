@@ -11,7 +11,7 @@ audience: [learners, software developers]
 sources: ['raw/papers/2605.06669.md']
 confidence: medium
 page_kind: [evaluation, framework]
-systems: [regulation]
+institutions: [regulation]
 ---
 
 > **Synthesis:** This paper addresses a fundamental tension in educational LLM deployment: tutors must be both **secure** (resist prompt injection attacks) and **usable** (not block legitimate educational interactions). The author presents a systematic evaluation methodology using a **480-query benchmark** (369 injection, 111 benign) with statistically rigorous comparison.

@@ -4,14 +4,14 @@ created: "2026-05-22T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [agentic-ai]
-technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, edtech-platform]
 research_method: [literature review]
 level: [higher ed]
 sources: ['raw/papers/2605.21962.md']
 confidence: medium
 audience: [instructional designers, researchers]
 page_kind: [synthesis]
-systems: [edtech-platform, professional-training]
+stakeholders: [professional-training]
 ---
 
 > **Synthesis:** [[game-based-learning|Serious games]] are widely used for learning and training across domains such as healthcare, defense, and education. This chapter examines how contemporary AI approaches may support real-time instructional adaptation in serious games.

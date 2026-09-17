@@ -12,7 +12,7 @@ level: [higher ed]
 sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
 confidence: high
 page_kind: [framework]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** The framework rests on three interconnected anchors that must be addressed *before* selecting tools:

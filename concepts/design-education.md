@@ -11,7 +11,7 @@ discipline: [design education]
 audience: [educators, designers, curriculum designers, faculty development]
 level: [higher ed]
 confidence: high
-systems: [professional-training]
+stakeholders: [professional-training]
 ---
 
 > **Design Education** — the professional formation of designers in studio-based disciplines: product, service, interaction, interior and architectural design, taught through iterative project work in which the assessed object is the process behind an artifact as much as the artifact itself. Its distinguishing features are the studio and the critique as the site of learning, visible process evidence (sketches, intermediate models, iterations) as the primary indicator of learning, and the fact that [[generative-ai]] now makes the polished output students are graded on cheap to produce. That makes design education a test case for [[creativity]], [[design-thinking]], [[assessment-validity]] and [[professional-training]].

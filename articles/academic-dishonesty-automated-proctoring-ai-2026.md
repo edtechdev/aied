@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/academic-dishonesty-automated-proctoring-ai-2026.md']
 confidence: high
 audience: [administrators, assessment professionals]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** Malhotra & Chhabra (2026) comprehensively review the landscape of [[academic-integrity|academic dishonesty]] across conventional, online, automated, and AI-based proctoring systems, catalyzed by COVID-19's shift to remote exams. They trace the transition from offline invigilation to online and AI/ML proctoring, document the cheating methods AI systems must counter (identity spoofing, browser/device use, copy-paste), and identify the practical, infrastructure, and psychological challenges — anxiety, lack of proficiency, cost, and connectivity — that shape proctoring adoption and effectiveness.

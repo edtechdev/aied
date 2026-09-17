@@ -11,7 +11,7 @@ audience: [faculty development, instructors, administrators]
 level: [higher ed]
 sources: ['raw/papers/crompton-faculty-technology-integration-standards-2026.md']
 confidence: high
-systems: [administrator]
+institutions: [administrator]
 ---
 
 > **Synthesis:** Crompton, Burke, and Nickel (2026) use [[design-based-research|design-based research]] across two iterative macro cycles and 114 participants to develop a framework of six faculty technology standards covering the full teaching/research/service scope of [[higher-ed|higher education]] work: Instructor, Coordinator, Leader, Researcher, Learner, and Contributor. Each standard is paired with practical indicators for effective, [[ethics|ethical]], and contextually relevant technology use. The study addresses a genuine gap — existing frameworks ([[tpack]], RAT, SAMR, SETI) and standards (ISTE, UNESCO, DigCompEdu) target [[k-12]] educators or only the teaching portion of faculty roles. The standards are meant to guide faculty development, inform institutional planning, and align with accreditation.

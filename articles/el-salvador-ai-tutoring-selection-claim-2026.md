@@ -13,7 +13,7 @@ level: [secondary]
 audience: [policymakers, researchers, assessment professionals]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** When the World Bank reported in September 2026 that students in 171 Salvadoran public schools using AI tutors scored at levels comparable to Germany and Sweden, the authors of this paper declined the obvious question — does the tutor work? — and asked a prior one: how much student selection would be needed to produce that result with *no* learning at all. Working only from published PISA 2025 figures, they identify the dispersion of the Salvadoran achievement distribution from the mean and the level-2 share, then compute the top fraction of that distribution whose mean equals the [[benchmark]]: 5.5% in [[math-education|mathematics]], 11.7% in science and 17.2% in reading against the German averages. Because the pilot assessment tested 7.0 students per school against 25.4 in the national survey, that much selection is not implausible, and the published evidence therefore cannot distinguish a genuine effect from a selected sample. The paper's constructive contribution is a six-item reporting standard — baseline, sampling protocol, disaggregated scores, component exposure, overlap with the representative survey, and the qualification in the same unit as the claim — for the growing practice of using school-level [[assessment-validity|assessment]] as system-level [[educational-policy-ai|policy evidence]].

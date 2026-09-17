@@ -12,7 +12,7 @@ audience: [faculty development]
 sources: ['raw/papers/2605.09680.md']
 confidence: high
 level: [higher ed]
-systems: [regulation]
+institutions: [regulation]
 ---
 
 > **Synthesis:** This study examines the disconnect between **ethics education** and real-world decision-making among 129 [[cs-education|computer science]] students and recent graduates during their job searches. Despite receiving contemporary CS ethics education, most students prioritize compensation, location, and workplace culture over [[ethics|ethical]] and social concerns when choosing employers.

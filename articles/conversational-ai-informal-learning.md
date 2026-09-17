@@ -4,13 +4,12 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 technology: [generative-ai, llm]
-stakeholders: [student-experience]
+stakeholders: [student-experience, lifelong-learning]
 research_method: [survey]
 audience: [learners]
 sources: ['raw/papers/caeai-conversational-ai-informal.md']
 confidence: medium
 level: [adult learning]
-systems: [lifelong-learning]
 ---
 
 > **Synthesis:** [[conversational-ai|Conversational AI]] as a catalyst for informal learning: An empirical large-scale study on [[llm]] use in everyday learning

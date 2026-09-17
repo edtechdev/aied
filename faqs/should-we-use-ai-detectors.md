@@ -7,7 +7,7 @@ foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
 ethics: [equity-in-ai-education, trust]
 level: [higher ed]
-systems: [educational-policy-ai, governance]
+institutions: [educational-policy-ai, governance]
 ---
 
 # Should We Use AI Detectors?
