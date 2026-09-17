@@ -8,6 +8,8 @@ research_method: [mixed methods, qualitative]
 level: [higher ed]
 sources: ['raw/papers/cui-motivation-roles-metacognitive-genai-2026.md']
 confidence: high
+audience: [instructors, instructional designers, learning designers]
+category: [engagement, instructional design]
 ---
 
 > **Synthesis:** This [[qualitative-research|qualitative]] study analyzes 120 authentic [[student-ai-interaction|student-GenAI interaction]] logs and retrospective interviews from 24 Chinese undergraduates to examine how [[motivation|motivational orientations]] and perceived GenAI roles shape [[metacognition|metacognitive engagement]]. Using [[network-analysis|epistemic network]] and lag sequential analysis, the authors find that intrinsically motivated students predominantly positioned GenAI as an [[teacher-role|instructor]] or collaborator, while extrinsically motivated students treated it as a replacement tool. Intrinsic motivation and collaborator framing were associated with higher-order metacognitive [[student-engagement|engagement]] (evaluation, elaboration) and a complete metacognitive chain, whereas replacement-tool use produced no higher-order metacognitive connections. The authors conclude that the metacognitive consequences of [[generative-ai|GenAI]] use are conditioned by motivation and role perception rather than inherent to the technology.

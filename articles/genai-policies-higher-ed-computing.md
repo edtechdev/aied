@@ -6,10 +6,12 @@ type: article
 tags: [generative-ai, higher-ed, educational-policy-ai, ai-literacy, equity-in-ai-education, change-management, governance, llm]
 connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 audience: [administrators]
-research_method: [interviews]
+research_method: [secondary analysis, policy analysis]
 level: [higher ed]
 sources: ['raw/papers/2607.12296.md']
 confidence: medium
+discipline: [cs education]
+category: [policy, curriculum design]
 
 ---
 

@@ -6,9 +6,11 @@ type: article
 tags: [teacher-education, adult-learning, tpack, ai-literacy, ethics]
 connected_faqs: [faculty-development-ai]
 audience: [instructors, faculty development]
-research_method: [system development, theoretical analysis]
+research_method: [theoretical analysis, literature review]
 sources: ['raw/papers/designing-ai-professional-development-itpack-2026.md']
 confidence: high
+level: [teacher training]
+category: [framework, instructional design]
 ---
 
 > **Synthesis:** Dogan (2026) employs a Conceptual Framework Development (CFD) model, conducted in four phases, to construct the Intelligent-[[tpack|Technological Pedagogical Content Knowledge]]-based [[teacher-education]] (i-TPACK-based PD) Framework. This research-informed, integrated model aligns the five knowledge domains of i-TPACK (i-TK, i-TCK, i-TPK, i-TPACK, and AI [[ethics]]) with four evidence-based AI PD pathways — [[active-learning]], use of models and examples, coaching and expert support, and [[feedback]] and reflection — drawn from the Integrated Pathways for Teacher Growth model. Grounded in an evidence base that spans a PRISMA [[meta-analysis-systematic-review|systematic review]] of AI PD, two additional systematic reviews, and searches of Scopus, ERIC, and Web of Science (May 2024–May 2025), the framework interweaves these domains and pathways to foster teachers' AI-specific [[pedagogy|pedagogical]] reasoning, technological fluency, content-based applications, and ethical decision-making, offering a detailed domain-to-pathway mapping, a sample scenario, and design principles for PD developers while critically addressing limitations related to program duration, delivery format, outcome evaluation, and ethical integration.

@@ -8,6 +8,7 @@ research_method: [design-based research, survey]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
+category: [instructional design, framework]
 sources: ['raw/papers/2606.07544.md']
 ---
 

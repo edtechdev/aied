@@ -8,6 +8,8 @@ research_method: [theoretical analysis, case study]
 level: [higher ed]
 sources: ['raw/papers/raffaghelli-situated-ai-ethics-2026.md']
 confidence: high
+audience: [policymakers, teacher educators]
+category: [framework, policy, equity]
 ---
 
 > **Synthesis:** Raffaghelli, Vartiainen, Bower, Ronci, Shelton, MacCallum, Lee, Webb, Chtouki & Smith (2026) propose a **[[situated-learning|situated]] AI ethics** framework for education that fuses Bronfenbrenner's ecological systems theory with Cultural-Historical [[activity-theory-aied|Activity Theory]] (CHAT). Moving beyond universalist, principle-based ethics, they frame AI as a non-neutral socio-technical assemblage whose ethical implications are historically produced and locally negotiated. Applied as a critical-ecological activity model across five ecological levels (self, classroom/group, state/geopolitical, cultural norms, global), the framework is used to comparatively analyze seven national cases (Australia, Finland, England, France, Italy, New Zealand, South Korea). The analysis finds teachers are routinely positioned as moral gatekeepers of AI use while lacking structural, [[governance|institutional]], and epistemic support, and argues that ethical AI [[student-engagement|engagement]] requires context-sensitive, collective, and transformative agency that extends [[ai-education|AI literacy]] beyond technical skills toward critical, political, and ecological forms of action.

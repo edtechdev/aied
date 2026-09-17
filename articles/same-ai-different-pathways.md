@@ -9,6 +9,8 @@ research_method: [mixed methods]
 level: [higher ed]
 sources: ['raw/papers/caeai-same-ai-different-pathways.md']
 confidence: medium
+discipline: [design education, business education]
+category: [instructional design, assessment]
 ---
 
 > **Synthesis:** Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts

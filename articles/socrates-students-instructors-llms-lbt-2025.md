@@ -4,11 +4,14 @@ created: "2026-08-14T10:45:34-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [learning-by-teaching, intelligent-tutoring, generative-ai, cs-education, active-learning, cognitive-offloading, llm]
-research_method: [experiment]
+research_method: [quasi-experiment]
 discipline: [cs education]
 
 sources: ['raw/papers/raw-yang-socrates-lbt.md']
 confidence: high
+audience: [instructors, educators]
+level: [higher ed]
+category: [instructional design, framework]
 ---
 
 > **Synthesis:** Yang, Pujara, and Li (2025) present a [[pedagogy|pedagogical]] paradigm that **inverts the virtual-tutor model**: instead of an [[llm|LLM]] tutoring students, students act as instructors who must teach an LLM to solve problems. They develop strategies for designing questions with engineered knowledge gaps that only a student can bridge, and introduce **Socrates**, a system deploying this method with minimal overhead. Evaluated in an undergraduate course, the approach led to statistically significant improvements in student performance compared to historical cohorts.

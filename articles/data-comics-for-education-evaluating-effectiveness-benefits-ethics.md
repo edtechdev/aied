@@ -6,9 +6,10 @@ type: article
 tags: [generative-ai, k-12, active-learning, ai-literacy, llm, automated-assessment, scaffolding, learning-analytics, formative-assessment, visualization]
 audience: [instructors, learners]
 research_method: [experiment]
-level: [k 12]
+level: [higher ed]
 sources: ['raw/papers/2607.02361.md']
 confidence: high
+category: [engagement, evaluation]
 ---
 
 > **Synthesis:** Data comics combine sequential visual narratives with data [[visualization]] to improve [[student-engagement|student engagement]] with [[generative-ai]] in educational settings. This paper evaluates the effectiveness of AI-assisted creation of data comics, finding that they significantly enhance student engagement and comprehension compared to traditional visualization formats. The study also examines [[ethics|ethical]] dimensions including authorship attribution of AI-produced content, accuracy of generated visuals, and the risk of misleading representations. These findings have direct implications for [[k-12]] education, where [[active-learning]] approaches benefit from engaging visual materials.

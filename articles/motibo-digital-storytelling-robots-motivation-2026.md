@@ -4,10 +4,12 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [educational-robotics, storytelling-in-education, motivation, self-determination-theory, student-engagement, creativity]
-research_method: [experiment]
+research_method: [quasi-experiment]
 category: [engagement]
 sources: ['raw/papers/fung-motibo-storytelling-robots-motivation-2026.md']
 confidence: medium
+audience: [educators, teachers]
+level: [k 12]
 ---
 > **Synthesis:** Fung and Lui (2026) examine the impact of MotiBo, an interactive digital storytelling system incorporating a human-like robot, on student engagement and creativity. Recognizing that storytelling can enhance motivation and engagement but that conventional methods often lack interactive elements, the study compares engagement across three modalities: paper-based, PowerPoint, and robot-assisted (MotiBo) storytelling. Using a quasi-experimental design with three groups of students over a five-day learning period, the study finds that students using MotiBo exhibit statistically significant improvements in behavioral and cognitive engagement compared with traditional methods.
 ## Key Findings

@@ -9,6 +9,7 @@ audience: [faculty development]
 level: [higher ed]
 sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
 confidence: high
+category: [framework]
 ---
 
 > **Synthesis:** The framework rests on three interconnected anchors that must be addressed *before* selecting tools:

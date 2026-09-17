@@ -10,6 +10,8 @@ level: [higher ed]
 
 sources: ['raw/papers/2605.19043.md']
 confidence: high
+audience: [researchers, assessment designers, instructors]
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** Automated grading systems have enabled scalable assessment for many response types, but handwritten [[math-education|mathematics]] remains a barrier due to the complexity of multi-step solutions. Vision-capable [[llm|large language models (LLMs)]] offer new opportunities here, yet their reliability in authentic instructional settings remains poorly understood.

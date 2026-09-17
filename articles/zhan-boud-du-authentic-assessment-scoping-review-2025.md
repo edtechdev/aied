@@ -9,6 +9,7 @@ level: [higher ed]
 category: [evaluation, assessment]
 sources: ['raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md']
 confidence: high
+audience: [assessment designers, instructors, curriculum designers]
 ---
 
 > **Synthesis:** Wiggins (1990) proposed AA as a counterbalance to standardized tests: direct examination of "student performance on worthy intellectual tasks."

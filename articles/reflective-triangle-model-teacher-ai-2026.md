@@ -8,6 +8,8 @@ research_method: [case study]
 audience: [instructors, faculty development]
 sources: ['raw/papers/reflective-triangle-model-teacher-ai-2026.md']
 confidence: high
+level: [teacher training]
+category: [framework, collaborative learning]
 ---
 
 > **Synthesis:** This practice-based study, presented at the Vietnam Deeper Learning Conference 2026 and authored by a doctoral candidate at TU Dresden who is also a standing member of the Olympia Schools academic board, proposes the **Reflective Triangle Model** as a way to connect individual [[metacognition|teacher reflection]] to shared professional knowledge inside learning communities. AI is framed as a **cognitive mediator** — a [[cognitive-offloading|cognitive tool]] that surfaces evidence, prompts inquiry, and enables dialogue — rather than as an evaluator that judges teaching. The model integrates three interacting dimensions — [[metacognition|self-reflection]], [[collaborative-learning|collaborative reflection]], and community reflection within a Professional Learning Community (PLC) — with AI mediating across all three levels. It is tested through a four-week illustrative case (N = 6 teachers at one school) aimed at feasibility rather than generalization, positioning AI as a supportive instrument for [[teacher-ai-competency|teacher AI competency]] and [[professional-training|professional learning]] while preserving human [[teacher-role|professional judgment]] and [[agency]].

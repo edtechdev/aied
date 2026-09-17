@@ -8,6 +8,7 @@ research_method: [benchmark]
 audience: [learners, software developers]
 sources: ['raw/papers/interactive-online-learning-ai-2025.md']
 confidence: medium
+category: [evaluation]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

@@ -9,6 +9,8 @@ level: [higher ed]
 sources: ['raw/papers/lim-bannert-student-regulation-genai-chatbot-2026.md']
 source_url: 'https://doi.org/10.20851/ll.v8.61'
 confidence: high
+audience: [instructional designers, educators]
+category: [instructional design, engagement]
 ---
 
 > **How do students regulate their learning with a [[generative-ai|genAI]] [[conversational-ai|chatbot]]?** — an exploratory trace-based study of 30 university students who read texts and wrote an essay with an integrated ChatGPT chatbot. Most students (73%) voluntarily used the chatbot, mainly for seeking information, and chatbot users achieved higher essay scores than non-users — but [[qualitative-research|qualitative]] evidence showed students offloading comprehension and synthesis to the chatbot, outsourcing key regulatory decisions.

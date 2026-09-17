@@ -9,6 +9,7 @@ level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/caeai-genai-mindtool.md']
 confidence: medium
+audience: [instructional designers, faculty development, educators]
 ---
 
 > **Synthesis:** Dabbagh & Fake (2026) argue that [[generative-ai|Generative AI]] is best used not as an answer machine that students learn *from*, but as a *mindtool* — a [[learning-theories|knowledge-representation]] tool that students learn *with* — to support generative learning (GL), the theory (originating with Wittrock, 1974) that learners learn by actively generating and connecting new knowledge rather than passively receiving it. Grounding their argument in eight evidence-based generative learning strategies (Fiorella & Mayer, 2015) and three supporting empirical strands (including Makransky et al.'s 2025 ChatTutor experiments), they enumerate eight pedagogical roles GenAI can play, from [[socratic-method|Socratic]] opponent to [[metacognition|dynamic assessor]], and propose the five-phase **AI-Augmented Generative Learning Design (A2-GLD)** framework plus an [[agentic-ai|agentic]] workflow for designing generative learning activities. The paper positions GL as the "[[philosophy-of-ai-in-education|philosophical]] vision" and GenAI as the human-centered technology for learning with, not from — a counterweight to the answer-generating uses that dominate current student practice.

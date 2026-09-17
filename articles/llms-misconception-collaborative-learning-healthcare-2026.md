@@ -8,6 +8,9 @@ research_method: [theoretical analysis]
 discipline: [medical education]
 sources: ['raw/papers/10.2196_81875.md']
 confidence: high
+audience: [medical educators, educators]
+level: [higher ed]
+category: [collaborative learning, instructional design]
 ---
 
 > **Synthesis:** Cheah et al. (2026) propose a framework for leveraging [[llm|large language models (LLMs)]] to generate misconceptions as a tool for misconception-based collaborative learning in health care education. While AI-generated misconceptions are often viewed as detrimental, the authors argue that LLM-generated misconceptions, when addressed through structured peer discussion, can promote [[refutation-text|conceptual change]] and [[critical-thinking|critical thinking]]. The paper outlines use cases across clinical and basic-science health care disciplines, a practical 10-step guidance for educators, and calls for medium- to long-term [[research-methods-aied|research]] on LLM-supported [[learning-gains|learning outcomes]]. The framework positions LLM-generated misconception texts and [[refutation-text|refutation]]/discussion as a scalable alternative to educator-generated misconception-based learning.

@@ -9,6 +9,7 @@ level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/2606.25308.md']
 confidence: high
+audience: [instructors, learning analytics designers, researchers]
 ---
 
 > **Synthesis:** This study examines the [[student-modeling]] validity of **delayed start behavior** — when students begin assignments or practice sessions past a recommended start time — as a predictor of learning-gains across multiple subjects. The authors test whether a behavioral detector developed for one academic domain (e.g., [[chemistry-education|chemistry]]) can predict [[learning-gains|learning outcomes]] in another (e.g., [[physics-education|physics]] or statistics), a property they term **cross-subject predictive validity**.

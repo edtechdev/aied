@@ -4,7 +4,7 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-ed-evaluation, llm, formative-assessment, teacher-role, assessment, automated-assessment]
-research_method: [survey]
+research_method: [experiment]
 audience: [instructors]
 category: [evaluation, assessment]
 

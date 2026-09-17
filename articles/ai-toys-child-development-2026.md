@@ -9,6 +9,8 @@ research_method: [literature review]
 level: [early childhood, k 12]
 sources: ['raw/papers/ai-toys-child-development-2026.md']
 confidence: high
+audience: [edtech designers, designers, researchers]
+category: [design thinking, ai foundations]
 ---
 
 > **Synthesis:** Xu, Girouard, and Shi (2026) review how [[generative-ai|AI]]-enabled toys may shape key domains of children's development, including imagination, language, anthropomorphism, relationship formation, [[trust-calibration|epistemic trust]], and persuasion. They argue that AI-enabled toys **redistribute agency in play**, shifting some control over narrative, dialogue, relationship, and information from the child alone to the child-toy interaction. This redistribution may **constrain** play when the toy functions as an organizing force, but may **enable** play when the toy serves as a responsive resource for child-led imagination, inquiry, and social [[student-engagement|engagement]]. The authors conclude by outlining implications for developmental [[research-methods-aied|research]], product evaluation, and child-centered AI design.

@@ -9,6 +9,7 @@ audience: [instructors, administrators, faculty development, learners]
 level: [higher ed]
 sources: ['raw/papers/2605.07056.md']
 confidence: medium
+category: [policy, framework]
 
 ---
 

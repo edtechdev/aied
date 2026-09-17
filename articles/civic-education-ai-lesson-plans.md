@@ -4,11 +4,13 @@ created: "2026-05-09T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [k-12, ai-literacy, teacher-role, formative-assessment, equity-in-ai-education, pedagogical-llm-training, generative-ai, teacher-ai-competency]
-research_method: [randomized controlled trial]
+research_method: [quantitative, thematic analysis]
 audience: [instructors]
 level: [k 12]
 sources: ['raw/papers/civic-education-ai-lesson-plans.md']
 confidence: medium
+discipline: [humanities education]
+category: [curriculum design, equity, assessment]
 ---
 
 > **Synthesis:** An analysis of 310 AI-generated lesson plans (2,230 individual activities) produced by ChatGPT (GPT-4o), Gemini (1.5 Flash), and Copilot (GPT-4 based) for all 53 Massachusetts eighth-grade civics standards. Each standard received two prompts: a basic "write a lesson plan" and a "highly interactive" variant.

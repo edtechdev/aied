@@ -9,6 +9,7 @@ research_method: [theoretical analysis]
 
 sources: ['raw/papers/critical-thinking-paradox-genai-learning-2026.md']
 confidence: high
+category: [framework, synthesis]
 ---
 
 > **Synthesis:** Lin and Al-Hada (2026) offer a theoretical reading of apparently contradictory findings — improved academic products alongside signs of reduced cognitive [[student-engagement|engagement]] — which they term the [[critical-thinking]] paradox of [[generative-ai|GenAI]]-integrated learning. Drawing on levels-of-processing, [[desirable-difficulties]], Cognitive Load Theory with Load Reduction Instruction, and [[cognitive-offloading]] [[research-methods-aied|research]], they propose a differentiated three-level framework mapping AI-integration strategies onto surface, intermediate and deep cognitive processing, with level-appropriate AI roles, risks and boundary conditions. They adopt the emerging construct of cognitive debt and distinguish episodic from habitual offloading. The framework generates falsifiable hypotheses — centrally that unrestricted AI use on deep-processing tasks may yield higher-rated assignments but lower unaided delayed transfer — and specifies developmental stage, [[prior-knowledge|prior knowledge]], and [[metacognition|metacognitive]] monitoring accuracy as preregistered boundary conditions.

@@ -8,6 +8,9 @@ research_method: [mixed methods]
 level: [higher ed]
 sources: ['raw/papers/ai-mediated-cognitive-divergence-2026.md']
 confidence: high
+discipline: [design education]
+audience: [faculty development, instructors, administrators]
+category: [equity, assessment]
 ---
 
 > **Synthesis:** Crolla, Xia, and Jiang (2026) report a sequential [[mixed-methods-research|mixed-methods]] study of what [[generative-ai|generative AI]] is doing to learning processes in design education, conducted across the built-environment [[teacher-role|Faculty]] of Architecture at the University of Hong Kong. Drawing on 24 faculty interviews, a survey of 32 instructors with multivariate regression modeling, and five clustered faculty discussions, they identify a pattern they term **cognitive divergence**: AI does not produce uniform improvements but amplifies existing differences in student readiness. Students with stronger foundations use AI to extend reasoning and accelerate iteration, while those with weaker foundations delegate [[formative-assessment|formative]] cognitive work to AI, producing coherent outputs without corresponding understanding. This divergence is compounded by a loss of process visibility and by the erosion of frictional learning stages through which competence is built. [[quantitative-research|Quantitative]] analysis identifies perceived [[pedagogy|pedagogical]] relevance rather than seniority as the primary predictor of faculty AI positivity, with a significant negative association between theoretical course orientation and AI positivity.

@@ -4,10 +4,12 @@ created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [assessment, conversational-ai, pedagogical-agent, affective-computing, well-being, generative-ai, llm]
-research_method: [experiment]
+research_method: [quasi-experiment]
 category: [assessment]
 sources: ['raw/papers/aivaluate-anxiety-assessment-2026.md']
 confidence: high
+audience: [assessment designers, assessment professionals, educators]
+level: [secondary]
 ---
 
 > **Synthesis:** Yusuf, Money, and Daylamani-Zad (2026) evaluated AIvaluate, an [[llm]]-augmented, emotionally intelligent [[pedagogical-agent|pedagogical conversational agent]] designed to mediate oral [[assessment|performance-based assessments]] (PBAs). Using a counterbalanced quasi-experimental within-subjects design with 35 pre-university IBDP students comparing face-to-face viva voce with AIvaluate-mediated sessions, they found significantly LOWER self-reported [[well-being|anxiety]] during AIvaluate sessions (calmness M = 6.50 vs. 5.86, p = .028) and "good" [[usability-research|usability]] (SUS 70.64 vs. 66.93). [[qualitative-research|Qualitative]] analysis surfaced strengths (reduced social pressure, flexible pacing, ease of use) and limitations (technical issues, impersonal interaction, waiting times). Crucially, the authors caution that reduced anxiety should not be assumed to benefit learning: moderate anxiety can be facilitative (Yerkes–Dodson / IZOF), the study measured emotional and usability outcomes only, and they explicitly call for [[research-methods-aied|research]] into whether AI-mediated PBAs improve student attainment.

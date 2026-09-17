@@ -8,6 +8,7 @@ audience: [software developers]
 research_method: [benchmark]
 sources: ['raw/papers/10.1016_j.caeai.2026.100616.md']
 confidence: high
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** Mehrnoush Mohammadi, Kamal Berahmand, Shazia Sadiq, & Hassan Khosravi (2026) propose **THyMeN (Temporal Hypergraph Memory Network)**, a hybrid model that augments memory-based [[knowledge-tracing]] with temporal hypergraph reasoning to capture dynamic higher-order concept interactions.

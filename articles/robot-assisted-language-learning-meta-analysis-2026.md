@@ -8,6 +8,8 @@ research_method: [meta-analysis, learning analytics]
 discipline: [language learning]
 sources: ['raw/papers/edurev-100833-rall-meta.md']
 confidence: high
+audience: [educators, administrators, researchers]
+category: [synthesis, instructional design]
 ---
 
 > **Synthesis:** Wang, Zhang, and Zou (2026) meta-analyze 11 empirical studies (17 effect sizes, N = 595) of AI-enhanced **[[embodied-learning|embodied]] robot-assisted [[language-learning|language learning]] (RALL)** for second-language (L2) learning. A three-level random-effects model finds a positive overall effect (Hedges' g = 0.83, 95% CI [0.46, 1.21], p < .001) with high heterogeneity (I² = 84.4%). Of six moderators tested, only **robot-learner interaction format** reached significance (p = .049) — group-based formats showing larger effects than one-on-one — while robot morphology, modality, autonomy, social role, and duration did not. The central finding: L2 outcomes track how robots are positioned within instruction and interaction (especially group participation), not their technical sophistication.

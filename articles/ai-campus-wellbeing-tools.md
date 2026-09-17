@@ -10,6 +10,7 @@ audience: [learners, administrators]
 level: [higher ed]
 sources: ['raw/papers/2605.10804.md']
 confidence: medium
+category: [framework, evaluation]
 
 ---
 

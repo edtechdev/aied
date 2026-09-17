@@ -9,6 +9,8 @@ audience: [learners, administrators]
 level: [k 12, higher ed]
 sources: ['raw/papers/2606.18692.md']
 confidence: medium
+discipline: [learning analytics]
+category: [evaluation, framework]
 
 ---
 

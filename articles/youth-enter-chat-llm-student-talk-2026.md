@@ -8,6 +8,9 @@ research_method: [qualitative, case study]
 level: [k 12]
 sources: ['raw/papers/youth-enter-chat-llm-student-talk-2026.md']
 confidence: high
+discipline: [math education]
+audience: [researchers, learning analytics designers, assessment designers]
+category: [assessment, equity]
 ---
 
 > **Synthesis:** Large language models are increasingly used to measure aspects of student discourse such as talk moves, collaboration, and equity of voice at scale, but common validation practices that compare outputs against adult expert annotations with held-out sets and F1 scores may be insufficient and inequitable, particularly for racially and linguistically marginalized youth. Santos-Deonizio and colleagues argue that re-contextualizing classroom conversations and engaging youth in the [[research-methods-aied|research]] process is necessary to ensure such measures are meaningful and [[equity-in-ai-education|equitable]]. In a case study of [[multilingual-learning|multilingual]] youth in an eighth-grade math classroom, they employ participant observation, interviews, focus groups, and member checks with four focal students, revealing misalignments between students' interpretations and adult or [[llm]] framings and centering youth as epistemic authorities.
