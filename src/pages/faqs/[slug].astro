@@ -4,7 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
 import JsonLd from '../../components/JsonLd.astro';
 import StarButton from '../../components/StarButton.astro';
-import { renderMarkdown } from '../../lib/markdown';
+import { renderMarkdown, smartTitle } from '../../lib/markdown';
 
 export async function getStaticPaths() {
   const faqs = await getCollection('faqs');
@@ -13,11 +13,24 @@ export async function getStaticPaths() {
 
 const { slug } = Astro.params;
 const faqs = await getCollection('faqs');
+// Tag chips use the page's own title ("Well-Being", not "well being"); long titles
+// are skipped so a chip stays short.
+const tagLabel = (tag: string): string => {
+  const t = allTitles[tag];
+  return t && t.length <= 28 ? t : smartTitle(tag.replace(/-/g, ' '));
+};
+
 const faq = faqs.find(f => f.id.replace('.md', '') === slug);
 if (!faq) return Astro.redirect('/aied/');
 
 const allArticles = await getCollection('articles');
+
+
 const allConcepts = await getCollection('concepts');
+
+// Tag chips show the concept's own title ("Well-Being", not "well being");
+// de-slugify only as a fallback, and skip long titles to keep chips short.
+
 
 // Slugs for canonical wikilink routing: article -> /articles, concept -> /concepts, faq -> /faqs
 const articleSlugs = new Set(allArticles.map(a => a.id.replace('.md', '')));
@@ -40,7 +53,13 @@ const pagefindFilterPairs: string[] = metaFields
 const createdDisplay = (created || '').split('T')[0];
 const updatedDisplay = (updated || created || '').split('T')[0];
 const body = faq.body || '';
-const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs });
+
+// slug -> display title for every page: wikilink labels and tag chips use the page's
+// own title ('Well-Being'), not a de-slugified guess ('well being').
+const allTitles: Record<string, string> = {};
+[...allConcepts, ...allArticles, ...faqs].forEach(c => { allTitles[c.id.replace('.md', '')] = c.data.title; });
+
+const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs, titles: allTitles });
 const toc = rendered.headings.filter(h => h.depth <= 3);
 ---
 
@@ -63,7 +82,7 @@ const toc = rendered.headings.filter(h => h.depth <= 3);
         <StarButton slug={slug} kind="faq" />
         created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
         {(tags || []).map((tag: string, i: number) => (
-          <>{i > 0 ? ', ' : ' · '}<a class="tag-chip" href={`/aied/concepts/${tag}/`}>{tag.replace(/-/g, ' ')}</a></>
+          <>{i > 0 ? ', ' : ' · '}<a class="tag-chip" href={`/aied/concepts/${tag}/`}>{tagLabel(tag)}</a></>
         ))}
       </div>
     </div>
