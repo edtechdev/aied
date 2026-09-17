@@ -5,10 +5,11 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, educational-policy-ai, prompt-engineering, scaffolding, agentic-ai, metacognition, curriculum-design, change-management]
 audience: [instructors, administrators]
-research_method: [system development, experiment]
+research_method: [case study]
 category: [curriculum design]
 sources: ['raw/papers/2606.01517.md']
 confidence: high
+level: [adult learning]
 
 ---
 

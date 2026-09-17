@@ -8,6 +8,7 @@ audience: [learners, instructors]
 research_method: [benchmark]
 sources: ['raw/papers/2608.08942.md']
 confidence: high
+category: [equity, evaluation]
 ---
 
 > **Synthesis:** Jin and colleagues (2026) identify a systematic [[accessibility]] bias they call **prompt privilege**: users who can phrase requests skillfully get markedly better output from [[llm|large language models]] than users who express the same underlying intent less adroitly. To make this measurable and fixable, they propose a Prompt Equity Score (PES) that quantifies performance consistency across user populations and a Prompt Equity Transformer (PET) agent that rewrites a user's request into semantically equivalent, accessibility-oriented wording before it reaches the model. Demonstrations on the MedQA benchmark show statistically significant performance gaps between low-literacy and expert-prompting cohorts that PET eliminates while preserving meaning — advancing a system-centered view of [[equity-in-ai-education|equitable AI access]] in which the burden of effective [[prompt-engineering]] shifts from the learner to the AI itself.

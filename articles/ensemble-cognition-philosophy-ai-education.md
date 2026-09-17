@@ -8,6 +8,8 @@ research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/ensemble-cognition-philosophy-ai-education.md']
 confidence: high
+audience: [researchers, educators]
+category: [framework, ai foundations]
 ---
 
 > **Synthesis:** Jho, Park & Ahn (2026) introduce **Ensemble Cognition (EC)** as a [[philosophy-of-ai-in-education|philosophical]] framework reconceptualising thinking as emerging from dynamic interactions between human and artificial agents, rather than residing solely within individual minds. EC distinguishes **functional agency** (AI's capacity to influence outcomes without consciousness) from **moral responsibility** (which remains exclusively human), and articulates five features—distributed agency, dynamic centrality, cognitive orchestration, multi-representational integration, and context-sensitive switching—to characterize learning environments where cognitive leadership shifts dynamically between humans and AI. It offers educational philosophy conceptual resources for critically engaging with AI-mediated learning while preserving commitments to human flourishing and educational justice.

@@ -8,6 +8,8 @@ research_method: [design-based research]
 level: [higher ed]
 sources: ['raw/papers/ai-assisted-instructor-supervised-grading-feedback.md']
 confidence: high
+audience: [instructors, assessment professionals, institutions]
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** Cruz, da Silva, and Mamede (2026) present the design, deployment, and evaluation of a GPT-4o-based grading and [[feedback]] pipeline for a Master's-level Information Systems Project Management course, developed using Design Science [[research-methods-aied|Research]]. The artifact orchestrates submission collection (Google Forms), rubric-based scoring with rubric-linked [[qualitative-research|qualitative]] feedback (OpenAI GPT-4o via a Cloud Function), and analytics storage (BigQuery) across six consecutive case-study assignments, with the AI grader supplementing rather than replacing [[teacher-role|instructor]] grading. Across 362 submissions from 66 students, the AI reproduced the instructor's mark within a pre-specified 0.5-point tolerance in 83% of cases (MAE 0.31), achieved only moderate chance-corrected agreement (ICC 0.49), and showed a small conservative bias. The pipeline operated at EUR 0.55 per student per assignment and delivered feedback within 24 hours, supporting [[llm]]s as scalable assistants for [[formative-assessment]] under a supplement-not-replacement design.

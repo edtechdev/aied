@@ -9,6 +9,8 @@ research_method: [system development]
 level: [special education, k 12, higher ed]
 sources: ['raw/papers/2607.01214.md']
 confidence: high
+discipline: [math education]
+category: [equity, instructional design]
 ---
 
 > **Synthesis:** Obiuwevwi and colleagues (2026) treat classroom-scale production of **tactile statistical graphics** as a software problem rather than a specialist CAD task. Their three-layer, roughly 1500-line JavaScript pipeline derives tactile design parameters automatically from plate dimensions using tactile-perception research, provides shared chart scaffolding with five modular builders (scatter, bar, histogram, line and box plots), and optionally uses a multimodal [[llm]] to extract structured chart specifications from uploaded images — with mandatory teacher review before print generation. The pipeline produces print-ready binary STL files in under 250 milliseconds, with all five chart types completing in under 60 ms, and it combines research-grounded parameter derivation with single-pass Braille-and-English labeling. The authors present it as the first open-source pipeline that automatically generates 3D-printed tactile statistical graphs from either typed data or chart images, addressing a bottleneck that keeps [[accessibility|accessible]] statistical visualization rare in classrooms.

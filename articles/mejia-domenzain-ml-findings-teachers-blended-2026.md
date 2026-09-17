@@ -8,6 +8,8 @@ research_method: [mixed methods]
 audience: [instructors, learning analytics designers]
 sources: ['raw/papers/mejia-domenzain-ml-findings-teachers-blended-2026.md']
 confidence: high
+level: [higher ed]
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis:** **Making [[reinforcement-learning|machine learning]] findings accessible to teachers in blended classrooms.** Using a teacher-centered, mixed-method approach, this study designs, evaluates, and instantiates [[visualization|visualizations]] and a learning analytics dashboard (DashED) that communicate ML-derived [[self-regulated-learning|self-regulated learning]] profiles to teachers in two [[online-teaching-and-learning|blended learning]] contexts — flipped university classrooms and reflective writing in vocational education. A 100-teacher study examined how visualization literacy shapes interpretation and which visual designs teachers find clear, appealing, and actionable, while interviews with 19 teachers probed concerns, [[trust]], and adoption. Findings reveal that teachers prefer simple, familiar charts (bar plots, pie charts) yet derive richer insights from more complex designs, and that teachers' visualization preferences, concerns, and intended uses differ markedly across learning contexts.

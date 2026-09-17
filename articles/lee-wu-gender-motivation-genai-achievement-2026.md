@@ -8,6 +8,9 @@ research_method: [learning analytics]
 level: [higher ed]
 sources: ['raw/papers/lee-wu-gender-motivation-genai-achievement-2026.md']
 confidence: high
+discipline: [math education]
+audience: [instructors, instructional designers, learning analytics designers]
+category: [engagement, equity]
 ---
 
 > **Synthesis:** This study of 97 graduate students and 2,819 queries to a [[conversational-ai|RAG-based GenAI chatbot]] (StatBot) for statistics learning reveals that [[student-engagement|engagement]] with [[generative-ai|GenAI]] is strongly differentiated across learner subpopulations. More than one-quarter of students never used the [[conversational-ai|chatbot]]; female students, those with stronger autonomous [[motivation]], lower [[prior-knowledge|prior knowledge]], and higher course performance interacted more frequently. Using zero-inflated negative binomial modeling and k-means achievement profiling, the authors show that "Growing Achievers" posed more diverse, conceptually oriented questions, while "Declining Performers" engaged minimally with narrow procedural inquiries. The authors argue that effective AI integration requires moving beyond uniform access toward [[scaffolding]] concept-focused support that prioritizes autonomous motivation and shared human-AI agency.

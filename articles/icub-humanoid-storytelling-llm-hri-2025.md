@@ -8,6 +8,8 @@ level: [early childhood]
 research_method: [user study]
 sources: ['raw/papers/lombardi-humanoid-storytelling-child-2025.md']
 confidence: medium
+audience: [researchers, designers]
+category: [engagement, framework]
 ---
 > **Synthesis:** Lombardi et al. (2025) present a framework for enhancing the attention and social capability of the iCub humanoid robot by integrating advanced perceptual abilities that recognize social cues, understand surroundings through generative models such as ChatGPT, and respond with contextually appropriate social behavior. They implement an interaction task using a narrative ([[storytelling-in-education|storytelling]]) protocol in which a human and the robot co-create a short imaginary story, exchanging cubes with creative images. Experiments quantify the [[usability-research|usability]] and quality of experience perceived by participants interacting with the LLM-powered narrative human-robot interaction system.
 ## Key Findings

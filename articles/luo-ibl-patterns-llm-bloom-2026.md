@@ -8,6 +8,8 @@ research_method: [mixed methods, qualitative]
 level: [higher ed]
 sources: ['raw/papers/luo-ibl-patterns-llm-bloom-2026.md']
 confidence: high
+audience: [instructional designers, educators, researchers]
+category: [instructional design, framework]
 ---
 
 > **Synthesis:** This exploratory study of students interacting with [[llm|LLMs]] during an [[inquiry-based-learning|inquiry-based learning]] data-science writing task used Bloom's taxonomy to analyze behavioral patterns across cognitive levels. Thematic analysis of 117 interview transcripts, 370 interaction records, and 1,694 minutes of screen recordings identified **14 interaction patterns** at different levels of [[prior-knowledge|prior knowledge]]. The study highlights how [[self-efficacy]] and [[metacognition|metacognitive]] monitoring shape LLM use in IBL and calls for guiding planning frameworks and [[scaffolding]] to mitigate AI reliance.

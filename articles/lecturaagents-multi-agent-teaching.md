@@ -5,10 +5,11 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, generative-ai, personalized-learning, higher-ed, intelligent-tutoring, pedagogical-llm-training, rag]
 audience: [software developers]
-research_method: [survey]
+research_method: [system development, design and evaluation study]
 level: [higher ed]
 sources: ['raw/papers/2606.16428.md']
 confidence: high
+category: [instructional design, framework]
 ---
 
 > **Synthesis:** **Jaward Sesay, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Borje F. Karlsson** (2026). arXiv cs.CL

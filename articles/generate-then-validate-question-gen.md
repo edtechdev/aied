@@ -9,6 +9,7 @@ research_method: [system development, benchmark]
 discipline: [stem education]
 sources: ['raw/papers/2512.10110.md']
 confidence: high
+category: [assessment, evaluation]
 ---
 
 > **Synthesis:** A novel generate-then-validate pipeline for educational question generation that reduces [[llm]] hallucination by 62% compared to direct generation, validated on [[stem-education|STEM]] datasets with 89% accuracy and a 23% improvement over baseline LLMs on relevance metrics. The two-stage approach first generates candidate questions, then validates them against domain constraints and [[pedagogy|pedagogical]] criteria.

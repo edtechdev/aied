@@ -4,11 +4,12 @@ created: "2026-06-30T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, learning-analytics, llm, student-experience, ai-literacy]
-research_method: [survey, learning analytics]
+research_method: [learning analytics]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.29442.md']
 confidence: high
+category: [engagement, ai foundations]
 ---
 
 > **Synthesis:** Karidi, Amir & Roll (2026) present one of the largest empirical analyses to date of authentic (rather than lab-based) interactions between college students and generative AI tools. By analyzing interaction logs at scale, they identify distinct patterns: some students use AI as a [[llm]]-powered [[pedagogical-agent|learning companion]] for explanation and exploration, while others offload cognitive work entirely — copying outputs without comprehension. The work provides much-needed ecological validity to a literature that has largely relied on survey self-reports and controlled experiments. These findings connect directly to [[student-experience]] [[research-methods-aied|research]], showing that the gap between AI 'use' and AI 'learning' is wide and context-dependent. The study offers actionable design implications: platforms should [[scaffolding|scaffold]] [[metacognition|metacognitive]] [[student-engagement|engagement]] with AI outputs rather than optimizing for answer correctness alone. The paper also contributes to [[generative-ai]] literacy frameworks by mapping what competencies students actually display in uncontrolled settings, informing [[ai-literacy]] [[curriculum-design|curriculum design]].

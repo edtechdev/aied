@@ -4,10 +4,13 @@ created: "2026-08-20T06:50:00-04:00"
 updated: "2026-08-20T07:45:00-04:00"
 type: article
 tags: [problem-based-learning, computational-thinking, generative-ai, educational-robotics, k-12, ai-education]
-research_method: [experiment]
-level: [k 12]
+research_method: [quasi-experiment]
+level: [higher ed]
 sources: ['raw/papers/ai-pbl-computational-thinking-2026.md']
 confidence: medium
+discipline: [cs education, stem education]
+audience: [educators, curriculum designers, instructors]
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis:** This quasi-experimental study (N = 103 first-year [[higher-ed|undergraduates]] in Nigeria) tested whether AI-supported [[problem-based-learning|Problem-Based Learning]] (AI-PBL) outperforms conventional instruction in building [[computational-thinking|computational thinking]] (CT) and academic [[learning-gains|achievement]] within computer [[educational-robotics|robotics]] programming. Grounded in Vygotsky's Social [[constructivist|Constructivism]], the intervention cast AI tools (ChatGPT and Teachable Machine) as "more capable peers" providing adaptive [[scaffolding]] inside students' [[sociocultural-learning|Zone of Proximal Development]] across a 14-week, project-based robotics [[curriculum-design|curriculum]]. The AI-PBL group significantly outperformed the control group on posttest CT and academic achievement after controlling for pretest scores, while gender did not significantly moderate the gains — evidence that AI-enhanced PBL can be both effective and [[equity-in-ai-education|equitable]] in under-resourced [[stem-education|STEM]] contexts.

@@ -9,6 +9,8 @@ discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2607.00140.md']
 confidence: medium
+audience: [instructors, assessment designers]
+category: [framework, assessment]
 ---
 
 > **Synthesis:** Proposes CogTax, a four-level cognitive taxonomy for command-line computing education that integrates Bloom's Revised Taxonomy with operational impact dimensions, achieving 89% accuracy in automated classification.

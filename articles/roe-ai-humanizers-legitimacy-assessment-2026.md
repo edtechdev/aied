@@ -4,10 +4,12 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [academic-integrity, ai-detection, assessment-validity, higher-ed, generative-ai, reducing-ai-misuse, ai-misuse-learning-harm, ethics]
-research_method: [qualitative, interviews]
+research_method: [qualitative]
 level: [higher ed]
 sources: ['raw/papers/roe-ai-humanizers-legitimacy-assessment-2026.md']
 confidence: high
+audience: [administrators, assessment professionals, instructors]
+category: [assessment, policy]
 ---
 
 > **Synthesis:** Presenting the first exploratory, systematic investigation of [[ai-detection|AI humanizer]] websites, Roe and colleagues frame these services through Goffman's (1959) dramaturgy and [[multimodal]] critical discourse analysis, cataloguing 55 humanizer sites and deeply analyzing three. Findings show humanizers are readily available, offer free and premium tiers, and perform similar functions—deleting misconduct from the discourse, reframing humanization as a rational response to flawed detection, and appealing to mystification through advanced technology and implied [[governance|institutional]] endorsement. The authors argue humanizers are a diagnostic signal in a [[feedback|feedback loop]] of [[assessment|performative assessment]] whose disruption requires structural assessment reform rather than technological solutionism.

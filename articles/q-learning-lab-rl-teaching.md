@@ -9,6 +9,8 @@ discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2607.10802.md']
 confidence: medium
+audience: [instructors, learners]
+category: [instructional design]
 ---
 
 > **Synthesis:** Presents Q-Learning Lab, a single-file tool that makes the Bellman update concrete by letting undergraduates inspect how each value is computed and why actions are chosen, through learner-generated trace analysis. It addresses the abstraction gap where students watch policy convergence without understanding mechanism.

@@ -8,6 +8,9 @@ research_method: [mixed methods]
 discipline: [medical education]
 sources: ['raw/papers/genai-simulate-patient-history-pbl-2026.md']
 confidence: high
+audience: [medical educators, instructors, curriculum designers]
+level: [higher ed]
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis:** In March 2024, 37% of second-year students at a small community-based Midwestern U.S. [[medical-education|medical school]] piloted a [[generative-ai|genAI]]-enabled [[simulation|virtual patient]] in a required [[problem-based-learning|PBL]] tutorial, comparing it to the school's legacy Electronic PBL Module (ePBLM) searchable database. Across two genAI groups (N=13) and two comparison groups (N=13) sharing the same faculty facilitator, the [[pedagogical-agent|genAI avatar]] presented essential case content accurately but students treated it as a sophisticated "question base" rather than a real patient. The study demonstrates that genAI can represent essential PBL case content, stimulate problem-driven collaboration, and boost perceived [[student-engagement|engagement]] and teamwork — while exposing the need to frame the experience so students experiment with the AI's humanlike capabilities and adapt to its limitations.

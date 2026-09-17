@@ -9,6 +9,8 @@ discipline: [cs education]
 audience: [learners]
 sources: ['raw/papers/2607.05808.md']
 confidence: high
+level: [higher ed]
+category: [instructional design, ai foundations]
 ---
 
 > **Synthesis:** Nearly all prior [[research-methods-aied|research]] on LLMs in computing education has used text input, yet voice-enabled interfaces are becoming common. This exploratory study investigated how introductory programming students interact with **Prompt Problems** — tasks requiring natural-language prompts to generate correct code — under free choice of text or voice (N = 919). For two of three problems, students who typed were more likely to succeed on the first attempt than those submitting unedited voice prompts; editing transcribed voice prompts before submission erased the gap. Most students tried and preferred text, though some used voice complementarily. [[qualitative-research|Qualitative]] analysis revealed perceived roles, drawbacks, and advantages of each modality, with implications for [[multimodal]] tools and [[learning-design|instructional design]].

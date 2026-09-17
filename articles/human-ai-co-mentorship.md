@@ -10,6 +10,8 @@ level: [k 12, higher ed]
 
 sources: ['raw/papers/2605.05144.md']
 confidence: medium
+audience: [instructors, educators, curriculum designers]
+category: [instructional design, framework]
 ---
 
 > **Synthesis:** A [[pedagogy|pedagogical]] model where human mentors and AI tools jointly support student learning in project-based contexts. Human mentors provide conceptual guidance, debugging, and problem formulation support; AI tools accelerate execution, code generation, and rapid iteration. Demonstrated by Chawla et al. (2026) in a ten-week financial forecasting project with high-school and early-undergraduate students, the model produced accelerated progress, instructive failure modes, and a clear division of labor: AI handled tactical execution while human mentors retained strategic judgment.

@@ -7,6 +7,9 @@ tags: [simulating-students, teacher-education, experiential-learning, agentic-ai
 research_method: [system development]
 discipline: [cs education]
 confidence: high
+audience: [teacher educators, instructors, instructional designers]
+level: [teacher training, higher ed]
+category: [instructional design, evaluation]
 sources: [raw/papers/2603.11444.md]
 ---
 

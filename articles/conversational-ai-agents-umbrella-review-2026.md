@@ -8,6 +8,7 @@ audience: [researchers, instructors]
 research_method: [literature review]
 sources: ['raw/papers/conversational-ai-agents-umbrella-review-2026.md']
 confidence: high
+category: [synthesis, framework]
 ---
 
 > **Synthesis:** This umbrella review (34 review articles, PRISMA 2020) maps how [[conversational-ai|conversational AI (CAI) agents]] are used across education — concentrated in teaching, psychological, and [[metacognition|metacognitive]] support while administrative and [[research-methods-aied|research]] functions lag — and documents that [[human-ai-collaboration|human–AI relationship]] concerns persist across all CAI generations while [[academic-integrity]] and data [[privacy]] emerge as newer [[ethics|ethical]] issues. It surfaces gaps in CAI frameworks (no end-to-end design guidance, weak CAI-specific [[usability-research|usability]], unclear classroom implementation) and proposes an ethical-and-responsible-use roadmap grounded in [[ai-literacy]], participatory design, and continuous evaluation.

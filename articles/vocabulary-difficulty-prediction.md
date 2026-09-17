@@ -9,6 +9,8 @@ discipline: [language learning, writing education]
 level: [k 12]
 sources: ['raw/papers/2605.14257.md']
 confidence: high
+audience: [researchers, edtech designers, assessment designers]
+category: [assessment, ai foundations]
 ---
 
 > **Synthesis:** This paper presents two complementary approaches to predicting vocabulary difficulty for language learners, achieving state-of-the-art results in the BEA 2026 Shared Task. The work advances both the accuracy and explainability of NLP systems for educational applications.

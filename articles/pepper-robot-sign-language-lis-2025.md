@@ -5,10 +5,12 @@ updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [educational-robotics, multimodal, inclusive-learning, accessibility, special-education]
 connected_faqs: [ai-disabled-neurodivergent-learners]
-research_method: [survey]
+research_method: [user study]
 level: [special education]
 sources: ['raw/papers/bolla-pepper-robot-sign-language-2025.md']
 confidence: medium
+audience: [designers, educators]
+category: [equity, instructional design]
 ---
 > **Synthesis:** Bolla et al. (2025) investigate whether the commercial Pepper social robot can produce intelligible Italian Sign Language (LIS) signs and short signed sentences, addressing the underexplored [[accessibility]] of social robots for Deaf users. With the help of a Deaf student and an expert interpreter, they co-designed and implemented 52 LIS signs on Pepper using either manual animation techniques or a MATLAB-based inverse kinematics solver. An exploratory user study with 12 participants proficient in LIS (both Deaf and hearing) assessed the intelligibility of the robot's signs.
 ## Key Findings

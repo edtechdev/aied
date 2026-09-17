@@ -10,6 +10,8 @@ level: [higher ed]
 
 sources: ['raw/papers/2604.02677.md']
 confidence: high
+discipline: [math education, writing education]
+category: [collaborative learning, engagement]
 ---
 
 > **Synthesis:** Kumar et al. (2026) test whether moving beyond the one-on-one [[intelligent-tutoring|AI tutor]] toward multi-agent [[llm|LLM]] configurations can capture the [[collaborative-learning|collaborative]] and observational benefits that [[learning-theories|learning science]] attributes to multi-party interaction. In a convergent math study (N=315), learners who worked with both an LLM tutor and error-prone LLM peers achieved the highest unassisted test accuracy; in a divergent composition study (N=247), a two-agent Duo of distinct frontier models matched single-model quality gains while restoring [[creativity|ideational diversity]] to baseline. The core insight — that idea-level [[ai-misuse-learning-harm|homogenization]] is not an inherent cost of AI assistance but a function of how agents are deployed — reframes the design space for [[writing-education]] and AI tutoring systems.

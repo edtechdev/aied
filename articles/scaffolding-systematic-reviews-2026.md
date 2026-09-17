@@ -8,6 +8,8 @@ research_method: [theoretical analysis]
 category: [instructional design]
 sources: ['raw/papers/scaffolding-systematic-reviews-2026.md']
 confidence: high
+audience: [researchers]
+level: [higher ed]
 ---
 
 > **Synthesis:** Wang et al. (2026) treat [[scaffolding|systematic reviews]] (SRs) in Learning Design and Technology (LDT) as **intentional learning experiences** rather than mere [[research-methods-aied|methodological]] procedures. Drawing on their interdisciplinary team of novice and experienced researchers, they reflect on the realities of each SR stage, showing how [[scaffolding|scaffolding through mentoring]], peer collaboration, and judicious AI integration helped manage ambiguity, foster team consistency, and sustain methodological rigor. Automation tools (chiefly screening) reduced procedural burdens, but interpretive decisions required substantial [[human-in-the-loop-ai|human oversight]] — a clear instance of [[human-in-the-loop-ai]].

@@ -7,6 +7,7 @@ tags: [knowledge-graph, intelligent-tutoring, personalized-learning, adaptive-le
 research_method: [theoretical analysis]
 category: [instructional design]
 confidence: medium
+audience: [software developers, instructional designers]
 sources: [raw/papers/ontology-layered-hybrid-knowledge-model-personalized-elearning-2026.md]
 ---
 

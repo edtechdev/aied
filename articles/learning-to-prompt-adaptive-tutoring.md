@@ -9,6 +9,7 @@ audience: [learners, software developers]
 level: [k 12]
 sources: ['raw/papers/2606.20138.md']
 confidence: high
+category: [engagement, instructional design]
 ---
 
 > **Synthesis:** Adaptive [[llm]] tutoring with subject-aware prompt routing based on 14 [[pedagogy|pedagogical]] features. An A/B test on 656 conversations from 359 Dutch high-school students showed [[simulation]]-to-real transfer. A stochastic router achieved 28.1% exercise conversion rate vs 19.6% baseline, reducing interaction turns by ~3 (p=0.007) while maintaining pedagogical quality.

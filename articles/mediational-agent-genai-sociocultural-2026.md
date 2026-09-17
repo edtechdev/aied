@@ -8,6 +8,7 @@ audience: [researchers]
 research_method: [theoretical analysis]
 sources: ['raw/papers/mediational-agent-genai-sociocultural-2026.md']
 confidence: high
+category: [framework, synthesis]
 ---
 
 > **Synthesis:** Warschauer, Tate, and Ritchie (2026) argue that [[generative-ai|generative AI]] challenges a foundational distinction in [[sociocultural-learning|sociocultural]] theories of learning — the separation between *mediational means* and *social interaction*. Traditional tools such as language, [[writing-education|writing]], and educational [[ai-technologies|technologies]] mediate human activity, while learning and development arise through social participation; generative AI complicates this because it both mediates activity *and* generates context-sensitive, contingent contributions that shape ongoing interaction. The authors propose the concept of the **mediational agent**: a responsive but non-accountable system that mediates human action while contributing explanations, critiques, questions, and suggestions to learning activity — occupying a hybrid space between a tool and a social partner. From this, they derive **five human-first habits of participation** (primacy of human cognition, purposeful [[student-engagement|engagement]], supervisory agency, epistemic vigilance, reflective self-[[regulation]]) intended to preserve learners' judgment, agency, and responsibility in AI-mediated learning. 

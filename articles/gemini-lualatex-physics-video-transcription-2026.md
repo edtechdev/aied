@@ -8,6 +8,9 @@ research_method: [system development]
 discipline: [physics education]
 sources: ['raw/papers/gemini-lualatex-physics-video-transcription-2026.md']
 confidence: high
+audience: [instructors, institutions]
+level: [higher ed]
+category: [equity]
 ---
 
 > **Synthesis:** Looney and Duston (2026) present a mostly automated workflow built from freely available tools that turns instructional physics videos into math-accessible PDF transcripts. Guided by carefully crafted system instructions, a [[multimodal]] [[generative-ai|Gemini model]] in the AI Studio environment both listens to the audio track and watches the video (sampling one frame per second), transcribing all board-written or screen-presented equations into LaTeX and weaving them into the verbal flow or descriptive segments. Gemini's output is pasted into a prewritten, SE-tagging-enabled LuaLaTeX preamble and compiled locally; the resulting PDFs routinely compile without errors and pass PDF/UA-2 and ISO 32005 validation. This addresses an [[accessibility]] gap for [[special-education|blind and low-vision students]] and supports [[inclusive-learning|inclusive]] [[physics-education]] by making equation-heavy [[llm|AI]] transcription a practical, reproducible alternative to manual accessible-math transcription.
