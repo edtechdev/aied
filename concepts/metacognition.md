@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T02:58:14-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 connected_faqs: [reducing-over-reliance, study-with-ai]
@@ -91,6 +91,8 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - **Self-regulation buffers offloading harm but cannot cancel it.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] shows that metacognitive regulation (self-regulated writing) attenuates the negative association between deep [[cognitive-offloading|cognitive offloading]] and independent no-AI outcomes in GenAI-assisted writing (interaction B = 0.22), but does not eliminate it — a bounded-support condition pairing delegation limits with compulsory reflection about how AI suggestions were accepted/rejected produced the strongest independent performance.
 - **Explanation-seeking depth predicts task quality, not recall.** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] shows explanation-seeking prompts (depth) in LLM interaction predict task quality but not immediate recall, interpreting the dissociation via elaboration (comprehension) vs. retrieval practice (consolidation) — and suggesting explanation-seeking correlates with metacognitive monitoring, though retrieval demands must be added for durable retention.
 
+- **Self-reported metacognition is a weak proxy for regulation *with* an LLM.** [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]] gave 116 middle-school students a two-hour AI literacy workshop and then measured their LLM interaction during science problems: trained students accepted underspecified prompts less often (51.5% vs. 66.7%), asked follow-up questions after a weak response far more often (59.2% vs. 27.9%, *d* = 0.80) and judged answer correctness more sensitively to prompt quality (interaction OR = 2.52). Neither a general metacognitive-awareness scale (Jr. MAI) nor GenAI self-reports predicted those behaviors or final performance (*r* = .04 and *r* = .01) — monitoring and control during [[generative-ai|generative AI]] use is task-specific, and observable behavior carries more information than the self-report instruments built to capture it.
+
 ## Connected Concepts
 
 - [[self-regulated-learning]]
@@ -108,6 +110,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[student-experience]]
 - [[learning-theories]]
 ## Connected Articles
+- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — a two-hour AI literacy workshop shifted middle-school students' LLM-interaction regulation, unlike their self-reported metacognition (Clerc et al. 2026)
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
 - [[du-yuan-epistemic-dependence-2026]] — Epistemic dependence in AI-mediated learning (Du & Yuan 2026)
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
