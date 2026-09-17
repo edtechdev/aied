@@ -5,8 +5,12 @@
 // field. It is deliberately NOT a replacement for the curated Connected Concepts
 // list, which says what a page relates to beyond what it is about. Values link to
 // their concept page whenever one exists - facet values ARE concept slugs, and the
-// phrase-valued fields (discipline, level, research method, audience) resolve
+// phrase-valued fields (discipline, level, study design, intended audience) resolve
 // through a generated value-to-slug map. Everything else renders as plain text.
+//
+// On a phone the two-column table has nowhere to go, so below 640px - the site's
+// main breakpoint - each row becomes a stacked block: the field name on its own
+// line, its values underneath.
 import { METADATA_LINKS } from '../data/metadataLinks';
 
 interface Props {
@@ -55,25 +59,18 @@ const rows = ROWS.map((row) => {
 ---
 
 {rows.length > 0 && (
-  <section id="metadata" style="margin-top:2.5rem;">
-    <h2 style="border-bottom:2px solid var(--primary);padding-bottom:0.5rem;">Metadata</h2>
-    <table style="width:100%;border-collapse:collapse;margin-top:0.75rem;font-size:0.95rem;">
+  <section id="metadata" class="metadata-section">
+    <h2>Metadata</h2>
+    <table class="metadata-table">
       <tbody>
         {rows.map((row) => (
           <tr>
-            <th
-              scope="row"
-              style="text-align:left;vertical-align:top;padding:0.45rem 1rem 0.45rem 0;color:var(--muted-color);font-weight:600;white-space:nowrap;"
-            >{row.label}</th>
-            <td style="padding:0.45rem 0;vertical-align:top;">
+            <th scope="row" class="metadata-label">{row.label}</th>
+            <td class="metadata-values">
               {row.items.map((item, i) => (
                 <>
                   {i > 0 ? ', ' : ''}
-                  {item.slug ? (
-                    <a href={`/aied/concepts/${item.slug}/`} style="color:var(--primary);text-decoration:none;">{item.text}</a>
-                  ) : (
-                    item.text
-                  )}
+                  {item.slug ? <a href={`/aied/concepts/${item.slug}/`}>{item.text}</a> : item.text}
                 </>
               ))}
             </td>
@@ -83,3 +80,46 @@ const rows = ROWS.map((row) => {
     </table>
   </section>
 )}
+
+<style>
+  .metadata-section { margin-top: 2.5rem; }
+  .metadata-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 0.75rem;
+    font-size: 0.95rem;
+  }
+  .metadata-table th,
+  .metadata-table td {
+    padding: 0.45rem 0.75rem 0.45rem 0;
+    vertical-align: top;
+  }
+  .metadata-table th {
+    text-align: left;
+    font-weight: 600;
+    color: var(--muted-color);
+    white-space: nowrap;
+  }
+  .metadata-values { overflow-wrap: break-word; }
+  .metadata-values a { color: var(--primary); text-decoration: none; }
+  .metadata-values a:hover { text-decoration: underline; }
+
+  /* Below the site's main breakpoint the two columns stack, so values sit under
+     their field name instead of being squeezed against the screen edge. */
+  @media (max-width: 640px) {
+    .metadata-table,
+    .metadata-table tbody,
+    .metadata-table tr,
+    .metadata-table th,
+    .metadata-table td { display: block; width: 100%; }
+    .metadata-table th {
+      padding: 0.6rem 0 0.1rem;
+      white-space: normal;
+    }
+    .metadata-table td { padding: 0 0 0.35rem; }
+    .metadata-table tr:not(:last-child) td {
+      border-bottom: 1px solid var(--card-background-color);
+      padding-bottom: 0.6rem;
+    }
+  }
+</style>
