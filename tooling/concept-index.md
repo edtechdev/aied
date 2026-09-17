@@ -169,7 +169,9 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 - **`learning-sciences`** — Learning Sciences — phrases: the learning sciences; learning sciences research; education research field
 
-### Levels and contexts
+## Levels and contexts
+
+### Levels and settings
 
 - **`adult-learning`** — Adult Learners — phrases: adult education; adult learning; andragogy; continuing education; lifelong learner
 - **`early-childhood-elementary-ai-education`** — Early Childhood Education — phrases: AI toys; child development; early childhood; elementary education; kindergarten; primary education; young children
