@@ -30,7 +30,7 @@ This multimodal approach aims to provide timely, targeted feedback at scale — 
 ## Results
 
 ### Learning Effectiveness
-- **Equivalent [[learning-gains|learning gains]]** between AI multimodal feedback and educator feedback
+- **Equivalent [[learning-gains]]** between AI multimodal feedback and educator feedback
 - No significant difference in post-test performance
 
 ### Student Perceptions (AI significantly better)
@@ -57,7 +57,7 @@ This multimodal approach aims to provide timely, targeted feedback at scale — 
 This is a strong result for AI feedback systems:
 
 - **Equivalence on learning** is the bar most systems fail to clear — AI matched human educators
-- **Superior [[student-experience|student experience]]** across 6 dimensions suggests AI can surpass humans on consistency, specificity, and clarity
+- **Superior [[student-experience]]** across 6 dimensions suggests AI can surpass humans on consistency, specificity, and clarity
 - **Scalability**: The system can provide real-time, context-aware support without instructor availability constraints
 - **Question-type effects**: The [[student-engagement|engagement]] pattern differences suggest adaptive strategies — AI may be better for open-ended work while human-like interaction helps for multiple-choice
 
@@ -72,7 +72,7 @@ This is a strong result for AI feedback systems:
 - Would results hold in real classroom settings with live educator feedback rather than fixed, pre-written feedback?
 - Does the advantage persist over multiple sessions, or is there a novelty effect?
 - How does each modality (text vs. slides vs. audio) contribute to the overall effect?
-- Can [[multimodal|multimodal AI]] feedback reduce the negative behavioral pathway identified in sequenced feedback studies (fewer resubmissions)?
+- Can [[multimodal]] feedback reduce the negative behavioral pathway identified in sequenced feedback studies (fewer resubmissions)?
 
 ## Connected Concepts
 - [[feedback]]
@@ -85,9 +85,10 @@ This is a strong result for AI feedback systems:
 - [[affective-computing]]
 - [[metacognition]]
 - [[self-regulated-learning]]
+
+
 ## Connected Articles
 
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar

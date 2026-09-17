@@ -17,10 +17,10 @@ Vargas, Chiappe & Durand (2024) offer a systematic synthesis of how situated lea
 
 ## Key Findings
 
-- **Situated learning is a dynamic, evolving concept** organized around the durable core idea of "learning in context," with emphasis shifting across eras: [[professional-training|workplace learning]] in the 1990s, ICT-mediated [[collaborative-learning|communities of practice]] in the 2000s, mobile and [[game-based-learning|gaming]] immersion in the 2010s, and Education 4.0 [[ai-technologies|technologies]] ([[virtual-and-augmented-reality|augmented reality]], immersive environments, AI, IoT, [[educational-robotics|educational robotics]]) in 2020–2023.
+- **Situated learning is a dynamic, evolving concept** organized around the durable core idea of "learning in context," with emphasis shifting across eras: [[professional-training]] in the 1990s, ICT-mediated [[collaborative-learning|communities of practice]] in the 2000s, mobile and [[game-based-learning|gaming]] immersion in the 2010s, and Education 4.0 [[ai-technologies]] ([[virtual-and-augmented-reality|augmented reality]], immersive environments, AI, IoT, [[educational-robotics|educational robotics]]) in 2020–2023.
 - **Three obstacles block situated learning.** (1) The traditional school system is hegemonic, centralizing knowledge and relying on vertical, one-way passive transmission with little connection to real contexts. (2) The predominant educational approach fixates on predefined outcomes, competencies, and content, excluding learners' and teachers' knowledge, interests, and needs. (3) Teachers often lack contextual knowledge and sensitivity to the cultural diversity and everyday realities of their students.
 - **Six challenges to implementation:** linking art and [[creativity]] into teaching; shaping critical, context-aware individuals with ethical capacity; recognizing students and teachers as active agents; understanding situated learning beyond mere practice; rethinking linear, static teaching toward dynamic horizontal models; and treating context as a facilitator of expression.
-- **AI offers concrete solutions** to these obstacles: [[adaptive-learning|adaptive systems]] tailored to students' evolving needs, [[intelligent-tutoring|intelligent tutoring]] situated in authentic scenarios, automation of administrative tasks, and data-driven [[teacher-role|teacher support]].
+- **AI offers concrete solutions** to these obstacles: [[adaptive-learning|adaptive systems]] tailored to students' evolving needs, [[intelligent-tutoring]] situated in authentic scenarios, automation of administrative tasks, and data-driven [[teacher-role|teacher support]].
 - **AI enables personalization and [[agency|student agency]]**, letting learners co-direct their pathways in collaboration with intelligent agents — a shift away from the industrial, mass-production model of schooling.
 - **Human guidance remains essential**: instructors must instill ethical reasoning to question AI biases, so that AI augments rather than replaces the human, ethical dimension of education.
 - **AI and situated learning are complementary.** AI provides adaptive scaffolding and analytics to scale situated learning's advantages; situated learning grounds AI-driven education in real-world practices and complexity — together demanding a reinvention of learning ecosystems.
@@ -46,7 +46,6 @@ The review is significant because it bridges a classical [[learning-theories|lea
 
 ## Connected Articles
 
-- [[learning-theories]] — umbrella concept; situated learning is documented as one of its activity-and-context learning theories
 - [[genai-educational-outcomes-meta-analysis]] — broader synthesis of AI's effects on [[learning-gains|learning outcomes]]
 - [[ai-vocational-education-training-review]] — documents the constructivism/behaviorism gap in AI for education, complementing this review's constructivist framing
 - [[self-directed-growth-generative-ai-learning-analytics]] — related framing of AI as a scaffold for self-directed, context-aware learning
