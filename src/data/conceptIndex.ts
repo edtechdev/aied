@@ -66,6 +66,7 @@ export const conceptIndex: ConceptSection[] = [
       { label: 'Learners', items: ['stakeholders', 'student-experience', 'career-development-and-readiness', 'ai-anxiety-and-stress'] },
       { label: 'Families and communities', items: ['parents-and-families'] },
       { label: 'Instructors', items: ['teacher-ai-competency', 'tpack', 'samr-model', 'pedagogical-safety'] },
+      { label: 'Designers and developers', items: ['educational-technology-developers'] },
       { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'governance', 'change-management', 'technology-acceptance-model', 'regulation', 'open-source', 'edtech-platform', 'lifelong-learning', 'professional-training'] },
     ],
   },

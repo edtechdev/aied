@@ -141,7 +141,6 @@ const structuredMeta = {
         'humanities education',
         'information technology',
         'language learning',
-        'learning analytics',
         'learning sciences',
         'math education',
         'medical education',
