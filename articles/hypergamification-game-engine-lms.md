@@ -5,12 +5,13 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 pedagogy: [active-learning, online-teaching-and-learning, student-engagement]
 technology: [learning-analytics]
-stakeholders: [edtech-platform, student-experience]
+stakeholders: [student-experience]
 research_method: [system development]
 audience: [learners]
 level: [k 12, higher ed]
 sources: ['raw/papers/2607.29300.md']
 confidence: high
+systems: [edtech-platform]
 ---
 
 > **Synthesis:** The paper proposes 'hypergamification': using a comprehensive [[game-based-learning|game environment]] generated from [[edtech-platform|LMS]] content rather than bolting isolated game design elements onto a course. The key architectural idea is bidirectional integration — the game world is built from the LMS's actual learning content, and player activity flows back into the LMS.

@@ -5,7 +5,6 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [ai-literacy, human-ai-collaboration, teacher-role]
 technology: [llm]
-assessment: [ai-ed-evaluation, qualitative-research, research-methods-aied]
 ethics: [equity-in-ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
 research_method: [qualitative, research methods]
@@ -14,6 +13,7 @@ level: [k 12]
 page_kind: [evaluation]
 sources: ['raw/papers/2607.28890.md']
 confidence: high
+methods: [ai-ed-evaluation, qualitative-research, research-methods-aied]
 ---
 
 > **Synthesis:** This study challenges the standard practice of evaluating [[llm|LLM]] [[qualitative-research|qualitative]] coding by agreement with human coders, using data from a [[k-12|K-12]] AI platform: five LLM systems and three trained human coders applied a 72-item hierarchical codebook to 2,560 educator messages.

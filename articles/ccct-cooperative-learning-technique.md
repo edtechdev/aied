@@ -5,12 +5,12 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 pedagogy: [collaborative-learning]
 technology: [generative-ai]
-assessment: [mixed-methods-research]
 research_method: [mixed methods]
 level: [higher ed, teacher training]
 sources: ['raw/papers/srep-ccct-cooperative-learning.md']
 confidence: high
 audience: [teacher educators, educators, instructional designers]
+methods: [mixed-methods-research]
 ---
 
 > **Synthesis:** Artificial intelligence assisted design of a novel cooperative learning technique for higher education

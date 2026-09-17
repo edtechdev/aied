@@ -4,9 +4,10 @@ created: "2026-08-25T07:46:00-04:00"
 updated: "2026-09-10T15:28:00-04:00"
 type: concept
 foundations: [ai-literacy]
-stakeholders: [ai-anxiety-and-stress, professional-training]
+stakeholders: [ai-anxiety-and-stress]
 level: [higher ed, adult learning]
 confidence: high
+systems: [professional-training]
 ---
 
 > **Career development and readiness** — the processes and capacities that prepare learners to build, adapt, and sustain a career in an AI-disrupted labor market: career adaptability, employability, workforce readiness, and the skills (including [[ai-literacy]]) that employers value. In the AI-in-education context this concept is increasingly important because AI both reshapes the skills graduates need and generates **career-related AI anxiety** about job displacement — making career readiness a protective factor for student [[well-being]].

@@ -5,13 +5,13 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 pedagogy: [collaborative-learning]
 technology: [generative-ai, learning-analytics]
-assessment: [meta-analysis-systematic-review]
 research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/ssho-ai-collab-learning-review.md']
 confidence: high
 audience: [educators, institutions, researchers]
 page_kind: [synthesis]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** A [[meta-analysis-systematic-review|systematic review]] of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade

@@ -5,12 +5,12 @@ updated: "2026-09-16T15:58:20-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
-assessment: [ai-ed-evaluation]
 stakeholders: [pedagogical-safety]
 ethics: [hallucination-risk]
 connected_faqs: [verify-ai-output]
 page_kind: [evaluation]
 confidence: high
+methods: [ai-ed-evaluation]
 ---
 
 > **Hallucination Risk** — the danger that AI systems generate plausible but factually incorrect or fabricated content in educational contexts, where such errors can mislead learners, undermine [[trust]], and produce invalid assessments. Hallucination is particularly consequential in education because students may lack the domain knowledge to detect AI errors, and teachers may rely on AI-generated diagnoses or feedback that appears authoritative but is unfounded.

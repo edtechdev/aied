@@ -5,7 +5,7 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [curriculum-design, educational-development]
 technology: [adaptive-learning, generative-ai, personalized-learning]
-assessment: [assessment, automated-assessment, meta-analysis-systematic-review]
+assessment: [assessment, automated-assessment]
 ethics: [equity-in-ai-education]
 research_method: [systematic review]
 audience: [learners, instructors, administrators, policymakers, researchers]
@@ -13,6 +13,7 @@ level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/alsheikh-mapping-ai-integration-higher-education-2026.md']
 confidence: high
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** **Mapping artificial intelligence integration in higher education** — a PRISMA 2020 [[meta-analysis-systematic-review|systematic review]] by AlSheikh et al. (2026) that screened 959 records across eight databases to map how AI is being integrated into undergraduate [[higher-ed|higher education]], classifying 22 included intervention studies with the FACETS framework (Form, AI use case, Context, Education focus, Technology, SAMR) and grading their depth of educational transformation with the [[samr-model|SAMR model]] (Substitution, Augmentation, Modification, Redefinition). The review finds that AI integration remains largely **incremental** — clustering at Substitution and Augmentation rather than transformation — that it is dominated by [[generative-ai|generative AI]] applied to [[automated-assessment|assessment automation]] and [[personalized-learning|personalized learning support]], and that equity, ethics, academic integrity, and faculty readiness remain undertheorized.

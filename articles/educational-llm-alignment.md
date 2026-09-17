@@ -5,7 +5,6 @@ updated: "2026-09-16T15:49:45-04:00"
 type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 technology: [llm, pedagogical-llm-training]
-assessment: [benchmark]
 ethics: [bias-mitigation, ethics]
 research_method: [educational measurement, benchmark]
 audience: [researchers, instructors, software developers]
@@ -14,6 +13,7 @@ confidence: medium
 discipline: [math education]
 level: [elementary, k 12]
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 
 > **Synthesis:** The gap between what LLMs are *capable* of and what actually *benefits learners* — benchmark performance, downstream task quality, and intended educational impact are three distinct and often-misaligned levels.

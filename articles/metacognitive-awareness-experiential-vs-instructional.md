@@ -5,13 +5,14 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai]
-stakeholders: [regulation, student-experience]
+stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.20047.md']
 confidence: high
 discipline: [engineering education]
+systems: [regulation]
 ---
 
 > **Synthesis:** A quasi-experimental, short-term longitudinal study with 126 first-year engineering students comparing two ways of [[teacher-role|teaching]] students how to learn with [[generative-ai|generative AI]]: an experiential, hands-on session versus a classical instructional lecture. Metacognitive awareness — both knowledge of cognition (understanding effective AI-use strategies) and [[regulation]] of cognition (applying that knowledge in practice) — was measured before and after a two-hour session and tracked longitudinally. The design directly addresses a gap flagged across the knowledge base's [[metacognition]] thread: interventions that build awareness of one's own AI-assisted thinking, rather than just policing AI use.

@@ -4,13 +4,14 @@ created: "2026-08-25T07:46:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 pedagogy: [social-emotional-learning]
-stakeholders: [ai-anxiety-and-stress, technology-acceptance-model]
+stakeholders: [ai-anxiety-and-stress]
 connected_faqs: [ai-anxiety-wellbeing]
 research_method: [survey]
 level: [higher ed, adult learning]
 sources: ['raw/papers/ustun-ai-anxiety-job-finding-anxiety-2026.md']
 confidence: high
 audience: [administrators, educators]
+systems: [technology-acceptance-model]
 ---
 
 > **Synthesis:** **AI anxiety, attitudes, and job-finding anxiety** — a large correlational survey of **1,057 university students across 35 Turkish universities** showing that higher AI anxiety and **negative attitudes toward AI are positively associated with job-finding anxiety**. Female students, social-science majors, and second-year students reported higher anxiety levels.

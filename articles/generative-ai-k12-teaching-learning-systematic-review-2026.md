@@ -5,7 +5,7 @@ updated: "2026-09-16T05:40:00-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, personalized-learning]
-assessment: [assessment, meta-analysis-systematic-review]
+assessment: [assessment]
 ethics: [ethics]
 audience: [researchers, administrators, instructors]
 research_method: [systematic review]
@@ -13,6 +13,7 @@ level: [k 12, teacher training]
 page_kind: [synthesis]
 sources: ['raw/papers/generative-ai-k12-teaching-learning-systematic-review-2026.md']
 confidence: high
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** This PRISMA-guided systematic review synthesizes 197 studies (2016–2024) on [[generative-ai]] in [[k-12]] teaching and learning. It documents GAI's potential to personalize [[personalized-learning|learning experiences]], motivate students, improve [[assessment]] methods, and enable innovative [[pedagogy|teaching practices]] — with [[conversational-ai|ChatGPT]] as the flagship example — while surfacing persistent challenges: continuous [[teacher-education|teacher training]] on ICT, ministerial guidelines addressing [[ethics]] and [[privacy]], and a notable shortage of concrete, discipline-balanced (beyond [[stem-education|STEM]]) experiments and practical examples for daily classroom use. The review contributes a focused account of eight under-explored [[research-methods-aied|research]] gaps and proposes directions for future empirical work.

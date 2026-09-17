@@ -5,7 +5,6 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [academic-integrity, agentic-ai]
 technology: [generative-ai, human-in-the-loop-ai, pedagogical-agent, personalized-learning]
-stakeholders: [governance]
 ethics: [ai-use-disclosure, trust]
 research_method: [design-based research, survey]
 discipline: [business education]
@@ -14,6 +13,7 @@ level: [higher ed]
 page_kind: [framework]
 sources: ['raw/papers/ilieva-agentic-genai-higher-education-2026.md']
 confidence: medium
+systems: [governance]
 ---
 
 > **Synthesis:** **The AGAI-HE framework** — Ilieva et al. (2026) propose the Agentic GAI-Supported Learning Framework for [[higher-ed|Higher Education]], which positions [[agentic-ai|agentic AI]] as a *bounded, human-supervised learning partner* rather than a substitute for students or instructors. The framework separates three conditions — traditional [[online-teaching-and-learning|e-learning]], [[generative-ai|GAI]]-chatbot-supported learning, and GAI-agent-supported learning — and specifies agentic support as task contracting and interpretation, decomposition and planning, evidence organization, alternative generation, comparison and decision, feedback and refinement, and learner verification and reflection, all wrapped in [[human-in-the-loop-ai|human supervision]], [[academic-integrity|academic integrity]], privacy safeguards, and instructor validation. An exploratory perception study with 130 students in an e-commerce course found both AI conditions rated above traditional e-learning on learning enhancement, [[personalized-learning|personalization]], decision-making support, and workflow organization — but **no statistically significant difference between GAI agents and GAI chatbots**, so the paper offers initial perception-based support for agentic GAI without claiming superior [[learning-gains|learning outcomes]]. (Preprint; not peer-reviewed.)

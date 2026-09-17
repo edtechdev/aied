@@ -5,13 +5,13 @@ updated: "2026-08-21T13:21:45-04:00"
 type: article
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
-assessment: [meta-analysis-systematic-review]
 research_method: [systematic review]
 discipline: [business education]
 level: [higher ed]
 sources: ['raw/papers/espino-ai-business-education-review-2026.md']
 confidence: high
 audience: [researchers, curriculum designers, administrators]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** Espino & Espino (2026), *Journal of University [[teacher-role|Teaching]] and Learning Practice* 23(6). A bibliometric [[meta-analysis-systematic-review|systematic review]] of 213 peer-reviewed articles (2015–2024) drawn from the Dimensions database, analyzed with bibliographic coupling and co-word analysis in VOSviewer. The review maps [[ai-education|AI in education]] as applied specifically to [[business-education|business education]], surfacing **four** major [[research-methods-aied|research]] clusters — (1) AI-driven business-education transformation, (2) innovative digital pedagogies, (3) AI-enhanced personalization of learning, and (4) business education aligned with the digital economy — plus three co-word trends (technological transformation, integration of [[generative-ai|generative AI]] tools, and advancing educational quality). Persistent gaps across clusters center on [[curriculum-design|curriculum]] coherence, educator readiness, and [[assessment]] validity. The authors reframe AI integration as a structural *[[pedagogy|pedagogical]]* reconfiguration rather than tool adoption.

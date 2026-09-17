@@ -5,13 +5,13 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, teacher-role]
 pedagogy: [learning-theories, pedagogy]
-assessment: [qualitative-research]
 stakeholders: [teacher-ai-competency]
 research_method: [qualitative]
 audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/stenalt-good-education-teacher-ai-conceptions-2026.md']
 confidence: high
+methods: [qualitative-research]
 ---
 
 > **Synthesis:** **Understanding what good education is** — a phenomenographic study interviewing 16 teachers in Danish higher education to map how they understand and frame AI in teaching and student learning. It identifies **three qualitatively different ways of understanding the relationship between teaching and AI**, **three ways of understanding the relationship between learning and AI**, and **four approaches to designing for student learning experiences around AI** — highlighting the plurality and messiness of educational practice, and the need to attend to **agency and teachers' labor**.

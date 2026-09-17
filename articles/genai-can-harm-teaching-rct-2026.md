@@ -5,7 +5,6 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [cognitive-offloading, educational-development, teacher-role]
 technology: [generative-ai, rag]
-assessment: [rct]
 stakeholders: [student-experience, teacher-ai-competency]
 research_method: [randomized controlled trial]
 audience: [faculty development, instructors, learners]
@@ -14,6 +13,7 @@ level: [k 12]
 sources: ['raw/papers/genai-can-harm-teaching-rct-2026.md']
 confidence: high
 page_kind: [evaluation]
+methods: [rct]
 ---
 
 > **Synthesis:** The null average performance effect masks strong offsetting heterogeneity — and the exam had severe ceiling compression (control mean 89.2/100, 47% ≥ 95), which also limits power. The belief reversal is striking: it contradicts "familiarity breeds acceptance" and suggests an arc from initial awe at AI's instant responses to awareness of its unintended effects.

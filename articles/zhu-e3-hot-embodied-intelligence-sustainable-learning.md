@@ -5,13 +5,13 @@ updated: "2026-08-30T05:30:00-04:00"
 type: article
 foundations: [cognitive-offloading, critical-thinking]
 pedagogy: [cognitive-psychology, constructivist, embodied-learning, learning-theories]
-stakeholders: [educational-policy-ai]
 research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/zhu-e3-hot-embodied-intelligence-sustainable-learning.md']
 confidence: high
 audience: [instructional designers, researchers]
 page_kind: [framework]
+systems: [educational-policy-ai]
 ---
 
 > **Synthesis:** Zhu et al. (2026) address the risk that AI-assisted learning fosters cognitive outsourcing and learning detached from authentic contexts by proposing E3-HOT, a conceptual framework that leverages [[embodied-learning|embodied intelligence]] to sustain learners' cognitive agency and [[critical-thinking|higher-order thinking]] for sustainable learning, aligned with SDG 4. Three embodied pathways — situational embedding, embodied participation, and cognitive creation — map onto the higher-order targets of Analyze, Evaluate, and Create and are translated into a three-module E3 core (virtual–real integrated environment, embodied interaction, intelligent core) with bounded, teacher-governed AI support. Positioned as a design-and-evidence blueprint rather than an empirical study, it specifies multi-fidelity enactment options and auditable evidence artifacts for future validation.

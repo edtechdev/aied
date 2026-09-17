@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [online-teaching-and-learning, self-regulated-learning]
 technology: [generative-ai, personalized-learning]
-assessment: [ai-ed-evaluation]
 ethics: [equity-in-ai-education, privacy]
 sources: ['raw/papers/lock-integrating-ai-online-learning-higher-ed-2025.md']
 confidence: high
@@ -15,6 +14,7 @@ audience: [institutions, instructors, policymakers]
 level: [higher ed]
 page_kind: [synthesis]
 connected_faqs: [asynchronous-online-courses-ai]
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** Lock, Arteaga & Johnson (2025) conduct a two-pronged critical literature review of how AI [[ai-technologies|technologies]] are integrated into [[online-teaching-and-learning|online learning]] environments in [[higher-ed|higher education]], narrowing 207 initial citations to 63 for the final review (spanning 32 countries). Their thematic analysis yields four interconnected themes: (1) the types and purposes of AI integration; (2) [[pedagogy|pedagogical]] approaches, centered on AI literacy and self-regulated learning; (3) benefits of using AI in online learning; and (4) challenges spanning [[academic-integrity|academic integrity]], [[equity-in-ai-education|equity]] and bias, ethics/privacy/surveillance, and [[educational-policy-ai|institutional policy]] gaps. The authors position AI integration as a complex, sociotechnical undertaking that must be anchored in pedagogy and human relationships rather than technology adoption.

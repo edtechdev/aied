@@ -5,9 +5,10 @@ updated: "2026-09-17T02:43:50-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
-stakeholders: [governance, pedagogical-safety, regulation]
+stakeholders: [pedagogical-safety]
 ethics: [bias-mitigation, equity-in-ai-education, privacy]
 confidence: high
+systems: [governance, regulation]
 ---
 
 > **Ethics** — the moral principles governing the design, deployment, and use of AI in educational contexts. [[ai-education|AI education]] ethics spans [[privacy|data privacy]], algorithmic fairness, transparency, accountability, and the broader question of what AI should and should not do in learning environments. It is the normative foundation for the knowledge base's other AI-education concerns — [[equity-in-ai-education|equity]], [[bias-mitigation]], [[academic-integrity]], [[governance]], and [[pedagogical-safety]] — and the field is increasingly moving from abstract principle lists toward situated, context-sensitive, and institutionally-supported ethical practice.

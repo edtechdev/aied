@@ -40,8 +40,10 @@ FACET_SECTIONS = [
     ('foundations', 'Foundations', 'Foundations of AI in education'),
     ('pedagogy', 'Pedagogy and learning', 'Learning and instruction'),
     ('technology', 'Technology', 'AI technologies and techniques'),
-    ('assessment', 'Assessment and measurement', 'Assessment, evaluation, and measurement'),
-    ('stakeholders', 'People', 'People: learners, teachers, and institutions'),
+    ('assessment', 'Assessment and measurement', 'Assessment and measurement'),
+    ('methods', 'Research methods', 'Research methods and evaluation'),
+    ('stakeholders', 'People', 'People'),
+    ('systems', 'Institutions and systems', 'Institutions and systems'),
     ('ethics', 'Ethics and equity', 'Equity, ethics, and responsible use'),
 ]
 

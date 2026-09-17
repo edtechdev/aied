@@ -5,13 +5,13 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [academic-integrity, agency, cognitive-offloading, educational-development, human-ai-collaboration, teacher-role]
 technology: [generative-ai]
-stakeholders: [technology-acceptance-model]
 research_method: [mixed methods, survey, thematic analysis]
 level: [higher ed]
 page_kind: [framework]
 audience: [educators, teachers, institutions, policymakers]
 sources: ['raw/papers/dai-genai-frenemy-teaching-autonomy-2026.md']
 confidence: high
+systems: [technology-acceptance-model]
 ---
 
 > **Synthesis:** Dai, Ni, Meng, Ju, Crawford, and Teo (2026) use a [[human-ai-collaboration|human-AI interaction]] lens to ask why [[teacher-role|teachers]] vary in their willingness to adopt [[generative-ai|generative AI]], combining a 287-participant, 27-country [[self-report-measures|survey]] with structural equation modeling and thematic analysis of 285 open-text responses. Extending the [[technology-acceptance-model|technology acceptance model]] with perceived artificial [[agency|autonomy]] (AA) and risk aversion (RA), they find that teachers see GenAI as only semi-autonomous - most chose "teacher assistance" or "partial automation" on a six-level model - yielding a refined model that explains 79.8% of the variance in behavioral intention. AA influenced intention only indirectly through perceived usefulness (indirect effect .156, 95% CI [.082, .240]); its direct path was non-significant (.026), because adoption hinged on situational, pedagogical judgment rather than the appeal of automation. Risk aversion was a significant negative predictor of intention (-.163), and teachers worried far more about students' GenAI use - shortcuts, [[cognitive-offloading|overreliance]], [[hallucination-risk|hallucinations]], and [[academic-integrity|integrity]] risks - than about their own. The authors frame GenAI as a "frenemy": a valuable [[pedagogy|pedagogical]] resource whose limited autonomy and perceived risks keep humans firmly in control, implying that adoption depends less on technical capability than on context-sensitive support, clear [[educational-policy-ai|policy]], and [[educational-development|professional development]].

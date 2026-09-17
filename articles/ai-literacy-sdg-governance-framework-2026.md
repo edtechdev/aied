@@ -4,7 +4,6 @@ created: "2026-09-10T09:00:00-04:00"
 updated: "2026-09-10T09:00:00-04:00"
 type: article
 foundations: [ai-education, ai-literacy, critical-thinking, curriculum-design, sustainability]
-stakeholders: [governance]
 ethics: [equity-in-ai-education, ethics]
 sources: ['raw/papers/2609.10489.md']
 confidence: high
@@ -12,6 +11,7 @@ research_method: [survey, quantitative]
 audience: [policymakers, curriculum designers, researchers]
 level: [adult learning, higher ed]
 page_kind: [framework]
+systems: [governance]
 ---
 
 > **Synthesis:** Islam, Morshed, and Islam reconceptualize [[ai-literacy]] not merely as an educational or technical skill but as a [[governance]] capacity that supports all 17 UN Sustainable Development Goals. They introduce a six-level AIRE (Artificial Intelligence Reasoning and Ethics) Taxonomy extending Bloom's hierarchy with ethical judgment and strategic foresight, plus an AI–SDG Nexus Framework that maps literacy competencies onto each goal. A survey of 300 professionals in a national context found strong technical awareness but limited ethical and [[governance]] readiness, with ethical reasoning, reflective thinking, and governance literacy emerging as the strongest predictors of sustainable and trustworthy AI use.

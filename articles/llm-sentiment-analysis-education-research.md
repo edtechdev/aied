@@ -6,7 +6,7 @@ type: article
 foundations: [ai-literacy]
 technology: [generative-ai, learning-analytics, llm]
 assessment: [automated-assessment, formative-assessment]
-stakeholders: [edtech-platform, student-experience]
+stakeholders: [student-experience]
 research_method: [mixed methods, case study]
 audience: [researchers]
 level: [higher ed]
@@ -15,6 +15,7 @@ sources: ['raw/papers/2605.27403.md']
 confidence: medium
 discipline: [language learning]
 page_kind: [framework, evaluation]
+systems: [edtech-platform]
 ---
 
 > **Synthesis:** **[[llm]]-Assisted Sentiment Analysis for [[mixed-methods-research|Mixed-Methods]] Education Research** demonstrates how LLMs can serve as scalable [[qualitative-research|qualitative research]] assistants, enabling researchers to investigate multiple demographic variables simultaneously rather than being limited to simple binary comparisons. Using 151 longitudinal written reflections from a study abroad program, the authors show that LLM-assisted sentiment analysis combined with statistical testing can uncover granular patterns: prior experience living abroad was the only personal variable that significantly impacted students' sentiments about their language and communication behaviors. This workflow bridges computational and qualitative methods, suggesting that LLMs can reduce the bottleneck of manual qualitative coding without replacing the interpretive depth of thematic analysis. The approach has implications for [[higher-ed]] research methodology, complementing existing [[learning-analytics]] pipelines and extending mixed-methods capabilities beyond what has been possible with [[automated-assessment|Automated Grading]] and [[formative-assessment]] systems alone. The paper connects to discussions about [[educational-development]] in equipping researchers with AI literacy for [[research-methods-aied|methodological]] innovation, and relates to [[ai-literacy]] as both a tool for researchers and a consideration in how computational methods change the practice of qualitative inquiry.

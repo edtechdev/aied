@@ -4,7 +4,6 @@ created: "2026-09-08T09:07:05-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 technology: [generative-ai, learning-analytics, llm]
-assessment: [qualitative-research, research-methods-aied]
 ethics: [ethics, trust-calibration]
 research_method: [position paper]
 audience: [researchers]
@@ -12,6 +11,7 @@ level: [higher ed]
 confidence: medium
 page_kind: [framework]
 sources: ['raw/papers/chain-behind-claim-warrantability-2026.md']
+methods: [qualitative-research, research-methods-aied]
 ---
 
 > **Synthesis:** This essay (Holster, EdArXiv 2026) takes on the credibility problem created when [[llm|large language models]] let education researchers reorganize qualitative corpora in minutes, producing fluent topics, quotations, and prevalence claims whose analytic pathway is concealed. Extending the field's evidence debates and the [[qualitative-research|audit-trail]] tradition into the generative era, it proposes **warrantability** as a standard that complements accuracy and disclosure: an AI-assisted interpretation is warrantable when the pathway from source data to claim remains *inspectable, contestable, and revisable*. To make that concrete it introduces **semantic lenses** — documented reorganizations of a corpus across levels of abstraction — and a claim-relative repertoire of warrant artifacts, from source-linked topic tables to lens stacks and evidence rivers, designed into research tools so that different inferential moves become available for examination, strengthen [[peer-assessment|peer assessment]], and widen access to accountable AI-assisted inquiry.

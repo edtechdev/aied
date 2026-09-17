@@ -5,7 +5,7 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy, cognitive-offloading, computational-thinking]
 technology: [generative-ai]
-assessment: [ai-ed-evaluation, assessment, authentic-assessment]
+assessment: [assessment, authentic-assessment]
 audience: [instructors]
 research_method: [theoretical analysis]
 level: [higher ed]
@@ -13,6 +13,7 @@ page_kind: [evaluation]
 sources: ['raw/papers/arxiv-2026-tool-invariant-framework.md']
 confidence: high
 discipline: [physics education, language learning]
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** Across the centuries-long migration of mechanical work from human to tool — fingers → pencil → calculator → Python → [[agentic-ai|agent]] — Engelhardt argues that what a learner must know is **tool-invariant**. Five pillars (inputs/outputs, method concept, terminology, sensemaking, operating the tool) stay stable while only their *content* and *weight* shift. Because AI-generated [[simulation|simulations]] are opaque **and bespoke** (validated by no community), [[critical-thinking|verification]] becomes the load-bearing skill and the artifact no longer certifies the student. The constructive response pairs **AI-free in-class coding quizzes** with **oral defenses of comment-stripped, AI-assisted work**, gated on a verification dimension — design prescriptions that largely await Fall 2026 cohort validation.

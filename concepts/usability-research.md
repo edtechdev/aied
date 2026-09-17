@@ -4,10 +4,10 @@ created: "2026-08-24T02:15:00-04:00"
 updated: "2026-09-14T06:35:00-04:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
-assessment: [usability-research]
 research_method: [system development, user study, interviews]
 page_kind: [evaluation]
 confidence: high
+methods: [usability-research]
 ---
 
 > **Usability research** — the empirical study of how users interact with a software system, and of its usability, usefulness, and user experience (UX). Drawn from human–computer interaction (HCI), usability research evaluates whether an AI educational tool is usable, learnable, efficient, and satisfying — the qualities that determine whether learners actually adopt and benefit from it. It is distinct from, but complementary to, [[qualitative-research|qualitative inquiry]] into learning phenomena and [[quantitative-research|quantitative efficacy]]: usability research focuses on the *interaction between person and system*, not on learning outcomes per se.

@@ -7,13 +7,13 @@ foundations: [ai-literacy, teacher-role]
 pedagogy: [pedagogy]
 technology: [generative-ai, intelligent-tutoring]
 assessment: [assessment]
-stakeholders: [educational-policy-ai]
 research_method: [literature review, secondary analysis]
 audience: [instructors, administrators, researchers]
 level: [higher ed, k 12]
 page_kind: [framework, synthesis]
 sources: ['raw/papers/oecd-digital-education-outlook-2026.md']
 confidence: high
+systems: [educational-policy-ai]
 ---
 
 > **OECD flagship report** synthesising empirical evidence and expert insights on [[generative-ai|generative AI]] and [[ai-education|AI in education]]. Central finding: general-purpose AI [[conversational-ai|chatbots]] improve task performance but produce no durable [[learning-gains|learning gains]]; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.

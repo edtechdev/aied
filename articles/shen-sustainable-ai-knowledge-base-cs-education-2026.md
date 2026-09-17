@@ -5,8 +5,6 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [sustainability]
 technology: [generative-ai, llm, rag]
-assessment: [ai-ed-evaluation, benchmark]
-stakeholders: [edtech-platform, open-source]
 ethics: [privacy]
 audience: [software developers]
 research_method: [benchmark]
@@ -15,6 +13,8 @@ page_kind: [evaluation]
 sources: ['raw/papers/shen-sustainable-ai-knowledge-base-cs-education-2026.md']
 confidence: high
 level: [higher ed]
+methods: [ai-ed-evaluation, benchmark]
+systems: [edtech-platform, open-source]
 ---
 
 > **Synthesis:** Shen et al. (2026) show that an [[llm]] knowledge-base assistant for introductory [[cs-education|computer science]] can be built entirely from **openly licensed content** and run on **consumer-grade hardware** — an NVIDIA RTX 3060 with 12 GB VRAM — as an alternative to cloud-dependent [[intelligent-tutoring|AI tutors]]. Their evaluation protocol is unusually complete for this literature: it reports retrieval ablations, quantization-aware fine-tuning, VRAM and energy per query, and hallucination measured against retrieved OER chunks rather than asserted. The strongest results (DeepSeek-MoE at 78.6% overall accuracy, 1.8 mWh per query) come with the authors' own caveat that the system is a knowledge-base assistant, not a validated [[pedagogy|pedagogical]] intervention.

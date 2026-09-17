@@ -4,7 +4,6 @@ created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [generative-ai, personalized-learning]
-assessment: [meta-analysis-systematic-review]
 ethics: [accessibility, assistive-technology, inclusive-learning, neurodiversity]
 sources: ['raw/papers/dabaghi-ai-dyslexia-education-review-2026.md']
 confidence: high
@@ -12,6 +11,7 @@ research_method: [systematic review]
 audience: [researchers, educators]
 level: [special education, k 12]
 page_kind: [synthesis]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** **Artificial intelligence to help people with dyslexia in education: An interdisciplinary literature review** — Dabaghi, D'Urso & Sciarrone (2026) present a [[meta-analysis-systematic-review|systematic, interdisciplinary review]] (PRISMA-guided, 2018–2024, n=72 studies) of how [[machine-learning|AI]] and [[generative-ai|generative AI]] support students with [[neurodiversity|dyslexia]] in education. They find AI is used for detection, [[assistive-technology|assistive support]], and [[personalized-learning|personalized learning]], yet the evidence base is fragmented with limited experimental validation, and GAI — despite promising potential for content generation and interactive support — remains minimally represented. The review maps research trends, identifies open challenges, and outlines future directions for inclusive, AI-supported learning for learners with dyslexia.

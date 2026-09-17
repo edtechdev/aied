@@ -51,23 +51,35 @@ export const conceptIndex: ConceptSection[] = [
     ],
   },
   {
-    heading: 'Assessment, evaluation, and measurement',
+    heading: 'Assessment and measurement',
     blurb: 'How AI both assesses learners and reshapes how we evaluate AI systems and their impact.',
     groups: [
       { label: 'Assessment and feedback', items: ['assessment', 'evaluative-judgement', 'feedback', 'feedback-literacy', 'ai-feedback-quality', 'formative-assessment', 'summative-assessment', 'authentic-assessment', 'group-work', 'eportfolio', 'peer-assessment', 'automated-assessment', 'automated-essay-scoring', 'automated-question-generation'] },
-      { label: 'Measurement and validity', items: ['assessment-validity', 'psychometrically-aware-ai', 'educational-measurement', 'item-response-theory', 'self-report-measures', 'ai-detection', 'remote-proctoring'] },
-      { label: 'Evaluation of AI systems', items: ['ai-ed-evaluation', 'benchmark', 'research-methods-aied', 'qualitative-research', 'quantitative-research', 'mixed-methods-research', 'design-based-research', 'usability-research', 'rct', 'learning-gains', 'meta-analysis-systematic-review', 'network-analysis'] },
+      { label: 'Measurement and validity', items: ['assessment-validity', 'psychometrically-aware-ai', 'educational-measurement', 'item-response-theory', 'self-report-measures', 'ai-detection', 'remote-proctoring', 'learning-gains'] },
     ],
   },
   {
-    heading: 'People: learners, teachers, and institutions',
+    heading: 'Research methods and evaluation',
+    groups: [
+      { label: 'Research methods', items: ['research-methods-aied', 'qualitative-research', 'quantitative-research', 'mixed-methods-research', 'design-based-research', 'usability-research', 'rct', 'meta-analysis-systematic-review', 'network-analysis'] },
+      { label: 'Evaluation of AI systems', items: ['ai-ed-evaluation', 'benchmark'] },
+    ],
+  },
+  {
+    heading: 'People',
     blurb: 'AI changes the role of every stakeholder in education — learners, teachers, and the institutions that support them.',
     groups: [
       { label: 'Learners', items: ['stakeholders', 'student-experience', 'career-development-and-readiness', 'ai-anxiety-and-stress'] },
       { label: 'Families and communities', items: ['parents-and-families'] },
       { label: 'Instructors', items: ['teacher-ai-competency', 'tpack', 'samr-model', 'pedagogical-safety'] },
       { label: 'Designers and developers', items: ['educational-technology-developers'] },
-      { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'governance', 'change-management', 'technology-acceptance-model', 'regulation', 'open-source', 'edtech-platform', 'lifelong-learning', 'professional-training'] },
+    ],
+  },
+  {
+    heading: 'Institutions and systems',
+    groups: [
+      { label: 'Institutions', items: ['administrator', 'educational-policy-ai', 'governance', 'change-management', 'regulation'] },
+      { label: 'Systems and infrastructure', items: ['technology-acceptance-model', 'open-source', 'edtech-platform', 'lifelong-learning', 'professional-training'] },
     ],
   },
   {

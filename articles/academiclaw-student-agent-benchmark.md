@@ -4,14 +4,16 @@ created: "2026-05-11T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [generative-ai, intelligent-tutoring, llm, pedagogical-llm-training]
-assessment: [automated-assessment, benchmark]
-stakeholders: [open-source, student-experience]
+assessment: [automated-assessment]
+stakeholders: [student-experience]
 research_method: [benchmark]
 audience: [learners, software developers]
 level: [higher ed]
 sources: ['raw/papers/2605.02661.md']
 confidence: high
 page_kind: [evaluation]
+methods: [benchmark]
+systems: [open-source]
 ---
 
 > **Synthesis:** **AcademiClaw** is a bilingual [[benchmark]] of **80 complex, long-horizon tasks** sourced from university students' real academic workflows — homework, research projects, competitions, and personal projects — that they found current [[agentic-ai|AI agents]] unable to solve. It extends the OpenClaw ecosystem beyond assistant-level tasks into academic-level [[ai-ed-evaluation|agent evaluation]].

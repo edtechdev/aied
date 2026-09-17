@@ -5,13 +5,13 @@ updated: "2026-08-28T15:00:00-04:00"
 type: article
 foundations: [academic-integrity, agentic-ai, ai-literacy, learning-design]
 technology: [generative-ai, prompt-engineering]
-assessment: [ai-ed-evaluation]
 audience: [instructors, researchers]
 research_method: [theoretical analysis]
 level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/pchl-he-framework-genai-content-creation-2026.md']
 confidence: medium
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** This conceptual preprint develops the Prompt-Context-Harness-Loop Framework for Higher Education (PCHL-HE), a pedagogically grounded vocabulary that differentiates four increasingly complex configurations of generative-[[student-ai-interaction|AI interaction]] — prompt, context, harness, and verified loop — across eight dimensions of control, grounding, orchestration, and oversight. It introduces the **minimally sufficient layer principle** (use the least complex configuration capable of a verifiable result), a four-part verification architecture (output, evidence, process, and human-decision validity), parallel taxonomies for educational and [[research-methods-aied|research]] content, and eight testable propositions with a staged empirical research agenda.

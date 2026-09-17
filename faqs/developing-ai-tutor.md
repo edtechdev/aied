@@ -7,9 +7,10 @@ type: faq
 foundations: [learner-identity]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring]
-assessment: [ai-ed-evaluation, feedback]
+assessment: [feedback]
 stakeholders: [pedagogical-safety]
 discipline: [math education, writing education]
+methods: [ai-ed-evaluation]
 ---
 
 An effective AI tutor should be designed as a **learning system, not an answer-generation [[conversational-ai|chatbot]]**. The strongest theme across the knowledge base is that [[pedagogy|pedagogical]] structure—diagnosis, scaffolding, feedback, learner agency, and evaluation—matters at least as much as the underlying model. The two worked examples below (a calculus tutor and a writing coach) show how the same core architecture must be shaped by what the discipline requires of the learner.

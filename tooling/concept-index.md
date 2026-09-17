@@ -173,7 +173,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`teacher-education`** — Professional Development — phrases: initial teacher; preservice; preservice teacher education; preservice teachers; teacher education; teacher training
 - **`vocational-education`** — Vocational Education and Training — phrases: VET; TVET; technical and vocational education and training; vocational colleges
 
-## Assessment, evaluation, and measurement
+## Assessment and measurement
 
 ### Assessment and feedback
 
@@ -198,16 +198,16 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`assessment-validity`** — Assessment Validity — phrases: assessment validity; construct validity; measurement validity; test validity; validation; validity
 - **`educational-measurement`** — Educational Measurement — phrases: assessment theory; educational measurement; educational testing; measurement; measurement practice; measurement theory; psychometric modeling; psychometrics; test theory
 - **`item-response-theory`** — Item Response Theory — phrases: classical test theory; ctt; irt; item difficulty; item response theory
+- **`learning-gains`** — Learning Gains — phrases: academic achievement; academic performance; achievement; achievement gap; achievement gaps; learning achievement; learning effectiveness; learning gains; learning outcomes; prior achievement; student achievement
 - **`psychometrically-aware-ai`** — Psychometrically Aware AI — phrases: psychometric AI; psychometric awareness; psychometrically aligned AI; psychometrically aware; psychometrically aware AI
 - **`remote-proctoring`** — Remote Proctoring — phrases: AI proctoring; automated proctoring; e-proctoring; exam proctoring; online invigilation; online proctoring; remote proctoring
 - **`self-report-measures`** — Self-Report Measures — phrases: perceived learning; questionnaire; questionnaires; self-report; self-report bias; self-report data; self-report measures; self-reported; survey instrument
 
-### Evaluation of AI systems
+## Research methods and evaluation
 
-- **`ai-ed-evaluation`** — AI Ed Evaluation — phrases: ai evaluation; AI system evaluation; aied evaluation; assessment of AI systems; efficacy evaluation; evaluating AI; evaluation; evaluation of ai
-- **`benchmark`** — Benchmark — phrases: benchmark; benchmark dataset; benchmark suite; benchmarking; benchmarks; evaluation benchmark
+### Research methods
+
 - **`design-based-research`** — Design-Based Research — phrases: dbr; design based research; design-based; design-based research
-- **`learning-gains`** — Learning Gains — phrases: academic achievement; academic performance; achievement; achievement gap; achievement gaps; learning achievement; learning effectiveness; learning gains; learning outcomes; prior achievement; student achievement
 - **`meta-analysis-systematic-review`** — Meta-Analysis and Systematic Review — phrases: literature review; meta-analysis; meta-analytic; PRISMA; scoping review; systematic review; systematically review
 - **`mixed-methods-research`** — Mixed-Methods Research — phrases: mixed methods; mixed-methods
 - **`network-analysis`** — Network Analysis — phrases: ena; epistemic network; epistemic network analysis; network analysis; sna; social network; social network analysis; tna; transition network; transition network analysis
@@ -217,7 +217,12 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`research-methods-aied`** — Research Methods in AIED — phrases: AIED methodology; AIED research methods; methodological; research; research design; research methods; research methods in AIED; researcher; researchers; study design
 - **`usability-research`** — Usability Research — phrases: usability; user experience
 
-## People: learners, teachers, and institutions
+### Evaluation of AI systems
+
+- **`ai-ed-evaluation`** — AI Ed Evaluation — phrases: ai evaluation; AI system evaluation; aied evaluation; assessment of AI systems; efficacy evaluation; evaluating AI; evaluation; evaluation of ai
+- **`benchmark`** — Benchmark — phrases: benchmark; benchmark dataset; benchmark suite; benchmarking; benchmarks; evaluation benchmark
+
+## People
 
 ### Learners
 
@@ -241,17 +246,22 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 - **`educational-technology-developers`** — Educational Technology Developers — phrases: edtech designers; edtech developers; educational software developers; edtech companies
 
-### Institutions and systems
+## Institutions and systems
+
+### Institutions
 
 - **`administrator`** — Administrators — phrases: admin; administration; administrator; administrator perspective; administrators; edtech administrator; education administrator; institutional leader
 - **`change-management`** — Change Management — phrases: change management; educational reform; implementation of AI; institutional change; leading change; organizational change
-- **`edtech-platform`** — Edtech Platform — phrases: edtech; edtech platform; educational platform; learning management system; learning platform; lms; platform
 - **`educational-policy-ai`** — Educational AI Policy — phrases: AI in education policy; ai policies; ai policy; education policy; educational AI policy; educational policy; genai policy; institutional policy; policy; policy for AI
 - **`governance`** — AI Governance — phrases: AI governance; governance; governance framework; institutional
+- **`regulation`** — AI Regulation in Education — phrases: AI regulation; regulation; regulatory; regulatory framework
+
+### Systems and infrastructure
+
+- **`edtech-platform`** — Edtech Platform — phrases: edtech; edtech platform; educational platform; learning management system; learning platform; lms; platform
 - **`lifelong-learning`** — Lifelong Learning — phrases: continuous learning; life-long learning; lifelong learning; lifelong learning and AI; upskilling
 - **`open-source`** — Open Source — phrases: oer; oers; open content; open courseware; open education; open educational resources; open models; open pedagogy; open source; open textbook; open textbooks; open weights; open-source; OSS
 - **`professional-training`** — Workplace Learning — phrases: professional education; professional training; reskilling; vocational training; workforce development
-- **`regulation`** — AI Regulation in Education — phrases: AI regulation; regulation; regulatory; regulatory framework
 - **`technology-acceptance-model`** — Technology Adoption Models — phrases: adoption model; diffusion of innovation; perceived ease of use; perceived usefulness; TAM; technology acceptance; technology acceptance model; technology adoption; technology adoption model; technology organisation environment; theory of planned behavior; utaut
 
 ## Equity, ethics, and responsible use

@@ -4,7 +4,7 @@ created: "2026-05-12T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [ai-education, ai-literacy, educational-development]
-stakeholders: [pedagogical-safety, regulation, teacher-ai-competency]
+stakeholders: [pedagogical-safety, teacher-ai-competency]
 ethics: [equity-in-ai-education, ethics]
 research_method: [survey]
 discipline: [cs education]
@@ -12,6 +12,7 @@ audience: [faculty development]
 sources: ['raw/papers/2605.09680.md']
 confidence: high
 level: [higher ed]
+systems: [regulation]
 ---
 
 > **Synthesis:** This study examines the disconnect between **ethics education** and real-world decision-making among 129 [[cs-education|computer science]] students and recent graduates during their job searches. Despite receiving contemporary CS ethics education, most students prioritize compensation, location, and workplace culture over [[ethics|ethical]] and social concerns when choosing employers.

@@ -6,13 +6,13 @@ type: article
 foundations: [ai-education, computational-thinking, curriculum-design]
 pedagogy: [project-based-learning]
 technology: [machine-learning]
-stakeholders: [open-source]
 research_method: [system development, design and evaluation study]
 discipline: [engineering education, stem education]
 sources: ['raw/papers/mechanical-engineering-ai-curriculum-2026.md']
 confidence: high
 audience: [curriculum designers, instructors, faculty development]
 level: [higher ed]
+systems: [open-source]
 ---
 
 > **Synthesis:** Li et al. (2026) propose a project-based [[curriculum-design|AI education curriculum]] that integrates artificial intelligence into [[engineering-education|mechanical engineering]] at the University of Arkansas, with a particular emphasis on thermal problems and their interplay with electrical and computer engineering. Responding to the limited AI background, challenging traditional thermal system modeling, and heavy course loads common in mechanical engineering programs, the three-level curriculum (introductory, application, and advanced) embeds AI across existing thermal topics rather than adding standalone CS-oriented courses. The authors report that students, regardless of prior ML participation, showed strong enthusiasm for [[reinforcement-learning|machine learning]] and recognized its importance to [[educational-development|professional development]], and that hands-on practice enhanced confidence and interest. The full syllabus, data, and code are released in open-access repositories.

@@ -5,13 +5,14 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [pedagogy]
-assessment: [ai-ed-evaluation, assessment, meta-analysis-systematic-review]
+assessment: [assessment]
 audience: [instructors, faculty development, researchers]
 research_method: [meta-analysis]
 level: [higher ed, k 12]
 page_kind: [evaluation]
 sources: ['raw/papers/liu-ai-literacy-interventions-meta-analysis-2026.md']
 confidence: high
+methods: [ai-ed-evaluation, meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** **In brief:** Liu, Lin, Ng, Yang, and Dai conduct a three-level [[meta-analysis-systematic-review|meta-analysis]] of 59 empirical studies (172 effect sizes, 7,211 participants) on [[ai-literacy|AI literacy]] interventions. They find a large, statistically significant overall effect (g = 0.837, p < .001) with substantial heterogeneity; moderator analyses show interventions in East Asia and Europe outperformed those in North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or [[ethics]]. They conclude AI literacy education should move beyond knowledge toward skills, practices, [[ethics]], and attitudes, supported by integrated and reflective [[pedagogy|pedagogies]] and [[generative-ai|GenAI]]-supported tools.

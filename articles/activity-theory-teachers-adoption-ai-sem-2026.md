@@ -6,13 +6,13 @@ type: article
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied]
 technology: [generative-ai]
-stakeholders: [change-management, technology-acceptance-model]
 research_method: [structural equation modeling, survey]
 audience: [instructors]
 level: [k 12, higher ed, adult learning]
 sources: ['raw/papers/10.1016_j.caeo.2026.100349.md']
 confidence: high
 page_kind: [framework]
+systems: [change-management, technology-acceptance-model]
 ---
 
 > **Synthesis:** Lee & Granziera (2026) test [[activity-theory-aied|activity theory]] as an explanatory framework for why some educators adopt AI tools while others remain reluctant, using factor analysis and structural equation modeling (SEM) on 557 primary, secondary, and pre-service teachers. Conceptualizing each of activity theory's six components (Individual/Subject, Objectives, Tools, Community, Rules/Regulations, Division of Labor) as measurable constructs, they find that Individual and Community components significantly explain teachers' Intention to adopt AI-driven tools. Objectives and Division of Labor were directly linked to Individual (and indirectly to Intention); Community linked to Rules/Regulations and Government, which were indirectly associated with Intention. The results suggest career stage and teaching level shape adoption, offering activity theory as an alternative to [[technology-acceptance-model|technology-acceptance]] framings of AI uptake in education.

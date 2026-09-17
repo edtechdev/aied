@@ -5,13 +5,14 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [conversational-ai, generative-ai]
-stakeholders: [student-experience, technology-acceptance-model]
+stakeholders: [student-experience]
 ethics: [privacy]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025.md']
 confidence: high
+systems: [technology-acceptance-model]
 ---
 
 > **Synthesis:** **Chat or cheat?** — a survey of 468 undergraduates examining how students' Perception of Academic Dishonesty (PAD) and their perceptions of the risks of ChatGPT are linked to reduced use frequency and intention to use the tool. Findings show a negative relationship between perceived risk and ChatGPT usage, with perceived risk mediating the PAD–usage link: students who perceive academic dishonesty as a serious problem are more aware of ChatGPT's risks and consequently use it less.

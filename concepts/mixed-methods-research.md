@@ -3,9 +3,9 @@ title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
 updated: "2026-08-31T06:34:37-04:00"
 type: concept
-assessment: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 research_method: [mixed methods, research methods, qualitative, survey]
 confidence: high
+methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 ---
 
 > **Mixed-methods research** — the design and practice of intentionally combining [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] strands within a single study so that their strengths complement and their weaknesses offset each other. In [[ai-education|AI in education]], mixed-methods designs are widely used because AI effects are simultaneously measurable ([[learning-gains|learning gains]], [[student-engagement|engagement]]) and meaning-laden (trust, [[agency]], identity) — and neither a survey nor an interview alone captures both.

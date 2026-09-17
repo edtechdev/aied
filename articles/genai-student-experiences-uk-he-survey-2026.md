@@ -5,13 +5,14 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
-stakeholders: [educational-policy-ai, student-experience]
+stakeholders: [student-experience]
 ethics: [equity-in-ai-education, ethics]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/genai-student-experiences-uk-he-survey-2026.md']
 confidence: high
+systems: [educational-policy-ai]
 ---
 
 > **Synthesis:** The StudentXGenAI Project surveyed more than 7,000 students across 7 UK institutions (September–December 2025) on GenAI use in their studies, comparing findings with a companion Australian survey. A significant minority of students conscientiously object to GenAI use, while most users are honest most of the time and try to avoid submitting direct GenAI outputs — yet students still use GenAI throughout the entire learning and assessment process, creating a persistent tension between use and integrity.

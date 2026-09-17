@@ -5,12 +5,13 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [teacher-role]
 technology: [llm]
-assessment: [ai-ed-evaluation, assessment, automated-assessment, formative-assessment]
+assessment: [assessment, automated-assessment, formative-assessment]
 research_method: [experiment]
 audience: [instructors]
 page_kind: [evaluation]
 sources: ['raw/papers/2606.23629.md']
 confidence: medium
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** Tseng et al. (2026) investigate human-machine alignment in LLM-based pretest question evaluation — a critical bottleneck for scalable AI-assisted assessment. Their AI-assisted workflow combines automated generation, rubric-based evaluation, and iterative selection. Through a 2×2 experimental design varying rubric operationalization and evaluation mode, they find that human-machine disagreements are systematic rather than random, rubric revision has a larger effect on alignment than rationale-first evaluation, and the two interventions are complementary. The core insight is that scalable AI-assisted pretesting depends not only on generation capability but crucially on how [[pedagogy|pedagogical]] quality is operationalized for machine interpretation. This work contributes to [[ai-ed-evaluation]] by providing empirical evidence for aligning [[llm]] judgment with human pedagogical standards in [[formative-assessment]] contexts, and has direct implications for [[automated-assessment|Automated Grading]] and [[assessment]] system design.

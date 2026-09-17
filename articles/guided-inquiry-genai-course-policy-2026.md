@@ -6,7 +6,6 @@ type: article
 foundations: [agency, ai-education, ai-literacy, curriculum-design, teacher-role]
 pedagogy: [student-engagement]
 technology: [generative-ai]
-stakeholders: [governance]
 ethics: [ethics]
 connected_faqs: [course-ai-policy]
 sources: ['raw/papers/2608.28501.md']
@@ -14,6 +13,7 @@ confidence: high
 research_method: [qualitative, thematic analysis]
 audience: [instructors, administrators, curriculum designers]
 level: [higher ed]
+systems: [governance]
 ---
 
 > **Synthesis:** Hingle and Johri (2026) report an exploratory study in which students co-designed a [[generative-ai]] course [[educational-policy-ai|policy]] through a guided inquiry activity. Students first drafted individual proposals for appropriate and [[ethics|ethical]] GenAI use, then refined them collaboratively by incorporating diverse stakeholder perspectives. Analysis of student artifacts and group discussions showed participants prioritized training for students and instructors, standardized [[ai-use-disclosure|disclosure]] procedures, stronger institutional support, and greater involvement in GenAI-related decision-making. The study offers [[pedagogy|pedagogical]] insights into how policy co-design can surface student values and sensemaking about governing AI use in educational contexts.

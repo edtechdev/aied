@@ -4,7 +4,6 @@ created: "2026-09-17T04:10:00-04:00"
 updated: "2026-09-17T08:05:01-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking, curriculum-design]
-stakeholders: [governance]
 ethics: [bias-mitigation, ethics, explainable-ai]
 research_method: [theoretical analysis]
 audience: [curriculum designers, instructors, educators, researchers]
@@ -14,6 +13,7 @@ page_kind: [framework]
 confidence: low
 sources: ['raw/papers/lund-socially-accountable-data-science-xai-2026.md']
 connected_faqs: [incorporating-ai-literacy, equity-ethics-pedagogical-safety-research]
+systems: [governance]
 ---
 
 > **Synthesis:** Lund and colleagues (2026) argue that programs training AI developers have taught technical proficiency while leaving social accountability to elective ethics content, and propose a conceptual framework for embedding both in the core curriculum. Its structure is four pillars — **answerability**, **responsibility**, **enforcement** and **reflexivity** — each crossed with four dimensions of [[explainable-ai|XAI]] implementation (technical, social, organizational, political), yielding a crosswalk that tells an instructor what each pillar looks like in practice. The paper's distinctive move is pedagogical concreteness: graded model cards, structured explanation audits with LIME and SHAP, algorithmic impact assessments, tiered peer-review panels, positionality statements and reflective design journals, each rated for classroom cost and failure mode, with a staged adoption path for programs that cannot afford the full set. It is explicit that the framework is conceptual and has not been evaluated in a classroom, and that explanation alone is not accountability — an accurate explanation of a model's behavior says nothing about whether the right features should have been used at all.

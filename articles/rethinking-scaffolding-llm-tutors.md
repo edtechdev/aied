@@ -5,13 +5,13 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 pedagogy: [help-seeking, scaffolding]
 technology: [intelligent-tutoring, llm]
-assessment: [benchmark]
 stakeholders: [student-experience]
 research_method: [benchmark, secondary analysis]
 audience: [learners]
 sources: ['raw/papers/2606.15766.md']
 confidence: high
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 
 > **Synthesis:** Alignment and evaluation methods for embedding [[scaffolding]] behavior into [[conversational-ai|chatbots]] rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation.

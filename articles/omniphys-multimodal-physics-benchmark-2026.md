@@ -4,13 +4,14 @@ created: "2026-08-28T09:08:00-04:00"
 updated: "2026-08-28T09:08:00-04:00"
 type: article
 technology: [generative-ai, llm, multimodal]
-assessment: [assessment, automated-assessment, benchmark]
+assessment: [assessment, automated-assessment]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [physics education, stem education]
 sources: ['raw/papers/2608.25398.md']
 confidence: high
 level: [secondary, higher ed]
+methods: [benchmark]
 ---
 
 > **Synthesis:** Chen et al. (2026) introduce **OmniPhys**, a large-scale [[multimodal]] benchmark for [[physics-education|physics]] understanding and reasoning built from Chinese educational corpora, spanning middle-school through university-level problems. The benchmark comprises 15,246 questions and 19,850 images with fine-grained annotations supporting analysis of reasoning processes and knowledge usage, and — unusually — systematically evaluates multimodal *output* generation, including models' ability to synthesize structured physics diagrams. Extensive evaluations reveal critical gaps in current [[llm|multimodal LLMs]], especially in complex reasoning and visual generation, positioning OmniPhys as a foundational resource for advancing multimodal intelligence in physics and for informing [[automated-assessment|automated]] physics [[assessment]].

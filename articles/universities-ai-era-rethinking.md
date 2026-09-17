@@ -5,13 +5,14 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [educational-development, teacher-role]
 assessment: [assessment-validity]
-stakeholders: [administrator, change-management, educational-policy-ai, regulation, student-experience, teacher-ai-competency]
+stakeholders: [student-experience, teacher-ai-competency]
 research_method: [case study]
 audience: [instructors, administrators, faculty development, learners]
 level: [higher ed]
 sources: ['raw/papers/2605.07056.md']
 confidence: medium
 page_kind: [framework]
+systems: [administrator, change-management, educational-policy-ai, regulation]
 ---
 
 > **Synthesis:** Rather than replacing universities, [[generative-ai|generative AI]] **redefines their essential functions** — this paper proposes a four-level framework of [[governance|institutional]] AI adoption and argues that the central challenge is moving from isolated, individual-driven experimentation to strategic integration, supported by workload and recognition systems.

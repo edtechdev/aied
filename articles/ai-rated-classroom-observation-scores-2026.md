@@ -5,13 +5,14 @@ created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 foundations: [teacher-role]
 technology: [human-in-the-loop-ai, llm, multimodal]
-assessment: [ai-ed-evaluation, assessment-validity, automated-assessment, educational-measurement]
+assessment: [assessment-validity, automated-assessment, educational-measurement]
 sources: ['raw/papers/ai-rated-classroom-observation-scores-2026.md']
 confidence: high
 research_method: [educational measurement]
 level: [early childhood]
 audience: [instructors, researchers]
 page_kind: [evaluation]
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** Fong and colleagues tested whether a large language model can stand in for trained observers by having Perplexity's GPT-5.0 apply the full CLASS Pre-K framework to transcripts of 87 video-recorded observations from 38 classrooms across 30 Hong Kong kindergartens, then comparing its ratings with those of eight trained human raters. Agreement was moderate overall (weighted κ = 0.681) but sharply construct-dependent: the [[llm|AI]] converged with raters on the [[early-childhood-elementary-ai-education|Emotional Support]] domain and on Quality of Feedback — the one dimension built around explicit, exchange-based verbal support — and diverged wherever quality lives in nonverbal, procedural or context-dependent behaviour, above all in Classroom Organization. The divergence ran in both directions rather than one: raters scored the emotional dimensions higher than the model, while the model scored Concept Development *higher* than raters, so the AI was neither uniformly conservative nor uniformly generous. The authors read this as a ceiling rather than a verdict — transcript-based [[automated-assessment|AI scoring]] recovers some of the *relative* variation in teacher–child interaction quality without reproducing calibrated human levels — and position it as a preliminary screening tool that gives [[teacher-role|teachers]] evidence for reflection rather than a basis for high-stakes evaluation.

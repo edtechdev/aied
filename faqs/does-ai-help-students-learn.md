@@ -5,8 +5,9 @@ updated: "2026-09-17T02:26:00-04:00"
 weight: 90
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [active-learning]
-assessment: [ai-ed-evaluation, assessment, self-report-measures]
+assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
+methods: [ai-ed-evaluation]
 ---
 
 # Does Using AI Actually Help My Students Learn?

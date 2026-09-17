@@ -5,13 +5,13 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [ai-education, ai-literacy, curriculum-design, teacher-role]
 technology: [generative-ai]
-assessment: [meta-analysis-systematic-review]
 ethics: [digital-divide, equity-in-ai-education]
 research_method: [systematic review]
 audience: [instructors]
 level: [k 12, teacher training]
 sources: ['raw/papers/caruana-pre-university-ai-education-slr-2026.md']
 confidence: high
+methods: [meta-analysis-systematic-review]
 ---
 > **Synthesis:** Caruana, Gilar-Corbí, and Palomar (2026) present a PRISMA-guided systematic [[meta-analysis-systematic-review|literature review]] of **42 studies (2009–2026)** on AI integration in **pre-university (K-12) education**, motivated by **Sustainable Development Goal 4** and the principles of **Education for Sustainable Development**. Thematic synthesis identifies four major [[research-methods-aied|research]] areas: **[[teacher-education|teacher education]] for AI integration** (n=16), **curriculum development and [[pedagogy|pedagogical]] foundations** (n=13), **AI literacy and [[ethics|ethical]] competencies** (n=15), and **the pedagogical and ethical implications of [[generative-ai|generative AI]]** (n=9). The evidence consistently indicates that effective AI integration hinges on teacher preparedness, structured interdisciplinary curricula, and critical, ethical approaches that foster responsible digital citizenship — with significant gaps in longitudinal evidence, classroom-based empirical research, and standardized AI-literacy assessment instruments.
 

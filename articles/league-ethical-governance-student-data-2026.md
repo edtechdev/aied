@@ -4,7 +4,6 @@ created: "2026-08-05T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [learning-analytics]
-stakeholders: [change-management, regulation]
 ethics: [equity-in-ai-education, ethics, privacy]
 connected_faqs: [institutional-ai-policy]
 research_method: [theoretical analysis]
@@ -13,6 +12,7 @@ sources: ['raw/papers/2608.03968.md']
 confidence: high
 audience: [administrators, institutions, policymakers]
 page_kind: [framework]
+systems: [change-management, regulation]
 ---
 
 > **Synthesis:** **Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics** — Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, [[educational-policy-ai|educational policy]], v... [[learning-analytics]] [[privacy]] [[equity-in-ai-education]] [[ethics]] [[regulation]] [[higher-ed]]

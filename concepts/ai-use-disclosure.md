@@ -6,11 +6,11 @@ type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
 assessment: [assessment]
-stakeholders: [educational-policy-ai]
 ethics: [ai-use-disclosure, ethics, trust]
 connected_faqs: [reporting-interpreting-aied-research, ai-guidance-children-under-13, course-ai-policy]
 level: [higher ed]
 confidence: high
+systems: [educational-policy-ai]
 ---
 
 > **AI use and disclosure statements** — the policies, declarations, and practices through which learners are asked (or choose) to disclose their use of [[generative-ai|generative AI]] in academic work. Also known as AI use declarations, AI disclosure statements, or [[explainable-ai|transparency]] statements, these mechanisms sit at the intersection of [[academic-integrity]], [[ethics]], [[trust]], and [[assessment]] in the AI era. The knowledge base's [[research-methods-aied|research]] shows that disclosure is far from a neutral administrative formality: it is shaped by fear of penalties, ambiguous policies, inconsistent enforcement, peer norms, stigma, and the psychological costs of self-incrimination — and it is deeply entangled with [[self-regulated-learning]] and [[help-seeking]].

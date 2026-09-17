@@ -6,11 +6,11 @@ weight: 70
 type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
 assessment: [assessment]
-stakeholders: [educational-policy-ai]
 ethics: [ai-use-disclosure]
 research_method: [literature review, qualitative, survey]
 audience: [instructors, educators, curriculum designers]
 level: [higher ed, secondary]
+systems: [educational-policy-ai]
 ---
 
 # How Do I Write a Course AI Policy and Communicate It to Students?

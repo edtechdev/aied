@@ -4,13 +4,14 @@ created: "2026-09-03T14:31:40-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [generative-ai]
-assessment: [assessment, feedback, meta-analysis-systematic-review]
+assessment: [assessment, feedback]
 sources:
   - raw/papers/jukiewicz-chatgpt-teacher-assessment-feedback-2026.md
 confidence: high
 research_method: [systematic review]
 audience: [educators, assessment designers, instructors]
 page_kind: [synthesis]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** **Can ChatGPT Replace the Teacher in Assessment? A Review of Research on the Use of Large Language Models in Grading and Providing Feedback** — This PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) evaluates whether [[llm|large language models]] (LLMs) can replace teachers in [[assessment]] and [[feedback]]. The authors conclude that LLMs match human raters on short, well-structured tasks with detailed rubrics, but cannot fully replace human judgment on complex, open-ended, or subjective work, recommending a [[human-in-the-loop-ai|human-in-the-loop]] hybrid model. Prompt quality, rubric detail, model version, and assessment language are the dominant determinants of [[ai-feedback-quality|grading and feedback quality]].

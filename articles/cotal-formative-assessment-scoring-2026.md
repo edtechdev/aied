@@ -4,12 +4,13 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 technology: [human-in-the-loop-ai, llm, prompt-engineering]
-assessment: [ai-ed-evaluation, assessment-validity, automated-assessment, benchmark, formative-assessment]
+assessment: [assessment-validity, automated-assessment, formative-assessment]
 research_method: [benchmark]
 page_kind: [evaluation]
 sources: ['raw/papers/cotal-formative-assessment-scoring-2026.md']
 confidence: high
 audience: [assessment designers, instructors]
+methods: [ai-ed-evaluation, benchmark]
 ---
 
 > **Synthesis:** 1. **Evidence-Centered Design (ECD)** — assessments and rubrics aligned to [[curriculum-design|curriculum]] goals from the start 2. **[[human-in-the-loop-ai|Human-in-the-loop]] [[prompt-engineering|prompt engineering]]** — labeled examples and prompts refined iteratively with educators 3. **Chain-of-thought (CoT) prompting + [[active-learning|active learning]]** — teacher and student [[feedback|feedback loops]] refine questions, rubrics, and [[llm]] prompts across iterations

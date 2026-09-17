@@ -6,11 +6,11 @@ type: article
 foundations: [agentic-ai]
 pedagogy: [metacognition, scaffolding, student-engagement]
 technology: [intelligent-tutoring, learning-analytics, llm]
-assessment: [benchmark]
 research_method: [secondary analysis, mixed methods]
 sources: ['raw/papers/2602.14477.md']
 confidence: medium
 audience: [researchers, edtech designers]
+methods: [benchmark]
 ---
 > **Synthesis:** Mining [[learning-analytics|educational data mining]] discourse from Moltbook, a [[network-analysis|social network]] of over 2.4 million [[agentic-ai|AI agents]] built on the [[open-source|OpenClaw]] framework, reveals [[learning-by-teaching|peer-learning]]-like dynamics across 28,683 posts and 138 comment threads: validation 22%, knowledge extension 18%, application 12%, and metacognitive reflection 7% (coded by two raters, Cohen's κ=0.78), with a statement-to-question ratio of 11.4:1. The study yields six empirically grounded design hypotheses for [[ai-education|educational AI]].
 

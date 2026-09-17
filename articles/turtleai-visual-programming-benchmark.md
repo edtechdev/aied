@@ -4,7 +4,6 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [multimodal, visualization]
-assessment: [benchmark]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [cs education]
@@ -12,6 +11,7 @@ level: [k 12]
 sources: ['raw/papers/2606.03626.md']
 confidence: medium
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 
 > **Synthesis:** This paper introduces TurtleAI, a [[benchmark]] containing 823 tasks curated from real-world visual programming in the Turtle Graphics domain, evaluating how well vision-language models (VLMs) perform on education-oriented visual programming. Most prior work focuses on visual programming for productivity; the authors find that current VLMs struggle significantly on these tasks, and that fine-tuning on synthetic data yields about a 20% improvement — informing [[cs-education|programming education]] and multimodal [[ai-ed-evaluation|AI evaluation]].

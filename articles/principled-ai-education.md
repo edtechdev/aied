@@ -6,13 +6,13 @@ type: article
 foundations: [ai-education, educational-development]
 pedagogy: [active-learning, metacognition, pedagogy, scaffolding, self-regulated-learning]
 technology: [human-in-the-loop-ai]
-stakeholders: [educational-policy-ai]
 research_method: [theoretical analysis]
 audience: [faculty development]
 level: [higher ed]
 sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
 confidence: high
 page_kind: [framework]
+systems: [educational-policy-ai]
 ---
 
 > **Synthesis:** The framework rests on three interconnected anchors that must be addressed *before* selecting tools:

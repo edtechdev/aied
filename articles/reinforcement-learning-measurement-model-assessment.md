@@ -4,11 +4,12 @@ created: "2026-05-12T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [knowledge-tracing, learning-analytics, llm]
-assessment: [assessment, benchmark]
+assessment: [assessment]
 research_method: [theoretical analysis]
 sources: ['raw/papers/2605.09305.md']
 confidence: medium
 audience: [researchers, assessment professionals]
+methods: [benchmark]
 ---
 
 > **Synthesis:** Interactive assessments generate sequential process data that conventional item response models (IRT) cannot adequately handle. This paper proposes a **[[reinforcement-learning|reinforcement learning]] measurement model** that links action choices to state-action values, extending beyond existing MDP-based measurement approaches.

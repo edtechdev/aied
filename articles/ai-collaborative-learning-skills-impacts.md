@@ -6,12 +6,12 @@ type: article
 foundations: [critical-thinking]
 pedagogy: [collaborative-learning, creativity, problem-solving]
 technology: [generative-ai]
-assessment: [mixed-methods-research]
 research_method: [mixed methods]
 level: [higher ed]
 sources: ['raw/papers/jerap-ai-collab-skills.md']
 confidence: high
 audience: [educators, instructional designers]
+methods: [mixed-methods-research]
 ---
 
 > **Synthesis:** Artificial Intelligence and Collaborative Learning: Impacts on [[creativity]], Critical Thinking, and [[problem-solving]]

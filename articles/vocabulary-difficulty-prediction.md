@@ -5,14 +5,15 @@ updated: "2026-09-16T17:12:13-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [generative-ai, llm, rag]
-assessment: [benchmark, formative-assessment]
-stakeholders: [open-source]
+assessment: [formative-assessment]
 research_method: [benchmark]
 discipline: [language learning, writing education]
 level: [k 12]
 sources: ['raw/papers/2605.14257.md']
 confidence: high
 audience: [researchers, edtech designers, assessment designers]
+methods: [benchmark]
+systems: [open-source]
 ---
 
 > **Synthesis:** This paper presents two complementary approaches to predicting vocabulary difficulty for language learners, achieving state-of-the-art results in the BEA 2026 Shared Task. The work advances both the accuracy and explainability of NLP systems for educational applications.

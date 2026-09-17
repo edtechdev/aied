@@ -5,12 +5,13 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [cognitive-offloading, critical-thinking]
 technology: [intelligent-tutoring]
-stakeholders: [regulation, student-experience]
+stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [learners]
 
 sources: ['raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md']
 confidence: medium
+systems: [regulation]
 ---
 
 > **Synthesis:** **Critical AI Tutors: Empower or Enslave?** — A position paper presented at the [[ai-education|AIED]] 2025 workshop that issues a stark warning: unchecked use of AI tutors risks creating a generation of cognitively atrophied learners who have traded genuine understanding for the illusion of competence. Drawing on cognitive science and [[pedagogy|pedagogical]] theory, the authors argue that AI tutors without intentional [[guardrails]] lead to cognitive atrophy, loss of agency, emotional risks, and serious [[ethics|ethical]] concerns around privacy and academic integrity. The paper advocates for critically informed, transparent AI use that empowers rather than diminishes the learner, and calls for student perspectives to be centered in the design and deployment of AI tutoring systems.

@@ -6,12 +6,12 @@ type: article
 foundations: [ai-education, critical-thinking]
 pedagogy: [cognitive-psychology, creativity, problem-solving, self-regulated-learning]
 technology: [generative-ai]
-assessment: [meta-analysis-systematic-review]
 research_method: [meta-analysis]
 sources: ['raw/papers/zhao-genai-higher-order-thinking-meta-2026.md']
 confidence: high
 audience: [educators, researchers]
 page_kind: [evaluation, synthesis]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** This [[meta-analysis-systematic-review|meta-analysis]] integrates 29 experimental and quasi-experimental studies to quantify the overall effect of [[generative-ai]] on learners' higher-order thinking (HOT) and examine moderators. GenAI exerts a **moderate positive effect** on HOT, strongest for **[[problem-solving]]**, followed by **critical thinking**, with a relatively limited effect on **creativity**. Effects are significantly moderated by intervention duration (strongest at 8–16 weeks) and learners' [[self-regulated-learning]] abilities (higher SRL → more benefit).

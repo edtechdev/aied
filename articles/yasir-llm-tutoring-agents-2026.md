@@ -4,12 +4,13 @@ created: "2026-08-15T15:53:50-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [intelligent-tutoring, knowledge-graph, knowledge-tracing, student-modeling]
-assessment: [ai-ed-evaluation, ai-feedback-quality, educational-measurement]
+assessment: [ai-feedback-quality, educational-measurement]
 audience: [software developers]
 research_method: [benchmark]
 page_kind: [evaluation]
 sources: ['raw/papers/yasir-llm-tutoring-agents-2026.md']
 confidence: high
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** Yasir et al. (2026) [[benchmark]] seven [[llm|LLM]] [[feedback]] agents as step-level [[intelligent-tutoring|tutors]] in propositional logic, using **[[knowledge-graph]]-derived ground truth** across 10,836 solution–feedback pairs and three feedback conditions. Their core finding: models achieve near-ceiling performance on optimal steps but **systematically over-reject valid-but-suboptimal reasoning and over-validate incorrect solutions** — precisely where [[intelligent-tutoring|adaptive tutoring]] matters most. These failures persist across models and solution contexts (suggesting architectural rather than informational limits), and accurate diagnosis does not reliably produce pedagogically actionable [[feedback]]. The authors conclude LLMs are better suited to hybrid architectures where [[knowledge-graph|KG-grounded]] models handle diagnosis while LLMs support open-ended [[scaffolding]] and dialogue.

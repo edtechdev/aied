@@ -3,9 +3,9 @@ title: Design-Based Research
 created: "2026-08-24T02:30:00-04:00"
 updated: "2026-09-17T14:46:00-04:00"
 type: concept
-assessment: [design-based-research, research-methods-aied]
 research_method: [design-based research, research methods, literature review]
 confidence: high
+methods: [design-based-research, research-methods-aied]
 ---
 
 > **Design-based research (DBR)** — a methodological approach that iteratively designs, implements, and refines an educational intervention in authentic contexts, cycling between theory, design, and real-world practice to produce both a usable artifact and validated design principles. In [[ai-education|AI in education]], DBR is the method of choice for developing AI learning environments, [[pedagogy|pedagogical]] models, and teacher-training programs that must work in the messy reality of classrooms — trading the causal control of [[rct|experiments]] for ecological authenticity and iterative refinement.
