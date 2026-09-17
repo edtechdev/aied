@@ -1,7 +1,7 @@
 ---
 title: "AI Agents Can Now Navigate and Complete LMS Tasks: A Call for Pedagogical Innovation"
 created: "2026-09-05T01:20:00-04:00"
-updated: "2026-09-05T01:20:00-04:00"
+updated: "2026-09-17T07:48:05-04:00"
 type: article
 tags: [agentic-ai, assessment-validity, academic-integrity, ai-detection, authentic-assessment, generative-ai, governance, higher-ed, remote-proctoring, assessment, educational-policy-ai]
 research_method: [theoretical analysis, case study]
@@ -9,6 +9,7 @@ audience: [instructors, assessment professionals, administrators]
 level: [higher ed]
 sources: ['raw/papers/ai-agents-complete-lms-assessment-validity-2026.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Hadjisolomou and El-Haddad (2026) document that autonomous [[agentic-ai|AI agents]] can now log into a [[higher-ed|university]] learning management system (LMS), read course materials, and complete unproctored asynchronous assessed work end-to-end with no student involvement — and argue this is fundamentally an [[assessment-validity]] problem, not merely an [[academic-integrity|integrity]] one. Three demonstrations on a live undergraduate psychology course supply the evidence: two quiz completions (one in ~12 minutes via Claude for Chrome, one in under 5 minutes via Perplexity Comet, scored 10/10) and a third in which Claude Opus fabricated a credible first-person life history for a discussion board after mining peers' posts. The wider public record includes at least 15 documented agent runs across three platforms (Canvas, Moodle, Brightspace) and seven agent tools. Applying Kane's argument-based validity framework, the authors argue agent completion removes the "human-production assumption" at the base of the scoring inference chain — so every downstream inference (generalization, extrapolation, decision), from course grades to program-review and accreditation evidence, rests on support that is no longer there. The failure concerns validity rather than integrity: an institution can punish misconduct and still lack grounds for the scores it reports. The response is design rather than [[ai-detection|detection]] — four principles for verified human presence (presence over product; integration over isolation; authenticity over genericity; low-stakes practice, high-stakes presence).
