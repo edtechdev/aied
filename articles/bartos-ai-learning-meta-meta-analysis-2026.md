@@ -5,13 +5,14 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [critical-thinking, limitations-in-aied-research]
 technology: [generative-ai, llm]
-assessment: [ai-ed-evaluation, learning-gains, meta-analysis-systematic-review, research-methods-aied]
+assessment: [learning-gains]
 connected_faqs: [reporting-interpreting-aied-research]
 sources: ['raw/papers/bartos-ai-learning-meta-meta-analysis-2026.md']
 confidence: high
 research_method: [meta-analysis, secondary analysis]
 audience: [researchers, policymakers]
 page_kind: [synthesis, evaluation]
+methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
 ---
 
 > **Synthesis:** **Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis** — A study-level meta-meta-analysis by Bartoš, Bujak, Martinková, and Wagenmakers (2026) that re-analyzes 1,840 effect sizes from 67 published [[meta-analysis-systematic-review|meta-analyses]] of AI/[[llm]] effects on learning. Using publication-bias-adjusted robust Bayesian model-averaging, they find strong evidence of severe [[limitations-in-aied-research|publication bias]] and extreme between-study heterogeneity, and estimate the bias-adjusted average effect at roughly one-third the magnitude reported in the literature (SMD = 0.196), with prediction intervals spanning large negative to large positive effects. They conclude that broad claims of generalized [[learning-gains|learning gains]] from AI/LLMs are premature and the evidence is insufficient to support policy or practice recommendations.

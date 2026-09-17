@@ -5,7 +5,7 @@ updated: "2026-09-16T14:48:35-04:00"
 type: article
 foundations: [limitations-in-aied-research, theory-development-aied]
 technology: [generative-ai]
-assessment: [ai-ed-evaluation, assessment-validity, research-methods-aied]
+assessment: [assessment-validity]
 ethics: [ai-use-disclosure, ethics]
 connected_faqs: [reporting-interpreting-aied-research]
 research_method: [theoretical analysis]
@@ -14,6 +14,7 @@ level: [higher ed]
 page_kind: [framework]
 sources: ['raw/papers/tep-aied-model-reporting-2026.md']
 confidence: high
+methods: [ai-ed-evaluation, research-methods-aied]
 ---
 
 > **Synthesis:** Hwang, Xie, Wah, and Gasevic (2026) propose the TEP (Transparency-Ethics-Pedagogy)-[[ai-education|AIED]] model, a three-dimensional framework for designing and reporting [[research-methods-aied|research on AI in education]]. Their argument is that the field's existing guidance is fragmented: the human-centered responsible AI framework of Fu and Weng (2024) is ethics-centric, the pedagogical considerations framework of Topali et al. (2025) is pedagogy-centric for authentic [[k-12]] settings, and the RAISE reporting checklist of Allison (2026) is comprehensive but too granular for routine empirical use. Against that, TEP-AIED folds three interdependent dimensions into one structure, requiring specification of [[ai-technologies|AI system]] characteristics, prompts, and learner-AI interaction, proactive [[ethics]] covering data governance, [[bias-mitigation|risk mitigation]], [[equity-in-ai-education|equity]] and [[accessibility]], and explicit pedagogic grounding through learning objectives, theoretical alignment, and learner preparation for appropriate [[student-ai-interaction|AI use]]. The authors supply a guideline table mapped to seven paper sections, and ask authors to add a Method subsection titled "Transparency, Ethics, and Pedagogy Considerations of Using AI". The model is meant to be consulted at the design stage, not at manuscript preparation, and it speaks most directly to experimental and intervention-based studies while still informing [[qualitative-research|qualitative]], [[design-based-research|design-based]], and system-development work. Its distinctive claim is that [[pedagogy]] sits at the center of [[ai-ed-evaluation|AIED evaluation]]: AI is a tool whose educational value depends on instructional embedding, not on the tool itself.

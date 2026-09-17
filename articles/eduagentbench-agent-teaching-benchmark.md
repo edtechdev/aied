@@ -6,12 +6,12 @@ type: article
 foundations: [agentic-ai, teacher-role]
 pedagogy: [scaffolding]
 technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, llm, pedagogical-llm-training]
-assessment: [benchmark]
 research_method: [benchmark]
 audience: [instructors, software developers]
 sources: ['raw/papers/2605.14322.md']
 confidence: medium
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 
 > **Synthesis:** Chen et al. (2026) introduce EduAgentBench, the first **theory-grounded, source-grounded benchmark** for evaluating AI tutor agents across the full scope of real [[teacher-role|teaching]] work. Unlike [[benchmark|benchmarks]] that test answer correctness or single-turn tutoring, EduAgentBench defines **150 quality-controlled tasks** across three capability surfaces — professional [[pedagogy|pedagogical]] judgment, [[situated-learning|situated]] multi-turn tutoring, and Canvas-style teaching workflow completion — and evaluates frontier models against them. The central finding is that **knowing pedagogy and enacting it are separable capabilities**: current LLMs show bounded pedagogical judgment but fall sharply short of professional teaching standards in multi-turn situated tutoring and tool-mediated teaching workflows. The benchmark thus provides a measurement foundation for developing tutor agents that can genuinely support real teaching work.

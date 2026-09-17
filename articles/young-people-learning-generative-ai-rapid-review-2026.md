@@ -7,7 +7,6 @@ foundations: [ai-literacy, cognitive-offloading, reducing-ai-misuse]
 pedagogy: [metacognition, self-regulated-learning, student-engagement]
 technology: [generative-ai]
 assessment: [assessment]
-stakeholders: [educational-policy-ai]
 ethics: [equity-in-ai-education]
 connected_faqs: [ai-guidance-children-under-13]
 audience: [learners, instructors]
@@ -15,6 +14,7 @@ research_method: [literature review]
 level: [k 12, teacher training]
 sources: ['raw/papers/young-people-learning-generative-ai-rapid-review-2026.md']
 confidence: high
+systems: [educational-policy-ai]
 ---
 
 > **Synthesis:** Arthars, Yang, Hill, Liu, and Markauskaite (2026) — a rapid [[meta-analysis-systematic-review|literature review]] from the University of Sydney synthesizing **271 empirical papers** (2022–June 2026, Scopus + Web of Science) on how [[generative-ai|generative AI]] (GenAI) shapes learning for young people in **PreK-12** settings. Framed by the *How People Learn II* ecology (learners, contexts, cultures) and an ecological learning-sciences view, the review finds **no single "GenAI effect"**: [[affective-computing|affective]] gains are common but weak indicators of learning; the most consistent evidence is for improved *immediate* performance and product quality, while evidence on durable learning, transfer, and sustained self-[[regulation]] is more uneven. Outcomes depend on five entangled conditions — the learner, the tool, the task, social arrangements, and cultural/institutional context. The report's central contribution is a framework distinguishing students' **surrender, offloading, or agency** across cognitive, [[metacognition|metacognitive]], and affective dimensions, and four **pedagogical functions** of GenAI (learn *from*, *with*, *about*, or *by shaping* it). 

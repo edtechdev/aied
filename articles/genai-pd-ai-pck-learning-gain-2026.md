@@ -5,7 +5,7 @@ updated: "2026-09-16T15:58:20-04:00"
 type: article
 foundations: [educational-development]
 technology: [generative-ai]
-stakeholders: [professional-training, teacher-ai-competency]
+stakeholders: [teacher-ai-competency]
 connected_faqs: [faculty-development-ai]
 research_method: [quasi-experiment, instrument development, survey]
 audience: [faculty development]
@@ -13,6 +13,7 @@ level: [teacher training, adult learning]
 sources: ['raw/papers/genai-pd-ai-pck-learning-gain-2026.md']
 confidence: high
 page_kind: [evaluation]
+systems: [professional-training]
 ---
 
 > **Synthesis:** This quasi-experimental pretest-posttest study of an intensive 8-hour generative-AI professional development program with 163 teachers and pre-service teachers found significant gains across all five AI-PCK components (overall *d* = 2.36, *p* < 0.001), with pre-service teachers showing statistically higher [[learning-gains|learning gains]] than experienced teachers (*p* = 0.033). The Assessment Rubrics component (the lowest pretest area) recorded the largest effect size (*d* = 2.19), identifying assessment tools rather than [[teacher-role|teaching]] methods as the sharpest gap in teachers' knowledge for an AI era.

@@ -5,7 +5,7 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [adaptive-learning, knowledge-tracing, llm, personalized-learning]
-assessment: [benchmark, formative-assessment]
+assessment: [formative-assessment]
 stakeholders: [student-experience]
 research_method: [benchmark]
 audience: [researchers, software developers]
@@ -13,6 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/2607.26317.md']
 confidence: high
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 
 > **Synthesis:** Proposes [[cognitive-diagnosis|Cognitive Diagnostic]] Profiling (CDP), a zero-shot framework that dramatically improves [[llm]]-simulated examinee alignment with human test-takers. With CDP, IRT difficulty Spearman correlations rose from 0.24 to 0.90, and RMSE fell from 6.31 to 0.90. Makes LLM-simulated examinees practical for operational test development.

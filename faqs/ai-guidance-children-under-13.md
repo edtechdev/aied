@@ -6,11 +6,12 @@ weight: 75
 type: faq
 foundations: [ai-literacy]
 pedagogy: [social-emotional-learning]
-stakeholders: [educational-policy-ai, governance, parents-and-families, pedagogical-safety, regulation]
+stakeholders: [parents-and-families, pedagogical-safety]
 ethics: [privacy]
 research_method: [literature review, experiment, systematic review]
 audience: [teachers, educators, administrators, policymakers]
 level: [early childhood, elementary, k 12]
+systems: [educational-policy-ai, governance, regulation]
 ---
 
 # How Should Parents and Teachers Approach AI with Children Under 13?

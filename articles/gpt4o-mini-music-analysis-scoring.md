@@ -4,13 +4,14 @@ created: "2026-08-04T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [llm, rag]
-assessment: [ai-ed-evaluation, assessment-validity, automated-assessment]
+assessment: [assessment-validity, automated-assessment]
 audience: [software developers]
 research_method: [benchmark]
 level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/2608.01783.md']
 confidence: high
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** **GPT-4o-mini can produce stable rubric-based scores for open-ended music analysis responses, with few-shot chain-of-thought [[prompt-engineering|prompting]] agreeing most strongly with teacher means while [[rag]] systematically over-scores and self-consistency trades individual-level agreement for repeatability.**

@@ -4,13 +4,14 @@ created: "2026-07-24T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [llm, rag, reinforcement-learning]
-assessment: [assessment-validity, benchmark]
+assessment: [assessment-validity]
 research_method: [benchmark]
 discipline: [stem education, math education]
 sources: ['raw/papers/2607.20520.md']
 confidence: high
 audience: [researchers, assessment designers]
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 
 > **Synthesis:** This study probes how sensitive [[llm]] mathematical [[problem-solving|problem solving]] is to the surface representation of an item — a question with direct bearing on [[assessment-validity]] when LLMs are used for scoring or tutoring in [[stem-education]]. Systematically varying representationally equivalent formulations (story problems, word-equations, symbolic equations, and isomorphic paraphrases) across 5 contemporary LLMs, the authors find substantial representational sensitivity: models frequently flip correctness across equivalent formulations, and even subtle paraphrase-level changes degrade performance despite preserved mathematical structure. A second, code-augmented condition constraining models to externalize reasoning as executable Python reveals strong latent capability in weak models but does not uniformly improve robustness — instead failures shift from opaque reasoning errors to protocol and execution violations. The work cautions that treating formulations as interchangeable conflates reasoning errors with interface failures, complicating [[intelligent-tutoring|AI Tutoring]] and diagnostic uses like [[llm-cognitive-diagnosis-handwritten-math]]. It connects to measurement concerns in [[reinforcement-learning-measurement-model-assessment]] and to reasoning [[scaffolding|scaffolds]] in [[epistemic-proactivity-math]].

@@ -4,14 +4,15 @@ created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 technology: [llm]
-assessment: [ai-ed-evaluation, assessment, automated-assessment, benchmark]
-stakeholders: [professional-training]
+assessment: [assessment, automated-assessment]
 research_method: [benchmark]
 page_kind: [evaluation]
 sources: ['raw/papers/2608.06166.md']
 confidence: medium
 audience: [assessment professionals, researchers]
 level: [adult learning]
+methods: [ai-ed-evaluation, benchmark]
+systems: [professional-training]
 ---
 
 > **Synthesis:** This paper reports a blind Turing Test evaluating leading [[llm|LLMs]] on three Italian professional legal examinations: the Bar exam, Judges exam, and Notary exam. LLMs generated full written papers that were anonymised and graded by expert examiners using real examination rubrics. Results show marked variance across models and tasks: some LLMs match or exceed human passing thresholds on certain exam sections, while all models struggle with tasks requiring deep legal reasoning, jurisdiction-specific knowledge, and nuanced argumentation. The study highlights both the promise and the current limits of LLMs in high-stakes [[assessment|professional assessment]] contexts, raising implications for AI's role in [[professional-training|legal education]] and certification.

@@ -6,7 +6,6 @@ type: article
 foundations: [computational-thinking]
 pedagogy: [game-based-learning]
 technology: [educational-robotics]
-assessment: [meta-analysis-systematic-review]
 research_method: [systematic review]
 level: [k 12, higher ed]
 
@@ -15,6 +14,7 @@ confidence: high
 discipline: [cs education, stem education]
 audience: [educators, instructional designers]
 page_kind: [synthesis]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** Mubarrat, Shao, and Min (2026) present the first PRISMA-aligned [[meta-analysis-systematic-review|systematic review]] and comparative synthesis of game-based learning (GBL) and gamification in robotics education. Analyzing 95 studies from 12,485 records across four databases (2014–2025), they coded each study's approach, learning context, skill level, modality, [[pedagogy]], and outcomes (κ = .918). Three patterns emerged: (1) approach–context–pedagogy coupling (GBL more prevalent in informal settings while gamification dominated formal classrooms and favored project-based learning); (2) an emphasis on introductory programming and modular kits with limited adoption of advanced software; and (3) a comparative synthesis of outcomes leading to design guidelines.

@@ -5,13 +5,14 @@ updated: "2026-09-01T09:11:26-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
-stakeholders: [educational-policy-ai, student-experience]
+stakeholders: [student-experience]
 ethics: [ethics]
 research_method: [longitudinal survey]
 audience: [instructors, administrators]
 level: [higher ed, teacher training]
 sources: ["raw/papers/10.1016_j.caeo.2026.100329.md"]
 confidence: high
+systems: [educational-policy-ai]
 ---
 
 > **Synthesis:** Parker, Loper, Carter, Hayes, and Karakas (2026) analyze four semesters of survey data from more than 300 students in a Midwestern US [[teacher-education]] program to trace the evolving use and [[ethics|ethical]] perceptions of [[generative-ai|generative AI]] after ChatGPT's launch. GenAI use grew substantially, especially for assessment preparation (57% to 83%) and studying (44% to 76%), while students showed growing uncertainty rather than fixed stances about ethical use, and ethical perceptions differed significantly between AI users and non-users.

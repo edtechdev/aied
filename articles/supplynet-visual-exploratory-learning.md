@@ -5,13 +5,13 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 pedagogy: [active-learning]
 technology: [generative-ai, intelligent-tutoring, llm, simulation, visualization]
-stakeholders: [professional-training]
 research_method: [system development, user study]
 sources: ['raw/papers/2606.24694.md']
 confidence: high
 discipline: [business education]
 audience: [instructional designers, designers]
 level: [adult learning]
+systems: [professional-training]
 ---
 
 > **Synthesis:** SupplyNet is a [[game-based-learning|gamified]] visual simulation system that uses a contextual graph-based [[llm]] multi-agent framework to model interdependent supply chain dynamics. Designed for [[professional-training]] in supply chain management (SCM), it replaces traditional abstract [[simulation|simulations]] with a manipulable decision space combining an interactive network view, a branching timeline for "what-if" exploration, and a task-oriented analysis console.

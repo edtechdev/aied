@@ -4,7 +4,6 @@ created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 technology: [intelligent-tutoring, llm, reinforcement-learning, simulation]
-stakeholders: [professional-training]
 ethics: [trust-calibration]
 audience: [software developers]
 research_method: [system development]
@@ -13,6 +12,7 @@ confidence: high
 discipline: [medical education]
 level: [adult learning]
 page_kind: [framework, evaluation]
+systems: [professional-training]
 ---
 
 > **Synthesis:** Liévin et al. (2026) present **ResidencyRL**, a reinforcement learning method for training clinical [[agentic-ai|AI agents]] through simulated multi-turn clinical encounters (up to 60 dialogue turns and 8 tool calls per trajectory). It pairs the policy agent with LLM simulators capable of complex, adversarial behaviors, training against a structured reward aligned to diagnostic accuracy, management quality, communication, documentation, and safety. On held-out evaluation the agent improves diagnostic accuracy by 7.0% under adversarial conditions (88.0% vs 81.0%) and reduces missed red-flag rates by 31%; blinded expert clinicians preferred it in 87.6% of side-by-side comparisons, and competencies transfer to unseen benchmarks. The work connects to [[reinforcement-learning]], [[simulation]], [[professional-training]], and [[medical-education]] in health education, treating clinical mastery for AI as something developed through simulated practice rather than static knowledge alone.

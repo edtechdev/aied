@@ -5,12 +5,13 @@ updated: "2026-08-20T03:14:48-04:00"
 type: article
 foundations: [learning-design]
 technology: [generative-ai, llm, multimodal]
-assessment: [ai-ed-evaluation, assessment-validity, benchmark]
+assessment: [assessment-validity]
 audience: [software developers]
 research_method: [benchmark]
 page_kind: [evaluation]
 sources: ['raw/papers/cfes-p24-multimodal-slide-auditing-2026.md']
 confidence: high
+methods: [ai-ed-evaluation, benchmark]
 ---
 
 > **Synthesis:** Ma, Li, and Shi (2026) introduce **CFES-P24**, a theory-grounded counterfactual benchmark for auditing whether [[multimodal]] large language models (MLLMs) actually respond to specific instructional-design constructs when evaluating educational slides. Instead of a holistic rating — which says little about *which* construct a model attends to — the benchmark expresses six multimedia-learning principles as deterministic, reversible slide transformations and generates counterfactual A/B pairs plus visual-equivalence sham controls. A pilot evaluation of a frozen gate found that construct recognition (operation, principle, repair, evidence localization) was near-perfect **8/8** for both models, while *comparative judgment* (direction 6/8) and *severity calibration* (0/8) diverged sharply — demonstrating that these are empirically separable skills and that a composite score would conceal which layer fails. 

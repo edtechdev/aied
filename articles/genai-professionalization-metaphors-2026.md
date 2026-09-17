@@ -5,12 +5,13 @@ updated: "2026-09-01T09:45:00-04:00"
 type: article
 foundations: [learner-identity]
 technology: [generative-ai]
-stakeholders: [career-development-and-readiness, professional-training, student-experience]
+stakeholders: [career-development-and-readiness, student-experience]
 research_method: [qualitative, mixed methods]
 audience: [researchers, educators]
 level: [higher ed]
 sources: ["raw/papers/genai-professionalization-metaphors-2026.md"]
 confidence: high
+systems: [professional-training]
 ---
 
 > **Synthesis:** Bohmer, Dillig, Andronache, Beshlei, Bolaji, Isso, Kovaliuk, Mason, Laza Medina, Stanescu, and Yaroshenko (2026) investigate how students metaphorically conceptualize GenAI — e.g., as a social actor, technique, learning material, or structure — particularly when engaging with a GenAI system designed to enhance intercultural competence, and how these conceptualizations relate to students' reported learning and professionalization-related reflections. Utilizing a triangulation of [[qualitative-research|qualitative]] methodologies (Content Analysis and Grounded Theory), they identify key metaphors within student reflections and examine their relation to professionalization. An exploratory [[quantitative-research|quantitative]] analysis identified structural patterns in metaphor use and professionalization domains. Findings indicate that students with different orientations toward professional learning tend to incorporate different axial categories when reflecting on their learning experiences with GenAI, with socio-emotional and technical conceptualizations emerging as salient.

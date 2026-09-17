@@ -7,13 +7,13 @@ foundations: [agency, cognitive-offloading, curriculum-design, teacher-role]
 pedagogy: [self-regulated-learning]
 technology: [generative-ai]
 assessment: [assessment]
-stakeholders: [governance]
 sources: ['raw/papers/refrain-amplify-genai-curriculum-2026.md']
 confidence: high
 research_method: [theoretical analysis]
 audience: [curriculum designers, administrators, faculty development]
 level: [higher ed]
 page_kind: [framework]
+systems: [governance]
 ---
 
 > **Synthesis:** Torres-Sahli et al. (2026) propose a program-level curriculum framework — "refrain, then amplify" — for sequencing [[generative-ai]] to form professional judgment. On this design, a program withholds a generative tool while a capacity is forming, then restores it to amplify that capacity once the student can direct it, judge what it returns, and answer for it. Devices are allowed where they support engaged work and excluded where they drain attention, all governed by a forming-versus-offloading criterion: whether a stretch of work forms a capacity or merely passes it through the tool. The program fixes outcomes and [[academic-integrity|integrity]], reserves [[teacher-role|teaching]] method to the instructor, and places a hard-to-fake checkpoint at each refrain-to-amplify hinge.

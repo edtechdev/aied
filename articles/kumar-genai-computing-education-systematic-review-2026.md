@@ -6,7 +6,7 @@ type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding]
 technology: [generative-ai]
-assessment: [assessment, assessment-validity, meta-analysis-systematic-review]
+assessment: [assessment, assessment-validity]
 ethics: [equity-in-ai-education]
 research_method: [systematic review]
 audience: [instructors, curriculum designers, researchers, administrators]
@@ -14,6 +14,7 @@ level: [higher ed]
 discipline: [cs education]
 sources: ['raw/papers/kumar-genai-computing-education-systematic-review-2026.md']
 confidence: high
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** Kumar, Wongsirichot and Nanthaamornphong (2026) synthesise **72 peer-reviewed empirical studies** from **33 venues** (January 2022 – April 2026) on [[generative-ai|generative AI]] in [[cs-education|computing education]] across four questions — effects on learning, [[cognitive-offloading|over-reliance]], assessment and integrity, and [[pedagogy]] — and consolidate them into 14 themes. The most robustly replicated finding is also the most misleading: GenAI reliably raises short-term completion and reduces time-on-task (36 studies, strongest evidence in the corpus), yet those efficiency gains "do not transfer to independent performance" (21 studies) — students complete more while understanding less unless critical [[student-engagement|engagement]] with the output is structurally required. Benefit also depends on [[prior-knowledge|prior knowledge]], with well-prepared students converting AI help into durable skill while under-prepared students risk using it as a crutch. The review's integrative contribution is the **VIE Framework** — Verification, Implementation, and Equity — three interdependent design requirements, each with documented failure modes when treated in isolation.

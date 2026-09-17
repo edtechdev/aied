@@ -5,7 +5,7 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai]
-stakeholders: [change-management, student-experience, technology-acceptance-model]
+stakeholders: [student-experience]
 ethics: [equity-in-ai-education, global-south]
 research_method: [survey]
 discipline: [engineering education]
@@ -14,6 +14,7 @@ level: [higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100614.md']
 confidence: high
 page_kind: [framework]
+systems: [change-management, technology-acceptance-model]
 ---
 
 > **Synthesis:** Mazen Abdulwahab Asag & Md Abdullah Al Mamun (2026) investigated [[engineering-education|engineering]] students' adoption of [[generative-ai|generative AI]] by integrating the [[technology-acceptance-model|Technology Acceptance Model (TAM)]] with the Unified Theory of Acceptance and Use of Technology (UTAUT) to develop a unified socio-cognitive framework.

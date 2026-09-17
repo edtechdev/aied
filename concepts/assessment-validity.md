@@ -5,11 +5,12 @@ updated: "2026-09-17T09:40:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
-assessment: [authentic-assessment, automated-assessment, formative-assessment, rct]
+assessment: [authentic-assessment, automated-assessment, formative-assessment]
 ethics: [bias-mitigation, equity-in-ai-education]
 research_method: [randomized controlled trial]
 
 confidence: high
+methods: [rct]
 ---
 
 > **Assessment validity** — whether assessments measure what they claim to measure. [[ai-education]] raises fundamental validity questions: do [[automated-assessment|AI-graded]] assessments assess student learning or [[prompt-engineering|AI prompting skill]]? Does AI use invalidate traditional assessment assumptions?

@@ -5,7 +5,7 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [academic-integrity, ai-education]
 technology: [generative-ai, llm]
-assessment: [ai-detection, ai-ed-evaluation]
+assessment: [ai-detection]
 stakeholders: [pedagogical-safety]
 audience: [software developers]
 research_method: [benchmark]
@@ -13,6 +13,7 @@ page_kind: [evaluation]
 sources: ['raw/papers/2608.05741v1.md']
 confidence: high
 level: [higher ed]
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** EchoPrompt introduces a training-free zero-shot detector for [[ai-detection|LLM-generated text]] that exploits the latent prompt dependency inherent in machine-generated content. By restoring a generic assistant-response prefix and measuring likelihood gain differences between instruction-tuned and base models, EchoPrompt achieves state-of-the-art detection performance without training. This approach has direct implications for [[ai-education|academic integrity]] in educational contexts, where LLM-generated text detection is increasingly critical for maintaining assessment validity.

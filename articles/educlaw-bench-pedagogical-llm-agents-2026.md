@@ -5,12 +5,12 @@ updated: "2026-08-28T15:00:00-04:00"
 type: article
 foundations: [agentic-ai, curriculum-design]
 technology: [intelligent-tutoring, knowledge-tracing, llm, simulation, student-modeling]
-assessment: [ai-ed-evaluation, benchmark]
 audience: [software developers]
 research_method: [benchmark]
 page_kind: [evaluation]
 sources: ['raw/papers/2608.03206.md']
 confidence: high
+methods: [ai-ed-evaluation, benchmark]
 ---
 
 > **Synthesis:** Lee et al. (2026) introduce EduClaw-Bench, a **30-day long-horizon benchmark** for [[pedagogy|pedagogical]] LLM agents that places an agent tutor in a sustained relationship with a [[simulation|simulated learner]] grounded in [[knowledge-tracing]]. Evaluating 10 agent adapters over three base-model tiers yields two findings that single-session evaluation cannot reach: **tutoring quality belongs to the base model and the agent harness together rather than either alone**, and **almost no combination sustains good tutoring over the full 30-day horizon** — every agent plateaus within 5–10 days far below ideal steady learning. A calibration check (ECE = 0.049) and a live-classroom field study confirm that the simulated learner and its measurements track reality.

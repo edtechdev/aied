@@ -4,7 +4,6 @@ created: "2026-08-24T12:36:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [generative-ai, simulation]
-assessment: [meta-analysis-systematic-review]
 research_method: [systematic review, meta-analysis]
 discipline: [language learning, english education]
 level: [k 12, higher ed]
@@ -12,6 +11,7 @@ sources: ['raw/papers/liu-emerging-tech-tefl-review-2026.md']
 confidence: high
 audience: [teachers, instructional designers]
 page_kind: [synthesis, evaluation]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** **In brief:** Liu, Hashim, and Sulaiman [[meta-analysis-systematic-review|systematically review]] and meta-analyze 33 experimental and quasi-experimental studies (N = 3,181) on emerging [[ai-technologies|technologies]] for [[teacher-role|teaching]] [[english-education|English as a foreign language]] (TEFL) across primary, secondary, and tertiary education. They find a small-to-moderate positive overall effect (Hedges' g = 0.38, 95% CI [0.26, 0.50]) with substantial heterogeneity; effect sizes rose with educational level (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44) and were largest for VR/AR, with productive skills (speaking, writing) showing greater gains than receptive skills.

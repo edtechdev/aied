@@ -5,12 +5,13 @@ updated: "2026-08-21T19:02:30-04:00"
 type: article
 foundations: [limitations-in-aied-research]
 technology: [cognitive-diagnosis, learning-analytics, machine-learning, student-modeling]
-assessment: [ai-ed-evaluation, automated-assessment, benchmark, educational-measurement]
+assessment: [automated-assessment, educational-measurement]
 audience: [software developers]
 research_method: [benchmark, educational measurement]
 page_kind: [evaluation]
 sources: ['raw/papers/eeg-familiarity-automated-assessment-2026.md']
 confidence: high
+methods: [ai-ed-evaluation, benchmark]
 ---
 
 > **Synthesis:** Nanayakkara and Halloluwa (2026) address the fundamental challenge of objective learning assessment by benchmarking fifteen [[reinforcement-learning|machine learning]] and deep learning models for EEG-based familiarity prediction across two cognitive domains — human faces (factual knowledge) and mathematical equations (conceptual knowledge). Using continuous EEG from 23 participants and spectral features across six frequency bands, they show that standard stratified cross-validation yields artificially high performance (up to 0.9853 F1 with a CNN) due to temporal leakage, whereas rigorous trial-independent Group K-Fold validation drops the peak to 0.6038 F1 — still statistically significant above chance. The study establishes a realistic benchmark for EEG-based [[cognitive-diagnosis|cognitive monitoring]] in educational technology and cautions against overestimating model generalizability in [[automated-assessment]].

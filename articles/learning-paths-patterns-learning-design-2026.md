@@ -6,13 +6,14 @@ type: article
 foundations: [curriculum-design, learning-design]
 pedagogy: [active-learning, constructivist, student-engagement]
 technology: [learning-analytics]
-assessment: [assessment, quantitative-research]
+assessment: [assessment]
 research_method: [quantitative, secondary analysis, learning analytics]
 discipline: [learning sciences]
 audience: [learning designers, instructional designers, curriculum designers, educators, researchers]
 level: [higher ed, k 12, adult learning]
 sources: ['raw/papers/learning-paths-patterns-learning-design-2026.md']
 confidence: high
+methods: [quantitative-research]
 ---
 
 > **Synthesis:** Divjak, Svetec and Horvat (2026) turn [[learning-analytics]] inward on [[learning-design]] itself: instead of reconstructing what students did from LMS traces, they analyze the designed sequence of 29,064 teaching and learning activities (TLAs) across 554 courses planned in the free Balanced Design Planning (BDP) tool at the University of Zagreb. Markov chains and sequential pattern mining reveal a design grammar in which Acquisition-type activities are the most common entry point and the most common learning type overall, Assessment frequently leads to Discussion, and Practice recurs as a consolidating or closing activity, most visibly in the sequence Acquisition → Practice → Practice → Assessment. Learning type is tied to the level of the intended learning outcome — Acquisition dominates at Bloom level 1 while Production rises at levels 5 and 6 — which the authors read as evidence of constructive alignment in practice. The recurring sequences also resemble flipped classroom, [[inquiry-based-learning|inquiry-based]] and [[project-based-learning|project-based]] designs, though the authors insist that resemblance is not proof of intent.

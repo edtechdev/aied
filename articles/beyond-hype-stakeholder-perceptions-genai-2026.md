@@ -5,13 +5,14 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [educational-development]
 technology: [generative-ai]
-stakeholders: [educational-policy-ai, governance, professional-training, stakeholders]
+stakeholders: [stakeholders]
 research_method: [qualitative]
 audience: [administrators, instructors, researchers]
 level: [higher ed]
 sources: ["raw/papers/10.1016_j.caeo.2026.100381.md"]
 confidence: high
 page_kind: [framework]
+systems: [educational-policy-ai, governance, professional-training]
 ---
 
 > **Synthesis:** Humble and Mozelius (2026) conduct a SWOT analysis of 167 contributions collected via Padlet during webinars at two Swedish universities attended by 152 higher-education personnel. Strengths include content creation, translation, and transcription capabilities that streamline workflows and support [[collaborative-learning|collaboration]]; weaknesses include inaccuracies, lack of system transparency, and user dependency; opportunities include supportive roles, outsourcing repetitive tasks, and partnering with AI for innovative [[teacher-role|teaching]]; threats include destabilization of educational norms, [[ethics|ethical]] issues around [[privacy|data privacy]] and copyright, and organizational challenges. The study translates findings into a Balanced Scorecard framework across student, internal-business, innovation-and-learning, and financial perspectives.

@@ -7,13 +7,13 @@ foundations: [agency, ai-literacy, learning-design, teacher-role]
 pedagogy: [pedagogy]
 technology: [generative-ai]
 assessment: [assessment]
-stakeholders: [governance]
 research_method: [theoretical analysis]
 audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/10.3389_feduc.2026.1856839.md']
 confidence: high
 page_kind: [framework]
+systems: [governance]
 ---
 
 > **Synthesis:** Moganadas and colleagues (2026) argue that [[generative-ai|generative AI]] in [[higher-ed|higher education]] cannot be understood through the traditional dyadic instructor–student model, because GenAI now participates directly in explanation, [[feedback]], and knowledge construction rather than serving as an external supplement or threat. They propose a nested **instructor–student–GenAI triadic model** that positions GenAI as a bounded *didactic-pedagogical mediator* operating within a shared didactic mediation space, governed by institutions and wider stakeholders. The framework translates into five researchable propositions covering learning mediation, [[teacher-role|instructor role]] transformation, developmental [[ai-literacy|AI literacy]] and learner [[agency]], AI-transparent process-oriented [[assessment]], and institutional [[governance]].

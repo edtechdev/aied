@@ -5,13 +5,13 @@ updated: "2026-08-28T15:00:00-04:00"
 type: article
 foundations: [agentic-ai, ai-education, human-ai-collaboration]
 technology: [generative-ai, llm]
-assessment: [ai-ed-evaluation, benchmark]
 stakeholders: [pedagogical-safety]
 audience: [software developers]
 research_method: [benchmark]
 page_kind: [evaluation]
 sources: ['raw/papers/2608.03166v1.md']
 confidence: high
+methods: [ai-ed-evaluation, benchmark]
 ---
 
 > **Synthesis:** This paper presents a modular multi-agent platform for adversarially stress-testing [[agentic-ai|role-playing language agents]] through structured, multi-turn dialogue. It coordinates three agents — a strategy-driven Interrogator (applying six progressive adversarial strategies), a black-box Target, and an automated Judge — to reveal cumulative behavioral failures that [[benchmark|static, single-turn benchmarks]] miss. Across three personas (Healthcare Assistant, Customer Support Agent, Financial Advisor) and three [[llm|LLM families]], multi-strategy testing reduced overall robustness scores by 0.17–0.20 points versus a single-strategy baseline, with Authority Challenge and Emotional Manipulation emerging as the most effective attacks and automated judging aligning strongly with human experts (r = 0.82, Fleiss' κ = 0.71). The framework is directly relevant to [[ai-education|educational AI agents]], where persona consistency and [[ethics|ethical constraints]] are critical for [[pedagogical-safety|safe deployment]] with learners.

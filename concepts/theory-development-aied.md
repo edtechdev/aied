@@ -5,10 +5,10 @@ updated: "2026-09-17T02:26:00-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
-assessment: [research-methods-aied]
 research_method: [literature review, research methods]
 page_kind: [framework]
 confidence: medium
+methods: [research-methods-aied]
 ---
 
 > **Theory development in [[ai-education|AI in education]]** — the scholarly work of creating, advancing, and critically examining the theories and conceptual frameworks that explain how learners, teachers, and AI systems interact. As generative AI reshapes education, the field is both proposing *new* theories of learning-with-AI and reworking established [[learning-theories|learning theories]] — while a documented weakness in theory use remains a cross-cutting limitation of AIEd research.

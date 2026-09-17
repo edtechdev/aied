@@ -4,7 +4,7 @@ created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 technology: [educational-nlp, llm]
-assessment: [ai-ed-evaluation, assessment-validity, automated-essay-scoring, formative-assessment]
+assessment: [assessment-validity, automated-essay-scoring, formative-assessment]
 ethics: [bias-mitigation, equity-in-ai-education]
 sources: ['raw/papers/demographic-signals-llm-student-assessment-2026.md']
 confidence: high
@@ -12,6 +12,7 @@ research_method: [experiment, quantitative]
 level: [higher ed, k 12]
 audience: [assessment designers, instructors, researchers]
 discipline: [learning sciences]
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** Rooein, Benedetto and Hovy run a controlled counterfactual audit of demographic sensitivity in six instruction-tuned [[llm|LLMs]] across three educational tasks — [[automated-essay-scoring|Automated Essay Scoring]] (AES), [[formative-assessment|Formative Feedback]] (FF) and metalinguistic question answering (QA) — holding each task input fixed while varying only the demographic context. Explicit personas (25 attributes from the AI Gap dataset) and implicit signals (ten-prompt conversation histories) both move model behavior, producing 192,480 inference calls. Most models are comparatively stable under explicit conditioning in AES, where the largest shift is Llama-70B scoring +1.57 points above its own default under implicit conditioning (p < 0.001), but open-ended tasks show systematic differences in readability, length and sentiment. The headline implication is a split verdict for [[assessment]]: invariance is required in high-stakes scoring, some adaptation may be pedagogically legitimate in instruction, and current models cannot reliably separate task-relevant information from demographic cues — a direct threat to [[assessment-validity|validity]] and [[equity-in-ai-education|equity]].

@@ -4,13 +4,14 @@ created: "2026-06-01T04:33:04-04:00"
 updated: "2026-09-16T15:51:16-04:00"
 type: article
 technology: [intelligent-tutoring, llm, reinforcement-learning]
-assessment: [automated-assessment, benchmark, formative-assessment]
+assessment: [automated-assessment, formative-assessment]
 audience: [software developers]
 research_method: [benchmark, experiment]
 sources: ['raw/papers/2605.30666.md']
 confidence: high
 discipline: [math education]
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 > **Synthesis:** TEI is a **training-free, judge-free index** that selects the best [[intelligent-tutoring|tutoring]] response from multiple [[llm|LLM]] candidate outputs using only four internal conversation signals — no [[reinforcement-learning|RL]] training, no external judge model, no reward model required.
 

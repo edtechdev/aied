@@ -4,13 +4,13 @@ created: "2026-08-10T17:08:30-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
 technology: [generative-ai, learning-analytics]
-stakeholders: [administrator, change-management, edtech-platform, educational-policy-ai, governance]
 research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100563.md']
 confidence: high
 audience: [administrators, institutions]
 page_kind: [framework]
+systems: [administrator, change-management, edtech-platform, educational-policy-ai, governance]
 ---
 
 > **Synthesis:** Dawson and Pardo (2026) argue that generative AI (GenAI) is precipitating a systemic, paradigmatic transformation of education — not a passing fad — and that traditional bureaucratic leadership structures are ill-suited for its pace, scale, and sociotechnical nature. They introduce the **SPARK framework** (Systems, Problem, Analysis, [[research-methods-aied|Research]], and Knowledge brokerage), a pragmatic model that operationalizes Complexity Leadership Theory (CLT) to help educational leaders navigate the tension between [[governance|institutional]] stability and systemic innovation, translating GenAI-enhanced pedagogy from isolated pilots into scalable, institutionally embedded practices.

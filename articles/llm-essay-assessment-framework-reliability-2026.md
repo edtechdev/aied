@@ -4,7 +4,7 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 technology: [educational-nlp, llm]
-assessment: [assessment-validity, automated-essay-scoring, benchmark]
+assessment: [assessment-validity, automated-essay-scoring]
 research_method: [benchmark]
 audience: [researchers, assessment designers]
 level: [higher ed]
@@ -12,6 +12,7 @@ sources: ["raw/papers/llm-essay-assessment-framework-reliability-2026.md"]
 confidence: high
 discipline: [writing education, language learning]
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 
 > **Synthesis:** Liu, Ye, and Yan (2026) present a comparative analysis of five LLMs (GPT-4.1, Llama 4 Maverick, Gemini 2.5 Flash, Claude Sonnet 4, and DeepSeek R1) in the assessment of long [[language-learning|English]] essays authored by non-native speakers in [[higher-ed|higher education]]. Drawing on LLM-generated scores for 60 essays, the analysis examines (a) intra-model reliability across repeated scoring runs, (b) the degree of alignment between model outputs and expert human ratings, and (c) causal feature dependencies that clarify how linguistic characteristics influence model scoring behavior. Findings reveal substantial variation: some models achieved near-perfect reproducibility and strong alignment with human raters, whereas others displayed inconsistency, score compression, or systematic underestimation. Causal discovery analysis uncovered distinct evaluative heuristics, with most models prioritizing lexical precision and fluency, while others emphasized syntactic complexity or cross-domain integration.

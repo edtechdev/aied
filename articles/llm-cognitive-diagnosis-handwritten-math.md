@@ -5,7 +5,6 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [critical-thinking]
 technology: [generative-ai, human-in-the-loop-ai, knowledge-tracing, llm, multimodal]
-assessment: [ai-ed-evaluation, benchmark]
 ethics: [hallucination-risk]
 audience: [software developers]
 research_method: [benchmark]
@@ -14,6 +13,7 @@ level: [k 12]
 page_kind: [evaluation]
 confidence: high
 sources: []
+methods: [ai-ed-evaluation, benchmark]
 ---
 
 > **Synthesis:** **MathCog** [[benchmark]] (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop-ai|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], benchmark).

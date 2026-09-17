@@ -4,11 +4,12 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: concept
 foundations: [academic-integrity]
-stakeholders: [educational-policy-ai, governance, pedagogical-safety]
+stakeholders: [pedagogical-safety]
 ethics: [equity-in-ai-education, ethics, privacy]
 connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 level: [higher ed]
 confidence: high
+systems: [educational-policy-ai, governance]
 ---
 
 > **AI regulation** — the laws, policies, and governance frameworks that control how AI is developed and deployed in educational settings. Regulation in the knowledge base spans government policy, institutional governance, and industry [[self-regulated-learning|self-regulation]].

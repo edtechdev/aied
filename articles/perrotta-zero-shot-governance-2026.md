@@ -5,13 +5,13 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [agency]
 technology: [generative-ai, llm]
-stakeholders: [educational-policy-ai, governance]
 research_method: [theoretical analysis, case study]
 discipline: [learning sciences]
 audience: [policymakers, researchers, administrators]
 level: [higher ed]
 sources: ['raw/papers/perrotta-zero-shot-governance-2026.md']
 confidence: high
+systems: [educational-policy-ai, governance]
 ---
 
 > **Synthesis:** **Perrotta (2026)** advances the concept of **zero-shot governance** — the scenario in which domain-agnostic [[generative-ai|generative AI]] foundation models intervene in policy decisions — through a critical infrastructural analysis of **Redbox**, a discontinued UK civil-service prototype built on off-the-shelf [[llm|LLMs]]. Reading Redbox's codebase through intersecting technical, political, and cultural lenses, the article argues that the general-purpose nature of LLMs is a structural feature of the technology that can be *mitigated but never ruled out* — a conclusion with direct implications for [[educational-policy-ai|education policy]] and [[governance|AI governance]].

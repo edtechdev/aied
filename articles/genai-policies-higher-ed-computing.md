@@ -5,7 +5,6 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, llm]
-stakeholders: [change-management, educational-policy-ai, governance]
 ethics: [equity-in-ai-education]
 connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 audience: [administrators]
@@ -14,6 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/2607.12296.md']
 confidence: medium
 discipline: [cs education]
+systems: [change-management, educational-policy-ai, governance]
 ---
 
 > **Synthesis:** A comparative content analysis of institutional [[generative-ai|GenAI]] policies and computing-course syllabi in U.S. research-intensive universities, revealing a gap between broadly pro-use institutional guidance and guarded, often prohibition-heavy classroom-level uptake.

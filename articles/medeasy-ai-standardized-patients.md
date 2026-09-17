@@ -6,7 +6,6 @@ type: article
 pedagogy: [active-learning]
 technology: [generative-ai, intelligent-tutoring, simulation]
 assessment: [feedback]
-stakeholders: [professional-training]
 audience: [software developers]
 research_method: [system development]
 level: [higher ed]
@@ -14,6 +13,7 @@ sources: ['raw/papers/2606.17512.md']
 confidence: high
 discipline: [medical education]
 page_kind: [evaluation]
+systems: [professional-training]
 ---
 
 > **Synthesis:** Gao et al. (2026) present MedEasy, a multi-agent system that simulates standardized patients with varying conditions for medical consultation training. By organizing virtual-patient practice through patient dialogue, [[medical-education|clinical]] actions, decision submission, documentation and feedback, it outperforms script-based approaches in realism and adaptability — supporting [[professional-training|clinical]] [[simulation|training]] with [[feedback]]-rich [[active-learning|practice]].

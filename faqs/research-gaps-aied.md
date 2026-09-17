@@ -5,11 +5,12 @@ updated: "2026-09-17T02:26:00-04:00"
 weight: 45
 type: faq
 foundations: [limitations-in-aied-research]
-assessment: [ai-ed-evaluation, learning-gains, research-methods-aied]
+assessment: [learning-gains]
 ethics: [equity-in-ai-education]
 research_method: [research methods, literature review, learning analytics]
 level: [higher ed]
 page_kind: [evaluation]
+methods: [ai-ed-evaluation, research-methods-aied]
 ---
 
 # What Are Notable Gaps in the Research Literature on AI in Education?

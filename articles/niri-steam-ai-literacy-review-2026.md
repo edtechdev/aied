@@ -4,7 +4,6 @@ created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 foundations: [ai-literacy, computational-thinking, curriculum-design]
-assessment: [meta-analysis-systematic-review]
 ethics: [ethics]
 audience: [instructors, researchers]
 research_method: [systematic review]
@@ -12,6 +11,7 @@ discipline: [stem education, science education]
 level: [k 12]
 sources: ['raw/papers/niri-steam-ai-literacy-review-2026.md']
 confidence: high
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** This PRISMA [[meta-analysis-systematic-review|systematic review]] of 39 studies (2016–2025) examines to what extent STEAM education advances [[ai-literacy|AI literacy]], using the TIECD framework refined into ten AI Literacy Elements (AILEs). It finds STEAM implementations chiefly develop technical literacies — fundamental AI concepts, [[computational-thinking]], data literacy — while underdeveloping [[ethics|ethical]] awareness, creative imagination, creating with AI, managing AI, and designing AI. Technology disciplines lead; arts, engineering, and integrated STEAM lag.

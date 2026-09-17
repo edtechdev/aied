@@ -5,7 +5,6 @@ updated: "2026-09-08T09:07:05-04:00"
 type: article
 foundations: [agentic-ai]
 technology: [generative-ai, human-in-the-loop-ai, llm]
-stakeholders: [governance, regulation]
 ethics: [equity-in-ai-education, ethics]
 research_method: [literature review]
 audience: [administrators, researchers, instructors]
@@ -13,6 +12,7 @@ level: [higher ed]
 confidence: high
 page_kind: [framework]
 sources: ['raw/papers/beyond-agent-label-agentic-ai-governance-2026.md']
+systems: [governance, regulation]
 ---
 
 > **Synthesis:** This critical integrative review (Dey, EdArXiv 2026) argues that [[agentic-ai|agentic AI]] is entering [[higher-ed|higher education]] faster than the evidence needed to govern it, and that the term is applied inconsistently — systems that plan, remember, use tools, revise actions, or coordinate multiple agents are routinely lumped together with static [[generative-ai|generative-AI]] interfaces and conventional [[pedagogical-agent|pedagogical agents]]. Comparing fifteen peer-reviewed reviews against a strict behavioral definition, it finds a rapidly expanding but conceptually unstable literature: evidence is strongest for **artifact-level** outcomes (feedback accuracy, hallucination reduction) and weakest for durable [[transfer-of-learning|learning]], equity, workload, or institutional outcomes; authentic deployments are typically short, single-site, and weakly connected to explicit oversight. To fix this, it introduces the **Autonomy–Oversight–Evidence (AOE) framework** — five autonomy levels (A0–A4), five oversight levels (O0–O4), and six evidence-maturity stages (M0–M5) — with a proportionality rule: *autonomy should not exceed the maturity of the evidence or the strength of accountable [[human-in-the-loop-ai|human control]]*.

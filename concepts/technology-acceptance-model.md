@@ -5,12 +5,13 @@ updated: "2026-09-17T02:30:30-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
-assessment: [research-methods-aied]
-stakeholders: [student-experience, technology-acceptance-model]
+stakeholders: [student-experience]
 research_method: [research methods]
 audience: [learners]
 level: [higher ed]
 confidence: high
+methods: [research-methods-aied]
+systems: [technology-acceptance-model]
 ---
 
 **Technology adoption models** are the theoretical frameworks used to explain and predict why individuals and institutions accept, adopt, and continue using new [[ai-technologies|technologies]] — and, in AI-in-education research, why learners, teachers, and organizations adopt [[generative-ai|generative AI]] tools. Rather than a single model, this is a family of theories that share roots in information-systems and social-psychology research, of which the **Technology Acceptance Model (TAM)** is the most widely applied. The knowledge base treats these models together because GenAI-adoption studies routinely combine them (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) and because their core constructs — perceived usefulness, perceived ease of use, and social influence — recur across nearly every study of AI acceptance in education.

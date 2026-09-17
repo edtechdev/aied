@@ -4,13 +4,14 @@ created: "2026-05-14T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [ai-literacy, educational-development, teacher-role]
-stakeholders: [change-management, teacher-ai-competency]
+stakeholders: [teacher-ai-competency]
 research_method: [survey]
 audience: [instructors, faculty development]
 level: [k 12, higher ed]
 sources: ['raw/papers/2605.00343.md']
 confidence: high
 page_kind: [framework]
+systems: [change-management]
 ---
 
 > **Synthesis:** A survey of 260 teachers in Pampanga, the Philippines, finds that [[governance|institutional]] support predicts both teacher confidence and positive attitudes toward AI adoption, and that confidence *fully mediates* the support–attitude link: support shapes attitudes mainly by building confidence rather than directly. Teacher concerns neither moderated nor directly predicted either outcome.

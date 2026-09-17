@@ -5,13 +5,14 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 pedagogy: [self-regulated-learning]
 technology: [affective-tutoring, intelligent-tutoring, llm, personalized-learning]
-stakeholders: [regulation, student-experience]
+stakeholders: [student-experience]
 research_method: [system development]
 audience: [learners]
 level: [k 12]
 sources: ['raw/papers/2605.08040.md']
 confidence: medium
 page_kind: [framework]
+systems: [regulation]
 ---
 
 > **Synthesis:** ECNUClaw is an open-source framework by Zhou, Li & Zhang (2026) for building **learner-profiled intelligent study companions** in K-12 education. The system maintains a **five-dimension learner profile** — cognitive, behavioral, emotional, metacognitive, and contextual — by extracting signals from student-companion dialogues at each conversational turn.

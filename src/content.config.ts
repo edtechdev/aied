@@ -93,7 +93,9 @@ const structuredMeta = {
     pedagogy: facetList('pedagogy'),
     technology: facetList('technology'),
     assessment: facetList('assessment'),
+    methods: facetList('methods'),
     stakeholders: facetList('stakeholders'),
+    systems: facetList('systems'),
     ethics: facetList('ethics'),
     research_method: enumList(
         'action design research',

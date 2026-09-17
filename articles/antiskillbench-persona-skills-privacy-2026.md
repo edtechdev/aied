@@ -6,13 +6,13 @@ type: article
 foundations: [agentic-ai]
 pedagogy: [student-ai-interaction]
 technology: [personalized-learning, rag]
-assessment: [benchmark]
 ethics: [bias-mitigation, privacy]
 audience: [software developers]
 research_method: [benchmark]
 sources: ['raw/papers/2608.03700.md']
 confidence: high
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 
 > **Synthesis:** **When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills** — Introduces AntiSkillBench with 7,500 persona-grounded dialogue traces from 50 behaviorally rich profiles. Evaluates skill-level privacy leakage, agent-level attribute disclosure, and behavioral impersonation across three skill-distillation strategies... [[privacy]] [[agentic-ai]] [[student-experience]] [[bias-mitigation]] [[personalized-learning]] [[benchmark]]

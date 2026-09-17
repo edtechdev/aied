@@ -4,7 +4,6 @@ created: "2026-09-07T08:25:00-04:00"
 updated: "2026-09-07T08:25:00-04:00"
 type: article
 technology: [learning-analytics, machine-learning]
-assessment: [ai-ed-evaluation]
 ethics: [privacy]
 research_method: [experiment, learning analytics]
 audience: [learning analytics designers, researchers, institutions, administrators]
@@ -12,6 +11,7 @@ level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/villegas-ch-federated-explainable-learning-analytics-2026.md']
 confidence: high
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** Villegas-Ch et al. (2026) propose a federated, explainable [[learning-analytics]] framework for modeling academic risk — jointly predicting [[learning-gains|academic performance]] and dropout — across institutions without sharing raw student data. Their "DEAFederated" architecture combines a temporal (GRU) encoder with a tabular feature block and two multitask output heads, trained under a FedAvg/FedProx scheme. Crucially, they simulate *controlled, multidimensional* [[governance|institutional]] heterogeneity (label skew, class imbalance, temporal drift, structural missingness) and evaluate models along four axes — discrimination, calibration, robustness, and explanatory stability — finding that federated training preserves ranking performance and stable feature-importance rankings across institutions, while probabilistic calibration proves far more sensitive to heterogeneity. This surfaces a key decoupling between *ranking* accuracy and *probabilistic reliability* that matters wherever risk predictions trigger threshold-based interventions.

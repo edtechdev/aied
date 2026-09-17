@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity]
 technology: [generative-ai, llm]
 assessment: [ai-detection, assessment]
-stakeholders: [educational-policy-ai]
 ethics: [equity-in-ai-education]
 sources: ['raw/papers/2608.11256.md']
 research_method: [experiment, quantitative]
@@ -14,6 +13,7 @@ discipline: [cs education, language learning, writing education]
 audience: [policymakers, researchers, instructors, administrators]
 level: [higher ed]
 confidence: high
+systems: [educational-policy-ai]
 ---
 
 > **Synthesis:** In a controlled study of 642 published English abstracts across four domains and two time periods (2013–15 vs. 2023–25), two commercial AI detectors at τ=0.50 flagged guideline-compliant light AI editing at 38–80%, flagged unmodified 2023–25 originals at 9–15% (non-STEM far above STEM, p<0.001), and after Undetectable AI humanization caught fewer than 4% of AI-labeled rewrites (FNR >96%). Detector scores therefore punished honest AI-assistance while enabling humanizer-assisted evasion — an "integrity catch-22" the authors argue should bar detector scores from serving as standalone misconduct evidence.

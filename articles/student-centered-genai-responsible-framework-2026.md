@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, agency, ai-literacy]
 pedagogy: [self-regulated-learning]
 technology: [generative-ai]
-stakeholders: [governance]
 ethics: [ethics, trust-calibration]
 sources: ['raw/papers/student-centered-genai-responsible-framework-2026.md']
 confidence: high
@@ -14,6 +13,7 @@ research_method: [literature review]
 audience: [learners, educators, instructional designers]
 level: [higher ed]
 page_kind: [framework]
+systems: [governance]
 ---
 
 > **Synthesis:** Alsammani (2026) proposes a student-facing framework for responsible [[generative-ai]] use in [[higher-ed]]: ten actionable guidelines organized around three pillars — Learning and Growth, [[ethics]] and Integrity, and Awareness and Safety. Drawing on a structured interpretive synthesis of 2023–2026 [[research-methods-aied|research]] and major policy frameworks, the paper argues the three pillars are jointly necessary because each addresses a distinct, empirically documented failure mode, and that portable student-facing guidelines can support responsible use by externalizing [[metacognition|metacognitive]] prompts that unguided AI use tends to weaken. The framework is distinctive in being student-facing, course-agnostic, and actionable at the point of decision, and it specifies five empirically testable propositions.

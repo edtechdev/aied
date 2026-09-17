@@ -4,7 +4,7 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 technology: [human-in-the-loop-ai, learning-analytics]
-assessment: [ai-ed-evaluation, feedback, formative-assessment]
+assessment: [feedback, formative-assessment]
 stakeholders: [student-experience]
 connected_faqs: [ai-feedback-at-scale]
 research_method: [system development]
@@ -13,6 +13,7 @@ level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/becerra-aicofe-feedback-2026.md']
 confidence: medium
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** **AICoFE** (AI-based Collaborative Feedback) is a multi-[[llm]] feedback generation system for higher education that combines independently fine-tuned language models with **teacher-in-the-loop mediation**, producing diverse feedback perspectives while preserving [[pedagogy|pedagogical]] authority through Learning Analytics dashboards.

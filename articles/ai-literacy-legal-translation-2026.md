@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, human-in-the-loop-ai]
-stakeholders: [pedagogical-safety, professional-training]
+stakeholders: [pedagogical-safety]
 ethics: [ethics]
 audience: [instructors]
 research_method: [theoretical analysis]
@@ -14,6 +14,7 @@ sources: ['raw/papers/2608.04641.md']
 confidence: high
 discipline: [language learning]
 page_kind: [framework]
+systems: [professional-training]
 ---
 
 > **Synthesis:** Proposes a four-component AI literacy framework for legal translation professionals: conceptual AI knowledge, technical operational skills, [[critical-thinking|critical evaluation]] competencies, and [[ethics|ethical]] [[governance]] awareness. Argues generative AI extends rather than replaces professional translation competence. Identifies linguistic, technical, legal, ethical and cognitive risks of AI in legal translation and maps them to literacy components. Framework applicable beyond legal domain to other professional education contexts where AI augments expert judgment. [[ai-literacy]], [[generative-ai]], [[professional-training]], [[human-in-the-loop-ai]], and [[higher-ed]].

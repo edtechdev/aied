@@ -6,7 +6,7 @@ type: article
 foundations: [cognitive-offloading]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
-assessment: [learning-gains, rct]
+assessment: [learning-gains]
 stakeholders: [student-experience]
 research_method: [randomized controlled trial, learning analytics]
 discipline: [stem education]
@@ -16,6 +16,7 @@ level: [k 12]
 sources: ['raw/papers/pnas-2025-guardrails-harm-learning.md']
 confidence: high
 page_kind: [evaluation]
+methods: [rct]
 ---
 
 > **Synthesis:** This landmark field experiment is among the first randomized controlled trials to causally demonstrate that **unguarded generative-AI tutoring can harm skill acquisition**, not merely fail to help. Conducted with **nearly 1,000 high-school math students** across ~50 classes at a large school in Turkey (Fall 2023–2024), the study compares three arms assigned at the classroom level: a **control** arm (textbook/notes only), **GPT Base** (a ChatGPT-like GPT-4 chat interface), and **GPT Tutor** (GPT-4 with teacher-designed [[guardrails]] — hints instead of answers, plus the correct solution and common mistakes baked into the prompt). Each 90-minute session had three parts: a teacher lecture, an AI-assisted practice period (treatment only here), and an unassisted closed-book exam on conceptually similar problems.

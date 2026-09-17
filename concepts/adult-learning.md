@@ -4,11 +4,11 @@ created: "2026-08-06T10:43:53-04:00"
 updated: "2026-09-17T14:18:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
-assessment: [usability-research]
-stakeholders: [edtech-platform, professional-training]
 research_method: [system development]
 level: [adult learning, higher ed]
 confidence: medium
+methods: [usability-research]
+systems: [edtech-platform, professional-training]
 ---
 > **Adult learning** — the theory and practice of educating adults (andragogy), and how AI tools and technologies can be designed to support adult learners' [[agency|autonomy]], prior experience, and real-world relevance. Explored across 9 articles in this knowledge base.
 

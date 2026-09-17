@@ -5,13 +5,13 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [ai-education]
 technology: [generative-ai, llm]
-stakeholders: [educational-policy-ai, open-source]
 ethics: [ethics, privacy]
 research_method: [literature review]
 sources: ['raw/papers/2606.11215.md']
 confidence: high
 audience: [researchers, software developers, institutions]
 page_kind: [evaluation]
+systems: [educational-policy-ai, open-source]
 ---
 
 > **Synthesis:** [[llm]] usage has become pervasive in the [[stanford-evidence-base-ai-k12-2026|AIED]] community, but the computational and environmental costs of deploying these models remain almost entirely unreported. This paper systematically reviews the [[ai-education|AIED]] 2025 conference proceedings and finds that while most projects use LLMs, nearly none report computational resources or discuss environmental impacts as an [[ethics|ethical]] concern.

@@ -5,13 +5,13 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [ai-education]
 technology: [learning-analytics, llm]
-stakeholders: [professional-training]
 research_method: [secondary analysis, longitudinal study]
 sources: ['raw/papers/2608.02102v1.md']
 confidence: high
 audience: [policymakers, researchers]
 level: [adult learning]
 page_kind: [framework]
+systems: [professional-training]
 ---
 
 > **Synthesis:** Using LinkedIn data on 2.4 million U.S. workers and 16,753 distinct skills, this paper introduces three complementary measures of skill complexity — specialization, diversity, and the diversity frontier — and demonstrates that workers near the frontier are significantly more likely to acquire new skills, receive promotions, and transition into occupations with lower automation exposure. The findings distinguish productive capital (specialization) from adaptive capital (diversity) and provide a data-driven framework for understanding [[professional-training|workforce resilience]] in the era of [[ai-education|AI-driven labor market transformation]].

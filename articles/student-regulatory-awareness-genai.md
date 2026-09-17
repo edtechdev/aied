@@ -5,7 +5,7 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
-stakeholders: [educational-policy-ai, regulation, student-experience]
+stakeholders: [student-experience]
 research_method: [survey, quantitative]
 audience: [learners]
 level: [higher ed]
@@ -13,6 +13,7 @@ sources: ['raw/papers/2606.12436.md']
 confidence: high
 discipline: [business education, information technology]
 page_kind: [evaluation]
+systems: [educational-policy-ai, regulation]
 ---
 
 > **Synthesis:** Bischof et al. investigate how students' awareness of [[generative-ai]] regulations relates to their perceived compliance and actual usage behavior in [[higher-ed]]. While previous [[research-methods-aied|research]] mainly examines adoption rates and attitudes, students' awareness of [[governance|institutional]] regulations and their perceived compliance have remained unexplored — an important gap as institutions create and apply [[educational-policy-ai|AI policies]].

@@ -6,7 +6,7 @@ type: article
 foundations: [ai-education]
 pedagogy: [active-learning, project-based-learning, scaffolding, student-engagement]
 technology: [generative-ai]
-assessment: [feedback, meta-analysis-systematic-review]
+assessment: [feedback]
 ethics: [digital-divide]
 research_method: [systematic review]
 level: [higher ed]
@@ -15,6 +15,7 @@ sources: ['raw/papers/long-ai-higher-ed-engagement-teaching-methods-2026.md']
 confidence: high
 audience: [educators, instructional designers]
 page_kind: [framework]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** Long, Wang, Md Rashid, and Lu (2026) systematically review 73 peer-reviewed studies (2015–early 2025, Scopus and Web of Science) on [[higher-ed|AI in higher education]] and its impact on student engagement, with a focus on the **mediating role of [[teacher-role|teaching]] methods**. They find that AI tools — [[conversational-ai|chatbots]], [[adaptive-learning|adaptive systems]], predictive analytics — enhance engagement most effectively when embedded within **interactive pedagogies** (flipped classrooms, [[project-based-learning|project-based learning]], scaffolded feedback loops). They introduce the **PMAISE model** ([[pedagogy|Pedagogical]] Mediation of AI for Student Engagement), mapping the alignment between AI [[ai-technologies|technologies]], pedagogical strategies, and the [[affective-computing|affective]], behavioral, and cognitive dimensions of engagement, and examine ethics, [[privacy|data privacy]], and structural barriers to equitable adoption.

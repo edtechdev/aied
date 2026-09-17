@@ -4,11 +4,12 @@ created: "2026-08-09T16:52:03-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 type: concept
 technology: [generative-ai, llm]
-assessment: [ai-ed-evaluation, assessment, benchmark]
+assessment: [assessment]
 connected_faqs: [reporting-interpreting-aied-research]
 research_method: [benchmark]
 page_kind: [evaluation]
 confidence: high
+methods: [ai-ed-evaluation, benchmark]
 ---
 
 > **Benchmark** — standardized test suites and evaluation frameworks used to measure AI model performance on educational tasks. Benchmarks enable reproducible comparison across models and approaches, and are essential for evaluating the reliability, fairness, and [[pedagogy|pedagogical]] quality of AI in education systems.

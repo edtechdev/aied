@@ -4,13 +4,14 @@ created: "2026-08-14T09:17:22-04:00"
 updated: "2026-08-24T21:10:00-04:00"
 type: article
 technology: [knowledge-tracing, learning-analytics, machine-learning, personalized-learning, student-modeling]
-assessment: [ai-ed-evaluation, educational-measurement]
+assessment: [educational-measurement]
 audience: [software developers]
 research_method: [educational measurement]
 level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/2608.13409.md']
 confidence: high
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** Savala (2026) introduces TRACE (Transformer for Academic Course-grade Estimation), a model that jointly predicts both the set of courses a student will take and the grades they will receive in an upcoming semester. By encoding courses on a per-semester basis to capture course-concurrency effects and using a novel loss combining course-set and grade prediction, the model reduces mean absolute error by nearly 50% versus a grades-only architecture on ten years of [[governance|institutional]] data. It also outperforms LSTM-sequential and graph-neural-network baselines while remaining interpretable and adaptable to new institutions. The work advances [[learning-analytics]] and [[student-modeling]] by treating academic history as concurrently structured rather than a simple sequence.

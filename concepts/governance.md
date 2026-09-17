@@ -4,11 +4,11 @@ created: "2026-08-13T18:17:22-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: concept
 foundations: [ai-education]
-stakeholders: [change-management, educational-policy-ai, regulation]
 ethics: [ethics, privacy]
 connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 level: [higher ed]
 confidence: high
+systems: [change-management, educational-policy-ai, regulation]
 ---
 
 > **AI governance** — the frameworks, policies, institutional structures, and norms that guide the responsible design, deployment, and use of [[ai-education|artificial intelligence in education]]. Governance spans formal institutional mechanisms (AI steering groups, policies on academic integrity and acceptable use, ethical review) and informal norms (faculty guidelines, professional development, cultures of [[reducing-ai-misuse|responsible AI use]]). In the AI era, effective governance is a prerequisite for ethical, [[equity-in-ai-education|equitable]], and sustainable adoption of GenAI — it determines whether AI is integrated transparently, with accountability, or adopted reactively in ways that deepen inequities.

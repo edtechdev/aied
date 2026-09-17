@@ -5,12 +5,13 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [teacher-role]
 technology: [educational-nlp, learning-analytics, llm]
-assessment: [ai-ed-evaluation, automated-assessment, feedback]
+assessment: [automated-assessment, feedback]
 research_method: [benchmark]
 audience: [instructors]
 page_kind: [evaluation]
 confidence: high
 sources: [raw/papers/2606.05180.md]
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** **For rubric-based scoring of classroom transcripts, model-agnostic SHAP attributions are more faithful and transferable than LLM-generated rationales.** This paper proposes a general framework for sentence-level interpretability of rubric-based scoring, combining Shapley-value attributions with [[llm|LLM]]-generated rationales, and instantiates it on the Quality of Feedback (QoF) dimension of the CLASS framework using the NCTE corpus (~6k annotated transcript segments). Across models, fine-tuned pretrained language models (PLMs) outperform prompted LLMs in prediction accuracy but exhibit label compression toward mid-scale scores. Deletion-based faithfulness tests show SHAP identifies sentences that reliably drive predictions — producing larger, more coherent prediction shifts than LLM rationales — and SHAP attributions transfer robustly across architectures, whereas LLM rationales exert limited and inconsistent influence. The work offers a principled basis for evaluating both scoring models and their explanations in high-stakes educational settings and other rubric-based language assessment.

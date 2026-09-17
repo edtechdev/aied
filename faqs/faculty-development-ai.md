@@ -5,10 +5,11 @@ updated: "2026-09-17T02:43:50-04:00"
 weight: 65
 type: faq
 foundations: [educational-development, teacher-role]
-stakeholders: [change-management, teacher-ai-competency, tpack]
+stakeholders: [teacher-ai-competency, tpack]
 research_method: [survey, mixed methods, case study]
 audience: [faculty development, teacher educators, administrators]
 level: [higher ed, teacher training, k 12]
+systems: [change-management]
 ---
 
 # How Do I Design Faculty Development for AI That Actually Changes Practice?

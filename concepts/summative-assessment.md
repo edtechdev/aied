@@ -4,11 +4,12 @@ created: "2026-08-19T17:30:00-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: concept
 foundations: [academic-integrity]
-assessment: [ai-ed-evaluation, assessment, authentic-assessment, summative-assessment]
+assessment: [assessment, authentic-assessment, summative-assessment]
 research_method: [educational measurement]
 level: [higher ed, k 12]
 page_kind: [evaluation]
 confidence: high
+methods: [ai-ed-evaluation]
 ---
 > **Summative assessment** — assessment used to evaluate and certify what a learner has learned at the end of a unit, course, or program, in contrast to [[formative-assessment|formative assessment]] which supports learning during instruction. Summative assessment typically takes the form of high-stakes examinations — written, oral, proctored, or closed-book — that assign grades, gate progression, and certify competence. In the AI era, summative assessment has become a central battleground over [[academic-integrity]] and validity: [[generative-ai|generative AI]] can inflate performance on unproctored or take-home tasks, making the choice of summative format — and how it resists AI substitution — a pivotal design decision.
 

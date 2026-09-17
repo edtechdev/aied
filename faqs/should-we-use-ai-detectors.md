@@ -5,9 +5,9 @@ updated: "2026-09-17T09:21:00-04:00"
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
-stakeholders: [educational-policy-ai, governance]
 ethics: [equity-in-ai-education, trust]
 level: [higher ed]
+systems: [educational-policy-ai, governance]
 ---
 
 # Should We Use AI Detectors?
