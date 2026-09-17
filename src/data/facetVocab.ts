@@ -15,7 +15,7 @@
 
 export const FACET_VOCAB = {
 
-  // Foundations (23 concepts) — registry section: Foundations of AI in education
+  // Foundations of AI in education (23 concepts) — registry section: Foundations of AI in education
   foundations: [
     'academic-integrity',
     'agency',
@@ -41,7 +41,7 @@ export const FACET_VOCAB = {
     'teacher-role',
     'theory-development-aied',
   ],
-  // Pedagogy and learning (46 concepts) — registry section: Learning and instruction
+  // Learning and instruction (46 concepts) — registry section: Learning and instruction
   pedagogy: [
     'active-learning',
     'activity-theory-aied',
@@ -152,7 +152,7 @@ export const FACET_VOCAB = {
     'self-report-measures',
     'summative-assessment',
   ],
-  // Research methods (11 concepts) — registry section: Research methods and evaluation
+  // Research methods and evaluation (11 concepts) — registry section: Research methods and evaluation
   methods: [
     'ai-ed-evaluation',
     'benchmark',
@@ -189,7 +189,7 @@ export const FACET_VOCAB = {
     'governance',
     'regulation',
   ],
-  // Ethics and equity (21 concepts) — registry section: Equity, ethics, and responsible use
+  // Equity, ethics, and responsible use (21 concepts) — registry section: Equity, ethics, and responsible use
   ethics: [
     'accessibility',
     'ai-misuse-learning-harm',
@@ -216,12 +216,26 @@ export const FACET_VOCAB = {
 } as const;
 
 export const FACET_FIELDS = [
-  { field: 'foundations', label: 'Foundations' },
-  { field: 'pedagogy', label: 'Pedagogy and learning' },
+  { field: 'foundations', label: 'Foundations of AI in education' },
+  { field: 'pedagogy', label: 'Learning and instruction' },
   { field: 'technology', label: 'Technologies and techniques' },
   { field: 'assessment', label: 'Assessment and measurement' },
-  { field: 'methods', label: 'Research methods' },
+  { field: 'methods', label: 'Research methods and evaluation' },
   { field: 'stakeholders', label: 'People' },
   { field: 'institutions', label: 'Institutions and policy' },
-  { field: 'ethics', label: 'Ethics and equity' },
+  { field: 'ethics', label: 'Equity, ethics, and responsible use' },
+] as const;
+
+// Display order for the topic facets, shared by the search filters and the
+// metadata table. Foundations sits next to Page kind at the end: the two
+// read least clearly as field names, so they are kept together and late.
+export const FACET_DISPLAY_ORDER = [
+  'pedagogy',
+  'technology',
+  'assessment',
+  'methods',
+  'stakeholders',
+  'institutions',
+  'ethics',
+  'foundations',
 ] as const;
