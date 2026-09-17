@@ -1979,7 +1979,9 @@ sections:
   - label: Research fields
     items:
     - learning-sciences
-  - label: Levels and contexts
+- heading: Levels and contexts
+  groups:
+  - label: Levels and settings
     items:
     - k-12
     - early-childhood-elementary-ai-education
