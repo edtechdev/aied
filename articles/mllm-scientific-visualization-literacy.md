@@ -4,7 +4,7 @@ created: "2026-07-17T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [ai-literacy]
-technology: [generative-ai, llm, visualization]
+technology: [generative-ai, llm, visualization, open-source]
 assessment: [formative-assessment]
 audience: [researchers, software developers]
 research_method: [benchmark]
@@ -14,7 +14,6 @@ sources: ['raw/papers/2607.15176.md']
 confidence: high
 page_kind: [evaluation]
 methods: [benchmark]
-systems: [open-source]
 ---
 
 > **Synthesis:** [[multimodal]] large language models (MLLMs) are increasingly used to interpret visualizations, yet most evaluations remain chart-centric and offer limited insight into **scientific [[visualization]] (SciVis) literacy**. This study [[benchmark|benchmarks]] six MLLMs (three closed-source, three [[open-source]]) on a standardized SciVis literacy assessment — 49 items spanning 18 scientific visualizations, 8 techniques, and 11 task types — and compares model performance against data from 485 human participants.

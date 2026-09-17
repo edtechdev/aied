@@ -15,7 +15,7 @@ discipline: [vocational education]
 audience: [instructional designers, curriculum designers]
 level: [adult learning]
 methods: [ai-ed-evaluation]
-systems: [professional-training]
+stakeholders: [professional-training]
 ---
 
 > **Synthesis:** The Crew Scaler framework applies AI acceleration across all five stages of [[professional-training|professional upskilling]]—[[llm|knowledge acquisition]], content development, content review and verification, AI-tutor coaching, and [[formative-assessment|assessment development]]—with external validation from NASBA CPE accreditation, NVIDIA certification exam passes (3/3, 14 in progress), and a 1,267-item risk dataset production. Dual-efficiency design pairs AI-accelerated production with learning-efficient outputs (prerequisite ordering, spaced review, misconception-keyed distractors, 16 tutoring protocols).

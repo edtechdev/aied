@@ -14,7 +14,7 @@ sources: ['raw/papers/oneill-presumed-effective-meta-analysis-2026.md']
 confidence: high
 audience: [researchers, policymakers, institutions]
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** O'Neill (2026) subjects 14 peer-reviewed [[meta-analysis-systematic-review|meta-analyses]] that claim AI, GenAI, or ChatGPT improves education to a forensic [[research-methods-aied|methodological]] audit, and finds that none provided a valid basis for the claims it advanced. The most basic failures are conceptual: all but two of the meta-analyses define the treatment as a tool rather than a [[pedagogy|pedagogical]] intervention, and multidimensional outcomes are pooled as though their dimensions were interchangeable. An evidentiary audit of 59 vetted primary studies found that 61% of the randomly selected studies were problematic, most often because the outcome measured did not match the meta-analysis claim. Reported [[limitations-in-aied-research|heterogeneity]] was high in every meta-analysis that provided I², no moderator analysis met the minimum subgroup size, and no meta-analysis offered a valid and sufficient accounting of publication bias. O'Neill argues these failures point to failed editorial and reviewer gatekeeping rather than isolated errors, and recommends mandatory data transparency for meta-analyses together with stronger peer review and retraction practice.

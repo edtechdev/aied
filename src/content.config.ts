@@ -95,7 +95,7 @@ const structuredMeta = {
     assessment: facetList('assessment'),
     methods: facetList('methods'),
     stakeholders: facetList('stakeholders'),
-    systems: facetList('systems'),
+    institutions: facetList('institutions'),
     ethics: facetList('ethics'),
     research_method: enumList(
         'action design research',

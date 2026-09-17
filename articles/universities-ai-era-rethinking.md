@@ -12,7 +12,7 @@ level: [higher ed]
 sources: ['raw/papers/2605.07056.md']
 confidence: medium
 page_kind: [framework]
-systems: [administrator, change-management, educational-policy-ai, regulation]
+institutions: [administrator, change-management, educational-policy-ai, regulation]
 ---
 
 > **Synthesis:** Rather than replacing universities, [[generative-ai|generative AI]] **redefines their essential functions** — this paper proposes a four-level framework of [[governance|institutional]] AI adoption and argues that the central challenge is moving from isolated, individual-driven experimentation to strategic integration, supported by workload and recognition systems.

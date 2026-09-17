@@ -3,7 +3,7 @@ title: Improving Capstone Team Outcomes through Dynamic Skill Matching and Prefe
 created: "2026-06-16T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-technology: [intelligent-tutoring, learning-analytics, llm, personalized-learning, rag]
+technology: [intelligent-tutoring, learning-analytics, llm, personalized-learning, rag, edtech-platform]
 stakeholders: [student-experience]
 research_method: [system development]
 discipline: [stem education]
@@ -11,7 +11,6 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.15572.md']
 confidence: medium
-systems: [edtech-platform]
 ---
 
 > **Synthesis:** Pardi et al. (2026) introduce a three-stage methodology for dynamic student team formation that integrates student preferences with project skill requirements. Students complete a survey, an [[llm|LLM]] analyzes project descriptions to extract skills, and a dynamic assignment algorithm matches students to projects. Preliminary evaluations show higher skill coverage and preference satisfaction than random or manual assignment, overcoming limitations of CATME Team-Maker — addressing a core problem in [[collaborative-learning|team-based]] [[stem-education|engineering and computing]] education.

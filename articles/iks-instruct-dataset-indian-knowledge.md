@@ -4,14 +4,13 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 pedagogy: [learning-theories]
-technology: [llm, personalized-learning]
+technology: [llm, personalized-learning, open-source]
 audience: [software developers]
 research_method: [system development, benchmark]
 discipline: [language learning]
 sources: ['raw/papers/2607.23322.md']
 confidence: medium
 level: [secondary, k 12]
-systems: [open-source]
 ---
 
 > **Synthesis:** Presents a 24,795-example [[multilingual-learning|multilingual]] instruction dataset for [[teacher-role|teaching]] LLMs to deliver educational content grounded in Indian Knowledge Systems. Spans seven languages and bridges a gap in non-Western [[pedagogy|pedagogical]] content for instruction tuning. Demonstrates that [[discipline-specific-aied|domain-specific]] educational datasets improve [[llm]] performance on culturally grounded knowledge tasks.

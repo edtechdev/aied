@@ -11,7 +11,7 @@ confidence: high
 discipline: [business education]
 audience: [instructional designers, designers]
 level: [adult learning]
-systems: [professional-training]
+stakeholders: [professional-training]
 ---
 
 > **Synthesis:** SupplyNet is a [[game-based-learning|gamified]] visual simulation system that uses a contextual graph-based [[llm]] multi-agent framework to model interdependent supply chain dynamics. Designed for [[professional-training]] in supply chain management (SCM), it replaces traditional abstract [[simulation|simulations]] with a manipulable decision space combining an interactive network view, a branching timeline for "what-if" exploration, and a task-oriented analysis console.

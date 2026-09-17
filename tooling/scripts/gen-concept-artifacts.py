@@ -39,11 +39,11 @@ CONFIG_TS = os.path.join(WIKI, 'src', 'content.config.ts')
 FACET_SECTIONS = [
     ('foundations', 'Foundations', 'Foundations of AI in education'),
     ('pedagogy', 'Pedagogy and learning', 'Learning and instruction'),
-    ('technology', 'Technology', 'AI technologies and techniques'),
+    ('technology', 'Technologies and techniques', 'Technologies and techniques'),
     ('assessment', 'Assessment and measurement', 'Assessment and measurement'),
     ('methods', 'Research methods', 'Research methods and evaluation'),
     ('stakeholders', 'People', 'People'),
-    ('systems', 'Institutions and systems', 'Institutions and systems'),
+    ('institutions', 'Institutions and policy', 'Institutions and policy'),
     ('ethics', 'Ethics and equity', 'Equity, ethics, and responsible use'),
 ]
 

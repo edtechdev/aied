@@ -4,7 +4,7 @@ created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-16T14:10:00-04:00"
 type: article
 pedagogy: [game-based-learning]
-technology: [adaptive-learning]
+technology: [adaptive-learning, technology-acceptance-model]
 assessment: [educational-measurement]
 audience: [researchers, instructors]
 research_method: [educational measurement]
@@ -13,7 +13,6 @@ confidence: high
 discipline: [language learning]
 level: [higher ed]
 page_kind: [evaluation]
-systems: [technology-acceptance-model]
 ---
 
 > **Synthesis:** Zhorabekova et al. (2026) tested whether the commonly assumed subdimensions of [[technology-acceptance-model|acceptance]] for AI-gamified [[adaptive-learning]] in [[language-learning|EFL]] are empirically separable, using a 13-item questionnaire completed by 401 students at a Kazakhstani university. Parallel analysis, competing confirmatory models, bifactor dimensionality indices, an ordinal robustness check, and an independent held-out confirmation converge on the same answer: the scale is essentially unidimensional, dominated by a single general factor, with perceived [[game-based-learning|gamification]] the only partly distinguishable facet. The practical message is that a general total score is defensible and fine-grained subscales are not — though the general factor may be substantially method-influenced.

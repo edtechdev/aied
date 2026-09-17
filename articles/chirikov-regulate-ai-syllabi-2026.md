@@ -12,7 +12,7 @@ audience: [instructors, administrators, policymakers, researchers]
 level: [higher ed]
 sources: ['raw/papers/chirikov-regulate-ai-syllabi-2026.md']
 confidence: high
-systems: [educational-policy-ai, governance, regulation]
+institutions: [educational-policy-ai, governance, regulation]
 ---
 
 > **Synthesis:** **How instructors regulate AI in college** — a large-scale longitudinal study by Igor Chirikov (2026) analyzing **31,000+ course syllabi** (2021–2025) from the full course universe of a large public research university. Building a **task-based framework** (adapted from labor economics) of how AI reshapes skill formation via **displacement, augmentation, and reinstatement**, the paper finds instructors are *warming toward AI*: [[regulation]] grew to 55% of courses by Fall 2025, but shifted from restrictive toward permissive, differentiated by task type, and increasingly framed around learning rather than [[academic-integrity|academic integrity]] — with substantial disciplinary variation.

@@ -8,7 +8,7 @@ stakeholders: [stakeholders, student-experience]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
-systems: [administrator]
+institutions: [administrator]
 ---
 > **Stakeholders** — the range of human stakeholders involved in, affected by, and responsible for [[ai-education|AI in education]], and the umbrella concept for the knowledge base's coverage of who the actors are. [[ai-education|AI in education]] is a multi-stakeholder field: learners who use AI, [[teacher-role|teachers]] and [[educational-development|faculty]] who integrate it, [[administrator|administrators]] who govern it, instructional designers who build learning experiences around it, and policymakers who regulate it. Each audience has distinct needs, competencies, roles, and perspectives, and the knowledge base treats them as the human context in which AI tools are designed, deployed, and evaluated.
 

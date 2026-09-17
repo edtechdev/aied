@@ -4,7 +4,7 @@ created: "2026-08-27T09:12:00-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 foundations: [academic-integrity]
-technology: [generative-ai]
+technology: [generative-ai, technology-acceptance-model]
 ethics: [trust]
 connected_faqs: [institutional-ai-policy]
 research_method: [survey]
@@ -12,7 +12,7 @@ level: [higher ed, teacher training]
 sources: ['raw/papers/ai-adaptation-gap-higher-education-2026.md']
 confidence: high
 audience: [administrators, institutions, faculty development]
-systems: [change-management, educational-policy-ai, governance, technology-acceptance-model]
+institutions: [change-management, educational-policy-ai, governance]
 ---
 
 > **Synthesis:** Braun and Khafizov (2026) analyze patterns of [[generative-ai]] use and attitudes toward AI among students, faculty, and administrative staff at a large university specializing in [[teacher-education|teacher education]], using three role-adapted 75-item questionnaires (N = 2,121: 1,809 students, 250 faculty, 62 staff). They document a pronounced "AI adaptation gap": students report higher current AI-use intensity and perceived usefulness, while faculty and administrative staff report stronger [[academic-integrity]] concerns and greater endorsement of responsible-use norms. In the pooled OLS trust model, perceived usefulness had the strongest standardized positive association with [[trust|Trust]] (β = 0.402), with [[governance|institutional]] policy clarity also positive but weaker (β = 0.223). The cross-sectional, self-reported design supports associative and group-difference conclusions rather than causal claims.

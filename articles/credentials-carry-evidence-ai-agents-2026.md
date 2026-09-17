@@ -4,14 +4,13 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [academic-integrity, agentic-ai]
-technology: [generative-ai]
+technology: [generative-ai, edtech-platform]
 assessment: [assessment]
 research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/credentials-carry-evidence-ai-agents-2026.md']
 confidence: high
 audience: [institutions, assessment designers, policymakers]
-systems: [edtech-platform]
 ---
 
 > **Synthesis:** Srivastava (2026) argues that when an [[agentic-ai|AI agent]] can complete an online course on a student's behalf, a credential that says "earned" loses its meaning, and that the standard remedy — proving a human did the work through identity checks and proctoring — is fragile and targets the wrong quantity. The paper proposes that credentials retain value only if they carry **evidence of the reasoning** that produced them, captured while learning happens and inspectable by someone other than the issuing institution. It advances three design elements: the credential as a **claim plus a verifiable receipt** (an inspectable, independently verifiable record of what was observed, hashed against alteration); **dynamic tiering**, in which the same skill is certified as *unaided*, *directed*, or *attested* and can be upgraded or lapse as evidence accrues; and **declarations of approved use**, under which agent use is permitted and measured rather than prohibited and policed. The organizing principle is that a credential's value comes from what can be [[assessment|inspected]], not from who signed it.

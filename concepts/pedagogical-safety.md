@@ -10,7 +10,7 @@ ethics: [ethics, hallucination-risk]
 level: [k 12]
 
 confidence: high
-systems: [governance, regulation]
+institutions: [governance, regulation]
 ---
 
 > **[[pedagogy|Pedagogical]] safety** — the design principle that [[ai-education|AI education]] systems must protect learners from harm, including inappropriate content, unsafe advice, biased treatment, and manipulative interaction patterns. Safety is particularly critical for [[k-12]] contexts, where the stakes of harm are highest and learners are least equipped to detect it.

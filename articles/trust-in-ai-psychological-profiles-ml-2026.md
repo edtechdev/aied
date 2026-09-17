@@ -4,7 +4,7 @@ created: "2026-09-16T08:12:19-04:00"
 updated: "2026-09-16T08:12:19-04:00"
 type: article
 pedagogy: [self-efficacy, well-being]
-technology: [learning-analytics, machine-learning]
+technology: [learning-analytics, machine-learning, technology-acceptance-model]
 assessment: [self-report-measures]
 stakeholders: [ai-anxiety-and-stress]
 ethics: [equity-in-ai-education, trust, trust-calibration]
@@ -14,7 +14,6 @@ research_method: [survey, quantitative, learning analytics]
 audience: [researchers, instructors, administrators]
 level: [higher ed]
 page_kind: [evaluation]
-systems: [technology-acceptance-model]
 ---
 
 > **Synthesis:** Kumar, Anand, Butler & Bista (2026) surveyed 107 students at a public historically Black university ([[higher-ed|HBCU]]) in the Mid-Atlantic United States and applied [[machine-learning|K-means clustering]] to three [[self-report-measures|self-report measures]]: psychological resilience, perceived stress, and [[trust]] in AI. Three profiles emerged: "Moderately Stressed AI-Positive Students," "High-Resilience Low-Stress AI-Adopters," and "Psychologically Resilient AI Skeptics." All three psychological variables differed significantly across the profiles, with stress and AI trust separating them most strongly, while only gender was significantly tied to profile membership. The authors read this as evidence that trust in AI tracks psychological state more than demographic category, so students should be treated as a heterogeneous population rather than a single average, an argument they connect to [[trust-calibration|calibrated reliance]] instead of blanket acceptance.

@@ -9,7 +9,7 @@ stakeholders: [teacher-ai-competency, tpack]
 research_method: [survey, mixed methods, case study]
 audience: [faculty development, teacher educators, administrators]
 level: [higher ed, teacher training, k 12]
-systems: [change-management]
+institutions: [change-management]
 ---
 
 # How Do I Design Faculty Development for AI That Actually Changes Practice?

@@ -22,20 +22,20 @@ interface Props {
 
 const { conceptTitles, data } = Astro.props;
 
-const FACETS = ['foundations', 'pedagogy', 'technology', 'assessment', 'methods', 'stakeholders', 'systems', 'ethics'];
+const FACETS = ['foundations', 'pedagogy', 'technology', 'assessment', 'methods', 'stakeholders', 'institutions', 'ethics'];
 const ROWS: { key: string; label: string }[] = [
   { key: 'research_method', label: 'Study design' },
   { key: 'discipline', label: 'Discipline' },
   { key: 'level', label: 'Level' },
   { key: 'audience', label: 'Intended audience' },
-  { key: 'foundations', label: 'Foundations' },
   { key: 'pedagogy', label: 'Pedagogy' },
-  { key: 'technology', label: 'Technology' },
+  { key: 'technology', label: 'Technologies and techniques' },
   { key: 'assessment', label: 'Assessment and measurement' },
   { key: 'methods', label: 'Research methods' },
   { key: 'stakeholders', label: 'People' },
-  { key: 'systems', label: 'Institutions and systems' },
+  { key: 'institutions', label: 'Institutions and policy' },
   { key: 'ethics', label: 'Ethics' },
+  { key: 'foundations', label: 'Foundations' },
   { key: 'page_kind', label: 'Page kind' },
 ];
 

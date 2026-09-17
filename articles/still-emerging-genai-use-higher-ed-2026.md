@@ -4,14 +4,13 @@ created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [agency, ai-education, ai-literacy, teacher-role]
-technology: [generative-ai]
+technology: [generative-ai, technology-acceptance-model]
 stakeholders: [student-experience]
 research_method: [survey, case study]
 audience: [instructors, researchers, institutions]
 sources: ['raw/papers/10.3389_feduc.2026.1885253.md']
 confidence: high
 level: [higher ed]
-systems: [technology-acceptance-model]
 ---
 
 > **Synthesis:** Kahn and colleagues (2026) surveyed staff and students in one school of a research-intensive UK university about their own responses to [[llm|Large Language Model]] (LLM) tools. Appropriate uses of GAI were not straightforwardly obvious to anyone: staff varied widely in what they used the tools for and understood student use poorly, while students were more positive about the gains on offer and felt better supported. The authors argue that the challenges GAI poses for [[higher-ed|higher education]] cannot be reduced to a technical problem for [[learning-design|learning design]] or to [[ai-literacy|AI literacy]] training, because effective use depends on how staff and students *imagine* the affordances of the tools.

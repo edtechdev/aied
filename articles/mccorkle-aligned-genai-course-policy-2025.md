@@ -13,7 +13,7 @@ audience: [instructors, faculty development, instructional designers, curriculum
 level: [higher ed]
 sources: ['raw/papers/mccorkle-aligned-genai-course-policy-2025.md']
 confidence: high
-systems: [educational-policy-ai]
+institutions: [educational-policy-ai]
 ---
 
 > **Synthesis:** **An Aligned Generative AI Course Policy** — a design case by McCorkle (2025) documenting how one instructor replaced a blanket GenAI prohibition with a policy whose allowed and unallowed uses are derived from **what is specifically being assessed** in the course. The method: challenge your own assumptions about [[generative-ai|generative AI]], inventory every task a student performs on the project, ask of each task "what, specifically, am I assessing?", brainstorm an emerging GenAI workforce competency for that task, and then decide which concern takes priority — the need to assess student performance or the value of building the workforce competency. The result is a transparent, [[equity-in-ai-education|equitable]] policy that states its [[framing-ai-use-for-students|rationale to students]] task by task, and a secondary benefit the author did not expect: instructors are forced to think precisely about what they are actually assessing.

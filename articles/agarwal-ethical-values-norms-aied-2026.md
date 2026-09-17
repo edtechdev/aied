@@ -11,7 +11,7 @@ research_method: [systematic review]
 audience: [policymakers, institutions, designers]
 page_kind: [framework]
 methods: [meta-analysis-systematic-review]
-systems: [educational-policy-ai, governance]
+institutions: [educational-policy-ai, governance]
 ---
 
 > **Synthesis:** **Identifying the ethical values and norms for artificial intelligence in education: A systematic literature review** — Agarwal, Urlings, van Lankveld & Klemke (2026) report a [[meta-analysis-systematic-review|systematic literature review]] (25 articles from 736 records across Web of Science, ERIC, IEEE CSDL and ACM DL, plus backward snowballing) that consolidates the fragmented [[ethics|ethics of AIED]] literature into six main ethical values for [[ai-education|AI in education]]: non-discrimination, data stewardship, [[human-in-the-loop-ai|human oversight]], goodwill, explicability, and educational aptness. It maps the ethical norms extracted from the literature onto a stakeholder-by-value matrix, showing which norms each stakeholder set (developers, educational institutes, end users, regulators) should follow to realize each value. The review positions these six values as robust across AIED types — including [[generative-ai]] — and calls for integrating ethics into AIED design and a greater focus on the educational ([[pedagogy|pedagogical]]) dimension of AIED ethics.

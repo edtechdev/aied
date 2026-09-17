@@ -11,7 +11,7 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1834827.md']
 confidence: high
 level: [higher ed, teacher training]
 page_kind: [framework]
-systems: [technology-acceptance-model]
+technology: [technology-acceptance-model]
 ---
 
 > **Synthesis:** Bai and Hsieh (2026) set out to explain why some college teachers build genuinely new teaching practice around generative AI while others only adopt the tools. Drawing on the AI-[[tpack|AI-TPACK]] competence framework, Social Cognitive Theory, and professional identity theory, they surveyed 898 Chinese university teachers and modeled the paths from AI-related competence to AI teaching innovation behavior. Technical AI knowledge on its own did not predict innovation; what mattered was competence embedded in pedagogy and subject matter, working through [[ai-literacy]] and [[learner-identity|professional identity]].

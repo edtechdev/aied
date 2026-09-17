@@ -3,7 +3,7 @@ title: "AI-Integrated Learning Management System for Middle School: A Longitudin
 created: "2026-06-10T12:17:35-04:00"
 updated: "2026-09-16T17:12:13-04:00"
 type: article
-technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning, edtech-platform]
 assessment: [formative-assessment]
 stakeholders: [student-experience]
 research_method: [design-based research, survey]
@@ -12,7 +12,6 @@ level: [k 12, higher ed]
 confidence: medium
 page_kind: [framework]
 sources: ['raw/papers/2606.07544.md']
-systems: [edtech-platform]
 ---
 
 > **Synthesis:** This paper proposes an AI-integrated LMS designed specifically for [[k-12|middle school]] instruction, addressing the gap between current LMS platforms (which function as workflow tools) and the need for real-time instructional support during the critical middle-school learning window. Key features include policy-gated AI assistance (bounded AI to avoid [[cognitive-offloading|Over-Reliance]]), [[formative-assessment|formative]] feedback and hinting during practice, spaced review and adaptive practice recommendations, and teacher dashboards for [[misconceptions|misconception]] patterns. The system is designed with privacy-first architecture including data minimization, age-appropriate response constraints, auditable logs, and role-based access control. The proposed longitudinal study tracks students from middle school through high school into post-high school pathways, linking fine-grained learning traces to [[governance|institutional]] outcomes. This design study is complementary to [[intelligent-tutoring]] systems [[research-methods-aied|research]] and [[personalized-learning]] implementations in K-12 settings.},

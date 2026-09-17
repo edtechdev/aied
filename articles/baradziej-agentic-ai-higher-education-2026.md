@@ -14,7 +14,7 @@ sources: ['raw/papers/baradziej-agentic-ai-higher-education-2026.md']
 confidence: high
 page_kind: [synthesis, framework]
 methods: [meta-analysis-systematic-review]
-systems: [governance]
+institutions: [governance]
 ---
 
 > **Synthesis:** This [[meta-analysis-systematic-review|PRISMA systematic review]] (Jan 2023 – Mar 2026; **48 studies** from 1247 records) asks what roles [[agentic-ai|agentic AI]] actually plays in [[higher-ed|higher education]] and how those differ from [[generative-ai|generative]] and rule-based AI. It identifies **six discrete roles** and quantifies the evidence for each: [[personalized-learning|personalized learning]] and adaptive tutoring (18/48, the most-evidenced), [[automated-assessment|automated assessment]] and feedback (12), [[teacher-role|teaching]] assistance and augmentation (11), administrative and student support (8), [[curriculum-design|curriculum design]] and workforce alignment (5), and [[research-methods-aied|research]] support and academic operations (4). Reported outcomes cluster on scalable personalization (academic gains 15–25%, [[student-engagement|engagement]] up to +40%), assessment efficiency (90–95% human-grader agreement, 50–70% grading-time cuts), and proactive at-risk support — set against risks of [[cognitive-offloading|cognitive dependency]], cultural homogenisation, algorithmic [[bias-mitigation|bias]], and low faculty readiness (only 6.5% of faculty in some contexts report direct AI use). The review's central practical contribution is a **tripartite framework for responsible integration**: develop [[ai-literacy]], build [[ethics|ethical]] infrastructure, and deliver competence-based [[educational-development|educator training]].

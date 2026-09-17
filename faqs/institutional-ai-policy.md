@@ -8,7 +8,7 @@ ethics: [equity-in-ai-education, ethics, privacy]
 research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
-systems: [change-management, educational-policy-ai, governance]
+institutions: [change-management, educational-policy-ai, governance]
 ---
 
 # How Do We Write and Implement an Institutional AI Policy?
