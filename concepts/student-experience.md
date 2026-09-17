@@ -127,7 +127,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 - [[kim-ai-anxiety-comprehensive-analysis]] — A comprehensive analysis of AI anxiety
-- [[students-perceptions-ai-tools-study-2026]] — Students' perceptions of AI tools for study
+- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
 - [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Post-secondary adoption perspective
 - [[pedlow-genai-selfassessment-2026]] — Raising ethical awareness of GenAI use through student self-assessment
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in an AI era

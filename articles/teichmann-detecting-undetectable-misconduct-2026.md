@@ -102,7 +102,7 @@ None of this requires an AI-proof assessment or a retreat to mass invigilation. 
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Disclosure as a help-seeking and self-regulation decision
 - [[automated-online-exam-proctoring-decade-review-2026]] — A decade of automated proctoring: accuracy, distress, and equity
 - [[conijn-fear-big-brother-proctored-exams-2022]] — Fear of the big brother: student experience of proctored exams
-- [[biology-grade-vulnerability-genai-2026]] — How structurally vulnerable current grading is to AI-mediated dishonesty
+- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
 - [[chirikov-regulate-ai-syllabi-2026]] — Syllabi shifting from integrity framing to task-level regulation
 - [[chen-zou-genai-group-assessment-agency-2026]] — Peer accountability and the negotiation of acceptable AI use in groups
 - [[ai-assessment-scale-reform]] — Rethinking assessment in the generative AI era

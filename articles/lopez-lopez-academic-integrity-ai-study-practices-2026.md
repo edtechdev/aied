@@ -50,7 +50,7 @@ confidence: high
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world
 - [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Chat or cheat? ChatGPT and academic dishonesty
 - [[genai-chinese-higher-education-integrity-2026]] — GenAI and academic integrity in Chinese higher education
-- [[students-perceptions-ai-tools-study-2026]] — Students' perceptions of AI tools in study
+- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student dependency on AI, literacy, and self-efficacy
 - [[genai-student-experiences-uk-he-survey-2026]] — GenAI student experiences in UK higher education
 - [[ai-tools-academic-work-cheating-2026]] — AI tools, academic work, and cheating

@@ -45,7 +45,7 @@ connected_faqs: [asynchronous-online-courses-ai]
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for generative AI
 - [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments in the AI era
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond-detection authentic assessment
-- [[biology-grade-vulnerability-genai-2026]] — Vulnerability of course grades to AI-mediated dishonesty
+- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
 
 ## Citation
 

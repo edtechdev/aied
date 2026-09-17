@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-17T07:39:59-04:00"
+updated: "2026-09-17T09:40:00-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 tags: [cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, generative-ai]
@@ -60,6 +60,8 @@ hypothesis than a settled effect size.
 
 The most important practical nuance is that the harm is **selective by assessment type**. It shows up on **proctored, closed-book, and unassisted** measures of durable knowledge. On normal graded coursework that cannot distinguish AI-assisted from independent work, misuse can *inflate* immediate grades. This is why the perceived-vs-actual gap is dangerous: students (and sometimes instructors) see short-term performance gains and miss the erosion of learning that only surfaces when the tool is removed.
 
+**Which reliance, not how much of it.** A survey of 118 students across 12 AI-intensive courses ([[uneven-impact-generative-ai-student-learning-2026|Manikonda et al. 2026]]) separates two behaviours that usage-frequency measures collapse. **Cognitive reliance** — using GenAI to organise, evaluate, combine and decompose — was the strongest predictor of perceived positive impact (β = .495, p < .001), and the offloading it describes is not uniformly harmful: organising and summarising ideas and discovering new insights ranked among the features associated with improved perceived learning. **Early reliance** — consulting GenAI *before* independent thought, a traditional search, or an instructor — predicted academic benefit (β = .301, p < .001) *and* negative impact (β = .402, p = .004) at once. The moderation is the part that bears on the literacy remedy above: the association between early reliance and negative impact was absent at low [[ai-literacy|evaluation literacy]] (b = .025, p = .861) and strongest among the students who judge AI output best (b = .688, p < .001), so evaluative skill did not protect against the cost of asking AI first — the students best placed to notice the cost were the ones reporting it. The operational implication is that misuse is partly a question of *timing* relative to the learner's own attempt, not only of volume, which is why interventions that target when AI is consulted sit alongside the assessment-design remedies below.
+
 ### Implications and remedies
 
 - **[[guardrails]] over raw access:** hint-not-answer [[prompt-engineering|prompting]] and teacher-authored [[scaffolding]] neutralize the crutch effect (see [[generative-ai-guardrails-harm-learning]]).
@@ -101,3 +103,4 @@ The most important practical nuance is that the harm is **selective by assessmen
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency fully mediates the path from self-efficacy and teacher support to learning burnout (Huang et al. 2026)
+- [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance predicts negative impact while cognitive reliance predicts positive impact, and evaluation literacy strengthens rather than buffers the harm of consulting AI first (Manikonda et al. 2026)
