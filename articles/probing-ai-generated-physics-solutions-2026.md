@@ -10,6 +10,7 @@ audience: [learners]
 category: [assessment]
 sources: ['raw/papers/2608.12533.md']
 confidence: high
+level: [higher ed]
 ---
 
 > **Synthesis:** Borse et al. (2026) examine AI-generated physics solutions from two connected angles: how prompt design shapes solution quality and how students can be prepared to critique those solutions. Using a rotational-mechanics problem and the Minnesota Assessment of Problem Solving (MAPS) rubric, they show well-specified prompts improve completeness while underspecified and multimodal prompts expose weaknesses in physics reasoning. In a student-evaluation phase with 24 introductory physics lab groups, MAPS-guided reflection produced more expert-aligned critiques than [[problem-solving]]-only training, which yielded uncritical or misconception-based assessments. The study grounds both model-reasoning [[benchmark|benchmarks]] and student [[ai-literacy]] training in [[physics-education]] research.

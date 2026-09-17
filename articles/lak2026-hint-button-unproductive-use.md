@@ -4,12 +4,13 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, learning-analytics, k-12, math-education, game-based-learning, student-experience, help-seeking]
-research_method: [survey]
+research_method: [learning analytics, quantitative]
 discipline: [math education]
-audience: [learners]
+audience: [learning analytics designers, instructional designers, researchers]
 level: [k 12]
 sources: ['raw/papers/lak2026-hint-button-unproductive-use.md']
 confidence: high
+category: [engagement, evaluation, instructional design]
 ---
 
 > **Synthesis:** A three-semester, 999-student analysis of hint usage in a [[k-12]] [[math-education|mathematics]] ITS finds that two simple, interpretable indicators—premature hint requests and superficial hint reading—are consistently associated with reduced [[learning-gains|learning gains]], even after controlling for [[prior-knowledge|prior knowledge]]. The work argues from an affordance perspective that the persistent "hint button" design common across ITSs can inadvertently enable bypass strategies, transforming [[scaffolding|scaffolds]] into shortcuts.

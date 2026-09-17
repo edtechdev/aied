@@ -10,6 +10,7 @@ audience: [instructors]
 category: [instructional design, curriculum design]
 sources: ['raw/papers/10.3389_fpsyg.2026.1887565.md']
 confidence: high
+level: [higher ed]
 ---
 
 > **Synthesis:** Gao (2026) examined whether generative-AI-supported adaptation of English for Academic Purposes (EAP) reading materials chiefly changes passage-level structural complexity or text-embedded functional support. Using a role-prompted workflow (barrier analysis, adaptation, fidelity checking, validation) and a 3×3 between-subjects design (N=135; proficiency × material condition), the study found that GenAI-supported differentiation operates primarily at the level of proficiency-specific support-layer design — glosses, sentence unpacking, rhetorical cues, claim-evidence notes, and critical prompts — rather than broad changes in passage-level structural complexity. Differentiated-AI materials most strongly outperformed unified-AI versions among high-proficiency learners (d = 1.40), with a moderate advantage among low-proficiency learners (d = 0.60) and a small difference for intermediate learners.

@@ -10,6 +10,7 @@ level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/zhan-chapman-genai-cs-education-2026.md']
 confidence: medium
+audience: [instructors, assessment designers, administrators]
 ---
 
 > **Synthesis:** Zhan & Chapman (2026), *Journal of University [[teacher-role|Teaching]] and Learning Practice* 23(5), argue that [[generative-ai|generative AI]] is fundamentally reshaping [[assessment]] in [[cs-education|computer science education]] by enabling automation, scalability, and personalized feedback. AI-enhanced tools support adaptive testing, real-time learner support, and data-driven insights that deepen [[student-engagement|engagement]] and [[learning-gains|learning outcomes]], yet the integration also raises critical concerns around [[academic-integrity|academic integrity]], algorithmic [[bias-mitigation|bias]], transparency, and the ethical implications of AI-driven evaluation. The authors contend that successful integration depends less on technological capability than on deliberate, human-guided design that upholds fairness, transparency, and educational purpose — grounded in a pedagogically coherent framework for the future of [[higher-ed|higher education]].

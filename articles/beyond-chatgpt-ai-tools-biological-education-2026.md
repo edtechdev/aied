@@ -10,6 +10,7 @@ discipline: [biology education]
 level: [higher ed]
 sources: ['raw/papers/beyond-chatgpt-ai-tools-biological-education-2026.md']
 confidence: high
+category: [synthesis, assessment, instructional design]
 ---
 > **Synthesis:** Cotton and Cotton (2026) review the use of AI tools in **biological education**, noting that AI has revolutionized biology *[[research-methods-aied|research]]* (exemplified by AlphaFold's Nobel Prize) yet its adoption in biology *education* has been slower, partly due to concerns about [[generative-ai|generative AI]] (GAI) tools like ChatGPT. The review examines the potential benefits of AI — enhanced [[student-engagement|student engagement]] and subject knowledge, support for coding skills, assistive [[ai-technologies|technologies]] for students with disabilities, and predictive modeling to identify at-risk students — alongside emerging specialized tools such as **iNaturalist and Google Lens** for species identification and **[[machine-learning]] tools for bioimaging**. Evidence suggests tools like iNaturalist can improve [[learning-gains|learning outcomes]], promote engagement, and foster environmental stewardship. Challenges include **[[academic-integrity|academic integrity]], assessment design, misinformation, and the potential erosion of [[critical-thinking|critical thinking]] and independent research skills**, requiring [[educational-development|professional development]] for [[teacher-role|educators]] and clear guidance for students. 
 

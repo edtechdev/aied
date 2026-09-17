@@ -9,6 +9,7 @@ discipline: [math education]
 level: [k 12]
 category: [engagement]
 confidence: high
+audience: [educators, administrators, policymakers]
 sources: [raw/papers/one-click-away-khanmigo-two-year-school-experiment-2026.md]
 ---
 

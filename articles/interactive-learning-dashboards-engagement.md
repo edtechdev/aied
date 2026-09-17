@@ -10,6 +10,7 @@ level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/interactive-learning-dashboards-engagement.md']
 confidence: high
+audience: [instructors, learning analytics designers]
 ---
 
 > **Synthesis:** Graf et al. (2026) transformed a conventional Learning Analytics Dashboard (LAD) into an interactive ILAD by adding an [[llm]]-powered [[pedagogical-agent|pedagogical agent]] and a Judgment of Learning (JoL) self-assessment feature. In a 5-week case study with 30 CS students across three conditions (no agent, "telling" agent, "eliciting" agent), the elicit condition produced more reflection and more accurate mastery calibration. The study bridges [[learning-analytics]] dashboard design with [[intelligent-tutoring]] principles and [[metacognition]] [[research-methods-aied|research]], showing that how learners interact with their data matters more than simply seeing it.

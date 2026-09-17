@@ -11,6 +11,7 @@ level: [higher ed]
 
 sources: ['raw/papers/oatutor-open-source-adaptive-tutor-2023.md']
 confidence: high
+category: [instructional design, evaluation]
 ---
 
 > **Synthesis:** OATutor (Open Adaptive Tutor) is the first open-source adaptive tutoring system built on Intelligent Tutoring System (ITS) principles, developed at UC Berkeley's CAHL Lab. It combines an MIT-licensed, fully engineered codebase with a Creative Commons (CC BY) algebra content library, knowledge tracing, A/B testing infrastructure, and LTI support — designed to democratize adaptive learning research by removing the barrier to replicating and extending experiments that proprietary platforms create.

@@ -10,6 +10,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2608.02420.md']
 confidence: medium
+category: [instructional design, engagement]
 ---
 
 > **Synthesis:** Work-in-progress exploring LLMs as debugging assistants for physical hardware lab courses. Proposes 'Chat-Debugging' where students interact with an LLM to diagnose circuit faults. Aims to reduce frustration and improve debugging skill development. Initial prototype tested in an undergraduate hardware course; preliminary results suggest LLM assistance helps students identify faults faster and provides just-in-time scaffolding without giving away solutions. [[llm]], [[scaffolding]], [[cs-education]], [[stem-education]], and [[student-experience]].

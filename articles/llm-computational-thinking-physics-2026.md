@@ -4,13 +4,14 @@ created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-24T04:38:01-04:00"
 type: article
 tags: [llm, computational-thinking, physics-education, stem-education, assessment, higher-ed, automated-assessment, problem-solving]
-research_method: [experiment]
+research_method: [educational measurement, quantitative]
 discipline: [physics education, stem education]
 level: [higher ed]
 category: [assessment]
 
 sources: ['raw/papers/2608.06200.md']
 confidence: medium
+audience: [assessment professionals, instructors, researchers]
 ---
 
 > **Synthesis:** Savage, Shanker, Michlitsch & Rebello (2026) investigate using [[llm|LLMs]] to evaluate students' written explanations of computational physics problems at scale. Establishing a human-coded baseline grounded in [[computational-thinking|CT]] literature, they found significant growth in Data Practices and Computational [[problem-solving]] Practices. The LLM successfully mirrored human evaluations for these constructs, but both human raters and the LLM struggled with more complex constructs like Systems Thinking. This work demonstrates that [[llm|LLMs]] offer a viable, scalable method for assessing [[computational-thinking|computational thinking]] in large-enrollment [[physics-education|physics]] courses.

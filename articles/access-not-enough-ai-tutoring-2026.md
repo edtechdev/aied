@@ -10,6 +10,7 @@ level: [k 12]
 category: [engagement]
 sources: ['raw/papers/access-not-enough-ai-tutoring-2026.md']
 confidence: high
+discipline: [english education]
 ---
 
 > **Synthesis:** Robinson, Gormley, Ribeiro & Loeb (2026) ran two [[rct|RCTs]] showing that [[intelligent-tutoring|AI tutoring]]'s binding constraint is **take-up, not capability**: despite dedicated session time, nearly half of students never used the platform and users averaged only 2–5 minutes per week. An in-person engagement tutor (not direct instruction) raised usage by 1–4 minutes/week and engagement by 71–80% — but dosage stayed far below the level needed for reading gains, and achievement did not improve.

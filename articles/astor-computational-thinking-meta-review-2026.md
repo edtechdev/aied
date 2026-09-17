@@ -7,9 +7,10 @@ tags: [computational-thinking, meta-analysis-systematic-review, cs-education, k-
 research_method: [meta-analysis, systematic review]
 discipline: [cs education, stem education]
 level: [k 12]
-category: [assessment]
+category: [synthesis]
 sources: ['raw/papers/astor-computational-thinking-meta-review-2026.md']
 confidence: high
+audience: [researchers, curriculum designers, educators]
 ---
 
 > **Synthesis:** **In brief:** Astor, Rönnlund, Fawcett and Gredebäck synthesize the 128 systematic reviews and meta-analyses written in the broad field of [[computational-thinking|computational thinking]] (CT) to clarify the concept's foundations and map research trends. They identify Education (primarily K-12), Programming, Tools, [[pedagogy|Pedagogical]] approaches, and Assessment as the dominant themes, show CT review research is concentrated among authors from China, the US, Turkey, Brazil, and Hong Kong, and flag a recent surge of only-loosely-cross-referenced reviews as emerging redundancy. Their central finding is that the CT literature is **conceptually fragmented** — yet the differing definitions remain fundamentally aligned, allowing a coherent unified definition of CT as reasoning with *abstract models that use computational steps and algorithms to solve problems*.

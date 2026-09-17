@@ -10,6 +10,7 @@ level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/2608.13447.md']
 confidence: high
+discipline: [cs education, engineering education]
 ---
 
 > **Synthesis:** Panisson et al. (2026) present the organizational framework of the Academic League of Artificial Intelligence (LIA) at the Federal University of Santa Catarina (UFSC), a student-centered, project-based structure that integrates [[teacher-role|teaching]], research, and university extension. The framework combines democratic governance, [[collaborative-learning]], and dynamic project organization to develop both technical and transversal competencies. Representative initiatives include competition teams, study groups, open lectures, knowledge repositories, and AI-powered applications with social impact. The paper argues this is a flexible, replicable model for embedding [[ai-education]] and [[ai-literacy]] into engineering and computing education through extracurricular, community-connected structures rather than formal coursework alone.

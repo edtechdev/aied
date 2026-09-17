@@ -10,6 +10,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100614.md']
 confidence: high
+category: [framework, equity]
 ---
 
 > **Synthesis:** Mazen Abdulwahab Asag & Md Abdullah Al Mamun (2026) investigated [[engineering-education|engineering]] students' adoption of [[generative-ai|generative AI]] by integrating the [[technology-acceptance-model|Technology Acceptance Model (TAM)]] with the Unified Theory of Acceptance and Use of Technology (UTAUT) to develop a unified socio-cognitive framework.

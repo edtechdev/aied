@@ -10,6 +10,7 @@ level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/2608.03973.md']
 confidence: high
+discipline: [business education]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

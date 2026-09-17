@@ -10,6 +10,7 @@ level: [higher ed]
 category: [instructional design, curriculum design]
 sources: ['raw/papers/2608.07364.md']
 confidence: high
+audience: [instructional designers, instructors, faculty development]
 ---
 
 > **Synthesis:** This paper presents a six-phase AI-assisted instructional design architecture based on the Curriculum as Code paradigm, integrating Generative AI with LaTeX and Python to automate the creation of reproducible, visually consistent, and technically precise materials for [[stem-education|STEM education]]. Validated over one year across 8 modules and 28 project contexts in a Project-Based Learning environment, the architecture significantly reduced instructor workload. Materials achieved high quality ratings from 8.5 to 9.9/10 based on over 600 voluntary student evaluations, suggesting viability for broad STEM educational applications.
