@@ -4,6 +4,10 @@ created: "2026-05-11T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [agentic-ai, benchmark, intelligent-tutoring, student-engagement, learning-analytics, llm, scaffolding, metacognition]
+foundations: [agentic-ai]
+pedagogy: [metacognition, scaffolding, student-engagement]
+technology: [intelligent-tutoring, learning-analytics, llm]
+assessment: [benchmark]
 research_method: [secondary analysis, mixed methods]
 category: [engagement]
 sources: ['raw/papers/2602.14477.md']

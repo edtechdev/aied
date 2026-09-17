@@ -4,6 +4,8 @@ created: "2026-09-02T09:45:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ['conversational-ai', 'pedagogical-agent', 'human-ai-collaboration', 'k-12', 'generative-ai']
+foundations: [human-ai-collaboration]
+technology: [conversational-ai, generative-ai, pedagogical-agent]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [mixed methods, quantitative, qualitative]
 audience: [instructors, learning designers, researchers]

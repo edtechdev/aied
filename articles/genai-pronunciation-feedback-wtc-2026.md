@@ -4,6 +4,10 @@ created: "2026-08-13T05:14:23-04:00"
 updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [language-learning, generative-ai, ai-feedback-quality, self-regulated-learning, motivation, teacher-role, feedback, personalized-learning]
+foundations: [teacher-role]
+pedagogy: [motivation, self-regulated-learning]
+technology: [generative-ai, personalized-learning]
+assessment: [ai-feedback-quality, feedback]
 research_method: [survey]
 discipline: [language learning]
 audience: [instructors]

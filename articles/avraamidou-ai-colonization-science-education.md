@@ -4,6 +4,9 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [critical-pedagogy, science-education, equity-in-ai-education, ethics, ai-education]
+foundations: [ai-education]
+pedagogy: [critical-pedagogy]
+ethics: [equity-in-ai-education, ethics]
 research_method: [theoretical analysis]
 discipline: [science education]
 sources: ['raw/papers/avraamidou-ai-colonization-science-education.md']

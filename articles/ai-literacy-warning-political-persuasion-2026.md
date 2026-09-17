@@ -4,6 +4,10 @@ created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-literacy, critical-thinking, trust-calibration, conversational-ai, llm, generative-ai, rct, meta-analysis-systematic-review]
+foundations: [ai-literacy, critical-thinking]
+technology: [conversational-ai, generative-ai, llm]
+assessment: [meta-analysis-systematic-review, rct]
+ethics: [trust-calibration]
 sources: ['raw/papers/ai-literacy-warning-political-persuasion-2026.md']
 confidence: high
 research_method: [experiment, randomized controlled trial, quantitative]

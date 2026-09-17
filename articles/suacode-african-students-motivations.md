@@ -4,6 +4,9 @@ created: "2026-07-28T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [cs-education, equity-in-ai-education, online-teaching-and-learning, global-south, ai-literacy, ai-education]
+foundations: [ai-education, ai-literacy]
+pedagogy: [online-teaching-and-learning]
+ethics: [equity-in-ai-education, global-south]
 audience: [learners]
 research_method: [survey, mixed methods]
 discipline: [cs education]

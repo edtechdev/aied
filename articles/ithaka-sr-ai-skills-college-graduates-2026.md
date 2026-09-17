@@ -4,6 +4,9 @@ created: "2026-08-19T08:30:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-literacy, curriculum-design, higher-ed, adult-learning, generative-ai, professional-training, teacher-education]
+foundations: [ai-literacy, curriculum-design]
+technology: [generative-ai]
+stakeholders: [professional-training]
 audience: [instructors, administrators]
 research_method: [survey]
 level: [higher ed]

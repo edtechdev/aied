@@ -4,6 +4,9 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [self-regulated-learning, feedback, generative-ai, ai-feedback-quality, online-teaching-and-learning, higher-ed, student-ai-interaction, metacognition]
+pedagogy: [metacognition, online-teaching-and-learning, self-regulated-learning, student-ai-interaction]
+technology: [generative-ai]
+assessment: [ai-feedback-quality, feedback]
 research_method: [mixed methods]
 level: [higher ed]
 sources: ['raw/papers/yilmaz-genai-feedback-srl-online-higher-ed-2026.md']

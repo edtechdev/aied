@@ -2,6 +2,9 @@
 title: "Student-AI Interaction in Computer-Assisted Consecutive Interpreting: Patterns and Performance"
 type: article
 tags: [language-learning, cognitive-offloading, student-engagement, metacognition, higher-ed, intelligent-tutoring]
+foundations: [cognitive-offloading]
+pedagogy: [metacognition, student-engagement]
+technology: [intelligent-tutoring]
 sources: ['raw/papers/student-ai-interaction-consecutive-interpreting-2026.md']
 confidence: high
 research_method: [experiment, quantitative]

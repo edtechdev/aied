@@ -4,6 +4,10 @@ created: "2026-09-05T01:20:00-04:00"
 updated: "2026-09-17T07:48:05-04:00"
 type: article
 tags: [agentic-ai, assessment-validity, academic-integrity, ai-detection, authentic-assessment, generative-ai, governance, higher-ed, remote-proctoring, assessment, educational-policy-ai]
+foundations: [academic-integrity, agentic-ai]
+technology: [generative-ai]
+assessment: [ai-detection, assessment, assessment-validity, authentic-assessment, remote-proctoring]
+stakeholders: [educational-policy-ai, governance]
 research_method: [theoretical analysis, case study]
 audience: [instructors, assessment professionals, administrators]
 level: [higher ed]

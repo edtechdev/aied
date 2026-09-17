@@ -4,6 +4,10 @@ created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [academic-integrity, ethics, ai-literacy, higher-ed, ai-education, critical-thinking, privacy, generative-ai, governance]
+foundations: [academic-integrity, ai-education, ai-literacy, critical-thinking]
+technology: [generative-ai]
+stakeholders: [governance]
+ethics: [ethics, privacy]
 audience: [learners, instructors, administrators]
 research_method: [survey, structural equation modeling, educational measurement]
 sources: ['raw/papers/10.3389_feduc.2026.1942426.md']

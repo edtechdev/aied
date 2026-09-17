@@ -4,6 +4,8 @@ created: "2026-08-25T07:46:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-anxiety-and-stress, adult-learning, social-emotional-learning, higher-ed, technology-acceptance-model]
+pedagogy: [social-emotional-learning]
+stakeholders: [ai-anxiety-and-stress, technology-acceptance-model]
 connected_faqs: [ai-anxiety-wellbeing]
 research_method: [survey]
 level: [higher ed]

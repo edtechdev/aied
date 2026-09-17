@@ -5,6 +5,9 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/language-teachers-ai-literacy-edai-2026.md"]
 tags: ["ai-literacy", "language-learning", "teacher-education", "educational-measurement", "teacher-ai-competency"]
+foundations: [ai-literacy]
+assessment: [educational-measurement]
+stakeholders: [teacher-ai-competency]
 confidence: medium
 research_method: [instrument development, educational measurement, quantitative]
 discipline: [english education, language learning]

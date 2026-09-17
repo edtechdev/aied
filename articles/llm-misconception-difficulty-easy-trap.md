@@ -4,6 +4,10 @@ created: "2026-07-30T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [llm, formative-assessment, adaptive-learning, feedback, student-experience, stem-education, higher-ed, personalized-learning, ai-literacy, teacher-role]
+foundations: [ai-literacy, teacher-role]
+technology: [adaptive-learning, llm, personalized-learning]
+assessment: [feedback, formative-assessment]
+stakeholders: [student-experience]
 research_method: [benchmark]
 discipline: [stem education]
 audience: [learners, instructors, software developers]

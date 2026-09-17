@@ -4,6 +4,10 @@ created: "2026-08-07T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [cognitive-offloading, ai-literacy, equity-in-ai-education, metacognition, teacher-role, k-12, higher-ed, rag]
+foundations: [ai-literacy, cognitive-offloading, teacher-role]
+pedagogy: [metacognition]
+technology: [rag]
+ethics: [equity-in-ai-education]
 connected_faqs: [reducing-over-reliance]
 research_method: [theoretical analysis, literature review]
 audience: [instructors]

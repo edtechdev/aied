@@ -4,6 +4,9 @@ created: "2026-07-24T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-detection, academic-integrity, llm, higher-ed]
+foundations: [academic-integrity]
+technology: [llm]
+assessment: [ai-detection]
 audience: [software developers]
 research_method: [benchmark]
 level: [higher ed]

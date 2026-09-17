@@ -5,6 +5,9 @@ updated: "2026-09-14T06:35:00-04:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 tags: [cognitive-psychology, learning-theories, collaborative-learning, active-learning, learning-analytics, learning-design, educational-nlp]
+foundations: [learning-design]
+pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learning-theories]
+technology: [educational-nlp, learning-analytics]
 category: [instructional design]
 confidence: high
 ---

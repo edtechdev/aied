@@ -4,6 +4,9 @@ created: "2026-08-25T09:52:34-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [science-education, teacher-education, technology-acceptance-model, ai-literacy, higher-ed, global-south]
+foundations: [ai-literacy]
+stakeholders: [technology-acceptance-model]
+ethics: [global-south]
 audience: [instructors, faculty development]
 research_method: [survey]
 discipline: [science education]

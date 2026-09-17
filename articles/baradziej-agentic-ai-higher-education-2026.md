@@ -4,6 +4,11 @@ created: "2026-09-04T14:13:20-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: ['agentic-ai', 'higher-ed', 'meta-analysis-systematic-review', 'intelligent-tutoring', 'generative-ai', 'ai-literacy', 'ethics', 'governance', 'assessment', 'academic-integrity', 'educational-development']
+foundations: [academic-integrity, agentic-ai, ai-literacy, educational-development]
+technology: [generative-ai, intelligent-tutoring]
+assessment: [assessment, meta-analysis-systematic-review]
+stakeholders: [governance]
+ethics: [ethics]
 research_method: [systematic review]
 audience: [instructors, administrators, researchers, instructional designers]
 level: [higher ed]

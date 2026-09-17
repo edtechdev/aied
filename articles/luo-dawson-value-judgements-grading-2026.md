@@ -4,6 +4,10 @@ created: "2026-09-03T12:45:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: ['assessment', 'assessment-validity', 'academic-integrity', 'teacher-role', 'higher-ed', 'generative-ai', 'trust']
+foundations: [academic-integrity, teacher-role]
+technology: [generative-ai]
+assessment: [assessment, assessment-validity]
+ethics: [trust]
 research_method: [qualitative, interviews]
 audience: [instructors, faculty development, researchers]
 level: [higher ed]

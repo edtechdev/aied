@@ -4,6 +4,10 @@ created: "2026-09-02T10:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [collaborative-learning, distributed-cognition, human-ai-collaboration, conversational-ai, higher-ed, generative-ai, student-experience]
+foundations: [human-ai-collaboration]
+pedagogy: [collaborative-learning, distributed-cognition]
+technology: [conversational-ai, generative-ai]
+stakeholders: [student-experience]
 connected_faqs: [group-work-ai]
 research_method: [qualitative]
 audience: [instructors, learning designers, researchers]

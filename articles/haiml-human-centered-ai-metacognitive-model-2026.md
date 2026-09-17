@@ -4,6 +4,10 @@ created: "2026-08-12T12:37:38-04:00"
 updated: "2026-08-24T14:00:00-04:00"
 type: article
 tags: [metacognition, self-regulated-learning, human-in-the-loop-ai, ai-literacy, cognitive-offloading, ethics, student-ai-interaction]
+foundations: [ai-literacy, cognitive-offloading]
+pedagogy: [metacognition, self-regulated-learning, student-ai-interaction]
+technology: [human-in-the-loop-ai]
+ethics: [ethics]
 audience: [instructors, learners]
 research_method: [theoretical analysis]
 

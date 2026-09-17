@@ -4,6 +4,9 @@ created: "2026-08-09T20:37:26-04:00"
 updated: "2026-08-22T01:30:41-04:00"
 type: article
 tags: [cognitive-offloading, ai-literacy, higher-ed, student-experience, learning-analytics, generative-ai, llm]
+foundations: [ai-literacy, cognitive-offloading]
+technology: [generative-ai, learning-analytics, llm]
+stakeholders: [student-experience]
 research_method: [longitudinal study, qualitative, learning analytics]
 audience: [learners]
 level: [higher ed]

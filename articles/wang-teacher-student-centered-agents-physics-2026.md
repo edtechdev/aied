@@ -4,6 +4,8 @@ created: "2026-09-11T00:40:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [physics-education, pedagogical-agent, prompt-engineering, generative-ai, llm, intelligent-tutoring, motivation, student-engagement, affective-computing, student-ai-interaction]
+pedagogy: [motivation, student-ai-interaction, student-engagement]
+technology: [affective-computing, generative-ai, intelligent-tutoring, llm, pedagogical-agent, prompt-engineering]
 research_method: [experiment, quantitative]
 discipline: [physics education]
 audience: [learners, instructors, researchers]

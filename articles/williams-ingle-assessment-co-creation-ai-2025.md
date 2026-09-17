@@ -4,6 +4,9 @@ created: "2026-08-31T09:45:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [pedagogical-partnerships, generative-ai, assessment, formative-assessment, medical-education, higher-ed, self-regulated-learning, student-engagement]
+pedagogy: [pedagogical-partnerships, self-regulated-learning, student-engagement]
+technology: [generative-ai]
+assessment: [assessment, formative-assessment]
 sources: ['raw/papers/williams-ingle-assessment-co-creation-ai-2025.md']
 confidence: high
 research_method: [case study, qualitative, thematic analysis]

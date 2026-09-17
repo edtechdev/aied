@@ -4,6 +4,9 @@ created: "2026-07-02T04:33:04-04:00"
 updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [llm, formative-assessment, stem-education, scaffolding, higher-ed, generative-ai, rag]
+pedagogy: [scaffolding]
+technology: [generative-ai, llm, rag]
+assessment: [formative-assessment]
 research_method: [benchmark]
 discipline: [stem education]
 level: [higher ed]

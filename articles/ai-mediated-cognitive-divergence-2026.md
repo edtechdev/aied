@@ -4,6 +4,8 @@ created: "2026-08-23T15:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, llm, higher-ed, ai-education, cognitive-offloading, critical-thinking]
+foundations: [ai-education, cognitive-offloading, critical-thinking]
+technology: [generative-ai, llm]
 research_method: [mixed methods]
 level: [higher ed]
 sources: ['raw/papers/ai-mediated-cognitive-divergence-2026.md']

@@ -4,6 +4,9 @@ created: "2026-08-16T10:19:32-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [educational-nlp, learning-analytics, bias-mitigation, equity-in-ai-education, ai-ed-evaluation, llm]
+technology: [educational-nlp, learning-analytics, llm]
+assessment: [ai-ed-evaluation]
+ethics: [bias-mitigation, equity-in-ai-education]
 audience: [software developers]
 research_method: [system development, benchmark]
 category: [evaluation]

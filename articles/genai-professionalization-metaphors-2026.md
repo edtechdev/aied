@@ -4,6 +4,9 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 tags: ["generative-ai", "learner-identity", "student-experience", "higher-ed", "professional-training", "career-development-and-readiness"]
+foundations: [learner-identity]
+technology: [generative-ai]
+stakeholders: [career-development-and-readiness, professional-training, student-experience]
 research_method: [qualitative, mixed methods]
 audience: [researchers, educators]
 level: [higher ed]

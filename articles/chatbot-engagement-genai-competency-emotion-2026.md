@@ -4,6 +4,9 @@ created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-01T09:45:00-04:00"
 type: article
 tags: ["student-engagement", "generative-ai", "conversational-ai", "self-efficacy", "student-experience", "motivation"]
+pedagogy: [motivation, self-efficacy, student-engagement]
+technology: [conversational-ai, generative-ai]
+stakeholders: [student-experience]
 research_method: [survey, structural equation modeling]
 audience: [researchers, learning designers]
 level: [higher ed]

@@ -4,6 +4,8 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-literacy, cognitive-offloading, generative-ai, higher-ed, prompt-engineering]
+foundations: [ai-literacy, cognitive-offloading]
+technology: [generative-ai, prompt-engineering]
 audience: [learners, instructors]
 research_method: [mixed methods]
 level: [higher ed]

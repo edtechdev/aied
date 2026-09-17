@@ -4,6 +4,8 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
+pedagogy: [scaffolding]
+technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 ---
 

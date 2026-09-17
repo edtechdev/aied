@@ -4,6 +4,10 @@ created: "2026-08-25T14:00:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, ai-literacy, self-efficacy, cognitive-offloading, student-experience]
+foundations: [academic-integrity, ai-literacy, cognitive-offloading]
+pedagogy: [self-efficacy]
+technology: [generative-ai]
+stakeholders: [student-experience]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]

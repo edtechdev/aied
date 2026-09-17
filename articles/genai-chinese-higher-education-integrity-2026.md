@@ -4,6 +4,9 @@ created: "2026-08-16T10:19:32-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, critical-thinking, academic-integrity, agency, philosophy-of-ai-in-education, student-experience]
+foundations: [academic-integrity, agency, critical-thinking, philosophy-of-ai-in-education]
+technology: [generative-ai]
+stakeholders: [student-experience]
 research_method: [qualitative, interviews]
 audience: [learners]
 level: [higher ed]

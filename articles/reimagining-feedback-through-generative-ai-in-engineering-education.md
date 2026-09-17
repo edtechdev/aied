@@ -4,6 +4,10 @@ created: "2026-08-10T17:08:30-04:00"
 updated: "2026-08-13"
 type: article
 tags: [generative-ai, formative-assessment, ai-feedback-quality, higher-ed, curriculum-design, self-regulated-learning, automated-essay-scoring]
+foundations: [curriculum-design]
+pedagogy: [self-regulated-learning]
+technology: [generative-ai]
+assessment: [ai-feedback-quality, automated-essay-scoring, formative-assessment]
 research_method: [experiment]
 level: [higher ed]
 category: [curriculum design]

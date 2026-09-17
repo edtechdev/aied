@@ -4,6 +4,8 @@ created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ['generative-ai', 'automated-assessment', 'medical-education', 'assessment', 'llm']
+technology: [generative-ai, llm]
+assessment: [assessment, automated-assessment]
 sources:
   - raw/papers/olvet-genai-scoring-open-ended-medical-2026.md
 confidence: high

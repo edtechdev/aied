@@ -4,6 +4,10 @@ created: "2026-09-09T09:05:09-04:00"
 updated: "2026-09-09T09:05:09-04:00"
 type: article
 tags: [generative-ai, ethics, agency, critical-pedagogy, learning-theories, well-being, philosophy-of-ai-in-education, cognitive-offloading]
+foundations: [agency, cognitive-offloading, philosophy-of-ai-in-education]
+pedagogy: [critical-pedagogy, learning-theories, well-being]
+technology: [generative-ai]
+ethics: [ethics]
 sources: ['raw/papers/2609.07715.md']
 confidence: high
 research_method: [position paper]

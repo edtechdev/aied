@@ -4,6 +4,9 @@ created: "2026-06-24T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, llm, ai-literacy, personalized-learning]
+foundations: [ai-literacy]
+technology: [generative-ai, llm, personalized-learning]
+stakeholders: [student-experience]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]

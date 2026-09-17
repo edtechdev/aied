@@ -4,6 +4,9 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
 tags: [learning-analytics, llm, ai-ed-evaluation, benchmark, trust]
+technology: [learning-analytics, llm]
+assessment: [ai-ed-evaluation, benchmark]
+ethics: [trust]
 audience: [software developers]
 research_method: [benchmark]
 category: [evaluation]

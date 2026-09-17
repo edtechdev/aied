@@ -4,6 +4,10 @@ created: "2026-09-16T14:29:36-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [creativity, design-thinking, project-based-learning, multimodal, authentic-assessment, embodied-learning, higher-ed]
+foundations: [design-thinking]
+pedagogy: [creativity, embodied-learning, project-based-learning]
+technology: [multimodal]
+assessment: [authentic-assessment]
 confidence: medium
 audience: [instructors, students, designers, curriculum designers]
 level: [higher ed]

@@ -4,6 +4,9 @@ created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-24T11:30:00-04:00"
 type: article
 tags: [intelligent-tutoring, physics-education, socratic-method, llm, higher-ed, ai-education]
+foundations: [ai-education]
+pedagogy: [socratic-method]
+technology: [intelligent-tutoring, llm]
 research_method: [learning analytics, qualitative]
 discipline: [physics education]
 level: [higher ed]

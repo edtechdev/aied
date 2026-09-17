@@ -4,6 +4,9 @@ created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [learning-design, stem-education, generative-ai, curriculum-design, higher-ed, project-based-learning, ai-education]
+foundations: [ai-education, curriculum-design, learning-design]
+pedagogy: [project-based-learning]
+technology: [generative-ai]
 research_method: [system development]
 discipline: [stem education]
 level: [higher ed]

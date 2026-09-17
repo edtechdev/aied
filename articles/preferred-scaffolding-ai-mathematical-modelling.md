@@ -4,6 +4,8 @@ created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [scaffolding, math-education, generative-ai, pedagogical-agent, student-engagement]
+pedagogy: [scaffolding, student-engagement]
+technology: [generative-ai, pedagogical-agent]
 research_method: [experiment]
 discipline: [math education]
 sources: ['raw/papers/preferred-scaffolding-ai-mathematical-modelling.md']

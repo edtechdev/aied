@@ -4,6 +4,9 @@ created: "2026-08-20T08:10:00-04:00"
 updated: "2026-08-21T13:21:45-04:00"
 type: article
 tags: [ai-education, business-education, meta-analysis-systematic-review, generative-ai, curriculum-design, higher-ed]
+foundations: [ai-education, curriculum-design]
+technology: [generative-ai]
+assessment: [meta-analysis-systematic-review]
 research_method: [systematic review]
 discipline: [business education]
 level: [higher ed]

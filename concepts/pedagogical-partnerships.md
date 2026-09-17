@@ -4,6 +4,9 @@ created: "2026-08-31T09:45:00-04:00"
 updated: "2026-08-31T10:15:48-04:00"
 type: concept
 tags: [pedagogical-partnerships, pedagogy, agency, collaborative-learning, curriculum-design, assessment, learning-design, teacher-role, student-engagement, higher-ed]
+foundations: [agency, curriculum-design, learning-design, teacher-role]
+pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
+assessment: [assessment]
 audience: [instructors, learners, learning designers, administrators]
 level: [higher ed, k 12]
 confidence: high

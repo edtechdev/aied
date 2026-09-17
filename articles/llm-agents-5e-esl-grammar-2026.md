@@ -5,6 +5,9 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/llm-agents-5e-esl-grammar-2026.md"]
 tags: ['llm', 'language-learning', 'inquiry-based-learning', 'agentic-ai']
+foundations: [agentic-ai]
+pedagogy: [inquiry-based-learning]
+technology: [llm]
 confidence: medium
 research_method: [experiment, mixed methods]
 discipline: [language learning, english education]

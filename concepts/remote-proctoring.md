@@ -4,6 +4,10 @@ created: "2026-08-20T04:50:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 type: concept
 tags: [remote-proctoring, academic-integrity, summative-assessment, online-teaching-and-learning, privacy, equity-in-ai-education, higher-ed]
+foundations: [academic-integrity]
+pedagogy: [online-teaching-and-learning]
+assessment: [remote-proctoring, summative-assessment]
+ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 ---

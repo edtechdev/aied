@@ -4,6 +4,9 @@ created: "2026-06-30T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, higher-ed, cognitive-offloading, student-experience, writing-education, llm]
+foundations: [ai-literacy, cognitive-offloading]
+technology: [llm]
+stakeholders: [student-experience]
 research_method: [mixed methods]
 discipline: [writing education]
 audience: [learners]

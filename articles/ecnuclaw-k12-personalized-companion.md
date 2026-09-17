@@ -4,6 +4,9 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [k-12, personalized-learning, intelligent-tutoring, llm, student-experience, self-regulated-learning, affective-tutoring, regulation]
+pedagogy: [self-regulated-learning]
+technology: [affective-tutoring, intelligent-tutoring, llm, personalized-learning]
+stakeholders: [regulation, student-experience]
 research_method: [system development]
 audience: [learners]
 level: [k 12]

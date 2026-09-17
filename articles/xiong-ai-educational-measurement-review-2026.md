@@ -4,6 +4,8 @@ created: "2026-08-24T12:32:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [educational-measurement, ai-ed-evaluation, assessment, meta-analysis-systematic-review, generative-ai]
+technology: [generative-ai]
+assessment: [ai-ed-evaluation, assessment, educational-measurement, meta-analysis-systematic-review]
 research_method: [literature review, thematic analysis]
 category: [evaluation, assessment]
 sources: ['raw/papers/xiong-ai-educational-measurement-review-2026.md']

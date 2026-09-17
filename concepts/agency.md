@@ -4,6 +4,10 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
+foundations: [agency, cognitive-offloading, human-ai-collaboration]
+pedagogy: [motivation, self-regulated-learning]
+stakeholders: [student-experience]
+ethics: [ethics]
 connected_faqs: [group-work-ai]
 audience: [learners]
 

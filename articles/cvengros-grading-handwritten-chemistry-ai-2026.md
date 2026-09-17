@@ -4,6 +4,9 @@ created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [automated-assessment, chemistry-education, llm, multimodal, summative-assessment, human-in-the-loop-ai, item-response-theory, educational-measurement, trust]
+technology: [human-in-the-loop-ai, llm, multimodal]
+assessment: [automated-assessment, educational-measurement, item-response-theory, summative-assessment]
+ethics: [trust]
 sources: ['raw/papers/cvengros-grading-handwritten-chemistry-ai-2026.md']
 confidence: high
 research_method: [educational measurement, case study]

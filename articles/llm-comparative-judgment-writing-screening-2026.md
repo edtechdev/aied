@@ -4,6 +4,9 @@ created: "2026-09-03T09:00:00-04:00"
 updated: "2026-09-03T09:00:00-04:00"
 type: article
 tags: [automated-assessment, writing-education, llm, k-12, assessment-validity, equity-in-ai-education, multilingual-learning, assessment]
+technology: [llm]
+assessment: [assessment, assessment-validity, automated-assessment]
+ethics: [equity-in-ai-education, multilingual-learning]
 sources: ['raw/papers/llm-comparative-judgment-writing-screening-2026.md']
 confidence: high
 research_method: [educational measurement, benchmark]

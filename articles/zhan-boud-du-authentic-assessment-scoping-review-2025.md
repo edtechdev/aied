@@ -4,6 +4,10 @@ created: "2026-05-07T19:55:03-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning, pedagogical-llm-training, human-in-the-loop-ai, sociocultural-learning]
+foundations: [ai-education]
+pedagogy: [metacognition, self-regulated-learning, sociocultural-learning]
+technology: [human-in-the-loop-ai, pedagogical-llm-training]
+assessment: [ai-ed-evaluation, assessment, formative-assessment]
 research_method: [theoretical analysis, systematic review]
 level: [higher ed]
 category: [evaluation, assessment]

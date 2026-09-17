@@ -4,6 +4,9 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [cs-education, llm, active-learning, assessment, higher-ed, automated-assessment, scaffolding]
+pedagogy: [active-learning, scaffolding]
+technology: [llm]
+assessment: [assessment, automated-assessment]
 research_method: [case study, mixed methods]
 discipline: [cs education]
 level: [higher ed]

@@ -4,6 +4,10 @@ created: "2026-09-09T09:05:09-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [creativity, pedagogical-agent, sociocultural-learning, generative-ai, agency, collaborative-learning, design-based-research]
+foundations: [agency]
+pedagogy: [collaborative-learning, creativity, sociocultural-learning]
+technology: [generative-ai, pedagogical-agent]
+assessment: [design-based-research]
 sources: ['raw/papers/trikonet-trivalence-co-creativity-2026.md']
 confidence: high
 research_method: [design-based research]

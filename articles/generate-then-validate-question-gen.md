@@ -4,6 +4,8 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [automated-question-generation, llm, automated-assessment, stem-education, generative-ai]
+technology: [generative-ai, llm]
+assessment: [automated-assessment, automated-question-generation]
 audience: [software developers]
 research_method: [system development, benchmark]
 discipline: [stem education]

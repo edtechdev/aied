@@ -4,6 +4,9 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
 tags: [educational-robotics, generative-ai, higher-ed, intelligent-tutoring, design-thinking, ethics, privacy]
+foundations: [design-thinking]
+technology: [educational-robotics, generative-ai, intelligent-tutoring]
+ethics: [ethics, privacy]
 research_method: [qualitative, interviews]
 level: [higher ed]
 category: [instructional design]

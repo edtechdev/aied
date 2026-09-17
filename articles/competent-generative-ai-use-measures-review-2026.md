@@ -4,6 +4,11 @@ created: "2026-09-15T10:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, self-report-measures, meta-analysis-systematic-review, educational-measurement, trust-calibration, cognitive-offloading, assessment-validity, human-in-the-loop-ai, professional-training]
+foundations: [ai-literacy, cognitive-offloading]
+technology: [human-in-the-loop-ai]
+assessment: [assessment-validity, educational-measurement, meta-analysis-systematic-review, self-report-measures]
+stakeholders: [professional-training]
+ethics: [trust-calibration]
 sources: ['raw/papers/competent-generative-ai-use-measures-review-2026.md']
 confidence: high
 research_method: [systematic review, meta-analysis, educational measurement]

@@ -4,6 +4,9 @@ created: "2026-08-26T09:00:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [llm, higher-ed, student-experience, ethics, generative-ai, cs-education]
+technology: [generative-ai, llm]
+stakeholders: [student-experience]
+ethics: [ethics]
 research_method: [system development, survey]
 discipline: [cs education]
 audience: [learners]

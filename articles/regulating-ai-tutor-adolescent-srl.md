@@ -4,6 +4,9 @@ created: "2026-06-09T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [llm, k-12, self-regulated-learning, metacognition, student-experience, scaffolding, help-seeking]
+pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
+technology: [llm]
+stakeholders: [student-experience]
 research_method: [experiment, survey]
 audience: [learners]
 level: [k 12]

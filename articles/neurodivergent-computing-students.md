@@ -4,6 +4,10 @@ created: "2026-05-25T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [student-experience, cs-education, special-education, equity-in-ai-education, collaborative-learning, scaffolding, ai-education]
+foundations: [ai-education]
+pedagogy: [collaborative-learning, scaffolding]
+stakeholders: [student-experience]
+ethics: [equity-in-ai-education]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [mixed methods]
 discipline: [cs education]

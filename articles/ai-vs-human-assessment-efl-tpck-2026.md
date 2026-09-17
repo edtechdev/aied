@@ -4,6 +4,9 @@ created: "2026-08-16T10:19:32-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [automated-assessment, language-learning, tpack, ai-feedback-quality, human-ai-collaboration, assessment]
+foundations: [human-ai-collaboration]
+assessment: [ai-feedback-quality, assessment, automated-assessment]
+stakeholders: [tpack]
 research_method: [mixed methods]
 discipline: [language learning]
 category: [assessment]

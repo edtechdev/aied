@@ -4,6 +4,10 @@ created: "2026-06-16T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [personalized-learning, scaffolding, k-12, higher-ed, hallucination-risk, equity-in-ai-education, learning-analytics, student-experience, llm]
+pedagogy: [scaffolding]
+technology: [learning-analytics, llm, personalized-learning]
+stakeholders: [student-experience]
+ethics: [equity-in-ai-education, hallucination-risk]
 research_method: [theoretical analysis]
 audience: [learners]
 level: [k 12, higher ed]

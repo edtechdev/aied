@@ -4,6 +4,10 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
 tags: [educational-robotics, llm, storytelling-in-education, inclusive-learning, teacher-role]
+foundations: [teacher-role]
+pedagogy: [storytelling-in-education]
+technology: [educational-robotics, llm]
+ethics: [inclusive-learning]
 research_method: [system development]
 audience: [instructors]
 sources: ['raw/papers/tozadore-robobuddy-llm-social-robots-2025.md']

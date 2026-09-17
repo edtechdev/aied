@@ -4,6 +4,11 @@ created: "2026-09-08T01:59:05-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-detection, academic-integrity, equity-in-ai-education, language-learning, writing-education, assessment, generative-ai, llm, higher-ed, educational-policy-ai]
+foundations: [academic-integrity]
+technology: [generative-ai, llm]
+assessment: [ai-detection, assessment]
+stakeholders: [educational-policy-ai]
+ethics: [equity-in-ai-education]
 sources: ['raw/papers/2608.11256.md']
 research_method: [experiment, quantitative]
 discipline: [cs education]

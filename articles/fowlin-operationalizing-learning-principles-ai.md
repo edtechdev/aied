@@ -4,6 +4,9 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [teacher-role, experiential-learning, situated-learning, distributed-cognition, adaptive-learning, higher-ed, medical-education, learning-design]
+foundations: [learning-design, teacher-role]
+pedagogy: [distributed-cognition, experiential-learning, situated-learning]
+technology: [adaptive-learning]
 research_method: [theoretical analysis]
 discipline: [medical education]
 audience: [instructors]

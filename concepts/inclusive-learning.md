@@ -4,6 +4,8 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [inclusive-learning, equity-in-ai-education, special-education, learning-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
+foundations: [ai-education, learning-design]
+ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 category: [instructional design]

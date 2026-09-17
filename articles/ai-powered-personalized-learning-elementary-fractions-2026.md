@@ -4,6 +4,8 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-25T13:45:00-04:00"
 type: article
 tags: [generative-ai, personalized-learning, k-12, math-education, adaptive-learning, student-experience]
+technology: [adaptive-learning, generative-ai, personalized-learning]
+stakeholders: [student-experience]
 research_method: [mixed methods, experiment]
 discipline: [math education]
 audience: [learners]

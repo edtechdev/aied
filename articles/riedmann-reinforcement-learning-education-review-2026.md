@@ -4,6 +4,8 @@ created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ['reinforcement-learning', 'machine-learning', 'adaptive-learning', 'intelligent-tutoring', 'personalized-learning', 'meta-analysis-systematic-review']
+technology: [adaptive-learning, intelligent-tutoring, machine-learning, personalized-learning, reinforcement-learning]
+assessment: [meta-analysis-systematic-review]
 sources:
   - raw/papers/riedmann-reinforcement-learning-education-review-2026.md
 confidence: high

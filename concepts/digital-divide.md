@@ -5,6 +5,8 @@ updated: "2026-09-17T09:40:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 tags: [equity-in-ai-education, ai-literacy, accessibility, ai-education]
+foundations: [ai-education, ai-literacy]
+ethics: [accessibility, equity-in-ai-education]
 confidence: high
 ---
 

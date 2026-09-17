@@ -4,6 +4,9 @@ created: "2026-08-25T07:46:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-anxiety-and-stress, adult-learning, self-efficacy, higher-ed, ai-literacy, social-emotional-learning]
+foundations: [ai-literacy]
+pedagogy: [self-efficacy, social-emotional-learning]
+stakeholders: [ai-anxiety-and-stress]
 connected_faqs: [ai-anxiety-wellbeing]
 audience: [learners]
 research_method: [survey]

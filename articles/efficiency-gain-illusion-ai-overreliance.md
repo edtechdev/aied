@@ -4,6 +4,9 @@ created: "2026-05-23T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, cognitive-offloading, ai-literacy, student-experience, rag, ai-education]
+foundations: [ai-education, ai-literacy, cognitive-offloading]
+technology: [generative-ai, rag]
+stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 

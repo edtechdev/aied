@@ -4,6 +4,9 @@ created: "2026-09-08T09:07:05-04:00"
 updated: "2026-09-08T09:07:05-04:00"
 type: article
 tags: [cognitive-offloading, generative-ai, metacognition, self-regulated-learning, transfer-of-learning, llm, higher-ed, intelligent-tutoring]
+foundations: [cognitive-offloading]
+pedagogy: [metacognition, self-regulated-learning, transfer-of-learning]
+technology: [generative-ai, intelligent-tutoring, llm]
 research_method: [theoretical analysis]
 audience: [researchers, administrators, instructors]
 level: [higher ed, adult learning]

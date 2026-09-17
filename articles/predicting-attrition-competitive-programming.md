@@ -4,6 +4,9 @@ created: "2026-09-02T09:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [cs-education, learning-analytics, motivation, self-efficacy, student-engagement, personalized-learning, assessment]
+pedagogy: [motivation, self-efficacy, student-engagement]
+technology: [learning-analytics, personalized-learning]
+assessment: [assessment]
 sources: ['raw/papers/predicting-attrition-competitive-programming.md']
 confidence: high
 research_method: [learning analytics, survey, quantitative]

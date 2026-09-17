@@ -14,6 +14,13 @@ tags:
   - privacy
   - design-based-research
   - professional-training
+
+foundations: [teacher-role]
+pedagogy: [collaborative-learning, student-ai-interaction]
+technology: [human-in-the-loop-ai, visualization]
+assessment: [design-based-research]
+stakeholders: [edtech-platform, professional-training]
+ethics: [privacy]
 sources:
   - raw/papers/breideband-community-builder-cobi-2026.md
 confidence: high

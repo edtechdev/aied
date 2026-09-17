@@ -4,6 +4,10 @@ created: "2026-08-25T14:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [assessment, academic-integrity, generative-ai, higher-ed, ai-literacy, cognitive-offloading, student-experience]
+foundations: [academic-integrity, ai-literacy, cognitive-offloading]
+technology: [generative-ai]
+assessment: [assessment]
+stakeholders: [student-experience]
 research_method: [qualitative, interviews]
 audience: [learners]
 level: [higher ed]

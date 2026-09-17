@@ -4,6 +4,9 @@ created: "2026-08-26T10:10:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [refutation-text, misconceptions, cognitive-psychology, science-education, physics-education, generative-ai, metacognition, k-12]
+foundations: [misconceptions]
+pedagogy: [cognitive-psychology, metacognition, refutation-text]
+technology: [generative-ai]
 research_method: [quasi-experiment]
 discipline: [science education, physics education]
 level: [k 12]

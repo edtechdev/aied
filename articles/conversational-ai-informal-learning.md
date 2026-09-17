@@ -4,6 +4,8 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, lifelong-learning, llm, student-experience]
+technology: [generative-ai, llm]
+stakeholders: [lifelong-learning, student-experience]
 research_method: [survey]
 audience: [learners]
 sources: ['raw/papers/caeai-conversational-ai-informal.md']

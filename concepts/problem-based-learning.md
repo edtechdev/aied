@@ -4,6 +4,9 @@ created: "2026-08-20T06:55:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [active-learning, collaborative-learning, scaffolding, generative-ai, critical-thinking, higher-ed, medical-education, engineering-education]
+foundations: [critical-thinking]
+pedagogy: [active-learning, collaborative-learning, scaffolding]
+technology: [generative-ai]
 discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high

@@ -4,6 +4,9 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [educational-development, teacher-role, learning-design, curriculum-design, higher-ed, administrator, pedagogy, ai-literacy]
+foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
+pedagogy: [pedagogy]
+stakeholders: [administrator]
 connected_faqs: [faculty-development-ai]
 research_method: [design-based research]
 audience: [faculty development, instructors, administrators]

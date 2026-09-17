@@ -4,6 +4,8 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [assessment-validity, automated-assessment, bias-mitigation, equity-in-ai-education, multilingual-learning, physics-education, educational-measurement]
+assessment: [assessment-validity, automated-assessment, educational-measurement]
+ethics: [bias-mitigation, equity-in-ai-education, multilingual-learning]
 research_method: [educational measurement]
 discipline: [physics education]
 

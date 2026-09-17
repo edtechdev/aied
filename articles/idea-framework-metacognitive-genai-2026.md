@@ -4,6 +4,9 @@ created: "2026-08-16T10:19:32-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [metacognition, self-regulated-learning, prompt-engineering, generative-ai, higher-ed, agency, ai-literacy]
+foundations: [agency, ai-literacy]
+pedagogy: [metacognition, self-regulated-learning]
+technology: [generative-ai, prompt-engineering]
 audience: [learners, instructors]
 research_method: [quasi-experiment]
 level: [higher ed]

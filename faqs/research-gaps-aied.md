@@ -5,6 +5,9 @@ updated: "2026-09-17T02:26:00-04:00"
 weight: 45
 type: faq
 tags: [ai-ed-evaluation, research-methods-aied, limitations-in-aied-research, learning-gains, equity-in-ai-education, higher-ed]
+foundations: [limitations-in-aied-research]
+assessment: [ai-ed-evaluation, learning-gains, research-methods-aied]
+ethics: [equity-in-ai-education]
 research_method: [research methods, literature review, learning analytics]
 level: [higher ed]
 category: [evaluation]

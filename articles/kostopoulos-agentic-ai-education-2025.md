@@ -4,6 +4,10 @@ created: "2026-09-04T14:03:07-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [agentic-ai, intelligent-tutoring, generative-ai, llm, human-in-the-loop-ai, ethics, governance, higher-ed]
+foundations: [agentic-ai]
+technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, llm]
+stakeholders: [governance]
+ethics: [ethics]
 research_method: [literature review, position paper]
 category: [ai foundations]
 sources: ['raw/papers/kostopoulos-agentic-ai-education-2025.md']

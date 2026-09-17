@@ -4,6 +4,9 @@ created: "2026-09-09T09:05:09-04:00"
 updated: "2026-09-09T09:05:09-04:00"
 type: article
 tags: [cs-education, generative-ai, cognitive-offloading, intelligent-tutoring, misconceptions, scaffolding, self-regulated-learning, higher-ed]
+foundations: [cognitive-offloading, misconceptions]
+pedagogy: [scaffolding, self-regulated-learning]
+technology: [generative-ai, intelligent-tutoring]
 sources: ['raw/papers/genai-cognitive-tutor-programming-2026.md']
 confidence: high
 research_method: [survey, quantitative]

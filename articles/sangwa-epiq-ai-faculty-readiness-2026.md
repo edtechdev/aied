@@ -4,6 +4,9 @@ created: "2026-04-02T08:44:33-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [educational-development, ai-literacy, higher-ed, academic-integrity, teacher-ai-competency, change-management, assessment-validity]
+foundations: [academic-integrity, ai-literacy, educational-development]
+assessment: [assessment-validity]
+stakeholders: [change-management, teacher-ai-competency]
 research_method: [secondary analysis, literature review]
 audience: [faculty development]
 level: [higher ed]

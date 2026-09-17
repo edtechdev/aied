@@ -4,6 +4,9 @@ created: "2026-08-22T04:44:37-04:00"
 updated: "2026-08-22T04:44:37-04:00"
 type: article
 tags: [conversational-ai, intelligent-tutoring, generative-ai, ai-literacy, academic-integrity, ethics, pedagogical-agent, human-ai-collaboration]
+foundations: [academic-integrity, ai-literacy, human-ai-collaboration]
+technology: [conversational-ai, generative-ai, intelligent-tutoring, pedagogical-agent]
+ethics: [ethics]
 audience: [researchers, instructors]
 research_method: [literature review]
 sources: ['raw/papers/conversational-ai-agents-umbrella-review-2026.md']

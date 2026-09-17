@@ -4,6 +4,9 @@ created: "2026-08-11T06:10:03-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, feedback, higher-ed, writing-education, self-regulated-learning, assessment, scaffolding]
+pedagogy: [scaffolding, self-regulated-learning]
+technology: [generative-ai]
+assessment: [assessment, feedback]
 research_method: [qualitative]
 level: [higher ed]
 

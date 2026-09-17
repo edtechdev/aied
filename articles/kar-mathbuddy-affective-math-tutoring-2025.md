@@ -4,6 +4,8 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [math-education, affective-computing, intelligent-tutoring, k-12, pedagogical-llm-training, affective-tutoring, open-source, rag]
+technology: [affective-computing, affective-tutoring, intelligent-tutoring, pedagogical-llm-training, rag]
+stakeholders: [open-source]
 audience: [software developers]
 research_method: [system development, user study]
 discipline: [math education]

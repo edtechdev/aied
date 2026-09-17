@@ -4,6 +4,10 @@ created: "2026-08-12T21:20:35-04:00"
 updated: "2026-09-16T14:32:03-04:00"
 type: concept
 tags: [critical-thinking, student-experience, generative-ai, writing-education, constructivist, design-thinking, problem-solving, math-education, cs-education]
+foundations: [critical-thinking, design-thinking]
+pedagogy: [constructivist, problem-solving]
+technology: [generative-ai]
+stakeholders: [student-experience]
 audience: [learners]
 confidence: high
 ---

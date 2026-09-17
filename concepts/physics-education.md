@@ -4,6 +4,10 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 type: concept
 tags: [physics-education, stem-education, intelligent-tutoring, generative-ai, higher-ed, student-experience, ai-literacy, socratic-method]
+foundations: [ai-literacy]
+pedagogy: [socratic-method]
+technology: [generative-ai, intelligent-tutoring]
+stakeholders: [student-experience]
 discipline: [physics education, stem education]
 audience: [learners, instructors]
 level: [higher ed]

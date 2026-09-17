@@ -4,6 +4,9 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [governance, educational-policy-ai, administrator, higher-ed, ai-education, ethics, change-management]
+foundations: [ai-education]
+stakeholders: [administrator, change-management, educational-policy-ai, governance]
+ethics: [ethics]
 connected_faqs: [institutional-ai-policy]
 research_method: [systematic review]
 audience: [administrators]

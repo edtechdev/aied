@@ -4,6 +4,10 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, stem-education, higher-ed, student-experience, teacher-role, scaffolding, learning-analytics]
+foundations: [teacher-role]
+pedagogy: [scaffolding]
+technology: [learning-analytics, llm]
+stakeholders: [student-experience]
 research_method: [survey, instrument development]
 discipline: [stem education]
 audience: [learners, instructors]

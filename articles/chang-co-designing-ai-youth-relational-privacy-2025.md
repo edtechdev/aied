@@ -4,6 +4,10 @@ created: "2026-08-31T09:45:00-04:00"
 updated: "2026-08-31T09:58:42-04:00"
 type: article
 tags: [pedagogical-partnerships, generative-ai, k-12, collaborative-learning, ethics, privacy, equity-in-ai-education, agency]
+foundations: [agency]
+pedagogy: [collaborative-learning, pedagogical-partnerships]
+technology: [generative-ai]
+ethics: [equity-in-ai-education, ethics, privacy]
 sources: ['raw/papers/chang-co-designing-ai-youth-relational-privacy-2025.md']
 confidence: high
 research_method: [qualitative]

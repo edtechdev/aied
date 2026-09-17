@@ -4,6 +4,10 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, student-experience, hallucination-risk, trust-calibration, llm, help-seeking]
+pedagogy: [help-seeking]
+technology: [intelligent-tutoring, llm]
+stakeholders: [student-experience]
+ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment]
 audience: [learners]
 sources: ['raw/papers/2606.03822.md']

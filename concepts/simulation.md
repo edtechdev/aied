@@ -4,6 +4,8 @@ created: "2026-08-12T21:20:35-04:00"
 updated: "2026-09-13T09:58:46-04:00"
 type: concept
 tags: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, experiential-learning]
+pedagogy: [active-learning, experiential-learning]
+technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 ---
 

@@ -4,6 +4,10 @@ created: "2026-09-02T08:31:22-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [higher-ed, generative-ai, assessment, automated-assessment, personalized-learning, adaptive-learning, meta-analysis-systematic-review, educational-development, equity-in-ai-education, curriculum-design]
+foundations: [curriculum-design, educational-development]
+technology: [adaptive-learning, generative-ai, personalized-learning]
+assessment: [assessment, automated-assessment, meta-analysis-systematic-review]
+ethics: [equity-in-ai-education]
 research_method: [systematic review]
 audience: [learners, instructors, administrators, policymakers, researchers]
 level: [higher ed]

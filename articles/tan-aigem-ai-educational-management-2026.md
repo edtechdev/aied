@@ -4,6 +4,8 @@ created: "2026-09-08T02:39:41-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [educational-policy-ai, governance, administrator, change-management, human-ai-collaboration, ai-literacy, higher-ed, professional-training]
+foundations: [ai-literacy, human-ai-collaboration]
+stakeholders: [administrator, change-management, educational-policy-ai, governance, professional-training]
 connected_faqs: [institutional-ai-policy]
 sources: ['raw/papers/tan-aigem-ai-educational-management-2026.md']
 research_method: [theoretical analysis, policy analysis]

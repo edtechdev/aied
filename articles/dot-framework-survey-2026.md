@@ -4,6 +4,9 @@ created: "2026-05-29T19:01:35-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-education, ai-literacy, design-thinking, higher-ed, human-in-the-loop-ai, change-management, open-source, teacher-role]
+foundations: [ai-education, ai-literacy, design-thinking, teacher-role]
+technology: [human-in-the-loop-ai]
+stakeholders: [change-management, open-source]
 research_method: [survey]
 audience: [instructors]
 level: [higher ed]

@@ -4,6 +4,9 @@ created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [cs-education, misconceptions, cognitive-diagnosis, feedback, automated-assessment, formative-assessment, llm, learning-analytics, visualization, generative-ai]
+foundations: [misconceptions]
+technology: [cognitive-diagnosis, generative-ai, learning-analytics, llm, visualization]
+assessment: [automated-assessment, feedback, formative-assessment]
 sources: ['raw/papers/llm-common-modelling-mistakes-formalisms-2026.md']
 confidence: high
 research_method: [system development, learning analytics, design and evaluation study]

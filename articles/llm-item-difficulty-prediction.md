@@ -4,6 +4,8 @@ created: "2026-06-29T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [assessment, llm, learning-analytics, higher-ed, student-modeling, benchmark, k-12, adaptive-learning, personalized-learning, knowledge-tracing]
+technology: [adaptive-learning, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
+assessment: [assessment, benchmark]
 audience: [software developers]
 research_method: [benchmark]
 level: [higher ed, k 12]

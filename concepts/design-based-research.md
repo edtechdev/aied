@@ -4,6 +4,7 @@ created: "2026-08-24T02:30:00-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [design-based-research, research-methods-aied]
+assessment: [design-based-research, research-methods-aied]
 research_method: [design-based research, research methods, literature review]
 category: [instructional design]
 confidence: high

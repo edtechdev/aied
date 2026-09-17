@@ -4,6 +4,8 @@ created: "2026-09-03T14:02:49-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [self-directed-learning, learning-analytics, simulation, student-modeling, science-education, adaptive-learning]
+pedagogy: [self-directed-learning]
+technology: [adaptive-learning, learning-analytics, simulation, student-modeling]
 sources: ['raw/papers/an-goel-self-directed-modeling-2026.md']
 confidence: high
 research_method: [learning analytics, quantitative]

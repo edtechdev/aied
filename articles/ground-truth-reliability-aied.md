@@ -4,6 +4,9 @@ created: "2026-05-11T04:33:04-04:00"
 updated: "2026-09-16T15:48:59-04:00"
 type: article
 tags: [benchmark, learning-analytics, generative-ai, llm, automated-assessment, human-in-the-loop-ai, ai-literacy]
+foundations: [ai-literacy]
+technology: [generative-ai, human-in-the-loop-ai, learning-analytics, llm]
+assessment: [automated-assessment, benchmark]
 audience: [researchers]
 research_method: [position paper, theoretical analysis]
 sources: ['raw/papers/2603.29141.md']

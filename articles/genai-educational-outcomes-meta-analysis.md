@@ -4,6 +4,8 @@ created: "2026-08-16T04:26:01-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [meta-analysis-systematic-review, ai-ed-evaluation, learning-gains, generative-ai, higher-ed]
+technology: [generative-ai]
+assessment: [ai-ed-evaluation, learning-gains, meta-analysis-systematic-review]
 research_method: [meta-analysis, systematic review]
 level: [higher ed]
 category: [evaluation]

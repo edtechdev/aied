@@ -4,6 +4,7 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, higher-ed, stem-education, educational-development, math-education]
+foundations: [ai-literacy, educational-development]
 research_method: [survey]
 discipline: [stem education, math education]
 audience: [faculty development]

@@ -4,6 +4,9 @@ created: "2026-08-31T09:45:00-04:00"
 updated: "2026-08-31T09:58:42-04:00"
 type: article
 tags: [pedagogical-partnerships, agency, self-determination-theory, self-efficacy, adult-learning, motivation, teacher-role, higher-ed, trust]
+foundations: [agency, teacher-role]
+pedagogy: [motivation, pedagogical-partnerships, self-determination-theory, self-efficacy]
+ethics: [trust]
 sources: ['raw/papers/anastasia-shared-agency-partnership-framework-2026.md']
 confidence: high
 research_method: [theoretical analysis]

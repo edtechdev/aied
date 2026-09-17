@@ -4,6 +4,8 @@ created: "2026-09-03T14:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, formative-assessment, feedback, machine-learning, higher-ed, engineering-education]
+technology: [intelligent-tutoring, machine-learning]
+assessment: [feedback, formative-assessment]
 sources: ['raw/papers/yin-arthur-ai-teaching-assistant-engineering-econ-2026.md']
 confidence: high
 research_method: [system development, benchmark]

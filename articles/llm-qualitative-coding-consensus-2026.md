@@ -4,6 +4,10 @@ created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-14T09:12:54-04:00"
 type: article
 tags: [qualitative-research, llm, human-ai-collaboration, human-in-the-loop-ai, research-methods-aied, trust-calibration, limitations-in-aied-research, educational-nlp]
+foundations: [human-ai-collaboration, limitations-in-aied-research]
+technology: [educational-nlp, human-in-the-loop-ai, llm]
+assessment: [qualitative-research, research-methods-aied]
+ethics: [trust-calibration]
 sources: ['raw/papers/llm-qualitative-coding-consensus-2026.md']
 confidence: high
 research_method: [benchmark, research methods]

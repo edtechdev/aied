@@ -4,6 +4,11 @@ created: "2026-09-11T09:20:00-04:00"
 updated: "2026-09-11T09:20:00-04:00"
 type: article
 tags: [ethics, collaborative-learning, group-work, pedagogical-agent, agentic-ai, simulation, human-ai-collaboration, stem-education, higher-ed]
+foundations: [agentic-ai, human-ai-collaboration]
+pedagogy: [collaborative-learning]
+technology: [pedagogical-agent, simulation]
+assessment: [group-work]
+ethics: [ethics]
 sources: ['raw/papers/2609.11529.md']
 confidence: high
 research_method: [system development, mixed methods, thematic analysis]

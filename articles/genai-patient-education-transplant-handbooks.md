@@ -4,6 +4,9 @@ created: "2026-07-28T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, medical-education, equity-in-ai-education, simulation, llm, ai-education]
+foundations: [ai-education]
+technology: [generative-ai, llm, simulation]
+ethics: [equity-in-ai-education]
 research_method: [secondary analysis]
 sources: ['raw/papers/2607.22606.md']
 confidence: high

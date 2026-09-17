@@ -4,6 +4,9 @@ created: "2026-05-07T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, adaptive-learning, scaffolding, higher-ed, formative-assessment, learning-analytics, sociocultural-learning, affective-tutoring, metacognition]
+pedagogy: [metacognition, scaffolding, sociocultural-learning]
+technology: [adaptive-learning, affective-tutoring, intelligent-tutoring, learning-analytics]
+assessment: [formative-assessment]
 research_method: [system development, experiment]
 level: [higher ed]
 sources: ['raw/papers/golrang-propact-pair-programming-2026.md']

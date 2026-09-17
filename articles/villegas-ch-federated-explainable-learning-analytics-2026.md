@@ -4,6 +4,9 @@ created: "2026-09-07T08:25:00-04:00"
 updated: "2026-09-07T08:25:00-04:00"
 type: article
 tags: [learning-analytics, privacy, ai-ed-evaluation, machine-learning]
+technology: [learning-analytics, machine-learning]
+assessment: [ai-ed-evaluation]
+ethics: [privacy]
 research_method: [experiment, learning analytics]
 discipline: [learning analytics]
 audience: [learning analytics designers, researchers, institutions, administrators]

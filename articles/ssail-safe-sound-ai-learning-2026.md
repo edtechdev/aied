@@ -4,6 +4,10 @@ created: "2026-09-03T09:00:00-04:00"
 updated: "2026-09-03T09:00:00-04:00"
 type: article
 tags: [generative-ai, cognitive-offloading, pedagogical-safety, agency, human-ai-collaboration, learning-analytics, formative-assessment, ai-education]
+foundations: [agency, ai-education, cognitive-offloading, human-ai-collaboration]
+technology: [generative-ai, learning-analytics]
+assessment: [formative-assessment]
+stakeholders: [pedagogical-safety]
 sources: ['raw/papers/ssail-safe-sound-ai-learning-2026.md']
 confidence: high
 research_method: [theoretical analysis, position paper]

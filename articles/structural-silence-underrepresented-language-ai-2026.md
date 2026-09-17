@@ -4,6 +4,8 @@ created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T04:54:02-04:00"
 type: article
 tags: [equity-in-ai-education, multilingual-learning, language-learning, digital-divide, global-south, ai-education, inclusive-learning, higher-ed]
+foundations: [ai-education]
+ethics: [digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 research_method: [theoretical analysis]
 discipline: [language learning]
 level: [higher ed]

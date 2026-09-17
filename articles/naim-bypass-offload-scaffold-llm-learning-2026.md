@@ -4,6 +4,9 @@ created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-14T09:12:54-04:00"
 type: article
 tags: [cognitive-offloading, productive-failure, scaffolding, metacognition, desirable-difficulties, prior-knowledge, transfer-of-learning, ai-misuse-learning-harm]
+foundations: [cognitive-offloading]
+pedagogy: [desirable-difficulties, metacognition, prior-knowledge, productive-failure, scaffolding, transfer-of-learning]
+ethics: [ai-misuse-learning-harm]
 sources: ['raw/papers/naim-bypass-offload-scaffold-llm-learning-2026.md']
 confidence: high
 research_method: [theoretical analysis]

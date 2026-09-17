@@ -4,6 +4,10 @@ created: "2026-08-20T08:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [feedback, ai-feedback-quality, ethics, teacher-role, generative-ai, higher-ed]
+foundations: [teacher-role]
+technology: [generative-ai]
+assessment: [ai-feedback-quality, feedback]
+ethics: [ethics]
 research_method: [mixed methods, policy analysis]
 audience: [instructors]
 level: [higher ed]

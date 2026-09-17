@@ -4,6 +4,9 @@ created: "2026-08-26T08:15:00-04:00"
 updated: "2026-08-26T08:15:00-04:00"
 type: article
 tags: [activity-theory-aied, teacher-role, adult-learning, agentic-ai, generative-ai, self-determination-theory, k-12]
+foundations: [agentic-ai, teacher-role]
+pedagogy: [activity-theory-aied, self-determination-theory]
+technology: [generative-ai]
 research_method: [design-based research]
 audience: [instructors]
 level: [k 12]

@@ -4,6 +4,11 @@ created: "2026-08-10T17:08:30-04:00"
 updated: "2026-08-13"
 type: article
 tags: [generative-ai, student-experience, self-regulated-learning, ai-literacy, academic-integrity, learning-analytics, motivation, cognitive-offloading, critical-thinking, metacognition, privacy]
+foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
+pedagogy: [metacognition, motivation, self-regulated-learning]
+technology: [generative-ai, learning-analytics]
+stakeholders: [student-experience]
+ethics: [privacy]
 research_method: [qualitative, interviews]
 audience: [learners]
 

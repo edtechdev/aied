@@ -4,6 +4,9 @@ created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [benchmark, ai-ed-evaluation, pedagogical-safety, llm, generative-ai]
+technology: [generative-ai, llm]
+assessment: [ai-ed-evaluation, benchmark]
+stakeholders: [pedagogical-safety]
 audience: [software developers]
 research_method: [benchmark]
 category: [evaluation]

@@ -4,6 +4,9 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, privacy, k-12, pedagogical-safety, intelligent-tutoring]
+technology: [intelligent-tutoring, llm]
+stakeholders: [pedagogical-safety]
+ethics: [privacy]
 audience: [software developers]
 research_method: [system development]
 level: [k 12]

@@ -4,6 +4,9 @@ created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, accessibility, inclusive-learning, assistive-technology, equity-in-ai-education, higher-ed, qualitative-research, global-south]
+technology: [generative-ai]
+assessment: [qualitative-research]
+ethics: [accessibility, assistive-technology, equity-in-ai-education, global-south, inclusive-learning]
 sources: ['raw/papers/khlaif-assistive-genai-visually-impaired-2026.md']
 confidence: high
 research_method: [qualitative, case study]

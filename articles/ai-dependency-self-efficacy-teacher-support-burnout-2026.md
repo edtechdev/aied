@@ -4,6 +4,9 @@ created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-misuse-learning-harm, cognitive-offloading, self-efficacy, teacher-role, well-being, higher-ed, student-engagement]
+foundations: [cognitive-offloading, teacher-role]
+pedagogy: [self-efficacy, student-engagement, well-being]
+ethics: [ai-misuse-learning-harm]
 audience: [researchers, educators, administrators, policymakers, instructors]
 research_method: [quantitative, survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1889053.md']

@@ -4,6 +4,10 @@ created: "2026-08-10T17:33:14-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, teacher-ai-competency, pedagogical-llm-training, educational-development, ai-education, ethics, learning-design]
+foundations: [ai-education, ai-literacy, educational-development, learning-design]
+technology: [pedagogical-llm-training]
+stakeholders: [teacher-ai-competency]
+ethics: [ethics]
 research_method: [delphi]
 audience: [faculty development]
 category: [instructional design]

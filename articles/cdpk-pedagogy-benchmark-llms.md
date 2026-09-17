@@ -4,6 +4,10 @@ created: "2026-08-15T15:31:07-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [benchmark, ai-ed-evaluation, educational-measurement, llm, teacher-role, teacher-ai-competency, professional-training, k-12, special-education]
+foundations: [teacher-role]
+technology: [llm]
+assessment: [ai-ed-evaluation, benchmark, educational-measurement]
+stakeholders: [professional-training, teacher-ai-competency]
 research_method: [benchmark, educational measurement]
 audience: [instructors, software developers]
 level: [k 12, special education]

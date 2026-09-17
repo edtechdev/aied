@@ -4,6 +4,9 @@ created: "2026-08-24T12:31:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [computational-thinking, educational-robotics, k-12, meta-analysis-systematic-review, assessment, stem-education, early-childhood-elementary-ai-education]
+foundations: [computational-thinking]
+technology: [educational-robotics]
+assessment: [assessment, meta-analysis-systematic-review]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [systematic review]
 discipline: [stem education]

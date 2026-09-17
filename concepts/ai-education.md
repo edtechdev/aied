@@ -4,6 +4,11 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity-in-ai-education]
+foundations: [ai-education, ai-literacy, teacher-role]
+technology: [generative-ai, intelligent-tutoring, llm]
+assessment: [assessment]
+stakeholders: [educational-policy-ai]
+ethics: [equity-in-ai-education]
 audience: [instructors, learners, faculty development, administrators]
 level: [higher ed, k 12]
 category: [assessment]

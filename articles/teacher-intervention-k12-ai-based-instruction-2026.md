@@ -4,6 +4,10 @@ created: "2026-09-12T13:10:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [k-12, teacher-role, meta-analysis-systematic-review, learning-analytics, scaffolding, agency, human-in-the-loop-ai, intelligent-tutoring, generative-ai, feedback, student-engagement]
+foundations: [agency, teacher-role]
+pedagogy: [scaffolding, student-engagement]
+technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, learning-analytics]
+assessment: [feedback, meta-analysis-systematic-review]
 research_method: [systematic review, thematic analysis]
 audience: [teachers, teacher educators, designers, researchers, administrators]
 level: [k 12]

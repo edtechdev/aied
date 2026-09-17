@@ -4,6 +4,9 @@ created: "2026-08-26T09:00:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [metacognition, generative-ai, self-regulated-learning, agency, cognitive-offloading, human-in-the-loop-ai]
+foundations: [agency, cognitive-offloading]
+pedagogy: [metacognition, self-regulated-learning]
+technology: [generative-ai, human-in-the-loop-ai]
 research_method: [theoretical analysis]
 sources: ['raw/papers/airis-hybrid-human-ai-cognition-2026.md']
 confidence: high

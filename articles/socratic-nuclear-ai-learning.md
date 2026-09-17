@@ -4,6 +4,9 @@ created: "2026-09-02T09:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [socratic-method, generative-ai, student-engagement, affective-computing, intelligent-tutoring, assessment, cognitive-psychology]
+pedagogy: [cognitive-psychology, socratic-method, student-engagement]
+technology: [affective-computing, generative-ai, intelligent-tutoring]
+assessment: [assessment]
 sources: ['raw/papers/socratic-nuclear-ai-learning.md']
 confidence: high
 research_method: [experiment, educational measurement]

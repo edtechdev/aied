@@ -4,6 +4,10 @@ created: "2026-08-26T18:05:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, ai-literacy, learning-design, curriculum-design, human-ai-collaboration, active-learning, educational-measurement, learning-theories, higher-ed, activity-theory-aied]
+foundations: [ai-literacy, curriculum-design, human-ai-collaboration, learning-design]
+pedagogy: [active-learning, activity-theory-aied, learning-theories]
+technology: [generative-ai]
+assessment: [educational-measurement]
 audience: [instructors, researchers]
 research_method: [theoretical analysis]
 level: [higher ed]

@@ -4,6 +4,9 @@ created: "2026-05-07T18:02:28-04:00"
 updated: "2026-09-11T09:40:00-04:00"
 type: concept
 tags: [transfer-of-learning, metacognition, desirable-difficulties, k-12, intelligent-tutoring, scaffolding, cognitive-offloading]
+foundations: [cognitive-offloading]
+pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
+technology: [intelligent-tutoring]
 level: [k 12]
 
 confidence: high

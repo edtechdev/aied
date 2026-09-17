@@ -4,6 +4,9 @@ created: "2026-06-16T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [higher-ed, llm, stem-education, student-experience, teacher-role, ai-literacy, learning-analytics, k-12]
+foundations: [ai-literacy, teacher-role]
+technology: [learning-analytics, llm]
+stakeholders: [student-experience]
 research_method: [survey, literature review]
 discipline: [stem education]
 audience: [learners, instructors]

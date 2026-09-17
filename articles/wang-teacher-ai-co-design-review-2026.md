@@ -4,6 +4,10 @@ created: "2026-09-02T09:50:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ['teacher-ai-competency', 'learning-design', 'human-ai-collaboration', 'teacher-role', 'meta-analysis-systematic-review', 'generative-ai']
+foundations: [human-ai-collaboration, learning-design, teacher-role]
+technology: [generative-ai]
+assessment: [meta-analysis-systematic-review]
+stakeholders: [teacher-ai-competency]
 research_method: [systematic review]
 audience: [instructors, learning designers, researchers, faculty development]
 level: [higher ed, k 12]

@@ -4,6 +4,9 @@ created: "2026-08-26T09:00:00-04:00"
 updated: "2026-08-26T09:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, llm, scaffolding, student-ai-interaction, generative-ai, higher-ed, assessment]
+pedagogy: [scaffolding, student-ai-interaction]
+technology: [generative-ai, intelligent-tutoring, llm]
+assessment: [assessment]
 audience: [software developers]
 research_method: [instrument development, educational measurement]
 level: [higher ed]

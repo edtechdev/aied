@@ -4,6 +4,8 @@ created: "2026-08-12T21:26:01-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, adaptive-learning, open-source, knowledge-tracing, math-education, higher-ed, personalized-learning, edtech-platform]
+technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, personalized-learning]
+stakeholders: [edtech-platform, open-source]
 audience: [software developers]
 research_method: [system development]
 discipline: [math education]

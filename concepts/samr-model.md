@@ -4,6 +4,9 @@ created: "2026-09-10T09:50:00-04:00"
 updated: "2026-09-10T09:50:00-04:00"
 type: concept
 tags: [technology-acceptance-model, tpack, ai-technologies, learning-design, teacher-ai-competency, educational-development, k-12, higher-ed]
+foundations: [educational-development, learning-design]
+technology: [ai-technologies]
+stakeholders: [teacher-ai-competency, technology-acceptance-model, tpack]
 category: [framework]
 audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]

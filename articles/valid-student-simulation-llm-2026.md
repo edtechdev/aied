@@ -4,6 +4,10 @@ created: "2026-08-12T22:10:30-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [simulating-students, llm, student-modeling, cognitive-psychology, ai-ed-evaluation, generative-ai, adaptive-learning, ethics]
+pedagogy: [cognitive-psychology]
+technology: [adaptive-learning, generative-ai, llm, simulating-students, student-modeling]
+assessment: [ai-ed-evaluation]
+ethics: [ethics]
 audience: [software developers]
 research_method: [theoretical analysis]
 category: [evaluation]

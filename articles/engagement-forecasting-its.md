@@ -4,6 +4,9 @@ created: "2026-05-20T04:33:04-04:00"
 updated: "2026-09-16T15:50:31-04:00"
 type: article
 tags: [intelligent-tutoring, learning-analytics, student-engagement, k-12, benchmark, scaffolding, rag, metacognition]
+pedagogy: [metacognition, scaffolding, student-engagement]
+technology: [intelligent-tutoring, learning-analytics, rag]
+assessment: [benchmark]
 audience: [software developers]
 research_method: [experiment, benchmark]
 level: [k 12]

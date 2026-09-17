@@ -4,7 +4,9 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-15T11:40:00-04:00"
 type: concept
 tags: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, pedagogical-llm-training, pedagogical-safety]
-
+technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, pedagogical-llm-training]
+stakeholders: [edtech-platform, pedagogical-safety]
+ethics: [hallucination-risk]
 confidence: high
 ---
 

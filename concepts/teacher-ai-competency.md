@@ -5,6 +5,11 @@ updated: "2026-09-17T09:40:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 tags: [ai-literacy, educational-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy]
+foundations: [ai-literacy, educational-development, teacher-role]
+pedagogy: [self-efficacy]
+technology: [generative-ai, intelligent-tutoring, llm]
+stakeholders: [student-experience]
+ethics: [equity-in-ai-education]
 audience: [faculty development, learners, instructors]
 level: [k 12, higher ed]
 confidence: high

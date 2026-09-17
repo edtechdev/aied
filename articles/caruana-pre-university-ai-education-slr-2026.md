@@ -4,6 +4,10 @@ created: "2026-08-28T09:15:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [k-12, ai-literacy, teacher-education, curriculum-design, generative-ai, ai-education, teacher-role, digital-divide, equity-in-ai-education, meta-analysis-systematic-review]
+foundations: [ai-education, ai-literacy, curriculum-design, teacher-role]
+technology: [generative-ai]
+assessment: [meta-analysis-systematic-review]
+ethics: [digital-divide, equity-in-ai-education]
 research_method: [systematic review]
 audience: [instructors]
 level: [k 12]

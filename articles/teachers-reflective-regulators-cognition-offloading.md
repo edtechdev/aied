@@ -4,6 +4,9 @@ created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 type: article
 tags: [cognitive-offloading, generative-ai, teacher-role, metacognition, ai-literacy, higher-ed, adult-learning]
+foundations: [ai-literacy, cognitive-offloading, teacher-role]
+pedagogy: [metacognition]
+technology: [generative-ai]
 research_method: [qualitative, case study]
 audience: [instructors]
 level: [k 12]

@@ -4,6 +4,9 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
 tags: [situated-learning, experiential-learning, constructivist, adaptive-learning, teacher-role, ai-education, learning-design, personalized-learning]
+foundations: [ai-education, learning-design, teacher-role]
+pedagogy: [constructivist, experiential-learning, situated-learning]
+technology: [adaptive-learning, personalized-learning]
 research_method: [systematic review]
 audience: [instructors]
 category: [instructional design]

@@ -4,6 +4,9 @@ created: "2026-05-06T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [rct, generative-ai, higher-ed, learning-gains, meta-analysis-systematic-review, regulation, writing-education, assessment-validity, llm]
+technology: [generative-ai, llm]
+assessment: [assessment-validity, learning-gains, meta-analysis-systematic-review, rct]
+stakeholders: [regulation]
 research_method: [meta-analysis]
 discipline: [cs education]
 level: [higher ed]

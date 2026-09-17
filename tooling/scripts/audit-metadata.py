@@ -30,12 +30,26 @@ BEGIN_MARKER = '<!-- BEGIN GENERATED VOCABULARIES (source: src/content.config.ts
 END_MARKER = '<!-- END GENERATED VOCABULARIES -->'
 COLLECTIONS = ('articles', 'concepts', 'faqs')
 FIELDS = ('research_method', 'discipline', 'audience', 'level', 'category')
+# Facet fields: their allowed values are the concept slugs of one registry
+# section, so they are read from the generated src/data/facetVocab.ts rather
+# than from content.config.ts (which builds them with facetList(...)).
+FACET_VOCAB_TS = os.path.join(ROOT, 'src', 'data', 'facetVocab.ts')
 # Fields that a page in that collection is expected to carry unless it genuinely does not apply.
 EXPECTED = {
     'articles': ('research_method', 'audience', 'level'),
     'concepts': (),
     'faqs': (),
 }
+
+
+def load_facet_vocabularies() -> tuple[dict[str, list[str]], tuple[str, ...]]:
+    src = open(FACET_VOCAB_TS, encoding='utf-8').read()
+    vocab = {}
+    body = src.split('export const FACET_VOCAB = {', 1)[1].split('} as const;', 1)[0]
+    for m in re.finditer(r'^\s{2}(\w+): \[(.*?)\n  \],', body, re.S | re.M):
+        vocab[m.group(1)] = re.findall(r"'([^']+)'", m.group(2))
+    order = tuple(re.findall(r"field: '(\w+)'", src)) or tuple(vocab)
+    return vocab, order
 
 
 def load_vocabularies() -> dict[str, list[str]]:
@@ -46,6 +60,9 @@ def load_vocabularies() -> dict[str, list[str]]:
         if not m:
             sys.exit(f'could not find the {field} vocabulary in {CONFIG}')
         vocab[field] = re.findall(r"'([^']+)'", m.group(1))
+    facet_vocab, facet_order = load_facet_vocabularies()
+    globals()['FIELDS'] = FIELDS + facet_order
+    vocab.update(facet_vocab)
     return vocab
 
 

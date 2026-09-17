@@ -5,6 +5,9 @@ updated: "2026-09-17T03:00:00-04:00"
 weight: 60
 type: faq
 tags: [group-work, collaborative-learning, peer-assessment, agency, assessment, academic-integrity]
+foundations: [academic-integrity, agency]
+pedagogy: [collaborative-learning]
+assessment: [assessment, group-work, peer-assessment]
 research_method: [systematic review, interviews, mixed methods]
 audience: [instructors, learning designers, assessment designers]
 level: [higher ed, secondary]

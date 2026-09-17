@@ -4,6 +4,9 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [philosophy-of-ai-in-education, learning-theories, ethics, agency, human-ai-collaboration, ai-education]
+foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
+pedagogy: [learning-theories]
+ethics: [ethics]
 confidence: high
 ---
 

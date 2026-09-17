@@ -4,6 +4,8 @@ created: "2026-09-03T14:12:59-04:00"
 updated: "2026-09-03T14:12:59-04:00"
 type: article
 tags: [automated-assessment, generative-ai, llm, educational-nlp, assessment, higher-ed]
+technology: [educational-nlp, generative-ai, llm]
+assessment: [assessment, automated-assessment]
 sources: ['raw/papers/pecuchova-automated-grading-open-ended-genai-2026.md']
 confidence: high
 research_method: [benchmark, educational measurement]

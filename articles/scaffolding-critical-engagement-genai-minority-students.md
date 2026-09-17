@@ -4,6 +4,10 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, scaffolding, equity-in-ai-education, multilingual-learning, prompt-engineering, ai-literacy, k-12, metacognition]
+foundations: [ai-literacy]
+pedagogy: [metacognition, scaffolding]
+technology: [generative-ai, prompt-engineering]
+ethics: [equity-in-ai-education, multilingual-learning]
 audience: [learners, instructors]
 research_method: [mixed methods]
 level: [higher ed]

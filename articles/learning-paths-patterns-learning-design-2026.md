@@ -4,6 +4,10 @@ created: "2026-09-13T11:05:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [learning-design, learning-analytics, curriculum-design, assessment, active-learning, constructivist, student-engagement, quantitative-research]
+foundations: [curriculum-design, learning-design]
+pedagogy: [active-learning, constructivist, student-engagement]
+technology: [learning-analytics]
+assessment: [assessment, quantitative-research]
 research_method: [quantitative, secondary analysis, learning analytics]
 discipline: [learning sciences]
 audience: [learning designers, instructional designers, curriculum designers, educators, researchers]

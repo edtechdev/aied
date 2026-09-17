@@ -4,6 +4,8 @@ created: "2026-08-04T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [automated-assessment, llm, assessment-validity, higher-ed, ai-ed-evaluation, rag]
+technology: [llm, rag]
+assessment: [ai-ed-evaluation, assessment-validity, automated-assessment]
 audience: [software developers]
 research_method: [benchmark]
 level: [higher ed]

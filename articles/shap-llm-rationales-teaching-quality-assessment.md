@@ -4,6 +4,9 @@ created: "2026-08-21T08:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [automated-assessment, educational-nlp, llm, feedback, teacher-role, ai-ed-evaluation, learning-analytics]
+foundations: [teacher-role]
+technology: [educational-nlp, learning-analytics, llm]
+assessment: [ai-ed-evaluation, automated-assessment, feedback]
 research_method: [benchmark]
 audience: [instructors]
 category: [evaluation]

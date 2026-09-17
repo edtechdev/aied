@@ -4,6 +4,8 @@ created: "2026-08-23T08:05:00-04:00"
 updated: "2026-08-23T09:30:00-04:00"
 type: article
 tags: [productive-failure, llm, intelligent-tutoring, socratic-method, generative-ai, k-12, math-education, human-in-the-loop-ai]
+pedagogy: [productive-failure, socratic-method]
+technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, llm]
 research_method: [system development, experiment]
 discipline: [math education]
 level: [k 12]

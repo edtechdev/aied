@@ -3,6 +3,12 @@ title: "How Can We Address Common Misconceptions About AI in Education?"
 created: "2026-09-04T04:39:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 tags: [misconceptions, refutation-text, ai-literacy, cognitive-offloading, trust-calibration, academic-integrity, ai-detection, reducing-ai-misuse, teacher-role, teacher-ai-competency, pedagogical-safety, assessment-validity, feedback-literacy, prompt-engineering, governance, equity-in-ai-education]
+foundations: [academic-integrity, ai-literacy, cognitive-offloading, misconceptions, reducing-ai-misuse, teacher-role]
+pedagogy: [refutation-text]
+technology: [prompt-engineering]
+assessment: [ai-detection, assessment-validity, feedback-literacy]
+stakeholders: [governance, pedagogical-safety, teacher-ai-competency]
+ethics: [equity-in-ai-education, trust-calibration]
 weight: 95
 ---
 

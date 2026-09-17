@@ -4,6 +4,8 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [learning-analytics, higher-ed, student-modeling, rct, llm, machine-learning]
+technology: [learning-analytics, llm, machine-learning, student-modeling]
+assessment: [rct]
 research_method: [benchmark, secondary analysis]
 level: [higher ed]
 sources: ['raw/papers/2606.20617.md']

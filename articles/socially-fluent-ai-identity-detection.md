@@ -4,6 +4,9 @@ created: "2026-05-25T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, cognitive-offloading, student-experience, llm, affective-computing, rag, intelligent-tutoring]
+foundations: [ai-literacy, cognitive-offloading]
+technology: [affective-computing, intelligent-tutoring, llm, rag]
+stakeholders: [student-experience]
 research_method: [experiment, survey]
 audience: [researchers]
 

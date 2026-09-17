@@ -4,6 +4,8 @@ created: "2026-08-12T21:20:35-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [special-education, inclusive-learning, student-experience, equity-in-ai-education, neurodiversity]
+stakeholders: [student-experience]
+ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
 audience: [learners]
 level: [special education]

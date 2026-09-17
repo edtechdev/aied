@@ -4,6 +4,10 @@ created: "2026-05-14T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, language-learning, k-12, ai-literacy, generative-ai, equity-in-ai-education, scaffolding, personalized-learning]
+foundations: [ai-literacy]
+pedagogy: [scaffolding]
+technology: [generative-ai, llm, personalized-learning]
+ethics: [equity-in-ai-education]
 audience: [instructors, learners, software developers]
 research_method: [system development, benchmark]
 discipline: [language learning]

@@ -5,6 +5,8 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/gpt-item-generation-l2-listening-2026.md"]
 tags: ['educational-measurement', 'prompt-engineering', 'llm', 'language-learning']
+technology: [llm, prompt-engineering]
+assessment: [educational-measurement]
 confidence: medium
 research_method: [benchmark]
 discipline: [language learning]

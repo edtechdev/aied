@@ -5,6 +5,9 @@ updated: "2026-09-17T02:26:00-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 tags: [feedback-literacy, feedback, ai-feedback-quality, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, writing-education]
+foundations: [ai-literacy]
+pedagogy: [self-regulated-learning]
+assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessment, peer-assessment]
 discipline: [writing education]
 
 confidence: high

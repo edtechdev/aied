@@ -4,6 +4,10 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, equity-in-ai-education, learning-theories, generative-ai]
+foundations: [ai-literacy]
+pedagogy: [learning-theories]
+technology: [generative-ai]
+ethics: [equity-in-ai-education]
 audience: [instructors]
 research_method: [theoretical analysis]
 sources: ['raw/papers/2607.27547.md']

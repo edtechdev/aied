@@ -4,6 +4,10 @@ created: "2026-05-11T04:33:04-04:00"
 updated: "2026-09-16T15:51:16-04:00"
 type: article
 tags: [llm, teacher-role, higher-ed, scaffolding, educational-development, teacher-ai-competency]
+foundations: [educational-development, teacher-role]
+pedagogy: [scaffolding]
+technology: [llm]
+stakeholders: [teacher-ai-competency]
 research_method: [system development]
 audience: [instructors, faculty development]
 level: [higher ed]

@@ -4,6 +4,8 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [project-based-learning, active-learning, collaborative-learning, educational-robotics, higher-ed, k-12]
+pedagogy: [active-learning, collaborative-learning, project-based-learning]
+technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 ---

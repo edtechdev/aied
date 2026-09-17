@@ -4,6 +4,9 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
 tags: [ai-literacy, equity-in-ai-education, digital-divide, higher-ed, ethics, critical-pedagogy]
+foundations: [ai-literacy]
+pedagogy: [critical-pedagogy]
+ethics: [digital-divide, equity-in-ai-education, ethics]
 audience: [instructors, researchers]
 research_method: [literature review]
 level: [higher ed]

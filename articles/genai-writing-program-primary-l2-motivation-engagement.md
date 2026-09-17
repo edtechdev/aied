@@ -4,6 +4,9 @@ created: "2026-09-12T08:35:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [writing-education, language-learning, student-engagement, motivation, scaffolding, feedback, k-12, generative-ai]
+pedagogy: [motivation, scaffolding, student-engagement]
+technology: [generative-ai]
+assessment: [feedback]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [mixed methods, experiment, interviews]
 audience: [educators, teachers, curriculum designers]

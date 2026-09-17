@@ -4,6 +4,10 @@ created: "2026-05-22T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [intelligent-tutoring, mastery-learning, adaptive-learning, simulating-students, student-modeling, agency, knowledge-tracing, student-engagement, simulation, k-12, student-experience]
+foundations: [agency]
+pedagogy: [mastery-learning, student-engagement]
+technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, simulating-students, simulation, student-modeling]
+stakeholders: [student-experience]
 research_method: [system development, secondary analysis]
 audience: [researchers, designers, instructors]
 level: [k 12]

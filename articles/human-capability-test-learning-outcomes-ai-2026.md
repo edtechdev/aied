@@ -4,6 +4,9 @@ created: "2026-09-04T09:09:00-04:00"
 updated: "2026-09-04T09:09:00-04:00"
 type: article
 tags: [assessment, academic-integrity, authentic-assessment, generative-ai, higher-ed]
+foundations: [academic-integrity]
+technology: [generative-ai]
+assessment: [assessment, authentic-assessment]
 sources: ['raw/papers/human-capability-test-learning-outcomes-ai.md']
 confidence: high
 research_method: [theoretical analysis]

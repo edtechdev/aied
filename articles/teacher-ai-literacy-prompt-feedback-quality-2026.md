@@ -4,6 +4,10 @@ type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 tags: [ai-literacy, prompt-engineering, ai-feedback-quality, feedback, feedback-literacy, teacher-ai-competency, teacher-education, generative-ai, llm, discipline-specific-aied]
+foundations: [ai-literacy]
+technology: [generative-ai, llm, prompt-engineering]
+assessment: [ai-feedback-quality, feedback, feedback-literacy]
+stakeholders: [teacher-ai-competency]
 sources: ['raw/papers/teacher-ai-literacy-prompt-feedback-quality-2026.md']
 confidence: high
 research_method: [quasi-experiment, quantitative]

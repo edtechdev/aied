@@ -4,6 +4,10 @@ created: "2026-06-29T04:33:04-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [special-education, llm, ai-literacy, equity-in-ai-education, student-experience, language-learning, k-12, higher-ed]
+foundations: [ai-literacy]
+technology: [llm]
+stakeholders: [student-experience]
+ethics: [equity-in-ai-education]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [system development, mixed methods]
 discipline: [language learning]

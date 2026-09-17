@@ -4,6 +4,9 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [teacher-education, tpack, generative-ai, adult-learning, ethics]
+technology: [generative-ai]
+stakeholders: [tpack]
+ethics: [ethics]
 research_method: [systematic review]
 sources: ['raw/papers/teaching-the-teachers-genai-tpk-review-2026.md']
 confidence: high

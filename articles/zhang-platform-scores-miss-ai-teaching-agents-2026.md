@@ -4,6 +4,8 @@ created: "2026-09-08T02:39:20-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [medical-education, pedagogical-agent, ai-ed-evaluation, assessment, intelligent-tutoring, generative-ai, llm, simulation]
+technology: [generative-ai, intelligent-tutoring, llm, pedagogical-agent, simulation]
+assessment: [ai-ed-evaluation, assessment]
 sources: ['raw/papers/zhang-platform-scores-miss-ai-teaching-agents-2026.md']
 research_method: [quantitative, design and evaluation study]
 discipline: [medical education]

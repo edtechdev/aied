@@ -4,6 +4,9 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, cs-education]
+foundations: [ai-literacy, computational-thinking]
+technology: [generative-ai, llm, prompt-engineering]
+assessment: [automated-assessment]
 discipline: [stem education]
 level: [higher ed, k 12]
 

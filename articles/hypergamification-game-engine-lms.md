@@ -4,6 +4,9 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [edtech-platform, active-learning, student-engagement, online-teaching-and-learning, k-12, higher-ed, learning-analytics, student-experience]
+pedagogy: [active-learning, online-teaching-and-learning, student-engagement]
+technology: [learning-analytics]
+stakeholders: [edtech-platform, student-experience]
 research_method: [system development]
 audience: [learners]
 level: [k 12, higher ed]

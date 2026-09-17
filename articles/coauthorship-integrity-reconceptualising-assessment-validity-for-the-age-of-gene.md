@@ -4,6 +4,9 @@ created: "2026-08-10T17:08:30-04:00"
 updated: "2026-09-17T07:48:05-04:00"
 type: article
 tags: [generative-ai, assessment, conversational-ai, assessment-validity, academic-integrity, ai-education, intelligent-tutoring, agentic-ai, llm]
+foundations: [academic-integrity, agentic-ai, ai-education]
+technology: [conversational-ai, generative-ai, intelligent-tutoring, llm]
+assessment: [assessment, assessment-validity]
 research_method: [theoretical analysis]
 category: [assessment]
 sources: ['raw/papers/coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene.md']

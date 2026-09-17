@@ -4,6 +4,10 @@ created: "2026-08-19T13:00:00-04:00"
 updated: "2026-08-19T13:00:00-04:00"
 type: article
 tags: [biology-education, higher-ed, generative-ai, academic-integrity, ethics, active-learning]
+foundations: [academic-integrity]
+pedagogy: [active-learning]
+technology: [generative-ai]
+ethics: [ethics]
 research_method: [mixed methods]
 discipline: [biology education]
 level: [higher ed]

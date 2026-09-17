@@ -4,6 +4,8 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-literacy, prompt-engineering, higher-ed, generative-ai, multimodal]
+foundations: [ai-literacy]
+technology: [generative-ai, multimodal, prompt-engineering]
 audience: [learners, instructors]
 research_method: [qualitative, case study]
 level: [higher ed]

@@ -4,6 +4,9 @@ created: "2026-06-18T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, adaptive-learning, professional-training, active-learning, llm, simulation]
+pedagogy: [active-learning]
+technology: [adaptive-learning, intelligent-tutoring, llm, simulation]
+stakeholders: [professional-training]
 research_method: [system development]
 sources: ['raw/papers/2606.18319.md']
 confidence: medium

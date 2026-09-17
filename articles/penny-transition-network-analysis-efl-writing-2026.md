@@ -4,6 +4,10 @@ created: "2026-08-22T01:35:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [learning-analytics, english-education, feedback, conversational-ai, generative-ai, student-modeling, scaffolding, ai-literacy]
+foundations: [ai-literacy]
+pedagogy: [scaffolding]
+technology: [conversational-ai, generative-ai, learning-analytics, student-modeling]
+assessment: [feedback]
 audience: [learners, instructors]
 research_method: [learning analytics]
 discipline: [english education]

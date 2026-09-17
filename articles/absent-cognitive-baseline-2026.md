@@ -4,6 +4,10 @@ created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-22T17:55:00-04:00"
 type: article
 tags: [metacognition, generative-ai, cognitive-offloading, self-regulated-learning, student-experience, higher-ed, ai-education, k-12]
+foundations: [ai-education, cognitive-offloading]
+pedagogy: [metacognition, self-regulated-learning]
+technology: [generative-ai]
+stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [learners]
 level: [higher ed, k 12]

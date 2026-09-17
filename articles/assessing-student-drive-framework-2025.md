@@ -4,6 +4,9 @@ created: "2026-08-24T05:31:00-04:00"
 updated: "2026-08-24T05:31:00-04:00"
 type: article
 tags: [assessment, generative-ai, authentic-assessment, learning-analytics, educational-measurement, formative-assessment, higher-ed, ai-literacy, academic-integrity]
+foundations: [academic-integrity, ai-literacy]
+technology: [generative-ai, learning-analytics]
+assessment: [assessment, authentic-assessment, educational-measurement, formative-assessment]
 audience: [instructors]
 research_method: [educational measurement]
 level: [higher ed]

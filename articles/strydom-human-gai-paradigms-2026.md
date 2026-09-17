@@ -4,6 +4,9 @@ created: "2026-08-22T17:10:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, higher-ed, human-ai-collaboration, ai-literacy, learning-theories, ai-education, theory-development-aied, student-ai-interaction]
+foundations: [ai-education, ai-literacy, human-ai-collaboration, theory-development-aied]
+pedagogy: [learning-theories, student-ai-interaction]
+technology: [generative-ai]
 audience: [instructors, researchers]
 research_method: [theoretical analysis]
 level: [higher ed]

@@ -4,6 +4,12 @@ created: "2026-08-19T12:00:00-04:00"
 updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: [k-12, generative-ai, cognitive-offloading, self-regulated-learning, metacognition, ai-literacy, reducing-ai-misuse, assessment, educational-policy-ai, equity-in-ai-education, teacher-education, student-engagement]
+foundations: [ai-literacy, cognitive-offloading, reducing-ai-misuse]
+pedagogy: [metacognition, self-regulated-learning, student-engagement]
+technology: [generative-ai]
+assessment: [assessment]
+stakeholders: [educational-policy-ai]
+ethics: [equity-in-ai-education]
 connected_faqs: [ai-guidance-children-under-13]
 audience: [learners, instructors]
 research_method: [literature review]

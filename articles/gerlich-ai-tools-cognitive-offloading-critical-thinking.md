@@ -4,6 +4,9 @@ created: "2026-08-15T16:09:27-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [cognitive-offloading, critical-thinking, ai-literacy, digital-divide, higher-ed, student-experience, trust]
+foundations: [ai-literacy, cognitive-offloading, critical-thinking]
+stakeholders: [student-experience]
+ethics: [digital-divide, trust]
 connected_faqs: [reducing-over-reliance]
 research_method: [mixed methods]
 audience: [learners]

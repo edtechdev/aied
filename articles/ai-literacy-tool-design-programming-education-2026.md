@@ -4,6 +4,11 @@ created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, scaffolding, generative-ai, cs-education, self-regulated-learning, mixed-methods-research, ai-misuse-learning-harm, higher-ed]
+foundations: [ai-literacy]
+pedagogy: [scaffolding, self-regulated-learning]
+technology: [generative-ai]
+assessment: [mixed-methods-research]
+ethics: [ai-misuse-learning-harm]
 sources: ['raw/papers/ai-literacy-tool-design-programming-education-2026.md']
 confidence: high
 research_method: [mixed methods, experiment]

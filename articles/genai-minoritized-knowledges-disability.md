@@ -4,6 +4,11 @@ created: "2026-05-27T07:38:00-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, special-education, equity-in-ai-education, bias-mitigation, llm, student-experience, ai-literacy, scaffolding, stem-education]
+foundations: [ai-literacy]
+pedagogy: [scaffolding]
+technology: [generative-ai, llm]
+stakeholders: [student-experience]
+ethics: [bias-mitigation, equity-in-ai-education]
 research_method: [theoretical analysis]
 discipline: [stem education]
 audience: [learners, instructors]

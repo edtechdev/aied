@@ -4,6 +4,9 @@ created: "2026-08-01T04:33:04-04:00"
 updated: "2026-09-16T17:23:24-04:00"
 type: article
 tags: [automated-assessment, learning-theories, learning-analytics, llm, generative-ai, educational-nlp]
+pedagogy: [learning-theories]
+technology: [educational-nlp, generative-ai, learning-analytics, llm]
+assessment: [automated-assessment]
 research_method: [benchmark]
 
 sources: ['raw/papers/caeai-human-llm-coding.md']

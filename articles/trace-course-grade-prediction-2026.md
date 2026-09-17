@@ -4,6 +4,8 @@ created: "2026-08-14T09:17:22-04:00"
 updated: "2026-08-24T21:10:00-04:00"
 type: article
 tags: [learning-analytics, student-modeling, machine-learning, knowledge-tracing, higher-ed, personalized-learning, educational-measurement, ai-ed-evaluation]
+technology: [knowledge-tracing, learning-analytics, machine-learning, personalized-learning, student-modeling]
+assessment: [ai-ed-evaluation, educational-measurement]
 audience: [software developers]
 research_method: [educational measurement]
 level: [higher ed]

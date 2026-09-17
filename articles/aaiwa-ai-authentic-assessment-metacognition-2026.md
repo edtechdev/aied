@@ -4,6 +4,8 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [authentic-assessment, feedback, metacognition, teacher-education, writing-education]
+pedagogy: [metacognition]
+assessment: [authentic-assessment, feedback]
 research_method: [system development, mixed methods]
 level: [teacher training]
 sources: ['raw/papers/aaiwa-ai-authentic-assessment-metacognition-2026.md']

@@ -4,6 +4,8 @@ created: "2026-09-06T04:55:00-04:00"
 updated: "2026-09-06T04:57:00-04:00"
 type: article
 tags: [cs-education, project-based-learning, agentic-ai, cognitive-offloading, higher-ed]
+foundations: [agentic-ai, cognitive-offloading]
+pedagogy: [project-based-learning]
 research_method: [case study]
 discipline: [cs education]
 audience: [instructors, researchers]
