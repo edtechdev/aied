@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-17T14:46:00-04:00"
 type: concept
 tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
 foundations: [ai-literacy, teacher-role]
@@ -24,7 +24,7 @@ confidence: high
 
 ## Introduction
 
-Teacher education sits at the intersection of several knowledge base strands: it is a discipline/domain (like [[medical-education]] and [[humanities-education]]), but it also draws on the general concepts of [[teacher-role]], [[tpack]], [[teacher-ai-competency]], and [[ai-literacy]]. In the AI era, teacher education must prepare teachers not only to use AI tools but to understand, evaluate, and ethically integrate them — a shift that redefines what it means to be a teacher.
+Teacher education sits at the intersection of several knowledge base strands: it is a discipline/domain (like [[medical-education]] and [[humanities-education]]), but it also draws on the general concepts of [[teacher-role]], [[tpack]], [[teacher-ai-competency]], and [[ai-literacy]]. In the AI era, teacher education must prepare teachers not only to use AI tools but to understand, evaluate, and ethically integrate them — a shift that redefines what it means to be a teacher. The [[learning-sciences|learning sciences]] supply the knowledge this formation has to carry: where that field studies how people learn and how learning environments should be designed, teacher education is the professional formation in which such evidence has to land as a teacher's own capacity to design, teach and assess.
 
 Cross-level evidence sharpens the design priority: [[pedagogy-first-technology-second-teacher-knowledge-2026|a multilevel study of 46 teachers and 2,832 secondary students]] found that pedagogical AI knowledge (TPAIK) — not technical AI knowledge — drove students' perceptions of AI for social good and their intention to learn AI. Teacher education should therefore foreground *how to teach with and about AI* over tool proficiency, consistent with the "pedagogy first, technology second" guideline.
 
@@ -87,6 +87,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[k-12]]
 - [[ethics]]
 - [[ai-education]]
+- [[learning-sciences]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles

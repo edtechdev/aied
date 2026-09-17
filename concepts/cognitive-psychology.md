@@ -1,7 +1,7 @@
 ---
 title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T14:46:00-04:00"
 type: concept
 tags: ['learning-theories', 'cognitive-psychology', 'metacognition', 'knowledge-tracing', 'intelligent-tutoring', 'generative-ai']
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
@@ -46,6 +46,7 @@ Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in 
 
 - **vs. [[behaviorism]]:** Behaviorism explains learning as observable behavioral change through reinforcement and drill; cognitivism insists on internal representations and traces mental states. AI practice often shows a "constructivism in name, behaviorism in practice" gap, but cognitivist designs (student modeling, knowledge tracing) are distinct from pure behaviorist drill-and-feedback because they *represent and adapt to the learner's inferred knowledge* rather than merely reinforcing responses.
 - **vs. [[constructivist|constructivism]]:** Constructivism holds that learners actively construct meaning through experience; cognitivism emphasizes accurate encoding of (often pre-structured) knowledge and skill. AIED's cognitivist lineage (structured domains, explicit knowledge components) is sometimes critiqued as too behaviorist or too transmission-oriented by constructivists, while cognitivism counters that representing and tracing knowledge is what enables genuinely adaptive instruction.
+- **vs. the [[learning-sciences|learning sciences]]:** Cognitivism supplies the mechanisms that field designs with — working memory, encoding, retrieval, decomposable knowledge components — but is not itself design-oriented. It explains how learning happens; the learning sciences ask how to build environments in which it happens and hold those designs to empirical test.
 
 ### The AI-era tension: cognitivism's boundary is under pressure
 
@@ -77,6 +78,7 @@ Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in 
 - [[transfer-of-learning]]
 - [[self-regulated-learning]]
 - [[ai-education]]
+- [[learning-sciences]]
 
 ## Connected Articles
 

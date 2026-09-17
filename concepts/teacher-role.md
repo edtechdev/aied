@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-17T07:48:05-04:00"
+updated: "2026-09-17T14:46:00-04:00"
 type: concept
 tags: [educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring]
 foundations: [ai-literacy, educational-development, learning-design]
@@ -28,7 +28,7 @@ confidence: high
 
 ## Introduction
 
-Teaching here names the professional role as AI reshapes it: less content delivery, more orchestration of human and machine participants, interpretation of what learners actually understand, and design of the conditions under which AI use is legitimate. The pages collected under this concept document teacher–AI teaming and workflow change, the [[teacher-ai-competency|competencies]] the role now demands, and the tension between efficiency gains and the attention that individual support requires. It sits alongside [[educational-development]], [[ai-literacy]] and [[assessment]] as one of the roles that determines whether AI integration changes practice or merely decorates it.
+Teaching here names the professional role as AI reshapes it: less content delivery, more orchestration of human and machine participants, interpretation of what learners actually understand, and design of the conditions under which AI use is legitimate. The pages collected under this concept document teacher–AI teaming and workflow change, the [[teacher-ai-competency|competencies]] the role now demands, and the tension between efficiency gains and the attention that individual support requires. It sits alongside [[educational-development]], [[ai-literacy]] and [[assessment]] as one of the roles that determines whether AI integration changes practice or merely decorates it. The [[learning-sciences|learning sciences]] are the research field whose evidence reshapes this position: they describe and test how learning happens and which designs change it, while this page covers the classroom role that has to act on that evidence in the moment.
 
 ## How AI transforms teaching
 
@@ -147,6 +147,7 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[situated-learning]]
 - [[critical-pedagogy]]
 - [[teacher-education]]
+- [[learning-sciences]]
 - [[academic-integrity]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)

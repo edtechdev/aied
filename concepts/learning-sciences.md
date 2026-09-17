@@ -1,7 +1,7 @@
 ---
 title: "Learning Sciences"
 created: "2026-09-17T14:12:00-04:00"
-updated: "2026-09-17T14:12:00-04:00"
+updated: "2026-09-17T14:48:59-04:00"
 type: concept
 tags: [learning-sciences, learning-theories, learning-design, cognitive-psychology, pedagogy, research-methods-aied, intelligent-tutoring, learning-analytics]
 foundations: [learning-design]
@@ -26,9 +26,9 @@ confidence: high
 
 ## Introduction
 
-The learning sciences study learning and the design of learning environments, and they are defined by their methods as much as their topics: experiments, classroom trials, [[quantitative-research|quantitative]] modelling of student data, [[qualitative-research|qualitative]] analysis of designs and contexts, and design-based research that builds an intervention and revises it in use. That breadth separates this page from [[learning-theories]], which covers the explanatory frameworks as lenses for reading AI, and from [[pedagogy]] and [[learning-design]], which cover teaching practice and the craft of sequencing outcomes, activities and assessment. The learning sciences study those from the outside, as objects of description, modelling and evaluation.
+The learning sciences study learning and the design of learning environments, and they are defined by their methods as much as their topics: experiments, classroom trials, [[quantitative-research|quantitative]] modelling of student data, [[qualitative-research|qualitative]] analysis of designs and contexts, and design-based research that builds an intervention and revises it in use. That breadth separates this page from the neighbours that supply the frameworks, the practice and the instruments; the section below sets out each boundary and what the field has established on the other side of it.
 
-[[research-methods-aied]] is the sharpest contrast: that page covers instrument choice and inference, while this page covers the substantive knowledge such methods have produced — what learners do with a generative model, which arrangements change outcomes, and where the field's own instruments fail. [[discipline-specific-aied]] takes the opposite cut, holding that subject matter changes what support should do; the learning sciences take the cross-cutting view, and [[cognitive-psychology]] supplies the mechanisms they test.
+This page covers the substantive knowledge such methods have produced — what learners do with a generative model, which arrangements change outcomes, and where the field's own instruments fail. [[discipline-specific-aied]] takes the opposite cut, holding that subject matter changes what support should do; the learning sciences take the cross-cutting view, and the mechanisms they test are gathered under [[cognitive-psychology]].
 
 ### How AI appears in the learning sciences
 
@@ -48,6 +48,20 @@ The learning sciences study learning and the design of learning environments, an
 
 - **Capability at the level of the field.** [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo, Chowdhury and Liu (2026)]] surveyed 127 faculty with a [[tpack|TPACK]] instrument adapted for generative AI: strong content and pedagogical content knowledge (M = 4.70–5.15) beside markedly lower technology-integrated knowledge, with holistic TPACK lowest at 2.55, content knowledge uncorrelated with any technology-integrated domain, and the three integrated domains correlating so highly (r = .81–.91) that they may function as one factor. [[perrotta-zero-shot-governance-2026|Perrotta (2026)]] reads the governance layer through a discontinued UK civil-service prototype whose codebase was a system prompt plus a retrieval pipeline over commercial models, arguing that the generality of foundation models both enables rapid repurposing into [[educational-policy-ai|policy]] tools and makes aberrant output a permanently only-mitigable risk — oversight that peers over the loop rather than sitting inside it.
 
+## How the learning sciences relate to their neighbours
+
+[[design-based-research|Design-based research]] is the method this field developed rather than borrowed: an intervention is built and revised inside a working classroom, with its theoretical rationale revised alongside it, so one study yields both an artefact and a design principle. That is what separates it from a laboratory experiment, which isolates a cause by holding the context still, and it is why the field's findings arrive as design knowledge rather than as effect sizes. [[research-methods-aied]] takes the other cut: that page surveys the whole repertoire — experiments, surveys, qualitative work, benchmarks, reviews, consensus methods — as a choice among instruments, weighed for the validity of the claim each can support. This page reads the same corpus from the substantive side, asking what the repertoire has established about learning and judging a method by whether its design claim survives contact with learners.
+
+[[learning-theories]] collects the candidate frameworks — behaviourism, cognitivism, constructivism, sociocultural accounts, motivation and self-regulation — as lenses for reading AI. The learning sciences share that vocabulary but not that stance: here a theory is a claim about mechanism that a design must either instantiate or refute, and the field's standing rests on empirical and design work rather than on the coherence of a framework. The theory page is the one to open for what a framework asserts; this page is the one for the evidence a framework has accumulated.
+
+The field also builds theory rather than only testing borrowed frameworks: [[theory-development-aied]] covers the conceptual work that explains how learners, teachers and AI systems interact, and it is where the field's own constructs are argued before they are measured. What its designs are usually asked to produce is [[transfer-of-learning|transfer]] — knowledge and skill that survive past the tutor, subject or task they were learned in — which is why a gain measured inside a tool counts as a weaker claim than one measured without it. And because a designed environment is a compound intervention, attributing an outcome to one component is the field's standing measurement problem: [[educational-measurement]] supplies the psychometric apparatus that makes the attribution arguable at all, which is why measurement questions arrive early here rather than after the fact.
+
+[[cognitive-psychology]] is the mechanism-level discipline the field draws on most heavily, supplying bounded working memory, encoding and retrieval, decomposable knowledge components and the diagnostic language of learner modelling. The learning sciences use those mechanisms without reducing to them: their unit of analysis is a designed environment carrying social, motivational and contextual variables that a laboratory account of memory does not, and their tests are run on whole interventions rather than on isolated cognitive effects.
+
+[[pedagogy]] and [[learning-design]] cover practice — which teaching strategy to use, and how to sequence objectives, activities and assessment into a course. Both are what the learning sciences study from the outside, as objects of description and evaluation; the field does not tell a teacher which tactic to reach for next, it reports what the tactics have been shown to do. Learning design is the closer relative, since both produce something that can be implemented and tested, but the designer's output is a teachable course and the field's output is knowledge about designs in general.
+
+The findings only matter once they reach teaching, and that journey runs through three pages. [[educational-development]] is the institutional practice that carries them — faculty development, standards, policy and identity work decide whether a validated design ever reaches a classroom, which is why the field's evidence routinely leads what institutions have implemented. [[teacher-education]] is where the knowledge has to land before a teacher enters the room, and [[teacher-role]] is where it lands afterwards, in the moment-to-moment judgment about when to intervene, which instrument to use, and when to leave a learner alone. None of the three produces learning-science findings; all three decide whether those findings change practice.
+
 ## Connected Concepts
 
 - [[learning-theories]]
@@ -55,12 +69,18 @@ The learning sciences study learning and the design of learning environments, an
 - [[pedagogy]]
 - [[learning-design]]
 - [[research-methods-aied]]
+- [[theory-development-aied]]
+- [[design-based-research]]
+- [[teacher-education]]
+- [[educational-development]]
 - [[discipline-specific-aied]]
 - [[intelligent-tutoring]]
 - [[learning-analytics]]
 - [[assessment-validity]]
+- [[educational-measurement]]
 - [[cognitive-offloading]]
 - [[learning-gains]]
+- [[transfer-of-learning]]
 - [[teacher-role]]
 - [[equity-in-ai-education]]
 - [[educational-policy-ai]]
