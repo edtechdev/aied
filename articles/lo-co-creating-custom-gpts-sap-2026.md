@@ -1,7 +1,7 @@
 ---
 title: "Co-creating custom GPTs: an autoethnographic study of undergraduate students as partners in generative AI innovation"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-08-31T09:58:42-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [pedagogical-partnerships, generative-ai, ai-literacy, student-ai-interaction, higher-ed, agency, human-ai-collaboration, collaborative-learning, qualitative-research]
 sources: ['raw/papers/lo-co-creating-custom-gpts-sap-2026.md']
@@ -16,7 +16,7 @@ Much early discourse around [[generative-ai]] in [[higher-ed]] positioned studen
 
 ## Co-Creating Unit-Specific Chatbots
 
-Students partnered with academics to build custom GPT chatbots specialised for the content and [[learning-gains|learning outcomes]] of specific units, working through an iterative cycle of design, tailoring, testing, and optimisation. This arrangement extends SaP beyond curriculum co-creation into the co-development of [[human-ai-collaboration|AI tools]], a domain where student co-creation without formal [[cs-education|computer science]] training remains nascent. The authors draw on [[pedagogical-partnerships|participatory design]] traditions and on legitimate peripheral participation to frame how students' learner expertise was combined with academics' disciplinary and pedagogical knowledge to produce trustworthy, context-sensitive tools.
+Students partnered with academics to build custom GPT chatbots specialized for the content and [[learning-gains|learning outcomes]] of specific units, working through an iterative cycle of design, tailoring, testing, and optimization. This arrangement extends SaP beyond curriculum co-creation into the co-development of [[human-ai-collaboration|AI tools]], a domain where student co-creation without formal [[cs-education|computer science]] training remains nascent. The authors draw on [[pedagogical-partnerships|participatory design]] traditions and on legitimate peripheral participation to frame how students' learner expertise was combined with academics' disciplinary and pedagogical knowledge to produce trustworthy, context-sensitive tools.
 
 ## Themes From Student Reflections
 

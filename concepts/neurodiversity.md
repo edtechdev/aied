@@ -1,7 +1,7 @@
 ---
 title: Neurodiversity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [special-education, inclusive-learning, student-experience, equity-in-ai-education, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -28,7 +28,7 @@ The neurodiversity paradigm shifts the goal of [[special-education]] and [[acces
 
 [[generative-ai|Generative AI]] offers both promise and risk for neurodivergent learners. On the promise side, AI can provide alternative means of engagement, representation, and expression — supporting learners who struggle with conventional text, executive function, or social expectations — and can reduce cognitive load through [[personalized-learning]]. On the risk side, AI tools that assume a dominant communication style, or that encourage dependency, can disadvantage or undermine neurodivergent learners. [[research-methods-aied|Research]] on [[student-experience]] and [[ai-misuse-learning-harm]] suggests AI must be designed inclusively or it recapitulates [[equity-in-ai-education]] gaps. A 2026 interdisciplinary [[meta-analysis-systematic-review|systematic review]] of AI for students with [[special-education|dyslexia]] (Dabaghi, D'Urso & Sciarrone) illustrates both the promise and the fragmentation: AI is used for detection, assistive support, and personalized learning, yet these strands evolve in parallel rather than in integration, and the field is driven more by technological opportunity than by consolidated educational theory. Detection research (EEG, eye-tracking, ML models) shows diagnostic promise for early intervention but often requires specialized equipment and controlled environments, limiting scalability in typical school settings — a reminder that neurodiversity-affirming support must be practical and embedded, not just technically sophisticated. Understanding a learner's neurotype is also essential for interpreting behavior signals in [[learning-analytics]] and [[student-modeling]].
 
-A 2026 scoping review of digital assistive [[ai-technologies|technologies]] for neurodivergent higher-education students finds the field reorganised around generative AI — it appears in 15 of 40 included studies, with [[virtual-and-augmented-reality|virtual reality]] second at 11 — and argues that the dominant pattern of individual accommodation and neurotype-specific tools organised around formal diagnosis cannot address functional differences that cut across neurotypes. Its recommendations are universal design and participatory development, plus a warning that the most immersive tools are also the least scalable ([[digital-assistive-technologies-neurodivergent-students-2026|Rempel et al., 2026]]).
+A 2026 scoping review of digital assistive [[ai-technologies|technologies]] for neurodivergent higher-education students finds the field reorganised around generative AI — it appears in 15 of 40 included studies, with [[virtual-and-augmented-reality|virtual reality]] second at 11 — and argues that the dominant pattern of individual accommodation and neurotype-specific tools organized around formal diagnosis cannot address functional differences that cut across neurotypes. Its recommendations are universal design and participatory development, plus a warning that the most immersive tools are also the least scalable ([[digital-assistive-technologies-neurodivergent-students-2026|Rempel et al., 2026]]).
 
 ### Connections
 

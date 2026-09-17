@@ -1,7 +1,7 @@
 ---
 title: "Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, situated-learning, curriculum-design, learning-design, k-12, experiential-learning, generative-ai]
 audience: [instructors]
@@ -12,11 +12,11 @@ sources: ['raw/papers/panciroli-ai-literacy-episodes-situated-learning.md']
 confidence: high
 ---
 
-> **Synthesis:** Panciroli, Allegra, Gentile & Rivoltella propose a framework for curricular AI literacy integration built on the **Episode of Situated Learning (ESL)** instrument. ESL is an active [[teacher-role|teaching]] device organized around three verbs — *anticipate, produce, reflect* — that operates at both the micro level (lesson planning) and macro level ([[curriculum-design|curriculum]] construction). The authors situate AI literacy within the broader landscape of new literacies (media, information, data, AI), draw on European AI competence frameworks (EU Digital Education Action Plan, de la Higuera's five pillars, DigComp 2.2), and distinguish direct didactics of AI (learning how AI works) from indirect teaching of AI (learning to collaborate with AI). Both levels fall under an educational mode of "explainability" centred on social interaction and school-community participation.
+> **Synthesis:** Panciroli, Allegra, Gentile & Rivoltella propose a framework for curricular AI literacy integration built on the **Episode of Situated Learning (ESL)** instrument. ESL is an active [[teacher-role|teaching]] device organized around three verbs — *anticipate, produce, reflect* — that operates at both the micro level (lesson planning) and macro level ([[curriculum-design|curriculum]] construction). The authors situate AI literacy within the broader landscape of new literacies (media, information, data, AI), draw on European AI competence frameworks (EU Digital Education Action Plan, de la Higuera's five pillars, DigComp 2.2), and distinguish direct didactics of AI (learning how AI works) from indirect teaching of AI (learning to collaborate with AI). Both levels fall under an educational mode of "explainability" centered on social interaction and school-community participation.
 
 ## AI literacy within the new literacies landscape
 
-The paper situates [[ai-education|AI education]] within the broader evolution of literacy concepts, following the New London Group's multiliteracy framework. It distinguishes at least four specific literacies with distinct competences: **media literacy** (comprehension of media messages), **information literacy** (finding, analysing, using, sharing information), **data literacy** (understanding the reality of data and developing reflexive, critical interaction with it), and **AI literacy** (knowing, understanding, using, applying, evaluating, and creating AI). AI literacy thus sits within a family of related, mutually-reinforcing [[ai-literacy|literacies]] rather than as a standalone skill.
+The paper situates [[ai-education|AI education]] within the broader evolution of literacy concepts, following the New London Group's multiliteracy framework. It distinguishes at least four specific literacies with distinct competences: **media literacy** (comprehension of media messages), **information literacy** (finding, analyzing, using, sharing information), **data literacy** (understanding the reality of data and developing reflexive, critical interaction with it), and **AI literacy** (knowing, understanding, using, applying, evaluating, and creating AI). AI literacy thus sits within a family of related, mutually-reinforcing [[ai-literacy|literacies]] rather than as a standalone skill.
 
 ## European AI competence frameworks
 
@@ -31,7 +31,7 @@ The paper distinguishes two ways AI enters teaching:
 - **Direct didactics of AI** — fostering knowledge of AI definitions, vocabulary, fields of application, and modes of operation; essentially building AI literacy so students use these technologies consciously (e.g., learning how [[reinforcement-learning|machine learning]] works, how AI is trained, how data is used).
 - **Indirect teaching of AI** — leading students to recognize and use AI applications to solve a problem or achieve a goal, learning to collaborate with AI to improve the teaching/learning process.
 
-Both levels operate under the educational mode of **Explainability**, in which a teaching activity is designed within a soliciting educational environment centred on social interactions, initiating a process of "AI culture" in the school community.
+Both levels operate under the educational mode of **Explainability**, in which a teaching activity is designed within a soliciting educational environment centered on social interactions, initiating a process of "AI culture" in the school community.
 
 ## The Episode of Situated Learning (ESL) instrument
 
@@ -39,7 +39,7 @@ ESL is an active teaching instrument built on three verbs — **anticipate** (st
 
 ## Educational significance
 
-This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated learning]] theory as a curricular design strategy. It positions AI competence as something to be developed through active, situated episodes rather than abstract instruction, bridging technical and non-technical disciplines. The "Post-AI Humanism" pillar links to the broader [[philosophy-of-ai-in-education|philosophy of AI in education]] discussion, while the direct/indirect distinction and explainability mode connect to [[learning-design]] and [[k-12|K-12]].
+This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated learning]] theory as a curricular design strategy. It positions AI competence as something to be developed through active, situated episodes rather than abstract instruction, bridging technical and non-technical disciplines. The "Post-AI Humanism" pillar links to the broader [[philosophy-of-ai-in-education|philosophy of AI in education]] discussion, while the direct/indirect distinction and explainability mode connect to [[learning-design]] and [[k-12]].
 
 ## Key Findings
 

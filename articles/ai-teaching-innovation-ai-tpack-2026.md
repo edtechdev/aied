@@ -1,7 +1,7 @@
 ---
 title: "AI Teaching Innovation Behavior Among College Teachers: A Structural Equation Modeling Analysis Based on the AI-TPACK Framework, Teaching Self-Efficacy, Professional Identity, and AI Literacy"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [teacher-role, teacher-education, ai-literacy, technology-acceptance-model, higher-ed, ai-education]
 connected_faqs: [faculty-development-ai]
@@ -11,7 +11,7 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1834827.md']
 confidence: high
 ---
 
-> **Synthesis:** Bai and Hsieh (2026) set out to explain why some college teachers build genuinely new teaching practice around generative AI while others only adopt the tools. Drawing on the AI-[[tpack|AI-TPACK]] competence framework, Social Cognitive Theory, and professional identity theory, they surveyed 898 Chinese university teachers and modelled the paths from AI-related competence to AI teaching innovation behavior. Technical AI knowledge on its own did not predict innovation; what mattered was competence embedded in pedagogy and subject matter, working through [[ai-literacy]] and [[learner-identity|professional identity]].
+> **Synthesis:** Bai and Hsieh (2026) set out to explain why some college teachers build genuinely new teaching practice around generative AI while others only adopt the tools. Drawing on the AI-[[tpack|AI-TPACK]] competence framework, Social Cognitive Theory, and professional identity theory, they surveyed 898 Chinese university teachers and modeled the paths from AI-related competence to AI teaching innovation behavior. Technical AI knowledge on its own did not predict innovation; what mattered was competence embedded in pedagogy and subject matter, working through [[ai-literacy]] and [[learner-identity|professional identity]].
 
 ## Key Findings
 
@@ -31,13 +31,13 @@ confidence: high
 
 The study surveyed 898 Chinese university teachers from eight comprehensive universities across eastern, central, and western China, recruited by convenience sampling through an online platform. Because the target population included anyone with active teaching responsibilities, the sample spans teaching assistants and junior staff as well as lecturers and professors, and skews young: most respondents held bachelor's or master's degrees and a large share were early in their careers.
 
-Participants completed established scales covering the seven AI-TPACK knowledge dimensions, teaching self-efficacy, professional identity, AI literacy, and self-reported AI teaching innovation behavior, with all instruments translated and contextually adapted for AI-supported teaching. The authors analysed the data with partial least squares structural equation modelling, testing a multiple-mediation model and then running a multi-group comparison between teachers who used GenAI daily and those who used it monthly, rarely, or never. They controlled for age, educational level, and professional title, and checked the usual measurement properties — reliability, convergent and discriminant validity, multicollinearity, and common method bias — before interpreting the structural paths.
+Participants completed established scales covering the seven AI-TPACK knowledge dimensions, teaching self-efficacy, professional identity, AI literacy, and self-reported AI teaching innovation behavior, with all instruments translated and contextually adapted for AI-supported teaching. The authors analyzed the data with partial least squares structural equation modeling, testing a multiple-mediation model and then running a multi-group comparison between teachers who used GenAI daily and those who used it monthly, rarely, or never. They controlled for age, educational level, and professional title, and checked the usual measurement properties — reliability, convergent and discriminant validity, multicollinearity, and common method bias — before interpreting the structural paths.
 
 ## Implications for AI in Education
 
 - **Technical AI training is not enough.** The finding that isolated AI knowledge fails to predict innovation is the study's most practical result. [[educational-development|Faculty development]] should run problem-oriented redesign workshops where teachers work through goal-setting, tool selection, activity design, and assessment for a real course, rather than sessions that teach how GenAI tools work in the abstract.
 
-- **Invest in [[ai-literacy]] as the highest-leverage mediator.** Because AI literacy carried the largest share of the effect and also strengthened confidence and identity, professional development should emphasise ethical evaluation, contextual judgement, and pedagogical adaptation of AI outputs — not just tool operation.
+- **Invest in [[ai-literacy]] as the highest-leverage mediator.** Because AI literacy carried the largest share of the effect and also strengthened confidence and identity, professional development should emphasise ethical evaluation, contextual judgment, and pedagogical adaptation of AI outputs — not just tool operation.
 
 - **Strengthen professional identity explicitly.** Framing AI integration as an extension of teaching responsibility, and clarifying how the [[teacher-role]] changes in AI-mediated instruction, may do more to sustain innovation than any amount of tooling support. Institutions can reinforce this through peer-sharing platforms and visible AI teaching cases.
 
@@ -50,7 +50,7 @@ Participants completed established scales covering the seven AI-TPACK knowledge 
 - **Convenience sample and self-selection.** Voluntary participation likely attracted teachers already interested in AI and more positively disposed toward innovation, and the sample is drawn from eight Chinese universities only, limiting transferability to other higher education systems.
 - **Cross-sectional design.** The data cannot establish causal ordering; the authors note that teachers who already innovate may simply report higher competence, identity, and efficacy, so the paths may run in both directions.
 - **[[self-report-measures|Self-reported]] data only.** All focal constructs came from the same respondents at the same time, and the innovation scale retained the wording of a general innovation measure, so some responses may reflect innovative teaching in general rather than AI-specific innovation.
-- **No institutional-level controls.** University policy support, digital infrastructure, AI training provision, and organisational climate were not measured, though they plausibly shape whether competence becomes practice, and respondents were nested within universities.
+- **No institutional-level controls.** University policy support, digital infrastructure, AI training provision, and organizational climate were not measured, though they plausibly shape whether competence becomes practice, and respondents were nested within universities.
 - **The multi-group finding is borderline and the grouping is coarse.** The high/low usage split lumps "several times a month" together with "never," which may both weaken real group differences and, where they appear, rest on only one marginally significant path coefficient.
 
 ## Connected Concepts

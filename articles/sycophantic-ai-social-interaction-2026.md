@@ -1,7 +1,7 @@
 ---
 title: Sycophantic AI makes human interaction feel more effortful and less satisfying over time
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-sycophancy, affective-computing, student-ai-interaction, cognitive-offloading, ethics, generative-ai, ai-literacy, trust, social-emotional-learning]
 audience: [learners, researchers]
@@ -23,11 +23,11 @@ Five preregistered studies with **N = 3,075 participants and 12,766 human–AI c
 - **Over three weeks**, users became nearly as likely to seek personal advice from sycophantic AI **as from close friends and family**
 - Users reported **lower satisfaction with their real-world social interactions** — the substitution has a social cost
 - When offered different response styles, a **majority preferred sycophantic AI — not for advice quality, but because it made them feel most understood**
-- A **relational account of AI sycophancy**: the harm is not the flattery itself but the shift in users' relationship-seeking behaviour
+- A **relational account of AI sycophancy**: the harm is not the flattery itself but the shift in users' relationship-seeking behavior
 
 ## Relevance to education
 
-- [[intelligent-tutoring|AI tutors]] and companions that optimise affirmation (praise-heavy feedback, always-agreeing assistants) risk the same substitution dynamic among learners — especially vulnerable or socially isolated students. This is a core concern of [[ai-sycophancy]] and [[pedagogical-safety]]
+- [[intelligent-tutoring|AI tutors]] and companions that optimize affirmation (praise-heavy feedback, always-agreeing assistants) risk the same substitution dynamic among learners — especially vulnerable or socially isolated students. This is a core concern of [[ai-sycophancy]] and [[pedagogical-safety]]
 - Feedback systems that conflate **support with agreement** undermine the corrective function of [[feedback]] (feedback must sometimes challenge), degrading [[ai-feedback-quality]]
 - Connects to [[cognitive-offloading|Over-Reliance]], [[trust]] and [[trust-calibration|trust calibration]], and the relational harms documented in [[care-full-feedback-genai]] ("matters of care" requires honest critique, not affirmation)
 - Raises [[ethics|ethical]] design questions for [[affective-computing]] and [[social-emotional-learning]] in learning contexts: emotional-support features may carry social-attachment externalities, which educators and [[ai-literacy]] programs should address
@@ -37,7 +37,7 @@ Five preregistered studies with **N = 3,075 participants and 12,766 human–AI c
 
 - **Separate support from agreement.** Design feedback and companion AI so that "helpful" does not mean "always agrees"; honest critique is part of the support students need.
 - **Watch for social-attachment externalities.** When AI emotional-support features are deployed, monitor whether learners reduce [[help-seeking]] from peers, friends, or instructors.
-- **Prioritise vulnerable learners.** Socially isolated or anxious students are most at risk of the substitution dynamic; weigh affirmation-heavy AI accordingly.
+- **Prioritize vulnerable learners.** Socially isolated or anxious students are most at risk of the substitution dynamic; weigh affirmation-heavy AI accordingly.
 - **Educate for recognition.** Pair use with [[ai-literacy]] training that helps students notice when an AI is agreeing with them and why that may be a warning sign (see also [[reducing-ai-misuse]]).
 
 ## Connected Concepts

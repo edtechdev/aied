@@ -1,7 +1,7 @@
 ---
 title: Explainable AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, learning-analytics, automated-assessment, bias-mitigation, intelligent-tutoring, human-in-the-loop-ai, pedagogical-safety, metacognition, student-modeling]
 audience: [learners, researchers, designers, educators]
@@ -58,7 +58,7 @@ A recurring lesson across the evidence: **having an explanation is not enough**;
 - **Over-trust** — fluent explanations can create false confidence in flawed systems, feeding [[cognitive-offloading|over-reliance]] (the obverse of [[trust-calibration]]).
 - **Gaming the system** — students may exploit explanations to circumvent actual learning.
 
-Explanation quality also has an equity dimension: an explanation that is technically present but unreadable to a given stakeholder — or that obscures the [[bias-mitigation|bias]] in a prediction — fails its purpose. This is why the design question is *quality and fit*, and why human-centred, stakeholder-specific explanation design is inseparable from the technical generation of explanations. Effective XAI is a communication act designed for the recipient's cognitive needs, not merely a technical artifact.
+Explanation quality also has an equity dimension: an explanation that is technically present but unreadable to a given stakeholder — or that obscures the [[bias-mitigation|bias]] in a prediction — fails its purpose. This is why the design question is *quality and fit*, and why human-centered, stakeholder-specific explanation design is inseparable from the technical generation of explanations. Effective XAI is a communication act designed for the recipient's cognitive needs, not merely a technical artifact.
 
 ## Connected Concepts
 - [[trust-calibration]]

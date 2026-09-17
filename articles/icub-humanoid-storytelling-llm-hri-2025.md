@@ -1,7 +1,7 @@
 ---
 title: "Would You Let a Humanoid Play Storytelling With Your Child? A Usability Study on LLM-Powered Narrative Human-Robot Interaction"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-25T13:45:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [educational-robotics, llm, storytelling-in-education, early-childhood-elementary-ai-education, usability-research]
 level: [early childhood]
@@ -9,10 +9,10 @@ research_method: [user study]
 sources: ['raw/papers/lombardi-humanoid-storytelling-child-2025.md']
 confidence: medium
 ---
-> **Synthesis:** Lombardi et al. (2025) present a framework for enhancing the attention and social capability of the iCub humanoid robot by integrating advanced perceptual abilities that recognize social cues, understand surroundings through generative models such as ChatGPT, and respond with contextually appropriate social behaviour. They implement an interaction task using a narrative ([[storytelling-in-education|storytelling]]) protocol in which a human and the robot co-create a short imaginary story, exchanging cubes with creative images. Experiments quantify the [[usability-research|usability]] and quality of experience perceived by participants interacting with the LLM-powered narrative human-robot interaction system.
+> **Synthesis:** Lombardi et al. (2025) present a framework for enhancing the attention and social capability of the iCub humanoid robot by integrating advanced perceptual abilities that recognize social cues, understand surroundings through generative models such as ChatGPT, and respond with contextually appropriate social behavior. They implement an interaction task using a narrative ([[storytelling-in-education|storytelling]]) protocol in which a human and the robot co-create a short imaginary story, exchanging cubes with creative images. Experiments quantify the [[usability-research|usability]] and quality of experience perceived by participants interacting with the LLM-powered narrative human-robot interaction system.
 ## Key Findings
 - A key challenge in human-robot interaction is developing systems that can **perceive and interpret social cues** to enable natural, adaptive interactions.
-- The framework integrates **generative models (e.g., ChatGPT)** so the iCub humanoid can understand its surroundings and respond with contextually appropriate social behaviour.
+- The framework integrates **generative models (e.g., ChatGPT)** so the iCub humanoid can understand its surroundings and respond with contextually appropriate social behavior.
 - The **storytelling task** has human and robot co-create an imaginary story by exchanging image-cubes, supporting collaborative narrative interaction.
 - The study **validates the protocol and framework** through usability and quality-of-experience measurement with participants.
 ## Study Design & Method

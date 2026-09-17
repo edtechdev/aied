@@ -1,7 +1,7 @@
 ---
 title: "A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints"
 created: "2026-05-26T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [metacognition, professional-training, adaptive-learning, lifelong-learning, scaffolding, self-regulated-learning, llm]
 research_method: [theoretical analysis]
@@ -40,7 +40,7 @@ The taxonomy enables targeted, scenario-specific professional development interv
 
 - [[curiobot-llm-tutoring-exploratory-learning]] — Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritize Learning over Performance
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
 

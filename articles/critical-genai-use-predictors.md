@@ -1,7 +1,7 @@
 ---
 title: GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, higher-ed, student-experience, cognitive-offloading, learning-theories, metacognition]
 research_method: [survey, quantitative]
@@ -12,11 +12,11 @@ sources: ['raw/papers/mdpi-2026-critical-genai-use-predictors.md']
 confidence: high
 ---
 
-> **Synthesis:** A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, Bielefeld University) testing two **protective factors against uncritical [[generative-ai|GenAI]] [[cognitive-offloading|overreliance]]**: (1) **knowledge about genAI** and (2) the **disposition to engage in [[critical-thinking|critical thinking]]** — operationalised via Kuhn's framework as *epistemic orientation* (tendency away from absolutist toward evaluativist beliefs) and *intellectual values* (viewing intellectual [[student-engagement|engagement]] as worthwhile). Both factors are framed as components of [[ai-literacy|AI literacy]] and both are trainable, motivating intervention recommendations.
+> **Synthesis:** A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, Bielefeld University) testing two **protective factors against uncritical [[generative-ai|GenAI]] [[cognitive-offloading|overreliance]]**: (1) **knowledge about genAI** and (2) the **disposition to engage in [[critical-thinking|critical thinking]]** — operationalized via Kuhn's framework as *epistemic orientation* (tendency away from absolutist toward evaluativist beliefs) and *intellectual values* (viewing intellectual [[student-engagement|engagement]] as worthwhile). Both factors are framed as components of [[ai-literacy|AI literacy]] and both are trainable, motivating intervention recommendations.
 
 ## Method highlights
 
-- **Critical use of genAI** measured with a newly developed 10-item scale (α = 0.78) covering validation behaviours (cross-checking outputs, verifying factual accuracy, comparing with literature).
+- **Critical use of genAI** measured with a newly developed 10-item scale (α = 0.78) covering validation behaviors (cross-checking outputs, verifying factual accuracy, comparing with literature).
 - **Knowledge measured two ways** — the study's key [[research-methods-aied|methodological]] contribution: *self-reported* (18 SNAIL items, α = 0.90) AND *objective/performance-based* (12 items from Köhler & Hartig's ChatGPT scale + Hornberger et al.'s AI literacy test), each objective item paired with a certainty rating to compute a **misconception score** (correctness × certainty; Eitel/Hefter procedure).
 - Dispositions: epistemic orientation (5 items, α = 0.70), intellectual values (14 fictive-person items, α = 0.90), plus need for cognition (NFC, 4-item short scale, α = 0.54).
 
@@ -37,14 +37,14 @@ confidence: high
 
 ### Exploratory — need for cognition (NFC)
 - Actual genAI use correlated only with **interest** (r = 0.54) and **perceived usefulness** (r = 0.58) — not with knowledge or dispositions.
-- **Perceived usefulness negatively correlated with NFC** (r = −0.27, p = 0.027): high-NFC students view GenAI utility more sceptically.
-- **NFC positively correlated with critical use** (r = 0.25, p = 0.044): the [[motivation|motivational]] drive to invest cognitive effort bridges AI literacy and actual critical behaviour.
+- **Perceived usefulness negatively correlated with NFC** (r = −0.27, p = 0.027): high-NFC students view GenAI utility more skeptically.
+- **NFC positively correlated with critical use** (r = 0.25, p = 0.044): the [[motivation|motivational]] drive to invest cognitive effort bridges AI literacy and actual critical behavior.
 
 ## Implications
 
 - Institutions should move **beyond basic tool training**: target conceptual misconceptions (e.g. via refutation texts), foster epistemic orientation and intellectual values (video-based interventions shown effective in prior Hefter work), and consider NFC when designing interventions (low-NFC learners may need extra incentives like feedback/interactivity).
 - Knowledge about **human learning** ([[metacognition|metacognitive]] understanding of [[cognitive-offloading|cognitive offloading]] costs) is proposed as an additional "meta-knowledge" predictor worth studying.
-- Limitations: small psychology-only sample (88% female), self-report critical-use scale, correlational design (no causality), and the risk that static knowledge-test items go stale as tools evolve — future work should use performance-based measures like the GLAT and objective behaviour logs, and experimental/longitudinal designs.
+- Limitations: small psychology-only sample (88% female), self-report critical-use scale, correlational design (no causality), and the risk that static knowledge-test items go stale as tools evolve — future work should use performance-based measures like the GLAT and objective behavior logs, and experimental/longitudinal designs.
 
 ## Connected Concepts
 - [[cognitive-offloading]]

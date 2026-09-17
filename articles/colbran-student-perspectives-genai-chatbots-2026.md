@@ -1,7 +1,7 @@
 ---
 title: "Understanding student perspectives on generative AI chatbots: a human-centred mixed-methods study in higher education"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-08-23T14:00:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [conversational-ai, student-experience, generative-ai, higher-ed, ai-literacy, academic-integrity, pedagogical-agent, student-ai-interaction, learning-design]
 research_method: [mixed methods]
@@ -12,7 +12,7 @@ sources: ['raw/papers/colbran-student-perspectives-genai-chatbots-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Colbran, Jha, and Schiavone examined how students perceive, use, and evaluate generative AI chatbots in higher education, combining chatbot system analytics with a [[mixed-methods-research|mixed-methods]] survey (n=121) around the "Jordan Chatbot," a human-centred [[pedagogical-agent|pedagogical agent]] built on GPT-4o within a learning management system. Students held generally positive attitudes toward chatbots and perceived gains in knowledge and understanding while strongly supporting academic-integrity requirements; usage analytics confirmed 24/7 needs, with 36.8% of interactions occurring after hours. AI literacy, rather than general technology experience, was associated with willingness and confidence to use chatbots, and usability (the intrusive pop-up design) was the biggest barrier among non-users. The study recommends human-centred design, explicit [[educational-policy-ai|AI policies]] and [[assessment]] labels, staff and student training, and continuous monitoring of errors.
+> **Synthesis:** Colbran, Jha, and Schiavone examined how students perceive, use, and evaluate generative AI chatbots in higher education, combining chatbot system analytics with a [[mixed-methods-research|mixed-methods]] survey (n=121) around the "Jordan Chatbot," a human-centered [[pedagogical-agent|pedagogical agent]] built on GPT-4o within a learning management system. Students held generally positive attitudes toward chatbots and perceived gains in knowledge and understanding while strongly supporting academic-integrity requirements; usage analytics confirmed 24/7 needs, with 36.8% of interactions occurring after hours. AI literacy, rather than general technology experience, was associated with willingness and confidence to use chatbots, and usability (the intrusive pop-up design) was the biggest barrier among non-users. The study recommends human-centered design, explicit [[educational-policy-ai|AI policies]] and [[assessment]] labels, staff and student training, and continuous monitoring of errors.
 
 ## Core Finding
 
@@ -20,7 +20,7 @@ Students see generative AI chatbots as valuable supplementary tools that complem
 
 ## Design and Deployment
 
-The Jordan Chatbot was designed as a human-centred [[pedagogy|pedagogical]] agent grounded in [[constructivist]] and socio-cultural [[learning-theories|learning theory]], built on GPT-4o and integrating system instructions, a curated knowledge base of disciplinary and [[governance|institutional]] materials, and an embedded LMS interface. Situated within authentic disciplinary contexts (Australian criminal law), the design aligns with [[situated-learning|situated learning]] theory and Vygotsky's [[sociocultural-learning|zone of proximal development]], positioning the chatbot as a mediating tool that extends, but does not replace, teacher guidance. Transparent policies, [[ethics|ethical]] parameters, and user control reflect human-centred design principles and responsible AI frameworks, with restrictions on answering assessment-related questions to safeguard academic integrity.
+The Jordan Chatbot was designed as a human-centered [[pedagogy|pedagogical]] agent grounded in [[constructivist]] and socio-cultural [[learning-theories|learning theory]], built on GPT-4o and integrating system instructions, a curated knowledge base of disciplinary and [[governance|institutional]] materials, and an embedded LMS interface. Situated within authentic disciplinary contexts (Australian criminal law), the design aligns with [[situated-learning|situated learning]] theory and Vygotsky's [[sociocultural-learning|zone of proximal development]], positioning the chatbot as a mediating tool that extends, but does not replace, teacher guidance. Transparent policies, [[ethics|ethical]] parameters, and user control reflect human-centered design principles and responsible AI frameworks, with restrictions on answering assessment-related questions to safeguard academic integrity.
 
 ## Student Attitudes and Usage
 
@@ -32,7 +32,7 @@ Five significant reasons for non-use emerged: lack of training, concerns about t
 
 ## Relevance to the knowledge base
 
-This paper gives the knowledge base rich, real-world evidence on [[student-ai-interaction]] and [[student-experience]] with [[conversational-ai]] in [[higher-ed]], showing how [[ai-literacy]] — not just general digital proficiency — shapes adoption of [[generative-ai]] [[pedagogical-agent|pedagogical agents]]. Its attention to [[academic-integrity]] fears and trust connects to the knowledge base's coverage of [[reducing-ai-misuse|reducing AI misuse]], while its human-centred design recommendations inform [[learning-design]] and the conditions under which chatbots equitably complement human instruction.
+This paper gives the knowledge base rich, real-world evidence on [[student-ai-interaction]] and [[student-experience]] with [[conversational-ai]] in [[higher-ed]], showing how [[ai-literacy]] — not just general digital proficiency — shapes adoption of [[generative-ai]] [[pedagogical-agent|pedagogical agents]]. Its attention to [[academic-integrity]] fears and trust connects to the knowledge base's coverage of [[reducing-ai-misuse|reducing AI misuse]], while its human-centered design recommendations inform [[learning-design]] and the conditions under which chatbots equitably complement human instruction.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "AI as an Agent and Collaborative Space: Exploring the role of generative AI in small group synchronous and asynchronous collaborative dynamics"
 created: "2026-09-02T10:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [collaborative-learning, distributed-cognition, human-ai-collaboration, conversational-ai, higher-ed, generative-ai, student-experience]
 connected_faqs: [group-work-ai]
@@ -14,7 +14,7 @@ confidence: high
 
 ---
 
-> **Synthesis:** **AI as an Agent and Collaborative Space.** A qualitative study by Haowei Xu, Ahmed Kharrufa, Ellis Solaiman & Vasilis Vlachokyriakos (2026) examining how [[generative-ai|generative AI]] shapes small-group collaboration through observations and interviews with **27 higher-education students**. Through a [[distributed-cognition|distributed cognition]] lens, the study finds a stark contrast: in **synchronous** settings with a single shared GenAI interface, teams maintain shared awareness, co-construct prompts, treat the chat as shared external memory, and openly negotiate AI's role — whereas in **asynchronous** teamwork GenAI is used individually, with outputs selectively rewritten or "de-labelled" before being shared, making AI's influence on decisions opaque and harder to trace. The paper proposes a **GenAI-Supported Cooperative Work (GSCW)** perspective, framing GenAI as both a configurable agent (from individual assistant to team member) and an interactive collaborative space.
+> **Synthesis:** **AI as an Agent and Collaborative Space.** A qualitative study by Haowei Xu, Ahmed Kharrufa, Ellis Solaiman & Vasilis Vlachokyriakos (2026) examining how [[generative-ai|generative AI]] shapes small-group collaboration through observations and interviews with **27 higher-education students**. Through a [[distributed-cognition|distributed cognition]] lens, the study finds a stark contrast: in **synchronous** settings with a single shared GenAI interface, teams maintain shared awareness, co-construct prompts, treat the chat as shared external memory, and openly negotiate AI's role — whereas in **asynchronous** teamwork GenAI is used individually, with outputs selectively rewritten or "de-labeled" before being shared, making AI's influence on decisions opaque and harder to trace. The paper proposes a **GenAI-Supported Cooperative Work (GSCW)** perspective, framing GenAI as both a configurable agent (from individual assistant to team member) and an interactive collaborative space.
 
 ## Overview
 
@@ -28,7 +28,7 @@ GenAI systems are designed for single-user interaction, yet they are increasingl
 
 ## Key findings
 
-- **Access configuration shapes information flow.** With a shared, visible interface, teams co-constructed "collective prompts" and ran a recurring surface–evaluate–embed cycle, sustaining common ground. In asynchronous settings, private, fragmented prompting and output de-labelling produced opaque, privatised information flows that raised the cost of maintaining a shared cognitive model.
+- **Access configuration shapes information flow.** With a shared, visible interface, teams co-constructed "collective prompts" and ran a recurring surface–evaluate–embed cycle, sustaining common ground. In asynchronous settings, private, fragmented prompting and output de-labeling produced opaque, privatised information flows that raised the cost of maintaining a shared cognitive model.
 - **Awareness must extend to the AI.** GenAI is cognitively involved but contextually unaware of the team's shifting focus — a paradox that forces teams to constantly repair drift between the AI's limited awareness and the actual collaborative trajectory. Future systems need AI aware of group state and, with multiple agents, aware of each other.
 - **Roles are negotiated, not fixed.** GenAI's role shifted from subordinate assistant to contested teammate depending on context and proactivity expectations; teams debated and constrained AI influence to ensure alignment and accountability.
 - **Design direction — permeable boundaries with directional context.** Team-level AI should pass shared context into personal AI spaces, but insights generated privately should not auto-flow back to the group; humans stay in control of what becomes part of the shared record.

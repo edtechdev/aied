@@ -1,7 +1,7 @@
 ---
 title: RCT
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, research-methods-aied]
 research_method: [research methods, experiment]
@@ -25,7 +25,7 @@ Randomization is what distinguishes an RCT from other designs: by randomly assig
 
 ### How RCTs appear in the research
 
-- **Micro-RCTs as a response to fast-moving technology:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] argue that conventional large-scale trials cannot keep pace with tutoring platforms that change materially during a study, and use [[teacher-role|teacher]]-led micro-randomised controlled trials across English secondary schools (644 of 929 students completing post-testing, g = 0.33) to keep causal estimation repeatable. The trade-offs are stated in their own design: 30.7% attrition, [[curriculum-design|curriculum]]-aligned rather than independently standardised outcomes, and only four weeks of follow-up.
+- **Micro-RCTs as a response to fast-moving technology:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] argue that conventional large-scale trials cannot keep pace with tutoring platforms that change materially during a study, and use [[teacher-role|teacher]]-led micro-randomized controlled trials across English secondary schools (644 of 929 students completing post-testing, g = 0.33) to keep causal estimation repeatable. The trade-offs are stated in their own design: 30.7% attrition, [[curriculum-design|curriculum]]-aligned rather than independently standardized outcomes, and only four weeks of follow-up.
 - **Causal efficacy claims:** RCTs in AIED test whether an AI tutor, tool, or pedagogical treatment improves outcomes. [[generative-ai-education-productivity-gaps|A randomized experiment on generative AI]] with 1,174 participants found GenAI substantially narrows education-based productivity gaps, closing roughly three-quarters of the initial performance difference — a clear causal estimate of AI's effect.
 - **Comparison to the gold standard:** The [[research-methods-aied|research methods]] page situates RCTs as the strongest design for internal validity while noting their trade-offs — cost, artificial conditions, fast-changing AI, small underpowered samples, and ethical limits on withholding potentially helpful tools.
 
@@ -53,4 +53,4 @@ For the fuller treatment of experimental design in AI in education — including
 - [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
 - [[burneo-can-edtech-close-learning-gaps-2026]] — World Bank meta-analysis of 14 EdTech RCTs
 
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science

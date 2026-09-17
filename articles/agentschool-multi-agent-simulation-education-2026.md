@@ -1,7 +1,7 @@
 ---
 title: "AgentSchool: An LLM-Powered Multi-Agent Simulation for Education"
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [simulating-students, agentic-ai, adaptive-learning, sociocultural-learning, knowledge-graph, intelligent-tutoring, llm]
 audience: [software developers]
@@ -64,7 +64,7 @@ AgentSchool reframes student simulation as **stateful learning rather than role-
 
 - [[simulating-students-diverse-cognitive-levels-2025]] — Embracing Imperfection: Simulating Diverse Cognitive Levels
 - [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review
-- [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation
+- [[valid-student-simulation-llm-2026]] — Toward Valid Student Simulation
 - [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
 - [[history-aware-student-simulation]] — History-Aware Profiles for Student Simulation
 - [[llm-student-simulation-teacher-insights]] — Can LLMs Simulate Human Learners?

@@ -1,7 +1,7 @@
 ---
 title: Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-literacy, k-12, stem-education, equity-in-ai-education, student-experience, learning-analytics, llm]
 research_method: [survey]
@@ -46,7 +46,7 @@ For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive
 
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
 - [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
+- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analyzing Dyslexic Learners Insights from Online Forums
 - [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?

@@ -1,7 +1,7 @@
 ---
 title: "Motivation to shape the future of education with Artificial Intelligence: An international comparison between Switzerland and China"
 created: "2026-08-23T08:07:04-04:00"
-updated: "2026-08-23T15:00:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [motivation, teacher-education, generative-ai, higher-ed, ai-education]
 research_method: [survey]
@@ -18,7 +18,7 @@ The study extends the FIT-Choice model — grounded in expectancy-value theory �
 
 ## Swiss student teachers: social utility and intrinsic motivation
 
-Swiss student teachers were more motivated by social utility values — enhancing social [[equity-in-ai-education|equity]], making a social contribution, shaping the future of children and adolescents, and working with children and adolescents — and reported higher intrinsic motivation for teaching both generally and for their own subject. They also reported greater satisfaction with their career choice. This pattern aligns with an individualistic society that prioritizes personal growth and fulfilment, and the social-contribution motive is consistent with the strong civic [[student-engagement|engagement]] and volunteering associated with direct democracy. Swiss students also perceived the teaching profession as higher demand and requiring more expert knowledge than their Chinese counterparts.
+Swiss student teachers were more motivated by social utility values — enhancing social [[equity-in-ai-education|equity]], making a social contribution, shaping the future of children and adolescents, and working with children and adolescents — and reported higher intrinsic motivation for teaching both generally and for their own subject. They also reported greater satisfaction with their career choice. This pattern aligns with an individualistic society that prioritizes personal growth and fulfillment, and the social-contribution motive is consistent with the strong civic [[student-engagement|engagement]] and volunteering associated with direct democracy. Swiss students also perceived the teaching profession as higher demand and requiring more expert knowledge than their Chinese counterparts.
 
 ## Chinese student teachers: digital competence and AI enthusiasm
 
@@ -26,7 +26,7 @@ Chinese student teachers reported significantly higher perceived digital teachin
 
 ## Implications for teacher preparation
 
-The study highlights how [[sociocultural-learning|sociocultural]], economic, and technological contexts shape the motivations of future teachers and their willingness to shape the future of education with AI. Because Swiss and Chinese student teachers are motivated by different value systems — social contribution and intrinsic fulfilment versus digital readiness and systemically supported AI integration — [[ai-education|teacher-education]] programmes should be tailored to local contexts, balancing traditional social-utility values with digital and AI preparation. Limitations include self-report measures and the partial cross-cultural invariance of the instrument, meaning several factors require item refinement before broad comparative use.
+The study highlights how [[sociocultural-learning|sociocultural]], economic, and technological contexts shape the motivations of future teachers and their willingness to shape the future of education with AI. Because Swiss and Chinese student teachers are motivated by different value systems — social contribution and intrinsic fulfillment versus digital readiness and systemically supported AI integration — [[ai-education|teacher-education]] programs should be tailored to local contexts, balancing traditional social-utility values with digital and AI preparation. Limitations include self-report measures and the partial cross-cultural invariance of the instrument, meaning several factors require item refinement before broad comparative use.
 
 ## Connected Concepts
 

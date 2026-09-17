@@ -1,7 +1,7 @@
 ---
 title: "Agentic Generative AI in Higher Education: Perceived Benefits, Risks, and Implications for Learning"
 created: "2026-09-11T02:52:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [agentic-ai, generative-ai, higher-ed, human-in-the-loop-ai, governance, academic-integrity, trust, business-education, personalized-learning, pedagogical-agent, ai-use-disclosure]
 research_method: [design-based research, survey]
@@ -26,7 +26,7 @@ The premise is a distinction between [[generative-ai|generative AI]] as a produc
 | | Typical AI role | Main learning support | Key limitation or safeguard |
 |---|---|---|---|
 | Traditional e-learning | none | Instructor-designed content, activities, feedback, assessment | Limited real-time personalization and feedback |
-| GAI-chatbot-supported | prompt–response assistant | Explanation, summarization, ideation, drafting, feedback in isolated interactions | Learner remains responsible for sequencing, verification, and completion judgement |
+| GAI-chatbot-supported | prompt–response assistant | Explanation, summarization, ideation, drafting, feedback in isolated interactions | Learner remains responsible for sequencing, verification, and completion judgment |
 | GAI-agent-supported | bounded workflow partner | Task decomposition, evidence organization, comparison, verification, reflection, checkpoint-based progression | Requires explicit boundaries, [[explainable-ai|transparency]], instructor oversight, and preservation of [[agency|student agency]] |
 
 ## Architecture and governance
@@ -45,16 +45,16 @@ The exploratory study (12 May – 9 June 2026) used a Bulgarian-language questio
 
 - **Both AI conditions beat traditional e-learning.** Friedman repeated-measures tests found significant condition effects for learning enhancement (χ²(2) = 33.658, p < 0.001, Kendall's W = 0.129), personalization (56.410, p < 0.001, W = 0.217), decision-making support (18.007, p < 0.001, W = 0.069), and workflow support (6.766, p = 0.034, W = 0.026) — effect sizes very small to modest. Holm-adjusted Wilcoxon comparisons confirmed higher chatbot ratings than traditional e-learning on all four domains (e.g., personalization Δ = 0.677, r = 0.738), with the same pattern for agents.
 - **The agent–chatbot gap was not significant.** Chatbot and agent means were very close (e.g., learning enhancement 3.835 vs. 3.858; personalization 3.723 vs. 3.735), so the study does not demonstrate an agentic advantage.
-- **Risk, trust, and adoption.** Perceived risk was moderate (M = 3.333, SD = 0.893) while trust and adoption intention were more favourable (M = 3.615, SD = 0.805). 69.2% endorsed continued use of agents, 63.1% supported integrating them into learning activities, and 61.5% wanted training in effective agent use. The strongest single endorsement was for **combining all three approaches** (69.2%), whereas only 33.1% agreed agents were more effective than chatbots and 45.4% trusted agents under instructor guidance.
+- **Risk, trust, and adoption.** Perceived risk was moderate (M = 3.333, SD = 0.893) while trust and adoption intention were more favorable (M = 3.615, SD = 0.805). 69.2% endorsed continued use of agents, 63.1% supported integrating them into learning activities, and 61.5% wanted training in effective agent use. The strongest single endorsement was for **combining all three approaches** (69.2%), whereas only 33.1% agreed agents were more effective than chatbots and 45.4% trusted agents under instructor guidance.
 - **An unexpected association.** Perceived risk correlated *positively* with continued-use intention (Spearman's ρ = 0.317, p < 0.001). The authors explicitly reject a causal reading and interpret it as **informed adoption**: more engaged or experienced users recognize both the value and the limits of GAI. The cross-sectional design cannot separate awareness, exposure, self-selection, and reciprocal influence.
 
 ## Implications
 
-- **Scope discipline is the paper's central honesty.** The authors state plainly that the evidence is a perception-based alignment check, not proof of effectiveness: no random assignment, no objective performance measure, no pre–post change, and no longitudinal transfer measure. Propositions that the questionnaire could not test are labelled as such rather than scored as supported.
+- **Scope discipline is the paper's central honesty.** The authors state plainly that the evidence is a perception-based alignment check, not proof of effectiveness: no random assignment, no objective performance measure, no pre–post change, and no longitudinal transfer measure. Propositions that the questionnaire could not test are labeled as such rather than scored as supported.
 - **Absence of an agent advantage is itself informative.** The null agent–chatbot difference may reflect students' limited practical experience with agentic workflows, their novelty, and the possibility that advanced AI interactions feel broadly similar to chatbot support — implying that agentic value may only become visible under sustained, authentic implementation with clearly differentiated tasks.
 - **Bounded agency is the design answer to [[cognitive-offloading|over-reliance]].** Because goals, checkpoints, and final decisions stay with the educator and learner, and because the workflow returns control at verification and reflection stages, agentic orchestration can be aimed at reasoning support rather than task completion.
 - **Students want guidance, not just access.** The demand for agent-use training and the preference for combining traditional [[teacher-role|teaching]] with both chatbot and agent support suggest that adoption is a course-design question — where agents are introduced, with what checkpoints, and with what instruction — rather than a matter of tool availability.
-- **Governance must be built into the workflow layer.** Disclosure requirements, source verification, privacy rules, and instructor validation appear here as framework components rather than as policy bolted on afterwards — the same integration [[human-in-the-loop-ai|human-in-the-loop]] design calls for elsewhere.
+- **Governance must be built into the workflow layer.** Disclosure requirements, source verification, privacy rules, and instructor validation appear here as framework components rather than as policy bolted on afterward — the same integration [[human-in-the-loop-ai|human-in-the-loop]] design calls for elsewhere.
 - **Limitations.** One e-commerce course, student perceptions only (no instructor perspective), no objective outcomes, and an implementation the authors themselves describe as an initial conceptual model rather than an optimized instructional system.
 
 ## Connected Concepts

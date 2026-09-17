@@ -1,7 +1,7 @@
 ---
 title: "Towards a philosophy of ensemble cognition: Reconceptualising agency and mind in AI-mediated educational environments"
 created: "2026-08-16T04:26:01-04:00"
-updated: "2026-08-16"
+updated: "2026-09-17T02:27:38-04:00"
 type: article
 tags: [learning-theories, agency, metacognition, philosophy-of-ai-in-education, ai-education, human-ai-collaboration, embodied-learning, higher-ed]
 research_method: [theoretical analysis]
@@ -10,7 +10,7 @@ sources: ['raw/papers/ensemble-cognition-philosophy-ai-education.md']
 confidence: high
 ---
 
-> **Synthesis:** Jho, Park & Ahn (2026) introduce **Ensemble Cognition (EC)** as a [[philosophy-of-ai-in-education|philosophical]] framework reconceptualising thinking as emerging from dynamic interactions between human and artificial agents, rather than residing solely within individual minds. EC distinguishes **functional agency** (AI's capacity to influence outcomes without consciousness) from **moral responsibility** (which remains exclusively human), and articulates five features—distributed agency, dynamic centrality, cognitive orchestration, multi-representational integration, and context-sensitive switching—to characterise learning environments where cognitive leadership shifts dynamically between humans and AI. It offers educational philosophy conceptual resources for critically engaging with AI-mediated learning while preserving commitments to human flourishing and educational justice.
+> **Synthesis:** Jho, Park & Ahn (2026) introduce **Ensemble Cognition (EC)** as a [[philosophy-of-ai-in-education|philosophical]] framework reconceptualising thinking as emerging from dynamic interactions between human and artificial agents, rather than residing solely within individual minds. EC distinguishes **functional agency** (AI's capacity to influence outcomes without consciousness) from **moral responsibility** (which remains exclusively human), and articulates five features—distributed agency, dynamic centrality, cognitive orchestration, multi-representational integration, and context-sensitive switching—to characterize learning environments where cognitive leadership shifts dynamically between humans and AI. It offers educational philosophy conceptual resources for critically engaging with AI-mediated learning while preserving commitments to human flourishing and educational justice.
 
 ## Key Findings
 
@@ -22,11 +22,11 @@ confidence: high
 
 - **Functional agency ≠ moral responsibility.** The framework's central distinction addresses anthropomorphisation concerns: AI can influence [[learning-gains|learning outcomes]] without bearing moral responsibility for them. Responsibility remains with human agents who design, deploy, and oversee AI systems in educational contexts.
 
-- **Five features of ensemble cognition.** (1) **Distributed agency**—no single actor monopolises cognition; (2) **dynamic centrality**—cognitive leadership shifts by task demands, shaped even by how users craft prompts; (3) **cognitive orchestration**—coordinated integration of diverse cognitive resources toward coherent outcomes; (4) **multi-representational integration**—integration of linguistic, visual, and mathematical resources (distinct from neuroscientific multimodality); (5) **context-sensitive switching**—cognitive systems adapt their organisation to situational demands, and different AI architectures generate qualitatively distinct collaborative dynamics.
+- **Five features of ensemble cognition.** (1) **Distributed agency**—no single actor monopolises cognition; (2) **dynamic centrality**—cognitive leadership shifts by task demands, shaped even by how users craft prompts; (3) **cognitive orchestration**—coordinated integration of diverse cognitive resources toward coherent outcomes; (4) **multi-representational integration**—integration of linguistic, visual, and mathematical resources (distinct from neuroscientific multimodality); (5) **context-sensitive switching**—cognitive systems adapt their organization to situational demands, and different AI architectures generate qualitatively distinct collaborative dynamics.
 
-- **Distributed metacognitive awareness.** [[metacognition|Thinking about thinking]] expands from individual self-monitoring to collaborative cognitive management: students must understand how different agents contribute, when to rely on AI versus human judgement, and how to orchestrate [[collaborative-learning|collaborative processes]]. This raises questions about whether it enhances or outsources distinctively human capacities for reflection and self-direction.
+- **Distributed metacognitive awareness.** [[metacognition|Thinking about thinking]] expands from individual self-monitoring to collaborative cognitive management: students must understand how different agents contribute, when to rely on AI versus human judgment, and how to orchestrate [[collaborative-learning|collaborative processes]]. This raises questions about whether it enhances or outsources distinctively human capacities for reflection and self-direction.
 
-- **Distributed [[pedagogy|pedagogical]] arrangements and orchestrated authorship.** [[teacher-role|Teachers become cognitive orchestrators]] managing interactions between students, AI, and resources; student authorship is reconceptualised as "orchestrated authorship" where responsibility lies in transparently managing collaborative processes and exercising [[critical-thinking|critical judgement]] over AI contributions.
+- **Distributed [[pedagogy|pedagogical]] arrangements and orchestrated authorship.** [[teacher-role|Teachers become cognitive orchestrators]] managing interactions between students, AI, and resources; student authorship is reconceptualised as "orchestrated authorship" where responsibility lies in transparently managing collaborative processes and exercising [[critical-thinking|critical judgment]] over AI contributions.
 
 - **Critical boundaries and concerns.** The framework acknowledges the transparency problem (opaque AI decision-making), cultural embeddedness (AI privileging particular values like efficiency over care, caution, and contextual sensitivity, per Jackson 2025), human cognitive development and intellectual autonomy, power and democratic participation, and its own cultural situatedness within Western cognitive science and analytic philosophy of mind.
 

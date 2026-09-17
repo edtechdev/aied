@@ -1,7 +1,7 @@
 ---
 title: "How Should I Incorporate AI Literacy into My Course?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-09-16T14:53:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 weight: 86
 tags: [ai-literacy, learning-design, higher-ed, cognitive-offloading, assessment]
 level: [higher ed]
@@ -26,7 +26,7 @@ Treat evaluation as a **teachable competence in its own right**, not a by-produc
 
 ## Make AI literacy disciplinary and recurring
 
-Newer work also pushes back on **skill-list conceptions** of AI literacy — and shows what that looks like in practice. Burriss et al. had 22 eleventh-grade students compose video public service announcements about the AI-[[ethics]] issues they actually lived with: school surveillance, electronic "hall passes", and algorithmic [[academic-integrity|plagiarism]] accusation. Grounded in Critical Posthumanist Literacy and [[multimodal|multimodal composition]], the unit asked youth to translate abstract principles into emotionally resonant films; students overwhelmingly portrayed harm as emerging from tangled human–machine responsibility rather than a villainous tool, flipped the cheating narrative to adults' overreliance on faulty AI, and still closed on [[agency]] ("the solution is in our reach"). The authors argue that [[storytelling-in-education|storytelling]] and collaborative, creative production belong at the centre of [[critical-pedagogy|critical AI literacy pedagogy]] — and that requiring students to compose *about* AI, for a real audience, develops critical competence that conventional competency scales, which assume individually measurable performance, cannot see. See [[burriss-multimodal-composition-critical-ai-literacy-2026|"Young Scholar[s] on the Beat": multimodal composition as a form of critical AI literacy pedagogy]].
+Newer work also pushes back on **skill-list conceptions** of AI literacy — and shows what that looks like in practice. Burriss et al. had 22 eleventh-grade students compose video public service announcements about the AI-[[ethics]] issues they actually lived with: school surveillance, electronic "hall passes", and algorithmic [[academic-integrity|plagiarism]] accusation. Grounded in Critical Posthumanist Literacy and [[multimodal|multimodal composition]], the unit asked youth to translate abstract principles into emotionally resonant films; students overwhelmingly portrayed harm as emerging from tangled human–machine responsibility rather than a villainous tool, flipped the cheating narrative to adults' overreliance on faulty AI, and still closed on [[agency]] ("the solution is in our reach"). The authors argue that [[storytelling-in-education|storytelling]] and collaborative, creative production belong at the center of [[critical-pedagogy|critical AI literacy pedagogy]] — and that requiring students to compose *about* AI, for a real audience, develops critical competence that conventional competency scales, which assume individually measurable performance, cannot see. See [[burriss-multimodal-composition-critical-ai-literacy-2026|"Young Scholar[s] on the Beat": multimodal composition as a form of critical AI literacy pedagogy]].
 
 Where possible, make these activities **[[discipline-specific-aied|discipline-specific]] and recurring**. Generic rules such as "check AI for [[hallucination-risk|hallucinations]]" are less useful than showing students what unreliable AI output looks like in *your* field: fabricated citations in history, invalid assumptions in economics, misleading interpretations of experimental evidence in [[biology-education|biology]], poorly justified design decisions in engineering, or superficially fluent but methodologically weak writing in psychology.
 
@@ -40,7 +40,7 @@ Importantly, the evidence supports cognitively [[active-learning|active]] and [[
 
 ## Assess demonstrated judgment, not just confidence
 
-[[assessment|Assessment]] should focus on **demonstrated judgment rather than confidence or [[self-report-measures|self-reported]] skill**. Students often overestimate how well they can evaluate AI. Instead of asking whether they "feel confident using AI," give them tasks requiring them to detect errors, verify sources, improve an output, explain limitations, or justify why a particular use of AI is appropriate.
+[[assessment]] should focus on **demonstrated judgment rather than confidence or [[self-report-measures|self-reported]] skill**. Students often overestimate how well they can evaluate AI. Instead of asking whether they "feel confident using AI," give them tasks requiring them to detect errors, verify sources, improve an output, explain limitations, or justify why a particular use of AI is appropriate.
 
 The knowledge base highlights a significant mismatch between self-reported and performance-based AI literacy and recommends performance-based assessment. See [[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]] and [[jin-glat-genai-literacy-assessment|GLAT: The Generative AI Literacy Assessment Test]].
 

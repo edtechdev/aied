@@ -1,7 +1,7 @@
 ---
 title: "TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions"
 created: "2026-06-10T12:17:35-04:00"
-updated: "2026-09-16T17:12:13-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [professional-training, llm, formative-assessment, student-experience, edtech-platform, higher-ed, generative-ai, intelligent-tutoring, scaffolding, k-12]
 research_method: [experiment]
@@ -26,7 +26,7 @@ sources: []
 - [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
 - [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
 - [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
+- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
 - [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
 
 ## Citation

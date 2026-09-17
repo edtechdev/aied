@@ -1,7 +1,7 @@
 ---
 title: "Why we believe chatbots: trust calibration as a design problem"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [trust-calibration, trust, ai-literacy, conversational-ai, generative-ai, explainable-ai, hallucination-risk, llm]
 connected_faqs: [verify-ai-output]
@@ -35,7 +35,7 @@ This is a Hypothesis and Theory (conceptual) contribution, not an empirical stud
 
 ## Implications
 
-- **Design for [[trust-calibration|calibration]], not for maximum trust.** The goal is trust that matches what a system can actually do; interpretability should be a structuring principle of chatbot design rather than a feature bolted on afterwards.
+- **Design for [[trust-calibration|calibration]], not for maximum trust.** The goal is trust that matches what a system can actually do; interpretability should be a structuring principle of chatbot design rather than a feature bolted on afterward.
 
 - **Move from transparency-as-disclosure to transparency-as-practice.** Engagement mechanisms (friction, gates, scaffolds) outperform passive warnings because dialogic engagement drives durable cognitive change whereas information alone does not.
 

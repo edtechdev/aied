@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, assessment, assessment-validity, formative-assessment, self-regulated-learning, academic-integrity, generative-ai, higher-ed, metacognition]
@@ -50,15 +50,15 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 
 ## When practitioners retreat to the policed formats
 
-The knowledge base argues that authenticity must be designed rather than policed, and [[teacher-educators-ai-integration-preservice-2026|Goldstein, Marae-Haj and Zidan (2026)]] supply the counter-evidence from practice: after a trust crisis in which pre-service teachers submitted raw AI-generated work as their own, teacher educators in seven Israeli colleges redesigned assessment around process evidence (prompts, document version history, monitored group contributions) and in-class performance — but several also described falling back, as a last resort, on supervised examinations and anticipated oral defences on theses, one participant calling the return to exams personally painful yet unavoidable. Read against the design-first position, the finding marks a failure mode rather than a solution: where authenticity is not redesigned in advance, the practical response to unassessable submitted work is reinstated control — surveillance by another name — which reintroduces the very formats the authentic-assessment literature tries to move beyond. It also shows the felt cost of the alternative: participants reported their take-home written assessments could no longer evidence learning at all, and that process documentation took real work to establish.
+The knowledge base argues that authenticity must be designed rather than policed, and [[teacher-educators-ai-integration-preservice-2026|Goldstein, Marae-Haj and Zidan (2026)]] supply the counter-evidence from practice: after a trust crisis in which pre-service teachers submitted raw AI-generated work as their own, teacher educators in seven Israeli colleges redesigned assessment around process evidence (prompts, document version history, monitored group contributions) and in-class performance — but several also described falling back, as a last resort, on supervised examinations and anticipated oral defenses on theses, one participant calling the return to exams personally painful yet unavoidable. Read against the design-first position, the finding marks a failure mode rather than a solution: where authenticity is not redesigned in advance, the practical response to unassessable submitted work is reinstated control — surveillance by another name — which reintroduces the very formats the authentic-assessment literature tries to move beyond. It also shows the felt cost of the alternative: participants reported their take-home written assessments could no longer evidence learning at all, and that process documentation took real work to establish.
 
 - **Self-regulated learning:** student agency in authentic assessment (choice, self-reflection, co-design) mirrors the [[self-regulated-learning|forethought → performance → self-reflection]] cycle, though graded reflection risks becoming performative.
-- **Metacognition:** [[metacognition|Metacognition]] is required for students to evaluate their work against co-designed rubrics; when AI supplies the rubric, feedback, and monitoring, the student's metacognitive practice may be displaced.
+- **Metacognition:** [[metacognition]] is required for students to evaluate their work against co-designed rubrics; when AI supplies the rubric, feedback, and monitoring, the student's metacognitive practice may be displaced.
 - **Formative and sustainable feedback:** authentic assessment emphasizes [[formative-assessment|formative]], future-oriented feedback that transfers to later contexts.
 
 ## Implications for AI in education
 
-- **AI-proof assessment types:** in-vivo demonstrations, social-contribution portfolios, co-created artefacts with auditable provenance, and real-time [[embodied-learning|embodied]] interaction are more resilient to generative AI than take-home essays or MCQs.
+- **AI-proof assessment types:** in-vivo demonstrations, social-contribution portfolios, co-created artifacts with auditable provenance, and real-time [[embodied-learning|embodied]] interaction are more resilient to generative AI than take-home essays or MCQs.
 - **Co-design at scale:** AI tools could enable rubric co-design and student co-creation of assessment parameters at classroom or [[online-teaching-and-learning|MOOC]] scale — though machine-mediated agency must be designed carefully.
 - **Address the social-authenticity gap:** only 3/37 studies addressed social issues; AI assessment tools should help students contribute to societal transformation, not merely simulate it.
 - **Sustainable feedback:** [[ai-feedback-quality|AI feedback]] should be designed to transfer to future contexts, not just provide reactive, momentary corrections.
@@ -118,4 +118,4 @@ The knowledge base argues that authenticity must be designed rather than policed
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[chen-zou-genai-group-assessment-agency-2026]] — Authenticity criteria that led student groups to reduce GenAI use
-- [[teacher-educators-ai-integration-preservice-2026]] — The AI trust crisis that pushed teacher educators back toward supervised exams and oral defences (Goldstein et al. 2026)
+- [[teacher-educators-ai-integration-preservice-2026]] — The AI trust crisis that pushed teacher educators back toward supervised exams and oral defenses (Goldstein et al. 2026)

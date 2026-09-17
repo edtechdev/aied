@@ -1,7 +1,7 @@
 ---
 title: "Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-09-08T01:59:05-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [academic-integrity, ai-detection, assessment-validity, higher-ed, generative-ai, reducing-ai-misuse, ai-misuse-learning-harm, ethics]
 research_method: [qualitative, interviews]
@@ -10,13 +10,13 @@ sources: ['raw/papers/roe-ai-humanizers-legitimacy-assessment-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Presenting the first exploratory, systematic investigation of [[ai-detection|AI humanizer]] websites, Roe and colleagues frame these services through Goffman's (1959) dramaturgy and [[multimodal]] critical discourse analysis, cataloguing 55 humanizer sites and deeply analysing three. Findings show humanizers are readily available, offer free and premium tiers, and perform similar functions—deleting misconduct from the discourse, reframing humanization as a rational response to flawed detection, and appealing to mystification through advanced technology and implied [[governance|institutional]] endorsement. The authors argue humanizers are a diagnostic signal in a [[feedback|feedback loop]] of [[assessment|performative assessment]] whose disruption requires structural assessment reform rather than technological solutionism.
+> **Synthesis:** Presenting the first exploratory, systematic investigation of [[ai-detection|AI humanizer]] websites, Roe and colleagues frame these services through Goffman's (1959) dramaturgy and [[multimodal]] critical discourse analysis, cataloguing 55 humanizer sites and deeply analyzing three. Findings show humanizers are readily available, offer free and premium tiers, and perform similar functions—deleting misconduct from the discourse, reframing humanization as a rational response to flawed detection, and appealing to mystification through advanced technology and implied [[governance|institutional]] endorsement. The authors argue humanizers are a diagnostic signal in a [[feedback|feedback loop]] of [[assessment|performative assessment]] whose disruption requires structural assessment reform rather than technological solutionism.
 
 ## Key Findings
 
 1. **Humanizers are readily available.** A systematic search surfaced 55 humanizer sites (e.g., targeting queries like "bypass AI detection," "pass Turnitin AI detector"), and the top-ranking sites held high ecological validity as the first results users would encounter.
-2. **Similar commercial structures.** Sites consistently offered both free and premium paid services, pricing tiers, free trials, and even affiliate-marketing programmes, performing near-identical functions.
-3. **Trust and authority artifacts.** The three analysed sites deployed corporate and university logos, detector logos and screenshots, user statistics, satisfaction ratings, testimonials, and social-media presence to construct legitimacy.
+2. **Similar commercial structures.** Sites consistently offered both free and premium paid services, pricing tiers, free trials, and even affiliate-marketing programs, performing near-identical functions.
+3. **Trust and authority artifacts.** The three analyzed sites deployed corporate and university logos, detector logos and screenshots, user statistics, satisfaction ratings, testimonials, and social-media presence to construct legitimacy.
 4. **Mystification strategies.** Opaque references to proprietary "deep learning" or "advanced algorithms," scale claims (e.g., "over 1 billion words a month," "trillions of parameters"), one-click framing, and inflated success rates (99–100%) obscured how services actually work.
 5. **Deletion of misconduct.** Drawing on van Leeuwen's recontextualization, sites discursively delete misconduct and cast humanization as a rational, defensible response to [[ai-detection|surveillance]] and flawed detection rather than as facilitating cheating.
 6. **Front/back-stage leakage.** Despite polished front-stage performances, sites lacked registered business addresses, displayed unexplained logos, and linked to blank or inactive social-media pages—evidence that the "mask slips" and the backstage is less sophisticated than presented.
@@ -27,8 +27,8 @@ confidence: high
 
 - **Technological solutionism will fail.** Building better [[ai-detection|AI detectors]] or blocking humanizers does not disrupt the performative cycle; structural [[authentic-assessment|assessment reform]] is required to reduce demand for performances of independent authorship.
 - Humanizer presence should be treated as a **diagnostic signal** of assessment design flaws rather than merely a cheating tool to be policed.
-- [[assessment|Assessment]] design should move toward process-visible, [[authentic-assessment|authentic]], interactive tasks whose value cannot be faked by AI, reducing the incentive to "humanize" text.
-- Institutions should recognise that detector-based enforcement both drives and is circumvented by this market, causing epistemic, academic, and financial harm to students.
+- [[assessment]] design should move toward process-visible, [[authentic-assessment|authentic]], interactive tasks whose value cannot be faked by AI, reducing the incentive to "humanize" text.
+- Institutions should recognize that detector-based enforcement both drives and is circumvented by this market, causing epistemic, academic, and financial harm to students.
 - The rhetorical strategies observable in humanizers (deletion of misconduct, borrowed legitimacy, mystification) run, in softened form, through mainstream AI marketing and merit awareness among educators.
 
 ## Connected Concepts

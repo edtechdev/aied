@@ -1,7 +1,7 @@
 ---
 title: "EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [educational-robotics, llm, cs-education, computational-thinking, personalized-learning]
 audience: [software developers]
@@ -10,18 +10,18 @@ sources: ['raw/papers/lu-edusim-llm-robotic-simulation-2026.md']
 confidence: medium
 ---
 
-> **Synthesis:** Lu and Zhang (2026) present EduSim-LLM, an educational platform that integrates large language models with robot [[simulation]] to make robotic control accessible to beginners. Recognizing that the integration of natural language understanding into robotic control is a key challenge in human-robot interaction, the platform constructs a language-driven control model that translates natural-language instructions into executable robot behaviour sequences in CoppeliaSim. The authors design two human-robot interaction models — direct control and autonomous control — and conduct systematic evaluations of their educational and practical [[accessibility]].
+> **Synthesis:** Lu and Zhang (2026) present EduSim-LLM, an educational platform that integrates large language models with robot [[simulation]] to make robotic control accessible to beginners. Recognizing that the integration of natural language understanding into robotic control is a key challenge in human-robot interaction, the platform constructs a language-driven control model that translates natural-language instructions into executable robot behavior sequences in CoppeliaSim. The authors design two human-robot interaction models — direct control and autonomous control — and conduct systematic evaluations of their educational and practical [[accessibility]].
 
 ## Key Findings
 
 - The rapid development of **LLMs has enhanced natural language understanding and [[human-ai-collaboration|human-computer interaction]]**, creating new opportunities in robotics, but integrating natural language understanding into robotic control remains a challenge for intuitive, accessible robot control.
-- **EduSim-LLM integrates LLMs with robot simulation** (CoppeliaSim) and constructs a language-driven control model that translates natural-language instructions into executable robot behaviour sequences.
+- **EduSim-LLM integrates LLMs with robot simulation** (CoppeliaSim) and constructs a language-driven control model that translates natural-language instructions into executable robot behavior sequences.
 - Two **human-robot interaction models** are designed: **direct control** and **autonomous control**.
 - The platform aims to make robotic control and programming **accessible to beginners**, addressing educational and practical accessibility of complex robotic systems.
 
 ## Study Design & Method
 
-This is a **platform development and evaluation study**. The [[research-methods-aied|researchers]] designed and implemented EduSim-LLM, an educational platform combining LLMs with the CoppeliaSim robot simulator, with a language-driven control model that converts natural-language instructions into executable robot behaviour sequences. They developed two human-robot interaction models (direct control and autonomous control) and conducted systematic evaluations to assess the platform's [[usability-research|usability]] and effectiveness for beginner learners of robotic control and programming.
+This is a **platform development and evaluation study**. The [[research-methods-aied|researchers]] designed and implemented EduSim-LLM, an educational platform combining LLMs with the CoppeliaSim robot simulator, with a language-driven control model that converts natural-language instructions into executable robot behavior sequences. They developed two human-robot interaction models (direct control and autonomous control) and conducted systematic evaluations to assess the platform's [[usability-research|usability]] and effectiveness for beginner learners of robotic control and programming.
 
 ## Implications for AI in Education
 

@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: concept
 tags: [english-education, language-learning, writing-education, higher-ed, k-12, generative-ai, ai-feedback-quality, automated-assessment, equity-in-ai-education, academic-integrity]
 discipline: [english education, language learning, writing education]
@@ -106,7 +106,7 @@ AI's English dominance is a defining feature of this strand. Because models are 
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-Generated versus Human-Developed Assessment Tasks in EFL Context
 - [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
 - [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms
-- [[self-referential-l2-writing-llm-assessment]] — Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
+- [[self-referential-l2-writing-llm-assessment]] — Toward Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
 - [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? L2 Spoken Dialogue
 - [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing and Publishing
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers

@@ -81,7 +81,7 @@ cap and enrich the page from the recovered text.
   - https://doi.org/10.1016/j.chbah.2026.100263
 - **Artificial Intelligence and Student Engagement in Online Learning: A Literature Review** — `ai-student-engagement-online-learning-review-2025` (html_failed)
   - https://doi.org/10.1080/08923647.2025.2594282
-- **Exploring Organisational Drivers and Innovation Attributes of Artificial Intelligence Adoption in Higher Education** — `alrahmi-org-drivers-ai-adoption-he-2026` (html_failed)
+- **Exploring Organizational Drivers and Innovation Attributes of Artificial Intelligence Adoption in Higher Education** — `alrahmi-org-drivers-ai-adoption-he-2026` (html_failed)
   - https://doi.org/10.53761/fskfah39
 - **Teaching with Generative Artificial Intelligence: Enhancing Critical Thinking and Ethical Awareness in Academic Writing** — `benali-genai-academic-writing-2026` (too_short)
   - https://doi.org/10.53761/28y4hw95
@@ -101,7 +101,7 @@ cap and enrich the page from the recovered text.
   - https://doi.org/10.53761/39ey1895
 - **Reimagining the Philosophy of Experimentation in Chemistry Education: Embracing AI as a Tool for Scientific Inquiry** — `philosophy-experimentation-ai-chemistry-2026` (html_failed)
   - https://doi.org/10.1007/s11191-025-00667-8
-- **Preferred Scaffolding Does Not Lead to Better Learning Performance: Empirical Evidence from AI-Supported Mathematical Modelling** — `preferred-scaffolding-ai-mathematical-modelling` (html_failed)
+- **Preferred Scaffolding Does Not Lead to Better Learning Performance: Empirical Evidence from AI-Supported Mathematical Modeling** — `preferred-scaffolding-ai-mathematical-modelling` (html_failed)
   - https://doi.org/10.1016/j.caeai.2026.100669
 - **raw-miller-bosch-teachability** — `raw-miller-bosch-teachability` (html_failed)
   - https://doi.org/10.1145/3785022.3785067

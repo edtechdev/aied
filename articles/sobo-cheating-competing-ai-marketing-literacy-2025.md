@@ -1,7 +1,7 @@
 ---
 title: "Cheating or Competing? University Students' Experience of AI Marketing and What It Means for AI Literacy Programming"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-08-28T14:30:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, higher-ed, academic-integrity, framing-ai-use-for-students, student-experience, ethics, ai-use-disclosure, critical-thinking]
 research_method: [design-based research, mixed methods]
@@ -26,7 +26,7 @@ confidence: high
 
 ## Implications
 
-- [[ai-literacy|AI literacy]] programmes should incorporate **marketing literacy**—teaching students to critically analyze how commercial interests and persuasive tropes (success, "keeping up," fear of falling behind) shape how AI tools are presented.
+- [[ai-literacy|AI literacy]] programs should incorporate **marketing literacy**—teaching students to critically analyze how commercial interests and persuasive tropes (success, "keeping up," fear of falling behind) shape how AI tools are presented.
 - Institutions should publish clear, consistent "dos and don'ts," legitimate use-case examples, and [[privacy]] information to reduce conflicting signals and students' entrapment fears.
 - Destigmatizing AI and mandating explicit [[framing-ai-use-for-students|AI use statements]] in syllabi can open more honest student–teacher conversations about appropriate use.
 - Educators should model "AI hygiene" by acknowledging the AI output they themselves bring into teaching, and explain the [[ethics]] and benefits of doing so.

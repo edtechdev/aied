@@ -1,7 +1,7 @@
 ---
 title: Principled AI in Education
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-education, higher-ed, pedagogy, scaffolding, educational-policy-ai, active-learning, self-regulated-learning, human-in-the-loop-ai, educational-development, metacognition]
 research_method: [theoretical analysis]
@@ -50,7 +50,7 @@ This principle is the through-line of the framework. Technology use must be alig
 | Finkelstein principle | Supporting knowledge base evidence | Tension |
 |---|---|---|
 | Goals before tools | [[stanford-evidence-base-ai-k12-2026]] (few causal studies because goals were ill-defined) | Industry pressure to deploy fast |
-| Augment, not displace | [[ai-tutor-safety-harms]] (displacement harms catalogued) | [[llm-fallacy-misattribution]] (users willingly displace themselves) |
+| Augment, not displace | [[ai-tutor-safety-harms]] (displacement harms catalogd) | [[llm-fallacy-misattribution]] (users willingly displace themselves) |
 | Meaningful learning | [[self-regulated-learning]] (SRL as meaningful [[student-engagement|engagement]]) | Convenience tempts toward shortcut design |
 | Democratic societies | [[ai-literacy]] (distributed AI literacy for citizenship) | Platform concentration concentrates power |
 | Assess authentically | [[authentic-assessment]] (six-dimensional framework) | [[automated-assessment|Automated grading]] scales cheaply |

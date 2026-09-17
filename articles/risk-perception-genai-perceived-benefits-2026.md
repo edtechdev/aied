@@ -1,7 +1,7 @@
 ---
 title: "The impact of risk perception on perceived benefits of generative artificial intelligence users—an empirical study based on university students"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [technology-acceptance-model, generative-ai, higher-ed, trust, privacy, hallucination-risk]
 audience: [researchers, instructors, administrators, policymakers]
@@ -32,7 +32,7 @@ confidence: high
 
 The study used a cross-sectional survey distributed to university students in China. Of the responses collected online, 814 valid questionnaires remained after excluding students who had never used generative AI and responses with implausibly short completion times or logical contradictions. Risk perception was measured across five dimensions — information, security, technical, ethical, and legal — on a 7-point scale, while perceived benefit was measured across five dimensions (academic assistance, skill development, psychological and emotional support, daily life, and leisure and entertainment) on a 5-point frequency scale. Items were adapted from validated instruments, reviewed by subject-matter experts, and piloted with students outside the final sample.
 
-Analysis proceeded through three-layer hierarchical [[research-methods-aied|hierarchical regression]] — demographic controls, then usage duration, then the risk dimensions — which the authors justify as a deliberately prediction-oriented choice rather than the latent-variable testing that structural equation modelling would provide. Non-linear relationships were then probed with [[quantitative-research|threshold regression]] using bootstrap-based estimation, with candidate thresholds anchored theoretically to the risk scale's midpoint.
+Analysis proceeded through three-layer hierarchical [[research-methods-aied|hierarchical regression]] — demographic controls, then usage duration, then the risk dimensions — which the authors justify as a deliberately prediction-oriented choice rather than the latent-variable testing that structural equation modeling would provide. Non-linear relationships were then probed with [[quantitative-research|threshold regression]] using bootstrap-based estimation, with candidate thresholds anchored theoretically to the risk scale's midpoint.
 
 ## Implications
 

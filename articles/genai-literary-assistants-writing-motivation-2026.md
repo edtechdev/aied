@@ -1,7 +1,7 @@
 ---
 title: "Role of generative AI literary assistants in enhancing ninth-grade students' writing motivation, flow and achievement"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-16"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [writing-education, generative-ai, motivation, student-engagement, k-12, cognitive-offloading]
 research_method: [experiment, mixed methods]
@@ -20,7 +20,7 @@ confidence: high
 
 **Literature-informed prompt engineering.** The core [[pedagogy|pedagogical]] innovation moved students from undirected AI use to structured prompts that emulated four literary voices — Su Shi (bold, [[philosophy-of-ai-in-education|philosophical]]), Yu Kwang-Chung (emotional, lyrical), Xi Murong (delicate, youthful), and Jian Zhen (female perspective) — aligned with the attention and relevance components of Keller's ARCS-V [[motivation]] model. Interactions ran in traditional Chinese using GPT-4 (temperature 0.7, top-p 1.0, max 200 tokens) for style-based revision, emotional/rhetorical enhancement, structural review, and summary generation.
 
-**Improved writing quality (large effect).** Writing [[learning-gains|achievement]] rose from a pre-test mean of 77.13 to 81.40 (t = −5.26, p < .001, Cohen's d = −0.83, 95% CI [−1.19, −0.47]; strong pre–post correlation r = 0.75, p < .001), with gains in content completeness, language expression, and organisational structure. Improvement in [[creativity]] and originality was comparatively limited, indicating AI most strongly boosts technical writing skills.
+**Improved writing quality (large effect).** Writing [[learning-gains|achievement]] rose from a pre-test mean of 77.13 to 81.40 (t = −5.26, p < .001, Cohen's d = −0.83, 95% CI [−1.19, −0.47]; strong pre–post correlation r = 0.75, p < .001), with gains in content completeness, language expression, and organizational structure. Improvement in [[creativity]] and originality was comparatively limited, indicating AI most strongly boosts technical writing skills.
 
 **Flow experience improved (medium effect).** Average flow rose from 3.15 to 3.60 (t = −2.86, p = .007, Cohen's d = −0.45). Students readily entered flow during the revision phase, describing an "immersive interactive experience"; however, some reported decreased flow when excessive AI support reduced the perceived challenge and sense of full immersion.
 
@@ -28,7 +28,7 @@ confidence: high
 
 **GAI as cognitive scaffold rather than motivational trait.** Post-intervention comparisons showed writing performance exceeding flow, and flow exceeding motivation, across the group (e.g., all 40 students' writing-performance scores exceeded their flow scores, Z = −6.17, p < .001; 31 of 40 had motivation below flow, Z = −3.32, p < .001). This suggests GAI primarily [[scaffolding|scaffolds]] writing outcomes and task engagement rather than reliably raising stable intrinsic motivation.
 
-**Developing authorship and [[self-regulated-learning]].** Students selectively accepted AI suggestions, distinguishing "my tone" from AI output (e.g., "ChatGPT made it too ornate, I wouldn't write like that myself"), signalling emerging authorial voice. Post-test Writing [[self-efficacy]] scores increased in ideation ability, rhetorical application, and self-[[regulation]], and a 20-point, four-dimension scoring rubric (content, organisation, language, creativity, 25% weight each) anchored the writing [[assessment]].
+**Developing authorship and [[self-regulated-learning]].** Students selectively accepted AI suggestions, distinguishing "my tone" from AI output (e.g., "ChatGPT made it too ornate, I wouldn't write like that myself"), signaling emerging authorial voice. Post-test Writing [[self-efficacy]] scores increased in ideation ability, rhetorical application, and self-[[regulation]], and a 20-point, four-dimension scoring rubric (content, organization, language, creativity, 25% weight each) anchored the writing [[assessment]].
 
 **[[cognitive-offloading|Over-Reliance]] risk and pedagogical recommendation.** The authors caution that over-reliance on AI could diminish engagement in areas requiring creative expression and critical thinking, concluding with scaffolded pedagogical recommendations for integrating GAI writing assistants while preserving students' creative and critical capacities — directly relevant to the knowledge base's [[writing-education]] and [[cognitive-offloading|Over-Reliance]] concerns.
 

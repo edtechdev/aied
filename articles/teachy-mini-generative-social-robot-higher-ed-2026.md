@@ -1,7 +1,7 @@
 ---
 title: "Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [educational-robotics, generative-ai, higher-ed, intelligent-tutoring, llm, design-thinking]
 research_method: [system development]
@@ -13,7 +13,7 @@ confidence: high
 > **Synthesis:** Vonschallen, Kaufmann, Oberle, Eyssel, and Schmiedel (2026) operationalize knowledge-based design (KBD) requirements for generative social robots (GSRs) by implementing them in the Reachy Mini robot platform through system [[prompt-engineering|prompting]], [[rag|retrieval-augmented]] generation, and stateful prompt orchestration, producing Teachy Mini — a GSR tutoring system for higher education. Recognizing that GSRs powered by LLMs offer personalized tutoring but also risks (misinformation, missing transparency, reinforcing incorrect responses), the authors conducted a preliminary evaluation study in which participants (N = 24) completed a robot-guided learning session about research methodologies, learning with either the robot or another mode.
 ## Key Findings
 - **Generative social robots (GSRs) powered by LLMs offer new possibilities for personalized tutoring in higher education** but introduce risks related to misinformation, missing transparency, and reinforcing incorrect student responses.
-- Prior work identified **knowledge-based design (KBD) requirements** defining the informational prerequisites for GSRs to manifest responsible and effective tutoring behaviour.
+- Prior work identified **knowledge-based design (KBD) requirements** defining the informational prerequisites for GSRs to manifest responsible and effective tutoring behavior.
 - The authors **operationalized selected KBD requirements in the Reachy Mini robot platform** through system prompting, retrieval-augmented generation, and stateful prompt orchestration, producing **Teachy Mini**.
 - A **preliminary evaluation study (N = 24)** had participants complete a robot-guided learning session about research methodologies, learning with either Teachy Mini or an alternative mode.
 ## Study Design & Method

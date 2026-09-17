@@ -1,7 +1,7 @@
 ---
 title: 'Interactive Online Learning Method for Students Based on Artificial Intelligence'
 created: "2026-08-20T04:40:00-04:00"
-updated: "2026-08-20T04:40:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [online-teaching-and-learning, machine-learning, student-modeling, personalized-learning, adaptive-learning, ai-education]
 research_method: [benchmark]
@@ -24,7 +24,7 @@ confidence: medium
 
 The study is presented as a hybrid modeling effort built on a [[meta-analysis-systematic-review|literature review]] of AI in online/interactive education (sources from IEEE Xplore, ACM, and Google Scholar, largely the last decade). Data preprocessing removed or imputed missing values, normalized numeric features with Min–Max scaling, one-hot encoded categorical variables, excluded outliers via Z-score (|Z| > 3), and applied SMOTE for class imbalance.
 
-The core contribution is the **DMO-GRU** framework: DMO (modelled on dwarf mongoose foraging, with alpha/scout/babysitter groups and an added Learning Strategy) performs feature selection and hyperparameter tuning, while a GRU network — with reset and update gates to handle the gradient-vanishing problem in sequence learning — captures temporal patterns in [[student-engagement|student engagement]] and performance. The model was evaluated against GRU, LSTM, CNN-GRU, Random Forest, and XGBoost using classification metrics (accuracy, precision, recall, sensitivity, specificity, F1) and regression metrics (MAE, RMSE, R²), with training time reported. Experiments were run in MATLAB R2023a. The authors acknowledge limitations: dependence on [[benchmark]] datasets, limited real-world testing, model interpretability concerns, and limited attention to [[ethics|ethical]] issues such as data protection and [[bias-mitigation|fairness]].
+The core contribution is the **DMO-GRU** framework: DMO (modeled on dwarf mongoose foraging, with alpha/scout/babysitter groups and an added Learning Strategy) performs feature selection and hyperparameter tuning, while a GRU network — with reset and update gates to handle the gradient-vanishing problem in sequence learning — captures temporal patterns in [[student-engagement|student engagement]] and performance. The model was evaluated against GRU, LSTM, CNN-GRU, Random Forest, and XGBoost using classification metrics (accuracy, precision, recall, sensitivity, specificity, F1) and regression metrics (MAE, RMSE, R²), with training time reported. Experiments were run in MATLAB R2023a. The authors acknowledge limitations: dependence on [[benchmark]] datasets, limited real-world testing, model interpretability concerns, and limited attention to [[ethics|ethical]] issues such as data protection and [[bias-mitigation|fairness]].
 
 ## Implications for AI in Education
 

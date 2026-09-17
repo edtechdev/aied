@@ -1,7 +1,7 @@
 ---
 title: "When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage"
 created: "2026-08-26T09:00:00-04:00"
-updated: "2026-08-26T09:00:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [llm, higher-ed, student-experience, ethics, generative-ai, cs-education]
 research_method: [system development, survey]
@@ -36,7 +36,7 @@ confidence: high
 ## Connected Articles
 
 - [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Towards sustainable AI knowledge-base assistants in CS education
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Toward sustainable AI knowledge-base assistants in CS education
 - [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance
 - [[unesco-ai-guidelines-chemical-education-2026]] — Translating UNESCO AI Guidelines to Chemical Education
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — Artificial intelligence in higher education: a systematic review

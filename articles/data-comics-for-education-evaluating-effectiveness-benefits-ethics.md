@@ -1,7 +1,7 @@
 ---
 title: "Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation"
 created: "2026-07-03T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, k-12, active-learning, ai-literacy, llm, automated-assessment, scaffolding, learning-analytics, formative-assessment, visualization]
 audience: [instructors, learners]
@@ -23,7 +23,7 @@ confidence: high
 
 ## Study Design & Method
 
-The study used a within-subjects experimental design in which 60 university students completed information retrieval and comprehension tasks using both conventional visualisations and data comics created with assistance from generative AI tools. Task performance was compared across the two formats, and students also provided [[qualitative-research|qualitative]] feedback on engagement, comprehension, and perceived limitations. The authors frame the work against the challenge of preparing students from diverse disciplines to interpret and use data for reasoning and [[critical-thinking|critical thinking]] in their future professional practice.
+The study used a within-subjects experimental design in which 60 university students completed information retrieval and comprehension tasks using both conventional visualizations and data comics created with assistance from generative AI tools. Task performance was compared across the two formats, and students also provided [[qualitative-research|qualitative]] feedback on engagement, comprehension, and perceived limitations. The authors frame the work against the challenge of preparing students from diverse disciplines to interpret and use data for reasoning and [[critical-thinking|critical thinking]] in their future professional practice.
 
 ## Implications for AI in Education
 

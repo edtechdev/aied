@@ -1,14 +1,14 @@
 ---
 title: Inquiry-Based Learning
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-09-02T09:10:56-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [inquiry-based-learning, problem-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, generative-ai, stem-education, scaffolding]
 discipline: [stem education]
 confidence: high
 ---
 
-> **Inquiry-based learning (IBL)** — a learner-centered [[pedagogy]] in which students develop understanding by posing questions, exploring independently, and constructing knowledge through a cycle of inquiry, reflection, and revision, with the instructor [[scaffolding]] rather than lecturing. In the AI era, IBL's question-driven, exploration-centred structure has become a focal point: [[generative-ai|generative AI]] and [[llm|LLM]] tools can serve as interactive "co-inquirers" that support questioning and investigation — but only when designed to preserve rather than bypass the cognitive work of inquiry.
+> **Inquiry-based learning (IBL)** — a learner-centered [[pedagogy]] in which students develop understanding by posing questions, exploring independently, and constructing knowledge through a cycle of inquiry, reflection, and revision, with the instructor [[scaffolding]] rather than lecturing. In the AI era, IBL's question-driven, exploration-centered structure has become a focal point: [[generative-ai|generative AI]] and [[llm]] tools can serve as interactive "co-inquirers" that support questioning and investigation — but only when designed to preserve rather than bypass the cognitive work of inquiry.
 
 ## Questions to Consider
 
@@ -21,7 +21,7 @@ confidence: high
 
 ## Introduction
 
-Inquiry-based learning centers on student-driven questions and the inquiry process itself, typically moving through phases (orientation → conceptualization → investigation → discussion → conclusion). It is the broader family under which [[problem-based-learning|problem-based learning]] and [[project-based-learning|project-based learning]] are often nested: IBL emphasizes the *questioning and discovery process*, PBL the ill-structured *problem*, and project-based learning the tangible *artefact*.
+Inquiry-based learning centers on student-driven questions and the inquiry process itself, typically moving through phases (orientation → conceptualization → investigation → discussion → conclusion). It is the broader family under which [[problem-based-learning|problem-based learning]] and [[project-based-learning|project-based learning]] are often nested: IBL emphasizes the *questioning and discovery process*, PBL the ill-structured *problem*, and project-based learning the tangible *artifact*.
 
 ## How inquiry-based learning appears in the knowledge base
 

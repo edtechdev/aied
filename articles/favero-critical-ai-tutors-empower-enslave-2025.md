@@ -1,7 +1,7 @@
 ---
 title: "Critical AI Tutors: Empower or Enslave?"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [intelligent-tutoring, critical-thinking, cognitive-offloading, student-experience, regulation]
 research_method: [theoretical analysis]
@@ -54,7 +54,7 @@ For educators and policymakers, this paper provides intellectual ammunition for 
 - [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning: Evidence from high school mathematics
 - [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
 - [[ai-making-us-stupid]] — Is AI making us stupid?
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
+- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
 - [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
 - [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
 

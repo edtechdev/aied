@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-16T14:48:35-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop-ai, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 research_method: [benchmark, educational measurement]
@@ -45,7 +45,7 @@ AI-ed evaluation is difficult for several reasons. First, **reliability is not e
 **Aggregate accuracy hides who is served poorly.** [[drawedumath-vlm-struggling-students-2026|Evaluations of vision-language models on DrawEduMath]] show that overall accuracy obscures a systematic weakness: models underperform precisely on the student work that needs the most pedagogical help (erroneous, struggling-student work), so disaggregating evaluation by student proficiency and error status is necessary to avoid overstating capability and widening achievement gaps.
 - **Benchmark and grader errors are mistaken for model failure.** Expert re-grading of six widely used [[physics-education|physics]] benchmarks audited 250 rejected items and attributed 143 (57.20%) to benchmark defects and 95 (38.00%) to grader errors, leaving only 12 (4.80%) genuine model errors, so 95.20% of the measured gap was not attributable to the model. Repairing the items moved HLE-Physics mean@4 from 47.28% to 78.66% and CritPt mean@5 from 32.29% to a corrected 87.50%, converting an apparent frontier-model weakness into near-saturation. The audit argues that a reported score is a joint property of model, item bank and grader, and that expert adjudication should precede any capability claim drawn from a benchmark. ([[frontier-models-physics-benchmark-audit-2026]])
 
-The velocity of the systems being evaluated is a further constraint. [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] describe the temporal problem directly: by the time a large-scale trial has been designed, delivered, analysed and published, the technology under study may have changed materially, which pushes practice towards weak observational or usage data at exactly the moment stronger evidence is needed. Their answer is not to accept weaker designs but to shorten the loop — practitioner-led micro-randomised trials that retain the causal contrast and repeat it as the platform evolves.
+The velocity of the systems being evaluated is a further constraint. [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] describe the temporal problem directly: by the time a large-scale trial has been designed, delivered, analyzed and published, the technology under study may have changed materially, which pushes practice toward weak observational or usage data at exactly the moment stronger evidence is needed. Their answer is not to accept weaker designs but to shorten the loop — practitioner-led micro-randomized trials that retain the causal contrast and repeat it as the platform evolves.
 
 ### Connections to related concepts
 
@@ -101,7 +101,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality
 - [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
 - [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods
-- [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation With Large Language Models
+- [[valid-student-simulation-llm-2026]] — Toward Valid Student Simulation With Large Language Models
 - [[llm-difficulty-calibration-programming-exams-2026]] — From Evaluated Models to Evaluation Aids
 - [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
@@ -117,6 +117,6 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[xiong-ai-educational-measurement-review-2026]] — AI's role across scoring, psychometrics, assessment
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analytic evaluation of AI literacy outcomes
 
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
 - [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
-- [[durable-skills-measurement-ai-teammates-2026]] — Towards Scalable Measurement of Durable Skills
+- [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills

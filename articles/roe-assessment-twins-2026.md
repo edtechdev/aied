@@ -1,7 +1,7 @@
 ---
 title: "Assessment Twins: An Approach for Strengthening Assessment Validity in the Age of Generative AI"
 created: "2026-08-22T17:35:00-04:00"
-updated: "2026-08-22T17:55:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [assessment-validity, academic-integrity, authentic-assessment, generative-ai, higher-ed, assessment, ai-literacy]
 audience: [instructors, administrators]
@@ -30,7 +30,7 @@ GenAI's advanced capability to produce extended works leads to GenAI-assisted [[
 
 An **assessment twin** comprises two deliberately designed, interdependent components that (a) address the same intended learning outcomes, (b) require different modes of evidence or production, and (c) are scheduled so performance on each can be cross-checked to mitigate a known vulnerability, thereby enhancing construct validity compared to either component alone.
 
-The approach is distinct from traditional protocols like the oral viva voce in its core organising logic: it is fundamentally a validity-driven response to a GenAI vulnerability from the outset. The distinction between [[formative-assessment|formative]] and [[summative-assessment|summative]] assessment is central — GenAI-vulnerable tasks are retained for their formative value (the process of completing them is itself meaningful learning) while the twin provides reliable summative evidence of the same outcomes.
+The approach is distinct from traditional protocols like the oral viva voce in its core organizing logic: it is fundamentally a validity-driven response to a GenAI vulnerability from the outset. The distinction between [[formative-assessment|formative]] and [[summative-assessment|summative]] assessment is central — GenAI-vulnerable tasks are retained for their formative value (the process of completing them is itself meaningful learning) while the twin provides reliable summative evidence of the same outcomes.
 
 ## The design process in practice
 
@@ -44,7 +44,7 @@ Twins are most appropriate when a task is pedagogically rich but AI-susceptible.
 
 ## Implications for AI in education
 
-Assessment twins offer a practical, validity-driven complement to the knowledge base's [[assessment-validity]], [[academic-integrity]], and [[authentic-assessment]] threads — moving beyond detection toward structural assessment design that prioritises pedagogy while supporting meaningful learning outcomes. The approach connects to [[educational-policy-ai|assessment policy]] choices about summative format and to the broader [[theory-development-aied|theory-building]] strand on how institutions redesign assessment for AI-mediated education, alongside [[credential-cognitive-stewardship-ai-assessment|cognitive stewardship]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
+Assessment twins offer a practical, validity-driven complement to the knowledge base's [[assessment-validity]], [[academic-integrity]], and [[authentic-assessment]] threads — moving beyond detection toward structural assessment design that prioritizes pedagogy while supporting meaningful learning outcomes. The approach connects to [[educational-policy-ai|assessment policy]] choices about summative format and to the broader [[theory-development-aied|theory-building]] strand on how institutions redesign assessment for AI-mediated education, alongside [[credential-cognitive-stewardship-ai-assessment|cognitive stewardship]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: A light-touch AI literacy intervention helps protect against AI political persuasion
 created: "2026-09-16T09:40:00-04:00"
-updated: "2026-09-16T09:40:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-literacy, critical-thinking, trust-calibration, conversational-ai, llm, generative-ai, rct, meta-analysis-systematic-review]
 sources: ['raw/papers/ai-literacy-warning-political-persuasion-2026.md']
@@ -12,7 +12,7 @@ audience: [educators, learners, researchers, policymakers]
 category: [ai foundations, equity]
 ---
 
-> **Synthesis:** This preregistered two-experiment study (total N = 3,208 US adults) finds that a brief, light-touch [[ai-literacy|AI literacy]] warning — simply telling people that [[llm|LLMs]] can be prompted to persuade and may present information selectively — cut the persuasive effect of an opinion-shifting chatbot conversation by roughly one-half (−48.1%, 95% CI [−59.5%, −36.8%]). The warning worked without depressing participants' general trust in [[generative-ai|generative AI]], which is the key design property for teachers: the aim is [[trust-calibration|calibrated trust]] rather than blanket skepticism. For [[ai-literacy|AI literacy]] instruction the result is encouraging because the intervention is free, one-paragraph-long, and requires no training or facilitation, though the authors stress it is a proof of concept rather than a complete defence against [[ai-sycophancy|sycophantic]] or manipulative [[conversational-ai|conversational AI]].
+> **Synthesis:** This preregistered two-experiment study (total N = 3,208 US adults) finds that a brief, light-touch [[ai-literacy|AI literacy]] warning — simply telling people that [[llm|LLMs]] can be prompted to persuade and may present information selectively — cut the persuasive effect of an opinion-shifting chatbot conversation by roughly one-half (−48.1%, 95% CI [−59.5%, −36.8%]). The warning worked without depressing participants' general trust in [[generative-ai|generative AI]], which is the key design property for teachers: the aim is [[trust-calibration|calibrated trust]] rather than blanket skepticism. For [[ai-literacy|AI literacy]] instruction the result is encouraging because the intervention is free, one-paragraph-long, and requires no training or facilitation, though the authors stress it is a proof of concept rather than a complete defense against [[ai-sycophancy|sycophantic]] or manipulative [[conversational-ai|conversational AI]].
 
 ## Two Preregistered Experiments
 
@@ -28,7 +28,7 @@ The design is grounded in persuasion knowledge theory — recognizing a counterp
 
 ## Headline Result: Roughly Half the Persuasion
 
-Analysed separately, Study 1's warning significantly decreased persuasive effects (b = −1.81, [−2.89, −0.74], z = −3.30, p = 0.001). In Study 2 both the general warning (b = −3.23, [−6.51, 0.04], z = −1.93, p = 0.053) and the specific warning (b = −3.50, [−6.93, −0.06], z = −2.00, p = 0.046) at least marginally decreased attitude change.
+Analyzed separately, Study 1's warning significantly decreased persuasive effects (b = −1.81, [−2.89, −0.74], z = −3.30, p = 0.001). In Study 2 both the general warning (b = −3.23, [−6.51, 0.04], z = −1.93, p = 0.053) and the specific warning (b = −3.50, [−6.93, −0.06], z = −2.00, p = 0.046) at least marginally decreased attitude change.
 
 A multilevel random-effects [[meta-analysis-systematic-review|meta-analysis]] across every randomized factor in both experiments — 32 estimates, transformed into percent reduction relative to control because baseline change varied substantially by issue — gives the headline figure: literacy warnings reduced persuasive effects by 48.1% ([−59.5%, −36.8%], z = −8.32, p < 0.001). Restricting to the general warning alone yields 45.9% ([−58.4%, −33.4%], z = −7.19, p < 0.001). The effect survives pooling on the additive scale instead of as a percent reduction (b = −2.06, [−3.40, −0.73], z = −3.03, p = 0.002), and there is no significant heterogeneity across topics or studies (Q(31) = 17.71, p = 0.97). For scale: pre-to-post belief change in the control condition was a meta-analytic 8.42 points in the direction of persuasion ([0.50, 16.34], z = 2.08, p = 0.037), so the warning removed about four points of measurable drift.
 
@@ -46,7 +46,7 @@ Several cautions matter for anyone citing this in a [[curriculum-design|curricul
 
 ## What This Implies for AI Literacy Instruction
 
-The educational reading is that a one-paragraph [[ai-literacy|AI literacy]] intervention, delivered before a learner starts interacting with a [[generative-ai|generative AI]] system, is a plausible and extremely cheap protective layer — no training, no facilitation, no software change, and in this study no collateral damage to learners' willingness to use AI at all. It slots naturally into the awareness-raising tier of [[ai-literacy|AI literacy]] frameworks rather than replacing deeper [[critical-thinking|critical thinking]] or source-evaluation work, and it pairs with warnings about [[hallucination-risk|hallucination risk]], which have separately been shown to shift learner behaviour. Two caveats for practice: the study measured short-run attitude protection, not durable transfer, and the warning tells learners about incentives to persuade but gives them no method for detecting it, which is where [[refutation-text|refutation-based]] and [[misconceptions|misconception]]-correcting approaches still carry the load.
+The educational reading is that a one-paragraph [[ai-literacy|AI literacy]] intervention, delivered before a learner starts interacting with a [[generative-ai|generative AI]] system, is a plausible and extremely cheap protective layer — no training, no facilitation, no software change, and in this study no collateral damage to learners' willingness to use AI at all. It slots naturally into the awareness-raising tier of [[ai-literacy|AI literacy]] frameworks rather than replacing deeper [[critical-thinking|critical thinking]] or source-evaluation work, and it pairs with warnings about [[hallucination-risk|hallucination risk]], which have separately been shown to shift learner behavior. Two caveats for practice: the study measured short-run attitude protection, not durable transfer, and the warning tells learners about incentives to persuade but gives them no method for detecting it, which is where [[refutation-text|refutation-based]] and [[misconceptions|misconception]]-correcting approaches still carry the load.
 
 ## Connected Concepts
 

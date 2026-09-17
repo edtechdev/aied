@@ -1,7 +1,7 @@
 ---
 title: "From AI literacy to AI-integrated inquiry-based science teaching: the serial mediating roles of AI-TPACK and science teaching self-efficacy among Chinese pre-service science teachers"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, tpack, inquiry-based-learning, self-efficacy, science-education, teacher-ai-competency, teacher-education, teacher-role, pedagogy]
 audience: [researchers, teacher educators, teachers, policymakers]
@@ -25,21 +25,21 @@ confidence: high
 
 A total of 548 Chinese pre-service science teachers, mostly second- to fourth-year undergraduates at normal and comprehensive [[higher-ed|universities]], completed an online questionnaire distributed through the Wenjuanxing platform by convenience sampling. Their majors covered science education, [[physics-education|physics education]], [[chemistry-education|chemistry education]], [[biology-education|biology education]] and geography education, and most had already taken educational technology, science teaching methods or subject-specific pedagogy courses. Four constructs were measured on seven-point Likert scales: AI literacy, AI-TPACK, science teaching self-efficacy (adapted from the STEBI-B personal science teaching efficacy subscale) and intention to integrate AI into inquiry-based science teaching. The original English scales were translated and back-translated into Chinese, reviewed by three experts for content validity, and piloted with 30 students before the main survey.
 
-The data were analysed with partial least squares structural equation modelling, chosen to explain variance in the endogenous constructs and to test multiple direct and serial indirect paths; the model accounted for roughly 35% of the variance in integration intention. Measurement quality was established first, with loadings, reliability and convergent and discriminant validity meeting conventional thresholds, and with common-method and collinearity diagnostics showing no serious threat. Background variables were then entered as controls in a robustness step to confirm that the findings were not driven by prior AI or teaching experience.
+The data were analyzed with partial least squares structural equation modeling, chosen to explain variance in the endogenous constructs and to test multiple direct and serial indirect paths; the model accounted for roughly 35% of the variance in integration intention. Measurement quality was established first, with loadings, reliability and convergent and discriminant validity meeting conventional thresholds, and with common-method and collinearity diagnostics showing no serious threat. Background variables were then entered as controls in a robustness step to confirm that the findings were not driven by prior AI or teaching experience.
 
 ## Implications
 
 - Teacher educators should embed AI training within science pedagogy and inquiry-based teaching rather than limiting it to general tool operation — for example, guiding pre-service teachers to design inquiry questions with AI, evaluate AI-generated scientific models, judge the scientific accuracy of AI content, and identify ethical risks and biases.
-- University [[teacher-education|teacher education]] programmes in science should build AI-TPACK through subject-specific modules on concept visualisation, experimental simulation, data interpretation and explanation construction, instead of addressing AI only in generic educational technology courses.
+- University [[teacher-education|teacher education]] programs in science should build AI-TPACK through subject-specific modules on concept visualization, experimental simulation, data interpretation and explanation construction, instead of addressing AI only in generic educational technology courses.
 - For policymakers, AI-enabled education reform should extend beyond general AI or digital literacy training: curricula and assessment need to address whether pre-service teachers can apply AI within scientific inquiry, model-based reasoning and [[ethics|ethical]] classroom practice.
-- AI literacy alone is not sufficient preparation for AI-supported [[science-education|science education]]; the study argues that contextualised, [[discipline-specific-aied|subject-specific]] knowledge and the confidence it supports are what connect literacy to teaching intention.
+- AI literacy alone is not sufficient preparation for AI-supported [[science-education|science education]]; the study argues that contextualized, [[discipline-specific-aied|subject-specific]] knowledge and the confidence it supports are what connect literacy to teaching intention.
 
 ## Limitations
 
 - The cross-sectional design precludes strong causal inference: the serial chain is a theoretically grounded association, not a demonstrated developmental sequence.
 - Data come from [[self-report-measures|self-report]] questionnaires, so social desirability and subjective perception may shape responses; no classroom observation or design-task evidence was collected.
 - The sample comprised only Chinese pre-service science teachers, limiting generalisability to other countries, regions or types of teacher education institution.
-- AI-TPACK was measured as a first-order construct of perceived AI-integrated pedagogical knowledge; it did not capture the sociocultural dimension of digitality emphasised by DPACK, nor DiKoLAN AI's subject-specific competencies in data processing, simulation and modelling, and scientific information evaluation.
+- AI-TPACK was measured as a first-order construct of perceived AI-integrated pedagogical knowledge; it did not capture the sociocultural dimension of digitality emphasised by DPACK, nor DiKoLAN AI's subject-specific competencies in data processing, simulation and modeling, and scientific information evaluation.
 - Generalisability across science disciplines (physics, chemistry, biology, earth science) was not tested; future multigroup comparisons are needed.
 
 ## Connected Concepts
@@ -54,7 +54,7 @@ The data were analysed with partial least squares structural equation modelling,
 
 ## Connected Articles
 
-- [[pre-service-science-teachers-ai-perceptions-2026]] — examines the same population's perceptions and acceptance of AI in science education programmes.
+- [[pre-service-science-teachers-ai-perceptions-2026]] — examines the same population's perceptions and acceptance of AI in science education programs.
 - [[ai-tpack-preservice-math-teachers]] — tests AI-TPACK readiness among preservice teachers with the same structural equation modeling method.
 - [[science-educators-ai-literacy-postqualification-2026]] — directly cited; finds no link between general AI literacy and AI use, complementing this study's mechanism-based findings.
 - [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — empirically examines the broader intelligent-TPACK framework that this study's AI-TPACK construct draws on.

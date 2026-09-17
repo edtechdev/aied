@@ -1,7 +1,7 @@
 ---
 title: "Generate-Then-Validate: Question Generation for Education"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [automated-question-generation, llm, automated-assessment, stem-education, generative-ai]
 audience: [software developers]
@@ -49,7 +49,7 @@ Automated question generation reduces manual authoring burden for educators and 
 - [[code-gen]] — CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
-- [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
+- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal Item Parameter Estimation using Simulated Response Probabilities
 - [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
 - [[llm-educational-question-cognitive-depth]]

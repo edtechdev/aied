@@ -1,7 +1,7 @@
 ---
 title: "Designing AI Systems to Support Productive-Failure-Based Learning"
 created: "2026-08-23T08:00:00-04:00"
-updated: "2026-08-23T09:30:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [productive-failure, generative-ai, adult-learning, learning-design, llm, human-in-the-loop-ai, higher-ed]
 research_method: [qualitative, interviews]
@@ -32,7 +32,7 @@ Productive Failure (PF), grounded in [[constructivist|constructivist principles]
 
 ## Five design principles for AI supporting PF
 
-1. **Human-AI collaboration** — complementary roles; interpretability; [[human-in-the-loop-ai|human-in-the-loop]] integrating learners' and instructors' judgement across the AI lifecycle; feedback loops. Rather than AI giving a final answer, use AI to help learners identify areas for improvement and make final decisions themselves.
+1. **Human-AI collaboration** — complementary roles; interpretability; [[human-in-the-loop-ai|human-in-the-loop]] integrating learners' and instructors' judgment across the AI lifecycle; feedback loops. Rather than AI giving a final answer, use AI to help learners identify areas for improvement and make final decisions themselves.
 2. **Usability** — [[accessibility]]/inclusivity; graceful error handling and ambiguity resolution (ask clarifying questions, admit uncertainty rather than fabricate); visual cues distinguishing learner input from AI contribution; controllability (opt in/out); data interoperability; seamless AI integration into the existing tech stack (LMS, VR/AR labs).
 3. **Reflective design** — AI that reflects on its own errors and self-improves: correction mechanisms, follow-up questions, context-aware prompts, error tracking and prevention, continuous learning loops.
 4. **Emotional design** — AI personality and conversation design that support learners' emotional experience during struggle.

@@ -1,7 +1,7 @@
 ---
 title: Scaffolding Critical Thinking with Generative AI
 created: "2026-05-10T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, higher-ed, scaffolding, self-regulated-learning, educational-development, metacognition, ai-literacy]
 research_method: [theoretical analysis]
@@ -33,9 +33,9 @@ The framework identifies six interconnected cognitive and metacognitive processe
 
 | Process | Definition |
 |---------|------------|
-| **1. Conceptual interpretation** | Actively constructing meaning by selecting, organizing, and integrating information; distinguishing core ideas from peripheral details. Aligned with Bloom's "Understand" and "Analyse" levels. |
+| **1. Conceptual interpretation** | Actively constructing meaning by selecting, organizing, and integrating information; distinguishing core ideas from peripheral details. Aligned with Bloom's "Understand" and "Analyze" levels. |
 | **2. Inferential reasoning** | Generating warranted conclusions from evidence; identifying assumptions, discerning logical relationships, and predicting implications. The cognitive bridge between information and action. |
-| **3. Evaluative judgement** | Assessing credibility, coherence, and evidentiary support of claims. What Bielik & Krell (2025) call *epistemic vigilance* — the capacity to critically assess both source credibility and claim validity. |
+| **3. Evaluative judgment** | Assessing credibility, coherence, and evidentiary support of claims. What Bielik & Krell (2025) call *epistemic vigilance* — the capacity to critically assess both source credibility and claim validity. |
 | **4. Metacognitive [[regulation]]** | Monitoring, evaluating, and strategically controlling one's cognitive processes. Transforms critical thinking from episodic acts into sustained, [[self-directed-learning|self-directed]] practice. |
 | **5. Intellectual curiosity** | The [[motivation|motivational]] disposition to explore ideas, ask questions, and pursue knowledge beyond instrumental goals. Fuels cognitive persistence and epistemic openness. |
 | **6. Epistemic integrity** | The [[ethics|ethical]] orientation to seek truth, evaluate claims fairly, and engage with complexity conscientiously. Combines intellectual honesty with critical reflexivity. |
@@ -46,11 +46,11 @@ The framework identifies six interconnected cognitive and metacognitive processe
 |-----------|---------------|---------------------|
 | **P1. Preserve [[desirable-difficulties|cognitive friction]]** | Require independent thinking before AI; use AI to generate counterarguments | Conceptual interpretation, Inferential reasoning |
 | **P2. Scaffold LLMs as thinking partners** | Position LLMs as provisional collaborators, not authoritative sources | Inferential reasoning, Curiosity, Epistemic integrity |
-| **P3. Embed evaluation as standard practice** | Structured checkpoints for cross-referencing and criteria-based assessment | Inferential reasoning, Evaluative judgement |
+| **P3. Embed evaluation as standard practice** | Structured checkpoints for cross-referencing and criteria-based assessment | Inferential reasoning, Evaluative judgment |
 | **P4. Activate metacognitive self-regulation** | Planning templates, reflective journals, AI prompt logs | Metacognitive regulation |
 | **P5. Encourage intellectual humility and curiosity** | Examine AI limitations, explore alternative perspectives, identify omissions | Curiosity, Epistemic integrity |
 | **P6. Foster epistemic integrity** | Require justification of claims, multiple perspectives, reasoning under uncertainty | Epistemic integrity |
-| **P7. Align assessment with intended cognition** | Reward reasoning quality over surface fluency; assess how students interpret, question, and integrate AI content | Evaluative judgement, Metacognitive regulation |
+| **P7. Align assessment with intended cognition** | Reward reasoning quality over surface fluency; assess how students interpret, question, and integrate AI content | Evaluative judgment, Metacognitive regulation |
 | **P8. Balance AI-mediated and AI-free phases** | Sequence pre-AI, during-AI, and post-AI activities; deliberate AI-free zones | Conceptual interpretation, Metacognitive regulation |
 
 ## Connection to Existing Frameworks
@@ -99,7 +99,7 @@ Both scenarios emphasize the critical sequence: *independent thinking first, [[s
 - [[students-llm-usage-critical-thinking]] — Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
 - [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discours...
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritize Learning over Performance
 - [[principled-ai-education]] — Principled AI in Education
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning

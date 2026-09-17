@@ -1,7 +1,7 @@
 ---
 title: "The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty"
 created: "2026-07-30T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [llm, formative-assessment, adaptive-learning, feedback, student-experience, stem-education, higher-ed, personalized-learning, ai-literacy, teacher-role]
 research_method: [benchmark]
@@ -39,7 +39,7 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
 - [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
+- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
 - [[llm-student-misconception-identification]] — What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics
 

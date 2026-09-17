@@ -1,7 +1,7 @@
 ---
 title: "Transforming Curriculum Design with Generative AI: A Model for Assessing Teacher Digital Competence"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-08-24T18:50:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [teacher-ai-competency, learning-design, generative-ai, self-efficacy, adult-learning]
 research_method: [survey, educational measurement]
@@ -10,15 +10,15 @@ sources: ['raw/papers/guillen-curriculum-genai-teacher-competence-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** This PLS-SEM study of 434 in-service [[teacher-role|teachers]] in the Dominican Republic designs and psychometrically validates an extended [[technology-acceptance-model|Technology Acceptance Model]] (TAM) instrument for assessing teacher digital competence in integrating [[generative-ai|generative AI]] tools into curriculum planning. All 12 hypothesized paths were supported, and **behavioural intention emerged as the main predictor of digital competence** (β = 0.479), with [[self-efficacy]] exerting the largest effect on perceived enjoyment (f² = 1.839). The model demonstrated strong reliability, convergent and discriminant validity, and good explanatory power (BI R² = 0.694; DC R² = 0.230), positioning behavioural intention as a strategic priority for [[teacher-ai-competency]] development.
+> **Synthesis:** This PLS-SEM study of 434 in-service [[teacher-role|teachers]] in the Dominican Republic designs and psychometrically validates an extended [[technology-acceptance-model|Technology Acceptance Model]] (TAM) instrument for assessing teacher digital competence in integrating [[generative-ai|generative AI]] tools into curriculum planning. All 12 hypothesized paths were supported, and **behavioral intention emerged as the main predictor of digital competence** (β = 0.479), with [[self-efficacy]] exerting the largest effect on perceived enjoyment (f² = 1.839). The model demonstrated strong reliability, convergent and discriminant validity, and good explanatory power (BI R² = 0.694; DC R² = 0.230), positioning behavioral intention as a strategic priority for [[teacher-ai-competency]] development.
 
 ## Core Finding
 
-The study confirms that an extended TAM framework — combining [[self-efficacy]], perceived usefulness, perceived ease of use, perceived enjoyment, and attitude of use — predicts teachers' behavioural intention to use GenAI tools in [[curriculum-design|curriculum design]], and that this behavioural intention is the strongest direct predictor of teachers' [[pedagogy|pedagogical]] digital competence (H12: β = 0.479, t = 10.226, f² = 0.298). The IPMA analysis reinforces this: behavioural intention combined the highest importance (≈0.49) and performance (≈86) for predicting digital competence, identifying it as the strategic lever for training interventions. Notably, self-efficacy was the exogenous root of the model, feeding usefulness (β = 0.446), ease of use (β = 0.500), and especially enjoyment (β = 0.805, f² = 1.839 — the largest effect in the model).
+The study confirms that an extended TAM framework — combining [[self-efficacy]], perceived usefulness, perceived ease of use, perceived enjoyment, and attitude of use — predicts teachers' behavioral intention to use GenAI tools in [[curriculum-design|curriculum design]], and that this behavioral intention is the strongest direct predictor of teachers' [[pedagogy|pedagogical]] digital competence (H12: β = 0.479, t = 10.226, f² = 0.298). The IPMA analysis reinforces this: behavioral intention combined the highest importance (≈0.49) and performance (≈86) for predicting digital competence, identifying it as the strategic lever for training interventions. Notably, self-efficacy was the exogenous root of the model, feeding usefulness (β = 0.446), ease of use (β = 0.500), and especially enjoyment (β = 0.805, f² = 1.839 — the largest effect in the model).
 
 ## The Extended TAM Model
 
-The instrument (40 items, 7-point Likert) operationalized seven latent factors, all specified as reflective: Digital Competence (DC), Behavioural Intention (BI), Attitude of Use (AOU), Perceived Usefulness (PU), Perceived Ease of Use (PEOU), Perceived Enjoyment (PE), and Self-Efficacy (SE). Reliability was strong across all factors (Cronbach's α .952–.985; CR .961–.985), with convergent validity (AVE all > .50) and discriminant validity confirmed via both Fornell-Larcker and HTMT criteria.
+The instrument (40 items, 7-point Likert) operationalized seven latent factors, all specified as reflective: Digital Competence (DC), Behavioral Intention (BI), Attitude of Use (AOU), Perceived Usefulness (PU), Perceived Ease of Use (PEOU), Perceived Enjoyment (PE), and Self-Efficacy (SE). Reliability was strong across all factors (Cronbach's α .952–.985; CR .961–.985), with convergent validity (AVE all > .50) and discriminant validity confirmed via both Fornell-Larcker and HTMT criteria.
 
 All 12 hypotheses were supported:
 - **PU → AOU** (β = 0.178) and **PU → BI** (β = 0.171) — perceived usefulness shapes both attitudes and intention.
@@ -33,9 +33,9 @@ The model explained moderate-high variance in the perceptual factors (PU R² = 0
 
 Self-efficacy is the sole exogenous variable and the most powerful effect in the model. Consistent with Bandura's Social [[learning-theories|Learning Theory]], teachers confident in their ability to solve technical problems, learn autonomously, and innovate are substantially more likely to perceive GenAI tools as useful, easy, and enjoyable. The authors argue that a sense of effectiveness builds "technoptimism," reducing resistance to new [[ai-technologies|technologies]] and accelerating implementation — a key consideration for [[teacher-ai-competency]] and [[educational-development]] programs.
 
-## Behavioural Intention as a Competence Lever
+## Behavioral Intention as a Competence Lever
 
-A novel contribution is the explicit demonstration that behavioural intention predicts digital competence — a relationship not previously established in the traditional TAM. The authors interpret this through practice: as teachers declare intent to learn and use AI tools, they actively seek [[research-methods-aied|methodological]] knowledge, experiment (even through failures), and build skills through use, leading to real competence gains. Conversely, replicating familiar methods and standard edtech limits competence development in a rapidly evolving technological landscape.
+A novel contribution is the explicit demonstration that behavioral intention predicts digital competence — a relationship not previously established in the traditional TAM. The authors interpret this through practice: as teachers declare intent to learn and use AI tools, they actively seek [[research-methods-aied|methodological]] knowledge, experiment (even through failures), and build skills through use, leading to real competence gains. Conversely, replicating familiar methods and standard edtech limits competence development in a rapidly evolving technological landscape.
 
 ## Context: The Digital Divide
 
@@ -43,7 +43,7 @@ The study is grounded in the Dominican Republic's pronounced dual [[digital-divi
 
 ## Relevance to the Knowledge Base
 
-This paper is a significant contribution to the [[teacher-ai-competency]] concept: it provides a validated, psychometric instrument and an extended-TAM model specifically for GenAI in curriculum planning, an area with limited empirical evidence in Latin American contexts. It connects individual acceptance psychology ([[self-efficacy]], [[motivation]]) to [[learning-design]] practice and [[educational-development]]/[[educational-development|professional development]] policy. Its core actionable message — that behavioural intention, fueled by self-efficacy and intrinsic enjoyment, is the primary lever for building teacher digital competence — offers a testable model for [[ai-education]] training design.
+This paper is a significant contribution to the [[teacher-ai-competency]] concept: it provides a validated, psychometric instrument and an extended-TAM model specifically for GenAI in curriculum planning, an area with limited empirical evidence in Latin American contexts. It connects individual acceptance psychology ([[self-efficacy]], [[motivation]]) to [[learning-design]] practice and [[educational-development]]/[[educational-development|professional development]] policy. Its core actionable message — that behavioral intention, fueled by self-efficacy and intrinsic enjoyment, is the primary lever for building teacher digital competence — offers a testable model for [[ai-education]] training design.
 
 ## Connected Concepts
 

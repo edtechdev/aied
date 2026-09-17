@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
 connected_faqs: [verify-ai-output]
@@ -39,7 +39,7 @@ The knowledge base's articles explore critical thinking through [[design-based-r
 
 Critical thinking intersects with [[scaffolding]] (designing AI support that maintains cognitive demand), [[prompt-engineering]] (formulating questions that elicit critical analysis), and [[cognitive-offloading|Over-Reliance]] (knowing when to trust and when to question AI). It is foundational to [[academic-integrity]] and serves as a key dimension of [[ai-literacy]] frameworks across both [[k-12]] and [[higher-ed]] contexts.
 
-- **AI errors as provocations for higher-order thinking:** [[pedagogy-ai-mistakes|Hosseini (2026)]] operationalises Bloom's higher-order levels (Analyze, Evaluate, Create) by having students interrogate AI-generated mistakes in a database course, with significant pre/post gains (Cohen's *d*=1.49) in subject-matter competency.
+- **AI errors as provocations for higher-order thinking:** [[pedagogy-ai-mistakes|Hosseini (2026)]] operationalizes Bloom's higher-order levels (Analyze, Evaluate, Create) by having students interrogate AI-generated mistakes in a database course, with significant pre/post gains (Cohen's *d*=1.49) in subject-matter competency.
 
 - **Two-sided auditing of AI explanations.** Bernstein and Sibia (2026) used Paul–Elder standards (accuracy, clarity, assumptions, point of view) as interview probes with ten students who had completed CS2, and found mechanism-level scrutiny of [[generative-ai|GenAI]] explanations: students located where an analogy's mapping broke (an island-route analogy for a linked list that implied a circle, a badminton rally offered for recursion that had no guaranteed shrinking input), demanded precise wording over hedging, and treated explanations as arguments carrying a point of view. Crucially, that scrutiny tracked source- or target-domain expertise rather than personal interest — reframing critical [[ai-ed-evaluation|evaluation of AI]] output as a knowledge problem ("two-sided analogy auditing") rather than a dispositional one — and suggesting that assigning flawed AI analogies as objects to inspect and repair is a harder check on conceptual understanding than reading a finished explanation.([[student-reception-genai-analogies-computing-2026]])
 

@@ -1,7 +1,7 @@
 ---
 title: "What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it"
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [intelligent-tutoring, scaffolding, active-learning, student-experience, teacher-role, learning-analytics, llm, k-12]
 research_method: [theoretical analysis]
@@ -18,7 +18,7 @@ confidence: high
 ## Key Findings
 
 - The chapter reconstructs the requirements that a situation, an interaction, and a set of cognitive processes have historically had to meet before being called collaborative, returning to longstanding accounts of [[collaborative-learning]].
-- **True human-AI collaboration** requires a partly symmetric and negotiated relationship, shared and negotiable goals, a low and shifting division of labour, interactive and synchronous exchange, and mutual modelling, grounding, and socially shared [[regulation]].
+- **True human-AI collaboration** requires a partly symmetric and negotiated relationship, shared and negotiable goals, a low and shifting division of labor, interactive and synchronous exchange, and mutual modeling, grounding, and socially shared [[regulation]].
 - Reviewing process-sensitive empirical studies of writing and [[problem-solving|problem solving]], the author shows that **most current human-AI interaction is better described as consultation, governance, delegation, or instruction** rather than collaboration.
 - The chapter introduces a **five-level diagnostic taxonomy of human-AI teaming — transactional, situational, operational, praxical, and synergistic** — defined by the affordances an AI system exhibits, with only the highest level beginning to satisfy the conditions the tradition places on collaboration.
 - The author argues that most of the **prerequisite functions** an AI must possess for collaboration are present-day engineering choices rather than capabilities to be awaited.

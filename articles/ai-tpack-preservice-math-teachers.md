@@ -1,7 +1,7 @@
 ---
 title: "AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study"
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, higher-ed, stem-education, educational-development, math-education]
 research_method: [survey]
@@ -12,7 +12,7 @@ sources: ['raw/papers/caeai-ai-tpack-math.md']
 confidence: medium
 ---
 
-> **Synthesis:** [[ai-literacy|AI literacy]]-related domains and AI-[[tpack]] readiness among preservice mathematics teachers: A factor-informed structural equation modelling study
+> **Synthesis:** [[ai-literacy|AI literacy]]-related domains and AI-[[tpack]] readiness among preservice mathematics teachers: A factor-informed structural equation modeling study
 
 ## Key Findings
 

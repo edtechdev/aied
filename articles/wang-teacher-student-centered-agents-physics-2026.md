@@ -1,7 +1,7 @@
 ---
 title: "Comparing teacher-centered and student-centered agents based on prompt engineering: Effects on learning performance, cognitive load, flow experience, and empathy perception in physics learning"
 created: "2026-09-11T00:40:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [physics-education, pedagogical-agent, prompt-engineering, generative-ai, llm, intelligent-tutoring, motivation, student-engagement, affective-computing, student-ai-interaction]
 research_method: [experiment, quantitative]
@@ -23,14 +23,14 @@ confidence: high
 
 Both agents were built on Coze with chain-of-thought guidance and the same foundation model, so the comparison isolates the prompt design.
 
-- **Teacher-centered agent** — an experienced physics teacher with deep subject knowledge. Its skills are analysing the question context, providing solutions, and offering supplementary examples. Its constraints: responses must be accurate and credible, grounded in a bounded knowledge source of Ministry of Education-approved electronic textbooks (with explicit acknowledgement when a question falls outside that boundary), explained from an instructor's perspective, and concise and structured with no extraneous content. The authors note these constraints were intended to reduce [[hallucination-risk|hallucination]] without guaranteeing accuracy.
+- **Teacher-centered agent** — an experienced physics teacher with deep subject knowledge. Its skills are analyzing the question context, providing solutions, and offering supplementary examples. Its constraints: responses must be accurate and credible, grounded in a bounded knowledge source of Ministry of Education-approved electronic textbooks (with explicit acknowledgment when a question falls outside that boundary), explained from an instructor's perspective, and concise and structured with no extraneous content. The authors note these constraints were intended to reduce [[hallucination-risk|hallucination]] without guaranteeing accuracy.
 - **Student-centered agent** — a physics teacher with empathic capability, configured around pedagogical content knowledge and specifically *knowledge of students' understanding*: the ability to diagnose comprehension levels and common misconceptions. Its scripted moves are "You have this question because…" (analyzing the cause of the misconception), "This question involves…" (naming the relevant concept), and "This phenomenon is similar to…, also because…" (transferring to a new real-world situation). Explanations come from the student's perspective, interaction is prioritized, and the style is deliberately friendly.
 
 ## Method
 
 - **Participants:** 63 high school graduates from a southeastern Chinese province, all recent National College Entrance Examination takers ranked within the top 20.4% provincially (20 male, 43 female); none had prior formal instruction on [[agentic-ai|AI agents]] or LLMs.
 - **Materials:** two conceptual multiple-choice items — which of two unequal candles in a closed glass box extinguishes first, and how air-conditioner airflow direction affects temperature uniformity in a sealed room. A pilot with 113 comparable students found only 32.86% accuracy on the candle item, confirming it targets a genuine reasoning gap.
-- **Design:** assignment by the parity of ID-number last digit (32 teacher-centered, 31 student-centered); a 10-minute independent pretest, roughly 20 minutes of dialogue with the assigned agent, then post-test and questionnaires. Four students who did not provide personal information in the post-test were excluded, leaving **59 analysed**.
+- **Design:** assignment by the parity of ID-number last digit (32 teacher-centered, 31 student-centered); a 10-minute independent pretest, roughly 20 minutes of dialogue with the assigned agent, then post-test and questionnaires. Four students who did not provide personal information in the post-test were excluded, leaving **59 analyzed**.
 - **Instruments:** the two questions as a knowledge test (5 points per correct answer), plus scales for cognitive load (three dimensions, Cronbach's α = 0.857), flow experience (enjoyment, engagement, control), and empathy perception. Non-normal distributions (Kolmogorov–Smirnov p < 0.01) led to Mann–Whitney U and Wilcoxon signed-rank tests for the knowledge test.
 
 ## Results

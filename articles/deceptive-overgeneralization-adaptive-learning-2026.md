@@ -1,7 +1,7 @@
 ---
 title: "Deceptive Overgeneralization: When Adaptive Learning Enables Systematic Misapplication"
 created: "2026-08-30T14:00:00-04:00"
-updated: "2026-08-30T14:00:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [intelligent-tutoring, adaptive-learning, knowledge-tracing, mastery-learning, student-modeling, learning-theories, transfer-of-learning, misconceptions, feedback, k-12]
 research_method: [experiment, secondary analysis]
@@ -16,7 +16,7 @@ confidence: high
 ## Key Findings
 
 1. **Correctness can mask incomplete conditional understanding.** Learners can appear competent during practice while having compiled an overgeneralized production rule — performing the expected action but omitting the "when to withhold it" constraint. This "deceptive" pattern inflates learners' perceived competence and misleads any assessment that infers mastery from observed actions.
-2. **Deceptive overgeneralization is empirically prevalent.** In 11 experiments using ITSs for composite-condition, single-action skills in Riichi Mahjong (score calculation, Pinfu, Kabe, Riichi judgement), learners misapplied the learned action on the first detector item at rates of 61.5%–100% across skills and cohorts — significantly exceeding both the BKT accurate-mastery baseline (12% expected error) and the new-KC baseline (40%) in nearly all comparisons.
+2. **Deceptive overgeneralization is empirically prevalent.** In 11 experiments using ITSs for composite-condition, single-action skills in Riichi Mahjong (score calculation, Pinfu, Kabe, Riichi judgment), learners misapplied the learned action on the first detector item at rates of 61.5%–100% across skills and cohorts — significantly exceeding both the BKT accurate-mastery baseline (12% expected error) and the new-KC baseline (40%) in nearly all comparisons.
 3. **Correctness-based mastery stopping rules can terminate practice too early.** With BKT-based adaptivity (95% mastery threshold), the system stopped assigning practice before learners encountered any "do-not-act" case — so the overgeneralization went undetected in the adaptive round and only surfaced when learners were later given full exposure.
 4. **Targeted "do-not-act" remediation is highly effective.** Short sequences of practice where the correct response is to *refrain* from the learned action, paired with feedback naming the missing application constraint, reduced misapplication from 78.6%–100% initially to 0.0%–23.1% post-remediation (Cohen's h 1.696–2.441).
 5. **The mechanism generalizes beyond adaptive learning.** A secondary analysis of K-12 *Decimal Point* decimal-learning data (13 datasets, 2015–2025) showed whole-number bias — recast as a deceptive overgeneralization — persists even in an effective learning game, with 84%–88% of decimal-comparison errors consistent with the overgeneralized "longer-is-larger" rule.

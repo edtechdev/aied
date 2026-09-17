@@ -1,7 +1,7 @@
 ---
 title: "Implementing LLMs to Support Misconception-Based Collaborative Learning in Health Care Education"
 created: "2026-08-26T10:07:00-04:00"
-updated: "2026-08-26T10:07:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [refutation-text, misconceptions, collaborative-learning, llm, medical-education, generative-ai, cognitive-psychology]
 research_method: [theoretical analysis]
@@ -31,7 +31,7 @@ The paper extends the [[refutation-text]]/[[misconceptions|misconception]] liter
 - [[critical-thinking]]
 
 ## Connected Articles
-- [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — Personalised AI dialogue for misconception correction
+- [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — Personalized AI dialogue for misconception correction
 - [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Expert/AI conceptual change text vs. AI dialogue
 
 ## Citation

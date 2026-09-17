@@ -1,7 +1,7 @@
 ---
 title: "The Use and Usefulness of GenAI in Higher Education: Student Experience and Perspectives"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-01T09:11:26-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: ["student-experience", "generative-ai", "higher-ed", "ai-literacy", "academic-integrity", "equity-in-ai-education", "trust"]
 research_method: [survey]
@@ -12,15 +12,15 @@ confidence: high
 
 ---
 
-> **Synthesis:** Chung, Henderson, Slade, Liang, Pepperell, Corbin, and colleagues (2026) report a large-scale multi-institution survey of over 8000 students at four Australian universities on their [[generative-ai|GenAI]] use. Over 80% of students had used GenAI for study-related tasks, with nearly half using it regularly, primarily for editing, summarising, and idea generation. Usefulness rather than blind [[trust]] or rule compliance appeared to drive [[student-engagement|engagement]]: students adopted GenAI pragmatically, with low trust in its factual accuracy but confidence in managing it as a support tool. Most students learned about the tools informally, and equity gaps were evident, with lower engagement among women, non-binary, [[neurodiversity|neurodivergent]] students, and those with health conditions.
+> **Synthesis:** Chung, Henderson, Slade, Liang, Pepperell, Corbin, and colleagues (2026) report a large-scale multi-institution survey of over 8000 students at four Australian universities on their [[generative-ai|GenAI]] use. Over 80% of students had used GenAI for study-related tasks, with nearly half using it regularly, primarily for editing, summarizing, and idea generation. Usefulness rather than blind [[trust]] or rule compliance appeared to drive [[student-engagement|engagement]]: students adopted GenAI pragmatically, with low trust in its factual accuracy but confidence in managing it as a support tool. Most students learned about the tools informally, and equity gaps were evident, with lower engagement among women, non-binary, [[neurodiversity|neurodivergent]] students, and those with health conditions.
 
 ## Key Findings
 
-- Over 80% of students at four Australian universities had used GenAI for study-related tasks, with nearly half using it regularly, mainly for editing, summarising, and idea generation.
+- Over 80% of students at four Australian universities had used GenAI for study-related tasks, with nearly half using it regularly, mainly for editing, summarizing, and idea generation.
 - Usefulness, rather than blind trust or rule compliance, appeared to drive engagement; students had low trust in factual accuracy but confidence in their ability to manage the tools.
 - Most students learned about GenAI through informal, [[self-directed-learning|self-directed]] means rather than [[governance|institutional]] resources.
 - Equity gaps were evident: proportionately lower engagement among women, non-binary, neurodivergent students, and those with health conditions.
-- While most students avoided prohibited use, a significant minority reported behaviour that contravenes [[educational-policy-ai|policy]], pointing to a need for nuanced, situationally aware academic-integrity approaches.
+- While most students avoided prohibited use, a significant minority reported behavior that contravenes [[educational-policy-ai|policy]], pointing to a need for nuanced, situationally aware academic-integrity approaches.
 
 ## Implications for AI in Education
 

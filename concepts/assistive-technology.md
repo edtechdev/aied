@@ -1,7 +1,7 @@
 ---
 title: Assistive Technology
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [assistive-technology, accessibility, special-education, inclusive-learning, equity-in-ai-education, learning-design]
 connected_faqs: [ai-disabled-neurodivergent-learners]
@@ -34,7 +34,7 @@ Assistive technology is the concrete *tool layer* of [[accessibility]]. Where ac
 
 **The limits of assistive tools.** Assistive technology enables access but does not by itself ensure inclusive instruction or learner [[agency]]. **[[genai-minoritized-knowledges-disability|Critical research]]** and the push for [[agency|agentic]] roles for students with disabilities remind us that access must pair with meaningful participation.
 
-A 2026 scoping review of digital assistive [[ai-technologies|technologies]] for [[neurodiversity|neurodivergent]] students in [[higher-ed|higher education]] maps the decade's output: 766 records screened across five databases, 40 studies included, with AI-based tools in 15 of them and [[virtual-and-augmented-reality|virtual reality]] in 11. Its organising finding is a mismatch between what the tools target and where the barriers sit — 27 studies supported learning directly, 13 addressed reading and writing and 12 study management, while attention (n = 4) and social communication (n = 5) were comparatively neglected and only 6 addressed multiple barriers ([[digital-assistive-technologies-neurodivergent-students-2026|Rempel et al., 2026]]).
+A 2026 scoping review of digital assistive [[ai-technologies|technologies]] for [[neurodiversity|neurodivergent]] students in [[higher-ed|higher education]] maps the decade's output: 766 records screened across five databases, 40 studies included, with AI-based tools in 15 of them and [[virtual-and-augmented-reality|virtual reality]] in 11. Its organizing finding is a mismatch between what the tools target and where the barriers sit — 27 studies supported learning directly, 13 addressed reading and writing and 12 study management, while attention (n = 4) and social communication (n = 5) were comparatively neglected and only 6 addressed multiple barriers ([[digital-assistive-technologies-neurodivergent-students-2026|Rempel et al., 2026]]).
 
 ## Implications for practice
 

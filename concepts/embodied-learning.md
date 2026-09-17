@@ -1,13 +1,13 @@
 ---
 title: Embodied Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-13T09:58:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [embodied-learning, educational-robotics, computational-thinking, active-learning, situated-learning]
 confidence: high
 ---
 
-> **Embodied learning** — the [[pedagogy|pedagogical]] principle that learning is grounded in bodily experience, physical interaction, and the sensory-motor context of the learner. Embodied approaches hold that cognition is not purely abstract but shaped by the body and its interaction with the environment. In [[ai-education|AI in education]], embodiment is realized through [[educational-robotics|educational robots]] and [[educational-robotics|social robots]], whose physical presence grounds abstract concepts (such as program logic or social skills) in observable, manipulable behaviour.
+> **Embodied learning** — the [[pedagogy|pedagogical]] principle that learning is grounded in bodily experience, physical interaction, and the sensory-motor context of the learner. Embodied approaches hold that cognition is not purely abstract but shaped by the body and its interaction with the environment. In [[ai-education|AI in education]], embodiment is realized through [[educational-robotics|educational robots]] and [[educational-robotics|social robots]], whose physical presence grounds abstract concepts (such as program logic or social skills) in observable, manipulable behavior.
 
 ## Questions to Consider
 
@@ -22,7 +22,7 @@ Embodied learning is closely related to [[active-learning]], [[experiential-lear
 
 ### How embodied learning appears in the knowledge base's research
 
-- **Grounded programming:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] grounds [[cs-education|block programming]] in embodied robot execution, creating a tight loop of authoring, running, observing, and revising so learners see their code become behaviour.
+- **Grounded programming:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] grounds [[cs-education|block programming]] in embodied robot execution, creating a tight loop of authoring, running, observing, and revising so learners see their code become behavior.
 - **Social-robotic interaction:** [[educational-robotics|Social robots]] used for [[storytelling-in-education|storytelling]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), role-play ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]), and sign language ([[pepper-robot-sign-language-lis-2025|Pepper]]) provide embodied social interaction that supports relational and [[social-emotional-learning|emotional]] learning.
 - **Embodiment and creative writing:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Research on robot-LLM integration in creative writing]] examines how embodiment affects learners' interaction and outcomes.
 - **Human-robot interaction:** [[educational-robotics|HRI]] research ([[task-context-trust-educational-hri-2026|trust]], [[human-autonomy-agency-hri-review-2025|agency]]) examines how physical embodiment shapes trust, [[student-engagement|engagement]], and [[agency|autonomy]].

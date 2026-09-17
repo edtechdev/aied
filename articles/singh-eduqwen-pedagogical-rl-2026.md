@@ -1,7 +1,7 @@
 ---
 title: "EduQwen: Pedagogical RL"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [llm, pedagogical-safety, reinforcement-learning, pedagogical-llm-training, open-source, rag]
 audience: [software developers]
@@ -46,7 +46,7 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 - [[edtech-platform]]
 ## Connected Articles
 
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
+- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
 - [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning
 - [[educational-llm-alignment]] — Educational LLM Alignment
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference

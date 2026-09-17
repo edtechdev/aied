@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 tags: [human-in-the-loop-ai, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
@@ -28,11 +28,11 @@ HITL is a response to the limits and risks of fully autonomous [[ai-education|AI
 
 Prescriptive support is a domain where human oversight is increasingly argued to be non-optional. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] tested whether three LLMs could recommend student-support plans from [[learning-analytics]] indicators and found limited sensitivity to need and sharp cross-model inconsistency — concluding that human-in-the-loop judgment is still necessary before [[llm]] prescriptive advising can be deployed safely and ethically.
 
-A third architecture places human judgment *upstream* of the model rather than at its output. In [[lee-learner-question-types-ai-education-2026|Lee, Atif & Kang's (2026)]] study of learner-question classification, three doctoral-level experts governed the whole pipeline: they refined the operational definitions for each [[constructivist]] role, labelled independently until Fleiss' kappa rose from 0.60 to 0.83 after discrepancy resolution, and validated the back-translated and paraphrased items used to balance the training set.
+A third architecture places human judgment *upstream* of the model rather than at its output. In [[lee-learner-question-types-ai-education-2026|Lee, Atif & Kang's (2026)]] study of learner-question classification, three doctoral-level experts governed the whole pipeline: they refined the operational definitions for each [[constructivist]] role, labeled independently until Fleiss' kappa rose from 0.60 to 0.83 after discrepancy resolution, and validated the back-translated and paraphrased items used to balance the training set.
 
 ## CODE-GEN: Human-in-the-Loop MCQ Generation
 
-Duan et al. (2026) built a [[rag|RAG]]-based [[agentic-ai|agentic]] system with two agents:
+Duan et al. (2026) built a [[rag]]-based [[agentic-ai|agentic]] system with two agents:
 - **Generator Agent** — Produces multiple-choice coding questions aligned with course learning objectives
 - **Validator Agent** — Assesses quality across seven pedagogical dimensions
 
@@ -73,7 +73,7 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 - **Classroom collaboration support.** [[breideband-community-builder-cobi-2026|CoBi]] keeps the teacher as the reviewing human in an AI system that detects uplifting small-group discourse: teachers explicitly favored pre/post-action review over live real-time display that would put them "on the spot," and the system's classroom-level (rather than individual) aggregated feedback is precisely what lets it navigate the tension between [[privacy]], surveillance, and student [[agency]].
 - **Question and content generation:** beyond CODE-GEN, HITL guides question generation for assessment and [[scaffolding]] ([[code-gen]], [[llm-difficulty-calibration-programming-exams-2026]]). 
 - **Agentic and multi-agent systems:** as AI becomes more autonomous, HITL oversight is a core [[agentic-ai|design guardrail]] ([[agentic-ai-pedagogical-best-practice-2026]], [[guided-llm-scaffolding-independent-learning]]).
-- **Routing by decision consequence, not model uncertainty (2026).** [[human-in-the-loop-ai-scoring-national-assessment-2026|A 2026 operational study]] of Uruguay's Acredita EB national accreditation test (two editions, roughly 5,000-6,000 candidates each) shows what human-in-the-loop design looks like when it is driven by decision consequences rather than by model uncertainty. A GPT-5 scorer agreed with expert raters on 60-80% of the 15 rubric items but was systematically conservative, producing human-pass/AI-fail discrepancies in 15.3% (2024) and 16.5% (2025) of pass/fail comparisons and almost never the reverse. The framework therefore accepts AI-passing results at face value and routes every AI-failing result that could change a candidate's outcome to expert review — after first skipping candidates whose pass/fail cannot depend on the writing section — cutting responses needing full human scoring by at least 50%. A second 2026 design draws the boundary from the other side: in a multi-agent AI standardized-patient platform ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al.]]), human oversight is reserved for what AI is judged unfit to decide, with faculty and human standardized patients supplying contextual interpretation, remediation and readiness judgements, and the system explicitly not permitted to determine [[medical-education|clinical]] competence autonomously.
+- **Routing by decision consequence, not model uncertainty (2026).** [[human-in-the-loop-ai-scoring-national-assessment-2026|A 2026 operational study]] of Uruguay's Acredita EB national accreditation test (two editions, roughly 5,000-6,000 candidates each) shows what human-in-the-loop design looks like when it is driven by decision consequences rather than by model uncertainty. A GPT-5 scorer agreed with expert raters on 60-80% of the 15 rubric items but was systematically conservative, producing human-pass/AI-fail discrepancies in 15.3% (2024) and 16.5% (2025) of pass/fail comparisons and almost never the reverse. The framework therefore accepts AI-passing results at face value and routes every AI-failing result that could change a candidate's outcome to expert review — after first skipping candidates whose pass/fail cannot depend on the writing section — cutting responses needing full human scoring by at least 50%. A second 2026 design draws the boundary from the other side: in a multi-agent AI standardized-patient platform ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al.]]), human oversight is reserved for what AI is judged unfit to decide, with faculty and human standardized patients supplying contextual interpretation, remediation and readiness judgments, and the system explicitly not permitted to determine [[medical-education|clinical]] competence autonomously.
 
 ## Synthesis
 
@@ -103,7 +103,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[agentic-ai]]
 - [[cognitive-offloading]]
 ## Connected Articles
-- [[lee-learner-question-types-ai-education-2026]] — Expert-labelled question classification: humans govern labelling, augmentation, and error analysis (Lee, Atif & Kang 2026)
+- [[lee-learner-question-types-ai-education-2026]] — Expert-labeled question classification: humans govern labeling, augmentation, and error analysis (Lee, Atif & Kang 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — Human supervision and governance as the third layer of agentic GAI course design (Ilieva et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (learners in the tutoring loop)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
@@ -140,7 +140,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
-- [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgement: A Bibliometric Analysis (Mazlan et al. 2026)
+- [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgment: A Bibliometric Analysis (Mazlan et al. 2026)
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation

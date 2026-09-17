@@ -1,7 +1,7 @@
 ---
 title: "The (im)possibility of AI literacy"
 created: "2026-08-10T17:33:14-04:00"
-updated: "2026-08-13"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, critical-thinking, ethics, ai-education, equity-in-ai-education, higher-ed, generative-ai]
 audience: [instructors, researchers]
@@ -18,7 +18,7 @@ confidence: high
 - **Literacy is never neutral:** tracing literacy from sixteenth-century elite domains through the Protestant Reformation, mass institutionalization, and Freirean critical literacy, Pangrazio argues literacy has always been tied to power, access, cultural authority, and social order — yet this contested history is forgotten in the rush to make AI literacy a "cure-all."
 - **What is the "text" of AI?** Conventional literacy applies to a text (a book, movie, article) that can be decoded and comprehended. For AI, the "text" is unclear — the algorithm? the [[llm]]? the data? This makes a critical-literacy deconstruction (identifying assumptions, contradictions, intertextual references) very difficult.
 - **AI is embedded, opaque, and evolving:** AI is often not an isolated tool but part of an ecosystem (e.g., Copilot inside Microsoft 365), can be self-evolving/autonomous, is deliberately opaque (its construction is the domain of computer scientists), and most literacy approaches equate AI with generative AI, overlooking content-moderation and other instantiations.
-- **Programmatic practices:** AI reshapes practices, values, and behaviours in ways that make critique harder — it curates and shapes public discourse while also being an object to discuss and regulate (Ananny's public object/public agent distinction). Criticality requires independent thought not shaped by the very technology being scrutinized.
+- **Programmatic practices:** AI reshapes practices, values, and behaviors in ways that make critique harder — it curates and shapes public discourse while also being an object to discuss and regulate (Ananny's public object/public agent distinction). Criticality requires independent thought not shaped by the very technology being scrutinized.
 - **Digital literacies are declining and commercially captured:** despite ~30 years of digital-literacies [[research-methods-aied|research]], standardized tests (ACER 2023: only 46% of year-10 students proficient; ICILS 2023 declining) show digital literacy is falling. Meanwhile commercial tech companies (Microsoft, Google) have moved in to define literacies around their products, and AI literacy has been "cleaved off" from the broader field of digital literacies.
 - **Literacy may not be the right response:** following Eynon, literacy "responsibilises the end user" rather than exploring [[regulation]]. Pangrazio proposes that literacy, rights (safe/ethical, unbiased, privacy-protecting AI), and sovereignty (countries/institutions developing their own AI and controlling data) responses should be developed in tandem, alongside speculative and interpretive responses.
 
@@ -28,7 +28,7 @@ This is a **critical editorial** (not an empirical study) in *Learning, Media an
 
 ## Implications for AI in Education
 
-The editorial offers a critical corrective to the proliferation of AI literacy frameworks in education, arguing that [[ai-literacy]] is often deployed as a solutionist, instrumental "cure-all" that overlooks questions of power, agency, and ideology — the cornerstones of [[critical-thinking|critical]] and [[equity-in-ai-education|equitable]] approaches. It cautions that AI literacy programmes from commercial tech companies (Google, Microsoft) can only produce "partial forms" of the knowledge and skills required, and that AI literacy should be located within the broader field of critical digital literacies rather than treated as a separate, rarefied programme. For educators, it argues institutions must be reconfigured to find time and space for critical [[student-engagement|engagement]] with AI, supporting students to write with, redesign, or even resist AI. It connects to [[ai-education]], [[ethics]], and [[generative-ai]], and resonates with critical work on AI literacy and power ([[ai-literacy-power-knowledge|AI literacy as power-knowledge]]).
+The editorial offers a critical corrective to the proliferation of AI literacy frameworks in education, arguing that [[ai-literacy]] is often deployed as a solutionist, instrumental "cure-all" that overlooks questions of power, agency, and ideology — the cornerstones of [[critical-thinking|critical]] and [[equity-in-ai-education|equitable]] approaches. It cautions that AI literacy programs from commercial tech companies (Google, Microsoft) can only produce "partial forms" of the knowledge and skills required, and that AI literacy should be located within the broader field of critical digital literacies rather than treated as a separate, rarefied program. For educators, it argues institutions must be reconfigured to find time and space for critical [[student-engagement|engagement]] with AI, supporting students to write with, redesign, or even resist AI. It connects to [[ai-education]], [[ethics]], and [[generative-ai]], and resonates with critical work on AI literacy and power ([[ai-literacy-power-knowledge|AI literacy as power-knowledge]]).
 
 ## Limitations
 

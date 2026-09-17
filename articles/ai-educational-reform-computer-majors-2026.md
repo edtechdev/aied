@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Educational Reform: Enhancing Talent Cultivation in Computer-Related Majors for the Digital Era"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [cs-education, higher-ed, curriculum-design, learning-design, personalized-learning]
 audience: [institutions, instructors]
@@ -26,7 +26,7 @@ confidence: high
 
 A program-wide reform initiative evaluated as a descriptive pre/post cohort comparison across two consecutive academic years. A total of 244 students participated in the post-reform cohort (against 205 in the pre-reform cohort) across four computer-related undergraduate programs, instructed by five faculty members, with data collected over two consecutive semesters. Because the reform was implemented program-wide, no parallel control group was available.
 
-The intervention had five components: [[curriculum-design]] restructuring built on a three-layer competency map (core competencies, sub-competencies, performance indicators); smart-teaching integration; interdisciplinary and collaborative talent cultivation via a dual-mentor system and cross-disciplinary course alliance; practice-oriented learning platforms spanning physical labs, virtual platforms, and enterprise and international collaboration; and a multi-dimensional evaluation system grounded in constructive alignment. AI was implemented through an intelligent dashboard (Python/Dash/Plotly with a PostgreSQL backend), adaptive [[feedback|feedback loops]] driven by a [[reinforcement-learning]] model, and semantic-similarity novelty scoring using the Qwen-7B pre-trained [[llm]]. Outcomes were analysed with t-tests and effect sizes on programming completion, algorithmic reasoning, teamwork competence, and a Likert-based teaching-effectiveness survey.
+The intervention had five components: [[curriculum-design]] restructuring built on a three-layer competency map (core competencies, sub-competencies, performance indicators); smart-teaching integration; interdisciplinary and collaborative talent cultivation via a dual-mentor system and cross-disciplinary course alliance; practice-oriented learning platforms spanning physical labs, virtual platforms, and enterprise and international collaboration; and a multi-dimensional evaluation system grounded in constructive alignment. AI was implemented through an intelligent dashboard (Python/Dash/Plotly with a PostgreSQL backend), adaptive [[feedback|feedback loops]] driven by a [[reinforcement-learning]] model, and semantic-similarity novelty scoring using the Qwen-7B pre-trained [[llm]]. Outcomes were analyzed with t-tests and effect sizes on programming completion, algorithmic reasoning, teamwork competence, and a Likert-based teaching-effectiveness survey.
 
 ## Implications for AI in Education
 

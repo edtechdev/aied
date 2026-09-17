@@ -1,7 +1,7 @@
 ---
 title: "Teaching with Generative Artificial Intelligence: Enhancing Critical Thinking and Ethical Awareness in Academic Writing"
 created: "2026-08-20T08:40:00-04:00"
-updated: "2026-08-21T13:21:45-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, writing-education, critical-thinking, ethics, academic-integrity, higher-ed]
 research_method: [mixed methods, interviews]
@@ -19,9 +19,9 @@ confidence: medium
 
 - **Students were active agents, not passive consumers of AI.** Across group reports, learners demonstrated [[metacognition|metacognitive]] [[student-engagement|engagement]] and critical reflection: refining prompts, rephrasing vague outputs, rejecting unhelpful suggestions, and interrogating both ChatGPT's claims and Writefull's stylistic recommendations (e.g., discarding "impact"→"effect" substitutions that shifted meaning).
 
-- **Two complementary tool roles emerged from thematic analysis.** ChatGPT functioned as a **generative and reflective writing companion** (idea generation, gap identification, literature-review support, contextualised prompting), while Writefull functioned as a **linguistic coach** for grammar, vocabulary, and academic tone. Together they address higher-order (idea development, reflection) and lower-order (accuracy, style) aspects of writing.
+- **Two complementary tool roles emerged from thematic analysis.** ChatGPT functioned as a **generative and reflective writing companion** (idea generation, gap identification, literature-review support, contextualized prompting), while Writefull functioned as a **linguistic coach** for grammar, vocabulary, and academic tone. Together they address higher-order (idea development, reflection) and lower-order (accuracy, style) aspects of writing.
 
-- **SRL and Bloom's taxonomy structure the cognitive progression.** Activities were deliberately aligned with Bloom's revised taxonomy — from remembering (recalling RP structure, grammar rules) through applying (prompt design, draft generation), analysing (checking for hallucinations, bias), and evaluating (judging source credibility) to creating (synthesising AI input with original ideas). Students were required to justify every acceptance or rejection of [[ai-feedback-quality|AI feedback]], reinforcing autonomy and [[academic-integrity|responsibility]].
+- **SRL and Bloom's taxonomy structure the cognitive progression.** Activities were deliberately aligned with Bloom's revised taxonomy — from remembering (recalling RP structure, grammar rules) through applying (prompt design, draft generation), analyzing (checking for hallucinations, bias), and evaluating (judging source credibility) to creating (synthesising AI input with original ideas). Students were required to justify every acceptance or rejection of [[ai-feedback-quality|AI feedback]], reinforcing autonomy and [[academic-integrity|responsibility]].
 
 - **AI reduces linguistic anxiety via dynamic [[scaffolding]].** Writefull alleviated language-related insecurity in this L2 (English) context by offering immediate grammatical and stylistic corrections, boosting student confidence while preserving authorship — provided students maintained a critical lens on its occasionally inconsistent suggestions (e.g., British vs. American English).
 
@@ -29,7 +29,7 @@ confidence: medium
 
 ## Study Design & Method
 
-- **Context & participants.** Conducted within the EPAC course for computing-related degrees at UPM (Escuela Técnica Superior de Ingenieros Informáticos), 2024–2025 academic year. Ninety-six final-year Spanish undergraduates self-organised into 24 interdisciplinary groups of four across four degree programmes (Computer Engineering; [[math-education|Mathematics]] and [[cs-education|Computer Science]]; Data Science and AI; Computer Engineering & Business [[administrator|Administration]] double degree). Ethical approval obtained; voluntary, anonymous, minimal-risk participation with informed consent.
+- **Context & participants.** Conducted within the EPAC course for computing-related degrees at UPM (Escuela Técnica Superior de Ingenieros Informáticos), 2024–2025 academic year. Ninety-six final-year Spanish undergraduates self-organized into 24 interdisciplinary groups of four across four degree programs (Computer Engineering; [[math-education|Mathematics]] and [[cs-education|Computer Science]]; Data Science and AI; Computer Engineering & Business [[administrator|Administration]] double degree). Ethical approval obtained; voluntary, anonymous, minimal-risk participation with informed consent.
 
 - **Theoretical framework.** The design integrated three complementary lenses: **critical digital pedagogy** (ethical, reflective, socially aware engagement with technology, rooted in Freire's critical consciousness) to guide critical [[ai-ed-evaluation|evaluation of AI]] content; **self-regulated learning** (goal-setting, monitoring, reflective evaluation per Zimmerman and Pintrich) to build autonomy and metacognition; and **Bloom's revised taxonomy** to scaffold cognitive progression from lower-order to higher-order thinking.
 
@@ -41,7 +41,7 @@ confidence: medium
 
 ## Implications for AI in Education
 
-This study offers a transferable model for [[higher-ed|higher education]] courses seeking to harness [[generative-ai|generative AI]] productively rather than prohibit it. Its central lesson — that the educational value of AI lies not in the technology itself but in the **[[pedagogy|pedagogical]] intentionality** with which it is embedded in cognitive, metacognitive, and ethical frameworks — generalises across disciplines and institutions. By aligning AI tasks with [[critical-thinking|Bloom's taxonomy]] and [[self-regulated-learning|self-regulated learning]], educators can convert AI tools into scaffolds for higher-order thinking and learner autonomy, while co-constructed classroom norms and reflective assignments uphold [[academic-integrity|academic integrity]] and [[ethics|ethical literacy]]. The study's emphasis on documenting and justifying AI use (via screenshots and analytical reports) speaks directly to authentic, process-visible [[assessment]] design in AI-rich classrooms. For institutions, it reinforces the need to support [[ai-literacy|AI literacy]], [[prompt-engineering|prompt engineering]] skill, and [[curriculum-design|curriculum]] redesign so that both [[teacher-role|educators]] and students engage with AI critically and responsibly.
+This study offers a transferable model for [[higher-ed|higher education]] courses seeking to harness [[generative-ai|generative AI]] productively rather than prohibit it. Its central lesson — that the educational value of AI lies not in the technology itself but in the **[[pedagogy|pedagogical]] intentionality** with which it is embedded in cognitive, metacognitive, and ethical frameworks — generalizes across disciplines and institutions. By aligning AI tasks with [[critical-thinking|Bloom's taxonomy]] and [[self-regulated-learning|self-regulated learning]], educators can convert AI tools into scaffolds for higher-order thinking and learner autonomy, while co-constructed classroom norms and reflective assignments uphold [[academic-integrity|academic integrity]] and [[ethics|ethical literacy]]. The study's emphasis on documenting and justifying AI use (via screenshots and analytical reports) speaks directly to authentic, process-visible [[assessment]] design in AI-rich classrooms. For institutions, it reinforces the need to support [[ai-literacy|AI literacy]], [[prompt-engineering|prompt engineering]] skill, and [[curriculum-design|curriculum]] redesign so that both [[teacher-role|educators]] and students engage with AI critically and responsibly.
 
 ## Connected Concepts
 

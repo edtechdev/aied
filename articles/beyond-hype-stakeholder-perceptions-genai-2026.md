@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Hype: How Higher Education Stakeholders View the Benefits and Concerns of Generative AI for Teaching, Research, and Administration"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-01T09:11:26-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: ["stakeholders", "generative-ai", "higher-ed", "governance", "educational-policy-ai", "educational-development", "professional-training"]
 research_method: [qualitative]
@@ -16,8 +16,8 @@ confidence: high
 
 ## Key Findings
 
-- [[stakeholders|Stakeholders]] identified strengths in GAI content creation, translation, and transcription that streamline workflows and support collaboration.
-- Weaknesses centred on inaccuracies ([[hallucination-risk|hallucinations]], made-up references), lack of system transparency ('black box'), and user dependency.
+- [[stakeholders]] identified strengths in GAI content creation, translation, and transcription that streamline workflows and support collaboration.
+- Weaknesses centered on inaccuracies ([[hallucination-risk|hallucinations]], made-up references), lack of system transparency ('black box'), and user dependency.
 - Opportunities included supportive roles, outsourcing repetitive tasks, and partnering with AI for innovative [[pedagogy|teaching practices]].
 - Threats included destabilization of educational norms, ethical issues around data privacy and copyright, and organizational challenges such as workforce adaptation.
 - Stakeholders requested clear institutional guidelines, targeted professional development, and allocation of time and resources for responsible adoption.

@@ -1,7 +1,7 @@
 ---
 title: "Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education"
 created: "2026-06-12T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, educational-policy-ai, regulation, academic-integrity, ai-literacy]
 research_method: [randomized controlled trial]
@@ -33,7 +33,7 @@ These findings highlight a significant gap between [[regulation|institutional re
 ## Connected Articles
 
 - [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education
-- [[ethical-ai-higher-ed-game-theory]] — Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning
+- [[ethical-ai-higher-ed-game-theory]] — Mathematical Modeling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
 - [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)

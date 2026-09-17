@@ -1,7 +1,7 @@
 ---
 title: "How Can We Address Common Misconceptions About AI in Education?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-09-14T06:18:07-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 tags: [misconceptions, refutation-text, ai-literacy, cognitive-offloading, trust-calibration, academic-integrity, ai-detection, reducing-ai-misuse, teacher-role, teacher-ai-competency, pedagogical-safety, assessment-validity, feedback-literacy, prompt-engineering, governance, equity-in-ai-education]
 weight: 95
 ---
@@ -123,7 +123,7 @@ Iteration may improve an answer, but repeated generation is not the same as veri
 * testing the response against evidence;
 * checking whether the answer remains valid when the problem changes.
 
-Prompting is a useful skill, but it does not remove the need for subject knowledge and critical judgment. A [[brunnstrom-ai-interaction-literacy-srl-2026|demonstration of a naive student using a chatbot on a take-home examination question]] shows how much interaction good use actually takes: the default output stayed "polished but pedagogically thin" at the multistructural level of the SOLO taxonomy, and reaching a usable learning loop required eight rounds of meta-level intervention—signalling overload, requesting simplification, narrowing scope. The authors name the capacity this demands **AI-interaction literacy**—steering, evaluating, and learning from iterative interaction with generative AI—and note the equity sting: because unguided use imposes an interaction-management skill that is unevenly distributed, generative AI "may be most beneficial to already advantaged students."
+Prompting is a useful skill, but it does not remove the need for subject knowledge and critical judgment. A [[brunnstrom-ai-interaction-literacy-srl-2026|demonstration of a naive student using a chatbot on a take-home examination question]] shows how much interaction good use actually takes: the default output stayed "polished but pedagogically thin" at the multistructural level of the SOLO taxonomy, and reaching a usable learning loop required eight rounds of meta-level intervention—signaling overload, requesting simplification, narrowing scope. The authors name the capacity this demands **AI-interaction literacy**—steering, evaluating, and learning from iterative interaction with generative AI—and note the equity sting: because unguided use imposes an interaction-management skill that is unevenly distributed, generative AI "may be most beneficial to already advantaged students."
 
 See [[misconceptions|Misconceptions about AI]], [[prompt-engineering|Prompt Engineering]], and [[brunnstrom-ai-interaction-literacy-srl-2026|AI-interaction literacy]]. For the underlying self-[[regulation]] demands, see [[developing-ai-tutor|How Do We Develop an Effective AI Tutor?]].
 
@@ -208,7 +208,7 @@ The same system may undermine learning when it immediately supplies polished ans
 
 The educational value lies not only in the model, but in the **[[pedagogy|pedagogical]] wrapper** around it.
 
-See [[learning-design|Learning Design]], [[scaffolding|Scaffolding]], and [[reducing-ai-misuse|Reducing AI Misuse]].
+See [[learning-design|Learning Design]], [[scaffolding]], and [[reducing-ai-misuse|Reducing AI Misuse]].
 
 ---
 
@@ -316,7 +316,7 @@ A model may solve difficult problems, produce fluent explanations, or score well
 
 Classroom effectiveness requires field testing with actual learners, relevant comparison conditions, appropriate outcome measures, and attention to implementation.
 
-See [[ai-ed-evaluation|AI Ed Evaluation]], [[benchmark|Benchmark]], and [[learning-gains|Learning Gains]].
+See [[ai-ed-evaluation|AI Ed Evaluation]], [[benchmark]], and [[learning-gains|Learning Gains]].
 
 ---
 
@@ -383,7 +383,7 @@ See [[governance|AI Governance]], [[educational-policy-ai|Educational AI Policy]
 
 Detection tools can produce false positives and false negatives, and their performance changes across models, languages, tasks, and editing practices. Proctoring may add privacy, accessibility, anxiety, and equity concerns without establishing what a student has learned.
 
-The evidence is now concrete enough to state numerically. A [[teichmann-detecting-undetectable-misconduct-2026|procedural-justice analysis]] reports that none of fourteen early detector tools reached 80% accuracy, that paraphrasing or light editing roughly halves already modest accuracy, and that detectors systematically misclassify non-native English writers because the features treated as AI signals also characterise competent second-language writing. In a covert field study, 94% of wholly AI-generated submissions injected into live online examinations across five psychology modules went undetected—and the AI work on average outscored real students. Vanderbilt University disabled its licensed detector after failing to validate an advertised 1% false-positive rate that implied roughly 750 mislabelled students among 75,000 annual submissions, redirecting staff toward transparent expectations and [[assessment|assessment redesign]].
+The evidence is now concrete enough to state numerically. A [[teichmann-detecting-undetectable-misconduct-2026|procedural-justice analysis]] reports that none of fourteen early detector tools reached 80% accuracy, that paraphrasing or light editing roughly halves already modest accuracy, and that detectors systematically misclassify non-native English writers because the features treated as AI signals also characterize competent second-language writing. In a covert field study, 94% of wholly AI-generated submissions injected into live online examinations across five psychology modules went undetected—and the AI work on average outscored real students. Vanderbilt University disabled its licensed detector after failing to validate an advertised 1% false-positive rate that implied roughly 750 mislabelled students among 75,000 annual submissions, redirecting staff toward transparent expectations and [[assessment|assessment redesign]].
 
 A more durable institutional strategy combines:
 
@@ -470,7 +470,7 @@ Useful design features include:
 * periodic unaided practice;
 * clear opportunities to override the system.
 
-See [[agentic-ai|Agentic AI]], [[agency|Agency]], and [[cognitive-offloading|Cognitive Offloading]].
+See [[agentic-ai|Agentic AI]], [[agency]], and [[cognitive-offloading|Cognitive Offloading]].
 
 ---
 
@@ -527,7 +527,7 @@ Evaluate more than feedback quantity and speed. Measure:
 * whether misconceptions decrease;
 * whether later independent performance improves.
 
-See [[ai-feedback-quality|AI Feedback Quality]], [[feedback|Feedback]], and [[feedback-literacy|Feedback Literacy]].
+See [[ai-feedback-quality|AI Feedback Quality]], [[feedback]], and [[feedback-literacy|Feedback Literacy]].
 
 ---
 
@@ -561,7 +561,7 @@ Input modality, reading level, language assumptions, device requirements, data r
 
 Design teams should involve affected learners and educators early, test with diverse users, minimize data collection, provide accessible alternatives, and examine differential outcomes. A system cannot be considered educationally effective if its benefits are inaccessible or its harms are unevenly distributed.
 
-See [[accessibility|Accessibility]], [[universal-design-for-learning|Universal Design for Learning]], [[privacy|Privacy]], and [[equity-in-ai-education|Equity in AI Education]].
+See [[accessibility]], [[universal-design-for-learning|Universal Design for Learning]], [[privacy]], and [[equity-in-ai-education|Equity in AI Education]].
 
 ---
 
@@ -627,7 +627,7 @@ A responsible evidence pathway may move from:
 
 Researchers should state clearly which link in that chain a study addresses rather than generalizing a benchmark result into a claim about learning.
 
-See [[benchmark|Benchmark]], [[ai-ed-evaluation|AI Ed Evaluation]], and [[limitations-in-aied-research|Limitations of the AIED Evidence Base]].
+See [[benchmark]], [[ai-ed-evaluation|AI Ed Evaluation]], and [[limitations-in-aied-research|Limitations of the AIED Evidence Base]].
 
 ---
 
@@ -779,7 +779,7 @@ A system may remain polite while:
 
 Child-facing AI should be evaluated for content safety, pedagogical safety, privacy, accessibility, relational influence, and the effects of repeated interaction—not only for prohibited words or topics.
 
-See [[k-12|K–12 AI Education]], [[pedagogical-safety|Pedagogical Safety]], and [[privacy|Privacy]].
+See [[k-12|K–12 AI Education]], [[pedagogical-safety|Pedagogical Safety]], and [[privacy]].
 
 ---
 

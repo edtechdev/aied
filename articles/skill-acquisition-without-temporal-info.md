@@ -1,7 +1,7 @@
 ---
 title: Estimating Learners' Skill Acquisition Without Temporal Information
 created: "2026-06-23T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [student-modeling, knowledge-tracing, adaptive-learning, learning-analytics, formative-assessment, personalized-learning]
 audience: [software developers]
@@ -26,7 +26,7 @@ confidence: medium
 
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
 - [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
+- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
 - [[proprl-prerequisite-relation-learning]] — ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs
 - [[cross-subject-validity-delayed-start]] — Cross-Subject Predictive Validity for [[learning-gains|Learning Outcomes]] of Delayed Start Behavior
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach

@@ -1,7 +1,7 @@
 ---
 title: "Credentials That Carry Their Evidence: Credential design, dynamic tiering, and approved use when AI agents can do the work"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [assessment, academic-integrity, higher-ed, edtech-platform, generative-ai, agentic-ai]
 research_method: [theoretical analysis]
@@ -73,7 +73,7 @@ The infrastructure this requires is not exotic: learning environments that emit 
 - [[competency-based-education-genai-production-2026]] — Knowledge, Skills, Attitudes, Production: Competency-Based Education After Generative AI
 - [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
 - [[detecting-llm-generated-text-latent-prompt]] — Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration
-- [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation with Large Language Models
+- [[valid-student-simulation-llm-2026]] — Toward Valid Student Simulation with Large Language Models
 - [[ai-grading-handwritten-physics-2026]] — Large Scale AI Grading of Handwritten Physics Assessments
 
 ## Citation

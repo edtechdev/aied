@@ -1,7 +1,7 @@
 ---
 title: "Still Emerging: Understanding Generative AI Use in Higher Education"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [higher-ed, ai-education, student-experience, teacher-role, technology-acceptance-model, generative-ai, agency, ai-literacy]
 research_method: [survey, case study]
@@ -26,7 +26,7 @@ confidence: high
 
 The research design was a case study that drew on survey research methods within a School of Social Science disciplines at a research-intensive UK university (University of Manchester). Two original online questionnaires — one for students, one for academic staff — were distributed through Qualtrics between April and June 2024 via social media, e-newsletters, email and flyers. The instruments were built primarily on the [[technology-acceptance-model|Technology Acceptance Model]] and UTAUT, adapted for GAI with elements from the AIDUA and IAAAM models, and content-validated by a panel of experts, with both questionnaires using Likert scales.
 
-The study collected 45 complete staff responses from a population of 318 academics, alongside a further set of partial staff responses, and 86 complete student responses from a population of around 3,400. The authors analysed the data by testing the internal consistency of the scales and comparing staff and student responses on the scales both groups shared. Ethics approval was granted by the University of Manchester Research Ethics Committee.
+The study collected 45 complete staff responses from a population of 318 academics, alongside a further set of partial staff responses, and 86 complete student responses from a population of around 3,400. The authors analyzed the data by testing the internal consistency of the scales and comparing staff and student responses on the scales both groups shared. Ethics approval was granted by the University of Manchester Research Ethics Committee.
 
 ## Implications
 
@@ -34,11 +34,11 @@ The study collected 45 complete staff responses from a population of 318 academi
 - **Staff must imagine how students imagine affordances.** Effective educational use depends on the interrelationships between staff and students; [[teacher-role|educators]]' [[agency]] and their understanding of students' imagined affordances are central to [[scaffolding]] appropriate use.
 - **Do not start from distrust.** Assuming students use GAI to circumvent assessment integrity begins from a position of distrust; the authors instead urge redesigning [[assessment]] around GAI affordances, since the technology has already disseminated.
 - **Close the staff knowledge gap.** Because staff cannot easily tell whether a student used a GAI tool from the final text alone, institutions should strengthen the social relations through which staff come to understand student use, including independent learning.
-- **Deepen acceptance thinking.** The authors criticise [[technology-acceptance-model|TAM]]'s "acceptance" framing as passive and thin for [[ai-technologies|emerging technologies]], since it cannot capture relational dynamics or the varied ways users imagine affordances.
+- **Deepen acceptance thinking.** The authors criticize [[technology-acceptance-model|TAM]]'s "acceptance" framing as passive and thin for [[ai-technologies|emerging technologies]], since it cannot capture relational dynamics or the varied ways users imagine affordances.
 
 ## Limitations
 
-- Small, single-institution sample with a low response rate; likely self-selection bias in favour of staff already interested in GAI, and some staff reportedly did not complete the survey because they felt they lacked knowledge.
+- Small, single-institution sample with a low response rate; likely self-selection bias in favor of staff already interested in GAI, and some staff reportedly did not complete the survey because they felt they lacked knowledge.
 - Skew toward highly experienced staff and toward postgraduate students.
 - Cross-sectional design cannot track adoption over time, and perceptions are by nature impressionistic, risking conflation of personal and technological factors in a rapidly changing tool landscape.
 - Several scales failed validation and were excluded from the findings; datasets were not released because of ethics constraints.

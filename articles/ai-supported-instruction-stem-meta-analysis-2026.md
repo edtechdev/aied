@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Artificial Intelligence-Supported Instruction on Student Learning in STEM: A Systematic Review and Meta-Analysis"
 created: "2026-09-16T09:14:31-04:00"
-updated: "2026-09-16T09:14:31-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [meta-analysis-systematic-review, stem-education, learning-gains, intelligent-tutoring, adaptive-learning, personalized-learning, science-education, math-education, engineering-education, higher-ed, k-12, ai-education]
 sources: ['raw/papers/ai-supported-instruction-stem-meta-analysis-2026.md']
@@ -19,7 +19,7 @@ discipline: [stem education]
 
 1. Across the 35 included studies, the random effects estimate of AI-supported instruction on STEM achievement was g = 0.670 (95% CI [0.491, 0.848], Z = 7.35, p < 0.001), described by the authors as a moderate to strong positive effect relative to traditional teaching.
 2. The fixed-effect counterpart for the same 35 studies was g = 0.593 (95% CI [0.522, 0.664], Z = 16.36, p < 0.001). The authors prefer the random effects model because it incorporates between-study variance into the estimate and is therefore more conservative and generalizable ([[quantitative-research|effect-size synthesis]]).
-3. Heterogeneity must be read model by model, as the paper reports it separately: the fixed-effect analysis shows a high level of inconsistency (Q = 199.76, I2 = 82.98%), while the random effects analysis reports I2 = 15.75% once between-study variance (τ2) is modelled. The high fixed-effect heterogeneity is the authors' main reason for not treating AI as uniformly effective.
+3. Heterogeneity must be read model by model, as the paper reports it separately: the fixed-effect analysis shows a high level of inconsistency (Q = 199.76, I2 = 82.98%), while the random effects analysis reports I2 = 15.75% once between-study variance (τ2) is modeled. The high fixed-effect heterogeneity is the authors' main reason for not treating AI as uniformly effective.
 4. Educational level was the strongest and only clearly significant moderator (between-group Q = 30.13, df = 3, p < 0.001): high school showed the largest effect (g = 1.099, 95% CI [0.89, 1.30], Z = 10.53, p < 0.001), followed by university (g = 0.578, 95% CI [0.48, 0.68], Z = 11.67, p < 0.001), elementary or primary (g = 0.465) and [[k-12|middle school]] (g = 0.392).
 5. Intervention duration also moderated effects (between-group Q = 16.95, df = 5, p = 0.004). The strongest band was more than one month and up to two months (g = 0.833, 95% CI [0.67, 0.99], Z = 10.30, p < 0.001); short interventions of up to five hours were also significant (g = 0.621, p = 0.003); the weakest band, more than one and up to seven days, was not statistically significant (g = 0.256, p = 0.070).
 6. There was no consistent pattern of increasing effectiveness with longer duration. Duration bands of more than two and up to three months (g = 0.618) and more than three months (g = 0.576) sat below the one-to-two-month band, which the authors read as evidence that instructional quality matters more than mere exposure time.

@@ -1,7 +1,7 @@
 ---
 title: "The 5P Reflection Model for Education in the Generative AI Era"
 created: "2026-09-07T09:09:07-04:00"
-updated: "2026-09-07T09:09:07-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, self-regulated-learning, metacognition, academic-integrity, higher-ed, agency]
 sources: ['raw/papers/2609.03413.md']
@@ -37,7 +37,7 @@ The 5P model is an iterative framework with five stages, each drawing on distinc
 - **Purpose** (self-regulated forethought): learners set clear goals and objectives for both their learning and their intended use of GenAI *before* any usage — clarifying whether they seek efficiency, [[creativity]], or clarification, ensuring alignment with [[governance|institutional]] and [[assessment|assessment requirements]], and guarding against [[cognitive-offloading|over-reliance]] driven by anxiety.
 - **Process** (reflection-in-action): the active deployment of the tool, documenting the specific prompts and iterations used, monitoring emotional responses (frustration that stops refinement, relief that causes confirmation bias), and validating GenAI's probabilistic output.
 - **Product** (reflection-on-action): critically reviewing the final output's quality, originality, and accuracy, cross-validating it against reliable external sources, and distinguishing what the learner contributed versus what GenAI generated.
-- **Pitfalls**: an explicit, core stage addressing the inherent risks of GenAI — factual/cognitive (hallucination), ethical/integrity (plagiarism, [[bias-mitigation|bias]], over-reliance), and privacy/security — and reflecting on where critical human judgement was essential.
+- **Pitfalls**: an explicit, core stage addressing the inherent risks of GenAI — factual/cognitive (hallucination), ethical/integrity (plagiarism, [[bias-mitigation|bias]], over-reliance), and privacy/security — and reflecting on where critical human judgment was essential.
 - **Plan**: synthesizing insights from all prior stages to set refined goals and a pathway for continuous improvement, driving genuine transformative learning.
 
 ## Adoption considerations

@@ -1,7 +1,7 @@
 ---
 title: "Leveraging complex systems: Leading for transformative change"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-13"
+updated: "2026-09-17T02:27:38-04:00"
 type: article
 tags: [generative-ai, higher-ed, administrator, change-management, learning-analytics, governance, edtech-platform, educational-policy-ai]
 research_method: [theoretical analysis]
@@ -10,7 +10,7 @@ sources: ['raw/papers/10.1016_j.caeai.2026.100563.md']
 confidence: high
 ---
 
-> **Synthesis:** Dawson and Pardo (2026) argue that generative AI (GenAI) is precipitating a systemic, paradigmatic transformation of education — not a passing fad — and that traditional bureaucratic leadership structures are ill-suited for its pace, scale, and sociotechnical nature. They introduce the **SPARK framework** (Systems, Problem, Analysis, [[research-methods-aied|Research]], and Knowledge brokerage), a pragmatic model that operationalises Complexity Leadership Theory (CLT) to help educational leaders navigate the tension between [[governance|institutional]] stability and systemic innovation, translating GenAI-enhanced pedagogy from isolated pilots into scalable, institutionally embedded practices.
+> **Synthesis:** Dawson and Pardo (2026) argue that generative AI (GenAI) is precipitating a systemic, paradigmatic transformation of education — not a passing fad — and that traditional bureaucratic leadership structures are ill-suited for its pace, scale, and sociotechnical nature. They introduce the **SPARK framework** (Systems, Problem, Analysis, [[research-methods-aied|Research]], and Knowledge brokerage), a pragmatic model that operationalizes Complexity Leadership Theory (CLT) to help educational leaders navigate the tension between [[governance|institutional]] stability and systemic innovation, translating GenAI-enhanced pedagogy from isolated pilots into scalable, institutionally embedded practices.
 
 ## Key Findings
 
@@ -22,11 +22,11 @@ confidence: high
 
 ## Study Design & Method
 
-This is a theoretical/conceptual paper. Drawing on Kuhn's theory of paradigm shifts, Perez's techno-economic framework, Uhl-Bien's Complexity Leadership Theory, and related work (Relational Leadership Theory, adaptive leadership, Meadows' leverage points, Centola & Macy's complex contagions), the authors develop the SPARK framework as a pragmatic operationalisation of CLT for the AI era. Each SPARK component is mapped onto the CLT leadership functions (e.g., Systems→administrative, Problem→adaptive, Knowledge Brokerage→enabling). The paper is grounded in prior empirical work on learning analytics adoption (Colvin et al., 2015; Dawson et al., 2018) demonstrating that technical success alone is insufficient for institutional change. No primary data were collected.
+This is a theoretical/conceptual paper. Drawing on Kuhn's theory of paradigm shifts, Perez's techno-economic framework, Uhl-Bien's Complexity Leadership Theory, and related work (Relational Leadership Theory, adaptive leadership, Meadows' leverage points, Centola & Macy's complex contagions), the authors develop the SPARK framework as a pragmatic operationalization of CLT for the AI era. Each SPARK component is mapped onto the CLT leadership functions (e.g., Systems→administrative, Problem→adaptive, Knowledge Brokerage→enabling). The paper is grounded in prior empirical work on learning analytics adoption (Colvin et al., 2015; Dawson et al., 2018) demonstrating that technical success alone is insufficient for institutional change. No primary data were collected.
 
 ## Implications for AI in Education
 
-The paper shifts attention from technical implementation of GenAI to the **leadership and systemic conditions** required for sustainable, [[equity-in-ai-education|equitable]] transformation. For institutional leaders, SPARK provides a practical toolkit to map complex systems, reframe institutional challenges, mobilise data and research, and broker knowledge across actor networks. It addresses pressing leadership challenges in the GenAI era — assessment integrity, [[personalized-learning|personalised learning]], and the [[ethics]] of human–machine collaboration — arguing these require collective sense-making, cross-disciplinary dialogue, and distributed agency across staff and students rather than technical fixes. It cautions that algorithmic personalisation risks narrowing educational purposes and displacing the relational and collective dimensions of learning, and that [[academic-integrity]] concerns demand [[pedagogy|pedagogical]] redesign (rethinking what counts as evidence of learning) alongside technical detection. It connects to [[higher-ed]], [[learning-analytics]], [[generative-ai]], and institutional-change research.
+The paper shifts attention from technical implementation of GenAI to the **leadership and systemic conditions** required for sustainable, [[equity-in-ai-education|equitable]] transformation. For institutional leaders, SPARK provides a practical toolkit to map complex systems, reframe institutional challenges, mobilise data and research, and broker knowledge across actor networks. It addresses pressing leadership challenges in the GenAI era — assessment integrity, [[personalized-learning|personalized learning]], and the [[ethics]] of human–machine collaboration — arguing these require collective sense-making, cross-disciplinary dialogue, and distributed agency across staff and students rather than technical fixes. It cautions that algorithmic personalization risks narrowing educational purposes and displacing the relational and collective dimensions of learning, and that [[academic-integrity]] concerns demand [[pedagogy|pedagogical]] redesign (rethinking what counts as evidence of learning) alongside technical detection. It connects to [[higher-ed]], [[learning-analytics]], [[generative-ai]], and institutional-change research.
 
 ## Limitations
 

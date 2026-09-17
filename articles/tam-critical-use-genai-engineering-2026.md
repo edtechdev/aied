@@ -1,7 +1,7 @@
 ---
 title: "Factors Influencing University Students' Intention to Use and Reliance on Generative AI: An Extended Technology Acceptance Model with Critical Use"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [technology-acceptance-model, generative-ai, higher-ed, student-experience, cs-education, engineering-education, ai-literacy, critical-thinking, ethics, cognitive-offloading]
 research_method: [literature review, theoretical analysis]
@@ -16,15 +16,15 @@ confidence: high
 
 ## Key Findings
 
-- **Method:** Anonymous survey at an Australian university (n=126), analyzed using Partial Least Squares Structural Equation Modelling (PLS-SEM).
-- **Attitudes and critical use drive intention:** Attitudes towards GenAI and critical use directly and positively influence intention to use GenAI, while perceived ease of use and perceived usefulness have positive indirect effects. Notably, ease of use did not directly shape attitudes, and usefulness did not directly predict intention.
+- **Method:** Anonymous survey at an Australian university (n=126), analyzed using Partial Least Squares Structural Equation Modeling (PLS-SEM).
+- **Attitudes and critical use drive intention:** Attitudes toward GenAI and critical use directly and positively influence intention to use GenAI, while perceived ease of use and perceived usefulness have positive indirect effects. Notably, ease of use did not directly shape attitudes, and usefulness did not directly predict intention.
 - **Intention predicts reliance across four domains:** Understanding, assessment, programming, and engineering projects. Students demonstrated moderate reliance overall, with greatest use for understanding-related tasks (clarifying concepts, worked examples) and limited utilization for full assessment [[writing-education|writing]].
 - **Appropriate, not excessive, reliance:** Consistent with Schemmer et al.'s framework, students showed moderate, appropriate reliance — recognizing GenAI's limits for precision-demanding engineering and CS tasks while drawing on it for debugging, formula generation, and design ideation.
-- **Critical use as a core [[ai-literacy|AI-literacy]] dimension:** Students who actively evaluate, question, and cross-check GenAI outputs are more motivated to integrate the tools, and this practice safeguards against [[cognitive-offloading|over-reliance]].
+- **Critical use as a core [[ai-literacy]] dimension:** Students who actively evaluate, question, and cross-check GenAI outputs are more motivated to integrate the tools, and this practice safeguards against [[cognitive-offloading|over-reliance]].
 
 ## Implications for AI in Education
 
-The study highlights the importance of moving beyond initial technology acceptance to examine **post-adoption behaviors** — critical use and reliance — particularly in technically demanding disciplines. It proposes a three-tiered [[ai-literacy|AI-literacy]] training approach for engineering and CS/IT programs: (1) evidence-based AI literacy for all students, (2) targeted mentoring for those needing additional support, and (3) intensive one-to-one support for students experiencing persistent difficulties or over-dependence. Because reliance varies by task, [[pedagogy|pedagogical]] approaches should be task-specific rather than uniform.
+The study highlights the importance of moving beyond initial technology acceptance to examine **post-adoption behaviors** — critical use and reliance — particularly in technically demanding disciplines. It proposes a three-tiered [[ai-literacy]] training approach for engineering and CS/IT programs: (1) evidence-based AI literacy for all students, (2) targeted mentoring for those needing additional support, and (3) intensive one-to-one support for students experiencing persistent difficulties or over-dependence. Because reliance varies by task, [[pedagogy|pedagogical]] approaches should be task-specific rather than uniform.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior"
 created: "2026-06-23T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [llm, intelligent-tutoring, metacognition, scaffolding, active-learning, self-regulated-learning]
 research_method: [system development]
@@ -22,7 +22,7 @@ confidence: high
 
 ## Connected Articles
 
-- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
+- [[socraticode-k12-programming-tutor]] — Toward SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
 - [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning

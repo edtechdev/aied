@@ -1,7 +1,7 @@
 ---
 title: Learning by Teaching
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-09-11T13:20:00-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [learning-by-teaching, intelligent-tutoring, generative-ai, active-learning, feedback, scaffolding, self-regulated-learning, cs-education]
 discipline: [cs education]
@@ -21,7 +21,7 @@ confidence: high
 
 ## Introduction
 
-Learning by teaching is the finding, usually traced to the protégé effect, that preparing to teach — and actually explaining to another person or a teachable agent — produces deeper processing than studying alone. The demands of teaching force learners to organise knowledge, anticipate [[misconceptions|misunderstandings]] and generate explanations, which surfaces gaps in their own understanding and strengthens [[metacognition]]. AI enters the idea from both directions: [[intelligent-tutoring|tutoring systems]] and teachable agents can play the student, while a growing literature asks what happens to learning when the machine, rather than the learner, supplies the explanation ([[generative-ai]], [[cs-education]]).
+Learning by teaching is the finding, usually traced to the protégé effect, that preparing to teach — and actually explaining to another person or a teachable agent — produces deeper processing than studying alone. The demands of teaching force learners to organize knowledge, anticipate [[misconceptions|misunderstandings]] and generate explanations, which surfaces gaps in their own understanding and strengthens [[metacognition]]. AI enters the idea from both directions: [[intelligent-tutoring|tutoring systems]] and teachable agents can play the student, while a growing literature asks what happens to learning when the machine, rather than the learner, supplies the explanation ([[generative-ai]], [[cs-education]]).
 
 ## The Protégé Effect
 

@@ -1,7 +1,7 @@
 ---
 title: Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior
 created: "2026-06-25T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [learning-analytics, student-modeling, higher-ed, student-engagement, self-regulated-learning, adaptive-learning, formative-assessment, regulation]
 research_method: [experiment]
@@ -39,8 +39,8 @@ confidence: high
 - [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
 - [[engagement-assessment-video]] — Engagement Assessment in Video Learning
 - [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
-- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualisations as engagement tools
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
+- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualizations as engagement tools
+- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
 - [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques
 
 ## Citation

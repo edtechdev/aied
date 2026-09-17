@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T02:30:30-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 tags: [ai-literacy, educational-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy]
@@ -62,10 +62,10 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - **Build confidence alongside skill:** attitudes and [[self-efficacy]] shape adoption, so PD should reduce anxiety and build confidence through authentic, supported practice.
 - **Support the institutional layer:** sustainable teacher competency requires aligned policy, governance, and capacity, not isolated training.
 
-- **Teacher digital competence for GenAI [[curriculum-design|curriculum design]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validate a TAM-based diagnostic instrument with 434 in-service teachers; behavioural intention was the main predictor of digital competence for using GenAI in curriculum planning, with self-efficacy as a root driver.
+- **Teacher digital competence for GenAI [[curriculum-design|curriculum design]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validate a TAM-based diagnostic instrument with 434 in-service teachers; behavioral intention was the main predictor of digital competence for using GenAI in curriculum planning, with self-efficacy as a root driver.
 ### A Psychometric Instrument for Teacher AI Competency
 
-- A psychometric study developed the Teachers' AI Literacy Scale (TAILS) to measure AI literacy specifically within [[teacher-education|language teacher education]], operationalising the ED-AI framework's six dimensions. The instrument's development fills a gap in assessments that target students or general users, supporting the measurement of teacher AI competency.
+- A psychometric study developed the Teachers' AI Literacy Scale (TAILS) to measure AI literacy specifically within [[teacher-education|language teacher education]], operationalizing the ED-AI framework's six dimensions. The instrument's development fills a gap in assessments that target students or general users, supporting the measurement of teacher AI competency.
 
 ## Connected Concepts
 
@@ -103,7 +103,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an intensive GenAI professional development program
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
-- [[teacher-ai-teaming-five-levels]] — Towards synergistic teacher-AI interactions
+- [[teacher-ai-teaming-five-levels]] — Toward synergistic teacher-AI interactions
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for AI literacy through self-determination theory
 - [[genai-literacy-training-teacher-education-dbr-2026]] — Design-based research GenAI literacy training
 - [[rail-ed-genai-literacy-teacher-education]] — Rethinking GenAI literacy in teacher education

@@ -1,7 +1,7 @@
 ---
 title: Generative AI (GenAI) as a mindtool that supports generative learning (GL)
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [learning-theories, generative-ai, higher-ed, learning-design, scaffolding]
 research_method: [theoretical analysis]
@@ -45,7 +45,7 @@ The alternating driver of each phase (teacher → learner → learner → teache
 
 ### The agentic AI workflow
 
-The authors extend A2-GLD into an **agentic workflow** that assigns each phase an autonomous AI role. A *task-framing and activation agent* primes the activity (adapting prompts to learner level and surfacing [[misconceptions]]); a *representation and modeling agent* prompts externalization and detects missing nodes in concept maps; a *dialogic explanation coach* prompts self-explanations and flags vague reasoning; an *instructor support and orchestration agent* aggregates learner artifacts, clusters peer responses, and surfaces reflection points for teacher mediation; and a *transfer agent* moves the learner into novel and counterfactual contexts. The framing is that LLMs excel at "reckoning" (calculative prediction) while humans supply "judgement" — practical wisdom grounded in [[ethics|ethical]] commitment — so the workflow is designed to distribute learning agency across the technology, the learner, the instructor, and the designer rather than ceding it to any one.
+The authors extend A2-GLD into an **agentic workflow** that assigns each phase an autonomous AI role. A *task-framing and activation agent* primes the activity (adapting prompts to learner level and surfacing [[misconceptions]]); a *representation and modeling agent* prompts externalization and detects missing nodes in concept maps; a *dialogic explanation coach* prompts self-explanations and flags vague reasoning; an *instructor support and orchestration agent* aggregates learner artifacts, clusters peer responses, and surfaces reflection points for teacher mediation; and a *transfer agent* moves the learner into novel and counterfactual contexts. The framing is that LLMs excel at "reckoning" (calculative prediction) while humans supply "judgment" — practical wisdom grounded in [[ethics|ethical]] commitment — so the workflow is designed to distribute learning agency across the technology, the learner, the instructor, and the designer rather than ceding it to any one.
 
 ## Implications for AI in Education
 
