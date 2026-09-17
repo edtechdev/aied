@@ -5,13 +5,14 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, llm]
-assessment: [ai-ed-evaluation, assessment-validity, educational-measurement, item-response-theory]
+assessment: [assessment-validity, educational-measurement, item-response-theory]
 audience: [researchers, instructors]
 research_method: [educational measurement]
 level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/jin-glat-genai-literacy-assessment.md']
 confidence: high
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** **GLAT (Generative [[ai-literacy|AI Literacy]] Assessment Test)** — a 20-item, performance-based multiple-choice instrument for measuring GenAI literacy in higher education. Validated with classical test theory (CTT) and item response theory (IRT) on responses from 355 higher education students, the final 2-parameter logistic (2PL) model showed strong structural validity (RMSEA = 0.03, CFI = 0.97) and reliability (Cronbach's alpha = 0.80, omega total = 0.81). Crucially, GLAT scores predicted performance on GenAI-supported learning tasks better than self-reported measures such as perceived ChatGPT proficiency, demonstrating external validity.

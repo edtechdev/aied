@@ -6,12 +6,12 @@ type: article
 pedagogy: [metacognition, scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, llm]
 assessment: [formative-assessment]
-stakeholders: [edtech-platform]
 research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/2605.06963.md']
 confidence: medium
 audience: [instructional designers, educators, software developers]
+systems: [edtech-platform]
 ---
 
 > **Synthesis:** Ostrowska, Kukla & Majstrak (2026) present an AI tutoring system **integrated into the Moodle LMS** designed to scaffold students from surface-level fact recall to deep conceptual understanding through adaptive questioning and feedback.

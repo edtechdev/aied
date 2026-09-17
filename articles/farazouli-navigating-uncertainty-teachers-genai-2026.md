@@ -5,7 +5,7 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [academic-integrity, educational-development, teacher-role, theory-development-aied]
 technology: [generative-ai]
-assessment: [assessment, qualitative-research]
+assessment: [assessment]
 stakeholders: [ai-anxiety-and-stress]
 ethics: [equity-in-ai-education]
 research_method: [qualitative]
@@ -15,6 +15,7 @@ sources: ['raw/papers/farazouli-navigating-uncertainty-teachers-genai-2026.md']
 confidence: high
 discipline: [writing education]
 page_kind: [framework]
+methods: [qualitative-research]
 ---
 
 > **Synthesis:** **Navigating uncertainty** — a [[qualitative-research|qualitative]] study of 24 Swedish university teachers ([[higher-ed|higher education]], disciplines centered on long-form [[writing-education|writing]]: philosophy, law, sociology, education) who took part in assessment workshops with [[generative-ai|GAI]] outputs followed by focus-group interviews. Drawing on **postphenomenology and technological mediation theory**, the authors find that the emergence of GAI was experienced as *alarming and overwhelming*, inducing a *state of vulnerability* and *ethical challenges* (fairness, unequal access, bias), while [[prompt-engineering|prompting]] teachers to *rethink assessment*, *re-evaluate teaching priorities* (especially [[critical-thinking|critical thinking]]), and worry that *student learning is at risk* (weakening of skills, desocialisation of learning). The study contributes a technology-mediation account of how [[teacher-role|teachers' roles]] and confidence are unsettled when GAI enters established educational practice.

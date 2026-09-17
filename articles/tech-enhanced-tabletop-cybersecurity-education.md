@@ -4,7 +4,6 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 pedagogy: [active-learning]
-stakeholders: [edtech-platform, professional-training]
 research_method: [system development, case study]
 discipline: [stem education]
 level: [higher ed]
@@ -12,6 +11,7 @@ sources: ['raw/papers/2607.28179.md']
 confidence: high
 audience: [instructors, curriculum designers]
 page_kind: [evaluation]
+systems: [edtech-platform, professional-training]
 ---
 
 > **Synthesis:** Innovative practice paper examining the integration of technology-enhanced tabletop exercises into cybersecurity curricula. Addresses the gap between professional TTX practice and university adoption, presenting lessons learned from implementation in computing education contexts.

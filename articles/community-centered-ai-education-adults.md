@@ -4,13 +4,14 @@ created: "2026-06-26T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
-stakeholders: [edtech-platform, lifelong-learning, student-experience]
+stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 research_method: [case study, design-based research]
 audience: [learners, faculty development]
 level: [adult learning, higher ed, k 12]
 sources: ['raw/papers/2606.26565.md']
 confidence: high
+systems: [edtech-platform, lifelong-learning]
 ---
 
 > **Synthesis:** This case study reports on a community-based participatory [[research-methods-aied|research]] project that co-designed an [[ai-literacy|AI literacy]] program for 54 adults (48 in-person and 6 virtual) in a predominantly African American community in the Midwestern United States. The program covered fundamental AI concepts, societal implications, and practical applications, using hands-on activities and concrete examples over abstract technical explanations.

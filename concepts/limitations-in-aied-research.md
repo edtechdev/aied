@@ -5,11 +5,12 @@ updated: "2026-09-16T14:48:35-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
-assessment: [ai-ed-evaluation, assessment-validity, benchmark, educational-measurement, research-methods-aied]
+assessment: [assessment-validity, educational-measurement]
 research_method: [research methods, benchmark, educational measurement, literature review]
 page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
+methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 ---
 
 > **Limitations in AIEd research** — the recurring weaknesses and constraints that affect how much confidence we can place in AI-in-education findings, and how readers should interpret them. These cut across individual studies: methodological limitations (generalizability, sample size, validity, self-report), the speed problem (AI and findings date quickly while publication lags), research-practice limitations (reproducibility, FAIR practices, proprietary tools), and weak theory use. Recognizing these limits is essential for reading the literature critically and for designing stronger studies.

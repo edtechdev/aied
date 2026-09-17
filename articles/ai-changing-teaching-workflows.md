@@ -5,7 +5,6 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 technology: [generative-ai]
-assessment: [rct]
 stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 research_method: [experiment, randomized controlled trial]
@@ -14,6 +13,7 @@ level: [k 12, higher ed]
 sources: ['raw/papers/ai-changing-teaching-workflows-2026-05-21.md']
 confidence: high
 page_kind: [synthesis]
+methods: [rct]
 ---
 
 > **Synthesis:** AI saves teachers roughly 30% of lesson preparation time with no measurable quality loss — but whether that *reduces burnout* depends entirely on where the freed-up time goes. The key mechanism is **reallocation, not reduction**: teachers redirect saved hours toward higher-value instructional activities rather than simply pocketing time. This article synthesizes evidence from multiple controlled trials, large-scale conversation analysis, and [[qualitative-research|qualitative]] teacher studies to map the current state of AI in teaching workflows.

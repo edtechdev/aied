@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm]
-assessment: [benchmark]
 stakeholders: [student-experience]
 research_method: [mixed methods, thematic analysis]
 discipline: [cs education, stem education]
@@ -15,6 +14,7 @@ level: [higher ed]
 confidence: high
 page_kind: [synthesis]
 sources: []
+methods: [benchmark]
 ---
 
 > **Synthesis:** This paper presents a fine-grained taxonomy categorizing novice programmers' difficulties with reading and understanding control flow constructs — specifically conditionals (selection) and loops (iteration). Developed through the Extended Taxonomy Design Process (ETDP), the taxonomy integrates prior research with new empirical data from student quizzes and interviews. It provides a harmonized framework for [[cs-education]] [[research-methods-aied|researchers]] to classify and analyze student errors systematically.

@@ -6,13 +6,13 @@ type: concept
 foundations: [learner-identity]
 pedagogy: [self-efficacy]
 technology: [generative-ai, simulation]
-stakeholders: [professional-training]
 ethics: [equity-in-ai-education]
 discipline: [nursing education, medical education]
 audience: [medical educators, educators, curriculum designers, instructors, researchers]
 level: [higher ed]
 page_kind: [synthesis]
 confidence: high
+systems: [professional-training]
 ---
 
 > **Nursing Education** — the preparation of nurses for licensed practice, and the subfield of [[medical-education|health-professions education]] where AI is currently most studied. AI enters nursing curricula through [[simulation|simulation]] with virtual patients and mannequins, [[llm|LLM]]-based study and clinical-reasoning support, [[automated-assessment|automated assessment]], and adaptive platforms for at-risk learners. Its object is distinctive: nursing competence fuses psychomotor skill, relational practice, and [[learner-identity|professional identity]] formation, so a technology that raises measured performance can simultaneously erode the developmental work that produces a nurse.

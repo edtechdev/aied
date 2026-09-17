@@ -4,7 +4,6 @@ created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [adaptive-learning, intelligent-tutoring, machine-learning, personalized-learning, reinforcement-learning]
-assessment: [meta-analysis-systematic-review]
 sources:
   - raw/papers/riedmann-reinforcement-learning-education-review-2026.md
 confidence: high
@@ -12,6 +11,7 @@ research_method: [systematic review]
 audience: [researchers, learning analytics designers, instructional designers]
 level: [higher ed]
 page_kind: [synthesis, evaluation]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** **Reinforcement Learning in Education: A Systematic Literature Review** — A PRISMA-standard systematic literature review of [[reinforcement-learning]] (RL) applications in education, synthesizing 89 manuscripts published 2000–2024 across IEEE Xplore, Google Scholar, and ACM. The authors map the educational contexts, evaluation strategies, RL algorithms, and adaptation mechanisms used in the field, finding promising but methodologically uneven evidence that RL can support [[adaptive-learning]] and [[personalized-learning]] in contexts such as [[intelligent-tutoring]] and [[math-education]]. They report that while over half of studies conducted no statistical testing, those that did frequently showed RL policies outperforming baselines, and they distill a set of best practices for implementing RL in educational practice.

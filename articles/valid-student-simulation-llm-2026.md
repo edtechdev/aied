@@ -5,13 +5,13 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 pedagogy: [cognitive-psychology]
 technology: [adaptive-learning, generative-ai, llm, simulating-students, student-modeling]
-assessment: [ai-ed-evaluation]
 ethics: [ethics]
 audience: [software developers]
 research_method: [theoretical analysis]
 page_kind: [evaluation]
 sources: ['raw/papers/2601.05473.md']
 confidence: high
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** Yuan et al. (2026) present a conceptual and [[research-methods-aied|methodological]] framework for valid LLM-based [[simulating-students|student simulation]]. They identify the **competence paradox** — broadly capable LLMs asked to emulate partially knowledgeable learners produce unrealistic error patterns and learning dynamics — and reframe student simulation as a constrained generation problem governed by an explicit **Epistemic State Specification (ESS)** that defines what a simulated learner can access, how its errors are structured, and how its state evolves over time. The paper argues for **epistemic fidelity over surface realism** as a prerequisite for using simulated students as reliable scientific and pedagogical instruments.

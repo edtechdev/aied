@@ -5,13 +5,14 @@ updated: "2026-08-14"
 type: article
 foundations: [ai-literacy, educational-development, learning-design]
 technology: [generative-ai]
-assessment: [assessment, meta-analysis-systematic-review]
+assessment: [assessment]
 stakeholders: [student-experience, teacher-ai-competency, tpack]
 research_method: [meta-analysis, systematic review]
 audience: [learners, faculty development]
 level: [higher ed, k 12]
 sources: ['raw/papers/edurev-100741-tpack-genai-review.md']
 confidence: high
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** Liu and Zhong (2025) [[meta-analysis-systematic-review|systematically review]] 71 high-quality empirical studies (74 effect sizes) of [[generative-ai|generative AI]] integration into student learning, published after ChatGPT's release (November 30, 2022), through the lens of the [[tpack|TPACK]] framework. A random-effects meta-analysis finds a medium-to-large overall effect on [[learning-gains|learning outcomes]] (Hedges' g = 0.752, 95% CI [0.566, 0.937]), with strong cognitive (g = 0.831) and [[affective-computing|affective]] (g = 0.729) gains but a negligible effect on behavioral [[student-engagement|engagement]]. The review identifies two critical priorities: developing students' GenAI literacy and establishing GenAI-TPACK professional development for teachers.

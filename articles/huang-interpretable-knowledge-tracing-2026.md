@@ -4,13 +4,14 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, rag, student-modeling]
-assessment: [ai-ed-evaluation, item-response-theory]
+assessment: [item-response-theory]
 audience: [software developers]
 research_method: [system development, benchmark, learning analytics]
 
 sources: ['raw/papers/huang-interpretable-knowledge-tracing-2026.md']
 confidence: medium
 page_kind: [framework, evaluation]
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** **Interpretable Knowledge Tracing** — A novel framework for dialogue-based Knowledge Tracing that explicitly models both student ability and tutor-turn difficulty using Item Response Theory, producing interpretable cognitive quantities from [[llm]] output logits. Addresses two critical gaps in prior work: ignored question difficulty and opaque latent representations that undermine tutor trust.

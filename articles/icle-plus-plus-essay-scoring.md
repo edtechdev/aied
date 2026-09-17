@@ -4,7 +4,7 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:54:24-04:00"
 type: article
 technology: [llm]
-assessment: [automated-assessment, automated-essay-scoring, benchmark, educational-measurement, formative-assessment]
+assessment: [automated-assessment, automated-essay-scoring, educational-measurement, formative-assessment]
 audience: [software developers]
 research_method: [benchmark, educational measurement]
 discipline: [writing education]
@@ -13,6 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/2607.27671.md']
 confidence: high
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 > **Synthesis:** Introduces ICLE++, a new annotated corpus of persuasive student essays that addresses critical limitations of the dominant ASAP [[benchmark]] in [[automated-essay-scoring]] [[research-methods-aied|research]]. Unlike ASAP — used by virtually all recent AES models but limited to U.S. grade 7–10 native-English essays — ICLE++ provides both holistic scores and fine-grained trait-specific annotations, enabling evaluation of cross-corpus generalization, multi-trait scoring, and cross-prompt scoring. The authors demonstrate that models trained on trait-specific annotations transfer better across corpora than those trained on holistic scores alone, making ICLE++ a foundational resource for the next generation of AES research.
 

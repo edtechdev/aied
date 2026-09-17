@@ -6,13 +6,14 @@ type: article
 foundations: [ai-education]
 pedagogy: [online-teaching-and-learning]
 technology: [ai-technologies, learning-analytics, machine-learning, personalized-learning]
-assessment: [automated-assessment, meta-analysis-systematic-review]
+assessment: [automated-assessment]
 research_method: [systematic review]
 sources: ['raw/papers/ai-decision-support-online-learning-assessment-2026.md']
 confidence: medium
 audience: [edtech designers, institutions]
 page_kind: [framework]
 connected_faqs: [asynchronous-online-courses-ai]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** This technical review synthesizes 2020–2025 research on AI-based decision support systems (AI-DSSs) for [[online-teaching-and-learning|online learning]] and [[automated-assessment|assessment]], integrating machine learning, NLP, knowledge-based systems, and deep learning to enable predictive analytics, [[automated-assessment|automated grading]], and [[personalized-learning|personalized learning paths]]. The authors propose a modular four-component architecture (data collection, AI processing, decision engine, user interface) integrated with LMSs via LTI, and report concrete gains including up to 70% faster grading and 12–20% grade increases. It critically assesses technical, [[ethics|ethical]], and implementation barriers—interpretability, bias, privacy, cost, and adoption resistance—alongside mitigation strategies and future directions toward [[generative-ai|generative AI]] and [[multimodal]] integration.

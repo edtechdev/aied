@@ -5,13 +5,14 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai, llm]
-assessment: [ai-ed-evaluation, assessment, assessment-validity, authentic-assessment, formative-assessment]
+assessment: [assessment, assessment-validity, authentic-assessment, formative-assessment]
 audience: [instructors]
 research_method: [systematic review, theoretical analysis]
 level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/authentic-products-authenticated-processes-2026.md']
 confidence: high
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** [[generative-ai|Generative AI]] has not created the need for [[authentic-assessment|authentic assessment]] — it has made weaknesses in assessment design harder to ignore. Polished products can now be generated or substantially mediated by tools, so **product resemblance is an increasingly unreliable signal of capability**. Tsiligkiris calls this risk **construct substitution**: an AI-generated or AI-mediated product is attributed to the st

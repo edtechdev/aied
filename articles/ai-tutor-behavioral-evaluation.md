@@ -5,13 +5,13 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 pedagogy: [student-engagement]
 technology: [intelligent-tutoring, knowledge-tracing, llm]
-assessment: [benchmark]
 research_method: [experiment, benchmark]
 level: [higher ed]
 sources: ['raw/papers/2605.05648.md']
 confidence: high
 discipline: [cs education]
 audience: [researchers, edtech designers, instructors]
+methods: [benchmark]
 ---
 
 > **Synthesis.** Niousha et al. (2026) argue that [[intelligent-tutoring|AI tutor]] evaluation, which conventionally judges only the [[pedagogy|pedagogical quality]] of feedback, is missing a critical axis: what students actually *do* with that feedback. They propose an engagement-based evaluation framework — grounded in observable revision behavior — that measures whether students act on tutor feedback and whether those actions are applied correctly. Applied to 10,235 real code submissions across two semesters of an introductory programming course at UC Berkeley, the framework reveals substantial differences between two deployed AI tutors that pedagogy-only evaluation could not distinguish. Crucially, these behavioral signals (feedback [[feedback|relevance]] and success) are more strongly associated with students' perceived helpfulness of feedback than pedagogical quality alone, offering a more complete and actionable picture of AI tutor performance.

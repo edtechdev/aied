@@ -4,7 +4,6 @@ created: "2026-05-16T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [generative-ai, intelligent-tutoring, llm]
-assessment: [benchmark]
 stakeholders: [pedagogical-safety, student-experience]
 ethics: [hallucination-risk]
 research_method: [benchmark]
@@ -12,6 +11,7 @@ audience: [learners, software developers]
 sources: ['raw/papers/2605.12748.md']
 confidence: high
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 
 > **Synthesis:** This paper exposes a critical failure mode in using LLMs as [[simulating-students|simulated students]] for [[intelligent-tutoring]] development and evaluation. The authors introduce **misconception faithfulness** — the property that a simulated student holds a coherent, misconception-driven belief state and updates it *only* when feedback addresses the underlying misconception — and show that across seven LLMs (4B to 120B parameters), simulators exhibit near-zero faithfulness.

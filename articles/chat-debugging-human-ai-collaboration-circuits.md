@@ -5,13 +5,13 @@ updated: "2026-08-24T04:59:59-04:00"
 type: article
 foundations: [ai-education, human-ai-collaboration]
 technology: [generative-ai, llm]
-assessment: [qualitative-research]
 research_method: [qualitative]
 discipline: [stem education, cs education]
 level: [higher ed]
 sources: ['raw/papers/2608.02955v1.md']
 confidence: high
 audience: [instructors, educators]
+methods: [qualitative-research]
 ---
 
 > **Synthesis:** This exploratory study investigates how undergraduates use [[llm|LLMs]] to debug malfunctioning analog circuits under exam conditions, identifying both promising [[human-ai-collaboration|collaborative patterns]] and critical limitations. Through thematic analysis of student chat logs, the authors find that off-the-shelf LLMs offer considerable domain knowledge and sensible debugging suggestions, yet struggle with 2D/3D image-based reasoning and display unjustified confidence. Students, in turn, show deficits in fundamental concepts and [[critical-thinking|critical thinking]] during AI-assisted debugging.

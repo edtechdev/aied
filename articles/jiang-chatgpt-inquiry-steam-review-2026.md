@@ -6,7 +6,6 @@ type: article
 foundations: [critical-thinking]
 pedagogy: [inquiry-based-learning]
 technology: [conversational-ai, generative-ai]
-assessment: [meta-analysis-systematic-review]
 research_method: [systematic review]
 discipline: [stem education, science education]
 sources: ['raw/papers/jiang-chatgpt-inquiry-steam-review-2026.md']
@@ -14,6 +13,7 @@ confidence: high
 audience: [educators, instructional designers, researchers]
 level: [higher ed, k 12]
 page_kind: [synthesis, framework]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** This [[meta-analysis-systematic-review|systematic review]] of 24 empirical studies maps ChatGPT-supported [[inquiry-based-learning|inquiry-based learning]] in STEAM education across the five inquiry phases. ChatGPT was primarily used during conceptualization, investigation, and discussion — as learning tool, tutor, learning peer, domain expert, and teaching assistant — improving performance, [[critical-thinking|critical thinking]], [[student-engagement|engagement]], and motivation. But learner-level challenges (over-reliance, hallucination, superficial conclusions) and educator/[[governance|institutional]] challenges ([[curriculum-design|curricular]] misalignment, reduced instructional depth, [[academic-integrity]]) persist. An integrated framework synthesizes ChatGPT's roles, advantages, and challenges across the inquiry phases.

@@ -5,7 +5,6 @@ updated: "2026-09-16T15:58:20-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking]
 technology: [generative-ai]
-stakeholders: [educational-policy-ai]
 connected_faqs: [ai-guidance-children-under-13, course-ai-policy]
 research_method: [qualitative, case study]
 discipline: [english education, writing education]
@@ -13,6 +12,7 @@ level: [secondary, teacher training]
 audience: [teacher educators, educators, researchers]
 sources: ['raw/papers/nash-preservice-teachers-classroom-ai-policies-2026.md']
 confidence: high
+systems: [educational-policy-ai]
 ---
 
 > **Synthesis:** Nash and Burriss (2026) offer a [[qualitative-research|qualitative]] instrumental case study of how 27 preservice English language arts teachers in the final year of a secondary [[teacher-education|teacher preparation]] program wrote their own classroom [[educational-policy-ai|AI policies]] for 6-12 English classrooms. Framed by postdigital theory, [[sociocultural-learning|sociocultural]] literacy theory, and a process view of writing, the study treats the 27 course policies as discursive texts that expose how early-career teachers negotiate competing discourses about [[generative-ai|generative AI]] in [[english-education|English]] instruction. Grounded-theory coding of the policies and their accompanying reflections produced five findings: policies (1) reflected ambivalence and ambiguity about AI-mediated ideation, (2) located the central work of thinking in text production and disallowed AI composition, (3) cautiously invited AI for checking, citing, and feedback, (4) largely failed to address reading, and (5) largely permitted AI for research and inquiry. The authors surface a persistent contradiction: participants unanimously sought to protect students as [[critical-thinking|critical thinkers]], yet allowed AI for the ideation and revision tasks they themselves described as thinking, while locating "real" thinking in final written products. A noticeable technodeterminism runs through the policies, with even skeptical teachers arguing that AI integration was unavoidable for students' futures. The study's key contribution is [[research-methods-aied|methodological]] — policy writing as a window into [[writing-education|writing pedagogy]], [[ai-literacy]], and the shifting boundaries of what it means to read, think, and compose.

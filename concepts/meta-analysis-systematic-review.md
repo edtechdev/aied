@@ -4,11 +4,11 @@ created: "2026-08-14T05:24:40-04:00"
 updated: "2026-09-16T14:48:35-04:00"
 type: concept
 foundations: [ai-education]
-assessment: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
 connected_faqs: [reporting-interpreting-aied-research]
 research_method: [meta-analysis, systematic review, research methods, literature review]
 page_kind: [evaluation]
 confidence: high
+methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
 ---
 
 > **Meta-analysis and systematic review** — the family of evidence-synthesis methods researchers use to aggregate and appraise a body of studies, rather than run a single new experiment. A **systematic review** applies a transparent, reproducible protocol to search, screen, appraise, and synthesize the literature on a focused question; a **meta-analysis** goes further by statistically pooling effect sizes across eligible studies to produce a weighted summary estimate and to test moderators. In [[ai-education|AI in education]], these methods are central to establishing the evidence base for whether AI tools work, under what conditions, and for whom — and to exposing gaps, bias, and the field's methodological quality.([[genai-meta-analysis-programming-learning]])([[zerkouk-comprehensive-review-its-2025]])

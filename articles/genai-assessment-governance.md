@@ -7,7 +7,6 @@ foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, llm]
 assessment: [automated-assessment]
-stakeholders: [educational-policy-ai]
 ethics: [equity-in-ai-education]
 audience: [instructors, administrators]
 research_method: [theoretical analysis]
@@ -17,6 +16,7 @@ level: [higher ed]
 sources: ['raw/papers/2605.24837.md']
 confidence: high
 page_kind: [framework]
+systems: [educational-policy-ai]
 ---
 
 > **Synthesis:** This paper proposes a principled framework grounded in Evidence-Centered Design (ECD) that treats [[generative-ai]] as a design variable within [[stem-education|STEM]] assessment arguments rather than an external threat. This represents a significant evolution beyond the binary debate of 'ban AI vs. allow AI' that has dominated discussions about [[academic-integrity]] in education.

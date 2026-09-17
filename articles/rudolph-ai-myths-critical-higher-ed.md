@@ -5,13 +5,13 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking, educational-development]
 technology: [generative-ai]
-stakeholders: [governance, regulation]
 ethics: [ai-misuse-learning-harm, digital-divide]
 research_method: [theoretical analysis]
 audience: [faculty development]
 level: [higher ed]
 sources: ['raw/papers/rudolph-ai-myths-critical-higher-ed.md']
 confidence: medium
+systems: [governance, regulation]
 ---
 
 > **Synthesis:** An editorial from the *Journal of Applied Learning & [[teacher-role|Teaching]]* that critically interrogates the hype surrounding AI and [[generative-ai|generative AI]] (GenAI) in [[higher-ed|higher education]]. The authors dismantle eight entrenched myths about AI — including its supposed autonomy, intelligence, objectivity, and inevitability — and argue that these [[ai-technologies|technologies]] tend to exacerbate inequality, environmental degradation, labor precarity, and academic-integrity erosion. They call on higher-education intellectuals to embed [[ai-literacy]] into curricula and institutional practices as the corrective to uncritical technological optimism.

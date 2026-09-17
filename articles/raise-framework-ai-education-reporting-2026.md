@@ -5,7 +5,7 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [learning-design, limitations-in-aied-research]
 technology: [generative-ai, prompt-engineering]
-assessment: [ai-ed-evaluation, assessment-validity, meta-analysis-systematic-review, research-methods-aied]
+assessment: [assessment-validity]
 ethics: [equity-in-ai-education, ethics]
 connected_faqs: [reporting-interpreting-aied-research]
 sources: ['raw/papers/raise-framework-ai-education-reporting-2026.md']
@@ -14,6 +14,7 @@ research_method: [position paper]
 audience: [researchers]
 level: [k 12, higher ed]
 page_kind: [framework, evaluation]
+methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
 ---
 
 > **Synthesis:** This editorial introduces **RAISE** — *Reporting AI Studies in Education* — a reporting checklist of **30 items across ten thematic domains** for manuscripts in which AI is a key contributing factor to the pedagogical intervention. Its author, the editor-in-chief of the *Journal of Educational Computing Research*, argues that current submissions routinely omit which model was used, how it was configured, what pedagogical role it played, whether humans reviewed its outputs, and how bias or ethical risk was handled — leaving reviewers and editors unable to judge whether an AI intervention was necessary, [[limitations-in-aied-research|replicable]], or credible. The ten domains run from educational justification and [[learning-theories|theoretical grounding]], through AI system specification and learner–[[student-ai-interaction|AI interaction]], [[accessibility]] and cultural fit, participants and setting, human involvement, study design and evaluation, [[ethics]] and trustworthiness, to transparency, reproducibility, and limitations. Alongside the checklist it supplies a companion **Ethics and Risk Matrix** for risks to [[agency|learner agency]], [[equity-in-ai-education|equity]], data [[governance]] and algorithmic transparency. The framing is deliberately non-prescriptive — the framework "does not mandate any particular method, model, or ideology; rather, it insists that whatever choices are made, they are made visible."

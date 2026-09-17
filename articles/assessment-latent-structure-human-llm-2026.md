@@ -4,7 +4,7 @@ created: "2026-08-18T09:25:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 technology: [generative-ai, llm]
-assessment: [ai-ed-evaluation, assessment-validity, educational-measurement, item-response-theory, psychometrically-aware-ai]
+assessment: [assessment-validity, educational-measurement, item-response-theory, psychometrically-aware-ai]
 research_method: [educational measurement]
 level: [secondary, k 12, higher ed]
 page_kind: [evaluation]
@@ -12,6 +12,7 @@ sources: ['raw/papers/assessment-latent-structure-human-llm-2026.md']
 confidence: high
 discipline: [chemistry education, stem education]
 audience: [researchers, assessment professionals]
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** Strugatski, Zeinfeld, and Alexandron (2026) ask whether assessment instruments measure the same underlying constructs for humans and LLMs, arguing that validity-based inference from [[llm]] performance on human-designed exams requires similarity in the latent structure of responses. Using a case study across two [[stem-education|STEM]] instruments — a high-school [[chemistry-education|chemistry]] diagnostic and the [[quantitative-research|quantitative]]-reasoning section of a university entrance exam — they compare human response data with responses from six [[multimodal]] LLMs (OpenAI GPT-4o/GPT-5.2, Google Gemini 1.5 Pro/3 Pro, Anthropic Claude 3.5 Sonnet/4.5) using [[educational-measurement|exploratory factor analysis]], factor congruence, and resampling. They find systematic differences between human and LLM factor structures — LLM–human similarity reliably fell below the human–human baseline across both instruments. The findings call into question the [[ai-ed-evaluation|validity of evaluation practices]] that use educational assessments to make generalizable claims about AI capabilities.

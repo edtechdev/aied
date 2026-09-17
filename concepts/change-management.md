@@ -4,10 +4,10 @@ created: "2026-08-29T12:55:12-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: concept
 foundations: [ai-education]
-stakeholders: [change-management]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
 level: [higher ed]
 confidence: medium
+systems: [change-management]
 ---
 
 > **Change management** — the deliberate set of processes, governance structures, and leadership practices through which [[higher-ed]] institutions plan, implement, and sustain the integration of AI into teaching, learning, and assessment. Because [[generative-ai|generative AI]] arrived as an "arrival technology" that entered classrooms before [[pedagogy|pedagogical]] evidence accumulated, change management in [[ai-education|AI education]] must support continuous adaptation under uncertainty rather than one-time adoption, balancing institutional stability with emergent innovation and shared governance across [[administrator|administrators]], [[teacher-role|faculty]], students, and [[educational-policy-ai|policymakers]].

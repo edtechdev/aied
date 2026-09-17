@@ -5,11 +5,12 @@ updated: "2026-09-16T15:58:20-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
-stakeholders: [educational-policy-ai, governance, student-experience]
+stakeholders: [student-experience]
 connected_faqs: [course-ai-policy]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
+systems: [educational-policy-ai, governance]
 ---
 
 > **Framing AI use for students** — the persuasive and communicative craft of shaping how learners understand the value, purpose, and boundaries of AI tools and policies, so that they adopt productive and [[ethics|ethical]] use rather than rejecting, avoiding, or gaming it. It is the "buy-in" lever that [[reducing-ai-misuse]]'s educative interventions depend on: structural [[guardrails]] change the environment, but [[scaffolding]], literacy training, and AI-use policies only take hold when students are actually convinced of their point.

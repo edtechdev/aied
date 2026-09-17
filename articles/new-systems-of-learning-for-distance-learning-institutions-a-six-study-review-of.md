@@ -5,8 +5,6 @@ updated: "2026-09-17T07:39:56-04:00"
 type: article
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, learning-analytics]
-assessment: [design-based-research]
-stakeholders: [governance, technology-acceptance-model]
 ethics: [privacy]
 research_method: [design-based research]
 level: [higher ed]
@@ -14,6 +12,8 @@ sources: ['raw/papers/10.1016_j.caeai.2026.100607.md']
 confidence: high
 audience: [institutions, instructional designers, educators]
 connected_faqs: [asynchronous-online-courses-ai]
+methods: [design-based-research]
+systems: [governance, technology-acceptance-model]
 ---
 
 > **Synthesis:** Rienties et al. (2026) examine how the Open University (UK) — a large-scale [[online-teaching-and-learning|distance learning]] institution [[teacher-role|teaching]] 200K+ learners across 50+ countries — designed, implemented, and evaluated an AI digital assistant (AIDA) using Sharples' embedded systems approach. Through six iterative [[design-based-research|Design-Based Research]] (DBR) studies over 18 months involving 498 students and 20 staff, they found that purpose-built GenAI tools embedded within the learning environment can enhance [[student-engagement|engagement]] in distance education, provided development is participatory, governance is robust, and integration aligns with institutional strategy. In an exploratory [[rct|randomized controlled trial]], students using AIDA spent twice as long and visited more pages in the course relative to the control group.

@@ -5,13 +5,14 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
 pedagogy: [motivation, self-determination-theory]
-stakeholders: [professional-training, teacher-ai-competency]
+stakeholders: [teacher-ai-competency]
 research_method: [mixed methods]
 audience: [faculty development]
 level: [secondary, teacher training, higher ed, k 12]
 sources: ['raw/papers/10.1080_02619768.2026.2621848.md']
 confidence: high
 page_kind: [framework]
+systems: [professional-training]
 ---
 
 > **Synthesis:** Chiu, Bali, Tondeur, Howard, and Chan (2026) apply self-determination theory (SDT) to investigate how need-supportive professional development (PD) impacts teachers' AI literacy, attitudes, anxiety, and [[student-engagement|engagement]] in online professional learning communities (PLCs). Using a sequential [[mixed-methods-research|mixed-methods]] approach with 382 secondary school teachers, they found that need-supportive PD enhances AI literacy and fosters sustained behavioral engagement in PLCs, with AI literacy emerging as the key cognitive driver of sustained participation. [[qualitative-research|Qualitative]] analysis identified nine specific design strategies for PD that satisfy teachers' needs for autonomy, competence, and relatedness — bridging the often-overlooked connection between isolated PD and PLCs to support the scaling and [[sustainability]] of teacher AI learning.

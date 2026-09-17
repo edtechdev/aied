@@ -6,9 +6,10 @@ foundations: [academic-integrity, ai-literacy, cognitive-offloading, misconcepti
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
 assessment: [ai-detection, assessment-validity, feedback-literacy]
-stakeholders: [governance, pedagogical-safety, teacher-ai-competency]
+stakeholders: [pedagogical-safety, teacher-ai-competency]
 ethics: [equity-in-ai-education, trust-calibration]
 weight: 95
+systems: [governance]
 ---
 
 This FAQ is organized by stakeholder group and uses a **refutation approach**: name the misconception, explain why it may seem plausible, reject the inaccurate belief directly, and replace it with a more useful mental model. It is based on the AI in Education knowledge base, especially its syntheses of [[misconceptions|Misconceptions about AI]], [[ai-literacy|AI Literacy]], [[cognitive-offloading|Cognitive Offloading]], and [[refutation-text|Refutation Text]]. 

@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, curriculum-design, teacher-role]
 technology: [adaptive-learning, generative-ai]
 assessment: [educational-measurement]
-stakeholders: [technology-acceptance-model]
 ethics: [equity-in-ai-education]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [instrument development, survey, quantitative, mixed methods]
@@ -16,6 +15,7 @@ level: [elementary, secondary, k 12, teacher training]
 page_kind: [framework]
 sources: ['raw/papers/age-tiered-ai-literacy-guidebooks-2026.md']
 confidence: high
+systems: [technology-acceptance-model]
 ---
 
 > **Synthesis:** Wang, Chuang and Wu (2026) evaluate the reception of an age-tiered AI literacy resource, the AI Learning Application Guidebook, built for Taiwan's K-12 system in two editions: an Elementary edition for learners aged 9 to 12 with scaffolded, platform-based, non-generative activities, and an Advanced edition for learners aged 13 to 18 with authentic applications, ethical reasoning and supervised [[generative-ai]] use. In a single post-exposure survey of 831 participants (794 students and 37 teachers), split-sample factor analysis supports a four-factor [[technology-acceptance-model|acceptance]] structure of Performance Expectancy, Effort Expectancy, Perceived Playfulness and Behavioral Intention, with measurement invariance holding across the two student editions while [[teacher-role|teacher]] data remain exploratory. The Elementary cohort reported significantly higher levels on all four constructs than the Advanced cohort, and perceived playfulness was the strongest correlate of behavioral intention in both groups. The authors are unusually blunt about the limits: the study measures short-term acceptance of [[ai-literacy]] materials after roughly 30 minutes of exposure, not [[learning-gains|learning gains]], ethical competence or actual use.

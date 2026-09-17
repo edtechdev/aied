@@ -5,13 +5,13 @@ updated: "2026-09-14T09:12:54-04:00"
 type: article
 foundations: [human-ai-collaboration, limitations-in-aied-research]
 technology: [educational-nlp, human-in-the-loop-ai, llm]
-assessment: [qualitative-research, research-methods-aied]
 ethics: [trust-calibration]
 sources: ['raw/papers/llm-qualitative-coding-consensus-2026.md']
 confidence: high
 research_method: [benchmark, research methods]
 audience: [researchers]
 page_kind: [evaluation]
+methods: [qualitative-research, research-methods-aied]
 ---
 
 > **Synthesis:** Two [[agentic-ai|multi-agent]] [[llm]] coders can mimic the human practice of coding independently, debating conflicts, and building consensus, but their accuracy is governed less by architectural sophistication than by ordinary properties of the codebook and the excerpts they are handed. Across four qualitative corpora and 10,000 coded instances, this Stanford study finds that concise, semantically diverse codebooks and short, topically coherent excerpts raise first-pass coding accuracy, while intense and unresolved disagreement predicts *higher* accuracy once the debate is folded back into a re-coding pass. For [[human-ai-collaboration]] this reframes disagreement from a defect to be engineered away into a diagnostic signal, and it implies that [[trust-calibration]] in automated qualitative coding should be driven by process evidence — how much the agents argued — rather than by how neatly they converged. The paper's most unsettling result is that agreement between two AI coders can be an illusion of rigor, since both are instances of the same model and may be consistently wrong in the same way.

@@ -4,7 +4,6 @@ created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 technology: [generative-ai]
-stakeholders: [technology-acceptance-model]
 ethics: [hallucination-risk, privacy, trust]
 audience: [researchers, instructors, administrators, policymakers]
 research_method: [survey, quantitative]
@@ -12,6 +11,7 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1866428.md']
 confidence: high
 level: [higher ed]
 page_kind: [framework]
+systems: [technology-acceptance-model]
 ---
 
 > **Synthesis:** Du, Ning, Shi, and Chen (2026) ask not whether university students adopt [[generative-ai|generative AI]] but what they gain from it, integrating Cognitive Appraisal Theory, Protection Motivation Theory, and the [[technology-acceptance-model|TAM/UTAUT2]] framework into a risk–benefit model tested on 814 Chinese university students. Using hierarchical regression and threshold regression, they find that risk perception is dimension-specific and non-monotonic: security risk concern is positively associated with academic assistance and skill development, whereas information risk concern — worry about content accuracy that students struggle to verify — is negatively associated with psychological and emotional support, daily life, and leisure benefits. Beyond a critical level, the sign of these associations flips to significantly positive, suggesting that under the right conditions risk can activate rather than suppress benefit perception.

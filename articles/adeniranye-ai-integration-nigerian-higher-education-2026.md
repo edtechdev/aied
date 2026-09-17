@@ -4,13 +4,13 @@ created: "2026-09-07T08:45:00-04:00"
 updated: "2026-09-13T12:55:00-04:00"
 type: article
 foundations: [ai-education]
-stakeholders: [educational-policy-ai, governance]
 ethics: [digital-divide, equity-in-ai-education, global-south]
 research_method: [secondary analysis]
 audience: [policymakers, institutions, administrators, researchers]
 level: [higher ed]
 sources: ['raw/papers/adeniranye-ai-integration-nigerian-higher-education-2026.md']
 confidence: high
+systems: [educational-policy-ai, governance]
 ---
 
 > **Synthesis:** Adeniranye et al. (2026) provide one of the first systematic comparative assessments of [[ai-education|AI]] integration across institution types within a single national [[higher-ed|higher education]] system. Analyzing 45 Nigerian universities (15 federal, 15 state, 15 private) across six dimensions — infrastructure, [[curriculum-design|curriculum]], research, industry partnerships, international collaborations, and policy frameworks — they find only moderate overall integration (M = 4.79 on a 10-point scale) with meaningful variation. Critically, governance type did not predict integration once institution age and geographic location were controlled: older universities and those in Nigeria's South-West corridor scored significantly higher. Strong correlations among internal capabilities and between international collaborations and industry partnerships show that capability and network ties are mutually reinforcing, so well-connected institutions accumulate compounding advantages while others risk deepening [[digital-divide|digital inequality]].

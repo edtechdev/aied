@@ -5,8 +5,7 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [teacher-role]
 technology: [generative-ai]
-assessment: [meta-analysis-systematic-review]
-stakeholders: [professional-training, teacher-ai-competency]
+stakeholders: [teacher-ai-competency]
 sources: ["raw/papers/li-language-educators-genai-review-2026.md"]
 confidence: high
 research_method: [systematic review]
@@ -14,6 +13,8 @@ discipline: [language learning, english education]
 audience: [teacher educators, teachers, faculty development]
 level: [teacher training, higher ed]
 page_kind: [synthesis]
+methods: [meta-analysis-systematic-review]
+systems: [professional-training]
 ---
 
 > **Synthesis:** **A systematic review of language educators' practices and development with GenAI** — Li, Exter, Feng, Tang and Xu (2026) report a PRISMA-aligned [[meta-analysis-systematic-review|systematic review]] of 23 SSCI-indexed empirical studies (December 2022–September 2024) on how language educators across pre-service, in-service, and [[higher-ed|higher-education]] contexts perceive, adopt, and learn to integrate [[generative-ai|GenAI]]. Synthesizing findings through the Aristotelian knowledge typology of episteme (theoretical understanding), techne (practical skill), and phronesis (practical wisdom), the review finds cautious, selective adoption weighted toward behind-the-scenes preparation, persistent competency gaps, and only three structured professional-development interventions that nonetheless signal gains in knowledge, confidence, and identity.

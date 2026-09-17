@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [self-regulated-learning]
 technology: [generative-ai]
-assessment: [mixed-methods-research]
 audience: [learners, instructors]
 research_method: [mixed methods]
 discipline: [information technology, engineering education]
@@ -14,6 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/atif-dickson-deane-scaffold-shortcut-genai-srl-2026.md']
 source_url: 'https://doi.org/10.20851/ll.v8.63'
 confidence: high
+methods: [mixed-methods-research]
 ---
 
 > **Synthesis:** **Scaffold or shortcut?** — a [[mixed-methods-research|mixed-methods]] study of 267 postgraduate IT students in Australia showing that [[generative-ai|GenAI]] plays a dual role in [[self-regulated-learning|SRL]]: it can act as a cognitive scaffold that supports goal setting, monitoring, and self-evaluation, or a cognitive shortcut that displaces them. Whether it [[scaffolding|scaffolds]] or short-circuits depends less on the tool than on how students regulate its use.

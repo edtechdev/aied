@@ -4,7 +4,7 @@ created: "2026-08-19T09:35:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 technology: [human-in-the-loop-ai, learning-analytics, machine-learning, student-modeling]
-assessment: [ai-ed-evaluation, educational-measurement]
+assessment: [educational-measurement]
 ethics: [ethics]
 research_method: [system development, learning analytics]
 level: [higher ed]
@@ -12,6 +12,7 @@ page_kind: [evaluation]
 sources: ['raw/papers/2608.17618.md']
 confidence: high
 audience: [learning analytics designers, administrators, researchers]
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** Le, Abel, and Laforge (2026) tackle a persistent gap in [[learning-analytics]]: prediction models can identify students at risk, but they rarely say which interventions are *feasible, actionable, and compatible with educational constraints*. They introduce **SC2R**, a semantics-constrained counterfactual recourse framework that couples a calibrated predictive model with integer-programming-based recourse generation over discrete action variables, a lightweight RDF vocabulary for representing intervention plans, and SHACL validation to enforce timing, budget, immutability, and availability constraints. Evaluated offline on the OULAD dataset, SC2R shows that compact intervention plans can be generated at scale and, crucially, that semantic validation catches infeasible plans that lighter optimization-only approaches would accept. Rather than claiming causal improvement, the paper demonstrates that counterfactual recourse becomes more operationally meaningful in education when recommendations are not only model-valid but also semantically feasible and machine-checkable.

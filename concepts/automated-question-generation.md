@@ -4,10 +4,11 @@ created: "2026-05-08T10:44:35-04:00"
 updated: "2026-09-15T12:56:46-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
-assessment: [ai-ed-evaluation, assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
+assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
 research_method: [educational measurement]
 page_kind: [evaluation]
 confidence: high
+methods: [ai-ed-evaluation]
 ---
 
 > **Automated question generation (AQG)** — the use of AI, especially NLP and [[llm|large language models (LLMs)]], to generate [[assessment|educational assessment]] items (multiple-choice, short-answer, fill-in-the-blank, coding, and performance questions) automatically from source material or learning objectives. AQG enables assessment at scale — producing [[formative-assessment|formative]] quizzes, adaptive exercises, and practice items — but quality varies dramatically across item types and requires validation to avoid hallucinated or poorly calibrated questions. It is a core component of [[automated-assessment]] and a key enabler of [[adaptive-learning]] and [[personalized-learning]].

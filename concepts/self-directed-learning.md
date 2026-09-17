@@ -6,9 +6,9 @@ type: concept
 foundations: [agency]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
 technology: [generative-ai]
-stakeholders: [lifelong-learning]
 level: [higher ed, adult learning]
 confidence: high
+systems: [lifelong-learning]
 ---
 
 > **Self-directed learning (SDL)** — the process by which learners take initiative and responsibility for diagnosing their own learning needs, setting goals, identifying resources, choosing and implementing strategies, and evaluating outcomes, often with limited external structure. In the AI era, SDL is both a key outcome (does AI use support or erode learners' capacity to direct their own learning?) and a vulnerability (the convenience of generative AI can undermine the very autonomy and [[self-efficacy]] SDL requires).

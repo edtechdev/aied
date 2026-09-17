@@ -5,13 +5,13 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [generative-ai, intelligent-tutoring, llm, personalized-learning]
 assessment: [automated-question-generation]
-stakeholders: [edtech-platform]
 ethics: [culturally-relevant-pedagogy]
 research_method: [system development, user study]
 level: [higher ed]
 sources: ['raw/papers/2605.05842.md']
 confidence: medium
 audience: [instructors, edtech designers]
+systems: [edtech-platform]
 ---
 
 > **Synthesis:** Kurdya and colleagues (2026) present **Taklif.AI**, a platform that uses [[llm|large language models]] to generate [[personalized-learning|personalized]] college assignments from students' own interests and cultural contexts rather than from academic-performance metrics alone. The stated problem is educators' difficulty in producing engaging assignments that fit diverse interests and cognitive abilities: traditional one-size-fits-all tasks are linked in the paper to reduced engagement and increased reliance on unethical practices such as [[academic-integrity|plagiarism]]. The platform uses a structured [[prompt-engineering]] pipeline with input and output [[guardrails]], a serverless AWS architecture with a Next.js frontend, **Llama 3.3 70B** as the primary model via LiteLLM for multi-provider load balancing, and LangChain for prompt orchestration. Preliminary user-acceptance testing with 68 participants (65 students and three educators) found positive reception, with **84%** rating the personalization feature as beneficial; the authors treat rigorous empirical evaluation of learning outcomes as future work.

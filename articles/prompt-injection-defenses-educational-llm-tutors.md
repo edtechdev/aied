@@ -4,13 +4,14 @@ created: "2026-05-15T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [generative-ai, intelligent-tutoring, llm]
-stakeholders: [pedagogical-safety, regulation, student-experience]
+stakeholders: [pedagogical-safety, student-experience]
 ethics: [hallucination-risk]
 research_method: [benchmark, system development]
 audience: [learners, software developers]
 sources: ['raw/papers/2605.06669.md']
 confidence: medium
 page_kind: [evaluation, framework]
+systems: [regulation]
 ---
 
 > **Synthesis:** This paper addresses a fundamental tension in educational LLM deployment: tutors must be both **secure** (resist prompt injection attacks) and **usable** (not block legitimate educational interactions). The author presents a systematic evaluation methodology using a **480-query benchmark** (369 injection, 111 benign) with statistically rigorous comparison.

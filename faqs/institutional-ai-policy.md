@@ -4,11 +4,11 @@ created: "2026-09-16T15:58:20-04:00"
 updated: "2026-09-17T02:50:00-04:00"
 weight: 65
 type: faq
-stakeholders: [change-management, educational-policy-ai, governance]
 ethics: [equity-in-ai-education, ethics, privacy]
 research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
+systems: [change-management, educational-policy-ai, governance]
 ---
 
 # How Do We Write and Implement an Institutional AI Policy?

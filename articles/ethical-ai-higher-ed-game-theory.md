@@ -7,13 +7,13 @@ foundations: [academic-integrity, ai-literacy]
 pedagogy: [motivation]
 technology: [generative-ai, llm]
 assessment: [formative-assessment]
-stakeholders: [educational-policy-ai, governance, regulation]
 connected_faqs: [institutional-ai-policy]
 audience: [administrators, instructors]
 research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/2605.27400.md']
 confidence: high
+systems: [educational-policy-ai, governance, regulation]
 ---
 
 > **Synthesis:** Ogbo, Song, Ghareeb, and Han (2026) provide a formal, mechanism-level account of why policy statements alone fail to change student AI-use behavior. Reframing student AI use in assessments as a **coordination problem** shaped by peer expectations and assessment design rather than individual compliance, they develop an **evolutionary game-theoretic framework** capturing learning value, effort, perceived [[bias-mitigation|fairness]], and transparency, with [[governance|institutional]] AI governance modeled implicitly through reflective assessment incentives. Using analytical results and finite-population [[simulation|simulations]], they reveal **threshold-driven behavioral transitions**: small, well-calibrated changes to reflective assessment incentives can trigger rapid cohort-wide shifts toward [[ai-literacy|responsible AI use]], while weak or misaligned incentives allow opportunistic practices to persist.

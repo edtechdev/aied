@@ -6,12 +6,12 @@ type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm]
-assessment: [benchmark]
 stakeholders: [student-experience]
 research_method: [benchmark]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
+methods: [benchmark]
 ---
 
 > Domain-specialized optimization can transform a mid-sized [[open-source]] model (Qwen3-32B) into a [[pedagogy|pedagogical]] domain expert that outperforms far larger proprietary systems — but only when training rewards *guiding* rather than *answering*.([[singh-eduqwen-pedagogical-rl-2026]]) Classical instructional design theory (ADDIE, Dick & Carey) combined with modern ReAct reasoning achieves the highest performance in automated instructional design.([[jeon-isd-agent-bench-2026]])

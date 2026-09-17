@@ -6,13 +6,14 @@ type: article
 foundations: [critical-thinking]
 pedagogy: [collaborative-learning, problem-solving]
 technology: [generative-ai]
-assessment: [assessment, meta-analysis-systematic-review]
+assessment: [assessment]
 connected_faqs: [group-work-ai]
 research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/systems-llm-skills-review.md']
 confidence: high
 audience: [instructors, administrators, policymakers]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** Can Large Language Models Foster Critical Thinking, Teamwork, and [[problem-solving]] Skills in Higher Education?: A [[meta-analysis-systematic-review|Literature Review]]

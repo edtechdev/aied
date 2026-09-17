@@ -5,7 +5,7 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [ai-education]
 technology: [adaptive-learning, intelligent-tutoring, personalized-learning]
-assessment: [learning-gains, meta-analysis-systematic-review]
+assessment: [learning-gains]
 sources: ['raw/papers/ai-supported-instruction-stem-meta-analysis-2026.md']
 confidence: high
 research_method: [systematic review, meta-analysis]
@@ -13,6 +13,7 @@ audience: [educators, researchers, policymakers, curriculum designers]
 level: [k 12, higher ed, secondary, elementary]
 page_kind: [synthesis]
 discipline: [stem education, engineering education, math education, science education]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** This [[meta-analysis-systematic-review|systematic review and meta-analysis]] pools 35 experimental and quasi-experimental studies published between 2005 and 2025 to estimate how AI-supported instruction affects student learning in [[stem-education|STEM education]]. Using Hedges' g under a random effects model, the authors report a moderate to strong positive overall effect (g = 0.670, 95% CI [0.491, 0.848], p < 0.001), largest at the high school level and for interventions lasting more than one month and up to two months. Differences between science, [[math-education|mathematics]] and technology/engineering were not statistically significant, and the publication bias diagnostics suggested the overall result was robust, although heterogeneity across studies was substantial and the authors applied no formal quality appraisal tool.

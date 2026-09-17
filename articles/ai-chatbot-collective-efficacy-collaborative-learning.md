@@ -5,12 +5,12 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 pedagogy: [collaborative-learning, scaffolding]
 technology: [generative-ai]
-assessment: [design-based-research]
 research_method: [instrument development, system development, user study]
 level: [higher ed]
 sources: ['raw/papers/aper-chatbot-collective-efficacy.md']
 confidence: high
 audience: [instructional designers, instructors, edtech designers]
+methods: [design-based-research]
 ---
 
 > **Synthesis:** AI chatbot design principles to enhance the collective efficacy in collaborative learning

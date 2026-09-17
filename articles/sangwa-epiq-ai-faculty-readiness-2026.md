@@ -5,13 +5,14 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, educational-development]
 assessment: [assessment-validity]
-stakeholders: [change-management, teacher-ai-competency]
+stakeholders: [teacher-ai-competency]
 research_method: [secondary analysis, literature review]
 audience: [faculty development]
 level: [higher ed]
 sources: ['raw/papers/sangwa-epiq-ai-faculty-readiness-2026.md']
 confidence: high
 page_kind: [framework]
+systems: [change-management]
 ---
 
 > **Synthesis:** Sangwa, Ndahayo, Dusengumuremyi & Mutabazi (2026) develop the EPIQ-AI Readiness Framework through an integrative secondary evidence synthesis of official statistics, large-scale faculty and institutional surveys, peer-reviewed studies, and policy frameworks published 2020–2025. The framework integrates technology acceptance (TAM/UTAUT), TPACK, and organizational readiness traditions to explain how institutions can align faculty capacity, governance, and quality assurance for AI-supported [[teacher-role|teaching]] and scalable online delivery. Key finding: faculty readiness is a sociotechnical alignment problem — not an individual skills deficit — and assessment, not detection, is the decisive frontier for preserving epistemic integrity.

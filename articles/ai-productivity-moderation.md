@@ -5,13 +5,13 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai]
-stakeholders: [educational-policy-ai]
 research_method: [position paper, theoretical analysis]
 audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/2605.24688.md']
 confidence: high
 page_kind: [framework]
+systems: [educational-policy-ai]
 ---
 
 > **Synthesis:** This ICML 2026 position paper argues that adopting AI in organizational practice does not automatically yield productivity gains — human and environmental factors critically moderate the relationship. Drawing on the partial equilibrium model of Gries and Naudé (2022), it identifies five key moderators that can attenuate or negate productivity benefits.

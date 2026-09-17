@@ -6,7 +6,7 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [creativity]
 technology: [generative-ai]
-assessment: [assessment, meta-analysis-systematic-review]
+assessment: [assessment]
 connected_faqs: [ai-guidance-children-under-13]
 audience: [instructors]
 research_method: [systematic review]
@@ -14,6 +14,7 @@ discipline: [writing education]
 level: [early childhood, k 12]
 sources: ['raw/papers/elementary-writing-genai-systematic-review-2026.md']
 confidence: medium
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** This systematic literature review synthesizes 8 peer-reviewed studies (2019–2025) on AI literacy for elementary writing instruction, finding that AI integration efficiently supports writing practices and fosters creativity through multimodal application while creating nuanced approaches to writing assessment — alongside unresolved limitations for future research. Across four thematic categories — writing practice, creative and multimodal writing, instructional scaffolding, and assessment — the review positions AI shifting from an efficiency tool to an integrated [[pedagogy|pedagogical]] resource supporting both cognitive and creative dimensions of writing development.

@@ -5,7 +5,6 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 pedagogy: [constructivist]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, simulation]
-stakeholders: [professional-training, regulation]
 research_method: [systematic review]
 sources: ['raw/papers/caeai-ai-vet-review.md']
 confidence: high
@@ -13,6 +12,7 @@ discipline: [vocational education]
 audience: [researchers, policymakers]
 level: [adult learning]
 page_kind: [synthesis, evaluation]
+systems: [professional-training, regulation]
 ---
 
 > **Synthesis:** First [[meta-analysis-systematic-review|systematic review]] of AI in vocational education and training, identifying 26 empirical studies (2015–2026) via ERIC, Web of Science, and Elicit, analyzed with a theory-informed coding scheme under PRISMA guidelines.

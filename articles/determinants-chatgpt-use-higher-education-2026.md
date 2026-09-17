@@ -7,11 +7,11 @@ sources: ["raw/papers/determinants-chatgpt-use-higher-education-2026.md"]
 pedagogy: [student-engagement]
 technology: [learning-analytics]
 assessment: [educational-measurement]
-stakeholders: [technology-acceptance-model]
 confidence: medium
 research_method: [survey, learning analytics, quantitative]
 audience: [institutions, educators, policymakers]
 level: [higher ed]
+systems: [technology-acceptance-model]
 ---
 
 > **Synthesis:** This study uses an exploratory machine learning (ML) framework to identify which educational, perceptual, and demographic factors are associated with university students' intended future use of ChatGPT for academic work. Survey data were collected from 166 students (final analytical sample of 111 after conservative outlier removal), and the analysis deliberately prioritizes educational interpretation over raw algorithmic performance. The authors position their contribution not in new algorithms but in a pedagogically grounded operationalization of established adoption theories.

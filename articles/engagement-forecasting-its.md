@@ -5,13 +5,13 @@ updated: "2026-09-16T15:50:31-04:00"
 type: article
 pedagogy: [metacognition, scaffolding, student-engagement]
 technology: [intelligent-tutoring, learning-analytics, rag]
-assessment: [benchmark]
 audience: [software developers]
 research_method: [experiment, benchmark]
 level: [k 12]
 sources: ['raw/papers/2605.12788.md']
 confidence: high
 discipline: [math education]
+methods: [benchmark]
 ---
 
 > **Synthesis:** This paper tackles a core ITS challenge: predicting when students will disengage so tutors can intervene before it's too late. It introduces **[[student-engagement|engagement]] forecasting** as a supervised prediction task with two complementary targets: minutes practiced per week (effort) and new skills mastered per week (progress).

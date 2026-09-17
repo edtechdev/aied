@@ -3,9 +3,10 @@ title: "What Measures and Research Methods Can an Instructor Use to Evaluate AI-
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-09-14T13:43:30-04:00"
 weight: 55
-assessment: [ai-ed-evaluation, assessment, research-methods-aied, self-report-measures]
+assessment: [assessment, self-report-measures]
 research_method: [research methods]
 page_kind: [evaluation]
+methods: [ai-ed-evaluation, research-methods-aied]
 ---
 
 # What Measures and Research Methods Can an Instructor Use to Evaluate AI-Related Interventions?

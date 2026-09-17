@@ -3,13 +3,14 @@ title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
 updated: "2026-09-16T10:26:00-04:00"
 type: concept
-assessment: [ai-ed-evaluation, assessment]
+assessment: [assessment]
 stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed, k 12]
 page_kind: [evaluation]
 connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods]
 confidence: high
+methods: [ai-ed-evaluation]
 ---
 
 > **Learning gains** — measurable improvements in student knowledge, skills, or competencies resulting from educational interventions, including AI-assisted instruction. In [[ai-education|AI in education]] research, learning gains serve as the primary outcome measure for evaluating whether AI tools actually improve learning — not just [[student-engagement|engagement]] or satisfaction.

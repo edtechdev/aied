@@ -4,13 +4,14 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 foundations: [academic-integrity, ai-education, teacher-role]
-stakeholders: [governance, student-experience]
+stakeholders: [student-experience]
 ethics: [ethics, privacy]
 research_method: [mixed methods]
 audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/bilgic-sever-ethical-dimensions-ai-higher-ed-2026.md']
 confidence: high
+systems: [governance]
 ---
 
 > **Synthesis:** Bilgiç and Sever used an explanatory sequential [[mixed-methods-research|mixed-methods]] design to examine faculty and student views on the ethical use of AI in higher education, surveying 971 students and 135 faculty members followed by semi-structured interviews with 23 students and 14 faculty. Both groups expressed supportive views toward ethical AI use, but in different forms across individual, technological, institutional, and societal levels: faculty emphasized ethical principles while flagging a lack of institutional guidelines, whereas students valued AI's learning benefits but voiced uncertainty about the sharing of ethical responsibilities. [[qualitative-research|Qualitative]] analysis surfaced six themes exposing a multidimensional ethical structure, with shared concern that excessive AI use could weaken cognitive skills. The authors call for faculty [[educational-development|professional development]], ethics courses in curricula, clear institutional guidelines, and interdisciplinary [[collaborative-learning|collaboration]].

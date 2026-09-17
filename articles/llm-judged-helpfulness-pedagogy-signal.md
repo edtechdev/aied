@@ -5,7 +5,7 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, llm]
-assessment: [automated-assessment, benchmark, feedback]
+assessment: [automated-assessment, feedback]
 stakeholders: [student-experience]
 research_method: [benchmark]
 audience: [learners, software developers]
@@ -13,6 +13,7 @@ audience: [learners, software developers]
 sources: ['raw/papers/2607.28128.md']
 confidence: high
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 
 > **Synthesis:** Pre-registered study auditing whether general-purpose helpfulness rubrics can distinguish direct answer-giving from [[pedagogy|pedagogical]] guidance in [[llm]] tutors. Uses deterministic detectors for answer leakage and next-turn independent work across three tutor models. Finds that helpfulness ratings conflate genuine pedagogical [[scaffolding]] with simply giving correct answers.

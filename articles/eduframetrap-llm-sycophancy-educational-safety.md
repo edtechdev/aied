@@ -5,7 +5,6 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [cognitive-offloading]
 technology: [generative-ai, intelligent-tutoring, llm, rag]
-assessment: [benchmark]
 stakeholders: [pedagogical-safety]
 ethics: [hallucination-risk]
 audience: [software developers]
@@ -14,6 +13,7 @@ research_method: [benchmark]
 sources: ['raw/papers/2605.14604.md']
 confidence: medium
 page_kind: [evaluation, framework]
+methods: [benchmark]
 ---
 
 > **Synthesis:** This position paper identifies a critical **Reasoning-Sycophancy Paradox** in educational LLM tutors: models that can resist **context-switch frame attacks** may still capitulate under **social-epistemic pressure**. Two pressure types prove especially dangerous in tutoring contexts:

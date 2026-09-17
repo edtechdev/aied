@@ -5,7 +5,6 @@ updated: "2026-09-16T15:58:20-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
-stakeholders: [educational-policy-ai, governance]
 connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 research_method: [policy analysis, qualitative]
 level: [higher ed]
@@ -13,6 +12,7 @@ sources: ['raw/papers/adarkwah-genai-unesco-policy-2026.md']
 confidence: high
 audience: [policymakers, administrators, institutions]
 page_kind: [framework]
+systems: [educational-policy-ai, governance]
 ---
 
 > **Synthesis:** Adarkwah et al. (2026) conduct a [[qualitative-research|qualitative]] policy analysis of [[generative-ai]] (GenAI) policies at 30 highly ranked universities (by 2024 QS rankings) across the top ten countries for AI preparedness, evaluating them through UNESCO's eight-component GenAI framework. The findings reveal significant disparities in policy robustness: core [[ethics|ethical]] and [[governance]] principles are widely embraced, yet critical issues of [[inclusive-learning|inclusion]], [[equity-in-ai-education|equity]], and [[sustainability]] — such as internet access, gender parity in AI, and environmental impact — are often overlooked. Nordic countries and New Zealand cover UNESCO's elements more fully than some higher-ranked AI Preparedness Index (AIPI) countries, demonstrating that AIPI ranking does not guarantee strong GenAI [[educational-policy-ai]]. Notably, no public policies were found for German universities or Tallinn University of Technology. The study urges higher education leaders to develop more inclusive, future-oriented [[higher-ed]] policies integrating social equity, interdisciplinary experimentation, and sustainability.

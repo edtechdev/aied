@@ -5,12 +5,13 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 pedagogy: [student-engagement]
 technology: [learning-analytics, llm, machine-learning, rag]
-stakeholders: [edtech-platform, student-experience]
+stakeholders: [student-experience]
 research_method: [benchmark]
 audience: [learners]
 level: [higher ed, k 12]
 sources: ['raw/papers/2606.14960.md']
 confidence: medium
+systems: [edtech-platform]
 ---
 
 > **Synthesis:** Investigates ML models to predict exam outcomes from physiological data (electrodermal activity, heart rate, skin temperature) collected during exams. Evaluates logistic regression, random forest, SVM, transformers, LSTM, and GRU. Random forest often outperformed deep learning models while offering interpretability. Highlights value of physiological data for understanding student stress and real-time intervention potential.

@@ -4,12 +4,13 @@ created: "2026-06-29T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [adaptive-learning, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
-assessment: [assessment, benchmark]
+assessment: [assessment]
 audience: [software developers]
 research_method: [benchmark]
 level: [higher ed, k 12]
 sources: ['raw/papers/2606.28186.md']
 confidence: high
+methods: [benchmark]
 ---
 
 > **Synthesis:** This paper introduces Epi2Diff (Episode to Difficulty), a framework that maps [[llm]] reasoning traces into cognitively grounded episode sequences for predicting human item difficulty in [[assessment|educational assessment]]. The authors argue that difficulty should be viewed not only as a property of item text but also as an observable consequence of [[problem-solving]] burden. By analyzing reasoning traces from large reasoning models (LRMs), Epi2Diff extracts compact cognitive episodes that capture reasoning scale, effort allocation, and state transitions — enabling interpretable [[student-modeling|student modeling]] without costly human calibration.

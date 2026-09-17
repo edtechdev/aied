@@ -5,13 +5,14 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [academic-integrity, philosophy-of-ai-in-education]
 technology: [generative-ai]
-stakeholders: [educational-policy-ai, governance, stakeholders]
+stakeholders: [stakeholders]
 ethics: [ethics]
 research_method: [qualitative, policy analysis]
 audience: [administrators, instructors]
 level: [higher ed]
 sources: ['raw/papers/taylor-lacroix-purpose-before-policy-academic-integrity-2026.md']
 confidence: high
+systems: [educational-policy-ai, governance]
 ---
 
 > **Synthesis:** Taylor and LaCroix argue that whether [[generative-ai|generative AI]] use constitutes [[academic-integrity|misconduct]] depends on a prior question: what is the university's purpose? Drawing on an historical and rhetorical account of the Anglo-American university, they analyze mission statements from leading university networks to show that rising GenAI-related misconduct reflects *structural incoherence* in the neo-liberal university, where technological enthusiasm, corporate influence, and policy enforcement often conflict. They conclude that universities cannot credibly enforce integrity standards in the age of AI without first ensuring coherence between their stated missions, [[pedagogy|pedagogical practices]], and approaches to emerging [[ai-technologies|technologies]].

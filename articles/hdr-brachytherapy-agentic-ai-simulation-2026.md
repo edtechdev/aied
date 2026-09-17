@@ -5,7 +5,6 @@ updated: "2026-08-28T15:00:00-04:00"
 type: article
 foundations: [agentic-ai]
 technology: [multimodal, personalized-learning, rag, simulation]
-stakeholders: [professional-training]
 audience: [software developers]
 research_method: [system development]
 sources: ['raw/papers/2608.08163.md']
@@ -13,6 +12,7 @@ confidence: high
 discipline: [medical education]
 level: [adult learning]
 page_kind: [framework]
+systems: [professional-training]
 ---
 
 > **Synthesis:** Xu et al. (2026) present an agentic AI-driven immersive simulation for training in **High Dose Rate (HDR) brachytherapy**, integrating [[virtual-and-augmented-reality|virtual reality (VR)]] and mobile computing to create a high-fidelity, risk-free environment for mastering complex procedural skills. A knowledge-aware assistant uses [[rag|Retrieval-Augmented Generation (RAG)]] to ground agent interactions in authoritative clinical guidelines, providing natural-language interfaces and hands-free, real-time guidance during intricate maneuvers. A prototype on Meta Quest 3 with a local GPU-backed AI backend demonstrated a feasible architecture with suitable latency (3–5 s end-to-end) and high context precision, answer completeness, and relevance (RAGAS evaluation on 52 expert QA pairs). The work connects [[simulation]], [[professional-training]], [[medical-education]], [[pedagogical-safety]], and [[agentic-ai]] [[research-methods-aied|research]].

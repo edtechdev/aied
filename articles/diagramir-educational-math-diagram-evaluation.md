@@ -4,7 +4,7 @@ created: "2026-08-21T08:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [educational-nlp, generative-ai, llm, multimodal, visualization]
-assessment: [automated-assessment, benchmark]
+assessment: [automated-assessment]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [math education]
@@ -12,6 +12,7 @@ confidence: high
 level: [k 12]
 page_kind: [evaluation]
 sources: [raw/papers/2511.08283.md]
+methods: [benchmark]
 ---
 
 > **Synthesis:** **Back-translating generated diagrams into an intermediate representation (IR) enables scalable, low-cost automatic evaluation that beats LLM-as-a-Judge on agreement with human raters.** Most [[llm|LLM]]-based learning tools are text-only, limiting their use in visual domains like [[math-education|mathematics]] where diagrams and spatial reasoning matter. Recent work lets LLMs generate code (LaTeX TikZ) that compiles to educational figures, but evaluating whether those figures are mathematically and visually sound remains a bottleneck. DiagramIR solves this by translating TikZ code into a schema-constrained IR and running deterministic rule-based checks (fully in frame, elements scaled/readable, labels matched, no problematic overlap, angles/lengths match). Across 398 real teacher-generated diagram instances, this back-translation pipeline achieves higher agreement with human raters (Cohen's κ ≈ 0.48–0.56) than LLM-as-a-Judge (κ ≈ 0.39–0.47), and lets a small model like GPT-4.1-Mini perform comparably to GPT-5 at **10× lower inference cost** — important for accessible, scalable, [[equity-in-ai-education|equitable]] education technology.

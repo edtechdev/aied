@@ -5,12 +5,12 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 pedagogy: [metacognition, self-regulated-learning]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, pedagogical-llm-training, personalized-learning, rag]
-stakeholders: [lifelong-learning]
 research_method: [theoretical analysis]
 sources: ['raw/papers/nie-personavlm-long-term-personalization-2026.md']
 confidence: medium
 audience: [researchers, edtech designers]
 page_kind: [framework]
+systems: [lifelong-learning]
 ---
 
 > **Synthesis:** Current AI tutoring systems treat each session as independent. [[adaptive-learning|Adaptive systems]] use real-time [[knowledge-tracing|knowledge tracing]] (e.g., [[huang-interpretable-knowledge-tracing-2026|IRT-based models]]) but rarely retain a longitudinal [[student-modeling|student model]] that evolves across semesters. Longitudinal [[personalized-learning|personalization]] is essential for effective [[scaffolding]] because:

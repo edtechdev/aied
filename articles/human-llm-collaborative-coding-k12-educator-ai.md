@@ -5,7 +5,6 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm]
-assessment: [ai-ed-evaluation, qualitative-research, research-methods-aied]
 stakeholders: [teacher-ai-competency]
 research_method: [qualitative, research methods]
 audience: [instructors]
@@ -13,6 +12,7 @@ level: [k 12]
 page_kind: [evaluation]
 sources: ['raw/papers/2607.28889.md']
 confidence: high
+methods: [ai-ed-evaluation, qualitative-research, research-methods-aied]
 ---
 
 > **Synthesis:** A multi-phase human-[[llm|LLM]] collaborative pipeline adapted open, axial, and selective coding to build a hierarchical codebook from 45,000 messages exchanged between [[k-12|K-12 educators]] and a [[generative-ai|generative AI]] platform — an instance of LLMs as analytic assistants at a scale manual coding cannot match.

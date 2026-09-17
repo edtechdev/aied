@@ -6,12 +6,12 @@ type: article
 sources: ["raw/papers/dual-ai-learning-pathways-sdt-2026.md"]
 pedagogy: [self-determination-theory]
 technology: [generative-ai]
-assessment: [quantitative-research]
 confidence: medium
 research_method: [survey, structural equation modeling, quantitative]
 audience: [educators, administrators, researchers]
 level: [higher ed]
 page_kind: [framework]
+methods: [quantitative-research]
 ---
 
 > **Synthesis:** Shen and Arunrugstichai propose a **dual-pathway framework** explaining why students' [[generative-ai|GenAI]] use ranges from constructive support to compulsive dependence. Drawing on **Self-Determination Theory (SDT)** and the **Hook model**, they examine how retrospective reports of high-school learning climate relate to university students' GenAI-use patterns and perceived AI-supported learning quality. Using cross-sectional survey data (**overall N = 508**; China-HS n = 305, non-China-HS n = 203; China-Uni n = 193, Thailand-Uni n = 315), they test the model with structural equation modeling and multi-group analysis.

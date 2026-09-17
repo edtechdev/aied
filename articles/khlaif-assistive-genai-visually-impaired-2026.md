@@ -4,13 +4,13 @@ created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [generative-ai]
-assessment: [qualitative-research]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, global-south, inclusive-learning]
 sources: ['raw/papers/khlaif-assistive-genai-visually-impaired-2026.md']
 confidence: high
 research_method: [qualitative, case study]
 audience: [educators, institutions, instructional designers]
 level: [higher ed]
+methods: [qualitative-research]
 ---
 
 > **Synthesis:** **Assistive Generative AI for Visually Impaired Learners: [[personalized-learning|Personalization]] and Inclusion in Higher Education** — Khlaif, Alshakhshir, Hamamra & Joma (2026) present a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduate students across three Palestinian universities, examining how [[generative-ai|generative AI]] functions as an [[assistive-technology|assistive technology]] for [[inclusive-learning|inclusive learning]]. Thematic analysis of semi-structured interviews reveals that GenAI enables personalized adaptation, inclusive access, teacher augmentation, educational parity, and [[lifelong-learning|lifelong learning]], while six technological attributes — interactivity, user-friendliness, affordability, multimodality, integration, and scalability — underpin [[accessibility]] in low-resource contexts. The study extends [[equity-in-ai-education|digital equity]] discourse by framing inclusion as both infrastructural and cultural, contributing to SDG 4 in a [[global-south|Global South]] [[higher-ed|higher education]] setting.

@@ -5,13 +5,13 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [human-ai-collaboration, learning-design, teacher-role]
 technology: [generative-ai]
-assessment: [meta-analysis-systematic-review]
 stakeholders: [teacher-ai-competency]
 research_method: [systematic review]
 audience: [instructors, learning designers, researchers, faculty development]
 level: [higher ed, k 12]
 sources: ['raw/papers/wang-teacher-ai-co-design-review-2026.md']
 confidence: high
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** **Teacher-AI co-design in learning task design.** A systematic review by Zongran Wang, Liu Mingzhuo & A.Y.M. Atiquil Islam (2026) synthesizing **28 empirical studies (2015–2025)** on how teachers collaborate with AI — including generative AI — to design learning tasks. GenAI is predominantly used to support **lesson planning, prompt generation, and creative ideation**, while traditional AI is used for **[[learning-analytics|learning analytics]] and [[feedback]] design**. The dominant collaboration mode is **AI as assistant/content generator**, with AI as a fuller co-designer or dialogic partner much rarer. Four pedagogical affordances recur — **efficiency, responsiveness, [[creativity]], and [[equity-in-ai-education|equity]]** — and the review argues these form a functional-affordance framework for guiding teacher design work with AI.

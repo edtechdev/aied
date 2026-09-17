@@ -5,11 +5,12 @@ updated: "2026-09-17T03:00:00-04:00"
 weight: 65
 type: faq
 foundations: [limitations-in-aied-research]
-assessment: [ai-ed-evaluation, assessment-validity, benchmark, meta-analysis-systematic-review, research-methods-aied]
+assessment: [assessment-validity]
 ethics: [ai-use-disclosure]
 research_method: [research methods, literature review, meta-analysis]
 audience: [researchers]
 page_kind: [evaluation]
+methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
 ---
 
 # What Are Best Practices for Reporting and Interpreting AI in Education Research?

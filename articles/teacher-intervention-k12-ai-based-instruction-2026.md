@@ -6,13 +6,14 @@ type: article
 foundations: [agency, teacher-role]
 pedagogy: [scaffolding, student-engagement]
 technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, learning-analytics]
-assessment: [feedback, meta-analysis-systematic-review]
+assessment: [feedback]
 research_method: [systematic review, thematic analysis]
 audience: [teachers, teacher educators, designers, researchers, administrators]
 level: [k 12]
 page_kind: [framework]
 sources: ['raw/papers/teacher-intervention-k12-ai-based-instruction-2026.md']
 confidence: high
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** Lee (2026) synthesizes 29 studies of [[k-12]] AI-based instruction and finds that teacher intervention is the mechanism that turns AI output into teaching. Alerts, dashboards, automated scores and chatbot feedback do not constitute pedagogical action on their own; they become action only through a four-phase cycle of monitoring, judgment, intervention and orchestration, and every link in that cycle can fail. Three strategies organize the work — pedagogically translating AI outputs, designing learning support, and reconstructing interaction structures — and the reported effects on student performance, participation and confidence are positive but conditional on five factors: how interpretable the AI information is, intervention timing, the level targeted, teachers' implementation feasibility, and students' autonomy. The review's sharpest correction is that more AI information is not better, and more teacher support is not better either.

@@ -4,7 +4,7 @@ created: "2026-09-08T02:39:20-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [generative-ai, intelligent-tutoring, llm, pedagogical-agent, simulation]
-assessment: [ai-ed-evaluation, assessment]
+assessment: [assessment]
 sources: ['raw/papers/zhang-platform-scores-miss-ai-teaching-agents-2026.md']
 research_method: [quantitative, design and evaluation study]
 discipline: [medical education]
@@ -12,6 +12,7 @@ audience: [medical educators, researchers, assessment designers, edtech designer
 level: [higher ed]
 page_kind: [evaluation]
 confidence: high
+methods: [ai-ed-evaluation]
 ---
 
 > **Synthesis:** Eight AI teaching agents covering an endocrinology curriculum were deployed across four role-play paradigms (patient, student, expert, family) on a commercial platform. Twenty-two medical students generated 167 dialogues scored both by the platform's undisclosed algorithm and by an independently applied, expert-validated 8-dimension teaching-quality rubric (100 points). Platform and rubric rankings diverged for most agents — the agent ranked third by the platform ranked last on rubric quality, and the fourth-ranked rose to first — indicating platform scores index student performance, not agent teaching quality. Agents differed most on knowledge dimensions and shared a weakness in adaptive difficulty calibration; an empathic agent attained high role-play quality yet the lowest knowledge coverage.

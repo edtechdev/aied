@@ -4,13 +4,14 @@ created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 pedagogy: [motivation, self-efficacy, well-being]
-stakeholders: [ai-anxiety-and-stress, student-experience, technology-acceptance-model]
+stakeholders: [ai-anxiety-and-stress, student-experience]
 connected_faqs: [ai-anxiety-wellbeing]
 audience: [researchers, instructors, administrators]
 research_method: [structural equation modeling, survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1951992.md']
 confidence: high
 level: [higher ed]
+systems: [technology-acceptance-model]
 ---
 
 > **Synthesis:** Drawing on control-value theory (CVT), this structural equation modeling study of 547 Chinese undergraduates found that students who perceived more school support reported less [[ai-anxiety-and-stress|AI learning anxiety]] — largely because that support strengthened two appraisals: their [[self-efficacy|AI learning self-efficacy]] and their [[technology-acceptance-model|perceived usefulness]] of AI for academic work. Both appraisals in turn predicted lower anxiety, and the indirect routes through them carried most of the total association. The study reframes AI learning anxiety as an achievement-related emotion shaped by institutional conditions, not only by individual traits.

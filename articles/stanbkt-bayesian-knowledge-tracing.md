@@ -4,14 +4,14 @@ created: "2026-05-25T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, visualization]
-assessment: [benchmark]
-stakeholders: [open-source]
 audience: [software developers, researchers]
 research_method: [benchmark]
 sources: ['raw/papers/2605.23048.md']
 confidence: high
 level: [k 12]
 page_kind: [evaluation, framework]
+methods: [benchmark]
+systems: [open-source]
 ---
 
 > **Synthesis:** StanBKT is an [[open-source]] Python package that reimplements [[knowledge-tracing|Bayesian Knowledge Tracing]] in Stan, replacing the expectation-maximization point estimates that most BKT tools produce with full posterior inference. Pradhan et al. (2026) evaluate it on two datasets and reach a result that is easy to misread: on the large ASSISTments 2020 dataset every inference method performed *identically* on prediction — accuracy 0.694, AUC 0.711, RMSE 0.449 — so the choice is purely about cost and uncertainty, ranging from 822 seconds for Hamiltonian Monte Carlo to 6.83 seconds for MAP estimation. The payoff is demonstrated on a separate randomized experiment, where posterior contrasts let the authors distinguish which perceptual-cue effects on learning, forgetting, guessing, and slipping were credible and which were indistinguishable from noise.

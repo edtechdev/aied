@@ -4,13 +4,14 @@ created: "2026-08-16T04:26:01-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [generative-ai]
-assessment: [ai-ed-evaluation, learning-gains, meta-analysis-systematic-review]
+assessment: [learning-gains]
 research_method: [meta-analysis, systematic review]
 level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/genai-educational-outcomes-meta-analysis.md']
 confidence: high
 audience: [institutions, educators]
+methods: [ai-ed-evaluation, meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** **Generative AI [[ai-technologies|technologies]] and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches** — Dong (2026), *[[humanities-education|Humanities]] and Social Sciences Communications* 13, 559. A PRISMA-based meta-analysis of 53 studies that pools the effect of generative AI (GenAI) on educational outcomes. The central conclusion: GenAI generally outperforms traditional and non-GenAI approaches on academic achievement, higher-order thinking, and writing skills, and GenAI feedback is particularly effective — though game-assisted GenAI shows no significant added benefit, and gains vary by country and are consistent across university and secondary levels.

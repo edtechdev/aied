@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 foundations: [curriculum-design]
 technology: [personalized-learning, simulation]
-assessment: [automated-assessment, meta-analysis-systematic-review]
+assessment: [automated-assessment]
 ethics: [ethics]
 research_method: [systematic review]
 discipline: [nursing education, medical education]
@@ -13,6 +13,7 @@ sources: ['raw/papers/alrazeeni-transforming-nursing-education-ai-2026.md']
 confidence: high
 audience: [medical educators, faculty development]
 level: [higher ed]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** Alrazeeni et al. (2026) provide the first comprehensive systematic review of empirical AI applications in nursing education (28 studies, 2010–April 2025, from PubMed, CINAHL, IEEE Xplore, and Scopus). They find AI enhances nursing education in four areas — personalized learning, simulation-based training, automated assessment, and [[governance|institutional]] [[curriculum-design|curriculum]] management/predictive analytics — while surfacing recurring risks (technological inequity, faculty preparedness gaps, privacy and bias concerns). They offer concrete implementation recommendations and propose diagnostic accuracy as a measurable outcome.

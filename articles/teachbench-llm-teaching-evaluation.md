@@ -5,7 +5,7 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy]
 technology: [llm, personalized-learning]
-assessment: [benchmark, feedback, formative-assessment]
+assessment: [feedback, formative-assessment]
 audience: [researchers, instructors, software developers]
 research_method: [benchmark]
 
@@ -14,6 +14,7 @@ confidence: high
 discipline: [math education, physics education, chemistry education]
 level: [secondary]
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 
 > **Synthesis:** While LLMs are increasingly used as [[teacher-role|teaching]] assistants, their teaching capability remains insufficiently evaluated — a critical gap in current [[ai-education|AIED]] [[research-methods-aied|research]].

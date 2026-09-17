@@ -4,8 +4,9 @@ created: "2026-08-25T09:20:00-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 weight: 64
 foundations: [learning-design]
-stakeholders: [edtech-platform, pedagogical-safety]
+stakeholders: [pedagogical-safety]
 ethics: [accessibility, equity-in-ai-education]
+systems: [edtech-platform]
 ---
 
 # What Are Best Practices and Tips for Designing Effective Educational AI Software?

@@ -5,7 +5,6 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [ai-education]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm]
-assessment: [benchmark]
 stakeholders: [student-experience]
 research_method: [benchmark]
 audience: [learners, software developers]
@@ -13,6 +12,7 @@ sources: ['raw/papers/2605.06307.md']
 confidence: medium
 level: [special education]
 page_kind: [evaluation]
+methods: [benchmark]
 ---
 
 > **Synthesis:** Gonnermann-Müller, Haase & Leins (2026) evaluate whether **LLM-generated student personas simulating ADHD profiles** maintain stable and realistic behavioral patterns over time. This addresses a critical question for using LLMs in educational research and teacher training: can simulated learners reliably represent neurodivergent students?

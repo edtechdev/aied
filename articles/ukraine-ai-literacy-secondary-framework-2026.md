@@ -5,7 +5,7 @@ updated: "2026-09-01T09:45:00-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai]
-stakeholders: [professional-training, teacher-ai-competency]
+stakeholders: [teacher-ai-competency]
 ethics: [global-south]
 research_method: [mixed methods]
 audience: [teacher educators, researchers, policymakers]
@@ -13,6 +13,7 @@ level: [k 12]
 sources: ["raw/papers/ukraine-ai-literacy-secondary-framework-2026.md"]
 confidence: high
 page_kind: [framework, evaluation]
+systems: [professional-training]
 ---
 
 > **Synthesis:** Marienko, Markova, and Semerikov (2026) investigate [[ai-literacy]] among Ukrainian secondary educators through a sequential explanatory [[mixed-methods-research|mixed-methods]] design spanning a national survey (n = 2018), targeted educator surveys (n = 116), professional-development evaluation (n = 1130), and systematic mapping of European Open Science Cloud (EOSC) services. They find that while 84% of surveyed educators report using AI in professional practice, only 11% can identify specialized services beyond ChatGPT — a pattern of high adoption coupled with limited specialized awareness. The study proposes a five-level AI literacy framework (Awareness, Application, Evaluation, Creation, [[ethics]]) integrated with three paradigms of [[ai-education|AI in education]] (AI-directed, AI-supported, AI-empowered), and shows a professional-development intervention yields a 24% improvement in AI competence.
