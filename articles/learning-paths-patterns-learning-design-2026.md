@@ -45,7 +45,7 @@ The counter-intuitive result is a null one. Outcome levels were largely unrelate
 
 The Markov chain adds a second layer to the transition probabilities: how quickly one learning type can be reached from another (mean first passage time) and how often it returns (mean recurrence time). Discussion and [[assessment]] were the most accessible types, with the lowest first-passage values from every other type, while Production was the most distant and hardest to reach. Read pedagogically, Discussion works as a bridge between activity types and Assessment as a steering activity; Production behaves as a culminating, finalizing type, which the authors associate with [[project-based-learning]]. Recurrence times point the same way: Discussion (4.72) and Practice (4.92) reappear most often across a sequence, while Production (8.64) appears sporadically or at the end.
 
-The authors are explicit that these are pre-implementation designs, not observed behavior, and that domain matters. A self-transition from Practice to Practice may reflect routine or algorithmic [[problem-solving|problem solving]] in [[stem-education|STEM]] and language courses; Acquisition followed by Discussion may be more typical of [[humanities-education|humanities]] courses; Investigation never appears as an antecedent in any extracted rule, although it co-occurs with Acquisition and Discussion in the most frequent sequences. Two lines of reasoning follow. First, since Acquisition is both the most common type and the most common starting point, transmission-oriented design still structures many courses. Second, since some frequent sequences resemble flipped classroom, [[inquiry-based-learning]] and project-based designs, those approaches are present in the sample as shapes in the data. The authors insist the resemblance is not evidence of intent, and that confirming deliberate implementation would require [[qualitative-research|qualitative]] analysis of the designs and their contexts.
+The authors are explicit that these are pre-implementation designs, not observed behavior, and that domain matters. A self-transition from Practice to Practice may reflect routine or algorithmic [[problem-solving]] in [[stem-education|STEM]] and language courses; Acquisition followed by Discussion may be more typical of [[humanities-education|humanities]] courses; Investigation never appears as an antecedent in any extracted rule, although it co-occurs with Acquisition and Discussion in the most frequent sequences. Two lines of reasoning follow. First, since Acquisition is both the most common type and the most common starting point, transmission-oriented design still structures many courses. Second, since some frequent sequences resemble flipped classroom, [[inquiry-based-learning]] and project-based designs, those approaches are present in the sample as shapes in the data. The authors insist the resemblance is not evidence of intent, and that confirming deliberate implementation would require [[qualitative-research|qualitative]] analysis of the designs and their contexts.
 
 ## Recommendations and Limitations
 
@@ -59,7 +59,6 @@ The limitations bound how far the numbers travel. The sample is large but comes 
 - [[learning-analytics]] — the method family (Markov chains, pattern mining, correlations) applied to design data
 - [[curriculum-design]] — course-level planning decisions the patterns describe
 - [[assessment-validity]] — the construct-validity question behind coding activities into learning types
-- [[curriculum-design]] — course-level planning decisions the patterns describe
 - [[assessment]] — the strongest transition source and a steering activity in the sequences
 - [[feedback]] — the design element clustering with collaboration, group work and synchronous delivery
 - [[collaborative-learning]] — correlation partner of feedback and a source of peer feedback opportunities
@@ -69,6 +68,8 @@ The limitations bound how far the numbers travel. The sample is large but comes 
 - [[project-based-learning]] — the culminating, Production-heavy pattern
 - [[higher-ed]] — the presumed main context of the sampled course designs
 - [[recommender-systems-and-learning-paths]]
+
+
 ## Connected Articles
 
 - [[pishtari-teacher-ai-training-learning-design-2026]] — When Teachers Use AI Chatbots and Are Trained for It: Impact on Learning Design Quality and Cognitive Effort

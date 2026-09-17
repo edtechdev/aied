@@ -21,7 +21,7 @@ confidence: high
 5. The authors call for more developmental research, product evaluation, and child-centered AI design grounded in these mechanisms.
 
 ## Discussion
-The paper brings a [[k-12|childhood-development]] perspective to the AI-in-education literature, extending the conversation beyond formal schooling into the everyday play environments where children increasingly encounter AI. Its framing of agency redistribution — distinguishing a toy that *organizes* play from one that *responds* to it — offers a design-relevant lens for [[pedagogical-agent|pedagogical agents]] and [[educational-robotics|educational robotics]] more broadly. By connecting AI toy design to child-centered development (imagination, language, attachment, trust), it foregrounds the [[agency]] and [[well-being]] considerations that formal [[ai-literacy|AI literacy]] curricula rarely reach. For the knowledge base, it broadens the [[ai-education]] domain toward early-childhood and informal learning, and complements the literature on conversational agents and [[embodied-learning|embodied]] AI in [[k-12|education]].
+The paper brings a [[k-12|childhood-development]] perspective to the AI-in-education literature, extending the conversation beyond formal schooling into the everyday play environments where children increasingly encounter AI. Its framing of agency redistribution — distinguishing a toy that *organizes* play from one that *responds* to it — offers a design-relevant lens for [[pedagogical-agent|pedagogical agents]] and [[educational-robotics|educational robotics]] more broadly. By connecting AI toy design to child-centered development (imagination, language, attachment, trust), it foregrounds the [[agency]] and [[well-being]] considerations that formal [[ai-literacy]] curricula rarely reach. For the knowledge base, it broadens the [[ai-education]] domain toward early-childhood and informal learning, and complements the literature on conversational agents and [[embodied-learning|embodied]] AI in [[k-12|education]].
 
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]]
@@ -37,7 +37,6 @@ The paper brings a [[k-12|childhood-development]] perspective to the AI-in-educa
 ## Connected Articles
 - [[roboblockly-conversational-block-robotics-ct-2026]] — Conversational Block Robotics and CT
 - [[ai-play-framework-early-childhood-2026]] — AI and Play in Early Childhood
-- [[educational-robotics]] — Robots in Education
 
 ## Citation
 Xu, Y., Girouard, L., & Shi, Z. (2026). [*Artificial Intelligence in Toys: Implications for Child Development and Play*](https://osf.io/preprints/edarxiv/62qsn_v1/). EdArXiv preprint.

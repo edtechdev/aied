@@ -41,7 +41,6 @@ sources: [raw/papers/2603.11444.md]
 ## Connected Articles
 
 - [[teachlm-post-training-llms-education]] — TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
-- [[simulating-students]] — Simulating Students
 
 ## Citation
 

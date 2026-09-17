@@ -27,7 +27,7 @@ Community-based AI learning reframes the goal of AI education away from treating
 
 This has concrete consequences for curriculum and pedagogy. For [[ai-education|educators]], the framework calls for structured opportunities for students to evaluate AI outputs against locally grounded criteria of relevance, harm, and usefulness—positioning AI as one interpretive resource within collective sense-making rather than abandoning technical rigor. For [[equity-in-ai-education|curriculum designers and policymakers]], it shifts [[ai-literacy|critical AI literacy]] from generalized awareness of sociopolitical issues toward situated engagement with AI's consequences for a specific community, including contexts where critical engagement may require limitation, refusal, or strategic non-use rather than building with AI.
 
-The framework's three commitments—epistemic fine-tuning, redistribution of authority, and situated discernment—connect AI learning to [[constructivist|constructionist]] traditions, in which learners externalize their understanding through the creation of shareable artifacts, and to community-driven learning that treats community knowledge as the evaluative standard. It grounds [[agency|learner agency]] in communities' collective judgment about the relationships they want to have with technology, rather than in individual mastery alone.
+The framework's three commitments—epistemic fine-tuning, redistribution of authority, and situated discernment—connect AI learning to [[constructivist|constructionist]] traditions, in which learners externalize their understanding through the creation of shareable artifacts, and to community-driven learning that treats community knowledge as the evaluative standard. It grounds [[agency]] in communities' collective judgment about the relationships they want to have with technology, rather than in individual mastery alone.
 
 ## Connected Concepts
 - [[ai-literacy]]
@@ -37,7 +37,6 @@ The framework's three commitments—epistemic fine-tuning, redistribution of aut
 - [[ai-education]]
 - [[culturally-relevant-pedagogy]]
 
-## Connected Articles
 - [[reducing-ai-misuse]]
 - [[equity-in-ai-education]]
 

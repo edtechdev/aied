@@ -10,7 +10,7 @@ sources: ['raw/papers/10.1016_j.caeai.2026.100616.md']
 confidence: high
 ---
 
-> **Synthesis:** Mehrnoush Mohammadi, Kamal Berahmand, Shazia Sadiq, & Hassan Khosravi (2026) propose **THyMeN (Temporal Hypergraph Memory Network)**, a hybrid model that augments memory-based [[knowledge-tracing|knowledge tracing]] with temporal hypergraph reasoning to capture dynamic higher-order concept interactions.
+> **Synthesis:** Mehrnoush Mohammadi, Kamal Berahmand, Shazia Sadiq, & Hassan Khosravi (2026) propose **THyMeN (Temporal Hypergraph Memory Network)**, a hybrid model that augments memory-based [[knowledge-tracing]] with temporal hypergraph reasoning to capture dynamic higher-order concept interactions.
 
 ## Key Findings
 
@@ -23,7 +23,7 @@ confidence: high
 
 ## Implications for AI in Education
 
-THyMeN advances [[knowledge-tracing|knowledge tracing]] toward explainable and pedagogically grounded learning support. By modeling how concepts interact within multi-concept questions, it produces more robust [[student-modeling|student knowledge models]] that support [[formative-assessment|formative]], [[adaptive-learning|adaptive]], and [[personalized-learning|personalized]] assessment, and informs [[learning-analytics]] dashboards for intervention design. The emphasis on practice diversity and composition-sensitive mastery aligns with learning-science findings that cognitively demanding, varied practice strengthens retention — capturing learning dynamics that earlier KT models treat as equivalent.
+THyMeN advances [[knowledge-tracing]] toward explainable and pedagogically grounded learning support. By modeling how concepts interact within multi-concept questions, it produces more robust [[student-modeling|student knowledge models]] that support [[formative-assessment|formative]], [[adaptive-learning|adaptive]], and [[personalized-learning|personalized]] assessment, and informs [[learning-analytics]] dashboards for intervention design. The emphasis on practice diversity and composition-sensitive mastery aligns with learning-science findings that cognitively demanding, varied practice strengthens retention — capturing learning dynamics that earlier KT models treat as equivalent.
 
 ## Connected Concepts
 
@@ -44,7 +44,6 @@ THyMeN advances [[knowledge-tracing|knowledge tracing]] toward explainable and p
 - [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Meta-Behavioral Knowledge Tracing
 - [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
 - [[stanbkt-bayesian-knowledge-tracing]] — Standardized Bayesian Knowledge Tracing
-- [[huang-interpretable-knowledge-tracing-2026]] — Knowledge Tracing and IRT
 
 ## Citation
 

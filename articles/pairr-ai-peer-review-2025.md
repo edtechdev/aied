@@ -27,7 +27,7 @@ This [[mixed-methods-research|mixed-methods]] study implemented PAIRR in 10 dist
 
 ## Implications for AI in Education
 
-The study offers a [[research-methods-aied|research]]-informed, human-centered model for integrating AI into [[formative-assessment]] in [[writing-education]]. It directly addresses the concern that AI feedback might remove humans from the assessment loop, showing that AI feedback only gains full utility when considered alongside the contextual knowledge and human connection that peers bring. The PAIRR model demonstrates how students' [[metacognition|critical assessment]] of AI outputs builds practical and critical [[ai-literacy]] while exercising writerly agency and discouraging [[cognitive-offloading|overreliance]]. It positions AI as a complement to — not a replacement for — peer and instructor feedback, relevant to [[ai-feedback-quality]], [[self-regulated-learning]], and efforts to bridge [[equity-in-ai-education|equity]] gaps in writing support. The authors recommend centering humans in AI-integrated feedback, emphasizing metacognitive reflection and agency, and cultivating critical AI literacies that highlight AI's limitations and biases.
+The study offers a [[research-methods-aied|research]]-informed, human-centered model for integrating AI into [[formative-assessment]] in [[writing-education]]. It directly addresses the concern that AI feedback might remove humans from the assessment loop, showing that AI feedback only gains full utility when considered alongside the contextual knowledge and human connection that peers bring. The PAIRR model demonstrates how students' [[metacognition|critical assessment]] of AI outputs builds practical and critical [[ai-literacy]] while exercising writerly agency and discouraging [[cognitive-offloading|overreliance]]. It positions AI as a complement to — not a replacement for — peer and instructor feedback, relevant to [[ai-feedback-quality]], [[self-regulated-learning]], and efforts to bridge [[equity-in-ai-education]] gaps in writing support. The authors recommend centering humans in AI-integrated feedback, emphasizing metacognitive reflection and agency, and cultivating critical AI literacies that highlight AI's limitations and biases.
 
 ## Limitations
 
@@ -47,7 +47,6 @@ The study's focus was on student perceptions of AI feedback utility, so it did n
 
 ## Connected Articles
 
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
 - [[multimodal-ai-feedback-learning]] — LLM-Based Multimodal AI Feedback Produces Equivalent Learning
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
