@@ -1,11 +1,27 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { FACET_FIELDS, FACET_DISPLAY_ORDER } from '../data/facetVocab';
 
 // Facet values that are concept slugs (the typed facet fields, plus a few
 // others like `benchmark`) read poorly in a filter dropdown as 'self-regulated-learning'.
 // Map them to their concept page titles for display. Values that are not concept
 // slugs ('higher ed', 'teachers') are left exactly as they are.
+
+// The filter bar: page-level fields first, then the topic facets in the one shared
+// display order, with the labels read from the generated facet source.
+const LABELS_MAP: Record<string, string> = Object.fromEntries(
+  FACET_FIELDS.map((f) => [f.field as string, f.label as string]),
+);
+const filterBar = [
+  { filter: 'page_type', label: 'Type' },
+  { filter: 'discipline', label: 'Discipline' },
+  { filter: 'level', label: 'Level' },
+  { filter: 'audience', label: 'Intended audience' },
+  { filter: 'research_method', label: 'Study design' },
+  ...(FACET_DISPLAY_ORDER as readonly string[]).map((field) => ({ filter: field, label: LABELS_MAP[field] || field })),
+  { filter: 'page_kind', label: 'Page kind' },
+];
 const concepts = await getCollection('concepts');
 const facetLabels: Record<string, string> = {};
 for (const c of concepts) {
@@ -25,20 +41,9 @@ for (const c of concepts) {
       <pagefind-input placeholder="Search articles, concepts, and FAQs..."></pagefind-input>
     </div>
     <div class="filter-bar">
-      <pagefind-filter-dropdown filter="page_type" label="Type"></pagefind-filter-dropdown>
-      <pagefind-filter-dropdown filter="discipline" label="Discipline"></pagefind-filter-dropdown>
-      <pagefind-filter-dropdown filter="level" label="Level"></pagefind-filter-dropdown>
-      <pagefind-filter-dropdown filter="audience" label="Intended audience"></pagefind-filter-dropdown>
-      <pagefind-filter-dropdown filter="page_kind" label="Page kind"></pagefind-filter-dropdown>
-      <pagefind-filter-dropdown filter="research_method" label="Study design"></pagefind-filter-dropdown>
-      <pagefind-filter-dropdown filter="pedagogy" label="Pedagogy"></pagefind-filter-dropdown>
-      <pagefind-filter-dropdown filter="technology" label="Technologies and techniques"></pagefind-filter-dropdown>
-      <pagefind-filter-dropdown filter="assessment" label="Assessment and measurement"></pagefind-filter-dropdown>
-      <pagefind-filter-dropdown filter="methods" label="Research methods"></pagefind-filter-dropdown>
-      <pagefind-filter-dropdown filter="stakeholders" label="People"></pagefind-filter-dropdown>
-      <pagefind-filter-dropdown filter="institutions" label="Institutions and policy"></pagefind-filter-dropdown>
-      <pagefind-filter-dropdown filter="ethics" label="Ethics"></pagefind-filter-dropdown>
-      <pagefind-filter-dropdown filter="foundations" label="Foundations"></pagefind-filter-dropdown>
+      {filterBar.map((f) => (
+        <pagefind-filter-dropdown filter={f.filter} label={f.label}></pagefind-filter-dropdown>
+      ))}
     </div>
     <pagefind-summary></pagefind-summary>
     <pagefind-results show-excerpt></pagefind-results>

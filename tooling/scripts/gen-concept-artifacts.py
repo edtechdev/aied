@@ -36,15 +36,18 @@ CONFIG_TS = os.path.join(WIKI, 'src', 'content.config.ts')
 # The registry section 'AI in the disciplines' is deliberately absent: it is
 # served by the hand-curated `discipline` field, whose values include school
 # subjects that have no concept page yet.
+# (field, label, registry section). The LABEL IS THE SECTION HEADING on purpose:
+# the sidebar, the search filters and the metadata table all read it from here, so a
+# section and its facet cannot end up with two different names.
 FACET_SECTIONS = [
-    ('foundations', 'Foundations', 'Foundations of AI in education'),
-    ('pedagogy', 'Pedagogy and learning', 'Learning and instruction'),
+    ('foundations', 'Foundations of AI in education', 'Foundations of AI in education'),
+    ('pedagogy', 'Learning and instruction', 'Learning and instruction'),
     ('technology', 'Technologies and techniques', 'Technologies and techniques'),
     ('assessment', 'Assessment and measurement', 'Assessment and measurement'),
-    ('methods', 'Research methods', 'Research methods and evaluation'),
+    ('methods', 'Research methods and evaluation', 'Research methods and evaluation'),
     ('stakeholders', 'People', 'People'),
     ('institutions', 'Institutions and policy', 'Institutions and policy'),
-    ('ethics', 'Ethics and equity', 'Equity, ethics, and responsible use'),
+    ('ethics', 'Equity, ethics, and responsible use', 'Equity, ethics, and responsible use'),
 ]
 
 FACET_VOCAB_HEADER = """// Typed metadata facet vocabularies, derived from concepts.registry.yaml.
@@ -235,6 +238,14 @@ def render_facet_vocab_ts(reg):
     out.append("export const FACET_FIELDS = [")
     for field, label, _ in labels:
         out.append(f"  {{ field: {ts_str(field)}, label: {ts_str(label)} }},")
+    out.append("] as const;")
+    out.append("")
+    out.append("// Display order for the topic facets, shared by the search filters and the")
+    out.append("// metadata table. Foundations sits next to Page kind at the end: the two")
+    out.append("// read least clearly as field names, so they are kept together and late.")
+    out.append("export const FACET_DISPLAY_ORDER = [")
+    for field in ('pedagogy', 'technology', 'assessment', 'methods', 'stakeholders', 'institutions', 'ethics', 'foundations'):
+        out.append(f"  {ts_str(field)},")
     out.append("] as const;")
     out.append("")
     return '\n'.join(out)

@@ -12,6 +12,7 @@
 // main breakpoint - each row becomes a stacked block: the field name on its own
 // line, its values underneath.
 import { METADATA_LINKS } from '../data/metadataLinks';
+import { FACET_VOCAB, FACET_FIELDS, FACET_DISPLAY_ORDER } from '../data/facetVocab';
 
 interface Props {
   // slug -> concept page title, for readable labels
@@ -22,20 +23,24 @@ interface Props {
 
 const { conceptTitles, data } = Astro.props;
 
-const FACETS = ['foundations', 'pedagogy', 'technology', 'assessment', 'methods', 'stakeholders', 'institutions', 'ethics'];
-const ROWS: { key: string; label: string }[] = [
+// Page-level fields first: they describe the page itself (how it was studied, who
+// it is for). Then the topic facets, in the one shared display order, read from the
+// generated labels so a facet can never be called something the sidebar does not.
+const PAGE_ROWS: { key: string; label: string }[] = [
   { key: 'research_method', label: 'Study design' },
   { key: 'discipline', label: 'Discipline' },
   { key: 'level', label: 'Level' },
   { key: 'audience', label: 'Intended audience' },
-  { key: 'pedagogy', label: 'Pedagogy' },
-  { key: 'technology', label: 'Technologies and techniques' },
-  { key: 'assessment', label: 'Assessment and measurement' },
-  { key: 'methods', label: 'Research methods' },
-  { key: 'stakeholders', label: 'People' },
-  { key: 'institutions', label: 'Institutions and policy' },
-  { key: 'ethics', label: 'Ethics' },
-  { key: 'foundations', label: 'Foundations' },
+];
+const FACET_LABELS_MAP: Record<string, string> = Object.fromEntries(
+  FACET_FIELDS.map((f) => [f.field as string, f.label as string]),
+);
+const ROWS: { key: string; label: string }[] = [
+  ...PAGE_ROWS,
+  ...(FACET_DISPLAY_ORDER as readonly string[]).map((field) => ({
+    key: field,
+    label: FACET_LABELS_MAP[field] || field,
+  })),
   { key: 'page_kind', label: 'Page kind' },
 ];
 
@@ -44,7 +49,7 @@ const titleCase = (s: string) =>
 
 const rows = ROWS.map((row) => {
   const values: string[] = Array.isArray(data[row.key]) ? data[row.key] : [];
-  const isFacet = FACETS.includes(row.key);
+  const isFacet = row.key in FACET_VOCAB;
   const items = values
     .filter((v) => typeof v === 'string' && v.trim() !== '')
     .map((value) => {

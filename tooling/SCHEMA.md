@@ -59,6 +59,12 @@ framework is not a page about frameworks, and that distinction is the reason the
 
 **Typed facet fields (added 2026-09-17):** `foundations`, `pedagogy`, `technology`, `assessment`, `stakeholders`, `ethics`. A flat tag list mixed kinds together — a pedagogy, a technology, an outcome and an ethical theme in one list. Each facet field holds only concepts of one kind, so the search facets can ask "show me pedagogy studies" directly. Every facet mirrors one section of `concepts.registry.yaml`:
 
+The UI label of every facet IS its registry section heading, read from the generated
+`FACET_FIELDS` in `src/data/facetVocab.ts`, so the sidebar, the search filters and the
+metadata table cannot call one section by three different names. The display order
+is generated too (`FACET_DISPLAY_ORDER`): page-level fields first, then the topics,
+with Foundations late, immediately before Page kind.
+
 - `foundations` ← Foundations of AI in education
 - `pedagogy` ← Learning and instruction (pedagogies, learning theories, learner processes)
 - `technology` ← Technologies and techniques (rendered **Technologies and techniques**; includes platforms, openness and technology adoption)
